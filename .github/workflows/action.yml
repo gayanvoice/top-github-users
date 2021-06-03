@@ -1,0 +1,19 @@
+name: GitHub Active Users
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+jobs:
+  release:
+    name: GitHub Active Users
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2.3.4
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.CUSTOM_TOKEN }}
+      - uses: actions/setup-node@v2.1.5
+        with:
+          node-version: 14.17.0
+      - uses: gayanvoice/github-active-users-monitor@master
+        env:
+          INSIGHTS_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
