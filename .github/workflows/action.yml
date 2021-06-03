@@ -2,6 +2,7 @@ name: GitHub Active Users
 on:
   schedule:
     - cron: '0 */6 * * *'
+  workflow_dispatch:
 jobs:
   release:
     name: GitHub Active Users
