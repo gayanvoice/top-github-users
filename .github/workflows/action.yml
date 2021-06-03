@@ -17,4 +17,4 @@ jobs:
           node-version: 14.17.0
       - uses: gayanvoice/github-active-users-monitor@master
         env:
-          INSIGHTS_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
+          CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
