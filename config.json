@@ -1,4 +1,5 @@
 {
+  "devMode": "true",
   "locations":[
     { "country":  "sri lanka", "cities": ["colombo"] }
   ]
