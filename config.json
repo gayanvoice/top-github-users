@@ -1,5 +1,5 @@
 {
-  "devMode": "true",
+  "devMode": "false",
   "locations":[
      { "country":  "sri lanka", "cities": ["colombo", "gampaha", "kaluthara", "kandy", "galle", "matara", "jaffna", "batticaloa"] }
   ]
