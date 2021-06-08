@@ -1,6 +1,7 @@
 {
   "devMode": "false",
   "locations":[
-     { "country":  "sri lanka", "cities": ["colombo", "gampaha", "kaluthara", "kandy", "galle", "matara", "jaffna", "batticaloa"] }
+    { "country":  "sri lanka", "cities": ["colombo", "kandy", "gampaha", "galle", "jaffna", "matara"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" },
+    { "country":  "india", "cities": ["mumbai", "delhi", "kolkata", "hyderabad", "bangalore", "chennai"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" }
   ]
 }
