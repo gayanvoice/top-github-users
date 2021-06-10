@@ -2,22 +2,22 @@
 
 <img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 
-The contributions to public and private repositories by users in Sri Lanka on `2021/6/10 6:12 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The contributions to public and private repositories by users in Sri Lanka on `2021/6/10 12:23 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
-There are `3 countries` can be found [here](https://github.com/gayanvoice/github-commits-top).
+There are `3 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `1000 users`  in Sri Lanka. You need at least `5 followers` to be on this list.
 
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/github-commits-top/blob/main/markdown/public_contributions/sri_lanka.md">Top Users By Public Contributions</a>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/sri_lanka.md">Top Users By Public Contributions</a>
 		</td>
 		<td>
 			<strong>Top Users By Total Contributions</strong>
 		</td>
 		<td>
-			<a href="https://github.com/gayanvoice/github-commits-top/blob/main/markdown/followers/sri_lanka.md">Top Users By Followers</a>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/sri_lanka.md">Top Users By Followers</a>
 		</td>
 	</tr>
 </table>
