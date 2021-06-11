@@ -1,14 +1,14 @@
-# Top GitHub Users By Country [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/207237845/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/207237845/week.md)
-[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/207237845/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/207237845/week.md)
+# Top GitHub Users By Country [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 
 <img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/11 6:18 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/11 10:00 AM UTC`.
 
 This repository contains users `3 countries/states` and `18 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
 
-The project maintained by [gayanvoice](https://github.com/gayanvoice/top-github-users). Don't forget to follow him on [GitHub](https://github.com/gayanvoice/top-github-users), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
+The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
 
 ### 🚀 Share on
 
