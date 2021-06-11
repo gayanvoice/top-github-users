@@ -1,8 +1,9 @@
-# 🔝 Top GitHub Users By Country
+# Top GitHub Users By Country [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/207237845/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/207237845/week.md)
+[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/207237845/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/207237845/week.md)
 
 <img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/11 12:38 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/11 5:32 AM UTC`.
 
 This repository contains users `3 countries/states` and `18 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/github-commits-top).
@@ -196,6 +197,7 @@ The project maintained by [gayanvoice](github.com). Don't forget to follow him o
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
 ## 📄 License
 
-- Repository: [gayanvoice/top-github-users-monitor](https://github.com/gayanvoice/top-github-users-monitor)
-- Template - [gayanvoice/gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
-- Code: [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
+- GitHub Action - [gayanvoice/top-github-users-monitor](https://github.com/gayanvoice/top-github-users-monitor)
+- Repository - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
+- Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+- Code - [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
