@@ -9,6 +9,6 @@
     { "country":  "afghanistan", "cities": ["kabul", "kandahar", "herat", "Kunduz", "lashkargah", "ghazni", "khost", "zaranj"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg" },
     { "country":  "maldives", "cities": ["malé", "addu"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg" },
     { "country":  "bhutan", "cities": ["thimphu", "phuntsholing", "phuntsholing", "gelephu"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg" },
-    { "country":  "china", "cities": ["beijing", "shanghai", "guangzhou", "shenzhen", "chongqing", "chengdu", "harbin", "tianjin"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" },
+    { "country":  "china", "cities": ["beijing", "shanghai", "guangzhou", "shenzhen", "chongqing", "chengdu", "harbin", "tianjin"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" }
   ]
 }
