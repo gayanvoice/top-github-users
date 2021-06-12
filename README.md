@@ -3,9 +3,9 @@
 
 <img align="right" width="200" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="Sri Lanka">
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/12 12:32 PM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/12 2:05 PM UTC`.
 
-This repository contains users `9 countries/states` and `56 cities`. 
+This repository contains users `10 countries/states` and `65 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
 
 The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -201,6 +201,24 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>Faisalabad</code> 
 			<code>Peshawar</code> 
 			<code>Quetta</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/russia.md">
+				Russia
+			</a>
+		</td>
+		<td>
+			<code>Moscow</code> 
+			<code>Saintpetersburg</code> 
+			<code>Yekaterinburg</code> 
+			<code>Novosibirsk</code> 
+			<code>Kazan</code> 
+			<code>Omsk</code> 
+			<code>Volgograd</code> 
+			<code>Chelyabinsk</code> 
+			<code>Krasnoyarsk</code> 
 		</td>
 	</tr>
 	<tr>
