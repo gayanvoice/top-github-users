@@ -15,6 +15,6 @@ jobs:
       - uses: actions/setup-node@v2.1.5
         with:
           node-version: 14.17.0
-      - uses: gayanvoice/top-github-users-monitor@1.0.1
+      - uses: gayanvoice/top-github-users-monitor@1.0.0
         env:
           CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
