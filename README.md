@@ -3,9 +3,9 @@
 
 <img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/12 11:10 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/12 12:27 PM UTC`.
 
-This repository contains users `3 countries/states` and `18 cities`. 
+This repository contains users `9 countries/states` and `56 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
 
 The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -83,6 +83,23 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/afghanistan.md">
+				Afghanistan
+			</a>
+		</td>
+		<td>
+			<code>Kabul</code> 
+			<code>Kandahar</code> 
+			<code>Herat</code> 
+			<code>Kunduz</code> 
+			<code>Lashkargah</code> 
+			<code>Ghazni</code> 
+			<code>Khost</code> 
+			<code>Zaranj</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bangladesh.md">
 				Bangladesh
 			</a>
@@ -98,6 +115,36 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bhutan.md">
+				Bhutan
+			</a>
+		</td>
+		<td>
+			<code>Thimphu</code> 
+			<code>Phuntsholing</code> 
+			<code>Phuntsholing</code> 
+			<code>Gelephu</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china.md">
+				China
+			</a>
+		</td>
+		<td>
+			<code>Beijing</code> 
+			<code>Shanghai</code> 
+			<code>Guangzhou</code> 
+			<code>Shenzhen</code> 
+			<code>Chongqing</code> 
+			<code>Chengdu</code> 
+			<code>Harbin</code> 
+			<code>Tianjin</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md">
 				India
 			</a>
@@ -109,6 +156,51 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>Hyderabad</code> 
 			<code>Bangalore</code> 
 			<code>Chennai</code> 
+			<code>Ahmedabad</code> 
+			<code>Jaipur</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/maldives.md">
+				Maldives
+			</a>
+		</td>
+		<td>
+			<code>Malé</code> 
+			<code>Addu</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/nepal.md">
+				Nepal
+			</a>
+		</td>
+		<td>
+			<code>Kathmandu</code> 
+			<code>Pokhara</code> 
+			<code>Lalitpur</code> 
+			<code>Bharatpur</code> 
+			<code>Biratnagar</code> 
+			<code>Birgunj</code> 
+			<code>Janakpur</code> 
+			<code>Hetauda</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/pakistan.md">
+				Pakistan
+			</a>
+		</td>
+		<td>
+			<code>Islamabad</code> 
+			<code>Karachi</code> 
+			<code>Lahore</code> 
+			<code>Faisalabad</code> 
+			<code>Peshawar</code> 
+			<code>Quetta</code> 
 		</td>
 	</tr>
 	<tr>
