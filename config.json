@@ -65,6 +65,13 @@
     { "country":  "czechia", "cities": ["prague", "brno", "ostrava", "pilsen", "olomouc"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" },
     { "country":  "democratic republic of the congo", "cities": ["kinshasa", "kisangani", "kananga", "mbuji-mayi", "mbandaka", "goma"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_the_Democratic_Republic_of_the_Congo_%283-2%29.svg" },
     { "country":  "denmark", "cities": ["copenhagen", "aarhus", "aalborg", "odense", "esbjerg", "kolding"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg" },
-    { "country":  "dominican republic", "cities": ["santo-domingo", "puerto-plata", "san-pedro-de-macoris", "santiago-de-los-caballeros", "higuey"], "imageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_the_Dominican_Republic.svg" }
+    { "country":  "dominican republic", "cities": ["santo-domingo", "puerto-plata", "san-pedro-de-macoris", "santiago-de-los-caballeros", "higuey"], "imageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_the_Dominican_Republic.svg" },
+    { "country":  "ecuador", "cities": ["quito", "guayaquil", "cuenca", "ambato", "manta"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" },
+    { "country":  "egypt", "cities": ["cairo", "luxor", "alexandria", "giza", "aswan"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" },
+    { "country":  "el salvador", "cities": ["san-salvador", "san-miguel", "santa-ana", "santa-tecla", "san-martin"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg" },
+    { "country":  "estonia", "cities": ["tallinn", "tartu", "pärnu", "narva", "kohtla-järve"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg" },
+    { "country":  "ethiopia", "cities": ["addis-ababa", "dire-dawa", "dire-dawa", "hawassa", "dessie"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" },
+    { "country":  "finland", "cities": ["helsinki", "tampere", "oulu", "espoo", "vantaa"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" },
+    { "country":  "france", "cities": ["paris", "marseille", "lyon", "bordeaux", "toulouse", "strasbourg", "nice", "nantes", "montpellier", "lille"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" } 
   ]
 }
