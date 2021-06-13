@@ -3,9 +3,9 @@
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html"><img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 
-</a>List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/13 10:19 AM UTC`.
+</a>List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/13 10:42 AM UTC`.
 
-This repository contains users `50 countries/states` and `329 cities`. 
+This repository contains users `62 countries/states` and `386 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
 
 The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -553,6 +553,20 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_fujian .md">
+				China Fujian 
+			</a>
+		</td>
+		<td>
+			<code>Fuzhou</code> 
+			<code>Xiamen </code> 
+			<code>Quanzhou</code> 
+			<code>Zhangzhou</code> 
+			<code>Nanping</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_guangdong.md">
 				China Guangdong
 			</a>
@@ -603,6 +617,20 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_heilongjiang .md">
+				China Heilongjiang 
+			</a>
+		</td>
+		<td>
+			<code>Harbin</code> 
+			<code>Qiqihar</code> 
+			<code>Suihua</code> 
+			<code>Daqing</code> 
+			<code>Mudanjiang</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_henan.md">
 				China Henan
 			</a>
@@ -616,6 +644,17 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>Xinyang</code> 
 			<code>Zhoukou</code> 
 			<code>Shangqiu</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_hong kong .md">
+				China Hong Kong 
+			</a>
+		</td>
+		<td>
+			<code>Hong-kong</code> 
+			<code>Kowloon</code> 
 		</td>
 	</tr>
 	<tr>
@@ -665,6 +704,50 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>Zhenjiang</code> 
 			<code>Nantong</code> 
 			<code>Taizhou</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_jiangxi .md">
+				China Jiangxi 
+			</a>
+		</td>
+		<td>
+			<code>Nanchang</code> 
+			<code>Ganzhou </code> 
+			<code>Shangrao</code> 
+			<code>Jiujiang</code> 
+			<code>Yichun</code> 
+			<code>Fuzhou</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_liaoning .md">
+				China Liaoning 
+			</a>
+		</td>
+		<td>
+			<code>Dalian</code> 
+			<code>Shenyang </code> 
+			<code>Anshan</code> 
+			<code>Dandong</code> 
+			<code>Yingkou</code> 
+			<code>Fushun</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_shaanxi .md">
+				China Shaanxi 
+			</a>
+		</td>
+		<td>
+			<code>Xi'an</code> 
+			<code>Baoji </code> 
+			<code>Xianyang</code> 
+			<code>Weinan</code> 
+			<code>Yulin</code> 
 		</td>
 	</tr>
 	<tr>
@@ -730,6 +813,75 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>Ningbo</code> 
 			<code>Taizhou</code> 
 			<code>Huzhou</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/colombia_.md">
+				Colombia 
+			</a>
+		</td>
+		<td>
+			<code>Bogotá</code> 
+			<code>Medellín</code> 
+			<code>Cali</code> 
+			<code>Cartagena</code> 
+			<code>Barranquilla</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/congo_.md">
+				Congo 
+			</a>
+		</td>
+		<td>
+			<code>Brazzaville</code> 
+			<code>Pointe-noire</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/croatia_.md">
+				Croatia 
+			</a>
+		</td>
+		<td>
+			<code>Zagreb</code> 
+			<code>Split</code> 
+			<code>Dubrovnik</code> 
+			<code>Rijeka</code> 
+			<code>Osijek</code> 
+			<code>Zadar</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/cyprus_.md">
+				Cyprus 
+			</a>
+		</td>
+		<td>
+			<code>Nicosia</code> 
+			<code>Limassol</code> 
+			<code>Larnaca</code> 
+			<code>Paphos</code> 
+			<code>Paralimni</code> 
+			<code>Famagusta</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/czechia_.md">
+				Czechia 
+			</a>
+		</td>
+		<td>
+			<code>Prague</code> 
+			<code>Brno</code> 
+			<code>Ostrava</code> 
+			<code>Pilsen</code> 
+			<code>Olomouc</code> 
 		</td>
 	</tr>
 	<tr>
@@ -858,6 +1010,19 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>Galle</code> 
 			<code>Jaffna</code> 
 			<code>Matara</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/taiwan_.md">
+				Taiwan 
+			</a>
+		</td>
+		<td>
+			<code>Taipei</code> 
+			<code>Kaohsiung</code> 
+			<code>Tainan</code> 
+			<code>Taichung </code> 
 		</td>
 	</tr>
 </table>
