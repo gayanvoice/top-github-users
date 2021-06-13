@@ -3,9 +3,9 @@
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html"><img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 
-</a>List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/13 9:38 AM UTC`.
+</a>List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/13 9:45 AM UTC`.
 
-This repository contains users `46 countries/states` and `299 cities`. 
+This repository contains users `50 countries/states` and `329 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
 
 The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -570,6 +570,25 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_guangxi .md">
+				China Guangxi 
+			</a>
+		</td>
+		<td>
+			<code>Nanning</code> 
+			<code>Guilin</code> 
+			<code>Liuzhou</code> 
+			<code>Chongzuo</code> 
+			<code>Baise</code> 
+			<code>Wuzhou</code> 
+			<code>Qinzhou</code> 
+			<code>Yulin</code> 
+			<code>Hechi</code> 
+			<code>Guigang</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_hebei.md">
 				China Hebei
 			</a>
@@ -597,6 +616,22 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>Xinyang</code> 
 			<code>Zhoukou</code> 
 			<code>Shangqiu</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_hubei.md">
+				China Hubei
+			</a>
+		</td>
+		<td>
+			<code>Wuhan</code> 
+			<code>Huanggang</code> 
+			<code>Xiangyang</code> 
+			<code>Xiaogan</code> 
+			<code>Jingzhou</code> 
+			<code>Shiyan</code> 
+			<code>Yichang</code> 
 		</td>
 	</tr>
 	<tr>
@@ -664,6 +699,37 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>Suining</code> 
 			<code>Luzhou</code> 
 			<code>Yibin</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_yunnan .md">
+				China Yunnan 
+			</a>
+		</td>
+		<td>
+			<code>Kunming</code> 
+			<code>Yuxi </code> 
+			<code>Qujing</code> 
+			<code>Baoshan</code> 
+			<code>Zhaotong</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_zhejiang .md">
+				China Zhejiang 
+			</a>
+		</td>
+		<td>
+			<code>Hangzhou</code> 
+			<code>Wenzhou</code> 
+			<code>Shaoxing</code> 
+			<code>Jiaxing</code> 
+			<code>Jinhua</code> 
+			<code>Ningbo</code> 
+			<code>Taizhou</code> 
+			<code>Huzhou</code> 
 		</td>
 	</tr>
 	<tr>
