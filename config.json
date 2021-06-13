@@ -5,12 +5,11 @@
     { "country":  "india", "cities": ["mumbai", "delhi", "kolkata", "hyderabad", "bangalore", "chennai", "ahmedabad", "jaipur"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" },
     { "country":  "pakistan", "cities": ["islamabad", "karachi", "lahore", "faisalabad", "peshawar", "quetta"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" },
     { "country":  "nepal", "cities": ["kathmandu", "pokhara", "lalitpur", "bharatpur", "biratnagar", "birgunj", "janakpur", "hetauda"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" },
-    { "country":  "afghanistan", "cities": ["kabul", "kandahar", "herat", "Kunduz", "lashkargah", "ghazni", "khost", "zaranj"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg" },
     { "country":  "maldives", "cities": ["malé", "addu-city"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg" },
-    { "country":  "china", "cities": ["beijing", "shanghai", "guangzhou", "shenzhen", "chongqing", "chengdu", "harbin", "tianjin"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" },
     { "country":  "russia", "cities": ["moscow", "saint-petersburg", "yekaterinburg", "novosibirsk", "kazan", "omsk", "volgograd", "chelyabinsk", "krasnoyarsk"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" },
     { "country":  "kazakhstan", "cities": ["almaty", "shymkent", "karagandy", "taraz", "nursultan", "pavlodar", "oskemen", "semey", "aktobe", "kostanay"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" },
     { "country":  "saudi arabia", "cities": ["riyadh", "jeddah", "mecca", "medina", "khamismushait", "dammam", "abha"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg" },
+    { "country":  "afghanistan", "cities": ["kabul", "kandahar", "herat", "Kunduz", "lashkargah", "ghazni", "khost", "zaranj"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg" },
     { "country":  "albania", "cities": ["tirana", "durrës", "vlorë", "elbasan", "shkodër", "kamëz", "fier", "korçë"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg" },
     { "country":  "algeria", "cities": ["algiers", "oran", "constantine", "batna", "djelfa", "sétif", "annaba", "sidibelabbès", "biskra", "tiaret"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" },
     { "country":  "andorra", "cities": ["andorra-la-vella", "santa-coloma", "la-margineda", "engolasters"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" },
@@ -32,7 +31,21 @@
     { "country":  "brazil", "cities": ["rio-de-janeiro", "são-paulo", "manaus", "brasilia", "fortaleza", "belém", "goiânia", "belo-horizonte", "Curitiba"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" },
     { "country":  "bulgaria", "cities": ["sofia", "varna", "plovdiv", "ruse", "stara-zagora"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" },
     { "country":  "burkina faso", "cities": ["ouagadougou", "bobo-dioulasso", "koudougou", "banfora", "ouahigouya"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" },
-    { "country":  "burundi", "cities": ["bujumbura", "gitega", "muyinga", "ruyigi", "ngozi"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg" }
-    
+    { "country":  "burundi", "cities": ["bujumbura", "gitega", "muyinga", "ruyigi", "ngozi"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg" },
+    { "country":  "cambodia", "cities": ["phnom-penh", "siem-reap", "preah-sihanouk", "krong-battambang", "krong-ta-khmau"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg" }
+    { "country":  "cameroon", "cities": ["yaoundé", "douala", "kumba", "bamenda", "garoua", "ngaoundere"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg" },
+    { "country":  "canada", "cities": ["Toronto", "Montreal", "Vancouver", "Calgary", "Edmonton", "Quebec  City", "Winnipeg", "Saskatoon", "Regina"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg" },
+    { "country":  "central african republic", "cities": ["bangui", "berbérati", "bimbo", "bambari"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg" },
+    { "country":  "chad", "cities": ["n'djamena", "moundou", "sarh", "abeche"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" },
+    { "country":  "chile", "cities": ["santiago", "valparaíso", "viña-del-mar", "arica", "temuco", "concepcion", "puerto-montt"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" },
+    { "country":  "china", "cities": ["beijing", "shanghai", "guangzhou", "shenzhen", "chongqing", "chengdu", "harbin", "tianjin"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" }, 
+    { "country":  "china guangdong", "cities": ["guangzhou", "shenzhen", "dongguan", "foshan", "zhuhai", "huizhou", "zhanjiang", "jiangmen"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" },
+    { "country":  "china shandong", "cities": ["jinan", "qingdao", "yantai", "weifang", "weihai", "tai'an", "zibo", "linyi"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" }, 
+    { "country":  "china henan", "cities": ["zhengzhou", "luoyang", "kaifeng", "nanyang", "anyang", "xinyang", "zhoukou", "shangqiu"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" }, 
+    { "country":  "china sichuan", "cities": ["chengdu", "leshan", "mianyang", "nanchong", "neijiang", "suining", "luzhou", "yibin"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" }, 
+    { "country":  "china jiangsu ", "cities": ["nanjing", "suzhou", "wuxi", "changzhou", "yangzhou", "zhenjiang", "nantong", "taizhou"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" }, 
+    { "country":  "china hebei", "cities": ["shijiazhuang", "baoding", "tangshan", "qinhuangdao", "zhangjiakou"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" }, 
+    { "country":  "china hunan", "cities": ["changsha", "yueyang", "hengyang", "changde", "shaoyang", "chenzhou", "huaihua"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" }, 
+    { "country":  "china anhui", "cities": ["hefei", "wuhu", "fuyang", "suzhou", "lu'an", "bozhou", "anqing"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" }
 ]
 }
