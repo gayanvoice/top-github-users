@@ -46,6 +46,10 @@
     { "country":  "china jiangsu", "cities": ["nanjing", "suzhou", "wuxi", "changzhou", "yangzhou", "zhenjiang", "nantong", "taizhou"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" }, 
     { "country":  "china hebei", "cities": ["shijiazhuang", "baoding", "tangshan", "qinhuangdao", "zhangjiakou"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" }, 
     { "country":  "china hunan", "cities": ["changsha", "yueyang", "hengyang", "changde", "shaoyang", "chenzhou", "huaihua"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" }, 
-    { "country":  "china anhui", "cities": ["hefei", "wuhu", "fuyang", "suzhou", "lu'an", "bozhou", "anqing"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" }
-]
+    { "country":  "china anhui", "cities": ["hefei", "wuhu", "fuyang", "suzhou", "lu'an", "bozhou", "anqing"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" },
+    { "country":  "china hubei", "cities": ["wuhan", "huanggang", "xiangyang", "xiaogan", "jingzhou", "shiyan", "yichang"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" },
+    { "country":  "china zhejiang ", "cities": ["hangzhou", "wenzhou", "shaoxing", "jiaxing", "jinhua", "ningbo", "taizhou", "huzhou"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" },
+    { "country":  "china guangxi ", "cities": ["nanning", "guilin", "liuzhou", "chongzuo", "baise", "wuzhou", "qinzhou", "yulin", "hechi", "guigang"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" },
+    { "country":  "china yunnan ", "cities": ["kunming", "yuxi ", "qujing", "baoshan", "zhaotong"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" }
+  ]
 }
