@@ -3,9 +3,9 @@
 
 <img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria">
 
-The `public contributions` and `private contributions` by users in Austria on `2021/6/13 3:43 AM UTC`. This list contains users from `Austria` and cities `Vienna` `Salzburg` `Innsbruck` `Linz` `Graz` `Klagenfurt` `Bregenz` `Villach`.
+The `public contributions` and `private contributions` by users in Austria on `2021/6/13 8:39 AM UTC`. This list contains users from `Austria` and cities `Vienna` `Salzburg` `Innsbruck` `Linz` `Graz` `Klagenfurt` `Bregenz` `Villach`.
 
-There are `21 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `46 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `100 users`  in Austria. You need at least `187 followers` to be on this list.
 
@@ -162,8 +162,8 @@ There are `100 users`  in Austria. You need at least `187 followers` to be on th
 		<td>@upleveled </td>
 		<td><a href="https://twitter.com/karlhorky">karlhorky</a></td>
 		<td>Vienna</td>
-		<td>2147</td>
-		<td>3722</td>
+		<td>2148</td>
+		<td>3723</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -429,7 +429,7 @@ There are `100 users`  in Austria. You need at least `187 followers` to be on th
 		<td><a href="https://twitter.com/maoberlehner">maoberlehner</a></td>
 		<td>Linz, Austria</td>
 		<td>399</td>
-		<td>1357</td>
+		<td>1358</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -722,8 +722,8 @@ There are `100 users`  in Austria. You need at least `187 followers` to be on th
 		<td>@aveq-research  </td>
 		<td>No Twitter Username</td>
 		<td>Vienna, Austria</td>
-		<td>566</td>
-		<td>566</td>
+		<td>567</td>
+		<td>567</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -778,8 +778,8 @@ There are `100 users`  in Austria. You need at least `187 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
-		<td>412</td>
-		<td>412</td>
+		<td>414</td>
+		<td>414</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -820,8 +820,8 @@ There are `100 users`  in Austria. You need at least `187 followers` to be on th
 		<td>Codista </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
-		<td>404</td>
-		<td>404</td>
+		<td>405</td>
+		<td>405</td>
 	</tr>
 	<tr>
 		<td>53</td>

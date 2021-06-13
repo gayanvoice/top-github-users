@@ -3,9 +3,9 @@
 
 <img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" alt="Austria">
 
-The `number of followers` of users in Austria on `2021/6/13 3:43 AM UTC`. This list contains users from `Austria` and cities `Vienna` `Salzburg` `Innsbruck` `Linz` `Graz` `Klagenfurt` `Bregenz` `Villach`.
+The `number of followers` of users in Austria on `2021/6/13 8:39 AM UTC`. This list contains users from `Austria` and cities `Vienna` `Salzburg` `Innsbruck` `Linz` `Graz` `Klagenfurt` `Bregenz` `Villach`.
 
-There are `21 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `46 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `100 users`  in Austria. You need at least `187 followers` to be on this list.
 
@@ -105,7 +105,7 @@ There are `100 users`  in Austria. You need at least `187 followers` to be on th
 		<td>Sentry </td>
 		<td>No Twitter Username</td>
 		<td>Austria</td>
-		<td>15827</td>
+		<td>15826</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -261,7 +261,7 @@ There are `100 users`  in Austria. You need at least `187 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
-		<td>899</td>
+		<td>900</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -768,7 +768,7 @@ There are `100 users`  in Austria. You need at least `187 followers` to be on th
 		<td>H2o.ai </td>
 		<td>No Twitter Username</td>
 		<td>Vienna</td>
-		<td>310</td>
+		<td>311</td>
 	</tr>
 	<tr>
 		<td>53</td>
