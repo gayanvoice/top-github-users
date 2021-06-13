@@ -1,0 +1,28 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+div.header{
+    position: absolute;
+    left: 50%;
+}
+div.header .description{
+    position: relative;
+    left: -50%;
+    border: dotted #000 1px;
+    padding: 4px;
+    background: #fbfbfb;
+}
+div.canvas{
+    padding: 28px 24px 0 24px;
+}
+div.footer{
+    position: absolute;
+    bottom: 0;
+}
+div.footer .description{
+    position: relative;
+    border: dotted #000 1px;
+    padding: 4px;
+    background: #fbfbfb;
+}
