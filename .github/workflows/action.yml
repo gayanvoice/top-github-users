@@ -1,7 +1,7 @@
 name: GitHub Active Users
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 jobs:
   release:
