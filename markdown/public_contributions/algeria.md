@@ -3,9 +3,9 @@
 
 <img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" alt="Algeria">
 
-The `public contributions` by users in Algeria on `2021/6/13 1:33 AM UTC`. This list contains users from `Algeria` and cities `Algiers` `Oran` `Constantine` `Batna` `Djelfa` `Sétif` `Annaba` `Sidibelabbès` `Biskra` `Tiaret`.
+The `public contributions` by users in Algeria on `2021/6/13 6:46 AM UTC`. This list contains users from `Algeria` and cities `Algiers` `Oran` `Constantine` `Batna` `Djelfa` `Sétif` `Annaba` `Sidibelabbès` `Biskra` `Tiaret`.
 
-There are `22 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `46 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `100 users`  in Algeria. You need at least `43 followers` to be on this list.
 
