@@ -17,7 +17,6 @@
     { "country":  "algeria", "cities": ["algiers", "oran", "constantine", "batna", "djelfa", "sétif", "annaba", "sidibelabbès", "biskra", "tiaret"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" },
     { "country":  "andorra", "cities": ["andorra-la-vella", "santa-coloma", "la-margineda", "engolasters"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" },
     { "country":  "angola", "cities": ["luanda", "cabinda ", "huambo", "lubango ", "kuito", "malanje ", "lobito", "benguela"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg" },
-    { "country":  "antigua and barbuda", "cities": ["saint-johns", "all-saints", "liberta ", "potters-village"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg" },
     { "country":  "argentina", "cities": ["buenos-aires", "cordoba", "rosario", "la-plata", "tucumán", "mar-del-plata", "salta", "santa-fe"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" },
     { "country":  "armenia", "cities": ["yerevan", "gyumri", "vanadzor", "vagharshapat", "abovyan "], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg" },
     { "country":  "australia", "cities": ["sydney", "melbourne", "perth", "adelaide", "brisbane", "canberra", "hobart", "gold-coast", "darwin"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" },
