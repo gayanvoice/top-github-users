@@ -3,9 +3,9 @@
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html"><img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 
-</a>List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/13 11:13 AM UTC`.
+</a>List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/13 11:25 AM UTC`.
 
-This repository contains users `65 countries/states` and `403 cities`. 
+This repository contains users `72 countries/states` and `443 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
 
 The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -926,6 +926,109 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>San-pedro-de-macoris</code> 
 			<code>Santiago-de-los-caballeros</code> 
 			<code>Higuey</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/ecuador.md">
+				Ecuador
+			</a>
+		</td>
+		<td>
+			<code>Quito</code> 
+			<code>Guayaquil</code> 
+			<code>Cuenca</code> 
+			<code>Ambato</code> 
+			<code>Manta</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/egypt.md">
+				Egypt
+			</a>
+		</td>
+		<td>
+			<code>Cairo</code> 
+			<code>Luxor</code> 
+			<code>Alexandria</code> 
+			<code>Giza</code> 
+			<code>Aswan</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/el_salvador.md">
+				El Salvador
+			</a>
+		</td>
+		<td>
+			<code>San-salvador</code> 
+			<code>San-miguel</code> 
+			<code>Santa-ana</code> 
+			<code>Santa-tecla</code> 
+			<code>San-martin</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/estonia.md">
+				Estonia
+			</a>
+		</td>
+		<td>
+			<code>Tallinn</code> 
+			<code>Tartu</code> 
+			<code>Pärnu</code> 
+			<code>Narva</code> 
+			<code>Kohtla-järve</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/ethiopia.md">
+				Ethiopia
+			</a>
+		</td>
+		<td>
+			<code>Addis-ababa</code> 
+			<code>Dire-dawa</code> 
+			<code>Dire-dawa</code> 
+			<code>Hawassa</code> 
+			<code>Dessie</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/finland.md">
+				Finland
+			</a>
+		</td>
+		<td>
+			<code>Helsinki</code> 
+			<code>Tampere</code> 
+			<code>Oulu</code> 
+			<code>Espoo</code> 
+			<code>Vantaa</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/france.md">
+				France
+			</a>
+		</td>
+		<td>
+			<code>Paris</code> 
+			<code>Marseille</code> 
+			<code>Lyon</code> 
+			<code>Bordeaux</code> 
+			<code>Toulouse</code> 
+			<code>Strasbourg</code> 
+			<code>Nice</code> 
+			<code>Nantes</code> 
+			<code>Montpellier</code> 
+			<code>Lille</code> 
 		</td>
 	</tr>
 	<tr>
