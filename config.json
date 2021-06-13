@@ -21,6 +21,6 @@
     { "country":  "armenia", "cities": ["yerevan", "gyumri", "vanadzor", "vagharshapat", "abovyan "], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg" },
     { "country":  "australia", "cities": ["sydney", "melbourne", "perth", "adelaide", "brisbane", "canberra", "hobart", "gold-coast", "darwin"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" },
     { "country":  "austria", "cities": ["vienna", "salzburg", "innsbruck", "linz", "graz", "klagenfurt", "bregenz", "villach"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" },
-    { "country":  "Azerbaijan", "cities": ["baku", "Ganja", "Sumqayit", "Mingecevir"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" }
+    { "country":  "azerbaijan", "cities": ["baku", "ganja", "sumqayit", "mingecevir"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" }
   ]
 }
