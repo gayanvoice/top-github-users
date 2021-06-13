@@ -3,9 +3,9 @@
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html"><img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 
-</a>List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/13 5:52 AM UTC`.
+</a>List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/13 6:11 AM UTC`.
 
-This repository contains users `32 countries/states` and `205 cities`. 
+This repository contains users `46 countries/states` and `299 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
 
 The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -431,6 +431,95 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/cambodia.md">
+				Cambodia
+			</a>
+		</td>
+		<td>
+			<code>Phnom-penh</code> 
+			<code>Siem-reap</code> 
+			<code>Preah-sihanouk</code> 
+			<code>Krong-battambang</code> 
+			<code>Krong-ta-khmau</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/cameroon.md">
+				Cameroon
+			</a>
+		</td>
+		<td>
+			<code>Yaoundé</code> 
+			<code>Douala</code> 
+			<code>Kumba</code> 
+			<code>Bamenda</code> 
+			<code>Garoua</code> 
+			<code>Ngaoundere</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/canada.md">
+				Canada
+			</a>
+		</td>
+		<td>
+			<code>Toronto</code> 
+			<code>Montreal</code> 
+			<code>Vancouver</code> 
+			<code>Calgary</code> 
+			<code>Edmonton</code> 
+			<code>Quebec  City</code> 
+			<code>Winnipeg</code> 
+			<code>Saskatoon</code> 
+			<code>Regina</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/central_african republic.md">
+				Central African Republic
+			</a>
+		</td>
+		<td>
+			<code>Bangui</code> 
+			<code>Berbérati</code> 
+			<code>Bimbo</code> 
+			<code>Bambari</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/chad.md">
+				Chad
+			</a>
+		</td>
+		<td>
+			<code>N'djamena</code> 
+			<code>Moundou</code> 
+			<code>Sarh</code> 
+			<code>Abeche</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/chile.md">
+				Chile
+			</a>
+		</td>
+		<td>
+			<code>Santiago</code> 
+			<code>Valparaíso</code> 
+			<code>Viña-del-mar</code> 
+			<code>Arica</code> 
+			<code>Temuco</code> 
+			<code>Concepcion</code> 
+			<code>Puerto-montt</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china.md">
 				China
 			</a>
@@ -444,6 +533,137 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>Chengdu</code> 
 			<code>Harbin</code> 
 			<code>Tianjin</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_anhui.md">
+				China Anhui
+			</a>
+		</td>
+		<td>
+			<code>Hefei</code> 
+			<code>Wuhu</code> 
+			<code>Fuyang</code> 
+			<code>Suzhou</code> 
+			<code>Lu'an</code> 
+			<code>Bozhou</code> 
+			<code>Anqing</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_guangdong.md">
+				China Guangdong
+			</a>
+		</td>
+		<td>
+			<code>Guangzhou</code> 
+			<code>Shenzhen</code> 
+			<code>Dongguan</code> 
+			<code>Foshan</code> 
+			<code>Zhuhai</code> 
+			<code>Huizhou</code> 
+			<code>Zhanjiang</code> 
+			<code>Jiangmen</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_hebei.md">
+				China Hebei
+			</a>
+		</td>
+		<td>
+			<code>Shijiazhuang</code> 
+			<code>Baoding</code> 
+			<code>Tangshan</code> 
+			<code>Qinhuangdao</code> 
+			<code>Zhangjiakou</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_henan.md">
+				China Henan
+			</a>
+		</td>
+		<td>
+			<code>Zhengzhou</code> 
+			<code>Luoyang</code> 
+			<code>Kaifeng</code> 
+			<code>Nanyang</code> 
+			<code>Anyang</code> 
+			<code>Xinyang</code> 
+			<code>Zhoukou</code> 
+			<code>Shangqiu</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_hunan.md">
+				China Hunan
+			</a>
+		</td>
+		<td>
+			<code>Changsha</code> 
+			<code>Yueyang</code> 
+			<code>Hengyang</code> 
+			<code>Changde</code> 
+			<code>Shaoyang</code> 
+			<code>Chenzhou</code> 
+			<code>Huaihua</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_jiangsu.md">
+				China Jiangsu
+			</a>
+		</td>
+		<td>
+			<code>Nanjing</code> 
+			<code>Suzhou</code> 
+			<code>Wuxi</code> 
+			<code>Changzhou</code> 
+			<code>Yangzhou</code> 
+			<code>Zhenjiang</code> 
+			<code>Nantong</code> 
+			<code>Taizhou</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_shandong.md">
+				China Shandong
+			</a>
+		</td>
+		<td>
+			<code>Jinan</code> 
+			<code>Qingdao</code> 
+			<code>Yantai</code> 
+			<code>Weifang</code> 
+			<code>Weihai</code> 
+			<code>Tai'an</code> 
+			<code>Zibo</code> 
+			<code>Linyi</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_sichuan.md">
+				China Sichuan
+			</a>
+		</td>
+		<td>
+			<code>Chengdu</code> 
+			<code>Leshan</code> 
+			<code>Mianyang</code> 
+			<code>Nanchong</code> 
+			<code>Neijiang</code> 
+			<code>Suining</code> 
+			<code>Luzhou</code> 
+			<code>Yibin</code> 
 		</td>
 	</tr>
 	<tr>
