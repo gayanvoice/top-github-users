@@ -3,12 +3,10 @@
   "locations":[
     { "country":  "sri lanka", "cities": ["colombo", "kandy", "gampaha", "galle", "jaffna", "matara"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" },
     { "country":  "india", "cities": ["mumbai", "delhi", "kolkata", "hyderabad", "bangalore", "chennai", "ahmedabad", "jaipur"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" },
-    { "country":  "bangladesh", "cities": ["dhaka", "mymensingh", "rajshahi", "rangpur", "chittagong", "khulna"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" },
     { "country":  "pakistan", "cities": ["islamabad", "karachi", "lahore", "faisalabad", "peshawar", "quetta"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" },
     { "country":  "nepal", "cities": ["kathmandu", "pokhara", "lalitpur", "bharatpur", "biratnagar", "birgunj", "janakpur", "hetauda"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" },
     { "country":  "afghanistan", "cities": ["kabul", "kandahar", "herat", "Kunduz", "lashkargah", "ghazni", "khost", "zaranj"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg" },
     { "country":  "maldives", "cities": ["malé", "addu-city"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg" },
-    { "country":  "bhutan", "cities": ["thimphu", "phuntsholing", "phuntsholing", "gelephu"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg" },
     { "country":  "china", "cities": ["beijing", "shanghai", "guangzhou", "shenzhen", "chongqing", "chengdu", "harbin", "tianjin"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" },
     { "country":  "russia", "cities": ["moscow", "saint-petersburg", "yekaterinburg", "novosibirsk", "kazan", "omsk", "volgograd", "chelyabinsk", "krasnoyarsk"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" },
     { "country":  "kazakhstan", "cities": ["almaty", "shymkent", "karagandy", "taraz", "nursultan", "pavlodar", "oskemen", "semey", "aktobe", "kostanay"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" },
@@ -21,6 +19,20 @@
     { "country":  "armenia", "cities": ["yerevan", "gyumri", "vanadzor", "vagharshapat", "abovyan "], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg" },
     { "country":  "australia", "cities": ["sydney", "melbourne", "perth", "adelaide", "brisbane", "canberra", "hobart", "gold-coast", "darwin"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" },
     { "country":  "austria", "cities": ["vienna", "salzburg", "innsbruck", "linz", "graz", "klagenfurt", "bregenz", "villach"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" },
-    { "country":  "azerbaijan", "cities": ["baku", "ganja", "sumqayit", "mingecevir"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" }
-  ]
+    { "country":  "azerbaijan", "cities": ["baku", "ganja", "sumqayit", "mingecevir"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" },
+    { "country":  "bahrain", "cities": ["nassau", "riffa", "muharraq"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg" },
+    { "country":  "bangladesh", "cities": ["dhaka", "mymensingh", "rajshahi", "rangpur", "chittagong", "khulna"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" },
+    { "country":  "belarus", "cities": ["minsk", "gomel", "grodno", "mogilev", "brest"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg" },
+    { "country":  "belgium", "cities": ["antwerp", "brussels", "ghent", "bruges", "leuven", "liège", "namur"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" },
+    { "country":  "benin", "cities": ["cotonou", "porto-novo", "parakou", "kandi", "abomey-calavi"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg" },
+    { "country":  "bhutan", "cities": ["thimphu", "phuntsholing", "phuntsholing", "gelephu"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg" },
+    { "country":  "bolivia", "cities": ["la-paz", "cochabamba", "santa-cruz-de-la-sierra", "sucre", "el-alto"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandera_de_Bolivia_%28Estado%29.svg" },
+    { "country":  "bosnia and herzegovina", "cities": ["sarajevo", "mostar", "tuzla", "zenica", "brčko"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" },
+    { "country":  "botswana", "cities": ["gaborone", "francistown", "maun", "serowe", "molepolole"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg" },
+    { "country":  "brazil", "cities": ["rio-de-janeiro", "são-paulo", "manaus", "brasilia", "fortaleza", "belém", "goiânia", "belo-horizonte", "Curitiba"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" },
+    { "country":  "bulgaria", "cities": ["sofia", "varna", "plovdiv", "ruse", "stara-zagora"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" },
+    { "country":  "burkina faso", "cities": ["ouagadougou", "bobo-dioulasso", "koudougou", "banfora", "ouahigouya"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" },
+    { "country":  "burundi", "cities": ["bujumbura", "gitega", "muyinga", "ruyigi", "ngozi"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg" }
+    
+]
 }
