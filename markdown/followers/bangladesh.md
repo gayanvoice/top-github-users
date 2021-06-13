@@ -3,9 +3,9 @@
 
 <img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh">
 
-The `number of followers` of users in Bangladesh on `2021/6/13 4:56 AM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
+The `number of followers` of users in Bangladesh on `2021/6/13 9:38 AM UTC`. This list contains users from `Bangladesh` and cities `Dhaka` `Mymensingh` `Rajshahi` `Rangpur` `Chittagong` `Khulna`.
 
-There are `21 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `46 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `100 users`  in Bangladesh. You need at least `145 followers` to be on this list.
 
@@ -105,7 +105,7 @@ There are `100 users`  in Bangladesh. You need at least `145 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/abuanwar072">abuanwar072</a></td>
 		<td>Dhaka, Bangladesh</td>
-		<td>5212</td>
+		<td>5218</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -144,7 +144,7 @@ There are `100 users`  in Bangladesh. You need at least `145 followers` to be on
 		<td>Thbd ✅ </td>
 		<td>No Twitter Username</td>
 		<td>Dhaka</td>
-		<td>2611</td>
+		<td>2613</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -157,7 +157,7 @@ There are `100 users`  in Bangladesh. You need at least `145 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/romanofficialbd">romanofficialbd</a></td>
 		<td>Dhaka, Bangladesh</td>
-		<td>1371</td>
+		<td>1372</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -183,7 +183,7 @@ There are `100 users`  in Bangladesh. You need at least `145 followers` to be on
 		<td>Stack Learner </td>
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
-		<td>1166</td>
+		<td>1167</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -235,7 +235,7 @@ There are `100 users`  in Bangladesh. You need at least `145 followers` to be on
 		<td>@themered  </td>
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
-		<td>930</td>
+		<td>932</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -248,7 +248,7 @@ There are `100 users`  in Bangladesh. You need at least `145 followers` to be on
 		<td>Telenor Health </td>
 		<td>No Twitter Username</td>
 		<td>Bangladesh</td>
-		<td>762</td>
+		<td>763</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -287,7 +287,7 @@ There are `100 users`  in Bangladesh. You need at least `145 followers` to be on
 		<td>Learn With Sumit </td>
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
-		<td>646</td>
+		<td>648</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -326,7 +326,7 @@ There are `100 users`  in Bangladesh. You need at least `145 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
-		<td>602</td>
+		<td>601</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -495,7 +495,7 @@ There are `100 users`  in Bangladesh. You need at least `145 followers` to be on
 		<td>Programming Hero </td>
 		<td>No Twitter Username</td>
 		<td>Dhaka, Bangladesh</td>
-		<td>350</td>
+		<td>351</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -552,19 +552,6 @@ There are `100 users`  in Bangladesh. You need at least `145 followers` to be on
 	<tr>
 		<td>36</td>
 		<td>
-			<a href="https://github.com/ryihan">
-				<img src="https://avatars.githubusercontent.com/u/54474184?s=72&u=07bb013155e3ba124f9bb52968af09f026645810&v=4" width="24" alt="Avatar of ryihan"> ryihan
-			</a><br/>
-			Md Raihan
-		</td>
-		<td> Shadow Developers Inc<br/></td>
-		<td>No Twitter Username</td>
-		<td>Dhaka Bangladesh</td>
-		<td>321</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
 			<a href="https://github.com/rokon12">
 				<img src="https://avatars.githubusercontent.com/u/429073?s=72&u=9bafb55393588b936ec55553f9577248385af156&v=4" width="24" alt="Avatar of rokon12"> rokon12
 			</a><br/>
@@ -574,6 +561,19 @@ There are `100 users`  in Bangladesh. You need at least `145 followers` to be on
 		<td><a href="https://twitter.com/bazlur_rahman">bazlur_rahman</a></td>
 		<td>Mirpuri, Dhaka, Bangladesh</td>
 		<td>321</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/ryihan">
+				<img src="https://avatars.githubusercontent.com/u/54474184?s=72&u=07bb013155e3ba124f9bb52968af09f026645810&v=4" width="24" alt="Avatar of ryihan"> ryihan
+			</a><br/>
+			Md Raihan
+		</td>
+		<td> Shadow Developers Inc<br/></td>
+		<td>No Twitter Username</td>
+		<td>Dhaka Bangladesh</td>
+		<td>320</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -690,7 +690,7 @@ There are `100 users`  in Bangladesh. You need at least `145 followers` to be on
 		<td>@sayburgh-solutions  </td>
 		<td><a href="https://twitter.com/frhnhsin">frhnhsin</a></td>
 		<td>Bangladesh</td>
-		<td>266</td>
+		<td>267</td>
 	</tr>
 	<tr>
 		<td>47</td>
