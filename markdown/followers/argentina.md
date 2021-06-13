@@ -3,9 +3,9 @@
 
 <img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina">
 
-The `number of followers` of users in Argentina on `2021/6/13 3:16 AM UTC`. This list contains users from `Argentina` and cities `Buenos-aires` `Cordoba` `Rosario` `La-plata` `Tucumán` `Mar-del-plata` `Salta` `Santa-fe`.
+The `number of followers` of users in Argentina on `2021/6/13 7:44 AM UTC`. This list contains users from `Argentina` and cities `Buenos-aires` `Cordoba` `Rosario` `La-plata` `Tucumán` `Mar-del-plata` `Salta` `Santa-fe`.
 
-There are `21 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `46 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `100 users`  in Argentina. You need at least `149 followers` to be on this list.
 
@@ -456,7 +456,7 @@ There are `100 users`  in Argentina. You need at least `149 followers` to be on 
 		<td>@profunktor  </td>
 		<td><a href="https://twitter.com/volpegabriel87">volpegabriel87</a></td>
 		<td>Buenos Aires, Argentina</td>
-		<td>433</td>
+		<td>434</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -482,7 +482,7 @@ There are `100 users`  in Argentina. You need at least `149 followers` to be on 
 		<td>@vercel  </td>
 		<td><a href="https://twitter.com/okbel">okbel</a></td>
 		<td>Buenos Aires</td>
-		<td>400</td>
+		<td>401</td>
 	</tr>
 	<tr>
 		<td>31</td>
