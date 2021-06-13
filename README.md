@@ -3,9 +3,9 @@
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html"><img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 
-</a>List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/13 10:53 AM UTC`.
+</a>List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/13 11:02 AM UTC`.
 
-This repository contains users `62 countries/states` and `386 cities`. 
+This repository contains users `65 countries/states` and `403 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
 
 The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -553,8 +553,8 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_fujian .md">
-				China Fujian 
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_fujian.md">
+				China Fujian
 			</a>
 		</td>
 		<td>
@@ -617,8 +617,8 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_heilongjiang .md">
-				China Heilongjiang 
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_heilongjiang.md">
+				China Heilongjiang
 			</a>
 		</td>
 		<td>
@@ -648,8 +648,8 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_hong kong .md">
-				China Hong Kong 
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_hong kong.md">
+				China Hong Kong
 			</a>
 		</td>
 		<td>
@@ -708,8 +708,8 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_jiangxi .md">
-				China Jiangxi 
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_jiangxi.md">
+				China Jiangxi
 			</a>
 		</td>
 		<td>
@@ -723,8 +723,8 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_liaoning .md">
-				China Liaoning 
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_liaoning.md">
+				China Liaoning
 			</a>
 		</td>
 		<td>
@@ -738,8 +738,8 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_shaanxi .md">
-				China Shaanxi 
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_shaanxi.md">
+				China Shaanxi
 			</a>
 		</td>
 		<td>
@@ -786,8 +786,8 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_yunnan .md">
-				China Yunnan 
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_yunnan.md">
+				China Yunnan
 			</a>
 		</td>
 		<td>
@@ -800,8 +800,8 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_zhejiang .md">
-				China Zhejiang 
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/china_zhejiang.md">
+				China Zhejiang
 			</a>
 		</td>
 		<td>
@@ -817,8 +817,8 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/colombia_.md">
-				Colombia 
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/colombia.md">
+				Colombia
 			</a>
 		</td>
 		<td>
@@ -831,8 +831,8 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/congo_.md">
-				Congo 
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/congo.md">
+				Congo
 			</a>
 		</td>
 		<td>
@@ -842,8 +842,8 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/croatia_.md">
-				Croatia 
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/croatia.md">
+				Croatia
 			</a>
 		</td>
 		<td>
@@ -857,8 +857,8 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/cyprus_.md">
-				Cyprus 
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/cyprus.md">
+				Cyprus
 			</a>
 		</td>
 		<td>
@@ -872,8 +872,8 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/czechia_.md">
-				Czechia 
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/czechia.md">
+				Czechia
 			</a>
 		</td>
 		<td>
@@ -882,6 +882,50 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>Ostrava</code> 
 			<code>Pilsen</code> 
 			<code>Olomouc</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/democratic_republic of the congo.md">
+				Democratic Republic Of The Congo
+			</a>
+		</td>
+		<td>
+			<code>Kinshasa</code> 
+			<code>Kisangani</code> 
+			<code>Kananga</code> 
+			<code>Mbuji-mayi</code> 
+			<code>Mbandaka</code> 
+			<code>Goma</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/denmark.md">
+				Denmark
+			</a>
+		</td>
+		<td>
+			<code>Copenhagen</code> 
+			<code>Aarhus</code> 
+			<code>Aalborg</code> 
+			<code>Odense</code> 
+			<code>Esbjerg</code> 
+			<code>Kolding</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/dominican_republic.md">
+				Dominican Republic
+			</a>
+		</td>
+		<td>
+			<code>Santo-domingo</code> 
+			<code>Puerto-plata</code> 
+			<code>San-pedro-de-macoris</code> 
+			<code>Santiago-de-los-caballeros</code> 
+			<code>Higuey</code> 
 		</td>
 	</tr>
 	<tr>
@@ -1014,8 +1058,8 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/taiwan_.md">
-				Taiwan 
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/taiwan.md">
+				Taiwan
 			</a>
 		</td>
 		<td>
