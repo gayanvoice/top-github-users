@@ -3,9 +3,9 @@
 
 <img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Azerbaijan">
 
-The `public contributions` by users in Azerbaijan on `2021/6/13 3:48 AM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
+The `public contributions` by users in Azerbaijan on `2021/6/13 8:52 AM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
 
-There are `21 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `46 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on this list.
 
@@ -487,19 +487,6 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 	<tr>
 		<td>31</td>
 		<td>
-			<a href="https://github.com/rufat">
-				<img src="https://avatars.githubusercontent.com/u/5330471?s=72&u=fe3f82dabc4711fbbe8f9c90a81d41cd05253d7b&v=4" width="24" alt="Avatar of rufat"> rufat
-			</a><br/>
-			Rufat
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/rufatmammadli">rufatmammadli</a></td>
-		<td>Azerbaijan, Baku</td>
-		<td>108</td>
-	</tr>
-	<tr>
-		<td>32</td>
-		<td>
 			<a href="https://github.com/NigarMovsumova">
 				<img src="https://avatars.githubusercontent.com/u/17670764?s=72&u=d7a8d19a684e2aabb793023efa4842bd2b90952e&v=4" width="24" alt="Avatar of NigarMovsumova"> NigarMovsumova
 			</a><br/>
@@ -508,6 +495,19 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Baku, Azerbaijan</td>
+		<td>109</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
+			<a href="https://github.com/rufat">
+				<img src="https://avatars.githubusercontent.com/u/5330471?s=72&u=fe3f82dabc4711fbbe8f9c90a81d41cd05253d7b&v=4" width="24" alt="Avatar of rufat"> rufat
+			</a><br/>
+			Rufat
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/rufatmammadli">rufatmammadli</a></td>
+		<td>Azerbaijan, Baku</td>
 		<td>108</td>
 	</tr>
 	<tr>
