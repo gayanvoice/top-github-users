@@ -3,9 +3,9 @@
 
 <img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia">
 
-The `public contributions` by users in Australia on `2021/6/13 3:29 AM UTC`. This list contains users from `Australia` and cities `Sydney` `Melbourne` `Perth` `Adelaide` `Brisbane` `Canberra` `Hobart` `Gold-coast` `Darwin`.
+The `public contributions` by users in Australia on `2021/6/13 8:18 AM UTC`. This list contains users from `Australia` and cities `Sydney` `Melbourne` `Perth` `Adelaide` `Brisbane` `Canberra` `Hobart` `Gold-coast` `Darwin`.
 
-There are `21 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `46 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `100 users`  in Australia. You need at least `559 followers` to be on this list.
 
@@ -326,7 +326,7 @@ There are `100 users`  in Australia. You need at least `559 followers` to be on 
 		<td>Microsoft </td>
 		<td><a href="https://twitter.com/anthonypjshaw">anthonypjshaw</a></td>
 		<td>Sydney, Australia</td>
-		<td>971</td>
+		<td>974</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -695,6 +695,19 @@ There are `100 users`  in Australia. You need at least `559 followers` to be on 
 	<tr>
 		<td>47</td>
 		<td>
+			<a href="https://github.com/drnic">
+				<img src="https://avatars.githubusercontent.com/u/108?s=72&u=2cbfc0fbb4f9ff7a485ee1930ce1ff6872120d47&v=4" width="24" alt="Avatar of drnic"> drnic
+			</a><br/>
+			Dr Nic Williams
+		</td>
+		<td>Stark & Wayne Llc<br/>@starkandwayne<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Brisbane, Australia</td>
+		<td>193</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td>
 			<a href="https://github.com/benschwarz">
 				<img src="https://avatars.githubusercontent.com/u/924?s=72&u=1e6ffd8b62a28e4fe443253648bf26220f9d93bd&v=4" width="24" alt="Avatar of benschwarz"> benschwarz
 			</a><br/>
@@ -704,19 +717,6 @@ There are `100 users`  in Australia. You need at least `559 followers` to be on 
 		<td><a href="https://twitter.com/benschwarz">benschwarz</a></td>
 		<td>Melbourne, Australia</td>
 		<td>188</td>
-	</tr>
-	<tr>
-		<td>48</td>
-		<td>
-			<a href="https://github.com/drnic">
-				<img src="https://avatars.githubusercontent.com/u/108?s=72&u=2cbfc0fbb4f9ff7a485ee1930ce1ff6872120d47&v=4" width="24" alt="Avatar of drnic"> drnic
-			</a><br/>
-			Dr Nic Williams
-		</td>
-		<td>Stark & Wayne Llc<br/>@starkandwayne<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Brisbane, Australia</td>
-		<td>179</td>
 	</tr>
 	<tr>
 		<td>49</td>

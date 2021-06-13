@@ -3,9 +3,9 @@
 
 <img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg" alt="Australia">
 
-The `public contributions` and `private contributions` by users in Australia on `2021/6/13 3:29 AM UTC`. This list contains users from `Australia` and cities `Sydney` `Melbourne` `Perth` `Adelaide` `Brisbane` `Canberra` `Hobart` `Gold-coast` `Darwin`.
+The `public contributions` and `private contributions` by users in Australia on `2021/6/13 8:18 AM UTC`. This list contains users from `Australia` and cities `Sydney` `Melbourne` `Perth` `Adelaide` `Brisbane` `Canberra` `Hobart` `Gold-coast` `Darwin`.
 
-There are `21 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `46 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `100 users`  in Australia. You need at least `559 followers` to be on this list.
 
@@ -176,8 +176,8 @@ There are `100 users`  in Australia. You need at least `559 followers` to be on 
 		<td>Stark & Wayne Llc<br/>@starkandwayne<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Brisbane, Australia</td>
-		<td>179</td>
-		<td>3185</td>
+		<td>193</td>
+		<td>3199</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -568,8 +568,8 @@ There are `100 users`  in Australia. You need at least `559 followers` to be on 
 		<td>Microsoft </td>
 		<td><a href="https://twitter.com/anthonypjshaw">anthonypjshaw</a></td>
 		<td>Sydney, Australia</td>
-		<td>971</td>
-		<td>971</td>
+		<td>974</td>
+		<td>974</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -737,7 +737,7 @@ There are `100 users`  in Australia. You need at least `559 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Melbourne</td>
 		<td>258</td>
-		<td>428</td>
+		<td>433</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -1045,7 +1045,7 @@ There are `100 users`  in Australia. You need at least `559 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Melbourne, Australia (& Shanghai, China)</td>
 		<td>89</td>
-		<td>138</td>
+		<td>143</td>
 	</tr>
 	<tr>
 		<td>69</td>
