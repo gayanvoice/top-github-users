@@ -34,7 +34,7 @@
     { "country":  "burundi", "cities": ["bujumbura", "gitega", "muyinga", "ruyigi", "ngozi"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg" },
     { "country":  "cambodia", "cities": ["phnom-penh", "siem-reap", "preah-sihanouk", "krong-battambang", "krong-ta-khmau"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg" },
     { "country":  "cameroon", "cities": ["yaoundé", "douala", "kumba", "bamenda", "garoua", "ngaoundere"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg" },
-    { "country":  "canada", "cities": ["Toronto", "Montreal", "Vancouver", "Calgary", "Edmonton", "Quebec  City", "Winnipeg", "Saskatoon", "Regina"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg" },
+    { "country":  "canada", "cities": ["toronto", "montreal", "vancouver", "calgary", "edmonton", "quebec-city", "winnipeg", "saskatoon", "regina"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg" },
     { "country":  "central african republic", "cities": ["bangui", "berbérati", "bimbo", "bambari"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg" },
     { "country":  "chad", "cities": ["n'djamena", "moundou", "sarh", "abeche"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" },
     { "country":  "chile", "cities": ["santiago", "valparaíso", "viña-del-mar", "arica", "temuco", "concepcion", "puerto-montt"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" },
