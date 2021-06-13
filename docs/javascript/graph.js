@@ -12,7 +12,7 @@ let graph = function () {
         return await fetch(rankingJsonFilePath).then(response => response.json());
     }
     let getCountriesJsonFile = async function () {
-        const rankingJsonFilePath = `../public/json/countries-50m.json`;
+        const rankingJsonFilePath = `./json/countries-50m.json`;
         return fetch(rankingJsonFilePath).then(response => response.json());
     }
     let main = async function () {
