@@ -3,9 +3,9 @@
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html"><img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 
-</a>List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/13 2:28 AM UTC`.
+</a>List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/13 3:16 AM UTC`.
 
-This repository contains users `22 countries/states` and `150 cities`. 
+This repository contains users `21 countries/states` and `146 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
 
 The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -175,19 +175,6 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>Malanje </code> 
 			<code>Lobito</code> 
 			<code>Benguela</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/antigua_and barbuda.md">
-				Antigua And Barbuda
-			</a>
-		</td>
-		<td>
-			<code>Saint-johns</code> 
-			<code>All-saints</code> 
-			<code>Liberta </code> 
-			<code>Potters-village</code> 
 		</td>
 	</tr>
 	<tr>
