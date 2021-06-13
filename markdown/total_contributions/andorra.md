@@ -3,9 +3,9 @@
 
 <img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 
-The `public contributions` and `private contributions` by users in Andorra on `2021/6/13 2:18 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2021/6/13 7:03 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
-There are `22 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `46 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `95 users`  in Andorra. You need at least `0 followers` to be on this list.
 
@@ -177,7 +177,7 @@ There are `95 users`  in Andorra. You need at least `0 followers` to be on this 
 		<td><a href="https://twitter.com/franc">franc</a></td>
 		<td>Andorra la Vella, Andorra, Europe</td>
 		<td>16</td>
-		<td>740</td>
+		<td>741</td>
 	</tr>
 	<tr>
 		<td>7</td>
