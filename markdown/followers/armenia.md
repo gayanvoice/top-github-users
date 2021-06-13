@@ -3,9 +3,9 @@
 
 <img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg" alt="Armenia">
 
-The `number of followers` of users in Armenia on `2021/6/13 3:26 AM UTC`. This list contains users from `Armenia` and cities `Yerevan` `Gyumri` `Vanadzor` `Vagharshapat` `Abovyan `.
+The `number of followers` of users in Armenia on `2021/6/13 7:54 AM UTC`. This list contains users from `Armenia` and cities `Yerevan` `Gyumri` `Vanadzor` `Vagharshapat` `Abovyan `.
 
-There are `21 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `46 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `100 users`  in Armenia. You need at least `15 followers` to be on this list.
 
@@ -968,6 +968,19 @@ There are `100 users`  in Armenia. You need at least `15 followers` to be on thi
 	<tr>
 		<td>68</td>
 		<td>
+			<a href="https://github.com/iamvishnuks">
+				<img src="https://avatars.githubusercontent.com/u/18617708?s=72&u=ef3026243bb14410b41eb4412811dc27cf17a780&v=4" width="24" alt="Avatar of iamvishnuks"> iamvishnuks
+			</a><br/>
+			Vishnu KS
+		</td>
+		<td>Dafabet </td>
+		<td><a href="https://twitter.com/iamvishnuks">iamvishnuks</a></td>
+		<td>Armenia</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>69</td>
+		<td>
 			<a href="https://github.com/xcore995">
 				<img src="https://avatars.githubusercontent.com/u/20247387?s=72&u=f55fb3d096876d9e29b940898748066059a8e15d&v=4" width="24" alt="Avatar of xcore995"> xcore995
 			</a><br/>
@@ -977,19 +990,6 @@ There are `100 users`  in Armenia. You need at least `15 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Armenia</td>
 		<td>23</td>
-	</tr>
-	<tr>
-		<td>69</td>
-		<td>
-			<a href="https://github.com/iamvishnuks">
-				<img src="https://avatars.githubusercontent.com/u/18617708?s=72&u=ef3026243bb14410b41eb4412811dc27cf17a780&v=4" width="24" alt="Avatar of iamvishnuks"> iamvishnuks
-			</a><br/>
-			Vishnu KS
-		</td>
-		<td>Dafabet </td>
-		<td><a href="https://twitter.com/iamvishnuks">iamvishnuks</a></td>
-		<td>Armenia</td>
-		<td>22</td>
 	</tr>
 	<tr>
 		<td>70</td>
