@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" alt="Hungary">
 </a>
 
-The `public contributions` and `private contributions` by users in Hungary on `2021/6/14 1:21 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
+The `public contributions` and `private contributions` by users in Hungary on `2021/6/14 2:01 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
 
-There are `129 countries/states` and `744 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `99 countries/states` and `565 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `200 users`  in Hungary. You need at least `38 followers` to be on this list.
 
@@ -165,7 +165,7 @@ There are `200 users`  in Hungary. You need at least `38 followers` to be on thi
 		<td><a href="https://twitter.com/kripod97">kripod97</a></td>
 		<td>Budapest, Hungary</td>
 		<td>915</td>
-		<td>4466</td>
+		<td>4467</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -235,7 +235,7 @@ There are `200 users`  in Hungary. You need at least `38 followers` to be on thi
 		<td><a href="https://twitter.com/FezVrasta">FezVrasta</a></td>
 		<td>Budapest, Hungary (previously in Italy)</td>
 		<td>330</td>
-		<td>3210</td>
+		<td>3211</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -263,7 +263,7 @@ There are `200 users`  in Hungary. You need at least `38 followers` to be on thi
 		<td><a href="https://twitter.com/NoNameProvided_">NoNameProvided_</a></td>
 		<td>Budapest, Hungary</td>
 		<td>637</td>
-		<td>3045</td>
+		<td>3047</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -1299,7 +1299,7 @@ There are `200 users`  in Hungary. You need at least `38 followers` to be on thi
 		<td><a href="https://twitter.com/tomzorz_">tomzorz_</a></td>
 		<td>Budapest, Hungary</td>
 		<td>100</td>
-		<td>322</td>
+		<td>323</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1388,20 +1388,6 @@ There are `200 users`  in Hungary. You need at least `38 followers` to be on thi
 	<tr>
 		<td>93</td>
 		<td>
-			<a href="https://github.com/davidfegyver">
-				<img src="https://avatars.githubusercontent.com/u/56135029?s=72&u=2e8ea0a8d0f26b27196aae35369eb4ff1452bfec&v=4" width="24" alt="Avatar of davidfegyver"> davidfegyver
-			</a><br/>
-			David Fegyver
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hungary, Debrecen</td>
-		<td>241</td>
-		<td>286</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
 			<a href="https://github.com/onion">
 				<img src="https://avatars.githubusercontent.com/u/63724032?s=72&u=405d2fe5deeddf7408251e7af7e0dee40d4094a1&v=4" width="24" alt="Avatar of onion"> onion
 			</a><br/>
@@ -1411,6 +1397,20 @@ There are `200 users`  in Hungary. You need at least `38 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Braunau am Inn, Austria-Hungary </td>
 		<td>23</td>
+		<td>287</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
+			<a href="https://github.com/davidfegyver">
+				<img src="https://avatars.githubusercontent.com/u/56135029?s=72&u=2e8ea0a8d0f26b27196aae35369eb4ff1452bfec&v=4" width="24" alt="Avatar of davidfegyver"> davidfegyver
+			</a><br/>
+			David Fegyver
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hungary, Debrecen</td>
+		<td>241</td>
 		<td>286</td>
 	</tr>
 	<tr>

@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" alt="Hungary">
 </a>
 
-The `number of followers` of users in Hungary on `2021/6/14 1:21 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
+The `number of followers` of users in Hungary on `2021/6/14 2:01 PM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
 
-There are `129 countries/states` and `744 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `99 countries/states` and `565 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `200 users`  in Hungary. You need at least `38 followers` to be on this list.
 
@@ -827,6 +827,19 @@ There are `200 users`  in Hungary. You need at least `38 followers` to be on thi
 	<tr>
 		<td>57</td>
 		<td>
+			<a href="https://github.com/KindsonTheGenius">
+				<img src="https://avatars.githubusercontent.com/u/35315234?s=72&u=ad320dc1ed92363f151b56609fe8e499a58ed067&v=4" width="24" alt="Avatar of KindsonTheGenius"> KindsonTheGenius
+			</a><br/>
+			Kindson The Genius
+		</td>
+		<td>Bme </td>
+		<td>No Twitter Username</td>
+		<td>Budapest, Hungary</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
 			<a href="https://github.com/viktorbenei">
 				<img src="https://avatars.githubusercontent.com/u/430618?s=72&v=4" width="24" alt="Avatar of viktorbenei"> viktorbenei
 			</a><br/>
@@ -838,7 +851,7 @@ There are `200 users`  in Hungary. You need at least `38 followers` to be on thi
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>58</td>
+		<td>59</td>
 		<td>
 			<a href="https://github.com/mondalaci">
 				<img src="https://avatars.githubusercontent.com/u/300402?s=72&u=a628e9f25a46cecdedb5533609721f593c0309e3&v=4" width="24" alt="Avatar of mondalaci"> mondalaci
@@ -848,19 +861,6 @@ There are `200 users`  in Hungary. You need at least `38 followers` to be on thi
 		<td>Ultimate Gadget Laboratories Kft.<br/></td>
 		<td>No Twitter Username</td>
 		<td>Hungary</td>
-		<td>101</td>
-	</tr>
-	<tr>
-		<td>59</td>
-		<td>
-			<a href="https://github.com/KindsonTheGenius">
-				<img src="https://avatars.githubusercontent.com/u/35315234?s=72&u=ad320dc1ed92363f151b56609fe8e499a58ed067&v=4" width="24" alt="Avatar of KindsonTheGenius"> KindsonTheGenius
-			</a><br/>
-			Kindson The Genius
-		</td>
-		<td>Bme </td>
-		<td>No Twitter Username</td>
-		<td>Budapest, Hungary</td>
 		<td>101</td>
 	</tr>
 	<tr>
