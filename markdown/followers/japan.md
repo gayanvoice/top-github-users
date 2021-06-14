@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japan">
 </a>
 
-The `number of followers` of users in Japan on `2021/6/14 1:56 PM UTC`. This list contains users from `Japan` and cities `Tokyo` `Kyoto` `Osaka` `Sapporo` `Hiroshima` `Fukuoka` `Yokohama` `Nagoya` `Kobe`.
+The `number of followers` of users in Japan on `2021/6/14 3:52 PM UTC`. This list contains users from `Japan` and cities `Tokyo` `Kyoto` `Osaka` `Sapporo` `Hiroshima` `Fukuoka` `Yokohama` `Nagoya` `Kobe`.
 
 There are `99 countries/states` and `565 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
@@ -107,7 +107,7 @@ There are `80 users`  in Japan. You need at least `763 followers` to be on this 
 		<td>Unity Technologies Japan </td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>14563</td>
+		<td>14564</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -328,7 +328,7 @@ There are `80 users`  in Japan. You need at least `763 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>2202</td>
+		<td>2203</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -497,7 +497,7 @@ There are `80 users`  in Japan. You need at least `763 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dai_shi">dai_shi</a></td>
 		<td>Tokyo</td>
-		<td>1566</td>
+		<td>1565</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -705,7 +705,7 @@ There are `80 users`  in Japan. You need at least `763 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>1135</td>
+		<td>1136</td>
 	</tr>
 	<tr>
 		<td>48</td>
