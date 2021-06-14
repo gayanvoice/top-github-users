@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="France">
 </a>
 
-The `public contributions` by users in France on `2021/6/14 11:55 AM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
+The `public contributions` by users in France on `2021/6/14 12:06 PM UTC`. This list contains users from `France` and cities `Paris` `Marseille` `Lyon` `Bordeaux` `Toulouse` `Strasbourg` `Nice` `Nantes` `Montpellier` `Lille`.
 
-There are `99 countries/states` and `605 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `129 countries/states` and `744 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `200 users`  in France. You need at least `366 followers` to be on this list.
 
@@ -185,7 +185,7 @@ There are `200 users`  in France. You need at least `366 followers` to be on thi
 		<td>@huawei </td>
 		<td><a href="https://twitter.com/imperioworld_">imperioworld_</a></td>
 		<td>Paris</td>
-		<td>4710</td>
+		<td>4711</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -263,7 +263,7 @@ There are `200 users`  in France. You need at least `366 followers` to be on thi
 		<td>Material-ui </td>
 		<td>No Twitter Username</td>
 		<td>Paris, France</td>
-		<td>3552</td>
+		<td>3554</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -276,7 +276,7 @@ There are `200 users`  in France. You need at least `366 followers` to be on thi
 		<td>@ropensci </td>
 		<td><a href="https://twitter.com/ma_salmon">ma_salmon</a></td>
 		<td>Nancy, France</td>
-		<td>3355</td>
+		<td>3357</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -328,7 +328,7 @@ There are `200 users`  in France. You need at least `366 followers` to be on thi
 		<td>Freelance </td>
 		<td><a href="https://twitter.com/posva">posva</a></td>
 		<td>Paris </td>
-		<td>2595</td>
+		<td>2596</td>
 	</tr>
 	<tr>
 		<td>19</td>
