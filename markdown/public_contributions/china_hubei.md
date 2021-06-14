@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China Hubei">
 </a>
 
-The `public contributions` by users in China Hubei on `2021/6/14 9:55 AM UTC`. This list contains users from `China Hubei` and cities `Wuhan` `Huanggang` `Xiangyang` `Xiaogan` `Jingzhou` `Shiyan` `Yichang`.
+The `public contributions` by users in China Hubei on `2021/6/14 10:00 AM UTC`. This list contains users from `China Hubei` and cities `Wuhan` `Huanggang` `Xiangyang` `Xiaogan` `Jingzhou` `Shiyan` `Yichang`.
 
 There are `99 countries/states` and `605 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
@@ -107,7 +107,7 @@ There are `200 users`  in China Hubei. You need at least `52 followers` to be on
 		<td>Arch Linux @archlinux </td>
 		<td><a href="https://twitter.com/felixonmars">felixonmars</a></td>
 		<td>Wuhan, Hubei, China</td>
-		<td>292913</td>
+		<td>292917</td>
 	</tr>
 	<tr>
 		<td>2</td>
