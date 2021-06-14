@@ -1,13 +1,15 @@
 # Top GitHub Users By Followers in Burkina Faso [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 
-<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
+<a href="https://gayanvoice.github.io/top-github-users/index.html">
+	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
+</a>
 
-The `number of followers` of users in Burkina Faso on `2021/6/13 11:54 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `number of followers` of users in Burkina Faso on `2021/6/14 7:24 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
-There are `72 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `71 countries/states` and `439 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `96 users`  in Burkina Faso. You need at least `0 followers` to be on this list.
+There are `131 users`  in Burkina Faso. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -267,7 +269,7 @@ There are `96 users`  in Burkina Faso. You need at least `0 followers` to be on 
 		<td>14</td>
 		<td>
 			<a href="https://github.com/mouhyib27">
-				<img src="https://avatars.githubusercontent.com/u/56672820?s=72&u=9a1ffb377cdb1201c82b215257ba7236988d13cc&v=4" width="24" alt="Avatar of mouhyib27"> mouhyib27
+				<img src="https://avatars.githubusercontent.com/u/56672820?s=72&u=4eeafaf0c695e20d8466253d2a3962945cbe6366&v=4" width="24" alt="Avatar of mouhyib27"> mouhyib27
 			</a><br/>
 			Mouhyidine OUEDRAOGO
 		</td>
