@@ -1,13 +1,15 @@
 # Top GitHub Users By Followers in Burundi [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 
-<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg" alt="Burundi">
+<a href="https://gayanvoice.github.io/top-github-users/index.html">
+	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg" alt="Burundi">
+</a>
 
-The `number of followers` of users in Burundi on `2021/6/13 12:25 PM UTC`. This list contains users from `Burundi` and cities `Bujumbura` `Gitega` `Muyinga` `Ruyigi` `Ngozi`.
+The `number of followers` of users in Burundi on `2021/6/14 7:27 AM UTC`. This list contains users from `Burundi` and cities `Bujumbura` `Gitega` `Muyinga` `Ruyigi` `Ngozi`.
 
-There are `72 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `71 countries/states` and `439 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `97 users`  in Burundi. You need at least `0 followers` to be on this list.
+There are `159 users`  in Burundi. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -656,19 +658,6 @@ There are `97 users`  in Burundi. You need at least `0 followers` to be on this 
 	<tr>
 		<td>44</td>
 		<td>
-			<a href="https://github.com/tonycarlin2306">
-				<img src="https://avatars.githubusercontent.com/u/83305917?s=72&u=d9ee3a07e441a75d38429095985e4410c6cc1497&v=4" width="24" alt="Avatar of tonycarlin2306"> tonycarlin2306
-			</a><br/>
-			Viper23
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tony">tony</a></td>
-		<td>Bujumbura,BURUNDI</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>45</td>
-		<td>
 			<a href="https://github.com/jackson05">
 				<img src="https://avatars.githubusercontent.com/u/68805294?s=72&u=c7ce40958596149787d5f67e83ddae02377a5ecb&v=4" width="24" alt="Avatar of jackson05"> jackson05
 			</a><br/>
@@ -677,6 +666,19 @@ There are `97 users`  in Burundi. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>BUJUMBURA-BURUNDI</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
+			<a href="https://github.com/tonycarlin2306">
+				<img src="https://avatars.githubusercontent.com/u/83305917?s=72&u=d9ee3a07e441a75d38429095985e4410c6cc1497&v=4" width="24" alt="Avatar of tonycarlin2306"> tonycarlin2306
+			</a><br/>
+			Viper23
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tony">tony</a></td>
+		<td>Bujumbura,BURUNDI</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -856,7 +858,7 @@ There are `97 users`  in Burundi. You need at least `0 followers` to be on this 
 			</a><br/>
 			ALAIN FABRICE
 		</td>
-		<td>Ult </td>
+		<td>No Company</td>
 		<td><a href="https://twitter.com/sqbwoy_bdi">sqbwoy_bdi</a></td>
 		<td>Bujumbura</td>
 		<td>1</td>
