@@ -3,9 +3,9 @@
 
 <img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China">
 
-The `number of followers` of users in China on `2021/6/13 5:52 AM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
+The `number of followers` of users in China on `2021/6/14 1:26 AM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
 
-There are `32 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `71 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `100 users`  in China. You need at least `3742 followers` to be on this list.
 
@@ -105,7 +105,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Vuejs </td>
 		<td>No Twitter Username</td>
 		<td>New Jersey ⇄ China</td>
-		<td>70985</td>
+		<td>70996</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -118,7 +118,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Shanghai, China</td>
-		<td>66324</td>
+		<td>66331</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -131,7 +131,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Liaoxuefeng.com </td>
 		<td><a href="https://twitter.com/liaoxuefeng">liaoxuefeng</a></td>
 		<td>Beijing, China</td>
-		<td>33567</td>
+		<td>33568</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -157,7 +157,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Alibaba </td>
 		<td>No Twitter Username</td>
 		<td>Hangzhou, China</td>
-		<td>20173</td>
+		<td>20176</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -170,7 +170,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Huawei Research </td>
 		<td>No Twitter Username</td>
 		<td>Shanghai</td>
-		<td>19246</td>
+		<td>19383</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -183,7 +183,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>@thoughtworksinc </td>
 		<td><a href="https://twitter.com/phodal_huang">phodal_huang</a></td>
 		<td>Shanghai / Hangzhou, China</td>
-		<td>17383</td>
+		<td>17385</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -196,7 +196,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Ejoy.com </td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>16877</td>
+		<td>16881</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -222,7 +222,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hangzhou, China</td>
-		<td>15177</td>
+		<td>15178</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -235,7 +235,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/justjavac">justjavac</a></td>
 		<td>Tianjin, China</td>
-		<td>14399</td>
+		<td>14398</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -261,7 +261,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Qunar.com </td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>14054</td>
+		<td>14053</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -274,7 +274,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Line Corp. </td>
 		<td><a href="https://twitter.com/onevcat">onevcat</a></td>
 		<td>Yokohama, Japan / China</td>
-		<td>14036</td>
+		<td>14037</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -287,7 +287,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>13396</td>
+		<td>13399</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -313,7 +313,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Wanandroid.com </td>
 		<td>No Twitter Username</td>
 		<td>Beijing,China</td>
-		<td>12533</td>
+		<td>12534</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -326,7 +326,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/OviliaZhang">OviliaZhang</a></td>
 		<td>Shanghai, China</td>
-		<td>12483</td>
+		<td>12487</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -352,7 +352,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Inblockchain </td>
 		<td>No Twitter Username</td>
 		<td>beijing</td>
-		<td>12241</td>
+		<td>12243</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -365,7 +365,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Jd.com </td>
 		<td>No Twitter Username</td>
 		<td>Shanghai, China</td>
-		<td>12118</td>
+		<td>12120</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -391,7 +391,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jc_unknwon">jc_unknwon</a></td>
 		<td>Hangzhou, China</td>
-		<td>11359</td>
+		<td>11360</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -404,7 +404,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chengdu Sichuan, China</td>
-		<td>10820</td>
+		<td>10825</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -430,7 +430,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>@alibaba </td>
 		<td><a href="https://twitter.com/halffrost">halffrost</a></td>
 		<td>Shanghai China</td>
-		<td>10242</td>
+		<td>10244</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -443,7 +443,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Qingdao,China</td>
-		<td>10063</td>
+		<td>10064</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -469,7 +469,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>@kubernetes  </td>
 		<td><a href="https://twitter.com/draven0xff">draven0xff</a></td>
 		<td>Beijing, China</td>
-		<td>9439</td>
+		<td>9442</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -482,7 +482,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Bytedance </td>
 		<td>No Twitter Username</td>
 		<td>Shanghai, China</td>
-		<td>9394</td>
+		<td>9396</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -508,7 +508,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Tencent </td>
 		<td>No Twitter Username</td>
 		<td>Hong Kong, China</td>
-		<td>8943</td>
+		<td>8946</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -521,7 +521,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Snda </td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>8917</td>
+		<td>8918</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -534,7 +534,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>@naturalselectionlab </td>
 		<td><a href="https://twitter.com/DIYgod">DIYgod</a></td>
 		<td>Shanghai, China</td>
-		<td>8735</td>
+		<td>8738</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -547,7 +547,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Megaease </td>
 		<td><a href="https://twitter.com/haoel">haoel</a></td>
 		<td>Beijing</td>
-		<td>8713</td>
+		<td>8715</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -573,7 +573,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_egoistlily">_egoistlily</a></td>
 		<td>China</td>
-		<td>8604</td>
+		<td>8606</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -586,7 +586,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>扫码关注 </td>
 		<td>No Twitter Username</td>
 		<td>Shanghai, China</td>
-		<td>8556</td>
+		<td>8558</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -612,7 +612,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>芋道源码，纯源码解析公众号 </td>
 		<td>No Twitter Username</td>
 		<td>Shanghai, China</td>
-		<td>8332</td>
+		<td>8333</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -625,7 +625,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>@hsiaoming  </td>
 		<td><a href="https://twitter.com/lepture">lepture</a></td>
 		<td>Japan & China</td>
-		<td>8263</td>
+		<td>8264</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -651,7 +651,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>@258ch @apachecn  </td>
 		<td><a href="https://twitter.com/wizardforcel">wizardforcel</a></td>
 		<td>Beijing, China</td>
-		<td>7998</td>
+		<td>7999</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -664,7 +664,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hangzhou, China</td>
-		<td>7722</td>
+		<td>7725</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -677,7 +677,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Alibaba </td>
 		<td>No Twitter Username</td>
 		<td>china beijing</td>
-		<td>7647</td>
+		<td>7650</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -690,7 +690,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Alipay </td>
 		<td>No Twitter Username</td>
 		<td>Hangzhou, China</td>
-		<td>7591</td>
+		<td>7593</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -716,7 +716,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Suzhou, China</td>
-		<td>7390</td>
+		<td>7391</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -742,7 +742,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Yuanfudao </td>
 		<td>No Twitter Username</td>
 		<td>Beijing, China</td>
-		<td>7018</td>
+		<td>7019</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -755,7 +755,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Alibaba </td>
 		<td><a href="https://twitter.com/mercyblitz">mercyblitz</a></td>
 		<td>Hangzhou, China</td>
-		<td>7001</td>
+		<td>7005</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -768,7 +768,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Guangzhou, China</td>
-		<td>6943</td>
+		<td>6944</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -846,7 +846,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>@microsoft  </td>
 		<td>No Twitter Username</td>
 		<td>Beijing</td>
-		<td>6089</td>
+		<td>6091</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -924,7 +924,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>易水禾软件 </td>
 		<td>No Twitter Username</td>
 		<td>Suzhou China</td>
-		<td>5365</td>
+		<td>5364</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -950,7 +950,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Uit </td>
 		<td>No Twitter Username</td>
 		<td>china</td>
-		<td>5118</td>
+		<td>5119</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -963,7 +963,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>@infinitasx </td>
 		<td>No Twitter Username</td>
 		<td>CHONGQING,CHINA</td>
-		<td>5089</td>
+		<td>5091</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1015,7 +1015,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>创业中 </td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>4922</td>
+		<td>4923</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1028,7 +1028,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>公众号：hellogithub </td>
 		<td>No Twitter Username</td>
 		<td>Beijing, China</td>
-		<td>4822</td>
+		<td>4823</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1054,7 +1054,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>@lets-blade </td>
 		<td><a href="https://twitter.com/biezhii">biezhii</a></td>
 		<td>ShangHai, China</td>
-		<td>4720</td>
+		<td>4721</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1080,7 +1080,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>@igalia </td>
 		<td>No Twitter Username</td>
 		<td>Hangzhou, China</td>
-		<td>4618</td>
+		<td>4619</td>
 	</tr>
 	<tr>
 		<td>77</td>
@@ -1106,7 +1106,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>ʕ•̫͡•ʔ-̫͡-ʕ•͓͡•ʔ-̫͡- </td>
 		<td><a href="https://twitter.com/jaywcjlove">jaywcjlove</a></td>
 		<td>Shanghai, China</td>
-		<td>4545</td>
+		<td>4547</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1197,7 +1197,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>@alipay @alibaba @eggjs <br/></td>
 		<td>No Twitter Username</td>
 		<td>Hangzhou, China</td>
-		<td>4156</td>
+		<td>4157</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -1223,7 +1223,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/qiushuiyibing">qiushuiyibing</a></td>
 		<td>Shanghai, China</td>
-		<td>4114</td>
+		<td>4116</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -1288,7 +1288,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>@facebook </td>
 		<td><a href="https://twitter.com/huxpro">huxpro</a></td>
 		<td>[CA, NY, ...China]</td>
-		<td>3921</td>
+		<td>3922</td>
 	</tr>
 	<tr>
 		<td>93</td>
@@ -1340,7 +1340,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Beijing China</td>
-		<td>3785</td>
+		<td>3786</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -1353,7 +1353,7 @@ There are `100 users`  in China. You need at least `3742 followers` to be on thi
 		<td>Tencent </td>
 		<td>No Twitter Username</td>
 		<td>Shenzhen, China</td>
-		<td>3779</td>
+		<td>3780</td>
 	</tr>
 	<tr>
 		<td>98</td>
