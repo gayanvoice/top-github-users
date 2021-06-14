@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg" alt="Iceland">
 </a>
 
-The `public contributions` by users in Iceland on `2021/6/14 1:25 PM UTC`. This list contains users from `Iceland` and cities `Reykjavík` `Hafnarfjordur` `Kópavogur` `Reykjanesbær` `Akureyri`.
+The `public contributions` by users in Iceland on `2021/6/14 2:17 PM UTC`. This list contains users from `Iceland` and cities `Reykjavík` `Hafnarfjordur` `Kópavogur` `Reykjanesbær` `Akureyri`.
 
-There are `129 countries/states` and `744 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `99 countries/states` and `565 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `200 users`  in Iceland. You need at least `10 followers` to be on this list.
 
@@ -159,7 +159,7 @@ There are `200 users`  in Iceland. You need at least `10 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
-		<td>984</td>
+		<td>986</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -419,7 +419,7 @@ There are `200 users`  in Iceland. You need at least `10 followers` to be on thi
 		<td>Aranja </td>
 		<td>No Twitter Username</td>
 		<td>Reykjavík, Iceland</td>
-		<td>276</td>
+		<td>277</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -549,7 +549,7 @@ There are `200 users`  in Iceland. You need at least `10 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Reykjavík, Iceland</td>
-		<td>160</td>
+		<td>161</td>
 	</tr>
 	<tr>
 		<td>36</td>

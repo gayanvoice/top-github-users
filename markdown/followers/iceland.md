@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg" alt="Iceland">
 </a>
 
-The `number of followers` of users in Iceland on `2021/6/14 1:25 PM UTC`. This list contains users from `Iceland` and cities `Reykjavík` `Hafnarfjordur` `Kópavogur` `Reykjanesbær` `Akureyri`.
+The `number of followers` of users in Iceland on `2021/6/14 2:17 PM UTC`. This list contains users from `Iceland` and cities `Reykjavík` `Hafnarfjordur` `Kópavogur` `Reykjanesbær` `Akureyri`.
 
-There are `129 countries/states` and `744 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `99 countries/states` and `565 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `200 users`  in Iceland. You need at least `10 followers` to be on this list.
 

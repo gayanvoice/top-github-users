@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg" alt="Iceland">
 </a>
 
-The `public contributions` and `private contributions` by users in Iceland on `2021/6/14 1:25 PM UTC`. This list contains users from `Iceland` and cities `Reykjavík` `Hafnarfjordur` `Kópavogur` `Reykjanesbær` `Akureyri`.
+The `public contributions` and `private contributions` by users in Iceland on `2021/6/14 2:17 PM UTC`. This list contains users from `Iceland` and cities `Reykjavík` `Hafnarfjordur` `Kópavogur` `Reykjanesbær` `Akureyri`.
 
-There are `129 countries/states` and `744 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `99 countries/states` and `565 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `200 users`  in Iceland. You need at least `10 followers` to be on this list.
 
@@ -123,7 +123,7 @@ There are `200 users`  in Iceland. You need at least `10 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
 		<td>387</td>
-		<td>2802</td>
+		<td>2806</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -151,7 +151,7 @@ There are `200 users`  in Iceland. You need at least `10 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
 		<td>6</td>
-		<td>2011</td>
+		<td>2012</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -235,7 +235,7 @@ There are `200 users`  in Iceland. You need at least `10 followers` to be on thi
 		<td><a href="https://twitter.com/saevarom">saevarom</a></td>
 		<td>Reykjavík, Iceland</td>
 		<td>70</td>
-		<td>1557</td>
+		<td>1558</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -263,7 +263,7 @@ There are `200 users`  in Iceland. You need at least `10 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
 		<td>5</td>
-		<td>1491</td>
+		<td>1496</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -333,7 +333,7 @@ There are `200 users`  in Iceland. You need at least `10 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Reykjavik, Iceland</td>
 		<td>85</td>
-		<td>1327</td>
+		<td>1328</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -430,8 +430,8 @@ There are `200 users`  in Iceland. You need at least `10 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
-		<td>984</td>
-		<td>1072</td>
+		<td>986</td>
+		<td>1074</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -459,7 +459,7 @@ There are `200 users`  in Iceland. You need at least `10 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Iceland</td>
 		<td>24</td>
-		<td>1016</td>
+		<td>1020</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -669,7 +669,7 @@ There are `200 users`  in Iceland. You need at least `10 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Reykjavík Iceland</td>
 		<td>15</td>
-		<td>611</td>
+		<td>612</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -934,8 +934,8 @@ There are `200 users`  in Iceland. You need at least `10 followers` to be on thi
 		<td>Aranja </td>
 		<td>No Twitter Username</td>
 		<td>Reykjavík, Iceland</td>
-		<td>276</td>
-		<td>276</td>
+		<td>277</td>
+		<td>277</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -1088,8 +1088,8 @@ There are `200 users`  in Iceland. You need at least `10 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Reykjavík, Iceland</td>
-		<td>160</td>
-		<td>160</td>
+		<td>161</td>
+		<td>161</td>
 	</tr>
 	<tr>
 		<td>72</td>
