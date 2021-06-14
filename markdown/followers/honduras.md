@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg" alt="Honduras">
 </a>
 
-The `number of followers` of users in Honduras on `2021/6/14 11:59 AM UTC`. This list contains users from `Honduras` and cities `Tegucigalpa` `San-pedro-sula` `La-ceiba` `Comayagua` `Puerto-cortes` `Choluteca` `El-progreso` `Danli` `Choloma`.
+The `number of followers` of users in Honduras on `2021/6/14 1:13 PM UTC`. This list contains users from `Honduras` and cities `Tegucigalpa` `San-pedro-sula` `La-ceiba` `Comayagua` `Puerto-cortes` `Choluteca` `El-progreso` `Danli` `Choloma`.
 
 There are `129 countries/states` and `744 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
@@ -1802,6 +1802,19 @@ There are `200 users`  in Honduras. You need at least `4 followers` to be on thi
 	<tr>
 		<td>132</td>
 		<td>
+			<a href="https://github.com/DRBC17">
+				<img src="https://avatars.githubusercontent.com/u/38294869?s=72&u=b4cf32142a2d6c25f3c9f71f781e85d69392e0e3&v=4" width="24" alt="Avatar of DRBC17"> DRBC17
+			</a><br/>
+			Diego Buezo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/DRBC17_">DRBC17_</a></td>
+		<td>Honduras</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>133</td>
+		<td>
 			<a href="https://github.com/rodri595">
 				<img src="https://avatars.githubusercontent.com/u/16696513?s=72&u=3bd3e3dbf169f946126f1c750419e13c034590a1&v=4" width="24" alt="Avatar of rodri595"> rodri595
 			</a><br/>
@@ -1813,7 +1826,7 @@ There are `200 users`  in Honduras. You need at least `4 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/itsdddaniel">
 				<img src="https://avatars.githubusercontent.com/u/60668752?s=72&u=ed013cc21c4d0451dfd78c93e37682c5e3c78118&v=4" width="24" alt="Avatar of itsdddaniel"> itsdddaniel
@@ -1826,7 +1839,7 @@ There are `200 users`  in Honduras. You need at least `4 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>134</td>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/anariba-hn">
 				<img src="https://avatars.githubusercontent.com/u/9284780?s=72&u=2b6eab7a640b7a44034b041199f09ee24b762eb3&v=4" width="24" alt="Avatar of anariba-hn"> anariba-hn
@@ -1839,7 +1852,7 @@ There are `200 users`  in Honduras. You need at least `4 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/sarahcastelar">
 				<img src="https://avatars.githubusercontent.com/u/38963891?s=72&u=65dfa48da4da4b51bb71b231ac238af71e32b928&v=4" width="24" alt="Avatar of sarahcastelar"> sarahcastelar
@@ -1849,19 +1862,6 @@ There are `200 users`  in Honduras. You need at least `4 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Honduras</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>136</td>
-		<td>
-			<a href="https://github.com/LscDiscua">
-				<img src="https://avatars.githubusercontent.com/u/61211637?s=72&u=b566478be6b99821e517919eb7053bb5ed47df81&v=4" width="24" alt="Avatar of LscDiscua"> LscDiscua
-			</a><br/>
-			Linda Sarahi Carranza Discua
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Taulabe, Comayagua, Honduras</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -2478,6 +2478,19 @@ There are `200 users`  in Honduras. You need at least `4 followers` to be on thi
 	<tr>
 		<td>184</td>
 		<td>
+			<a href="https://github.com/JDiGregorio">
+				<img src="https://avatars.githubusercontent.com/u/37117912?s=72&v=4" width="24" alt="Avatar of JDiGregorio"> JDiGregorio
+			</a><br/>
+			José Di Gregorio
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Ceiba, Honduras</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>185</td>
+		<td>
 			<a href="https://github.com/alfadaemon">
 				<img src="https://avatars.githubusercontent.com/u/2378814?s=72&u=64fe54e0693f4c11dc99c64be5a540dc00281362&v=4" width="24" alt="Avatar of alfadaemon"> alfadaemon
 			</a><br/>
@@ -2489,7 +2502,7 @@ There are `200 users`  in Honduras. You need at least `4 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/claudiokc">
 				<img src="https://avatars.githubusercontent.com/u/5863728?s=72&u=7cd663792ea7cd7036909fc5241e888c86ca0465&v=4" width="24" alt="Avatar of claudiokc"> claudiokc
@@ -2499,19 +2512,6 @@ There are `200 users`  in Honduras. You need at least `4 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/claudiokc">claudiokc</a></td>
 		<td>TGU, Honduras</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>186</td>
-		<td>
-			<a href="https://github.com/axelsomerseth">
-				<img src="https://avatars.githubusercontent.com/u/18746251?s=72&u=03ca28ed253d520490521b2db6a55b668791bd9e&v=4" width="24" alt="Avatar of axelsomerseth"> axelsomerseth
-			</a><br/>
-			Axel Somerseth Cordova
-		</td>
-		<td>@duna-e-commmerce  </td>
-		<td><a href="https://twitter.com/axelsomerseth">axelsomerseth</a></td>
-		<td>Tegucigalpa, Honduras</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -2634,19 +2634,6 @@ There are `200 users`  in Honduras. You need at least `4 followers` to be on thi
 	<tr>
 		<td>196</td>
 		<td>
-			<a href="https://github.com/ccastroy">
-				<img src="https://avatars.githubusercontent.com/u/447349?s=72&v=4" width="24" alt="Avatar of ccastroy"> ccastroy
-			</a><br/>
-			Carlos Alberto Castro Yanes
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Honduras</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>197</td>
-		<td>
 			<a href="https://github.com/josemperdomoz">
 				<img src="https://avatars.githubusercontent.com/u/18475850?s=72&u=1204c4e485614c3f09b9ac947a95aaaa496b4562&v=4" width="24" alt="Avatar of josemperdomoz"> josemperdomoz
 			</a><br/>
@@ -2658,7 +2645,7 @@ There are `200 users`  in Honduras. You need at least `4 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>197</td>
 		<td>
 			<a href="https://github.com/jdoavila">
 				<img src="https://avatars.githubusercontent.com/u/1307456?s=72&v=4" width="24" alt="Avatar of jdoavila"> jdoavila
@@ -2671,7 +2658,7 @@ There are `200 users`  in Honduras. You need at least `4 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/jorgepizzati">
 				<img src="https://avatars.githubusercontent.com/u/28459401?s=72&u=b012e275f960c25fc0a3152347e9c38ddaa4862d&v=4" width="24" alt="Avatar of jorgepizzati"> jorgepizzati
@@ -2684,12 +2671,25 @@ There are `200 users`  in Honduras. You need at least `4 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/invitrum">
 				<img src="https://avatars.githubusercontent.com/u/2415147?s=72&u=58d04413f8559aeb3c93a77503231836f386cd77&v=4" width="24" alt="Avatar of invitrum"> invitrum
 			</a><br/>
 			Bani Aguilera
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Honduras</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
+			<a href="https://github.com/rjose31">
+				<img src="https://avatars.githubusercontent.com/u/9313890?s=72&u=0699d1623929a60e2e53c050dfe4a86ff293d5da&v=4" width="24" alt="Avatar of rjose31"> rjose31
+			</a><br/>
+			Reynaldo Cruz
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
