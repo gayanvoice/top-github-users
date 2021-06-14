@@ -34,7 +34,7 @@
     { "country":  "chad", "geoName": "chad", "cities": ["n'djamena", "moundou", "sarh", "abeche"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" },
     { "country":  "chile", "geoName": "chile", "cities": ["santiago", "valparaíso", "viña-del-mar", "arica", "temuco", "concepcion", "puerto-montt"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" },
     { "country":  "china", "geoName": "china", "cities": ["beijing", "shanghai", "guangzhou", "shenzhen", "chongqing", "chengdu", "harbin", "tianjin"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" },
-    { "country":  "china hong kong", "geoName": "hong kong", "cities": ["hong-kong", "kowloon"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg" },
+    { "country":  "hong kong", "geoName": "hong kong", "cities": ["hong-kong", "kowloon"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg" },
     { "country":  "taiwan", "geoName": "taiwan", "cities": ["taipei", "kaohsiung", "tainan", "taichung "], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg" },
     { "country":  "colombia", "geoName": "colombia", "cities": ["bogotá", "medellín", "cali", "cartagena", "barranquilla"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" },
     { "country":  "congo", "geoName": "congo", "cities": ["brazzaville", "pointe-noire"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg" },
