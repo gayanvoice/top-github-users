@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India">
 </a>
 
-The `number of followers` of users in India on `2021/6/14 1:31 PM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
+The `number of followers` of users in India on `2021/6/14 2:20 PM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
 
-There are `129 countries/states` and `744 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `99 countries/states` and `565 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `200 users`  in India. You need at least `438 followers` to be on this list.
 
@@ -133,7 +133,7 @@ There are `200 users`  in India. You need at least `438 followers` to be on this
 		<td>@mindorksopensource </td>
 		<td><a href="https://twitter.com/amitiitbhu">amitiitbhu</a></td>
 		<td>New Delhi, India</td>
-		<td>5985</td>
+		<td>5986</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -146,7 +146,7 @@ There are `200 users`  in India. You need at least `438 followers` to be on this
 		<td>@timelessco </td>
 		<td><a href="https://twitter.com/anuraghazru">anuraghazru</a></td>
 		<td>India</td>
-		<td>3967</td>
+		<td>3969</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -159,7 +159,7 @@ There are `200 users`  in India. You need at least `438 followers` to be on this
 		<td>@coding-blocks @zomato </td>
 		<td>No Twitter Username</td>
 		<td>New Delhi, India</td>
-		<td>3293</td>
+		<td>3294</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -185,7 +185,7 @@ There are `200 users`  in India. You need at least `438 followers` to be on this
 		<td>Noob Hackers </td>
 		<td><a href="https://twitter.com/noob_hackers">noob_hackers</a></td>
 		<td>india</td>
-		<td>2679</td>
+		<td>2680</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -328,7 +328,7 @@ There are `200 users`  in India. You need at least `438 followers` to be on this
 		<td>Google India </td>
 		<td>No Twitter Username</td>
 		<td>Hyderabad</td>
-		<td>1871</td>
+		<td>1872</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -406,7 +406,7 @@ There are `200 users`  in India. You need at least `438 followers` to be on this
 		<td>Tcs </td>
 		<td><a href="https://twitter.com/ayushi7rawat">ayushi7rawat</a></td>
 		<td>Bangalore, India</td>
-		<td>1768</td>
+		<td>1769</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -445,7 +445,7 @@ There are `200 users`  in India. You need at least `438 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chennai</td>
-		<td>1691</td>
+		<td>1692</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -510,7 +510,7 @@ There are `200 users`  in India. You need at least `438 followers` to be on this
 		<td>@creatorstack </td>
 		<td><a href="https://twitter.com/pblead26">pblead26</a></td>
 		<td>India</td>
-		<td>1594</td>
+		<td>1596</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -523,7 +523,7 @@ There are `200 users`  in India. You need at least `438 followers` to be on this
 		<td>@patternhouse </td>
 		<td><a href="https://twitter.com/aryashah2k">aryashah2k</a></td>
 		<td>Mumbai, India</td>
-		<td>1504</td>
+		<td>1503</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -866,6 +866,19 @@ There are `200 users`  in India. You need at least `438 followers` to be on this
 	<tr>
 		<td>60</td>
 		<td>
+			<a href="https://github.com/amark720">
+				<img src="https://avatars.githubusercontent.com/u/32639666?s=72&u=9f6968f6643ddc90096044922efbeb1be4dd6a8e&v=4" width="24" alt="Avatar of amark720"> amark720
+			</a><br/>
+			Amar kumar
+		</td>
+		<td>Gs Lab </td>
+		<td><a href="https://twitter.com/amark720">amark720</a></td>
+		<td>Baner, Pune , India</td>
+		<td>975</td>
+	</tr>
+	<tr>
+		<td>61</td>
+		<td>
 			<a href="https://github.com/nathvarun">
 				<img src="https://avatars.githubusercontent.com/u/2167011?s=72&u=775907a8704798c407bc46878e6bd925f288597b&v=4" width="24" alt="Avatar of nathvarun"> nathvarun
 			</a><br/>
@@ -875,19 +888,6 @@ There are `200 users`  in India. You need at least `438 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>New Delhi, India</td>
 		<td>975</td>
-	</tr>
-	<tr>
-		<td>61</td>
-		<td>
-			<a href="https://github.com/amark720">
-				<img src="https://avatars.githubusercontent.com/u/32639666?s=72&u=9f6968f6643ddc90096044922efbeb1be4dd6a8e&v=4" width="24" alt="Avatar of amark720"> amark720
-			</a><br/>
-			Amar kumar
-		</td>
-		<td>Gs Lab </td>
-		<td><a href="https://twitter.com/amark720">amark720</a></td>
-		<td>Baner, Pune , India</td>
-		<td>974</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -1004,7 +1004,7 @@ There are `200 users`  in India. You need at least `438 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/thewhiteh4t">thewhiteh4t</a></td>
 		<td>New Delhi </td>
-		<td>908</td>
+		<td>909</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1082,7 +1082,7 @@ There are `200 users`  in India. You need at least `438 followers` to be on this
 		<td>@h2oai </td>
 		<td><a href="https://twitter.com/pandeyparul">pandeyparul</a></td>
 		<td>India</td>
-		<td>848</td>
+		<td>849</td>
 	</tr>
 	<tr>
 		<td>77</td>
@@ -1264,7 +1264,7 @@ There are `200 users`  in India. You need at least `438 followers` to be on this
 		<td>Medust </td>
 		<td><a href="https://twitter.com/itzpradip">itzpradip</a></td>
 		<td>Kolkata, India</td>
-		<td>762</td>
+		<td>763</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -2686,13 +2686,13 @@ There are `200 users`  in India. You need at least `438 followers` to be on this
 	<tr>
 		<td>200</td>
 		<td>
-			<a href="https://github.com/msfjarvis">
-				<img src="https://avatars.githubusercontent.com/u/13348378?s=72&u=76f4b1555db36d21f26e68822f7b17eeeda79968&v=4" width="24" alt="Avatar of msfjarvis"> msfjarvis
+			<a href="https://github.com/amanjeetsingh150">
+				<img src="https://avatars.githubusercontent.com/u/12881364?s=72&u=843e798a15b398f0f6159d4c1938ea9d317cade4&v=4" width="24" alt="Avatar of amanjeetsingh150"> amanjeetsingh150
 			</a><br/>
-			Harsh Shandilya
+			Amanjeet Singh
 		</td>
-		<td>@obvious </td>
-		<td><a href="https://twitter.com/msfjarvis">msfjarvis</a></td>
+		<td>@gojek </td>
+		<td><a href="https://twitter.com/droid_singh">droid_singh</a></td>
 		<td>New Delhi</td>
 		<td>438</td>
 	</tr>
