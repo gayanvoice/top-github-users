@@ -5,9 +5,9 @@
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/14 7:27 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/14 7:32 AM UTC`.
 
-This repository contains users `71 countries/states` and `439 cities`. 
+This repository contains users `99 countries/states` and `605 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
 
 The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -1022,6 +1022,150 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/georgia.md">
+				Georgia
+			</a>
+		</td>
+		<td>
+			<code>Tbilisi</code> 
+			<code>.batumi</code> 
+			<code>Kutaisi</code> 
+			<code>Rustavi</code> 
+			<code>Gori</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/germany.md">
+				Germany
+			</a>
+		</td>
+		<td>
+			<code>Berlin</code> 
+			<code>Munich</code> 
+			<code>Hamburg</code> 
+			<code>Cologne</code> 
+			<code>Hamburg</code> 
+			<code>Düsseldorf</code> 
+			<code>Stuttgart</code> 
+			<code>Dresden</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/ghana.md">
+				Ghana
+			</a>
+		</td>
+		<td>
+			<code>Accra</code> 
+			<code>Kumasi</code> 
+			<code>Sekondi-takoradi</code> 
+			<code>Sunyani</code> 
+			<code>Tamale</code> 
+			<code>Obuasi</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/greece.md">
+				Greece
+			</a>
+		</td>
+		<td>
+			<code>Athens</code> 
+			<code>Thessaloniki</code> 
+			<code>Patras</code> 
+			<code>Heraklion</code> 
+			<code>Ioannina</code> 
+			<code>Pireas</code> 
+			<code>Volos</code> 
+			<code>Agrinio</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/guatemala.md">
+				Guatemala
+			</a>
+		</td>
+		<td>
+			<code>Guatemala-city</code> 
+			<code>Antigua-guatemala</code> 
+			<code>Quetzaltenango</code> 
+			<code>Chichicastenango</code> 
+			<code>Villa-nueva</code> 
+			<code>Totonicapán</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/honduras.md">
+				Honduras
+			</a>
+		</td>
+		<td>
+			<code>Tegucigalpa</code> 
+			<code>San-pedro-sula</code> 
+			<code>La-ceiba</code> 
+			<code>Comayagua</code> 
+			<code>Puerto-cortes</code> 
+			<code>Choluteca</code> 
+			<code>El-progreso</code> 
+			<code>Danli</code> 
+			<code>Choloma</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/hungary.md">
+				Hungary
+			</a>
+		</td>
+		<td>
+			<code>Budapest</code> 
+			<code>Debrecen</code> 
+			<code>Szeged</code> 
+			<code>Miskolc</code> 
+			<code>Pécs</code> 
+			<code>Győr</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/iceland.md">
+				Iceland
+			</a>
+		</td>
+		<td>
+			<code>Reykjavík</code> 
+			<code>Hafnarfjordur</code> 
+			<code>Kópavogur</code> 
+			<code>Reykjanesbær</code> 
+			<code>Akureyri</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md">
+				India
+			</a>
+		</td>
+		<td>
+			<code>Mumbai</code> 
+			<code>Bengaluru</code> 
+			<code>Chennai</code> 
+			<code>Ahmedabad</code> 
+			<code>Pune</code> 
+			<code>Kolkata</code> 
+			<code>Hyderabad</code> 
+			<code>New-delhi</code> 
+			<code>Lucknow</code> 
+			<code>Jaipur</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india.md">
 				India
 			</a>
@@ -1035,6 +1179,280 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>Chennai</code> 
 			<code>Ahmedabad</code> 
 			<code>Jaipur</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india_andhra pradesh.md">
+				India Andhra Pradesh
+			</a>
+		</td>
+		<td>
+			<code>Visakhapatnam</code> 
+			<code>Amaravati</code> 
+			<code>Kurnool</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india_bihar.md">
+				India Bihar
+			</a>
+		</td>
+		<td>
+			<code>Patna</code> 
+			<code>Bhagalpur</code> 
+			<code>Udakishunganj</code> 
+			<code>Gaya</code> 
+			<code>Muzaffarpur</code> 
+			<code>Purnia</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india_gujarat.md">
+				India Gujarat
+			</a>
+		</td>
+		<td>
+			<code>Ahmedabad</code> 
+			<code>Surat</code> 
+			<code>Vadodara</code> 
+			<code>Rajkot</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india_karnataka.md">
+				India Karnataka
+			</a>
+		</td>
+		<td>
+			<code>Bengaluru</code> 
+			<code>Bangalore</code> 
+			<code>Mangalore</code> 
+			<code>Mysuru</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india_kerala.md">
+				India Kerala
+			</a>
+		</td>
+		<td>
+			<code>Thiruvananthapuram</code> 
+			<code>Kochi</code> 
+			<code>Kozhikode</code> 
+			<code>Thrissur</code> 
+			<code>Kollam</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india_maharashtra.md">
+				India Maharashtra
+			</a>
+		</td>
+		<td>
+			<code>Mumbai</code> 
+			<code>Pune</code> 
+			<code>Nagpur</code> 
+			<code>Nashik</code> 
+			<code>Aurangabad</code> 
+			<code>Amravati</code> 
+			<code>Thane</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india_odisha.md">
+				India Odisha
+			</a>
+		</td>
+		<td>
+			<code>Bhubaneswar</code> 
+			<code>Cuttack</code> 
+			<code>Rourkela</code> 
+			<code>Brahmapur</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india_punjab.md">
+				India Punjab
+			</a>
+		</td>
+		<td>
+			<code>Ludhiana</code> 
+			<code>Amritsar</code> 
+			<code>Jalandhar</code> 
+			<code>Chandigarh</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india_rajasthan.md">
+				India Rajasthan
+			</a>
+		</td>
+		<td>
+			<code>Jaipur</code> 
+			<code>Jodhpur</code> 
+			<code>Udaipur</code> 
+			<code>Kota</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india_tamil nadu.md">
+				India Tamil Nadu
+			</a>
+		</td>
+		<td>
+			<code>Chennai</code> 
+			<code>Coimbatore</code> 
+			<code>Madurai</code> 
+			<code>Tiruchirappalli</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india_telangana.md">
+				India Telangana
+			</a>
+		</td>
+		<td>
+			<code>Hyderabad</code> 
+			<code>Warangal</code> 
+			<code>Karimnagar</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india_uttar pradesh.md">
+				India Uttar Pradesh
+			</a>
+		</td>
+		<td>
+			<code>Kanpur</code> 
+			<code>Lucknow</code> 
+			<code>Varanasi</code> 
+			<code>Agra</code> 
+			<code>Meerut</code> 
+			<code>Ghaziabad</code> 
+			<code>Allahabad</code> 
+			<code>Noida</code> 
+			<code>Ghaziabad</code> 
+			<code>Gorakhpur</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/india_west bengal.md">
+				India West Bengal
+			</a>
+		</td>
+		<td>
+			<code>Kolkata</code> 
+			<code>Asansol</code> 
+			<code>Siliguri</code> 
+			<code>Nadia</code> 
+			<code>Durgapur</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/indonesia.md">
+				Indonesia
+			</a>
+		</td>
+		<td>
+			<code>Jakarta</code> 
+			<code>Bandung</code> 
+			<code>Surabaya</code> 
+			<code>Makassar</code> 
+			<code>Medan</code> 
+			<code>Semarang</code> 
+			<code>Palembang</code> 
+			<code>Depok</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/iran.md">
+				Iran
+			</a>
+		</td>
+		<td>
+			<code>Tehran</code> 
+			<code>Isfahan</code> 
+			<code>Tabriz</code> 
+			<code>Shiraz</code> 
+			<code>Mashhad</code> 
+			<code>Qom</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/iraq.md">
+				Iraq
+			</a>
+		</td>
+		<td>
+			<code>Baghdad</code> 
+			<code>Mosul</code> 
+			<code>Basra</code> 
+			<code>Erbil</code> 
+			<code>Najaf</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/ireland.md">
+				Ireland
+			</a>
+		</td>
+		<td>
+			<code>Dublin</code> 
+			<code>Galway</code> 
+			<code>Cork</code> 
+			<code>Waterford</code> 
+			<code>Limerick</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/israel.md">
+				Israel
+			</a>
+		</td>
+		<td>
+			<code>Jerusalem</code> 
+			<code>Tel-aviv</code> 
+			<code>Haifa</code> 
+			<code>Lod</code> 
+			<code>Be'er-sheva</code> 
+			<code>Ashkelon</code> 
+			<code>Bat-yam</code> 
+			<code>Netanya</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/italy.md">
+				Italy
+			</a>
+		</td>
+		<td>
+			<code>Rome</code> 
+			<code>Venice</code> 
+			<code>Florence</code> 
+			<code>Turin</code> 
+			<code>Milan</code> 
+			<code>Naples</code> 
+			<code>Bologna</code> 
+			<code>Genoa</code> 
 		</td>
 	</tr>
 	<tr>
