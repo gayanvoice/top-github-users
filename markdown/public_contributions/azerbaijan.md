@@ -1,13 +1,15 @@
 # Top GitHub Users By Public Contributions in Azerbaijan [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 
-<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Azerbaijan">
+<a href="https://gayanvoice.github.io/top-github-users/index.html">
+	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Azerbaijan">
+</a>
 
-The `public contributions` by users in Azerbaijan on `2021/6/13 8:52 AM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
+The `public contributions` by users in Azerbaijan on `2021/6/14 5:45 AM UTC`. This list contains users from `Azerbaijan` and cities `Baku` `Ganja` `Sumqayit` `Mingecevir`.
 
-There are `46 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `71 countries/states` and `439 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on this list.
+There are `200 users`  in Azerbaijan. You need at least `12 followers` to be on this list.
 
 <table>
 	<tr>
@@ -105,7 +107,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/turgut_090">turgut_090</a></td>
 		<td>Baku</td>
-		<td>3041</td>
+		<td>3005</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -118,10 +120,23 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Baku, Azerbaijan</td>
-		<td>1961</td>
+		<td>1977</td>
 	</tr>
 	<tr>
 		<td>3</td>
+		<td>
+			<a href="https://github.com/Kenan2000">
+				<img src="https://avatars.githubusercontent.com/u/43505148?s=72&v=4" width="24" alt="Avatar of Kenan2000"> Kenan2000
+			</a><br/>
+			Kenan Mamedov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan, Baku</td>
+		<td>1507</td>
+	</tr>
+	<tr>
+		<td>4</td>
 		<td>
 			<a href="https://github.com/vrom911">
 				<img src="https://avatars.githubusercontent.com/u/8126674?s=72&u=d7b64565b2cd5bc5e69b26deecd556566d193579&v=4" width="24" alt="Avatar of vrom911"> vrom911
@@ -131,10 +146,23 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>@kowainik </td>
 		<td><a href="https://twitter.com/vrom911">vrom911</a></td>
 		<td>Baku, Azerbaijan</td>
-		<td>1160</td>
+		<td>1103</td>
 	</tr>
 	<tr>
-		<td>4</td>
+		<td>5</td>
+		<td>
+			<a href="https://github.com/NarminGale">
+				<img src="https://avatars.githubusercontent.com/u/75491255?s=72&u=5fbda79c421c48c296caf08337cfd12da19437e9&v=4" width="24" alt="Avatar of NarminGale"> NarminGale
+			</a><br/>
+			Narmin Aliyeva
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>1067</td>
+	</tr>
+	<tr>
+		<td>6</td>
 		<td>
 			<a href="https://github.com/yunisdev">
 				<img src="https://avatars.githubusercontent.com/u/32550502?s=72&u=b95a39aa128dad2d4db8883b984c43c09437ba1a&v=4" width="24" alt="Avatar of yunisdev"> yunisdev
@@ -144,10 +172,23 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Baku,Azerbaijan</td>
-		<td>852</td>
+		<td>843</td>
 	</tr>
 	<tr>
-		<td>5</td>
+		<td>7</td>
+		<td>
+			<a href="https://github.com/elvinaqa">
+				<img src="https://avatars.githubusercontent.com/u/57037068?s=72&u=54c231e1a835e19a299f97dd497c040dd1ce2ef2&v=4" width="24" alt="Avatar of elvinaqa"> elvinaqa
+			</a><br/>
+			Elvin Aghammadzada
+		</td>
+		<td>Detech </td>
+		<td><a href="https://twitter.com/aghammadzada">aghammadzada</a></td>
+		<td>Baku, Azerbaijan</td>
+		<td>682</td>
+	</tr>
+	<tr>
+		<td>8</td>
 		<td>
 			<a href="https://github.com/nasirmovlamov">
 				<img src="https://avatars.githubusercontent.com/u/60513066?s=72&u=b54dded681095c9bb760650dbac2d31812fe0d8a&v=4" width="24" alt="Avatar of nasirmovlamov"> nasirmovlamov
@@ -157,10 +198,10 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>Jedai  </td>
 		<td><a href="https://twitter.com/nasirmovlamov">nasirmovlamov</a></td>
 		<td>Baku Azerbaijan</td>
-		<td>660</td>
+		<td>661</td>
 	</tr>
 	<tr>
-		<td>6</td>
+		<td>9</td>
 		<td>
 			<a href="https://github.com/TheMisir">
 				<img src="https://avatars.githubusercontent.com/u/29130291?s=72&u=327fbceeb35c30d1857a3b278cf0576dcec47319&v=4" width="24" alt="Avatar of TheMisir"> TheMisir
@@ -170,10 +211,23 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>@fonibo </td>
 		<td><a href="https://twitter.com/TheMisir">TheMisir</a></td>
 		<td>Baku, Azerbaijan</td>
-		<td>635</td>
+		<td>597</td>
 	</tr>
 	<tr>
-		<td>7</td>
+		<td>10</td>
+		<td>
+			<a href="https://github.com/sevilledev">
+				<img src="https://avatars.githubusercontent.com/u/68187750?s=72&u=5ce062e81bb3422b79c875a99cd9df7f921505d1&v=4" width="24" alt="Avatar of sevilledev"> sevilledev
+			</a><br/>
+			Sevil Rasulova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>438</td>
+	</tr>
+	<tr>
+		<td>11</td>
 		<td>
 			<a href="https://github.com/thisisyusub">
 				<img src="https://avatars.githubusercontent.com/u/44983544?s=72&u=274025e4585b8e699490664ec4ba7289fb36e8f4&v=4" width="24" alt="Avatar of thisisyusub"> thisisyusub
@@ -186,7 +240,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>416</td>
 	</tr>
 	<tr>
-		<td>8</td>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/sabuhish">
 				<img src="https://avatars.githubusercontent.com/u/46589585?s=72&u=d5efcb798a5c5fb376cbb42ca955075b89ad892d&v=4" width="24" alt="Avatar of sabuhish"> sabuhish
@@ -196,36 +250,23 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Baku Azerbaijan</td>
-		<td>407</td>
+		<td>378</td>
 	</tr>
 	<tr>
-		<td>9</td>
+		<td>13</td>
 		<td>
-			<a href="https://github.com/idrissabanli">
-				<img src="https://avatars.githubusercontent.com/u/29496562?s=72&u=5f594a4e5dec2861545cc04237152cadfde840ee&v=4" width="24" alt="Avatar of idrissabanli"> idrissabanli
+			<a href="https://github.com/AliyevH">
+				<img src="https://avatars.githubusercontent.com/u/5507950?s=72&u=9c9ed2409adcdbeae38b83b8105644feaee11025&v=4" width="24" alt="Avatar of AliyevH"> AliyevH
 			</a><br/>
-			Idris Shabanli
+			Hasan
 		</td>
-		<td>Tech Academy </td>
+		<td>Cloudlinux </td>
 		<td>No Twitter Username</td>
-		<td>Baku, Azerbaijan</td>
-		<td>346</td>
+		<td>Baku</td>
+		<td>365</td>
 	</tr>
 	<tr>
-		<td>10</td>
-		<td>
-			<a href="https://github.com/8Bts">
-				<img src="https://avatars.githubusercontent.com/u/57686112?s=72&u=6c9949370e1e4af1493a20fb3bae7df6c4e9f8f2&v=4" width="24" alt="Avatar of 8Bts"> 8Bts
-			</a><br/>
-			Rasheed Mammadlee
-		</td>
-		<td>Full-stack Developer </td>
-		<td><a href="https://twitter.com/Rasheed49705929">Rasheed49705929</a></td>
-		<td>Baku, Azerbaijan</td>
-		<td>326</td>
-	</tr>
-	<tr>
-		<td>11</td>
+		<td>14</td>
 		<td>
 			<a href="https://github.com/raminafandi">
 				<img src="https://avatars.githubusercontent.com/u/41924783?s=72&u=0814ff8731f119ba0e5f6aacd74aa6564c4910cd&v=4" width="24" alt="Avatar of raminafandi"> raminafandi
@@ -238,7 +279,98 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>319</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/8Bts">
+				<img src="https://avatars.githubusercontent.com/u/57686112?s=72&u=6c9949370e1e4af1493a20fb3bae7df6c4e9f8f2&v=4" width="24" alt="Avatar of 8Bts"> 8Bts
+			</a><br/>
+			Rasheed Mammadlee
+		</td>
+		<td>Full-stack Developer </td>
+		<td><a href="https://twitter.com/Rasheed49705929">Rasheed49705929</a></td>
+		<td>Baku, Azerbaijan</td>
+		<td>313</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
+			<a href="https://github.com/elvinyeka">
+				<img src="https://avatars.githubusercontent.com/u/64169101?s=72&u=aab718f5fb7937c09554ea9fbe79aa96c359af6e&v=4" width="24" alt="Avatar of elvinyeka"> elvinyeka
+			</a><br/>
+			Elvin 
+		</td>
+		<td>Elvinyeka@gmail.com </td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan, Baku </td>
+		<td>310</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>
+			<a href="https://github.com/idrissabanli">
+				<img src="https://avatars.githubusercontent.com/u/29496562?s=72&u=5f594a4e5dec2861545cc04237152cadfde840ee&v=4" width="24" alt="Avatar of idrissabanli"> idrissabanli
+			</a><br/>
+			Idris Shabanli
+		</td>
+		<td>Tech Academy </td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>307</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
+			<a href="https://github.com/Abdullah-V">
+				<img src="https://avatars.githubusercontent.com/u/66869870?s=72&v=4" width="24" alt="Avatar of Abdullah-V"> Abdullah-V
+			</a><br/>
+			Abdullah Veliyev
+		</td>
+		<td>@producter-team </td>
+		<td><a href="https://twitter.com/Abdullah_V_2005">Abdullah_V_2005</a></td>
+		<td>Azerbaijan-Baku</td>
+		<td>295</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>
+			<a href="https://github.com/ali-rajabli">
+				<img src="https://avatars.githubusercontent.com/u/80710522?s=72&u=bb87b878bd0a05c4b200984a8eab592de0fec410&v=4" width="24" alt="Avatar of ali-rajabli"> ali-rajabli
+			</a><br/>
+			Ali Rajabli
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku,Azerbaijan</td>
+		<td>290</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/q1sm4t">
+				<img src="https://avatars.githubusercontent.com/u/50789493?s=72&u=96aaf5b390fb08f37ba490ffa3ac0148d4efa5fc&v=4" width="24" alt="Avatar of q1sm4t"> q1sm4t
+			</a><br/>
+			Qismat Huseynov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku</td>
+		<td>279</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
+			<a href="https://github.com/huseyn">
+				<img src="https://avatars.githubusercontent.com/u/18054456?s=72&u=bdb62e6e5a3645e0d60a752f8f34f0a65b46f603&v=4" width="24" alt="Avatar of huseyn"> huseyn
+			</a><br/>
+			Huseyn Mikayil
+		</td>
+		<td>Ministry Of Transport, Communications<br/>And<br/>High<br/>Technologies<br/></td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>265</td>
+	</tr>
+	<tr>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/ShahriyarR">
 				<img src="https://avatars.githubusercontent.com/u/3852029?s=72&u=c9a1691e5ebdc94cbf543086099a6ed705cdb873&v=4" width="24" alt="Avatar of ShahriyarR"> ShahriyarR
@@ -248,10 +380,23 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>Azerbaijan Pug </td>
 		<td><a href="https://twitter.com/ShahriyarRzayev">ShahriyarRzayev</a></td>
 		<td>Azerbaijan</td>
-		<td>271</td>
+		<td>257</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/hamidsultanzadeh">
+				<img src="https://avatars.githubusercontent.com/u/36575736?s=72&u=404f11a4199371c49effb785c158560cb824f766&v=4" width="24" alt="Avatar of hamidsultanzadeh"> hamidsultanzadeh
+			</a><br/>
+			Hamid Sultanzadeh
+		</td>
+		<td>Emobile Mmc </td>
+		<td><a href="https://twitter.com/hamiddev">hamiddev</a></td>
+		<td>Baku, Azerbaijan</td>
+		<td>244</td>
+	</tr>
+	<tr>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/jafarlihi">
 				<img src="https://avatars.githubusercontent.com/u/43515211?s=72&u=c9cd11d53b6140183360f28e5cc1c4ddd1354216&v=4" width="24" alt="Avatar of jafarlihi"> jafarlihi
@@ -261,10 +406,23 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Baku, Azerbaijan</td>
-		<td>249</td>
+		<td>235</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/rahimlisarkhan">
+				<img src="https://avatars.githubusercontent.com/u/61918721?s=72&u=213ee68016abdb0b8c52f360fac30da34e53263b&v=4" width="24" alt="Avatar of rahimlisarkhan"> rahimlisarkhan
+			</a><br/>
+			No Name
+		</td>
+		<td>Software Engineer At Meetsoft<br/>Mmc<br/>(freelancer)<br/>&<br/>Sup.vc<br/>Mmc<br/>|<br/>Frontend<br/>(react)<br/>Developer<br/></td>
+		<td>No Twitter Username</td>
+		<td>Baku</td>
+		<td>230</td>
+	</tr>
+	<tr>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/Kenan7">
 				<img src="https://avatars.githubusercontent.com/u/11595462?s=72&u=e7441e7e735ec2c9ab65e88f3697a2a602cde58c&v=4" width="24" alt="Avatar of Kenan7"> Kenan7
@@ -274,10 +432,10 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>@sensidev </td>
 		<td>No Twitter Username</td>
 		<td>Currently in Ankara (TR), from Baku (AZ)</td>
-		<td>239</td>
+		<td>219</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/NijatZeynalov">
 				<img src="https://avatars.githubusercontent.com/u/31247506?s=72&u=9bd5426f24780f2ac0154da7d7380216d69b0254&v=4" width="24" alt="Avatar of NijatZeynalov"> NijatZeynalov
@@ -287,23 +445,23 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>The International Bank Of<br/>Azerbaijan<br/></td>
 		<td><a href="https://twitter.com/nijat_zeynalov">nijat_zeynalov</a></td>
 		<td>Azerbaijan</td>
-		<td>211</td>
+		<td>205</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>28</td>
 		<td>
-			<a href="https://github.com/Maharramoff">
-				<img src="https://avatars.githubusercontent.com/u/9804406?s=72&u=ebbc701312f1d00c3b992e68c688a3699ffd86df&v=4" width="24" alt="Avatar of Maharramoff"> Maharramoff
+			<a href="https://github.com/rasimmammadoff">
+				<img src="https://avatars.githubusercontent.com/u/47504114?s=72&u=550e2776f780884e2af6571c0e35d3b6caedffde&v=4" width="24" alt="Avatar of rasimmammadoff"> rasimmammadoff
 			</a><br/>
-			No Name
+			Rasim
 		</td>
-		<td>No Company</td>
+		<td>French Azerbaijani Univerisity </td>
 		<td>No Twitter Username</td>
-		<td>Azerbaijan, Baku</td>
-		<td>181</td>
+		<td>Azerbaijan</td>
+		<td>192</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/serkanalgur">
 				<img src="https://avatars.githubusercontent.com/u/353690?s=72&u=e7cd7c69ba5da4fa5d8ed99ee98fabfef1980a22&v=4" width="24" alt="Avatar of serkanalgur"> serkanalgur
@@ -316,7 +474,20 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>181</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>30</td>
+		<td>
+			<a href="https://github.com/Maharramoff">
+				<img src="https://avatars.githubusercontent.com/u/9804406?s=72&u=ebbc701312f1d00c3b992e68c688a3699ffd86df&v=4" width="24" alt="Avatar of Maharramoff"> Maharramoff
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan, Baku</td>
+		<td>177</td>
+	</tr>
+	<tr>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/TurqayUmudzade">
 				<img src="https://avatars.githubusercontent.com/u/51018753?s=72&u=85a933923f87b7eed2108ca5be0b795db804f912&v=4" width="24" alt="Avatar of TurqayUmudzade"> TurqayUmudzade
@@ -326,10 +497,23 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Baku Azerbaijan</td>
-		<td>175</td>
+		<td>173</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>32</td>
+		<td>
+			<a href="https://github.com/vusales">
+				<img src="https://avatars.githubusercontent.com/u/58183073?s=72&v=4" width="24" alt="Avatar of vusales"> vusales
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>AZERBAIJAN</td>
+		<td>169</td>
+	</tr>
+	<tr>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/HasanBakhtiar">
 				<img src="https://avatars.githubusercontent.com/u/52384595?s=72&u=b3e5c6bf56ed8383f76475c8f13891f9f18a005d&v=4" width="24" alt="Avatar of HasanBakhtiar"> HasanBakhtiar
@@ -342,7 +526,33 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>164</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>34</td>
+		<td>
+			<a href="https://github.com/akshinmustafayev">
+				<img src="https://avatars.githubusercontent.com/u/29357955?s=72&u=8e16ed237e9aac33d0c1151ef4106bfded2491b4&v=4" width="24" alt="Avatar of akshinmustafayev"> akshinmustafayev
+			</a><br/>
+			Akshin Mustafayev
+		</td>
+		<td>@infrabot-io  </td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan</td>
+		<td>162</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td>
+			<a href="https://github.com/samirvaliyev">
+				<img src="https://avatars.githubusercontent.com/u/56728977?s=72&u=ec0b572a1c70806b093df78bd46c2c7ad83e30cf&v=4" width="24" alt="Avatar of samirvaliyev"> samirvaliyev
+			</a><br/>
+			Samir Valiyev
+		</td>
+		<td>Samir.valiyev@gmail. </td>
+		<td><a href="https://twitter.com/samirvaliyev89">samirvaliyev89</a></td>
+		<td>Azerbaijan, Mingachevir</td>
+		<td>159</td>
+	</tr>
+	<tr>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/muradheydarov">
 				<img src="https://avatars.githubusercontent.com/u/23719760?s=72&u=99eacba75f97ce420468ef3109aaebf58dcfc5fa&v=4" width="24" alt="Avatar of muradheydarov"> muradheydarov
@@ -352,10 +562,23 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>Simbirella </td>
 		<td>No Twitter Username</td>
 		<td>Azerbaijan, Baku</td>
-		<td>163</td>
+		<td>157</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/rad1k4l">
+				<img src="https://avatars.githubusercontent.com/u/42554795?s=72&u=a5b135664dbc2cf546dc318745b6df9fdef92263&v=4" width="24" alt="Avatar of rad1k4l"> rad1k4l
+			</a><br/>
+			Orkhan Zeynalli
+		</td>
+		<td>Cobot </td>
+		<td>No Twitter Username</td>
+		<td>Baku</td>
+		<td>155</td>
+	</tr>
+	<tr>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/cavidann">
 				<img src="https://avatars.githubusercontent.com/u/25181266?s=72&u=68f0535bb2f2be6b48369d5ec2da71964743ad99&v=4" width="24" alt="Avatar of cavidann"> cavidann
@@ -365,23 +588,10 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>@innovationscenter </td>
 		<td>No Twitter Username</td>
 		<td>Baku, Azerbaijan</td>
-		<td>146</td>
+		<td>142</td>
 	</tr>
 	<tr>
-		<td>22</td>
-		<td>
-			<a href="https://github.com/tivole">
-				<img src="https://avatars.githubusercontent.com/u/45293435?s=72&u=be745de7b6956244d967a16bff245b10e946f75e&v=4" width="24" alt="Avatar of tivole"> tivole
-			</a><br/>
-			Kamran Asgarov
-		</td>
-		<td>R.i.s.k. Company </td>
-		<td><a href="https://twitter.com/tivole55">tivole55</a></td>
-		<td>Azerbaijan, Baku</td>
-		<td>141</td>
-	</tr>
-	<tr>
-		<td>23</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/ysnghr">
 				<img src="https://avatars.githubusercontent.com/u/44711227?s=72&u=f46b0fc19785b3db7ec47feb5cdfe2fa8bcea6a0&v=4" width="24" alt="Avatar of ysnghr"> ysnghr
@@ -394,20 +604,20 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>40</td>
 		<td>
-			<a href="https://github.com/verticaio">
-				<img src="https://avatars.githubusercontent.com/u/16330975?s=72&u=d76940a5497ff275944daa90ae70d3a8f95e300b&v=4" width="24" alt="Avatar of verticaio"> verticaio
+			<a href="https://github.com/tivole">
+				<img src="https://avatars.githubusercontent.com/u/45293435?s=72&u=be745de7b6956244d967a16bff245b10e946f75e&v=4" width="24" alt="Avatar of tivole"> tivole
 			</a><br/>
-			BabakMammadli
+			Kamran Asgarov
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/verticaio">verticaio</a></td>
-		<td>Baku, Azerbaijan</td>
-		<td>135</td>
+		<td>R.i.s.k. Company </td>
+		<td><a href="https://twitter.com/tivole55">tivole55</a></td>
+		<td>Azerbaijan, Baku</td>
+		<td>138</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/cfrv99">
 				<img src="https://avatars.githubusercontent.com/u/35463394?s=72&u=baafce3da0cc22287fd61f5fa02dc16a682cd4a2&v=4" width="24" alt="Avatar of cfrv99"> cfrv99
@@ -420,7 +630,72 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>42</td>
+		<td>
+			<a href="https://github.com/muradisgandar">
+				<img src="https://avatars.githubusercontent.com/u/51873850?s=72&u=26c5968383e210c70368c30f0acc9dd08a80f472&v=4" width="24" alt="Avatar of muradisgandar"> muradisgandar
+			</a><br/>
+			Murad Isgandarli 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan,Baku</td>
+		<td>132</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
+			<a href="https://github.com/tural777">
+				<img src="https://avatars.githubusercontent.com/u/61878427?s=72&u=18630729cc7ab644b1f53ee5372f35752ff95ead&v=4" width="24" alt="Avatar of tural777"> tural777
+			</a><br/>
+			Tural Novruzov
+		</td>
+		<td>Step It Academy </td>
+		<td>No Twitter Username</td>
+		<td>Baku Azerbaijan</td>
+		<td>132</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
+			<a href="https://github.com/iamNicat">
+				<img src="https://avatars.githubusercontent.com/u/64482349?s=72&u=afa753cf51bfc7b66be5be548f5ede6c9d172f83&v=4" width="24" alt="Avatar of iamNicat"> iamNicat
+			</a><br/>
+			Nicat Haciyev
+		</td>
+		<td>Baku Creative Projects </td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan,Baku</td>
+		<td>129</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
+			<a href="https://github.com/iamemil">
+				<img src="https://avatars.githubusercontent.com/u/20802146?s=72&u=1e49588312d6a9c3a8807c2ce6f52de5ad693c0a&v=4" width="24" alt="Avatar of iamemil"> iamemil
+			</a><br/>
+			Emil Ismayilzada
+		</td>
+		<td>@codeacademylab </td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>124</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td>
+			<a href="https://github.com/verticaio">
+				<img src="https://avatars.githubusercontent.com/u/16330975?s=72&u=d76940a5497ff275944daa90ae70d3a8f95e300b&v=4" width="24" alt="Avatar of verticaio"> verticaio
+			</a><br/>
+			BabakMammadli
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/verticaio">verticaio</a></td>
+		<td>Baku, Azerbaijan</td>
+		<td>123</td>
+	</tr>
+	<tr>
+		<td>47</td>
 		<td>
 			<a href="https://github.com/bizhe">
 				<img src="https://avatars.githubusercontent.com/u/29896440?s=72&v=4" width="24" alt="Avatar of bizhe"> bizhe
@@ -430,10 +705,36 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>E-gov </td>
 		<td><a href="https://twitter.com/ze_bizhe">ze_bizhe</a></td>
 		<td>Baku</td>
-		<td>126</td>
+		<td>123</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>48</td>
+		<td>
+			<a href="https://github.com/yasin-mehdiyev">
+				<img src="https://avatars.githubusercontent.com/u/30857286?s=72&u=d191fe89cf1fa09303a7c5514c68948c60d05239&v=4" width="24" alt="Avatar of yasin-mehdiyev"> yasin-mehdiyev
+			</a><br/>
+			No Name
+		</td>
+		<td>@codeacademylab </td>
+		<td>No Twitter Username</td>
+		<td>Baku-Azerbaijan</td>
+		<td>121</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>
+			<a href="https://github.com/AmilAbdullazadeh">
+				<img src="https://avatars.githubusercontent.com/u/44087823?s=72&u=da6d1aa7748347e5b4974adffd263154051980ca&v=4" width="24" alt="Avatar of AmilAbdullazadeh"> AmilAbdullazadeh
+			</a><br/>
+			Amil Abdullazadeh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>119</td>
+	</tr>
+	<tr>
+		<td>50</td>
 		<td>
 			<a href="https://github.com/jamilalisgandarov">
 				<img src="https://avatars.githubusercontent.com/u/19148254?s=72&u=c177b0aeaec77906bb2d5c7e248936320f7dad8e&v=4" width="24" alt="Avatar of jamilalisgandarov"> jamilalisgandarov
@@ -443,36 +744,10 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>@codeacademylab  </td>
 		<td>No Twitter Username</td>
 		<td>Baku, Azerbaijan</td>
-		<td>116</td>
+		<td>117</td>
 	</tr>
 	<tr>
-		<td>28</td>
-		<td>
-			<a href="https://github.com/Sadykhzadeh">
-				<img src="https://avatars.githubusercontent.com/u/51178055?s=72&u=876c9968b1f27de6c0e6445514530c4f11829809&v=4" width="24" alt="Avatar of Sadykhzadeh"> Sadykhzadeh
-			</a><br/>
-			Azer Sadykhzadeh
-		</td>
-		<td>Baku Higher Oil School<br/></td>
-		<td><a href="https://twitter.com/Sadykhzadeh">Sadykhzadeh</a></td>
-		<td>Baku, Azerbaijan</td>
-		<td>115</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/goshgarmirzayev">
-				<img src="https://avatars.githubusercontent.com/u/35040732?s=72&u=b13d2299a357d22fcf9fe0dd88c11727878a2b98&v=4" width="24" alt="Avatar of goshgarmirzayev"> goshgarmirzayev
-			</a><br/>
-			Goshgar Mirzayev
-		</td>
-		<td>Bank Of Baku Osc<br/></td>
-		<td><a href="https://twitter.com/goshgarmirzayev">goshgarmirzayev</a></td>
-		<td>Baku,Azerbaijan</td>
-		<td>115</td>
-	</tr>
-	<tr>
-		<td>30</td>
+		<td>51</td>
 		<td>
 			<a href="https://github.com/mahmudfrzl">
 				<img src="https://avatars.githubusercontent.com/u/76992093?s=72&u=dc02521a60d6f76bbeacff7b3d73b5159b16a016&v=4" width="24" alt="Avatar of mahmudfrzl"> mahmudfrzl
@@ -482,10 +757,75 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Gakh/Azerbaijan</td>
-		<td>112</td>
+		<td>113</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>52</td>
+		<td>
+			<a href="https://github.com/amahammadli20">
+				<img src="https://avatars.githubusercontent.com/u/76879722?s=72&v=4" width="24" alt="Avatar of amahammadli20"> amahammadli20
+			</a><br/>
+			Aytaj Mahammadli
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan</td>
+		<td>113</td>
+	</tr>
+	<tr>
+		<td>53</td>
+		<td>
+			<a href="https://github.com/goshgarmirzayev">
+				<img src="https://avatars.githubusercontent.com/u/35040732?s=72&u=b13d2299a357d22fcf9fe0dd88c11727878a2b98&v=4" width="24" alt="Avatar of goshgarmirzayev"> goshgarmirzayev
+			</a><br/>
+			Goshgar Mirzayev
+		</td>
+		<td>Bank Of Baku Osc<br/></td>
+		<td><a href="https://twitter.com/goshgarmirzayev">goshgarmirzayev</a></td>
+		<td>Baku,Azerbaijan</td>
+		<td>111</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/SadikhovEmin">
+				<img src="https://avatars.githubusercontent.com/u/45246131?s=72&u=71e71cbe95cc2e5d0f3df231cbb167dfb3afdb81&v=4" width="24" alt="Avatar of SadikhovEmin"> SadikhovEmin
+			</a><br/>
+			Emin Sadikhov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>111</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>
+			<a href="https://github.com/Sadykhzadeh">
+				<img src="https://avatars.githubusercontent.com/u/51178055?s=72&u=876c9968b1f27de6c0e6445514530c4f11829809&v=4" width="24" alt="Avatar of Sadykhzadeh"> Sadykhzadeh
+			</a><br/>
+			Azer Sadykhzadeh
+		</td>
+		<td>Baku Higher Oil School<br/></td>
+		<td><a href="https://twitter.com/Sadykhzadeh">Sadykhzadeh</a></td>
+		<td>Baku, Azerbaijan</td>
+		<td>110</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/Simuratli">
+				<img src="https://avatars.githubusercontent.com/u/44237641?s=72&u=b47f2db6bee0eb39e6812ba194eed6f0bd065572&v=4" width="24" alt="Avatar of Simuratli"> Simuratli
+			</a><br/>
+			Eljan Simuratli
+		</td>
+		<td>Freelance </td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan</td>
+		<td>110</td>
+	</tr>
+	<tr>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/NigarMovsumova">
 				<img src="https://avatars.githubusercontent.com/u/17670764?s=72&u=d7a8d19a684e2aabb793023efa4842bd2b90952e&v=4" width="24" alt="Avatar of NigarMovsumova"> NigarMovsumova
@@ -498,20 +838,46 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>58</td>
 		<td>
-			<a href="https://github.com/rufat">
-				<img src="https://avatars.githubusercontent.com/u/5330471?s=72&u=fe3f82dabc4711fbbe8f9c90a81d41cd05253d7b&v=4" width="24" alt="Avatar of rufat"> rufat
+			<a href="https://github.com/FaiqRustamov">
+				<img src="https://avatars.githubusercontent.com/u/35048047?s=72&u=defe41b4f5f4d609dcbeaee5c42158564f45d5ed&v=4" width="24" alt="Avatar of FaiqRustamov"> FaiqRustamov
 			</a><br/>
-			Rufat
+			Faiq Rustamov
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rufatmammadli">rufatmammadli</a></td>
-		<td>Azerbaijan, Baku</td>
-		<td>108</td>
+		<td>No Twitter Username</td>
+		<td>Baku</td>
+		<td>109</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>59</td>
+		<td>
+			<a href="https://github.com/alvinahmadov">
+				<img src="https://avatars.githubusercontent.com/u/15930121?s=72&u=86d27d5caf52108db77a08ae27882c27d5f88dea&v=4" width="24" alt="Avatar of alvinahmadov"> alvinahmadov
+			</a><br/>
+			Alvin Ahmadov
+		</td>
+		<td>Worldwide </td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>107</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/KananBagaliyev">
+				<img src="https://avatars.githubusercontent.com/u/55328259?s=72&u=72acbec393f5d8b016e15b3aaae25a29544e2cac&v=4" width="24" alt="Avatar of KananBagaliyev"> KananBagaliyev
+			</a><br/>
+			Kanan
+		</td>
+		<td>Code Academy </td>
+		<td><a href="https://twitter.com/bglyvv">bglyvv</a></td>
+		<td>Baku</td>
+		<td>105</td>
+	</tr>
+	<tr>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/yolchunasib">
 				<img src="https://avatars.githubusercontent.com/u/4458351?s=72&u=878b9b50994a4b2e71fa4f9ee88cfb2d36416929&v=4" width="24" alt="Avatar of yolchunasib"> yolchunasib
@@ -524,7 +890,46 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>62</td>
+		<td>
+			<a href="https://github.com/sevdimali">
+				<img src="https://avatars.githubusercontent.com/u/7975087?s=72&v=4" width="24" alt="Avatar of sevdimali"> sevdimali
+			</a><br/>
+			Sevdimali
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku</td>
+		<td>101</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
+			<a href="https://github.com/rufat">
+				<img src="https://avatars.githubusercontent.com/u/5330471?s=72&u=fe3f82dabc4711fbbe8f9c90a81d41cd05253d7b&v=4" width="24" alt="Avatar of rufat"> rufat
+			</a><br/>
+			Rufat
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/rufatmammadli">rufatmammadli</a></td>
+		<td>Azerbaijan, Baku</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
+			<a href="https://github.com/KarimLeeKarim">
+				<img src="https://avatars.githubusercontent.com/u/64795784?s=72&u=8643a0eb39206c2f6f55e129ad015763780554ad&v=4" width="24" alt="Avatar of KarimLeeKarim"> KarimLeeKarim
+			</a><br/>
+			Karim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan, Baku</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/Ayna-Amrahova">
 				<img src="https://avatars.githubusercontent.com/u/46188988?s=72&u=d98c2e79b79c9b4aa56a5291f44f5cc55d820ed9&v=4" width="24" alt="Avatar of Ayna-Amrahova"> Ayna-Amrahova
@@ -534,10 +939,36 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Baku, Azerbaijan</td>
-		<td>96</td>
+		<td>95</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>66</td>
+		<td>
+			<a href="https://github.com/aidanatakishieva">
+				<img src="https://avatars.githubusercontent.com/u/55460477?s=72&u=0914f85f6e46daa43b878c41935c9999333fc56c&v=4" width="24" alt="Avatar of aidanatakishieva"> aidanatakishieva
+			</a><br/>
+			Aidan
+		</td>
+		<td>Internship </td>
+		<td><a href="https://twitter.com/iampillango">iampillango</a></td>
+		<td>Baku,Azerbaijan</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
+			<a href="https://github.com/ioseff-i">
+				<img src="https://avatars.githubusercontent.com/u/52665836?s=72&u=d91d0b9bd737caa1e784a5c0c19ab4fb0a16a45c&v=4" width="24" alt="Avatar of ioseff-i"> ioseff-i
+			</a><br/>
+			Yusif Ibrahimov
+		</td>
+		<td>Tfug Azerbaijan </td>
+		<td>No Twitter Username</td>
+		<td>Baku Azerbaijan</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>68</td>
 		<td>
 			<a href="https://github.com/KananHabibli">
 				<img src="https://avatars.githubusercontent.com/u/61047713?s=72&u=2f74b87d4bfa1fd28f5ad03e44010d2f9ead9c2f&v=4" width="24" alt="Avatar of KananHabibli"> KananHabibli
@@ -550,7 +981,111 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>69</td>
+		<td>
+			<a href="https://github.com/Rarblack">
+				<img src="https://avatars.githubusercontent.com/u/20489166?s=72&u=46d48d90804168727269812f1fa3411f3afaf9b9&v=4" width="24" alt="Avatar of Rarblack"> Rarblack
+			</a><br/>
+			Aydin Bagiyev
+		</td>
+		<td>@ada School </td>
+		<td><a href="https://twitter.com/therarblack">therarblack</a></td>
+		<td>Baku, Azerbaijan</td>
+		<td>88</td>
+	</tr>
+	<tr>
+		<td>70</td>
+		<td>
+			<a href="https://github.com/reshadrzayev">
+				<img src="https://avatars.githubusercontent.com/u/80092533?s=72&u=d75bb6463162eaceb3739c21b21725a2259dd4b4&v=4" width="24" alt="Avatar of reshadrzayev"> reshadrzayev
+			</a><br/>
+			Reshad Rzayev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>71</td>
+		<td>
+			<a href="https://github.com/tofigamraslanov">
+				<img src="https://avatars.githubusercontent.com/u/67590472?s=72&u=1159294b0023f0db94fc42d5a17fed031e37f80d&v=4" width="24" alt="Avatar of tofigamraslanov"> tofigamraslanov
+			</a><br/>
+			Tofig Amraslanov
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tofigamraslanov">tofigamraslanov</a></td>
+		<td>Baku ,Azerbaijan</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
+			<a href="https://github.com/Pasayev04">
+				<img src="https://avatars.githubusercontent.com/u/80711095?s=72&v=4" width="24" alt="Avatar of Pasayev04"> Pasayev04
+			</a><br/>
+			Cavad Pashayev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku Azerbaijan</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>
+			<a href="https://github.com/anar1996">
+				<img src="https://avatars.githubusercontent.com/u/71570209?s=72&u=3d8897565e4f67c555c07639560d9c4886b3d287&v=4" width="24" alt="Avatar of anar1996"> anar1996
+			</a><br/>
+			Anar
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/anar1501">anar1501</a></td>
+		<td>Absheron,Ceyranbatan,Azerbaijan</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
+			<a href="https://github.com/pervizrzazade">
+				<img src="https://avatars.githubusercontent.com/u/79443376?s=72&u=b8b27ffa8c24597e7dd479f314180e6633a72312&v=4" width="24" alt="Avatar of pervizrzazade"> pervizrzazade
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/parvizrzazada">parvizrzazada</a></td>
+		<td>Baku</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
+			<a href="https://github.com/teacherstrange">
+				<img src="https://avatars.githubusercontent.com/u/48492598?s=72&v=4" width="24" alt="Avatar of teacherstrange"> teacherstrange
+			</a><br/>
+			Subhan Bakhtiyarov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>
+			<a href="https://github.com/NMW03">
+				<img src="https://avatars.githubusercontent.com/u/50991261?s=72&u=c483fb68001c09d9587a52fc9008053d751a047a&v=4" width="24" alt="Avatar of NMW03"> NMW03
+			</a><br/>
+			NMW03
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nmw03_">nmw03_</a></td>
+		<td>Baku, Azerbaijan</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/elshadaghazade">
 				<img src="https://avatars.githubusercontent.com/u/3605068?s=72&u=8ec26dc2779ccc230523aedafdef8ac6ee53cb6c&v=4" width="24" alt="Avatar of elshadaghazade"> elshadaghazade
@@ -563,20 +1098,20 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>78</td>
 		<td>
-			<a href="https://github.com/orkhan-huseyn">
-				<img src="https://avatars.githubusercontent.com/u/21221412?s=72&u=077976ad0f779f50842ca302f25b237a1a2d76a9&v=4" width="24" alt="Avatar of orkhan-huseyn"> orkhan-huseyn
+			<a href="https://github.com/sahilappayev">
+				<img src="https://avatars.githubusercontent.com/u/55394754?s=72&u=dd1966bce7613ac68335701b81640adbeb8258ea&v=4" width="24" alt="Avatar of sahilappayev"> sahilappayev
 			</a><br/>
-			Orkhan Huseynli
+			Sahil Appayev
 		</td>
-		<td>State Agency For Public<br/>Service<br/>And<br/>Social<br/>Innovations<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Baku, Azerbaijan</td>
-		<td>68</td>
+		<td>Baku</td>
+		<td>73</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/eldaniiz">
 				<img src="https://avatars.githubusercontent.com/u/46849939?s=72&u=e6b62be1ad83bc33013506456926bc3663d274de&v=4" width="24" alt="Avatar of eldaniiz"> eldaniiz
@@ -589,7 +1124,20 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>80</td>
+		<td>
+			<a href="https://github.com/orkhan-huseyn">
+				<img src="https://avatars.githubusercontent.com/u/21221412?s=72&u=077976ad0f779f50842ca302f25b237a1a2d76a9&v=4" width="24" alt="Avatar of orkhan-huseyn"> orkhan-huseyn
+			</a><br/>
+			Orkhan Huseynli
+		</td>
+		<td>State Agency For Public<br/>Service<br/>And<br/>Social<br/>Innovations<br/></td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>67</td>
+	</tr>
+	<tr>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/muradddd">
 				<img src="https://avatars.githubusercontent.com/u/30631316?s=72&u=ee666e804af82bde6f35e7691d3d643e68a5b33a&v=4" width="24" alt="Avatar of muradddd"> muradddd
@@ -602,7 +1150,46 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>82</td>
+		<td>
+			<a href="https://github.com/mammadmammadli">
+				<img src="https://avatars.githubusercontent.com/u/47442970?s=72&u=02dff8cb9ef28e7285c7b626444b112cf9959b5f&v=4" width="24" alt="Avatar of mammadmammadli"> mammadmammadli
+			</a><br/>
+			Mammad Mammadli
+		</td>
+		<td>@pb-digital  </td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan Baku</td>
+		<td>67</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>
+			<a href="https://github.com/MuzafferAliyev">
+				<img src="https://avatars.githubusercontent.com/u/57995890?s=72&u=6fabda8d18e57be24ad93b1a1d20a67cc6e27d02&v=4" width="24" alt="Avatar of MuzafferAliyev"> MuzafferAliyev
+			</a><br/>
+			Müzəffər Əliyev
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/muzeffereli">muzeffereli</a></td>
+		<td>Baku,Azerbaijan</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
+			<a href="https://github.com/GSmanXVI">
+				<img src="https://avatars.githubusercontent.com/u/10629536?s=72&u=a8e7cdd22aa3110ba6f451761ac92038227459d1&v=4" width="24" alt="Avatar of GSmanXVI"> GSmanXVI
+			</a><br/>
+			Gleb Skripnikov
+		</td>
+		<td>Intetics </td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/Sina-Afshar">
 				<img src="https://avatars.githubusercontent.com/u/75923342?s=72&u=609f62c6507451a43382deb09d7ea323cdcf6eac&v=4" width="24" alt="Avatar of Sina-Afshar"> Sina-Afshar
@@ -615,7 +1202,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/rasad2k">
 				<img src="https://avatars.githubusercontent.com/u/56761118?s=72&v=4" width="24" alt="Avatar of rasad2k"> rasad2k
@@ -628,7 +1215,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/samirkarimov">
 				<img src="https://avatars.githubusercontent.com/u/24611841?s=72&u=3ccc3eefdb9cf1c822a4dffb84318f2a1b7413c8&v=4" width="24" alt="Avatar of samirkarimov"> samirkarimov
@@ -641,20 +1228,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>43</td>
-		<td>
-			<a href="https://github.com/RashadGarayev">
-				<img src="https://avatars.githubusercontent.com/u/22212632?s=72&u=14d01c5094f76e6033881e0f7a405e9a123e4f85&v=4" width="24" alt="Avatar of RashadGarayev"> RashadGarayev
-			</a><br/>
-			Rashad Garayev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Azerbaijan</td>
-		<td>60</td>
-	</tr>
-	<tr>
-		<td>44</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/munisisazade">
 				<img src="https://avatars.githubusercontent.com/u/16176593?s=72&u=b0c7c16b13127d2bb76cdf30d7c822ae2d5dc870&v=4" width="24" alt="Avatar of munisisazade"> munisisazade
@@ -667,20 +1241,20 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>89</td>
 		<td>
-			<a href="https://github.com/eminghuliev">
-				<img src="https://avatars.githubusercontent.com/u/14012405?s=72&u=b4c3f5d8993ab71a28a4233bae0fcc8dda5bde91&v=4" width="24" alt="Avatar of eminghuliev"> eminghuliev
+			<a href="https://github.com/axmed97">
+				<img src="https://avatars.githubusercontent.com/u/55192261?s=72&u=e8528269179a391319fd0b4122b2e6c84a3bd35d&v=4" width="24" alt="Avatar of axmed97"> axmed97
 			</a><br/>
-			Emin Ghuliev
+			Axmed Axmedov
 		</td>
-		<td>No Company</td>
+		<td>Compar Academy </td>
 		<td>No Twitter Username</td>
-		<td>Azerbaijan, Baku</td>
+		<td>Azerbaijan</td>
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>46</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/Yediyarov">
 				<img src="https://avatars.githubusercontent.com/u/25177359?s=72&u=aaf6f84545f0d720d072765a830a7b6e28d808b9&v=4" width="24" alt="Avatar of Yediyarov"> Yediyarov
@@ -693,7 +1267,20 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>47</td>
+		<td>91</td>
+		<td>
+			<a href="https://github.com/eminghuliev">
+				<img src="https://avatars.githubusercontent.com/u/14012405?s=72&u=b4c3f5d8993ab71a28a4233bae0fcc8dda5bde91&v=4" width="24" alt="Avatar of eminghuliev"> eminghuliev
+			</a><br/>
+			Emin Ghuliev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan, Baku</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/OrkhanAlikhanov">
 				<img src="https://avatars.githubusercontent.com/u/15037839?s=72&u=ad32dbfc3fd218b8ff1cf72e8ded82cc4b950e27&v=4" width="24" alt="Avatar of OrkhanAlikhanov"> OrkhanAlikhanov
@@ -706,7 +1293,20 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>48</td>
+		<td>93</td>
+		<td>
+			<a href="https://github.com/LinuxAlien">
+				<img src="https://avatars.githubusercontent.com/u/64166663?s=72&u=8413235747b7447b50881052f154d61774fdf514&v=4" width="24" alt="Avatar of LinuxAlien"> LinuxAlien
+			</a><br/>
+			Murad Zeynallı
+		</td>
+		<td>Baku Programming Company <br/>Asoiu<br/></td>
+		<td><a href="https://twitter.com/lhumannl">lhumannl</a></td>
+		<td>Baku/Azerbaijan</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/Faridbabayev001">
 				<img src="https://avatars.githubusercontent.com/u/20392117?s=72&u=5240b88ce7a2f209fed8915aabfc4441cee1a7ce&v=4" width="24" alt="Avatar of Faridbabayev001"> Faridbabayev001
@@ -719,7 +1319,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>49</td>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/ewintory">
 				<img src="https://avatars.githubusercontent.com/u/6298084?s=72&u=e198e8f30e8b3fc650bd3bf99d26412c2436d7f3&v=4" width="24" alt="Avatar of ewintory"> ewintory
@@ -732,7 +1332,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>50</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/fuadaghazada">
 				<img src="https://avatars.githubusercontent.com/u/28226566?s=72&u=5589d6800e8dfe4e6f2e8721ee6b0eaf43446605&v=4" width="24" alt="Avatar of fuadaghazada"> fuadaghazada
@@ -745,7 +1345,33 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>51</td>
+		<td>97</td>
+		<td>
+			<a href="https://github.com/srustamov">
+				<img src="https://avatars.githubusercontent.com/u/22997563?s=72&u=43589bf1c04dba4d5d5d38335f8e26880958377e&v=4" width="24" alt="Avatar of srustamov"> srustamov
+			</a><br/>
+			Samir Rustamov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku , Azerbaijan</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>98</td>
+		<td>
+			<a href="https://github.com/RashadGarayev">
+				<img src="https://avatars.githubusercontent.com/u/22212632?s=72&u=14d01c5094f76e6033881e0f7a405e9a123e4f85&v=4" width="24" alt="Avatar of RashadGarayev"> RashadGarayev
+			</a><br/>
+			Rashad Garayev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/ahadsuleymanli">
 				<img src="https://avatars.githubusercontent.com/u/7534472?s=72&u=d9bc17ebe87d0ce94ef672786100781461f8b0fc&v=4" width="24" alt="Avatar of ahadsuleymanli"> ahadsuleymanli
@@ -758,20 +1384,33 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>100</td>
 		<td>
-			<a href="https://github.com/agayev169">
-				<img src="https://avatars.githubusercontent.com/u/34622021?s=72&u=7c08ce48099bc9dbcc05afb6f301cf9fd4dec7a3&v=4" width="24" alt="Avatar of agayev169"> agayev169
+			<a href="https://github.com/beshirazizov">
+				<img src="https://avatars.githubusercontent.com/u/34640844?s=72&u=597afa0c69c2b0aeaa256e6e93cad0848b4477e7&v=4" width="24" alt="Avatar of beshirazizov"> beshirazizov
 			</a><br/>
-			Kamal Aghayev
+			Bəşir Əzizov
 		</td>
-		<td>Simbrella </td>
+		<td>Risk </td>
 		<td>No Twitter Username</td>
-		<td>Baku, Azerbaijan</td>
-		<td>39</td>
+		<td>Azerbaijan, Baku</td>
+		<td>43</td>
 	</tr>
 	<tr>
-		<td>53</td>
+		<td>101</td>
+		<td>
+			<a href="https://github.com/mirjalal">
+				<img src="https://avatars.githubusercontent.com/u/7040450?s=72&u=4e7ffc8c4d762850f83354274897d8171fb74072&v=4" width="24" alt="Avatar of mirjalal"> mirjalal
+			</a><br/>
+			Mirjalal
+		</td>
+		<td>Tayqatech Ltd </td>
+		<td><a href="https://twitter.com/_talmir">_talmir</a></td>
+		<td>Baku</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>102</td>
 		<td>
 			<a href="https://github.com/OfeliaRv">
 				<img src="https://avatars.githubusercontent.com/u/51018725?s=72&u=23789fa76ab65564266e20a1161aac6f7a929e54&v=4" width="24" alt="Avatar of OfeliaRv"> OfeliaRv
@@ -784,7 +1423,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>54</td>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/ToghrulMr">
 				<img src="https://avatars.githubusercontent.com/u/69515236?s=72&u=1f4423a9252371f93a18b6299cd3e34a86dc82c6&v=4" width="24" alt="Avatar of ToghrulMr"> ToghrulMr
@@ -797,7 +1436,46 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>55</td>
+		<td>104</td>
+		<td>
+			<a href="https://github.com/eljanmahammadli">
+				<img src="https://avatars.githubusercontent.com/u/69725659?s=72&v=4" width="24" alt="Avatar of eljanmahammadli"> eljanmahammadli
+			</a><br/>
+			Elcan Məhəmmədli
+		</td>
+		<td>Unibank </td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>
+			<a href="https://github.com/SananMuzaffarov">
+				<img src="https://avatars.githubusercontent.com/u/78546750?s=72&u=c97265a5861f4b6efa3e9d5b28dab2d740373054&v=4" width="24" alt="Avatar of SananMuzaffarov"> SananMuzaffarov
+			</a><br/>
+			SananM
+		</td>
+		<td>Khazar University </td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan,Baku</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>106</td>
+		<td>
+			<a href="https://github.com/agayev169">
+				<img src="https://avatars.githubusercontent.com/u/34622021?s=72&u=7c08ce48099bc9dbcc05afb6f301cf9fd4dec7a3&v=4" width="24" alt="Avatar of agayev169"> agayev169
+			</a><br/>
+			Kamal Aghayev
+		</td>
+		<td>Simbrella </td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/seyhunak">
 				<img src="https://avatars.githubusercontent.com/u/170820?s=72&u=18f8be1f945b6aa37b3b04c9efe4faa898e25835&v=4" width="24" alt="Avatar of seyhunak"> seyhunak
@@ -810,7 +1488,20 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>56</td>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/rufatZZ">
+				<img src="https://avatars.githubusercontent.com/u/19148199?s=72&u=8ebc183d6b8a1a35066aa0021e052bb44a84db2c&v=4" width="24" alt="Avatar of rufatZZ"> rufatZZ
+			</a><br/>
+			Rufat Zeynalli
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/kerimovscreations">
 				<img src="https://avatars.githubusercontent.com/u/10672530?s=72&u=38ab5c3bd06b46797a9bdcc8aad5681d82dc266f&v=4" width="24" alt="Avatar of kerimovscreations"> kerimovscreations
@@ -823,7 +1514,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>57</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/rommelmamedov">
 				<img src="https://avatars.githubusercontent.com/u/38986496?s=72&u=9e8cadffe23c4da77fdb755e8a1596a4259e2a2f&v=4" width="24" alt="Avatar of rommelmamedov"> rommelmamedov
@@ -836,7 +1527,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>58</td>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/orkhanfarmanli">
 				<img src="https://avatars.githubusercontent.com/u/14097805?s=72&u=4166866f2fa75842ea307d33c7712047fd821553&v=4" width="24" alt="Avatar of orkhanfarmanli"> orkhanfarmanli
@@ -849,7 +1540,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>59</td>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/frddl">
 				<img src="https://avatars.githubusercontent.com/u/16150999?s=72&u=47bcfeebf14a5920f861a2cf0ce12f0364046808&v=4" width="24" alt="Avatar of frddl"> frddl
@@ -862,7 +1553,20 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>60</td>
+		<td>113</td>
+		<td>
+			<a href="https://github.com/rafizadeh">
+				<img src="https://avatars.githubusercontent.com/u/42311158?s=72&u=e7807d1ad46902b746551dd49e6cb1e1b8a92b3f&v=4" width="24" alt="Avatar of rafizadeh"> rafizadeh
+			</a><br/>
+			Rauf
+		</td>
+		<td>Data Processing Center </td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/jmuseyibli">
 				<img src="https://avatars.githubusercontent.com/u/29117759?s=72&u=5422d79db031a86b4b8fcc8e3f19af2133d3e6a8&v=4" width="24" alt="Avatar of jmuseyibli"> jmuseyibli
@@ -875,7 +1579,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>61</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/iibrahimli">
 				<img src="https://avatars.githubusercontent.com/u/34434302?s=72&u=4d45d314ba0b46e6ad9fa63d9c17235487c868ae&v=4" width="24" alt="Avatar of iibrahimli"> iibrahimli
@@ -888,7 +1592,33 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>116</td>
+		<td>
+			<a href="https://github.com/VugarAhmadov">
+				<img src="https://avatars.githubusercontent.com/u/19684265?s=72&u=cad7e059dc2a553d5f5c8d732f60599509b4a12a&v=4" width="24" alt="Avatar of VugarAhmadov"> VugarAhmadov
+			</a><br/>
+			Vugar Ahmadov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>
+			<a href="https://github.com/RamizVa1iyev">
+				<img src="https://avatars.githubusercontent.com/u/62305223?s=72&u=454caf93b5a8d32279522c542c3b9f574b432ec0&v=4" width="24" alt="Avatar of RamizVa1iyev"> RamizVa1iyev
+			</a><br/>
+			No Name
+		</td>
+		<td>None </td>
+		<td>No Twitter Username</td>
+		<td>Baku</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/maharramg">
 				<img src="https://avatars.githubusercontent.com/u/56450053?s=72&u=90a2962d778bac2315329e10f0dcf11d3a3fe54f&v=4" width="24" alt="Avatar of maharramg"> maharramg
@@ -901,7 +1631,20 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>119</td>
+		<td>
+			<a href="https://github.com/alvanrahimli">
+				<img src="https://avatars.githubusercontent.com/u/41202771?s=72&u=efa8553b4ac39a7b8644b742317a58a06d444eba&v=4" width="24" alt="Avatar of alvanrahimli"> alvanrahimli
+			</a><br/>
+			Alvan Rahimli
+		</td>
+		<td>Fonibo </td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaujan</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/amirashad">
 				<img src="https://avatars.githubusercontent.com/u/15357881?s=72&u=b1a5802706cad0d8c0158d2d2a17e9baecb44ac4&v=4" width="24" alt="Avatar of amirashad"> amirashad
@@ -914,7 +1657,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/SuleymanSuleymanzade">
 				<img src="https://avatars.githubusercontent.com/u/28810721?s=72&u=669a1cbe56c7c81199ca68a98a7e680dcad7b51b&v=4" width="24" alt="Avatar of SuleymanSuleymanzade"> SuleymanSuleymanzade
@@ -927,7 +1670,33 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>122</td>
+		<td>
+			<a href="https://github.com/SenanImanov">
+				<img src="https://avatars.githubusercontent.com/u/77413969?s=72&u=d2ac10f170e9e7936a493ddbc26f4f800a050123&v=4" width="24" alt="Avatar of SenanImanov"> SenanImanov
+			</a><br/>
+			Senan İmanov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan Baku</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>
+			<a href="https://github.com/hasanaliyev">
+				<img src="https://avatars.githubusercontent.com/u/30781228?s=72&v=4" width="24" alt="Avatar of hasanaliyev"> hasanaliyev
+			</a><br/>
+			Hasan Aliyev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/raminorujov">
 				<img src="https://avatars.githubusercontent.com/u/973347?s=72&u=b1afe942f630e56a9132cef31b84305b8ff36678&v=4" width="24" alt="Avatar of raminorujov"> raminorujov
@@ -940,7 +1709,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/AyselAmrahli">
 				<img src="https://avatars.githubusercontent.com/u/17585769?s=72&u=4e5f95f293c8ae8788b85c534876a23815225ec0&v=4" width="24" alt="Avatar of AyselAmrahli"> AyselAmrahli
@@ -953,7 +1722,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/aykhan-dev">
 				<img src="https://avatars.githubusercontent.com/u/61653356?s=72&u=abf077414738f8b1a46fce90d49aae47314d3b3d&v=4" width="24" alt="Avatar of aykhan-dev"> aykhan-dev
@@ -966,7 +1735,46 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>68</td>
+		<td>127</td>
+		<td>
+			<a href="https://github.com/namigalyv">
+				<img src="https://avatars.githubusercontent.com/u/30746612?s=72&u=446e6aed83c792b2e14809639bbfa433fdbe956c&v=4" width="24" alt="Avatar of namigalyv"> namigalyv
+			</a><br/>
+			Namig Aliyev
+		</td>
+		<td>@pb-digital </td>
+		<td><a href="https://twitter.com/namigalyv">namigalyv</a></td>
+		<td>Baku, Azerbaijan</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
+			<a href="https://github.com/jafaralizada">
+				<img src="https://avatars.githubusercontent.com/u/46425010?s=72&u=725919a5b20dcac73121b5346308456ece63ef28&v=4" width="24" alt="Avatar of jafaralizada"> jafaralizada
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Turkey-Azerbaijan</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>129</td>
+		<td>
+			<a href="https://github.com/iamvaliyev">
+				<img src="https://avatars.githubusercontent.com/u/7686591?s=72&u=6eb0e0d0ba8e233072aab6144b6ac290cb4ecfdd&v=4" width="24" alt="Avatar of iamvaliyev"> iamvaliyev
+			</a><br/>
+			Emil Vəliyev
+		</td>
+		<td>Idrak </td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan, Baku</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/ziyaddin">
 				<img src="https://avatars.githubusercontent.com/u/1016523?s=72&u=27602f0590f956ec0e39e6b62cc68caa0f595d90&v=4" width="24" alt="Avatar of ziyaddin"> ziyaddin
@@ -979,7 +1787,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>69</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/heydershukurov01">
 				<img src="https://avatars.githubusercontent.com/u/17590789?s=72&u=0632233d3e4c74a0c9a7a46b79c8fb39c9db7425&v=4" width="24" alt="Avatar of heydershukurov01"> heydershukurov01
@@ -992,20 +1800,33 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>132</td>
 		<td>
-			<a href="https://github.com/abdurahman-ctis">
-				<img src="https://avatars.githubusercontent.com/u/34229283?s=72&u=5a91edbe9e760f5f9af531954ce44c2b6c7be315&v=4" width="24" alt="Avatar of abdurahman-ctis"> abdurahman-ctis
+			<a href="https://github.com/Jaavidd">
+				<img src="https://avatars.githubusercontent.com/u/37974777?s=72&u=7c053f2eef2af3fae2f6e1482ae94735f64ee631&v=4" width="24" alt="Avatar of Jaavidd"> Jaavidd
 			</a><br/>
-			Abdurahman Atakishiyev
+			Javid Mammadli
 		</td>
-		<td>Bilkent University </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Baku, Azerbaijan</td>
-		<td>13</td>
+		<td>Baku,Azerbaijan</td>
+		<td>14</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>133</td>
+		<td>
+			<a href="https://github.com/aykhanhuseyn">
+				<img src="https://avatars.githubusercontent.com/u/45911419?s=72&u=1774c1d12043413e22cb887716c32b811a55f915&v=4" width="24" alt="Avatar of aykhanhuseyn"> aykhanhuseyn
+			</a><br/>
+			Aykhan Huseyn
+		</td>
+		<td>Agile Solutions </td>
+		<td><a href="https://twitter.com/aykhanhuseyn">aykhanhuseyn</a></td>
+		<td>Baku, Azerbaijan</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/muradimanbayli">
 				<img src="https://avatars.githubusercontent.com/u/4321030?s=72&u=b1591282462c51f21a3726ce2e3c2d84ed25a287&v=4" width="24" alt="Avatar of muradimanbayli"> muradimanbayli
@@ -1018,7 +1839,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/hbayramov">
 				<img src="https://avatars.githubusercontent.com/u/8409439?s=72&u=ddec84e5d50c3e66c7281cb98bec2f173a4e12e2&v=4" width="24" alt="Avatar of hbayramov"> hbayramov
@@ -1031,7 +1852,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/aliasgarli">
 				<img src="https://avatars.githubusercontent.com/u/58890844?s=72&v=4" width="24" alt="Avatar of aliasgarli"> aliasgarli
@@ -1044,7 +1865,46 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>137</td>
+		<td>
+			<a href="https://github.com/abdurahman-ctis">
+				<img src="https://avatars.githubusercontent.com/u/34229283?s=72&u=5a91edbe9e760f5f9af531954ce44c2b6c7be315&v=4" width="24" alt="Avatar of abdurahman-ctis"> abdurahman-ctis
+			</a><br/>
+			Abdurahman Atakishiyev
+		</td>
+		<td>Bilkent University </td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>138</td>
+		<td>
+			<a href="https://github.com/Miri92">
+				<img src="https://avatars.githubusercontent.com/u/5027645?s=72&u=2c6f5209de53b91c0bb4cf825cc6f9bf0b3e5489&v=4" width="24" alt="Avatar of Miri92"> Miri92
+			</a><br/>
+			Miri Zulfugar
+		</td>
+		<td>@labrin </td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan, Baku</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>
+			<a href="https://github.com/Tamerlan1993">
+				<img src="https://avatars.githubusercontent.com/u/25170873?s=72&u=f04b8b580adbcbfd3fe76827317a60b1cb043a6f&v=4" width="24" alt="Avatar of Tamerlan1993"> Tamerlan1993
+			</a><br/>
+			Tamerlan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/lildev">
 				<img src="https://avatars.githubusercontent.com/u/26343870?s=72&u=fe8ff6bf78ddc0c3f405e5f08978f3522d5ba929&v=4" width="24" alt="Avatar of lildev"> lildev
@@ -1057,7 +1917,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/elkhanib">
 				<img src="https://avatars.githubusercontent.com/u/27808815?s=72&u=15b52094b34110daeca7e4bb6ddeb69f977a3364&v=4" width="24" alt="Avatar of elkhanib"> elkhanib
@@ -1070,7 +1930,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/Ali94k">
 				<img src="https://avatars.githubusercontent.com/u/15670084?s=72&v=4" width="24" alt="Avatar of Ali94k"> Ali94k
@@ -1083,7 +1943,20 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>143</td>
+		<td>
+			<a href="https://github.com/ChinaraGuliyeva">
+				<img src="https://avatars.githubusercontent.com/u/41269019?s=72&u=b8a430135f0f07301dded836b33b8be1f72f994f&v=4" width="24" alt="Avatar of ChinaraGuliyeva"> ChinaraGuliyeva
+			</a><br/>
+			Chinara Guliyeva
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/themammadov">
 				<img src="https://avatars.githubusercontent.com/u/36962425?s=72&u=39612530546bf4fa1f5e43980cd42dc1414a78a0&v=4" width="24" alt="Avatar of themammadov"> themammadov
@@ -1096,7 +1969,59 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>145</td>
+		<td>
+			<a href="https://github.com/Elshad">
+				<img src="https://avatars.githubusercontent.com/u/2334731?s=72&u=ee0353ce3c1c10322cf7d371d4daa310bafcfd08&v=4" width="24" alt="Avatar of Elshad"> Elshad
+			</a><br/>
+			Elshad Yarmetov
+		</td>
+		<td>Onbranch </td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>146</td>
+		<td>
+			<a href="https://github.com/konulmammadova">
+				<img src="https://avatars.githubusercontent.com/u/10831445?s=72&u=a128f49514b4ae3fdc085c11d453d522e0e4195e&v=4" width="24" alt="Avatar of konulmammadova"> konulmammadova
+			</a><br/>
+			Konul Mammadova
+		</td>
+		<td>@labrin </td>
+		<td><a href="https://twitter.com/konulmmmdova">konulmmmdova</a></td>
+		<td>Azerbaijan</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
+			<a href="https://github.com/firuzamammadova">
+				<img src="https://avatars.githubusercontent.com/u/46782594?s=72&u=6e162f31d55092947b9717f2a9142f80754e915d&v=4" width="24" alt="Avatar of firuzamammadova"> firuzamammadova
+			</a><br/>
+			Firuza
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku , Azerbaijan</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>
+			<a href="https://github.com/nizamializadeh">
+				<img src="https://avatars.githubusercontent.com/u/29056831?s=72&u=569316d4dc3eae7e4b006748527e19415420ca23&v=4" width="24" alt="Avatar of nizamializadeh"> nizamializadeh
+			</a><br/>
+			Nizami
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku,Azerbaijan</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/anarmammad">
 				<img src="https://avatars.githubusercontent.com/u/47197239?s=72&u=913580217e5a5c97b72aa9cc4786a5fbbe220625&v=4" width="24" alt="Avatar of anarmammad"> anarmammad
@@ -1109,7 +2034,59 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>150</td>
+		<td>
+			<a href="https://github.com/iredjee">
+				<img src="https://avatars.githubusercontent.com/u/5600315?s=72&u=d630b82c5c6e936b8e8573415382aa4a749396e1&v=4" width="24" alt="Avatar of iredjee"> iredjee
+			</a><br/>
+			Rashad Ibrahimov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>151</td>
+		<td>
+			<a href="https://github.com/aygunnajafova">
+				<img src="https://avatars.githubusercontent.com/u/81143963?s=72&v=4" width="24" alt="Avatar of aygunnajafova"> aygunnajafova
+			</a><br/>
+			No Name
+		</td>
+		<td>The Academy Of Public<br/>Administration<br/>Under<br/>The<br/>President<br/>Of<br/>The<br/>Republic<br/>Of<br/>Azerbaijan<br/></td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan, Baku</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>
+			<a href="https://github.com/chz">
+				<img src="https://avatars.githubusercontent.com/u/3233370?s=72&u=fea1c5bd57a9f3e1a3c91bd185751ce4abf79c81&v=4" width="24" alt="Avatar of chz"> chz
+			</a><br/>
+			Chingiz Mammadov
+		</td>
+		<td>Competo Mmc </td>
+		<td>No Twitter Username</td>
+		<td>Baku</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
+			<a href="https://github.com/azerturk">
+				<img src="https://avatars.githubusercontent.com/u/6462781?s=72&u=4db75674b22d427812f579c7eb77bad3898c766a&v=4" width="24" alt="Avatar of azerturk"> azerturk
+			</a><br/>
+			Ziya Ibrahimli
+		</td>
+		<td>Http://www.ibp.az </td>
+		<td><a href="https://twitter.com/zyabrhmlee">zyabrhmlee</a></td>
+		<td>Baku / Azerbaijan</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/sarkhanrasullu">
 				<img src="https://avatars.githubusercontent.com/u/6942099?s=72&u=e5b2d9986bb4c037b8e7be697c7d2dfde656be9f&v=4" width="24" alt="Avatar of sarkhanrasullu"> sarkhanrasullu
@@ -1122,7 +2099,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/chingiz">
 				<img src="https://avatars.githubusercontent.com/u/2968684?s=72&v=4" width="24" alt="Avatar of chingiz"> chingiz
@@ -1135,7 +2112,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/alirzayev">
 				<img src="https://avatars.githubusercontent.com/u/8688719?s=72&u=fdc7a04e0ef964414c91a1f5d1ee622dfdfe3967&v=4" width="24" alt="Avatar of alirzayev"> alirzayev
@@ -1148,7 +2125,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/LeyliAbbas">
 				<img src="https://avatars.githubusercontent.com/u/10575732?s=72&u=01f368919d3a8371aa98e8a217359ba514f35c04&v=4" width="24" alt="Avatar of LeyliAbbas"> LeyliAbbas
@@ -1161,7 +2138,33 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>158</td>
+		<td>
+			<a href="https://github.com/sanan-fataliyev">
+				<img src="https://avatars.githubusercontent.com/u/30157273?s=72&u=bb9e1a57b2222c7283d265e08a5f33953bfc1c49&v=4" width="24" alt="Avatar of sanan-fataliyev"> sanan-fataliyev
+			</a><br/>
+			Sanan R. Fataliyev
+		</td>
+		<td>Null </td>
+		<td>No Twitter Username</td>
+		<td>Baku</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>159</td>
+		<td>
+			<a href="https://github.com/theprogbash">
+				<img src="https://avatars.githubusercontent.com/u/25174885?s=72&u=76bc808533da49d3452ad1a3b923ed600a844133&v=4" width="24" alt="Avatar of theprogbash"> theprogbash
+			</a><br/>
+			Kamran Mammadov
+		</td>
+		<td>State Insurance Company </td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/hasancafarov">
 				<img src="https://avatars.githubusercontent.com/u/6268797?s=72&v=4" width="24" alt="Avatar of hasancafarov"> hasancafarov
@@ -1174,7 +2177,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/rahimlis">
 				<img src="https://avatars.githubusercontent.com/u/13980807?s=72&u=178d179b38b5524a0622daaf68943d4d413b94e5&v=4" width="24" alt="Avatar of rahimlis"> rahimlis
@@ -1187,7 +2190,20 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>162</td>
+		<td>
+			<a href="https://github.com/ayyubhaciyev">
+				<img src="https://avatars.githubusercontent.com/u/30498787?s=72&u=dbab403fb325cd46e7a77bb55d5cf91b4d724d10&v=4" width="24" alt="Avatar of ayyubhaciyev"> ayyubhaciyev
+			</a><br/>
+			Ayyub Hajiyev
+		</td>
+		<td>Yup Technology </td>
+		<td>No Twitter Username</td>
+		<td>AZERBAIJAN</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/turanmahmudov">
 				<img src="https://avatars.githubusercontent.com/u/3330881?s=72&u=9be5c021b9c5d0fe8af509c2f78458332b830937&v=4" width="24" alt="Avatar of turanmahmudov"> turanmahmudov
@@ -1200,7 +2216,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>164</td>
 		<td>
 			<a href="https://github.com/faridmovsumov">
 				<img src="https://avatars.githubusercontent.com/u/1541412?s=72&v=4" width="24" alt="Avatar of faridmovsumov"> faridmovsumov
@@ -1213,7 +2229,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/ShirvanKhaligov">
 				<img src="https://avatars.githubusercontent.com/u/45492579?s=72&u=e69b44c760dbc84524a74230fe607a47c20c1153&v=4" width="24" alt="Avatar of ShirvanKhaligov"> ShirvanKhaligov
@@ -1226,7 +2242,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/turanbalayev">
 				<img src="https://avatars.githubusercontent.com/u/68186343?s=72&u=c1c78b5ead2fa279bfd28dc6d23b0815b40cfe1c&v=4" width="24" alt="Avatar of turanbalayev"> turanbalayev
@@ -1239,7 +2255,33 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>167</td>
+		<td>
+			<a href="https://github.com/NahidJamalli">
+				<img src="https://avatars.githubusercontent.com/u/15914429?s=72&u=4c3171748324be40c453acc0be5a6c5c086bbafe&v=4" width="24" alt="Avatar of NahidJamalli"> NahidJamalli
+			</a><br/>
+			Nahid Jamalli
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
+			<a href="https://github.com/Ragim-A">
+				<img src="https://avatars.githubusercontent.com/u/25181005?s=72&u=62f89f9d5e8783874ee5479dad56d01ec054d53b&v=4" width="24" alt="Avatar of Ragim-A"> Ragim-A
+			</a><br/>
+			Hello-World
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan, Baku</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/sabuhitalibli">
 				<img src="https://avatars.githubusercontent.com/u/17590561?s=72&u=efe379df0632ba5c5d96f2692f04ea5b4ab34bc0&v=4" width="24" alt="Avatar of sabuhitalibli"> sabuhitalibli
@@ -1252,7 +2294,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/osmfarid">
 				<img src="https://avatars.githubusercontent.com/u/13103404?s=72&u=fd0a8bfccc26710961858a6441ba36d5429f28f4&v=4" width="24" alt="Avatar of osmfarid"> osmfarid
@@ -1265,7 +2307,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/limpapud">
 				<img src="https://avatars.githubusercontent.com/u/30339109?s=72&u=e032bb7e9cba713200bd8abbdee3f0c06f6d9c01&v=4" width="24" alt="Avatar of limpapud"> limpapud
@@ -1278,7 +2320,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/Jahangir-Sh">
 				<img src="https://avatars.githubusercontent.com/u/2832098?s=72&u=f1c92e1a7c9e6ed4288210a739063f051cffe7e0&v=4" width="24" alt="Avatar of Jahangir-Sh"> Jahangir-Sh
@@ -1291,7 +2333,7 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/askeroff">
 				<img src="https://avatars.githubusercontent.com/u/7518823?s=72&u=b2470961f0778d344676c9a70f4df99c820f191d&v=4" width="24" alt="Avatar of askeroff"> askeroff
@@ -1301,6 +2343,45 @@ There are `100 users`  in Azerbaijan. You need at least `20 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/askerovlab">askerovlab</a></td>
 		<td>Azerbaijan, Baku</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>174</td>
+		<td>
+			<a href="https://github.com/seyidkanan">
+				<img src="https://avatars.githubusercontent.com/u/10425921?s=72&v=4" width="24" alt="Avatar of seyidkanan"> seyidkanan
+			</a><br/>
+			Seyid-Kanan
+		</td>
+		<td>Ibar </td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
+			<a href="https://github.com/E-Haci">
+				<img src="https://avatars.githubusercontent.com/u/1043551?s=72&u=2728047a7d25cf51dd63188751b3f93173656770&v=4" width="24" alt="Avatar of E-Haci"> E-Haci
+			</a><br/>
+			Elvin Haci
+		</td>
+		<td>Guaven Labs </td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan.</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>176</td>
+		<td>
+			<a href="https://github.com/rahimcc">
+				<img src="https://avatars.githubusercontent.com/u/43667122?s=72&v=4" width="24" alt="Avatar of rahimcc"> rahimcc
+			</a><br/>
+			Rahim Sharifov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Baku, Azerbaijan </td>
 		<td>1</td>
 	</tr>
 </table>
