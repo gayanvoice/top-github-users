@@ -1,11 +1,13 @@
 # Top GitHub Users By Followers in Chad [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 
-<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
+<a href="https://gayanvoice.github.io/top-github-users/index.html">
+	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
+</a>
 
-The `number of followers` of users in Chad on `2021/6/14 1:20 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2021/6/14 7:53 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
-There are `71 countries` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `99 countries/states` and `605 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `56 users`  in Chad. You need at least `0 followers` to be on this list.
 
