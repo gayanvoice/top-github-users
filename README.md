@@ -5,7 +5,7 @@
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/15 5:33 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/15 5:35 AM UTC`.
 
 This repository contains users `136 countries` and `685 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
@@ -345,7 +345,7 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bosnia_and herzegovina.md">
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bosnia_and_herzegovina.md">
 				Bosnia And Herzegovina
 			</a>
 		</td>
@@ -1870,7 +1870,7 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/united_arab emirates.md">
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/united_arab_emirates.md">
 				United Arab Emirates
 			</a>
 		</td>
@@ -1899,7 +1899,7 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/united_states of america.md">
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/united_states_of_america.md">
 				United States Of America
 			</a>
 		</td>
