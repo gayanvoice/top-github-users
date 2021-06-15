@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` and `private contributions` by users in Bulgaria on `2021/6/14 7:22 AM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` and `private contributions` by users in Bulgaria on `2021/6/15 3:25 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
-There are `71 countries/states` and `439 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `200 users`  in Bulgaria. You need at least `55 followers` to be on this list.
+There are `1000 users`  in Bulgaria. You need at least `12 followers` to be on this list.
 
 <table>
 	<tr>
@@ -65,17 +65,17 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20country%20or%20state&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Bulgaria&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/bulgaria.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Bulgaria&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/bulgaria.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/bulgaria.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Bulgaria&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20country%20or%20state&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/bulgaria.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Bulgaria&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Bulgaria&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20country%20or%20state-https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/bulgaria.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Bulgaria&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/bulgaria.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
@@ -108,11 +108,25 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>@three11 @html-lab @toptal </td>
 		<td><a href="https://twitter.com/scriptexbg">scriptexbg</a></td>
 		<td>Varna, Bulgaria</td>
-		<td>6468</td>
-		<td>8158</td>
+		<td>6469</td>
+		<td>8159</td>
 	</tr>
 	<tr>
 		<td>2</td>
+		<td>
+			<a href="https://github.com/Ivshti">
+				<img src="https://avatars.githubusercontent.com/u/1247629?s=72&u=a258fd06265827b4354eee1d33809afbe3299d5b&v=4" width="24" alt="Avatar of Ivshti"> Ivshti
+			</a><br/>
+			Ivo Georgiev
+		</td>
+		<td>@adexnetwork, @stremio  </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>1645</td>
+		<td>7296</td>
+	</tr>
+	<tr>
+		<td>3</td>
 		<td>
 			<a href="https://github.com/afourmy">
 				<img src="https://avatars.githubusercontent.com/u/16152622?s=72&u=e3a65ddc04ddfe71e2a4314676d1fe6c217571de&v=4" width="24" alt="Avatar of afourmy"> afourmy
@@ -123,10 +137,80 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bansko, Bulgaria</td>
 		<td>1590</td>
-		<td>3574</td>
+		<td>6113</td>
 	</tr>
 	<tr>
-		<td>3</td>
+		<td>4</td>
+		<td>
+			<a href="https://github.com/UnAfraid">
+				<img src="https://avatars.githubusercontent.com/u/2185291?s=72&u=1c1a3aa388e7932ce5f25b952eeb84af7c5c562a&v=4" width="24" alt="Avatar of UnAfraid"> UnAfraid
+			</a><br/>
+			Rumen Nikiforov
+		</td>
+		<td>@l2junity </td>
+		<td><a href="https://twitter.com/UnAfraid89">UnAfraid89</a></td>
+		<td>Bulgaria</td>
+		<td>50</td>
+		<td>6096</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
+			<a href="https://github.com/nhristov">
+				<img src="https://avatars.githubusercontent.com/u/59096521?s=72&u=068007fd868dd727e56175eaaea2c90eef69d237&v=4" width="24" alt="Avatar of nhristov"> nhristov
+			</a><br/>
+			Nikola Hristov
+		</td>
+		<td>@playform </td>
+		<td><a href="https://twitter.com/NikolaRHristov">NikolaRHristov</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>345</td>
+		<td>4821</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>
+			<a href="https://github.com/mradkov">
+				<img src="https://avatars.githubusercontent.com/u/13139371?s=72&v=4" width="24" alt="Avatar of mradkov"> mradkov
+			</a><br/>
+			Milen Radkov
+		</td>
+		<td>@hackbg </td>
+		<td><a href="https://twitter.com/milen_radkov">milen_radkov</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>2168</td>
+		<td>3844</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>
+			<a href="https://github.com/MrGKanev">
+				<img src="https://avatars.githubusercontent.com/u/5780974?s=72&u=ebe4e567c988dafccce31e7091c8b824fb49126b&v=4" width="24" alt="Avatar of MrGKanev"> MrGKanev
+			</a><br/>
+			Gabriel Kanev
+		</td>
+		<td>Bimbala </td>
+		<td><a href="https://twitter.com/mrgkanev">mrgkanev</a></td>
+		<td>Bulgaria, Ruse</td>
+		<td>443</td>
+		<td>3792</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>
+			<a href="https://github.com/atkuzmanov">
+				<img src="https://avatars.githubusercontent.com/u/55227621?s=72&u=02b4356f373e5eb7555da51e59f0376a8d746241&v=4" width="24" alt="Avatar of atkuzmanov"> atkuzmanov
+			</a><br/>
+			atkuzmanov
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/atkuzmanov">atkuzmanov</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>835</td>
+		<td>3721</td>
+	</tr>
+	<tr>
+		<td>9</td>
 		<td>
 			<a href="https://github.com/vladislav-karamfilov">
 				<img src="https://avatars.githubusercontent.com/u/3604949?s=72&u=2726dbbb8862c7ca6ee14a8e4965d0187a239deb&v=4" width="24" alt="Avatar of vladislav-karamfilov"> vladislav-karamfilov
@@ -137,10 +221,10 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td><a href="https://twitter.com/vlad_karamfilov">vlad_karamfilov</a></td>
 		<td>Bulgaria</td>
 		<td>449</td>
-		<td>3525</td>
+		<td>3542</td>
 	</tr>
 	<tr>
-		<td>4</td>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/RStankov">
 				<img src="https://avatars.githubusercontent.com/u/9867?s=72&v=4" width="24" alt="Avatar of RStankov"> RStankov
@@ -150,11 +234,109 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>@producthunt  </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>306</td>
-		<td>3468</td>
+		<td>308</td>
+		<td>3520</td>
 	</tr>
 	<tr>
-		<td>5</td>
+		<td>11</td>
+		<td>
+			<a href="https://github.com/miraclebg">
+				<img src="https://avatars.githubusercontent.com/u/126405?s=72&v=4" width="24" alt="Avatar of miraclebg"> miraclebg
+			</a><br/>
+			Martin Kovachev
+		</td>
+		<td>Nimasystems Ltd </td>
+		<td><a href="https://twitter.com/miraclebg">miraclebg</a></td>
+		<td>Plovdiv, Bulgaria</td>
+		<td>224</td>
+		<td>3317</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
+			<a href="https://github.com/fluxer">
+				<img src="https://avatars.githubusercontent.com/u/1097244?s=72&u=fdaee0c02bd52cf20dfd3db2cfaa06c39738bc82&v=4" width="24" alt="Avatar of fluxer"> fluxer
+			</a><br/>
+			Ivailo Monev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Europe, Bulgaria</td>
+		<td>3288</td>
+		<td>3288</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
+			<a href="https://github.com/dminchev">
+				<img src="https://avatars.githubusercontent.com/u/282153?s=72&v=4" width="24" alt="Avatar of dminchev"> dminchev
+			</a><br/>
+			Dobromir Minchev
+		</td>
+		<td>Dippol Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Plovdiv, Bulgaria</td>
+		<td>1</td>
+		<td>3087</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
+			<a href="https://github.com/zdrawku">
+				<img src="https://avatars.githubusercontent.com/u/11193764?s=72&u=c7ad3ad6bc80ed8a0d83054d315d2aefa75c1ca3&v=4" width="24" alt="Avatar of zdrawku"> zdrawku
+			</a><br/>
+			Zdravko Kolev
+		</td>
+		<td>@infragistics  </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>2904</td>
+		<td>2929</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/wencakisa">
+				<img src="https://avatars.githubusercontent.com/u/14956725?s=72&u=4c1c1d890371915a52ad4588d249b5f4db40a064&v=4" width="24" alt="Avatar of wencakisa"> wencakisa
+			</a><br/>
+			Ventsislav Tashev
+		</td>
+		<td>@hacksoftware </td>
+		<td><a href="https://twitter.com/v_tashev">v_tashev</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>150</td>
+		<td>2800</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
+			<a href="https://github.com/GeorgiGradev">
+				<img src="https://avatars.githubusercontent.com/u/72765831?s=72&u=56619606626617f9f544c8c438f0f9df0e5564b3&v=4" width="24" alt="Avatar of GeorgiGradev"> GeorgiGradev
+			</a><br/>
+			Georgi Gradev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria, Dimitrovgrad</td>
+		<td>2763</td>
+		<td>2763</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>
+			<a href="https://github.com/skovachev">
+				<img src="https://avatars.githubusercontent.com/u/1137946?s=72&u=d31c34d74eb2fc07a270f1060433a77da71332c1&v=4" width="24" alt="Avatar of skovachev"> skovachev
+			</a><br/>
+			Stefan Kovachev
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/skovachev">skovachev</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>50</td>
+		<td>2756</td>
+	</tr>
+	<tr>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/antoniaat">
 				<img src="https://avatars.githubusercontent.com/u/20865548?s=72&u=1563bf530df08667c9233e899b04e6be54ca677e&v=4" width="24" alt="Avatar of antoniaat"> antoniaat
@@ -164,11 +346,81 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>@antoniaat </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>496</td>
-		<td>2643</td>
+		<td>519</td>
+		<td>2666</td>
 	</tr>
 	<tr>
-		<td>6</td>
+		<td>19</td>
+		<td>
+			<a href="https://github.com/GoNZooo">
+				<img src="https://avatars.githubusercontent.com/u/1327032?s=72&u=85d6d39dae7581ab380ef27670e32892cb83c765&v=4" width="24" alt="Avatar of GoNZooo"> GoNZooo
+			</a><br/>
+			Rickard Andersson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Pleven, Bulgaria</td>
+		<td>2001</td>
+		<td>2651</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/apeschar">
+				<img src="https://avatars.githubusercontent.com/u/122977?s=72&u=28a0e24147347d7419e03de92d8078a8cbe5e3cf&v=4" width="24" alt="Avatar of apeschar"> apeschar
+			</a><br/>
+			Albert Peschar
+		</td>
+		<td>Kibo It </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>754</td>
+		<td>2594</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
+			<a href="https://github.com/andy489">
+				<img src="https://avatars.githubusercontent.com/u/52545634?s=72&u=e5c3ceb18f0457eaf183076e7371814c4394bb70&v=4" width="24" alt="Avatar of andy489"> andy489
+			</a><br/>
+			Andrey Stoev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>2555</td>
+		<td>2555</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
+			<a href="https://github.com/alexander-lazarov">
+				<img src="https://avatars.githubusercontent.com/u/5956709?s=72&u=9f966f7b8545a244e6f71a97b21c485e8dfa204c&v=4" width="24" alt="Avatar of alexander-lazarov"> alexander-lazarov
+			</a><br/>
+			Alexander Lazarov
+		</td>
+		<td>@manageplaces  </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>27</td>
+		<td>2554</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/voran">
+				<img src="https://avatars.githubusercontent.com/u/3538117?s=72&u=fe7436187433b59856b0b6972d83e5d9f59fab79&v=4" width="24" alt="Avatar of voran"> voran
+			</a><br/>
+			Yavor Stoychev
+		</td>
+		<td>@constructor-io </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, BG</td>
+		<td>8</td>
+		<td>2500</td>
+	</tr>
+	<tr>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/pfrenssen">
 				<img src="https://avatars.githubusercontent.com/u/442924?s=72&u=86d557c9c4316178c7a4a079b7b6461d4ca1a6e8&v=4" width="24" alt="Avatar of pfrenssen"> pfrenssen
@@ -178,11 +430,39 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>1915</td>
-		<td>2440</td>
+		<td>1920</td>
+		<td>2462</td>
 	</tr>
 	<tr>
-		<td>7</td>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/vladimir-trifonov">
+				<img src="https://avatars.githubusercontent.com/u/7524789?s=72&u=0578fa0f4beca9e4262a524d9d9e1db492c4da54&v=4" width="24" alt="Avatar of vladimir-trifonov"> vladimir-trifonov
+			</a><br/>
+			Vladimir Trifonov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>6</td>
+		<td>2459</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
+			<a href="https://github.com/hdachev">
+				<img src="https://avatars.githubusercontent.com/u/304875?s=72&v=4" width="24" alt="Avatar of hdachev"> hdachev
+			</a><br/>
+			Hristo Dachev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>5</td>
+		<td>2429</td>
+	</tr>
+	<tr>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/ivan-vasilev">
 				<img src="https://avatars.githubusercontent.com/u/2920675?s=72&u=1412c6efcecfc231455e0cda55eca8f2a27de0ec&v=4" width="24" alt="Avatar of ivan-vasilev"> ivan-vasilev
@@ -193,10 +473,10 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>0</td>
-		<td>2406</td>
+		<td>2426</td>
 	</tr>
 	<tr>
-		<td>8</td>
+		<td>28</td>
 		<td>
 			<a href="https://github.com/erusev">
 				<img src="https://avatars.githubusercontent.com/u/184170?s=72&u=371a2d254c265973cdd81820ce8ece52d94e9b2f&v=4" width="24" alt="Avatar of erusev"> erusev
@@ -207,10 +487,38 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td><a href="https://twitter.com/erusev">erusev</a></td>
 		<td>EU › Bulgaria › Sofia</td>
 		<td>53</td>
-		<td>2308</td>
+		<td>2417</td>
 	</tr>
 	<tr>
-		<td>9</td>
+		<td>29</td>
+		<td>
+			<a href="https://github.com/IvoPaunov">
+				<img src="https://avatars.githubusercontent.com/u/10422618?s=72&u=af9cfbdaceb3c06488900d3b6e1ac2c3e60835c6&v=4" width="24" alt="Avatar of IvoPaunov"> IvoPaunov
+			</a><br/>
+			Ivo Paunov
+		</td>
+		<td>@adexnetwork </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>2075</td>
+		<td>2312</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
+			<a href="https://github.com/AlexVPopov">
+				<img src="https://avatars.githubusercontent.com/u/3239252?s=72&u=d8355d6517d62057cb15fc002f88d1a4f357904c&v=4" width="24" alt="Avatar of AlexVPopov"> AlexVPopov
+			</a><br/>
+			Alex Popov
+		</td>
+		<td>@toptal </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>17</td>
+		<td>2275</td>
+	</tr>
+	<tr>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/fr3fou">
 				<img src="https://avatars.githubusercontent.com/u/1344906?s=72&u=a0b0b7a3e3a4233e46b0b0e55ea1733323abc402&v=4" width="24" alt="Avatar of fr3fou"> fr3fou
@@ -221,10 +529,24 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td><a href="https://twitter.com/fr3fou">fr3fou</a></td>
 		<td>Bulgaria</td>
 		<td>1082</td>
-		<td>2245</td>
+		<td>2251</td>
 	</tr>
 	<tr>
-		<td>10</td>
+		<td>32</td>
+		<td>
+			<a href="https://github.com/RadoRado">
+				<img src="https://avatars.githubusercontent.com/u/387867?s=72&u=f2fdc6be8a5f439d9e1204c7bd224f9196993825&v=4" width="24" alt="Avatar of RadoRado"> RadoRado
+			</a><br/>
+			Radoslav Georgiev
+		</td>
+		<td>@hacksoftware  </td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>195</td>
+		<td>2176</td>
+	</tr>
+	<tr>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/paveldk">
 				<img src="https://avatars.githubusercontent.com/u/1455045?s=72&v=4" width="24" alt="Avatar of paveldk"> paveldk
@@ -238,21 +560,133 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>2175</td>
 	</tr>
 	<tr>
-		<td>11</td>
+		<td>34</td>
 		<td>
-			<a href="https://github.com/RadoRado">
-				<img src="https://avatars.githubusercontent.com/u/387867?s=72&u=f2fdc6be8a5f439d9e1204c7bd224f9196993825&v=4" width="24" alt="Avatar of RadoRado"> RadoRado
+			<a href="https://github.com/bikezilla">
+				<img src="https://avatars.githubusercontent.com/u/1385047?s=72&u=0bb32aa31fc18c48f474c5b7845c500f261f1fd3&v=4" width="24" alt="Avatar of bikezilla"> bikezilla
 			</a><br/>
-			Radoslav Georgiev
+			Vladimir Konushliev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Plovdiv, Bulgaria</td>
+		<td>108</td>
+		<td>2173</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td>
+			<a href="https://github.com/vshulev">
+				<img src="https://avatars.githubusercontent.com/u/5750234?s=72&u=0aa0c4fee6309dd3af3d35db6761e118fa6bfbf4&v=4" width="24" alt="Avatar of vshulev"> vshulev
+			</a><br/>
+			Velizar Shulev
+		</td>
+		<td>Claimcompass </td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>4</td>
+		<td>2162</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
+			<a href="https://github.com/ralinc">
+				<img src="https://avatars.githubusercontent.com/u/10473586?s=72&v=4" width="24" alt="Avatar of ralinc"> ralinc
+			</a><br/>
+			Ralin Chimev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, BULGARIA</td>
+		<td>86</td>
+		<td>2140</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/KostadinovK">
+				<img src="https://avatars.githubusercontent.com/u/15365540?s=72&u=230fe9efd65aa83fc8aa40dd9bae60c5c68550a0&v=4" width="24" alt="Avatar of KostadinovK"> KostadinovK
+			</a><br/>
+			Kostadin Kostadinov
+		</td>
+		<td>Motion Software </td>
+		<td>No Twitter Username</td>
+		<td>Sofia,Bulgaria</td>
+		<td>77</td>
+		<td>2126</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td>
+			<a href="https://github.com/alexa984">
+				<img src="https://avatars.githubusercontent.com/u/12685856?s=72&u=257722fcbb5f2aa2269a60e871fa0cdbaf79844d&v=4" width="24" alt="Avatar of alexa984"> alexa984
+			</a><br/>
+			Aleksandra Yovkova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>93</td>
+		<td>2096</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/veselinn">
+				<img src="https://avatars.githubusercontent.com/u/1181957?s=72&u=9903e25971fdff497bddb55b2d7fc7bbdc686fb5&v=4" width="24" alt="Avatar of veselinn"> veselinn
+			</a><br/>
+			Veselin Nikolov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>17</td>
+		<td>2088</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
+			<a href="https://github.com/Ivo-Donchev">
+				<img src="https://avatars.githubusercontent.com/u/12683214?s=72&u=7d3b889672a0ac0694c3cc730f46af79cf64441c&v=4" width="24" alt="Avatar of Ivo-Donchev"> Ivo-Donchev
+			</a><br/>
+			Ivaylo Donchev
 		</td>
 		<td>@hacksoftware  </td>
 		<td>No Twitter Username</td>
-		<td>Sofia</td>
-		<td>195</td>
-		<td>2160</td>
+		<td>Bulgaria</td>
+		<td>102</td>
+		<td>2061</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>41</td>
+		<td>
+			<a href="https://github.com/IvanIvanoff">
+				<img src="https://avatars.githubusercontent.com/u/6518376?s=72&u=a1242dd579a6318daa3480245cd4475483bb5694&v=4" width="24" alt="Avatar of IvanIvanoff"> IvanIvanoff
+			</a><br/>
+			ivan
+		</td>
+		<td>@santiment  </td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>1867</td>
+		<td>1951</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
+			<a href="https://github.com/suricactus">
+				<img src="https://avatars.githubusercontent.com/u/2820439?s=72&v=4" width="24" alt="Avatar of suricactus"> suricactus
+			</a><br/>
+			Ivan Ivanov
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/suricactus">suricactus</a></td>
+		<td>Ruse, Bulgaria</td>
+		<td>1950</td>
+		<td>1950</td>
+	</tr>
+	<tr>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/groupsky">
 				<img src="https://avatars.githubusercontent.com/u/185580?s=72&v=4" width="24" alt="Avatar of groupsky"> groupsky
@@ -263,10 +697,38 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Plovdiv/Bulgaria</td>
 		<td>688</td>
-		<td>1920</td>
+		<td>1925</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>44</td>
+		<td>
+			<a href="https://github.com/spytheman">
+				<img src="https://avatars.githubusercontent.com/u/26967?s=72&u=2d503a65932040d48c6053e535dd7ae51c8e5cc6&v=4" width="24" alt="Avatar of spytheman"> spytheman
+			</a><br/>
+			Delyan Angelov
+		</td>
+		<td>Dia Soft </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>1911</td>
+		<td>1919</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
+			<a href="https://github.com/jamesgraham">
+				<img src="https://avatars.githubusercontent.com/u/934542?s=72&v=4" width="24" alt="Avatar of jamesgraham"> jamesgraham
+			</a><br/>
+			James Graham
+		</td>
+		<td>Jiminny, Inc </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>26</td>
+		<td>1912</td>
+	</tr>
+	<tr>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/bbatsov">
 				<img src="https://avatars.githubusercontent.com/u/103882?s=72&v=4" width="24" alt="Avatar of bbatsov"> bbatsov
@@ -280,21 +742,21 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>1909</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>47</td>
 		<td>
-			<a href="https://github.com/spytheman">
-				<img src="https://avatars.githubusercontent.com/u/26967?s=72&u=2d503a65932040d48c6053e535dd7ae51c8e5cc6&v=4" width="24" alt="Avatar of spytheman"> spytheman
+			<a href="https://github.com/ialidzhikov">
+				<img src="https://avatars.githubusercontent.com/u/9372594?s=72&u=24d7279d0075332d012ecce3d83687cd2e098d07&v=4" width="24" alt="Avatar of ialidzhikov"> ialidzhikov
 			</a><br/>
-			Delyan Angelov
+			Ismail Alidzhikov
 		</td>
-		<td>Dia Soft </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>1900</td>
-		<td>1908</td>
+		<td>1873</td>
+		<td>1873</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>48</td>
 		<td>
 			<a href="https://github.com/atodorov">
 				<img src="https://avatars.githubusercontent.com/u/1002300?s=72&u=6eaba030b2c3a7ce2043d5c3def695528744ad9b&v=4" width="24" alt="Avatar of atodorov"> atodorov
@@ -304,11 +766,11 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>@kiwitcms  </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>1864</td>
-		<td>1864</td>
+		<td>1868</td>
+		<td>1868</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>49</td>
 		<td>
 			<a href="https://github.com/georgidelchev">
 				<img src="https://avatars.githubusercontent.com/u/62248166?s=72&u=a99baba385064bffb2e08450873fd822469529bc&v=4" width="24" alt="Avatar of georgidelchev"> georgidelchev
@@ -318,11 +780,25 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Stara Zagora, Bulgaria</td>
-		<td>1850</td>
-		<td>1850</td>
+		<td>1855</td>
+		<td>1855</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>50</td>
+		<td>
+			<a href="https://github.com/kiruh">
+				<img src="https://avatars.githubusercontent.com/u/22396778?s=72&u=f2f11347de9ecaf7c0c5a7c068edcf022885d031&v=4" width="24" alt="Avatar of kiruh"> kiruh
+			</a><br/>
+			Kiril Nedelev
+		</td>
+		<td>Swimcloud </td>
+		<td>No Twitter Username</td>
+		<td>Plovdiv, Bulgaria</td>
+		<td>33</td>
+		<td>1834</td>
+	</tr>
+	<tr>
+		<td>51</td>
 		<td>
 			<a href="https://github.com/iboB">
 				<img src="https://avatars.githubusercontent.com/u/84118?s=72&v=4" width="24" alt="Avatar of iboB"> iboB
@@ -333,10 +809,80 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td><a href="https://twitter.com/stanimirovb">stanimirovb</a></td>
 		<td>Sofia, Bulgaria</td>
 		<td>816</td>
-		<td>1802</td>
+		<td>1805</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>52</td>
+		<td>
+			<a href="https://github.com/Madman10K">
+				<img src="https://avatars.githubusercontent.com/u/40400590?s=72&u=67bbcf5dbd4c6f6718ae556ac277866a7e10aeb6&v=4" width="24" alt="Avatar of Madman10K"> Madman10K
+			</a><br/>
+			Stanislav Vasilev
+		</td>
+		<td>@madladsquad  </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>1201</td>
+		<td>1803</td>
+	</tr>
+	<tr>
+		<td>53</td>
+		<td>
+			<a href="https://github.com/smoke">
+				<img src="https://avatars.githubusercontent.com/u/196165?s=72&u=cdd239cf225fb2f79a37b7c09c473b380d750a66&v=4" width="24" alt="Avatar of smoke"> smoke
+			</a><br/>
+			Radoslav Kirilov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Plovdiv, Bulgaria</td>
+		<td>13</td>
+		<td>1788</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/Svetloslav15">
+				<img src="https://avatars.githubusercontent.com/u/33124382?s=72&u=5f8d729733a34f03e435e39db67b2b86a0d1f270&v=4" width="24" alt="Avatar of Svetloslav15"> Svetloslav15
+			</a><br/>
+			Svetloslav Novoselski
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/SvetliDev">SvetliDev</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>781</td>
+		<td>1787</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>
+			<a href="https://github.com/vbachev">
+				<img src="https://avatars.githubusercontent.com/u/2643728?s=72&u=0bf1fa63d9dd6db43a30c0854ea14a412c75eda2&v=4" width="24" alt="Avatar of vbachev"> vbachev
+			</a><br/>
+			Vasil Bachev
+		</td>
+		<td>@financial-times  </td>
+		<td><a href="https://twitter.com/vbachev">vbachev</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>13</td>
+		<td>1774</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/ju-popov">
+				<img src="https://avatars.githubusercontent.com/u/456838?s=72&u=d618212c3d698f554336c342336b35bb72f2d481&v=4" width="24" alt="Avatar of ju-popov"> ju-popov
+			</a><br/>
+			Julian Popov
+		</td>
+		<td>Sumup </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>7</td>
+		<td>1758</td>
+	</tr>
+	<tr>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/yyoncho">
 				<img src="https://avatars.githubusercontent.com/u/13259670?s=72&u=185196df1c25abec9f71dcc2b5e098bdc6a0f076&v=4" width="24" alt="Avatar of yyoncho"> yyoncho
@@ -346,11 +892,39 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>@tick42  </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>1731</td>
-		<td>1731</td>
+		<td>1738</td>
+		<td>1738</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>58</td>
+		<td>
+			<a href="https://github.com/kdinev">
+				<img src="https://avatars.githubusercontent.com/u/1472513?s=72&u=20ac2f05f7cbf081e0aff09dd3562011e4c8e650&v=4" width="24" alt="Avatar of kdinev"> kdinev
+			</a><br/>
+			Konstantin Dinev
+		</td>
+		<td>@infragistics </td>
+		<td><a href="https://twitter.com/KonstantinDinev">KonstantinDinev</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>1670</td>
+		<td>1709</td>
+	</tr>
+	<tr>
+		<td>59</td>
+		<td>
+			<a href="https://github.com/nvloff">
+				<img src="https://avatars.githubusercontent.com/u/127317?s=72&u=7c61d610d121ec56ce25b600294be8ddd99f6c7c&v=4" width="24" alt="Avatar of nvloff"> nvloff
+			</a><br/>
+			Nikolai Vladimirov
+		</td>
+		<td>@form3tech </td>
+		<td><a href="https://twitter.com/nvloff">nvloff</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>10</td>
+		<td>1676</td>
+	</tr>
+	<tr>
+		<td>60</td>
 		<td>
 			<a href="https://github.com/niwinz">
 				<img src="https://avatars.githubusercontent.com/u/843689?s=72&u=d9ee19a8eda49dabdec03b09c0963ebda93d473f&v=4" width="24" alt="Avatar of niwinz"> niwinz
@@ -360,11 +934,11 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>@kaleidos,@taigaio & @penpot </td>
 		<td><a href="https://twitter.com/niwinz">niwinz</a></td>
 		<td>Figueres (Girona), Sofia (Bulgaria)</td>
-		<td>1601</td>
-		<td>1660</td>
+		<td>1607</td>
+		<td>1666</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/Stradivario">
 				<img src="https://avatars.githubusercontent.com/u/19847933?s=72&u=2ff8b9033396a80fc9327091f57fb6deeeb2a8e2&v=4" width="24" alt="Avatar of Stradivario"> Stradivario
@@ -374,11 +948,53 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>Reactive Solutions Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Sofia/Bulgaria</td>
-		<td>438</td>
-		<td>1631</td>
+		<td>447</td>
+		<td>1666</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>62</td>
+		<td>
+			<a href="https://github.com/nklhrstv">
+				<img src="https://avatars.githubusercontent.com/u/5950722?s=72&u=538808933cf1ad208033282be8e7c5c64c5cab42&v=4" width="24" alt="Avatar of nklhrstv"> nklhrstv
+			</a><br/>
+			Nikola Hristov
+		</td>
+		<td>@stremio  </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>1254</td>
+		<td>1656</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
+			<a href="https://github.com/Petrov-connect">
+				<img src="https://avatars.githubusercontent.com/u/75274745?s=72&u=50e75842be883bb5db89c46cdc3e7561c4813a0c&v=4" width="24" alt="Avatar of Petrov-connect"> Petrov-connect
+			</a><br/>
+			Georgi Petrov
+		</td>
+		<td>New Energy Solutions </td>
+		<td><a href="https://twitter.com/GeorgiP16337092">GeorgiP16337092</a></td>
+		<td>Sofia , Bulgaria</td>
+		<td>1627</td>
+		<td>1627</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
+			<a href="https://github.com/tyxla">
+				<img src="https://avatars.githubusercontent.com/u/8436925?s=72&u=f3fa79cebb61f436e4c910d32e62c9b2680586d5&v=4" width="24" alt="Avatar of tyxla"> tyxla
+			</a><br/>
+			Marin Atanasov
+		</td>
+		<td>@automattic  </td>
+		<td><a href="https://twitter.com/krenvirsh">krenvirsh</a></td>
+		<td>Varna, Bulgaria</td>
+		<td>1578</td>
+		<td>1597</td>
+	</tr>
+	<tr>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/martin-nikolov">
 				<img src="https://avatars.githubusercontent.com/u/3677691?s=72&u=797458116eb18a47ea8dfe2091af0328e26007e0&v=4" width="24" alt="Avatar of martin-nikolov"> martin-nikolov
@@ -392,7 +1008,21 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>1594</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>66</td>
+		<td>
+			<a href="https://github.com/ivanst-stoyanov">
+				<img src="https://avatars.githubusercontent.com/u/6762567?s=72&u=09d7576c01e121e21cd2aecfdff4bc17a492bdc2&v=4" width="24" alt="Avatar of ivanst-stoyanov"> ivanst-stoyanov
+			</a><br/>
+			Ivan Stoyanov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>0</td>
+		<td>1587</td>
+	</tr>
+	<tr>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/i6mi6">
 				<img src="https://avatars.githubusercontent.com/u/6017721?s=72&u=dca3caedd2676defb0fba4ab96610d0f5954bb23&v=4" width="24" alt="Avatar of i6mi6"> i6mi6
@@ -403,24 +1033,24 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>1</td>
-		<td>1585</td>
+		<td>1586</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>68</td>
 		<td>
-			<a href="https://github.com/tyxla">
-				<img src="https://avatars.githubusercontent.com/u/8436925?s=72&u=f3fa79cebb61f436e4c910d32e62c9b2680586d5&v=4" width="24" alt="Avatar of tyxla"> tyxla
+			<a href="https://github.com/pgergov">
+				<img src="https://avatars.githubusercontent.com/u/10997689?s=72&u=903ea2a5c76d0124d4fe46f29073f836f13e2592&v=4" width="24" alt="Avatar of pgergov"> pgergov
 			</a><br/>
-			Marin Atanasov
+			Pavlin Gergov
 		</td>
-		<td>@automattic  </td>
-		<td><a href="https://twitter.com/krenvirsh">krenvirsh</a></td>
-		<td>Varna, Bulgaria</td>
-		<td>1554</td>
-		<td>1573</td>
+		<td>@hacksoftware  </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>5</td>
+		<td>1570</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>69</td>
 		<td>
 			<a href="https://github.com/IlianIliev">
 				<img src="https://avatars.githubusercontent.com/u/541401?s=72&u=fc5d3ef3942c3773d81ad5af7d425fea4f18f1c2&v=4" width="24" alt="Avatar of IlianIliev"> IlianIliev
@@ -431,10 +1061,24 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>1</td>
-		<td>1527</td>
+		<td>1541</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>70</td>
+		<td>
+			<a href="https://github.com/kdkocev">
+				<img src="https://avatars.githubusercontent.com/u/11800981?s=72&u=c216c088822557c87b32ff127cb1363af6992831&v=4" width="24" alt="Avatar of kdkocev"> kdkocev
+			</a><br/>
+			Kamen Kotsev
+		</td>
+		<td>Hackbulgaria </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>65</td>
+		<td>1533</td>
+	</tr>
+	<tr>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/mitio">
 				<img src="https://avatars.githubusercontent.com/u/129307?s=72&v=4" width="24" alt="Avatar of mitio"> mitio
@@ -445,10 +1089,10 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>21</td>
-		<td>1516</td>
+		<td>1528</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/enchev">
 				<img src="https://avatars.githubusercontent.com/u/5804953?s=72&u=b80763c2a82c1b6d73c1e6e8a1c2b636c6e973dd&v=4" width="24" alt="Avatar of enchev"> enchev
@@ -458,11 +1102,39 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>Radzen </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>407</td>
-		<td>1514</td>
+		<td>411</td>
+		<td>1520</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>73</td>
+		<td>
+			<a href="https://github.com/AlexKondov">
+				<img src="https://avatars.githubusercontent.com/u/7038691?s=72&u=d64ef4dac46b8f1ae2b9ea165b284890fe0c5386&v=4" width="24" alt="Avatar of AlexKondov"> AlexKondov
+			</a><br/>
+			Alexander
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AlexanderKondov">AlexanderKondov</a></td>
+		<td>Bulgaria</td>
+		<td>22</td>
+		<td>1508</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
+			<a href="https://github.com/ivank">
+				<img src="https://avatars.githubusercontent.com/u/4976?s=72&v=4" width="24" alt="Avatar of ivank"> ivank
+			</a><br/>
+			Ivan Kerin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria, Sofia</td>
+		<td>300</td>
+		<td>1496</td>
+	</tr>
+	<tr>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/peter-mw">
 				<img src="https://avatars.githubusercontent.com/u/5698247?s=72&u=5f7f161668b43f204c8995ef72ea1689d04b09ac&v=4" width="24" alt="Avatar of peter-mw"> peter-mw
@@ -472,11 +1144,109 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>Microweber  </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>1466</td>
-		<td>1487</td>
+		<td>1472</td>
+		<td>1493</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>76</td>
+		<td>
+			<a href="https://github.com/grenade">
+				<img src="https://avatars.githubusercontent.com/u/111819?s=72&u=f6e1f14dc6e2bce567bf6a282360bbcd1090600e&v=4" width="24" alt="Avatar of grenade"> grenade
+			</a><br/>
+			Rob Thijssen
+		</td>
+		<td>Mozilla </td>
+		<td><a href="https://twitter.com/grenade">grenade</a></td>
+		<td>Bansko, Bulgaria</td>
+		<td>1105</td>
+		<td>1492</td>
+	</tr>
+	<tr>
+		<td>77</td>
+		<td>
+			<a href="https://github.com/joneff">
+				<img src="https://avatars.githubusercontent.com/u/8048?s=72&v=4" width="24" alt="Avatar of joneff"> joneff
+			</a><br/>
+			Иван Жеков
+		</td>
+		<td>@telerik </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>1266</td>
+		<td>1488</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>
+			<a href="https://github.com/dobroslav-atanasov">
+				<img src="https://avatars.githubusercontent.com/u/24956006?s=72&u=af928766b1519bd08e230c045a3592c5cee2ac62&v=4" width="24" alt="Avatar of dobroslav-atanasov"> dobroslav-atanasov
+			</a><br/>
+			Dobroslav Atanasov
+		</td>
+		<td>Apis Europe </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>6</td>
+		<td>1479</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
+			<a href="https://github.com/ibratoev">
+				<img src="https://avatars.githubusercontent.com/u/62861?s=72&u=d3e40d65f728349c3b9731e808a7cd1a5a234d55&v=4" width="24" alt="Avatar of ibratoev"> ibratoev
+			</a><br/>
+			Ivaylo Bratoev
+		</td>
+		<td>St6 </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>11</td>
+		<td>1459</td>
+	</tr>
+	<tr>
+		<td>80</td>
+		<td>
+			<a href="https://github.com/yordanzhelevdev">
+				<img src="https://avatars.githubusercontent.com/u/26737643?s=72&u=d53c807000c62cf860a217f06705c48f1a97d960&v=4" width="24" alt="Avatar of yordanzhelevdev"> yordanzhelevdev
+			</a><br/>
+			Yordan Zhelev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>49</td>
+		<td>1452</td>
+	</tr>
+	<tr>
+		<td>81</td>
+		<td>
+			<a href="https://github.com/lyuboraykov">
+				<img src="https://avatars.githubusercontent.com/u/3464864?s=72&v=4" width="24" alt="Avatar of lyuboraykov"> lyuboraykov
+			</a><br/>
+			Lyubomir Raykov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>1</td>
+		<td>1442</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>
+			<a href="https://github.com/asankov">
+				<img src="https://avatars.githubusercontent.com/u/18421997?s=72&u=7c50568a74e898ba1017480428d00222dc7b3d93&v=4" width="24" alt="Avatar of asankov"> asankov
+			</a><br/>
+			Anton Sankov
+		</td>
+		<td>Vmware Carbon Black </td>
+		<td><a href="https://twitter.com/a_sankov">a_sankov</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>1127</td>
+		<td>1396</td>
+	</tr>
+	<tr>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/selfrefactor">
 				<img src="https://avatars.githubusercontent.com/u/2149294?s=72&u=2276c94b0246693971b36d17ba6874caafa2d201&v=4" width="24" alt="Avatar of selfrefactor"> selfrefactor
@@ -490,7 +1260,21 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>1378</td>
 	</tr>
 	<tr>
-		<td>29</td>
+		<td>84</td>
+		<td>
+			<a href="https://github.com/dinamic">
+				<img src="https://avatars.githubusercontent.com/u/11616?s=72&v=4" width="24" alt="Avatar of dinamic"> dinamic
+			</a><br/>
+			Nikola Petkanski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>11</td>
+		<td>1378</td>
+	</tr>
+	<tr>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/kirilkirkov">
 				<img src="https://avatars.githubusercontent.com/u/3421328?s=72&u=06bd487b315ad2f692121bb7003f17d42fdf2975&v=4" width="24" alt="Avatar of kirilkirkov"> kirilkirkov
@@ -504,7 +1288,35 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>1352</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>86</td>
+		<td>
+			<a href="https://github.com/mihaela1354">
+				<img src="https://avatars.githubusercontent.com/u/40794352?s=72&u=7a153896eb6ae970ad23b0c111a8f6d1f9e5fef5&v=4" width="24" alt="Avatar of mihaela1354"> mihaela1354
+			</a><br/>
+			Mihaela Petrova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>62</td>
+		<td>1343</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
+			<a href="https://github.com/dobrinov">
+				<img src="https://avatars.githubusercontent.com/u/996877?s=72&v=4" width="24" alt="Avatar of dobrinov"> dobrinov
+			</a><br/>
+			Deyan Dobrinov
+		</td>
+		<td>Receipt Bank </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>84</td>
+		<td>1334</td>
+	</tr>
+	<tr>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/kalkov">
 				<img src="https://avatars.githubusercontent.com/u/103871?s=72&u=d24a5e65989e07f2d969cea0315b8597724e9323&v=4" width="24" alt="Avatar of kalkov"> kalkov
@@ -514,11 +1326,11 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>@santiment  </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>405</td>
-		<td>1320</td>
+		<td>407</td>
+		<td>1330</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/gsamokovarov">
 				<img src="https://avatars.githubusercontent.com/u/604618?s=72&u=c591756877a513cc001185f73c855a466e49c9fa&v=4" width="24" alt="Avatar of gsamokovarov"> gsamokovarov
@@ -529,10 +1341,24 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>195</td>
-		<td>1300</td>
+		<td>1303</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>90</td>
+		<td>
+			<a href="https://github.com/kamen-hursev">
+				<img src="https://avatars.githubusercontent.com/u/233525?s=72&v=4" width="24" alt="Avatar of kamen-hursev"> kamen-hursev
+			</a><br/>
+			Kamen Hursev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>0</td>
+		<td>1303</td>
+	</tr>
+	<tr>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/gmitrev">
 				<img src="https://avatars.githubusercontent.com/u/951777?s=72&u=5f7b4709ffd3a148559797091bfa0d544c8a5d22&v=4" width="24" alt="Avatar of gmitrev"> gmitrev
@@ -543,80 +1369,38 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>27</td>
+		<td>1290</td>
+	</tr>
+	<tr>
+		<td>92</td>
+		<td>
+			<a href="https://github.com/nickolaev">
+				<img src="https://avatars.githubusercontent.com/u/2077718?s=72&u=12ba29e083929188449ec73a9da8caff0f67745f&v=4" width="24" alt="Avatar of nickolaev"> nickolaev
+			</a><br/>
+			Nikolay Nikolaev
+		</td>
+		<td>@kong </td>
+		<td><a href="https://twitter.com/NTNikolaev">NTNikolaev</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>1100</td>
 		<td>1286</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>93</td>
 		<td>
-			<a href="https://github.com/Ivaylo-Bachvarov">
-				<img src="https://avatars.githubusercontent.com/u/1764612?s=72&u=2b2b88237d0392e5b67593ff3f8d88f21b0ba023&v=4" width="24" alt="Avatar of Ivaylo-Bachvarov"> Ivaylo-Bachvarov
+			<a href="https://github.com/alordiel">
+				<img src="https://avatars.githubusercontent.com/u/3448575?s=72&v=4" width="24" alt="Avatar of alordiel"> alordiel
 			</a><br/>
-			Ivaylo Bachvarov
+			Alexander Vasilev
 		</td>
-		<td>Hacksoft </td>
-		<td>No Twitter Username</td>
-		<td>Sofia Bulgaria</td>
-		<td>11</td>
-		<td>1224</td>
-	</tr>
-	<tr>
-		<td>34</td>
-		<td>
-			<a href="https://github.com/nakov">
-				<img src="https://avatars.githubusercontent.com/u/1689586?s=72&u=be71e2d55bb9301571872a130c302a9d840f1fae&v=4" width="24" alt="Avatar of nakov"> nakov
-			</a><br/>
-			Svetlin Nakov
-		</td>
-		<td>Software University (softuni.org) </td>
-		<td><a href="https://twitter.com/svetlinnakov">svetlinnakov</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>699</td>
-		<td>1206</td>
-	</tr>
-	<tr>
-		<td>35</td>
-		<td>
-			<a href="https://github.com/robbdimitrov">
-				<img src="https://avatars.githubusercontent.com/u/488891?s=72&u=89adf6efa67cf666730c0ee5e288d9817f149fc6&v=4" width="24" alt="Avatar of robbdimitrov"> robbdimitrov
-			</a><br/>
-			Robert Dimitrov
-		</td>
-		<td>Sumup </td>
-		<td><a href="https://twitter.com/robbdimitrov">robbdimitrov</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>130</td>
-		<td>1195</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
-			<a href="https://github.com/iproduct">
-				<img src="https://avatars.githubusercontent.com/u/8014435?s=72&u=b71421722a561314935ee12ff33d49ecd0518045&v=4" width="24" alt="Avatar of iproduct"> iproduct
-			</a><br/>
-			Trayan Iliev
-		</td>
-		<td> Ipt – Intellectual<br/>Products<br/>&<br/>Technologies<br/></td>
+		<td>Timeline Dev Ltd. </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>1135</td>
-		<td>1135</td>
+		<td>72</td>
+		<td>1284</td>
 	</tr>
 	<tr>
-		<td>37</td>
-		<td>
-			<a href="https://github.com/ellatrix">
-				<img src="https://avatars.githubusercontent.com/u/4710635?s=72&u=222222a1e1dc9193ae27858daad30ff5e4fc3a42&v=4" width="24" alt="Avatar of ellatrix"> ellatrix
-			</a><br/>
-			Ella van Durpe
-		</td>
-		<td>@wordpress </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>1133</td>
-		<td>1133</td>
-	</tr>
-	<tr>
-		<td>38</td>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/radi-cho">
 				<img src="https://avatars.githubusercontent.com/u/12954909?s=72&u=ffe93c2eaf3c1659aa605e6e1951c61155e95ffa&v=4" width="24" alt="Avatar of radi-cho"> radi-cho
@@ -627,24 +1411,248 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Plovdiv, Bulgaria</td>
 		<td>115</td>
-		<td>1132</td>
+		<td>1282</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>95</td>
 		<td>
-			<a href="https://github.com/NikolayIT">
-				<img src="https://avatars.githubusercontent.com/u/3106986?s=72&u=3f38b0c06d32c56526eb2094cf45e606f3c55242&v=4" width="24" alt="Avatar of NikolayIT"> NikolayIT
+			<a href="https://github.com/AiAe">
+				<img src="https://avatars.githubusercontent.com/u/3695158?s=72&u=eb15ea2929ce8e1e59919a19258be1734a01086b&v=4" width="24" alt="Avatar of AiAe"> AiAe
 			</a><br/>
-			Nikolay Kostov
+			Daniel Dimitrov
 		</td>
-		<td>Zencodeo </td>
+		<td>@quaver </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria/Varna</td>
+		<td>687</td>
+		<td>1274</td>
+	</tr>
+	<tr>
+		<td>96</td>
+		<td>
+			<a href="https://github.com/Xapuu">
+				<img src="https://avatars.githubusercontent.com/u/23619201?s=72&v=4" width="24" alt="Avatar of Xapuu"> Xapuu
+			</a><br/>
+			Harry
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>33</td>
+		<td>1271</td>
+	</tr>
+	<tr>
+		<td>97</td>
+		<td>
+			<a href="https://github.com/dimitrov-adrian">
+				<img src="https://avatars.githubusercontent.com/u/1009639?s=72&v=4" width="24" alt="Avatar of dimitrov-adrian"> dimitrov-adrian
+			</a><br/>
+			Adrian Dimitrov
+		</td>
+		<td>Bestreviews </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>178</td>
+		<td>1259</td>
+	</tr>
+	<tr>
+		<td>98</td>
+		<td>
+			<a href="https://github.com/GeorgeSG">
+				<img src="https://avatars.githubusercontent.com/u/2514425?s=72&u=f01e9757da8ae9c009d16afb4cccf9f0184d7d2b&v=4" width="24" alt="Avatar of GeorgeSG"> GeorgeSG
+			</a><br/>
+			Georgi Gardev
+		</td>
+		<td>@hyperscience </td>
+		<td><a href="https://twitter.com/georgesg92">georgesg92</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>346</td>
+		<td>1250</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>
+			<a href="https://github.com/invakid404">
+				<img src="https://avatars.githubusercontent.com/u/38114607?s=72&u=dc5f08e3f3b23bad676da8e36f0d97a01019aaf9&v=4" width="24" alt="Avatar of invakid404"> invakid404
+			</a><br/>
+			Tsvetomir Bonev
+		</td>
+		<td>@senteca  </td>
+		<td>No Twitter Username</td>
+		<td>Tryavna, Bulgaria</td>
+		<td>528</td>
+		<td>1239</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>
+			<a href="https://github.com/Ivaylo-Bachvarov">
+				<img src="https://avatars.githubusercontent.com/u/1764612?s=72&u=2b2b88237d0392e5b67593ff3f8d88f21b0ba023&v=4" width="24" alt="Avatar of Ivaylo-Bachvarov"> Ivaylo-Bachvarov
+			</a><br/>
+			Ivaylo Bachvarov
+		</td>
+		<td>Hacksoft </td>
+		<td>No Twitter Username</td>
+		<td>Sofia Bulgaria</td>
+		<td>11</td>
+		<td>1227</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
+			<a href="https://github.com/phgeorgiev">
+				<img src="https://avatars.githubusercontent.com/u/745771?s=72&u=c43ff577df853712b46d9ff2174abf819be97843&v=4" width="24" alt="Avatar of phgeorgiev"> phgeorgiev
+			</a><br/>
+			Philip Georgiev
+		</td>
+		<td>@clippings  </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>367</td>
-		<td>1099</td>
+		<td>3</td>
+		<td>1226</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>102</td>
+		<td>
+			<a href="https://github.com/sepetrov">
+				<img src="https://avatars.githubusercontent.com/u/1347525?s=72&v=4" width="24" alt="Avatar of sepetrov"> sepetrov
+			</a><br/>
+			Stanislav Petrov
+		</td>
+		<td>@typeform  </td>
+		<td>No Twitter Username</td>
+		<td>Varna, Bulgaria</td>
+		<td>52</td>
+		<td>1212</td>
+	</tr>
+	<tr>
+		<td>103</td>
+		<td>
+			<a href="https://github.com/deyanskiq">
+				<img src="https://avatars.githubusercontent.com/u/11162576?s=72&u=dc7f43e0ed6bc0a330bfcbfe92ebd8c44929b792&v=4" width="24" alt="Avatar of deyanskiq"> deyanskiq
+			</a><br/>
+			Deyan Denchev
+		</td>
+		<td>Https://lexis-soluti </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>0</td>
+		<td>1210</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
+			<a href="https://github.com/nakov">
+				<img src="https://avatars.githubusercontent.com/u/1689586?s=72&u=be71e2d55bb9301571872a130c302a9d840f1fae&v=4" width="24" alt="Avatar of nakov"> nakov
+			</a><br/>
+			Svetlin Nakov
+		</td>
+		<td>Software University (softuni.org) </td>
+		<td><a href="https://twitter.com/svetlinnakov">svetlinnakov</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>699</td>
+		<td>1208</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>
+			<a href="https://github.com/robbdimitrov">
+				<img src="https://avatars.githubusercontent.com/u/488891?s=72&u=89adf6efa67cf666730c0ee5e288d9817f149fc6&v=4" width="24" alt="Avatar of robbdimitrov"> robbdimitrov
+			</a><br/>
+			Robert Dimitrov
+		</td>
+		<td>Sumup </td>
+		<td><a href="https://twitter.com/robbdimitrov">robbdimitrov</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>130</td>
+		<td>1207</td>
+	</tr>
+	<tr>
+		<td>106</td>
+		<td>
+			<a href="https://github.com/mitkodkn">
+				<img src="https://avatars.githubusercontent.com/u/3275194?s=72&u=e082b02841b09685b97003d6bb5ed54ef4c8b91c&v=4" width="24" alt="Avatar of mitkodkn"> mitkodkn
+			</a><br/>
+			Dimitar K. Nikolov
+		</td>
+		<td>Doonloo Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>9</td>
+		<td>1194</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td>
+			<a href="https://github.com/ginovski">
+				<img src="https://avatars.githubusercontent.com/u/6017552?s=72&u=bf079c0224aceaa49012e9420304f4bd469456c8&v=4" width="24" alt="Avatar of ginovski"> ginovski
+			</a><br/>
+			Aleksandar Ginovski
+		</td>
+		<td>@enhancv  </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>0</td>
+		<td>1187</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/indieza">
+				<img src="https://avatars.githubusercontent.com/u/11813571?s=72&u=63c2f42f062ce86853fdbeba7732576ac42e4267&v=4" width="24" alt="Avatar of indieza"> indieza
+			</a><br/>
+			Simeon Valev
+		</td>
+		<td>Sdv Code Project </td>
+		<td><a href="https://twitter.com/simeon_valev">simeon_valev</a></td>
+		<td>Kazanlak, Bulgaria </td>
+		<td>488</td>
+		<td>1178</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td>
+			<a href="https://github.com/iproduct">
+				<img src="https://avatars.githubusercontent.com/u/8014435?s=72&u=b71421722a561314935ee12ff33d49ecd0518045&v=4" width="24" alt="Avatar of iproduct"> iproduct
+			</a><br/>
+			Trayan Iliev
+		</td>
+		<td> Ipt – Intellectual<br/>Products<br/>&<br/>Technologies<br/></td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>1149</td>
+		<td>1149</td>
+	</tr>
+	<tr>
+		<td>110</td>
+		<td>
+			<a href="https://github.com/ellatrix">
+				<img src="https://avatars.githubusercontent.com/u/4710635?s=72&u=222222a1e1dc9193ae27858daad30ff5e4fc3a42&v=4" width="24" alt="Avatar of ellatrix"> ellatrix
+			</a><br/>
+			Ella van Durpe
+		</td>
+		<td>@wordpress </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>1140</td>
+		<td>1140</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
+			<a href="https://github.com/skanev">
+				<img src="https://avatars.githubusercontent.com/u/10382?s=72&v=4" width="24" alt="Avatar of skanev"> skanev
+			</a><br/>
+			Stefan Kanev
+		</td>
+		<td>Receipt Bank </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>578</td>
+		<td>1124</td>
+	</tr>
+	<tr>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/outbounder">
 				<img src="https://avatars.githubusercontent.com/u/125437?s=72&v=4" width="24" alt="Avatar of outbounder"> outbounder
@@ -655,24 +1663,52 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Pleven, Bulgaria</td>
 		<td>72</td>
-		<td>1099</td>
+		<td>1110</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>113</td>
 		<td>
-			<a href="https://github.com/skanev">
-				<img src="https://avatars.githubusercontent.com/u/10382?s=72&v=4" width="24" alt="Avatar of skanev"> skanev
+			<a href="https://github.com/VanTanev">
+				<img src="https://avatars.githubusercontent.com/u/202527?s=72&v=4" width="24" alt="Avatar of VanTanev"> VanTanev
 			</a><br/>
-			Stefan Kanev
+			Ivan Tanev
 		</td>
-		<td>Receipt Bank </td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/VanTanev">VanTanev</a></td>
+		<td>Bulgaria</td>
+		<td>188</td>
+		<td>1109</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td>
+			<a href="https://github.com/NikolayIT">
+				<img src="https://avatars.githubusercontent.com/u/3106986?s=72&u=3f38b0c06d32c56526eb2094cf45e606f3c55242&v=4" width="24" alt="Avatar of NikolayIT"> NikolayIT
+			</a><br/>
+			Nikolay Kostov
+		</td>
+		<td>Zencodeo </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>551</td>
-		<td>1097</td>
+		<td>367</td>
+		<td>1100</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>115</td>
+		<td>
+			<a href="https://github.com/dpanov">
+				<img src="https://avatars.githubusercontent.com/u/1931510?s=72&u=60cae1079ea21a5efcc0d5b15fba56119e9213cd&v=4" width="24" alt="Avatar of dpanov"> dpanov
+			</a><br/>
+			Dimitar Panov
+		</td>
+		<td>@shopify </td>
+		<td><a href="https://twitter.com/dimitarpanov">dimitarpanov</a></td>
+		<td>Bulgaria</td>
+		<td>9</td>
+		<td>1096</td>
+	</tr>
+	<tr>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/spantaleev">
 				<img src="https://avatars.githubusercontent.com/u/388669?s=72&v=4" width="24" alt="Avatar of spantaleev"> spantaleev
@@ -682,11 +1718,25 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>Devture Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>1026</td>
-		<td>1086</td>
+		<td>1030</td>
+		<td>1090</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>117</td>
+		<td>
+			<a href="https://github.com/NikolaTotev">
+				<img src="https://avatars.githubusercontent.com/u/26771709?s=72&u=4bf1e682875a64fb44258cbc68473c4b3544878f&v=4" width="24" alt="Avatar of NikolaTotev"> NikolaTotev
+			</a><br/>
+			Nikola Totev
+		</td>
+		<td>@fmi-storytellers </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>417</td>
+		<td>1082</td>
+	</tr>
+	<tr>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/syndbg">
 				<img src="https://avatars.githubusercontent.com/u/6031925?s=72&u=c4e3f377319dbe9b87b0c7fe4b06d9ba49895c9f&v=4" width="24" alt="Avatar of syndbg"> syndbg
@@ -697,10 +1747,24 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>181</td>
-		<td>1075</td>
+		<td>1079</td>
 	</tr>
 	<tr>
-		<td>44</td>
+		<td>119</td>
+		<td>
+			<a href="https://github.com/martinov">
+				<img src="https://avatars.githubusercontent.com/u/47067?s=72&u=4f993fbbcc063ca47fc6a64b7fe5c274d77a4eb1&v=4" width="24" alt="Avatar of martinov"> martinov
+			</a><br/>
+			Martin Martinov
+		</td>
+		<td>Mmartinov Ltd. </td>
+		<td><a href="https://twitter.com/mmartinov">mmartinov</a></td>
+		<td>Bulgaria</td>
+		<td>38</td>
+		<td>1072</td>
+	</tr>
+	<tr>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/Wiz-IO">
 				<img src="https://avatars.githubusercontent.com/u/14574834?s=72&u=827ae6345c365cfddaa7a4d3e12fe94f9d8c2d06&v=4" width="24" alt="Avatar of Wiz-IO"> Wiz-IO
@@ -710,11 +1774,25 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>1057</td>
-		<td>1057</td>
+		<td>1062</td>
+		<td>1062</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>121</td>
+		<td>
+			<a href="https://github.com/AlexanderDzhoganov">
+				<img src="https://avatars.githubusercontent.com/u/855464?s=72&u=3b91a38216268f0b002d51cd754b6ed4462244fb&v=4" width="24" alt="Avatar of AlexanderDzhoganov"> AlexanderDzhoganov
+			</a><br/>
+			Alexander Dzhoganov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>0</td>
+		<td>1058</td>
+	</tr>
+	<tr>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/KristianMariyanov">
 				<img src="https://avatars.githubusercontent.com/u/6886919?s=72&u=0dee654147cb783a2747002e8c92b70fdf1cf804&v=4" width="24" alt="Avatar of KristianMariyanov"> KristianMariyanov
@@ -725,10 +1803,52 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td><a href="https://twitter.com/kris_mariyanov">kris_mariyanov</a></td>
 		<td>Sofia</td>
 		<td>259</td>
-		<td>1042</td>
+		<td>1056</td>
 	</tr>
 	<tr>
-		<td>46</td>
+		<td>123</td>
+		<td>
+			<a href="https://github.com/veronika793">
+				<img src="https://avatars.githubusercontent.com/u/7135591?s=72&u=4d4aedfbbcf86c3731dde7883352865fda10c5c4&v=4" width="24" alt="Avatar of veronika793"> veronika793
+			</a><br/>
+			Veronika
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>2</td>
+		<td>1049</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>
+			<a href="https://github.com/kingofthebongo2008">
+				<img src="https://avatars.githubusercontent.com/u/1145201?s=72&v=4" width="24" alt="Avatar of kingofthebongo2008"> kingofthebongo2008
+			</a><br/>
+			Stefan Dyulgerov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>93</td>
+		<td>1027</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
+			<a href="https://github.com/dgeorgiev">
+				<img src="https://avatars.githubusercontent.com/u/1280694?s=72&u=da3fd74369b6d8f7d27d13027093f845fdabe78d&v=4" width="24" alt="Avatar of dgeorgiev"> dgeorgiev
+			</a><br/>
+			Daniel Georgiev
+		</td>
+		<td>@dabanny  </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>4</td>
+		<td>1025</td>
+	</tr>
+	<tr>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/hkdobrev">
 				<img src="https://avatars.githubusercontent.com/u/506129?s=72&v=4" width="24" alt="Avatar of hkdobrev"> hkdobrev
@@ -742,7 +1862,35 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>1019</td>
 	</tr>
 	<tr>
-		<td>47</td>
+		<td>127</td>
+		<td>
+			<a href="https://github.com/mdamyanova">
+				<img src="https://avatars.githubusercontent.com/u/14273080?s=72&u=97f955f3041b5126a044817df95221bdc5abb85e&v=4" width="24" alt="Avatar of mdamyanova"> mdamyanova
+			</a><br/>
+			Mirela Damyanova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>13</td>
+		<td>1014</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
+			<a href="https://github.com/svrakata">
+				<img src="https://avatars.githubusercontent.com/u/17287274?s=72&u=a9ee44ccbfabfb822ab963961809b56ca358707d&v=4" width="24" alt="Avatar of svrakata"> svrakata
+			</a><br/>
+			svrakata
+		</td>
+		<td>The Nest </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>30</td>
+		<td>1013</td>
+	</tr>
+	<tr>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/ivantcholakov">
 				<img src="https://avatars.githubusercontent.com/u/1438104?s=72&u=4e565582436ac9e113d7c18606ceb90849c7388a&v=4" width="24" alt="Avatar of ivantcholakov"> ivantcholakov
@@ -756,7 +1904,35 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>1003</td>
 	</tr>
 	<tr>
-		<td>48</td>
+		<td>130</td>
+		<td>
+			<a href="https://github.com/nikolov-tmw">
+				<img src="https://avatars.githubusercontent.com/u/1839144?s=72&v=4" width="24" alt="Avatar of nikolov-tmw"> nikolov-tmw
+			</a><br/>
+			Nikola Nikolov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gabrovo, Bulgaria</td>
+		<td>0</td>
+		<td>1002</td>
+	</tr>
+	<tr>
+		<td>131</td>
+		<td>
+			<a href="https://github.com/nb">
+				<img src="https://avatars.githubusercontent.com/u/27954?s=72&v=4" width="24" alt="Avatar of nb"> nb
+			</a><br/>
+			Nikolay Bachiyski
+		</td>
+		<td>@automattic  </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>93</td>
+		<td>1001</td>
+	</tr>
+	<tr>
+		<td>132</td>
 		<td>
 			<a href="https://github.com/akorchev">
 				<img src="https://avatars.githubusercontent.com/u/454726?s=72&v=4" width="24" alt="Avatar of akorchev"> akorchev
@@ -770,21 +1946,7 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>1001</td>
 	</tr>
 	<tr>
-		<td>49</td>
-		<td>
-			<a href="https://github.com/nb">
-				<img src="https://avatars.githubusercontent.com/u/27954?s=72&v=4" width="24" alt="Avatar of nb"> nb
-			</a><br/>
-			Nikolay Bachiyski
-		</td>
-		<td>@automattic  </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>93</td>
-		<td>997</td>
-	</tr>
-	<tr>
-		<td>50</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/vdsabev">
 				<img src="https://avatars.githubusercontent.com/u/1333274?s=72&v=4" width="24" alt="Avatar of vdsabev"> vdsabev
@@ -795,10 +1957,38 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td><a href="https://twitter.com/vdsabev">vdsabev</a></td>
 		<td>Bulgaria</td>
 		<td>191</td>
-		<td>994</td>
+		<td>997</td>
 	</tr>
 	<tr>
-		<td>51</td>
+		<td>134</td>
+		<td>
+			<a href="https://github.com/delchev">
+				<img src="https://avatars.githubusercontent.com/u/6852373?s=72&u=2eae9ffb066bf43da766a3eb1031a329656fd0be&v=4" width="24" alt="Avatar of delchev"> delchev
+			</a><br/>
+			Nedelcho Delchev
+		</td>
+		<td>Sap </td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>992</td>
+		<td>992</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
+			<a href="https://github.com/Dzhuneyt">
+				<img src="https://avatars.githubusercontent.com/u/1754428?s=72&u=249f1cd50827225c5341631341efd202da74d278&v=4" width="24" alt="Avatar of Dzhuneyt"> Dzhuneyt
+			</a><br/>
+			Dzhuneyt
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>183</td>
+		<td>981</td>
+	</tr>
+	<tr>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/kanastasov">
 				<img src="https://avatars.githubusercontent.com/u/755058?s=72&u=2203f92822156bda76bc43a02917d522dbe39ad6&v=4" width="24" alt="Avatar of kanastasov"> kanastasov
@@ -809,10 +1999,150 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>419</td>
+		<td>976</td>
+	</tr>
+	<tr>
+		<td>137</td>
+		<td>
+			<a href="https://github.com/ventsislav-georgiev">
+				<img src="https://avatars.githubusercontent.com/u/5616486?s=72&v=4" width="24" alt="Avatar of ventsislav-georgiev"> ventsislav-georgiev
+			</a><br/>
+			Ventsislav Georgiev
+		</td>
+		<td>Progress Software </td>
+		<td><a href="https://twitter.com/ventsislav_g">ventsislav_g</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>207</td>
+		<td>974</td>
+	</tr>
+	<tr>
+		<td>138</td>
+		<td>
+			<a href="https://github.com/martakostova">
+				<img src="https://avatars.githubusercontent.com/u/587215?s=72&v=4" width="24" alt="Avatar of martakostova"> martakostova
+			</a><br/>
+			martakostova
+		</td>
+		<td>Camplight </td>
+		<td>No Twitter Username</td>
+		<td>Varna, Bulgaria</td>
+		<td>2</td>
+		<td>969</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>
+			<a href="https://github.com/kalinpetrovbg">
+				<img src="https://avatars.githubusercontent.com/u/39294276?s=72&u=40a6e5ca4953d09f2b895276744825a58c6c75ce&v=4" width="24" alt="Avatar of kalinpetrovbg"> kalinpetrovbg
+			</a><br/>
+			Kalin Petrov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>968</td>
+		<td>968</td>
+	</tr>
+	<tr>
+		<td>140</td>
+		<td>
+			<a href="https://github.com/bundyo">
+				<img src="https://avatars.githubusercontent.com/u/98318?s=72&u=8cef17969990dfe931d672857cceb9d287a7f2a5&v=4" width="24" alt="Avatar of bundyo"> bundyo
+			</a><br/>
+			Bundyo (Kamen Bundev)
+		</td>
+		<td>Telerik </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>11</td>
 		<td>965</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>141</td>
+		<td>
+			<a href="https://github.com/ichko">
+				<img src="https://avatars.githubusercontent.com/u/7668305?s=72&u=3e47b9b7f5a07cc488091651cd3d3c0dc87058a7&v=4" width="24" alt="Avatar of ichko"> ichko
+			</a><br/>
+			Iliya Zhechev
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ilzhechev">ilzhechev</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>670</td>
+		<td>956</td>
+	</tr>
+	<tr>
+		<td>142</td>
+		<td>
+			<a href="https://github.com/apaunchev">
+				<img src="https://avatars.githubusercontent.com/u/150465?s=72&u=cd610767efed3b726569a9ef0637a574e311b169&v=4" width="24" alt="Avatar of apaunchev"> apaunchev
+			</a><br/>
+			Angel Paunchev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>137</td>
+		<td>949</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>
+			<a href="https://github.com/tborisova">
+				<img src="https://avatars.githubusercontent.com/u/1222952?s=72&u=5cb4c161aabece24854030d3be1116ab1ff02136&v=4" width="24" alt="Avatar of tborisova"> tborisova
+			</a><br/>
+			Tsvetelina Borisova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>21</td>
+		<td>948</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
+			<a href="https://github.com/ilhan007">
+				<img src="https://avatars.githubusercontent.com/u/15702139?s=72&u=967671e3def593c177c13568568466bb5fbd7da3&v=4" width="24" alt="Avatar of ilhan007"> ilhan007
+			</a><br/>
+			ilhan orhan
+		</td>
+		<td>Sap </td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>946</td>
+		<td>946</td>
+	</tr>
+	<tr>
+		<td>145</td>
+		<td>
+			<a href="https://github.com/MStoykov">
+				<img src="https://avatars.githubusercontent.com/u/312246?s=72&v=4" width="24" alt="Avatar of MStoykov"> MStoykov
+			</a><br/>
+			Mihail Stoykov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>932</td>
+		<td>932</td>
+	</tr>
+	<tr>
+		<td>146</td>
+		<td>
+			<a href="https://github.com/BaiGanio">
+				<img src="https://avatars.githubusercontent.com/u/10547588?s=72&u=b789484788ace0ff4cc05ab487b9732117beab7b&v=4" width="24" alt="Avatar of BaiGanio"> BaiGanio
+			</a><br/>
+			Lyuben Kikov
+		</td>
+		<td>(bg) Team </td>
+		<td>No Twitter Username</td>
+		<td>Plovdiv, Bulgaria</td>
+		<td>919</td>
+		<td>919</td>
+	</tr>
+	<tr>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/neolit123">
 				<img src="https://avatars.githubusercontent.com/u/331852?s=72&v=4" width="24" alt="Avatar of neolit123"> neolit123
@@ -822,11 +2152,53 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>Vmware </td>
 		<td>No Twitter Username</td>
 		<td>Varna, BG</td>
-		<td>889</td>
-		<td>889</td>
+		<td>892</td>
+		<td>892</td>
 	</tr>
 	<tr>
-		<td>53</td>
+		<td>148</td>
+		<td>
+			<a href="https://github.com/Angeld55">
+				<img src="https://avatars.githubusercontent.com/u/14896711?s=72&u=6663b5b7ae14d6e14616a4f63f1d7270de6b4dd4&v=4" width="24" alt="Avatar of Angeld55"> Angeld55
+			</a><br/>
+			Angel Dimitriev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>875</td>
+		<td>875</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
+			<a href="https://github.com/InnerPulse">
+				<img src="https://avatars.githubusercontent.com/u/64663281?s=72&u=abc44361cf0a55f87c5f581d3358c23447661ba5&v=4" width="24" alt="Avatar of InnerPulse"> InnerPulse
+			</a><br/>
+			Alexander Stoev
+		</td>
+		<td>Software University </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria, Europe</td>
+		<td>855</td>
+		<td>865</td>
+	</tr>
+	<tr>
+		<td>150</td>
+		<td>
+			<a href="https://github.com/adimitrov">
+				<img src="https://avatars.githubusercontent.com/u/300693?s=72&u=19277871d2ae052b1bbd1d7efa5a5a84a7bf6ef8&v=4" width="24" alt="Avatar of adimitrov"> adimitrov
+			</a><br/>
+			Alexander Dimitrov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>0</td>
+		<td>861</td>
+	</tr>
+	<tr>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/petarivanov9">
 				<img src="https://avatars.githubusercontent.com/u/4939913?s=72&u=7568494a677f8af80991f146608656a65ab05dcc&v=4" width="24" alt="Avatar of petarivanov9"> petarivanov9
@@ -840,7 +2212,21 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>859</td>
 	</tr>
 	<tr>
-		<td>54</td>
+		<td>152</td>
+		<td>
+			<a href="https://github.com/valeksiev">
+				<img src="https://avatars.githubusercontent.com/u/1168275?s=72&u=17816eeff535afc7ea6d48bc1d3369a23357ef8c&v=4" width="24" alt="Avatar of valeksiev"> valeksiev
+			</a><br/>
+			Vladimir Aleksiev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>128</td>
+		<td>858</td>
+	</tr>
+	<tr>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/meddle0x53">
 				<img src="https://avatars.githubusercontent.com/u/2232981?s=72&v=4" width="24" alt="Avatar of meddle0x53"> meddle0x53
@@ -851,10 +2237,24 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>8</td>
-		<td>839</td>
+		<td>840</td>
 	</tr>
 	<tr>
-		<td>55</td>
+		<td>154</td>
+		<td>
+			<a href="https://github.com/BoykoPetevBoev">
+				<img src="https://avatars.githubusercontent.com/u/55878188?s=72&u=3f604cf65cff620035b1ed7b701662c037fa6da0&v=4" width="24" alt="Avatar of BoykoPetevBoev"> BoykoPetevBoev
+			</a><br/>
+			           Бойко Боев
+		</td>
+		<td>0876 550 806 </td>
+		<td><a href="https://twitter.com/boyko_boev">boyko_boev</a></td>
+		<td>Haskovo Bulgaria</td>
+		<td>837</td>
+		<td>837</td>
+	</tr>
+	<tr>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/albogdano">
 				<img src="https://avatars.githubusercontent.com/u/346873?s=72&v=4" width="24" alt="Avatar of albogdano"> albogdano
@@ -868,21 +2268,63 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>818</td>
 	</tr>
 	<tr>
-		<td>56</td>
+		<td>156</td>
 		<td>
-			<a href="https://github.com/KonstantinSimeonov">
-				<img src="https://avatars.githubusercontent.com/u/10573234?s=72&u=fc2a8ab4803611c46a5dfe51bc6ebe60fa5e7b02&v=4" width="24" alt="Avatar of KonstantinSimeonov"> KonstantinSimeonov
+			<a href="https://github.com/mnitchev">
+				<img src="https://avatars.githubusercontent.com/u/15073922?s=72&u=311b56cef2091c5d37ec1de08300e8fbfaf1c853&v=4" width="24" alt="Avatar of mnitchev"> mnitchev
 			</a><br/>
-			Konstantin Simeonov
+			Mario Nitchev
 		</td>
-		<td>@webedx-spark  </td>
+		<td>@sap </td>
 		<td>No Twitter Username</td>
-		<td>Bulgaria, Sofia</td>
-		<td>193</td>
-		<td>780</td>
+		<td>Sofia, Bulgaria</td>
+		<td>766</td>
+		<td>818</td>
 	</tr>
 	<tr>
-		<td>57</td>
+		<td>157</td>
+		<td>
+			<a href="https://github.com/nikibobi">
+				<img src="https://avatars.githubusercontent.com/u/1426316?s=72&v=4" width="24" alt="Avatar of nikibobi"> nikibobi
+			</a><br/>
+			Borislav Kosharov
+		</td>
+		<td>Motion Software </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>77</td>
+		<td>814</td>
+	</tr>
+	<tr>
+		<td>158</td>
+		<td>
+			<a href="https://github.com/luchev">
+				<img src="https://avatars.githubusercontent.com/u/4147570?s=72&u=591ef60029ea701cc552c47072095d543dd93d79&v=4" width="24" alt="Avatar of luchev"> luchev
+			</a><br/>
+			Ivan Luchev
+		</td>
+		<td>Uber </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>812</td>
+		<td>812</td>
+	</tr>
+	<tr>
+		<td>159</td>
+		<td>
+			<a href="https://github.com/luhova">
+				<img src="https://avatars.githubusercontent.com/u/7593768?s=72&u=a317d28eb64093cc8253718e9d4a7273efe302be&v=4" width="24" alt="Avatar of luhova"> luhova
+			</a><br/>
+			Gabriela Luhova
+		</td>
+		<td>@tutuf  </td>
+		<td><a href="https://twitter.com/gabriela_luhova">gabriela_luhova</a></td>
+		<td>Sofia</td>
+		<td>0</td>
+		<td>804</td>
+	</tr>
+	<tr>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/nzhul">
 				<img src="https://avatars.githubusercontent.com/u/4274934?s=72&u=986affd6212cc069d7503ee073b503441405665d&v=4" width="24" alt="Avatar of nzhul"> nzhul
@@ -893,24 +2335,10 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
 		<td>197</td>
-		<td>780</td>
+		<td>793</td>
 	</tr>
 	<tr>
-		<td>58</td>
-		<td>
-			<a href="https://github.com/krasimir">
-				<img src="https://avatars.githubusercontent.com/u/528677?s=72&u=7c3ff2376cb5322b303575050bd572a13dc0eee6&v=4" width="24" alt="Avatar of krasimir"> krasimir
-			</a><br/>
-			Krasimir Tsonev
-		</td>
-		<td>Antidote.me </td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>62</td>
-		<td>778</td>
-	</tr>
-	<tr>
-		<td>59</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/antitoxic">
 				<img src="https://avatars.githubusercontent.com/u/261500?s=72&u=9282a02100c8f7d9442b4a03963c2168b8542edc&v=4" width="24" alt="Avatar of antitoxic"> antitoxic
@@ -921,10 +2349,80 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>1</td>
-		<td>777</td>
+		<td>788</td>
 	</tr>
 	<tr>
-		<td>60</td>
+		<td>162</td>
+		<td>
+			<a href="https://github.com/adamof">
+				<img src="https://avatars.githubusercontent.com/u/1392920?s=72&u=f0490220185aa06ead672c4e1f6ce453bf287c02&v=4" width="24" alt="Avatar of adamof"> adamof
+			</a><br/>
+			Stefan Adamov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>0</td>
+		<td>788</td>
+	</tr>
+	<tr>
+		<td>163</td>
+		<td>
+			<a href="https://github.com/krasimir">
+				<img src="https://avatars.githubusercontent.com/u/528677?s=72&u=7c3ff2376cb5322b303575050bd572a13dc0eee6&v=4" width="24" alt="Avatar of krasimir"> krasimir
+			</a><br/>
+			Krasimir Tsonev
+		</td>
+		<td>Antidote.me </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>62</td>
+		<td>784</td>
+	</tr>
+	<tr>
+		<td>164</td>
+		<td>
+			<a href="https://github.com/joankaradimov">
+				<img src="https://avatars.githubusercontent.com/u/221979?s=72&v=4" width="24" alt="Avatar of joankaradimov"> joankaradimov
+			</a><br/>
+			Joan Karadimov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>360</td>
+		<td>784</td>
+	</tr>
+	<tr>
+		<td>165</td>
+		<td>
+			<a href="https://github.com/KonstantinSimeonov">
+				<img src="https://avatars.githubusercontent.com/u/10573234?s=72&u=fc2a8ab4803611c46a5dfe51bc6ebe60fa5e7b02&v=4" width="24" alt="Avatar of KonstantinSimeonov"> KonstantinSimeonov
+			</a><br/>
+			Konstantin Simeonov
+		</td>
+		<td>@webedx-spark  </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria, Sofia</td>
+		<td>194</td>
+		<td>781</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
+			<a href="https://github.com/NaskoVasilev">
+				<img src="https://avatars.githubusercontent.com/u/38570429?s=72&u=acbaadd3799c353884b2f629fd07c72fcafcf770&v=4" width="24" alt="Avatar of NaskoVasilev"> NaskoVasilev
+			</a><br/>
+			Atanas Vasilev
+		</td>
+		<td>@softuni </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>297</td>
+		<td>778</td>
+	</tr>
+	<tr>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/SashoStoichkov">
 				<img src="https://avatars.githubusercontent.com/u/24972335?s=72&u=48687438e9b104ea68e755c7d17634a126042b66&v=4" width="24" alt="Avatar of SashoStoichkov"> SashoStoichkov
@@ -938,7 +2436,35 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>774</td>
 	</tr>
 	<tr>
-		<td>61</td>
+		<td>168</td>
+		<td>
+			<a href="https://github.com/gatsinski">
+				<img src="https://avatars.githubusercontent.com/u/18627287?s=72&u=1bacdb2994ec2d4ed5c2bf23679bd027bdea6d49&v=4" width="24" alt="Avatar of gatsinski"> gatsinski
+			</a><br/>
+			Hristo Gatsinski
+		</td>
+		<td>Egt Interactive </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>757</td>
+		<td>774</td>
+	</tr>
+	<tr>
+		<td>169</td>
+		<td>
+			<a href="https://github.com/fipo">
+				<img src="https://avatars.githubusercontent.com/u/2751691?s=72&u=4ec61db849125f377da8b17da5fd9f12292f0d9f&v=4" width="24" alt="Avatar of fipo"> fipo
+			</a><br/>
+			Philip Sotirov
+		</td>
+		<td>@receipt-bank  </td>
+		<td><a href="https://twitter.com/fipo">fipo</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>3</td>
+		<td>769</td>
+	</tr>
+	<tr>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/zah">
 				<img src="https://avatars.githubusercontent.com/u/175462?s=72&u=e5829a3f2d1ada0fbf691b4fd4d96d1b27b37baa&v=4" width="24" alt="Avatar of zah"> zah
@@ -952,7 +2478,21 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>765</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>171</td>
+		<td>
+			<a href="https://github.com/L3K0V">
+				<img src="https://avatars.githubusercontent.com/u/2267270?s=72&v=4" width="24" alt="Avatar of L3K0V"> L3K0V
+			</a><br/>
+			Asen Lekov
+		</td>
+		<td>Digital Lights Ltd. </td>
+		<td><a href="https://twitter.com/L3K0V">L3K0V</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>176</td>
+		<td>756</td>
+	</tr>
+	<tr>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/lceberg">
 				<img src="https://avatars.githubusercontent.com/u/1928328?s=72&u=1ab919bb1dd37effaa054f90d930d99a4ca6cb72&v=4" width="24" alt="Avatar of lceberg"> lceberg
@@ -963,10 +2503,10 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>43</td>
-		<td>746</td>
+		<td>747</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/elenadimitrova">
 				<img src="https://avatars.githubusercontent.com/u/703848?s=72&u=b9cc8c48b50ac67bcc4eae73806d121de8c5edb4&v=4" width="24" alt="Avatar of elenadimitrova"> elenadimitrova
@@ -976,11 +2516,11 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/elena_gesheva">elena_gesheva</a></td>
 		<td>Bulgaria</td>
-		<td>718</td>
-		<td>736</td>
+		<td>719</td>
+		<td>742</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/martin-g">
 				<img src="https://avatars.githubusercontent.com/u/232002?s=72&u=c7356afbde70d169821beaf02b38227518ff21f5&v=4" width="24" alt="Avatar of martin-g"> martin-g
@@ -990,11 +2530,25 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>@apache  </td>
 		<td><a href="https://twitter.com/mtgrigorov">mtgrigorov</a></td>
 		<td>Veliko Tarnovo, Bulgaria</td>
-		<td>677</td>
+		<td>679</td>
+		<td>738</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
+			<a href="https://github.com/stoyanr">
+				<img src="https://avatars.githubusercontent.com/u/1867702?s=72&v=4" width="24" alt="Avatar of stoyanr"> stoyanr
+			</a><br/>
+			Stoyan Rachev
+		</td>
+		<td>Sap </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>736</td>
 		<td>736</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/deepsyx">
 				<img src="https://avatars.githubusercontent.com/u/4641811?s=72&u=6ab5f26d661d8e97ba501c04c6a314c9134b6099&v=4" width="24" alt="Avatar of deepsyx"> deepsyx
@@ -1005,10 +2559,150 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>2</td>
-		<td>727</td>
+		<td>734</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>177</td>
+		<td>
+			<a href="https://github.com/altras">
+				<img src="https://avatars.githubusercontent.com/u/761656?s=72&v=4" width="24" alt="Avatar of altras"> altras
+			</a><br/>
+			Vitaliy Filipov
+		</td>
+		<td>@camplight  </td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>0</td>
+		<td>723</td>
+	</tr>
+	<tr>
+		<td>178</td>
+		<td>
+			<a href="https://github.com/nexusstar">
+				<img src="https://avatars.githubusercontent.com/u/1746003?s=72&v=4" width="24" alt="Avatar of nexusstar"> nexusstar
+			</a><br/>
+			Petar Nikov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>38</td>
+		<td>722</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
+			<a href="https://github.com/SValkanov">
+				<img src="https://avatars.githubusercontent.com/u/8790422?s=72&u=404c81ec7522505d7d94cb2b314241d0979b7183&v=4" width="24" alt="Avatar of SValkanov"> SValkanov
+			</a><br/>
+			Stanislav Valkanov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>2</td>
+		<td>721</td>
+	</tr>
+	<tr>
+		<td>180</td>
+		<td>
+			<a href="https://github.com/myovchev">
+				<img src="https://avatars.githubusercontent.com/u/2827783?s=72&v=4" width="24" alt="Avatar of myovchev"> myovchev
+			</a><br/>
+			Miro Yovchev
+		</td>
+		<td>@corllete  </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>169</td>
+		<td>720</td>
+	</tr>
+	<tr>
+		<td>181</td>
+		<td>
+			<a href="https://github.com/Seishin">
+				<img src="https://avatars.githubusercontent.com/u/324076?s=72&u=17a6c6804c634760561d3226f342437933e8ac03&v=4" width="24" alt="Avatar of Seishin"> Seishin
+			</a><br/>
+			Atanas Dimitrov
+		</td>
+		<td>Dext </td>
+		<td><a href="https://twitter.com/SeishinBG">SeishinBG</a></td>
+		<td>Plovdiv, Bulgaria</td>
+		<td>0</td>
+		<td>696</td>
+	</tr>
+	<tr>
+		<td>182</td>
+		<td>
+			<a href="https://github.com/skilldeliver">
+				<img src="https://avatars.githubusercontent.com/u/37806520?s=72&u=c9d06f3c3c97f5d0f8fceab2d2511399304a10fe&v=4" width="24" alt="Avatar of skilldeliver"> skilldeliver
+			</a><br/>
+			Vladislav Mihov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>328</td>
+		<td>692</td>
+	</tr>
+	<tr>
+		<td>183</td>
+		<td>
+			<a href="https://github.com/erayrafet">
+				<img src="https://avatars.githubusercontent.com/u/34194191?s=72&u=4e06ac216ccfb2514accbdf8a339ccb272ab5587&v=4" width="24" alt="Avatar of erayrafet"> erayrafet
+			</a><br/>
+			Eray Rafet
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/eray_rafet">eray_rafet</a></td>
+		<td>Bulgaria</td>
+		<td>692</td>
+		<td>692</td>
+	</tr>
+	<tr>
+		<td>184</td>
+		<td>
+			<a href="https://github.com/DenitsaStoianova">
+				<img src="https://avatars.githubusercontent.com/u/21333636?s=72&u=4e1e8f2d1d9d0d558076f56cb0281fb6e9f59238&v=4" width="24" alt="Avatar of DenitsaStoianova"> DenitsaStoianova
+			</a><br/>
+			Denitsa Stoyanova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>689</td>
+		<td>689</td>
+	</tr>
+	<tr>
+		<td>185</td>
+		<td>
+			<a href="https://github.com/Nimor111">
+				<img src="https://avatars.githubusercontent.com/u/15860618?s=72&u=71e5c4e8de9c305a6c979e0ff704853e92ac788c&v=4" width="24" alt="Avatar of Nimor111"> Nimor111
+			</a><br/>
+			Georgi Bojinov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>466</td>
+		<td>680</td>
+	</tr>
+	<tr>
+		<td>186</td>
+		<td>
+			<a href="https://github.com/borislavstoychev">
+				<img src="https://avatars.githubusercontent.com/u/67734870?s=72&u=3996c89d52af22dc6a052158e3a208b62be08a27&v=4" width="24" alt="Avatar of borislavstoychev"> borislavstoychev
+			</a><br/>
+			Borislav Stoychev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>679</td>
+		<td>679</td>
+	</tr>
+	<tr>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/profjordanov">
 				<img src="https://avatars.githubusercontent.com/u/17942836?s=72&u=50401dac9a28fbeac7a123795e815532a0c3f861&v=4" width="24" alt="Avatar of profjordanov"> profjordanov
@@ -1022,7 +2716,7 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>677</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/ValGeorgiev">
 				<img src="https://avatars.githubusercontent.com/u/12056467?s=72&u=06e8155d4cdfd4403c3ad626b149b3035150e824&v=4" width="24" alt="Avatar of ValGeorgiev"> ValGeorgiev
@@ -1033,10 +2727,150 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>79</td>
-		<td>660</td>
+		<td>674</td>
 	</tr>
 	<tr>
-		<td>68</td>
+		<td>189</td>
+		<td>
+			<a href="https://github.com/blaskov">
+				<img src="https://avatars.githubusercontent.com/u/645603?s=72&v=4" width="24" alt="Avatar of blaskov"> blaskov
+			</a><br/>
+			Vladimir Blaskov
+		</td>
+		<td>@transportapi </td>
+		<td><a href="https://twitter.com/blaskov">blaskov</a></td>
+		<td>Varna, Bulgaria</td>
+		<td>6</td>
+		<td>672</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
+			<a href="https://github.com/petsto">
+				<img src="https://avatars.githubusercontent.com/u/7047129?s=72&u=c8da2dbc8fb20d0420f36b938f8e2a2da54136ad&v=4" width="24" alt="Avatar of petsto"> petsto
+			</a><br/>
+			Petar Stoyanov
+		</td>
+		<td>Teamwork.com </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>5</td>
+		<td>672</td>
+	</tr>
+	<tr>
+		<td>191</td>
+		<td>
+			<a href="https://github.com/angelnikolov">
+				<img src="https://avatars.githubusercontent.com/u/2675259?s=72&v=4" width="24" alt="Avatar of angelnikolov"> angelnikolov
+			</a><br/>
+			Angel Nikolov
+		</td>
+		<td>@mentormate </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>22</td>
+		<td>663</td>
+	</tr>
+	<tr>
+		<td>192</td>
+		<td>
+			<a href="https://github.com/ender1324">
+				<img src="https://avatars.githubusercontent.com/u/46723422?s=72&u=cbe4590d5ec7e76e669327dd88199c78910cb40b&v=4" width="24" alt="Avatar of ender1324"> ender1324
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ender13241">ender13241</a></td>
+		<td>Bulgaria</td>
+		<td>585</td>
+		<td>657</td>
+	</tr>
+	<tr>
+		<td>193</td>
+		<td>
+			<a href="https://github.com/MightyPixel">
+				<img src="https://avatars.githubusercontent.com/u/1314810?s=72&u=c80c6a3680006e15da13e904b6c89f8417758ecf&v=4" width="24" alt="Avatar of MightyPixel"> MightyPixel
+			</a><br/>
+			Ognyan Angelov
+		</td>
+		<td>@financial-times  </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>6</td>
+		<td>656</td>
+	</tr>
+	<tr>
+		<td>194</td>
+		<td>
+			<a href="https://github.com/u-ashikov">
+				<img src="https://avatars.githubusercontent.com/u/19503086?s=72&u=2a458c4fb7966a0c316fe3ad1c111dda7336d04e&v=4" width="24" alt="Avatar of u-ashikov"> u-ashikov
+			</a><br/>
+			Yulian Ashikov
+		</td>
+		<td>@onebitsoftware </td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>288</td>
+		<td>654</td>
+	</tr>
+	<tr>
+		<td>195</td>
+		<td>
+			<a href="https://github.com/Syndamia">
+				<img src="https://avatars.githubusercontent.com/u/46843671?s=72&u=a65605113d56491c757d7186d75def83a965ac5c&v=4" width="24" alt="Avatar of Syndamia"> Syndamia
+			</a><br/>
+			Kamen Mladenov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>593</td>
+		<td>648</td>
+	</tr>
+	<tr>
+		<td>196</td>
+		<td>
+			<a href="https://github.com/tagrudev">
+				<img src="https://avatars.githubusercontent.com/u/438405?s=72&u=2ee1e4d6c312c2ba337138fc9391041ca6ce0148&v=4" width="24" alt="Avatar of tagrudev"> tagrudev
+			</a><br/>
+			Todor Grudev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>18</td>
+		<td>643</td>
+	</tr>
+	<tr>
+		<td>197</td>
+		<td>
+			<a href="https://github.com/ivopetkov">
+				<img src="https://avatars.githubusercontent.com/u/13205385?s=72&u=1b80c582e4fde62290869ba7361191942a76aac0&v=4" width="24" alt="Avatar of ivopetkov"> ivopetkov
+			</a><br/>
+			Ivo Petkov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>635</td>
+		<td>635</td>
+	</tr>
+	<tr>
+		<td>198</td>
+		<td>
+			<a href="https://github.com/atanasovam">
+				<img src="https://avatars.githubusercontent.com/u/24990734?s=72&u=86168d91fa1a97d458f1ae57998978777a7328b0&v=4" width="24" alt="Avatar of atanasovam"> atanasovam
+			</a><br/>
+			Milena Atanasova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>81</td>
+		<td>633</td>
+	</tr>
+	<tr>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/AndrewRadev">
 				<img src="https://avatars.githubusercontent.com/u/124255?s=72&u=95143e5220ea09ed2d0c5b772ca724c59fccc92f&v=4" width="24" alt="Avatar of AndrewRadev"> AndrewRadev
@@ -1050,7 +2884,7 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>628</td>
 	</tr>
 	<tr>
-		<td>69</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/angelovstanton">
 				<img src="https://avatars.githubusercontent.com/u/7361065?s=72&u=4d9ea0b699bafbbf4d88f14771d628aeffdfb375&v=4" width="24" alt="Avatar of angelovstanton"> angelovstanton
@@ -1064,7 +2898,35 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>624</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>201</td>
+		<td>
+			<a href="https://github.com/Dsmilyanov">
+				<img src="https://avatars.githubusercontent.com/u/5895211?s=72&u=1caf5f032b4aad1bfb92b02549903a4aa8d35cba&v=4" width="24" alt="Avatar of Dsmilyanov"> Dsmilyanov
+			</a><br/>
+			Dimitar Smilyanov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>3</td>
+		<td>616</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>
+			<a href="https://github.com/stanislavstoyanov99">
+				<img src="https://avatars.githubusercontent.com/u/45464117?s=72&u=926cbe22a2cd127c0d45551f4be6b67017e4dbde&v=4" width="24" alt="Avatar of stanislavstoyanov99"> stanislavstoyanov99
+			</a><br/>
+			Stanislav Stoyanov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Radomir, Bulgaria</td>
+		<td>470</td>
+		<td>610</td>
+	</tr>
+	<tr>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/ggerganov">
 				<img src="https://avatars.githubusercontent.com/u/1991296?s=72&u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4" width="24" alt="Avatar of ggerganov"> ggerganov
@@ -1074,11 +2936,81 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>@viewray-inc  </td>
 		<td><a href="https://twitter.com/ggerganov">ggerganov</a></td>
 		<td>Sofia, Bulgaria</td>
-		<td>606</td>
-		<td>606</td>
+		<td>607</td>
+		<td>607</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>204</td>
+		<td>
+			<a href="https://github.com/agafox">
+				<img src="https://avatars.githubusercontent.com/u/20966590?s=72&u=43fd66e36e6b561dbc80db402f897ca9095fc76b&v=4" width="24" alt="Avatar of agafox"> agafox
+			</a><br/>
+			Oleg Agafonov
+		</td>
+		<td>@restcomm  @sip3io </td>
+		<td><a href="https://twitter.com/agaf0x">agaf0x</a></td>
+		<td>Varna, BG - Moscow, RU</td>
+		<td>605</td>
+		<td>605</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
+			<a href="https://github.com/preslavmihaylov">
+				<img src="https://avatars.githubusercontent.com/u/7642330?s=72&u=3f9bb65f3e6a5e5cdb533bfff2fbf62b3e6490a5&v=4" width="24" alt="Avatar of preslavmihaylov"> preslavmihaylov
+			</a><br/>
+			Preslav Mihaylov
+		</td>
+		<td>Uber </td>
+		<td><a href="https://twitter.com/PreslavMihaylov">PreslavMihaylov</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>466</td>
+		<td>599</td>
+	</tr>
+	<tr>
+		<td>206</td>
+		<td>
+			<a href="https://github.com/orlin">
+				<img src="https://avatars.githubusercontent.com/u/2434?s=72&v=4" width="24" alt="Avatar of orlin"> orlin
+			</a><br/>
+			Orlin M Bozhinov
+		</td>
+		<td>Astrolet </td>
+		<td><a href="https://twitter.com/orlin">orlin</a></td>
+		<td>Varna, Bulgaria</td>
+		<td>455</td>
+		<td>599</td>
+	</tr>
+	<tr>
+		<td>207</td>
+		<td>
+			<a href="https://github.com/dvdvideo1234">
+				<img src="https://avatars.githubusercontent.com/u/9112662?s=72&u=8b5f2967857dd3f54a040e3a0277754044228b2c&v=4" width="24" alt="Avatar of dvdvideo1234"> dvdvideo1234
+			</a><br/>
+			Deyan Dobromirov
+		</td>
+		<td>@codix-bg </td>
+		<td><a href="https://twitter.com/DeyanDobromirov">DeyanDobromirov</a></td>
+		<td>Asen Jordanov 23, Bozhurishte, Sofia, Bulgaria</td>
+		<td>598</td>
+		<td>598</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
+			<a href="https://github.com/vladitasev">
+				<img src="https://avatars.githubusercontent.com/u/15844574?s=72&u=246d332c8e2f822746ff44bbd5ff29568ed88d89&v=4" width="24" alt="Avatar of vladitasev"> vladitasev
+			</a><br/>
+			Vladislav Tasev
+		</td>
+		<td>@sap  </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>598</td>
+		<td>598</td>
+	</tr>
+	<tr>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/Teodor92">
 				<img src="https://avatars.githubusercontent.com/u/3375056?s=72&v=4" width="24" alt="Avatar of Teodor92"> Teodor92
@@ -1089,24 +3021,10 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>25</td>
-		<td>595</td>
+		<td>596</td>
 	</tr>
 	<tr>
-		<td>72</td>
-		<td>
-			<a href="https://github.com/preslavmihaylov">
-				<img src="https://avatars.githubusercontent.com/u/7642330?s=72&u=3f9bb65f3e6a5e5cdb533bfff2fbf62b3e6490a5&v=4" width="24" alt="Avatar of preslavmihaylov"> preslavmihaylov
-			</a><br/>
-			Preslav Mihaylov
-		</td>
-		<td>Uber </td>
-		<td><a href="https://twitter.com/PreslavMihaylov">PreslavMihaylov</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>461</td>
-		<td>594</td>
-	</tr>
-	<tr>
-		<td>73</td>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/PKGeorgiev">
 				<img src="https://avatars.githubusercontent.com/u/9254467?s=72&u=305dcfdebd4570d49120cc8255fb609ded1c8607&v=4" width="24" alt="Avatar of PKGeorgiev"> PKGeorgiev
@@ -1120,7 +3038,133 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>594</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>211</td>
+		<td>
+			<a href="https://github.com/TeodorDyakov">
+				<img src="https://avatars.githubusercontent.com/u/20144081?s=72&v=4" width="24" alt="Avatar of TeodorDyakov"> TeodorDyakov
+			</a><br/>
+			Teodor Dyakov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>593</td>
+		<td>593</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
+			<a href="https://github.com/momchilantonov">
+				<img src="https://avatars.githubusercontent.com/u/71893279?s=72&u=31efea96788cd29124f41fb2068a1af97540f601&v=4" width="24" alt="Avatar of momchilantonov"> momchilantonov
+			</a><br/>
+			Momchil Antonov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>592</td>
+		<td>592</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/OGSPARTANICUS">
+				<img src="https://avatars.githubusercontent.com/u/36676129?s=72&u=7c400db1f2df50bb3a81f5c0bb2901248a1b761d&v=4" width="24" alt="Avatar of OGSPARTANICUS"> OGSPARTANICUS
+			</a><br/>
+			Hristiyan Paradelov
+		</td>
+		<td>@samsung </td>
+		<td>No Twitter Username</td>
+		<td>Pleven, Bulgaria</td>
+		<td>429</td>
+		<td>591</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
+			<a href="https://github.com/nkrastev">
+				<img src="https://avatars.githubusercontent.com/u/8632258?s=72&u=7b9b113b3edf1b11a571ebdfa4ab9f9f99a9f931&v=4" width="24" alt="Avatar of nkrastev"> nkrastev
+			</a><br/>
+			Nikolay Krastev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>584</td>
+		<td>584</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
+			<a href="https://github.com/KristianWEB">
+				<img src="https://avatars.githubusercontent.com/u/46797006?s=72&u=a46da5349d904201a1f040d9111408dad50662cd&v=4" width="24" alt="Avatar of KristianWEB"> KristianWEB
+			</a><br/>
+			Kristian
+		</td>
+		<td>Qnary Llc </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>8</td>
+		<td>583</td>
+	</tr>
+	<tr>
+		<td>216</td>
+		<td>
+			<a href="https://github.com/dimitarvp">
+				<img src="https://avatars.githubusercontent.com/u/463929?s=72&v=4" width="24" alt="Avatar of dimitarvp"> dimitarvp
+			</a><br/>
+			Dimitar Panayotov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>57</td>
+		<td>580</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
+			<a href="https://github.com/subev">
+				<img src="https://avatars.githubusercontent.com/u/1330872?s=72&v=4" width="24" alt="Avatar of subev"> subev
+			</a><br/>
+			Petur Subev
+		</td>
+		<td>Hyperscience </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>51</td>
+		<td>567</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
+			<a href="https://github.com/YordanDobrev97">
+				<img src="https://avatars.githubusercontent.com/u/42092212?s=72&u=2d7ac710c6414a84fddfbe10a08727c46cc262e5&v=4" width="24" alt="Avatar of YordanDobrev97"> YordanDobrev97
+			</a><br/>
+			Yordan Dobrev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>556</td>
+		<td>556</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>
+			<a href="https://github.com/joromir">
+				<img src="https://avatars.githubusercontent.com/u/4867236?s=72&u=c0a5b933bef92d3e015eb97a82a634b31b01d80a&v=4" width="24" alt="Avatar of joromir"> joromir
+			</a><br/>
+			George N. Kostov
+		</td>
+		<td>@fundingcircle  </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>1</td>
+		<td>555</td>
+	</tr>
+	<tr>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/petyosi">
 				<img src="https://avatars.githubusercontent.com/u/13347?s=72&u=b329cd2ec6bd3562524cca65eab91ecd8fcc5a65&v=4" width="24" alt="Avatar of petyosi"> petyosi
@@ -1134,7 +3178,77 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>547</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>221</td>
+		<td>
+			<a href="https://github.com/bsivanov">
+				<img src="https://avatars.githubusercontent.com/u/5506329?s=72&u=cfe82a7c9d94043d9717f256ea19d1a7467144bf&v=4" width="24" alt="Avatar of bsivanov"> bsivanov
+			</a><br/>
+			Borislav Ivanov
+		</td>
+		<td>@telerik </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria, Sofia</td>
+		<td>33</td>
+		<td>545</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>
+			<a href="https://github.com/v--">
+				<img src="https://avatars.githubusercontent.com/u/5711311?s=72&u=5f819ab02c221498b57ba428a3e1e14aeda7712a&v=4" width="24" alt="Avatar of v--"> v--
+			</a><br/>
+			Ianis Vasilev
+		</td>
+		<td>@asteasolutions </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>541</td>
+		<td>542</td>
+	</tr>
+	<tr>
+		<td>223</td>
+		<td>
+			<a href="https://github.com/dxas90">
+				<img src="https://avatars.githubusercontent.com/u/1261887?s=72&u=3ff37c2aea80e70d6ca29f43abcbce115a2a6168&v=4" width="24" alt="Avatar of dxas90"> dxas90
+			</a><br/>
+			Daniel Ramirez
+		</td>
+		<td>Musalasoft </td>
+		<td>No Twitter Username</td>
+		<td>Sofia Bulgaria </td>
+		<td>219</td>
+		<td>538</td>
+	</tr>
+	<tr>
+		<td>224</td>
+		<td>
+			<a href="https://github.com/ddinchev">
+				<img src="https://avatars.githubusercontent.com/u/1397692?s=72&u=26313af5d150c66f64e9606ae8af1bbe3f60606c&v=4" width="24" alt="Avatar of ddinchev"> ddinchev
+			</a><br/>
+			Dimitar Dinchev
+		</td>
+		<td>Carspending </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>6</td>
+		<td>535</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>
+			<a href="https://github.com/vakrilov">
+				<img src="https://avatars.githubusercontent.com/u/4092076?s=72&u=fba57863be1dd227c79855f418a10c14cec59c73&v=4" width="24" alt="Avatar of vakrilov"> vakrilov
+			</a><br/>
+			Alexander Vakrilov
+		</td>
+		<td>Coursera.org </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>45</td>
+		<td>533</td>
+	</tr>
+	<tr>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/Sineastra">
 				<img src="https://avatars.githubusercontent.com/u/10062202?s=72&u=92f65e78795667823054aa261a00d72f68bc28dc&v=4" width="24" alt="Avatar of Sineastra"> Sineastra
@@ -1144,11 +3258,25 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>Software University </td>
 		<td><a href="https://twitter.com/Sineastra">Sineastra</a></td>
 		<td>Stara Zagora, Bulgaria</td>
-		<td>530</td>
-		<td>530</td>
+		<td>533</td>
+		<td>533</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>227</td>
+		<td>
+			<a href="https://github.com/Xtigyro">
+				<img src="https://avatars.githubusercontent.com/u/11665162?s=72&v=4" width="24" alt="Avatar of Xtigyro"> Xtigyro
+			</a><br/>
+			Miroslav Hadzhiev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>531</td>
+		<td>531</td>
+	</tr>
+	<tr>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/KleoPetroff">
 				<img src="https://avatars.githubusercontent.com/u/8289691?s=72&u=0b7ab2d50ad15ba11468bfbc3c0ae016cf247328&v=4" width="24" alt="Avatar of KleoPetroff"> KleoPetroff
@@ -1162,21 +3290,7 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>530</td>
 	</tr>
 	<tr>
-		<td>77</td>
-		<td>
-			<a href="https://github.com/vakrilov">
-				<img src="https://avatars.githubusercontent.com/u/4092076?s=72&u=fba57863be1dd227c79855f418a10c14cec59c73&v=4" width="24" alt="Avatar of vakrilov"> vakrilov
-			</a><br/>
-			Alexander Vakrilov
-		</td>
-		<td>Coursera.org </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>45</td>
-		<td>528</td>
-	</tr>
-	<tr>
-		<td>78</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/gigobyte">
 				<img src="https://avatars.githubusercontent.com/u/8791446?s=72&u=672cf8bd4e06b4c9408d3f7c8460aaa2ea184c1c&v=4" width="24" alt="Avatar of gigobyte"> gigobyte
@@ -1190,7 +3304,35 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>527</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>230</td>
+		<td>
+			<a href="https://github.com/zdraganov">
+				<img src="https://avatars.githubusercontent.com/u/1681672?s=72&u=ab9a2d4e8b732fad53498c10b5e4e885bdd2338c&v=4" width="24" alt="Avatar of zdraganov"> zdraganov
+			</a><br/>
+			Zhivko Draganov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>12</td>
+		<td>526</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>
+			<a href="https://github.com/sMustafov">
+				<img src="https://avatars.githubusercontent.com/u/14351612?s=72&u=1f01c43e92265b9eb4110673607366c96da8c90a&v=4" width="24" alt="Avatar of sMustafov"> sMustafov
+			</a><br/>
+			Sevgin Mustafov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>82</td>
+		<td>525</td>
+	</tr>
+	<tr>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/NickIliev">
 				<img src="https://avatars.githubusercontent.com/u/18008302?s=72&u=97ecfe01b76f894a7f39a90ff34cd39c8ebf42b9&v=4" width="24" alt="Avatar of NickIliev"> NickIliev
@@ -1200,25 +3342,11 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>Progress  @fiddler @nativescript<br/></td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>503</td>
-		<td>520</td>
+		<td>504</td>
+		<td>521</td>
 	</tr>
 	<tr>
-		<td>80</td>
-		<td>
-			<a href="https://github.com/elena-gancheva">
-				<img src="https://avatars.githubusercontent.com/u/8842674?s=72&u=cda6f6caa9d9f878370a3ee6345d75581c81b23e&v=4" width="24" alt="Avatar of elena-gancheva"> elena-gancheva
-			</a><br/>
-			Elena Gancheva
-		</td>
-		<td>@telerik  </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>21</td>
-		<td>502</td>
-	</tr>
-	<tr>
-		<td>81</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/dininski">
 				<img src="https://avatars.githubusercontent.com/u/2004693?s=72&u=423d34154277c26043aefdb18bc6345bb1c419a1&v=4" width="24" alt="Avatar of dininski"> dininski
@@ -1229,10 +3357,66 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>2</td>
-		<td>493</td>
+		<td>509</td>
 	</tr>
 	<tr>
+		<td>234</td>
+		<td>
+			<a href="https://github.com/ivanovyordan">
+				<img src="https://avatars.githubusercontent.com/u/979329?s=72&u=2bd5e27294607b85f4794ae237993fff4c9c2a27&v=4" width="24" alt="Avatar of ivanovyordan"> ivanovyordan
+			</a><br/>
+			Yordan Ivanov
+		</td>
+		<td>Dext </td>
+		<td><a href="https://twitter.com/ivanov_yordan">ivanov_yordan</a></td>
+		<td>Plovdiv, Bulgaria</td>
 		<td>82</td>
+		<td>509</td>
+	</tr>
+	<tr>
+		<td>235</td>
+		<td>
+			<a href="https://github.com/veronikahristozova">
+				<img src="https://avatars.githubusercontent.com/u/22590489?s=72&u=298cb3c478180de3c16b70ca60d8507abae63103&v=4" width="24" alt="Avatar of veronikahristozova"> veronikahristozova
+			</a><br/>
+			Veronika
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>3</td>
+		<td>508</td>
+	</tr>
+	<tr>
+		<td>236</td>
+		<td>
+			<a href="https://github.com/elena-gancheva">
+				<img src="https://avatars.githubusercontent.com/u/8842674?s=72&u=cda6f6caa9d9f878370a3ee6345d75581c81b23e&v=4" width="24" alt="Avatar of elena-gancheva"> elena-gancheva
+			</a><br/>
+			Elena Gancheva
+		</td>
+		<td>@telerik  </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>21</td>
+		<td>507</td>
+	</tr>
+	<tr>
+		<td>237</td>
+		<td>
+			<a href="https://github.com/dincho">
+				<img src="https://avatars.githubusercontent.com/u/260329?s=72&v=4" width="24" alt="Avatar of dincho"> dincho
+			</a><br/>
+			Dincho Todorov
+		</td>
+		<td>Vm&co </td>
+		<td>No Twitter Username</td>
+		<td>Varna, Bulgaria</td>
+		<td>319</td>
+		<td>507</td>
+	</tr>
+	<tr>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/curiousily">
 				<img src="https://avatars.githubusercontent.com/u/150327?s=72&u=8f59dc2c6da7ba39cf1157cc731020730f1e278f&v=4" width="24" alt="Avatar of curiousily"> curiousily
@@ -1243,10 +3427,66 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td><a href="https://twitter.com/curiousily">curiousily</a></td>
 		<td>Bulgaria</td>
 		<td>56</td>
+		<td>498</td>
+	</tr>
+	<tr>
+		<td>239</td>
+		<td>
+			<a href="https://github.com/maginikolova">
+				<img src="https://avatars.githubusercontent.com/u/15340134?s=72&u=07a13cb316ffaf6e36fbe7748b8139330dba31e2&v=4" width="24" alt="Avatar of maginikolova"> maginikolova
+			</a><br/>
+			Maggie
+		</td>
+		<td>Inensia </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>346</td>
+		<td>497</td>
+	</tr>
+	<tr>
+		<td>240</td>
+		<td>
+			<a href="https://github.com/KristianTashkov">
+				<img src="https://avatars.githubusercontent.com/u/3768676?s=72&v=4" width="24" alt="Avatar of KristianTashkov"> KristianTashkov
+			</a><br/>
+			Kristian Tashkov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>146</td>
+		<td>489</td>
+	</tr>
+	<tr>
+		<td>241</td>
+		<td>
+			<a href="https://github.com/akurtakov">
+				<img src="https://avatars.githubusercontent.com/u/574788?s=72&v=4" width="24" alt="Avatar of akurtakov"> akurtakov
+			</a><br/>
+			Александър Куртаков
+		</td>
+		<td>Red Hat Inc. </td>
+		<td><a href="https://twitter.com/akurtakov">akurtakov</a></td>
+		<td>Pazardzhik, Bulgaria</td>
+		<td>485</td>
 		<td>485</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>242</td>
+		<td>
+			<a href="https://github.com/atanas-dev">
+				<img src="https://avatars.githubusercontent.com/u/22746396?s=72&v=4" width="24" alt="Avatar of atanas-dev"> atanas-dev
+			</a><br/>
+			Atanas Angelov
+		</td>
+		<td>@automattic </td>
+		<td><a href="https://twitter.com/atanas_dev">atanas_dev</a></td>
+		<td>Bulgaria</td>
+		<td>284</td>
+		<td>484</td>
+	</tr>
+	<tr>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/hristo-vrigazov">
 				<img src="https://avatars.githubusercontent.com/u/14914140?s=72&u=a268f7dfe23842fc1342324fe8484cd33d1fe875&v=4" width="24" alt="Avatar of hristo-vrigazov"> hristo-vrigazov
@@ -1260,7 +3500,105 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>470</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>244</td>
+		<td>
+			<a href="https://github.com/dimitarnestorov">
+				<img src="https://avatars.githubusercontent.com/u/8790386?s=72&u=2dc17d6221a3b3800224a91737711da334f50988&v=4" width="24" alt="Avatar of dimitarnestorov"> dimitarnestorov
+			</a><br/>
+			Dimitar Nestorov
+		</td>
+		<td>@jarvis-network </td>
+		<td><a href="https://twitter.com/dimitarnestorov">dimitarnestorov</a></td>
+		<td>Sofia, Bulgaria</td>
+		<td>352</td>
+		<td>470</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/harrygg">
+				<img src="https://avatars.githubusercontent.com/u/1013950?s=72&u=07925f9d6578deb88f3022ec4cbddab5be8d5ff4&v=4" width="24" alt="Avatar of harrygg"> harrygg
+			</a><br/>
+			Harry G
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>467</td>
+		<td>467</td>
+	</tr>
+	<tr>
+		<td>246</td>
+		<td>
+			<a href="https://github.com/ihristova11">
+				<img src="https://avatars.githubusercontent.com/u/12248267?s=72&u=06522ad5cfabfba29bcfe0cabfbb9f66152038db&v=4" width="24" alt="Avatar of ihristova11"> ihristova11
+			</a><br/>
+			Irina Hristova
+		</td>
+		<td>Sap Labs Bulgaria </td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>250</td>
+		<td>467</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>
+			<a href="https://github.com/Mapmo">
+				<img src="https://avatars.githubusercontent.com/u/33814612?s=72&u=e924d195260d3da66701a2acbeacb6f9ebc807a7&v=4" width="24" alt="Avatar of Mapmo"> Mapmo
+			</a><br/>
+			Martin Iliev
+		</td>
+		<td>@fmi </td>
+		<td>No Twitter Username</td>
+		<td>Sofia</td>
+		<td>274</td>
+		<td>461</td>
+	</tr>
+	<tr>
+		<td>248</td>
+		<td>
+			<a href="https://github.com/lacho55">
+				<img src="https://avatars.githubusercontent.com/u/13720484?s=72&u=9175c6c6778c02b6cad8e3fd52f6d93120b3a83d&v=4" width="24" alt="Avatar of lacho55"> lacho55
+			</a><br/>
+			Lachezar Peshterliev
+		</td>
+		<td>Dreamix </td>
+		<td>No Twitter Username</td>
+		<td>Sofia,Bulgaria</td>
+		<td>456</td>
+		<td>456</td>
+	</tr>
+	<tr>
+		<td>249</td>
+		<td>
+			<a href="https://github.com/kidroca">
+				<img src="https://avatars.githubusercontent.com/u/12156624?s=72&v=4" width="24" alt="Avatar of kidroca"> kidroca
+			</a><br/>
+			Peter Velkov
+		</td>
+		<td>Inceptdevelopment </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
+		<td>453</td>
+		<td>453</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>
+			<a href="https://github.com/vkdimitrov">
+				<img src="https://avatars.githubusercontent.com/u/1060343?s=72&v=4" width="24" alt="Avatar of vkdimitrov"> vkdimitrov
+			</a><br/>
+			Vladimir
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia/Bulagaria</td>
+		<td>0</td>
+		<td>440</td>
+	</tr>
+	<tr>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/sis0k0">
 				<img src="https://avatars.githubusercontent.com/u/7893485?s=72&u=a45cb6badef5cbfe2650c39c2bba1168e89dfa72&v=4" width="24" alt="Avatar of sis0k0"> sis0k0
@@ -1274,1446 +3612,74 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 		<td>439</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>252</td>
 		<td>
-			<a href="https://github.com/dnaeon">
-				<img src="https://avatars.githubusercontent.com/u/242827?s=72&v=4" width="24" alt="Avatar of dnaeon"> dnaeon
+			<a href="https://github.com/peterlevi">
+				<img src="https://avatars.githubusercontent.com/u/1457048?s=72&v=4" width="24" alt="Avatar of peterlevi"> peterlevi
 			</a><br/>
-			Marin Atanasov Nikolov
+			Peter Levi
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>422</td>
-		<td>422</td>
-	</tr>
-	<tr>
-		<td>86</td>
-		<td>
-			<a href="https://github.com/valo">
-				<img src="https://avatars.githubusercontent.com/u/47639?s=72&v=4" width="24" alt="Avatar of valo"> valo
-			</a><br/>
-			Valentin Mihov
-		</td>
-		<td>Checkout-x </td>
-		<td><a href="https://twitter.com/valentinmihov">valentinmihov</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>132</td>
-		<td>382</td>
-	</tr>
-	<tr>
-		<td>87</td>
-		<td>
-			<a href="https://github.com/pveentjer">
-				<img src="https://avatars.githubusercontent.com/u/105243?s=72&u=529faa5afe49262b9d7cd1d7f7c153b9b7e9a127&v=4" width="24" alt="Avatar of pveentjer"> pveentjer
-			</a><br/>
-			Peter Veentjer
-		</td>
-		<td>Www.hazelcast.com </td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>351</td>
-		<td>351</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
-			<a href="https://github.com/nikoladimitroff">
-				<img src="https://avatars.githubusercontent.com/u/3112182?s=72&u=96c22927e07c2916a69ad2e70016c14f8ba6ed36&v=4" width="24" alt="Avatar of nikoladimitroff"> nikoladimitroff
-			</a><br/>
-			Nikola Dimitroff
-		</td>
-		<td>Ubisoft Sofia </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>1</td>
-		<td>340</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
-			<a href="https://github.com/onqtam">
-				<img src="https://avatars.githubusercontent.com/u/4648169?s=72&u=8283a3e1d1a2525e3ccb5a0c5fed86f85dbea8c2&v=4" width="24" alt="Avatar of onqtam"> onqtam
-			</a><br/>
-			Viktor Kirilov
-		</td>
-		<td>@status-im </td>
-		<td><a href="https://twitter.com/KirilovVik">KirilovVik</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>175</td>
-		<td>338</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
-			<a href="https://github.com/NoHomey">
-				<img src="https://avatars.githubusercontent.com/u/8791438?s=72&u=b4ba60078caa432e68f847b99f218e242d69de49&v=4" width="24" alt="Avatar of NoHomey"> NoHomey
-			</a><br/>
-			Ivo Stratev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>338</td>
-		<td>338</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
-			<a href="https://github.com/wqweto">
-				<img src="https://avatars.githubusercontent.com/u/987963?s=72&u=985f3833b288b56aadf7b34d3184bae46865fa63&v=4" width="24" alt="Avatar of wqweto"> wqweto
-			</a><br/>
-			Vladimir Vissoultchev
-		</td>
-		<td>Unicontsoft </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>323</td>
-		<td>323</td>
-	</tr>
-	<tr>
-		<td>92</td>
-		<td>
-			<a href="https://github.com/stefansaraev">
-				<img src="https://avatars.githubusercontent.com/u/758738?s=72&u=75acb7c3a04191bbc0450a67820f7f51141ab942&v=4" width="24" alt="Avatar of stefansaraev"> stefansaraev
-			</a><br/>
-			Stefan Saraev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
-		<td>318</td>
-		<td>318</td>
-	</tr>
-	<tr>
-		<td>93</td>
-		<td>
-			<a href="https://github.com/mihail-petrov">
-				<img src="https://avatars.githubusercontent.com/u/849655?s=72&u=15875e5d97e55f608b2d45069510e35f5fe17756&v=4" width="24" alt="Avatar of mihail-petrov"> mihail-petrov
-			</a><br/>
-			Mihail Petrov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>299</td>
-		<td>299</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
-			<a href="https://github.com/salif">
-				<img src="https://avatars.githubusercontent.com/u/35408721?s=72&u=555cc564c121c1980a7a93546dc2fa3e89a0672c&v=4" width="24" alt="Avatar of salif"> salif
-			</a><br/>
-			Salif Mehmed
-		</td>
-		<td>Open To Work </td>
-		<td>No Twitter Username</td>
-		<td>Somewhere in Bulgaria</td>
-		<td>274</td>
-		<td>296</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
-			<a href="https://github.com/kaloyan-raev">
-				<img src="https://avatars.githubusercontent.com/u/468091?s=72&v=4" width="24" alt="Avatar of kaloyan-raev"> kaloyan-raev
-			</a><br/>
-			Kaloyan Raev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>261</td>
-		<td>294</td>
-	</tr>
-	<tr>
-		<td>96</td>
-		<td>
-			<a href="https://github.com/AlenPaunov">
-				<img src="https://avatars.githubusercontent.com/u/30209517?s=72&u=7c86ad206b1f440b32870670baee4a75693e5530&v=4" width="24" alt="Avatar of AlenPaunov"> AlenPaunov
-			</a><br/>
-			Alen Paunov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>7</td>
-		<td>284</td>
-	</tr>
-	<tr>
-		<td>97</td>
-		<td>
-			<a href="https://github.com/ivaylokenov">
-				<img src="https://avatars.githubusercontent.com/u/3391906?s=72&u=c0228881c9861355b72faae315fedd945aff000e&v=4" width="24" alt="Avatar of ivaylokenov"> ivaylokenov
-			</a><br/>
-			Ivaylo Kenov
-		</td>
-		<td>@softuni </td>
+		<td>Hyperscience </td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
-		<td>199</td>
-		<td>279</td>
+		<td>10</td>
+		<td>435</td>
 	</tr>
 	<tr>
-		<td>98</td>
+		<td>253</td>
 		<td>
-			<a href="https://github.com/VladimirAlexiev">
-				<img src="https://avatars.githubusercontent.com/u/536250?s=72&v=4" width="24" alt="Avatar of VladimirAlexiev"> VladimirAlexiev
+			<a href="https://github.com/ZgrK">
+				<img src="https://avatars.githubusercontent.com/u/879674?s=72&u=3cbf3d6dbbc5000da0b9d8d914c882a2e98a3142&v=4" width="24" alt="Avatar of ZgrK"> ZgrK
 			</a><br/>
-			Vladimir Alexiev
-		</td>
-		<td>@ontotext-ad </td>
-		<td><a href="https://twitter.com/valexiev1">valexiev1</a></td>
-		<td>Bulgaria</td>
-		<td>273</td>
-		<td>273</td>
-	</tr>
-	<tr>
-		<td>99</td>
-		<td>
-			<a href="https://github.com/A4B5TQ">
-				<img src="https://avatars.githubusercontent.com/u/17921672?s=72&u=86370cba4e9918963ade76b7a78ceff7c343ea27&v=4" width="24" alt="Avatar of A4B5TQ"> A4B5TQ
-			</a><br/>
-			Ivan Ivanov
+			Özgür KARALAR
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>12</td>
-		<td>273</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
-			<a href="https://github.com/PopovMP">
-				<img src="https://avatars.githubusercontent.com/u/479765?s=72&v=4" width="24" alt="Avatar of PopovMP"> PopovMP
-			</a><br/>
-			Miroslav Popov
-		</td>
-		<td>Forex Software Ltd. </td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>270</td>
-		<td>270</td>
-	</tr>
-	<tr>
-		<td>101</td>
-		<td>
-			<a href="https://github.com/me-no-dev">
-				<img src="https://avatars.githubusercontent.com/u/12663778?s=72&u=73fccd3b044318b8c0dece627b58c0ad608d65ba&v=4" width="24" alt="Avatar of me-no-dev"> me-no-dev
-			</a><br/>
-			Me No Dev
-		</td>
-		<td>@espressif </td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>267</td>
-		<td>267</td>
-	</tr>
-	<tr>
-		<td>102</td>
-		<td>
-			<a href="https://github.com/burakcan">
-				<img src="https://avatars.githubusercontent.com/u/3121257?s=72&v=4" width="24" alt="Avatar of burakcan"> burakcan
-			</a><br/>
-			Burak Can
-		</td>
-		<td>@hyperscience  </td>
-		<td><a href="https://twitter.com/neoberg">neoberg</a></td>
-		<td>Sofia</td>
-		<td>30</td>
-		<td>250</td>
-	</tr>
-	<tr>
-		<td>103</td>
-		<td>
-			<a href="https://github.com/VladimirAmiorkov">
-				<img src="https://avatars.githubusercontent.com/u/4989411?s=72&u=c54fb1076ca17dac6e6aeaad3058d04dcf5676f9&v=4" width="24" alt="Avatar of VladimirAmiorkov"> VladimirAmiorkov
-			</a><br/>
-			Vladimir Amiorkov
-		</td>
-		<td>The Stars Group </td>
-		<td>No Twitter Username</td>
-		<td>Sofia</td>
-		<td>0</td>
-		<td>249</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
-			<a href="https://github.com/danielng01">
-				<img src="https://avatars.githubusercontent.com/u/1231553?s=72&u=9554533f59ce80e3247dc465db23d724e0ba667b&v=4" width="24" alt="Avatar of danielng01"> danielng01
-			</a><br/>
-			Daniel Georgiev
-		</td>
-		<td>Https://iristech.co </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>40</td>
-		<td>234</td>
-	</tr>
-	<tr>
-		<td>105</td>
-		<td>
-			<a href="https://github.com/TodorBalabanov">
-				<img src="https://avatars.githubusercontent.com/u/6023003?s=72&u=4fc896dc9263273b7c7a9a6b33d4c66fd819fef8&v=4" width="24" alt="Avatar of TodorBalabanov"> TodorBalabanov
-			</a><br/>
-			Todor Balabanov
-		</td>
-		<td>Velbazhd Software Llc </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>158</td>
-		<td>220</td>
-	</tr>
-	<tr>
-		<td>106</td>
-		<td>
-			<a href="https://github.com/sahwar">
-				<img src="https://avatars.githubusercontent.com/u/8467641?s=72&v=4" width="24" alt="Avatar of sahwar"> sahwar
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria/Mr. worldwide</td>
-		<td>210</td>
-		<td>210</td>
-	</tr>
-	<tr>
-		<td>107</td>
-		<td>
-			<a href="https://github.com/lpetrov">
-				<img src="https://avatars.githubusercontent.com/u/139877?s=72&u=33654dcc9b43bf2760f4e4308c2e36b78b2c2cd0&v=4" width="24" alt="Avatar of lpetrov"> lpetrov
-			</a><br/>
-			Lyubomir Petrov
-		</td>
-		<td>Mega Limited </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>200</td>
-		<td>206</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/luchob">
-				<img src="https://avatars.githubusercontent.com/u/10339738?s=72&u=5860fbe961c7216971cdb5102176834e3e836e64&v=4" width="24" alt="Avatar of luchob"> luchob
-			</a><br/>
-			Lachezar Balev
-		</td>
-		<td>Rewe Digital Bulgaria </td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>199</td>
-		<td>199</td>
-	</tr>
-	<tr>
-		<td>109</td>
-		<td>
-			<a href="https://github.com/rgerganov">
-				<img src="https://avatars.githubusercontent.com/u/271616?s=72&u=4ab3e8ed3b97355f9d494db852e748c13c91426b&v=4" width="24" alt="Avatar of rgerganov"> rgerganov
-			</a><br/>
-			Radoslav Gerganov
-		</td>
-		<td>@vmware </td>
-		<td><a href="https://twitter.com/rgerganov">rgerganov</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>113</td>
-		<td>198</td>
-	</tr>
-	<tr>
-		<td>110</td>
-		<td>
-			<a href="https://github.com/melikpehlivanov">
-				<img src="https://avatars.githubusercontent.com/u/28671510?s=72&u=d458bc5cb7bfee508292695360d4e38481baf1a6&v=4" width="24" alt="Avatar of melikpehlivanov"> melikpehlivanov
-			</a><br/>
-			Melik Pehlivanov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia</td>
-		<td>170</td>
-		<td>195</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
-			<a href="https://github.com/ligaz">
-				<img src="https://avatars.githubusercontent.com/u/19437?s=72&u=e3363309e9bce4bd28478e8b64f92f77df337727&v=4" width="24" alt="Avatar of ligaz"> ligaz
-			</a><br/>
-			Stefan Dobrev
-		</td>
-		<td>@st6io  </td>
-		<td><a href="https://twitter.com/ligaz">ligaz</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>12</td>
-		<td>190</td>
-	</tr>
-	<tr>
-		<td>112</td>
-		<td>
-			<a href="https://github.com/Y-LyN-10">
-				<img src="https://avatars.githubusercontent.com/u/6561599?s=72&u=b9072ea2dc228e98b8eac4db2cc53612541cd376&v=4" width="24" alt="Avatar of Y-LyN-10"> Y-LyN-10
-			</a><br/>
-			Yulia Tenincheva
-		</td>
-		<td>@mentormate  </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>23</td>
-		<td>183</td>
-	</tr>
-	<tr>
-		<td>113</td>
-		<td>
-			<a href="https://github.com/dtopuzov">
-				<img src="https://avatars.githubusercontent.com/u/6651651?s=72&u=5d8119185d3c5a27622e4c2c3ebfd509c75da4eb&v=4" width="24" alt="Avatar of dtopuzov"> dtopuzov
-			</a><br/>
-			Dimitar Topuzov
-		</td>
-		<td>Progress </td>
-		<td>No Twitter Username</td>
-		<td>Sofia</td>
-		<td>177</td>
-		<td>177</td>
-	</tr>
-	<tr>
-		<td>114</td>
-		<td>
-			<a href="https://github.com/tonytomov">
-				<img src="https://avatars.githubusercontent.com/u/79932?s=72&v=4" width="24" alt="Avatar of tonytomov"> tonytomov
-			</a><br/>
-			Tony Tomov
-		</td>
-		<td>Trirand Inc. </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>166</td>
-		<td>166</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/antonpetkoff">
-				<img src="https://avatars.githubusercontent.com/u/4152757?s=72&u=af22091deb0d71dcb362d7570ea6c737f2120579&v=4" width="24" alt="Avatar of antonpetkoff"> antonpetkoff
-			</a><br/>
-			Anton Petkov
-		</td>
-		<td>@asteasolutions </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>113</td>
-		<td>165</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/Hual">
-				<img src="https://avatars.githubusercontent.com/u/1867646?s=72&v=4" width="24" alt="Avatar of Hual"> Hual
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>16</td>
-		<td>161</td>
-	</tr>
-	<tr>
-		<td>117</td>
-		<td>
-			<a href="https://github.com/georgyangelov">
-				<img src="https://avatars.githubusercontent.com/u/756418?s=72&u=3a75b52e6fbb30c46478eb7acbd949f7abfafe6c&v=4" width="24" alt="Avatar of georgyangelov"> georgyangelov
-			</a><br/>
-			Georgy Angelov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia</td>
-		<td>67</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>118</td>
-		<td>
-			<a href="https://github.com/SlaSerX">
-				<img src="https://avatars.githubusercontent.com/u/5673934?s=72&u=a432a9841b39c8707e291b4d3d184cb132cf6279&v=4" width="24" alt="Avatar of SlaSerX"> SlaSerX
-			</a><br/>
-			SlaSerX
-		</td>
-		<td>Skynet 2011 Ltd </td>
-		<td><a href="https://twitter.com/slaserx3">slaserx3</a></td>
-		<td>Bulgaria</td>
-		<td>154</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>119</td>
-		<td>
-			<a href="https://github.com/StoyanShopov">
-				<img src="https://avatars.githubusercontent.com/u/25417032?s=72&v=4" width="24" alt="Avatar of StoyanShopov"> StoyanShopov
-			</a><br/>
-			Stoyan Shopov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>58</td>
-		<td>153</td>
-	</tr>
-	<tr>
-		<td>120</td>
-		<td>
-			<a href="https://github.com/nicroto">
-				<img src="https://avatars.githubusercontent.com/u/1172150?s=72&u=9c2f02193eb2f7af0db0693dfb37ff4ae385b91b&v=4" width="24" alt="Avatar of nicroto"> nicroto
-			</a><br/>
-			Nikolay Tsenkov
-		</td>
-		<td>Universless </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>26</td>
-		<td>144</td>
-	</tr>
-	<tr>
-		<td>121</td>
-		<td>
-			<a href="https://github.com/Andreshk">
-				<img src="https://avatars.githubusercontent.com/u/15063878?s=72&u=05aecb5351bb3b2d2e5730792dc05573402560c1&v=4" width="24" alt="Avatar of Andreshk"> Andreshk
-			</a><br/>
-			Andrey Drenski
-		</td>
-		<td>@chaosgroup </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>121</td>
-		<td>121</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
-			<a href="https://github.com/skaslev">
-				<img src="https://avatars.githubusercontent.com/u/94503?s=72&v=4" width="24" alt="Avatar of skaslev"> skaslev
-			</a><br/>
-			Slavomir Kaslev
-		</td>
-		<td>@wwfx </td>
-		<td><a href="https://twitter.com/skaslev">skaslev</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>120</td>
-		<td>120</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
-			<a href="https://github.com/bojidar-bg">
-				<img src="https://avatars.githubusercontent.com/u/5276727?s=72&u=77866a4a78c7e17744be56cc1b2e84fbbb606ab3&v=4" width="24" alt="Avatar of bojidar-bg"> bojidar-bg
-			</a><br/>
-			Bojidar Marinov
-		</td>
-		<td>Comrade Coop </td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>116</td>
-		<td>116</td>
-	</tr>
-	<tr>
-		<td>124</td>
-		<td>
-			<a href="https://github.com/dobromir-hristov">
-				<img src="https://avatars.githubusercontent.com/u/9863944?s=72&u=55b074c1589d69d17bb78322dd6900d63b186a34&v=4" width="24" alt="Avatar of dobromir-hristov"> dobromir-hristov
-			</a><br/>
-			Dobromir Hristov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>114</td>
-		<td>114</td>
-	</tr>
-	<tr>
-		<td>125</td>
-		<td>
-			<a href="https://github.com/gyoshev">
-				<img src="https://avatars.githubusercontent.com/u/90405?s=72&u=aa1e432ededec70a07ef0af863cad87086771185&v=4" width="24" alt="Avatar of gyoshev"> gyoshev
-			</a><br/>
-			Alex Gyoshev
-		</td>
-		<td>Leanplum </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>106</td>
-		<td>106</td>
-	</tr>
-	<tr>
-		<td>126</td>
-		<td>
-			<a href="https://github.com/StanAngeloff">
-				<img src="https://avatars.githubusercontent.com/u/93127?s=72&u=a63d1403c44b235da2ff77f78c188eee0f730fd0&v=4" width="24" alt="Avatar of StanAngeloff"> StanAngeloff
-			</a><br/>
-			Stan Angeloff
-		</td>
-		<td>Psp Webtech </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>104</td>
-		<td>104</td>
-	</tr>
-	<tr>
-		<td>127</td>
-		<td>
-			<a href="https://github.com/itay-grudev">
-				<img src="https://avatars.githubusercontent.com/u/2123767?s=72&u=9badd0f08de7eb8e2fb2a2fc8797b6c84c802cf1&v=4" width="24" alt="Avatar of itay-grudev"> itay-grudev
-			</a><br/>
-			Itay Grudev
-		</td>
-		<td>Clustermarket Ltd. </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>100</td>
-		<td>101</td>
-	</tr>
-	<tr>
-		<td>128</td>
-		<td>
-			<a href="https://github.com/steven-tsvetkov">
-				<img src="https://avatars.githubusercontent.com/u/7537488?s=72&u=86d9c5e19cac43dc4b61d5758f5ef257bccbe539&v=4" width="24" alt="Avatar of steven-tsvetkov"> steven-tsvetkov
-			</a><br/>
-			Steven Tsvetkov
-		</td>
-		<td>Telerik Academy  </td>
-		<td><a href="https://twitter.com/StevenTsvetkov">StevenTsvetkov</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>6</td>
-		<td>101</td>
-	</tr>
-	<tr>
-		<td>129</td>
-		<td>
-			<a href="https://github.com/VladiGGeorgiev">
-				<img src="https://avatars.githubusercontent.com/u/3617141?s=72&u=41936d96b39a0e1e2e2ffdff49a749c172075513&v=4" width="24" alt="Avatar of VladiGGeorgiev"> VladiGGeorgiev
-			</a><br/>
-			Vladimir Georgiev
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/vladiggeorgiev">vladiggeorgiev</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>100</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>130</td>
-		<td>
-			<a href="https://github.com/IsaiasCuvula">
-				<img src="https://avatars.githubusercontent.com/u/68303716?s=72&u=17b9cfbb96c6e74ed3db47d7c844489bca9efd5f&v=4" width="24" alt="Avatar of IsaiasCuvula"> IsaiasCuvula
-			</a><br/>
-			Isaias Cuvula
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ICuvula">ICuvula</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>95</td>
-		<td>95</td>
-	</tr>
-	<tr>
-		<td>131</td>
-		<td>
-			<a href="https://github.com/dbrizov">
-				<img src="https://avatars.githubusercontent.com/u/3619573?s=72&u=0c82471b5144b0e7271529d4e2447e46e22afb25&v=4" width="24" alt="Avatar of dbrizov"> dbrizov
-			</a><br/>
-			Denis Rizov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>90</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>132</td>
-		<td>
-			<a href="https://github.com/poseidon4o">
-				<img src="https://avatars.githubusercontent.com/u/1289996?s=72&v=4" width="24" alt="Avatar of poseidon4o"> poseidon4o
-			</a><br/>
-			Lyubomir
-		</td>
-		<td>@chaosgroup  </td>
-		<td>No Twitter Username</td>
-		<td>Sofia Bulgaria</td>
-		<td>31</td>
-		<td>88</td>
-	</tr>
-	<tr>
-		<td>133</td>
-		<td>
-			<a href="https://github.com/vakata">
-				<img src="https://avatars.githubusercontent.com/u/146052?s=72&u=c4a08f68ddc26e3b6dc37c6d6a67dbde2064a73f&v=4" width="24" alt="Avatar of vakata"> vakata
-			</a><br/>
-			Ivan Bozhanov
-		</td>
-		<td>Information Services Jsc </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>80</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
-			<a href="https://github.com/bontchev">
-				<img src="https://avatars.githubusercontent.com/u/580507?s=72&v=4" width="24" alt="Avatar of bontchev"> bontchev
-			</a><br/>
-			Vesselin Bontchev
-		</td>
-		<td>Nlcv - Bas </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>80</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>135</td>
-		<td>
-			<a href="https://github.com/alehander92">
-				<img src="https://avatars.githubusercontent.com/u/830715?s=72&u=a6861217204895bc07f6726c14e2e2c270dfe769&v=4" width="24" alt="Avatar of alehander92"> alehander92
-			</a><br/>
-			Alexander Ivanov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>51</td>
-		<td>73</td>
-	</tr>
-	<tr>
-		<td>136</td>
-		<td>
-			<a href="https://github.com/PeterStaev">
-				<img src="https://avatars.githubusercontent.com/u/9464097?s=72&u=cc751f4f6ba4d46a1fa01058a52816d532b1e016&v=4" width="24" alt="Avatar of PeterStaev"> PeterStaev
-			</a><br/>
-			Peter Staev
-		</td>
-		<td>Tangra Inc. </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>72</td>
-		<td>72</td>
-	</tr>
-	<tr>
-		<td>137</td>
-		<td>
-			<a href="https://github.com/vvasilev-">
-				<img src="https://avatars.githubusercontent.com/u/1783033?s=72&v=4" width="24" alt="Avatar of vvasilev-"> vvasilev-
-			</a><br/>
-			Viktor Vasilev
-		</td>
-		<td>@2createstudio  </td>
-		<td>No Twitter Username</td>
-		<td>Popovo/Varna, Bulgaria</td>
-		<td>67</td>
-		<td>68</td>
-	</tr>
-	<tr>
-		<td>138</td>
-		<td>
-			<a href="https://github.com/hackman">
-				<img src="https://avatars.githubusercontent.com/u/202760?s=72&v=4" width="24" alt="Avatar of hackman"> hackman
-			</a><br/>
-			Marian Marinov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>64</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>139</td>
-		<td>
-			<a href="https://github.com/hristozov">
-				<img src="https://avatars.githubusercontent.com/u/197483?s=72&u=d3764ac2a50500db49f6c9039816c87bcef1062f&v=4" width="24" alt="Avatar of hristozov"> hristozov
-			</a><br/>
-			Georgi Hristozov
-		</td>
-		<td>@vmware </td>
-		<td>No Twitter Username</td>
-		<td>Sofia</td>
-		<td>64</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/DarkoDanchev">
-				<img src="https://avatars.githubusercontent.com/u/15367161?s=72&u=fa9d807f5790c78b2a1c4b519906f9d1a4b2c311&v=4" width="24" alt="Avatar of DarkoDanchev"> DarkoDanchev
-			</a><br/>
-			Дарко Данчев 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia</td>
-		<td>0</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>141</td>
-		<td>
-			<a href="https://github.com/IvanKaloyanov">
-				<img src="https://avatars.githubusercontent.com/u/16307530?s=72&u=c28725a06006b8860637c87ccbb73e23885fbac6&v=4" width="24" alt="Avatar of IvanKaloyanov"> IvanKaloyanov
-			</a><br/>
-			Ivan Kaloyanov
-		</td>
-		<td>@theboringgames </td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria, Shumen</td>
-		<td>2</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>142</td>
-		<td>
-			<a href="https://github.com/krokodilerian">
-				<img src="https://avatars.githubusercontent.com/u/2760353?s=72&v=4" width="24" alt="Avatar of krokodilerian"> krokodilerian
-			</a><br/>
-			Vasil Kolev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>60</td>
-		<td>60</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/joshmh">
-				<img src="https://avatars.githubusercontent.com/u/4651?s=72&u=f464d1feb5b4d58cf1d3d5dd3ab9d9a8fe16cade&v=4" width="24" alt="Avatar of joshmh"> joshmh
-			</a><br/>
-			Josh Harvey
-		</td>
-		<td>Lamassu </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>57</td>
-		<td>58</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
-			<a href="https://github.com/fakeheal">
-				<img src="https://avatars.githubusercontent.com/u/1038697?s=72&u=94781a81df87704a1c4ae3ec680b7261b8d24d51&v=4" width="24" alt="Avatar of fakeheal"> fakeheal
-			</a><br/>
-			Ivanka Todorova
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>44</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>145</td>
-		<td>
-			<a href="https://github.com/6desislava6">
-				<img src="https://avatars.githubusercontent.com/u/9302955?s=72&u=748903d7f80bab32f8b6e2fcf66ca6b8b3e3e586&v=4" width="24" alt="Avatar of 6desislava6"> 6desislava6
-			</a><br/>
-			Desi Tsvetkova
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>4</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>146</td>
-		<td>
-			<a href="https://github.com/tunnckoCore">
-				<img src="https://avatars.githubusercontent.com/u/5038030?s=72&u=86e5251c469eaa71e1bfa56555ee39d74c1f7bed&v=4" width="24" alt="Avatar of tunnckoCore"> tunnckoCore
-			</a><br/>
-			Charlike Mike Reagent
-		</td>
-		<td> Doing @nodejs Since<br/>2014<br/></td>
-		<td><a href="https://twitter.com/tunnckoCore">tunnckoCore</a></td>
-		<td>Sofia, Bulgaria @ EU</td>
-		<td>51</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
-			<a href="https://github.com/triffon">
-				<img src="https://avatars.githubusercontent.com/u/1343915?s=72&v=4" width="24" alt="Avatar of triffon"> triffon
-			</a><br/>
-			Trifon Trifonov
-		</td>
-		<td>Sofia University / Astea<br/>Solutions<br/></td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>51</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>148</td>
-		<td>
-			<a href="https://github.com/asual">
-				<img src="https://avatars.githubusercontent.com/u/98153?s=72&u=26b2c5b8017381151410430d9d3575cbab0f6477&v=4" width="24" alt="Avatar of asual"> asual
-			</a><br/>
-			Rostislav Hristov
-		</td>
-		<td>Asual </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>46</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
-			<a href="https://github.com/hristo2612">
-				<img src="https://avatars.githubusercontent.com/u/18407774?s=72&u=138395ec4fb847c19a622c78f73ca952b23b85e2&v=4" width="24" alt="Avatar of hristo2612"> hristo2612
-			</a><br/>
-			Chris
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>12</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>150</td>
-		<td>
-			<a href="https://github.com/Filkolev">
-				<img src="https://avatars.githubusercontent.com/u/6649017?s=72&u=1627448f1e1f63059b279154acff7eaf53424734&v=4" width="24" alt="Avatar of Filkolev"> Filkolev
-			</a><br/>
-			Filip Kolev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>44</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>151</td>
-		<td>
-			<a href="https://github.com/IvanFilipov">
-				<img src="https://avatars.githubusercontent.com/u/15016284?s=72&u=192fef284edec89a9c438334a8d7e0b76d139eb7&v=4" width="24" alt="Avatar of IvanFilipov"> IvanFilipov
-			</a><br/>
-			Иван Филипов
-		</td>
-		<td> Faculty Of Math<br/>And<br/>Science,<br/>Sofia<br/>University<br/></td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>31</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>152</td>
-		<td>
-			<a href="https://github.com/vladimiroff">
-				<img src="https://avatars.githubusercontent.com/u/150954?s=72&u=68631439d5dcf3a5cbdd9244b3058cb09818cce3&v=4" width="24" alt="Avatar of vladimiroff"> vladimiroff
-			</a><br/>
-			Kiril Vladimirov
-		</td>
-		<td>@siteground </td>
-		<td><a href="https://twitter.com/k_vladimiroff">k_vladimiroff</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>42</td>
-		<td>42</td>
-	</tr>
-	<tr>
-		<td>153</td>
-		<td>
-			<a href="https://github.com/simeonradivoev">
-				<img src="https://avatars.githubusercontent.com/u/9950198?s=72&u=6f6079d4691f2aa1b7137cee1fb84ea090fa8b9d&v=4" width="24" alt="Avatar of simeonradivoev"> simeonradivoev
-			</a><br/>
-			Simeon Radivoev
-		</td>
-		<td>Dapper Penguin Studios </td>
-		<td><a href="https://twitter.com/simeonradivoev">simeonradivoev</a></td>
-		<td>Plovdiv, Bulgaria</td>
+		<td>Varna</td>
 		<td>29</td>
-		<td>38</td>
+		<td>435</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>254</td>
 		<td>
-			<a href="https://github.com/DCay">
-				<img src="https://avatars.githubusercontent.com/u/12294710?s=72&u=9eda53bdc784d9cc475b746735faa846083300a1&v=4" width="24" alt="Avatar of DCay"> DCay
+			<a href="https://github.com/ablax">
+				<img src="https://avatars.githubusercontent.com/u/28668542?s=72&v=4" width="24" alt="Avatar of ablax"> ablax
 			</a><br/>
-			Ivaylo Jelev
+			Мurаd Hаmzа
 		</td>
-		<td>@softuni  </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>26</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>155</td>
-		<td>
-			<a href="https://github.com/ironsteel">
-				<img src="https://avatars.githubusercontent.com/u/325507?s=72&v=4" width="24" alt="Avatar of ironsteel"> ironsteel
-			</a><br/>
-			Rangel Ivanov
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mad_archer_">mad_archer_</a></td>
-		<td>Plovdiv/Bulgaria</td>
-		<td>36</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>156</td>
-		<td>
-			<a href="https://github.com/Tuscann">
-				<img src="https://avatars.githubusercontent.com/u/16596102?s=72&u=1c28a12c460aad1c0fa2cd1acbc035506c25b406&v=4" width="24" alt="Avatar of Tuscann"> Tuscann
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
+		<td>@senteca </td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>34</td>
-		<td>34</td>
+		<td>201</td>
+		<td>434</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>255</td>
 		<td>
-			<a href="https://github.com/darind">
-				<img src="https://avatars.githubusercontent.com/u/270695?s=72&v=4" width="24" alt="Avatar of darind"> darind
+			<a href="https://github.com/itsankoff">
+				<img src="https://avatars.githubusercontent.com/u/1712097?s=72&u=fc98c3ca9e8363e5e55d39061586b028b4c1d821&v=4" width="24" alt="Avatar of itsankoff"> itsankoff
 			</a><br/>
-			Darin Dimitrov
+			Ivaylo Tsankov
 		</td>
-		<td>Telerik </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>34</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>158</td>
-		<td>
-			<a href="https://github.com/Trollicus">
-				<img src="https://avatars.githubusercontent.com/u/40140975?s=72&u=9ccc51d40473ede8227a6e101d44c76cb3197d2a&v=4" width="24" alt="Avatar of Trollicus"> Trollicus
-			</a><br/>
-			Trollicus
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>34</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>159</td>
-		<td>
-			<a href="https://github.com/npocmaka">
-				<img src="https://avatars.githubusercontent.com/u/4533718?s=72&v=4" width="24" alt="Avatar of npocmaka"> npocmaka
-			</a><br/>
-			Vasil Arnaudov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia,Bulgaria</td>
-		<td>29</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>160</td>
-		<td>
-			<a href="https://github.com/nayots">
-				<img src="https://avatars.githubusercontent.com/u/10439945?s=72&u=fa5b5ceb673414d4be5d4223dd626c882e67e9be&v=4" width="24" alt="Avatar of nayots"> nayots
-			</a><br/>
-			Stoyan Grigorov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>8</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>161</td>
-		<td>
-			<a href="https://github.com/hdeshev">
-				<img src="https://avatars.githubusercontent.com/u/63219?s=72&v=4" width="24" alt="Avatar of hdeshev"> hdeshev
-			</a><br/>
-			Hristo Deshev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>25</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>162</td>
-		<td>
-			<a href="https://github.com/narfbg">
-				<img src="https://avatars.githubusercontent.com/u/1058011?s=72&v=4" width="24" alt="Avatar of narfbg"> narfbg
-			</a><br/>
-			Andrey Andreev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>24</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>163</td>
-		<td>
-			<a href="https://github.com/TsvetanUsunov">
-				<img src="https://avatars.githubusercontent.com/u/1516421?s=72&u=01d89a1c214f9955e60999167f65bb3ba46e743f&v=4" width="24" alt="Avatar of TsvetanUsunov"> TsvetanUsunov
-			</a><br/>
-			No Name
-		</td>
-		<td>Olimex Ltd </td>
-		<td>No Twitter Username</td>
-		<td>BULGARIA</td>
-		<td>24</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>164</td>
-		<td>
-			<a href="https://github.com/Ventsislav-Yordanov">
-				<img src="https://avatars.githubusercontent.com/u/5940602?s=72&u=f2ed2cba1810ec05a5264eb98aae3920f2b07d25&v=4" width="24" alt="Avatar of Ventsislav-Yordanov"> Ventsislav-Yordanov
-			</a><br/>
-			Ventsislav Yordanov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ruse</td>
-		<td>23</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>165</td>
-		<td>
-			<a href="https://github.com/Irdroid">
-				<img src="https://avatars.githubusercontent.com/u/699473?s=72&v=4" width="24" alt="Avatar of Irdroid"> Irdroid
-			</a><br/>
-			Hardware Group LTD
-		</td>
-		<td>Hardware Group Ltd </td>
-		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
-		<td>22</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/alex-milanov">
-				<img src="https://avatars.githubusercontent.com/u/1308365?s=72&v=4" width="24" alt="Avatar of alex-milanov"> alex-milanov
-			</a><br/>
-			Alex Milanov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>19</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/nask0">
-				<img src="https://avatars.githubusercontent.com/u/248198?s=72&u=b52f2879b64fe920a9494bb68c5bdd57c3cae3ec&v=4" width="24" alt="Avatar of nask0"> nask0
-			</a><br/>
-			nask0
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Plovdiv, Bulgaria</td>
-		<td>2</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>168</td>
-		<td>
-			<a href="https://github.com/mchaov">
-				<img src="https://avatars.githubusercontent.com/u/12296991?s=72&u=69b47931af70b545f10b53f9ae408ab604b28004&v=4" width="24" alt="Avatar of mchaov"> mchaov
-			</a><br/>
-			Martin Chaov
-		</td>
-		<td>Draftkings Inc. </td>
-		<td><a href="https://twitter.com/raziel_pld">raziel_pld</a></td>
-		<td>Sofia, BG</td>
-		<td>7</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>169</td>
-		<td>
-			<a href="https://github.com/miglen">
-				<img src="https://avatars.githubusercontent.com/u/1589883?s=72&u=1300a886b6f5af4c00607fedf74ad857528e0cc0&v=4" width="24" alt="Avatar of miglen"> miglen
-			</a><br/>
-			Miglen Evlogiev
-		</td>
-		<td>Receipt Bank </td>
-		<td><a href="https://twitter.com/miglen">miglen</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>16</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>170</td>
-		<td>
-			<a href="https://github.com/Nikola-Andreev">
-				<img src="https://avatars.githubusercontent.com/u/19424332?s=72&u=47cf8db65c5e4d60bdb2e497fe20b231d228b37b&v=4" width="24" alt="Avatar of Nikola-Andreev"> Nikola-Andreev
-			</a><br/>
-			Nikola Andreev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>16</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>171</td>
-		<td>
-			<a href="https://github.com/AlfaMatter">
-				<img src="https://avatars.githubusercontent.com/u/1458253?s=72&u=8cbd52d23969a1175eba067d14ccb037496d9ce9&v=4" width="24" alt="Avatar of AlfaMatter"> AlfaMatter
-			</a><br/>
-			Rumen Damyanov
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AlfaMatter">AlfaMatter</a></td>
-		<td>Plovdiv, Bulgaria</td>
-		<td>4</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>172</td>
-		<td>
-			<a href="https://github.com/hborisov">
-				<img src="https://avatars.githubusercontent.com/u/3625795?s=72&u=e722f24a43486f64daea0ce808f44e06bbf4ebfb&v=4" width="24" alt="Avatar of hborisov"> hborisov
-			</a><br/>
-			Hristo Borisov
-		</td>
-		<td>@sap  </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>13</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
-			<a href="https://github.com/Crypto-APIs">
-				<img src="https://avatars.githubusercontent.com/u/44265968?s=72&u=027c2a63dc13186b3e51955e927761b01275e54f&v=4" width="24" alt="Avatar of Crypto-APIs"> Crypto-APIs
-			</a><br/>
-			Crypto APIs
-		</td>
-		<td>Crypto Apis </td>
-		<td><a href="https://twitter.com/cryptoapis">cryptoapis</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>11</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>174</td>
-		<td>
-			<a href="https://github.com/gfto">
-				<img src="https://avatars.githubusercontent.com/u/998879?s=72&u=75360b431b63f2c3103c2560dfd20e360b6ca29b&v=4" width="24" alt="Avatar of gfto"> gfto
-			</a><br/>
-			Georgi Chorbadzhiyski
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>10</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/mignev">
-				<img src="https://avatars.githubusercontent.com/u/160441?s=72&v=4" width="24" alt="Avatar of mignev"> mignev
-			</a><br/>
-			Marian Ignev
-		</td>
-		<td>@cloudstrap  </td>
-		<td><a href="https://twitter.com/mignev">mignev</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>10</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/HouseBreaker">
-				<img src="https://avatars.githubusercontent.com/u/14107689?s=72&u=3e420a44fba0d4402977cd52d0c09e195a307f34&v=4" width="24" alt="Avatar of HouseBreaker"> HouseBreaker
-			</a><br/>
-			Housey
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>6</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>177</td>
-		<td>
-			<a href="https://github.com/kdankov">
-				<img src="https://avatars.githubusercontent.com/u/147749?s=72&v=4" width="24" alt="Avatar of kdankov"> kdankov
-			</a><br/>
-			Konstantin Dankov
-		</td>
-		<td>Devrix </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>8</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>178</td>
-		<td>
-			<a href="https://github.com/cuklev">
-				<img src="https://avatars.githubusercontent.com/u/6568163?s=72&u=5e642429d173f5c38998b2fe56a25de3ca92f911&v=4" width="24" alt="Avatar of cuklev"> cuklev
-			</a><br/>
-			Kristiyan Tsaklev
-		</td>
-		<td>@chaosgroup </td>
-		<td>No Twitter Username</td>
-		<td> Sofia, Bulgaria</td>
-		<td>6</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>179</td>
-		<td>
-			<a href="https://github.com/k1r1L">
-				<img src="https://avatars.githubusercontent.com/u/13466012?s=72&u=ef3198f546c3bc985d2dc91d449b7b75a43a9e15&v=4" width="24" alt="Avatar of k1r1L"> k1r1L
-			</a><br/>
-			Kiril Kirilov
-		</td>
-		<td>Accedia </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>6</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
-			<a href="https://github.com/kamend">
-				<img src="https://avatars.githubusercontent.com/u/462951?s=72&u=0b622ae8d091fa1e229b23a64dd04987cff30d02&v=4" width="24" alt="Avatar of kamend"> kamend
-			</a><br/>
-			Kamen Dimitrov
-		</td>
-		<td>Studio Generative Ltd. </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>5</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>181</td>
-		<td>
-			<a href="https://github.com/bdancer">
-				<img src="https://avatars.githubusercontent.com/u/319784?s=72&v=4" width="24" alt="Avatar of bdancer"> bdancer
-			</a><br/>
-			Andrei Izrantcev
-		</td>
-		<td>Chaos Group </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>5</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>182</td>
-		<td>
-			<a href="https://github.com/wingman007">
-				<img src="https://avatars.githubusercontent.com/u/203479?s=72&v=4" width="24" alt="Avatar of wingman007"> wingman007
-			</a><br/>
-			Stoyan Cheresharov
-		</td>
-		<td>Lightsoft </td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>3</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>183</td>
-		<td>
-			<a href="https://github.com/velichkov">
-				<img src="https://avatars.githubusercontent.com/u/1236714?s=72&u=5e37fb8e923f8b63effe67c96a32a76aba356707&v=4" width="24" alt="Avatar of velichkov"> velichkov
-			</a><br/>
-			Vasil Velichkov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>2</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>184</td>
-		<td>
-			<a href="https://github.com/mytrile">
-				<img src="https://avatars.githubusercontent.com/u/11741?s=72&u=42ece1492e023b11caf29b6690ed6ef72e26762a&v=4" width="24" alt="Avatar of mytrile"> mytrile
-			</a><br/>
-			Dimitar Kostov
-		</td>
-		<td>Team Lead @emerchantpay <br/></td>
-		<td><a href="https://twitter.com/mytrile">mytrile</a></td>
-		<td>Sofia, Bulgaria</td>
-		<td>2</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>185</td>
-		<td>
-			<a href="https://github.com/RoYaLBG">
-				<img src="https://avatars.githubusercontent.com/u/4587350?s=72&v=4" width="24" alt="Avatar of RoYaLBG"> RoYaLBG
-			</a><br/>
-			Ivan Yonkov
-		</td>
-		<td>@codexioltd  </td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>186</td>
-		<td>
-			<a href="https://github.com/vesheff">
-				<img src="https://avatars.githubusercontent.com/u/3620516?s=72&u=88b103a3306ceb2ec139dc483514dbdc2c965fbe&v=4" width="24" alt="Avatar of vesheff"> vesheff
-			</a><br/>
-			Marto Vesheff
-		</td>
-		<td>@telerik </td>
+		<td>Coursera Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Sofia</td>
-		<td>1</td>
-		<td>1</td>
+		<td>29</td>
+		<td>433</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>256</td>
 		<td>
-			<a href="https://github.com/VPenkov">
-				<img src="https://avatars.githubusercontent.com/u/1693651?s=72&u=6f2905dfee057c76db90d81fd297eb0e48d6d66b&v=4" width="24" alt="Avatar of VPenkov"> VPenkov
+			<a href="https://github.com/kalintsenkov">
+				<img src="https://avatars.githubusercontent.com/u/47757405?s=72&u=e67053b56b41871ae9b3bd690067e70817e47560&v=4" width="24" alt="Avatar of kalintsenkov"> kalintsenkov
 			</a><br/>
-			VPenkov
+			Kalin Tsenkov
 		</td>
-		<td>Adyen </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>1</td>
-		<td>1</td>
+		<td>431</td>
+		<td>431</td>
 	</tr>
 </table>
 
@@ -2757,17 +3723,17 @@ There are `200 users`  in Bulgaria. You need at least `55 followers` to be on th
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20Bulgaria%20or%20state&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Bulgaria&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/bulgaria.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Bulgaria&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/bulgaria.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/bulgaria.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Bulgaria&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20Bulgaria%20or%20state&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/bulgaria.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Bulgaria&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Bulgaria&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20Bulgaria%20or%20state-https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/bulgaria.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Bulgaria&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/bulgaria.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
