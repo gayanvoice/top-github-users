@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://en.wikipedia.org/wiki/File:Flag_of_the_Dominican_Republic.svg" alt="Dominican Republic">
 </a>
 
-The `public contributions` by users in Dominican Republic on `2021/6/14 11:29 AM UTC`. This list contains users from `Dominican Republic` and cities `Santo-domingo` `Puerto-plata` `San-pedro-de-macoris` `Santiago-de-los-caballeros` `Higuey`.
+The `public contributions` by users in Dominican Republic on `2021/6/15 9:52 PM UTC`. This list contains users from `Dominican Republic` and cities `Santo-domingo` `Puerto-plata` `San-pedro-de-macoris` `Santiago-de-los-caballeros` `Higuey`.
 
-There are `99 countries/states` and `605 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `200 users`  in Dominican Republic. You need at least `7 followers` to be on this list.
+There are `966 users`  in Dominican Republic. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -65,17 +65,17 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20country%20or%20state&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Dominican%20Republic&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/dominican_republic.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Dominican%20Republic&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/dominican_republic.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/dominican_republic.md&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Dominican%20Republic&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20country%20or%20state&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/dominican_republic.md&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Dominican%20Republic&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Dominican%20Republic&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20country%20or%20state-https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/dominican_republic.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Dominican%20Republic&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/dominican_republic.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
@@ -107,7 +107,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>Instituto Nacional De Biodiversidad<br/>(inbio),<br/>Costa<br/>Rica<br/></td>
 		<td>No Twitter Username</td>
 		<td>Santa Rosa de Santo Domingo de Heredia, Costa Rica</td>
-		<td>2847</td>
+		<td>2852</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -146,7 +146,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>Mctekk </td>
 		<td><a href="https://twitter.com/jesusntguerrero">jesusntguerrero</a></td>
 		<td>Santo Domingo, Dominican Republic</td>
-		<td>1130</td>
+		<td>1146</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -172,7 +172,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>Freelance Full-stack Developer </td>
 		<td><a href="https://twitter.com/widzthedvloper">widzthedvloper</a></td>
 		<td>Dominicain Republic / Santo Domingo D.N</td>
-		<td>939</td>
+		<td>940</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -185,10 +185,23 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>@mctekk  </td>
 		<td>No Twitter Username</td>
 		<td>Santo Domingo, Dominican Republic</td>
-		<td>805</td>
+		<td>809</td>
 	</tr>
 	<tr>
 		<td>8</td>
+		<td>
+			<a href="https://github.com/rem1niscence">
+				<img src="https://avatars.githubusercontent.com/u/3951338?s=72&u=c1c974c004b25f378cc1237586c3df685a0e9528&v=4" width="24" alt="Avatar of rem1niscence"> rem1niscence
+			</a><br/>
+			Roniel Valdez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>492</td>
+	</tr>
+	<tr>
+		<td>9</td>
 		<td>
 			<a href="https://github.com/jlopezg">
 				<img src="https://avatars.githubusercontent.com/u/16394301?s=72&u=d4ec62b861b48323c28a6dc3a5c7f41d1434ab2d&v=4" width="24" alt="Avatar of jlopezg"> jlopezg
@@ -201,20 +214,46 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>491</td>
 	</tr>
 	<tr>
-		<td>9</td>
+		<td>10</td>
 		<td>
-			<a href="https://github.com/rem1niscence">
-				<img src="https://avatars.githubusercontent.com/u/3951338?s=72&u=c1c974c004b25f378cc1237586c3df685a0e9528&v=4" width="24" alt="Avatar of rem1niscence"> rem1niscence
+			<a href="https://github.com/OsirisRoman">
+				<img src="https://avatars.githubusercontent.com/u/32345298?s=72&u=f28f699b778db02f5b6d6c17082ec0c2a08c63c6&v=4" width="24" alt="Avatar of OsirisRoman"> OsirisRoman
 			</a><br/>
-			Roniel Valdez
+			Osiris Román
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo de los Colorados</td>
+		<td>452</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>
+			<a href="https://github.com/Danilock">
+				<img src="https://avatars.githubusercontent.com/u/27160395?s=72&u=acfc2ad57cdb2825d9ebf58de0a9e32d997f9217&v=4" width="24" alt="Avatar of Danilock"> Danilock
+			</a><br/>
+			Daniel Ercilio Del Rosario Guerra
+		</td>
+		<td>Eij </td>
+		<td><a href="https://twitter.com/_Danilock">_Danilock</a></td>
+		<td>Dominican Republic, Santo Domingo</td>
+		<td>447</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
+			<a href="https://github.com/arielangeles">
+				<img src="https://avatars.githubusercontent.com/u/52549146?s=72&u=1f8158ae9e2be324de89383f9efadfcf026f2082&v=4" width="24" alt="Avatar of arielangeles"> arielangeles
+			</a><br/>
+			Ariel Angeles
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santo Domingo, Dominican Republic</td>
-		<td>427</td>
+		<td>426</td>
 	</tr>
 	<tr>
-		<td>10</td>
+		<td>13</td>
 		<td>
 			<a href="https://github.com/nataliasb">
 				<img src="https://avatars.githubusercontent.com/u/5646307?s=72&u=05d4708adb8ed9c34f93c2887aac8aa9a40c78da&v=4" width="24" alt="Avatar of nataliasb"> nataliasb
@@ -227,7 +266,20 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>413</td>
 	</tr>
 	<tr>
-		<td>11</td>
+		<td>14</td>
+		<td>
+			<a href="https://github.com/Lunaticfrg0">
+				<img src="https://avatars.githubusercontent.com/u/52083070?s=72&u=3b0bee6a2a7d68e3e6f13e3cbb5ac1ef3b5b3a1a&v=4" width="24" alt="Avatar of Lunaticfrg0"> Lunaticfrg0
+			</a><br/>
+			Emilio Escaño
+		</td>
+		<td>Mirex </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>413</td>
+	</tr>
+	<tr>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/neryad">
 				<img src="https://avatars.githubusercontent.com/u/20806101?s=72&u=0f7f35ffbf09c1d068c9acf331ff9bd2b105e5e2&v=4" width="24" alt="Avatar of neryad"> neryad
@@ -240,7 +292,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>412</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/SilvioArzeno">
 				<img src="https://avatars.githubusercontent.com/u/42903129?s=72&u=82a65e3b1658886a52afeed0ee75de39e30b62d9&v=4" width="24" alt="Avatar of SilvioArzeno"> SilvioArzeno
@@ -253,7 +305,33 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>392</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>17</td>
+		<td>
+			<a href="https://github.com/cristianeto">
+				<img src="https://avatars.githubusercontent.com/u/9989801?s=72&u=539cdd49c44c0a7a9c5eead36089f830e3be6e6f&v=4" width="24" alt="Avatar of cristianeto"> cristianeto
+			</a><br/>
+			Cristian Guamán
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cristianeto_">cristianeto_</a></td>
+		<td>Santo Domingo, Ecuador</td>
+		<td>353</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
+			<a href="https://github.com/MrDavid0614">
+				<img src="https://avatars.githubusercontent.com/u/61632625?s=72&u=359900e79fdbf22c2ba4cfc112d600e70f115d60&v=4" width="24" alt="Avatar of MrDavid0614"> MrDavid0614
+			</a><br/>
+			David Mora
+		</td>
+		<td>@bravewolfdev  </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, DR</td>
+		<td>352</td>
+	</tr>
+	<tr>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/larizzatg">
 				<img src="https://avatars.githubusercontent.com/u/6262611?s=72&u=6759cd7dc456363e90e06cf1f74d1934387317ea&v=4" width="24" alt="Avatar of larizzatg"> larizzatg
@@ -266,7 +344,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>338</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>20</td>
 		<td>
 			<a href="https://github.com/Victor1890">
 				<img src="https://avatars.githubusercontent.com/u/46900196?s=72&u=597523c18e5b5d04c077ad2b93c522527e60e495&v=4" width="24" alt="Avatar of Victor1890"> Victor1890
@@ -276,10 +354,23 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>Yo Mismo </td>
 		<td><a href="https://twitter.com/Victor_R1890">Victor_R1890</a></td>
 		<td>Santo Domingo Este</td>
-		<td>330</td>
+		<td>333</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>21</td>
+		<td>
+			<a href="https://github.com/AdrianMendez1199">
+				<img src="https://avatars.githubusercontent.com/u/25955448?s=72&v=4" width="24" alt="Avatar of AdrianMendez1199"> AdrianMendez1199
+			</a><br/>
+			Adrian Mendez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, República Dominicana</td>
+		<td>324</td>
+	</tr>
+	<tr>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/DarkCode01">
 				<img src="https://avatars.githubusercontent.com/u/23442814?s=72&u=3f04d79827b9513c03de3288dc7e801df35da55a&v=4" width="24" alt="Avatar of DarkCode01"> DarkCode01
@@ -292,7 +383,33 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>320</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/luisPolanco25">
+				<img src="https://avatars.githubusercontent.com/u/79293120?s=72&v=4" width="24" alt="Avatar of luisPolanco25"> luisPolanco25
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dominican Republic, Santo Domingo</td>
+		<td>292</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/CrisDaniel25">
+				<img src="https://avatars.githubusercontent.com/u/63526691?s=72&v=4" width="24" alt="Avatar of CrisDaniel25"> CrisDaniel25
+			</a><br/>
+			Cristopher Figueroa
+		</td>
+		<td>Web Developer Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo Oeste</td>
+		<td>282</td>
+	</tr>
+	<tr>
+		<td>25</td>
 		<td>
 			<a href="https://github.com/DannyFeliz">
 				<img src="https://avatars.githubusercontent.com/u/5460365?s=72&u=0a0c0599cacc084ef6c0ae408bcb0a69f58c80db&v=4" width="24" alt="Avatar of DannyFeliz"> DannyFeliz
@@ -305,7 +422,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>279</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/kengru">
 				<img src="https://avatars.githubusercontent.com/u/6900527?s=72&u=3d51b2a39021d990d0ff4c6ba354fdddbfc67023&v=4" width="24" alt="Avatar of kengru"> kengru
@@ -315,10 +432,36 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>Agl </td>
 		<td><a href="https://twitter.com/kxngru">kxngru</a></td>
 		<td>Santo Domingo</td>
-		<td>253</td>
+		<td>254</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>27</td>
+		<td>
+			<a href="https://github.com/ORCA-Soft-MiguelAngel">
+				<img src="https://avatars.githubusercontent.com/u/59231896?s=72&u=9a1ea691b199e9001318732818301c5af5b61dd1&v=4" width="24" alt="Avatar of ORCA-Soft-MiguelAngel"> ORCA-Soft-MiguelAngel
+			</a><br/>
+			Miguel Angel Peña Santos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>251</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
+			<a href="https://github.com/DemetrioQ">
+				<img src="https://avatars.githubusercontent.com/u/52639107?s=72&v=4" width="24" alt="Avatar of DemetrioQ"> DemetrioQ
+			</a><br/>
+			Demetrio Quiñones
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dominican Republic, Santo Domingo</td>
+		<td>250</td>
+	</tr>
+	<tr>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/ChrisJobs046">
 				<img src="https://avatars.githubusercontent.com/u/61890403?s=72&v=4" width="24" alt="Avatar of ChrisJobs046"> ChrisJobs046
@@ -328,10 +471,23 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santo Domingo</td>
-		<td>246</td>
+		<td>247</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>30</td>
+		<td>
+			<a href="https://github.com/StevenBaezFernandez">
+				<img src="https://avatars.githubusercontent.com/u/54829097?s=72&u=e2415e474a57d611573437db9544e1919bbbf5b2&v=4" width="24" alt="Avatar of StevenBaezFernandez"> StevenBaezFernandez
+			</a><br/>
+			Steven Báez
+		</td>
+		<td>Bluerose </td>
+		<td>No Twitter Username</td>
+		<td>Dominican Republic, Santo Domingo</td>
+		<td>241</td>
+	</tr>
+	<tr>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/aledeltoro">
 				<img src="https://avatars.githubusercontent.com/u/24401512?s=72&v=4" width="24" alt="Avatar of aledeltoro"> aledeltoro
@@ -344,7 +500,33 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>32</td>
+		<td>
+			<a href="https://github.com/aag2807">
+				<img src="https://avatars.githubusercontent.com/u/53130414?s=72&u=51f79ab8f0adeeefa155dd238ca6d02ff388b7d2&v=4" width="24" alt="Avatar of aag2807"> aag2807
+			</a><br/>
+			Alvaro Guzman
+		</td>
+		<td>Self Employed </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Republica Dominicana</td>
+		<td>238</td>
+	</tr>
+	<tr>
+		<td>33</td>
+		<td>
+			<a href="https://github.com/yanmarex">
+				<img src="https://avatars.githubusercontent.com/u/60897746?s=72&u=a062f01dc6a45d770e14539d4c2297ca7a7e6515&v=4" width="24" alt="Avatar of yanmarex"> yanmarex
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dominican Republic ,Santiago de los caballeros</td>
+		<td>234</td>
+	</tr>
+	<tr>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/geofis">
 				<img src="https://avatars.githubusercontent.com/u/13460617?s=72&u=63db838f4a120804d1352482309588ab2841b78a&v=4" width="24" alt="Avatar of geofis"> geofis
@@ -357,7 +539,20 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>232</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>35</td>
+		<td>
+			<a href="https://github.com/jestrella04">
+				<img src="https://avatars.githubusercontent.com/u/316587?s=72&v=4" width="24" alt="Avatar of jestrella04"> jestrella04
+			</a><br/>
+			Jonathan Estrella
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago de los Caballeros</td>
+		<td>221</td>
+	</tr>
+	<tr>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/franklinben23">
 				<img src="https://avatars.githubusercontent.com/u/68623189?s=72&u=c8cae0a12455790a0f8a8229226eb8e8cdcf9169&v=4" width="24" alt="Avatar of franklinben23"> franklinben23
@@ -370,7 +565,20 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>217</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/foulow">
+				<img src="https://avatars.githubusercontent.com/u/29210196?s=72&u=bc28c469aedb0a751dddf4748ac6bce0d2d14d05&v=4" width="24" alt="Avatar of foulow"> foulow
+			</a><br/>
+			Jeffrey I. Jose
+		</td>
+		<td>Volatile Programming </td>
+		<td><a href="https://twitter.com/jose_issaul">jose_issaul</a></td>
+		<td>Santo Domingo, DR</td>
+		<td>215</td>
+	</tr>
+	<tr>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/SotoArmando">
 				<img src="https://avatars.githubusercontent.com/u/16047985?s=72&u=3c7d671bc6593ed21b9069d8059d13ddb5fa8240&v=4" width="24" alt="Avatar of SotoArmando"> SotoArmando
@@ -383,7 +591,33 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>212</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/LuisEduardoFrias">
+				<img src="https://avatars.githubusercontent.com/u/54819225?s=72&u=4c4eeb2b00e4e53bc9e27ebbcd29b7fb5973f474&v=4" width="24" alt="Avatar of LuisEduardoFrias"> LuisEduardoFrias
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Republica Dominina, Santo Domingo Este</td>
+		<td>212</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
+			<a href="https://github.com/Zelzazor">
+				<img src="https://avatars.githubusercontent.com/u/49081884?s=72&u=c0089042b9281cd4ca1fe0dd2f293f7e69fb53b7&v=4" width="24" alt="Avatar of Zelzazor"> Zelzazor
+			</a><br/>
+			Felipe Ramírez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Zelzazor">Zelzazor</a></td>
+		<td>Santo Domingo de Guzmán, Distrito Nacional</td>
+		<td>208</td>
+	</tr>
+	<tr>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/leninpaulino">
 				<img src="https://avatars.githubusercontent.com/u/16233649?s=72&u=b267f3c57326aa955f4a7cac4d92d752070e8510&v=4" width="24" alt="Avatar of leninpaulino"> leninpaulino
@@ -396,7 +630,20 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>204</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>42</td>
+		<td>
+			<a href="https://github.com/eidytrinidad">
+				<img src="https://avatars.githubusercontent.com/u/58717483?s=72&v=4" width="24" alt="Avatar of eidytrinidad"> eidytrinidad
+			</a><br/>
+			ETCrombie
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>202</td>
+	</tr>
+	<tr>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/RZzero">
 				<img src="https://avatars.githubusercontent.com/u/14934259?s=72&u=56d5aab868cf6134b83f401f2064febdbc1e10ae&v=4" width="24" alt="Avatar of RZzero"> RZzero
@@ -409,7 +656,33 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>200</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>44</td>
+		<td>
+			<a href="https://github.com/Wander95">
+				<img src="https://avatars.githubusercontent.com/u/56240295?s=72&v=4" width="24" alt="Avatar of Wander95"> Wander95
+			</a><br/>
+			Wander Sanchez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Wanders_95">Wanders_95</a></td>
+		<td>Santo Domingo</td>
+		<td>195</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
+			<a href="https://github.com/randymxd06">
+				<img src="https://avatars.githubusercontent.com/u/55677075?s=72&u=337d48a0d3239fe707501ef26cce27f8d4d53736&v=4" width="24" alt="Avatar of randymxd06"> randymxd06
+			</a><br/>
+			Randy R. Martínez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago de los Caballeros, República Dominicana</td>
+		<td>192</td>
+	</tr>
+	<tr>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/clovis1122">
 				<img src="https://avatars.githubusercontent.com/u/22270042?s=72&u=f5a92367b7862bac83640742e3fbf665921a42e3&v=4" width="24" alt="Avatar of clovis1122"> clovis1122
@@ -422,7 +695,33 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>187</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>47</td>
+		<td>
+			<a href="https://github.com/AndyPythonCode">
+				<img src="https://avatars.githubusercontent.com/u/64266652?s=72&u=d519e57df1e7f404069ac391918654dacf934ef6&v=4" width="24" alt="Avatar of AndyPythonCode"> AndyPythonCode
+			</a><br/>
+			Andy J.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>177</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td>
+			<a href="https://github.com/TheTuringExperience">
+				<img src="https://avatars.githubusercontent.com/u/47831379?s=72&u=70d7450b73a9c7dafd0d643e2c6bee68a0f75769&v=4" width="24" alt="Avatar of TheTuringExperience"> TheTuringExperience
+			</a><br/>
+			Oliver De Jesús Rosario Reyes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Rep. Dominicana</td>
+		<td>175</td>
+	</tr>
+	<tr>
+		<td>49</td>
 		<td>
 			<a href="https://github.com/carlospgraciano">
 				<img src="https://avatars.githubusercontent.com/u/38983665?s=72&u=8fa8968d30b103ae84b52882143c256e4a1012ca&v=4" width="24" alt="Avatar of carlospgraciano"> carlospgraciano
@@ -435,7 +734,20 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>174</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>50</td>
+		<td>
+			<a href="https://github.com/rihernandez">
+				<img src="https://avatars.githubusercontent.com/u/27718122?s=72&v=4" width="24" alt="Avatar of rihernandez"> rihernandez
+			</a><br/>
+			Richard HC
+		</td>
+		<td>Software Engineer At @fonoster<br/></td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, DN.</td>
+		<td>174</td>
+	</tr>
+	<tr>
+		<td>51</td>
 		<td>
 			<a href="https://github.com/JossyDevers">
 				<img src="https://avatars.githubusercontent.com/u/24397617?s=72&u=169e862b8a5a08cb5f180f395b0cfcf436757bde&v=4" width="24" alt="Avatar of JossyDevers"> JossyDevers
@@ -448,7 +760,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>167</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>52</td>
 		<td>
 			<a href="https://github.com/gpbonillas">
 				<img src="https://avatars.githubusercontent.com/u/1267208?s=72&u=6bb03062e8ff2ac7beb9f3bc273ee5537d10ff4e&v=4" width="24" alt="Avatar of gpbonillas"> gpbonillas
@@ -461,7 +773,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>29</td>
+		<td>53</td>
 		<td>
 			<a href="https://github.com/Daniel884936">
 				<img src="https://avatars.githubusercontent.com/u/59395100?s=72&u=f15c08f3c31924c565baa1f2a9727dce3c8eac51&v=4" width="24" alt="Avatar of Daniel884936"> Daniel884936
@@ -474,7 +786,46 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>164</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/Louislam09">
+				<img src="https://avatars.githubusercontent.com/u/53416681?s=72&u=57c0ec516a45b10e0b3ab71c655ee2626a7a1b40&v=4" width="24" alt="Avatar of Louislam09"> Louislam09
+			</a><br/>
+			Luis Martinez
+		</td>
+		<td>Media_revolution </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>163</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>
+			<a href="https://github.com/Adrian-DG">
+				<img src="https://avatars.githubusercontent.com/u/43120680?s=72&u=5682729988cd9c6ad72a1ce5c6fcdca98ead9450&v=4" width="24" alt="Avatar of Adrian-DG"> Adrian-DG
+			</a><br/>
+			Adrian A Diaz Guilamo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/adrian96guilamo">adrian96guilamo</a></td>
+		<td>Santo Domingo, Dominican Republic </td>
+		<td>158</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/jochimin88">
+				<img src="https://avatars.githubusercontent.com/u/54875738?s=72&v=4" width="24" alt="Avatar of jochimin88"> jochimin88
+			</a><br/>
+			Jochimin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo,R.D.</td>
+		<td>156</td>
+	</tr>
+	<tr>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/aqt01">
 				<img src="https://avatars.githubusercontent.com/u/3402853?s=72&u=88c76d961495aed057b27b9f8baf079dde419683&v=4" width="24" alt="Avatar of aqt01"> aqt01
@@ -484,10 +835,36 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>Pokt-network </td>
 		<td><a href="https://twitter.com/blackrain_91">blackrain_91</a></td>
 		<td>Santo Domingo</td>
+		<td>154</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
+			<a href="https://github.com/ajimenezrosa">
+				<img src="https://avatars.githubusercontent.com/u/7384546?s=72&u=fcb925c7ff90e6947e1ee3597749d846b211aecf&v=4" width="24" alt="Avatar of ajimenezrosa"> ajimenezrosa
+			</a><br/>
+			Jose Alejandro Jimenez Rosa
+		</td>
+		<td>Instituto Nacional De Bienestar<br/>Magisterial<br/></td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo RD</td>
 		<td>153</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>59</td>
+		<td>
+			<a href="https://github.com/EnzoVezzaro">
+				<img src="https://avatars.githubusercontent.com/u/13741335?s=72&u=380c8ebdca380cc9c8b229013bc622f4fd517d27&v=4" width="24" alt="Avatar of EnzoVezzaro"> EnzoVezzaro
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>60</td>
 		<td>
 			<a href="https://github.com/j-ovalle">
 				<img src="https://avatars.githubusercontent.com/u/40580593?s=72&u=55800d0bf9241e27b391ba166f289ade4d732583&v=4" width="24" alt="Avatar of j-ovalle"> j-ovalle
@@ -500,7 +877,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>152</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/resttechsolutions">
 				<img src="https://avatars.githubusercontent.com/u/5608809?s=72&u=d28bfeef543e3c12fe369f8d99ca3fa96eec8717&v=4" width="24" alt="Avatar of resttechsolutions"> resttechsolutions
@@ -510,10 +887,10 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>Claro Dominicana </td>
 		<td>No Twitter Username</td>
 		<td>Santo Domingo</td>
-		<td>150</td>
+		<td>151</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>62</td>
 		<td>
 			<a href="https://github.com/JErazo7">
 				<img src="https://avatars.githubusercontent.com/u/19997065?s=72&u=ee898cfec3afae38ea562a7f5022e1ff2769108d&v=4" width="24" alt="Avatar of JErazo7"> JErazo7
@@ -526,7 +903,20 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>63</td>
+		<td>
+			<a href="https://github.com/vamj809">
+				<img src="https://avatars.githubusercontent.com/u/8778577?s=72&v=4" width="24" alt="Avatar of vamj809"> vamj809
+			</a><br/>
+			Víctor A. Montero
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>148</td>
+	</tr>
+	<tr>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/claudio-familia">
 				<img src="https://avatars.githubusercontent.com/u/20170381?s=72&u=8948aa3df7d166342809f838b13ea8c318de1579&v=4" width="24" alt="Avatar of claudio-familia"> claudio-familia
@@ -539,7 +929,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/gerzonc">
 				<img src="https://avatars.githubusercontent.com/u/36211892?s=72&u=12a3b10071695517e6440774dcec8be3b33e04d8&v=4" width="24" alt="Avatar of gerzonc"> gerzonc
@@ -549,10 +939,23 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>Rocket.chat </td>
 		<td>No Twitter Username</td>
 		<td>Santo Domingo, Dominican Republic</td>
-		<td>144</td>
+		<td>145</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>66</td>
+		<td>
+			<a href="https://github.com/CalledSoto">
+				<img src="https://avatars.githubusercontent.com/u/57239533?s=72&u=8ef26d7d2c97c8bd507d1e13c7f40e9cf68d4aa7&v=4" width="24" alt="Avatar of CalledSoto"> CalledSoto
+			</a><br/>
+			Enmanuel Soto
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>145</td>
+	</tr>
+	<tr>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/jcapellanvasquez">
 				<img src="https://avatars.githubusercontent.com/u/53913902?s=72&u=e26ba8cb27018a9006251686a8d80e4b1887b7bd&v=4" width="24" alt="Avatar of jcapellanvasquez"> jcapellanvasquez
@@ -565,7 +968,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>143</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>68</td>
 		<td>
 			<a href="https://github.com/eduardoejp">
 				<img src="https://avatars.githubusercontent.com/u/245700?s=72&u=4474894cb69c768035153f70929a46e12760988c&v=4" width="24" alt="Avatar of eduardoejp"> eduardoejp
@@ -575,10 +978,10 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santo Domingo, Dominican Republic</td>
-		<td>139</td>
+		<td>140</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>69</td>
 		<td>
 			<a href="https://github.com/NaDisla">
 				<img src="https://avatars.githubusercontent.com/u/51084681?s=72&u=f603fb0d5eda214f556504a54d2e48dcd0f07bd9&v=4" width="24" alt="Avatar of NaDisla"> NaDisla
@@ -591,7 +994,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/GorkyR">
 				<img src="https://avatars.githubusercontent.com/u/20615540?s=72&u=5a2b78edec37ac9609b56c1b2d550a9b555dcdd6&v=4" width="24" alt="Avatar of GorkyR"> GorkyR
@@ -604,7 +1007,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/Betoso99">
 				<img src="https://avatars.githubusercontent.com/u/55248968?s=72&v=4" width="24" alt="Avatar of Betoso99"> Betoso99
@@ -617,7 +1020,20 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>72</td>
+		<td>
+			<a href="https://github.com/Kakuhiry">
+				<img src="https://avatars.githubusercontent.com/u/44851784?s=72&u=16792e88177400fa38068e08a19b3c5e22c81805&v=4" width="24" alt="Avatar of Kakuhiry"> Kakuhiry
+			</a><br/>
+			Elvis G. Batista
+		</td>
+		<td>Media Revolution Srl </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>133</td>
+	</tr>
+	<tr>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/reyronald">
 				<img src="https://avatars.githubusercontent.com/u/7514993?s=72&u=a8939f0071d9f5ebc903a3658e5876ed8a8a7bc1&v=4" width="24" alt="Avatar of reyronald"> reyronald
@@ -630,7 +1046,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>128</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/freddygarcia">
 				<img src="https://avatars.githubusercontent.com/u/6600991?s=72&u=396d70c0547601b16373183c9c70f5bf65db4a0b&v=4" width="24" alt="Avatar of freddygarcia"> freddygarcia
@@ -643,7 +1059,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>127</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/JoanVasquez">
 				<img src="https://avatars.githubusercontent.com/u/9327911?s=72&u=dee1b64f1867d70926b73d32ac89c82782d4b78a&v=4" width="24" alt="Avatar of JoanVasquez"> JoanVasquez
@@ -656,7 +1072,111 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>44</td>
+		<td>76</td>
+		<td>
+			<a href="https://github.com/ECompres">
+				<img src="https://avatars.githubusercontent.com/u/36113666?s=72&u=84f65170868a3fd060aec2289c699d952793b4a8&v=4" width="24" alt="Avatar of ECompres"> ECompres
+			</a><br/>
+			Elías Emmanuel Comprés Aquino
+		</td>
+		<td>Xpertcode S.r.l. </td>
+		<td>No Twitter Username</td>
+		<td>Calle Heriberto Núñez 4, Santo Domingo</td>
+		<td>123</td>
+	</tr>
+	<tr>
+		<td>77</td>
+		<td>
+			<a href="https://github.com/Miguel319">
+				<img src="https://avatars.githubusercontent.com/u/36865423?s=72&u=e22b5d92ba620ac2d0dbb18ff4bf9c3db1fe6ed9&v=4" width="24" alt="Avatar of Miguel319"> Miguel319
+			</a><br/>
+			Miguel Jiménez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>122</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>
+			<a href="https://github.com/emedrano2112">
+				<img src="https://avatars.githubusercontent.com/u/17748171?s=72&u=48f5482cf8e4af9533ec07a153ee41e107cf2942&v=4" width="24" alt="Avatar of emedrano2112"> emedrano2112
+			</a><br/>
+			Emanuel Medrano
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic.</td>
+		<td>121</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
+			<a href="https://github.com/marcellofdz">
+				<img src="https://avatars.githubusercontent.com/u/49814710?s=72&u=6daf078efc9badd8e7381ff76b84854292b2bfc4&v=4" width="24" alt="Avatar of marcellofdz"> marcellofdz
+			</a><br/>
+			Marcello Fernandez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rep. Dom. Santo Domingo </td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>80</td>
+		<td>
+			<a href="https://github.com/iemv12">
+				<img src="https://avatars.githubusercontent.com/u/61206377?s=72&u=08b43688f02686c04350d1b0f460d555eaefa31c&v=4" width="24" alt="Avatar of iemv12"> iemv12
+			</a><br/>
+			Ivan Ernesto Matos Villar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, R.D.</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>81</td>
+		<td>
+			<a href="https://github.com/JuanCarlos008">
+				<img src="https://avatars.githubusercontent.com/u/51060443?s=72&v=4" width="24" alt="Avatar of JuanCarlos008"> JuanCarlos008
+			</a><br/>
+			Juan Carlos Hernández Sánchez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, República Dominicana</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>
+			<a href="https://github.com/AxcelEspinal">
+				<img src="https://avatars.githubusercontent.com/u/45835977?s=72&u=28c5289742f4806622981c9e06cfe8e85d54bfda&v=4" width="24" alt="Avatar of AxcelEspinal"> AxcelEspinal
+			</a><br/>
+			Axcel Espinal
+		</td>
+		<td>@greenerdr  </td>
+		<td><a href="https://twitter.com/AxcelEspinal">AxcelEspinal</a></td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>119</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>
+			<a href="https://github.com/juanf9224">
+				<img src="https://avatars.githubusercontent.com/u/9439694?s=72&u=a6407ee257f001d5f3e3a9ab84114470bebc343e&v=4" width="24" alt="Avatar of juanf9224"> juanf9224
+			</a><br/>
+			Juan Fernandez
+		</td>
+		<td>Bairesdev </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>118</td>
+	</tr>
+	<tr>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/Banano-Cry">
 				<img src="https://avatars.githubusercontent.com/u/46870348?s=72&u=810d0632ae0e5205fb7dc86a76214ee0b7372aaf&v=4" width="24" alt="Avatar of Banano-Cry"> Banano-Cry
@@ -669,7 +1189,33 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>85</td>
+		<td>
+			<a href="https://github.com/samuelpena21">
+				<img src="https://avatars.githubusercontent.com/u/31964730?s=72&u=eadbd9be1885be9d01e16bd20391c26821e34dda&v=4" width="24" alt="Avatar of samuelpena21"> samuelpena21
+			</a><br/>
+			Samuel Peña
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>117</td>
+	</tr>
+	<tr>
+		<td>86</td>
+		<td>
+			<a href="https://github.com/edwinfelipe">
+				<img src="https://avatars.githubusercontent.com/u/31022445?s=72&v=4" width="24" alt="Avatar of edwinfelipe"> edwinfelipe
+			</a><br/>
+			Edwin Felipe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Republica Dominicana</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/dioniciodiaz">
 				<img src="https://avatars.githubusercontent.com/u/26011982?s=72&u=7edb8b6b4afd776b032d6445904b874d0cc4243d&v=4" width="24" alt="Avatar of dioniciodiaz"> dioniciodiaz
@@ -682,7 +1228,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>46</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/Devrax">
 				<img src="https://avatars.githubusercontent.com/u/54190869?s=72&u=f85efca05ea440f8e96362af0542939bd9799366&v=4" width="24" alt="Avatar of Devrax"> Devrax
@@ -695,7 +1241,20 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>47</td>
+		<td>89</td>
+		<td>
+			<a href="https://github.com/angelorgh">
+				<img src="https://avatars.githubusercontent.com/u/52392222?s=72&u=cc704f8424ef7ab92e5232d81f54a4f59fbd3b79&v=4" width="24" alt="Avatar of angelorgh"> angelorgh
+			</a><br/>
+			Angelo González
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>111</td>
+	</tr>
+	<tr>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/richardblondet">
 				<img src="https://avatars.githubusercontent.com/u/10884962?s=72&u=0b2cd7d31bf9f4093f52e6c016dfff6716fc81ac&v=4" width="24" alt="Avatar of richardblondet"> richardblondet
@@ -708,7 +1267,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>48</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/bamotav">
 				<img src="https://avatars.githubusercontent.com/u/36558623?s=72&u=f3213b34521b272fa598e23961c73027c5152a00&v=4" width="24" alt="Avatar of bamotav"> bamotav
@@ -721,7 +1280,59 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>49</td>
+		<td>92</td>
+		<td>
+			<a href="https://github.com/Sheansuke">
+				<img src="https://avatars.githubusercontent.com/u/20746834?s=72&u=fb63bce7a3cadfe4976127096610dbcde35118af&v=4" width="24" alt="Avatar of Sheansuke"> Sheansuke
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sheansuke">sheansuke</a></td>
+		<td>Santo Domingo</td>
+		<td>106</td>
+	</tr>
+	<tr>
+		<td>93</td>
+		<td>
+			<a href="https://github.com/franciscoh017">
+				<img src="https://avatars.githubusercontent.com/u/35041268?s=72&u=1ebb63f9d11df0784d03442428062fb462c365e5&v=4" width="24" alt="Avatar of franciscoh017"> franciscoh017
+			</a><br/>
+			Francisco Hernandez
+		</td>
+		<td>Per Diem </td>
+		<td><a href="https://twitter.com/franciscoh017">franciscoh017</a></td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>105</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
+			<a href="https://github.com/RoseeFeliz022">
+				<img src="https://avatars.githubusercontent.com/u/70416884?s=72&u=18a58009ef39c8fe29d0eeb565b8d0141315a017&v=4" width="24" alt="Avatar of RoseeFeliz022"> RoseeFeliz022
+			</a><br/>
+			Rosee A. Feliz Mendez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo Norte, Republica Dominicana</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>95</td>
+		<td>
+			<a href="https://github.com/kavallo">
+				<img src="https://avatars.githubusercontent.com/u/3780998?s=72&u=2fc9da17b73ef5b8f1907cca015471ce0de5cd73&v=4" width="24" alt="Avatar of kavallo"> kavallo
+			</a><br/>
+			Luis Heredia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>101</td>
+	</tr>
+	<tr>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/fernandogruning">
 				<img src="https://avatars.githubusercontent.com/u/6304829?s=72&v=4" width="24" alt="Avatar of fernandogruning"> fernandogruning
@@ -734,7 +1345,33 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>50</td>
+		<td>97</td>
+		<td>
+			<a href="https://github.com/ZackHeredia">
+				<img src="https://avatars.githubusercontent.com/u/8467355?s=72&u=e7a2419bd1e30832748675ab013ccbae65c5d3f4&v=4" width="24" alt="Avatar of ZackHeredia"> ZackHeredia
+			</a><br/>
+			Zacarys Heredia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>98</td>
+		<td>
+			<a href="https://github.com/lrdvrg">
+				<img src="https://avatars.githubusercontent.com/u/42122048?s=72&u=1e11044e0837b259be04af8ca0e498dbb592ac1c&v=4" width="24" alt="Avatar of lrdvrg"> lrdvrg
+			</a><br/>
+			Isaí Vargas
+		</td>
+		<td>Xpertcode </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, República Dominicana</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/RicardoBritoBrens">
 				<img src="https://avatars.githubusercontent.com/u/20712658?s=72&u=23ca3061f7a82e4fb6b3ba3ca056b858a1a9f58f&v=4" width="24" alt="Avatar of RicardoBritoBrens"> RicardoBritoBrens
@@ -747,7 +1384,33 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>51</td>
+		<td>100</td>
+		<td>
+			<a href="https://github.com/jarl-alejandro">
+				<img src="https://avatars.githubusercontent.com/u/8786679?s=72&u=4198a59a9d2bbf73234e153d7e98e937ee7ac19a&v=4" width="24" alt="Avatar of jarl-alejandro"> jarl-alejandro
+			</a><br/>
+			Alejandro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>95</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
+			<a href="https://github.com/Stinger14">
+				<img src="https://avatars.githubusercontent.com/u/17864170?s=72&u=60f0e606be4e974dc57c406f28550978d66ca7f1&v=4" width="24" alt="Avatar of Stinger14"> Stinger14
+			</a><br/>
+			Maxly Garcia
+		</td>
+		<td>Bagricola </td>
+		<td><a href="https://twitter.com/Max_Sting">Max_Sting</a></td>
+		<td>Santo Domingo</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>102</td>
 		<td>
 			<a href="https://github.com/sgermosen">
 				<img src="https://avatars.githubusercontent.com/u/23745678?s=72&u=2aba86d6ecc5dcfd88bd45235a438d914b3907ec&v=4" width="24" alt="Avatar of sgermosen"> sgermosen
@@ -760,7 +1423,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/EJGamer21">
 				<img src="https://avatars.githubusercontent.com/u/18016256?s=72&u=301dd24817824f54df20769f187846f1047f4269&v=4" width="24" alt="Avatar of EJGamer21"> EJGamer21
@@ -773,7 +1436,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>53</td>
+		<td>104</td>
 		<td>
 			<a href="https://github.com/chrisvasqm">
 				<img src="https://avatars.githubusercontent.com/u/8799179?s=72&u=0bea928bcf6394e94de3373e0706415c45f2ff27&v=4" width="24" alt="Avatar of chrisvasqm"> chrisvasqm
@@ -786,7 +1449,46 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>54</td>
+		<td>105</td>
+		<td>
+			<a href="https://github.com/Lewinta">
+				<img src="https://avatars.githubusercontent.com/u/21071001?s=72&u=165c08b773355612b3f9fe28d144bbe73512279a&v=4" width="24" alt="Avatar of Lewinta"> Lewinta
+			</a><br/>
+			Lewin villar
+		</td>
+		<td>Tzcode </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo Republica Dominicana</td>
+		<td>86</td>
+	</tr>
+	<tr>
+		<td>106</td>
+		<td>
+			<a href="https://github.com/ArielFJ">
+				<img src="https://avatars.githubusercontent.com/u/46905802?s=72&u=4e59b864986e306837f824eded4cf1afb646f4c5&v=4" width="24" alt="Avatar of ArielFJ"> ArielFJ
+			</a><br/>
+			Jesús Ariel Fermín
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td>
+			<a href="https://github.com/alejandrom13">
+				<img src="https://avatars.githubusercontent.com/u/25597149?s=72&u=87c289215b4895efaedc34b321ada5088228b05b&v=4" width="24" alt="Avatar of alejandrom13"> alejandrom13
+			</a><br/>
+			Alejandro M.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/ADelRosarioH">
 				<img src="https://avatars.githubusercontent.com/u/3265130?s=72&u=95d5571d34b275b465a33da434bbdcb5bd7ad0e1&v=4" width="24" alt="Avatar of ADelRosarioH"> ADelRosarioH
@@ -799,7 +1501,137 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>55</td>
+		<td>109</td>
+		<td>
+			<a href="https://github.com/LDBM42">
+				<img src="https://avatars.githubusercontent.com/u/23730330?s=72&u=692ded81f6eeb630d0f10f32ea19b9415fb53a31&v=4" width="24" alt="Avatar of LDBM42"> LDBM42
+			</a><br/>
+			Luis David Betances M.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, República  Dominicana</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>110</td>
+		<td>
+			<a href="https://github.com/natachadelarosa">
+				<img src="https://avatars.githubusercontent.com/u/5139220?s=72&v=4" width="24" alt="Avatar of natachadelarosa"> natachadelarosa
+			</a><br/>
+			Natacha De la Rosa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
+			<a href="https://github.com/cesarParra">
+				<img src="https://avatars.githubusercontent.com/u/2524257?s=72&u=f4971386ef2b5891d8afec68a0c9ef654f76a354&v=4" width="24" alt="Avatar of cesarParra"> cesarParra
+			</a><br/>
+			Cesar Parra
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td>
+			<a href="https://github.com/mundix">
+				<img src="https://avatars.githubusercontent.com/u/338983?s=72&u=286dd01b5a338dcc91b110b47dc07d3310313aa7&v=4" width="24" alt="Avatar of mundix"> mundix
+			</a><br/>
+			Edmundo Pichardo
+		</td>
+		<td>Awesome Media </td>
+		<td><a href="https://twitter.com/edmundopichardo">edmundopichardo</a></td>
+		<td>Santo domingo</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
+			<a href="https://github.com/susogarp">
+				<img src="https://avatars.githubusercontent.com/u/37969096?s=72&u=3469ea795d4f6457c657b2b97c719b129fcf3562&v=4" width="24" alt="Avatar of susogarp"> susogarp
+			</a><br/>
+			Jesús García
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic.</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td>
+			<a href="https://github.com/glecaro">
+				<img src="https://avatars.githubusercontent.com/u/54519121?s=72&u=06ebaacb8275b72d0392605c5d2d2597d9c4576a&v=4" width="24" alt="Avatar of glecaro"> glecaro
+			</a><br/>
+			Gabriela Lecaro
+		</td>
+		<td>@povertyaction  </td>
+		<td><a href="https://twitter.com/GabLecaro">GabLecaro</a></td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
+			<a href="https://github.com/manueb149">
+				<img src="https://avatars.githubusercontent.com/u/59061712?s=72&u=72ab3e46f40f34d819309305bffd0f81bbfd15f6&v=4" width="24" alt="Avatar of manueb149"> manueb149
+			</a><br/>
+			Manuel Bencosme
+		</td>
+		<td>Sdq </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, DR</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td>
+			<a href="https://github.com/tonythebrother">
+				<img src="https://avatars.githubusercontent.com/u/70714526?s=72&u=a48e39b12874250d783bd79555815d1a22794a79&v=4" width="24" alt="Avatar of tonythebrother"> tonythebrother
+			</a><br/>
+			Ronny Yoel Pérez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dominican Republic, Santo Domingo, Santo Domingo Este</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>
+			<a href="https://github.com/tonythebrother">
+				<img src="https://avatars.githubusercontent.com/u/70714526?s=72&u=a48e39b12874250d783bd79555815d1a22794a79&v=4" width="24" alt="Avatar of tonythebrother"> tonythebrother
+			</a><br/>
+			Ronny Yoel Pérez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dominican Republic, Santo Domingo, Santo Domingo Este</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>118</td>
+		<td>
+			<a href="https://github.com/carlos12fds151">
+				<img src="https://avatars.githubusercontent.com/u/40545566?s=72&u=91fb1c1092abd8d598a9de08a722e4a88b2373ab&v=4" width="24" alt="Avatar of carlos12fds151"> carlos12fds151
+			</a><br/>
+			Carlos F. Diaz Sanchez
+		</td>
+		<td>Freelancer </td>
+		<td><a href="https://twitter.com/Carlossanzxo">Carlossanzxo</a></td>
+		<td>Santo Domingo</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/tavomoya">
 				<img src="https://avatars.githubusercontent.com/u/6554741?s=72&u=ee424fcef0615f61a34dce4e82b53999008f43fa&v=4" width="24" alt="Avatar of tavomoya"> tavomoya
@@ -812,7 +1644,46 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>56</td>
+		<td>120</td>
+		<td>
+			<a href="https://github.com/MESPA">
+				<img src="https://avatars.githubusercontent.com/u/38986696?s=72&u=f96902013ad5851eefa9cd3830e009aec99a399e&v=4" width="24" alt="Avatar of MESPA"> MESPA
+			</a><br/>
+			Manuel España
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>121</td>
+		<td>
+			<a href="https://github.com/Alucarxd">
+				<img src="https://avatars.githubusercontent.com/u/58672542?s=72&v=4" width="24" alt="Avatar of Alucarxd"> Alucarxd
+			</a><br/>
+			Gabriel Garcia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ecuador - Santo Domingo</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>
+			<a href="https://github.com/Eduard177">
+				<img src="https://avatars.githubusercontent.com/u/57742545?s=72&u=5cbe43b9cf86148ee319e88bb14eb0a84c3197bd&v=4" width="24" alt="Avatar of Eduard177"> Eduard177
+			</a><br/>
+			Eduard Rochet
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/SaulFeliciano02">
 				<img src="https://avatars.githubusercontent.com/u/40696120?s=72&u=f32e3b6df6b80169e03e716b0a69a3e0bc616797&v=4" width="24" alt="Avatar of SaulFeliciano02"> SaulFeliciano02
@@ -825,7 +1696,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>57</td>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/akevinieron">
 				<img src="https://avatars.githubusercontent.com/u/2160489?s=72&u=9db88b263bf5d1de3d0a26e8fa8eb07b572068b9&v=4" width="24" alt="Avatar of akevinieron"> akevinieron
@@ -835,10 +1706,36 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santo Domingo, República Dominicana</td>
-		<td>70</td>
+		<td>72</td>
 	</tr>
 	<tr>
-		<td>58</td>
+		<td>125</td>
+		<td>
+			<a href="https://github.com/gabrielroubiera">
+				<img src="https://avatars.githubusercontent.com/u/56334301?s=72&u=6633758381174a60ddeedb2a252b8b27ad8c5bdc&v=4" width="24" alt="Avatar of gabrielroubiera"> gabrielroubiera
+			</a><br/>
+			Gabriel Rodriguez Ubiera
+		</td>
+		<td>Optimysa Srl. </td>
+		<td><a href="https://twitter.com/Gabrielroubiera">Gabrielroubiera</a></td>
+		<td>Santo Domingo, República Dominicana.</td>
+		<td>72</td>
+	</tr>
+	<tr>
+		<td>126</td>
+		<td>
+			<a href="https://github.com/pablocampogo">
+				<img src="https://avatars.githubusercontent.com/u/38480731?s=72&v=4" width="24" alt="Avatar of pablocampogo"> pablocampogo
+			</a><br/>
+			Pablo Ocampo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/Giampierospec">
 				<img src="https://avatars.githubusercontent.com/u/22641290?s=72&u=18469639ce52cf79237391af28065187b5b4823a&v=4" width="24" alt="Avatar of Giampierospec"> Giampierospec
@@ -851,12 +1748,12 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>59</td>
+		<td>128</td>
 		<td>
-			<a href="https://github.com/natachadelarosa">
-				<img src="https://avatars.githubusercontent.com/u/5139220?s=72&v=4" width="24" alt="Avatar of natachadelarosa"> natachadelarosa
+			<a href="https://github.com/CornelioWeb">
+				<img src="https://avatars.githubusercontent.com/u/18465807?s=72&v=4" width="24" alt="Avatar of CornelioWeb"> CornelioWeb
 			</a><br/>
-			Natacha De la Rosa
+			Jose Manuel Cornelio
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -864,7 +1761,20 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>60</td>
+		<td>129</td>
+		<td>
+			<a href="https://github.com/kevinrosarioc">
+				<img src="https://avatars.githubusercontent.com/u/58832812?s=72&u=ecf45b100e3ff46ef5a1d8ec8a5656991ff0d0c5&v=4" width="24" alt="Avatar of kevinrosarioc"> kevinrosarioc
+			</a><br/>
+			Kevin Amel Rosario Cruz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/PseudoMera">
 				<img src="https://avatars.githubusercontent.com/u/26576400?s=72&u=bf2ed5eac59db80d3a93158410dc487058f5f6a2&v=4" width="24" alt="Avatar of PseudoMera"> PseudoMera
@@ -877,7 +1787,46 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>61</td>
+		<td>131</td>
+		<td>
+			<a href="https://github.com/josuepujols">
+				<img src="https://avatars.githubusercontent.com/u/83259031?s=72&u=9720747114ead0947126fd743c9a9060534fbbe3&v=4" width="24" alt="Avatar of josuepujols"> josuepujols
+			</a><br/>
+			Josue Pujols
+		</td>
+		<td>Ejercito Nacional De La<br/>República<br/>Dominicana<br/></td>
+		<td><a href="https://twitter.com/JosuPujols1">JosuPujols1</a></td>
+		<td>Santo Domingo, República Dominicana</td>
+		<td>67</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>
+			<a href="https://github.com/migcam">
+				<img src="https://avatars.githubusercontent.com/u/41090100?s=72&v=4" width="24" alt="Avatar of migcam"> migcam
+			</a><br/>
+			Miguel Camarena
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Domincan Republic</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>133</td>
+		<td>
+			<a href="https://github.com/KenCuevas">
+				<img src="https://avatars.githubusercontent.com/u/50937209?s=72&u=6d3ce72d13fcf942668e73d1a09e400171d11f22&v=4" width="24" alt="Avatar of KenCuevas"> KenCuevas
+			</a><br/>
+			Kenny Cuevas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/KennyCuevas6">KennyCuevas6</a></td>
+		<td>Santo Domingo, Republica Dominicana</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/JanCarlosRamirezM">
 				<img src="https://avatars.githubusercontent.com/u/38397907?s=72&u=3e7c98c0e7194924ca6c6c318ea10061d9a4457e&v=4" width="24" alt="Avatar of JanCarlosRamirezM"> JanCarlosRamirezM
@@ -887,10 +1836,36 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>@bandex </td>
 		<td>No Twitter Username</td>
 		<td>Santo Domingo, Republica Dominicana</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
+			<a href="https://github.com/Jimmond">
+				<img src="https://avatars.githubusercontent.com/u/33940849?s=72&u=00994471a888a10367dd3fa3539a1b100c6a4b70&v=4" width="24" alt="Avatar of Jimmond"> Jimmond
+			</a><br/>
+			Jimmy Ortiz
+		</td>
+		<td>@wepsys  </td>
+		<td><a href="https://twitter.com/JimmyOrtiz99">JimmyOrtiz99</a></td>
+		<td>Santo Domingo, RD</td>
 		<td>63</td>
 	</tr>
 	<tr>
+		<td>136</td>
+		<td>
+			<a href="https://github.com/marco-production">
+				<img src="https://avatars.githubusercontent.com/u/33947761?s=72&u=e017c9caa80899618a487511b8b2d13119cbda99&v=4" width="24" alt="Avatar of marco-production"> marco-production
+			</a><br/>
+			Marco De la cruz
+		</td>
+		<td>Concentra Srl </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
 		<td>62</td>
+	</tr>
+	<tr>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/syned13">
 				<img src="https://avatars.githubusercontent.com/u/39347970?s=72&v=4" width="24" alt="Avatar of syned13"> syned13
@@ -903,7 +1878,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/LuisHerasme">
 				<img src="https://avatars.githubusercontent.com/u/15204156?s=72&u=3cccedcdb25f3139cd8ce78d586979bfed802e4c&v=4" width="24" alt="Avatar of LuisHerasme"> LuisHerasme
@@ -916,7 +1891,20 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>139</td>
+		<td>
+			<a href="https://github.com/petersonmardi">
+				<img src="https://avatars.githubusercontent.com/u/58122467?s=72&u=7b0345d92465ff365e4908d16f116ef77440d504&v=4" width="24" alt="Avatar of petersonmardi"> petersonmardi
+			</a><br/>
+			Peterson Mardi
+		</td>
+		<td>N/a </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, República Dominicana</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/luis3m">
 				<img src="https://avatars.githubusercontent.com/u/8796793?s=72&u=2b707718064d2ccf8565c0c2536b8c0567c1abf9&v=4" width="24" alt="Avatar of luis3m"> luis3m
@@ -929,7 +1917,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/em-torres">
 				<img src="https://avatars.githubusercontent.com/u/24757457?s=72&u=e021cdc90850903ef6428da04d59ef89264cb6a6&v=4" width="24" alt="Avatar of em-torres"> em-torres
@@ -942,7 +1930,20 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>142</td>
+		<td>
+			<a href="https://github.com/RBoraurito">
+				<img src="https://avatars.githubusercontent.com/u/58434305?s=72&u=40e149875d4697ed880fbe94838cc3b56104207a&v=4" width="24" alt="Avatar of RBoraurito"> RBoraurito
+			</a><br/>
+			RBoraure
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/RBoraure">RBoraure</a></td>
+		<td>Santo Domingo</td>
+		<td>59</td>
+	</tr>
+	<tr>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/jhenriquez">
 				<img src="https://avatars.githubusercontent.com/u/408459?s=72&v=4" width="24" alt="Avatar of jhenriquez"> jhenriquez
@@ -955,7 +1956,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/1antares1">
 				<img src="https://avatars.githubusercontent.com/u/14783925?s=72&u=10571e51fdc927efb4ba38e27813e4c8f8a2b772&v=4" width="24" alt="Avatar of 1antares1"> 1antares1
@@ -968,7 +1969,46 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>68</td>
+		<td>145</td>
+		<td>
+			<a href="https://github.com/brrrayan">
+				<img src="https://avatars.githubusercontent.com/u/34951540?s=72&u=f3f28b68ee0735fbed8e6ab54ebe9cf954ba6a8d&v=4" width="24" alt="Avatar of brrrayan"> brrrayan
+			</a><br/>
+			Brayan Nicolas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>146</td>
+		<td>
+			<a href="https://github.com/nelson-pino">
+				<img src="https://avatars.githubusercontent.com/u/55286260?s=72&u=781b5e454a5a0508cda18cd4cdf72eee93563839&v=4" width="24" alt="Avatar of nelson-pino"> nelson-pino
+			</a><br/>
+			nelson pino
+		</td>
+		<td>Etiquetas.com </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Republica Dominicana</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
+			<a href="https://github.com/LeoLopez02">
+				<img src="https://avatars.githubusercontent.com/u/31909505?s=72&u=7f11efd369b1689237d506369fb1fe5efaa749a9&v=4" width="24" alt="Avatar of LeoLopez02"> LeoLopez02
+			</a><br/>
+			Leonel López
+		</td>
+		<td>L&g Techservices </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/francisbrito">
 				<img src="https://avatars.githubusercontent.com/u/2180822?s=72&u=97dd48583e644614bfe4186a054d9dd4f82d200d&v=4" width="24" alt="Avatar of francisbrito"> francisbrito
@@ -981,7 +2021,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>69</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/Arzoid29">
 				<img src="https://avatars.githubusercontent.com/u/49158320?s=72&u=dc2ada9546b971027253d8a25eee44a8975631b2&v=4" width="24" alt="Avatar of Arzoid29"> Arzoid29
@@ -994,7 +2034,20 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>150</td>
+		<td>
+			<a href="https://github.com/alex19rosario">
+				<img src="https://avatars.githubusercontent.com/u/27300240?s=72&u=54dadb862d5fc3b4da940335e4dafc474f39818c&v=4" width="24" alt="Avatar of alex19rosario"> alex19rosario
+			</a><br/>
+			Alex Rosario
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Republica Dominicana, Santo Domingo (oeste)</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/noGreg">
 				<img src="https://avatars.githubusercontent.com/u/19274527?s=72&u=ef2633756995151d57776a3cb71ad0cc34243cf5&v=4" width="24" alt="Avatar of noGreg"> noGreg
@@ -1007,7 +2060,33 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>152</td>
+		<td>
+			<a href="https://github.com/adrian1088">
+				<img src="https://avatars.githubusercontent.com/u/20612931?s=72&u=1333709ab2eda624f7b49ed6d8724df475cbdd35&v=4" width="24" alt="Avatar of adrian1088"> adrian1088
+			</a><br/>
+			Jose Maldonado Pozo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
+			<a href="https://github.com/jalopez526">
+				<img src="https://avatars.githubusercontent.com/u/8070933?s=72&u=31936aad95d6a496710ec7dce30bf3d43be5afde&v=4" width="24" alt="Avatar of jalopez526"> jalopez526
+			</a><br/>
+			Jeremy López
+		</td>
+		<td>Truelogic Software </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Republica Dominicana</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/eddynelson">
 				<img src="https://avatars.githubusercontent.com/u/26171792?s=72&u=1978df480434670b244e1f68cf6af8e5b0c5d334&v=4" width="24" alt="Avatar of eddynelson"> eddynelson
@@ -1020,7 +2099,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/david-minaya">
 				<img src="https://avatars.githubusercontent.com/u/21043752?s=72&u=80d85ba4abaebe47c73281cc435d84337b80c96f&v=4" width="24" alt="Avatar of david-minaya"> david-minaya
@@ -1033,7 +2112,20 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>156</td>
+		<td>
+			<a href="https://github.com/darsolano">
+				<img src="https://avatars.githubusercontent.com/u/7032122?s=72&v=4" width="24" alt="Avatar of darsolano"> darsolano
+			</a><br/>
+			Daruin O. Solano G.
+		</td>
+		<td>Personal - Freelance </td>
+		<td><a href="https://twitter.com/darsolano">darsolano</a></td>
+		<td>Santo Domingo, DR</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/ffulgencio">
 				<img src="https://avatars.githubusercontent.com/u/7136369?s=72&u=eabb0452dcf09f06ae3f9689b343d92ebca2f606&v=4" width="24" alt="Avatar of ffulgencio"> ffulgencio
@@ -1046,7 +2138,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/thefather20014">
 				<img src="https://avatars.githubusercontent.com/u/44281013?s=72&u=94761c952ffa436f9acbe09990d785e317417982&v=4" width="24" alt="Avatar of thefather20014"> thefather20014
@@ -1059,20 +2151,20 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>159</td>
 		<td>
-			<a href="https://github.com/jalopez526">
-				<img src="https://avatars.githubusercontent.com/u/8070933?s=72&u=31936aad95d6a496710ec7dce30bf3d43be5afde&v=4" width="24" alt="Avatar of jalopez526"> jalopez526
+			<a href="https://github.com/carbonell">
+				<img src="https://avatars.githubusercontent.com/u/1372423?s=72&u=9687048d4f89f664462bd27674590787a36ff621&v=4" width="24" alt="Avatar of carbonell"> carbonell
 			</a><br/>
-			Jeremy López
+			Carlos Carbonell
 		</td>
-		<td>Truelogic Software </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santo Domingo, Republica Dominicana</td>
+		<td>Santo Domingo, República Dominicana</td>
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/kevinHernandez05">
 				<img src="https://avatars.githubusercontent.com/u/35547220?s=72&u=f42bc16859abfb1b884fefd7afe0bb3a00f99189&v=4" width="24" alt="Avatar of kevinHernandez05"> kevinHernandez05
@@ -1085,7 +2177,59 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>161</td>
+		<td>
+			<a href="https://github.com/elicharles">
+				<img src="https://avatars.githubusercontent.com/u/4955031?s=72&v=4" width="24" alt="Avatar of elicharles"> elicharles
+			</a><br/>
+			Eliezer Charles
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/eliezer_charles">eliezer_charles</a></td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>162</td>
+		<td>
+			<a href="https://github.com/EliezerVV01">
+				<img src="https://avatars.githubusercontent.com/u/48864071?s=72&u=23f3cada450eccb68796343a9bc1af965fcc6ed8&v=4" width="24" alt="Avatar of EliezerVV01"> EliezerVV01
+			</a><br/>
+			No Name
+		</td>
+		<td>Verizon </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>163</td>
+		<td>
+			<a href="https://github.com/zentient">
+				<img src="https://avatars.githubusercontent.com/u/67522653?s=72&u=305d4f360ce739004d2de9413c8e081aa9af0df3&v=4" width="24" alt="Avatar of zentient"> zentient
+			</a><br/>
+			Emil Perez Barranco
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/_zentient">_zentient</a></td>
+		<td>Dominican Republic, Santo Domingo</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>164</td>
+		<td>
+			<a href="https://github.com/PichardoWilfred">
+				<img src="https://avatars.githubusercontent.com/u/45864209?s=72&u=1cd271f62b0a05413920d4450a3d42d9b3ccc820&v=4" width="24" alt="Avatar of PichardoWilfred"> PichardoWilfred
+			</a><br/>
+			Pichardo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago de los Caballeros</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/DevSlippery">
 				<img src="https://avatars.githubusercontent.com/u/68492503?s=72&u=47eee28952a349a98da3895ce22072a0d84c5164&v=4" width="24" alt="Avatar of DevSlippery"> DevSlippery
@@ -1098,7 +2242,33 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>166</td>
+		<td>
+			<a href="https://github.com/danielgarcia-09">
+				<img src="https://avatars.githubusercontent.com/u/58521809?s=72&u=0147775cba7154844b48def330ca3c7d27726c25&v=4" width="24" alt="Avatar of danielgarcia-09"> danielgarcia-09
+			</a><br/>
+			Daniel Garcia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>
+			<a href="https://github.com/JoeViloria">
+				<img src="https://avatars.githubusercontent.com/u/24683370?s=72&u=5d01c1239114a4f8bd1be48e901dbd92fe4084d6&v=4" width="24" alt="Avatar of JoeViloria"> JoeViloria
+			</a><br/>
+			Joe Viloria
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/PdMendoza">
 				<img src="https://avatars.githubusercontent.com/u/39388562?s=72&u=f1a931005a979636f58700da3bf7dcb0bb7ebdc4&v=4" width="24" alt="Avatar of PdMendoza"> PdMendoza
@@ -1111,7 +2281,98 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>169</td>
+		<td>
+			<a href="https://github.com/Eifhen">
+				<img src="https://avatars.githubusercontent.com/u/49046521?s=72&u=b33e28d76584f7a4de5b4ceae577052ebfcaee9b&v=4" width="24" alt="Avatar of Eifhen"> Eifhen
+			</a><br/>
+			Gabriel Jiménez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Republica Dominicana</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>170</td>
+		<td>
+			<a href="https://github.com/amatosolivo">
+				<img src="https://avatars.githubusercontent.com/u/6932079?s=72&u=63cf5d2a7b4e50be694bc9157e0fba63752f17c7&v=4" width="24" alt="Avatar of amatosolivo"> amatosolivo
+			</a><br/>
+			Alexander Matos Olivo
+		</td>
+		<td>Ministerio De Hacienda De<br/>La<br/>Republica<br/>Dominicana<br/></td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic, DOSDQ</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>171</td>
+		<td>
+			<a href="https://github.com/Ismael2511">
+				<img src="https://avatars.githubusercontent.com/u/66498347?s=72&u=624a32c883067d90a1bf48f7ffb46c4a4fc76cbd&v=4" width="24" alt="Avatar of Ismael2511"> Ismael2511
+			</a><br/>
+			Ismael De los Santos
+		</td>
+		<td>Msf Infosistema </td>
+		<td>No Twitter Username</td>
+		<td>Dominican Republic - Santo Domingo</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>
+			<a href="https://github.com/jaFerrazza">
+				<img src="https://avatars.githubusercontent.com/u/20551165?s=72&u=68d3b09023f3ad97fba3a5afb3993f0f5d60715c&v=4" width="24" alt="Avatar of jaFerrazza"> jaFerrazza
+			</a><br/>
+			Jacopo Ferrazza
+		</td>
+		<td>Gbh </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>
+			<a href="https://github.com/dalvin181">
+				<img src="https://avatars.githubusercontent.com/u/64456007?s=72&u=6f97b5f5a594948e396591d61876ff4c12b0c418&v=4" width="24" alt="Avatar of dalvin181"> dalvin181
+			</a><br/>
+			Dalvin Segura
+		</td>
+		<td>@dalvinseguraweb </td>
+		<td><a href="https://twitter.com/SeguraDalvin2">SeguraDalvin2</a></td>
+		<td>Republica Dominicana, Santo Domingo</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>174</td>
+		<td>
+			<a href="https://github.com/ericmguzmanc">
+				<img src="https://avatars.githubusercontent.com/u/13417818?s=72&u=7dcdac3142c7d2f255330f86a6b7738ffe251155&v=4" width="24" alt="Avatar of ericmguzmanc"> ericmguzmanc
+			</a><br/>
+			Eric Guzmán
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
+			<a href="https://github.com/edufheinsen">
+				<img src="https://avatars.githubusercontent.com/u/64110814?s=72&u=961de365ebc7ce7af36574024c3c1339d46c8882&v=4" width="24" alt="Avatar of edufheinsen"> edufheinsen
+			</a><br/>
+			Eduardo Fernandez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/edufheinsen">edufheinsen</a></td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/MarluanEspiritusanto">
 				<img src="https://avatars.githubusercontent.com/u/16978935?s=72&u=de046518eab2457c23a3176b051acfdfaab46cac&v=4" width="24" alt="Avatar of MarluanEspiritusanto"> MarluanEspiritusanto
@@ -1124,7 +2385,46 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>177</td>
+		<td>
+			<a href="https://github.com/leonardoaii71">
+				<img src="https://avatars.githubusercontent.com/u/16160473?s=72&u=060d5d472f2e2492a3d9056bdc94ada00d05f28a&v=4" width="24" alt="Avatar of leonardoaii71"> leonardoaii71
+			</a><br/>
+			Leonardo Castro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago de los Caballeros, Rep. Dom.</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>178</td>
+		<td>
+			<a href="https://github.com/YnfanteY2799">
+				<img src="https://avatars.githubusercontent.com/u/49245097?s=72&u=a60184d8481dbec956d5aabfbaf678c48142f449&v=4" width="24" alt="Avatar of YnfanteY2799"> YnfanteY2799
+			</a><br/>
+			Yassett J Ynfante Jimenez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dominican Rep, Santo Domingo</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
+			<a href="https://github.com/Silentsnake27">
+				<img src="https://avatars.githubusercontent.com/u/51147444?s=72&u=05909d2f947564465e7af53c414d321d49da91d1&v=4" width="24" alt="Avatar of Silentsnake27"> Silentsnake27
+			</a><br/>
+			silentsnake27
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo Dominican Republic</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/albertbaezd">
 				<img src="https://avatars.githubusercontent.com/u/42852258?s=72&u=a5db98c0f738ac006087ce32117a111c462ec3ee&v=4" width="24" alt="Avatar of albertbaezd"> albertbaezd
@@ -1137,7 +2437,59 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>181</td>
+		<td>
+			<a href="https://github.com/alanaquino">
+				<img src="https://avatars.githubusercontent.com/u/16493190?s=72&u=225171af46c947396821ef7614940ec45a703e01&v=4" width="24" alt="Avatar of alanaquino"> alanaquino
+			</a><br/>
+			Alan Aquino
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/alanaquino">alanaquino</a></td>
+		<td>Santo Domingo</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>182</td>
+		<td>
+			<a href="https://github.com/joseandreceron">
+				<img src="https://avatars.githubusercontent.com/u/26634195?s=72&u=4a98464abac4a962bdcd4c02fce58cd5363643f3&v=4" width="24" alt="Avatar of joseandreceron"> joseandreceron
+			</a><br/>
+			Jose Andre Ceron
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>183</td>
+		<td>
+			<a href="https://github.com/FelixAVeras">
+				<img src="https://avatars.githubusercontent.com/u/24570175?s=72&u=2d91267910d4ba93df4145e0370247ba96887b08&v=4" width="24" alt="Avatar of FelixAVeras"> FelixAVeras
+			</a><br/>
+			Felix Veras
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>184</td>
+		<td>
+			<a href="https://github.com/HaiselRamirez">
+				<img src="https://avatars.githubusercontent.com/u/77897327?s=72&u=a81301d66e29983dbf9489a3863950b131c1ee41&v=4" width="24" alt="Avatar of HaiselRamirez"> HaiselRamirez
+			</a><br/>
+			Haisel  Ramirez
+		</td>
+		<td>Uasd </td>
+		<td><a href="https://twitter.com/BritoHaisel">BritoHaisel</a></td>
+		<td>Santo Domingo, Rep. Dom.</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/RaymondCoplin">
 				<img src="https://avatars.githubusercontent.com/u/4911690?s=72&u=e28167936742a12b951809c27b8b9dd26c6415a8&v=4" width="24" alt="Avatar of RaymondCoplin"> RaymondCoplin
@@ -1150,7 +2502,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/evaldez89">
 				<img src="https://avatars.githubusercontent.com/u/12959163?s=72&u=7071559a8c3f66e006127a1db04763f6a8a85015&v=4" width="24" alt="Avatar of evaldez89"> evaldez89
@@ -1163,7 +2515,72 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>187</td>
+		<td>
+			<a href="https://github.com/castrobenjamin543">
+				<img src="https://avatars.githubusercontent.com/u/45444244?s=72&u=10af3b96214357ba7e4e7c242fd656d4033f4644&v=4" width="24" alt="Avatar of castrobenjamin543"> castrobenjamin543
+			</a><br/>
+			Benjamin Castro
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/BenjaminAriasC3">BenjaminAriasC3</a></td>
+		<td>Republica Dominicana / Santo Domingo</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>188</td>
+		<td>
+			<a href="https://github.com/Angellewis">
+				<img src="https://avatars.githubusercontent.com/u/26144265?s=72&u=a721fff3119d326804a070afc4ebdca99763a483&v=4" width="24" alt="Avatar of Angellewis"> Angellewis
+			</a><br/>
+			Angel Lewis Del Rosario Terrero
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo domingo, Republica Dominicana</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>189</td>
+		<td>
+			<a href="https://github.com/StarlingJavier">
+				<img src="https://avatars.githubusercontent.com/u/22579591?s=72&u=d5dae1505d5a3bbc6eed97dddf54ee1fa2f3f640&v=4" width="24" alt="Avatar of StarlingJavier"> StarlingJavier
+			</a><br/>
+			Starling Javier Eusebio Bonifacio
+		</td>
+		<td>Trilogy Dominicana (viva) </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo (RD)</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
+			<a href="https://github.com/Chakyllfcu">
+				<img src="https://avatars.githubusercontent.com/u/69004844?s=72&v=4" width="24" alt="Avatar of Chakyllfcu"> Chakyllfcu
+			</a><br/>
+			No Name
+		</td>
+		<td>Viva Wyndham Resorts </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>191</td>
+		<td>
+			<a href="https://github.com/jrgdiaz">
+				<img src="https://avatars.githubusercontent.com/u/17464377?s=72&u=6a818553f3ffb91445e813bbf905005db9708f61&v=4" width="24" alt="Avatar of jrgdiaz"> jrgdiaz
+			</a><br/>
+			No Name
+		</td>
+		<td>Sisap </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/chriscoderdr">
 				<img src="https://avatars.githubusercontent.com/u/2073238?s=72&u=549313c3828e3cd9fcf36678c88e866ecca4b2d9&v=4" width="24" alt="Avatar of chriscoderdr"> chriscoderdr
@@ -1176,7 +2593,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/Roliver-Javier">
 				<img src="https://avatars.githubusercontent.com/u/6831595?s=72&u=a49bab65431906e42da464605d05d2ec49c6a248&v=4" width="24" alt="Avatar of Roliver-Javier"> Roliver-Javier
@@ -1189,7 +2606,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/rubengv1999">
 				<img src="https://avatars.githubusercontent.com/u/28737071?s=72&u=d4c341305543336d6a5c8fc28fd45e7d055c3bce&v=4" width="24" alt="Avatar of rubengv1999"> rubengv1999
@@ -1202,7 +2619,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/EddyCordero">
 				<img src="https://avatars.githubusercontent.com/u/10107743?s=72&u=f7df1de7cb0da40dd851abb01511cf03c28e281b&v=4" width="24" alt="Avatar of EddyCordero"> EddyCordero
@@ -1215,7 +2632,72 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>196</td>
+		<td>
+			<a href="https://github.com/jeansoto7">
+				<img src="https://avatars.githubusercontent.com/u/18452003?s=72&u=1eb070b44eb6a4b199d8532d8bfb33a27e1bcdb1&v=4" width="24" alt="Avatar of jeansoto7"> jeansoto7
+			</a><br/>
+			Jean Soto
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>197</td>
+		<td>
+			<a href="https://github.com/cdelgado1978">
+				<img src="https://avatars.githubusercontent.com/u/3261736?s=72&u=63c1ebfd19b6851f3e4387152ef930817ffd8042&v=4" width="24" alt="Avatar of cdelgado1978"> cdelgado1978
+			</a><br/>
+			Cesar Delgado
+		</td>
+		<td>N/a </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, República Dominicana</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>198</td>
+		<td>
+			<a href="https://github.com/OskarMG">
+				<img src="https://avatars.githubusercontent.com/u/25424752?s=72&u=ae811070a3b5b94da4649c520d083c7f001a326c&v=4" width="24" alt="Avatar of OskarMG"> OskarMG
+			</a><br/>
+			Oscar Martinez German
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/oscmg">oscmg</a></td>
+		<td>Santo Domingo</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>199</td>
+		<td>
+			<a href="https://github.com/kelvinreyes">
+				<img src="https://avatars.githubusercontent.com/u/32279422?s=72&u=f05cbc530b66d76c879c4a4b3a8ad5ac205d0d79&v=4" width="24" alt="Avatar of kelvinreyes"> kelvinreyes
+			</a><br/>
+			Kelvin Reyes
+		</td>
+		<td>Media Experto </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican republic</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
+			<a href="https://github.com/albertraza">
+				<img src="https://avatars.githubusercontent.com/u/15902117?s=72&u=61cae7f6576eab7590d8ef2d5a3982e3f699650b&v=4" width="24" alt="Avatar of albertraza"> albertraza
+			</a><br/>
+			Albert Ramirez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic </td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/ogaston">
 				<img src="https://avatars.githubusercontent.com/u/31831708?s=72&u=28a72030cd387bc5e5bf117ee2f95b9505a28c3a&v=4" width="24" alt="Avatar of ogaston"> ogaston
@@ -1228,7 +2710,111 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>202</td>
+		<td>
+			<a href="https://github.com/jarlynpolanco">
+				<img src="https://avatars.githubusercontent.com/u/10509208?s=72&u=390ada6c2e58bb539620832a5e7e2e9c4a4f8922&v=4" width="24" alt="Avatar of jarlynpolanco"> jarlynpolanco
+			</a><br/>
+			Jarlyn Polanco De la Rosa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, R.D.</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
+			<a href="https://github.com/eliaquin">
+				<img src="https://avatars.githubusercontent.com/u/7480116?s=72&v=4" width="24" alt="Avatar of eliaquin"> eliaquin
+			</a><br/>
+			Eliaquín Encarnación
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
+			<a href="https://github.com/almonteAlexander">
+				<img src="https://avatars.githubusercontent.com/u/74799010?s=72&u=4afe3fd1249fd51d06e931f457f4ab4d23c6c152&v=4" width="24" alt="Avatar of almonteAlexander"> almonteAlexander
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago De Los Caballeros, Dominican Republic</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
+			<a href="https://github.com/Yondaimejab">
+				<img src="https://avatars.githubusercontent.com/u/31734131?s=72&u=360b875dd209c9cc6b21a9bab9ffde27ec358364&v=4" width="24" alt="Avatar of Yondaimejab"> Yondaimejab
+			</a><br/>
+			Joel Alcántara Burgos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dominican Republic, santo domingo</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>206</td>
+		<td>
+			<a href="https://github.com/Jyro77">
+				<img src="https://avatars.githubusercontent.com/u/71800608?s=72&u=e6530dd4aada7036c5e12d6c86d8af771e2f201a&v=4" width="24" alt="Avatar of Jyro77"> Jyro77
+			</a><br/>
+			Jhonny Rodriguez Martinez
+		</td>
+		<td>Scotia Gbs </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>207</td>
+		<td>
+			<a href="https://github.com/franciscomerdot">
+				<img src="https://avatars.githubusercontent.com/u/19308463?s=72&u=746a0c88e6c375200c66ac711927db1f8084c373&v=4" width="24" alt="Avatar of franciscomerdot"> franciscomerdot
+			</a><br/>
+			Francisco Mercedes
+		</td>
+		<td>@jemsframework , @docox <br/></td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
+			<a href="https://github.com/joeljesusmota">
+				<img src="https://avatars.githubusercontent.com/u/29617201?s=72&u=7b69dd9cb1ee2523e8f1495aac38bdba349de7f2&v=4" width="24" alt="Avatar of joeljesusmota"> joeljesusmota
+			</a><br/>
+			Joel Mota
+		</td>
+		<td>@codeteamrd </td>
+		<td><a href="https://twitter.com/joelmota27">joelmota27</a></td>
+		<td>Santo Domingo</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>209</td>
+		<td>
+			<a href="https://github.com/lcgr220">
+				<img src="https://avatars.githubusercontent.com/u/67235811?s=72&u=a258a31c4395a06e56c52aebba69060da2b43f77&v=4" width="24" alt="Avatar of lcgr220"> lcgr220
+			</a><br/>
+			Luis García R.
+		</td>
+		<td>Currently Gcs International </td>
+		<td>No Twitter Username</td>
+		<td>Republica Dominica, Santo Domingo</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/Xaroz">
 				<img src="https://avatars.githubusercontent.com/u/33064781?s=72&u=994dfda70c6a3306eeb4d34314b9a771497508f4&v=4" width="24" alt="Avatar of Xaroz"> Xaroz
@@ -1241,7 +2827,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/teulys">
 				<img src="https://avatars.githubusercontent.com/u/1781734?s=72&u=6a31d7bbff6538958a30ff71f2254d44fc035254&v=4" width="24" alt="Avatar of teulys"> teulys
@@ -1254,20 +2840,46 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>212</td>
 		<td>
-			<a href="https://github.com/franciscomerdot">
-				<img src="https://avatars.githubusercontent.com/u/19308463?s=72&u=746a0c88e6c375200c66ac711927db1f8084c373&v=4" width="24" alt="Avatar of franciscomerdot"> franciscomerdot
+			<a href="https://github.com/allfre2">
+				<img src="https://avatars.githubusercontent.com/u/1815824?s=72&u=de69fc166904b159fc20cdb0810764a6279fb1c0&v=4" width="24" alt="Avatar of allfre2"> allfre2
 			</a><br/>
-			Francisco Mercedes
+			Alfredo Luzón
 		</td>
-		<td>@jemsframework , @docox <br/></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/PowerCisco">
+				<img src="https://avatars.githubusercontent.com/u/46621773?s=72&v=4" width="24" alt="Avatar of PowerCisco"> PowerCisco
+			</a><br/>
+			Cisco
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
+			<a href="https://github.com/Morzkat">
+				<img src="https://avatars.githubusercontent.com/u/25956270?s=72&u=7bc24b63701391595e0a4abc1f20ab3dfc041d02&v=4" width="24" alt="Avatar of Morzkat"> Morzkat
+			</a><br/>
+			Felix Garcia
+		</td>
+		<td>Evopoint Solutions Srl </td>
 		<td>No Twitter Username</td>
 		<td>Santo Domingo, Dominican Republic</td>
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/santidr">
 				<img src="https://avatars.githubusercontent.com/u/15334015?s=72&u=3b3281aa1e9c26fcb5b97dcd28f9f34fd450e09b&v=4" width="24" alt="Avatar of santidr"> santidr
@@ -1280,7 +2892,72 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>216</td>
+		<td>
+			<a href="https://github.com/ericksonsv">
+				<img src="https://avatars.githubusercontent.com/u/14256724?s=72&u=50977cbbab41e85994f40ad330ddea528212ec9e&v=4" width="24" alt="Avatar of ericksonsv"> ericksonsv
+			</a><br/>
+			Erickson Suero
+		</td>
+		<td>Personal </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
+			<a href="https://github.com/Almsrr">
+				<img src="https://avatars.githubusercontent.com/u/54919831?s=72&v=4" width="24" alt="Avatar of Almsrr"> Almsrr
+			</a><br/>
+			Alam Sierra
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/alamsierrad">alamsierrad</a></td>
+		<td>Santo Domingo, Dominican Republic </td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
+			<a href="https://github.com/luismiguel0406">
+				<img src="https://avatars.githubusercontent.com/u/51542588?s=72&u=aecaceece9e5fa41705e0bbb003dffa5819e02cd&v=4" width="24" alt="Avatar of luismiguel0406"> luismiguel0406
+			</a><br/>
+			Luis Miguel Del orbe Martinez
+		</td>
+		<td>Freelance </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>
+			<a href="https://github.com/Jerez09">
+				<img src="https://avatars.githubusercontent.com/u/56321995?s=72&u=651ae6b6ceda1d053157de81c756f75ded06e5a8&v=4" width="24" alt="Avatar of Jerez09"> Jerez09
+			</a><br/>
+			Justin Jerez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santiago De Los Caballeros, Dominican Republic.</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>220</td>
+		<td>
+			<a href="https://github.com/daiangan">
+				<img src="https://avatars.githubusercontent.com/u/67585810?s=72&u=399879ac07898faa81961c6349097532aad6c113&v=4" width="24" alt="Avatar of daiangan"> daiangan
+			</a><br/>
+			Daian Gan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/daiangan">daiangan</a></td>
+		<td>Santo Domingo</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/andrese03">
 				<img src="https://avatars.githubusercontent.com/u/6411487?s=72&u=d3204fef0cb22529571b48550a9c1401629785c3&v=4" width="24" alt="Avatar of andrese03"> andrese03
@@ -1293,7 +2970,59 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>222</td>
+		<td>
+			<a href="https://github.com/Carlos4775">
+				<img src="https://avatars.githubusercontent.com/u/46830962?s=72&u=f261f75cd91b539f49e70f708f86010b7a8a58ee&v=4" width="24" alt="Avatar of Carlos4775"> Carlos4775
+			</a><br/>
+			Carlos Miguel Torres Graciano
+		</td>
+		<td>@helx </td>
+		<td><a href="https://twitter.com/Carlos4775">Carlos4775</a></td>
+		<td>Santo Domingo, Republica Dominicana</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>223</td>
+		<td>
+			<a href="https://github.com/teuddy">
+				<img src="https://avatars.githubusercontent.com/u/20017123?s=72&u=7afa2f3538a0414967b9c9a7ae8511c20b0840d6&v=4" width="24" alt="Avatar of teuddy"> teuddy
+			</a><br/>
+			teuddy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>higuey , republica dominicana</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>224</td>
+		<td>
+			<a href="https://github.com/JoseMambruDO">
+				<img src="https://avatars.githubusercontent.com/u/25858511?s=72&u=1ecc76686db8350987f20d30b85c4914fc0db857&v=4" width="24" alt="Avatar of JoseMambruDO"> JoseMambruDO
+			</a><br/>
+			Jose Mambru
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>
+			<a href="https://github.com/carlosxjose">
+				<img src="https://avatars.githubusercontent.com/u/27929690?s=72&u=df2d907b51d41eae6cdfb58d587621368df9e9c4&v=4" width="24" alt="Avatar of carlosxjose"> carlosxjose
+			</a><br/>
+			Carlos Castaño
+		</td>
+		<td>Maximum Performance Systems </td>
+		<td>No Twitter Username</td>
+		<td>Puerto Plata</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/watsongm24">
 				<img src="https://avatars.githubusercontent.com/u/30502965?s=72&u=a00735795f2194445de59e14172b721d4569359c&v=4" width="24" alt="Avatar of watsongm24"> watsongm24
@@ -1306,7 +3035,20 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>227</td>
+		<td>
+			<a href="https://github.com/DavoBR">
+				<img src="https://avatars.githubusercontent.com/u/498724?s=72&v=4" width="24" alt="Avatar of DavoBR"> DavoBR
+			</a><br/>
+			Davo
+		</td>
+		<td>@drojects </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/joanbarros">
 				<img src="https://avatars.githubusercontent.com/u/363861?s=72&u=481dc27d85627bb82750ca7df62a133bf065ed23&v=4" width="24" alt="Avatar of joanbarros"> joanbarros
@@ -1319,7 +3061,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>95</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/javieracevedo">
 				<img src="https://avatars.githubusercontent.com/u/5295936?s=72&u=3bf304d71faadc1db60c38fed5b82f9e36718d66&v=4" width="24" alt="Avatar of javieracevedo"> javieracevedo
@@ -1332,7 +3074,98 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>230</td>
+		<td>
+			<a href="https://github.com/DiomedesDominguez">
+				<img src="https://avatars.githubusercontent.com/u/4379316?s=72&u=abb288bfc24cff3bf2c2e362db998ccd1a9fb0c5&v=4" width="24" alt="Avatar of DiomedesDominguez"> DiomedesDominguez
+			</a><br/>
+			Diomedes Ignacio Domínguez Ureña
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>
+			<a href="https://github.com/evolquez">
+				<img src="https://avatars.githubusercontent.com/u/8124733?s=72&u=212ad1d80ba919e8ab6e249735e5e50d36b2a09c&v=4" width="24" alt="Avatar of evolquez"> evolquez
+			</a><br/>
+			Algenis E. Vólquez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>232</td>
+		<td>
+			<a href="https://github.com/yeisonpx">
+				<img src="https://avatars.githubusercontent.com/u/26390309?s=72&u=58cbc99cf6fdde1c154d51b2fa62c9c1af5699ad&v=4" width="24" alt="Avatar of yeisonpx"> yeisonpx
+			</a><br/>
+			Yeison Lapaix Angomas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/yeisonpx">yeisonpx</a></td>
+		<td>Santo Domingo, Dominican Republic. </td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>
+			<a href="https://github.com/CarlosRamirezT">
+				<img src="https://avatars.githubusercontent.com/u/38014393?s=72&u=f67e6cebcb0362e36d66a1fea4c26ddf55de4491&v=4" width="24" alt="Avatar of CarlosRamirezT"> CarlosRamirezT
+			</a><br/>
+			Carlos Ramirez
+		</td>
+		<td>Indexa Srl </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>234</td>
+		<td>
+			<a href="https://github.com/cocacolaboxers">
+				<img src="https://avatars.githubusercontent.com/u/35245492?s=72&v=4" width="24" alt="Avatar of cocacolaboxers"> cocacolaboxers
+			</a><br/>
+			Jose Tomas Diaz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>235</td>
+		<td>
+			<a href="https://github.com/ZeroCoderC00l">
+				<img src="https://avatars.githubusercontent.com/u/50673373?s=72&u=5c0482d9242aeb18ebde905e04fd9e0d17d0b48f&v=4" width="24" alt="Avatar of ZeroCoderC00l"> ZeroCoderC00l
+			</a><br/>
+			Luis Alejandro Santana
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>236</td>
+		<td>
+			<a href="https://github.com/crisnunez1">
+				<img src="https://avatars.githubusercontent.com/u/5014089?s=72&u=c6c048ac7a4d597a25750b7e1c37eaafc82e2f9b&v=4" width="24" alt="Avatar of crisnunez1"> crisnunez1
+			</a><br/>
+			Crislin Nuñez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, RD</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/angelmadames">
 				<img src="https://avatars.githubusercontent.com/u/9947992?s=72&u=b229fcb401fde0248d1dbcf104e0db4d1dad967d&v=4" width="24" alt="Avatar of angelmadames"> angelmadames
@@ -1345,7 +3178,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>97</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/gregorypilar">
 				<img src="https://avatars.githubusercontent.com/u/699270?s=72&u=66abd604f809afd2c8f189ae967fbaa78b546f9a&v=4" width="24" alt="Avatar of gregorypilar"> gregorypilar
@@ -1358,7 +3191,7 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>98</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/gabmartinez">
 				<img src="https://avatars.githubusercontent.com/u/24206382?s=72&u=a7bbb28d0a3299ead32cc6224fde37bc116a8f49&v=4" width="24" alt="Avatar of gabmartinez"> gabmartinez
@@ -1371,7 +3204,20 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>99</td>
+		<td>240</td>
+		<td>
+			<a href="https://github.com/codigodo">
+				<img src="https://avatars.githubusercontent.com/u/19627351?s=72&u=8cf413fcfda5ed791910b159263dbace5021ecaa&v=4" width="24" alt="Avatar of codigodo"> codigodo
+			</a><br/>
+			Joel Baez
+		</td>
+		<td>@squiresoft </td>
+		<td><a href="https://twitter.com/codigodr">codigodr</a></td>
+		<td>Santo Domingo, DR</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/Avto9711">
 				<img src="https://avatars.githubusercontent.com/u/17712829?s=72&u=15896463800db790cfc8b908e9713912120b6e67&v=4" width="24" alt="Avatar of Avto9711"> Avto9711
@@ -1384,745 +3230,199 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>242</td>
 		<td>
-			<a href="https://github.com/fulviomoya">
-				<img src="https://avatars.githubusercontent.com/u/2261683?s=72&u=c02d8adaecae12321e05c314ee7b2f7357d938f5&v=4" width="24" alt="Avatar of fulviomoya"> fulviomoya
+			<a href="https://github.com/Angie014">
+				<img src="https://avatars.githubusercontent.com/u/47672748?s=72&v=4" width="24" alt="Avatar of Angie014"> Angie014
 			</a><br/>
-			Fulvio Andrés
+			Angélica  Peña
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/fulvio_moya">fulvio_moya</a></td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>22</td>
+		<td><a href="https://twitter.com/Angie014_">Angie014_</a></td>
+		<td>Santo Domingo, República Dominicana</td>
+		<td>25</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>243</td>
 		<td>
-			<a href="https://github.com/alenkart">
-				<img src="https://avatars.githubusercontent.com/u/15333374?s=72&u=77bab486c47410973324ae5af4e10bc0cc5f5541&v=4" width="24" alt="Avatar of alenkart"> alenkart
+			<a href="https://github.com/nelcolon">
+				<img src="https://avatars.githubusercontent.com/u/22108375?s=72&u=20f0f348cacbea77b058617f7b7e5c1fac33deb5&v=4" width="24" alt="Avatar of nelcolon"> nelcolon
 			</a><br/>
-			Alenkart Rodriguez
+			Nelson Colón
 		</td>
-		<td>Azshiptech </td>
-		<td>No Twitter Username</td>
-		<td>Republica Dominicana, Santo Domingo.</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>102</td>
-		<td>
-			<a href="https://github.com/EmmaPj18">
-				<img src="https://avatars.githubusercontent.com/u/23461758?s=72&u=37f3538e96d9f83ed0623f7bb0c3e272b32f79a8&v=4" width="24" alt="Avatar of EmmaPj18"> EmmaPj18
-			</a><br/>
-			Emmanuel Polanco Jimenez
-		</td>
-		<td>@developersdo  </td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo </td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>103</td>
-		<td>
-			<a href="https://github.com/paulnunezm">
-				<img src="https://avatars.githubusercontent.com/u/4543238?s=72&u=077d9de05f74ed17e829b4fd5ad8f70468f18ceb&v=4" width="24" alt="Avatar of paulnunezm"> paulnunezm
-			</a><br/>
-			Paul Nunez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/paulnunezm">paulnunezm</a></td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
-			<a href="https://github.com/rozon">
-				<img src="https://avatars.githubusercontent.com/u/7820864?s=72&u=f825eae4b626fde7e35559a6b8bf297c007e21ef&v=4" width="24" alt="Avatar of rozon"> rozon
-			</a><br/>
-			Anthony Rozón
-		</td>
-		<td>No Company</td>
+		<td>Pocket Network </td>
 		<td>No Twitter Username</td>
 		<td>Santo Domingo</td>
-		<td>17</td>
+		<td>25</td>
 	</tr>
 	<tr>
-		<td>105</td>
+		<td>244</td>
 		<td>
-			<a href="https://github.com/vvvvalvalval">
-				<img src="https://avatars.githubusercontent.com/u/5859120?s=72&u=53b673e046a40afbb72b1007b010f8eed8883179&v=4" width="24" alt="Avatar of vvvvalvalval"> vvvvalvalval
+			<a href="https://github.com/Forze9dark">
+				<img src="https://avatars.githubusercontent.com/u/78060927?s=72&u=e7c4bb601b74cf2f12d19ce05b3279583c8513a3&v=4" width="24" alt="Avatar of Forze9dark"> Forze9dark
 			</a><br/>
-			Valentin Waeselynck
+			Carlos Sanchez
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Dominican Repubic</td>
-		<td>16</td>
+		<td>Uepa Tickets </td>
+		<td><a href="https://twitter.com/CSanche06759261">CSanche06759261</a></td>
+		<td>Santo Domingo, DIstrito Nacional</td>
+		<td>25</td>
 	</tr>
 	<tr>
-		<td>106</td>
+		<td>245</td>
 		<td>
-			<a href="https://github.com/nivla">
-				<img src="https://avatars.githubusercontent.com/u/2448098?s=72&u=0f5836c9c37e9b5b0bf448555b5f5394342ee532&v=4" width="24" alt="Avatar of nivla"> nivla
+			<a href="https://github.com/benjaminvar">
+				<img src="https://avatars.githubusercontent.com/u/33351646?s=72&v=4" width="24" alt="Avatar of benjaminvar"> benjaminvar
 			</a><br/>
-			Alvin Dickson
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Dominican Republic.</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>107</td>
-		<td>
-			<a href="https://github.com/ronyb29">
-				<img src="https://avatars.githubusercontent.com/u/1606872?s=72&u=343223e3cf2947bc4661c7ea03377fe3bc84a99c&v=4" width="24" alt="Avatar of ronyb29"> ronyb29
-			</a><br/>
-			Rony Batista
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/victordmontero">
-				<img src="https://avatars.githubusercontent.com/u/17789558?s=72&v=4" width="24" alt="Avatar of victordmontero"> victordmontero
-			</a><br/>
-			Victor D. Montero
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Distrito Nacional</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>109</td>
-		<td>
-			<a href="https://github.com/jgdev">
-				<img src="https://avatars.githubusercontent.com/u/3039328?s=72&u=53d26a6d0d24913ac50b798b21c188989600ea0e&v=4" width="24" alt="Avatar of jgdev"> jgdev
-			</a><br/>
-			Joan Peralta
-		</td>
-		<td>Scotiabank - Ccau Digital<br/>Sales<br/>|<br/>Breeze<br/></td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>110</td>
-		<td>
-			<a href="https://github.com/eburgos">
-				<img src="https://avatars.githubusercontent.com/u/1979280?s=72&v=4" width="24" alt="Avatar of eburgos"> eburgos
-			</a><br/>
-			Eduardo Burgos
-		</td>
-		<td>Agl </td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, DN, Dominican Republic</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
-			<a href="https://github.com/YhorbyMatias">
-				<img src="https://avatars.githubusercontent.com/u/6732810?s=72&u=372e9b96a4adfbd5c6669d97a009f115a451ac32&v=4" width="24" alt="Avatar of YhorbyMatias"> YhorbyMatias
-			</a><br/>
-			Yhorby Matias Heredia S.
-		</td>
-		<td>Matiassoft </td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>112</td>
-		<td>
-			<a href="https://github.com/zurdors">
-				<img src="https://avatars.githubusercontent.com/u/1838831?s=72&u=95d927868f514bc598e45b1b50bd6f528c41e090&v=4" width="24" alt="Avatar of zurdors"> zurdors
-			</a><br/>
-			Gaspar Reyes Póndigo
-		</td>
-		<td>Dimedia </td>
-		<td><a href="https://twitter.com/Zurdors">Zurdors</a></td>
-		<td>Santo Domingo Tehuantepec, Oaxaca, México</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>113</td>
-		<td>
-			<a href="https://github.com/EliasFl">
-				<img src="https://avatars.githubusercontent.com/u/25104967?s=72&u=d313817ca46dd87d555578f30fa7286358cc0dec&v=4" width="24" alt="Avatar of EliasFl"> EliasFl
-			</a><br/>
-			Elias Flores
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>114</td>
-		<td>
-			<a href="https://github.com/GaboMendez">
-				<img src="https://avatars.githubusercontent.com/u/54010882?s=72&u=01027d463dfcdd47fab76f02983cf7282b7ccf29&v=4" width="24" alt="Avatar of GaboMendez"> GaboMendez
-			</a><br/>
-			Gabriel Mendez Reyes
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/edrreisp">
-				<img src="https://avatars.githubusercontent.com/u/11417880?s=72&u=75bdcc34c7627d033a0449cf789db6418142007c&v=4" width="24" alt="Avatar of edrreisp"> edrreisp
-			</a><br/>
-			Edward Dario Rosado
-		</td>
-		<td>Reisp Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Republica Dominicana</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/SantanaJcp">
-				<img src="https://avatars.githubusercontent.com/u/42577277?s=72&u=0701f45567bd4e8664cde68eb628a4e317c345ec&v=4" width="24" alt="Avatar of SantanaJcp"> SantanaJcp
-			</a><br/>
-			Jean C. Santana
-		</td>
-		<td>Xpertcode </td>
-		<td><a href="https://twitter.com/Santana_Jcp">Santana_Jcp</a></td>
-		<td>Santo Domingo</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>117</td>
-		<td>
-			<a href="https://github.com/chrsalx">
-				<img src="https://avatars.githubusercontent.com/u/11800650?s=72&u=912679cb9d4a20966ccc4ae06995a8b981c0a207&v=4" width="24" alt="Avatar of chrsalx"> chrsalx
-			</a><br/>
-			Christian Alexánder Polanco Valdez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>118</td>
-		<td>
-			<a href="https://github.com/gaperaltav">
-				<img src="https://avatars.githubusercontent.com/u/4043907?s=72&u=340e4ba7dea9f6209b4728fcff4b5c2d60b0305a&v=4" width="24" alt="Avatar of gaperaltav"> gaperaltav
-			</a><br/>
-			Gabriel Peralta
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/gaperaltav">gaperaltav</a></td>
-		<td>Santo Domingo, DR.</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>119</td>
-		<td>
-			<a href="https://github.com/JeffersonBenzan">
-				<img src="https://avatars.githubusercontent.com/u/23746167?s=72&u=62d0792c014987fe2674c9a699bb92355bb82af5&v=4" width="24" alt="Avatar of JeffersonBenzan"> JeffersonBenzan
-			</a><br/>
-			Jefferson Benzan Tapia
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>120</td>
-		<td>
-			<a href="https://github.com/diegomichell">
-				<img src="https://avatars.githubusercontent.com/u/4793805?s=72&u=5013c2fe6d68a5c4792fb22e87d6a274f504e2bf&v=4" width="24" alt="Avatar of diegomichell"> diegomichell
-			</a><br/>
-			Diego Ivan Perez Michel
-		</td>
-		<td>Membercare </td>
-		<td>No Twitter Username</td>
-		<td>Dominican Republic, City Santo Domingo</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>121</td>
-		<td>
-			<a href="https://github.com/jeasoft">
-				<img src="https://avatars.githubusercontent.com/u/424073?s=72&u=bd825dfd1ffa1dd0e8c777cfcc95a808cf65a792&v=4" width="24" alt="Avatar of jeasoft"> jeasoft
-			</a><br/>
-			Jearel Alcantara
-		</td>
-		<td>Ex @mmarena  </td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
-			<a href="https://github.com/epalen">
-				<img src="https://avatars.githubusercontent.com/u/8404815?s=72&u=d80d43965ec1beb6f0a6ba65cc3ec560282261de&v=4" width="24" alt="Avatar of epalen"> epalen
-			</a><br/>
-			Edward
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
-			<a href="https://github.com/gsusrafael">
-				<img src="https://avatars.githubusercontent.com/u/916851?s=72&u=be075d5fd13ab7044e442ac10ee294decd93257e&v=4" width="24" alt="Avatar of gsusrafael"> gsusrafael
-			</a><br/>
-			Jesus Rafael Sanchez
-		</td>
-		<td>Infratek, S.r.l </td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>124</td>
-		<td>
-			<a href="https://github.com/samvaldez">
-				<img src="https://avatars.githubusercontent.com/u/15175988?s=72&u=aaca732d9d54bb35fb9696e400671ae76ed4f023&v=4" width="24" alt="Avatar of samvaldez"> samvaldez
-			</a><br/>
-			Samantha Valdez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/samievaldez">samievaldez</a></td>
-		<td>Santo Domingo, DR</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>125</td>
-		<td>
-			<a href="https://github.com/luisjmarrero">
-				<img src="https://avatars.githubusercontent.com/u/8053878?s=72&u=87914b76098b918f7d3ab11d3498e2c8252a1756&v=4" width="24" alt="Avatar of luisjmarrero"> luisjmarrero
-			</a><br/>
-			Luis Marrero
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>126</td>
-		<td>
-			<a href="https://github.com/Edwardenis">
-				<img src="https://avatars.githubusercontent.com/u/13789167?s=72&u=639f78fc457af9a21727d68e421e982d89c4873d&v=4" width="24" alt="Avatar of Edwardenis"> Edwardenis
-			</a><br/>
-			Edwardenis De los santos
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Rep.Dom.</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>127</td>
-		<td>
-			<a href="https://github.com/acontrerasrosario">
-				<img src="https://avatars.githubusercontent.com/u/14191403?s=72&v=4" width="24" alt="Avatar of acontrerasrosario"> acontrerasrosario
-			</a><br/>
-			Angel Contreras
+			Benjamin Vargas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santo Domingo, República Dominicana</td>
-		<td>6</td>
+		<td>25</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>246</td>
 		<td>
-			<a href="https://github.com/ronelpanag">
-				<img src="https://avatars.githubusercontent.com/u/40268531?s=72&u=36bc9915c1c72fe84faf5d2a84b11de4bac8a6ce&v=4" width="24" alt="Avatar of ronelpanag"> ronelpanag
+			<a href="https://github.com/heriberto777">
+				<img src="https://avatars.githubusercontent.com/u/8534349?s=72&u=07bfbd43edb514fb9faa550f3f2a5edb93116347&v=4" width="24" alt="Avatar of heriberto777"> heriberto777
 			</a><br/>
-			Ronel Pantaleon A.
+			Heriberto Gonzalez
+		</td>
+		<td>@ciguadr  </td>
+		<td>No Twitter Username</td>
+		<td>Puerto Plata, Republica Dominicana</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>
+			<a href="https://github.com/angel202001">
+				<img src="https://avatars.githubusercontent.com/u/59874616?s=72&u=a5e5ae35091a663c09a65bc7e718e728e9fe158a&v=4" width="24" alt="Avatar of angel202001"> angel202001
+			</a><br/>
+			Angel Miguel
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>6</td>
+		<td>Santiago de los caballeros R.D</td>
+		<td>25</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>248</td>
 		<td>
-			<a href="https://github.com/ruben0626">
-				<img src="https://avatars.githubusercontent.com/u/860070?s=72&u=3ca89fbfa26231d171b05032618cc6029eba0b56&v=4" width="24" alt="Avatar of ruben0626"> ruben0626
+			<a href="https://github.com/vanecordero">
+				<img src="https://avatars.githubusercontent.com/u/47092867?s=72&u=7fe9d380c632e87ef385fa3d485b59225cd87ea5&v=4" width="24" alt="Avatar of vanecordero"> vanecordero
 			</a><br/>
-			Ruben Jimenez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Republica Dominicana</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>130</td>
-		<td>
-			<a href="https://github.com/gabrielebaez">
-				<img src="https://avatars.githubusercontent.com/u/5049569?s=72&u=c8ced405387356208211aeb4a9fb7ab045991a86&v=4" width="24" alt="Avatar of gabrielebaez"> gabrielebaez
-			</a><br/>
-			Gabriel Baez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>131</td>
-		<td>
-			<a href="https://github.com/marcelino056">
-				<img src="https://avatars.githubusercontent.com/u/4961741?s=72&v=4" width="24" alt="Avatar of marcelino056"> marcelino056
-			</a><br/>
-			Robert Marcelino
+			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santo Domingo</td>
-		<td>5</td>
+		<td>24</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>249</td>
 		<td>
-			<a href="https://github.com/serdna27">
-				<img src="https://avatars.githubusercontent.com/u/3474788?s=72&u=4db03fd9aa0709b3a8236231bb184e58fe184375&v=4" width="24" alt="Avatar of serdna27"> serdna27
+			<a href="https://github.com/hdisma">
+				<img src="https://avatars.githubusercontent.com/u/25834907?s=72&u=3267c9c7b7d172eb1244592f1224a7f14f1c1f23&v=4" width="24" alt="Avatar of hdisma"> hdisma
 			</a><br/>
-			Andres K.T.
+			Ismael Herreras
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santo Domingo, D.R</td>
-		<td>5</td>
+		<td>Dominican Republic, Santo Domingo</td>
+		<td>24</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>250</td>
 		<td>
-			<a href="https://github.com/wilburhimself">
-				<img src="https://avatars.githubusercontent.com/u/8761?s=72&u=256edec7e4a9b3e89cda95c3253e4f1e6f2e109e&v=4" width="24" alt="Avatar of wilburhimself"> wilburhimself
+			<a href="https://github.com/soyaaron">
+				<img src="https://avatars.githubusercontent.com/u/44642390?s=72&v=4" width="24" alt="Avatar of soyaaron"> soyaaron
 			</a><br/>
-			Wilbur Suero
-		</td>
-		<td>@pipelinedeals  </td>
-		<td><a href="https://twitter.com/wilburhimself">wilburhimself</a></td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
-			<a href="https://github.com/hecvasro">
-				<img src="https://avatars.githubusercontent.com/u/8771303?s=72&u=11ae1b68ac364e1800f0413a12de799f9d6ca1f3&v=4" width="24" alt="Avatar of hecvasro"> hecvasro
-			</a><br/>
-			Héctor Vásquez
-		</td>
-		<td>@soluciones-gbh  </td>
-		<td><a href="https://twitter.com/hecvasro">hecvasro</a></td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>135</td>
-		<td>
-			<a href="https://github.com/vjustov">
-				<img src="https://avatars.githubusercontent.com/u/4332586?s=72&u=3b142cdc7840967d4cadb1f661333ba811377f30&v=4" width="24" alt="Avatar of vjustov"> vjustov
-			</a><br/>
-			Victor Justo V.
+			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santo Domingo, Republica Dominicana</td>
-		<td>4</td>
+		<td>Santo Domingo, DR</td>
+		<td>24</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>251</td>
 		<td>
-			<a href="https://github.com/GustavoAgt">
-				<img src="https://avatars.githubusercontent.com/u/5686984?s=72&u=e15c96032086f5c50615f55b1ee5fcced47bf183&v=4" width="24" alt="Avatar of GustavoAgt"> GustavoAgt
+			<a href="https://github.com/JAPS01">
+				<img src="https://avatars.githubusercontent.com/u/55307876?s=72&u=bef9666c73cb82b7267b06d5f350bdc7a66e4479&v=4" width="24" alt="Avatar of JAPS01"> JAPS01
 			</a><br/>
-			Gustavo A. Gómez
+			Joan Ariel Peralta Sosa 
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>137</td>
-		<td>
-			<a href="https://github.com/fpichardom">
-				<img src="https://avatars.githubusercontent.com/u/20783036?s=72&u=553b44b67d86e3fc47f5fa19964c7e5df0104446&v=4" width="24" alt="Avatar of fpichardom"> fpichardom
-			</a><br/>
-			Fritz Pichardo Marcano
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>138</td>
-		<td>
-			<a href="https://github.com/juanpichvrdo">
-				<img src="https://avatars.githubusercontent.com/u/39318627?s=72&u=140b75f852756deda8e6b00933590531196466e6&v=4" width="24" alt="Avatar of juanpichvrdo"> juanpichvrdo
-			</a><br/>
-			Juan Daniel Pichardo Peña
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>139</td>
-		<td>
-			<a href="https://github.com/anezjonathan">
-				<img src="https://avatars.githubusercontent.com/u/2585300?s=72&v=4" width="24" alt="Avatar of anezjonathan"> anezjonathan
-			</a><br/>
-			idoxtreme
-		</td>
-		<td>Idoxtreme </td>
-		<td>No Twitter Username</td>
-		<td>27th Oloff Palme Street, Icatsa I, no 103, Los Prados, 10201, Santo Domingo, Distrito Nacional, Dominican Republic.</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/fulvi0">
-				<img src="https://avatars.githubusercontent.com/u/4769081?s=72&u=5c6791f4de7add5f8d0f7090b5a522c7dfa70113&v=4" width="24" alt="Avatar of fulvi0"> fulvi0
-			</a><br/>
-			Carlos Antonio
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>141</td>
-		<td>
-			<a href="https://github.com/ignaciojcano">
-				<img src="https://avatars.githubusercontent.com/u/2219837?s=72&v=4" width="24" alt="Avatar of ignaciojcano"> ignaciojcano
-			</a><br/>
-			Ignacio José Canó Cabral
-		</td>
-		<td>Soluciones Gbh </td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>142</td>
-		<td>
-			<a href="https://github.com/jadder">
-				<img src="https://avatars.githubusercontent.com/u/5987085?s=72&v=4" width="24" alt="Avatar of jadder"> jadder
-			</a><br/>
-			Jadder Moya
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Republica Dominicana</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/camilosanchez">
-				<img src="https://avatars.githubusercontent.com/u/3258057?s=72&u=68cfc73a505de4564e2eac438ec1ffc14a6435ba&v=4" width="24" alt="Avatar of camilosanchez"> camilosanchez
-			</a><br/>
-			Camilo Sanchez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
-			<a href="https://github.com/programingfrik">
-				<img src="https://avatars.githubusercontent.com/u/5130273?s=72&u=43a77476b3216f030477c2712e44644cc900a174&v=4" width="24" alt="Avatar of programingfrik"> programingfrik
-			</a><br/>
-			Pablo Mercader Alcántara
-		</td>
-		<td>None </td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>145</td>
-		<td>
-			<a href="https://github.com/anselcorona">
-				<img src="https://avatars.githubusercontent.com/u/8250575?s=72&u=a18e2a5e62847301cccb23407b9b80da3f7d2f10&v=4" width="24" alt="Avatar of anselcorona"> anselcorona
-			</a><br/>
-			Ansël E. Corona Coste
-		</td>
-		<td>@freelancing </td>
-		<td>No Twitter Username</td>
-		<td>Santiago de Los Caballeros, Dominican Republic</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>146</td>
-		<td>
-			<a href="https://github.com/xamiell">
-				<img src="https://avatars.githubusercontent.com/u/12973165?s=72&u=b30defd27a423ac2dc05b5e87433daf1302e8e53&v=4" width="24" alt="Avatar of xamiell"> xamiell
-			</a><br/>
-			Elias Pujols
-		</td>
-		<td>Https://www.corotos. </td>
-		<td><a href="https://twitter.com/xamiell">xamiell</a></td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
-			<a href="https://github.com/eefret">
-				<img src="https://avatars.githubusercontent.com/u/863005?s=72&u=cfa7e713d487e4a3ebee70518fadc8894a220f97&v=4" width="24" alt="Avatar of eefret"> eefret
-			</a><br/>
-			Christopher Herrera
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Republica Dominicana</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>148</td>
-		<td>
-			<a href="https://github.com/JuanCorp">
-				<img src="https://avatars.githubusercontent.com/u/27902909?s=72&u=b2fb402a888c1a29df51ed499ea3fd805dd2a815&v=4" width="24" alt="Avatar of JuanCorp"> JuanCorp
-			</a><br/>
-			Juan Alberto Nuñez Corporan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
-			<a href="https://github.com/xenomuta">
-				<img src="https://avatars.githubusercontent.com/u/498704?s=72&u=160850479d9c973e1736cde83883660eee91b4ae&v=4" width="24" alt="Avatar of xenomuta"> xenomuta
-			</a><br/>
-			Rilke Petrosky Ulloa
-		</td>
-		<td>Xenomuta.com </td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>150</td>
-		<td>
-			<a href="https://github.com/amaurygomez">
-				<img src="https://avatars.githubusercontent.com/u/1385965?s=72&u=acbed4c2bf8ca596b55a249475a3c5e4d416ab13&v=4" width="24" alt="Avatar of amaurygomez"> amaurygomez
-			</a><br/>
-			Amaury Gomez
-		</td>
-		<td>@react-rd  </td>
+		<td>Neotronic </td>
 		<td>No Twitter Username</td>
 		<td>Santo Domingo </td>
-		<td>1</td>
+		<td>24</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>252</td>
 		<td>
-			<a href="https://github.com/michaelmontero">
-				<img src="https://avatars.githubusercontent.com/u/19554679?s=72&u=7e69c32d68cf8dcff5825b9737e7b266c133cd8c&v=4" width="24" alt="Avatar of michaelmontero"> michaelmontero
+			<a href="https://github.com/im-dalex">
+				<img src="https://avatars.githubusercontent.com/u/49108521?s=72&u=9402112fc929eb1ce7091ddae26e04b89ab60183&v=4" width="24" alt="Avatar of im-dalex"> im-dalex
 			</a><br/>
-			Michael Montero
-		</td>
-		<td>Dinamic Developers  </td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>152</td>
-		<td>
-			<a href="https://github.com/Yathousen">
-				<img src="https://avatars.githubusercontent.com/u/44078602?s=72&u=d35b0567caa27fd8bc1617e526b15a623a3d7638&v=4" width="24" alt="Avatar of Yathousen"> Yathousen
-			</a><br/>
-			Yamil García Hernández
-		</td>
-		<td>Gbh </td>
-		<td>No Twitter Username</td>
-		<td>Santo Domingo</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>153</td>
-		<td>
-			<a href="https://github.com/theorlan2">
-				<img src="https://avatars.githubusercontent.com/u/4238561?s=72&u=78108ca0e78f97430ac3e1968fd506c06885a793&v=4" width="24" alt="Avatar of theorlan2"> theorlan2
-			</a><br/>
-			Dany Orlando Santos
+			Digno Alexander Familia
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santo Domingo</td>
-		<td>1</td>
+		<td>Santo Domingo, RD</td>
+		<td>24</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>253</td>
 		<td>
-			<a href="https://github.com/ccontreras">
-				<img src="https://avatars.githubusercontent.com/u/2854182?s=72&v=4" width="24" alt="Avatar of ccontreras"> ccontreras
+			<a href="https://github.com/Mdomingo63">
+				<img src="https://avatars.githubusercontent.com/u/55004017?s=72&u=83fe30a09c306852f097cf55292abcea6a12f772&v=4" width="24" alt="Avatar of Mdomingo63"> Mdomingo63
 			</a><br/>
-			César Contreras
+			No Name
 		</td>
-		<td>Olx Group </td>
-		<td><a href="https://twitter.com/ccon3ras">ccon3ras</a></td>
-		<td>Santo Domingo, Dominican Republic</td>
-		<td>1</td>
+		<td>Contador Independiente </td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, D. N. República Dominicana</td>
+		<td>24</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>254</td>
 		<td>
-			<a href="https://github.com/g4brieljs">
-				<img src="https://avatars.githubusercontent.com/u/33775546?s=72&u=7a7e2d98b0d9d23cacb00f0f18062ec43fb561ed&v=4" width="24" alt="Avatar of g4brieljs"> g4brieljs
+			<a href="https://github.com/emonteroe">
+				<img src="https://avatars.githubusercontent.com/u/5495662?s=72&u=2778e97ca0d35c23fb950857ae7837df03ac7ff1&v=4" width="24" alt="Avatar of emonteroe"> emonteroe
 			</a><br/>
-			Gabriel Jiménez
+			Emanuel Montero 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Santo Domingo </td>
-		<td>1</td>
+		<td>Santo Domingo, Dominican Republic</td>
+		<td>23</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>255</td>
 		<td>
-			<a href="https://github.com/GlinerCarvajal">
-				<img src="https://avatars.githubusercontent.com/u/20641468?s=72&u=38d595d6a3d76c29eb4f24b3f481e14a495a4e7d&v=4" width="24" alt="Avatar of GlinerCarvajal"> GlinerCarvajal
+			<a href="https://github.com/joseagrc">
+				<img src="https://avatars.githubusercontent.com/u/991821?s=72&u=5181e4cf3f28a1798017c8d991a80f4a6d0197a2&v=4" width="24" alt="Avatar of joseagrc"> joseagrc
 			</a><br/>
-			Gliner Carvajal
+			Jose Arturo Garcia
 		</td>
-		<td>Independent </td>
+		<td>Jose Arturo Garcia Duran<br/></td>
 		<td>No Twitter Username</td>
-		<td>Santo Domingo</td>
-		<td>1</td>
+		<td>Dominican Republic, Santo Domingo</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>256</td>
+		<td>
+			<a href="https://github.com/smnbst">
+				<img src="https://avatars.githubusercontent.com/u/19561159?s=72&v=4" width="24" alt="Avatar of smnbst"> smnbst
+			</a><br/>
+			Simon Perez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santo Domingo, Republica Dominicana</td>
+		<td>23</td>
 	</tr>
 </table>
 
@@ -2166,17 +3466,17 @@ There are `200 users`  in Dominican Republic. You need at least `7 followers` to
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20Dominican%20Republic%20or%20state&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Dominican%20Republic&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/dominican_republic.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Dominican%20Republic&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/dominican_republic.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/dominican_republic.md&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Dominican%20Republic&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20Dominican%20Republic%20or%20state&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/dominican_republic.md&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Dominican%20Republic&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Dominican%20Republic&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20Dominican%20Republic%20or%20state-https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/dominican_republic.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Dominican%20Republic&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/dominican_republic.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
