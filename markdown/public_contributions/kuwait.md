@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg" alt="Kuwait">
 </a>
 
-The `public contributions` by users in Kuwait on `2021/6/14 5:20 PM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
+The `public contributions` by users in Kuwait on `2021/6/15 1:12 AM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
 
-There are `99 countries/states` and `565 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `96 countries/states` and `548 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `200 users`  in Kuwait. You need at least `1 followers` to be on this list.
 
@@ -172,7 +172,7 @@ There are `200 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td>@barmej, @joincoded, @kuwaitcodes <br/></td>
 		<td><a href="https://twitter.com/omsi96">omsi96</a></td>
 		<td>Kuwait</td>
-		<td>411</td>
+		<td>413</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -884,7 +884,7 @@ There are `200 users`  in Kuwait. You need at least `1 followers` to be on this 
 			</a><br/>
 			Menawer
 		</td>
-		<td>Legit </td>
+		<td>Boubyan Bank </td>
 		<td><a href="https://twitter.com/eng_menawer">eng_menawer</a></td>
 		<td>Kuwait</td>
 		<td>34</td>

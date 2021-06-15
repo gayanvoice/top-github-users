@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg" alt="Kuwait">
 </a>
 
-The `public contributions` and `private contributions` by users in Kuwait on `2021/6/14 5:20 PM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
+The `public contributions` and `private contributions` by users in Kuwait on `2021/6/15 1:12 AM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
 
-There are `99 countries/states` and `565 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `96 countries/states` and `548 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `200 users`  in Kuwait. You need at least `1 followers` to be on this list.
 
@@ -123,7 +123,7 @@ There are `200 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td><a href="https://twitter.com/hussainarthuna">hussainarthuna</a></td>
 		<td>Kuwait</td>
 		<td>49</td>
-		<td>3517</td>
+		<td>3527</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -142,6 +142,20 @@ There are `200 users`  in Kuwait. You need at least `1 followers` to be on this 
 	<tr>
 		<td>4</td>
 		<td>
+			<a href="https://github.com/NaserAldeen">
+				<img src="https://avatars.githubusercontent.com/u/53401878?s=72&v=4" width="24" alt="Avatar of NaserAldeen"> NaserAldeen
+			</a><br/>
+			NaserAldeen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuwait</td>
+		<td>27</td>
+		<td>2619</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
 			<a href="https://github.com/malthunayan">
 				<img src="https://avatars.githubusercontent.com/u/53401880?s=72&u=d60373746384a3b8e382185f14bd17257aada1de&v=4" width="24" alt="Avatar of malthunayan"> malthunayan
 			</a><br/>
@@ -152,20 +166,6 @@ There are `200 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td>Kuwait</td>
 		<td>24</td>
 		<td>2542</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>
-			<a href="https://github.com/NaserAldeen">
-				<img src="https://avatars.githubusercontent.com/u/53401878?s=72&v=4" width="24" alt="Avatar of NaserAldeen"> NaserAldeen
-			</a><br/>
-			NaserAldeen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuwait</td>
-		<td>27</td>
-		<td>2510</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -221,7 +221,7 @@ There are `200 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td><a href="https://twitter.com/ACoders">ACoders</a></td>
 		<td>Kuwait</td>
 		<td>20</td>
-		<td>1280</td>
+		<td>1281</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -235,7 +235,7 @@ There are `200 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Kuwait</td>
 		<td>18</td>
-		<td>1126</td>
+		<td>1130</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -273,7 +273,7 @@ There are `200 users`  in Kuwait. You need at least `1 followers` to be on this 
 			</a><br/>
 			Menawer
 		</td>
-		<td>Legit </td>
+		<td>Boubyan Bank </td>
 		<td><a href="https://twitter.com/eng_menawer">eng_menawer</a></td>
 		<td>Kuwait</td>
 		<td>34</td>
@@ -304,8 +304,8 @@ There are `200 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td>@barmej, @joincoded, @kuwaitcodes <br/></td>
 		<td><a href="https://twitter.com/omsi96">omsi96</a></td>
 		<td>Kuwait</td>
-		<td>411</td>
-		<td>672</td>
+		<td>413</td>
+		<td>674</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -403,7 +403,7 @@ There are `200 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td><a href="https://twitter.com/hamadyalghanim">hamadyalghanim</a></td>
 		<td>Kuwait</td>
 		<td>27</td>
-		<td>410</td>
+		<td>411</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -529,7 +529,7 @@ There are `200 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Kuwait</td>
 		<td>53</td>
-		<td>245</td>
+		<td>246</td>
 	</tr>
 	<tr>
 		<td>32</td>

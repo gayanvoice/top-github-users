@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg" alt="Kuwait">
 </a>
 
-The `number of followers` of users in Kuwait on `2021/6/14 5:20 PM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
+The `number of followers` of users in Kuwait on `2021/6/15 1:12 AM UTC`. This list contains users from `Kuwait` and cities `Kuwait-city` `Al-jahra` `Mangaf` `Salmiya`.
 
-There are `99 countries/states` and `565 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `96 countries/states` and `548 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `200 users`  in Kuwait. You need at least `1 followers` to be on this list.
 
@@ -307,6 +307,19 @@ There are `200 users`  in Kuwait. You need at least `1 followers` to be on this 
 	<tr>
 		<td>17</td>
 		<td>
+			<a href="https://github.com/smokeme">
+				<img src="https://avatars.githubusercontent.com/u/18034561?s=72&u=4a666bfdb893a6ec57d9ec9a2f83eaf764af8298&v=4" width="24" alt="Avatar of smokeme"> smokeme
+			</a><br/>
+			Fawaz Al-Mutairi
+		</td>
+		<td>@joincoded  </td>
+		<td>No Twitter Username</td>
+		<td>Kuwait</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
 			<a href="https://github.com/Dreamersoul">
 				<img src="https://avatars.githubusercontent.com/u/6298868?s=72&u=6c13d2685c34979d1b0659e6563a14aff0fc29ea&v=4" width="24" alt="Avatar of Dreamersoul"> Dreamersoul
 			</a><br/>
@@ -316,19 +329,6 @@ There are `200 users`  in Kuwait. You need at least `1 followers` to be on this 
 		<td><a href="https://twitter.com/hamadyalghanim">hamadyalghanim</a></td>
 		<td>Kuwait</td>
 		<td>36</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
-			<a href="https://github.com/smokeme">
-				<img src="https://avatars.githubusercontent.com/u/18034561?s=72&u=4a666bfdb893a6ec57d9ec9a2f83eaf764af8298&v=4" width="24" alt="Avatar of smokeme"> smokeme
-			</a><br/>
-			Fawaz Al-Mutairi
-		</td>
-		<td>@joincoded  </td>
-		<td>No Twitter Username</td>
-		<td>Kuwait</td>
-		<td>35</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -494,7 +494,7 @@ There are `200 users`  in Kuwait. You need at least `1 followers` to be on this 
 			</a><br/>
 			Menawer
 		</td>
-		<td>Legit </td>
+		<td>Boubyan Bank </td>
 		<td><a href="https://twitter.com/eng_menawer">eng_menawer</a></td>
 		<td>Kuwait</td>
 		<td>21</td>
@@ -1945,19 +1945,6 @@ There are `200 users`  in Kuwait. You need at least `1 followers` to be on this 
 	<tr>
 		<td>143</td>
 		<td>
-			<a href="https://github.com/darkcoder57">
-				<img src="https://avatars.githubusercontent.com/u/8128501?s=72&u=ac0fa6c85a36d5dc62bc7d204519be58a5daeb3a&v=4" width="24" alt="Avatar of darkcoder57"> darkcoder57
-			</a><br/>
-			Zakir Hussain
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuwait</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
 			<a href="https://github.com/Al-Qallaf">
 				<img src="https://avatars.githubusercontent.com/u/1071282?s=72&u=5aff7f7c62c4ed2ab1150875cdff8be2120d7755&v=4" width="24" alt="Avatar of Al-Qallaf"> Al-Qallaf
 			</a><br/>
@@ -1965,6 +1952,19 @@ There are `200 users`  in Kuwait. You need at least `1 followers` to be on this 
 		</td>
 		<td>Brothersnet </td>
 		<td><a href="https://twitter.com/AlQallaf">AlQallaf</a></td>
+		<td>Kuwait</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
+			<a href="https://github.com/darkcoder57">
+				<img src="https://avatars.githubusercontent.com/u/8128501?s=72&u=ac0fa6c85a36d5dc62bc7d204519be58a5daeb3a&v=4" width="24" alt="Avatar of darkcoder57"> darkcoder57
+			</a><br/>
+			Zakir Hussain
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Kuwait</td>
 		<td>3</td>
 	</tr>
