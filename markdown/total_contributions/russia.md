@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" alt="Russia">
 </a>
 
-The `public contributions` and `private contributions` by users in Russia on `2021/6/14 4:35 AM UTC`. This list contains users from `Russia` and cities `Moscow` `Saint-petersburg` `Yekaterinburg` `Novosibirsk` `Kazan` `Omsk` `Volgograd` `Chelyabinsk` `Krasnoyarsk`.
+The `public contributions` and `private contributions` by users in Russia on `2021/6/15 5:33 AM UTC`. This list contains users from `Russia` and cities `Moscow` `Saint-petersburg` `Yekaterinburg` `Novosibirsk` `Kazan` `Omsk` `Volgograd` `Chelyabinsk` `Krasnoyarsk`.
 
-There are `71 countries/states` and `439 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `200 users`  in Russia. You need at least `200 followers` to be on this list.
+There are `200 users`  in Russia. You need at least `199 followers` to be on this list.
 
 <table>
 	<tr>
@@ -65,17 +65,17 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20country%20or%20state&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Russia&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/russia.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Russia&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/russia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/russia.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Russia&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20country%20or%20state&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/russia.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Russia&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Russia&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20country%20or%20state-https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/russia.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Russia&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/russia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
@@ -151,7 +151,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Moscow</td>
 		<td>884</td>
-		<td>5338</td>
+		<td>5360</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -164,8 +164,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moscow</td>
-		<td>5179</td>
-		<td>5179</td>
+		<td>5192</td>
+		<td>5192</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -179,7 +179,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Russia</td>
 		<td>61</td>
-		<td>4200</td>
+		<td>4202</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -192,8 +192,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>Home </td>
 		<td>No Twitter Username</td>
 		<td>Russia, Moscow</td>
-		<td>2698</td>
-		<td>3983</td>
+		<td>2716</td>
+		<td>4001</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -206,8 +206,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>@spiral  </td>
 		<td>No Twitter Username</td>
 		<td>Moscow</td>
-		<td>3827</td>
-		<td>3855</td>
+		<td>3837</td>
+		<td>3865</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -220,8 +220,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>@aligntech </td>
 		<td><a href="https://twitter.com/rtivital">rtivital</a></td>
 		<td>Moscow, Russia</td>
-		<td>2586</td>
-		<td>3738</td>
+		<td>2588</td>
+		<td>3740</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -234,8 +234,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>St. Petersburg, Russia</td>
-		<td>3727</td>
-		<td>3727</td>
+		<td>3735</td>
+		<td>3735</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -248,8 +248,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>Cto Salucyber, Architect @metarhia,<br/>Lecturer<br/>At<br/>Kpi<br/></td>
 		<td><a href="https://twitter.com/tshemsedinov">tshemsedinov</a></td>
 		<td>Kiev, Ukraine, Europe, Asia, Earth, USA, China, Russia, USSR, Kyiv, US</td>
-		<td>3483</td>
-		<td>3576</td>
+		<td>3484</td>
+		<td>3588</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -262,8 +262,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>@itgalaxy </td>
 		<td><a href="https://twitter.com/alexander_akait">alexander_akait</a></td>
 		<td>Russia, Kirov</td>
-		<td>3436</td>
-		<td>3531</td>
+		<td>3437</td>
+		<td>3532</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -276,8 +276,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>Yandex </td>
 		<td><a href="https://twitter.com/svetlyak40wt">svetlyak40wt</a></td>
 		<td>Russia, Moscow</td>
-		<td>3365</td>
-		<td>3365</td>
+		<td>3366</td>
+		<td>3366</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -290,8 +290,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moscow, Russia → Austin, TX, US</td>
-		<td>2604</td>
-		<td>3218</td>
+		<td>2606</td>
+		<td>3220</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -304,8 +304,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>@huawei @zerocracy </td>
 		<td><a href="https://twitter.com/yegor256">yegor256</a></td>
 		<td>Moscow, Russia</td>
-		<td>2111</td>
-		<td>2979</td>
+		<td>2122</td>
+		<td>2992</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -346,8 +346,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>@wemake-services And @dry-labs </td>
 		<td>No Twitter Username</td>
 		<td>Saint Petersburg, Russia</td>
-		<td>2713</td>
-		<td>2713</td>
+		<td>2718</td>
+		<td>2718</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -360,8 +360,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td> @redmadrobot </td>
 		<td><a href="https://twitter.com/_sergeysova">_sergeysova</a></td>
 		<td>Saint-Petersburg</td>
-		<td>1811</td>
-		<td>2647</td>
+		<td>1818</td>
+		<td>2655</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -374,8 +374,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>@framework7io  </td>
 		<td><a href="https://twitter.com/nolimits4web">nolimits4web</a></td>
 		<td>Rostov-on-Don, Russia</td>
-		<td>2368</td>
-		<td>2505</td>
+		<td>2369</td>
+		<td>2506</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -403,7 +403,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td><a href="https://twitter.com/danokhlopkov">danokhlopkov</a></td>
 		<td>Moscow, Russia</td>
 		<td>124</td>
-		<td>2394</td>
+		<td>2400</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -431,7 +431,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td><a href="https://twitter.com/skovorodan">skovorodan</a></td>
 		<td>Moscow</td>
 		<td>883</td>
-		<td>2269</td>
+		<td>2270</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -458,8 +458,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/forweb_en">forweb_en</a></td>
 		<td>Russian Federation, Moscow</td>
-		<td>257</td>
-		<td>1992</td>
+		<td>259</td>
+		<td>1994</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -472,8 +472,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>Remote Contractor </td>
 		<td>No Twitter Username</td>
 		<td>Kaluga, Russia</td>
-		<td>1953</td>
-		<td>1953</td>
+		<td>1954</td>
+		<td>1954</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -487,7 +487,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td><a href="https://twitter.com/yoksel_en">yoksel_en</a></td>
 		<td>Moscow</td>
 		<td>590</td>
-		<td>1850</td>
+		<td>1851</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -500,8 +500,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>@web-standards-ru </td>
 		<td><a href="https://twitter.com/pepelsbey">pepelsbey</a></td>
 		<td>St. Petersburg, Russia</td>
-		<td>1589</td>
-		<td>1706</td>
+		<td>1684</td>
+		<td>1801</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -528,8 +528,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Saint-Petersburg, Russia</td>
-		<td>652</td>
-		<td>1606</td>
+		<td>657</td>
+		<td>1611</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -570,8 +570,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>@jetbrains </td>
 		<td>No Twitter Username</td>
 		<td>Russia, Novosibirsk</td>
-		<td>1430</td>
-		<td>1430</td>
+		<td>1435</td>
+		<td>1435</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -612,8 +612,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Krasnoyarsk, Russia</td>
-		<td>944</td>
-		<td>1280</td>
+		<td>946</td>
+		<td>1282</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -626,8 +626,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>@grafana </td>
 		<td>No Twitter Username</td>
 		<td>Moscow, Russia</td>
-		<td>913</td>
-		<td>1276</td>
+		<td>914</td>
+		<td>1282</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -646,6 +646,20 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 	<tr>
 		<td>40</td>
 		<td>
+			<a href="https://github.com/gobwas">
+				<img src="https://avatars.githubusercontent.com/u/675117?s=72&v=4" width="24" alt="Avatar of gobwas"> gobwas
+			</a><br/>
+			Sergey Kamardin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mocsow, Russia</td>
+		<td>179</td>
+		<td>1241</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
 			<a href="https://github.com/AlexxIT">
 				<img src="https://avatars.githubusercontent.com/u/511909?s=72&u=e204ee17a09c8f5949b1322cb26aa5700d7422ba&v=4" width="24" alt="Avatar of AlexxIT"> AlexxIT
 			</a><br/>
@@ -656,20 +670,6 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>Russia</td>
 		<td>1238</td>
 		<td>1238</td>
-	</tr>
-	<tr>
-		<td>41</td>
-		<td>
-			<a href="https://github.com/gobwas">
-				<img src="https://avatars.githubusercontent.com/u/675117?s=72&v=4" width="24" alt="Avatar of gobwas"> gobwas
-			</a><br/>
-			Sergey Kamardin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mocsow, Russia</td>
-		<td>175</td>
-		<td>1236</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -766,8 +766,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>Skyeng </td>
 		<td><a href="https://twitter.com/iosartem">iosartem</a></td>
 		<td>Omsk, Russia</td>
-		<td>211</td>
-		<td>1064</td>
+		<td>214</td>
+		<td>1080</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -780,8 +780,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Krasnoyark, Russia</td>
-		<td>283</td>
-		<td>994</td>
+		<td>285</td>
+		<td>1001</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -794,8 +794,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montréal / Saint-Petersburg</td>
-		<td>962</td>
-		<td>962</td>
+		<td>982</td>
+		<td>982</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -892,8 +892,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Russian Federation, Moscow region</td>
-		<td>842</td>
-		<td>842</td>
+		<td>843</td>
+		<td>843</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -920,8 +920,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Cluster_M">Cluster_M</a></td>
 		<td>Russia, Elektrostal</td>
-		<td>770</td>
-		<td>770</td>
+		<td>772</td>
+		<td>772</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -949,7 +949,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Russia</td>
 		<td>13</td>
-		<td>733</td>
+		<td>736</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -963,7 +963,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>St. Petersburg, Russia</td>
 		<td>9</td>
-		<td>672</td>
+		<td>676</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -976,11 +976,25 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>@catalyst-team </td>
 		<td><a href="https://twitter.com/Scitator">Scitator</a></td>
 		<td>Moscow</td>
-		<td>521</td>
-		<td>665</td>
+		<td>522</td>
+		<td>666</td>
 	</tr>
 	<tr>
 		<td>64</td>
+		<td>
+			<a href="https://github.com/bravit">
+				<img src="https://avatars.githubusercontent.com/u/298521?s=72&u=f2bf3cc53dfd445bcdefae3a39ebbfa7a2b72c55&v=4" width="24" alt="Avatar of bravit"> bravit
+			</a><br/>
+			Vitaly Bragilevsky
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Saint-Petersburg, Russia</td>
+		<td>148</td>
+		<td>662</td>
+	</tr>
+	<tr>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/puzrin">
 				<img src="https://avatars.githubusercontent.com/u/319465?s=72&v=4" width="24" alt="Avatar of puzrin"> puzrin
@@ -994,7 +1008,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>658</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/sergeche">
 				<img src="https://avatars.githubusercontent.com/u/93595?s=72&v=4" width="24" alt="Avatar of sergeche"> sergeche
@@ -1004,22 +1018,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>Odnoklassniki </td>
 		<td><a href="https://twitter.com/chikuyonok">chikuyonok</a></td>
 		<td>Saint-Petersburg, Russia</td>
-		<td>655</td>
-		<td>655</td>
-	</tr>
-	<tr>
-		<td>66</td>
-		<td>
-			<a href="https://github.com/bravit">
-				<img src="https://avatars.githubusercontent.com/u/298521?s=72&u=f2bf3cc53dfd445bcdefae3a39ebbfa7a2b72c55&v=4" width="24" alt="Avatar of bravit"> bravit
-			</a><br/>
-			Vitaly Bragilevsky
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Saint-Petersburg, Russia</td>
-		<td>148</td>
-		<td>654</td>
+		<td>656</td>
+		<td>656</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -1047,7 +1047,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td><a href="https://twitter.com/ArtKirienko">ArtKirienko</a></td>
 		<td>Russian Federation, Moscow</td>
 		<td>243</td>
-		<td>611</td>
+		<td>612</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -1103,7 +1103,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Moscow</td>
 		<td>36</td>
-		<td>561</td>
+		<td>565</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1117,7 +1117,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Moscow, Russia</td>
 		<td>1</td>
-		<td>544</td>
+		<td>545</td>
 	</tr>
 	<tr>
 		<td>74</td>
@@ -1144,8 +1144,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>Looking For A Good<br/>Job<br/>-)<br/></td>
 		<td>No Twitter Username</td>
 		<td>Russia</td>
-		<td>509</td>
-		<td>509</td>
+		<td>510</td>
+		<td>510</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1172,8 +1172,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>Tyk.io </td>
 		<td><a href="https://twitter.com/buger">buger</a></td>
 		<td>Saint Petersburg</td>
-		<td>312</td>
-		<td>495</td>
+		<td>313</td>
+		<td>497</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1318,6 +1318,20 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 	<tr>
 		<td>88</td>
 		<td>
+			<a href="https://github.com/enghamzasalem">
+				<img src="https://avatars.githubusercontent.com/u/14800560?s=72&u=3332d1a4a9f0fe319d75d926003848817001cd91&v=4" width="24" alt="Avatar of enghamzasalem"> enghamzasalem
+			</a><br/>
+			Hamza Salem
+		</td>
+		<td>I Can Do Push-up<br/>On<br/>One<br/>Arm<br/>3<br/>Fingers<br/></td>
+		<td><a href="https://twitter.com/enghamzasalem">enghamzasalem</a></td>
+		<td>Amman Jordan / Innopolis Russia </td>
+		<td>167</td>
+		<td>399</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
 			<a href="https://github.com/etolstoy">
 				<img src="https://avatars.githubusercontent.com/u/3955262?s=72&u=159a9ad2c313bad4b09da685f3c934d610b0d957&v=4" width="24" alt="Avatar of etolstoy"> etolstoy
 			</a><br/>
@@ -1330,7 +1344,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>399</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/graninas">
 				<img src="https://avatars.githubusercontent.com/u/828659?s=72&u=2a058c517ac5be16348c54654a8a5fa6a9c39afe&v=4" width="24" alt="Avatar of graninas"> graninas
@@ -1344,7 +1358,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>397</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/vpisarev">
 				<img src="https://avatars.githubusercontent.com/u/2110786?s=72&u=c2e6d7949ad8d5b897066d660e2c403a88c4c59e&v=4" width="24" alt="Avatar of vpisarev"> vpisarev
@@ -1354,22 +1368,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Russia</td>
-		<td>394</td>
-		<td>394</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
-			<a href="https://github.com/enghamzasalem">
-				<img src="https://avatars.githubusercontent.com/u/14800560?s=72&u=3332d1a4a9f0fe319d75d926003848817001cd91&v=4" width="24" alt="Avatar of enghamzasalem"> enghamzasalem
-			</a><br/>
-			Hamza Salem
-		</td>
-		<td>I Can Do Push-up<br/>On<br/>One<br/>Arm<br/>3<br/>Fingers<br/></td>
-		<td><a href="https://twitter.com/enghamzasalem">enghamzasalem</a></td>
-		<td>Amman Jordan / Innopolis Russia </td>
-		<td>167</td>
-		<td>390</td>
+		<td>395</td>
+		<td>395</td>
 	</tr>
 	<tr>
 		<td>92</td>
@@ -1396,8 +1396,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Russia</td>
-		<td>367</td>
-		<td>368</td>
+		<td>373</td>
+		<td>374</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1592,8 +1592,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>Stas'm Corp. </td>
 		<td><a href="https://twitter.com/x86corez">x86corez</a></td>
 		<td>Russia, Moscow</td>
-		<td>283</td>
-		<td>283</td>
+		<td>284</td>
+		<td>284</td>
 	</tr>
 	<tr>
 		<td>108</td>
@@ -1704,8 +1704,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Russia</td>
-		<td>231</td>
-		<td>231</td>
+		<td>234</td>
+		<td>234</td>
 	</tr>
 	<tr>
 		<td>116</td>
@@ -1788,8 +1788,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>Supercomputer Center Of The<br/>Russian<br/>Academy<br/>Of<br/>Sciences<br/></td>
 		<td>No Twitter Username</td>
 		<td>Kazan, Russia</td>
-		<td>182</td>
-		<td>182</td>
+		<td>184</td>
+		<td>184</td>
 	</tr>
 	<tr>
 		<td>122</td>
@@ -1836,6 +1836,20 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 	<tr>
 		<td>125</td>
 		<td>
+			<a href="https://github.com/igorbarinov">
+				<img src="https://avatars.githubusercontent.com/u/424628?s=72&u=c03fbbbfebd84fe8c337c1625801fd97f6a7c537&v=4" width="24" alt="Avatar of igorbarinov"> igorbarinov
+			</a><br/>
+			Igor Barinov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moscow, Russia</td>
+		<td>110</td>
+		<td>162</td>
+	</tr>
+	<tr>
+		<td>126</td>
+		<td>
 			<a href="https://github.com/Dyakonov">
 				<img src="https://avatars.githubusercontent.com/u/8238773?s=72&v=4" width="24" alt="Avatar of Dyakonov"> Dyakonov
 			</a><br/>
@@ -1845,20 +1859,6 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Russia</td>
 		<td>161</td>
-		<td>161</td>
-	</tr>
-	<tr>
-		<td>126</td>
-		<td>
-			<a href="https://github.com/igorbarinov">
-				<img src="https://avatars.githubusercontent.com/u/424628?s=72&u=c03fbbbfebd84fe8c337c1625801fd97f6a7c537&v=4" width="24" alt="Avatar of igorbarinov"> igorbarinov
-			</a><br/>
-			Igor Barinov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moscow, Russia</td>
-		<td>109</td>
 		<td>161</td>
 	</tr>
 	<tr>
@@ -1886,8 +1886,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>Mlart </td>
 		<td><a href="https://twitter.com/tg_bomze">tg_bomze</a></td>
 		<td>Russia</td>
-		<td>147</td>
-		<td>147</td>
+		<td>149</td>
+		<td>149</td>
 	</tr>
 	<tr>
 		<td>129</td>
@@ -2082,8 +2082,8 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>Rubedo Cloud </td>
 		<td><a href="https://twitter.com/bobuk">bobuk</a></td>
 		<td>Russia, Moscow</td>
-		<td>83</td>
-		<td>83</td>
+		<td>87</td>
+		<td>87</td>
 	</tr>
 	<tr>
 		<td>143</td>
@@ -2130,6 +2130,20 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 	<tr>
 		<td>146</td>
 		<td>
+			<a href="https://github.com/khusnetdinov">
+				<img src="https://avatars.githubusercontent.com/u/3524630?s=72&u=83bd1409214ae19059ef6a629cbfecf11bdd184b&v=4" width="24" alt="Avatar of khusnetdinov"> khusnetdinov
+			</a><br/>
+			Marat Khusnetdinov
+		</td>
+		<td>@howtohireme, @symbiod </td>
+		<td>No Twitter Username</td>
+		<td>Voronezh, Russia</td>
+		<td>30</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
 			<a href="https://github.com/kovshenin">
 				<img src="https://avatars.githubusercontent.com/u/108344?s=72&v=4" width="24" alt="Avatar of kovshenin"> kovshenin
 			</a><br/>
@@ -2139,20 +2153,6 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td><a href="https://twitter.com/kovshenin">kovshenin</a></td>
 		<td>Moscow, Russia</td>
 		<td>66</td>
-		<td>66</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
-			<a href="https://github.com/khusnetdinov">
-				<img src="https://avatars.githubusercontent.com/u/3524630?s=72&u=83bd1409214ae19059ef6a629cbfecf11bdd184b&v=4" width="24" alt="Avatar of khusnetdinov"> khusnetdinov
-			</a><br/>
-			Marat Khusnetdinov
-		</td>
-		<td>@howtohireme, @symbiod </td>
-		<td>No Twitter Username</td>
-		<td>Voronezh, Russia</td>
-		<td>28</td>
 		<td>66</td>
 	</tr>
 	<tr>
@@ -2228,6 +2228,20 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 	<tr>
 		<td>153</td>
 		<td>
+			<a href="https://github.com/MikeMirzayanov">
+				<img src="https://avatars.githubusercontent.com/u/1701892?s=72&v=4" width="24" alt="Avatar of MikeMirzayanov"> MikeMirzayanov
+			</a><br/>
+			Mike Mirzayanov
+		</td>
+		<td>Codeforces, Itmo </td>
+		<td>No Twitter Username</td>
+		<td>Saint Petersburg</td>
+		<td>53</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>154</td>
+		<td>
 			<a href="https://github.com/ArtemOnigiri">
 				<img src="https://avatars.githubusercontent.com/u/4548010?s=72&u=dab65525780e907a121a69d88b684302590bc3b1&v=4" width="24" alt="Avatar of ArtemOnigiri"> ArtemOnigiri
 			</a><br/>
@@ -2240,7 +2254,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/vladilenm">
 				<img src="https://avatars.githubusercontent.com/u/11278675?s=72&u=2c6b571cd78b561b739bca16512b2c902677b65e&v=4" width="24" alt="Avatar of vladilenm"> vladilenm
@@ -2254,7 +2268,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/catamphetamine">
 				<img src="https://avatars.githubusercontent.com/u/477167?s=72&u=3c48fac849cc498b3a32273fb49d7bc72dd322d0&v=4" width="24" alt="Avatar of catamphetamine"> catamphetamine
@@ -2268,7 +2282,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/milabs">
 				<img src="https://avatars.githubusercontent.com/u/624823?s=72&u=10a8a2b8edff92c6698fbb1d2bba66d599c9293c&v=4" width="24" alt="Avatar of milabs"> milabs
@@ -2282,7 +2296,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/ksemaev">
 				<img src="https://avatars.githubusercontent.com/u/20893598?s=72&u=388341383ce3fdf17cc9ddff0177aac5c909ae5a&v=4" width="24" alt="Avatar of ksemaev"> ksemaev
@@ -2296,7 +2310,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/maxlapshin">
 				<img src="https://avatars.githubusercontent.com/u/4511?s=72&v=4" width="24" alt="Avatar of maxlapshin"> maxlapshin
@@ -2310,7 +2324,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/stek29">
 				<img src="https://avatars.githubusercontent.com/u/11808223?s=72&u=5502690483766585ae9787f7770cbe29cf34e5f3&v=4" width="24" alt="Avatar of stek29"> stek29
@@ -2322,20 +2336,6 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>Moscow, Russia</td>
 		<td>48</td>
 		<td>48</td>
-	</tr>
-	<tr>
-		<td>160</td>
-		<td>
-			<a href="https://github.com/MikeMirzayanov">
-				<img src="https://avatars.githubusercontent.com/u/1701892?s=72&v=4" width="24" alt="Avatar of MikeMirzayanov"> MikeMirzayanov
-			</a><br/>
-			Mike Mirzayanov
-		</td>
-		<td>Codeforces, Itmo </td>
-		<td>No Twitter Username</td>
-		<td>Saint Petersburg</td>
-		<td>47</td>
-		<td>47</td>
 	</tr>
 	<tr>
 		<td>161</td>
@@ -2578,14 +2578,14 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 	<tr>
 		<td>178</td>
 		<td>
-			<a href="https://github.com/lieff">
-				<img src="https://avatars.githubusercontent.com/u/10080078?s=72&u=799fccc1bb695ab57814b3c6b9fb8e84b8ab0fd1&v=4" width="24" alt="Avatar of lieff"> lieff
+			<a href="https://github.com/abreslav">
+				<img src="https://avatars.githubusercontent.com/u/888318?s=72&v=4" width="24" alt="Avatar of abreslav"> abreslav
 			</a><br/>
-			Lion
+			Andrey Breslav
 		</td>
-		<td>No Company</td>
+		<td>Jetbrains </td>
 		<td>No Twitter Username</td>
-		<td>Moscow</td>
+		<td>Saint Petersburg, Russia</td>
 		<td>21</td>
 		<td>21</td>
 	</tr>
@@ -2606,20 +2606,6 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 	<tr>
 		<td>180</td>
 		<td>
-			<a href="https://github.com/abreslav">
-				<img src="https://avatars.githubusercontent.com/u/888318?s=72&v=4" width="24" alt="Avatar of abreslav"> abreslav
-			</a><br/>
-			Andrey Breslav
-		</td>
-		<td>Jetbrains </td>
-		<td>No Twitter Username</td>
-		<td>Saint Petersburg, Russia</td>
-		<td>20</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>181</td>
-		<td>
 			<a href="https://github.com/Prototik">
 				<img src="https://avatars.githubusercontent.com/u/1416030?s=72&u=7f979887f55b3ac492bad81330782180a967f8f5&v=4" width="24" alt="Avatar of Prototik"> Prototik
 			</a><br/>
@@ -2632,7 +2618,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/miripiruni">
 				<img src="https://avatars.githubusercontent.com/u/144537?s=72&u=a135d7902961caa2a60b2df285bd021105b5d794&v=4" width="24" alt="Avatar of miripiruni"> miripiruni
@@ -2646,7 +2632,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/rpolonsky">
 				<img src="https://avatars.githubusercontent.com/u/3326345?s=72&u=8b22e6de9cd4aad5c838a4a7270691bcedb8baf3&v=4" width="24" alt="Avatar of rpolonsky"> rpolonsky
@@ -2660,7 +2646,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/Mila432">
 				<img src="https://avatars.githubusercontent.com/u/472947?s=72&u=62610fd4cc5d3f41d73888d8030b01caaf634796&v=4" width="24" alt="Avatar of Mila432"> Mila432
@@ -2674,7 +2660,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/arut">
 				<img src="https://avatars.githubusercontent.com/u/1236368?s=72&u=96daeb01f07c1fdfe663470bbd8adc86786ce11b&v=4" width="24" alt="Avatar of arut"> arut
@@ -2688,7 +2674,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/DenisIzmaylov">
 				<img src="https://avatars.githubusercontent.com/u/1690596?s=72&u=c62dcbacc1931f5ad26ceaca12c83eac5910effb&v=4" width="24" alt="Avatar of DenisIzmaylov"> DenisIzmaylov
@@ -2702,7 +2688,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/GenaANTG">
 				<img src="https://avatars.githubusercontent.com/u/12715550?s=72&u=6e4ce99066ea8e1c48af446ff7889832078bf783&v=4" width="24" alt="Avatar of GenaANTG"> GenaANTG
@@ -2716,7 +2702,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/vbauer">
 				<img src="https://avatars.githubusercontent.com/u/578021?s=72&u=70e7c095a5c56a80722bdec446993a1e6165ce2a&v=4" width="24" alt="Avatar of vbauer"> vbauer
@@ -2730,7 +2716,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>189</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/yaroslav">
 				<img src="https://avatars.githubusercontent.com/u/4277?s=72&u=ff4e345a2e161b4baeda1e5bc4b33df520193675&v=4" width="24" alt="Avatar of yaroslav"> yaroslav
@@ -2744,7 +2730,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/Sannis">
 				<img src="https://avatars.githubusercontent.com/u/77367?s=72&u=935a28f6caa974883df0240e340fbb3f1b285ff9&v=4" width="24" alt="Avatar of Sannis"> Sannis
@@ -2758,7 +2744,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/meritt">
 				<img src="https://avatars.githubusercontent.com/u/10909?s=72&u=f9c0e3e25f8d2e4cd5b10d37d3981106904f99a9&v=4" width="24" alt="Avatar of meritt"> meritt
@@ -2772,7 +2758,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/veged">
 				<img src="https://avatars.githubusercontent.com/u/15365?s=72&u=bedf0101c37be73011474f9c5b88eb4efcb2a5f4&v=4" width="24" alt="Avatar of veged"> veged
@@ -2786,7 +2772,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/geffy">
 				<img src="https://avatars.githubusercontent.com/u/7967030?s=72&v=4" width="24" alt="Avatar of geffy"> geffy
@@ -2800,7 +2786,7 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/Arturus">
 				<img src="https://avatars.githubusercontent.com/u/1012117?s=72&v=4" width="24" alt="Avatar of Arturus"> Arturus
@@ -2855,17 +2841,17 @@ There are `200 users`  in Russia. You need at least `200 followers` to be on thi
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20Russia%20or%20state&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Russia&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/russia.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Russia&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/russia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/russia.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Russia&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20Russia%20or%20state&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/russia.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Russia&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Russia&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20Russia%20or%20state-https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/russia.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Russia&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/russia.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
