@@ -5,9 +5,9 @@
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/15 4:42 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/15 4:51 AM UTC`.
 
-This repository contains users `136 countries/states` and `685 cities`. 
+This repository contains users `136 countries` and `685 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
 
 The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -52,17 +52,17 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20and%20number%20of%20followers%20by%20country%20or%20state&t=Top%20GitHub%20Users%20By%20Country&u=https://github.com/gayanvoice/top-github-users">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Country&u=https://github.com/gayanvoice/top-github-users">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users&t=Top%20GitHub%20Users%20By%20Country&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20and%20number%20of%20followers%20by%20country%20or%20state&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users&t=Top%20GitHub%20Users%20By%20Country&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Country&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20and%20number%20of%20followers%20by%20country%20or%20state-https://github.com/gayanvoice/top-github-users">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Country&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country-https://github.com/gayanvoice/top-github-users">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
@@ -2034,17 +2034,17 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20and%20number%20of%20followers%20by%20country%20or%20state&t=Top%20GitHub%20Users%20By%20Country&u=https://github.com/gayanvoice/top-github-users">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Country&u=https://github.com/gayanvoice/top-github-users">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users&t=Top%20GitHub%20Users%20By%20Country&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20and%20number%20of%20followers%20by%20country%20or%20state&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users&t=Top%20GitHub%20Users%20By%20Country&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Country&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20and%20number%20of%20followers%20by%20country%20or%20state-https://github.com/gayanvoice/top-github-users">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Country&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country-https://github.com/gayanvoice/top-github-users">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
