@@ -5,9 +5,9 @@
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/15 3:56 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/15 4:04 AM UTC`.
 
-This repository contains users `96 countries/states` and `548 cities`. 
+This repository contains users `136 countries/states` and `686 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
 
 The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -1420,6 +1420,20 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/oman.md">
+				Oman
+			</a>
+		</td>
+		<td>
+			<code>Muscat</code> 
+			<code>Salalah</code> 
+			<code>Nizwa</code> 
+			<code>Sohar</code> 
+			<code>Seeb</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/pakistan.md">
 				Pakistan
 			</a>
@@ -1431,6 +1445,108 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>Faisalabad</code> 
 			<code>Peshawar</code> 
 			<code>Quetta</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/panama.md">
+				Panama
+			</a>
+		</td>
+		<td>
+			<code>Panama-city</code> 
+			<code>Tocumen</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/paraguay.md">
+				Paraguay
+			</a>
+		</td>
+		<td>
+			<code>Asunción </code> 
+			<code>Ciudad-del-este</code> 
+			<code>Encarnacion</code> 
+			<code>Luque-paraguay</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/peru.md">
+				Peru
+			</a>
+		</td>
+		<td>
+			<code>Lima </code> 
+			<code>Arequipa</code> 
+			<code>Cusco</code> 
+			<code>Chiclayo</code> 
+			<code>Huancayo</code> 
+			<code>Piura</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/philippines.md">
+				Philippines
+			</a>
+		</td>
+		<td>
+			<code>Manila</code> 
+			<code>Quezon-city</code> 
+			<code>Davao-city</code> 
+			<code>Cebu-city</code> 
+			<code>Makati</code> 
+			<code>Baguio</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/poland.md">
+				Poland
+			</a>
+		</td>
+		<td>
+			<code>Warsaw</code> 
+			<code>Kraków</code> 
+			<code>Wrocław</code> 
+			<code>Gdańsk</code> 
+			<code>Poznań</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/portugal.md">
+				Portugal
+			</a>
+		</td>
+		<td>
+			<code>Lisbon</code> 
+			<code>Porto</code> 
+			<code>Braga</code> 
+			<code>Coimbra</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/qatar.md">
+				Qatar
+			</a>
+		</td>
+		<td>
+			<code>Doha</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/romania.md">
+				Romania
+			</a>
+		</td>
+		<td>
+			<code>Bucharest</code> 
+			<code>Constanța</code> 
 		</td>
 	</tr>
 	<tr>
@@ -1453,6 +1569,16 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/rwanda.md">
+				Rwanda
+			</a>
+		</td>
+		<td>
+			<code>Kigali</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/saudi_arabia.md">
 				Saudi Arabia
 			</a>
@@ -1465,6 +1591,113 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>Khamismushait</code> 
 			<code>Dammam</code> 
 			<code>Abha</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/senegal.md">
+				Senegal
+			</a>
+		</td>
+		<td>
+			<code>Dakar</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/serbia.md">
+				Serbia
+			</a>
+		</td>
+		<td>
+			<code>Belgrade</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/sierra_leone.md">
+				Sierra Leone
+			</a>
+		</td>
+		<td>
+			<code>Freetown</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/singapore.md">
+				Singapore
+			</a>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/slovakia.md">
+				Slovakia
+			</a>
+		</td>
+		<td>
+			<code>Bratislava</code> 
+			<code>Košice</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/slovenia.md">
+				Slovenia
+			</a>
+		</td>
+		<td>
+			<code>Ljubljana</code> 
+			<code>Maribor</code> 
+			<code>Koper</code> 
+			<code>Kranj</code> 
+			<code>Celje</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/south_africa.md">
+				South Africa
+			</a>
+		</td>
+		<td>
+			<code>Cape-town</code> 
+			<code>Johannesburg</code> 
+			<code>Durban</code> 
+			<code>Pretoria</code> 
+			<code>Soweto</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/south_korea.md">
+				South Korea
+			</a>
+		</td>
+		<td>
+			<code>Seoul</code> 
+			<code>Busan</code> 
+			<code>Incheon</code> 
+			<code>Daegu</code> 
+			<code>Ulsan</code> 
+			<code>Daejeon</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/spain.md">
+				Spain
+			</a>
+		</td>
+		<td>
+			<code>Madrid</code> 
+			<code>Barcelona</code> 
+			<code>Seville</code> 
+			<code>Valencia </code> 
+			<code>Bilbao</code> 
 		</td>
 	</tr>
 	<tr>
@@ -1484,6 +1717,70 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/state_of palestine.md">
+				State Of Palestine
+			</a>
+		</td>
+		<td>
+			<code>Gaza</code> 
+			<code>Khan-yunis</code> 
+			<code>Jabalia </code> 
+			<code>Hebron</code> 
+			<code>Nablus</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/sudan.md">
+				Sudan
+			</a>
+		</td>
+		<td>
+			<code>Khartoum</code> 
+			<code>Omdurman</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/sweden.md">
+				Sweden
+			</a>
+		</td>
+		<td>
+			<code>Stockholm</code> 
+			<code>Gothenburg</code> 
+			<code>Uppsala</code> 
+			<code>Helsingborg</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/switzerland.md">
+				Switzerland
+			</a>
+		</td>
+		<td>
+			<code>Zürich</code> 
+			<code>Geneva</code> 
+			<code>Basel</code> 
+			<code>Lausanne</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/syria.md">
+				Syria
+			</a>
+		</td>
+		<td>
+			<code>Damascus</code> 
+			<code>Aleppo</code> 
+			<code>Homs</code> 
+			<code>Latakia</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/taiwan.md">
 				Taiwan
 			</a>
@@ -1493,6 +1790,207 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>Kaohsiung</code> 
 			<code>Tainan</code> 
 			<code>Taichung </code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/tanzania.md">
+				Tanzania
+			</a>
+		</td>
+		<td>
+			<code>Dar-es-salaam</code> 
+			<code>Mwanza</code> 
+			<code>Dodoma</code> 
+			<code>Mbeya</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/thailand.md">
+				Thailand
+			</a>
+		</td>
+		<td>
+			<code>Bangkok</code> 
+			<code>Chiang-mai</code> 
+			<code>Phuket</code> 
+			<code>Pattaya</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/tunisia.md">
+				Tunisia
+			</a>
+		</td>
+		<td>
+			<code>Tunis</code> 
+			<code>Sfax</code> 
+			<code>Sousse</code> 
+			<code>Kairouan</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/turkey.md">
+				Turkey
+			</a>
+		</td>
+		<td>
+			<code>Istanbul</code> 
+			<code>Ankara</code> 
+			<code>Izmir</code> 
+			<code>Konya</code> 
+			<code>Gaziantep</code> 
+			<code>Adana</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/uganda.md">
+				Uganda
+			</a>
+		</td>
+		<td>
+			<code>Kampala</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/ukraine.md">
+				Ukraine
+			</a>
+		</td>
+		<td>
+			<code>Kyiv</code> 
+			<code>Lviv</code> 
+			<code>Kharkiv</code> 
+			<code>Odesa</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/united_arab emirates.md">
+				United Arab Emirates
+			</a>
+		</td>
+		<td>
+			<code>Dubai</code> 
+			<code>Abu-dhabi</code> 
+			<code>Sharjah</code> 
+			<code>Ajman</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/united_kingdom.md">
+				United Kingdom
+			</a>
+		</td>
+		<td>
+			<code>London</code> 
+			<code>Birmingham</code> 
+			<code>Edinburgh</code> 
+			<code>Manchester</code> 
+			<code>Glasgow</code> 
+			<code>Liverpool</code> 
+			<code>Bristol</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/united_states of america.md">
+				United States Of America
+			</a>
+		</td>
+		<td>
+			<code>New-york</code> 
+			<code>Chicago</code> 
+			<code>Los-angeles</code> 
+			<code>San-francisco</code> 
+			<code>Philadelphia</code> 
+			<code>Austin</code> 
+			<code>Seattle</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/uruguay.md">
+				Uruguay
+			</a>
+		</td>
+		<td>
+			<code>Montevideo</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/uzbekistan.md">
+				Uzbekistan
+			</a>
+		</td>
+		<td>
+			<code>Samarkand</code> 
+			<code>Tashkent</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/venezuela.md">
+				Venezuela
+			</a>
+		</td>
+		<td>
+			<code>Caracas</code> 
+			<code>Maracay</code> 
+			<code>Maracaibo</code> 
+			<code>Guayana-city</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/vietnam.md">
+				Vietnam
+			</a>
+		</td>
+		<td>
+			<code>Ho-chi-minh-city</code> 
+			<code>Hanoi</code> 
+			<code>Da-nang</code> 
+			<code>Can-tho</code> 
+			<code>Haiphong</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/yemen.md">
+				Yemen
+			</a>
+		</td>
+		<td>
+			<code> Sana'a</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/zambia.md">
+				Zambia
+			</a>
+		</td>
+		<td>
+			<code> Lusaka</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/zimbabwe.md">
+				Zimbabwe
+			</a>
+		</td>
+		<td>
+			<code>Harare</code> 
+			<code>Bulawayo</code> 
 		</td>
 	</tr>
 </table>
