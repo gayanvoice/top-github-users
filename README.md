@@ -5,9 +5,9 @@
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/15 12:36 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/15 1:09 AM UTC`.
 
-This repository contains users `99 countries/states` and `565 cities`. 
+This repository contains users `96 countries/states` and `548 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
 
 The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -1106,38 +1106,6 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/lebanon.md">
-				Lebanon
-			</a>
-		</td>
-		<td>
-			<code>Beirut</code> 
-			<code>Tripoli</code> 
-			<code>Sidon</code> 
-			<code>Byblos</code> 
-			<code>Jounieh</code> 
-			<code>Zgharta</code> 
-			<code>Aley</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/lebanon.md">
-				Lebanon
-			</a>
-		</td>
-		<td>
-			<code>Beirut</code> 
-			<code>Tripoli</code> 
-			<code>Sidon</code> 
-			<code>Byblos</code> 
-			<code>Jounieh</code> 
-			<code>Zgharta</code> 
-			<code>Aley</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/lithuania.md">
 				Lithuania
 			</a>
@@ -1149,18 +1117,6 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>Siauliai</code> 
 			<code>Panevėžys</code> 
 			<code>Alytus</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/luxembourg.md">
-				Luxembourg
-			</a>
-		</td>
-		<td>
-			<code>Echternach</code> 
-			<code>Esch-sur-alzette</code> 
-			<code>Pétange</code> 
 		</td>
 	</tr>
 	<tr>
