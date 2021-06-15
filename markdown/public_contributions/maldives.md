@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg" alt="Maldives">
 </a>
 
-The `public contributions` by users in Maldives on `2021/6/14 4:01 AM UTC`. This list contains users from `Maldives` and cities `Malé` `Addu-city`.
+The `public contributions` by users in Maldives on `2021/6/15 1:40 AM UTC`. This list contains users from `Maldives` and cities `Malé` `Addu-city`.
 
-There are `71 countries/states` and `439 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `96 countries/states` and `548 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `192 users`  in Maldives. You need at least `0 followers` to be on this list.
 
@@ -107,7 +107,7 @@ There are `192 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>Hadithmv </td>
 		<td>No Twitter Username</td>
 		<td>Maldives</td>
-		<td>1200</td>
+		<td>1209</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -133,7 +133,7 @@ There are `192 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>@mihaaru @baraveli </td>
 		<td><a href="https://twitter.com/boring_dragon">boring_dragon</a></td>
 		<td>Maldives</td>
-		<td>647</td>
+		<td>638</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -203,6 +203,19 @@ There are `192 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>9</td>
 		<td>
+			<a href="https://github.com/aliaafee">
+				<img src="https://avatars.githubusercontent.com/u/25876409?s=72&v=4" width="24" alt="Avatar of aliaafee"> aliaafee
+			</a><br/>
+			Ali Aafee
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maldives</td>
+		<td>211</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>
 			<a href="https://github.com/mnazaal">
 				<img src="https://avatars.githubusercontent.com/u/18580527?s=72&v=4" width="24" alt="Avatar of mnazaal"> mnazaal
 			</a><br/>
@@ -212,19 +225,6 @@ There are `192 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td><a href="https://twitter.com/naxaal">naxaal</a></td>
 		<td>Maldives</td>
 		<td>210</td>
-	</tr>
-	<tr>
-		<td>10</td>
-		<td>
-			<a href="https://github.com/aliaafee">
-				<img src="https://avatars.githubusercontent.com/u/25876409?s=72&v=4" width="24" alt="Avatar of aliaafee"> aliaafee
-			</a><br/>
-			Ali Aafee
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maldives</td>
-		<td>209</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -432,7 +432,7 @@ There are `192 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Maldives</td>
-		<td>61</td>
+		<td>58</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -1139,6 +1139,19 @@ There are `192 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>81</td>
 		<td>
+			<a href="https://github.com/dhivehi">
+				<img src="https://avatars.githubusercontent.com/u/18715293?s=72&u=656cdfdcf7cc47d52cc207a9b84afab01e533393&v=4" width="24" alt="Avatar of dhivehi"> dhivehi
+			</a><br/>
+			DhivehiMv
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maldives</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>
 			<a href="https://github.com/fazofazaal">
 				<img src="https://avatars.githubusercontent.com/u/24852995?s=72&u=326d66fef14d06abbd3bc777e74ce863a7c334ce&v=4" width="24" alt="Avatar of fazofazaal"> fazofazaal
 			</a><br/>
@@ -1150,7 +1163,7 @@ There are `192 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/Enxyphered">
 				<img src="https://avatars.githubusercontent.com/u/13829948?s=72&u=d323f088a806178db5d95f8afc851399859e4fba&v=4" width="24" alt="Avatar of Enxyphered"> Enxyphered
@@ -1161,19 +1174,6 @@ There are `192 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Maldives</td>
 		<td>9</td>
-	</tr>
-	<tr>
-		<td>83</td>
-		<td>
-			<a href="https://github.com/dhivehi">
-				<img src="https://avatars.githubusercontent.com/u/18715293?s=72&u=656cdfdcf7cc47d52cc207a9b84afab01e533393&v=4" width="24" alt="Avatar of dhivehi"> dhivehi
-			</a><br/>
-			DhivehiMv
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maldives</td>
-		<td>8</td>
 	</tr>
 	<tr>
 		<td>84</td>
