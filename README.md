@@ -5,7 +5,7 @@
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/15 4:04 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/15 4:08 AM UTC`.
 
 This repository contains users `136 countries/states` and `686 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
@@ -1449,6 +1449,20 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/palestine.md">
+				Palestine
+			</a>
+		</td>
+		<td>
+			<code>Gaza</code> 
+			<code>Khan-yunis</code> 
+			<code>Jabalia </code> 
+			<code>Hebron</code> 
+			<code>Nablus</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/panama.md">
 				Panama
 			</a>
@@ -1713,20 +1727,6 @@ The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't for
 			<code>Galle</code> 
 			<code>Jaffna</code> 
 			<code>Matara</code> 
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/state_of palestine.md">
-				State Of Palestine
-			</a>
-		</td>
-		<td>
-			<code>Gaza</code> 
-			<code>Khan-yunis</code> 
-			<code>Jabalia </code> 
-			<code>Hebron</code> 
-			<code>Nablus</code> 
 		</td>
 	</tr>
 	<tr>
