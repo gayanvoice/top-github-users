@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg" alt="Latvia">
 </a>
 
-The `public contributions` by users in Latvia on `2021/6/14 6:02 PM UTC`. This list contains users from `Latvia` and cities `Riga` `Daugavpils` `Liepāja` `Jūrmala` `Ventspils` `Jelgava` `Cēsis`.
+The `public contributions` by users in Latvia on `2021/6/15 1:18 AM UTC`. This list contains users from `Latvia` and cities `Riga` `Daugavpils` `Liepāja` `Jūrmala` `Ventspils` `Jelgava` `Cēsis`.
 
-There are `99 countries/states` and `565 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `96 countries/states` and `548 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `200 users`  in Latvia. You need at least `16 followers` to be on this list.
 
@@ -146,7 +146,7 @@ There are `200 users`  in Latvia. You need at least `16 followers` to be on this
 		<td>Bool; </td>
 		<td><a href="https://twitter.com/elnormous">elnormous</a></td>
 		<td>Latvia</td>
-		<td>1576</td>
+		<td>1581</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -185,7 +185,7 @@ There are `200 users`  in Latvia. You need at least `16 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Lafriks">Lafriks</a></td>
 		<td>Latvia</td>
-		<td>1113</td>
+		<td>1114</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -198,7 +198,7 @@ There are `200 users`  in Latvia. You need at least `16 followers` to be on this
 		<td>Visualcomposer </td>
 		<td>No Twitter Username</td>
 		<td>Latvia - Riga</td>
-		<td>801</td>
+		<td>802</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -341,7 +341,7 @@ There are `200 users`  in Latvia. You need at least `16 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Riga, Latvia</td>
-		<td>391</td>
+		<td>392</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -393,7 +393,7 @@ There are `200 users`  in Latvia. You need at least `16 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/fassko">fassko</a></td>
 		<td>Latvia</td>
-		<td>363</td>
+		<td>364</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -809,7 +809,7 @@ There are `200 users`  in Latvia. You need at least `16 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Riga, Latvia</td>
-		<td>134</td>
+		<td>136</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -1165,6 +1165,19 @@ There are `200 users`  in Latvia. You need at least `16 followers` to be on this
 	<tr>
 		<td>83</td>
 		<td>
+			<a href="https://github.com/Knagis">
+				<img src="https://avatars.githubusercontent.com/u/8700285?s=72&u=e8101a504e9dce9757d111a8a1321715c405bad8&v=4" width="24" alt="Avatar of Knagis"> Knagis
+			</a><br/>
+			Kārlis Gaņģis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rīga, Latvia</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
 			<a href="https://github.com/kasparsj">
 				<img src="https://avatars.githubusercontent.com/u/743481?s=72&u=5242b5691bb47b4865786fc78fe1d6e70e77828f&v=4" width="24" alt="Avatar of kasparsj"> kasparsj
 			</a><br/>
@@ -1174,19 +1187,6 @@ There are `200 users`  in Latvia. You need at least `16 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Riga and London</td>
 		<td>54</td>
-	</tr>
-	<tr>
-		<td>84</td>
-		<td>
-			<a href="https://github.com/Knagis">
-				<img src="https://avatars.githubusercontent.com/u/8700285?s=72&u=e8101a504e9dce9757d111a8a1321715c405bad8&v=4" width="24" alt="Avatar of Knagis"> Knagis
-			</a><br/>
-			Kārlis Gaņģis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Rīga, Latvia</td>
-		<td>53</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1464,19 +1464,6 @@ There are `200 users`  in Latvia. You need at least `16 followers` to be on this
 	<tr>
 		<td>106</td>
 		<td>
-			<a href="https://github.com/ebeigarts">
-				<img src="https://avatars.githubusercontent.com/u/8155?s=72&u=78f59a9668e763edbf6e97fea932c33ffc21055f&v=4" width="24" alt="Avatar of ebeigarts"> ebeigarts
-			</a><br/>
-			Edgars Beigarts
-		</td>
-		<td>Mak It </td>
-		<td>No Twitter Username</td>
-		<td>Riga, Latvia</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>107</td>
-		<td>
 			<a href="https://github.com/EriksRemess">
 				<img src="https://avatars.githubusercontent.com/u/176241?s=72&u=76581e36424eb3b0255a039a9a2b203951b745c9&v=4" width="24" alt="Avatar of EriksRemess"> EriksRemess
 			</a><br/>
@@ -1486,6 +1473,19 @@ There are `200 users`  in Latvia. You need at least `16 followers` to be on this
 		<td><a href="https://twitter.com/EriksRemess">EriksRemess</a></td>
 		<td>Saldus, Latvia</td>
 		<td>27</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td>
+			<a href="https://github.com/ebeigarts">
+				<img src="https://avatars.githubusercontent.com/u/8155?s=72&u=78f59a9668e763edbf6e97fea932c33ffc21055f&v=4" width="24" alt="Avatar of ebeigarts"> ebeigarts
+			</a><br/>
+			Edgars Beigarts
+		</td>
+		<td>Mak It </td>
+		<td>No Twitter Username</td>
+		<td>Riga, Latvia</td>
+		<td>26</td>
 	</tr>
 	<tr>
 		<td>108</td>
