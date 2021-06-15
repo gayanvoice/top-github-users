@@ -74,10 +74,10 @@
     { "country":  "laos", "geoName": "laos", "cities": ["vientiane"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" },
     { "country":  "latvia", "geoName": "latvia", "cities": ["riga", "daugavpils", "liepāja", "jūrmala", "ventspils", "jelgava", "cēsis"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg" },
     { "country":  "lithuania", "geoName": "lithuania", "cities": ["vilnius", "kaunas", "klaipėda", "siauliai", "panevėžys", "alytus"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg" },
-    { "country":  "luxembourg", "geoName": "luxembourg", "cities": ["luxembourg", "echternach", "esch-sur-alzette", "pétange"], ",imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg" },
-    { "country":  "madagascar", "geoName": "madagascar", "cities": ["antananarivo", "toamasina", "mahajanga", "antsirabe"], ",imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" },
-    { "country":  "malawi", "geoName": "malawi", "cities": ["lilongwe", "blantyre", "mzuzu", "zomba", "karonga"], ",imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg" },
-    { "country":  "malaysia", "geoName": "malaysia", "cities": ["kuala-lumpur", "malacca-city", "kuching", "ipoh", "johor-bahru"], ",imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg" },
+    { "country":  "luxembourg", "geoName": "luxembourg", "cities": ["luxembourg", "echternach", "esch-sur-alzette", "pétange"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg" },
+    { "country":  "madagascar", "geoName": "madagascar", "cities": ["antananarivo", "toamasina", "mahajanga", "antsirabe"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" },
+    { "country":  "malawi", "geoName": "malawi", "cities": ["lilongwe", "blantyre", "mzuzu", "zomba", "karonga"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg" },
+    { "country":  "malaysia", "geoName": "malaysia", "cities": ["kuala-lumpur", "malacca-city", "kuching", "ipoh", "johor-bahru"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg" },
     { "country":  "maldives", "geoName": "maldives", "cities": ["malé", "addu-city"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg" },
     { "country":  "mali", "geoName": "mali", "cities": ["bamako", "timbuktu", "segou", "mopti"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg" },
     { "country":  "malta", "geoName": "malta", "cities": ["valletta", "sliema", "victoria", "saint-pauls-bay"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg" },
@@ -96,6 +96,6 @@
     { "country":  "new zealand", "geoName": "new zealand", "cities": ["auckland", "wellington", "christchurch", "dunedin", "hamilton"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" },
     { "country":  "nicaragua", "geoName": "nicaragua", "cities": ["managua", "leon", "granada", "masaya", "esteli"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg" },
     { "country":  "nigeria", "geoName": "nigeria", "cities": ["lagos", "ibadan", "abuja", "port-harcourt", "benin-city", "ilorin", "kano"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" },
-    { "country":  "Norway", "geoName": "Norway", "cities": ["Oslo", "Bergen", "Trondheim", "Stavanger"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" }
+    { "country":  "norway", "geoName": "norway", "cities": ["oslo", "bergen", "trondheim", "stavanger"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" }
   ]
 }
