@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg" alt="Nicaragua">
 </a>
 
-The `number of followers` of users in Nicaragua on `2021/6/15 3:56 AM UTC`. This list contains users from `Nicaragua` and cities `Managua` `Leon` `Granada` `Masaya` `Esteli`.
+The `number of followers` of users in Nicaragua on `2021/6/16 9:27 PM UTC`. This list contains users from `Nicaragua` and cities `Managua` `Leon` `Granada` `Masaya` `Esteli`.
 
-There are `96 countries/states` and `548 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `200 users`  in Nicaragua. You need at least `21 followers` to be on this list.
+There are `1000 users`  in Nicaragua. You need at least `4 followers` to be on this list.
 
 <table>
 	<tr>
@@ -65,17 +65,17 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20country%20or%20state&t=Top%20GitHub%20Users%20By%20Followers%20in%20Nicaragua&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/nicaragua.md">
+			<a href="https://www.blogger.com/blog-this.g?n=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20Nicaragua&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/nicaragua.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/nicaragua.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20Nicaragua&s=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20country%20or%20state&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/nicaragua.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20Nicaragua&s=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20Nicaragua&body=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20country%20or%20state-https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/nicaragua.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20Nicaragua&body=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/nicaragua.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
@@ -237,7 +237,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Leon, Gto. Mexico</td>
-		<td>136</td>
+		<td>137</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -385,19 +385,6 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 	<tr>
 		<td>23</td>
 		<td>
-			<a href="https://github.com/yabirgb">
-				<img src="https://avatars.githubusercontent.com/u/5068010?s=72&u=87e2b0856786b3534588f9d669bd0b7cbdae5777&v=4" width="24" alt="Avatar of yabirgb"> yabirgb
-			</a><br/>
-			Yábir Benchakhtir
-		</td>
-		<td>@rotki </td>
-		<td>No Twitter Username</td>
-		<td>Granada, Spain</td>
-		<td>93</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
 			<a href="https://github.com/7ossam81">
 				<img src="https://avatars.githubusercontent.com/u/17023748?s=72&u=c930fade6e8f3c5a309296bca02faa623d0ee660&v=4" width="24" alt="Avatar of 7ossam81"> 7ossam81
 			</a><br/>
@@ -406,6 +393,19 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>The University Of Jordan<br/></td>
 		<td>No Twitter Username</td>
 		<td>Granada, Spain, Europe/ Amman, Jordan</td>
+		<td>95</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/yabirgb">
+				<img src="https://avatars.githubusercontent.com/u/5068010?s=72&u=87e2b0856786b3534588f9d669bd0b7cbdae5777&v=4" width="24" alt="Avatar of yabirgb"> yabirgb
+			</a><br/>
+			Yábir Benchakhtir
+		</td>
+		<td>@rotki </td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
 		<td>93</td>
 	</tr>
 	<tr>
@@ -445,7 +445,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>@vgventures </td>
 		<td><a href="https://twitter.com/MarcosJSevilla">MarcosJSevilla</a></td>
 		<td>Managua, Nicaragua</td>
-		<td>74</td>
+		<td>75</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -645,6 +645,19 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 	<tr>
 		<td>43</td>
 		<td>
+			<a href="https://github.com/BlasBenito">
+				<img src="https://avatars.githubusercontent.com/u/5610068?s=72&u=44ce13a8fedd9e3ce62df9f62466e059ab482ae3&v=4" width="24" alt="Avatar of BlasBenito"> BlasBenito
+			</a><br/>
+			Blas Benito
+		</td>
+		<td>University Of Alicante, Maestre<br/>Lab<br/></td>
+		<td><a href="https://twitter.com/blasbenito">blasbenito</a></td>
+		<td>Alfacar, Granada, Spain</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
 			<a href="https://github.com/lulivi">
 				<img src="https://avatars.githubusercontent.com/u/10894592?s=72&u=00836207dae6cf91018c2b392d9aeaa01373d743&v=4" width="24" alt="Avatar of lulivi"> lulivi
 			</a><br/>
@@ -656,7 +669,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>44</td>
+		<td>45</td>
 		<td>
 			<a href="https://github.com/pacocp">
 				<img src="https://avatars.githubusercontent.com/u/7196966?s=72&u=98bf300dc5c5edb568c11139c6fb00356130384a&v=4" width="24" alt="Avatar of pacocp"> pacocp
@@ -669,19 +682,6 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>45</td>
-		<td>
-			<a href="https://github.com/BlasBenito">
-				<img src="https://avatars.githubusercontent.com/u/5610068?s=72&u=44ce13a8fedd9e3ce62df9f62466e059ab482ae3&v=4" width="24" alt="Avatar of BlasBenito"> BlasBenito
-			</a><br/>
-			Blas Benito
-		</td>
-		<td>University Of Alicante, Maestre<br/>Lab<br/></td>
-		<td><a href="https://twitter.com/blasbenito">blasbenito</a></td>
-		<td>Alfacar, Granada, Spain</td>
-		<td>60</td>
-	</tr>
-	<tr>
 		<td>46</td>
 		<td>
 			<a href="https://github.com/rcrodriguez89">
@@ -692,7 +692,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Managua, Nicaragua</td>
-		<td>60</td>
+		<td>59</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -918,6 +918,19 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 	<tr>
 		<td>64</td>
 		<td>
+			<a href="https://github.com/migariane">
+				<img src="https://avatars.githubusercontent.com/u/4432917?s=72&u=10766a17c4ab7c442234811b9a3371d3ff6d5469&v=4" width="24" alt="Avatar of migariane"> migariane
+			</a><br/>
+			Miguel Angel Luque Fernandez
+		</td>
+		<td>London School Of Hygiene<br/>And<br/>Tropical<br/>Medicine<br/>&<br/>Biomedical<br/>Research<br/>Institute<br/>Of<br/>Granada<br/>&<br/>Lshtm<br/><br/></td>
+		<td><a href="https://twitter.com/watzilei">watzilei</a></td>
+		<td>London UK & Granada, Spain </td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td>
 			<a href="https://github.com/eveevans">
 				<img src="https://avatars.githubusercontent.com/u/109561?s=72&v=4" width="24" alt="Avatar of eveevans"> eveevans
 			</a><br/>
@@ -929,7 +942,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/renatolrr">
 				<img src="https://avatars.githubusercontent.com/u/4101274?s=72&u=98751de1ce0352ea33c76b37a7a76da17d9199fe&v=4" width="24" alt="Avatar of renatolrr"> renatolrr
@@ -942,7 +955,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/lucasgreenwell">
 				<img src="https://avatars.githubusercontent.com/u/54864050?s=72&u=1420878aa2fe8e2bcab8178eb343ec1740feeb49&v=4" width="24" alt="Avatar of lucasgreenwell"> lucasgreenwell
@@ -952,19 +965,6 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Managua, Nicaragua</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>
-			<a href="https://github.com/migariane">
-				<img src="https://avatars.githubusercontent.com/u/4432917?s=72&u=10766a17c4ab7c442234811b9a3371d3ff6d5469&v=4" width="24" alt="Avatar of migariane"> migariane
-			</a><br/>
-			Miguel Angel Luque Fernandez
-		</td>
-		<td>London School Of Hygiene<br/>And<br/>Tropical<br/>Medicine<br/>&<br/>Biomedical<br/>Research<br/>Institute<br/>Of<br/>Granada<br/>&<br/>Lshtm<br/><br/></td>
-		<td><a href="https://twitter.com/watzilei">watzilei</a></td>
-		<td>London UK & Granada, Spain </td>
 		<td>44</td>
 	</tr>
 	<tr>
@@ -983,19 +983,6 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 	<tr>
 		<td>69</td>
 		<td>
-			<a href="https://github.com/jrgonzalezg">
-				<img src="https://avatars.githubusercontent.com/u/4630806?s=72&v=4" width="24" alt="Avatar of jrgonzalezg"> jrgonzalezg
-			</a><br/>
-			Juan Ramón González
-		</td>
-		<td>@gomore </td>
-		<td>No Twitter Username</td>
-		<td>Granada, Spain</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>70</td>
-		<td>
 			<a href="https://github.com/advy99">
 				<img src="https://avatars.githubusercontent.com/u/6775196?s=72&u=69138b85d45e631022848020a1f9a8f45e692f93&v=4" width="24" alt="Avatar of advy99"> advy99
 			</a><br/>
@@ -1007,7 +994,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/jojelupipa">
 				<img src="https://avatars.githubusercontent.com/u/14235896?s=72&u=6c5bfa90a8704c3ec495771d334e55fadcc58d45&v=4" width="24" alt="Avatar of jojelupipa"> jojelupipa
@@ -1020,7 +1007,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/jgromero">
 				<img src="https://avatars.githubusercontent.com/u/2234166?s=72&u=f52447204a585c757a8a00b2f15c52307eac6ae3&v=4" width="24" alt="Avatar of jgromero"> jgromero
@@ -1033,7 +1020,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/amartinruiz23">
 				<img src="https://avatars.githubusercontent.com/u/11518373?s=72&u=9a969a84f22a7dac1d70c2071022e7a1f8388af8&v=4" width="24" alt="Avatar of amartinruiz23"> amartinruiz23
@@ -1041,6 +1028,19 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 			Antonio Martín Ruiz
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>
+			<a href="https://github.com/jrgonzalezg">
+				<img src="https://avatars.githubusercontent.com/u/4630806?s=72&v=4" width="24" alt="Avatar of jrgonzalezg"> jrgonzalezg
+			</a><br/>
+			Juan Ramón González
+		</td>
+		<td>@gomore </td>
 		<td>No Twitter Username</td>
 		<td>Granada, Spain</td>
 		<td>43</td>
@@ -1061,6 +1061,32 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 	<tr>
 		<td>75</td>
 		<td>
+			<a href="https://github.com/Ualb">
+				<img src="https://avatars.githubusercontent.com/u/33814128?s=72&u=c54bf971f9e4eeddcded83f2ae03585fceff2a6d&v=4" width="24" alt="Avatar of Ualb"> Ualb
+			</a><br/>
+			Ulises López
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/starts_off">starts_off</a></td>
+		<td>Managua. Nic</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>
+			<a href="https://github.com/igmarin">
+				<img src="https://avatars.githubusercontent.com/u/39272?s=72&u=5f06e04f438ed68baac0077ccbd8880552785c75&v=4" width="24" alt="Avatar of igmarin"> igmarin
+			</a><br/>
+			Ismael G Marin C
+		</td>
+		<td>@tiempodev </td>
+		<td><a href="https://twitter.com/igmarin">igmarin</a></td>
+		<td>Leon, Gto. Mexico</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>77</td>
+		<td>
 			<a href="https://github.com/pwaqo">
 				<img src="https://avatars.githubusercontent.com/u/1909548?s=72&u=2e7c63f7e8d3818cbb002f647ece3ca9ab0e71b9&v=4" width="24" alt="Avatar of pwaqo"> pwaqo
 			</a><br/>
@@ -1072,7 +1098,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/vikman90">
 				<img src="https://avatars.githubusercontent.com/u/10536251?s=72&u=85adc200ec93d7039499826b193839b3a66cd97b&v=4" width="24" alt="Avatar of vikman90"> vikman90
@@ -1085,7 +1111,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/ElenaMerelo">
 				<img src="https://avatars.githubusercontent.com/u/8902059?s=72&u=530e9ebeb8820112334640eb6d25e10a901a194b&v=4" width="24" alt="Avatar of ElenaMerelo"> ElenaMerelo
@@ -1098,20 +1124,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>78</td>
-		<td>
-			<a href="https://github.com/igmarin">
-				<img src="https://avatars.githubusercontent.com/u/39272?s=72&u=5f06e04f438ed68baac0077ccbd8880552785c75&v=4" width="24" alt="Avatar of igmarin"> igmarin
-			</a><br/>
-			Ismael G Marin C
-		</td>
-		<td>@tiempodev </td>
-		<td><a href="https://twitter.com/igmarin">igmarin</a></td>
-		<td>Leon, Gto. Mexico</td>
-		<td>41</td>
-	</tr>
-	<tr>
-		<td>79</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/Gecofer">
 				<img src="https://avatars.githubusercontent.com/u/32623112?s=72&u=bbdef46f4acf6eead83e6b432a68aa665d2a33fe&v=4" width="24" alt="Avatar of Gecofer"> Gecofer
@@ -1124,7 +1137,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/yosymfony">
 				<img src="https://avatars.githubusercontent.com/u/3321099?s=72&v=4" width="24" alt="Avatar of yosymfony"> yosymfony
@@ -1135,19 +1148,6 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Granada, Spain</td>
 		<td>41</td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>
-			<a href="https://github.com/Ualb">
-				<img src="https://avatars.githubusercontent.com/u/33814128?s=72&u=c54bf971f9e4eeddcded83f2ae03585fceff2a6d&v=4" width="24" alt="Avatar of Ualb"> Ualb
-			</a><br/>
-			Ulises López
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/starts_off">starts_off</a></td>
-		<td>Managua. Nic</td>
-		<td>40</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -1217,19 +1217,6 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 	<tr>
 		<td>87</td>
 		<td>
-			<a href="https://github.com/soyjimmysaenz">
-				<img src="https://avatars.githubusercontent.com/u/1390475?s=72&u=9a6c4afedef4b02d1e1867efb49335c9badfc005&v=4" width="24" alt="Avatar of soyjimmysaenz"> soyjimmysaenz
-			</a><br/>
-			Jimmy Sáenz Rizo
-		</td>
-		<td>Sosafe </td>
-		<td><a href="https://twitter.com/soyjimmysaenz">soyjimmysaenz</a></td>
-		<td>Managua, Nicaragua</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
 			<a href="https://github.com/VictorSeven">
 				<img src="https://avatars.githubusercontent.com/u/16043960?s=72&u=9b00d508f2b492a929f14e2ab7095f7d3f2e1b91&v=4" width="24" alt="Avatar of VictorSeven"> VictorSeven
 			</a><br/>
@@ -1241,7 +1228,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/byroncorrales">
 				<img src="https://avatars.githubusercontent.com/u/99616?s=72&v=4" width="24" alt="Avatar of byroncorrales"> byroncorrales
@@ -1254,7 +1241,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/Guillergood">
 				<img src="https://avatars.githubusercontent.com/u/16701917?s=72&u=ea51a1eae5c79f5a85eaa15a77b5cd44aab3b77d&v=4" width="24" alt="Avatar of Guillergood"> Guillergood
@@ -1267,7 +1254,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/dcabezas98">
 				<img src="https://avatars.githubusercontent.com/u/24246102?s=72&v=4" width="24" alt="Avatar of dcabezas98"> dcabezas98
@@ -1277,6 +1264,19 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Granada, Spain</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
+			<a href="https://github.com/soyjimmysaenz">
+				<img src="https://avatars.githubusercontent.com/u/1390475?s=72&u=9a6c4afedef4b02d1e1867efb49335c9badfc005&v=4" width="24" alt="Avatar of soyjimmysaenz"> soyjimmysaenz
+			</a><br/>
+			Jimmy Sáenz Rizo
+		</td>
+		<td>Sosafe </td>
+		<td><a href="https://twitter.com/soyjimmysaenz">soyjimmysaenz</a></td>
+		<td>Managua, Nicaragua</td>
 		<td>38</td>
 	</tr>
 	<tr>
@@ -2049,6 +2049,19 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 	<tr>
 		<td>151</td>
 		<td>
+			<a href="https://github.com/Axel19992017">
+				<img src="https://avatars.githubusercontent.com/u/30581844?s=72&u=215e3bae339deae003d6c21dee01ed6999a8f062&v=4" width="24" alt="Avatar of Axel19992017"> Axel19992017
+			</a><br/>
+			Axel Eleazar Garcia Darce
+		</td>
+		<td>@brevetech @archermediagroup </td>
+		<td><a href="https://twitter.com/pacisauctor_">pacisauctor_</a></td>
+		<td>Managua, Nicaragua</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>
 			<a href="https://github.com/Carlossamu7">
 				<img src="https://avatars.githubusercontent.com/u/22639789?s=72&u=715ace09d8c91a50aef804bed8e1e050c1b484c8&v=4" width="24" alt="Avatar of Carlossamu7"> Carlossamu7
 			</a><br/>
@@ -2060,7 +2073,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/alberpilot">
 				<img src="https://avatars.githubusercontent.com/u/3830293?s=72&u=dbf7fc1acbb1debd9c84183a075ce4411382d001&v=4" width="24" alt="Avatar of alberpilot"> alberpilot
@@ -2073,7 +2086,20 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>154</td>
+		<td>
+			<a href="https://github.com/LaurenceM10">
+				<img src="https://avatars.githubusercontent.com/u/13529689?s=72&u=525df3b0a6e328364af6c3240bfe28657146926d&v=4" width="24" alt="Avatar of LaurenceM10"> LaurenceM10
+			</a><br/>
+			Laurence Steven 
+		</td>
+		<td>Top Floor Marketing </td>
+		<td>No Twitter Username</td>
+		<td>Nicaragua.</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/BruceLampson">
 				<img src="https://avatars.githubusercontent.com/u/4557356?s=72&u=53d71bcb3d602d2a3d102dee7f30ee30c6a141f9&v=4" width="24" alt="Avatar of BruceLampson"> BruceLampson
@@ -2086,7 +2112,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/altmas5">
 				<img src="https://avatars.githubusercontent.com/u/1054618?s=72&u=1775005677c093b043627d30086b191d7b879dd1&v=4" width="24" alt="Avatar of altmas5"> altmas5
@@ -2099,7 +2125,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/davidperezgar">
 				<img src="https://avatars.githubusercontent.com/u/10096360?s=72&u=bc9c88ff07681842becc2444fe9215856cd07be5&v=4" width="24" alt="Avatar of davidperezgar"> davidperezgar
@@ -2112,7 +2138,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/pilarnavarro">
 				<img src="https://avatars.githubusercontent.com/u/32315195?s=72&u=a3378e5d912b68a7a484c72cbd5dab1880a368bb&v=4" width="24" alt="Avatar of pilarnavarro"> pilarnavarro
@@ -2125,7 +2151,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/Laucalle">
 				<img src="https://avatars.githubusercontent.com/u/14923894?s=72&u=ef8c9df84178057e30b6aa1847cf5d31d4fa8f8b&v=4" width="24" alt="Avatar of Laucalle"> Laucalle
@@ -2138,7 +2164,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/juandesant">
 				<img src="https://avatars.githubusercontent.com/u/1641249?s=72&v=4" width="24" alt="Avatar of juandesant"> juandesant
@@ -2151,7 +2177,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/pmrt">
 				<img src="https://avatars.githubusercontent.com/u/22831717?s=72&u=948c0408cb27bf1f3b3f290b8b9ac2d1f3768be0&v=4" width="24" alt="Avatar of pmrt"> pmrt
@@ -2164,7 +2190,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/nitehack">
 				<img src="https://avatars.githubusercontent.com/u/4542462?s=72&u=49b66c7584874a4576cacf4a6c12aa3c1bd0cf6b&v=4" width="24" alt="Avatar of nitehack"> nitehack
@@ -2177,7 +2203,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/MigueRobles">
 				<img src="https://avatars.githubusercontent.com/u/17575711?s=72&u=63e9864e39f1e5d9b05c144b2df80a6407336422&v=4" width="24" alt="Avatar of MigueRobles"> MigueRobles
@@ -2190,7 +2216,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>164</td>
 		<td>
 			<a href="https://github.com/JuanjiJG">
 				<img src="https://avatars.githubusercontent.com/u/10928321?s=72&u=a9af4c5dd27d87f590e5722706c848fae6f4bcab&v=4" width="24" alt="Avatar of JuanjiJG"> JuanjiJG
@@ -2203,7 +2229,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/cristgl">
 				<img src="https://avatars.githubusercontent.com/u/14914658?s=72&u=d0f8d5b4ee0f82a8deb8d826ca2eb731f2d66cc5&v=4" width="24" alt="Avatar of cristgl"> cristgl
@@ -2216,7 +2242,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/jlozano254">
 				<img src="https://avatars.githubusercontent.com/u/8600559?s=72&u=765c6c829961e37d9493e1321119d1f437828452&v=4" width="24" alt="Avatar of jlozano254"> jlozano254
@@ -2229,20 +2255,7 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>165</td>
-		<td>
-			<a href="https://github.com/Axel19992017">
-				<img src="https://avatars.githubusercontent.com/u/30581844?s=72&u=215e3bae339deae003d6c21dee01ed6999a8f062&v=4" width="24" alt="Avatar of Axel19992017"> Axel19992017
-			</a><br/>
-			Axel Eleazar Garcia Darce
-		</td>
-		<td>@brevetech @archermediagroup </td>
-		<td><a href="https://twitter.com/pacisauctor_">pacisauctor_</a></td>
-		<td>Managua, Nicaragua</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>166</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/spothound">
 				<img src="https://avatars.githubusercontent.com/u/15269938?s=72&u=f0f3c4dffece36d4cf05855e6ed5117b6560171f&v=4" width="24" alt="Avatar of spothound"> spothound
@@ -2252,19 +2265,6 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>Wazuh </td>
 		<td><a href="https://twitter.com/SpotH0und">SpotH0und</a></td>
 		<td>Granada, Andalucia, Spain</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/LaurenceM10">
-				<img src="https://avatars.githubusercontent.com/u/13529689?s=72&u=525df3b0a6e328364af6c3240bfe28657146926d&v=4" width="24" alt="Avatar of LaurenceM10"> LaurenceM10
-			</a><br/>
-			Laurence Steven 
-		</td>
-		<td>Top Floor Marketing </td>
-		<td>No Twitter Username</td>
-		<td>Nicaragua.</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -2686,6 +2686,19 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 	<tr>
 		<td>200</td>
 		<td>
+			<a href="https://github.com/LuisHCK">
+				<img src="https://avatars.githubusercontent.com/u/5175137?s=72&u=4c75c865183d6f2ac2319b7f539d6df3f1d6f5e9&v=4" width="24" alt="Avatar of LuisHCK"> LuisHCK
+			</a><br/>
+			Luis J. Centeno
+		</td>
+		<td>@livingcompany  </td>
+		<td><a href="https://twitter.com/luishck">luishck</a></td>
+		<td>Nicaragua</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>201</td>
+		<td>
 			<a href="https://github.com/JuanIsernGhosn">
 				<img src="https://avatars.githubusercontent.com/u/14818834?s=72&u=aef3532b102ed1ccce75a1f3d704bc5e1952846b&v=4" width="24" alt="Avatar of JuanIsernGhosn"> JuanIsernGhosn
 			</a><br/>
@@ -2695,6 +2708,721 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Granada</td>
 		<td>21</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>
+			<a href="https://github.com/BadMastropiero">
+				<img src="https://avatars.githubusercontent.com/u/48738823?s=72&v=4" width="24" alt="Avatar of BadMastropiero"> BadMastropiero
+			</a><br/>
+			Noel de Jesús Rodríguez Hernández
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Managua, NIcaragua</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
+			<a href="https://github.com/Dunspa">
+				<img src="https://avatars.githubusercontent.com/u/33031133?s=72&u=2aa3560d2900839b83ba9a2853eaa4c36feee27c&v=4" width="24" alt="Avatar of Dunspa"> Dunspa
+			</a><br/>
+			Jose Luis Gallego Peña
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
+			<a href="https://github.com/manuelorantes">
+				<img src="https://avatars.githubusercontent.com/u/17709025?s=72&u=2d93932f64cb27df75bc5bd8c954a3e3301e3cbf&v=4" width="24" alt="Avatar of manuelorantes"> manuelorantes
+			</a><br/>
+			Manuel Orantes Taboada
+		</td>
+		<td>Universidad De Granada </td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
+			<a href="https://github.com/ElAdrixHD">
+				<img src="https://avatars.githubusercontent.com/u/25505916?s=72&u=91af8609fa6a25180426450329ec83e53e132be1&v=4" width="24" alt="Avatar of ElAdrixHD"> ElAdrixHD
+			</a><br/>
+			Adrian Muñoz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>206</td>
+		<td>
+			<a href="https://github.com/davidrc99">
+				<img src="https://avatars.githubusercontent.com/u/45120166?s=72&u=f0d88900c559779d59341928f422e3503cb4ba6a&v=4" width="24" alt="Avatar of davidrc99"> davidrc99
+			</a><br/>
+			DavidRC
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>207</td>
+		<td>
+			<a href="https://github.com/doapydave">
+				<img src="https://avatars.githubusercontent.com/u/1028634?s=72&v=4" width="24" alt="Avatar of doapydave"> doapydave
+			</a><br/>
+			Dave
+		</td>
+		<td>Devops And Platforms </td>
+		<td>No Twitter Username</td>
+		<td>Managua, Nicaragua</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
+			<a href="https://github.com/alvarillo89">
+				<img src="https://avatars.githubusercontent.com/u/23440018?s=72&u=8c16703e68aa6c341e0c54a6531283d54e15afe1&v=4" width="24" alt="Avatar of alvarillo89"> alvarillo89
+			</a><br/>
+			Álvaro Fernández García
+		</td>
+		<td>Ugr, University Of Granada<br/></td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>209</td>
+		<td>
+			<a href="https://github.com/MiguelAngelTorres">
+				<img src="https://avatars.githubusercontent.com/u/15888562?s=72&u=8417a825d843ad1fde959d465611d0fc20b0f767&v=4" width="24" alt="Avatar of MiguelAngelTorres"> MiguelAngelTorres
+			</a><br/>
+			Miguel Ángel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>210</td>
+		<td>
+			<a href="https://github.com/anamayela">
+				<img src="https://avatars.githubusercontent.com/u/1058731?s=72&u=b152c8db096699b6d7403db46364c5abaeb944b7&v=4" width="24" alt="Avatar of anamayela"> anamayela
+			</a><br/>
+			Ana Mayela
+		</td>
+		<td>Hazlodigital </td>
+		<td>No Twitter Username</td>
+		<td>Managua, Nicaragua</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>
+			<a href="https://github.com/corderop">
+				<img src="https://avatars.githubusercontent.com/u/31637109?s=72&u=cefb05e5121fec171fad788f80a4fe574c1c2497&v=4" width="24" alt="Avatar of corderop"> corderop
+			</a><br/>
+			Pablo Cordero Romero
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain, Europe</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
+			<a href="https://github.com/elianmortega">
+				<img src="https://avatars.githubusercontent.com/u/54898038?s=72&u=231bb3902a81cb01bf21905ae5740468e54765f5&v=4" width="24" alt="Avatar of elianmortega"> elianmortega
+			</a><br/>
+			Elian Ortega
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ElianMOrtega">ElianMOrtega</a></td>
+		<td>Managua, Nicaragua</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/11Afro11">
+				<img src="https://avatars.githubusercontent.com/u/9129845?s=72&u=9b4334a58e971c74f4dd56baa5e9b3e4254c15d7&v=4" width="24" alt="Avatar of 11Afro11"> 11Afro11
+			</a><br/>
+			Fco. Javier Fuentes Barragán
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
+			<a href="https://github.com/Agumeri">
+				<img src="https://avatars.githubusercontent.com/u/41384961?s=72&u=2876687410b7d21990171def546653e3cce56413&v=4" width="24" alt="Avatar of Agumeri"> Agumeri
+			</a><br/>
+			Agustín Mérida Gutiérrez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
+			<a href="https://github.com/josemlp91">
+				<img src="https://avatars.githubusercontent.com/u/1655898?s=72&u=26b4d7a123a71c78d1567248a55cfdf481e8d87e&v=4" width="24" alt="Avatar of josemlp91"> josemlp91
+			</a><br/>
+			José Miguel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>216</td>
+		<td>
+			<a href="https://github.com/YaderV">
+				<img src="https://avatars.githubusercontent.com/u/105781?s=72&u=f142dfba6b258b8729bce1cbd11501e9d6cdbd62&v=4" width="24" alt="Avatar of YaderV"> YaderV
+			</a><br/>
+			Yader Velásquez
+		</td>
+		<td>Kronoscode </td>
+		<td>No Twitter Username</td>
+		<td>Nicaragua</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
+			<a href="https://github.com/rafasanjuan">
+				<img src="https://avatars.githubusercontent.com/u/8878968?s=72&u=b21d5cb1d01e081af2e136c412f59a7ef6506924&v=4" width="24" alt="Avatar of rafasanjuan"> rafasanjuan
+			</a><br/>
+			Rafael Sanjuan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
+			<a href="https://github.com/danibolanos">
+				<img src="https://avatars.githubusercontent.com/u/23275928?s=72&u=69704e7df1665bafa0a4a947f3da4e2a4c7bd25e&v=4" width="24" alt="Avatar of danibolanos"> danibolanos
+			</a><br/>
+			Daniel Bolaños
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>
+			<a href="https://github.com/Antoniolm">
+				<img src="https://avatars.githubusercontent.com/u/11316534?s=72&u=082d97718b2b69881edca4d1f80e71878512de59&v=4" width="24" alt="Avatar of Antoniolm"> Antoniolm
+			</a><br/>
+			Antonio David López Machado
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>220</td>
+		<td>
+			<a href="https://github.com/julioxus">
+				<img src="https://avatars.githubusercontent.com/u/8873234?s=72&u=020ea0b824fad7998573bedddfa2dc05266107ba&v=4" width="24" alt="Avatar of julioxus"> julioxus
+			</a><br/>
+			Julio Martínez Martínez-Checa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>221</td>
+		<td>
+			<a href="https://github.com/christopher-ramirez">
+				<img src="https://avatars.githubusercontent.com/u/1440398?s=72&u=ab8e019c31ba34effff13e4b183a3c0546263b3f&v=4" width="24" alt="Avatar of christopher-ramirez"> christopher-ramirez
+			</a><br/>
+			Christopher Ramírez
+		</td>
+		<td>Nextroll </td>
+		<td>No Twitter Username</td>
+		<td>Managua, Nicaragua</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>
+			<a href="https://github.com/josernestodavila">
+				<img src="https://avatars.githubusercontent.com/u/39853?s=72&u=8b612040a2a51c3cbb4bc69e24df92608b722b9a&v=4" width="24" alt="Avatar of josernestodavila"> josernestodavila
+			</a><br/>
+			José Ernesto Dávila Pantoja
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/chepernesto">chepernesto</a></td>
+		<td>Nicaragua</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>223</td>
+		<td>
+			<a href="https://github.com/MartaAndres">
+				<img src="https://avatars.githubusercontent.com/u/7488950?s=72&v=4" width="24" alt="Avatar of MartaAndres"> MartaAndres
+			</a><br/>
+			Marta Andrés
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>224</td>
+		<td>
+			<a href="https://github.com/jleon95">
+				<img src="https://avatars.githubusercontent.com/u/10140054?s=72&v=4" width="24" alt="Avatar of jleon95"> jleon95
+			</a><br/>
+			Javier León Palomares
+		</td>
+		<td>Universidad De Granada </td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>
+			<a href="https://github.com/manuelduarte077">
+				<img src="https://avatars.githubusercontent.com/u/46093689?s=72&u=48a4cb447bfa29cccdb562e67398940bd68c1142&v=4" width="24" alt="Avatar of manuelduarte077"> manuelduarte077
+			</a><br/>
+			Manuel Duarte
+		</td>
+		<td>@thecodemonsters @elperlanegra @hardsoftday <br/></td>
+		<td><a href="https://twitter.com/manuelduarte077">manuelduarte077</a></td>
+		<td>Bilwi, Puerto Cabezas Nicaragua</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
+			<a href="https://github.com/JackZeled0n">
+				<img src="https://avatars.githubusercontent.com/u/10006692?s=72&u=f21b258b3e31687bcbe765870f486c6caf656ec9&v=4" width="24" alt="Avatar of JackZeled0n"> JackZeled0n
+			</a><br/>
+			Jake Antonio Ruiz Zeledón
+		</td>
+		<td>@atomicdevelopers  </td>
+		<td>No Twitter Username</td>
+		<td>Managua, Nicaragua</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>
+			<a href="https://github.com/jorsol">
+				<img src="https://avatars.githubusercontent.com/u/3739977?s=72&v=4" width="24" alt="Avatar of jorsol"> jorsol
+			</a><br/>
+			Jorge Solórzano
+		</td>
+		<td>@ongres </td>
+		<td><a href="https://twitter.com/jorsol_com">jorsol_com</a></td>
+		<td>Nicaragua / España</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>228</td>
+		<td>
+			<a href="https://github.com/clenondavis">
+				<img src="https://avatars.githubusercontent.com/u/4239218?s=72&u=f2778b9e2ca31ad43ff98c632f2e22e15ab46784&v=4" width="24" alt="Avatar of clenondavis"> clenondavis
+			</a><br/>
+			Carlos Lenon
+		</td>
+		<td>@jsspeaker </td>
+		<td><a href="https://twitter.com/clenondavis">clenondavis</a></td>
+		<td>Nicaragua</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>229</td>
+		<td>
+			<a href="https://github.com/Solano96">
+				<img src="https://avatars.githubusercontent.com/u/22355833?s=72&u=6379a8739cc032da45e0eed03c6309c8b507f59e&v=4" width="24" alt="Avatar of Solano96"> Solano96
+			</a><br/>
+			Francisco Solano
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>230</td>
+		<td>
+			<a href="https://github.com/ainokila">
+				<img src="https://avatars.githubusercontent.com/u/8079834?s=72&u=14dc0d5712eeaf90a1073b7d58d9be134062835d&v=4" width="24" alt="Avatar of ainokila"> ainokila
+			</a><br/>
+			Cristian Velez Ruiz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Murcia-Granada-Spain</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>
+			<a href="https://github.com/litozz">
+				<img src="https://avatars.githubusercontent.com/u/10452583?s=72&u=1173469c513927f3ba10826a467ac9aa44644d2d&v=4" width="24" alt="Avatar of litozz"> litozz
+			</a><br/>
+			Carlos Martínez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>232</td>
+		<td>
+			<a href="https://github.com/Griger">
+				<img src="https://avatars.githubusercontent.com/u/7707062?s=72&u=1d884d87fc8a7a851f79d31c42675a44966cb1ea&v=4" width="24" alt="Avatar of Griger"> Griger
+			</a><br/>
+			Gustavo Rivas
+		</td>
+		<td>Ugr </td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>
+			<a href="https://github.com/joseangeldiazg">
+				<img src="https://avatars.githubusercontent.com/u/10519534?s=72&u=2eaac43e2c7f907241a66d6c806405fbe8d1acb4&v=4" width="24" alt="Avatar of joseangeldiazg"> joseangeldiazg
+			</a><br/>
+			José Ángel Díaz
+		</td>
+		<td>Universidad De Granada, España<br/></td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>234</td>
+		<td>
+			<a href="https://github.com/makixGRA">
+				<img src="https://avatars.githubusercontent.com/u/9882884?s=72&u=53261bcdf168e873cf39aa0b17e36eb13fbd38c5&v=4" width="24" alt="Avatar of makixGRA"> makixGRA
+			</a><br/>
+			Miguel Anguita
+		</td>
+		<td>Universidad De Granada </td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>235</td>
+		<td>
+			<a href="https://github.com/SalvaMilenario">
+				<img src="https://avatars.githubusercontent.com/u/11089105?s=72&u=1a1acdf148a97648c15608226e3c27814116de9b&v=4" width="24" alt="Avatar of SalvaMilenario"> SalvaMilenario
+			</a><br/>
+			Salvador Robles Perez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, spain</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>236</td>
+		<td>
+			<a href="https://github.com/enpi">
+				<img src="https://avatars.githubusercontent.com/u/8874584?s=72&u=ebf958084737e253eb53ddf0d93204983aaec850&v=4" width="24" alt="Avatar of enpi"> enpi
+			</a><br/>
+			Hans Manuel Grenner
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>237</td>
+		<td>
+			<a href="https://github.com/louri91">
+				<img src="https://avatars.githubusercontent.com/u/9786318?s=72&u=dd639712956f99c4b59a0e696a002f31a656894b&v=4" width="24" alt="Avatar of louri91"> louri91
+			</a><br/>
+			Amanda Fernández Piedra
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada / Almería</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>238</td>
+		<td>
+			<a href="https://github.com/Mancuerna">
+				<img src="https://avatars.githubusercontent.com/u/16699849?s=72&u=cf0abe07f1ace780ebc5525b43c0ed719526be32&v=4" width="24" alt="Avatar of Mancuerna"> Mancuerna
+			</a><br/>
+			Juan Antonio
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>239</td>
+		<td>
+			<a href="https://github.com/montszamo">
+				<img src="https://avatars.githubusercontent.com/u/11062802?s=72&u=e07801de80a3f33c42c5d532cb276d72caa2a778&v=4" width="24" alt="Avatar of montszamo"> montszamo
+			</a><br/>
+			Montse R. Zamorano
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>240</td>
+		<td>
+			<a href="https://github.com/donas11">
+				<img src="https://avatars.githubusercontent.com/u/16038113?s=72&u=973a03fc852828f1050a00cb4204a62f632fccdf&v=4" width="24" alt="Avatar of donas11"> donas11
+			</a><br/>
+			Alejandro Manuel do Nascimento Rodríguez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>241</td>
+		<td>
+			<a href="https://github.com/pablojj1808">
+				<img src="https://avatars.githubusercontent.com/u/45092820?s=72&u=d87f0018291a096b4030ab112f06990c841ca512&v=4" width="24" alt="Avatar of pablojj1808"> pablojj1808
+			</a><br/>
+			Pablo Jj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>242</td>
+		<td>
+			<a href="https://github.com/RaulCatedra3003">
+				<img src="https://avatars.githubusercontent.com/u/65410632?s=72&u=9f7c171c631a5ae1c6a17a93f849e651fb495265&v=4" width="24" alt="Avatar of RaulCatedra3003"> RaulCatedra3003
+			</a><br/>
+			Raúl Cátedra Martínez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Monachil, Granada</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>243</td>
+		<td>
+			<a href="https://github.com/ajpelu">
+				<img src="https://avatars.githubusercontent.com/u/6410962?s=72&u=8e962c0008fc76bacad3d020d625c4908850ec83&v=4" width="24" alt="Avatar of ajpelu"> ajpelu
+			</a><br/>
+			Antonio J Perez-Luque
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada (Spain)</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>244</td>
+		<td>
+			<a href="https://github.com/luisanuneze">
+				<img src="https://avatars.githubusercontent.com/u/48412671?s=72&u=d9c1d217e773e91d21c818cbb460ae8bd5d0e8d1&v=4" width="24" alt="Avatar of luisanuneze"> luisanuneze
+			</a><br/>
+			Luisa Núñez
+		</td>
+		<td>@nerdify </td>
+		<td>No Twitter Username</td>
+		<td>Managua, Nicaragua</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/FPerezHernandez92">
+				<img src="https://avatars.githubusercontent.com/u/9219129?s=72&u=7086e97380c31fb33c6501ac795720d0b403ae3d&v=4" width="24" alt="Avatar of FPerezHernandez92"> FPerezHernandez92
+			</a><br/>
+			Francisco Pérez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>246</td>
+		<td>
+			<a href="https://github.com/albertomn86">
+				<img src="https://avatars.githubusercontent.com/u/14975138?s=72&v=4" width="24" alt="Avatar of albertomn86"> albertomn86
+			</a><br/>
+			Alberto Marín
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>
+			<a href="https://github.com/jlram">
+				<img src="https://avatars.githubusercontent.com/u/23506789?s=72&u=9af342121bf855469443ce6a6909681f7c8f9473&v=4" width="24" alt="Avatar of jlram"> jlram
+			</a><br/>
+			José Luis Ramos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>248</td>
+		<td>
+			<a href="https://github.com/jEstevezRod">
+				<img src="https://avatars.githubusercontent.com/u/32360649?s=72&u=5066857add26086cbb7ea6020ee79e440feb8cbf&v=4" width="24" alt="Avatar of jEstevezRod"> jEstevezRod
+			</a><br/>
+			Jesus Estevez
+		</td>
+		<td>Fitnesskpi </td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>249</td>
+		<td>
+			<a href="https://github.com/maxisuarez">
+				<img src="https://avatars.githubusercontent.com/u/32844263?s=72&u=478dbaea7412aafd3e480ed164bc06a2b334af04&v=4" width="24" alt="Avatar of maxisuarez"> maxisuarez
+			</a><br/>
+			Maxi Suárez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>
+			<a href="https://github.com/josecamachop">
+				<img src="https://avatars.githubusercontent.com/u/8208300?s=72&u=7987e5ab14248a9ea0ab029bec95955f74311472&v=4" width="24" alt="Avatar of josecamachop"> josecamachop
+			</a><br/>
+			José Camacho
+		</td>
+		<td>University Of Granada </td>
+		<td><a href="https://twitter.com/j_camacho_p">j_camacho_p</a></td>
+		<td>Granada</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>251</td>
+		<td>
+			<a href="https://github.com/robertomagan">
+				<img src="https://avatars.githubusercontent.com/u/9433193?s=72&u=a3c79224043eba762c1f1ca21462aa8c56d2bb6a&v=4" width="24" alt="Avatar of robertomagan"> robertomagan
+			</a><br/>
+			Roberto Magán
+		</td>
+		<td>University Of Granada </td>
+		<td><a href="https://twitter.com/robertomagan">robertomagan</a></td>
+		<td>Granada (Spain)</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>
+			<a href="https://github.com/sefi97">
+				<img src="https://avatars.githubusercontent.com/u/28649624?s=72&u=27959ce1e3555814f4ca7c5c353ec9eecd782eee&v=4" width="24" alt="Avatar of sefi97"> sefi97
+			</a><br/>
+			Jose Ariza
+		</td>
+		<td>Unit4 </td>
+		<td><a href="https://twitter.com/SrWonder">SrWonder</a></td>
+		<td>Granada</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>253</td>
+		<td>
+			<a href="https://github.com/capynet">
+				<img src="https://avatars.githubusercontent.com/u/1402913?s=72&u=b8c8bc932413f1141d17c76207969b94824262a4&v=4" width="24" alt="Avatar of capynet"> capynet
+			</a><br/>
+			Marcelo Tosco
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Spain - Granada</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>254</td>
+		<td>
+			<a href="https://github.com/igna1998">
+				<img src="https://avatars.githubusercontent.com/u/27973354?s=72&u=9a86ab25a710e326b7582cda9774b689dfdedd11&v=4" width="24" alt="Avatar of igna1998"> igna1998
+			</a><br/>
+			Ignacio Martínez Rodríguez
+		</td>
+		<td>Infineon Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Granada</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>255</td>
+		<td>
+			<a href="https://github.com/learnsomuch">
+				<img src="https://avatars.githubusercontent.com/u/3095697?s=72&u=9b569258b7bd4ad356379bf207dc85aea44a2b2f&v=4" width="24" alt="Avatar of learnsomuch"> learnsomuch
+			</a><br/>
+			Sankar
+		</td>
+		<td>@sap Se </td>
+		<td>No Twitter Username</td>
+		<td>St. Leon Rot</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>256</td>
+		<td>
+			<a href="https://github.com/Trajano1999">
+				<img src="https://avatars.githubusercontent.com/u/32750629?s=72&v=4" width="24" alt="Avatar of Trajano1999"> Trajano1999
+			</a><br/>
+			Juanma
+		</td>
+		<td>Dgiim Ugr </td>
+		<td>No Twitter Username</td>
+		<td>Granada, Spain</td>
+		<td>18</td>
 	</tr>
 </table>
 
@@ -2738,17 +3466,17 @@ There are `200 users`  in Nicaragua. You need at least `21 followers` to be on t
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20Nicaragua%20or%20state&t=Top%20GitHub%20Users%20By%20Followers%20in%20Nicaragua&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/nicaragua.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20Nicaragua&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/nicaragua.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/nicaragua.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20Nicaragua&s=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20Nicaragua%20or%20state&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/nicaragua.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20Nicaragua&s=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20Nicaragua&body=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20Nicaragua%20or%20state-https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/nicaragua.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20Nicaragua&body=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/nicaragua.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
