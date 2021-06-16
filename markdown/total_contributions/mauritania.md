@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `public contributions` and `private contributions` by users in Mauritania on `2021/6/15 1:52 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `public contributions` and `private contributions` by users in Mauritania on `2021/6/16 3:25 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
-There are `96 countries/states` and `548 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `100 users`  in Mauritania. You need at least `0 followers` to be on this list.
 
@@ -65,17 +65,17 @@ There are `100 users`  in Mauritania. You need at least `0 followers` to be on t
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20country%20or%20state&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Mauritania&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/mauritania.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Mauritania&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/mauritania.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/mauritania.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Mauritania&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20country%20or%20state&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/mauritania.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Mauritania&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Mauritania&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20country%20or%20state-https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/mauritania.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Mauritania&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/mauritania.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
@@ -123,7 +123,7 @@ There are `100 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Nouakchott, Mauritania</td>
 		<td>156</td>
-		<td>1547</td>
+		<td>1551</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -151,7 +151,7 @@ There are `100 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/kadermed10">kadermed10</a></td>
 		<td>Nouakchott</td>
 		<td>69</td>
-		<td>1280</td>
+		<td>1284</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -192,8 +192,8 @@ There are `100 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>nouakchott</td>
-		<td>354</td>
-		<td>514</td>
+		<td>355</td>
+		<td>516</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -277,7 +277,7 @@ There are `100 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/medvall_mr">medvall_mr</a></td>
 		<td>Nouakchott, Mauritania</td>
 		<td>3</td>
-		<td>167</td>
+		<td>177</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -528,8 +528,8 @@ There are `100 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nouakchott, Mauritania</td>
-		<td>11</td>
-		<td>11</td>
+		<td>12</td>
+		<td>12</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -965,17 +965,17 @@ There are `100 users`  in Mauritania. You need at least `0 followers` to be on t
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20Mauritania%20or%20state&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Mauritania&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/mauritania.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Mauritania&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/mauritania.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/mauritania.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Mauritania&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20Mauritania%20or%20state&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/mauritania.md&t=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Mauritania&s=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Mauritania&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20Mauritania%20or%20state-https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/mauritania.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Total%20Contributions%20in%20Mauritania&body=List%20of%20most%20active%20github%20users%20based%20on%20total%20contributions%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/mauritania.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
