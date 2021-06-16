@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="Germany">
 </a>
 
-The `public contributions` by users in Germany on `2021/6/14 12:17 PM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
+The `public contributions` by users in Germany on `2021/6/16 3:10 AM UTC`. This list contains users from `Germany` and cities `Berlin` `Munich` `Hamburg` `Cologne` `Hamburg` `Düsseldorf` `Stuttgart` `Dresden`.
 
-There are `129 countries/states` and `744 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `200 users`  in Germany. You need at least `627 followers` to be on this list.
+There are `1000 users`  in Germany. You need at least `172 followers` to be on this list.
 
 <table>
 	<tr>
@@ -65,17 +65,17 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20country%20or%20state&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Germany&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/germany.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Germany&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/germany.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/germany.md&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Germany&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20country%20or%20state&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/germany.md&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Germany&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Germany&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20country%20or%20state-https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/germany.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Germany&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/germany.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
@@ -99,6 +99,32 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 	<tr>
 		<td>1</td>
 		<td>
+			<a href="https://github.com/joschi">
+				<img src="https://avatars.githubusercontent.com/u/43951?s=72&v=4" width="24" alt="Avatar of joschi"> joschi
+			</a><br/>
+			Jochen Schalanda
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/joschi83">joschi83</a></td>
+		<td>Germany</td>
+		<td>58545</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>
+			<a href="https://github.com/chrisguttandin">
+				<img src="https://avatars.githubusercontent.com/u/158417?s=72&u=059bc5033b166e1c04b313b1e87698ac7436d187&v=4" width="24" alt="Avatar of chrisguttandin"> chrisguttandin
+			</a><br/>
+			Christoph Guttandin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>45262</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>
 			<a href="https://github.com/horsicq">
 				<img src="https://avatars.githubusercontent.com/u/7762949?s=72&u=042d32430c74482cfc3eb8c9a60545c781d6dcdc&v=4" width="24" alt="Avatar of horsicq"> horsicq
 			</a><br/>
@@ -107,10 +133,10 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/horsicq">horsicq</a></td>
 		<td>Germany</td>
-		<td>37244</td>
+		<td>37341</td>
 	</tr>
 	<tr>
-		<td>2</td>
+		<td>4</td>
 		<td>
 			<a href="https://github.com/aeneasr">
 				<img src="https://avatars.githubusercontent.com/u/3372410?s=72&u=b48e7114015223887f823fa1413f2b6b1e9b95ae&v=4" width="24" alt="Avatar of aeneasr"> aeneasr
@@ -120,10 +146,23 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>@ory, @serlo </td>
 		<td>No Twitter Username</td>
 		<td>Munich, Germany</td>
-		<td>19958</td>
+		<td>20055</td>
 	</tr>
 	<tr>
-		<td>3</td>
+		<td>5</td>
+		<td>
+			<a href="https://github.com/dereuromark">
+				<img src="https://avatars.githubusercontent.com/u/39854?s=72&v=4" width="24" alt="Avatar of dereuromark"> dereuromark
+			</a><br/>
+			Mark Sch.
+		</td>
+		<td>Spryker Systems Gmbh </td>
+		<td><a href="https://twitter.com/dereuromark">dereuromark</a></td>
+		<td>Berlin</td>
+		<td>13353</td>
+	</tr>
+	<tr>
+		<td>6</td>
 		<td>
 			<a href="https://github.com/nschloe">
 				<img src="https://avatars.githubusercontent.com/u/181628?s=72&v=4" width="24" alt="Avatar of nschloe"> nschloe
@@ -133,10 +172,23 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nschloe">nschloe</a></td>
 		<td>Berlin, Germany</td>
-		<td>8801</td>
+		<td>8864</td>
 	</tr>
 	<tr>
-		<td>4</td>
+		<td>7</td>
+		<td>
+			<a href="https://github.com/goloroden">
+				<img src="https://avatars.githubusercontent.com/u/906327?s=72&u=39877f00185244b9b46f0a3b58a189fc89c64a54&v=4" width="24" alt="Avatar of goloroden"> goloroden
+			</a><br/>
+			Golo Roden
+		</td>
+		<td>The Native Web Gmbh<br/></td>
+		<td><a href="https://twitter.com/goloroden">goloroden</a></td>
+		<td>Riegel am Kaiserstuhl, Germany</td>
+		<td>7663</td>
+	</tr>
+	<tr>
+		<td>8</td>
 		<td>
 			<a href="https://github.com/chriseth">
 				<img src="https://avatars.githubusercontent.com/u/9073706?s=72&v=4" width="24" alt="Avatar of chriseth"> chriseth
@@ -146,10 +198,23 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Berlin</td>
-		<td>5520</td>
+		<td>5538</td>
 	</tr>
 	<tr>
-		<td>5</td>
+		<td>9</td>
+		<td>
+			<a href="https://github.com/fichtner">
+				<img src="https://avatars.githubusercontent.com/u/1915288?s=72&u=4253e1349ff6dcda94d9309dcba68f8623576fa4&v=4" width="24" alt="Avatar of fichtner"> fichtner
+			</a><br/>
+			Franco Fichtner
+		</td>
+		<td>Deciso </td>
+		<td>No Twitter Username</td>
+		<td>Lützen, Germany</td>
+		<td>5220</td>
+	</tr>
+	<tr>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/mp911de">
 				<img src="https://avatars.githubusercontent.com/u/1035015?s=72&u=1032c1781c8c3a2a2832efab320a566340ef5b31&v=4" width="24" alt="Avatar of mp911de"> mp911de
@@ -159,10 +224,23 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>Vmware </td>
 		<td><a href="https://twitter.com/mp911de">mp911de</a></td>
 		<td>Weinheim, Germany</td>
-		<td>5124</td>
+		<td>5129</td>
 	</tr>
 	<tr>
-		<td>6</td>
+		<td>11</td>
+		<td>
+			<a href="https://github.com/bgruening">
+				<img src="https://avatars.githubusercontent.com/u/469983?s=72&v=4" width="24" alt="Avatar of bgruening"> bgruening
+			</a><br/>
+			Björn Grüning
+		</td>
+		<td>University Of Freiburg </td>
+		<td>No Twitter Username</td>
+		<td>Freiburg (Germany)</td>
+		<td>4950</td>
+	</tr>
+	<tr>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/shipilev">
 				<img src="https://avatars.githubusercontent.com/u/1858943?s=72&u=c9e5bd690e870dd25235b0f6b8cf0d4f253619e6&v=4" width="24" alt="Avatar of shipilev"> shipilev
@@ -172,10 +250,49 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>Red Hat </td>
 		<td><a href="https://twitter.com/shipilev">shipilev</a></td>
 		<td>Potsdam, Germany</td>
-		<td>4854</td>
+		<td>4858</td>
 	</tr>
 	<tr>
-		<td>7</td>
+		<td>13</td>
+		<td>
+			<a href="https://github.com/cthoyt">
+				<img src="https://avatars.githubusercontent.com/u/5069736?s=72&v=4" width="24" alt="Avatar of cthoyt"> cthoyt
+			</a><br/>
+			Charles Tapley Hoyt
+		</td>
+		<td>Harvard Medical School </td>
+		<td><a href="https://twitter.com/cthoyt">cthoyt</a></td>
+		<td>Bonn, Germany</td>
+		<td>4640</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
+			<a href="https://github.com/localheinz">
+				<img src="https://avatars.githubusercontent.com/u/605483?s=72&u=d6e926505b1127df66aa1132147e635b499e1fde&v=4" width="24" alt="Avatar of localheinz"> localheinz
+			</a><br/>
+			Andreas Möller
+		</td>
+		<td>@ergebnis </td>
+		<td><a href="https://twitter.com/localheinz">localheinz</a></td>
+		<td>Berlin, Germany</td>
+		<td>4635</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/jonas-schievink">
+				<img src="https://avatars.githubusercontent.com/u/1786438?s=72&v=4" width="24" alt="Avatar of jonas-schievink"> jonas-schievink
+			</a><br/>
+			Jonas Schievink
+		</td>
+		<td>Chief Curse Officer @ferrous-systems<br/></td>
+		<td>No Twitter Username</td>
+		<td>Berlin, Germany</td>
+		<td>4282</td>
+	</tr>
+	<tr>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/nikic">
 				<img src="https://avatars.githubusercontent.com/u/216080?s=72&v=4" width="24" alt="Avatar of nikic"> nikic
@@ -185,10 +302,62 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>Jetbrains </td>
 		<td><a href="https://twitter.com/nikita_ppv">nikita_ppv</a></td>
 		<td>Berlin, Germany</td>
-		<td>4194</td>
+		<td>4213</td>
 	</tr>
 	<tr>
-		<td>8</td>
+		<td>17</td>
+		<td>
+			<a href="https://github.com/svenstaro">
+				<img src="https://avatars.githubusercontent.com/u/1664?s=72&u=79d054c26a2b487173c52d342cd822884251bea7&v=4" width="24" alt="Avatar of svenstaro"> svenstaro
+			</a><br/>
+			Sven-Hendrik Haase
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Germany, Hamburg</td>
+		<td>4202</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
+			<a href="https://github.com/wolfv">
+				<img src="https://avatars.githubusercontent.com/u/885054?s=72&u=833ad7754e88429d7e610f9324ca6bc18d8e1bf0&v=4" width="24" alt="Avatar of wolfv"> wolfv
+			</a><br/>
+			Wolf Vollprecht
+		</td>
+		<td>Quantstack </td>
+		<td><a href="https://twitter.com/wuoulf">wuoulf</a></td>
+		<td>Berlin</td>
+		<td>4197</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>
+			<a href="https://github.com/strengejacke">
+				<img src="https://avatars.githubusercontent.com/u/26301769?s=72&u=5aaedb60d4f55848073f72d4dbd923eabaf6bead&v=4" width="24" alt="Avatar of strengejacke"> strengejacke
+			</a><br/>
+			Daniel
+		</td>
+		<td>Universitätsklinikum Hamburg-eppendorf </td>
+		<td>No Twitter Username</td>
+		<td>Hamburg, Germany</td>
+		<td>4184</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/LefterisJP">
+				<img src="https://avatars.githubusercontent.com/u/1658405?s=72&v=4" width="24" alt="Avatar of LefterisJP"> LefterisJP
+			</a><br/>
+			Lefteris Karapetsas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Berlin, Germany</td>
+		<td>4132</td>
+	</tr>
+	<tr>
+		<td>21</td>
 		<td>
 			<a href="https://github.com/poettering">
 				<img src="https://avatars.githubusercontent.com/u/2130732?s=72&u=150ad61e1e2802b6b0ef8636e5f6a466ffb1dd5f&v=4" width="24" alt="Avatar of poettering"> poettering
@@ -198,23 +367,10 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/pid_eins">pid_eins</a></td>
 		<td>Berlin, Germany</td>
-		<td>4028</td>
+		<td>4047</td>
 	</tr>
 	<tr>
-		<td>9</td>
-		<td>
-			<a href="https://github.com/hanxiao">
-				<img src="https://avatars.githubusercontent.com/u/2041322?s=72&v=4" width="24" alt="Avatar of hanxiao"> hanxiao
-			</a><br/>
-			Han Xiao
-		</td>
-		<td>@jina-ai </td>
-		<td><a href="https://twitter.com/hxiao">hxiao</a></td>
-		<td>Berlin, Germany</td>
-		<td>3942</td>
-	</tr>
-	<tr>
-		<td>10</td>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/PurpleBooth">
 				<img src="https://avatars.githubusercontent.com/u/133327?s=72&u=02d159b8d02a65fc6b26c60535bc2deadfa6715b&v=4" width="24" alt="Avatar of PurpleBooth"> PurpleBooth
@@ -224,10 +380,23 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>@armakuni </td>
 		<td><a href="https://twitter.com/PurpleBooth">PurpleBooth</a></td>
 		<td>Berlin</td>
-		<td>3940</td>
+		<td>3983</td>
 	</tr>
 	<tr>
-		<td>11</td>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/hanxiao">
+				<img src="https://avatars.githubusercontent.com/u/2041322?s=72&v=4" width="24" alt="Avatar of hanxiao"> hanxiao
+			</a><br/>
+			Han Xiao
+		</td>
+		<td>@jina-ai </td>
+		<td><a href="https://twitter.com/hxiao">hxiao</a></td>
+		<td>Berlin, Germany</td>
+		<td>3967</td>
+	</tr>
+	<tr>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/sebastianbergmann">
 				<img src="https://avatars.githubusercontent.com/u/25218?s=72&u=01bb70d9be43ded7572eb3862127ff281daa2725&v=4" width="24" alt="Avatar of sebastianbergmann"> sebastianbergmann
@@ -237,10 +406,49 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>@thephpcc  </td>
 		<td><a href="https://twitter.com/s_bergmann">s_bergmann</a></td>
 		<td>Siegburg, Germany</td>
-		<td>3911</td>
+		<td>3927</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/marvinhagemeister">
+				<img src="https://avatars.githubusercontent.com/u/1062408?s=72&u=73aee4c97c7888348e6534a272cda843e0866291&v=4" width="24" alt="Avatar of marvinhagemeister"> marvinhagemeister
+			</a><br/>
+			Marvin Hagemeister
+		</td>
+		<td>Awesome! Software Gmbh </td>
+		<td><a href="https://twitter.com/marvinhagemeist">marvinhagemeist</a></td>
+		<td>Düsseldorf, Germany</td>
+		<td>3922</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
+			<a href="https://github.com/mpadge">
+				<img src="https://avatars.githubusercontent.com/u/6697851?s=72&u=0f8c9fc5b04de2485164e2cde5b62d45b4e684a0&v=4" width="24" alt="Avatar of mpadge"> mpadge
+			</a><br/>
+			mark padgham
+		</td>
+		<td>@ropensci </td>
+		<td>No Twitter Username</td>
+		<td>Münster, Germany</td>
+		<td>3875</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td>
+			<a href="https://github.com/haesleinhuepf">
+				<img src="https://avatars.githubusercontent.com/u/12660498?s=72&u=c12fca35ab5021be99f5500fdd8a3ee126ad0e55&v=4" width="24" alt="Avatar of haesleinhuepf"> haesleinhuepf
+			</a><br/>
+			Robert Haase
+		</td>
+		<td>Physics Of Life, Tu<br/>Dresden<br/></td>
+		<td><a href="https://twitter.com/haesleinhuepf">haesleinhuepf</a></td>
+		<td>Dresden, Germany</td>
+		<td>3845</td>
+	</tr>
+	<tr>
+		<td>28</td>
 		<td>
 			<a href="https://github.com/WebReflection">
 				<img src="https://avatars.githubusercontent.com/u/85749?s=72&u=01f98bf9afe9c3c798b97ba508f63804ac729fe5&v=4" width="24" alt="Avatar of WebReflection"> WebReflection
@@ -250,10 +458,23 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/WebReflection">WebReflection</a></td>
 		<td>Berlin</td>
-		<td>3751</td>
+		<td>3783</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>29</td>
+		<td>
+			<a href="https://github.com/schlessera">
+				<img src="https://avatars.githubusercontent.com/u/83631?s=72&u=1d81294a2304e8d0c6a31cfc121bf639846752c9&v=4" width="24" alt="Avatar of schlessera"> schlessera
+			</a><br/>
+			Alain Schlesser
+		</td>
+		<td>Bright Nucleus </td>
+		<td><a href="https://twitter.com/schlessera">schlessera</a></td>
+		<td>Germany</td>
+		<td>3713</td>
+	</tr>
+	<tr>
+		<td>30</td>
 		<td>
 			<a href="https://github.com/marijnh">
 				<img src="https://avatars.githubusercontent.com/u/144427?s=72&u=a436bcccf762fe8955142810578b13db63e3173d&v=4" width="24" alt="Avatar of marijnh"> marijnh
@@ -263,10 +484,23 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>Not Interested In Recruiter<br/>Mail<br/></td>
 		<td>No Twitter Username</td>
 		<td>Berlin</td>
-		<td>3597</td>
+		<td>3604</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>31</td>
+		<td>
+			<a href="https://github.com/Turbo87">
+				<img src="https://avatars.githubusercontent.com/u/141300?s=72&u=e222ed60f0855d57158dd20d3613f4db42b4236f&v=4" width="24" alt="Avatar of Turbo87"> Turbo87
+			</a><br/>
+			Tobias Bieniek
+		</td>
+		<td>@simplabs  </td>
+		<td>No Twitter Username</td>
+		<td>Aachen, Germany</td>
+		<td>3540</td>
+	</tr>
+	<tr>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/probonopd">
 				<img src="https://avatars.githubusercontent.com/u/2480569?s=72&u=9f33a41cde32a83d2bc3ab23e3a2a0432f8c7fcb&v=4" width="24" alt="Avatar of probonopd"> probonopd
@@ -276,10 +510,10 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
-		<td>3504</td>
+		<td>3525</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/addaleax">
 				<img src="https://avatars.githubusercontent.com/u/899444?s=72&u=9129efce93ac27bfb0218eb5e0783d3ddfe32d73&v=4" width="24" alt="Avatar of addaleax"> addaleax
@@ -289,10 +523,49 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>@mongodb  </td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
-		<td>3452</td>
+		<td>3468</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>34</td>
+		<td>
+			<a href="https://github.com/NeverSinkDev">
+				<img src="https://avatars.githubusercontent.com/u/2942999?s=72&u=b9dd5d4c5d175cdf7d5915e03d3f7859f9b0e282&v=4" width="24" alt="Avatar of NeverSinkDev"> NeverSinkDev
+			</a><br/>
+			NeverSink
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/NeverSinkDev">NeverSinkDev</a></td>
+		<td>Lübeck, Germany</td>
+		<td>3406</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td>
+			<a href="https://github.com/kremalicious">
+				<img src="https://avatars.githubusercontent.com/u/90316?s=72&v=4" width="24" alt="Avatar of kremalicious"> kremalicious
+			</a><br/>
+			Matthias Kretschmann
+		</td>
+		<td>@oceanprotocol @bigchaindb </td>
+		<td><a href="https://twitter.com/kremalicious">kremalicious</a></td>
+		<td>Berlin, Germany</td>
+		<td>3360</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
+			<a href="https://github.com/eps1lon">
+				<img src="https://avatars.githubusercontent.com/u/12292047?s=72&u=b680d2aedb93269d597e78306e6e136c8ebaf328&v=4" width="24" alt="Avatar of eps1lon"> eps1lon
+			</a><br/>
+			Sebastian Silbermann
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sebsilbermann">sebsilbermann</a></td>
+		<td>Dresden, Germany</td>
+		<td>3219</td>
+	</tr>
+	<tr>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/sokra">
 				<img src="https://avatars.githubusercontent.com/u/1365881?s=72&v=4" width="24" alt="Avatar of sokra"> sokra
@@ -302,10 +575,10 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
-		<td>3127</td>
+		<td>3134</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/tomaka">
 				<img src="https://avatars.githubusercontent.com/u/1412254?s=72&u=ecef2ec2978264af0981f7ede6733ecf143d7134&v=4" width="24" alt="Avatar of tomaka"> tomaka
@@ -315,10 +588,10 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>@paritytech  </td>
 		<td><a href="https://twitter.com/tomaka17">tomaka17</a></td>
 		<td>Berlin, Germany</td>
-		<td>3098</td>
+		<td>3112</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/Roshanjossey">
 				<img src="https://avatars.githubusercontent.com/u/8488446?s=72&u=e420a14524b2dd93ba8d5cd9709ff8b7cb9002df&v=4" width="24" alt="Avatar of Roshanjossey"> Roshanjossey
@@ -328,10 +601,36 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>@jina-ai </td>
 		<td>No Twitter Username</td>
 		<td>Hamburg</td>
-		<td>3074</td>
+		<td>3075</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>40</td>
+		<td>
+			<a href="https://github.com/althonos">
+				<img src="https://avatars.githubusercontent.com/u/8660647?s=72&u=194fbf9846310fda8a9e9d1288993cc967e28ef9&v=4" width="24" alt="Avatar of althonos"> althonos
+			</a><br/>
+			Martin Larralde
+		</td>
+		<td>Embl, @zellerlab </td>
+		<td><a href="https://twitter.com/althonos">althonos</a></td>
+		<td>Heidelberg, Germany</td>
+		<td>3063</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
+			<a href="https://github.com/lmachens">
+				<img src="https://avatars.githubusercontent.com/u/10058950?s=72&u=e7de4b61441759354b1111ea215838257ab867cb&v=4" width="24" alt="Avatar of lmachens"> lmachens
+			</a><br/>
+			Leon Machens
+		</td>
+		<td>@neuefische  </td>
+		<td>No Twitter Username</td>
+		<td>Cologne, Germany</td>
+		<td>3057</td>
+	</tr>
+	<tr>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/willdurand">
 				<img src="https://avatars.githubusercontent.com/u/217628?s=72&u=2941ab8cfc1bd07c7434232a74b9564fb15ac763&v=4" width="24" alt="Avatar of willdurand"> willdurand
@@ -341,10 +640,10 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>@mozilla  </td>
 		<td><a href="https://twitter.com/couac">couac</a></td>
 		<td>Germany </td>
-		<td>2987</td>
+		<td>3004</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/bkimminich">
 				<img src="https://avatars.githubusercontent.com/u/3531020?s=72&u=3580bf96e804a253ccfffafda381453e55b3f542&v=4" width="24" alt="Avatar of bkimminich"> bkimminich
@@ -357,7 +656,7 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>2868</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>44</td>
 		<td>
 			<a href="https://github.com/codebytere">
 				<img src="https://avatars.githubusercontent.com/u/2036040?s=72&u=20f9411c9d609218913b74cf2ad0dc326ccab0b2&v=4" width="24" alt="Avatar of codebytere"> codebytere
@@ -367,10 +666,62 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>Msft </td>
 		<td><a href="https://twitter.com/codebytere">codebytere</a></td>
 		<td>Berlin</td>
-		<td>2821</td>
+		<td>2829</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>45</td>
+		<td>
+			<a href="https://github.com/niklasf">
+				<img src="https://avatars.githubusercontent.com/u/402777?s=72&u=1d6fdcb1a82a3f926329e56cdff023208bbadf83&v=4" width="24" alt="Avatar of niklasf"> niklasf
+			</a><br/>
+			Niklas Fiekas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/NiklasFiekas">NiklasFiekas</a></td>
+		<td>Germany</td>
+		<td>2823</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td>
+			<a href="https://github.com/minad">
+				<img src="https://avatars.githubusercontent.com/u/50754?s=72&v=4" width="24" alt="Avatar of minad"> minad
+			</a><br/>
+			Daniel Mendler
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>2747</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td>
+			<a href="https://github.com/fonsp">
+				<img src="https://avatars.githubusercontent.com/u/6933510?s=72&u=d7bc89d7d2012c20a9880a1d9b77ed0477eb89b1&v=4" width="24" alt="Avatar of fonsp"> fonsp
+			</a><br/>
+			Fons van der Plas
+		</td>
+		<td>Mit </td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>2744</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td>
+			<a href="https://github.com/leofeyer">
+				<img src="https://avatars.githubusercontent.com/u/1192057?s=72&u=8315c2abc3dfd9ec151a91f45a6681fd9596afa3&v=4" width="24" alt="Avatar of leofeyer"> leofeyer
+			</a><br/>
+			Leo Feyer
+		</td>
+		<td>Feyer Media Gmbh &<br/>Co.<br/>Kg<br/></td>
+		<td><a href="https://twitter.com/leofeyer">leofeyer</a></td>
+		<td>Wuppertal, Germany</td>
+		<td>2734</td>
+	</tr>
+	<tr>
+		<td>49</td>
 		<td>
 			<a href="https://github.com/IndrajeetPatil">
 				<img src="https://avatars.githubusercontent.com/u/11330453?s=72&u=6eb9f03fe4cc5a2a67633252acda215b113234be&v=4" width="24" alt="Avatar of IndrajeetPatil"> IndrajeetPatil
@@ -380,10 +731,36 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>Max Planck Institute For<br/>Human<br/>Development<br/></td>
 		<td><a href="https://twitter.com/patilindrajeets">patilindrajeets</a></td>
 		<td>Berlin, Germany</td>
-		<td>2694</td>
+		<td>2704</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>50</td>
+		<td>
+			<a href="https://github.com/def-">
+				<img src="https://avatars.githubusercontent.com/u/2335377?s=72&u=51dc01412b851d913beba7d97ff0f056b90ecc5e&v=4" width="24" alt="Avatar of def-"> def-
+			</a><br/>
+			Dennis Felsing
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Heidelberg, Germany</td>
+		<td>2659</td>
+	</tr>
+	<tr>
+		<td>51</td>
+		<td>
+			<a href="https://github.com/rse">
+				<img src="https://avatars.githubusercontent.com/u/221273?s=72&u=b3d0b904fb6519743bcbcd86549315ce71899b21&v=4" width="24" alt="Avatar of rse"> rse
+			</a><br/>
+			Dr. Ralf S. Engelschall
+		</td>
+		<td>Msg Research, Msg Systems<br/>Ag<br/></td>
+		<td><a href="https://twitter.com/engelschall">engelschall</a></td>
+		<td>Germany</td>
+		<td>2639</td>
+	</tr>
+	<tr>
+		<td>52</td>
 		<td>
 			<a href="https://github.com/bergie">
 				<img src="https://avatars.githubusercontent.com/u/3346?s=72&u=ac8ea9574c8a6c3c9a2f2e808f7655256436b8f3&v=4" width="24" alt="Avatar of bergie"> bergie
@@ -396,7 +773,150 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>2637</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>53</td>
+		<td>
+			<a href="https://github.com/raphaelm">
+				<img src="https://avatars.githubusercontent.com/u/64280?s=72&u=2a6881e3cd7c7d5ad65addcdb01b152cc3376a67&v=4" width="24" alt="Avatar of raphaelm"> raphaelm
+			</a><br/>
+			Raphael Michel
+		</td>
+		<td>Rami.io Gmbh </td>
+		<td><a href="https://twitter.com/_rami_">_rami_</a></td>
+		<td>Heidelberg, Germany</td>
+		<td>2581</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/sschuberth">
+				<img src="https://avatars.githubusercontent.com/u/349154?s=72&v=4" width="24" alt="Avatar of sschuberth"> sschuberth
+			</a><br/>
+			Sebastian Schuberth
+		</td>
+		<td>@bosch-io </td>
+		<td>No Twitter Username</td>
+		<td>Berlin, Germany</td>
+		<td>2576</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>
+			<a href="https://github.com/lucab">
+				<img src="https://avatars.githubusercontent.com/u/98086?s=72&u=e5f193a03a781e5270569c9c36693c221fe834c3&v=4" width="24" alt="Avatar of lucab"> lucab
+			</a><br/>
+			Luca Bruno
+		</td>
+		<td>Red Hat </td>
+		<td><a href="https://twitter.com/lucabruno">lucabruno</a></td>
+		<td>Berlin</td>
+		<td>2566</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/SimonDanisch">
+				<img src="https://avatars.githubusercontent.com/u/1010467?s=72&u=362e07c12c7ac5bb31a57ed29b5782190ad08a02&v=4" width="24" alt="Avatar of SimonDanisch"> SimonDanisch
+			</a><br/>
+			Simon
+		</td>
+		<td>@beacon-biosignals  </td>
+		<td><a href="https://twitter.com/SimonDanisch">SimonDanisch</a></td>
+		<td>Berlin</td>
+		<td>2553</td>
+	</tr>
+	<tr>
+		<td>57</td>
+		<td>
+			<a href="https://github.com/emilio">
+				<img src="https://avatars.githubusercontent.com/u/1323194?s=72&u=93e4d24fee9e70f1199839b665e9285308b78818&v=4" width="24" alt="Avatar of emilio"> emilio
+			</a><br/>
+			Emilio Cobos Álvarez
+		</td>
+		<td>@mozilla </td>
+		<td><a href="https://twitter.com/ecbos_">ecbos_</a></td>
+		<td>Berlin, Germany / Salamanca, Spain</td>
+		<td>2538</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
+			<a href="https://github.com/dpryan79">
+				<img src="https://avatars.githubusercontent.com/u/6399000?s=72&u=3decd52425131261addc75a0127b2f43b2167a2a&v=4" width="24" alt="Avatar of dpryan79"> dpryan79
+			</a><br/>
+			Devon Ryan
+		</td>
+		<td>Genedata Ag </td>
+		<td>No Twitter Username</td>
+		<td>Basel, Switzerland / Freiburg, Germany</td>
+		<td>2510</td>
+	</tr>
+	<tr>
+		<td>59</td>
+		<td>
+			<a href="https://github.com/bkchr">
+				<img src="https://avatars.githubusercontent.com/u/5718007?s=72&u=aa4dc03aebdbb2ef027154968fab6ac34ad89a0c&v=4" width="24" alt="Avatar of bkchr"> bkchr
+			</a><br/>
+			Bastian Köcher
+		</td>
+		<td>@paritytech  </td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>2499</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/herrbischoff">
+				<img src="https://avatars.githubusercontent.com/u/8957346?s=72&v=4" width="24" alt="Avatar of herrbischoff"> herrbischoff
+			</a><br/>
+			Marcel Bischoff
+		</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Hamburg, Germany, Earth (Sol)</td>
+		<td>2495</td>
+	</tr>
+	<tr>
+		<td>61</td>
+		<td>
+			<a href="https://github.com/johanneskoester">
+				<img src="https://avatars.githubusercontent.com/u/1858646?s=72&u=b3d74bc56810d31fe58cc3f11c85bac657f6482d&v=4" width="24" alt="Avatar of johanneskoester"> johanneskoester
+			</a><br/>
+			Johannes Köster
+		</td>
+		<td>University Of Duisburg-essen </td>
+		<td><a href="https://twitter.com/johanneskoester">johanneskoester</a></td>
+		<td>Essen, Germany</td>
+		<td>2462</td>
+	</tr>
+	<tr>
+		<td>62</td>
+		<td>
+			<a href="https://github.com/ff6347">
+				<img src="https://avatars.githubusercontent.com/u/315106?s=72&u=f31f5c5c50be40a2e7754c24798aed9e3d26c50d&v=4" width="24" alt="Avatar of ff6347"> ff6347
+			</a><br/>
+			Fabian Morón Zirfas
+		</td>
+		<td>@technologiestiftung </td>
+		<td><a href="https://twitter.com/fmoronzirfas">fmoronzirfas</a></td>
+		<td>Berlin</td>
+		<td>2461</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
+			<a href="https://github.com/mxschmitt">
+				<img src="https://avatars.githubusercontent.com/u/17984549?s=72&u=a0041a1656a0369e80043db06ba2cf51023e73a4&v=4" width="24" alt="Avatar of mxschmitt"> mxschmitt
+			</a><br/>
+			Max Schmitt
+		</td>
+		<td>@microsoft </td>
+		<td><a href="https://twitter.com/maxibanki">maxibanki</a></td>
+		<td>Germany, Berlin</td>
+		<td>2459</td>
+	</tr>
+	<tr>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/christian-bromann">
 				<img src="https://avatars.githubusercontent.com/u/731337?s=72&u=029e1004d7b48bc669c3eef60c8b3566841c7477&v=4" width="24" alt="Avatar of christian-bromann"> christian-bromann
@@ -406,10 +926,49 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>@saucelabs </td>
 		<td><a href="https://twitter.com/bromann">bromann</a></td>
 		<td>Berlin, Germany</td>
-		<td>2379</td>
+		<td>2381</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>65</td>
+		<td>
+			<a href="https://github.com/anthraxx">
+				<img src="https://avatars.githubusercontent.com/u/203012?s=72&v=4" width="24" alt="Avatar of anthraxx"> anthraxx
+			</a><br/>
+			Levente Polyak
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/anthraxx42">anthraxx42</a></td>
+		<td>Germany</td>
+		<td>2330</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
+			<a href="https://github.com/FlorianRappl">
+				<img src="https://avatars.githubusercontent.com/u/1766191?s=72&u=a0381bc84048579599923da6ebcb7793a0a7bb91&v=4" width="24" alt="Avatar of FlorianRappl"> FlorianRappl
+			</a><br/>
+			Florian Rappl
+		</td>
+		<td>@smapiot </td>
+		<td><a href="https://twitter.com/FlorianRappl">FlorianRappl</a></td>
+		<td>Munich, Germany</td>
+		<td>2293</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
+			<a href="https://github.com/sophiabrandt">
+				<img src="https://avatars.githubusercontent.com/u/16630701?s=72&u=476d9ee218e0d671c2a6b706dd946fedb12a7bae&v=4" width="24" alt="Avatar of sophiabrandt"> sophiabrandt
+			</a><br/>
+			Sophia Brandt
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/hisophiabrandt">hisophiabrandt</a></td>
+		<td>near Dortmund, Germany</td>
+		<td>2274</td>
+	</tr>
+	<tr>
+		<td>68</td>
 		<td>
 			<a href="https://github.com/normanmaurer">
 				<img src="https://avatars.githubusercontent.com/u/439362?s=72&u=f1963e1e7ca28c94c291cf1a2c04c8adc63e54d2&v=4" width="24" alt="Avatar of normanmaurer"> normanmaurer
@@ -419,10 +978,101 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>@apple @netty </td>
 		<td><a href="https://twitter.com/normanmaurer">normanmaurer</a></td>
 		<td>Germany</td>
-		<td>2257</td>
+		<td>2263</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>69</td>
+		<td>
+			<a href="https://github.com/johannesjo">
+				<img src="https://avatars.githubusercontent.com/u/1456265?s=72&v=4" width="24" alt="Avatar of johannesjo"> johannesjo
+			</a><br/>
+			Johannes Millan
+		</td>
+		<td>Frontend Developer </td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>2231</td>
+	</tr>
+	<tr>
+		<td>70</td>
+		<td>
+			<a href="https://github.com/nomeata">
+				<img src="https://avatars.githubusercontent.com/u/148037?s=72&u=08db26a72cfe73a7c63ffe9704d1f025bf92ba25&v=4" width="24" alt="Avatar of nomeata"> nomeata
+			</a><br/>
+			Joachim Breitner
+		</td>
+		<td>@dfinity-lab  </td>
+		<td><a href="https://twitter.com/nomeata">nomeata</a></td>
+		<td>Freiburg, Germany</td>
+		<td>2192</td>
+	</tr>
+	<tr>
+		<td>71</td>
+		<td>
+			<a href="https://github.com/nikku">
+				<img src="https://avatars.githubusercontent.com/u/58601?s=72&v=4" width="24" alt="Avatar of nikku"> nikku
+			</a><br/>
+			Nico Rehwaldt
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nrehwaldt">nrehwaldt</a></td>
+		<td>Berlin, Germany</td>
+		<td>2192</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
+			<a href="https://github.com/tboerger">
+				<img src="https://avatars.githubusercontent.com/u/156964?s=72&u=8ba41cc4f3c530dd8fe3e705de4d08706d8d962d&v=4" width="24" alt="Avatar of tboerger"> tboerger
+			</a><br/>
+			Thomas Boerger
+		</td>
+		<td>Proact Deutschland Gmbh </td>
+		<td>No Twitter Username</td>
+		<td>Nuremberg, Germany</td>
+		<td>2159</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>
+			<a href="https://github.com/kraih">
+				<img src="https://avatars.githubusercontent.com/u/30094?s=72&v=4" width="24" alt="Avatar of kraih"> kraih
+			</a><br/>
+			Sebastian Riedel
+		</td>
+		<td>@suse </td>
+		<td><a href="https://twitter.com/kraih">kraih</a></td>
+		<td>Germany</td>
+		<td>2154</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
+			<a href="https://github.com/vasco-santos">
+				<img src="https://avatars.githubusercontent.com/u/7295071?s=72&u=b40920cc2d6dc27b9a146e3d02cbd595da5d2dcd&v=4" width="24" alt="Avatar of vasco-santos"> vasco-santos
+			</a><br/>
+			Vasco Santos
+		</td>
+		<td>@moxystudio @protocol </td>
+		<td><a href="https://twitter.com/vascosantos10">vascosantos10</a></td>
+		<td>Berlin, Germany</td>
+		<td>2154</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
+			<a href="https://github.com/philippjfr">
+				<img src="https://avatars.githubusercontent.com/u/1550771?s=72&u=cc36c20362dcd147ce11d76b2e16462076a7b203&v=4" width="24" alt="Avatar of philippjfr"> philippjfr
+			</a><br/>
+			Philipp Rudiger
+		</td>
+		<td>Anaconda Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Berlin, Germany</td>
+		<td>2138</td>
+	</tr>
+	<tr>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/LekoArts">
 				<img src="https://avatars.githubusercontent.com/u/16143594?s=72&u=5912586fb7315f5a541e1ddabcd8881af8b7de63&v=4" width="24" alt="Avatar of LekoArts"> LekoArts
@@ -432,10 +1082,49 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>@gatsbyjs </td>
 		<td><a href="https://twitter.com/lekoarts_de">lekoarts_de</a></td>
 		<td>Germany</td>
-		<td>2062</td>
+		<td>2074</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>77</td>
+		<td>
+			<a href="https://github.com/brauner">
+				<img src="https://avatars.githubusercontent.com/u/7353573?s=72&u=bfcdd5b7a367c1ba17c163cf22026516d28d518c&v=4" width="24" alt="Avatar of brauner"> brauner
+			</a><br/>
+			Christian Brauner
+		</td>
+		<td>Canonical Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>2054</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>
+			<a href="https://github.com/rurban">
+				<img src="https://avatars.githubusercontent.com/u/41809?s=72&u=edffd729778cdefd68f5642614acbd3a6af4fdee&v=4" width="24" alt="Avatar of rurban"> rurban
+			</a><br/>
+			Reini Urban
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dresden, Germany</td>
+		<td>2027</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
+			<a href="https://github.com/staabm">
+				<img src="https://avatars.githubusercontent.com/u/120441?s=72&v=4" width="24" alt="Avatar of staabm"> staabm
+			</a><br/>
+			Markus Staab
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>2013</td>
+	</tr>
+	<tr>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/ines">
 				<img src="https://avatars.githubusercontent.com/u/13643239?s=72&u=80bd20a4a209f225bd01892fcb29d75102d94161&v=4" width="24" alt="Avatar of ines"> ines
@@ -445,10 +1134,23 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>Founder @explosion  </td>
 		<td>No Twitter Username</td>
 		<td>Berlin, Germany</td>
-		<td>2000</td>
+		<td>2001</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>81</td>
+		<td>
+			<a href="https://github.com/pocmo">
+				<img src="https://avatars.githubusercontent.com/u/89638?s=72&u=2685b4af0991f468c539282eb380c186ed4a9bf2&v=4" width="24" alt="Avatar of pocmo"> pocmo
+			</a><br/>
+			Sebastian Kaspari
+		</td>
+		<td>Mozilla </td>
+		<td>No Twitter Username</td>
+		<td>Passau, Germany</td>
+		<td>1995</td>
+	</tr>
+	<tr>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/leahneukirchen">
 				<img src="https://avatars.githubusercontent.com/u/139?s=72&u=57ed08ba022445d91e5190d92198e99506f6ac0f&v=4" width="24" alt="Avatar of leahneukirchen"> leahneukirchen
@@ -461,7 +1163,33 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>1976</td>
 	</tr>
 	<tr>
-		<td>29</td>
+		<td>83</td>
+		<td>
+			<a href="https://github.com/janpio">
+				<img src="https://avatars.githubusercontent.com/u/183673?s=72&u=b077ac7c4931e6d7b292f228b5877c53b74d4d10&v=4" width="24" alt="Avatar of janpio"> janpio
+			</a><br/>
+			Jan Piotrowski
+		</td>
+		<td>Prisma </td>
+		<td><a href="https://twitter.com/janpio">janpio</a></td>
+		<td>Berlin, Germany</td>
+		<td>1975</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
+			<a href="https://github.com/fthomas">
+				<img src="https://avatars.githubusercontent.com/u/141252?s=72&u=993050e92ebb4800d1438e95d6d7d3e446dad5c6&v=4" width="24" alt="Avatar of fthomas"> fthomas
+			</a><br/>
+			Frank Thomas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/fst9000">fst9000</a></td>
+		<td>Augsburg, Germany</td>
+		<td>1973</td>
+	</tr>
+	<tr>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/edzer">
 				<img src="https://avatars.githubusercontent.com/u/520851?s=72&u=9bc892c3523be428dc211f2ccbcf04e8e0e564ff&v=4" width="24" alt="Avatar of edzer"> edzer
@@ -471,10 +1199,62 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>Institute For Geoinformatics, University<br/>Of<br/>Muenster<br/></td>
 		<td>No Twitter Username</td>
 		<td>Muenster, Germany</td>
-		<td>1946</td>
+		<td>1950</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>86</td>
+		<td>
+			<a href="https://github.com/roji">
+				<img src="https://avatars.githubusercontent.com/u/1862641?s=72&u=3c47b8edd174da56aa159ebf50a0a453af2e228e&v=4" width="24" alt="Avatar of roji"> roji
+			</a><br/>
+			Shay Rojansky
+		</td>
+		<td>@microsoft  </td>
+		<td><a href="https://twitter.com/shayrojansky">shayrojansky</a></td>
+		<td>Berlin, Germany</td>
+		<td>1939</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
+			<a href="https://github.com/miku">
+				<img src="https://avatars.githubusercontent.com/u/53705?s=72&v=4" width="24" alt="Avatar of miku"> miku
+			</a><br/>
+			Martin Czygan
+		</td>
+		<td>@internetarchive </td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>1937</td>
+	</tr>
+	<tr>
+		<td>88</td>
+		<td>
+			<a href="https://github.com/Mugen87">
+				<img src="https://avatars.githubusercontent.com/u/12612165?s=72&u=60c08e79904982541c82a1ea2dbb0d781a21820b&v=4" width="24" alt="Avatar of Mugen87"> Mugen87
+			</a><br/>
+			Michael Herzog
+		</td>
+		<td>Human Interactive </td>
+		<td><a href="https://twitter.com/HUMAN_IA">HUMAN_IA</a></td>
+		<td>Germany</td>
+		<td>1925</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
+			<a href="https://github.com/brillout">
+				<img src="https://avatars.githubusercontent.com/u/1005638?s=72&u=3950ce4fe6063c07436b1e9d201931fc6ed05dda&v=4" width="24" alt="Avatar of brillout"> brillout
+			</a><br/>
+			Romuald Brillout
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Germany, Munich</td>
+		<td>1925</td>
+	</tr>
+	<tr>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/vanhauser-thc">
 				<img src="https://avatars.githubusercontent.com/u/7396244?s=72&u=952127371f345a18656cb9c91a67cde499fbfdc6&v=4" width="24" alt="Avatar of vanhauser-thc"> vanhauser-thc
@@ -484,10 +1264,10 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>The Hacker's Choice |<br/>Mh-sec<br/>|<br/>Me<br/>|<br/>Myself<br/></td>
 		<td><a href="https://twitter.com/hackerschoice">hackerschoice</a></td>
 		<td>Berlin</td>
-		<td>1892</td>
+		<td>1899</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/mrnugget">
 				<img src="https://avatars.githubusercontent.com/u/1185253?s=72&u=35f048c505007991433b46c9c0616ccbcfbd4bff&v=4" width="24" alt="Avatar of mrnugget"> mrnugget
@@ -500,7 +1280,33 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>1889</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>92</td>
+		<td>
+			<a href="https://github.com/emmenko">
+				<img src="https://avatars.githubusercontent.com/u/1110551?s=72&u=cb289095d891d3312ff734a871b729cddacc50b3&v=4" width="24" alt="Avatar of emmenko"> emmenko
+			</a><br/>
+			Nicola Molinari
+		</td>
+		<td>@commercetools </td>
+		<td><a href="https://twitter.com/emmenko">emmenko</a></td>
+		<td>Munich</td>
+		<td>1858</td>
+	</tr>
+	<tr>
+		<td>93</td>
+		<td>
+			<a href="https://github.com/Jolg42">
+				<img src="https://avatars.githubusercontent.com/u/1328733?s=72&u=84968c1bccf9dd993331c3aece06ea4165e646cc&v=4" width="24" alt="Avatar of Jolg42"> Jolg42
+			</a><br/>
+			Joël Galeran
+		</td>
+		<td>@prisma </td>
+		<td><a href="https://twitter.com/Jolg42">Jolg42</a></td>
+		<td>Berlin</td>
+		<td>1850</td>
+	</tr>
+	<tr>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/mre">
 				<img src="https://avatars.githubusercontent.com/u/175809?s=72&u=83b2b9a31b511f1bf560c4edeebfae965b534e59&v=4" width="24" alt="Avatar of mre"> mre
@@ -510,10 +1316,23 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>@trivago </td>
 		<td><a href="https://twitter.com/matthiasendler">matthiasendler</a></td>
 		<td>Düsseldorf, Germany</td>
-		<td>1830</td>
+		<td>1833</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>95</td>
+		<td>
+			<a href="https://github.com/derhuerst">
+				<img src="https://avatars.githubusercontent.com/u/5072613?s=72&u=ad56a4cd8cb497304e41e689425d4f1153465c73&v=4" width="24" alt="Avatar of derhuerst"> derhuerst
+			</a><br/>
+			Jannis R
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/derhuerst">derhuerst</a></td>
+		<td>Berlin</td>
+		<td>1827</td>
+	</tr>
+	<tr>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/d4rken">
 				<img src="https://avatars.githubusercontent.com/u/1439229?s=72&u=7283fe854117ff684a8a2eaddfe2da324912d7e6&v=4" width="24" alt="Avatar of d4rken"> d4rken
@@ -523,10 +1342,23 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/d4rken">d4rken</a></td>
 		<td>Germany</td>
-		<td>1782</td>
+		<td>1791</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>97</td>
+		<td>
+			<a href="https://github.com/jondubois">
+				<img src="https://avatars.githubusercontent.com/u/1187447?s=72&u=b41d15cb061d1e3766a23412e60a9418d9c5ebfb&v=4" width="24" alt="Avatar of jondubois"> jondubois
+			</a><br/>
+			Jonathan Gros-Dubois
+		</td>
+		<td>@leasehold </td>
+		<td><a href="https://twitter.com/jgrosdubois">jgrosdubois</a></td>
+		<td>Berlin, Germany</td>
+		<td>1789</td>
+	</tr>
+	<tr>
+		<td>98</td>
 		<td>
 			<a href="https://github.com/pudo">
 				<img src="https://avatars.githubusercontent.com/u/41628?s=72&v=4" width="24" alt="Avatar of pudo"> pudo
@@ -536,10 +1368,10 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/pudo">pudo</a></td>
 		<td>Berlin</td>
-		<td>1774</td>
+		<td>1783</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/foosel">
 				<img src="https://avatars.githubusercontent.com/u/83657?s=72&u=6122881035b85c2c5e92aa8ee78692084c199c1e&v=4" width="24" alt="Avatar of foosel"> foosel
@@ -549,10 +1381,23 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>@octoprint  </td>
 		<td><a href="https://twitter.com/foosel">foosel</a></td>
 		<td>Obertshausen, Germany</td>
-		<td>1767</td>
+		<td>1779</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>100</td>
+		<td>
+			<a href="https://github.com/albertz">
+				<img src="https://avatars.githubusercontent.com/u/59132?s=72&v=4" width="24" alt="Avatar of albertz"> albertz
+			</a><br/>
+			Albert Zeyer
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Aachen, Germany</td>
+		<td>1741</td>
+	</tr>
+	<tr>
+		<td>101</td>
 		<td>
 			<a href="https://github.com/bastianallgeier">
 				<img src="https://avatars.githubusercontent.com/u/24532?s=72&v=4" width="24" alt="Avatar of bastianallgeier"> bastianallgeier
@@ -562,10 +1407,36 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>Kirby </td>
 		<td>No Twitter Username</td>
 		<td>Neckargemünd, Germany</td>
-		<td>1734</td>
+		<td>1737</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>102</td>
+		<td>
+			<a href="https://github.com/gunnarmorling">
+				<img src="https://avatars.githubusercontent.com/u/28612?s=72&u=004bb13831ab044d93c3124af75dc4f36224809b&v=4" width="24" alt="Avatar of gunnarmorling"> gunnarmorling
+			</a><br/>
+			Gunnar Morling
+		</td>
+		<td>Red Hat </td>
+		<td>No Twitter Username</td>
+		<td>Hamburg, Germany</td>
+		<td>1721</td>
+	</tr>
+	<tr>
+		<td>103</td>
+		<td>
+			<a href="https://github.com/Licenser">
+				<img src="https://avatars.githubusercontent.com/u/119093?s=72&v=4" width="24" alt="Avatar of Licenser"> Licenser
+			</a><br/>
+			Heinz N. Gies
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/heinz_gies">heinz_gies</a></td>
+		<td>Berlin, Germany</td>
+		<td>1719</td>
+	</tr>
+	<tr>
+		<td>104</td>
 		<td>
 			<a href="https://github.com/electerious">
 				<img src="https://avatars.githubusercontent.com/u/499088?s=72&v=4" width="24" alt="Avatar of electerious"> electerious
@@ -578,7 +1449,124 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>1695</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>105</td>
+		<td>
+			<a href="https://github.com/noptrix">
+				<img src="https://avatars.githubusercontent.com/u/1063015?s=72&u=731201077ead32191ffb24e30ab542b1013d6cae&v=4" width="24" alt="Avatar of noptrix"> noptrix
+			</a><br/>
+			winetrix
+		</td>
+		<td>Nullsecurity, Blackarch Linux </td>
+		<td><a href="https://twitter.com/noptrix">noptrix</a></td>
+		<td>Germany (Berlin), Armenia, Stack, Heap</td>
+		<td>1693</td>
+	</tr>
+	<tr>
+		<td>106</td>
+		<td>
+			<a href="https://github.com/xabbuh">
+				<img src="https://avatars.githubusercontent.com/u/1957048?s=72&u=2a0c7f968a2fe396be4adb86dcc2cc851c917326&v=4" width="24" alt="Avatar of xabbuh"> xabbuh
+			</a><br/>
+			Christian Flothmann
+		</td>
+		<td>@qossmic </td>
+		<td>No Twitter Username</td>
+		<td>Osnabrück, Germany</td>
+		<td>1687</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td>
+			<a href="https://github.com/turian">
+				<img src="https://avatars.githubusercontent.com/u/65918?s=72&u=d4b2e4d515361b64ea5a2c207acfee4c29bfc02e&v=4" width="24" alt="Avatar of turian"> turian
+			</a><br/>
+			Joseph Turian
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/turian">turian</a></td>
+		<td>Berlin + New York</td>
+		<td>1685</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/andig">
+				<img src="https://avatars.githubusercontent.com/u/184815?s=72&v=4" width="24" alt="Avatar of andig"> andig
+			</a><br/>
+			andig
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>1674</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td>
+			<a href="https://github.com/tomayac">
+				<img src="https://avatars.githubusercontent.com/u/145676?s=72&u=d9e4353115d1dcae2ff7be06802522be0a4323df&v=4" width="24" alt="Avatar of tomayac"> tomayac
+			</a><br/>
+			Thomas Steiner
+		</td>
+		<td>@google Google </td>
+		<td><a href="https://twitter.com/tomayac">tomayac</a></td>
+		<td>Hamburg, Germany</td>
+		<td>1667</td>
+	</tr>
+	<tr>
+		<td>110</td>
+		<td>
+			<a href="https://github.com/felixfbecker">
+				<img src="https://avatars.githubusercontent.com/u/10532611?s=72&u=b02bd4f2245dd008c4b549bf84b5a8cb6667b649&v=4" width="24" alt="Avatar of felixfbecker"> felixfbecker
+			</a><br/>
+			Felix Becker
+		</td>
+		<td>@sourcegraph  </td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>1613</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
+			<a href="https://github.com/jens-maus">
+				<img src="https://avatars.githubusercontent.com/u/5887769?s=72&v=4" width="24" alt="Avatar of jens-maus"> jens-maus
+			</a><br/>
+			Jens Maus
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MausJens">MausJens</a></td>
+		<td>Dresden, Germany</td>
+		<td>1589</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td>
+			<a href="https://github.com/pepibumur">
+				<img src="https://avatars.githubusercontent.com/u/663605?s=72&u=7810ec77ae702e9a5fbc0481f859074ad1133ac3&v=4" width="24" alt="Avatar of pepibumur"> pepibumur
+			</a><br/>
+			Pedro Piñera Buendía
+		</td>
+		<td>@shopify </td>
+		<td><a href="https://twitter.com/pedropbuendia">pedropbuendia</a></td>
+		<td>Berlin</td>
+		<td>1588</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
+			<a href="https://github.com/LukasKalbertodt">
+				<img src="https://avatars.githubusercontent.com/u/7419664?s=72&u=9485fce546dda011c35f388b54d852e139ba30b2&v=4" width="24" alt="Avatar of LukasKalbertodt"> LukasKalbertodt
+			</a><br/>
+			Lukas Kalbertodt
+		</td>
+		<td>@elan-ev  </td>
+		<td><a href="https://twitter.com/LukasKalbertodt">LukasKalbertodt</a></td>
+		<td>Osnabrück, Germany</td>
+		<td>1586</td>
+	</tr>
+	<tr>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/rusty1s">
 				<img src="https://avatars.githubusercontent.com/u/6945922?s=72&u=d399e6faf2d800e967341d225ec5174db6af7abd&v=4" width="24" alt="Avatar of rusty1s"> rusty1s
@@ -591,20 +1579,111 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>1585</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>115</td>
 		<td>
-			<a href="https://github.com/ligi">
-				<img src="https://avatars.githubusercontent.com/u/111600?s=72&u=26403e7ba609510cbfd05103cc1f8a81c7d66834&v=4" width="24" alt="Avatar of ligi"> ligi
+			<a href="https://github.com/SuperQ">
+				<img src="https://avatars.githubusercontent.com/u/1320667?s=72&u=2d918e0481775893c2eae99e5fd17d7fe11d3ace&v=4" width="24" alt="Avatar of SuperQ"> SuperQ
 			</a><br/>
-			ligi
+			Ben Kochie
 		</td>
-		<td>@ethereum  </td>
-		<td><a href="https://twitter.com/mr_ligi">mr_ligi</a></td>
-		<td>Berlin, Earth, Milkiway</td>
-		<td>1490</td>
+		<td>@prometheus @gitlabhq  </td>
+		<td>No Twitter Username</td>
+		<td>Berlin, Germany</td>
+		<td>1579</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>116</td>
+		<td>
+			<a href="https://github.com/peterp">
+				<img src="https://avatars.githubusercontent.com/u/44849?s=72&u=42bd91cbf24edb11c43cf7d253fd86bdfef31375&v=4" width="24" alt="Avatar of peterp"> peterp
+			</a><br/>
+			Peter Pistorius
+		</td>
+		<td>@snaplet @redwoodjs </td>
+		<td><a href="https://twitter.com/appfactory">appfactory</a></td>
+		<td>Berlin</td>
+		<td>1578</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>
+			<a href="https://github.com/xeolabs">
+				<img src="https://avatars.githubusercontent.com/u/83100?s=72&u=e132eb54fc163463cab795f6bb67d74b28fe2b34&v=4" width="24" alt="Avatar of xeolabs"> xeolabs
+			</a><br/>
+			Lindsay Kay
+		</td>
+		<td>Xeolabs </td>
+		<td><a href="https://twitter.com/xeolabs">xeolabs</a></td>
+		<td>Berlin, Germany, Aotearoa</td>
+		<td>1567</td>
+	</tr>
+	<tr>
+		<td>118</td>
+		<td>
+			<a href="https://github.com/sttts">
+				<img src="https://avatars.githubusercontent.com/u/730123?s=72&v=4" width="24" alt="Avatar of sttts"> sttts
+			</a><br/>
+			Dr. Stefan Schimanski
+		</td>
+		<td>Red Hat </td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>1551</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
+			<a href="https://github.com/InventivetalentDev">
+				<img src="https://avatars.githubusercontent.com/u/6525296?s=72&u=aec95f6d2e5e3a6d8451ae1e8ad562bf194b6107&v=4" width="24" alt="Avatar of InventivetalentDev"> InventivetalentDev
+			</a><br/>
+			Haylee Schäfer
+		</td>
+		<td>@hypixeldev  </td>
+		<td><a href="https://twitter.com/Inventivtalent">Inventivtalent</a></td>
+		<td>Germany</td>
+		<td>1546</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>
+			<a href="https://github.com/stefanw">
+				<img src="https://avatars.githubusercontent.com/u/78356?s=72&u=c213fdbe5aa8ee0eff7a6a62778dd4a029013a8e&v=4" width="24" alt="Avatar of stefanw"> stefanw
+			</a><br/>
+			Stefan Wehrmeyer
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Berlin, Germany</td>
+		<td>1538</td>
+	</tr>
+	<tr>
+		<td>121</td>
+		<td>
+			<a href="https://github.com/mr-c">
+				<img src="https://avatars.githubusercontent.com/u/1330696?s=72&v=4" width="24" alt="Avatar of mr-c"> mr-c
+			</a><br/>
+			Michael R. Crusoe
+		</td>
+		<td>@common-workflow-lan  </td>
+		<td><a href="https://twitter.com/biocrusoe">biocrusoe</a></td>
+		<td>Berlin, Germany</td>
+		<td>1516</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>
+			<a href="https://github.com/michael-simons">
+				<img src="https://avatars.githubusercontent.com/u/526383?s=72&u=3b436c3a5ad21a93c0be020a66e2aa4ee2754aaa&v=4" width="24" alt="Avatar of michael-simons"> michael-simons
+			</a><br/>
+			Michael Simons
+		</td>
+		<td>@neo4j  </td>
+		<td>No Twitter Username</td>
+		<td>Aachen, Germany</td>
+		<td>1511</td>
+	</tr>
+	<tr>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/SaraVieira">
 				<img src="https://avatars.githubusercontent.com/u/1051509?s=72&u=ed31cf8dc8bd9357e71ab945333b578dc78a711a&v=4" width="24" alt="Avatar of SaraVieira"> SaraVieira
@@ -614,10 +1693,49 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>@codesandbox  </td>
 		<td><a href="https://twitter.com/NikkitaFTW">NikkitaFTW</a></td>
 		<td>Germany</td>
-		<td>1486</td>
+		<td>1498</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>124</td>
+		<td>
+			<a href="https://github.com/JeroenDeDauw">
+				<img src="https://avatars.githubusercontent.com/u/146040?s=72&u=a726248532ad57fd2a49d2476096f9e3de35f5c6&v=4" width="24" alt="Avatar of JeroenDeDauw"> JeroenDeDauw
+			</a><br/>
+			Jeroen De Dauw
+		</td>
+		<td>Professional.wiki </td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>1497</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
+			<a href="https://github.com/ligi">
+				<img src="https://avatars.githubusercontent.com/u/111600?s=72&u=26403e7ba609510cbfd05103cc1f8a81c7d66834&v=4" width="24" alt="Avatar of ligi"> ligi
+			</a><br/>
+			ligi
+		</td>
+		<td>@ethereum  </td>
+		<td><a href="https://twitter.com/mr_ligi">mr_ligi</a></td>
+		<td>Berlin, Earth, Milkiway</td>
+		<td>1492</td>
+	</tr>
+	<tr>
+		<td>126</td>
+		<td>
+			<a href="https://github.com/marcelklehr">
+				<img src="https://avatars.githubusercontent.com/u/986878?s=72&u=1408d48c83a9129a5f46028c377d581af5e20058&v=4" width="24" alt="Avatar of marcelklehr"> marcelklehr
+			</a><br/>
+			Marcel Klehr
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/marcelklehr">marcelklehr</a></td>
+		<td>Germany</td>
+		<td>1472</td>
+	</tr>
+	<tr>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/spacejam">
 				<img src="https://avatars.githubusercontent.com/u/1505488?s=72&u=2c0cbecc79b509d18d421b151f45159965af61f9&v=4" width="24" alt="Avatar of spacejam"> spacejam
@@ -627,10 +1745,23 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/sadisticsystems">sadisticsystems</a></td>
 		<td>Berlin & NYC</td>
-		<td>1465</td>
+		<td>1468</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>128</td>
+		<td>
+			<a href="https://github.com/ledermann">
+				<img src="https://avatars.githubusercontent.com/u/3557?s=72&u=323dbfb2c8a7e2bd527d2c4e231dcfab518033c1&v=4" width="24" alt="Avatar of ledermann"> ledermann
+			</a><br/>
+			Georg Ledermann
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ledermann">ledermann</a></td>
+		<td>Jülich, Germany</td>
+		<td>1464</td>
+	</tr>
+	<tr>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/yoshuawuyts">
 				<img src="https://avatars.githubusercontent.com/u/2467194?s=72&u=300b3913e0e77f925f7116f4830098725a03629f&v=4" width="24" alt="Avatar of yoshuawuyts"> yoshuawuyts
@@ -640,10 +1771,36 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/yoshuawuyts">yoshuawuyts</a></td>
 		<td>Berlin, Germany</td>
+		<td>1451</td>
+	</tr>
+	<tr>
+		<td>130</td>
+		<td>
+			<a href="https://github.com/laf0rge">
+				<img src="https://avatars.githubusercontent.com/u/1250205?s=72&u=24c53208092b3be00ba361ffb1266500cd6e268c&v=4" width="24" alt="Avatar of laf0rge"> laf0rge
+			</a><br/>
+			Harald Welte
+		</td>
+		<td>Sysmocom - Systems For<br/>Mobile<br/>Communications<br/>Gmbh<br/></td>
+		<td>No Twitter Username</td>
+		<td>Berlin, Germany</td>
 		<td>1450</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>131</td>
+		<td>
+			<a href="https://github.com/fabsx00">
+				<img src="https://avatars.githubusercontent.com/u/1379115?s=72&v=4" width="24" alt="Avatar of fabsx00"> fabsx00
+			</a><br/>
+			Fabian Yamaguchi
+		</td>
+		<td>Shiftleft Inc </td>
+		<td>No Twitter Username</td>
+		<td>Berlin, Germany</td>
+		<td>1430</td>
+	</tr>
+	<tr>
+		<td>132</td>
 		<td>
 			<a href="https://github.com/PascalPrecht">
 				<img src="https://avatars.githubusercontent.com/u/445106?s=72&u=d04f8bc8e08af5459cc369be338db1ea87564531&v=4" width="24" alt="Avatar of PascalPrecht"> PascalPrecht
@@ -653,10 +1810,49 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>@status-im </td>
 		<td><a href="https://twitter.com/PascalPrecht">PascalPrecht</a></td>
 		<td>Germany</td>
-		<td>1400</td>
+		<td>1419</td>
 	</tr>
 	<tr>
-		<td>44</td>
+		<td>133</td>
+		<td>
+			<a href="https://github.com/gnunicorn">
+				<img src="https://avatars.githubusercontent.com/u/40496?s=72&u=7306b263550a878aa032ff02946b89bfbfe67fc3&v=4" width="24" alt="Avatar of gnunicorn"> gnunicorn
+			</a><br/>
+			Benjamin Kampmann
+		</td>
+		<td>@paritytech  </td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>1416</td>
+	</tr>
+	<tr>
+		<td>134</td>
+		<td>
+			<a href="https://github.com/odan">
+				<img src="https://avatars.githubusercontent.com/u/781074?s=72&u=34b14784aa7e59251d6e9e5e404c84c27235d9cf&v=4" width="24" alt="Avatar of odan"> odan
+			</a><br/>
+			Daniel Opitz
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dopitz">dopitz</a></td>
+		<td>Germany, Switzerland</td>
+		<td>1401</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
+			<a href="https://github.com/x42">
+				<img src="https://avatars.githubusercontent.com/u/30246?s=72&v=4" width="24" alt="Avatar of x42"> x42
+			</a><br/>
+			Robin Gareus
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>1398</td>
+	</tr>
+	<tr>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/z3tt">
 				<img src="https://avatars.githubusercontent.com/u/7523556?s=72&u=72623a2d0100c762086ef50012885895305effa9&v=4" width="24" alt="Avatar of z3tt"> z3tt
@@ -666,10 +1862,23 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>Self-employed  • <br/>Izw<br/>Berlin<br/></td>
 		<td><a href="https://twitter.com/CedScherer">CedScherer</a></td>
 		<td>Berlin</td>
-		<td>1392</td>
+		<td>1393</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>137</td>
+		<td>
+			<a href="https://github.com/heinrichreimer">
+				<img src="https://avatars.githubusercontent.com/u/5065698?s=72&u=c469a282960bedc1be92dbf851818fe9672f7f66&v=4" width="24" alt="Avatar of heinrichreimer"> heinrichreimer
+			</a><br/>
+			Jan Heinrich Reimer
+		</td>
+		<td>Developer @reimersoftware </td>
+		<td><a href="https://twitter.com/H1iReimer">H1iReimer</a></td>
+		<td>Halle (Saale), Germany</td>
+		<td>1382</td>
+	</tr>
+	<tr>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/KittyGiraudel">
 				<img src="https://avatars.githubusercontent.com/u/1889710?s=72&u=71dc9b65eda3a2b1a36efb0283a1e925c262c0db&v=4" width="24" alt="Avatar of KittyGiraudel"> KittyGiraudel
@@ -682,7 +1891,7 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>1367</td>
 	</tr>
 	<tr>
-		<td>46</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/mariobehling">
 				<img src="https://avatars.githubusercontent.com/u/1583873?s=72&u=65085778ea42f750e5cb1aa1402542cb011baac3&v=4" width="24" alt="Avatar of mariobehling"> mariobehling
@@ -692,10 +1901,101 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>Fossasia </td>
 		<td><a href="https://twitter.com/mariobehling">mariobehling</a></td>
 		<td>Berlin, Germany</td>
-		<td>1345</td>
+		<td>1348</td>
 	</tr>
 	<tr>
-		<td>47</td>
+		<td>140</td>
+		<td>
+			<a href="https://github.com/koppor">
+				<img src="https://avatars.githubusercontent.com/u/1366654?s=72&u=a3da57626444b0621f241571c7eadf7f5ab393ad&v=4" width="24" alt="Avatar of koppor"> koppor
+			</a><br/>
+			Oliver Kopp
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/koppor">koppor</a></td>
+		<td>Germany</td>
+		<td>1344</td>
+	</tr>
+	<tr>
+		<td>141</td>
+		<td>
+			<a href="https://github.com/n1ru4l">
+				<img src="https://avatars.githubusercontent.com/u/14338007?s=72&u=f3f98b96dc619176260a91079dec7025e135343b&v=4" width="24" alt="Avatar of n1ru4l"> n1ru4l
+			</a><br/>
+			Laurin Quast
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/n1rual">n1rual</a></td>
+		<td>Mannheim, Germany</td>
+		<td>1336</td>
+	</tr>
+	<tr>
+		<td>142</td>
+		<td>
+			<a href="https://github.com/Elchi3">
+				<img src="https://avatars.githubusercontent.com/u/349114?s=72&u=ca8f61eb69eae8cb8f2d59c8f2120ff02535ebc2&v=4" width="24" alt="Avatar of Elchi3"> Elchi3
+			</a><br/>
+			Florian Scholz
+		</td>
+		<td>Content Lead @openwebdocs </td>
+		<td><a href="https://twitter.com/floscholz">floscholz</a></td>
+		<td>Bremen, Germany</td>
+		<td>1335</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>
+			<a href="https://github.com/Dylan-DPC">
+				<img src="https://avatars.githubusercontent.com/u/12371125?s=72&u=cde7b4e9fc370280eb5c6588c3f9c0f54d48303f&v=4" width="24" alt="Avatar of Dylan-DPC"> Dylan-DPC
+			</a><br/>
+			Dylan DPC
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>1331</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
+			<a href="https://github.com/philmmanjaro">
+				<img src="https://avatars.githubusercontent.com/u/5050022?s=72&u=936f8f87d64b2538e088b53e807b86977279b30c&v=4" width="24" alt="Avatar of philmmanjaro"> philmmanjaro
+			</a><br/>
+			Philip Müller
+		</td>
+		<td>Manjaro Linux </td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>1319</td>
+	</tr>
+	<tr>
+		<td>145</td>
+		<td>
+			<a href="https://github.com/MichaelKohler">
+				<img src="https://avatars.githubusercontent.com/u/330324?s=72&v=4" width="24" alt="Avatar of MichaelKohler"> MichaelKohler
+			</a><br/>
+			Michael Kohler
+		</td>
+		<td>@klarna </td>
+		<td><a href="https://twitter.com/KohlerSolutions">KohlerSolutions</a></td>
+		<td>Berlin</td>
+		<td>1315</td>
+	</tr>
+	<tr>
+		<td>146</td>
+		<td>
+			<a href="https://github.com/timfel">
+				<img src="https://avatars.githubusercontent.com/u/46235?s=72&v=4" width="24" alt="Avatar of timfel"> timfel
+			</a><br/>
+			Tim Felgentreff
+		</td>
+		<td>Oracle </td>
+		<td>No Twitter Username</td>
+		<td>Potsdam, Germany</td>
+		<td>1315</td>
+	</tr>
+	<tr>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/phil-opp">
 				<img src="https://avatars.githubusercontent.com/u/1131315?s=72&v=4" width="24" alt="Avatar of phil-opp"> phil-opp
@@ -708,7 +2008,85 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>1312</td>
 	</tr>
 	<tr>
-		<td>48</td>
+		<td>148</td>
+		<td>
+			<a href="https://github.com/diemol">
+				<img src="https://avatars.githubusercontent.com/u/5992658?s=72&u=e2dd16fd0bc82a4435dec866915efa46a80935ee&v=4" width="24" alt="Avatar of diemol"> diemol
+			</a><br/>
+			Diego Molina
+		</td>
+		<td>@saucelabs </td>
+		<td><a href="https://twitter.com/diegofmolina">diegofmolina</a></td>
+		<td>Berlin, Germany</td>
+		<td>1311</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
+			<a href="https://github.com/NiklasRosenstein">
+				<img src="https://avatars.githubusercontent.com/u/1318438?s=72&u=11cc087ed6db850260a86a5fbefefc261dc960c0&v=4" width="24" alt="Avatar of NiklasRosenstein"> NiklasRosenstein
+			</a><br/>
+			Niklas Rosenstein
+		</td>
+		<td>Palantir Technologies Inc. </td>
+		<td><a href="https://twitter.com/rosensteinn">rosensteinn</a></td>
+		<td>Germany</td>
+		<td>1307</td>
+	</tr>
+	<tr>
+		<td>150</td>
+		<td>
+			<a href="https://github.com/kakkoyun">
+				<img src="https://avatars.githubusercontent.com/u/536449?s=72&u=517eeab009f99a56a67e47f66b64e087b6f50f63&v=4" width="24" alt="Avatar of kakkoyun"> kakkoyun
+			</a><br/>
+			Kemal Akkoyun
+		</td>
+		<td>Red Hat </td>
+		<td><a href="https://twitter.com/kkakkoyun">kkakkoyun</a></td>
+		<td>Berlin</td>
+		<td>1301</td>
+	</tr>
+	<tr>
+		<td>151</td>
+		<td>
+			<a href="https://github.com/tillrohrmann">
+				<img src="https://avatars.githubusercontent.com/u/5756858?s=72&u=436cadce64986f7391ad0b9edbc97b560e0371ab&v=4" width="24" alt="Avatar of tillrohrmann"> tillrohrmann
+			</a><br/>
+			Till Rohrmann
+		</td>
+		<td>@ververica (formerly @dataartisans) </td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>1297</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>
+			<a href="https://github.com/johnjohndoe">
+				<img src="https://avatars.githubusercontent.com/u/144518?s=72&v=4" width="24" alt="Avatar of johnjohndoe"> johnjohndoe
+			</a><br/>
+			Tobias Preuss
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Berlin, Germany</td>
+		<td>1290</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
+			<a href="https://github.com/kaikreuzer">
+				<img src="https://avatars.githubusercontent.com/u/3244965?s=72&u=cdf8facd0b3e2d3497d5fbb9c9506469e85306bf&v=4" width="24" alt="Avatar of kaikreuzer"> kaikreuzer
+			</a><br/>
+			Kai Kreuzer
+		</td>
+		<td>Deutsche Telekom Ag, Openhab<br/>Foundation<br/>E.v.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Darmstadt, Germany</td>
+		<td>1281</td>
+	</tr>
+	<tr>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/leastprivilege">
 				<img src="https://avatars.githubusercontent.com/u/1454075?s=72&u=18e25638bef0e794d2ea9cc121349c0525b8eca5&v=4" width="24" alt="Avatar of leastprivilege"> leastprivilege
@@ -718,10 +2096,62 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>@identityserver  </td>
 		<td><a href="https://twitter.com/leastprivilege">leastprivilege</a></td>
 		<td>Germany</td>
-		<td>1276</td>
+		<td>1279</td>
 	</tr>
 	<tr>
-		<td>49</td>
+		<td>155</td>
+		<td>
+			<a href="https://github.com/Phantas0s">
+				<img src="https://avatars.githubusercontent.com/u/3155338?s=72&u=7c69e7903f3d71decaa66320c71c7b14579670ce&v=4" width="24" alt="Avatar of Phantas0s"> Phantas0s
+			</a><br/>
+			Matthieu Cneude
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Cneude_Matthieu">Cneude_Matthieu</a></td>
+		<td>Berlin</td>
+		<td>1277</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>
+			<a href="https://github.com/juanpicado">
+				<img src="https://avatars.githubusercontent.com/u/558752?s=72&v=4" width="24" alt="Avatar of juanpicado"> juanpicado
+			</a><br/>
+			Juan Picado
+		</td>
+		<td>@ebay @ebayclassifiedsgrou </td>
+		<td><a href="https://twitter.com/jotadeveloper">jotadeveloper</a></td>
+		<td>Berlin, Germany</td>
+		<td>1267</td>
+	</tr>
+	<tr>
+		<td>157</td>
+		<td>
+			<a href="https://github.com/XAMPPRocky">
+				<img src="https://avatars.githubusercontent.com/u/4464295?s=72&u=50d11d1d5875a71595c863064c1c8d5dea5df04e&v=4" width="24" alt="Avatar of XAMPPRocky"> XAMPPRocky
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>1266</td>
+	</tr>
+	<tr>
+		<td>158</td>
+		<td>
+			<a href="https://github.com/TimDaub">
+				<img src="https://avatars.githubusercontent.com/u/2758453?s=72&u=118a9c08db32afc7700a9ee0cbbe9482067e9614&v=4" width="24" alt="Avatar of TimDaub"> TimDaub
+			</a><br/>
+			Tim Daubenschütz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>1266</td>
+	</tr>
+	<tr>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/cytopia">
 				<img src="https://avatars.githubusercontent.com/u/12533999?s=72&u=cc90832a22404fd5657f38a8bdb05e1aa5db1c58&v=4" width="24" alt="Avatar of cytopia"> cytopia
@@ -731,10 +2161,153 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Berlin, Germany</td>
-		<td>1261</td>
+		<td>1262</td>
 	</tr>
 	<tr>
-		<td>50</td>
+		<td>160</td>
+		<td>
+			<a href="https://github.com/nerdsupremacist">
+				<img src="https://avatars.githubusercontent.com/u/13184158?s=72&u=489062121dff6feff4e75397f6cd3c5dc5226bfd&v=4" width="24" alt="Avatar of nerdsupremacist"> nerdsupremacist
+			</a><br/>
+			Mathias Quintero
+		</td>
+		<td>Prev @facebook @jetbrains </td>
+		<td><a href="https://twitter.com/nerdsupremacist">nerdsupremacist</a></td>
+		<td>Munich, Germany</td>
+		<td>1260</td>
+	</tr>
+	<tr>
+		<td>161</td>
+		<td>
+			<a href="https://github.com/adewes">
+				<img src="https://avatars.githubusercontent.com/u/550026?s=72&u=260be063a201d5eb50b920b0ac0bfe4cff8b7b01&v=4" width="24" alt="Avatar of adewes"> adewes
+			</a><br/>
+			Andreas Dewes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Berlin, Germany</td>
+		<td>1258</td>
+	</tr>
+	<tr>
+		<td>162</td>
+		<td>
+			<a href="https://github.com/christianparpart">
+				<img src="https://avatars.githubusercontent.com/u/56763?s=72&u=3e46099035fcc96e01be5297c24450bf40d92134&v=4" width="24" alt="Avatar of christianparpart"> christianparpart
+			</a><br/>
+			Christian Parpart
+		</td>
+		<td>Ethereum </td>
+		<td><a href="https://twitter.com/iamc9p7">iamc9p7</a></td>
+		<td>Germany/Berlin</td>
+		<td>1256</td>
+	</tr>
+	<tr>
+		<td>163</td>
+		<td>
+			<a href="https://github.com/MichaelKreil">
+				<img src="https://avatars.githubusercontent.com/u/1007187?s=72&u=ae0f5df2d701dad4abb05c779c90968b84d1ebcf&v=4" width="24" alt="Avatar of MichaelKreil"> MichaelKreil
+			</a><br/>
+			Michael Kreil
+		</td>
+		<td>Br Data </td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>1236</td>
+	</tr>
+	<tr>
+		<td>164</td>
+		<td>
+			<a href="https://github.com/brancz">
+				<img src="https://avatars.githubusercontent.com/u/4546722?s=72&u=befe06a75b18891282f94d6fca892cb895111610&v=4" width="24" alt="Avatar of brancz"> brancz
+			</a><br/>
+			Frederic Branczyk
+		</td>
+		<td>@polarsignals </td>
+		<td><a href="https://twitter.com/fredbrancz">fredbrancz</a></td>
+		<td>Berlin</td>
+		<td>1233</td>
+	</tr>
+	<tr>
+		<td>165</td>
+		<td>
+			<a href="https://github.com/kritzcreek">
+				<img src="https://avatars.githubusercontent.com/u/6189397?s=72&u=628a08445249ae00bd981a34d993b161606016cb&v=4" width="24" alt="Avatar of kritzcreek"> kritzcreek
+			</a><br/>
+			Christoph Hegemann
+		</td>
+		<td>@dfinity </td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>1231</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
+			<a href="https://github.com/manveru">
+				<img src="https://avatars.githubusercontent.com/u/3507?s=72&u=29673e457c43465aeb6a16f64dc7f02208b46e7a&v=4" width="24" alt="Avatar of manveru"> manveru
+			</a><br/>
+			Michael Fellinger
+		</td>
+		<td>@input-output-hk </td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>1230</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>
+			<a href="https://github.com/kstenerud">
+				<img src="https://avatars.githubusercontent.com/u/245857?s=72&v=4" width="24" alt="Avatar of kstenerud"> kstenerud
+			</a><br/>
+			Karl Stenerud
+		</td>
+		<td>Bugsnag </td>
+		<td>No Twitter Username</td>
+		<td>Leipzig, Germany</td>
+		<td>1216</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
+			<a href="https://github.com/cketti">
+				<img src="https://avatars.githubusercontent.com/u/218061?s=72&v=4" width="24" alt="Avatar of cketti"> cketti
+			</a><br/>
+			cketti
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cketti">cketti</a></td>
+		<td>Berlin, Germany</td>
+		<td>1216</td>
+	</tr>
+	<tr>
+		<td>169</td>
+		<td>
+			<a href="https://github.com/liamsi">
+				<img src="https://avatars.githubusercontent.com/u/7441766?s=72&u=48d8dd5d37b5545455c90055d49c84199a0b16f2&v=4" width="24" alt="Avatar of liamsi"> liamsi
+			</a><br/>
+			Ismail Khoffi
+		</td>
+		<td>@lazyledger  </td>
+		<td><a href="https://twitter.com/KreuzUQuer">KreuzUQuer</a></td>
+		<td>UK / Germany / Switzerland</td>
+		<td>1212</td>
+	</tr>
+	<tr>
+		<td>170</td>
+		<td>
+			<a href="https://github.com/KillerCodeMonkey">
+				<img src="https://avatars.githubusercontent.com/u/2264672?s=72&u=fd438a86fd5b07d17eea09a45660f670be122534&v=4" width="24" alt="Avatar of KillerCodeMonkey"> KillerCodeMonkey
+			</a><br/>
+			Bengt Weiße
+		</td>
+		<td>@codaline-io @fdk-gmbh-co-kg  </td>
+		<td>No Twitter Username</td>
+		<td>GERMANY - THURINGIA</td>
+		<td>1206</td>
+	</tr>
+	<tr>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/jokergoo">
 				<img src="https://avatars.githubusercontent.com/u/449218?s=72&u=ddb02c4ac19fa9392b6ad22e42f43722548de0e9&v=4" width="24" alt="Avatar of jokergoo"> jokergoo
@@ -744,10 +2317,23 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>German Cancer Research Center<br/></td>
 		<td>No Twitter Username</td>
 		<td>Heidelberg, Germany</td>
+		<td>1199</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>
+			<a href="https://github.com/jrieke">
+				<img src="https://avatars.githubusercontent.com/u/5103165?s=72&u=1db1775b91d1dc55e811ebfd2bb56fc41b6b61b5&v=4" width="24" alt="Avatar of jrieke"> jrieke
+			</a><br/>
+			Johannes Rieke
+		</td>
+		<td>@streamlit </td>
+		<td><a href="https://twitter.com/jrieke">jrieke</a></td>
+		<td>Berlin, Germany</td>
 		<td>1198</td>
 	</tr>
 	<tr>
-		<td>51</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/odrotbohm">
 				<img src="https://avatars.githubusercontent.com/u/128577?s=72&v=4" width="24" alt="Avatar of odrotbohm"> odrotbohm
@@ -757,10 +2343,36 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>Vmware </td>
 		<td><a href="https://twitter.com/odrotbohm">odrotbohm</a></td>
 		<td>Dresden, Germany</td>
-		<td>1180</td>
+		<td>1185</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>174</td>
+		<td>
+			<a href="https://github.com/timsuchanek">
+				<img src="https://avatars.githubusercontent.com/u/1094804?s=72&u=b12d5616d0da6aa119c051d0ae894da653d7d833&v=4" width="24" alt="Avatar of timsuchanek"> timsuchanek
+			</a><br/>
+			Tim Suchanek
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/timsuchanek">timsuchanek</a></td>
+		<td>Berlin, Germany</td>
+		<td>1178</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
+			<a href="https://github.com/helje5">
+				<img src="https://avatars.githubusercontent.com/u/7712892?s=72&u=066cfd47dd96d206f6dde1797b095a622e2d5ea4&v=4" width="24" alt="Avatar of helje5"> helje5
+			</a><br/>
+			Helge Heß
+		</td>
+		<td>Zeezide Gmbh </td>
+		<td><a href="https://twitter.com/helje5">helje5</a></td>
+		<td>Magdeburg, Germany</td>
+		<td>1173</td>
+	</tr>
+	<tr>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/dvyukov">
 				<img src="https://avatars.githubusercontent.com/u/1095328?s=72&u=91175c42d0de0ad8ba9f70cc6b9a41bbfbe70de8&v=4" width="24" alt="Avatar of dvyukov"> dvyukov
@@ -770,10 +2382,23 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>Google </td>
 		<td><a href="https://twitter.com/dvyukov">dvyukov</a></td>
 		<td>Munich</td>
-		<td>1164</td>
+		<td>1170</td>
 	</tr>
 	<tr>
-		<td>53</td>
+		<td>177</td>
+		<td>
+			<a href="https://github.com/asaaki">
+				<img src="https://avatars.githubusercontent.com/u/446613?s=72&u=3c324579d095bc07311acb6961ac490d3343cb9a&v=4" width="24" alt="Avatar of asaaki"> asaaki
+			</a><br/>
+			Christoph Grabo
+		</td>
+		<td>@markentier  </td>
+		<td><a href="https://twitter.com/asaaki">asaaki</a></td>
+		<td>Berlin, Germany</td>
+		<td>1163</td>
+	</tr>
+	<tr>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/floooh">
 				<img src="https://avatars.githubusercontent.com/u/1699414?s=72&u=78fddd83a07cf36de9d44ad3dd06bbea3aa773b1&v=4" width="24" alt="Avatar of floooh"> floooh
@@ -783,10 +2408,10 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>Bigpoint Gmbh </td>
 		<td><a href="https://twitter.com/FlohOfWoe">FlohOfWoe</a></td>
 		<td>Berlin</td>
-		<td>1161</td>
+		<td>1162</td>
 	</tr>
 	<tr>
-		<td>54</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/Gargron">
 				<img src="https://avatars.githubusercontent.com/u/184731?s=72&u=8933fd346b5c9784f8c14278ebe1843563776423&v=4" width="24" alt="Avatar of Gargron"> Gargron
@@ -796,10 +2421,101 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
-		<td>1156</td>
+		<td>1158</td>
 	</tr>
 	<tr>
-		<td>55</td>
+		<td>180</td>
+		<td>
+			<a href="https://github.com/maciejwalkowiak">
+				<img src="https://avatars.githubusercontent.com/u/1357927?s=72&u=c18ed6cc6e5083d098c0339956f53ef0887d18a0&v=4" width="24" alt="Avatar of maciejwalkowiak"> maciejwalkowiak
+			</a><br/>
+			Maciej Walkowiak
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/maciejwalkowiak">maciejwalkowiak</a></td>
+		<td>Berlin, Germany</td>
+		<td>1151</td>
+	</tr>
+	<tr>
+		<td>181</td>
+		<td>
+			<a href="https://github.com/indus">
+				<img src="https://avatars.githubusercontent.com/u/2046274?s=72&v=4" width="24" alt="Avatar of indus"> indus
+			</a><br/>
+			Stefan Keim
+		</td>
+		<td>Js.org </td>
+		<td>No Twitter Username</td>
+		<td>Munich, GERMANY</td>
+		<td>1143</td>
+	</tr>
+	<tr>
+		<td>182</td>
+		<td>
+			<a href="https://github.com/rieckpil">
+				<img src="https://avatars.githubusercontent.com/u/14176609?s=72&u=05e0743c85eac272c7ad9ffce965c56cc6ea6c60&v=4" width="24" alt="Avatar of rieckpil"> rieckpil
+			</a><br/>
+			Philip Riecks
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/rieckpil">rieckpil</a></td>
+		<td>Berlin, Germany</td>
+		<td>1119</td>
+	</tr>
+	<tr>
+		<td>183</td>
+		<td>
+			<a href="https://github.com/cryptix">
+				<img src="https://avatars.githubusercontent.com/u/111202?s=72&u=ecf58d91db0a40bbb0328ceb3b45a3c598f895ba&v=4" width="24" alt="Avatar of cryptix"> cryptix
+			</a><br/>
+			Henry
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hamburg, Germany</td>
+		<td>1117</td>
+	</tr>
+	<tr>
+		<td>184</td>
+		<td>
+			<a href="https://github.com/reuben">
+				<img src="https://avatars.githubusercontent.com/u/477142?s=72&u=f428236db50dcc05cf382a2d9f581092fba8d2f0&v=4" width="24" alt="Avatar of reuben"> reuben
+			</a><br/>
+			Reuben Morais
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ReubenMorais">ReubenMorais</a></td>
+		<td>Berlin</td>
+		<td>1117</td>
+	</tr>
+	<tr>
+		<td>185</td>
+		<td>
+			<a href="https://github.com/Jerga99">
+				<img src="https://avatars.githubusercontent.com/u/9482724?s=72&u=69a6acab13fd5547a4e316e496b573271077147f&v=4" width="24" alt="Avatar of Jerga99"> Jerga99
+			</a><br/>
+			Filip Jerga
+		</td>
+		<td>Eincode S.r.o. </td>
+		<td><a href="https://twitter.com/filip_jerga">filip_jerga</a></td>
+		<td>Germany</td>
+		<td>1108</td>
+	</tr>
+	<tr>
+		<td>186</td>
+		<td>
+			<a href="https://github.com/lucasmichot">
+				<img src="https://avatars.githubusercontent.com/u/513603?s=72&u=bec4d756b08a8610f0ee9915ecaa87eb41575039&v=4" width="24" alt="Avatar of lucasmichot"> lucasmichot
+			</a><br/>
+			Lucas Michot
+		</td>
+		<td>@shopify  </td>
+		<td><a href="https://twitter.com/iamlucasmichot">iamlucasmichot</a></td>
+		<td>Berlin, Germany</td>
+		<td>1104</td>
+	</tr>
+	<tr>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/Araq">
 				<img src="https://avatars.githubusercontent.com/u/287816?s=72&v=4" width="24" alt="Avatar of Araq"> Araq
@@ -809,10 +2525,88 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
-		<td>1097</td>
+		<td>1103</td>
 	</tr>
 	<tr>
-		<td>56</td>
+		<td>188</td>
+		<td>
+			<a href="https://github.com/stanislaw">
+				<img src="https://avatars.githubusercontent.com/u/452547?s=72&v=4" width="24" alt="Avatar of stanislaw"> stanislaw
+			</a><br/>
+			Stanislav Pankevich
+		</td>
+		<td>Pts </td>
+		<td>No Twitter Username</td>
+		<td>Berlin, Germany</td>
+		<td>1094</td>
+	</tr>
+	<tr>
+		<td>189</td>
+		<td>
+			<a href="https://github.com/stefanbuck">
+				<img src="https://avatars.githubusercontent.com/u/1393946?s=72&u=da89191fbb7db63a2d113c097c04bb7d4658e0d9&v=4" width="24" alt="Avatar of stefanbuck"> stefanbuck
+			</a><br/>
+			Stefan Buck
+		</td>
+		<td>Brandwatch </td>
+		<td><a href="https://twitter.com/buckstefan">buckstefan</a></td>
+		<td>Stuttgart, Germany</td>
+		<td>1093</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
+			<a href="https://github.com/thestr4ng3r">
+				<img src="https://avatars.githubusercontent.com/u/1460997?s=72&u=b713d00a36fb060cd74f80716b5f18fb2407cc44&v=4" width="24" alt="Avatar of thestr4ng3r"> thestr4ng3r
+			</a><br/>
+			Florian Märkl
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/thestr4ng3r">thestr4ng3r</a></td>
+		<td>Germany</td>
+		<td>1092</td>
+	</tr>
+	<tr>
+		<td>191</td>
+		<td>
+			<a href="https://github.com/squidfunk">
+				<img src="https://avatars.githubusercontent.com/u/932156?s=72&u=f8199559a1c46c5f08edad751720df2571ee1c67&v=4" width="24" alt="Avatar of squidfunk"> squidfunk
+			</a><br/>
+			Martin Donath
+		</td>
+		<td>@stylezen </td>
+		<td><a href="https://twitter.com/squidfunk">squidfunk</a></td>
+		<td>Cologne, Germany</td>
+		<td>1091</td>
+	</tr>
+	<tr>
+		<td>192</td>
+		<td>
+			<a href="https://github.com/khmarbaise">
+				<img src="https://avatars.githubusercontent.com/u/42484?s=72&v=4" width="24" alt="Avatar of khmarbaise"> khmarbaise
+			</a><br/>
+			Karl Heinz Marbaise
+		</td>
+		<td>Softwareentwicklung Beratung Schulung </td>
+		<td><a href="https://twitter.com/khmarbaise">khmarbaise</a></td>
+		<td>Würselen, Germany</td>
+		<td>1087</td>
+	</tr>
+	<tr>
+		<td>193</td>
+		<td>
+			<a href="https://github.com/jrudolph">
+				<img src="https://avatars.githubusercontent.com/u/9868?s=72&v=4" width="24" alt="Avatar of jrudolph"> jrudolph
+			</a><br/>
+			Johannes Rudolph
+		</td>
+		<td>Lightbend </td>
+		<td><a href="https://twitter.com/virtualvoid">virtualvoid</a></td>
+		<td>Freiburg, Germany</td>
+		<td>1085</td>
+	</tr>
+	<tr>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/honnibal">
 				<img src="https://avatars.githubusercontent.com/u/8059750?s=72&u=4e5174a05523986c65fe62ee514a35499d94c084&v=4" width="24" alt="Avatar of honnibal"> honnibal
@@ -825,7 +2619,137 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>1080</td>
 	</tr>
 	<tr>
-		<td>57</td>
+		<td>195</td>
+		<td>
+			<a href="https://github.com/muety">
+				<img src="https://avatars.githubusercontent.com/u/8978843?s=72&u=09fa4391c06ebd03c0ef7fb578980401891cb964&v=4" width="24" alt="Avatar of muety"> muety
+			</a><br/>
+			Ferdinand Mütsch
+		</td>
+		<td>Karlsruhe Institute Of Technology<br/></td>
+		<td>No Twitter Username</td>
+		<td>Karlsruhe, Germany</td>
+		<td>1063</td>
+	</tr>
+	<tr>
+		<td>196</td>
+		<td>
+			<a href="https://github.com/plexus">
+				<img src="https://avatars.githubusercontent.com/u/32212?s=72&u=6074510852a774db633830fc77a6874436993687&v=4" width="24" alt="Avatar of plexus"> plexus
+			</a><br/>
+			Arne Brasseur
+		</td>
+		<td>@lambdaisland  / Gaiwan<br/>Gmbh<br/></td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>1062</td>
+	</tr>
+	<tr>
+		<td>197</td>
+		<td>
+			<a href="https://github.com/ocean90">
+				<img src="https://avatars.githubusercontent.com/u/617637?s=72&u=196d42460253d8dbb5aeb018b36512ea80500d1c&v=4" width="24" alt="Avatar of ocean90"> ocean90
+			</a><br/>
+			Dominik Schilling
+		</td>
+		<td>@wearerequired </td>
+		<td><a href="https://twitter.com/ocean90">ocean90</a></td>
+		<td>Cologne, Germany</td>
+		<td>1049</td>
+	</tr>
+	<tr>
+		<td>198</td>
+		<td>
+			<a href="https://github.com/longsleep">
+				<img src="https://avatars.githubusercontent.com/u/1667797?s=72&u=8f801707afdd23d8cef3c52bb5cc7d603b4899ae&v=4" width="24" alt="Avatar of longsleep"> longsleep
+			</a><br/>
+			Simon Eisenmann
+		</td>
+		<td>Kopano B.v. </td>
+		<td>No Twitter Username</td>
+		<td>Stuttgart</td>
+		<td>1029</td>
+	</tr>
+	<tr>
+		<td>199</td>
+		<td>
+			<a href="https://github.com/StarpTech">
+				<img src="https://avatars.githubusercontent.com/u/1764424?s=72&u=ee2eeb1077e2eeb3224245cdc26a4a3954f2803d&v=4" width="24" alt="Avatar of StarpTech"> StarpTech
+			</a><br/>
+			Dustin Deus
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dustindeus">dustindeus</a></td>
+		<td>Germany</td>
+		<td>1026</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
+			<a href="https://github.com/lilic">
+				<img src="https://avatars.githubusercontent.com/u/6232346?s=72&u=e4b2545ea68886d49e8c5ce24dd41c9f74a188a4&v=4" width="24" alt="Avatar of lilic"> lilic
+			</a><br/>
+			Lili Cosic
+		</td>
+		<td>Red Hat </td>
+		<td><a href="https://twitter.com/lilicosic">lilicosic</a></td>
+		<td>Berlin, Germany</td>
+		<td>1015</td>
+	</tr>
+	<tr>
+		<td>201</td>
+		<td>
+			<a href="https://github.com/mwarning">
+				<img src="https://avatars.githubusercontent.com/u/546193?s=72&v=4" width="24" alt="Avatar of mwarning"> mwarning
+			</a><br/>
+			Moritz Warning
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>1014</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>
+			<a href="https://github.com/brizental">
+				<img src="https://avatars.githubusercontent.com/u/25176023?s=72&v=4" width="24" alt="Avatar of brizental"> brizental
+			</a><br/>
+			Beatriz Rizental
+		</td>
+		<td>@mozilla  </td>
+		<td><a href="https://twitter.com/brizental">brizental</a></td>
+		<td>Berlin, Germany</td>
+		<td>1013</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
+			<a href="https://github.com/TheAssassin">
+				<img src="https://avatars.githubusercontent.com/u/4503202?s=72&u=f65a3cefd8bfcf5d770e7d0c9095d8f85d22d69c&v=4" width="24" alt="Avatar of TheAssassin"> TheAssassin
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>1010</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
+			<a href="https://github.com/norosa">
+				<img src="https://avatars.githubusercontent.com/u/23469?s=72&u=f34b755922184246026b4d2c066193fb20183300&v=4" width="24" alt="Avatar of norosa"> norosa
+			</a><br/>
+			Naomi Rose
+		</td>
+		<td>Crate.io </td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>1005</td>
+	</tr>
+	<tr>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/HanSolo">
 				<img src="https://avatars.githubusercontent.com/u/62843?s=72&u=9827ec0fc3afd15d018b0e51bb014daf055ba118&v=4" width="24" alt="Avatar of HanSolo"> HanSolo
@@ -835,10 +2759,10 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>Azul Systems </td>
 		<td><a href="https://twitter.com/hansolo_">hansolo_</a></td>
 		<td>Muenster, Germany</td>
-		<td>991</td>
+		<td>999</td>
 	</tr>
 	<tr>
-		<td>58</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/tiangolo">
 				<img src="https://avatars.githubusercontent.com/u/1326112?s=72&u=05f95ca7fdead36edd9c86be46b4ef6c3c71f876&v=4" width="24" alt="Avatar of tiangolo"> tiangolo
@@ -848,10 +2772,23 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tiangolo">tiangolo</a></td>
 		<td>Berlin, Germany</td>
-		<td>986</td>
+		<td>988</td>
 	</tr>
 	<tr>
-		<td>59</td>
+		<td>207</td>
+		<td>
+			<a href="https://github.com/finnp">
+				<img src="https://avatars.githubusercontent.com/u/841788?s=72&u=9617423ff8913172d254b7f6bdad894916ffd7a9&v=4" width="24" alt="Avatar of finnp"> finnp
+			</a><br/>
+			Finn Pauls
+		</td>
+		<td>@karugamo Agency </td>
+		<td><a href="https://twitter.com/finnpauls">finnpauls</a></td>
+		<td>Berlin</td>
+		<td>985</td>
+	</tr>
+	<tr>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/olilarkin">
 				<img src="https://avatars.githubusercontent.com/u/655662?s=72&u=390ec3a518841253f56cb04b81259c7c675d407a&v=4" width="24" alt="Avatar of olilarkin"> olilarkin
@@ -864,20 +2801,33 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>976</td>
 	</tr>
 	<tr>
-		<td>60</td>
+		<td>209</td>
 		<td>
-			<a href="https://github.com/changkun">
-				<img src="https://avatars.githubusercontent.com/u/5498964?s=72&u=87ee45485df99fe40f92e4d6f83c0060c2ea502d&v=4" width="24" alt="Avatar of changkun"> changkun
+			<a href="https://github.com/moklick">
+				<img src="https://avatars.githubusercontent.com/u/2857535?s=72&u=670e3f5dca623d7e59954a46f9d91afe601d070c&v=4" width="24" alt="Avatar of moklick"> moklick
 			</a><br/>
-			Changkun Ou
+			Moritz Klack
 		</td>
-		<td>Research Assistant @mimuc </td>
-		<td><a href="https://twitter.com/ouchangkun">ouchangkun</a></td>
-		<td>Munich, Germany</td>
-		<td>958</td>
+		<td>Https://webkid.io </td>
+		<td><a href="https://twitter.com/moklick">moklick</a></td>
+		<td>Berlin</td>
+		<td>971</td>
 	</tr>
 	<tr>
-		<td>61</td>
+		<td>210</td>
+		<td>
+			<a href="https://github.com/DzikuVx">
+				<img src="https://avatars.githubusercontent.com/u/966811?s=72&u=c149a07330b21b299f32e8a16ce0af60698aed41&v=4" width="24" alt="Avatar of DzikuVx"> DzikuVx
+			</a><br/>
+			Paweł Spychalski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Szczecin, Poland and Berlin, Germany</td>
+		<td>943</td>
+	</tr>
+	<tr>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/UweTrottmann">
 				<img src="https://avatars.githubusercontent.com/u/888674?s=72&v=4" width="24" alt="Avatar of UweTrottmann"> UweTrottmann
@@ -890,7 +2840,85 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>937</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>212</td>
+		<td>
+			<a href="https://github.com/MartinThoma">
+				<img src="https://avatars.githubusercontent.com/u/1658117?s=72&u=4266f1a009b6ecbb840bbafd57b8cc530ca4fcce&v=4" width="24" alt="Avatar of MartinThoma"> MartinThoma
+			</a><br/>
+			Martin Thoma
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Munich</td>
+		<td>937</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/travisbrown">
+				<img src="https://avatars.githubusercontent.com/u/316049?s=72&v=4" width="24" alt="Avatar of travisbrown"> travisbrown
+			</a><br/>
+			Travis Brown
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/travisbrown">travisbrown</a></td>
+		<td>Berlin</td>
+		<td>931</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
+			<a href="https://github.com/changkun">
+				<img src="https://avatars.githubusercontent.com/u/5498964?s=72&u=87ee45485df99fe40f92e4d6f83c0060c2ea502d&v=4" width="24" alt="Avatar of changkun"> changkun
+			</a><br/>
+			Changkun Ou
+		</td>
+		<td>Research Assistant @mimuc </td>
+		<td><a href="https://twitter.com/ouchangkun">ouchangkun</a></td>
+		<td>Munich, Germany</td>
+		<td>929</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
+			<a href="https://github.com/dignifiedquire">
+				<img src="https://avatars.githubusercontent.com/u/790842?s=72&u=b7dd795afade6650e64ed348b5ab04f40eb5e8ce&v=4" width="24" alt="Avatar of dignifiedquire"> dignifiedquire
+			</a><br/>
+			Friedel Ziegelmayer
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dignifiedquire">dignifiedquire</a></td>
+		<td>Germany</td>
+		<td>929</td>
+	</tr>
+	<tr>
+		<td>216</td>
+		<td>
+			<a href="https://github.com/VadimDez">
+				<img src="https://avatars.githubusercontent.com/u/3748453?s=72&v=4" width="24" alt="Avatar of VadimDez"> VadimDez
+			</a><br/>
+			Vadym Yatsyuk
+		</td>
+		<td>@ibm </td>
+		<td>No Twitter Username</td>
+		<td>Munich, Germany</td>
+		<td>926</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
+			<a href="https://github.com/mavam">
+				<img src="https://avatars.githubusercontent.com/u/53797?s=72&v=4" width="24" alt="Avatar of mavam"> mavam
+			</a><br/>
+			Matthias Vallentin
+		</td>
+		<td>Tenzir </td>
+		<td>No Twitter Username</td>
+		<td>Hamburg, Germany</td>
+		<td>924</td>
+	</tr>
+	<tr>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/hediet">
 				<img src="https://avatars.githubusercontent.com/u/2931520?s=72&u=83ac40b6195015e88fc3af01383ba4b3d44c89b4&v=4" width="24" alt="Avatar of hediet"> hediet
@@ -900,10 +2928,36 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/hediet_dev">hediet_dev</a></td>
 		<td>Germany</td>
-		<td>911</td>
+		<td>916</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>219</td>
+		<td>
+			<a href="https://github.com/emptymalei">
+				<img src="https://avatars.githubusercontent.com/u/663798?s=72&u=877b58c1e37c86e73b4cef7a7119c34866c51a81&v=4" width="24" alt="Avatar of emptymalei"> emptymalei
+			</a><br/>
+			LM
+		</td>
+		<td>@saloodo </td>
+		<td>No Twitter Username</td>
+		<td>Cologne, Germany</td>
+		<td>914</td>
+	</tr>
+	<tr>
+		<td>220</td>
+		<td>
+			<a href="https://github.com/phihag">
+				<img src="https://avatars.githubusercontent.com/u/779568?s=72&v=4" width="24" alt="Avatar of phihag"> phihag
+			</a><br/>
+			Philipp Hagemeister
+		</td>
+		<td>Boxine </td>
+		<td><a href="https://twitter.com/phihag">phihag</a></td>
+		<td>Germany</td>
+		<td>910</td>
+	</tr>
+	<tr>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/jezdez">
 				<img src="https://avatars.githubusercontent.com/u/1610?s=72&v=4" width="24" alt="Avatar of jezdez"> jezdez
@@ -913,10 +2967,88 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jezdez">jezdez</a></td>
 		<td>Leipzig, Germany</td>
+		<td>907</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>
+			<a href="https://github.com/arianvp">
+				<img src="https://avatars.githubusercontent.com/u/628387?s=72&v=4" width="24" alt="Avatar of arianvp"> arianvp
+			</a><br/>
+			Arian van Putten
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
 		<td>906</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>223</td>
+		<td>
+			<a href="https://github.com/runningcode">
+				<img src="https://avatars.githubusercontent.com/u/332597?s=72&u=29ecef31cea384f1a19d676c3645e4ceba504822&v=4" width="24" alt="Avatar of runningcode"> runningcode
+			</a><br/>
+			Nelson Osacky
+		</td>
+		<td>@gradle  </td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>904</td>
+	</tr>
+	<tr>
+		<td>224</td>
+		<td>
+			<a href="https://github.com/rhuss">
+				<img src="https://avatars.githubusercontent.com/u/99080?s=72&u=ee02610209e117f07241c0cc32cfba2f722cc4d5&v=4" width="24" alt="Avatar of rhuss"> rhuss
+			</a><br/>
+			Roland Huß
+		</td>
+		<td>Red Hat </td>
+		<td><a href="https://twitter.com/ro14nd">ro14nd</a></td>
+		<td>Pegnitz, Germany</td>
+		<td>894</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>
+			<a href="https://github.com/doitsujin">
+				<img src="https://avatars.githubusercontent.com/u/25567304?s=72&u=e753c1eafb0e81504b6ab74883303565cdfa66b2&v=4" width="24" alt="Avatar of doitsujin"> doitsujin
+			</a><br/>
+			Philip Rebohle
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>891</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
+			<a href="https://github.com/marcphilipp">
+				<img src="https://avatars.githubusercontent.com/u/214207?s=72&u=2499089f70e4b0961818eab56ae5746b62c42912&v=4" width="24" alt="Avatar of marcphilipp"> marcphilipp
+			</a><br/>
+			Marc Philipp
+		</td>
+		<td>@gradle </td>
+		<td><a href="https://twitter.com/marcphilipp">marcphilipp</a></td>
+		<td>Karlsruhe, Germany</td>
+		<td>887</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>
+			<a href="https://github.com/alcaeus">
+				<img src="https://avatars.githubusercontent.com/u/383198?s=72&u=ad9ca01385491456a62d774da4ef164eca221bb9&v=4" width="24" alt="Avatar of alcaeus"> alcaeus
+			</a><br/>
+			Andreas Braun
+		</td>
+		<td>Mongodb </td>
+		<td><a href="https://twitter.com/alcaeus">alcaeus</a></td>
+		<td>Munich</td>
+		<td>882</td>
+	</tr>
+	<tr>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/punker76">
 				<img src="https://avatars.githubusercontent.com/u/658431?s=72&v=4" width="24" alt="Avatar of punker76"> punker76
@@ -929,7 +3061,7 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>881</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/StefanScherer">
 				<img src="https://avatars.githubusercontent.com/u/207759?s=72&u=b565478e23cf51879fb37b7e6cab2f66dd26191a&v=4" width="24" alt="Avatar of StefanScherer"> StefanScherer
@@ -939,10 +3071,49 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>@docker  </td>
 		<td><a href="https://twitter.com/stefscherer">stefscherer</a></td>
 		<td>Erlangen, Germany</td>
-		<td>868</td>
+		<td>877</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>230</td>
+		<td>
+			<a href="https://github.com/metalmatze">
+				<img src="https://avatars.githubusercontent.com/u/872251?s=72&v=4" width="24" alt="Avatar of metalmatze"> metalmatze
+			</a><br/>
+			Matthias Loibl
+		</td>
+		<td>@polarsignals </td>
+		<td><a href="https://twitter.com/metalmatze">metalmatze</a></td>
+		<td>Berlin</td>
+		<td>864</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>
+			<a href="https://github.com/akosyakov">
+				<img src="https://avatars.githubusercontent.com/u/3082655?s=72&v=4" width="24" alt="Avatar of akosyakov"> akosyakov
+			</a><br/>
+			Anton Kosyakov
+		</td>
+		<td>@gitpod-io </td>
+		<td><a href="https://twitter.com/akosyakov">akosyakov</a></td>
+		<td>Kiel, Germany</td>
+		<td>861</td>
+	</tr>
+	<tr>
+		<td>232</td>
+		<td>
+			<a href="https://github.com/dmonad">
+				<img src="https://avatars.githubusercontent.com/u/5553757?s=72&u=481cbf7ca1b1a5b9740b088b5a4f7c2515fd137e&v=4" width="24" alt="Avatar of dmonad"> dmonad
+			</a><br/>
+			 Kevin Jahns
+		</td>
+		<td>Independent Oss Developer </td>
+		<td><a href="https://twitter.com/kevin_jahns">kevin_jahns</a></td>
+		<td>Berlin, Germany</td>
+		<td>860</td>
+	</tr>
+	<tr>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/clue">
 				<img src="https://avatars.githubusercontent.com/u/776829?s=72&u=44aec472613beb86e13b0ee56a85fbe1976881a0&v=4" width="24" alt="Avatar of clue"> clue
@@ -952,10 +3123,36 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/another_clue">another_clue</a></td>
 		<td>~Aachen, Germany</td>
-		<td>852</td>
+		<td>854</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>234</td>
+		<td>
+			<a href="https://github.com/tiran">
+				<img src="https://avatars.githubusercontent.com/u/444071?s=72&v=4" width="24" alt="Avatar of tiran"> tiran
+			</a><br/>
+			Christian Heimes
+		</td>
+		<td>Red Hat </td>
+		<td><a href="https://twitter.com/ChristianHeimes">ChristianHeimes</a></td>
+		<td>Hamburg, Germany</td>
+		<td>851</td>
+	</tr>
+	<tr>
+		<td>235</td>
+		<td>
+			<a href="https://github.com/paul-buerkner">
+				<img src="https://avatars.githubusercontent.com/u/12938496?s=72&u=cb72e20bc52d3598ea08d3b9f0021b18292427c1&v=4" width="24" alt="Avatar of paul-buerkner"> paul-buerkner
+			</a><br/>
+			Paul-Christian Bürkner
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cluster of Excellence SimTech, University of Stuttgart, Germany</td>
+		<td>849</td>
+	</tr>
+	<tr>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/tonsky">
 				<img src="https://avatars.githubusercontent.com/u/285292?s=72&u=6c03cf301449b5f4707186b07c2d9b2c14c541cf&v=4" width="24" alt="Avatar of tonsky"> tonsky
@@ -968,7 +3165,33 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>842</td>
 	</tr>
 	<tr>
-		<td>68</td>
+		<td>237</td>
+		<td>
+			<a href="https://github.com/Maximus5">
+				<img src="https://avatars.githubusercontent.com/u/1222388?s=72&u=e7acddfb3ef52e93f48f40603840f2f05411efb8&v=4" width="24" alt="Avatar of Maximus5"> Maximus5
+			</a><br/>
+			Maksim Moisiuk
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>833</td>
+	</tr>
+	<tr>
+		<td>238</td>
+		<td>
+			<a href="https://github.com/Simonwep">
+				<img src="https://avatars.githubusercontent.com/u/30767528?s=72&u=3154c9fb08ac6e0b439f64b7d62088669c51e070&v=4" width="24" alt="Avatar of Simonwep"> Simonwep
+			</a><br/>
+			Simon
+		</td>
+		<td>@weclapp </td>
+		<td>No Twitter Username</td>
+		<td>Marburg / Germany</td>
+		<td>833</td>
+	</tr>
+	<tr>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/spacekookie">
 				<img src="https://avatars.githubusercontent.com/u/7669898?s=72&u=7b9a26e4fbd63e2d63c051829b507030406bffc6&v=4" width="24" alt="Avatar of spacekookie"> spacekookie
@@ -981,20 +3204,124 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>819</td>
 	</tr>
 	<tr>
-		<td>69</td>
+		<td>240</td>
 		<td>
-			<a href="https://github.com/Eugeny">
-				<img src="https://avatars.githubusercontent.com/u/161476?s=72&u=00100501cf840308167223e638b6547b9b7e6cbe&v=4" width="24" alt="Avatar of Eugeny"> Eugeny
+			<a href="https://github.com/jamesmunns">
+				<img src="https://avatars.githubusercontent.com/u/2097964?s=72&u=c79e65f63c5783bcc16b69b321e0330d948f0591&v=4" width="24" alt="Avatar of jamesmunns"> jamesmunns
 			</a><br/>
-			Eugene
+			James Munns
 		</td>
-		<td>@elements-storage  </td>
+		<td>Ferrous Systems Gmbh </td>
 		<td>No Twitter Username</td>
-		<td>Düsseldorf, DE</td>
-		<td>778</td>
+		<td>Berlin, DE</td>
+		<td>812</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>241</td>
+		<td>
+			<a href="https://github.com/gumb0">
+				<img src="https://avatars.githubusercontent.com/u/1863135?s=72&u=ef25c7bac8c1bf76e9b6dee0f43e44ee51980d1c&v=4" width="24" alt="Avatar of gumb0"> gumb0
+			</a><br/>
+			Andrei Maiboroda
+		</td>
+		<td>@ethereum  </td>
+		<td>No Twitter Username</td>
+		<td>Berlin, Germany</td>
+		<td>811</td>
+	</tr>
+	<tr>
+		<td>242</td>
+		<td>
+			<a href="https://github.com/kpcyrd">
+				<img src="https://avatars.githubusercontent.com/u/7763184?s=72&v=4" width="24" alt="Avatar of kpcyrd"> kpcyrd
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sn0int">sn0int</a></td>
+		<td>Hamburg, Germany</td>
+		<td>806</td>
+	</tr>
+	<tr>
+		<td>243</td>
+		<td>
+			<a href="https://github.com/lukastaegert">
+				<img src="https://avatars.githubusercontent.com/u/12949268?s=72&u=6432dfba2eef56b0eb51629acd88e1ab6ee699ea&v=4" width="24" alt="Avatar of lukastaegert"> lukastaegert
+			</a><br/>
+			Lukas Taegert-Atkinson
+		</td>
+		<td>Tng Technology Consulting Gmbh<br/></td>
+		<td>No Twitter Username</td>
+		<td>Munich, Germany</td>
+		<td>805</td>
+	</tr>
+	<tr>
+		<td>244</td>
+		<td>
+			<a href="https://github.com/NicoHood">
+				<img src="https://avatars.githubusercontent.com/u/6888294?s=72&u=f4680aa7f7ef3e7969e7b7dd4970125e75c27498&v=4" width="24" alt="Avatar of NicoHood"> NicoHood
+			</a><br/>
+			NicoHood
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>803</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/jmoenig">
+				<img src="https://avatars.githubusercontent.com/u/2596285?s=72&u=95dcc0e069eb2893341c5a8421d0a833424ce6e4&v=4" width="24" alt="Avatar of jmoenig"> jmoenig
+			</a><br/>
+			Jens Mönig
+		</td>
+		<td>Sap </td>
+		<td>No Twitter Username</td>
+		<td>Gäufelden, Germany</td>
+		<td>790</td>
+	</tr>
+	<tr>
+		<td>246</td>
+		<td>
+			<a href="https://github.com/nikolasburk">
+				<img src="https://avatars.githubusercontent.com/u/4058327?s=72&u=3a50ce315fa9a7b4e37d00f77ba777f64a1faaf3&v=4" width="24" alt="Avatar of nikolasburk"> nikolasburk
+			</a><br/>
+			Nikolas
+		</td>
+		<td>@prisma  </td>
+		<td><a href="https://twitter.com/nikolasburk">nikolasburk</a></td>
+		<td>Berlin</td>
+		<td>789</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>
+			<a href="https://github.com/rmetzger">
+				<img src="https://avatars.githubusercontent.com/u/89049?s=72&u=a2ff73d0f51d15f2ea00512ae879b118a4e24809&v=4" width="24" alt="Avatar of rmetzger"> rmetzger
+			</a><br/>
+			Robert Metzger
+		</td>
+		<td>@ververica (formerly @dataartisans) </td>
+		<td><a href="https://twitter.com/rmetzger_">rmetzger_</a></td>
+		<td>Berlin, Germany</td>
+		<td>787</td>
+	</tr>
+	<tr>
+		<td>248</td>
+		<td>
+			<a href="https://github.com/sfan5">
+				<img src="https://avatars.githubusercontent.com/u/1042418?s=72&u=4287f080b3108374947c411aab50800ccd6e68d3&v=4" width="24" alt="Avatar of sfan5"> sfan5
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>786</td>
+	</tr>
+	<tr>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/foonathan">
 				<img src="https://avatars.githubusercontent.com/u/9192733?s=72&v=4" width="24" alt="Avatar of foonathan"> foonathan
@@ -1004,10 +3331,75 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/foonathan">foonathan</a></td>
 		<td>Aachen, Germany</td>
+		<td>783</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>
+			<a href="https://github.com/Eugeny">
+				<img src="https://avatars.githubusercontent.com/u/161476?s=72&u=00100501cf840308167223e638b6547b9b7e6cbe&v=4" width="24" alt="Avatar of Eugeny"> Eugeny
+			</a><br/>
+			Eugene
+		</td>
+		<td>@elements-storage  </td>
+		<td>No Twitter Username</td>
+		<td>Düsseldorf, DE</td>
+		<td>779</td>
+	</tr>
+	<tr>
+		<td>251</td>
+		<td>
+			<a href="https://github.com/fniephaus">
+				<img src="https://avatars.githubusercontent.com/u/2368856?s=72&u=5891dcd02ee15c77c0034f5ef6f6ec8713730b28&v=4" width="24" alt="Avatar of fniephaus"> fniephaus
+			</a><br/>
+			Fabio Niephaus
+		</td>
+		<td>Hasso Plattner Institute, University<br/>Of<br/>Potsdam<br/></td>
+		<td><a href="https://twitter.com/fniephaus">fniephaus</a></td>
+		<td>Potsdam, Germany</td>
+		<td>779</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>
+			<a href="https://github.com/MayaPosch">
+				<img src="https://avatars.githubusercontent.com/u/1096451?s=72&v=4" width="24" alt="Avatar of MayaPosch"> MayaPosch
+			</a><br/>
+			Maya Posch
+		</td>
+		<td>Nyanko </td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
 		<td>777</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>253</td>
+		<td>
+			<a href="https://github.com/hamvocke">
+				<img src="https://avatars.githubusercontent.com/u/491469?s=72&u=87c1ea5bbbbd6bdada0402bfaaf205ba3d00f3af&v=4" width="24" alt="Avatar of hamvocke"> hamvocke
+			</a><br/>
+			Ham Vocke
+		</td>
+		<td>Stack Overflow </td>
+		<td><a href="https://twitter.com/hamvocke">hamvocke</a></td>
+		<td>Germany</td>
+		<td>739</td>
+	</tr>
+	<tr>
+		<td>254</td>
+		<td>
+			<a href="https://github.com/bjorn">
+				<img src="https://avatars.githubusercontent.com/u/531764?s=72&v=4" width="24" alt="Avatar of bjorn"> bjorn
+			</a><br/>
+			Thorbjørn Lindeijer
+		</td>
+		<td>Ubisoft Düsseldorf (blue Byte)<br/></td>
+		<td><a href="https://twitter.com/thorbjorn81">thorbjorn81</a></td>
+		<td>Germany</td>
+		<td>737</td>
+	</tr>
+	<tr>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/oarriaga">
 				<img src="https://avatars.githubusercontent.com/u/5577137?s=72&u=efe342c63a9a556f8e03893b060b7736eace5a7d&v=4" width="24" alt="Avatar of oarriaga"> oarriaga
@@ -1020,20 +3412,7 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>734</td>
 	</tr>
 	<tr>
-		<td>72</td>
-		<td>
-			<a href="https://github.com/bjorn">
-				<img src="https://avatars.githubusercontent.com/u/531764?s=72&v=4" width="24" alt="Avatar of bjorn"> bjorn
-			</a><br/>
-			Thorbjørn Lindeijer
-		</td>
-		<td>Ubisoft Düsseldorf (blue Byte)<br/></td>
-		<td><a href="https://twitter.com/thorbjorn81">thorbjorn81</a></td>
-		<td>Germany</td>
-		<td>733</td>
-	</tr>
-	<tr>
-		<td>73</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/alyssais">
 				<img src="https://avatars.githubusercontent.com/u/2768870?s=72&u=ce956d7c26f9c18bbffc4f89755dfaeddad18c61&v=4" width="24" alt="Avatar of alyssais"> alyssais
@@ -1043,1593 +3422,7 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 		<td>The Internet </td>
 		<td>No Twitter Username</td>
 		<td>Berlin</td>
-		<td>724</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
-			<a href="https://github.com/juliangruber">
-				<img src="https://avatars.githubusercontent.com/u/10247?s=72&u=7ad236875306d5df93dce4d7425631dced27c21d&v=4" width="24" alt="Avatar of juliangruber"> juliangruber
-			</a><br/>
-			Julian Gruber
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/juliangruber">juliangruber</a></td>
-		<td>Kaufbeuren, Germany</td>
-		<td>720</td>
-	</tr>
-	<tr>
-		<td>75</td>
-		<td>
-			<a href="https://github.com/hynek">
-				<img src="https://avatars.githubusercontent.com/u/41240?s=72&u=5a9e4062e0eda1f4ecb6a6bde69116869682b86e&v=4" width="24" alt="Avatar of hynek"> hynek
-			</a><br/>
-			Hynek Schlawack
-		</td>
-		<td>Variomedia Ag </td>
-		<td><a href="https://twitter.com/hynek">hynek</a></td>
-		<td>Berlin/Germany</td>
-		<td>719</td>
-	</tr>
-	<tr>
-		<td>76</td>
-		<td>
-			<a href="https://github.com/beorn7">
-				<img src="https://avatars.githubusercontent.com/u/5609886?s=72&v=4" width="24" alt="Avatar of beorn7"> beorn7
-			</a><br/>
-			Björn Rabenstein
-		</td>
-		<td>@grafana  </td>
-		<td>No Twitter Username</td>
-		<td>Berlin</td>
-		<td>716</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
-			<a href="https://github.com/stefanjudis">
-				<img src="https://avatars.githubusercontent.com/u/962099?s=72&u=6437e61e389e838bcbd37d315f81a6dffd0c824a&v=4" width="24" alt="Avatar of stefanjudis"> stefanjudis
-			</a><br/>
-			Stefan Judis
-		</td>
-		<td>@contentful </td>
-		<td><a href="https://twitter.com/stefanjudis">stefanjudis</a></td>
-		<td>Berlin</td>
-		<td>712</td>
-	</tr>
-	<tr>
-		<td>78</td>
-		<td>
-			<a href="https://github.com/nlohmann">
-				<img src="https://avatars.githubusercontent.com/u/159488?s=72&v=4" width="24" alt="Avatar of nlohmann"> nlohmann
-			</a><br/>
-			Niels Lohmann
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Berlin, Germany</td>
-		<td>699</td>
-	</tr>
-	<tr>
-		<td>79</td>
-		<td>
-			<a href="https://github.com/yole">
-				<img src="https://avatars.githubusercontent.com/u/46553?s=72&u=9432e5ac962ed0491b2f86a9540700225b49ce31&v=4" width="24" alt="Avatar of yole"> yole
-			</a><br/>
-			Dmitry Jemerov
-		</td>
-		<td>@jetbrains </td>
-		<td><a href="https://twitter.com/intelliyole">intelliyole</a></td>
-		<td>Munich, Germany</td>
-		<td>686</td>
-	</tr>
-	<tr>
-		<td>80</td>
-		<td>
-			<a href="https://github.com/vogella">
-				<img src="https://avatars.githubusercontent.com/u/139910?s=72&v=4" width="24" alt="Avatar of vogella"> vogella
-			</a><br/>
-			Lars Vogel
-		</td>
-		<td>Vogella Gmbh </td>
-		<td>No Twitter Username</td>
-		<td>Hamburg</td>
-		<td>683</td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>
-			<a href="https://github.com/codepo8">
-				<img src="https://avatars.githubusercontent.com/u/13508?s=72&u=7e4f61a5a9563f5c0e34ca2d49ea6d8c4fc0a15f&v=4" width="24" alt="Avatar of codepo8"> codepo8
-			</a><br/>
-			Christian Heilmann
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Berlin, Germany</td>
-		<td>682</td>
-	</tr>
-	<tr>
-		<td>82</td>
-		<td>
-			<a href="https://github.com/phanan">
-				<img src="https://avatars.githubusercontent.com/u/8056274?s=72&u=5c528b24ba531d232500d0c5d4846184baa05b3d&v=4" width="24" alt="Avatar of phanan"> phanan
-			</a><br/>
-			Phan An
-		</td>
-		<td>Eve </td>
-		<td>No Twitter Username</td>
-		<td>Munich</td>
-		<td>676</td>
-	</tr>
-	<tr>
-		<td>83</td>
-		<td>
-			<a href="https://github.com/sharkdp">
-				<img src="https://avatars.githubusercontent.com/u/4209276?s=72&u=e6c4022c315b6cbecd5968ec256f4b02885eba41&v=4" width="24" alt="Avatar of sharkdp"> sharkdp
-			</a><br/>
-			David Peter
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Stuttgart, Germany</td>
-		<td>672</td>
-	</tr>
-	<tr>
-		<td>84</td>
-		<td>
-			<a href="https://github.com/felixge">
-				<img src="https://avatars.githubusercontent.com/u/15000?s=72&u=f9b953343c6ce2e8c88ce31e8fcc45940d098890&v=4" width="24" alt="Avatar of felixge"> felixge
-			</a><br/>
-			Felix Geisendörfer
-		</td>
-		<td>Datadog </td>
-		<td><a href="https://twitter.com/felixge">felixge</a></td>
-		<td>Berlin, Germany</td>
-		<td>670</td>
-	</tr>
-	<tr>
-		<td>85</td>
-		<td>
-			<a href="https://github.com/shuding">
-				<img src="https://avatars.githubusercontent.com/u/3676859?s=72&u=a866d19c4fce64bf67a084eb32f29bb6e84020a5&v=4" width="24" alt="Avatar of shuding"> shuding
-			</a><br/>
-			Shu Ding
-		</td>
-		<td>@vercel </td>
-		<td><a href="https://twitter.com/shuding_">shuding_</a></td>
-		<td>Germany</td>
-		<td>651</td>
-	</tr>
-	<tr>
-		<td>86</td>
-		<td>
-			<a href="https://github.com/thomasdarimont">
-				<img src="https://avatars.githubusercontent.com/u/314690?s=72&u=0b1ce9a0916c9c8e0216f058c11125a5df35daa2&v=4" width="24" alt="Avatar of thomasdarimont"> thomasdarimont
-			</a><br/>
-			Thomas Darimont
-		</td>
-		<td>@codecentric Ag </td>
-		<td><a href="https://twitter.com/thomasdarimont">thomasdarimont</a></td>
-		<td>Saarland / Germany</td>
-		<td>647</td>
-	</tr>
-	<tr>
-		<td>87</td>
-		<td>
-			<a href="https://github.com/beberlei">
-				<img src="https://avatars.githubusercontent.com/u/26936?s=72&v=4" width="24" alt="Avatar of beberlei"> beberlei
-			</a><br/>
-			Benjamin Eberlei
-		</td>
-		<td>Tideways Gmbh @tidewaysio </td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>646</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
-			<a href="https://github.com/vas3k">
-				<img src="https://avatars.githubusercontent.com/u/176344?s=72&u=32e1a8764128caef914c3545080fb459d078f11d&v=4" width="24" alt="Avatar of vas3k"> vas3k
-			</a><br/>
-			Vasily Zubarev
-		</td>
-		<td>@paritytech </td>
-		<td><a href="https://twitter.com/vas3k">vas3k</a></td>
-		<td>Berlin, Germany</td>
-		<td>646</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
-			<a href="https://github.com/gka">
-				<img src="https://avatars.githubusercontent.com/u/617518?s=72&u=e186ff214549cc8d3aa43bbc2a38799e135dc60a&v=4" width="24" alt="Avatar of gka"> gka
-			</a><br/>
-			Gregor Aisch
-		</td>
-		<td>@datawrapper  </td>
-		<td>No Twitter Username</td>
-		<td>Berlin</td>
-		<td>628</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
-			<a href="https://github.com/lrlna">
-				<img src="https://avatars.githubusercontent.com/u/8107784?s=72&u=37485c44cee83696ce2d0128b1cde03d9cc9c467&v=4" width="24" alt="Avatar of lrlna"> lrlna
-			</a><br/>
-			Irina Shestak
-		</td>
-		<td>@apollographql </td>
-		<td>No Twitter Username</td>
-		<td>Berlin, Germany</td>
-		<td>627</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
-			<a href="https://github.com/ptaoussanis">
-				<img src="https://avatars.githubusercontent.com/u/160011?s=72&u=9bd357e46497a74a0629a5e8089f17f2fa945a2c&v=4" width="24" alt="Avatar of ptaoussanis"> ptaoussanis
-			</a><br/>
-			Peter Taoussanis
-		</td>
-		<td>Taoensso </td>
-		<td><a href="https://twitter.com/ptaoussanis">ptaoussanis</a></td>
-		<td>Berlin, Chiang Mai, Johannesburg</td>
-		<td>610</td>
-	</tr>
-	<tr>
-		<td>92</td>
-		<td>
-			<a href="https://github.com/alexeygrigorev">
-				<img src="https://avatars.githubusercontent.com/u/875246?s=72&u=067d8c7e8493143a8d047f706772fb1bcaccaea8&v=4" width="24" alt="Avatar of alexeygrigorev"> alexeygrigorev
-			</a><br/>
-			Alexey Grigorev
-		</td>
-		<td>Olx Group </td>
-		<td><a href="https://twitter.com/Al_Grigor">Al_Grigor</a></td>
-		<td>Berlin, Germany</td>
-		<td>568</td>
-	</tr>
-	<tr>
-		<td>93</td>
-		<td>
-			<a href="https://github.com/azer">
-				<img src="https://avatars.githubusercontent.com/u/13072?s=72&u=d0169d408ab9f5e34171bef606cb5eabc90a7510&v=4" width="24" alt="Avatar of azer"> azer
-			</a><br/>
-			Azer Koçulu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Berlin</td>
-		<td>558</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
-			<a href="https://github.com/SaschaWillems">
-				<img src="https://avatars.githubusercontent.com/u/10283127?s=72&u=40532c639243da23cf6f2eb25b5e3e8b6a622b73&v=4" width="24" alt="Avatar of SaschaWillems"> SaschaWillems
-			</a><br/>
-			Sascha Willems
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>558</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
-			<a href="https://github.com/aureliojargas">
-				<img src="https://avatars.githubusercontent.com/u/282592?s=72&v=4" width="24" alt="Avatar of aureliojargas"> aureliojargas
-			</a><br/>
-			Aurelio Jargas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/oreio">oreio</a></td>
-		<td>Ulm, Germany</td>
-		<td>546</td>
-	</tr>
-	<tr>
-		<td>96</td>
-		<td>
-			<a href="https://github.com/Vinai">
-				<img src="https://avatars.githubusercontent.com/u/72463?s=72&u=dfbed82fc6576537476dfe857127137aaf9b87e6&v=4" width="24" alt="Avatar of Vinai"> Vinai
-			</a><br/>
-			Vinai Kopp
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>541</td>
-	</tr>
-	<tr>
-		<td>97</td>
-		<td>
-			<a href="https://github.com/christophM">
-				<img src="https://avatars.githubusercontent.com/u/1632100?s=72&u=3240e98dc29f0a7e4f530b2add3cbb1522572de6&v=4" width="24" alt="Avatar of christophM"> christophM
-			</a><br/>
-			Christoph Molnar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Munich</td>
-		<td>528</td>
-	</tr>
-	<tr>
-		<td>98</td>
-		<td>
-			<a href="https://github.com/bsideup">
-				<img src="https://avatars.githubusercontent.com/u/1050762?s=72&u=01ffa4d95882e7e491ea1c96b1ef0b142e82f684&v=4" width="24" alt="Avatar of bsideup"> bsideup
-			</a><br/>
-			Sergei Egorov
-		</td>
-		<td>@testcontainers, @apache  </td>
-		<td><a href="https://twitter.com/bsideup">bsideup</a></td>
-		<td>Berlin</td>
-		<td>527</td>
-	</tr>
-	<tr>
-		<td>99</td>
-		<td>
-			<a href="https://github.com/Airblader">
-				<img src="https://avatars.githubusercontent.com/u/2392216?s=72&u=d12631b3f618d34274f1e525d1b75750e205881b&v=4" width="24" alt="Avatar of Airblader"> Airblader
-			</a><br/>
-			Ingo Bürk
-		</td>
-		<td>Tng Technology Consulting Gmbh<br/></td>
-		<td>No Twitter Username</td>
-		<td>Munich, Germany</td>
-		<td>512</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
-			<a href="https://github.com/rwieruch">
-				<img src="https://avatars.githubusercontent.com/u/2479967?s=72&u=cba76c8678af8e63ee2dd32853a4e262b35f9ac0&v=4" width="24" alt="Avatar of rwieruch"> rwieruch
-			</a><br/>
-			Robin Wieruch
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/rwieruch">rwieruch</a></td>
-		<td>Berlin, Remote</td>
-		<td>508</td>
-	</tr>
-	<tr>
-		<td>101</td>
-		<td>
-			<a href="https://github.com/mpociot">
-				<img src="https://avatars.githubusercontent.com/u/804684?s=72&u=76971914a7263f37088c9d8915932940a25227a4&v=4" width="24" alt="Avatar of mpociot"> mpociot
-			</a><br/>
-			Marcel Pociot
-		</td>
-		<td>Beyond Code Gmbh </td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>503</td>
-	</tr>
-	<tr>
-		<td>102</td>
-		<td>
-			<a href="https://github.com/oblador">
-				<img src="https://avatars.githubusercontent.com/u/378279?s=72&u=625ae546fd19cfc0a2c19c48b2e0e15ad6592338&v=4" width="24" alt="Avatar of oblador"> oblador
-			</a><br/>
-			Joel Arvidsson
-		</td>
-		<td>@klarna </td>
-		<td><a href="https://twitter.com/trastknast">trastknast</a></td>
-		<td>Berlin, Germany</td>
-		<td>500</td>
-	</tr>
-	<tr>
-		<td>103</td>
-		<td>
-			<a href="https://github.com/sapegin">
-				<img src="https://avatars.githubusercontent.com/u/70067?s=72&v=4" width="24" alt="Avatar of sapegin"> sapegin
-			</a><br/>
-			Artem Sapegin
-		</td>
-		<td>@goeuro </td>
-		<td><a href="https://twitter.com/iamsapegin">iamsapegin</a></td>
-		<td>Berlin, Germany</td>
-		<td>478</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
-			<a href="https://github.com/dominikh">
-				<img src="https://avatars.githubusercontent.com/u/39825?s=72&u=227ba336785f225edf0714a2763ade87c956c32d&v=4" width="24" alt="Avatar of dominikh"> dominikh
-			</a><br/>
-			Dominik Honnef
-		</td>
-		<td>Open-source Developer </td>
-		<td><a href="https://twitter.com/dominikhonnef">dominikhonnef</a></td>
-		<td>Germany</td>
-		<td>453</td>
-	</tr>
-	<tr>
-		<td>105</td>
-		<td>
-			<a href="https://github.com/nisrulz">
-				<img src="https://avatars.githubusercontent.com/u/2096087?s=72&u=9772a7130ec94b29dd8ee6e8e23b9f73edcc8232&v=4" width="24" alt="Avatar of nisrulz"> nisrulz
-			</a><br/>
-			Nishant Srivastava
-		</td>
-		<td>@mimihearingtechnolo </td>
-		<td><a href="https://twitter.com/nisrulz">nisrulz</a></td>
-		<td>Berlin, Germany</td>
-		<td>427</td>
-	</tr>
-	<tr>
-		<td>106</td>
-		<td>
-			<a href="https://github.com/sockeqwe">
-				<img src="https://avatars.githubusercontent.com/u/583598?s=72&u=97e58e4cd0169560b8117ab8a1205ae86ad25eb7&v=4" width="24" alt="Avatar of sockeqwe"> sockeqwe
-			</a><br/>
-			Hannes Dorfmann
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Munich</td>
-		<td>416</td>
-	</tr>
-	<tr>
-		<td>107</td>
-		<td>
-			<a href="https://github.com/jexp">
-				<img src="https://avatars.githubusercontent.com/u/67427?s=72&v=4" width="24" alt="Avatar of jexp"> jexp
-			</a><br/>
-			Michael Hunger
-		</td>
-		<td>Jexp + @neo4j </td>
-		<td>No Twitter Username</td>
-		<td>Dresden, Germany</td>
-		<td>416</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/davidchambers">
-				<img src="https://avatars.githubusercontent.com/u/210406?s=72&u=1e326868a0f976cb221994d4d528db8d1e28e0f4&v=4" width="24" alt="Avatar of davidchambers"> davidchambers
-			</a><br/>
-			David Chambers
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Berlin</td>
-		<td>382</td>
-	</tr>
-	<tr>
-		<td>109</td>
-		<td>
-			<a href="https://github.com/leo">
-				<img src="https://avatars.githubusercontent.com/u/6170607?s=72&u=7a2d1d6a0716c0a9f18e4a1047f1a54e094e1e7b&v=4" width="24" alt="Avatar of leo"> leo
-			</a><br/>
-			Leo Lamprecht
-		</td>
-		<td>@vercel </td>
-		<td>No Twitter Username</td>
-		<td>Berlin</td>
-		<td>370</td>
-	</tr>
-	<tr>
-		<td>110</td>
-		<td>
-			<a href="https://github.com/bmeurer">
-				<img src="https://avatars.githubusercontent.com/u/815988?s=72&u=bf3c4b894892afa99fcdde7829a437ddd39040c0&v=4" width="24" alt="Avatar of bmeurer"> bmeurer
-			</a><br/>
-			Benedikt Meurer
-		</td>
-		<td>@google </td>
-		<td><a href="https://twitter.com/bmeurer">bmeurer</a></td>
-		<td>Munich</td>
-		<td>361</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
-			<a href="https://github.com/dashersw">
-				<img src="https://avatars.githubusercontent.com/u/698308?s=72&v=4" width="24" alt="Avatar of dashersw"> dashersw
-			</a><br/>
-			Armagan Amcalar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Berlin</td>
-		<td>344</td>
-	</tr>
-	<tr>
-		<td>112</td>
-		<td>
-			<a href="https://github.com/android10">
-				<img src="https://avatars.githubusercontent.com/u/1360604?s=72&u=982bd190b3101c9a73d7584a44be4d4a25571658&v=4" width="24" alt="Avatar of android10"> android10
-			</a><br/>
-			Fernando Cejas
-		</td>
-		<td>@tignum </td>
-		<td><a href="https://twitter.com/fernando_cejas">fernando_cejas</a></td>
-		<td>Berlin, Germany</td>
-		<td>338</td>
-	</tr>
-	<tr>
-		<td>113</td>
-		<td>
-			<a href="https://github.com/vedovelli">
-				<img src="https://avatars.githubusercontent.com/u/151001?s=72&u=b812180d156e47df1a233a8b1b7812d99319541e&v=4" width="24" alt="Avatar of vedovelli"> vedovelli
-			</a><br/>
-			Fábio Vedovelli
-		</td>
-		<td>Keylight Gmbh </td>
-		<td>No Twitter Username</td>
-		<td>Berlin</td>
-		<td>309</td>
-	</tr>
-	<tr>
-		<td>114</td>
-		<td>
-			<a href="https://github.com/zserge">
-				<img src="https://avatars.githubusercontent.com/u/1911760?s=72&u=d54bceb88fc5adc736476c5625bc96eed3725de0&v=4" width="24" alt="Avatar of zserge"> zserge
-			</a><br/>
-			Serge Zaitsev
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/zsergo">zsergo</a></td>
-		<td>München, Germany</td>
-		<td>308</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/brianamarie">
-				<img src="https://avatars.githubusercontent.com/u/9906718?s=72&u=552df5bb91d26c24dd56f7609c312431ed799eb7&v=4" width="24" alt="Avatar of brianamarie"> brianamarie
-			</a><br/>
-			Briana Swift
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Berlin</td>
-		<td>291</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/frozeman">
-				<img src="https://avatars.githubusercontent.com/u/232662?s=72&u=d4221251fe93c55da1fbf4761a91bffd8467f137&v=4" width="24" alt="Avatar of frozeman"> frozeman
-			</a><br/>
-			Fabian Vogelsteller
-		</td>
-		<td>Lukso </td>
-		<td><a href="https://twitter.com/feindura">feindura</a></td>
-		<td>Berlin, Germany</td>
-		<td>290</td>
-	</tr>
-	<tr>
-		<td>117</td>
-		<td>
-			<a href="https://github.com/Arshiamidos">
-				<img src="https://avatars.githubusercontent.com/u/6451804?s=72&u=1bd7923ee45f942b85ff3a5a6221c4a169afc2f0&v=4" width="24" alt="Avatar of Arshiamidos"> Arshiamidos
-			</a><br/>
-			Arshiamidos
-		</td>
-		<td>~ </td>
-		<td><a href="https://twitter.com/arshiamidos">arshiamidos</a></td>
-		<td>Berlin, Germany</td>
-		<td>271</td>
-	</tr>
-	<tr>
-		<td>118</td>
-		<td>
-			<a href="https://github.com/JohannesMilke">
-				<img src="https://avatars.githubusercontent.com/u/44921899?s=72&u=1601137bc7deb85f69c188e5639bb9746c52de62&v=4" width="24" alt="Avatar of JohannesMilke"> JohannesMilke
-			</a><br/>
-			Johannes Milke
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/JohannesMilke">JohannesMilke</a></td>
-		<td>Germany - Kassel</td>
-		<td>262</td>
-	</tr>
-	<tr>
-		<td>119</td>
-		<td>
-			<a href="https://github.com/jzaefferer">
-				<img src="https://avatars.githubusercontent.com/u/52585?s=72&u=e347af520b9f7d67cc0c3d99f8d4c62856cd8d9c&v=4" width="24" alt="Avatar of jzaefferer"> jzaefferer
-			</a><br/>
-			Jörn Zaefferer
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cologne, Germany</td>
-		<td>261</td>
-	</tr>
-	<tr>
-		<td>120</td>
-		<td>
-			<a href="https://github.com/javierbyte">
-				<img src="https://avatars.githubusercontent.com/u/2009676?s=72&u=6c1687b683f477aadd63c456cbae6f2e2ddf641c&v=4" width="24" alt="Avatar of javierbyte"> javierbyte
-			</a><br/>
-			Javier Bórquez
-		</td>
-		<td>Babbel Gmbh </td>
-		<td><a href="https://twitter.com/javierbyte">javierbyte</a></td>
-		<td>Berlin, Germany</td>
-		<td>260</td>
-	</tr>
-	<tr>
-		<td>121</td>
-		<td>
-			<a href="https://github.com/timgrossmann">
-				<img src="https://avatars.githubusercontent.com/u/16529337?s=72&u=964940e7d4ac7b05974a5d5286d246ca6536dc6a&v=4" width="24" alt="Avatar of timgrossmann"> timgrossmann
-			</a><br/>
-			Tim Großmann
-		</td>
-		<td>Cap3 </td>
-		<td><a href="https://twitter.com/timigrossmann">timigrossmann</a></td>
-		<td>Kiel, Germany</td>
-		<td>254</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
-			<a href="https://github.com/spacehuhn">
-				<img src="https://avatars.githubusercontent.com/u/3826044?s=72&u=3d23938d052e229bd41931a9f2647a767a24d59e&v=4" width="24" alt="Avatar of spacehuhn"> spacehuhn
-			</a><br/>
-			Stefan Kremser
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>251</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
-			<a href="https://github.com/kamranahmedse">
-				<img src="https://avatars.githubusercontent.com/u/4921183?s=72&u=f35680190fa9aace064aec34416e0296a65bde7a&v=4" width="24" alt="Avatar of kamranahmedse"> kamranahmedse
-			</a><br/>
-			Kamran Ahmed
-		</td>
-		<td>Tradeling </td>
-		<td><a href="https://twitter.com/kamranahmedse">kamranahmedse</a></td>
-		<td>Berlin, Germany</td>
-		<td>249</td>
-	</tr>
-	<tr>
-		<td>124</td>
-		<td>
-			<a href="https://github.com/greenrobot">
-				<img src="https://avatars.githubusercontent.com/u/242242?s=72&u=74db902925020ca70c6673f62c4b6b98dd7737dc&v=4" width="24" alt="Avatar of greenrobot"> greenrobot
-			</a><br/>
-			Markus Junginger
-		</td>
-		<td>@objectbox </td>
-		<td><a href="https://twitter.com/greenrobot_de">greenrobot_de</a></td>
-		<td>Berlin</td>
-		<td>246</td>
-	</tr>
-	<tr>
-		<td>125</td>
-		<td>
-			<a href="https://github.com/berndruecker">
-				<img src="https://avatars.githubusercontent.com/u/1217596?s=72&u=453b40906098be2a4e759b073722975b83195b2d&v=4" width="24" alt="Avatar of berndruecker"> berndruecker
-			</a><br/>
-			Bernd Ruecker
-		</td>
-		<td>@camunda  </td>
-		<td><a href="https://twitter.com/berndruecker">berndruecker</a></td>
-		<td>Berlin</td>
-		<td>245</td>
-	</tr>
-	<tr>
-		<td>126</td>
-		<td>
-			<a href="https://github.com/schickling">
-				<img src="https://avatars.githubusercontent.com/u/1567498?s=72&u=2a3cb79c34ad4ac26470ece4b49731291b661b24&v=4" width="24" alt="Avatar of schickling"> schickling
-			</a><br/>
-			Johannes Schickling
-		</td>
-		<td>@prisma  </td>
-		<td>No Twitter Username</td>
-		<td>Berlin/SF</td>
-		<td>238</td>
-	</tr>
-	<tr>
-		<td>127</td>
-		<td>
-			<a href="https://github.com/arthurschreiber">
-				<img src="https://avatars.githubusercontent.com/u/2195?s=72&v=4" width="24" alt="Avatar of arthurschreiber"> arthurschreiber
-			</a><br/>
-			Arthur Schreiber
-		</td>
-		<td>Github </td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>226</td>
-	</tr>
-	<tr>
-		<td>128</td>
-		<td>
-			<a href="https://github.com/naderman">
-				<img src="https://avatars.githubusercontent.com/u/154844?s=72&v=4" width="24" alt="Avatar of naderman"> naderman
-			</a><br/>
-			Nils Adermann
-		</td>
-		<td>@packagist  </td>
-		<td><a href="https://twitter.com/naderman">naderman</a></td>
-		<td>Berlin, Germany</td>
-		<td>224</td>
-	</tr>
-	<tr>
-		<td>129</td>
-		<td>
-			<a href="https://github.com/ojack">
-				<img src="https://avatars.githubusercontent.com/u/4909769?s=72&u=9276688530374c71bdd6244f9282689aee429b7c&v=4" width="24" alt="Avatar of ojack"> ojack
-			</a><br/>
-			Olivia Jack
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_ojack_">_ojack_</a></td>
-		<td> Berlin / Bogotá</td>
-		<td>216</td>
-	</tr>
-	<tr>
-		<td>130</td>
-		<td>
-			<a href="https://github.com/cure53">
-				<img src="https://avatars.githubusercontent.com/u/6709482?s=72&u=4149eb5ebf4e59175c31bbc618805bce4d0535dc&v=4" width="24" alt="Avatar of cure53"> cure53
-			</a><br/>
-			Cure53
-		</td>
-		<td>Fine penetration tes For fine websites </td>
-		<td>No Twitter Username</td>
-		<td>Berlin</td>
-		<td>214</td>
-	</tr>
-	<tr>
-		<td>131</td>
-		<td>
-			<a href="https://github.com/tasomaniac">
-				<img src="https://avatars.githubusercontent.com/u/763339?s=72&u=0ac75d800ee88e6163d7e115fea397fa9e393a1a&v=4" width="24" alt="Avatar of tasomaniac"> tasomaniac
-			</a><br/>
-			Said Tahsin Dane
-		</td>
-		<td>@deliveryhero </td>
-		<td><a href="https://twitter.com/tasomaniac">tasomaniac</a></td>
-		<td>Berlin</td>
-		<td>211</td>
-	</tr>
-	<tr>
-		<td>132</td>
-		<td>
-			<a href="https://github.com/withoutboats">
-				<img src="https://avatars.githubusercontent.com/u/9063376?s=72&u=ec5c87eccfd06232b809ba0ffc9d642f54cf6b22&v=4" width="24" alt="Avatar of withoutboats"> withoutboats
-			</a><br/>
-			Saoirse Shipwreckt
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/withoutboats">withoutboats</a></td>
-		<td>Berlin</td>
-		<td>208</td>
-	</tr>
-	<tr>
-		<td>133</td>
-		<td>
-			<a href="https://github.com/domnikl">
-				<img src="https://avatars.githubusercontent.com/u/603116?s=72&u=a7caa95e75dc8c7f221975f6e38dc9dd08388643&v=4" width="24" alt="Avatar of domnikl"> domnikl
-			</a><br/>
-			Dominik Liebler
-		</td>
-		<td>@flyeralarm </td>
-		<td><a href="https://twitter.com/domnikl">domnikl</a></td>
-		<td>Germany</td>
-		<td>208</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
-			<a href="https://github.com/jhnns">
-				<img src="https://avatars.githubusercontent.com/u/781746?s=72&u=71faf5e318a5c9db71b3dc6b38dd0c84261de13e&v=4" width="24" alt="Avatar of jhnns"> jhnns
-			</a><br/>
-			Johannes Ewald
-		</td>
-		<td>@peerigon </td>
-		<td>No Twitter Username</td>
-		<td>Augsburg, Germany</td>
-		<td>187</td>
-	</tr>
-	<tr>
-		<td>135</td>
-		<td>
-			<a href="https://github.com/sujinleeme">
-				<img src="https://avatars.githubusercontent.com/u/6011401?s=72&u=a5f2aada18689890a2ce5ba7ec1abff32475ad8c&v=4" width="24" alt="Avatar of sujinleeme"> sujinleeme
-			</a><br/>
-			Sujin Lee
-		</td>
-		<td>@taxfix </td>
-		<td><a href="https://twitter.com/sujinleeme">sujinleeme</a></td>
-		<td>Berlin, Germany</td>
-		<td>182</td>
-	</tr>
-	<tr>
-		<td>136</td>
-		<td>
-			<a href="https://github.com/arcticicestudio">
-				<img src="https://avatars.githubusercontent.com/u/7836623?s=72&u=ee98b4969ee8f65db416c698f10d64ba333d9b4b&v=4" width="24" alt="Avatar of arcticicestudio"> arcticicestudio
-			</a><br/>
-			Arctic Ice Studio
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/arcticicestudio">arcticicestudio</a></td>
-		<td>$HOME/germany</td>
-		<td>175</td>
-	</tr>
-	<tr>
-		<td>137</td>
-		<td>
-			<a href="https://github.com/sdaschner">
-				<img src="https://avatars.githubusercontent.com/u/6815170?s=72&u=ad2793587ceab62a7d87b4fd309117e58f5d0938&v=4" width="24" alt="Avatar of sdaschner"> sdaschner
-			</a><br/>
-			Sebastian Daschner
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/DaschnerS">DaschnerS</a></td>
-		<td>Munich</td>
-		<td>170</td>
-	</tr>
-	<tr>
-		<td>138</td>
-		<td>
-			<a href="https://github.com/peterbourgon">
-				<img src="https://avatars.githubusercontent.com/u/114509?s=72&u=4b1d9ee1bec99ce39d01b02a414def3018042d6d&v=4" width="24" alt="Avatar of peterbourgon"> peterbourgon
-			</a><br/>
-			Peter Bourgon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Berlin</td>
-		<td>160</td>
-	</tr>
-	<tr>
-		<td>139</td>
-		<td>
-			<a href="https://github.com/meh">
-				<img src="https://avatars.githubusercontent.com/u/40204?s=72&v=4" width="24" alt="Avatar of meh"> meh
-			</a><br/>
-			meh.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Berlin</td>
-		<td>158</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/cebe">
-				<img src="https://avatars.githubusercontent.com/u/189796?s=72&u=bac6f236b1f3468719b032e8f6f95fd365783ffc&v=4" width="24" alt="Avatar of cebe"> cebe
-			</a><br/>
-			Carsten Brandt
-		</td>
-		<td>@yiisoft, @cebe-cc </td>
-		<td>No Twitter Username</td>
-		<td>Berlin / Alfeld, Germany</td>
-		<td>155</td>
-	</tr>
-	<tr>
-		<td>141</td>
-		<td>
-			<a href="https://github.com/Orbiter">
-				<img src="https://avatars.githubusercontent.com/u/238730?s=72&u=8e5d1b23d7462850e861970ef89e653fd51e80bd&v=4" width="24" alt="Avatar of Orbiter"> Orbiter
-			</a><br/>
-			Michael Christen
-		</td>
-		<td>Yacy </td>
-		<td><a href="https://twitter.com/0rb1t3r">0rb1t3r</a></td>
-		<td>Frankfurt am Main, Germany</td>
-		<td>149</td>
-	</tr>
-	<tr>
-		<td>142</td>
-		<td>
-			<a href="https://github.com/brianegan">
-				<img src="https://avatars.githubusercontent.com/u/126604?s=72&v=4" width="24" alt="Avatar of brianegan"> brianegan
-			</a><br/>
-			Brian Egan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Berlin, Germany</td>
-		<td>145</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/Prinzhorn">
-				<img src="https://avatars.githubusercontent.com/u/679144?s=72&u=4d06474e4c8f395958438999aab2650951364aa9&v=4" width="24" alt="Avatar of Prinzhorn"> Prinzhorn
-			</a><br/>
-			Alexander Prinzhorn
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Prinzhorn">Prinzhorn</a></td>
-		<td>Germany</td>
-		<td>140</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
-			<a href="https://github.com/aemkei">
-				<img src="https://avatars.githubusercontent.com/u/1521?s=72&u=862d079d96004eaf0a20fad615e6fe8a348036dd&v=4" width="24" alt="Avatar of aemkei"> aemkei
-			</a><br/>
-			Martin Kleppe
-		</td>
-		<td>Ubilabs </td>
-		<td>No Twitter Username</td>
-		<td>Hamburg</td>
-		<td>136</td>
-	</tr>
-	<tr>
-		<td>145</td>
-		<td>
-			<a href="https://github.com/glutanimate">
-				<img src="https://avatars.githubusercontent.com/u/5459332?s=72&u=f3550dcb4d421cb2a96dffad6e51191b434ec5dd&v=4" width="24" alt="Avatar of glutanimate"> glutanimate
-			</a><br/>
-			Aristotelis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>134</td>
-	</tr>
-	<tr>
-		<td>146</td>
-		<td>
-			<a href="https://github.com/robb">
-				<img src="https://avatars.githubusercontent.com/u/212465?s=72&u=1fdd908bff383bfd59636d56662cecb3295fb4cc&v=4" width="24" alt="Avatar of robb"> robb
-			</a><br/>
-			Robb Böhnke
-		</td>
-		<td>@movingparts-io  </td>
-		<td><a href="https://twitter.com/DLX">DLX</a></td>
-		<td>Berlin</td>
-		<td>128</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
-			<a href="https://github.com/hjacobs">
-				<img src="https://avatars.githubusercontent.com/u/510328?s=72&u=87c753d3dd2a055442c1e0e63912be21306a886b&v=4" width="24" alt="Avatar of hjacobs"> hjacobs
-			</a><br/>
-			Henning Jacobs
-		</td>
-		<td>Zalando Se </td>
-		<td><a href="https://twitter.com/try_except_">try_except_</a></td>
-		<td>Germany</td>
-		<td>128</td>
-	</tr>
-	<tr>
-		<td>148</td>
-		<td>
-			<a href="https://github.com/janl">
-				<img src="https://avatars.githubusercontent.com/u/11321?s=72&v=4" width="24" alt="Avatar of janl"> janl
-			</a><br/>
-			Jan Lehnardt
-		</td>
-		<td>Neighbourhoodie Software </td>
-		<td><a href="https://twitter.com/Janl">Janl</a></td>
-		<td>Berlin, Germany</td>
-		<td>126</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
-			<a href="https://github.com/ellenkorbes">
-				<img src="https://avatars.githubusercontent.com/u/25550091?s=72&u=6db5167a46244ea1276f9be987da6f5b6d9291f0&v=4" width="24" alt="Avatar of ellenkorbes"> ellenkorbes
-			</a><br/>
-			Ellen Körbes
-		</td>
-		<td>Tilt.dev </td>
-		<td><a href="https://twitter.com/ellenkorbes">ellenkorbes</a></td>
-		<td>Berlin</td>
-		<td>122</td>
-	</tr>
-	<tr>
-		<td>150</td>
-		<td>
-			<a href="https://github.com/LinusBorg">
-				<img src="https://avatars.githubusercontent.com/u/1444526?s=72&u=a0efb55a8427e248635b04bbb1f3e1f56af4abbb&v=4" width="24" alt="Avatar of LinusBorg"> LinusBorg
-			</a><br/>
-			Thorsten Lünborg
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mannheim, Germany</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>151</td>
-		<td>
-			<a href="https://github.com/suriyaa">
-				<img src="https://avatars.githubusercontent.com/u/5073946?s=72&u=de946c73f00d9c866930a729b88f3ad3ffd0247b&v=4" width="24" alt="Avatar of suriyaa"> suriyaa
-			</a><br/>
-			Suriyaa Sundararuban
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/SuriyaaKudoIsc">SuriyaaKudoIsc</a></td>
-		<td>Germany</td>
-		<td>110</td>
-	</tr>
-	<tr>
-		<td>152</td>
-		<td>
-			<a href="https://github.com/musikalkemist">
-				<img src="https://avatars.githubusercontent.com/u/12214724?s=72&v=4" width="24" alt="Avatar of musikalkemist"> musikalkemist
-			</a><br/>
-			Valerio Velardo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Berlin</td>
-		<td>103</td>
-	</tr>
-	<tr>
-		<td>153</td>
-		<td>
-			<a href="https://github.com/justinmk">
-				<img src="https://avatars.githubusercontent.com/u/1359421?s=72&u=d40bdc08134f061fba586773f08f132f8567597b&v=4" width="24" alt="Avatar of justinmk"> justinmk
-			</a><br/>
-			Justin M. Keyes
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Berlin</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>154</td>
-		<td>
-			<a href="https://github.com/colodenn">
-				<img src="https://avatars.githubusercontent.com/u/43729834?s=72&u=59788d41698c89d29815b29daadb888f13e5b083&v=4" width="24" alt="Avatar of colodenn"> colodenn
-			</a><br/>
-			Cornelius Denninger
-		</td>
-		<td>Dfki Gmbh </td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>98</td>
-	</tr>
-	<tr>
-		<td>155</td>
-		<td>
-			<a href="https://github.com/TejasQ">
-				<img src="https://avatars.githubusercontent.com/u/9947422?s=72&u=fb740d34aa56a06482e140c74dbb246937f5fabb&v=4" width="24" alt="Avatar of TejasQ"> TejasQ
-			</a><br/>
-			Tejas Kumar
-		</td>
-		<td>@g2i </td>
-		<td>No Twitter Username</td>
-		<td>Berlin, DE</td>
-		<td>98</td>
-	</tr>
-	<tr>
-		<td>156</td>
-		<td>
-			<a href="https://github.com/uvipen">
-				<img src="https://avatars.githubusercontent.com/u/47221207?s=72&u=eb182ccf2c1bf08df50811065d48d4e81d22b3e2&v=4" width="24" alt="Avatar of uvipen"> uvipen
-			</a><br/>
-			Viet Nguyen
-		</td>
-		<td>Id League Gmbh </td>
-		<td>No Twitter Username</td>
-		<td>Berlin, Germany</td>
-		<td>97</td>
-	</tr>
-	<tr>
-		<td>157</td>
-		<td>
-			<a href="https://github.com/mugli">
-				<img src="https://avatars.githubusercontent.com/u/2240000?s=72&v=4" width="24" alt="Avatar of mugli"> mugli
-			</a><br/>
-			Mehdi Hasan Khan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/MehdiHK">MehdiHK</a></td>
-		<td>Berlin, Germany</td>
-		<td>85</td>
-	</tr>
-	<tr>
-		<td>158</td>
-		<td>
-			<a href="https://github.com/akullpp">
-				<img src="https://avatars.githubusercontent.com/u/4538351?s=72&u=670757e310acc2f2ba2a61d90a481a3154171465&v=4" width="24" alt="Avatar of akullpp"> akullpp
-			</a><br/>
-			Andreas Kull
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/akullpp">akullpp</a></td>
-		<td>Germany</td>
-		<td>76</td>
-	</tr>
-	<tr>
-		<td>159</td>
-		<td>
-			<a href="https://github.com/chriseidhof">
-				<img src="https://avatars.githubusercontent.com/u/5382?s=72&u=26f1c228ffe96466d256c848719a6456c47acc21&v=4" width="24" alt="Avatar of chriseidhof"> chriseidhof
-			</a><br/>
-			Chris Eidhof
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Berlin</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>160</td>
-		<td>
-			<a href="https://github.com/googollee">
-				<img src="https://avatars.githubusercontent.com/u/496526?s=72&v=4" width="24" alt="Avatar of googollee"> googollee
-			</a><br/>
-			Googol Lee
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Munich, Germany</td>
-		<td>68</td>
-	</tr>
-	<tr>
-		<td>161</td>
-		<td>
-			<a href="https://github.com/voronianski">
-				<img src="https://avatars.githubusercontent.com/u/974035?s=72&u=2245599a2f8b4c51d28ed2045ca9756d445ade22&v=4" width="24" alt="Avatar of voronianski"> voronianski
-			</a><br/>
-			Dmitri Voronianski
-		</td>
-		<td>@sumup </td>
-		<td><a href="https://twitter.com/voronianski">voronianski</a></td>
-		<td>Berlin, Germany</td>
-		<td>68</td>
-	</tr>
-	<tr>
-		<td>162</td>
-		<td>
-			<a href="https://github.com/danielfilho">
-				<img src="https://avatars.githubusercontent.com/u/24597?s=72&u=1160b22ee1be12809d17ae1a6f5783b042a39495&v=4" width="24" alt="Avatar of danielfilho"> danielfilho
-			</a><br/>
-			Daniel Filho
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/danielfilho">danielfilho</a></td>
-		<td>Berlin, Germany</td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>163</td>
-		<td>
-			<a href="https://github.com/defnull">
-				<img src="https://avatars.githubusercontent.com/u/62740?s=72&v=4" width="24" alt="Avatar of defnull"> defnull
-			</a><br/>
-			Marcel Hellkamp
-		</td>
-		<td>Gwdg Göttingen </td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>164</td>
-		<td>
-			<a href="https://github.com/datitran">
-				<img src="https://avatars.githubusercontent.com/u/3866530?s=72&u=b7ecf7393331d0d2ace8dae0d2964c2c48b89ef6&v=4" width="24" alt="Avatar of datitran"> datitran
-			</a><br/>
-			Dat Tran
-		</td>
-		<td>Priceloop Gmbh </td>
-		<td><a href="https://twitter.com/datitran">datitran</a></td>
-		<td>Berlin</td>
-		<td>61</td>
-	</tr>
-	<tr>
-		<td>165</td>
-		<td>
-			<a href="https://github.com/mlent">
-				<img src="https://avatars.githubusercontent.com/u/1771845?s=72&u=080c6da7ba6d4117485b9afc079ae097561ab899&v=4" width="24" alt="Avatar of mlent"> mlent
-			</a><br/>
-			Monica Lent
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Berlin, Germany</td>
-		<td>60</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/ewolff">
-				<img src="https://avatars.githubusercontent.com/u/529318?s=72&u=45e6f2ef9186d40de5332bf2e8634aa685ef4ff1&v=4" width="24" alt="Avatar of ewolff"> ewolff
-			</a><br/>
-			Eberhard Wolff
-		</td>
-		<td>Fellow At @innoq <br/></td>
-		<td><a href="https://twitter.com/ewolff">ewolff</a></td>
-		<td>Kaiserslautern, Germany</td>
-		<td>58</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/rubensousa">
-				<img src="https://avatars.githubusercontent.com/u/10662096?s=72&u=f9456760c57790a8971496fa7cc48a893ae518b9&v=4" width="24" alt="Avatar of rubensousa"> rubensousa
-			</a><br/>
-			Rúben Sousa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Munich, Germany</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>168</td>
-		<td>
-			<a href="https://github.com/joeel561">
-				<img src="https://avatars.githubusercontent.com/u/16187979?s=72&u=6ce9b0b0b22df4d806eb0300107a7907a2937f25&v=4" width="24" alt="Avatar of joeel561"> joeel561
-			</a><br/>
-			Nicole Wolf
-		</td>
-		<td>@8mylez  </td>
-		<td><a href="https://twitter.com/joeel56">joeel56</a></td>
-		<td>Germany</td>
-		<td>54</td>
-	</tr>
-	<tr>
-		<td>169</td>
-		<td>
-			<a href="https://github.com/BoschSensortec">
-				<img src="https://avatars.githubusercontent.com/u/7334913?s=72&u=6760bab6b635136594881ff74af7cbf45c0489eb&v=4" width="24" alt="Avatar of BoschSensortec"> BoschSensortec
-			</a><br/>
-			Bosch Sensortec
-		</td>
-		<td>Bosch Sensortec Gmbh </td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>170</td>
-		<td>
-			<a href="https://github.com/maxpumperla">
-				<img src="https://avatars.githubusercontent.com/u/3462566?s=72&u=bbb040b2e3a2245ccfb2553b2174bfe1b5e970b2&v=4" width="24" alt="Avatar of maxpumperla"> maxpumperla
-			</a><br/>
-			Max Pumperla
-		</td>
-		<td>Freelancer </td>
-		<td><a href="https://twitter.com/maxpumperla">maxpumperla</a></td>
-		<td>Hamburg, Germany</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>171</td>
-		<td>
-			<a href="https://github.com/notthebee">
-				<img src="https://avatars.githubusercontent.com/u/30384331?s=72&u=a3008e313a88650427f6280d9704a8e9f23b9c1b&v=4" width="24" alt="Avatar of notthebee"> notthebee
-			</a><br/>
-			Wolfgang
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>172</td>
-		<td>
-			<a href="https://github.com/niklasb">
-				<img src="https://avatars.githubusercontent.com/u/94819?s=72&u=7c389ca3193e52ea71e9d0f0c55c42ba5fa67b6a&v=4" width="24" alt="Avatar of niklasb"> niklasb
-			</a><br/>
-			Niklas Baumstark
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Frankfurt, Germany</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
-			<a href="https://github.com/philipplackner">
-				<img src="https://avatars.githubusercontent.com/u/53933333?s=72&u=d046de5afc858c18f6deef6134118c1aa93eb2ac&v=4" width="24" alt="Avatar of philipplackner"> philipplackner
-			</a><br/>
-			Philipp Lackner
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>174</td>
-		<td>
-			<a href="https://github.com/Armour">
-				<img src="https://avatars.githubusercontent.com/u/5276065?s=72&u=c4e3526866714b8d9618c436d7b2a2c8fd00837c&v=4" width="24" alt="Avatar of Armour"> Armour
-			</a><br/>
-			Chong Guo
-		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>Munich</td>
-		<td>41</td>
-	</tr>
-	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/julienschmidt">
-				<img src="https://avatars.githubusercontent.com/u/944947?s=72&u=d89b2fb0f9341390f25aa1e3c988337ba81efb8f&v=4" width="24" alt="Avatar of julienschmidt"> julienschmidt
-			</a><br/>
-			Julien Schmidt
-		</td>
-		<td>Sumup </td>
-		<td>No Twitter Username</td>
-		<td>Cologne, Germany</td>
-		<td>41</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/lrsjng">
-				<img src="https://avatars.githubusercontent.com/u/181815?s=72&u=ac38f4ee7c8e4674307a55673ad9ed02e5bd3649&v=4" width="24" alt="Avatar of lrsjng"> lrsjng
-			</a><br/>
-			Lars Jung
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/lrsjng">lrsjng</a></td>
-		<td>Germany</td>
-		<td>41</td>
-	</tr>
-	<tr>
-		<td>177</td>
-		<td>
-			<a href="https://github.com/aFarkas">
-				<img src="https://avatars.githubusercontent.com/u/188254?s=72&u=e091ca6dd9a228af28bce1d9c1132ac0d2f37017&v=4" width="24" alt="Avatar of aFarkas"> aFarkas
-			</a><br/>
-			Alexander Farkas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Berlin</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>178</td>
-		<td>
-			<a href="https://github.com/dnouri">
-				<img src="https://avatars.githubusercontent.com/u/56370?s=72&u=435fdf3f977b122ded96446f914dea3717910ae5&v=4" width="24" alt="Avatar of dnouri"> dnouri
-			</a><br/>
-			Daniel Nouri
-		</td>
-		<td>@naturalvision </td>
-		<td><a href="https://twitter.com/dnouri">dnouri</a></td>
-		<td>Berlin</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>179</td>
-		<td>
-			<a href="https://github.com/kjam">
-				<img src="https://avatars.githubusercontent.com/u/333528?s=72&v=4" width="24" alt="Avatar of kjam"> kjam
-			</a><br/>
-			Katharine
-		</td>
-		<td>Kjamistan </td>
-		<td>No Twitter Username</td>
-		<td>Berlin, Germany</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
-			<a href="https://github.com/mttkay">
-				<img src="https://avatars.githubusercontent.com/u/102802?s=72&v=4" width="24" alt="Avatar of mttkay"> mttkay
-			</a><br/>
-			Matthias Käppler
-		</td>
-		<td>Soundcloud Ltd. </td>
-		<td>No Twitter Username</td>
-		<td>Berlin, Germany</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>181</td>
-		<td>
-			<a href="https://github.com/k0shk0sh">
-				<img src="https://avatars.githubusercontent.com/u/960767?s=72&u=4615676ec7b2e50c1cf647c50a42528bbfcca5a6&v=4" width="24" alt="Avatar of k0shk0sh"> k0shk0sh
-			</a><br/>
-			Kosh Sergani
-		</td>
-		<td>Lead Android Engineer @lovoo<br/><br/></td>
-		<td><a href="https://twitter.com/im_kosh">im_kosh</a></td>
-		<td>Dresden, Germany</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>182</td>
-		<td>
-			<a href="https://github.com/dypsilon">
-				<img src="https://avatars.githubusercontent.com/u/425735?s=72&v=4" width="24" alt="Avatar of dypsilon"> dypsilon
-			</a><br/>
-			Tim Navrotskyy
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/dypsilon">dypsilon</a></td>
-		<td>Germany, Stuttgart</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>183</td>
-		<td>
-			<a href="https://github.com/mr-mig">
-				<img src="https://avatars.githubusercontent.com/u/1062491?s=72&u=984b1f0a9808cd15bf2fc5fa22d9528627e44516&v=4" width="24" alt="Avatar of mr-mig"> mr-mig
-			</a><br/>
-			Alexey Migutsky
-		</td>
-		<td>Microsoft / Github </td>
-		<td>No Twitter Username</td>
-		<td>Berlin, Germany</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>184</td>
-		<td>
-			<a href="https://github.com/wiseodd">
-				<img src="https://avatars.githubusercontent.com/u/2296722?s=72&u=2babac8cf3a3761d65290420e7b64c6d5a2b4064&v=4" width="24" alt="Avatar of wiseodd"> wiseodd
-			</a><br/>
-			Agustinus Kristiadi
-		</td>
-		<td>University Of Tübingen </td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>185</td>
-		<td>
-			<a href="https://github.com/schacon">
-				<img src="https://avatars.githubusercontent.com/u/70?s=72&u=256ba2d51ff78a02c2dbf89a9159389f0dfb6104&v=4" width="24" alt="Avatar of schacon"> schacon
-			</a><br/>
-			Scott Chacon
-		</td>
-		<td>@chatterbugapp  </td>
-		<td><a href="https://twitter.com/chacon">chacon</a></td>
-		<td>Berlin, Germany</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>186</td>
-		<td>
-			<a href="https://github.com/tgalal">
-				<img src="https://avatars.githubusercontent.com/u/895331?s=72&u=e59e64ca33d5ae56c2eadfda5f72671c53ecb4d7&v=4" width="24" alt="Avatar of tgalal"> tgalal
-			</a><br/>
-			Tarek
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Berlin, Germany</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>187</td>
-		<td>
-			<a href="https://github.com/panique">
-				<img src="https://avatars.githubusercontent.com/u/156321?s=72&v=4" width="24" alt="Avatar of panique"> panique
-			</a><br/>
-			Chris
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Berlin (DE) & Athens (GR)</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a href="https://github.com/maxschwarzmueller">
-				<img src="https://avatars.githubusercontent.com/u/28806196?s=72&u=47c7af126ded6a9b87114a7ae83ee0b95030ddc0&v=4" width="24" alt="Avatar of maxschwarzmueller"> maxschwarzmueller
-			</a><br/>
-			Maximilian Schwarzmüller
-		</td>
-		<td>Academind Gmbh </td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>189</td>
-		<td>
-			<a href="https://github.com/winterbe">
-				<img src="https://avatars.githubusercontent.com/u/485033?s=72&u=0411a8f5a8c38a3d3792ff41657e5578a3851057&v=4" width="24" alt="Avatar of winterbe"> winterbe
-			</a><br/>
-			Benjamin Winterberg
-		</td>
-		<td>Pondus </td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>190</td>
-		<td>
-			<a href="https://github.com/hdodenhof">
-				<img src="https://avatars.githubusercontent.com/u/1824223?s=72&u=aa6e9da381f52fe0fef2d3dc8e8b4b2f8911007f&v=4" width="24" alt="Avatar of hdodenhof"> hdodenhof
-			</a><br/>
-			Henning Dodenhof
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hamburg, Germany</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>191</td>
-		<td>
-			<a href="https://github.com/stefanesser">
-				<img src="https://avatars.githubusercontent.com/u/1036457?s=72&u=dbf5045004c2060c9eade1fef0bf2cd8e0bef675&v=4" width="24" alt="Avatar of stefanesser"> stefanesser
-			</a><br/>
-			Stefan Esser
-		</td>
-		<td>Antid0te </td>
-		<td><a href="https://twitter.com/i0n1c">i0n1c</a></td>
-		<td>Cologne, Germany</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>192</td>
-		<td>
-			<a href="https://github.com/ingenieursaurav">
-				<img src="https://avatars.githubusercontent.com/u/11607373?s=72&u=167de9056e07adb437ec848251d416e651d79f18&v=4" width="24" alt="Avatar of ingenieursaurav"> ingenieursaurav
-			</a><br/>
-			SAURAV SHARMA
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/dearestsaurav">dearestsaurav</a></td>
-		<td>Berlin, Germany</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>193</td>
-		<td>
-			<a href="https://github.com/rmcelreath">
-				<img src="https://avatars.githubusercontent.com/u/3230381?s=72&u=f4ff4c1dd303685e60f875752acc9eb82bec9a58&v=4" width="24" alt="Avatar of rmcelreath"> rmcelreath
-			</a><br/>
-			Richard McElreath
-		</td>
-		<td>Max Planck Institute For<br/>Evolutionary<br/>Anthropology<br/></td>
-		<td>No Twitter Username</td>
-		<td>Leipzig, Germany</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>194</td>
-		<td>
-			<a href="https://github.com/yhilpisch">
-				<img src="https://avatars.githubusercontent.com/u/4572544?s=72&u=ef3e1cd0a4b70fef04c3781d6f87a28034fcb94a&v=4" width="24" alt="Avatar of yhilpisch"> yhilpisch
-			</a><br/>
-			Yves Hilpisch
-		</td>
-		<td>The Python Quants |<br/>The<br/>Ai<br/>Machine<br/></td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
-			<a href="https://github.com/svenfuchs">
-				<img src="https://avatars.githubusercontent.com/u/2208?s=72&v=4" width="24" alt="Avatar of svenfuchs"> svenfuchs
-			</a><br/>
-			Sven Fuchs
-		</td>
-		<td>Travis Ci </td>
-		<td>No Twitter Username</td>
-		<td>Germany/Berlin</td>
-		<td>2</td>
+		<td>729</td>
 	</tr>
 </table>
 
@@ -2673,17 +3466,17 @@ There are `200 users`  in Germany. You need at least `627 followers` to be on th
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20Germany%20or%20state&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Germany&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/germany.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Germany&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/germany.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/germany.md&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Germany&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20Germany%20or%20state&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/germany.md&t=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Germany&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Germany&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20Germany%20or%20state-https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/germany.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Germany&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/germany.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
