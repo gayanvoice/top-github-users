@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States Of America">
 </a>
 
-The `number of followers` of users in United States Of America on `2021/6/15 7:44 AM UTC`. This list contains users from `United States Of America` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Philadelphia` `Austin` `Seattle`.
+The `number of followers` of users in United States Of America on `2021/6/17 2:29 PM UTC`. This list contains users from `United States Of America` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Philadelphia` `Austin` `Seattle`.
 
 There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `73 users`  in United States Of America. You need at least `0 followers` to be on this list.
+There are `74 users`  in United States Of America. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>

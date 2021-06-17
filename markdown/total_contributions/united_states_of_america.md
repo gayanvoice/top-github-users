@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States Of America">
 </a>
 
-The `public contributions` and `private contributions` by users in United States Of America on `2021/6/15 7:44 AM UTC`. This list contains users from `United States Of America` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Philadelphia` `Austin` `Seattle`.
+The `public contributions` and `private contributions` by users in United States Of America on `2021/6/17 2:29 PM UTC`. This list contains users from `United States Of America` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Philadelphia` `Austin` `Seattle`.
 
 There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `73 users`  in United States Of America. You need at least `0 followers` to be on this list.
+There are `74 users`  in United States Of America. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -207,7 +207,7 @@ There are `73 users`  in United States Of America. You need at least `0 follower
 		<td>No Twitter Username</td>
 		<td>Philadelphia, PA</td>
 		<td>0</td>
-		<td>82</td>
+		<td>84</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -491,6 +491,20 @@ There are `73 users`  in United States Of America. You need at least `0 follower
 	</tr>
 	<tr>
 		<td>29</td>
+		<td>
+			<a href="https://github.com/kuriostech">
+				<img src="https://avatars.githubusercontent.com/u/86031311?s=72&v=4" width="24" alt="Avatar of kuriostech"> kuriostech
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lima, Perú & Seattle, WA</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>30</td>
 		<td>
 			<a href="https://github.com/UnderlyingReasons">
 				<img src="https://avatars.githubusercontent.com/u/75501349?s=72&u=52283243494b0379f6c633a0bbf074f0ea2194d5&v=4" width="24" alt="Avatar of UnderlyingReasons"> UnderlyingReasons
