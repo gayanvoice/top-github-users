@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" alt="Romania">
 </a>
 
-The `number of followers` of users in Romania on `2021/6/15 5:28 AM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
+The `number of followers` of users in Romania on `2021/6/17 2:16 AM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
 
 There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `200 users`  in Romania. You need at least `44 followers` to be on this list.
+There are `1000 users`  in Romania. You need at least `12 followers` to be on this list.
 
 <table>
 	<tr>
@@ -107,7 +107,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Romania</td>
-		<td>13007</td>
+		<td>13032</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -120,7 +120,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>Freelance </td>
 		<td>No Twitter Username</td>
 		<td>Romania</td>
-		<td>7003</td>
+		<td>7025</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -133,7 +133,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>Baeldung </td>
 		<td><a href="https://twitter.com/baeldung">baeldung</a></td>
 		<td>Bucharest, Romania</td>
-		<td>6640</td>
+		<td>6645</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -146,7 +146,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>@weaveworks </td>
 		<td><a href="https://twitter.com/stefanprodan">stefanprodan</a></td>
 		<td>Bucharest</td>
-		<td>3440</td>
+		<td>3454</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -159,7 +159,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>@vladmihalcea </td>
 		<td><a href="https://twitter.com/vlad_mihalcea">vlad_mihalcea</a></td>
 		<td>Cluj-Napoca, Romania</td>
-		<td>1917</td>
+		<td>1921</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -198,7 +198,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/simo_endre">simo_endre</a></td>
 		<td>Romania</td>
-		<td>754</td>
+		<td>755</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -224,7 +224,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>@matchacharo </td>
 		<td><a href="https://twitter.com/Bogdanp">Bogdanp</a></td>
 		<td>Cluj-Napoca, Romania</td>
-		<td>515</td>
+		<td>516</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -268,19 +268,6 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 	<tr>
 		<td>14</td>
 		<td>
-			<a href="https://github.com/bpoplauschi">
-				<img src="https://avatars.githubusercontent.com/u/154913?s=72&u=f5fb43562c6f3c50e769786debbb416a7ff73d51&v=4" width="24" alt="Avatar of bpoplauschi"> bpoplauschi
-			</a><br/>
-			Bogdan Poplauschi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cluj-Napoca, Romania</td>
-		<td>373</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
 			<a href="https://github.com/dangeabunea">
 				<img src="https://avatars.githubusercontent.com/u/5540674?s=72&v=4" width="24" alt="Avatar of dangeabunea"> dangeabunea
 			</a><br/>
@@ -289,6 +276,19 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>Ivanti </td>
 		<td>No Twitter Username</td>
 		<td>Bucharest, Romania</td>
+		<td>374</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/bpoplauschi">
+				<img src="https://avatars.githubusercontent.com/u/154913?s=72&u=f5fb43562c6f3c50e769786debbb416a7ff73d51&v=4" width="24" alt="Avatar of bpoplauschi"> bpoplauschi
+			</a><br/>
+			Bogdan Poplauschi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cluj-Napoca, Romania</td>
 		<td>373</td>
 	</tr>
 	<tr>
@@ -302,7 +302,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cluj-Napoca, Romania</td>
-		<td>368</td>
+		<td>369</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -315,7 +315,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>@hifi-finance </td>
 		<td><a href="https://twitter.com/PaulRBerg">PaulRBerg</a></td>
 		<td>Romania</td>
-		<td>333</td>
+		<td>335</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -341,7 +341,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Romania</td>
-		<td>302</td>
+		<td>303</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -354,7 +354,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/cristianbote_">cristianbote_</a></td>
 		<td>Cluj-Napoca, Romania</td>
-		<td>282</td>
+		<td>281</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -471,7 +471,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>Monoceros Alpha </td>
 		<td><a href="https://twitter.com/CleanUnicorn">CleanUnicorn</a></td>
 		<td>Bucharest, Romania</td>
-		<td>211</td>
+		<td>214</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -783,7 +783,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>University Of Bucharest </td>
 		<td>No Twitter Username</td>
 		<td>Bucharest, Romania</td>
-		<td>109</td>
+		<td>110</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -796,7 +796,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>@creativetimofficial </td>
 		<td>No Twitter Username</td>
 		<td>Bucharest, Romania</td>
-		<td>109</td>
+		<td>110</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -809,7 +809,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Romania</td>
-		<td>108</td>
+		<td>109</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -853,19 +853,6 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 	<tr>
 		<td>59</td>
 		<td>
-			<a href="https://github.com/magdamiu">
-				<img src="https://avatars.githubusercontent.com/u/5019440?s=72&u=4928dc1148201bb1b938ffb5b9f952b68a4fb622&v=4" width="24" alt="Avatar of magdamiu"> magdamiu
-			</a><br/>
-			Magda Miu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bucharest, Romania</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>60</td>
-		<td>
 			<a href="https://github.com/erfan4lx">
 				<img src="https://avatars.githubusercontent.com/u/58308352?s=72&u=7414e8b53d8464d2a41ad308eda7be3e37b3fd95&v=4" width="24" alt="Avatar of erfan4lx"> erfan4lx
 			</a><br/>
@@ -874,7 +861,20 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Romania</td>
-		<td>100</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/magdamiu">
+				<img src="https://avatars.githubusercontent.com/u/5019440?s=72&u=4928dc1148201bb1b938ffb5b9f952b68a4fb622&v=4" width="24" alt="Avatar of magdamiu"> magdamiu
+			</a><br/>
+			Magda Miu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>101</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -887,7 +887,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>@2checkout </td>
 		<td>No Twitter Username</td>
 		<td>Bucharest</td>
-		<td>100</td>
+		<td>101</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -931,6 +931,19 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 	<tr>
 		<td>65</td>
 		<td>
+			<a href="https://github.com/tiberiuichim">
+				<img src="https://avatars.githubusercontent.com/u/141568?s=72&v=4" width="24" alt="Avatar of tiberiuichim"> tiberiuichim
+			</a><br/>
+			Tiberiu Ichim
+		</td>
+		<td>@eea @eaudeweb @kotti <br/></td>
+		<td><a href="https://twitter.com/ichim_tiberiu">ichim_tiberiu</a></td>
+		<td>Romania</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
 			<a href="https://github.com/RobertLucian">
 				<img src="https://avatars.githubusercontent.com/u/26958764?s=72&u=6775187b004163184e653587d38f3b7f21401cc0&v=4" width="24" alt="Avatar of RobertLucian"> RobertLucian
 			</a><br/>
@@ -940,19 +953,6 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Bucharest, Romania</td>
 		<td>97</td>
-	</tr>
-	<tr>
-		<td>66</td>
-		<td>
-			<a href="https://github.com/tiberiuichim">
-				<img src="https://avatars.githubusercontent.com/u/141568?s=72&v=4" width="24" alt="Avatar of tiberiuichim"> tiberiuichim
-			</a><br/>
-			Tiberiu Ichim
-		</td>
-		<td>@eea @eaudeweb @kotti <br/></td>
-		<td><a href="https://twitter.com/ichim_tiberiu">ichim_tiberiu</a></td>
-		<td>Romania</td>
-		<td>96</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -1022,6 +1022,19 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 	<tr>
 		<td>72</td>
 		<td>
+			<a href="https://github.com/alin23">
+				<img src="https://avatars.githubusercontent.com/u/3819725?s=72&u=f4bd82a1f4ad407d15562f8e0887e678e18bd215&v=4" width="24" alt="Avatar of alin23"> alin23
+			</a><br/>
+			Alin Panaitiu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Romania</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>
 			<a href="https://github.com/dira">
 				<img src="https://avatars.githubusercontent.com/u/29137?s=72&v=4" width="24" alt="Avatar of dira"> dira
 			</a><br/>
@@ -1033,20 +1046,20 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>74</td>
 		<td>
-			<a href="https://github.com/alin23">
-				<img src="https://avatars.githubusercontent.com/u/3819725?s=72&u=f4bd82a1f4ad407d15562f8e0887e678e18bd215&v=4" width="24" alt="Avatar of alin23"> alin23
+			<a href="https://github.com/nomemory">
+				<img src="https://avatars.githubusercontent.com/u/1010477?s=72&u=2081aaa42984e8364289634722cc0e0248c3f645&v=4" width="24" alt="Avatar of nomemory"> nomemory
 			</a><br/>
-			Alin Panaitiu
+			Andrei Ciobanu
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Romania</td>
+		<td>Bucharest, Romania</td>
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/floringogianu">
 				<img src="https://avatars.githubusercontent.com/u/1670348?s=72&u=716089ad588dcd3ad58066a21b3015fdb0a47a32&v=4" width="24" alt="Avatar of floringogianu"> floringogianu
@@ -1059,7 +1072,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/razvancir96">
 				<img src="https://avatars.githubusercontent.com/u/40989335?s=72&u=9a9c4990d5a725f780f13ba64ac01ca8786fb2d4&v=4" width="24" alt="Avatar of razvancir96"> razvancir96
@@ -1072,7 +1085,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/alinradut">
 				<img src="https://avatars.githubusercontent.com/u/380846?s=72&u=d17141232beb7faaafa25b0d52a3bad8b4202d36&v=4" width="24" alt="Avatar of alinradut"> alinradut
@@ -1083,19 +1096,6 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Targu Mures, Romania</td>
 		<td>92</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
-			<a href="https://github.com/nomemory">
-				<img src="https://avatars.githubusercontent.com/u/1010477?s=72&u=2081aaa42984e8364289634722cc0e0248c3f645&v=4" width="24" alt="Avatar of nomemory"> nomemory
-			</a><br/>
-			Andrei Ciobanu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bucharest, Romania</td>
-		<td>91</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1615,7 +1615,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>@creativetimofficial  </td>
 		<td>No Twitter Username</td>
 		<td>Bucharest, Romania</td>
-		<td>70</td>
+		<td>71</td>
 	</tr>
 	<tr>
 		<td>118</td>
@@ -1685,6 +1685,19 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 	<tr>
 		<td>123</td>
 		<td>
+			<a href="https://github.com/liviucotfas">
+				<img src="https://avatars.githubusercontent.com/u/2981923?s=72&u=09684137050257d28afab0587cf06b72cd33ab90&v=4" width="24" alt="Avatar of liviucotfas"> liviucotfas
+			</a><br/>
+			Liviu-Adrian Cotfas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/liviucotfas">liviucotfas</a></td>
+		<td>Bucharest</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>
 			<a href="https://github.com/Mirch">
 				<img src="https://avatars.githubusercontent.com/u/15807790?s=72&u=44cb333c66bf58ee7b5b5d5391c7653d0e705b96&v=4" width="24" alt="Avatar of Mirch"> Mirch
 			</a><br/>
@@ -1696,7 +1709,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/theodorDiaconu">
 				<img src="https://avatars.githubusercontent.com/u/1814863?s=72&v=4" width="24" alt="Avatar of theodorDiaconu"> theodorDiaconu
@@ -1706,19 +1719,6 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Iasi, Romania</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>125</td>
-		<td>
-			<a href="https://github.com/liviucotfas">
-				<img src="https://avatars.githubusercontent.com/u/2981923?s=72&u=09684137050257d28afab0587cf06b72cd33ab90&v=4" width="24" alt="Avatar of liviucotfas"> liviucotfas
-			</a><br/>
-			Liviu-Adrian Cotfas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/liviucotfas">liviucotfas</a></td>
-		<td>Bucharest</td>
 		<td>67</td>
 	</tr>
 	<tr>
@@ -1737,6 +1737,32 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 	<tr>
 		<td>127</td>
 		<td>
+			<a href="https://github.com/Vegas007">
+				<img src="https://avatars.githubusercontent.com/u/17238102?s=72&u=f257c8a5e0d0b3f58ab0af22f9f18aab6d7abaac&v=4" width="24" alt="Avatar of Vegas007"> Vegas007
+			</a><br/>
+			Constantin Emanuel
+		</td>
+		<td>Software Engineer At Continental<br/>Ag<br/></td>
+		<td>No Twitter Username</td>
+		<td>Timisoara, Romania</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
+			<a href="https://github.com/0-vortex">
+				<img src="https://avatars.githubusercontent.com/u/237133?s=72&u=64379657205570b77ceeeba44e495ca3135916b0&v=4" width="24" alt="Avatar of 0-vortex"> 0-vortex
+			</a><br/>
+			TED Vortex (Teodor-Eugen Duțulescu)
+		</td>
+		<td>@tiamat-tech </td>
+		<td><a href="https://twitter.com/0_vortex">0_vortex</a></td>
+		<td>Romania</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>129</td>
+		<td>
 			<a href="https://github.com/idancali">
 				<img src="https://avatars.githubusercontent.com/u/1070218?s=72&u=a8baa733f1a38561ca0e0661ef08b97055fb73f1&v=4" width="24" alt="Avatar of idancali"> idancali
 			</a><br/>
@@ -1748,7 +1774,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/iuliagroza">
 				<img src="https://avatars.githubusercontent.com/u/22706226?s=72&u=61e89df925bdcee2f5f75014b71890c054409368&v=4" width="24" alt="Avatar of iuliagroza"> iuliagroza
@@ -1761,20 +1787,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>129</td>
-		<td>
-			<a href="https://github.com/Vegas007">
-				<img src="https://avatars.githubusercontent.com/u/17238102?s=72&u=f257c8a5e0d0b3f58ab0af22f9f18aab6d7abaac&v=4" width="24" alt="Avatar of Vegas007"> Vegas007
-			</a><br/>
-			Constantin Emanuel
-		</td>
-		<td>Software Engineer At Continental<br/>Ag<br/></td>
-		<td>No Twitter Username</td>
-		<td>Timisoara, Romania</td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>130</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/etishor">
 				<img src="https://avatars.githubusercontent.com/u/530460?s=72&v=4" width="24" alt="Avatar of etishor"> etishor
@@ -1787,7 +1800,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>131</td>
+		<td>132</td>
 		<td>
 			<a href="https://github.com/rosoftdeveloper">
 				<img src="https://avatars.githubusercontent.com/u/15912497?s=72&u=84b2c4f709681f4827b0b3aea4dfb61b561cc3b0&v=4" width="24" alt="Avatar of rosoftdeveloper"> rosoftdeveloper
@@ -1800,7 +1813,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/badu">
 				<img src="https://avatars.githubusercontent.com/u/639370?s=72&u=30c06e5003a77bb011a47b362506eec1de35b4d0&v=4" width="24" alt="Avatar of badu"> badu
@@ -1813,7 +1826,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/florinrm">
 				<img src="https://avatars.githubusercontent.com/u/12157537?s=72&u=c9fc94d51821190943ad1af6f5034c68834859a5&v=4" width="24" alt="Avatar of florinrm"> florinrm
@@ -1826,7 +1839,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>134</td>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/mehanix">
 				<img src="https://avatars.githubusercontent.com/u/23579982?s=72&u=19e11f77d65f597e163749d4bc04dc2dcee9f1ea&v=4" width="24" alt="Avatar of mehanix"> mehanix
@@ -1839,7 +1852,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/robiXxu">
 				<img src="https://avatars.githubusercontent.com/u/1962141?s=72&u=129bdba5ce00b2b4eb246ff8ebb0c7cac2596146&v=4" width="24" alt="Avatar of robiXxu"> robiXxu
@@ -1852,7 +1865,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/mtivadar">
 				<img src="https://avatars.githubusercontent.com/u/8540032?s=72&v=4" width="24" alt="Avatar of mtivadar"> mtivadar
@@ -1865,7 +1878,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/wsdookadr">
 				<img src="https://avatars.githubusercontent.com/u/180373?s=72&u=b906a40ff369cf9bdb7e58829394384b17f6ac58&v=4" width="24" alt="Avatar of wsdookadr"> wsdookadr
@@ -1878,19 +1891,6 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>138</td>
-		<td>
-			<a href="https://github.com/0-vortex">
-				<img src="https://avatars.githubusercontent.com/u/237133?s=72&u=64379657205570b77ceeeba44e495ca3135916b0&v=4" width="24" alt="Avatar of 0-vortex"> 0-vortex
-			</a><br/>
-			TED Vortex (Teodor-Eugen Duțulescu)
-		</td>
-		<td>@tiamat-tech </td>
-		<td><a href="https://twitter.com/0_vortex">0_vortex</a></td>
-		<td>Romania</td>
-		<td>62</td>
-	</tr>
-	<tr>
 		<td>139</td>
 		<td>
 			<a href="https://github.com/kaex">
@@ -1901,7 +1901,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Romania</td>
-		<td>62</td>
+		<td>63</td>
 	</tr>
 	<tr>
 		<td>140</td>
@@ -2088,6 +2088,19 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 	<tr>
 		<td>154</td>
 		<td>
+			<a href="https://github.com/BogdanIancu">
+				<img src="https://avatars.githubusercontent.com/u/33757747?s=72&u=5611183e9e66b79e332dfed291478c77d5801f7c&v=4" width="24" alt="Avatar of BogdanIancu"> BogdanIancu
+			</a><br/>
+			Bogdan Iancu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>155</td>
+		<td>
 			<a href="https://github.com/rif">
 				<img src="https://avatars.githubusercontent.com/u/461577?s=72&v=4" width="24" alt="Avatar of rif"> rif
 			</a><br/>
@@ -2099,7 +2112,7 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/aoancea">
 				<img src="https://avatars.githubusercontent.com/u/4282532?s=72&v=4" width="24" alt="Avatar of aoancea"> aoancea
@@ -2109,19 +2122,6 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>Qubiz </td>
 		<td>No Twitter Username</td>
 		<td>Oradea, Romania</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>156</td>
-		<td>
-			<a href="https://github.com/BogdanIancu">
-				<img src="https://avatars.githubusercontent.com/u/33757747?s=72&u=5611183e9e66b79e332dfed291478c77d5801f7c&v=4" width="24" alt="Avatar of BogdanIancu"> BogdanIancu
-			</a><br/>
-			Bogdan Iancu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bucharest, Romania</td>
 		<td>55</td>
 	</tr>
 	<tr>
@@ -2582,19 +2582,6 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 	<tr>
 		<td>192</td>
 		<td>
-			<a href="https://github.com/radusqrt">
-				<img src="https://avatars.githubusercontent.com/u/8861522?s=72&u=e900ed97b42b3c0e4f3cebcf14fbc9bf528bc4ca&v=4" width="24" alt="Avatar of radusqrt"> radusqrt
-			</a><br/>
-			Radu Stochitoiu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bucharest</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>193</td>
-		<td>
 			<a href="https://github.com/bogdanm">
 				<img src="https://avatars.githubusercontent.com/u/211717?s=72&v=4" width="24" alt="Avatar of bogdanm"> bogdanm
 			</a><br/>
@@ -2603,6 +2590,19 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bucharest, Romania</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>193</td>
+		<td>
+			<a href="https://github.com/radusqrt">
+				<img src="https://avatars.githubusercontent.com/u/8861522?s=72&u=e900ed97b42b3c0e4f3cebcf14fbc9bf528bc4ca&v=4" width="24" alt="Avatar of radusqrt"> radusqrt
+			</a><br/>
+			Radu Stochitoiu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest</td>
 		<td>46</td>
 	</tr>
 	<tr>
@@ -2695,6 +2695,734 @@ There are `200 users`  in Romania. You need at least `44 followers` to be on thi
 		<td><a href="https://twitter.com/cosminharangus">cosminharangus</a></td>
 		<td>Cluj Napoca, Romania</td>
 		<td>44</td>
+	</tr>
+	<tr>
+		<td>201</td>
+		<td>
+			<a href="https://github.com/StefanSelfTaught">
+				<img src="https://avatars.githubusercontent.com/u/43994418?s=72&u=3c3f62e880ac6c519776766e2438623950799981&v=4" width="24" alt="Avatar of StefanSelfTaught"> StefanSelfTaught
+			</a><br/>
+			Stefan Pop
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Romania</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>
+			<a href="https://github.com/sabinmarcu">
+				<img src="https://avatars.githubusercontent.com/u/333327?s=72&v=4" width="24" alt="Avatar of sabinmarcu"> sabinmarcu
+			</a><br/>
+			Sabin Marcu
+		</td>
+		<td>Hootsuite </td>
+		<td><a href="https://twitter.com/sabinmarcu">sabinmarcu</a></td>
+		<td>Bucharest, Romania</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
+			<a href="https://github.com/yoyosan">
+				<img src="https://avatars.githubusercontent.com/u/32405?s=72&u=08e20233efd55ec8ce3cc33e97aea67f503da61c&v=4" width="24" alt="Avatar of yoyosan"> yoyosan
+			</a><br/>
+			Marius Palade
+		</td>
+		<td>Freelancing </td>
+		<td>No Twitter Username</td>
+		<td>Roman, Romania</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
+			<a href="https://github.com/pirofti">
+				<img src="https://avatars.githubusercontent.com/u/1188967?s=72&v=4" width="24" alt="Avatar of pirofti"> pirofti
+			</a><br/>
+			Paul Irofti
+		</td>
+		<td>Associate Professor (university Of<br/>Bucharest)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bucharest/Romania</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
+			<a href="https://github.com/SamyR0">
+				<img src="https://avatars.githubusercontent.com/u/17054294?s=72&u=e3e61df4a899dba6f12f115f2047f9cf84ff54cc&v=4" width="24" alt="Avatar of SamyR0"> SamyR0
+			</a><br/>
+			Samy 
+		</td>
+		<td>@skylightmcpe  </td>
+		<td>No Twitter Username</td>
+		<td>127.0.0.1, Romania</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>206</td>
+		<td>
+			<a href="https://github.com/TeodorHMX1">
+				<img src="https://avatars.githubusercontent.com/u/22307006?s=72&u=b19ce3989994ecb462f1ec2f8837847454ded819&v=4" width="24" alt="Avatar of TeodorHMX1"> TeodorHMX1
+			</a><br/>
+			Teodor G.
+		</td>
+		<td>Zeoflow (@zeoflow) </td>
+		<td>No Twitter Username</td>
+		<td>Brasov, Romania</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>207</td>
+		<td>
+			<a href="https://github.com/orosandrei">
+				<img src="https://avatars.githubusercontent.com/u/6123431?s=72&u=90448ad9c4431ee7fae8b5afe6bf051d70755b21&v=4" width="24" alt="Avatar of orosandrei"> orosandrei
+			</a><br/>
+			Andrei Oros
+		</td>
+		<td>@uipath  </td>
+		<td><a href="https://twitter.com/orosandrei">orosandrei</a></td>
+		<td>Timisoara, Romania, EU</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
+			<a href="https://github.com/botofancalin">
+				<img src="https://avatars.githubusercontent.com/u/32721615?s=72&u=c9ead700f39c22b53f8c0a1873f62e4bf79707af&v=4" width="24" alt="Avatar of botofancalin"> botofancalin
+			</a><br/>
+			Calin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Romania</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>209</td>
+		<td>
+			<a href="https://github.com/cristipufu">
+				<img src="https://avatars.githubusercontent.com/u/3955285?s=72&u=545f405390a0a06f038f2543dff0d41887f0eabe&v=4" width="24" alt="Avatar of cristipufu"> cristipufu
+			</a><br/>
+			Cristi Pufu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>210</td>
+		<td>
+			<a href="https://github.com/andiradulescu">
+				<img src="https://avatars.githubusercontent.com/u/76900?s=72&v=4" width="24" alt="Avatar of andiradulescu"> andiradulescu
+			</a><br/>
+			Andrei Radulescu
+		</td>
+		<td>@neobilitysrl </td>
+		<td><a href="https://twitter.com/andiradulescu">andiradulescu</a></td>
+		<td>Bucharest, Romania</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>
+			<a href="https://github.com/cvicentiu">
+				<img src="https://avatars.githubusercontent.com/u/2320573?s=72&u=33f9a1306533232055b85a8831c116f27a0eadda&v=4" width="24" alt="Avatar of cvicentiu"> cvicentiu
+			</a><br/>
+			Vicențiu-Marian Ciorbaru
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest Romania</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
+			<a href="https://github.com/bebef1987">
+				<img src="https://avatars.githubusercontent.com/u/703611?s=72&v=4" width="24" alt="Avatar of bebef1987"> bebef1987
+			</a><br/>
+			Florin Strugariu
+		</td>
+		<td> Mozilla </td>
+		<td>No Twitter Username</td>
+		<td>Cluj-Napoca, Romania</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/birkof">
+				<img src="https://avatars.githubusercontent.com/u/65848?s=72&v=4" width="24" alt="Avatar of birkof"> birkof
+			</a><br/>
+			Daniel Stancu
+		</td>
+		<td>Personalia Srl </td>
+		<td>No Twitter Username</td>
+		<td>Bucharest</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
+			<a href="https://github.com/Tynael">
+				<img src="https://avatars.githubusercontent.com/u/16559614?s=72&u=bf99f996c1cf17f467a87c5689fa5e7f0d4da58c&v=4" width="24" alt="Avatar of Tynael"> Tynael
+			</a><br/>
+			Carol Pelu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/pelu_carol">pelu_carol</a></td>
+		<td>Bucharest</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
+			<a href="https://github.com/sarbull">
+				<img src="https://avatars.githubusercontent.com/u/1864112?s=72&u=ba8c07b4f837245a1425c81693a14c9a4ac4e106&v=4" width="24" alt="Avatar of sarbull"> sarbull
+			</a><br/>
+			Cezar Sîrbu
+		</td>
+		<td>@proiectulpaginiweb  </td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>216</td>
+		<td>
+			<a href="https://github.com/GeorgianBadita">
+				<img src="https://avatars.githubusercontent.com/u/25690485?s=72&u=d2022b738616b01e47df1e20f4c0fc44da859f03&v=4" width="24" alt="Avatar of GeorgianBadita"> GeorgianBadita
+			</a><br/>
+			Badita Marin-Georgian
+		</td>
+		<td>Amazon </td>
+		<td>No Twitter Username</td>
+		<td>Cluj-Napoca, Romania</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
+			<a href="https://github.com/titratcristina">
+				<img src="https://avatars.githubusercontent.com/u/31698958?s=72&u=6ea3387d92fe611c5f64827f3439a2201c9311e5&v=4" width="24" alt="Avatar of titratcristina"> titratcristina
+			</a><br/>
+			Cristina Titrat
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
+			<a href="https://github.com/dumconstantin">
+				<img src="https://avatars.githubusercontent.com/u/672153?s=72&v=4" width="24" alt="Avatar of dumconstantin"> dumconstantin
+			</a><br/>
+			Constantin Dumitrescu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>
+			<a href="https://github.com/skinzor">
+				<img src="https://avatars.githubusercontent.com/u/16451884?s=72&u=d51ee47499249ba31fee283c9ca9d75ecd1b86d7&v=4" width="24" alt="Avatar of skinzor"> skinzor
+			</a><br/>
+			#Henkate @xda.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>220</td>
+		<td>
+			<a href="https://github.com/NitrogenDev">
+				<img src="https://avatars.githubusercontent.com/u/44950964?s=72&u=fbb8baf0eedb21ee61568796279b35a10e9c5907&v=4" width="24" alt="Avatar of NitrogenDev"> NitrogenDev
+			</a><br/>
+			Nitrogen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>221</td>
+		<td>
+			<a href="https://github.com/Shadowss">
+				<img src="https://avatars.githubusercontent.com/u/1140613?s=72&v=4" width="24" alt="Avatar of Shadowss"> Shadowss
+			</a><br/>
+			Catalin Novgorodschi
+		</td>
+		<td>Travianz </td>
+		<td>No Twitter Username</td>
+		<td>Romania</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>
+			<a href="https://github.com/seastorm">
+				<img src="https://avatars.githubusercontent.com/u/3180296?s=72&u=93c24992de970728e143523b243c4e7f6398c9b1&v=4" width="24" alt="Avatar of seastorm"> seastorm
+			</a><br/>
+			Adrian Furtuna
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>223</td>
+		<td>
+			<a href="https://github.com/teodor-pripoae">
+				<img src="https://avatars.githubusercontent.com/u/393437?s=72&u=07d6e3163b637badc4585653ca8179511e03a174&v=4" width="24" alt="Avatar of teodor-pripoae"> teodor-pripoae
+			</a><br/>
+			Teodor Pripoae
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>224</td>
+		<td>
+			<a href="https://github.com/gmuraru">
+				<img src="https://avatars.githubusercontent.com/u/7805588?s=72&u=770bb00d350c6371ce5c380ff2e4b28d5d3f0fe5&v=4" width="24" alt="Avatar of gmuraru"> gmuraru
+			</a><br/>
+			George-Cristian Muraru
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/georgemuraru">georgemuraru</a></td>
+		<td>Bucharest, Romania</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>
+			<a href="https://github.com/VeronicaM">
+				<img src="https://avatars.githubusercontent.com/u/2241065?s=72&u=d4527e3042631b27d7afc02951775b6086d7a326&v=4" width="24" alt="Avatar of VeronicaM"> VeronicaM
+			</a><br/>
+			Veronica Mihai
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
+			<a href="https://github.com/liadomide">
+				<img src="https://avatars.githubusercontent.com/u/674853?s=72&v=4" width="24" alt="Avatar of liadomide"> liadomide
+			</a><br/>
+			Lia Domide
+		</td>
+		<td>Codemart </td>
+		<td>No Twitter Username</td>
+		<td>Romania</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>
+			<a href="https://github.com/tiberiuzuld">
+				<img src="https://avatars.githubusercontent.com/u/15310395?s=72&u=145938993ee30ac5a6ed158ab3abd1d1d2e615a3&v=4" width="24" alt="Avatar of tiberiuzuld"> tiberiuzuld
+			</a><br/>
+			Tiberiu Zuld
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Romania</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>228</td>
+		<td>
+			<a href="https://github.com/dumitrescustefan">
+				<img src="https://avatars.githubusercontent.com/u/22746816?s=72&u=07c4736275efd28bfffa7dcb614e0ce3def49968&v=4" width="24" alt="Avatar of dumitrescustefan"> dumitrescustefan
+			</a><br/>
+			Stefan Dumitrescu
+		</td>
+		<td>@adobe </td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>229</td>
+		<td>
+			<a href="https://github.com/raduenuca">
+				<img src="https://avatars.githubusercontent.com/u/462852?s=72&u=3b0bbe0cd51cb9a7931e0c534aba96105ff97197&v=4" width="24" alt="Avatar of raduenuca"> raduenuca
+			</a><br/>
+			Radu Enucă
+		</td>
+		<td>Ing Tech </td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>230</td>
+		<td>
+			<a href="https://github.com/craiu">
+				<img src="https://avatars.githubusercontent.com/u/3932279?s=72&v=4" width="24" alt="Avatar of craiu"> craiu
+			</a><br/>
+			Costin Raiu
+		</td>
+		<td>Kaspersky </td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>
+			<a href="https://github.com/mihaifm">
+				<img src="https://avatars.githubusercontent.com/u/981184?s=72&u=68185eb7fb568eb8293d0006af05102208be0588&v=4" width="24" alt="Avatar of mihaifm"> mihaifm
+			</a><br/>
+			Mihai Ciuraru
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>232</td>
+		<td>
+			<a href="https://github.com/vimishor">
+				<img src="https://avatars.githubusercontent.com/u/477960?s=72&u=7094f9c508dcaddc1a37a706721f7b183341f052&v=4" width="24" alt="Avatar of vimishor"> vimishor
+			</a><br/>
+			Alexandru Guzinschi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Romania</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>
+			<a href="https://github.com/eddievlagea">
+				<img src="https://avatars.githubusercontent.com/u/435233?s=72&v=4" width="24" alt="Avatar of eddievlagea"> eddievlagea
+			</a><br/>
+			Eddie Vlagea
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/creativityhurts">creativityhurts</a></td>
+		<td>Bucharest</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>234</td>
+		<td>
+			<a href="https://github.com/eek">
+				<img src="https://avatars.githubusercontent.com/u/2953026?s=72&v=4" width="24" alt="Avatar of eek"> eek
+			</a><br/>
+			Radu-Sebastian Amarie
+		</td>
+		<td>@findie  </td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>235</td>
+		<td>
+			<a href="https://github.com/afurculita">
+				<img src="https://avatars.githubusercontent.com/u/3129631?s=72&u=834f0d82b1c36dc4283b8d58aed1033358abfffd&v=4" width="24" alt="Avatar of afurculita"> afurculita
+			</a><br/>
+			Alexandru Furculita ♻
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/afurculita">afurculita</a></td>
+		<td>Iasi, Romania  </td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>236</td>
+		<td>
+			<a href="https://github.com/didinele">
+				<img src="https://avatars.githubusercontent.com/u/27137376?s=72&u=cfdd5f2abb9a5aa71b44a39738f1314bc184586b&v=4" width="24" alt="Avatar of didinele"> didinele
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/didinele_dev">didinele_dev</a></td>
+		<td>Bucharest, Romania</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>237</td>
+		<td>
+			<a href="https://github.com/paulbrie">
+				<img src="https://avatars.githubusercontent.com/u/3997538?s=72&v=4" width="24" alt="Avatar of paulbrie"> paulbrie
+			</a><br/>
+			Paul BRIE
+		</td>
+		<td>Teleporthq </td>
+		<td><a href="https://twitter.com/aelythe">aelythe</a></td>
+		<td>Cluj, ROMANIA</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>238</td>
+		<td>
+			<a href="https://github.com/bicsi">
+				<img src="https://avatars.githubusercontent.com/u/8794929?s=72&u=8422b85b40838deef1da66508ec48d1cd70b82d9&v=4" width="24" alt="Avatar of bicsi"> bicsi
+			</a><br/>
+			Lucian Bicsi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>239</td>
+		<td>
+			<a href="https://github.com/balamaci">
+				<img src="https://avatars.githubusercontent.com/u/310160?s=72&u=eb41376088385f855d0b241cb4def5e1a65e0348&v=4" width="24" alt="Avatar of balamaci"> balamaci
+			</a><br/>
+			Serban Balamaci
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Romania</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>240</td>
+		<td>
+			<a href="https://github.com/serban-petrescu">
+				<img src="https://avatars.githubusercontent.com/u/15961282?s=72&u=d0abe79e2e4fb22847323884c95d4cbd15e46c2c&v=4" width="24" alt="Avatar of serban-petrescu"> serban-petrescu
+			</a><br/>
+			Serban Petrescu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cluj-Napoca, Romania</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>241</td>
+		<td>
+			<a href="https://github.com/eduardsui">
+				<img src="https://avatars.githubusercontent.com/u/16817829?s=72&u=52ad9c924cb383ed50fef11cb3015bd119653ab0&v=4" width="24" alt="Avatar of eduardsui"> eduardsui
+			</a><br/>
+			Eduard Suica
+		</td>
+		<td>Devronium Applications </td>
+		<td>No Twitter Username</td>
+		<td>Romania</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>242</td>
+		<td>
+			<a href="https://github.com/alecs">
+				<img src="https://avatars.githubusercontent.com/u/1592826?s=72&v=4" width="24" alt="Avatar of alecs"> alecs
+			</a><br/>
+			Alex Negulescu
+		</td>
+		<td>Sysops.ro </td>
+		<td><a href="https://twitter.com/antis0cialul">antis0cialul</a></td>
+		<td>Romania</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>243</td>
+		<td>
+			<a href="https://github.com/johnnyslt">
+				<img src="https://avatars.githubusercontent.com/u/1221249?s=72&v=4" width="24" alt="Avatar of johnnyslt"> johnnyslt
+			</a><br/>
+			Darescu Ionut
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>244</td>
+		<td>
+			<a href="https://github.com/nilac8991">
+				<img src="https://avatars.githubusercontent.com/u/6454841?s=72&u=d27423718decccd23317b1bbbc0c45e853b09825&v=4" width="24" alt="Avatar of nilac8991"> nilac8991
+			</a><br/>
+			Călin Neamţu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Oradea, Romania</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/alexstoick">
+				<img src="https://avatars.githubusercontent.com/u/1664100?s=72&u=db9a3c51d502cfe9df3d813c36887f63d24b4a7c&v=4" width="24" alt="Avatar of alexstoick"> alexstoick
+			</a><br/>
+			Stoica Alexandru
+		</td>
+		<td>@deliveroo </td>
+		<td>No Twitter Username</td>
+		<td>London & Bucharest</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>246</td>
+		<td>
+			<a href="https://github.com/selul">
+				<img src="https://avatars.githubusercontent.com/u/3330746?s=72&u=d234a93a54d7461ecacf4ffb66051036a499e884&v=4" width="24" alt="Avatar of selul"> selul
+			</a><br/>
+			Marius Cristea
+		</td>
+		<td>Themeisle </td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>
+			<a href="https://github.com/tudorconstantin">
+				<img src="https://avatars.githubusercontent.com/u/1287696?s=72&v=4" width="24" alt="Avatar of tudorconstantin"> tudorconstantin
+			</a><br/>
+			Tudor Constantin
+		</td>
+		<td>Eatfab </td>
+		<td>No Twitter Username</td>
+		<td>Romania</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>248</td>
+		<td>
+			<a href="https://github.com/marianposaceanu">
+				<img src="https://avatars.githubusercontent.com/u/40126?s=72&u=ad9ea61e621433debc697138e36038c6592b0e27&v=4" width="24" alt="Avatar of marianposaceanu"> marianposaceanu
+			</a><br/>
+			Posăceanu Marian
+		</td>
+		<td>Wef </td>
+		<td><a href="https://twitter.com/dakull">dakull</a></td>
+		<td>Constanța</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>249</td>
+		<td>
+			<a href="https://github.com/vladnicula">
+				<img src="https://avatars.githubusercontent.com/u/126038?s=72&u=0780a7196020e7e3123f9e8238c9ea43ef4f94be&v=4" width="24" alt="Avatar of vladnicula"> vladnicula
+			</a><br/>
+			Vlad Nicula
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cluj-Napoca, Romania</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>
+			<a href="https://github.com/dianaprajescu">
+				<img src="https://avatars.githubusercontent.com/u/1551136?s=72&v=4" width="24" alt="Avatar of dianaprajescu"> dianaprajescu
+			</a><br/>
+			Diana Neculai
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>251</td>
+		<td>
+			<a href="https://github.com/tiberiu44">
+				<img src="https://avatars.githubusercontent.com/u/1275594?s=72&u=490fc5c22159a562bccb466b08bbb592253aaa63&v=4" width="24" alt="Avatar of tiberiu44"> tiberiu44
+			</a><br/>
+			Tiberiu Boros
+		</td>
+		<td>@adobe  </td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>
+			<a href="https://github.com/neaorin">
+				<img src="https://avatars.githubusercontent.com/u/3250626?s=72&u=7a3be2f262d4b4f415ba460aedd25af6b7e0b22e&v=4" width="24" alt="Avatar of neaorin"> neaorin
+			</a><br/>
+			Sorin
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>253</td>
+		<td>
+			<a href="https://github.com/cosminstefanxp">
+				<img src="https://avatars.githubusercontent.com/u/1536594?s=72&u=514ba0b0587e9d21d767c55d1c3bc81f783230c7&v=4" width="24" alt="Avatar of cosminstefanxp"> cosminstefanxp
+			</a><br/>
+			Cosmin Stefan-Dobrin
+		</td>
+		<td>- </td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>254</td>
+		<td>
+			<a href="https://github.com/ClimenteA">
+				<img src="https://avatars.githubusercontent.com/u/9250009?s=72&u=56d5fcc22d97026db7ece9249c515372a354d855&v=4" width="24" alt="Avatar of ClimenteA"> ClimenteA
+			</a><br/>
+			alincmt
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Romania, Iasi</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>255</td>
+		<td>
+			<a href="https://github.com/adrg">
+				<img src="https://avatars.githubusercontent.com/u/6454770?s=72&u=5471add6d6c60da7a54645a38e97db5e24ffb280&v=4" width="24" alt="Avatar of adrg"> adrg
+			</a><br/>
+			Adrian-George Bostan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Galati, Romania</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>256</td>
+		<td>
+			<a href="https://github.com/ZoltanVeres">
+				<img src="https://avatars.githubusercontent.com/u/214139?s=72&v=4" width="24" alt="Avatar of ZoltanVeres"> ZoltanVeres
+			</a><br/>
+			Zoli Veres
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/zoltanveres">zoltanveres</a></td>
+		<td>Romania, Satu Mare</td>
+		<td>36</td>
 	</tr>
 </table>
 
