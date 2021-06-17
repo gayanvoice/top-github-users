@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="Ukraine">
 </a>
 
-The `number of followers` of users in Ukraine on `2021/6/15 7:04 AM UTC`. This list contains users from `Ukraine` and cities `Kyiv` `Lviv` `Kharkiv` `Odesa`.
+The `number of followers` of users in Ukraine on `2021/6/17 1:45 PM UTC`. This list contains users from `Ukraine` and cities `Kyiv` `Lviv` `Kharkiv` `Odesa`.
 
 There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `200 users`  in Ukraine. You need at least `99 followers` to be on this list.
+There are `130 users`  in Ukraine. You need at least `148 followers` to be on this list.
 
 <table>
 	<tr>
@@ -107,7 +107,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kyiv, Ukraine</td>
-		<td>4624</td>
+		<td>4623</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -120,7 +120,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>Mapbox </td>
 		<td><a href="https://twitter.com/mourner">mourner</a></td>
 		<td>Kyiv, Ukraine</td>
-		<td>3979</td>
+		<td>3982</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -159,7 +159,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>@victoriametrics  </td>
 		<td>No Twitter Username</td>
 		<td>Kyiv</td>
-		<td>1890</td>
+		<td>1893</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -172,7 +172,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>Blynk </td>
 		<td><a href="https://twitter.com/blynk_app">blynk_app</a></td>
 		<td>New York, US – Kiev, Ukraine</td>
-		<td>1740</td>
+		<td>1742</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -185,7 +185,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>@wix </td>
 		<td><a href="https://twitter.com/denysdovhan">denysdovhan</a></td>
 		<td>Kyiv, Ukraine</td>
-		<td>1566</td>
+		<td>1568</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -198,7 +198,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>Riverco.de </td>
 		<td><a href="https://twitter.com/akella">akella</a></td>
 		<td>Kyiv</td>
-		<td>1396</td>
+		<td>1401</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -211,7 +211,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>@goitacademy  </td>
 		<td>No Twitter Username</td>
 		<td>Ukraine</td>
-		<td>1192</td>
+		<td>1194</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -237,7 +237,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tyrrrz">tyrrrz</a></td>
 		<td>Kyiv, Ukraine</td>
-		<td>870</td>
+		<td>872</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -250,7 +250,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>@pdffiller / @signnowinc <br/></td>
 		<td>No Twitter Username</td>
 		<td>Ukraine</td>
-		<td>768</td>
+		<td>772</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -289,10 +289,23 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ukraine</td>
-		<td>637</td>
+		<td>639</td>
 	</tr>
 	<tr>
 		<td>16</td>
+		<td>
+			<a href="https://github.com/romankh3">
+				<img src="https://avatars.githubusercontent.com/u/16310793?s=72&u=6f386051f4349ca024241d7cfcf30cb2965035ba&v=4" width="24" alt="Avatar of romankh3"> romankh3
+			</a><br/>
+			Roman Beskrovnyi
+		</td>
+		<td>@epam </td>
+		<td>No Twitter Username</td>
+		<td>Kharkov, Ukraine</td>
+		<td>634</td>
+	</tr>
+	<tr>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/roman01la">
 				<img src="https://avatars.githubusercontent.com/u/1355501?s=72&u=a62a7714c82386e5e329da0a421b924874470645&v=4" width="24" alt="Avatar of roman01la"> roman01la
@@ -305,19 +318,6 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>634</td>
 	</tr>
 	<tr>
-		<td>17</td>
-		<td>
-			<a href="https://github.com/romankh3">
-				<img src="https://avatars.githubusercontent.com/u/16310793?s=72&u=6f386051f4349ca024241d7cfcf30cb2965035ba&v=4" width="24" alt="Avatar of romankh3"> romankh3
-			</a><br/>
-			Roman Beskrovnyi
-		</td>
-		<td>@epam </td>
-		<td>No Twitter Username</td>
-		<td>Kharkov, Ukraine</td>
-		<td>626</td>
-	</tr>
-	<tr>
 		<td>18</td>
 		<td>
 			<a href="https://github.com/xanf">
@@ -328,7 +328,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>Gitlab </td>
 		<td>No Twitter Username</td>
 		<td>Ukraine, Kharkiv</td>
-		<td>608</td>
+		<td>609</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -341,7 +341,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ukraine</td>
-		<td>575</td>
+		<td>577</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -380,7 +380,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>@ansible Core @redhatofficial </td>
 		<td><a href="https://twitter.com/webknjaz">webknjaz</a></td>
 		<td>Brovary/Kyiv, UA ↝ Brno, CZ</td>
-		<td>514</td>
+		<td>516</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -406,7 +406,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/gmarik">gmarik</a></td>
 		<td>Ukraine</td>
-		<td>491</td>
+		<td>490</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -484,7 +484,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>@platformio </td>
 		<td>No Twitter Username</td>
 		<td>Ukraine</td>
-		<td>454</td>
+		<td>453</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -515,19 +515,6 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 	<tr>
 		<td>33</td>
 		<td>
-			<a href="https://github.com/DavertMik">
-				<img src="https://avatars.githubusercontent.com/u/220264?s=72&v=4" width="24" alt="Avatar of DavertMik"> DavertMik
-			</a><br/>
-			Michael Bodnarchuk
-		</td>
-		<td>Sdclabs </td>
-		<td>No Twitter Username</td>
-		<td>Kyiv, Ukraine</td>
-		<td>430</td>
-	</tr>
-	<tr>
-		<td>34</td>
-		<td>
 			<a href="https://github.com/ducha-aiki">
 				<img src="https://avatars.githubusercontent.com/u/4803565?s=72&u=55f5a52c0e83396b067e98f036e6bf983d65ab64&v=4" width="24" alt="Avatar of ducha-aiki"> ducha-aiki
 			</a><br/>
@@ -535,6 +522,19 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		</td>
 		<td>Czech Technical University In<br/>Prague<br/></td>
 		<td><a href="https://twitter.com/ducha_aiki">ducha_aiki</a></td>
+		<td>Kyiv, Ukraine</td>
+		<td>432</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td>
+			<a href="https://github.com/DavertMik">
+				<img src="https://avatars.githubusercontent.com/u/220264?s=72&v=4" width="24" alt="Avatar of DavertMik"> DavertMik
+			</a><br/>
+			Michael Bodnarchuk
+		</td>
+		<td>Sdclabs </td>
+		<td>No Twitter Username</td>
 		<td>Kyiv, Ukraine</td>
 		<td>430</td>
 	</tr>
@@ -614,7 +614,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>Pluto-tv </td>
 		<td><a href="https://twitter.com/V8tr">V8tr</a></td>
 		<td>Kharkov, Ukraine</td>
-		<td>364</td>
+		<td>365</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -666,7 +666,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ukraine</td>
-		<td>357</td>
+		<td>358</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -679,7 +679,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kiev, Ukraine</td>
-		<td>353</td>
+		<td>354</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -692,7 +692,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>@near </td>
 		<td><a href="https://twitter.com/bendiken">bendiken</a></td>
 		<td>Helsinki/Lviv/Zurich</td>
-		<td>349</td>
+		<td>350</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -705,7 +705,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>Middleware Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Ukraine</td>
-		<td>346</td>
+		<td>345</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -718,7 +718,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ukraine</td>
-		<td>337</td>
+		<td>338</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -757,7 +757,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>Globallogic Lviv </td>
 		<td>No Twitter Username</td>
 		<td>Ukraine, Lviv</td>
-		<td>321</td>
+		<td>320</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -835,7 +835,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>Partstech </td>
 		<td><a href="https://twitter.com/kefzce">kefzce</a></td>
 		<td>Kyiv/Ukraine</td>
-		<td>301</td>
+		<td>300</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -861,7 +861,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ukraine</td>
-		<td>288</td>
+		<td>289</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -893,12 +893,12 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>62</td>
 		<td>
 			<a href="https://github.com/ipselon">
-				<img src="https://avatars.githubusercontent.com/u/11865795?s=72&u=3c23e37ec556e48db1698f6b349044f499d5f440&v=4" width="24" alt="Avatar of ipselon"> ipselon
+				<img src="https://avatars.githubusercontent.com/u/11865795?s=72&u=eed710105bb860e223c95054652966616cab6d1c&v=4" width="24" alt="Avatar of ipselon"> ipselon
 			</a><br/>
 			Alex Pustovalov
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/alex_pustovalov">alex_pustovalov</a></td>
 		<td>Kyiv, Ukraine</td>
 		<td>279</td>
 	</tr>
@@ -906,14 +906,14 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>63</td>
 		<td>
 			<a href="https://github.com/irevenko">
-				<img src="https://avatars.githubusercontent.com/u/44785096?s=72&u=037afefb7377435e3752035ec38e163d790eca56&v=4" width="24" alt="Avatar of irevenko"> irevenko
+				<img src="https://avatars.githubusercontent.com/u/44785096?s=72&v=4" width="24" alt="Avatar of irevenko"> irevenko
 			</a><br/>
 			Ilya Revenko
 		</td>
 		<td>Computer & Technology Сollege<br/></td>
 		<td><a href="https://twitter.com/irevenko2">irevenko2</a></td>
 		<td>Ukraine, Kharkiv</td>
-		<td>275</td>
+		<td>273</td>
 	</tr>
 	<tr>
 		<td>64</td>
@@ -926,7 +926,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lviv, Ukraine</td>
-		<td>267</td>
+		<td>271</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -939,7 +939,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>Bitcoin Core </td>
 		<td><a href="https://twitter.com/hhebasto">hhebasto</a></td>
 		<td>Ukraine</td>
-		<td>262</td>
+		<td>263</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -1056,7 +1056,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kyiv, Ukraine</td>
-		<td>238</td>
+		<td>240</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1069,7 +1069,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ukraine</td>
-		<td>235</td>
+		<td>234</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1230,6 +1230,19 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 	<tr>
 		<td>88</td>
 		<td>
+			<a href="https://github.com/javadev">
+				<img src="https://avatars.githubusercontent.com/u/348496?s=72&u=f77784fadb530726b290a5d1ffe92752897c853e&v=4" width="24" alt="Avatar of javadev"> javadev
+			</a><br/>
+			Valentyn Kolesnikov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ukraine</td>
+		<td>205</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
 			<a href="https://github.com/bocharsky-bw">
 				<img src="https://avatars.githubusercontent.com/u/3317635?s=72&u=5279999f63cf9d987d295c3d7a6dbe4e083bc4e4&v=4" width="24" alt="Avatar of bocharsky-bw"> bocharsky-bw
 			</a><br/>
@@ -1239,19 +1252,6 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td><a href="https://twitter.com/bocharsky_bw">bocharsky_bw</a></td>
 		<td>Kyiv, Ukraine</td>
 		<td>205</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
-			<a href="https://github.com/javadev">
-				<img src="https://avatars.githubusercontent.com/u/348496?s=72&u=f77784fadb530726b290a5d1ffe92752897c853e&v=4" width="24" alt="Avatar of javadev"> javadev
-			</a><br/>
-			Valentyn Kolesnikov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ukraine</td>
-		<td>204</td>
 	</tr>
 	<tr>
 		<td>90</td>
@@ -1316,7 +1316,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>Cloud Commander </td>
 		<td>No Twitter Username</td>
 		<td>Ukraine</td>
-		<td>195</td>
+		<td>197</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -1342,10 +1342,23 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ukraine</td>
-		<td>192</td>
+		<td>193</td>
 	</tr>
 	<tr>
 		<td>97</td>
+		<td>
+			<a href="https://github.com/proselytear">
+				<img src="https://avatars.githubusercontent.com/u/15649001?s=72&u=0139e06e8f59f727e09a74460f61da4724512fbe&v=4" width="24" alt="Avatar of proselytear"> proselytear
+			</a><br/>
+			Eugene Suleimanov
+		</td>
+		<td>Softjourn Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Ukraine, Kyiv</td>
+		<td>192</td>
+	</tr>
+	<tr>
+		<td>98</td>
 		<td>
 			<a href="https://github.com/EvgenyKarkan">
 				<img src="https://avatars.githubusercontent.com/u/2069158?s=72&u=4b95af13a0af00c2058e78747f7827b2f18da9ce&v=4" width="24" alt="Avatar of EvgenyKarkan"> EvgenyKarkan
@@ -1355,19 +1368,6 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kharkov, Ukraine</td>
-		<td>191</td>
-	</tr>
-	<tr>
-		<td>98</td>
-		<td>
-			<a href="https://github.com/proselytear">
-				<img src="https://avatars.githubusercontent.com/u/15649001?s=72&u=0139e06e8f59f727e09a74460f61da4724512fbe&v=4" width="24" alt="Avatar of proselytear"> proselytear
-			</a><br/>
-			Eugene Suleimanov
-		</td>
-		<td>Softjourn Inc. </td>
-		<td>No Twitter Username</td>
-		<td>Ukraine, Dnipro</td>
 		<td>191</td>
 	</tr>
 	<tr>
@@ -1433,7 +1433,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kyiv, Ukraine</td>
-		<td>187</td>
+		<td>188</td>
 	</tr>
 	<tr>
 		<td>104</td>
@@ -1511,7 +1511,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>Ubrainians </td>
 		<td>No Twitter Username</td>
 		<td>Kyiv, Ukraine</td>
-		<td>178</td>
+		<td>179</td>
 	</tr>
 	<tr>
 		<td>110</td>
@@ -1524,7 +1524,7 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>Refactoring.guru </td>
 		<td>No Twitter Username</td>
 		<td>Kyiv, Ukraine</td>
-		<td>176</td>
+		<td>177</td>
 	</tr>
 	<tr>
 		<td>111</td>
@@ -1776,19 +1776,6 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 	<tr>
 		<td>130</td>
 		<td>
-			<a href="https://github.com/yuriytkach">
-				<img src="https://avatars.githubusercontent.com/u/18635300?s=72&u=2c44078798bad0e7cb978b93431db13614a96191&v=4" width="24" alt="Avatar of yuriytkach"> yuriytkach
-			</a><br/>
-			Yuriy Tkach
-		</td>
-		<td>@sigmaledger  </td>
-		<td>No Twitter Username</td>
-		<td>Kyiv, Ukraine</td>
-		<td>148</td>
-	</tr>
-	<tr>
-		<td>131</td>
-		<td>
 			<a href="https://github.com/EugeneHlushko">
 				<img src="https://avatars.githubusercontent.com/u/10549495?s=72&u=f6b07872450af4256177cd14fda80eb571b991ff&v=4" width="24" alt="Avatar of EugeneHlushko"> EugeneHlushko
 			</a><br/>
@@ -1798,903 +1785,6 @@ There are `200 users`  in Ukraine. You need at least `99 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Kiev, Ukraine</td>
 		<td>148</td>
-	</tr>
-	<tr>
-		<td>132</td>
-		<td>
-			<a href="https://github.com/AndrewDryga">
-				<img src="https://avatars.githubusercontent.com/u/1877644?s=72&u=6152dbb122cc77bd57fbfb3e2b30b447b5f03205&v=4" width="24" alt="Avatar of AndrewDryga"> AndrewDryga
-			</a><br/>
-			Andrew Dryga
-		</td>
-		<td>Nebo #15 </td>
-		<td>No Twitter Username</td>
-		<td>Kiev, Ukraine</td>
-		<td>147</td>
-	</tr>
-	<tr>
-		<td>133</td>
-		<td>
-			<a href="https://github.com/RomanHotsiy">
-				<img src="https://avatars.githubusercontent.com/u/3975738?s=72&u=47ca77bfcaff95cd5745814c817bbd2806af05db&v=4" width="24" alt="Avatar of RomanHotsiy"> RomanHotsiy
-			</a><br/>
-			Roman Hotsiy
-		</td>
-		<td>@redocly </td>
-		<td><a href="https://twitter.com/romanhotsiy">romanhotsiy</a></td>
-		<td>Lviv, Ukraine</td>
-		<td>147</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
-			<a href="https://github.com/MenosGrante">
-				<img src="https://avatars.githubusercontent.com/u/2765109?s=72&u=c4e55ba6bec5460620d90ec1910b99517505040f&v=4" width="24" alt="Avatar of MenosGrante"> MenosGrante
-			</a><br/>
-			Pavlo Rekun
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/menosgrante">menosgrante</a></td>
-		<td>Ukraine</td>
-		<td>146</td>
-	</tr>
-	<tr>
-		<td>135</td>
-		<td>
-			<a href="https://github.com/vladgolubev">
-				<img src="https://avatars.githubusercontent.com/u/3817380?s=72&u=0c93c9511e4c2cbeda55fc1682d1b7b17eef0fee&v=4" width="24" alt="Avatar of vladgolubev"> vladgolubev
-			</a><br/>
-			Vlad Holubiev
-		</td>
-		<td>@shelfio  </td>
-		<td>No Twitter Username</td>
-		<td>Lviv, Ukraine</td>
-		<td>145</td>
-	</tr>
-	<tr>
-		<td>136</td>
-		<td>
-			<a href="https://github.com/cystbear">
-				<img src="https://avatars.githubusercontent.com/u/412004?s=72&u=0f6fccefc3255b4ccf0caaa215ed3884b20cd9b4&v=4" width="24" alt="Avatar of cystbear"> cystbear
-			</a><br/>
-			Oleg Zinchenko
-		</td>
-		<td>Oro Inc. </td>
-		<td><a href="https://twitter.com/1cdecoder">1cdecoder</a></td>
-		<td>Ukraine</td>
-		<td>144</td>
-	</tr>
-	<tr>
-		<td>137</td>
-		<td>
-			<a href="https://github.com/hellysmile">
-				<img src="https://avatars.githubusercontent.com/u/1834317?s=72&u=46651e2b65c420c172030f47a8d7fff429baf72f&v=4" width="24" alt="Avatar of hellysmile"> hellysmile
-			</a><br/>
-			Victor K.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ukraine</td>
-		<td>142</td>
-	</tr>
-	<tr>
-		<td>138</td>
-		<td>
-			<a href="https://github.com/TropComplique">
-				<img src="https://avatars.githubusercontent.com/u/19353433?s=72&u=d79086a312ff61f759fd3acdd7d9b24cd6cf0646&v=4" width="24" alt="Avatar of TropComplique"> TropComplique
-			</a><br/>
-			Dan Antoshchenko
-		</td>
-		<td>Neocortext </td>
-		<td>No Twitter Username</td>
-		<td>Kyiv, Ukraine</td>
-		<td>141</td>
-	</tr>
-	<tr>
-		<td>139</td>
-		<td>
-			<a href="https://github.com/glushchenko">
-				<img src="https://avatars.githubusercontent.com/u/1089917?s=72&u=e0bb523ea49814212541d9fc1230b2a7df894db5&v=4" width="24" alt="Avatar of glushchenko"> glushchenko
-			</a><br/>
-			No Name
-		</td>
-		<td>@bis-gmbh  </td>
-		<td>No Twitter Username</td>
-		<td>Ukraine</td>
-		<td>139</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/AntyaDev">
-				<img src="https://avatars.githubusercontent.com/u/1080518?s=72&u=1c4fae684d2c6a086831f89bb06c10762d0cae1f&v=4" width="24" alt="Avatar of AntyaDev"> AntyaDev
-			</a><br/>
-			Anton Moldovan
-		</td>
-		<td>Https://twitter.com/ </td>
-		<td><a href="https://twitter.com/antyadev">antyadev</a></td>
-		<td>Ukraine, Kiev</td>
-		<td>139</td>
-	</tr>
-	<tr>
-		<td>141</td>
-		<td>
-			<a href="https://github.com/Aristona">
-				<img src="https://avatars.githubusercontent.com/u/2160002?s=72&u=8289a5d7a6959a84d9e45d3af979c8eb0d43facc&v=4" width="24" alt="Avatar of Aristona"> Aristona
-			</a><br/>
-			Anıl ÜNAL
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lviv, Ukraine</td>
-		<td>135</td>
-	</tr>
-	<tr>
-		<td>142</td>
-		<td>
-			<a href="https://github.com/erikfenriz">
-				<img src="https://avatars.githubusercontent.com/u/25347909?s=72&u=913f226e330dd5996d5157442e4fb42c7fbb9f1f&v=4" width="24" alt="Avatar of erikfenriz"> erikfenriz
-			</a><br/>
-			Ernestovich
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Odessa, Ukraine</td>
-		<td>134</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/maximletushov">
-				<img src="https://avatars.githubusercontent.com/u/839819?s=72&u=d8af56fa0438cb932d4a4a26a6f575520e59245b&v=4" width="24" alt="Avatar of maximletushov"> maximletushov
-			</a><br/>
-			Maksym Letiushov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ukraine, Dnepropetrovsk</td>
-		<td>134</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
-			<a href="https://github.com/LyoSU">
-				<img src="https://avatars.githubusercontent.com/u/37080625?s=72&u=a86ffd2ebafce44abd1b36d4b94dc75719fd5d0f&v=4" width="24" alt="Avatar of LyoSU"> LyoSU
-			</a><br/>
-			Yuri Ly
-		</td>
-		<td>Ly </td>
-		<td><a href="https://twitter.com/LyoSU_">LyoSU_</a></td>
-		<td>Ukraine</td>
-		<td>133</td>
-	</tr>
-	<tr>
-		<td>145</td>
-		<td>
-			<a href="https://github.com/alex-melnyk">
-				<img src="https://avatars.githubusercontent.com/u/30177329?s=72&u=ba49eeb9614077be71fc86c492e613b99c1ef433&v=4" width="24" alt="Avatar of alex-melnyk"> alex-melnyk
-			</a><br/>
-			Alex Melnyk
-		</td>
-		<td>@litslink </td>
-		<td><a href="https://twitter.com/askMelnyk">askMelnyk</a></td>
-		<td>Ukraine, Kiev</td>
-		<td>133</td>
-	</tr>
-	<tr>
-		<td>146</td>
-		<td>
-			<a href="https://github.com/samoshkin">
-				<img src="https://avatars.githubusercontent.com/u/768858?s=72&u=5572811b68c0349c18a56dfe17b65754903abc97&v=4" width="24" alt="Avatar of samoshkin"> samoshkin
-			</a><br/>
-			Alexey Samoshkin
-		</td>
-		<td>Dev-pro </td>
-		<td>No Twitter Username</td>
-		<td>Ukraine, Kharkiv</td>
-		<td>133</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
-			<a href="https://github.com/rssh">
-				<img src="https://avatars.githubusercontent.com/u/191250?s=72&u=084baa4098fca8425fefd68760a9d5e920be4ea8&v=4" width="24" alt="Avatar of rssh"> rssh
-			</a><br/>
-			Ruslan Shevchenko
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/rssh1">rssh1</a></td>
-		<td>Kiev, Ukraine</td>
-		<td>132</td>
-	</tr>
-	<tr>
-		<td>148</td>
-		<td>
-			<a href="https://github.com/doom369">
-				<img src="https://avatars.githubusercontent.com/u/1536494?s=72&u=fc085e2f5781da1059e71efb01177d0068abd3cf&v=4" width="24" alt="Avatar of doom369"> doom369
-			</a><br/>
-			Dmitriy Dumanskiy
-		</td>
-		<td>Blynk </td>
-		<td>No Twitter Username</td>
-		<td>Kyiv, Ukraine</td>
-		<td>130</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
-			<a href="https://github.com/bogdanvlviv">
-				<img src="https://avatars.githubusercontent.com/u/6443532?s=72&u=04a4d25e071867150f94bea0fb62619c4b6a2daa&v=4" width="24" alt="Avatar of bogdanvlviv"> bogdanvlviv
-			</a><br/>
-			Bogdan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/bogdanvlviv">bogdanvlviv</a></td>
-		<td>Lviv, Ukraine</td>
-		<td>130</td>
-	</tr>
-	<tr>
-		<td>150</td>
-		<td>
-			<a href="https://github.com/cleanOK">
-				<img src="https://avatars.githubusercontent.com/u/1616723?s=72&u=eb22e83fd7c9bc698c677dc887c9ac7cbf90ff9e&v=4" width="24" alt="Avatar of cleanOK"> cleanOK
-			</a><br/>
-			Dmytro Denysenko
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kyiv</td>
-		<td>130</td>
-	</tr>
-	<tr>
-		<td>151</td>
-		<td>
-			<a href="https://github.com/vladspirin">
-				<img src="https://avatars.githubusercontent.com/u/24988700?s=72&v=4" width="24" alt="Avatar of vladspirin"> vladspirin
-			</a><br/>
-			Vladyslav Spirin
-		</td>
-		<td>Globallogic </td>
-		<td>No Twitter Username</td>
-		<td>Kyiv, Ukraine</td>
-		<td>129</td>
-	</tr>
-	<tr>
-		<td>152</td>
-		<td>
-			<a href="https://github.com/stfalcon">
-				<img src="https://avatars.githubusercontent.com/u/159215?s=72&u=22bf9ea9e183c1610af1d9a351a29139ca3ad281&v=4" width="24" alt="Avatar of stfalcon"> stfalcon
-			</a><br/>
-			Stepan Tanasiychuk
-		</td>
-		<td>Studio Stfalcon.com </td>
-		<td>No Twitter Username</td>
-		<td>Ukraine, Khmelnitsky</td>
-		<td>129</td>
-	</tr>
-	<tr>
-		<td>153</td>
-		<td>
-			<a href="https://github.com/mrmckeb">
-				<img src="https://avatars.githubusercontent.com/u/5043083?s=72&u=ec584c5db0560973cf564f09520dc631c01e5e10&v=4" width="24" alt="Avatar of mrmckeb"> mrmckeb
-			</a><br/>
-			Brody McKee
-		</td>
-		<td>Beamery </td>
-		<td>No Twitter Username</td>
-		<td>Lviv, Ukraine</td>
-		<td>128</td>
-	</tr>
-	<tr>
-		<td>154</td>
-		<td>
-			<a href="https://github.com/yevhen">
-				<img src="https://avatars.githubusercontent.com/u/107726?s=72&u=8d300f03e2b01b25577355db22d97ffedada0ebb&v=4" width="24" alt="Avatar of yevhen"> yevhen
-			</a><br/>
-			Yevhen Bobrov
-		</td>
-		<td>Youscan.io </td>
-		<td>No Twitter Username</td>
-		<td>Kiev, Ukraine</td>
-		<td>128</td>
-	</tr>
-	<tr>
-		<td>155</td>
-		<td>
-			<a href="https://github.com/retspen">
-				<img src="https://avatars.githubusercontent.com/u/688722?s=72&u=538b537fed9d922c520fffa55bac99c4c0e1e633&v=4" width="24" alt="Avatar of retspen"> retspen
-			</a><br/>
-			Anatoliy Guskov
-		</td>
-		<td>Serverhub </td>
-		<td>No Twitter Username</td>
-		<td>Ukraine</td>
-		<td>127</td>
-	</tr>
-	<tr>
-		<td>156</td>
-		<td>
-			<a href="https://github.com/alexsosn">
-				<img src="https://avatars.githubusercontent.com/u/3265391?s=72&u=11e29be4b9f31f83ff87c8033a1fb81557d7b4c3&v=4" width="24" alt="Avatar of alexsosn"> alexsosn
-			</a><br/>
-			Alex Sosnovshchenko
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kiev, Ukraine</td>
-		<td>127</td>
-	</tr>
-	<tr>
-		<td>157</td>
-		<td>
-			<a href="https://github.com/suchov">
-				<img src="https://avatars.githubusercontent.com/u/1478985?s=72&u=74b1faf9f7c8a60ffcf8758b2ae564533897be42&v=4" width="24" alt="Avatar of suchov"> suchov
-			</a><br/>
-			Artem Sychov
-		</td>
-		<td>@kottans  </td>
-		<td>No Twitter Username</td>
-		<td>Kyiv</td>
-		<td>126</td>
-	</tr>
-	<tr>
-		<td>158</td>
-		<td>
-			<a href="https://github.com/theshock">
-				<img src="https://avatars.githubusercontent.com/u/337677?s=72&u=285571028b297b18c88007a9ecb92233774bf8b4&v=4" width="24" alt="Avatar of theshock"> theshock
-			</a><br/>
-			PavelPonomarenko
-		</td>
-		<td>@virgilsecurity  </td>
-		<td>No Twitter Username</td>
-		<td>Ukraine</td>
-		<td>126</td>
-	</tr>
-	<tr>
-		<td>159</td>
-		<td>
-			<a href="https://github.com/ozasadnyy">
-				<img src="https://avatars.githubusercontent.com/u/2954281?s=72&u=4041eaea06d02056c3b8ff0096b3adcffe23e1ec&v=4" width="24" alt="Avatar of ozasadnyy"> ozasadnyy
-			</a><br/>
-			Oleh Zasadnyy
-		</td>
-		<td>Jigger </td>
-		<td><a href="https://twitter.com/ozasadnyy">ozasadnyy</a></td>
-		<td>Lviv, Ukraine</td>
-		<td>125</td>
-	</tr>
-	<tr>
-		<td>160</td>
-		<td>
-			<a href="https://github.com/KupynOrest">
-				<img src="https://avatars.githubusercontent.com/u/16286668?s=72&u=518461f0533978a73a209317ef5f636fd5e7a2f8&v=4" width="24" alt="Avatar of KupynOrest"> KupynOrest
-			</a><br/>
-			Orest Kupyn
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lviv</td>
-		<td>122</td>
-	</tr>
-	<tr>
-		<td>161</td>
-		<td>
-			<a href="https://github.com/finom">
-				<img src="https://avatars.githubusercontent.com/u/1082083?s=72&u=7cd6645e12b7e54140736f115d0ca328fb826b17&v=4" width="24" alt="Avatar of finom"> finom
-			</a><br/>
-			Andrey Gubanov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Odesa, Ukraine</td>
-		<td>121</td>
-	</tr>
-	<tr>
-		<td>162</td>
-		<td>
-			<a href="https://github.com/RevenantX">
-				<img src="https://avatars.githubusercontent.com/u/825465?s=72&v=4" width="24" alt="Avatar of RevenantX"> RevenantX
-			</a><br/>
-			Ruslan Pyrch
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kyiv, Ukraine</td>
-		<td>121</td>
-	</tr>
-	<tr>
-		<td>163</td>
-		<td>
-			<a href="https://github.com/ujinius">
-				<img src="https://avatars.githubusercontent.com/u/3730716?s=72&u=623059a2efb48eb442cec2eeffe7777ba9d2b3fc&v=4" width="24" alt="Avatar of ujinius"> ujinius
-			</a><br/>
-			Eugene Zaretsky
-		</td>
-		<td>Swiss Cyber Gate Ag<br/></td>
-		<td><a href="https://twitter.com/ujinius">ujinius</a></td>
-		<td>Ukraine, Dnipro</td>
-		<td>121</td>
-	</tr>
-	<tr>
-		<td>164</td>
-		<td>
-			<a href="https://github.com/codesnake">
-				<img src="https://avatars.githubusercontent.com/u/4332622?s=72&u=860ab7422c0cf138515fc7b89ebca4a261699ead&v=4" width="24" alt="Avatar of codesnake"> codesnake
-			</a><br/>
-			Oleksandr Deryskyba
-		</td>
-		<td>Wetek </td>
-		<td>No Twitter Username</td>
-		<td>Ukraine</td>
-		<td>119</td>
-	</tr>
-	<tr>
-		<td>165</td>
-		<td>
-			<a href="https://github.com/iurevych">
-				<img src="https://avatars.githubusercontent.com/u/325422?s=72&u=1e9053e70766599e5915b6762ac3678f9dd83f2e&v=4" width="24" alt="Avatar of iurevych"> iurevych
-			</a><br/>
-			Sergii Iurevych
-		</td>
-		<td>@unstoppabledomains  </td>
-		<td><a href="https://twitter.com/iurevych">iurevych</a></td>
-		<td>Kyiv</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/esvit">
-				<img src="https://avatars.githubusercontent.com/u/1222467?s=72&v=4" width="24" alt="Avatar of esvit"> esvit
-			</a><br/>
-			Vitalii Savchuk
-		</td>
-		<td>Itfin </td>
-		<td>No Twitter Username</td>
-		<td>Ukraine, Vinnitsa</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/zmts">
-				<img src="https://avatars.githubusercontent.com/u/6388755?s=72&u=db52a80e3f784a1d04d8e2f78b01a4b579c270f1&v=4" width="24" alt="Avatar of zmts"> zmts
-			</a><br/>
-			Sasha Zmts
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ukraine/Kyiv</td>
-		<td>117</td>
-	</tr>
-	<tr>
-		<td>168</td>
-		<td>
-			<a href="https://github.com/andriisoldatenko">
-				<img src="https://avatars.githubusercontent.com/u/1374633?s=72&u=e00888a4a6836115d79accc376a5e3d6c629bbc2&v=4" width="24" alt="Avatar of andriisoldatenko"> andriisoldatenko
-			</a><br/>
-			Andrii Soldatenko
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/a_soldatenko">a_soldatenko</a></td>
-		<td>Ukraine</td>
-		<td>116</td>
-	</tr>
-	<tr>
-		<td>169</td>
-		<td>
-			<a href="https://github.com/RomaniukVadim">
-				<img src="https://avatars.githubusercontent.com/u/7835496?s=72&u=55bc415dd1423c381f49a5eeb19e4aa6e4d1ef06&v=4" width="24" alt="Avatar of RomaniukVadim"> RomaniukVadim
-			</a><br/>
-			glicOne
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ukraine, Kiev</td>
-		<td>116</td>
-	</tr>
-	<tr>
-		<td>170</td>
-		<td>
-			<a href="https://github.com/advantis">
-				<img src="https://avatars.githubusercontent.com/u/853858?s=72&v=4" width="24" alt="Avatar of advantis"> advantis
-			</a><br/>
-			Yurii Kotov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kyiv, Ukraine</td>
-		<td>115</td>
-	</tr>
-	<tr>
-		<td>171</td>
-		<td>
-			<a href="https://github.com/AndreyBazhan">
-				<img src="https://avatars.githubusercontent.com/u/12948835?s=72&v=4" width="24" alt="Avatar of AndreyBazhan"> AndreyBazhan
-			</a><br/>
-			Andrey Bazhan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AndreyBazhan">AndreyBazhan</a></td>
-		<td>Kherson, Ukraine</td>
-		<td>114</td>
-	</tr>
-	<tr>
-		<td>172</td>
-		<td>
-			<a href="https://github.com/hiqsol">
-				<img src="https://avatars.githubusercontent.com/u/11820365?s=72&u=9075bb384f8c741aef5af9661e3029b5d08baa7c&v=4" width="24" alt="Avatar of hiqsol"> hiqsol
-			</a><br/>
-			Andrii Vasyliev
-		</td>
-		<td>Hiqdev </td>
-		<td>No Twitter Username</td>
-		<td>Kiev, Ukraine</td>
-		<td>113</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
-			<a href="https://github.com/Yarikx">
-				<img src="https://avatars.githubusercontent.com/u/184247?s=72&v=4" width="24" alt="Avatar of Yarikx"> Yarikx
-			</a><br/>
-			Yaroslav
-		</td>
-		<td>Grammarly </td>
-		<td>No Twitter Username</td>
-		<td>Kiev, Ukraine</td>
-		<td>113</td>
-	</tr>
-	<tr>
-		<td>174</td>
-		<td>
-			<a href="https://github.com/vandroiy2013">
-				<img src="https://avatars.githubusercontent.com/u/8144780?s=72&u=dfc4a5d807c87c2eb9bdb08abdf2981c63821a18&v=4" width="24" alt="Avatar of vandroiy2013"> vandroiy2013
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ukraine, Dnipro</td>
-		<td>111</td>
-	</tr>
-	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/audiowaves">
-				<img src="https://avatars.githubusercontent.com/u/2100323?s=72&u=ad986f774900c5b4472fc02125ceaf3fd3a501a9&v=4" width="24" alt="Avatar of audiowaves"> audiowaves
-			</a><br/>
-			Oleh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ukraine</td>
-		<td>111</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/maximbilan">
-				<img src="https://avatars.githubusercontent.com/u/3020089?s=72&u=67210507f19a4e4acf52c7d671fbef0e1d1f5209&v=4" width="24" alt="Avatar of maximbilan"> maximbilan
-			</a><br/>
-			Maksym Bilan
-		</td>
-		<td>@myswimpro </td>
-		<td><a href="https://twitter.com/maximbilan">maximbilan</a></td>
-		<td>Ukraine</td>
-		<td>110</td>
-	</tr>
-	<tr>
-		<td>177</td>
-		<td>
-			<a href="https://github.com/morevo">
-				<img src="https://avatars.githubusercontent.com/u/33957184?s=72&u=37f19d6bb9a20a61e8fe4e31bb5529c8800e7952&v=4" width="24" alt="Avatar of morevo"> morevo
-			</a><br/>
-			Ivan Svilohuzov
-		</td>
-		<td>None </td>
-		<td><a href="https://twitter.com/ivanSvilohuzov">ivanSvilohuzov</a></td>
-		<td>Ukraine</td>
-		<td>110</td>
-	</tr>
-	<tr>
-		<td>178</td>
-		<td>
-			<a href="https://github.com/pkolomiy">
-				<img src="https://avatars.githubusercontent.com/u/25683474?s=72&v=4" width="24" alt="Avatar of pkolomiy"> pkolomiy
-			</a><br/>
-			Pavlo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kyiv, Ukraine</td>
-		<td>109</td>
-	</tr>
-	<tr>
-		<td>179</td>
-		<td>
-			<a href="https://github.com/AppliKey">
-				<img src="https://avatars.githubusercontent.com/u/10288457?s=72&u=39038333c62dbdc43dae0c00193f116811507767&v=4" width="24" alt="Avatar of AppliKey"> AppliKey
-			</a><br/>
-			Applikey Solutions
-		</td>
-		<td>Applikey Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Kharkiv, Ukraine</td>
-		<td>109</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
-			<a href="https://github.com/Ni55aN">
-				<img src="https://avatars.githubusercontent.com/u/8259641?s=72&u=dd22b61b43c22e04c68fa64591b8c0389fc0c0d8&v=4" width="24" alt="Avatar of Ni55aN"> Ni55aN
-			</a><br/>
-			Vitaliy Stoliarov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kharkiv</td>
-		<td>108</td>
-	</tr>
-	<tr>
-		<td>181</td>
-		<td>
-			<a href="https://github.com/kucherenko">
-				<img src="https://avatars.githubusercontent.com/u/159307?s=72&u=2cb917c3e4a8d66ba7001e20b2a237aebfc9c79c&v=4" width="24" alt="Avatar of kucherenko"> kucherenko
-			</a><br/>
-			Andrey Kucherenko
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/a_kucherenko">a_kucherenko</a></td>
-		<td>Kiev/Ukraine</td>
-		<td>107</td>
-	</tr>
-	<tr>
-		<td>182</td>
-		<td>
-			<a href="https://github.com/pronskiy">
-				<img src="https://avatars.githubusercontent.com/u/1196825?s=72&u=cf4c0468dfc6066dda4abc100dc03949cd7a0751&v=4" width="24" alt="Avatar of pronskiy"> pronskiy
-			</a><br/>
-			Roman Pronskiy
-		</td>
-		<td>@jetbrains </td>
-		<td><a href="https://twitter.com/pronskiy">pronskiy</a></td>
-		<td>Kharkov, Ukraine</td>
-		<td>107</td>
-	</tr>
-	<tr>
-		<td>183</td>
-		<td>
-			<a href="https://github.com/krasnoukhov">
-				<img src="https://avatars.githubusercontent.com/u/944286?s=72&u=f4176ac8bc9b615e9a4728b0c266b6c11919bc32&v=4" width="24" alt="Avatar of krasnoukhov"> krasnoukhov
-			</a><br/>
-			Dmitry Krasnoukhov
-		</td>
-		<td>@simplepractice  </td>
-		<td>No Twitter Username</td>
-		<td>Kyiv, Ukraine</td>
-		<td>106</td>
-	</tr>
-	<tr>
-		<td>184</td>
-		<td>
-			<a href="https://github.com/rilian">
-				<img src="https://avatars.githubusercontent.com/u/155563?s=72&u=b32fcb17657fbba40c2c00247d07b9f6beab02ce&v=4" width="24" alt="Avatar of rilian"> rilian
-			</a><br/>
-			rilian
-		</td>
-		<td>Proxet (rails Reactor) -><br/>Unyte<br/>Health<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kyiv -> Toronto</td>
-		<td>106</td>
-	</tr>
-	<tr>
-		<td>185</td>
-		<td>
-			<a href="https://github.com/valeros">
-				<img src="https://avatars.githubusercontent.com/u/886732?s=72&u=0b10baa5d4c08880cf5417d1fb967a07d89353f9&v=4" width="24" alt="Avatar of valeros"> valeros
-			</a><br/>
-			Valerii Koval
-		</td>
-		<td>Platformio </td>
-		<td>No Twitter Username</td>
-		<td>Ukraine, Kyiv</td>
-		<td>105</td>
-	</tr>
-	<tr>
-		<td>186</td>
-		<td>
-			<a href="https://github.com/setnemo">
-				<img src="https://avatars.githubusercontent.com/u/7947055?s=72&u=cd9006e9b154ba7b1b2e54979d586878605d2bcd&v=4" width="24" alt="Avatar of setnemo"> setnemo
-			</a><br/>
-			Artem Pakhomov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kyiv</td>
-		<td>105</td>
-	</tr>
-	<tr>
-		<td>187</td>
-		<td>
-			<a href="https://github.com/Anna-Myzukina">
-				<img src="https://avatars.githubusercontent.com/u/26605804?s=72&u=67de419099ea004e3a78689c611f6362865a258e&v=4" width="24" alt="Avatar of Anna-Myzukina"> Anna-Myzukina
-			</a><br/>
-			Anna Muzykina
-		</td>
-		<td>Freelance Full-stack Developer </td>
-		<td>No Twitter Username</td>
-		<td>Ukraine</td>
-		<td>105</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a href="https://github.com/hzlmn">
-				<img src="https://avatars.githubusercontent.com/u/8246283?s=72&u=6e1d43f08c69b5ce17d385f8116902c5c5b29ce1&v=4" width="24" alt="Avatar of hzlmn"> hzlmn
-			</a><br/>
-			Oleh Kuchuk
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kyiv, Ukraine</td>
-		<td>105</td>
-	</tr>
-	<tr>
-		<td>189</td>
-		<td>
-			<a href="https://github.com/philipshurpik">
-				<img src="https://avatars.githubusercontent.com/u/6635302?s=72&u=af144633d0169ff2e1e55de9e01a125c4f1c7fa5&v=4" width="24" alt="Avatar of philipshurpik"> philipshurpik
-			</a><br/>
-			Philip Shurpik
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kyiv</td>
-		<td>103</td>
-	</tr>
-	<tr>
-		<td>190</td>
-		<td>
-			<a href="https://github.com/vitalik">
-				<img src="https://avatars.githubusercontent.com/u/95222?s=72&u=6dc513f42c09a6378a69956b1aaa6d2e35ae248f&v=4" width="24" alt="Avatar of vitalik"> vitalik
-			</a><br/>
-			Vitaliy Kucheryaviy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ukraine, Kharkov</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>191</td>
-		<td>
-			<a href="https://github.com/k-bx">
-				<img src="https://avatars.githubusercontent.com/u/107968?s=72&u=7f013ef180c59c4d15c26435c0cbaf07937495d3&v=4" width="24" alt="Avatar of k-bx"> k-bx
-			</a><br/>
-			Kon Rybnikov
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ko_bx">ko_bx</a></td>
-		<td>Kyiv, Ukraine</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>192</td>
-		<td>
-			<a href="https://github.com/zhuravljov">
-				<img src="https://avatars.githubusercontent.com/u/1656851?s=72&u=dad3eb776d227813727cc607a9f754f5d4696981&v=4" width="24" alt="Avatar of zhuravljov"> zhuravljov
-			</a><br/>
-			Roman Zhuravlev
-		</td>
-		<td>G5 </td>
-		<td>No Twitter Username</td>
-		<td>Kharkiv, Ukraine</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>193</td>
-		<td>
-			<a href="https://github.com/avislab">
-				<img src="https://avatars.githubusercontent.com/u/16078733?s=72&v=4" width="24" alt="Avatar of avislab"> avislab
-			</a><br/>
-			Andrey Koryagin (Avislab)
-		</td>
-		<td>Avislab </td>
-		<td>No Twitter Username</td>
-		<td>Ukraine</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>194</td>
-		<td>
-			<a href="https://github.com/Vanuan">
-				<img src="https://avatars.githubusercontent.com/u/361985?s=72&u=aaffb0b5b0b2515df917c813a5a682cf28e7f07f&v=4" width="24" alt="Avatar of Vanuan"> Vanuan
-			</a><br/>
-			John Yani
-		</td>
-		<td>Lohika </td>
-		<td>No Twitter Username</td>
-		<td>Odesa, Ukraine</td>
-		<td>101</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
-			<a href="https://github.com/pvoznenko">
-				<img src="https://avatars.githubusercontent.com/u/1098414?s=72&u=463d9aea27450d2b4a63f6cd5158a46d506ebce9&v=4" width="24" alt="Avatar of pvoznenko"> pvoznenko
-			</a><br/>
-			Pavlo Voznenko
-		</td>
-		<td>Prosiebensat.1 Digital </td>
-		<td><a href="https://twitter.com/pvoznenko">pvoznenko</a></td>
-		<td>Munich, Germany; Kyiv, Ukraine</td>
-		<td>101</td>
-	</tr>
-	<tr>
-		<td>196</td>
-		<td>
-			<a href="https://github.com/SokolSerhiy">
-				<img src="https://avatars.githubusercontent.com/u/13245003?s=72&u=db1dab2b0bf9f7dc315a22b411d2bb1cbf26c03e&v=4" width="24" alt="Avatar of SokolSerhiy"> SokolSerhiy
-			</a><br/>
-			Serhiy Sokol
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lviv, Ukraine</td>
-		<td>101</td>
-	</tr>
-	<tr>
-		<td>197</td>
-		<td>
-			<a href="https://github.com/powerman">
-				<img src="https://avatars.githubusercontent.com/u/1354301?s=72&u=56fed9f714f15fe27585120086fae9e92148dde0&v=4" width="24" alt="Avatar of powerman"> powerman
-			</a><br/>
-			Alex Efros
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ukraine, Kharkov</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>198</td>
-		<td>
-			<a href="https://github.com/Luckygirlllll">
-				<img src="https://avatars.githubusercontent.com/u/10096433?s=72&u=6f0a931ad11b1cfb85e92693411c6d88536bb30d&v=4" width="24" alt="Avatar of Luckygirlllll"> Luckygirlllll
-			</a><br/>
-			Iryna Kreichmann
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kiev, Ukraine</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>199</td>
-		<td>
-			<a href="https://github.com/ZitRos">
-				<img src="https://avatars.githubusercontent.com/u/4989256?s=72&u=926ad7854edda6d4fae792152366acd54c918df5&v=4" width="24" alt="Avatar of ZitRos"> ZitRos
-			</a><br/>
-			Nikita Savchenko
-		</td>
-		<td>Google </td>
-		<td><a href="https://twitter.com/MeZitRo">MeZitRo</a></td>
-		<td>Kyiv, Ukraine</td>
-		<td>99</td>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/chaliy">
-				<img src="https://avatars.githubusercontent.com/u/79324?s=72&u=2651f6a8c1af7ac283dcd2eb52bddbe8accf95a7&v=4" width="24" alt="Avatar of chaliy"> chaliy
-			</a><br/>
-			Mykhailo Chalyi (Mike Chaliy)
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/chaliy">chaliy</a></td>
-		<td>Ukraine, Lviv</td>
-		<td>99</td>
 	</tr>
 </table>
 
