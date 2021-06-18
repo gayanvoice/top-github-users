@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg" alt="Malawi">
 </a>
 
-The `number of followers` of users in Malawi on `2021/6/16 1:37 PM UTC`. This list contains users from `Malawi` and cities `Lilongwe` `Blantyre` `Mzuzu` `Zomba` `Karonga`.
+The `number of followers` of users in Malawi on `2021/6/18 7:07 AM UTC`. This list contains users from `Malawi` and cities `Lilongwe` `Blantyre` `Mzuzu` `Zomba` `Karonga`.
 
-There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `675 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `515 users`  in Malawi. You need at least `0 followers` to be on this list.
+There are `516 users`  in Malawi. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -120,7 +120,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>Afropolitan Palaestra </td>
 		<td><a href="https://twitter.com/Anno_denomini">Anno_denomini</a></td>
 		<td>Lilongwe, Malawi</td>
-		<td>110</td>
+		<td>111</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -469,7 +469,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 			Saul Chelewani
 		</td>
 		<td>Telekom Networks Malawi </td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/kalmfuz">kalmfuz</a></td>
 		<td>Blantyre, Malawi</td>
 		<td>14</td>
 	</tr>
@@ -908,11 +908,11 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 			<a href="https://github.com/panjie116">
 				<img src="https://avatars.githubusercontent.com/u/38115401?s=72&u=6336add5df09cffd299e1a2df862fc5abb1e1d5a&v=4" width="24" alt="Avatar of panjie116"> panjie116
 			</a><br/>
-			panjie msowoya
+			Panji Msowoya
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/panjie116">panjie116</a></td>
-		<td>mzuzu</td>
+		<td>Mzuzu, Malawi</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -1842,7 +1842,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>135</td>
 		<td>
 			<a href="https://github.com/noel2017mdala">
-				<img src="https://avatars.githubusercontent.com/u/44665555?s=72&u=be8a11e14f8c255fa00d8fc40475ad79eedc99ce&v=4" width="24" alt="Avatar of noel2017mdala"> noel2017mdala
+				<img src="https://avatars.githubusercontent.com/u/44665555?s=72&u=12eb2d912aa52b0a6c12bbd810f20fc4b8f782b8&v=4" width="24" alt="Avatar of noel2017mdala"> noel2017mdala
 			</a><br/>
 			Abel Mdala
 		</td>

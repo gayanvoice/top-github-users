@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg" alt="Malawi">
 </a>
 
-The `public contributions` and `private contributions` by users in Malawi on `2021/6/16 1:37 PM UTC`. This list contains users from `Malawi` and cities `Lilongwe` `Blantyre` `Mzuzu` `Zomba` `Karonga`.
+The `public contributions` and `private contributions` by users in Malawi on `2021/6/18 7:07 AM UTC`. This list contains users from `Malawi` and cities `Lilongwe` `Blantyre` `Mzuzu` `Zomba` `Karonga`.
 
-There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `675 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `515 users`  in Malawi. You need at least `0 followers` to be on this list.
+There are `516 users`  in Malawi. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -123,7 +123,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Malawi</td>
 		<td>41</td>
-		<td>2049</td>
+		<td>2052</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -136,8 +136,8 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>Afropolitan Palaestra </td>
 		<td><a href="https://twitter.com/Anno_denomini">Anno_denomini</a></td>
 		<td>Lilongwe, Malawi</td>
-		<td>1655</td>
-		<td>1655</td>
+		<td>1714</td>
+		<td>1714</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -151,7 +151,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td><a href="https://twitter.com/zikani03">zikani03</a></td>
 		<td>Blantyre, Malawi</td>
 		<td>182</td>
-		<td>1611</td>
+		<td>1630</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -165,7 +165,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td><a href="https://twitter.com/innobv8">innobv8</a></td>
 		<td>Blantyre, Malawi</td>
 		<td>5</td>
-		<td>1543</td>
+		<td>1550</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -178,8 +178,8 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>@kuunika  </td>
 		<td>No Twitter Username</td>
 		<td>Lilongwe, Malawi</td>
-		<td>352</td>
-		<td>1348</td>
+		<td>354</td>
+		<td>1350</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td><a href="https://twitter.com/_fraganya">_fraganya</a></td>
 		<td>Blantyre, Malawi</td>
 		<td>91</td>
-		<td>1307</td>
+		<td>1312</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -221,7 +221,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Malawi</td>
 		<td>0</td>
-		<td>1043</td>
+		<td>1049</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -291,7 +291,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Area 47, Lilongwe, Malawi</td>
 		<td>19</td>
-		<td>584</td>
+		<td>601</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -319,7 +319,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td><a href="https://twitter.com/tsotsi116">tsotsi116</a></td>
 		<td>Malawi</td>
 		<td>23</td>
-		<td>507</td>
+		<td>508</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -347,7 +347,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Lilongwe, Malawi</td>
 		<td>35</td>
-		<td>474</td>
+		<td>481</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -389,7 +389,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td><a href="https://twitter.com/schiquiri">schiquiri</a></td>
 		<td>Lilongwe, Malawi</td>
 		<td>112</td>
-		<td>421</td>
+		<td>429</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -402,8 +402,8 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>Egpaf Malawi </td>
 		<td><a href="https://twitter.com/mwatha">mwatha</a></td>
 		<td>Malawi</td>
-		<td>402</td>
-		<td>402</td>
+		<td>404</td>
+		<td>404</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -542,8 +542,8 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mzuzu, Malawi</td>
-		<td>225</td>
-		<td>225</td>
+		<td>227</td>
+		<td>227</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -556,8 +556,8 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/clintyMw">clintyMw</a></td>
 		<td>Malawi</td>
-		<td>214</td>
-		<td>214</td>
+		<td>226</td>
+		<td>226</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -618,20 +618,6 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 	<tr>
 		<td>38</td>
 		<td>
-			<a href="https://github.com/hopgausi">
-				<img src="https://avatars.githubusercontent.com/u/57468358?s=72&u=587fe829c24f09d422e05eef1d497a6b818c84bb&v=4" width="24" alt="Avatar of hopgausi"> hopgausi
-			</a><br/>
-			Hopson Gausi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/hopgausi">hopgausi</a></td>
-		<td>Malawi</td>
-		<td>156</td>
-		<td>156</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
 			<a href="https://github.com/nickson-majawa">
 				<img src="https://avatars.githubusercontent.com/u/34072181?s=72&v=4" width="24" alt="Avatar of nickson-majawa"> nickson-majawa
 			</a><br/>
@@ -640,8 +626,22 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/MajawaNickson">MajawaNickson</a></td>
 		<td>Malawi, Blantyre</td>
-		<td>143</td>
-		<td>155</td>
+		<td>154</td>
+		<td>166</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/hopgausi">
+				<img src="https://avatars.githubusercontent.com/u/57468358?s=72&u=587fe829c24f09d422e05eef1d497a6b818c84bb&v=4" width="24" alt="Avatar of hopgausi"> hopgausi
+			</a><br/>
+			Hopson Gausi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/hopgausi">hopgausi</a></td>
+		<td>Malawi</td>
+		<td>159</td>
+		<td>159</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -663,13 +663,13 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 			<a href="https://github.com/panjie116">
 				<img src="https://avatars.githubusercontent.com/u/38115401?s=72&u=6336add5df09cffd299e1a2df862fc5abb1e1d5a&v=4" width="24" alt="Avatar of panjie116"> panjie116
 			</a><br/>
-			panjie msowoya
+			Panji Msowoya
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/panjie116">panjie116</a></td>
-		<td>mzuzu</td>
-		<td>68</td>
-		<td>150</td>
+		<td>Mzuzu, Malawi</td>
+		<td>70</td>
+		<td>152</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -703,7 +703,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>44</td>
 		<td>
 			<a href="https://github.com/noel2017mdala">
-				<img src="https://avatars.githubusercontent.com/u/44665555?s=72&u=be8a11e14f8c255fa00d8fc40475ad79eedc99ce&v=4" width="24" alt="Avatar of noel2017mdala"> noel2017mdala
+				<img src="https://avatars.githubusercontent.com/u/44665555?s=72&u=12eb2d912aa52b0a6c12bbd810f20fc4b8f782b8&v=4" width="24" alt="Avatar of noel2017mdala"> noel2017mdala
 			</a><br/>
 			Abel Mdala
 		</td>
@@ -722,7 +722,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 			Saul Chelewani
 		</td>
 		<td>Telekom Networks Malawi </td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/kalmfuz">kalmfuz</a></td>
 		<td>Blantyre, Malawi</td>
 		<td>102</td>
 		<td>102</td>
@@ -730,16 +730,16 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 	<tr>
 		<td>46</td>
 		<td>
-			<a href="https://github.com/Gimyk">
-				<img src="https://avatars.githubusercontent.com/u/52081238?s=72&u=122739492d66981f9f591c2afd480549e9eafaf9&v=4" width="24" alt="Avatar of Gimyk"> Gimyk
+			<a href="https://github.com/uniquedj95">
+				<img src="https://avatars.githubusercontent.com/u/20181125?s=72&u=e0dfed40d4876410d5fd74dbcfe95a3eaabc6d16&v=4" width="24" alt="Avatar of uniquedj95"> uniquedj95
 			</a><br/>
-			Gimyk
+			Daniel Justin
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malawi</td>
-		<td>93</td>
-		<td>93</td>
+		<td>@oleensict  </td>
+		<td><a href="https://twitter.com/uniquedj95">uniquedj95</a></td>
+		<td>Blantyre Malawi</td>
+		<td>15</td>
+		<td>98</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -752,21 +752,21 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Blantyre,Malawi</td>
-		<td>93</td>
-		<td>93</td>
+		<td>94</td>
+		<td>94</td>
 	</tr>
 	<tr>
 		<td>48</td>
 		<td>
-			<a href="https://github.com/uniquedj95">
-				<img src="https://avatars.githubusercontent.com/u/20181125?s=72&u=e0dfed40d4876410d5fd74dbcfe95a3eaabc6d16&v=4" width="24" alt="Avatar of uniquedj95"> uniquedj95
+			<a href="https://github.com/Gimyk">
+				<img src="https://avatars.githubusercontent.com/u/52081238?s=72&u=122739492d66981f9f591c2afd480549e9eafaf9&v=4" width="24" alt="Avatar of Gimyk"> Gimyk
 			</a><br/>
-			Daniel Justin
+			Gimyk
 		</td>
-		<td>@oleensict  </td>
-		<td><a href="https://twitter.com/uniquedj95">uniquedj95</a></td>
-		<td>Blantyre Malawi</td>
-		<td>10</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malawi</td>
+		<td>93</td>
 		<td>93</td>
 	</tr>
 	<tr>
@@ -1242,8 +1242,8 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>Thyolera Web Deveopers </td>
 		<td>No Twitter Username</td>
 		<td>Malawi</td>
-		<td>29</td>
-		<td>29</td>
+		<td>30</td>
+		<td>30</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1458,6 +1458,20 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 	<tr>
 		<td>98</td>
 		<td>
+			<a href="https://github.com/WatipasoChirambo">
+				<img src="https://avatars.githubusercontent.com/u/76850781?s=72&v=4" width="24" alt="Avatar of WatipasoChirambo"> WatipasoChirambo
+			</a><br/>
+			RattleStack
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Blantyre</td>
+		<td>17</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>
 			<a href="https://github.com/MARTINCHUNGA">
 				<img src="https://avatars.githubusercontent.com/u/48149361?s=72&u=06c810c318a5986e1d0840317eea241198060025&v=4" width="24" alt="Avatar of MARTINCHUNGA"> MARTINCHUNGA
 			</a><br/>
@@ -1470,7 +1484,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>99</td>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/nematrix">
 				<img src="https://avatars.githubusercontent.com/u/62212005?s=72&v=4" width="24" alt="Avatar of nematrix"> nematrix
@@ -1484,7 +1498,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>101</td>
 		<td>
 			<a href="https://github.com/moses-phil">
 				<img src="https://avatars.githubusercontent.com/u/83542049?s=72&u=a5616883190e8a23f3030888a20991326ace868b&v=4" width="24" alt="Avatar of moses-phil"> moses-phil
@@ -1498,7 +1512,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>102</td>
 		<td>
 			<a href="https://github.com/Mkambankhani">
 				<img src="https://avatars.githubusercontent.com/u/15377031?s=72&u=83024d9460ca06acfd49577bb6a598e2bdc6ac5d&v=4" width="24" alt="Avatar of Mkambankhani"> Mkambankhani
@@ -1512,7 +1526,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>102</td>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/cdzuwa">
 				<img src="https://avatars.githubusercontent.com/u/56194715?s=72&u=de7041a9ea0703f730c30ca9ce8c357db84cc68c&v=4" width="24" alt="Avatar of cdzuwa"> cdzuwa
@@ -1526,7 +1540,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>103</td>
+		<td>104</td>
 		<td>
 			<a href="https://github.com/Twapa">
 				<img src="https://avatars.githubusercontent.com/u/23131413?s=72&u=657347b52117182b21d72285d68b4285b114272c&v=4" width="24" alt="Avatar of Twapa"> Twapa
@@ -1540,7 +1554,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>104</td>
+		<td>105</td>
 		<td>
 			<a href="https://github.com/StevenKamwaza">
 				<img src="https://avatars.githubusercontent.com/u/48084787?s=72&u=b1d568d45d7fa5d740d723f4d568af689b01ef9b&v=4" width="24" alt="Avatar of StevenKamwaza"> StevenKamwaza
@@ -1554,7 +1568,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>105</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/Astonie">
 				<img src="https://avatars.githubusercontent.com/u/32304084?s=72&u=22fabc637b516fe5290d2e92d11c70aa5baa203b&v=4" width="24" alt="Avatar of Astonie"> Astonie
@@ -1568,7 +1582,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>106</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/ceekays">
 				<img src="https://avatars.githubusercontent.com/u/71360?s=72&v=4" width="24" alt="Avatar of ceekays"> ceekays
@@ -1582,7 +1596,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/Everisto-Fungo">
 				<img src="https://avatars.githubusercontent.com/u/50994240?s=72&u=a5ffb3cc0c0e2d1951938b420cef4688024ae957&v=4" width="24" alt="Avatar of Everisto-Fungo"> Everisto-Fungo
@@ -1596,7 +1610,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/GiftXXVI">
 				<img src="https://avatars.githubusercontent.com/u/20026081?s=72&u=6be8a9ec8795e3708d0af6f4e59bc20375ddf958&v=4" width="24" alt="Avatar of GiftXXVI"> GiftXXVI
@@ -1610,7 +1624,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/pchioza">
 				<img src="https://avatars.githubusercontent.com/u/15321203?s=72&v=4" width="24" alt="Avatar of pchioza"> pchioza
@@ -1622,20 +1636,6 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>Blantyre, Malawi</td>
 		<td>14</td>
 		<td>14</td>
-	</tr>
-	<tr>
-		<td>110</td>
-		<td>
-			<a href="https://github.com/WatipasoChirambo">
-				<img src="https://avatars.githubusercontent.com/u/76850781?s=72&v=4" width="24" alt="Avatar of WatipasoChirambo"> WatipasoChirambo
-			</a><br/>
-			RattleStack
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Blantyre</td>
-		<td>13</td>
-		<td>13</td>
 	</tr>
 	<tr>
 		<td>111</td>
@@ -2060,20 +2060,6 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 	<tr>
 		<td>141</td>
 		<td>
-			<a href="https://github.com/Wongani1">
-				<img src="https://avatars.githubusercontent.com/u/18358441?s=72&u=92fccc0f1be9ceec296b3934e39166fb797b802e&v=4" width="24" alt="Avatar of Wongani1"> Wongani1
-			</a><br/>
-			Wongani Kaunda
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malawi, Blantyre</td>
-		<td>6</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>142</td>
-		<td>
 			<a href="https://github.com/JamesChirombo">
 				<img src="https://avatars.githubusercontent.com/u/9527737?s=72&u=543e2e9f5cbfc20f1c7bd26b8af53f9f00c33f36&v=4" width="24" alt="Avatar of JamesChirombo"> JamesChirombo
 			</a><br/>
@@ -2086,7 +2072,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>143</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/PrinceMwase">
 				<img src="https://avatars.githubusercontent.com/u/45244343?s=72&u=8076f563e6786c92c8507f0caa053a1ba0cf8e12&v=4" width="24" alt="Avatar of PrinceMwase"> PrinceMwase
@@ -2100,7 +2086,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>144</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/Sammeja">
 				<img src="https://avatars.githubusercontent.com/u/73270361?s=72&v=4" width="24" alt="Avatar of Sammeja"> Sammeja
@@ -2114,7 +2100,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/Macvint">
 				<img src="https://avatars.githubusercontent.com/u/76874720?s=72&u=b50fb10bbc189b2e381535e624436a488bb13da0&v=4" width="24" alt="Avatar of Macvint"> Macvint
@@ -2128,7 +2114,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/gamphani">
 				<img src="https://avatars.githubusercontent.com/u/27262?s=72&v=4" width="24" alt="Avatar of gamphani"> gamphani
@@ -2142,7 +2128,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/sketchdm">
 				<img src="https://avatars.githubusercontent.com/u/54575392?s=72&v=4" width="24" alt="Avatar of sketchdm"> sketchdm
@@ -2156,7 +2142,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/ykalinde">
 				<img src="https://avatars.githubusercontent.com/u/13010040?s=72&u=253fcf440fe7c2142000547b34fc41bf7b7f123f&v=4" width="24" alt="Avatar of ykalinde"> ykalinde
@@ -2170,7 +2156,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/mnliwasa">
 				<img src="https://avatars.githubusercontent.com/u/15726766?s=72&u=08915ea41e6d25d55e4749360831a6e00412c22d&v=4" width="24" alt="Avatar of mnliwasa"> mnliwasa
@@ -2184,7 +2170,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/Leomhango">
 				<img src="https://avatars.githubusercontent.com/u/46033545?s=72&v=4" width="24" alt="Avatar of Leomhango"> Leomhango
@@ -2198,7 +2184,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/hassiecodes">
 				<img src="https://avatars.githubusercontent.com/u/75243955?s=72&v=4" width="24" alt="Avatar of hassiecodes"> hassiecodes
@@ -2212,7 +2198,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/chisokayuni">
 				<img src="https://avatars.githubusercontent.com/u/40810557?s=72&u=66e73d5931a47f0862cb925836aab914bed160ba&v=4" width="24" alt="Avatar of chisokayuni"> chisokayuni
@@ -2226,7 +2212,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/BensonMwamadi">
 				<img src="https://avatars.githubusercontent.com/u/80497481?s=72&v=4" width="24" alt="Avatar of BensonMwamadi"> BensonMwamadi
@@ -2236,6 +2222,20 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lilongwe,Malawi</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
+			<a href="https://github.com/LusunguCode">
+				<img src="https://avatars.githubusercontent.com/u/74528799?s=72&v=4" width="24" alt="Avatar of LusunguCode"> LusunguCode
+			</a><br/>
+			No Name
+		</td>
+		<td>Poly Design Studio </td>
+		<td>No Twitter Username</td>
+		<td>Blantyre, Malawi</td>
 		<td>4</td>
 		<td>4</td>
 	</tr>
@@ -2480,20 +2480,6 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 	<tr>
 		<td>171</td>
 		<td>
-			<a href="https://github.com/LusunguCode">
-				<img src="https://avatars.githubusercontent.com/u/74528799?s=72&v=4" width="24" alt="Avatar of LusunguCode"> LusunguCode
-			</a><br/>
-			No Name
-		</td>
-		<td>Poly Design Studio </td>
-		<td>No Twitter Username</td>
-		<td>Blantyre, Malawi</td>
-		<td>3</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>172</td>
-		<td>
 			<a href="https://github.com/Techgenius-Systems">
 				<img src="https://avatars.githubusercontent.com/u/83396186?s=72&u=5e7233b7f31cc101706ebfc357173c8af3eabbbd&v=4" width="24" alt="Avatar of Techgenius-Systems"> Techgenius-Systems
 			</a><br/>
@@ -2506,7 +2492,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/ChilumbaH">
 				<img src="https://avatars.githubusercontent.com/u/67157536?s=72&u=80a2416702635add7047f3f4319af9d34d0f0396&v=4" width="24" alt="Avatar of ChilumbaH"> ChilumbaH
@@ -2520,7 +2506,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/mwmwaxxeromwmw">
 				<img src="https://avatars.githubusercontent.com/u/81531384?s=72&u=e5335ae1afbb5d260d97fbb52ec48db6bb59f6a9&v=4" width="24" alt="Avatar of mwmwaxxeromwmw"> mwmwaxxeromwmw
@@ -2534,7 +2520,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/stainslaus">
 				<img src="https://avatars.githubusercontent.com/u/33105366?s=72&u=2986c6ba384732d7531390d7de3116487a79bc28&v=4" width="24" alt="Avatar of stainslaus"> stainslaus
@@ -2548,7 +2534,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/Kizzo29">
 				<img src="https://avatars.githubusercontent.com/u/60519215?s=72&v=4" width="24" alt="Avatar of Kizzo29"> Kizzo29
@@ -2562,7 +2548,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/carolchigona">
 				<img src="https://avatars.githubusercontent.com/u/69237575?s=72&u=7a944a12e75c9a84a6236acb2d6baa5f245c370c&v=4" width="24" alt="Avatar of carolchigona"> carolchigona
@@ -2576,7 +2562,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/ClementMwanyama">
 				<img src="https://avatars.githubusercontent.com/u/36656891?s=72&u=83e47d2a6f8f598fdcdb275599990eb41e285dd9&v=4" width="24" alt="Avatar of ClementMwanyama"> ClementMwanyama
@@ -2590,7 +2576,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/Sakwiya">
 				<img src="https://avatars.githubusercontent.com/u/37799445?s=72&u=6726fd12c6afd39f2a02caebae653f1964b635c1&v=4" width="24" alt="Avatar of Sakwiya"> Sakwiya
@@ -2604,7 +2590,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/JJekapu">
 				<img src="https://avatars.githubusercontent.com/u/61647420?s=72&u=06eab9f8d8df03b405a33ef4ea12a7a942fad3e2&v=4" width="24" alt="Avatar of JJekapu"> JJekapu
@@ -2618,7 +2604,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/ZithaniSoko">
 				<img src="https://avatars.githubusercontent.com/u/48241020?s=72&u=0ac79bc46fc5a91c7803feb8ba13841bb9ecc432&v=4" width="24" alt="Avatar of ZithaniSoko"> ZithaniSoko
@@ -2632,7 +2618,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/piuschirwa-k">
 				<img src="https://avatars.githubusercontent.com/u/58360058?s=72&u=d812098ac465ab56f8e1e3ca8a8a5419f8dc0023&v=4" width="24" alt="Avatar of piuschirwa-k"> piuschirwa-k
@@ -2646,7 +2632,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/HamiTee">
 				<img src="https://avatars.githubusercontent.com/u/82455720?s=72&u=298cbfd6c726b90c790442dcbcf220236fc79b14&v=4" width="24" alt="Avatar of HamiTee"> HamiTee
@@ -2656,6 +2642,20 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/itsHamiTee">itsHamiTee</a></td>
 		<td>Malawi</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>183</td>
+		<td>
+			<a href="https://github.com/Lois-265">
+				<img src="https://avatars.githubusercontent.com/u/85957264?s=72&v=4" width="24" alt="Avatar of Lois-265"> Lois-265
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mzuzu, Malawi</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
@@ -2718,20 +2718,6 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 	<tr>
 		<td>188</td>
 		<td>
-			<a href="https://github.com/dharapl">
-				<img src="https://avatars.githubusercontent.com/u/18032307?s=72&u=e7634f679571b6d353a64e1d454e9c2a2e300ec8&v=4" width="24" alt="Avatar of dharapl"> dharapl
-			</a><br/>
-			Dharap
-		</td>
-		<td>Adroit Networks </td>
-		<td><a href="https://twitter.com/dharap_luhanga">dharap_luhanga</a></td>
-		<td>Mzuzu</td>
-		<td>2</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>189</td>
-		<td>
 			<a href="https://github.com/mellow012">
 				<img src="https://avatars.githubusercontent.com/u/73447702?s=72&v=4" width="24" alt="Avatar of mellow012"> mellow012
 			</a><br/>
@@ -2740,6 +2726,20 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/melllow012">melllow012</a></td>
 		<td>malawi</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>189</td>
+		<td>
+			<a href="https://github.com/dharapl">
+				<img src="https://avatars.githubusercontent.com/u/18032307?s=72&u=e7634f679571b6d353a64e1d454e9c2a2e300ec8&v=4" width="24" alt="Avatar of dharapl"> dharapl
+			</a><br/>
+			Dharap
+		</td>
+		<td>Adroit Networks </td>
+		<td><a href="https://twitter.com/dharap_luhanga">dharap_luhanga</a></td>
+		<td>Mzuzu</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
@@ -3194,20 +3194,6 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 	<tr>
 		<td>222</td>
 		<td>
-			<a href="https://github.com/Lois-265">
-				<img src="https://avatars.githubusercontent.com/u/85957264?s=72&v=4" width="24" alt="Avatar of Lois-265"> Lois-265
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mzuzu, Malawi</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>223</td>
-		<td>
 			<a href="https://github.com/bandahprecious370">
 				<img src="https://avatars.githubusercontent.com/u/83375314?s=72&u=bb9e5851f7e0db4f94ad1b8da5658c0b5451841a&v=4" width="24" alt="Avatar of bandahprecious370"> bandahprecious370
 			</a><br/>
@@ -3220,7 +3206,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/Aliscience">
 				<img src="https://avatars.githubusercontent.com/u/67511936?s=72&v=4" width="24" alt="Avatar of Aliscience"> Aliscience
@@ -3234,7 +3220,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/katalystkonnection">
 				<img src="https://avatars.githubusercontent.com/u/80304305?s=72&u=e2274c16cc638264c2d0cba850fbe51e922bceba&v=4" width="24" alt="Avatar of katalystkonnection"> katalystkonnection
@@ -3248,7 +3234,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/Debbie2002">
 				<img src="https://avatars.githubusercontent.com/u/85987138?s=72&v=4" width="24" alt="Avatar of Debbie2002"> Debbie2002
@@ -3262,7 +3248,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/gauD123">
 				<img src="https://avatars.githubusercontent.com/u/81551293?s=72&v=4" width="24" alt="Avatar of gauD123"> gauD123
@@ -3276,7 +3262,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/blueythekid">
 				<img src="https://avatars.githubusercontent.com/u/83783553?s=72&u=9ee06e9ead64287b8a2cbf6011d034a103fa2cee&v=4" width="24" alt="Avatar of blueythekid"> blueythekid
@@ -3290,7 +3276,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/Santanana-debug">
 				<img src="https://avatars.githubusercontent.com/u/72375836?s=72&u=d060afd7d9825364bafc979e32f676772d5c9619&v=4" width="24" alt="Avatar of Santanana-debug"> Santanana-debug
@@ -3300,6 +3286,20 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>malawi</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>229</td>
+		<td>
+			<a href="https://github.com/seedeebot">
+				<img src="https://avatars.githubusercontent.com/u/70654188?s=72&v=4" width="24" alt="Avatar of seedeebot"> seedeebot
+			</a><br/>
+			Seedeebot
+		</td>
+		<td>@creditdatamw  </td>
+		<td>No Twitter Username</td>
+		<td>Blantyre, Malawi</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -3320,20 +3320,6 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 	<tr>
 		<td>231</td>
 		<td>
-			<a href="https://github.com/seedeebot">
-				<img src="https://avatars.githubusercontent.com/u/70654188?s=72&v=4" width="24" alt="Avatar of seedeebot"> seedeebot
-			</a><br/>
-			Seedeebot
-		</td>
-		<td>@creditdatamw  </td>
-		<td>No Twitter Username</td>
-		<td>Blantyre, Malawi</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>232</td>
-		<td>
 			<a href="https://github.com/MkangoMuJungle">
 				<img src="https://avatars.githubusercontent.com/u/80038011?s=72&v=4" width="24" alt="Avatar of MkangoMuJungle"> MkangoMuJungle
 			</a><br/>
@@ -3346,7 +3332,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/HopeNyanja00">
 				<img src="https://avatars.githubusercontent.com/u/77989311?s=72&u=1343ed19244f78ca435401f4e3099e420cda0988&v=4" width="24" alt="Avatar of HopeNyanja00"> HopeNyanja00
@@ -3360,7 +3346,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/hot-cell">
 				<img src="https://avatars.githubusercontent.com/u/84546693?s=72&v=4" width="24" alt="Avatar of hot-cell"> hot-cell
@@ -3374,7 +3360,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/Blessed-code300">
 				<img src="https://avatars.githubusercontent.com/u/84769418?s=72&u=9bc8cbfb0dcf5410d48335518742e18b0371d798&v=4" width="24" alt="Avatar of Blessed-code300"> Blessed-code300
@@ -3388,7 +3374,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/nsinsi">
 				<img src="https://avatars.githubusercontent.com/u/51649023?s=72&v=4" width="24" alt="Avatar of nsinsi"> nsinsi
@@ -3402,7 +3388,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/javaCoder265">
 				<img src="https://avatars.githubusercontent.com/u/35761142?s=72&v=4" width="24" alt="Avatar of javaCoder265"> javaCoder265
@@ -3416,7 +3402,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/Wiz83-create">
 				<img src="https://avatars.githubusercontent.com/u/82940490?s=72&v=4" width="24" alt="Avatar of Wiz83-create"> Wiz83-create
@@ -3430,7 +3416,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/Pacha1">
 				<img src="https://avatars.githubusercontent.com/u/7941040?s=72&u=15a524fd5d98d2333ee6586004599b49b37c3faf&v=4" width="24" alt="Avatar of Pacha1"> Pacha1
@@ -3444,7 +3430,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/mpha1">
 				<img src="https://avatars.githubusercontent.com/u/71493289?s=72&v=4" width="24" alt="Avatar of mpha1"> mpha1
@@ -3458,7 +3444,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/samuelmicheal99">
 				<img src="https://avatars.githubusercontent.com/u/78929193?s=72&v=4" width="24" alt="Avatar of samuelmicheal99"> samuelmicheal99
@@ -3472,7 +3458,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/exall-fresh">
 				<img src="https://avatars.githubusercontent.com/u/85086679?s=72&v=4" width="24" alt="Avatar of exall-fresh"> exall-fresh
@@ -3482,6 +3468,20 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>Ultranet </td>
 		<td>No Twitter Username</td>
 		<td>Malawi</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>242</td>
+		<td>
+			<a href="https://github.com/takenolabcode">
+				<img src="https://avatars.githubusercontent.com/u/82308700?s=72&u=7d2d57428037e03f0d0a954c9a96aee44f983f22&v=4" width="24" alt="Avatar of takenolabcode"> takenolabcode
+			</a><br/>
+			takenoLAB - Students
+		</td>
+		<td>Takenolab - Students </td>
+		<td><a href="https://twitter.com/takeno_LAB">takeno_LAB</a></td>
+		<td>Lilambwe - Dowa - Malawi</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -3502,20 +3502,6 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 	<tr>
 		<td>244</td>
 		<td>
-			<a href="https://github.com/takenolabcode">
-				<img src="https://avatars.githubusercontent.com/u/82308700?s=72&u=7d2d57428037e03f0d0a954c9a96aee44f983f22&v=4" width="24" alt="Avatar of takenolabcode"> takenolabcode
-			</a><br/>
-			takenoLAB - Students
-		</td>
-		<td>Takenolab - Students </td>
-		<td><a href="https://twitter.com/takeno_LAB">takeno_LAB</a></td>
-		<td>Lilambwe - Dowa - Malawi</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>245</td>
-		<td>
 			<a href="https://github.com/LogaNMt1">
 				<img src="https://avatars.githubusercontent.com/u/83140894?s=72&v=4" width="24" alt="Avatar of LogaNMt1"> LogaNMt1
 			</a><br/>
@@ -3528,7 +3514,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/noelkeysta">
 				<img src="https://avatars.githubusercontent.com/u/70128488?s=72&v=4" width="24" alt="Avatar of noelkeysta"> noelkeysta
@@ -3542,7 +3528,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/youth-net">
 				<img src="https://avatars.githubusercontent.com/u/81168117?s=72&v=4" width="24" alt="Avatar of youth-net"> youth-net
@@ -3556,7 +3542,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/KentCP">
 				<img src="https://avatars.githubusercontent.com/u/76561724?s=72&v=4" width="24" alt="Avatar of KentCP"> KentCP
@@ -3566,6 +3552,20 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/KentCreations">KentCreations</a></td>
 		<td>Kasungu, Malawi</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>248</td>
+		<td>
+			<a href="https://github.com/Rich-Nyali">
+				<img src="https://avatars.githubusercontent.com/u/39733498?s=72&u=57e015de5c6ffd331baf5d0296364aebe207d3ea&v=4" width="24" alt="Avatar of Rich-Nyali"> Rich-Nyali
+			</a><br/>
+			@RicNyali
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Blantyre, Malawi</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -3586,14 +3586,14 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 	<tr>
 		<td>250</td>
 		<td>
-			<a href="https://github.com/Rich-Nyali">
-				<img src="https://avatars.githubusercontent.com/u/39733498?s=72&u=57e015de5c6ffd331baf5d0296364aebe207d3ea&v=4" width="24" alt="Avatar of Rich-Nyali"> Rich-Nyali
+			<a href="https://github.com/UlaloBanda">
+				<img src="https://avatars.githubusercontent.com/u/48242646?s=72&u=59458b2a5bb5703670f70a020b4232dcc5ef5a03&v=4" width="24" alt="Avatar of UlaloBanda"> UlaloBanda
 			</a><br/>
-			@RicNyali
+			Ulalo Banda
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Blantyre, Malawi</td>
+		<td>Malawi</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -3614,20 +3614,6 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 	<tr>
 		<td>252</td>
 		<td>
-			<a href="https://github.com/UlaloBanda">
-				<img src="https://avatars.githubusercontent.com/u/48242646?s=72&u=59458b2a5bb5703670f70a020b4232dcc5ef5a03&v=4" width="24" alt="Avatar of UlaloBanda"> UlaloBanda
-			</a><br/>
-			Ulalo Banda
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malawi</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>253</td>
-		<td>
 			<a href="https://github.com/MarcelBlankenstein">
 				<img src="https://avatars.githubusercontent.com/u/72540405?s=72&u=c5a12933e16a220dd82b08824a19d74d33160d69&v=4" width="24" alt="Avatar of MarcelBlankenstein"> MarcelBlankenstein
 			</a><br/>
@@ -3640,7 +3626,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/analyticsgen">
 				<img src="https://avatars.githubusercontent.com/u/69303037?s=72&u=e476c93c43a3494c338a0f72dd16bf2a634231b3&v=4" width="24" alt="Avatar of analyticsgen"> analyticsgen
@@ -3654,7 +3640,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/superleon11">
 				<img src="https://avatars.githubusercontent.com/u/28501992?s=72&u=b3e27e8fea321b4f27d9285a52142871d664c001&v=4" width="24" alt="Avatar of superleon11"> superleon11
@@ -3668,7 +3654,7 @@ There are `515 users`  in Malawi. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/Joe54321">
 				<img src="https://avatars.githubusercontent.com/u/67803068?s=72&u=bec210505d5086fa476feab95d7659071fd2fd17&v=4" width="24" alt="Avatar of Joe54321"> Joe54321
