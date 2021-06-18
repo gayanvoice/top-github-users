@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands">
 </a>
 
-The `public contributions` by users in Netherlands on `2021/6/16 8:47 PM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
+The `public contributions` by users in Netherlands on `2021/6/18 3:19 PM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
 
-There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `675 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `10 users`  in Netherlands. You need at least `2688 followers` to be on this list.
+There are `10 users`  in Netherlands. You need at least `2693 followers` to be on this list.
 
 <table>
 	<tr>
@@ -107,7 +107,7 @@ There are `10 users`  in Netherlands. You need at least `2688 followers` to be o
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nikitavoloboev">nikitavoloboev</a></td>
 		<td>Eindhoven</td>
-		<td>4851</td>
+		<td>4867</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -120,7 +120,7 @@ There are `10 users`  in Netherlands. You need at least `2688 followers` to be o
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mislav">mislav</a></td>
 		<td>The Netherlands</td>
-		<td>1673</td>
+		<td>1674</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -133,7 +133,7 @@ There are `10 users`  in Netherlands. You need at least `2688 followers` to be o
 		<td>@vercel </td>
 		<td><a href="https://twitter.com/timneutkens">timneutkens</a></td>
 		<td>The Netherlands</td>
-		<td>1471</td>
+		<td>1483</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -146,7 +146,7 @@ There are `10 users`  in Netherlands. You need at least `2688 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>The Netherlands</td>
-		<td>1417</td>
+		<td>1421</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -172,10 +172,23 @@ There are `10 users`  in Netherlands. You need at least `2688 followers` to be o
 		<td>Facebook </td>
 		<td>No Twitter Username</td>
 		<td>Netherlands</td>
-		<td>853</td>
+		<td>857</td>
 	</tr>
 	<tr>
 		<td>7</td>
+		<td>
+			<a href="https://github.com/nvie">
+				<img src="https://avatars.githubusercontent.com/u/83844?s=72&u=9dc6d501512fa27781761de35ae8a057a0348ec4&v=4" width="24" alt="Avatar of nvie"> nvie
+			</a><br/>
+			Vincent Driessen
+		</td>
+		<td>3rd Cloud </td>
+		<td>No Twitter Username</td>
+		<td>The Netherlands</td>
+		<td>589</td>
+	</tr>
+	<tr>
+		<td>8</td>
 		<td>
 			<a href="https://github.com/barryvdh">
 				<img src="https://avatars.githubusercontent.com/u/973269?s=72&u=5c91f55a44fa388c096c4d77111346dee758bd44&v=4" width="24" alt="Avatar of barryvdh"> barryvdh
@@ -186,19 +199,6 @@ There are `10 users`  in Netherlands. You need at least `2688 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Noord-Brabant, the Netherlands</td>
 		<td>454</td>
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>
-			<a href="https://github.com/nvie">
-				<img src="https://avatars.githubusercontent.com/u/83844?s=72&u=9dc6d501512fa27781761de35ae8a057a0348ec4&v=4" width="24" alt="Avatar of nvie"> nvie
-			</a><br/>
-			Vincent Driessen
-		</td>
-		<td>3rd Cloud </td>
-		<td>No Twitter Username</td>
-		<td>The Netherlands</td>
-		<td>413</td>
 	</tr>
 	<tr>
 		<td>9</td>

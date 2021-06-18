@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands">
 </a>
 
-The `public contributions` and `private contributions` by users in Netherlands on `2021/6/16 8:47 PM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
+The `public contributions` and `private contributions` by users in Netherlands on `2021/6/18 3:19 PM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
 
-There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `675 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `10 users`  in Netherlands. You need at least `2688 followers` to be on this list.
+There are `10 users`  in Netherlands. You need at least `2693 followers` to be on this list.
 
 <table>
 	<tr>
@@ -109,7 +109,7 @@ There are `10 users`  in Netherlands. You need at least `2688 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Amsterdam</td>
 		<td>11</td>
-		<td>40213</td>
+		<td>40228</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -122,8 +122,8 @@ There are `10 users`  in Netherlands. You need at least `2688 followers` to be o
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nikitavoloboev">nikitavoloboev</a></td>
 		<td>Eindhoven</td>
-		<td>4851</td>
-		<td>4854</td>
+		<td>4867</td>
+		<td>4870</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -136,8 +136,8 @@ There are `10 users`  in Netherlands. You need at least `2688 followers` to be o
 		<td>3rd Cloud </td>
 		<td>No Twitter Username</td>
 		<td>The Netherlands</td>
-		<td>413</td>
-		<td>2930</td>
+		<td>589</td>
+		<td>3127</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -150,8 +150,8 @@ There are `10 users`  in Netherlands. You need at least `2688 followers` to be o
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mislav">mislav</a></td>
 		<td>The Netherlands</td>
-		<td>1673</td>
-		<td>1673</td>
+		<td>1674</td>
+		<td>1674</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -164,8 +164,8 @@ There are `10 users`  in Netherlands. You need at least `2688 followers` to be o
 		<td>@vercel </td>
 		<td><a href="https://twitter.com/timneutkens">timneutkens</a></td>
 		<td>The Netherlands</td>
-		<td>1471</td>
-		<td>1655</td>
+		<td>1483</td>
+		<td>1669</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -179,7 +179,7 @@ There are `10 users`  in Netherlands. You need at least `2688 followers` to be o
 		<td><a href="https://twitter.com/Trekhleb">Trekhleb</a></td>
 		<td>Amsterdam</td>
 		<td>1365</td>
-		<td>1647</td>
+		<td>1657</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -192,8 +192,8 @@ There are `10 users`  in Netherlands. You need at least `2688 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>The Netherlands</td>
-		<td>1417</td>
-		<td>1417</td>
+		<td>1421</td>
+		<td>1421</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -206,8 +206,8 @@ There are `10 users`  in Netherlands. You need at least `2688 followers` to be o
 		<td>Facebook </td>
 		<td>No Twitter Username</td>
 		<td>Netherlands</td>
-		<td>853</td>
-		<td>853</td>
+		<td>857</td>
+		<td>857</td>
 	</tr>
 	<tr>
 		<td>9</td>
