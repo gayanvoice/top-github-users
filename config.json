@@ -62,7 +62,7 @@
     { "country":  "israel", "geoName": "israel", "cities": ["jerusalem", "tel-aviv", "haifa", "lod", "be'er-sheva", "ashkelon", "bat-yam", "netanya"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" },
     { "country":  "italy", "geoName": "italy", "cities": ["rome", "venice", "florence", "turin", "milan", "naples", "bologna", "genoa"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" },
     { "country":  "jamaica", "geoName": "jamaica", "cities": ["kingston", "montego-bay", "ocho-rios", "port-antonio"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg" },
-    { "country":  "japan", "geoName": "japan", "cities": ["tokyo", "kyoto", "osaka", "sapporo"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" },
+    { "country":  "japan", "geoName": "japan", "cities": ["tokyo"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" },
     { "country":  "jordan", "geoName": "jordan", "cities": ["amman", "aqaba", "zarqa", "mafraq", "jerash", "irbid"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg" },
     { "country":  "kazakhstan", "geoName": "kazakhstan", "cities": ["almaty", "shymkent", "karagandy", "taraz", "nursultan", "pavlodar", "oskemen", "semey", "aktobe", "kostanay"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" },
     { "country":  "kenya", "geoName": "kenya", "cities": ["nairobi", "mombasa", "kisumu", "nakuru", "eldoret"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg" },
