@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg" alt="Malta">
 </a>
 
-The `public contributions` by users in Malta on `2021/6/16 3:04 PM UTC`. This list contains users from `Malta` and cities `Valletta` `Sliema` `Victoria` `Saint-pauls-bay`.
+The `public contributions` by users in Malta on `2021/6/18 8:46 AM UTC`. This list contains users from `Malta` and cities `Valletta` `Sliema` `Victoria` `Saint-pauls-bay`.
 
-There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `675 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `1000 users`  in Malta. You need at least `5 followers` to be on this list.
 
@@ -107,7 +107,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ripienaar">ripienaar</a></td>
 		<td>Malta</td>
-		<td>4547</td>
+		<td>4550</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -120,7 +120,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Victoria , BC</td>
-		<td>4109</td>
+		<td>4117</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -133,7 +133,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/alanagius4">alanagius4</a></td>
 		<td>Malta</td>
-		<td>3478</td>
+		<td>3499</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -146,7 +146,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
-		<td>2914</td>
+		<td>2918</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -159,7 +159,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC, Canada</td>
-		<td>2810</td>
+		<td>2813</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -172,7 +172,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Realityloop Pty Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Ballarat, Victoria, Australia</td>
-		<td>2329</td>
+		<td>2357</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -185,7 +185,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
-		<td>2226</td>
+		<td>2236</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -198,7 +198,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Walker Software </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC, Canada</td>
-		<td>2122</td>
+		<td>2141</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -224,7 +224,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Button, Inc </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
-		<td>1885</td>
+		<td>1914</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -237,23 +237,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>1crm Systems Corp. </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC, Canada</td>
-		<td>1806</td>
+		<td>1809</td>
 	</tr>
 	<tr>
 		<td>12</td>
-		<td>
-			<a href="https://github.com/nikola-rados">
-				<img src="https://avatars.githubusercontent.com/u/26128992?s=72&u=07fa345635abe5ec65960a9e05620435086ffece&v=4" width="24" alt="Avatar of nikola-rados"> nikola-rados
-			</a><br/>
-			Nik Radoš
-		</td>
-		<td>@pacificclimate </td>
-		<td>No Twitter Username</td>
-		<td>Victoria, BC</td>
-		<td>1635</td>
-	</tr>
-	<tr>
-		<td>13</td>
 		<td>
 			<a href="https://github.com/Lane">
 				<img src="https://avatars.githubusercontent.com/u/21034?s=72&v=4" width="24" alt="Avatar of Lane"> Lane
@@ -263,7 +250,20 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/laneolson">laneolson</a></td>
 		<td>Victoria, BC</td>
-		<td>1629</td>
+		<td>1655</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
+			<a href="https://github.com/nikola-rados">
+				<img src="https://avatars.githubusercontent.com/u/26128992?s=72&u=07fa345635abe5ec65960a9e05620435086ffece&v=4" width="24" alt="Avatar of nikola-rados"> nikola-rados
+			</a><br/>
+			Nik Radoš
+		</td>
+		<td>@pacificclimate </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>1654</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -276,10 +276,23 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>@quartech  </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, Canada</td>
-		<td>1587</td>
+		<td>1596</td>
 	</tr>
 	<tr>
 		<td>15</td>
+		<td>
+			<a href="https://github.com/esune">
+				<img src="https://avatars.githubusercontent.com/u/2395873?s=72&v=4" width="24" alt="Avatar of esune"> esune
+			</a><br/>
+			Emiliano Suñé
+		</td>
+		<td>@quartech  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>1596</td>
+	</tr>
+	<tr>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/heyheyhello">
 				<img src="https://avatars.githubusercontent.com/u/44614862?s=72&u=ceea0b22beca267aeea4876c6a8e1e416dd946bf&v=4" width="24" alt="Avatar of heyheyhello"> heyheyhello
@@ -289,10 +302,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Discord Plush#4755 </td>
 		<td>No Twitter Username</td>
 		<td>Victoria BC</td>
-		<td>1491</td>
+		<td>1492</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/jklymak">
 				<img src="https://avatars.githubusercontent.com/u/1562854?s=72&u=d668aa96947283763b2be0c2589dfb9e1671b159&v=4" width="24" alt="Avatar of jklymak"> jklymak
@@ -302,10 +315,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>University Of Victoria </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, B.C., Canada</td>
-		<td>1448</td>
+		<td>1462</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/samhwang">
 				<img src="https://avatars.githubusercontent.com/u/4188758?s=72&u=9286a5c9334a7987c585d5a7fea7781a6974d039&v=4" width="24" alt="Avatar of samhwang"> samhwang
@@ -315,10 +328,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Hertz @flexicar || Vait<br/>@viet-aus-it<br/></td>
 		<td>No Twitter Username</td>
 		<td>Melbourne, Victoria, Australia</td>
-		<td>1445</td>
+		<td>1457</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/emitanaka">
 				<img src="https://avatars.githubusercontent.com/u/7620319?s=72&u=ace9d5aab04e5413b19580c8092bfe6caade3535&v=4" width="24" alt="Avatar of emitanaka"> emitanaka
@@ -328,10 +341,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Monash University </td>
 		<td><a href="https://twitter.com/statsgen">statsgen</a></td>
 		<td>Melbourne, Victoria</td>
-		<td>1438</td>
+		<td>1447</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>20</td>
 		<td>
 			<a href="https://github.com/ashkanx">
 				<img src="https://avatars.githubusercontent.com/u/4541182?s=72&v=4" width="24" alt="Avatar of ashkanx"> ashkanx
@@ -344,7 +357,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>1433</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>21</td>
 		<td>
 			<a href="https://github.com/FeodorFitsner">
 				<img src="https://avatars.githubusercontent.com/u/5041459?s=72&u=b4b8f5ce2f83d0a9b2f8d65e00c6f5c6ab9bbc4c&v=4" width="24" alt="Avatar of FeodorFitsner"> FeodorFitsner
@@ -354,10 +367,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Appveyor Systems Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
-		<td>1381</td>
+		<td>1382</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/alexcb">
 				<img src="https://avatars.githubusercontent.com/u/1806823?s=72&u=57795e187969c4ecd8a9e7ec65bd7b8ae352b4a8&v=4" width="24" alt="Avatar of alexcb"> alexcb
@@ -367,20 +380,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC, Canada</td>
-		<td>1339</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
-			<a href="https://github.com/silvandiepen">
-				<img src="https://avatars.githubusercontent.com/u/5363051?s=72&u=df92eea938ea5e9c676eb4d7641706520c87df05&v=4" width="24" alt="Avatar of silvandiepen"> silvandiepen
-			</a><br/>
-			Sil van Diepen
-		</td>
-		<td>Sil Van Diepen </td>
-		<td><a href="https://twitter.com/silvandiepen">silvandiepen</a></td>
-		<td>Malta</td>
-		<td>1307</td>
+		<td>1345</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -393,10 +393,23 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Avocette </td>
 		<td><a href="https://twitter.com/MrJujaga">MrJujaga</a></td>
 		<td>Victoria, BC</td>
-		<td>1300</td>
+		<td>1316</td>
 	</tr>
 	<tr>
 		<td>24</td>
+		<td>
+			<a href="https://github.com/silvandiepen">
+				<img src="https://avatars.githubusercontent.com/u/5363051?s=72&u=df92eea938ea5e9c676eb4d7641706520c87df05&v=4" width="24" alt="Avatar of silvandiepen"> silvandiepen
+			</a><br/>
+			Sil van Diepen
+		</td>
+		<td>Sil Van Diepen </td>
+		<td><a href="https://twitter.com/silvandiepen">silvandiepen</a></td>
+		<td>Malta</td>
+		<td>1307</td>
+	</tr>
+	<tr>
+		<td>25</td>
 		<td>
 			<a href="https://github.com/jiinmoon">
 				<img src="https://avatars.githubusercontent.com/u/18504000?s=72&u=bc9673bcee69f73d593d25e0dcf01f4ea0f3e288&v=4" width="24" alt="Avatar of jiinmoon"> jiinmoon
@@ -406,20 +419,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
-		<td>1238</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
-			<a href="https://github.com/Kukks">
-				<img src="https://avatars.githubusercontent.com/u/1818366?s=72&u=c3db16109eea21ab3bfc626ea0d6146d5a69bd83&v=4" width="24" alt="Avatar of Kukks"> Kukks
-			</a><br/>
-			Andrew Camilleri
-		</td>
-		<td>@btcpayserver  </td>
-		<td><a href="https://twitter.com/mrkukks">mrkukks</a></td>
-		<td>Malta</td>
-		<td>1227</td>
+		<td>1239</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -432,10 +432,23 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>@virtool  </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC, Canada</td>
-		<td>1226</td>
+		<td>1234</td>
 	</tr>
 	<tr>
 		<td>27</td>
+		<td>
+			<a href="https://github.com/Kukks">
+				<img src="https://avatars.githubusercontent.com/u/1818366?s=72&u=c3db16109eea21ab3bfc626ea0d6146d5a69bd83&v=4" width="24" alt="Avatar of Kukks"> Kukks
+			</a><br/>
+			Andrew Camilleri
+		</td>
+		<td>@btcpayserver  </td>
+		<td><a href="https://twitter.com/mrkukks">mrkukks</a></td>
+		<td>Malta</td>
+		<td>1228</td>
+	</tr>
+	<tr>
+		<td>28</td>
 		<td>
 			<a href="https://github.com/ianco">
 				<img src="https://avatars.githubusercontent.com/u/1852309?s=72&v=4" width="24" alt="Avatar of ianco"> ianco
@@ -445,10 +458,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Anon Solutions </td>
 		<td>No Twitter Username</td>
 		<td>Victoria</td>
-		<td>1203</td>
+		<td>1204</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/TylerBarnes">
 				<img src="https://avatars.githubusercontent.com/u/14190743?s=72&u=ae435bcf9332c361caec8dc2883e9b32451e6419&v=4" width="24" alt="Avatar of TylerBarnes"> TylerBarnes
@@ -461,7 +474,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>1191</td>
 	</tr>
 	<tr>
-		<td>29</td>
+		<td>30</td>
 		<td>
 			<a href="https://github.com/carsonfarmer">
 				<img src="https://avatars.githubusercontent.com/u/1220613?s=72&u=8048272c1509d02cdeabb6ae561bf1c697869a33&v=4" width="24" alt="Avatar of carsonfarmer"> carsonfarmer
@@ -471,10 +484,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>@textileio </td>
 		<td><a href="https://twitter.com/carsonfarmer">carsonfarmer</a></td>
 		<td>Victoria, B.C., Canada</td>
-		<td>1162</td>
+		<td>1163</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/ty2k">
 				<img src="https://avatars.githubusercontent.com/u/25143706?s=72&u=09a47134efb978598caf8670c36090b290534d59&v=4" width="24" alt="Avatar of ty2k"> ty2k
@@ -487,7 +500,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>1154</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/migueldingli1997">
 				<img src="https://avatars.githubusercontent.com/u/23614954?s=72&u=8936447153a1df29b443a06116a5ccf3f3a2669d&v=4" width="24" alt="Avatar of migueldingli1997"> migueldingli1997
@@ -500,19 +513,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>1092</td>
 	</tr>
 	<tr>
-		<td>32</td>
-		<td>
-			<a href="https://github.com/julesyoungberg">
-				<img src="https://avatars.githubusercontent.com/u/11079939?s=72&u=1f482c2710a08432d811ba77d7f99f27f78ee5f2&v=4" width="24" alt="Avatar of julesyoungberg"> julesyoungberg
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Victoria, B.C.</td>
-		<td>1082</td>
-	</tr>
-	<tr>
 		<td>33</td>
 		<td>
 			<a href="https://github.com/jdtoombs">
@@ -523,7 +523,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>@quartech </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
-		<td>1077</td>
+		<td>1082</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -536,7 +536,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Ntt Data Services </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
-		<td>1062</td>
+		<td>1064</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -562,20 +562,20 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>@atlauncher  </td>
 		<td><a href="https://twitter.com/ryanallmighty1">ryanallmighty1</a></td>
 		<td>Victoria, Australia</td>
-		<td>1030</td>
+		<td>1031</td>
 	</tr>
 	<tr>
 		<td>37</td>
 		<td>
-			<a href="https://github.com/DerekRoberts">
-				<img src="https://avatars.githubusercontent.com/u/4391600?s=72&u=ea31889998e19311aea8c9037c5916a4a7f842f5&v=4" width="24" alt="Avatar of DerekRoberts"> DerekRoberts
+			<a href="https://github.com/XedinUnknown">
+				<img src="https://avatars.githubusercontent.com/u/1428973?s=72&v=4" width="24" alt="Avatar of XedinUnknown"> XedinUnknown
 			</a><br/>
-			Derek Roberts
+			Anton Ukhanev
 		</td>
-		<td>Bc Government </td>
-		<td>No Twitter Username</td>
-		<td>Victoria, BC, Canada</td>
-		<td>979</td>
+		<td>@dhii, @rebelcode, @inpsyde </td>
+		<td><a href="https://twitter.com/xedinunknown">xedinunknown</a></td>
+		<td>Malta</td>
+		<td>992</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -588,20 +588,20 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Ntt Data Services </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
-		<td>977</td>
+		<td>987</td>
 	</tr>
 	<tr>
 		<td>39</td>
 		<td>
-			<a href="https://github.com/XedinUnknown">
-				<img src="https://avatars.githubusercontent.com/u/1428973?s=72&v=4" width="24" alt="Avatar of XedinUnknown"> XedinUnknown
+			<a href="https://github.com/DerekRoberts">
+				<img src="https://avatars.githubusercontent.com/u/4391600?s=72&u=ea31889998e19311aea8c9037c5916a4a7f842f5&v=4" width="24" alt="Avatar of DerekRoberts"> DerekRoberts
 			</a><br/>
-			Anton Ukhanev
+			Derek Roberts
 		</td>
-		<td>@dhii, @rebelcode, @inpsyde </td>
-		<td><a href="https://twitter.com/xedinunknown">xedinunknown</a></td>
-		<td>Malta</td>
-		<td>952</td>
+		<td>Bc Government </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>979</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -645,19 +645,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>43</td>
 		<td>
-			<a href="https://github.com/gnunn1">
-				<img src="https://avatars.githubusercontent.com/u/9358238?s=72&u=2e00e76b61e85b5d613580baf54792ef10069629&v=4" width="24" alt="Avatar of gnunn1"> gnunn1
-			</a><br/>
-			Gerald Nunn
-		</td>
-		<td>Gexperts </td>
-		<td>No Twitter Username</td>
-		<td>Victoria, British Columbia, Canada</td>
-		<td>908</td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>
 			<a href="https://github.com/igboyes">
 				<img src="https://avatars.githubusercontent.com/u/5943558?s=72&u=2653ab72e8175dbe78c3bb236eb8943b880a1131&v=4" width="24" alt="Avatar of igboyes"> igboyes
 			</a><br/>
@@ -666,10 +653,36 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Canadian Food Inspection Agency<br/></td>
 		<td>No Twitter Username</td>
 		<td>Victoria</td>
-		<td>906</td>
+		<td>918</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
+			<a href="https://github.com/gnunn1">
+				<img src="https://avatars.githubusercontent.com/u/9358238?s=72&u=2e00e76b61e85b5d613580baf54792ef10069629&v=4" width="24" alt="Avatar of gnunn1"> gnunn1
+			</a><br/>
+			Gerald Nunn
+		</td>
+		<td>Gexperts </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia, Canada</td>
+		<td>913</td>
 	</tr>
 	<tr>
 		<td>45</td>
+		<td>
+			<a href="https://github.com/Slugger70">
+				<img src="https://avatars.githubusercontent.com/u/1740254?s=72&u=9eabfe8d0e92df1a1101cf9f477b85a532d60814&v=4" width="24" alt="Avatar of Slugger70"> Slugger70
+			</a><br/>
+			No Name
+		</td>
+		<td>Melbourne Bioinformatics, University Of<br/>Melbourne<br/></td>
+		<td><a href="https://twitter.com/simongladman1">simongladman1</a></td>
+		<td>Parkville, Victoria, Australia</td>
+		<td>902</td>
+	</tr>
+	<tr>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/mpeyper">
 				<img src="https://avatars.githubusercontent.com/u/23029903?s=72&u=86ef88261fe287ecea4c5d678c11abb4e8d40222&v=4" width="24" alt="Avatar of mpeyper"> mpeyper
@@ -682,46 +695,20 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>901</td>
 	</tr>
 	<tr>
-		<td>46</td>
-		<td>
-			<a href="https://github.com/Slugger70">
-				<img src="https://avatars.githubusercontent.com/u/1740254?s=72&u=9eabfe8d0e92df1a1101cf9f477b85a532d60814&v=4" width="24" alt="Avatar of Slugger70"> Slugger70
-			</a><br/>
-			No Name
-		</td>
-		<td>Melbourne Bioinformatics, University Of<br/>Melbourne<br/></td>
-		<td><a href="https://twitter.com/simongladman1">simongladman1</a></td>
-		<td>Parkville, Victoria, Australia</td>
-		<td>892</td>
-	</tr>
-	<tr>
 		<td>47</td>
 		<td>
-			<a href="https://github.com/Shnupbups">
-				<img src="https://avatars.githubusercontent.com/u/2484721?s=72&u=539fca4a831ee0cde6e45c016bad06cad768e1f5&v=4" width="24" alt="Avatar of Shnupbups"> Shnupbups
+			<a href="https://github.com/JeMorriso">
+				<img src="https://avatars.githubusercontent.com/u/36835728?s=72&u=c0eb99c97d89d2123b87b39b03990fd55ae8e191&v=4" width="24" alt="Avatar of JeMorriso"> JeMorriso
 			</a><br/>
-			No Name
+			Jeremy Morrison
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Victoria, Australia</td>
-		<td>892</td>
+		<td>Victoria, BC</td>
+		<td>896</td>
 	</tr>
 	<tr>
 		<td>48</td>
-		<td>
-			<a href="https://github.com/brainstorm">
-				<img src="https://avatars.githubusercontent.com/u/175587?s=72&v=4" width="24" alt="Avatar of brainstorm"> brainstorm
-			</a><br/>
-			Roman Valls Guimera
-		</td>
-		<td>University Of Melbourne </td>
-		<td><a href="https://twitter.com/braincode">braincode</a></td>
-		<td>Melbourne, Victoria, Australia</td>
-		<td>882</td>
-	</tr>
-	<tr>
-		<td>49</td>
 		<td>
 			<a href="https://github.com/bryce-mcmath">
 				<img src="https://avatars.githubusercontent.com/u/32586431?s=72&v=4" width="24" alt="Avatar of bryce-mcmath"> bryce-mcmath
@@ -731,10 +718,36 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Maximus Canada </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
-		<td>875</td>
+		<td>895</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>
+			<a href="https://github.com/Shnupbups">
+				<img src="https://avatars.githubusercontent.com/u/2484721?s=72&u=539fca4a831ee0cde6e45c016bad06cad768e1f5&v=4" width="24" alt="Avatar of Shnupbups"> Shnupbups
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>890</td>
 	</tr>
 	<tr>
 		<td>50</td>
+		<td>
+			<a href="https://github.com/brainstorm">
+				<img src="https://avatars.githubusercontent.com/u/175587?s=72&v=4" width="24" alt="Avatar of brainstorm"> brainstorm
+			</a><br/>
+			Roman Valls Guimera
+		</td>
+		<td>University Of Melbourne </td>
+		<td><a href="https://twitter.com/braincode">braincode</a></td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>883</td>
+	</tr>
+	<tr>
+		<td>51</td>
 		<td>
 			<a href="https://github.com/maxorlovsky">
 				<img src="https://avatars.githubusercontent.com/u/7931620?s=72&u=2ea13c007e351e0f05939e83aba6e7195912722e&v=4" width="24" alt="Avatar of maxorlovsky"> maxorlovsky
@@ -744,10 +757,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Chiliz & Socios.com </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>836</td>
+		<td>847</td>
 	</tr>
 	<tr>
-		<td>51</td>
+		<td>52</td>
 		<td>
 			<a href="https://github.com/chase-moskal">
 				<img src="https://avatars.githubusercontent.com/u/7145590?s=72&u=c6bc9681f76ac267f690a7be4b331fc568926a15&v=4" width="24" alt="Avatar of chase-moskal"> chase-moskal
@@ -760,7 +773,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>835</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>53</td>
 		<td>
 			<a href="https://github.com/nspyrison">
 				<img src="https://avatars.githubusercontent.com/u/6053779?s=72&u=e0bbc9335eca8adcb38cf038c6bd4357b8d50723&v=4" width="24" alt="Avatar of nspyrison"> nspyrison
@@ -770,10 +783,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nspyrison">nspyrison</a></td>
 		<td>Victoria, Australia</td>
-		<td>817</td>
+		<td>823</td>
 	</tr>
 	<tr>
-		<td>53</td>
+		<td>54</td>
 		<td>
 			<a href="https://github.com/mosabua">
 				<img src="https://avatars.githubusercontent.com/u/145658?s=72&v=4" width="24" alt="Avatar of mosabua"> mosabua
@@ -783,10 +796,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Simpligility Technologies Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC, Canada</td>
-		<td>796</td>
+		<td>799</td>
 	</tr>
 	<tr>
-		<td>54</td>
+		<td>55</td>
 		<td>
 			<a href="https://github.com/james-d-elliott">
 				<img src="https://avatars.githubusercontent.com/u/3903683?s=72&u=1c67a520fcc3d480d2132a4a63a4a1b0a708edef&v=4" width="24" alt="Avatar of james-d-elliott"> james-d-elliott
@@ -796,10 +809,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Victoria, Australia</td>
-		<td>782</td>
+		<td>798</td>
 	</tr>
 	<tr>
-		<td>55</td>
+		<td>56</td>
 		<td>
 			<a href="https://github.com/ianharrigan">
 				<img src="https://avatars.githubusercontent.com/u/3024242?s=72&u=caabca6edda15213eb45a5ab5afb4a863de25e69&v=4" width="24" alt="Avatar of ianharrigan"> ianharrigan
@@ -812,7 +825,20 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>772</td>
 	</tr>
 	<tr>
-		<td>56</td>
+		<td>57</td>
+		<td>
+			<a href="https://github.com/jhawthorn">
+				<img src="https://avatars.githubusercontent.com/u/131752?s=72&u=32ddf1119b1d189c9bd241a721b36ea01c29f61e&v=4" width="24" alt="Avatar of jhawthorn"> jhawthorn
+			</a><br/>
+			John Hawthorn
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jhawthorn">jhawthorn</a></td>
+		<td>Victoria, Canada</td>
+		<td>763</td>
+	</tr>
+	<tr>
+		<td>58</td>
 		<td>
 			<a href="https://github.com/hermitAT">
 				<img src="https://avatars.githubusercontent.com/u/70076508?s=72&u=9fa99ca13635bdd6d2779609992d3333ce54c475&v=4" width="24" alt="Avatar of hermitAT"> hermitAT
@@ -825,20 +851,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>762</td>
 	</tr>
 	<tr>
-		<td>57</td>
-		<td>
-			<a href="https://github.com/jhawthorn">
-				<img src="https://avatars.githubusercontent.com/u/131752?s=72&u=32ddf1119b1d189c9bd241a721b36ea01c29f61e&v=4" width="24" alt="Avatar of jhawthorn"> jhawthorn
-			</a><br/>
-			John Hawthorn
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jhawthorn">jhawthorn</a></td>
-		<td>Victoria, Canada</td>
-		<td>757</td>
-	</tr>
-	<tr>
-		<td>58</td>
+		<td>59</td>
 		<td>
 			<a href="https://github.com/ralish">
 				<img src="https://avatars.githubusercontent.com/u/3214803?s=72&u=036c408899de78801c3ba44ad493addb7eb66f9e&v=4" width="24" alt="Avatar of ralish"> ralish
@@ -849,19 +862,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Melbourne, Victoria, Australia</td>
 		<td>750</td>
-	</tr>
-	<tr>
-		<td>59</td>
-		<td>
-			<a href="https://github.com/JeMorriso">
-				<img src="https://avatars.githubusercontent.com/u/36835728?s=72&u=c0eb99c97d89d2123b87b39b03990fd55ae8e191&v=4" width="24" alt="Avatar of JeMorriso"> JeMorriso
-			</a><br/>
-			Jeremy Morrison
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Victoria, BC</td>
-		<td>749</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -887,7 +887,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Full-stack Developer </td>
 		<td><a href="https://twitter.com/MoisesH42060050">MoisesH42060050</a></td>
 		<td>Malta</td>
-		<td>671</td>
+		<td>685</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -897,10 +897,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 			</a><br/>
 			Calculus
 		</td>
-		<td>@piccgames  </td>
+		<td>No Company</td>
 		<td><a href="https://twitter.com/Calculamatrise">Calculamatrise</a></td>
 		<td>Victoria BC Canada</td>
-		<td>660</td>
+		<td>665</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -913,7 +913,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>@freshworksstudio  </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
-		<td>658</td>
+		<td>659</td>
 	</tr>
 	<tr>
 		<td>64</td>
@@ -965,7 +965,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Entrepreneur/freelan </td>
 		<td>No Twitter Username</td>
 		<td>Hungary - Malta</td>
-		<td>617</td>
+		<td>618</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -983,19 +983,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>69</td>
 		<td>
-			<a href="https://github.com/dreamxinxcode">
-				<img src="https://avatars.githubusercontent.com/u/42306596?s=72&u=7d58fde4a78a1f6f73a306a9f8f741f9f356baa7&v=4" width="24" alt="Avatar of dreamxinxcode"> dreamxinxcode
-			</a><br/>
-			Brandon Lecky
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Victoria, British Columbia</td>
-		<td>612</td>
-	</tr>
-	<tr>
-		<td>70</td>
-		<td>
 			<a href="https://github.com/myzhang1029">
 				<img src="https://avatars.githubusercontent.com/u/23428852?s=72&u=e374cab2650e8847922dd648074bd109bb2be5ba&v=4" width="24" alt="Avatar of myzhang1029"> myzhang1029
 			</a><br/>
@@ -1007,7 +994,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>608</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/dwerner">
 				<img src="https://avatars.githubusercontent.com/u/1497784?s=72&u=79bef3ee5e428ff005c7143ec8f170e26fb9af6f&v=4" width="24" alt="Avatar of dwerner"> dwerner
@@ -1020,7 +1007,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>605</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/diegomarzo">
 				<img src="https://avatars.githubusercontent.com/u/4606005?s=72&u=46939f1d980739e3a736cf2e748225fad4d52df6&v=4" width="24" alt="Avatar of diegomarzo"> diegomarzo
@@ -1033,7 +1020,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>602</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/hansori01">
 				<img src="https://avatars.githubusercontent.com/u/75107745?s=72&u=4f7bd24c5600d528e7014e11a916c50af0397eda&v=4" width="24" alt="Avatar of hansori01"> hansori01
@@ -1046,7 +1033,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>591</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/sam-warren">
 				<img src="https://avatars.githubusercontent.com/u/35615145?s=72&u=112d36910811c14a97f5dff4ece2770e78871c83&v=4" width="24" alt="Avatar of sam-warren"> sam-warren
@@ -1059,7 +1046,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>591</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/webgismd">
 				<img src="https://avatars.githubusercontent.com/u/8550351?s=72&u=ccac26fbb498645cd4264f28a25ac6ba79ef9800&v=4" width="24" alt="Avatar of webgismd"> webgismd
@@ -1072,7 +1059,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>591</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/ascott">
 				<img src="https://avatars.githubusercontent.com/u/130878?s=72&u=b0e29b76364f5df35512008070297e09b6bb7bda&v=4" width="24" alt="Avatar of ascott"> ascott
@@ -1085,7 +1072,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>582</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/msbit">
 				<img src="https://avatars.githubusercontent.com/u/1694533?s=72&u=5711aee0561526c970d9614404478474779997db&v=4" width="24" alt="Avatar of msbit"> msbit
@@ -1095,10 +1082,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ballarat, Victoria, Australia</td>
-		<td>576</td>
+		<td>579</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/pramsey">
 				<img src="https://avatars.githubusercontent.com/u/113883?s=72&u=e802bae3bb7a5b16e787477be9b4e1cdb6036245&v=4" width="24" alt="Avatar of pramsey"> pramsey
@@ -1108,23 +1095,23 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>@crunchydata </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC, Canada</td>
-		<td>574</td>
+		<td>578</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>
+			<a href="https://github.com/SpirosStampoulis">
+				<img src="https://avatars.githubusercontent.com/u/35004391?s=72&u=f87b9003df4faa90a13aea796840fbf458b2b59c&v=4" width="24" alt="Avatar of SpirosStampoulis"> SpirosStampoulis
+			</a><br/>
+			Spiros Stampoulis 
+		</td>
+		<td>Web International Services </td>
+		<td><a href="https://twitter.com/StampoulisS">StampoulisS</a></td>
+		<td>Malta</td>
+		<td>564</td>
 	</tr>
 	<tr>
 		<td>79</td>
-		<td>
-			<a href="https://github.com/Huskehhh">
-				<img src="https://avatars.githubusercontent.com/u/1211903?s=72&u=e7acc2376f6b262271f382119443c092fec99132&v=4" width="24" alt="Avatar of Huskehhh"> Huskehhh
-			</a><br/>
-			Jordyn Newnham
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Melbourne, Victoria</td>
-		<td>566</td>
-	</tr>
-	<tr>
-		<td>80</td>
 		<td>
 			<a href="https://github.com/ateucher">
 				<img src="https://avatars.githubusercontent.com/u/2816635?s=72&v=4" width="24" alt="Avatar of ateucher"> ateucher
@@ -1137,20 +1124,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>562</td>
 	</tr>
 	<tr>
-		<td>81</td>
-		<td>
-			<a href="https://github.com/SpirosStampoulis">
-				<img src="https://avatars.githubusercontent.com/u/35004391?s=72&u=f87b9003df4faa90a13aea796840fbf458b2b59c&v=4" width="24" alt="Avatar of SpirosStampoulis"> SpirosStampoulis
-			</a><br/>
-			Spiros Stampoulis 
-		</td>
-		<td>Web International Services </td>
-		<td><a href="https://twitter.com/StampoulisS">StampoulisS</a></td>
-		<td>Malta</td>
-		<td>561</td>
-	</tr>
-	<tr>
-		<td>82</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/jodygarnett">
 				<img src="https://avatars.githubusercontent.com/u/629681?s=72&u=b81c1ec2cf8e70a2ade57b8ef08c7e0a333e5edb&v=4" width="24" alt="Avatar of jodygarnett"> jodygarnett
@@ -1163,7 +1137,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>558</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/at88mph">
 				<img src="https://avatars.githubusercontent.com/u/1671908?s=72&u=ee570999939c720a4b5df292a190e6729a3bfc1b&v=4" width="24" alt="Avatar of at88mph"> at88mph
@@ -1176,7 +1150,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>548</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/pbolduc">
 				<img src="https://avatars.githubusercontent.com/u/1844480?s=72&u=868662b7c66853c3dcdd872121940bfa5ba92cf7&v=4" width="24" alt="Avatar of pbolduc"> pbolduc
@@ -1186,10 +1160,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Ntt Data Services </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
-		<td>538</td>
+		<td>547</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/stephhazlitt">
 				<img src="https://avatars.githubusercontent.com/u/7143861?s=72&u=318ce01f882f44e27c1127f34df09e081d5b0cbb&v=4" width="24" alt="Avatar of stephhazlitt"> stephhazlitt
@@ -1202,7 +1176,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>537</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/Noah-Silvera">
 				<img src="https://avatars.githubusercontent.com/u/8933450?s=72&u=d3853849ef6833546ef969563e44ce65973f5265&v=4" width="24" alt="Avatar of Noah-Silvera"> Noah-Silvera
@@ -1215,7 +1189,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>536</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/BrendonCurmi">
 				<img src="https://avatars.githubusercontent.com/u/40634809?s=72&u=6db073f00b644694ba11f69dc375d9d18236314f&v=4" width="24" alt="Avatar of BrendonCurmi"> BrendonCurmi
@@ -1228,7 +1202,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>528</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/zeelog">
 				<img src="https://avatars.githubusercontent.com/u/2109514?s=72&u=c3665b5a801700bde1994f61193060523bd6dc27&v=4" width="24" alt="Avatar of zeelog"> zeelog
@@ -1241,7 +1215,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>525</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/erik-trantt">
 				<img src="https://avatars.githubusercontent.com/u/44339322?s=72&u=2df2f9197675c4f258bda09879e432eb2c2f0d64&v=4" width="24" alt="Avatar of erik-trantt"> erik-trantt
@@ -1254,7 +1228,20 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>518</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>88</td>
+		<td>
+			<a href="https://github.com/Huskehhh">
+				<img src="https://avatars.githubusercontent.com/u/1211903?s=72&u=e7acc2376f6b262271f382119443c092fec99132&v=4" width="24" alt="Avatar of Huskehhh"> Huskehhh
+			</a><br/>
+			Jordyn Newnham
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>513</td>
+	</tr>
+	<tr>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/ijiraq">
 				<img src="https://avatars.githubusercontent.com/u/1132123?s=72&v=4" width="24" alt="Avatar of ijiraq"> ijiraq
@@ -1267,7 +1254,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>507</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/Lestropie">
 				<img src="https://avatars.githubusercontent.com/u/5637955?s=72&u=3df3cbc46ceb50349a85f53cded38ccf9f0e4b0a&v=4" width="24" alt="Avatar of Lestropie"> Lestropie
@@ -1280,7 +1267,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>501</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/KyGost">
 				<img src="https://avatars.githubusercontent.com/u/12588894?s=72&u=ea0831a885c3b9a5bc33c24328fd522ad2fd0eea&v=4" width="24" alt="Avatar of KyGost"> KyGost
@@ -1290,10 +1277,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Melbourne, Victoria, Australia, Earth</td>
-		<td>493</td>
+		<td>498</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/alanvardy">
 				<img src="https://avatars.githubusercontent.com/u/38899847?s=72&u=5b677496b8661996f5e3a4a133ec0dac4998e894&v=4" width="24" alt="Avatar of alanvardy"> alanvardy
@@ -1303,10 +1290,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Victoria, British Columbia, Canada</td>
-		<td>483</td>
+		<td>484</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/bndnio">
 				<img src="https://avatars.githubusercontent.com/u/11308382?s=72&u=fa195b37eb99f0b117093f18d03292d5c97333d6&v=4" width="24" alt="Avatar of bndnio"> bndnio
@@ -1317,6 +1304,19 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td><a href="https://twitter.com/bndnio">bndnio</a></td>
 		<td>Victoria, BC</td>
 		<td>472</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
+			<a href="https://github.com/caggles">
+				<img src="https://avatars.githubusercontent.com/u/10466412?s=72&u=850f1d91f83944d6b8b669a7e041333884c89b4e&v=4" width="24" alt="Avatar of caggles"> caggles
+			</a><br/>
+			Cailey Jones
+		</td>
+		<td>@bcdevops </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>471</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -1334,19 +1334,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>96</td>
 		<td>
-			<a href="https://github.com/caggles">
-				<img src="https://avatars.githubusercontent.com/u/10466412?s=72&u=850f1d91f83944d6b8b669a7e041333884c89b4e&v=4" width="24" alt="Avatar of caggles"> caggles
-			</a><br/>
-			Cailey Jones
-		</td>
-		<td>@bcdevops </td>
-		<td>No Twitter Username</td>
-		<td>Victoria, BC</td>
-		<td>469</td>
-	</tr>
-	<tr>
-		<td>97</td>
-		<td>
 			<a href="https://github.com/JohYoshida">
 				<img src="https://avatars.githubusercontent.com/u/20272417?s=72&u=a7fa8495919709a42387d5b5f80c9cede5c841e8&v=4" width="24" alt="Avatar of JohYoshida"> JohYoshida
 			</a><br/>
@@ -1356,6 +1343,19 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
 		<td>469</td>
+	</tr>
+	<tr>
+		<td>97</td>
+		<td>
+			<a href="https://github.com/naomiaro">
+				<img src="https://avatars.githubusercontent.com/u/35253?s=72&u=e3578ce46c2ece49d5957f8c7b0c0892ded31f0b&v=4" width="24" alt="Avatar of naomiaro"> naomiaro
+			</a><br/>
+			Naomi
+		</td>
+		<td>Province Of British Columbia<br/></td>
+		<td><a href="https://twitter.com/naomiaro">naomiaro</a></td>
+		<td>Victoria, BC, Turtle Island</td>
+		<td>466</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -1373,19 +1373,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>99</td>
 		<td>
-			<a href="https://github.com/naomiaro">
-				<img src="https://avatars.githubusercontent.com/u/35253?s=72&u=e3578ce46c2ece49d5957f8c7b0c0892ded31f0b&v=4" width="24" alt="Avatar of naomiaro"> naomiaro
-			</a><br/>
-			Naomi
-		</td>
-		<td>Province Of British Columbia<br/></td>
-		<td><a href="https://twitter.com/naomiaro">naomiaro</a></td>
-		<td>Victoria, BC, Turtle Island</td>
-		<td>461</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
 			<a href="https://github.com/liamdawson">
 				<img src="https://avatars.githubusercontent.com/u/760143?s=72&v=4" width="24" alt="Avatar of liamdawson"> liamdawson
 			</a><br/>
@@ -1395,6 +1382,19 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Melbourne, Victoria, Australia</td>
 		<td>460</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>
+			<a href="https://github.com/mtreacy002">
+				<img src="https://avatars.githubusercontent.com/u/29667122?s=72&u=79fd6011a482bde9094697b9d7b3e4a460df6574&v=4" width="24" alt="Avatar of mtreacy002"> mtreacy002
+			</a><br/>
+			Maya Treacy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>457</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -1412,19 +1412,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>102</td>
 		<td>
-			<a href="https://github.com/mtreacy002">
-				<img src="https://avatars.githubusercontent.com/u/29667122?s=72&u=79fd6011a482bde9094697b9d7b3e4a460df6574&v=4" width="24" alt="Avatar of mtreacy002"> mtreacy002
-			</a><br/>
-			Maya Treacy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Victoria, Australia</td>
-		<td>453</td>
-	</tr>
-	<tr>
-		<td>103</td>
-		<td>
 			<a href="https://github.com/MatrixMike">
 				<img src="https://avatars.githubusercontent.com/u/4546872?s=72&u=6c8aba88fb6f7b870d5db15ca5b69b16bd9a7a9f&v=4" width="24" alt="Avatar of MatrixMike"> MatrixMike
 			</a><br/>
@@ -1436,7 +1423,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>451</td>
 	</tr>
 	<tr>
-		<td>104</td>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/JoshuaManton">
 				<img src="https://avatars.githubusercontent.com/u/14003017?s=72&u=72e549b952081b30e39c9495479fd7865e9f6b66&v=4" width="24" alt="Avatar of JoshuaManton"> JoshuaManton
@@ -1449,7 +1436,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>450</td>
 	</tr>
 	<tr>
-		<td>105</td>
+		<td>104</td>
 		<td>
 			<a href="https://github.com/davidbonnici1984">
 				<img src="https://avatars.githubusercontent.com/u/905774?s=72&u=729ffe71f4880d189b280d13951da0949555d215&v=4" width="24" alt="Avatar of davidbonnici1984"> davidbonnici1984
@@ -1459,7 +1446,20 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Quickspin </td>
 		<td><a href="https://twitter.com/davidbonnici84">davidbonnici84</a></td>
 		<td>Malta</td>
-		<td>445</td>
+		<td>447</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>
+			<a href="https://github.com/amdprophet">
+				<img src="https://avatars.githubusercontent.com/u/120659?s=72&u=642edd8f0a8223a0174d860960f99cd810490936&v=4" width="24" alt="Avatar of amdprophet"> amdprophet
+			</a><br/>
+			Justin Kolberg
+		</td>
+		<td>@sumologic </td>
+		<td><a href="https://twitter.com/amdprophet">amdprophet</a></td>
+		<td>Victoria, BC, Canada</td>
+		<td>439</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -1477,19 +1477,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>107</td>
 		<td>
-			<a href="https://github.com/amdprophet">
-				<img src="https://avatars.githubusercontent.com/u/120659?s=72&u=642edd8f0a8223a0174d860960f99cd810490936&v=4" width="24" alt="Avatar of amdprophet"> amdprophet
-			</a><br/>
-			Justin Kolberg
-		</td>
-		<td>@sumologic </td>
-		<td><a href="https://twitter.com/amdprophet">amdprophet</a></td>
-		<td>Victoria, BC, Canada</td>
-		<td>435</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
 			<a href="https://github.com/tyrelh">
 				<img src="https://avatars.githubusercontent.com/u/7576351?s=72&u=442751f3a367b6ae74a29659f1582fbb7f3ee57a&v=4" width="24" alt="Avatar of tyrelh"> tyrelh
 			</a><br/>
@@ -1499,6 +1486,19 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td><a href="https://twitter.com/tyrelhiebert">tyrelhiebert</a></td>
 		<td>Victoria, Canada</td>
 		<td>434</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/mark-a-wilson">
+				<img src="https://avatars.githubusercontent.com/u/16946297?s=72&u=085d5041ff4f10664ac037c5f36ff39ff9873640&v=4" width="24" alt="Avatar of mark-a-wilson"> mark-a-wilson
+			</a><br/>
+			Mark Wilson
+		</td>
+		<td>Province Of British Columbia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>433</td>
 	</tr>
 	<tr>
 		<td>109</td>
@@ -1511,7 +1511,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Victoria, British Columbia, Canada</td>
-		<td>434</td>
+		<td>432</td>
 	</tr>
 	<tr>
 		<td>110</td>
@@ -1524,7 +1524,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Victoria, B.C. Canada</td>
-		<td>425</td>
+		<td>430</td>
 	</tr>
 	<tr>
 		<td>111</td>
@@ -1542,19 +1542,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>112</td>
 		<td>
-			<a href="https://github.com/mark-a-wilson">
-				<img src="https://avatars.githubusercontent.com/u/16946297?s=72&u=085d5041ff4f10664ac037c5f36ff39ff9873640&v=4" width="24" alt="Avatar of mark-a-wilson"> mark-a-wilson
-			</a><br/>
-			Mark Wilson
-		</td>
-		<td>Province Of British Columbia<br/></td>
-		<td>No Twitter Username</td>
-		<td>Victoria, Canada</td>
-		<td>417</td>
-	</tr>
-	<tr>
-		<td>113</td>
-		<td>
 			<a href="https://github.com/tomjp90">
 				<img src="https://avatars.githubusercontent.com/u/72062388?s=72&u=5784af0cd9f33745941c594eb38452d48e7986a6&v=4" width="24" alt="Avatar of tomjp90"> tomjp90
 			</a><br/>
@@ -1563,10 +1550,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Melbourne, Victoria, Australia</td>
-		<td>409</td>
+		<td>413</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/connorhsm">
 				<img src="https://avatars.githubusercontent.com/u/20902771?s=72&u=651f99a7177c99fc18d296ea2c5f954d968d4ab9&v=4" width="24" alt="Avatar of connorhsm"> connorhsm
@@ -1577,6 +1564,19 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Victoria, Australia</td>
 		<td>397</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td>
+			<a href="https://github.com/nchlswhttkr">
+				<img src="https://avatars.githubusercontent.com/u/26531118?s=72&u=05bd9a89e7171dbf0ef50167edc5d532d53a401d&v=4" width="24" alt="Avatar of nchlswhttkr"> nchlswhttkr
+			</a><br/>
+			Nicholas Whittaker
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nchlswhttkr">nchlswhttkr</a></td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>395</td>
 	</tr>
 	<tr>
 		<td>115</td>
@@ -1594,19 +1594,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>116</td>
 		<td>
-			<a href="https://github.com/nchlswhttkr">
-				<img src="https://avatars.githubusercontent.com/u/26531118?s=72&u=05bd9a89e7171dbf0ef50167edc5d532d53a401d&v=4" width="24" alt="Avatar of nchlswhttkr"> nchlswhttkr
-			</a><br/>
-			Nicholas Whittaker
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nchlswhttkr">nchlswhttkr</a></td>
-		<td>Melbourne, Victoria, Australia</td>
-		<td>391</td>
-	</tr>
-	<tr>
-		<td>117</td>
-		<td>
 			<a href="https://github.com/arob0017">
 				<img src="https://avatars.githubusercontent.com/u/68887990?s=72&v=4" width="24" alt="Avatar of arob0017"> arob0017
 			</a><br/>
@@ -1618,7 +1605,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>389</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>117</td>
 		<td>
 			<a href="https://github.com/hlainchb">
 				<img src="https://avatars.githubusercontent.com/u/156735?s=72&v=4" width="24" alt="Avatar of hlainchb"> hlainchb
@@ -1628,10 +1615,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Dynamic Solutions Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
-		<td>387</td>
+		<td>388</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/HeatherRemacle">
 				<img src="https://avatars.githubusercontent.com/u/32074968?s=72&u=32919273fe7fafa3bfc4c2d6415d1dfbabbe9664&v=4" width="24" alt="Avatar of HeatherRemacle"> HeatherRemacle
@@ -1644,7 +1631,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>387</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/sordina">
 				<img src="https://avatars.githubusercontent.com/u/92299?s=72&u=85e748cd9662fe42a05623a2c97d22938a7da7da&v=4" width="24" alt="Avatar of sordina"> sordina
@@ -1657,7 +1644,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>376</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/csauve">
 				<img src="https://avatars.githubusercontent.com/u/1519264?s=72&u=cc3919e1cc06ca3b8febc8672daad1dd191f8cf5&v=4" width="24" alt="Avatar of csauve"> csauve
@@ -1667,10 +1654,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Abebooks.com </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC, Canada</td>
-		<td>367</td>
+		<td>368</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/miroesli">
 				<img src="https://avatars.githubusercontent.com/u/17695280?s=72&u=8df783c6a6f623f96845751bf7ef14ffb4a0508f&v=4" width="24" alt="Avatar of miroesli"> miroesli
@@ -1683,7 +1670,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>365</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/robn">
 				<img src="https://avatars.githubusercontent.com/u/130670?s=72&v=4" width="24" alt="Avatar of robn"> robn
@@ -1693,7 +1680,20 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>@fastmail </td>
 		<td><a href="https://twitter.com/robn">robn</a></td>
 		<td>Bunurong · Melbourne, Victoria</td>
-		<td>360</td>
+		<td>361</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>
+			<a href="https://github.com/Gibbu">
+				<img src="https://avatars.githubusercontent.com/u/20338746?s=72&u=26f8b379fa1d19b3084a51a9b58ba71f45a16d03&v=4" width="24" alt="Avatar of Gibbu"> Gibbu
+			</a><br/>
+			Ian
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Gibbu_">Gibbu_</a></td>
+		<td>Victoria, Australia</td>
+		<td>350</td>
 	</tr>
 	<tr>
 		<td>124</td>
@@ -1724,6 +1724,19 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>126</td>
 		<td>
+			<a href="https://github.com/inumanag">
+				<img src="https://avatars.githubusercontent.com/u/10132487?s=72&u=5224e398dd96dd2fff34ab31d066a31499f212d0&v=4" width="24" alt="Avatar of inumanag"> inumanag
+			</a><br/>
+			Ibrahim Numanagić
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>346</td>
+	</tr>
+	<tr>
+		<td>127</td>
+		<td>
 			<a href="https://github.com/clayjohn">
 				<img src="https://avatars.githubusercontent.com/u/16521339?s=72&u=e44a465cbebabb9ea2be80b59e6dc07966bef5b7&v=4" width="24" alt="Avatar of clayjohn"> clayjohn
 			</a><br/>
@@ -1732,20 +1745,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC, Canada</td>
-		<td>344</td>
-	</tr>
-	<tr>
-		<td>127</td>
-		<td>
-			<a href="https://github.com/Gibbu">
-				<img src="https://avatars.githubusercontent.com/u/20338746?s=72&u=26f8b379fa1d19b3084a51a9b58ba71f45a16d03&v=4" width="24" alt="Avatar of Gibbu"> Gibbu
-			</a><br/>
-			Ian
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Gibbu_">Gibbu_</a></td>
-		<td>Victoria, Australia</td>
-		<td>343</td>
+		<td>345</td>
 	</tr>
 	<tr>
 		<td>128</td>
@@ -1763,19 +1763,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>129</td>
 		<td>
-			<a href="https://github.com/inumanag">
-				<img src="https://avatars.githubusercontent.com/u/10132487?s=72&u=5224e398dd96dd2fff34ab31d066a31499f212d0&v=4" width="24" alt="Avatar of inumanag"> inumanag
-			</a><br/>
-			Ibrahim Numanagić
-		</td>
-		<td>University Of Victoria </td>
-		<td>No Twitter Username</td>
-		<td>Victoria, BC, Canada</td>
-		<td>340</td>
-	</tr>
-	<tr>
-		<td>130</td>
-		<td>
 			<a href="https://github.com/robert-abela">
 				<img src="https://avatars.githubusercontent.com/u/7334931?s=72&u=e7b00e72ad89d0c9efc8278878f9ec7a4cac4f12&v=4" width="24" alt="Avatar of robert-abela"> robert-abela
 			</a><br/>
@@ -1787,7 +1774,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>340</td>
 	</tr>
 	<tr>
-		<td>131</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/sheaphillips">
 				<img src="https://avatars.githubusercontent.com/u/698658?s=72&u=e40079cf93cef9c204a40b5c1ad4119897a5afd1&v=4" width="24" alt="Avatar of sheaphillips"> sheaphillips
@@ -1800,7 +1787,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>337</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/steveazz">
 				<img src="https://avatars.githubusercontent.com/u/9993446?s=72&u=77f41300b649520e5a9e804feaef38c3c4bc54a9&v=4" width="24" alt="Avatar of steveazz"> steveazz
@@ -1810,10 +1797,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>@gitlab </td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>334</td>
+		<td>335</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>132</td>
 		<td>
 			<a href="https://github.com/cromwellgrim">
 				<img src="https://avatars.githubusercontent.com/u/72167146?s=72&u=251069b87fdfd258df6cf3f21b5c8adcd12e4bc7&v=4" width="24" alt="Avatar of cromwellgrim"> cromwellgrim
@@ -1823,6 +1810,19 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dictionarydylan">dictionarydylan</a></td>
 		<td>Coast Salish Territory (Victoria, BC)</td>
+		<td>324</td>
+	</tr>
+	<tr>
+		<td>133</td>
+		<td>
+			<a href="https://github.com/JohannSuarez">
+				<img src="https://avatars.githubusercontent.com/u/20419658?s=72&u=90d384bd3fa63495f7b5edcb5bfe773a478d1158&v=4" width="24" alt="Avatar of JohannSuarez"> JohannSuarez
+			</a><br/>
+			Johann Suarez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
 		<td>324</td>
 	</tr>
 	<tr>
@@ -1880,6 +1880,19 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>138</td>
 		<td>
+			<a href="https://github.com/lclarko">
+				<img src="https://avatars.githubusercontent.com/u/52838144?s=72&u=9edc42c02dd5a72c2d92270a46f8f23f1fce71ab&v=4" width="24" alt="Avatar of lclarko"> lclarko
+			</a><br/>
+			Lane Clark
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>312</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>
 			<a href="https://github.com/ijtan">
 				<img src="https://avatars.githubusercontent.com/u/11772153?s=72&u=539a4341cad61fd66ba000e2c78a700214b959e2&v=4" width="24" alt="Avatar of ijtan"> ijtan
 			</a><br/>
@@ -1891,7 +1904,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>310</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/dhruvio">
 				<img src="https://avatars.githubusercontent.com/u/2994670?s=72&u=831a3ef79ffe0280205e9e63ee49585e5503c900&v=4" width="24" alt="Avatar of dhruvio"> dhruvio
@@ -1901,20 +1914,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>@realfolk  </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
-		<td>308</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/lclarko">
-				<img src="https://avatars.githubusercontent.com/u/52838144?s=72&u=9edc42c02dd5a72c2d92270a46f8f23f1fce71ab&v=4" width="24" alt="Avatar of lclarko"> lclarko
-			</a><br/>
-			Lane Clark
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Victoria, BC</td>
-		<td>308</td>
+		<td>309</td>
 	</tr>
 	<tr>
 		<td>141</td>
@@ -1958,19 +1958,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>144</td>
 		<td>
-			<a href="https://github.com/ianschmitz">
-				<img src="https://avatars.githubusercontent.com/u/6355370?s=72&u=d82c0274e396a6057921bfd4cd3951da4e093a24&v=4" width="24" alt="Avatar of ianschmitz"> ianschmitz
-			</a><br/>
-			Ian Schmitz
-		</td>
-		<td>@retain-ai </td>
-		<td><a href="https://twitter.com/schmitz_ian">schmitz_ian</a></td>
-		<td>Victoria, BC, Canada</td>
-		<td>301</td>
-	</tr>
-	<tr>
-		<td>145</td>
-		<td>
 			<a href="https://github.com/FigBug">
 				<img src="https://avatars.githubusercontent.com/u/1270305?s=72&u=30c01bd1686288b922b8efadd419d517b4f3894c&v=4" width="24" alt="Avatar of FigBug"> FigBug
 			</a><br/>
@@ -1979,10 +1966,36 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/SocaLabs">SocaLabs</a></td>
 		<td>Victoria, BC</td>
-		<td>301</td>
+		<td>303</td>
+	</tr>
+	<tr>
+		<td>145</td>
+		<td>
+			<a href="https://github.com/ianschmitz">
+				<img src="https://avatars.githubusercontent.com/u/6355370?s=72&u=d82c0274e396a6057921bfd4cd3951da4e093a24&v=4" width="24" alt="Avatar of ianschmitz"> ianschmitz
+			</a><br/>
+			Ian Schmitz
+		</td>
+		<td>@retain-ai </td>
+		<td><a href="https://twitter.com/schmitz_ian">schmitz_ian</a></td>
+		<td>Victoria, BC, Canada</td>
+		<td>302</td>
 	</tr>
 	<tr>
 		<td>146</td>
+		<td>
+			<a href="https://github.com/jentery">
+				<img src="https://avatars.githubusercontent.com/u/3144883?s=72&u=4bf5b516c20e377fd9f244ec6706557278921eb8&v=4" width="24" alt="Avatar of jentery"> jentery
+			</a><br/>
+			Jentery Sayers
+		</td>
+		<td>U. Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>296</td>
+	</tr>
+	<tr>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/iainctduncan">
 				<img src="https://avatars.githubusercontent.com/u/3385148?s=72&u=b1e5c303f6ce2b73e6f86ee03e7373a2b926daca&v=4" width="24" alt="Avatar of iainctduncan"> iainctduncan
@@ -1995,7 +2008,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>296</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/masakaede">
 				<img src="https://avatars.githubusercontent.com/u/69030790?s=72&u=de5ea7d8ccf14e4dea86bb7c0da256e1a81c01c9&v=4" width="24" alt="Avatar of masakaede"> masakaede
@@ -2008,7 +2021,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>296</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/CM2Walki">
 				<img src="https://avatars.githubusercontent.com/u/12199415?s=72&u=d84aa06eb5c7fd7fe19189b2ebb1d90579f38924&v=4" width="24" alt="Avatar of CM2Walki"> CM2Walki
@@ -2021,19 +2034,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>295</td>
 	</tr>
 	<tr>
-		<td>149</td>
-		<td>
-			<a href="https://github.com/jentery">
-				<img src="https://avatars.githubusercontent.com/u/3144883?s=72&u=4bf5b516c20e377fd9f244ec6706557278921eb8&v=4" width="24" alt="Avatar of jentery"> jentery
-			</a><br/>
-			Jentery Sayers
-		</td>
-		<td>U. Of Victoria </td>
-		<td>No Twitter Username</td>
-		<td>Victoria, BC</td>
-		<td>291</td>
-	</tr>
-	<tr>
 		<td>150</td>
 		<td>
 			<a href="https://github.com/PatrickShaw">
@@ -2044,7 +2044,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>@atlassian </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, Australia</td>
-		<td>288</td>
+		<td>290</td>
 	</tr>
 	<tr>
 		<td>151</td>
@@ -2057,7 +2057,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Melbourne, Victoria</td>
-		<td>287</td>
+		<td>288</td>
 	</tr>
 	<tr>
 		<td>152</td>
@@ -2218,6 +2218,19 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>164</td>
 		<td>
+			<a href="https://github.com/zoug86">
+				<img src="https://avatars.githubusercontent.com/u/18540980?s=72&u=045135711a4f0777a2fadf32da106ab675b17526&v=4" width="24" alt="Avatar of zoug86"> zoug86
+			</a><br/>
+			Houssem Marzougui
+		</td>
+		<td>Oneclass </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>243</td>
+	</tr>
+	<tr>
+		<td>165</td>
+		<td>
 			<a href="https://github.com/nannau">
 				<img src="https://avatars.githubusercontent.com/u/10455520?s=72&u=f133e2184a62d74e93fe8b06c1c5f7a042bdd328&v=4" width="24" alt="Avatar of nannau"> nannau
 			</a><br/>
@@ -2229,7 +2242,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>241</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/PolianaRufatto">
 				<img src="https://avatars.githubusercontent.com/u/5182966?s=72&u=40547887c7aaf2e89e39d1cc9268787a7179326a&v=4" width="24" alt="Avatar of PolianaRufatto"> PolianaRufatto
@@ -2242,30 +2255,17 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>240</td>
 	</tr>
 	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/zoug86">
-				<img src="https://avatars.githubusercontent.com/u/18540980?s=72&u=045135711a4f0777a2fadf32da106ab675b17526&v=4" width="24" alt="Avatar of zoug86"> zoug86
-			</a><br/>
-			Houssem Marzougui
-		</td>
-		<td>Oneclass </td>
-		<td>No Twitter Username</td>
-		<td>Victoria, BC</td>
-		<td>239</td>
-	</tr>
-	<tr>
 		<td>167</td>
 		<td>
-			<a href="https://github.com/JohannSuarez">
-				<img src="https://avatars.githubusercontent.com/u/20419658?s=72&u=90d384bd3fa63495f7b5edcb5bfe773a478d1158&v=4" width="24" alt="Avatar of JohannSuarez"> JohannSuarez
+			<a href="https://github.com/kevinfarrugia">
+				<img src="https://avatars.githubusercontent.com/u/8075326?s=72&u=46e04e2e046769c8087b0e1d39158e17d79ad52d&v=4" width="24" alt="Avatar of kevinfarrugia"> kevinfarrugia
 			</a><br/>
-			Johann Suarez
+			Kevin Farrugia
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Victoria, BC</td>
-		<td>235</td>
+		<td>Spiffing </td>
+		<td><a href="https://twitter.com/imkevdev">imkevdev</a></td>
+		<td>Malta</td>
+		<td>236</td>
 	</tr>
 	<tr>
 		<td>168</td>
@@ -2283,19 +2283,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>169</td>
 		<td>
-			<a href="https://github.com/kevinfarrugia">
-				<img src="https://avatars.githubusercontent.com/u/8075326?s=72&u=46e04e2e046769c8087b0e1d39158e17d79ad52d&v=4" width="24" alt="Avatar of kevinfarrugia"> kevinfarrugia
-			</a><br/>
-			Kevin Farrugia
-		</td>
-		<td>Spiffing </td>
-		<td><a href="https://twitter.com/imkevdev">imkevdev</a></td>
-		<td>Malta</td>
-		<td>234</td>
-	</tr>
-	<tr>
-		<td>170</td>
-		<td>
 			<a href="https://github.com/Fliinko">
 				<img src="https://avatars.githubusercontent.com/u/73174341?s=72&u=e02546e0928f2dc803406bf5ac36d8f782afbe86&v=4" width="24" alt="Avatar of Fliinko"> Fliinko
 			</a><br/>
@@ -2307,7 +2294,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>234</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/joram">
 				<img src="https://avatars.githubusercontent.com/u/154617?s=72&u=08aaf9441e2b130948dce5c237be1973529ec3ac&v=4" width="24" alt="Avatar of joram"> joram
@@ -2320,7 +2307,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>233</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/jameshiebert">
 				<img src="https://avatars.githubusercontent.com/u/3904316?s=72&u=5ab86ca24f47ac3323c899c9bf038922013d9d66&v=4" width="24" alt="Avatar of jameshiebert"> jameshiebert
@@ -2330,10 +2317,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Pacific Climate Impacts Consortium<br/>/<br/>University<br/>Of<br/>Victoria<br/></td>
 		<td>No Twitter Username</td>
 		<td>Victoria, Britsh Columbia, Canada</td>
-		<td>227</td>
+		<td>229</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/mattcoding4days">
 				<img src="https://avatars.githubusercontent.com/u/35334658?s=72&u=a120ce7c0362ffb95b4c5b50db747a0c7f96666a&v=4" width="24" alt="Avatar of mattcoding4days"> mattcoding4days
@@ -2346,7 +2333,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>225</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/DaveJarvis">
 				<img src="https://avatars.githubusercontent.com/u/2131950?s=72&u=dec450049d4e2ade273d128829a5d853974515c0&v=4" width="24" alt="Avatar of DaveJarvis"> DaveJarvis
@@ -2359,7 +2346,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>224</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/laurence-myers">
 				<img src="https://avatars.githubusercontent.com/u/6336048?s=72&u=f224f1bd3dc3dd438075aaebf48a2ceb0f482f2d&v=4" width="24" alt="Avatar of laurence-myers"> laurence-myers
@@ -2372,7 +2359,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>224</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/ksylvest">
 				<img src="https://avatars.githubusercontent.com/u/73432?s=72&u=d0419c8baefb84d7d00b372b065bdfb3120960a6&v=4" width="24" alt="Avatar of ksylvest"> ksylvest
@@ -2385,7 +2372,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>222</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/tweeres04">
 				<img src="https://avatars.githubusercontent.com/u/216874?s=72&u=43e5544b033bf37aadabe1ee39d6012abcc8daf2&v=4" width="24" alt="Avatar of tweeres04"> tweeres04
@@ -2396,6 +2383,19 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
 		<td>219</td>
+	</tr>
+	<tr>
+		<td>177</td>
+		<td>
+			<a href="https://github.com/loftwah">
+				<img src="https://avatars.githubusercontent.com/u/19922556?s=72&u=b63d8848dc942e194380c0e0bdcd1ca16d85b553&v=4" width="24" alt="Avatar of loftwah"> loftwah
+			</a><br/>
+			Dean Lofts
+		</td>
+		<td>@pvs-australia  </td>
+		<td><a href="https://twitter.com/loftwah">loftwah</a></td>
+		<td>Sunbury, Victoria</td>
+		<td>217</td>
 	</tr>
 	<tr>
 		<td>178</td>
@@ -2439,19 +2439,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>181</td>
 		<td>
-			<a href="https://github.com/loftwah">
-				<img src="https://avatars.githubusercontent.com/u/19922556?s=72&u=b63d8848dc942e194380c0e0bdcd1ca16d85b553&v=4" width="24" alt="Avatar of loftwah"> loftwah
-			</a><br/>
-			Dean Lofts
-		</td>
-		<td>@pvs-australia  </td>
-		<td><a href="https://twitter.com/loftwah">loftwah</a></td>
-		<td>Sunbury, Victoria</td>
-		<td>213</td>
-	</tr>
-	<tr>
-		<td>182</td>
-		<td>
 			<a href="https://github.com/ryleyw">
 				<img src="https://avatars.githubusercontent.com/u/35244595?s=72&u=e90ba0bd4c13b81fedb54928908c62f938fcae36&v=4" width="24" alt="Avatar of ryleyw"> ryleyw
 			</a><br/>
@@ -2463,7 +2450,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>210</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/kotoku-code">
 				<img src="https://avatars.githubusercontent.com/u/53125243?s=72&u=7c3897cdcf4c7d5f7a6f51542f2f18c36d1b23a6&v=4" width="24" alt="Avatar of kotoku-code"> kotoku-code
@@ -2476,7 +2463,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>209</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/asherLZR">
 				<img src="https://avatars.githubusercontent.com/u/32557572?s=72&u=5b2ed4618f6f5c57e081cea6e188b8291d9d1799&v=4" width="24" alt="Avatar of asherLZR"> asherLZR
@@ -2489,7 +2476,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>206</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/loganvolkers">
 				<img src="https://avatars.githubusercontent.com/u/1157086?s=72&v=4" width="24" alt="Avatar of loganvolkers"> loganvolkers
@@ -2502,6 +2489,19 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>203</td>
 	</tr>
 	<tr>
+		<td>185</td>
+		<td>
+			<a href="https://github.com/njsch">
+				<img src="https://avatars.githubusercontent.com/u/56899272?s=72&u=74ee8505df28c135478dd1e153c5e28c002083bd&v=4" width="24" alt="Avatar of njsch"> njsch
+			</a><br/>
+			Nathaniel Schmidt
+		</td>
+		<td>@deakin University </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>201</td>
+	</tr>
+	<tr>
 		<td>186</td>
 		<td>
 			<a href="https://github.com/liamattard">
@@ -2512,7 +2512,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>University Of Malta Student<br/></td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>200</td>
+		<td>201</td>
 	</tr>
 	<tr>
 		<td>187</td>
@@ -2569,19 +2569,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>191</td>
 		<td>
-			<a href="https://github.com/njsch">
-				<img src="https://avatars.githubusercontent.com/u/56899272?s=72&u=74ee8505df28c135478dd1e153c5e28c002083bd&v=4" width="24" alt="Avatar of njsch"> njsch
-			</a><br/>
-			Nathaniel Schmidt
-		</td>
-		<td>@deakin University </td>
-		<td>No Twitter Username</td>
-		<td>Melbourne, Victoria, Australia</td>
-		<td>195</td>
-	</tr>
-	<tr>
-		<td>192</td>
-		<td>
 			<a href="https://github.com/saidPolancoUPV">
 				<img src="https://avatars.githubusercontent.com/u/21248328?s=72&u=f965236d3b070706a7725f4def306f744daf2621&v=4" width="24" alt="Avatar of saidPolancoUPV"> saidPolancoUPV
 			</a><br/>
@@ -2593,7 +2580,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>195</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/ksaifullah">
 				<img src="https://avatars.githubusercontent.com/u/7429101?s=72&u=5354a65c8fcfc2c9e7610469f0600d6b02ee6d1c&v=4" width="24" alt="Avatar of ksaifullah"> ksaifullah
@@ -2606,7 +2593,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>195</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/marceloadsj">
 				<img src="https://avatars.githubusercontent.com/u/4874089?s=72&u=e278ef2ad85e88968ea710039b185f9b6ace2f70&v=4" width="24" alt="Avatar of marceloadsj"> marceloadsj
@@ -2619,7 +2606,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>191</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/garywong-bc">
 				<img src="https://avatars.githubusercontent.com/u/25966613?s=72&u=e4bd75576649411ec9967d12b8c5ab9f1f2c4e3a&v=4" width="24" alt="Avatar of garywong-bc"> garywong-bc
@@ -2632,7 +2619,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>189</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/eldang">
 				<img src="https://avatars.githubusercontent.com/u/1379812?s=72&u=918d218ea37c0397972f1f179ec557878072129c&v=4" width="24" alt="Avatar of eldang"> eldang
@@ -2645,16 +2632,29 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>187</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/adamsmasher">
-				<img src="https://avatars.githubusercontent.com/u/246294?s=72&v=4" width="24" alt="Avatar of adamsmasher"> adamsmasher
+				<img src="https://avatars.githubusercontent.com/u/246294?s=72&u=8077fe6a6cd67d7a80582f633ef13e418afafff5&v=4" width="24" alt="Avatar of adamsmasher"> adamsmasher
 			</a><br/>
 			Adam Smith
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
+		<td>187</td>
+	</tr>
+	<tr>
+		<td>197</td>
+		<td>
+			<a href="https://github.com/mecha">
+				<img src="https://avatars.githubusercontent.com/u/5425482?s=72&u=2128ff26cd453f2fef86f14eca0504f3d5635aff&v=4" width="24" alt="Avatar of mecha"> mecha
+			</a><br/>
+			Miguel Muscat
+		</td>
+		<td>@rebelcode @bp-lang @dhii <br/></td>
+		<td><a href="https://twitter.com/mechadev">mechadev</a></td>
+		<td>Malta</td>
 		<td>187</td>
 	</tr>
 	<tr>
@@ -2699,18 +2699,31 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>201</td>
 		<td>
-			<a href="https://github.com/mecha">
-				<img src="https://avatars.githubusercontent.com/u/5425482?s=72&u=2128ff26cd453f2fef86f14eca0504f3d5635aff&v=4" width="24" alt="Avatar of mecha"> mecha
+			<a href="https://github.com/ToucheSir">
+				<img src="https://avatars.githubusercontent.com/u/4062143?s=72&u=77f740f54d7b3a2c9b80faecd86d52a31c5c359f&v=4" width="24" alt="Avatar of ToucheSir"> ToucheSir
 			</a><br/>
-			Miguel Muscat
+			Brian Chen
 		</td>
-		<td>@rebelcode @bp-lang @dhii <br/></td>
-		<td><a href="https://twitter.com/mechadev">mechadev</a></td>
-		<td>Malta</td>
-		<td>176</td>
+		<td>Queen's University </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC & Kingston, ON</td>
+		<td>179</td>
 	</tr>
 	<tr>
 		<td>202</td>
+		<td>
+			<a href="https://github.com/alexwholland">
+				<img src="https://avatars.githubusercontent.com/u/64433812?s=72&u=222265d302715b41e62be42f34d8ec0c048181be&v=4" width="24" alt="Avatar of alexwholland"> alexwholland
+			</a><br/>
+			Alex Holland
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>176</td>
+	</tr>
+	<tr>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/brandonscript">
 				<img src="https://avatars.githubusercontent.com/u/1480253?s=72&u=acf10ee1defdb7aeab7febddd33a7ac44564d73c&v=4" width="24" alt="Avatar of brandonscript"> brandonscript
@@ -2723,7 +2736,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>175</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/JonathanCauchi">
 				<img src="https://avatars.githubusercontent.com/u/33484962?s=72&u=eeedddf22d2970cf3e731cda0c34888be313260f&v=4" width="24" alt="Avatar of JonathanCauchi"> JonathanCauchi
@@ -2733,19 +2746,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Msc Ai - Uni<br/>Of<br/>Aberdeen<br/></td>
 		<td>No Twitter Username</td>
 		<td>Malta</td>
-		<td>175</td>
-	</tr>
-	<tr>
-		<td>204</td>
-		<td>
-			<a href="https://github.com/alexwholland">
-				<img src="https://avatars.githubusercontent.com/u/64433812?s=72&u=222265d302715b41e62be42f34d8ec0c048181be&v=4" width="24" alt="Avatar of alexwholland"> alexwholland
-			</a><br/>
-			Alex Holland
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Victoria, BC</td>
 		<td>175</td>
 	</tr>
 	<tr>
@@ -2764,19 +2764,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>206</td>
 		<td>
-			<a href="https://github.com/ToucheSir">
-				<img src="https://avatars.githubusercontent.com/u/4062143?s=72&u=77f740f54d7b3a2c9b80faecd86d52a31c5c359f&v=4" width="24" alt="Avatar of ToucheSir"> ToucheSir
-			</a><br/>
-			Brian Chen
-		</td>
-		<td>Queen's University </td>
-		<td>No Twitter Username</td>
-		<td>Victoria, BC & Kingston, ON</td>
-		<td>174</td>
-	</tr>
-	<tr>
-		<td>207</td>
-		<td>
 			<a href="https://github.com/JuxhinDB">
 				<img src="https://avatars.githubusercontent.com/u/8005101?s=72&u=c3d2162dfd07ae0871d5bb6ae5d9c8b59fedfa8c&v=4" width="24" alt="Avatar of JuxhinDB"> JuxhinDB
 			</a><br/>
@@ -2788,7 +2775,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/justin-calleja">
 				<img src="https://avatars.githubusercontent.com/u/3186719?s=72&v=4" width="24" alt="Avatar of justin-calleja"> justin-calleja
@@ -2801,7 +2788,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/VanWieren">
 				<img src="https://avatars.githubusercontent.com/u/58611315?s=72&u=c0942526f98d4da75652d7e699d5caf84a1850c4&v=4" width="24" alt="Avatar of VanWieren"> VanWieren
@@ -2814,7 +2801,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>210</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/nrempel">
 				<img src="https://avatars.githubusercontent.com/u/540048?s=72&v=4" width="24" alt="Avatar of nrempel"> nrempel
@@ -2827,7 +2814,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>172</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/chrisfosterelli">
 				<img src="https://avatars.githubusercontent.com/u/2072672?s=72&u=e2945e7db6a734e9f8c25a74c5322d2187095b4a&v=4" width="24" alt="Avatar of chrisfosterelli"> chrisfosterelli
@@ -2840,7 +2827,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>171</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/tadhglewis">
 				<img src="https://avatars.githubusercontent.com/u/53756558?s=72&u=fe0237489bb625936d5362096981fa6450e59a59&v=4" width="24" alt="Avatar of tadhglewis"> tadhglewis
@@ -2853,7 +2840,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>171</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/nathan-abela">
 				<img src="https://avatars.githubusercontent.com/u/50643013?s=72&v=4" width="24" alt="Avatar of nathan-abela"> nathan-abela
@@ -2866,7 +2853,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>167</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/ntwb">
 				<img src="https://avatars.githubusercontent.com/u/1016458?s=72&v=4" width="24" alt="Avatar of ntwb"> ntwb
@@ -2879,7 +2866,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/MogwaiMomo">
 				<img src="https://avatars.githubusercontent.com/u/1649024?s=72&u=9417fc9c9d12ed7ffd4dec1ecfe710a4f06dfae9&v=4" width="24" alt="Avatar of MogwaiMomo"> MogwaiMomo
@@ -2892,7 +2879,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/BCSharp">
 				<img src="https://avatars.githubusercontent.com/u/2866972?s=72&v=4" width="24" alt="Avatar of BCSharp"> BCSharp
@@ -2905,7 +2892,33 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>165</td>
 	</tr>
 	<tr>
+		<td>216</td>
+		<td>
+			<a href="https://github.com/anicholls">
+				<img src="https://avatars.githubusercontent.com/u/908478?s=72&u=10dde4ca12f8c0db9c04fdf3729a09e86c12e520&v=4" width="24" alt="Avatar of anicholls"> anicholls
+			</a><br/>
+			Alex Nicholls
+		</td>
+		<td>Workday </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>163</td>
+	</tr>
+	<tr>
 		<td>217</td>
+		<td>
+			<a href="https://github.com/benjaminwil">
+				<img src="https://avatars.githubusercontent.com/u/883581?s=72&u=27a013c2d95184691de30bcb7c0329112ccfbe6a&v=4" width="24" alt="Avatar of benjaminwil"> benjaminwil
+			</a><br/>
+			benjamin wil
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia</td>
+		<td>162</td>
+	</tr>
+	<tr>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/AmirShayegh">
 				<img src="https://avatars.githubusercontent.com/u/34552761?s=72&u=86e5432612ee970c069fd3711fe2cb420575445d&v=4" width="24" alt="Avatar of AmirShayegh"> AmirShayegh
@@ -2916,19 +2929,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
 		<td>162</td>
-	</tr>
-	<tr>
-		<td>218</td>
-		<td>
-			<a href="https://github.com/benjaminwil">
-				<img src="https://avatars.githubusercontent.com/u/883581?s=72&u=27a013c2d95184691de30bcb7c0329112ccfbe6a&v=4" width="24" alt="Avatar of benjaminwil"> benjaminwil
-			</a><br/>
-			benjamin wil
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Victoria, British Columbia</td>
-		<td>161</td>
 	</tr>
 	<tr>
 		<td>219</td>
@@ -3011,19 +3011,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>225</td>
 		<td>
-			<a href="https://github.com/anicholls">
-				<img src="https://avatars.githubusercontent.com/u/908478?s=72&u=10dde4ca12f8c0db9c04fdf3729a09e86c12e520&v=4" width="24" alt="Avatar of anicholls"> anicholls
-			</a><br/>
-			Alex Nicholls
-		</td>
-		<td>Workday </td>
-		<td>No Twitter Username</td>
-		<td>Victoria, BC</td>
-		<td>159</td>
-	</tr>
-	<tr>
-		<td>226</td>
-		<td>
 			<a href="https://github.com/stefanbuttigieg">
 				<img src="https://avatars.githubusercontent.com/u/3967540?s=72&u=ed6d6fef7ad0600be343bd3b6e2b6086fa051496&v=4" width="24" alt="Avatar of stefanbuttigieg"> stefanbuttigieg
 			</a><br/>
@@ -3033,6 +3020,19 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>157</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
+			<a href="https://github.com/gregdaynes">
+				<img src="https://avatars.githubusercontent.com/u/43543?s=72&u=441fc98a2431f49e402f3a6196b90b5a4b5348af&v=4" width="24" alt="Avatar of gregdaynes"> gregdaynes
+			</a><br/>
+			Gregory Daynes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia, Canada</td>
+		<td>155</td>
 	</tr>
 	<tr>
 		<td>227</td>
@@ -3050,19 +3050,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>228</td>
 		<td>
-			<a href="https://github.com/gregdaynes">
-				<img src="https://avatars.githubusercontent.com/u/43543?s=72&u=441fc98a2431f49e402f3a6196b90b5a4b5348af&v=4" width="24" alt="Avatar of gregdaynes"> gregdaynes
-			</a><br/>
-			Gregory Daynes
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Victoria, British Columbia, Canada</td>
-		<td>152</td>
-	</tr>
-	<tr>
-		<td>229</td>
-		<td>
 			<a href="https://github.com/joshuasing">
 				<img src="https://avatars.githubusercontent.com/u/25740108?s=72&u=4c7e75d3e8ab8917e295f52edc0cd8c24a28f037&v=4" width="24" alt="Avatar of joshuasing"> joshuasing
 			</a><br/>
@@ -3074,7 +3061,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>152</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/Sinetheta">
 				<img src="https://avatars.githubusercontent.com/u/1529452?s=72&u=ca8e961a3858e636d623093d6023e42fc157e377&v=4" width="24" alt="Avatar of Sinetheta"> Sinetheta
@@ -3087,7 +3074,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/iamkahvi">
 				<img src="https://avatars.githubusercontent.com/u/12820195?s=72&u=514715e607cb381793357f5b9da2de7eefc33e31&v=4" width="24" alt="Avatar of iamkahvi"> iamkahvi
@@ -3100,7 +3087,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>149</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/tunai">
 				<img src="https://avatars.githubusercontent.com/u/3987746?s=72&u=0cdfdbe83793996b40c251bc92b08d4e0d51fda4&v=4" width="24" alt="Avatar of tunai"> tunai
@@ -3113,7 +3100,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>149</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/alldritt">
 				<img src="https://avatars.githubusercontent.com/u/1425137?s=72&v=4" width="24" alt="Avatar of alldritt"> alldritt
@@ -3126,7 +3113,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/alfielytorres">
 				<img src="https://avatars.githubusercontent.com/u/30723393?s=72&u=2d357b152d6a4fee182977a82b86de6cdc6f1dd3&v=4" width="24" alt="Avatar of alfielytorres"> alfielytorres
@@ -3139,7 +3126,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/ridwanrahman">
 				<img src="https://avatars.githubusercontent.com/u/17476457?s=72&v=4" width="24" alt="Avatar of ridwanrahman"> ridwanrahman
@@ -3150,6 +3137,19 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Melbourne, Victoria</td>
 		<td>144</td>
+	</tr>
+	<tr>
+		<td>235</td>
+		<td>
+			<a href="https://github.com/michaelwebb76">
+				<img src="https://avatars.githubusercontent.com/u/3733200?s=72&u=6567e710a00ee5f141aa4cc0cbe1677499cba3bb&v=4" width="24" alt="Avatar of michaelwebb76"> michaelwebb76
+			</a><br/>
+			Michael Webb
+		</td>
+		<td>@tricycle  </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>143</td>
 	</tr>
 	<tr>
 		<td>236</td>
@@ -3167,6 +3167,19 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>237</td>
 		<td>
+			<a href="https://github.com/dottedmag">
+				<img src="https://avatars.githubusercontent.com/u/16120?s=72&u=2e8f4e4ef5c149e399b374ddd9f06f45235ac3ff&v=4" width="24" alt="Avatar of dottedmag"> dottedmag
+			</a><br/>
+			Misha Gusarov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>142</td>
+	</tr>
+	<tr>
+		<td>238</td>
+		<td>
 			<a href="https://github.com/zachwingrave">
 				<img src="https://avatars.githubusercontent.com/u/54096382?s=72&u=15af86ce3b8353532e9dafa8a43e359a3fc23a62&v=4" width="24" alt="Avatar of zachwingrave"> zachwingrave
 			</a><br/>
@@ -3176,19 +3189,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td><a href="https://twitter.com/zachwingrave">zachwingrave</a></td>
 		<td>Melbourne, Victoria, Australia</td>
 		<td>141</td>
-	</tr>
-	<tr>
-		<td>238</td>
-		<td>
-			<a href="https://github.com/dottedmag">
-				<img src="https://avatars.githubusercontent.com/u/16120?s=72&u=2e8f4e4ef5c149e399b374ddd9f06f45235ac3ff&v=4" width="24" alt="Avatar of dottedmag"> dottedmag
-			</a><br/>
-			Misha Gusarov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malta</td>
-		<td>140</td>
 	</tr>
 	<tr>
 		<td>239</td>
@@ -3219,19 +3219,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>241</td>
 		<td>
-			<a href="https://github.com/michaelwebb76">
-				<img src="https://avatars.githubusercontent.com/u/3733200?s=72&u=6567e710a00ee5f141aa4cc0cbe1677499cba3bb&v=4" width="24" alt="Avatar of michaelwebb76"> michaelwebb76
-			</a><br/>
-			Michael Webb
-		</td>
-		<td>@tricycle  </td>
-		<td>No Twitter Username</td>
-		<td>Melbourne, Victoria, Australia</td>
-		<td>138</td>
-	</tr>
-	<tr>
-		<td>242</td>
-		<td>
 			<a href="https://github.com/wakqasahmed">
 				<img src="https://avatars.githubusercontent.com/u/4486133?s=72&u=f556b87048ffe81d7067ec62b69af55dda3b73f0&v=4" width="24" alt="Avatar of wakqasahmed"> wakqasahmed
 			</a><br/>
@@ -3243,7 +3230,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/McRaeAlex">
 				<img src="https://avatars.githubusercontent.com/u/24515337?s=72&u=e2419d84ebf4e86330b0e59ab4b0fabc2b15e666&v=4" width="24" alt="Avatar of McRaeAlex"> McRaeAlex
@@ -3256,7 +3243,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/emcniece">
 				<img src="https://avatars.githubusercontent.com/u/1182187?s=72&u=6961ec2da8dccf439d7f80a0d2b556fd6f59c5cf&v=4" width="24" alt="Avatar of emcniece"> emcniece
@@ -3269,7 +3256,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/hmnd">
 				<img src="https://avatars.githubusercontent.com/u/12853597?s=72&v=4" width="24" alt="Avatar of hmnd"> hmnd
@@ -3279,6 +3266,19 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>@humanoidsolutions  </td>
 		<td>No Twitter Username</td>
 		<td>Victoria, BC</td>
+		<td>135</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/telic">
+				<img src="https://avatars.githubusercontent.com/u/301798?s=72&u=655c6341a7e8431056ec79000d0dfcfc715f679c&v=4" width="24" alt="Avatar of telic"> telic
+			</a><br/>
+			Maxwell Terpstra
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
 		<td>134</td>
 	</tr>
 	<tr>
@@ -3305,23 +3305,10 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>Ocean Networks Canada </td>
 		<td>No Twitter Username</td>
 		<td>Victoria</td>
-		<td>132</td>
+		<td>133</td>
 	</tr>
 	<tr>
 		<td>248</td>
-		<td>
-			<a href="https://github.com/telic">
-				<img src="https://avatars.githubusercontent.com/u/301798?s=72&u=655c6341a7e8431056ec79000d0dfcfc715f679c&v=4" width="24" alt="Avatar of telic"> telic
-			</a><br/>
-			Maxwell Terpstra
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Victoria, BC, Canada</td>
-		<td>131</td>
-	</tr>
-	<tr>
-		<td>249</td>
 		<td>
 			<a href="https://github.com/tonimitrevski">
 				<img src="https://avatars.githubusercontent.com/u/15773773?s=72&u=31be5f9fc5709db1f8cd5cc1d59132512ad89d34&v=4" width="24" alt="Avatar of tonimitrevski"> tonimitrevski
@@ -3334,7 +3321,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/jonathan-vella">
 				<img src="https://avatars.githubusercontent.com/u/25802147?s=72&u=7941fa30cf5d40f1ef8c5e3a804a03c630e72bec&v=4" width="24" alt="Avatar of jonathan-vella"> jonathan-vella
@@ -3345,6 +3332,19 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>130</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>
+			<a href="https://github.com/rywall">
+				<img src="https://avatars.githubusercontent.com/u/7904?s=72&v=4" width="24" alt="Avatar of rywall"> rywall
+			</a><br/>
+			Ryan Wallace
+		</td>
+		<td>Culture Code </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>129</td>
 	</tr>
 	<tr>
 		<td>251</td>
@@ -3362,19 +3362,6 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 	<tr>
 		<td>252</td>
 		<td>
-			<a href="https://github.com/rywall">
-				<img src="https://avatars.githubusercontent.com/u/7904?s=72&v=4" width="24" alt="Avatar of rywall"> rywall
-			</a><br/>
-			Ryan Wallace
-		</td>
-		<td>Culture Code </td>
-		<td>No Twitter Username</td>
-		<td>Victoria, BC</td>
-		<td>127</td>
-	</tr>
-	<tr>
-		<td>253</td>
-		<td>
 			<a href="https://github.com/edsloane">
 				<img src="https://avatars.githubusercontent.com/u/64641499?s=72&u=a158e1e53a46b10f759f29378cc283982756079d&v=4" width="24" alt="Avatar of edsloane"> edsloane
 			</a><br/>
@@ -3386,7 +3373,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>127</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/dallasbrooks">
 				<img src="https://avatars.githubusercontent.com/u/47010213?s=72&u=740f181e72e3e497be3d35f18ccb01f9c2d21cfb&v=4" width="24" alt="Avatar of dallasbrooks"> dallasbrooks
@@ -3399,7 +3386,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/camilolucena88">
 				<img src="https://avatars.githubusercontent.com/u/56475977?s=72&u=b531548aa199fced381ddc37755310781e47072a&v=4" width="24" alt="Avatar of camilolucena88"> camilolucena88
@@ -3412,7 +3399,7 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/RaeesBhatti">
 				<img src="https://avatars.githubusercontent.com/u/10067728?s=72&v=4" width="24" alt="Avatar of RaeesBhatti"> RaeesBhatti
@@ -3422,6 +3409,19 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/RaeesBhatti">RaeesBhatti</a></td>
 		<td>Victoria, Canada</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>256</td>
+		<td>
+			<a href="https://github.com/jakesant">
+				<img src="https://avatars.githubusercontent.com/u/52170119?s=72&u=a1d7d206d5822f82ac5cef2162209498537d284a&v=4" width="24" alt="Avatar of jakesant"> jakesant
+			</a><br/>
+			Jake Sant
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
 		<td>120</td>
 	</tr>
 </table>
