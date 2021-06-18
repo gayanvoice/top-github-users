@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg" alt="Oman">
 </a>
 
-The `number of followers` of users in Oman on `2021/6/16 10:49 PM UTC`. This list contains users from `Oman` and cities `Muscat` `Salalah` `Nizwa` `Sohar` `Seeb`.
+The `number of followers` of users in Oman on `2021/6/18 7:16 PM UTC`. This list contains users from `Oman` and cities `Muscat` `Salalah` `Nizwa` `Sohar` `Seeb`.
 
-There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `675 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `624 users`  in Oman. You need at least `0 followers` to be on this list.
+There are `622 users`  in Oman. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -146,7 +146,7 @@ There are `624 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>@localxpose </td>
 		<td>No Twitter Username</td>
 		<td>Oman, Muscat</td>
-		<td>87</td>
+		<td>88</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -437,6 +437,19 @@ There are `624 users`  in Oman. You need at least `0 followers` to be on this li
 	<tr>
 		<td>27</td>
 		<td>
+			<a href="https://github.com/mhmoudalaskalany">
+				<img src="https://avatars.githubusercontent.com/u/45127300?s=72&u=87f372d25a5c1c8095c970523209fa8f7bfcb71b&v=4" width="24" alt="Avatar of mhmoudalaskalany"> mhmoudalaskalany
+			</a><br/>
+			Mahmoud Alaskalany
+		</td>
+		<td>Ocs Infotech </td>
+		<td>No Twitter Username</td>
+		<td>Oman-Muscat</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
 			<a href="https://github.com/Murooj">
 				<img src="https://avatars.githubusercontent.com/u/34310332?s=72&u=00d8dc5b8603f04df7eccbb94efce3461f2d949d&v=4" width="24" alt="Avatar of Murooj"> Murooj
 			</a><br/>
@@ -446,19 +459,6 @@ There are `624 users`  in Oman. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/murooj_busaidi">murooj_busaidi</a></td>
 		<td>Muscat - Oman</td>
 		<td>10</td>
-	</tr>
-	<tr>
-		<td>28</td>
-		<td>
-			<a href="https://github.com/mhmoudalaskalany">
-				<img src="https://avatars.githubusercontent.com/u/45127300?s=72&u=87f372d25a5c1c8095c970523209fa8f7bfcb71b&v=4" width="24" alt="Avatar of mhmoudalaskalany"> mhmoudalaskalany
-			</a><br/>
-			Mahmoud Alaskalany
-		</td>
-		<td>Ocs Infotech </td>
-		<td>No Twitter Username</td>
-		<td>Oman-Muscat</td>
-		<td>9</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -827,19 +827,6 @@ There are `624 users`  in Oman. You need at least `0 followers` to be on this li
 	<tr>
 		<td>57</td>
 		<td>
-			<a href="https://github.com/Altoubi">
-				<img src="https://avatars.githubusercontent.com/u/12825416?s=72&u=02b0feda23a6ada5e405be4828d30c6ec7ce6e4b&v=4" width="24" alt="Avatar of Altoubi"> Altoubi
-			</a><br/>
-			Mohammed Altoubi
-		</td>
-		<td>Izki Gate Llc </td>
-		<td>No Twitter Username</td>
-		<td>Oman</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>58</td>
-		<td>
 			<a href="https://github.com/manpowerinnovations">
 				<img src="https://avatars.githubusercontent.com/u/26865115?s=72&u=ddbdaadf21669811878acb8d7886bcdf9c4932fa&v=4" width="24" alt="Avatar of manpowerinnovations"> manpowerinnovations
 			</a><br/>
@@ -848,6 +835,19 @@ There are `624 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>Ministry Of Manpower <br/>Innovation<br/><br/>Portal<br/></td>
 		<td>No Twitter Username</td>
 		<td>Oman - Muscat </td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
+			<a href="https://github.com/Altoubi">
+				<img src="https://avatars.githubusercontent.com/u/12825416?s=72&u=02b0feda23a6ada5e405be4828d30c6ec7ce6e4b&v=4" width="24" alt="Avatar of Altoubi"> Altoubi
+			</a><br/>
+			Mohammed Altoubi
+		</td>
+		<td>Izki Gate Llc </td>
+		<td>No Twitter Username</td>
+		<td>Oman</td>
 		<td>4</td>
 	</tr>
 	<tr>
