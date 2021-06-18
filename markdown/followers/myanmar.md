@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg" alt="Myanmar">
 </a>
 
-The `number of followers` of users in Myanmar on `2021/6/16 7:46 PM UTC`. This list contains users from `Myanmar` and cities `Yangon` `Mandalay` `Naypyitaw` `Bago` `Mawlamyine` `Taunggyi`.
+The `number of followers` of users in Myanmar on `2021/6/18 2:22 PM UTC`. This list contains users from `Myanmar` and cities `Yangon` `Mandalay` `Naypyitaw` `Bago` `Mawlamyine` `Taunggyi`.
 
-There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `675 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `1000 users`  in Myanmar. You need at least `1 followers` to be on this list.
 
@@ -107,7 +107,7 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>Fairway Technology </td>
 		<td>No Twitter Username</td>
 		<td>Yangon, Myanmar</td>
-		<td>1217</td>
+		<td>1220</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -146,7 +146,7 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/404death">404death</a></td>
 		<td>Myanmar</td>
-		<td>397</td>
+		<td>396</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -242,19 +242,6 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 	<tr>
 		<td>12</td>
 		<td>
-			<a href="https://github.com/vincent-paing">
-				<img src="https://avatars.githubusercontent.com/u/8557241?s=72&u=d8927e0bcee8df7451c9f8a415ed6f76f34860ad&v=4" width="24" alt="Avatar of vincent-paing"> vincent-paing
-			</a><br/>
-			Aung Kyaw Paing
-		</td>
-		<td>Nexlabs </td>
-		<td><a href="https://twitter.com/vincentpaing">vincentpaing</a></td>
-		<td>Myanmar</td>
-		<td>168</td>
-	</tr>
-	<tr>
-		<td>13</td>
-		<td>
 			<a href="https://github.com/winsandymyint">
 				<img src="https://avatars.githubusercontent.com/u/2322490?s=72&u=647b768bb61c37e625330abf215948667413986b&v=4" width="24" alt="Avatar of winsandymyint"> winsandymyint
 			</a><br/>
@@ -262,6 +249,19 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/winsandymyint">winsandymyint</a></td>
+		<td>Myanmar</td>
+		<td>169</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
+			<a href="https://github.com/vincent-paing">
+				<img src="https://avatars.githubusercontent.com/u/8557241?s=72&u=d8927e0bcee8df7451c9f8a415ed6f76f34860ad&v=4" width="24" alt="Avatar of vincent-paing"> vincent-paing
+			</a><br/>
+			Aung Kyaw Paing
+		</td>
+		<td>Nexlabs </td>
+		<td><a href="https://twitter.com/vincentpaing">vincentpaing</a></td>
 		<td>Myanmar</td>
 		<td>168</td>
 	</tr>
@@ -320,19 +320,6 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 	<tr>
 		<td>18</td>
 		<td>
-			<a href="https://github.com/zinmyoswe">
-				<img src="https://avatars.githubusercontent.com/u/29988949?s=72&u=0bc6c6ad714edd119d3a0128a619f6bed5052c5e&v=4" width="24" alt="Avatar of zinmyoswe"> zinmyoswe
-			</a><br/>
-			ZIN MYO SWE
-		</td>
-		<td>Huawei Technologies(yangon) Co., Ltd.<br/></td>
-		<td>No Twitter Username</td>
-		<td>Yangon</td>
-		<td>120</td>
-	</tr>
-	<tr>
-		<td>19</td>
-		<td>
 			<a href="https://github.com/LunaM00n">
 				<img src="https://avatars.githubusercontent.com/u/18070464?s=72&u=b11f082bca7c31240a366121d1f263d51c6170ef&v=4" width="24" alt="Avatar of LunaM00n"> LunaM00n
 			</a><br/>
@@ -342,6 +329,19 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Myanmar</td>
 		<td>120</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>
+			<a href="https://github.com/zinmyoswe">
+				<img src="https://avatars.githubusercontent.com/u/29988949?s=72&u=0bc6c6ad714edd119d3a0128a619f6bed5052c5e&v=4" width="24" alt="Avatar of zinmyoswe"> zinmyoswe
+			</a><br/>
+			ZIN MYO SWE
+		</td>
+		<td>Huawei Technologies(yangon) Co., Ltd.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Yangon</td>
+		<td>119</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -398,6 +398,19 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 	<tr>
 		<td>24</td>
 		<td>
+			<a href="https://github.com/KhunHtetzNaing">
+				<img src="https://avatars.githubusercontent.com/u/12862097?s=72&u=7d2bac75fe4bdcbbabdcb200ed2c5c0ad8e6922a&v=4" width="24" alt="Avatar of KhunHtetzNaing"> KhunHtetzNaing
+			</a><br/>
+			Khun Htetz Naing
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>HsiHseng, Myanmar</td>
+		<td>108</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
 			<a href="https://github.com/hashlin">
 				<img src="https://avatars.githubusercontent.com/u/7232905?s=72&u=52729761c1346d51703b04e62ec8b328e6a2b616&v=4" width="24" alt="Avatar of hashlin"> hashlin
 			</a><br/>
@@ -407,19 +420,6 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Yangon</td>
 		<td>108</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
-			<a href="https://github.com/KhunHtetzNaing">
-				<img src="https://avatars.githubusercontent.com/u/12862097?s=72&u=7d2bac75fe4bdcbbabdcb200ed2c5c0ad8e6922a&v=4" width="24" alt="Avatar of KhunHtetzNaing"> KhunHtetzNaing
-			</a><br/>
-			Khun Htetz Naing
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>HsiHseng, Myanmar</td>
-		<td>107</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -432,7 +432,7 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>Data Land Technology Co.,ltd<br/></td>
 		<td>No Twitter Username</td>
 		<td>Mandalay</td>
-		<td>104</td>
+		<td>105</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -490,7 +490,7 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>31</td>
 		<td>
 			<a href="https://github.com/frencojobs">
-				<img src="https://avatars.githubusercontent.com/u/17830687?s=72&u=33ba2c5ccd0f8dbd93e5e6161a0d83f3c0ca1d99&v=4" width="24" alt="Avatar of frencojobs"> frencojobs
+				<img src="https://avatars.githubusercontent.com/u/17830687?s=72&u=87e5d7dc81325e2d48274df7746c42454c93cbf2&v=4" width="24" alt="Avatar of frencojobs"> frencojobs
 			</a><br/>
 			Frenco
 		</td>
@@ -879,6 +879,19 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 	<tr>
 		<td>61</td>
 		<td>
+			<a href="https://github.com/MinSiThu">
+				<img src="https://avatars.githubusercontent.com/u/27894558?s=72&u=7316187343d311d6c241d2ca5b49e6706b67be31&v=4" width="24" alt="Avatar of MinSiThu"> MinSiThu
+			</a><br/>
+			Min Si Thu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mandalay, Myanmar</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>62</td>
+		<td>
 			<a href="https://github.com/sawthinkar">
 				<img src="https://avatars.githubusercontent.com/u/10482589?s=72&u=2356694c120ed7ba22a2dc6281bce08052102ac8&v=4" width="24" alt="Avatar of sawthinkar"> sawthinkar
 			</a><br/>
@@ -890,7 +903,7 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/sithuaung">
 				<img src="https://avatars.githubusercontent.com/u/5352704?s=72&u=a6817b44d95ae5f8050889011ce921863c7b9fdd&v=4" width="24" alt="Avatar of sithuaung"> sithuaung
@@ -900,19 +913,6 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>Carro </td>
 		<td><a href="https://twitter.com/thewebcrazy">thewebcrazy</a></td>
 		<td>Myanmar</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>63</td>
-		<td>
-			<a href="https://github.com/MinSiThu">
-				<img src="https://avatars.githubusercontent.com/u/27894558?s=72&u=7316187343d311d6c241d2ca5b49e6706b67be31&v=4" width="24" alt="Avatar of MinSiThu"> MinSiThu
-			</a><br/>
-			Min Si Thu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mandalay, Myanmar</td>
 		<td>45</td>
 	</tr>
 	<tr>
@@ -1230,6 +1230,19 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 	<tr>
 		<td>88</td>
 		<td>
+			<a href="https://github.com/RayMarmAung">
+				<img src="https://avatars.githubusercontent.com/u/17219341?s=72&v=4" width="24" alt="Avatar of RayMarmAung"> RayMarmAung
+			</a><br/>
+			No Name
+		</td>
+		<td>Myanmar Creative Team </td>
+		<td>No Twitter Username</td>
+		<td>YANGON, MYANMAR</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
 			<a href="https://github.com/SiThuTuntimehacker">
 				<img src="https://avatars.githubusercontent.com/u/40698550?s=72&u=9aed7757c53809d115f4e9cfbc178ed9532b17bb&v=4" width="24" alt="Avatar of SiThuTuntimehacker"> SiThuTuntimehacker
 			</a><br/>
@@ -1241,7 +1254,7 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/yepyaesonetun">
 				<img src="https://avatars.githubusercontent.com/u/22901781?s=72&u=baf6b7c189fd8b8834f689ea20202e91a16a9327&v=4" width="24" alt="Avatar of yepyaesonetun"> yepyaesonetun
@@ -1254,10 +1267,10 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/mmzliveid">
-				<img src="https://avatars.githubusercontent.com/u/10768223?s=72&u=c6381454f137ffdf71ae1dc0d77fe980fe60fecd&v=4" width="24" alt="Avatar of mmzliveid"> mmzliveid
+				<img src="https://avatars.githubusercontent.com/u/10768223?s=72&u=7eca066e754f258023048a4c1f8641c2e6c3ff65&v=4" width="24" alt="Avatar of mmzliveid"> mmzliveid
 			</a><br/>
 			Moe Myat Zaw
 		</td>
@@ -1267,7 +1280,7 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/arduia">
 				<img src="https://avatars.githubusercontent.com/u/57426247?s=72&u=20508e3ba9b87cf3d6571c998ae75a5aea822843&v=4" width="24" alt="Avatar of arduia"> arduia
@@ -1277,19 +1290,6 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>Wave Money </td>
 		<td><a href="https://twitter.com/kotlincrazy">kotlincrazy</a></td>
 		<td>Myanmar</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>92</td>
-		<td>
-			<a href="https://github.com/RayMarmAung">
-				<img src="https://avatars.githubusercontent.com/u/17219341?s=72&v=4" width="24" alt="Avatar of RayMarmAung"> RayMarmAung
-			</a><br/>
-			No Name
-		</td>
-		<td>Myanmar Creative Team </td>
-		<td>No Twitter Username</td>
-		<td>YANGON, MYANMAR</td>
 		<td>29</td>
 	</tr>
 	<tr>
@@ -2348,6 +2348,19 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 	<tr>
 		<td>174</td>
 		<td>
+			<a href="https://github.com/lillianphyoe">
+				<img src="https://avatars.githubusercontent.com/u/19262583?s=72&u=2886325ae776bc6a5db2d63da47c9b2a9d2ae6bd&v=4" width="24" alt="Avatar of lillianphyoe"> lillianphyoe
+			</a><br/>
+			Lillian Phyoe
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/lillianphyoe">lillianphyoe</a></td>
+		<td>Yangon</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
 			<a href="https://github.com/yethu">
 				<img src="https://avatars.githubusercontent.com/u/10953846?s=72&u=e08550d5de9a9a50296a60a954957d6c90279822&v=4" width="24" alt="Avatar of yethu"> yethu
 			</a><br/>
@@ -2359,7 +2372,7 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/ThihaKaungSet3">
 				<img src="https://avatars.githubusercontent.com/u/28014750?s=72&u=23f59fbef9703214d3e3de8fe58d13112796cc16&v=4" width="24" alt="Avatar of ThihaKaungSet3"> ThihaKaungSet3
@@ -2372,7 +2385,7 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/SuYin2096">
 				<img src="https://avatars.githubusercontent.com/u/40317965?s=72&u=d6ad8bb6022099b32cd7aeacae4b40634bee0d26&v=4" width="24" alt="Avatar of SuYin2096"> SuYin2096
@@ -2385,7 +2398,7 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/oakkar7">
 				<img src="https://avatars.githubusercontent.com/u/11451532?s=72&v=4" width="24" alt="Avatar of oakkar7"> oakkar7
@@ -2398,7 +2411,7 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/pyaehein">
 				<img src="https://avatars.githubusercontent.com/u/9808854?s=72&u=4a615203b1b8f6bab321fbb5555ded7e75003a46&v=4" width="24" alt="Avatar of pyaehein"> pyaehein
@@ -2411,7 +2424,7 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/PyaeNyeinChann">
 				<img src="https://avatars.githubusercontent.com/u/26062244?s=72&u=45c2ebccab10bf8d343cc23e2b9d64c38276cbc7&v=4" width="24" alt="Avatar of PyaeNyeinChann"> PyaeNyeinChann
@@ -2424,7 +2437,7 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/Ngweyee">
 				<img src="https://avatars.githubusercontent.com/u/25066919?s=72&u=5ebec0c96405f95f9061d4dcc53f747d0f635fab&v=4" width="24" alt="Avatar of Ngweyee"> Ngweyee
@@ -2437,7 +2450,7 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/LukasUnbesiegt">
 				<img src="https://avatars.githubusercontent.com/u/21049766?s=72&u=34639070ed452cef47a2de4ea4262a6c42fd913b&v=4" width="24" alt="Avatar of LukasUnbesiegt"> LukasUnbesiegt
@@ -2450,7 +2463,7 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/virskor">
 				<img src="https://avatars.githubusercontent.com/u/16968535?s=72&u=2a7ece7ad36a9b53f42ae1b551fdfb4052f662da&v=4" width="24" alt="Avatar of virskor"> virskor
@@ -2460,19 +2473,6 @@ There are `1000 users`  in Myanmar. You need at least `1 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>LAOJIE Myanmar</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>183</td>
-		<td>
-			<a href="https://github.com/lillianphyoe">
-				<img src="https://avatars.githubusercontent.com/u/19262583?s=72&u=2886325ae776bc6a5db2d63da47c9b2a9d2ae6bd&v=4" width="24" alt="Avatar of lillianphyoe"> lillianphyoe
-			</a><br/>
-			Lillian Phyoe
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/lillianphyoe">lillianphyoe</a></td>
-		<td>Yangon</td>
 		<td>13</td>
 	</tr>
 	<tr>
