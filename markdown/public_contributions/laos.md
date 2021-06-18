@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `public contributions` by users in Laos on `2021/6/16 11:18 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `public contributions` by users in Laos on `2021/6/18 4:58 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
-There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `675 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `252 users`  in Laos. You need at least `0 followers` to be on this list.
 
@@ -120,7 +120,7 @@ There are `252 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vientiane/Laos</td>
-		<td>344</td>
+		<td>346</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -198,7 +198,7 @@ There are `252 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
-		<td>95</td>
+		<td>97</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -224,7 +224,7 @@ There are `252 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>DD Laos</td>
-		<td>86</td>
+		<td>87</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -502,6 +502,19 @@ There are `252 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>32</td>
 		<td>
+			<a href="https://github.com/Xaypanya">
+				<img src="https://avatars.githubusercontent.com/u/67275080?s=72&u=60c07b58324ff74cfd2e36865b910c18f387e66f&v=4" width="24" alt="Avatar of Xaypanya"> Xaypanya
+			</a><br/>
+			Xaypanya Phongsa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Xaythany, Vientiane Prefecture, Laos</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>33</td>
+		<td>
 			<a href="https://github.com/xone-sps">
 				<img src="https://avatars.githubusercontent.com/u/38064812?s=72&u=bd31a09830474868ed14ff005eac28769c2ef0b2&v=4" width="24" alt="Avatar of xone-sps"> xone-sps
 			</a><br/>
@@ -513,7 +526,7 @@ There are `252 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/GH3a">
 				<img src="https://avatars.githubusercontent.com/u/64625271?s=72&u=6153a217de87a29074c7ff70b73fbb13e0a85c49&v=4" width="24" alt="Avatar of GH3a"> GH3a
@@ -523,20 +536,7 @@ There are `252 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Thapana Ltd. </td>
 		<td>No Twitter Username</td>
 		<td>Vientiane, PR Laos</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>34</td>
-		<td>
-			<a href="https://github.com/Xaypanya">
-				<img src="https://avatars.githubusercontent.com/u/67275080?s=72&u=60c07b58324ff74cfd2e36865b910c18f387e66f&v=4" width="24" alt="Avatar of Xaypanya"> Xaypanya
-			</a><br/>
-			Xaypanya Phongsa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Xaythany, Vientiane Prefecture, Laos</td>
-		<td>28</td>
+		<td>30</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -580,6 +580,19 @@ There are `252 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>38</td>
 		<td>
+			<a href="https://github.com/jvongxay">
+				<img src="https://avatars.githubusercontent.com/u/61179476?s=72&u=fb0766a000052709b2d9f783b6a65d75b1b21eef&v=4" width="24" alt="Avatar of jvongxay"> jvongxay
+			</a><br/>
+			Jalana Vongxay
+		</td>
+		<td>Lao It Development Co.,<br/>Ltd.<br/></td>
+		<td><a href="https://twitter.com/jvongxay0308">jvongxay0308</a></td>
+		<td>Laos</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
 			<a href="https://github.com/tibeemts">
 				<img src="https://avatars.githubusercontent.com/u/72777657?s=72&u=8b7d2ba489a8b45b6b881f5045d3b19ee19d2ba1&v=4" width="24" alt="Avatar of tibeemts"> tibeemts
 			</a><br/>
@@ -591,7 +604,7 @@ There are `252 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/xuemoua1995">
 				<img src="https://avatars.githubusercontent.com/u/70460701?s=72&u=982d923352d0237e7de43f43584bdd54749b34d0&v=4" width="24" alt="Avatar of xuemoua1995"> xuemoua1995
@@ -604,7 +617,7 @@ There are `252 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/joepyro17">
 				<img src="https://avatars.githubusercontent.com/u/12807907?s=72&u=62c01136ef75f6ac3c024c28a9f4c9ca413452a7&v=4" width="24" alt="Avatar of joepyro17"> joepyro17
@@ -615,19 +628,6 @@ There are `252 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane, Lao PDR</td>
 		<td>23</td>
-	</tr>
-	<tr>
-		<td>41</td>
-		<td>
-			<a href="https://github.com/jvongxay">
-				<img src="https://avatars.githubusercontent.com/u/61179476?s=72&u=fb0766a000052709b2d9f783b6a65d75b1b21eef&v=4" width="24" alt="Avatar of jvongxay"> jvongxay
-			</a><br/>
-			Jalana Vongxay
-		</td>
-		<td>Lao It Development Co.,<br/>Ltd.<br/></td>
-		<td><a href="https://twitter.com/jvongxay0308">jvongxay0308</a></td>
-		<td>Laos</td>
-		<td>22</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -1854,19 +1854,6 @@ There are `252 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>136</td>
 		<td>
-			<a href="https://github.com/wungsai">
-				<img src="https://avatars.githubusercontent.com/u/33681920?s=72&v=4" width="24" alt="Avatar of wungsai"> wungsai
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Laos</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>137</td>
-		<td>
 			<a href="https://github.com/LaoPaklay">
 				<img src="https://avatars.githubusercontent.com/u/85179522?s=72&v=4" width="24" alt="Avatar of LaoPaklay"> LaoPaklay
 			</a><br/>
@@ -1874,6 +1861,19 @@ There are `252 users`  in Laos. You need at least `0 followers` to be on this li
 		</td>
 		<td>Laospaklay </td>
 		<td><a href="https://twitter.com/02097330582">02097330582</a></td>
+		<td>Laos</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>137</td>
+		<td>
+			<a href="https://github.com/wungsai">
+				<img src="https://avatars.githubusercontent.com/u/33681920?s=72&v=4" width="24" alt="Avatar of wungsai"> wungsai
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Laos</td>
 		<td>1</td>
 	</tr>
