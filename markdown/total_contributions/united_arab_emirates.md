@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2021/6/17 1:54 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Abu-dhabi` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2021/6/20 6:17 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
-There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `675 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `31 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
+There are `28 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -212,34 +212,6 @@ There are `31 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>9</td>
 		<td>
-			<a href="https://github.com/uaeu01">
-				<img src="https://avatars.githubusercontent.com/u/74652826?s=72&u=6195c5077554ffeef5a675293a8d0998d277bfdf&v=4" width="24" alt="Avatar of uaeu01"> uaeu01
-			</a><br/>
-			United Arab Emirates University (UAEU)
-		</td>
-		<td>Uaeu </td>
-		<td>No Twitter Username</td>
-		<td>Abu Dhabi</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>10</td>
-		<td>
-			<a href="https://github.com/fsallabi">
-				<img src="https://avatars.githubusercontent.com/u/42683083?s=72&u=82c5150d5e0d615b6a7aa5c4fffa3d30e90439eb&v=4" width="24" alt="Avatar of fsallabi"> fsallabi
-			</a><br/>
-			Farag Sallabi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Al Ain, Abu Dhabi, UAE</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>11</td>
-		<td>
 			<a href="https://github.com/itradiation">
 				<img src="https://avatars.githubusercontent.com/u/71599456?s=72&u=93a772f385286ad892718a9172952786c898eb92&v=4" width="24" alt="Avatar of itradiation"> itradiation
 			</a><br/>
@@ -252,7 +224,7 @@ There are `31 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/hendrymichal">
 				<img src="https://avatars.githubusercontent.com/u/85982146?s=72&u=fc6fcd7320edb46975339de112aa6d6d68f77f93&v=4" width="24" alt="Avatar of hendrymichal"> hendrymichal
