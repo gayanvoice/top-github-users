@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2021/6/17 7:37 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2021/6/20 7:12 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
-There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `675 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `166 users`  in Andorra. You need at least `0 followers` to be on this list.
 
@@ -112,10 +112,10 @@ There are `166 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>2</td>
 		<td>
-			<a href="https://github.com/ysb33r">
-				<img src="https://avatars.githubusercontent.com/u/907624?s=72&v=4" width="24" alt="Avatar of ysb33r"> ysb33r
+			<a href="https://github.com/XaviTorello">
+				<img src="https://avatars.githubusercontent.com/u/8709244?s=72&u=a40df1c3d2c71784cf7f80f4f8f7ab29598eb57f&v=4" width="24" alt="Avatar of XaviTorello"> XaviTorello
 			</a><br/>
-			Schalk W. Cronjé
+			Xavi Torelló
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -125,15 +125,15 @@ There are `166 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>3</td>
 		<td>
-			<a href="https://github.com/XaviTorello">
-				<img src="https://avatars.githubusercontent.com/u/8709244?s=72&u=a40df1c3d2c71784cf7f80f4f8f7ab29598eb57f&v=4" width="24" alt="Avatar of XaviTorello"> XaviTorello
+			<a href="https://github.com/ysb33r">
+				<img src="https://avatars.githubusercontent.com/u/907624?s=72&v=4" width="24" alt="Avatar of ysb33r"> ysb33r
 			</a><br/>
-			Xavi Torelló
+			Schalk W. Cronjé
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>49</td>
+		<td>50</td>
 	</tr>
 	<tr>
 		<td>4</td>
