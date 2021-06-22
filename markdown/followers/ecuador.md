@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" alt="Ecuador">
 </a>
 
-The `number of followers` of users in Ecuador on `2021/6/15 10:27 PM UTC`. This list contains users from `Ecuador` and cities `Quito` `Guayaquil` `Cuenca` `Ambato` `Manta`.
+The `number of followers` of users in Ecuador on `2021/6/22 7:25 AM UTC`. This list contains users from `Ecuador` and cities `Quito` `Guayaquil` `Cuenca` `Ambato` `Manta`.
 
-There are `136 countries` and `685 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `675 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `1000 users`  in Ecuador. You need at least `2 followers` to be on this list.
 
@@ -120,7 +120,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>Kullki Fintech Kss S.a.<br/></td>
 		<td>No Twitter Username</td>
 		<td>Cuenca, Ecuador</td>
-		<td>401</td>
+		<td>404</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -146,7 +146,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>©white Hacks </td>
 		<td>No Twitter Username</td>
 		<td>Ecuador</td>
-		<td>280</td>
+		<td>283</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -159,7 +159,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>Andrés Santibáñez </td>
 		<td><a href="https://twitter.com/asantibanez">asantibanez</a></td>
 		<td>Guayaquil, Ecuador</td>
-		<td>196</td>
+		<td>195</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -185,7 +185,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>Meedu.ap </td>
 		<td>No Twitter Username</td>
 		<td>Ecuador</td>
-		<td>115</td>
+		<td>116</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -198,7 +198,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>Shippify Inc. </td>
 		<td><a href="https://twitter.com/leonardokuffo">leonardokuffo</a></td>
 		<td>Guayaquil, Ecuador</td>
-		<td>100</td>
+		<td>101</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -224,7 +224,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>Sociedad Ecuatoriana De Estadística<br/></td>
 		<td>No Twitter Username</td>
 		<td>Ecuador</td>
-		<td>89</td>
+		<td>90</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -237,7 +237,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>@desarol </td>
 		<td><a href="https://twitter.com/devrchancay">devrchancay</a></td>
 		<td>Ecuador, Guayaquil</td>
-		<td>86</td>
+		<td>85</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -263,7 +263,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>@upsalesiana </td>
 		<td><a href="https://twitter.com/omarjcm">omarjcm</a></td>
 		<td>Guayaquil, Ecuador</td>
-		<td>79</td>
+		<td>78</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -307,6 +307,19 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 	<tr>
 		<td>17</td>
 		<td>
+			<a href="https://github.com/LuisReinoso">
+				<img src="https://avatars.githubusercontent.com/u/7484215?s=72&u=2d2b3cfbb33f6d32679f0b3ed1b77ed96fb98b14&v=4" width="24" alt="Avatar of LuisReinoso"> LuisReinoso
+			</a><br/>
+			Luis Reinoso
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/luisreinosodev">luisreinosodev</a></td>
+		<td>Quito, Ecuador</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
 			<a href="https://github.com/juanmnl">
 				<img src="https://avatars.githubusercontent.com/u/699945?s=72&u=12d598235dd553471510b8e5b161e4cba76dada0&v=4" width="24" alt="Avatar of juanmnl"> juanmnl
 			</a><br/>
@@ -316,19 +329,6 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td><a href="https://twitter.com/_juanmnl">_juanmnl</a></td>
 		<td>Ecuador</td>
 		<td>63</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
-			<a href="https://github.com/LuisReinoso">
-				<img src="https://avatars.githubusercontent.com/u/7484215?s=72&u=2d2b3cfbb33f6d32679f0b3ed1b77ed96fb98b14&v=4" width="24" alt="Avatar of LuisReinoso"> LuisReinoso
-			</a><br/>
-			Luis Reinoso
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/luisreinosodev">luisreinosodev</a></td>
-		<td>Quito, Ecuador</td>
-		<td>62</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -367,7 +367,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>Andrab </td>
 		<td>No Twitter Username</td>
 		<td>Guayaquil, Ecuador</td>
-		<td>56</td>
+		<td>57</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -398,6 +398,19 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 	<tr>
 		<td>24</td>
 		<td>
+			<a href="https://github.com/rowanseymour">
+				<img src="https://avatars.githubusercontent.com/u/675558?s=72&v=4" width="24" alt="Avatar of rowanseymour"> rowanseymour
+			</a><br/>
+			Rowan Seymour
+		</td>
+		<td>@nyaruka  </td>
+		<td>No Twitter Username</td>
+		<td>Cuenca, Ecuador</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
 			<a href="https://github.com/AurelienEC">
 				<img src="https://avatars.githubusercontent.com/u/3941062?s=72&v=4" width="24" alt="Avatar of AurelienEC"> AurelienEC
 			</a><br/>
@@ -407,19 +420,6 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ecuador</td>
 		<td>51</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
-			<a href="https://github.com/rowanseymour">
-				<img src="https://avatars.githubusercontent.com/u/675558?s=72&v=4" width="24" alt="Avatar of rowanseymour"> rowanseymour
-			</a><br/>
-			Rowan Seymour
-		</td>
-		<td>@nyaruka  </td>
-		<td>No Twitter Username</td>
-		<td>Cuenca, Ecuador</td>
-		<td>50</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -437,10 +437,10 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 	<tr>
 		<td>27</td>
 		<td>
-			<a href="https://github.com/dimirc">
-				<img src="https://avatars.githubusercontent.com/u/5034942?s=72&v=4" width="24" alt="Avatar of dimirc"> dimirc
+			<a href="https://github.com/GAumala">
+				<img src="https://avatars.githubusercontent.com/u/5729175?s=72&u=8a6eff112ba0ee19a26c401c1dc19fd875b3cbe7&v=4" width="24" alt="Avatar of GAumala"> GAumala
 			</a><br/>
-			Wladimir Coka
+			Gabriel Aumala
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -450,15 +450,15 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 	<tr>
 		<td>28</td>
 		<td>
-			<a href="https://github.com/GAumala">
-				<img src="https://avatars.githubusercontent.com/u/5729175?s=72&u=8a6eff112ba0ee19a26c401c1dc19fd875b3cbe7&v=4" width="24" alt="Avatar of GAumala"> GAumala
+			<a href="https://github.com/dimirc">
+				<img src="https://avatars.githubusercontent.com/u/5034942?s=72&v=4" width="24" alt="Avatar of dimirc"> dimirc
 			</a><br/>
-			Gabriel Aumala
+			Wladimir Coka
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Guayaquil, Ecuador</td>
-		<td>46</td>
+		<td>47</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -471,7 +471,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>Insights Network </td>
 		<td>No Twitter Username</td>
 		<td>Quito, Ecuador</td>
-		<td>44</td>
+		<td>45</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -541,6 +541,19 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 	<tr>
 		<td>35</td>
 		<td>
+			<a href="https://github.com/Wilo">
+				<img src="https://avatars.githubusercontent.com/u/1874853?s=72&v=4" width="24" alt="Avatar of Wilo"> Wilo
+			</a><br/>
+			William Méndez
+		</td>
+		<td>Avanet </td>
+		<td>No Twitter Username</td>
+		<td>Ecuador</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
 			<a href="https://github.com/macool">
 				<img src="https://avatars.githubusercontent.com/u/1407000?s=72&u=dfed3ec8173157aac5ac1b83e9e9311409093e61&v=4" width="24" alt="Avatar of macool"> macool
 			</a><br/>
@@ -552,7 +565,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/well1791">
 				<img src="https://avatars.githubusercontent.com/u/6817008?s=72&v=4" width="24" alt="Avatar of well1791"> well1791
@@ -565,7 +578,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/aVERA8">
 				<img src="https://avatars.githubusercontent.com/u/42346221?s=72&u=f248e8071033c73ad9ff69f169f1e15877865679&v=4" width="24" alt="Avatar of aVERA8"> aVERA8
@@ -578,7 +591,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/jreyes33">
 				<img src="https://avatars.githubusercontent.com/u/117723?s=72&v=4" width="24" alt="Avatar of jreyes33"> jreyes33
@@ -591,7 +604,20 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>40</td>
+		<td>
+			<a href="https://github.com/flandrade">
+				<img src="https://avatars.githubusercontent.com/u/6790161?s=72&u=4b8cb742d11ad1ec79a3065727c9359a2cde90e8&v=4" width="24" alt="Avatar of flandrade"> flandrade
+			</a><br/>
+			Fernanda Andrade
+		</td>
+		<td>@stackbuilders </td>
+		<td>No Twitter Username</td>
+		<td>Quito, Ecuador</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/franzsilva">
 				<img src="https://avatars.githubusercontent.com/u/5158380?s=72&u=7cc502baa5f69489a1140c63f48a0c851eda2620&v=4" width="24" alt="Avatar of franzsilva"> franzsilva
@@ -604,20 +630,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>40</td>
-		<td>
-			<a href="https://github.com/Wilo">
-				<img src="https://avatars.githubusercontent.com/u/1874853?s=72&v=4" width="24" alt="Avatar of Wilo"> Wilo
-			</a><br/>
-			William Méndez
-		</td>
-		<td>Avanet </td>
-		<td>No Twitter Username</td>
-		<td>Ecuador</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>41</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/ivansanchezvera">
 				<img src="https://avatars.githubusercontent.com/u/5718564?s=72&u=9f1540ff729fbee69b11cf113b05853a51ca15fa&v=4" width="24" alt="Avatar of ivansanchezvera"> ivansanchezvera
@@ -630,7 +643,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/mijailr">
 				<img src="https://avatars.githubusercontent.com/u/1911813?s=72&u=9c046f4ad44bd517f229416f260295750937e294&v=4" width="24" alt="Avatar of mijailr"> mijailr
@@ -643,29 +656,16 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>44</td>
 		<td>
 			<a href="https://github.com/pauloesteban">
 				<img src="https://avatars.githubusercontent.com/u/12860112?s=72&u=add86a4a7768ad6d393986ce615aa665ae15d847&v=4" width="24" alt="Avatar of pauloesteban"> pauloesteban
 			</a><br/>
-			Paulo Esteban Chiliguano
+			Paulo Chiliguano
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ecuador</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>
-			<a href="https://github.com/flandrade">
-				<img src="https://avatars.githubusercontent.com/u/6790161?s=72&u=4b8cb742d11ad1ec79a3065727c9359a2cde90e8&v=4" width="24" alt="Avatar of flandrade"> flandrade
-			</a><br/>
-			Fernanda Andrade
-		</td>
-		<td>@stackbuilders </td>
-		<td>No Twitter Username</td>
-		<td>Quito, Ecuador</td>
 		<td>36</td>
 	</tr>
 	<tr>
@@ -788,19 +788,6 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 	<tr>
 		<td>54</td>
 		<td>
-			<a href="https://github.com/VAUTPL">
-				<img src="https://avatars.githubusercontent.com/u/13239935?s=72&u=fd876d170f9bdb232778f363f890f45b6c56cc1d&v=4" width="24" alt="Avatar of VAUTPL"> VAUTPL
-			</a><br/>
-			Artificial Intelligence Group from UTPL
-		</td>
-		<td>Utpl </td>
-		<td>No Twitter Username</td>
-		<td>Loja, Ecuador</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>55</td>
-		<td>
 			<a href="https://github.com/AlvaradoBa">
 				<img src="https://avatars.githubusercontent.com/u/42183753?s=72&u=2304eeafae574255c6c5fe4c93aa1c5b9bcfd28d&v=4" width="24" alt="Avatar of AlvaradoBa"> AlvaradoBa
 			</a><br/>
@@ -812,7 +799,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>56</td>
+		<td>55</td>
 		<td>
 			<a href="https://github.com/acamino">
 				<img src="https://avatars.githubusercontent.com/u/957202?s=72&u=f03049c782aef6e14efe86651f8e255e94578c53&v=4" width="24" alt="Avatar of acamino"> acamino
@@ -822,6 +809,19 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>Genome, Llc </td>
 		<td>No Twitter Username</td>
 		<td>Quito, Ecuador</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/VAUTPL">
+				<img src="https://avatars.githubusercontent.com/u/13239935?s=72&u=fd876d170f9bdb232778f363f890f45b6c56cc1d&v=4" width="24" alt="Avatar of VAUTPL"> VAUTPL
+			</a><br/>
+			Artificial Intelligence Group from UTPL
+		</td>
+		<td>Utpl </td>
+		<td>No Twitter Username</td>
+		<td>Loja, Ecuador</td>
 		<td>32</td>
 	</tr>
 	<tr>
@@ -853,6 +853,19 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 	<tr>
 		<td>59</td>
 		<td>
+			<a href="https://github.com/rpalaciosg">
+				<img src="https://avatars.githubusercontent.com/u/11642622?s=72&u=80d3394a8800fdac4073a5474bce7ff9ea51f2c0&v=4" width="24" alt="Avatar of rpalaciosg"> rpalaciosg
+			</a><br/>
+			Richard Palacios G
+		</td>
+		<td>Mutualista Azuay </td>
+		<td><a href="https://twitter.com/rpalaciosg_">rpalaciosg_</a></td>
+		<td>Cuenca, Ecuador</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
 			<a href="https://github.com/eraad">
 				<img src="https://avatars.githubusercontent.com/u/74592?s=72&v=4" width="24" alt="Avatar of eraad"> eraad
 			</a><br/>
@@ -864,7 +877,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>60</td>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/javcasas">
 				<img src="https://avatars.githubusercontent.com/u/4497839?s=72&u=42fd7be65e7df5688ae686c568288ed17c619b4d&v=4" width="24" alt="Avatar of javcasas"> javcasas
@@ -877,7 +890,20 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>61</td>
+		<td>62</td>
+		<td>
+			<a href="https://github.com/israteneda">
+				<img src="https://avatars.githubusercontent.com/u/20668624?s=72&u=36866c8cb3a25b9a20e798d0d032c2ff8da4159a&v=4" width="24" alt="Avatar of israteneda"> israteneda
+			</a><br/>
+			Israel Teneda
+		</td>
+		<td>Ioet </td>
+		<td><a href="https://twitter.com/israteneda">israteneda</a></td>
+		<td>Ecuador</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/JoeTech-Studio">
 				<img src="https://avatars.githubusercontent.com/u/66227126?s=72&u=c55e659e4b50739d9bd80e22ed7eb47d0009d570&v=4" width="24" alt="Avatar of JoeTech-Studio"> JoeTech-Studio
@@ -890,7 +916,20 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>64</td>
+		<td>
+			<a href="https://github.com/po5i">
+				<img src="https://avatars.githubusercontent.com/u/1675168?s=72&u=bbfb440c1a751a38072f14d10d56cade8595fbf5&v=4" width="24" alt="Avatar of po5i"> po5i
+			</a><br/>
+			Carlos Villavicencio
+		</td>
+		<td>@stackbuilders  </td>
+		<td>No Twitter Username</td>
+		<td>Ecuador</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/martosfre">
 				<img src="https://avatars.githubusercontent.com/u/4555535?s=72&u=fe8eb85570b979ca791d6da712952903942736dd&v=4" width="24" alt="Avatar of martosfre"> martosfre
@@ -903,7 +942,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/aVERA44">
 				<img src="https://avatars.githubusercontent.com/u/42183623?s=72&u=43b1b7f3765e52ebd06f66fa48367e33d7adf035&v=4" width="24" alt="Avatar of aVERA44"> aVERA44
@@ -916,33 +955,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>64</td>
-		<td>
-			<a href="https://github.com/po5i">
-				<img src="https://avatars.githubusercontent.com/u/1675168?s=72&u=bbfb440c1a751a38072f14d10d56cade8595fbf5&v=4" width="24" alt="Avatar of po5i"> po5i
-			</a><br/>
-			Carlos Villavicencio
-		</td>
-		<td>@stackbuilders  </td>
-		<td>No Twitter Username</td>
-		<td>Ecuador</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>65</td>
-		<td>
-			<a href="https://github.com/israteneda">
-				<img src="https://avatars.githubusercontent.com/u/20668624?s=72&u=36866c8cb3a25b9a20e798d0d032c2ff8da4159a&v=4" width="24" alt="Avatar of israteneda"> israteneda
-			</a><br/>
-			Israel Teneda
-		</td>
-		<td>Ioet </td>
-		<td><a href="https://twitter.com/israteneda">israteneda</a></td>
-		<td>Ecuador</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>66</td>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/joselo">
 				<img src="https://avatars.githubusercontent.com/u/4682?s=72&u=6887d96c91aa14073cd75d2eba127e121a91520c&v=4" width="24" alt="Avatar of joselo"> joselo
@@ -955,7 +968,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>68</td>
 		<td>
 			<a href="https://github.com/emamut">
 				<img src="https://avatars.githubusercontent.com/u/134828?s=72&u=e81daf2f8fe21dee7d8ebaee30c9e3f5411d12b1&v=4" width="24" alt="Avatar of emamut"> emamut
@@ -965,19 +978,6 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>Emamut </td>
 		<td><a href="https://twitter.com/e_mamut">e_mamut</a></td>
 		<td>Quito</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>68</td>
-		<td>
-			<a href="https://github.com/rpalaciosg">
-				<img src="https://avatars.githubusercontent.com/u/11642622?s=72&u=80d3394a8800fdac4073a5474bce7ff9ea51f2c0&v=4" width="24" alt="Avatar of rpalaciosg"> rpalaciosg
-			</a><br/>
-			Richard Palacios G
-		</td>
-		<td>Mutualista Azuay </td>
-		<td><a href="https://twitter.com/rpalaciosg_">rpalaciosg_</a></td>
-		<td>Cuenca, Ecuador</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -1105,7 +1105,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 			</a><br/>
 			Pablo España
 		</td>
-		<td>@clickselly @innovbec </td>
+		<td>@itmentory @clickselly  </td>
 		<td><a href="https://twitter.com/pabl0espana">pabl0espana</a></td>
 		<td>Ecuador</td>
 		<td>26</td>
@@ -1204,6 +1204,19 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 	<tr>
 		<td>86</td>
 		<td>
+			<a href="https://github.com/baesparza">
+				<img src="https://avatars.githubusercontent.com/u/24482939?s=72&u=cc61dce19ae2a10ecd1850be413d8ce1d4990d3f&v=4" width="24" alt="Avatar of baesparza"> baesparza
+			</a><br/>
+			Bruno Esparza
+		</td>
+		<td>@indevelopmentcompan  </td>
+		<td>No Twitter Username</td>
+		<td>Loja, Ecuador</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
 			<a href="https://github.com/junix7">
 				<img src="https://avatars.githubusercontent.com/u/25205898?s=72&u=00fde7ff8720666bef7dbb8ed2b8020bc7dfd1ea&v=4" width="24" alt="Avatar of junix7"> junix7
 			</a><br/>
@@ -1215,7 +1228,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/xavysp">
 				<img src="https://avatars.githubusercontent.com/u/3678862?s=72&u=5050081488544f6ceba7afcf5f4030b76cbb71f0&v=4" width="24" alt="Avatar of xavysp"> xavysp
@@ -1228,7 +1241,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/edgarsanchez">
 				<img src="https://avatars.githubusercontent.com/u/220706?s=72&v=4" width="24" alt="Avatar of edgarsanchez"> edgarsanchez
@@ -1241,7 +1254,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/jameswilson">
 				<img src="https://avatars.githubusercontent.com/u/243532?s=72&u=1da75694f95e209a15656679987c99fb5fcc086a&v=4" width="24" alt="Avatar of jameswilson"> jameswilson
@@ -1254,7 +1267,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/dmgk">
 				<img src="https://avatars.githubusercontent.com/u/5332688?s=72&u=1b3c4998816719d133b428fdf8bfb3207fa5ab58&v=4" width="24" alt="Avatar of dmgk"> dmgk
@@ -1264,19 +1277,6 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ecuador</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
-			<a href="https://github.com/baesparza">
-				<img src="https://avatars.githubusercontent.com/u/24482939?s=72&u=cc61dce19ae2a10ecd1850be413d8ce1d4990d3f&v=4" width="24" alt="Avatar of baesparza"> baesparza
-			</a><br/>
-			Bruno Esparza
-		</td>
-		<td>@indevelopmentcompan  </td>
-		<td>No Twitter Username</td>
-		<td>Loja, Ecuador</td>
 		<td>23</td>
 	</tr>
 	<tr>
@@ -1295,6 +1295,19 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 	<tr>
 		<td>93</td>
 		<td>
+			<a href="https://github.com/mcelicalderon">
+				<img src="https://avatars.githubusercontent.com/u/3926414?s=72&u=26f785e5bca11d2a342ebe85abada70e23b72325&v=4" width="24" alt="Avatar of mcelicalderon"> mcelicalderon
+			</a><br/>
+			Mario Celi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Quito, Ecuador</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
 			<a href="https://github.com/mfrasca">
 				<img src="https://avatars.githubusercontent.com/u/122869?s=72&u=a8cac5d2d3409d2292e442e473c9b60031965591&v=4" width="24" alt="Avatar of mfrasca"> mfrasca
 			</a><br/>
@@ -1306,7 +1319,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/KarenCalva">
 				<img src="https://avatars.githubusercontent.com/u/12573436?s=72&u=5fe3a6218a13edc05f7421dc4bf3709b3838b783&v=4" width="24" alt="Avatar of KarenCalva"> KarenCalva
@@ -1319,7 +1332,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>95</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/DavidArmendariz">
 				<img src="https://avatars.githubusercontent.com/u/21047920?s=72&u=52adee0a910059487893cf3a286a788050ae201b&v=4" width="24" alt="Avatar of DavidArmendariz"> DavidArmendariz
@@ -1332,7 +1345,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>97</td>
 		<td>
 			<a href="https://github.com/jsantos17">
 				<img src="https://avatars.githubusercontent.com/u/677310?s=72&u=495ebd3fd0815a2ea56fc7a606c2b33cbdcc65b1&v=4" width="24" alt="Avatar of jsantos17"> jsantos17
@@ -1342,19 +1355,6 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Quito</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>97</td>
-		<td>
-			<a href="https://github.com/mcelicalderon">
-				<img src="https://avatars.githubusercontent.com/u/3926414?s=72&u=26f785e5bca11d2a342ebe85abada70e23b72325&v=4" width="24" alt="Avatar of mcelicalderon"> mcelicalderon
-			</a><br/>
-			Mario Celi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Quito, Ecuador</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -1425,6 +1425,19 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 	<tr>
 		<td>103</td>
 		<td>
+			<a href="https://github.com/rtufino">
+				<img src="https://avatars.githubusercontent.com/u/2481292?s=72&v=4" width="24" alt="Avatar of rtufino"> rtufino
+			</a><br/>
+			Rodrigo Tufiño
+		</td>
+		<td>Universidad Politécnica Salesiana <br/></td>
+		<td><a href="https://twitter.com/RodryTufio">RodryTufio</a></td>
+		<td>Quito - Ecuador</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
 			<a href="https://github.com/danielvera69">
 				<img src="https://avatars.githubusercontent.com/u/38085792?s=72&u=0f159c6e323e8dea0c7b94420f915e0a81b46105&v=4" width="24" alt="Avatar of danielvera69"> danielvera69
 			</a><br/>
@@ -1436,7 +1449,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>104</td>
+		<td>105</td>
 		<td>
 			<a href="https://github.com/Alexoid1">
 				<img src="https://avatars.githubusercontent.com/u/53111464?s=72&u=3c1a7ca9c449048034fe797eac1a6affd4ae431d&v=4" width="24" alt="Avatar of Alexoid1"> Alexoid1
@@ -1449,7 +1462,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>105</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/sunilkumardevalla">
 				<img src="https://avatars.githubusercontent.com/u/60904688?s=72&u=3e6f5bb442bdde45852fd624ce10523f6ad6cc69&v=4" width="24" alt="Avatar of sunilkumardevalla"> sunilkumardevalla
@@ -1462,7 +1475,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>106</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/jcsuscriptor">
 				<img src="https://avatars.githubusercontent.com/u/222181?s=72&v=4" width="24" alt="Avatar of jcsuscriptor"> jcsuscriptor
@@ -1472,19 +1485,6 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>Espiral Digital </td>
 		<td>No Twitter Username</td>
 		<td>Ecuador, Loja</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>107</td>
-		<td>
-			<a href="https://github.com/rtufino">
-				<img src="https://avatars.githubusercontent.com/u/2481292?s=72&v=4" width="24" alt="Avatar of rtufino"> rtufino
-			</a><br/>
-			Rodrigo Tufiño
-		</td>
-		<td>Universidad Politécnica Salesiana <br/></td>
-		<td><a href="https://twitter.com/RodryTufio">RodryTufio</a></td>
-		<td>Quito - Ecuador</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -1685,6 +1685,19 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 	<tr>
 		<td>123</td>
 		<td>
+			<a href="https://github.com/justcoddev">
+				<img src="https://avatars.githubusercontent.com/u/37991332?s=72&u=66ce914f5f141c5ab5ed62cf3b37a58c6662768a&v=4" width="24" alt="Avatar of justcoddev"> justcoddev
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ecuador</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>
 			<a href="https://github.com/ImAMadDev">
 				<img src="https://avatars.githubusercontent.com/u/30436794?s=72&v=4" width="24" alt="Avatar of ImAMadDev"> ImAMadDev
 			</a><br/>
@@ -1696,7 +1709,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/JohaoDev">
 				<img src="https://avatars.githubusercontent.com/u/40304553?s=72&u=88ff13d4da77c160ad192599f2096a58a2f92cc8&v=4" width="24" alt="Avatar of JohaoDev"> JohaoDev
@@ -1709,7 +1722,33 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>126</td>
+		<td>
+			<a href="https://github.com/maylonpedroso">
+				<img src="https://avatars.githubusercontent.com/u/21978742?s=72&u=08f4d1c239b7ac0c09f59d5295ffa2e03838f911&v=4" width="24" alt="Avatar of maylonpedroso"> maylonpedroso
+			</a><br/>
+			Maylon Pedroso
+		</td>
+		<td>@stackbuilders  </td>
+		<td>No Twitter Username</td>
+		<td>Quito, Euador</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>127</td>
+		<td>
+			<a href="https://github.com/bram70">
+				<img src="https://avatars.githubusercontent.com/u/550702?s=72&u=1e84b4869a85ec3a255198b8389f38b0856c375e&v=4" width="24" alt="Avatar of bram70"> bram70
+			</a><br/>
+			wanb
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ecuador</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/dannilandeta">
 				<img src="https://avatars.githubusercontent.com/u/65782346?s=72&u=091842624b66f5440a66608d09a8811fc4170a7a&v=4" width="24" alt="Avatar of dannilandeta"> dannilandeta
@@ -1722,7 +1761,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/dfdavila2">
 				<img src="https://avatars.githubusercontent.com/u/57158584?s=72&u=dcdac09e2c0b1d48fc8e8c7cdd75b59b968ae89a&v=4" width="24" alt="Avatar of dfdavila2"> dfdavila2
@@ -1735,7 +1774,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/peterpalau">
 				<img src="https://avatars.githubusercontent.com/u/12257885?s=72&u=2afede9717e7f0d3badfdc79c4704718f9a09d92&v=4" width="24" alt="Avatar of peterpalau"> peterpalau
@@ -1748,7 +1787,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/lmiguelvargasf">
 				<img src="https://avatars.githubusercontent.com/u/6740665?s=72&u=6581b0a296a10886204e830ebe1d06c3822dd66b&v=4" width="24" alt="Avatar of lmiguelvargasf"> lmiguelvargasf
@@ -1761,7 +1800,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>132</td>
 		<td>
 			<a href="https://github.com/miwillhite">
 				<img src="https://avatars.githubusercontent.com/u/81757?s=72&u=f6cbb8e840d4b6969c862f242f384e34f10edf7e&v=4" width="24" alt="Avatar of miwillhite"> miwillhite
@@ -1774,7 +1813,20 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>130</td>
+		<td>133</td>
+		<td>
+			<a href="https://github.com/renatojobal">
+				<img src="https://avatars.githubusercontent.com/u/35740463?s=72&u=96bad89682447688ba7f9998d5b7d37c15aec4da&v=4" width="24" alt="Avatar of renatojobal"> renatojobal
+			</a><br/>
+			Renato Johao Balcázar Loaiza
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/renatojobal">renatojobal</a></td>
+		<td>Ecuador - Loja - Loja</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/fernandor777">
 				<img src="https://avatars.githubusercontent.com/u/3613119?s=72&u=920d9884acff3798cc6a20918af6436b4b9b085c&v=4" width="24" alt="Avatar of fernandor777"> fernandor777
@@ -1787,7 +1839,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>131</td>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/fmontalvoo">
 				<img src="https://avatars.githubusercontent.com/u/24706663?s=72&u=d3403d3155835c669dc33a6f8ba1ab67609d0c28&v=4" width="24" alt="Avatar of fmontalvoo"> fmontalvoo
@@ -1800,7 +1852,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/mdleiton">
 				<img src="https://avatars.githubusercontent.com/u/20630741?s=72&u=940184598e13ac15203bb2f9b502ef40132b8882&v=4" width="24" alt="Avatar of mdleiton"> mdleiton
@@ -1813,20 +1865,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>133</td>
-		<td>
-			<a href="https://github.com/maylonpedroso">
-				<img src="https://avatars.githubusercontent.com/u/21978742?s=72&u=08f4d1c239b7ac0c09f59d5295ffa2e03838f911&v=4" width="24" alt="Avatar of maylonpedroso"> maylonpedroso
-			</a><br/>
-			Maylon Pedroso
-		</td>
-		<td>@stackbuilders  </td>
-		<td>No Twitter Username</td>
-		<td>Quito, Euador</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>134</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/Pina-Josias">
 				<img src="https://avatars.githubusercontent.com/u/52869805?s=72&u=30e513dd0f6c0041736c7a78c369aebd54ebe1b8&v=4" width="24" alt="Avatar of Pina-Josias"> Pina-Josias
@@ -1839,7 +1878,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/gpbonillas">
 				<img src="https://avatars.githubusercontent.com/u/1267208?s=72&u=6bb03062e8ff2ac7beb9f3bc273ee5537d10ff4e&v=4" width="24" alt="Avatar of gpbonillas"> gpbonillas
@@ -1852,20 +1891,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>136</td>
-		<td>
-			<a href="https://github.com/bram70">
-				<img src="https://avatars.githubusercontent.com/u/550702?s=72&u=1e84b4869a85ec3a255198b8389f38b0856c375e&v=4" width="24" alt="Avatar of bram70"> bram70
-			</a><br/>
-			wanb
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ecuador</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>137</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/eriknyk">
 				<img src="https://avatars.githubusercontent.com/u/205721?s=72&u=dd50b48c54ca7b5b3c3f4fb12d66f85371bb0743&v=4" width="24" alt="Avatar of eriknyk"> eriknyk
@@ -1878,7 +1904,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/tonyrob26">
 				<img src="https://avatars.githubusercontent.com/u/1636985?s=72&u=b4e7d9592b9e78ae840415ce29a124028f11d4f9&v=4" width="24" alt="Avatar of tonyrob26"> tonyrob26
@@ -1891,7 +1917,20 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>141</td>
+		<td>
+			<a href="https://github.com/practicatto">
+				<img src="https://avatars.githubusercontent.com/u/59121896?s=72&u=0073fe1de8d542d5aa910eb796caf691a4dbe25d&v=4" width="24" alt="Avatar of practicatto"> practicatto
+			</a><br/>
+			Joangie Marquez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ecuador</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/norlancd">
 				<img src="https://avatars.githubusercontent.com/u/18106349?s=72&u=d95e0914b2f83f167ce0a3f7dffc3669ca5897b1&v=4" width="24" alt="Avatar of norlancd"> norlancd
@@ -1904,7 +1943,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/Mjaviero">
 				<img src="https://avatars.githubusercontent.com/u/42346442?s=72&u=b65d99d2ac9cbcf8f4b02a0aef66c703b27618d8&v=4" width="24" alt="Avatar of Mjaviero"> Mjaviero
@@ -1917,7 +1956,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/DenkSchuldt">
 				<img src="https://avatars.githubusercontent.com/u/1882876?s=72&u=2d021a559156b8c58732a863e9040dc8ed4192f4&v=4" width="24" alt="Avatar of DenkSchuldt"> DenkSchuldt
@@ -1930,20 +1969,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>142</td>
-		<td>
-			<a href="https://github.com/renatojobal">
-				<img src="https://avatars.githubusercontent.com/u/35740463?s=72&u=96bad89682447688ba7f9998d5b7d37c15aec4da&v=4" width="24" alt="Avatar of renatojobal"> renatojobal
-			</a><br/>
-			Renato Johao Balcázar Loaiza
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/renatojobal">renatojobal</a></td>
-		<td>Ecuador - Loja - Loja</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>143</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/alejandrotoledoweb">
 				<img src="https://avatars.githubusercontent.com/u/67283617?s=72&u=454399eca16e3e50ab83d259a952527ec1586cd8&v=4" width="24" alt="Avatar of alejandrotoledoweb"> alejandrotoledoweb
@@ -1956,7 +1982,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>144</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/Tomvargas">
 				<img src="https://avatars.githubusercontent.com/u/39144516?s=72&u=0ffc619a80d6cfccfa0a2837cd0cf804dbdb728e&v=4" width="24" alt="Avatar of Tomvargas"> Tomvargas
@@ -1969,20 +1995,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>145</td>
-		<td>
-			<a href="https://github.com/herrera-luis">
-				<img src="https://avatars.githubusercontent.com/u/5044130?s=72&u=e5eb3fe094c7558bd633559e4af88ff37c6bec2f&v=4" width="24" alt="Avatar of herrera-luis"> herrera-luis
-			</a><br/>
-			Luis Herrera
-		</td>
-		<td>Thoughtworks </td>
-		<td><a href="https://twitter.com/herrera_luis10">herrera_luis10</a></td>
-		<td>Ecuador</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>146</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/sasilva1998">
 				<img src="https://avatars.githubusercontent.com/u/30530787?s=72&u=d59af78fced7be9d3ba0ab800e10582f228bb256&v=4" width="24" alt="Avatar of sasilva1998"> sasilva1998
@@ -1995,7 +2008,20 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>148</td>
+		<td>
+			<a href="https://github.com/herrera-luis">
+				<img src="https://avatars.githubusercontent.com/u/5044130?s=72&u=e5eb3fe094c7558bd633559e4af88ff37c6bec2f&v=4" width="24" alt="Avatar of herrera-luis"> herrera-luis
+			</a><br/>
+			Luis Herrera
+		</td>
+		<td>Thoughtworks </td>
+		<td><a href="https://twitter.com/herrera_luis10">herrera_luis10</a></td>
+		<td>Ecuador</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/c4rlosviteri">
 				<img src="https://avatars.githubusercontent.com/u/1807897?s=72&u=10e0491f4a0b5e1aaa7ef26b5f6292e220528cca&v=4" width="24" alt="Avatar of c4rlosviteri"> c4rlosviteri
@@ -2008,7 +2034,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/arkhan">
 				<img src="https://avatars.githubusercontent.com/u/3141865?s=72&v=4" width="24" alt="Avatar of arkhan"> arkhan
@@ -2021,7 +2047,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/mhernandezve">
 				<img src="https://avatars.githubusercontent.com/u/596015?s=72&u=fcdf9bccbf00cdcf287ee892bdb06f817d681307&v=4" width="24" alt="Avatar of mhernandezve"> mhernandezve
@@ -2034,7 +2060,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/josc123">
 				<img src="https://avatars.githubusercontent.com/u/78116899?s=72&u=e215c4172dbe0b25f338c657153caa14aa61caff&v=4" width="24" alt="Avatar of josc123"> josc123
@@ -2047,7 +2073,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/jplaza">
 				<img src="https://avatars.githubusercontent.com/u/1086705?s=72&v=4" width="24" alt="Avatar of jplaza"> jplaza
@@ -2060,7 +2086,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/pabloveintimilla">
 				<img src="https://avatars.githubusercontent.com/u/31135?s=72&u=1a04e9ee7a0618d38b54a18c19761f91aadd69bb&v=4" width="24" alt="Avatar of pabloveintimilla"> pabloveintimilla
@@ -2073,7 +2099,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/bluewake">
 				<img src="https://avatars.githubusercontent.com/u/822187?s=72&u=17e6850dd33bc9746041d96b8509b2fb55acd37c&v=4" width="24" alt="Avatar of bluewake"> bluewake
@@ -2086,7 +2112,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/emmeblm">
 				<img src="https://avatars.githubusercontent.com/u/10346179?s=72&u=7ae6e29a68f2106a0f64f9db471dbb5e38815cf6&v=4" width="24" alt="Avatar of emmeblm"> emmeblm
@@ -2099,7 +2125,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/juanmisak">
 				<img src="https://avatars.githubusercontent.com/u/2565100?s=72&u=9d8fb66a1cd5a52fec23ea0e239077c8d9dae4f4&v=4" width="24" alt="Avatar of juanmisak"> juanmisak
@@ -2112,7 +2138,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/diegocarrera">
 				<img src="https://avatars.githubusercontent.com/u/414548?s=72&u=23fd7fb8f1ef0afd14d05cfc7c205bbd31d90e66&v=4" width="24" alt="Avatar of diegocarrera"> diegocarrera
@@ -2125,7 +2151,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/jnfran92">
 				<img src="https://avatars.githubusercontent.com/u/12015129?s=72&u=6c51b219149f7f72f38e8c5ede5b2ed084c5281b&v=4" width="24" alt="Avatar of jnfran92"> jnfran92
@@ -2138,7 +2164,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/Wason1797">
 				<img src="https://avatars.githubusercontent.com/u/22322221?s=72&u=0fbf3e67111025f6fcf76ec336762035dd6ede4e&v=4" width="24" alt="Avatar of Wason1797"> Wason1797
@@ -2151,7 +2177,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/fabricioflores">
 				<img src="https://avatars.githubusercontent.com/u/3495122?s=72&v=4" width="24" alt="Avatar of fabricioflores"> fabricioflores
@@ -2164,7 +2190,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/patovala">
 				<img src="https://avatars.githubusercontent.com/u/1739789?s=72&v=4" width="24" alt="Avatar of patovala"> patovala
@@ -2177,7 +2203,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/edzzn">
 				<img src="https://avatars.githubusercontent.com/u/14936466?s=72&u=d1d3c4d2a03f30a546671862732a55607d6bafad&v=4" width="24" alt="Avatar of edzzn"> edzzn
@@ -2190,7 +2216,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>164</td>
 		<td>
 			<a href="https://github.com/FreddieAbad">
 				<img src="https://avatars.githubusercontent.com/u/38579765?s=72&u=e726e784491f3f360f023e42abfeb8526756e13d&v=4" width="24" alt="Avatar of FreddieAbad"> FreddieAbad
@@ -2203,7 +2229,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/balechon">
 				<img src="https://avatars.githubusercontent.com/u/75377942?s=72&u=343edd8d045fd6b37b54ea17f85a8805e7b0b2ad&v=4" width="24" alt="Avatar of balechon"> balechon
@@ -2216,20 +2242,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>164</td>
-		<td>
-			<a href="https://github.com/soccerdroid">
-				<img src="https://avatars.githubusercontent.com/u/18273329?s=72&u=d2a2d06009f57deddbc2ce27925887af19511beb&v=4" width="24" alt="Avatar of soccerdroid"> soccerdroid
-			</a><br/>
-			Maria Belen Guaranda
-		</td>
-		<td>Espol </td>
-		<td>No Twitter Username</td>
-		<td>Guayaquil-Ecuador</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>165</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/crisguitar">
 				<img src="https://avatars.githubusercontent.com/u/2355302?s=72&u=2ffebecca78680ae591c0b524505c135aa0c7617&v=4" width="24" alt="Avatar of crisguitar"> crisguitar
@@ -2242,7 +2255,20 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>167</td>
+		<td>
+			<a href="https://github.com/soccerdroid">
+				<img src="https://avatars.githubusercontent.com/u/18273329?s=72&u=d2a2d06009f57deddbc2ce27925887af19511beb&v=4" width="24" alt="Avatar of soccerdroid"> soccerdroid
+			</a><br/>
+			Maria Belen Guaranda
+		</td>
+		<td>Espol </td>
+		<td>No Twitter Username</td>
+		<td>Guayaquil-Ecuador</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/joszeRamirez">
 				<img src="https://avatars.githubusercontent.com/u/49033241?s=72&u=49c80084d8cc58c32cff2c4a1ac9f066bcde4755&v=4" width="24" alt="Avatar of joszeRamirez"> joszeRamirez
@@ -2255,7 +2281,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/Rodney0119">
 				<img src="https://avatars.githubusercontent.com/u/78117386?s=72&u=7682239dce83d62e1265d49741c2d0631f5e4810&v=4" width="24" alt="Avatar of Rodney0119"> Rodney0119
@@ -2268,20 +2294,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>168</td>
-		<td>
-			<a href="https://github.com/practicatto">
-				<img src="https://avatars.githubusercontent.com/u/59121896?s=72&u=0073fe1de8d542d5aa910eb796caf691a4dbe25d&v=4" width="24" alt="Avatar of practicatto"> practicatto
-			</a><br/>
-			Joangie Marquez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ecuador</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>169</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/Joel-19">
 				<img src="https://avatars.githubusercontent.com/u/78118252?s=72&u=bbf570765ffcebf11c81724344a275c99479aa7d&v=4" width="24" alt="Avatar of Joel-19"> Joel-19
@@ -2291,19 +2304,6 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>Espe </td>
 		<td>No Twitter Username</td>
 		<td>Quito</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>170</td>
-		<td>
-			<a href="https://github.com/juanse417">
-				<img src="https://avatars.githubusercontent.com/u/7356344?s=72&v=4" width="24" alt="Avatar of juanse417"> juanse417
-			</a><br/>
-			JuanSe
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ecuador</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -2322,6 +2322,19 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 	<tr>
 		<td>172</td>
 		<td>
+			<a href="https://github.com/juanse417">
+				<img src="https://avatars.githubusercontent.com/u/7356344?s=72&v=4" width="24" alt="Avatar of juanse417"> juanse417
+			</a><br/>
+			JuanSe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ecuador</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>
 			<a href="https://github.com/mvinan">
 				<img src="https://avatars.githubusercontent.com/u/10097926?s=72&u=56103dbf72826a0ae5eb5d810abf53166027b823&v=4" width="24" alt="Avatar of mvinan"> mvinan
 			</a><br/>
@@ -2333,7 +2346,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/pajaro5">
 				<img src="https://avatars.githubusercontent.com/u/5140280?s=72&v=4" width="24" alt="Avatar of pajaro5"> pajaro5
@@ -2346,7 +2359,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/DesarrollandoAndroid">
 				<img src="https://avatars.githubusercontent.com/u/7956170?s=72&u=4f848ad7399ec43403b35fe05fad787960722370&v=4" width="24" alt="Avatar of DesarrollandoAndroid"> DesarrollandoAndroid
@@ -2359,7 +2372,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/bitgandtter">
 				<img src="https://avatars.githubusercontent.com/u/1316125?s=72&v=4" width="24" alt="Avatar of bitgandtter"> bitgandtter
@@ -2372,7 +2385,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/klebeer">
 				<img src="https://avatars.githubusercontent.com/u/1549668?s=72&u=18b0f015575f840a211d3400229f46973260cc2f&v=4" width="24" alt="Avatar of klebeer"> klebeer
@@ -2385,7 +2398,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/manunoly">
 				<img src="https://avatars.githubusercontent.com/u/636156?s=72&u=446a26b82d2f06f4f9aec6d9214af4965410cfc1&v=4" width="24" alt="Avatar of manunoly"> manunoly
@@ -2398,7 +2411,20 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>179</td>
+		<td>
+			<a href="https://github.com/lsantiago">
+				<img src="https://avatars.githubusercontent.com/u/37159?s=72&u=7855e8afe342894a7f08324b5ec98a5cd2e74c30&v=4" width="24" alt="Avatar of lsantiago"> lsantiago
+			</a><br/>
+			Santiago Quiñones-Cuenca
+		</td>
+		<td>Utpl </td>
+		<td>No Twitter Username</td>
+		<td>Loja - Ecuador</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/VeronicaGuaman">
 				<img src="https://avatars.githubusercontent.com/u/70024610?s=72&u=e715189b7a4112258e2757a15cafff2af999da23&v=4" width="24" alt="Avatar of VeronicaGuaman"> VeronicaGuaman
@@ -2411,7 +2437,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/jorgaf">
 				<img src="https://avatars.githubusercontent.com/u/2847822?s=72&v=4" width="24" alt="Avatar of jorgaf"> jorgaf
@@ -2424,7 +2450,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/jossjack">
 				<img src="https://avatars.githubusercontent.com/u/63570377?s=72&v=4" width="24" alt="Avatar of jossjack"> jossjack
@@ -2437,7 +2463,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/ByronGodoyTenesaca">
 				<img src="https://avatars.githubusercontent.com/u/49033745?s=72&u=412b7db0c599bb70eb2ffbeaded313b38ce8a0e3&v=4" width="24" alt="Avatar of ByronGodoyTenesaca"> ByronGodoyTenesaca
@@ -2450,7 +2476,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/christhoph">
 				<img src="https://avatars.githubusercontent.com/u/24236519?s=72&u=9155f4bfbc3d235b0eca87d5a139537377049382&v=4" width="24" alt="Avatar of christhoph"> christhoph
@@ -2463,7 +2489,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/sebas1208">
 				<img src="https://avatars.githubusercontent.com/u/5571870?s=72&u=8fbc5948a2842d36eea0beca2a2a69a23a70dc30&v=4" width="24" alt="Avatar of sebas1208"> sebas1208
@@ -2476,7 +2502,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/dayanap-04">
 				<img src="https://avatars.githubusercontent.com/u/78117739?s=72&u=81b2b0367910d7adfcda3c3f51e20db405e342e6&v=4" width="24" alt="Avatar of dayanap-04"> dayanap-04
@@ -2489,7 +2515,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/TawsEspol">
 				<img src="https://avatars.githubusercontent.com/u/10170032?s=72&u=c1d498740a215f58fe6f2c642565b27b833bde15&v=4" width="24" alt="Avatar of TawsEspol"> TawsEspol
@@ -2502,7 +2528,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/jjsainzc">
 				<img src="https://avatars.githubusercontent.com/u/12147679?s=72&u=56abc60086561ca4ab14f93beb52eb1cad111c03&v=4" width="24" alt="Avatar of jjsainzc"> jjsainzc
@@ -2515,7 +2541,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/CursoRUCE">
 				<img src="https://avatars.githubusercontent.com/u/15089937?s=72&u=430e0d63f09f30e2479ed5d286ead2c42811d260&v=4" width="24" alt="Avatar of CursoRUCE"> CursoRUCE
@@ -2528,7 +2554,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/davidalejandropaguay">
 				<img src="https://avatars.githubusercontent.com/u/12159863?s=72&u=db8a5cf4f2f8b90620a87cf90fe8283f973e73d5&v=4" width="24" alt="Avatar of davidalejandropaguay"> davidalejandropaguay
@@ -2541,7 +2567,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>189</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/iapazmino">
 				<img src="https://avatars.githubusercontent.com/u/694075?s=72&v=4" width="24" alt="Avatar of iapazmino"> iapazmino
@@ -2554,7 +2580,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/mricharleon">
 				<img src="https://avatars.githubusercontent.com/u/2581366?s=72&u=df808139b33d5e9d53e81b0e0eb9bf0cb9a21534&v=4" width="24" alt="Avatar of mricharleon"> mricharleon
@@ -2567,7 +2593,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/Alejoss">
 				<img src="https://avatars.githubusercontent.com/u/5651031?s=72&u=83bfae8b56428a194e31c753010ab0ea3b1b16a4&v=4" width="24" alt="Avatar of Alejoss"> Alejoss
@@ -2580,20 +2606,20 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>194</td>
 		<td>
-			<a href="https://github.com/lsantiago">
-				<img src="https://avatars.githubusercontent.com/u/37159?s=72&u=7855e8afe342894a7f08324b5ec98a5cd2e74c30&v=4" width="24" alt="Avatar of lsantiago"> lsantiago
+			<a href="https://github.com/aavendan">
+				<img src="https://avatars.githubusercontent.com/u/547093?s=72&u=153c24dfbda6df9ebafdfaef27710639f01a7c5e&v=4" width="24" alt="Avatar of aavendan"> aavendan
 			</a><br/>
-			Santiago Quiñones-Cuenca
+			Allan
 		</td>
-		<td>Utpl </td>
+		<td>@taws  </td>
 		<td>No Twitter Username</td>
-		<td>Loja - Ecuador</td>
+		<td>Guayaquil, Ecuador</td>
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/anderson-0812">
 				<img src="https://avatars.githubusercontent.com/u/5192984?s=72&u=7c0864e397a2e54d39531152e337aef1546ccbed&v=4" width="24" alt="Avatar of anderson-0812"> anderson-0812
@@ -2606,20 +2632,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>194</td>
-		<td>
-			<a href="https://github.com/puldavid87">
-				<img src="https://avatars.githubusercontent.com/u/8752504?s=72&u=61fa07867d67ea96e42784a4202cbcd71fc8c795&v=4" width="24" alt="Avatar of puldavid87"> puldavid87
-			</a><br/>
-			Paul D. Rosero-Montalvo
-		</td>
-		<td>Https://www.paulrose </td>
-		<td>No Twitter Username</td>
-		<td>Ibarra-Ecuador</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>195</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/fexadom">
 				<img src="https://avatars.githubusercontent.com/u/9542322?s=72&u=e9f5cd258bd2132f466659990308a5de4b1a65b0&v=4" width="24" alt="Avatar of fexadom"> fexadom
@@ -2632,7 +2645,20 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>197</td>
+		<td>
+			<a href="https://github.com/puldavid87">
+				<img src="https://avatars.githubusercontent.com/u/8752504?s=72&u=61fa07867d67ea96e42784a4202cbcd71fc8c795&v=4" width="24" alt="Avatar of puldavid87"> puldavid87
+			</a><br/>
+			Paul D. Rosero-Montalvo
+		</td>
+		<td>Https://www.paulrose </td>
+		<td>No Twitter Username</td>
+		<td>Ibarra-Ecuador</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/boceto1">
 				<img src="https://avatars.githubusercontent.com/u/26729748?s=72&u=a0936838782f3c5305aed56352ef15bb407a409f&v=4" width="24" alt="Avatar of boceto1"> boceto1
@@ -2645,7 +2671,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/richiprieto">
 				<img src="https://avatars.githubusercontent.com/u/7146095?s=72&u=28d428c0b0eabba001ac1329c7668dc4db880da8&v=4" width="24" alt="Avatar of richiprieto"> richiprieto
@@ -2658,7 +2684,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/jaimepsayago">
 				<img src="https://avatars.githubusercontent.com/u/27781106?s=72&u=dddd8885da3279ec6e5576d37f80fc6250fa7b91&v=4" width="24" alt="Avatar of jaimepsayago"> jaimepsayago
@@ -2671,7 +2697,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/fisiohacker">
 				<img src="https://avatars.githubusercontent.com/u/67382218?s=72&u=7060160b0728d7c5e03ce850625896ed5258cb3c&v=4" width="24" alt="Avatar of fisiohacker"> fisiohacker
@@ -2684,7 +2710,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/rcarrillo">
 				<img src="https://avatars.githubusercontent.com/u/1250530?s=72&u=665c0ae16b2588cfdc0fd4859f23da00c2f2efbb&v=4" width="24" alt="Avatar of rcarrillo"> rcarrillo
@@ -2697,7 +2723,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/oxrl">
 				<img src="https://avatars.githubusercontent.com/u/898138?s=72&u=17461fbd75d927eac391f588a2b0a711adc3b0e1&v=4" width="24" alt="Avatar of oxrl"> oxrl
@@ -2710,7 +2736,20 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>204</td>
+		<td>
+			<a href="https://github.com/PeterConchaR">
+				<img src="https://avatars.githubusercontent.com/u/2137911?s=72&u=aa87c9fd9d7aee022d166636d6596af4d329c499&v=4" width="24" alt="Avatar of PeterConchaR"> PeterConchaR
+			</a><br/>
+			Peter Concha
+		</td>
+		<td>@avanet, @avanetecuador  </td>
+		<td><a href="https://twitter.com/PeterConchaR">PeterConchaR</a></td>
+		<td>Daule, Ecuador</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/alexeperez">
 				<img src="https://avatars.githubusercontent.com/u/10354259?s=72&u=6ffd66ba84938f320261bcf281bdcf04d4f98290&v=4" width="24" alt="Avatar of alexeperez"> alexeperez
@@ -2723,7 +2762,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/juank-pa">
 				<img src="https://avatars.githubusercontent.com/u/5060527?s=72&u=5b6ee3aeb66b6daaf5f8e972f1a94b41ef04bbce&v=4" width="24" alt="Avatar of juank-pa"> juank-pa
@@ -2736,7 +2775,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/micopc">
 				<img src="https://avatars.githubusercontent.com/u/13283635?s=72&u=45d76afd764405981fc15c2eac82a495ed5af8b2&v=4" width="24" alt="Avatar of micopc"> micopc
@@ -2749,7 +2788,33 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>208</td>
+		<td>
+			<a href="https://github.com/MauroVelasco">
+				<img src="https://avatars.githubusercontent.com/u/2516223?s=72&u=765c41f282f77ea522ce57af13e0ee7c3679b9cb&v=4" width="24" alt="Avatar of MauroVelasco"> MauroVelasco
+			</a><br/>
+			Mauro Velasco
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Quito/Ecuador</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>209</td>
+		<td>
+			<a href="https://github.com/FKSAxell">
+				<img src="https://avatars.githubusercontent.com/u/41928326?s=72&u=69de335465ebfc4928032a8c3e058f608c520ef7&v=4" width="24" alt="Avatar of FKSAxell"> FKSAxell
+			</a><br/>
+			Axell Concha Regatto
+		</td>
+		<td>Piogram </td>
+		<td><a href="https://twitter.com/axellcrk">axellcrk</a></td>
+		<td>Guayaquil, Ecuador</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/giojavi04">
 				<img src="https://avatars.githubusercontent.com/u/3665095?s=72&u=b04086bc650df3cdd58455f7f69d50e7caa2f445&v=4" width="24" alt="Avatar of giojavi04"> giojavi04
@@ -2762,7 +2827,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/martiniturbide">
 				<img src="https://avatars.githubusercontent.com/u/498092?s=72&u=ca92def244fda08ff87fcdb05da0ba8e7abbbcbf&v=4" width="24" alt="Avatar of martiniturbide"> martiniturbide
@@ -2775,7 +2840,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/thomasklz">
 				<img src="https://avatars.githubusercontent.com/u/19434102?s=72&u=874cb821c167de14730684adb0cef70b6475e782&v=4" width="24" alt="Avatar of thomasklz"> thomasklz
@@ -2788,7 +2853,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/TheWorstOne">
 				<img src="https://avatars.githubusercontent.com/u/23507716?s=72&u=4bcf9d2aed3f1a6905ed02602a59f1c781319c12&v=4" width="24" alt="Avatar of TheWorstOne"> TheWorstOne
@@ -2801,20 +2866,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/aavendan">
-				<img src="https://avatars.githubusercontent.com/u/547093?s=72&u=153c24dfbda6df9ebafdfaef27710639f01a7c5e&v=4" width="24" alt="Avatar of aavendan"> aavendan
-			</a><br/>
-			Allan
-		</td>
-		<td>@taws  </td>
-		<td>No Twitter Username</td>
-		<td>Guayaquil, Ecuador</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>210</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/joelerll">
 				<img src="https://avatars.githubusercontent.com/u/13908825?s=72&u=05fe537990181bb02769d3377b2edbe0212745a7&v=4" width="24" alt="Avatar of joelerll"> joelerll
@@ -2827,7 +2879,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/VinicioCabrera">
 				<img src="https://avatars.githubusercontent.com/u/49033433?s=72&v=4" width="24" alt="Avatar of VinicioCabrera"> VinicioCabrera
@@ -2840,7 +2892,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/davidPardoC">
 				<img src="https://avatars.githubusercontent.com/u/43886292?s=72&u=7b56f06d09534ffcac9f27254a54273cb1a5509e&v=4" width="24" alt="Avatar of davidPardoC"> davidPardoC
@@ -2853,7 +2905,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/VasquezB1">
 				<img src="https://avatars.githubusercontent.com/u/49033314?s=72&u=146aefc5d03d39b4bd1c8a69f5abcd1e6d11e188&v=4" width="24" alt="Avatar of VasquezB1"> VasquezB1
@@ -2866,7 +2918,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/joseSantacruz">
 				<img src="https://avatars.githubusercontent.com/u/11586276?s=72&u=a6387c5c2595f77dac250d21a950414fcadaad87&v=4" width="24" alt="Avatar of joseSantacruz"> joseSantacruz
@@ -2879,7 +2931,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/Sebangel12">
 				<img src="https://avatars.githubusercontent.com/u/78116603?s=72&u=81ec1c3ccf80462205d7c48f73d3cc5007c59662&v=4" width="24" alt="Avatar of Sebangel12"> Sebangel12
@@ -2892,7 +2944,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/codegenial">
 				<img src="https://avatars.githubusercontent.com/u/52186955?s=72&u=b5f46d21ae76ee3e6ee71272d5b9bfb5d6d52d00&v=4" width="24" alt="Avatar of codegenial"> codegenial
@@ -2905,7 +2957,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/faustocv">
 				<img src="https://avatars.githubusercontent.com/u/3240103?s=72&u=7c2cd677856538f5ebd7ebf7bef294cd48073864&v=4" width="24" alt="Avatar of faustocv"> faustocv
@@ -2918,20 +2970,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>218</td>
-		<td>
-			<a href="https://github.com/PeterConchaR">
-				<img src="https://avatars.githubusercontent.com/u/2137911?s=72&u=aa87c9fd9d7aee022d166636d6596af4d329c499&v=4" width="24" alt="Avatar of PeterConchaR"> PeterConchaR
-			</a><br/>
-			Peter Concha
-		</td>
-		<td>@avanet, @avanetecuador  </td>
-		<td><a href="https://twitter.com/PeterConchaR">PeterConchaR</a></td>
-		<td>Daule, Ecuador</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>219</td>
+		<td>222</td>
 		<td>
 			<a href="https://github.com/jdc18">
 				<img src="https://avatars.githubusercontent.com/u/3440979?s=72&v=4" width="24" alt="Avatar of jdc18"> jdc18
@@ -2944,7 +2983,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/webinfinita">
 				<img src="https://avatars.githubusercontent.com/u/2981203?s=72&u=90dd6bff412d9a72633ac5f91e94b1caf83aa304&v=4" width="24" alt="Avatar of webinfinita"> webinfinita
@@ -2957,7 +2996,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/yahuarkuntur">
 				<img src="https://avatars.githubusercontent.com/u/136878?s=72&v=4" width="24" alt="Avatar of yahuarkuntur"> yahuarkuntur
@@ -2970,7 +3009,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/gpollice">
 				<img src="https://avatars.githubusercontent.com/u/1175833?s=72&u=63327d44967f7362028db05ae53db7d1895a0df2&v=4" width="24" alt="Avatar of gpollice"> gpollice
@@ -2983,7 +3022,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/omarlemorac">
 				<img src="https://avatars.githubusercontent.com/u/1676981?s=72&v=4" width="24" alt="Avatar of omarlemorac"> omarlemorac
@@ -2996,7 +3035,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/diegotony">
 				<img src="https://avatars.githubusercontent.com/u/11952580?s=72&u=89527c87cb6d20ff0e1f67492a9aa8f2026c7a57&v=4" width="24" alt="Avatar of diegotony"> diegotony
@@ -3009,7 +3048,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/jpmayorga">
 				<img src="https://avatars.githubusercontent.com/u/2263749?s=72&u=fb1338ba18f762590236f44bcf0466fec17dacec&v=4" width="24" alt="Avatar of jpmayorga"> jpmayorga
@@ -3022,7 +3061,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/pedroguarderas">
 				<img src="https://avatars.githubusercontent.com/u/6667444?s=72&u=4eb2db16b388c4959617319c9e9e22d4555ed17a&v=4" width="24" alt="Avatar of pedroguarderas"> pedroguarderas
@@ -3035,33 +3074,20 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>230</td>
 		<td>
-			<a href="https://github.com/MauroVelasco">
-				<img src="https://avatars.githubusercontent.com/u/2516223?s=72&u=765c41f282f77ea522ce57af13e0ee7c3679b9cb&v=4" width="24" alt="Avatar of MauroVelasco"> MauroVelasco
+			<a href="https://github.com/Dgloor">
+				<img src="https://avatars.githubusercontent.com/u/56457514?s=72&u=41f6df6c71c80bb5e498954a61bc7a77eb3ca0cb&v=4" width="24" alt="Avatar of Dgloor"> Dgloor
 			</a><br/>
-			Mauro Velasco
+			Danny Loor Núñez
 		</td>
-		<td>No Company</td>
+		<td>Escuela Superior Politécnica Del<br/>Litoral<br/></td>
 		<td>No Twitter Username</td>
-		<td>Quito/Ecuador</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>228</td>
-		<td>
-			<a href="https://github.com/FKSAxell">
-				<img src="https://avatars.githubusercontent.com/u/41928326?s=72&u=69de335465ebfc4928032a8c3e058f608c520ef7&v=4" width="24" alt="Avatar of FKSAxell"> FKSAxell
-			</a><br/>
-			Axell Concha Regatto
-		</td>
-		<td>Piogram </td>
-		<td><a href="https://twitter.com/axellcrk">axellcrk</a></td>
 		<td>Guayaquil, Ecuador</td>
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/jvas28">
 				<img src="https://avatars.githubusercontent.com/u/6281438?s=72&u=dea0ce23f269ee3b5c3e2e2ab6fbea549acc094a&v=4" width="24" alt="Avatar of jvas28"> jvas28
@@ -3074,7 +3100,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/pauloguerraf">
 				<img src="https://avatars.githubusercontent.com/u/1149371?s=72&u=2ae25c76042ad5e8e142755cf260971f45d0c531&v=4" width="24" alt="Avatar of pauloguerraf"> pauloguerraf
@@ -3087,7 +3113,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/PatsyGuerrero">
 				<img src="https://avatars.githubusercontent.com/u/73196511?s=72&u=eb3d1ce5f0cb689c91bea3265825c96c14ce1958&v=4" width="24" alt="Avatar of PatsyGuerrero"> PatsyGuerrero
@@ -3100,20 +3126,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>232</td>
-		<td>
-			<a href="https://github.com/jimenezjc83">
-				<img src="https://avatars.githubusercontent.com/u/7075631?s=72&u=e91e9cb05c4013483ff81e2cb49c50b46a98f6e5&v=4" width="24" alt="Avatar of jimenezjc83"> jimenezjc83
-			</a><br/>
-			Juan Carlos Jimenez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Loja, Ecuador</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>233</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/gedrix">
 				<img src="https://avatars.githubusercontent.com/u/11398322?s=72&u=b6f099ac3021d65da953e5a3febb4bbd0509ea8e&v=4" width="24" alt="Avatar of gedrix"> gedrix
@@ -3126,7 +3139,20 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>235</td>
+		<td>
+			<a href="https://github.com/jimenezjc83">
+				<img src="https://avatars.githubusercontent.com/u/7075631?s=72&u=e91e9cb05c4013483ff81e2cb49c50b46a98f6e5&v=4" width="24" alt="Avatar of jimenezjc83"> jimenezjc83
+			</a><br/>
+			Juan Carlos Jimenez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Loja, Ecuador</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/Kevincamp">
 				<img src="https://avatars.githubusercontent.com/u/2529004?s=72&u=09771e8c9979d13eb95f6c43dcef332d7f178e20&v=4" width="24" alt="Avatar of Kevincamp"> Kevincamp
@@ -3139,7 +3165,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/JeanM1996">
 				<img src="https://avatars.githubusercontent.com/u/12720290?s=72&v=4" width="24" alt="Avatar of JeanM1996"> JeanM1996
@@ -3152,7 +3178,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/danieltigse">
 				<img src="https://avatars.githubusercontent.com/u/1870723?s=72&u=5f5922cb7e1365e8276feddc2e880f5e5e4d64c3&v=4" width="24" alt="Avatar of danieltigse"> danieltigse
@@ -3165,7 +3191,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/restevesd">
 				<img src="https://avatars.githubusercontent.com/u/8096616?s=72&u=b88f43d6638baaf4b09d5dd8f165c74c24db88a8&v=4" width="24" alt="Avatar of restevesd"> restevesd
@@ -3178,7 +3204,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/aguerrerof">
 				<img src="https://avatars.githubusercontent.com/u/10011379?s=72&u=3dd8d3bb8b47d857a6707de7a17963e25ce762dd&v=4" width="24" alt="Avatar of aguerrerof"> aguerrerof
@@ -3191,20 +3217,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>239</td>
-		<td>
-			<a href="https://github.com/celm1990">
-				<img src="https://avatars.githubusercontent.com/u/7775116?s=72&u=e5cf9371c51c738ed984e0735bc7960cb48b6aac&v=4" width="24" alt="Avatar of celm1990"> celm1990
-			</a><br/>
-			Carlos Lopez
-		</td>
-		<td>@blaze-otp  </td>
-		<td><a href="https://twitter.com/celm19902013">celm19902013</a></td>
-		<td>Ecuador</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>240</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/qihqi">
 				<img src="https://avatars.githubusercontent.com/u/1719482?s=72&u=1b092dcacff1c7d1e433f2cf4c80f101f456bd78&v=4" width="24" alt="Avatar of qihqi"> qihqi
@@ -3217,7 +3230,20 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>242</td>
+		<td>
+			<a href="https://github.com/celm1990">
+				<img src="https://avatars.githubusercontent.com/u/7775116?s=72&u=e5cf9371c51c738ed984e0735bc7960cb48b6aac&v=4" width="24" alt="Avatar of celm1990"> celm1990
+			</a><br/>
+			Carlos Lopez
+		</td>
+		<td>@blaze-otp  </td>
+		<td><a href="https://twitter.com/celm19902013">celm19902013</a></td>
+		<td>Ecuador</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/diegoserranoa">
 				<img src="https://avatars.githubusercontent.com/u/1431421?s=72&u=569070e1c57f47f0b81e6981929f1a26300cfd27&v=4" width="24" alt="Avatar of diegoserranoa"> diegoserranoa
@@ -3230,20 +3256,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>242</td>
-		<td>
-			<a href="https://github.com/kabala">
-				<img src="https://avatars.githubusercontent.com/u/5401783?s=72&u=4efe7545f4b65727e4d372c46a039c923cfb6aa6&v=4" width="24" alt="Avatar of kabala"> kabala
-			</a><br/>
-			Carlos Santín
-		</td>
-		<td>Uzman </td>
-		<td>No Twitter Username</td>
-		<td>Quito, Ecuador</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>243</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/josema19">
 				<img src="https://avatars.githubusercontent.com/u/12037300?s=72&u=6dc059f8c70f488e5e57a1a45d05f47891a25243&v=4" width="24" alt="Avatar of josema19"> josema19
@@ -3256,7 +3269,33 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/kabala">
+				<img src="https://avatars.githubusercontent.com/u/5401783?s=72&u=4efe7545f4b65727e4d372c46a039c923cfb6aa6&v=4" width="24" alt="Avatar of kabala"> kabala
+			</a><br/>
+			Carlos Santín
+		</td>
+		<td>Uzman </td>
+		<td>No Twitter Username</td>
+		<td>Quito, Ecuador</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>246</td>
+		<td>
+			<a href="https://github.com/wongkevinmanuel">
+				<img src="https://avatars.githubusercontent.com/u/17505282?s=72&u=6037329a7cdde097923770ccbcb1107ef7e5a991&v=4" width="24" alt="Avatar of wongkevinmanuel"> wongkevinmanuel
+			</a><br/>
+			kevin
+		</td>
+		<td>Wong </td>
+		<td>No Twitter Username</td>
+		<td>Ecuador, Quevedo</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/Gio666">
 				<img src="https://avatars.githubusercontent.com/u/7320979?s=72&u=f413d426e57266e55b296c399615c3c8db2ff08d&v=4" width="24" alt="Avatar of Gio666"> Gio666
@@ -3269,7 +3308,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/Andreu-95">
 				<img src="https://avatars.githubusercontent.com/u/8369748?s=72&u=a843d3ad40e05ca6f353051720d949c53c1936d5&v=4" width="24" alt="Avatar of Andreu-95"> Andreu-95
@@ -3282,7 +3321,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/rchacker">
 				<img src="https://avatars.githubusercontent.com/u/4965632?s=72&v=4" width="24" alt="Avatar of rchacker"> rchacker
@@ -3295,7 +3334,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/ingmmurillo">
 				<img src="https://avatars.githubusercontent.com/u/7586369?s=72&u=0ba1a08fa6497a7872ca5a0720bb867d18219f91&v=4" width="24" alt="Avatar of ingmmurillo"> ingmmurillo
@@ -3308,7 +3347,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/ecjug">
 				<img src="https://avatars.githubusercontent.com/u/22565715?s=72&u=3360f4fb3d8901fa20e7fb4c996881fef86e25e9&v=4" width="24" alt="Avatar of ecjug"> ecjug
@@ -3321,7 +3360,33 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>252</td>
+		<td>
+			<a href="https://github.com/CrisRonda">
+				<img src="https://avatars.githubusercontent.com/u/42586480?s=72&u=625b720e5168bd8a9d8012311e9850a78e8597fd&v=4" width="24" alt="Avatar of CrisRonda"> CrisRonda
+			</a><br/>
+			Cristian Ronda 
+		</td>
+		<td>Initgrammers </td>
+		<td>No Twitter Username</td>
+		<td>Quito - Ecuador</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>253</td>
+		<td>
+			<a href="https://github.com/velascoandres">
+				<img src="https://avatars.githubusercontent.com/u/12194462?s=72&u=448f8e4869bfb32a7862c06d6fc7c0fe80a76337&v=4" width="24" alt="Avatar of velascoandres"> velascoandres
+			</a><br/>
+			Andrés Velasco
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Quito - Ecuador</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/Christianesk">
 				<img src="https://avatars.githubusercontent.com/u/22309510?s=72&u=dc1cc73f97be39d4f4b372ee8aceefd43ffb21c9&v=4" width="24" alt="Avatar of Christianesk"> Christianesk
@@ -3334,20 +3399,7 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>250</td>
-		<td>
-			<a href="https://github.com/Alkhioz">
-				<img src="https://avatars.githubusercontent.com/u/33111241?s=72&u=bc4d17f3cb2bbf08f32a67fb530954a27a12f15a&v=4" width="24" alt="Avatar of Alkhioz"> Alkhioz
-			</a><br/>
-			Alejandro Mendoza
-		</td>
-		<td>Lirio Delirante </td>
-		<td><a href="https://twitter.com/alkhioz">alkhioz</a></td>
-		<td>Ecuador</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>251</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/insoutt">
 				<img src="https://avatars.githubusercontent.com/u/9189972?s=72&u=fcd977e704b02685d72eb849a8903999bdc8bd84&v=4" width="24" alt="Avatar of insoutt"> insoutt
@@ -3360,67 +3412,15 @@ There are `1000 users`  in Ecuador. You need at least `2 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>252</td>
-		<td>
-			<a href="https://github.com/taguz91">
-				<img src="https://avatars.githubusercontent.com/u/42211711?s=72&u=1962f07d033ed6275c65750b62c98e1263dea823&v=4" width="24" alt="Avatar of taguz91"> taguz91
-			</a><br/>
-			Johnny Garcia
-		</td>
-		<td>@zeroteam </td>
-		<td><a href="https://twitter.com/taguz91">taguz91</a></td>
-		<td>Ecuador</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>253</td>
-		<td>
-			<a href="https://github.com/caloja1014">
-				<img src="https://avatars.githubusercontent.com/u/62519887?s=72&u=c8f11f3bbbaa5d65076b49d7dac17ed8c79e7684&v=4" width="24" alt="Avatar of caloja1014"> caloja1014
-			</a><br/>
-			Carlos Loja
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ecuador</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>254</td>
-		<td>
-			<a href="https://github.com/Dgloor">
-				<img src="https://avatars.githubusercontent.com/u/56457514?s=72&u=41f6df6c71c80bb5e498954a61bc7a77eb3ca0cb&v=4" width="24" alt="Avatar of Dgloor"> Dgloor
-			</a><br/>
-			Danny Loor Núñez
-		</td>
-		<td>Escuela Superior Politécnica Del<br/>Litoral<br/></td>
-		<td>No Twitter Username</td>
-		<td>Guayaquil, Ecuador</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>255</td>
-		<td>
-			<a href="https://github.com/Bratt-ec">
-				<img src="https://avatars.githubusercontent.com/u/49798419?s=72&u=7f931bad32f0d40aee2804a4ef24ac641adeb1c8&v=4" width="24" alt="Avatar of Bratt-ec"> Bratt-ec
-			</a><br/>
-			Bryan Castro
-		</td>
-		<td>E-nexus Lab </td>
-		<td>No Twitter Username</td>
-		<td>Ecuador</td>
-		<td>9</td>
-	</tr>
-	<tr>
 		<td>256</td>
 		<td>
-			<a href="https://github.com/leninkp">
-				<img src="https://avatars.githubusercontent.com/u/7042591?s=72&u=29c45ad9c65a3a643792c6c93f2e60e07874de6f&v=4" width="24" alt="Avatar of leninkp"> leninkp
+			<a href="https://github.com/Alkhioz">
+				<img src="https://avatars.githubusercontent.com/u/33111241?s=72&u=bc4d17f3cb2bbf08f32a67fb530954a27a12f15a&v=4" width="24" alt="Avatar of Alkhioz"> Alkhioz
 			</a><br/>
-			Lenin Capa
+			Alejandro Mendoza
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Lirio Delirante </td>
+		<td><a href="https://twitter.com/alkhioz">alkhioz</a></td>
 		<td>Ecuador</td>
 		<td>9</td>
 	</tr>
