@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands">
 </a>
 
-The `public contributions` by users in Netherlands on `2021/6/18 3:19 PM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
+The `public contributions` by users in Netherlands on `2021/6/23 5:23 PM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
 
-There are `136 countries` and `675 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `10 users`  in Netherlands. You need at least `2693 followers` to be on this list.
 
@@ -107,36 +107,10 @@ There are `10 users`  in Netherlands. You need at least `2693 followers` to be o
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nikitavoloboev">nikitavoloboev</a></td>
 		<td>Eindhoven</td>
-		<td>4867</td>
+		<td>4745</td>
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>
-			<a href="https://github.com/mislav">
-				<img src="https://avatars.githubusercontent.com/u/887?s=72&u=5ce21332bfb47e39de1fddeb28b4192d1f8d543a&v=4" width="24" alt="Avatar of mislav"> mislav
-			</a><br/>
-			Mislav Marohnić
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mislav">mislav</a></td>
-		<td>The Netherlands</td>
-		<td>1674</td>
-	</tr>
-	<tr>
-		<td>3</td>
-		<td>
-			<a href="https://github.com/timneutkens">
-				<img src="https://avatars.githubusercontent.com/u/6324199?s=72&u=4bf20067bc68295cbc46fd57c3fe88d508f3305a&v=4" width="24" alt="Avatar of timneutkens"> timneutkens
-			</a><br/>
-			Tim Neutkens
-		</td>
-		<td>@vercel </td>
-		<td><a href="https://twitter.com/timneutkens">timneutkens</a></td>
-		<td>The Netherlands</td>
-		<td>1483</td>
-	</tr>
-	<tr>
-		<td>4</td>
 		<td>
 			<a href="https://github.com/laanwj">
 				<img src="https://avatars.githubusercontent.com/u/126646?s=72&u=13b19d1ff2f5f914e180c41418f451a4ba6f8bd1&v=4" width="24" alt="Avatar of laanwj"> laanwj
@@ -146,7 +120,33 @@ There are `10 users`  in Netherlands. You need at least `2693 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>The Netherlands</td>
-		<td>1421</td>
+		<td>1751</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>
+			<a href="https://github.com/mislav">
+				<img src="https://avatars.githubusercontent.com/u/887?s=72&u=5ce21332bfb47e39de1fddeb28b4192d1f8d543a&v=4" width="24" alt="Avatar of mislav"> mislav
+			</a><br/>
+			Mislav Marohnić
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mislav">mislav</a></td>
+		<td>The Netherlands</td>
+		<td>1651</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>
+			<a href="https://github.com/timneutkens">
+				<img src="https://avatars.githubusercontent.com/u/6324199?s=72&u=4bf20067bc68295cbc46fd57c3fe88d508f3305a&v=4" width="24" alt="Avatar of timneutkens"> timneutkens
+			</a><br/>
+			Tim Neutkens
+		</td>
+		<td>@vercel </td>
+		<td><a href="https://twitter.com/timneutkens">timneutkens</a></td>
+		<td>The Netherlands</td>
+		<td>1470</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -159,7 +159,7 @@ There are `10 users`  in Netherlands. You need at least `2693 followers` to be o
 		<td>Uber </td>
 		<td><a href="https://twitter.com/Trekhleb">Trekhleb</a></td>
 		<td>Amsterdam</td>
-		<td>1365</td>
+		<td>1308</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -172,7 +172,7 @@ There are `10 users`  in Netherlands. You need at least `2693 followers` to be o
 		<td>Facebook </td>
 		<td>No Twitter Username</td>
 		<td>Netherlands</td>
-		<td>857</td>
+		<td>858</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -185,7 +185,7 @@ There are `10 users`  in Netherlands. You need at least `2693 followers` to be o
 		<td>3rd Cloud </td>
 		<td>No Twitter Username</td>
 		<td>The Netherlands</td>
-		<td>589</td>
+		<td>541</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -198,7 +198,7 @@ There are `10 users`  in Netherlands. You need at least `2693 followers` to be o
 		<td>@fruitcake  </td>
 		<td>No Twitter Username</td>
 		<td>Noord-Brabant, the Netherlands</td>
-		<td>454</td>
+		<td>440</td>
 	</tr>
 	<tr>
 		<td>9</td>
