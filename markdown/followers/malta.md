@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg" alt="Malta">
 </a>
 
-The `number of followers` of users in Malta on `2021/6/18 8:46 AM UTC`. This list contains users from `Malta` and cities `Valletta` `Sliema` `Victoria` `Saint-pauls-bay`.
+The `number of followers` of users in Malta on `2021/6/23 5:57 AM UTC`. This list contains users from `Malta` and cities `Valletta` `Sliema` `Saint-pauls-bay`.
 
-There are `136 countries` and `675 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `1000 users`  in Malta. You need at least `5 followers` to be on this list.
 
@@ -3423,6 +3423,9678 @@ There are `1000 users`  in Malta. You need at least `5 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Malta</td>
 		<td>21</td>
+	</tr>
+	<tr>
+		<td>257</td>
+		<td>
+			<a href="https://github.com/michaelcarruthers">
+				<img src="https://avatars.githubusercontent.com/u/145072?s=72&u=a1049e621077acee0895a788772b0c6a28eda417&v=4" width="24" alt="Avatar of michaelcarruthers"> michaelcarruthers
+			</a><br/>
+			Michael Carrruthers
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, B.C, Canada</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>258</td>
+		<td>
+			<a href="https://github.com/nickknw">
+				<img src="https://avatars.githubusercontent.com/u/62827?s=72&v=4" width="24" alt="Avatar of nickknw"> nickknw
+			</a><br/>
+			Nick Knowlson
+		</td>
+		<td>Genologics </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>259</td>
+		<td>
+			<a href="https://github.com/Jexzel">
+				<img src="https://avatars.githubusercontent.com/u/24487408?s=72&u=253565cbbde38a8a2857e42c8aaa80aa652a027a&v=4" width="24" alt="Avatar of Jexzel"> Jexzel
+			</a><br/>
+			JEXZEL PANGANIBAN
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>FAITH ASIA  Victoria Homes, darasa, tanauan city, batangas</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>260</td>
+		<td>
+			<a href="https://github.com/adammathys">
+				<img src="https://avatars.githubusercontent.com/u/876067?s=72&u=65849aa15606dff65bea2778df7638260fc5bb23&v=4" width="24" alt="Avatar of adammathys"> adammathys
+			</a><br/>
+			Adam Mueller
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>261</td>
+		<td>
+			<a href="https://github.com/tklarryonline">
+				<img src="https://avatars.githubusercontent.com/u/2020169?s=72&u=14061a7e81e586f9628fdd819a88589ee4d08bd7&v=4" width="24" alt="Avatar of tklarryonline"> tklarryonline
+			</a><br/>
+			Luan Nguyen
+		</td>
+		<td>Redbubble </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>262</td>
+		<td>
+			<a href="https://github.com/claylaut">
+				<img src="https://avatars.githubusercontent.com/u/1999085?s=72&u=7214bda63039caa81b6deecb971e937e6852fe2c&v=4" width="24" alt="Avatar of claylaut"> claylaut
+			</a><br/>
+			Clayton Lautier
+		</td>
+		<td>@river-igaming </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>263</td>
+		<td>
+			<a href="https://github.com/paulera">
+				<img src="https://avatars.githubusercontent.com/u/2051955?s=72&u=f92bd2d4295125c7be9d7a0ffdf7bc1bfbf28553&v=4" width="24" alt="Avatar of paulera"> paulera
+			</a><br/>
+			Paulo Amaral
+		</td>
+		<td>Unforgivenexception </td>
+		<td><a href="https://twitter.com/paulo_dev">paulo_dev</a></td>
+		<td>Malta</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>264</td>
+		<td>
+			<a href="https://github.com/frg">
+				<img src="https://avatars.githubusercontent.com/u/1245426?s=72&u=1bc7cb40e178e1060d25f32dfc6a95c540ea6771&v=4" width="24" alt="Avatar of frg"> frg
+			</a><br/>
+			Jean Farrugia
+		</td>
+		<td>Gaming Innovation Group </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>265</td>
+		<td>
+			<a href="https://github.com/ashao">
+				<img src="https://avatars.githubusercontent.com/u/3845639?s=72&u=b9661b0d400ae81c4bdd33a2a0f5b41ff99a216d&v=4" width="24" alt="Avatar of ashao"> ashao
+			</a><br/>
+			Andrew Shao
+		</td>
+		<td>Environment And Climate Change<br/>Canada<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>266</td>
+		<td>
+			<a href="https://github.com/jonmifsud">
+				<img src="https://avatars.githubusercontent.com/u/859775?s=72&v=4" width="24" alt="Avatar of jonmifsud"> jonmifsud
+			</a><br/>
+			Jonathan Mifsud
+		</td>
+		<td>@mazedigital  </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>267</td>
+		<td>
+			<a href="https://github.com/JVerwolf">
+				<img src="https://avatars.githubusercontent.com/u/14946056?s=72&u=495bb96245ff74a0ef9b0ed0a48fde372a0ab475&v=4" width="24" alt="Avatar of JVerwolf"> JVerwolf
+			</a><br/>
+			John Verwolf
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia, Canada</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>268</td>
+		<td>
+			<a href="https://github.com/essmahr">
+				<img src="https://avatars.githubusercontent.com/u/5510974?s=72&u=9ba8db7a4ebc1375436f4511ceb6d5a470e9790a&v=4" width="24" alt="Avatar of essmahr"> essmahr
+			</a><br/>
+			Scott Mahr
+		</td>
+		<td>@closeio  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>269</td>
+		<td>
+			<a href="https://github.com/Lane">
+				<img src="https://avatars.githubusercontent.com/u/21034?s=72&v=4" width="24" alt="Avatar of Lane"> Lane
+			</a><br/>
+			Lane Olson
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/laneolson">laneolson</a></td>
+		<td>Victoria, BC</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>
+			<a href="https://github.com/dejager">
+				<img src="https://avatars.githubusercontent.com/u/641197?s=72&u=ee75fb0ce6b1af3a8cae90d9333b8bfdae1bfc69&v=4" width="24" alt="Avatar of dejager"> dejager
+			</a><br/>
+			Nate de Jager
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dejager">dejager</a></td>
+		<td>Victoria, BC</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>
+			<a href="https://github.com/rtroe">
+				<img src="https://avatars.githubusercontent.com/u/10124203?s=72&u=c06ccd715e0ee6b3ece41945d733b13623e257e2&v=4" width="24" alt="Avatar of rtroe"> rtroe
+			</a><br/>
+			Rob Tom Roe
+		</td>
+		<td>@virtexedgedesign </td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
+			<a href="https://github.com/ashtonmeuser">
+				<img src="https://avatars.githubusercontent.com/u/7253863?s=72&u=6c48e6ebcb9dfd690dd35296f7c9524dd54c5e80&v=4" width="24" alt="Avatar of ashtonmeuser"> ashtonmeuser
+			</a><br/>
+			Ashton Meuser
+		</td>
+		<td>@freshworksstudio  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>273</td>
+		<td>
+			<a href="https://github.com/woofers">
+				<img src="https://avatars.githubusercontent.com/u/7284672?s=72&u=0fceea66fa024a99b59295eccce11ffdac4b214a&v=4" width="24" alt="Avatar of woofers"> woofers
+			</a><br/>
+			Jaxson Van Doorn
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>274</td>
+		<td>
+			<a href="https://github.com/erik-trantt">
+				<img src="https://avatars.githubusercontent.com/u/44339322?s=72&u=2df2f9197675c4f258bda09879e432eb2c2f0d64&v=4" width="24" alt="Avatar of erik-trantt"> erik-trantt
+			</a><br/>
+			Erik Tran
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>275</td>
+		<td>
+			<a href="https://github.com/wlabatey">
+				<img src="https://avatars.githubusercontent.com/u/12471951?s=72&u=4811be62fe76f164806de7ff645850f20f88fc0d&v=4" width="24" alt="Avatar of wlabatey"> wlabatey
+			</a><br/>
+			Will Batey
+		</td>
+		<td>@helical-levity </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>276</td>
+		<td>
+			<a href="https://github.com/steveazz">
+				<img src="https://avatars.githubusercontent.com/u/9993446?s=72&u=77f41300b649520e5a9e804feaef38c3c4bc54a9&v=4" width="24" alt="Avatar of steveazz"> steveazz
+			</a><br/>
+			Steve Azzopardi
+		</td>
+		<td>@gitlab </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>277</td>
+		<td>
+			<a href="https://github.com/iainctduncan">
+				<img src="https://avatars.githubusercontent.com/u/3385148?s=72&u=b1e5c303f6ce2b73e6f86ee03e7373a2b926daca&v=4" width="24" alt="Avatar of iainctduncan"> iainctduncan
+			</a><br/>
+			Iain Duncan
+		</td>
+		<td>Xornot Studios </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>278</td>
+		<td>
+			<a href="https://github.com/ENZOboldi87">
+				<img src="https://avatars.githubusercontent.com/u/58086330?s=72&u=924448558121fb6f3e817a92cee581802861c847&v=4" width="24" alt="Avatar of ENZOboldi87"> ENZOboldi87
+			</a><br/>
+			Giuseppe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>279</td>
+		<td>
+			<a href="https://github.com/Brycce">
+				<img src="https://avatars.githubusercontent.com/u/46803461?s=72&u=81cbe3b3aa3a5e595665f8462a34858a8fd42f7e&v=4" width="24" alt="Avatar of Brycce"> Brycce
+			</a><br/>
+			Bryce Edwards
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/rhizospastic">rhizospastic</a></td>
+		<td>Victoria BC</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>280</td>
+		<td>
+			<a href="https://github.com/austinben">
+				<img src="https://avatars.githubusercontent.com/u/33566054?s=72&u=9d9fac8bd3be418b91e182a30b808d4fb86139d2&v=4" width="24" alt="Avatar of austinben"> austinben
+			</a><br/>
+			Ben Austin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>281</td>
+		<td>
+			<a href="https://github.com/hamidnazari">
+				<img src="https://avatars.githubusercontent.com/u/544028?s=72&v=4" width="24" alt="Avatar of hamidnazari"> hamidnazari
+			</a><br/>
+			Hamid Nazari
+		</td>
+		<td>Innablr </td>
+		<td><a href="https://twitter.com/hamidnazari">hamidnazari</a></td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>282</td>
+		<td>
+			<a href="https://github.com/willwh">
+				<img src="https://avatars.githubusercontent.com/u/398396?s=72&u=2b36d4b420f7c5d0e6379a516a12565ad25b9d42&v=4" width="24" alt="Avatar of willwh"> willwh
+			</a><br/>
+			William Hetherington
+		</td>
+		<td>Opschops </td>
+		<td><a href="https://twitter.com/wmwh">wmwh</a></td>
+		<td>Victoria, BC</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>283</td>
+		<td>
+			<a href="https://github.com/toadums">
+				<img src="https://avatars.githubusercontent.com/u/1380672?s=72&v=4" width="24" alt="Avatar of toadums"> toadums
+			</a><br/>
+			Paul Demchuk
+		</td>
+		<td>Metalab </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>284</td>
+		<td>
+			<a href="https://github.com/Introwerks">
+				<img src="https://avatars.githubusercontent.com/u/9982231?s=72&u=b507c2788408e516879f7fb819b536fbacf97742&v=4" width="24" alt="Avatar of Introwerks"> Introwerks
+			</a><br/>
+			Christian Attard
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>285</td>
+		<td>
+			<a href="https://github.com/ycoady">
+				<img src="https://avatars.githubusercontent.com/u/1288637?s=72&u=89f520c5e5856cdec7d8f01efc32ca1b1516adfb&v=4" width="24" alt="Avatar of ycoady"> ycoady
+			</a><br/>
+			Yvonne Coady
+		</td>
+		<td>Uvic </td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>286</td>
+		<td>
+			<a href="https://github.com/Noah-Silvera">
+				<img src="https://avatars.githubusercontent.com/u/8933450?s=72&u=d3853849ef6833546ef969563e44ce65973f5265&v=4" width="24" alt="Avatar of Noah-Silvera"> Noah-Silvera
+			</a><br/>
+			Noah Silvera
+		</td>
+		<td>Super Good Software </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>287</td>
+		<td>
+			<a href="https://github.com/bndnio">
+				<img src="https://avatars.githubusercontent.com/u/11308382?s=72&u=fa195b37eb99f0b117093f18d03292d5c97333d6&v=4" width="24" alt="Avatar of bndnio"> bndnio
+			</a><br/>
+			Brendon Earl
+		</td>
+		<td>@certn  </td>
+		<td><a href="https://twitter.com/bndnio">bndnio</a></td>
+		<td>Victoria, BC</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>288</td>
+		<td>
+			<a href="https://github.com/iamutkarsh23">
+				<img src="https://avatars.githubusercontent.com/u/32732488?s=72&u=0bcfe15bfb6e8c1f41dc518c88edf322e2a7533d&v=4" width="24" alt="Avatar of iamutkarsh23"> iamutkarsh23
+			</a><br/>
+			Utkarsh Patadia
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>289</td>
+		<td>
+			<a href="https://github.com/migueldingli1997">
+				<img src="https://avatars.githubusercontent.com/u/23614954?s=72&u=8936447153a1df29b443a06116a5ccf3f3a2669d&v=4" width="24" alt="Avatar of migueldingli1997"> migueldingli1997
+			</a><br/>
+			Miguel Dingli
+		</td>
+		<td>@simplyvc </td>
+		<td><a href="https://twitter.com/migueldingli">migueldingli</a></td>
+		<td>Malta</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>290</td>
+		<td>
+			<a href="https://github.com/iferrant">
+				<img src="https://avatars.githubusercontent.com/u/579796?s=72&u=cc9b390e455039ce6794d8792522f4949deacda6&v=4" width="24" alt="Avatar of iferrant"> iferrant
+			</a><br/>
+			Iván Ferrant
+		</td>
+		<td>@i2b-studio </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>291</td>
+		<td>
+			<a href="https://github.com/apoorvkk">
+				<img src="https://avatars.githubusercontent.com/u/33816630?s=72&u=cc1fa561eeab52753e8068558db76470e15bac38&v=4" width="24" alt="Avatar of apoorvkk"> apoorvkk
+			</a><br/>
+			Apoorv Kansal
+		</td>
+		<td>@zendesk  </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>292</td>
+		<td>
+			<a href="https://github.com/swively">
+				<img src="https://avatars.githubusercontent.com/u/16531632?s=72&u=7e308e5613e74023e77ad46959dd30ba210ac046&v=4" width="24" alt="Avatar of swively"> swively
+			</a><br/>
+			Mike Conlin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>293</td>
+		<td>
+			<a href="https://github.com/gregdaynes">
+				<img src="https://avatars.githubusercontent.com/u/43543?s=72&u=441fc98a2431f49e402f3a6196b90b5a4b5348af&v=4" width="24" alt="Avatar of gregdaynes"> gregdaynes
+			</a><br/>
+			Gregory Daynes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia, Canada</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>294</td>
+		<td>
+			<a href="https://github.com/jaymichls">
+				<img src="https://avatars.githubusercontent.com/u/5965754?s=72&u=2a8ac8c57ef014f27f74e04fc4ddce604440de08&v=4" width="24" alt="Avatar of jaymichls"> jaymichls
+			</a><br/>
+			Jason Michael
+		</td>
+		<td>Checkfront Inc </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>
+			<a href="https://github.com/curtisupshall">
+				<img src="https://avatars.githubusercontent.com/u/18599267?s=72&u=dba7673bf276919733242cdc0a2cdec5e3fabd7c&v=4" width="24" alt="Avatar of curtisupshall"> curtisupshall
+			</a><br/>
+			Curtis Upshall
+		</td>
+		<td>Focustime Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>296</td>
+		<td>
+			<a href="https://github.com/thekeviv">
+				<img src="https://avatars.githubusercontent.com/u/16347985?s=72&u=ac638e21aaf0315410273d0434b6fed8bf6132d2&v=4" width="24" alt="Avatar of thekeviv"> thekeviv
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/spacetroid">spacetroid</a></td>
+		<td>Victoria, B.C.</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>
+			<a href="https://github.com/jorgearanda">
+				<img src="https://avatars.githubusercontent.com/u/730633?s=72&u=a687e5d99d8ff3d2da0af15cb5bdddf6f0268ee8&v=4" width="24" alt="Avatar of jorgearanda"> jorgearanda
+			</a><br/>
+			Jorge Aranda
+		</td>
+		<td>@workday </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>298</td>
+		<td>
+			<a href="https://github.com/vatsalyagoel">
+				<img src="https://avatars.githubusercontent.com/u/8080336?s=72&u=f9f29232b67f2944c59452a22db25df3d01b8794&v=4" width="24" alt="Avatar of vatsalyagoel"> vatsalyagoel
+			</a><br/>
+			Vatsalya Goel
+		</td>
+		<td>@telstrapurple </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>299</td>
+		<td>
+			<a href="https://github.com/eric-leihe">
+				<img src="https://avatars.githubusercontent.com/u/706864?s=72&u=0ab4fa01f7b8aa03a8df5c5fdb38d3231a687d8d&v=4" width="24" alt="Avatar of eric-leihe"> eric-leihe
+			</a><br/>
+			Lei He
+		</td>
+		<td>Semaphoresolutions.c </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>300</td>
+		<td>
+			<a href="https://github.com/jonscottclark">
+				<img src="https://avatars.githubusercontent.com/u/214676?s=72&u=ec4228f64b6bf8357e1c36fef9225e9a6a9dfb26&v=4" width="24" alt="Avatar of jonscottclark"> jonscottclark
+			</a><br/>
+			Jon Clark
+		</td>
+		<td>Mnp Technology Solutions </td>
+		<td><a href="https://twitter.com/jonscottclark">jonscottclark</a></td>
+		<td>Victoria, BC, Canada</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>301</td>
+		<td>
+			<a href="https://github.com/dabria">
+				<img src="https://avatars.githubusercontent.com/u/1707663?s=72&v=4" width="24" alt="Avatar of dabria"> dabria
+			</a><br/>
+			Melissa Page
+		</td>
+		<td>@sensu  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>302</td>
+		<td>
+			<a href="https://github.com/ruboss">
+				<img src="https://avatars.githubusercontent.com/u/10097?s=72&u=863082fa454b06febed50be32c658396f423c260&v=4" width="24" alt="Avatar of ruboss"> ruboss
+			</a><br/>
+			Ruboss Technology Corporation
+		</td>
+		<td>Ruboss Technology Corporation </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>303</td>
+		<td>
+			<a href="https://github.com/benjaminwil">
+				<img src="https://avatars.githubusercontent.com/u/883581?s=72&u=27a013c2d95184691de30bcb7c0329112ccfbe6a&v=4" width="24" alt="Avatar of benjaminwil"> benjaminwil
+			</a><br/>
+			benjamin wil
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>304</td>
+		<td>
+			<a href="https://github.com/tayden">
+				<img src="https://avatars.githubusercontent.com/u/6541671?s=72&u=96453cbf30ea0692a2f398941b9a6370519e6985&v=4" width="24" alt="Avatar of tayden"> tayden
+			</a><br/>
+			Taylor Denouden
+		</td>
+		<td>@hakaiinstitute </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>305</td>
+		<td>
+			<a href="https://github.com/liamdawson">
+				<img src="https://avatars.githubusercontent.com/u/760143?s=72&v=4" width="24" alt="Avatar of liamdawson"> liamdawson
+			</a><br/>
+			Liam Dawson
+		</td>
+		<td>@envato  </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>306</td>
+		<td>
+			<a href="https://github.com/levibe">
+				<img src="https://avatars.githubusercontent.com/u/1259364?s=72&v=4" width="24" alt="Avatar of levibe"> levibe
+			</a><br/>
+			Levi Bucsis
+		</td>
+		<td>@momentumdash  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>307</td>
+		<td>
+			<a href="https://github.com/eliotmcintire">
+				<img src="https://avatars.githubusercontent.com/u/1100507?s=72&u=79bcf37fca0f69a1f06838b460769ea40ed06ae8&v=4" width="24" alt="Avatar of eliotmcintire"> eliotmcintire
+			</a><br/>
+			Eliot McIntire
+		</td>
+		<td>Canadian Forest Service, Government<br/>Of<br/>Canada<br/></td>
+		<td><a href="https://twitter.com/eliotmcintire">eliotmcintire</a></td>
+		<td>Victoria, BC</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>308</td>
+		<td>
+			<a href="https://github.com/iamkahvi">
+				<img src="https://avatars.githubusercontent.com/u/12820195?s=72&u=514715e607cb381793357f5b9da2de7eefc33e31&v=4" width="24" alt="Avatar of iamkahvi"> iamkahvi
+			</a><br/>
+			Kahvi Patel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>309</td>
+		<td>
+			<a href="https://github.com/tamcgoey">
+				<img src="https://avatars.githubusercontent.com/u/1266229?s=72&u=2f6a2025cd5051764a21361dcbf875d1ada179e5&v=4" width="24" alt="Avatar of tamcgoey"> tamcgoey
+			</a><br/>
+			Thomas McGoey-Smith
+		</td>
+		<td>@shopify  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>310</td>
+		<td>
+			<a href="https://github.com/hmnd">
+				<img src="https://avatars.githubusercontent.com/u/12853597?s=72&v=4" width="24" alt="Avatar of hmnd"> hmnd
+			</a><br/>
+			David
+		</td>
+		<td>@humanoidsolutions  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>311</td>
+		<td>
+			<a href="https://github.com/MatrixMike">
+				<img src="https://avatars.githubusercontent.com/u/4546872?s=72&u=6c8aba88fb6f7b870d5db15ca5b69b16bd9a7a9f&v=4" width="24" alt="Avatar of MatrixMike"> MatrixMike
+			</a><br/>
+			Mike Hewitt
+		</td>
+		<td>Hewitt Enterprises </td>
+		<td>No Twitter Username</td>
+		<td>Altona Meadows, Victoria, Australia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>
+			<a href="https://github.com/hlainchb">
+				<img src="https://avatars.githubusercontent.com/u/156735?s=72&v=4" width="24" alt="Avatar of hlainchb"> hlainchb
+			</a><br/>
+			Herb Lainchbury
+		</td>
+		<td>Dynamic Solutions Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>313</td>
+		<td>
+			<a href="https://github.com/njsch">
+				<img src="https://avatars.githubusercontent.com/u/56899272?s=72&u=74ee8505df28c135478dd1e153c5e28c002083bd&v=4" width="24" alt="Avatar of njsch"> njsch
+			</a><br/>
+			Nathaniel Schmidt
+		</td>
+		<td>@deakin University </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>314</td>
+		<td>
+			<a href="https://github.com/afrubin">
+				<img src="https://avatars.githubusercontent.com/u/5422013?s=72&u=94f1830d9e03563af4f0abf06a1a6d65759df2fd&v=4" width="24" alt="Avatar of afrubin"> afrubin
+			</a><br/>
+			Alan Rubin
+		</td>
+		<td>The Walter And Eliza<br/>Hall<br/>Institute<br/>Of<br/>Medical<br/>Research<br/></td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>315</td>
+		<td>
+			<a href="https://github.com/sefirakarina">
+				<img src="https://avatars.githubusercontent.com/u/22488753?s=72&u=cf95fc4878eaf596826b0b0a23d48334dbbdf90c&v=4" width="24" alt="Avatar of sefirakarina"> sefirakarina
+			</a><br/>
+			sefira karina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>316</td>
+		<td>
+			<a href="https://github.com/jameshiebert">
+				<img src="https://avatars.githubusercontent.com/u/3904316?s=72&u=5ab86ca24f47ac3323c899c9bf038922013d9d66&v=4" width="24" alt="Avatar of jameshiebert"> jameshiebert
+			</a><br/>
+			James Hiebert
+		</td>
+		<td>Pacific Climate Impacts Consortium<br/>/<br/>University<br/>Of<br/>Victoria<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Britsh Columbia, Canada</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>317</td>
+		<td>
+			<a href="https://github.com/zevisert">
+				<img src="https://avatars.githubusercontent.com/u/11222441?s=72&u=6fb4019fb42551eae5fa0b59b6f32c569f3edb71&v=4" width="24" alt="Avatar of zevisert"> zevisert
+			</a><br/>
+			Zev Isert
+		</td>
+		<td>Revela Systems </td>
+		<td><a href="https://twitter.com/RevyZevy">RevyZevy</a></td>
+		<td>Victoria, BC</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>318</td>
+		<td>
+			<a href="https://github.com/micuffaro">
+				<img src="https://avatars.githubusercontent.com/u/25299092?s=72&u=f1d2b51cadfd6e3ea96554fc38cd9b9ce83df2e3&v=4" width="24" alt="Avatar of micuffaro"> micuffaro
+			</a><br/>
+			Michael Cuffaro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>319</td>
+		<td>
+			<a href="https://github.com/Chloeiii">
+				<img src="https://avatars.githubusercontent.com/u/20671785?s=72&u=607d39bb8a3a59156aee2fee63bed86205433118&v=4" width="24" alt="Avatar of Chloeiii"> Chloeiii
+			</a><br/>
+			Chloe Yu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC Canada</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>320</td>
+		<td>
+			<a href="https://github.com/416d72">
+				<img src="https://avatars.githubusercontent.com/u/12211826?s=72&u=05e2469ba3f1dd19913aa738de6e7373e21ea0af&v=4" width="24" alt="Avatar of 416d72"> 416d72
+			</a><br/>
+			Pathfinder
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta, Psamathe</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
+			<a href="https://github.com/duncand">
+				<img src="https://avatars.githubusercontent.com/u/3165874?s=72&v=4" width="24" alt="Avatar of duncand"> duncand
+			</a><br/>
+			Darren Duncan
+		</td>
+		<td>Muldis Data Systems </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>322</td>
+		<td>
+			<a href="https://github.com/chickenandpork">
+				<img src="https://avatars.githubusercontent.com/u/2320540?s=72&u=3172f92586a1c78fbba6aee9c46b9e1f3b11bf60&v=4" width="24" alt="Avatar of chickenandpork"> chickenandpork
+			</a><br/>
+			Allan Clark
+		</td>
+		<td>Apple </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
+			<a href="https://github.com/darkevilmac">
+				<img src="https://avatars.githubusercontent.com/u/1813540?s=72&u=5918199bac721fa9f50f992ca947cc3a491203aa&v=4" width="24" alt="Avatar of darkevilmac"> darkevilmac
+			</a><br/>
+			Benjamin K
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>324</td>
+		<td>
+			<a href="https://github.com/anthonyt">
+				<img src="https://avatars.githubusercontent.com/u/32175?s=72&v=4" width="24" alt="Avatar of anthonyt"> anthonyt
+			</a><br/>
+			Anthony Theocharis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>325</td>
+		<td>
+			<a href="https://github.com/barrylachapelle">
+				<img src="https://avatars.githubusercontent.com/u/1087169?s=72&u=bc31e5235b5a55a8099e703cfbd478231db62eb4&v=4" width="24" alt="Avatar of barrylachapelle"> barrylachapelle
+			</a><br/>
+			Barry Lachapelle
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>326</td>
+		<td>
+			<a href="https://github.com/chy-m">
+				<img src="https://avatars.githubusercontent.com/u/26019464?s=72&u=2334ac2e68b925defebbe6326994dce2cf4a6f2f&v=4" width="24" alt="Avatar of chy-m"> chy-m
+			</a><br/>
+			Chy Meng
+		</td>
+		<td>Openpay </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>327</td>
+		<td>
+			<a href="https://github.com/jordanrsteele">
+				<img src="https://avatars.githubusercontent.com/u/17348409?s=72&u=e57c45977f17fcbcbc329ce3eed6a54769afce3c&v=4" width="24" alt="Avatar of jordanrsteele"> jordanrsteele
+			</a><br/>
+			Jordan Steele
+		</td>
+		<td>Uvic </td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>328</td>
+		<td>
+			<a href="https://github.com/matthieu-foucault">
+				<img src="https://avatars.githubusercontent.com/u/2684022?s=72&u=40534b58e5c34b6f976788c7e7d152c8ddcb9846&v=4" width="24" alt="Avatar of matthieu-foucault"> matthieu-foucault
+			</a><br/>
+			Matthieu Foucault
+		</td>
+		<td>Button, Inc </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>329</td>
+		<td>
+			<a href="https://github.com/mewc">
+				<img src="https://avatars.githubusercontent.com/u/15105417?s=72&u=8012f679dba4d9d54a1d1fdb2165ebc6b62f7c41&v=4" width="24" alt="Avatar of mewc"> mewc
+			</a><br/>
+			Michael Carter
+		</td>
+		<td>Linktr.ee </td>
+		<td><a href="https://twitter.com/the_mewc">the_mewc</a></td>
+		<td>Victoria, Australia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>330</td>
+		<td>
+			<a href="https://github.com/rtandy">
+				<img src="https://avatars.githubusercontent.com/u/795000?s=72&v=4" width="24" alt="Avatar of rtandy"> rtandy
+			</a><br/>
+			Ryan Tandy
+		</td>
+		<td>@semaphoresolutions  </td>
+		<td><a href="https://twitter.com/MrTandy">MrTandy</a></td>
+		<td>Victoria, BC, Canada</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>331</td>
+		<td>
+			<a href="https://github.com/mattcoding4days">
+				<img src="https://avatars.githubusercontent.com/u/35334658?s=72&u=a120ce7c0362ffb95b4c5b50db747a0c7f96666a&v=4" width="24" alt="Avatar of mattcoding4days"> mattcoding4days
+			</a><br/>
+			Matt Williams
+		</td>
+		<td>Dmg Blockchain </td>
+		<td><a href="https://twitter.com/TheBashPotato">TheBashPotato</a></td>
+		<td>Victoria British Columbia Canada</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>332</td>
+		<td>
+			<a href="https://github.com/Mhdez221993">
+				<img src="https://avatars.githubusercontent.com/u/67757001?s=72&u=cc98a6ed16057dabbc8c936ba913059d06fb7dc5&v=4" width="24" alt="Avatar of Mhdez221993"> Mhdez221993
+			</a><br/>
+			Moises Hernandez
+		</td>
+		<td>Full-stack Developer </td>
+		<td><a href="https://twitter.com/MoisesH42060050">MoisesH42060050</a></td>
+		<td>Malta</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>333</td>
+		<td>
+			<a href="https://github.com/jamesdphillips">
+				<img src="https://avatars.githubusercontent.com/u/194892?s=72&u=d444982262f8edd40997c62223fbfff7cc650424&v=4" width="24" alt="Avatar of jamesdphillips"> jamesdphillips
+			</a><br/>
+			James Phillips
+		</td>
+		<td>Sensu, Inc. </td>
+		<td><a href="https://twitter.com/_jamesdphillips">_jamesdphillips</a></td>
+		<td>Victoria, BC, Canada</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>334</td>
+		<td>
+			<a href="https://github.com/omazhary">
+				<img src="https://avatars.githubusercontent.com/u/7762220?s=72&u=a86a96a4ba9c84f4fa35ee5c283985fc7cee1496&v=4" width="24" alt="Avatar of omazhary"> omazhary
+			</a><br/>
+			Omar Elazhary
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/omazhary">omazhary</a></td>
+		<td>Victoria, Canada</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>335</td>
+		<td>
+			<a href="https://github.com/smallsco">
+				<img src="https://avatars.githubusercontent.com/u/1906551?s=72&u=cb3ede2b032c8ebfc31432473eb8acf33b9732fd&v=4" width="24" alt="Avatar of smallsco"> smallsco
+			</a><br/>
+			Scott Small
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/smallsco">smallsco</a></td>
+		<td>Victoria, BC, Canada</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>336</td>
+		<td>
+			<a href="https://github.com/AbetangJoseph">
+				<img src="https://avatars.githubusercontent.com/u/41945082?s=72&u=258fe953f0fe435900d55f690c33db4cd31605a8&v=4" width="24" alt="Avatar of AbetangJoseph"> AbetangJoseph
+			</a><br/>
+			Abetang Joseph
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/joeabetang">joeabetang</a></td>
+		<td>Victoria Island, Lagos</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>337</td>
+		<td>
+			<a href="https://github.com/demoore">
+				<img src="https://avatars.githubusercontent.com/u/4121458?s=72&v=4" width="24" alt="Avatar of demoore"> demoore
+			</a><br/>
+			Dylan Moore
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>338</td>
+		<td>
+			<a href="https://github.com/tbgiles">
+				<img src="https://avatars.githubusercontent.com/u/22903732?s=72&u=f34ee5817a2628ca29de210a392b4c68b3e12049&v=4" width="24" alt="Avatar of tbgiles"> tbgiles
+			</a><br/>
+			Tristan Giles
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>339</td>
+		<td>
+			<a href="https://github.com/shanec-">
+				<img src="https://avatars.githubusercontent.com/u/1849707?s=72&u=a6decdce1ed3645e3fd0aa014ce2d59988b1dca1&v=4" width="24" alt="Avatar of shanec-"> shanec-
+			</a><br/>
+			Shane Carvalho
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>340</td>
+		<td>
+			<a href="https://github.com/xontab">
+				<img src="https://avatars.githubusercontent.com/u/4987684?s=72&u=62acd12cabbfc0aad86e0c137524dfeb20d60675&v=4" width="24" alt="Avatar of xontab"> xontab
+			</a><br/>
+			Shaun Tabone
+		</td>
+		<td>Gig </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>341</td>
+		<td>
+			<a href="https://github.com/Airborne95">
+				<img src="https://avatars.githubusercontent.com/u/14918443?s=72&u=4aae14542c9abe4b12fd88dbf164ca76cc3e6c3c&v=4" width="24" alt="Avatar of Airborne95"> Airborne95
+			</a><br/>
+			Rafay Chaudhry
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>342</td>
+		<td>
+			<a href="https://github.com/jrstarke">
+				<img src="https://avatars.githubusercontent.com/u/46070?s=72&v=4" width="24" alt="Avatar of jrstarke"> jrstarke
+			</a><br/>
+			Jamie Starke
+		</td>
+		<td>@workday </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>343</td>
+		<td>
+			<a href="https://github.com/ThreeToes">
+				<img src="https://avatars.githubusercontent.com/u/1201695?s=72&v=4" width="24" alt="Avatar of ThreeToes"> ThreeToes
+			</a><br/>
+			Stephen Gream
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>344</td>
+		<td>
+			<a href="https://github.com/LouisRitchie">
+				<img src="https://avatars.githubusercontent.com/u/10478031?s=72&u=2e69ca8025cf92acbec475e11beb057029ff3f6e&v=4" width="24" alt="Avatar of LouisRitchie"> LouisRitchie
+			</a><br/>
+			Louis Ritchie
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>345</td>
+		<td>
+			<a href="https://github.com/codeWithCal">
+				<img src="https://avatars.githubusercontent.com/u/69065544?s=72&u=378c9ec3f23db1baf8efb6a05a121805f8326669&v=4" width="24" alt="Avatar of codeWithCal"> codeWithCal
+			</a><br/>
+			Code With Cal
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>346</td>
+		<td>
+			<a href="https://github.com/antonivanopoulos">
+				<img src="https://avatars.githubusercontent.com/u/917575?s=72&u=fcb7922cfa101003ca4c44cca5e2f65e517e3894&v=4" width="24" alt="Avatar of antonivanopoulos"> antonivanopoulos
+			</a><br/>
+			Anton Ivanopoulos
+		</td>
+		<td>@htdc  </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>347</td>
+		<td>
+			<a href="https://github.com/emailwizardry">
+				<img src="https://avatars.githubusercontent.com/u/5119435?s=72&v=4" width="24" alt="Avatar of emailwizardry"> emailwizardry
+			</a><br/>
+			Nicole Merlin
+		</td>
+		<td>Email Wizardry </td>
+		<td><a href="https://twitter.com/moonstrips">moonstrips</a></td>
+		<td>Victoria, Australia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>348</td>
+		<td>
+			<a href="https://github.com/jljordan42">
+				<img src="https://avatars.githubusercontent.com/u/4176396?s=72&u=b5c9629950e782f66fe98b02d585cd15873aba6b&v=4" width="24" alt="Avatar of jljordan42"> jljordan42
+			</a><br/>
+			John Jordan
+		</td>
+		<td>@bcgov @bcdevexchange  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>349</td>
+		<td>
+			<a href="https://github.com/k-erby">
+				<img src="https://avatars.githubusercontent.com/u/11711350?s=72&u=2b6d0a1f83fbbe6fba68071e368ff37c8804c4a0&v=4" width="24" alt="Avatar of k-erby"> k-erby
+			</a><br/>
+			Kaitlin Erb
+		</td>
+		<td>@uvicwebdev  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>350</td>
+		<td>
+			<a href="https://github.com/ikaliam">
+				<img src="https://avatars.githubusercontent.com/u/2157841?s=72&u=8b5f7a13e43c5765b2af0bd98a3b572e8ebfc113&v=4" width="24" alt="Avatar of ikaliam"> ikaliam
+			</a><br/>
+			Eirini Kalliamvakou
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>351</td>
+		<td>
+			<a href="https://github.com/ulternate">
+				<img src="https://avatars.githubusercontent.com/u/3234134?s=72&u=d598142ff0e74deeabff53178e4cf3fdfabd452a&v=4" width="24" alt="Avatar of ulternate"> ulternate
+			</a><br/>
+			Daniel Swain
+		</td>
+		<td>@wsp-digital  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>352</td>
+		<td>
+			<a href="https://github.com/rywall">
+				<img src="https://avatars.githubusercontent.com/u/7904?s=72&v=4" width="24" alt="Avatar of rywall"> rywall
+			</a><br/>
+			Ryan Wallace
+		</td>
+		<td>Culture Code </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>353</td>
+		<td>
+			<a href="https://github.com/squillace91">
+				<img src="https://avatars.githubusercontent.com/u/1086713?s=72&u=444b299c05af5d1b2bdcd978246f9d3f3c7842d1&v=4" width="24" alt="Avatar of squillace91"> squillace91
+			</a><br/>
+			João Vitor Squillace Teixeira
+		</td>
+		<td>Umso </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>354</td>
+		<td>
+			<a href="https://github.com/jgayfer">
+				<img src="https://avatars.githubusercontent.com/u/10660608?s=72&u=8b182392dcfcef9eefc724526d69841e50bfee99&v=4" width="24" alt="Avatar of jgayfer"> jgayfer
+			</a><br/>
+			James Gayfer
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/JamesGayfer">JamesGayfer</a></td>
+		<td>Victoria BC</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>355</td>
+		<td>
+			<a href="https://github.com/zammitjames">
+				<img src="https://avatars.githubusercontent.com/u/1213082?s=72&u=d7558341937c17c07bfb4f86fb23fb6b1a1ef5ff&v=4" width="24" alt="Avatar of zammitjames"> zammitjames
+			</a><br/>
+			James Zammit
+		</td>
+		<td>Full Stack Engineer </td>
+		<td>No Twitter Username</td>
+		<td>Malta / San Francisco</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>356</td>
+		<td>
+			<a href="https://github.com/ivanfranco502">
+				<img src="https://avatars.githubusercontent.com/u/22622318?s=72&u=60bb795687d23fe46c7cb7b6dbb5e874795c1e4d&v=4" width="24" alt="Avatar of ivanfranco502"> ivanfranco502
+			</a><br/>
+			Iván Franco
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>357</td>
+		<td>
+			<a href="https://github.com/joshuasing">
+				<img src="https://avatars.githubusercontent.com/u/25740108?s=72&u=4c7e75d3e8ab8917e295f52edc0cd8c24a28f037&v=4" width="24" alt="Avatar of joshuasing"> joshuasing
+			</a><br/>
+			Joshua Sing
+		</td>
+		<td>Founder Of @hyperaofficial </td>
+		<td><a href="https://twitter.com/JoshuaLovesCode">JoshuaLovesCode</a></td>
+		<td>Victoria, Australia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>358</td>
+		<td>
+			<a href="https://github.com/bryce-mcmath">
+				<img src="https://avatars.githubusercontent.com/u/32586431?s=72&v=4" width="24" alt="Avatar of bryce-mcmath"> bryce-mcmath
+			</a><br/>
+			Bryce McMath
+		</td>
+		<td>Maximus Canada </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>359</td>
+		<td>
+			<a href="https://github.com/hermitAT">
+				<img src="https://avatars.githubusercontent.com/u/70076508?s=72&u=9fa99ca13635bdd6d2779609992d3333ce54c475&v=4" width="24" alt="Avatar of hermitAT"> hermitAT
+			</a><br/>
+			Adam Thorne
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>360</td>
+		<td>
+			<a href="https://github.com/Lestropie">
+				<img src="https://avatars.githubusercontent.com/u/5637955?s=72&u=3df3cbc46ceb50349a85f53cded38ccf9f0e4b0a&v=4" width="24" alt="Avatar of Lestropie"> Lestropie
+			</a><br/>
+			Robert Smith
+		</td>
+		<td>The Florey Institute Of<br/>Neuroscience<br/>And<br/>Mental<br/>Health<br/></td>
+		<td><a href="https://twitter.com/Lestropie">Lestropie</a></td>
+		<td>Heidelberg, Victoria, Australia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>361</td>
+		<td>
+			<a href="https://github.com/davidbonnici1984">
+				<img src="https://avatars.githubusercontent.com/u/905774?s=72&u=729ffe71f4880d189b280d13951da0949555d215&v=4" width="24" alt="Avatar of davidbonnici1984"> davidbonnici1984
+			</a><br/>
+			David Bonnici
+		</td>
+		<td>Quickspin </td>
+		<td><a href="https://twitter.com/davidbonnici84">davidbonnici84</a></td>
+		<td>Malta</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>362</td>
+		<td>
+			<a href="https://github.com/luukveenis">
+				<img src="https://avatars.githubusercontent.com/u/4382781?s=72&u=2c6dabe6f4940b30b738b3bbbd419d0beccc3b53&v=4" width="24" alt="Avatar of luukveenis"> luukveenis
+			</a><br/>
+			Luuk Veenis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, B.C.</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>363</td>
+		<td>
+			<a href="https://github.com/loganvolkers">
+				<img src="https://avatars.githubusercontent.com/u/1157086?s=72&v=4" width="24" alt="Avatar of loganvolkers"> loganvolkers
+			</a><br/>
+			Logan Volkers
+		</td>
+		<td>@saasquatch </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>364</td>
+		<td>
+			<a href="https://github.com/tedsteen">
+				<img src="https://avatars.githubusercontent.com/u/805034?s=72&u=08b4e899247f0182fb67c8efb37826a1771f2f0c&v=4" width="24" alt="Avatar of tedsteen"> tedsteen
+			</a><br/>
+			Ted Steen
+		</td>
+		<td>Casumo </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>365</td>
+		<td>
+			<a href="https://github.com/kevinfarrugia">
+				<img src="https://avatars.githubusercontent.com/u/8075326?s=72&u=46e04e2e046769c8087b0e1d39158e17d79ad52d&v=4" width="24" alt="Avatar of kevinfarrugia"> kevinfarrugia
+			</a><br/>
+			Kevin Farrugia
+		</td>
+		<td>Spiffing </td>
+		<td><a href="https://twitter.com/imkevdev">imkevdev</a></td>
+		<td>Malta</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>366</td>
+		<td>
+			<a href="https://github.com/hasanelbanna">
+				<img src="https://avatars.githubusercontent.com/u/53784598?s=72&u=fb5e3ef94fc9bef3298dc2afcecb542055adeac2&v=4" width="24" alt="Avatar of hasanelbanna"> hasanelbanna
+			</a><br/>
+			Hasan al Banna
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>367</td>
+		<td>
+			<a href="https://github.com/MogwaiMomo">
+				<img src="https://avatars.githubusercontent.com/u/1649024?s=72&u=9417fc9c9d12ed7ffd4dec1ecfe710a4f06dfae9&v=4" width="24" alt="Avatar of MogwaiMomo"> MogwaiMomo
+			</a><br/>
+			Momoko Price
+		</td>
+		<td>Kantan Designs </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>368</td>
+		<td>
+			<a href="https://github.com/Lassi">
+				<img src="https://avatars.githubusercontent.com/u/700245?s=72&u=ce5ab27e488cf8f6efcb2b6e0cd52b7e25414c87&v=4" width="24" alt="Avatar of Lassi"> Lassi
+			</a><br/>
+			Lassi
+		</td>
+		<td>@canva </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>369</td>
+		<td>
+			<a href="https://github.com/d2km">
+				<img src="https://avatars.githubusercontent.com/u/44740547?s=72&v=4" width="24" alt="Avatar of d2km"> d2km
+			</a><br/>
+			Denis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>370</td>
+		<td>
+			<a href="https://github.com/bikemike">
+				<img src="https://avatars.githubusercontent.com/u/7464404?s=72&v=4" width="24" alt="Avatar of bikemike"> bikemike
+			</a><br/>
+			Mike Morrison
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC Canada</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>371</td>
+		<td>
+			<a href="https://github.com/rumoncarter">
+				<img src="https://avatars.githubusercontent.com/u/18472032?s=72&u=1002d20cbdb9b3f15e1d4309fc1c98e6c811b602&v=4" width="24" alt="Avatar of rumoncarter"> rumoncarter
+			</a><br/>
+			Rumon Carter
+		</td>
+		<td>Government Of British Columbia<br/></td>
+		<td><a href="https://twitter.com/rumon">rumon</a></td>
+		<td>Victoria, British Columbia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>372</td>
+		<td>
+			<a href="https://github.com/altherlex">
+				<img src="https://avatars.githubusercontent.com/u/67675?s=72&v=4" width="24" alt="Avatar of altherlex"> altherlex
+			</a><br/>
+			Altherlex Alves
+		</td>
+		<td>@espnbr </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC Canada</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>373</td>
+		<td>
+			<a href="https://github.com/joshbode">
+				<img src="https://avatars.githubusercontent.com/u/878107?s=72&v=4" width="24" alt="Avatar of joshbode"> joshbode
+			</a><br/>
+			Josh Bode
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>374</td>
+		<td>
+			<a href="https://github.com/jordanmmck">
+				<img src="https://avatars.githubusercontent.com/u/16055268?s=72&u=bd7921ea4db7d801c164d66c8d10a7dab4bd091a&v=4" width="24" alt="Avatar of jordanmmck"> jordanmmck
+			</a><br/>
+			Jordan McKinney
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jordanmmck">jordanmmck</a></td>
+		<td>Victoria, BC</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>375</td>
+		<td>
+			<a href="https://github.com/clintlalonde">
+				<img src="https://avatars.githubusercontent.com/u/679506?s=72&v=4" width="24" alt="Avatar of clintlalonde"> clintlalonde
+			</a><br/>
+			Clint Lalonde
+		</td>
+		<td>@bccampus  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>376</td>
+		<td>
+			<a href="https://github.com/juliakbaum">
+				<img src="https://avatars.githubusercontent.com/u/7453413?s=72&u=af9b0abaa17c4cb8ed5a588d598eb903d03d4ef4&v=4" width="24" alt="Avatar of juliakbaum"> juliakbaum
+			</a><br/>
+			Julia K. Baum
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>377</td>
+		<td>
+			<a href="https://github.com/mike-anderson">
+				<img src="https://avatars.githubusercontent.com/u/209407?s=72&v=4" width="24" alt="Avatar of mike-anderson"> mike-anderson
+			</a><br/>
+			Mike Anderson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia, Canada</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>378</td>
+		<td>
+			<a href="https://github.com/kleberksms">
+				<img src="https://avatars.githubusercontent.com/u/3289590?s=72&u=a423afdefdc70ac7d6c3bbeb748d4f6b1c40e47a&v=4" width="24" alt="Avatar of kleberksms"> kleberksms
+			</a><br/>
+			Kleber Syd Moraes da Silva
+		</td>
+		<td>Amizing Dev </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Melbourne</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>379</td>
+		<td>
+			<a href="https://github.com/HosnaJabbari">
+				<img src="https://avatars.githubusercontent.com/u/28453708?s=72&u=f4216a9d30dc6cf7673f87b64e9148cb009485a1&v=4" width="24" alt="Avatar of HosnaJabbari"> HosnaJabbari
+			</a><br/>
+			No Name
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC, Canada</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>380</td>
+		<td>
+			<a href="https://github.com/jasonscharf">
+				<img src="https://avatars.githubusercontent.com/u/6707531?s=72&u=1d6ac1b710298c997118171bcaef9e623846c7c8&v=4" width="24" alt="Avatar of jasonscharf"> jasonscharf
+			</a><br/>
+			Jason Scharf
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, B.C.</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>381</td>
+		<td>
+			<a href="https://github.com/jamesattard">
+				<img src="https://avatars.githubusercontent.com/u/3464559?s=72&u=4e41925cc95eb1a9bb824cb843d7d91df8450f2d&v=4" width="24" alt="Avatar of jamesattard"> jamesattard
+			</a><br/>
+			James A.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>UK | Malta | Worldwide</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>382</td>
+		<td>
+			<a href="https://github.com/enricoaquilina">
+				<img src="https://avatars.githubusercontent.com/u/17750052?s=72&u=6285a2b3df6e7b6844cdccaf573b30e2e438422c&v=4" width="24" alt="Avatar of enricoaquilina"> enricoaquilina
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>383</td>
+		<td>
+			<a href="https://github.com/cecstar">
+				<img src="https://avatars.githubusercontent.com/u/21695742?s=72&u=583a6f107e9af789ad78d30130e72ed6e7de541d&v=4" width="24" alt="Avatar of cecstar"> cecstar
+			</a><br/>
+			Cecia Poders
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>384</td>
+		<td>
+			<a href="https://github.com/einancunlu">
+				<img src="https://avatars.githubusercontent.com/u/1511689?s=72&u=24d02ba2202b193e93386d552a605bd51a475e45&v=4" width="24" alt="Avatar of einancunlu"> einancunlu
+			</a><br/>
+			Emin Inanc Unlu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/einancunlu">einancunlu</a></td>
+		<td>Malta</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>385</td>
+		<td>
+			<a href="https://github.com/mattfik">
+				<img src="https://avatars.githubusercontent.com/u/1638028?s=72&u=7d6101eab24ff935dbb1d7ab335436bacb52ba43&v=4" width="24" alt="Avatar of mattfik"> mattfik
+			</a><br/>
+			Matt Fikowski
+		</td>
+		<td>Liftoff </td>
+		<td><a href="https://twitter.com/mattfik">mattfik</a></td>
+		<td>Victoria, BC</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>386</td>
+		<td>
+			<a href="https://github.com/lgauthie">
+				<img src="https://avatars.githubusercontent.com/u/1448371?s=72&u=bfba938d1198d3420a05fbd10db3dbb1051e82d8&v=4" width="24" alt="Avatar of lgauthie"> lgauthie
+			</a><br/>
+			Lee Gauthier
+		</td>
+		<td>- </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>387</td>
+		<td>
+			<a href="https://github.com/JuliaTodorova">
+				<img src="https://avatars.githubusercontent.com/u/5994255?s=72&u=3b2a4093afe11fb801e6485e0735e814be21940b&v=4" width="24" alt="Avatar of JuliaTodorova"> JuliaTodorova
+			</a><br/>
+			Julia Todorova
+		</td>
+		<td>@benevity  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>388</td>
+		<td>
+			<a href="https://github.com/andreasschroth">
+				<img src="https://avatars.githubusercontent.com/u/13320551?s=72&u=885d587a5396a049010d261261a4a7757cb2cbc5&v=4" width="24" alt="Avatar of andreasschroth"> andreasschroth
+			</a><br/>
+			Andreas Schroth
+		</td>
+		<td>Hpage Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>St. Julians, Malta</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>389</td>
+		<td>
+			<a href="https://github.com/pfrendo">
+				<img src="https://avatars.githubusercontent.com/u/13260474?s=72&u=dcaa5f9491d08f31c195543f19f9d59a81d4d3ac&v=4" width="24" alt="Avatar of pfrendo"> pfrendo
+			</a><br/>
+			Pawlu Frendo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>
+			<a href="https://github.com/jared-jewitt">
+				<img src="https://avatars.githubusercontent.com/u/22352564?s=72&u=3851390fa0a7567c9faa63e7d3fe689e71122585&v=4" width="24" alt="Avatar of jared-jewitt"> jared-jewitt
+			</a><br/>
+			Jared Jewitt
+		</td>
+		<td>@telmediq </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, B.C</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>391</td>
+		<td>
+			<a href="https://github.com/tyrelh">
+				<img src="https://avatars.githubusercontent.com/u/7576351?s=72&u=442751f3a367b6ae74a29659f1582fbb7f3ee57a&v=4" width="24" alt="Avatar of tyrelh"> tyrelh
+			</a><br/>
+			Tyrel Hiebert
+		</td>
+		<td>@giftbit </td>
+		<td><a href="https://twitter.com/tyrelhiebert">tyrelhiebert</a></td>
+		<td>Victoria, Canada</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>392</td>
+		<td>
+			<a href="https://github.com/AmirShayegh">
+				<img src="https://avatars.githubusercontent.com/u/34552761?s=72&u=86e5432612ee970c069fd3711fe2cb420575445d&v=4" width="24" alt="Avatar of AmirShayegh"> AmirShayegh
+			</a><br/>
+			Amir Shayegh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>393</td>
+		<td>
+			<a href="https://github.com/nathanlambert">
+				<img src="https://avatars.githubusercontent.com/u/248587?s=72&u=b22116d98b1e12d863a7c02e976357d727bae89c&v=4" width="24" alt="Avatar of nathanlambert"> nathanlambert
+			</a><br/>
+			Nathan Lambert
+		</td>
+		<td>Defined </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>394</td>
+		<td>
+			<a href="https://github.com/sunnythepatel">
+				<img src="https://avatars.githubusercontent.com/u/24850477?s=72&u=94a83ae5423657c39de716670713af48f17f73f1&v=4" width="24" alt="Avatar of sunnythepatel"> sunnythepatel
+			</a><br/>
+			Sunny Patel
+		</td>
+		<td>Monash University Eresearch Organisation<br/><br/></td>
+		<td><a href="https://twitter.com/sunnythepatel">sunnythepatel</a></td>
+		<td>Melbourne,Victoria,Australia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>395</td>
+		<td>
+			<a href="https://github.com/charlesbodman">
+				<img src="https://avatars.githubusercontent.com/u/231894?s=72&u=275bfe1788d34fe600a5243db632ea4840a00475&v=4" width="24" alt="Avatar of charlesbodman"> charlesbodman
+			</a><br/>
+			Charles Bodman
+		</td>
+		<td>Echosec </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC Canada</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>396</td>
+		<td>
+			<a href="https://github.com/justin-calleja">
+				<img src="https://avatars.githubusercontent.com/u/3186719?s=72&v=4" width="24" alt="Avatar of justin-calleja"> justin-calleja
+			</a><br/>
+			Justin Calleja
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>397</td>
+		<td>
+			<a href="https://github.com/wesleycyu">
+				<img src="https://avatars.githubusercontent.com/u/3856248?s=72&u=dc1965fead27af2348a59d820a93c2f1bdfae7f2&v=4" width="24" alt="Avatar of wesleycyu"> wesleycyu
+			</a><br/>
+			Wesley Yu
+		</td>
+		<td>Metalab </td>
+		<td><a href="https://twitter.com/wesleycyu">wesleycyu</a></td>
+		<td>Victoria, BC</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>398</td>
+		<td>
+			<a href="https://github.com/RyanBarclay">
+				<img src="https://avatars.githubusercontent.com/u/43585909?s=72&u=f10126dc8def6ce56172ecc9a98e5ff02b5e7d98&v=4" width="24" alt="Avatar of RyanBarclay"> RyanBarclay
+			</a><br/>
+			Ryan Barclay
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria | Vancouver </td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>399</td>
+		<td>
+			<a href="https://github.com/Bean0B">
+				<img src="https://avatars.githubusercontent.com/u/17171415?s=72&u=9afd051c1550cba6e6efefa3a4a442a2e8106239&v=4" width="24" alt="Avatar of Bean0B"> Bean0B
+			</a><br/>
+			Aileen O'Brien
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>400</td>
+		<td>
+			<a href="https://github.com/henry-ngo">
+				<img src="https://avatars.githubusercontent.com/u/16262107?s=72&u=34c86f0a9cd1d9960df35a20ae2f936f3e57b56e&v=4" width="24" alt="Avatar of henry-ngo"> henry-ngo
+			</a><br/>
+			Henry Ngo
+		</td>
+		<td>Province Of British Columbia<br/>@bcgov<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>401</td>
+		<td>
+			<a href="https://github.com/nvarscar">
+				<img src="https://avatars.githubusercontent.com/u/30303784?s=72&u=eea6e64f68cce8d8a7055ac406a57184bced0481&v=4" width="24" alt="Avatar of nvarscar"> nvarscar
+			</a><br/>
+			Kirill Kravtsov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>402</td>
+		<td>
+			<a href="https://github.com/ricardotondello">
+				<img src="https://avatars.githubusercontent.com/u/11843655?s=72&u=cfab644b5a06df5ba537850a5c5a0fb5941ed1f2&v=4" width="24" alt="Avatar of ricardotondello"> ricardotondello
+			</a><br/>
+			Ricardo Tondello
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>403</td>
+		<td>
+			<a href="https://github.com/abdmd">
+				<img src="https://avatars.githubusercontent.com/u/7827192?s=72&u=843766db710441f99a10237dfc81760c65a86582&v=4" width="24" alt="Avatar of abdmd"> abdmd
+			</a><br/>
+			Abdul Mohd
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>404</td>
+		<td>
+			<a href="https://github.com/JasonPan">
+				<img src="https://avatars.githubusercontent.com/u/6129538?s=72&u=a20c6d718a1f92ccb7d95324404d4871599b7c64&v=4" width="24" alt="Avatar of JasonPan"> JasonPan
+			</a><br/>
+			Jason Pan
+		</td>
+		<td>@ant-development-stu </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>
+			<a href="https://github.com/Kosat">
+				<img src="https://avatars.githubusercontent.com/u/153023?s=72&u=380cc7bf504c42e5038925d92ad965ec3698bbd5&v=4" width="24" alt="Avatar of Kosat"> Kosat
+			</a><br/>
+			Kostya
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>406</td>
+		<td>
+			<a href="https://github.com/juhewitt">
+				<img src="https://avatars.githubusercontent.com/u/15350676?s=72&u=6cbeb3382546582d2777d20a695508d5f61a562f&v=4" width="24" alt="Avatar of juhewitt"> juhewitt
+			</a><br/>
+			Justin Hewitt
+		</td>
+		<td>Bc Public Service </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>407</td>
+		<td>
+			<a href="https://github.com/anhnk">
+				<img src="https://avatars.githubusercontent.com/u/617197?s=72&u=3a2f024b586df4ba41ecdb5e5cfd6b3ad8d787ce&v=4" width="24" alt="Avatar of anhnk"> anhnk
+			</a><br/>
+			Anh Do
+		</td>
+		<td>Chargefox </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>408</td>
+		<td>
+			<a href="https://github.com/jennifersarahpaul">
+				<img src="https://avatars.githubusercontent.com/u/14044753?s=72&v=4" width="24" alt="Avatar of jennifersarahpaul"> jennifersarahpaul
+			</a><br/>
+			Jennifer Paul
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>409</td>
+		<td>
+			<a href="https://github.com/Kamel773">
+				<img src="https://avatars.githubusercontent.com/u/17543993?s=72&v=4" width="24" alt="Avatar of Kamel773"> Kamel773
+			</a><br/>
+			Kamel Alrashedy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>410</td>
+		<td>
+			<a href="https://github.com/gdbate">
+				<img src="https://avatars.githubusercontent.com/u/349368?s=72&u=77e7014114137108da4c45e7f70f02b1b5544ab3&v=4" width="24" alt="Avatar of gdbate"> gdbate
+			</a><br/>
+			Greg Bate
+		</td>
+		<td>Racerocks 3d </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>411</td>
+		<td>
+			<a href="https://github.com/Kimberleydillon">
+				<img src="https://avatars.githubusercontent.com/u/15920891?s=72&u=b12d85dfb1c06115b17fcfe42a231c09c679ac53&v=4" width="24" alt="Avatar of Kimberleydillon"> Kimberleydillon
+			</a><br/>
+			Kim 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>412</td>
+		<td>
+			<a href="https://github.com/markuadoc">
+				<img src="https://avatars.githubusercontent.com/u/9376482?s=72&u=84fdf215a2ee1b6883d06bfb01ae265495307bd2&v=4" width="24" alt="Avatar of markuadoc"> markuadoc
+			</a><br/>
+			Markua
+		</td>
+		<td>Ruboss Technology Corporation </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>413</td>
+		<td>
+			<a href="https://github.com/nevf">
+				<img src="https://avatars.githubusercontent.com/u/486142?s=72&v=4" width="24" alt="Avatar of nevf"> nevf
+			</a><br/>
+			Neville Franks
+		</td>
+		<td>Soft As It Gets<br/>Pty<br/>Ltd<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>414</td>
+		<td>
+			<a href="https://github.com/evilangelist">
+				<img src="https://avatars.githubusercontent.com/u/430445?s=72&v=4" width="24" alt="Avatar of evilangelist"> evilangelist
+			</a><br/>
+			Chris Smith
+		</td>
+		<td>Helmage Games </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>415</td>
+		<td>
+			<a href="https://github.com/nheagy">
+				<img src="https://avatars.githubusercontent.com/u/517257?s=72&v=4" width="24" alt="Avatar of nheagy"> nheagy
+			</a><br/>
+			Nate Heagy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>416</td>
+		<td>
+			<a href="https://github.com/KentoKana">
+				<img src="https://avatars.githubusercontent.com/u/33736354?s=72&u=21571524239a0ec1dacc8bfc151d79c0911f8469&v=4" width="24" alt="Avatar of KentoKana"> KentoKana
+			</a><br/>
+			Kento Kanazawa
+		</td>
+		<td>Lbc It </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>
+			<a href="https://github.com/h2oman">
+				<img src="https://avatars.githubusercontent.com/u/2458839?s=72&u=fec1a60e19a32d4fafd64d0b39a468584dc493f7&v=4" width="24" alt="Avatar of h2oman"> h2oman
+			</a><br/>
+			Jason Waterman
+		</td>
+		<td>Momentum Dashboard </td>
+		<td><a href="https://twitter.com/jaywaterman">jaywaterman</a></td>
+		<td>Victoria, BC, Canada</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>418</td>
+		<td>
+			<a href="https://github.com/joram">
+				<img src="https://avatars.githubusercontent.com/u/154617?s=72&u=08aaf9441e2b130948dce5c237be1973529ec3ac&v=4" width="24" alt="Avatar of joram"> joram
+			</a><br/>
+			John Oram
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>419</td>
+		<td>
+			<a href="https://github.com/jpayoung">
+				<img src="https://avatars.githubusercontent.com/u/4267710?s=72&u=3cb6957a00aaca597324904c850a0077fd4a7d32&v=4" width="24" alt="Avatar of jpayoung"> jpayoung
+			</a><br/>
+			J.P. Anderson-Young
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>420</td>
+		<td>
+			<a href="https://github.com/ericathedev">
+				<img src="https://avatars.githubusercontent.com/u/18517177?s=72&u=57644697d7d4d4b3f88a2d8995cd57bd99dff82d&v=4" width="24" alt="Avatar of ericathedev"> ericathedev
+			</a><br/>
+			Erica Tanti
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>421</td>
+		<td>
+			<a href="https://github.com/ty2k">
+				<img src="https://avatars.githubusercontent.com/u/25143706?s=72&u=09a47134efb978598caf8670c36090b290534d59&v=4" width="24" alt="Avatar of ty2k"> ty2k
+			</a><br/>
+			Tyler Krys
+		</td>
+		<td>Province Of British Columbia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>422</td>
+		<td>
+			<a href="https://github.com/stephenhillier">
+				<img src="https://avatars.githubusercontent.com/u/27074993?s=72&u=ecbef771fbfbe5f37d71412ce25712dbea18da7c&v=4" width="24" alt="Avatar of stephenhillier"> stephenhillier
+			</a><br/>
+			Steve Hillier
+		</td>
+		<td>@bcgov </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>423</td>
+		<td>
+			<a href="https://github.com/omnistegan">
+				<img src="https://avatars.githubusercontent.com/u/12424770?s=72&u=acf87b206e8da22a9efa53261bd099139db857ef&v=4" width="24" alt="Avatar of omnistegan"> omnistegan
+			</a><br/>
+			Graham Bouvier
+		</td>
+		<td>Super Good </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>424</td>
+		<td>
+			<a href="https://github.com/miroesli">
+				<img src="https://avatars.githubusercontent.com/u/17695280?s=72&u=8df783c6a6f623f96845751bf7ef14ffb4a0508f&v=4" width="24" alt="Avatar of miroesli"> miroesli
+			</a><br/>
+			Michail Roesli
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/miroesli">miroesli</a></td>
+		<td>Victoria, BC</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>425</td>
+		<td>
+			<a href="https://github.com/sandorTuranszky">
+				<img src="https://avatars.githubusercontent.com/u/11644015?s=72&u=d32d7fa19a1abaca702859120cdfab613f067c6f&v=4" width="24" alt="Avatar of sandorTuranszky"> sandorTuranszky
+			</a><br/>
+			Sandor
+		</td>
+		<td>Tursystem </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>426</td>
+		<td>
+			<a href="https://github.com/ToucheSir">
+				<img src="https://avatars.githubusercontent.com/u/4062143?s=72&u=77f740f54d7b3a2c9b80faecd86d52a31c5c359f&v=4" width="24" alt="Avatar of ToucheSir"> ToucheSir
+			</a><br/>
+			Brian Chen
+		</td>
+		<td>Queen's University </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC & Kingston, ON</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>427</td>
+		<td>
+			<a href="https://github.com/phildenhoff">
+				<img src="https://avatars.githubusercontent.com/u/17505728?s=72&u=216d7fca3c24c3738930f1a1c6922c0b9fb3132f&v=4" width="24" alt="Avatar of phildenhoff"> phildenhoff
+			</a><br/>
+			Phil Denhoff
+		</td>
+		<td>@futurepet </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>428</td>
+		<td>
+			<a href="https://github.com/alfielytorres">
+				<img src="https://avatars.githubusercontent.com/u/30723393?s=72&u=2d357b152d6a4fee182977a82b86de6cdc6f1dd3&v=4" width="24" alt="Avatar of alfielytorres"> alfielytorres
+			</a><br/>
+			Alfie Torres
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/alfielytorres">alfielytorres</a></td>
+		<td>Melbourne, Victoria, Australia </td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>429</td>
+		<td>
+			<a href="https://github.com/wmceff">
+				<img src="https://avatars.githubusercontent.com/u/197239?s=72&u=24be446b1df54640ffed2760839b111d9ed4979e&v=4" width="24" alt="Avatar of wmceff"> wmceff
+			</a><br/>
+			Will McFarland
+		</td>
+		<td>Pixel Union </td>
+		<td><a href="https://twitter.com/wmceff">wmceff</a></td>
+		<td>Victoria, BC</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>430</td>
+		<td>
+			<a href="https://github.com/hartshorne">
+				<img src="https://avatars.githubusercontent.com/u/17720?s=72&u=d7093a93443b1dcd1d1c1b8befe902e3466d0ba7&v=4" width="24" alt="Avatar of hartshorne"> hartshorne
+			</a><br/>
+			Beau Hartshorne
+		</td>
+		<td>@instantdomainsearch  </td>
+		<td><a href="https://twitter.com/hartshorne">hartshorne</a></td>
+		<td>Victoria, Canada</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>431</td>
+		<td>
+			<a href="https://github.com/garysharp">
+				<img src="https://avatars.githubusercontent.com/u/1687386?s=72&u=944f8c654d809d6e35e9e496a99d85be9912b7e6&v=4" width="24" alt="Avatar of garysharp"> garysharp
+			</a><br/>
+			Gary Sharp
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Geelong, Victoria, Australia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>432</td>
+		<td>
+			<a href="https://github.com/tyxou">
+				<img src="https://avatars.githubusercontent.com/u/13624197?s=72&u=7412c4f1ee21a9730de35e6aa59043f7b1098b61&v=4" width="24" alt="Avatar of tyxou"> tyxou
+			</a><br/>
+			Alex Cumbo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>433</td>
+		<td>
+			<a href="https://github.com/JeanAzzopardi">
+				<img src="https://avatars.githubusercontent.com/u/5838?s=72&u=c84fc44466c89b49ad205379abcfbe000e2f6550&v=4" width="24" alt="Avatar of JeanAzzopardi"> JeanAzzopardi
+			</a><br/>
+			Jean Azzopardi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>434</td>
+		<td>
+			<a href="https://github.com/jordanjay12">
+				<img src="https://avatars.githubusercontent.com/u/17284499?s=72&u=70b77479df14c4c2da9f8e12506ce928ec76d640&v=4" width="24" alt="Avatar of jordanjay12"> jordanjay12
+			</a><br/>
+			Jordan Jay
+		</td>
+		<td>Change.org </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>435</td>
+		<td>
+			<a href="https://github.com/colinvella">
+				<img src="https://avatars.githubusercontent.com/u/1244038?s=72&v=4" width="24" alt="Avatar of colinvella"> colinvella
+			</a><br/>
+			Colin Vella
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>436</td>
+		<td>
+			<a href="https://github.com/jamesfarrugia">
+				<img src="https://avatars.githubusercontent.com/u/14979341?s=72&u=ca028eea7852c8fc45f2ba9943b1d2a67c26d179&v=4" width="24" alt="Avatar of jamesfarrugia"> jamesfarrugia
+			</a><br/>
+			James Farrugia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ħaż-Żebbuġ, Malta</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>437</td>
+		<td>
+			<a href="https://github.com/georgevella">
+				<img src="https://avatars.githubusercontent.com/u/1698222?s=72&v=4" width="24" alt="Avatar of georgevella"> georgevella
+			</a><br/>
+			George Vella
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>438</td>
+		<td>
+			<a href="https://github.com/SysPete">
+				<img src="https://avatars.githubusercontent.com/u/6115812?s=72&u=ac0eaf5908a21005c8178083489beb756b2e1fea&v=4" width="24" alt="Avatar of SysPete"> SysPete
+			</a><br/>
+			Peter Mottram
+		</td>
+		<td>Sysnix Consultants </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>439</td>
+		<td>
+			<a href="https://github.com/MarcPorciuncula">
+				<img src="https://avatars.githubusercontent.com/u/7779247?s=72&u=198420a04185d0474482009cb7055bb3289b5311&v=4" width="24" alt="Avatar of MarcPorciuncula"> MarcPorciuncula
+			</a><br/>
+			Marc Porciuncula
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MarcoThePoro">MarcoThePoro</a></td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>440</td>
+		<td>
+			<a href="https://github.com/dallasbrooks">
+				<img src="https://avatars.githubusercontent.com/u/47010213?s=72&u=740f181e72e3e497be3d35f18ccb01f9c2d21cfb&v=4" width="24" alt="Avatar of dallasbrooks"> dallasbrooks
+			</a><br/>
+			Dallas Brooks
+		</td>
+		<td>Precision Sails Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>441</td>
+		<td>
+			<a href="https://github.com/ChillCordDev">
+				<img src="https://avatars.githubusercontent.com/u/81452894?s=72&u=e527a54d64d613f4a5c382a30ff9d549e50277e2&v=4" width="24" alt="Avatar of ChillCordDev"> ChillCordDev
+			</a><br/>
+			PrettyChillDev
+		</td>
+		<td>Chillcord Development </td>
+		<td><a href="https://twitter.com/ChillCordDev">ChillCordDev</a></td>
+		<td>Victoria, BC</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>442</td>
+		<td>
+			<a href="https://github.com/DerekRoberts">
+				<img src="https://avatars.githubusercontent.com/u/4391600?s=72&u=ea31889998e19311aea8c9037c5916a4a7f842f5&v=4" width="24" alt="Avatar of DerekRoberts"> DerekRoberts
+			</a><br/>
+			Derek Roberts
+		</td>
+		<td>Bc Government </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>443</td>
+		<td>
+			<a href="https://github.com/jlemanski1">
+				<img src="https://avatars.githubusercontent.com/u/12676218?s=72&u=8cc5a3e04c96256528c89aba7ebd63e49b295178&v=4" width="24" alt="Avatar of jlemanski1"> jlemanski1
+			</a><br/>
+			Jonathan L
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>444</td>
+		<td>
+			<a href="https://github.com/MolarFox">
+				<img src="https://avatars.githubusercontent.com/u/7781075?s=72&u=1686baf0490557105b79ac8ca050fa62ac74c53f&v=4" width="24" alt="Avatar of MolarFox"> MolarFox
+			</a><br/>
+			RJ
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MolarFox">MolarFox</a></td>
+		<td>Victoria, Australia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>445</td>
+		<td>
+			<a href="https://github.com/mark-a-wilson">
+				<img src="https://avatars.githubusercontent.com/u/16946297?s=72&u=085d5041ff4f10664ac037c5f36ff39ff9873640&v=4" width="24" alt="Avatar of mark-a-wilson"> mark-a-wilson
+			</a><br/>
+			Mark Wilson
+		</td>
+		<td>Province Of British Columbia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>446</td>
+		<td>
+			<a href="https://github.com/tomjp90">
+				<img src="https://avatars.githubusercontent.com/u/72062388?s=72&u=5784af0cd9f33745941c594eb38452d48e7986a6&v=4" width="24" alt="Avatar of tomjp90"> tomjp90
+			</a><br/>
+			Tom Peddlesden
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>447</td>
+		<td>
+			<a href="https://github.com/JohannSuarez">
+				<img src="https://avatars.githubusercontent.com/u/20419658?s=72&u=90d384bd3fa63495f7b5edcb5bfe773a478d1158&v=4" width="24" alt="Avatar of JohannSuarez"> JohannSuarez
+			</a><br/>
+			Johann Suarez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>448</td>
+		<td>
+			<a href="https://github.com/andrelashley">
+				<img src="https://avatars.githubusercontent.com/u/599918?s=72&u=997de6a32cec6b498f446a8034bf056f7fd822bf&v=4" width="24" alt="Avatar of andrelashley"> andrelashley
+			</a><br/>
+			André Lashley
+		</td>
+		<td>Connected Developer </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>449</td>
+		<td>
+			<a href="https://github.com/jprenken">
+				<img src="https://avatars.githubusercontent.com/u/8336145?s=72&u=f6963f73e0aa4a3fe0f3b7ff1bdac8928148e4ec&v=4" width="24" alt="Avatar of jprenken"> jprenken
+			</a><br/>
+			James Renken
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jrenken">jrenken</a></td>
+		<td>Victoria, BC, Canada</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>450</td>
+		<td>
+			<a href="https://github.com/inumanag">
+				<img src="https://avatars.githubusercontent.com/u/10132487?s=72&u=5224e398dd96dd2fff34ab31d066a31499f212d0&v=4" width="24" alt="Avatar of inumanag"> inumanag
+			</a><br/>
+			Ibrahim Numanagić
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>451</td>
+		<td>
+			<a href="https://github.com/nathandines">
+				<img src="https://avatars.githubusercontent.com/u/793167?s=72&u=4119fc79ee3d7d98909e2eee541dbafa03aed19b&v=4" width="24" alt="Avatar of nathandines"> nathandines
+			</a><br/>
+			Nathan Dines
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nathan_dines">nathan_dines</a></td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>452</td>
+		<td>
+			<a href="https://github.com/DillanSpencer">
+				<img src="https://avatars.githubusercontent.com/u/46987282?s=72&u=9e0921ed71f19ac2869ed845281784fa31d02372&v=4" width="24" alt="Avatar of DillanSpencer"> DillanSpencer
+			</a><br/>
+			Dillan Spencer
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>453</td>
+		<td>
+			<a href="https://github.com/devillexio">
+				<img src="https://avatars.githubusercontent.com/u/11049609?s=72&v=4" width="24" alt="Avatar of devillexio"> devillexio
+			</a><br/>
+			De Ville Weppenaar
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/devillexio">devillexio</a></td>
+		<td>Victoria, BC, Canada</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>454</td>
+		<td>
+			<a href="https://github.com/moltanem2000">
+				<img src="https://avatars.githubusercontent.com/u/1689318?s=72&v=4" width="24" alt="Avatar of moltanem2000"> moltanem2000
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC, Canada</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>455</td>
+		<td>
+			<a href="https://github.com/christopher-hopper">
+				<img src="https://avatars.githubusercontent.com/u/452515?s=72&u=9290f44b897eb00c25e0689df028758648d01915&v=4" width="24" alt="Avatar of christopher-hopper"> christopher-hopper
+			</a><br/>
+			Christopher Hopper
+		</td>
+		<td>@deloittedigitalapac </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>456</td>
+		<td>
+			<a href="https://github.com/edsloane">
+				<img src="https://avatars.githubusercontent.com/u/64641499?s=72&u=a158e1e53a46b10f759f29378cc283982756079d&v=4" width="24" alt="Avatar of edsloane"> edsloane
+			</a><br/>
+			Ed Sloane
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>457</td>
+		<td>
+			<a href="https://github.com/tahmid0007">
+				<img src="https://avatars.githubusercontent.com/u/50651246?s=72&u=a1727bb082bf6eeeb6d1b06e9ce68fdc9993d3fc&v=4" width="24" alt="Avatar of tahmid0007"> tahmid0007
+			</a><br/>
+			Md Tahmid Hossain
+		</td>
+		<td>Federation University Australia </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>458</td>
+		<td>
+			<a href="https://github.com/jwrg">
+				<img src="https://avatars.githubusercontent.com/u/9510712?s=72&u=46a1a9485456721c4689fd7eac330ee4b61fd5f6&v=4" width="24" alt="Avatar of jwrg"> jwrg
+			</a><br/>
+			Jim Galloway
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>University of Victoria</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>459</td>
+		<td>
+			<a href="https://github.com/andrewbrg">
+				<img src="https://avatars.githubusercontent.com/u/5937311?s=72&u=fed2aabcb20e934e3b49e7da1223f2b1e5baff6e&v=4" width="24" alt="Avatar of andrewbrg"> andrewbrg
+			</a><br/>
+			Andrew Borg
+		</td>
+		<td>Max Entertainment </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>460</td>
+		<td>
+			<a href="https://github.com/fairmutex">
+				<img src="https://avatars.githubusercontent.com/u/4706582?s=72&u=8858faf608603a9e9d8f747db52e1c5879934d2e&v=4" width="24" alt="Avatar of fairmutex"> fairmutex
+			</a><br/>
+			Stephan Galea
+		</td>
+		<td>N/a </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>461</td>
+		<td>
+			<a href="https://github.com/itchison">
+				<img src="https://avatars.githubusercontent.com/u/20228664?s=72&u=09fcd1c5558c538da7a4fd092c97411db880ffce&v=4" width="24" alt="Avatar of itchison"> itchison
+			</a><br/>
+			Jason Aitchison
+		</td>
+		<td>Sierra Systems Group -<br/>An<br/>Ntt<br/>Data<br/>Company<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>462</td>
+		<td>
+			<a href="https://github.com/lostsource">
+				<img src="https://avatars.githubusercontent.com/u/961894?s=72&u=bb1b45e598fc8d385684347d8ce42dcbea15a9b3&v=4" width="24" alt="Avatar of lostsource"> lostsource
+			</a><br/>
+			Joseph Portelli
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>463</td>
+		<td>
+			<a href="https://github.com/cjose3">
+				<img src="https://avatars.githubusercontent.com/u/4368131?s=72&u=6d2dcddbf5adc1f601f2620aaa49d2213d31fe9d&v=4" width="24" alt="Avatar of cjose3"> cjose3
+			</a><br/>
+			Carlos Marcano
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>464</td>
+		<td>
+			<a href="https://github.com/justintanner">
+				<img src="https://avatars.githubusercontent.com/u/216203?s=72&u=b09c0515742acaf7dbe28bd770bacddcccfc2998&v=4" width="24" alt="Avatar of justintanner"> justintanner
+			</a><br/>
+			Justin Tanner
+		</td>
+		<td>Surge Forward </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>465</td>
+		<td>
+			<a href="https://github.com/illotum">
+				<img src="https://avatars.githubusercontent.com/u/1162134?s=72&v=4" width="24" alt="Avatar of illotum"> illotum
+			</a><br/>
+			Alex Valiushko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>466</td>
+		<td>
+			<a href="https://github.com/bekiremretopuz">
+				<img src="https://avatars.githubusercontent.com/u/6181904?s=72&u=595c5d72c7c49ba8754026d972d301c981aee717&v=4" width="24" alt="Avatar of bekiremretopuz"> bekiremretopuz
+			</a><br/>
+			Bekir Emre Topuz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>467</td>
+		<td>
+			<a href="https://github.com/ethanyoung">
+				<img src="https://avatars.githubusercontent.com/u/6742999?s=72&u=d6eb43aa5d6f89beb380efa353ec7da8e84ec8fe&v=4" width="24" alt="Avatar of ethanyoung"> ethanyoung
+			</a><br/>
+			Ethan Yang
+		</td>
+		<td>Anz </td>
+		<td>No Twitter Username</td>
+		<td>Docklands, Victoria, Australia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>468</td>
+		<td>
+			<a href="https://github.com/Gabb1995">
+				<img src="https://avatars.githubusercontent.com/u/20728259?s=72&u=7658486e85c6748d2d246b10cc84210929206238&v=4" width="24" alt="Avatar of Gabb1995"> Gabb1995
+			</a><br/>
+			Gabriel Caruana
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>469</td>
+		<td>
+			<a href="https://github.com/ShaeBrown">
+				<img src="https://avatars.githubusercontent.com/u/9682061?s=72&u=a489cd3288bdab5712908e103c85dcba0c7f11bc&v=4" width="24" alt="Avatar of ShaeBrown"> ShaeBrown
+			</a><br/>
+			Shae Brown
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>470</td>
+		<td>
+			<a href="https://github.com/schkovich">
+				<img src="https://avatars.githubusercontent.com/u/1050649?s=72&v=4" width="24" alt="Avatar of schkovich"> schkovich
+			</a><br/>
+			Goran Miskovic
+		</td>
+		<td>Times Of Malta </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>471</td>
+		<td>
+			<a href="https://github.com/nicklasbondesson">
+				<img src="https://avatars.githubusercontent.com/u/826299?s=72&u=1a0cc2f776b2e629656036747ba3e4d73bf403fa&v=4" width="24" alt="Avatar of nicklasbondesson"> nicklasbondesson
+			</a><br/>
+			Nicklas Bondesson
+		</td>
+		<td>@casumo  </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>472</td>
+		<td>
+			<a href="https://github.com/echobass">
+				<img src="https://avatars.githubusercontent.com/u/53410?s=72&u=0e209ebb4d00b6820f433de430ccf319c65f1923&v=4" width="24" alt="Avatar of echobass"> echobass
+			</a><br/>
+			Willem Brosz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>473</td>
+		<td>
+			<a href="https://github.com/rd37">
+				<img src="https://avatars.githubusercontent.com/u/123004?s=72&v=4" width="24" alt="Avatar of rd37"> rd37
+			</a><br/>
+			Ron Desmarais
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC, Canada</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>474</td>
+		<td>
+			<a href="https://github.com/matthewnessworthy">
+				<img src="https://avatars.githubusercontent.com/u/5653887?s=72&u=2c77b7e9e76cf3997c220dc95562e21af62f4329&v=4" width="24" alt="Avatar of matthewnessworthy"> matthewnessworthy
+			</a><br/>
+			Matthew Nessworthy
+		</td>
+		<td>@ringierimu </td>
+		<td>No Twitter Username</td>
+		<td>Gozo, Malta</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>475</td>
+		<td>
+			<a href="https://github.com/samhwang">
+				<img src="https://avatars.githubusercontent.com/u/4188758?s=72&u=9286a5c9334a7987c585d5a7fea7781a6974d039&v=4" width="24" alt="Avatar of samhwang"> samhwang
+			</a><br/>
+			Sam Huynh
+		</td>
+		<td>Hertz @flexicar || Vait<br/>@viet-aus-it<br/></td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>476</td>
+		<td>
+			<a href="https://github.com/SMenigat">
+				<img src="https://avatars.githubusercontent.com/u/7868768?s=72&u=4ce91e6565c25e3efb0ca935244c4ea1d32ae44d&v=4" width="24" alt="Avatar of SMenigat"> SMenigat
+			</a><br/>
+			Samuel Menigat
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>477</td>
+		<td>
+			<a href="https://github.com/CrazyEraserUK">
+				<img src="https://avatars.githubusercontent.com/u/2797781?s=72&u=d26cb76711fe2d3d65143ac7145bf9421a997ec2&v=4" width="24" alt="Avatar of CrazyEraserUK"> CrazyEraserUK
+			</a><br/>
+			Ben McCarthy
+		</td>
+		<td>Sainsbury's Tech </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, London, UK</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>478</td>
+		<td>
+			<a href="https://github.com/alexcb">
+				<img src="https://avatars.githubusercontent.com/u/1806823?s=72&u=57795e187969c4ecd8a9e7ec65bd7b8ae352b4a8&v=4" width="24" alt="Avatar of alexcb"> alexcb
+			</a><br/>
+			Alex Couture-Beil
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>479</td>
+		<td>
+			<a href="https://github.com/grace-kang">
+				<img src="https://avatars.githubusercontent.com/u/19962790?s=72&u=ac8c109dfbcba4c59ddc8b9517d5d5e8d724b7d9&v=4" width="24" alt="Avatar of grace-kang"> grace-kang
+			</a><br/>
+			Grace Kang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>480</td>
+		<td>
+			<a href="https://github.com/benjie332">
+				<img src="https://avatars.githubusercontent.com/u/3155713?s=72&u=b0011deea40b376060af0313a35f8d774f05bf2f&v=4" width="24" alt="Avatar of benjie332"> benjie332
+			</a><br/>
+			Benjie Gatt
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>481</td>
+		<td>
+			<a href="https://github.com/Decibullz">
+				<img src="https://avatars.githubusercontent.com/u/71291067?s=72&u=23938293bf98faafb2f07089d5bfde7b7d39c3d3&v=4" width="24" alt="Avatar of Decibullz"> Decibullz
+			</a><br/>
+			Cody Snell
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, TX</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>482</td>
+		<td>
+			<a href="https://github.com/fredericboivin">
+				<img src="https://avatars.githubusercontent.com/u/4110905?s=72&u=2f16f81952f286641f8ece166e92a4d43d26a0c9&v=4" width="24" alt="Avatar of fredericboivin"> fredericboivin
+			</a><br/>
+			Frédéric Boivin
+		</td>
+		<td>@shopify  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>483</td>
+		<td>
+			<a href="https://github.com/matharvard">
+				<img src="https://avatars.githubusercontent.com/u/12041?s=72&v=4" width="24" alt="Avatar of matharvard"> matharvard
+			</a><br/>
+			Mat Harvard
+		</td>
+		<td>Animikii Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>484</td>
+		<td>
+			<a href="https://github.com/nspyrison">
+				<img src="https://avatars.githubusercontent.com/u/6053779?s=72&u=e0bbc9335eca8adcb38cf038c6bd4357b8d50723&v=4" width="24" alt="Avatar of nspyrison"> nspyrison
+			</a><br/>
+			Nicholas Spyrison
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nspyrison">nspyrison</a></td>
+		<td>Victoria, Australia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>485</td>
+		<td>
+			<a href="https://github.com/steveadams">
+				<img src="https://avatars.githubusercontent.com/u/457207?s=72&u=a924df0ce4aaf1bb4e6a2672e2a56de494a65ee1&v=4" width="24" alt="Avatar of steveadams"> steveadams
+			</a><br/>
+			Steve
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>486</td>
+		<td>
+			<a href="https://github.com/swcraig">
+				<img src="https://avatars.githubusercontent.com/u/11495200?s=72&v=4" width="24" alt="Avatar of swcraig"> swcraig
+			</a><br/>
+			swcraig
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>487</td>
+		<td>
+			<a href="https://github.com/Kiwwa">
+				<img src="https://avatars.githubusercontent.com/u/3986174?s=72&v=4" width="24" alt="Avatar of Kiwwa"> Kiwwa
+			</a><br/>
+			Luke Shillabeer
+		</td>
+		<td>@paddlco  </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>488</td>
+		<td>
+			<a href="https://github.com/kjellberg">
+				<img src="https://avatars.githubusercontent.com/u/2277443?s=72&u=6628f050bb8929f5de7493e576f34a09bb9b35bc&v=4" width="24" alt="Avatar of kjellberg"> kjellberg
+			</a><br/>
+			Rasmus Kjellberg
+		</td>
+		<td>@youngmedia  </td>
+		<td>No Twitter Username</td>
+		<td>Sliema, Malta</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>489</td>
+		<td>
+			<a href="https://github.com/a1astair">
+				<img src="https://avatars.githubusercontent.com/u/14209989?s=72&u=36414e4ed5aabb9f4cdb6d3a72818d0623498683&v=4" width="24" alt="Avatar of a1astair"> a1astair
+			</a><br/>
+			Alastair
+		</td>
+		<td>Telmediq </td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>490</td>
+		<td>
+			<a href="https://github.com/dotsam">
+				<img src="https://avatars.githubusercontent.com/u/4316742?s=72&u=ea51c2b7333de1b0f409b482c70c7ec96a3d626a&v=4" width="24" alt="Avatar of dotsam"> dotsam
+			</a><br/>
+			Sam Edwards
+		</td>
+		<td>@bclibcoop  </td>
+		<td><a href="https://twitter.com/dotsam">dotsam</a></td>
+		<td>Victoria, BC, Canada</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>491</td>
+		<td>
+			<a href="https://github.com/brandonscript">
+				<img src="https://avatars.githubusercontent.com/u/1480253?s=72&u=acf10ee1defdb7aeab7febddd33a7ac44564d73c&v=4" width="24" alt="Avatar of brandonscript"> brandonscript
+			</a><br/>
+			Brandon Shelley
+		</td>
+		<td>@google </td>
+		<td><a href="https://twitter.com/brandonscript">brandonscript</a></td>
+		<td>Victoria, BC</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>492</td>
+		<td>
+			<a href="https://github.com/PolianaRufatto">
+				<img src="https://avatars.githubusercontent.com/u/5182966?s=72&u=40547887c7aaf2e89e39d1cc9268787a7179326a&v=4" width="24" alt="Avatar of PolianaRufatto"> PolianaRufatto
+			</a><br/>
+			Poliana Rufatto
+		</td>
+		<td>Softplan </td>
+		<td><a href="https://twitter.com/polianarufatto">polianarufatto</a></td>
+		<td>Msida, Malta</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>493</td>
+		<td>
+			<a href="https://github.com/laurence-myers">
+				<img src="https://avatars.githubusercontent.com/u/6336048?s=72&u=f224f1bd3dc3dd438075aaebf48a2ceb0f482f2d&v=4" width="24" alt="Avatar of laurence-myers"> laurence-myers
+			</a><br/>
+			Laurence Dougal Myers
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>494</td>
+		<td>
+			<a href="https://github.com/anicholls">
+				<img src="https://avatars.githubusercontent.com/u/908478?s=72&u=10dde4ca12f8c0db9c04fdf3729a09e86c12e520&v=4" width="24" alt="Avatar of anicholls"> anicholls
+			</a><br/>
+			Alex Nicholls
+		</td>
+		<td>Workday </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>495</td>
+		<td>
+			<a href="https://github.com/ianheggie">
+				<img src="https://avatars.githubusercontent.com/u/44531?s=72&v=4" width="24" alt="Avatar of ianheggie"> ianheggie
+			</a><br/>
+			Ian Heggie
+		</td>
+		<td>Heggie Enterprises Pty Ltd<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>496</td>
+		<td>
+			<a href="https://github.com/mtotowamkwe">
+				<img src="https://avatars.githubusercontent.com/u/15795163?s=72&u=196b5e778a36df54fa88b40ca75e6216022da1b5&v=4" width="24" alt="Avatar of mtotowamkwe"> mtotowamkwe
+			</a><br/>
+			Michael Edward
+		</td>
+		<td>Bc Pension Corporation </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>497</td>
+		<td>
+			<a href="https://github.com/Damoscky">
+				<img src="https://avatars.githubusercontent.com/u/47559344?s=72&u=0f435c66d8139538f6455d663c8fe08cf9b02984&v=4" width="24" alt="Avatar of Damoscky"> Damoscky
+			</a><br/>
+			Akinwunmi Damilola
+		</td>
+		<td>Software Business Solution Consulting.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria Island, Lagos</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>498</td>
+		<td>
+			<a href="https://github.com/Garfield-Chen">
+				<img src="https://avatars.githubusercontent.com/u/1573598?s=72&u=87c2a4dcf3add045fb7338eebf60e0bf1f7811e5&v=4" width="24" alt="Avatar of Garfield-Chen"> Garfield-Chen
+			</a><br/>
+			Garfield
+		</td>
+		<td>Tyo House </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>499</td>
+		<td>
+			<a href="https://github.com/yanlesin">
+				<img src="https://avatars.githubusercontent.com/u/5117961?s=72&u=5231b1fef77e05336a908f42e589f123d3646e6d&v=4" width="24" alt="Avatar of yanlesin"> yanlesin
+			</a><br/>
+			Yan Lyesin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>500</td>
+		<td>
+			<a href="https://github.com/sgoodale">
+				<img src="https://avatars.githubusercontent.com/u/17284259?s=72&u=eebc5be1b2ef4781380c7fbd520c23f9d0738af6&v=4" width="24" alt="Avatar of sgoodale"> sgoodale
+			</a><br/>
+			Stephanie Goodale
+		</td>
+		<td>Giftbit </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>501</td>
+		<td>
+			<a href="https://github.com/Ebenezy">
+				<img src="https://avatars.githubusercontent.com/u/32405951?s=72&u=a1a0c310e3719c5310da2d5b1b06cb9e70e55389&v=4" width="24" alt="Avatar of Ebenezy"> Ebenezy
+			</a><br/>
+			Ebenezer Ndukwe
+		</td>
+		<td>Spaveline Limited </td>
+		<td>No Twitter Username</td>
+		<td>Victoria Island, Lagos, Nigeria</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>502</td>
+		<td>
+			<a href="https://github.com/AubreyR">
+				<img src="https://avatars.githubusercontent.com/u/5516067?s=72&u=0b9c106ae6204378c5ebd087c928d414690836c8&v=4" width="24" alt="Avatar of AubreyR"> AubreyR
+			</a><br/>
+			Aubrey Robertson
+		</td>
+		<td>Province Of British Columbia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>503</td>
+		<td>
+			<a href="https://github.com/drmenguin">
+				<img src="https://avatars.githubusercontent.com/u/19354076?s=72&u=87c20c8f2c183c7d5de11ae0e1d52968d1c2ba73&v=4" width="24" alt="Avatar of drmenguin"> drmenguin
+			</a><br/>
+			Luke Collins
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>504</td>
+		<td>
+			<a href="https://github.com/aseychell">
+				<img src="https://avatars.githubusercontent.com/u/339626?s=72&v=4" width="24" alt="Avatar of aseychell"> aseychell
+			</a><br/>
+			Aldrin Seychell
+		</td>
+		<td>@ixaris  </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>505</td>
+		<td>
+			<a href="https://github.com/Athaman">
+				<img src="https://avatars.githubusercontent.com/u/17151688?s=72&u=9bd892b3aa788ba5619f3cbd189d5cd02997e9cd&v=4" width="24" alt="Avatar of Athaman"> Athaman
+			</a><br/>
+			Keone Martin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>506</td>
+		<td>
+			<a href="https://github.com/LeftPathLane">
+				<img src="https://avatars.githubusercontent.com/u/25142311?s=72&u=8798693ee49fb2666abb94cc2a50f91b3bca7309&v=4" width="24" alt="Avatar of LeftPathLane"> LeftPathLane
+			</a><br/>
+			Lane
+		</td>
+		<td>Pvpcove </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>507</td>
+		<td>
+			<a href="https://github.com/GregTurner">
+				<img src="https://avatars.githubusercontent.com/u/2676478?s=72&v=4" width="24" alt="Avatar of GregTurner"> GregTurner
+			</a><br/>
+			Greg Turner
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>508</td>
+		<td>
+			<a href="https://github.com/robbyking3">
+				<img src="https://avatars.githubusercontent.com/u/318052?s=72&v=4" width="24" alt="Avatar of robbyking3"> robbyking3
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>509</td>
+		<td>
+			<a href="https://github.com/tlef">
+				<img src="https://avatars.githubusercontent.com/u/6402398?s=72&u=37ff79b2a54ec8aa365991871b8654149325ac9c&v=4" width="24" alt="Avatar of tlef"> tlef
+			</a><br/>
+			Tim Lefler
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>510</td>
+		<td>
+			<a href="https://github.com/tobias-forkel">
+				<img src="https://avatars.githubusercontent.com/u/8432605?s=72&u=cdd6d8b25a93967ad0eb102f83e6648d3e6979cf&v=4" width="24" alt="Avatar of tobias-forkel"> tobias-forkel
+			</a><br/>
+			Tobias Forkel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>511</td>
+		<td>
+			<a href="https://github.com/ajainphysics">
+				<img src="https://avatars.githubusercontent.com/u/21205708?s=72&u=f404b4497bb929de1f63e87fcf43672635664e99&v=4" width="24" alt="Avatar of ajainphysics"> ajainphysics
+			</a><br/>
+			Akash Jain
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>512</td>
+		<td>
+			<a href="https://github.com/simonlk">
+				<img src="https://avatars.githubusercontent.com/u/507331?s=72&v=4" width="24" alt="Avatar of simonlk"> simonlk
+			</a><br/>
+			Simon Kelly
+		</td>
+		<td>Renegade Empire </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>513</td>
+		<td>
+			<a href="https://github.com/gianmarcoalberti">
+				<img src="https://avatars.githubusercontent.com/u/8791619?s=72&v=4" width="24" alt="Avatar of gianmarcoalberti"> gianmarcoalberti
+			</a><br/>
+			Gianmarco Alberti
+		</td>
+		<td>University Of Malta </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>514</td>
+		<td>
+			<a href="https://github.com/mattkentz">
+				<img src="https://avatars.githubusercontent.com/u/2864162?s=72&v=4" width="24" alt="Avatar of mattkentz"> mattkentz
+			</a><br/>
+			Matthias Kentzia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>515</td>
+		<td>
+			<a href="https://github.com/MartinWan">
+				<img src="https://avatars.githubusercontent.com/u/16627067?s=72&u=44ce4ded300c4b4820118bbe36669aa2006e3512&v=4" width="24" alt="Avatar of MartinWan"> MartinWan
+			</a><br/>
+			Martin Wan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>516</td>
+		<td>
+			<a href="https://github.com/kurtpa">
+				<img src="https://avatars.githubusercontent.com/u/16136444?s=72&u=4b9355ff2bcf68d87b7e9810ef10dfcb46746966&v=4" width="24" alt="Avatar of kurtpa"> kurtpa
+			</a><br/>
+			Kurt Paris
+		</td>
+		<td>@catena-media  </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>517</td>
+		<td>
+			<a href="https://github.com/aliciaparra">
+				<img src="https://avatars.githubusercontent.com/u/23030670?s=72&u=c4c35791b2dd3723bc379f85e5dde97d5580813c&v=4" width="24" alt="Avatar of aliciaparra"> aliciaparra
+			</a><br/>
+			Alicia Parra
+		</td>
+		<td>Casumo </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>518</td>
+		<td>
+			<a href="https://github.com/owenbyrne">
+				<img src="https://avatars.githubusercontent.com/u/95008?s=72&u=b4efd30f17d3f3d71159156dcffd200ab7d1574b&v=4" width="24" alt="Avatar of owenbyrne"> owenbyrne
+			</a><br/>
+			Owen Byrne
+		</td>
+		<td>@myxplor  </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia.</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>519</td>
+		<td>
+			<a href="https://github.com/robwlakes">
+				<img src="https://avatars.githubusercontent.com/u/7134437?s=72&u=03c6a6e3357e673cc80727827676498814421cd6&v=4" width="24" alt="Avatar of robwlakes"> robwlakes
+			</a><br/>
+			Rob Ward
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>520</td>
+		<td>
+			<a href="https://github.com/angek">
+				<img src="https://avatars.githubusercontent.com/u/1072484?s=72&u=1b38548c884c3a1ec17ba5984754248f9c4337b8&v=4" width="24" alt="Avatar of angek"> angek
+			</a><br/>
+			Kon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Warburton Victoria</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>521</td>
+		<td>
+			<a href="https://github.com/ClayC90">
+				<img src="https://avatars.githubusercontent.com/u/8785758?s=72&u=30064727fc7d9a7ece268a3fe325208b0d01b3ed&v=4" width="24" alt="Avatar of ClayC90"> ClayC90
+			</a><br/>
+			Clayton
+		</td>
+		<td>Abela And Abela /<br/>Dark<br/>Ent<br/></td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>522</td>
+		<td>
+			<a href="https://github.com/ChrisMorrisCo">
+				<img src="https://avatars.githubusercontent.com/u/1140469?s=72&v=4" width="24" alt="Avatar of ChrisMorrisCo"> ChrisMorrisCo
+			</a><br/>
+			Chris Morris
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>523</td>
+		<td>
+			<a href="https://github.com/kermitology">
+				<img src="https://avatars.githubusercontent.com/u/447441?s=72&u=41f6219340dbd3ece92eab0d2ff5419dcfa74a30&v=4" width="24" alt="Avatar of kermitology"> kermitology
+			</a><br/>
+			Daniel Lemmon
+		</td>
+		<td>@cantire-corp  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>524</td>
+		<td>
+			<a href="https://github.com/arzurchris">
+				<img src="https://avatars.githubusercontent.com/u/25454844?s=72&u=0227a2606f1eecbeb9ee63e5e033c4c7fbb58aec&v=4" width="24" alt="Avatar of arzurchris"> arzurchris
+			</a><br/>
+			Christopher ARZUR
+		</td>
+		<td>@skypaper  </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>525</td>
+		<td>
+			<a href="https://github.com/CReynoldson">
+				<img src="https://avatars.githubusercontent.com/u/20304943?s=72&u=fec1127f8864320600f2873b9adf4328d5ee833c&v=4" width="24" alt="Avatar of CReynoldson"> CReynoldson
+			</a><br/>
+			Courtney Reynoldson 
+		</td>
+		<td>@flytographer  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>526</td>
+		<td>
+			<a href="https://github.com/bbinn">
+				<img src="https://avatars.githubusercontent.com/u/5051921?s=72&u=aa5485a3789d9b30959cd48ad850f3c041dcc0d9&v=4" width="24" alt="Avatar of bbinn"> bbinn
+			</a><br/>
+			Brett Binnersley
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>527</td>
+		<td>
+			<a href="https://github.com/esune">
+				<img src="https://avatars.githubusercontent.com/u/2395873?s=72&v=4" width="24" alt="Avatar of esune"> esune
+			</a><br/>
+			Emiliano Suñé
+		</td>
+		<td>@quartech  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>528</td>
+		<td>
+			<a href="https://github.com/esune">
+				<img src="https://avatars.githubusercontent.com/u/2395873?s=72&v=4" width="24" alt="Avatar of esune"> esune
+			</a><br/>
+			Emiliano Suñé
+		</td>
+		<td>@quartech  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>529</td>
+		<td>
+			<a href="https://github.com/heyheyhello">
+				<img src="https://avatars.githubusercontent.com/u/44614862?s=72&u=ceea0b22beca267aeea4876c6a8e1e416dd946bf&v=4" width="24" alt="Avatar of heyheyhello"> heyheyhello
+			</a><br/>
+			Gen Hames
+		</td>
+		<td>Discord Plush#4755 </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>530</td>
+		<td>
+			<a href="https://github.com/jakesant">
+				<img src="https://avatars.githubusercontent.com/u/52170119?s=72&u=a1d7d206d5822f82ac5cef2162209498537d284a&v=4" width="24" alt="Avatar of jakesant"> jakesant
+			</a><br/>
+			Jake Sant
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>531</td>
+		<td>
+			<a href="https://github.com/Fitzse">
+				<img src="https://avatars.githubusercontent.com/u/1220713?s=72&u=e8c606a6371636bdebdb4b7e3f0e8e1c6e0412de&v=4" width="24" alt="Avatar of Fitzse"> Fitzse
+			</a><br/>
+			Sean Fitzgerald
+		</td>
+		<td>@hashicorp  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>532</td>
+		<td>
+			<a href="https://github.com/dmossie">
+				<img src="https://avatars.githubusercontent.com/u/30665550?s=72&u=1b9c87563e2c5fca9641d310e174b74c6e9d7229&v=4" width="24" alt="Avatar of dmossie"> dmossie
+			</a><br/>
+			Daniel Mossie
+		</td>
+		<td>Audette </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>533</td>
+		<td>
+			<a href="https://github.com/au-phiware">
+				<img src="https://avatars.githubusercontent.com/u/816686?s=72&v=4" width="24" alt="Avatar of au-phiware"> au-phiware
+			</a><br/>
+			Corin Lawson
+		</td>
+		<td>@versent @transurbantech  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>534</td>
+		<td>
+			<a href="https://github.com/sam-warren">
+				<img src="https://avatars.githubusercontent.com/u/35615145?s=72&u=112d36910811c14a97f5dff4ece2770e78871c83&v=4" width="24" alt="Avatar of sam-warren"> sam-warren
+			</a><br/>
+			Sam Warren
+		</td>
+		<td>Quartech Systems Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>535</td>
+		<td>
+			<a href="https://github.com/logankuzyk">
+				<img src="https://avatars.githubusercontent.com/u/7586345?s=72&u=c94b681a576d911c895693fabe87625d514e0e23&v=4" width="24" alt="Avatar of logankuzyk"> logankuzyk
+			</a><br/>
+			Logan Kuzyk
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia, Canada</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>536</td>
+		<td>
+			<a href="https://github.com/tascord">
+				<img src="https://avatars.githubusercontent.com/u/35181375?s=72&u=2dd71ddbda57e647e9fb450044e75771b5b28ee6&v=4" width="24" alt="Avatar of tascord"> tascord
+			</a><br/>
+			Tascord
+		</td>
+		<td>Tascord </td>
+		<td><a href="https://twitter.com/tascord">tascord</a></td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>537</td>
+		<td>
+			<a href="https://github.com/HeatherRemacle">
+				<img src="https://avatars.githubusercontent.com/u/32074968?s=72&u=32919273fe7fafa3bfc4c2d6415d1dfbabbe9664&v=4" width="24" alt="Avatar of HeatherRemacle"> HeatherRemacle
+			</a><br/>
+			Heather Lynn Remacle
+		</td>
+		<td>Province Of British Columbia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>538</td>
+		<td>
+			<a href="https://github.com/saidPolancoUPV">
+				<img src="https://avatars.githubusercontent.com/u/21248328?s=72&u=f965236d3b070706a7725f4def306f744daf2621&v=4" width="24" alt="Avatar of saidPolancoUPV"> saidPolancoUPV
+			</a><br/>
+			Said Polanco-Martagón
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ciudad Victoria, Tamaulipas, México</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>539</td>
+		<td>
+			<a href="https://github.com/ResponsiveWebApps">
+				<img src="https://avatars.githubusercontent.com/u/12573383?s=72&u=17c64db2e751162a47eebc8cb8428df222c49312&v=4" width="24" alt="Avatar of ResponsiveWebApps"> ResponsiveWebApps
+			</a><br/>
+			Don Roche
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>540</td>
+		<td>
+			<a href="https://github.com/achinthagunasekara">
+				<img src="https://avatars.githubusercontent.com/u/3791781?s=72&u=f0e315901b5171a1762d5b96a9f42870aed2a7e0&v=4" width="24" alt="Avatar of achinthagunasekara"> achinthagunasekara
+			</a><br/>
+			Achintha Gunasekara
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>541</td>
+		<td>
+			<a href="https://github.com/McRaeAlex">
+				<img src="https://avatars.githubusercontent.com/u/24515337?s=72&u=e2419d84ebf4e86330b0e59ab4b0fabc2b15e666&v=4" width="24" alt="Avatar of McRaeAlex"> McRaeAlex
+			</a><br/>
+			Alexander McRae
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>542</td>
+		<td>
+			<a href="https://github.com/michaelwebb76">
+				<img src="https://avatars.githubusercontent.com/u/3733200?s=72&u=6567e710a00ee5f141aa4cc0cbe1677499cba3bb&v=4" width="24" alt="Avatar of michaelwebb76"> michaelwebb76
+			</a><br/>
+			Michael Webb
+		</td>
+		<td>@tricycle  </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>543</td>
+		<td>
+			<a href="https://github.com/wenmengliu">
+				<img src="https://avatars.githubusercontent.com/u/11565143?s=72&v=4" width="24" alt="Avatar of wenmengliu"> wenmengliu
+			</a><br/>
+			Crystal
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>544</td>
+		<td>
+			<a href="https://github.com/shaniAmare">
+				<img src="https://avatars.githubusercontent.com/u/43805905?s=72&u=66b1bc16f94bc010c10e3b5a05c7c212f0c78167&v=4" width="24" alt="Avatar of shaniAmare"> shaniAmare
+			</a><br/>
+			Shani Amarasinghe
+		</td>
+		<td>Walter And Eliza Hall<br/>Medical<br/>Research<br/>Institute<br/></td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>545</td>
+		<td>
+			<a href="https://github.com/cmorales">
+				<img src="https://avatars.githubusercontent.com/u/668993?s=72&v=4" width="24" alt="Avatar of cmorales"> cmorales
+			</a><br/>
+			Carlos Morales Climent
+		</td>
+		<td>Wooter </td>
+		<td>No Twitter Username</td>
+		<td>Valletta, Malta</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>546</td>
+		<td>
+			<a href="https://github.com/jpeyper">
+				<img src="https://avatars.githubusercontent.com/u/6560018?s=72&v=4" width="24" alt="Avatar of jpeyper"> jpeyper
+			</a><br/>
+			Jonathan Peyper
+		</td>
+		<td>Lexicon Digital </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>547</td>
+		<td>
+			<a href="https://github.com/micahaza">
+				<img src="https://avatars.githubusercontent.com/u/1586808?s=72&u=bef62b0cdacdd3357f3b2642edea9d3d719154cb&v=4" width="24" alt="Avatar of micahaza"> micahaza
+			</a><br/>
+			S2D
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>548</td>
+		<td>
+			<a href="https://github.com/nishank95">
+				<img src="https://avatars.githubusercontent.com/u/25129671?s=72&u=9b3b1c3e5f152ad4e21727979dc2436048edf7a4&v=4" width="24" alt="Avatar of nishank95"> nishank95
+			</a><br/>
+			Nishank Sanjeev Samant
+		</td>
+		<td>@self-employed </td>
+		<td>No Twitter Username</td>
+		<td>Victoria,Melbourne</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>549</td>
+		<td>
+			<a href="https://github.com/paithoa">
+				<img src="https://avatars.githubusercontent.com/u/26371146?s=72&u=379c11bb5ddb6d6541b43fe11de5b89ba40a9acc&v=4" width="24" alt="Avatar of paithoa"> paithoa
+			</a><br/>
+			Handy Hasan
+		</td>
+		<td>@the Good Guys </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne Victoria</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>550</td>
+		<td>
+			<a href="https://github.com/cvmiller">
+				<img src="https://avatars.githubusercontent.com/u/351123?s=72&u=0854ade0dbf559fbbc0f631325deeb1b6ae3adf3&v=4" width="24" alt="Avatar of cvmiller"> cvmiller
+			</a><br/>
+			Craig Miller
+		</td>
+		<td>Makiki </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>551</td>
+		<td>
+			<a href="https://github.com/mantaq10">
+				<img src="https://avatars.githubusercontent.com/u/4688116?s=72&u=a5e9d20ba0e584ee427940a2b71d0e2eb27fdf2f&v=4" width="24" alt="Avatar of mantaq10"> mantaq10
+			</a><br/>
+			Atif Shaikh
+		</td>
+		<td>Datamantiq.com </td>
+		<td><a href="https://twitter.com/mantaq10">mantaq10</a></td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>552</td>
+		<td>
+			<a href="https://github.com/michaelgeorgeattard">
+				<img src="https://avatars.githubusercontent.com/u/5755302?s=72&u=cdbf7340614826c306c0f4fe5102afde11e3b6e0&v=4" width="24" alt="Avatar of michaelgeorgeattard"> michaelgeorgeattard
+			</a><br/>
+			Michael George Attard
+		</td>
+		<td>Gig </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>553</td>
+		<td>
+			<a href="https://github.com/fraserw">
+				<img src="https://avatars.githubusercontent.com/u/6462654?s=72&u=f6578c4224e709f4519d293c5cdd87d4ef7c0037&v=4" width="24" alt="Avatar of fraserw"> fraserw
+			</a><br/>
+			Wesley Fraser
+		</td>
+		<td>Herzberg Astronomy And Astrophysics<br/>Research<br/>Centre<br/></td>
+		<td><a href="https://twitter.com/wtfastro">wtfastro</a></td>
+		<td>Victoria, BC, Canada</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>554</td>
+		<td>
+			<a href="https://github.com/fidgetwidget">
+				<img src="https://avatars.githubusercontent.com/u/737732?s=72&v=4" width="24" alt="Avatar of fidgetwidget"> fidgetwidget
+			</a><br/>
+			Brandon Bey
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>555</td>
+		<td>
+			<a href="https://github.com/MattCairns">
+				<img src="https://avatars.githubusercontent.com/u/36886?s=72&v=4" width="24" alt="Avatar of MattCairns"> MattCairns
+			</a><br/>
+			Matthew Cairns
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>556</td>
+		<td>
+			<a href="https://github.com/DougJod">
+				<img src="https://avatars.githubusercontent.com/u/15933358?s=72&u=18e674cd14b011209e571e99598bdf7e8cfa0e13&v=4" width="24" alt="Avatar of DougJod"> DougJod
+			</a><br/>
+			Doug Jod
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>557</td>
+		<td>
+			<a href="https://github.com/jimmyjamieson">
+				<img src="https://avatars.githubusercontent.com/u/797547?s=72&u=46fc75fd47a3b086d81e2b70c2570315dac3173f&v=4" width="24" alt="Avatar of jimmyjamieson"> jimmyjamieson
+			</a><br/>
+			Ian Jamieson
+		</td>
+		<td>Ian Jamieson </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>558</td>
+		<td>
+			<a href="https://github.com/presveva">
+				<img src="https://avatars.githubusercontent.com/u/579895?s=72&u=acf3a73bb78e38dc4e95cdd9fc427034fb3786dc&v=4" width="24" alt="Avatar of presveva"> presveva
+			</a><br/>
+			Gianni Di Noia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gzira, Malta</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>559</td>
+		<td>
+			<a href="https://github.com/Fantomiald">
+				<img src="https://avatars.githubusercontent.com/u/35847747?s=72&u=55a087d1d5aa60ca1d5510e014282defe8bbdc63&v=4" width="24" alt="Avatar of Fantomiald"> Fantomiald
+			</a><br/>
+			Julien
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Giljan, Malta</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>560</td>
+		<td>
+			<a href="https://github.com/dans-stuff">
+				<img src="https://avatars.githubusercontent.com/u/6707696?s=72&u=39a45b02831e1053dac0aa264ef5833ec50094b4&v=4" width="24" alt="Avatar of dans-stuff"> dans-stuff
+			</a><br/>
+			Daniel T
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>561</td>
+		<td>
+			<a href="https://github.com/stephani">
+				<img src="https://avatars.githubusercontent.com/u/490158?s=72&u=593d7be2b6b1369f7430a21d5372cbdb73e8a6eb&v=4" width="24" alt="Avatar of stephani"> stephani
+			</a><br/>
+			stephani horstman
+		</td>
+		<td>Fast Enterprises </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>562</td>
+		<td>
+			<a href="https://github.com/dannydes">
+				<img src="https://avatars.githubusercontent.com/u/4049340?s=72&u=30e09107a4b2f40fe2f9e1ce7cb6ebb659c727a6&v=4" width="24" alt="Avatar of dannydes"> dannydes
+			</a><br/>
+			Daniel Desira
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>563</td>
+		<td>
+			<a href="https://github.com/EricDavies">
+				<img src="https://avatars.githubusercontent.com/u/2856071?s=72&u=1abefcf978026e41a5a5e231e3e03e119df80e0c&v=4" width="24" alt="Avatar of EricDavies"> EricDavies
+			</a><br/>
+			Eric Davies
+		</td>
+		<td>Priologic </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>564</td>
+		<td>
+			<a href="https://github.com/dhanush-ai1990">
+				<img src="https://avatars.githubusercontent.com/u/15072459?s=72&u=3d025475755005a47d5968f104fceb2f39705dda&v=4" width="24" alt="Avatar of dhanush-ai1990"> dhanush-ai1990
+			</a><br/>
+			Dhanush D
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>565</td>
+		<td>
+			<a href="https://github.com/jeliasson">
+				<img src="https://avatars.githubusercontent.com/u/865493?s=72&u=51108f1de6e0c1c0c31c5ed00e9734c646a2810b&v=4" width="24" alt="Avatar of jeliasson"> jeliasson
+			</a><br/>
+			Johan Eliasson
+		</td>
+		<td>@sydnod </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>566</td>
+		<td>
+			<a href="https://github.com/diegomarzo">
+				<img src="https://avatars.githubusercontent.com/u/4606005?s=72&u=46939f1d980739e3a736cf2e748225fad4d52df6&v=4" width="24" alt="Avatar of diegomarzo"> diegomarzo
+			</a><br/>
+			Diego Marzo
+		</td>
+		<td>Suprnation </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>567</td>
+		<td>
+			<a href="https://github.com/admcfajn">
+				<img src="https://avatars.githubusercontent.com/u/1473774?s=72&u=f70e283a1e2aea5fd0a54c904057d62b61472d39&v=4" width="24" alt="Avatar of admcfajn"> admcfajn
+			</a><br/>
+			Adam McFadyen
+		</td>
+		<td>@kanopi  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC Canada</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>568</td>
+		<td>
+			<a href="https://github.com/mecha">
+				<img src="https://avatars.githubusercontent.com/u/5425482?s=72&u=2128ff26cd453f2fef86f14eca0504f3d5635aff&v=4" width="24" alt="Avatar of mecha"> mecha
+			</a><br/>
+			Miguel Muscat
+		</td>
+		<td>@rebelcode @bp-lang @dhii <br/></td>
+		<td><a href="https://twitter.com/mechadev">mechadev</a></td>
+		<td>Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>569</td>
+		<td>
+			<a href="https://github.com/rsenekal">
+				<img src="https://avatars.githubusercontent.com/u/19378724?s=72&u=fd3f6ed99147dbe3598ea83a7fc6f2a6f5b8012c&v=4" width="24" alt="Avatar of rsenekal"> rsenekal
+			</a><br/>
+			Rickus Senekal
+		</td>
+		<td>Redbrick </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>570</td>
+		<td>
+			<a href="https://github.com/seriousammy">
+				<img src="https://avatars.githubusercontent.com/u/9409848?s=72&u=1590c4c9cca762e7d1387371e25a4182f252b5cb&v=4" width="24" alt="Avatar of seriousammy"> seriousammy
+			</a><br/>
+			Sam Lee
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>571</td>
+		<td>
+			<a href="https://github.com/mtpultz">
+				<img src="https://avatars.githubusercontent.com/u/599498?s=72&u=6c0084897d5dfa161934dcfad44735aa7caaf95d&v=4" width="24" alt="Avatar of mtpultz"> mtpultz
+			</a><br/>
+			Martin Pultz
+		</td>
+		<td>Ntt Data Services </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>572</td>
+		<td>
+			<a href="https://github.com/tssge">
+				<img src="https://avatars.githubusercontent.com/u/2301748?s=72&u=e1a8cc5f966a176fe16c65db6bde612a2388ddd1&v=4" width="24" alt="Avatar of tssge"> tssge
+			</a><br/>
+			Teemu Grönqvist
+		</td>
+		<td>@net9-oy / @bojoko </td>
+		<td>No Twitter Username</td>
+		<td>Msida, Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>573</td>
+		<td>
+			<a href="https://github.com/maxorlovsky">
+				<img src="https://avatars.githubusercontent.com/u/7931620?s=72&u=2ea13c007e351e0f05939e83aba6e7195912722e&v=4" width="24" alt="Avatar of maxorlovsky"> maxorlovsky
+			</a><br/>
+			Max Orlovsky
+		</td>
+		<td>Chiliz & Socios.com </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>574</td>
+		<td>
+			<a href="https://github.com/fargusplumdoodle">
+				<img src="https://avatars.githubusercontent.com/u/36980172?s=72&u=b7a79843e111d926fe2a0a0cf443fe179344f973&v=4" width="24" alt="Avatar of fargusplumdoodle"> fargusplumdoodle
+			</a><br/>
+			Isaac Thiessen
+		</td>
+		<td>Rooof </td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>575</td>
+		<td>
+			<a href="https://github.com/chrisjcook">
+				<img src="https://avatars.githubusercontent.com/u/5895392?s=72&u=efdd103ed67bc08fba9f9ea287382bdce9e680cd&v=4" width="24" alt="Avatar of chrisjcook"> chrisjcook
+			</a><br/>
+			Chris Cook
+		</td>
+		<td>Certn Holdings Inc. </td>
+		<td><a href="https://twitter.com/cuppachris">cuppachris</a></td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>576</td>
+		<td>
+			<a href="https://github.com/dillu24">
+				<img src="https://avatars.githubusercontent.com/u/23262259?s=72&u=8e90a87dab2a1daa4d1c1e2655e96f09ff3b876b&v=4" width="24" alt="Avatar of dillu24"> dillu24
+			</a><br/>
+			Dylan Galea
+		</td>
+		<td>Simply Vc </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>577</td>
+		<td>
+			<a href="https://github.com/ijiraq">
+				<img src="https://avatars.githubusercontent.com/u/1132123?s=72&v=4" width="24" alt="Avatar of ijiraq"> ijiraq
+			</a><br/>
+			JJ Kavelaars
+		</td>
+		<td>National Research Council Of<br/>Canada<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>578</td>
+		<td>
+			<a href="https://github.com/noahwc">
+				<img src="https://avatars.githubusercontent.com/u/7761715?s=72&u=23363318fcb8d6038e21138dbe9c952beca72116&v=4" width="24" alt="Avatar of noahwc"> noahwc
+			</a><br/>
+			Noah Clarke
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>579</td>
+		<td>
+			<a href="https://github.com/DanielFerguson">
+				<img src="https://avatars.githubusercontent.com/u/10219082?s=72&u=a1cf71a86c46e56d50ff63eedc0eee67ea921ec0&v=4" width="24" alt="Avatar of DanielFerguson"> DanielFerguson
+			</a><br/>
+			Daniel Ferguson
+		</td>
+		<td>Helpinggroup, Wec </td>
+		<td><a href="https://twitter.com/thedannyferg">thedannyferg</a></td>
+		<td>Ballarat, Victoria</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>580</td>
+		<td>
+			<a href="https://github.com/connorhsm">
+				<img src="https://avatars.githubusercontent.com/u/20902771?s=72&u=651f99a7177c99fc18d296ea2c5f954d968d4ab9&v=4" width="24" alt="Avatar of connorhsm"> connorhsm
+			</a><br/>
+			Connor
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>581</td>
+		<td>
+			<a href="https://github.com/mark-walle">
+				<img src="https://avatars.githubusercontent.com/u/3486204?s=72&u=88c980ab81beae2128b9d7d91676180b278b94ba&v=4" width="24" alt="Avatar of mark-walle"> mark-walle
+			</a><br/>
+			Mark Walle
+		</td>
+		<td>@bcgov </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>582</td>
+		<td>
+			<a href="https://github.com/arizzogithub">
+				<img src="https://avatars.githubusercontent.com/u/55031920?s=72&u=8481b06948088f3a5398058cf8b8db56d0d57cc4&v=4" width="24" alt="Avatar of arizzogithub"> arizzogithub
+			</a><br/>
+			Anastasia Rizzo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>583</td>
+		<td>
+			<a href="https://github.com/ryleyw">
+				<img src="https://avatars.githubusercontent.com/u/35244595?s=72&u=e90ba0bd4c13b81fedb54928908c62f938fcae36&v=4" width="24" alt="Avatar of ryleyw"> ryleyw
+			</a><br/>
+			Ryley Woodland
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>584</td>
+		<td>
+			<a href="https://github.com/jasmeet17">
+				<img src="https://avatars.githubusercontent.com/u/6258918?s=72&u=f7f7487c09a2ae9c7eb19a8a2f28b00a1a678f6c&v=4" width="24" alt="Avatar of jasmeet17"> jasmeet17
+			</a><br/>
+			Jasmeet Singh
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jasmeet_17">jasmeet_17</a></td>
+		<td>Victoria BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>585</td>
+		<td>
+			<a href="https://github.com/aeogunmuyiwa">
+				<img src="https://avatars.githubusercontent.com/u/25914907?s=72&u=bb7ddd00fb667078f87d9733b9d47d58ae73058d&v=4" width="24" alt="Avatar of aeogunmuyiwa"> aeogunmuyiwa
+			</a><br/>
+			Adebayo E. Ogunmuyiwa
+		</td>
+		<td>Loblaw Digital </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>586</td>
+		<td>
+			<a href="https://github.com/zhenyu0519">
+				<img src="https://avatars.githubusercontent.com/u/17155493?s=72&u=6a9613d0cc74a1a3defbba9e41455968a5fe2ed4&v=4" width="24" alt="Avatar of zhenyu0519"> zhenyu0519
+			</a><br/>
+			Zhenyu(Jeffrey) Zhang
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Victoria B.C</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>587</td>
+		<td>
+			<a href="https://github.com/tonimitrevski">
+				<img src="https://avatars.githubusercontent.com/u/15773773?s=72&u=31be5f9fc5709db1f8cd5cc1d59132512ad89d34&v=4" width="24" alt="Avatar of tonimitrevski"> tonimitrevski
+			</a><br/>
+			Toni Mitrevski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>588</td>
+		<td>
+			<a href="https://github.com/AhmedNSidd">
+				<img src="https://avatars.githubusercontent.com/u/36286128?s=72&u=44b3fb90aac17f378a65a130f2f8da472ba8fb5c&v=4" width="24" alt="Avatar of AhmedNSidd"> AhmedNSidd
+			</a><br/>
+			Ahmed Siddiqui
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria B.C.</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>589</td>
+		<td>
+			<a href="https://github.com/wenslayer">
+				<img src="https://avatars.githubusercontent.com/u/479376?s=72&u=41a07e2dd69801071cf212de46e149bf22fd38b2&v=4" width="24" alt="Avatar of wenslayer"> wenslayer
+			</a><br/>
+			Marc Wensauer
+		</td>
+		<td>@dreamboxlearning  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>590</td>
+		<td>
+			<a href="https://github.com/SDBurt">
+				<img src="https://avatars.githubusercontent.com/u/14956845?s=72&u=e60cc4c0e06266f2529293b5d43f90a45c7b87d6&v=4" width="24" alt="Avatar of SDBurt"> SDBurt
+			</a><br/>
+			Sean
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/SeanBurt8">SeanBurt8</a></td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>591</td>
+		<td>
+			<a href="https://github.com/jakeinater">
+				<img src="https://avatars.githubusercontent.com/u/53323525?s=72&u=7a2539c22dd11bdd5570b32de0e1a55fa316d413&v=4" width="24" alt="Avatar of jakeinater"> jakeinater
+			</a><br/>
+			Jake Zhao
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Montreal, QC; Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>592</td>
+		<td>
+			<a href="https://github.com/ajdeziel">
+				<img src="https://avatars.githubusercontent.com/u/9897282?s=72&u=cf9ee8a978dc0fa645fd7486f1bd34b7920ef20a&v=4" width="24" alt="Avatar of ajdeziel"> ajdeziel
+			</a><br/>
+			AJ Po-Déziel
+		</td>
+		<td>@checkfront </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>593</td>
+		<td>
+			<a href="https://github.com/camilolucena88">
+				<img src="https://avatars.githubusercontent.com/u/56475977?s=72&u=b531548aa199fced381ddc37755310781e47072a&v=4" width="24" alt="Avatar of camilolucena88"> camilolucena88
+			</a><br/>
+			Camilo Lucena
+		</td>
+		<td>Maltalovers </td>
+		<td><a href="https://twitter.com/camilolucena88">camilolucena88</a></td>
+		<td>Swieqi, Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>594</td>
+		<td>
+			<a href="https://github.com/jaemo">
+				<img src="https://avatars.githubusercontent.com/u/43995?s=72&u=f361f5823e5b2974f5b0fef07153c751722bd6b4&v=4" width="24" alt="Avatar of jaemo"> jaemo
+			</a><br/>
+			James Martens
+		</td>
+		<td>@proofgov </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>595</td>
+		<td>
+			<a href="https://github.com/thinng">
+				<img src="https://avatars.githubusercontent.com/u/4929536?s=72&u=230409212fe68d6d4483a6be4a0fed729b1db0cb&v=4" width="24" alt="Avatar of thinng"> thinng
+			</a><br/>
+			Thin Nguyen
+		</td>
+		<td>Deakin University </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>596</td>
+		<td>
+			<a href="https://github.com/RussellHaley">
+				<img src="https://avatars.githubusercontent.com/u/2166039?s=72&u=fa284437f3a7ff7b365a77b4f8a9bf8a224d1a68&v=4" width="24" alt="Avatar of RussellHaley"> RussellHaley
+			</a><br/>
+			Russell Haley
+		</td>
+		<td>Starfish Medical </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>597</td>
+		<td>
+			<a href="https://github.com/trslater">
+				<img src="https://avatars.githubusercontent.com/u/1631008?s=72&v=4" width="24" alt="Avatar of trslater"> trslater
+			</a><br/>
+			Tristan Slater
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>598</td>
+		<td>
+			<a href="https://github.com/jakefang1994">
+				<img src="https://avatars.githubusercontent.com/u/4526452?s=72&u=4134ae25a854bf093abd7ba4aad56883edccdd44&v=4" width="24" alt="Avatar of jakefang1994"> jakefang1994
+			</a><br/>
+			Jake Fang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>599</td>
+		<td>
+			<a href="https://github.com/omigibson">
+				<img src="https://avatars.githubusercontent.com/u/32762483?s=72&v=4" width="24" alt="Avatar of omigibson"> omigibson
+			</a><br/>
+			Omi Gibba
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>600</td>
+		<td>
+			<a href="https://github.com/ll911">
+				<img src="https://avatars.githubusercontent.com/u/11949273?s=72&v=4" width="24" alt="Avatar of ll911"> ll911
+			</a><br/>
+			Leo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>601</td>
+		<td>
+			<a href="https://github.com/k1monfared">
+				<img src="https://avatars.githubusercontent.com/u/6718349?s=72&u=a464ee9e31c8ce12b0590f5a2e922b4270afc3ea&v=4" width="24" alt="Avatar of k1monfared"> k1monfared
+			</a><br/>
+			Keivan Hassani Monfared
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>602</td>
+		<td>
+			<a href="https://github.com/defrance">
+				<img src="https://avatars.githubusercontent.com/u/1179011?s=72&u=c98ec589d5e077af6ba1f0fb9c09a13725ae2353&v=4" width="24" alt="Avatar of defrance"> defrance
+			</a><br/>
+			BENKE Charlene
+		</td>
+		<td>Patas-monkey.com </td>
+		<td>No Twitter Username</td>
+		<td>Marsascala, Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>603</td>
+		<td>
+			<a href="https://github.com/AlexandreBonfim">
+				<img src="https://avatars.githubusercontent.com/u/25756055?s=72&u=1bbbb356dd80f65a32ac71044dd6c43cb7e798a5&v=4" width="24" alt="Avatar of AlexandreBonfim"> AlexandreBonfim
+			</a><br/>
+			Alexandre
+		</td>
+		<td>Qwkinsigths </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>604</td>
+		<td>
+			<a href="https://github.com/nolankurylo">
+				<img src="https://avatars.githubusercontent.com/u/44009838?s=72&u=56efaceaa38dbff56b908b83eac80890bee7f075&v=4" width="24" alt="Avatar of nolankurylo"> nolankurylo
+			</a><br/>
+			Nolan Kurylo
+		</td>
+		<td>@university Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>605</td>
+		<td>
+			<a href="https://github.com/Lmasniuk">
+				<img src="https://avatars.githubusercontent.com/u/1847409?s=72&u=a08445e58d10e06911a93ff71e956e84b41ca8ab&v=4" width="24" alt="Avatar of Lmasniuk"> Lmasniuk
+			</a><br/>
+			Logan Masniuk
+		</td>
+		<td>@bambora  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>606</td>
+		<td>
+			<a href="https://github.com/gstamp">
+				<img src="https://avatars.githubusercontent.com/u/93839?s=72&v=4" width="24" alt="Avatar of gstamp"> gstamp
+			</a><br/>
+			Glen Stampoultzis
+		</td>
+		<td>Envato </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>607</td>
+		<td>
+			<a href="https://github.com/SuperRoach">
+				<img src="https://avatars.githubusercontent.com/u/63333?s=72&v=4" width="24" alt="Avatar of SuperRoach"> SuperRoach
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/SuperRoach">SuperRoach</a></td>
+		<td>Ballarat, Victoria</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>608</td>
+		<td>
+			<a href="https://github.com/derekjbell">
+				<img src="https://avatars.githubusercontent.com/u/46458679?s=72&u=173b7eaff839ebcbb1f3f4fb82e635afb021cfbf&v=4" width="24" alt="Avatar of derekjbell"> derekjbell
+			</a><br/>
+			Derek Bell
+		</td>
+		<td>Victoria Hand Project </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>609</td>
+		<td>
+			<a href="https://github.com/harpreetsingh91">
+				<img src="https://avatars.githubusercontent.com/u/14843607?s=72&u=8aae1cd631530ac1e6cb420c06bfc0cfc895c2cf&v=4" width="24" alt="Avatar of harpreetsingh91"> harpreetsingh91
+			</a><br/>
+			Harpreet Singh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>610</td>
+		<td>
+			<a href="https://github.com/eugene-p">
+				<img src="https://avatars.githubusercontent.com/u/916290?s=72&v=4" width="24" alt="Avatar of eugene-p"> eugene-p
+			</a><br/>
+			Yauheni(Eugene) Patsiomkin
+		</td>
+		<td>Esit Advanced Solutions Inc<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>611</td>
+		<td>
+			<a href="https://github.com/DamianPalavecino">
+				<img src="https://avatars.githubusercontent.com/u/84218482?s=72&u=1229dc722cfad6c805e9da1e59400c7b35840ce3&v=4" width="24" alt="Avatar of DamianPalavecino"> DamianPalavecino
+			</a><br/>
+			Damian Palavecino
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/damianpalav">damianpalav</a></td>
+		<td>Victoria, Entre Ríos</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>612</td>
+		<td>
+			<a href="https://github.com/tmertz">
+				<img src="https://avatars.githubusercontent.com/u/53013?s=72&v=4" width="24" alt="Avatar of tmertz"> tmertz
+			</a><br/>
+			Thomas Mertz
+		</td>
+		<td>@frvraps  </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>613</td>
+		<td>
+			<a href="https://github.com/jonhusson">
+				<img src="https://avatars.githubusercontent.com/u/8798654?s=72&u=258ffffc261f6c291eb717fc78146e0c5541a7a4&v=4" width="24" alt="Avatar of jonhusson"> jonhusson
+			</a><br/>
+			Jon M. Husson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>University of Victoria</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>614</td>
+		<td>
+			<a href="https://github.com/mrudnicki">
+				<img src="https://avatars.githubusercontent.com/u/20395719?s=72&u=6d7559d7c77ef373f5b4e336a1e0083b0ad14d41&v=4" width="24" alt="Avatar of mrudnicki"> mrudnicki
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Marsascala, Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>615</td>
+		<td>
+			<a href="https://github.com/devinc13">
+				<img src="https://avatars.githubusercontent.com/u/5687535?s=72&u=34aff0f7bc691956a33900f00e95c1cd86b73aad&v=4" width="24" alt="Avatar of devinc13"> devinc13
+			</a><br/>
+			Devin Corrigall
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>616</td>
+		<td>
+			<a href="https://github.com/adamcw">
+				<img src="https://avatars.githubusercontent.com/u/153444?s=72&v=4" width="24" alt="Avatar of adamcw"> adamcw
+			</a><br/>
+			Adam Whiteside
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>617</td>
+		<td>
+			<a href="https://github.com/cmatthew">
+				<img src="https://avatars.githubusercontent.com/u/658686?s=72&v=4" width="24" alt="Avatar of cmatthew"> cmatthew
+			</a><br/>
+			Chris Matthews
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>618</td>
+		<td>
+			<a href="https://github.com/petrac">
+				<img src="https://avatars.githubusercontent.com/u/4544691?s=72&v=4" width="24" alt="Avatar of petrac"> petrac
+			</a><br/>
+			Petra Clementson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>619</td>
+		<td>
+			<a href="https://github.com/chiarafsc">
+				<img src="https://avatars.githubusercontent.com/u/5637636?s=72&u=8cd74a3bf2a035fce277f9e4a2379a3a1f0424e8&v=4" width="24" alt="Avatar of chiarafsc"> chiarafsc
+			</a><br/>
+			Chiara
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mdina, Malta</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>620</td>
+		<td>
+			<a href="https://github.com/evoloyeu">
+				<img src="https://avatars.githubusercontent.com/u/1032369?s=72&v=4" width="24" alt="Avatar of evoloyeu"> evoloyeu
+			</a><br/>
+			Rexl
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>621</td>
+		<td>
+			<a href="https://github.com/bsimas">
+				<img src="https://avatars.githubusercontent.com/u/138140?s=72&v=4" width="24" alt="Avatar of bsimas"> bsimas
+			</a><br/>
+			Bernadette Simas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>622</td>
+		<td>
+			<a href="https://github.com/Mandily">
+				<img src="https://avatars.githubusercontent.com/u/15271353?s=72&u=93bfc235298f1a96edee37c819906b30d8dca5f9&v=4" width="24" alt="Avatar of Mandily"> Mandily
+			</a><br/>
+			Amanda Healey
+		</td>
+		<td>Stembolt </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>623</td>
+		<td>
+			<a href="https://github.com/duanechaos">
+				<img src="https://avatars.githubusercontent.com/u/557999?s=72&u=f4845a2524e0d2e151ddd1af10dd557efabda685&v=4" width="24" alt="Avatar of duanechaos"> duanechaos
+			</a><br/>
+			Duane Nickull
+		</td>
+		<td>Duane Nickull Creative &<br/>Software<br/></td>
+		<td><a href="https://twitter.com/duanechaos">duanechaos</a></td>
+		<td>Victoria Canada</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>624</td>
+		<td>
+			<a href="https://github.com/phobi4n">
+				<img src="https://avatars.githubusercontent.com/u/24441359?s=72&u=ffa8f126350d3ff2ed326aea6726265a667cb2f5&v=4" width="24" alt="Avatar of phobi4n"> phobi4n
+			</a><br/>
+			Mark
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Collingwood, Victoria</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>625</td>
+		<td>
+			<a href="https://github.com/cbmunro">
+				<img src="https://avatars.githubusercontent.com/u/1274153?s=72&v=4" width="24" alt="Avatar of cbmunro"> cbmunro
+			</a><br/>
+			Connor Munro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>626</td>
+		<td>
+			<a href="https://github.com/oldpond">
+				<img src="https://avatars.githubusercontent.com/u/94791?s=72&u=66c4809831b6179f759c0246457cea83a1bf37be&v=4" width="24" alt="Avatar of oldpond"> oldpond
+			</a><br/>
+			Michael Bonar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>627</td>
+		<td>
+			<a href="https://github.com/mikerowe23">
+				<img src="https://avatars.githubusercontent.com/u/934974?s=72&v=4" width="24" alt="Avatar of mikerowe23"> mikerowe23
+			</a><br/>
+			Mike Rowe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>628</td>
+		<td>
+			<a href="https://github.com/yinghaoz1">
+				<img src="https://avatars.githubusercontent.com/u/33447414?s=72&u=aae25f6cf1f431b9017f48f6b8b1884c4129347a&v=4" width="24" alt="Avatar of yinghaoz1"> yinghaoz1
+			</a><br/>
+			Yinghao Zhang
+		</td>
+		<td>The University Of Melbourne<br/></td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>629</td>
+		<td>
+			<a href="https://github.com/v2south">
+				<img src="https://avatars.githubusercontent.com/u/2337149?s=72&u=5b6da374b42c22506ca032bd2335193373870f1d&v=4" width="24" alt="Avatar of v2south"> v2south
+			</a><br/>
+			Yin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada.</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>630</td>
+		<td>
+			<a href="https://github.com/mattcasiro">
+				<img src="https://avatars.githubusercontent.com/u/14950246?s=72&u=1338315fa0eed18896473746e365275dc82a3b57&v=4" width="24" alt="Avatar of mattcasiro"> mattcasiro
+			</a><br/>
+			Matthew Casiro
+		</td>
+		<td>Benevity </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC Canada</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>631</td>
+		<td>
+			<a href="https://github.com/nightbook">
+				<img src="https://avatars.githubusercontent.com/u/670280?s=72&v=4" width="24" alt="Avatar of nightbook"> nightbook
+			</a><br/>
+			Garrett Hyder
+		</td>
+		<td>Allscenes Media Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia, Canada</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>632</td>
+		<td>
+			<a href="https://github.com/mahsaebadpour">
+				<img src="https://avatars.githubusercontent.com/u/10511434?s=72&u=8c02512d8b1255bc4168da95fbd78d76f1759e54&v=4" width="24" alt="Avatar of mahsaebadpour"> mahsaebadpour
+			</a><br/>
+			Mahsa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>633</td>
+		<td>
+			<a href="https://github.com/mayokek">
+				<img src="https://avatars.githubusercontent.com/u/9478835?s=72&u=c74b9cb57fc5939a42420889881e74af6482e5c0&v=4" width="24" alt="Avatar of mayokek"> mayokek
+			</a><br/>
+			H3X
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, AU</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>634</td>
+		<td>
+			<a href="https://github.com/murraymeehan">
+				<img src="https://avatars.githubusercontent.com/u/691216?s=72&v=4" width="24" alt="Avatar of murraymeehan"> murraymeehan
+			</a><br/>
+			Murray Meehan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>635</td>
+		<td>
+			<a href="https://github.com/fjcmolina">
+				<img src="https://avatars.githubusercontent.com/u/32089045?s=72&u=6da809375569e96934e197528b53fffdc22939fd&v=4" width="24" alt="Avatar of fjcmolina"> fjcmolina
+			</a><br/>
+			Francisco Jesús Caballero Molina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rincón de la Victoria, Málaga (Spain)</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>636</td>
+		<td>
+			<a href="https://github.com/prashantchhabra89">
+				<img src="https://avatars.githubusercontent.com/u/6378124?s=72&u=3a4138194a8c82544009526f53f1eb5b2e3f824c&v=4" width="24" alt="Avatar of prashantchhabra89"> prashantchhabra89
+			</a><br/>
+			Prashant Chhabra
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC (Canada)</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>637</td>
+		<td>
+			<a href="https://github.com/VeeZoo">
+				<img src="https://avatars.githubusercontent.com/u/7928382?s=72&u=47334f8d5108ec7d109a242311b08b7905e13410&v=4" width="24" alt="Avatar of VeeZoo"> VeeZoo
+			</a><br/>
+			V. Zou
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>638</td>
+		<td>
+			<a href="https://github.com/shabeeb">
+				<img src="https://avatars.githubusercontent.com/u/3328146?s=72&u=9768fae4c137326845d4de086b0b2355f2d8c57a&v=4" width="24" alt="Avatar of shabeeb"> shabeeb
+			</a><br/>
+			Shabeeb
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>639</td>
+		<td>
+			<a href="https://github.com/juz501">
+				<img src="https://avatars.githubusercontent.com/u/10991202?s=72&u=0dd91b6212ac98a8002a77d588526259641f00ae&v=4" width="24" alt="Avatar of juz501"> juz501
+			</a><br/>
+			Julian Chan
+		</td>
+		<td>@chromatixau  </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>640</td>
+		<td>
+			<a href="https://github.com/derrickp">
+				<img src="https://avatars.githubusercontent.com/u/1520756?s=72&u=6e3721695267185b7fe10432d593c6953034d9ae&v=4" width="24" alt="Avatar of derrickp"> derrickp
+			</a><br/>
+			Derrick Plotsky
+		</td>
+		<td>Super Good Software </td>
+		<td><a href="https://twitter.com/derrickplotsky">derrickplotsky</a></td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>641</td>
+		<td>
+			<a href="https://github.com/Boztown">
+				<img src="https://avatars.githubusercontent.com/u/772968?s=72&u=a68880b2186d94ce20828e12a7a601720eca9e38&v=4" width="24" alt="Avatar of Boztown"> Boztown
+			</a><br/>
+			Ryan Bosinger
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>642</td>
+		<td>
+			<a href="https://github.com/RyanMcDonald">
+				<img src="https://avatars.githubusercontent.com/u/2695365?s=72&u=b22758532c143f6d8f4a2c0e7522d100bdc6522b&v=4" width="24" alt="Avatar of RyanMcDonald"> RyanMcDonald
+			</a><br/>
+			Ryan McDonald
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>643</td>
+		<td>
+			<a href="https://github.com/CBMasri">
+				<img src="https://avatars.githubusercontent.com/u/10861443?s=72&u=20586ed9157d934ba1fc47e2826b97d86af166bd&v=4" width="24" alt="Avatar of CBMasri"> CBMasri
+			</a><br/>
+			Carl Masri
+		</td>
+		<td>@redbrickmedia </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>644</td>
+		<td>
+			<a href="https://github.com/jeanlucnguyen">
+				<img src="https://avatars.githubusercontent.com/u/10912221?s=72&u=1b38ca18d59606d95c85fa9ffd87ec92d4e999b3&v=4" width="24" alt="Avatar of jeanlucnguyen"> jeanlucnguyen
+			</a><br/>
+			Jean-Luc Nguyen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sliema, Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>645</td>
+		<td>
+			<a href="https://github.com/MadelineCollier">
+				<img src="https://avatars.githubusercontent.com/u/24848004?s=72&u=13bb941c69392c50cb63ad5a43a367304f78d923&v=4" width="24" alt="Avatar of MadelineCollier"> MadelineCollier
+			</a><br/>
+			Madeline Collier
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>646</td>
+		<td>
+			<a href="https://github.com/ericroy">
+				<img src="https://avatars.githubusercontent.com/u/1175169?s=72&u=bbfc04ed6a42b7269ea4e9765885999fcc22dbc9&v=4" width="24" alt="Avatar of ericroy"> ericroy
+			</a><br/>
+			Eric Roy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>647</td>
+		<td>
+			<a href="https://github.com/troymcginnis">
+				<img src="https://avatars.githubusercontent.com/u/4299551?s=72&u=841333d6722dc92d5c542447e6c59fd62f9abe87&v=4" width="24" alt="Avatar of troymcginnis"> troymcginnis
+			</a><br/>
+			Troy McGinnis
+		</td>
+		<td>@gearbox-built  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>648</td>
+		<td>
+			<a href="https://github.com/jskrepnek">
+				<img src="https://avatars.githubusercontent.com/u/1399582?s=72&v=4" width="24" alt="Avatar of jskrepnek"> jskrepnek
+			</a><br/>
+			Joel Skrepnek
+		</td>
+		<td>@kohofinancial  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>649</td>
+		<td>
+			<a href="https://github.com/robert-abela">
+				<img src="https://avatars.githubusercontent.com/u/7334931?s=72&u=e7b00e72ad89d0c9efc8278878f9ec7a4cac4f12&v=4" width="24" alt="Avatar of robert-abela"> robert-abela
+			</a><br/>
+			Robert Abela
+		</td>
+		<td>Mcast </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>650</td>
+		<td>
+			<a href="https://github.com/jasminesingh0509">
+				<img src="https://avatars.githubusercontent.com/u/59420077?s=72&u=c5cfaf60c1ce574942cf17fc0b331563d178f3b3&v=4" width="24" alt="Avatar of jasminesingh0509"> jasminesingh0509
+			</a><br/>
+			Jasmine Singh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>651</td>
+		<td>
+			<a href="https://github.com/SpirosStampoulis">
+				<img src="https://avatars.githubusercontent.com/u/35004391?s=72&u=f87b9003df4faa90a13aea796840fbf458b2b59c&v=4" width="24" alt="Avatar of SpirosStampoulis"> SpirosStampoulis
+			</a><br/>
+			Spiros Stampoulis 
+		</td>
+		<td>Web International Services </td>
+		<td><a href="https://twitter.com/StampoulisS">StampoulisS</a></td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>652</td>
+		<td>
+			<a href="https://github.com/cimocimocimo">
+				<img src="https://avatars.githubusercontent.com/u/6751506?s=72&v=4" width="24" alt="Avatar of cimocimocimo"> cimocimocimo
+			</a><br/>
+			Aaron Cimolini
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>653</td>
+		<td>
+			<a href="https://github.com/jacygao">
+				<img src="https://avatars.githubusercontent.com/u/1997526?s=72&u=e8856ff5f0b1af5de12c1ee2049b42dd3f4e9069&v=4" width="24" alt="Avatar of jacygao"> jacygao
+			</a><br/>
+			Jacy Gao
+		</td>
+		<td>Ea, Ecal, Pexa </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne,Victoria</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>654</td>
+		<td>
+			<a href="https://github.com/ironage">
+				<img src="https://avatars.githubusercontent.com/u/2826060?s=72&u=14d9c19b9f187a1b29f81aceedd706283501bb56&v=4" width="24" alt="Avatar of ironage"> ironage
+			</a><br/>
+			James Stone
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, B.C. Canada</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>655</td>
+		<td>
+			<a href="https://github.com/JohnSeymour787">
+				<img src="https://avatars.githubusercontent.com/u/48575153?s=72&u=d1a3547992036c59b05eec4e4924846eae7f0c72&v=4" width="24" alt="Avatar of JohnSeymour787"> JohnSeymour787
+			</a><br/>
+			John Seymour
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>656</td>
+		<td>
+			<a href="https://github.com/pmartelletti">
+				<img src="https://avatars.githubusercontent.com/u/557390?s=72&u=4a14c14e79538073e103a5eda6631ac12a9e7174&v=4" width="24" alt="Avatar of pmartelletti"> pmartelletti
+			</a><br/>
+			Pablo Maria Martelletti
+		</td>
+		<td>@vmeretail  </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>657</td>
+		<td>
+			<a href="https://github.com/brumargues">
+				<img src="https://avatars.githubusercontent.com/u/423953?s=72&u=dd95f75b2941c9f104a4fa96f07311ae03be7749&v=4" width="24" alt="Avatar of brumargues"> brumargues
+			</a><br/>
+			Bruno Rodrigues
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>658</td>
+		<td>
+			<a href="https://github.com/kotoku-code">
+				<img src="https://avatars.githubusercontent.com/u/53125243?s=72&u=7c3897cdcf4c7d5f7a6f51542f2f18c36d1b23a6&v=4" width="24" alt="Avatar of kotoku-code"> kotoku-code
+			</a><br/>
+			kotoku kennedy
+		</td>
+		<td>Freelance Full-stack Developer. </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>659</td>
+		<td>
+			<a href="https://github.com/zachwingrave">
+				<img src="https://avatars.githubusercontent.com/u/54096382?s=72&u=15af86ce3b8353532e9dafa8a43e359a3fc23a62&v=4" width="24" alt="Avatar of zachwingrave"> zachwingrave
+			</a><br/>
+			Zach Wingrave
+		</td>
+		<td>Cs In Schools, Rmit<br/>University<br/></td>
+		<td><a href="https://twitter.com/zachwingrave">zachwingrave</a></td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>660</td>
+		<td>
+			<a href="https://github.com/BCSharp">
+				<img src="https://avatars.githubusercontent.com/u/2866972?s=72&v=4" width="24" alt="Avatar of BCSharp"> BCSharp
+			</a><br/>
+			Pavel Koneski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>661</td>
+		<td>
+			<a href="https://github.com/BAN0008">
+				<img src="https://avatars.githubusercontent.com/u/36142466?s=72&v=4" width="24" alt="Avatar of BAN0008"> BAN0008
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>662</td>
+		<td>
+			<a href="https://github.com/whiteslack">
+				<img src="https://avatars.githubusercontent.com/u/75304905?s=72&u=5ba5ad7e23f74302284ef2388de513abf45087c9&v=4" width="24" alt="Avatar of whiteslack"> whiteslack
+			</a><br/>
+			MhdadiOS
+		</td>
+		<td>Whiteslack Llc </td>
+		<td><a href="https://twitter.com/whiteslack_">whiteslack_</a></td>
+		<td>54 Hornsey Park, Mildura 3500 Victoria Australia </td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>663</td>
+		<td>
+			<a href="https://github.com/nanstey">
+				<img src="https://avatars.githubusercontent.com/u/2702433?s=72&u=dd55d51f4939e1caf5849c165fa313c5f23deb13&v=4" width="24" alt="Avatar of nanstey"> nanstey
+			</a><br/>
+			Noel Anstey
+		</td>
+		<td>Checkfront / Quadratic Sound<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>664</td>
+		<td>
+			<a href="https://github.com/stredger">
+				<img src="https://avatars.githubusercontent.com/u/1365762?s=72&u=74d5d2565be8db7a9d877d2f784526161ee80a6d&v=4" width="24" alt="Avatar of stredger"> stredger
+			</a><br/>
+			Stephen Tredger
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>665</td>
+		<td>
+			<a href="https://github.com/CobeyH">
+				<img src="https://avatars.githubusercontent.com/u/32989729?s=72&u=6274ca3b476f27ca4b25f0abc762a2507fa23d29&v=4" width="24" alt="Avatar of CobeyH"> CobeyH
+			</a><br/>
+			Cobey Hollier
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>University of Victoria</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>666</td>
+		<td>
+			<a href="https://github.com/edwardough">
+				<img src="https://avatars.githubusercontent.com/u/64510369?s=72&u=37e88a3d603f294104ba5a4502ccae28486b7b0b&v=4" width="24" alt="Avatar of edwardough"> edwardough
+			</a><br/>
+			Edward
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia.</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>667</td>
+		<td>
+			<a href="https://github.com/hombredequeso">
+				<img src="https://avatars.githubusercontent.com/u/1073703?s=72&u=9755cdfb72cbb2eb917f4655a3c27b05bc94975e&v=4" width="24" alt="Avatar of hombredequeso"> hombredequeso
+			</a><br/>
+			Mark Cheeseman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>668</td>
+		<td>
+			<a href="https://github.com/billymcintosh">
+				<img src="https://avatars.githubusercontent.com/u/217779?s=72&u=6e30bbc1348f09ac47343920bd400102cdc0f3d8&v=4" width="24" alt="Avatar of billymcintosh"> billymcintosh
+			</a><br/>
+			Billy McIntosh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>669</td>
+		<td>
+			<a href="https://github.com/gsstudios">
+				<img src="https://avatars.githubusercontent.com/u/9124784?s=72&u=0bb7ed938da2b00237d523a879a36884b058eb76&v=4" width="24" alt="Avatar of gsstudios"> gsstudios
+			</a><br/>
+			Joshua Lay
+		</td>
+		<td>National Australia Bank (nab)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>670</td>
+		<td>
+			<a href="https://github.com/treavorgagne">
+				<img src="https://avatars.githubusercontent.com/u/50676825?s=72&u=ca191ea3ec0cf04666542d2fd7f7d1ec1168de01&v=4" width="24" alt="Avatar of treavorgagne"> treavorgagne
+			</a><br/>
+			Treavor Gagne
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>671</td>
+		<td>
+			<a href="https://github.com/Ayresia">
+				<img src="https://avatars.githubusercontent.com/u/31165608?s=72&u=2308ac2c2403f98459279b18bb9ac42ca35ee649&v=4" width="24" alt="Avatar of Ayresia"> Ayresia
+			</a><br/>
+			Ayresia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>672</td>
+		<td>
+			<a href="https://github.com/MMarsland">
+				<img src="https://avatars.githubusercontent.com/u/37355199?s=72&u=3a5f3ab6e090096899d0ca0017b5d21aa202c4fe&v=4" width="24" alt="Avatar of MMarsland"> MMarsland
+			</a><br/>
+			Michael Marsland
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>673</td>
+		<td>
+			<a href="https://github.com/rkapdi">
+				<img src="https://avatars.githubusercontent.com/u/37424955?s=72&u=d45a72c107ce72f08f6c5363e9e0d66b7ff79909&v=4" width="24" alt="Avatar of rkapdi"> rkapdi
+			</a><br/>
+			Rissalat Kapdi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>674</td>
+		<td>
+			<a href="https://github.com/sharonumute">
+				<img src="https://avatars.githubusercontent.com/u/14239441?s=72&u=a33f6cc85f8ea530c0686d32377438e488364f01&v=4" width="24" alt="Avatar of sharonumute"> sharonumute
+			</a><br/>
+			Sharon Umute
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>675</td>
+		<td>
+			<a href="https://github.com/kulpree">
+				<img src="https://avatars.githubusercontent.com/u/20963398?s=72&u=7d66ca14011f3d7c5092195296d29f8963f8d86e&v=4" width="24" alt="Avatar of kulpree"> kulpree
+			</a><br/>
+			kulpreet Singh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>676</td>
+		<td>
+			<a href="https://github.com/iainrose">
+				<img src="https://avatars.githubusercontent.com/u/556525?s=72&u=8454e3e4439a63b022f08c11292b3644b5e1bd9d&v=4" width="24" alt="Avatar of iainrose"> iainrose
+			</a><br/>
+			Iain Rose
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>677</td>
+		<td>
+			<a href="https://github.com/auroranil">
+				<img src="https://avatars.githubusercontent.com/u/5346136?s=72&u=b853f7d8c2f0a1f52388beef82ab2547e61ac84d&v=4" width="24" alt="Avatar of auroranil"> auroranil
+			</a><br/>
+			Saurabh Joshi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>678</td>
+		<td>
+			<a href="https://github.com/MAsimSENG">
+				<img src="https://avatars.githubusercontent.com/u/42298613?s=72&u=424c392c442d6e09e278313d74d7960ef9bba01f&v=4" width="24" alt="Avatar of MAsimSENG"> MAsimSENG
+			</a><br/>
+			Muhammad Ali
+		</td>
+		<td>Mr </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>679</td>
+		<td>
+			<a href="https://github.com/LayCraft">
+				<img src="https://avatars.githubusercontent.com/u/1229452?s=72&u=966b9c1e0c2c4ac6a60767c08c71860ed5332233&v=4" width="24" alt="Avatar of LayCraft"> LayCraft
+			</a><br/>
+			Curtis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>680</td>
+		<td>
+			<a href="https://github.com/andrewbuttigieg">
+				<img src="https://avatars.githubusercontent.com/u/5079421?s=72&u=d31b29c80f6420c6010f8fe1b491927cc2c6e4b7&v=4" width="24" alt="Avatar of andrewbuttigieg"> andrewbuttigieg
+			</a><br/>
+			Andrew Buttigieg
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>681</td>
+		<td>
+			<a href="https://github.com/ethernick">
+				<img src="https://avatars.githubusercontent.com/u/165975?s=72&u=f92ba8063fa9c5c0c8c5f0b6c6a7d471b24faa53&v=4" width="24" alt="Avatar of ethernick"> ethernick
+			</a><br/>
+			Nick Kempinski
+		</td>
+		<td>Peloton Technologies Inc. @pelotontech<br/></td>
+		<td><a href="https://twitter.com/ethernick">ethernick</a></td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>682</td>
+		<td>
+			<a href="https://github.com/roseman">
+				<img src="https://avatars.githubusercontent.com/u/1229065?s=72&v=4" width="24" alt="Avatar of roseman"> roseman
+			</a><br/>
+			Mark Roseman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>683</td>
+		<td>
+			<a href="https://github.com/alex-ant">
+				<img src="https://avatars.githubusercontent.com/u/8091829?s=72&u=3304e401ba86b3717ea16ff2704255d085f7544d&v=4" width="24" alt="Avatar of alex-ant"> alex-ant
+			</a><br/>
+			Aleksandrs Antonovs
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>684</td>
+		<td>
+			<a href="https://github.com/ArxSargos">
+				<img src="https://avatars.githubusercontent.com/u/12034811?s=72&u=7528673a4a5a14cc24ec98275a2c48533c396ef0&v=4" width="24" alt="Avatar of ArxSargos"> ArxSargos
+			</a><br/>
+			Martin Nechvatal
+		</td>
+		<td>Betsson Group </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>685</td>
+		<td>
+			<a href="https://github.com/Wizzeh">
+				<img src="https://avatars.githubusercontent.com/u/6687206?s=72&u=ae60a53c3cfa664ff05b2af60c3b87583fb21d0c&v=4" width="24" alt="Avatar of Wizzeh"> Wizzeh
+			</a><br/>
+			Ellie High
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>686</td>
+		<td>
+			<a href="https://github.com/tobbik">
+				<img src="https://avatars.githubusercontent.com/u/182706?s=72&v=4" width="24" alt="Avatar of tobbik"> tobbik
+			</a><br/>
+			Tobias Kieslich
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>687</td>
+		<td>
+			<a href="https://github.com/faronium">
+				<img src="https://avatars.githubusercontent.com/u/11469553?s=72&v=4" width="24" alt="Avatar of faronium"> faronium
+			</a><br/>
+			Faron Anslow
+		</td>
+		<td>Pacific Climate Impacts Consortium<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>688</td>
+		<td>
+			<a href="https://github.com/justinfar">
+				<img src="https://avatars.githubusercontent.com/u/26432097?s=72&u=88789e4cc65fa6da6d57c46b9105527394a5da08&v=4" width="24" alt="Avatar of justinfar"> justinfar
+			</a><br/>
+			Justin Farrugia
+		</td>
+		<td>@casumo </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>689</td>
+		<td>
+			<a href="https://github.com/freshcelery">
+				<img src="https://avatars.githubusercontent.com/u/4261469?s=72&u=3e079255e9e9d7cdf3223de143702dce01cab3ed&v=4" width="24" alt="Avatar of freshcelery"> freshcelery
+			</a><br/>
+			Cory Purnell
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>690</td>
+		<td>
+			<a href="https://github.com/borgdylan">
+				<img src="https://avatars.githubusercontent.com/u/7761010?s=72&u=5c93a2e97a2bdde534d6a44ca832f4762f6cf1fa&v=4" width="24" alt="Avatar of borgdylan"> borgdylan
+			</a><br/>
+			Dylan Borg
+		</td>
+		<td>Darttek Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>691</td>
+		<td>
+			<a href="https://github.com/NicholasKobald">
+				<img src="https://avatars.githubusercontent.com/u/17344901?s=72&u=9346e162c00acd5440b26ce58ec5a420f0c79588&v=4" width="24" alt="Avatar of NicholasKobald"> NicholasKobald
+			</a><br/>
+			Nicholas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>692</td>
+		<td>
+			<a href="https://github.com/dcumbo">
+				<img src="https://avatars.githubusercontent.com/u/80220?s=72&u=3df660529b19cdd6e886120dbea4148d0af4295e&v=4" width="24" alt="Avatar of dcumbo"> dcumbo
+			</a><br/>
+			Daryl Cumbo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>693</td>
+		<td>
+			<a href="https://github.com/kurtaqui">
+				<img src="https://avatars.githubusercontent.com/u/9292794?s=72&u=26f4f083c80465c8a8b732713e23bb6fc59b70f6&v=4" width="24" alt="Avatar of kurtaqui"> kurtaqui
+			</a><br/>
+			Kurt Aquilina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>694</td>
+		<td>
+			<a href="https://github.com/abojja9">
+				<img src="https://avatars.githubusercontent.com/u/31553857?s=72&u=88b6061fa31655ced6068a082642757901f98212&v=4" width="24" alt="Avatar of abojja9"> abojja9
+			</a><br/>
+			ABHISHAKE KUMAR BOJJA
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, B.C, Canada.</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>695</td>
+		<td>
+			<a href="https://github.com/STASISNET">
+				<img src="https://avatars.githubusercontent.com/u/32874290?s=72&u=6d57d84f5117c620d2ed287c7dc6ab0a600cdcaf&v=4" width="24" alt="Avatar of STASISNET"> STASISNET
+			</a><br/>
+			STASIS
+		</td>
+		<td>Stasis </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>696</td>
+		<td>
+			<a href="https://github.com/patriclougheed">
+				<img src="https://avatars.githubusercontent.com/u/1463351?s=72&v=4" width="24" alt="Avatar of patriclougheed"> patriclougheed
+			</a><br/>
+			Patric Lougheed
+		</td>
+		<td>Classcloud Canada </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>697</td>
+		<td>
+			<a href="https://github.com/samdejong86">
+				<img src="https://avatars.githubusercontent.com/u/27043089?s=72&u=0e4ed823db7a28ebf2df7575b4ca51942d20a17f&v=4" width="24" alt="Avatar of samdejong86"> samdejong86
+			</a><br/>
+			Sam de Jong
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>698</td>
+		<td>
+			<a href="https://github.com/ilionblaze">
+				<img src="https://avatars.githubusercontent.com/u/1329238?s=72&v=4" width="24" alt="Avatar of ilionblaze"> ilionblaze
+			</a><br/>
+			Michael Holt
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>699</td>
+		<td>
+			<a href="https://github.com/paccator">
+				<img src="https://avatars.githubusercontent.com/u/220622?s=72&v=4" width="24" alt="Avatar of paccator"> paccator
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>700</td>
+		<td>
+			<a href="https://github.com/krt-c">
+				<img src="https://avatars.githubusercontent.com/u/10705768?s=72&u=62973be0fbe2bd57b8c058ad81b1e9ac5529993f&v=4" width="24" alt="Avatar of krt-c"> krt-c
+			</a><br/>
+			Kurt Cassar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>701</td>
+		<td>
+			<a href="https://github.com/ShaunK">
+				<img src="https://avatars.githubusercontent.com/u/439668?s=72&v=4" width="24" alt="Avatar of ShaunK"> ShaunK
+			</a><br/>
+			Shaun Kiernan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>702</td>
+		<td>
+			<a href="https://github.com/Denis2105">
+				<img src="https://avatars.githubusercontent.com/u/17329165?s=72&u=65fc5806bd7d17ca233c9c2a52fec111f15ae783&v=4" width="24" alt="Avatar of Denis2105"> Denis2105
+			</a><br/>
+			Denis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne,Victoria</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>703</td>
+		<td>
+			<a href="https://github.com/CLarmour">
+				<img src="https://avatars.githubusercontent.com/u/12143676?s=72&u=eac6c7fccffaeb23889b124b3f0166d90b148de1&v=4" width="24" alt="Avatar of CLarmour"> CLarmour
+			</a><br/>
+			Connor Larmour
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>704</td>
+		<td>
+			<a href="https://github.com/devmatt">
+				<img src="https://avatars.githubusercontent.com/u/82706?s=72&v=4" width="24" alt="Avatar of devmatt"> devmatt
+			</a><br/>
+			Matthew Nessworthy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gozo, Malta</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>705</td>
+		<td>
+			<a href="https://github.com/anthonyscata">
+				<img src="https://avatars.githubusercontent.com/u/1029215?s=72&v=4" width="24" alt="Avatar of anthonyscata"> anthonyscata
+			</a><br/>
+			Anthony Scata
+		</td>
+		<td>Imaginate Labs </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>706</td>
+		<td>
+			<a href="https://github.com/odonnell">
+				<img src="https://avatars.githubusercontent.com/u/52428?s=72&v=4" width="24" alt="Avatar of odonnell"> odonnell
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>707</td>
+		<td>
+			<a href="https://github.com/josephzizys">
+				<img src="https://avatars.githubusercontent.com/u/1100737?s=72&v=4" width="24" alt="Avatar of josephzizys"> josephzizys
+			</a><br/>
+			Joseph Zizys
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>hepburn springs victoria</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>708</td>
+		<td>
+			<a href="https://github.com/tadachi">
+				<img src="https://avatars.githubusercontent.com/u/2539962?s=72&u=28719b7c9eb9e9e805c67087e65fc5e8f96b54c9&v=4" width="24" alt="Avatar of tadachi"> tadachi
+			</a><br/>
+			TA
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC, Canada</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>709</td>
+		<td>
+			<a href="https://github.com/zakwht">
+				<img src="https://avatars.githubusercontent.com/u/35615058?s=72&v=4" width="24" alt="Avatar of zakwht"> zakwht
+			</a><br/>
+			Zak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>710</td>
+		<td>
+			<a href="https://github.com/AbhayTyagi009">
+				<img src="https://avatars.githubusercontent.com/u/26852517?s=72&u=774e05a42787ec237a46064aa359b5206fc2587c&v=4" width="24" alt="Avatar of AbhayTyagi009"> AbhayTyagi009
+			</a><br/>
+			Abhay Tyagi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>711</td>
+		<td>
+			<a href="https://github.com/gitah">
+				<img src="https://avatars.githubusercontent.com/u/653682?s=72&u=10f64205cef98380bbf5e16480a11227cae94563&v=4" width="24" alt="Avatar of gitah"> gitah
+			</a><br/>
+			Fred Song
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, B.C</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>712</td>
+		<td>
+			<a href="https://github.com/dejanvasic85">
+				<img src="https://avatars.githubusercontent.com/u/1418428?s=72&u=cbc47800e01c5361eaafe176175d8ffcd8f165a3&v=4" width="24" alt="Avatar of dejanvasic85"> dejanvasic85
+			</a><br/>
+			Dejan Vasic
+		</td>
+		<td>@seek-jobs  </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>713</td>
+		<td>
+			<a href="https://github.com/emadkhezri">
+				<img src="https://avatars.githubusercontent.com/u/5147262?s=72&u=4a23d82f8ef9ee97bd8751a472256cc5871059a6&v=4" width="24" alt="Avatar of emadkhezri"> emadkhezri
+			</a><br/>
+			Emad
+		</td>
+		<td>Playcorp Studios </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>714</td>
+		<td>
+			<a href="https://github.com/gevann">
+				<img src="https://avatars.githubusercontent.com/u/6427337?s=72&u=14eda52e6f32d30fa47549603794fd68379143a5&v=4" width="24" alt="Avatar of gevann"> gevann
+			</a><br/>
+			Graeme Nathan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, B.C., Canada</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>715</td>
+		<td>
+			<a href="https://github.com/maslevin">
+				<img src="https://avatars.githubusercontent.com/u/1467824?s=72&v=4" width="24" alt="Avatar of maslevin"> maslevin
+			</a><br/>
+			Matt Slevinsky
+		</td>
+		<td>Islandia Logic Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>716</td>
+		<td>
+			<a href="https://github.com/JeMorriso">
+				<img src="https://avatars.githubusercontent.com/u/36835728?s=72&u=c0eb99c97d89d2123b87b39b03990fd55ae8e191&v=4" width="24" alt="Avatar of JeMorriso"> JeMorriso
+			</a><br/>
+			Jeremy Morrison
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>717</td>
+		<td>
+			<a href="https://github.com/ironmoss">
+				<img src="https://avatars.githubusercontent.com/u/17808061?s=72&u=86d37beaf5111d6eb43f798274befccf1268295e&v=4" width="24" alt="Avatar of ironmoss"> ironmoss
+			</a><br/>
+			Trevor Morrison
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>718</td>
+		<td>
+			<a href="https://github.com/gaucidaniel">
+				<img src="https://avatars.githubusercontent.com/u/4262867?s=72&u=a2feed2f7061c7e8fea9d18c4f9a7bbd90cf0cca&v=4" width="24" alt="Avatar of gaucidaniel"> gaucidaniel
+			</a><br/>
+			Daniel Gauci
+		</td>
+		<td>Android Developer @casumo <br/></td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>719</td>
+		<td>
+			<a href="https://github.com/ChelseaRDinh">
+				<img src="https://avatars.githubusercontent.com/u/25653095?s=72&u=cf98960002dd2d63100f6c176ac5f0038d013cf7&v=4" width="24" alt="Avatar of ChelseaRDinh"> ChelseaRDinh
+			</a><br/>
+			Chelsea Dinh
+		</td>
+		<td>@varsitytutors </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, B.C</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>720</td>
+		<td>
+			<a href="https://github.com/igboyes">
+				<img src="https://avatars.githubusercontent.com/u/5943558?s=72&u=2653ab72e8175dbe78c3bb236eb8943b880a1131&v=4" width="24" alt="Avatar of igboyes"> igboyes
+			</a><br/>
+			Ian Boyes
+		</td>
+		<td>Canadian Food Inspection Agency<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>721</td>
+		<td>
+			<a href="https://github.com/sicks">
+				<img src="https://avatars.githubusercontent.com/u/2326451?s=72&u=a1abe10858ff2bf8a9c26e40f9a385cd99c7deeb&v=4" width="24" alt="Avatar of sicks"> sicks
+			</a><br/>
+			Trevor Copeland
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>722</td>
+		<td>
+			<a href="https://github.com/Calculamatrise">
+				<img src="https://avatars.githubusercontent.com/u/51772836?s=72&u=c7c5a333e5540af018e6a80e1bbaadba9aa90261&v=4" width="24" alt="Avatar of Calculamatrise"> Calculamatrise
+			</a><br/>
+			Calculus
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Calculamatrise">Calculamatrise</a></td>
+		<td>Victoria BC Canada</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>723</td>
+		<td>
+			<a href="https://github.com/majorimi">
+				<img src="https://avatars.githubusercontent.com/u/7632824?s=72&u=f14a388b4a293218fe42c316f5f734331b4da2ae&v=4" width="24" alt="Avatar of majorimi"> majorimi
+			</a><br/>
+			Imre Toth
+		</td>
+		<td>Entrepreneur/freelan </td>
+		<td>No Twitter Username</td>
+		<td>Hungary - Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>724</td>
+		<td>
+			<a href="https://github.com/pbolduc">
+				<img src="https://avatars.githubusercontent.com/u/1844480?s=72&u=868662b7c66853c3dcdd872121940bfa5ba92cf7&v=4" width="24" alt="Avatar of pbolduc"> pbolduc
+			</a><br/>
+			Phil Bolduc
+		</td>
+		<td>Ntt Data Services </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>725</td>
+		<td>
+			<a href="https://github.com/AxelTheGerman">
+				<img src="https://avatars.githubusercontent.com/u/5974020?s=72&u=64e2af73dc2a4242fc105973dc17128e86cfdd37&v=4" width="24" alt="Avatar of AxelTheGerman"> AxelTheGerman
+			</a><br/>
+			Axel Gustav
+		</td>
+		<td>Shopify </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>726</td>
+		<td>
+			<a href="https://github.com/KyGost">
+				<img src="https://avatars.githubusercontent.com/u/12588894?s=72&u=ea0831a885c3b9a5bc33c24328fd522ad2fd0eea&v=4" width="24" alt="Avatar of KyGost"> KyGost
+			</a><br/>
+			Kyran Gostelow
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia, Earth</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>727</td>
+		<td>
+			<a href="https://github.com/caggles">
+				<img src="https://avatars.githubusercontent.com/u/10466412?s=72&u=850f1d91f83944d6b8b669a7e041333884c89b4e&v=4" width="24" alt="Avatar of caggles"> caggles
+			</a><br/>
+			Cailey Jones
+		</td>
+		<td>@bcdevops </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>728</td>
+		<td>
+			<a href="https://github.com/MinuraIddamalgoda">
+				<img src="https://avatars.githubusercontent.com/u/4592375?s=72&v=4" width="24" alt="Avatar of MinuraIddamalgoda"> MinuraIddamalgoda
+			</a><br/>
+			Minura Iddamalgoda
+		</td>
+		<td>@anz-bank </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>729</td>
+		<td>
+			<a href="https://github.com/jordan-mace">
+				<img src="https://avatars.githubusercontent.com/u/1805887?s=72&u=b858cbc8a82e0ec9007148ac2515b34ee1e96ae8&v=4" width="24" alt="Avatar of jordan-mace"> jordan-mace
+			</a><br/>
+			Jordan Mace
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>730</td>
+		<td>
+			<a href="https://github.com/masakaede">
+				<img src="https://avatars.githubusercontent.com/u/69030790?s=72&u=de5ea7d8ccf14e4dea86bb7c0da256e1a81c01c9&v=4" width="24" alt="Avatar of masakaede"> masakaede
+			</a><br/>
+			No Name
+		</td>
+		<td>Igs Group </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>731</td>
+		<td>
+			<a href="https://github.com/Heesu-H">
+				<img src="https://avatars.githubusercontent.com/u/74526204?s=72&v=4" width="24" alt="Avatar of Heesu-H"> Heesu-H
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>732</td>
+		<td>
+			<a href="https://github.com/HBurd">
+				<img src="https://avatars.githubusercontent.com/u/2176486?s=72&v=4" width="24" alt="Avatar of HBurd"> HBurd
+			</a><br/>
+			Hugo Burd
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>733</td>
+		<td>
+			<a href="https://github.com/nannau">
+				<img src="https://avatars.githubusercontent.com/u/10455520?s=72&u=f133e2184a62d74e93fe8b06c1c5f7a042bdd328&v=4" width="24" alt="Avatar of nannau"> nannau
+			</a><br/>
+			Nic Annau
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>734</td>
+		<td>
+			<a href="https://github.com/hannahbishop">
+				<img src="https://avatars.githubusercontent.com/u/17748971?s=72&u=5d21a73ea2cfa750e0733953c23c866741db6d54&v=4" width="24" alt="Avatar of hannahbishop"> hannahbishop
+			</a><br/>
+			Hannah Bishop
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>735</td>
+		<td>
+			<a href="https://github.com/SijanC147">
+				<img src="https://avatars.githubusercontent.com/u/13831460?s=72&v=4" width="24" alt="Avatar of SijanC147"> SijanC147
+			</a><br/>
+			Sean
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>736</td>
+		<td>
+			<a href="https://github.com/liamattard">
+				<img src="https://avatars.githubusercontent.com/u/21961804?s=72&v=4" width="24" alt="Avatar of liamattard"> liamattard
+			</a><br/>
+			_LiamAttard
+		</td>
+		<td>University Of Malta Student<br/></td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>737</td>
+		<td>
+			<a href="https://github.com/otonnesen">
+				<img src="https://avatars.githubusercontent.com/u/19180944?s=72&u=09ef8033700d329c73387964ea199b29a72c6eab&v=4" width="24" alt="Avatar of otonnesen"> otonnesen
+			</a><br/>
+			Oliver Tonnesen
+		</td>
+		<td>Pani Energy </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>738</td>
+		<td>
+			<a href="https://github.com/JonathanCauchi">
+				<img src="https://avatars.githubusercontent.com/u/33484962?s=72&u=eeedddf22d2970cf3e731cda0c34888be313260f&v=4" width="24" alt="Avatar of JonathanCauchi"> JonathanCauchi
+			</a><br/>
+			No Name
+		</td>
+		<td>Msc Ai - Uni<br/>Of<br/>Aberdeen<br/></td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>739</td>
+		<td>
+			<a href="https://github.com/ridwanrahman">
+				<img src="https://avatars.githubusercontent.com/u/17476457?s=72&v=4" width="24" alt="Avatar of ridwanrahman"> ridwanrahman
+			</a><br/>
+			Ridwanur Rahman
+		</td>
+		<td>Monash University </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>740</td>
+		<td>
+			<a href="https://github.com/NolanVH">
+				<img src="https://avatars.githubusercontent.com/u/3804042?s=72&u=12163df8a825b1261559ba5ae7edda7c2d9a086b&v=4" width="24" alt="Avatar of NolanVH"> NolanVH
+			</a><br/>
+			Nolan Van Hell
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, B.C.</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>741</td>
+		<td>
+			<a href="https://github.com/francescamizzi">
+				<img src="https://avatars.githubusercontent.com/u/72987846?s=72&u=5b271d0423ad499efc0324784f14c8348dd2fb55&v=4" width="24" alt="Avatar of francescamizzi"> francescamizzi
+			</a><br/>
+			Francesca Mizzi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>742</td>
+		<td>
+			<a href="https://github.com/CanadianCommander">
+				<img src="https://avatars.githubusercontent.com/u/22439041?s=72&u=8f438abe92fb59c87d87cee70fb396cdf37adab1&v=4" width="24" alt="Avatar of CanadianCommander"> CanadianCommander
+			</a><br/>
+			Benjamin Benetti
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>743</td>
+		<td>
+			<a href="https://github.com/wejrox">
+				<img src="https://avatars.githubusercontent.com/u/23255412?s=72&v=4" width="24" alt="Avatar of wejrox"> wejrox
+			</a><br/>
+			James McDowell
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>744</td>
+		<td>
+			<a href="https://github.com/archanox">
+				<img src="https://avatars.githubusercontent.com/u/1642971?s=72&v=4" width="24" alt="Avatar of archanox"> archanox
+			</a><br/>
+			Pierce Andjelkovic
+		</td>
+		<td>Compass Education </td>
+		<td><a href="https://twitter.com/archanox">archanox</a></td>
+		<td>Lara, Victoria, Australia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>745</td>
+		<td>
+			<a href="https://github.com/Gohsato">
+				<img src="https://avatars.githubusercontent.com/u/22420574?s=72&u=6a7db07850448cfc9ec45dcfbd05403fad1ad943&v=4" width="24" alt="Avatar of Gohsato"> Gohsato
+			</a><br/>
+			Goh Sato
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>746</td>
+		<td>
+			<a href="https://github.com/huttoncp">
+				<img src="https://avatars.githubusercontent.com/u/46308520?s=72&u=0a8c80608e93bc0f1ae42b8ac162714485313418&v=4" width="24" alt="Avatar of huttoncp"> huttoncp
+			</a><br/>
+			Craig Hutton
+		</td>
+		<td>Province Of British Columbia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia, Canada</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>747</td>
+		<td>
+			<a href="https://github.com/Qchristensen">
+				<img src="https://avatars.githubusercontent.com/u/15902216?s=72&u=7801bc25d7ad22c3916131f656e14293e5b46f10&v=4" width="24" alt="Avatar of Qchristensen"> Qchristensen
+			</a><br/>
+			Quentin Christensen
+		</td>
+		<td>Nv Access </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>748</td>
+		<td>
+			<a href="https://github.com/doubleedesign">
+				<img src="https://avatars.githubusercontent.com/u/563583?s=72&u=6961a24e7bfcc98c39f6f75d314950406387f4c8&v=4" width="24" alt="Avatar of doubleedesign"> doubleedesign
+			</a><br/>
+			Leesa Ward
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Werribee, Victoria, Australia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>749</td>
+		<td>
+			<a href="https://github.com/xht8723">
+				<img src="https://avatars.githubusercontent.com/u/15156436?s=72&u=39bc2dbc7f482dc322b1c0ba770b18c0c769e3bf&v=4" width="24" alt="Avatar of xht8723"> xht8723
+			</a><br/>
+			Hantian Xiao
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC Canada</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>750</td>
+		<td>
+			<a href="https://github.com/brandonabela">
+				<img src="https://avatars.githubusercontent.com/u/23166383?s=72&u=2792216d8ce7f4e1af240af4358a0b89cdac1ebc&v=4" width="24" alt="Avatar of brandonabela"> brandonabela
+			</a><br/>
+			Brandon Abela
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>751</td>
+		<td>
+			<a href="https://github.com/michelecafagna26">
+				<img src="https://avatars.githubusercontent.com/u/23355894?s=72&v=4" width="24" alt="Avatar of michelecafagna26"> michelecafagna26
+			</a><br/>
+			No Name
+		</td>
+		<td>University Of Malta </td>
+		<td><a href="https://twitter.com/cafagna_m">cafagna_m</a></td>
+		<td>Msida, Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>752</td>
+		<td>
+			<a href="https://github.com/maliakber">
+				<img src="https://avatars.githubusercontent.com/u/11912984?s=72&u=9cdf160c815522f5b299e79f3622531849e07cc2&v=4" width="24" alt="Avatar of maliakber"> maliakber
+			</a><br/>
+			Mohammad Ali Akber
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>753</td>
+		<td>
+			<a href="https://github.com/dwardu">
+				<img src="https://avatars.githubusercontent.com/u/497145?s=72&u=eeee348acb0e4d318ae8f611f2340359ee929d9f&v=4" width="24" alt="Avatar of dwardu"> dwardu
+			</a><br/>
+			Edward Grech
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>754</td>
+		<td>
+			<a href="https://github.com/koozdra">
+				<img src="https://avatars.githubusercontent.com/u/6260730?s=72&u=fcf81c21b3e4469057fdada91ee231be01d877a5&v=4" width="24" alt="Avatar of koozdra"> koozdra
+			</a><br/>
+			Dimitri Tishchenko
+		</td>
+		<td>Change.org </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia, Canada</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>755</td>
+		<td>
+			<a href="https://github.com/tabone">
+				<img src="https://avatars.githubusercontent.com/u/5364897?s=72&u=dd903e137d86d3a434638db17f36f75f47ae529f&v=4" width="24" alt="Avatar of tabone"> tabone
+			</a><br/>
+			Luca Tabone
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>756</td>
+		<td>
+			<a href="https://github.com/patmcc">
+				<img src="https://avatars.githubusercontent.com/u/415898?s=72&v=4" width="24" alt="Avatar of patmcc"> patmcc
+			</a><br/>
+			Pat McCulloch
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>757</td>
+		<td>
+			<a href="https://github.com/passariello">
+				<img src="https://avatars.githubusercontent.com/u/17809213?s=72&u=c9dcd3ee994046772f745b26392b0de362ee45f8&v=4" width="24" alt="Avatar of passariello"> passariello
+			</a><br/>
+			Dario Passariello
+		</td>
+		<td>Freelance </td>
+		<td><a href="https://twitter.com/passariello">passariello</a></td>
+		<td>Victoria, British Columbia, Canada</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>758</td>
+		<td>
+			<a href="https://github.com/davidstellini">
+				<img src="https://avatars.githubusercontent.com/u/4324419?s=72&u=86f4e4c10b0b371da57506e311a1d09638ff3207&v=4" width="24" alt="Avatar of davidstellini"> davidstellini
+			</a><br/>
+			David Stellini
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>759</td>
+		<td>
+			<a href="https://github.com/rloisell">
+				<img src="https://avatars.githubusercontent.com/u/31288809?s=72&u=f5d7c138cf1b6ae209e3c910a0f08bc5985916dc&v=4" width="24" alt="Avatar of rloisell"> rloisell
+			</a><br/>
+			Ryan Loiselle
+		</td>
+		<td>Bc Government  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>760</td>
+		<td>
+			<a href="https://github.com/stevejr23">
+				<img src="https://avatars.githubusercontent.com/u/56032489?s=72&u=8957cf164b020626b8718a195bd2f90a2ab98f4a&v=4" width="24" alt="Avatar of stevejr23"> stevejr23
+			</a><br/>
+			Steven
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Loja, Ciudad Victoria</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>761</td>
+		<td>
+			<a href="https://github.com/futzle">
+				<img src="https://avatars.githubusercontent.com/u/10947921?s=72&u=2b7d69426e9132aabca37f55b18ed8d1fa2eefcd&v=4" width="24" alt="Avatar of futzle"> futzle
+			</a><br/>
+			Deborah Pickett
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>762</td>
+		<td>
+			<a href="https://github.com/HunterNyan">
+				<img src="https://avatars.githubusercontent.com/u/9065602?s=72&u=c98efd7ca576c15e84aab47846625b158e021bd6&v=4" width="24" alt="Avatar of HunterNyan"> HunterNyan
+			</a><br/>
+			Nyaaan
+		</td>
+		<td>Stacktonic </td>
+		<td>No Twitter Username</td>
+		<td>Victoria Australia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>763</td>
+		<td>
+			<a href="https://github.com/HeatherGranger">
+				<img src="https://avatars.githubusercontent.com/u/20913802?s=72&u=a4c5d67b0e587bb366d7e51a8a832105280ef8c8&v=4" width="24" alt="Avatar of HeatherGranger"> HeatherGranger
+			</a><br/>
+			Heather Thompson
+		</td>
+		<td>Province Of Bc </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>764</td>
+		<td>
+			<a href="https://github.com/nedjo">
+				<img src="https://avatars.githubusercontent.com/u/295958?s=72&v=4" width="24" alt="Avatar of nedjo"> nedjo
+			</a><br/>
+			Nedjo Rogers
+		</td>
+		<td>Chocolate Lily </td>
+		<td>No Twitter Username</td>
+		<td>Victoria Canada</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>765</td>
+		<td>
+			<a href="https://github.com/drusk">
+				<img src="https://avatars.githubusercontent.com/u/1302028?s=72&v=4" width="24" alt="Avatar of drusk"> drusk
+			</a><br/>
+			David Rusk
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>766</td>
+		<td>
+			<a href="https://github.com/RachelVB">
+				<img src="https://avatars.githubusercontent.com/u/44045336?s=72&u=1ff2b19b0896f08796b770854ad0727cb34e6daf&v=4" width="24" alt="Avatar of RachelVB"> RachelVB
+			</a><br/>
+			Rachel VanBuskirk
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>767</td>
+		<td>
+			<a href="https://github.com/tendon">
+				<img src="https://avatars.githubusercontent.com/u/1058356?s=72&u=d9e1696e739b09135ee9b774626962c8e456c4c6&v=4" width="24" alt="Avatar of tendon"> tendon
+			</a><br/>
+			Steve Tendon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Xghajra, Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>768</td>
+		<td>
+			<a href="https://github.com/lengoanhcat">
+				<img src="https://avatars.githubusercontent.com/u/1382227?s=72&u=51711be5508069519dceff0953a907a93837e3f0&v=4" width="24" alt="Avatar of lengoanhcat"> lengoanhcat
+			</a><br/>
+			LE NGO ANH CAT
+		</td>
+		<td>Deakin University </td>
+		<td>No Twitter Username</td>
+		<td>Victoria Australia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>769</td>
+		<td>
+			<a href="https://github.com/bosth">
+				<img src="https://avatars.githubusercontent.com/u/2465686?s=72&v=4" width="24" alt="Avatar of bosth"> bosth
+			</a><br/>
+			Benjamin Trigona-Harany
+		</td>
+		<td>@planetlabs  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria and San Francisco</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>770</td>
+		<td>
+			<a href="https://github.com/scott4dev">
+				<img src="https://avatars.githubusercontent.com/u/108811?s=72&u=99465041b6445f3ee3c27f0e428e1ff6038b6c4c&v=4" width="24" alt="Avatar of scott4dev"> scott4dev
+			</a><br/>
+			Claudio Maccari
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>771</td>
+		<td>
+			<a href="https://github.com/jeremyscalpello">
+				<img src="https://avatars.githubusercontent.com/u/8858856?s=72&v=4" width="24" alt="Avatar of jeremyscalpello"> jeremyscalpello
+			</a><br/>
+			Jeremy Scalpello
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>772</td>
+		<td>
+			<a href="https://github.com/ricoxor">
+				<img src="https://avatars.githubusercontent.com/u/3131462?s=72&u=52e7623396929744f264becc6ffd4fd74becd1c7&v=4" width="24" alt="Avatar of ricoxor"> ricoxor
+			</a><br/>
+			Romain
+		</td>
+		<td>Highfive </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>773</td>
+		<td>
+			<a href="https://github.com/mcianc">
+				<img src="https://avatars.githubusercontent.com/u/97325?s=72&u=deb2a31a4d103fe1645d9062d4864935e815465f&v=4" width="24" alt="Avatar of mcianc"> mcianc
+			</a><br/>
+			Marco
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>774</td>
+		<td>
+			<a href="https://github.com/stephbaker">
+				<img src="https://avatars.githubusercontent.com/u/42748054?s=72&u=1dacba960c3d07450039402a65d62acd9a15e625&v=4" width="24" alt="Avatar of stephbaker"> stephbaker
+			</a><br/>
+			Steph Baker
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>775</td>
+		<td>
+			<a href="https://github.com/burakbuylu">
+				<img src="https://avatars.githubusercontent.com/u/5711373?s=72&u=3afd5ac9847d3ed22bdc957287cfc8883c8c6c63&v=4" width="24" alt="Avatar of burakbuylu"> burakbuylu
+			</a><br/>
+			Burak Buylu
+		</td>
+		<td>@burtinet </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>776</td>
+		<td>
+			<a href="https://github.com/ccol002">
+				<img src="https://avatars.githubusercontent.com/u/5320508?s=72&u=3d9b2fc579daba5f98e4b293d9629abb3c4ea0a0&v=4" width="24" alt="Avatar of ccol002"> ccol002
+			</a><br/>
+			Christian Colombo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>777</td>
+		<td>
+			<a href="https://github.com/JimDunphy">
+				<img src="https://avatars.githubusercontent.com/u/10440778?s=72&u=e260d854d9a59fa070f519802f776561cd772f1a&v=4" width="24" alt="Avatar of JimDunphy"> JimDunphy
+			</a><br/>
+			Jim Dunphy
+		</td>
+		<td>Aesir Computing, Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>778</td>
+		<td>
+			<a href="https://github.com/bgcc93">
+				<img src="https://avatars.githubusercontent.com/u/8963485?s=72&v=4" width="24" alt="Avatar of bgcc93"> bgcc93
+			</a><br/>
+			Bruno Di Giuseppe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>779</td>
+		<td>
+			<a href="https://github.com/VincentJGeisler">
+				<img src="https://avatars.githubusercontent.com/u/3362207?s=72&u=5ffd1aa732010a8d6b5c0600751b6b3ae8e6949a&v=4" width="24" alt="Avatar of VincentJGeisler"> VincentJGeisler
+			</a><br/>
+			Vincent J Geisler
+		</td>
+		<td>Element61 </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>780</td>
+		<td>
+			<a href="https://github.com/RyanRizzo96">
+				<img src="https://avatars.githubusercontent.com/u/31866965?s=72&u=8f5ab5becd99d185a6cb58a762a32ef7ffe8e230&v=4" width="24" alt="Avatar of RyanRizzo96"> RyanRizzo96
+			</a><br/>
+			Ryan Rizzo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>781</td>
+		<td>
+			<a href="https://github.com/samirGuesmi">
+				<img src="https://avatars.githubusercontent.com/u/3321162?s=72&u=8557b46307ce0085667aa6677943773c2aedf7b0&v=4" width="24" alt="Avatar of samirGuesmi"> samirGuesmi
+			</a><br/>
+			Samir GUESMI
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>782</td>
+		<td>
+			<a href="https://github.com/dryswabbie">
+				<img src="https://avatars.githubusercontent.com/u/2674864?s=72&v=4" width="24" alt="Avatar of dryswabbie"> dryswabbie
+			</a><br/>
+			Rod Apeldoorn
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>783</td>
+		<td>
+			<a href="https://github.com/jasonmorehouse">
+				<img src="https://avatars.githubusercontent.com/u/1195376?s=72&v=4" width="24" alt="Avatar of jasonmorehouse"> jasonmorehouse
+			</a><br/>
+			Jason Morehouse
+		</td>
+		<td>Checkfront Inc </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>784</td>
+		<td>
+			<a href="https://github.com/LiyaniL">
+				<img src="https://avatars.githubusercontent.com/u/35415967?s=72&u=30af11e02cced098d8dbac50919a9a3a79e7924b&v=4" width="24" alt="Avatar of LiyaniL"> LiyaniL
+			</a><br/>
+			Liyani Lustado
+		</td>
+		<td>Rooof </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>785</td>
+		<td>
+			<a href="https://github.com/Jeronimo95">
+				<img src="https://avatars.githubusercontent.com/u/2177618?s=72&u=2a00baefc89e164b860b4b1a017f1a8528a918d6&v=4" width="24" alt="Avatar of Jeronimo95"> Jeronimo95
+			</a><br/>
+			Jeremy Ryan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>786</td>
+		<td>
+			<a href="https://github.com/JagjitUvic">
+				<img src="https://avatars.githubusercontent.com/u/22566084?s=72&u=c2da7cb3df0e94ca5522390c9b72d3474d177193&v=4" width="24" alt="Avatar of JagjitUvic"> JagjitUvic
+			</a><br/>
+			Jagjit Singh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>787</td>
+		<td>
+			<a href="https://github.com/dbhume">
+				<img src="https://avatars.githubusercontent.com/u/11206230?s=72&u=f3c26bb0c7d866c2b5400b2f49267845ff1959a9&v=4" width="24" alt="Avatar of dbhume"> dbhume
+			</a><br/>
+			David Hume
+		</td>
+		<td>Province Of British Columbia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, B.C.</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>788</td>
+		<td>
+			<a href="https://github.com/Snapparazzi-io">
+				<img src="https://avatars.githubusercontent.com/u/42743092?s=72&u=bea3f377c8bce45fb32bf24f1dd32fbc8cb59678&v=4" width="24" alt="Avatar of Snapparazzi-io"> Snapparazzi-io
+			</a><br/>
+			Snapparazzi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>789</td>
+		<td>
+			<a href="https://github.com/bchiblak">
+				<img src="https://avatars.githubusercontent.com/u/10504923?s=72&u=64f6e82043bbe1bd155425e68e082fe69b15c491&v=4" width="24" alt="Avatar of bchiblak"> bchiblak
+			</a><br/>
+			ba-SAM
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>790</td>
+		<td>
+			<a href="https://github.com/paigerichards">
+				<img src="https://avatars.githubusercontent.com/u/25654248?s=72&v=4" width="24" alt="Avatar of paigerichards"> paigerichards
+			</a><br/>
+			Paige Richards
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>791</td>
+		<td>
+			<a href="https://github.com/chrisann0295">
+				<img src="https://avatars.githubusercontent.com/u/8717752?s=72&u=3ababf4934df13cf4a6ff43ba28969891a5626ef&v=4" width="24" alt="Avatar of chrisann0295"> chrisann0295
+			</a><br/>
+			Chrisanda Ann
+		</td>
+		<td>@microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>792</td>
+		<td>
+			<a href="https://github.com/sleslie">
+				<img src="https://avatars.githubusercontent.com/u/1186782?s=72&v=4" width="24" alt="Avatar of sleslie"> sleslie
+			</a><br/>
+			Scott Leslie
+		</td>
+		<td>Bc Libraries Cooperative </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>793</td>
+		<td>
+			<a href="https://github.com/jasenwright">
+				<img src="https://avatars.githubusercontent.com/u/23112661?s=72&v=4" width="24" alt="Avatar of jasenwright"> jasenwright
+			</a><br/>
+			Jasen Wright
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>794</td>
+		<td>
+			<a href="https://github.com/gmostert">
+				<img src="https://avatars.githubusercontent.com/u/7753345?s=72&u=a2af96ce61ab7b7b594600dccd834354b247446a&v=4" width="24" alt="Avatar of gmostert"> gmostert
+			</a><br/>
+			Gerhard Mostert
+		</td>
+		<td>Australia Post </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>795</td>
+		<td>
+			<a href="https://github.com/KaiChao15">
+				<img src="https://avatars.githubusercontent.com/u/39479156?s=72&u=8641ed9734c814ea5ae9960c42eec1311cec4452&v=4" width="24" alt="Avatar of KaiChao15"> KaiChao15
+			</a><br/>
+			Kai Chao
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC Canada</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>796</td>
+		<td>
+			<a href="https://github.com/daelynj">
+				<img src="https://avatars.githubusercontent.com/u/28407708?s=72&u=4559147f517c4433b3eb9911c0727c3bf1ff1edd&v=4" width="24" alt="Avatar of daelynj"> daelynj
+			</a><br/>
+			Daelyn Jones
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>797</td>
+		<td>
+			<a href="https://github.com/GeorgeWalker">
+				<img src="https://avatars.githubusercontent.com/u/22990092?s=72&u=517ce7450ebe3cdb2830ba5150c0606882975e04&v=4" width="24" alt="Avatar of GeorgeWalker"> GeorgeWalker
+			</a><br/>
+			George Walker
+		</td>
+		<td>Walker Software </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>798</td>
+		<td>
+			<a href="https://github.com/nikola-rados">
+				<img src="https://avatars.githubusercontent.com/u/26128992?s=72&u=07fa345635abe5ec65960a9e05620435086ffece&v=4" width="24" alt="Avatar of nikola-rados"> nikola-rados
+			</a><br/>
+			Nik Radoš
+		</td>
+		<td>@pacificclimate </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>799</td>
+		<td>
+			<a href="https://github.com/silvandiepen">
+				<img src="https://avatars.githubusercontent.com/u/5363051?s=72&u=df92eea938ea5e9c676eb4d7641706520c87df05&v=4" width="24" alt="Avatar of silvandiepen"> silvandiepen
+			</a><br/>
+			Sil van Diepen
+		</td>
+		<td>Sil Van Diepen </td>
+		<td><a href="https://twitter.com/silvandiepen">silvandiepen</a></td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>800</td>
+		<td>
+			<a href="https://github.com/ksaifullah">
+				<img src="https://avatars.githubusercontent.com/u/7429101?s=72&u=5354a65c8fcfc2c9e7610469f0600d6b02ee6d1c&v=4" width="24" alt="Avatar of ksaifullah"> ksaifullah
+			</a><br/>
+			Khalid Saifullah
+		</td>
+		<td>@kmartau  </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>801</td>
+		<td>
+			<a href="https://github.com/BlakeASmith">
+				<img src="https://avatars.githubusercontent.com/u/16090356?s=72&u=84fdd5c83cfca2d603c9f1f284bc85c39868ebcd&v=4" width="24" alt="Avatar of BlakeASmith"> BlakeASmith
+			</a><br/>
+			Blake Smith
+		</td>
+		<td>@virtool  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>802</td>
+		<td>
+			<a href="https://github.com/jiinmoon">
+				<img src="https://avatars.githubusercontent.com/u/18504000?s=72&u=bc9673bcee69f73d593d25e0dcf01f4ea0f3e288&v=4" width="24" alt="Avatar of jiinmoon"> jiinmoon
+			</a><br/>
+			Francisco Moon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>803</td>
+		<td>
+			<a href="https://github.com/MarkZsombor">
+				<img src="https://avatars.githubusercontent.com/u/30327457?s=72&u=15d6f73752a4c5e24790759b6da2cdb792ec47a9&v=4" width="24" alt="Avatar of MarkZsombor"> MarkZsombor
+			</a><br/>
+			Mark Zsombor
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>804</td>
+		<td>
+			<a href="https://github.com/jdtoombs">
+				<img src="https://avatars.githubusercontent.com/u/15724124?s=72&u=489bb1d819ad1eaee40168bc606301a53996508f&v=4" width="24" alt="Avatar of jdtoombs"> jdtoombs
+			</a><br/>
+			Jonny Toombs
+		</td>
+		<td>@quartech </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>805</td>
+		<td>
+			<a href="https://github.com/zachharrison">
+				<img src="https://avatars.githubusercontent.com/u/61340750?s=72&u=d4beccf52d7fbad68a0af5e4d3cafd03fb46ef48&v=4" width="24" alt="Avatar of zachharrison"> zachharrison
+			</a><br/>
+			Zach Harrison
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>806</td>
+		<td>
+			<a href="https://github.com/MobileSide">
+				<img src="https://avatars.githubusercontent.com/u/114002?s=72&u=5466ef99aa21ef32532fa19356612cc270e1e46b&v=4" width="24" alt="Avatar of MobileSide"> MobileSide
+			</a><br/>
+			Daniel Batiston
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Brazil and Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>807</td>
+		<td>
+			<a href="https://github.com/sutherlanda">
+				<img src="https://avatars.githubusercontent.com/u/6961467?s=72&u=eb9a142de9398062315498198effaaa202fb3236&v=4" width="24" alt="Avatar of sutherlanda"> sutherlanda
+			</a><br/>
+			Andrew Sutherland
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>808</td>
+		<td>
+			<a href="https://github.com/Shnupbups">
+				<img src="https://avatars.githubusercontent.com/u/2484721?s=72&u=539fca4a831ee0cde6e45c016bad06cad768e1f5&v=4" width="24" alt="Avatar of Shnupbups"> Shnupbups
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>809</td>
+		<td>
+			<a href="https://github.com/mavko">
+				<img src="https://avatars.githubusercontent.com/u/5531774?s=72&u=e74040a0e93e1a4a4ce676bcf1007fa87ecdc65f&v=4" width="24" alt="Avatar of mavko"> mavko
+			</a><br/>
+			Sebastian Selling
+		</td>
+		<td>Ispect.se </td>
+		<td>No Twitter Username</td>
+		<td>Sweden / Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>810</td>
+		<td>
+			<a href="https://github.com/AidanLaing">
+				<img src="https://avatars.githubusercontent.com/u/17442696?s=72&u=dfe1ba847c0fff15d11cecb45e31ee020f401012&v=4" width="24" alt="Avatar of AidanLaing"> AidanLaing
+			</a><br/>
+			Aidan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>811</td>
+		<td>
+			<a href="https://github.com/Tacklebox">
+				<img src="https://avatars.githubusercontent.com/u/5867784?s=72&u=c59856874da27699fb551adad0e12ca8972ab15d&v=4" width="24" alt="Avatar of Tacklebox"> Tacklebox
+			</a><br/>
+			Maxwell Borden
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>812</td>
+		<td>
+			<a href="https://github.com/james-d-elliott">
+				<img src="https://avatars.githubusercontent.com/u/3903683?s=72&u=1c67a520fcc3d480d2132a4a63a4a1b0a708edef&v=4" width="24" alt="Avatar of james-d-elliott"> james-d-elliott
+			</a><br/>
+			James Elliott
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>813</td>
+		<td>
+			<a href="https://github.com/pedropb">
+				<img src="https://avatars.githubusercontent.com/u/15254163?s=72&u=4f5b8aab37bdb33f30f6bea2a9debcb1d125c3c0&v=4" width="24" alt="Avatar of pedropb"> pedropb
+			</a><br/>
+			Pedro Baracho
+		</td>
+		<td>Shopify </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>814</td>
+		<td>
+			<a href="https://github.com/cassidyq">
+				<img src="https://avatars.githubusercontent.com/u/24304893?s=72&u=cc9a4d8babf0e328d46f6cb42f3acb9a6003d9fa&v=4" width="24" alt="Avatar of cassidyq"> cassidyq
+			</a><br/>
+			Cassidy Quaite
+		</td>
+		<td>Barnacle Systems </td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>815</td>
+		<td>
+			<a href="https://github.com/dreamxinxcode">
+				<img src="https://avatars.githubusercontent.com/u/42306596?s=72&u=7d58fde4a78a1f6f73a306a9f8f741f9f356baa7&v=4" width="24" alt="Avatar of dreamxinxcode"> dreamxinxcode
+			</a><br/>
+			Brandon Lecky
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>816</td>
+		<td>
+			<a href="https://github.com/msbit">
+				<img src="https://avatars.githubusercontent.com/u/1694533?s=72&u=5711aee0561526c970d9614404478474779997db&v=4" width="24" alt="Avatar of msbit"> msbit
+			</a><br/>
+			Tom Sullivan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ballarat, Victoria, Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>817</td>
+		<td>
+			<a href="https://github.com/myzhang1029">
+				<img src="https://avatars.githubusercontent.com/u/23428852?s=72&u=e374cab2650e8847922dd648074bd109bb2be5ba&v=4" width="24" alt="Avatar of myzhang1029"> myzhang1029
+			</a><br/>
+			Zhang Maiyun
+		</td>
+		<td>Pearson College Uwc </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>818</td>
+		<td>
+			<a href="https://github.com/webgismd">
+				<img src="https://avatars.githubusercontent.com/u/8550351?s=72&u=ccac26fbb498645cd4264f28a25ac6ba79ef9800&v=4" width="24" alt="Avatar of webgismd"> webgismd
+			</a><br/>
+			Michelle Douville
+		</td>
+		<td>Province Of British Columbia<br/>@bcgov<br/></td>
+		<td><a href="https://twitter.com/webgismich">webgismich</a></td>
+		<td>Victoria</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>819</td>
+		<td>
+			<a href="https://github.com/DimaMzk">
+				<img src="https://avatars.githubusercontent.com/u/16964252?s=72&u=7a43b02251026d0f0a0ed885f36f01ef9628c87e&v=4" width="24" alt="Avatar of DimaMzk"> DimaMzk
+			</a><br/>
+			Dimitry (Dima) Maizik
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>820</td>
+		<td>
+			<a href="https://github.com/seabrookmx">
+				<img src="https://avatars.githubusercontent.com/u/5488619?s=72&u=f24d30c9f05a88b66263aa39766e00ba050cc552&v=4" width="24" alt="Avatar of seabrookmx"> seabrookmx
+			</a><br/>
+			Tyler Seabrook
+		</td>
+		<td>@beatport  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>821</td>
+		<td>
+			<a href="https://github.com/hunterwatson">
+				<img src="https://avatars.githubusercontent.com/u/19484215?s=72&u=38284f65b2e2d171395f8c3a7c8e869abf0313d2&v=4" width="24" alt="Avatar of hunterwatson"> hunterwatson
+			</a><br/>
+			Hunter Watson
+		</td>
+		<td>Pagerduty </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>822</td>
+		<td>
+			<a href="https://github.com/lclarko">
+				<img src="https://avatars.githubusercontent.com/u/52838144?s=72&u=9edc42c02dd5a72c2d92270a46f8f23f1fce71ab&v=4" width="24" alt="Avatar of lclarko"> lclarko
+			</a><br/>
+			Lane Clark
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>823</td>
+		<td>
+			<a href="https://github.com/arob0017">
+				<img src="https://avatars.githubusercontent.com/u/68887990?s=72&v=4" width="24" alt="Avatar of arob0017"> arob0017
+			</a><br/>
+			Amelia Roberts
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>824</td>
+		<td>
+			<a href="https://github.com/blaklites">
+				<img src="https://avatars.githubusercontent.com/u/4252230?s=72&u=d46c959f2e2be5791a7e0d2f7fe983dee12000e7&v=4" width="24" alt="Avatar of blaklites"> blaklites
+			</a><br/>
+			Samir Ahmed
+		</td>
+		<td>Square Inc </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>825</td>
+		<td>
+			<a href="https://github.com/dstello">
+				<img src="https://avatars.githubusercontent.com/u/989507?s=72&v=4" width="24" alt="Avatar of dstello"> dstello
+			</a><br/>
+			Dan Costello
+		</td>
+		<td>Course Studio </td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>826</td>
+		<td>
+			<a href="https://github.com/LiamAtDeepFreeze">
+				<img src="https://avatars.githubusercontent.com/u/14985405?s=72&u=944eff3faa6a884a725bd557d3230fa2291d0ece&v=4" width="24" alt="Avatar of LiamAtDeepFreeze"> LiamAtDeepFreeze
+			</a><br/>
+			Liam Knightley
+		</td>
+		<td>Deep Freeze Studios Ltd.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>827</td>
+		<td>
+			<a href="https://github.com/griever989">
+				<img src="https://avatars.githubusercontent.com/u/5554737?s=72&u=c342da0fafc7b2e0cfc3e0cc4eaadd6a9d884217&v=4" width="24" alt="Avatar of griever989"> griever989
+			</a><br/>
+			Max Verigin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>828</td>
+		<td>
+			<a href="https://github.com/ryanlabelle">
+				<img src="https://avatars.githubusercontent.com/u/10147529?s=72&v=4" width="24" alt="Avatar of ryanlabelle"> ryanlabelle
+			</a><br/>
+			Ryan Labelle
+		</td>
+		<td>Pixel Makers Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>829</td>
+		<td>
+			<a href="https://github.com/carmelgafa">
+				<img src="https://avatars.githubusercontent.com/u/15346006?s=72&u=c08d48233159003b01e58ba9dd9b26577bd0e152&v=4" width="24" alt="Avatar of carmelgafa"> carmelgafa
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>830</td>
+		<td>
+			<a href="https://github.com/Fliinko">
+				<img src="https://avatars.githubusercontent.com/u/73174341?s=72&u=e02546e0928f2dc803406bf5ac36d8f782afbe86&v=4" width="24" alt="Avatar of Fliinko"> Fliinko
+			</a><br/>
+			Owen Agius
+		</td>
+		<td>University Of Malta </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>831</td>
+		<td>
+			<a href="https://github.com/grundmanise">
+				<img src="https://avatars.githubusercontent.com/u/19417672?s=72&u=cb1bd4d9b192cd776f4be52ab582b7ba250def88&v=4" width="24" alt="Avatar of grundmanise"> grundmanise
+			</a><br/>
+			Edgar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>832</td>
+		<td>
+			<a href="https://github.com/blakedyer">
+				<img src="https://avatars.githubusercontent.com/u/57809969?s=72&u=0c92b07b0826ea464aa928fcb2e660419bbe9264&v=4" width="24" alt="Avatar of blakedyer"> blakedyer
+			</a><br/>
+			Blake Dyer
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>833</td>
+		<td>
+			<a href="https://github.com/garywong-bc">
+				<img src="https://avatars.githubusercontent.com/u/25966613?s=72&u=e4bd75576649411ec9967d12b8c5ab9f1f2c4e3a&v=4" width="24" alt="Avatar of garywong-bc"> garywong-bc
+			</a><br/>
+			Gary Wong
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>834</td>
+		<td>
+			<a href="https://github.com/alexwholland">
+				<img src="https://avatars.githubusercontent.com/u/64433812?s=72&u=222265d302715b41e62be42f34d8ec0c048181be&v=4" width="24" alt="Avatar of alexwholland"> alexwholland
+			</a><br/>
+			Alex Holland
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>835</td>
+		<td>
+			<a href="https://github.com/trishalabhasin">
+				<img src="https://avatars.githubusercontent.com/u/37555884?s=72&u=743b7a396595e6aafb542acf05d153cdfca7597a&v=4" width="24" alt="Avatar of trishalabhasin"> trishalabhasin
+			</a><br/>
+			Trishala Bhasin
+		</td>
+		<td>@thechiselgroup  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>836</td>
+		<td>
+			<a href="https://github.com/telic">
+				<img src="https://avatars.githubusercontent.com/u/301798?s=72&u=655c6341a7e8431056ec79000d0dfcfc715f679c&v=4" width="24" alt="Avatar of telic"> telic
+			</a><br/>
+			Maxwell Terpstra
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>837</td>
+		<td>
+			<a href="https://github.com/angiemvella">
+				<img src="https://avatars.githubusercontent.com/u/8472995?s=72&u=58a4181637fc4ed216455aad042198bcc3802e53&v=4" width="24" alt="Avatar of angiemvella"> angiemvella
+			</a><br/>
+			Angie Vella
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/angiemvella">angiemvella</a></td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>838</td>
+		<td>
+			<a href="https://github.com/tunai">
+				<img src="https://avatars.githubusercontent.com/u/3987746?s=72&u=0cdfdbe83793996b40c251bc92b08d4e0d51fda4&v=4" width="24" alt="Avatar of tunai"> tunai
+			</a><br/>
+			Tunai P. Marques
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>839</td>
+		<td>
+			<a href="https://github.com/jonathan-vella">
+				<img src="https://avatars.githubusercontent.com/u/25802147?s=72&u=7941fa30cf5d40f1ef8c5e3a804a03c630e72bec&v=4" width="24" alt="Avatar of jonathan-vella"> jonathan-vella
+			</a><br/>
+			Jonathan Vella
+		</td>
+		<td>@microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>840</td>
+		<td>
+			<a href="https://github.com/MaherBouidani">
+				<img src="https://avatars.githubusercontent.com/u/31004772?s=72&u=9c3d32a3a87310063872cf3fbc67c6ae6677a7f4&v=4" width="24" alt="Avatar of MaherBouidani"> MaherBouidani
+			</a><br/>
+			Maher Bouidani 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Toronto | Victoria</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>841</td>
+		<td>
+			<a href="https://github.com/rust11">
+				<img src="https://avatars.githubusercontent.com/u/11532770?s=72&u=6f16e8e6adf020d5ce61e2ac6df6d92f4dd55fe4&v=4" width="24" alt="Avatar of rust11"> rust11
+			</a><br/>
+			No Name
+		</td>
+		<td>Hammondsoftware (formerly)  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>842</td>
+		<td>
+			<a href="https://github.com/JoetheManHowie">
+				<img src="https://avatars.githubusercontent.com/u/16565967?s=72&u=1d230a75ad0e9ca6b756adfac467ae2a3c865940&v=4" width="24" alt="Avatar of JoetheManHowie"> JoetheManHowie
+			</a><br/>
+			Joe Howie
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>843</td>
+		<td>
+			<a href="https://github.com/DennesTorres">
+				<img src="https://avatars.githubusercontent.com/u/19700918?s=72&u=8660cff1969fd14b368444734f338f38a6f99996&v=4" width="24" alt="Avatar of DennesTorres"> DennesTorres
+			</a><br/>
+			Dennes Torres
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Dennes">Dennes</a></td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>844</td>
+		<td>
+			<a href="https://github.com/c1495616js">
+				<img src="https://avatars.githubusercontent.com/u/31360789?s=72&u=9d59339620abdb3b6c2977ec87b7b3c3d4762feb&v=4" width="24" alt="Avatar of c1495616js"> c1495616js
+			</a><br/>
+			Jerry Wang
+		</td>
+		<td>@freshworksstudio </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>845</td>
+		<td>
+			<a href="https://github.com/PaoloBezzina">
+				<img src="https://avatars.githubusercontent.com/u/72805355?s=72&u=e0a35081de6a32b92d1f8dd342823458360b7801&v=4" width="24" alt="Avatar of PaoloBezzina"> PaoloBezzina
+			</a><br/>
+			Paolo Bezzina
+		</td>
+		<td>Transcripta </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>846</td>
+		<td>
+			<a href="https://github.com/cdgagne">
+				<img src="https://avatars.githubusercontent.com/u/730497?s=72&v=4" width="24" alt="Avatar of cdgagne"> cdgagne
+			</a><br/>
+			Chris Gagne
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>847</td>
+		<td>
+			<a href="https://github.com/logwet">
+				<img src="https://avatars.githubusercontent.com/u/10622700?s=72&u=12d1d0023b1ccaec9547bf4c0104e6df8bd529de&v=4" width="24" alt="Avatar of logwet"> logwet
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>848</td>
+		<td>
+			<a href="https://github.com/bkyle">
+				<img src="https://avatars.githubusercontent.com/u/9545?s=72&v=4" width="24" alt="Avatar of bkyle"> bkyle
+			</a><br/>
+			Bryan Kyle
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>849</td>
+		<td>
+			<a href="https://github.com/BenjaminVincent">
+				<img src="https://avatars.githubusercontent.com/u/32846783?s=72&u=1f87abd757d18716b16b1b38f4a95c31cecf5376&v=4" width="24" alt="Avatar of BenjaminVincent"> BenjaminVincent
+			</a><br/>
+			Benjamin Vincent
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>850</td>
+		<td>
+			<a href="https://github.com/danielfrankcom">
+				<img src="https://avatars.githubusercontent.com/u/15225573?s=72&u=4bf619903e90ecd2eb9a19a7a98d838aa28726df&v=4" width="24" alt="Avatar of danielfrankcom"> danielfrankcom
+			</a><br/>
+			Daniel Frankcom
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>851</td>
+		<td>
+			<a href="https://github.com/DanielMagro97">
+				<img src="https://avatars.githubusercontent.com/u/14795178?s=72&u=4e71ab6e77673de6c0c99241c2644a0ab644be12&v=4" width="24" alt="Avatar of DanielMagro97"> DanielMagro97
+			</a><br/>
+			Daniel Magro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>852</td>
+		<td>
+			<a href="https://github.com/herrmondlicht">
+				<img src="https://avatars.githubusercontent.com/u/10802950?s=72&u=274e480e18907f358224ff5122dbdc1c9b928e6e&v=4" width="24" alt="Avatar of herrmondlicht"> herrmondlicht
+			</a><br/>
+			Guilherme Silva
+		</td>
+		<td>Red Acre </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>853</td>
+		<td>
+			<a href="https://github.com/FelesNoctis">
+				<img src="https://avatars.githubusercontent.com/u/16215725?s=72&u=81c313ca208834a7016fb920b8112ef098d8493a&v=4" width="24" alt="Avatar of FelesNoctis"> FelesNoctis
+			</a><br/>
+			No Name
+		</td>
+		<td>[private] </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada </td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>854</td>
+		<td>
+			<a href="https://github.com/gingerrobot">
+				<img src="https://avatars.githubusercontent.com/u/66220?s=72&v=4" width="24" alt="Avatar of gingerrobot"> gingerrobot
+			</a><br/>
+			Jaime Schmidt
+		</td>
+		<td>Ginger Robot </td>
+		<td>No Twitter Username</td>
+		<td>Baranduda, Victoria, Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>855</td>
+		<td>
+			<a href="https://github.com/CDFriend">
+				<img src="https://avatars.githubusercontent.com/u/8661121?s=72&u=0807e76181f855054bbb34b0c00ec2c12516f87b&v=4" width="24" alt="Avatar of CDFriend"> CDFriend
+			</a><br/>
+			Charlie Friend
+		</td>
+		<td>Reliable Controls </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia, Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>856</td>
+		<td>
+			<a href="https://github.com/planeguy">
+				<img src="https://avatars.githubusercontent.com/u/646355?s=72&v=4" width="24" alt="Avatar of planeguy"> planeguy
+			</a><br/>
+			Delek Turner
+		</td>
+		<td>@cityofvictoria  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>857</td>
+		<td>
+			<a href="https://github.com/lmcewen">
+				<img src="https://avatars.githubusercontent.com/u/7727189?s=72&u=c333a5c2e0234b1de9e8551013323f3102f3fe92&v=4" width="24" alt="Avatar of lmcewen"> lmcewen
+			</a><br/>
+			Lisa McEwen
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/lmcewen">lmcewen</a></td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>858</td>
+		<td>
+			<a href="https://github.com/matteoaiello">
+				<img src="https://avatars.githubusercontent.com/u/47127542?s=72&u=b3a35347aa5fe1359e861009bbcdc67b15a2cd13&v=4" width="24" alt="Avatar of matteoaiello"> matteoaiello
+			</a><br/>
+			Matteo Aiello
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>859</td>
+		<td>
+			<a href="https://github.com/halfbakedsneed">
+				<img src="https://avatars.githubusercontent.com/u/10358311?s=72&u=43c433027d03b536138e92a099c2f2175c81c089&v=4" width="24" alt="Avatar of halfbakedsneed"> halfbakedsneed
+			</a><br/>
+			Jayden Park
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>860</td>
+		<td>
+			<a href="https://github.com/kerriwait">
+				<img src="https://avatars.githubusercontent.com/u/2898525?s=72&u=55b95bece8faa4ccc11a7d8903ab3a8ee4ac1a13&v=4" width="24" alt="Avatar of kerriwait"> kerriwait
+			</a><br/>
+			Kerri Wait
+		</td>
+		<td>Monash University </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>861</td>
+		<td>
+			<a href="https://github.com/davidbishoppp">
+				<img src="https://avatars.githubusercontent.com/u/44354267?s=72&u=f190759456f85acf10c33a4f589546d032ca2196&v=4" width="24" alt="Avatar of davidbishoppp"> davidbishoppp
+			</a><br/>
+			David Bishop
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>862</td>
+		<td>
+			<a href="https://github.com/thaggie">
+				<img src="https://avatars.githubusercontent.com/u/327611?s=72&v=4" width="24" alt="Avatar of thaggie"> thaggie
+			</a><br/>
+			Tom Haggie
+		</td>
+		<td>Splunk </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>863</td>
+		<td>
+			<a href="https://github.com/huqa">
+				<img src="https://avatars.githubusercontent.com/u/6361018?s=72&u=7c731b5240fa3fe787eba28ed80a289361f9e75e&v=4" width="24" alt="Avatar of huqa"> huqa
+			</a><br/>
+			Ville Riikonen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Finland / Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>864</td>
+		<td>
+			<a href="https://github.com/eva0034">
+				<img src="https://avatars.githubusercontent.com/u/30981083?s=72&u=5b95bfee8a30f7b322ab2b6cd845d0b0bd3c4734&v=4" width="24" alt="Avatar of eva0034"> eva0034
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>865</td>
+		<td>
+			<a href="https://github.com/snewaz643">
+				<img src="https://avatars.githubusercontent.com/u/19304959?s=72&u=595e03e281c8e2fafac20c386df723a3fb9609fb&v=4" width="24" alt="Avatar of snewaz643"> snewaz643
+			</a><br/>
+			AlgoTron
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>866</td>
+		<td>
+			<a href="https://github.com/stas2k">
+				<img src="https://avatars.githubusercontent.com/u/50859?s=72&v=4" width="24" alt="Avatar of stas2k"> stas2k
+			</a><br/>
+			Stas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>867</td>
+		<td>
+			<a href="https://github.com/steve-hof">
+				<img src="https://avatars.githubusercontent.com/u/25267815?s=72&v=4" width="24" alt="Avatar of steve-hof"> steve-hof
+			</a><br/>
+			Steve Hof
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>868</td>
+		<td>
+			<a href="https://github.com/MaxLynam">
+				<img src="https://avatars.githubusercontent.com/u/1394821?s=72&u=d2ea63caff617e1d7dbe123daac37d32cbebfb00&v=4" width="24" alt="Avatar of MaxLynam"> MaxLynam
+			</a><br/>
+			Max
+		</td>
+		<td>Isgood.ai </td>
+		<td><a href="https://twitter.com/itsMaxLynam">itsMaxLynam</a></td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>869</td>
+		<td>
+			<a href="https://github.com/theDingKing">
+				<img src="https://avatars.githubusercontent.com/u/54053006?s=72&u=a00c3ce8ccb931a4b940fdbac5e5b5b0db7bb0f3&v=4" width="24" alt="Avatar of theDingKing"> theDingKing
+			</a><br/>
+			Stefan Esquivel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>870</td>
+		<td>
+			<a href="https://github.com/shahrum">
+				<img src="https://avatars.githubusercontent.com/u/1691490?s=72&u=1f398a105272b66593dc891cb61203b62f7dbfa9&v=4" width="24" alt="Avatar of shahrum"> shahrum
+			</a><br/>
+			Shahram Hosseinabadi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, VIctoria, Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>871</td>
+		<td>
+			<a href="https://github.com/natanbr">
+				<img src="https://avatars.githubusercontent.com/u/2639809?s=72&u=6cf1d4cc67b4f0a86d28d841957a0c4309570df5&v=4" width="24" alt="Avatar of natanbr"> natanbr
+			</a><br/>
+			Natan Braslavski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Canada, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>872</td>
+		<td>
+			<a href="https://github.com/ccoldwell">
+				<img src="https://avatars.githubusercontent.com/u/77068?s=72&u=7eb9e9ec07bb92c79c8429e1eb17b862abe6da4e&v=4" width="24" alt="Avatar of ccoldwell"> ccoldwell
+			</a><br/>
+			Chris Coldwell
+		</td>
+		<td>Quicksilver Software Development Inc<br/>-<br/>Https://quicksilver.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>873</td>
+		<td>
+			<a href="https://github.com/nicolaskvh">
+				<img src="https://avatars.githubusercontent.com/u/30166394?s=72&u=85c7d577b7d1da34268e79d0581a474faf50cbb9&v=4" width="24" alt="Avatar of nicolaskvh"> nicolaskvh
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>874</td>
+		<td>
+			<a href="https://github.com/timurzholudev">
+				<img src="https://avatars.githubusercontent.com/u/40488807?s=72&u=ef850b34fd860d9e18d95b577476f2708b3eb001&v=4" width="24" alt="Avatar of timurzholudev"> timurzholudev
+			</a><br/>
+			Timur Zholudev
+		</td>
+		<td>Betsson Group </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>875</td>
+		<td>
+			<a href="https://github.com/schwitzerm">
+				<img src="https://avatars.githubusercontent.com/u/22668586?s=72&v=4" width="24" alt="Avatar of schwitzerm"> schwitzerm
+			</a><br/>
+			Mitchell Schwitzer
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia, Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>876</td>
+		<td>
+			<a href="https://github.com/LungProtocol">
+				<img src="https://avatars.githubusercontent.com/u/64280570?s=72&u=2e6c9c5f5314345b8f4985957e5f9f267a813665&v=4" width="24" alt="Avatar of LungProtocol"> LungProtocol
+			</a><br/>
+			Lung Protocol (L2P)
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>877</td>
+		<td>
+			<a href="https://github.com/charlesperin">
+				<img src="https://avatars.githubusercontent.com/u/6230546?s=72&u=b6e2ac0942363cfe5117896ff8d52d142f247ebd&v=4" width="24" alt="Avatar of charlesperin"> charlesperin
+			</a><br/>
+			Charles Perin
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>878</td>
+		<td>
+			<a href="https://github.com/cdlindsa">
+				<img src="https://avatars.githubusercontent.com/u/59627815?s=72&u=3dc494f4874cba4ca2ef67be2842997cdcc848b6&v=4" width="24" alt="Avatar of cdlindsa"> cdlindsa
+			</a><br/>
+			Cameron Lindsay
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>879</td>
+		<td>
+			<a href="https://github.com/noahrondeau">
+				<img src="https://avatars.githubusercontent.com/u/9671728?s=72&u=d06a50050993715e22b33b0a94f74b854994759a&v=4" width="24" alt="Avatar of noahrondeau"> noahrondeau
+			</a><br/>
+			Noah Rondeau
+		</td>
+		<td>Intel </td>
+		<td>No Twitter Username</td>
+		<td>Victoria. BC, Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>880</td>
+		<td>
+			<a href="https://github.com/jschnare">
+				<img src="https://avatars.githubusercontent.com/u/246309?s=72&v=4" width="24" alt="Avatar of jschnare"> jschnare
+			</a><br/>
+			John Schnare
+		</td>
+		<td>Kano/apps </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>881</td>
+		<td>
+			<a href="https://github.com/joeyoung">
+				<img src="https://avatars.githubusercontent.com/u/1380959?s=72&v=4" width="24" alt="Avatar of joeyoung"> joeyoung
+			</a><br/>
+			Joe Young
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>882</td>
+		<td>
+			<a href="https://github.com/sasamil">
+				<img src="https://avatars.githubusercontent.com/u/18727169?s=72&v=4" width="24" alt="Avatar of sasamil"> sasamil
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>883</td>
+		<td>
+			<a href="https://github.com/clintonrocksmith">
+				<img src="https://avatars.githubusercontent.com/u/140419?s=72&v=4" width="24" alt="Avatar of clintonrocksmith"> clintonrocksmith
+			</a><br/>
+			Clinton Rocksmith
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ClintRocksmith">ClintRocksmith</a></td>
+		<td>Leongatha, Victoria, Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>884</td>
+		<td>
+			<a href="https://github.com/dbrowncode">
+				<img src="https://avatars.githubusercontent.com/u/14086160?s=72&u=b41e692317c9bf4235917eb8d1eef643deca192a&v=4" width="24" alt="Avatar of dbrowncode"> dbrowncode
+			</a><br/>
+			Dustin Brown
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>885</td>
+		<td>
+			<a href="https://github.com/nlivori">
+				<img src="https://avatars.githubusercontent.com/u/7957046?s=72&u=95edb6c6d155e6d57db6d903172a81e9f9536f4b&v=4" width="24" alt="Avatar of nlivori"> nlivori
+			</a><br/>
+			Nikolai Livori
+		</td>
+		<td>Nl </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>886</td>
+		<td>
+			<a href="https://github.com/sidmclaughlin">
+				<img src="https://avatars.githubusercontent.com/u/957385?s=72&v=4" width="24" alt="Avatar of sidmclaughlin"> sidmclaughlin
+			</a><br/>
+			Sid McLaughlin
+		</td>
+		<td>M </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>887</td>
+		<td>
+			<a href="https://github.com/Bruce-N-Smith">
+				<img src="https://avatars.githubusercontent.com/u/52583812?s=72&u=e4a3ba0cd6a8356af321125cd0e9a054447b6209&v=4" width="24" alt="Avatar of Bruce-N-Smith"> Bruce-N-Smith
+			</a><br/>
+			Bruce-N-Smith
+		</td>
+		<td>@bcgov </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>888</td>
+		<td>
+			<a href="https://github.com/jsheff">
+				<img src="https://avatars.githubusercontent.com/u/282955?s=72&v=4" width="24" alt="Avatar of jsheff"> jsheff
+			</a><br/>
+			Joyce Sheffield
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>889</td>
+		<td>
+			<a href="https://github.com/bvella">
+				<img src="https://avatars.githubusercontent.com/u/7090236?s=72&u=0b1b0acafa7827abcf49b020b05c2c02b49087c5&v=4" width="24" alt="Avatar of bvella"> bvella
+			</a><br/>
+			Brian Vella
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>890</td>
+		<td>
+			<a href="https://github.com/davidedwardclark">
+				<img src="https://avatars.githubusercontent.com/u/1013637?s=72&u=7197e19540a4ed08482e2f941f83f66eb379211e&v=4" width="24" alt="Avatar of davidedwardclark"> davidedwardclark
+			</a><br/>
+			David Edward Clark
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>891</td>
+		<td>
+			<a href="https://github.com/mcac0006">
+				<img src="https://avatars.githubusercontent.com/u/3479439?s=72&u=55d124dadb49a04f655ea412c223c5446031a4e4&v=4" width="24" alt="Avatar of mcac0006"> mcac0006
+			</a><br/>
+			Matthew Cachia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta, Europe</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>892</td>
+		<td>
+			<a href="https://github.com/samthecodingman">
+				<img src="https://avatars.githubusercontent.com/u/17465738?s=72&u=30052ec71cd7b6cb47fa26f16fb198b61ce48104&v=4" width="24" alt="Avatar of samthecodingman"> samthecodingman
+			</a><br/>
+			Samuel Jones
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>893</td>
+		<td>
+			<a href="https://github.com/alejandrod">
+				<img src="https://avatars.githubusercontent.com/u/496841?s=72&v=4" width="24" alt="Avatar of alejandrod"> alejandrod
+			</a><br/>
+			Alejandro Diaz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC, Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>894</td>
+		<td>
+			<a href="https://github.com/KhaledGabr">
+				<img src="https://avatars.githubusercontent.com/u/17038667?s=72&v=4" width="24" alt="Avatar of KhaledGabr"> KhaledGabr
+			</a><br/>
+			Khaled Gabr
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>895</td>
+		<td>
+			<a href="https://github.com/jonpavelich">
+				<img src="https://avatars.githubusercontent.com/u/1972632?s=72&u=006a32fecef6690a8e6cf60c4687a3020faa5a0b&v=4" width="24" alt="Avatar of jonpavelich"> jonpavelich
+			</a><br/>
+			Jon Pavelich
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>896</td>
+		<td>
+			<a href="https://github.com/jpatts">
+				<img src="https://avatars.githubusercontent.com/u/14956156?s=72&u=041961596e66f1c63c746d93bd989c50513e4545&v=4" width="24" alt="Avatar of jpatts"> jpatts
+			</a><br/>
+			Jordan Patterson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>897</td>
+		<td>
+			<a href="https://github.com/rrhvella">
+				<img src="https://avatars.githubusercontent.com/u/678295?s=72&v=4" width="24" alt="Avatar of rrhvella"> rrhvella
+			</a><br/>
+			Robert Vella
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>898</td>
+		<td>
+			<a href="https://github.com/yhersh">
+				<img src="https://avatars.githubusercontent.com/u/240249?s=72&u=42857f4fb7ae8748621d424537322141ff8cce39&v=4" width="24" alt="Avatar of yhersh"> yhersh
+			</a><br/>
+			Yaron Hersh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>899</td>
+		<td>
+			<a href="https://github.com/codegoat">
+				<img src="https://avatars.githubusercontent.com/u/1648806?s=72&u=050800152b93c10a68ad12abaf00ae4e11378b84&v=4" width="24" alt="Avatar of codegoat"> codegoat
+			</a><br/>
+			Travis Simpson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>900</td>
+		<td>
+			<a href="https://github.com/Bitwings">
+				<img src="https://avatars.githubusercontent.com/u/48255016?s=72&u=41552603c319e0a9de8bfa36340aa851df3d3e72&v=4" width="24" alt="Avatar of Bitwings"> Bitwings
+			</a><br/>
+			Bitwings
+		</td>
+		<td>Bitwings Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>901</td>
+		<td>
+			<a href="https://github.com/kguil">
+				<img src="https://avatars.githubusercontent.com/u/4751880?s=72&u=3d39453f6ce21b79ed9df1b973af9f0901d9f78f&v=4" width="24" alt="Avatar of kguil"> kguil
+			</a><br/>
+			Kristian Guillaumier
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>902</td>
+		<td>
+			<a href="https://github.com/HelenKing029">
+				<img src="https://avatars.githubusercontent.com/u/17287158?s=72&u=11340b636c528e140552b38707cc2c532e6b2d22&v=4" width="24" alt="Avatar of HelenKing029"> HelenKing029
+			</a><br/>
+			Helen King
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>903</td>
+		<td>
+			<a href="https://github.com/at0mat">
+				<img src="https://avatars.githubusercontent.com/u/903836?s=72&v=4" width="24" alt="Avatar of at0mat"> at0mat
+			</a><br/>
+			Matt Watson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>904</td>
+		<td>
+			<a href="https://github.com/linleyf">
+				<img src="https://avatars.githubusercontent.com/u/6992484?s=72&u=836022b019a7cdc0bde4ba74a7ecf67b50963b1b&v=4" width="24" alt="Avatar of linleyf"> linleyf
+			</a><br/>
+			Linley Faulkner
+		</td>
+		<td>Linley Faulkner </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>905</td>
+		<td>
+			<a href="https://github.com/Webinaut">
+				<img src="https://avatars.githubusercontent.com/u/24912136?s=72&v=4" width="24" alt="Avatar of Webinaut"> Webinaut
+			</a><br/>
+			Martin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mansfield, Victoria, Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>906</td>
+		<td>
+			<a href="https://github.com/kagius">
+				<img src="https://avatars.githubusercontent.com/u/203545?s=72&v=4" width="24" alt="Avatar of kagius"> kagius
+			</a><br/>
+			Karl Agius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>907</td>
+		<td>
+			<a href="https://github.com/Kluny">
+				<img src="https://avatars.githubusercontent.com/u/310102?s=72&u=ad31a5b5d1f3048a6970918e99dc92d16086d4a6&v=4" width="24" alt="Avatar of Kluny"> Kluny
+			</a><br/>
+			Shannon
+		</td>
+		<td>Geeks On The Beach<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>908</td>
+		<td>
+			<a href="https://github.com/GhostProf">
+				<img src="https://avatars.githubusercontent.com/u/1824640?s=72&u=c47857fab261f17d5c27dde31e61f79dbc31dabb&v=4" width="24" alt="Avatar of GhostProf"> GhostProf
+			</a><br/>
+			Stephen Ross
+		</td>
+		<td>Modernist Versions Project </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>909</td>
+		<td>
+			<a href="https://github.com/CamMacFarlane">
+				<img src="https://avatars.githubusercontent.com/u/12651708?s=72&u=15bf5239275ed8be3114d96bfbedc7f0fef97e71&v=4" width="24" alt="Avatar of CamMacFarlane"> CamMacFarlane
+			</a><br/>
+			Cam Macfarlane
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>910</td>
+		<td>
+			<a href="https://github.com/Kasun1991">
+				<img src="https://avatars.githubusercontent.com/u/3829050?s=72&u=91022bf7e173cce0d361a68e569a5b22ecf54423&v=4" width="24" alt="Avatar of Kasun1991"> Kasun1991
+			</a><br/>
+			Kasun Gunathilaka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mernda 3754, Victoria, Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>911</td>
+		<td>
+			<a href="https://github.com/Trommelochse">
+				<img src="https://avatars.githubusercontent.com/u/20424292?s=72&u=890e8e2223692a2d00d1a28dca8f2e51e6df5bba&v=4" width="24" alt="Avatar of Trommelochse"> Trommelochse
+			</a><br/>
+			No Name
+		</td>
+		<td>Betsson Group </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>912</td>
+		<td>
+			<a href="https://github.com/MJAlonzo">
+				<img src="https://avatars.githubusercontent.com/u/1262156?s=72&v=4" width="24" alt="Avatar of MJAlonzo"> MJAlonzo
+			</a><br/>
+			Marc Alonzo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>913</td>
+		<td>
+			<a href="https://github.com/splank">
+				<img src="https://avatars.githubusercontent.com/u/13710042?s=72&u=b46f5d56f41d05285dba45d879dc05b303870ccf&v=4" width="24" alt="Avatar of splank"> splank
+			</a><br/>
+			Linda
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Valletta - M</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>914</td>
+		<td>
+			<a href="https://github.com/sofiavistas">
+				<img src="https://avatars.githubusercontent.com/u/2862329?s=72&u=c6ab1940aed0f223ff7b576148788667d86d5155&v=4" width="24" alt="Avatar of sofiavistas"> sofiavistas
+			</a><br/>
+			No Name
+		</td>
+		<td>Catena Media </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>915</td>
+		<td>
+			<a href="https://github.com/ali-web">
+				<img src="https://avatars.githubusercontent.com/u/3161055?s=72&u=68e025a6c5a65d193a69e5f6fbd698df895e6e44&v=4" width="24" alt="Avatar of ali-web"> ali-web
+			</a><br/>
+			Ali Dehghan
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>916</td>
+		<td>
+			<a href="https://github.com/pwinslow">
+				<img src="https://avatars.githubusercontent.com/u/10728120?s=72&u=12539e45e362c793caa1677732e8f65184ad5573&v=4" width="24" alt="Avatar of pwinslow"> pwinslow
+			</a><br/>
+			Peter Winslow
+		</td>
+		<td>Change.org </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>917</td>
+		<td>
+			<a href="https://github.com/oscarfroberg">
+				<img src="https://avatars.githubusercontent.com/u/406449?s=72&v=4" width="24" alt="Avatar of oscarfroberg"> oscarfroberg
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>918</td>
+		<td>
+			<a href="https://github.com/kjalen">
+				<img src="https://avatars.githubusercontent.com/u/6620814?s=72&u=b6fce040a09780498b2453e132f651448af4c138&v=4" width="24" alt="Avatar of kjalen"> kjalen
+			</a><br/>
+			Kjalen Hansen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>919</td>
+		<td>
+			<a href="https://github.com/dgorley">
+				<img src="https://avatars.githubusercontent.com/u/59886?s=72&u=af8a1231d3024aa3048d0178d73a0d9ab9e9eda0&v=4" width="24" alt="Avatar of dgorley"> dgorley
+			</a><br/>
+			Doug Gorley
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>920</td>
+		<td>
+			<a href="https://github.com/praveen-aot">
+				<img src="https://avatars.githubusercontent.com/u/9992231?s=72&u=bd1ef4b5445c635f95bff1647b8ed31901104ecb&v=4" width="24" alt="Avatar of praveen-aot"> praveen-aot
+			</a><br/>
+			Praveen Ramachandran
+		</td>
+		<td>Aot Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>921</td>
+		<td>
+			<a href="https://github.com/KimpleKe">
+				<img src="https://avatars.githubusercontent.com/u/4953762?s=72&u=24779e6112271c2252dc477b69e5ccb2ffb2660c&v=4" width="24" alt="Avatar of KimpleKe"> KimpleKe
+			</a><br/>
+			Kimple Ke
+		</td>
+		<td>National Australia Bank </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>922</td>
+		<td>
+			<a href="https://github.com/plingrat">
+				<img src="https://avatars.githubusercontent.com/u/14173028?s=72&u=14d14a8824759e9eee5979d902aeb7072df4c18e&v=4" width="24" alt="Avatar of plingrat"> plingrat
+			</a><br/>
+			Ma Hua
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>923</td>
+		<td>
+			<a href="https://github.com/slsewall">
+				<img src="https://avatars.githubusercontent.com/u/2972159?s=72&v=4" width="24" alt="Avatar of slsewall"> slsewall
+			</a><br/>
+			Samuel
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/slsewall">slsewall</a></td>
+		<td>Victoria, BC</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>924</td>
+		<td>
+			<a href="https://github.com/cathawk">
+				<img src="https://avatars.githubusercontent.com/u/2941209?s=72&u=33f616aeb7c70abfac51a2b5109459ee1bb5b7ed&v=4" width="24" alt="Avatar of cathawk"> cathawk
+			</a><br/>
+			Aaron Webster
+		</td>
+		<td>Varsity Tutors </td>
+		<td>No Twitter Username</td>
+		<td>VIctoria, BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>925</td>
+		<td>
+			<a href="https://github.com/tadhglewis">
+				<img src="https://avatars.githubusercontent.com/u/53756558?s=72&u=fe0237489bb625936d5362096981fa6450e59a59&v=4" width="24" alt="Avatar of tadhglewis"> tadhglewis
+			</a><br/>
+			Tadhg Lewis
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tadhglewis">tadhglewis</a></td>
+		<td>Geelong, Victoria, Australia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>926</td>
+		<td>
+			<a href="https://github.com/ijtan">
+				<img src="https://avatars.githubusercontent.com/u/11772153?s=72&u=539a4341cad61fd66ba000e2c78a700214b959e2&v=4" width="24" alt="Avatar of ijtan"> ijtan
+			</a><br/>
+			Ethan Zammit
+		</td>
+		<td>Kpmg </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>927</td>
+		<td>
+			<a href="https://github.com/josherickson">
+				<img src="https://avatars.githubusercontent.com/u/3978641?s=72&u=be729b6ab0c791f9ed4ed4f925a41abf81a63abc&v=4" width="24" alt="Avatar of josherickson"> josherickson
+			</a><br/>
+			Josh Erickson
+		</td>
+		<td>Lendesk @betterofficeapps </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, B.C.</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>928</td>
+		<td>
+			<a href="https://github.com/ninogonzales">
+				<img src="https://avatars.githubusercontent.com/u/10626145?s=72&u=e67486fc2e2d87e63e237a69065c958384dbaca1&v=4" width="24" alt="Avatar of ninogonzales"> ninogonzales
+			</a><br/>
+			Nino Gonzales
+		</td>
+		<td>Rooof </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>929</td>
+		<td>
+			<a href="https://github.com/at88mph">
+				<img src="https://avatars.githubusercontent.com/u/1671908?s=72&u=ee570999939c720a4b5df292a190e6729a3bfc1b&v=4" width="24" alt="Avatar of at88mph"> at88mph
+			</a><br/>
+			Dustin
+		</td>
+		<td>@opencadc  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia, Canada</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>930</td>
+		<td>
+			<a href="https://github.com/JohYoshida">
+				<img src="https://avatars.githubusercontent.com/u/20272417?s=72&u=a7fa8495919709a42387d5b5f80c9cede5c841e8&v=4" width="24" alt="Avatar of JohYoshida"> JohYoshida
+			</a><br/>
+			Joh Yoshida
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>931</td>
+		<td>
+			<a href="https://github.com/alibahrami633">
+				<img src="https://avatars.githubusercontent.com/u/20086180?s=72&u=6450ec949eff0399277a5d33653f3ad3cd2e6d3c&v=4" width="24" alt="Avatar of alibahrami633"> alibahrami633
+			</a><br/>
+			Ali Bahrami
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AliBahr32339771">AliBahr32339771</a></td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>932</td>
+		<td>
+			<a href="https://github.com/Lakistein">
+				<img src="https://avatars.githubusercontent.com/u/9079888?s=72&u=93a4830bd9407c5cae6de33fd1135b4f3eb3702c&v=4" width="24" alt="Avatar of Lakistein"> Lakistein
+			</a><br/>
+			Lazar Lazarevic
+		</td>
+		<td>Betsson Group </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>933</td>
+		<td>
+			<a href="https://github.com/jkirkwin">
+				<img src="https://avatars.githubusercontent.com/u/25494065?s=72&u=d47b249bfdf80981a8c594aff8a7a5573a454c3e&v=4" width="24" alt="Avatar of jkirkwin"> jkirkwin
+			</a><br/>
+			Jamie Kirkwin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>934</td>
+		<td>
+			<a href="https://github.com/jstep">
+				<img src="https://avatars.githubusercontent.com/u/3357628?s=72&v=4" width="24" alt="Avatar of jstep"> jstep
+			</a><br/>
+			James Stephaniuk
+		</td>
+		<td>@bambora-na   </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>935</td>
+		<td>
+			<a href="https://github.com/rjbergerud">
+				<img src="https://avatars.githubusercontent.com/u/10406289?s=72&u=54fcd4196ee34522be748a035760baa957c2c587&v=4" width="24" alt="Avatar of rjbergerud"> rjbergerud
+			</a><br/>
+			Ryder
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>936</td>
+		<td>
+			<a href="https://github.com/VanWieren">
+				<img src="https://avatars.githubusercontent.com/u/58611315?s=72&u=c0942526f98d4da75652d7e699d5caf84a1850c4&v=4" width="24" alt="Avatar of VanWieren"> VanWieren
+			</a><br/>
+			Connor van Wieren
+		</td>
+		<td>University Of Victoria </td>
+		<td><a href="https://twitter.com/ConnorvanWieren">ConnorvanWieren</a></td>
+		<td>Victoria, British Columbia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>937</td>
+		<td>
+			<a href="https://github.com/tramung">
+				<img src="https://avatars.githubusercontent.com/u/22570967?s=72&v=4" width="24" alt="Avatar of tramung"> tramung
+			</a><br/>
+			Tram Ung
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>938</td>
+		<td>
+			<a href="https://github.com/omnisci3nce">
+				<img src="https://avatars.githubusercontent.com/u/17525998?s=72&v=4" width="24" alt="Avatar of omnisci3nce"> omnisci3nce
+			</a><br/>
+			Joshua Rowe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>939</td>
+		<td>
+			<a href="https://github.com/pimlock">
+				<img src="https://avatars.githubusercontent.com/u/1116309?s=72&u=f245d30897a435e7ac308f48229103d0fc35f737&v=4" width="24" alt="Avatar of pimlock"> pimlock
+			</a><br/>
+			Piotr Mlocek
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>940</td>
+		<td>
+			<a href="https://github.com/a199929abc">
+				<img src="https://avatars.githubusercontent.com/u/37200182?s=72&u=6d75db6f93818d6565e54a0279f7413c8dcd2c6e&v=4" width="24" alt="Avatar of a199929abc"> a199929abc
+			</a><br/>
+			Kaiheng Zhang
+		</td>
+		<td>Ocean Networks Canada </td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>941</td>
+		<td>
+			<a href="https://github.com/Lawrencemm">
+				<img src="https://avatars.githubusercontent.com/u/7007199?s=72&u=a313ed85e4eb61200389bb64bff4ac8b239746fa&v=4" width="24" alt="Avatar of Lawrencemm"> Lawrencemm
+			</a><br/>
+			Lawrence Millar-Madigan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>942</td>
+		<td>
+			<a href="https://github.com/YongLuo007">
+				<img src="https://avatars.githubusercontent.com/u/10466684?s=72&u=5fa8d37b376dedc85208cd5ddd5ff787ecdc93af&v=4" width="24" alt="Avatar of YongLuo007"> YongLuo007
+			</a><br/>
+			Yong Luo
+		</td>
+		<td>Province Of British Columbia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>943</td>
+		<td>
+			<a href="https://github.com/XanderHuggins">
+				<img src="https://avatars.githubusercontent.com/u/45410619?s=72&u=d23bf8b8a89a5029da59917672ab709aac43d669&v=4" width="24" alt="Avatar of XanderHuggins"> XanderHuggins
+			</a><br/>
+			XanderHuggins
+		</td>
+		<td>Uvic & Giws <br/></td>
+		<td><a href="https://twitter.com/xander_huggins">xander_huggins</a></td>
+		<td>Victoria/Toronto/Saskatoon</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>944</td>
+		<td>
+			<a href="https://github.com/terahn">
+				<img src="https://avatars.githubusercontent.com/u/23760949?s=72&u=9182d8d602285c507a1e88a0629785323b2f8703&v=4" width="24" alt="Avatar of terahn"> terahn
+			</a><br/>
+			Terahn Harrison
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>945</td>
+		<td>
+			<a href="https://github.com/looja1999">
+				<img src="https://avatars.githubusercontent.com/u/67297850?s=72&u=21e1f4e0586553e334c1e6981847dd41f856a5dd&v=4" width="24" alt="Avatar of looja1999"> looja1999
+			</a><br/>
+			Looja
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>946</td>
+		<td>
+			<a href="https://github.com/torreyr">
+				<img src="https://avatars.githubusercontent.com/u/19395461?s=72&u=17517b1bd4ac99d51b1ecf25b94365c1af7fa760&v=4" width="24" alt="Avatar of torreyr"> torreyr
+			</a><br/>
+			Torrey Randolph
+		</td>
+		<td>Reliable Controls </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>947</td>
+		<td>
+			<a href="https://github.com/magicyang25">
+				<img src="https://avatars.githubusercontent.com/u/2862732?s=72&u=a0e75af4fc785eec1ec269ab40d016f6ae1105de&v=4" width="24" alt="Avatar of magicyang25"> magicyang25
+			</a><br/>
+			MagicYang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne Victoria Australia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>948</td>
+		<td>
+			<a href="https://github.com/Ella-Minicola">
+				<img src="https://avatars.githubusercontent.com/u/40223523?s=72&u=c4eada9c35f783cee659fc89cf02551be1cae9e2&v=4" width="24" alt="Avatar of Ella-Minicola"> Ella-Minicola
+			</a><br/>
+			Ella Minicola
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>949</td>
+		<td>
+			<a href="https://github.com/chiabluepool">
+				<img src="https://avatars.githubusercontent.com/u/82785427?s=72&v=4" width="24" alt="Avatar of chiabluepool"> chiabluepool
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Valletta, Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>950</td>
+		<td>
+			<a href="https://github.com/albertgatt">
+				<img src="https://avatars.githubusercontent.com/u/8494566?s=72&u=6223852ad62f43fb35aa7bdd925318e71b2f1400&v=4" width="24" alt="Avatar of albertgatt"> albertgatt
+			</a><br/>
+			Albert Gatt
+		</td>
+		<td>University Of Malta </td>
+		<td><a href="https://twitter.com/bertugatt">bertugatt</a></td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>951</td>
+		<td>
+			<a href="https://github.com/ruisen2000">
+				<img src="https://avatars.githubusercontent.com/u/11380440?s=72&v=4" width="24" alt="Avatar of ruisen2000"> ruisen2000
+			</a><br/>
+			Greyson Wang
+		</td>
+		<td>Natural Resources Canada </td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>952</td>
+		<td>
+			<a href="https://github.com/rob4629">
+				<img src="https://avatars.githubusercontent.com/u/37812673?s=72&v=4" width="24" alt="Avatar of rob4629"> rob4629
+			</a><br/>
+			Rob Cooper
+		</td>
+		<td>Change.org </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, British Columbia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>953</td>
+		<td>
+			<a href="https://github.com/zeppu">
+				<img src="https://avatars.githubusercontent.com/u/7858320?s=72&u=71e09e74af633f76e6277a04ad371326d8907989&v=4" width="24" alt="Avatar of zeppu"> zeppu
+			</a><br/>
+			Joseph DeBono
+		</td>
+		<td>Glyde Software </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>954</td>
+		<td>
+			<a href="https://github.com/mazenello">
+				<img src="https://avatars.githubusercontent.com/u/12326484?s=72&u=c4c0dbfde4f1fbce481300177bf3d64daf63a502&v=4" width="24" alt="Avatar of mazenello"> mazenello
+			</a><br/>
+			Mazen Al Wafai
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>955</td>
+		<td>
+			<a href="https://github.com/ColinGJohnson">
+				<img src="https://avatars.githubusercontent.com/u/24801948?s=72&u=81f81e3101ba67b4ce720ef67cf51bd4714dc6e3&v=4" width="24" alt="Avatar of ColinGJohnson"> ColinGJohnson
+			</a><br/>
+			Colin Johnson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>956</td>
+		<td>
+			<a href="https://github.com/spirouac">
+				<img src="https://avatars.githubusercontent.com/u/8882391?s=72&u=54033f4a08785d48eb43f74a41424f29a13c07a7&v=4" width="24" alt="Avatar of spirouac"> spirouac
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>957</td>
+		<td>
+			<a href="https://github.com/danmorrison">
+				<img src="https://avatars.githubusercontent.com/u/753764?s=72&u=4266cd4d35210a196507b1db58f396086c4aa6dc&v=4" width="24" alt="Avatar of danmorrison"> danmorrison
+			</a><br/>
+			Daniel Morrison
+		</td>
+		<td>Pwc Australia </td>
+		<td>No Twitter Username</td>
+		<td>Brunswick, Victoria</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>958</td>
+		<td>
+			<a href="https://github.com/nickybu">
+				<img src="https://avatars.githubusercontent.com/u/7209407?s=72&v=4" width="24" alt="Avatar of nickybu"> nickybu
+			</a><br/>
+			Nicky Buttigieg
+		</td>
+		<td>Phalanx Software Ltd </td>
+		<td><a href="https://twitter.com/nicky__bu">nicky__bu</a></td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>959</td>
+		<td>
+			<a href="https://github.com/azriel46d">
+				<img src="https://avatars.githubusercontent.com/u/2339134?s=72&v=4" width="24" alt="Avatar of azriel46d"> azriel46d
+			</a><br/>
+			Michael DeGiovanni
+		</td>
+		<td>Minely </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>960</td>
+		<td>
+			<a href="https://github.com/mythagel">
+				<img src="https://avatars.githubusercontent.com/u/2679512?s=72&v=4" width="24" alt="Avatar of mythagel"> mythagel
+			</a><br/>
+			Nicholas Gill
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>961</td>
+		<td>
+			<a href="https://github.com/clintonroy">
+				<img src="https://avatars.githubusercontent.com/u/734256?s=72&v=4" width="24" alt="Avatar of clintonroy"> clintonroy
+			</a><br/>
+			Clinton Roy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>962</td>
+		<td>
+			<a href="https://github.com/marcolenzo">
+				<img src="https://avatars.githubusercontent.com/u/6007586?s=72&u=e218d9726136044f5c971366e314c1c28047c5f2&v=4" width="24" alt="Avatar of marcolenzo"> marcolenzo
+			</a><br/>
+			Marco Lenzo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>963</td>
+		<td>
+			<a href="https://github.com/amatzon">
+				<img src="https://avatars.githubusercontent.com/u/2286764?s=72&u=c2d3087fe88f7dc6660665c4991595e209185c12&v=4" width="24" alt="Avatar of amatzon"> amatzon
+			</a><br/>
+			Andras Matzon
+		</td>
+		<td>@betssongroup </td>
+		<td><a href="https://twitter.com/generousdesignr">generousdesignr</a></td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>964</td>
+		<td>
+			<a href="https://github.com/ridi-colo">
+				<img src="https://avatars.githubusercontent.com/u/73589800?s=72&u=715adb8df40a45a050c4164e88423b8f24063f97&v=4" width="24" alt="Avatar of ridi-colo"> ridi-colo
+			</a><br/>
+			No Name
+		</td>
+		<td>Bookport </td>
+		<td><a href="https://twitter.com/cromorex">cromorex</a></td>
+		<td>malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>965</td>
+		<td>
+			<a href="https://github.com/macdonaldezra">
+				<img src="https://avatars.githubusercontent.com/u/19656633?s=72&u=1b392e4768c75c70d3ecaff7c7c4774cc20ca125&v=4" width="24" alt="Avatar of macdonaldezra"> macdonaldezra
+			</a><br/>
+			Ezra MacDonald
+		</td>
+		<td>Revela Systems </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>966</td>
+		<td>
+			<a href="https://github.com/jonbartlett">
+				<img src="https://avatars.githubusercontent.com/u/119513?s=72&v=4" width="24" alt="Avatar of jonbartlett"> jonbartlett
+			</a><br/>
+			Jon Bartlett
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>967</td>
+		<td>
+			<a href="https://github.com/ItzRosey">
+				<img src="https://avatars.githubusercontent.com/u/63441064?s=72&u=38b2497f3a5fdc1aa316bdd3b93cbb9f5d167dd1&v=4" width="24" alt="Avatar of ItzRosey"> ItzRosey
+			</a><br/>
+			Jorja Sing
+		</td>
+		<td>@hyperadev @hyperajunior </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>968</td>
+		<td>
+			<a href="https://github.com/bijiaqing">
+				<img src="https://avatars.githubusercontent.com/u/44018629?s=72&u=43dca2df0b453d6652af96ef7c1da6086c62d3e2&v=4" width="24" alt="Avatar of bijiaqing"> bijiaqing
+			</a><br/>
+			Jiaqing Bi
+		</td>
+		<td>University Of Victoria </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>969</td>
+		<td>
+			<a href="https://github.com/mrnz">
+				<img src="https://avatars.githubusercontent.com/u/4200667?s=72&v=4" width="24" alt="Avatar of mrnz"> mrnz
+			</a><br/>
+			Przemek Marciniak
+		</td>
+		<td>Betsson Group </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>970</td>
+		<td>
+			<a href="https://github.com/shawnritchie">
+				<img src="https://avatars.githubusercontent.com/u/12230715?s=72&u=48444d8268c208e1f83a657d063fc282e5993fcd&v=4" width="24" alt="Avatar of shawnritchie"> shawnritchie
+			</a><br/>
+			Shawn Ritchie
+		</td>
+		<td>Casumo </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>971</td>
+		<td>
+			<a href="https://github.com/sarahmizzi">
+				<img src="https://avatars.githubusercontent.com/u/11066256?s=72&u=911b55d90aee462f37c19234bf51026886edf168&v=4" width="24" alt="Avatar of sarahmizzi"> sarahmizzi
+			</a><br/>
+			Sarah Mizzi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>972</td>
+		<td>
+			<a href="https://github.com/ptraverse">
+				<img src="https://avatars.githubusercontent.com/u/2491817?s=72&v=4" width="24" alt="Avatar of ptraverse"> ptraverse
+			</a><br/>
+			Philippe Traverse
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>973</td>
+		<td>
+			<a href="https://github.com/nfeliciano">
+				<img src="https://avatars.githubusercontent.com/u/526508?s=72&u=9d8d326a64a3d9da7d210404d7109615ea6c05d2&v=4" width="24" alt="Avatar of nfeliciano"> nfeliciano
+			</a><br/>
+			Noel Feliciano
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>974</td>
+		<td>
+			<a href="https://github.com/ShovelHand">
+				<img src="https://avatars.githubusercontent.com/u/4934684?s=72&u=9bdd1a3fe816e838e6fd7c3cdc8c19e75fbba7cf&v=4" width="24" alt="Avatar of ShovelHand"> ShovelHand
+			</a><br/>
+			Alex Carmichael
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>975</td>
+		<td>
+			<a href="https://github.com/yuenboonyee">
+				<img src="https://avatars.githubusercontent.com/u/926716?s=72&v=4" width="24" alt="Avatar of yuenboonyee"> yuenboonyee
+			</a><br/>
+			Yuen Boon Yee
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria, Australia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>976</td>
+		<td>
+			<a href="https://github.com/v13inc">
+				<img src="https://avatars.githubusercontent.com/u/783190?s=72&v=4" width="24" alt="Avatar of v13inc"> v13inc
+			</a><br/>
+			Sean Clark
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>977</td>
+		<td>
+			<a href="https://github.com/qwertydude">
+				<img src="https://avatars.githubusercontent.com/u/129821?s=72&v=4" width="24" alt="Avatar of qwertydude"> qwertydude
+			</a><br/>
+			Chris Howard
+		</td>
+		<td>Pizazzwp </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>978</td>
+		<td>
+			<a href="https://github.com/jkgyyc">
+				<img src="https://avatars.githubusercontent.com/u/21287570?s=72&u=8f24975587f987c3062d7496a74af4bd907112c7&v=4" width="24" alt="Avatar of jkgyyc"> jkgyyc
+			</a><br/>
+			Jeremy Glenn
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>979</td>
+		<td>
+			<a href="https://github.com/kscerri">
+				<img src="https://avatars.githubusercontent.com/u/153515?s=72&v=4" width="24" alt="Avatar of kscerri"> kscerri
+			</a><br/>
+			Kenneth Scerri
+		</td>
+		<td>University Of Malta </td>
+		<td>No Twitter Username</td>
+		<td>Imsida, Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>980</td>
+		<td>
+			<a href="https://github.com/paulagent">
+				<img src="https://avatars.githubusercontent.com/u/418494?s=72&u=56b5ffeb9d5766f78f91d6eb071152729823e075&v=4" width="24" alt="Avatar of paulagent"> paulagent
+			</a><br/>
+			paulagent
+		</td>
+		<td>Uvic </td>
+		<td>No Twitter Username</td>
+		<td>Victoria/Canada</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>981</td>
+		<td>
+			<a href="https://github.com/matthewworner">
+				<img src="https://avatars.githubusercontent.com/u/10849222?s=72&u=53d6f8c7f49d623a31ca6a337be2730255b19151&v=4" width="24" alt="Avatar of matthewworner"> matthewworner
+			</a><br/>
+			Matthew Worner
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>982</td>
+		<td>
+			<a href="https://github.com/agehlers">
+				<img src="https://avatars.githubusercontent.com/u/15877733?s=72&u=ae7c93036e32e9fbfc09fab86b5f7ec73c7fadf0&v=4" width="24" alt="Avatar of agehlers"> agehlers
+			</a><br/>
+			Angelika Ehlers
+		</td>
+		<td>Bc Gov </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC, Canada</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>983</td>
+		<td>
+			<a href="https://github.com/abhishekchatrath">
+				<img src="https://avatars.githubusercontent.com/u/20395499?s=72&v=4" width="24" alt="Avatar of abhishekchatrath"> abhishekchatrath
+			</a><br/>
+			Abhishek Chatrath
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, B.C.</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>984</td>
+		<td>
+			<a href="https://github.com/alenb">
+				<img src="https://avatars.githubusercontent.com/u/659296?s=72&u=81cae6a4431849ea8e2771391c0dfd955de49ec6&v=4" width="24" alt="Avatar of alenb"> alenb
+			</a><br/>
+			Alen Birindzic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>985</td>
+		<td>
+			<a href="https://github.com/mxrosenthal">
+				<img src="https://avatars.githubusercontent.com/u/51834515?s=72&u=4807b663840cd09b31ed298097aef8675f4c5a41&v=4" width="24" alt="Avatar of mxrosenthal"> mxrosenthal
+			</a><br/>
+			Max Rosenthal
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>986</td>
+		<td>
+			<a href="https://github.com/AndrewRozendal">
+				<img src="https://avatars.githubusercontent.com/u/16727896?s=72&u=a17701e5a5c258b912087f847e58af5ec27f1855&v=4" width="24" alt="Avatar of AndrewRozendal"> AndrewRozendal
+			</a><br/>
+			Andrew Rozendal
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC, Canada</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>987</td>
+		<td>
+			<a href="https://github.com/marshallhaas">
+				<img src="https://avatars.githubusercontent.com/u/203555?s=72&v=4" width="24" alt="Avatar of marshallhaas"> marshallhaas
+			</a><br/>
+			Marshall Haas
+		</td>
+		<td>Metalab </td>
+		<td>No Twitter Username</td>
+		<td>Victoria, B.C.</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>988</td>
+		<td>
+			<a href="https://github.com/ksingbeil">
+				<img src="https://avatars.githubusercontent.com/u/43590205?s=72&u=07aa8088889d40d504bf8dab29f3a36bab5c1ac8&v=4" width="24" alt="Avatar of ksingbeil"> ksingbeil
+			</a><br/>
+			Kelsey Singbeil
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>989</td>
+		<td>
+			<a href="https://github.com/jackptoke">
+				<img src="https://avatars.githubusercontent.com/u/54049012?s=72&u=bd519615e981e10d36e2102bf3b4f7211705163b&v=4" width="24" alt="Avatar of jackptoke"> jackptoke
+			</a><br/>
+			Jack Toke
+		</td>
+		<td>Jack Toke </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, VICTORIA, AUSTRALIA</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>990</td>
+		<td>
+			<a href="https://github.com/camerond594">
+				<img src="https://avatars.githubusercontent.com/u/9914413?s=72&u=3d8090d9a272c3ce8c644453f9afc9682c915803&v=4" width="24" alt="Avatar of camerond594"> camerond594
+			</a><br/>
+			Cameron Day
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria, BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>991</td>
+		<td>
+			<a href="https://github.com/julianportelli">
+				<img src="https://avatars.githubusercontent.com/u/40712371?s=72&u=2bfc2292c58f82688c751ad226fae57aa4d6b05c&v=4" width="24" alt="Avatar of julianportelli"> julianportelli
+			</a><br/>
+			Julian
+		</td>
+		<td>Mita </td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>992</td>
+		<td>
+			<a href="https://github.com/gedig">
+				<img src="https://avatars.githubusercontent.com/u/2389958?s=72&v=4" width="24" alt="Avatar of gedig"> gedig
+			</a><br/>
+			Dylan Gedig
+		</td>
+		<td>Red Nexus Games </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>993</td>
+		<td>
+			<a href="https://github.com/technofreak">
+				<img src="https://avatars.githubusercontent.com/u/1102388?s=72&u=826ebce5dbf9896dc272e61e7fd33678c52a1eee&v=4" width="24" alt="Avatar of technofreak"> technofreak
+			</a><br/>
+			Parthan S Ramanujam
+		</td>
+		<td>Internet Business Systems Australia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Blackburn, Victoria, Australia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>994</td>
+		<td>
+			<a href="https://github.com/jesselcampbell">
+				<img src="https://avatars.githubusercontent.com/u/1103452?s=72&v=4" width="24" alt="Avatar of jesselcampbell"> jesselcampbell
+			</a><br/>
+			Jesse Campbell
+		</td>
+		<td>@partnercreative  </td>
+		<td><a href="https://twitter.com/jesselcampbell">jesselcampbell</a></td>
+		<td>Victoria, BC, Canada</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>995</td>
+		<td>
+			<a href="https://github.com/jcramirez">
+				<img src="https://avatars.githubusercontent.com/u/147471?s=72&u=d6dc43269e1c1470bc485cd41fa370da97d35891&v=4" width="24" alt="Avatar of jcramirez"> jcramirez
+			</a><br/>
+			Juan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>996</td>
+		<td>
+			<a href="https://github.com/MissHanaki">
+				<img src="https://avatars.githubusercontent.com/u/5019279?s=72&v=4" width="24" alt="Avatar of MissHanaki"> MissHanaki
+			</a><br/>
+			Alice
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>997</td>
+		<td>
+			<a href="https://github.com/euxneks">
+				<img src="https://avatars.githubusercontent.com/u/2761543?s=72&u=23dd39e324c46b25b13c015ba76a276e10026575&v=4" width="24" alt="Avatar of euxneks"> euxneks
+			</a><br/>
+			Chris Tooley
+		</td>
+		<td>@foundryspatial  </td>
+		<td>No Twitter Username</td>
+		<td>Victoria BC</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>998</td>
+		<td>
+			<a href="https://github.com/rmit-s3629990-Edmund-Hiew">
+				<img src="https://avatars.githubusercontent.com/u/21219565?s=72&u=506d54f0d39e3d402946eb2ae5b531ede9684313&v=4" width="24" alt="Avatar of rmit-s3629990-Edmund-Hiew"> rmit-s3629990-Edmund-Hiew
+			</a><br/>
+			Ed Hiew
+		</td>
+		<td>@newmanicspree </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne, Victoria</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>999</td>
+		<td>
+			<a href="https://github.com/gabalesev">
+				<img src="https://avatars.githubusercontent.com/u/1622033?s=72&v=4" width="24" alt="Avatar of gabalesev"> gabalesev
+			</a><br/>
+			Gab
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malta</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>1000</td>
+		<td>
+			<a href="https://github.com/rosco">
+				<img src="https://avatars.githubusercontent.com/u/43212?s=72&v=4" width="24" alt="Avatar of rosco"> rosco
+			</a><br/>
+			Ross Kendle
+		</td>
+		<td>Active Architexture Pty Ltd<br/></td>
+		<td>No Twitter Username</td>
+		<td>Victoria, Australia</td>
+		<td>5</td>
 	</tr>
 </table>
 
