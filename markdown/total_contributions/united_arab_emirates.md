@@ -1,15 +1,15 @@
-# Top GitHub Users By Total Contributions in United Arab Emirates [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
-[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+# Top GitHub Users By Total Contributions in United Arab Emirates [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/year.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
+[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2021/6/20 6:17 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2021/6/25 8:16 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
-There are `136 countries` and `675 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `28 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
+There are `29 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -108,8 +108,8 @@ There are `28 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@emirates </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>98</td>
-		<td>98</td>
+		<td>83</td>
+		<td>83</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -142,6 +142,20 @@ There are `28 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>4</td>
 		<td>
+			<a href="https://github.com/vaseemahmed01">
+				<img src="https://avatars.githubusercontent.com/u/6498283?s=72&u=dc26c977c229b63e5f83f315b934992602e93c47&v=4" width="24" alt="Avatar of vaseemahmed01"> vaseemahmed01
+			</a><br/>
+			Vaseem Ahmed
+		</td>
+		<td>Emirates Airlines </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
 			<a href="https://github.com/imluckyhussain">
 				<img src="https://avatars.githubusercontent.com/u/17722529?s=72&u=f0a5f31de910ab711867bd1accc194b8cd58b118&v=4" width="24" alt="Avatar of imluckyhussain"> imluckyhussain
 			</a><br/>
@@ -154,7 +168,7 @@ There are `28 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>5</td>
+		<td>6</td>
 		<td>
 			<a href="https://github.com/ShuaibAshroff">
 				<img src="https://avatars.githubusercontent.com/u/34267820?s=72&u=1d69e910fe86fddda26f55c5ce5f2960a063bddc&v=4" width="24" alt="Avatar of ShuaibAshroff"> ShuaibAshroff
@@ -168,7 +182,7 @@ There are `28 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>6</td>
+		<td>7</td>
 		<td>
 			<a href="https://github.com/Imanelwan">
 				<img src="https://avatars.githubusercontent.com/u/82947426?s=72&v=4" width="24" alt="Avatar of Imanelwan"> Imanelwan
@@ -182,7 +196,7 @@ There are `28 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>7</td>
+		<td>8</td>
 		<td>
 			<a href="https://github.com/EmiratesLab">
 				<img src="https://avatars.githubusercontent.com/u/80652112?s=72&u=8102ba8f0c01e4f2037b12cf8d2b14c2dbea65e5&v=4" width="24" alt="Avatar of EmiratesLab"> EmiratesLab
@@ -196,7 +210,7 @@ There are `28 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>8</td>
+		<td>9</td>
 		<td>
 			<a href="https://github.com/factscomputersoftware">
 				<img src="https://avatars.githubusercontent.com/u/17669270?s=72&u=c33259a352b9098d8fa19fcf09cc85cebba01dfd&v=4" width="24" alt="Avatar of factscomputersoftware"> factscomputersoftware
@@ -210,7 +224,21 @@ There are `28 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>9</td>
+		<td>10</td>
+		<td>
+			<a href="https://github.com/nafezitservices">
+				<img src="https://avatars.githubusercontent.com/u/86235787?s=72&u=72d11041fe033276c88e8d6315171a5626341557&v=4" width="24" alt="Avatar of nafezitservices"> nafezitservices
+			</a><br/>
+			NAFEZ IT SERVICES
+		</td>
+		<td>Nafez It Services </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>11</td>
 		<td>
 			<a href="https://github.com/itradiation">
 				<img src="https://avatars.githubusercontent.com/u/71599456?s=72&u=93a772f385286ad892718a9172952786c898eb92&v=4" width="24" alt="Avatar of itradiation"> itradiation
@@ -224,7 +252,7 @@ There are `28 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>10</td>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/hendrymichal">
 				<img src="https://avatars.githubusercontent.com/u/85982146?s=72&u=fc6fcd7320edb46975339de112aa6d6d68f77f93&v=4" width="24" alt="Avatar of hendrymichal"> hendrymichal
