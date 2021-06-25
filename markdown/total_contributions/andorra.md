@@ -1,13 +1,13 @@
-# Top GitHub Users By Total Contributions in Andorra [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
-[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+# Top GitHub Users By Total Contributions in Andorra [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/year.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
+[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2021/6/20 7:12 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2021/6/25 8:16 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
-There are `136 countries` and `675 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `166 users`  in Andorra. You need at least `0 followers` to be on this list.
 
