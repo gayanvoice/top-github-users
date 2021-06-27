@@ -1,13 +1,13 @@
-# Top GitHub Users By Followers in Croatia [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
-[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+# Top GitHub Users By Followers in Croatia [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/year.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
+[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" alt="Croatia">
 </a>
 
-The `number of followers` of users in Croatia on `2021/6/22 2:45 AM UTC`. This list contains users from `Croatia` and cities `Zagreb` `Split` `Dubrovnik` `Rijeka` `Osijek` `Zadar`.
+The `number of followers` of users in Croatia on `2021/6/27 3:24 AM UTC`. This list contains users from `Croatia` and cities `Zagreb` `Split` `Dubrovnik` `Rijeka` `Osijek` `Zadar`.
 
-There are `136 countries` and `675 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `1000 users`  in Croatia. You need at least `5 followers` to be on this list.
 
@@ -107,7 +107,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>Javascript Mastery </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>2062</td>
+		<td>2112</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -120,7 +120,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>1859</td>
+		<td>1860</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -133,7 +133,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>Very Big Things </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>1097</td>
+		<td>1108</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -146,7 +146,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>Human Interaction Company </td>
 		<td>No Twitter Username</td>
 		<td>Osijek, Croatia</td>
-		<td>623</td>
+		<td>626</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -159,7 +159,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>Bitfalls </td>
 		<td>No Twitter Username</td>
 		<td>Čakovec, Croatia</td>
-		<td>607</td>
+		<td>611</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -328,7 +328,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>Five </td>
 		<td>No Twitter Username</td>
 		<td>Rijeka, Croatia</td>
-		<td>179</td>
+		<td>180</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -367,23 +367,10 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>Web Platform News </td>
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
-		<td>136</td>
+		<td>135</td>
 	</tr>
 	<tr>
 		<td>22</td>
-		<td>
-			<a href="https://github.com/narimiran">
-				<img src="https://avatars.githubusercontent.com/u/16516130?s=72&u=d238aaeb7aa3fe1fb4f5aa5a1c11c77bedcc27bf&v=4" width="24" alt="Avatar of narimiran"> narimiran
-			</a><br/>
-			Miran
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Rijeka, Croatia</td>
-		<td>133</td>
-	</tr>
-	<tr>
-		<td>23</td>
 		<td>
 			<a href="https://github.com/zeljkofilipin">
 				<img src="https://avatars.githubusercontent.com/u/23927?s=72&v=4" width="24" alt="Avatar of zeljkofilipin"> zeljkofilipin
@@ -393,6 +380,19 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>Wikimedia Foundation </td>
 		<td><a href="https://twitter.com/zeljkofilipin">zeljkofilipin</a></td>
 		<td>Zagreb, Croatia</td>
+		<td>132</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/narimiran">
+				<img src="https://avatars.githubusercontent.com/u/16516130?s=72&u=d238aaeb7aa3fe1fb4f5aa5a1c11c77bedcc27bf&v=4" width="24" alt="Avatar of narimiran"> narimiran
+			</a><br/>
+			Miran
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rijeka, Croatia</td>
 		<td>132</td>
 	</tr>
 	<tr>
@@ -437,19 +437,6 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>27</td>
 		<td>
-			<a href="https://github.com/hermanzdosilovic">
-				<img src="https://avatars.githubusercontent.com/u/7927278?s=72&u=347a172d68fe35be01fe7b34a14cbe885e59deca&v=4" width="24" alt="Avatar of hermanzdosilovic"> hermanzdosilovic
-			</a><br/>
-			Herman Zvonimir Došilović
-		</td>
-		<td>@judge0 </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>123</td>
-	</tr>
-	<tr>
-		<td>28</td>
-		<td>
 			<a href="https://github.com/avail">
 				<img src="https://avatars.githubusercontent.com/u/2692729?s=72&u=7457069e495f848aa8fb1c0e5a1107e2cc0614c1&v=4" width="24" alt="Avatar of avail"> avail
 			</a><br/>
@@ -458,6 +445,19 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/spooky_avail">spooky_avail</a></td>
 		<td>Umag, Croatia</td>
+		<td>125</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
+			<a href="https://github.com/hermanzdosilovic">
+				<img src="https://avatars.githubusercontent.com/u/7927278?s=72&u=347a172d68fe35be01fe7b34a14cbe885e59deca&v=4" width="24" alt="Avatar of hermanzdosilovic"> hermanzdosilovic
+			</a><br/>
+			Herman Zvonimir Došilović
+		</td>
+		<td>@judge0 </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
 		<td>123</td>
 	</tr>
 	<tr>
@@ -523,7 +523,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>Razeware </td>
 		<td><a href="https://twitter.com/filbabic">filbabic</a></td>
 		<td>Osijek, Croatia</td>
-		<td>108</td>
+		<td>109</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -541,6 +541,19 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>35</td>
 		<td>
+			<a href="https://github.com/nbqofficial">
+				<img src="https://avatars.githubusercontent.com/u/34800923?s=72&u=76de8121a38ecf2e9ecc15eda008ef4d1e1fd84f&v=4" width="24" alt="Avatar of nbqofficial"> nbqofficial
+			</a><br/>
+			Dario
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nbqofficial">nbqofficial</a></td>
+		<td>Croatia</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
 			<a href="https://github.com/andreicek">
 				<img src="https://avatars.githubusercontent.com/u/1520965?s=72&u=23cc54bcb48b94d528e3340df573f178a80fc500&v=4" width="24" alt="Avatar of andreicek"> andreicek
 			</a><br/>
@@ -552,7 +565,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/tonkec">
 				<img src="https://avatars.githubusercontent.com/u/5020758?s=72&u=6a9b55a94872e2d9931a0862cfdc564f1414a09b&v=4" width="24" alt="Avatar of tonkec"> tonkec
@@ -565,7 +578,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/bstrahija">
 				<img src="https://avatars.githubusercontent.com/u/125499?s=72&v=4" width="24" alt="Avatar of bstrahija"> bstrahija
@@ -576,19 +589,6 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/strija">strija</a></td>
 		<td>Croatia, Čakovec</td>
 		<td>95</td>
-	</tr>
-	<tr>
-		<td>38</td>
-		<td>
-			<a href="https://github.com/nbqofficial">
-				<img src="https://avatars.githubusercontent.com/u/34800923?s=72&u=76de8121a38ecf2e9ecc15eda008ef4d1e1fd84f&v=4" width="24" alt="Avatar of nbqofficial"> nbqofficial
-			</a><br/>
-			Dario
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nbqofficial">nbqofficial</a></td>
-		<td>Croatia</td>
-		<td>94</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -627,7 +627,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb</td>
-		<td>90</td>
+		<td>89</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -679,7 +679,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>@laravelista @govisit </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>85</td>
+		<td>84</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -723,6 +723,19 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>49</td>
 		<td>
+			<a href="https://github.com/nenadmarkus">
+				<img src="https://avatars.githubusercontent.com/u/4717547?s=72&u=44d05e2b69f3b75e452ce5ed3519c43c769c22c7&v=4" width="24" alt="Avatar of nenadmarkus"> nenadmarkus
+			</a><br/>
+			Nenad Markuš
+		</td>
+		<td>Self-employed </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>
 			<a href="https://github.com/manpages">
 				<img src="https://avatars.githubusercontent.com/u/1005821?s=72&v=4" width="24" alt="Avatar of manpages"> manpages
 			</a><br/>
@@ -732,19 +745,6 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Latvia (Summer); Croatia (Winter)</td>
 		<td>81</td>
-	</tr>
-	<tr>
-		<td>50</td>
-		<td>
-			<a href="https://github.com/nenadmarkus">
-				<img src="https://avatars.githubusercontent.com/u/4717547?s=72&u=44d05e2b69f3b75e452ce5ed3519c43c769c22c7&v=4" width="24" alt="Avatar of nenadmarkus"> nenadmarkus
-			</a><br/>
-			Nenad Markuš
-		</td>
-		<td>Self-employed </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
-		<td>80</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -1009,6 +1009,19 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>71</td>
 		<td>
+			<a href="https://github.com/Zeko369">
+				<img src="https://avatars.githubusercontent.com/u/3064377?s=72&v=4" width="24" alt="Avatar of Zeko369"> Zeko369
+			</a><br/>
+			Fran Zekan
+		</td>
+		<td>@stemi-dev, @mundus-tech </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>59</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
 			<a href="https://github.com/dkorunic">
 				<img src="https://avatars.githubusercontent.com/u/3041939?s=72&u=fe7796715028a7bc7a1a1d5951f50c13e1e3aba1&v=4" width="24" alt="Avatar of dkorunic"> dkorunic
 			</a><br/>
@@ -1018,19 +1031,6 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
 		<td>59</td>
-	</tr>
-	<tr>
-		<td>72</td>
-		<td>
-			<a href="https://github.com/Zeko369">
-				<img src="https://avatars.githubusercontent.com/u/3064377?s=72&v=4" width="24" alt="Avatar of Zeko369"> Zeko369
-			</a><br/>
-			Fran Zekan
-		</td>
-		<td>@stemi-dev, @mundus-tech </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>58</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1269,6 +1269,19 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>91</td>
 		<td>
+			<a href="https://github.com/DarkoKukovec">
+				<img src="https://avatars.githubusercontent.com/u/480290?s=72&u=321f9d91c67ff7c85c192c020474e604156b33e7&v=4" width="24" alt="Avatar of DarkoKukovec"> DarkoKukovec
+			</a><br/>
+			Darko Kukovec
+		</td>
+		<td>@infinum </td>
+		<td><a href="https://twitter.com/DarkoKukovec">DarkoKukovec</a></td>
+		<td>Croatia</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>92</td>
+		<td>
 			<a href="https://github.com/neektza">
 				<img src="https://avatars.githubusercontent.com/u/816489?s=72&u=911a18f38c389707ae50c79f61080e5781f69aee&v=4" width="24" alt="Avatar of neektza"> neektza
 			</a><br/>
@@ -1280,7 +1293,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/mdimjasevic">
 				<img src="https://avatars.githubusercontent.com/u/6256391?s=72&u=9937f03567512835c3c385f7d2af9db9785e18df&v=4" width="24" alt="Avatar of mdimjasevic"> mdimjasevic
@@ -1293,29 +1306,16 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/monorkin">
-				<img src="https://avatars.githubusercontent.com/u/1655218?s=72&u=906c045a7a82bfb75318197f6ba1426f021cb3d3&v=4" width="24" alt="Avatar of monorkin"> monorkin
+				<img src="https://avatars.githubusercontent.com/u/1655218?s=72&u=9b0b590cafb44172dc9eb9f7bc4bf98a8d730a07&v=4" width="24" alt="Avatar of monorkin"> monorkin
 			</a><br/>
 			Stanko Krtalić
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/monorkin">monorkin</a></td>
 		<td>Zagreb</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
-			<a href="https://github.com/DarkoKukovec">
-				<img src="https://avatars.githubusercontent.com/u/480290?s=72&u=321f9d91c67ff7c85c192c020474e604156b33e7&v=4" width="24" alt="Avatar of DarkoKukovec"> DarkoKukovec
-			</a><br/>
-			Darko Kukovec
-		</td>
-		<td>@infinum </td>
-		<td><a href="https://twitter.com/DarkoKukovec">DarkoKukovec</a></td>
-		<td>Croatia</td>
 		<td>47</td>
 	</tr>
 	<tr>
@@ -1373,19 +1373,6 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>99</td>
 		<td>
-			<a href="https://github.com/dkarlovi">
-				<img src="https://avatars.githubusercontent.com/u/209225?s=72&v=4" width="24" alt="Avatar of dkarlovi"> dkarlovi
-			</a><br/>
-			Dalibor Karlović
-		</td>
-		<td>@sigwinhq   </td>
-		<td><a href="https://twitter.com/dkarlovi">dkarlovi</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
 			<a href="https://github.com/isovic">
 				<img src="https://avatars.githubusercontent.com/u/1976877?s=72&v=4" width="24" alt="Avatar of isovic"> isovic
 			</a><br/>
@@ -1397,7 +1384,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/marioloncarek">
 				<img src="https://avatars.githubusercontent.com/u/11228203?s=72&u=e1b40522a9b9606cc9bd779ea509ed52d1c96da6&v=4" width="24" alt="Avatar of marioloncarek"> marioloncarek
@@ -1410,7 +1397,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>102</td>
+		<td>101</td>
 		<td>
 			<a href="https://github.com/ivoras">
 				<img src="https://avatars.githubusercontent.com/u/2300424?s=72&v=4" width="24" alt="Avatar of ivoras"> ivoras
@@ -1423,20 +1410,20 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>103</td>
+		<td>102</td>
 		<td>
-			<a href="https://github.com/ivantopo">
-				<img src="https://avatars.githubusercontent.com/u/1302854?s=72&u=6be15f5c3f1bd6ae6cd2f113198e33f07a5d00b7&v=4" width="24" alt="Avatar of ivantopo"> ivantopo
+			<a href="https://github.com/dkarlovi">
+				<img src="https://avatars.githubusercontent.com/u/209225?s=72&v=4" width="24" alt="Avatar of dkarlovi"> dkarlovi
 			</a><br/>
-			Ivan Topolnjak
+			Dalibor Karlović
 		</td>
-		<td>@kamon-io  </td>
-		<td>No Twitter Username</td>
-		<td>Zagreb</td>
+		<td>@sigwinhq   </td>
+		<td><a href="https://twitter.com/dkarlovi">dkarlovi</a></td>
+		<td>Zagreb, Croatia</td>
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>104</td>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/nikolaplejic">
 				<img src="https://avatars.githubusercontent.com/u/347846?s=72&u=55eef26308b097ed7ff0af57c81168f3d3185328&v=4" width="24" alt="Avatar of nikolaplejic"> nikolaplejic
@@ -1447,6 +1434,19 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
 		<td>45</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
+			<a href="https://github.com/ivantopo">
+				<img src="https://avatars.githubusercontent.com/u/1302854?s=72&u=6be15f5c3f1bd6ae6cd2f113198e33f07a5d00b7&v=4" width="24" alt="Avatar of ivantopo"> ivantopo
+			</a><br/>
+			Ivan Topolnjak
+		</td>
+		<td>@kamon-io  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>44</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -1672,19 +1672,6 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>122</td>
 		<td>
-			<a href="https://github.com/zcuric">
-				<img src="https://avatars.githubusercontent.com/u/1560102?s=72&u=1a664fa60169d070a21f800507e866b0c8bd898d&v=4" width="24" alt="Avatar of zcuric"> zcuric
-			</a><br/>
-			Zdravko Curic
-		</td>
-		<td>Extensionengine </td>
-		<td><a href="https://twitter.com/zcuric">zcuric</a></td>
-		<td>Split, Croatia</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
 			<a href="https://github.com/tomislav">
 				<img src="https://avatars.githubusercontent.com/u/656?s=72&u=7cd7bed6d7d1ddb45060ca9ae51cd0920aaeeeca&v=4" width="24" alt="Avatar of tomislav"> tomislav
 			</a><br/>
@@ -1696,7 +1683,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/jcavar">
 				<img src="https://avatars.githubusercontent.com/u/3751289?s=72&u=585d778da0c8c17a234ce5f9f6ecaa51b918d420&v=4" width="24" alt="Avatar of jcavar"> jcavar
@@ -1709,7 +1696,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/mrPjer">
 				<img src="https://avatars.githubusercontent.com/u/315346?s=72&u=f806015923fe4124863d3da0b2f70d9cea05df98&v=4" width="24" alt="Avatar of mrPjer"> mrPjer
@@ -1720,6 +1707,19 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
 		<td>37</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
+			<a href="https://github.com/zcuric">
+				<img src="https://avatars.githubusercontent.com/u/1560102?s=72&u=1a664fa60169d070a21f800507e866b0c8bd898d&v=4" width="24" alt="Avatar of zcuric"> zcuric
+			</a><br/>
+			Zdravko Curic
+		</td>
+		<td>Extensionengine </td>
+		<td><a href="https://twitter.com/zcuric">zcuric</a></td>
+		<td>Split, Croatia</td>
+		<td>36</td>
 	</tr>
 	<tr>
 		<td>126</td>
@@ -1789,19 +1789,6 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>131</td>
 		<td>
-			<a href="https://github.com/nticaric">
-				<img src="https://avatars.githubusercontent.com/u/824840?s=72&u=9eb6092900d2de25cb7392cad608f35c3302baa4&v=4" width="24" alt="Avatar of nticaric"> nticaric
-			</a><br/>
-			Nenad Ticaric
-		</td>
-		<td>Tnt Studio </td>
-		<td><a href="https://twitter.com/nticaric">nticaric</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>132</td>
-		<td>
 			<a href="https://github.com/MarinX">
 				<img src="https://avatars.githubusercontent.com/u/3714132?s=72&v=4" width="24" alt="Avatar of MarinX"> MarinX
 			</a><br/>
@@ -1811,6 +1798,19 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
 		<td>35</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>
+			<a href="https://github.com/nticaric">
+				<img src="https://avatars.githubusercontent.com/u/824840?s=72&u=9eb6092900d2de25cb7392cad608f35c3302baa4&v=4" width="24" alt="Avatar of nticaric"> nticaric
+			</a><br/>
+			Nenad Ticaric
+		</td>
+		<td>Tnt Studio </td>
+		<td><a href="https://twitter.com/nticaric">nticaric</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>34</td>
 	</tr>
 	<tr>
 		<td>133</td>
@@ -1893,19 +1893,6 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>139</td>
 		<td>
-			<a href="https://github.com/tomasinchoo">
-				<img src="https://avatars.githubusercontent.com/u/1217464?s=72&u=c4f3b3eb7b751866ba67f7f86049349f6e049e4c&v=4" width="24" alt="Avatar of tomasinchoo"> tomasinchoo
-			</a><br/>
-			Tomas Novoselić
-		</td>
-		<td>Inchoo Ltd. </td>
-		<td>No Twitter Username</td>
-		<td>Osijek, Croatia</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
 			<a href="https://github.com/vlado">
 				<img src="https://avatars.githubusercontent.com/u/5148?s=72&u=16a958717ad4cf89b260916f4ef52a9ef4aff433&v=4" width="24" alt="Avatar of vlado"> vlado
 			</a><br/>
@@ -1917,7 +1904,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/deva666">
 				<img src="https://avatars.githubusercontent.com/u/4548770?s=72&u=bacbe09b56deb68357fc068959cef680703d5bc4&v=4" width="24" alt="Avatar of deva666"> deva666
@@ -1930,7 +1917,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/itsJoKr">
 				<img src="https://avatars.githubusercontent.com/u/11093480?s=72&u=759594998fdeecffd8526559093fe98fe9449fff&v=4" width="24" alt="Avatar of itsJoKr"> itsJoKr
@@ -1940,6 +1927,19 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>Infinum </td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>142</td>
+		<td>
+			<a href="https://github.com/tomasinchoo">
+				<img src="https://avatars.githubusercontent.com/u/1217464?s=72&u=c4f3b3eb7b751866ba67f7f86049349f6e049e4c&v=4" width="24" alt="Avatar of tomasinchoo"> tomasinchoo
+			</a><br/>
+			Tomas Novoselić
+		</td>
+		<td>Inchoo Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
 		<td>32</td>
 	</tr>
 	<tr>
@@ -2218,19 +2218,6 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>164</td>
 		<td>
-			<a href="https://github.com/imrvelj">
-				<img src="https://avatars.githubusercontent.com/u/4303605?s=72&u=5fbbfd9a57381ee33b2102591b68854f779e8d6b&v=4" width="24" alt="Avatar of imrvelj"> imrvelj
-			</a><br/>
-			Ivan Mrvelj
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zagreb, Croatia</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>165</td>
-		<td>
 			<a href="https://github.com/bvego">
 				<img src="https://avatars.githubusercontent.com/u/26510644?s=72&u=65be8cb89475ffcf12e1da8af9ce11b321e7ea5a&v=4" width="24" alt="Avatar of bvego"> bvego
 			</a><br/>
@@ -2242,7 +2229,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/Cerovec">
 				<img src="https://avatars.githubusercontent.com/u/628039?s=72&u=91a1afbefa9ebf8a346687b0c86ca39a34906e96&v=4" width="24" alt="Avatar of Cerovec"> Cerovec
@@ -2255,7 +2242,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/lblasc">
 				<img src="https://avatars.githubusercontent.com/u/32152?s=72&u=3d0396fa4a4f620540d330164006b670103e8a8a&v=4" width="24" alt="Avatar of lblasc"> lblasc
@@ -2268,7 +2255,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/AleksandarDev">
 				<img src="https://avatars.githubusercontent.com/u/643171?s=72&u=25db6b3e78597dafe9465e3dc523995815d66a2e&v=4" width="24" alt="Avatar of AleksandarDev"> AleksandarDev
@@ -2281,7 +2268,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/ivancuric">
 				<img src="https://avatars.githubusercontent.com/u/2827047?s=72&u=b8ef575b398528a74b0752b3558a266daf6e6224&v=4" width="24" alt="Avatar of ivancuric"> ivancuric
@@ -2290,6 +2277,19 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		</td>
 		<td>Software Sauna </td>
 		<td><a href="https://twitter.com/_baxuz">_baxuz</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>169</td>
+		<td>
+			<a href="https://github.com/imrvelj">
+				<img src="https://avatars.githubusercontent.com/u/4303605?s=72&u=5fbbfd9a57381ee33b2102591b68854f779e8d6b&v=4" width="24" alt="Avatar of imrvelj"> imrvelj
+			</a><br/>
+			Ivan Mrvelj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Zagreb, Croatia</td>
 		<td>27</td>
 	</tr>
@@ -2426,6 +2426,19 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>180</td>
 		<td>
+			<a href="https://github.com/damirpristav">
+				<img src="https://avatars.githubusercontent.com/u/38659768?s=72&u=0c8e7fc18aab7e92308baebf638c553c7d80b992&v=4" width="24" alt="Avatar of damirpristav"> damirpristav
+			</a><br/>
+			Damir Pristav
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>181</td>
+		<td>
 			<a href="https://github.com/melezov">
 				<img src="https://avatars.githubusercontent.com/u/551485?s=72&v=4" width="24" alt="Avatar of melezov"> melezov
 			</a><br/>
@@ -2437,7 +2450,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/icota">
 				<img src="https://avatars.githubusercontent.com/u/762502?s=72&u=9d452bcc84e71f48f369a9a0a1f5be04ce80393f&v=4" width="24" alt="Avatar of icota"> icota
@@ -2450,7 +2463,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/krukru">
 				<img src="https://avatars.githubusercontent.com/u/10072630?s=72&u=8dd69c7a230e18d4cb98bf5dbd07d30a3965e9eb&v=4" width="24" alt="Avatar of krukru"> krukru
@@ -2463,7 +2476,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/Vatavuk">
 				<img src="https://avatars.githubusercontent.com/u/2067023?s=72&u=22b2a52b65306b7a248dc368cb7ba31af7cf3c71&v=4" width="24" alt="Avatar of Vatavuk"> Vatavuk
@@ -2476,7 +2489,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/djelic">
 				<img src="https://avatars.githubusercontent.com/u/33350?s=72&v=4" width="24" alt="Avatar of djelic"> djelic
@@ -2489,7 +2502,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/guycalledseven">
 				<img src="https://avatars.githubusercontent.com/u/1009843?s=72&u=132ca5512167e542a2acbc6c6e49dcd431642831&v=4" width="24" alt="Avatar of guycalledseven"> guycalledseven
@@ -2502,7 +2515,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/SoHotSoup">
 				<img src="https://avatars.githubusercontent.com/u/4589969?s=72&u=ca183bfb7e9471576b3e008f33a84b5119914792&v=4" width="24" alt="Avatar of SoHotSoup"> SoHotSoup
@@ -2515,7 +2528,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/dabrorius">
 				<img src="https://avatars.githubusercontent.com/u/690113?s=72&u=26f3343ffea0ab03c958959416c21d5c9af09b2e&v=4" width="24" alt="Avatar of dabrorius"> dabrorius
@@ -2528,7 +2541,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/DanijelHuis">
 				<img src="https://avatars.githubusercontent.com/u/5382135?s=72&u=77bc7f5cad7e6a6f7012f76fc4bef530733f5612&v=4" width="24" alt="Avatar of DanijelHuis"> DanijelHuis
@@ -2541,7 +2554,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>189</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/nikoinist">
 				<img src="https://avatars.githubusercontent.com/u/716045?s=72&v=4" width="24" alt="Avatar of nikoinist"> nikoinist
@@ -2554,7 +2567,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/HBelusca">
 				<img src="https://avatars.githubusercontent.com/u/1969829?s=72&u=f6603f6cfb228fbc16d2c47d5d9656833eed3591&v=4" width="24" alt="Avatar of HBelusca"> HBelusca
@@ -2567,7 +2580,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/synceye">
 				<img src="https://avatars.githubusercontent.com/u/50116007?s=72&u=fe1ece3cf22f982597376dd220346ca4f877adcd&v=4" width="24" alt="Avatar of synceye"> synceye
@@ -2580,7 +2593,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/apavlinovic">
 				<img src="https://avatars.githubusercontent.com/u/1139507?s=72&u=a542cf134de75a99ac172201e5db97b1afb87905&v=4" width="24" alt="Avatar of apavlinovic"> apavlinovic
@@ -2593,7 +2606,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/boris612">
 				<img src="https://avatars.githubusercontent.com/u/8102170?s=72&u=3a6b0b52a414f7414c3474c33670d944bce0aca2&v=4" width="24" alt="Avatar of boris612"> boris612
@@ -2606,7 +2619,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/iugrina">
 				<img src="https://avatars.githubusercontent.com/u/1000995?s=72&v=4" width="24" alt="Avatar of iugrina"> iugrina
@@ -2619,7 +2632,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/MaKuzman">
 				<img src="https://avatars.githubusercontent.com/u/37149324?s=72&u=d59c0476c2587c30593e1d0e56acda32e59c6c98&v=4" width="24" alt="Avatar of MaKuzman"> MaKuzman
@@ -2632,7 +2645,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>197</td>
 		<td>
 			<a href="https://github.com/psyburn">
 				<img src="https://avatars.githubusercontent.com/u/1889084?s=72&v=4" width="24" alt="Avatar of psyburn"> psyburn
@@ -2645,7 +2658,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/lecterror">
 				<img src="https://avatars.githubusercontent.com/u/80512?s=72&v=4" width="24" alt="Avatar of lecterror"> lecterror
@@ -2658,7 +2671,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/n1k3c">
 				<img src="https://avatars.githubusercontent.com/u/2992891?s=72&u=3945a0aa06379ae288756e24d10c9534449a7fb7&v=4" width="24" alt="Avatar of n1k3c"> n1k3c
@@ -2671,7 +2684,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/snovakovic">
 				<img src="https://avatars.githubusercontent.com/u/6170843?s=72&u=0a003a9a25506963a6dba13206d83c9287b24eb3&v=4" width="24" alt="Avatar of snovakovic"> snovakovic
@@ -2684,7 +2697,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/vkaracic">
 				<img src="https://avatars.githubusercontent.com/u/2808092?s=72&u=e2a56963710c0b7067f64f540b33b5123dbe1a69&v=4" width="24" alt="Avatar of vkaracic"> vkaracic
@@ -2697,20 +2710,20 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>202</td>
 		<td>
-			<a href="https://github.com/damirpristav">
-				<img src="https://avatars.githubusercontent.com/u/38659768?s=72&u=0c8e7fc18aab7e92308baebf638c553c7d80b992&v=4" width="24" alt="Avatar of damirpristav"> damirpristav
+			<a href="https://github.com/ldulcic">
+				<img src="https://avatars.githubusercontent.com/u/10235218?s=72&v=4" width="24" alt="Avatar of ldulcic"> ldulcic
 			</a><br/>
-			Damir Pristav
+			Luka Dulčić
 		</td>
-		<td>No Company</td>
+		<td>@arsfutura  </td>
 		<td>No Twitter Username</td>
-		<td>Croatia</td>
+		<td>Zagreb</td>
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/kristijanbartol">
 				<img src="https://avatars.githubusercontent.com/u/479983?s=72&u=ccca1e8a3faec504f0d14de05a2d0ad3d8dbe457&v=4" width="24" alt="Avatar of kristijanbartol"> kristijanbartol
@@ -2723,7 +2736,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/m-luketin">
 				<img src="https://avatars.githubusercontent.com/u/40004258?s=72&u=672727ccb8bb9f7161e6e23a7e26ce93e4940d18&v=4" width="24" alt="Avatar of m-luketin"> m-luketin
@@ -2736,7 +2749,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/LMesaric">
 				<img src="https://avatars.githubusercontent.com/u/30754033?s=72&u=7b5c99ca4af8dd6ffd351bac0f0937fcee304e49&v=4" width="24" alt="Avatar of LMesaric"> LMesaric
@@ -2749,7 +2762,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/ShendoXT">
 				<img src="https://avatars.githubusercontent.com/u/8411572?s=72&u=1a86c8a10c0d4c877f7b5e83ffc5c5200430d45b&v=4" width="24" alt="Avatar of ShendoXT"> ShendoXT
@@ -2762,7 +2775,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/kviksilver">
 				<img src="https://avatars.githubusercontent.com/u/427685?s=72&v=4" width="24" alt="Avatar of kviksilver"> kviksilver
@@ -2775,46 +2788,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>207</td>
-		<td>
-			<a href="https://github.com/shifi">
-				<img src="https://avatars.githubusercontent.com/u/2136477?s=72&u=870f933b968733f9d4e0e2d35e6643fde4e2d725&v=4" width="24" alt="Avatar of shifi"> shifi
-			</a><br/>
-			Marko Siftar
-		</td>
-		<td>@airbrake </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>23</td>
-	</tr>
-	<tr>
 		<td>208</td>
-		<td>
-			<a href="https://github.com/gotohr">
-				<img src="https://avatars.githubusercontent.com/u/864692?s=72&u=8a96566710bb1bc19526af58e2e6aa7039af1332&v=4" width="24" alt="Avatar of gotohr"> gotohr
-			</a><br/>
-			Ljubo Čanić
-		</td>
-		<td>Minus5 </td>
-		<td><a href="https://twitter.com/ljubo_canic">ljubo_canic</a></td>
-		<td>Zagreb</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/AAmanzi">
-				<img src="https://avatars.githubusercontent.com/u/45316208?s=72&u=74dd6971645eef622b26b6e47e0b55fa7be42206&v=4" width="24" alt="Avatar of AAmanzi"> AAmanzi
-			</a><br/>
-			Alex Amanzi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>210</td>
 		<td>
 			<a href="https://github.com/gboduljak">
 				<img src="https://avatars.githubusercontent.com/u/6610203?s=72&u=e0d7a8d68bd2ad2dddb9763f520dd2d846193a5d&v=4" width="24" alt="Avatar of gboduljak"> gboduljak
@@ -2827,16 +2801,42 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
+		<td>209</td>
+		<td>
+			<a href="https://github.com/gotohr">
+				<img src="https://avatars.githubusercontent.com/u/864692?s=72&u=8a96566710bb1bc19526af58e2e6aa7039af1332&v=4" width="24" alt="Avatar of gotohr"> gotohr
+			</a><br/>
+			Ljubo Čanić
+		</td>
+		<td>Minus5 </td>
+		<td><a href="https://twitter.com/ljubo_canic">ljubo_canic</a></td>
+		<td>Zagreb</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>210</td>
+		<td>
+			<a href="https://github.com/AAmanzi">
+				<img src="https://avatars.githubusercontent.com/u/45316208?s=72&u=74dd6971645eef622b26b6e47e0b55fa7be42206&v=4" width="24" alt="Avatar of AAmanzi"> AAmanzi
+			</a><br/>
+			Alex Amanzi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>23</td>
+	</tr>
+	<tr>
 		<td>211</td>
 		<td>
-			<a href="https://github.com/ldulcic">
-				<img src="https://avatars.githubusercontent.com/u/10235218?s=72&v=4" width="24" alt="Avatar of ldulcic"> ldulcic
+			<a href="https://github.com/okvik">
+				<img src="https://avatars.githubusercontent.com/u/58425080?s=72&u=ee0aae547c4aedf00a9a47d4b12fe67aff0ad0a6&v=4" width="24" alt="Avatar of okvik"> okvik
 			</a><br/>
-			Luka Dulčić
+			kvik
 		</td>
-		<td>@arsfutura  </td>
+		<td>A-b </td>
 		<td>No Twitter Username</td>
-		<td>Zagreb</td>
+		<td>Croatia</td>
 		<td>23</td>
 	</tr>
 	<tr>
@@ -2855,19 +2855,6 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>213</td>
 		<td>
-			<a href="https://github.com/MarioBlazek">
-				<img src="https://avatars.githubusercontent.com/u/6605175?s=72&u=fdeae209ebb48fc5896b36a6bfb68e2087bafbb2&v=4" width="24" alt="Avatar of MarioBlazek"> MarioBlazek
-			</a><br/>
-			Mario Blazek
-		</td>
-		<td>Q Agency </td>
-		<td><a href="https://twitter.com/phpanarchist">phpanarchist</a></td>
-		<td>Zagreb, Croatia</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>214</td>
-		<td>
 			<a href="https://github.com/MiroslavJelaska">
 				<img src="https://avatars.githubusercontent.com/u/2855316?s=72&u=c4062a46e39999c4f647810cb03adb25d4f6f32f&v=4" width="24" alt="Avatar of MiroslavJelaska"> MiroslavJelaska
 			</a><br/>
@@ -2879,7 +2866,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/antonioperic">
 				<img src="https://avatars.githubusercontent.com/u/2453151?s=72&u=95a79c2472483e87cce872d55d35ce3e8e9192cc&v=4" width="24" alt="Avatar of antonioperic"> antonioperic
@@ -2892,7 +2879,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/studosi">
 				<img src="https://avatars.githubusercontent.com/u/60903173?s=72&u=f15aa3fc23b27fc5780f2e027342edd96a216ab2&v=4" width="24" alt="Avatar of studosi"> studosi
@@ -2902,6 +2889,19 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zagreb</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>216</td>
+		<td>
+			<a href="https://github.com/filipkristo">
+				<img src="https://avatars.githubusercontent.com/u/8782505?s=72&u=f70214b51b53e1ba4c9f17e50e2d9f451b74a42a&v=4" width="24" alt="Avatar of filipkristo"> filipkristo
+			</a><br/>
+			Filip Krišto
+		</td>
+		<td>Lilcodelab </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
 		<td>23</td>
 	</tr>
 	<tr>
@@ -2985,6 +2985,19 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>223</td>
 		<td>
+			<a href="https://github.com/shifi">
+				<img src="https://avatars.githubusercontent.com/u/2136477?s=72&u=870f933b968733f9d4e0e2d35e6643fde4e2d725&v=4" width="24" alt="Avatar of shifi"> shifi
+			</a><br/>
+			Marko Siftar
+		</td>
+		<td>@airbrake </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>224</td>
+		<td>
 			<a href="https://github.com/davidabram">
 				<img src="https://avatars.githubusercontent.com/u/7620347?s=72&u=e9c60c9796fe787fbf6f6f0183df5fd571347d07&v=4" width="24" alt="Avatar of davidabram"> davidabram
 			</a><br/>
@@ -2996,7 +3009,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/4nte">
 				<img src="https://avatars.githubusercontent.com/u/8070595?s=72&u=575b486b541afcab9e3531f31697d1ddad8db522&v=4" width="24" alt="Avatar of 4nte"> 4nte
@@ -3009,7 +3022,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/lpandzic">
 				<img src="https://avatars.githubusercontent.com/u/4463380?s=72&u=2a6751856d64b7fed16e3ee8253eceee49eb9d08&v=4" width="24" alt="Avatar of lpandzic"> lpandzic
@@ -3019,19 +3032,6 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vrbovec, Croatia</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>226</td>
-		<td>
-			<a href="https://github.com/okvik">
-				<img src="https://avatars.githubusercontent.com/u/58425080?s=72&u=ee0aae547c4aedf00a9a47d4b12fe67aff0ad0a6&v=4" width="24" alt="Avatar of okvik"> okvik
-			</a><br/>
-			kvik
-		</td>
-		<td>A-b </td>
-		<td>No Twitter Username</td>
-		<td>Croatia</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -3089,6 +3089,19 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>231</td>
 		<td>
+			<a href="https://github.com/MarioBlazek">
+				<img src="https://avatars.githubusercontent.com/u/6605175?s=72&u=fdeae209ebb48fc5896b36a6bfb68e2087bafbb2&v=4" width="24" alt="Avatar of MarioBlazek"> MarioBlazek
+			</a><br/>
+			Mario Blazek
+		</td>
+		<td>Q Agency </td>
+		<td><a href="https://twitter.com/phpanarchist">phpanarchist</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>232</td>
+		<td>
 			<a href="https://github.com/darko-mijic">
 				<img src="https://avatars.githubusercontent.com/u/4280521?s=72&u=8296ff0a60ad632b09278862673272031d58261e&v=4" width="24" alt="Avatar of darko-mijic"> darko-mijic
 			</a><br/>
@@ -3100,7 +3113,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/Ino-Bagaric">
 				<img src="https://avatars.githubusercontent.com/u/16362368?s=72&v=4" width="24" alt="Avatar of Ino-Bagaric"> Ino-Bagaric
@@ -3110,19 +3123,6 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Croatia</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>233</td>
-		<td>
-			<a href="https://github.com/filipkristo">
-				<img src="https://avatars.githubusercontent.com/u/8782505?s=72&u=f70214b51b53e1ba4c9f17e50e2d9f451b74a42a&v=4" width="24" alt="Avatar of filipkristo"> filipkristo
-			</a><br/>
-			Filip Krišto
-		</td>
-		<td>Lilcodelab </td>
-		<td>No Twitter Username</td>
-		<td>Split, Croatia</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -3349,6 +3349,19 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>251</td>
 		<td>
+			<a href="https://github.com/dkasak">
+				<img src="https://avatars.githubusercontent.com/u/463342?s=72&u=39d73e47728d2fc80f472acb7a3aa59facf7b54a&v=4" width="24" alt="Avatar of dkasak"> dkasak
+			</a><br/>
+			Denis Kasak
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/deniskasak">deniskasak</a></td>
+		<td>Croatia</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>
 			<a href="https://github.com/bpenovic">
 				<img src="https://avatars.githubusercontent.com/u/26341805?s=72&u=7dce776b77fd9da1bba1f9e649ddbaa184c03074&v=4" width="24" alt="Avatar of bpenovic"> bpenovic
 			</a><br/>
@@ -3360,7 +3373,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/ivapanic">
 				<img src="https://avatars.githubusercontent.com/u/56765117?s=72&u=0609db12b6c78add3f96b7b0cefe250f4aaad794&v=4" width="24" alt="Avatar of ivapanic"> ivapanic
@@ -3373,7 +3386,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/dario-zubovic">
 				<img src="https://avatars.githubusercontent.com/u/7289043?s=72&v=4" width="24" alt="Avatar of dario-zubovic"> dario-zubovic
@@ -3386,7 +3399,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/rakarec">
 				<img src="https://avatars.githubusercontent.com/u/14225827?s=72&u=1582e0d34d1c1447f97bd7f03ac3a74296207485&v=4" width="24" alt="Avatar of rakarec"> rakarec
@@ -3399,7 +3412,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/Breeder">
 				<img src="https://avatars.githubusercontent.com/u/7748689?s=72&u=cab9b75c091f719f51adced783581b6aca6dfe6f&v=4" width="24" alt="Avatar of Breeder"> Breeder
@@ -3412,7 +3425,7 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/zoka123">
 				<img src="https://avatars.githubusercontent.com/u/3052111?s=72&v=4" width="24" alt="Avatar of zoka123"> zoka123
@@ -3423,6 +3436,9665 @@ There are `1000 users`  in Croatia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Zagreb</td>
 		<td>20</td>
+	</tr>
+	<tr>
+		<td>258</td>
+		<td>
+			<a href="https://github.com/fergy">
+				<img src="https://avatars.githubusercontent.com/u/48640?s=72&v=4" width="24" alt="Avatar of fergy"> fergy
+			</a><br/>
+			Ramon-Tomislav Rebersak
+		</td>
+		<td>@aplit-soft @pure4team @aosperia <br/></td>
+		<td><a href="https://twitter.com/ramon_rebersak">ramon_rebersak</a></td>
+		<td>Croatia</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>259</td>
+		<td>
+			<a href="https://github.com/iskugor">
+				<img src="https://avatars.githubusercontent.com/u/878389?s=72&v=4" width="24" alt="Avatar of iskugor"> iskugor
+			</a><br/>
+			Ivan Škugor
+		</td>
+		<td>Teamwire </td>
+		<td>No Twitter Username</td>
+		<td>Šibenik, Croatia</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>260</td>
+		<td>
+			<a href="https://github.com/rebstastic">
+				<img src="https://avatars.githubusercontent.com/u/11444827?s=72&u=0adfebf251ecd0034fb1bd904d1ac42f2bfbac75&v=4" width="24" alt="Avatar of rebstastic"> rebstastic
+			</a><br/>
+			Petra Rebernjak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>261</td>
+		<td>
+			<a href="https://github.com/mislavjavor">
+				<img src="https://avatars.githubusercontent.com/u/15794792?s=72&u=d2898df5b5bee9b501f91a255ff03cd95f89febe&v=4" width="24" alt="Avatar of mislavjavor"> mislavjavor
+			</a><br/>
+			Mislav Javor
+		</td>
+		<td>Ampnet </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>262</td>
+		<td>
+			<a href="https://github.com/fpavetic">
+				<img src="https://avatars.githubusercontent.com/u/628487?s=72&u=139dd3b5b14a2347c6b5b74a433ca19c5f654851&v=4" width="24" alt="Avatar of fpavetic"> fpavetic
+			</a><br/>
+			Filip Pavetic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kriz/Zagreb</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>263</td>
+		<td>
+			<a href="https://github.com/SincerelyFaust">
+				<img src="https://avatars.githubusercontent.com/u/44751736?s=72&u=1f6f2dc40ad22191b35551cb4e642756b4bb37ff&v=4" width="24" alt="Avatar of SincerelyFaust"> SincerelyFaust
+			</a><br/>
+			Marin Heđeš
+		</td>
+		<td>@dahliaos @blissroms-x86 </td>
+		<td><a href="https://twitter.com/sincerelyfaust">sincerelyfaust</a></td>
+		<td>Croatia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>264</td>
+		<td>
+			<a href="https://github.com/fcagalj">
+				<img src="https://avatars.githubusercontent.com/u/7942241?s=72&u=db679dc23f9e3ed9dea046a3feda4500baa70a85&v=4" width="24" alt="Avatar of fcagalj"> fcagalj
+			</a><br/>
+			Frane Cagalj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>265</td>
+		<td>
+			<a href="https://github.com/ibudiselic">
+				<img src="https://avatars.githubusercontent.com/u/896620?s=72&v=4" width="24" alt="Avatar of ibudiselic"> ibudiselic
+			</a><br/>
+			Ivan Budiselic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>266</td>
+		<td>
+			<a href="https://github.com/mgrubisic">
+				<img src="https://avatars.githubusercontent.com/u/10792254?s=72&u=952e436bfc506f7c511dbb8bdec5a7dfcca9cb4d&v=4" width="24" alt="Avatar of mgrubisic"> mgrubisic
+			</a><br/>
+			Marin Grubišić
+		</td>
+		<td>University Of Osijek, Faculty<br/>Of<br/>Civil<br/>Engineering<br/>And<br/>Architecture<br/>Osijek<br/></td>
+		<td><a href="https://twitter.com/mgrubisic">mgrubisic</a></td>
+		<td>Osijek, Croatia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>267</td>
+		<td>
+			<a href="https://github.com/mariosemes">
+				<img src="https://avatars.githubusercontent.com/u/2343219?s=72&v=4" width="24" alt="Avatar of mariosemes"> mariosemes
+			</a><br/>
+			Mario Semeš
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>268</td>
+		<td>
+			<a href="https://github.com/aussieboi">
+				<img src="https://avatars.githubusercontent.com/u/2497323?s=72&u=189c706b73e0495b56688589447d3e46b8045f73&v=4" width="24" alt="Avatar of aussieboi"> aussieboi
+			</a><br/>
+			aussieboi
+		</td>
+		<td>@barrage </td>
+		<td><a href="https://twitter.com/_aussieboi">_aussieboi</a></td>
+		<td>Croatia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>269</td>
+		<td>
+			<a href="https://github.com/mgovorcin">
+				<img src="https://avatars.githubusercontent.com/u/26017189?s=72&u=0280cd0fdfb20d4780a97dbc3e33ba6e9fa9eb61&v=4" width="24" alt="Avatar of mgovorcin"> mgovorcin
+			</a><br/>
+			Marin Govorcin
+		</td>
+		<td>University Of Zagreb, Faculty<br/>Of<br/>Geodesy<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kaciceva 26, 10000 Zagreb. Croatia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>
+			<a href="https://github.com/d00rman">
+				<img src="https://avatars.githubusercontent.com/u/10210173?s=72&u=ec37a79bf57a64c20861d2bd45ab62cddea4ba00&v=4" width="24" alt="Avatar of d00rman"> d00rman
+			</a><br/>
+			Marko Obrovac
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rovinj, Croatia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>
+			<a href="https://github.com/zzavrski">
+				<img src="https://avatars.githubusercontent.com/u/4996328?s=72&u=9ac68daf381c8772a74b84ece662f6ed59c68ed1&v=4" width="24" alt="Avatar of zzavrski"> zzavrski
+			</a><br/>
+			Zoran
+		</td>
+		<td>Degordian </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
+			<a href="https://github.com/dpskvn">
+				<img src="https://avatars.githubusercontent.com/u/507189?s=72&u=f0b8df148d108d73b963c0886bf24eb3cad0b9fb&v=4" width="24" alt="Avatar of dpskvn"> dpskvn
+			</a><br/>
+			Dino Paskvan
+		</td>
+		<td>Nimium </td>
+		<td><a href="https://twitter.com/dpskvn">dpskvn</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>273</td>
+		<td>
+			<a href="https://github.com/vlaja">
+				<img src="https://avatars.githubusercontent.com/u/2030276?s=72&v=4" width="24" alt="Avatar of vlaja"> vlaja
+			</a><br/>
+			Vlatko Vlahek
+		</td>
+		<td>Prototyp </td>
+		<td><a href="https://twitter.com/vvlahek">vvlahek</a></td>
+		<td>Osijek, Croatia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>274</td>
+		<td>
+			<a href="https://github.com/mat2ja">
+				<img src="https://avatars.githubusercontent.com/u/46557266?s=72&u=1aeaf6234bb5856076445cef28c73610e2b97fdf&v=4" width="24" alt="Avatar of mat2ja"> mat2ja
+			</a><br/>
+			Matija Osrečki
+		</td>
+		<td>Infokarta D.o.o </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>275</td>
+		<td>
+			<a href="https://github.com/dalijap">
+				<img src="https://avatars.githubusercontent.com/u/35191789?s=72&u=e5fbacaa25d884d6a13c142fe2d51dba2053067b&v=4" width="24" alt="Avatar of dalijap"> dalijap
+			</a><br/>
+			Dalija Prasnikar
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dalijap">dalijap</a></td>
+		<td>Croatia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>276</td>
+		<td>
+			<a href="https://github.com/DorianSyruss">
+				<img src="https://avatars.githubusercontent.com/u/17720224?s=72&u=a5790fe985c9b9caff2f49a617440a4cf3a93b79&v=4" width="24" alt="Avatar of DorianSyruss"> DorianSyruss
+			</a><br/>
+			Ivan Saric
+		</td>
+		<td>Extension Engine </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>277</td>
+		<td>
+			<a href="https://github.com/ItsNature">
+				<img src="https://avatars.githubusercontent.com/u/29950356?s=72&u=42c8e033e9a5470e94afaa43bd37b58882ce275f&v=4" width="24" alt="Avatar of ItsNature"> ItsNature
+			</a><br/>
+			Matej Bučarić
+		</td>
+		<td>@moonsworth  </td>
+		<td><a href="https://twitter.com/mvnNature">mvnNature</a></td>
+		<td>Croatia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>278</td>
+		<td>
+			<a href="https://github.com/teodragovic">
+				<img src="https://avatars.githubusercontent.com/u/2872127?s=72&u=eae073dd69c7c6e47792686f48edd930dfc251f6&v=4" width="24" alt="Avatar of teodragovic"> teodragovic
+			</a><br/>
+			Teo Dragovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>279</td>
+		<td>
+			<a href="https://github.com/IvaLeder">
+				<img src="https://avatars.githubusercontent.com/u/13046162?s=72&u=cb6bb0504d92d620abc5164f513cc2b819989029&v=4" width="24" alt="Avatar of IvaLeder"> IvaLeder
+			</a><br/>
+			Iva
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>280</td>
+		<td>
+			<a href="https://github.com/dux">
+				<img src="https://avatars.githubusercontent.com/u/48320?s=72&v=4" width="24" alt="Avatar of dux"> dux
+			</a><br/>
+			Dino Reić
+		</td>
+		<td>Jrni </td>
+		<td>No Twitter Username</td>
+		<td>London, Zagreb, Munich</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>281</td>
+		<td>
+			<a href="https://github.com/matijagalina">
+				<img src="https://avatars.githubusercontent.com/u/23151476?s=72&u=d9c4fea337cb1aa8413b6214259bba9ed4815bb7&v=4" width="24" alt="Avatar of matijagalina"> matijagalina
+			</a><br/>
+			Matija Galina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>282</td>
+		<td>
+			<a href="https://github.com/zrumenjak">
+				<img src="https://avatars.githubusercontent.com/u/1282315?s=72&u=4e1a21f131756784f215b59ba090358652fdd1dc&v=4" width="24" alt="Avatar of zrumenjak"> zrumenjak
+			</a><br/>
+			Željko Rumenjak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>283</td>
+		<td>
+			<a href="https://github.com/mnalis">
+				<img src="https://avatars.githubusercontent.com/u/156656?s=72&v=4" width="24" alt="Avatar of mnalis"> mnalis
+			</a><br/>
+			Matija Nalis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>284</td>
+		<td>
+			<a href="https://github.com/DoDoENT">
+				<img src="https://avatars.githubusercontent.com/u/158844?s=72&v=4" width="24" alt="Avatar of DoDoENT"> DoDoENT
+			</a><br/>
+			DoDo
+		</td>
+		<td>@microblink </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>285</td>
+		<td>
+			<a href="https://github.com/napravicukod">
+				<img src="https://avatars.githubusercontent.com/u/2182708?s=72&u=1dc9eb589883af859e39507a6ca2e83e84c71424&v=4" width="24" alt="Avatar of napravicukod"> napravicukod
+			</a><br/>
+			Rudolf Jurišić
+		</td>
+		<td>@bornfight   </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>286</td>
+		<td>
+			<a href="https://github.com/VedranaR">
+				<img src="https://avatars.githubusercontent.com/u/28656470?s=72&u=10d822fae0e7989f31d22bcc94965cf213411233&v=4" width="24" alt="Avatar of VedranaR"> VedranaR
+			</a><br/>
+			Vedrana_R
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>287</td>
+		<td>
+			<a href="https://github.com/Vunovati">
+				<img src="https://avatars.githubusercontent.com/u/441333?s=72&u=6b810152229e46f792a64804b53d27e350811a60&v=4" width="24" alt="Avatar of Vunovati"> Vunovati
+			</a><br/>
+			Vladimir Adamić
+		</td>
+		<td>@nearform </td>
+		<td><a href="https://twitter.com/Vunovati">Vunovati</a></td>
+		<td>Zagreb</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>288</td>
+		<td>
+			<a href="https://github.com/xan1242">
+				<img src="https://avatars.githubusercontent.com/u/8014093?s=72&u=611d2008e4a76c64239ad5bd834fb5aa8650092a&v=4" width="24" alt="Avatar of xan1242"> xan1242
+			</a><br/>
+			Lovro Pleše
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>289</td>
+		<td>
+			<a href="https://github.com/akegalj">
+				<img src="https://avatars.githubusercontent.com/u/2461951?s=72&v=4" width="24" alt="Avatar of akegalj"> akegalj
+			</a><br/>
+			Ante Kegalj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>290</td>
+		<td>
+			<a href="https://github.com/matijakevic">
+				<img src="https://avatars.githubusercontent.com/u/7479297?s=72&u=1a3c5810b34d3087ec36a081d35ad02639a7620e&v=4" width="24" alt="Avatar of matijakevic"> matijakevic
+			</a><br/>
+			matijakevic
+		</td>
+		<td>Avl-ast </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>291</td>
+		<td>
+			<a href="https://github.com/lbasek">
+				<img src="https://avatars.githubusercontent.com/u/555829?s=72&u=a8ed0ac2a711fcb655e946dccfd465e81d96fe76&v=4" width="24" alt="Avatar of lbasek"> lbasek
+			</a><br/>
+			Luka Basek
+		</td>
+		<td>@greypbikes </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>292</td>
+		<td>
+			<a href="https://github.com/dbunic">
+				<img src="https://avatars.githubusercontent.com/u/752465?s=72&v=4" width="24" alt="Avatar of dbunic"> dbunic
+			</a><br/>
+			Darko Bunic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>293</td>
+		<td>
+			<a href="https://github.com/zmajstor">
+				<img src="https://avatars.githubusercontent.com/u/1877965?s=72&v=4" width="24" alt="Avatar of zmajstor"> zmajstor
+			</a><br/>
+			Zoran Majstorovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>294</td>
+		<td>
+			<a href="https://github.com/Vj3k0">
+				<img src="https://avatars.githubusercontent.com/u/1642526?s=72&u=e00feae1f9f20b3b3ded0c8aca8a4420a9159543&v=4" width="24" alt="Avatar of Vj3k0"> Vj3k0
+			</a><br/>
+			Vjekoslav Ratkajec
+		</td>
+		<td>Creaticon </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>
+			<a href="https://github.com/bezidejni">
+				<img src="https://avatars.githubusercontent.com/u/38059?s=72&u=4b1ee2425bc03ac4df9769627de8d1bfd2f09107&v=4" width="24" alt="Avatar of bezidejni"> bezidejni
+			</a><br/>
+			Filip Jukić
+		</td>
+		<td>@noom  / @bytepanda-io<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>296</td>
+		<td>
+			<a href="https://github.com/docelic">
+				<img src="https://avatars.githubusercontent.com/u/112993?s=72&v=4" width="24" alt="Avatar of docelic"> docelic
+			</a><br/>
+			Davor Ocelic
+		</td>
+		<td>Crystal Labs </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>
+			<a href="https://github.com/doivosevic">
+				<img src="https://avatars.githubusercontent.com/u/6378638?s=72&u=7bd3c5fcbe9be80f4aed14db9dbce3fd3ae655b7&v=4" width="24" alt="Avatar of doivosevic"> doivosevic
+			</a><br/>
+			doivosevic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>298</td>
+		<td>
+			<a href="https://github.com/ivanbiljan">
+				<img src="https://avatars.githubusercontent.com/u/7541476?s=72&u=ff8cb6819f848257c7d0c7e3595d45c9ce85464c&v=4" width="24" alt="Avatar of ivanbiljan"> ivanbiljan
+			</a><br/>
+			Ivan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>299</td>
+		<td>
+			<a href="https://github.com/brunozoric">
+				<img src="https://avatars.githubusercontent.com/u/10399339?s=72&u=0a53e17463f5599edd790c58ce62b9347030138a&v=4" width="24" alt="Avatar of brunozoric"> brunozoric
+			</a><br/>
+			Bruno Zorić
+		</td>
+		<td>Webiny </td>
+		<td><a href="https://twitter.com/snyder_hr">snyder_hr</a></td>
+		<td>Zagreb</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>300</td>
+		<td>
+			<a href="https://github.com/ivanslapnicar">
+				<img src="https://avatars.githubusercontent.com/u/8678320?s=72&u=1da373b8d4c45b32f757ae82256c6f523e17ccfc&v=4" width="24" alt="Avatar of ivanslapnicar"> ivanslapnicar
+			</a><br/>
+			Ivan Slapnicar
+		</td>
+		<td>Fesb, University Of Split,<br/>Croatia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>301</td>
+		<td>
+			<a href="https://github.com/lukaomi">
+				<img src="https://avatars.githubusercontent.com/u/22355003?s=72&u=f08f43fe89903a8a359ab7cec4a87e8e6f9d97de&v=4" width="24" alt="Avatar of lukaomi"> lukaomi
+			</a><br/>
+			Luka Omrčen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>302</td>
+		<td>
+			<a href="https://github.com/bravoalpha79">
+				<img src="https://avatars.githubusercontent.com/u/45522344?s=72&u=8c2106ba1c40719fd4519613c7c644ec30fda546&v=4" width="24" alt="Avatar of bravoalpha79"> bravoalpha79
+			</a><br/>
+			Igor Basuga
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>303</td>
+		<td>
+			<a href="https://github.com/staniks">
+				<img src="https://avatars.githubusercontent.com/u/6494571?s=72&u=bbe7c5caf63cc4bd45c7c7cf940e4430d4b4d620&v=4" width="24" alt="Avatar of staniks"> staniks
+			</a><br/>
+			Marko Stanić
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Sklopec">Sklopec</a></td>
+		<td>Zagreb</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>304</td>
+		<td>
+			<a href="https://github.com/Adis">
+				<img src="https://avatars.githubusercontent.com/u/508165?s=72&v=4" width="24" alt="Avatar of Adis"> Adis
+			</a><br/>
+			Adis Mustedanagic
+		</td>
+		<td>Infinum </td>
+		<td><a href="https://twitter.com/aboutadis">aboutadis</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>305</td>
+		<td>
+			<a href="https://github.com/MatejVukosav">
+				<img src="https://avatars.githubusercontent.com/u/12198572?s=72&u=0b6f37f3702bc4db9789a0f643e042c0016cf865&v=4" width="24" alt="Avatar of MatejVukosav"> MatejVukosav
+			</a><br/>
+			Matej Vukosav
+		</td>
+		<td>Rimac Automobili </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>306</td>
+		<td>
+			<a href="https://github.com/brahle">
+				<img src="https://avatars.githubusercontent.com/u/491186?s=72&v=4" width="24" alt="Avatar of brahle"> brahle
+			</a><br/>
+			Bruno Rahle
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>307</td>
+		<td>
+			<a href="https://github.com/JohnnySheffield">
+				<img src="https://avatars.githubusercontent.com/u/4224211?s=72&u=228e621aac046e900986132ec2d29d62a61edbf5&v=4" width="24" alt="Avatar of JohnnySheffield"> JohnnySheffield
+			</a><br/>
+			Nikola Jokic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>308</td>
+		<td>
+			<a href="https://github.com/antonioburic">
+				<img src="https://avatars.githubusercontent.com/u/3459102?s=72&u=111e6d928482f378eae12d3f130e4f876e0a18b2&v=4" width="24" alt="Avatar of antonioburic"> antonioburic
+			</a><br/>
+			Antonio Buric
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>309</td>
+		<td>
+			<a href="https://github.com/gornjas">
+				<img src="https://avatars.githubusercontent.com/u/11854009?s=72&u=b78b7a4bc61fd30cf7bcec4de7a0aa632e5b277d&v=4" width="24" alt="Avatar of gornjas"> gornjas
+			</a><br/>
+			Marko Zec
+		</td>
+		<td>University Of Zagreb </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>310</td>
+		<td>
+			<a href="https://github.com/boristomas">
+				<img src="https://avatars.githubusercontent.com/u/4611177?s=72&v=4" width="24" alt="Avatar of boristomas"> boristomas
+			</a><br/>
+			Boris Tomas
+		</td>
+		<td>Foi </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>311</td>
+		<td>
+			<a href="https://github.com/fijeko">
+				<img src="https://avatars.githubusercontent.com/u/4754258?s=72&u=5fb993e0b53f19d77138a0de897c059ee1bafc63&v=4" width="24" alt="Avatar of fijeko"> fijeko
+			</a><br/>
+			Ivana 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>
+			<a href="https://github.com/0xf1a">
+				<img src="https://avatars.githubusercontent.com/u/25037701?s=72&u=d233f60a4d7bdf54759f453195923451efc6b12e&v=4" width="24" alt="Avatar of 0xf1a"> 0xf1a
+			</a><br/>
+			flapjacks
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>313</td>
+		<td>
+			<a href="https://github.com/murielK">
+				<img src="https://avatars.githubusercontent.com/u/7162502?s=72&v=4" width="24" alt="Avatar of murielK"> murielK
+			</a><br/>
+			Muriel Kamgang
+		</td>
+		<td>Ag04 Innovative Solutions D.o.o.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>314</td>
+		<td>
+			<a href="https://github.com/m1h4">
+				<img src="https://avatars.githubusercontent.com/u/1467554?s=72&v=4" width="24" alt="Avatar of m1h4"> m1h4
+			</a><br/>
+			Marko Mihovilić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>315</td>
+		<td>
+			<a href="https://github.com/vdragsic">
+				<img src="https://avatars.githubusercontent.com/u/519262?s=72&u=81d86b380ea1bd60e844742b8cb1154563a4693a&v=4" width="24" alt="Avatar of vdragsic"> vdragsic
+			</a><br/>
+			Veljko Dragšić
+		</td>
+		<td>Very Big Things </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>316</td>
+		<td>
+			<a href="https://github.com/iruzevic">
+				<img src="https://avatars.githubusercontent.com/u/23283324?s=72&u=b8f766774efe1892c13723298fd19ffb9b093001&v=4" width="24" alt="Avatar of iruzevic"> iruzevic
+			</a><br/>
+			Ivan Ružević
+		</td>
+		<td>@infinum </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>317</td>
+		<td>
+			<a href="https://github.com/malizeus">
+				<img src="https://avatars.githubusercontent.com/u/32763694?s=72&u=b78ea1ab0ac833cdd6b4f971731f42d9512fa1b5&v=4" width="24" alt="Avatar of malizeus"> malizeus
+			</a><br/>
+			Luka Saric
+		</td>
+		<td>@extensionengine </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>318</td>
+		<td>
+			<a href="https://github.com/zarkoselak">
+				<img src="https://avatars.githubusercontent.com/u/7656256?s=72&u=e8450fb47f43a77ea3b102d34f18391ccd8db4d0&v=4" width="24" alt="Avatar of zarkoselak"> zarkoselak
+			</a><br/>
+			Zarko Selak
+		</td>
+		<td>@fiveagency </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>319</td>
+		<td>
+			<a href="https://github.com/nuzelac">
+				<img src="https://avatars.githubusercontent.com/u/195299?s=72&u=c6b14bf3a8e9cd8ce009bbe45cb74fbb0ae4c67f&v=4" width="24" alt="Avatar of nuzelac"> nuzelac
+			</a><br/>
+			Nino Uzelac
+		</td>
+		<td>Poop Map </td>
+		<td><a href="https://twitter.com/nuzelac">nuzelac</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>320</td>
+		<td>
+			<a href="https://github.com/lmuzinic">
+				<img src="https://avatars.githubusercontent.com/u/1591727?s=72&v=4" width="24" alt="Avatar of lmuzinic"> lmuzinic
+			</a><br/>
+			Luka Muzinic
+		</td>
+		<td>@freshleaves  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
+			<a href="https://github.com/dftd">
+				<img src="https://avatars.githubusercontent.com/u/53878055?s=72&u=0f6a6ce4404c42fdccb03a1e261e7e7ee4e0083e&v=4" width="24" alt="Avatar of dftd"> dftd
+			</a><br/>
+			Defected
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>322</td>
+		<td>
+			<a href="https://github.com/sbrki">
+				<img src="https://avatars.githubusercontent.com/u/13030796?s=72&u=f40e02fa805bd608a8f34c58ebfd6b79606b7ec0&v=4" width="24" alt="Avatar of sbrki"> sbrki
+			</a><br/>
+			Stjepan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
+			<a href="https://github.com/karlosintic">
+				<img src="https://avatars.githubusercontent.com/u/6306855?s=72&u=b25d38a37069c8f991997fb6034b45e0b816c02c&v=4" width="24" alt="Avatar of karlosintic"> karlosintic
+			</a><br/>
+			Karlo Sintic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>324</td>
+		<td>
+			<a href="https://github.com/dstar55">
+				<img src="https://avatars.githubusercontent.com/u/6433464?s=72&v=4" width="24" alt="Avatar of dstar55"> dstar55
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>325</td>
+		<td>
+			<a href="https://github.com/antonioseric">
+				<img src="https://avatars.githubusercontent.com/u/4761328?s=72&u=7037e8499b3ca39153c93217b99fc47b2fa8cb5b&v=4" width="24" alt="Avatar of antonioseric"> antonioseric
+			</a><br/>
+			anTONIos
+		</td>
+		<td>@lilcodelab  </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>326</td>
+		<td>
+			<a href="https://github.com/anteprimorac">
+				<img src="https://avatars.githubusercontent.com/u/972083?s=72&u=0b9276ac0cefb6e25b942b3b323ded46a65697e1&v=4" width="24" alt="Avatar of anteprimorac"> anteprimorac
+			</a><br/>
+			Ante Primorac
+		</td>
+		<td>Slicejack </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>327</td>
+		<td>
+			<a href="https://github.com/yatsukha">
+				<img src="https://avatars.githubusercontent.com/u/33135465?s=72&u=0a6b89c0ab5e9b3ce727bd11a1cd670e09b1e948&v=4" width="24" alt="Avatar of yatsukha"> yatsukha
+			</a><br/>
+			Roman Yatsukha
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>328</td>
+		<td>
+			<a href="https://github.com/matejbasic">
+				<img src="https://avatars.githubusercontent.com/u/4060253?s=72&u=0b0c5b83842d38c68936d7cebbd159e4067a7ad3&v=4" width="24" alt="Avatar of matejbasic"> matejbasic
+			</a><br/>
+			Matej Bašić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>329</td>
+		<td>
+			<a href="https://github.com/Igor-Misic">
+				<img src="https://avatars.githubusercontent.com/u/10188706?s=72&u=ed1a55558b7d8fd3b532691338d5dc6e2b5565bc&v=4" width="24" alt="Avatar of Igor-Misic"> Igor-Misic
+			</a><br/>
+			Igor Mišić
+		</td>
+		<td>@hacklabos  </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>330</td>
+		<td>
+			<a href="https://github.com/nrozic">
+				<img src="https://avatars.githubusercontent.com/u/3420375?s=72&u=8f09bb27dd91c344ab90006b26724ed7b1664691&v=4" width="24" alt="Avatar of nrozic"> nrozic
+			</a><br/>
+			Nikola Rožić
+		</td>
+		<td>Trilium </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>331</td>
+		<td>
+			<a href="https://github.com/wtsiamruk">
+				<img src="https://avatars.githubusercontent.com/u/20062612?s=72&u=e0f3baf68fba823d9f9ba8ee2114f99a6d909f1a&v=4" width="24" alt="Avatar of wtsiamruk"> wtsiamruk
+			</a><br/>
+			Waldemar Tsiamruk
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>332</td>
+		<td>
+			<a href="https://github.com/dgranosa">
+				<img src="https://avatars.githubusercontent.com/u/10576958?s=72&u=b83215cab40f8554f0e3ddc834823ff336793e59&v=4" width="24" alt="Avatar of dgranosa"> dgranosa
+			</a><br/>
+			Dorian Granoša
+		</td>
+		<td>@infinum  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>333</td>
+		<td>
+			<a href="https://github.com/AnteVuletic">
+				<img src="https://avatars.githubusercontent.com/u/43707413?s=72&u=306b934f3494f34eb375beb2d4a6616dc1b16453&v=4" width="24" alt="Avatar of AnteVuletic"> AnteVuletic
+			</a><br/>
+			Ante Vuletić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia,Split</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>334</td>
+		<td>
+			<a href="https://github.com/kvidek">
+				<img src="https://avatars.githubusercontent.com/u/4563496?s=72&u=94f6cd1236df5ab10b127e0c27e983b29215faf2&v=4" width="24" alt="Avatar of kvidek"> kvidek
+			</a><br/>
+			Karlo Videk
+		</td>
+		<td>Bornfight </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>335</td>
+		<td>
+			<a href="https://github.com/antoniaelek">
+				<img src="https://avatars.githubusercontent.com/u/12903285?s=72&u=78ca53c94b86bc28996118053d99a542154e9cfe&v=4" width="24" alt="Avatar of antoniaelek"> antoniaelek
+			</a><br/>
+			Antonia Elek
+		</td>
+		<td>@unitfly </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>336</td>
+		<td>
+			<a href="https://github.com/MPozek">
+				<img src="https://avatars.githubusercontent.com/u/15526815?s=72&u=260b10a29ad93c24b530ba16eab0d5a5000e7682&v=4" width="24" alt="Avatar of MPozek"> MPozek
+			</a><br/>
+			Miki
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>337</td>
+		<td>
+			<a href="https://github.com/cromulen">
+				<img src="https://avatars.githubusercontent.com/u/3746994?s=72&u=f2805d45a9e6cba4315852fbd64dc9448e59ce12&v=4" width="24" alt="Avatar of cromulen"> cromulen
+			</a><br/>
+			Marin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>338</td>
+		<td>
+			<a href="https://github.com/meinfernbus">
+				<img src="https://avatars.githubusercontent.com/u/1415545?s=72&u=9798c575484c96372eb8b4cfb8372961d92729b1&v=4" width="24" alt="Avatar of meinfernbus"> meinfernbus
+			</a><br/>
+			MeinFernbus FlixBus
+		</td>
+		<td>@flix-tech  </td>
+		<td>No Twitter Username</td>
+		<td>Berlin, Munich, Kharkiv, Milano, Paris, Zagreb</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>339</td>
+		<td>
+			<a href="https://github.com/dsenta00">
+				<img src="https://avatars.githubusercontent.com/u/11404561?s=72&u=15a904a59cd21938b9668315617ea81805f645d6&v=4" width="24" alt="Avatar of dsenta00"> dsenta00
+			</a><br/>
+			Duje Senta
+		</td>
+		<td>Fesb </td>
+		<td>No Twitter Username</td>
+		<td>Split</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>340</td>
+		<td>
+			<a href="https://github.com/mzagar">
+				<img src="https://avatars.githubusercontent.com/u/896701?s=72&v=4" width="24" alt="Avatar of mzagar"> mzagar
+			</a><br/>
+			Mario Zagar
+		</td>
+		<td>@infobip </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>341</td>
+		<td>
+			<a href="https://github.com/nixa">
+				<img src="https://avatars.githubusercontent.com/u/148287?s=72&v=4" width="24" alt="Avatar of nixa"> nixa
+			</a><br/>
+			Nikola Kapraljević
+		</td>
+		<td>Infinum </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>342</td>
+		<td>
+			<a href="https://github.com/kicho">
+				<img src="https://avatars.githubusercontent.com/u/28882?s=72&v=4" width="24" alt="Avatar of kicho"> kicho
+			</a><br/>
+			Kicho
+		</td>
+		<td>Home </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>343</td>
+		<td>
+			<a href="https://github.com/begedin">
+				<img src="https://avatars.githubusercontent.com/u/1925540?s=72&u=9d7486619b44f42190c0c0026a10b855f93767a9&v=4" width="24" alt="Avatar of begedin"> begedin
+			</a><br/>
+			Nikola Begedin
+		</td>
+		<td>Bego </td>
+		<td><a href="https://twitter.com/begedinnikola">begedinnikola</a></td>
+		<td>Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>344</td>
+		<td>
+			<a href="https://github.com/marinaRupe">
+				<img src="https://avatars.githubusercontent.com/u/15280362?s=72&u=2bbc7fcf840b836bb08c85db0b158a273aa02371&v=4" width="24" alt="Avatar of marinaRupe"> marinaRupe
+			</a><br/>
+			Marina Rupe
+		</td>
+		<td>Pixion </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>345</td>
+		<td>
+			<a href="https://github.com/sbidin">
+				<img src="https://avatars.githubusercontent.com/u/4030323?s=72&u=ef7dd8b94ed2217b4d5dee846cba0cea9ee4d4d4&v=4" width="24" alt="Avatar of sbidin"> sbidin
+			</a><br/>
+			Siniša Biđin
+		</td>
+		<td>@cialdnb  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>346</td>
+		<td>
+			<a href="https://github.com/ilesar">
+				<img src="https://avatars.githubusercontent.com/u/7231818?s=72&u=a908b5add75de7f02ef272a7910ba4d19b013be7&v=4" width="24" alt="Avatar of ilesar"> ilesar
+			</a><br/>
+			Ivan Lesar
+		</td>
+		<td>Bornfight </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>347</td>
+		<td>
+			<a href="https://github.com/ianic">
+				<img src="https://avatars.githubusercontent.com/u/35909?s=72&v=4" width="24" alt="Avatar of ianic"> ianic
+			</a><br/>
+			Igor Anić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>348</td>
+		<td>
+			<a href="https://github.com/borisbabic">
+				<img src="https://avatars.githubusercontent.com/u/1743184?s=72&v=4" width="24" alt="Avatar of borisbabic"> borisbabic
+			</a><br/>
+			Boris
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>349</td>
+		<td>
+			<a href="https://github.com/capJavert">
+				<img src="https://avatars.githubusercontent.com/u/9803078?s=72&u=1c51db45f535cc563b4ef7f923d09a1d78eda358&v=4" width="24" alt="Avatar of capJavert"> capJavert
+			</a><br/>
+			Ante Barić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>350</td>
+		<td>
+			<a href="https://github.com/isBatak">
+				<img src="https://avatars.githubusercontent.com/u/4128883?s=72&u=e6e0ebecde10f629b3db712367a3da9607a41ad4&v=4" width="24" alt="Avatar of isBatak"> isBatak
+			</a><br/>
+			Ivica Batinić
+		</td>
+		<td>Infinum D.o.o. </td>
+		<td><a href="https://twitter.com/_isBatak">_isBatak</a></td>
+		<td>Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>351</td>
+		<td>
+			<a href="https://github.com/miha2010">
+				<img src="https://avatars.githubusercontent.com/u/42551751?s=72&u=cda7f4417e09fd23aecde8690debbe80796b6317&v=4" width="24" alt="Avatar of miha2010"> miha2010
+			</a><br/>
+			Mihovil Santek
+		</td>
+		<td>Typeqast </td>
+		<td>No Twitter Username</td>
+		<td>Varazdin, Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>352</td>
+		<td>
+			<a href="https://github.com/tisljaricleo">
+				<img src="https://avatars.githubusercontent.com/u/30873261?s=72&u=a1d2a85a536b9cc8b887e12fd3116ce85bf69901&v=4" width="24" alt="Avatar of tisljaricleo"> tisljaricleo
+			</a><br/>
+			Leo Tisljaric
+		</td>
+		<td>Faculty Of Transport And<br/>Traffic<br/>Sciences,<br/>University<br/>Of<br/>Zagreb<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>353</td>
+		<td>
+			<a href="https://github.com/msvalina">
+				<img src="https://avatars.githubusercontent.com/u/413062?s=72&u=55396cb41254d7e41e962f8b6a323cbda5007a6a&v=4" width="24" alt="Avatar of msvalina"> msvalina
+			</a><br/>
+			Marijan Svalina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>354</td>
+		<td>
+			<a href="https://github.com/LukaKordic">
+				<img src="https://avatars.githubusercontent.com/u/26583913?s=72&u=f3bb4c8a6603d818f930337754067ff3411534fa&v=4" width="24" alt="Avatar of LukaKordic"> LukaKordic
+			</a><br/>
+			Luka Kordić
+		</td>
+		<td>Cobe </td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>355</td>
+		<td>
+			<a href="https://github.com/branc116">
+				<img src="https://avatars.githubusercontent.com/u/16038323?s=72&u=e1bd7fd41387c8bb789e59dbf60d1ce4f8ed0be9&v=4" width="24" alt="Avatar of branc116"> branc116
+			</a><br/>
+			Branimir Ričko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>356</td>
+		<td>
+			<a href="https://github.com/jaksatomovic">
+				<img src="https://avatars.githubusercontent.com/u/25745688?s=72&u=48a0ad435217175212c770e7aded4ba85a29c50a&v=4" width="24" alt="Avatar of jaksatomovic"> jaksatomovic
+			</a><br/>
+			canarin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>357</td>
+		<td>
+			<a href="https://github.com/karlomikus">
+				<img src="https://avatars.githubusercontent.com/u/469393?s=72&u=9e281d4993bfd88acaf65038eb20fa7dfbf5d5f1&v=4" width="24" alt="Avatar of karlomikus"> karlomikus
+			</a><br/>
+			Karlo Mikus
+		</td>
+		<td>Https://teslasoftwar </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>358</td>
+		<td>
+			<a href="https://github.com/Dynosius">
+				<img src="https://avatars.githubusercontent.com/u/26442194?s=72&u=2aa6d2db78de2b5bcb51dda86b19711663125abd&v=4" width="24" alt="Avatar of Dynosius"> Dynosius
+			</a><br/>
+			Dino Kralj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>359</td>
+		<td>
+			<a href="https://github.com/bgrgicak">
+				<img src="https://avatars.githubusercontent.com/u/1199991?s=72&u=b44576f2ddb406af2e67b338193be94bc72bab96&v=4" width="24" alt="Avatar of bgrgicak"> bgrgicak
+			</a><br/>
+			berislav grgičak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>360</td>
+		<td>
+			<a href="https://github.com/mariojankovic">
+				<img src="https://avatars.githubusercontent.com/u/3466800?s=72&v=4" width="24" alt="Avatar of mariojankovic"> mariojankovic
+			</a><br/>
+			Mario Jankovic
+		</td>
+		<td>20interactive </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>361</td>
+		<td>
+			<a href="https://github.com/bkuzmic">
+				<img src="https://avatars.githubusercontent.com/u/178479?s=72&u=c495477718eab87a796e4f8f32b1767f62d8eb12&v=4" width="24" alt="Avatar of bkuzmic"> bkuzmic
+			</a><br/>
+			Boris Kuzmic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>362</td>
+		<td>
+			<a href="https://github.com/davoreric">
+				<img src="https://avatars.githubusercontent.com/u/2734612?s=72&v=4" width="24" alt="Avatar of davoreric"> davoreric
+			</a><br/>
+			Davor Eric
+		</td>
+		<td>Pogon </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>363</td>
+		<td>
+			<a href="https://github.com/paullla">
+				<img src="https://avatars.githubusercontent.com/u/6206691?s=72&u=b063587e6f1dff8bcbb5e07155b3a9c5ba84b1b3&v=4" width="24" alt="Avatar of paullla"> paullla
+			</a><br/>
+			Paula
+		</td>
+		<td>@locastic </td>
+		<td><a href="https://twitter.com/paoolala">paoolala</a></td>
+		<td>Split, Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>364</td>
+		<td>
+			<a href="https://github.com/jojothebandit">
+				<img src="https://avatars.githubusercontent.com/u/254281?s=72&u=e882646b123cbdb7e8172bc80bcbdf183506d5be&v=4" width="24" alt="Avatar of jojothebandit"> jojothebandit
+			</a><br/>
+			Tony Mrakovcic
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jojothebandit">jojothebandit</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>365</td>
+		<td>
+			<a href="https://github.com/vzakanj">
+				<img src="https://avatars.githubusercontent.com/u/1140334?s=72&v=4" width="24" alt="Avatar of vzakanj"> vzakanj
+			</a><br/>
+			Vedran Zakanj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>366</td>
+		<td>
+			<a href="https://github.com/majna">
+				<img src="https://avatars.githubusercontent.com/u/38710?s=72&v=4" width="24" alt="Avatar of majna"> majna
+			</a><br/>
+			Ivan Majnaric
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>367</td>
+		<td>
+			<a href="https://github.com/mradocaj">
+				<img src="https://avatars.githubusercontent.com/u/57043654?s=72&u=1e0835722e85148043e7a3fb239960a28c4bd604&v=4" width="24" alt="Avatar of mradocaj"> mradocaj
+			</a><br/>
+			Maja Radočaj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>368</td>
+		<td>
+			<a href="https://github.com/zunjooo">
+				<img src="https://avatars.githubusercontent.com/u/22975725?s=72&u=4ab52c3963f968f3c5e3cbd8733baf05b7ccbfe5&v=4" width="24" alt="Avatar of zunjooo"> zunjooo
+			</a><br/>
+			vanja.zunic
+		</td>
+		<td>@degordian  </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>369</td>
+		<td>
+			<a href="https://github.com/Vordas">
+				<img src="https://avatars.githubusercontent.com/u/13844374?s=72&u=71b15472f497d4afae7708235a662c164b197c7c&v=4" width="24" alt="Avatar of Vordas"> Vordas
+			</a><br/>
+			Vordas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Europe, Croatia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>370</td>
+		<td>
+			<a href="https://github.com/chefsale">
+				<img src="https://avatars.githubusercontent.com/u/3193842?s=72&u=f62b0e809968e8073663a946b37ca2bd6004677f&v=4" width="24" alt="Avatar of chefsale"> chefsale
+			</a><br/>
+			Sandi Fatic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>371</td>
+		<td>
+			<a href="https://github.com/juricaKenda">
+				<img src="https://avatars.githubusercontent.com/u/45860865?s=72&u=f2149c2dd45b8149a03396a4752f4965a0e1c782&v=4" width="24" alt="Avatar of juricaKenda"> juricaKenda
+			</a><br/>
+			Jurica Kenda
+		</td>
+		<td>Mr </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb,Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>372</td>
+		<td>
+			<a href="https://github.com/skuxy">
+				<img src="https://avatars.githubusercontent.com/u/8920636?s=72&u=696ee8ad67534c1b062f88b44ca9f6b02f59c0cf&v=4" width="24" alt="Avatar of skuxy"> skuxy
+			</a><br/>
+			_borna skukan
+		</td>
+		<td>@axilis </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>373</td>
+		<td>
+			<a href="https://github.com/srolija">
+				<img src="https://avatars.githubusercontent.com/u/307150?s=72&u=da85506df12be5b90cae2cb81c42e0e47230d280&v=4" width="24" alt="Avatar of srolija"> srolija
+			</a><br/>
+			Sergej Jakovljev
+		</td>
+		<td>@axilis  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>374</td>
+		<td>
+			<a href="https://github.com/ilx">
+				<img src="https://avatars.githubusercontent.com/u/378043?s=72&u=f12595bf237f9ad18cfc1721214681ae25224931&v=4" width="24" alt="Avatar of ilx"> ilx
+			</a><br/>
+			Ivica Loncar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Pula, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>375</td>
+		<td>
+			<a href="https://github.com/2shady4u">
+				<img src="https://avatars.githubusercontent.com/u/42484461?s=72&u=8bc3eac5bc2370cdebbf9c6226a1240eed7f60e6&v=4" width="24" alt="Avatar of 2shady4u"> 2shady4u
+			</a><br/>
+			Piet Bronders
+		</td>
+		<td>Gamechuck </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>376</td>
+		<td>
+			<a href="https://github.com/Horki">
+				<img src="https://avatars.githubusercontent.com/u/1398263?s=72&u=41a94f06566fe42863614b356e34fb95bb84b4c9&v=4" width="24" alt="Avatar of Horki"> Horki
+			</a><br/>
+			Ivan Zvonimir Horvat
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ivanhorvat82">ivanhorvat82</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>377</td>
+		<td>
+			<a href="https://github.com/ivanbozic">
+				<img src="https://avatars.githubusercontent.com/u/5840040?s=72&u=9ec098573ef67defce84765eb2b8a2d98fea8dfa&v=4" width="24" alt="Avatar of ivanbozic"> ivanbozic
+			</a><br/>
+			Ivan Božić
+		</td>
+		<td>Ars Futura </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>378</td>
+		<td>
+			<a href="https://github.com/gitbuda">
+				<img src="https://avatars.githubusercontent.com/u/4950251?s=72&u=f8e30e57ec7518071d7b022f173eeb7b4fb67f67&v=4" width="24" alt="Avatar of gitbuda"> gitbuda
+			</a><br/>
+			Marko Budiselić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>379</td>
+		<td>
+			<a href="https://github.com/stevetauber">
+				<img src="https://avatars.githubusercontent.com/u/1258342?s=72&u=cfee967de7d4b655c8e025d8bfd7caca55202bb6&v=4" width="24" alt="Avatar of stevetauber"> stevetauber
+			</a><br/>
+			Steve Tauber
+		</td>
+		<td>@futurebranch </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>380</td>
+		<td>
+			<a href="https://github.com/Volki312">
+				<img src="https://avatars.githubusercontent.com/u/34980162?s=72&u=9db1ad117f898de3818fc767faa0a7587495c9f2&v=4" width="24" alt="Avatar of Volki312"> Volki312
+			</a><br/>
+			Josip Volarević
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Republic of</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>381</td>
+		<td>
+			<a href="https://github.com/RandolphG">
+				<img src="https://avatars.githubusercontent.com/u/1088906?s=72&u=31a1218feeb5ee40bf0ab0a7ea22e661df393bc3&v=4" width="24" alt="Avatar of RandolphG"> RandolphG
+			</a><br/>
+			poplogics
+		</td>
+		<td>The Future Group </td>
+		<td>No Twitter Username</td>
+		<td>Velika Gorica, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>382</td>
+		<td>
+			<a href="https://github.com/imedic">
+				<img src="https://avatars.githubusercontent.com/u/13078968?s=72&u=80c5a5f9a6518c12bc6baee0aaedc42723ba645f&v=4" width="24" alt="Avatar of imedic"> imedic
+			</a><br/>
+			Ivan Medić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>383</td>
+		<td>
+			<a href="https://github.com/tmikulin">
+				<img src="https://avatars.githubusercontent.com/u/7904499?s=72&u=06d9dd4df837cb373a91f63ed3a9d63e14dfa2d4&v=4" width="24" alt="Avatar of tmikulin"> tmikulin
+			</a><br/>
+			Tomislav Mikulin
+		</td>
+		<td>Televend.eu </td>
+		<td><a href="https://twitter.com/Mekto85">Mekto85</a></td>
+		<td>Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>384</td>
+		<td>
+			<a href="https://github.com/FilipHusnjak">
+				<img src="https://avatars.githubusercontent.com/u/41432967?s=72&v=4" width="24" alt="Avatar of FilipHusnjak"> FilipHusnjak
+			</a><br/>
+			Filip Husnjak
+		</td>
+		<td>Gamepires </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>385</td>
+		<td>
+			<a href="https://github.com/elkarrde">
+				<img src="https://avatars.githubusercontent.com/u/832053?s=72&v=4" width="24" alt="Avatar of elkarrde"> elkarrde
+			</a><br/>
+			Neven Falica
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/elkarrde">elkarrde</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>386</td>
+		<td>
+			<a href="https://github.com/karlosmid">
+				<img src="https://avatars.githubusercontent.com/u/777520?s=72&u=a8a810bf90112002757794f6a8d5cef12380ad3d&v=4" width="24" alt="Avatar of karlosmid"> karlosmid
+			</a><br/>
+			Karlo Smid
+		</td>
+		<td>Tentamen </td>
+		<td><a href="https://twitter.com/karlosmid">karlosmid</a></td>
+		<td>Zagreb</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>387</td>
+		<td>
+			<a href="https://github.com/lukapeharda">
+				<img src="https://avatars.githubusercontent.com/u/2076692?s=72&v=4" width="24" alt="Avatar of lukapeharda"> lukapeharda
+			</a><br/>
+			Luka Peharda
+		</td>
+		<td>Enfinita </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>388</td>
+		<td>
+			<a href="https://github.com/dmiklic">
+				<img src="https://avatars.githubusercontent.com/u/2772996?s=72&v=4" width="24" alt="Avatar of dmiklic"> dmiklic
+			</a><br/>
+			Damjan Miklic
+		</td>
+		<td>Romb Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>389</td>
+		<td>
+			<a href="https://github.com/dmarion">
+				<img src="https://avatars.githubusercontent.com/u/534553?s=72&v=4" width="24" alt="Avatar of dmarion"> dmarion
+			</a><br/>
+			Damjan Marion
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rijeka, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>
+			<a href="https://github.com/baic989">
+				<img src="https://avatars.githubusercontent.com/u/5805498?s=72&u=23035c494eb74958cf7f8bc194df8823b7e30f6c&v=4" width="24" alt="Avatar of baic989"> baic989
+			</a><br/>
+			Hrvoje Baic
+		</td>
+		<td>Nsconsulting </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>391</td>
+		<td>
+			<a href="https://github.com/whytewiz">
+				<img src="https://avatars.githubusercontent.com/u/3996271?s=72&u=02cd8f69ad5b51ed0f71a37b6e66909da4d34efb&v=4" width="24" alt="Avatar of whytewiz"> whytewiz
+			</a><br/>
+			Dario Daić
+		</td>
+		<td>Butterflymx </td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Zagreb</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>392</td>
+		<td>
+			<a href="https://github.com/ilukac">
+				<img src="https://avatars.githubusercontent.com/u/452964?s=72&u=61c470392f9a0e147cbb9779a902a0fbc4fe0730&v=4" width="24" alt="Avatar of ilukac"> ilukac
+			</a><br/>
+			Ivo Lukač
+		</td>
+		<td>Netgen </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>393</td>
+		<td>
+			<a href="https://github.com/draganHR">
+				<img src="https://avatars.githubusercontent.com/u/304130?s=72&u=d1c841367b5f0f171fd0c193a8a623b7ad092b00&v=4" width="24" alt="Avatar of draganHR"> draganHR
+			</a><br/>
+			Dragan Bošnjak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>394</td>
+		<td>
+			<a href="https://github.com/slavus">
+				<img src="https://avatars.githubusercontent.com/u/992825?s=72&v=4" width="24" alt="Avatar of slavus"> slavus
+			</a><br/>
+			Hrvoje Slaviček
+		</td>
+		<td>Sv Group D.o.o </td>
+		<td><a href="https://twitter.com/slavus">slavus</a></td>
+		<td>Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>395</td>
+		<td>
+			<a href="https://github.com/Struki84">
+				<img src="https://avatars.githubusercontent.com/u/1117750?s=72&u=ec826346a22272f2195ebf1eae9eba4a42086529&v=4" width="24" alt="Avatar of Struki84"> Struki84
+			</a><br/>
+			Šimun Strukan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>396</td>
+		<td>
+			<a href="https://github.com/dominikstanojevic">
+				<img src="https://avatars.githubusercontent.com/u/15264894?s=72&v=4" width="24" alt="Avatar of dominikstanojevic"> dominikstanojevic
+			</a><br/>
+			Dominik Stanojevic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>397</td>
+		<td>
+			<a href="https://github.com/codeforest">
+				<img src="https://avatars.githubusercontent.com/u/1256030?s=72&u=b81240151080fee626c8a26baaa49f487644a69d&v=4" width="24" alt="Avatar of codeforest"> codeforest
+			</a><br/>
+			Zvonko Biškup
+		</td>
+		<td>Influendo </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>398</td>
+		<td>
+			<a href="https://github.com/u-ra">
+				<img src="https://avatars.githubusercontent.com/u/1153610?s=72&u=bea17816f75836037fa80ed0a020dc729913221e&v=4" width="24" alt="Avatar of u-ra"> u-ra
+			</a><br/>
+			Jurica Vukadin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>399</td>
+		<td>
+			<a href="https://github.com/kiboke">
+				<img src="https://avatars.githubusercontent.com/u/15665917?s=72&u=0290ed0b3a2d231d70793e89f90fd4861c590447&v=4" width="24" alt="Avatar of kiboke"> kiboke
+			</a><br/>
+			Daniel
+		</td>
+		<td>Kiboke Studio </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>400</td>
+		<td>
+			<a href="https://github.com/dinkom">
+				<img src="https://avatars.githubusercontent.com/u/4062347?s=72&u=c6ca04cddcb170f1eda999b2d2f7bfee608eda6a&v=4" width="24" alt="Avatar of dinkom"> dinkom
+			</a><br/>
+			Dinko Mihovilović
+		</td>
+		<td>Freelance </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>401</td>
+		<td>
+			<a href="https://github.com/logicbricks">
+				<img src="https://avatars.githubusercontent.com/u/3283957?s=72&v=4" width="24" alt="Avatar of logicbricks"> logicbricks
+			</a><br/>
+			logicBRICKS
+		</td>
+		<td>Xylon D.o.o. </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>402</td>
+		<td>
+			<a href="https://github.com/dradecic">
+				<img src="https://avatars.githubusercontent.com/u/50511464?s=72&u=51494bacaeab40249f90425c0c89661fe14f4e2d&v=4" width="24" alt="Avatar of dradecic"> dradecic
+			</a><br/>
+			Dario Radečić
+		</td>
+		<td>Neos </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>403</td>
+		<td>
+			<a href="https://github.com/vailjoy">
+				<img src="https://avatars.githubusercontent.com/u/946749?s=72&u=54cf7948bd1111f7bcf6a992d036485e0519d6c2&v=4" width="24" alt="Avatar of vailjoy"> vailjoy
+			</a><br/>
+			vail
+		</td>
+		<td>Layerswp,  Envato </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>404</td>
+		<td>
+			<a href="https://github.com/alaca">
+				<img src="https://avatars.githubusercontent.com/u/4222590?s=72&u=4f9e8d5d8edff1918cda0603c16bb720f9532f7d&v=4" width="24" alt="Avatar of alaca"> alaca
+			</a><br/>
+			Ante Laca
+		</td>
+		<td>@impress-org Givewp </td>
+		<td>No Twitter Username</td>
+		<td>Vodice, Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>
+			<a href="https://github.com/marinko-peso">
+				<img src="https://avatars.githubusercontent.com/u/6949058?s=72&u=ab2594acde15802d7ece4d2ef1aea4e7618d1657&v=4" width="24" alt="Avatar of marinko-peso"> marinko-peso
+			</a><br/>
+			Marinko Pešo
+		</td>
+		<td>@extensionengine  </td>
+		<td><a href="https://twitter.com/marinkopeso">marinkopeso</a></td>
+		<td>Split, Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>406</td>
+		<td>
+			<a href="https://github.com/stepanic">
+				<img src="https://avatars.githubusercontent.com/u/315282?s=72&u=1eb01ff06baa307b48200d456fa62ed19cfc3cce&v=4" width="24" alt="Avatar of stepanic"> stepanic
+			</a><br/>
+			Matija Stepanic
+		</td>
+		<td>Italk Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>407</td>
+		<td>
+			<a href="https://github.com/ikovac">
+				<img src="https://avatars.githubusercontent.com/u/26693037?s=72&u=dae31a16464bd41c33161645ee6ea250c23093d3&v=4" width="24" alt="Avatar of ikovac"> ikovac
+			</a><br/>
+			Ivo Kovačević
+		</td>
+		<td>Extensionengine </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>408</td>
+		<td>
+			<a href="https://github.com/paljinov">
+				<img src="https://avatars.githubusercontent.com/u/10164379?s=72&u=04c457887f3e27c151fb84c09f5948373cd4302c&v=4" width="24" alt="Avatar of paljinov"> paljinov
+			</a><br/>
+			Pave Aljinović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>409</td>
+		<td>
+			<a href="https://github.com/prasimix">
+				<img src="https://avatars.githubusercontent.com/u/15106476?s=72&u=a3841cf858743f6c0108e5f941cc340fdddc8b99&v=4" width="24" alt="Avatar of prasimix"> prasimix
+			</a><br/>
+			prasimix
+		</td>
+		<td>Envox D.o.o. </td>
+		<td><a href="https://twitter.com/envox">envox</a></td>
+		<td>Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>410</td>
+		<td>
+			<a href="https://github.com/vedrani">
+				<img src="https://avatars.githubusercontent.com/u/11500666?s=72&u=3eca11f1f67a1ffcec0e5d594a37eccf6a08e3a4&v=4" width="24" alt="Avatar of vedrani"> vedrani
+			</a><br/>
+			Vedran Ivanac
+		</td>
+		<td>@toptal  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>411</td>
+		<td>
+			<a href="https://github.com/EkaterinaVu">
+				<img src="https://avatars.githubusercontent.com/u/48355351?s=72&u=d72297a5d6aa22456100d8201cac9884aa4c6a58&v=4" width="24" alt="Avatar of EkaterinaVu"> EkaterinaVu
+			</a><br/>
+			Ekaterina Vujasinović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>412</td>
+		<td>
+			<a href="https://github.com/ikovic">
+				<img src="https://avatars.githubusercontent.com/u/1204170?s=72&u=053edc8913af5be0fd668d261f533b21e6c75dd3&v=4" width="24" alt="Avatar of ikovic"> ikovic
+			</a><br/>
+			Ivan Ković
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>413</td>
+		<td>
+			<a href="https://github.com/sarajcev">
+				<img src="https://avatars.githubusercontent.com/u/7125535?s=72&v=4" width="24" alt="Avatar of sarajcev"> sarajcev
+			</a><br/>
+			Dr. Petar Sarajcev
+		</td>
+		<td>University Of Split </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>414</td>
+		<td>
+			<a href="https://github.com/nikola-zitko">
+				<img src="https://avatars.githubusercontent.com/u/39881508?s=72&u=f04cfe60a165dd85fd7a8bed956cdae44cd76512&v=4" width="24" alt="Avatar of nikola-zitko"> nikola-zitko
+			</a><br/>
+			Nikola Žitko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>415</td>
+		<td>
+			<a href="https://github.com/mate329">
+				<img src="https://avatars.githubusercontent.com/u/45571679?s=72&u=45da876e27bc652dee7a3f82dfeb55ab1e5de10c&v=4" width="24" alt="Avatar of mate329"> mate329
+			</a><br/>
+			Matia Rašetina
+		</td>
+		<td>Riteh Racing Team And<br/>Iolap<br/></td>
+		<td>No Twitter Username</td>
+		<td>Rijeka</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>416</td>
+		<td>
+			<a href="https://github.com/florijanstamenkovic">
+				<img src="https://avatars.githubusercontent.com/u/7459588?s=72&u=5eca9dfe416e2ff0f9140084fa805498c444ed2f&v=4" width="24" alt="Avatar of florijanstamenkovic"> florijanstamenkovic
+			</a><br/>
+			Florijan Stamenković
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>
+			<a href="https://github.com/kop7">
+				<img src="https://avatars.githubusercontent.com/u/18327186?s=72&u=9bda07321247d7290e771dfd1d232889d0d59e45&v=4" width="24" alt="Avatar of kop7"> kop7
+			</a><br/>
+			mkop
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>418</td>
+		<td>
+			<a href="https://github.com/vnesek">
+				<img src="https://avatars.githubusercontent.com/u/1618836?s=72&v=4" width="24" alt="Avatar of vnesek"> vnesek
+			</a><br/>
+			Vjekoslav Nesek
+		</td>
+		<td>Instantcom </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>419</td>
+		<td>
+			<a href="https://github.com/cromat">
+				<img src="https://avatars.githubusercontent.com/u/3780307?s=72&u=ff1e9f49bf78fc11c42ccaed16c7ab2e1c98693c&v=4" width="24" alt="Avatar of cromat"> cromat
+			</a><br/>
+			Tomislav Brabec
+		</td>
+		<td>@hivetechdoo </td>
+		<td>No Twitter Username</td>
+		<td>Kutina, Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>420</td>
+		<td>
+			<a href="https://github.com/anakic">
+				<img src="https://avatars.githubusercontent.com/u/9460757?s=72&u=ffb979367bed9845bf2b67c1fb4b4bde23fd69e4&v=4" width="24" alt="Avatar of anakic"> anakic
+			</a><br/>
+			Antonio Nakic Alfirevic
+		</td>
+		<td>Querystorm </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>421</td>
+		<td>
+			<a href="https://github.com/MrBr">
+				<img src="https://avatars.githubusercontent.com/u/6218559?s=72&u=331d206dfafb90b6402e45d6ce6f75d17baa115b&v=4" width="24" alt="Avatar of MrBr"> MrBr
+			</a><br/>
+			Luka Bracanović
+		</td>
+		<td>Five </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>422</td>
+		<td>
+			<a href="https://github.com/Ylodi">
+				<img src="https://avatars.githubusercontent.com/u/67160?s=72&u=027050157ee5157bbc27228a22e436cc954d1f7a&v=4" width="24" alt="Avatar of Ylodi"> Ylodi
+			</a><br/>
+			Stjepan Zlodi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Velika Gorica/Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>423</td>
+		<td>
+			<a href="https://github.com/antifriz">
+				<img src="https://avatars.githubusercontent.com/u/6382271?s=72&u=044428812bf5f4db79037df5fbbea12214330cc4&v=4" width="24" alt="Avatar of antifriz"> antifriz
+			</a><br/>
+			Ivan Jurin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>424</td>
+		<td>
+			<a href="https://github.com/bfreskura">
+				<img src="https://avatars.githubusercontent.com/u/9371112?s=72&u=314aa732a3242b91061fde2d27b95441050f7130&v=4" width="24" alt="Avatar of bfreskura"> bfreskura
+			</a><br/>
+			Bartol Freškura
+		</td>
+		<td>Aimages </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>425</td>
+		<td>
+			<a href="https://github.com/tomislavherman">
+				<img src="https://avatars.githubusercontent.com/u/1177695?s=72&u=5a25eef12049e01ef46510cc42d636f07644e019&v=4" width="24" alt="Avatar of tomislavherman"> tomislavherman
+			</a><br/>
+			Tomislav Herman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>426</td>
+		<td>
+			<a href="https://github.com/mfolnovic">
+				<img src="https://avatars.githubusercontent.com/u/20919?s=72&v=4" width="24" alt="Avatar of mfolnovic"> mfolnovic
+			</a><br/>
+			Matija Folnovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>427</td>
+		<td>
+			<a href="https://github.com/danijelmaric">
+				<img src="https://avatars.githubusercontent.com/u/5391058?s=72&v=4" width="24" alt="Avatar of danijelmaric"> danijelmaric
+			</a><br/>
+			Danijel Marić
+		</td>
+		<td>@superius </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>428</td>
+		<td>
+			<a href="https://github.com/bhemar">
+				<img src="https://avatars.githubusercontent.com/u/3889793?s=72&v=4" width="24" alt="Avatar of bhemar"> bhemar
+			</a><br/>
+			Bruno Hemar
+		</td>
+		<td>Infobip </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>429</td>
+		<td>
+			<a href="https://github.com/arrrlo">
+				<img src="https://avatars.githubusercontent.com/u/2082813?s=72&u=e91b527aa2a013f49c600cbeb7a69bfaf9b6f68b&v=4" width="24" alt="Avatar of arrrlo"> arrrlo
+			</a><br/>
+			Ivan Arar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>430</td>
+		<td>
+			<a href="https://github.com/ratokuzmanic">
+				<img src="https://avatars.githubusercontent.com/u/7314468?s=72&u=245db6447aea1df64682d1a7a499900f40172e16&v=4" width="24" alt="Avatar of ratokuzmanic"> ratokuzmanic
+			</a><br/>
+			Rato Kuzmanić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>431</td>
+		<td>
+			<a href="https://github.com/ipadavic">
+				<img src="https://avatars.githubusercontent.com/u/2059817?s=72&v=4" width="24" alt="Avatar of ipadavic"> ipadavic
+			</a><br/>
+			Ivan Padavic
+		</td>
+		<td>Rentl.io </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>432</td>
+		<td>
+			<a href="https://github.com/MakMuftic">
+				<img src="https://avatars.githubusercontent.com/u/23664028?s=72&u=a03aaaff4b7e3c08469febeb7740374b74a0baca&v=4" width="24" alt="Avatar of MakMuftic"> MakMuftic
+			</a><br/>
+			mace
+		</td>
+		<td>@nodefactoryio </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>433</td>
+		<td>
+			<a href="https://github.com/murticalen">
+				<img src="https://avatars.githubusercontent.com/u/15446034?s=72&u=c5831aaf8c3d0b043b15f884441a874af48f9cbe&v=4" width="24" alt="Avatar of murticalen"> murticalen
+			</a><br/>
+			Alen Murtić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>434</td>
+		<td>
+			<a href="https://github.com/melcha">
+				<img src="https://avatars.githubusercontent.com/u/4679286?s=72&u=738fe18afa5fd98fc9a29524e1188cdbb04864fd&v=4" width="24" alt="Avatar of melcha"> melcha
+			</a><br/>
+			Melita Kovač
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>435</td>
+		<td>
+			<a href="https://github.com/JurenIvan">
+				<img src="https://avatars.githubusercontent.com/u/43958858?s=72&u=a721d434655084cff177acf3c5de31d01d8e271f&v=4" width="24" alt="Avatar of JurenIvan"> JurenIvan
+			</a><br/>
+			No Name
+		</td>
+		<td>Tacta </td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Zagreb</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>436</td>
+		<td>
+			<a href="https://github.com/abasic">
+				<img src="https://avatars.githubusercontent.com/u/6884698?s=72&u=895322eebd982791b7e46491ddf5862e4bd8b4ef&v=4" width="24" alt="Avatar of abasic"> abasic
+			</a><br/>
+			Antonio Basic
+		</td>
+		<td>@extensionengine  </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>437</td>
+		<td>
+			<a href="https://github.com/dbaric">
+				<img src="https://avatars.githubusercontent.com/u/31189266?s=72&u=7c0534fc1d3e838993f53f8ecfad25db5075d128&v=4" width="24" alt="Avatar of dbaric"> dbaric
+			</a><br/>
+			Dražen Barić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>438</td>
+		<td>
+			<a href="https://github.com/TopHatCroat">
+				<img src="https://avatars.githubusercontent.com/u/9058532?s=72&u=805f18e8061626efb4cf9ecca5dda063ab70328d&v=4" width="24" alt="Avatar of TopHatCroat"> TopHatCroat
+			</a><br/>
+			Antonio Martinović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>439</td>
+		<td>
+			<a href="https://github.com/spideyfusion">
+				<img src="https://avatars.githubusercontent.com/u/704579?s=72&v=4" width="24" alt="Avatar of spideyfusion"> spideyfusion
+			</a><br/>
+			Petar Obradović
+		</td>
+		<td>@sofascore </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>440</td>
+		<td>
+			<a href="https://github.com/mrister">
+				<img src="https://avatars.githubusercontent.com/u/1213258?s=72&u=1566e6da53e91e74ef30876fa93c512b26c24dd2&v=4" width="24" alt="Avatar of mrister"> mrister
+			</a><br/>
+			Mihovil Rister
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>441</td>
+		<td>
+			<a href="https://github.com/TommyRadan">
+				<img src="https://avatars.githubusercontent.com/u/8278883?s=72&u=d8b832003a95a794fdec10392fadf66c77475287&v=4" width="24" alt="Avatar of TommyRadan"> TommyRadan
+			</a><br/>
+			Tomislav Radanović
+		</td>
+		<td>Toptal </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>442</td>
+		<td>
+			<a href="https://github.com/pspanja">
+				<img src="https://avatars.githubusercontent.com/u/1135425?s=72&v=4" width="24" alt="Avatar of pspanja"> pspanja
+			</a><br/>
+			Petar Španja
+		</td>
+		<td>Netgen </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>443</td>
+		<td>
+			<a href="https://github.com/TheEskhaton">
+				<img src="https://avatars.githubusercontent.com/u/1377663?s=72&u=64043e034445070b2810d82f6c5454ff0bf74a00&v=4" width="24" alt="Avatar of TheEskhaton"> TheEskhaton
+			</a><br/>
+			No Name
+		</td>
+		<td>Emakina.hr </td>
+		<td><a href="https://twitter.com/TheEskhaton1">TheEskhaton1</a></td>
+		<td>Zagreb</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>444</td>
+		<td>
+			<a href="https://github.com/fredo994">
+				<img src="https://avatars.githubusercontent.com/u/7530821?s=72&v=4" width="24" alt="Avatar of fredo994"> fredo994
+			</a><br/>
+			Fredi Šarić
+		</td>
+		<td>Lafra@fer </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>445</td>
+		<td>
+			<a href="https://github.com/lperanni">
+				<img src="https://avatars.githubusercontent.com/u/29385677?s=72&u=01938f542d1206db0fdf7a02f57f4e017e0e290d&v=4" width="24" alt="Avatar of lperanni"> lperanni
+			</a><br/>
+			Luciano Peranni
+		</td>
+		<td>@udruga-studenata-ra  </td>
+		<td>No Twitter Username</td>
+		<td>Split,Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>446</td>
+		<td>
+			<a href="https://github.com/pkovacevic">
+				<img src="https://avatars.githubusercontent.com/u/928809?s=72&u=b8b95c0adb537ebd9ec2e173f211b6d5dbba8bf4&v=4" width="24" alt="Avatar of pkovacevic"> pkovacevic
+			</a><br/>
+			Petar Kovačević
+		</td>
+		<td>Axilis </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>447</td>
+		<td>
+			<a href="https://github.com/igorujevic">
+				<img src="https://avatars.githubusercontent.com/u/48961949?s=72&u=a2420b59425503eacad5531ac6ffad3b77b8bf4b&v=4" width="24" alt="Avatar of igorujevic"> igorujevic
+			</a><br/>
+			Igor Ujevic
+		</td>
+		<td>Fuel Gaming </td>
+		<td>No Twitter Username</td>
+		<td>Split</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>448</td>
+		<td>
+			<a href="https://github.com/MarinaHuber">
+				<img src="https://avatars.githubusercontent.com/u/7971194?s=72&u=e850cfd977bfff360df5a44cd18618fb8de3c3b0&v=4" width="24" alt="Avatar of MarinaHuber"> MarinaHuber
+			</a><br/>
+			marina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>449</td>
+		<td>
+			<a href="https://github.com/hax91">
+				<img src="https://avatars.githubusercontent.com/u/44138037?s=72&u=4a31419e9cac09eccc268636c116c2509cd2dd2b&v=4" width="24" alt="Avatar of hax91"> hax91
+			</a><br/>
+			Azra Subašić
+		</td>
+		<td>Faculty Of Engineering </td>
+		<td>No Twitter Username</td>
+		<td>Rijeka</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>450</td>
+		<td>
+			<a href="https://github.com/hax91">
+				<img src="https://avatars.githubusercontent.com/u/44138037?s=72&u=4a31419e9cac09eccc268636c116c2509cd2dd2b&v=4" width="24" alt="Avatar of hax91"> hax91
+			</a><br/>
+			Azra Subašić
+		</td>
+		<td>Faculty Of Engineering </td>
+		<td>No Twitter Username</td>
+		<td>Rijeka</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>451</td>
+		<td>
+			<a href="https://github.com/fkrajcar">
+				<img src="https://avatars.githubusercontent.com/u/25937081?s=72&u=c90c8f12cdc168b863b4d769a8478f7f50d599da&v=4" width="24" alt="Avatar of fkrajcar"> fkrajcar
+			</a><br/>
+			Filip Krajcar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>452</td>
+		<td>
+			<a href="https://github.com/ttkalec">
+				<img src="https://avatars.githubusercontent.com/u/367536?s=72&v=4" width="24" alt="Avatar of ttkalec"> ttkalec
+			</a><br/>
+			Tino Tkalec
+		</td>
+		<td>Croatia </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>453</td>
+		<td>
+			<a href="https://github.com/marinsagovac">
+				<img src="https://avatars.githubusercontent.com/u/8504733?s=72&u=fa2edf6821284c1d7459ec76bddb9ef70119ab50&v=4" width="24" alt="Avatar of marinsagovac"> marinsagovac
+			</a><br/>
+			Marin Sagovac
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>454</td>
+		<td>
+			<a href="https://github.com/fitodic">
+				<img src="https://avatars.githubusercontent.com/u/9989566?s=72&u=4e28ee883bfd1b88b30bcff7c3548f20d9731cdc&v=4" width="24" alt="Avatar of fitodic"> fitodic
+			</a><br/>
+			Filip Todic
+		</td>
+		<td>T-matix Engineering D.o.o </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>455</td>
+		<td>
+			<a href="https://github.com/daradecic">
+				<img src="https://avatars.githubusercontent.com/u/47007454?s=72&u=a28e2232847c77c958a7f6949c480efb37a828b4&v=4" width="24" alt="Avatar of daradecic"> daradecic
+			</a><br/>
+			Dario Radečić
+		</td>
+		<td>Neos </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>456</td>
+		<td>
+			<a href="https://github.com/tonymrakovcic">
+				<img src="https://avatars.githubusercontent.com/u/3583441?s=72&v=4" width="24" alt="Avatar of tonymrakovcic"> tonymrakovcic
+			</a><br/>
+			Tony Mrakovcic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>457</td>
+		<td>
+			<a href="https://github.com/antonio-tomac">
+				<img src="https://avatars.githubusercontent.com/u/5103070?s=72&u=a761d1ec06c7c5678c46d2fbb8f5bda4e9446633&v=4" width="24" alt="Avatar of antonio-tomac"> antonio-tomac
+			</a><br/>
+			Antonio Tomac
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>458</td>
+		<td>
+			<a href="https://github.com/pele90">
+				<img src="https://avatars.githubusercontent.com/u/6810825?s=72&u=53b9b2db28f81ed5d87b0a3f45432989f9d31444&v=4" width="24" alt="Avatar of pele90"> pele90
+			</a><br/>
+			Goran
+		</td>
+		<td>Gamepires </td>
+		<td><a href="https://twitter.com/gogach90">gogach90</a></td>
+		<td>Zagreb</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>459</td>
+		<td>
+			<a href="https://github.com/fajdof">
+				<img src="https://avatars.githubusercontent.com/u/9283711?s=72&u=535f4d63468079b0eea4aad7f8e607abf4a07369&v=4" width="24" alt="Avatar of fajdof"> fajdof
+			</a><br/>
+			Filip
+		</td>
+		<td>@bornfight  </td>
+		<td><a href="https://twitter.com/fajdof">fajdof</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>460</td>
+		<td>
+			<a href="https://github.com/mpranjic">
+				<img src="https://avatars.githubusercontent.com/u/2545452?s=72&u=28110aff2068726e08f7f8503d0a6a4fb7338994&v=4" width="24" alt="Avatar of mpranjic"> mpranjic
+			</a><br/>
+			Marin Pranjić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia ☀️ ❤️</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>461</td>
+		<td>
+			<a href="https://github.com/zoki">
+				<img src="https://avatars.githubusercontent.com/u/66572?s=72&u=076eecb6113f7d92f9a816e0c84a8ac3eafbb4f0&v=4" width="24" alt="Avatar of zoki"> zoki
+			</a><br/>
+			Zoran Zabcic
+		</td>
+		<td>Effectiva Studio </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>462</td>
+		<td>
+			<a href="https://github.com/AlbertGajsak">
+				<img src="https://avatars.githubusercontent.com/u/19866111?s=72&u=8ce7ae4d4e729aff3f18b10ed3558ad09f7eaabb&v=4" width="24" alt="Avatar of AlbertGajsak"> AlbertGajsak
+			</a><br/>
+			Albert Gajšak
+		</td>
+		<td>@circuitmess </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>463</td>
+		<td>
+			<a href="https://github.com/TheMarionette">
+				<img src="https://avatars.githubusercontent.com/u/15908590?s=72&u=b07b50218a3a90db3f2cb868d2b377d420daabe7&v=4" width="24" alt="Avatar of TheMarionette"> TheMarionette
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>464</td>
+		<td>
+			<a href="https://github.com/jseric">
+				<img src="https://avatars.githubusercontent.com/u/15185814?s=72&u=934aa55440b3f6e5284cb7d15f5c4c26e30056ea&v=4" width="24" alt="Avatar of jseric"> jseric
+			</a><br/>
+			Josip Šerić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>465</td>
+		<td>
+			<a href="https://github.com/msantl">
+				<img src="https://avatars.githubusercontent.com/u/710961?s=72&v=4" width="24" alt="Avatar of msantl"> msantl
+			</a><br/>
+			Matija Santl
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>466</td>
+		<td>
+			<a href="https://github.com/bborovic">
+				<img src="https://avatars.githubusercontent.com/u/9273276?s=72&u=3877f785d755fbf7b408d6c9b348ae6e705d1655&v=4" width="24" alt="Avatar of bborovic"> bborovic
+			</a><br/>
+			Boris Borović
+		</td>
+		<td>@dump-hr  </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>467</td>
+		<td>
+			<a href="https://github.com/jomaras">
+				<img src="https://avatars.githubusercontent.com/u/312732?s=72&v=4" width="24" alt="Avatar of jomaras"> jomaras
+			</a><br/>
+			Josip Maras
+		</td>
+		<td>University Of Split, Croatia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>468</td>
+		<td>
+			<a href="https://github.com/mandryllo">
+				<img src="https://avatars.githubusercontent.com/u/10136836?s=72&u=f6e85f1360c9416f3be310ddfbc9e3b1c5996270&v=4" width="24" alt="Avatar of mandryllo"> mandryllo
+			</a><br/>
+			Frano Sincic
+		</td>
+		<td>Extensionengine </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>469</td>
+		<td>
+			<a href="https://github.com/pero5ar">
+				<img src="https://avatars.githubusercontent.com/u/15316407?s=72&u=6537e0bf406c73a88821ceb7e70775dc929cd731&v=4" width="24" alt="Avatar of pero5ar"> pero5ar
+			</a><br/>
+			Petar Kovačević
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>470</td>
+		<td>
+			<a href="https://github.com/toniperic">
+				<img src="https://avatars.githubusercontent.com/u/5714104?s=72&u=7ef36adc6355d30e08eeac6b5bd5c8a53011fdb3&v=4" width="24" alt="Avatar of toniperic"> toniperic
+			</a><br/>
+			Toni Peric
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/thetoniperic">thetoniperic</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>471</td>
+		<td>
+			<a href="https://github.com/akrezic1">
+				<img src="https://avatars.githubusercontent.com/u/7119798?s=72&u=d02a147c6879c2ae32fd356616360683aa5215c5&v=4" width="24" alt="Avatar of akrezic1"> akrezic1
+			</a><br/>
+			Andro Krezić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>472</td>
+		<td>
+			<a href="https://github.com/igorbeslic">
+				<img src="https://avatars.githubusercontent.com/u/939286?s=72&v=4" width="24" alt="Avatar of igorbeslic"> igorbeslic
+			</a><br/>
+			Igor Bešlić
+		</td>
+		<td>Liferay Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>473</td>
+		<td>
+			<a href="https://github.com/fobos531">
+				<img src="https://avatars.githubusercontent.com/u/19533289?s=72&u=71218f61849f4311e8f4efd570f27791e9933617&v=4" width="24" alt="Avatar of fobos531"> fobos531
+			</a><br/>
+			Jakov Glavina
+		</td>
+		<td>New Avail Llc </td>
+		<td>No Twitter Username</td>
+		<td>Prelog, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>474</td>
+		<td>
+			<a href="https://github.com/mbmjertan">
+				<img src="https://avatars.githubusercontent.com/u/1742806?s=72&u=bb5f2ad0ec5130115edef44b1329253b581e31c2&v=4" width="24" alt="Avatar of mbmjertan"> mbmjertan
+			</a><br/>
+			Mario Borna Mjertan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>475</td>
+		<td>
+			<a href="https://github.com/wingedadventurer">
+				<img src="https://avatars.githubusercontent.com/u/26509794?s=72&u=658dd67bc9b849cede517b77625f9ea44c15aae9&v=4" width="24" alt="Avatar of wingedadventurer"> wingedadventurer
+			</a><br/>
+			Karlo Koščal
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/wngdadventurer">wngdadventurer</a></td>
+		<td>Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>476</td>
+		<td>
+			<a href="https://github.com/tkukurin">
+				<img src="https://avatars.githubusercontent.com/u/297847?s=72&u=c14763cfd4c1f7bc88bf32ae616fe942d0c652c3&v=4" width="24" alt="Avatar of tkukurin"> tkukurin
+			</a><br/>
+			Toni Kukurin
+		</td>
+		<td>Bloomberg Ai </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>477</td>
+		<td>
+			<a href="https://github.com/dejankos">
+				<img src="https://avatars.githubusercontent.com/u/3473778?s=72&u=cd2be9157a5af6a2977cd37b9f52945b192a58be&v=4" width="24" alt="Avatar of dejankos"> dejankos
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>478</td>
+		<td>
+			<a href="https://github.com/bacinger">
+				<img src="https://avatars.githubusercontent.com/u/8011427?s=72&u=00c1cf01172b56cba5ac75091d168265a41c1cbf&v=4" width="24" alt="Avatar of bacinger"> bacinger
+			</a><br/>
+			Tomislav Bacinger
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>479</td>
+		<td>
+			<a href="https://github.com/valagic">
+				<img src="https://avatars.githubusercontent.com/u/59015187?s=72&u=9e8507b4b936aed4ed38226405368f4141b9ff18&v=4" width="24" alt="Avatar of valagic"> valagic
+			</a><br/>
+			Vedran Alagić
+		</td>
+		<td>Combis D.o.o. </td>
+		<td><a href="https://twitter.com/valagic">valagic</a></td>
+		<td>Osijek, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>480</td>
+		<td>
+			<a href="https://github.com/Karl255">
+				<img src="https://avatars.githubusercontent.com/u/49595438?s=72&u=fc2df7bbeb84f1a9ea70959574832b21d59e509f&v=4" width="24" alt="Avatar of Karl255"> Karl255
+			</a><br/>
+			Karlo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>481</td>
+		<td>
+			<a href="https://github.com/markopavlovic">
+				<img src="https://avatars.githubusercontent.com/u/1666889?s=72&u=b8f74584b01224c650e353129e8f014e63f9243d&v=4" width="24" alt="Avatar of markopavlovic"> markopavlovic
+			</a><br/>
+			Marko Pavlovic
+		</td>
+		<td>Flow And Form </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>482</td>
+		<td>
+			<a href="https://github.com/matejgrcic">
+				<img src="https://avatars.githubusercontent.com/u/31892113?s=72&u=80dfdd0050d574ce5cf6cc3d1ebaaa1c205ff1bf&v=4" width="24" alt="Avatar of matejgrcic"> matejgrcic
+			</a><br/>
+			Matej Grcić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>483</td>
+		<td>
+			<a href="https://github.com/drakipovic">
+				<img src="https://avatars.githubusercontent.com/u/8647931?s=72&v=4" width="24" alt="Avatar of drakipovic"> drakipovic
+			</a><br/>
+			Dino Rakipović
+		</td>
+		<td>@toptal </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>484</td>
+		<td>
+			<a href="https://github.com/dsalantic">
+				<img src="https://avatars.githubusercontent.com/u/4263441?s=72&u=9e76a31bf44698dbbfe1c394e3fc7f4e40f8bde8&v=4" width="24" alt="Avatar of dsalantic"> dsalantic
+			</a><br/>
+			Damir Salantic
+		</td>
+		<td>Croatia Control Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>485</td>
+		<td>
+			<a href="https://github.com/spinzed">
+				<img src="https://avatars.githubusercontent.com/u/46136813?s=72&u=fc9fa91a93e6cba5278d1e55478626aecc5e2409&v=4" width="24" alt="Avatar of spinzed"> spinzed
+			</a><br/>
+			Davor Najev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>486</td>
+		<td>
+			<a href="https://github.com/SandraKuzmic">
+				<img src="https://avatars.githubusercontent.com/u/24324738?s=72&u=c2811ac4caf30dbab2710943eab20cac13a653a2&v=4" width="24" alt="Avatar of SandraKuzmic"> SandraKuzmic
+			</a><br/>
+			Sandra Kuzmic
+		</td>
+		<td>Microblink </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>487</td>
+		<td>
+			<a href="https://github.com/mkdizajn">
+				<img src="https://avatars.githubusercontent.com/u/767837?s=72&u=3df3ad4d06506387875185594d0c9c2bb86f66f3&v=4" width="24" alt="Avatar of mkdizajn"> mkdizajn
+			</a><br/>
+			kres
+		</td>
+		<td>#mkdizajn </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>488</td>
+		<td>
+			<a href="https://github.com/dCubelic">
+				<img src="https://avatars.githubusercontent.com/u/1512196?s=72&u=026bcbc298a1463e818710cbbbea4674dd6e5a17&v=4" width="24" alt="Avatar of dCubelic"> dCubelic
+			</a><br/>
+			Dominik
+		</td>
+		<td>Microblink </td>
+		<td><a href="https://twitter.com/dCubelic1">dCubelic1</a></td>
+		<td>Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>489</td>
+		<td>
+			<a href="https://github.com/lukebee">
+				<img src="https://avatars.githubusercontent.com/u/5711591?s=72&u=c984292cc5764b5e566995c4c01408da455c9fa5&v=4" width="24" alt="Avatar of lukebee"> lukebee
+			</a><br/>
+			Luka Bubalo
+		</td>
+		<td>Bornfight </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb,Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>490</td>
+		<td>
+			<a href="https://github.com/aronbalog">
+				<img src="https://avatars.githubusercontent.com/u/1356858?s=72&u=d7d8e26aad0e9e1cd9d516aadd390d0d656a4ac9&v=4" width="24" alt="Avatar of aronbalog"> aronbalog
+			</a><br/>
+			Aron Balog
+		</td>
+		<td>@lotuslambda </td>
+		<td><a href="https://twitter.com/Aron_Balog">Aron_Balog</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>491</td>
+		<td>
+			<a href="https://github.com/berislavbabic">
+				<img src="https://avatars.githubusercontent.com/u/418219?s=72&u=82ab9c7d31db1ad2c9f77d5e87c2753406f377da&v=4" width="24" alt="Avatar of berislavbabic"> berislavbabic
+			</a><br/>
+			Berislav Babic
+		</td>
+		<td>Sessionlab </td>
+		<td><a href="https://twitter.com/berislavbabic">berislavbabic</a></td>
+		<td>Zadar, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>492</td>
+		<td>
+			<a href="https://github.com/smamusa">
+				<img src="https://avatars.githubusercontent.com/u/49687548?s=72&u=c37811153cd925d3c3843ae05ec2f41e909941e3&v=4" width="24" alt="Avatar of smamusa"> smamusa
+			</a><br/>
+			Stjepan Mamuša
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>493</td>
+		<td>
+			<a href="https://github.com/gour">
+				<img src="https://avatars.githubusercontent.com/u/114592?s=72&u=58bc44d46e53dcca04fa5d7b520e5d366827741c&v=4" width="24" alt="Avatar of gour"> gour
+			</a><br/>
+			Saša Janiška
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>494</td>
+		<td>
+			<a href="https://github.com/rpetrano">
+				<img src="https://avatars.githubusercontent.com/u/1047640?s=72&v=4" width="24" alt="Avatar of rpetrano"> rpetrano
+			</a><br/>
+			Robert Petranovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>495</td>
+		<td>
+			<a href="https://github.com/BornaP">
+				<img src="https://avatars.githubusercontent.com/u/8470710?s=72&u=70283d92cf7abc35dc08d7076f34517cc0a753ca&v=4" width="24" alt="Avatar of BornaP"> BornaP
+			</a><br/>
+			Borna Perak
+		</td>
+		<td>@vumedi  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>496</td>
+		<td>
+			<a href="https://github.com/selectnull">
+				<img src="https://avatars.githubusercontent.com/u/247965?s=72&u=5bc6d751e7c1c3a8e086f1d5b51f16fe68ab6254&v=4" width="24" alt="Avatar of selectnull"> selectnull
+			</a><br/>
+			Sasha Matijasic
+		</td>
+		<td>Logit Internet Services Ltd.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>497</td>
+		<td>
+			<a href="https://github.com/zorantodorovic">
+				<img src="https://avatars.githubusercontent.com/u/6382669?s=72&u=e0b57bcf25a1bd5c6b02751657a7b4e0b692f0f2&v=4" width="24" alt="Avatar of zorantodorovic"> zorantodorovic
+			</a><br/>
+			ztodorovic
+		</td>
+		<td>Undabot  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>498</td>
+		<td>
+			<a href="https://github.com/T800G">
+				<img src="https://avatars.githubusercontent.com/u/25018911?s=72&u=8a1cf5f4dd6e29fc3380df104fef7ed886b4f9b8&v=4" width="24" alt="Avatar of T800G"> T800G
+			</a><br/>
+			T800
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>499</td>
+		<td>
+			<a href="https://github.com/pekiZG">
+				<img src="https://avatars.githubusercontent.com/u/1389274?s=72&v=4" width="24" alt="Avatar of pekiZG"> pekiZG
+			</a><br/>
+			Petar Šlat
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>500</td>
+		<td>
+			<a href="https://github.com/Josip503">
+				<img src="https://avatars.githubusercontent.com/u/83242921?s=72&u=6fcafe263051f91739842f5dbc43bdeb5151304b&v=4" width="24" alt="Avatar of Josip503"> Josip503
+			</a><br/>
+			Josip Conjar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>501</td>
+		<td>
+			<a href="https://github.com/mario-jerkovic">
+				<img src="https://avatars.githubusercontent.com/u/16222284?s=72&u=2d346ebf2eb1ea7d641c9bf4c9b230607106f96b&v=4" width="24" alt="Avatar of mario-jerkovic"> mario-jerkovic
+			</a><br/>
+			Mario Jerkovic
+		</td>
+		<td>Rimac Automobili </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>502</td>
+		<td>
+			<a href="https://github.com/kjurkovic">
+				<img src="https://avatars.githubusercontent.com/u/832352?s=72&u=9d2b4e17a664d1cd55fff5762a6dfc0b77e01f1a&v=4" width="24" alt="Avatar of kjurkovic"> kjurkovic
+			</a><br/>
+			Kristijan Jurkovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Pula, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>503</td>
+		<td>
+			<a href="https://github.com/CroTweet">
+				<img src="https://avatars.githubusercontent.com/u/8949864?s=72&u=7165e46b785103298b1ce71a48e320f978778ffd&v=4" width="24" alt="Avatar of CroTweet"> CroTweet
+			</a><br/>
+			Josip Sokec
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>504</td>
+		<td>
+			<a href="https://github.com/gavocanov">
+				<img src="https://avatars.githubusercontent.com/u/1512839?s=72&v=4" width="24" alt="Avatar of gavocanov"> gavocanov
+			</a><br/>
+			Paolo Gavocanov
+		</td>
+		<td>Infobip </td>
+		<td>No Twitter Username</td>
+		<td>Pula, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>505</td>
+		<td>
+			<a href="https://github.com/glepur">
+				<img src="https://avatars.githubusercontent.com/u/3432224?s=72&u=07b24c5e37cc58a84337c33d0862f9fade533a11&v=4" width="24" alt="Avatar of glepur"> glepur
+			</a><br/>
+			Goran Lepur
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>506</td>
+		<td>
+			<a href="https://github.com/johnnymartinovic">
+				<img src="https://avatars.githubusercontent.com/u/9981768?s=72&u=2f45525b4c06c7a6376fffc5dd470ac6face1ca8&v=4" width="24" alt="Avatar of johnnymartinovic"> johnnymartinovic
+			</a><br/>
+			Ivan Martinović
+		</td>
+		<td>Microblink </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>507</td>
+		<td>
+			<a href="https://github.com/khorvat">
+				<img src="https://avatars.githubusercontent.com/u/1308966?s=72&v=4" width="24" alt="Avatar of khorvat"> khorvat
+			</a><br/>
+			khorvat
+		</td>
+		<td>Mono Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>508</td>
+		<td>
+			<a href="https://github.com/sambolek">
+				<img src="https://avatars.githubusercontent.com/u/5627631?s=72&u=1ca3431624210d44b9a22f3dbab24f56efb30f99&v=4" width="24" alt="Avatar of sambolek"> sambolek
+			</a><br/>
+			Petar Sambolek
+		</td>
+		<td>@woomdigital </td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>509</td>
+		<td>
+			<a href="https://github.com/grizwako">
+				<img src="https://avatars.githubusercontent.com/u/2303099?s=72&u=431cdc6532687907a3414c4fe8a7ab0206982580&v=4" width="24" alt="Avatar of grizwako"> grizwako
+			</a><br/>
+			Marin Grizelj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Virovitica, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>510</td>
+		<td>
+			<a href="https://github.com/Heribertosgp">
+				<img src="https://avatars.githubusercontent.com/u/8030133?s=72&u=aa329517766ba27bf65e0cb6d80a9c035a26357e&v=4" width="24" alt="Avatar of Heribertosgp"> Heribertosgp
+			</a><br/>
+			Heriberto Sierra
+		</td>
+		<td>Diversidad Lingüística Y Cultural,<br/>Ibm<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>511</td>
+		<td>
+			<a href="https://github.com/msikic">
+				<img src="https://avatars.githubusercontent.com/u/1531556?s=72&u=78bcaf5ae13010bd12f23090af88387c81df7c09&v=4" width="24" alt="Avatar of msikic"> msikic
+			</a><br/>
+			Mile Sikic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>512</td>
+		<td>
+			<a href="https://github.com/vrsaljk0">
+				<img src="https://avatars.githubusercontent.com/u/43951126?s=72&u=2e4305e9c9d300c822ec176bc5f54c94db3826cd&v=4" width="24" alt="Avatar of vrsaljk0"> vrsaljk0
+			</a><br/>
+			Maja Vrsaljko
+		</td>
+		<td>Faculty Of Engineering Rijeka<br/></td>
+		<td>No Twitter Username</td>
+		<td>Rijeka</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>513</td>
+		<td>
+			<a href="https://github.com/codingdojopula">
+				<img src="https://avatars.githubusercontent.com/u/797566?s=72&v=4" width="24" alt="Avatar of codingdojopula"> codingdojopula
+			</a><br/>
+			Coding Dojo Pula
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Karlo Rojc < Pula < Croatia < Github</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>514</td>
+		<td>
+			<a href="https://github.com/ana-jurina">
+				<img src="https://avatars.githubusercontent.com/u/22560928?s=72&u=c5950a7f148769dd79437ee0bf883890449f4ce0&v=4" width="24" alt="Avatar of ana-jurina"> ana-jurina
+			</a><br/>
+			Ana Jurina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>515</td>
+		<td>
+			<a href="https://github.com/MichaelGG">
+				<img src="https://avatars.githubusercontent.com/u/429031?s=72&v=4" width="24" alt="Avatar of MichaelGG"> MichaelGG
+			</a><br/>
+			Michael Giagnocavo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb - Toronto - Guatemala</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>516</td>
+		<td>
+			<a href="https://github.com/marjev">
+				<img src="https://avatars.githubusercontent.com/u/6833568?s=72&u=1f1ad88a6c2dd6eeea849ea61e3f5e21ab1c4a66&v=4" width="24" alt="Avatar of marjev"> marjev
+			</a><br/>
+			Marko Jevtić
+		</td>
+		<td>@extensionengine  </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>517</td>
+		<td>
+			<a href="https://github.com/mamihelj09">
+				<img src="https://avatars.githubusercontent.com/u/22300510?s=72&u=d08dac4dc9fc8a149801b9aca9753eb53d679d9c&v=4" width="24" alt="Avatar of mamihelj09"> mamihelj09
+			</a><br/>
+			Marko Mihelj
+		</td>
+		<td>Infinum </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>518</td>
+		<td>
+			<a href="https://github.com/BeroBurny">
+				<img src="https://avatars.githubusercontent.com/u/6376047?s=72&u=35f9c7336d41999e84750635c252f8dca0ef7c37&v=4" width="24" alt="Avatar of BeroBurny"> BeroBurny
+			</a><br/>
+			Bernard Stojanović
+		</td>
+		<td>@nodefactoryio </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>519</td>
+		<td>
+			<a href="https://github.com/mvuherer">
+				<img src="https://avatars.githubusercontent.com/u/1645939?s=72&u=5d043df0b289dffa4412ce635fd2787415f3f4c4&v=4" width="24" alt="Avatar of mvuherer"> mvuherer
+			</a><br/>
+			Mihael Vuherer
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Rijeka, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>520</td>
+		<td>
+			<a href="https://github.com/b-babic">
+				<img src="https://avatars.githubusercontent.com/u/11808448?s=72&u=1ef056d15ee40480afab708df5b5639453b44634&v=4" width="24" alt="Avatar of b-babic"> b-babic
+			</a><br/>
+			Benjamin Babic
+		</td>
+		<td>Progressive Studio </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>521</td>
+		<td>
+			<a href="https://github.com/MatijaNovosel">
+				<img src="https://avatars.githubusercontent.com/u/36193643?s=72&u=6630f8e91bad345a2cc50b0e183f8b60035bf5ea&v=4" width="24" alt="Avatar of MatijaNovosel"> MatijaNovosel
+			</a><br/>
+			Matija Novosel
+		</td>
+		<td>Omega Software </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>522</td>
+		<td>
+			<a href="https://github.com/ibebic">
+				<img src="https://avatars.githubusercontent.com/u/20609558?s=72&u=d16edb7458c2baae2ca04c91b951d74b7f789695&v=4" width="24" alt="Avatar of ibebic"> ibebic
+			</a><br/>
+			Igor Bebic
+		</td>
+		<td>@extensionengine  </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>523</td>
+		<td>
+			<a href="https://github.com/mattcroat">
+				<img src="https://avatars.githubusercontent.com/u/38083522?s=72&u=0698c7617a710e6310061629cd9da19a51fe07b6&v=4" width="24" alt="Avatar of mattcroat"> mattcroat
+			</a><br/>
+			Matia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>524</td>
+		<td>
+			<a href="https://github.com/nenadom">
+				<img src="https://avatars.githubusercontent.com/u/7107362?s=72&u=cb4edcae7d87a1268dc84fcf912cd2b38f7cf0ea&v=4" width="24" alt="Avatar of nenadom"> nenadom
+			</a><br/>
+			Nenad Mijatovic
+		</td>
+		<td>@sofascore </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>525</td>
+		<td>
+			<a href="https://github.com/MSekrst">
+				<img src="https://avatars.githubusercontent.com/u/16863956?s=72&u=37dd08db894ad2d4fdab99daee2c9cca9004370a&v=4" width="24" alt="Avatar of MSekrst"> MSekrst
+			</a><br/>
+			Matija Šekrst
+		</td>
+		<td>Sofascore </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>526</td>
+		<td>
+			<a href="https://github.com/LukaPavicic">
+				<img src="https://avatars.githubusercontent.com/u/34309839?s=72&v=4" width="24" alt="Avatar of LukaPavicic"> LukaPavicic
+			</a><br/>
+			Luka Pavičić
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/LukaPavicic4">LukaPavicic4</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>527</td>
+		<td>
+			<a href="https://github.com/kristijanbambir">
+				<img src="https://avatars.githubusercontent.com/u/373850?s=72&u=adce3781988b1e8e72c2ea91c0e887255ce2608b&v=4" width="24" alt="Avatar of kristijanbambir"> kristijanbambir
+			</a><br/>
+			Kristijan Bambir
+		</td>
+		<td>@infinum  </td>
+		<td><a href="https://twitter.com/KristijanBambir">KristijanBambir</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>528</td>
+		<td>
+			<a href="https://github.com/TvrtkoM">
+				<img src="https://avatars.githubusercontent.com/u/551965?s=72&u=11f7166368024e9cb85e027f72d5a3d054cf8c12&v=4" width="24" alt="Avatar of TvrtkoM"> TvrtkoM
+			</a><br/>
+			Tvrtko Majstorović
+		</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>529</td>
+		<td>
+			<a href="https://github.com/gpedic">
+				<img src="https://avatars.githubusercontent.com/u/779118?s=72&u=cccfb88c9e779b12df74cc181c8cd3104f447274&v=4" width="24" alt="Avatar of gpedic"> gpedic
+			</a><br/>
+			Goran Pedić
+		</td>
+		<td>@bluecode </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>530</td>
+		<td>
+			<a href="https://github.com/josipbernat">
+				<img src="https://avatars.githubusercontent.com/u/2537227?s=72&u=95c8481409a91fe8b91ceec0b209b7eccc6f1b98&v=4" width="24" alt="Avatar of josipbernat"> josipbernat
+			</a><br/>
+			Josip Bernat
+		</td>
+		<td>Stroeer Media Brands Apps<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>531</td>
+		<td>
+			<a href="https://github.com/ivodolenc">
+				<img src="https://avatars.githubusercontent.com/u/51852491?s=72&u=5e21a00b86699e3501f67a03d2cbe0beaae3eb46&v=4" width="24" alt="Avatar of ivodolenc"> ivodolenc
+			</a><br/>
+			Ivo Dolenc
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>532</td>
+		<td>
+			<a href="https://github.com/PSmolic">
+				<img src="https://avatars.githubusercontent.com/u/4542049?s=72&u=7b92b61d30aa2b69a05ae94c749cb6c552a3d5d1&v=4" width="24" alt="Avatar of PSmolic"> PSmolic
+			</a><br/>
+			Petar Smolic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>533</td>
+		<td>
+			<a href="https://github.com/mmedenjak">
+				<img src="https://avatars.githubusercontent.com/u/17194871?s=72&u=007e35e0ffb0ab7d629f1bc2184e1106a3ce0ec6&v=4" width="24" alt="Avatar of mmedenjak"> mmedenjak
+			</a><br/>
+			Matko Medenjak
+		</td>
+		<td>@hazelcast  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>534</td>
+		<td>
+			<a href="https://github.com/reactst">
+				<img src="https://avatars.githubusercontent.com/u/48185940?s=72&u=310247faa16daf00a597907b9d9f054155babbd0&v=4" width="24" alt="Avatar of reactst"> reactst
+			</a><br/>
+			Ginca
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>535</td>
+		<td>
+			<a href="https://github.com/cherednichenko">
+				<img src="https://avatars.githubusercontent.com/u/7486878?s=72&u=7fafd4187d4c948d5d8829a45eec19632779b742&v=4" width="24" alt="Avatar of cherednichenko"> cherednichenko
+			</a><br/>
+			Sergey
+		</td>
+		<td>Selfemployed </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>536</td>
+		<td>
+			<a href="https://github.com/Sidd-Dino">
+				<img src="https://avatars.githubusercontent.com/u/48709691?s=72&u=ea127742cbfeb3a1cf8c56ccd78808ff5509e11b&v=4" width="24" alt="Avatar of Sidd-Dino"> Sidd-Dino
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>No clue (Cos Pangea split apart)</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>537</td>
+		<td>
+			<a href="https://github.com/vjekoart">
+				<img src="https://avatars.githubusercontent.com/u/7541149?s=72&u=943c7d58027b49fc4027dd755271006e342bdc32&v=4" width="24" alt="Avatar of vjekoart"> vjekoart
+			</a><br/>
+			Vjekoslav Artić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>538</td>
+		<td>
+			<a href="https://github.com/zpandza">
+				<img src="https://avatars.githubusercontent.com/u/47255903?s=72&v=4" width="24" alt="Avatar of zpandza"> zpandza
+			</a><br/>
+			Zvonimir Pandza
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>539</td>
+		<td>
+			<a href="https://github.com/moltouni">
+				<img src="https://avatars.githubusercontent.com/u/7859417?s=72&u=b8d244dd97d42a728d99133d558467b5e14015cb&v=4" width="24" alt="Avatar of moltouni"> moltouni
+			</a><br/>
+			Mario Novak
+		</td>
+		<td>Andromeda </td>
+		<td><a href="https://twitter.com/moltouni">moltouni</a></td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>540</td>
+		<td>
+			<a href="https://github.com/jerkovicl">
+				<img src="https://avatars.githubusercontent.com/u/5444153?s=72&u=141aa7579d273f7e674d52c3ed9ddc92bbb1748f&v=4" width="24" alt="Avatar of jerkovicl"> jerkovicl
+			</a><br/>
+			Luka Jerković
+		</td>
+		<td>Atos Cvc </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>541</td>
+		<td>
+			<a href="https://github.com/fsuste">
+				<img src="https://avatars.githubusercontent.com/u/3747257?s=72&u=a343bd2676f204601463ec5de4ddeb0e2fb53c5b&v=4" width="24" alt="Avatar of fsuste"> fsuste
+			</a><br/>
+			Filip Suste
+		</td>
+		<td>@flowandform  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>542</td>
+		<td>
+			<a href="https://github.com/leohajder">
+				<img src="https://avatars.githubusercontent.com/u/20298591?s=72&u=37bd0b36e80f3528d466b2243d97d60b94c13a7e&v=4" width="24" alt="Avatar of leohajder"> leohajder
+			</a><br/>
+			Leo Hajder
+		</td>
+		<td>Netgen </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>543</td>
+		<td>
+			<a href="https://github.com/BornaSepic">
+				<img src="https://avatars.githubusercontent.com/u/35802765?s=72&u=fa1f20137dbb5f3a89f6bcddfabc987e973794cb&v=4" width="24" alt="Avatar of BornaSepic"> BornaSepic
+			</a><br/>
+			Borna Šepić
+		</td>
+		<td>Crisp Studio / Storetasker<br/></td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>544</td>
+		<td>
+			<a href="https://github.com/irubido">
+				<img src="https://avatars.githubusercontent.com/u/51483483?s=72&u=a98c1241137060318f696c51164bb49bbb5c5bdd&v=4" width="24" alt="Avatar of irubido"> irubido
+			</a><br/>
+			Ivan Rubido
+		</td>
+		<td>@nodefactoryio  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>545</td>
+		<td>
+			<a href="https://github.com/stjepanpuskaric">
+				<img src="https://avatars.githubusercontent.com/u/83249035?s=72&u=3c47449f988535f04501a052b422698db9d037ea&v=4" width="24" alt="Avatar of stjepanpuskaric"> stjepanpuskaric
+			</a><br/>
+			Stjepan Puškarić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>546</td>
+		<td>
+			<a href="https://github.com/gkliska">
+				<img src="https://avatars.githubusercontent.com/u/880778?s=72&u=d39ad8bca781fa044af16dcbbda7b5170de387b0&v=4" width="24" alt="Avatar of gkliska"> gkliska
+			</a><br/>
+			Goran Kliska
+		</td>
+		<td>@decodio-application  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia, EU</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>547</td>
+		<td>
+			<a href="https://github.com/igobrado">
+				<img src="https://avatars.githubusercontent.com/u/38504449?s=72&u=19a0a940af3ceb4338d4adc7cae4ea540bfb3199&v=4" width="24" alt="Avatar of igobrado"> igobrado
+			</a><br/>
+			Igor Obradović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>548</td>
+		<td>
+			<a href="https://github.com/dariodev">
+				<img src="https://avatars.githubusercontent.com/u/1420451?s=72&v=4" width="24" alt="Avatar of dariodev"> dariodev
+			</a><br/>
+			Dario Devcic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>549</td>
+		<td>
+			<a href="https://github.com/anteburazer">
+				<img src="https://avatars.githubusercontent.com/u/5552682?s=72&u=f954f88259050c0eb80e6f416bb65b823621cd26&v=4" width="24" alt="Avatar of anteburazer"> anteburazer
+			</a><br/>
+			Ante Burazer
+		</td>
+		<td>@poviolabs </td>
+		<td>No Twitter Username</td>
+		<td>Šibenik, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>550</td>
+		<td>
+			<a href="https://github.com/fzilic">
+				<img src="https://avatars.githubusercontent.com/u/1804667?s=72&v=4" width="24" alt="Avatar of fzilic"> fzilic
+			</a><br/>
+			Franjo Žilić
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/frenky666">frenky666</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>551</td>
+		<td>
+			<a href="https://github.com/robier">
+				<img src="https://avatars.githubusercontent.com/u/3607521?s=72&v=4" width="24" alt="Avatar of robier"> robier
+			</a><br/>
+			Robert
+		</td>
+		<td>Code Bending </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>552</td>
+		<td>
+			<a href="https://github.com/gjuric">
+				<img src="https://avatars.githubusercontent.com/u/223015?s=72&u=432083cce212d6e29eae0f554b79ad2885b3faf2&v=4" width="24" alt="Avatar of gjuric"> gjuric
+			</a><br/>
+			Goran Jurić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>553</td>
+		<td>
+			<a href="https://github.com/Chochek">
+				<img src="https://avatars.githubusercontent.com/u/2641549?s=72&v=4" width="24" alt="Avatar of Chochek"> Chochek
+			</a><br/>
+			Marko Corokalo
+		</td>
+		<td>Ambassador </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>554</td>
+		<td>
+			<a href="https://github.com/dkorpar">
+				<img src="https://avatars.githubusercontent.com/u/3198270?s=72&u=4aa1848c201f138f20da7c2756b81b1f6be36363&v=4" width="24" alt="Avatar of dkorpar"> dkorpar
+			</a><br/>
+			Damir Korpar
+		</td>
+		<td>@mediotype  </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>555</td>
+		<td>
+			<a href="https://github.com/avuletica">
+				<img src="https://avatars.githubusercontent.com/u/11634859?s=72&u=c2a26ba9a8cc53f94677667be75f5cecc0b8c115&v=4" width="24" alt="Avatar of avuletica"> avuletica
+			</a><br/>
+			Ante
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>556</td>
+		<td>
+			<a href="https://github.com/ivanjuras">
+				<img src="https://avatars.githubusercontent.com/u/6634086?s=72&u=5887ef446e967b762260123483bdde4265149fdc&v=4" width="24" alt="Avatar of ivanjuras"> ivanjuras
+			</a><br/>
+			Ivan Juras
+		</td>
+		<td>Personal </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>557</td>
+		<td>
+			<a href="https://github.com/hkatic">
+				<img src="https://avatars.githubusercontent.com/u/4093758?s=72&v=4" width="24" alt="Avatar of hkatic"> hkatic
+			</a><br/>
+			Hrvoje Katić
+		</td>
+		<td>Wave Explosions </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>558</td>
+		<td>
+			<a href="https://github.com/msusilovic">
+				<img src="https://avatars.githubusercontent.com/u/58733881?s=72&u=8317e5dca6f4f6187aed65f8185da8971081bb99&v=4" width="24" alt="Avatar of msusilovic"> msusilovic
+			</a><br/>
+			Martina Sušilović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>559</td>
+		<td>
+			<a href="https://github.com/valentt">
+				<img src="https://avatars.githubusercontent.com/u/620901?s=72&u=bcbac0af30eaed2fe85e26970112b5bdca999600&v=4" width="24" alt="Avatar of valentt"> valentt
+			</a><br/>
+			Valent Turkovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>560</td>
+		<td>
+			<a href="https://github.com/Nevensky">
+				<img src="https://avatars.githubusercontent.com/u/2213790?s=72&u=ce950c922ab2c84371080c66049b769a80f323f8&v=4" width="24" alt="Avatar of Nevensky"> Nevensky
+			</a><br/>
+			Neven Golenić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>561</td>
+		<td>
+			<a href="https://github.com/almer101">
+				<img src="https://avatars.githubusercontent.com/u/40769239?s=72&u=39fe0a6d0ea360e12bc9d289b69f80fbc3ba22d4&v=4" width="24" alt="Avatar of almer101"> almer101
+			</a><br/>
+			Ivan Almer
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ivan__almer">ivan__almer</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>562</td>
+		<td>
+			<a href="https://github.com/dsoronda">
+				<img src="https://avatars.githubusercontent.com/u/776370?s=72&u=3843748c4c66f9fa869b3eda6802762326c66f3f&v=4" width="24" alt="Avatar of dsoronda"> dsoronda
+			</a><br/>
+			Dražen Šoronda
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>563</td>
+		<td>
+			<a href="https://github.com/idikic">
+				<img src="https://avatars.githubusercontent.com/u/2021137?s=72&u=8e1fda926cb26e8dd854a3f860138083473752ac&v=4" width="24" alt="Avatar of idikic"> idikic
+			</a><br/>
+			Ivan Đikić
+		</td>
+		<td>Infinum </td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Zagreb</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>564</td>
+		<td>
+			<a href="https://github.com/mpavlovic">
+				<img src="https://avatars.githubusercontent.com/u/3051406?s=72&u=a809a629848222bf9f69c679cc580bfcfc78f232&v=4" width="24" alt="Avatar of mpavlovic"> mpavlovic
+			</a><br/>
+			Milan Pavlović
+		</td>
+		<td>Tellus </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>565</td>
+		<td>
+			<a href="https://github.com/melkior">
+				<img src="https://avatars.githubusercontent.com/u/1012754?s=72&u=bbbe836b7e33c1296cb4d547c996a6f6d43bee2b&v=4" width="24" alt="Avatar of melkior"> melkior
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>566</td>
+		<td>
+			<a href="https://github.com/isvogor-foi">
+				<img src="https://avatars.githubusercontent.com/u/4026204?s=72&u=59a6663f3edc4a1201efc61a9085500f8d04c7aa&v=4" width="24" alt="Avatar of isvogor-foi"> isvogor-foi
+			</a><br/>
+			Ivan Švogor
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>567</td>
+		<td>
+			<a href="https://github.com/helenakos">
+				<img src="https://avatars.githubusercontent.com/u/5180637?s=72&u=a81ad26c51cc7664a8258c5bfd7a3560946ae4d8&v=4" width="24" alt="Avatar of helenakos"> helenakos
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>568</td>
+		<td>
+			<a href="https://github.com/dotocan">
+				<img src="https://avatars.githubusercontent.com/u/10552637?s=72&v=4" width="24" alt="Avatar of dotocan"> dotocan
+			</a><br/>
+			Dominik Otočan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>569</td>
+		<td>
+			<a href="https://github.com/ivanvinski">
+				<img src="https://avatars.githubusercontent.com/u/14854181?s=72&u=0b872880a4a9941112a55bdce097e13b7b560fa7&v=4" width="24" alt="Avatar of ivanvinski"> ivanvinski
+			</a><br/>
+			Ivan Vinski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>570</td>
+		<td>
+			<a href="https://github.com/hrvojejurisic">
+				<img src="https://avatars.githubusercontent.com/u/555179?s=72&u=3c55258dbbb027f2021459c842d1b03a068206b7&v=4" width="24" alt="Avatar of hrvojejurisic"> hrvojejurisic
+			</a><br/>
+			Hrvoje Jurišić
+		</td>
+		<td>Favicode </td>
+		<td>No Twitter Username</td>
+		<td>Vinkovci, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>571</td>
+		<td>
+			<a href="https://github.com/CedricDumont">
+				<img src="https://avatars.githubusercontent.com/u/5184778?s=72&u=916a306e2fb49eee4610b1bb27861b48123e8eff&v=4" width="24" alt="Avatar of CedricDumont"> CedricDumont
+			</a><br/>
+			Dumont Cedric
+		</td>
+		<td>Freelance From Home </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb-Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>572</td>
+		<td>
+			<a href="https://github.com/kristijandraca-xx">
+				<img src="https://avatars.githubusercontent.com/u/2347538?s=72&v=4" width="24" alt="Avatar of kristijandraca-xx"> kristijandraca-xx
+			</a><br/>
+			Kristijan Drača
+		</td>
+		<td>@borealisagency </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>573</td>
+		<td>
+			<a href="https://github.com/Smelikeb">
+				<img src="https://avatars.githubusercontent.com/u/64603243?s=72&u=35525011ed679178051d3858accbc7bbc5a168f3&v=4" width="24" alt="Avatar of Smelikeb"> Smelikeb
+			</a><br/>
+			Melike
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, CROATIA</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>574</td>
+		<td>
+			<a href="https://github.com/Vlado004">
+				<img src="https://avatars.githubusercontent.com/u/45850066?s=72&u=fe0b72bcf977a6cc0d1b885a7c79e2718de5a89d&v=4" width="24" alt="Avatar of Vlado004"> Vlado004
+			</a><br/>
+			Mateo Mamut
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>575</td>
+		<td>
+			<a href="https://github.com/fifi98">
+				<img src="https://avatars.githubusercontent.com/u/1998144?s=72&u=aa9bcc83395ae580a8c12b41707213f8fbdd05de&v=4" width="24" alt="Avatar of fifi98"> fifi98
+			</a><br/>
+			Filip Bel
+		</td>
+		<td>New Avail Llc </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>576</td>
+		<td>
+			<a href="https://github.com/mbareta">
+				<img src="https://avatars.githubusercontent.com/u/2123863?s=72&u=b20302d83ab1321acf3030e0b07ab001a52c1a5a&v=4" width="24" alt="Avatar of mbareta"> mbareta
+			</a><br/>
+			Marin Bareta
+		</td>
+		<td>@extensionengine  </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>577</td>
+		<td>
+			<a href="https://github.com/BrunoJurkovic">
+				<img src="https://avatars.githubusercontent.com/u/28235257?s=72&u=57e3ffa7c1ae9ecd06ed6c9bf1dc3e00ff18742c&v=4" width="24" alt="Avatar of BrunoJurkovic"> BrunoJurkovic
+			</a><br/>
+			Bruno Jurković
+		</td>
+		<td>@rushnationnet </td>
+		<td>No Twitter Username</td>
+		<td>Karlovac, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>578</td>
+		<td>
+			<a href="https://github.com/hrvatskibogmars">
+				<img src="https://avatars.githubusercontent.com/u/2279999?s=72&u=d76e0a5f7ed401f31e32044426820d5da0256c9e&v=4" width="24" alt="Avatar of hrvatskibogmars"> hrvatskibogmars
+			</a><br/>
+			Hrvoje
+		</td>
+		<td>@imbafactory @rezolved @mediatoolkit </td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Zagreb</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>579</td>
+		<td>
+			<a href="https://github.com/Predjo">
+				<img src="https://avatars.githubusercontent.com/u/1365250?s=72&v=4" width="24" alt="Avatar of Predjo"> Predjo
+			</a><br/>
+			Nikola Predovan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>580</td>
+		<td>
+			<a href="https://github.com/Predjo">
+				<img src="https://avatars.githubusercontent.com/u/1365250?s=72&v=4" width="24" alt="Avatar of Predjo"> Predjo
+			</a><br/>
+			Nikola Predovan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>581</td>
+		<td>
+			<a href="https://github.com/kristijansoldo">
+				<img src="https://avatars.githubusercontent.com/u/15091958?s=72&u=5343c3a9eb7f19431f04d8e350168bef19710e48&v=4" width="24" alt="Avatar of kristijansoldo"> kristijansoldo
+			</a><br/>
+			Kristijan Soldo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kristijansoldo">kristijansoldo</a></td>
+		<td>Zagreb,Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>582</td>
+		<td>
+			<a href="https://github.com/AndrejKolar">
+				<img src="https://avatars.githubusercontent.com/u/1213228?s=72&u=b673bb9be22ff20dd842ec84660816ccac6e4714&v=4" width="24" alt="Avatar of AndrejKolar"> AndrejKolar
+			</a><br/>
+			Andrej Kolar
+		</td>
+		<td>Clevertech </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>583</td>
+		<td>
+			<a href="https://github.com/dmurat">
+				<img src="https://avatars.githubusercontent.com/u/470930?s=72&v=4" width="24" alt="Avatar of dmurat"> dmurat
+			</a><br/>
+			Damir Murat
+		</td>
+		<td>Croz </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>584</td>
+		<td>
+			<a href="https://github.com/schef">
+				<img src="https://avatars.githubusercontent.com/u/775502?s=72&u=c5d90e1eb23d64460a8c03421ababc42aaec18a2&v=4" width="24" alt="Avatar of schef"> schef
+			</a><br/>
+			schef
+		</td>
+		<td>@duhovniprojekt @swissinnovationlab  </td>
+		<td><a href="https://twitter.com/zvanstefan">zvanstefan</a></td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>585</td>
+		<td>
+			<a href="https://github.com/dark64">
+				<img src="https://avatars.githubusercontent.com/u/26434260?s=72&u=684cdb6ee9f4659c34e96d9ea89195ed6f018a28&v=4" width="24" alt="Avatar of dark64"> dark64
+			</a><br/>
+			Darko Macesic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>586</td>
+		<td>
+			<a href="https://github.com/tmarice">
+				<img src="https://avatars.githubusercontent.com/u/1169270?s=72&v=4" width="24" alt="Avatar of tmarice"> tmarice
+			</a><br/>
+			Tomislav Maricevic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>587</td>
+		<td>
+			<a href="https://github.com/vburojevic">
+				<img src="https://avatars.githubusercontent.com/u/2234474?s=72&u=edee530e7bdf60f928b4a2aa6f58432bbc4b3ba4&v=4" width="24" alt="Avatar of vburojevic"> vburojevic
+			</a><br/>
+			Vedran Burojević
+		</td>
+		<td>Caffeinated Code </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>588</td>
+		<td>
+			<a href="https://github.com/marin-jovanovic">
+				<img src="https://avatars.githubusercontent.com/u/73588710?s=72&v=4" width="24" alt="Avatar of marin-jovanovic"> marin-jovanovic
+			</a><br/>
+			Marin Jovanović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>589</td>
+		<td>
+			<a href="https://github.com/tomiplaz">
+				<img src="https://avatars.githubusercontent.com/u/8911307?s=72&u=c8f57667f6bfd0ac8077a12e9bf3cb935a7a6bd2&v=4" width="24" alt="Avatar of tomiplaz"> tomiplaz
+			</a><br/>
+			Tomislav Plazonic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>590</td>
+		<td>
+			<a href="https://github.com/jaksa-b">
+				<img src="https://avatars.githubusercontent.com/u/6950801?s=72&u=1f31389a2c73c264fe9a8bab9584864cb84741b0&v=4" width="24" alt="Avatar of jaksa-b"> jaksa-b
+			</a><br/>
+			Jakša Bašić
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jaksabasic">jaksabasic</a></td>
+		<td>Zadar, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>591</td>
+		<td>
+			<a href="https://github.com/dimitri-dev">
+				<img src="https://avatars.githubusercontent.com/u/58113389?s=72&u=e600d2af38314cdf090cceca270a49862a0b0894&v=4" width="24" alt="Avatar of dimitri-dev"> dimitri-dev
+			</a><br/>
+			Neven Marić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>592</td>
+		<td>
+			<a href="https://github.com/imornar">
+				<img src="https://avatars.githubusercontent.com/u/9463015?s=72&u=579fac46c0f0042beed7c72460e89f49e34be41b&v=4" width="24" alt="Avatar of imornar"> imornar
+			</a><br/>
+			Ivan Mornar
+		</td>
+		<td>Toptal </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>593</td>
+		<td>
+			<a href="https://github.com/ivan-samardzic">
+				<img src="https://avatars.githubusercontent.com/u/56680446?s=72&u=d54be6e5af8857649295478b356854fe5514e51a&v=4" width="24" alt="Avatar of ivan-samardzic"> ivan-samardzic
+			</a><br/>
+			Samardzic
+		</td>
+		<td>Infoscope </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>594</td>
+		<td>
+			<a href="https://github.com/Zrna">
+				<img src="https://avatars.githubusercontent.com/u/22341530?s=72&u=95f95cd9da8da4884d81385c4a5199aae3c6316b&v=4" width="24" alt="Avatar of Zrna"> Zrna
+			</a><br/>
+			Luka Zrnić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>595</td>
+		<td>
+			<a href="https://github.com/Ivan1248">
+				<img src="https://avatars.githubusercontent.com/u/8408581?s=72&u=f5827d9478a3ccd0b837cdefe3bbd10794d9317c&v=4" width="24" alt="Avatar of Ivan1248"> Ivan1248
+			</a><br/>
+			No Name
+		</td>
+		<td>Faculty Of Electrical Engineering<br/>And<br/>Computing,<br/>University<br/>Of<br/>Zagreb<br/></td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>596</td>
+		<td>
+			<a href="https://github.com/lukacupic">
+				<img src="https://avatars.githubusercontent.com/u/22443169?s=72&u=b4aa1741929d3e015730c8fa1a59fd7d3d728b62&v=4" width="24" alt="Avatar of lukacupic"> lukacupic
+			</a><br/>
+			Luka Čupić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Pula, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>597</td>
+		<td>
+			<a href="https://github.com/lucev">
+				<img src="https://avatars.githubusercontent.com/u/326749?s=72&u=6bd195e8c8008e923b3d98af44dd7ec20d08559f&v=4" width="24" alt="Avatar of lucev"> lucev
+			</a><br/>
+			Ivan Lučev
+		</td>
+		<td>Refactorit </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>598</td>
+		<td>
+			<a href="https://github.com/aostrun">
+				<img src="https://avatars.githubusercontent.com/u/13381086?s=72&u=38cde6357291216643f242511e76dc319f892700&v=4" width="24" alt="Avatar of aostrun"> aostrun
+			</a><br/>
+			Andrijan Ostrun
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>599</td>
+		<td>
+			<a href="https://github.com/IvanVlasic">
+				<img src="https://avatars.githubusercontent.com/u/10476262?s=72&u=3758eab35055d69d31004beb6f7e2b418ffd4938&v=4" width="24" alt="Avatar of IvanVlasic"> IvanVlasic
+			</a><br/>
+			Ivan Vlašić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>600</td>
+		<td>
+			<a href="https://github.com/toncek345">
+				<img src="https://avatars.githubusercontent.com/u/10179919?s=72&u=d0aedeef53c8eac72ad68730da9a622e99ec3edf&v=4" width="24" alt="Avatar of toncek345"> toncek345
+			</a><br/>
+			Antonio Bosak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>601</td>
+		<td>
+			<a href="https://github.com/h00s">
+				<img src="https://avatars.githubusercontent.com/u/15060?s=72&u=685c593eb3810976d003fe3e8131f334dbdfc916&v=4" width="24" alt="Avatar of h00s"> h00s
+			</a><br/>
+			Krunoslav Husak
+		</td>
+		<td>Vub, Binel Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Daruvar, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>602</td>
+		<td>
+			<a href="https://github.com/Novarch129">
+				<img src="https://avatars.githubusercontent.com/u/61386975?s=72&u=43c5b56fc39f616c92764e7f6c219a38e5fdf397&v=4" width="24" alt="Avatar of Novarch129"> Novarch129
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dubrovnik, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>603</td>
+		<td>
+			<a href="https://github.com/nvojkovic">
+				<img src="https://avatars.githubusercontent.com/u/7647364?s=72&u=8dc457d7c15b2b8075f3be55ea1ccc1b6557729d&v=4" width="24" alt="Avatar of nvojkovic"> nvojkovic
+			</a><br/>
+			Nikola Vojkovic
+		</td>
+		<td>Toptal </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>604</td>
+		<td>
+			<a href="https://github.com/chule">
+				<img src="https://avatars.githubusercontent.com/u/776736?s=72&u=7a53395aaf16280cc2f0273ff80883afbb4276fa&v=4" width="24" alt="Avatar of chule"> chule
+			</a><br/>
+			Igor Cuckovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>605</td>
+		<td>
+			<a href="https://github.com/zstanecic">
+				<img src="https://avatars.githubusercontent.com/u/11149715?s=72&v=4" width="24" alt="Avatar of zstanecic"> zstanecic
+			</a><br/>
+			Zvonimir Stanečić
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/zvonimirek222">zvonimirek222</a></td>
+		<td>Zagreb</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>606</td>
+		<td>
+			<a href="https://github.com/skoric">
+				<img src="https://avatars.githubusercontent.com/u/1541947?s=72&u=2e8b043508ae7f3ccc0eb7228b9290758f023b21&v=4" width="24" alt="Avatar of skoric"> skoric
+			</a><br/>
+			Ivan Škorić
+		</td>
+		<td>Dalvik D.o.o </td>
+		<td><a href="https://twitter.com/skoric_">skoric_</a></td>
+		<td>Osijek, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>607</td>
+		<td>
+			<a href="https://github.com/dlozina">
+				<img src="https://avatars.githubusercontent.com/u/28594128?s=72&u=958f90ebbf9a3b63eb4a4fdb39f3c59260d9d032&v=4" width="24" alt="Avatar of dlozina"> dlozina
+			</a><br/>
+			Dino Lozina
+		</td>
+		<td>It Sistemi D.o.o </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>608</td>
+		<td>
+			<a href="https://github.com/bfriscic">
+				<img src="https://avatars.githubusercontent.com/u/63671636?s=72&u=1db0669538c1c0ad51cd547b66341566461c8591&v=4" width="24" alt="Avatar of bfriscic"> bfriscic
+			</a><br/>
+			Bernard Friščić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>609</td>
+		<td>
+			<a href="https://github.com/PetarIvancevic">
+				<img src="https://avatars.githubusercontent.com/u/9866416?s=72&u=b5909c6fbc3ef6dac6627e556ce1f250c293eb7e&v=4" width="24" alt="Avatar of PetarIvancevic"> PetarIvancevic
+			</a><br/>
+			Petar Ivancevic
+		</td>
+		<td>Blazing Edge </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>610</td>
+		<td>
+			<a href="https://github.com/antoniagrabar">
+				<img src="https://avatars.githubusercontent.com/u/62219941?s=72&v=4" width="24" alt="Avatar of antoniagrabar"> antoniagrabar
+			</a><br/>
+			Antonia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>611</td>
+		<td>
+			<a href="https://github.com/vvidic">
+				<img src="https://avatars.githubusercontent.com/u/10667217?s=72&v=4" width="24" alt="Avatar of vvidic"> vvidic
+			</a><br/>
+			Valentin Vidić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>612</td>
+		<td>
+			<a href="https://github.com/ivankokan">
+				<img src="https://avatars.githubusercontent.com/u/1058211?s=72&u=87477855e48a1fd7b927d68bcd537e53b14e2f91&v=4" width="24" alt="Avatar of ivankokan"> ivankokan
+			</a><br/>
+			Ivan Kokan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>613</td>
+		<td>
+			<a href="https://github.com/avirati">
+				<img src="https://avatars.githubusercontent.com/u/1936119?s=72&u=436e795a7baf9a8d24431120fa8317ad250e2338&v=4" width="24" alt="Avatar of avirati"> avirati
+			</a><br/>
+			Avinash Verma
+		</td>
+		<td>Oradian </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>614</td>
+		<td>
+			<a href="https://github.com/pelivan">
+				<img src="https://avatars.githubusercontent.com/u/80061997?s=72&u=fef1807de9e770468d58c3027e8a2b578f261d0a&v=4" width="24" alt="Avatar of pelivan"> pelivan
+			</a><br/>
+			Ivan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split,Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>615</td>
+		<td>
+			<a href="https://github.com/precla">
+				<img src="https://avatars.githubusercontent.com/u/7177449?s=72&u=b00d94176e682eaddbd45fef9b07fafbb85b9e1f&v=4" width="24" alt="Avatar of precla"> precla
+			</a><br/>
+			Antonio Prcela
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Košute, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>616</td>
+		<td>
+			<a href="https://github.com/amatanovic">
+				<img src="https://avatars.githubusercontent.com/u/9751170?s=72&u=a762966c26ba97de9044ca5d60ad19eab2256b8e&v=4" width="24" alt="Avatar of amatanovic"> amatanovic
+			</a><br/>
+			Antun Matanović
+		</td>
+		<td>@inchoo  </td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>617</td>
+		<td>
+			<a href="https://github.com/bbudano">
+				<img src="https://avatars.githubusercontent.com/u/37775471?s=72&u=72b11f74f4461813eb065ba90a7b107f112d5801&v=4" width="24" alt="Avatar of bbudano"> bbudano
+			</a><br/>
+			Bernard Budano
+		</td>
+		<td>Base58 D.o.o. </td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>618</td>
+		<td>
+			<a href="https://github.com/kosirm">
+				<img src="https://avatars.githubusercontent.com/u/54502?s=72&u=29fc2ee1f344b8d92833f3c722c945329412f144&v=4" width="24" alt="Avatar of kosirm"> kosirm
+			</a><br/>
+			Milan Košir
+		</td>
+		<td>Dreambox </td>
+		<td>No Twitter Username</td>
+		<td>Pula, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>619</td>
+		<td>
+			<a href="https://github.com/BudimirDavor">
+				<img src="https://avatars.githubusercontent.com/u/47507294?s=72&u=923a79087736879be21abaf1c17cf13a9e52582e&v=4" width="24" alt="Avatar of BudimirDavor"> BudimirDavor
+			</a><br/>
+			Davor Budimir
+		</td>
+		<td>Informatikaplus </td>
+		<td><a href="https://twitter.com/davorbudimir">davorbudimir</a></td>
+		<td>Split</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>620</td>
+		<td>
+			<a href="https://github.com/Th30n">
+				<img src="https://avatars.githubusercontent.com/u/4943600?s=72&v=4" width="24" alt="Avatar of Th30n"> Th30n
+			</a><br/>
+			Teon Banek
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>621</td>
+		<td>
+			<a href="https://github.com/toperkov">
+				<img src="https://avatars.githubusercontent.com/u/8695815?s=72&u=ba697f9b96558ddfc4661c717fa78a1ea98094b6&v=4" width="24" alt="Avatar of toperkov"> toperkov
+			</a><br/>
+			Toni Perkovic
+		</td>
+		<td>University Of Split, Fesb<br/></td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>622</td>
+		<td>
+			<a href="https://github.com/sandislonjsak">
+				<img src="https://avatars.githubusercontent.com/u/31238240?s=72&u=5281613502b523fca74ff36238d6b7ee12e4cc37&v=4" width="24" alt="Avatar of sandislonjsak"> sandislonjsak
+			</a><br/>
+			Sandi Slonjšak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>623</td>
+		<td>
+			<a href="https://github.com/mozgy">
+				<img src="https://avatars.githubusercontent.com/u/5297353?s=72&v=4" width="24" alt="Avatar of mozgy"> mozgy
+			</a><br/>
+			Mario Mikočević
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sisak, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>624</td>
+		<td>
+			<a href="https://github.com/tabaktoni">
+				<img src="https://avatars.githubusercontent.com/u/923054?s=72&v=4" width="24" alt="Avatar of tabaktoni"> tabaktoni
+			</a><br/>
+			Toni Tabak
+		</td>
+		<td>@extensionengine  </td>
+		<td>No Twitter Username</td>
+		<td>Split</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>625</td>
+		<td>
+			<a href="https://github.com/ianrumac">
+				<img src="https://avatars.githubusercontent.com/u/6658593?s=72&u=e010bf2e941b97b71dbb92a9cec6ec1c52c80ec9&v=4" width="24" alt="Avatar of ianrumac"> ianrumac
+			</a><br/>
+			Ian Rumac
+		</td>
+		<td>@lotuslambda   </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>626</td>
+		<td>
+			<a href="https://github.com/BKova">
+				<img src="https://avatars.githubusercontent.com/u/11560414?s=72&u=a3530a751d0af9f62e49f2f3acc5f720a7576cc4&v=4" width="24" alt="Avatar of BKova"> BKova
+			</a><br/>
+			Bartul Kovačić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>627</td>
+		<td>
+			<a href="https://github.com/mknezic">
+				<img src="https://avatars.githubusercontent.com/u/1107403?s=72&u=7f75972c0c14730cb12948eb73284bb87668e83a&v=4" width="24" alt="Avatar of mknezic"> mknezic
+			</a><br/>
+			Mladen Knezic
+		</td>
+		<td>Croz </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>628</td>
+		<td>
+			<a href="https://github.com/ikalafat">
+				<img src="https://avatars.githubusercontent.com/u/9768096?s=72&u=44f2f1aef928d7f05ac19be48f8b827b050d33b9&v=4" width="24" alt="Avatar of ikalafat"> ikalafat
+			</a><br/>
+			Ivan Kalafatic
+		</td>
+		<td>@monosoftware  </td>
+		<td>No Twitter Username</td>
+		<td>Milky Way, Earth, Europe, Croatia, Osijek.</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>629</td>
+		<td>
+			<a href="https://github.com/iborko">
+				<img src="https://avatars.githubusercontent.com/u/9485939?s=72&u=35a93517504e0f54933969de9a7d5156d8f9ec01&v=4" width="24" alt="Avatar of iborko"> iborko
+			</a><br/>
+			Ivan Borko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>630</td>
+		<td>
+			<a href="https://github.com/ivan-radic">
+				<img src="https://avatars.githubusercontent.com/u/12585358?s=72&u=db139bb18f3ecfdf07f8524915e7885e973d42fd&v=4" width="24" alt="Avatar of ivan-radic"> ivan-radic
+			</a><br/>
+			Ivan Radić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>631</td>
+		<td>
+			<a href="https://github.com/zeljkokunica">
+				<img src="https://avatars.githubusercontent.com/u/1288465?s=72&v=4" width="24" alt="Avatar of zeljkokunica"> zeljkokunica
+			</a><br/>
+			Željko Kunica
+		</td>
+		<td>Clean Code </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>632</td>
+		<td>
+			<a href="https://github.com/mivanek">
+				<img src="https://avatars.githubusercontent.com/u/2421226?s=72&u=c2d4bf40fb7750386283730e8fd1dddbab4e080f&v=4" width="24" alt="Avatar of mivanek"> mivanek
+			</a><br/>
+			Marko Ivanek
+		</td>
+		<td>Butterflymx </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>633</td>
+		<td>
+			<a href="https://github.com/elops">
+				<img src="https://avatars.githubusercontent.com/u/3287692?s=72&v=4" width="24" alt="Avatar of elops"> elops
+			</a><br/>
+			Hrvoje Spoljar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>634</td>
+		<td>
+			<a href="https://github.com/giavjeko">
+				<img src="https://avatars.githubusercontent.com/u/7447847?s=72&u=81015757cb8eba8c547480d84b84f11df93bf331&v=4" width="24" alt="Avatar of giavjeko"> giavjeko
+			</a><br/>
+			Vjekoslav Giacometti
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>635</td>
+		<td>
+			<a href="https://github.com/ssasa">
+				<img src="https://avatars.githubusercontent.com/u/1027287?s=72&v=4" width="24" alt="Avatar of ssasa"> ssasa
+			</a><br/>
+			Sasa Skevin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>636</td>
+		<td>
+			<a href="https://github.com/reygoch">
+				<img src="https://avatars.githubusercontent.com/u/8524934?s=72&v=4" width="24" alt="Avatar of reygoch"> reygoch
+			</a><br/>
+			Luka Hadžiegrić
+		</td>
+		<td>Blazingpaper </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>637</td>
+		<td>
+			<a href="https://github.com/mihaeltomic">
+				<img src="https://avatars.githubusercontent.com/u/7020915?s=72&v=4" width="24" alt="Avatar of mihaeltomic"> mihaeltomic
+			</a><br/>
+			Mihael Tomić
+		</td>
+		<td>Mono D.o.o. </td>
+		<td><a href="https://twitter.com/tomic_mihael">tomic_mihael</a></td>
+		<td>Croatia, Novaki Bizovacki</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>638</td>
+		<td>
+			<a href="https://github.com/deresh">
+				<img src="https://avatars.githubusercontent.com/u/1499?s=72&v=4" width="24" alt="Avatar of deresh"> deresh
+			</a><br/>
+			Krešo Kunjas
+		</td>
+		<td>@trikoder  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>639</td>
+		<td>
+			<a href="https://github.com/tgrubisic">
+				<img src="https://avatars.githubusercontent.com/u/3350110?s=72&v=4" width="24" alt="Avatar of tgrubisic"> tgrubisic
+			</a><br/>
+			Tomislav Grubišić
+		</td>
+		<td>Degordian </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>640</td>
+		<td>
+			<a href="https://github.com/ivanevacic">
+				<img src="https://avatars.githubusercontent.com/u/34003482?s=72&u=bcf2605eaed8a54b3d18b021850431c62d1d9b37&v=4" width="24" alt="Avatar of ivanevacic"> ivanevacic
+			</a><br/>
+			Ivan Evačić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Koprivnica,Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>641</td>
+		<td>
+			<a href="https://github.com/bodavk">
+				<img src="https://avatars.githubusercontent.com/u/23699852?s=72&v=4" width="24" alt="Avatar of bodavk"> bodavk
+			</a><br/>
+			Bogdan Erdelji
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Varaždin, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>642</td>
+		<td>
+			<a href="https://github.com/cyfrus">
+				<img src="https://avatars.githubusercontent.com/u/10135692?s=72&u=2d1f934b30facb7d6c516f13c74534622bfad031&v=4" width="24" alt="Avatar of cyfrus"> cyfrus
+			</a><br/>
+			D M
+		</td>
+		<td>Ert </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>643</td>
+		<td>
+			<a href="https://github.com/ivanoreh">
+				<img src="https://avatars.githubusercontent.com/u/947345?s=72&u=6ddffeb2f94f6cfd625d288f09ac261c309653cd&v=4" width="24" alt="Avatar of ivanoreh"> ivanoreh
+			</a><br/>
+			Ivan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Koprivnica, Croatia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>644</td>
+		<td>
+			<a href="https://github.com/PetraJambrisko">
+				<img src="https://avatars.githubusercontent.com/u/37147095?s=72&u=572629356a7c3900d495f943d2f85a21508a61f8&v=4" width="24" alt="Avatar of PetraJambrisko"> PetraJambrisko
+			</a><br/>
+			Petra Jambrisko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>645</td>
+		<td>
+			<a href="https://github.com/mpetrun5">
+				<img src="https://avatars.githubusercontent.com/u/22918781?s=72&u=c5df1d3301d80c7251ea67b2b24cdff23ea3b3d2&v=4" width="24" alt="Avatar of mpetrun5"> mpetrun5
+			</a><br/>
+			Matija Petrunić
+		</td>
+		<td>@nodefactoryio </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, CRO</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>646</td>
+		<td>
+			<a href="https://github.com/apolloFER">
+				<img src="https://avatars.githubusercontent.com/u/6859904?s=72&u=0482da0e7466cc7a5edd89213ab6fb6ee6995fa4&v=4" width="24" alt="Avatar of apolloFER"> apolloFER
+			</a><br/>
+			Darko Ronić
+		</td>
+		<td>@zapier  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>647</td>
+		<td>
+			<a href="https://github.com/DarkoKlisuric">
+				<img src="https://avatars.githubusercontent.com/u/44619056?s=72&u=34aa82ad3a589d749980078c84a3184129630b65&v=4" width="24" alt="Avatar of DarkoKlisuric"> DarkoKlisuric
+			</a><br/>
+			Darko Klisurić
+		</td>
+		<td>@trikoder </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>648</td>
+		<td>
+			<a href="https://github.com/KevinBdev">
+				<img src="https://avatars.githubusercontent.com/u/57373099?s=72&u=dc963ef01b0278aa8364aa31eb73ddb6e062acc0&v=4" width="24" alt="Avatar of KevinBdev"> KevinBdev
+			</a><br/>
+			Kevin Bogdan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>649</td>
+		<td>
+			<a href="https://github.com/jurajhilje">
+				<img src="https://avatars.githubusercontent.com/u/3176222?s=72&u=26ff0a354965f26e1aa67371af785bdcb29e6e2c&v=4" width="24" alt="Avatar of jurajhilje"> jurajhilje
+			</a><br/>
+			Juraj Hilje
+		</td>
+		<td>Ivpn </td>
+		<td><a href="https://twitter.com/juraj_hilje">juraj_hilje</a></td>
+		<td>Zadar, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>650</td>
+		<td>
+			<a href="https://github.com/ilovric00">
+				<img src="https://avatars.githubusercontent.com/u/31274389?s=72&u=2057ef1b82742c010061c9e26f1bb91e1938f2f2&v=4" width="24" alt="Avatar of ilovric00"> ilovric00
+			</a><br/>
+			Ivan Lovrić
+		</td>
+		<td>@profico </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>651</td>
+		<td>
+			<a href="https://github.com/safo6m">
+				<img src="https://avatars.githubusercontent.com/u/3437122?s=72&u=c1eba9e296b0692b7efe65a0c3b984355c1da282&v=4" width="24" alt="Avatar of safo6m"> safo6m
+			</a><br/>
+			Mihael Šafarić
+		</td>
+		<td>@infinum @infinumjs  </td>
+		<td><a href="https://twitter.com/safo6m">safo6m</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>652</td>
+		<td>
+			<a href="https://github.com/nmlinaric">
+				<img src="https://avatars.githubusercontent.com/u/35880252?s=72&u=1711b7ac79b4c714be01dd9e5ebf5f21f57a97ca&v=4" width="24" alt="Avatar of nmlinaric"> nmlinaric
+			</a><br/>
+			Nikola Mlinarić
+		</td>
+		<td>@nodefactoryio </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>653</td>
+		<td>
+			<a href="https://github.com/itacdonev">
+				<img src="https://avatars.githubusercontent.com/u/6032468?s=72&u=03d80c6121af1305aa98c3718f0e99ead26032f1&v=4" width="24" alt="Avatar of itacdonev"> itacdonev
+			</a><br/>
+			Ita Cirovic Donev
+		</td>
+		<td>Finmetrika D.o.o. </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>654</td>
+		<td>
+			<a href="https://github.com/vuki656">
+				<img src="https://avatars.githubusercontent.com/u/8104698?s=72&u=7bfee49da8cde0a5df9c7fe26ed4fe718220ce32&v=4" width="24" alt="Avatar of vuki656"> vuki656
+			</a><br/>
+			Domagoj
+		</td>
+		<td>Rimac Automobili </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>655</td>
+		<td>
+			<a href="https://github.com/netopolit">
+				<img src="https://avatars.githubusercontent.com/u/131025?s=72&u=aa1426dad8bb51cdfb06f2166d87351ef62691c5&v=4" width="24" alt="Avatar of netopolit"> netopolit
+			</a><br/>
+			Mislav Paparella
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>656</td>
+		<td>
+			<a href="https://github.com/IvanGrginovInf">
+				<img src="https://avatars.githubusercontent.com/u/41570713?s=72&u=b2605e4df8015a9ec7d408eabfc3953cb75806ff&v=4" width="24" alt="Avatar of IvanGrginovInf"> IvanGrginovInf
+			</a><br/>
+			Ivan Grginov
+		</td>
+		<td>@infinum  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>657</td>
+		<td>
+			<a href="https://github.com/karabaja4">
+				<img src="https://avatars.githubusercontent.com/u/1043015?s=72&u=a9dfd5bdd0196afcd92ec95dc6932e3263a55461&v=4" width="24" alt="Avatar of karabaja4"> karabaja4
+			</a><br/>
+			Igor Saric
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>658</td>
+		<td>
+			<a href="https://github.com/lmark1">
+				<img src="https://avatars.githubusercontent.com/u/26650764?s=72&u=692d7a0c6ae680f5be1390fb8b17fa3797f1e750&v=4" width="24" alt="Avatar of lmark1"> lmark1
+			</a><br/>
+			Lovro Marković
+		</td>
+		<td>Laboratory For Robotics And<br/>Intelligent<br/>Control<br/>Systems<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>659</td>
+		<td>
+			<a href="https://github.com/sheeepdev">
+				<img src="https://avatars.githubusercontent.com/u/68562536?s=72&u=cc1f82d576a57e5cc7a7e2504c5c18ffc5801748&v=4" width="24" alt="Avatar of sheeepdev"> sheeepdev
+			</a><br/>
+			sheepdev
+		</td>
+		<td>@winthemers </td>
+		<td><a href="https://twitter.com/imsheeeep">imsheeeep</a></td>
+		<td>zagreb, croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>660</td>
+		<td>
+			<a href="https://github.com/sahataba">
+				<img src="https://avatars.githubusercontent.com/u/327253?s=72&u=ed01fc4faba81591d04e4639fe924cea44200c68&v=4" width="24" alt="Avatar of sahataba"> sahataba
+			</a><br/>
+			Rudolf Markulin
+		</td>
+		<td>2/3 </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>661</td>
+		<td>
+			<a href="https://github.com/DenisPav">
+				<img src="https://avatars.githubusercontent.com/u/7118851?s=72&v=4" width="24" alt="Avatar of DenisPav"> DenisPav
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>662</td>
+		<td>
+			<a href="https://github.com/vojkog">
+				<img src="https://avatars.githubusercontent.com/u/3501456?s=72&u=571ed3dfe25b432928134864730940391d500caa&v=4" width="24" alt="Avatar of vojkog"> vojkog
+			</a><br/>
+			vojimir golem
+		</td>
+		<td>Microgolem D.o.o. </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>663</td>
+		<td>
+			<a href="https://github.com/kmaric69">
+				<img src="https://avatars.githubusercontent.com/u/11028407?s=72&u=39e16d0115cd6e02feb4cfbb3165576736813bd0&v=4" width="24" alt="Avatar of kmaric69"> kmaric69
+			</a><br/>
+			Kristijan Marić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>664</td>
+		<td>
+			<a href="https://github.com/alexsosic">
+				<img src="https://avatars.githubusercontent.com/u/1306974?s=72&v=4" width="24" alt="Avatar of alexsosic"> alexsosic
+			</a><br/>
+			Aleksandar Sosic
+		</td>
+		<td>@canyanio  </td>
+		<td>No Twitter Username</td>
+		<td>Rovinj, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>665</td>
+		<td>
+			<a href="https://github.com/davidpodrebarac">
+				<img src="https://avatars.githubusercontent.com/u/22641071?s=72&u=bf2f62266780f1b508ec882fc82272db1fe51468&v=4" width="24" alt="Avatar of davidpodrebarac"> davidpodrebarac
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>666</td>
+		<td>
+			<a href="https://github.com/tomislavmamic">
+				<img src="https://avatars.githubusercontent.com/u/15949483?s=72&u=ec8e8ff9d4532d405c42ad0e4431482dd18c60ba&v=4" width="24" alt="Avatar of tomislavmamic"> tomislavmamic
+			</a><br/>
+			Tomislav Mamić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>667</td>
+		<td>
+			<a href="https://github.com/ppufek">
+				<img src="https://avatars.githubusercontent.com/u/47419951?s=72&u=be00b6256b5652eda8793e7f66afd006b84bee2b&v=4" width="24" alt="Avatar of ppufek"> ppufek
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>668</td>
+		<td>
+			<a href="https://github.com/ivicac">
+				<img src="https://avatars.githubusercontent.com/u/969971?s=72&v=4" width="24" alt="Avatar of ivicac"> ivicac
+			</a><br/>
+			Ivica Čardić
+		</td>
+		<td>Liferay Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>669</td>
+		<td>
+			<a href="https://github.com/tomislav-ficko">
+				<img src="https://avatars.githubusercontent.com/u/30406915?s=72&u=d14b82080ef2097f0e43e2d4cea2db7d3503bff1&v=4" width="24" alt="Avatar of tomislav-ficko"> tomislav-ficko
+			</a><br/>
+			Tomislav Fičko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>670</td>
+		<td>
+			<a href="https://github.com/marijanp">
+				<img src="https://avatars.githubusercontent.com/u/13599169?s=72&u=90d23a7d39bbaedf653daac52780e25d30ed1a42&v=4" width="24" alt="Avatar of marijanp"> marijanp
+			</a><br/>
+			Marijan
+		</td>
+		<td>Karlsruhe Institute Of Technology<br/>(kit)<br/></td>
+		<td><a href="https://twitter.com/marijanpe">marijanpe</a></td>
+		<td>Split, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>671</td>
+		<td>
+			<a href="https://github.com/fkdosilovic">
+				<img src="https://avatars.githubusercontent.com/u/3754741?s=72&u=0771ceb47f5717a432392776e34328049baa5501&v=4" width="24" alt="Avatar of fkdosilovic"> fkdosilovic
+			</a><br/>
+			Filip Karlo Došilović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>672</td>
+		<td>
+			<a href="https://github.com/ShockwaVee">
+				<img src="https://avatars.githubusercontent.com/u/19169288?s=72&u=fb2d011a5419d273ed40abe4860b2a6687e44ac0&v=4" width="24" alt="Avatar of ShockwaVee"> ShockwaVee
+			</a><br/>
+			Davor Tvoric
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>673</td>
+		<td>
+			<a href="https://github.com/nborovic">
+				<img src="https://avatars.githubusercontent.com/u/23612489?s=72&u=93a7df9bb83719a2222b2c3f47050f082195ef29&v=4" width="24" alt="Avatar of nborovic"> nborovic
+			</a><br/>
+			Nino Borović
+		</td>
+		<td>Dump Association Of Young<br/>Programmers<br/></td>
+		<td>No Twitter Username</td>
+		<td>Split </td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>674</td>
+		<td>
+			<a href="https://github.com/radovix">
+				<img src="https://avatars.githubusercontent.com/u/32815752?s=72&u=f58458144c50c155d2f91ec72f337258262d7b02&v=4" width="24" alt="Avatar of radovix"> radovix
+			</a><br/>
+			Matej Radović
+		</td>
+		<td>@enterwell </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>675</td>
+		<td>
+			<a href="https://github.com/mnapravnik">
+				<img src="https://avatars.githubusercontent.com/u/44111384?s=72&u=d5e60c5c0fc045c29c85b6d1d0975ea319c78cd8&v=4" width="24" alt="Avatar of mnapravnik"> mnapravnik
+			</a><br/>
+			Mateja Napravnik
+		</td>
+		<td>Span D.d. </td>
+		<td>No Twitter Username</td>
+		<td>Rijeka, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>676</td>
+		<td>
+			<a href="https://github.com/ivan444">
+				<img src="https://avatars.githubusercontent.com/u/1035113?s=72&v=4" width="24" alt="Avatar of ivan444"> ivan444
+			</a><br/>
+			Ivan Krišto
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>677</td>
+		<td>
+			<a href="https://github.com/iivanu">
+				<img src="https://avatars.githubusercontent.com/u/45397046?s=72&u=ac752f048a70c722f610cf050ab2e0ddd28eb203&v=4" width="24" alt="Avatar of iivanu"> iivanu
+			</a><br/>
+			Ivan Ivanusic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>678</td>
+		<td>
+			<a href="https://github.com/tiborkr">
+				<img src="https://avatars.githubusercontent.com/u/6950606?s=72&u=8331c5cd48242a7b4f50c5ec5b16ca56e1912512&v=4" width="24" alt="Avatar of tiborkr"> tiborkr
+			</a><br/>
+			Tibor Kranjčec
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>679</td>
+		<td>
+			<a href="https://github.com/SanjinKurelic">
+				<img src="https://avatars.githubusercontent.com/u/28042912?s=72&u=dc61ee4ba19cc42cc5c5ce09df8004a95a05e08b&v=4" width="24" alt="Avatar of SanjinKurelic"> SanjinKurelic
+			</a><br/>
+			Sanjin Kurelić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>680</td>
+		<td>
+			<a href="https://github.com/Brenner650">
+				<img src="https://avatars.githubusercontent.com/u/41375066?s=72&u=445ee4d5f522b1d1639a22b2432c9887850b8fe0&v=4" width="24" alt="Avatar of Brenner650"> Brenner650
+			</a><br/>
+			Brenner650
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Czech Republic/Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>681</td>
+		<td>
+			<a href="https://github.com/IvorM">
+				<img src="https://avatars.githubusercontent.com/u/6875970?s=72&u=70b4d1ab454540ef13dae350bf4315b71c9e47a8&v=4" width="24" alt="Avatar of IvorM"> IvorM
+			</a><br/>
+			Ivor Marić
+		</td>
+		<td>Všpr Algebra </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb,Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>682</td>
+		<td>
+			<a href="https://github.com/Brankec">
+				<img src="https://avatars.githubusercontent.com/u/33580274?s=72&v=4" width="24" alt="Avatar of Brankec"> Brankec
+			</a><br/>
+			Branimir
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Novi Zagreb</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>683</td>
+		<td>
+			<a href="https://github.com/arkon108">
+				<img src="https://avatars.githubusercontent.com/u/218264?s=72&u=5e6443698238e85d9e4e9b79b0fec9d5fb285b00&v=4" width="24" alt="Avatar of arkon108"> arkon108
+			</a><br/>
+			Saša Tomislav Mataić
+		</td>
+		<td>@0xhyperspace  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>684</td>
+		<td>
+			<a href="https://github.com/mlogic1">
+				<img src="https://avatars.githubusercontent.com/u/4218876?s=72&u=ac7c8e32a851c1caf14a087c9583e2ad873c28d2&v=4" width="24" alt="Avatar of mlogic1"> mlogic1
+			</a><br/>
+			Filip Radić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>685</td>
+		<td>
+			<a href="https://github.com/knezzz">
+				<img src="https://avatars.githubusercontent.com/u/5373484?s=72&u=12f370f631c8a211f1c9e67a57c5301df6a0a5d6&v=4" width="24" alt="Avatar of knezzz"> knezzz
+			</a><br/>
+			Luka Knezic
+		</td>
+		<td>Square Pear </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>686</td>
+		<td>
+			<a href="https://github.com/markopoloparadox">
+				<img src="https://avatars.githubusercontent.com/u/4882434?s=72&u=5233f31771295c7fc3c2a4969ef8e3c8b319733b&v=4" width="24" alt="Avatar of markopoloparadox"> markopoloparadox
+			</a><br/>
+			Marko Petrlić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>687</td>
+		<td>
+			<a href="https://github.com/irumiha">
+				<img src="https://avatars.githubusercontent.com/u/100465?s=72&v=4" width="24" alt="Avatar of irumiha"> irumiha
+			</a><br/>
+			Igor Rumiha
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>688</td>
+		<td>
+			<a href="https://github.com/LeonardoM011">
+				<img src="https://avatars.githubusercontent.com/u/26369776?s=72&u=e3175a973061a7cb946e280cdf34d6e66db9a11f&v=4" width="24" alt="Avatar of LeonardoM011"> LeonardoM011
+			</a><br/>
+			Leonardo Marinovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Požega, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>689</td>
+		<td>
+			<a href="https://github.com/vedgar">
+				<img src="https://avatars.githubusercontent.com/u/9255554?s=72&u=8384a01868104a6798c1d2123b0f469bd4f66d77&v=4" width="24" alt="Avatar of vedgar"> vedgar
+			</a><br/>
+			Vedran Čačić
+		</td>
+		<td>Pmf - Matematički Odsjek<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>690</td>
+		<td>
+			<a href="https://github.com/martinarapovic">
+				<img src="https://avatars.githubusercontent.com/u/8932385?s=72&u=a12df26449ca76bd6b6d055f80f6ffd175ed2a46&v=4" width="24" alt="Avatar of martinarapovic"> martinarapovic
+			</a><br/>
+			Martin Arapović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>691</td>
+		<td>
+			<a href="https://github.com/mmilet01">
+				<img src="https://avatars.githubusercontent.com/u/37534327?s=72&v=4" width="24" alt="Avatar of mmilet01"> mmilet01
+			</a><br/>
+			Mario Mileta
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>692</td>
+		<td>
+			<a href="https://github.com/Yalfoosh">
+				<img src="https://avatars.githubusercontent.com/u/24226470?s=72&v=4" width="24" alt="Avatar of Yalfoosh"> Yalfoosh
+			</a><br/>
+			No Name
+		</td>
+		<td>Realnetworks </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>693</td>
+		<td>
+			<a href="https://github.com/IvanStrok23">
+				<img src="https://avatars.githubusercontent.com/u/26648385?s=72&u=9d6ae3189d5025ada6468a1d28b3988d739a42e6&v=4" width="24" alt="Avatar of IvanStrok23"> IvanStrok23
+			</a><br/>
+			Ivan Strok
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>694</td>
+		<td>
+			<a href="https://github.com/laurakciic">
+				<img src="https://avatars.githubusercontent.com/u/63671450?s=72&u=92ebdf2ae064a16ae1e191a9be17867648b504e1&v=4" width="24" alt="Avatar of laurakciic"> laurakciic
+			</a><br/>
+			Laura Kovačić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>695</td>
+		<td>
+			<a href="https://github.com/Caellian">
+				<img src="https://avatars.githubusercontent.com/u/4082795?s=72&u=9128f29eef069ee5bc4497107acb3fc007b4e239&v=4" width="24" alt="Avatar of Caellian"> Caellian
+			</a><br/>
+			Tin Švagelj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>696</td>
+		<td>
+			<a href="https://github.com/PetarMarijanovic">
+				<img src="https://avatars.githubusercontent.com/u/5661862?s=72&u=9be0c36c261a1d62a9a256d3d19747fb22c237f7&v=4" width="24" alt="Avatar of PetarMarijanovic"> PetarMarijanovic
+			</a><br/>
+			Petar Marijanović
+		</td>
+		<td>Bellabeat </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>697</td>
+		<td>
+			<a href="https://github.com/dsasko">
+				<img src="https://avatars.githubusercontent.com/u/2742669?s=72&v=4" width="24" alt="Avatar of dsasko"> dsasko
+			</a><br/>
+			Denis Šaško
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>698</td>
+		<td>
+			<a href="https://github.com/Nicba1010">
+				<img src="https://avatars.githubusercontent.com/u/3586606?s=72&u=325a15e5e2e3648f6c37db0e233c093ed2b13085&v=4" width="24" alt="Avatar of Nicba1010"> Nicba1010
+			</a><br/>
+			Roberto Anić Banić
+		</td>
+		<td>Aconno D.o.o. </td>
+		<td>No Twitter Username</td>
+		<td>Velika Gorica, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>699</td>
+		<td>
+			<a href="https://github.com/JonathanBrickwell">
+				<img src="https://avatars.githubusercontent.com/u/24413053?s=72&u=e6138db7b44489f8f9e693ff0b046f13518ed885&v=4" width="24" alt="Avatar of JonathanBrickwell"> JonathanBrickwell
+			</a><br/>
+			KristijanFištrek
+		</td>
+		<td>Hrvatski Telekom </td>
+		<td>No Twitter Username</td>
+		<td>Varaždin, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>700</td>
+		<td>
+			<a href="https://github.com/domagojb">
+				<img src="https://avatars.githubusercontent.com/u/1921777?s=72&v=4" width="24" alt="Avatar of domagojb"> domagojb
+			</a><br/>
+			Domagoj Boroš
+		</td>
+		<td>@photomath  </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>701</td>
+		<td>
+			<a href="https://github.com/bperak">
+				<img src="https://avatars.githubusercontent.com/u/13450656?s=72&u=c7cea66e80548dd250e1126cfc86c37339f109cd&v=4" width="24" alt="Avatar of bperak"> bperak
+			</a><br/>
+			Benedikt Perak
+		</td>
+		<td>Faculty Of Humanities And<br/>Social<br/>Sciences,<br/>University<br/>Of<br/>Rijeka<br/></td>
+		<td>No Twitter Username</td>
+		<td>Rijeka</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>702</td>
+		<td>
+			<a href="https://github.com/tloki">
+				<img src="https://avatars.githubusercontent.com/u/26622655?s=72&u=76376c612f9223da80d7fb7e2bfa8b05f36745a0&v=4" width="24" alt="Avatar of tloki"> tloki
+			</a><br/>
+			Tomislav Lokotar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>703</td>
+		<td>
+			<a href="https://github.com/MarioLegenda">
+				<img src="https://avatars.githubusercontent.com/u/6998286?s=72&u=c4836e4e5386e7ac16acb97496e99b0b0a88b394&v=4" width="24" alt="Avatar of MarioLegenda"> MarioLegenda
+			</a><br/>
+			Mario Škrlec
+		</td>
+		<td>Prototyp </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>704</td>
+		<td>
+			<a href="https://github.com/malj">
+				<img src="https://avatars.githubusercontent.com/u/8290012?s=72&u=5ee132e22b9c2d62df1a4e290275872790fbae4a&v=4" width="24" alt="Avatar of malj"> malj
+			</a><br/>
+			Luka Maljic
+		</td>
+		<td>Codecraft.dev </td>
+		<td>No Twitter Username</td>
+		<td>Pula, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>705</td>
+		<td>
+			<a href="https://github.com/kozmonaut">
+				<img src="https://avatars.githubusercontent.com/u/5059774?s=72&u=8bd76da40188d357f265e04f0797d44d701d0d2a&v=4" width="24" alt="Avatar of kozmonaut"> kozmonaut
+			</a><br/>
+			Kozmonaut
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>706</td>
+		<td>
+			<a href="https://github.com/NikolaKomljenovic">
+				<img src="https://avatars.githubusercontent.com/u/6389273?s=72&u=495f2ae662c0437effec4748e4092450d11b12d0&v=4" width="24" alt="Avatar of NikolaKomljenovic"> NikolaKomljenovic
+			</a><br/>
+			Nikola Komljenović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>707</td>
+		<td>
+			<a href="https://github.com/dperetin">
+				<img src="https://avatars.githubusercontent.com/u/313649?s=72&v=4" width="24" alt="Avatar of dperetin"> dperetin
+			</a><br/>
+			Dejan Peretin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>708</td>
+		<td>
+			<a href="https://github.com/MarioDudjak">
+				<img src="https://avatars.githubusercontent.com/u/22621349?s=72&u=546f213a9ee875cb9b57511205be9c5be9c7f397&v=4" width="24" alt="Avatar of MarioDudjak"> MarioDudjak
+			</a><br/>
+			Mario Dudjak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>709</td>
+		<td>
+			<a href="https://github.com/KiKiSnovak">
+				<img src="https://avatars.githubusercontent.com/u/44963752?s=72&v=4" width="24" alt="Avatar of KiKiSnovak"> KiKiSnovak
+			</a><br/>
+			Kristian Snovak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>710</td>
+		<td>
+			<a href="https://github.com/psiha">
+				<img src="https://avatars.githubusercontent.com/u/340735?s=72&u=f5de4d79bd2841c91a692069271d353a5975e9ac&v=4" width="24" alt="Avatar of psiha"> psiha
+			</a><br/>
+			Domagoj Šarić
+		</td>
+		<td>@microblink </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>711</td>
+		<td>
+			<a href="https://github.com/davorpeic">
+				<img src="https://avatars.githubusercontent.com/u/694091?s=72&u=c0e247ac398705409112dc2f4c3d433eaf284d99&v=4" width="24" alt="Avatar of davorpeic"> davorpeic
+			</a><br/>
+			Davor Peic
+		</td>
+		<td>Cenosco </td>
+		<td><a href="https://twitter.com/davorpeic">davorpeic</a></td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>712</td>
+		<td>
+			<a href="https://github.com/dbosnjak94">
+				<img src="https://avatars.githubusercontent.com/u/47415069?s=72&u=1e13e023f86d7c1ac37ea89f36a25b807201b181&v=4" width="24" alt="Avatar of dbosnjak94"> dbosnjak94
+			</a><br/>
+			Dominik Bošnjak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>713</td>
+		<td>
+			<a href="https://github.com/majadinjar">
+				<img src="https://avatars.githubusercontent.com/u/7793711?s=72&u=ed028c1babf3b00a40cda9cf58d3f4941036209e&v=4" width="24" alt="Avatar of majadinjar"> majadinjar
+			</a><br/>
+			Maja Dinjar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>714</td>
+		<td>
+			<a href="https://github.com/KapustaB">
+				<img src="https://avatars.githubusercontent.com/u/13699645?s=72&u=2bffb4284754ec40f2595cb40422ecca61d78726&v=4" width="24" alt="Avatar of KapustaB"> KapustaB
+			</a><br/>
+			Borna Kapusta
+		</td>
+		<td>Effectiva Studio </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>715</td>
+		<td>
+			<a href="https://github.com/jknezevic">
+				<img src="https://avatars.githubusercontent.com/u/7416575?s=72&u=6b6176bb6e2fc95fa2f29fecf5fec38ed5426c4d&v=4" width="24" alt="Avatar of jknezevic"> jknezevic
+			</a><br/>
+			Josip Knežević
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>716</td>
+		<td>
+			<a href="https://github.com/ivan-veres">
+				<img src="https://avatars.githubusercontent.com/u/5970595?s=72&u=65a1e142206a20dee015690a9214eabce4078c70&v=4" width="24" alt="Avatar of ivan-veres"> ivan-veres
+			</a><br/>
+			Ivan Veres
+		</td>
+		<td>@mediotype  </td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>717</td>
+		<td>
+			<a href="https://github.com/icurdinj">
+				<img src="https://avatars.githubusercontent.com/u/11748660?s=72&v=4" width="24" alt="Avatar of icurdinj"> icurdinj
+			</a><br/>
+			Ivan Čurdinjaković
+		</td>
+		<td>@inchoo  </td>
+		<td>No Twitter Username</td>
+		<td>Vinkovci, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>718</td>
+		<td>
+			<a href="https://github.com/abaotic">
+				<img src="https://avatars.githubusercontent.com/u/2296793?s=72&v=4" width="24" alt="Avatar of abaotic"> abaotic
+			</a><br/>
+			Ana
+		</td>
+		<td>Asseco </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>719</td>
+		<td>
+			<a href="https://github.com/radelicroberto">
+				<img src="https://avatars.githubusercontent.com/u/44963722?s=72&v=4" width="24" alt="Avatar of radelicroberto"> radelicroberto
+			</a><br/>
+			Roberto Radelic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>720</td>
+		<td>
+			<a href="https://github.com/matteomilos">
+				<img src="https://avatars.githubusercontent.com/u/19518173?s=72&v=4" width="24" alt="Avatar of matteomilos"> matteomilos
+			</a><br/>
+			Matteo Miloš
+		</td>
+		<td>Hr Prodigy </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>721</td>
+		<td>
+			<a href="https://github.com/lopac">
+				<img src="https://avatars.githubusercontent.com/u/12535810?s=72&u=6655a3213f1a1ca41d1ff1b185cf4e12a213a0f6&v=4" width="24" alt="Avatar of lopac"> lopac
+			</a><br/>
+			Antonio Lopac
+		</td>
+		<td>Faculty Of Organization And<br/>Informatics<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb,HR</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>722</td>
+		<td>
+			<a href="https://github.com/nevenp">
+				<img src="https://avatars.githubusercontent.com/u/7030776?s=72&u=3ed4975e7d88a1fdc938273bfdc28888ef5b11a4&v=4" width="24" alt="Avatar of nevenp"> nevenp
+			</a><br/>
+			Neven Pičuljan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>723</td>
+		<td>
+			<a href="https://github.com/oberth">
+				<img src="https://avatars.githubusercontent.com/u/22282639?s=72&u=f52e74c84786e8ce018a97b4fb162f13694ef036&v=4" width="24" alt="Avatar of oberth"> oberth
+			</a><br/>
+			Domagoj Pandža
+		</td>
+		<td>Department Of Redundant Redundancy<br/></td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>724</td>
+		<td>
+			<a href="https://github.com/mkmarkop">
+				<img src="https://avatars.githubusercontent.com/u/11680889?s=72&v=4" width="24" alt="Avatar of mkmarkop"> mkmarkop
+			</a><br/>
+			Marko Pranjić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>725</td>
+		<td>
+			<a href="https://github.com/marcelix">
+				<img src="https://avatars.githubusercontent.com/u/128688?s=72&u=170172fd6c01725a2b9d2c5829a8fe8843a00972&v=4" width="24" alt="Avatar of marcelix"> marcelix
+			</a><br/>
+			Marcel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>726</td>
+		<td>
+			<a href="https://github.com/nparunov">
+				<img src="https://avatars.githubusercontent.com/u/7113036?s=72&u=4021dc90ef78e873ef0e2d4b7d1a6f6009e316e4&v=4" width="24" alt="Avatar of nparunov"> nparunov
+			</a><br/>
+			Nikola
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>727</td>
+		<td>
+			<a href="https://github.com/denisristic">
+				<img src="https://avatars.githubusercontent.com/u/431003?s=72&u=1276d65c1dec29e39fbc605a2ab770695f06cd38&v=4" width="24" alt="Avatar of denisristic"> denisristic
+			</a><br/>
+			Denis Ristic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>728</td>
+		<td>
+			<a href="https://github.com/reneeahel">
+				<img src="https://avatars.githubusercontent.com/u/44239618?s=72&u=8a0b5ce15b743dead4b481483ca1e68a495b4d74&v=4" width="24" alt="Avatar of reneeahel"> reneeahel
+			</a><br/>
+			Renee Ahel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>729</td>
+		<td>
+			<a href="https://github.com/rjovic">
+				<img src="https://avatars.githubusercontent.com/u/1826655?s=72&u=844f438877cefb9ddd0119b703466861c7303e4c&v=4" width="24" alt="Avatar of rjovic"> rjovic
+			</a><br/>
+			Renato Jovic
+		</td>
+		<td>Tagit Solutions, Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>730</td>
+		<td>
+			<a href="https://github.com/Sadorrow99">
+				<img src="https://avatars.githubusercontent.com/u/44775496?s=72&u=f1785adf52603b06068f1b66b20fa6f0b569a2f4&v=4" width="24" alt="Avatar of Sadorrow99"> Sadorrow99
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>731</td>
+		<td>
+			<a href="https://github.com/ivan-galambos">
+				<img src="https://avatars.githubusercontent.com/u/1247040?s=72&v=4" width="24" alt="Avatar of ivan-galambos"> ivan-galambos
+			</a><br/>
+			Ivan Galamboš
+		</td>
+		<td>Inchoo </td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>732</td>
+		<td>
+			<a href="https://github.com/CuljakIvan">
+				<img src="https://avatars.githubusercontent.com/u/9060633?s=72&u=09d0009589c07f33122ad9262ce0ecd7e51f600e&v=4" width="24" alt="Avatar of CuljakIvan"> CuljakIvan
+			</a><br/>
+			Ivan Čuljak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>733</td>
+		<td>
+			<a href="https://github.com/davidromic">
+				<img src="https://avatars.githubusercontent.com/u/6981953?s=72&u=f74f9ed907318f5558a6ee8bbe04d85f840ac929&v=4" width="24" alt="Avatar of davidromic"> davidromic
+			</a><br/>
+			David Romić
+		</td>
+		<td>Rimac Automobili @rimac-technology <br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>734</td>
+		<td>
+			<a href="https://github.com/rkovacevic">
+				<img src="https://avatars.githubusercontent.com/u/236255?s=72&v=4" width="24" alt="Avatar of rkovacevic"> rkovacevic
+			</a><br/>
+			Robert Kovačević
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>735</td>
+		<td>
+			<a href="https://github.com/RokMarjanovic">
+				<img src="https://avatars.githubusercontent.com/u/44963654?s=72&u=f710fa272f82bdef8e335d47b815df563a3ca120&v=4" width="24" alt="Avatar of RokMarjanovic"> RokMarjanovic
+			</a><br/>
+			Rok Marjanovic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>736</td>
+		<td>
+			<a href="https://github.com/isimicic">
+				<img src="https://avatars.githubusercontent.com/u/7987666?s=72&u=2153e588d04d61440254d32c2cc9978a3b550a76&v=4" width="24" alt="Avatar of isimicic"> isimicic
+			</a><br/>
+			Ivan Šimičić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>737</td>
+		<td>
+			<a href="https://github.com/sjugc">
+				<img src="https://avatars.githubusercontent.com/u/6691319?s=72&v=4" width="24" alt="Avatar of sjugc"> sjugc
+			</a><br/>
+			Student Java User Group Croatia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>738</td>
+		<td>
+			<a href="https://github.com/ludiloop">
+				<img src="https://avatars.githubusercontent.com/u/7175383?s=72&u=caad0fa4260ad87d6f8636b33ba4b40f8817f2a9&v=4" width="24" alt="Avatar of ludiloop"> ludiloop
+			</a><br/>
+			Milan Prpic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>739</td>
+		<td>
+			<a href="https://github.com/Metlina">
+				<img src="https://avatars.githubusercontent.com/u/6611345?s=72&u=1e855d8b0dc6c4571a684816301d4ccab1b16a39&v=4" width="24" alt="Avatar of Metlina"> Metlina
+			</a><br/>
+			Tino Petrina
+		</td>
+		<td>Async </td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Zagreb</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>740</td>
+		<td>
+			<a href="https://github.com/davorbudimcic">
+				<img src="https://avatars.githubusercontent.com/u/1193023?s=72&v=4" width="24" alt="Avatar of davorbudimcic"> davorbudimcic
+			</a><br/>
+			Davor Budimčić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>741</td>
+		<td>
+			<a href="https://github.com/nhenezi">
+				<img src="https://avatars.githubusercontent.com/u/1262435?s=72&u=bdeaa2d7aa0761472715a13811ffadfe523d347b&v=4" width="24" alt="Avatar of nhenezi"> nhenezi
+			</a><br/>
+			Nikola Henezi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>742</td>
+		<td>
+			<a href="https://github.com/matijasipek">
+				<img src="https://avatars.githubusercontent.com/u/35802681?s=72&u=93dfd5477d39e0352e7580d3e2b0db2ad9e0ab03&v=4" width="24" alt="Avatar of matijasipek"> matijasipek
+			</a><br/>
+			Matija Šipek
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>743</td>
+		<td>
+			<a href="https://github.com/simejerkovic">
+				<img src="https://avatars.githubusercontent.com/u/11425969?s=72&u=700950ae69f7bbd31fdc939a422f961a3ee8bfa5&v=4" width="24" alt="Avatar of simejerkovic"> simejerkovic
+			</a><br/>
+			Šime Jerković
+		</td>
+		<td>Hattrick Sports Group Ltd.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>744</td>
+		<td>
+			<a href="https://github.com/marin-liovic">
+				<img src="https://avatars.githubusercontent.com/u/4919475?s=72&u=cb4f2d06e7e3d348d5d1281da0e41cb98d0ae4f9&v=4" width="24" alt="Avatar of marin-liovic"> marin-liovic
+			</a><br/>
+			Marin Liović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>745</td>
+		<td>
+			<a href="https://github.com/gabriel-glo">
+				<img src="https://avatars.githubusercontent.com/u/41635034?s=72&u=b828d587192701c23c5022fc43e9233ce8c9ac01&v=4" width="24" alt="Avatar of gabriel-glo"> gabriel-glo
+			</a><br/>
+			Gabriel Glogoški
+		</td>
+		<td>@infinum </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>746</td>
+		<td>
+			<a href="https://github.com/nikolamajcen">
+				<img src="https://avatars.githubusercontent.com/u/11491550?s=72&u=fb1053894801b8c7175c1589b3b6db1ba8d953bd&v=4" width="24" alt="Avatar of nikolamajcen"> nikolamajcen
+			</a><br/>
+			Nikola Majcen
+		</td>
+		<td>@infinum </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>747</td>
+		<td>
+			<a href="https://github.com/Definitely-Not-Vlad">
+				<img src="https://avatars.githubusercontent.com/u/28015757?s=72&u=39bd8ffb66756bdf56fd44c357fd1ebcd1da3633&v=4" width="24" alt="Avatar of Definitely-Not-Vlad"> Definitely-Not-Vlad
+			</a><br/>
+			Definitely Not Vlad
+		</td>
+		<td>@5minutes @shoutem  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>748</td>
+		<td>
+			<a href="https://github.com/bojcicm">
+				<img src="https://avatars.githubusercontent.com/u/8844510?s=72&u=d29491f2a04f0c58833e9630c07f61665a73eb07&v=4" width="24" alt="Avatar of bojcicm"> bojcicm
+			</a><br/>
+			Mirko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>749</td>
+		<td>
+			<a href="https://github.com/Rep2">
+				<img src="https://avatars.githubusercontent.com/u/7377418?s=72&u=29d931a1cd3c7a9ad8945988a0891a2a3b79a913&v=4" width="24" alt="Avatar of Rep2"> Rep2
+			</a><br/>
+			Ivan Rep
+		</td>
+		<td>Blue Tail Labs </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>750</td>
+		<td>
+			<a href="https://github.com/MasterMedo">
+				<img src="https://avatars.githubusercontent.com/u/16375100?s=72&u=8475ba69c6cd243a5aec5c49f3563e5ce94a762a&v=4" width="24" alt="Avatar of MasterMedo"> MasterMedo
+			</a><br/>
+			Mislav Vuletić
+		</td>
+		<td>University Of Zagreb, Faculty<br/>Of<br/>Electrical<br/>Engineering<br/>And<br/>Computing<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>751</td>
+		<td>
+			<a href="https://github.com/IvanBernatovic">
+				<img src="https://avatars.githubusercontent.com/u/11651980?s=72&u=9d11b1c2ff5b7740f5ebf2e461cefdfe666b8592&v=4" width="24" alt="Avatar of IvanBernatovic"> IvanBernatovic
+			</a><br/>
+			Ivan Bernatović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>752</td>
+		<td>
+			<a href="https://github.com/filipbudisa">
+				<img src="https://avatars.githubusercontent.com/u/21333310?s=72&u=148d389502ea3aa00808d566a92944671320a6ef&v=4" width="24" alt="Avatar of filipbudisa"> filipbudisa
+			</a><br/>
+			Filip Budiša
+		</td>
+		<td>Ciruitmess D.o.o. </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>753</td>
+		<td>
+			<a href="https://github.com/dsego">
+				<img src="https://avatars.githubusercontent.com/u/578557?s=72&u=8d5c1a4b7a1a7d26e1ae9a3606b2ccf2d70b5b30&v=4" width="24" alt="Avatar of dsego"> dsego
+			</a><br/>
+			Davorin Šego
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>754</td>
+		<td>
+			<a href="https://github.com/iherak">
+				<img src="https://avatars.githubusercontent.com/u/5854428?s=72&u=d549dda46c9072053c7db993a9eb71a5ea699b01&v=4" width="24" alt="Avatar of iherak"> iherak
+			</a><br/>
+			Ivan Herak
+		</td>
+		<td>Netgen </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>755</td>
+		<td>
+			<a href="https://github.com/mightymatth">
+				<img src="https://avatars.githubusercontent.com/u/13491551?s=72&v=4" width="24" alt="Avatar of mightymatth"> mightymatth
+			</a><br/>
+			Matija Pevec
+		</td>
+		<td>Ampnet </td>
+		<td><a href="https://twitter.com/mightymatth">mightymatth</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>756</td>
+		<td>
+			<a href="https://github.com/tnebes">
+				<img src="https://avatars.githubusercontent.com/u/47086978?s=72&u=bc290aad465635d5c7ba340761e1d8fcdbab8eca&v=4" width="24" alt="Avatar of tnebes"> tnebes
+			</a><br/>
+			Tomislav Nebes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>757</td>
+		<td>
+			<a href="https://github.com/dekzz">
+				<img src="https://avatars.githubusercontent.com/u/450984?s=72&u=337d921f936147188332dbec3fe09e8458a76752&v=4" width="24" alt="Avatar of dekzz"> dekzz
+			</a><br/>
+			Davor Tomala
+		</td>
+		<td>@mantro </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>758</td>
+		<td>
+			<a href="https://github.com/korac">
+				<img src="https://avatars.githubusercontent.com/u/10884942?s=72&u=9bf29d083fec368a09490565016151931cabc801&v=4" width="24" alt="Avatar of korac"> korac
+			</a><br/>
+			Kristijan Korać
+		</td>
+		<td>Ars Futura </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>759</td>
+		<td>
+			<a href="https://github.com/JosipHaboic">
+				<img src="https://avatars.githubusercontent.com/u/21206330?s=72&u=55b82b4f448bea9607dca249a3b09297e40ae9e4&v=4" width="24" alt="Avatar of JosipHaboic"> JosipHaboic
+			</a><br/>
+			Yossi
+		</td>
+		<td>Aes </td>
+		<td>No Twitter Username</td>
+		<td>Republic of Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>760</td>
+		<td>
+			<a href="https://github.com/ChrisRoss5">
+				<img src="https://avatars.githubusercontent.com/u/41192064?s=72&u=700ece45bfccb78ce3e9346a189b2c4786ace37e&v=4" width="24" alt="Avatar of ChrisRoss5"> ChrisRoss5
+			</a><br/>
+			Chris
+		</td>
+		<td>1337 </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>761</td>
+		<td>
+			<a href="https://github.com/jbojcic1">
+				<img src="https://avatars.githubusercontent.com/u/10374826?s=72&v=4" width="24" alt="Avatar of jbojcic1"> jbojcic1
+			</a><br/>
+			Josip Bojčić
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/josip_bojcic">josip_bojcic</a></td>
+		<td>Split, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>762</td>
+		<td>
+			<a href="https://github.com/AnteAntonini">
+				<img src="https://avatars.githubusercontent.com/u/45367033?s=72&u=24dcb8dc14d1f1aaff077479169c374f5481bc9d&v=4" width="24" alt="Avatar of AnteAntonini"> AnteAntonini
+			</a><br/>
+			No Name
+		</td>
+		<td>Nsoft </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>763</td>
+		<td>
+			<a href="https://github.com/htunlogic">
+				<img src="https://avatars.githubusercontent.com/u/8052928?s=72&u=ee947c0b416d2bb10cc0997a7e0cd8ecd891357d&v=4" width="24" alt="Avatar of htunlogic"> htunlogic
+			</a><br/>
+			Tibor Huđik
+		</td>
+		<td>@barrage  </td>
+		<td><a href="https://twitter.com/htunlogic">htunlogic</a></td>
+		<td>Osijek, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>764</td>
+		<td>
+			<a href="https://github.com/andhrelja">
+				<img src="https://avatars.githubusercontent.com/u/34381530?s=72&v=4" width="24" alt="Avatar of andhrelja"> andhrelja
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>765</td>
+		<td>
+			<a href="https://github.com/vanjavk">
+				<img src="https://avatars.githubusercontent.com/u/1491765?s=72&u=5eb0308c3a802db5d526f71ebfa29600dcccf761&v=4" width="24" alt="Avatar of vanjavk"> vanjavk
+			</a><br/>
+			No Name
+		</td>
+		<td>Yugocraft </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>766</td>
+		<td>
+			<a href="https://github.com/oktalz">
+				<img src="https://avatars.githubusercontent.com/u/7778502?s=72&v=4" width="24" alt="Avatar of oktalz"> oktalz
+			</a><br/>
+			Zlatko Bratkovic
+		</td>
+		<td>Haproxy </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>767</td>
+		<td>
+			<a href="https://github.com/IvanLuksic">
+				<img src="https://avatars.githubusercontent.com/u/14863737?s=72&u=79223a8e56e71ce8676808fbde35fd734fc5f8dd&v=4" width="24" alt="Avatar of IvanLuksic"> IvanLuksic
+			</a><br/>
+			Ivan Lukšić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>768</td>
+		<td>
+			<a href="https://github.com/ofzza">
+				<img src="https://avatars.githubusercontent.com/u/4250750?s=72&v=4" width="24" alt="Avatar of ofzza"> ofzza
+			</a><br/>
+			ofzza
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>769</td>
+		<td>
+			<a href="https://github.com/Pat-1337">
+				<img src="https://avatars.githubusercontent.com/u/33397510?s=72&v=4" width="24" alt="Avatar of Pat-1337"> Pat-1337
+			</a><br/>
+			Pat
+		</td>
+		<td>Cial Dun & Bradstreet<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>770</td>
+		<td>
+			<a href="https://github.com/ANovokmet">
+				<img src="https://avatars.githubusercontent.com/u/9156853?s=72&u=0f797cf9196a0d423cdea883bf474923a7870ef8&v=4" width="24" alt="Avatar of ANovokmet"> ANovokmet
+			</a><br/>
+			Ante Novokmet
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>771</td>
+		<td>
+			<a href="https://github.com/B-Matt">
+				<img src="https://avatars.githubusercontent.com/u/4525012?s=72&v=4" width="24" alt="Avatar of B-Matt"> B-Matt
+			</a><br/>
+			Matej Arlović
+		</td>
+		<td>Mg - Master Games<br/></td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>772</td>
+		<td>
+			<a href="https://github.com/ffhan">
+				<img src="https://avatars.githubusercontent.com/u/12828032?s=72&u=f7a1bd7ee9a17b0bd5e80bf24a335ef4f10e1386&v=4" width="24" alt="Avatar of ffhan"> ffhan
+			</a><br/>
+			Fran Hančić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>773</td>
+		<td>
+			<a href="https://github.com/br0wn">
+				<img src="https://avatars.githubusercontent.com/u/1023589?s=72&v=4" width="24" alt="Avatar of br0wn"> br0wn
+			</a><br/>
+			Miroslav Braun
+		</td>
+		<td>D'code It&media </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>774</td>
+		<td>
+			<a href="https://github.com/StipeBrzi">
+				<img src="https://avatars.githubusercontent.com/u/36337496?s=72&u=ec56a80c1ee515d33f3dfd31d6c868e09bee0531&v=4" width="24" alt="Avatar of StipeBrzi"> StipeBrzi
+			</a><br/>
+			Stjepan Brzica
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dubrovnik</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>775</td>
+		<td>
+			<a href="https://github.com/z-dukic">
+				<img src="https://avatars.githubusercontent.com/u/6319839?s=72&u=5f0cd7c057a490c806bfa3a1eaee3e76f05fcc83&v=4" width="24" alt="Avatar of z-dukic"> z-dukic
+			</a><br/>
+			Zoran Đukić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>776</td>
+		<td>
+			<a href="https://github.com/tlevacic">
+				<img src="https://avatars.githubusercontent.com/u/56079123?s=72&v=4" width="24" alt="Avatar of tlevacic"> tlevacic
+			</a><br/>
+			Tin August Levacic
+		</td>
+		<td>Very Big Things </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>777</td>
+		<td>
+			<a href="https://github.com/StipT">
+				<img src="https://avatars.githubusercontent.com/u/46530146?s=72&u=ccd2b4aaee23f3c552abc524a2f4d119d88b2406&v=4" width="24" alt="Avatar of StipT"> StipT
+			</a><br/>
+			Tomislav Stipanić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>778</td>
+		<td>
+			<a href="https://github.com/BlazJurisic">
+				<img src="https://avatars.githubusercontent.com/u/12563346?s=72&u=8882d152f639db2cab30932fbce646c3d92ac50f&v=4" width="24" alt="Avatar of BlazJurisic"> BlazJurisic
+			</a><br/>
+			Blaz Jurisic
+		</td>
+		<td>Yodel Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>779</td>
+		<td>
+			<a href="https://github.com/xxbic">
+				<img src="https://avatars.githubusercontent.com/u/4477982?s=72&u=21d7529b205f7ff4a8a3c3dd9910bdae12583940&v=4" width="24" alt="Avatar of xxbic"> xxbic
+			</a><br/>
+			Denis Katić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Solin, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>780</td>
+		<td>
+			<a href="https://github.com/lstrihic">
+				<img src="https://avatars.githubusercontent.com/u/5384456?s=72&u=72bb8d564e55ece6ba255ae5a6e0d80c13ed51dd&v=4" width="24" alt="Avatar of lstrihic"> lstrihic
+			</a><br/>
+			lstrihic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>781</td>
+		<td>
+			<a href="https://github.com/sdunic">
+				<img src="https://avatars.githubusercontent.com/u/6695436?s=72&u=1aefa9fea6afa5df5c5c1c8c9f7f66df2c79b901&v=4" width="24" alt="Avatar of sdunic"> sdunic
+			</a><br/>
+			Stefan Dunić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>782</td>
+		<td>
+			<a href="https://github.com/Eoler">
+				<img src="https://avatars.githubusercontent.com/u/680032?s=72&v=4" width="24" alt="Avatar of Eoler"> Eoler
+			</a><br/>
+			Danilo Cuculić
+		</td>
+		<td>Castus </td>
+		<td>No Twitter Username</td>
+		<td>Kastav, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>783</td>
+		<td>
+			<a href="https://github.com/maculjak">
+				<img src="https://avatars.githubusercontent.com/u/44749395?s=72&u=7ce338e078918745211c23bfad39b5527cb47c30&v=4" width="24" alt="Avatar of maculjak"> maculjak
+			</a><br/>
+			Marko Čuljak
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/maculjak">maculjak</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>784</td>
+		<td>
+			<a href="https://github.com/bozidarsevo">
+				<img src="https://avatars.githubusercontent.com/u/6242034?s=72&u=1b1f6a42434c6dc2ce9d177d8e9b4564de7a0f09&v=4" width="24" alt="Avatar of bozidarsevo"> bozidarsevo
+			</a><br/>
+			Božidar Ševo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/BSevo">BSevo</a></td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>785</td>
+		<td>
+			<a href="https://github.com/Lalica">
+				<img src="https://avatars.githubusercontent.com/u/32718354?s=72&u=f2e6cc5d514a1c43164294306040b40729dcdbec&v=4" width="24" alt="Avatar of Lalica"> Lalica
+			</a><br/>
+			Laura Toric
+		</td>
+		<td>University Of Zagreb, Faculty<br/>Of<br/>Electrical<br/>Engineering<br/>And<br/>Computing<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>786</td>
+		<td>
+			<a href="https://github.com/ibestvina">
+				<img src="https://avatars.githubusercontent.com/u/10189206?s=72&u=3be63fd7157f259d736d4c7cd5061daed3df8686&v=4" width="24" alt="Avatar of ibestvina"> ibestvina
+			</a><br/>
+			Ivan Bestvina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>787</td>
+		<td>
+			<a href="https://github.com/brunoalfirevic">
+				<img src="https://avatars.githubusercontent.com/u/25875?s=72&u=22f380b7cb11cb9d9e2398c7b7f48e5c82f02290&v=4" width="24" alt="Avatar of brunoalfirevic"> brunoalfirevic
+			</a><br/>
+			Bruno Alfirević
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>788</td>
+		<td>
+			<a href="https://github.com/sergejhorvat">
+				<img src="https://avatars.githubusercontent.com/u/8287997?s=72&v=4" width="24" alt="Avatar of sergejhorvat"> sergejhorvat
+			</a><br/>
+			Sergej Horvat
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>789</td>
+		<td>
+			<a href="https://github.com/faleksic">
+				<img src="https://avatars.githubusercontent.com/u/14061953?s=72&u=445814a4ed4ee9ff4cf5e532db0d230d2164cfdd&v=4" width="24" alt="Avatar of faleksic"> faleksic
+			</a><br/>
+			Filip Aleksić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zadar, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>790</td>
+		<td>
+			<a href="https://github.com/kosticmarin">
+				<img src="https://avatars.githubusercontent.com/u/28999182?s=72&u=38ac0f80f957b981952001326996198811decbe1&v=4" width="24" alt="Avatar of kosticmarin"> kosticmarin
+			</a><br/>
+			Marin Koštić
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kosticmarin">kosticmarin</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>791</td>
+		<td>
+			<a href="https://github.com/BranimirBilic">
+				<img src="https://avatars.githubusercontent.com/u/37539837?s=72&u=e05c64f902487dfaaefa7a8d2e94f3897e7a1f91&v=4" width="24" alt="Avatar of BranimirBilic"> BranimirBilic
+			</a><br/>
+			BraneB
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/branebilic_">branebilic_</a></td>
+		<td>Split, Croatia.</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>792</td>
+		<td>
+			<a href="https://github.com/msamec">
+				<img src="https://avatars.githubusercontent.com/u/4154034?s=72&u=36377056672d78f711bea507fff74e35a3425fe9&v=4" width="24" alt="Avatar of msamec"> msamec
+			</a><br/>
+			Marko Samec
+		</td>
+		<td>Solid </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>793</td>
+		<td>
+			<a href="https://github.com/tbuljevic">
+				<img src="https://avatars.githubusercontent.com/u/1893367?s=72&v=4" width="24" alt="Avatar of tbuljevic"> tbuljevic
+			</a><br/>
+			Tomislav Buljević
+		</td>
+		<td>Factory.hr </td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>794</td>
+		<td>
+			<a href="https://github.com/rjelavic">
+				<img src="https://avatars.githubusercontent.com/u/6805524?s=72&u=8487acd58f23eb1b56a61ae64ef1744df66a5eb2&v=4" width="24" alt="Avatar of rjelavic"> rjelavic
+			</a><br/>
+			Roko Jelavić
+		</td>
+		<td>Rjelavic </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>795</td>
+		<td>
+			<a href="https://github.com/hbresic">
+				<img src="https://avatars.githubusercontent.com/u/9358020?s=72&u=20de71e653e496d3e012ea66b31d53219b6d3cd2&v=4" width="24" alt="Avatar of hbresic"> hbresic
+			</a><br/>
+			Hrvoje Bresic
+		</td>
+		<td>@simmcomm  </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>796</td>
+		<td>
+			<a href="https://github.com/ivan-sabo">
+				<img src="https://avatars.githubusercontent.com/u/5417856?s=72&u=87ec55283b691c5e6d723734d02f676914932e56&v=4" width="24" alt="Avatar of ivan-sabo"> ivan-sabo
+			</a><br/>
+			Ivan Sabo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>797</td>
+		<td>
+			<a href="https://github.com/katarinakelam">
+				<img src="https://avatars.githubusercontent.com/u/26391702?s=72&u=18f26990fbf148ea90a5c5e681e689f892f4f5e1&v=4" width="24" alt="Avatar of katarinakelam"> katarinakelam
+			</a><br/>
+			Katarina Kelam
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>798</td>
+		<td>
+			<a href="https://github.com/Gramzivi">
+				<img src="https://avatars.githubusercontent.com/u/4395951?s=72&u=ccba2ed74790ceb0445e5d5e8b058d74915f6b26&v=4" width="24" alt="Avatar of Gramzivi"> Gramzivi
+			</a><br/>
+			Ivan
+		</td>
+		<td>Sourcerers/rapidbase </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>799</td>
+		<td>
+			<a href="https://github.com/rodik">
+				<img src="https://avatars.githubusercontent.com/u/4228472?s=72&v=4" width="24" alt="Avatar of rodik"> rodik
+			</a><br/>
+			Filip Rodik
+		</td>
+		<td>Gong </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>800</td>
+		<td>
+			<a href="https://github.com/Dodomix">
+				<img src="https://avatars.githubusercontent.com/u/17814290?s=72&u=6c6b75cc80c1b24d58dbc0e8d1815ce1bb36c414&v=4" width="24" alt="Avatar of Dodomix"> Dodomix
+			</a><br/>
+			Dominik Žigrović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>801</td>
+		<td>
+			<a href="https://github.com/Substractive">
+				<img src="https://avatars.githubusercontent.com/u/15063944?s=72&u=d21655d58fe0026c7349be00f4ea90cebb1c7382&v=4" width="24" alt="Avatar of Substractive"> Substractive
+			</a><br/>
+			Dino
+		</td>
+		<td>Idea Verum </td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>802</td>
+		<td>
+			<a href="https://github.com/qraleq">
+				<img src="https://avatars.githubusercontent.com/u/13619177?s=72&u=502e897d6a7ecf50bb54a9dfc8e64cfdc2215887&v=4" width="24" alt="Avatar of qraleq"> qraleq
+			</a><br/>
+			Ivan Ralašić
+		</td>
+		<td>Forsight Inc </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>803</td>
+		<td>
+			<a href="https://github.com/tnovoselec">
+				<img src="https://avatars.githubusercontent.com/u/3929245?s=72&u=e1e2e888f4fc6526f43ab90c180e1301585f556d&v=4" width="24" alt="Avatar of tnovoselec"> tnovoselec
+			</a><br/>
+			Tomislav Novoselec
+		</td>
+		<td>Five </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>804</td>
+		<td>
+			<a href="https://github.com/coax">
+				<img src="https://avatars.githubusercontent.com/u/189817?s=72&u=b78a739c8ce69892c370c146744f576d6ffadd58&v=4" width="24" alt="Avatar of coax"> coax
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>805</td>
+		<td>
+			<a href="https://github.com/kburnik">
+				<img src="https://avatars.githubusercontent.com/u/4348841?s=72&u=8fc61d468bed78e3a69fbc225ad9eff29ab263fb&v=4" width="24" alt="Avatar of kburnik"> kburnik
+			</a><br/>
+			Kristijan Burnik
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>806</td>
+		<td>
+			<a href="https://github.com/RavelCrosCro">
+				<img src="https://avatars.githubusercontent.com/u/57999487?s=72&u=3aee015b038a957d9ceb18c205be7cfe95f91092&v=4" width="24" alt="Avatar of RavelCrosCro"> RavelCrosCro
+			</a><br/>
+			RavelCros_Cro
+		</td>
+		<td>Hovercore </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>807</td>
+		<td>
+			<a href="https://github.com/IvoJercic">
+				<img src="https://avatars.githubusercontent.com/u/15122647?s=72&u=d3284309d3d0c50cc81055b4513be34d5f4bc856&v=4" width="24" alt="Avatar of IvoJercic"> IvoJercic
+			</a><br/>
+			Ivo Jerčić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>808</td>
+		<td>
+			<a href="https://github.com/PL4typus">
+				<img src="https://avatars.githubusercontent.com/u/26328610?s=72&u=945d7322ec27a22325a1dee4b51dea6b00004103&v=4" width="24" alt="Avatar of PL4typus"> PL4typus
+			</a><br/>
+			Pierre-Louis Palant
+		</td>
+		<td>Bytelab </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>809</td>
+		<td>
+			<a href="https://github.com/jonnieZG">
+				<img src="https://avatars.githubusercontent.com/u/8830300?s=72&u=064ec70e10966282ab81ad98b1243d33480b71d9&v=4" width="24" alt="Avatar of jonnieZG"> jonnieZG
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>810</td>
+		<td>
+			<a href="https://github.com/dinogrgic1">
+				<img src="https://avatars.githubusercontent.com/u/19477994?s=72&u=9fdc5920b9f960be4a193e935b8c4cc3edbbdcb0&v=4" width="24" alt="Avatar of dinogrgic1"> dinogrgic1
+			</a><br/>
+			Dino Grgić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>811</td>
+		<td>
+			<a href="https://github.com/luks">
+				<img src="https://avatars.githubusercontent.com/u/90252?s=72&u=c985e8556baafb96c80f568b25ab7a25bb069926&v=4" width="24" alt="Avatar of luks"> luks
+			</a><br/>
+			Lukapiske
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Czech republic</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>812</td>
+		<td>
+			<a href="https://github.com/ldolancic">
+				<img src="https://avatars.githubusercontent.com/u/6136353?s=72&u=97f082fc9d0ab68fbc495c7ed9eab5b44c952b30&v=4" width="24" alt="Avatar of ldolancic"> ldolancic
+			</a><br/>
+			Luka Dolančić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>813</td>
+		<td>
+			<a href="https://github.com/tsmrecki">
+				<img src="https://avatars.githubusercontent.com/u/6672440?s=72&u=17250b6509e95144d8d1605a9334f8556d020722&v=4" width="24" alt="Avatar of tsmrecki"> tsmrecki
+			</a><br/>
+			Tomislav Smrečki
+		</td>
+		<td>@bornfight </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>814</td>
+		<td>
+			<a href="https://github.com/raba930">
+				<img src="https://avatars.githubusercontent.com/u/13311475?s=72&u=fcf3ca13f2aa74be748c26ff383fd3d9949a3e49&v=4" width="24" alt="Avatar of raba930"> raba930
+			</a><br/>
+			Antonio Rabuzin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>815</td>
+		<td>
+			<a href="https://github.com/FicoSvt">
+				<img src="https://avatars.githubusercontent.com/u/1252739?s=72&u=be9a071aec0de6a5a869c968ea88c0ffba5cc289&v=4" width="24" alt="Avatar of FicoSvt"> FicoSvt
+			</a><br/>
+			Fico
+		</td>
+		<td>Inchoo D.o.o. </td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>816</td>
+		<td>
+			<a href="https://github.com/MarkoZabcic">
+				<img src="https://avatars.githubusercontent.com/u/22573?s=72&v=4" width="24" alt="Avatar of MarkoZabcic"> MarkoZabcic
+			</a><br/>
+			Marko Zabcic
+		</td>
+		<td>Effectiva Studio </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>817</td>
+		<td>
+			<a href="https://github.com/ssehovic">
+				<img src="https://avatars.githubusercontent.com/u/305709?s=72&u=44de175a7868806d285bc1ca9d9319f2f4ce27ba&v=4" width="24" alt="Avatar of ssehovic"> ssehovic
+			</a><br/>
+			Sinisa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb,Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>818</td>
+		<td>
+			<a href="https://github.com/willgrz">
+				<img src="https://avatars.githubusercontent.com/u/2393407?s=72&u=9df1d411fcc72a2889fcbba29da6ee17ed90f321&v=4" width="24" alt="Avatar of willgrz"> willgrz
+			</a><br/>
+			William
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>819</td>
+		<td>
+			<a href="https://github.com/igorlakic">
+				<img src="https://avatars.githubusercontent.com/u/13659376?s=72&u=06eb0d5ab70864e9373178af46bc5743b7889354&v=4" width="24" alt="Avatar of igorlakic"> igorlakic
+			</a><br/>
+			Igor Lakić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Europe - Croatia - Rijeka</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>820</td>
+		<td>
+			<a href="https://github.com/bbrdaric">
+				<img src="https://avatars.githubusercontent.com/u/1290335?s=72&u=fff1e4d503e9a8b4c4929bf4e2c73cc2c9da0431&v=4" width="24" alt="Avatar of bbrdaric"> bbrdaric
+			</a><br/>
+			Boris Brdarić
+		</td>
+		<td>@carnet </td>
+		<td>No Twitter Username</td>
+		<td>Samobor, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>821</td>
+		<td>
+			<a href="https://github.com/GTadeon">
+				<img src="https://avatars.githubusercontent.com/u/10516257?s=72&u=e123ce791cd4a76eecfedaded0e0160707fdb236&v=4" width="24" alt="Avatar of GTadeon"> GTadeon
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>822</td>
+		<td>
+			<a href="https://github.com/slaven">
+				<img src="https://avatars.githubusercontent.com/u/145448?s=72&u=c66abbe90b201c336e966223e22641b93ba9b289&v=4" width="24" alt="Avatar of slaven"> slaven
+			</a><br/>
+			Slaven Vladisavljevic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>823</td>
+		<td>
+			<a href="https://github.com/FilipKesteli">
+				<img src="https://avatars.githubusercontent.com/u/17580630?s=72&u=467991e7fd7d389d4bd4950f9cbd19805d30ae04&v=4" width="24" alt="Avatar of FilipKesteli"> FilipKesteli
+			</a><br/>
+			Filip Kesteli
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>824</td>
+		<td>
+			<a href="https://github.com/Fosna">
+				<img src="https://avatars.githubusercontent.com/u/4737545?s=72&u=4a0268350d31b760c86bdc06e78f5356262f071f&v=4" width="24" alt="Avatar of Fosna"> Fosna
+			</a><br/>
+			Vedran Marsic
+		</td>
+		<td>@axilis  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>825</td>
+		<td>
+			<a href="https://github.com/DomagojGojak">
+				<img src="https://avatars.githubusercontent.com/u/4053217?s=72&u=e6453ee644e9691fc08975e563e71e958b8f31fc&v=4" width="24" alt="Avatar of DomagojGojak"> DomagojGojak
+			</a><br/>
+			Domagoj Gojak
+		</td>
+		<td>@slicejack </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>826</td>
+		<td>
+			<a href="https://github.com/saninmujkic">
+				<img src="https://avatars.githubusercontent.com/u/682037?s=72&v=4" width="24" alt="Avatar of saninmujkic"> saninmujkic
+			</a><br/>
+			Sanin Mujkić
+		</td>
+		<td>M2bit Ab </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>827</td>
+		<td>
+			<a href="https://github.com/zlanusic">
+				<img src="https://avatars.githubusercontent.com/u/1186208?s=72&v=4" width="24" alt="Avatar of zlanusic"> zlanusic
+			</a><br/>
+			Zlatko Anušić
+		</td>
+		<td>@dapowerplay  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>828</td>
+		<td>
+			<a href="https://github.com/bolkonksy">
+				<img src="https://avatars.githubusercontent.com/u/18377463?s=72&u=af615ec016dde1cb641e2650e2c1b56ddb43c5d6&v=4" width="24" alt="Avatar of bolkonksy"> bolkonksy
+			</a><br/>
+			Karlo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>829</td>
+		<td>
+			<a href="https://github.com/quadmachine">
+				<img src="https://avatars.githubusercontent.com/u/913900?s=72&v=4" width="24" alt="Avatar of quadmachine"> quadmachine
+			</a><br/>
+			Mladen Panic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>830</td>
+		<td>
+			<a href="https://github.com/marioslatinac">
+				<img src="https://avatars.githubusercontent.com/u/19970704?s=72&u=f8258f4b4df040f64d61be235be8aa820909baa0&v=4" width="24" alt="Avatar of marioslatinac"> marioslatinac
+			</a><br/>
+			Mario Slatinac
+		</td>
+		<td>@infinum </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>831</td>
+		<td>
+			<a href="https://github.com/msantic">
+				<img src="https://avatars.githubusercontent.com/u/314702?s=72&v=4" width="24" alt="Avatar of msantic"> msantic
+			</a><br/>
+			Marko
+		</td>
+		<td>Gis Cloud </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>832</td>
+		<td>
+			<a href="https://github.com/apezo00">
+				<img src="https://avatars.githubusercontent.com/u/26716579?s=72&u=42a29f0cd5c229ac07d065cbcac7e08eb277636c&v=4" width="24" alt="Avatar of apezo00"> apezo00
+			</a><br/>
+			Andrea Pezo
+		</td>
+		<td>Hattrick-psk D.o.o. </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>833</td>
+		<td>
+			<a href="https://github.com/chombe">
+				<img src="https://avatars.githubusercontent.com/u/2380250?s=72&v=4" width="24" alt="Avatar of chombe"> chombe
+			</a><br/>
+			Tomislav
+		</td>
+		<td>Trive D.o.o. </td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>834</td>
+		<td>
+			<a href="https://github.com/KresimirKoncicNeuralab">
+				<img src="https://avatars.githubusercontent.com/u/2607042?s=72&v=4" width="24" alt="Avatar of KresimirKoncicNeuralab"> KresimirKoncicNeuralab
+			</a><br/>
+			Krešimir Končić
+		</td>
+		<td>Neuralab </td>
+		<td><a href="https://twitter.com/kreshomir">kreshomir</a></td>
+		<td>Zagreb</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>835</td>
+		<td>
+			<a href="https://github.com/emanuelblagonic">
+				<img src="https://avatars.githubusercontent.com/u/3684707?s=72&v=4" width="24" alt="Avatar of emanuelblagonic"> emanuelblagonic
+			</a><br/>
+			Emanuel Blagonić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>836</td>
+		<td>
+			<a href="https://github.com/makiJS">
+				<img src="https://avatars.githubusercontent.com/u/10434979?s=72&u=cf1e0d39fb161eb49164b17927b1ae571472a144&v=4" width="24" alt="Avatar of makiJS"> makiJS
+			</a><br/>
+			Matej Maloča
+		</td>
+		<td>@jaspero  </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>837</td>
+		<td>
+			<a href="https://github.com/mateoKaradza">
+				<img src="https://avatars.githubusercontent.com/u/4072018?s=72&u=14eedabf1cb01a25b48fd1cf49e5fdaeeaf7c38a&v=4" width="24" alt="Avatar of mateoKaradza"> mateoKaradza
+			</a><br/>
+			Mateo Karadža
+		</td>
+		<td>@blazing-edge-labs  </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>838</td>
+		<td>
+			<a href="https://github.com/jsmolic">
+				<img src="https://avatars.githubusercontent.com/u/62930983?s=72&u=afdac563f0e39da7c93e2cb2a8595343fe0a673c&v=4" width="24" alt="Avatar of jsmolic"> jsmolic
+			</a><br/>
+			Jakov Smolić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Šibenik, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>839</td>
+		<td>
+			<a href="https://github.com/unandreshevia">
+				<img src="https://avatars.githubusercontent.com/u/14140509?s=72&u=943cd5b9e221a81559177a1d3b9068c05773f59a&v=4" width="24" alt="Avatar of unandreshevia"> unandreshevia
+			</a><br/>
+			Andrés J. Hevia G.
+		</td>
+		<td>Speck </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>840</td>
+		<td>
+			<a href="https://github.com/zlatsic">
+				<img src="https://avatars.githubusercontent.com/u/11090684?s=72&u=2c99ff62f4fe57bda59956b7a4dd1f8837588b38&v=4" width="24" alt="Avatar of zlatsic"> zlatsic
+			</a><br/>
+			Zlatan Sičanica
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/zlatsic">zlatsic</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>841</td>
+		<td>
+			<a href="https://github.com/dmacan23">
+				<img src="https://avatars.githubusercontent.com/u/3057176?s=72&u=fe1a26cec6b45b61de894e64ff7c70c2b88e71ab&v=4" width="24" alt="Avatar of dmacan23"> dmacan23
+			</a><br/>
+			David Macan
+		</td>
+		<td>@zeromolecule  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>842</td>
+		<td>
+			<a href="https://github.com/mario-mestrovic">
+				<img src="https://avatars.githubusercontent.com/u/3209068?s=72&v=4" width="24" alt="Avatar of mario-mestrovic"> mario-mestrovic
+			</a><br/>
+			Mario Mestrovic
+		</td>
+		<td>@pixionco  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>843</td>
+		<td>
+			<a href="https://github.com/anaparunov">
+				<img src="https://avatars.githubusercontent.com/u/6322277?s=72&u=6ab3d7c682bf5b48b7a03e1422932c5a58922e65&v=4" width="24" alt="Avatar of anaparunov"> anaparunov
+			</a><br/>
+			Ana Parunov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>844</td>
+		<td>
+			<a href="https://github.com/anovoselnik">
+				<img src="https://avatars.githubusercontent.com/u/1204879?s=72&u=522b1f1e02f638a087e7b00c2c21b49c596d4a6d&v=4" width="24" alt="Avatar of anovoselnik"> anovoselnik
+			</a><br/>
+			Antonio Novoselnik
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>845</td>
+		<td>
+			<a href="https://github.com/mvladic">
+				<img src="https://avatars.githubusercontent.com/u/449788?s=72&v=4" width="24" alt="Avatar of mvladic"> mvladic
+			</a><br/>
+			Martin Vladic
+		</td>
+		<td>Envox D.o.o. </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>846</td>
+		<td>
+			<a href="https://github.com/ipaljak">
+				<img src="https://avatars.githubusercontent.com/u/9020791?s=72&u=bb2fc1293f9464bc4219b756a054cb8c2b8265c2&v=4" width="24" alt="Avatar of ipaljak"> ipaljak
+			</a><br/>
+			Ivan Paljak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>847</td>
+		<td>
+			<a href="https://github.com/tmatijev">
+				<img src="https://avatars.githubusercontent.com/u/4289338?s=72&u=ae8e31efcf48cc4ab3afbccc823ff6425173fa5c&v=4" width="24" alt="Avatar of tmatijev"> tmatijev
+			</a><br/>
+			Tomislav Matijević
+		</td>
+		<td>@toptal  </td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>848</td>
+		<td>
+			<a href="https://github.com/embalint">
+				<img src="https://avatars.githubusercontent.com/u/490853?s=72&u=f8d1ee936212940cee6c148b987260fcf0985232&v=4" width="24" alt="Avatar of embalint"> embalint
+			</a><br/>
+			Emil
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>849</td>
+		<td>
+			<a href="https://github.com/horzadome">
+				<img src="https://avatars.githubusercontent.com/u/953831?s=72&u=fd8e43ddc97dc9ba14d0c94249ece7087524dc8e&v=4" width="24" alt="Avatar of horzadome"> horzadome
+			</a><br/>
+			Davor Grubisa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>850</td>
+		<td>
+			<a href="https://github.com/dbettini">
+				<img src="https://avatars.githubusercontent.com/u/16350909?s=72&v=4" width="24" alt="Avatar of dbettini"> dbettini
+			</a><br/>
+			Dino Bettini
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>851</td>
+		<td>
+			<a href="https://github.com/sujed">
+				<img src="https://avatars.githubusercontent.com/u/22971442?s=72&u=b182c6eb01e0d6cec36abd65ca4fc8a6447885bb&v=4" width="24" alt="Avatar of sujed"> sujed
+			</a><br/>
+			Eduardo Sujević
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>852</td>
+		<td>
+			<a href="https://github.com/strongtino">
+				<img src="https://avatars.githubusercontent.com/u/50464409?s=72&u=63b0c28dbff79ff26c5165e6c317a8d509c87f33&v=4" width="24" alt="Avatar of strongtino"> strongtino
+			</a><br/>
+			Valentino K.
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/strongtinofc">strongtinofc</a></td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>853</td>
+		<td>
+			<a href="https://github.com/tasteslikestrawberries">
+				<img src="https://avatars.githubusercontent.com/u/73844750?s=72&u=162bce2abf6574adbcf0815a82f6fcd932e50b41&v=4" width="24" alt="Avatar of tasteslikestrawberries"> tasteslikestrawberries
+			</a><br/>
+			Anja
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/twittiepie91">twittiepie91</a></td>
+		<td>Rijeka, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>854</td>
+		<td>
+			<a href="https://github.com/kvukusic">
+				<img src="https://avatars.githubusercontent.com/u/6481323?s=72&u=60be24b9afb7bef198f26a2cb14881391eaaad55&v=4" width="24" alt="Avatar of kvukusic"> kvukusic
+			</a><br/>
+			Kristian Vukušić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>855</td>
+		<td>
+			<a href="https://github.com/mister11">
+				<img src="https://avatars.githubusercontent.com/u/4458779?s=72&u=00fe020807b450017c47d3496080323afdc3657f&v=4" width="24" alt="Avatar of mister11"> mister11
+			</a><br/>
+			Sven Vidak
+		</td>
+		<td>Infinum </td>
+		<td><a href="https://twitter.com/mist3er11">mist3er11</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>856</td>
+		<td>
+			<a href="https://github.com/amarjanica">
+				<img src="https://avatars.githubusercontent.com/u/1394565?s=72&u=fc27e00b2551dc16c46689c8e5969cc582262aae&v=4" width="24" alt="Avatar of amarjanica"> amarjanica
+			</a><br/>
+			Ana Bujan
+		</td>
+		<td>@eisberg-labs  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>857</td>
+		<td>
+			<a href="https://github.com/lmiskovic">
+				<img src="https://avatars.githubusercontent.com/u/3296711?s=72&u=58751b42d76f929966479c790bcef9c77800b9f7&v=4" width="24" alt="Avatar of lmiskovic"> lmiskovic
+			</a><br/>
+			Luka Miskovic
+		</td>
+		<td>Evolutio </td>
+		<td>No Twitter Username</td>
+		<td>Zadar, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>858</td>
+		<td>
+			<a href="https://github.com/valicm">
+				<img src="https://avatars.githubusercontent.com/u/3858015?s=72&u=cd1eaef85eb0b7b8d55c0f09348e3a65c563dcbd&v=4" width="24" alt="Avatar of valicm"> valicm
+			</a><br/>
+			Valentino Međimorec
+		</td>
+		<td>@vallic  </td>
+		<td><a href="https://twitter.com/valic">valic</a></td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>859</td>
+		<td>
+			<a href="https://github.com/GrgoJelavic">
+				<img src="https://avatars.githubusercontent.com/u/59096607?s=72&v=4" width="24" alt="Avatar of GrgoJelavic"> GrgoJelavic
+			</a><br/>
+			Grgo Jelavic
+		</td>
+		<td>Aspira University College </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>860</td>
+		<td>
+			<a href="https://github.com/mariosasko">
+				<img src="https://avatars.githubusercontent.com/u/47462742?s=72&u=dd9f5ce508e845d378893bbdcdcd9c60910ccbe9&v=4" width="24" alt="Avatar of mariosasko"> mariosasko
+			</a><br/>
+			Mario Šaško
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Varaždin, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>861</td>
+		<td>
+			<a href="https://github.com/djankovic">
+				<img src="https://avatars.githubusercontent.com/u/6401646?s=72&u=8f54f0f4e743362a72a1535fd4885fb4501f5d0b&v=4" width="24" alt="Avatar of djankovic"> djankovic
+			</a><br/>
+			Dominik Janković
+		</td>
+		<td>Profil Klett </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>862</td>
+		<td>
+			<a href="https://github.com/jtrupina">
+				<img src="https://avatars.githubusercontent.com/u/2964787?s=72&u=5ed6c6b242a055b5e2209a6aeffe629cf0f898f3&v=4" width="24" alt="Avatar of jtrupina"> jtrupina
+			</a><br/>
+			Josip Trupina
+		</td>
+		<td>Krondeli </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>863</td>
+		<td>
+			<a href="https://github.com/tonxyx">
+				<img src="https://avatars.githubusercontent.com/u/4355573?s=72&u=69982d57ca5460c0090fa50fcddc31cddc904f78&v=4" width="24" alt="Avatar of tonxyx"> tonxyx
+			</a><br/>
+			Toni
+		</td>
+		<td>@orn-software </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>864</td>
+		<td>
+			<a href="https://github.com/Brnjak6">
+				<img src="https://avatars.githubusercontent.com/u/68736438?s=72&u=855c6a2f7283345492acdfb075c05be989d01c13&v=4" width="24" alt="Avatar of Brnjak6"> Brnjak6
+			</a><br/>
+			OPTIC
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>865</td>
+		<td>
+			<a href="https://github.com/markomijolovic">
+				<img src="https://avatars.githubusercontent.com/u/23408943?s=72&v=4" width="24" alt="Avatar of markomijolovic"> markomijolovic
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>866</td>
+		<td>
+			<a href="https://github.com/zvanjak">
+				<img src="https://avatars.githubusercontent.com/u/4499631?s=72&u=eb89f14ca740250d09ef269debb10c33e8472aba&v=4" width="24" alt="Avatar of zvanjak"> zvanjak
+			</a><br/>
+			Zvonimir Vanjak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>867</td>
+		<td>
+			<a href="https://github.com/njakic">
+				<img src="https://avatars.githubusercontent.com/u/5888508?s=72&u=7f9c8ea3ce2255a1d1b6738888203d1571f882f5&v=4" width="24" alt="Avatar of njakic"> njakic
+			</a><br/>
+			Nikola Jakić
+		</td>
+		<td>Ars Futura </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>868</td>
+		<td>
+			<a href="https://github.com/JosipSkrlec">
+				<img src="https://avatars.githubusercontent.com/u/26772869?s=72&u=43e53cf551ef845c28dd277e5373d1ce62ce12e0&v=4" width="24" alt="Avatar of JosipSkrlec"> JosipSkrlec
+			</a><br/>
+			JSkrlec
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>CROATIA</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>869</td>
+		<td>
+			<a href="https://github.com/ku5ic">
+				<img src="https://avatars.githubusercontent.com/u/697651?s=72&u=7e57627401d1eadf5248d53d8ee84e1fa73c5041&v=4" width="24" alt="Avatar of ku5ic"> ku5ic
+			</a><br/>
+			Sinisa Kusic
+		</td>
+		<td>@gaggleamp  </td>
+		<td>No Twitter Username</td>
+		<td>Rijeka, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>870</td>
+		<td>
+			<a href="https://github.com/ldgit">
+				<img src="https://avatars.githubusercontent.com/u/3164214?s=72&v=4" width="24" alt="Avatar of ldgit"> ldgit
+			</a><br/>
+			Danko Lučić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>871</td>
+		<td>
+			<a href="https://github.com/MarkoDobrinic">
+				<img src="https://avatars.githubusercontent.com/u/12173077?s=72&u=d17fefd46e8dcb260361484efb906ae1bff339f5&v=4" width="24" alt="Avatar of MarkoDobrinic"> MarkoDobrinic
+			</a><br/>
+			Marko Dobrinić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>872</td>
+		<td>
+			<a href="https://github.com/mkrajaci">
+				<img src="https://avatars.githubusercontent.com/u/22674960?s=72&u=a2002f3877e4c8321753982ba07318060cc0b6b4&v=4" width="24" alt="Avatar of mkrajaci"> mkrajaci
+			</a><br/>
+			Mario Krajacic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>873</td>
+		<td>
+			<a href="https://github.com/cagaljfilipa">
+				<img src="https://avatars.githubusercontent.com/u/13024622?s=72&u=3995c23c6dd4ef8ed5567ab84bb5708ae0f5fe57&v=4" width="24" alt="Avatar of cagaljfilipa"> cagaljfilipa
+			</a><br/>
+			Filipa Cagalj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>874</td>
+		<td>
+			<a href="https://github.com/benjam1n">
+				<img src="https://avatars.githubusercontent.com/u/103969?s=72&v=4" width="24" alt="Avatar of benjam1n"> benjam1n
+			</a><br/>
+			Benjamin Alijagić
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/benjam1n">benjam1n</a></td>
+		<td>Rijeka, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>875</td>
+		<td>
+			<a href="https://github.com/KrisKendel">
+				<img src="https://avatars.githubusercontent.com/u/50752498?s=72&u=b307a5144c3a2079189759da654d40c5b9c569ec&v=4" width="24" alt="Avatar of KrisKendel"> KrisKendel
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>876</td>
+		<td>
+			<a href="https://github.com/MatanBudimir">
+				<img src="https://avatars.githubusercontent.com/u/36965687?s=72&u=ddfb8c8b54de4eb82e92e67cc47c650e91918428&v=4" width="24" alt="Avatar of MatanBudimir"> MatanBudimir
+			</a><br/>
+			Matan Budimir
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/matan424">matan424</a></td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>877</td>
+		<td>
+			<a href="https://github.com/mutantkeyboard">
+				<img src="https://avatars.githubusercontent.com/u/1167494?s=72&u=2149cb18358896f65a022cf320dae83dcbfc50ae&v=4" width="24" alt="Avatar of mutantkeyboard"> mutantkeyboard
+			</a><br/>
+			Antonio Nesic
+		</td>
+		<td>Iolap </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>878</td>
+		<td>
+			<a href="https://github.com/markojerkic">
+				<img src="https://avatars.githubusercontent.com/u/22824333?s=72&u=37c4dbb5220846021f011f72ca5934fef59f1a4c&v=4" width="24" alt="Avatar of markojerkic"> markojerkic
+			</a><br/>
+			Marko Jerkić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>879</td>
+		<td>
+			<a href="https://github.com/EggsyCRO">
+				<img src="https://avatars.githubusercontent.com/u/39103865?s=72&u=8a43cc7974e86cc0fe6737c7fffde80e4271cc26&v=4" width="24" alt="Avatar of EggsyCRO"> EggsyCRO
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>880</td>
+		<td>
+			<a href="https://github.com/brunotot">
+				<img src="https://avatars.githubusercontent.com/u/53398175?s=72&u=d7056a177a2ad4c301841a1db342226fdf62b093&v=4" width="24" alt="Avatar of brunotot"> brunotot
+			</a><br/>
+			Bruno
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>881</td>
+		<td>
+			<a href="https://github.com/rade901">
+				<img src="https://avatars.githubusercontent.com/u/78330407?s=72&u=6864507a4c108cd84eab9f896e92b00cadb029b6&v=4" width="24" alt="Avatar of rade901"> rade901
+			</a><br/>
+			Rade Jasenovčanin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>882</td>
+		<td>
+			<a href="https://github.com/GabrielGircenko">
+				<img src="https://avatars.githubusercontent.com/u/3791927?s=72&u=08570465ed3c6f08cf679a359a2b13cb224597ff&v=4" width="24" alt="Avatar of GabrielGircenko"> GabrielGircenko
+			</a><br/>
+			Gabriel Gircenko
+		</td>
+		<td>Epigraph </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>883</td>
+		<td>
+			<a href="https://github.com/ggolubic">
+				<img src="https://avatars.githubusercontent.com/u/25390319?s=72&u=783e6a26f80dde59d677889cc3aba8ea265edfd7&v=4" width="24" alt="Avatar of ggolubic"> ggolubic
+			</a><br/>
+			Gabrijel Golubić
+		</td>
+		<td>Seekandhit </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>884</td>
+		<td>
+			<a href="https://github.com/dvertovsek">
+				<img src="https://avatars.githubusercontent.com/u/11228615?s=72&v=4" width="24" alt="Avatar of dvertovsek"> dvertovsek
+			</a><br/>
+			Darijan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zadar</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>885</td>
+		<td>
+			<a href="https://github.com/gkresic">
+				<img src="https://avatars.githubusercontent.com/u/591332?s=72&u=a201b35471c54a4cb5f9a69320a61bae84a9bd93&v=4" width="24" alt="Avatar of gkresic"> gkresic
+			</a><br/>
+			Gordan Krešić
+		</td>
+		<td>Steatoda D.o.o. </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>886</td>
+		<td>
+			<a href="https://github.com/m-ladis">
+				<img src="https://avatars.githubusercontent.com/u/24565931?s=72&v=4" width="24" alt="Avatar of m-ladis"> m-ladis
+			</a><br/>
+			Marino Ladis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zadar</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>887</td>
+		<td>
+			<a href="https://github.com/AntonioSamardzic">
+				<img src="https://avatars.githubusercontent.com/u/53407056?s=72&u=05c46729d0a22964ec41dc7ff8f70c947f1565bc&v=4" width="24" alt="Avatar of AntonioSamardzic"> AntonioSamardzic
+			</a><br/>
+			Antonio Samardžić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>888</td>
+		<td>
+			<a href="https://github.com/troky">
+				<img src="https://avatars.githubusercontent.com/u/5564542?s=72&u=7ca162597f17ba127696c08bc3f39b798a37b9dd&v=4" width="24" alt="Avatar of troky"> troky
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>889</td>
+		<td>
+			<a href="https://github.com/Markopp">
+				<img src="https://avatars.githubusercontent.com/u/17185024?s=72&u=d99e190e3cf90ff1f6559e5a217547a627f10755&v=4" width="24" alt="Avatar of Markopp"> Markopp
+			</a><br/>
+			Marko Papp
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>890</td>
+		<td>
+			<a href="https://github.com/nopacak">
+				<img src="https://avatars.githubusercontent.com/u/65850108?s=72&u=80d38e0e9281227dad0df410b8c9ba063213110c&v=4" width="24" alt="Avatar of nopacak"> nopacak
+			</a><br/>
+			Nikolina Opačak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>891</td>
+		<td>
+			<a href="https://github.com/njelich">
+				<img src="https://avatars.githubusercontent.com/u/12912633?s=72&u=cadab8d7744176c37023bf4047f73261580513ab&v=4" width="24" alt="Avatar of njelich"> njelich
+			</a><br/>
+			Noah Jelich
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/JelichNoah">JelichNoah</a></td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>892</td>
+		<td>
+			<a href="https://github.com/zmajstorovic">
+				<img src="https://avatars.githubusercontent.com/u/18489380?s=72&v=4" width="24" alt="Avatar of zmajstorovic"> zmajstorovic
+			</a><br/>
+			Zeljko Majstorovic
+		</td>
+		<td>Faculty Of Transport And<br/>Traffic<br/>Sciences<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb (Croatia)</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>893</td>
+		<td>
+			<a href="https://github.com/mgaliman">
+				<img src="https://avatars.githubusercontent.com/u/61890185?s=72&v=4" width="24" alt="Avatar of mgaliman"> mgaliman
+			</a><br/>
+			Marko Galiman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>894</td>
+		<td>
+			<a href="https://github.com/mmaderic">
+				<img src="https://avatars.githubusercontent.com/u/39437117?s=72&u=638d6f7e06918577752a4f19e3a694590c83d446&v=4" width="24" alt="Avatar of mmaderic"> mmaderic
+			</a><br/>
+			Mateo Mađerić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>895</td>
+		<td>
+			<a href="https://github.com/wir">
+				<img src="https://avatars.githubusercontent.com/u/4060602?s=72&v=4" width="24" alt="Avatar of wir"> wir
+			</a><br/>
+			Sasha Beg
+		</td>
+		<td>Web Inkubator </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>896</td>
+		<td>
+			<a href="https://github.com/AndroMikulic">
+				<img src="https://avatars.githubusercontent.com/u/15565617?s=72&u=b4eb6319b3bc125424b453138fa4383eb8cac693&v=4" width="24" alt="Avatar of AndroMikulic"> AndroMikulic
+			</a><br/>
+			Andro Mikulic
+		</td>
+		<td>Double Lens Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>897</td>
+		<td>
+			<a href="https://github.com/mnimac">
+				<img src="https://avatars.githubusercontent.com/u/32746188?s=72&u=d7b508a014f10993dc91cd4c6166ed8821450bfd&v=4" width="24" alt="Avatar of mnimac"> mnimac
+			</a><br/>
+			Marko Nimac
+		</td>
+		<td>Infobit </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>898</td>
+		<td>
+			<a href="https://github.com/hrvelic">
+				<img src="https://avatars.githubusercontent.com/u/1355549?s=72&v=4" width="24" alt="Avatar of hrvelic"> hrvelic
+			</a><br/>
+			Hrvoje Velić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>899</td>
+		<td>
+			<a href="https://github.com/kcuric">
+				<img src="https://avatars.githubusercontent.com/u/29998991?s=72&u=09ee786030909260a4df904e58ced2780e4bb04b&v=4" width="24" alt="Avatar of kcuric"> kcuric
+			</a><br/>
+			Krešimir Ćurić
+		</td>
+		<td>Coreline </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>900</td>
+		<td>
+			<a href="https://github.com/martintomac">
+				<img src="https://avatars.githubusercontent.com/u/10075173?s=72&v=4" width="24" alt="Avatar of martintomac"> martintomac
+			</a><br/>
+			No Name
+		</td>
+		<td>@mediatoolkit  </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>901</td>
+		<td>
+			<a href="https://github.com/matyX6">
+				<img src="https://avatars.githubusercontent.com/u/38249194?s=72&u=902ba73790baadf582e6a323e4cfff8e7320c1a1&v=4" width="24" alt="Avatar of matyX6"> matyX6
+			</a><br/>
+			Matija Jambresic
+		</td>
+		<td>Lionfred </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>902</td>
+		<td>
+			<a href="https://github.com/jzelez">
+				<img src="https://avatars.githubusercontent.com/u/386099?s=72&u=46374a1cb3ffc39393139d0ef19a2c35173e9e0f&v=4" width="24" alt="Avatar of jzelez"> jzelez
+			</a><br/>
+			Jurica Železnjak
+		</td>
+		<td>Hub26 </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>903</td>
+		<td>
+			<a href="https://github.com/JosipBudimcic">
+				<img src="https://avatars.githubusercontent.com/u/7622492?s=72&u=0b82ee57cb470fc9fb4e4390f2481d1d452077e7&v=4" width="24" alt="Avatar of JosipBudimcic"> JosipBudimcic
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>904</td>
+		<td>
+			<a href="https://github.com/ludwig031">
+				<img src="https://avatars.githubusercontent.com/u/30387773?s=72&u=1a288b8f5e62267ddf4bae35c563a75dc308a89d&v=4" width="24" alt="Avatar of ludwig031"> ludwig031
+			</a><br/>
+			Borna Ljudevit Matijanić
+		</td>
+		<td>Netgen </td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>905</td>
+		<td>
+			<a href="https://github.com/Sokre95">
+				<img src="https://avatars.githubusercontent.com/u/18078808?s=72&u=d17f5e35310f3a8fee023636afa9df0071d2430b&v=4" width="24" alt="Avatar of Sokre95"> Sokre95
+			</a><br/>
+			Krešimir Topolovec
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb-Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>906</td>
+		<td>
+			<a href="https://github.com/amihaljevic">
+				<img src="https://avatars.githubusercontent.com/u/11619091?s=72&u=a6845d843a9fc8d70bcea85d5b1e991e399db82b&v=4" width="24" alt="Avatar of amihaljevic"> amihaljevic
+			</a><br/>
+			Andrea Mihaljević
+		</td>
+		<td>Filozofski Fakultet Osijek </td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>907</td>
+		<td>
+			<a href="https://github.com/borisblizzard">
+				<img src="https://avatars.githubusercontent.com/u/13252181?s=72&u=f1abfb945daee0eb329fd30f743b78286eea3cb4&v=4" width="24" alt="Avatar of borisblizzard"> borisblizzard
+			</a><br/>
+			Boris Mikic
+		</td>
+		<td>Cateia Games </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>908</td>
+		<td>
+			<a href="https://github.com/DavyNavy3">
+				<img src="https://avatars.githubusercontent.com/u/37216037?s=72&v=4" width="24" alt="Avatar of DavyNavy3"> DavyNavy3
+			</a><br/>
+			Davy
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/davy6034">davy6034</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>909</td>
+		<td>
+			<a href="https://github.com/orcinus">
+				<img src="https://avatars.githubusercontent.com/u/1574258?s=72&v=4" width="24" alt="Avatar of orcinus"> orcinus
+			</a><br/>
+			Ante Vukorepa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>910</td>
+		<td>
+			<a href="https://github.com/imartic">
+				<img src="https://avatars.githubusercontent.com/u/22852643?s=72&u=094a606e072211c957902bfd917550c24db61ba8&v=4" width="24" alt="Avatar of imartic"> imartic
+			</a><br/>
+			Ivan Martić
+		</td>
+		<td>@cloudsenseltd </td>
+		<td>No Twitter Username</td>
+		<td>Rijeka, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>911</td>
+		<td>
+			<a href="https://github.com/bebox">
+				<img src="https://avatars.githubusercontent.com/u/775522?s=72&u=65a0905d33ccb9940c573567838152c0fa8c7f77&v=4" width="24" alt="Avatar of bebox"> bebox
+			</a><br/>
+			Benjamin Horvat
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, HR</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>912</td>
+		<td>
+			<a href="https://github.com/kozulic">
+				<img src="https://avatars.githubusercontent.com/u/34609047?s=72&u=7003e02cf1f08804224ed26a111523c2cac5245a&v=4" width="24" alt="Avatar of kozulic"> kozulic
+			</a><br/>
+			Ivan Kozulić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>913</td>
+		<td>
+			<a href="https://github.com/kresogalic8">
+				<img src="https://avatars.githubusercontent.com/u/7289406?s=72&u=1d12699bd5bee6d80977d7ab1c3440d8a2bc7944&v=4" width="24" alt="Avatar of kresogalic8"> kresogalic8
+			</a><br/>
+			Krešimir Galić
+		</td>
+		<td>@konceptive  </td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Osijek</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>914</td>
+		<td>
+			<a href="https://github.com/fperleta">
+				<img src="https://avatars.githubusercontent.com/u/5158681?s=72&v=4" width="24" alt="Avatar of fperleta"> fperleta
+			</a><br/>
+			Frano Perleta
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>915</td>
+		<td>
+			<a href="https://github.com/magla">
+				<img src="https://avatars.githubusercontent.com/u/467941?s=72&u=0cded9f7985e2492ec249541ef9ad4b89076ab7e&v=4" width="24" alt="Avatar of magla"> magla
+			</a><br/>
+			Magdalena
+		</td>
+		<td>Five </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>916</td>
+		<td>
+			<a href="https://github.com/vjorihoxha">
+				<img src="https://avatars.githubusercontent.com/u/26362762?s=72&u=d2179f58815c7f3dfc72eb7ea93e9e1ae02a155a&v=4" width="24" alt="Avatar of vjorihoxha"> vjorihoxha
+			</a><br/>
+			Vjori Hoxha
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>917</td>
+		<td>
+			<a href="https://github.com/VjeraTurk">
+				<img src="https://avatars.githubusercontent.com/u/10518165?s=72&u=344cd7c7e8a3f0bfa0f6f81cf39f6461ea48c44c&v=4" width="24" alt="Avatar of VjeraTurk"> VjeraTurk
+			</a><br/>
+			Vjera Turk
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>918</td>
+		<td>
+			<a href="https://github.com/SilentException">
+				<img src="https://avatars.githubusercontent.com/u/613606?s=72&u=62398449352762e94e11622de32a4629cab157bb&v=4" width="24" alt="Avatar of SilentException"> SilentException
+			</a><br/>
+			Mitja Skuver
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/SilentException">SilentException</a></td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>919</td>
+		<td>
+			<a href="https://github.com/mariobat88">
+				<img src="https://avatars.githubusercontent.com/u/1714041?s=72&v=4" width="24" alt="Avatar of mariobat88"> mariobat88
+			</a><br/>
+			Mario Bat
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>920</td>
+		<td>
+			<a href="https://github.com/Nidjo123">
+				<img src="https://avatars.githubusercontent.com/u/892180?s=72&v=4" width="24" alt="Avatar of Nidjo123"> Nidjo123
+			</a><br/>
+			Nikola Bunjevac
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>921</td>
+		<td>
+			<a href="https://github.com/theminjus">
+				<img src="https://avatars.githubusercontent.com/u/2241448?s=72&u=198dd3588ec82acf65ceea4c136778cebe2d54e8&v=4" width="24" alt="Avatar of theminjus"> theminjus
+			</a><br/>
+			Minja
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>922</td>
+		<td>
+			<a href="https://github.com/deedls">
+				<img src="https://avatars.githubusercontent.com/u/20205684?s=72&u=9135685528a1400ca1d4c38af59a00e4590453d8&v=4" width="24" alt="Avatar of deedls"> deedls
+			</a><br/>
+			Dijana Kolar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>923</td>
+		<td>
+			<a href="https://github.com/kstevica">
+				<img src="https://avatars.githubusercontent.com/u/5310628?s=72&u=edd54fe1a45dd7e0ff46d48f9c144e012b4e0830&v=4" width="24" alt="Avatar of kstevica"> kstevica
+			</a><br/>
+			No Name
+		</td>
+		<td>Ombotics </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>924</td>
+		<td>
+			<a href="https://github.com/mgrilec">
+				<img src="https://avatars.githubusercontent.com/u/68520?s=72&u=4887d74dff80ba4c8bf1c8f4ef67bd6aac3c525e&v=4" width="24" alt="Avatar of mgrilec"> mgrilec
+			</a><br/>
+			Mihael Grilec
+		</td>
+		<td>D-cave </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>925</td>
+		<td>
+			<a href="https://github.com/chaplja">
+				<img src="https://avatars.githubusercontent.com/u/11701442?s=72&u=cc8c7fd928ff524e466b7292443703332eb0e7ae&v=4" width="24" alt="Avatar of chaplja"> chaplja
+			</a><br/>
+			Tomislav Zubcic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>926</td>
+		<td>
+			<a href="https://github.com/vedran314">
+				<img src="https://avatars.githubusercontent.com/u/4938223?s=72&u=8ff6b503959c7a169c3fc0c7e589ece1b5bfd802&v=4" width="24" alt="Avatar of vedran314"> vedran314
+			</a><br/>
+			Vedran
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>927</td>
+		<td>
+			<a href="https://github.com/pkrizan">
+				<img src="https://avatars.githubusercontent.com/u/10393281?s=72&u=313e28195b9bbef412e60ebdcb2ba95348006675&v=4" width="24" alt="Avatar of pkrizan"> pkrizan
+			</a><br/>
+			Petra Krizan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>928</td>
+		<td>
+			<a href="https://github.com/rinmalavi">
+				<img src="https://avatars.githubusercontent.com/u/1412015?s=72&v=4" width="24" alt="Avatar of rinmalavi"> rinmalavi
+			</a><br/>
+			Marin Vila
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>929</td>
+		<td>
+			<a href="https://github.com/ivant75">
+				<img src="https://avatars.githubusercontent.com/u/24499480?s=72&u=223d126ef938600ab3ebbd338da0db7c6d358b35&v=4" width="24" alt="Avatar of ivant75"> ivant75
+			</a><br/>
+			Ivan Tomić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>930</td>
+		<td>
+			<a href="https://github.com/Lux652">
+				<img src="https://avatars.githubusercontent.com/u/17798863?s=72&u=f34271e4e6809be76ccfa9d2c32d9bc9a542e6d7&v=4" width="24" alt="Avatar of Lux652"> Lux652
+			</a><br/>
+			Luka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Virovitica, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>931</td>
+		<td>
+			<a href="https://github.com/bojanraguz1992">
+				<img src="https://avatars.githubusercontent.com/u/23667115?s=72&u=c982abaccfb26a1da77dec86ad541344f510fbe6&v=4" width="24" alt="Avatar of bojanraguz1992"> bojanraguz1992
+			</a><br/>
+			Bojan
+		</td>
+		<td>Digitalni Klik D.o.o </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>932</td>
+		<td>
+			<a href="https://github.com/Igor-Vuk">
+				<img src="https://avatars.githubusercontent.com/u/18139302?s=72&u=77c139917196de3fc103464cbb7bd6617cc445e5&v=4" width="24" alt="Avatar of Igor-Vuk"> Igor-Vuk
+			</a><br/>
+			Igor Vukelić
+		</td>
+		<td>Xogito </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>933</td>
+		<td>
+			<a href="https://github.com/wleorule">
+				<img src="https://avatars.githubusercontent.com/u/9850528?s=72&u=5a7c5b5d31c82f034ca25b21e4ab170383d2b2c0&v=4" width="24" alt="Avatar of wleorule"> wleorule
+			</a><br/>
+			Leo Siniša Radošić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>934</td>
+		<td>
+			<a href="https://github.com/discoHR">
+				<img src="https://avatars.githubusercontent.com/u/12666668?s=72&v=4" width="24" alt="Avatar of discoHR"> discoHR
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>935</td>
+		<td>
+			<a href="https://github.com/gregex">
+				<img src="https://avatars.githubusercontent.com/u/11517557?s=72&u=bd90515088a2dbca90c3862c141b312171ac167f&v=4" width="24" alt="Avatar of gregex"> gregex
+			</a><br/>
+			Gregor
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>936</td>
+		<td>
+			<a href="https://github.com/abarisic86">
+				<img src="https://avatars.githubusercontent.com/u/4949523?s=72&u=f6eb635e65887f4761e171380e4299db5530450a&v=4" width="24" alt="Avatar of abarisic86"> abarisic86
+			</a><br/>
+			Ante Barišić
+		</td>
+		<td>So[ror] </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>937</td>
+		<td>
+			<a href="https://github.com/Alkaia">
+				<img src="https://avatars.githubusercontent.com/u/9903770?s=72&u=68d56ba2e4b6a85cffa0671e3bde5f25b80404ec&v=4" width="24" alt="Avatar of Alkaia"> Alkaia
+			</a><br/>
+			Ana
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>938</td>
+		<td>
+			<a href="https://github.com/jurisicJosip">
+				<img src="https://avatars.githubusercontent.com/u/3002172?s=72&u=9effa150cc2b414a193a8c3a03652e9ec0d1f560&v=4" width="24" alt="Avatar of jurisicJosip"> jurisicJosip
+			</a><br/>
+			Josip Jurisic
+		</td>
+		<td>Bring Agile </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>939</td>
+		<td>
+			<a href="https://github.com/lhabjane">
+				<img src="https://avatars.githubusercontent.com/u/1618066?s=72&u=fd282317d50c2c2a2684adbf7c440b83600b02f6&v=4" width="24" alt="Avatar of lhabjane"> lhabjane
+			</a><br/>
+			Ljudevit
+		</td>
+		<td>Integrirani Poslovni Sustavi D.o.o.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>940</td>
+		<td>
+			<a href="https://github.com/lik1212">
+				<img src="https://avatars.githubusercontent.com/u/34547813?s=72&u=9a82a575fe4493472ff917ce33fbdafb87200c54&v=4" width="24" alt="Avatar of lik1212"> lik1212
+			</a><br/>
+			lik1212
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kaiserserslautern, Osijek</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>941</td>
+		<td>
+			<a href="https://github.com/bolancalucia">
+				<img src="https://avatars.githubusercontent.com/u/25805870?s=72&u=7eb2a3d24edb307abb86218bbf846ae87e175a67&v=4" width="24" alt="Avatar of bolancalucia"> bolancalucia
+			</a><br/>
+			Lucia Bolanča
+		</td>
+		<td>Emovis </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>942</td>
+		<td>
+			<a href="https://github.com/loncaa">
+				<img src="https://avatars.githubusercontent.com/u/4042298?s=72&u=bbf3440a90de5feaf053fe2eeb07f0e29ef10847&v=4" width="24" alt="Avatar of loncaa"> loncaa
+			</a><br/>
+			loncaa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>943</td>
+		<td>
+			<a href="https://github.com/zoransalamun">
+				<img src="https://avatars.githubusercontent.com/u/2565799?s=72&u=8d6c1606e82d47316358acc0c6b96f9ab8279454&v=4" width="24" alt="Avatar of zoransalamun"> zoransalamun
+			</a><br/>
+			Zoran Šalamun
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>944</td>
+		<td>
+			<a href="https://github.com/djuro06">
+				<img src="https://avatars.githubusercontent.com/u/26856609?s=72&u=9bc12e2300c78301fc12607402a128bb8602d518&v=4" width="24" alt="Avatar of djuro06"> djuro06
+			</a><br/>
+			Marko Đuroković
+		</td>
+		<td>Arhimed - Fizicari Osijek<br/></td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>945</td>
+		<td>
+			<a href="https://github.com/Flynt56">
+				<img src="https://avatars.githubusercontent.com/u/33006333?s=72&u=7386a865f0b5c5f3674eea3802d9bc7d9630dc6f&v=4" width="24" alt="Avatar of Flynt56"> Flynt56
+			</a><br/>
+			Ivan Benko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>946</td>
+		<td>
+			<a href="https://github.com/JediMaster93">
+				<img src="https://avatars.githubusercontent.com/u/5207451?s=72&u=3212faf874ffc0a90a06aba47f8933c67d284f5d&v=4" width="24" alt="Avatar of JediMaster93"> JediMaster93
+			</a><br/>
+			Jakov Perić
+		</td>
+		<td>Enea Software </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>947</td>
+		<td>
+			<a href="https://github.com/rbelusic">
+				<img src="https://avatars.githubusercontent.com/u/1949629?s=72&v=4" width="24" alt="Avatar of rbelusic"> rbelusic
+			</a><br/>
+			Roberto Belušić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Umag, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>948</td>
+		<td>
+			<a href="https://github.com/Sistqm">
+				<img src="https://avatars.githubusercontent.com/u/64092680?s=72&u=f4e549e2fac311cc9a0f579980643889834a06d4&v=4" width="24" alt="Avatar of Sistqm"> Sistqm
+			</a><br/>
+			Sistem
+		</td>
+		<td>Athreal </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>949</td>
+		<td>
+			<a href="https://github.com/mormy">
+				<img src="https://avatars.githubusercontent.com/u/210259?s=72&v=4" width="24" alt="Avatar of mormy"> mormy
+			</a><br/>
+			Marin Marušić
+		</td>
+		<td>Netpunk, Software Services </td>
+		<td>No Twitter Username</td>
+		<td>Zaprešić, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>950</td>
+		<td>
+			<a href="https://github.com/AntonijaBurcul">
+				<img src="https://avatars.githubusercontent.com/u/15229562?s=72&u=dea432f46449733162cbf5b8d93ced3648551104&v=4" width="24" alt="Avatar of AntonijaBurcul"> AntonijaBurcul
+			</a><br/>
+			Antonija Burčul
+		</td>
+		<td>Student </td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>951</td>
+		<td>
+			<a href="https://github.com/Spolja">
+				<img src="https://avatars.githubusercontent.com/u/12957080?s=72&u=a4c10a16a84c18f02499d40915e13761f81c9eed&v=4" width="24" alt="Avatar of Spolja"> Spolja
+			</a><br/>
+			Luka Špoljarić
+		</td>
+		<td>Rimac Automobili </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>952</td>
+		<td>
+			<a href="https://github.com/vjeran">
+				<img src="https://avatars.githubusercontent.com/u/1072642?s=72&v=4" width="24" alt="Avatar of vjeran"> vjeran
+			</a><br/>
+			Vjeran Vlahovic
+		</td>
+		<td>Netgen </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>953</td>
+		<td>
+			<a href="https://github.com/gliba008">
+				<img src="https://avatars.githubusercontent.com/u/6080965?s=72&v=4" width="24" alt="Avatar of gliba008"> gliba008
+			</a><br/>
+			Marin Glibić
+		</td>
+		<td>@enterwell  </td>
+		<td><a href="https://twitter.com/gliba008">gliba008</a></td>
+		<td>Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>954</td>
+		<td>
+			<a href="https://github.com/mzec">
+				<img src="https://avatars.githubusercontent.com/u/2143918?s=72&v=4" width="24" alt="Avatar of mzec"> mzec
+			</a><br/>
+			Mate Zec
+		</td>
+		<td>Association Biom </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>955</td>
+		<td>
+			<a href="https://github.com/tomek22">
+				<img src="https://avatars.githubusercontent.com/u/498861?s=72&v=4" width="24" alt="Avatar of tomek22"> tomek22
+			</a><br/>
+			Tomislav Čoh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Varaždin/Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>956</td>
+		<td>
+			<a href="https://github.com/tosulc">
+				<img src="https://avatars.githubusercontent.com/u/2722744?s=72&u=845fdbe18a6df4a99cc9ba5cd1b1bca1395e366c&v=4" width="24" alt="Avatar of tosulc"> tosulc
+			</a><br/>
+			Tomislav Šulc
+		</td>
+		<td>Repsly </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>957</td>
+		<td>
+			<a href="https://github.com/Sladozevik">
+				<img src="https://avatars.githubusercontent.com/u/12615567?s=72&u=bca823da6bb356deefeb2a78159cb4c569fbef3b&v=4" width="24" alt="Avatar of Sladozevik"> Sladozevik
+			</a><br/>
+			Ante Sladojevic
+		</td>
+		<td>Www.here.com </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>958</td>
+		<td>
+			<a href="https://github.com/RobertBakaric">
+				<img src="https://avatars.githubusercontent.com/u/11720628?s=72&u=b8b88ea3b64de5534719f4b7f01391f82242bf70&v=4" width="24" alt="Avatar of RobertBakaric"> RobertBakaric
+			</a><br/>
+			Robert Bakaric
+		</td>
+		<td>Looking For New Opportunities<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>959</td>
+		<td>
+			<a href="https://github.com/jzilic">
+				<img src="https://avatars.githubusercontent.com/u/34073245?s=72&u=0490812e41cee5a8396292fdf1e0bec21f1fdd61&v=4" width="24" alt="Avatar of jzilic"> jzilic
+			</a><br/>
+			Jure Žilić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia </td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>960</td>
+		<td>
+			<a href="https://github.com/davorinrusevljan">
+				<img src="https://avatars.githubusercontent.com/u/158834?s=72&v=4" width="24" alt="Avatar of davorinrusevljan"> davorinrusevljan
+			</a><br/>
+			Davorin Ruševljan
+		</td>
+		<td>Bytesmith </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>961</td>
+		<td>
+			<a href="https://github.com/jananicic">
+				<img src="https://avatars.githubusercontent.com/u/22854443?s=72&u=bbdbcc4d4d1f2ee90845d2f044813c5bf2c9e0d3&v=4" width="24" alt="Avatar of jananicic"> jananicic
+			</a><br/>
+			Jan Aničić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>962</td>
+		<td>
+			<a href="https://github.com/modulec">
+				<img src="https://avatars.githubusercontent.com/u/614781?s=72&v=4" width="24" alt="Avatar of modulec"> modulec
+			</a><br/>
+			Branko Toic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Pula Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>963</td>
+		<td>
+			<a href="https://github.com/acobanov">
+				<img src="https://avatars.githubusercontent.com/u/61391154?s=72&u=2fba7f38a85c0096db92dd8c05725c2b4abc359d&v=4" width="24" alt="Avatar of acobanov"> acobanov
+			</a><br/>
+			acobanov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>964</td>
+		<td>
+			<a href="https://github.com/datagovhr">
+				<img src="https://avatars.githubusercontent.com/u/11025655?s=72&u=cfe3f7a19582124b97dcd0709fc4b5d46284fa07&v=4" width="24" alt="Avatar of datagovhr"> datagovhr
+			</a><br/>
+			Portal otvorenih podataka Republike Hrvatske/Open Data Portal - The Republic of Croatia
+		</td>
+		<td>Vlada Republike Hrvatske, Ministarstvo<br/>Uprave/government<br/>Of<br/>The<br/>Republic<br/>Of<br/>Croatia,<br/>Ministry<br/>Of<br/>Public<br/>Administration<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>965</td>
+		<td>
+			<a href="https://github.com/csrenato">
+				<img src="https://avatars.githubusercontent.com/u/25842481?s=72&u=ee9245713aa64f9fc888b3ace13c19a3a8a1a1d5&v=4" width="24" alt="Avatar of csrenato"> csrenato
+			</a><br/>
+			Renato
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>966</td>
+		<td>
+			<a href="https://github.com/EPracic">
+				<img src="https://avatars.githubusercontent.com/u/50137615?s=72&v=4" width="24" alt="Avatar of EPracic"> EPracic
+			</a><br/>
+			Emanuel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>967</td>
+		<td>
+			<a href="https://github.com/ElectronicsFRT">
+				<img src="https://avatars.githubusercontent.com/u/46265320?s=72&u=d42b86375ababf10a5ab6c4e4800b459b440acb2&v=4" width="24" alt="Avatar of ElectronicsFRT"> ElectronicsFRT
+			</a><br/>
+			No Name
+		</td>
+		<td>Fesb </td>
+		<td>No Twitter Username</td>
+		<td>Split</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>968</td>
+		<td>
+			<a href="https://github.com/vedranjaic">
+				<img src="https://avatars.githubusercontent.com/u/1313525?s=72&v=4" width="24" alt="Avatar of vedranjaic"> vedranjaic
+			</a><br/>
+			Vedran Jaic
+		</td>
+		<td>Neos </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>969</td>
+		<td>
+			<a href="https://github.com/square-brackets">
+				<img src="https://avatars.githubusercontent.com/u/2816599?s=72&u=9eb1d9708ef19f420d241089848260da4daa9c99&v=4" width="24" alt="Avatar of square-brackets"> square-brackets
+			</a><br/>
+			Stjepan Petrusa
+		</td>
+		<td>@productiveio </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>970</td>
+		<td>
+			<a href="https://github.com/jglasovic">
+				<img src="https://avatars.githubusercontent.com/u/23735743?s=72&u=39c4ac0fd527396bfe94640270418c893553491a&v=4" width="24" alt="Avatar of jglasovic"> jglasovic
+			</a><br/>
+			Jure Glasovic
+		</td>
+		<td>@indigo-ag </td>
+		<td>No Twitter Username</td>
+		<td>Croatia, Split</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>971</td>
+		<td>
+			<a href="https://github.com/tvatavuk">
+				<img src="https://avatars.githubusercontent.com/u/2724850?s=72&v=4" width="24" alt="Avatar of tvatavuk"> tvatavuk
+			</a><br/>
+			Tonći Vatavuk
+		</td>
+		<td>Net Media Sistemi D.o.o.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>972</td>
+		<td>
+			<a href="https://github.com/SuzanaPratljacic">
+				<img src="https://avatars.githubusercontent.com/u/49244114?s=72&u=42a736c51a8fc695fa4be129c631df7b97e275ef&v=4" width="24" alt="Avatar of SuzanaPratljacic"> SuzanaPratljacic
+			</a><br/>
+			Suzana Pratljačić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>973</td>
+		<td>
+			<a href="https://github.com/kmatan99">
+				<img src="https://avatars.githubusercontent.com/u/56551554?s=72&u=d56c9d3378a71d051cfda92f269b64ebda7412d8&v=4" width="24" alt="Avatar of kmatan99"> kmatan99
+			</a><br/>
+			Karlo Matan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>974</td>
+		<td>
+			<a href="https://github.com/KarlaSalamun">
+				<img src="https://avatars.githubusercontent.com/u/33004569?s=72&u=f734f32133c5f7bdaa000034f32e7a7cc4c422de&v=4" width="24" alt="Avatar of KarlaSalamun"> KarlaSalamun
+			</a><br/>
+			Karla Salamun
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>975</td>
+		<td>
+			<a href="https://github.com/DankoSimic">
+				<img src="https://avatars.githubusercontent.com/u/83290695?s=72&v=4" width="24" alt="Avatar of DankoSimic"> DankoSimic
+			</a><br/>
+			Danko Šimić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>976</td>
+		<td>
+			<a href="https://github.com/McNullty">
+				<img src="https://avatars.githubusercontent.com/u/1732253?s=72&v=4" width="24" alt="Avatar of McNullty"> McNullty
+			</a><br/>
+			Mladen Čikara
+		</td>
+		<td>Vg Soft </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>977</td>
+		<td>
+			<a href="https://github.com/romanokeser">
+				<img src="https://avatars.githubusercontent.com/u/10106064?s=72&u=c92e8f900119a40edf0fdb82e6bd311c94e0bff1&v=4" width="24" alt="Avatar of romanokeser"> romanokeser
+			</a><br/>
+			RomanoK
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>978</td>
+		<td>
+			<a href="https://github.com/lucosic">
+				<img src="https://avatars.githubusercontent.com/u/37144180?s=72&u=bbef787b335ca6d38f5e128cb6301fc835667402&v=4" width="24" alt="Avatar of lucosic"> lucosic
+			</a><br/>
+			Luka Čosić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Varaždin, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>979</td>
+		<td>
+			<a href="https://github.com/jkrstulo">
+				<img src="https://avatars.githubusercontent.com/u/9588722?s=72&u=05587f136d0efc9564e659932d9fa662270d98cc&v=4" width="24" alt="Avatar of jkrstulo"> jkrstulo
+			</a><br/>
+			Jakov Krstulovic Opara
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>980</td>
+		<td>
+			<a href="https://github.com/fgacin00">
+				<img src="https://avatars.githubusercontent.com/u/56683198?s=72&u=d7b15f7203af447c3ec37123b357ea0c4eb4db84&v=4" width="24" alt="Avatar of fgacin00"> fgacin00
+			</a><br/>
+			Filip Gacina Bilin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Split, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>981</td>
+		<td>
+			<a href="https://github.com/zoricbruno">
+				<img src="https://avatars.githubusercontent.com/u/10668504?s=72&u=58c4b72fc4ac0445c1dd72048aaeb8c98d8a3ff5&v=4" width="24" alt="Avatar of zoricbruno"> zoricbruno
+			</a><br/>
+			Bruno Zorić
+		</td>
+		<td>@ferit </td>
+		<td>No Twitter Username</td>
+		<td>Osijek</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>982</td>
+		<td>
+			<a href="https://github.com/jsalkovic">
+				<img src="https://avatars.githubusercontent.com/u/28780321?s=72&u=e66d789eb2bbe094e12b48539d006eb833156fd1&v=4" width="24" alt="Avatar of jsalkovic"> jsalkovic
+			</a><br/>
+			Josip Šalković
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jsalkovic">jsalkovic</a></td>
+		<td>Zagreb, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>983</td>
+		<td>
+			<a href="https://github.com/tgrbin">
+				<img src="https://avatars.githubusercontent.com/u/637515?s=72&v=4" width="24" alt="Avatar of tgrbin"> tgrbin
+			</a><br/>
+			Tomislav Grbin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>984</td>
+		<td>
+			<a href="https://github.com/nvucinic">
+				<img src="https://avatars.githubusercontent.com/u/2073614?s=72&v=4" width="24" alt="Avatar of nvucinic"> nvucinic
+			</a><br/>
+			nvucinic
+		</td>
+		<td>Nvteh Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>985</td>
+		<td>
+			<a href="https://github.com/MarioZ">
+				<img src="https://avatars.githubusercontent.com/u/8082549?s=72&u=f749ec89c8ab80b722def7e9537caa6a42126180&v=4" width="24" alt="Avatar of MarioZ"> MarioZ
+			</a><br/>
+			Mario Zorica
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>986</td>
+		<td>
+			<a href="https://github.com/carvalhomb">
+				<img src="https://avatars.githubusercontent.com/u/11425202?s=72&u=090fd7df7cd6f5825283aa141f05ff8c16bf10c5&v=4" width="24" alt="Avatar of carvalhomb"> carvalhomb
+			</a><br/>
+			Maira B. Carvalho
+		</td>
+		<td>Hrvatski Telekom D.d. </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>987</td>
+		<td>
+			<a href="https://github.com/dextroza">
+				<img src="https://avatars.githubusercontent.com/u/7817617?s=72&v=4" width="24" alt="Avatar of dextroza"> dextroza
+			</a><br/>
+			Domagoj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>988</td>
+		<td>
+			<a href="https://github.com/fmatijevic">
+				<img src="https://avatars.githubusercontent.com/u/4982246?s=72&u=85fb5a380b988f3e42dff61d02b8d7b58d9a07d1&v=4" width="24" alt="Avatar of fmatijevic"> fmatijevic
+			</a><br/>
+			Filip Matijević
+		</td>
+		<td>@mantro </td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>989</td>
+		<td>
+			<a href="https://github.com/markoarula">
+				<img src="https://avatars.githubusercontent.com/u/27228538?s=72&v=4" width="24" alt="Avatar of markoarula"> markoarula
+			</a><br/>
+			Marko Arula
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>990</td>
+		<td>
+			<a href="https://github.com/Yegg12">
+				<img src="https://avatars.githubusercontent.com/u/43521928?s=72&u=7698f70f60a10271b1b2a61fdc6c01bd301abad1&v=4" width="24" alt="Avatar of Yegg12"> Yegg12
+			</a><br/>
+			Yegg
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Yegg121">Yegg121</a></td>
+		<td>croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>991</td>
+		<td>
+			<a href="https://github.com/gcupko00">
+				<img src="https://avatars.githubusercontent.com/u/18153172?s=72&u=2553c8601f6b9a43fff39650d8b76964843ea083&v=4" width="24" alt="Avatar of gcupko00"> gcupko00
+			</a><br/>
+			Gligorije Čupković
+		</td>
+		<td>Ericsson </td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>992</td>
+		<td>
+			<a href="https://github.com/vstefanec">
+				<img src="https://avatars.githubusercontent.com/u/2096362?s=72&v=4" width="24" alt="Avatar of vstefanec"> vstefanec
+			</a><br/>
+			Vanja Štefanec
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>993</td>
+		<td>
+			<a href="https://github.com/TsPG128">
+				<img src="https://avatars.githubusercontent.com/u/394795?s=72&u=7bae24afee5cafd1223fb0b52898788e450b88d1&v=4" width="24" alt="Avatar of TsPG128"> TsPG128
+			</a><br/>
+			Thomas Spigel
+		</td>
+		<td>Inchoo D.o.o </td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>994</td>
+		<td>
+			<a href="https://github.com/TheKarlo95">
+				<img src="https://avatars.githubusercontent.com/u/11317829?s=72&u=3ec52abfb73140fdf84812abe9ced6f368c52e6a&v=4" width="24" alt="Avatar of TheKarlo95"> TheKarlo95
+			</a><br/>
+			Karlo Vrbić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>995</td>
+		<td>
+			<a href="https://github.com/Justchilin">
+				<img src="https://avatars.githubusercontent.com/u/7779115?s=72&u=ac9a1b55778276182dbe68213d901ca0899e2e23&v=4" width="24" alt="Avatar of Justchilin"> Justchilin
+			</a><br/>
+			Josip Benčić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>996</td>
+		<td>
+			<a href="https://github.com/silvio86">
+				<img src="https://avatars.githubusercontent.com/u/4907238?s=72&u=8f86eafa4ef9496ffca5261e5e5eeb919c9aade4&v=4" width="24" alt="Avatar of silvio86"> silvio86
+			</a><br/>
+			Silvio Papac
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>997</td>
+		<td>
+			<a href="https://github.com/ipanduric">
+				<img src="https://avatars.githubusercontent.com/u/16083646?s=72&u=47eddfc9fe61142670face3c289c304524dcbd64&v=4" width="24" alt="Avatar of ipanduric"> ipanduric
+			</a><br/>
+			Iva Pandurić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Osijek, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>998</td>
+		<td>
+			<a href="https://github.com/zeleee">
+				<img src="https://avatars.githubusercontent.com/u/10188420?s=72&u=f6c17c8ecb23d44ee9dcd879dce4acf66e69e5ce&v=4" width="24" alt="Avatar of zeleee"> zeleee
+			</a><br/>
+			Kresimir Zelenika
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb, Croatia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>999</td>
+		<td>
+			<a href="https://github.com/jcular">
+				<img src="https://avatars.githubusercontent.com/u/9075797?s=72&u=c9fc53a895cbf8aa236c2edb514cf4ffd2e77c60&v=4" width="24" alt="Avatar of jcular"> jcular
+			</a><br/>
+			Jure Čular
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zagreb</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>1000</td>
+		<td>
+			<a href="https://github.com/mtodtling">
+				<img src="https://avatars.githubusercontent.com/u/13299644?s=72&u=06af9079d034e486638b8fbd5936dc7a824358db&v=4" width="24" alt="Avatar of mtodtling"> mtodtling
+			</a><br/>
+			Marija Todtling
+		</td>
+		<td>Infobip </td>
+		<td>No Twitter Username</td>
+		<td>Pula, Croatia</td>
+		<td>5</td>
 	</tr>
 </table>
 
