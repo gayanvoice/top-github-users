@@ -1,13 +1,13 @@
-# Top GitHub Users By Total Contributions in Estonia [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
-[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+# Top GitHub Users By Total Contributions in Estonia [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/year.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
+[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg" alt="Estonia">
 </a>
 
-The `public contributions` and `private contributions` by users in Estonia on `2021/6/22 10:31 AM UTC`. This list contains users from `Estonia` and cities `Tallinn` `Tartu` `Pärnu` `Narva` `Kohtla-järve`.
+The `public contributions` and `private contributions` by users in Estonia on `2021/6/27 11:20 AM UTC`. This list contains users from `Estonia` and cities `Tallinn` `Tartu` `Pärnu` `Narva` `Kohtla-järve`.
 
-There are `136 countries` and `675 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `1000 users`  in Estonia. You need at least `5 followers` to be on this list.
 
@@ -109,7 +109,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallin, Estonia</td>
 		<td>108</td>
-		<td>33762</td>
+		<td>33771</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -122,8 +122,8 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>Bolt </td>
 		<td><a href="https://twitter.com/vvscode">vvscode</a></td>
 		<td>Tallinn, Estonia</td>
-		<td>828</td>
-		<td>6249</td>
+		<td>831</td>
+		<td>6286</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -136,8 +136,8 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>Cryptobuilders </td>
 		<td><a href="https://twitter.com/LSDan_DeFi">LSDan_DeFi</a></td>
 		<td>Tallinn, Estonia</td>
-		<td>350</td>
-		<td>5535</td>
+		<td>357</td>
+		<td>5547</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -150,8 +150,8 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>@athenianco </td>
 		<td>No Twitter Username</td>
 		<td>Tallinn</td>
-		<td>114</td>
-		<td>5084</td>
+		<td>115</td>
+		<td>5106</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -165,7 +165,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>150</td>
-		<td>4710</td>
+		<td>4716</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -179,7 +179,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn</td>
 		<td>18</td>
-		<td>4285</td>
+		<td>4295</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia, Tartu</td>
 		<td>755</td>
-		<td>3969</td>
+		<td>3978</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -207,7 +207,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/markokungla">markokungla</a></td>
 		<td>Estonia / The Netherlands</td>
 		<td>487</td>
-		<td>3943</td>
+		<td>3944</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -235,10 +235,24 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>123</td>
-		<td>3670</td>
+		<td>3698</td>
 	</tr>
 	<tr>
 		<td>11</td>
+		<td>
+			<a href="https://github.com/plavreshin">
+				<img src="https://avatars.githubusercontent.com/u/5095635?s=72&u=1c18059ca7bada2d57cf1c29cf34047b76d9b73a&v=4" width="24" alt="Avatar of plavreshin"> plavreshin
+			</a><br/>
+			Pavel Lavreshin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>6</td>
+		<td>3627</td>
+	</tr>
+	<tr>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/jannehietamaki">
 				<img src="https://avatars.githubusercontent.com/u/62515?s=72&v=4" width="24" alt="Avatar of jannehietamaki"> jannehietamaki
@@ -252,20 +266,6 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>3547</td>
 	</tr>
 	<tr>
-		<td>12</td>
-		<td>
-			<a href="https://github.com/plavreshin">
-				<img src="https://avatars.githubusercontent.com/u/5095635?s=72&u=1c18059ca7bada2d57cf1c29cf34047b76d9b73a&v=4" width="24" alt="Avatar of plavreshin"> plavreshin
-			</a><br/>
-			Pavel Lavreshin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>6</td>
-		<td>3498</td>
-	</tr>
-	<tr>
 		<td>13</td>
 		<td>
 			<a href="https://github.com/Isabek">
@@ -277,7 +277,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>99</td>
-		<td>3376</td>
+		<td>3386</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -290,8 +290,8 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
-		<td>124</td>
-		<td>3110</td>
+		<td>125</td>
+		<td>3113</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -304,8 +304,8 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>@wolfprint3d  </td>
 		<td><a href="https://twitter.com/sgt3v">sgt3v</a></td>
 		<td>Tallinn, Eesti</td>
-		<td>131</td>
-		<td>3027</td>
+		<td>122</td>
+		<td>3039</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -319,7 +319,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>37</td>
-		<td>3006</td>
+		<td>3026</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -332,11 +332,25 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
-		<td>513</td>
-		<td>2980</td>
+		<td>516</td>
+		<td>3000</td>
 	</tr>
 	<tr>
 		<td>18</td>
+		<td>
+			<a href="https://github.com/tanelpuhu">
+				<img src="https://avatars.githubusercontent.com/u/19875?s=72&u=8f23522b8502a156be354282bd42321b5e080341&v=4" width="24" alt="Avatar of tanelpuhu"> tanelpuhu
+			</a><br/>
+			Tanel Puhu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tanel">tanel</a></td>
+		<td>Estonia</td>
+		<td>757</td>
+		<td>2907</td>
+	</tr>
+	<tr>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/henrinormak">
 				<img src="https://avatars.githubusercontent.com/u/1248491?s=72&u=455dcfb57e61f0993128bf2094045ac3c613cf2c&v=4" width="24" alt="Avatar of henrinormak"> henrinormak
@@ -347,21 +361,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia, Tallinn</td>
 		<td>78</td>
-		<td>2891</td>
-	</tr>
-	<tr>
-		<td>19</td>
-		<td>
-			<a href="https://github.com/tanelpuhu">
-				<img src="https://avatars.githubusercontent.com/u/19875?s=72&u=8f23522b8502a156be354282bd42321b5e080341&v=4" width="24" alt="Avatar of tanelpuhu"> tanelpuhu
-			</a><br/>
-			Tanel Puhu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tanel">tanel</a></td>
-		<td>Estonia</td>
-		<td>747</td>
-		<td>2877</td>
+		<td>2893</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -375,7 +375,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>2251</td>
-		<td>2745</td>
+		<td>2778</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -389,7 +389,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tartu, Estonia</td>
 		<td>68</td>
-		<td>2684</td>
+		<td>2690</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -403,7 +403,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>5</td>
-		<td>2643</td>
+		<td>2674</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -431,10 +431,38 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>186</td>
-		<td>2496</td>
+		<td>2525</td>
 	</tr>
 	<tr>
 		<td>25</td>
+		<td>
+			<a href="https://github.com/darja">
+				<img src="https://avatars.githubusercontent.com/u/1910808?s=72&v=4" width="24" alt="Avatar of darja"> darja
+			</a><br/>
+			Daria Ryazhskikh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>3</td>
+		<td>2404</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
+			<a href="https://github.com/maltsev">
+				<img src="https://avatars.githubusercontent.com/u/923973?s=72&u=c092b92db9f86f9d0e055a63b56cb19e371da58b&v=4" width="24" alt="Avatar of maltsev"> maltsev
+			</a><br/>
+			Kirill Maltsev
+		</td>
+		<td>Edaider </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>114</td>
+		<td>2383</td>
+	</tr>
+	<tr>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/hendrysadrak">
 				<img src="https://avatars.githubusercontent.com/u/4000963?s=72&u=749d3140c8b658eb261c6c8e1fd38ae899bfb8b0&v=4" width="24" alt="Avatar of hendrysadrak"> hendrysadrak
@@ -448,34 +476,6 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>2379</td>
 	</tr>
 	<tr>
-		<td>26</td>
-		<td>
-			<a href="https://github.com/darja">
-				<img src="https://avatars.githubusercontent.com/u/1910808?s=72&v=4" width="24" alt="Avatar of darja"> darja
-			</a><br/>
-			Daria Ryazhskikh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>3</td>
-		<td>2377</td>
-	</tr>
-	<tr>
-		<td>27</td>
-		<td>
-			<a href="https://github.com/maltsev">
-				<img src="https://avatars.githubusercontent.com/u/923973?s=72&u=c092b92db9f86f9d0e055a63b56cb19e371da58b&v=4" width="24" alt="Avatar of maltsev"> maltsev
-			</a><br/>
-			Kirill Maltsev
-		</td>
-		<td>Edaider </td>
-		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>114</td>
-		<td>2362</td>
-	</tr>
-	<tr>
 		<td>28</td>
 		<td>
 			<a href="https://github.com/jaros">
@@ -487,7 +487,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn</td>
 		<td>9</td>
-		<td>2313</td>
+		<td>2325</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -501,7 +501,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/deemoowoor">deemoowoor</a></td>
 		<td>Tallinn, Estonia</td>
 		<td>18</td>
-		<td>2303</td>
+		<td>2311</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -534,6 +534,20 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>32</td>
 		<td>
+			<a href="https://github.com/roughike">
+				<img src="https://avatars.githubusercontent.com/u/13744304?s=72&u=00346c964101ccbce701bc7ff2e2689f8ff34c5b&v=4" width="24" alt="Avatar of roughike"> roughike
+			</a><br/>
+			Iiro Krankka
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/koorankka">koorankka</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>198</td>
+		<td>2238</td>
+	</tr>
+	<tr>
+		<td>33</td>
+		<td>
 			<a href="https://github.com/yakovlevga">
 				<img src="https://avatars.githubusercontent.com/u/26436002?s=72&u=15aa890c8efca1eab4c747f4594dac6f492124e1&v=4" width="24" alt="Avatar of yakovlevga"> yakovlevga
 			</a><br/>
@@ -544,20 +558,6 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>Tallinn, Estonia</td>
 		<td>0</td>
 		<td>2237</td>
-	</tr>
-	<tr>
-		<td>33</td>
-		<td>
-			<a href="https://github.com/roughike">
-				<img src="https://avatars.githubusercontent.com/u/13744304?s=72&u=00346c964101ccbce701bc7ff2e2689f8ff34c5b&v=4" width="24" alt="Avatar of roughike"> roughike
-			</a><br/>
-			Iiro Krankka
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/koorankka">koorankka</a></td>
-		<td>Tallinn, Estonia</td>
-		<td>198</td>
-		<td>2235</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -571,7 +571,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>4</td>
-		<td>2211</td>
+		<td>2230</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -584,11 +584,25 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>Bolt </td>
 		<td><a href="https://twitter.com/keweishang">keweishang</a></td>
 		<td>Tallinn, Estonia</td>
-		<td>137</td>
-		<td>2172</td>
+		<td>138</td>
+		<td>2185</td>
 	</tr>
 	<tr>
 		<td>36</td>
+		<td>
+			<a href="https://github.com/tmtmtmtm">
+				<img src="https://avatars.githubusercontent.com/u/57483?s=72&v=4" width="24" alt="Avatar of tmtmtmtm"> tmtmtmtm
+			</a><br/>
+			Tony Bowden
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tmtm">tmtm</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>2183</td>
+		<td>2184</td>
+	</tr>
+	<tr>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/macobo">
 				<img src="https://avatars.githubusercontent.com/u/148820?s=72&v=4" width="24" alt="Avatar of macobo"> macobo
@@ -602,49 +616,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>2151</td>
 	</tr>
 	<tr>
-		<td>37</td>
-		<td>
-			<a href="https://github.com/tmtmtmtm">
-				<img src="https://avatars.githubusercontent.com/u/57483?s=72&v=4" width="24" alt="Avatar of tmtmtmtm"> tmtmtmtm
-			</a><br/>
-			Tony Bowden
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tmtm">tmtm</a></td>
-		<td>Tallinn, Estonia</td>
-		<td>2131</td>
-		<td>2132</td>
-	</tr>
-	<tr>
 		<td>38</td>
-		<td>
-			<a href="https://github.com/MPogoda">
-				<img src="https://avatars.githubusercontent.com/u/632247?s=72&v=4" width="24" alt="Avatar of MPogoda"> MPogoda
-			</a><br/>
-			Mykhailo Pohoda
-		</td>
-		<td>@bolteu  </td>
-		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>113</td>
-		<td>2116</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
-			<a href="https://github.com/iNikem">
-				<img src="https://avatars.githubusercontent.com/u/3010154?s=72&v=4" width="24" alt="Avatar of iNikem"> iNikem
-			</a><br/>
-			Nikita Salnikov-Tarnovski
-		</td>
-		<td>Splunk </td>
-		<td>No Twitter Username</td>
-		<td>Tartu, Estonia</td>
-		<td>2095</td>
-		<td>2095</td>
-	</tr>
-	<tr>
-		<td>40</td>
 		<td>
 			<a href="https://github.com/DaveChambers">
 				<img src="https://avatars.githubusercontent.com/u/419144?s=72&v=4" width="24" alt="Avatar of DaveChambers"> DaveChambers
@@ -655,7 +627,35 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>19</td>
-		<td>2056</td>
+		<td>2145</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/MPogoda">
+				<img src="https://avatars.githubusercontent.com/u/632247?s=72&v=4" width="24" alt="Avatar of MPogoda"> MPogoda
+			</a><br/>
+			Mykhailo Pohoda
+		</td>
+		<td>@bolteu  </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>113</td>
+		<td>2127</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
+			<a href="https://github.com/iNikem">
+				<img src="https://avatars.githubusercontent.com/u/3010154?s=72&v=4" width="24" alt="Avatar of iNikem"> iNikem
+			</a><br/>
+			Nikita Salnikov-Tarnovski
+		</td>
+		<td>Splunk </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>2100</td>
+		<td>2100</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -669,7 +669,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn</td>
 		<td>54</td>
-		<td>2053</td>
+		<td>2072</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -683,7 +683,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/nitram278">nitram278</a></td>
 		<td>Estonia, Tallinn</td>
 		<td>164</td>
-		<td>2049</td>
+		<td>2066</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -697,7 +697,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/ikidnapmyself">ikidnapmyself</a></td>
 		<td>Istanbul, TR & Tallinn, EE</td>
 		<td>281</td>
-		<td>2011</td>
+		<td>2056</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -730,6 +730,20 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>46</td>
 		<td>
+			<a href="https://github.com/slavakisel">
+				<img src="https://avatars.githubusercontent.com/u/5993837?s=72&u=d834e98ae3cd0c7189085a46eca1624f5d49b6c8&v=4" width="24" alt="Avatar of slavakisel"> slavakisel
+			</a><br/>
+			 Viacheslav Kysil
+		</td>
+		<td>Vk Development Lab Ou<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>24</td>
+		<td>1987</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td>
 			<a href="https://github.com/devindi">
 				<img src="https://avatars.githubusercontent.com/u/1562130?s=72&v=4" width="24" alt="Avatar of devindi"> devindi
 			</a><br/>
@@ -740,20 +754,6 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>Tallinn</td>
 		<td>17</td>
 		<td>1979</td>
-	</tr>
-	<tr>
-		<td>47</td>
-		<td>
-			<a href="https://github.com/slavakisel">
-				<img src="https://avatars.githubusercontent.com/u/5993837?s=72&u=d834e98ae3cd0c7189085a46eca1624f5d49b6c8&v=4" width="24" alt="Avatar of slavakisel"> slavakisel
-			</a><br/>
-			 Viacheslav Kysil
-		</td>
-		<td>Vk Development Lab Ou<br/></td>
-		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>24</td>
-		<td>1978</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -767,10 +767,24 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia, Tallinn</td>
 		<td>14</td>
-		<td>1952</td>
+		<td>1976</td>
 	</tr>
 	<tr>
 		<td>49</td>
+		<td>
+			<a href="https://github.com/mkolomeychenko">
+				<img src="https://avatars.githubusercontent.com/u/12828725?s=72&u=974607d289ce22686cb5701bf16a6ab56a74b973&v=4" width="24" alt="Avatar of mkolomeychenko"> mkolomeychenko
+			</a><br/>
+			Max Kolomeychenko
+		</td>
+		<td>Https://supervise.ly </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>1951</td>
+		<td>1951</td>
+	</tr>
+	<tr>
+		<td>50</td>
 		<td>
 			<a href="https://github.com/urmastalimaa">
 				<img src="https://avatars.githubusercontent.com/u/5654666?s=72&v=4" width="24" alt="Avatar of urmastalimaa"> urmastalimaa
@@ -781,10 +795,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tartu, Estonia</td>
 		<td>216</td>
-		<td>1933</td>
+		<td>1939</td>
 	</tr>
 	<tr>
-		<td>50</td>
+		<td>51</td>
 		<td>
 			<a href="https://github.com/andreasvirkus">
 				<img src="https://avatars.githubusercontent.com/u/9140811?s=72&u=2068a6bcf2332830028b682a44b24f3cf18765e9&v=4" width="24" alt="Avatar of andreasvirkus"> andreasvirkus
@@ -795,21 +809,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>294</td>
-		<td>1907</td>
-	</tr>
-	<tr>
-		<td>51</td>
-		<td>
-			<a href="https://github.com/mkolomeychenko">
-				<img src="https://avatars.githubusercontent.com/u/12828725?s=72&u=974607d289ce22686cb5701bf16a6ab56a74b973&v=4" width="24" alt="Avatar of mkolomeychenko"> mkolomeychenko
-			</a><br/>
-			Max Kolomeychenko
-		</td>
-		<td>Https://supervise.ly </td>
-		<td>No Twitter Username</td>
-		<td>Estonia</td>
-		<td>1906</td>
-		<td>1906</td>
+		<td>1911</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -823,7 +823,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn</td>
 		<td>267</td>
-		<td>1901</td>
+		<td>1904</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -837,7 +837,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/ququ7">ququ7</a></td>
 		<td>Tallinn, Estonia</td>
 		<td>550</td>
-		<td>1886</td>
+		<td>1902</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -865,10 +865,24 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn</td>
 		<td>29</td>
-		<td>1868</td>
+		<td>1871</td>
 	</tr>
 	<tr>
 		<td>56</td>
+		<td>
+			<a href="https://github.com/joe-bell">
+				<img src="https://avatars.githubusercontent.com/u/7349341?s=72&u=b4e80bc84f791c75fa5acbb453295f18bc5e5ed8&v=4" width="24" alt="Avatar of joe-bell"> joe-bell
+			</a><br/>
+			Joe Bell
+		</td>
+		<td>@orchest </td>
+		<td><a href="https://twitter.com/joebell_">joebell_</a></td>
+		<td>Tallinn, Estonia / UK</td>
+		<td>853</td>
+		<td>1861</td>
+	</tr>
+	<tr>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/ivari">
 				<img src="https://avatars.githubusercontent.com/u/5424427?s=72&u=6ca511329d0491f3b02d4e7492e2da67a2d02ab8&v=4" width="24" alt="Avatar of ivari"> ivari
@@ -880,20 +894,6 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>Tartu, Estonia</td>
 		<td>4</td>
 		<td>1838</td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>
-			<a href="https://github.com/joe-bell">
-				<img src="https://avatars.githubusercontent.com/u/7349341?s=72&u=b4e80bc84f791c75fa5acbb453295f18bc5e5ed8&v=4" width="24" alt="Avatar of joe-bell"> joe-bell
-			</a><br/>
-			Joe Bell
-		</td>
-		<td>@orchest </td>
-		<td><a href="https://twitter.com/joebell_">joebell_</a></td>
-		<td>Tallinn, Estonia / UK</td>
-		<td>818</td>
-		<td>1826</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -912,16 +912,16 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 	<tr>
 		<td>59</td>
 		<td>
-			<a href="https://github.com/kiote">
-				<img src="https://avatars.githubusercontent.com/u/123637?s=72&u=9ad880f47839a3b0a3645d60d389bc023ea10c63&v=4" width="24" alt="Avatar of kiote"> kiote
+			<a href="https://github.com/viljark">
+				<img src="https://avatars.githubusercontent.com/u/1067120?s=72&v=4" width="24" alt="Avatar of viljark"> viljark
 			</a><br/>
-			Ekaterina Krivich
+			Viljar Kärgenberg
 		</td>
-		<td>@coingaming  </td>
+		<td>@rematocorp  </td>
 		<td>No Twitter Username</td>
-		<td>Estonia, Tallinn</td>
-		<td>325</td>
-		<td>1806</td>
+		<td>Estonia</td>
+		<td>116</td>
+		<td>1809</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -934,11 +934,25 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>@rematocorp  </td>
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
-		<td>114</td>
-		<td>1797</td>
+		<td>116</td>
+		<td>1809</td>
 	</tr>
 	<tr>
 		<td>61</td>
+		<td>
+			<a href="https://github.com/kiote">
+				<img src="https://avatars.githubusercontent.com/u/123637?s=72&u=9ad880f47839a3b0a3645d60d389bc023ea10c63&v=4" width="24" alt="Avatar of kiote"> kiote
+			</a><br/>
+			Ekaterina Krivich
+		</td>
+		<td>@coingaming  </td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>325</td>
+		<td>1806</td>
+	</tr>
+	<tr>
+		<td>62</td>
 		<td>
 			<a href="https://github.com/samueleiche">
 				<img src="https://avatars.githubusercontent.com/u/20043312?s=72&u=96a6e0f5c9cbf9320042b774d1ad6fbf95269571&v=4" width="24" alt="Avatar of samueleiche"> samueleiche
@@ -949,10 +963,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>3</td>
-		<td>1747</td>
+		<td>1748</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/igor-krupenja">
 				<img src="https://avatars.githubusercontent.com/u/26354715?s=72&u=cf4ae6679400687109986d0f048ac27b73a06337&v=4" width="24" alt="Avatar of igor-krupenja"> igor-krupenja
@@ -962,11 +976,11 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
-		<td>1197</td>
-		<td>1740</td>
+		<td>1203</td>
+		<td>1746</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/sim642">
 				<img src="https://avatars.githubusercontent.com/u/378740?s=72&u=6b59260cbe8a455b82d116c6964ad079687d5da0&v=4" width="24" alt="Avatar of sim642"> sim642
@@ -976,11 +990,11 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>University Of Tartu </td>
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
-		<td>1349</td>
-		<td>1733</td>
+		<td>1356</td>
+		<td>1740</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/Zip753">
 				<img src="https://avatars.githubusercontent.com/u/5332191?s=72&u=5f0e0022b9316911095acae0ace3b619053ba4d2&v=4" width="24" alt="Avatar of Zip753"> Zip753
@@ -991,10 +1005,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>5</td>
-		<td>1716</td>
+		<td>1726</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/andresv">
 				<img src="https://avatars.githubusercontent.com/u/809232?s=72&u=1501f31e613ad139430ab9f5a49e9378a39a952f&v=4" width="24" alt="Avatar of andresv"> andresv
@@ -1004,22 +1018,8 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
-		<td>158</td>
-		<td>1713</td>
-	</tr>
-	<tr>
-		<td>66</td>
-		<td>
-			<a href="https://github.com/ram4ik">
-				<img src="https://avatars.githubusercontent.com/u/19762704?s=72&u=4862c96eeca573c00f6d85dd2fd6ca31446050e9&v=4" width="24" alt="Avatar of ram4ik"> ram4ik
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Estonia</td>
-		<td>1699</td>
-		<td>1699</td>
+		<td>160</td>
+		<td>1722</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -1033,21 +1033,21 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/_aozisik">_aozisik</a></td>
 		<td>Tallinn, Estonia</td>
 		<td>55</td>
-		<td>1690</td>
+		<td>1711</td>
 	</tr>
 	<tr>
 		<td>68</td>
 		<td>
-			<a href="https://github.com/Wolg">
-				<img src="https://avatars.githubusercontent.com/u/538630?s=72&v=4" width="24" alt="Avatar of Wolg"> Wolg
+			<a href="https://github.com/ram4ik">
+				<img src="https://avatars.githubusercontent.com/u/19762704?s=72&u=4862c96eeca573c00f6d85dd2fd6ca31446050e9&v=4" width="24" alt="Avatar of ram4ik"> ram4ik
 			</a><br/>
-			Stanislav Chistenko
+			No Name
 		</td>
-		<td>Pipedrive </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Tallinn</td>
-		<td>0</td>
-		<td>1680</td>
+		<td>Estonia</td>
+		<td>1710</td>
+		<td>1710</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -1061,10 +1061,24 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/OttTooming">OttTooming</a></td>
 		<td>Tallinn, Estonia</td>
 		<td>78</td>
-		<td>1665</td>
+		<td>1700</td>
 	</tr>
 	<tr>
 		<td>70</td>
+		<td>
+			<a href="https://github.com/Wolg">
+				<img src="https://avatars.githubusercontent.com/u/538630?s=72&v=4" width="24" alt="Avatar of Wolg"> Wolg
+			</a><br/>
+			Stanislav Chistenko
+		</td>
+		<td>Pipedrive </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>0</td>
+		<td>1681</td>
+	</tr>
+	<tr>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/msokk">
 				<img src="https://avatars.githubusercontent.com/u/231978?s=72&u=6b79f888c565d760ba7c3bd090b1fa0516776a13&v=4" width="24" alt="Avatar of msokk"> msokk
@@ -1078,7 +1092,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1657</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/maciej-szlosarczyk">
 				<img src="https://avatars.githubusercontent.com/u/2331765?s=72&u=834930de0813450117dcb14ecbd7f0ab513be6ec&v=4" width="24" alt="Avatar of maciej-szlosarczyk"> maciej-szlosarczyk
@@ -1092,7 +1106,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1615</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/reosarevok">
 				<img src="https://avatars.githubusercontent.com/u/1069224?s=72&v=4" width="24" alt="Avatar of reosarevok"> reosarevok
@@ -1106,7 +1120,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1612</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/ihuseynoff">
 				<img src="https://avatars.githubusercontent.com/u/14071213?s=72&u=c9679a95e8752696ed0edde2b5b307704a419d10&v=4" width="24" alt="Avatar of ihuseynoff"> ihuseynoff
@@ -1120,7 +1134,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1607</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/battlesnake">
 				<img src="https://avatars.githubusercontent.com/u/4949354?s=72&u=50cbb2d571715b36ed860b03107e492f1b35ceb0&v=4" width="24" alt="Avatar of battlesnake"> battlesnake
@@ -1134,7 +1148,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1591</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/AlexDaniel">
 				<img src="https://avatars.githubusercontent.com/u/5507503?s=72&u=32946453713116aae17de9a16febfdc08b766d04&v=4" width="24" alt="Avatar of AlexDaniel"> AlexDaniel
@@ -1145,10 +1159,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>120</td>
-		<td>1542</td>
+		<td>1555</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/lwsanty">
 				<img src="https://avatars.githubusercontent.com/u/10910699?s=72&u=e69cd5c46907c58e70fe7396e038aa4f4e324fcb&v=4" width="24" alt="Avatar of lwsanty"> lwsanty
@@ -1159,10 +1173,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>53</td>
-		<td>1542</td>
+		<td>1550</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/bashmach">
 				<img src="https://avatars.githubusercontent.com/u/333910?s=72&u=4339a335e748e73127f34b3cbb845d10b706e7bf&v=4" width="24" alt="Avatar of bashmach"> bashmach
@@ -1173,10 +1187,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>0</td>
-		<td>1538</td>
+		<td>1539</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/tormi">
 				<img src="https://avatars.githubusercontent.com/u/146800?s=72&u=3684d5668ea455225e6f6a2f31ba64665564be3c&v=4" width="24" alt="Avatar of tormi"> tormi
@@ -1190,7 +1204,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1512</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/gglukmann">
 				<img src="https://avatars.githubusercontent.com/u/1226090?s=72&u=c38b4f0ec7d46fc87dcae218809928326ababfc5&v=4" width="24" alt="Avatar of gglukmann"> gglukmann
@@ -1201,21 +1215,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>77</td>
-		<td>1506</td>
-	</tr>
-	<tr>
-		<td>80</td>
-		<td>
-			<a href="https://github.com/KasparPeterson">
-				<img src="https://avatars.githubusercontent.com/u/3907242?s=72&u=20819de694709fa11dd4a45ac2b22530e7ac7457&v=4" width="24" alt="Avatar of KasparPeterson"> KasparPeterson
-			</a><br/>
-			Kaspar Peterson
-		</td>
-		<td>Sentinel </td>
-		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>2</td>
-		<td>1487</td>
+		<td>1508</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1228,11 +1228,25 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>@playsignage  </td>
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
-		<td>1478</td>
-		<td>1478</td>
+		<td>1500</td>
+		<td>1500</td>
 	</tr>
 	<tr>
 		<td>82</td>
+		<td>
+			<a href="https://github.com/KasparPeterson">
+				<img src="https://avatars.githubusercontent.com/u/3907242?s=72&u=20819de694709fa11dd4a45ac2b22530e7ac7457&v=4" width="24" alt="Avatar of KasparPeterson"> KasparPeterson
+			</a><br/>
+			Kaspar Peterson
+		</td>
+		<td>Sentinel </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>12</td>
+		<td>1497</td>
+	</tr>
+	<tr>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/karls">
 				<img src="https://avatars.githubusercontent.com/u/251402?s=72&v=4" width="24" alt="Avatar of karls"> karls
@@ -1243,10 +1257,38 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/karlsutt">karlsutt</a></td>
 		<td>Estonia</td>
 		<td>15</td>
-		<td>1462</td>
+		<td>1469</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>84</td>
+		<td>
+			<a href="https://github.com/rrebase">
+				<img src="https://avatars.githubusercontent.com/u/23059874?s=72&u=a220f87af715d6b9a4fcc5c2aa936cc68392bef3&v=4" width="24" alt="Avatar of rrebase"> rrebase
+			</a><br/>
+			Ragnar Rebase
+		</td>
+		<td>@bolteu  </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>90</td>
+		<td>1457</td>
+	</tr>
+	<tr>
+		<td>85</td>
+		<td>
+			<a href="https://github.com/markbrocato">
+				<img src="https://avatars.githubusercontent.com/u/10118693?s=72&u=ada26aa996cdedd9333b4a53563f48da3cb17a4e&v=4" width="24" alt="Avatar of markbrocato"> markbrocato
+			</a><br/>
+			Mark Brocato
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>1455</td>
+		<td>1455</td>
+	</tr>
+	<tr>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/antorenge">
 				<img src="https://avatars.githubusercontent.com/u/1049674?s=72&u=eb67a481ebad4927aa1cba9ee9b507c579472ef8&v=4" width="24" alt="Avatar of antorenge"> antorenge
@@ -1260,7 +1302,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1454</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/renekorss">
 				<img src="https://avatars.githubusercontent.com/u/1494080?s=72&u=c505cc766a1437f31cfc5bcfa3d14af5f8ae5f81&v=4" width="24" alt="Avatar of renekorss"> renekorss
@@ -1274,35 +1316,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1454</td>
 	</tr>
 	<tr>
-		<td>85</td>
-		<td>
-			<a href="https://github.com/markbrocato">
-				<img src="https://avatars.githubusercontent.com/u/10118693?s=72&u=ada26aa996cdedd9333b4a53563f48da3cb17a4e&v=4" width="24" alt="Avatar of markbrocato"> markbrocato
-			</a><br/>
-			Mark Brocato
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>1453</td>
-		<td>1453</td>
-	</tr>
-	<tr>
-		<td>86</td>
-		<td>
-			<a href="https://github.com/rrebase">
-				<img src="https://avatars.githubusercontent.com/u/23059874?s=72&u=a220f87af715d6b9a4fcc5c2aa936cc68392bef3&v=4" width="24" alt="Avatar of rrebase"> rrebase
-			</a><br/>
-			Ragnar Rebase
-		</td>
-		<td>@bolteu  </td>
-		<td>No Twitter Username</td>
-		<td>Estonia</td>
-		<td>89</td>
-		<td>1447</td>
-	</tr>
-	<tr>
-		<td>87</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/raunofreiberg">
 				<img src="https://avatars.githubusercontent.com/u/23662329?s=72&u=2f960b4c699bc9b9b21dc4b9718f0006a54ee178&v=4" width="24" alt="Avatar of raunofreiberg"> raunofreiberg
@@ -1312,11 +1326,11 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>@vercel </td>
 		<td><a href="https://twitter.com/raunofreiberg">raunofreiberg</a></td>
 		<td>Estonia</td>
-		<td>246</td>
-		<td>1444</td>
+		<td>245</td>
+		<td>1446</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/riston">
 				<img src="https://avatars.githubusercontent.com/u/782237?s=72&v=4" width="24" alt="Avatar of riston"> riston
@@ -1330,7 +1344,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1444</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/MertCelik">
 				<img src="https://avatars.githubusercontent.com/u/8640226?s=72&u=84afe59d91ad89e34b555024d6c430436089143e&v=4" width="24" alt="Avatar of MertCelik"> MertCelik
@@ -1341,10 +1355,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn/Estonia</td>
 		<td>22</td>
-		<td>1420</td>
+		<td>1427</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/mlamp">
 				<img src="https://avatars.githubusercontent.com/u/2169037?s=72&u=f80d2d69b14aa06120613ba51c264162f6de86df&v=4" width="24" alt="Avatar of mlamp"> mlamp
@@ -1355,10 +1369,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn</td>
 		<td>8</td>
-		<td>1410</td>
+		<td>1412</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/Shiaulis">
 				<img src="https://avatars.githubusercontent.com/u/13601748?s=72&u=f2e2a9e3d3d4dea0b14ae6c3bacc188278a1e3c4&v=4" width="24" alt="Avatar of Shiaulis"> Shiaulis
@@ -1369,10 +1383,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/shiaulis">shiaulis</a></td>
 		<td>Tallinn, Estonia</td>
 		<td>256</td>
-		<td>1405</td>
+		<td>1409</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/tot-ra">
 				<img src="https://avatars.githubusercontent.com/u/445122?s=72&u=ff90c53110b31c3f756cf2f199e4fc1de411a50f&v=4" width="24" alt="Avatar of tot-ra"> tot-ra
@@ -1383,10 +1397,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/tot_ra">tot_ra</a></td>
 		<td>Tallinn, Estonia</td>
 		<td>143</td>
-		<td>1369</td>
+		<td>1370</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/toomastahves">
 				<img src="https://avatars.githubusercontent.com/u/7262443?s=72&u=443bdac01be9e295b864c80c9e4db7f92bf5ef25&v=4" width="24" alt="Avatar of toomastahves"> toomastahves
@@ -1397,10 +1411,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>132</td>
-		<td>1352</td>
+		<td>1362</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/egonelbre">
 				<img src="https://avatars.githubusercontent.com/u/192964?s=72&u=c91ce1b8b67fac5928e527d2f0a9555307040e54&v=4" width="24" alt="Avatar of egonelbre"> egonelbre
@@ -1410,22 +1424,8 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Estonia, Tartu</td>
-		<td>1183</td>
-		<td>1339</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
-			<a href="https://github.com/lsaffre">
-				<img src="https://avatars.githubusercontent.com/u/4406823?s=72&v=4" width="24" alt="Avatar of lsaffre"> lsaffre
-			</a><br/>
-			Luc Saffre
-		</td>
-		<td>Https://www.saffre-r </td>
-		<td>No Twitter Username</td>
-		<td>Estonia</td>
-		<td>1324</td>
-		<td>1324</td>
+		<td>1195</td>
+		<td>1351</td>
 	</tr>
 	<tr>
 		<td>96</td>
@@ -1439,10 +1439,24 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Atlanta, USA / Tallinn, Estonia</td>
 		<td>135</td>
-		<td>1318</td>
+		<td>1329</td>
 	</tr>
 	<tr>
 		<td>97</td>
+		<td>
+			<a href="https://github.com/lsaffre">
+				<img src="https://avatars.githubusercontent.com/u/4406823?s=72&v=4" width="24" alt="Avatar of lsaffre"> lsaffre
+			</a><br/>
+			Luc Saffre
+		</td>
+		<td>Https://www.saffre-r </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>1326</td>
+		<td>1326</td>
+	</tr>
+	<tr>
+		<td>98</td>
 		<td>
 			<a href="https://github.com/rinigus">
 				<img src="https://avatars.githubusercontent.com/u/15706605?s=72&v=4" width="24" alt="Avatar of rinigus"> rinigus
@@ -1452,11 +1466,11 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
-		<td>1296</td>
-		<td>1296</td>
+		<td>1315</td>
+		<td>1315</td>
 	</tr>
 	<tr>
-		<td>98</td>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/rivol">
 				<img src="https://avatars.githubusercontent.com/u/1205451?s=72&v=4" width="24" alt="Avatar of rivol"> rivol
@@ -1470,7 +1484,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1284</td>
 	</tr>
 	<tr>
-		<td>99</td>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/berkus">
 				<img src="https://avatars.githubusercontent.com/u/80306?s=72&u=440974c67ab28a37bf695706ed49826a9f74fb9e&v=4" width="24" alt="Avatar of berkus"> berkus
@@ -1481,10 +1495,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>388</td>
-		<td>1271</td>
+		<td>1273</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>101</td>
 		<td>
 			<a href="https://github.com/muzir">
 				<img src="https://avatars.githubusercontent.com/u/1410256?s=72&u=834ed7bfcd5fad12ef9010c3274cbd3a3b1e6a15&v=4" width="24" alt="Avatar of muzir"> muzir
@@ -1495,10 +1509,24 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>176</td>
-		<td>1267</td>
+		<td>1272</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>102</td>
+		<td>
+			<a href="https://github.com/pavel-kirienko">
+				<img src="https://avatars.githubusercontent.com/u/3298404?s=72&u=77f8bc8685179cb8f68215eaf022f88883d87b1d&v=4" width="24" alt="Avatar of pavel-kirienko"> pavel-kirienko
+			</a><br/>
+			Pavel Kirienko
+		</td>
+		<td>@zubax  </td>
+		<td><a href="https://twitter.com/PavelKirienko">PavelKirienko</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>1080</td>
+		<td>1263</td>
+	</tr>
+	<tr>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/ottmartens">
 				<img src="https://avatars.githubusercontent.com/u/28008525?s=72&u=77622afbaedfe3a2ed192d250cdce6077384f1d1&v=4" width="24" alt="Avatar of ottmartens"> ottmartens
@@ -1512,34 +1540,6 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1261</td>
 	</tr>
 	<tr>
-		<td>102</td>
-		<td>
-			<a href="https://github.com/pavel-kirienko">
-				<img src="https://avatars.githubusercontent.com/u/3298404?s=72&u=77f8bc8685179cb8f68215eaf022f88883d87b1d&v=4" width="24" alt="Avatar of pavel-kirienko"> pavel-kirienko
-			</a><br/>
-			Pavel Kirienko
-		</td>
-		<td>@zubax  </td>
-		<td><a href="https://twitter.com/PavelKirienko">PavelKirienko</a></td>
-		<td>Tallinn, Estonia</td>
-		<td>1075</td>
-		<td>1253</td>
-	</tr>
-	<tr>
-		<td>103</td>
-		<td>
-			<a href="https://github.com/vlasn">
-				<img src="https://avatars.githubusercontent.com/u/22070687?s=72&u=766d474c2e57e7a69959ff7263e2d0421e28ccb8&v=4" width="24" alt="Avatar of vlasn"> vlasn
-			</a><br/>
-			Veljo Lasn
-		</td>
-		<td>Testlio </td>
-		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>39</td>
-		<td>1251</td>
-	</tr>
-	<tr>
 		<td>104</td>
 		<td>
 			<a href="https://github.com/TanelTeemusk">
@@ -1551,24 +1551,38 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/tanelteemusk">tanelteemusk</a></td>
 		<td>Tallinn, Estonia</td>
 		<td>0</td>
-		<td>1248</td>
+		<td>1254</td>
 	</tr>
 	<tr>
 		<td>105</td>
+		<td>
+			<a href="https://github.com/vlasn">
+				<img src="https://avatars.githubusercontent.com/u/22070687?s=72&u=766d474c2e57e7a69959ff7263e2d0421e28ccb8&v=4" width="24" alt="Avatar of vlasn"> vlasn
+			</a><br/>
+			Veljo Lasn
+		</td>
+		<td>Testlio </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>39</td>
+		<td>1253</td>
+	</tr>
+	<tr>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/thalesflores">
 				<img src="https://avatars.githubusercontent.com/u/22772984?s=72&u=740281ac62407dc8ad3e776fc4cc204f81179f82&v=4" width="24" alt="Avatar of thalesflores"> thalesflores
 			</a><br/>
 			Thales Flores
 		</td>
-		<td>@coingaming </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tallinn - Estonia</td>
 		<td>9</td>
 		<td>1248</td>
 	</tr>
 	<tr>
-		<td>106</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/nene">
 				<img src="https://avatars.githubusercontent.com/u/118201?s=72&u=3e244b9adbedcb5755aa240c65156b9f7f26b6ce&v=4" width="24" alt="Avatar of nene"> nene
@@ -1582,20 +1596,6 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1246</td>
 	</tr>
 	<tr>
-		<td>107</td>
-		<td>
-			<a href="https://github.com/genert">
-				<img src="https://avatars.githubusercontent.com/u/1218788?s=72&u=1b56e6d25787b87a186474de034ff75db622bca4&v=4" width="24" alt="Avatar of genert"> genert
-			</a><br/>
-			G
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Estonia</td>
-		<td>50</td>
-		<td>1238</td>
-	</tr>
-	<tr>
 		<td>108</td>
 		<td>
 			<a href="https://github.com/ahmedengu">
@@ -1606,11 +1606,25 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>Pipedrive </td>
 		<td><a href="https://twitter.com/ahmedengu">ahmedengu</a></td>
 		<td>Tartu, Estonia</td>
-		<td>556</td>
-		<td>1231</td>
+		<td>562</td>
+		<td>1244</td>
 	</tr>
 	<tr>
 		<td>109</td>
+		<td>
+			<a href="https://github.com/genert">
+				<img src="https://avatars.githubusercontent.com/u/1218788?s=72&u=1b56e6d25787b87a186474de034ff75db622bca4&v=4" width="24" alt="Avatar of genert"> genert
+			</a><br/>
+			G
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>50</td>
+		<td>1239</td>
+	</tr>
+	<tr>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/snemvalts">
 				<img src="https://avatars.githubusercontent.com/u/3755903?s=72&u=e1ab7712f3078e01bc2f35befed919790e35cc56&v=4" width="24" alt="Avatar of snemvalts"> snemvalts
@@ -1624,7 +1638,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1226</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/bautrey37">
 				<img src="https://avatars.githubusercontent.com/u/3743560?s=72&u=37e9c9c5b91e108ec81e768c7adee6b21f5ff5db&v=4" width="24" alt="Avatar of bautrey37"> bautrey37
@@ -1638,20 +1652,6 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1223</td>
 	</tr>
 	<tr>
-		<td>111</td>
-		<td>
-			<a href="https://github.com/livenson">
-				<img src="https://avatars.githubusercontent.com/u/524168?s=72&v=4" width="24" alt="Avatar of livenson"> livenson
-			</a><br/>
-			Ilja Livenson
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Estonia</td>
-		<td>1202</td>
-		<td>1203</td>
-	</tr>
-	<tr>
 		<td>112</td>
 		<td>
 			<a href="https://github.com/Skmt3P">
@@ -1663,10 +1663,52 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/Skmt3P">Skmt3P</a></td>
 		<td>Estonia Tallinn</td>
 		<td>89</td>
-		<td>1198</td>
+		<td>1220</td>
 	</tr>
 	<tr>
 		<td>113</td>
+		<td>
+			<a href="https://github.com/livenson">
+				<img src="https://avatars.githubusercontent.com/u/524168?s=72&v=4" width="24" alt="Avatar of livenson"> livenson
+			</a><br/>
+			Ilja Livenson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>1215</td>
+		<td>1216</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td>
+			<a href="https://github.com/phcurado">
+				<img src="https://avatars.githubusercontent.com/u/21186511?s=72&u=90d6edfecead2778d7705affee7b42b7628e6b27&v=4" width="24" alt="Avatar of phcurado"> phcurado
+			</a><br/>
+			Paulo Curado
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>70</td>
+		<td>1216</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
+			<a href="https://github.com/ojousima">
+				<img src="https://avatars.githubusercontent.com/u/2360368?s=72&v=4" width="24" alt="Avatar of ojousima"> ojousima
+			</a><br/>
+			Otso Jousimaa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>1151</td>
+		<td>1213</td>
+	</tr>
+	<tr>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/feliperenan">
 				<img src="https://avatars.githubusercontent.com/u/27698968?s=72&u=fbe6094c7ddb4de20b0d4e928b46a0b32f229939&v=4" width="24" alt="Avatar of feliperenan"> feliperenan
@@ -1677,49 +1719,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/feeliperenan">feeliperenan</a></td>
 		<td>Estonia</td>
 		<td>147</td>
-		<td>1196</td>
-	</tr>
-	<tr>
-		<td>114</td>
-		<td>
-			<a href="https://github.com/ojousima">
-				<img src="https://avatars.githubusercontent.com/u/2360368?s=72&v=4" width="24" alt="Avatar of ojousima"> ojousima
-			</a><br/>
-			Otso Jousimaa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tallinn</td>
-		<td>1125</td>
-		<td>1186</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/InfiniteRain">
-				<img src="https://avatars.githubusercontent.com/u/19305779?s=72&v=4" width="24" alt="Avatar of InfiniteRain"> InfiniteRain
-			</a><br/>
-			David Lysenko
-		</td>
-		<td>@twilio  </td>
-		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>168</td>
-		<td>1179</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/Bakhtiyar-Garashov">
-				<img src="https://avatars.githubusercontent.com/u/48382094?s=72&u=3b5e1e0a69c96b74e4f3742f0aeb6bc9e51a23b4&v=4" width="24" alt="Avatar of Bakhtiyar-Garashov"> Bakhtiyar-Garashov
-			</a><br/>
-			 Bəxtiyar
-		</td>
-		<td>@finceptiv </td>
-		<td><a href="https://twitter.com/GarashovB">GarashovB</a></td>
-		<td>Tallinn, Estonia</td>
-		<td>199</td>
-		<td>1177</td>
+		<td>1199</td>
 	</tr>
 	<tr>
 		<td>117</td>
@@ -1732,11 +1732,39 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>Quansight </td>
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
-		<td>950</td>
-		<td>1175</td>
+		<td>962</td>
+		<td>1187</td>
 	</tr>
 	<tr>
 		<td>118</td>
+		<td>
+			<a href="https://github.com/Bakhtiyar-Garashov">
+				<img src="https://avatars.githubusercontent.com/u/48382094?s=72&u=3b5e1e0a69c96b74e4f3742f0aeb6bc9e51a23b4&v=4" width="24" alt="Avatar of Bakhtiyar-Garashov"> Bakhtiyar-Garashov
+			</a><br/>
+			 Bəxtiyar
+		</td>
+		<td>@finceptiv </td>
+		<td><a href="https://twitter.com/GarashovB">GarashovB</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>209</td>
+		<td>1187</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
+			<a href="https://github.com/InfiniteRain">
+				<img src="https://avatars.githubusercontent.com/u/19305779?s=72&v=4" width="24" alt="Avatar of InfiniteRain"> InfiniteRain
+			</a><br/>
+			David Lysenko
+		</td>
+		<td>@twilio  </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>168</td>
+		<td>1180</td>
+	</tr>
+	<tr>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/Flackus">
 				<img src="https://avatars.githubusercontent.com/u/644960?s=72&v=4" width="24" alt="Avatar of Flackus"> Flackus
@@ -1747,10 +1775,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/flackus">flackus</a></td>
 		<td>Tallinn, Estonia</td>
 		<td>121</td>
-		<td>1168</td>
+		<td>1169</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/rudotriton">
 				<img src="https://avatars.githubusercontent.com/u/14181026?s=72&u=6ef14b60ace6876abe4f76c014d1b31735a03326&v=4" width="24" alt="Avatar of rudotriton"> rudotriton
@@ -1761,35 +1789,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/raigojerva">raigojerva</a></td>
 		<td>Tallinn, Estonia</td>
 		<td>230</td>
-		<td>1166</td>
-	</tr>
-	<tr>
-		<td>120</td>
-		<td>
-			<a href="https://github.com/emelyanovtv">
-				<img src="https://avatars.githubusercontent.com/u/2901848?s=72&u=03e47f7031246f5e1778ea59d80090279b8fb4e0&v=4" width="24" alt="Avatar of emelyanovtv"> emelyanovtv
-			</a><br/>
-			Timofei Emelianov
-		</td>
-		<td>Sixfold </td>
-		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>5</td>
-		<td>1166</td>
-	</tr>
-	<tr>
-		<td>121</td>
-		<td>
-			<a href="https://github.com/SashaMihhailov">
-				<img src="https://avatars.githubusercontent.com/u/344435?s=72&u=88aa304ff2b9b2a6eee48ba64b0a1bfa75a7ed12&v=4" width="24" alt="Avatar of SashaMihhailov"> SashaMihhailov
-			</a><br/>
-			Sasha Mihhailov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Estonia, Tallinn</td>
-		<td>0</td>
-		<td>1163</td>
+		<td>1168</td>
 	</tr>
 	<tr>
 		<td>122</td>
@@ -1803,10 +1803,38 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>89</td>
-		<td>1159</td>
+		<td>1166</td>
 	</tr>
 	<tr>
 		<td>123</td>
+		<td>
+			<a href="https://github.com/emelyanovtv">
+				<img src="https://avatars.githubusercontent.com/u/2901848?s=72&u=03e47f7031246f5e1778ea59d80090279b8fb4e0&v=4" width="24" alt="Avatar of emelyanovtv"> emelyanovtv
+			</a><br/>
+			Timofei Emelianov
+		</td>
+		<td>Sixfold </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>5</td>
+		<td>1166</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>
+			<a href="https://github.com/SashaMihhailov">
+				<img src="https://avatars.githubusercontent.com/u/344435?s=72&u=88aa304ff2b9b2a6eee48ba64b0a1bfa75a7ed12&v=4" width="24" alt="Avatar of SashaMihhailov"> SashaMihhailov
+			</a><br/>
+			Sasha Mihhailov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>0</td>
+		<td>1163</td>
+	</tr>
+	<tr>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/nimitagr">
 				<img src="https://avatars.githubusercontent.com/u/1106834?s=72&v=4" width="24" alt="Avatar of nimitagr"> nimitagr
@@ -1817,10 +1845,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/nimitagr">nimitagr</a></td>
 		<td>Tallinn, Estonia</td>
 		<td>0</td>
-		<td>1158</td>
+		<td>1162</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/priidikvaikla">
 				<img src="https://avatars.githubusercontent.com/u/151228?s=72&u=080e14211633310ecbfc7b56c0426b9bfa06da1d&v=4" width="24" alt="Avatar of priidikvaikla"> priidikvaikla
@@ -1834,7 +1862,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1156</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/s22su">
 				<img src="https://avatars.githubusercontent.com/u/470206?s=72&u=441e3e8b0163a11bb3805ebd7597089251dc206f&v=4" width="24" alt="Avatar of s22su"> s22su
@@ -1845,10 +1873,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>37</td>
-		<td>1149</td>
+		<td>1152</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/v0idpwn">
 				<img src="https://avatars.githubusercontent.com/u/14948182?s=72&u=e8ef328607f20350d71649e0b915b40614234d09&v=4" width="24" alt="Avatar of v0idpwn"> v0idpwn
@@ -1862,7 +1890,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1146</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/LarsEckart">
 				<img src="https://avatars.githubusercontent.com/u/4414802?s=72&u=aeed7d496d3419c37f22f47a5714107c512b87d4&v=4" width="24" alt="Avatar of LarsEckart"> LarsEckart
@@ -1872,11 +1900,11 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/LrsEckrt">LrsEckrt</a></td>
 		<td>Tartu, Estonia</td>
-		<td>1141</td>
-		<td>1141</td>
+		<td>1144</td>
+		<td>1144</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/priithaamer">
 				<img src="https://avatars.githubusercontent.com/u/194640?s=72&v=4" width="24" alt="Avatar of priithaamer"> priithaamer
@@ -1890,7 +1918,49 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1137</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>131</td>
+		<td>
+			<a href="https://github.com/Param-Harrison">
+				<img src="https://avatars.githubusercontent.com/u/2607519?s=72&u=8b6d2797a1fc85ba39d26da491aa752b50c9a65d&v=4" width="24" alt="Avatar of Param-Harrison"> Param-Harrison
+			</a><br/>
+			Paramanantham Harrison
+		</td>
+		<td>@jobbatical, @jsmates-com </td>
+		<td><a href="https://twitter.com/learnwithparam">learnwithparam</a></td>
+		<td>Tallinn</td>
+		<td>108</td>
+		<td>1136</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>
+			<a href="https://github.com/vruusmann">
+				<img src="https://avatars.githubusercontent.com/u/3462679?s=72&u=a41192a6348ec20d83448aa89cdb372d9f0e444e&v=4" width="24" alt="Avatar of vruusmann"> vruusmann
+			</a><br/>
+			Villu Ruusmann
+		</td>
+		<td>Openscoring Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>1134</td>
+		<td>1134</td>
+	</tr>
+	<tr>
+		<td>133</td>
+		<td>
+			<a href="https://github.com/hendrikmolder">
+				<img src="https://avatars.githubusercontent.com/u/8231447?s=72&u=103a45fba63d6382de1c0f39f579a8b788af243a&v=4" width="24" alt="Avatar of hendrikmolder"> hendrikmolder
+			</a><br/>
+			Hendrik Mölder
+		</td>
+		<td>@transferwise </td>
+		<td>No Twitter Username</td>
+		<td>Manchester, UK / Tallinn, EST</td>
+		<td>14</td>
+		<td>1132</td>
+	</tr>
+	<tr>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/segaz2002">
 				<img src="https://avatars.githubusercontent.com/u/3873358?s=72&u=471ad417f1e1ac23f5692964b0b8c5f160ab1932&v=4" width="24" alt="Avatar of segaz2002"> segaz2002
@@ -1904,35 +1974,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1132</td>
 	</tr>
 	<tr>
-		<td>130</td>
-		<td>
-			<a href="https://github.com/hendrikmolder">
-				<img src="https://avatars.githubusercontent.com/u/8231447?s=72&u=103a45fba63d6382de1c0f39f579a8b788af243a&v=4" width="24" alt="Avatar of hendrikmolder"> hendrikmolder
-			</a><br/>
-			Hendrik Mölder
-		</td>
-		<td>@transferwise </td>
-		<td>No Twitter Username</td>
-		<td>Manchester, UK / Tallinn, EST</td>
-		<td>14</td>
-		<td>1120</td>
-	</tr>
-	<tr>
-		<td>131</td>
-		<td>
-			<a href="https://github.com/Param-Harrison">
-				<img src="https://avatars.githubusercontent.com/u/2607519?s=72&u=8b6d2797a1fc85ba39d26da491aa752b50c9a65d&v=4" width="24" alt="Avatar of Param-Harrison"> Param-Harrison
-			</a><br/>
-			Paramanantham Harrison
-		</td>
-		<td>@jobbatical, @jsmates-com </td>
-		<td><a href="https://twitter.com/learnwithparam">learnwithparam</a></td>
-		<td>Tallinn</td>
-		<td>107</td>
-		<td>1117</td>
-	</tr>
-	<tr>
-		<td>132</td>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/uzzer">
 				<img src="https://avatars.githubusercontent.com/u/1173311?s=72&v=4" width="24" alt="Avatar of uzzer"> uzzer
@@ -1946,21 +1988,21 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1113</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>136</td>
 		<td>
-			<a href="https://github.com/vruusmann">
-				<img src="https://avatars.githubusercontent.com/u/3462679?s=72&u=a41192a6348ec20d83448aa89cdb372d9f0e444e&v=4" width="24" alt="Avatar of vruusmann"> vruusmann
+			<a href="https://github.com/asolntsev">
+				<img src="https://avatars.githubusercontent.com/u/279773?s=72&u=c216b2e2075954e01fdd3f5c05ae840f39718e49&v=4" width="24" alt="Avatar of asolntsev"> asolntsev
 			</a><br/>
-			Villu Ruusmann
+			Andrei Solntsev
 		</td>
-		<td>Openscoring Ltd. </td>
-		<td>No Twitter Username</td>
-		<td>Estonia</td>
-		<td>1099</td>
-		<td>1099</td>
+		<td>Codeborne </td>
+		<td><a href="https://twitter.com/asolntsev">asolntsev</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>1107</td>
+		<td>1107</td>
 	</tr>
 	<tr>
-		<td>134</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/revolist">
 				<img src="https://avatars.githubusercontent.com/u/64810943?s=72&u=3475a6c288ead5c8a3a44af3b691666928f8756f&v=4" width="24" alt="Avatar of revolist"> revolist
@@ -1974,7 +2016,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1098</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/madisp">
 				<img src="https://avatars.githubusercontent.com/u/1147723?s=72&v=4" width="24" alt="Avatar of madisp"> madisp
@@ -1988,7 +2030,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1094</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/IvanFox">
 				<img src="https://avatars.githubusercontent.com/u/6508749?s=72&u=1113544495af9550357f36fcd60343fbd7a52a84&v=4" width="24" alt="Avatar of IvanFox"> IvanFox
@@ -2002,7 +2044,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1090</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/dmbaranov">
 				<img src="https://avatars.githubusercontent.com/u/10092277?s=72&u=5318a3c10196ff26f6acb3af76f1dcf19679c4cf&v=4" width="24" alt="Avatar of dmbaranov"> dmbaranov
@@ -2016,21 +2058,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1089</td>
 	</tr>
 	<tr>
-		<td>138</td>
-		<td>
-			<a href="https://github.com/asolntsev">
-				<img src="https://avatars.githubusercontent.com/u/279773?s=72&u=c216b2e2075954e01fdd3f5c05ae840f39718e49&v=4" width="24" alt="Avatar of asolntsev"> asolntsev
-			</a><br/>
-			Andrei Solntsev
-		</td>
-		<td>Codeborne </td>
-		<td><a href="https://twitter.com/asolntsev">asolntsev</a></td>
-		<td>Tallinn, Estonia</td>
-		<td>1086</td>
-		<td>1086</td>
-	</tr>
-	<tr>
-		<td>139</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/mikkmartin">
 				<img src="https://avatars.githubusercontent.com/u/3119975?s=72&u=5340024acb3213bda2bbb918525b5cb06114ba32&v=4" width="24" alt="Avatar of mikkmartin"> mikkmartin
@@ -2044,7 +2072,21 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1083</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>142</td>
+		<td>
+			<a href="https://github.com/akopkesheshyan">
+				<img src="https://avatars.githubusercontent.com/u/576134?s=72&u=b961b23b7017d719c3cbbf35a4d2fcef935e0d40&v=4" width="24" alt="Avatar of akopkesheshyan"> akopkesheshyan
+			</a><br/>
+			Akop Kesheshyan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AkopKesheshyan">AkopKesheshyan</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>22</td>
+		<td>1072</td>
+	</tr>
+	<tr>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/SCastaneda">
 				<img src="https://avatars.githubusercontent.com/u/1507802?s=72&v=4" width="24" alt="Avatar of SCastaneda"> SCastaneda
@@ -2058,21 +2100,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1065</td>
 	</tr>
 	<tr>
-		<td>141</td>
-		<td>
-			<a href="https://github.com/bodhicougar">
-				<img src="https://avatars.githubusercontent.com/u/19272382?s=72&u=331a57f74ed984d0056e3a51e2391c27d45014a1&v=4" width="24" alt="Avatar of bodhicougar"> bodhicougar
-			</a><br/>
-			Walter O. Achammer
-		</td>
-		<td>Blackboxmediadesign Oü </td>
-		<td><a href="https://twitter.com/BBMediaDesign">BBMediaDesign</a></td>
-		<td>Estonia</td>
-		<td>1062</td>
-		<td>1062</td>
-	</tr>
-	<tr>
-		<td>142</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/blinchk">
 				<img src="https://avatars.githubusercontent.com/u/49353043?s=72&u=8b1ada19684080932f01397aa9db52e5fd9fca87&v=4" width="24" alt="Avatar of blinchk"> blinchk
@@ -2082,36 +2110,8 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>@bredbrains  </td>
 		<td><a href="https://twitter.com/ItsCanBeBlinchk">ItsCanBeBlinchk</a></td>
 		<td>Tallinn, Estonia</td>
-		<td>1037</td>
-		<td>1061</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/iamironz">
-				<img src="https://avatars.githubusercontent.com/u/8560008?s=72&u=d3cb4edabae19c1c15f7d909a9a7e1c8c8db2efc&v=4" width="24" alt="Avatar of iamironz"> iamironz
-			</a><br/>
-			Aleksandr Efremenkov
-		</td>
-		<td>@bolteu </td>
-		<td><a href="https://twitter.com/iamironz">iamironz</a></td>
-		<td>Tallinn</td>
-		<td>0</td>
-		<td>1056</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
-			<a href="https://github.com/akopkesheshyan">
-				<img src="https://avatars.githubusercontent.com/u/576134?s=72&u=b961b23b7017d719c3cbbf35a4d2fcef935e0d40&v=4" width="24" alt="Avatar of akopkesheshyan"> akopkesheshyan
-			</a><br/>
-			Akop Kesheshyan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AkopKesheshyan">AkopKesheshyan</a></td>
-		<td>Tallinn, Estonia</td>
-		<td>22</td>
-		<td>1056</td>
+		<td>1040</td>
+		<td>1064</td>
 	</tr>
 	<tr>
 		<td>145</td>
@@ -2124,8 +2124,8 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>@optimistdigital  </td>
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
-		<td>1034</td>
-		<td>1054</td>
+		<td>1044</td>
+		<td>1064</td>
 	</tr>
 	<tr>
 		<td>146</td>
@@ -2139,10 +2139,38 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>0</td>
-		<td>1045</td>
+		<td>1062</td>
 	</tr>
 	<tr>
 		<td>147</td>
+		<td>
+			<a href="https://github.com/bodhicougar">
+				<img src="https://avatars.githubusercontent.com/u/19272382?s=72&u=331a57f74ed984d0056e3a51e2391c27d45014a1&v=4" width="24" alt="Avatar of bodhicougar"> bodhicougar
+			</a><br/>
+			Walter O. Achammer
+		</td>
+		<td>Blackboxmediadesign Oü </td>
+		<td><a href="https://twitter.com/BBMediaDesign">BBMediaDesign</a></td>
+		<td>Estonia</td>
+		<td>1062</td>
+		<td>1062</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>
+			<a href="https://github.com/iamironz">
+				<img src="https://avatars.githubusercontent.com/u/8560008?s=72&u=d3cb4edabae19c1c15f7d909a9a7e1c8c8db2efc&v=4" width="24" alt="Avatar of iamironz"> iamironz
+			</a><br/>
+			Aleksandr Efremenkov
+		</td>
+		<td>@bolteu </td>
+		<td><a href="https://twitter.com/iamironz">iamironz</a></td>
+		<td>Tallinn</td>
+		<td>0</td>
+		<td>1059</td>
+	</tr>
+	<tr>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/berkerdemirer">
 				<img src="https://avatars.githubusercontent.com/u/6699409?s=72&u=e2e0eb413348084830316b8ca7a2162253fbb4a5&v=4" width="24" alt="Avatar of berkerdemirer"> berkerdemirer
@@ -2153,10 +2181,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tartu, Estonia</td>
 		<td>7</td>
-		<td>1043</td>
+		<td>1044</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/mitselek">
 				<img src="https://avatars.githubusercontent.com/u/873710?s=72&u=3f4dd40cdfcdd94ad296e496a2afc07618e20761&v=4" width="24" alt="Avatar of mitselek"> mitselek
@@ -2170,7 +2198,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1040</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/timasjov">
 				<img src="https://avatars.githubusercontent.com/u/1270180?s=72&u=87b46c5caaba490b1d2709925c3ec9dbe01d6350&v=4" width="24" alt="Avatar of timasjov"> timasjov
@@ -2184,7 +2212,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1037</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/Box-Bop">
 				<img src="https://avatars.githubusercontent.com/u/33263090?s=72&v=4" width="24" alt="Avatar of Box-Bop"> Box-Bop
@@ -2198,7 +2226,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1031</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/raulrpearson">
 				<img src="https://avatars.githubusercontent.com/u/23662058?s=72&u=0982e918575d780a3ad15fe9a2e339f518c087c1&v=4" width="24" alt="Avatar of raulrpearson"> raulrpearson
@@ -2212,7 +2240,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1020</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/victor-am">
 				<img src="https://avatars.githubusercontent.com/u/13217785?s=72&u=337c471f65d5249e7813c981a86c7a80cbb21d1f&v=4" width="24" alt="Avatar of victor-am"> victor-am
@@ -2223,10 +2251,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>34</td>
-		<td>1006</td>
+		<td>1010</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/malexan">
 				<img src="https://avatars.githubusercontent.com/u/1481851?s=72&v=4" width="24" alt="Avatar of malexan"> malexan
@@ -2240,21 +2268,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>1000</td>
 	</tr>
 	<tr>
-		<td>154</td>
-		<td>
-			<a href="https://github.com/sturmer">
-				<img src="https://avatars.githubusercontent.com/u/454735?s=72&u=ebe1d90037edc4803b1039a64f62c2d16397f6fc&v=4" width="24" alt="Avatar of sturmer"> sturmer
-			</a><br/>
-			Gianluca Ciccarelli
-		</td>
-		<td>@salemove </td>
-		<td><a href="https://twitter.com/increatore">increatore</a></td>
-		<td>Tallinn, Estonia</td>
-		<td>263</td>
-		<td>975</td>
-	</tr>
-	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/andris9">
 				<img src="https://avatars.githubusercontent.com/u/132242?s=72&u=7bc11fc27234bc3b48360fe37ba4bc36fffb522e&v=4" width="24" alt="Avatar of andris9"> andris9
@@ -2264,11 +2278,53 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>Head Of Infra @outfunnel<br/><br/></td>
 		<td><a href="https://twitter.com/andrisreinman">andrisreinman</a></td>
 		<td>Tallinn, Estonia</td>
-		<td>659</td>
+		<td>663</td>
+		<td>980</td>
+	</tr>
+	<tr>
+		<td>157</td>
+		<td>
+			<a href="https://github.com/sturmer">
+				<img src="https://avatars.githubusercontent.com/u/454735?s=72&u=ebe1d90037edc4803b1039a64f62c2d16397f6fc&v=4" width="24" alt="Avatar of sturmer"> sturmer
+			</a><br/>
+			Gianluca Ciccarelli
+		</td>
+		<td>@salemove </td>
+		<td><a href="https://twitter.com/increatore">increatore</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>264</td>
+		<td>977</td>
+	</tr>
+	<tr>
+		<td>158</td>
+		<td>
+			<a href="https://github.com/tuupola">
+				<img src="https://avatars.githubusercontent.com/u/21913?s=72&u=568a9764d5e742f5bc67f4233c8d0830bbb3ec8f&v=4" width="24" alt="Avatar of tuupola"> tuupola
+			</a><br/>
+			Mika Tuupola
+		</td>
+		<td>Kakotron Oy </td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Thailand, Finland</td>
+		<td>593</td>
 		<td>973</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>159</td>
+		<td>
+			<a href="https://github.com/mbilesanmi">
+				<img src="https://avatars.githubusercontent.com/u/26195944?s=72&u=8328f983d40bf6d0d91cdf20c99bc78cff431405&v=4" width="24" alt="Avatar of mbilesanmi"> mbilesanmi
+			</a><br/>
+			Maranatha A. Ilesanmi
+		</td>
+		<td>Pipedrive </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>36</td>
+		<td>972</td>
+	</tr>
+	<tr>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/crazyjooe">
 				<img src="https://avatars.githubusercontent.com/u/5329255?s=72&u=64f9287efb0eedddba959baae071326fcf76a70b&v=4" width="24" alt="Avatar of crazyjooe"> crazyjooe
@@ -2282,21 +2338,21 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>966</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>161</td>
 		<td>
-			<a href="https://github.com/mbilesanmi">
-				<img src="https://avatars.githubusercontent.com/u/26195944?s=72&u=8328f983d40bf6d0d91cdf20c99bc78cff431405&v=4" width="24" alt="Avatar of mbilesanmi"> mbilesanmi
+			<a href="https://github.com/Braffolk">
+				<img src="https://avatars.githubusercontent.com/u/7544836?s=72&u=3151ba497de7b23ee87b8351924d3d0d2191d107&v=4" width="24" alt="Avatar of Braffolk"> Braffolk
 			</a><br/>
-			Maranatha A. Ilesanmi
+			No Name
 		</td>
-		<td>Pipedrive </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Tallinn</td>
-		<td>36</td>
-		<td>964</td>
+		<td>Estonia</td>
+		<td>133</td>
+		<td>965</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/mustafatufan">
 				<img src="https://avatars.githubusercontent.com/u/9395024?s=72&u=30a2ea3fdaf8063bda8abd9284794aa3024a3dc3&v=4" width="24" alt="Avatar of mustafatufan"> mustafatufan
@@ -2307,24 +2363,24 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/_mustafatufan">_mustafatufan</a></td>
 		<td>Tallinn, Estonia</td>
 		<td>103</td>
-		<td>955</td>
+		<td>956</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>163</td>
 		<td>
-			<a href="https://github.com/tuupola">
-				<img src="https://avatars.githubusercontent.com/u/21913?s=72&u=568a9764d5e742f5bc67f4233c8d0830bbb3ec8f&v=4" width="24" alt="Avatar of tuupola"> tuupola
+			<a href="https://github.com/felladrin">
+				<img src="https://avatars.githubusercontent.com/u/418083?s=72&u=71c6a83c27647deba30ab40ba987e4602de266ae&v=4" width="24" alt="Avatar of felladrin"> felladrin
 			</a><br/>
-			Mika Tuupola
+			Victor Nogueira
 		</td>
-		<td>Kakotron Oy </td>
-		<td>No Twitter Username</td>
-		<td>Estonia, Thailand, Finland</td>
-		<td>573</td>
-		<td>953</td>
+		<td>Real Dealer Studios </td>
+		<td><a href="https://twitter.com/felladrin">felladrin</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>419</td>
+		<td>950</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>164</td>
 		<td>
 			<a href="https://github.com/iapicca">
 				<img src="https://avatars.githubusercontent.com/u/45637986?s=72&u=76e7fa8de7fd0b97073519fa7a88027643fa3c15&v=4" width="24" alt="Avatar of iapicca"> iapicca
@@ -2338,35 +2394,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>933</td>
 	</tr>
 	<tr>
-		<td>161</td>
-		<td>
-			<a href="https://github.com/Braffolk">
-				<img src="https://avatars.githubusercontent.com/u/7544836?s=72&u=3151ba497de7b23ee87b8351924d3d0d2191d107&v=4" width="24" alt="Avatar of Braffolk"> Braffolk
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Estonia</td>
-		<td>132</td>
-		<td>933</td>
-	</tr>
-	<tr>
-		<td>162</td>
-		<td>
-			<a href="https://github.com/felladrin">
-				<img src="https://avatars.githubusercontent.com/u/418083?s=72&u=71c6a83c27647deba30ab40ba987e4602de266ae&v=4" width="24" alt="Avatar of felladrin"> felladrin
-			</a><br/>
-			Victor Nogueira
-		</td>
-		<td>Real Dealer Studios </td>
-		<td><a href="https://twitter.com/felladrin">felladrin</a></td>
-		<td>Tallinn, Estonia</td>
-		<td>401</td>
-		<td>932</td>
-	</tr>
-	<tr>
-		<td>163</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/deniskovalenko">
 				<img src="https://avatars.githubusercontent.com/u/7962654?s=72&v=4" width="24" alt="Avatar of deniskovalenko"> deniskovalenko
@@ -2380,7 +2408,35 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>926</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>166</td>
+		<td>
+			<a href="https://github.com/aivarannamaa">
+				<img src="https://avatars.githubusercontent.com/u/1802?s=72&v=4" width="24" alt="Avatar of aivarannamaa"> aivarannamaa
+			</a><br/>
+			Aivar Annamaa
+		</td>
+		<td>Cybernetica </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>925</td>
+		<td>925</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>
+			<a href="https://github.com/aefimov">
+				<img src="https://avatars.githubusercontent.com/u/717562?s=72&v=4" width="24" alt="Avatar of aefimov"> aefimov
+			</a><br/>
+			Alexey Efimov
+		</td>
+		<td>Bolt </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>0</td>
+		<td>921</td>
+	</tr>
+	<tr>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/mgnsk">
 				<img src="https://avatars.githubusercontent.com/u/15255910?s=72&u=6d617029d26d72199be8ef618bde04237349785c&v=4" width="24" alt="Avatar of mgnsk"> mgnsk
@@ -2394,35 +2450,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>920</td>
 	</tr>
 	<tr>
-		<td>165</td>
-		<td>
-			<a href="https://github.com/aivarannamaa">
-				<img src="https://avatars.githubusercontent.com/u/1802?s=72&v=4" width="24" alt="Avatar of aivarannamaa"> aivarannamaa
-			</a><br/>
-			Aivar Annamaa
-		</td>
-		<td>Cybernetica </td>
-		<td>No Twitter Username</td>
-		<td>Tartu, Estonia</td>
-		<td>918</td>
-		<td>918</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/aefimov">
-				<img src="https://avatars.githubusercontent.com/u/717562?s=72&v=4" width="24" alt="Avatar of aefimov"> aefimov
-			</a><br/>
-			Alexey Efimov
-		</td>
-		<td>Bolt </td>
-		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>0</td>
-		<td>916</td>
-	</tr>
-	<tr>
-		<td>167</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/defeed">
 				<img src="https://avatars.githubusercontent.com/u/497537?s=72&u=860e1c1fa32865fa3815511218ea118a70e8c0c9&v=4" width="24" alt="Avatar of defeed"> defeed
@@ -2433,10 +2461,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>4</td>
-		<td>916</td>
+		<td>918</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/raydac">
 				<img src="https://avatars.githubusercontent.com/u/3008810?s=72&u=2408e7d07e962fc16d854b57e079370ab18a0ba7&v=4" width="24" alt="Avatar of raydac"> raydac
@@ -2446,11 +2474,11 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/IgorMaznitsa">IgorMaznitsa</a></td>
 		<td>Estonia, Tallinn</td>
-		<td>903</td>
-		<td>903</td>
+		<td>917</td>
+		<td>917</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/randohinn">
 				<img src="https://avatars.githubusercontent.com/u/14096473?s=72&v=4" width="24" alt="Avatar of randohinn"> randohinn
@@ -2460,25 +2488,11 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>Rando Hinn </td>
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
-		<td>175</td>
-		<td>873</td>
+		<td>177</td>
+		<td>877</td>
 	</tr>
 	<tr>
-		<td>170</td>
-		<td>
-			<a href="https://github.com/tadorfer">
-				<img src="https://avatars.githubusercontent.com/u/43526653?s=72&u=5beb907a9c7cb81c839b09273b2285d6d5ff1106&v=4" width="24" alt="Avatar of tadorfer"> tadorfer
-			</a><br/>
-			Thomas Dorfer
-		</td>
-		<td>Microsoft </td>
-		<td><a href="https://twitter.com/thomasadorfer">thomasadorfer</a></td>
-		<td>Tallinn, Estonia</td>
-		<td>651</td>
-		<td>872</td>
-	</tr>
-	<tr>
-		<td>171</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/ufukcam">
 				<img src="https://avatars.githubusercontent.com/u/27288643?s=72&u=c64d58ad926e05dab5544b874a83ea5f619dfd9a&v=4" width="24" alt="Avatar of ufukcam"> ufukcam
@@ -2488,22 +2502,8 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>Bilpp </td>
 		<td><a href="https://twitter.com/ufukcam">ufukcam</a></td>
 		<td>Estonia</td>
-		<td>275</td>
-		<td>869</td>
-	</tr>
-	<tr>
-		<td>172</td>
-		<td>
-			<a href="https://github.com/artemtam">
-				<img src="https://avatars.githubusercontent.com/u/5302208?s=72&u=30c0beffae7f022794066553f39a8d71124e0609&v=4" width="24" alt="Avatar of artemtam"> artemtam
-			</a><br/>
-			Artem Tamoian
-		</td>
-		<td>@veriff </td>
-		<td><a href="https://twitter.com/artemtam">artemtam</a></td>
-		<td>Tallinn, Estonia</td>
-		<td>66</td>
-		<td>867</td>
+		<td>276</td>
+		<td>876</td>
 	</tr>
 	<tr>
 		<td>173</td>
@@ -2517,7 +2517,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tartu, Estonia</td>
 		<td>149</td>
-		<td>865</td>
+		<td>873</td>
 	</tr>
 	<tr>
 		<td>174</td>
@@ -2530,11 +2530,39 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>Abdrakov Corp. </td>
 		<td>No Twitter Username</td>
 		<td>Estonia, Tallinn</td>
-		<td>865</td>
-		<td>865</td>
+		<td>873</td>
+		<td>873</td>
 	</tr>
 	<tr>
 		<td>175</td>
+		<td>
+			<a href="https://github.com/tadorfer">
+				<img src="https://avatars.githubusercontent.com/u/43526653?s=72&u=5beb907a9c7cb81c839b09273b2285d6d5ff1106&v=4" width="24" alt="Avatar of tadorfer"> tadorfer
+			</a><br/>
+			Thomas Dorfer
+		</td>
+		<td>Microsoft </td>
+		<td><a href="https://twitter.com/thomasadorfer">thomasadorfer</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>651</td>
+		<td>872</td>
+	</tr>
+	<tr>
+		<td>176</td>
+		<td>
+			<a href="https://github.com/artemtam">
+				<img src="https://avatars.githubusercontent.com/u/5302208?s=72&u=30c0beffae7f022794066553f39a8d71124e0609&v=4" width="24" alt="Avatar of artemtam"> artemtam
+			</a><br/>
+			Artem Tamoian
+		</td>
+		<td>@veriff </td>
+		<td><a href="https://twitter.com/artemtam">artemtam</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>66</td>
+		<td>869</td>
+	</tr>
+	<tr>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/krambertech">
 				<img src="https://avatars.githubusercontent.com/u/10474869?s=72&u=2298740332f7c29072aaf60a77ecbc950495fa22&v=4" width="24" alt="Avatar of krambertech"> krambertech
@@ -2545,10 +2573,24 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn</td>
 		<td>49</td>
+		<td>866</td>
+	</tr>
+	<tr>
+		<td>178</td>
+		<td>
+			<a href="https://github.com/karlerikounapuu">
+				<img src="https://avatars.githubusercontent.com/u/9388771?s=72&u=43524e1fe94e78786ee7a2285c1b0c8d25c1c155&v=4" width="24" alt="Avatar of karlerikounapuu"> karlerikounapuu
+			</a><br/>
+			Karl Erik Õunapuu
+		</td>
+		<td>Kreative Digital Oü </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>864</td>
 		<td>864</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/madhenry">
 				<img src="https://avatars.githubusercontent.com/u/434217?s=72&u=e8eacb50c5cfdac05eae5fe843e5706345e4d6ff&v=4" width="24" alt="Avatar of madhenry"> madhenry
@@ -2562,21 +2604,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>862</td>
 	</tr>
 	<tr>
-		<td>177</td>
-		<td>
-			<a href="https://github.com/karlerikounapuu">
-				<img src="https://avatars.githubusercontent.com/u/9388771?s=72&u=43524e1fe94e78786ee7a2285c1b0c8d25c1c155&v=4" width="24" alt="Avatar of karlerikounapuu"> karlerikounapuu
-			</a><br/>
-			Karl Erik Õunapuu
-		</td>
-		<td>Kreative Digital Oü </td>
-		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>862</td>
-		<td>862</td>
-	</tr>
-	<tr>
-		<td>178</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/itchingpixels">
 				<img src="https://avatars.githubusercontent.com/u/5416288?s=72&u=fa3838eb21fc5ac085a1661deb35f566040eed94&v=4" width="24" alt="Avatar of itchingpixels"> itchingpixels
@@ -2587,10 +2615,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/itchingpixels">itchingpixels</a></td>
 		<td>Estonia</td>
 		<td>133</td>
-		<td>855</td>
+		<td>856</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/rla">
 				<img src="https://avatars.githubusercontent.com/u/1105347?s=72&u=b4c3c34f663d2193ad7013ddafd8b2704ffce4c2&v=4" width="24" alt="Avatar of rla"> rla
@@ -2601,10 +2629,24 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>24</td>
-		<td>848</td>
+		<td>851</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>182</td>
+		<td>
+			<a href="https://github.com/RomanShabanov">
+				<img src="https://avatars.githubusercontent.com/u/9246211?s=72&u=12b92161a749ebfd7e028d94ddf3da118a82dc5c&v=4" width="24" alt="Avatar of RomanShabanov"> RomanShabanov
+			</a><br/>
+			Roman Shabanov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>7</td>
+		<td>850</td>
+	</tr>
+	<tr>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/manasovdan">
 				<img src="https://avatars.githubusercontent.com/u/3918660?s=72&v=4" width="24" alt="Avatar of manasovdan"> manasovdan
@@ -2615,10 +2657,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn</td>
 		<td>0</td>
-		<td>837</td>
+		<td>838</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/rrebane">
 				<img src="https://avatars.githubusercontent.com/u/2129768?s=72&v=4" width="24" alt="Avatar of rrebane"> rrebane
@@ -2629,10 +2671,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>36</td>
-		<td>836</td>
+		<td>837</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/dkorobtsov">
 				<img src="https://avatars.githubusercontent.com/u/13999072?s=72&v=4" width="24" alt="Avatar of dkorobtsov"> dkorobtsov
@@ -2646,7 +2688,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>831</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/SergeyPinkevich">
 				<img src="https://avatars.githubusercontent.com/u/14258399?s=72&u=16154b1989a9a849c532cd40b99d7a517c1a2f16&v=4" width="24" alt="Avatar of SergeyPinkevich"> SergeyPinkevich
@@ -2657,10 +2699,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>24</td>
-		<td>827</td>
+		<td>828</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/stenver">
 				<img src="https://avatars.githubusercontent.com/u/4389843?s=72&u=35fbabaa230ae03d94e2e6a59c1813f0854eb6d9&v=4" width="24" alt="Avatar of stenver"> stenver
@@ -2674,21 +2716,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>826</td>
 	</tr>
 	<tr>
-		<td>185</td>
-		<td>
-			<a href="https://github.com/RomanShabanov">
-				<img src="https://avatars.githubusercontent.com/u/9246211?s=72&u=12b92161a749ebfd7e028d94ddf3da118a82dc5c&v=4" width="24" alt="Avatar of RomanShabanov"> RomanShabanov
-			</a><br/>
-			Roman Shabanov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tallinn</td>
-		<td>7</td>
-		<td>826</td>
-	</tr>
-	<tr>
-		<td>186</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/NeverwinterMoon">
 				<img src="https://avatars.githubusercontent.com/u/1917308?s=72&u=5dd005bf9832e6c4abaa8b6363618ea4fe8fd4fe&v=4" width="24" alt="Avatar of NeverwinterMoon"> NeverwinterMoon
@@ -2698,11 +2726,11 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>Ampler Bikes </td>
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
-		<td>18</td>
-		<td>818</td>
+		<td>22</td>
+		<td>822</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/cyberalien">
 				<img src="https://avatars.githubusercontent.com/u/822287?s=72&u=f007c6172193aec38c5c8c28a0c453873304d669&v=4" width="24" alt="Avatar of cyberalien"> cyberalien
@@ -2712,11 +2740,11 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>@iconify  </td>
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
-		<td>811</td>
-		<td>812</td>
+		<td>816</td>
+		<td>817</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/jpata">
 				<img src="https://avatars.githubusercontent.com/u/69717?s=72&v=4" width="24" alt="Avatar of jpata"> jpata
@@ -2730,7 +2758,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>801</td>
 	</tr>
 	<tr>
-		<td>189</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/danarocha-br">
 				<img src="https://avatars.githubusercontent.com/u/45463740?s=72&u=a0aabdba0009f1b3dba300187c02bfb8de7ba74b&v=4" width="24" alt="Avatar of danarocha-br"> danarocha-br
@@ -2744,7 +2772,21 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>794</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>192</td>
+		<td>
+			<a href="https://github.com/mihkeleidast">
+				<img src="https://avatars.githubusercontent.com/u/1892091?s=72&u=2ae68c3ca3fd608e98898ef81e2783f6a24dd252&v=4" width="24" alt="Avatar of mihkeleidast"> mihkeleidast
+			</a><br/>
+			Mihkel Eidast
+		</td>
+		<td>@gtap-dev  </td>
+		<td><a href="https://twitter.com/mihkeleidast">mihkeleidast</a></td>
+		<td>Estonia</td>
+		<td>791</td>
+		<td>791</td>
+	</tr>
+	<tr>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/jramirezs">
 				<img src="https://avatars.githubusercontent.com/u/10821772?s=72&u=5cba45951e7167ab58547b383d57ba7f0a6f8be4&v=4" width="24" alt="Avatar of jramirezs"> jramirezs
@@ -2758,21 +2800,21 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>784</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>194</td>
 		<td>
-			<a href="https://github.com/mihkeleidast">
-				<img src="https://avatars.githubusercontent.com/u/1892091?s=72&u=2ae68c3ca3fd608e98898ef81e2783f6a24dd252&v=4" width="24" alt="Avatar of mihkeleidast"> mihkeleidast
+			<a href="https://github.com/GSemikozov">
+				<img src="https://avatars.githubusercontent.com/u/6191270?s=72&v=4" width="24" alt="Avatar of GSemikozov"> GSemikozov
 			</a><br/>
-			Mihkel Eidast
+			Herman Semykozov
 		</td>
-		<td>@gtap-dev  </td>
-		<td><a href="https://twitter.com/mihkeleidast">mihkeleidast</a></td>
-		<td>Estonia</td>
-		<td>780</td>
-		<td>780</td>
+		<td>Paxful </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>782</td>
+		<td>782</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/hsnyildiz">
 				<img src="https://avatars.githubusercontent.com/u/1096278?s=72&u=cc76b3a88b72a4e13d83bf8c2b7281e2c4ec7128&v=4" width="24" alt="Avatar of hsnyildiz"> hsnyildiz
@@ -2786,21 +2828,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>776</td>
 	</tr>
 	<tr>
-		<td>193</td>
-		<td>
-			<a href="https://github.com/tanelj">
-				<img src="https://avatars.githubusercontent.com/u/378755?s=72&v=4" width="24" alt="Avatar of tanelj"> tanelj
-			</a><br/>
-			No Name
-		</td>
-		<td>Voog </td>
-		<td>No Twitter Username</td>
-		<td>Tartu, Estonia</td>
-		<td>99</td>
-		<td>772</td>
-	</tr>
-	<tr>
-		<td>194</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/lnikkila">
 				<img src="https://avatars.githubusercontent.com/u/1291143?s=72&u=9eab14c61bd4a968a6e055b4ae06ada87c685f0d&v=4" width="24" alt="Avatar of lnikkila"> lnikkila
@@ -2811,10 +2839,38 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>2</td>
-		<td>766</td>
+		<td>774</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>197</td>
+		<td>
+			<a href="https://github.com/tanelj">
+				<img src="https://avatars.githubusercontent.com/u/378755?s=72&v=4" width="24" alt="Avatar of tanelj"> tanelj
+			</a><br/>
+			No Name
+		</td>
+		<td>Voog </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>99</td>
+		<td>774</td>
+	</tr>
+	<tr>
+		<td>198</td>
+		<td>
+			<a href="https://github.com/vohmar">
+				<img src="https://avatars.githubusercontent.com/u/7734747?s=72&u=aaa9b3f87172a718c34e982aebadcb4b68db09ea&v=4" width="24" alt="Avatar of vohmar"> vohmar
+			</a><br/>
+			Timo Võhmar
+		</td>
+		<td>Estonian Internet Foundation </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>769</td>
+		<td>769</td>
+	</tr>
+	<tr>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/blaZ3">
 				<img src="https://avatars.githubusercontent.com/u/1059617?s=72&u=321b434fbff5d1578aec1eb74c593678e60660f9&v=4" width="24" alt="Avatar of blaZ3"> blaZ3
@@ -2825,24 +2881,24 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/tellvivk">tellvivk</a></td>
 		<td>Tallinn, Estonia</td>
 		<td>8</td>
-		<td>763</td>
+		<td>766</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>200</td>
 		<td>
-			<a href="https://github.com/vohmar">
-				<img src="https://avatars.githubusercontent.com/u/7734747?s=72&u=aaa9b3f87172a718c34e982aebadcb4b68db09ea&v=4" width="24" alt="Avatar of vohmar"> vohmar
+			<a href="https://github.com/hellwolf">
+				<img src="https://avatars.githubusercontent.com/u/186660?s=72&v=4" width="24" alt="Avatar of hellwolf"> hellwolf
 			</a><br/>
-			Timo Võhmar
+			Miao ZhiCheng
 		</td>
-		<td>Estonian Internet Foundation </td>
+		<td>@decentral-ee, @superfluid-finance  </td>
 		<td>No Twitter Username</td>
-		<td>Estonia</td>
-		<td>762</td>
-		<td>762</td>
+		<td>Tallinn, Estonia</td>
+		<td>757</td>
+		<td>757</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/tarmo888">
 				<img src="https://avatars.githubusercontent.com/u/732356?s=72&u=3286ec7c76425932bd1efcf1e24d10f9893e694f&v=4" width="24" alt="Avatar of tarmo888"> tarmo888
@@ -2856,21 +2912,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>756</td>
 	</tr>
 	<tr>
-		<td>198</td>
-		<td>
-			<a href="https://github.com/hellwolf">
-				<img src="https://avatars.githubusercontent.com/u/186660?s=72&v=4" width="24" alt="Avatar of hellwolf"> hellwolf
-			</a><br/>
-			Miao ZhiCheng
-		</td>
-		<td>@decentral-ee, @superfluid-finance  </td>
-		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>754</td>
-		<td>754</td>
-	</tr>
-	<tr>
-		<td>199</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/Tankenstein">
 				<img src="https://avatars.githubusercontent.com/u/9271565?s=72&u=6c36a9ac3e94c472826711ae0790bdfebab3d1eb&v=4" width="24" alt="Avatar of Tankenstein"> Tankenstein
@@ -2881,10 +2923,24 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/UTammet">UTammet</a></td>
 		<td>Tallinn, Estonia</td>
 		<td>69</td>
-		<td>748</td>
+		<td>755</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>203</td>
+		<td>
+			<a href="https://github.com/fedorst">
+				<img src="https://avatars.githubusercontent.com/u/42938793?s=72&v=4" width="24" alt="Avatar of fedorst"> fedorst
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu</td>
+		<td>55</td>
+		<td>743</td>
+	</tr>
+	<tr>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/jaakristioja">
 				<img src="https://avatars.githubusercontent.com/u/2684083?s=72&u=5f6cc346c9902cb196c4c9aee25e3beb2c73ea1d&v=4" width="24" alt="Avatar of jaakristioja"> jaakristioja
@@ -2898,7 +2954,35 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>742</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>205</td>
+		<td>
+			<a href="https://github.com/Martinvlba">
+				<img src="https://avatars.githubusercontent.com/u/20658933?s=72&u=61bb2e810cb201ccd862828e77c543dc46f00280&v=4" width="24" alt="Avatar of Martinvlba"> Martinvlba
+			</a><br/>
+			Martin Valba
+		</td>
+		<td>Home </td>
+		<td>No Twitter Username</td>
+		<td>Parnu, Estonia</td>
+		<td>733</td>
+		<td>739</td>
+	</tr>
+	<tr>
+		<td>206</td>
+		<td>
+			<a href="https://github.com/camsenec">
+				<img src="https://avatars.githubusercontent.com/u/27656483?s=72&u=7f3cfb42de915383ed9a9532a0fef19a1b913b94&v=4" width="24" alt="Avatar of camsenec"> camsenec
+			</a><br/>
+			Tomoya Tanaka
+		</td>
+		<td>Tallinn University Of Technology,<br/>University<br/>Of<br/>Tartu,<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>404</td>
+		<td>739</td>
+	</tr>
+	<tr>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/leio">
 				<img src="https://avatars.githubusercontent.com/u/133723?s=72&v=4" width="24" alt="Avatar of leio"> leio
@@ -2912,49 +2996,49 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>738</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>208</td>
 		<td>
-			<a href="https://github.com/camsenec">
-				<img src="https://avatars.githubusercontent.com/u/27656483?s=72&u=7f3cfb42de915383ed9a9532a0fef19a1b913b94&v=4" width="24" alt="Avatar of camsenec"> camsenec
+			<a href="https://github.com/Madis0">
+				<img src="https://avatars.githubusercontent.com/u/8611110?s=72&u=f9d82fa5cbe13ac3f1b7ba0266d5ca0b0ca58438&v=4" width="24" alt="Avatar of Madis0"> Madis0
 			</a><br/>
-			Tomoya Tanaka
+			Madis Otenurm
 		</td>
-		<td>Tallinn University Of Technology,<br/>University<br/>Of<br/>Tartu,<br/><br/></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>726</td>
+		<td>726</td>
+	</tr>
+	<tr>
+		<td>209</td>
+		<td>
+			<a href="https://github.com/mklopets">
+				<img src="https://avatars.githubusercontent.com/u/3150328?s=72&u=15ad9327f2c8f4995918c79deb8691e34356aafc&v=4" width="24" alt="Avatar of mklopets"> mklopets
+			</a><br/>
+			Marko Klopets
+		</td>
+		<td>@6fold </td>
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
-		<td>404</td>
-		<td>737</td>
+		<td>9</td>
+		<td>724</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>210</td>
 		<td>
-			<a href="https://github.com/Martinvlba">
-				<img src="https://avatars.githubusercontent.com/u/20658933?s=72&u=61bb2e810cb201ccd862828e77c543dc46f00280&v=4" width="24" alt="Avatar of Martinvlba"> Martinvlba
+			<a href="https://github.com/angryziber">
+				<img src="https://avatars.githubusercontent.com/u/882016?s=72&u=e8186201506a1c091104b1ec8c24b0e269a449ea&v=4" width="24" alt="Avatar of angryziber"> angryziber
 			</a><br/>
-			Martin Valba
+			Anton Keks
 		</td>
-		<td>Home </td>
+		<td>Codeborne </td>
 		<td>No Twitter Username</td>
-		<td>Parnu, Estonia</td>
-		<td>730</td>
-		<td>736</td>
+		<td>Estonia</td>
+		<td>723</td>
+		<td>723</td>
 	</tr>
 	<tr>
-		<td>204</td>
-		<td>
-			<a href="https://github.com/GSemikozov">
-				<img src="https://avatars.githubusercontent.com/u/6191270?s=72&v=4" width="24" alt="Avatar of GSemikozov"> GSemikozov
-			</a><br/>
-			Herman Semykozov
-		</td>
-		<td>Paxful </td>
-		<td>No Twitter Username</td>
-		<td>Tallinn</td>
-		<td>734</td>
-		<td>734</td>
-	</tr>
-	<tr>
-		<td>205</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/azymohliad">
 				<img src="https://avatars.githubusercontent.com/u/4020369?s=72&u=a6995b0ca5f3f48ed065dd363b5170296fb3329d&v=4" width="24" alt="Avatar of azymohliad"> azymohliad
@@ -2968,21 +3052,21 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>722</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>212</td>
 		<td>
-			<a href="https://github.com/mklopets">
-				<img src="https://avatars.githubusercontent.com/u/3150328?s=72&u=15ad9327f2c8f4995918c79deb8691e34356aafc&v=4" width="24" alt="Avatar of mklopets"> mklopets
+			<a href="https://github.com/kristjanr">
+				<img src="https://avatars.githubusercontent.com/u/1203138?s=72&u=18f5c889919c51dd5d451a9cd9283e54e2c27133&v=4" width="24" alt="Avatar of kristjanr"> kristjanr
 			</a><br/>
-			Marko Klopets
+			Kristjan Roosild
 		</td>
-		<td>@6fold </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>9</td>
-		<td>721</td>
+		<td>Estonia</td>
+		<td>76</td>
+		<td>718</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/taivop">
 				<img src="https://avatars.githubusercontent.com/u/5147210?s=72&u=cebbe7dbe648177c820e9917bb61271ad43f75cb&v=4" width="24" alt="Avatar of taivop"> taivop
@@ -2996,7 +3080,21 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>717</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>214</td>
+		<td>
+			<a href="https://github.com/linomp">
+				<img src="https://avatars.githubusercontent.com/u/40581019?s=72&u=308367d24b00e03ef85e432ac740e213c2988674&v=4" width="24" alt="Avatar of linomp"> linomp
+			</a><br/>
+			Lino Mediavilla
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>537</td>
+		<td>717</td>
+	</tr>
+	<tr>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/alesker">
 				<img src="https://avatars.githubusercontent.com/u/1481982?s=72&u=47c94a7b6ec1b40f057899b2dee1370bf8c43cf6&v=4" width="24" alt="Avatar of alesker"> alesker
@@ -3010,63 +3108,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>717</td>
 	</tr>
 	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/kristjanr">
-				<img src="https://avatars.githubusercontent.com/u/1203138?s=72&u=18f5c889919c51dd5d451a9cd9283e54e2c27133&v=4" width="24" alt="Avatar of kristjanr"> kristjanr
-			</a><br/>
-			Kristjan Roosild
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Estonia</td>
-		<td>76</td>
-		<td>716</td>
-	</tr>
-	<tr>
-		<td>210</td>
-		<td>
-			<a href="https://github.com/angryziber">
-				<img src="https://avatars.githubusercontent.com/u/882016?s=72&u=e8186201506a1c091104b1ec8c24b0e269a449ea&v=4" width="24" alt="Avatar of angryziber"> angryziber
-			</a><br/>
-			Anton Keks
-		</td>
-		<td>Codeborne </td>
-		<td>No Twitter Username</td>
-		<td>Estonia</td>
-		<td>713</td>
-		<td>713</td>
-	</tr>
-	<tr>
-		<td>211</td>
-		<td>
-			<a href="https://github.com/fedorst">
-				<img src="https://avatars.githubusercontent.com/u/42938793?s=72&v=4" width="24" alt="Avatar of fedorst"> fedorst
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tartu</td>
-		<td>55</td>
-		<td>712</td>
-	</tr>
-	<tr>
-		<td>212</td>
-		<td>
-			<a href="https://github.com/Madis0">
-				<img src="https://avatars.githubusercontent.com/u/8611110?s=72&u=f9d82fa5cbe13ac3f1b7ba0266d5ca0b0ca58438&v=4" width="24" alt="Avatar of Madis0"> Madis0
-			</a><br/>
-			Madis Otenurm
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Estonia</td>
-		<td>711</td>
-		<td>711</td>
-	</tr>
-	<tr>
-		<td>213</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/n1md7">
 				<img src="https://avatars.githubusercontent.com/u/6734058?s=72&u=4b5821196735122dbd9852e5c2d30a3d4e0e724e&v=4" width="24" alt="Avatar of n1md7"> n1md7
@@ -3080,7 +3122,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>707</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/harrisiirak">
 				<img src="https://avatars.githubusercontent.com/u/185315?s=72&u=8197cb1f48eefce3360c050ab85b700dbd12ee62&v=4" width="24" alt="Avatar of harrisiirak"> harrisiirak
@@ -3091,10 +3133,24 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>38</td>
-		<td>696</td>
+		<td>701</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>218</td>
+		<td>
+			<a href="https://github.com/bruno-azenha">
+				<img src="https://avatars.githubusercontent.com/u/7806092?s=72&u=cefb43c7169c8ebc5c93efff4037e7bf81fb3727&v=4" width="24" alt="Avatar of bruno-azenha"> bruno-azenha
+			</a><br/>
+			Bruno Azenha Gonçalves
+		</td>
+		<td>Mindvalley </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn - Estonia</td>
+		<td>23</td>
+		<td>701</td>
+	</tr>
+	<tr>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/amnkh">
 				<img src="https://avatars.githubusercontent.com/u/31091217?s=72&u=6f78b6eca3e7ab60ecee45bee67cc5db4fe515fd&v=4" width="24" alt="Avatar of amnkh"> amnkh
@@ -3108,21 +3164,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>694</td>
 	</tr>
 	<tr>
-		<td>216</td>
-		<td>
-			<a href="https://github.com/bruno-azenha">
-				<img src="https://avatars.githubusercontent.com/u/7806092?s=72&u=cefb43c7169c8ebc5c93efff4037e7bf81fb3727&v=4" width="24" alt="Avatar of bruno-azenha"> bruno-azenha
-			</a><br/>
-			Bruno Azenha Gonçalves
-		</td>
-		<td>Mindvalley </td>
-		<td>No Twitter Username</td>
-		<td>Tallinn - Estonia</td>
-		<td>23</td>
-		<td>694</td>
-	</tr>
-	<tr>
-		<td>217</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/unematiii">
 				<img src="https://avatars.githubusercontent.com/u/4154230?s=72&u=25d5be4f05a47c66f27d9956d8b719c9b63f2c87&v=4" width="24" alt="Avatar of unematiii"> unematiii
@@ -3136,7 +3178,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>691</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/MartinSahlen">
 				<img src="https://avatars.githubusercontent.com/u/4218596?s=72&u=bc2a4ca73dfe97b7bd6bfb3f2284f238d230e72b&v=4" width="24" alt="Avatar of MartinSahlen"> MartinSahlen
@@ -3147,10 +3189,24 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/AlvinDotAI">AlvinDotAI</a></td>
 		<td>Tallinn</td>
 		<td>22</td>
-		<td>681</td>
+		<td>685</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>222</td>
+		<td>
+			<a href="https://github.com/lafin">
+				<img src="https://avatars.githubusercontent.com/u/1105640?s=72&v=4" width="24" alt="Avatar of lafin"> lafin
+			</a><br/>
+			Sergei Kuvakin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>463</td>
+		<td>680</td>
+	</tr>
+	<tr>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/krishaamer">
 				<img src="https://avatars.githubusercontent.com/u/54409?s=72&u=963f23a338cc874a1a5a96ecf46098cf80e15430&v=4" width="24" alt="Avatar of krishaamer"> krishaamer
@@ -3164,7 +3220,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>676</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/badmanski">
 				<img src="https://avatars.githubusercontent.com/u/3490464?s=72&v=4" width="24" alt="Avatar of badmanski"> badmanski
@@ -3175,10 +3231,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn</td>
 		<td>1</td>
-		<td>674</td>
+		<td>676</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/hypno2000">
 				<img src="https://avatars.githubusercontent.com/u/417241?s=72&v=4" width="24" alt="Avatar of hypno2000"> hypno2000
@@ -3189,24 +3245,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>4</td>
-		<td>672</td>
+		<td>674</td>
 	</tr>
 	<tr>
-		<td>222</td>
-		<td>
-			<a href="https://github.com/linomp">
-				<img src="https://avatars.githubusercontent.com/u/40581019?s=72&u=308367d24b00e03ef85e432ac740e213c2988674&v=4" width="24" alt="Avatar of linomp"> linomp
-			</a><br/>
-			Lino Mediavilla
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>445</td>
-		<td>670</td>
-	</tr>
-	<tr>
-		<td>223</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/jazibsawar">
 				<img src="https://avatars.githubusercontent.com/u/12908959?s=72&u=17b4c07467c6122b733110b8125d0d94e70440f5&v=4" width="24" alt="Avatar of jazibsawar"> jazibsawar
@@ -3220,35 +3262,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>661</td>
 	</tr>
 	<tr>
-		<td>224</td>
-		<td>
-			<a href="https://github.com/lafin">
-				<img src="https://avatars.githubusercontent.com/u/1105640?s=72&v=4" width="24" alt="Avatar of lafin"> lafin
-			</a><br/>
-			Sergei Kuvakin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>443</td>
-		<td>655</td>
-	</tr>
-	<tr>
-		<td>225</td>
-		<td>
-			<a href="https://github.com/Zi9">
-				<img src="https://avatars.githubusercontent.com/u/17174057?s=72&u=62b928612f99a33cb4615e52621b8cae67aec36b&v=4" width="24" alt="Avatar of Zi9"> Zi9
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Estonia</td>
-		<td>147</td>
-		<td>654</td>
-	</tr>
-	<tr>
-		<td>226</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/mitulmanish">
 				<img src="https://avatars.githubusercontent.com/u/8016341?s=72&u=80a3b1d4eff5703313fc0aec8d57023073cf5722&v=4" width="24" alt="Avatar of mitulmanish"> mitulmanish
@@ -3259,10 +3273,24 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td><a href="https://twitter.com/mitul_manish23">mitul_manish23</a></td>
 		<td>Tallinn, Estonia</td>
 		<td>0</td>
-		<td>653</td>
+		<td>656</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>228</td>
+		<td>
+			<a href="https://github.com/Zi9">
+				<img src="https://avatars.githubusercontent.com/u/17174057?s=72&u=62b928612f99a33cb4615e52621b8cae67aec36b&v=4" width="24" alt="Avatar of Zi9"> Zi9
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>149</td>
+		<td>656</td>
+	</tr>
+	<tr>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/azdanov">
 				<img src="https://avatars.githubusercontent.com/u/6123841?s=72&v=4" width="24" alt="Avatar of azdanov"> azdanov
@@ -3272,11 +3300,11 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/thezdanov">thezdanov</a></td>
 		<td>Tallinn, Estonia</td>
-		<td>272</td>
-		<td>645</td>
+		<td>274</td>
+		<td>647</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/sunaurus">
 				<img src="https://avatars.githubusercontent.com/u/5356547?s=72&v=4" width="24" alt="Avatar of sunaurus"> sunaurus
@@ -3287,10 +3315,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>5</td>
-		<td>641</td>
+		<td>642</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/satyrius">
 				<img src="https://avatars.githubusercontent.com/u/278630?s=72&u=9801689afb67250adff1f3ea7bc8877a03370a93&v=4" width="24" alt="Avatar of satyrius"> satyrius
@@ -3304,7 +3332,21 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>640</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>232</td>
+		<td>
+			<a href="https://github.com/tomimarkus991">
+				<img src="https://avatars.githubusercontent.com/u/48998818?s=72&u=5c6a7d59c6108137577b616430766aaabaaeb7cb&v=4" width="24" alt="Avatar of tomimarkus991"> tomimarkus991
+			</a><br/>
+			Tomi Markus Alber
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>618</td>
+		<td>640</td>
+	</tr>
+	<tr>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/martinpaljak">
 				<img src="https://avatars.githubusercontent.com/u/46006?s=72&u=d9b0f516f25f7cb76c194efa3db1e2a1fe0dba81&v=4" width="24" alt="Avatar of martinpaljak"> martinpaljak
@@ -3318,7 +3360,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>637</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/lkraav">
 				<img src="https://avatars.githubusercontent.com/u/147228?s=72&v=4" width="24" alt="Avatar of lkraav"> lkraav
@@ -3329,10 +3371,24 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>166</td>
-		<td>630</td>
+		<td>632</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>235</td>
+		<td>
+			<a href="https://github.com/mllnd">
+				<img src="https://avatars.githubusercontent.com/u/5099275?s=72&u=52e31222d5f7e6816ca7f2e4cabc277f597cd884&v=4" width="24" alt="Avatar of mllnd"> mllnd
+			</a><br/>
+			Markkus Millend
+		</td>
+		<td>@eteu-technologies </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>98</td>
+		<td>626</td>
+	</tr>
+	<tr>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/tambet">
 				<img src="https://avatars.githubusercontent.com/u/1631?s=72&u=ced62b0fc5aa20c8ad7d1796e2f6d2ec2de7bad7&v=4" width="24" alt="Avatar of tambet"> tambet
@@ -3343,10 +3399,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>1</td>
-		<td>622</td>
+		<td>625</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/akshlu">
 				<img src="https://avatars.githubusercontent.com/u/460919?s=72&u=e24ffa3521de9fff31f34a5135adc9189eca467a&v=4" width="24" alt="Avatar of akshlu"> akshlu
@@ -3357,10 +3413,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
 		<td>0</td>
-		<td>617</td>
+		<td>621</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/koliada">
 				<img src="https://avatars.githubusercontent.com/u/1857764?s=72&u=d3f5790cbf004c5625e719b4b013ecffc25e78f0&v=4" width="24" alt="Avatar of koliada"> koliada
@@ -3374,7 +3430,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>616</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/brurucy">
 				<img src="https://avatars.githubusercontent.com/u/26032762?s=72&u=4676e2719603905b85b12abb8bd3751bc6cf158d&v=4" width="24" alt="Avatar of brurucy"> brurucy
@@ -3384,25 +3440,11 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tartu</td>
-		<td>308</td>
-		<td>614</td>
+		<td>309</td>
+		<td>615</td>
 	</tr>
 	<tr>
-		<td>236</td>
-		<td>
-			<a href="https://github.com/tomimarkus991">
-				<img src="https://avatars.githubusercontent.com/u/48998818?s=72&u=5c6a7d59c6108137577b616430766aaabaaeb7cb&v=4" width="24" alt="Avatar of tomimarkus991"> tomimarkus991
-			</a><br/>
-			Tomi Markus Alber
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>594</td>
-		<td>614</td>
-	</tr>
-	<tr>
-		<td>237</td>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/intermetric">
 				<img src="https://avatars.githubusercontent.com/u/32828239?s=72&u=7b93196676a6a41952c04605ae5a152369bde22d&v=4" width="24" alt="Avatar of intermetric"> intermetric
@@ -3416,7 +3458,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>613</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/jtdx-project">
 				<img src="https://avatars.githubusercontent.com/u/6583156?s=72&v=4" width="24" alt="Avatar of jtdx-project"> jtdx-project
@@ -3430,7 +3472,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>588</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/joras">
 				<img src="https://avatars.githubusercontent.com/u/128480?s=72&u=8d4f2df77348028dca725cc0dc5182084ee073f6&v=4" width="24" alt="Avatar of joras"> joras
@@ -3441,10 +3483,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia, Tallinn</td>
 		<td>20</td>
-		<td>587</td>
+		<td>588</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/ristotoldsep">
 				<img src="https://avatars.githubusercontent.com/u/57298993?s=72&u=0b135fad22ea0b4a1159e6d67edeaebee28db5a7&v=4" width="24" alt="Avatar of ristotoldsep"> ristotoldsep
@@ -3458,7 +3500,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>585</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/Ingramz">
 				<img src="https://avatars.githubusercontent.com/u/1017132?s=72&v=4" width="24" alt="Avatar of Ingramz"> Ingramz
@@ -3472,21 +3514,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>584</td>
 	</tr>
 	<tr>
-		<td>242</td>
-		<td>
-			<a href="https://github.com/mllnd">
-				<img src="https://avatars.githubusercontent.com/u/5099275?s=72&u=52e31222d5f7e6816ca7f2e4cabc277f597cd884&v=4" width="24" alt="Avatar of mllnd"> mllnd
-			</a><br/>
-			Markkus Millend
-		</td>
-		<td>@eteu-technologies </td>
-		<td>No Twitter Username</td>
-		<td>Tallinn, Estonia</td>
-		<td>98</td>
-		<td>584</td>
-	</tr>
-	<tr>
-		<td>243</td>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/makefunstuff">
 				<img src="https://avatars.githubusercontent.com/u/1908752?s=72&u=32543878082f25fa4e0cf7287d32e90ba46b6578&v=4" width="24" alt="Avatar of makefunstuff"> makefunstuff
@@ -3500,7 +3528,35 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>582</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>246</td>
+		<td>
+			<a href="https://github.com/nick-baliesnyi">
+				<img src="https://avatars.githubusercontent.com/u/25569111?s=72&u=23aae95b17b5689ce8440f4466f44e102fe71a5e&v=4" width="24" alt="Avatar of nick-baliesnyi"> nick-baliesnyi
+			</a><br/>
+			Nikita Baliesnyi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>127</td>
+		<td>582</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>
+			<a href="https://github.com/liinahamari">
+				<img src="https://avatars.githubusercontent.com/u/31106098?s=72&u=dec344be74880af600873280c4328c0dcb93cc40&v=4" width="24" alt="Avatar of liinahamari"> liinahamari
+			</a><br/>
+			liinahamari
+		</td>
+		<td>Glia </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>554</td>
+		<td>580</td>
+	</tr>
+	<tr>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/AShenawy">
 				<img src="https://avatars.githubusercontent.com/u/43609877?s=72&u=629dd298772faaf1034b4127a6b1855deb152e9f&v=4" width="24" alt="Avatar of AShenawy"> AShenawy
@@ -3514,7 +3570,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>577</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/JoosepAlviste">
 				<img src="https://avatars.githubusercontent.com/u/9450943?s=72&u=fe52d065569c202b6f967b42bca11b150e00c332&v=4" width="24" alt="Avatar of JoosepAlviste"> JoosepAlviste
@@ -3528,7 +3584,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>576</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/fayderflorez">
 				<img src="https://avatars.githubusercontent.com/u/693342?s=72&u=40e7af0b30033df5d40e4df1c575b9a6a14ecaf9&v=4" width="24" alt="Avatar of fayderflorez"> fayderflorez
@@ -3539,10 +3595,24 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tallinn</td>
 		<td>5</td>
-		<td>566</td>
+		<td>569</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>251</td>
+		<td>
+			<a href="https://github.com/Stopa">
+				<img src="https://avatars.githubusercontent.com/u/408256?s=72&u=e17aeea0cc3aeac6aa1ad8fa7a0ae2787696dc5e&v=4" width="24" alt="Avatar of Stopa"> Stopa
+			</a><br/>
+			Stepan Bolotnikov
+		</td>
+		<td>@snackable </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>41</td>
+		<td>568</td>
+	</tr>
+	<tr>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/Davis-sdk">
 				<img src="https://avatars.githubusercontent.com/u/57508302?s=72&u=3f045f1f5aa9f713ccc89202aef0c163c17f88ff&v=4" width="24" alt="Avatar of Davis-sdk"> Davis-sdk
@@ -3556,35 +3626,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>563</td>
 	</tr>
 	<tr>
-		<td>248</td>
-		<td>
-			<a href="https://github.com/Stopa">
-				<img src="https://avatars.githubusercontent.com/u/408256?s=72&u=e17aeea0cc3aeac6aa1ad8fa7a0ae2787696dc5e&v=4" width="24" alt="Avatar of Stopa"> Stopa
-			</a><br/>
-			Stepan Bolotnikov
-		</td>
-		<td>@snackable </td>
-		<td>No Twitter Username</td>
-		<td>Estonia</td>
-		<td>41</td>
-		<td>561</td>
-	</tr>
-	<tr>
-		<td>249</td>
-		<td>
-			<a href="https://github.com/liinahamari">
-				<img src="https://avatars.githubusercontent.com/u/31106098?s=72&u=dec344be74880af600873280c4328c0dcb93cc40&v=4" width="24" alt="Avatar of liinahamari"> liinahamari
-			</a><br/>
-			liinahamari
-		</td>
-		<td>Glia </td>
-		<td>No Twitter Username</td>
-		<td>Tallinn</td>
-		<td>535</td>
-		<td>561</td>
-	</tr>
-	<tr>
-		<td>250</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/jaankoppe">
 				<img src="https://avatars.githubusercontent.com/u/8870832?s=72&u=d2098b77b8132fdfe3d5a32c62d0f96ce258c8af&v=4" width="24" alt="Avatar of jaankoppe"> jaankoppe
@@ -3598,7 +3640,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>560</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/0x7b1">
 				<img src="https://avatars.githubusercontent.com/u/2180529?s=72&u=2a0e851944fd006f7691c28dbd78ae1d6bf965f0&v=4" width="24" alt="Avatar of 0x7b1"> 0x7b1
@@ -3609,10 +3651,10 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>359</td>
-		<td>554</td>
+		<td>558</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/Ravoit">
 				<img src="https://avatars.githubusercontent.com/u/982799?s=72&u=483892faf371afd58cbf1e2f814185564c5d926b&v=4" width="24" alt="Avatar of Ravoit"> Ravoit
@@ -3623,49 +3665,7 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Estonia</td>
 		<td>3</td>
-		<td>550</td>
-	</tr>
-	<tr>
-		<td>253</td>
-		<td>
-			<a href="https://github.com/nick-baliesnyi">
-				<img src="https://avatars.githubusercontent.com/u/25569111?s=72&u=23aae95b17b5689ce8440f4466f44e102fe71a5e&v=4" width="24" alt="Avatar of nick-baliesnyi"> nick-baliesnyi
-			</a><br/>
-			Nikita Baliesnyi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tartu, Estonia</td>
-		<td>127</td>
-		<td>548</td>
-	</tr>
-	<tr>
-		<td>254</td>
-		<td>
-			<a href="https://github.com/aaronuurman">
-				<img src="https://avatars.githubusercontent.com/u/6454582?s=72&u=ad2ba961b187a0ccd9847ecb60641dd73ff3f993&v=4" width="24" alt="Avatar of aaronuurman"> aaronuurman
-			</a><br/>
-			Aaron Uurman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Estonia, Tartu</td>
-		<td>222</td>
-		<td>536</td>
-	</tr>
-	<tr>
-		<td>255</td>
-		<td>
-			<a href="https://github.com/kristjanreinhold">
-				<img src="https://avatars.githubusercontent.com/u/5708520?s=72&u=fe891ee24449cfcd2662788f4f5d6307e7642199&v=4" width="24" alt="Avatar of kristjanreinhold"> kristjanreinhold
-			</a><br/>
-			Kristjan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tartu</td>
-		<td>3</td>
-		<td>534</td>
+		<td>553</td>
 	</tr>
 	<tr>
 		<td>256</td>
@@ -3678,8 +3678,8786 @@ There are `1000 users`  in Estonia. You need at least `5 followers` to be on thi
 		<td>欢乐无法党 </td>
 		<td>No Twitter Username</td>
 		<td>Tallinn, Estonia</td>
-		<td>123</td>
+		<td>134</td>
+		<td>548</td>
+	</tr>
+	<tr>
+		<td>257</td>
+		<td>
+			<a href="https://github.com/kristjanreinhold">
+				<img src="https://avatars.githubusercontent.com/u/5708520?s=72&u=fe891ee24449cfcd2662788f4f5d6307e7642199&v=4" width="24" alt="Avatar of kristjanreinhold"> kristjanreinhold
+			</a><br/>
+			Kristjan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu</td>
+		<td>3</td>
+		<td>537</td>
+	</tr>
+	<tr>
+		<td>258</td>
+		<td>
+			<a href="https://github.com/aaronuurman">
+				<img src="https://avatars.githubusercontent.com/u/6454582?s=72&u=ad2ba961b187a0ccd9847ecb60641dd73ff3f993&v=4" width="24" alt="Avatar of aaronuurman"> aaronuurman
+			</a><br/>
+			Aaron Uurman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tartu</td>
+		<td>222</td>
+		<td>537</td>
+	</tr>
+	<tr>
+		<td>259</td>
+		<td>
+			<a href="https://github.com/QAutomatron">
+				<img src="https://avatars.githubusercontent.com/u/15247795?s=72&u=ede3d4f7bd7a2365e2b4759debc68f28a0407b99&v=4" width="24" alt="Avatar of QAutomatron"> QAutomatron
+			</a><br/>
+			Evgenii S
+		</td>
+		<td>@bolteu </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>90</td>
+		<td>532</td>
+	</tr>
+	<tr>
+		<td>260</td>
+		<td>
+			<a href="https://github.com/denizkanmaz">
+				<img src="https://avatars.githubusercontent.com/u/16405275?s=72&u=1e869e3dccf61b320db804c21221591e9f48d141&v=4" width="24" alt="Avatar of denizkanmaz"> denizkanmaz
+			</a><br/>
+			Deniz Kanmaz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>30</td>
 		<td>528</td>
+	</tr>
+	<tr>
+		<td>261</td>
+		<td>
+			<a href="https://github.com/emresavas">
+				<img src="https://avatars.githubusercontent.com/u/570846?s=72&u=aa718019b590faa13c0b13573527fd14926fbdcd&v=4" width="24" alt="Avatar of emresavas"> emresavas
+			</a><br/>
+			Emre Savaş
+		</td>
+		<td>Prompt Api </td>
+		<td><a href="https://twitter.com/emresavas">emresavas</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>126</td>
+		<td>526</td>
+	</tr>
+	<tr>
+		<td>262</td>
+		<td>
+			<a href="https://github.com/alvarlaigna">
+				<img src="https://avatars.githubusercontent.com/u/216535?s=72&v=4" width="24" alt="Avatar of alvarlaigna"> alvarlaigna
+			</a><br/>
+			Alvar Laigna
+		</td>
+		<td>Bind Creative </td>
+		<td><a href="https://twitter.com/alvarlaigna">alvarlaigna</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>57</td>
+		<td>521</td>
+	</tr>
+	<tr>
+		<td>263</td>
+		<td>
+			<a href="https://github.com/onnimonni">
+				<img src="https://avatars.githubusercontent.com/u/5691777?s=72&u=0825adeddda773ec6b348c9aebe5ef0f04976b6e&v=4" width="24" alt="Avatar of onnimonni"> onnimonni
+			</a><br/>
+			Onni Hakala
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>20</td>
+		<td>519</td>
+	</tr>
+	<tr>
+		<td>264</td>
+		<td>
+			<a href="https://github.com/KotkaZ">
+				<img src="https://avatars.githubusercontent.com/u/56869558?s=72&u=7f200bea510d5547704d3442e3752652d50e2c81&v=4" width="24" alt="Avatar of KotkaZ"> KotkaZ
+			</a><br/>
+			Karl Rapur
+		</td>
+		<td>University Of Tartu </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>410</td>
+		<td>519</td>
+	</tr>
+	<tr>
+		<td>265</td>
+		<td>
+			<a href="https://github.com/Jyrno42">
+				<img src="https://avatars.githubusercontent.com/u/235804?s=72&v=4" width="24" alt="Avatar of Jyrno42"> Jyrno42
+			</a><br/>
+			Jürno Ader
+		</td>
+		<td>Thorgate </td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>153</td>
+		<td>518</td>
+	</tr>
+	<tr>
+		<td>266</td>
+		<td>
+			<a href="https://github.com/arokettu">
+				<img src="https://avatars.githubusercontent.com/u/963485?s=72&u=8e41ac7794973fe61d9159cfda4d077663e5bf5e&v=4" width="24" alt="Avatar of arokettu"> arokettu
+			</a><br/>
+			Anton Smirnov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>518</td>
+		<td>518</td>
+	</tr>
+	<tr>
+		<td>267</td>
+		<td>
+			<a href="https://github.com/magnushiie">
+				<img src="https://avatars.githubusercontent.com/u/734170?s=72&u=4e59e71c64e7f615abdd0344b614e04d750dfb5d&v=4" width="24" alt="Avatar of magnushiie"> magnushiie
+			</a><br/>
+			Magnus Hiie
+		</td>
+		<td>@6fold </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>4</td>
+		<td>518</td>
+	</tr>
+	<tr>
+		<td>268</td>
+		<td>
+			<a href="https://github.com/valango">
+				<img src="https://avatars.githubusercontent.com/u/191752?s=72&u=4c388cfb8b23e418472d9b337876ace1328c2e7c&v=4" width="24" alt="Avatar of valango"> valango
+			</a><br/>
+			Villem Alango
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mid-forest in Estonia, EU</td>
+		<td>516</td>
+		<td>516</td>
+	</tr>
+	<tr>
+		<td>269</td>
+		<td>
+			<a href="https://github.com/Semper-Viventem">
+				<img src="https://avatars.githubusercontent.com/u/18288554?s=72&u=0c05794807688560c3ba3c9c22deac8863fcf874&v=4" width="24" alt="Avatar of Semper-Viventem"> Semper-Viventem
+			</a><br/>
+			Konstantin Kulikov
+		</td>
+		<td>@bolteu </td>
+		<td><a href="https://twitter.com/Semper_Viventem">Semper_Viventem</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>84</td>
+		<td>514</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>
+			<a href="https://github.com/taivokasper">
+				<img src="https://avatars.githubusercontent.com/u/5394129?s=72&u=d873ee86a65b82c7e117ca62f56ede67e5c5a37c&v=4" width="24" alt="Avatar of taivokasper"> taivokasper
+			</a><br/>
+			Taivo Käsper
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>2</td>
+		<td>513</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>
+			<a href="https://github.com/dv">
+				<img src="https://avatars.githubusercontent.com/u/44360?s=72&v=4" width="24" alt="Avatar of dv"> dv
+			</a><br/>
+			David Verhasselt
+		</td>
+		<td>Crowdway </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>65</td>
+		<td>512</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
+			<a href="https://github.com/vmihalachi">
+				<img src="https://avatars.githubusercontent.com/u/956257?s=72&u=1b508f1ad0dee96039cd8403df645546244fb72d&v=4" width="24" alt="Avatar of vmihalachi"> vmihalachi
+			</a><br/>
+			Vlad Mihalachi
+		</td>
+		<td>@microsoft @docodeou  </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>34</td>
+		<td>510</td>
+	</tr>
+	<tr>
+		<td>273</td>
+		<td>
+			<a href="https://github.com/moll">
+				<img src="https://avatars.githubusercontent.com/u/156837?s=72&v=4" width="24" alt="Avatar of moll"> moll
+			</a><br/>
+			Andri Möll
+		</td>
+		<td>Monday Calendar </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>508</td>
+		<td>508</td>
+	</tr>
+	<tr>
+		<td>274</td>
+		<td>
+			<a href="https://github.com/manuelvulp">
+				<img src="https://avatars.githubusercontent.com/u/4316069?s=72&u=471ff37c5842a130d33b746019c63d4399bc5061&v=4" width="24" alt="Avatar of manuelvulp"> manuelvulp
+			</a><br/>
+			Manuel Vulp
+		</td>
+		<td>Vulpem </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>0</td>
+		<td>504</td>
+	</tr>
+	<tr>
+		<td>275</td>
+		<td>
+			<a href="https://github.com/davhojt">
+				<img src="https://avatars.githubusercontent.com/u/22807573?s=72&u=c0b7c3fbc5cd8440e0bf7cb2b0aeecba916fabd7&v=4" width="24" alt="Avatar of davhojt"> davhojt
+			</a><br/>
+			Dav Højt
+		</td>
+		<td>42 </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>0</td>
+		<td>495</td>
+	</tr>
+	<tr>
+		<td>276</td>
+		<td>
+			<a href="https://github.com/iharsuvorau">
+				<img src="https://avatars.githubusercontent.com/u/6259054?s=72&u=4e34fb6df27a1447e530f8d6a194c8b0e3a13903&v=4" width="24" alt="Avatar of iharsuvorau"> iharsuvorau
+			</a><br/>
+			Ihar Suvorau
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/suvorau">suvorau</a></td>
+		<td>Tartu, Estonia</td>
+		<td>399</td>
+		<td>495</td>
+	</tr>
+	<tr>
+		<td>277</td>
+		<td>
+			<a href="https://github.com/stalnuhhin">
+				<img src="https://avatars.githubusercontent.com/u/5136666?s=72&u=14fda9a4e1f318917fdd3cee1f44407ffe72fb0b&v=4" width="24" alt="Avatar of stalnuhhin"> stalnuhhin
+			</a><br/>
+			Anton Stalnuhhin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>483</td>
+		<td>483</td>
+	</tr>
+	<tr>
+		<td>278</td>
+		<td>
+			<a href="https://github.com/modulus100">
+				<img src="https://avatars.githubusercontent.com/u/21066393?s=72&u=50cd62a13ef65cf51a147abeaf4600e3ed1cb773&v=4" width="24" alt="Avatar of modulus100"> modulus100
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>482</td>
+		<td>482</td>
+	</tr>
+	<tr>
+		<td>279</td>
+		<td>
+			<a href="https://github.com/artizirk">
+				<img src="https://avatars.githubusercontent.com/u/1923870?s=72&v=4" width="24" alt="Avatar of artizirk"> artizirk
+			</a><br/>
+			Arti Zirk
+		</td>
+		<td>@krakul </td>
+		<td><a href="https://twitter.com/artizirk">artizirk</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>133</td>
+		<td>480</td>
+	</tr>
+	<tr>
+		<td>280</td>
+		<td>
+			<a href="https://github.com/ctepeo">
+				<img src="https://avatars.githubusercontent.com/u/2236036?s=72&u=bdc8cb7ca6b078c87b6a24a3d569d86f214e6109&v=4" width="24" alt="Avatar of ctepeo"> ctepeo
+			</a><br/>
+			Egor Sazanovich
+		</td>
+		<td>@pubappy @zroblena  </td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>22</td>
+		<td>477</td>
+	</tr>
+	<tr>
+		<td>281</td>
+		<td>
+			<a href="https://github.com/Blefish">
+				<img src="https://avatars.githubusercontent.com/u/1191779?s=72&u=63a6f9a0f05774bb79c85720d859de1e175141cd&v=4" width="24" alt="Avatar of Blefish"> Blefish
+			</a><br/>
+			Rudolf Tammekivi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>30</td>
+		<td>475</td>
+	</tr>
+	<tr>
+		<td>282</td>
+		<td>
+			<a href="https://github.com/maour">
+				<img src="https://avatars.githubusercontent.com/u/40244?s=72&u=16cdc6f0d94337ecb47d77b5fdf71bb60daea664&v=4" width="24" alt="Avatar of maour"> maour
+			</a><br/>
+			Majid Ramezanpour
+		</td>
+		<td>Pipedrive </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>10</td>
+		<td>471</td>
+	</tr>
+	<tr>
+		<td>283</td>
+		<td>
+			<a href="https://github.com/muhammednagy">
+				<img src="https://avatars.githubusercontent.com/u/18580720?s=72&u=43bcd6ec409d3e36e91c40de1123172d5c1419b7&v=4" width="24" alt="Avatar of muhammednagy"> muhammednagy
+			</a><br/>
+			Nagy Salem
+		</td>
+		<td>Pipedrive </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia.</td>
+		<td>215</td>
+		<td>468</td>
+	</tr>
+	<tr>
+		<td>284</td>
+		<td>
+			<a href="https://github.com/mrts">
+				<img src="https://avatars.githubusercontent.com/u/44880?s=72&v=4" width="24" alt="Avatar of mrts"> mrts
+			</a><br/>
+			Mart Sõmermaa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia (EET,  UTC +2 hours)</td>
+		<td>465</td>
+		<td>465</td>
+	</tr>
+	<tr>
+		<td>285</td>
+		<td>
+			<a href="https://github.com/nikklein">
+				<img src="https://avatars.githubusercontent.com/u/16370621?s=72&u=9f5c24526140d9d75ee1530a0ced1e1e2ff7dc03&v=4" width="24" alt="Avatar of nikklein"> nikklein
+			</a><br/>
+			Nik Klein
+		</td>
+		<td>Bilendo Gmbh </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>0</td>
+		<td>462</td>
+	</tr>
+	<tr>
+		<td>286</td>
+		<td>
+			<a href="https://github.com/lelumees">
+				<img src="https://avatars.githubusercontent.com/u/7032517?s=72&u=23a267438ad66af38168f166607e243804adb317&v=4" width="24" alt="Avatar of lelumees"> lelumees
+			</a><br/>
+			Rasmus Lelumees
+		</td>
+		<td> @bolteu </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>7</td>
+		<td>462</td>
+	</tr>
+	<tr>
+		<td>287</td>
+		<td>
+			<a href="https://github.com/raik">
+				<img src="https://avatars.githubusercontent.com/u/927409?s=72&u=89e28371945896f402b3444d4cd53f0df6542335&v=4" width="24" alt="Avatar of raik"> raik
+			</a><br/>
+			Raik Ilves
+		</td>
+		<td>@velvet-code  </td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>31</td>
+		<td>461</td>
+	</tr>
+	<tr>
+		<td>288</td>
+		<td>
+			<a href="https://github.com/techstonia">
+				<img src="https://avatars.githubusercontent.com/u/7985185?s=72&u=fb1db60caa34ab53232b5dd6b3b6256e8c9b99bb&v=4" width="24" alt="Avatar of techstonia"> techstonia
+			</a><br/>
+			Erik Hirmo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>66</td>
+		<td>461</td>
+	</tr>
+	<tr>
+		<td>289</td>
+		<td>
+			<a href="https://github.com/alanibrus">
+				<img src="https://avatars.githubusercontent.com/u/339874?s=72&u=1cb6bdbbe98c42ec0c9527acc3726bc96d0007a3&v=4" width="24" alt="Avatar of alanibrus"> alanibrus
+			</a><br/>
+			Alan Ibrus
+		</td>
+		<td>@epiprodux </td>
+		<td>No Twitter Username</td>
+		<td>Viljandi, Estonia</td>
+		<td>3</td>
+		<td>456</td>
+	</tr>
+	<tr>
+		<td>290</td>
+		<td>
+			<a href="https://github.com/pongstr">
+				<img src="https://avatars.githubusercontent.com/u/962502?s=72&u=3165e9c2be46ed65538dc64a3f8ad9dd00a7dc3b&v=4" width="24" alt="Avatar of pongstr"> pongstr
+			</a><br/>
+			Pongstr
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>16</td>
+		<td>455</td>
+	</tr>
+	<tr>
+		<td>291</td>
+		<td>
+			<a href="https://github.com/boroma4">
+				<img src="https://avatars.githubusercontent.com/u/52993491?s=72&u=a361b108aeec9c21f4ad35670b01682e7a7ec8b2&v=4" width="24" alt="Avatar of boroma4"> boroma4
+			</a><br/>
+			Bohdan Romashchenko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu</td>
+		<td>274</td>
+		<td>451</td>
+	</tr>
+	<tr>
+		<td>292</td>
+		<td>
+			<a href="https://github.com/shubnikofff">
+				<img src="https://avatars.githubusercontent.com/u/7568160?s=72&u=9f4e08e7fa829cd495e8cb70acee13c4780946dd&v=4" width="24" alt="Avatar of shubnikofff"> shubnikofff
+			</a><br/>
+			Alexey Shubnikov
+		</td>
+		<td>Paxful </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>449</td>
+		<td>449</td>
+	</tr>
+	<tr>
+		<td>293</td>
+		<td>
+			<a href="https://github.com/fcaldera">
+				<img src="https://avatars.githubusercontent.com/u/5233109?s=72&u=6a1dc8212dd7f2eb7d9ffdc4b4da2770890964b8&v=4" width="24" alt="Avatar of fcaldera"> fcaldera
+			</a><br/>
+			Fernando Caldera
+		</td>
+		<td>Pipedrive </td>
+		<td><a href="https://twitter.com/fcaldera">fcaldera</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>0</td>
+		<td>446</td>
+	</tr>
+	<tr>
+		<td>294</td>
+		<td>
+			<a href="https://github.com/seemk">
+				<img src="https://avatars.githubusercontent.com/u/5329631?s=72&v=4" width="24" alt="Avatar of seemk"> seemk
+			</a><br/>
+			Siim Kallas
+		</td>
+		<td>Splunk </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>183</td>
+		<td>444</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>
+			<a href="https://github.com/yasinaydinnet">
+				<img src="https://avatars.githubusercontent.com/u/1379677?s=72&u=b5cc1c816b39d866036a09e7378fb935610d0507&v=4" width="24" alt="Avatar of yasinaydinnet"> yasinaydinnet
+			</a><br/>
+			Ozgur Yasin Aydin
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/yasinaydinnet">yasinaydinnet</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>268</td>
+		<td>438</td>
+	</tr>
+	<tr>
+		<td>296</td>
+		<td>
+			<a href="https://github.com/andreyrozumnyi">
+				<img src="https://avatars.githubusercontent.com/u/1843935?s=72&u=5de8662e5f05fa363a910e95e75e28ba8be11303&v=4" width="24" alt="Avatar of andreyrozumnyi"> andreyrozumnyi
+			</a><br/>
+			Andrii Rozumnyi
+		</td>
+		<td>Pipedrive </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>0</td>
+		<td>437</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>
+			<a href="https://github.com/cancit">
+				<img src="https://avatars.githubusercontent.com/u/9624502?s=72&u=d5bb2c897896e7f60b20b5a2b395f62dc44ea0c5&v=4" width="24" alt="Avatar of cancit"> cancit
+			</a><br/>
+			Can Çitoğlu
+		</td>
+		<td>@twilio </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>11</td>
+		<td>435</td>
+	</tr>
+	<tr>
+		<td>298</td>
+		<td>
+			<a href="https://github.com/KasparRosin">
+				<img src="https://avatars.githubusercontent.com/u/33309407?s=72&v=4" width="24" alt="Avatar of KasparRosin"> KasparRosin
+			</a><br/>
+			Kaspar Rosin
+		</td>
+		<td>@optimistdigital  </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>429</td>
+		<td>429</td>
+	</tr>
+	<tr>
+		<td>299</td>
+		<td>
+			<a href="https://github.com/lauriro">
+				<img src="https://avatars.githubusercontent.com/u/142360?s=72&v=4" width="24" alt="Avatar of lauriro"> lauriro
+			</a><br/>
+			Lauri Rooden
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>428</td>
+		<td>428</td>
+	</tr>
+	<tr>
+		<td>300</td>
+		<td>
+			<a href="https://github.com/OFFLlNE">
+				<img src="https://avatars.githubusercontent.com/u/8721312?s=72&u=86337e57632b896756d4b1f628684c5fca129ae0&v=4" width="24" alt="Avatar of OFFLlNE"> OFFLlNE
+			</a><br/>
+			Lauri Välja
+		</td>
+		<td>Wise </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>55</td>
+		<td>424</td>
+	</tr>
+	<tr>
+		<td>301</td>
+		<td>
+			<a href="https://github.com/atas76">
+				<img src="https://avatars.githubusercontent.com/u/3316830?s=72&v=4" width="24" alt="Avatar of atas76"> atas76
+			</a><br/>
+			Andreas Tasoulas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>318</td>
+		<td>416</td>
+	</tr>
+	<tr>
+		<td>302</td>
+		<td>
+			<a href="https://github.com/inugami-dev64">
+				<img src="https://avatars.githubusercontent.com/u/64209238?s=72&u=804d7ced1fe55c142b758908d1649c04167c9bd0&v=4" width="24" alt="Avatar of inugami-dev64"> inugami-dev64
+			</a><br/>
+			Karl-Mihkel Ott
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>413</td>
+		<td>413</td>
+	</tr>
+	<tr>
+		<td>303</td>
+		<td>
+			<a href="https://github.com/amPerl">
+				<img src="https://avatars.githubusercontent.com/u/461652?s=72&u=f47ca833276b5e70f6babc77786c7753aa32c128&v=4" width="24" alt="Avatar of amPerl"> amPerl
+			</a><br/>
+			Romet Tagobert
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>15</td>
+		<td>411</td>
+	</tr>
+	<tr>
+		<td>304</td>
+		<td>
+			<a href="https://github.com/turok1997">
+				<img src="https://avatars.githubusercontent.com/u/10157540?s=72&v=4" width="24" alt="Avatar of turok1997"> turok1997
+			</a><br/>
+			Turkhan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>411</td>
+		<td>411</td>
+	</tr>
+	<tr>
+		<td>305</td>
+		<td>
+			<a href="https://github.com/enliktjioe">
+				<img src="https://avatars.githubusercontent.com/u/1674366?s=72&u=c6bb731076985a72190bc9af9ae06931911d5d62&v=4" width="24" alt="Avatar of enliktjioe"> enliktjioe
+			</a><br/>
+			Enlik Tjioe
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/enlik">enlik</a></td>
+		<td>Tartu, Estonia</td>
+		<td>390</td>
+		<td>406</td>
+	</tr>
+	<tr>
+		<td>306</td>
+		<td>
+			<a href="https://github.com/askel4dd">
+				<img src="https://avatars.githubusercontent.com/u/7442658?s=72&u=8f1f89bc337f7f6eb7000bd4d498a5d1c56481c0&v=4" width="24" alt="Avatar of askel4dd"> askel4dd
+			</a><br/>
+			Dmitriy Savin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>5</td>
+		<td>403</td>
+	</tr>
+	<tr>
+		<td>307</td>
+		<td>
+			<a href="https://github.com/KartulUdus">
+				<img src="https://avatars.githubusercontent.com/u/23346150?s=72&u=ef44ca90b62b4e91bf81dc644066c349fe38bfa6&v=4" width="24" alt="Avatar of KartulUdus"> KartulUdus
+			</a><br/>
+			Derek Mäekask
+		</td>
+		<td>@poraclejs  </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>94</td>
+		<td>395</td>
+	</tr>
+	<tr>
+		<td>308</td>
+		<td>
+			<a href="https://github.com/janesmae">
+				<img src="https://avatars.githubusercontent.com/u/2997606?s=72&u=ac8773fc4e287d5d585168e0b6255c904ffffa6e&v=4" width="24" alt="Avatar of janesmae"> janesmae
+			</a><br/>
+			Jaan Jänesmäe
+		</td>
+		<td>@kwad-ee & @kwad-space </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>193</td>
+		<td>394</td>
+	</tr>
+	<tr>
+		<td>309</td>
+		<td>
+			<a href="https://github.com/ErkoRisthein">
+				<img src="https://avatars.githubusercontent.com/u/294801?s=72&u=528a1723182a6cc712c6845c33d2f4c4868c4cb7&v=4" width="24" alt="Avatar of ErkoRisthein"> ErkoRisthein
+			</a><br/>
+			Erko Risthein
+		</td>
+		<td>@producement.com </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia </td>
+		<td>306</td>
+		<td>394</td>
+	</tr>
+	<tr>
+		<td>310</td>
+		<td>
+			<a href="https://github.com/DmitryPR">
+				<img src="https://avatars.githubusercontent.com/u/949197?s=72&u=6ef195682dae7ffa77ec5bbe5e715a9b2e6a1158&v=4" width="24" alt="Avatar of DmitryPR"> DmitryPR
+			</a><br/>
+			Dmitry Preobrazhenskiy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>9</td>
+		<td>390</td>
+	</tr>
+	<tr>
+		<td>311</td>
+		<td>
+			<a href="https://github.com/valgur">
+				<img src="https://avatars.githubusercontent.com/u/1778160?s=72&u=09b9504bdc695d5adbe1c0c6ffd2b3ce5cc5bd2e&v=4" width="24" alt="Avatar of valgur"> valgur
+			</a><br/>
+			Martin Valgur
+		</td>
+		<td>Milrem Robotics </td>
+		<td><a href="https://twitter.com/MartinValgur">MartinValgur</a></td>
+		<td>Tartu, Estonia</td>
+		<td>373</td>
+		<td>388</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>
+			<a href="https://github.com/77ccreed">
+				<img src="https://avatars.githubusercontent.com/u/32397184?s=72&u=78ead5e5bd93b0eeb2802eb81996f9caa3064629&v=4" width="24" alt="Avatar of 77ccreed"> 77ccreed
+			</a><br/>
+			Kiur Jullis
+		</td>
+		<td>Oü Kodulehe Tellimine </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>385</td>
+		<td>385</td>
+	</tr>
+	<tr>
+		<td>313</td>
+		<td>
+			<a href="https://github.com/riccardotommasini">
+				<img src="https://avatars.githubusercontent.com/u/2592465?s=72&v=4" width="24" alt="Avatar of riccardotommasini"> riccardotommasini
+			</a><br/>
+			Riccardo Tommasini
+		</td>
+		<td>University Of Tartu </td>
+		<td><a href="https://twitter.com/rictomm">rictomm</a></td>
+		<td>Tartu</td>
+		<td>289</td>
+		<td>382</td>
+	</tr>
+	<tr>
+		<td>314</td>
+		<td>
+			<a href="https://github.com/Orzelius">
+				<img src="https://avatars.githubusercontent.com/u/33936483?s=72&u=34e9e0ddb72420b0dacc86c08a63e2b642fc4173&v=4" width="24" alt="Avatar of Orzelius"> Orzelius
+			</a><br/>
+			Albert Kostusev
+		</td>
+		<td>Veriff </td>
+		<td><a href="https://twitter.com/Orzelius">Orzelius</a></td>
+		<td>Estonia</td>
+		<td>377</td>
+		<td>381</td>
+	</tr>
+	<tr>
+		<td>315</td>
+		<td>
+			<a href="https://github.com/mudcrab">
+				<img src="https://avatars.githubusercontent.com/u/427586?s=72&u=54a587321fbecb7104cff3b34802064fa0629539&v=4" width="24" alt="Avatar of mudcrab"> mudcrab
+			</a><br/>
+			Jevgeni Sillar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>22</td>
+		<td>378</td>
+	</tr>
+	<tr>
+		<td>316</td>
+		<td>
+			<a href="https://github.com/xprnio">
+				<img src="https://avatars.githubusercontent.com/u/3042904?s=72&u=868919ceb9679a7ef8f3da0195b422ef278e7847&v=4" width="24" alt="Avatar of xprnio"> xprnio
+			</a><br/>
+			Ragnar Laud
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>40</td>
+		<td>376</td>
+	</tr>
+	<tr>
+		<td>317</td>
+		<td>
+			<a href="https://github.com/KadriGbemi">
+				<img src="https://avatars.githubusercontent.com/u/36003131?s=72&u=eb37f9a6e138a8b7eb7ba780202b2cf890212310&v=4" width="24" alt="Avatar of KadriGbemi"> KadriGbemi
+			</a><br/>
+			Kadri Gbemi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>17</td>
+		<td>374</td>
+	</tr>
+	<tr>
+		<td>318</td>
+		<td>
+			<a href="https://github.com/bifidokk">
+				<img src="https://avatars.githubusercontent.com/u/425272?s=72&u=167b972ddda9ab222d416abcee4923d22f73bdb4&v=4" width="24" alt="Avatar of bifidokk"> bifidokk
+			</a><br/>
+			Danil
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>229</td>
+		<td>374</td>
+	</tr>
+	<tr>
+		<td>319</td>
+		<td>
+			<a href="https://github.com/Soupstraw">
+				<img src="https://avatars.githubusercontent.com/u/6863341?s=72&u=fae3ed18989c2ba33a88d8a1c4959a1afa5f55af&v=4" width="24" alt="Avatar of Soupstraw"> Soupstraw
+			</a><br/>
+			Joosep Jääger
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>299</td>
+		<td>369</td>
+	</tr>
+	<tr>
+		<td>320</td>
+		<td>
+			<a href="https://github.com/pepzwee">
+				<img src="https://avatars.githubusercontent.com/u/3263204?s=72&u=d8524880e39848f873807f7c3ade3b256859be4c&v=4" width="24" alt="Avatar of pepzwee"> pepzwee
+			</a><br/>
+			Kristjan Kirpu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>11</td>
+		<td>366</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
+			<a href="https://github.com/jhaesus">
+				<img src="https://avatars.githubusercontent.com/u/873292?s=72&u=5b74e0d2a2fae96ad976522717f6a04cf60fc086&v=4" width="24" alt="Avatar of jhaesus"> jhaesus
+			</a><br/>
+			Rainer Sai
+		</td>
+		<td>High Mobility </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>0</td>
+		<td>365</td>
+	</tr>
+	<tr>
+		<td>322</td>
+		<td>
+			<a href="https://github.com/allanlaal">
+				<img src="https://avatars.githubusercontent.com/u/740826?s=72&u=0bf5b4ec2ff23fa666669aedd4b78621dc048fad&v=4" width="24" alt="Avatar of allanlaal"> allanlaal
+			</a><br/>
+			Allan Laal
+		</td>
+		<td>Permanent.ee </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>136</td>
+		<td>362</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
+			<a href="https://github.com/mikhail-tokarev">
+				<img src="https://avatars.githubusercontent.com/u/5412536?s=72&u=ada4ff157296e4cebacd3e084012e2a9cbec0b84&v=4" width="24" alt="Avatar of mikhail-tokarev"> mikhail-tokarev
+			</a><br/>
+			Mikhail Tokarev
+		</td>
+		<td>Codemagic </td>
+		<td><a href="https://twitter.com/tokarevnotes">tokarevnotes</a></td>
+		<td>Estonia</td>
+		<td>44</td>
+		<td>361</td>
+	</tr>
+	<tr>
+		<td>324</td>
+		<td>
+			<a href="https://github.com/priitlatt">
+				<img src="https://avatars.githubusercontent.com/u/2756611?s=72&v=4" width="24" alt="Avatar of priitlatt"> priitlatt
+			</a><br/>
+			Priit Lätt
+		</td>
+		<td>Nevercode </td>
+		<td>No Twitter Username</td>
+		<td>Tartu</td>
+		<td>360</td>
+		<td>360</td>
+	</tr>
+	<tr>
+		<td>325</td>
+		<td>
+			<a href="https://github.com/taunoe">
+				<img src="https://avatars.githubusercontent.com/u/1520326?s=72&v=4" width="24" alt="Avatar of taunoe"> taunoe
+			</a><br/>
+			Tauno Erik
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>357</td>
+		<td>358</td>
+	</tr>
+	<tr>
+		<td>326</td>
+		<td>
+			<a href="https://github.com/Rauno56">
+				<img src="https://avatars.githubusercontent.com/u/1334536?s=72&u=edd8fae59d8f155feb80d67e1446227d0cd0ae1b&v=4" width="24" alt="Avatar of Rauno56"> Rauno56
+			</a><br/>
+			Rauno Viskus
+		</td>
+		<td>Splunk </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>167</td>
+		<td>355</td>
+	</tr>
+	<tr>
+		<td>327</td>
+		<td>
+			<a href="https://github.com/andybega">
+				<img src="https://avatars.githubusercontent.com/u/1353756?s=72&u=c96f58e1a03ab73feb800aa1b9f6bb9d23fe750f&v=4" width="24" alt="Avatar of andybega"> andybega
+			</a><br/>
+			Andreas Beger
+		</td>
+		<td>Predictive Heuristics </td>
+		<td><a href="https://twitter.com/andybeega">andybeega</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>348</td>
+		<td>348</td>
+	</tr>
+	<tr>
+		<td>328</td>
+		<td>
+			<a href="https://github.com/4nd3r">
+				<img src="https://avatars.githubusercontent.com/u/7166727?s=72&u=c1d8a0a8bc44f5f7693a314596d79c545a1b75da&v=4" width="24" alt="Avatar of 4nd3r"> 4nd3r
+			</a><br/>
+			Ander Punnar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>277</td>
+		<td>341</td>
+	</tr>
+	<tr>
+		<td>329</td>
+		<td>
+			<a href="https://github.com/zinoadidi">
+				<img src="https://avatars.githubusercontent.com/u/30411401?s=72&u=90508b837d8103edc2c155ba01179aa791be5bca&v=4" width="24" alt="Avatar of zinoadidi"> zinoadidi
+			</a><br/>
+			Zino Adidi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>333</td>
+		<td>341</td>
+	</tr>
+	<tr>
+		<td>330</td>
+		<td>
+			<a href="https://github.com/argoroots">
+				<img src="https://avatars.githubusercontent.com/u/783523?s=72&v=4" width="24" alt="Avatar of argoroots"> argoroots
+			</a><br/>
+			Argo Roots
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>325</td>
+		<td>336</td>
+	</tr>
+	<tr>
+		<td>331</td>
+		<td>
+			<a href="https://github.com/mostafasoufi">
+				<img src="https://avatars.githubusercontent.com/u/701520?s=72&v=4" width="24" alt="Avatar of mostafasoufi"> mostafasoufi
+			</a><br/>
+			Mostafa Soufi
+		</td>
+		<td>Veronalabs Oü </td>
+		<td><a href="https://twitter.com/mostafa_soufi">mostafa_soufi</a></td>
+		<td>Estonia</td>
+		<td>290</td>
+		<td>327</td>
+	</tr>
+	<tr>
+		<td>332</td>
+		<td>
+			<a href="https://github.com/aalekseev">
+				<img src="https://avatars.githubusercontent.com/u/7049500?s=72&u=b39f988f3db62260c6a0583b1badb82301bb55fd&v=4" width="24" alt="Avatar of aalekseev"> aalekseev
+			</a><br/>
+			Anton Alekseev
+		</td>
+		<td>@thorgate, @robohead </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>115</td>
+		<td>327</td>
+	</tr>
+	<tr>
+		<td>333</td>
+		<td>
+			<a href="https://github.com/kmoppel">
+				<img src="https://avatars.githubusercontent.com/u/346788?s=72&u=4d4d74f77d3fed90492378c5c2c727945e3f4251&v=4" width="24" alt="Avatar of kmoppel"> kmoppel
+			</a><br/>
+			Kaarel Moppel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>326</td>
+		<td>326</td>
+	</tr>
+	<tr>
+		<td>334</td>
+		<td>
+			<a href="https://github.com/ersinkoc">
+				<img src="https://avatars.githubusercontent.com/u/408479?s=72&v=4" width="24" alt="Avatar of ersinkoc"> ersinkoc
+			</a><br/>
+			Ersin KOÇ
+		</td>
+		<td>Oxog Technology Oü </td>
+		<td><a href="https://twitter.com/ersinkoc">ersinkoc</a></td>
+		<td>Tallinn</td>
+		<td>59</td>
+		<td>326</td>
+	</tr>
+	<tr>
+		<td>335</td>
+		<td>
+			<a href="https://github.com/BondarenkoStas">
+				<img src="https://avatars.githubusercontent.com/u/18336802?s=72&u=98d3bc07313764a9a5a0f3a6455b8838aa5bdb5c&v=4" width="24" alt="Avatar of BondarenkoStas"> BondarenkoStas
+			</a><br/>
+			Stanislav Bondarenko
+		</td>
+		<td>Https://codemagic.io </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>265</td>
+		<td>325</td>
+	</tr>
+	<tr>
+		<td>336</td>
+		<td>
+			<a href="https://github.com/Zverik">
+				<img src="https://avatars.githubusercontent.com/u/766031?s=72&v=4" width="24" alt="Avatar of Zverik"> Zverik
+			</a><br/>
+			Ilya Zverev
+		</td>
+		<td>Lyft @lyft </td>
+		<td><a href="https://twitter.com/ilyazver">ilyazver</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>324</td>
+		<td>324</td>
+	</tr>
+	<tr>
+		<td>337</td>
+		<td>
+			<a href="https://github.com/lalarustamli">
+				<img src="https://avatars.githubusercontent.com/u/23105462?s=72&u=79fef13b8edfbf77184c22569c62fd813c1218bb&v=4" width="24" alt="Avatar of lalarustamli"> lalarustamli
+			</a><br/>
+			Lala Rustamli
+		</td>
+		<td>@codeacademylab  </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>59</td>
+		<td>321</td>
+	</tr>
+	<tr>
+		<td>338</td>
+		<td>
+			<a href="https://github.com/nev3rm0re">
+				<img src="https://avatars.githubusercontent.com/u/55520?s=72&v=4" width="24" alt="Avatar of nev3rm0re"> nev3rm0re
+			</a><br/>
+			German Rumm
+		</td>
+		<td>Gangrel Ou </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>8</td>
+		<td>320</td>
+	</tr>
+	<tr>
+		<td>339</td>
+		<td>
+			<a href="https://github.com/indigothm">
+				<img src="https://avatars.githubusercontent.com/u/6455846?s=72&u=2f516b085509061c7666af9bfc9acca97f507208&v=4" width="24" alt="Avatar of indigothm"> indigothm
+			</a><br/>
+			Elliot (Ilia) Tikhomirov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>21</td>
+		<td>320</td>
+	</tr>
+	<tr>
+		<td>340</td>
+		<td>
+			<a href="https://github.com/rebane2001">
+				<img src="https://avatars.githubusercontent.com/u/6316541?s=72&u=cf281778c50611e18fbd64b4092c8f5efb0f3efa&v=4" width="24" alt="Avatar of rebane2001"> rebane2001
+			</a><br/>
+			Jasper Rebane
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>274</td>
+		<td>315</td>
+	</tr>
+	<tr>
+		<td>341</td>
+		<td>
+			<a href="https://github.com/mattiaslinnap">
+				<img src="https://avatars.githubusercontent.com/u/315310?s=72&u=aefe5705fc8679853ee544f902e709eddaa55a3c&v=4" width="24" alt="Avatar of mattiaslinnap"> mattiaslinnap
+			</a><br/>
+			Mattias Linnap
+		</td>
+		<td>Starship Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>3</td>
+		<td>310</td>
+	</tr>
+	<tr>
+		<td>342</td>
+		<td>
+			<a href="https://github.com/kyberorg">
+				<img src="https://avatars.githubusercontent.com/u/4687253?s=72&u=95ebe2accc0c6227ec652ecbbdfae58caf9f78df&v=4" width="24" alt="Avatar of kyberorg"> kyberorg
+			</a><br/>
+			Aleksandr Muravja
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kyberorg">kyberorg</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>306</td>
+		<td>308</td>
+	</tr>
+	<tr>
+		<td>343</td>
+		<td>
+			<a href="https://github.com/pronto2000">
+				<img src="https://avatars.githubusercontent.com/u/5182866?s=72&v=4" width="24" alt="Avatar of pronto2000"> pronto2000
+			</a><br/>
+			Tanel Raja
+		</td>
+		<td>Vaimo </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>2</td>
+		<td>305</td>
+	</tr>
+	<tr>
+		<td>344</td>
+		<td>
+			<a href="https://github.com/tristankrass">
+				<img src="https://avatars.githubusercontent.com/u/30598459?s=72&u=c210a311ac94315df1d4452a2aa697cabeeb93c9&v=4" width="24" alt="Avatar of tristankrass"> tristankrass
+			</a><br/>
+			Tristan Krass
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>36</td>
+		<td>300</td>
+	</tr>
+	<tr>
+		<td>345</td>
+		<td>
+			<a href="https://github.com/hbokmann">
+				<img src="https://avatars.githubusercontent.com/u/939678?s=72&u=66354a5a6f31ad520d59e571bbae44f9b3334787&v=4" width="24" alt="Avatar of hbokmann"> hbokmann
+			</a><br/>
+			Hans-Jürgen Pokmann
+		</td>
+		<td>Enhanced Trading Strategies </td>
+		<td><a href="https://twitter.com/hbokmann">hbokmann</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>0</td>
+		<td>298</td>
+	</tr>
+	<tr>
+		<td>346</td>
+		<td>
+			<a href="https://github.com/tauntz">
+				<img src="https://avatars.githubusercontent.com/u/55713?s=72&u=5350d0338bb51fe88dff413610266571f421496b&v=4" width="24" alt="Avatar of tauntz"> tauntz
+			</a><br/>
+			Tauno Talimaa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>6</td>
+		<td>297</td>
+	</tr>
+	<tr>
+		<td>347</td>
+		<td>
+			<a href="https://github.com/allanpaiste">
+				<img src="https://avatars.githubusercontent.com/u/3738135?s=72&u=3f1faa9dad4e6e9714614010bc0dd0b45fd07f40&v=4" width="24" alt="Avatar of allanpaiste"> allanpaiste
+			</a><br/>
+			Allan Paiste
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AllanPaiste">AllanPaiste</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>133</td>
+		<td>296</td>
+	</tr>
+	<tr>
+		<td>348</td>
+		<td>
+			<a href="https://github.com/miamibc">
+				<img src="https://avatars.githubusercontent.com/u/197494?s=72&u=6e396f5e676ca56a1cab75092ddac25a84a3ea46&v=4" width="24" alt="Avatar of miamibc"> miamibc
+			</a><br/>
+			Sergei Miami
+		</td>
+		<td>Blackcrystal </td>
+		<td><a href="https://twitter.com/miamibc">miamibc</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>287</td>
+		<td>288</td>
+	</tr>
+	<tr>
+		<td>349</td>
+		<td>
+			<a href="https://github.com/kauralasoo">
+				<img src="https://avatars.githubusercontent.com/u/508224?s=72&v=4" width="24" alt="Avatar of kauralasoo"> kauralasoo
+			</a><br/>
+			Kaur Alasoo
+		</td>
+		<td>University Of Tartu </td>
+		<td><a href="https://twitter.com/kauralasoo">kauralasoo</a></td>
+		<td>Tartu, Estonia</td>
+		<td>286</td>
+		<td>286</td>
+	</tr>
+	<tr>
+		<td>350</td>
+		<td>
+			<a href="https://github.com/ArtemZajtsev">
+				<img src="https://avatars.githubusercontent.com/u/16276293?s=72&u=d9c2c0af03ea303df22836a122d64e42de9a4d10&v=4" width="24" alt="Avatar of ArtemZajtsev"> ArtemZajtsev
+			</a><br/>
+			Artem Zaitsev
+		</td>
+		<td>@pipedrive  </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>0</td>
+		<td>285</td>
+	</tr>
+	<tr>
+		<td>351</td>
+		<td>
+			<a href="https://github.com/robertpallas">
+				<img src="https://avatars.githubusercontent.com/u/1502325?s=72&v=4" width="24" alt="Avatar of robertpallas"> robertpallas
+			</a><br/>
+			Robert Pallas
+		</td>
+		<td>@devtailor  </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>1</td>
+		<td>281</td>
+	</tr>
+	<tr>
+		<td>352</td>
+		<td>
+			<a href="https://github.com/underoot">
+				<img src="https://avatars.githubusercontent.com/u/2480721?s=72&u=cc2288d468788327f2fbe75f6c7d9421bcf6e9d9&v=4" width="24" alt="Avatar of underoot"> underoot
+			</a><br/>
+			Aleksandr Shoronov
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/underoot">underoot</a></td>
+		<td>Tallinn</td>
+		<td>210</td>
+		<td>280</td>
+	</tr>
+	<tr>
+		<td>353</td>
+		<td>
+			<a href="https://github.com/DenisK0s">
+				<img src="https://avatars.githubusercontent.com/u/70600163?s=72&v=4" width="24" alt="Avatar of DenisK0s"> DenisK0s
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>275</td>
+		<td>275</td>
+	</tr>
+	<tr>
+		<td>354</td>
+		<td>
+			<a href="https://github.com/mikecamara">
+				<img src="https://avatars.githubusercontent.com/u/8085864?s=72&u=637a24b500ba07f3c7b358a47c48e9e5a24729bd&v=4" width="24" alt="Avatar of mikecamara"> mikecamara
+			</a><br/>
+			Mike Gomes Camara
+		</td>
+		<td>@mikecamara </td>
+		<td><a href="https://twitter.com/mikegomescamara">mikegomescamara</a></td>
+		<td>Tallinn - Estonia</td>
+		<td>31</td>
+		<td>272</td>
+	</tr>
+	<tr>
+		<td>355</td>
+		<td>
+			<a href="https://github.com/Artamus">
+				<img src="https://avatars.githubusercontent.com/u/4471083?s=72&u=7b82d827086f56397ebcd5f7a2b2c324cbae9075&v=4" width="24" alt="Avatar of Artamus"> Artamus
+			</a><br/>
+			Markus Loide
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>94</td>
+		<td>264</td>
+	</tr>
+	<tr>
+		<td>356</td>
+		<td>
+			<a href="https://github.com/bruno-farias">
+				<img src="https://avatars.githubusercontent.com/u/5460340?s=72&u=5fb901251230523541aa19f94c879797b307ffc7&v=4" width="24" alt="Avatar of bruno-farias"> bruno-farias
+			</a><br/>
+			Bruno Farias
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/brunofarias">brunofarias</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>53</td>
+		<td>263</td>
+	</tr>
+	<tr>
+		<td>357</td>
+		<td>
+			<a href="https://github.com/levitation">
+				<img src="https://avatars.githubusercontent.com/u/3122755?s=72&v=4" width="24" alt="Avatar of levitation"> levitation
+			</a><br/>
+			Roland Pihlakas
+		</td>
+		<td>Simplify / Macrotec Llc<br/></td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>260</td>
+		<td>260</td>
+	</tr>
+	<tr>
+		<td>358</td>
+		<td>
+			<a href="https://github.com/amefonaffia">
+				<img src="https://avatars.githubusercontent.com/u/20369026?s=72&u=7babe6a386bf1ec65f9d7fbc33b35503f1b625bf&v=4" width="24" alt="Avatar of amefonaffia"> amefonaffia
+			</a><br/>
+			Abasi-amefon Affia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>187</td>
+		<td>258</td>
+	</tr>
+	<tr>
+		<td>359</td>
+		<td>
+			<a href="https://github.com/animesh2049">
+				<img src="https://avatars.githubusercontent.com/u/15055935?s=72&u=b15480c418179a7460ce3792cfe1cef7c81ea204&v=4" width="24" alt="Avatar of animesh2049"> animesh2049
+			</a><br/>
+			Animesh Chandra Pathak
+		</td>
+		<td>@project-echo </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>40</td>
+		<td>257</td>
+	</tr>
+	<tr>
+		<td>360</td>
+		<td>
+			<a href="https://github.com/OmIkRoNiXz">
+				<img src="https://avatars.githubusercontent.com/u/108257?s=72&v=4" width="24" alt="Avatar of OmIkRoNiXz"> OmIkRoNiXz
+			</a><br/>
+			Pavel Krõlov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>0</td>
+		<td>257</td>
+	</tr>
+	<tr>
+		<td>361</td>
+		<td>
+			<a href="https://github.com/alkali147">
+				<img src="https://avatars.githubusercontent.com/u/147619?s=72&u=80702b776781134b4b41fb422837d22625001f8a&v=4" width="24" alt="Avatar of alkali147"> alkali147
+			</a><br/>
+			Roman Khomasuridze
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>0</td>
+		<td>257</td>
+	</tr>
+	<tr>
+		<td>362</td>
+		<td>
+			<a href="https://github.com/markuskont">
+				<img src="https://avatars.githubusercontent.com/u/7421406?s=72&u=c28f2f860b8e35ac38baf392eb698349f21c6859&v=4" width="24" alt="Avatar of markuskont"> markuskont
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/markuskont">markuskont</a></td>
+		<td>Estonia</td>
+		<td>256</td>
+		<td>256</td>
+	</tr>
+	<tr>
+		<td>363</td>
+		<td>
+			<a href="https://github.com/randomdude999">
+				<img src="https://avatars.githubusercontent.com/u/10598847?s=72&u=29b8ad5811abb26582a65e2e960c6a1dab512e0c&v=4" width="24" alt="Avatar of randomdude999"> randomdude999
+			</a><br/>
+			randomdude999
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>253</td>
+		<td>253</td>
+	</tr>
+	<tr>
+		<td>364</td>
+		<td>
+			<a href="https://github.com/allixender">
+				<img src="https://avatars.githubusercontent.com/u/4483885?s=72&u=2ab66c92d2d38c7e71807284888b31c9b9696828&v=4" width="24" alt="Avatar of allixender"> allixender
+			</a><br/>
+			Alex Kmoch
+		</td>
+		<td>University Of Tartu </td>
+		<td><a href="https://twitter.com/allixender">allixender</a></td>
+		<td>Estonia</td>
+		<td>204</td>
+		<td>248</td>
+	</tr>
+	<tr>
+		<td>365</td>
+		<td>
+			<a href="https://github.com/PureIso">
+				<img src="https://avatars.githubusercontent.com/u/3818856?s=72&v=4" width="24" alt="Avatar of PureIso"> PureIso
+			</a><br/>
+			Ola
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn - Estonia</td>
+		<td>243</td>
+		<td>243</td>
+	</tr>
+	<tr>
+		<td>366</td>
+		<td>
+			<a href="https://github.com/flaki">
+				<img src="https://avatars.githubusercontent.com/u/2089432?s=72&u=bc3128b1fcb15884e08a4131577e3ccb606b0940&v=4" width="24" alt="Avatar of flaki"> flaki
+			</a><br/>
+			István Szmozsánszky
+		</td>
+		<td>@skylark-ee  </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>240</td>
+		<td>240</td>
+	</tr>
+	<tr>
+		<td>367</td>
+		<td>
+			<a href="https://github.com/Avamander">
+				<img src="https://avatars.githubusercontent.com/u/5392141?s=72&v=4" width="24" alt="Avatar of Avamander"> Avamander
+			</a><br/>
+			Avamander
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Avamander">Avamander</a></td>
+		<td>Estonia</td>
+		<td>234</td>
+		<td>238</td>
+	</tr>
+	<tr>
+		<td>368</td>
+		<td>
+			<a href="https://github.com/kallaspriit">
+				<img src="https://avatars.githubusercontent.com/u/277993?s=72&u=d56c9f9553c01010900c7503f705aa3849fb90be&v=4" width="24" alt="Avatar of kallaspriit"> kallaspriit
+			</a><br/>
+			Priit Kallas
+		</td>
+		<td>Stagnation Lab </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>236</td>
+		<td>236</td>
+	</tr>
+	<tr>
+		<td>369</td>
+		<td>
+			<a href="https://github.com/shaahin">
+				<img src="https://avatars.githubusercontent.com/u/1235629?s=72&u=572b37b00754a03d76fcb19a537593962852c8d8&v=4" width="24" alt="Avatar of shaahin"> shaahin
+			</a><br/>
+			Shahin Katebi
+		</td>
+		<td>Shaahin.us </td>
+		<td><a href="https://twitter.com/ShahinKatebi">ShahinKatebi</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>20</td>
+		<td>233</td>
+	</tr>
+	<tr>
+		<td>370</td>
+		<td>
+			<a href="https://github.com/mariabenitocst">
+				<img src="https://avatars.githubusercontent.com/u/15113600?s=72&u=f457f25bb7a693ca51ac63135e57098b76f1b74d&v=4" width="24" alt="Avatar of mariabenitocst"> mariabenitocst
+			</a><br/>
+			María Benito
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>118</td>
+		<td>231</td>
+	</tr>
+	<tr>
+		<td>371</td>
+		<td>
+			<a href="https://github.com/LunaSquee">
+				<img src="https://avatars.githubusercontent.com/u/6363179?s=72&u=8612ba4faea8d07f345056454ca4e2ea3a3b9661&v=4" width="24" alt="Avatar of LunaSquee"> LunaSquee
+			</a><br/>
+			Evert
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>228</td>
+		<td>228</td>
+	</tr>
+	<tr>
+		<td>372</td>
+		<td>
+			<a href="https://github.com/bitgamma">
+				<img src="https://avatars.githubusercontent.com/u/12899729?s=72&u=dd7daa95271304cebcf2bac31b42bc37653b7cb1&v=4" width="24" alt="Avatar of bitgamma"> bitgamma
+			</a><br/>
+			Bitgamma
+		</td>
+		<td>Bitgamma Oü </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>227</td>
+		<td>227</td>
+	</tr>
+	<tr>
+		<td>373</td>
+		<td>
+			<a href="https://github.com/tdmitri">
+				<img src="https://avatars.githubusercontent.com/u/46726765?s=72&u=6d429cb0528d1cabfa3ab883f35d92490dd40cbb&v=4" width="24" alt="Avatar of tdmitri"> tdmitri
+			</a><br/>
+			Dmitri
+		</td>
+		<td>K+n Tallinn It Center<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>78</td>
+		<td>227</td>
+	</tr>
+	<tr>
+		<td>374</td>
+		<td>
+			<a href="https://github.com/sandersaares">
+				<img src="https://avatars.githubusercontent.com/u/9914262?s=72&u=6d397d57ea18944924ce4d9c107b7dad87ff0c0e&v=4" width="24" alt="Avatar of sandersaares"> sandersaares
+			</a><br/>
+			Sander Saares
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>226</td>
+		<td>226</td>
+	</tr>
+	<tr>
+		<td>375</td>
+		<td>
+			<a href="https://github.com/axynos">
+				<img src="https://avatars.githubusercontent.com/u/10325616?s=72&u=a8d35867b429d3dfc556e80b88ec0944cf559d36&v=4" width="24" alt="Avatar of axynos"> axynos
+			</a><br/>
+			Silver Sten Kruus
+		</td>
+		<td>@ettevotluskyla </td>
+		<td><a href="https://twitter.com/axynos">axynos</a></td>
+		<td>Tartu, Estonia</td>
+		<td>166</td>
+		<td>226</td>
+	</tr>
+	<tr>
+		<td>376</td>
+		<td>
+			<a href="https://github.com/ikaustav">
+				<img src="https://avatars.githubusercontent.com/u/19376925?s=72&u=fda4c09cbba548b0aebc8136cb9da7fbf2980570&v=4" width="24" alt="Avatar of ikaustav"> ikaustav
+			</a><br/>
+			Kaustav Ghosh
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>20</td>
+		<td>226</td>
+	</tr>
+	<tr>
+		<td>377</td>
+		<td>
+			<a href="https://github.com/viktoriap">
+				<img src="https://avatars.githubusercontent.com/u/8696213?s=72&v=4" width="24" alt="Avatar of viktoriap"> viktoriap
+			</a><br/>
+			Viktoria Plemakova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>0</td>
+		<td>226</td>
+	</tr>
+	<tr>
+		<td>378</td>
+		<td>
+			<a href="https://github.com/raidoz">
+				<img src="https://avatars.githubusercontent.com/u/3406157?s=72&u=d94f7da5384554f7574bbe5e045adcd4bc84fe87&v=4" width="24" alt="Avatar of raidoz"> raidoz
+			</a><br/>
+			Raido Pahtma
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>225</td>
+		<td>225</td>
+	</tr>
+	<tr>
+		<td>379</td>
+		<td>
+			<a href="https://github.com/vadimiljin">
+				<img src="https://avatars.githubusercontent.com/u/30922114?s=72&u=1b06d638203519db59230d7d6b9ccd9edcbb6b01&v=4" width="24" alt="Avatar of vadimiljin"> vadimiljin
+			</a><br/>
+			Vadim Iljin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>211</td>
+		<td>224</td>
+	</tr>
+	<tr>
+		<td>380</td>
+		<td>
+			<a href="https://github.com/ALapina">
+				<img src="https://avatars.githubusercontent.com/u/13350195?s=72&v=4" width="24" alt="Avatar of ALapina"> ALapina
+			</a><br/>
+			Anna Lapina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>198</td>
+		<td>221</td>
+	</tr>
+	<tr>
+		<td>381</td>
+		<td>
+			<a href="https://github.com/indreklasn">
+				<img src="https://avatars.githubusercontent.com/u/11220736?s=72&u=62f466409fc7b3015ca3d97b891acfce78f5442f&v=4" width="24" alt="Avatar of indreklasn"> indreklasn
+			</a><br/>
+			Trevor Indrek Lasn
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/trevorlasn">trevorlasn</a></td>
+		<td>Tartu, Estonia</td>
+		<td>68</td>
+		<td>220</td>
+	</tr>
+	<tr>
+		<td>382</td>
+		<td>
+			<a href="https://github.com/Deckstar">
+				<img src="https://avatars.githubusercontent.com/u/47112588?s=72&u=33d31f62d485b208c1fc9ebe8b51cb6965751943&v=4" width="24" alt="Avatar of Deckstar"> Deckstar
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>216</td>
+		<td>216</td>
+	</tr>
+	<tr>
+		<td>383</td>
+		<td>
+			<a href="https://github.com/aldas">
+				<img src="https://avatars.githubusercontent.com/u/2320301?s=72&v=4" width="24" alt="Avatar of aldas"> aldas
+			</a><br/>
+			Martti T.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>214</td>
+		<td>214</td>
+	</tr>
+	<tr>
+		<td>384</td>
+		<td>
+			<a href="https://github.com/omarduarte">
+				<img src="https://avatars.githubusercontent.com/u/4765697?s=72&u=2adeecb8165256a8e2b0aa4182e0a2f1151970a6&v=4" width="24" alt="Avatar of omarduarte"> omarduarte
+			</a><br/>
+			Omar Duarte
+		</td>
+		<td>Transferwise </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>3</td>
+		<td>213</td>
+	</tr>
+	<tr>
+		<td>385</td>
+		<td>
+			<a href="https://github.com/chrismeller">
+				<img src="https://avatars.githubusercontent.com/u/18316?s=72&v=4" width="24" alt="Avatar of chrismeller"> chrismeller
+			</a><br/>
+			Chris Meller
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/chrismeller">chrismeller</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>184</td>
+		<td>212</td>
+	</tr>
+	<tr>
+		<td>386</td>
+		<td>
+			<a href="https://github.com/raimondlume">
+				<img src="https://avatars.githubusercontent.com/u/22922406?s=72&u=2bfbf2713e75e94ea34a92e15438b76be4fcb2f2&v=4" width="24" alt="Avatar of raimondlume"> raimondlume
+			</a><br/>
+			Raimond Lume
+		</td>
+		<td>@mentornaut </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>14</td>
+		<td>208</td>
+	</tr>
+	<tr>
+		<td>387</td>
+		<td>
+			<a href="https://github.com/mattiasaksli">
+				<img src="https://avatars.githubusercontent.com/u/44437654?s=72&u=436b714a1f2ccb783e1392194a09960b4df1ee72&v=4" width="24" alt="Avatar of mattiasaksli"> mattiasaksli
+			</a><br/>
+			Mattias Aksli
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>142</td>
+		<td>204</td>
+	</tr>
+	<tr>
+		<td>388</td>
+		<td>
+			<a href="https://github.com/bquinn">
+				<img src="https://avatars.githubusercontent.com/u/309976?s=72&u=87602d68220b875ad84b6cc96db16781e5cef1b9&v=4" width="24" alt="Avatar of bquinn"> bquinn
+			</a><br/>
+			Brendan Quinn
+		</td>
+		<td>International Press Telecommunications Council<br/>(@iptc)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia and London, UK</td>
+		<td>71</td>
+		<td>203</td>
+	</tr>
+	<tr>
+		<td>389</td>
+		<td>
+			<a href="https://github.com/TaaviE">
+				<img src="https://avatars.githubusercontent.com/u/15741449?s=72&v=4" width="24" alt="Avatar of TaaviE"> TaaviE
+			</a><br/>
+			Taavi Eomäe
+		</td>
+		<td>@zone-eu </td>
+		<td><a href="https://twitter.com/TaaviEom">TaaviEom</a></td>
+		<td>Estonia</td>
+		<td>124</td>
+		<td>195</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>
+			<a href="https://github.com/yozik04">
+				<img src="https://avatars.githubusercontent.com/u/2420038?s=72&v=4" width="24" alt="Avatar of yozik04"> yozik04
+			</a><br/>
+			Jevgeni Kiski
+		</td>
+		<td>Skype, @microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>192</td>
+		<td>192</td>
+	</tr>
+	<tr>
+		<td>391</td>
+		<td>
+			<a href="https://github.com/adelmuursepp">
+				<img src="https://avatars.githubusercontent.com/u/42273596?s=72&u=d22837878b21590cf5d247ce8847df53215a6ad5&v=4" width="24" alt="Avatar of adelmuursepp"> adelmuursepp
+			</a><br/>
+			Adel Müürsepp
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>191</td>
+		<td>191</td>
+	</tr>
+	<tr>
+		<td>392</td>
+		<td>
+			<a href="https://github.com/mattearnshaw">
+				<img src="https://avatars.githubusercontent.com/u/679927?s=72&u=c03255e46c9c6290a1badc6ee0cbe4a0f653e61c&v=4" width="24" alt="Avatar of mattearnshaw"> mattearnshaw
+			</a><br/>
+			Matt Earnshaw
+		</td>
+		<td>Tallinn University Of Technology<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>14</td>
+		<td>190</td>
+	</tr>
+	<tr>
+		<td>393</td>
+		<td>
+			<a href="https://github.com/extall">
+				<img src="https://avatars.githubusercontent.com/u/18900943?s=72&u=f2c266f0e8d78fce367477878ebbb96108d5e647&v=4" width="24" alt="Avatar of extall"> extall
+			</a><br/>
+			Aleksei Tepljakov
+		</td>
+		<td>Tallinn University Of Technology<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>40</td>
+		<td>190</td>
+	</tr>
+	<tr>
+		<td>394</td>
+		<td>
+			<a href="https://github.com/kuttim">
+				<img src="https://avatars.githubusercontent.com/u/41844956?s=72&u=09c3d46169a6af757b388d82a089c466b12b625a&v=4" width="24" alt="Avatar of kuttim"> kuttim
+			</a><br/>
+			Mikk Küttim
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mikkcodes">mikkcodes</a></td>
+		<td>Estonia</td>
+		<td>21</td>
+		<td>187</td>
+	</tr>
+	<tr>
+		<td>395</td>
+		<td>
+			<a href="https://github.com/JaanJah">
+				<img src="https://avatars.githubusercontent.com/u/33261930?s=72&u=0c71023367271b7e82c3a87cf5aedc954c919e33&v=4" width="24" alt="Avatar of JaanJah"> JaanJah
+			</a><br/>
+			Jaan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>35</td>
+		<td>186</td>
+	</tr>
+	<tr>
+		<td>396</td>
+		<td>
+			<a href="https://github.com/thalessr">
+				<img src="https://avatars.githubusercontent.com/u/6223918?s=72&u=e071c708cfbe00bff2a8ebcaa47c77f5c2f19ef3&v=4" width="24" alt="Avatar of thalessr"> thalessr
+			</a><br/>
+			Thales Ribeiro
+		</td>
+		<td>@perfectline </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>24</td>
+		<td>184</td>
+	</tr>
+	<tr>
+		<td>397</td>
+		<td>
+			<a href="https://github.com/lackovic">
+				<img src="https://avatars.githubusercontent.com/u/1663053?s=72&u=eba326fccda5a7d361c12f89960bc48f5bde6174&v=4" width="24" alt="Avatar of lackovic"> lackovic
+			</a><br/>
+			Marco Lackovic
+		</td>
+		<td>Concise </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>184</td>
+		<td>184</td>
+	</tr>
+	<tr>
+		<td>398</td>
+		<td>
+			<a href="https://github.com/Naurislv">
+				<img src="https://avatars.githubusercontent.com/u/14870710?s=72&u=2e30e51a84e2b69cb7a2ed7f4273916cecc1d5af&v=4" width="24" alt="Avatar of Naurislv"> Naurislv
+			</a><br/>
+			Nauris Dorbe
+		</td>
+		<td>Data Science At Brainbase<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>0</td>
+		<td>182</td>
+	</tr>
+	<tr>
+		<td>399</td>
+		<td>
+			<a href="https://github.com/tonis2">
+				<img src="https://avatars.githubusercontent.com/u/9265556?s=72&u=4822ea1383074b2b805d2baca5c2a0962798c578&v=4" width="24" alt="Avatar of tonis2"> tonis2
+			</a><br/>
+			Tonis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>182</td>
+		<td>182</td>
+	</tr>
+	<tr>
+		<td>400</td>
+		<td>
+			<a href="https://github.com/Shmarkus">
+				<img src="https://avatars.githubusercontent.com/u/6381245?s=72&u=814814aaa5bfa34886efd19f7a563cff663d12ef&v=4" width="24" alt="Avatar of Shmarkus"> Shmarkus
+			</a><br/>
+			Markus Karileet
+		</td>
+		<td>Helmes As </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>0</td>
+		<td>178</td>
+	</tr>
+	<tr>
+		<td>401</td>
+		<td>
+			<a href="https://github.com/Svyatoslav-Polishchuk">
+				<img src="https://avatars.githubusercontent.com/u/22520423?s=72&u=000110b7be43d595f5838f6aec9b85d81f22d440&v=4" width="24" alt="Avatar of Svyatoslav-Polishchuk"> Svyatoslav-Polishchuk
+			</a><br/>
+			Svyatoslav Polishchuk
+		</td>
+		<td>@bolteu </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>3</td>
+		<td>178</td>
+	</tr>
+	<tr>
+		<td>402</td>
+		<td>
+			<a href="https://github.com/shelajev">
+				<img src="https://avatars.githubusercontent.com/u/426039?s=72&u=067d4660af1a2fce7e15ea1c2c2afcb899774c53&v=4" width="24" alt="Avatar of shelajev"> shelajev
+			</a><br/>
+			Oleg Šelajev
+		</td>
+		<td>Http://labs.oracle.c </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>177</td>
+		<td>177</td>
+	</tr>
+	<tr>
+		<td>403</td>
+		<td>
+			<a href="https://github.com/antonarhipov">
+				<img src="https://avatars.githubusercontent.com/u/177047?s=72&v=4" width="24" alt="Avatar of antonarhipov"> antonarhipov
+			</a><br/>
+			Anton Arhipov
+		</td>
+		<td>Jetbrains </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>177</td>
+		<td>177</td>
+	</tr>
+	<tr>
+		<td>404</td>
+		<td>
+			<a href="https://github.com/kristjankoitla">
+				<img src="https://avatars.githubusercontent.com/u/34684892?s=72&v=4" width="24" alt="Avatar of kristjankoitla"> kristjankoitla
+			</a><br/>
+			Kristjan Koitla
+		</td>
+		<td>Tallinn University Of Technology<br/></td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>152</td>
+		<td>176</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>
+			<a href="https://github.com/takuyajodai">
+				<img src="https://avatars.githubusercontent.com/u/34891064?s=72&u=c0934255819a5ddd7d469db33bd304b6469aba40&v=4" width="24" alt="Avatar of takuyajodai"> takuyajodai
+			</a><br/>
+			Takuya Jodai
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>41</td>
+		<td>173</td>
+	</tr>
+	<tr>
+		<td>406</td>
+		<td>
+			<a href="https://github.com/manuganji">
+				<img src="https://avatars.githubusercontent.com/u/1709986?s=72&u=f80bb35b4aef6d211431920cbf063bbb890b5afb&v=4" width="24" alt="Avatar of manuganji"> manuganji
+			</a><br/>
+			Manu Ganji
+		</td>
+		<td>Caap.store </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>38</td>
+		<td>173</td>
+	</tr>
+	<tr>
+		<td>407</td>
+		<td>
+			<a href="https://github.com/t3brightside">
+				<img src="https://avatars.githubusercontent.com/u/771791?s=72&u=30b9d65695011f7d5f612bab42b49bd50e0ddcec&v=4" width="24" alt="Avatar of t3brightside"> t3brightside
+			</a><br/>
+			Tanel Põld
+		</td>
+		<td>Brightside Oü </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>173</td>
+		<td>173</td>
+	</tr>
+	<tr>
+		<td>408</td>
+		<td>
+			<a href="https://github.com/M0rdhau">
+				<img src="https://avatars.githubusercontent.com/u/17853044?s=72&u=8c943bcaf3718cd4b2882026b9079c6b6a7c9318&v=4" width="24" alt="Avatar of M0rdhau"> M0rdhau
+			</a><br/>
+			Dachi Mshvidobadze
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>172</td>
+		<td>172</td>
+	</tr>
+	<tr>
+		<td>409</td>
+		<td>
+			<a href="https://github.com/kahyalar">
+				<img src="https://avatars.githubusercontent.com/u/15851413?s=72&u=67cfa5ef3378ba65d1f5902e3d863f149f94f09c&v=4" width="24" alt="Avatar of kahyalar"> kahyalar
+			</a><br/>
+			İlker Furkan KAHYALAR
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kahyalar">kahyalar</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>30</td>
+		<td>171</td>
+	</tr>
+	<tr>
+		<td>410</td>
+		<td>
+			<a href="https://github.com/RRisto">
+				<img src="https://avatars.githubusercontent.com/u/8947407?s=72&u=3bac044a0410670a8bb6df50bcb21ffa93d20524&v=4" width="24" alt="Avatar of RRisto"> RRisto
+			</a><br/>
+			Risto Hinno
+		</td>
+		<td>Feelingstream </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>170</td>
+		<td>170</td>
+	</tr>
+	<tr>
+		<td>411</td>
+		<td>
+			<a href="https://github.com/atabrizian">
+				<img src="https://avatars.githubusercontent.com/u/4928551?s=72&v=4" width="24" alt="Avatar of atabrizian"> atabrizian
+			</a><br/>
+			Arash Tabrizian
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>5</td>
+		<td>167</td>
+	</tr>
+	<tr>
+		<td>412</td>
+		<td>
+			<a href="https://github.com/metalim">
+				<img src="https://avatars.githubusercontent.com/u/230431?s=72&v=4" width="24" alt="Avatar of metalim"> metalim
+			</a><br/>
+			Maksim Litvinov
+		</td>
+		<td>Memo Oü </td>
+		<td><a href="https://twitter.com/metalim">metalim</a></td>
+		<td>Estonia</td>
+		<td>52</td>
+		<td>166</td>
+	</tr>
+	<tr>
+		<td>413</td>
+		<td>
+			<a href="https://github.com/MohamedRagabAnas">
+				<img src="https://avatars.githubusercontent.com/u/39013653?s=72&u=72dce557bcfba83aeced7ba202b1e6875d146134&v=4" width="24" alt="Avatar of MohamedRagabAnas"> MohamedRagabAnas
+			</a><br/>
+			Mohamed Ragab
+		</td>
+		<td>Datasystems Lab, University Of<br/>Tartu<br/></td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>165</td>
+		<td>165</td>
+	</tr>
+	<tr>
+		<td>414</td>
+		<td>
+			<a href="https://github.com/therealSMAT">
+				<img src="https://avatars.githubusercontent.com/u/12660524?s=72&u=a9ca586fb5744faaa7952003966354848ca56f47&v=4" width="24" alt="Avatar of therealSMAT"> therealSMAT
+			</a><br/>
+			Tosin Soremekun
+		</td>
+		<td>Adcash </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>10</td>
+		<td>164</td>
+	</tr>
+	<tr>
+		<td>415</td>
+		<td>
+			<a href="https://github.com/1Hyena">
+				<img src="https://avatars.githubusercontent.com/u/3479475?s=72&u=a04c255883a53d911e1aafd1e56d972c4bb8bae4&v=4" width="24" alt="Avatar of 1Hyena"> 1Hyena
+			</a><br/>
+			Erich Erstu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>162</td>
+		<td>162</td>
+	</tr>
+	<tr>
+		<td>416</td>
+		<td>
+			<a href="https://github.com/matkovd">
+				<img src="https://avatars.githubusercontent.com/u/19489510?s=72&u=35c2969e06d4f4b52893161145856c6fe219a95f&v=4" width="24" alt="Avatar of matkovd"> matkovd
+			</a><br/>
+			Daniil Matkov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>29</td>
+		<td>160</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>
+			<a href="https://github.com/v3rm0n">
+				<img src="https://avatars.githubusercontent.com/u/1155022?s=72&u=8b01eb4a180b5d1df65f9bf0733551971889054e&v=4" width="24" alt="Avatar of v3rm0n"> v3rm0n
+			</a><br/>
+			Maido Käära
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>158</td>
+		<td>158</td>
+	</tr>
+	<tr>
+		<td>418</td>
+		<td>
+			<a href="https://github.com/meigo">
+				<img src="https://avatars.githubusercontent.com/u/230715?s=72&u=3480cd0e65dbc68e87817c97c866e811ee75b55d&v=4" width="24" alt="Avatar of meigo"> meigo
+			</a><br/>
+			Meigo Kukk
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>158</td>
+		<td>158</td>
+	</tr>
+	<tr>
+		<td>419</td>
+		<td>
+			<a href="https://github.com/VladyslavBondarenko">
+				<img src="https://avatars.githubusercontent.com/u/17024977?s=72&u=b2eece26cd3e0bc1c674c14839c078c05efe13e5&v=4" width="24" alt="Avatar of VladyslavBondarenko"> VladyslavBondarenko
+			</a><br/>
+			Vladyslav Bondarenko
+		</td>
+		<td>Nevercode </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>101</td>
+		<td>157</td>
+	</tr>
+	<tr>
+		<td>420</td>
+		<td>
+			<a href="https://github.com/TonisOrmisson">
+				<img src="https://avatars.githubusercontent.com/u/6357451?s=72&u=3da125ec48e14ab060115af111a5f5d36b76e528&v=4" width="24" alt="Avatar of TonisOrmisson"> TonisOrmisson
+			</a><br/>
+			Tõnis Ormisson
+		</td>
+		<td>Kuddelmuddel Oü </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>157</td>
+		<td>157</td>
+	</tr>
+	<tr>
+		<td>421</td>
+		<td>
+			<a href="https://github.com/henno">
+				<img src="https://avatars.githubusercontent.com/u/92807?s=72&v=4" width="24" alt="Avatar of henno"> henno
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tõrva, Estonia</td>
+		<td>154</td>
+		<td>154</td>
+	</tr>
+	<tr>
+		<td>422</td>
+		<td>
+			<a href="https://github.com/kostafey">
+				<img src="https://avatars.githubusercontent.com/u/1282079?s=72&v=4" width="24" alt="Avatar of kostafey"> kostafey
+			</a><br/>
+			kostafey
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>153</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>423</td>
+		<td>
+			<a href="https://github.com/dreambottle">
+				<img src="https://avatars.githubusercontent.com/u/1767325?s=72&v=4" width="24" alt="Avatar of dreambottle"> dreambottle
+			</a><br/>
+			Niko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>44</td>
+		<td>150</td>
+	</tr>
+	<tr>
+		<td>424</td>
+		<td>
+			<a href="https://github.com/Chemoday">
+				<img src="https://avatars.githubusercontent.com/u/13941021?s=72&u=a5491ed9d8466379348cd1823ab7dc4e58230f5d&v=4" width="24" alt="Avatar of Chemoday"> Chemoday
+			</a><br/>
+			Aleksandr Kuhhar
+		</td>
+		<td>Javelin </td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>0</td>
+		<td>150</td>
+	</tr>
+	<tr>
+		<td>425</td>
+		<td>
+			<a href="https://github.com/kadfak">
+				<img src="https://avatars.githubusercontent.com/u/17338808?s=72&v=4" width="24" alt="Avatar of kadfak"> kadfak
+			</a><br/>
+			Sven Kadak
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/svenkadak">svenkadak</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>17</td>
+		<td>148</td>
+	</tr>
+	<tr>
+		<td>426</td>
+		<td>
+			<a href="https://github.com/erikuus">
+				<img src="https://avatars.githubusercontent.com/u/1046623?s=72&u=f1bb82fd3e631df38f55de43c8a42b7cb7d482f5&v=4" width="24" alt="Avatar of erikuus"> erikuus
+			</a><br/>
+			Erik Uus
+		</td>
+		<td>National Archives Of Estonia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>147</td>
+		<td>147</td>
+	</tr>
+	<tr>
+		<td>427</td>
+		<td>
+			<a href="https://github.com/haiyangmin">
+				<img src="https://avatars.githubusercontent.com/u/30657536?s=72&u=597d7424979dbd6f70f50963f0ade7f587f3f2bb&v=4" width="24" alt="Avatar of haiyangmin"> haiyangmin
+			</a><br/>
+			Wangjun Yang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn </td>
+		<td>139</td>
+		<td>144</td>
+	</tr>
+	<tr>
+		<td>428</td>
+		<td>
+			<a href="https://github.com/kazimirchuk">
+				<img src="https://avatars.githubusercontent.com/u/8057124?s=72&u=7a7a9a9b70551ed7ee2ae205335200d990b9cf89&v=4" width="24" alt="Avatar of kazimirchuk"> kazimirchuk
+			</a><br/>
+			Leks Kazimirchuk
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>9</td>
+		<td>143</td>
+	</tr>
+	<tr>
+		<td>429</td>
+		<td>
+			<a href="https://github.com/ikakus">
+				<img src="https://avatars.githubusercontent.com/u/841716?s=72&u=2f829c5d07e624cd6086a01f8e34186cd090b5fc&v=4" width="24" alt="Avatar of ikakus"> ikakus
+			</a><br/>
+			Irakli Dadiani
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>120</td>
+		<td>141</td>
+	</tr>
+	<tr>
+		<td>430</td>
+		<td>
+			<a href="https://github.com/RedFox20">
+				<img src="https://avatars.githubusercontent.com/u/1321685?s=72&u=b4ea16ef9431c40c2df79651309a6abc9c3ecf33&v=4" width="24" alt="Avatar of RedFox20"> RedFox20
+			</a><br/>
+			Jorma
+		</td>
+		<td>Quantumroot </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>68</td>
+		<td>141</td>
+	</tr>
+	<tr>
+		<td>431</td>
+		<td>
+			<a href="https://github.com/hotNipi">
+				<img src="https://avatars.githubusercontent.com/u/35291460?s=72&u=0c658967a60ecf056ab89d26965886f1c0a77e68&v=4" width="24" alt="Avatar of hotNipi"> hotNipi
+			</a><br/>
+			No Name
+		</td>
+		<td>Playtech Estonia Oü </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>140</td>
+		<td>140</td>
+	</tr>
+	<tr>
+		<td>432</td>
+		<td>
+			<a href="https://github.com/nagireddy1234">
+				<img src="https://avatars.githubusercontent.com/u/37980633?s=72&u=4e67587d3d6210f222b90cdbe6fe1a32c3e9e6a3&v=4" width="24" alt="Avatar of nagireddy1234"> nagireddy1234
+			</a><br/>
+			nagiReddy 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn,Estonia</td>
+		<td>140</td>
+		<td>140</td>
+	</tr>
+	<tr>
+		<td>433</td>
+		<td>
+			<a href="https://github.com/martinontcode">
+				<img src="https://avatars.githubusercontent.com/u/11367018?s=72&u=39c7cefa6d6db75ced45bd34129527d68f422477&v=4" width="24" alt="Avatar of martinontcode"> martinontcode
+			</a><br/>
+			Martin Onton
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>134</td>
+		<td>139</td>
+	</tr>
+	<tr>
+		<td>434</td>
+		<td>
+			<a href="https://github.com/Tobzzy">
+				<img src="https://avatars.githubusercontent.com/u/22854085?s=72&u=1f7132a0404c345566238d0d2a7c922ccb790b77&v=4" width="24" alt="Avatar of Tobzzy"> Tobzzy
+			</a><br/>
+			Ahmed Toyib Olamide
+		</td>
+		<td>Videolevels </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>9</td>
+		<td>138</td>
+	</tr>
+	<tr>
+		<td>435</td>
+		<td>
+			<a href="https://github.com/tranquillum">
+				<img src="https://avatars.githubusercontent.com/u/31825404?s=72&u=8ab38d1acb73835c5e38bff8bf27e9b2f9089ec1&v=4" width="24" alt="Avatar of tranquillum"> tranquillum
+			</a><br/>
+			Aleksandr
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>2</td>
+		<td>137</td>
+	</tr>
+	<tr>
+		<td>436</td>
+		<td>
+			<a href="https://github.com/hadilou">
+				<img src="https://avatars.githubusercontent.com/u/14920708?s=72&v=4" width="24" alt="Avatar of hadilou"> hadilou
+			</a><br/>
+			Kayode Hadilou ADJE
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>122</td>
+		<td>135</td>
+	</tr>
+	<tr>
+		<td>437</td>
+		<td>
+			<a href="https://github.com/Zukkari">
+				<img src="https://avatars.githubusercontent.com/u/16103392?s=72&u=c5856e88bd52231c3f116aa12a9215e1ec85f343&v=4" width="24" alt="Avatar of Zukkari"> Zukkari
+			</a><br/>
+			Stanislav Mõškovski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>104</td>
+		<td>135</td>
+	</tr>
+	<tr>
+		<td>438</td>
+		<td>
+			<a href="https://github.com/margusholland">
+				<img src="https://avatars.githubusercontent.com/u/581561?s=72&u=03d4610cdffa8d3f7dd4c95b0b09eb9e064caba3&v=4" width="24" alt="Avatar of margusholland"> margusholland
+			</a><br/>
+			Margus Holland
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>0</td>
+		<td>134</td>
+	</tr>
+	<tr>
+		<td>439</td>
+		<td>
+			<a href="https://github.com/skubi">
+				<img src="https://avatars.githubusercontent.com/u/2069155?s=72&u=1494f8cccd224b555954ece7681c64e2b72e6c55&v=4" width="24" alt="Avatar of skubi"> skubi
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>0</td>
+		<td>131</td>
+	</tr>
+	<tr>
+		<td>440</td>
+		<td>
+			<a href="https://github.com/MirzaFaizan">
+				<img src="https://avatars.githubusercontent.com/u/16798535?s=72&u=668bf191d0e5520d6190095826ff7818ef689c98&v=4" width="24" alt="Avatar of MirzaFaizan"> MirzaFaizan
+			</a><br/>
+			Faizan Ejaz
+		</td>
+		<td>@developmethis  </td>
+		<td><a href="https://twitter.com/mirzafaizanejaz">mirzafaizanejaz</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>19</td>
+		<td>129</td>
+	</tr>
+	<tr>
+		<td>441</td>
+		<td>
+			<a href="https://github.com/sanderv1992">
+				<img src="https://avatars.githubusercontent.com/u/13352120?s=72&u=8d4ddff60bfe04a233aeab9db56cb1a3525f2f95&v=4" width="24" alt="Avatar of sanderv1992"> sanderv1992
+			</a><br/>
+			Sander Vergeles
+		</td>
+		<td>Dtdstudio </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>129</td>
+		<td>129</td>
+	</tr>
+	<tr>
+		<td>442</td>
+		<td>
+			<a href="https://github.com/neonsea">
+				<img src="https://avatars.githubusercontent.com/u/36747857?s=72&u=c36ce1ecca954547060a2a4202de4eafc37686d2&v=4" width="24" alt="Avatar of neonsea"> neonsea
+			</a><br/>
+			Rasmus
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>42</td>
+		<td>128</td>
+	</tr>
+	<tr>
+		<td>443</td>
+		<td>
+			<a href="https://github.com/andressoop">
+				<img src="https://avatars.githubusercontent.com/u/4922167?s=72&u=45113b643fd3166975b44f5d40b0474ed8500525&v=4" width="24" alt="Avatar of andressoop"> andressoop
+			</a><br/>
+			Andres Soop
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/andressoop">andressoop</a></td>
+		<td>Estonia</td>
+		<td>116</td>
+		<td>124</td>
+	</tr>
+	<tr>
+		<td>444</td>
+		<td>
+			<a href="https://github.com/markusaksli">
+				<img src="https://avatars.githubusercontent.com/u/54057327?s=72&u=b74cd07d8669ec8bc1c750ffad01a246d42b14c7&v=4" width="24" alt="Avatar of markusaksli"> markusaksli
+			</a><br/>
+			Markus Aksli
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/lowerthirdgames">lowerthirdgames</a></td>
+		<td>Tartu, Estonia</td>
+		<td>123</td>
+		<td>123</td>
+	</tr>
+	<tr>
+		<td>445</td>
+		<td>
+			<a href="https://github.com/ChaikaBogdan">
+				<img src="https://avatars.githubusercontent.com/u/16524061?s=72&u=58bde95da341b8efefa67baf7a665a2f29eff894&v=4" width="24" alt="Avatar of ChaikaBogdan"> ChaikaBogdan
+			</a><br/>
+			Bogdan Bashev
+		</td>
+		<td>Malwarebytes </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>62</td>
+		<td>122</td>
+	</tr>
+	<tr>
+		<td>446</td>
+		<td>
+			<a href="https://github.com/SiiMeR">
+				<img src="https://avatars.githubusercontent.com/u/16091040?s=72&v=4" width="24" alt="Avatar of SiiMeR"> SiiMeR
+			</a><br/>
+			Siim Raudsepp
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tartu</td>
+		<td>33</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>447</td>
+		<td>
+			<a href="https://github.com/luminarious">
+				<img src="https://avatars.githubusercontent.com/u/61330?s=72&u=3c46793fe6fe1f19b20026211db10ee1346901f6&v=4" width="24" alt="Avatar of luminarious"> luminarious
+			</a><br/>
+			Hardi Kõvamees
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>4</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>448</td>
+		<td>
+			<a href="https://github.com/janno-p">
+				<img src="https://avatars.githubusercontent.com/u/339526?s=72&v=4" width="24" alt="Avatar of janno-p"> janno-p
+			</a><br/>
+			Janno Põldma
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>119</td>
+		<td>119</td>
+	</tr>
+	<tr>
+		<td>449</td>
+		<td>
+			<a href="https://github.com/janklosowski">
+				<img src="https://avatars.githubusercontent.com/u/916651?s=72&u=5eec4b74afd49bd53f06b7bff522d249009a189b&v=4" width="24" alt="Avatar of janklosowski"> janklosowski
+			</a><br/>
+			klos
+		</td>
+		<td>Deltabadger Oü </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>2</td>
+		<td>119</td>
+	</tr>
+	<tr>
+		<td>450</td>
+		<td>
+			<a href="https://github.com/oree">
+				<img src="https://avatars.githubusercontent.com/u/135676?s=72&v=4" width="24" alt="Avatar of oree"> oree
+			</a><br/>
+			Eero Raun
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>0</td>
+		<td>118</td>
+	</tr>
+	<tr>
+		<td>451</td>
+		<td>
+			<a href="https://github.com/Lafaiet">
+				<img src="https://avatars.githubusercontent.com/u/824330?s=72&v=4" width="24" alt="Avatar of Lafaiet"> Lafaiet
+			</a><br/>
+			Lafaiet Silva
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Lafaiet">Lafaiet</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>118</td>
+		<td>118</td>
+	</tr>
+	<tr>
+		<td>452</td>
+		<td>
+			<a href="https://github.com/Jaakal">
+				<img src="https://avatars.githubusercontent.com/u/22595223?s=72&u=0a90d49a81ce456b3242cdbd23b0652bb78047fc&v=4" width="24" alt="Avatar of Jaakal"> Jaakal
+			</a><br/>
+			Jaak Kivinukk
+		</td>
+		<td>Freelance Full-stack Developer </td>
+		<td><a href="https://twitter.com/JKivinukk">JKivinukk</a></td>
+		<td>Estonia</td>
+		<td>116</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>453</td>
+		<td>
+			<a href="https://github.com/petskratt">
+				<img src="https://avatars.githubusercontent.com/u/712310?s=72&v=4" width="24" alt="Avatar of petskratt"> petskratt
+			</a><br/>
+			Peeter Marvet
+		</td>
+		<td>Zone Media </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>111</td>
+		<td>111</td>
+	</tr>
+	<tr>
+		<td>454</td>
+		<td>
+			<a href="https://github.com/fatihint">
+				<img src="https://avatars.githubusercontent.com/u/15180932?s=72&u=fab44d00cb3d57e0fd69557fec1b93451fe45712&v=4" width="24" alt="Avatar of fatihint"> fatihint
+			</a><br/>
+			Fatih Intekin
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>68</td>
+		<td>111</td>
+	</tr>
+	<tr>
+		<td>455</td>
+		<td>
+			<a href="https://github.com/kongaskristjan">
+				<img src="https://avatars.githubusercontent.com/u/22481560?s=72&u=6e9b3954fcfff6f844f97642d29224db7be0c494&v=4" width="24" alt="Avatar of kongaskristjan"> kongaskristjan
+			</a><br/>
+			Kristjan Kongas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>near Tallinn, Estonia</td>
+		<td>111</td>
+		<td>111</td>
+	</tr>
+	<tr>
+		<td>456</td>
+		<td>
+			<a href="https://github.com/62mkv">
+				<img src="https://avatars.githubusercontent.com/u/5255127?s=72&u=c603e65e0b662686df53ebd314d4ae5efad94a61&v=4" width="24" alt="Avatar of 62mkv"> 62mkv
+			</a><br/>
+			Kirill Marchuk
+		</td>
+		<td>Kuehne+nagel </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>107</td>
+		<td>107</td>
+	</tr>
+	<tr>
+		<td>457</td>
+		<td>
+			<a href="https://github.com/HiveHicks">
+				<img src="https://avatars.githubusercontent.com/u/1489247?s=72&u=a37793c4236a13cccfaf3ceab578162c10264b49&v=4" width="24" alt="Avatar of HiveHicks"> HiveHicks
+			</a><br/>
+			Andrei Iutkin
+		</td>
+		<td>Veriff </td>
+		<td><a href="https://twitter.com/hivehicks">hivehicks</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>5</td>
+		<td>105</td>
+	</tr>
+	<tr>
+		<td>458</td>
+		<td>
+			<a href="https://github.com/KaanSK">
+				<img src="https://avatars.githubusercontent.com/u/5330275?s=72&u=7f66df2bfb344102c5995359d20519ee1b8d57a8&v=4" width="24" alt="Avatar of KaanSK"> KaanSK
+			</a><br/>
+			Kaan S. Karadag
+		</td>
+		<td>Incident Response | Secops<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tallinn / Estonia</td>
+		<td>69</td>
+		<td>105</td>
+	</tr>
+	<tr>
+		<td>459</td>
+		<td>
+			<a href="https://github.com/twfarland">
+				<img src="https://avatars.githubusercontent.com/u/327581?s=72&v=4" width="24" alt="Avatar of twfarland"> twfarland
+			</a><br/>
+			Tim Farland
+		</td>
+		<td>Farland Digital </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, EE & Auckland, NZ</td>
+		<td>42</td>
+		<td>104</td>
+	</tr>
+	<tr>
+		<td>460</td>
+		<td>
+			<a href="https://github.com/RistoNiinemets">
+				<img src="https://avatars.githubusercontent.com/u/3982627?s=72&v=4" width="24" alt="Avatar of RistoNiinemets"> RistoNiinemets
+			</a><br/>
+			Risto Niinemets
+		</td>
+		<td>@konektou  </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>103</td>
+		<td>103</td>
+	</tr>
+	<tr>
+		<td>461</td>
+		<td>
+			<a href="https://github.com/laevandus">
+				<img src="https://avatars.githubusercontent.com/u/1469907?s=72&u=35120faf18801d25397a98997323dbf3322153e1&v=4" width="24" alt="Avatar of laevandus"> laevandus
+			</a><br/>
+			Toomas Vahter
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/toomasvahter">toomasvahter</a></td>
+		<td>Estonia/Japan</td>
+		<td>102</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>462</td>
+		<td>
+			<a href="https://github.com/craastad">
+				<img src="https://avatars.githubusercontent.com/u/431915?s=72&v=4" width="24" alt="Avatar of craastad"> craastad
+			</a><br/>
+			Chris Raastad
+		</td>
+		<td>Codemagic Ci/cd </td>
+		<td><a href="https://twitter.com/craastad">craastad</a></td>
+		<td>Estonia</td>
+		<td>102</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>463</td>
+		<td>
+			<a href="https://github.com/anroots">
+				<img src="https://avatars.githubusercontent.com/u/469120?s=72&u=1f24c890f2fbd803c1ecdc4bfccc83c70d17ddab&v=4" width="24" alt="Avatar of anroots"> anroots
+			</a><br/>
+			Ando David Roots
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/SQRooted">SQRooted</a></td>
+		<td>Estonia</td>
+		<td>100</td>
+		<td>101</td>
+	</tr>
+	<tr>
+		<td>464</td>
+		<td>
+			<a href="https://github.com/rajivraj">
+				<img src="https://avatars.githubusercontent.com/u/7327488?s=72&u=dcf235e25b46645c9fdd6d21dd7a8df9bf6562df&v=4" width="24" alt="Avatar of rajivraj"> rajivraj
+			</a><br/>
+			Rajivarnan R
+		</td>
+		<td>Cyberarch Consulting Oü </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>101</td>
+		<td>101</td>
+	</tr>
+	<tr>
+		<td>465</td>
+		<td>
+			<a href="https://github.com/anna-morawska">
+				<img src="https://avatars.githubusercontent.com/u/37595749?s=72&u=7d0f8ffec316b3e70352a981e43e672f12103e37&v=4" width="24" alt="Avatar of anna-morawska"> anna-morawska
+			</a><br/>
+			Anna
+		</td>
+		<td>Mooncascade </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn / Warsaw</td>
+		<td>28</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>466</td>
+		<td>
+			<a href="https://github.com/JamesEST">
+				<img src="https://avatars.githubusercontent.com/u/62281680?s=72&u=9513fd8cd53fe09a8cdfe5d13d2320b738c9501c&v=4" width="24" alt="Avatar of JamesEST"> JamesEST
+			</a><br/>
+			Vladislav Narozni
+		</td>
+		<td>Bredbrains </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>100</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>467</td>
+		<td>
+			<a href="https://github.com/PoladMahmudov">
+				<img src="https://avatars.githubusercontent.com/u/16631995?s=72&u=083c381d7a66f2d708b0184e6850cca886905910&v=4" width="24" alt="Avatar of PoladMahmudov"> PoladMahmudov
+			</a><br/>
+			Polad
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>2</td>
+		<td>99</td>
+	</tr>
+	<tr>
+		<td>468</td>
+		<td>
+			<a href="https://github.com/ilikerobots">
+				<img src="https://avatars.githubusercontent.com/u/6736189?s=72&u=ca0b721009de75cff6156c0dce6d27b490b69580&v=4" width="24" alt="Avatar of ilikerobots"> ilikerobots
+			</a><br/>
+			Mike Hoolehan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>76</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>469</td>
+		<td>
+			<a href="https://github.com/plaes">
+				<img src="https://avatars.githubusercontent.com/u/91895?s=72&v=4" width="24" alt="Avatar of plaes"> plaes
+			</a><br/>
+			Priit Laes
+		</td>
+		<td>@pafcloud  </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>97</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>470</td>
+		<td>
+			<a href="https://github.com/isaac-chung">
+				<img src="https://avatars.githubusercontent.com/u/48971969?s=72&u=5b7e738cc0b27bee1cfedab4b652fb942d3b242c&v=4" width="24" alt="Avatar of isaac-chung"> isaac-chung
+			</a><br/>
+			Isaac Chung
+		</td>
+		<td>Clarifai </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>97</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>471</td>
+		<td>
+			<a href="https://github.com/IljaSamoilov">
+				<img src="https://avatars.githubusercontent.com/u/20166392?s=72&v=4" width="24" alt="Avatar of IljaSamoilov"> IljaSamoilov
+			</a><br/>
+			Ilja Samoilov
+		</td>
+		<td>Twilio </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>97</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>472</td>
+		<td>
+			<a href="https://github.com/kukrik">
+				<img src="https://avatars.githubusercontent.com/u/2853034?s=72&u=d0a87ba632debfe130bd3a0fb497873730aa9baf&v=4" width="24" alt="Avatar of kukrik"> kukrik
+			</a><br/>
+			Tiit Papp
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>97</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>473</td>
+		<td>
+			<a href="https://github.com/Suva">
+				<img src="https://avatars.githubusercontent.com/u/3774498?s=72&v=4" width="24" alt="Avatar of Suva"> Suva
+			</a><br/>
+			Jaan Pullerits
+		</td>
+		<td>Cybercat Creations </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>40</td>
+		<td>95</td>
+	</tr>
+	<tr>
+		<td>474</td>
+		<td>
+			<a href="https://github.com/jeltsch">
+				<img src="https://avatars.githubusercontent.com/u/5949153?s=72&u=c7c8a83617213618db782be78ee3c9125da0b513&v=4" width="24" alt="Avatar of jeltsch"> jeltsch
+			</a><br/>
+			Wolfgang Jeltsch
+		</td>
+		<td>@well-typed </td>
+		<td><a href="https://twitter.com/WolfgangJeltsch">WolfgangJeltsch</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>94</td>
+		<td>94</td>
+	</tr>
+	<tr>
+		<td>475</td>
+		<td>
+			<a href="https://github.com/cravler">
+				<img src="https://avatars.githubusercontent.com/u/157440?s=72&v=4" width="24" alt="Avatar of cravler"> cravler
+			</a><br/>
+			Sergei Vizel
+		</td>
+		<td>Modera </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>92</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>476</td>
+		<td>
+			<a href="https://github.com/ibotirama">
+				<img src="https://avatars.githubusercontent.com/u/565336?s=72&v=4" width="24" alt="Avatar of ibotirama"> ibotirama
+			</a><br/>
+			Pedro Henrique
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ibotirama">ibotirama</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>91</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>477</td>
+		<td>
+			<a href="https://github.com/akaver">
+				<img src="https://avatars.githubusercontent.com/u/2605266?s=72&u=b690a4be1425a5c6627bc9e70d3e0aed40c0ffe7&v=4" width="24" alt="Avatar of akaver"> akaver
+			</a><br/>
+			Andres Käver
+		</td>
+		<td>Akaver Solutions Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>46</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>478</td>
+		<td>
+			<a href="https://github.com/pannoi">
+				<img src="https://avatars.githubusercontent.com/u/48126600?s=72&u=ccad477c24db51aae4877cf7f6ae4b4f1344b274&v=4" width="24" alt="Avatar of pannoi"> pannoi
+			</a><br/>
+			Anton Poplavnoi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia Tallinn</td>
+		<td>91</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>479</td>
+		<td>
+			<a href="https://github.com/temisu">
+				<img src="https://avatars.githubusercontent.com/u/20931314?s=72&v=4" width="24" alt="Avatar of temisu"> temisu
+			</a><br/>
+			Teemu Suutari
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn / Estonia</td>
+		<td>90</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>480</td>
+		<td>
+			<a href="https://github.com/Zohaib94">
+				<img src="https://avatars.githubusercontent.com/u/6662280?s=72&u=f5cd3d2df78f8b331a775898391a274136a0ea0c&v=4" width="24" alt="Avatar of Zohaib94"> Zohaib94
+			</a><br/>
+			Zohaib Ahmed Butt
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu</td>
+		<td>53</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>481</td>
+		<td>
+			<a href="https://github.com/hatefpalizgar">
+				<img src="https://avatars.githubusercontent.com/u/44304240?s=72&u=450cbe35d48f4a432bb6ec2ba95716a20a5f8127&v=4" width="24" alt="Avatar of hatefpalizgar"> hatefpalizgar
+			</a><br/>
+			Hatef
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>54</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>482</td>
+		<td>
+			<a href="https://github.com/exsilium">
+				<img src="https://avatars.githubusercontent.com/u/2134238?s=72&v=4" width="24" alt="Avatar of exsilium"> exsilium
+			</a><br/>
+			Sten Feldman
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/stenfeldman">stenfeldman</a></td>
+		<td>Estonia</td>
+		<td>85</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>483</td>
+		<td>
+			<a href="https://github.com/tomliversidge">
+				<img src="https://avatars.githubusercontent.com/u/1437372?s=72&u=40c70fe1a398b08fc5911bdd70bb8ecabdc8608d&v=4" width="24" alt="Avatar of tomliversidge"> tomliversidge
+			</a><br/>
+			Tom Liversidge
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>2</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>484</td>
+		<td>
+			<a href="https://github.com/KseniiaPrytkova">
+				<img src="https://avatars.githubusercontent.com/u/15095731?s=72&u=60c574d1875ad6c3965e767b303bba680dabfbf9&v=4" width="24" alt="Avatar of KseniiaPrytkova"> KseniiaPrytkova
+			</a><br/>
+			Kseniia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>83</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>485</td>
+		<td>
+			<a href="https://github.com/mkdesignn">
+				<img src="https://avatars.githubusercontent.com/u/4149125?s=72&u=68e004673019d7e7e497d15e5d18d3d7906329e2&v=4" width="24" alt="Avatar of mkdesignn"> mkdesignn
+			</a><br/>
+			mohammad
+		</td>
+		<td>Qstep </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>83</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>486</td>
+		<td>
+			<a href="https://github.com/Lauriy">
+				<img src="https://avatars.githubusercontent.com/u/592465?s=72&u=705d23f20cd2eadb29ecb7a6d4c8c6ff20164df5&v=4" width="24" alt="Avatar of Lauriy"> Lauriy
+			</a><br/>
+			Lauri Elias
+		</td>
+		<td>Indoorsman Oü </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>83</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>487</td>
+		<td>
+			<a href="https://github.com/xStrom">
+				<img src="https://avatars.githubusercontent.com/u/754881?s=72&v=4" width="24" alt="Avatar of xStrom"> xStrom
+			</a><br/>
+			Kaur Kuut
+		</td>
+		<td>Oü Nevermore </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>13</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>488</td>
+		<td>
+			<a href="https://github.com/Ky6uk">
+				<img src="https://avatars.githubusercontent.com/u/46930?s=72&v=4" width="24" alt="Avatar of Ky6uk"> Ky6uk
+			</a><br/>
+			Roman Nuritdinov
+		</td>
+		<td>Green Pie </td>
+		<td><a href="https://twitter.com/Ky6uk">Ky6uk</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>52</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>489</td>
+		<td>
+			<a href="https://github.com/int02h">
+				<img src="https://avatars.githubusercontent.com/u/2471447?s=72&u=d62e3837c90dc066fe114cfc6514ea75510d72e6&v=4" width="24" alt="Avatar of int02h"> int02h
+			</a><br/>
+			Daniil Popov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>80</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>490</td>
+		<td>
+			<a href="https://github.com/Cilestal">
+				<img src="https://avatars.githubusercontent.com/u/9981088?s=72&u=9a1f911d71fc90fe07239bc3f665c9c9037aba20&v=4" width="24" alt="Avatar of Cilestal"> Cilestal
+			</a><br/>
+			Michael Lang
+		</td>
+		<td>Apico Oü </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>80</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>491</td>
+		<td>
+			<a href="https://github.com/kuz">
+				<img src="https://avatars.githubusercontent.com/u/1081145?s=72&u=03379277736a401bd27ef66dc6c178cf6dca67bc&v=4" width="24" alt="Avatar of kuz"> kuz
+			</a><br/>
+			Ilya Kuzovkin
+		</td>
+		<td>Offworld | University Of<br/>Tartu<br/></td>
+		<td><a href="https://twitter.com/IlyaKuzovkin">IlyaKuzovkin</a></td>
+		<td>Sydney | Tartu | Pasadena</td>
+		<td>14</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>492</td>
+		<td>
+			<a href="https://github.com/kasparkivistik">
+				<img src="https://avatars.githubusercontent.com/u/27056536?s=72&u=91cdcc739215d5610fb007c01fcf85048a93a5cb&v=4" width="24" alt="Avatar of kasparkivistik"> kasparkivistik
+			</a><br/>
+			Kaspar Kivistik
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>77</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>493</td>
+		<td>
+			<a href="https://github.com/poddardelhi">
+				<img src="https://avatars.githubusercontent.com/u/8672423?s=72&u=6cd7b5742d54b98209c6ae337bd166ef2199db2a&v=4" width="24" alt="Avatar of poddardelhi"> poddardelhi
+			</a><br/>
+			nishant 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>79</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>494</td>
+		<td>
+			<a href="https://github.com/whysthatso">
+				<img src="https://avatars.githubusercontent.com/u/1685114?s=72&v=4" width="24" alt="Avatar of whysthatso"> whysthatso
+			</a><br/>
+			Andreas Wagner
+		</td>
+		<td>Whyservices Oü </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>78</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>495</td>
+		<td>
+			<a href="https://github.com/Anqlem">
+				<img src="https://avatars.githubusercontent.com/u/29583570?s=72&v=4" width="24" alt="Avatar of Anqlem"> Anqlem
+			</a><br/>
+			Mikhail Shmelev
+		</td>
+		<td>Bredbrains </td>
+		<td><a href="https://twitter.com/Anqlem">Anqlem</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>77</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>496</td>
+		<td>
+			<a href="https://github.com/pentp">
+				<img src="https://avatars.githubusercontent.com/u/264426?s=72&u=1a3efadb73b1d49cc59e07ca6d73105db71fb513&v=4" width="24" alt="Avatar of pentp"> pentp
+			</a><br/>
+			Pent Ploompuu
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>77</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>497</td>
+		<td>
+			<a href="https://github.com/ProstoSanja">
+				<img src="https://avatars.githubusercontent.com/u/26527928?s=72&u=b0432c223daa6ff161e62ed640ec99a736d01157&v=4" width="24" alt="Avatar of ProstoSanja"> ProstoSanja
+			</a><br/>
+			Alex Tsernoh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia, Mars</td>
+		<td>29</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>498</td>
+		<td>
+			<a href="https://github.com/demonno">
+				<img src="https://avatars.githubusercontent.com/u/1255065?s=72&v=4" width="24" alt="Avatar of demonno"> demonno
+			</a><br/>
+			Demur Nodia
+		</td>
+		<td>Paxful </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>43</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>499</td>
+		<td>
+			<a href="https://github.com/redbluescreen">
+				<img src="https://avatars.githubusercontent.com/u/8455367?s=72&u=7f951450fdff3bd71ecc4a0b1332d8831e11ff86&v=4" width="24" alt="Avatar of redbluescreen"> redbluescreen
+			</a><br/>
+			Jan Hendrik Jõgi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>12</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>500</td>
+		<td>
+			<a href="https://github.com/vignesh-msundaram">
+				<img src="https://avatars.githubusercontent.com/u/2482663?s=72&u=14f104088ee090ff4586b989064a8aad24527c32&v=4" width="24" alt="Avatar of vignesh-msundaram"> vignesh-msundaram
+			</a><br/>
+			Vignesh Meenakshi Sundaram
+		</td>
+		<td>@lendroidproject  </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>74</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>501</td>
+		<td>
+			<a href="https://github.com/kaidolepik">
+				<img src="https://avatars.githubusercontent.com/u/5453199?s=72&v=4" width="24" alt="Avatar of kaidolepik"> kaidolepik
+			</a><br/>
+			Kaido Lepik
+		</td>
+		<td>University Of Tartu </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>74</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>502</td>
+		<td>
+			<a href="https://github.com/novinsh">
+				<img src="https://avatars.githubusercontent.com/u/2837237?s=72&u=b7b855fae1dbd274aaadd2ba975c495eb2c4ce33&v=4" width="24" alt="Avatar of novinsh"> novinsh
+			</a><br/>
+			Novin Shahroudi
+		</td>
+		<td>University Of Tartu </td>
+		<td>No Twitter Username</td>
+		<td>Tartu</td>
+		<td>73</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>503</td>
+		<td>
+			<a href="https://github.com/Kaidja">
+				<img src="https://avatars.githubusercontent.com/u/7693531?s=72&v=4" width="24" alt="Avatar of Kaidja"> Kaidja
+			</a><br/>
+			Kaido Järvemets
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>73</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>504</td>
+		<td>
+			<a href="https://github.com/timotoots">
+				<img src="https://avatars.githubusercontent.com/u/2165596?s=72&v=4" width="24" alt="Avatar of timotoots"> timotoots
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maajaam, Estonia</td>
+		<td>73</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>505</td>
+		<td>
+			<a href="https://github.com/tambry">
+				<img src="https://avatars.githubusercontent.com/u/1827708?s=72&u=a51e37c0b7f5e3ac56ff65fd3e43efca4d9099cf&v=4" width="24" alt="Avatar of tambry"> tambry
+			</a><br/>
+			Raul Tambre
+		</td>
+		<td>Cleveron As </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>71</td>
+		<td>72</td>
+	</tr>
+	<tr>
+		<td>506</td>
+		<td>
+			<a href="https://github.com/cernodile">
+				<img src="https://avatars.githubusercontent.com/u/17257449?s=72&u=4baa5654a8110774914d09110ab458ec79c01239&v=4" width="24" alt="Avatar of cernodile"> cernodile
+			</a><br/>
+			Joann Mõndresku
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cernodile">cernodile</a></td>
+		<td>Estonia</td>
+		<td>16</td>
+		<td>72</td>
+	</tr>
+	<tr>
+		<td>507</td>
+		<td>
+			<a href="https://github.com/ioBanker">
+				<img src="https://avatars.githubusercontent.com/u/37595908?s=72&u=f11b6fecb934edc7589112e4850f1c543b9f70ee&v=4" width="24" alt="Avatar of ioBanker"> ioBanker
+			</a><br/>
+			ioBanker
+		</td>
+		<td>Iobanker </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>72</td>
+		<td>72</td>
+	</tr>
+	<tr>
+		<td>508</td>
+		<td>
+			<a href="https://github.com/lnagel">
+				<img src="https://avatars.githubusercontent.com/u/438434?s=72&u=86bd39fdc064053407ac0bd2c746612203167edd&v=4" width="24" alt="Avatar of lnagel"> lnagel
+			</a><br/>
+			Lenno Nagel
+		</td>
+		<td>Namespace </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>72</td>
+		<td>72</td>
+	</tr>
+	<tr>
+		<td>509</td>
+		<td>
+			<a href="https://github.com/yaskovdev">
+				<img src="https://avatars.githubusercontent.com/u/7571738?s=72&u=e4ee8b4dbd38a6601c9da0f949f0289f231e2b6b&v=4" width="24" alt="Avatar of yaskovdev"> yaskovdev
+			</a><br/>
+			Sergey Yaskov
+		</td>
+		<td>@motivepick  </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>71</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>510</td>
+		<td>
+			<a href="https://github.com/antivoland">
+				<img src="https://avatars.githubusercontent.com/u/3669979?s=72&u=524ff1d9e95da0b138219891a225baeff4e5b005&v=4" width="24" alt="Avatar of antivoland"> antivoland
+			</a><br/>
+			Vladimir Pavlovski
+		</td>
+		<td>Twilio </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>1</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>511</td>
+		<td>
+			<a href="https://github.com/burakozdemir32">
+				<img src="https://avatars.githubusercontent.com/u/8948363?s=72&u=eb494573ec5bba41cddaf888e9c10bbf2c4d9dea&v=4" width="24" alt="Avatar of burakozdemir32"> burakozdemir32
+			</a><br/>
+			Burak Özdemir
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>18</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>512</td>
+		<td>
+			<a href="https://github.com/MohaSalem">
+				<img src="https://avatars.githubusercontent.com/u/64562801?s=72&u=53a7d46d2f2f90acdb6ae4c4b6ada80afd582907&v=4" width="24" alt="Avatar of MohaSalem"> MohaSalem
+			</a><br/>
+			Mohamed Salem
+		</td>
+		<td>Playtech </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>69</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>513</td>
+		<td>
+			<a href="https://github.com/memoricab">
+				<img src="https://avatars.githubusercontent.com/u/7073672?s=72&u=9acfd6532950c3893d7f767f51bc9176822b9e96&v=4" width="24" alt="Avatar of memoricab"> memoricab
+			</a><br/>
+			celenmeh
+		</td>
+		<td>Gamesys </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>11</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>514</td>
+		<td>
+			<a href="https://github.com/xenos1984">
+				<img src="https://avatars.githubusercontent.com/u/7131167?s=72&u=1fa340545aa85e6e61bc395b0f93309c52338e61&v=4" width="24" alt="Avatar of xenos1984"> xenos1984
+			</a><br/>
+			Manuel Hohmann
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>67</td>
+		<td>67</td>
+	</tr>
+	<tr>
+		<td>515</td>
+		<td>
+			<a href="https://github.com/mchingiz">
+				<img src="https://avatars.githubusercontent.com/u/20167474?s=72&u=6d971519202cb9b74bc74442e729726cb8e53685&v=4" width="24" alt="Avatar of mchingiz"> mchingiz
+			</a><br/>
+			Chingiz Mammadli
+		</td>
+		<td>Pipedrive Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>3</td>
+		<td>67</td>
+	</tr>
+	<tr>
+		<td>516</td>
+		<td>
+			<a href="https://github.com/kyttike">
+				<img src="https://avatars.githubusercontent.com/u/3655981?s=72&u=e90a093cfa7e59fe9d76dddd687a6209421ee42c&v=4" width="24" alt="Avatar of kyttike"> kyttike
+			</a><br/>
+			Daniel Kütt
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kyttike">kyttike</a></td>
+		<td>Tartu, Estonia</td>
+		<td>67</td>
+		<td>67</td>
+	</tr>
+	<tr>
+		<td>517</td>
+		<td>
+			<a href="https://github.com/MeGaPk">
+				<img src="https://avatars.githubusercontent.com/u/892182?s=72&u=82671c1d5bbd31fab24e2e07c9f80240e9d3bc02&v=4" width="24" alt="Avatar of MeGaPk"> MeGaPk
+			</a><br/>
+			Ivan Gaydamakin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>36</td>
+		<td>67</td>
+	</tr>
+	<tr>
+		<td>518</td>
+		<td>
+			<a href="https://github.com/tanelhiob">
+				<img src="https://avatars.githubusercontent.com/u/7113198?s=72&u=b704ec6e8f9739d74e8d09a3f73b9e8ad9c451f4&v=4" width="24" alt="Avatar of tanelhiob"> tanelhiob
+			</a><br/>
+			Tanel Hiob
+		</td>
+		<td>Uptime </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>0</td>
+		<td>67</td>
+	</tr>
+	<tr>
+		<td>519</td>
+		<td>
+			<a href="https://github.com/birfincankafein">
+				<img src="https://avatars.githubusercontent.com/u/5882310?s=72&v=4" width="24" alt="Avatar of birfincankafein"> birfincankafein
+			</a><br/>
+			Metehan Toksoy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn / Estonia</td>
+		<td>1</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>520</td>
+		<td>
+			<a href="https://github.com/MayGo">
+				<img src="https://avatars.githubusercontent.com/u/1929299?s=72&u=447b3e8048dba055efb858c8c5b2b619e9154527&v=4" width="24" alt="Avatar of MayGo"> MayGo
+			</a><br/>
+			Maigo Erit
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>64</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>521</td>
+		<td>
+			<a href="https://github.com/mdunaev">
+				<img src="https://avatars.githubusercontent.com/u/1336236?s=72&u=e78acafaf61e7ffcf6c54b54b2e4a89bee60af68&v=4" width="24" alt="Avatar of mdunaev"> mdunaev
+			</a><br/>
+			Miša Dunaev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>19</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>522</td>
+		<td>
+			<a href="https://github.com/usetheplatform">
+				<img src="https://avatars.githubusercontent.com/u/58340039?s=72&u=ad4ff228cea008f96affa0361e75dfc2653569ec&v=4" width="24" alt="Avatar of usetheplatform"> usetheplatform
+			</a><br/>
+			Anatoliy
+		</td>
+		<td>Bolt </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>46</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>523</td>
+		<td>
+			<a href="https://github.com/ucanfil">
+				<img src="https://avatars.githubusercontent.com/u/24561072?s=72&u=810d8246613b106dc1e9508ca63987d549abbe82&v=4" width="24" alt="Avatar of ucanfil"> ucanfil
+			</a><br/>
+			burak
+		</td>
+		<td>Derivco </td>
+		<td><a href="https://twitter.com/tilekburak">tilekburak</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>62</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>524</td>
+		<td>
+			<a href="https://github.com/al3xandr3">
+				<img src="https://avatars.githubusercontent.com/u/42790?s=72&u=d0ee2b180ff4de07e687fb3f4a8d1e7d5ca84cfd&v=4" width="24" alt="Avatar of al3xandr3"> al3xandr3
+			</a><br/>
+			Alexandre Martins
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>62</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>525</td>
+		<td>
+			<a href="https://github.com/monkin">
+				<img src="https://avatars.githubusercontent.com/u/183967?s=72&u=01f56ce700c2a6dcc8ebcd9f60ee1055cd025ad9&v=4" width="24" alt="Avatar of monkin"> monkin
+			</a><br/>
+			Andrey Monkin
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/amonkin">amonkin</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>62</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>526</td>
+		<td>
+			<a href="https://github.com/krootee">
+				<img src="https://avatars.githubusercontent.com/u/1162001?s=72&v=4" width="24" alt="Avatar of krootee"> krootee
+			</a><br/>
+			No Name
+		</td>
+		<td>Fringely Ai </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>61</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>527</td>
+		<td>
+			<a href="https://github.com/NicholasAsimov">
+				<img src="https://avatars.githubusercontent.com/u/8828810?s=72&u=8163564155ba4e956b12244c703f1369772882df&v=4" width="24" alt="Avatar of NicholasAsimov"> NicholasAsimov
+			</a><br/>
+			Nicholas Asimov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>60</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>528</td>
+		<td>
+			<a href="https://github.com/w20k">
+				<img src="https://avatars.githubusercontent.com/u/1053320?s=72&u=fa476a2fe60c1696598d010ca209de2206da5955&v=4" width="24" alt="Avatar of w20k"> w20k
+			</a><br/>
+			Denis Denisov
+		</td>
+		<td>Wilddirt </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>5</td>
+		<td>59</td>
+	</tr>
+	<tr>
+		<td>529</td>
+		<td>
+			<a href="https://github.com/De-Bola">
+				<img src="https://avatars.githubusercontent.com/u/54313389?s=72&v=4" width="24" alt="Avatar of De-Bola"> De-Bola
+			</a><br/>
+			Adebola Gbiri
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia.</td>
+		<td>53</td>
+		<td>59</td>
+	</tr>
+	<tr>
+		<td>530</td>
+		<td>
+			<a href="https://github.com/Bharath-Kumar-S">
+				<img src="https://avatars.githubusercontent.com/u/26269665?s=72&u=5ac74b210add267e1d0f10bee20d0ac3940c3956&v=4" width="24" alt="Avatar of Bharath-Kumar-S"> Bharath-Kumar-S
+			</a><br/>
+			Bharath Kumar S
+		</td>
+		<td>Malwarebytes </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>58</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>531</td>
+		<td>
+			<a href="https://github.com/siilike">
+				<img src="https://avatars.githubusercontent.com/u/7862902?s=72&u=0135489c350ca2d39c0757dd2cf271475993691c&v=4" width="24" alt="Avatar of siilike"> siilike
+			</a><br/>
+			Siilike
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>58</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>532</td>
+		<td>
+			<a href="https://github.com/aleksandr-m">
+				<img src="https://avatars.githubusercontent.com/u/5055566?s=72&u=25ac94cb1f3a57903a2e5ffdf800d791722efd91&v=4" width="24" alt="Avatar of aleksandr-m"> aleksandr-m
+			</a><br/>
+			Aleksandr Mashchenko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>57</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>533</td>
+		<td>
+			<a href="https://github.com/andreskarjus">
+				<img src="https://avatars.githubusercontent.com/u/30976678?s=72&u=c9c3cda79373ab82d0c74ef5ce0ae59d8955d684&v=4" width="24" alt="Avatar of andreskarjus"> andreskarjus
+			</a><br/>
+			Andres Karjus
+		</td>
+		<td>Tallinn University </td>
+		<td><a href="https://twitter.com/andreskarjus">andreskarjus</a></td>
+		<td>Estonia</td>
+		<td>57</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>534</td>
+		<td>
+			<a href="https://github.com/hkirsman">
+				<img src="https://avatars.githubusercontent.com/u/492375?s=72&u=af2eeb18178f66ed5990eb98a3c23753a697c6be&v=4" width="24" alt="Avatar of hkirsman"> hkirsman
+			</a><br/>
+			Hannes Kirsman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>57</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>535</td>
+		<td>
+			<a href="https://github.com/tomialagbe">
+				<img src="https://avatars.githubusercontent.com/u/5705923?s=72&u=dd2abd4dc79661f623823ea89b7106b1c9b6a035&v=4" width="24" alt="Avatar of tomialagbe"> tomialagbe
+			</a><br/>
+			Tomi Alagbe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>56</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>536</td>
+		<td>
+			<a href="https://github.com/5teffen">
+				<img src="https://avatars.githubusercontent.com/u/15904693?s=72&u=f14e3a65c6c4f13dfa8e9514cea82ab97edc051f&v=4" width="24" alt="Avatar of 5teffen"> 5teffen
+			</a><br/>
+			Steffen Holter
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn || New York || Abu Dhabi</td>
+		<td>37</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>537</td>
+		<td>
+			<a href="https://github.com/muruw">
+				<img src="https://avatars.githubusercontent.com/u/35424371?s=72&u=88f733151dd80717d39091e26115372bdcbff03e&v=4" width="24" alt="Avatar of muruw"> muruw
+			</a><br/>
+			Marcus Murumäe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>41</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>538</td>
+		<td>
+			<a href="https://github.com/rang501">
+				<img src="https://avatars.githubusercontent.com/u/757596?s=72&v=4" width="24" alt="Avatar of rang501"> rang501
+			</a><br/>
+			Märt Rang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>55</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>539</td>
+		<td>
+			<a href="https://github.com/mroman42">
+				<img src="https://avatars.githubusercontent.com/u/5337877?s=72&u=e30f3b708e1382ca977b1c354a21e94cfb27bfe6&v=4" width="24" alt="Avatar of mroman42"> mroman42
+			</a><br/>
+			Mario Román
+		</td>
+		<td>Tallinn University Of Technology<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>54</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>540</td>
+		<td>
+			<a href="https://github.com/kpavlov">
+				<img src="https://avatars.githubusercontent.com/u/1517853?s=72&u=a4f14eb3df68f231c4560ed7aa3689cf36391318&v=4" width="24" alt="Avatar of kpavlov"> kpavlov
+			</a><br/>
+			Konstantin Pavlov
+		</td>
+		<td>@twilio </td>
+		<td><a href="https://twitter.com/k_pavlov">k_pavlov</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>54</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>541</td>
+		<td>
+			<a href="https://github.com/karl37">
+				<img src="https://avatars.githubusercontent.com/u/46323937?s=72&u=95f98f3da19b9c508e6a3623a5f09f0b9e2b6a62&v=4" width="24" alt="Avatar of karl37"> karl37
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mordor, Estonia ✨</td>
+		<td>11</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>542</td>
+		<td>
+			<a href="https://github.com/madisvain">
+				<img src="https://avatars.githubusercontent.com/u/727994?s=72&u=25f13f09babcef77247377af7f574280606609e7&v=4" width="24" alt="Avatar of madisvain"> madisvain
+			</a><br/>
+			Madis Väin
+		</td>
+		<td>Namespace Oü @namespace-ee <br/></td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>53</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>543</td>
+		<td>
+			<a href="https://github.com/jardev">
+				<img src="https://avatars.githubusercontent.com/u/306460?s=72&v=4" width="24" alt="Avatar of jardev"> jardev
+			</a><br/>
+			Yaroslav Luzin
+		</td>
+		<td>42 Coffee Cups </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>53</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>544</td>
+		<td>
+			<a href="https://github.com/aminueza">
+				<img src="https://avatars.githubusercontent.com/u/15249711?s=72&u=ae861dcfc9f24d004952bc9e48a427155b8a495e&v=4" width="24" alt="Avatar of aminueza"> aminueza
+			</a><br/>
+			Amanda Souza
+		</td>
+		<td>@microsoft  </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>50</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>545</td>
+		<td>
+			<a href="https://github.com/firatakandere">
+				<img src="https://avatars.githubusercontent.com/u/2188474?s=72&u=928f889db619747cff39f805056dc30e3d3bffb5&v=4" width="24" alt="Avatar of firatakandere"> firatakandere
+			</a><br/>
+			Firat Akandere
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>45</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>546</td>
+		<td>
+			<a href="https://github.com/ythalorossy">
+				<img src="https://avatars.githubusercontent.com/u/4133252?s=72&u=a127b05982cbd5f15bd6a59884bbbcf72eb64da0&v=4" width="24" alt="Avatar of ythalorossy"> ythalorossy
+			</a><br/>
+			Ythalo Saldanha
+		</td>
+		<td>Afs It Solution Estonia<br/>Ou<br/></td>
+		<td><a href="https://twitter.com/ythalorossy">ythalorossy</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>51</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>547</td>
+		<td>
+			<a href="https://github.com/MichaelRinglein">
+				<img src="https://avatars.githubusercontent.com/u/15106302?s=72&u=3228df808c6d86ddca59322320950ae40effc8cd&v=4" width="24" alt="Avatar of MichaelRinglein"> MichaelRinglein
+			</a><br/>
+			Michael
+		</td>
+		<td>Strawanzer Oü </td>
+		<td>No Twitter Username</td>
+		<td>Talinn, Estonia</td>
+		<td>51</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>548</td>
+		<td>
+			<a href="https://github.com/MaxandreOgeret">
+				<img src="https://avatars.githubusercontent.com/u/22786578?s=72&u=242e587d5faf5792e7b2c9fccdec69f3706172d4&v=4" width="24" alt="Avatar of MaxandreOgeret"> MaxandreOgeret
+			</a><br/>
+			No Name
+		</td>
+		<td>University Of Tartu </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>50</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>549</td>
+		<td>
+			<a href="https://github.com/Cesura">
+				<img src="https://avatars.githubusercontent.com/u/223393?s=72&u=e2e3fce9ac7ea12cea3783a2ed44a6178163ca17&v=4" width="24" alt="Avatar of Cesura"> Cesura
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>49</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>550</td>
+		<td>
+			<a href="https://github.com/bugeyemonster">
+				<img src="https://avatars.githubusercontent.com/u/294396?s=72&u=fed612ce994df0d70db5e2f693348fee6e8a5bee&v=4" width="24" alt="Avatar of bugeyemonster"> bugeyemonster
+			</a><br/>
+			Brady
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>49</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>551</td>
+		<td>
+			<a href="https://github.com/toomasr">
+				<img src="https://avatars.githubusercontent.com/u/196499?s=72&u=554db7d94c4b6712bfe2409481d0a5422fff90e2&v=4" width="24" alt="Avatar of toomasr"> toomasr
+			</a><br/>
+			Toomas Romer
+		</td>
+		<td>Bolt </td>
+		<td><a href="https://twitter.com/toomasr">toomasr</a></td>
+		<td>Tartu, Estonia</td>
+		<td>48</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>552</td>
+		<td>
+			<a href="https://github.com/goldenratio">
+				<img src="https://avatars.githubusercontent.com/u/3019293?s=72&u=1c749c138f4eb24a66eb3115b65f5fd6acce1748&v=4" width="24" alt="Avatar of goldenratio"> goldenratio
+			</a><br/>
+			Karthik VJ
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/karthikvj">karthikvj</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>48</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>553</td>
+		<td>
+			<a href="https://github.com/nocubicles">
+				<img src="https://avatars.githubusercontent.com/u/7818438?s=72&u=6acb069ba3e09e2cff22f024fd88f591ef225de3&v=4" width="24" alt="Avatar of nocubicles"> nocubicles
+			</a><br/>
+			Villem Heinsalu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>8</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>554</td>
+		<td>
+			<a href="https://github.com/taphos">
+				<img src="https://avatars.githubusercontent.com/u/9436998?s=72&u=9753928401fcbd92251d7f1db3d9557504aa0fbf&v=4" width="24" alt="Avatar of taphos"> taphos
+			</a><br/>
+			Filipp Keks
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>46</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>555</td>
+		<td>
+			<a href="https://github.com/Drogbi">
+				<img src="https://avatars.githubusercontent.com/u/19656571?s=72&u=a67de7d658faae2a59e19202db66e21cd5bac0b4&v=4" width="24" alt="Avatar of Drogbi"> Drogbi
+			</a><br/>
+			Aliaksandr Ihnashevich
+		</td>
+		<td>Paxful </td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>8</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>556</td>
+		<td>
+			<a href="https://github.com/nick318">
+				<img src="https://avatars.githubusercontent.com/u/6926262?s=72&u=f49222d9f7222b7d10f9034bc72618b13109ce76&v=4" width="24" alt="Avatar of nick318"> nick318
+			</a><br/>
+			Nikita
+		</td>
+		<td>Kuehne-nagel  </td>
+		<td><a href="https://twitter.com/nick318_">nick318_</a></td>
+		<td>Estonia</td>
+		<td>39</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>557</td>
+		<td>
+			<a href="https://github.com/whitehacker">
+				<img src="https://avatars.githubusercontent.com/u/8627779?s=72&u=221e043924f0b7b293924dd063321b902a4a6e60&v=4" width="24" alt="Avatar of whitehacker"> whitehacker
+			</a><br/>
+			Baseer Ahmad Baher
+		</td>
+		<td>Rahnama </td>
+		<td><a href="https://twitter.com/bbaheer">bbaheer</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>34</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>558</td>
+		<td>
+			<a href="https://github.com/kmteras">
+				<img src="https://avatars.githubusercontent.com/u/8247600?s=72&v=4" width="24" alt="Avatar of kmteras"> kmteras
+			</a><br/>
+			Karl Martin Teras
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>30</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>559</td>
+		<td>
+			<a href="https://github.com/not-much-io">
+				<img src="https://avatars.githubusercontent.com/u/5730578?s=72&u=63e04bd11b632275803df7e5c1446a5aacbc7b0b&v=4" width="24" alt="Avatar of not-much-io"> not-much-io
+			</a><br/>
+			Kristo Koert
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>46</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>560</td>
+		<td>
+			<a href="https://github.com/Nailya">
+				<img src="https://avatars.githubusercontent.com/u/4751060?s=72&v=4" width="24" alt="Avatar of Nailya"> Nailya
+			</a><br/>
+			Nailya Kutlubaeva
+		</td>
+		<td>Percona </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>46</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>561</td>
+		<td>
+			<a href="https://github.com/Lonsofore">
+				<img src="https://avatars.githubusercontent.com/u/15412898?s=72&u=61282491f8b97e13ba164fbfe9e1c89c8ff8c6b7&v=4" width="24" alt="Avatar of Lonsofore"> Lonsofore
+			</a><br/>
+			Pavel
+		</td>
+		<td>Malwarebytes </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Harjumaa, Estonia</td>
+		<td>16</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>562</td>
+		<td>
+			<a href="https://github.com/jaakkytt">
+				<img src="https://avatars.githubusercontent.com/u/2814704?s=72&u=127af82c616faa92fc8ce9963fa706085a327d84&v=4" width="24" alt="Avatar of jaakkytt"> jaakkytt
+			</a><br/>
+			Jaak Kütt
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>15</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>563</td>
+		<td>
+			<a href="https://github.com/geegog">
+				<img src="https://avatars.githubusercontent.com/u/11021390?s=72&u=327fe606f37a0b852ad9c98f84ecd5a1fc22d41d&v=4" width="24" alt="Avatar of geegog"> geegog
+			</a><br/>
+			Onuche Idoko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>44</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>564</td>
+		<td>
+			<a href="https://github.com/KristerV">
+				<img src="https://avatars.githubusercontent.com/u/2750622?s=72&v=4" width="24" alt="Avatar of KristerV"> KristerV
+			</a><br/>
+			Krister Viirsaar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>12</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>565</td>
+		<td>
+			<a href="https://github.com/ndri">
+				<img src="https://avatars.githubusercontent.com/u/5224431?s=72&u=0e52f4bce99378e0c2f0bd2038018fef520f9af8&v=4" width="24" alt="Avatar of ndri"> ndri
+			</a><br/>
+			Andri Soone
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>43</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>566</td>
+		<td>
+			<a href="https://github.com/cosmiccamel">
+				<img src="https://avatars.githubusercontent.com/u/5505878?s=72&u=3ddfd49433ac211dc2378599077440b72b8f6a8d&v=4" width="24" alt="Avatar of cosmiccamel"> cosmiccamel
+			</a><br/>
+			Juan R
+		</td>
+		<td>Microsoft - Skype </td>
+		<td><a href="https://twitter.com/ElWaterBoy">ElWaterBoy</a></td>
+		<td>Estonia</td>
+		<td>43</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>567</td>
+		<td>
+			<a href="https://github.com/luolong">
+				<img src="https://avatars.githubusercontent.com/u/133101?s=72&v=4" width="24" alt="Avatar of luolong"> luolong
+			</a><br/>
+			Roland Tepp
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>42</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>568</td>
+		<td>
+			<a href="https://github.com/jeserkin">
+				<img src="https://avatars.githubusercontent.com/u/183512?s=72&u=ba95411e2995a747f25811b2affa4088dbcfd40a&v=4" width="24" alt="Avatar of jeserkin"> jeserkin
+			</a><br/>
+			Eugene Serkin
+		</td>
+		<td>@nortal </td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>42</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>569</td>
+		<td>
+			<a href="https://github.com/dmuml10">
+				<img src="https://avatars.githubusercontent.com/u/6536456?s=72&u=5b7fadb5f0d27b33ce03416535109b461d782b03&v=4" width="24" alt="Avatar of dmuml10"> dmuml10
+			</a><br/>
+			No Name
+		</td>
+		<td>Twilio </td>
+		<td><a href="https://twitter.com/dmuml10">dmuml10</a></td>
+		<td>Tallinn</td>
+		<td>41</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>570</td>
+		<td>
+			<a href="https://github.com/Pribor86">
+				<img src="https://avatars.githubusercontent.com/u/56432814?s=72&u=3ba87f5b264a1fd4759bb0b101589a4b675d2961&v=4" width="24" alt="Avatar of Pribor86"> Pribor86
+			</a><br/>
+			Aleksandr Grigorjev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>41</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>571</td>
+		<td>
+			<a href="https://github.com/isihussain">
+				<img src="https://avatars.githubusercontent.com/u/35667459?s=72&u=08604dc963ca3096a6d4cec5dca0b5931627ef7d&v=4" width="24" alt="Avatar of isihussain"> isihussain
+			</a><br/>
+			Ismayil Huseynov
+		</td>
+		<td>Cyberoon Enterprise Oü </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>41</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>572</td>
+		<td>
+			<a href="https://github.com/pepela">
+				<img src="https://avatars.githubusercontent.com/u/4414460?s=72&u=b34f6b2e743a2601b7c9b77ded15695bd2f1a049&v=4" width="24" alt="Avatar of pepela"> pepela
+			</a><br/>
+			Giorgi Peranidze
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>34</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>573</td>
+		<td>
+			<a href="https://github.com/eddieoz">
+				<img src="https://avatars.githubusercontent.com/u/3277320?s=72&u=8c7c55d2cd3b5a2c6e466dcbf7060bfbd3fc41e5&v=4" width="24" alt="Avatar of eddieoz"> eddieoz
+			</a><br/>
+			Edilson Osorio Jr
+		</td>
+		<td>Originalmy.com </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn - Estonia</td>
+		<td>24</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>574</td>
+		<td>
+			<a href="https://github.com/Dew25">
+				<img src="https://avatars.githubusercontent.com/u/14212728?s=72&u=c436fcccfcdd9eba833422e8d7d8c5be597b9b6a&v=4" width="24" alt="Avatar of Dew25"> Dew25
+			</a><br/>
+			Dew25
+		</td>
+		<td>Ivkhk </td>
+		<td>No Twitter Username</td>
+		<td>ESTONIA</td>
+		<td>39</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>575</td>
+		<td>
+			<a href="https://github.com/kristoisberg">
+				<img src="https://avatars.githubusercontent.com/u/7974602?s=72&v=4" width="24" alt="Avatar of kristoisberg"> kristoisberg
+			</a><br/>
+			Kristo Isberg
+		</td>
+		<td>Icefire Oü </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>39</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>576</td>
+		<td>
+			<a href="https://github.com/hsellik">
+				<img src="https://avatars.githubusercontent.com/u/16798824?s=72&u=f1574c40f8a119139b4bd1ac0eaa49d57914afd3&v=4" width="24" alt="Avatar of hsellik"> hsellik
+			</a><br/>
+			Hendrig Sellik
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>36</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>577</td>
+		<td>
+			<a href="https://github.com/h0ssein2011">
+				<img src="https://avatars.githubusercontent.com/u/11961586?s=72&u=9f8fd23d34cc7a148cd34ea676a2d88baa3dbbf9&v=4" width="24" alt="Avatar of h0ssein2011"> h0ssein2011
+			</a><br/>
+			Hossein Mortazavi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn , Estonia </td>
+		<td>39</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>578</td>
+		<td>
+			<a href="https://github.com/cardouken">
+				<img src="https://avatars.githubusercontent.com/u/24594538?s=72&u=3f940d77995a8a3894e3dea3499be0c91e03c93e&v=4" width="24" alt="Avatar of cardouken"> cardouken
+			</a><br/>
+			cardo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>32</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>579</td>
+		<td>
+			<a href="https://github.com/Leymooo">
+				<img src="https://avatars.githubusercontent.com/u/8667294?s=72&u=17be226eba778d8d0958a8f08e94cd0495cf5341&v=4" width="24" alt="Avatar of Leymooo"> Leymooo
+			</a><br/>
+			Vjatšeslav Maspanov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>38</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>580</td>
+		<td>
+			<a href="https://github.com/martinraag">
+				<img src="https://avatars.githubusercontent.com/u/555983?s=72&u=636cb7ea37792de580af27a46a03a85f3c33a532&v=4" width="24" alt="Avatar of martinraag"> martinraag
+			</a><br/>
+			Martin Raag
+		</td>
+		<td>Snap Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>15</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>581</td>
+		<td>
+			<a href="https://github.com/JohannesTK">
+				<img src="https://avatars.githubusercontent.com/u/3767980?s=72&u=d77e05e26635a4b14bad6cc1dba0a4f613f20341&v=4" width="24" alt="Avatar of JohannesTK"> JohannesTK
+			</a><br/>
+			Johannes Tammekänd
+		</td>
+		<td>@sentinelhq </td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>8</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>582</td>
+		<td>
+			<a href="https://github.com/priitpu">
+				<img src="https://avatars.githubusercontent.com/u/17040443?s=72&u=7b3bb4a0ffb2a20053209642bb733e5ecd58df05&v=4" width="24" alt="Avatar of priitpu"> priitpu
+			</a><br/>
+			Priit
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>38</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>583</td>
+		<td>
+			<a href="https://github.com/allantatter">
+				<img src="https://avatars.githubusercontent.com/u/386999?s=72&v=4" width="24" alt="Avatar of allantatter"> allantatter
+			</a><br/>
+			Allan Tatter
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>38</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>584</td>
+		<td>
+			<a href="https://github.com/kaspar-naaber">
+				<img src="https://avatars.githubusercontent.com/u/3191867?s=72&u=c8a422bb2a11af9323c55d5e5d959d8fc1974a8b&v=4" width="24" alt="Avatar of kaspar-naaber"> kaspar-naaber
+			</a><br/>
+			Kaspar Naaber
+		</td>
+		<td>Iglu Oü </td>
+		<td>No Twitter Username</td>
+		<td>Tartu</td>
+		<td>0</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>585</td>
+		<td>
+			<a href="https://github.com/chief-wizard">
+				<img src="https://avatars.githubusercontent.com/u/40777040?s=72&u=cf4f5e72b0c37be6404010ba0a55684a48f4883c&v=4" width="24" alt="Avatar of chief-wizard"> chief-wizard
+			</a><br/>
+			Chief Wizard
+		</td>
+		<td>Wizard On Demand </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>38</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>586</td>
+		<td>
+			<a href="https://github.com/vellotis">
+				<img src="https://avatars.githubusercontent.com/u/308074?s=72&v=4" width="24" alt="Avatar of vellotis"> vellotis
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>38</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>587</td>
+		<td>
+			<a href="https://github.com/Romanskyy">
+				<img src="https://avatars.githubusercontent.com/u/36746332?s=72&u=17335a5b447e7af69720116dfe589c0c44da9312&v=4" width="24" alt="Avatar of Romanskyy"> Romanskyy
+			</a><br/>
+			Romanskyy Andrey
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>38</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>588</td>
+		<td>
+			<a href="https://github.com/kgilden">
+				<img src="https://avatars.githubusercontent.com/u/918599?s=72&v=4" width="24" alt="Avatar of kgilden"> kgilden
+			</a><br/>
+			Kristen Gilden
+		</td>
+		<td>Cto At Lydian </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, EE</td>
+		<td>37</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>589</td>
+		<td>
+			<a href="https://github.com/antiveeranna">
+				<img src="https://avatars.githubusercontent.com/u/132804?s=72&v=4" width="24" alt="Avatar of antiveeranna"> antiveeranna
+			</a><br/>
+			Anti Veeranna
+		</td>
+		<td>Starship Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>0</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>590</td>
+		<td>
+			<a href="https://github.com/erkiesken">
+				<img src="https://avatars.githubusercontent.com/u/1394282?s=72&v=4" width="24" alt="Avatar of erkiesken"> erkiesken
+			</a><br/>
+			Erki Esken
+		</td>
+		<td>@starshiprobots </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>36</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>591</td>
+		<td>
+			<a href="https://github.com/daenoor">
+				<img src="https://avatars.githubusercontent.com/u/211334?s=72&u=5a0b6b25b9b2291f6056c58ab2af2db13cc451fd&v=4" width="24" alt="Avatar of daenoor"> daenoor
+			</a><br/>
+			Andrey Yaroshenko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>36</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>592</td>
+		<td>
+			<a href="https://github.com/raoz">
+				<img src="https://avatars.githubusercontent.com/u/2214466?s=72&v=4" width="24" alt="Avatar of raoz"> raoz
+			</a><br/>
+			Rao «Démon» Zvorovski
+		</td>
+		<td>Fractory </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>35</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>593</td>
+		<td>
+			<a href="https://github.com/theranger">
+				<img src="https://avatars.githubusercontent.com/u/11770478?s=72&u=2f5b46aaec094817141e73d01c3007fdf2121cf5&v=4" width="24" alt="Avatar of theranger"> theranger
+			</a><br/>
+			The Ranger
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>8</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>594</td>
+		<td>
+			<a href="https://github.com/gunelism">
+				<img src="https://avatars.githubusercontent.com/u/20398732?s=72&u=80e26c85097b989d2883718248c8f33c405f68af&v=4" width="24" alt="Avatar of gunelism"> gunelism
+			</a><br/>
+			Günel İsmayılova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu</td>
+		<td>34</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>595</td>
+		<td>
+			<a href="https://github.com/martinvahi">
+				<img src="https://avatars.githubusercontent.com/u/861080?s=72&v=4" width="24" alt="Avatar of martinvahi"> martinvahi
+			</a><br/>
+			Martin Vahi
+		</td>
+		<td>I'm A Freelancer. </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>34</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>596</td>
+		<td>
+			<a href="https://github.com/jonasalessi">
+				<img src="https://avatars.githubusercontent.com/u/1569811?s=72&u=05423cb195e8e3e7eec9e9c857b742b86221f07e&v=4" width="24" alt="Avatar of jonasalessi"> jonasalessi
+			</a><br/>
+			Jonas alessi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>34</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>597</td>
+		<td>
+			<a href="https://github.com/yllar">
+				<img src="https://avatars.githubusercontent.com/u/1578973?s=72&v=4" width="24" alt="Avatar of yllar"> yllar
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>34</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>598</td>
+		<td>
+			<a href="https://github.com/alpull">
+				<img src="https://avatars.githubusercontent.com/u/25349501?s=72&u=6c5d962a94405b0da0c45386760372246bab5d9c&v=4" width="24" alt="Avatar of alpull"> alpull
+			</a><br/>
+			Alo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>34</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>599</td>
+		<td>
+			<a href="https://github.com/tartarJR">
+				<img src="https://avatars.githubusercontent.com/u/6633593?s=72&u=52b70829eef1d7314b955ab01163d5e26fff3fb3&v=4" width="24" alt="Avatar of tartarJR"> tartarJR
+			</a><br/>
+			Mustafa Ogün Öztürk
+		</td>
+		<td>Mooncascade </td>
+		<td>No Twitter Username</td>
+		<td>Tartu</td>
+		<td>34</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>600</td>
+		<td>
+			<a href="https://github.com/alxdrlitreev">
+				<img src="https://avatars.githubusercontent.com/u/1785319?s=72&u=526f5219684c3d50ccec035208979320a9e9ee1d&v=4" width="24" alt="Avatar of alxdrlitreev"> alxdrlitreev
+			</a><br/>
+			Aleksandr Litreev
+		</td>
+		<td>@solarlabsteam </td>
+		<td><a href="https://twitter.com/alexlitreev">alexlitreev</a></td>
+		<td>Tallinn, EE</td>
+		<td>33</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>601</td>
+		<td>
+			<a href="https://github.com/ArsalanDotMe">
+				<img src="https://avatars.githubusercontent.com/u/1993303?s=72&u=8a5cb8c3df95b4c8f0035cfc4daf1684d4334ebd&v=4" width="24" alt="Avatar of ArsalanDotMe"> ArsalanDotMe
+			</a><br/>
+			Arsalan Ahmad
+		</td>
+		<td>Zlick </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>3</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>602</td>
+		<td>
+			<a href="https://github.com/kainkalju">
+				<img src="https://avatars.githubusercontent.com/u/1317879?s=72&v=4" width="24" alt="Avatar of kainkalju"> kainkalju
+			</a><br/>
+			Kain Kalju
+		</td>
+		<td>Bolt (taxify) </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>33</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>603</td>
+		<td>
+			<a href="https://github.com/cavewebs">
+				<img src="https://avatars.githubusercontent.com/u/5629973?s=72&v=4" width="24" alt="Avatar of cavewebs"> cavewebs
+			</a><br/>
+			Timchosen Uzua
+		</td>
+		<td>Dizcovery Network </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>33</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>604</td>
+		<td>
+			<a href="https://github.com/cbxp">
+				<img src="https://avatars.githubusercontent.com/u/1681449?s=72&u=bd68b603a5b4879ecf125f6da8b2e24754b8f75f&v=4" width="24" alt="Avatar of cbxp"> cbxp
+			</a><br/>
+			Codeborne
+		</td>
+		<td>Codeborne </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>32</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>605</td>
+		<td>
+			<a href="https://github.com/ksirts">
+				<img src="https://avatars.githubusercontent.com/u/842575?s=72&v=4" width="24" alt="Avatar of ksirts"> ksirts
+			</a><br/>
+			No Name
+		</td>
+		<td>University Of Tartu </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>32</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>606</td>
+		<td>
+			<a href="https://github.com/karinahhh">
+				<img src="https://avatars.githubusercontent.com/u/62282067?s=72&u=6be69caf0dc783cea31e323f6cd1f73daaea6806&v=4" width="24" alt="Avatar of karinahhh"> karinahhh
+			</a><br/>
+			Karina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>32</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>607</td>
+		<td>
+			<a href="https://github.com/tuvaergun">
+				<img src="https://avatars.githubusercontent.com/u/3847510?s=72&u=ee86d0d622d569fa26fa86106e53314177af7d00&v=4" width="24" alt="Avatar of tuvaergun"> tuvaergun
+			</a><br/>
+			Yasin Ergün
+		</td>
+		<td>Bilpp Oü </td>
+		<td><a href="https://twitter.com/tuvaergun">tuvaergun</a></td>
+		<td>Estonia</td>
+		<td>31</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>608</td>
+		<td>
+			<a href="https://github.com/markusaksli-nc">
+				<img src="https://avatars.githubusercontent.com/u/68219924?s=72&u=d74248db01ed66ea15cca5fab758e172d7dbc94b&v=4" width="24" alt="Avatar of markusaksli-nc"> markusaksli-nc
+			</a><br/>
+			Markus Aksli
+		</td>
+		<td>Nevercode </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>31</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>609</td>
+		<td>
+			<a href="https://github.com/Lytecyde">
+				<img src="https://avatars.githubusercontent.com/u/295558?s=72&v=4" width="24" alt="Avatar of Lytecyde"> Lytecyde
+			</a><br/>
+			Mik Seljamaa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>31</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>610</td>
+		<td>
+			<a href="https://github.com/namishelex01">
+				<img src="https://avatars.githubusercontent.com/u/2236433?s=72&u=ed762181079ffda5cc4d72d8334f4c7a4f39b380&v=4" width="24" alt="Avatar of namishelex01"> namishelex01
+			</a><br/>
+			Namish
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Namishsir">Namishsir</a></td>
+		<td>Tallinn</td>
+		<td>31</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>611</td>
+		<td>
+			<a href="https://github.com/syko">
+				<img src="https://avatars.githubusercontent.com/u/317674?s=72&v=4" width="24" alt="Avatar of syko"> syko
+			</a><br/>
+			Andrin Riiet
+		</td>
+		<td>Toggl </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>4</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>612</td>
+		<td>
+			<a href="https://github.com/artem-galas">
+				<img src="https://avatars.githubusercontent.com/u/6387897?s=72&v=4" width="24" alt="Avatar of artem-galas"> artem-galas
+			</a><br/>
+			Artem Halas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>30</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>613</td>
+		<td>
+			<a href="https://github.com/truberton">
+				<img src="https://avatars.githubusercontent.com/u/22129233?s=72&v=4" width="24" alt="Avatar of truberton"> truberton
+			</a><br/>
+			Gert-Andry Kääramees
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>1</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>614</td>
+		<td>
+			<a href="https://github.com/olegls2000">
+				<img src="https://avatars.githubusercontent.com/u/6736332?s=72&u=e070950a3a95f19593609057e9c68930c11874a3&v=4" width="24" alt="Avatar of olegls2000"> olegls2000
+			</a><br/>
+			Oleg
+		</td>
+		<td>Myown </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>30</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>615</td>
+		<td>
+			<a href="https://github.com/muhammetsahin">
+				<img src="https://avatars.githubusercontent.com/u/2045788?s=72&u=26b1df35b42c0e85592e4bce6fa337ec0f835f9a&v=4" width="24" alt="Avatar of muhammetsahin"> muhammetsahin
+			</a><br/>
+			Muhammet
+		</td>
+		<td>Dakicksoft </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>29</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>616</td>
+		<td>
+			<a href="https://github.com/aspenforest">
+				<img src="https://avatars.githubusercontent.com/u/6948036?s=72&u=9991f753f492e4aab0fb500c297bf3285f4c15d2&v=4" width="24" alt="Avatar of aspenforest"> aspenforest
+			</a><br/>
+			Mattias Aabmets
+		</td>
+		<td>Estonian National Opera </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>6</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>617</td>
+		<td>
+			<a href="https://github.com/firemanxbr">
+				<img src="https://avatars.githubusercontent.com/u/2116404?s=72&u=121b5a0cdfc91cacd97cfbee6c84ad770bf825b3&v=4" width="24" alt="Avatar of firemanxbr"> firemanxbr
+			</a><br/>
+			Marcelo Barbosa
+		</td>
+		<td>Changeinvest.com  </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn - Estonia</td>
+		<td>26</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>618</td>
+		<td>
+			<a href="https://github.com/RealDolos">
+				<img src="https://avatars.githubusercontent.com/u/9981466?s=72&u=59b44bed474e616943570e9801cca0c5171ff3b5&v=4" width="24" alt="Avatar of RealDolos"> RealDolos
+			</a><br/>
+			Dolores Greatamsky
+		</td>
+		<td>@volafile </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>28</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>619</td>
+		<td>
+			<a href="https://github.com/mangus">
+				<img src="https://avatars.githubusercontent.com/u/1079255?s=72&u=04af804f8889f73b0476824a975d68d60550c1f7&v=4" width="24" alt="Avatar of mangus"> mangus
+			</a><br/>
+			Mart Mangus
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>28</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>620</td>
+		<td>
+			<a href="https://github.com/oluwandabira">
+				<img src="https://avatars.githubusercontent.com/u/24304808?s=72&v=4" width="24" alt="Avatar of oluwandabira"> oluwandabira
+			</a><br/>
+			Alawode Oluwandabira
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>28</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>621</td>
+		<td>
+			<a href="https://github.com/YasuhiroYoshida">
+				<img src="https://avatars.githubusercontent.com/u/892791?s=72&u=cdfcda5d3a8f3f6e578ee9089805a20d647e8d9a&v=4" width="24" alt="Avatar of YasuhiroYoshida"> YasuhiroYoshida
+			</a><br/>
+			Yasuhiro Yoshida
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>9</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>622</td>
+		<td>
+			<a href="https://github.com/Korving-F">
+				<img src="https://avatars.githubusercontent.com/u/17042203?s=72&u=9ca37132bb389a3c85cd2d4357c39b6b09d3f5da&v=4" width="24" alt="Avatar of Korving-F"> Korving-F
+			</a><br/>
+			Frank Korving
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>27</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>623</td>
+		<td>
+			<a href="https://github.com/sabahang">
+				<img src="https://avatars.githubusercontent.com/u/2657540?s=72&v=4" width="24" alt="Avatar of sabahang"> sabahang
+			</a><br/>
+			Saba Ahang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>27</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>624</td>
+		<td>
+			<a href="https://github.com/Blacklock">
+				<img src="https://avatars.githubusercontent.com/u/20334247?s=72&u=dd542d6c87d75f1d7bd720f822713e0a8d9df527&v=4" width="24" alt="Avatar of Blacklock"> Blacklock
+			</a><br/>
+			Blacklock
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>9</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>625</td>
+		<td>
+			<a href="https://github.com/dknight">
+				<img src="https://avatars.githubusercontent.com/u/74401?s=72&u=9c9435265d76efd2d517e332f393a4b892244af1&v=4" width="24" alt="Avatar of dknight"> dknight
+			</a><br/>
+			Dmitri Smirnov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>26</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>626</td>
+		<td>
+			<a href="https://github.com/mikkleini">
+				<img src="https://avatars.githubusercontent.com/u/8956215?s=72&u=d9be03875d14c9701ae4afebee7e9dbcd64a07a4&v=4" width="24" alt="Avatar of mikkleini"> mikkleini
+			</a><br/>
+			Mikk
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>26</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>627</td>
+		<td>
+			<a href="https://github.com/baimurzin">
+				<img src="https://avatars.githubusercontent.com/u/13979141?s=72&u=5b20a437eacc88258f669bbd5753f1cef5dca144&v=4" width="24" alt="Avatar of baimurzin"> baimurzin
+			</a><br/>
+			Vladislav
+		</td>
+		<td>Hireright </td>
+		<td>No Twitter Username</td>
+		<td>Tallin, Estonia</td>
+		<td>0</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>628</td>
+		<td>
+			<a href="https://github.com/mmaher22">
+				<img src="https://avatars.githubusercontent.com/u/17103767?s=72&u=dfafe6b3c9274a5d534a1e36ef4cbc8ce62ed049&v=4" width="24" alt="Avatar of mmaher22"> mmaher22
+			</a><br/>
+			Mohamed Maher
+		</td>
+		<td>University Of Tartu </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>24</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>629</td>
+		<td>
+			<a href="https://github.com/roboter">
+				<img src="https://avatars.githubusercontent.com/u/386485?s=72&v=4" width="24" alt="Avatar of roboter"> roboter
+			</a><br/>
+			Aleksei Prokopov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>25</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>630</td>
+		<td>
+			<a href="https://github.com/kflak">
+				<img src="https://avatars.githubusercontent.com/u/13571232?s=72&v=4" width="24" alt="Avatar of kflak"> kflak
+			</a><br/>
+			Kenneth Flak
+		</td>
+		<td>Roosna & Flak </td>
+		<td>No Twitter Username</td>
+		<td>Pärnu, Estonia</td>
+		<td>25</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>631</td>
+		<td>
+			<a href="https://github.com/ImrePyhvel">
+				<img src="https://avatars.githubusercontent.com/u/4522291?s=72&u=20bbbdc8ff0cc49c8d4befe2a42acf2c9bd0d025&v=4" width="24" alt="Avatar of ImrePyhvel"> ImrePyhvel
+			</a><br/>
+			Imre Pühvel
+		</td>
+		<td>Star Cloud Oü </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>25</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>632</td>
+		<td>
+			<a href="https://github.com/alihankoc">
+				<img src="https://avatars.githubusercontent.com/u/21077340?s=72&u=90e63a70faeba7c5d8aab7dcdd2be55c7f53f2cb&v=4" width="24" alt="Avatar of alihankoc"> alihankoc
+			</a><br/>
+			Alihan KOÇ
+		</td>
+		<td>Bilpp Oü </td>
+		<td><a href="https://twitter.com/alihankoc_">alihankoc_</a></td>
+		<td>Talinn / Estonia</td>
+		<td>24</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>633</td>
+		<td>
+			<a href="https://github.com/vitaliy-komenda">
+				<img src="https://avatars.githubusercontent.com/u/763723?s=72&u=beea06bc57e1de190fe32601e539b16b0776c815&v=4" width="24" alt="Avatar of vitaliy-komenda"> vitaliy-komenda
+			</a><br/>
+			Vitalii Komenda
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>24</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>634</td>
+		<td>
+			<a href="https://github.com/sergeil">
+				<img src="https://avatars.githubusercontent.com/u/425579?s=72&u=d80dabbf93d3c3edc6ff829e133ad1b96e21468e&v=4" width="24" alt="Avatar of sergeil"> sergeil
+			</a><br/>
+			Sergei Lissovski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>15</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>635</td>
+		<td>
+			<a href="https://github.com/vkrv">
+				<img src="https://avatars.githubusercontent.com/u/642757?s=72&u=b698aa4db2e5fd7e4a55e61b2c3b89aa9cb5b832&v=4" width="24" alt="Avatar of vkrv"> vkrv
+			</a><br/>
+			Vadim
+		</td>
+		<td>Bolt </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>3</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>636</td>
+		<td>
+			<a href="https://github.com/kaido24">
+				<img src="https://avatars.githubusercontent.com/u/854774?s=72&v=4" width="24" alt="Avatar of kaido24"> kaido24
+			</a><br/>
+			Kaido Toomingas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>24</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>637</td>
+		<td>
+			<a href="https://github.com/oleggutsol">
+				<img src="https://avatars.githubusercontent.com/u/1843276?s=72&u=9b22cc2d72c04681f4ce02d06682a3b284ee4090&v=4" width="24" alt="Avatar of oleggutsol"> oleggutsol
+			</a><br/>
+			Oleg Gutsol
+		</td>
+		<td>@consensus-ai  </td>
+		<td>No Twitter Username</td>
+		<td>Canada, Estonia, Spain</td>
+		<td>0</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>638</td>
+		<td>
+			<a href="https://github.com/dlogvinenko">
+				<img src="https://avatars.githubusercontent.com/u/883328?s=72&u=3fd27092dba7d86fd4d2834e6a5b6cb0bd9a5238&v=4" width="24" alt="Avatar of dlogvinenko"> dlogvinenko
+			</a><br/>
+			Dmitri Logvinenko
+		</td>
+		<td>Wallester As @wallester </td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>0</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>639</td>
+		<td>
+			<a href="https://github.com/dkull">
+				<img src="https://avatars.githubusercontent.com/u/204019?s=72&u=162a0f74a63497934e8167240d6d7dbdfb320f65&v=4" width="24" alt="Avatar of dkull"> dkull
+			</a><br/>
+			Tanel Liiv
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>23</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>640</td>
+		<td>
+			<a href="https://github.com/jannosiilbek">
+				<img src="https://avatars.githubusercontent.com/u/77339?s=72&u=4845da954789e5ded24a94ff27bc3d98617e0ef8&v=4" width="24" alt="Avatar of jannosiilbek"> jannosiilbek
+			</a><br/>
+			Janno Siilbek
+		</td>
+		<td>Mindly </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>23</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>641</td>
+		<td>
+			<a href="https://github.com/ProditorMagnus">
+				<img src="https://avatars.githubusercontent.com/u/7848963?s=72&v=4" width="24" alt="Avatar of ProditorMagnus"> ProditorMagnus
+			</a><br/>
+			Toom
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>23</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>642</td>
+		<td>
+			<a href="https://github.com/tcollart">
+				<img src="https://avatars.githubusercontent.com/u/6071211?s=72&u=07803882adcb57adccdcf36a2771ec9cb84ff395&v=4" width="24" alt="Avatar of tcollart"> tcollart
+			</a><br/>
+			Thomas Collart
+		</td>
+		<td>Tcoll.art </td>
+		<td><a href="https://twitter.com/tcollart">tcollart</a></td>
+		<td>Tallinn</td>
+		<td>22</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>643</td>
+		<td>
+			<a href="https://github.com/alexlovelltroy">
+				<img src="https://avatars.githubusercontent.com/u/845272?s=72&v=4" width="24" alt="Avatar of alexlovelltroy"> alexlovelltroy
+			</a><br/>
+			Alex Lovell-Troy
+		</td>
+		<td>Twilio </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>22</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>644</td>
+		<td>
+			<a href="https://github.com/hpeinar">
+				<img src="https://avatars.githubusercontent.com/u/490959?s=72&v=4" width="24" alt="Avatar of hpeinar"> hpeinar
+			</a><br/>
+			Henrik Peinar
+		</td>
+		<td>Nodeswat </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>22</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>645</td>
+		<td>
+			<a href="https://github.com/certainlyakey">
+				<img src="https://avatars.githubusercontent.com/u/1833029?s=72&v=4" width="24" alt="Avatar of certainlyakey"> certainlyakey
+			</a><br/>
+			Aleksandr Beliaev
+		</td>
+		<td>Nortal As </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>22</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>646</td>
+		<td>
+			<a href="https://github.com/t3rkecorejz">
+				<img src="https://avatars.githubusercontent.com/u/45369792?s=72&u=dafd31965d3f919e898627dd8b83c811ad2761ce&v=4" width="24" alt="Avatar of t3rkecorejz"> t3rkecorejz
+			</a><br/>
+			Oleg Deynega
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>22</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>647</td>
+		<td>
+			<a href="https://github.com/ydanneg">
+				<img src="https://avatars.githubusercontent.com/u/459303?s=72&u=db8529f00ed091f35de7f53d77c3644e17122c09&v=4" width="24" alt="Avatar of ydanneg"> ydanneg
+			</a><br/>
+			Gennadi Kudrjavtsev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>22</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>648</td>
+		<td>
+			<a href="https://github.com/PriitParmakson">
+				<img src="https://avatars.githubusercontent.com/u/7662658?s=72&u=c41c50b40008f3a686339ec0dba830a96aeb06fb&v=4" width="24" alt="Avatar of PriitParmakson"> PriitParmakson
+			</a><br/>
+			Priit Parmakson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>21</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>649</td>
+		<td>
+			<a href="https://github.com/spikhoff">
+				<img src="https://avatars.githubusercontent.com/u/1052477?s=72&v=4" width="24" alt="Avatar of spikhoff"> spikhoff
+			</a><br/>
+			Sander Pikhoff
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>0</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>650</td>
+		<td>
+			<a href="https://github.com/fleur101">
+				<img src="https://avatars.githubusercontent.com/u/26025274?s=72&u=e9aedada776da3271b116424070ccfcf10b57dac&v=4" width="24" alt="Avatar of fleur101"> fleur101
+			</a><br/>
+			Gaukhar Dauzhan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>9</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>651</td>
+		<td>
+			<a href="https://github.com/mihkels">
+				<img src="https://avatars.githubusercontent.com/u/1080953?s=72&u=ab05ba78ac2fae968d72389832e27dab80bad941&v=4" width="24" alt="Avatar of mihkels"> mihkels
+			</a><br/>
+			Mihkel Selgal
+		</td>
+		<td>Enefit </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>3</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>652</td>
+		<td>
+			<a href="https://github.com/Ninuce">
+				<img src="https://avatars.githubusercontent.com/u/17060146?s=72&u=7c2b5a7bf17b8a953eb3e130752097ab67172a8a&v=4" width="24" alt="Avatar of Ninuce"> Ninuce
+			</a><br/>
+			Lota Plezere
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn & Tartu</td>
+		<td>17</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>653</td>
+		<td>
+			<a href="https://github.com/elvinristi">
+				<img src="https://avatars.githubusercontent.com/u/3975860?s=72&u=0913ab31b1260b78a0b29732172b3307fb788157&v=4" width="24" alt="Avatar of elvinristi"> elvinristi
+			</a><br/>
+			No Name
+		</td>
+		<td>@vaimo  </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>20</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>654</td>
+		<td>
+			<a href="https://github.com/PlayFriik">
+				<img src="https://avatars.githubusercontent.com/u/6755425?s=72&u=ad901860158e53f5f1046bd558e40b05b08466fa&v=4" width="24" alt="Avatar of PlayFriik"> PlayFriik
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>20</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>655</td>
+		<td>
+			<a href="https://github.com/codestoyevsky">
+				<img src="https://avatars.githubusercontent.com/u/5670412?s=72&u=ec9f6cda07e19f831a9d7b64c9d64bf29c8e509e&v=4" width="24" alt="Avatar of codestoyevsky"> codestoyevsky
+			</a><br/>
+			Vugar Gasimov
+		</td>
+		<td>Artdesoft </td>
+		<td>No Twitter Username</td>
+		<td>Estonia/Tallinn</td>
+		<td>20</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>656</td>
+		<td>
+			<a href="https://github.com/apsinghnandha">
+				<img src="https://avatars.githubusercontent.com/u/6174826?s=72&u=de3a2f5a2d049e7807630d7fd5dd8d852b43fd1d&v=4" width="24" alt="Avatar of apsinghnandha"> apsinghnandha
+			</a><br/>
+			Ap Singh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>20</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>657</td>
+		<td>
+			<a href="https://github.com/kristiank">
+				<img src="https://avatars.githubusercontent.com/u/1181113?s=72&v=4" width="24" alt="Avatar of kristiank"> kristiank
+			</a><br/>
+			Kristian Kankainen
+		</td>
+		<td>Keeleleek </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>19</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>658</td>
+		<td>
+			<a href="https://github.com/ksenianiglas">
+				<img src="https://avatars.githubusercontent.com/u/50526165?s=72&u=2c0d67338ce6ae17bedde72fbddccdabef99f159&v=4" width="24" alt="Avatar of ksenianiglas"> ksenianiglas
+			</a><br/>
+			Ksenia Niglas
+		</td>
+		<td>Statistics Estonia </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>19</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>659</td>
+		<td>
+			<a href="https://github.com/speedupmate">
+				<img src="https://avatars.githubusercontent.com/u/623004?s=72&v=4" width="24" alt="Avatar of speedupmate"> speedupmate
+			</a><br/>
+			Anton
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>19</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>660</td>
+		<td>
+			<a href="https://github.com/Jonksar">
+				<img src="https://avatars.githubusercontent.com/u/9849712?s=72&u=d9381f46f458c5c4e8d5416edb8ce78a69e7425f&v=4" width="24" alt="Avatar of Jonksar"> Jonksar
+			</a><br/>
+			Joonatan Samuel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>5</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>661</td>
+		<td>
+			<a href="https://github.com/MastaP">
+				<img src="https://avatars.githubusercontent.com/u/185344?s=72&u=c5c997f4224a67b0481099d883030bad6fc3ca85&v=4" width="24" alt="Avatar of MastaP"> MastaP
+			</a><br/>
+			Pavel Grigorenko
+		</td>
+		<td>Institute Of Cybernetics </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>19</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>662</td>
+		<td>
+			<a href="https://github.com/Boburmirzo">
+				<img src="https://avatars.githubusercontent.com/u/14247607?s=72&u=814542f3cb770956deba5086fd610e7a793bc688&v=4" width="24" alt="Avatar of Boburmirzo"> Boburmirzo
+			</a><br/>
+			Livermore
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>11</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>663</td>
+		<td>
+			<a href="https://github.com/LeivoSepp">
+				<img src="https://avatars.githubusercontent.com/u/13704023?s=72&u=7da89cb58c21291abfa4a54ebbcfcc032fd5d448&v=4" width="24" alt="Avatar of LeivoSepp"> LeivoSepp
+			</a><br/>
+			Leivo Sepp
+		</td>
+		<td>Microsoft / Robootika.com /<br/>Internetofthing.io<br/></td>
+		<td><a href="https://twitter.com/leivosepp">leivosepp</a></td>
+		<td>Estonia</td>
+		<td>19</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>664</td>
+		<td>
+			<a href="https://github.com/kagan94">
+				<img src="https://avatars.githubusercontent.com/u/11237421?s=72&u=f6a6ca15d11224f662cbb48b310d8fd0e022bfa1&v=4" width="24" alt="Avatar of kagan94"> kagan94
+			</a><br/>
+			Leonid Dashko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>7</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>665</td>
+		<td>
+			<a href="https://github.com/TwinsMaj">
+				<img src="https://avatars.githubusercontent.com/u/19359902?s=72&u=9cbfc4bcc62870864d7d13a67bc024dedf435fb0&v=4" width="24" alt="Avatar of TwinsMaj"> TwinsMaj
+			</a><br/>
+			Maja Taiwo
+		</td>
+		<td>Pipedrive </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>19</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>666</td>
+		<td>
+			<a href="https://github.com/Denis-Mak">
+				<img src="https://avatars.githubusercontent.com/u/3866149?s=72&v=4" width="24" alt="Avatar of Denis-Mak"> Denis-Mak
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>19</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>667</td>
+		<td>
+			<a href="https://github.com/A1nu">
+				<img src="https://avatars.githubusercontent.com/u/28026058?s=72&u=01bf55257d7bbf87dd1b32fc502c3aa15e2446b0&v=4" width="24" alt="Avatar of A1nu"> A1nu
+			</a><br/>
+			Daniil Marin
+		</td>
+		<td>@gliffy  </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>19</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>668</td>
+		<td>
+			<a href="https://github.com/christiansafka">
+				<img src="https://avatars.githubusercontent.com/u/11287167?s=72&u=7b0ca25beffc726b35a716f543489d1f80b0a82f&v=4" width="24" alt="Avatar of christiansafka"> christiansafka
+			</a><br/>
+			Christian Safka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia / USA</td>
+		<td>18</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>669</td>
+		<td>
+			<a href="https://github.com/giresse19">
+				<img src="https://avatars.githubusercontent.com/u/18584182?s=72&u=193632617c0a85808a3f7564642818ca2efc8fa0&v=4" width="24" alt="Avatar of giresse19"> giresse19
+			</a><br/>
+			GIRESSE ASHU-BOB
+		</td>
+		<td>Kuehne-nagel </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>11</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>670</td>
+		<td>
+			<a href="https://github.com/av1611">
+				<img src="https://avatars.githubusercontent.com/u/109128?s=72&u=9290a0034a763c76c302c63dcbcde99138b7933b&v=4" width="24" alt="Avatar of av1611"> av1611
+			</a><br/>
+			Aleksi Gaevsky
+		</td>
+		<td>R Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>18</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>671</td>
+		<td>
+			<a href="https://github.com/vladislavivanistsev">
+				<img src="https://avatars.githubusercontent.com/u/526920?s=72&u=4ef867afdd3e32978f141ab257abea213a2de7e6&v=4" width="24" alt="Avatar of vladislavivanistsev"> vladislavivanistsev
+			</a><br/>
+			Vladilsav Ivanistsev
+		</td>
+		<td>University Of Tartu </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>18</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>672</td>
+		<td>
+			<a href="https://github.com/enl">
+				<img src="https://avatars.githubusercontent.com/u/670322?s=72&v=4" width="24" alt="Avatar of enl"> enl
+			</a><br/>
+			Alex Panshin
+		</td>
+		<td>@vaimo </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>18</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>673</td>
+		<td>
+			<a href="https://github.com/jarmo">
+				<img src="https://avatars.githubusercontent.com/u/174160?s=72&v=4" width="24" alt="Avatar of jarmo"> jarmo
+			</a><br/>
+			Jarmo Pertman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>17</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>674</td>
+		<td>
+			<a href="https://github.com/ScarletKuro">
+				<img src="https://avatars.githubusercontent.com/u/19953225?s=72&u=c459b4c3db1b6b1c3a82aed522df5113b0ec7abd&v=4" width="24" alt="Avatar of ScarletKuro"> ScarletKuro
+			</a><br/>
+			Artyom M.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>17</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>675</td>
+		<td>
+			<a href="https://github.com/pyyding">
+				<img src="https://avatars.githubusercontent.com/u/16744172?s=72&u=10bc7020126d7be774d52a3df624b25272c8e025&v=4" width="24" alt="Avatar of pyyding"> pyyding
+			</a><br/>
+			Kaspar Püüding
+		</td>
+		<td>@catapultlabs </td>
+		<td><a href="https://twitter.com/pyyding">pyyding</a></td>
+		<td>Tallinn</td>
+		<td>17</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>676</td>
+		<td>
+			<a href="https://github.com/velochy">
+				<img src="https://avatars.githubusercontent.com/u/5527789?s=72&u=73b4f3007eb0961ad73b368e58bb31577959b73c&v=4" width="24" alt="Avatar of velochy"> velochy
+			</a><br/>
+			Margus Niitsoo
+		</td>
+		<td>University Of Tartu </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>17</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>677</td>
+		<td>
+			<a href="https://github.com/borgand">
+				<img src="https://avatars.githubusercontent.com/u/103215?s=72&v=4" width="24" alt="Avatar of borgand"> borgand
+			</a><br/>
+			Laas Toom
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>17</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>678</td>
+		<td>
+			<a href="https://github.com/legalaspro">
+				<img src="https://avatars.githubusercontent.com/u/1920986?s=72&u=7240cbd1ff7d574d7be015427b677e28b1c05d57&v=4" width="24" alt="Avatar of legalaspro"> legalaspro
+			</a><br/>
+			Dmitri Manajev
+		</td>
+		<td>Life Hacker </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn/Zurich</td>
+		<td>0</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>679</td>
+		<td>
+			<a href="https://github.com/peeter-tomberg">
+				<img src="https://avatars.githubusercontent.com/u/598361?s=72&u=61626a6b1811d99964fefd553c62a7aa3180cbbc&v=4" width="24" alt="Avatar of peeter-tomberg"> peeter-tomberg
+			</a><br/>
+			Peeter Tomberg
+		</td>
+		<td>@coingaming  </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>16</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>680</td>
+		<td>
+			<a href="https://github.com/andrewnenakhov">
+				<img src="https://avatars.githubusercontent.com/u/2351903?s=72&v=4" width="24" alt="Avatar of andrewnenakhov"> andrewnenakhov
+			</a><br/>
+			Andrew Nenakhov
+		</td>
+		<td>Redsolution Oü </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>16</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>681</td>
+		<td>
+			<a href="https://github.com/hudolejev">
+				<img src="https://avatars.githubusercontent.com/u/233645?s=72&v=4" width="24" alt="Avatar of hudolejev"> hudolejev
+			</a><br/>
+			Juri Hudolejev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>16</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>682</td>
+		<td>
+			<a href="https://github.com/jannoteelem">
+				<img src="https://avatars.githubusercontent.com/u/892831?s=72&u=2ac9b3ccde06b149502f6b8f7bc1f8d1f82dd3ab&v=4" width="24" alt="Avatar of jannoteelem"> jannoteelem
+			</a><br/>
+			Janno Teelem
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>16</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>683</td>
+		<td>
+			<a href="https://github.com/taavirehemagi">
+				<img src="https://avatars.githubusercontent.com/u/2154171?s=72&u=41728f1ebdd58c67bb2a99a303e4664268b880a4&v=4" width="24" alt="Avatar of taavirehemagi"> taavirehemagi
+			</a><br/>
+			Taavi Rehemägi
+		</td>
+		<td>Dashbird </td>
+		<td>No Twitter Username</td>
+		<td>Talllinn, Estonia</td>
+		<td>7</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>684</td>
+		<td>
+			<a href="https://github.com/iKristjan">
+				<img src="https://avatars.githubusercontent.com/u/744817?s=72&u=674fe609b8cb67aa93c83a0e16fd5869a7f434ad&v=4" width="24" alt="Avatar of iKristjan"> iKristjan
+			</a><br/>
+			Kristjan Lilleoja
+		</td>
+		<td>Yumuuv, Surveer </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>0</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>685</td>
+		<td>
+			<a href="https://github.com/agoluberg">
+				<img src="https://avatars.githubusercontent.com/u/45663?s=72&v=4" width="24" alt="Avatar of agoluberg"> agoluberg
+			</a><br/>
+			Ago Luberg
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>15</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>686</td>
+		<td>
+			<a href="https://github.com/KashCherry">
+				<img src="https://avatars.githubusercontent.com/u/36406389?s=72&u=2c0aa71755cb5efee766d87de1b13871cb9a3079&v=4" width="24" alt="Avatar of KashCherry"> KashCherry
+			</a><br/>
+			Kash Cherry
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>15</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>687</td>
+		<td>
+			<a href="https://github.com/Flashgroupdevs">
+				<img src="https://avatars.githubusercontent.com/u/50135380?s=72&u=fd87e208cac2d5f6570b8eb0ec3fe6dfe7556ee5&v=4" width="24" alt="Avatar of Flashgroupdevs"> Flashgroupdevs
+			</a><br/>
+			FlashDevs
+		</td>
+		<td>Flashgroup </td>
+		<td>No Twitter Username</td>
+		<td>Singapore-United kingdom-UAE-Estonia</td>
+		<td>15</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>688</td>
+		<td>
+			<a href="https://github.com/Nklya">
+				<img src="https://avatars.githubusercontent.com/u/26086394?s=72&u=4941540946b7a3ceae914e3668bcc81654317d9e&v=4" width="24" alt="Avatar of Nklya"> Nklya
+			</a><br/>
+			Nicolai Antiferov
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Nklya_">Nklya_</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>14</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>689</td>
+		<td>
+			<a href="https://github.com/Interstell">
+				<img src="https://avatars.githubusercontent.com/u/14142198?s=72&u=d0fe384ac7a8234dc734505f9cf983be333d8310&v=4" width="24" alt="Avatar of Interstell"> Interstell
+			</a><br/>
+			Dmitry Urukov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>6</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>690</td>
+		<td>
+			<a href="https://github.com/pandasauce">
+				<img src="https://avatars.githubusercontent.com/u/7682940?s=72&u=b630d58a9957cace81a3d9d74d5399caa720f1a1&v=4" width="24" alt="Avatar of pandasauce"> pandasauce
+			</a><br/>
+			Georgi Boiko
+		</td>
+		<td>Nowsecure </td>
+		<td>No Twitter Username</td>
+		<td>UK / Estonia</td>
+		<td>14</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>691</td>
+		<td>
+			<a href="https://github.com/taunoha">
+				<img src="https://avatars.githubusercontent.com/u/7137679?s=72&u=4ee6e51ede0fbcd4ac362c5493e6a97e08eff05a&v=4" width="24" alt="Avatar of taunoha"> taunoha
+			</a><br/>
+			Tauno Hanni
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>14</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>692</td>
+		<td>
+			<a href="https://github.com/devjatkin">
+				<img src="https://avatars.githubusercontent.com/u/690227?s=72&v=4" width="24" alt="Avatar of devjatkin"> devjatkin
+			</a><br/>
+			Semyon Deviatkin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>14</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>693</td>
+		<td>
+			<a href="https://github.com/frfroes">
+				<img src="https://avatars.githubusercontent.com/u/17256308?s=72&u=885dc5f780164462fce03dabf705dae465084147&v=4" width="24" alt="Avatar of frfroes"> frfroes
+			</a><br/>
+			Filipe Fróes
+		</td>
+		<td>Mindvalley </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>14</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>694</td>
+		<td>
+			<a href="https://github.com/unabl4">
+				<img src="https://avatars.githubusercontent.com/u/2276796?s=72&v=4" width="24" alt="Avatar of unabl4"> unabl4
+			</a><br/>
+			Dmitri Sinitsa
+		</td>
+		<td>Avalanche Laboratory </td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Harjumaa, Tallinn</td>
+		<td>14</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>695</td>
+		<td>
+			<a href="https://github.com/thuustalu">
+				<img src="https://avatars.githubusercontent.com/u/33181254?s=72&v=4" width="24" alt="Avatar of thuustalu"> thuustalu
+			</a><br/>
+			Tähvend Uustalu
+		</td>
+		<td>University Of Tartu </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>5</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>696</td>
+		<td>
+			<a href="https://github.com/manusajith">
+				<img src="https://avatars.githubusercontent.com/u/1440646?s=72&u=752cef53ff267649f3523bd9b756ffa86ea7562d&v=4" width="24" alt="Avatar of manusajith"> manusajith
+			</a><br/>
+			Manu S Ajith
+		</td>
+		<td>Freelance Technical Consultant </td>
+		<td>No Twitter Username</td>
+		<td>Tallin, Estonia | Cochin, India</td>
+		<td>13</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>697</td>
+		<td>
+			<a href="https://github.com/ionoy">
+				<img src="https://avatars.githubusercontent.com/u/592624?s=72&u=85fbb423947c97b23a3a162af8c39aa4899e1d9e&v=4" width="24" alt="Avatar of ionoy"> ionoy
+			</a><br/>
+			Mihhail Maslakov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>13</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>698</td>
+		<td>
+			<a href="https://github.com/tanel">
+				<img src="https://avatars.githubusercontent.com/u/8346?s=72&u=4dce5f39a4dced6954d91044d22d0fb12cb3314a&v=4" width="24" alt="Avatar of tanel"> tanel
+			</a><br/>
+			Tanel Lebedev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Pärnu, Estonia</td>
+		<td>13</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>699</td>
+		<td>
+			<a href="https://github.com/schipiga">
+				<img src="https://avatars.githubusercontent.com/u/1479651?s=72&u=4f17b2eb661001bdc7c6812b56ad8207fb8c1c2a&v=4" width="24" alt="Avatar of schipiga"> schipiga
+			</a><br/>
+			Sergei Chipiga
+		</td>
+		<td>Pipedrive </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>13</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>700</td>
+		<td>
+			<a href="https://github.com/kritik">
+				<img src="https://avatars.githubusercontent.com/u/128200?s=72&v=4" width="24" alt="Avatar of kritik"> kritik
+			</a><br/>
+			Vladimir Krylov
+		</td>
+		<td>Perfectline </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>13</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>701</td>
+		<td>
+			<a href="https://github.com/ivokund">
+				<img src="https://avatars.githubusercontent.com/u/2707429?s=72&u=15a70223e52a0d173f24992cd930f4eac17c3e91&v=4" width="24" alt="Avatar of ivokund"> ivokund
+			</a><br/>
+			Ivo Kund
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>13</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>702</td>
+		<td>
+			<a href="https://github.com/priithansen">
+				<img src="https://avatars.githubusercontent.com/u/1476082?s=72&u=a873be0f7ef4eda4e644cdce7d20e3dc7d5c7b51&v=4" width="24" alt="Avatar of priithansen"> priithansen
+			</a><br/>
+			Priit
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>13</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>703</td>
+		<td>
+			<a href="https://github.com/henriots">
+				<img src="https://avatars.githubusercontent.com/u/12745607?s=72&u=76c2aeb4b951906a35f421fc3bb034d3390bb2f9&v=4" width="24" alt="Avatar of henriots"> henriots
+			</a><br/>
+			Henri
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>13</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>704</td>
+		<td>
+			<a href="https://github.com/mcanet">
+				<img src="https://avatars.githubusercontent.com/u/308759?s=72&v=4" width="24" alt="Avatar of mcanet"> mcanet
+			</a><br/>
+			Mar Canet
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>12</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>705</td>
+		<td>
+			<a href="https://github.com/AnselmoPfeifer">
+				<img src="https://avatars.githubusercontent.com/u/657698?s=72&u=c561ffe07d44e269dbbe1e4db701cfcc1c65ce17&v=4" width="24" alt="Avatar of AnselmoPfeifer"> AnselmoPfeifer
+			</a><br/>
+			Anselmo Pfeifer
+		</td>
+		<td>Kuehne + Nagel </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn - Estonia</td>
+		<td>12</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>706</td>
+		<td>
+			<a href="https://github.com/kerma">
+				<img src="https://avatars.githubusercontent.com/u/735108?s=72&u=a6ee44d4cc4d27248a1151fded2fd61a177812e1&v=4" width="24" alt="Avatar of kerma"> kerma
+			</a><br/>
+			Margus Kerma
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>12</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>707</td>
+		<td>
+			<a href="https://github.com/umeshabhat">
+				<img src="https://avatars.githubusercontent.com/u/3841155?s=72&v=4" width="24" alt="Avatar of umeshabhat"> umeshabhat
+			</a><br/>
+			Umesh .A Bhat
+		</td>
+		<td>@estcube  </td>
+		<td><a href="https://twitter.com/xeracon">xeracon</a></td>
+		<td>Tartu, Estonia</td>
+		<td>12</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>708</td>
+		<td>
+			<a href="https://github.com/RainbowHerbicides">
+				<img src="https://avatars.githubusercontent.com/u/441963?s=72&u=6f3041c365e9865ade779672875c0b97a867ef26&v=4" width="24" alt="Avatar of RainbowHerbicides"> RainbowHerbicides
+			</a><br/>
+			Sergei Korobov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>1</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>709</td>
+		<td>
+			<a href="https://github.com/gabrieltaets">
+				<img src="https://avatars.githubusercontent.com/u/22807067?s=72&u=218f2b755a06525b25941b9712ece5cd98033363&v=4" width="24" alt="Avatar of gabrieltaets"> gabrieltaets
+			</a><br/>
+			Gabriel Taets
+		</td>
+		<td>Transferwise </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>0</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>710</td>
+		<td>
+			<a href="https://github.com/350d">
+				<img src="https://avatars.githubusercontent.com/u/429208?s=72&u=4d6b088cb80de55e9f22d4db4972e77819e6457d&v=4" width="24" alt="Avatar of 350d"> 350d
+			</a><br/>
+			Vladimir Sobolev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>11</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>711</td>
+		<td>
+			<a href="https://github.com/cnkaptan">
+				<img src="https://avatars.githubusercontent.com/u/7327181?s=72&u=8f81a836f9252046c9b0f3c2a137303708092a4a&v=4" width="24" alt="Avatar of cnkaptan"> cnkaptan
+			</a><br/>
+			Cihan Kaptan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>11</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>712</td>
+		<td>
+			<a href="https://github.com/patrickteivas">
+				<img src="https://avatars.githubusercontent.com/u/29047825?s=72&v=4" width="24" alt="Avatar of patrickteivas"> patrickteivas
+			</a><br/>
+			Patrick Teivas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, EE</td>
+		<td>11</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>713</td>
+		<td>
+			<a href="https://github.com/mihhail-lapushkin">
+				<img src="https://avatars.githubusercontent.com/u/2752700?s=72&u=8d557a2e49d3fec4953202012936176d2edbf6d6&v=4" width="24" alt="Avatar of mihhail-lapushkin"> mihhail-lapushkin
+			</a><br/>
+			Mihhail Lapushkin
+		</td>
+		<td>Topia </td>
+		<td><a href="https://twitter.com/_mihhail">_mihhail</a></td>
+		<td>Tallinn</td>
+		<td>11</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>714</td>
+		<td>
+			<a href="https://github.com/tpetmanson">
+				<img src="https://avatars.githubusercontent.com/u/4151204?s=72&u=89e5d8b3fd7cfba9f5b9a072dc920fab487130f5&v=4" width="24" alt="Avatar of tpetmanson"> tpetmanson
+			</a><br/>
+			Timo Petmanson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>11</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>715</td>
+		<td>
+			<a href="https://github.com/4xMSAA">
+				<img src="https://avatars.githubusercontent.com/u/27443298?s=72&u=abdbdba8e3f5647f9e7402ef7efa88ca64293d2f&v=4" width="24" alt="Avatar of 4xMSAA"> 4xMSAA
+			</a><br/>
+			MSAA
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>10</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>716</td>
+		<td>
+			<a href="https://github.com/elsauto">
+				<img src="https://avatars.githubusercontent.com/u/17252720?s=72&u=3ac72ac1f4790c82628f90c552f088aa6b9764dd&v=4" width="24" alt="Avatar of elsauto"> elsauto
+			</a><br/>
+			Sebastian Minutto
+		</td>
+		<td>3at </td>
+		<td>No Twitter Username</td>
+		<td>Argentina | Estonia</td>
+		<td>11</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>717</td>
+		<td>
+			<a href="https://github.com/saulvargas">
+				<img src="https://avatars.githubusercontent.com/u/2616433?s=72&u=34899e14fa8842912c0032272e998a1186688aa6&v=4" width="24" alt="Avatar of saulvargas"> saulvargas
+			</a><br/>
+			Saúl
+		</td>
+		<td>Infogrid </td>
+		<td><a href="https://twitter.com/saulvargas">saulvargas</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>10</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>718</td>
+		<td>
+			<a href="https://github.com/MrKoopaKiller">
+				<img src="https://avatars.githubusercontent.com/u/3833131?s=72&u=a244c081b10892e88d0dcbc9b1de58c81ec9f136&v=4" width="24" alt="Avatar of MrKoopaKiller"> MrKoopaKiller
+			</a><br/>
+			Raphael Oliveira
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn - Estonia</td>
+		<td>10</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>719</td>
+		<td>
+			<a href="https://github.com/mikkpr">
+				<img src="https://avatars.githubusercontent.com/u/1052363?s=72&u=2877580b920877d6d172c8f0f8e97c191be91941&v=4" width="24" alt="Avatar of mikkpr"> mikkpr
+			</a><br/>
+			Mikk Pristavka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>2</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>720</td>
+		<td>
+			<a href="https://github.com/puik">
+				<img src="https://avatars.githubusercontent.com/u/2512379?s=72&u=f7e694a08d592538a2e7e2d2b065242f5f09d0ac&v=4" width="24" alt="Avatar of puik"> puik
+			</a><br/>
+			Vahur Puik
+		</td>
+		<td>Ajapaik.ee, Sift.pics (estonian Photographic<br/>Heritage<br/>Society)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>10</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>721</td>
+		<td>
+			<a href="https://github.com/dssysolyatin">
+				<img src="https://avatars.githubusercontent.com/u/1016070?s=72&v=4" width="24" alt="Avatar of dssysolyatin"> dssysolyatin
+			</a><br/>
+			Dmitry Sysolyatin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>10</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>722</td>
+		<td>
+			<a href="https://github.com/ddon">
+				<img src="https://avatars.githubusercontent.com/u/187798?s=72&v=4" width="24" alt="Avatar of ddon"> ddon
+			</a><br/>
+			Dmitri Don
+		</td>
+		<td>Fotki Inc </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>10</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>723</td>
+		<td>
+			<a href="https://github.com/SlippingAway">
+				<img src="https://avatars.githubusercontent.com/u/124494?s=72&u=6f07a79436642ea4b5675177680de06b2a4220fb&v=4" width="24" alt="Avatar of SlippingAway"> SlippingAway
+			</a><br/>
+			Karim Heredia
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/SlippingAway">SlippingAway</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>8</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>724</td>
+		<td>
+			<a href="https://github.com/Anaga">
+				<img src="https://avatars.githubusercontent.com/u/2641314?s=72&u=132ed007f801b643ca123270170ee5e20a696c0a&v=4" width="24" alt="Avatar of Anaga"> Anaga
+			</a><br/>
+			Aleksandr Bobyrev
+		</td>
+		<td>Harman </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>10</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>725</td>
+		<td>
+			<a href="https://github.com/AndresNamm">
+				<img src="https://avatars.githubusercontent.com/u/21141607?s=72&u=86eba798d66288d1ae7a78253e718c2674b06082&v=4" width="24" alt="Avatar of AndresNamm"> AndresNamm
+			</a><br/>
+			Andres Namm
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>10</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>726</td>
+		<td>
+			<a href="https://github.com/ilves">
+				<img src="https://avatars.githubusercontent.com/u/307521?s=72&u=0af6d3bd15d915fa7f43efb81d42473b9e5c973d&v=4" width="24" alt="Avatar of ilves"> ilves
+			</a><br/>
+			Taavi Ilves
+		</td>
+		<td>Golive Oü </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>10</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>727</td>
+		<td>
+			<a href="https://github.com/lauripiisang">
+				<img src="https://avatars.githubusercontent.com/u/5603529?s=72&v=4" width="24" alt="Avatar of lauripiisang"> lauripiisang
+			</a><br/>
+			Lauri Piisang
+		</td>
+		<td>@pipedrive  </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>10</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>728</td>
+		<td>
+			<a href="https://github.com/georgmay">
+				<img src="https://avatars.githubusercontent.com/u/2998237?s=72&u=32317db3630d3d18f8fe04ed67b673cc7473639b&v=4" width="24" alt="Avatar of georgmay"> georgmay
+			</a><br/>
+			George Maisuradze
+		</td>
+		<td>@airlane  </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, EU</td>
+		<td>10</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>729</td>
+		<td>
+			<a href="https://github.com/Pomis">
+				<img src="https://avatars.githubusercontent.com/u/7953442?s=72&u=35c6eea62a4e4448c28181ef692fa35f99605c63&v=4" width="24" alt="Avatar of Pomis"> Pomis
+			</a><br/>
+			Ismagilov Roman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>9</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>730</td>
+		<td>
+			<a href="https://github.com/keevitaja">
+				<img src="https://avatars.githubusercontent.com/u/158787?s=72&u=3f2bd13089e725791b33baacc0a0056a9114b78f&v=4" width="24" alt="Avatar of keevitaja"> keevitaja
+			</a><br/>
+			Tanel Tammik
+		</td>
+		<td>@actyltd  </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>9</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>731</td>
+		<td>
+			<a href="https://github.com/bioinfo-ut">
+				<img src="https://avatars.githubusercontent.com/u/12512365?s=72&u=e34b6cbdcc810331157ec6c1042be5fbbc24ea04&v=4" width="24" alt="Avatar of bioinfo-ut"> bioinfo-ut
+			</a><br/>
+			Bioinfo, IMCB, UT
+		</td>
+		<td>University Of Tartu </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, ESTONIA</td>
+		<td>9</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>732</td>
+		<td>
+			<a href="https://github.com/tarmoj">
+				<img src="https://avatars.githubusercontent.com/u/7684691?s=72&u=2fc5e25c47fb36f314dbe043cfe1fb574e9ce97f&v=4" width="24" alt="Avatar of tarmoj"> tarmoj
+			</a><br/>
+			Tarmo Johannes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>9</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>733</td>
+		<td>
+			<a href="https://github.com/quiz42">
+				<img src="https://avatars.githubusercontent.com/u/32418184?s=72&u=551257bc7f1e483529c560b73a457d8c43b6c09f&v=4" width="24" alt="Avatar of quiz42"> quiz42
+			</a><br/>
+			Quiz 42 Hayekian
+		</td>
+		<td>Bo42.etch </td>
+		<td><a href="https://twitter.com/quiz">quiz</a></td>
+		<td>Estonia</td>
+		<td>9</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>734</td>
+		<td>
+			<a href="https://github.com/saarsalu">
+				<img src="https://avatars.githubusercontent.com/u/30391002?s=72&v=4" width="24" alt="Avatar of saarsalu"> saarsalu
+			</a><br/>
+			Kristjan Saarsalu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>9</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>735</td>
+		<td>
+			<a href="https://github.com/jaagupku">
+				<img src="https://avatars.githubusercontent.com/u/8337832?s=72&u=1b31f390e53d8179d24e97b158c6d0ec77431970&v=4" width="24" alt="Avatar of jaagupku"> jaagupku
+			</a><br/>
+			Jaagup Kuhi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>3</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>736</td>
+		<td>
+			<a href="https://github.com/Taavi1p">
+				<img src="https://avatars.githubusercontent.com/u/42722494?s=72&u=61b638c7ae2c514145085e7269bf8997ddde28fa&v=4" width="24" alt="Avatar of Taavi1p"> Taavi1p
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>9</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>737</td>
+		<td>
+			<a href="https://github.com/asemiashkin">
+				<img src="https://avatars.githubusercontent.com/u/37638573?s=72&u=65d2002c2924644071d5f644c7a1ab2161e4e084&v=4" width="24" alt="Avatar of asemiashkin"> asemiashkin
+			</a><br/>
+			Artem Semiashkin
+		</td>
+		<td>Wise </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>9</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>738</td>
+		<td>
+			<a href="https://github.com/bayansar">
+				<img src="https://avatars.githubusercontent.com/u/10929044?s=72&u=3084a7f9c5e38c5b4f9ccc6798cf49584b5634e6&v=4" width="24" alt="Avatar of bayansar"> bayansar
+			</a><br/>
+			Furkan
+		</td>
+		<td>@malwarebytes </td>
+		<td><a href="https://twitter.com/fbayansar">fbayansar</a></td>
+		<td>Tallinn,Estonia</td>
+		<td>0</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>739</td>
+		<td>
+			<a href="https://github.com/ceaksan">
+				<img src="https://avatars.githubusercontent.com/u/7110096?s=72&u=80685177b5a3134ec63d8e0c5b66eec09856b3a7&v=4" width="24" alt="Avatar of ceaksan"> ceaksan
+			</a><br/>
+			Ceyhun Enki Aksan
+		</td>
+		<td>Dnomia.com & Decol.tv </td>
+		<td><a href="https://twitter.com/ceaksan">ceaksan</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>8</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>740</td>
+		<td>
+			<a href="https://github.com/tarunkhajuria42">
+				<img src="https://avatars.githubusercontent.com/u/5724484?s=72&u=eb966a268b420c435d68adcf8039b5e131023680&v=4" width="24" alt="Avatar of tarunkhajuria42"> tarunkhajuria42
+			</a><br/>
+			Tarun Khajuria
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu</td>
+		<td>0</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>741</td>
+		<td>
+			<a href="https://github.com/gasparka">
+				<img src="https://avatars.githubusercontent.com/u/16946258?s=72&v=4" width="24" alt="Avatar of gasparka"> gasparka
+			</a><br/>
+			Gaspar Karm
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>8</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>742</td>
+		<td>
+			<a href="https://github.com/Stotex">
+				<img src="https://avatars.githubusercontent.com/u/33248162?s=72&u=a21456d4dd7bb07417736a45a8c499a0c2d4ea61&v=4" width="24" alt="Avatar of Stotex"> Stotex
+			</a><br/>
+			Kenno Pajunurm
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>8</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>743</td>
+		<td>
+			<a href="https://github.com/jaanek">
+				<img src="https://avatars.githubusercontent.com/u/616700?s=72&u=d65b690d03e4e801bf3ce164c7f9ada3f2a919d5&v=4" width="24" alt="Avatar of jaanek"> jaanek
+			</a><br/>
+			Jaanek Oja
+		</td>
+		<td>Jawilla </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>8</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>744</td>
+		<td>
+			<a href="https://github.com/jjpp">
+				<img src="https://avatars.githubusercontent.com/u/44979?s=72&u=8f2a1997aa96af2833306b1a5a263cac54a7f285&v=4" width="24" alt="Avatar of jjpp"> jjpp
+			</a><br/>
+			Jaak Pruulmann-Vengerfeldt
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lund, Sweden || Tartu, Estonia</td>
+		<td>8</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>745</td>
+		<td>
+			<a href="https://github.com/mimarcel">
+				<img src="https://avatars.githubusercontent.com/u/2362026?s=72&u=0ea5340180f4fb3b195d0f6f87e76b5710df6b9b&v=4" width="24" alt="Avatar of mimarcel"> mimarcel
+			</a><br/>
+			Marcel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>8</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>746</td>
+		<td>
+			<a href="https://github.com/lid3rs">
+				<img src="https://avatars.githubusercontent.com/u/1872001?s=72&u=29a739fab27b41399a112d56a39d122f2c41f72c&v=4" width="24" alt="Avatar of lid3rs"> lid3rs
+			</a><br/>
+			Sergey Filatov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>8</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>747</td>
+		<td>
+			<a href="https://github.com/RomanSolomatin">
+				<img src="https://avatars.githubusercontent.com/u/3824224?s=72&u=2b79276bde46dfb6e5090f83a5368fe312480aaf&v=4" width="24" alt="Avatar of RomanSolomatin"> RomanSolomatin
+			</a><br/>
+			Roman Solomatin
+		</td>
+		<td>Lhv </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, EE</td>
+		<td>8</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>748</td>
+		<td>
+			<a href="https://github.com/jaks6">
+				<img src="https://avatars.githubusercontent.com/u/3584833?s=72&v=4" width="24" alt="Avatar of jaks6"> jaks6
+			</a><br/>
+			Jakob Mass
+		</td>
+		<td>University Of Tartu </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>8</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>749</td>
+		<td>
+			<a href="https://github.com/1it">
+				<img src="https://avatars.githubusercontent.com/u/7093190?s=72&u=c5487737dfa7590acadfad570bcc924d43e4c6d0&v=4" width="24" alt="Avatar of 1it"> 1it
+			</a><br/>
+			Ivan Tuzhilkin
+		</td>
+		<td>@bolteu </td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>8</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>750</td>
+		<td>
+			<a href="https://github.com/catsed">
+				<img src="https://avatars.githubusercontent.com/u/8395834?s=72&v=4" width="24" alt="Avatar of catsed"> catsed
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>8</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>751</td>
+		<td>
+			<a href="https://github.com/herkyl">
+				<img src="https://avatars.githubusercontent.com/u/714950?s=72&u=a764bad21dace4698f6186fd779d8ed55d495103&v=4" width="24" alt="Avatar of herkyl"> herkyl
+			</a><br/>
+			Serge
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>7</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>752</td>
+		<td>
+			<a href="https://github.com/Waffa">
+				<img src="https://avatars.githubusercontent.com/u/658315?s=72&v=4" width="24" alt="Avatar of Waffa"> Waffa
+			</a><br/>
+			Margus Waffa Meigo 
+		</td>
+		<td>Abok </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>7</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>753</td>
+		<td>
+			<a href="https://github.com/mainframe">
+				<img src="https://avatars.githubusercontent.com/u/354279?s=72&u=27dde289a2ba2e47881f470d0857df552e5cacf8&v=4" width="24" alt="Avatar of mainframe"> mainframe
+			</a><br/>
+			Andres Toomsalu
+		</td>
+		<td>Opennode Llc </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>7</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>754</td>
+		<td>
+			<a href="https://github.com/asadullah797">
+				<img src="https://avatars.githubusercontent.com/u/243593?s=72&u=df79ce426fccff86acfe2b50c246d378f90f625d&v=4" width="24" alt="Avatar of asadullah797"> asadullah797
+			</a><br/>
+			ASADULLAH
+		</td>
+		<td>Institute Of Phonetics Lab<br/></td>
+		<td>No Twitter Username</td>
+		<td>TALLINN (ESTONIA</td>
+		<td>7</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>755</td>
+		<td>
+			<a href="https://github.com/head-thrash">
+				<img src="https://avatars.githubusercontent.com/u/892781?s=72&v=4" width="24" alt="Avatar of head-thrash"> head-thrash
+			</a><br/>
+			Ilya Cherkasov
+		</td>
+		<td>Twilio </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>7</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>756</td>
+		<td>
+			<a href="https://github.com/turgutbasar">
+				<img src="https://avatars.githubusercontent.com/u/1305324?s=72&u=edd2ad3c4ef5b76c54eaa87e486cf77c4b81705a&v=4" width="24" alt="Avatar of turgutbasar"> turgutbasar
+			</a><br/>
+			Başar TURGUT
+		</td>
+		<td>@twilio </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn / Estonia</td>
+		<td>6</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>757</td>
+		<td>
+			<a href="https://github.com/ChangeDev">
+				<img src="https://avatars.githubusercontent.com/u/51020932?s=72&u=ab2b7eb08663291695acb0c0a82d3abd56997cc0&v=4" width="24" alt="Avatar of ChangeDev"> ChangeDev
+			</a><br/>
+			Change
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>7</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>758</td>
+		<td>
+			<a href="https://github.com/rreinurm">
+				<img src="https://avatars.githubusercontent.com/u/4215660?s=72&u=fdacd3343d251bf0dc97d40481ffcd675da5989a&v=4" width="24" alt="Avatar of rreinurm"> rreinurm
+			</a><br/>
+			Renno Reinurm
+		</td>
+		<td>Pipedrive </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>7</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>759</td>
+		<td>
+			<a href="https://github.com/lbyte00">
+				<img src="https://avatars.githubusercontent.com/u/11164398?s=72&u=f040deae72fa2a50f5bdfa0f862ba6fbde04ef1e&v=4" width="24" alt="Avatar of lbyte00"> lbyte00
+			</a><br/>
+			Maksim Logvinenko
+		</td>
+		<td>Enlabs </td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>7</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>760</td>
+		<td>
+			<a href="https://github.com/tonis-lusmagi">
+				<img src="https://avatars.githubusercontent.com/u/30297567?s=72&u=4b2e39e88a4b11856389caf9c480a30ce1d4c211&v=4" width="24" alt="Avatar of tonis-lusmagi"> tonis-lusmagi
+			</a><br/>
+			Tõnis Lusmägi
+		</td>
+		<td>@milremas </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>7</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>761</td>
+		<td>
+			<a href="https://github.com/kristenkotkas">
+				<img src="https://avatars.githubusercontent.com/u/16037979?s=72&u=dcb4264a5a9d6e79c5697a2fdd6fee7896a279b5&v=4" width="24" alt="Avatar of kristenkotkas"> kristenkotkas
+			</a><br/>
+			Kristen Kotkas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia </td>
+		<td>3</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>762</td>
+		<td>
+			<a href="https://github.com/IhorKlimov">
+				<img src="https://avatars.githubusercontent.com/u/13784275?s=72&u=a7ea45f29c3e47858d0167150de27969c7970444&v=4" width="24" alt="Avatar of IhorKlimov"> IhorKlimov
+			</a><br/>
+			Ihor Klimov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>6</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>763</td>
+		<td>
+			<a href="https://github.com/Gedrovits">
+				<img src="https://avatars.githubusercontent.com/u/2951943?s=72&u=7c68cd67c87b75c0f7c9e5f2c0e70a71c9045373&v=4" width="24" alt="Avatar of Gedrovits"> Gedrovits
+			</a><br/>
+			Vjatseslav Gedrovits
+		</td>
+		<td>@malwarebytes  </td>
+		<td><a href="https://twitter.com/Gedrovits">Gedrovits</a></td>
+		<td>Tallinn, Estonia</td>
+		<td>3</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>764</td>
+		<td>
+			<a href="https://github.com/FowiFlowi">
+				<img src="https://avatars.githubusercontent.com/u/18740380?s=72&u=6e567742af4726d443367645efc2a8a1150d4ba5&v=4" width="24" alt="Avatar of FowiFlowi"> FowiFlowi
+			</a><br/>
+			Nikolay
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>3</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>765</td>
+		<td>
+			<a href="https://github.com/aleksiszalitis">
+				<img src="https://avatars.githubusercontent.com/u/11803723?s=72&v=4" width="24" alt="Avatar of aleksiszalitis"> aleksiszalitis
+			</a><br/>
+			Aleksis Zalitis
+		</td>
+		<td>Wisemedia Ou </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>6</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>766</td>
+		<td>
+			<a href="https://github.com/anwk">
+				<img src="https://avatars.githubusercontent.com/u/976346?s=72&u=c40ead8583bfe2140563f6b736bfac8adb4b81bc&v=4" width="24" alt="Avatar of anwk"> anwk
+			</a><br/>
+			Andrii Kryvonosov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>6</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>767</td>
+		<td>
+			<a href="https://github.com/zidik">
+				<img src="https://avatars.githubusercontent.com/u/1482651?s=72&u=ed6b9c5039770023d5bb05c41c022e7820dddec4&v=4" width="24" alt="Avatar of zidik"> zidik
+			</a><br/>
+			Mark Laane
+		</td>
+		<td>@salemove  </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>6</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>768</td>
+		<td>
+			<a href="https://github.com/seltee">
+				<img src="https://avatars.githubusercontent.com/u/36302894?s=72&u=fd6d920d6b033d68c74dc0cc6b43c58857b9dfb9&v=4" width="24" alt="Avatar of seltee"> seltee
+			</a><br/>
+			Dmitry Shashkov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia - Tallinn</td>
+		<td>6</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>769</td>
+		<td>
+			<a href="https://github.com/Parvetaja">
+				<img src="https://avatars.githubusercontent.com/u/21100364?s=72&u=09645223943f6e1fd6b006d74718bcda820c3711&v=4" width="24" alt="Avatar of Parvetaja"> Parvetaja
+			</a><br/>
+			Jan Joonas Parve
+		</td>
+		<td>@ituk-ttu  </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>4</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>770</td>
+		<td>
+			<a href="https://github.com/margus">
+				<img src="https://avatars.githubusercontent.com/u/237440?s=72&u=bc72a149010c04149e86674ffb95c0d90fee5b4f&v=4" width="24" alt="Avatar of margus"> margus
+			</a><br/>
+			Margus Heinmaa
+		</td>
+		<td>@vaimo  </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>6</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>771</td>
+		<td>
+			<a href="https://github.com/nickwlker">
+				<img src="https://avatars.githubusercontent.com/u/7167527?s=72&u=c218d635da3c7ab9a53112a0d5b378538249822f&v=4" width="24" alt="Avatar of nickwlker"> nickwlker
+			</a><br/>
+			Nick Walker
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>0</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>772</td>
+		<td>
+			<a href="https://github.com/gpeipman">
+				<img src="https://avatars.githubusercontent.com/u/147714?s=72&v=4" width="24" alt="Avatar of gpeipman"> gpeipman
+			</a><br/>
+			Gunnar Peipman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>5</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>773</td>
+		<td>
+			<a href="https://github.com/martintajur">
+				<img src="https://avatars.githubusercontent.com/u/176018?s=72&u=4c4a1e5642dcfaaa7b9d00afa03d48a142678060&v=4" width="24" alt="Avatar of martintajur"> martintajur
+			</a><br/>
+			Martin Tajur
+		</td>
+		<td>Pipedrive Inc </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>0</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>774</td>
+		<td>
+			<a href="https://github.com/erikkaplun">
+				<img src="https://avatars.githubusercontent.com/u/17533?s=72&v=4" width="24" alt="Avatar of erikkaplun"> erikkaplun
+			</a><br/>
+			Erik Kaplun
+		</td>
+		<td>Uxo </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>5</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>775</td>
+		<td>
+			<a href="https://github.com/svenvarkel">
+				<img src="https://avatars.githubusercontent.com/u/4711992?s=72&u=cab798ed07892b6267cb722230c898ebc90a05ce&v=4" width="24" alt="Avatar of svenvarkel"> svenvarkel
+			</a><br/>
+			Sven Varkel
+		</td>
+		<td>Prototypely </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>5</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>776</td>
+		<td>
+			<a href="https://github.com/jnsaff">
+				<img src="https://avatars.githubusercontent.com/u/402596?s=72&v=4" width="24" alt="Avatar of jnsaff"> jnsaff
+			</a><br/>
+			Jaanus Torp
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>5</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>777</td>
+		<td>
+			<a href="https://github.com/martenveskimae">
+				<img src="https://avatars.githubusercontent.com/u/17541518?s=72&u=341761b02a01c40870cd8f939cb20e3221da475e&v=4" width="24" alt="Avatar of martenveskimae"> martenveskimae
+			</a><br/>
+			Märten Veskimäe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>5</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>778</td>
+		<td>
+			<a href="https://github.com/vjomants32">
+				<img src="https://avatars.githubusercontent.com/u/61548467?s=72&u=7235df9aca86b6573c06003f8532b786c940b31a&v=4" width="24" alt="Avatar of vjomants32"> vjomants32
+			</a><br/>
+			Valdis Jomants
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>5</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>779</td>
+		<td>
+			<a href="https://github.com/SochynskyiStas">
+				<img src="https://avatars.githubusercontent.com/u/20224130?s=72&u=bc4dce9a4b42087953c2b7d72450dc45217efab2&v=4" width="24" alt="Avatar of SochynskyiStas"> SochynskyiStas
+			</a><br/>
+			Stanislav
+		</td>
+		<td>University Of Tartu And<br/>Taras<br/>Shevchenko<br/>National<br/>Univeristy<br/>Of<br/>Kyiv<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>5</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>780</td>
+		<td>
+			<a href="https://github.com/andrey-samborskiy">
+				<img src="https://avatars.githubusercontent.com/u/3829216?s=72&u=0ad6543b8b913dbf972c9ace5ba485b5d8e5c288&v=4" width="24" alt="Avatar of andrey-samborskiy"> andrey-samborskiy
+			</a><br/>
+			Andrey Samborskiy
+		</td>
+		<td>Gamesys Estonia </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>5</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>781</td>
+		<td>
+			<a href="https://github.com/jsiig">
+				<img src="https://avatars.githubusercontent.com/u/9108218?s=72&u=e8da3c433f54600b0079514a3141dc5a24dacaa0&v=4" width="24" alt="Avatar of jsiig"> jsiig
+			</a><br/>
+			Joanna Adeele Siig
+		</td>
+		<td>Parim Workforce Management Software<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>4</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>782</td>
+		<td>
+			<a href="https://github.com/KarimGeiger">
+				<img src="https://avatars.githubusercontent.com/u/2329930?s=72&u=8b1d42aae6c7476b3c581b6732adb3a65ad02a59&v=4" width="24" alt="Avatar of KarimGeiger"> KarimGeiger
+			</a><br/>
+			Karim Geiger
+		</td>
+		<td>@tyvrnet  </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>783</td>
+		<td>
+			<a href="https://github.com/joonathan">
+				<img src="https://avatars.githubusercontent.com/u/3045?s=72&u=d2b634a3a2a497d62d6a68b29a7d5285d98b24a8&v=4" width="24" alt="Avatar of joonathan"> joonathan
+			</a><br/>
+			Joonathan Mägi
+		</td>
+		<td>@klausapp </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>784</td>
+		<td>
+			<a href="https://github.com/hnagel413">
+				<img src="https://avatars.githubusercontent.com/u/31770163?s=72&u=79c9bfbb5fc9083e5317df3c2f00ee7fcba752e6&v=4" width="24" alt="Avatar of hnagel413"> hnagel413
+			</a><br/>
+			Helen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>785</td>
+		<td>
+			<a href="https://github.com/EonTechnology">
+				<img src="https://avatars.githubusercontent.com/u/28874165?s=72&u=085d2cb65e7f5cc917f99266e9e81d9901de0fbc&v=4" width="24" alt="Avatar of EonTechnology"> EonTechnology
+			</a><br/>
+			EON Technology
+		</td>
+		<td>Exscudo Oü </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>786</td>
+		<td>
+			<a href="https://github.com/n1koo">
+				<img src="https://avatars.githubusercontent.com/u/1556937?s=72&v=4" width="24" alt="Avatar of n1koo"> n1koo
+			</a><br/>
+			Niko Kurtti
+		</td>
+		<td>Questrade </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>787</td>
+		<td>
+			<a href="https://github.com/ashalva">
+				<img src="https://avatars.githubusercontent.com/u/9494262?s=72&u=6300f7fa99aab670442dbed5c012a16e3188c15e&v=4" width="24" alt="Avatar of ashalva"> ashalva
+			</a><br/>
+			Shalva Avanashvili
+		</td>
+		<td>Onoff Telecom </td>
+		<td>No Twitter Username</td>
+		<td>Estonia & Georgia</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>788</td>
+		<td>
+			<a href="https://github.com/ArturKp">
+				<img src="https://avatars.githubusercontent.com/u/3534968?s=72&v=4" width="24" alt="Avatar of ArturKp"> ArturKp
+			</a><br/>
+			Artur Käpp
+		</td>
+		<td>Guavahr </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>1</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>789</td>
+		<td>
+			<a href="https://github.com/stamkivi">
+				<img src="https://avatars.githubusercontent.com/u/5263291?s=72&v=4" width="24" alt="Avatar of stamkivi"> stamkivi
+			</a><br/>
+			Sten
+		</td>
+		<td>Topia </td>
+		<td><a href="https://twitter.com/seikatsu">seikatsu</a></td>
+		<td>Tallinn</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>790</td>
+		<td>
+			<a href="https://github.com/heyanton">
+				<img src="https://avatars.githubusercontent.com/u/17108334?s=72&v=4" width="24" alt="Avatar of heyanton"> heyanton
+			</a><br/>
+			Anton Melnyk
+		</td>
+		<td>Derivco </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>791</td>
+		<td>
+			<a href="https://github.com/Raidok">
+				<img src="https://avatars.githubusercontent.com/u/817089?s=72&v=4" width="24" alt="Avatar of Raidok"> Raidok
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>792</td>
+		<td>
+			<a href="https://github.com/tempico">
+				<img src="https://avatars.githubusercontent.com/u/6486967?s=72&u=78333102b98f7109aa1804cc68843d1341d0ac58&v=4" width="24" alt="Avatar of tempico"> tempico
+			</a><br/>
+			Vladimir Pissarev
+		</td>
+		<td>Tempico Labs </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>2</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>793</td>
+		<td>
+			<a href="https://github.com/Karlasa">
+				<img src="https://avatars.githubusercontent.com/u/5417554?s=72&u=3bc006bc87ab4d738c8cab9d87e9663484a6d34c&v=4" width="24" alt="Avatar of Karlasa"> Karlasa
+			</a><br/>
+			Karla Saaremäe
+		</td>
+		<td>@vaimo </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>794</td>
+		<td>
+			<a href="https://github.com/TaaraLabs">
+				<img src="https://avatars.githubusercontent.com/u/10339315?s=72&u=f8eacc0496e94d731e3df176f7fcfdb592c54995&v=4" width="24" alt="Avatar of TaaraLabs"> TaaraLabs
+			</a><br/>
+			TaaraLabs
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>795</td>
+		<td>
+			<a href="https://github.com/sr-hosseyni">
+				<img src="https://avatars.githubusercontent.com/u/7648300?s=72&u=1ec8fbf1fa796131d07a372c770cd6f55949bccf&v=4" width="24" alt="Avatar of sr-hosseyni"> sr-hosseyni
+			</a><br/>
+			rassoul
+		</td>
+		<td>Creditstar </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>796</td>
+		<td>
+			<a href="https://github.com/martunta">
+				<img src="https://avatars.githubusercontent.com/u/1398953?s=72&u=1aa61d5f4f6540c6c33c42e92edee73865c9abfc&v=4" width="24" alt="Avatar of martunta"> martunta
+			</a><br/>
+			Martins Untals
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>797</td>
+		<td>
+			<a href="https://github.com/laurib">
+				<img src="https://avatars.githubusercontent.com/u/1352991?s=72&u=2d20b4ba39256aba914585b57f9901ef86498985&v=4" width="24" alt="Avatar of laurib"> laurib
+			</a><br/>
+			Lauri Borodkin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>798</td>
+		<td>
+			<a href="https://github.com/vintagedave">
+				<img src="https://avatars.githubusercontent.com/u/8351450?s=72&u=acad59785eacb5b464235397151c2bad4aa8a7b4&v=4" width="24" alt="Avatar of vintagedave"> vintagedave
+			</a><br/>
+			David Millington
+		</td>
+		<td>Parnassus Oü </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>799</td>
+		<td>
+			<a href="https://github.com/evindor">
+				<img src="https://avatars.githubusercontent.com/u/822951?s=72&u=decc16ece99e3a8a5100af243a529dcaef893b6a&v=4" width="24" alt="Avatar of evindor"> evindor
+			</a><br/>
+			Arseny Zarechnev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>0</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>800</td>
+		<td>
+			<a href="https://github.com/foxglobaltrading">
+				<img src="https://avatars.githubusercontent.com/u/36005931?s=72&u=9a15228a94a0bb77744b4a005d8ee71846638e24&v=4" width="24" alt="Avatar of foxglobaltrading"> foxglobaltrading
+			</a><br/>
+			Fox Global
+		</td>
+		<td>Fox Crypto Trading Global<br/>Oü<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tallinn (Estonia)</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>801</td>
+		<td>
+			<a href="https://github.com/ristik">
+				<img src="https://avatars.githubusercontent.com/u/523116?s=72&v=4" width="24" alt="Avatar of ristik"> ristik
+			</a><br/>
+			Risto Laanoja
+		</td>
+		<td>Guardtime </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>802</td>
+		<td>
+			<a href="https://github.com/JoonasVali">
+				<img src="https://avatars.githubusercontent.com/u/1080919?s=72&u=937ad3108949a885cffa19d39b5e52b3781779fd&v=4" width="24" alt="Avatar of JoonasVali"> JoonasVali
+			</a><br/>
+			Joonas Vali
+		</td>
+		<td>@6fold  </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>803</td>
+		<td>
+			<a href="https://github.com/magavdraakon">
+				<img src="https://avatars.githubusercontent.com/u/327361?s=72&u=564797f975c620b84c9d92b3d7275e7eecbc6c91&v=4" width="24" alt="Avatar of magavdraakon"> magavdraakon
+			</a><br/>
+			Margus Ernits
+		</td>
+		<td>Rangeforce </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>804</td>
+		<td>
+			<a href="https://github.com/teertz">
+				<img src="https://avatars.githubusercontent.com/u/9487778?s=72&u=35482bcf8f6b99079c2ceba8c32d6231841c9903&v=4" width="24" alt="Avatar of teertz"> teertz
+			</a><br/>
+			Chukhan Serhii
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>805</td>
+		<td>
+			<a href="https://github.com/nanobash">
+				<img src="https://avatars.githubusercontent.com/u/6716383?s=72&u=b61a0c4dd68206e31ac4ff0af12eef37e99f63e3&v=4" width="24" alt="Avatar of nanobash"> nanobash
+			</a><br/>
+			Tornike Nanobashvili
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>1</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>806</td>
+		<td>
+			<a href="https://github.com/martikaljuve">
+				<img src="https://avatars.githubusercontent.com/u/130476?s=72&v=4" width="24" alt="Avatar of martikaljuve"> martikaljuve
+			</a><br/>
+			Marti Kaljuve
+		</td>
+		<td>Pipedrive </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>807</td>
+		<td>
+			<a href="https://github.com/akingaragon">
+				<img src="https://avatars.githubusercontent.com/u/12038024?s=72&u=97672653465c81e130f3a11e823b653002c6c51d&v=4" width="24" alt="Avatar of akingaragon"> akingaragon
+			</a><br/>
+			Akın Garagon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>808</td>
+		<td>
+			<a href="https://github.com/RaudseppSiim">
+				<img src="https://avatars.githubusercontent.com/u/33059789?s=72&u=825f677ec696b642078b28f47efa8fd3a3b2907b&v=4" width="24" alt="Avatar of RaudseppSiim"> RaudseppSiim
+			</a><br/>
+			Siim BeSmart
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>809</td>
+		<td>
+			<a href="https://github.com/aleksz">
+				<img src="https://avatars.githubusercontent.com/u/301771?s=72&v=4" width="24" alt="Avatar of aleksz"> aleksz
+			</a><br/>
+			Aleksandr Zhuikov
+		</td>
+		<td>Bolt </td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>810</td>
+		<td>
+			<a href="https://github.com/ali-ghasempor">
+				<img src="https://avatars.githubusercontent.com/u/8905367?s=72&u=bcde334ecd037dff7b36724bb38d16fc0da2b874&v=4" width="24" alt="Avatar of ali-ghasempor"> ali-ghasempor
+			</a><br/>
+			Ali Ghasempour
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>811</td>
+		<td>
+			<a href="https://github.com/picco">
+				<img src="https://avatars.githubusercontent.com/u/198660?s=72&v=4" width="24" alt="Avatar of picco"> picco
+			</a><br/>
+			Ivo Nellis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>812</td>
+		<td>
+			<a href="https://github.com/Caledfwlch1">
+				<img src="https://avatars.githubusercontent.com/u/11349858?s=72&u=51b92e35ffbdabb1be5866fc49150059824b4071&v=4" width="24" alt="Avatar of Caledfwlch1"> Caledfwlch1
+			</a><br/>
+			Andrey Smirnov
+		</td>
+		<td>Estonia </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>813</td>
+		<td>
+			<a href="https://github.com/Siim">
+				<img src="https://avatars.githubusercontent.com/u/44247?s=72&u=0c3dd0e0722c3a065a7b83eb464615dae370007c&v=4" width="24" alt="Avatar of Siim"> Siim
+			</a><br/>
+			Siim Haugas
+		</td>
+		<td>@haugasdev  </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>814</td>
+		<td>
+			<a href="https://github.com/sala91">
+				<img src="https://avatars.githubusercontent.com/u/143785?s=72&v=4" width="24" alt="Avatar of sala91"> sala91
+			</a><br/>
+			Sander Soots
+		</td>
+		<td>Battleit Group </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>815</td>
+		<td>
+			<a href="https://github.com/scopenco">
+				<img src="https://avatars.githubusercontent.com/u/5711552?s=72&u=f29cf8abcc2fe73ba8ab35ad8148dff7e36a3277&v=4" width="24" alt="Avatar of scopenco"> scopenco
+			</a><br/>
+			Andrei Skopenko
+		</td>
+		<td>Paxful Inc. </td>
+		<td><a href="https://twitter.com/scopenco">scopenco</a></td>
+		<td>Tallinn</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>816</td>
+		<td>
+			<a href="https://github.com/ajtack">
+				<img src="https://avatars.githubusercontent.com/u/48368?s=72&v=4" width="24" alt="Avatar of ajtack"> ajtack
+			</a><br/>
+			Andres Jaan Tack
+		</td>
+		<td>@twilio </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>817</td>
+		<td>
+			<a href="https://github.com/pKalju">
+				<img src="https://avatars.githubusercontent.com/u/17317923?s=72&u=f2ebd9f5f5b9623073d0223749d3ad5973e727ad&v=4" width="24" alt="Avatar of pKalju"> pKalju
+			</a><br/>
+			Kalju
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>818</td>
+		<td>
+			<a href="https://github.com/mariosmaselli">
+				<img src="https://avatars.githubusercontent.com/u/1336977?s=72&u=eae91fdc85523be8612297fc24a3db986bfa7c23&v=4" width="24" alt="Avatar of mariosmaselli"> mariosmaselli
+			</a><br/>
+			mario sanchez maselli
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn </td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>819</td>
+		<td>
+			<a href="https://github.com/karpelcev">
+				<img src="https://avatars.githubusercontent.com/u/481966?s=72&u=ab4a9434724697ab783004f7e3339df78b8aad86&v=4" width="24" alt="Avatar of karpelcev"> karpelcev
+			</a><br/>
+			Romans Karpelcevs
+		</td>
+		<td>@pipedrive  </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>820</td>
+		<td>
+			<a href="https://github.com/Bytedex">
+				<img src="https://avatars.githubusercontent.com/u/82597383?s=72&u=a8df37199bdbee07be2a1e23dca8fd5ed449dc56&v=4" width="24" alt="Avatar of Bytedex"> Bytedex
+			</a><br/>
+			ByteDEX
+		</td>
+		<td>Bytedex Blockchain Technologies Oü<br/></td>
+		<td><a href="https://twitter.com/ByteExchange">ByteExchange</a></td>
+		<td>Estonia/ Talinn</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>821</td>
+		<td>
+			<a href="https://github.com/threeturn">
+				<img src="https://avatars.githubusercontent.com/u/60066?s=72&v=4" width="24" alt="Avatar of threeturn"> threeturn
+			</a><br/>
+			Andrea C. Granata
+		</td>
+		<td>Luminor Bank As </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>822</td>
+		<td>
+			<a href="https://github.com/mlensment">
+				<img src="https://avatars.githubusercontent.com/u/604295?s=72&v=4" width="24" alt="Avatar of mlensment"> mlensment
+			</a><br/>
+			Martin Lensment
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>823</td>
+		<td>
+			<a href="https://github.com/lfbarragan">
+				<img src="https://avatars.githubusercontent.com/u/354342?s=72&v=4" width="24" alt="Avatar of lfbarragan"> lfbarragan
+			</a><br/>
+			Luis Barragan
+		</td>
+		<td>Veriff </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia / Barquisimeto, Venezuela</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>824</td>
+		<td>
+			<a href="https://github.com/fishera123">
+				<img src="https://avatars.githubusercontent.com/u/9304560?s=72&u=b86d018072df673a51522c12331ab6e1ce66864c&v=4" width="24" alt="Avatar of fishera123"> fishera123
+			</a><br/>
+			Fishera123
+		</td>
+		<td>Katana Mrp </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>825</td>
+		<td>
+			<a href="https://github.com/hkaju">
+				<img src="https://avatars.githubusercontent.com/u/114865?s=72&u=fd12b890e09deceb2d56293c1337baa17f0f3c1f&v=4" width="24" alt="Avatar of hkaju"> hkaju
+			</a><br/>
+			Hendrik Kaju
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>826</td>
+		<td>
+			<a href="https://github.com/clinei">
+				<img src="https://avatars.githubusercontent.com/u/5656884?s=72&u=3e9865718ea113fdcb9512435d6e7251e8a45db1&v=4" width="24" alt="Avatar of clinei"> clinei
+			</a><br/>
+			Tanel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>827</td>
+		<td>
+			<a href="https://github.com/OlegPahhomov">
+				<img src="https://avatars.githubusercontent.com/u/7459091?s=72&u=8f15ff70f3853cefcd801974330cfdc3c5d86ed9&v=4" width="24" alt="Avatar of OlegPahhomov"> OlegPahhomov
+			</a><br/>
+			Oleg Pahhomov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>828</td>
+		<td>
+			<a href="https://github.com/afds">
+				<img src="https://avatars.githubusercontent.com/u/364813?s=72&u=3a728b79ad06608784635b025237098387ba215a&v=4" width="24" alt="Avatar of afds"> afds
+			</a><br/>
+			Deniss Afonin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>829</td>
+		<td>
+			<a href="https://github.com/riho">
+				<img src="https://avatars.githubusercontent.com/u/287580?s=72&u=6588a0eb2944a1183ac130c1299ff61bdce5e8ca&v=4" width="24" alt="Avatar of riho"> riho
+			</a><br/>
+			Riho Peterson
+		</td>
+		<td>Tulevik.eu </td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>830</td>
+		<td>
+			<a href="https://github.com/Wandersonjack">
+				<img src="https://avatars.githubusercontent.com/u/5993828?s=72&u=b9b4bf8b6ee9f707064d1187376d024362485dfa&v=4" width="24" alt="Avatar of Wandersonjack"> Wandersonjack
+			</a><br/>
+			Wanderson Jackson
+		</td>
+		<td>Pipedrive </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>831</td>
+		<td>
+			<a href="https://github.com/ermolushka">
+				<img src="https://avatars.githubusercontent.com/u/2204660?s=72&u=34de281c4c7b35ff536c3f4c2330734ad538f907&v=4" width="24" alt="Avatar of ermolushka"> ermolushka
+			</a><br/>
+			Alex Ermolaev
+		</td>
+		<td>Bolt </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>832</td>
+		<td>
+			<a href="https://github.com/webervin">
+				<img src="https://avatars.githubusercontent.com/u/478509?s=72&v=4" width="24" alt="Avatar of webervin"> webervin
+			</a><br/>
+			Ervin Weber
+		</td>
+		<td>Toggl.com </td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>833</td>
+		<td>
+			<a href="https://github.com/mykhailo-gaidai">
+				<img src="https://avatars.githubusercontent.com/u/9654565?s=72&u=bd1c6aa7ed386ceb33f1504d1bef11a635650bd6&v=4" width="24" alt="Avatar of mykhailo-gaidai"> mykhailo-gaidai
+			</a><br/>
+			Mykhailo Gaidai
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>834</td>
+		<td>
+			<a href="https://github.com/martinkivi">
+				<img src="https://avatars.githubusercontent.com/u/61033?s=72&u=93d416466d29a93caa62a8c75d350b8d8b6be2d2&v=4" width="24" alt="Avatar of martinkivi"> martinkivi
+			</a><br/>
+			Martin Kivi
+		</td>
+		<td>@perfectline  </td>
+		<td><a href="https://twitter.com/martinkivi">martinkivi</a></td>
+		<td>Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>835</td>
+		<td>
+			<a href="https://github.com/tukataka">
+				<img src="https://avatars.githubusercontent.com/u/9479414?s=72&v=4" width="24" alt="Avatar of tukataka"> tukataka
+			</a><br/>
+			Nikita Isakov
+		</td>
+		<td>Paxful </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>836</td>
+		<td>
+			<a href="https://github.com/mxrguspxrt">
+				<img src="https://avatars.githubusercontent.com/u/346566?s=72&u=8f962b584a59a8e6849ce82d5bc62d05a148b8b6&v=4" width="24" alt="Avatar of mxrguspxrt"> mxrguspxrt
+			</a><br/>
+			Margus Pärt
+		</td>
+		<td>- </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>837</td>
+		<td>
+			<a href="https://github.com/jpeldes">
+				<img src="https://avatars.githubusercontent.com/u/2285668?s=72&u=9b78fddeea3e548d17076e575ac02ac79d54c629&v=4" width="24" alt="Avatar of jpeldes"> jpeldes
+			</a><br/>
+			Jaak Peldes
+		</td>
+		<td>Taxscouts </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>838</td>
+		<td>
+			<a href="https://github.com/ocorcoll">
+				<img src="https://avatars.githubusercontent.com/u/111722?s=72&v=4" width="24" alt="Avatar of ocorcoll"> ocorcoll
+			</a><br/>
+			Oriol Corcoll
+		</td>
+		<td>Tartu University </td>
+		<td><a href="https://twitter.com/ocorcoll">ocorcoll</a></td>
+		<td>Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>839</td>
+		<td>
+			<a href="https://github.com/marlondumas">
+				<img src="https://avatars.githubusercontent.com/u/8903062?s=72&u=087493b942f65925c3109398e44005f2d65c450f&v=4" width="24" alt="Avatar of marlondumas"> marlondumas
+			</a><br/>
+			Marlon Dumas
+		</td>
+		<td>University Of Tartu </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>840</td>
+		<td>
+			<a href="https://github.com/llyys">
+				<img src="https://avatars.githubusercontent.com/u/494770?s=72&v=4" width="24" alt="Avatar of llyys"> llyys
+			</a><br/>
+			Lauri Lüüs
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>841</td>
+		<td>
+			<a href="https://github.com/RafaelGorski">
+				<img src="https://avatars.githubusercontent.com/u/540567?s=72&v=4" width="24" alt="Avatar of RafaelGorski"> RafaelGorski
+			</a><br/>
+			Rafael Gorski
+		</td>
+		<td>Microsoft </td>
+		<td><a href="https://twitter.com/GorskiRafael">GorskiRafael</a></td>
+		<td>Brazil / Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>842</td>
+		<td>
+			<a href="https://github.com/zauribrahimkhalilov-zz">
+				<img src="https://avatars.githubusercontent.com/u/26174625?s=72&u=40d29e5f55e3f20c0997cbc269a74ca874d92c9b&v=4" width="24" alt="Avatar of zauribrahimkhalilov-zz"> zauribrahimkhalilov-zz
+			</a><br/>
+			Zaur
+		</td>
+		<td>Clarifai </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>843</td>
+		<td>
+			<a href="https://github.com/abele">
+				<img src="https://avatars.githubusercontent.com/u/203204?s=72&v=4" width="24" alt="Avatar of abele"> abele
+			</a><br/>
+			Jānis Ābele
+		</td>
+		<td>Guardtime </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>844</td>
+		<td>
+			<a href="https://github.com/Geeknux">
+				<img src="https://avatars.githubusercontent.com/u/1153824?s=72&u=620119c6b8fe88cc83b6bad4ab825371b7f15739&v=4" width="24" alt="Avatar of Geeknux"> Geeknux
+			</a><br/>
+			Amir M. Mahmoudi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tehran <-> Tallinn</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>845</td>
+		<td>
+			<a href="https://github.com/nazmulb">
+				<img src="https://avatars.githubusercontent.com/u/9319598?s=72&u=3298040c7990213f8809d69a69404b48ab7eaffe&v=4" width="24" alt="Avatar of nazmulb"> nazmulb
+			</a><br/>
+			Nazmul Basher
+		</td>
+		<td>Multilogin </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>846</td>
+		<td>
+			<a href="https://github.com/raivokolde">
+				<img src="https://avatars.githubusercontent.com/u/181403?s=72&v=4" width="24" alt="Avatar of raivokolde"> raivokolde
+			</a><br/>
+			Raivo Kolde
+		</td>
+		<td>University Of Tartu </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>847</td>
+		<td>
+			<a href="https://github.com/martinsookael">
+				<img src="https://avatars.githubusercontent.com/u/248973?s=72&v=4" width="24" alt="Avatar of martinsookael"> martinsookael
+			</a><br/>
+			Martin Sookael
+		</td>
+		<td>Jayjs And Wizard.finance </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>848</td>
+		<td>
+			<a href="https://github.com/MikSDigital">
+				<img src="https://avatars.githubusercontent.com/u/1351612?s=72&u=a819f126e01d75e5202abdfa6ee950a0c15ee1ae&v=4" width="24" alt="Avatar of MikSDigital"> MikSDigital
+			</a><br/>
+			Mikhail
+		</td>
+		<td>Miks Digital </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>849</td>
+		<td>
+			<a href="https://github.com/Villane">
+				<img src="https://avatars.githubusercontent.com/u/85109?s=72&v=4" width="24" alt="Avatar of Villane"> Villane
+			</a><br/>
+			Erkki Lindpere
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>850</td>
+		<td>
+			<a href="https://github.com/sirWest">
+				<img src="https://avatars.githubusercontent.com/u/1524316?s=72&v=4" width="24" alt="Avatar of sirWest"> sirWest
+			</a><br/>
+			Tanel T
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>851</td>
+		<td>
+			<a href="https://github.com/Starotitorov">
+				<img src="https://avatars.githubusercontent.com/u/11873143?s=72&u=a771f84de3729008016ff6e397b1acc4d79802f4&v=4" width="24" alt="Avatar of Starotitorov"> Starotitorov
+			</a><br/>
+			Artsiom Staratsitarau
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>852</td>
+		<td>
+			<a href="https://github.com/vmayushan">
+				<img src="https://avatars.githubusercontent.com/u/9516149?s=72&u=c565d1d236b4fa95cff3f4ed5bfdd67da9dc74fd&v=4" width="24" alt="Avatar of vmayushan"> vmayushan
+			</a><br/>
+			Vlad Mayushan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>853</td>
+		<td>
+			<a href="https://github.com/naru">
+				<img src="https://avatars.githubusercontent.com/u/123636?s=72&v=4" width="24" alt="Avatar of naru"> naru
+			</a><br/>
+			Anton Narusberg
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>854</td>
+		<td>
+			<a href="https://github.com/skyfallen">
+				<img src="https://avatars.githubusercontent.com/u/1223771?s=72&u=f8485044bd6ac63d8b08ee882ec20edf3a0c2c50&v=4" width="24" alt="Avatar of skyfallen"> skyfallen
+			</a><br/>
+			Dmytro
+		</td>
+		<td>Ut </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>855</td>
+		<td>
+			<a href="https://github.com/wpkel">
+				<img src="https://avatars.githubusercontent.com/u/15845236?s=72&u=93bd5fdb5cb248faf546e3966e375fb8e9858b39&v=4" width="24" alt="Avatar of wpkel"> wpkel
+			</a><br/>
+			Kristjan Erik Liive
+		</td>
+		<td>Stacc </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>856</td>
+		<td>
+			<a href="https://github.com/raymerta">
+				<img src="https://avatars.githubusercontent.com/u/1259806?s=72&u=a2518aed99b812c4d5cfbe31102787d476b84655&v=4" width="24" alt="Avatar of raymerta"> raymerta
+			</a><br/>
+			Radita Liem
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>857</td>
+		<td>
+			<a href="https://github.com/andreasvija">
+				<img src="https://avatars.githubusercontent.com/u/9266039?s=72&u=f85445417fd86e5b4a0619a11221df3a1bb4c412&v=4" width="24" alt="Avatar of andreasvija"> andreasvija
+			</a><br/>
+			Andreas Vija
+		</td>
+		<td>Stacc </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>858</td>
+		<td>
+			<a href="https://github.com/kasparvihm">
+				<img src="https://avatars.githubusercontent.com/u/4668699?s=72&u=bb07fb79588077f9fb08f528f0d004ec844c9b77&v=4" width="24" alt="Avatar of kasparvihm"> kasparvihm
+			</a><br/>
+			Kaspar Vihm
+		</td>
+		<td>Pipedrive </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>859</td>
+		<td>
+			<a href="https://github.com/brzzbr">
+				<img src="https://avatars.githubusercontent.com/u/3959165?s=72&u=c1c20f52f4fe48ae99abde98a703b9bbf9d607a4&v=4" width="24" alt="Avatar of brzzbr"> brzzbr
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>860</td>
+		<td>
+			<a href="https://github.com/NXij">
+				<img src="https://avatars.githubusercontent.com/u/3188124?s=72&u=fce7d2e9cbe234562501015935edf60d72553c42&v=4" width="24" alt="Avatar of NXij"> NXij
+			</a><br/>
+			Tanel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>861</td>
+		<td>
+			<a href="https://github.com/rvillido">
+				<img src="https://avatars.githubusercontent.com/u/2510133?s=72&u=e42b41e4e61b4ac5b72b90f3cab92007a89b03bc&v=4" width="24" alt="Avatar of rvillido"> rvillido
+			</a><br/>
+			Rainer Villido
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>862</td>
+		<td>
+			<a href="https://github.com/tsotnep">
+				<img src="https://avatars.githubusercontent.com/u/1367997?s=72&v=4" width="24" alt="Avatar of tsotnep"> tsotnep
+			</a><br/>
+			Tsotne Putkaradze
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia / Georgia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>863</td>
+		<td>
+			<a href="https://github.com/ahmarov">
+				<img src="https://avatars.githubusercontent.com/u/67552?s=72&u=1fabf976f2a21ea074e26aa263cbd95e8b4db4a3&v=4" width="24" alt="Avatar of ahmarov"> ahmarov
+			</a><br/>
+			Dmitri Ahmarov
+		</td>
+		<td>X </td>
+		<td>No Twitter Username</td>
+		<td>Estonia, Tallinn</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>864</td>
+		<td>
+			<a href="https://github.com/antonlitvinenko">
+				<img src="https://avatars.githubusercontent.com/u/294605?s=72&v=4" width="24" alt="Avatar of antonlitvinenko"> antonlitvinenko
+			</a><br/>
+			Anton Litvinenko
+		</td>
+		<td>Import2 </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>865</td>
+		<td>
+			<a href="https://github.com/bohdandan">
+				<img src="https://avatars.githubusercontent.com/u/779870?s=72&v=4" width="24" alt="Avatar of bohdandan"> bohdandan
+			</a><br/>
+			Bohdan Danyliuk
+		</td>
+		<td>Transferwise </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>866</td>
+		<td>
+			<a href="https://github.com/AntDev95">
+				<img src="https://avatars.githubusercontent.com/u/20905874?s=72&u=581ef0444dfa98f0bb432ee7fc3ccbfd9a62fe47&v=4" width="24" alt="Avatar of AntDev95"> AntDev95
+			</a><br/>
+			Anton Polstianka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>867</td>
+		<td>
+			<a href="https://github.com/elver">
+				<img src="https://avatars.githubusercontent.com/u/250686?s=72&v=4" width="24" alt="Avatar of elver"> elver
+			</a><br/>
+			Elver Loho
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>868</td>
+		<td>
+			<a href="https://github.com/t6nis">
+				<img src="https://avatars.githubusercontent.com/u/682532?s=72&u=76de3db815cbe962be95a4fc9cde1bac95a0899e&v=4" width="24" alt="Avatar of t6nis"> t6nis
+			</a><br/>
+			Tõnis Tartes
+		</td>
+		<td>University Of Tartu </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>869</td>
+		<td>
+			<a href="https://github.com/georgigriffiths">
+				<img src="https://avatars.githubusercontent.com/u/733254?s=72&u=07a105c2c83d4ea463f4505bdcc0568ea49d1344&v=4" width="24" alt="Avatar of georgigriffiths"> georgigriffiths
+			</a><br/>
+			Georgi Griffiths
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>870</td>
+		<td>
+			<a href="https://github.com/priitliivak">
+				<img src="https://avatars.githubusercontent.com/u/2264973?s=72&v=4" width="24" alt="Avatar of priitliivak"> priitliivak
+			</a><br/>
+			Priit Liivak
+		</td>
+		<td>Nortal </td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>871</td>
+		<td>
+			<a href="https://github.com/ehehhh">
+				<img src="https://avatars.githubusercontent.com/u/2302575?s=72&u=18ce49b4b451de1a5d7e246c20c0e44d64715cea&v=4" width="24" alt="Avatar of ehehhh"> ehehhh
+			</a><br/>
+			Rait Maltsaar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>872</td>
+		<td>
+			<a href="https://github.com/Seramis">
+				<img src="https://avatars.githubusercontent.com/u/1826966?s=72&u=064a7357f67b0f08b9649d7e09fc291dfcbdc03e&v=4" width="24" alt="Avatar of Seramis"> Seramis
+			</a><br/>
+			Joonatan Uusväli
+		</td>
+		<td>Microsoft Estonia </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>873</td>
+		<td>
+			<a href="https://github.com/lgr">
+				<img src="https://avatars.githubusercontent.com/u/1590002?s=72&u=f4abfb801b9bb814505799f8b999c04641aec801&v=4" width="24" alt="Avatar of lgr"> lgr
+			</a><br/>
+			Łukasz Grądzki
+		</td>
+		<td>@bolteu  </td>
+		<td><a href="https://twitter.com/lukasgradz">lukasgradz</a></td>
+		<td>Tallinn, EE / Warsaw, PL</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>874</td>
+		<td>
+			<a href="https://github.com/NikitaAvvakumov">
+				<img src="https://avatars.githubusercontent.com/u/5029403?s=72&v=4" width="24" alt="Avatar of NikitaAvvakumov"> NikitaAvvakumov
+			</a><br/>
+			Nikita Avvakumov
+		</td>
+		<td>Silverfin </td>
+		<td><a href="https://twitter.com/drnik">drnik</a></td>
+		<td>Tartu, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>875</td>
+		<td>
+			<a href="https://github.com/kristjankoppel">
+				<img src="https://avatars.githubusercontent.com/u/3678819?s=72&u=2117e8dab96f745b59388bd01fca298b92d5546d&v=4" width="24" alt="Avatar of kristjankoppel"> kristjankoppel
+			</a><br/>
+			Kristjan Koppel
+		</td>
+		<td>Propxls </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>876</td>
+		<td>
+			<a href="https://github.com/GrigoryShushakov">
+				<img src="https://avatars.githubusercontent.com/u/11958752?s=72&u=bac0abc0d1a09d841864fd0394c343b5c649a45c&v=4" width="24" alt="Avatar of GrigoryShushakov"> GrigoryShushakov
+			</a><br/>
+			Grigory Shushakov
+		</td>
+		<td>Admiral Markets </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>877</td>
+		<td>
+			<a href="https://github.com/entr0cks">
+				<img src="https://avatars.githubusercontent.com/u/5465193?s=72&u=503d58e069a11b44f4c06bdaf4941bb09a1fe458&v=4" width="24" alt="Avatar of entr0cks"> entr0cks
+			</a><br/>
+			Roland Kontson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>878</td>
+		<td>
+			<a href="https://github.com/kennethvaldek">
+				<img src="https://avatars.githubusercontent.com/u/191581?s=72&u=bdb58632d538a53772d258b2ed3331e10dcab1d0&v=4" width="24" alt="Avatar of kennethvaldek"> kennethvaldek
+			</a><br/>
+			Kenneth Valdek
+		</td>
+		<td>Epicolo Developers </td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>879</td>
+		<td>
+			<a href="https://github.com/kulminaator">
+				<img src="https://avatars.githubusercontent.com/u/2104346?s=72&u=f5b541fc964f3c02afd2388879d1e6a1e2623a76&v=4" width="24" alt="Avatar of kulminaator"> kulminaator
+			</a><br/>
+			martin roos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>880</td>
+		<td>
+			<a href="https://github.com/4matic">
+				<img src="https://avatars.githubusercontent.com/u/5605854?s=72&v=4" width="24" alt="Avatar of 4matic"> 4matic
+			</a><br/>
+			Maksim Maksimov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tallinn, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>881</td>
+		<td>
+			<a href="https://github.com/petrash95">
+				<img src="https://avatars.githubusercontent.com/u/28141785?s=72&u=19911f25c00a67172f1be614fb4c10911e017537&v=4" width="24" alt="Avatar of petrash95"> petrash95
+			</a><br/>
+			Illia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>882</td>
+		<td>
+			<a href="https://github.com/haavala">
+				<img src="https://avatars.githubusercontent.com/u/648785?s=72&v=4" width="24" alt="Avatar of haavala"> haavala
+			</a><br/>
+			Margus Haavala
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tartu, Estonia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>883</td>
+		<td>
+			<a href="https://github.com/LioKlio">
+				<img src="https://avatars.githubusercontent.com/u/10467625?s=72&u=99b58fbbd54c43e02545c6cc51ed1739838e6b6d&v=4" width="24" alt="Avatar of LioKlio"> LioKlio
+			</a><br/>
+			Liona
+		</td>
+		<td>Edss </td>
+		<td>No Twitter Username</td>
+		<td>Estonia</td>
+		<td>0</td>
+		<td>1</td>
 	</tr>
 </table>
 
