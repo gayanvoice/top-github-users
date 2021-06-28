@@ -1,11 +1,11 @@
-# Top GitHub Users By Followers in Mali [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
-[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+# Top GitHub Users By Followers in Mali [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/year.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
+[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg" alt="Mali">
 </a>
 
-The `number of followers` of users in Mali on `2021/6/23 6:08 AM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
+The `number of followers` of users in Mali on `2021/6/28 8:15 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
 
 There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
@@ -120,7 +120,7 @@ There are `195 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>Log@ Engineering </td>
 		<td><a href="https://twitter.com/ksidatym">ksidatym</a></td>
 		<td>Bamako, Mali</td>
-		<td>20</td>
+		<td>19</td>
 	</tr>
 	<tr>
 		<td>3</td>
