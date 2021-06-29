@@ -1,16 +1,24 @@
-# Top GitHub Users By Country [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/year.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
-[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
+# Top GitHub Users By Country [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+[![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/29 3:20 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2021/6/29 3:47 AM UTC`.
 
 This repository contains users `136 countries` and `673 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
 
 The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
+
+<table>
+	<tr>
+		<td>
+			Dont forget to star ⭐ this repository
+		</td>
+	</tr>
+</table>
 
 ### 🚀 Share on
 
