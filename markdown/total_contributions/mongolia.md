@@ -1,11 +1,11 @@
-# Top GitHub Users By Total Contributions in Mongolia [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
-[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+# Top GitHub Users By Total Contributions in Mongolia [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/year.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
+[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg" alt="Mongolia">
 </a>
 
-The `public contributions` and `private contributions` by users in Mongolia on `2021/6/23 10:24 AM UTC`. This list contains users from `Mongolia` and cities `Ulaanbaatar` `Ulaangom`.
+The `public contributions` and `private contributions` by users in Mongolia on `2021/6/29 2:35 AM UTC`. This list contains users from `Mongolia` and cities `Ulaanbaatar` `Ulaangom`.
 
 There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
