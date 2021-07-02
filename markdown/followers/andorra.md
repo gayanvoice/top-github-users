@@ -1,15 +1,23 @@
-# Top GitHub Users By Followers in Andorra [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/year.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
-[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
+# Top GitHub Users By Followers in Andorra [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+[![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2021/6/25 8:16 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2021/7/2 8:16 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `166 users`  in Andorra. You need at least `0 followers` to be on this list.
+There are `167 users`  in Andorra. You need at least `0 followers` to be on this list.
+
+<table>
+	<tr>
+		<td>
+			Don't forget to star ⭐ this repository
+		</td>
+	</tr>
+</table>
 
 <table>
 	<tr>
@@ -146,7 +154,7 @@ There are `166 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Swyg, Andorra Tech Valley,<br/>Gmzcodes<br/></td>
 		<td><a href="https://twitter.com/gmzcodes">gmzcodes</a></td>
 		<td>Andorra & Barcelona</td>
-		<td>39</td>
+		<td>40</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -159,7 +167,7 @@ There are `166 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Sierra Global Experts </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>29</td>
+		<td>30</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -541,6 +549,19 @@ There are `166 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>35</td>
 		<td>
+			<a href="https://github.com/jmlago">
+				<img src="https://avatars.githubusercontent.com/u/26024537?s=72&u=bec587b5a28b767ec30585131ed4527a553861ad&v=4" width="24" alt="Avatar of jmlago"> jmlago
+			</a><br/>
+			José María Lago
+		</td>
+		<td>@daivec-com @purple-dye </td>
+		<td><a href="https://twitter.com/josemlago">josemlago</a></td>
+		<td>Andorra</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
 			<a href="https://github.com/cmanley">
 				<img src="https://avatars.githubusercontent.com/u/591285?s=72&u=68d9437f2d8fb0ade30228144deac2d01a418179&v=4" width="24" alt="Avatar of cmanley"> cmanley
 			</a><br/>
@@ -550,19 +571,6 @@ There are `166 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>5</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
-			<a href="https://github.com/jmlago">
-				<img src="https://avatars.githubusercontent.com/u/26024537?s=72&u=bec587b5a28b767ec30585131ed4527a553861ad&v=4" width="24" alt="Avatar of jmlago"> jmlago
-			</a><br/>
-			José María Lago
-		</td>
-		<td>@daivec-com @purple-dye </td>
-		<td><a href="https://twitter.com/josemlago">josemlago</a></td>
-		<td>Andorra</td>
-		<td>4</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -593,19 +601,6 @@ There are `166 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>39</td>
 		<td>
-			<a href="https://github.com/jrlambea">
-				<img src="https://avatars.githubusercontent.com/u/6108794?s=72&u=5342feef87d3bf8e85558b0d914f3779df364db0&v=4" width="24" alt="Avatar of jrlambea"> jrlambea
-			</a><br/>
-			Newbie
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>40</td>
-		<td>
 			<a href="https://github.com/JoseManuelPerezSevilla">
 				<img src="https://avatars.githubusercontent.com/u/1801389?s=72&u=d374084ac7f07d89ec81959634321e80e2d76a93&v=4" width="24" alt="Avatar of JoseManuelPerezSevilla"> JoseManuelPerezSevilla
 			</a><br/>
@@ -617,7 +612,7 @@ There are `166 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/janniten">
 				<img src="https://avatars.githubusercontent.com/u/33020901?s=72&u=71aed1d3c856991f27f60268fd3ae8b6e6ef3db7&v=4" width="24" alt="Avatar of janniten"> janniten
@@ -625,6 +620,19 @@ There are `166 users`  in Andorra. You need at least `0 followers` to be on this
 			Anabella Cristaldi
 		</td>
 		<td>Andorra Telecom </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
+			<a href="https://github.com/jrlambea">
+				<img src="https://avatars.githubusercontent.com/u/6108794?s=72&u=5342feef87d3bf8e85558b0d914f3779df364db0&v=4" width="24" alt="Avatar of jrlambea"> jrlambea
+			</a><br/>
+			Newbie
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>3</td>
@@ -684,13 +692,13 @@ There are `166 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>46</td>
 		<td>
-			<a href="https://github.com/gimstein">
-				<img src="https://avatars.githubusercontent.com/u/2523035?s=72&u=fd260484d133f9c936cbc1d2db2ae30965081ef0&v=4" width="24" alt="Avatar of gimstein"> gimstein
+			<a href="https://github.com/heldertorres">
+				<img src="https://avatars.githubusercontent.com/u/2523035?s=72&u=fb3544f168e246fb50e1f79f595674dfb8d49877&v=4" width="24" alt="Avatar of heldertorres"> heldertorres
 			</a><br/>
 			Helder Manuel Torres Vieira
 		</td>
 		<td>@innki-tech </td>
-		<td><a href="https://twitter.com/gimstein">gimstein</a></td>
+		<td><a href="https://twitter.com/heldertorres">heldertorres</a></td>
 		<td>Andorra la Vella</td>
 		<td>2</td>
 	</tr>
@@ -1103,7 +1111,7 @@ There are `166 users`  in Andorra. You need at least `0 followers` to be on this
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
 ## 📄 License
 
-- GitHub Action - [gayanvoice/top-github-users-monitor](https://github.com/gayanvoice/top-github-users-monitor)
+- GitHub Action - [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action)
 - Repository - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
 - Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 - Code - [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
