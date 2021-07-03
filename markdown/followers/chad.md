@@ -1,15 +1,23 @@
-# Top GitHub Users By Followers in Chad [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/year.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
-[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
+# Top GitHub Users By Followers in Chad [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+[![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2021/6/26 7:11 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2021/7/3 7:11 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `56 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `58 users`  in Chad. You need at least `0 followers` to be on this list.
+
+<table>
+	<tr>
+		<td>
+			Don't forget to star ⭐ this repository
+		</td>
+	</tr>
+</table>
 
 <table>
 	<tr>
@@ -120,7 +128,7 @@ There are `56 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad, N'Djamena</td>
-		<td>10</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -138,32 +146,6 @@ There are `56 users`  in Chad. You need at least `0 followers` to be on this lis
 	<tr>
 		<td>4</td>
 		<td>
-			<a href="https://github.com/boorzz">
-				<img src="https://avatars.githubusercontent.com/u/74167411?s=72&u=c4bee4b925a2fcbbbd74540dc70168b0336f5e39&v=4" width="24" alt="Avatar of boorzz"> boorzz
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad, N'Djamena</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>
-			<a href="https://github.com/leScythekill">
-				<img src="https://avatars.githubusercontent.com/u/72173884?s=72&u=0c0b3fde534a23873f557044057c33908c6bb8ba&v=4" width="24" alt="Avatar of leScythekill"> leScythekill
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad, N'Djamena</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>
 			<a href="https://github.com/eissaweb">
 				<img src="https://avatars.githubusercontent.com/u/50566718?s=72&u=90c3f4c17c3c1374041c10e4259999f64d5cb4ff&v=4" width="24" alt="Avatar of eissaweb"> eissaweb
 			</a><br/>
@@ -175,7 +157,7 @@ There are `56 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>7</td>
+		<td>5</td>
 		<td>
 			<a href="https://github.com/Jens7388">
 				<img src="https://avatars.githubusercontent.com/u/59821392?s=72&u=60fd3a9b911674b23dc925fd44711549acbc9451&v=4" width="24" alt="Avatar of Jens7388"> Jens7388
@@ -188,7 +170,7 @@ There are `56 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>8</td>
+		<td>6</td>
 		<td>
 			<a href="https://github.com/math323n">
 				<img src="https://avatars.githubusercontent.com/u/59821311?s=72&u=a096d5a938a6ce9645680dde425060b164de90d0&v=4" width="24" alt="Avatar of math323n"> math323n
@@ -201,7 +183,20 @@ There are `56 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>9</td>
+		<td>7</td>
+		<td>
+			<a href="https://github.com/leScythekill">
+				<img src="https://avatars.githubusercontent.com/u/72173884?s=72&u=0c0b3fde534a23873f557044057c33908c6bb8ba&v=4" width="24" alt="Avatar of leScythekill"> leScythekill
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad, N'Djamena</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>8</td>
 		<td>
 			<a href="https://github.com/Sigha0160">
 				<img src="https://avatars.githubusercontent.com/u/58636004?s=72&u=2e8091b5688dfb47895d227f37ee776d0ca2ae3a&v=4" width="24" alt="Avatar of Sigha0160"> Sigha0160
@@ -214,7 +209,7 @@ There are `56 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>10</td>
+		<td>9</td>
 		<td>
 			<a href="https://github.com/CanadianJesus1">
 				<img src="https://avatars.githubusercontent.com/u/77854094?s=72&v=4" width="24" alt="Avatar of CanadianJesus1"> CanadianJesus1
@@ -227,7 +222,7 @@ There are `56 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>11</td>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/yusufijalal">
 				<img src="https://avatars.githubusercontent.com/u/73250960?s=72&v=4" width="24" alt="Avatar of yusufijalal"> yusufijalal
@@ -240,7 +235,7 @@ There are `56 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>11</td>
 		<td>
 			<a href="https://github.com/RigbotUnderscore">
 				<img src="https://avatars.githubusercontent.com/u/77864116?s=72&u=8a0c099e5692a56992dee0d73363d4bf1f1a7718&v=4" width="24" alt="Avatar of RigbotUnderscore"> RigbotUnderscore
@@ -253,7 +248,7 @@ There are `56 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/youssoufgao">
 				<img src="https://avatars.githubusercontent.com/u/37306924?s=72&u=b6291d96f96e30104de67d54be2baf185845213e&v=4" width="24" alt="Avatar of youssoufgao"> youssoufgao
@@ -266,7 +261,7 @@ There are `56 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>13</td>
 		<td>
 			<a href="https://github.com/XxEricgamerZxX">
 				<img src="https://avatars.githubusercontent.com/u/65401296?s=72&u=399ce05707c807320f550fe72db9d57bb9f6cb52&v=4" width="24" alt="Avatar of XxEricgamerZxX"> XxEricgamerZxX
@@ -349,7 +344,7 @@ There are `56 users`  in Chad. You need at least `0 followers` to be on this lis
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
 ## 📄 License
 
-- GitHub Action - [gayanvoice/top-github-users-monitor](https://github.com/gayanvoice/top-github-users-monitor)
+- GitHub Action - [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action)
 - Repository - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
 - Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 - Code - [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
