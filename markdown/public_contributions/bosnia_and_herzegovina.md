@@ -1,15 +1,23 @@
-# Top GitHub Users By Public Contributions in Bosnia And Herzegovina [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/year.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
-[![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/year.md)
+# Top GitHub Users By Public Contributions in Bosnia And Herzegovina [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+[![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` by users in Bosnia And Herzegovina on `2021/6/26 10:15 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` by users in Bosnia And Herzegovina on `2021/7/3 10:15 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `27 users`  in Bosnia And Herzegovina. You need at least `0 followers` to be on this list.
+
+<table>
+	<tr>
+		<td>
+			Don't forget to star ⭐ this repository
+		</td>
+	</tr>
+</table>
 
 <table>
 	<tr>
@@ -99,19 +107,6 @@ There are `27 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>1</td>
 		<td>
-			<a href="https://github.com/KerimMbegovic">
-				<img src="https://avatars.githubusercontent.com/u/57753259?s=72&u=9e7789892e89a143e03065a9b1941d412ae53cb2&v=4" width="24" alt="Avatar of KerimMbegovic"> KerimMbegovic
-			</a><br/>
-			Kerim Muharembegović
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zenica, Bosna i Hercegovina</td>
-		<td>58</td>
-	</tr>
-	<tr>
-		<td>2</td>
-		<td>
 			<a href="https://github.com/Isutary">
 				<img src="https://avatars.githubusercontent.com/u/46055196?s=72&u=fa45ab6fb1fd4db0cb4ccb36a24043c33df82784&v=4" width="24" alt="Avatar of Isutary"> Isutary
 			</a><br/>
@@ -121,6 +116,19 @@ There are `27 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia and Herzegovina</td>
 		<td>47</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>
+			<a href="https://github.com/KerimMbegovic">
+				<img src="https://avatars.githubusercontent.com/u/57753259?s=72&u=9e7789892e89a143e03065a9b1941d412ae53cb2&v=4" width="24" alt="Avatar of KerimMbegovic"> KerimMbegovic
+			</a><br/>
+			Kerim Muharembegović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zenica, Bosna i Hercegovina</td>
+		<td>45</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -211,7 +219,7 @@ There are `27 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>@digime </td>
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia and Herzegovina</td>
-		<td>8</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -268,6 +276,19 @@ There are `27 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>14</td>
 		<td>
+			<a href="https://github.com/31d4r">
+				<img src="https://avatars.githubusercontent.com/u/30953857?s=72&u=b3b8715151d291e4e2e161aa0f7fa4a0de14ab80&v=4" width="24" alt="Avatar of 31d4r"> 31d4r
+			</a><br/>
+			Eldar Tutnjić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zenica</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
 			<a href="https://github.com/SenadAlagic">
 				<img src="https://avatars.githubusercontent.com/u/72402224?s=72&u=88b99bfecf89ec089e10a776eca4bce9064c6f06&v=4" width="24" alt="Avatar of SenadAlagic"> SenadAlagic
 			</a><br/>
@@ -277,19 +298,6 @@ There are `27 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Bihac / Mostar</td>
 		<td>3</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/31d4r">
-				<img src="https://avatars.githubusercontent.com/u/30953857?s=72&u=b3b8715151d291e4e2e161aa0f7fa4a0de14ab80&v=4" width="24" alt="Avatar of 31d4r"> 31d4r
-			</a><br/>
-			Eldar Tutnjić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zenica</td>
-		<td>2</td>
 	</tr>
 </table>
 
@@ -362,7 +370,7 @@ There are `27 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
 ## 📄 License
 
-- GitHub Action - [gayanvoice/top-github-users-monitor](https://github.com/gayanvoice/top-github-users-monitor)
+- GitHub Action - [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action)
 - Repository - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
 - Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 - Code - [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
