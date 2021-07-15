@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg" alt="Cameroon">
 </a>
 
-The `number of followers` of users in Cameroon on `2021/7/9 9:27 AM UTC`. This list contains users from `Cameroon` and cities `Yaoundé` `Douala` `Kumba` `Bamenda` `Garoua` `Ngaoundere`.
+The `number of followers` of users in Cameroon on `2021/7/15 2:38 AM UTC`. This list contains users from `Cameroon` and cities `Yaoundé` `Douala` `Kumba` `Bamenda` `Garoua` `Ngaoundere`.
 
 There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
