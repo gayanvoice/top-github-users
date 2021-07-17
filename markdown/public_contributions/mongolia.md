@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg" alt="Mongolia">
 </a>
 
-The `public contributions` by users in Mongolia on `2021/7/11 6:23 PM UTC`. This list contains users from `Mongolia` and cities `Ulaanbaatar` `Ulaangom`.
+The `public contributions` by users in Mongolia on `2021/7/17 10:21 AM UTC`. This list contains users from `Mongolia` and cities `Ulaanbaatar` `Ulaangom`.
 
 There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
