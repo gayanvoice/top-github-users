@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg" alt="Namibia">
 </a>
 
-The `public contributions` and `private contributions` by users in Namibia on `2021/7/17 3:19 PM UTC`. This list contains users from `Namibia` and cities `Windhoek` `Swakopmund` `Walvis-bay` `Otjiwarongo`.
+The `public contributions` and `private contributions` by users in Namibia on `2021/7/23 11:15 AM UTC`. This list contains users from `Namibia` and cities `Windhoek` `Swakopmund` `Walvis-bay` `Otjiwarongo`.
 
 There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `443 users`  in Namibia. You need at least `0 followers` to be on this list.
+There are `447 users`  in Namibia. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -117,7 +117,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Windhoek, Namiabia</td>
 		<td>24</td>
-		<td>995</td>
+		<td>1014</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -131,7 +131,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/muheuenga">muheuenga</a></td>
 		<td>Namibia</td>
 		<td>57</td>
-		<td>857</td>
+		<td>853</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,11 +144,25 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>@ssc-na  </td>
 		<td>No Twitter Username</td>
 		<td>Windhoek, Namibia</td>
-		<td>148</td>
-		<td>783</td>
+		<td>147</td>
+		<td>772</td>
 	</tr>
 	<tr>
 		<td>4</td>
+		<td>
+			<a href="https://github.com/codezilla91">
+				<img src="https://avatars.githubusercontent.com/u/24933042?s=72&v=4" width="24" alt="Avatar of codezilla91"> codezilla91
+			</a><br/>
+			Leon CodeZilla Matota
+		</td>
+		<td>Leodynamics Group (pty) Ltd<br/></td>
+		<td>No Twitter Username</td>
+		<td>Namibia, Windhoek</td>
+		<td>0</td>
+		<td>756</td>
+	</tr>
+	<tr>
+		<td>5</td>
 		<td>
 			<a href="https://github.com/Fox520">
 				<img src="https://avatars.githubusercontent.com/u/36572168?s=72&u=2754899a2f3f369cfe226bc4df29964af45b4901&v=4" width="24" alt="Avatar of Fox520"> Fox520
@@ -162,20 +176,6 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>733</td>
 	</tr>
 	<tr>
-		<td>5</td>
-		<td>
-			<a href="https://github.com/codezilla91">
-				<img src="https://avatars.githubusercontent.com/u/24933042?s=72&v=4" width="24" alt="Avatar of codezilla91"> codezilla91
-			</a><br/>
-			Leon CodeZilla Matota
-		</td>
-		<td>Leodynamics Group (pty) Ltd<br/></td>
-		<td>No Twitter Username</td>
-		<td>Namibia, Windhoek</td>
-		<td>0</td>
-		<td>731</td>
-	</tr>
-	<tr>
 		<td>6</td>
 		<td>
 			<a href="https://github.com/Eckhardt-D">
@@ -186,8 +186,8 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Namibia</td>
-		<td>18</td>
-		<td>602</td>
+		<td>35</td>
+		<td>617</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -228,8 +228,8 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>Vast Development Method @vdm-io<br/><br/></td>
 		<td><a href="https://twitter.com/llewellynvdm">llewellynvdm</a></td>
 		<td>Namibia</td>
-		<td>450</td>
-		<td>450</td>
+		<td>448</td>
+		<td>448</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -242,8 +242,8 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/axelmukwena">axelmukwena</a></td>
 		<td>Macau | Windhoek</td>
-		<td>290</td>
-		<td>372</td>
+		<td>294</td>
+		<td>375</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -256,8 +256,8 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>University Of Cape Town<br/></td>
 		<td><a href="https://twitter.com/JVamcas">JVamcas</a></td>
 		<td>Windhoek, Namibia</td>
-		<td>340</td>
-		<td>340</td>
+		<td>333</td>
+		<td>333</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -271,24 +271,10 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/ohrionmartin">ohrionmartin</a></td>
 		<td>Namibia</td>
 		<td>166</td>
-		<td>248</td>
+		<td>277</td>
 	</tr>
 	<tr>
 		<td>13</td>
-		<td>
-			<a href="https://github.com/Sergio-Jim">
-				<img src="https://avatars.githubusercontent.com/u/56093574?s=72&u=7661f488731941394011d63b8feae8ef6701aa2e&v=4" width="24" alt="Avatar of Sergio-Jim"> Sergio-Jim
-			</a><br/>
-			Not_Jimmy_Neutron
-		</td>
-		<td>Clearcut Communications </td>
-		<td>No Twitter Username</td>
-		<td>Windhoek, Namibia</td>
-		<td>62</td>
-		<td>244</td>
-	</tr>
-	<tr>
-		<td>14</td>
 		<td>
 			<a href="https://github.com/Ashivudhi">
 				<img src="https://avatars.githubusercontent.com/u/35877509?s=72&u=0ee038ae95bdc0a77d707158979bdc68b7d69b4b&v=4" width="24" alt="Avatar of Ashivudhi"> Ashivudhi
@@ -299,24 +285,24 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Windhoek, Namibia</td>
 		<td>81</td>
-		<td>243</td>
+		<td>249</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
+			<a href="https://github.com/Sergio-Jim">
+				<img src="https://avatars.githubusercontent.com/u/56093574?s=72&u=7661f488731941394011d63b8feae8ef6701aa2e&v=4" width="24" alt="Avatar of Sergio-Jim"> Sergio-Jim
+			</a><br/>
+			Not_Jimmy_Neutron
+		</td>
+		<td>Clearcut Communications </td>
+		<td>No Twitter Username</td>
+		<td>Windhoek, Namibia</td>
+		<td>63</td>
+		<td>246</td>
 	</tr>
 	<tr>
 		<td>15</td>
-		<td>
-			<a href="https://github.com/evertvorster">
-				<img src="https://avatars.githubusercontent.com/u/12045269?s=72&u=6cd6ac05585d514f75f92751caf4a0cb79eb6b04&v=4" width="24" alt="Avatar of evertvorster"> evertvorster
-			</a><br/>
-			Evert Vorster
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Walvis Bay, Namibia</td>
-		<td>217</td>
-		<td>217</td>
-	</tr>
-	<tr>
-		<td>16</td>
 		<td>
 			<a href="https://github.com/Lakendary">
 				<img src="https://avatars.githubusercontent.com/u/13055387?s=72&u=e3b1d275431b54f2eb95afa7b91807f42643dede&v=4" width="24" alt="Avatar of Lakendary"> Lakendary
@@ -327,10 +313,10 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Windhoek, Namibia</td>
 		<td>60</td>
-		<td>211</td>
+		<td>228</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/marcocadete">
 				<img src="https://avatars.githubusercontent.com/u/28997066?s=72&u=04d42ba2e73d8b6ccf8f067c0541b1f73cdaeeb1&v=4" width="24" alt="Avatar of marcocadete"> marcocadete
@@ -340,11 +326,11 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Namibia</td>
-		<td>198</td>
-		<td>198</td>
+		<td>197</td>
+		<td>197</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/otherdcn">
 				<img src="https://avatars.githubusercontent.com/u/22565846?s=72&u=7a2493e1f6a45cc20bef50e1dfad4b2e09eaa547&v=4" width="24" alt="Avatar of otherdcn"> otherdcn
@@ -354,25 +340,25 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Windhoek, Namibia</td>
-		<td>191</td>
-		<td>191</td>
+		<td>196</td>
+		<td>196</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>18</td>
 		<td>
-			<a href="https://github.com/Bruck1701">
-				<img src="https://avatars.githubusercontent.com/u/17711277?s=72&u=256e00e73d26fdd0c28778ce1c454badc9d492db&v=4" width="24" alt="Avatar of Bruck1701"> Bruck1701
+			<a href="https://github.com/evertvorster">
+				<img src="https://avatars.githubusercontent.com/u/12045269?s=72&u=6cd6ac05585d514f75f92751caf4a0cb79eb6b04&v=4" width="24" alt="Avatar of evertvorster"> evertvorster
 			</a><br/>
-			Bruno Kümmel
+			Evert Vorster
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Digital Nomad currently in Namibia</td>
-		<td>171</td>
-		<td>171</td>
+		<td>Walvis Bay, Namibia</td>
+		<td>177</td>
+		<td>177</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/John-Ad">
 				<img src="https://avatars.githubusercontent.com/u/65228722?s=72&v=4" width="24" alt="Avatar of John-Ad"> John-Ad
@@ -382,8 +368,22 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Windhoek, Namibia</td>
-		<td>159</td>
-		<td>159</td>
+		<td>176</td>
+		<td>176</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/Bruck1701">
+				<img src="https://avatars.githubusercontent.com/u/17711277?s=72&u=256e00e73d26fdd0c28778ce1c454badc9d492db&v=4" width="24" alt="Avatar of Bruck1701"> Bruck1701
+			</a><br/>
+			Bruno Kümmel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Digital Nomad currently in Namibia</td>
+		<td>167</td>
+		<td>167</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -396,8 +396,8 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Windhoek</td>
-		<td>156</td>
-		<td>156</td>
+		<td>162</td>
+		<td>162</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -424,25 +424,11 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Outapi, Namibia</td>
-		<td>135</td>
-		<td>135</td>
+		<td>139</td>
+		<td>139</td>
 	</tr>
 	<tr>
 		<td>24</td>
-		<td>
-			<a href="https://github.com/michaelchamu">
-				<img src="https://avatars.githubusercontent.com/u/13484588?s=72&u=1f93f3aa7c2f8f4aeba9541595c2c075eeab0d43&v=4" width="24" alt="Avatar of michaelchamu"> michaelchamu
-			</a><br/>
-			Michael Bosomefi Chamunorwa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Namibia</td>
-		<td>3</td>
-		<td>132</td>
-	</tr>
-	<tr>
-		<td>25</td>
 		<td>
 			<a href="https://github.com/CaloloCosta">
 				<img src="https://avatars.githubusercontent.com/u/22982481?s=72&u=f9b6f0b6d4d758866a2f1cb7a50f5744d918abac&v=4" width="24" alt="Avatar of CaloloCosta"> CaloloCosta
@@ -456,7 +442,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>25</td>
 		<td>
 			<a href="https://github.com/Sylver11">
 				<img src="https://avatars.githubusercontent.com/u/47780005?s=72&u=1686758fe7cb48485e6ce25781021f34e3403523&v=4" width="24" alt="Avatar of Sylver11"> Sylver11
@@ -466,8 +452,22 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>Binary City </td>
 		<td><a href="https://twitter.com/JustusVoigt">JustusVoigt</a></td>
 		<td>Windhoek, Namibia</td>
-		<td>119</td>
-		<td>119</td>
+		<td>117</td>
+		<td>117</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
+			<a href="https://github.com/hpmouton">
+				<img src="https://avatars.githubusercontent.com/u/61012928?s=72&u=4a30ed3dd41d5964de05eedf23bf584ad5cfa052&v=4" width="24" alt="Avatar of hpmouton"> hpmouton
+			</a><br/>
+			HP Mouton
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Windhoek, Namibia</td>
+		<td>112</td>
+		<td>112</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -486,33 +486,19 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>28</td>
 		<td>
-			<a href="https://github.com/hpmouton">
-				<img src="https://avatars.githubusercontent.com/u/61012928?s=72&u=4a30ed3dd41d5964de05eedf23bf584ad5cfa052&v=4" width="24" alt="Avatar of hpmouton"> hpmouton
+			<a href="https://github.com/muna-kaurimuje">
+				<img src="https://avatars.githubusercontent.com/u/55699339?s=72&u=fd4efc661fce4aea5e704329ac346f4e33686078&v=4" width="24" alt="Avatar of muna-kaurimuje"> muna-kaurimuje
 			</a><br/>
-			HP Mouton
+			Vemuna Kaurimuje
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Windhoek, Namibia</td>
-		<td>110</td>
-		<td>110</td>
+		<td>40</td>
+		<td>94</td>
 	</tr>
 	<tr>
 		<td>29</td>
-		<td>
-			<a href="https://github.com/kondjaMikaelson">
-				<img src="https://avatars.githubusercontent.com/u/44747399?s=72&u=c89955990c800426aef4fe4221559b5fc2da859e&v=4" width="24" alt="Avatar of kondjaMikaelson"> kondjaMikaelson
-			</a><br/>
-			Kondja Mikaelson
-		</td>
-		<td>Kondja Tech Genies </td>
-		<td>No Twitter Username</td>
-		<td>Namibia </td>
-		<td>2</td>
-		<td>101</td>
-	</tr>
-	<tr>
-		<td>30</td>
 		<td>
 			<a href="https://github.com/chubozeko">
 				<img src="https://avatars.githubusercontent.com/u/26878073?s=72&u=50bee81de675c37a2ad07821b98d5068b5b66793&v=4" width="24" alt="Avatar of chubozeko"> chubozeko
@@ -526,7 +512,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>30</td>
 		<td>
 			<a href="https://github.com/kunwijik">
 				<img src="https://avatars.githubusercontent.com/u/8808472?s=72&v=4" width="24" alt="Avatar of kunwijik"> kunwijik
@@ -540,21 +526,21 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>31</td>
 		<td>
-			<a href="https://github.com/muna-kaurimuje">
-				<img src="https://avatars.githubusercontent.com/u/55699339?s=72&u=fd4efc661fce4aea5e704329ac346f4e33686078&v=4" width="24" alt="Avatar of muna-kaurimuje"> muna-kaurimuje
+			<a href="https://github.com/kondjaMikaelson">
+				<img src="https://avatars.githubusercontent.com/u/44747399?s=72&u=c89955990c800426aef4fe4221559b5fc2da859e&v=4" width="24" alt="Avatar of kondjaMikaelson"> kondjaMikaelson
 			</a><br/>
-			Vemuna Kaurimuje
+			Kondja Mikaelson
 		</td>
-		<td>No Company</td>
+		<td>Kondja Tech Genies </td>
 		<td>No Twitter Username</td>
-		<td>Windhoek, Namibia</td>
-		<td>37</td>
-		<td>91</td>
+		<td>Namibia </td>
+		<td>2</td>
+		<td>89</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/amoloi">
 				<img src="https://avatars.githubusercontent.com/u/3223679?s=72&u=12e8246f92f27c7b780298d9f9284430ec263f75&v=4" width="24" alt="Avatar of amoloi"> amoloi
@@ -564,8 +550,22 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>Mobile Telecommunications Company (mtc)<br/></td>
 		<td>No Twitter Username</td>
 		<td>Windhoek - Namibia</td>
-		<td>80</td>
-		<td>80</td>
+		<td>82</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>33</td>
+		<td>
+			<a href="https://github.com/Matiastomas">
+				<img src="https://avatars.githubusercontent.com/u/16385746?s=72&v=4" width="24" alt="Avatar of Matiastomas"> Matiastomas
+			</a><br/>
+			Matias Tomás
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Windhoek, Namibia</td>
+		<td>68</td>
+		<td>68</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -626,6 +626,20 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>38</td>
 		<td>
+			<a href="https://github.com/michaelchamu">
+				<img src="https://avatars.githubusercontent.com/u/13484588?s=72&u=1f93f3aa7c2f8f4aeba9541595c2c075eeab0d43&v=4" width="24" alt="Avatar of michaelchamu"> michaelchamu
+			</a><br/>
+			Michael Bosomefi Chamunorwa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Namibia</td>
+		<td>3</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
 			<a href="https://github.com/skoppensboer">
 				<img src="https://avatars.githubusercontent.com/u/160304?s=72&v=4" width="24" alt="Avatar of skoppensboer"> skoppensboer
 			</a><br/>
@@ -638,20 +652,6 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>39</td>
-		<td>
-			<a href="https://github.com/cy6erlion">
-				<img src="https://avatars.githubusercontent.com/u/50733658?s=72&u=9746dc51c64143a8612d0386f8ea66bed44eb258&v=4" width="24" alt="Avatar of cy6erlion"> cy6erlion
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Namibia</td>
-		<td>50</td>
-		<td>50</td>
-	</tr>
-	<tr>
 		<td>40</td>
 		<td>
 			<a href="https://github.com/mulatiwa">
@@ -662,8 +662,8 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>Kuyakuyile Technology </td>
 		<td><a href="https://twitter.com/mulatiwa">mulatiwa</a></td>
 		<td>Africa/Namibia</td>
-		<td>50</td>
-		<td>50</td>
+		<td>51</td>
+		<td>51</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -738,20 +738,6 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>46</td>
 		<td>
-			<a href="https://github.com/melkisedek">
-				<img src="https://avatars.githubusercontent.com/u/3831918?s=72&u=5b7eac98c07ff1ff0c104ab7545fa923d7397f6d&v=4" width="24" alt="Avatar of melkisedek"> melkisedek
-			</a><br/>
-			Melkisedek Hamakali
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Namibia</td>
-		<td>6</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>47</td>
-		<td>
 			<a href="https://github.com/m-spangenberg">
 				<img src="https://avatars.githubusercontent.com/u/20540855?s=72&u=cfeb802ec8579de2b1b527679108b08af02b9dbb&v=4" width="24" alt="Avatar of m-spangenberg"> m-spangenberg
 			</a><br/>
@@ -764,7 +750,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>48</td>
+		<td>47</td>
 		<td>
 			<a href="https://github.com/YakubuShehu">
 				<img src="https://avatars.githubusercontent.com/u/14369484?s=72&u=1b8cd9042305cdd29703820ee82d9cf1fa1a6a9e&v=4" width="24" alt="Avatar of YakubuShehu"> YakubuShehu
@@ -778,35 +764,21 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
+		<td>48</td>
+		<td>
+			<a href="https://github.com/melkisedek">
+				<img src="https://avatars.githubusercontent.com/u/3831918?s=72&u=5b7eac98c07ff1ff0c104ab7545fa923d7397f6d&v=4" width="24" alt="Avatar of melkisedek"> melkisedek
+			</a><br/>
+			Melkisedek Hamakali
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Namibia</td>
+		<td>6</td>
+		<td>38</td>
+	</tr>
+	<tr>
 		<td>49</td>
-		<td>
-			<a href="https://github.com/Matiastomas">
-				<img src="https://avatars.githubusercontent.com/u/16385746?s=72&v=4" width="24" alt="Avatar of Matiastomas"> Matiastomas
-			</a><br/>
-			Matias Tomás
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Windhoek, Namibia</td>
-		<td>38</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>50</td>
-		<td>
-			<a href="https://github.com/rigred">
-				<img src="https://avatars.githubusercontent.com/u/5716332?s=72&u=bfecc0c8dac5055c810a7aea8c4edf3cc56ac9cc&v=4" width="24" alt="Avatar of rigred"> rigred
-			</a><br/>
-			Rigo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cyber Space - Namibia</td>
-		<td>27</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>51</td>
 		<td>
 			<a href="https://github.com/franskafula">
 				<img src="https://avatars.githubusercontent.com/u/11898221?s=72&u=f0d583a4ba3e5736564684ce052283313f26b7c0&v=4" width="24" alt="Avatar of franskafula"> franskafula
@@ -820,7 +792,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>50</td>
 		<td>
 			<a href="https://github.com/apg2001">
 				<img src="https://avatars.githubusercontent.com/u/82605266?s=72&v=4" width="24" alt="Avatar of apg2001"> apg2001
@@ -834,18 +806,46 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>35</td>
 	</tr>
 	<tr>
+		<td>51</td>
+		<td>
+			<a href="https://github.com/mikemost">
+				<img src="https://avatars.githubusercontent.com/u/5286151?s=72&v=4" width="24" alt="Avatar of mikemost"> mikemost
+			</a><br/>
+			Michael Mutale
+		</td>
+		<td>Mkm Thunderbird Trading Cc<br/></td>
+		<td><a href="https://twitter.com/mkmutale">mkmutale</a></td>
+		<td>Windhoek, Namibia</td>
+		<td>34</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
+			<a href="https://github.com/KuberKode">
+				<img src="https://avatars.githubusercontent.com/u/1797936?s=72&u=a744ddf5373f273a8044dd1606af2240d1da9488&v=4" width="24" alt="Avatar of KuberKode"> KuberKode
+			</a><br/>
+			Johan Strydom
+		</td>
+		<td>Kuberkode.com </td>
+		<td>No Twitter Username</td>
+		<td>Windhoek, Namibia</td>
+		<td>32</td>
+		<td>32</td>
+	</tr>
+	<tr>
 		<td>53</td>
 		<td>
-			<a href="https://github.com/JoshWallaceDesign">
-				<img src="https://avatars.githubusercontent.com/u/9466090?s=72&u=edad6080730ba44d610ce2ceaa209ee355676d0c&v=4" width="24" alt="Avatar of JoshWallaceDesign"> JoshWallaceDesign
+			<a href="https://github.com/rigred">
+				<img src="https://avatars.githubusercontent.com/u/5716332?s=72&u=bfecc0c8dac5055c810a7aea8c4edf3cc56ac9cc&v=4" width="24" alt="Avatar of rigred"> rigred
 			</a><br/>
-			Josh
+			Rigo
 		</td>
-		<td>Josh Wallace Design </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Namibia</td>
-		<td>33</td>
-		<td>33</td>
+		<td>Cyber Space - Namibia</td>
+		<td>21</td>
+		<td>31</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -864,16 +864,16 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>55</td>
 		<td>
-			<a href="https://github.com/KuberKode">
-				<img src="https://avatars.githubusercontent.com/u/1797936?s=72&u=a744ddf5373f273a8044dd1606af2240d1da9488&v=4" width="24" alt="Avatar of KuberKode"> KuberKode
+			<a href="https://github.com/JoshWallaceDesign">
+				<img src="https://avatars.githubusercontent.com/u/9466090?s=72&u=edad6080730ba44d610ce2ceaa209ee355676d0c&v=4" width="24" alt="Avatar of JoshWallaceDesign"> JoshWallaceDesign
 			</a><br/>
-			Johan Strydom
+			Josh
 		</td>
-		<td>Kuberkode.com </td>
+		<td>Josh Wallace Design </td>
 		<td>No Twitter Username</td>
-		<td>Windhoek, Namibia</td>
-		<td>30</td>
-		<td>30</td>
+		<td>Namibia</td>
+		<td>29</td>
+		<td>29</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -906,6 +906,20 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>58</td>
 		<td>
+			<a href="https://github.com/Samshingenge">
+				<img src="https://avatars.githubusercontent.com/u/47580169?s=72&u=13c710aeac50f6ed6b5bd4ac3dd99b2215c9d8c4&v=4" width="24" alt="Avatar of Samshingenge"> Samshingenge
+			</a><br/>
+			Samshingenge
+		</td>
+		<td>Ho Trading </td>
+		<td>No Twitter Username</td>
+		<td>Windhoek , Namibia</td>
+		<td>28</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>59</td>
+		<td>
 			<a href="https://github.com/hafeni212">
 				<img src="https://avatars.githubusercontent.com/u/26458836?s=72&u=4163e28d979aee23018885875a10ce0118686052&v=4" width="24" alt="Avatar of hafeni212"> hafeni212
 			</a><br/>
@@ -916,20 +930,6 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>Namibia</td>
 		<td>25</td>
 		<td>26</td>
-	</tr>
-	<tr>
-		<td>59</td>
-		<td>
-			<a href="https://github.com/Samshingenge">
-				<img src="https://avatars.githubusercontent.com/u/47580169?s=72&u=13c710aeac50f6ed6b5bd4ac3dd99b2215c9d8c4&v=4" width="24" alt="Avatar of Samshingenge"> Samshingenge
-			</a><br/>
-			Samshingenge
-		</td>
-		<td>Ho Trading </td>
-		<td>No Twitter Username</td>
-		<td>Windhoek , Namibia</td>
-		<td>25</td>
-		<td>25</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -948,20 +948,6 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>61</td>
 		<td>
-			<a href="https://github.com/Qronus">
-				<img src="https://avatars.githubusercontent.com/u/56175454?s=72&u=8b0fc18dfb3f9f2849d911fcc511ea851409e5ca&v=4" width="24" alt="Avatar of Qronus"> Qronus
-			</a><br/>
-			Qronus
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Namibia</td>
-		<td>21</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>62</td>
-		<td>
 			<a href="https://github.com/AmonPeter">
 				<img src="https://avatars.githubusercontent.com/u/12225161?s=72&u=0d0d1aa4ca9371897c4e1075a2be13ad6b651b86&v=4" width="24" alt="Avatar of AmonPeter"> AmonPeter
 			</a><br/>
@@ -971,7 +957,21 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Namibia</td>
 		<td>8</td>
-		<td>23</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>62</td>
+		<td>
+			<a href="https://github.com/Qronus">
+				<img src="https://avatars.githubusercontent.com/u/56175454?s=72&u=8b0fc18dfb3f9f2849d911fcc511ea851409e5ca&v=4" width="24" alt="Avatar of Qronus"> Qronus
+			</a><br/>
+			Qronus
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Namibia</td>
+		<td>21</td>
+		<td>21</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -1046,20 +1046,6 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>68</td>
 		<td>
-			<a href="https://github.com/lamekh">
-				<img src="https://avatars.githubusercontent.com/u/68276439?s=72&u=1e6e7b4e6888d2b8f9a90d1c88057e0811844596&v=4" width="24" alt="Avatar of lamekh"> lamekh
-			</a><br/>
-			LamekH Vlogs
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>WINDHOEK</td>
-		<td>17</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>69</td>
-		<td>
 			<a href="https://github.com/WesleyUezuri">
 				<img src="https://avatars.githubusercontent.com/u/83217085?s=72&u=eeb675de405f3cb0553b66084d4bae0d79e57a09&v=4" width="24" alt="Avatar of WesleyUezuri"> WesleyUezuri
 			</a><br/>
@@ -1072,7 +1058,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>69</td>
 		<td>
 			<a href="https://github.com/mtjikuzu">
 				<img src="https://avatars.githubusercontent.com/u/1013140?s=72&u=3c841c8f21efe849fe3e983354f2910325210097&v=4" width="24" alt="Avatar of mtjikuzu"> mtjikuzu
@@ -1086,7 +1072,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/iampeterndumba">
 				<img src="https://avatars.githubusercontent.com/u/85815665?s=72&v=4" width="24" alt="Avatar of iampeterndumba"> iampeterndumba
@@ -1100,7 +1086,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/Stefanieg84">
 				<img src="https://avatars.githubusercontent.com/u/27819215?s=72&u=909747c2888f500212ba21bbcf5eba5eab240dc6&v=4" width="24" alt="Avatar of Stefanieg84"> Stefanieg84
@@ -1114,7 +1100,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/201086263">
 				<img src="https://avatars.githubusercontent.com/u/74316852?s=72&u=a8e51887756705967068cf38c729e7909c2287ae&v=4" width="24" alt="Avatar of 201086263"> 201086263
@@ -1128,21 +1114,21 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>73</td>
 		<td>
-			<a href="https://github.com/mikemost">
-				<img src="https://avatars.githubusercontent.com/u/5286151?s=72&v=4" width="24" alt="Avatar of mikemost"> mikemost
+			<a href="https://github.com/marthinkondjeni">
+				<img src="https://avatars.githubusercontent.com/u/40251832?s=72&u=307ca5d3d90a4aab0844ceb322b45ee3550d2c0e&v=4" width="24" alt="Avatar of marthinkondjeni"> marthinkondjeni
 			</a><br/>
-			Michael Mutale
+			Marthin Thomas
 		</td>
-		<td>Mkm Thunderbird Trading Cc<br/></td>
-		<td><a href="https://twitter.com/mkmutale">mkmutale</a></td>
-		<td>Windhoek, Namibia</td>
-		<td>14</td>
-		<td>14</td>
+		<td>Alpha Events And Marketing<br/></td>
+		<td><a href="https://twitter.com/Kondjenim_">Kondjenim_</a></td>
+		<td>Namibia, Windhoek</td>
+		<td>13</td>
+		<td>13</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/TylerByte666">
 				<img src="https://avatars.githubusercontent.com/u/36434823?s=72&u=ac53397963ae4cd8e412bacc8ceeca629a8e6e4a&v=4" width="24" alt="Avatar of TylerByte666"> TylerByte666
@@ -1156,7 +1142,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/stalinkay">
 				<img src="https://avatars.githubusercontent.com/u/198020?s=72&u=3c24791f34cbb3bc44fbf76981f4a10f37b23a92&v=4" width="24" alt="Avatar of stalinkay"> stalinkay
@@ -1170,7 +1156,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/Onyothi">
 				<img src="https://avatars.githubusercontent.com/u/13785268?s=72&u=5188eecd74ead18c71f3e773a01fa4e7c6fc4d43&v=4" width="24" alt="Avatar of Onyothi"> Onyothi
@@ -1184,7 +1170,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/SupraVVT">
 				<img src="https://avatars.githubusercontent.com/u/9713742?s=72&v=4" width="24" alt="Avatar of SupraVVT"> SupraVVT
@@ -1198,21 +1184,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>79</td>
-		<td>
-			<a href="https://github.com/marthinkondjeni">
-				<img src="https://avatars.githubusercontent.com/u/40251832?s=72&u=307ca5d3d90a4aab0844ceb322b45ee3550d2c0e&v=4" width="24" alt="Avatar of marthinkondjeni"> marthinkondjeni
-			</a><br/>
-			Marthin Thomas
-		</td>
-		<td>Alpha Events And Marketing<br/></td>
-		<td><a href="https://twitter.com/Kondjenim_">Kondjenim_</a></td>
-		<td>Namibia, Windhoek</td>
-		<td>11</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>80</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/cjb220971">
 				<img src="https://avatars.githubusercontent.com/u/71228891?s=72&v=4" width="24" alt="Avatar of cjb220971"> cjb220971
@@ -1226,7 +1198,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/SelmaNdapanda">
 				<img src="https://avatars.githubusercontent.com/u/61165443?s=72&v=4" width="24" alt="Avatar of SelmaNdapanda"> SelmaNdapanda
@@ -1240,7 +1212,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/Outalla">
 				<img src="https://avatars.githubusercontent.com/u/6010016?s=72&u=7dddd4b499e42224773f60806208a32ae7efabf0&v=4" width="24" alt="Avatar of Outalla"> Outalla
@@ -1254,7 +1226,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/KingMonker10">
 				<img src="https://avatars.githubusercontent.com/u/79307157?s=72&v=4" width="24" alt="Avatar of KingMonker10"> KingMonker10
@@ -1268,7 +1240,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/DevJHansen">
 				<img src="https://avatars.githubusercontent.com/u/43698024?s=72&u=7ad9e7ce8b7f4c9c00b68bb979403d60e8e9af44&v=4" width="24" alt="Avatar of DevJHansen"> DevJHansen
@@ -1282,7 +1254,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/Vis396">
 				<img src="https://avatars.githubusercontent.com/u/83216027?s=72&u=4144bdfdfcccfd91181f411831007fd9934c0b5a&v=4" width="24" alt="Avatar of Vis396"> Vis396
@@ -1296,7 +1268,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/Descande">
 				<img src="https://avatars.githubusercontent.com/u/40422566?s=72&u=7e4c78ac0adf1de2245d789f82f9ce25181a3f98&v=4" width="24" alt="Avatar of Descande"> Descande
@@ -1310,7 +1282,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/Dennischris">
 				<img src="https://avatars.githubusercontent.com/u/80024411?s=72&v=4" width="24" alt="Avatar of Dennischris"> Dennischris
@@ -1324,7 +1296,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/Rolinevdm">
 				<img src="https://avatars.githubusercontent.com/u/34938702?s=72&u=e4b9aa2158be19e74866ee9b18b503e70b697eec&v=4" width="24" alt="Avatar of Rolinevdm"> Rolinevdm
@@ -1338,7 +1310,21 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>87</td>
+		<td>
+			<a href="https://github.com/Blackheartwolf">
+				<img src="https://avatars.githubusercontent.com/u/47410358?s=72&u=ee96c488eaa717994de91ffa9eeab0b6252b1be6&v=4" width="24" alt="Avatar of Blackheartwolf"> Blackheartwolf
+			</a><br/>
+			Blackhearted_wolf
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Namibia</td>
+		<td>9</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/AmadhilaTobias">
 				<img src="https://avatars.githubusercontent.com/u/83218113?s=72&u=8b61e0e1c95c57ae17abff303ecd84f0fbb72890&v=4" width="24" alt="Avatar of AmadhilaTobias"> AmadhilaTobias
@@ -1352,7 +1338,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/rikuverahe">
 				<img src="https://avatars.githubusercontent.com/u/72344924?s=72&v=4" width="24" alt="Avatar of rikuverahe"> rikuverahe
@@ -1366,7 +1352,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/ldev22">
 				<img src="https://avatars.githubusercontent.com/u/12534835?s=72&u=d89c16378f2e0f73866ecff0a0a77883c6581c98&v=4" width="24" alt="Avatar of ldev22"> ldev22
@@ -1380,7 +1366,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/roberto-smith785">
 				<img src="https://avatars.githubusercontent.com/u/75851576?s=72&v=4" width="24" alt="Avatar of roberto-smith785"> roberto-smith785
@@ -1394,7 +1380,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/maimuzenda">
 				<img src="https://avatars.githubusercontent.com/u/42945985?s=72&u=d0f76bf88159e3e1e4d5e88d7b7b820ff6ae8df8&v=4" width="24" alt="Avatar of maimuzenda"> maimuzenda
@@ -1408,7 +1394,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/lcs00191336it">
 				<img src="https://avatars.githubusercontent.com/u/72252513?s=72&u=32d47aa78b6284f404f66440cacef3df8d4b3a9c&v=4" width="24" alt="Avatar of lcs00191336it"> lcs00191336it
@@ -1422,7 +1408,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>95</td>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/Nghiwanwa">
 				<img src="https://avatars.githubusercontent.com/u/39900778?s=72&v=4" width="24" alt="Avatar of Nghiwanwa"> Nghiwanwa
@@ -1436,7 +1422,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/the-link">
 				<img src="https://avatars.githubusercontent.com/u/21025410?s=72&u=f7c280dcc22421edac28bce5720c91c75e444640&v=4" width="24" alt="Avatar of the-link"> the-link
@@ -1444,6 +1430,20 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 			McAllister Kröhne
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Namibia</td>
+		<td>8</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>96</td>
+		<td>
+			<a href="https://github.com/RobertBinneman">
+				<img src="https://avatars.githubusercontent.com/u/957167?s=72&u=af62c5c07132c841ae965b04f4e632cc8a27471f&v=4" width="24" alt="Avatar of RobertBinneman"> RobertBinneman
+			</a><br/>
+			Robert Binneman
+		</td>
+		<td>Colab </td>
 		<td>No Twitter Username</td>
 		<td>Namibia</td>
 		<td>8</td>
@@ -1564,20 +1564,6 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>105</td>
 		<td>
-			<a href="https://github.com/RobertBinneman">
-				<img src="https://avatars.githubusercontent.com/u/957167?s=72&u=af62c5c07132c841ae965b04f4e632cc8a27471f&v=4" width="24" alt="Avatar of RobertBinneman"> RobertBinneman
-			</a><br/>
-			Robert Binneman
-		</td>
-		<td>Colab </td>
-		<td>No Twitter Username</td>
-		<td>Namibia</td>
-		<td>7</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>106</td>
-		<td>
 			<a href="https://github.com/NdangiKanime">
 				<img src="https://avatars.githubusercontent.com/u/57900119?s=72&u=a3ae64f7cd6d6e491fcb22567b5c5b8e896ced34&v=4" width="24" alt="Avatar of NdangiKanime"> NdangiKanime
 			</a><br/>
@@ -1590,7 +1576,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/rosariacrespo">
 				<img src="https://avatars.githubusercontent.com/u/83214220?s=72&v=4" width="24" alt="Avatar of rosariacrespo"> rosariacrespo
@@ -1604,7 +1590,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/God-Tarry">
 				<img src="https://avatars.githubusercontent.com/u/74350250?s=72&u=8f43bd9e0fe3da8ac306be7a0614dd50a4e0d22e&v=4" width="24" alt="Avatar of God-Tarry"> God-Tarry
@@ -1618,7 +1604,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/christophine">
 				<img src="https://avatars.githubusercontent.com/u/52163423?s=72&u=26b5ce0b3edb70173caee2e3ad83c452944e533d&v=4" width="24" alt="Avatar of christophine"> christophine
@@ -1632,7 +1618,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/MarshallChicha">
 				<img src="https://avatars.githubusercontent.com/u/48858439?s=72&u=53726354d50215981433ce063089f67dbda114a9&v=4" width="24" alt="Avatar of MarshallChicha"> MarshallChicha
@@ -1646,7 +1632,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/ellin72">
 				<img src="https://avatars.githubusercontent.com/u/54842047?s=72&u=d0e8936cb565830cdfb1efd12fcecac1b3ae6a19&v=4" width="24" alt="Avatar of ellin72"> ellin72
@@ -1660,7 +1646,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/ucramer">
 				<img src="https://avatars.githubusercontent.com/u/64399938?s=72&u=126167c7e863b88698a1c4bfcec58daeea6b89b1&v=4" width="24" alt="Avatar of ucramer"> ucramer
@@ -1674,21 +1660,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>113</td>
-		<td>
-			<a href="https://github.com/Blackheartwolf">
-				<img src="https://avatars.githubusercontent.com/u/47410358?s=72&u=ee96c488eaa717994de91ffa9eeab0b6252b1be6&v=4" width="24" alt="Avatar of Blackheartwolf"> Blackheartwolf
-			</a><br/>
-			Blackhearted_wolf
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Namibia</td>
-		<td>6</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>114</td>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/KRMaendo">
 				<img src="https://avatars.githubusercontent.com/u/40663381?s=72&u=f509bd0da7f8c7a2340edd48455fd9eda300114b&v=4" width="24" alt="Avatar of KRMaendo"> KRMaendo
@@ -1702,7 +1674,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/Simbarashe-Menard">
 				<img src="https://avatars.githubusercontent.com/u/32427115?s=72&u=815b6021acb0f6634ac979ba89e90a5603ecbeb9&v=4" width="24" alt="Avatar of Simbarashe-Menard"> Simbarashe-Menard
@@ -1716,7 +1688,21 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>116</td>
+		<td>114</td>
+		<td>
+			<a href="https://github.com/phishekwa">
+				<img src="https://avatars.githubusercontent.com/u/36703172?s=72&u=61d88884f89798e3405a56ce20fa14b20ec50af6&v=4" width="24" alt="Avatar of phishekwa"> phishekwa
+			</a><br/>
+			Petrus Hishekwa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Namibia</td>
+		<td>6</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/RichieRich69">
 				<img src="https://avatars.githubusercontent.com/u/11899895?s=72&v=4" width="24" alt="Avatar of RichieRich69"> RichieRich69
@@ -1730,7 +1716,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>117</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/Ktzpringles2010">
 				<img src="https://avatars.githubusercontent.com/u/83969608?s=72&u=469d2c1faf9ae713d84525b3b233ab56ac8089ae&v=4" width="24" alt="Avatar of Ktzpringles2010"> Ktzpringles2010
@@ -1740,6 +1726,20 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Namibia</td>
+		<td>6</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>
+			<a href="https://github.com/wise10000">
+				<img src="https://avatars.githubusercontent.com/u/27950431?s=72&u=2b81f16d6b6f476a2ac43f995c99720d8c0a2753&v=4" width="24" alt="Avatar of wise10000"> wise10000
+			</a><br/>
+			wise
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Windhoek</td>
 		<td>6</td>
 		<td>6</td>
 	</tr>
@@ -1760,20 +1760,6 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>119</td>
 		<td>
-			<a href="https://github.com/wise10000">
-				<img src="https://avatars.githubusercontent.com/u/27950431?s=72&u=2b81f16d6b6f476a2ac43f995c99720d8c0a2753&v=4" width="24" alt="Avatar of wise10000"> wise10000
-			</a><br/>
-			wise
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Windhoek</td>
-		<td>6</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>120</td>
-		<td>
 			<a href="https://github.com/Grimm2577">
 				<img src="https://avatars.githubusercontent.com/u/80684249?s=72&v=4" width="24" alt="Avatar of Grimm2577"> Grimm2577
 			</a><br/>
@@ -1786,7 +1772,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/pmapumba">
 				<img src="https://avatars.githubusercontent.com/u/35918522?s=72&v=4" width="24" alt="Avatar of pmapumba"> pmapumba
@@ -1800,7 +1786,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/Ayanami251379">
 				<img src="https://avatars.githubusercontent.com/u/5551765?s=72&u=53fce7731a47ba13db5682201baa46af4eb721a0&v=4" width="24" alt="Avatar of Ayanami251379"> Ayanami251379
@@ -1814,7 +1800,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/TulongaHishiko">
 				<img src="https://avatars.githubusercontent.com/u/17965353?s=72&u=ee7bd299b32ac5e4b4d8c7e5597994ae4bc8c8e7&v=4" width="24" alt="Avatar of TulongaHishiko"> TulongaHishiko
@@ -1828,7 +1814,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/TBryMMz">
 				<img src="https://avatars.githubusercontent.com/u/31475551?s=72&u=131622ca7cc459de9601ea6d39683167e8c78c6e&v=4" width="24" alt="Avatar of TBryMMz"> TBryMMz
@@ -1842,21 +1828,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>125</td>
-		<td>
-			<a href="https://github.com/black-tc">
-				<img src="https://avatars.githubusercontent.com/u/44340576?s=72&u=83b432677737bedbd04b9306abeb5aa303dab47b&v=4" width="24" alt="Avatar of black-tc"> black-tc
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Windhoek, Namibia</td>
-		<td>5</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>126</td>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/tumbare">
 				<img src="https://avatars.githubusercontent.com/u/10494681?s=72&u=f0c7fc3b1156c19affaf556bfec9e79d2bf6c8a4&v=4" width="24" alt="Avatar of tumbare"> tumbare
@@ -1870,7 +1842,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/221105980">
 				<img src="https://avatars.githubusercontent.com/u/83254037?s=72&v=4" width="24" alt="Avatar of 221105980"> 221105980
@@ -1884,7 +1856,21 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>126</td>
+		<td>
+			<a href="https://github.com/Akinnaija">
+				<img src="https://avatars.githubusercontent.com/u/9897805?s=72&u=bb8b787071c8c9584e255fc8e168e11f412f2eeb&v=4" width="24" alt="Avatar of Akinnaija"> Akinnaija
+			</a><br/>
+			Benjamin Akinmoyeje
+		</td>
+		<td>Namibia University Of Science<br/>And<br/>Technology<br/></td>
+		<td><a href="https://twitter.com/akinnaija">akinnaija</a></td>
+		<td>Windhoek</td>
+		<td>5</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/Ihekandjo">
 				<img src="https://avatars.githubusercontent.com/u/15673567?s=72&u=d84d9dfb190e3a1f839860a6f474e6f7e74bb6b3&v=4" width="24" alt="Avatar of Ihekandjo"> Ihekandjo
@@ -1898,7 +1884,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/DavidMutenda">
 				<img src="https://avatars.githubusercontent.com/u/33783401?s=72&u=8ea0c4574b1f4c3db3ac16b0647b05f2365f1250&v=4" width="24" alt="Avatar of DavidMutenda"> DavidMutenda
@@ -1912,7 +1898,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>130</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/sirgatsen">
 				<img src="https://avatars.githubusercontent.com/u/828654?s=72&u=d4419f40f74793721cc6e7a486fd215adcdb8281&v=4" width="24" alt="Avatar of sirgatsen"> sirgatsen
@@ -1926,7 +1912,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>131</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/devmiguelpereira">
 				<img src="https://avatars.githubusercontent.com/u/50536010?s=72&u=54ddabe77ac961514c6bd680b5bf4703667649e5&v=4" width="24" alt="Avatar of devmiguelpereira"> devmiguelpereira
@@ -1940,7 +1926,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/Shikolalye">
 				<img src="https://avatars.githubusercontent.com/u/84177789?s=72&v=4" width="24" alt="Avatar of Shikolalye"> Shikolalye
@@ -1950,6 +1936,20 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>Student  </td>
 		<td><a href="https://twitter.com/Fredrick">Fredrick</a></td>
 		<td>Windhoek </td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>
+			<a href="https://github.com/black-tc">
+				<img src="https://avatars.githubusercontent.com/u/44340576?s=72&u=83b432677737bedbd04b9306abeb5aa303dab47b&v=4" width="24" alt="Avatar of black-tc"> black-tc
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Windhoek, Namibia</td>
 		<td>4</td>
 		<td>4</td>
 	</tr>
@@ -2082,20 +2082,6 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>142</td>
 		<td>
-			<a href="https://github.com/mkulupe">
-				<img src="https://avatars.githubusercontent.com/u/52912743?s=72&u=8a1e01ca9ebbb76cb72eb305a8dc1c4f9afe0357&v=4" width="24" alt="Avatar of mkulupe"> mkulupe
-			</a><br/>
-			Feni
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Windhoek, Namibia</td>
-		<td>0</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
 			<a href="https://github.com/Kunaije">
 				<img src="https://avatars.githubusercontent.com/u/26968784?s=72&u=ebae70d3737f19ea797115b9a666aa1e737a2a1d&v=4" width="24" alt="Avatar of Kunaije"> Kunaije
 			</a><br/>
@@ -2108,7 +2094,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>144</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/shikwambipolly">
 				<img src="https://avatars.githubusercontent.com/u/55202628?s=72&u=ace1c23c1ad12ea9593026d697ad98f9d457466c&v=4" width="24" alt="Avatar of shikwambipolly"> shikwambipolly
@@ -2122,7 +2108,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/Sheku-Katonyala">
 				<img src="https://avatars.githubusercontent.com/u/72418098?s=72&u=60794ed589c11ecc6d4f89d40e2ad8b72f8efe64&v=4" width="24" alt="Avatar of Sheku-Katonyala"> Sheku-Katonyala
@@ -2136,7 +2122,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/andeleya">
 				<img src="https://avatars.githubusercontent.com/u/7697491?s=72&u=907bffac7cb5a53e9914029254eee8cec2522dc6&v=4" width="24" alt="Avatar of andeleya"> andeleya
@@ -2150,7 +2136,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/mushongo">
 				<img src="https://avatars.githubusercontent.com/u/75772910?s=72&u=f33a1256f2b62415fea73fd6e20b6eeb52b71903&v=4" width="24" alt="Avatar of mushongo"> mushongo
@@ -2164,7 +2150,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/era-haindongo">
 				<img src="https://avatars.githubusercontent.com/u/82388809?s=72&v=4" width="24" alt="Avatar of era-haindongo"> era-haindongo
@@ -2178,7 +2164,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/OneNeema">
 				<img src="https://avatars.githubusercontent.com/u/83118825?s=72&u=c85825357a7253df80dee5ca3d28850b06a14280&v=4" width="24" alt="Avatar of OneNeema"> OneNeema
@@ -2192,7 +2178,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/kagasheka">
 				<img src="https://avatars.githubusercontent.com/u/84779579?s=72&v=4" width="24" alt="Avatar of kagasheka"> kagasheka
@@ -2202,6 +2188,20 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Windhoek Namibia</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>150</td>
+		<td>
+			<a href="https://github.com/YanaTechCC">
+				<img src="https://avatars.githubusercontent.com/u/87596679?s=72&v=4" width="24" alt="Avatar of YanaTechCC"> YanaTechCC
+			</a><br/>
+			yanatech
+		</td>
+		<td>Yana Technology Investment Cc<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Mariental Namibia </td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
@@ -2264,6 +2264,20 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>155</td>
 		<td>
+			<a href="https://github.com/Mbangula">
+				<img src="https://avatars.githubusercontent.com/u/12165627?s=72&u=aba8e16f6168b06f5c5c6cf4e01c158029057c9c&v=4" width="24" alt="Avatar of Mbangula"> Mbangula
+			</a><br/>
+			Mbangula Lameck Amugongo
+		</td>
+		<td>Namibia University Of Science<br/>&<br/>Technology<br/></td>
+		<td><a href="https://twitter.com/lamechthinkbig">lamechthinkbig</a></td>
+		<td>Windhoek</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>
 			<a href="https://github.com/VictorMusiwa">
 				<img src="https://avatars.githubusercontent.com/u/52962?s=72&v=4" width="24" alt="Avatar of VictorMusiwa"> VictorMusiwa
 			</a><br/>
@@ -2276,7 +2290,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/jerold04">
 				<img src="https://avatars.githubusercontent.com/u/25744863?s=72&v=4" width="24" alt="Avatar of jerold04"> jerold04
@@ -2290,21 +2304,21 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/lukasnamupala">
-				<img src="https://avatars.githubusercontent.com/u/17675414?s=72&u=0a82f688e67b5ae8517ad16100b25d7bae7b5705&v=4" width="24" alt="Avatar of lukasnamupala"> lukasnamupala
+				<img src="https://avatars.githubusercontent.com/u/17675414?s=72&u=f509841d9724c58b9c9d66b4bb12b60c62d04aed&v=4" width="24" alt="Avatar of lukasnamupala"> lukasnamupala
 			</a><br/>
 			Lukas Namupala
 		</td>
 		<td>Encode </td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/ARTICULUENT">ARTICULUENT</a></td>
 		<td>Namibia Windhoek </td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/FideriaJT98">
 				<img src="https://avatars.githubusercontent.com/u/44370424?s=72&v=4" width="24" alt="Avatar of FideriaJT98"> FideriaJT98
@@ -2318,7 +2332,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/nixonnakutwima">
 				<img src="https://avatars.githubusercontent.com/u/67453120?s=72&v=4" width="24" alt="Avatar of nixonnakutwima"> nixonnakutwima
@@ -2332,7 +2346,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/Lesheni25">
 				<img src="https://avatars.githubusercontent.com/u/73134217?s=72&u=28efd7f2d5c3f001a27916dfebfdef218cfe12b4&v=4" width="24" alt="Avatar of Lesheni25"> Lesheni25
@@ -2346,7 +2360,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/icequeen85">
 				<img src="https://avatars.githubusercontent.com/u/69122612?s=72&v=4" width="24" alt="Avatar of icequeen85"> icequeen85
@@ -2360,7 +2374,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/Tembs">
 				<img src="https://avatars.githubusercontent.com/u/6513239?s=72&u=3f07b8a3e71a7c1fc29aa4a2121efd1749b9fc97&v=4" width="24" alt="Avatar of Tembs"> Tembs
@@ -2374,7 +2388,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>164</td>
 		<td>
 			<a href="https://github.com/honeypot-ui">
 				<img src="https://avatars.githubusercontent.com/u/83091322?s=72&u=bfb32a779359c53be0c087d50b26eb4a8700b263&v=4" width="24" alt="Avatar of honeypot-ui"> honeypot-ui
@@ -2388,7 +2402,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/laenol">
 				<img src="https://avatars.githubusercontent.com/u/45036099?s=72&v=4" width="24" alt="Avatar of laenol"> laenol
@@ -2402,7 +2416,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/joachim-shilongo-apps">
 				<img src="https://avatars.githubusercontent.com/u/22866834?s=72&v=4" width="24" alt="Avatar of joachim-shilongo-apps"> joachim-shilongo-apps
@@ -2416,7 +2430,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/ACRYLIC8292">
 				<img src="https://avatars.githubusercontent.com/u/82940702?s=72&u=409bfbfbc5b11e51a5c3c7857beb1c7f8f54586d&v=4" width="24" alt="Avatar of ACRYLIC8292"> ACRYLIC8292
@@ -2430,7 +2444,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/Quintin-Jackson">
 				<img src="https://avatars.githubusercontent.com/u/19209108?s=72&u=c4b4b8158c2bdb2464d40fce5d9199b0dc54e2aa&v=4" width="24" alt="Avatar of Quintin-Jackson"> Quintin-Jackson
@@ -2444,7 +2458,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/IconicStarboy">
 				<img src="https://avatars.githubusercontent.com/u/84661714?s=72&u=e8d2cd137555ae2a5d29ba6970d7acd520d245d2&v=4" width="24" alt="Avatar of IconicStarboy"> IconicStarboy
@@ -2458,7 +2472,21 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>170</td>
+		<td>
+			<a href="https://github.com/vkatoma">
+				<img src="https://avatars.githubusercontent.com/u/87603589?s=72&v=4" width="24" alt="Avatar of vkatoma"> vkatoma
+			</a><br/>
+			Victor
+		</td>
+		<td>Nust </td>
+		<td>No Twitter Username</td>
+		<td>Namibia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/LahyaH">
 				<img src="https://avatars.githubusercontent.com/u/56756021?s=72&u=d4ea04c81e7ba783d589befda64819f740a31f56&v=4" width="24" alt="Avatar of LahyaH"> LahyaH
@@ -2472,7 +2500,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/yamibodole">
 				<img src="https://avatars.githubusercontent.com/u/83118765?s=72&u=074f74bc65e3af6cce22f7155c48b0e84a03b4ea&v=4" width="24" alt="Avatar of yamibodole"> yamibodole
@@ -2486,21 +2514,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>171</td>
-		<td>
-			<a href="https://github.com/paratus-nam">
-				<img src="https://avatars.githubusercontent.com/u/85547143?s=72&u=5dc995fd4eea28fc7a9b4474f3f2109d1c0a78bc&v=4" width="24" alt="Avatar of paratus-nam"> paratus-nam
-			</a><br/>
-			Paratus Namibia
-		</td>
-		<td>Paratus Namibia </td>
-		<td>No Twitter Username</td>
-		<td>Namibia</td>
-		<td>2</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>172</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/joseph-haita">
 				<img src="https://avatars.githubusercontent.com/u/63173694?s=72&u=a27d4d2adddb712488e4cb799125126d639db46f&v=4" width="24" alt="Avatar of joseph-haita"> joseph-haita
@@ -2514,7 +2528,21 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
+		<td>
+			<a href="https://github.com/paratus-nam">
+				<img src="https://avatars.githubusercontent.com/u/85547143?s=72&u=5dc995fd4eea28fc7a9b4474f3f2109d1c0a78bc&v=4" width="24" alt="Avatar of paratus-nam"> paratus-nam
+			</a><br/>
+			Paratus Namibia
+		</td>
+		<td>Paratus Namibia </td>
+		<td>No Twitter Username</td>
+		<td>Namibia</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/HannesvdW">
 				<img src="https://avatars.githubusercontent.com/u/82051264?s=72&u=ef6a8ddf2ec935d1625d3305c369c0919ddb0054&v=4" width="24" alt="Avatar of HannesvdW"> HannesvdW
@@ -2528,7 +2556,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/andyandersonmbwale">
 				<img src="https://avatars.githubusercontent.com/u/41328334?s=72&v=4" width="24" alt="Avatar of andyandersonmbwale"> andyandersonmbwale
@@ -2542,21 +2570,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/sihkwafa">
-				<img src="https://avatars.githubusercontent.com/u/68293726?s=72&v=4" width="24" alt="Avatar of sihkwafa"> sihkwafa
-			</a><br/>
-			No Name
-		</td>
-		<td>Sih Kwafa </td>
-		<td>No Twitter Username</td>
-		<td>Windhoek, Namibia</td>
-		<td>2</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>176</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/TonnyMuluti">
 				<img src="https://avatars.githubusercontent.com/u/57458286?s=72&u=2f927a33f27c587d30b1e6b194568d5a94a8e00d&v=4" width="24" alt="Avatar of TonnyMuluti"> TonnyMuluti
@@ -2570,7 +2584,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/kulobone">
 				<img src="https://avatars.githubusercontent.com/u/280950?s=72&v=4" width="24" alt="Avatar of kulobone"> kulobone
@@ -2584,7 +2598,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/dmdmaasz6">
 				<img src="https://avatars.githubusercontent.com/u/18368914?s=72&u=088659fdc8816d7f84618b951294969c212a91d2&v=4" width="24" alt="Avatar of dmdmaasz6"> dmdmaasz6
@@ -2598,7 +2612,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/Ngatatue">
 				<img src="https://avatars.githubusercontent.com/u/10843796?s=72&u=ca92f7adba27ac9ff2e22474062effb02750683f&v=4" width="24" alt="Avatar of Ngatatue"> Ngatatue
@@ -2612,7 +2626,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/likuwa">
 				<img src="https://avatars.githubusercontent.com/u/37661345?s=72&v=4" width="24" alt="Avatar of likuwa"> likuwa
@@ -2626,7 +2640,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/divanmostert">
 				<img src="https://avatars.githubusercontent.com/u/914502?s=72&v=4" width="24" alt="Avatar of divanmostert"> divanmostert
@@ -2640,7 +2654,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/petewandai">
 				<img src="https://avatars.githubusercontent.com/u/29979768?s=72&u=aebd087448fc15c2b788d141ec9588c3ff199968&v=4" width="24" alt="Avatar of petewandai"> petewandai
@@ -2654,7 +2668,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/mediafactorye">
 				<img src="https://avatars.githubusercontent.com/u/79973402?s=72&v=4" width="24" alt="Avatar of mediafactorye"> mediafactorye
@@ -2668,7 +2682,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/merwefourie">
 				<img src="https://avatars.githubusercontent.com/u/72489380?s=72&v=4" width="24" alt="Avatar of merwefourie"> merwefourie
@@ -2678,20 +2692,6 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>Flexpro Tech </td>
 		<td>No Twitter Username</td>
 		<td>Windhoek, Namibia</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>185</td>
-		<td>
-			<a href="https://github.com/Fungai-Mahara">
-				<img src="https://avatars.githubusercontent.com/u/83116136?s=72&u=a8183906ec0db91de9262d5a9e0546ebec83f31c&v=4" width="24" alt="Avatar of Fungai-Mahara"> Fungai-Mahara
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Namibia</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -2712,6 +2712,20 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>187</td>
 		<td>
+			<a href="https://github.com/Fungai-Mahara">
+				<img src="https://avatars.githubusercontent.com/u/83116136?s=72&u=a8183906ec0db91de9262d5a9e0546ebec83f31c&v=4" width="24" alt="Avatar of Fungai-Mahara"> Fungai-Mahara
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Namibia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>188</td>
+		<td>
 			<a href="https://github.com/Kondjeree">
 				<img src="https://avatars.githubusercontent.com/u/46629756?s=72&v=4" width="24" alt="Avatar of Kondjeree"> Kondjeree
 			</a><br/>
@@ -2724,7 +2738,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/lysiasj">
 				<img src="https://avatars.githubusercontent.com/u/71313903?s=72&v=4" width="24" alt="Avatar of lysiasj"> lysiasj
@@ -2738,7 +2752,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>189</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/ahaa-edupreneurs">
 				<img src="https://avatars.githubusercontent.com/u/85269173?s=72&u=9bd1d12bb2063baa9327893e1953d7a33b538f01&v=4" width="24" alt="Avatar of ahaa-edupreneurs"> ahaa-edupreneurs
@@ -2752,7 +2766,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/mbangasinkumbwa">
 				<img src="https://avatars.githubusercontent.com/u/71357282?s=72&u=c4b1d2184d223deea5c7df6d684a6fcdeaa63cf3&v=4" width="24" alt="Avatar of mbangasinkumbwa"> mbangasinkumbwa
@@ -2766,7 +2780,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/madjarov42">
 				<img src="https://avatars.githubusercontent.com/u/49945321?s=72&v=4" width="24" alt="Avatar of madjarov42"> madjarov42
@@ -2780,7 +2794,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/Really03">
 				<img src="https://avatars.githubusercontent.com/u/83308403?s=72&v=4" width="24" alt="Avatar of Really03"> Really03
@@ -2794,7 +2808,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/Tangeni447">
 				<img src="https://avatars.githubusercontent.com/u/84454488?s=72&v=4" width="24" alt="Avatar of Tangeni447"> Tangeni447
@@ -2808,7 +2822,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/eaipanda">
 				<img src="https://avatars.githubusercontent.com/u/26859008?s=72&v=4" width="24" alt="Avatar of eaipanda"> eaipanda
@@ -2822,26 +2836,12 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>195</td>
-		<td>
-			<a href="https://github.com/ristotangeni">
-				<img src="https://avatars.githubusercontent.com/u/68810553?s=72&v=4" width="24" alt="Avatar of ristotangeni"> ristotangeni
-			</a><br/>
-			Risto Tangeni
-		</td>
-		<td>Taris Technology </td>
-		<td><a href="https://twitter.com/Risto_TangeniYB">Risto_TangeniYB</a></td>
-		<td>Windhoek , Namibia</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>196</td>
 		<td>
-			<a href="https://github.com/jiksy69">
-				<img src="https://avatars.githubusercontent.com/u/73902914?s=72&u=a96b051d345efcab4725f9d4a7ff4837394a2519&v=4" width="24" alt="Avatar of jiksy69"> jiksy69
+			<a href="https://github.com/1uyando">
+				<img src="https://avatars.githubusercontent.com/u/87638908?s=72&u=059a15b8041b723ea90a7b25aa6a1773ee0b5a0b&v=4" width="24" alt="Avatar of 1uyando"> 1uyando
 			</a><br/>
-			No Name
+			Luyando Mudenda
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2852,14 +2852,14 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>197</td>
 		<td>
-			<a href="https://github.com/mostertg">
-				<img src="https://avatars.githubusercontent.com/u/19716637?s=72&v=4" width="24" alt="Avatar of mostertg"> mostertg
+			<a href="https://github.com/ristotangeni">
+				<img src="https://avatars.githubusercontent.com/u/68810553?s=72&v=4" width="24" alt="Avatar of ristotangeni"> ristotangeni
 			</a><br/>
-			Giovanni Mostert
+			Risto Tangeni
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Windhoek, Namibia</td>
+		<td>Taris Technology </td>
+		<td><a href="https://twitter.com/Risto_TangeniYB">Risto_TangeniYB</a></td>
+		<td>Windhoek , Namibia</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -2880,6 +2880,34 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>199</td>
 		<td>
+			<a href="https://github.com/jiksy69">
+				<img src="https://avatars.githubusercontent.com/u/73902914?s=72&u=a96b051d345efcab4725f9d4a7ff4837394a2519&v=4" width="24" alt="Avatar of jiksy69"> jiksy69
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Namibia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
+			<a href="https://github.com/mostertg">
+				<img src="https://avatars.githubusercontent.com/u/19716637?s=72&v=4" width="24" alt="Avatar of mostertg"> mostertg
+			</a><br/>
+			Giovanni Mostert
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Windhoek, Namibia</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>201</td>
+		<td>
 			<a href="https://github.com/DewaldtVR">
 				<img src="https://avatars.githubusercontent.com/u/30688700?s=72&v=4" width="24" alt="Avatar of DewaldtVR"> DewaldtVR
 			</a><br/>
@@ -2892,7 +2920,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/BecomingPhill">
 				<img src="https://avatars.githubusercontent.com/u/5921813?s=72&v=4" width="24" alt="Avatar of BecomingPhill"> BecomingPhill
@@ -2906,7 +2934,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/Benaja5991">
 				<img src="https://avatars.githubusercontent.com/u/72873686?s=72&v=4" width="24" alt="Avatar of Benaja5991"> Benaja5991
@@ -2920,7 +2948,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/joseakjunior">
 				<img src="https://avatars.githubusercontent.com/u/21218276?s=72&v=4" width="24" alt="Avatar of joseakjunior"> joseakjunior
@@ -2934,7 +2962,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/DJ-Khama">
 				<img src="https://avatars.githubusercontent.com/u/74600024?s=72&v=4" width="24" alt="Avatar of DJ-Khama"> DJ-Khama
@@ -2948,7 +2976,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/hplaatjies">
 				<img src="https://avatars.githubusercontent.com/u/32832872?s=72&u=7a7f589c4045787e2e3c3e0712a9abeb10d951f8&v=4" width="24" alt="Avatar of hplaatjies"> hplaatjies
@@ -2962,7 +2990,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/annelikanyangela">
 				<img src="https://avatars.githubusercontent.com/u/69437753?s=72&v=4" width="24" alt="Avatar of annelikanyangela"> annelikanyangela
@@ -2976,7 +3004,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/Geovanio007">
 				<img src="https://avatars.githubusercontent.com/u/78215512?s=72&v=4" width="24" alt="Avatar of Geovanio007"> Geovanio007
@@ -2990,7 +3018,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/Hafeni2000">
 				<img src="https://avatars.githubusercontent.com/u/82164943?s=72&v=4" width="24" alt="Avatar of Hafeni2000"> Hafeni2000
@@ -3004,7 +3032,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/gseydack">
 				<img src="https://avatars.githubusercontent.com/u/39164577?s=72&v=4" width="24" alt="Avatar of gseydack"> gseydack
@@ -3018,7 +3046,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/Gabriel-Nashixwa">
 				<img src="https://avatars.githubusercontent.com/u/80076965?s=72&u=499d4729215f345ccfc2484d63d2b2f766c8a763&v=4" width="24" alt="Avatar of Gabriel-Nashixwa"> Gabriel-Nashixwa
@@ -3032,21 +3060,21 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>210</td>
+		<td>212</td>
 		<td>
-			<a href="https://github.com/Akinnaija">
-				<img src="https://avatars.githubusercontent.com/u/9897805?s=72&u=bb8b787071c8c9584e255fc8e168e11f412f2eeb&v=4" width="24" alt="Avatar of Akinnaija"> Akinnaija
+			<a href="https://github.com/sihkwafa">
+				<img src="https://avatars.githubusercontent.com/u/68293726?s=72&v=4" width="24" alt="Avatar of sihkwafa"> sihkwafa
 			</a><br/>
-			Benjamin Akinmoyeje
+			No Name
 		</td>
-		<td>Namibia University Of Science<br/>And<br/>Technology<br/></td>
-		<td><a href="https://twitter.com/akinnaija">akinnaija</a></td>
-		<td>Windhoek</td>
+		<td>Sih Kwafa </td>
+		<td>No Twitter Username</td>
+		<td>Windhoek, Namibia</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/wjduplessis">
 				<img src="https://avatars.githubusercontent.com/u/82881854?s=72&u=45619861550f8cf978da85e6e0e594f59e1604e5&v=4" width="24" alt="Avatar of wjduplessis"> wjduplessis
@@ -3060,7 +3088,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/jovangibbs">
 				<img src="https://avatars.githubusercontent.com/u/84568781?s=72&v=4" width="24" alt="Avatar of jovangibbs"> jovangibbs
@@ -3074,7 +3102,7 @@ There are `443 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/FishmanNamibia">
 				<img src="https://avatars.githubusercontent.com/u/14069642?s=72&u=aa461670fc3c1947d4fde17b26e944c7de565bac&v=4" width="24" alt="Avatar of FishmanNamibia"> FishmanNamibia
