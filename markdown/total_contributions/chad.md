@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2021/7/26 5:21 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2021/8/1 1:18 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
@@ -117,7 +117,7 @@ There are `61 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>No Twitter Username</td>
 		<td>Chad, N'Djamena</td>
 		<td>0</td>
-		<td>1073</td>
+		<td>1093</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -234,20 +234,6 @@ There are `61 users`  in Chad. You need at least `0 followers` to be on this lis
 	<tr>
 		<td>10</td>
 		<td>
-			<a href="https://github.com/CanadianJesus1">
-				<img src="https://avatars.githubusercontent.com/u/77854094?s=72&v=4" width="24" alt="Avatar of CanadianJesus1"> CanadianJesus1
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/p">p</a></td>
-		<td>chad</td>
-		<td>9</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>11</td>
-		<td>
 			<a href="https://github.com/Djet-hub">
 				<img src="https://avatars.githubusercontent.com/u/85284835?s=72&u=83f7782969bd845a6f3df3199d15e03bc84c9cdd&v=4" width="24" alt="Avatar of Djet-hub"> Djet-hub
 			</a><br/>
@@ -256,6 +242,20 @@ There are `61 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>No Company</td>
 		<td><a href="https://twitter.com/djethubert">djethubert</a></td>
 		<td>Chad</td>
+		<td>10</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>
+			<a href="https://github.com/CanadianJesus1">
+				<img src="https://avatars.githubusercontent.com/u/77854094?s=72&v=4" width="24" alt="Avatar of CanadianJesus1"> CanadianJesus1
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/p">p</a></td>
+		<td>chad</td>
 		<td>9</td>
 		<td>9</td>
 	</tr>
@@ -402,6 +402,20 @@ There are `61 users`  in Chad. You need at least `0 followers` to be on this lis
 	<tr>
 		<td>22</td>
 		<td>
+			<a href="https://github.com/StrictEcrystal">
+				<img src="https://avatars.githubusercontent.com/u/77001498?s=72&u=ceb27a77bdb932f90e757eda32abb4442112797b&v=4" width="24" alt="Avatar of StrictEcrystal"> StrictEcrystal
+			</a><br/>
+			Strict
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
 			<a href="https://github.com/RigbotUnderscore">
 				<img src="https://avatars.githubusercontent.com/u/77864116?s=72&u=8a0c099e5692a56992dee0d73363d4bf1f1a7718&v=4" width="24" alt="Avatar of RigbotUnderscore"> RigbotUnderscore
 			</a><br/>
@@ -414,7 +428,7 @@ There are `61 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/rabbitsortof">
 				<img src="https://avatars.githubusercontent.com/u/84213436?s=72&u=4118285048fd7e81b11e2c7cfff563de6c8104da&v=4" width="24" alt="Avatar of rabbitsortof"> rabbitsortof
@@ -428,7 +442,7 @@ There are `61 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>25</td>
 		<td>
 			<a href="https://github.com/nnfag">
 				<img src="https://avatars.githubusercontent.com/u/85851852?s=72&u=3d1ce965a522eb9b3db8d6ad526c4772766164b5&v=4" width="24" alt="Avatar of nnfag"> nnfag
@@ -442,7 +456,7 @@ There are `61 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/delagardo">
 				<img src="https://avatars.githubusercontent.com/u/78538097?s=72&v=4" width="24" alt="Avatar of delagardo"> delagardo
@@ -456,7 +470,7 @@ There are `61 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/douzoune">
 				<img src="https://avatars.githubusercontent.com/u/74760492?s=72&v=4" width="24" alt="Avatar of douzoune"> douzoune
@@ -470,7 +484,7 @@ There are `61 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>28</td>
 		<td>
 			<a href="https://github.com/Abakar-B">
 				<img src="https://avatars.githubusercontent.com/u/59444125?s=72&v=4" width="24" alt="Avatar of Abakar-B"> Abakar-B
@@ -484,26 +498,12 @@ There are `61 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/poisenedBite-666">
 				<img src="https://avatars.githubusercontent.com/u/84354193?s=72&v=4" width="24" alt="Avatar of poisenedBite-666"> poisenedBite-666
 			</a><br/>
 			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/StrictEcrystal">
-				<img src="https://avatars.githubusercontent.com/u/77001498?s=72&u=ceb27a77bdb932f90e757eda32abb4442112797b&v=4" width="24" alt="Avatar of StrictEcrystal"> StrictEcrystal
-			</a><br/>
-			Strict
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -555,6 +555,20 @@ There are `61 users`  in Chad. You need at least `0 followers` to be on this lis
 	</tr>
 	<tr>
 		<td>33</td>
+		<td>
+			<a href="https://github.com/ahmedkondas">
+				<img src="https://avatars.githubusercontent.com/u/59375640?s=72&v=4" width="24" alt="Avatar of ahmedkondas"> ahmedkondas
+			</a><br/>
+			Ahmed Kondas
+		</td>
+		<td>Waikorkour </td>
+		<td>No Twitter Username</td>
+		<td>chad</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/mpassoret">
 				<img src="https://avatars.githubusercontent.com/u/87269959?s=72&u=97c6fb28626409bae24eae8d771c9572a0d1ff8e&v=4" width="24" alt="Avatar of mpassoret"> mpassoret
