@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2021/7/31 1:20 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2021/8/6 7:14 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `170 users`  in Andorra. You need at least `0 followers` to be on this list.
+There are `171 users`  in Andorra. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -154,7 +154,7 @@ There are `170 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Swyg, Andorra Tech Valley,<br/>Gmzcodes<br/></td>
 		<td><a href="https://twitter.com/gmzcodes">gmzcodes</a></td>
 		<td>Andorra & Barcelona</td>
-		<td>44</td>
+		<td>45</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -354,19 +354,6 @@ There are `170 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>20</td>
 		<td>
-			<a href="https://github.com/ghawthorne66">
-				<img src="https://avatars.githubusercontent.com/u/39036309?s=72&u=b67a08d14296a154966813f3dd7a00abc66512a4&v=4" width="24" alt="Avatar of ghawthorne66"> ghawthorne66
-			</a><br/>
-			Greg Hawthorne
-		</td>
-		<td>Frontsight Inc </td>
-		<td><a href="https://twitter.com/gshawthorne">gshawthorne</a></td>
-		<td>San Diego, Ca && Andorra La Velle, AD</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
 			<a href="https://github.com/blackaichi">
 				<img src="https://avatars.githubusercontent.com/u/29255819?s=72&u=81af7fb1d3c55c69711269b5954e9bfd9c1984fe&v=4" width="24" alt="Avatar of blackaichi"> blackaichi
 			</a><br/>
@@ -375,10 +362,10 @@ There are `170 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Barcelona-Andorra</td>
-		<td>11</td>
+		<td>12</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>21</td>
 		<td>
 			<a href="https://github.com/raulgilabert">
 				<img src="https://avatars.githubusercontent.com/u/12856430?s=72&u=88890b8170a8f2d00eab52130a6664be04e426e0&v=4" width="24" alt="Avatar of raulgilabert"> raulgilabert
@@ -389,6 +376,19 @@ There are `170 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/WeonPollo">WeonPollo</a></td>
 		<td>Santa Coloma de Gramenet, Spain</td>
 		<td>11</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
+			<a href="https://github.com/ghawthorne66">
+				<img src="https://avatars.githubusercontent.com/u/39036309?s=72&u=b67a08d14296a154966813f3dd7a00abc66512a4&v=4" width="24" alt="Avatar of ghawthorne66"> ghawthorne66
+			</a><br/>
+			Greg Hawthorne
+		</td>
+		<td>Frontsight Inc </td>
+		<td><a href="https://twitter.com/gshawthorne">gshawthorne</a></td>
+		<td>San Diego, Ca && Andorra La Velle, AD</td>
+		<td>10</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -861,6 +861,19 @@ There are `170 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>59</td>
 		<td>
+			<a href="https://github.com/bockp">
+				<img src="https://avatars.githubusercontent.com/u/10536344?s=72&u=72fb8c41096b20a6ad13fbd296c64f1a4fecfbfb&v=4" width="24" alt="Avatar of bockp"> bockp
+			</a><br/>
+			Peter bock (@pbock)
+		</td>
+		<td>Rapidi Online </td>
+		<td><a href="https://twitter.com/Peter_Bock">Peter_Bock</a></td>
+		<td>Ordino, Andorra</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
 			<a href="https://github.com/tkeske">
 				<img src="https://avatars.githubusercontent.com/u/8365130?s=72&v=4" width="24" alt="Avatar of tkeske"> tkeske
 			</a><br/>
@@ -872,7 +885,7 @@ There are `170 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>60</td>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/erikconk">
 				<img src="https://avatars.githubusercontent.com/u/66536345?s=72&u=ef31ff844f706ca5a06887849f4346d305b57513&v=4" width="24" alt="Avatar of erikconk"> erikconk
@@ -885,7 +898,7 @@ There are `170 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>61</td>
+		<td>62</td>
 		<td>
 			<a href="https://github.com/LluisTorrojaFontanet">
 				<img src="https://avatars.githubusercontent.com/u/32802626?s=72&v=4" width="24" alt="Avatar of LluisTorrojaFontanet"> LluisTorrojaFontanet
@@ -895,19 +908,6 @@ There are `170 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Caixa Andorrana De La<br/>Seguretat<br/>Social<br/></td>
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>62</td>
-		<td>
-			<a href="https://github.com/bockp">
-				<img src="https://avatars.githubusercontent.com/u/10536344?s=72&u=72fb8c41096b20a6ad13fbd296c64f1a4fecfbfb&v=4" width="24" alt="Avatar of bockp"> bockp
-			</a><br/>
-			Peter bock (@pbock)
-		</td>
-		<td>Rapidi Online </td>
-		<td><a href="https://twitter.com/Peter_Bock">Peter_Bock</a></td>
-		<td>Ordino, Andorra</td>
 		<td>1</td>
 	</tr>
 	<tr>
