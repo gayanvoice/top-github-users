@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2021/8/1 1:18 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2021/8/7 6:18 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
@@ -116,8 +116,8 @@ There are `61 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad, N'Djamena</td>
-		<td>0</td>
-		<td>1093</td>
+		<td>3</td>
+		<td>1076</td>
 	</tr>
 	<tr>
 		<td>2</td>
