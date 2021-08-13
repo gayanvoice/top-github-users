@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2021/8/7 6:18 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2021/8/13 1:57 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
@@ -154,7 +154,7 @@ There are `61 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>No Company</td>
 		<td><a href="https://twitter.com/eissaweb">eissaweb</a></td>
 		<td>N'djamena</td>
-		<td>7</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -225,7 +225,7 @@ There are `61 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>10</td>
 		<td>
 			<a href="https://github.com/gitmhd">
-				<img src="https://avatars.githubusercontent.com/u/86744371?s=72&v=4" width="24" alt="Avatar of gitmhd"> gitmhd
+				<img src="https://avatars.githubusercontent.com/u/86744371?s=72&u=e936fcc72fcfe9b8d875011291571a041d8f512b&v=4" width="24" alt="Avatar of gitmhd"> gitmhd
 			</a><br/>
 			No Name
 		</td>
