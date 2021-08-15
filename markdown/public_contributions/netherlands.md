@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" alt="Netherlands">
 </a>
 
-The `public contributions` by users in Netherlands on `2021/8/9 7:24 PM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
+The `public contributions` by users in Netherlands on `2021/8/15 2:17 PM UTC`. This list contains users from `Netherlands` and cities `Amsterdam` `The-hague` `Rotterdam` `Utrecht` `Groningen` `Eindhoven`.
 
 There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
