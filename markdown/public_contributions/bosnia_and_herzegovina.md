@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` by users in Bosnia And Herzegovina on `2021/8/12 4:26 PM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` by users in Bosnia And Herzegovina on `2021/8/18 8:18 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
@@ -115,7 +115,7 @@ There are `28 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>Infinity Mesh </td>
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia and Herzegovina</td>
-		<td>46</td>
+		<td>44</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -198,6 +198,19 @@ There are `28 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>8</td>
 		<td>
+			<a href="https://github.com/HariHodzic">
+				<img src="https://avatars.githubusercontent.com/u/24210894?s=72&u=56c6de6c3d3acced3484cfcc16e8ff433e9353b2&v=4" width="24" alt="Avatar of HariHodzic"> HariHodzic
+			</a><br/>
+			Haris
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sarajevo, Bosnia and Herzegovina</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>
 			<a href="https://github.com/pandzicivan">
 				<img src="https://avatars.githubusercontent.com/u/13085426?s=72&u=154fa773e18d1d9b56dfd7af5510e9fd4e15ba88&v=4" width="24" alt="Avatar of pandzicivan"> pandzicivan
 			</a><br/>
@@ -209,7 +222,7 @@ There are `28 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>9</td>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/Champa99">
 				<img src="https://avatars.githubusercontent.com/u/44381756?s=72&u=ead091350ee020b01f311f41013ec79c579a0dee&v=4" width="24" alt="Avatar of Champa99"> Champa99
@@ -217,19 +230,6 @@ There are `28 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 			Kerim Čampara
 		</td>
 		<td>@digime </td>
-		<td>No Twitter Username</td>
-		<td>Sarajevo, Bosnia and Herzegovina</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>10</td>
-		<td>
-			<a href="https://github.com/HariHodzic">
-				<img src="https://avatars.githubusercontent.com/u/24210894?s=72&u=56c6de6c3d3acced3484cfcc16e8ff433e9353b2&v=4" width="24" alt="Avatar of HariHodzic"> HariHodzic
-			</a><br/>
-			Haris
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia and Herzegovina</td>
 		<td>12</td>
@@ -245,7 +245,7 @@ There are `28 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mostar</td>
-		<td>9</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>12</td>
