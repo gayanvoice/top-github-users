@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg" alt="Rwanda">
 </a>
 
-The `number of followers` of users in Rwanda on `2021/8/21 11:21 PM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
+The `number of followers` of users in Rwanda on `2021/8/22 3:54 AM UTC`. This list contains users from `Rwanda` and cities `Kigali`.
 
-There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `137 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `976 users`  in Rwanda. You need at least `0 followers` to be on this list.
 
