@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="Ukraine">
 </a>
 
-The `number of followers` of users in Ukraine on `2021/8/17 4:25 AM UTC`. This list contains users from `Ukraine` and cities `Kyiv` `Lviv` `Kharkiv` `Odesa`.
+The `number of followers` of users in Ukraine on `2021/8/23 12:48 AM UTC`. This list contains users from `Ukraine` and cities `Kyiv` `Lviv` `Kharkiv` `Odesa`.
 
-There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `137 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `1000 users`  in Ukraine. You need at least `29 followers` to be on this list.
 
