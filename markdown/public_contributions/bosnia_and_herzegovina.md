@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` by users in Bosnia And Herzegovina on `2021/8/18 8:18 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` by users in Bosnia And Herzegovina on `2021/8/24 4:19 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
-There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `137 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `28 users`  in Bosnia And Herzegovina. You need at least `0 followers` to be on this list.
+There are `29 users`  in Bosnia And Herzegovina. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -107,19 +107,6 @@ There are `28 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>1</td>
 		<td>
-			<a href="https://github.com/Isutary">
-				<img src="https://avatars.githubusercontent.com/u/46055196?s=72&u=fa45ab6fb1fd4db0cb4ccb36a24043c33df82784&v=4" width="24" alt="Avatar of Isutary"> Isutary
-			</a><br/>
-			Edib Šupić
-		</td>
-		<td>Infinity Mesh </td>
-		<td>No Twitter Username</td>
-		<td>Sarajevo, Bosnia and Herzegovina</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>2</td>
-		<td>
 			<a href="https://github.com/KerimMbegovic">
 				<img src="https://avatars.githubusercontent.com/u/57753259?s=72&u=9e7789892e89a143e03065a9b1941d412ae53cb2&v=4" width="24" alt="Avatar of KerimMbegovic"> KerimMbegovic
 			</a><br/>
@@ -131,7 +118,7 @@ There are `28 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>3</td>
+		<td>2</td>
 		<td>
 			<a href="https://github.com/AdnanBabajic">
 				<img src="https://avatars.githubusercontent.com/u/65029737?s=72&u=93bd8310aa8e6be0980e07b0843bc32520d3e3b2&v=4" width="24" alt="Avatar of AdnanBabajic"> AdnanBabajic
@@ -142,6 +129,19 @@ There are `28 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Tuzla</td>
 		<td>36</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>
+			<a href="https://github.com/Isutary">
+				<img src="https://avatars.githubusercontent.com/u/46055196?s=72&u=fa45ab6fb1fd4db0cb4ccb36a24043c33df82784&v=4" width="24" alt="Avatar of Isutary"> Isutary
+			</a><br/>
+			Edib Šupić
+		</td>
+		<td>Infinity Mesh </td>
+		<td>No Twitter Username</td>
+		<td>Sarajevo, Bosnia and Herzegovina</td>
+		<td>35</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -224,6 +224,19 @@ There are `28 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>10</td>
 		<td>
+			<a href="https://github.com/ismi4">
+				<img src="https://avatars.githubusercontent.com/u/40364391?s=72&u=8349f847bd5784ea9ab322a3da7b5e6410b25623&v=4" width="24" alt="Avatar of ismi4"> ismi4
+			</a><br/>
+			Ismail Brkic
+		</td>
+		<td>Http://bildbosnia.or </td>
+		<td>No Twitter Username</td>
+		<td>Tuzla, Bosnia and Herzegovina</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>
 			<a href="https://github.com/Champa99">
 				<img src="https://avatars.githubusercontent.com/u/44381756?s=72&u=ead091350ee020b01f311f41013ec79c579a0dee&v=4" width="24" alt="Avatar of Champa99"> Champa99
 			</a><br/>
@@ -232,23 +245,23 @@ There are `28 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>@digime </td>
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia and Herzegovina</td>
-		<td>12</td>
+		<td>7</td>
 	</tr>
 	<tr>
-		<td>11</td>
+		<td>12</td>
 		<td>
-			<a href="https://github.com/seadacehic">
-				<img src="https://avatars.githubusercontent.com/u/43740261?s=72&u=cfb6e045d48034f2c3f9d72d70116478206283cb&v=4" width="24" alt="Avatar of seadacehic"> seadacehic
+			<a href="https://github.com/SenadAlagic">
+				<img src="https://avatars.githubusercontent.com/u/72402224?s=72&u=88b99bfecf89ec089e10a776eca4bce9064c6f06&v=4" width="24" alt="Avatar of SenadAlagic"> SenadAlagic
 			</a><br/>
-			Seada Čehić
+			Alagić Senad
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Mostar</td>
+		<td>Bihac / Mostar</td>
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>13</td>
 		<td>
 			<a href="https://github.com/medin2904">
 				<img src="https://avatars.githubusercontent.com/u/64202199?s=72&v=4" width="24" alt="Avatar of medin2904"> medin2904
@@ -261,7 +274,20 @@ There are `28 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>14</td>
+		<td>
+			<a href="https://github.com/seadacehic">
+				<img src="https://avatars.githubusercontent.com/u/43740261?s=72&u=cfb6e045d48034f2c3f9d72d70116478206283cb&v=4" width="24" alt="Avatar of seadacehic"> seadacehic
+			</a><br/>
+			Seada Čehić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mostar</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/MirzaMedar">
 				<img src="https://avatars.githubusercontent.com/u/23072261?s=72&u=a278c5bd0c312d12f384de537edbe2c69b7f0b25&v=4" width="24" alt="Avatar of MirzaMedar"> MirzaMedar
@@ -274,7 +300,7 @@ There are `28 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/nedimc20">
 				<img src="https://avatars.githubusercontent.com/u/73353765?s=72&u=65ba76b93823835263fb7939a325531c63803578&v=4" width="24" alt="Avatar of nedimc20"> nedimc20
@@ -287,7 +313,7 @@ There are `28 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/31d4r">
 				<img src="https://avatars.githubusercontent.com/u/30953857?s=72&u=b3b8715151d291e4e2e161aa0f7fa4a0de14ab80&v=4" width="24" alt="Avatar of 31d4r"> 31d4r
@@ -297,19 +323,6 @@ There are `28 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zenica</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
-			<a href="https://github.com/SenadAlagic">
-				<img src="https://avatars.githubusercontent.com/u/72402224?s=72&u=88b99bfecf89ec089e10a776eca4bce9064c6f06&v=4" width="24" alt="Avatar of SenadAlagic"> SenadAlagic
-			</a><br/>
-			Alagić Senad
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bihac / Mostar</td>
 		<td>3</td>
 	</tr>
 </table>
