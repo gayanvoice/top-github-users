@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg" alt="Iraq">
 </a>
 
-The `number of followers` of users in Iraq on `2021/8/19 11:22 PM UTC`. This list contains users from `Iraq` and cities `Baghdad` `Mosul` `Basra` `Erbil` `Najaf`.
+The `number of followers` of users in Iraq on `2021/8/25 7:22 PM UTC`. This list contains users from `Iraq` and cities `Baghdad` `Mosul` `Basra` `Erbil` `Najaf`.
 
-There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `137 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `982 users`  in Iraq. You need at least `0 followers` to be on this list.
 
