@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg" alt="Honduras">
 </a>
 
-The `public contributions` and `private contributions` by users in Honduras on `2021/8/19 5:27 PM UTC`. This list contains users from `Honduras` and cities `Tegucigalpa` `San-pedro-sula` `La-ceiba` `Comayagua` `Puerto-cortes` `Choluteca` `El-progreso` `Danli` `Choloma`.
+The `public contributions` and `private contributions` by users in Honduras on `2021/8/25 1:31 PM UTC`. This list contains users from `Honduras` and cities `Tegucigalpa` `San-pedro-sula` `La-ceiba` `Comayagua` `Puerto-cortes` `Choluteca` `El-progreso` `Danli` `Choloma`.
 
-There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `137 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `955 users`  in Honduras. You need at least `0 followers` to be on this list.
 
