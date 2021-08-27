@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg" alt="Qatar">
 </a>
 
-The `number of followers` of users in Qatar on `2021/8/21 8:20 PM UTC`. This list contains users from `Qatar` and cities `Doha`.
+The `number of followers` of users in Qatar on `2021/8/27 4:28 PM UTC`. This list contains users from `Qatar` and cities `Doha`.
 
-There are `136 countries` and `673 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `137 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `947 users`  in Qatar. You need at least `0 followers` to be on this list.
 
