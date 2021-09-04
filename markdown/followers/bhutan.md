@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg" alt="Bhutan">
 </a>
 
-The `number of followers` of users in Bhutan on `2021/8/29 7:13 PM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
+The `number of followers` of users in Bhutan on `2021/9/4 1:20 PM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
 
 There are `137 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `291 users`  in Bhutan. You need at least `0 followers` to be on this list.
+There are `293 users`  in Bhutan. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -133,6 +133,19 @@ There are `291 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>3</td>
 		<td>
+			<a href="https://github.com/kxt5258">
+				<img src="https://avatars.githubusercontent.com/u/4972422?s=72&u=3ae15b3f5015c80c50ddd1334d3d11a0ff8927b4&v=4" width="24" alt="Avatar of kxt5258"> kxt5258
+			</a><br/>
+			Kinley Tshering
+		</td>
+		<td>Druk Holding And Investments<br/>Limited<br/></td>
+		<td>No Twitter Username</td>
+		<td>Thimphu, Bhutan</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>
 			<a href="https://github.com/cubbage">
 				<img src="https://avatars.githubusercontent.com/u/3102044?s=72&u=ad631f995f2a48f3f11a2ef455916c3b7ae6a29e&v=4" width="24" alt="Avatar of cubbage"> cubbage
 			</a><br/>
@@ -144,7 +157,7 @@ There are `291 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>4</td>
+		<td>5</td>
 		<td>
 			<a href="https://github.com/pemagaley">
 				<img src="https://avatars.githubusercontent.com/u/17139726?s=72&v=4" width="24" alt="Avatar of pemagaley"> pemagaley
@@ -157,7 +170,7 @@ There are `291 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>5</td>
+		<td>6</td>
 		<td>
 			<a href="https://github.com/poojan007">
 				<img src="https://avatars.githubusercontent.com/u/8935939?s=72&u=31423694911a717469aa8a5212dcc1f6503f4d85&v=4" width="24" alt="Avatar of poojan007"> poojan007
@@ -167,19 +180,6 @@ There are `291 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>Ngn Technologies Private Limited<br/></td>
 		<td>No Twitter Username</td>
 		<td>Thimphu</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>
-			<a href="https://github.com/kxt5258">
-				<img src="https://avatars.githubusercontent.com/u/4972422?s=72&u=3ae15b3f5015c80c50ddd1334d3d11a0ff8927b4&v=4" width="24" alt="Avatar of kxt5258"> kxt5258
-			</a><br/>
-			Kinley Tshering
-		</td>
-		<td>Druk Holding And Investments<br/>Limited<br/></td>
-		<td>No Twitter Username</td>
-		<td>Thimphu, Bhutan</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -562,19 +562,6 @@ There are `291 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>36</td>
 		<td>
-			<a href="https://github.com/Neeraj-1994">
-				<img src="https://avatars.githubusercontent.com/u/59407623?s=72&u=fa81503b9f0dab30ebbfd5e021bb647453ae8a03&v=4" width="24" alt="Avatar of Neeraj-1994"> Neeraj-1994
-			</a><br/>
-			Neeraj Pradhan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Thimphu, Bhutan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
 			<a href="https://github.com/Bhutanese-Bot">
 				<img src="https://avatars.githubusercontent.com/u/77913595?s=72&u=729fbdeeb538260e3f36046f68fc945117597f19&v=4" width="24" alt="Avatar of Bhutanese-Bot"> Bhutanese-Bot
 			</a><br/>
@@ -583,6 +570,19 @@ There are `291 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Rinchending : Bhutan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/Neeraj-1994">
+				<img src="https://avatars.githubusercontent.com/u/59407623?s=72&u=fa81503b9f0dab30ebbfd5e021bb647453ae8a03&v=4" width="24" alt="Avatar of Neeraj-1994"> Neeraj-1994
+			</a><br/>
+			Neeraj Pradhan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Thimphu, Bhutan</td>
 		<td>1</td>
 	</tr>
 	<tr>
