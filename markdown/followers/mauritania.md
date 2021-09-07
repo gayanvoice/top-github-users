@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `number of followers` of users in Mauritania on `2021/9/1 9:19 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `number of followers` of users in Mauritania on `2021/9/7 3:16 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `137 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
@@ -277,7 +277,7 @@ There are `105 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>14</td>
 		<td>
 			<a href="https://github.com/saadne">
-				<img src="https://avatars.githubusercontent.com/u/49782996?s=72&u=25662735d169b54f2be2d6e067ce61d6327e406a&v=4" width="24" alt="Avatar of saadne"> saadne
+				<img src="https://avatars.githubusercontent.com/u/49782996?s=72&u=bfd051e549fa26f7c10223c99d3039af7e69adb1&v=4" width="24" alt="Avatar of saadne"> saadne
 			</a><br/>
 			Cheikhsaadbouh Etfaghaoubeid 
 		</td>
