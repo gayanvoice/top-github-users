@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg" alt="Cyprus">
 </a>
 
-The `number of followers` of users in Cyprus on `2021/9/28 9:21 AM UTC`. This list contains users from `Cyprus` and cities `Nicosia` `Limassol` `Larnaca` `Paphos` `Paralimni` `Famagusta`.
+The `number of followers` of users in Cyprus on `2021/10/4 6:25 AM UTC`. This list contains users from `Cyprus` and cities `Nicosia` `Limassol` `Larnaca` `Paphos` `Paralimni` `Famagusta`.
 
 There are `137 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
