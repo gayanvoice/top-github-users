@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg" alt="Zimbabwe">
 </a>
 
-The `number of followers` of users in Zimbabwe on `2021/10/2 5:23 PM UTC`. This list contains users from `Zimbabwe` and cities `Harare` `Bulawayo`.
+The `number of followers` of users in Zimbabwe on `2021/10/8 2:20 PM UTC`. This list contains users from `Zimbabwe` and cities `Harare` `Bulawayo`.
 
-There are `137 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `966 users`  in Zimbabwe. You need at least `0 followers` to be on this list.
 
