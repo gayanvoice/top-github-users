@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` by users in Bosnia And Herzegovina on `2021/10/3 12:22 PM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` by users in Bosnia And Herzegovina on `2021/10/9 8:16 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
-There are `137 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `29 users`  in Bosnia And Herzegovina. You need at least `0 followers` to be on this list.
 
