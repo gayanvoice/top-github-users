@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg" alt="Malta">
 </a>
 
-The `public contributions` by users in Malta on `2021/10/5 11:22 PM UTC`. This list contains users from `Malta` and cities `Valletta` `Sliema` `Saint-pauls-bay`.
+The `public contributions` by users in Malta on `2021/10/11 8:22 PM UTC`. This list contains users from `Malta` and cities `Valletta` `Sliema` `Saint-pauls-bay`.
 
-There are `137 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `941 users`  in Malta. You need at least `0 followers` to be on this list.
 
