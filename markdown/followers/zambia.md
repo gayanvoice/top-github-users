@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg" alt="Zambia">
 </a>
 
-The `number of followers` of users in Zambia on `2021/10/14 11:18 AM UTC`. This list contains users from `Zambia` and cities ` Lusaka`.
+The `number of followers` of users in Zambia on `2021/10/20 10:28 AM UTC`. This list contains users from `Zambia` and cities ` Lusaka`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `873 users`  in Zambia. You need at least `0 followers` to be on this list.
+There are `877 users`  in Zambia. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -108,7 +108,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 		<td>
 			<a href="https://github.com/malgamves">
-				<img src="https://avatars.githubusercontent.com/u/25641936?s=72&u=f9c594fae5017331351190fc244a6082952b4d2a&v=4" width="24" alt="Avatar of malgamves"> malgamves
+				<img src="https://avatars.githubusercontent.com/u/25641936?s=72&u=a85a4cea0db33e31306732d94c42a3534031a5ec&v=4" width="24" alt="Avatar of malgamves"> malgamves
 			</a><br/>
 			Daniel Madalitso Phiri
 		</td>
@@ -154,7 +154,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>The Copperbelt University </td>
 		<td><a href="https://twitter.com/daniel_ngandu">daniel_ngandu</a></td>
 		<td>Lusaka,Zambia</td>
-		<td>83</td>
+		<td>82</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -206,18 +206,18 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>@cynojine @brack-off-tech @kwachago <br/></td>
 		<td><a href="https://twitter.com/cynojinetech">cynojinetech</a></td>
 		<td>Zambia</td>
-		<td>69</td>
+		<td>70</td>
 	</tr>
 	<tr>
 		<td>9</td>
 		<td>
-			<a href="https://github.com/mwizasimbeye11">
-				<img src="https://avatars.githubusercontent.com/u/9476284?s=72&u=d90950eee0a8a05192758886ed5d94d80eb02b8c&v=4" width="24" alt="Avatar of mwizasimbeye11"> mwizasimbeye11
+			<a href="https://github.com/mwizasimbeye">
+				<img src="https://avatars.githubusercontent.com/u/9476284?s=72&u=d90950eee0a8a05192758886ed5d94d80eb02b8c&v=4" width="24" alt="Avatar of mwizasimbeye"> mwizasimbeye
 			</a><br/>
 			Mwiza Simbeye
 		</td>
 		<td>@agripredict @mlh-fellowship </td>
-		<td><a href="https://twitter.com/mwizasimbeye">mwizasimbeye</a></td>
+		<td>No Twitter Username</td>
 		<td>Zambia</td>
 		<td>62</td>
 	</tr>
@@ -510,6 +510,32 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>32</td>
 		<td>
+			<a href="https://github.com/thulani196">
+				<img src="https://avatars.githubusercontent.com/u/29437215?s=72&u=87dd148e4bed8c4545e3dc2431d5c14f2837ada0&v=4" width="24" alt="Avatar of thulani196"> thulani196
+			</a><br/>
+			Thulani Tembo
+		</td>
+		<td>Hypatech Analytics </td>
+		<td>No Twitter Username</td>
+		<td>Lusaka, Zambia.</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>33</td>
+		<td>
+			<a href="https://github.com/fderyckel">
+				<img src="https://avatars.githubusercontent.com/u/7240992?s=72&u=2ec32e2f1607596c66b64af2afb6baf36d02772a&v=4" width="24" alt="Avatar of fderyckel"> fderyckel
+			</a><br/>
+			François de Ryckel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lusaka, Zambia</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td>
 			<a href="https://github.com/chaiwa-berian">
 				<img src="https://avatars.githubusercontent.com/u/7937584?s=72&u=d01bc3f3c966d919a3789933a8e56544575426f3&v=4" width="24" alt="Avatar of chaiwa-berian"> chaiwa-berian
 			</a><br/>
@@ -521,46 +547,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>33</td>
-		<td>
-			<a href="https://github.com/thulani196">
-				<img src="https://avatars.githubusercontent.com/u/29437215?s=72&u=87dd148e4bed8c4545e3dc2431d5c14f2837ada0&v=4" width="24" alt="Avatar of thulani196"> thulani196
-			</a><br/>
-			Thulani Tembo
-		</td>
-		<td>Hypatech Analytics </td>
-		<td>No Twitter Username</td>
-		<td>Lusaka, Zambia.</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>34</td>
-		<td>
-			<a href="https://github.com/fderyckel">
-				<img src="https://avatars.githubusercontent.com/u/7240992?s=72&u=2ec32e2f1607596c66b64af2afb6baf36d02772a&v=4" width="24" alt="Avatar of fderyckel"> fderyckel
-			</a><br/>
-			François de Ryckel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lusaka, Zambia</td>
-		<td>27</td>
-	</tr>
-	<tr>
 		<td>35</td>
-		<td>
-			<a href="https://github.com/elisha2kyakpo1">
-				<img src="https://avatars.githubusercontent.com/u/53124548?s=72&u=67c65dce349025eed67872b04ef13b9706c40108&v=4" width="24" alt="Avatar of elisha2kyakpo1"> elisha2kyakpo1
-			</a><br/>
-			Elisha Kyakopo
-		</td>
-		<td> Freelance Full-stack Developer<br/></td>
-		<td><a href="https://twitter.com/Elisha1k">Elisha1k</a></td>
-		<td>zambia</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>36</td>
 		<td>
 			<a href="https://github.com/blessedjasonmwanza">
 				<img src="https://avatars.githubusercontent.com/u/35315311?s=72&u=cae4b76ee9bab696fcf2dec6e86dc9eb385865f7&v=4" width="24" alt="Avatar of blessedjasonmwanza"> blessedjasonmwanza
@@ -570,6 +557,19 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>@compoundcode  </td>
 		<td><a href="https://twitter.com/mwanzabj">mwanzabj</a></td>
 		<td> Lusaka, Zambia</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
+			<a href="https://github.com/elisha2kyakpo1">
+				<img src="https://avatars.githubusercontent.com/u/53124548?s=72&u=67c65dce349025eed67872b04ef13b9706c40108&v=4" width="24" alt="Avatar of elisha2kyakpo1"> elisha2kyakpo1
+			</a><br/>
+			Elisha Kyakopo
+		</td>
+		<td> Freelance Full-stack Developer<br/></td>
+		<td><a href="https://twitter.com/Elisha1k">Elisha1k</a></td>
+		<td>zambia</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -614,6 +614,19 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>40</td>
 		<td>
+			<a href="https://github.com/Aubrey-Zulu">
+				<img src="https://avatars.githubusercontent.com/u/20232062?s=72&u=8797456fc742007b8438baee820bced21a69a358&v=4" width="24" alt="Avatar of Aubrey-Zulu"> Aubrey-Zulu
+			</a><br/>
+			Aubrey Zulu
+		</td>
+		<td>Bongohive Consult </td>
+		<td>No Twitter Username</td>
+		<td>Lusaka, Zambia</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
 			<a href="https://github.com/Mathewsmusukuma">
 				<img src="https://avatars.githubusercontent.com/u/33897492?s=72&u=146e9b45261699cf42dcd8ae2166b79c6efe9000&v=4" width="24" alt="Avatar of Mathewsmusukuma"> Mathewsmusukuma
 			</a><br/>
@@ -625,7 +638,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/sjtg">
 				<img src="https://avatars.githubusercontent.com/u/7236041?s=72&u=3841e32480cedca5ed3fa2c2a250b43f8673a59b&v=4" width="24" alt="Avatar of sjtg"> sjtg
@@ -638,7 +651,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/SubiyaCryolite">
 				<img src="https://avatars.githubusercontent.com/u/16505156?s=72&u=13f9e951de4dd46290d10dc3178f7194bbbf0306&v=4" width="24" alt="Avatar of SubiyaCryolite"> SubiyaCryolite
@@ -651,7 +664,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>44</td>
 		<td>
 			<a href="https://github.com/asimumba">
 				<img src="https://avatars.githubusercontent.com/u/24398851?s=72&u=76235e17727dfcc9dd14e55f4f1eed6ca4049156&v=4" width="24" alt="Avatar of asimumba"> asimumba
@@ -664,7 +677,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>44</td>
+		<td>45</td>
 		<td>
 			<a href="https://github.com/DannyMexen">
 				<img src="https://avatars.githubusercontent.com/u/16232633?s=72&u=527178a90f0d75b36187bf47ab8712078a982497&v=4" width="24" alt="Avatar of DannyMexen"> DannyMexen
@@ -677,7 +690,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/CoolNerd504">
 				<img src="https://avatars.githubusercontent.com/u/1260214?s=72&u=f3bd2ac4cf95214c12103c94616410609f5a6d03&v=4" width="24" alt="Avatar of CoolNerd504"> CoolNerd504
@@ -688,19 +701,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Lusaka, Zambia</td>
 		<td>24</td>
-	</tr>
-	<tr>
-		<td>46</td>
-		<td>
-			<a href="https://github.com/Aubrey-Zulu">
-				<img src="https://avatars.githubusercontent.com/u/20232062?s=72&u=8797456fc742007b8438baee820bced21a69a358&v=4" width="24" alt="Avatar of Aubrey-Zulu"> Aubrey-Zulu
-			</a><br/>
-			Aubrey Zulu
-		</td>
-		<td>Bongohive Consult </td>
-		<td>No Twitter Username</td>
-		<td>Lusaka, Zambia</td>
-		<td>23</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -718,6 +718,19 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>48</td>
 		<td>
+			<a href="https://github.com/mmatongo">
+				<img src="https://avatars.githubusercontent.com/u/40806126?s=72&u=a68a2620004a77d7a5d42fbad253b204e0c17b6c&v=4" width="24" alt="Avatar of mmatongo"> mmatongo
+			</a><br/>
+			Daniel M. Matongo
+		</td>
+		<td>@tempulse @noirlinux </td>
+		<td>No Twitter Username</td>
+		<td>Lusaka, Zambia</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>
 			<a href="https://github.com/engineervix">
 				<img src="https://avatars.githubusercontent.com/u/7713776?s=72&u=a3da2042f6da74a1b2c146f8bddf26bd577d3389&v=4" width="24" alt="Avatar of engineervix"> engineervix
 			</a><br/>
@@ -729,7 +742,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>49</td>
+		<td>50</td>
 		<td>
 			<a href="https://github.com/softwareengineermwi">
 				<img src="https://avatars.githubusercontent.com/u/40128242?s=72&u=c41a76096e5dec25d22ba43937e80aa515d95be5&v=4" width="24" alt="Avatar of softwareengineermwi"> softwareengineermwi
@@ -742,7 +755,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>50</td>
+		<td>51</td>
 		<td>
 			<a href="https://github.com/geraldPhiri">
 				<img src="https://avatars.githubusercontent.com/u/48890237?s=72&u=af00332cbd9992a1e53df5db760fcc515701ba84&v=4" width="24" alt="Avatar of geraldPhiri"> geraldPhiri
@@ -753,19 +766,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Ndola, Zambia</td>
 		<td>22</td>
-	</tr>
-	<tr>
-		<td>51</td>
-		<td>
-			<a href="https://github.com/mmatongo">
-				<img src="https://avatars.githubusercontent.com/u/40806126?s=72&u=a68a2620004a77d7a5d42fbad253b204e0c17b6c&v=4" width="24" alt="Avatar of mmatongo"> mmatongo
-			</a><br/>
-			Daniel M. Matongo
-		</td>
-		<td>@tempulse @noirlinux </td>
-		<td>No Twitter Username</td>
-		<td>Lusaka, Zambia</td>
-		<td>21</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -848,6 +848,32 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>58</td>
 		<td>
+			<a href="https://github.com/Lembani">
+				<img src="https://avatars.githubusercontent.com/u/30483991?s=72&u=5c9ecd10b8c2f851433d8a20b22a80b148e5e337&v=4" width="24" alt="Avatar of Lembani"> Lembani
+			</a><br/>
+			Lembani Sakala
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Lembani_">Lembani_</a></td>
+		<td>Ndola, Zambia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>59</td>
+		<td>
+			<a href="https://github.com/chombazm">
+				<img src="https://avatars.githubusercontent.com/u/69033268?s=72&u=2ecf404ac597adeb77b82c934f1743138d644d62&v=4" width="24" alt="Avatar of chombazm"> chombazm
+			</a><br/>
+			Chomba
+		</td>
+		<td>@bongohive-consult @kezoio  </td>
+		<td><a href="https://twitter.com/chombazm">chombazm</a></td>
+		<td>Lilayi Lusaka, Zambia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
 			<a href="https://github.com/rei19ss">
 				<img src="https://avatars.githubusercontent.com/u/47424518?s=72&u=e51e21f9ce7003f54310a303f20242296dfd7928&v=4" width="24" alt="Avatar of rei19ss"> rei19ss
 			</a><br/>
@@ -859,20 +885,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>59</td>
-		<td>
-			<a href="https://github.com/Lembani">
-				<img src="https://avatars.githubusercontent.com/u/30483991?s=72&u=5c9ecd10b8c2f851433d8a20b22a80b148e5e337&v=4" width="24" alt="Avatar of Lembani"> Lembani
-			</a><br/>
-			Lembani Sakala
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Lembani_">Lembani_</a></td>
-		<td>Ndola, Zambia</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>60</td>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/stctheproducer">
 				<img src="https://avatars.githubusercontent.com/u/20264738?s=72&u=118fe0c51e476470c9b82e4005b339d56f308b96&v=4" width="24" alt="Avatar of stctheproducer"> stctheproducer
@@ -882,19 +895,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>@pareza-dev  </td>
 		<td><a href="https://twitter.com/stctheproducer">stctheproducer</a></td>
 		<td>Lusaka, Zambia</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>61</td>
-		<td>
-			<a href="https://github.com/chombazm">
-				<img src="https://avatars.githubusercontent.com/u/69033268?s=72&u=2ecf404ac597adeb77b82c934f1743138d644d62&v=4" width="24" alt="Avatar of chombazm"> chombazm
-			</a><br/>
-			Chomba
-		</td>
-		<td>@bongohive-consult @kezoio  </td>
-		<td><a href="https://twitter.com/chombazm">chombazm</a></td>
-		<td>Lilayi Lusaka, Zambia</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -939,6 +939,19 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>65</td>
 		<td>
+			<a href="https://github.com/Tchilo">
+				<img src="https://avatars.githubusercontent.com/u/25851836?s=72&u=e24f6b68c3f78d3fcd6e4edd9e55216094007fa4&v=4" width="24" alt="Avatar of Tchilo"> Tchilo
+			</a><br/>
+			Taro Chilongoshi
+		</td>
+		<td>Unknown  </td>
+		<td>No Twitter Username</td>
+		<td>Zambia </td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
 			<a href="https://github.com/Munsa1">
 				<img src="https://avatars.githubusercontent.com/u/81932478?s=72&u=82d2918aafaf35d7f815ad22b3cb7c1baebf5cc4&v=4" width="24" alt="Avatar of Munsa1"> Munsa1
 			</a><br/>
@@ -950,7 +963,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/DavidNkana">
 				<img src="https://avatars.githubusercontent.com/u/84419653?s=72&u=ac1bdad47b47c3d9fa149cc37c360130d57b8964&v=4" width="24" alt="Avatar of DavidNkana"> DavidNkana
@@ -963,7 +976,20 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>68</td>
+		<td>
+			<a href="https://github.com/Eathorne2">
+				<img src="https://avatars.githubusercontent.com/u/78135976?s=72&u=675fef4a0d752346993d5e7554d50e88911bb082&v=4" width="24" alt="Avatar of Eathorne2"> Eathorne2
+			</a><br/>
+			Eathorne
+		</td>
+		<td>Quick Programming </td>
+		<td>No Twitter Username</td>
+		<td>Lusaka, Zambia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>69</td>
 		<td>
 			<a href="https://github.com/masidagondwe">
 				<img src="https://avatars.githubusercontent.com/u/14178801?s=72&u=801d43a777683c78f3ae50aa82992d63aeb3335a&v=4" width="24" alt="Avatar of masidagondwe"> masidagondwe
@@ -976,20 +1002,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>68</td>
-		<td>
-			<a href="https://github.com/Tchilo">
-				<img src="https://avatars.githubusercontent.com/u/25851836?s=72&u=e24f6b68c3f78d3fcd6e4edd9e55216094007fa4&v=4" width="24" alt="Avatar of Tchilo"> Tchilo
-			</a><br/>
-			Taro Chilongoshi
-		</td>
-		<td>Unknown  </td>
-		<td>No Twitter Username</td>
-		<td>Zambia </td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>69</td>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/Patrick1Rhode">
 				<img src="https://avatars.githubusercontent.com/u/8822597?s=72&u=749e539c740a3230c00a0306511185bbbc4f1246&v=4" width="24" alt="Avatar of Patrick1Rhode"> Patrick1Rhode
@@ -1002,7 +1015,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/sosten303">
 				<img src="https://avatars.githubusercontent.com/u/31618419?s=72&u=7a063d25e914cb4517907ba985b33513d5bd1955&v=4" width="24" alt="Avatar of sosten303"> sosten303
@@ -1015,7 +1028,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/LuisRoyZulu06">
 				<img src="https://avatars.githubusercontent.com/u/34923214?s=72&u=6f56c85743adbeb3a2a9d6950f44a3e59139e356&v=4" width="24" alt="Avatar of LuisRoyZulu06"> LuisRoyZulu06
@@ -1028,7 +1041,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/mumbichishimba">
 				<img src="https://avatars.githubusercontent.com/u/28304037?s=72&v=4" width="24" alt="Avatar of mumbichishimba"> mumbichishimba
@@ -1041,7 +1054,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/DamianoSilverhand">
 				<img src="https://avatars.githubusercontent.com/u/35993666?s=72&u=14795b45641fe15299d5253992ff7ae87d2d4b4b&v=4" width="24" alt="Avatar of DamianoSilverhand"> DamianoSilverhand
@@ -1054,7 +1067,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/csikasote">
 				<img src="https://avatars.githubusercontent.com/u/50722142?s=72&u=1e4aa418c5b5f46b7c4043ec314686ab2072037c&v=4" width="24" alt="Avatar of csikasote"> csikasote
@@ -1067,7 +1080,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/ChikoMutandwa">
 				<img src="https://avatars.githubusercontent.com/u/40405823?s=72&v=4" width="24" alt="Avatar of ChikoMutandwa"> ChikoMutandwa
@@ -1080,7 +1093,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/chibuta">
 				<img src="https://avatars.githubusercontent.com/u/23332596?s=72&u=3baa7bc27c75fa85defa27fea6df5d731b6bdc48&v=4" width="24" alt="Avatar of chibuta"> chibuta
@@ -1093,7 +1106,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/DavidTheProgrammer">
 				<img src="https://avatars.githubusercontent.com/u/18518167?s=72&v=4" width="24" alt="Avatar of DavidTheProgrammer"> DavidTheProgrammer
@@ -1106,7 +1119,20 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>79</td>
+		<td>
+			<a href="https://github.com/thisis-Solomon">
+				<img src="https://avatars.githubusercontent.com/u/20889289?s=72&u=e20876b50a330e5229cdb3731432b63a01769ead&v=4" width="24" alt="Avatar of thisis-Solomon"> thisis-Solomon
+			</a><br/>
+			Solomon Njobvu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/iam_njobvu">iam_njobvu</a></td>
+		<td>Lusaka, Zambia.</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/theeomm">
 				<img src="https://avatars.githubusercontent.com/u/19698171?s=72&u=bc44d38a1f9b2d49741265988d82106af619fdc6&v=4" width="24" alt="Avatar of theeomm"> theeomm
@@ -1119,7 +1145,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/kasonde">
 				<img src="https://avatars.githubusercontent.com/u/13610895?s=72&u=e9865f281ec0774ef8aebc8e38c5d3e05cf87219&v=4" width="24" alt="Avatar of kasonde"> kasonde
@@ -1132,7 +1158,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/jayOnechild">
 				<img src="https://avatars.githubusercontent.com/u/55200533?s=72&v=4" width="24" alt="Avatar of jayOnechild"> jayOnechild
@@ -1145,20 +1171,20 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>83</td>
 		<td>
-			<a href="https://github.com/Eathorne2">
-				<img src="https://avatars.githubusercontent.com/u/78135976?s=72&u=675fef4a0d752346993d5e7554d50e88911bb082&v=4" width="24" alt="Avatar of Eathorne2"> Eathorne2
+			<a href="https://github.com/rlyonheart">
+				<img src="https://avatars.githubusercontent.com/u/74001397?s=72&u=9a26720d1d18c86ee2f1ad4bba4f34bde6a4dd53&v=4" width="24" alt="Avatar of rlyonheart"> rlyonheart
 			</a><br/>
-			Eathorne
+			Richard Mwewa
 		</td>
-		<td>Quick Programming </td>
-		<td>No Twitter Username</td>
-		<td>Lusaka, Zambia</td>
-		<td>12</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/rly0nheart">rly0nheart</a></td>
+		<td>Lusaka, Zambia </td>
+		<td>11</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/paulouskunda">
 				<img src="https://avatars.githubusercontent.com/u/28871826?s=72&u=ec2dff4dcbdf5f6f440fee579809887c095a9cbd&v=4" width="24" alt="Avatar of paulouskunda"> paulouskunda
@@ -1171,7 +1197,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/chilu18">
 				<img src="https://avatars.githubusercontent.com/u/7957943?s=72&u=7b5a75d46fc7afef2af6cf6cd3acd46caa9322c6&v=4" width="24" alt="Avatar of chilu18"> chilu18
@@ -1184,7 +1210,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/MissPenny">
 				<img src="https://avatars.githubusercontent.com/u/18164730?s=72&u=7e9b3fd1169814ca98c9d6c898c735e9fc12aa82&v=4" width="24" alt="Avatar of MissPenny"> MissPenny
@@ -1197,7 +1223,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/sdokowe">
 				<img src="https://avatars.githubusercontent.com/u/31492683?s=72&u=5009f4a3286acec96e3fd6a11db64aaa68e1ff29&v=4" width="24" alt="Avatar of sdokowe"> sdokowe
@@ -1210,20 +1236,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>86</td>
-		<td>
-			<a href="https://github.com/thisis-Solomon">
-				<img src="https://avatars.githubusercontent.com/u/20889289?s=72&u=e20876b50a330e5229cdb3731432b63a01769ead&v=4" width="24" alt="Avatar of thisis-Solomon"> thisis-Solomon
-			</a><br/>
-			Solomon Njobvu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/iam_njobvu">iam_njobvu</a></td>
-		<td>Lusaka, Zambia.</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>87</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/Doreen2002">
 				<img src="https://avatars.githubusercontent.com/u/50717922?s=72&v=4" width="24" alt="Avatar of Doreen2002"> Doreen2002
@@ -1236,7 +1249,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/vkanyoze">
 				<img src="https://avatars.githubusercontent.com/u/6734574?s=72&u=aed7ea5996376241ea90a222b0e8065fc7172b58&v=4" width="24" alt="Avatar of vkanyoze"> vkanyoze
@@ -1249,7 +1262,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/heyamjoe">
 				<img src="https://avatars.githubusercontent.com/u/10142403?s=72&u=db066fd01e20ed18d41c5db54035af0a9f661f23&v=4" width="24" alt="Avatar of heyamjoe"> heyamjoe
@@ -1262,7 +1275,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/NatashaChuza">
 				<img src="https://avatars.githubusercontent.com/u/37741247?s=72&u=85386301b13293d1745dcfcba62487abe8261838&v=4" width="24" alt="Avatar of NatashaChuza"> NatashaChuza
@@ -1275,7 +1288,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/ayamlearning">
 				<img src="https://avatars.githubusercontent.com/u/39758486?s=72&u=ed7af615ce2f4d9460769c381565c4421d2f1452&v=4" width="24" alt="Avatar of ayamlearning"> ayamlearning
@@ -1288,7 +1301,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/ck46">
 				<img src="https://avatars.githubusercontent.com/u/15572372?s=72&u=3bf768ebf357bfb75c8d2849bb3e483227588591&v=4" width="24" alt="Avatar of ck46"> ck46
@@ -1301,7 +1314,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/KayLemba">
 				<img src="https://avatars.githubusercontent.com/u/79506105?s=72&u=fc56351a795611be93d0ac7d76cdbe8d6b3808cb&v=4" width="24" alt="Avatar of KayLemba"> KayLemba
@@ -1314,7 +1327,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/dtembo98">
 				<img src="https://avatars.githubusercontent.com/u/37314424?s=72&u=4a95778d244dca365e60757482eb528c8da0b8dc&v=4" width="24" alt="Avatar of dtembo98"> dtembo98
@@ -1327,7 +1340,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>95</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/mwikosinyangwe">
 				<img src="https://avatars.githubusercontent.com/u/88737799?s=72&u=fdc30cddcffb46ed3653db0b28b0c9474f830134&v=4" width="24" alt="Avatar of mwikosinyangwe"> mwikosinyangwe
@@ -1340,7 +1353,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>97</td>
 		<td>
 			<a href="https://github.com/balldash">
 				<img src="https://avatars.githubusercontent.com/u/29160045?s=72&u=06394be6803d00167d79c8173cdee5996d1c68d6&v=4" width="24" alt="Avatar of balldash"> balldash
@@ -1353,7 +1366,20 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>97</td>
+		<td>98</td>
+		<td>
+			<a href="https://github.com/dalitsobotha">
+				<img src="https://avatars.githubusercontent.com/u/48660927?s=72&u=5c061b6f52cf109dbca9a9f1ebc088c7f8f49a36&v=4" width="24" alt="Avatar of dalitsobotha"> dalitsobotha
+			</a><br/>
+			Dalitso Botha
+		</td>
+		<td>Fly High Designs </td>
+		<td><a href="https://twitter.com/jaymiza14">jaymiza14</a></td>
+		<td>Zambia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/patrickchilz">
 				<img src="https://avatars.githubusercontent.com/u/24946222?s=72&u=3047415c44b4fdf1a28e284f582be92858cb7d58&v=4" width="24" alt="Avatar of patrickchilz"> patrickchilz
@@ -1366,20 +1392,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>98</td>
-		<td>
-			<a href="https://github.com/rlyonheart">
-				<img src="https://avatars.githubusercontent.com/u/74001397?s=72&u=9a26720d1d18c86ee2f1ad4bba4f34bde6a4dd53&v=4" width="24" alt="Avatar of rlyonheart"> rlyonheart
-			</a><br/>
-			Richard Mwewa
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/rly0nheart">rly0nheart</a></td>
-		<td>Lusaka, Zambia </td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>99</td>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/aubryll">
 				<img src="https://avatars.githubusercontent.com/u/13038643?s=72&u=e1d31e95c38f6d40adf23fa1e218d9d4a29ee899&v=4" width="24" alt="Avatar of aubryll"> aubryll
@@ -1389,19 +1402,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zambia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
-			<a href="https://github.com/mwanawabangona">
-				<img src="https://avatars.githubusercontent.com/u/66230306?s=72&u=bb9a965efac7659e343d1bded6193fcdf9211bef&v=4" width="24" alt="Avatar of mwanawabangona"> mwanawabangona
-			</a><br/>
-			Ellis Ng'ona
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Ellis_aah">Ellis_aah</a></td>
-		<td>Lusaka, Zambia</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -1420,18 +1420,31 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>102</td>
 		<td>
-			<a href="https://github.com/chandachewe10">
-				<img src="https://avatars.githubusercontent.com/u/82529756?s=72&u=86c39a481739123a5f082702dff4afd3c05c0c7e&v=4" width="24" alt="Avatar of chandachewe10"> chandachewe10
+			<a href="https://github.com/mwanawabangona">
+				<img src="https://avatars.githubusercontent.com/u/66230306?s=72&u=bb9a965efac7659e343d1bded6193fcdf9211bef&v=4" width="24" alt="Avatar of mwanawabangona"> mwanawabangona
 			</a><br/>
-			Chanda Chewe
+			Ellis Ng'ona
 		</td>
-		<td>Internet Entrepreneur </td>
-		<td><a href="https://twitter.com/chandachewe10">chandachewe10</a></td>
-		<td>Zambia</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Ellis_aah">Ellis_aah</a></td>
+		<td>Lusaka, Zambia</td>
 		<td>8</td>
 	</tr>
 	<tr>
 		<td>103</td>
+		<td>
+			<a href="https://github.com/chilusoft">
+				<img src="https://avatars.githubusercontent.com/u/28925825?s=72&v=4" width="24" alt="Avatar of chilusoft"> chilusoft
+			</a><br/>
+			Chilusoft
+		</td>
+		<td>Chilusoft Engineering Corporation </td>
+		<td>No Twitter Username</td>
+		<td>Lusaka, Zambia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>104</td>
 		<td>
 			<a href="https://github.com/betan9ne">
 				<img src="https://avatars.githubusercontent.com/u/3959011?s=72&v=4" width="24" alt="Avatar of betan9ne"> betan9ne
@@ -1444,7 +1457,20 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>104</td>
+		<td>105</td>
+		<td>
+			<a href="https://github.com/chandachewe10">
+				<img src="https://avatars.githubusercontent.com/u/82529756?s=72&u=86c39a481739123a5f082702dff4afd3c05c0c7e&v=4" width="24" alt="Avatar of chandachewe10"> chandachewe10
+			</a><br/>
+			Chanda Chewe
+		</td>
+		<td>Internet Entrepreneur </td>
+		<td><a href="https://twitter.com/chandachewe10">chandachewe10</a></td>
+		<td>Zambia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/eddycodes">
 				<img src="https://avatars.githubusercontent.com/u/23413452?s=72&u=b9ebdcf82cf263857ce4989cc02034bf8336a089&v=4" width="24" alt="Avatar of eddycodes"> eddycodes
@@ -1457,7 +1483,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>105</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/guima-seifer">
 				<img src="https://avatars.githubusercontent.com/u/22411630?s=72&u=a7ac779cc77bb75e1d4946d71a4d5ddddd5d78f1&v=4" width="24" alt="Avatar of guima-seifer"> guima-seifer
@@ -1470,20 +1496,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>106</td>
-		<td>
-			<a href="https://github.com/dalitsobotha">
-				<img src="https://avatars.githubusercontent.com/u/48660927?s=72&u=5c061b6f52cf109dbca9a9f1ebc088c7f8f49a36&v=4" width="24" alt="Avatar of dalitsobotha"> dalitsobotha
-			</a><br/>
-			Dalitso Botha
-		</td>
-		<td>Fly High Designs </td>
-		<td><a href="https://twitter.com/jaymiza14">jaymiza14</a></td>
-		<td>Zambia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>107</td>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/MakuSimz">
 				<img src="https://avatars.githubusercontent.com/u/20474462?s=72&u=f6d330aab0bf93321a088254b22077e7b8ae76fc&v=4" width="24" alt="Avatar of MakuSimz"> MakuSimz
@@ -1496,7 +1509,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/samzoom">
 				<img src="https://avatars.githubusercontent.com/u/4005021?s=72&u=17c491ce348319fcdd6e96768bbd4a7517229553&v=4" width="24" alt="Avatar of samzoom"> samzoom
@@ -1509,7 +1522,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/Pldaniel">
 				<img src="https://avatars.githubusercontent.com/u/43818136?s=72&u=b772fc3977399df5d5da0a7389005b43604b74b7&v=4" width="24" alt="Avatar of Pldaniel"> Pldaniel
@@ -1522,7 +1535,20 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>111</td>
+		<td>
+			<a href="https://github.com/JEFFKAY16">
+				<img src="https://avatars.githubusercontent.com/u/84200026?s=72&u=33b6453e534f6b94a009f800ba4fe516fd132831&v=4" width="24" alt="Avatar of JEFFKAY16"> JEFFKAY16
+			</a><br/>
+			Jeff Kayombo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jeff_kayombo">jeff_kayombo</a></td>
+		<td>Lusaka Zambia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/ItIsEntropy">
 				<img src="https://avatars.githubusercontent.com/u/29229275?s=72&u=fadabc2a5901596ca8dd47db4fb2e0dd1add5d7d&v=4" width="24" alt="Avatar of ItIsEntropy"> ItIsEntropy
@@ -1535,7 +1561,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/mwelwankuta">
 				<img src="https://avatars.githubusercontent.com/u/64831126?s=72&u=bb9effbe8f93288489b6e281cf0ed9e9f33f57b1&v=4" width="24" alt="Avatar of mwelwankuta"> mwelwankuta
@@ -1548,7 +1574,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/GiftBanda">
 				<img src="https://avatars.githubusercontent.com/u/43656421?s=72&u=329aa1d9e4a61cfc3e7e309b46275ce6a71c9179&v=4" width="24" alt="Avatar of GiftBanda"> GiftBanda
@@ -1561,7 +1587,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/chileshemartin">
 				<img src="https://avatars.githubusercontent.com/u/15169700?s=72&u=67d85c8ed3476fff98575582ffdd5285f60734e9&v=4" width="24" alt="Avatar of chileshemartin"> chileshemartin
@@ -1574,7 +1600,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/sokogfb">
 				<img src="https://avatars.githubusercontent.com/u/32112696?s=72&u=f6374fc3477ff2447917455add947bf267e8236f&v=4" width="24" alt="Avatar of sokogfb"> sokogfb
@@ -1587,7 +1613,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>117</td>
 		<td>
 			<a href="https://github.com/nalakwenda">
 				<img src="https://avatars.githubusercontent.com/u/47489747?s=72&v=4" width="24" alt="Avatar of nalakwenda"> nalakwenda
@@ -1600,20 +1626,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/chilusoft">
-				<img src="https://avatars.githubusercontent.com/u/28925825?s=72&v=4" width="24" alt="Avatar of chilusoft"> chilusoft
-			</a><br/>
-			Chilusoft
-		</td>
-		<td>Chilusoft Engineering Corporation </td>
-		<td>No Twitter Username</td>
-		<td>Lusaka, Zambia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>117</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/techZM">
 				<img src="https://avatars.githubusercontent.com/u/15210796?s=72&u=0a2c09c57fbccf8fe94f554c787bb9b927386f28&v=4" width="24" alt="Avatar of techZM"> techZM
@@ -1626,7 +1639,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/johnSoneka">
 				<img src="https://avatars.githubusercontent.com/u/44944737?s=72&u=6b5a23529ee3046282c3740fec8d94a0359d2f6c&v=4" width="24" alt="Avatar of johnSoneka"> johnSoneka
@@ -1639,7 +1652,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/Aluisyo">
 				<img src="https://avatars.githubusercontent.com/u/11541812?s=72&u=3bb80b74808a6266df309741facd948ba247bbe9&v=4" width="24" alt="Avatar of Aluisyo"> Aluisyo
@@ -1652,7 +1665,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/pickanapp">
 				<img src="https://avatars.githubusercontent.com/u/40536200?s=72&u=3df2821e257e68d6e0eba7d3cf34bd6439d423bc&v=4" width="24" alt="Avatar of pickanapp"> pickanapp
@@ -1665,7 +1678,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/Nchimzy708">
 				<img src="https://avatars.githubusercontent.com/u/47819858?s=72&u=b1af508aafb961c7435e38e615b2a42a8de03adc&v=4" width="24" alt="Avatar of Nchimzy708"> Nchimzy708
@@ -1678,7 +1691,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/MwanahamuntuStarr">
 				<img src="https://avatars.githubusercontent.com/u/49842095?s=72&u=3b8abfb47a75bedb171e9025c2e16f908c9d4c0d&v=4" width="24" alt="Avatar of MwanahamuntuStarr"> MwanahamuntuStarr
@@ -1691,7 +1704,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/respawnHacks">
 				<img src="https://avatars.githubusercontent.com/u/56764919?s=72&u=9d7670b0f4209613719b9a8409cc2609b8cb1cd2&v=4" width="24" alt="Avatar of respawnHacks"> respawnHacks
@@ -1704,7 +1717,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/JEREMIAHPHIRI">
 				<img src="https://avatars.githubusercontent.com/u/7679788?s=72&u=c4d64fbf88ecd1bf54ac203e2dc4eee6e261eb3b&v=4" width="24" alt="Avatar of JEREMIAHPHIRI"> JEREMIAHPHIRI
@@ -1717,7 +1730,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/cazterk">
 				<img src="https://avatars.githubusercontent.com/u/48860145?s=72&u=89278abc5099967ed64e56be3590472eb8db3338&v=4" width="24" alt="Avatar of cazterk"> cazterk
@@ -1730,7 +1743,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/CodeK1ng">
 				<img src="https://avatars.githubusercontent.com/u/39174100?s=72&v=4" width="24" alt="Avatar of CodeK1ng"> CodeK1ng
@@ -1743,7 +1756,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/Kenmind">
 				<img src="https://avatars.githubusercontent.com/u/62250484?s=72&u=49a77131df77bcd989e32f8a0d49d235fb6a6128&v=4" width="24" alt="Avatar of Kenmind"> Kenmind
@@ -1753,19 +1766,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kenned_sibeso">kenned_sibeso</a></td>
 		<td>Kafue, Lusaka Zambia</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>128</td>
-		<td>
-			<a href="https://github.com/JEFFKAY16">
-				<img src="https://avatars.githubusercontent.com/u/84200026?s=72&u=33b6453e534f6b94a009f800ba4fe516fd132831&v=4" width="24" alt="Avatar of JEFFKAY16"> JEFFKAY16
-			</a><br/>
-			Jeff Kayombo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jeff_kayombo">jeff_kayombo</a></td>
-		<td>Lusaka Zambia</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -1953,19 +1953,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>143</td>
 		<td>
-			<a href="https://github.com/jackinthewoods">
-				<img src="https://avatars.githubusercontent.com/u/24859250?s=72&u=33773c7670ee84319ea6f58d1876acda083ef04b&v=4" width="24" alt="Avatar of jackinthewoods"> jackinthewoods
-			</a><br/>
-			Jack Woods
-		</td>
-		<td>Codewood </td>
-		<td>No Twitter Username</td>
-		<td>lusaka, Zambia</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
 			<a href="https://github.com/JustEthelElla">
 				<img src="https://avatars.githubusercontent.com/u/1098667?s=72&v=4" width="24" alt="Avatar of JustEthelElla"> JustEthelElla
 			</a><br/>
@@ -1974,6 +1961,19 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lusaka, Zambia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
+			<a href="https://github.com/jackinthewoods">
+				<img src="https://avatars.githubusercontent.com/u/24859250?s=72&u=33773c7670ee84319ea6f58d1876acda083ef04b&v=4" width="24" alt="Avatar of jackinthewoods"> jackinthewoods
+			</a><br/>
+			Jack Woods
+		</td>
+		<td>Codewood </td>
+		<td>No Twitter Username</td>
+		<td>lusaka, Zambia</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -2031,6 +2031,19 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>149</td>
 		<td>
+			<a href="https://github.com/bokele">
+				<img src="https://avatars.githubusercontent.com/u/20165790?s=72&u=70e65a71d10fcb75888839b64ca1951d0c48f7ab&v=4" width="24" alt="Avatar of bokele"> bokele
+			</a><br/>
+			Bokele Wakiza Franck
+		</td>
+		<td>Uvatech </td>
+		<td><a href="https://twitter.com/bkwakiza">bkwakiza</a></td>
+		<td>zambia-Lusaka</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>150</td>
+		<td>
 			<a href="https://github.com/Atupele4">
 				<img src="https://avatars.githubusercontent.com/u/2271863?s=72&u=694e7f227067134395d336b31ec8d5efc2792fda&v=4" width="24" alt="Avatar of Atupele4"> Atupele4
 			</a><br/>
@@ -2042,7 +2055,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/chavic">
 				<img src="https://avatars.githubusercontent.com/u/43620557?s=72&u=3ecceb15f41e175b4411c47031fa303ad3d0f0b3&v=4" width="24" alt="Avatar of chavic"> chavic
@@ -2055,7 +2068,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/brucetruth">
 				<img src="https://avatars.githubusercontent.com/u/40401943?s=72&u=7f5ae2127956b01d7cf743f6a1f8cb48e1759a22&v=4" width="24" alt="Avatar of brucetruth"> brucetruth
@@ -2068,7 +2081,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/Sobhuxa">
 				<img src="https://avatars.githubusercontent.com/u/39050260?s=72&u=c594b751b2ada3f2931932f129f6d6b9152a5b1f&v=4" width="24" alt="Avatar of Sobhuxa"> Sobhuxa
@@ -2081,7 +2094,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/chimukaC7">
 				<img src="https://avatars.githubusercontent.com/u/26253688?s=72&u=323c930dd906ec0c18ac6d36dc22b758ebe4d64e&v=4" width="24" alt="Avatar of chimukaC7"> chimukaC7
@@ -2094,7 +2107,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/domitechnshimba">
 				<img src="https://avatars.githubusercontent.com/u/25669982?s=72&u=4cf0068b45bd3f7be2b138426c9f50c79753822f&v=4" width="24" alt="Avatar of domitechnshimba"> domitechnshimba
@@ -2107,7 +2120,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/marksikaundi">
 				<img src="https://avatars.githubusercontent.com/u/58531374?s=72&u=455005625ebc05b68021d9c1066ed2abb9cc0cb0&v=4" width="24" alt="Avatar of marksikaundi"> marksikaundi
@@ -2117,19 +2130,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>Cs60 Apa </td>
 		<td><a href="https://twitter.com/Alisikaundi">Alisikaundi</a></td>
 		<td>Lusaka Zambia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>156</td>
-		<td>
-			<a href="https://github.com/Bernard-Namangala">
-				<img src="https://avatars.githubusercontent.com/u/58230307?s=72&u=40d76fbed2e7e427dd5bb1356b1251f0f4ab1867&v=4" width="24" alt="Avatar of Bernard-Namangala"> Bernard-Namangala
-			</a><br/>
-			Bernard Namangala
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/BNamangala">BNamangala</a></td>
-		<td>Zambia</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -2148,6 +2148,19 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>158</td>
 		<td>
+			<a href="https://github.com/Bernard-Namangala">
+				<img src="https://avatars.githubusercontent.com/u/58230307?s=72&u=40d76fbed2e7e427dd5bb1356b1251f0f4ab1867&v=4" width="24" alt="Avatar of Bernard-Namangala"> Bernard-Namangala
+			</a><br/>
+			Bernard Namangala
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/BNamangala">BNamangala</a></td>
+		<td>Zambia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>159</td>
+		<td>
 			<a href="https://github.com/Zoonadi">
 				<img src="https://avatars.githubusercontent.com/u/53826382?s=72&u=9a3283f08677a0f264a18ff74930cfdbdc7daaaf&v=4" width="24" alt="Avatar of Zoonadi"> Zoonadi
 			</a><br/>
@@ -2159,7 +2172,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/thomasmunguya">
 				<img src="https://avatars.githubusercontent.com/u/48857366?s=72&u=4e9f1e84f8500a7e7b5a26f7d55a72c098810980&v=4" width="24" alt="Avatar of thomasmunguya"> thomasmunguya
@@ -2172,7 +2185,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/chipimo">
 				<img src="https://avatars.githubusercontent.com/u/9536443?s=72&u=e87be7264f620c80798cef0dd383c21e1f8d94bb&v=4" width="24" alt="Avatar of chipimo"> chipimo
@@ -2182,19 +2195,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>Software Gaints </td>
 		<td>No Twitter Username</td>
 		<td>zambia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>161</td>
-		<td>
-			<a href="https://github.com/AndreLesa">
-				<img src="https://avatars.githubusercontent.com/u/3635843?s=72&u=4f871312e56ad8a04205d267f268379db53f5d91&v=4" width="24" alt="Avatar of AndreLesa"> AndreLesa
-			</a><br/>
-			Andre Lesa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lusaka, Zambia</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -2213,6 +2213,32 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>163</td>
 		<td>
+			<a href="https://github.com/AndreLesa">
+				<img src="https://avatars.githubusercontent.com/u/3635843?s=72&u=4f871312e56ad8a04205d267f268379db53f5d91&v=4" width="24" alt="Avatar of AndreLesa"> AndreLesa
+			</a><br/>
+			Andre Lesa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lusaka, Zambia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>164</td>
+		<td>
+			<a href="https://github.com/genthegreat">
+				<img src="https://avatars.githubusercontent.com/u/32097330?s=72&u=ef8348ef416eca751d1c17b2a44eebbe64834ae3&v=4" width="24" alt="Avatar of genthegreat"> genthegreat
+			</a><br/>
+			Ezra Gonyuie
+		</td>
+		<td>@adsonads  </td>
+		<td><a href="https://twitter.com/princekwesi7">princekwesi7</a></td>
+		<td>Zambia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>165</td>
+		<td>
 			<a href="https://github.com/musukwamoshi">
 				<img src="https://avatars.githubusercontent.com/u/29588163?s=72&u=64a2d5339eb491d5bc0487a33cb5bf0546c7dd8f&v=4" width="24" alt="Avatar of musukwamoshi"> musukwamoshi
 			</a><br/>
@@ -2224,7 +2250,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/Tazho-Bentley">
 				<img src="https://avatars.githubusercontent.com/u/18678215?s=72&u=43b6ddf43f9072051f4904ace047aeb35e8cff6f&v=4" width="24" alt="Avatar of Tazho-Bentley"> Tazho-Bentley
@@ -2237,7 +2263,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/tmbaleni">
 				<img src="https://avatars.githubusercontent.com/u/22085301?s=72&u=dba305cb96ebe8b0bf6cb087f266f233b9b21a24&v=4" width="24" alt="Avatar of tmbaleni"> tmbaleni
@@ -2250,7 +2276,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/Kawele1">
 				<img src="https://avatars.githubusercontent.com/u/24222646?s=72&u=07d820bf95dc734c7d2698e00ead4c0dee7b5446&v=4" width="24" alt="Avatar of Kawele1"> Kawele1
@@ -2263,7 +2289,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/babalela">
 				<img src="https://avatars.githubusercontent.com/u/183521?s=72&v=4" width="24" alt="Avatar of babalela"> babalela
@@ -2276,7 +2302,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/Mugabewilliam">
 				<img src="https://avatars.githubusercontent.com/u/45740156?s=72&u=d8e5d4b5f9637341eada570e21ef7dd73f4a1326&v=4" width="24" alt="Avatar of Mugabewilliam"> Mugabewilliam
@@ -2289,20 +2315,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>169</td>
-		<td>
-			<a href="https://github.com/bokele">
-				<img src="https://avatars.githubusercontent.com/u/20165790?s=72&u=70e65a71d10fcb75888839b64ca1951d0c48f7ab&v=4" width="24" alt="Avatar of bokele"> bokele
-			</a><br/>
-			Bokele Wakiza Franck
-		</td>
-		<td>Uvatech </td>
-		<td><a href="https://twitter.com/bkwakiza">bkwakiza</a></td>
-		<td>zambia-Lusaka</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>170</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/Busiwa24">
 				<img src="https://avatars.githubusercontent.com/u/82082060?s=72&u=67fd4ff547ed0d932505afff607f0075d5f2e8b3&v=4" width="24" alt="Avatar of Busiwa24"> Busiwa24
@@ -2315,7 +2328,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/Raphaelmbewe">
 				<img src="https://avatars.githubusercontent.com/u/66825194?s=72&u=b4fb3d0443299319361ff87100c3dd41685cd07a&v=4" width="24" alt="Avatar of Raphaelmbewe"> Raphaelmbewe
@@ -2328,7 +2341,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/Kazion500">
 				<img src="https://avatars.githubusercontent.com/u/64147010?s=72&u=dec950a6f4c8d97cc2d93fd77b68d2c2a7a19299&v=4" width="24" alt="Avatar of Kazion500"> Kazion500
@@ -2337,19 +2350,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lusaka, Zambia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
-			<a href="https://github.com/LutLas">
-				<img src="https://avatars.githubusercontent.com/u/50748557?s=72&u=6cafebd039c878fc3909c39778ad7aaffde136c9&v=4" width="24" alt="Avatar of LutLas"> LutLas
-			</a><br/>
-			LutLastic Fantastic
-		</td>
-		<td>Lutlas@github.com </td>
-		<td><a href="https://twitter.com/LutLasMuyoba">LutLasMuyoba</a></td>
 		<td>Lusaka, Zambia</td>
 		<td>4</td>
 	</tr>
@@ -2369,6 +2369,19 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>175</td>
 		<td>
+			<a href="https://github.com/LutLas">
+				<img src="https://avatars.githubusercontent.com/u/50748557?s=72&u=6cafebd039c878fc3909c39778ad7aaffde136c9&v=4" width="24" alt="Avatar of LutLas"> LutLas
+			</a><br/>
+			LutLastic Fantastic
+		</td>
+		<td>Lutlas@github.com </td>
+		<td><a href="https://twitter.com/LutLasMuyoba">LutLasMuyoba</a></td>
+		<td>Lusaka, Zambia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>176</td>
+		<td>
 			<a href="https://github.com/obrian96">
 				<img src="https://avatars.githubusercontent.com/u/45210100?s=72&u=5be1e93b66deeef49f091a20780098d2dd36484e&v=4" width="24" alt="Avatar of obrian96"> obrian96
 			</a><br/>
@@ -2380,7 +2393,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/tobiasmakai">
 				<img src="https://avatars.githubusercontent.com/u/25362528?s=72&u=014b57ddf6fa46469992179e2ba1d9255be2692f&v=4" width="24" alt="Avatar of tobiasmakai"> tobiasmakai
@@ -2393,7 +2406,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/LLOYDLWEENDO">
 				<img src="https://avatars.githubusercontent.com/u/26508325?s=72&u=3b78ffb833a691e8335507efdcee97bbb3d3ec4c&v=4" width="24" alt="Avatar of LLOYDLWEENDO"> LLOYDLWEENDO
@@ -2406,7 +2419,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/StanCheezy">
 				<img src="https://avatars.githubusercontent.com/u/72435609?s=72&v=4" width="24" alt="Avatar of StanCheezy"> StanCheezy
@@ -2419,7 +2432,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/martintembo1">
 				<img src="https://avatars.githubusercontent.com/u/43497986?s=72&v=4" width="24" alt="Avatar of martintembo1"> martintembo1
@@ -2432,7 +2445,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/willymilimo">
 				<img src="https://avatars.githubusercontent.com/u/13065578?s=72&u=eba21eef4351044996bc84224e61339f34c20ef4&v=4" width="24" alt="Avatar of willymilimo"> willymilimo
@@ -2442,19 +2455,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>Zamtel </td>
 		<td><a href="https://twitter.com/willymilimo">willymilimo</a></td>
 		<td>Lusaka, Zambia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>181</td>
-		<td>
-			<a href="https://github.com/genthegreat">
-				<img src="https://avatars.githubusercontent.com/u/32097330?s=72&u=ef8348ef416eca751d1c17b2a44eebbe64834ae3&v=4" width="24" alt="Avatar of genthegreat"> genthegreat
-			</a><br/>
-			Ezra Gonyuie
-		</td>
-		<td>@adsonads  </td>
-		<td><a href="https://twitter.com/princekwesi7">princekwesi7</a></td>
-		<td>Zambia</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -2564,19 +2564,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>190</td>
 		<td>
-			<a href="https://github.com/ShadeB">
-				<img src="https://avatars.githubusercontent.com/u/22363768?s=72&u=3fef28c465bb7205c635804db8419079b685d00a&v=4" width="24" alt="Avatar of ShadeB"> ShadeB
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Shadeb_Banda">Shadeb_Banda</a></td>
-		<td>Lusaka, Zambia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>191</td>
-		<td>
 			<a href="https://github.com/Serge-N">
 				<img src="https://avatars.githubusercontent.com/u/51508252?s=72&u=a659f66e7d0894ce32bdf93b6de94995f695643a&v=4" width="24" alt="Avatar of Serge-N"> Serge-N
 			</a><br/>
@@ -2584,6 +2571,19 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		</td>
 		<td>Freelancer </td>
 		<td>No Twitter Username</td>
+		<td>Lusaka, Zambia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>191</td>
+		<td>
+			<a href="https://github.com/ShadeB">
+				<img src="https://avatars.githubusercontent.com/u/22363768?s=72&u=3fef28c465bb7205c635804db8419079b685d00a&v=4" width="24" alt="Avatar of ShadeB"> ShadeB
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Shadeb_Banda">Shadeb_Banda</a></td>
 		<td>Lusaka, Zambia</td>
 		<td>3</td>
 	</tr>
@@ -2681,6 +2681,19 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>199</td>
 		<td>
+			<a href="https://github.com/DalitsoSakala">
+				<img src="https://avatars.githubusercontent.com/u/40007389?s=72&u=27d6b36bb05024926e723188d21f4bc4f0504d03&v=4" width="24" alt="Avatar of DalitsoSakala"> DalitsoSakala
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/emethari">emethari</a></td>
+		<td>Chingola, Zambia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
 			<a href="https://github.com/andrew89-zm">
 				<img src="https://avatars.githubusercontent.com/u/12873542?s=72&u=3080f7923b172dd948c2fed5765d092962643518&v=4" width="24" alt="Avatar of andrew89-zm"> andrew89-zm
 			</a><br/>
@@ -2692,7 +2705,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/MarcusMwaba">
 				<img src="https://avatars.githubusercontent.com/u/90981152?s=72&u=f9826199c5ef7a20488a5f05ec23336010a9b4eb&v=4" width="24" alt="Avatar of MarcusMwaba"> MarcusMwaba
@@ -2702,19 +2715,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/purvischewe">purvischewe</a></td>
 		<td>LUSAKA ZAMBIA</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>201</td>
-		<td>
-			<a href="https://github.com/moonga-tech">
-				<img src="https://avatars.githubusercontent.com/u/72766817?s=72&v=4" width="24" alt="Avatar of moonga-tech"> moonga-tech
-			</a><br/>
-			Moonga Manongo
-		</td>
-		<td>Mcairstudios & Tech </td>
-		<td><a href="https://twitter.com/moongamanongo">moongamanongo</a></td>
-		<td>Zambia</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -2733,6 +2733,19 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>203</td>
 		<td>
+			<a href="https://github.com/moonga-tech">
+				<img src="https://avatars.githubusercontent.com/u/72766817?s=72&v=4" width="24" alt="Avatar of moonga-tech"> moonga-tech
+			</a><br/>
+			Moonga Manongo
+		</td>
+		<td>Mcairstudios & Tech </td>
+		<td><a href="https://twitter.com/moongamanongo">moongamanongo</a></td>
+		<td>Zambia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
 			<a href="https://github.com/MichelleMayambu">
 				<img src="https://avatars.githubusercontent.com/u/43130998?s=72&v=4" width="24" alt="Avatar of MichelleMayambu"> MichelleMayambu
 			</a><br/>
@@ -2744,7 +2757,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/johnmfula">
 				<img src="https://avatars.githubusercontent.com/u/59572987?s=72&u=c7024511c02484a6b9edac9c037538c49e6a657d&v=4" width="24" alt="Avatar of johnmfula"> johnmfula
@@ -2757,7 +2770,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/happychikwa">
 				<img src="https://avatars.githubusercontent.com/u/34376364?s=72&v=4" width="24" alt="Avatar of happychikwa"> happychikwa
@@ -2770,7 +2783,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/KapyaB">
 				<img src="https://avatars.githubusercontent.com/u/46203252?s=72&v=4" width="24" alt="Avatar of KapyaB"> KapyaB
@@ -2783,7 +2796,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/Bubenshi-Mike">
 				<img src="https://avatars.githubusercontent.com/u/47535945?s=72&u=e66cb86a825570ccf6b3d4e3873452959c28ecff&v=4" width="24" alt="Avatar of Bubenshi-Mike"> Bubenshi-Mike
@@ -2796,7 +2809,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/MacEdition">
 				<img src="https://avatars.githubusercontent.com/u/60291392?s=72&u=e69850ae9df95d6690a006a2465dbe219dea4f45&v=4" width="24" alt="Avatar of MacEdition"> MacEdition
@@ -2809,7 +2822,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/honestphiri">
 				<img src="https://avatars.githubusercontent.com/u/23488106?s=72&u=331dccd76ad9f79f1bd5ff6e6923ebaa0b29a7ba&v=4" width="24" alt="Avatar of honestphiri"> honestphiri
@@ -2822,7 +2835,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>210</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/QueenMutinta">
 				<img src="https://avatars.githubusercontent.com/u/74215147?s=72&v=4" width="24" alt="Avatar of QueenMutinta"> QueenMutinta
@@ -2835,7 +2848,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/Mwilembo">
 				<img src="https://avatars.githubusercontent.com/u/23274733?s=72&u=272c54bae0547c1cce8783a088fdb12ed0579935&v=4" width="24" alt="Avatar of Mwilembo"> Mwilembo
@@ -2848,150 +2861,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>212</td>
-		<td>
-			<a href="https://github.com/BrianKash">
-				<img src="https://avatars.githubusercontent.com/u/26645449?s=72&u=ed53faceb675f31ddd3de0b75cd3f3033117e745&v=4" width="24" alt="Avatar of BrianKash"> BrianKash
-			</a><br/>
-			Brian Kashiwa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zambia </td>
-		<td>3</td>
-	</tr>
-	<tr>
 		<td>213</td>
-		<td>
-			<a href="https://github.com/ChilaKasonde">
-				<img src="https://avatars.githubusercontent.com/u/11228076?s=72&u=fc914bc19bdb660c9c6c89c06e939ae522f647a1&v=4" width="24" alt="Avatar of ChilaKasonde"> ChilaKasonde
-			</a><br/>
-			No Name
-		</td>
-		<td>Devguilds Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Lusaka, Zambia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>214</td>
-		<td>
-			<a href="https://github.com/rkchellah">
-				<img src="https://avatars.githubusercontent.com/u/44195939?s=72&u=3e4b44c0e671866adf646e017f9a4f4a5643f3c9&v=4" width="24" alt="Avatar of rkchellah"> rkchellah
-			</a><br/>
-			Chella Kamina
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zambia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>215</td>
-		<td>
-			<a href="https://github.com/judith-bwembya">
-				<img src="https://avatars.githubusercontent.com/u/28217979?s=72&v=4" width="24" alt="Avatar of judith-bwembya"> judith-bwembya
-			</a><br/>
-			Judith Nyasha Bwembya
-		</td>
-		<td>Synclabs </td>
-		<td>No Twitter Username</td>
-		<td>Lusaka, Zambia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>216</td>
-		<td>
-			<a href="https://github.com/Mutalenic">
-				<img src="https://avatars.githubusercontent.com/u/19844175?s=72&u=395eff6e1d8496ff4fc5ad14cb3d581ee07ad134&v=4" width="24" alt="Avatar of Mutalenic"> Mutalenic
-			</a><br/>
-			Nicholas Mutale
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zambia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>217</td>
-		<td>
-			<a href="https://github.com/mpszambia">
-				<img src="https://avatars.githubusercontent.com/u/6462056?s=72&u=e5139d32f416bc18bdeae302868add4bcb096954&v=4" width="24" alt="Avatar of mpszambia"> mpszambia
-			</a><br/>
-			Mobile Payment Solutions
-		</td>
-		<td>Mobile Payment Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Lusaka, Zambia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>218</td>
-		<td>
-			<a href="https://github.com/chishiba">
-				<img src="https://avatars.githubusercontent.com/u/7238788?s=72&v=4" width="24" alt="Avatar of chishiba"> chishiba
-			</a><br/>
-			chishiba
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lusaka, Zambia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>219</td>
-		<td>
-			<a href="https://github.com/Lontia">
-				<img src="https://avatars.githubusercontent.com/u/18487908?s=72&v=4" width="24" alt="Avatar of Lontia"> Lontia
-			</a><br/>
-			Lontia
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zambia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>220</td>
-		<td>
-			<a href="https://github.com/doriankoch">
-				<img src="https://avatars.githubusercontent.com/u/21198529?s=72&v=4" width="24" alt="Avatar of doriankoch"> doriankoch
-			</a><br/>
-			Dorian Koch
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zambia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>221</td>
-		<td>
-			<a href="https://github.com/getrudeson">
-				<img src="https://avatars.githubusercontent.com/u/48964020?s=72&u=117cfe7917c0c372bd0a0f27ed67988b24af8553&v=4" width="24" alt="Avatar of getrudeson"> getrudeson
-			</a><br/>
-			Raphael chuswe
-		</td>
-		<td>Visionary Minds  </td>
-		<td><a href="https://twitter.com/getrudeson">getrudeson</a></td>
-		<td>Zambia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>222</td>
-		<td>
-			<a href="https://github.com/geradito">
-				<img src="https://avatars.githubusercontent.com/u/36116025?s=72&u=0d00d51c92992d24a8653b500d6e5f42e5f032b0&v=4" width="24" alt="Avatar of geradito"> geradito
-			</a><br/>
-			Gerald Chinyama
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zambia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>223</td>
 		<td>
 			<a href="https://github.com/Kondwani23">
 				<img src="https://avatars.githubusercontent.com/u/35561426?s=72&u=5a7ab98a58e45440a0e1e42ead4b481f018d0d46&v=4" width="24" alt="Avatar of Kondwani23"> Kondwani23
@@ -3004,7 +2874,150 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
+		<td>214</td>
+		<td>
+			<a href="https://github.com/BrianKash">
+				<img src="https://avatars.githubusercontent.com/u/26645449?s=72&u=ed53faceb675f31ddd3de0b75cd3f3033117e745&v=4" width="24" alt="Avatar of BrianKash"> BrianKash
+			</a><br/>
+			Brian Kashiwa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zambia </td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
+			<a href="https://github.com/ChilaKasonde">
+				<img src="https://avatars.githubusercontent.com/u/11228076?s=72&u=fc914bc19bdb660c9c6c89c06e939ae522f647a1&v=4" width="24" alt="Avatar of ChilaKasonde"> ChilaKasonde
+			</a><br/>
+			No Name
+		</td>
+		<td>Devguilds Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Lusaka, Zambia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>216</td>
+		<td>
+			<a href="https://github.com/rkchellah">
+				<img src="https://avatars.githubusercontent.com/u/44195939?s=72&u=3e4b44c0e671866adf646e017f9a4f4a5643f3c9&v=4" width="24" alt="Avatar of rkchellah"> rkchellah
+			</a><br/>
+			Chella Kamina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zambia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
+			<a href="https://github.com/judith-bwembya">
+				<img src="https://avatars.githubusercontent.com/u/28217979?s=72&v=4" width="24" alt="Avatar of judith-bwembya"> judith-bwembya
+			</a><br/>
+			Judith Nyasha Bwembya
+		</td>
+		<td>Synclabs </td>
+		<td>No Twitter Username</td>
+		<td>Lusaka, Zambia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
+			<a href="https://github.com/Mutalenic">
+				<img src="https://avatars.githubusercontent.com/u/19844175?s=72&u=395eff6e1d8496ff4fc5ad14cb3d581ee07ad134&v=4" width="24" alt="Avatar of Mutalenic"> Mutalenic
+			</a><br/>
+			Nicholas Mutale
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zambia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>
+			<a href="https://github.com/mpszambia">
+				<img src="https://avatars.githubusercontent.com/u/6462056?s=72&u=e5139d32f416bc18bdeae302868add4bcb096954&v=4" width="24" alt="Avatar of mpszambia"> mpszambia
+			</a><br/>
+			Mobile Payment Solutions
+		</td>
+		<td>Mobile Payment Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Lusaka, Zambia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>220</td>
+		<td>
+			<a href="https://github.com/chishiba">
+				<img src="https://avatars.githubusercontent.com/u/7238788?s=72&v=4" width="24" alt="Avatar of chishiba"> chishiba
+			</a><br/>
+			chishiba
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lusaka, Zambia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>221</td>
+		<td>
+			<a href="https://github.com/Lontia">
+				<img src="https://avatars.githubusercontent.com/u/18487908?s=72&v=4" width="24" alt="Avatar of Lontia"> Lontia
+			</a><br/>
+			Lontia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zambia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>
+			<a href="https://github.com/doriankoch">
+				<img src="https://avatars.githubusercontent.com/u/21198529?s=72&v=4" width="24" alt="Avatar of doriankoch"> doriankoch
+			</a><br/>
+			Dorian Koch
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zambia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>223</td>
+		<td>
+			<a href="https://github.com/getrudeson">
+				<img src="https://avatars.githubusercontent.com/u/48964020?s=72&u=117cfe7917c0c372bd0a0f27ed67988b24af8553&v=4" width="24" alt="Avatar of getrudeson"> getrudeson
+			</a><br/>
+			Raphael chuswe
+		</td>
+		<td>Visionary Minds  </td>
+		<td><a href="https://twitter.com/getrudeson">getrudeson</a></td>
+		<td>Zambia</td>
+		<td>3</td>
+	</tr>
+	<tr>
 		<td>224</td>
+		<td>
+			<a href="https://github.com/geradito">
+				<img src="https://avatars.githubusercontent.com/u/36116025?s=72&u=0d00d51c92992d24a8653b500d6e5f42e5f032b0&v=4" width="24" alt="Avatar of geradito"> geradito
+			</a><br/>
+			Gerald Chinyama
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zambia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/reachmilumbe">
 				<img src="https://avatars.githubusercontent.com/u/29390386?s=72&u=0afbb82de019a59f9359608499a5e149c6dd2822&v=4" width="24" alt="Avatar of reachmilumbe"> reachmilumbe
@@ -3017,7 +3030,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/a1inani">
 				<img src="https://avatars.githubusercontent.com/u/4775245?s=72&v=4" width="24" alt="Avatar of a1inani"> a1inani
@@ -3030,7 +3043,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/Martin1998215">
 				<img src="https://avatars.githubusercontent.com/u/66859759?s=72&u=984ace33a97f4b99f647e33e874a7ee5cf75d7fe&v=4" width="24" alt="Avatar of Martin1998215"> Martin1998215
@@ -3043,7 +3056,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/IsaacHatilima">
 				<img src="https://avatars.githubusercontent.com/u/31442614?s=72&u=5040e33a72b27dea63bca68e0d8ef0d140258a65&v=4" width="24" alt="Avatar of IsaacHatilima"> IsaacHatilima
@@ -3056,7 +3069,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/Brucekola">
 				<img src="https://avatars.githubusercontent.com/u/84611068?s=72&v=4" width="24" alt="Avatar of Brucekola"> Brucekola
@@ -3069,7 +3082,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/mudimbamoonde">
 				<img src="https://avatars.githubusercontent.com/u/16928515?s=72&u=cc2d561de9878bd70856dcfbb8065ef9041f3c1f&v=4" width="24" alt="Avatar of mudimbamoonde"> mudimbamoonde
@@ -3082,7 +3095,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/tafarathedev">
 				<img src="https://avatars.githubusercontent.com/u/77780581?s=72&u=225b82def5315b9cf780c019c89a84ce8efdc82b&v=4" width="24" alt="Avatar of tafarathedev"> tafarathedev
@@ -3092,19 +3105,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>Tafarathedev </td>
 		<td>No Twitter Username</td>
 		<td>zambia lusaka</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>231</td>
-		<td>
-			<a href="https://github.com/Kasweka1">
-				<img src="https://avatars.githubusercontent.com/u/71525985?s=72&u=8d0d20bbc38067841eed0c3a4ec0126b3fc9370c&v=4" width="24" alt="Avatar of Kasweka1"> Kasweka1
-			</a><br/>
-			Kasweka Michael Mukoko
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lusaka Zambia </td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -3123,6 +3123,19 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>233</td>
 		<td>
+			<a href="https://github.com/Kasweka1">
+				<img src="https://avatars.githubusercontent.com/u/71525985?s=72&u=8d0d20bbc38067841eed0c3a4ec0126b3fc9370c&v=4" width="24" alt="Avatar of Kasweka1"> Kasweka1
+			</a><br/>
+			Kasweka Michael Mukoko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lusaka Zambia </td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>234</td>
+		<td>
 			<a href="https://github.com/KayYowanu">
 				<img src="https://avatars.githubusercontent.com/u/72764317?s=72&u=fc52ed4e3536d25744760b3895f651ec572bf806&v=4" width="24" alt="Avatar of KayYowanu"> KayYowanu
 			</a><br/>
@@ -3134,7 +3147,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/kizadek">
 				<img src="https://avatars.githubusercontent.com/u/48857035?s=72&v=4" width="24" alt="Avatar of kizadek"> kizadek
@@ -3147,7 +3160,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/LeonardChinyama">
 				<img src="https://avatars.githubusercontent.com/u/77678637?s=72&u=f1444ab3e4d4519e8b300293cd473c5d3d05474c&v=4" width="24" alt="Avatar of LeonardChinyama"> LeonardChinyama
@@ -3160,7 +3173,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/Niza-G-S-Phiri">
 				<img src="https://avatars.githubusercontent.com/u/51891220?s=72&u=26c00237a2ee36a633428dbea10170b35204177b&v=4" width="24" alt="Avatar of Niza-G-S-Phiri"> Niza-G-S-Phiri
@@ -3173,7 +3186,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/kaykabwe">
 				<img src="https://avatars.githubusercontent.com/u/33322655?s=72&v=4" width="24" alt="Avatar of kaykabwe"> kaykabwe
@@ -3183,19 +3196,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>Ezeecode Technologies </td>
 		<td>No Twitter Username</td>
 		<td>Lusaka, Zambia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>238</td>
-		<td>
-			<a href="https://github.com/DalitsoSakala">
-				<img src="https://avatars.githubusercontent.com/u/40007389?s=72&u=27d6b36bb05024926e723188d21f4bc4f0504d03&v=4" width="24" alt="Avatar of DalitsoSakala"> DalitsoSakala
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/emethari">emethari</a></td>
-		<td>Chingola, Zambia</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -3357,19 +3357,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>251</td>
 		<td>
-			<a href="https://github.com/mwala-zm">
-				<img src="https://avatars.githubusercontent.com/u/66120792?s=72&u=488226ef00f9755919adfaeea5794abc8c6acdf4&v=4" width="24" alt="Avatar of mwala-zm"> mwala-zm
-			</a><br/>
-			Mwala Zechariah Mulenga
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mwala_zm">mwala_zm</a></td>
-		<td>Zambia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>252</td>
-		<td>
 			<a href="https://github.com/Joel1993Kayuba">
 				<img src="https://avatars.githubusercontent.com/u/77644823?s=72&v=4" width="24" alt="Avatar of Joel1993Kayuba"> Joel1993Kayuba
 			</a><br/>
@@ -3381,7 +3368,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/shadow-fingers">
 				<img src="https://avatars.githubusercontent.com/u/37455525?s=72&u=39ac0b46a9e33355de3b994fd473eef081047713&v=4" width="24" alt="Avatar of shadow-fingers"> shadow-fingers
@@ -3394,7 +3381,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/Luwita">
 				<img src="https://avatars.githubusercontent.com/u/65409682?s=72&u=3074f96df54dcb12a140075615181f07126d9505&v=4" width="24" alt="Avatar of Luwita"> Luwita
@@ -3407,7 +3394,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/aaronjeke">
 				<img src="https://avatars.githubusercontent.com/u/10848930?s=72&v=4" width="24" alt="Avatar of aaronjeke"> aaronjeke
@@ -3420,7 +3407,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/ranzyblessings">
 				<img src="https://avatars.githubusercontent.com/u/48467842?s=72&v=4" width="24" alt="Avatar of ranzyblessings"> ranzyblessings
@@ -3433,7 +3420,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/Thewildfire">
 				<img src="https://avatars.githubusercontent.com/u/3704472?s=72&v=4" width="24" alt="Avatar of Thewildfire"> Thewildfire
@@ -3446,7 +3433,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/choolwe0x">
 				<img src="https://avatars.githubusercontent.com/u/43685011?s=72&u=2de5a8262e9ad0898da16f7ac54a050fbd955f4f&v=4" width="24" alt="Avatar of choolwe0x"> choolwe0x
@@ -3459,7 +3446,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/Chimal33">
 				<img src="https://avatars.githubusercontent.com/u/32095703?s=72&u=371dd36ddc361e30d04f8d7c42f32a869c85155b&v=4" width="24" alt="Avatar of Chimal33"> Chimal33
@@ -3472,7 +3459,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>259</td>
 		<td>
 			<a href="https://github.com/Llombe">
 				<img src="https://avatars.githubusercontent.com/u/42071604?s=72&u=5bb241e9e9ec61002c487704a34b18e6994c71ef&v=4" width="24" alt="Avatar of Llombe"> Llombe
@@ -3485,7 +3472,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/cinnamon-honey">
 				<img src="https://avatars.githubusercontent.com/u/12132707?s=72&u=3afb9023c6862b4dd0c732587388d6eddf62e1f9&v=4" width="24" alt="Avatar of cinnamon-honey"> cinnamon-honey
@@ -3498,7 +3485,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>261</td>
 		<td>
 			<a href="https://github.com/neilmalilwe">
 				<img src="https://avatars.githubusercontent.com/u/1727049?s=72&v=4" width="24" alt="Avatar of neilmalilwe"> neilmalilwe
@@ -3511,7 +3498,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/DiasporaSmart">
 				<img src="https://avatars.githubusercontent.com/u/544514?s=72&v=4" width="24" alt="Avatar of DiasporaSmart"> DiasporaSmart
@@ -3524,7 +3511,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>263</td>
 		<td>
 			<a href="https://github.com/keithcryptolord">
 				<img src="https://avatars.githubusercontent.com/u/46069962?s=72&u=9608593ad48d8420e02911033e5e536fa94b2eeb&v=4" width="24" alt="Avatar of keithcryptolord"> keithcryptolord
@@ -3533,6 +3520,19 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		</td>
 		<td>Zedcoin </td>
 		<td>No Twitter Username</td>
+		<td>Zambia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>264</td>
+		<td>
+			<a href="https://github.com/mwala-zm">
+				<img src="https://avatars.githubusercontent.com/u/66120792?s=72&u=488226ef00f9755919adfaeea5794abc8c6acdf4&v=4" width="24" alt="Avatar of mwala-zm"> mwala-zm
+			</a><br/>
+			Mwala Zechariah Mulenga
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mwala_zm">mwala_zm</a></td>
 		<td>Zambia</td>
 		<td>2</td>
 	</tr>
@@ -3604,19 +3604,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>270</td>
 		<td>
-			<a href="https://github.com/santosventer">
-				<img src="https://avatars.githubusercontent.com/u/8567529?s=72&u=167a6131d1e989e264eb76bb24281be0b4accc8e&v=4" width="24" alt="Avatar of santosventer"> santosventer
-			</a><br/>
-			Santos
-		</td>
-		<td>Living Open Source Foundation<br/></td>
-		<td>No Twitter Username</td>
-		<td>Zambia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>271</td>
-		<td>
 			<a href="https://github.com/AntonyChangwe">
 				<img src="https://avatars.githubusercontent.com/u/51873878?s=72&u=c3da5e7153f3a1320be146f2076fb339cf3e2fdb&v=4" width="24" alt="Avatar of AntonyChangwe"> AntonyChangwe
 			</a><br/>
@@ -3628,7 +3615,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/cholasimmons">
 				<img src="https://avatars.githubusercontent.com/u/6698741?s=72&u=ebca28e48554f206ec6972b95bc07c164cc4769c&v=4" width="24" alt="Avatar of cholasimmons"> cholasimmons
@@ -3636,6 +3623,19 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 			Chola
 		</td>
 		<td>Simmons Studio </td>
+		<td>No Twitter Username</td>
+		<td>Zambia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
+			<a href="https://github.com/santosventer">
+				<img src="https://avatars.githubusercontent.com/u/8567529?s=72&u=167a6131d1e989e264eb76bb24281be0b4accc8e&v=4" width="24" alt="Avatar of santosventer"> santosventer
+			</a><br/>
+			Santos
+		</td>
+		<td>Living Open Source Foundation<br/></td>
 		<td>No Twitter Username</td>
 		<td>Zambia</td>
 		<td>2</td>
@@ -3748,7 +3748,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>281</td>
 		<td>
 			<a href="https://github.com/Duncan-Nkhata">
-				<img src="https://avatars.githubusercontent.com/u/43377107?s=72&u=c7ce0313aa964a5f1cdd21cb063e389a9d98d7f0&v=4" width="24" alt="Avatar of Duncan-Nkhata"> Duncan-Nkhata
+				<img src="https://avatars.githubusercontent.com/u/43377107?s=72&u=e572ed4af609269dbc2891b9c3d896c2a20eeaab&v=4" width="24" alt="Avatar of Duncan-Nkhata"> Duncan-Nkhata
 			</a><br/>
 			Duncan Nkhata
 		</td>
@@ -3759,6 +3759,19 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	</tr>
 	<tr>
 		<td>282</td>
+		<td>
+			<a href="https://github.com/Mukumbuta">
+				<img src="https://avatars.githubusercontent.com/u/67312488?s=72&u=b49ed99da07e0a38b5b8c044081574c0f9f3f5ec&v=4" width="24" alt="Avatar of Mukumbuta"> Mukumbuta
+			</a><br/>
+			Emmanuel Simasiku
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Mukumbuta8">Mukumbuta8</a></td>
+		<td>Lusaka, Zambia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/Martin-Jacob-Zulu">
 				<img src="https://avatars.githubusercontent.com/u/70464323?s=72&u=b4abd756ce094aa4f7f5e1b4f49ce174422db7b1&v=4" width="24" alt="Avatar of Martin-Jacob-Zulu"> Martin-Jacob-Zulu
@@ -3771,7 +3784,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/wbanda44">
 				<img src="https://avatars.githubusercontent.com/u/20760568?s=72&v=4" width="24" alt="Avatar of wbanda44"> wbanda44
@@ -3780,19 +3793,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		</td>
 		<td>Acolyte Inc. </td>
 		<td><a href="https://twitter.com/wbanda44">wbanda44</a></td>
-		<td>Lusaka, Zambia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>284</td>
-		<td>
-			<a href="https://github.com/Mukumbuta">
-				<img src="https://avatars.githubusercontent.com/u/67312488?s=72&u=b49ed99da07e0a38b5b8c044081574c0f9f3f5ec&v=4" width="24" alt="Avatar of Mukumbuta"> Mukumbuta
-			</a><br/>
-			Emmanuel Simasiku
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Mukumbuta8">Mukumbuta8</a></td>
 		<td>Lusaka, Zambia</td>
 		<td>1</td>
 	</tr>
@@ -3825,6 +3825,19 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>287</td>
 		<td>
+			<a href="https://github.com/4xstaInk">
+				<img src="https://avatars.githubusercontent.com/u/45216915?s=72&v=4" width="24" alt="Avatar of 4xstaInk"> 4xstaInk
+			</a><br/>
+			No Name
+		</td>
+		<td>4xsta Ink </td>
+		<td>No Twitter Username</td>
+		<td>zambia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>288</td>
+		<td>
 			<a href="https://github.com/CHAMA18">
 				<img src="https://avatars.githubusercontent.com/u/29226252?s=72&v=4" width="24" alt="Avatar of CHAMA18"> CHAMA18
 			</a><br/>
@@ -3836,7 +3849,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/DevFidelis">
 				<img src="https://avatars.githubusercontent.com/u/65792527?s=72&u=07b6edece930cf827e410aa3ac3c1e06e3149091&v=4" width="24" alt="Avatar of DevFidelis"> DevFidelis
@@ -3849,7 +3862,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/Tiko19">
 				<img src="https://avatars.githubusercontent.com/u/44150163?s=72&v=4" width="24" alt="Avatar of Tiko19"> Tiko19
@@ -3862,7 +3875,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/Chishimba-cha">
 				<img src="https://avatars.githubusercontent.com/u/66903435?s=72&u=e5eb94cb158bb4abce36c87868194fe6061cff04&v=4" width="24" alt="Avatar of Chishimba-cha"> Chishimba-cha
@@ -3875,7 +3888,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/Andrewingombe">
 				<img src="https://avatars.githubusercontent.com/u/77075550?s=72&u=3999db168737dea82822c459be7209dc4f78a09a&v=4" width="24" alt="Avatar of Andrewingombe"> Andrewingombe
@@ -3888,7 +3901,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/schultzCG">
 				<img src="https://avatars.githubusercontent.com/u/53646299?s=72&v=4" width="24" alt="Avatar of schultzCG"> schultzCG
@@ -3901,7 +3914,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/AdrianMweetwa">
 				<img src="https://avatars.githubusercontent.com/u/80212301?s=72&u=a127f2c2ae8f803de06a790471fb2683e371a21c&v=4" width="24" alt="Avatar of AdrianMweetwa"> AdrianMweetwa
@@ -3914,7 +3927,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/Tobinchilongo">
 				<img src="https://avatars.githubusercontent.com/u/88584398?s=72&u=1b1ad57c10faeb16c388abd82861f5329673eee6&v=4" width="24" alt="Avatar of Tobinchilongo"> Tobinchilongo
@@ -3927,7 +3940,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/smushibi">
 				<img src="https://avatars.githubusercontent.com/u/31133787?s=72&u=2ee7c4f2f3401fe30a76b127039136a9cfb14077&v=4" width="24" alt="Avatar of smushibi"> smushibi
@@ -3940,7 +3953,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/blessedzulu">
 				<img src="https://avatars.githubusercontent.com/u/43051370?s=72&v=4" width="24" alt="Avatar of blessedzulu"> blessedzulu
@@ -3953,7 +3966,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>298</td>
 		<td>
 			<a href="https://github.com/diskava">
 				<img src="https://avatars.githubusercontent.com/u/66633842?s=72&v=4" width="24" alt="Avatar of diskava"> diskava
@@ -3966,7 +3979,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>299</td>
 		<td>
 			<a href="https://github.com/lnnocentchisanga3">
 				<img src="https://avatars.githubusercontent.com/u/40523265?s=72&u=3dd5b868e96b35a03f958b3e41e01697e2cdf98d&v=4" width="24" alt="Avatar of lnnocentchisanga3"> lnnocentchisanga3
@@ -3979,7 +3992,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/lwandokas">
 				<img src="https://avatars.githubusercontent.com/u/66548462?s=72&u=d6a2cf60f7e37d566a77126deb9dbae191c61dfe&v=4" width="24" alt="Avatar of lwandokas"> lwandokas
@@ -3992,7 +4005,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/PharezHub">
 				<img src="https://avatars.githubusercontent.com/u/75756021?s=72&u=70a650cbc987e1450c50ba29a5191994c46c3234&v=4" width="24" alt="Avatar of PharezHub"> PharezHub
@@ -4002,19 +4015,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>Pharezhub </td>
 		<td>No Twitter Username</td>
 		<td>Kitwe, Zambia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>301</td>
-		<td>
-			<a href="https://github.com/M-chisupa">
-				<img src="https://avatars.githubusercontent.com/u/72863626?s=72&v=4" width="24" alt="Avatar of M-chisupa"> M-chisupa
-			</a><br/>
-			No Name
-		</td>
-		<td>Akros </td>
-		<td>No Twitter Username</td>
-		<td>Zambia</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -4111,19 +4111,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>309</td>
 		<td>
-			<a href="https://github.com/richardmwaba">
-				<img src="https://avatars.githubusercontent.com/u/15824570?s=72&u=632917294bf6550cafd9d2143fa918bf62200251&v=4" width="24" alt="Avatar of richardmwaba"> richardmwaba
-			</a><br/>
-			Richard Mwaba
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zambia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>310</td>
-		<td>
 			<a href="https://github.com/muk0t3ch">
 				<img src="https://avatars.githubusercontent.com/u/77383591?s=72&u=a4b18c599408393b3e94f3b85ab05359b7eaefbf&v=4" width="24" alt="Avatar of muk0t3ch"> muk0t3ch
 			</a><br/>
@@ -4135,7 +4122,33 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
+		<td>310</td>
+		<td>
+			<a href="https://github.com/richardmwaba">
+				<img src="https://avatars.githubusercontent.com/u/15824570?s=72&u=632917294bf6550cafd9d2143fa918bf62200251&v=4" width="24" alt="Avatar of richardmwaba"> richardmwaba
+			</a><br/>
+			Richard Mwaba
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zambia</td>
+		<td>1</td>
+	</tr>
+	<tr>
 		<td>311</td>
+		<td>
+			<a href="https://github.com/M-chisupa">
+				<img src="https://avatars.githubusercontent.com/u/72863626?s=72&v=4" width="24" alt="Avatar of M-chisupa"> M-chisupa
+			</a><br/>
+			No Name
+		</td>
+		<td>Akros </td>
+		<td>No Twitter Username</td>
+		<td>Zambia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>312</td>
 		<td>
 			<a href="https://github.com/Mactaley">
 				<img src="https://avatars.githubusercontent.com/u/76869826?s=72&u=7e214fdbbf5785690af900830bb0abe7f6c7c444&v=4" width="24" alt="Avatar of Mactaley"> Mactaley
@@ -4148,7 +4161,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/OutsourceNow">
 				<img src="https://avatars.githubusercontent.com/u/30794347?s=72&v=4" width="24" alt="Avatar of OutsourceNow"> OutsourceNow
@@ -4161,7 +4174,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/Munyinda">
 				<img src="https://avatars.githubusercontent.com/u/52700381?s=72&u=befa17a6d4bd777e3c0efdbfcc09095f62c3d86a&v=4" width="24" alt="Avatar of Munyinda"> Munyinda
@@ -4174,7 +4187,7 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>315</td>
 		<td>
 			<a href="https://github.com/coilardium">
 				<img src="https://avatars.githubusercontent.com/u/55136162?s=72&v=4" width="24" alt="Avatar of coilardium"> coilardium
@@ -4184,19 +4197,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zambia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>315</td>
-		<td>
-			<a href="https://github.com/ZedTechInfo">
-				<img src="https://avatars.githubusercontent.com/u/16447857?s=72&u=fcef64c74c0f3c52f0172547041816c619529081&v=4" width="24" alt="Avatar of ZedTechInfo"> ZedTechInfo
-			</a><br/>
-			kamoto
-		</td>
-		<td>Zedtechinfo </td>
-		<td><a href="https://twitter.com/Kamotomhone">Kamotomhone</a></td>
-		<td>Lusaka, Zambia</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -4267,19 +4267,6 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 	<tr>
 		<td>321</td>
 		<td>
-			<a href="https://github.com/drscript">
-				<img src="https://avatars.githubusercontent.com/u/2352824?s=72&v=4" width="24" alt="Avatar of drscript"> drscript
-			</a><br/>
-			Yeta Zulu
-		</td>
-		<td>B&w Intech Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Zambia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>322</td>
-		<td>
 			<a href="https://github.com/cbchisanga">
 				<img src="https://avatars.githubusercontent.com/u/10923365?s=72&u=9c7c26b610b3d82cb10730e61e90bdd940b45b9e&v=4" width="24" alt="Avatar of cbchisanga"> cbchisanga
 			</a><br/>
@@ -4291,20 +4278,20 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>322</td>
 		<td>
-			<a href="https://github.com/CrazyRazy">
-				<img src="https://avatars.githubusercontent.com/u/8016175?s=72&v=4" width="24" alt="Avatar of CrazyRazy"> CrazyRazy
+			<a href="https://github.com/drscript">
+				<img src="https://avatars.githubusercontent.com/u/2352824?s=72&v=4" width="24" alt="Avatar of drscript"> drscript
 			</a><br/>
-			Twabe Mwambazi
+			Yeta Zulu
 		</td>
-		<td>No Company</td>
+		<td>B&w Intech Solutions </td>
 		<td>No Twitter Username</td>
-		<td>Lusaka, Zambia</td>
+		<td>Zambia</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>323</td>
 		<td>
 			<a href="https://github.com/Nakalowa">
 				<img src="https://avatars.githubusercontent.com/u/90334410?s=72&u=f5ba2db9f5d95809294940bb40d93d8366de0845&v=4" width="24" alt="Avatar of Nakalowa"> Nakalowa
@@ -4314,6 +4301,19 @@ There are `873 users`  in Zambia. You need at least `0 followers` to be on this 
 		<td>Stalwart Actuaries & Consultants<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Lusaka Zambia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>324</td>
+		<td>
+			<a href="https://github.com/CrazyRazy">
+				<img src="https://avatars.githubusercontent.com/u/8016175?s=72&v=4" width="24" alt="Avatar of CrazyRazy"> CrazyRazy
+			</a><br/>
+			Twabe Mwambazi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lusaka, Zambia</td>
 		<td>1</td>
 	</tr>
 	<tr>
