@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg" alt="Mali">
 </a>
 
-The `number of followers` of users in Mali on `2021/10/17 6:18 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
+The `number of followers` of users in Mali on `2021/10/23 6:18 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
@@ -276,19 +276,6 @@ There are `227 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>14</td>
 		<td>
-			<a href="https://github.com/startlingadama">
-				<img src="https://avatars.githubusercontent.com/u/64993975?s=72&v=4" width="24" alt="Avatar of startlingadama"> startlingadama
-			</a><br/>
-			No Name
-		</td>
-		<td>Adamatic </td>
-		<td><a href="https://twitter.com/starrlingadama">starrlingadama</a></td>
-		<td>Bamako-ML</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
 			<a href="https://github.com/Zoubooy97">
 				<img src="https://avatars.githubusercontent.com/u/72897169?s=72&u=0882ccb1d83c8f410da591bf3a7880c6e1851db5&v=4" width="24" alt="Avatar of Zoubooy97"> Zoubooy97
 			</a><br/>
@@ -297,6 +284,19 @@ There are `227 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>Mon Chien </td>
 		<td>No Twitter Username</td>
 		<td>Bamako Mali</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/startlingadama">
+				<img src="https://avatars.githubusercontent.com/u/64993975?s=72&v=4" width="24" alt="Avatar of startlingadama"> startlingadama
+			</a><br/>
+			No Name
+		</td>
+		<td>Adamatic </td>
+		<td><a href="https://twitter.com/starrlingadama">starrlingadama</a></td>
+		<td>Bamako-ML</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -679,19 +679,6 @@ There are `227 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>45</td>
 		<td>
-			<a href="https://github.com/Logic-pro263">
-				<img src="https://avatars.githubusercontent.com/u/66732778?s=72&u=ddd1cadf58af04c7298c25b9e393b0b6ad57146f&v=4" width="24" alt="Avatar of Logic-pro263"> Logic-pro263
-			</a><br/>
-			Logic-pro
-		</td>
-		<td>Sanogo Services Informatique </td>
-		<td>No Twitter Username</td>
-		<td>Bamako</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>46</td>
-		<td>
 			<a href="https://github.com/BamaEmmanuel">
 				<img src="https://avatars.githubusercontent.com/u/25508509?s=72&u=2076e8541c6f865e63c0f9dd7ff6fc71930173bd&v=4" width="24" alt="Avatar of BamaEmmanuel"> BamaEmmanuel
 			</a><br/>
@@ -703,7 +690,7 @@ There are `227 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>47</td>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/IbrahimMaiga">
 				<img src="https://avatars.githubusercontent.com/u/12346624?s=72&v=4" width="24" alt="Avatar of IbrahimMaiga"> IbrahimMaiga
@@ -716,7 +703,7 @@ There are `227 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>48</td>
+		<td>47</td>
 		<td>
 			<a href="https://github.com/devoton">
 				<img src="https://avatars.githubusercontent.com/u/88565296?s=72&v=4" width="24" alt="Avatar of devoton"> devoton
@@ -729,7 +716,7 @@ There are `227 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>49</td>
+		<td>48</td>
 		<td>
 			<a href="https://github.com/ogdakbi">
 				<img src="https://avatars.githubusercontent.com/u/83409510?s=72&v=4" width="24" alt="Avatar of ogdakbi"> ogdakbi
@@ -739,6 +726,19 @@ There are `227 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>Bamako </td>
 		<td><a href="https://twitter.com/Ogdakbi">Ogdakbi</a></td>
 		<td>Mali/bamako</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>
+			<a href="https://github.com/Logic-pro263">
+				<img src="https://avatars.githubusercontent.com/u/66732778?s=72&u=ddd1cadf58af04c7298c25b9e393b0b6ad57146f&v=4" width="24" alt="Avatar of Logic-pro263"> Logic-pro263
+			</a><br/>
+			Logic-pro
+		</td>
+		<td>Sanogo Services Informatique </td>
+		<td>No Twitter Username</td>
+		<td>Bamako</td>
 		<td>1</td>
 	</tr>
 	<tr>
