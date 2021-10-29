@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg" alt="Mozambique ">
 </a>
 
-The `number of followers` of users in Mozambique  on `2021/10/24 3:20 AM UTC`. This list contains users from `Mozambique ` and cities `Maputo` `Beira` `Quelimane` `Chimoio` `Matola` `Nacala`.
+The `number of followers` of users in Mozambique  on `2021/10/29 10:19 PM UTC`. This list contains users from `Mozambique ` and cities `Maputo` `Beira` `Quelimane` `Chimoio` `Matola` `Nacala`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `645 users`  in Mozambique . You need at least `0 followers` to be on this list.
+There are `651 users`  in Mozambique . You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,13 +115,13 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>@bazara </td>
 		<td><a href="https://twitter.com/_rpfernandes">_rpfernandes</a></td>
 		<td>Maputo, Mozambique</td>
-		<td>246</td>
+		<td>247</td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>
 			<a href="https://github.com/JoneBulande">
-				<img src="https://avatars.githubusercontent.com/u/40224762?s=72&u=ee5ab5f9f96b5a7f92ffd46fae449bbc78bb0d59&v=4" width="24" alt="Avatar of JoneBulande"> JoneBulande
+				<img src="https://avatars.githubusercontent.com/u/40224762?s=72&u=88d28f52d4a90efbafced9e0e9252e767e57adea&v=4" width="24" alt="Avatar of JoneBulande"> JoneBulande
 			</a><br/>
 			jone
 		</td>
@@ -154,7 +154,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>Ceg Microsystems </td>
 		<td><a href="https://twitter.com/albertinodev">albertinodev</a></td>
 		<td>Mozambique, Maputo</td>
-		<td>141</td>
+		<td>142</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -172,6 +172,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>6</td>
 		<td>
+			<a href="https://github.com/jose-bone">
+				<img src="https://avatars.githubusercontent.com/u/79787418?s=72&u=a0579e0869afce734a156eb825f841fdc436a5d2&v=4" width="24" alt="Avatar of jose-bone"> jose-bone
+			</a><br/>
+			José Boné
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/bjosemateus">bjosemateus</a></td>
+		<td>Quelimane, Mozambique</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>
 			<a href="https://github.com/IvanBila">
 				<img src="https://avatars.githubusercontent.com/u/13482373?s=72&u=b6af8b40255a887da5eb2f23fd56998021fb4aea&v=4" width="24" alt="Avatar of IvanBila"> IvanBila
 			</a><br/>
@@ -181,19 +194,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Maputo, Mozambique</td>
 		<td>74</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>
-			<a href="https://github.com/jose-bone">
-				<img src="https://avatars.githubusercontent.com/u/79787418?s=72&u=a0579e0869afce734a156eb825f841fdc436a5d2&v=4" width="24" alt="Avatar of jose-bone"> jose-bone
-			</a><br/>
-			José Boné
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/bjosemateus">bjosemateus</a></td>
-		<td>Quelimane, Mozambique</td>
-		<td>73</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -206,7 +206,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>Wit-software, @alugaqui </td>
 		<td><a href="https://twitter.com/callebdev">callebdev</a></td>
 		<td>Maputo, Mozambique</td>
-		<td>65</td>
+		<td>66</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -245,7 +245,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>Inoveit </td>
 		<td><a href="https://twitter.com/mariomthree">mariomthree</a></td>
 		<td>Maputo, Mozambique</td>
-		<td>58</td>
+		<td>59</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -258,20 +258,20 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>Incentea Mz </td>
 		<td>No Twitter Username</td>
 		<td>Maputo, Mozambique</td>
-		<td>54</td>
+		<td>55</td>
 	</tr>
 	<tr>
 		<td>13</td>
 		<td>
-			<a href="https://github.com/paulocuambe">
-				<img src="https://avatars.githubusercontent.com/u/37635729?s=72&u=02c131a75bd851e26c80c4889e9ab2e920805dd0&v=4" width="24" alt="Avatar of paulocuambe"> paulocuambe
+			<a href="https://github.com/isaiasnhantumbo">
+				<img src="https://avatars.githubusercontent.com/u/71522302?s=72&u=586c3674bc087347e5a58c2dc1a101aaedd61bed&v=4" width="24" alt="Avatar of isaiasnhantumbo"> isaiasnhantumbo
 			</a><br/>
-			Paulo Amosse Cuambe
+			Isaias Nhantumbo Junior
 		</td>
-		<td>Inoveit </td>
-		<td><a href="https://twitter.com/paulo_cuambe">paulo_cuambe</a></td>
-		<td>Maputo, Mozambique</td>
-		<td>44</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mozambique, Maputo</td>
+		<td>45</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -284,10 +284,23 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Henk_Beula">Henk_Beula</a></td>
 		<td>Maputo, Mozambique</td>
-		<td>44</td>
+		<td>45</td>
 	</tr>
 	<tr>
 		<td>15</td>
+		<td>
+			<a href="https://github.com/paulocuambe">
+				<img src="https://avatars.githubusercontent.com/u/37635729?s=72&u=02c131a75bd851e26c80c4889e9ab2e920805dd0&v=4" width="24" alt="Avatar of paulocuambe"> paulocuambe
+			</a><br/>
+			Paulo Amosse Cuambe
+		</td>
+		<td>Inoveit </td>
+		<td><a href="https://twitter.com/paulo_cuambe">paulo_cuambe</a></td>
+		<td>Maputo, Mozambique</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/cmassavanhanejr">
 				<img src="https://avatars.githubusercontent.com/u/33702490?s=72&u=c99fb74f198c3f94772399de0e8f2e985c4c37fc&v=4" width="24" alt="Avatar of cmassavanhanejr"> cmassavanhanejr
@@ -300,7 +313,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/doilio">
 				<img src="https://avatars.githubusercontent.com/u/38020305?s=72&u=52d642753d59faac2a24a03f17784c756b902fcd&v=4" width="24" alt="Avatar of doilio"> doilio
@@ -313,7 +326,20 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>18</td>
+		<td>
+			<a href="https://github.com/aebanze">
+				<img src="https://avatars.githubusercontent.com/u/89379357?s=72&u=dc8652dcdc88ad8a10f99de4151fbb0da7bf478d&v=4" width="24" alt="Avatar of aebanze"> aebanze
+			</a><br/>
+			Angel Banze
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maputo, Mozambique</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/abdulmueid">
 				<img src="https://avatars.githubusercontent.com/u/705308?s=72&u=11353b889f94fe53472eee6a0fd28296a825d192&v=4" width="24" alt="Avatar of abdulmueid"> abdulmueid
@@ -326,7 +352,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>20</td>
 		<td>
 			<a href="https://github.com/FaruqueBraimo">
 				<img src="https://avatars.githubusercontent.com/u/42444957?s=72&u=2da38bd785ccaf9a8202d5dc7e02bc626a2fe7be&v=4" width="24" alt="Avatar of FaruqueBraimo"> FaruqueBraimo
@@ -339,7 +365,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>21</td>
 		<td>
 			<a href="https://github.com/ErnestoArgentina">
 				<img src="https://avatars.githubusercontent.com/u/41967811?s=72&u=d08c6255aac8ac1725ac0f445998342e7d669f9e&v=4" width="24" alt="Avatar of ErnestoArgentina"> ErnestoArgentina
@@ -352,7 +378,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/Diucla">
 				<img src="https://avatars.githubusercontent.com/u/11987675?s=72&u=2b9b1caeefd3649d0cedcbeb0111d2ff6b81938d&v=4" width="24" alt="Avatar of Diucla"> Diucla
@@ -365,7 +391,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>23</td>
 		<td>
 			<a href="https://github.com/themisterpaps">
 				<img src="https://avatars.githubusercontent.com/u/50568515?s=72&u=a817b68fba2cdcf078b56b16e618cb89a65c3935&v=4" width="24" alt="Avatar of themisterpaps"> themisterpaps
@@ -378,7 +404,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/isneezy">
 				<img src="https://avatars.githubusercontent.com/u/8999039?s=72&u=c19c40134fe683cad245200d2ac4ed15c5cca046&v=4" width="24" alt="Avatar of isneezy"> isneezy
@@ -388,23 +414,10 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Maputo, Mozambique</td>
-		<td>29</td>
+		<td>30</td>
 	</tr>
 	<tr>
-		<td>23</td>
-		<td>
-			<a href="https://github.com/aebanze">
-				<img src="https://avatars.githubusercontent.com/u/89379357?s=72&u=dc8652dcdc88ad8a10f99de4151fbb0da7bf478d&v=4" width="24" alt="Avatar of aebanze"> aebanze
-			</a><br/>
-			Angel Banze
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maputo, Mozambique</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>24</td>
+		<td>25</td>
 		<td>
 			<a href="https://github.com/Nelzio">
 				<img src="https://avatars.githubusercontent.com/u/23185608?s=72&u=00e147a9fed1a87a4cae4331de8c9d9415261f9c&v=4" width="24" alt="Avatar of Nelzio"> Nelzio
@@ -417,7 +430,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/EdNgulele">
 				<img src="https://avatars.githubusercontent.com/u/19359776?s=72&u=dcfbd52d4962401135561f28efa04eb523d6ece0&v=4" width="24" alt="Avatar of EdNgulele"> EdNgulele
@@ -430,7 +443,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/alfredosebastiao">
 				<img src="https://avatars.githubusercontent.com/u/23740856?s=72&u=89d1d042802a65b5bd064977955184a3206b82f8&v=4" width="24" alt="Avatar of alfredosebastiao"> alfredosebastiao
@@ -443,7 +456,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>28</td>
 		<td>
 			<a href="https://github.com/HerminioChissico">
 				<img src="https://avatars.githubusercontent.com/u/31236928?s=72&u=b8084157192a1b5bdc7cd26b3d4532043ec31301&v=4" width="24" alt="Avatar of HerminioChissico"> HerminioChissico
@@ -456,7 +469,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/helinhojr">
 				<img src="https://avatars.githubusercontent.com/u/42480265?s=72&u=bd47c504c41bb3bb6799b70154dcca32ad98479a&v=4" width="24" alt="Avatar of helinhojr"> helinhojr
@@ -469,7 +482,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>29</td>
+		<td>30</td>
 		<td>
 			<a href="https://github.com/Valente6305">
 				<img src="https://avatars.githubusercontent.com/u/20662186?s=72&u=e47c77ad54c5880aaa5c7c43646e88e872a610f0&v=4" width="24" alt="Avatar of Valente6305"> Valente6305
@@ -482,7 +495,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/Ada-Mustafa">
 				<img src="https://avatars.githubusercontent.com/u/50020723?s=72&u=05c38ac62a32e0f2c3d1a1e08ab5eef787172886&v=4" width="24" alt="Avatar of Ada-Mustafa"> Ada-Mustafa
@@ -495,7 +508,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/ToniMaunde">
 				<img src="https://avatars.githubusercontent.com/u/31246918?s=72&u=b2aef6527035ee98e1e51cef04def3cfcce72658&v=4" width="24" alt="Avatar of ToniMaunde"> ToniMaunde
@@ -508,7 +521,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/imildositoe">
 				<img src="https://avatars.githubusercontent.com/u/31238878?s=72&u=a12e26690911f2bcb4bafcefce1527a42785b4c0&v=4" width="24" alt="Avatar of imildositoe"> imildositoe
@@ -521,7 +534,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/Evangelino">
 				<img src="https://avatars.githubusercontent.com/u/31212619?s=72&u=095ed9a1e81d38609f5abe156f37e92001a55a6c&v=4" width="24" alt="Avatar of Evangelino"> Evangelino
@@ -534,7 +547,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/larslemos">
 				<img src="https://avatars.githubusercontent.com/u/4475142?s=72&v=4" width="24" alt="Avatar of larslemos"> larslemos
@@ -544,19 +557,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>Mozdevelopment </td>
 		<td>No Twitter Username</td>
 		<td>Maputo, Mozambique</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>35</td>
-		<td>
-			<a href="https://github.com/isaiasnhantumbo">
-				<img src="https://avatars.githubusercontent.com/u/71522302?s=72&u=586c3674bc087347e5a58c2dc1a101aaedd61bed&v=4" width="24" alt="Avatar of isaiasnhantumbo"> isaiasnhantumbo
-			</a><br/>
-			Isaias Nhantumbo Junior
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mozambique, Maputo</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -744,6 +744,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>50</td>
 		<td>
+			<a href="https://github.com/allanShady">
+				<img src="https://avatars.githubusercontent.com/u/18285082?s=72&u=3a3e04d795e7c6de5245b4b2e128389b1ac22d4c&v=4" width="24" alt="Avatar of allanShady"> allanShady
+			</a><br/>
+			Allan Camilo
+		</td>
+		<td>@alsacad </td>
+		<td><a href="https://twitter.com/allan_camillo">allan_camillo</a></td>
+		<td>Maputo, Mozambique</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>51</td>
+		<td>
 			<a href="https://github.com/JefferMarcelino">
 				<img src="https://avatars.githubusercontent.com/u/77571208?s=72&u=c73638cad4488d7410e64bc05ca7ee424d5ccf57&v=4" width="24" alt="Avatar of JefferMarcelino"> JefferMarcelino
 			</a><br/>
@@ -755,7 +768,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>51</td>
+		<td>52</td>
 		<td>
 			<a href="https://github.com/Eleuterio258">
 				<img src="https://avatars.githubusercontent.com/u/7691358?s=72&u=07d8fe792f04bcf1ee7f38475fc82bb29d43ebca&v=4" width="24" alt="Avatar of Eleuterio258"> Eleuterio258
@@ -768,7 +781,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>53</td>
 		<td>
 			<a href="https://github.com/iamzjohn">
 				<img src="https://avatars.githubusercontent.com/u/20513587?s=72&v=4" width="24" alt="Avatar of iamzjohn"> iamzjohn
@@ -779,19 +792,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Maputo, Mozambique</td>
 		<td>16</td>
-	</tr>
-	<tr>
-		<td>53</td>
-		<td>
-			<a href="https://github.com/allanShady">
-				<img src="https://avatars.githubusercontent.com/u/18285082?s=72&u=3a3e04d795e7c6de5245b4b2e128389b1ac22d4c&v=4" width="24" alt="Avatar of allanShady"> allanShady
-			</a><br/>
-			Allan Camilo
-		</td>
-		<td>@alsacad </td>
-		<td><a href="https://twitter.com/allan_camillo">allan_camillo</a></td>
-		<td>Maputo, Mozambique</td>
-		<td>15</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -848,19 +848,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>58</td>
 		<td>
-			<a href="https://github.com/AnisioMandlate">
-				<img src="https://avatars.githubusercontent.com/u/48864686?s=72&u=c575aed984ddcec37e6fbd7e575c06c4cf57bda7&v=4" width="24" alt="Avatar of AnisioMandlate"> AnisioMandlate
-			</a><br/>
-			Anisio Mandlate
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maputo, Mozambique</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>59</td>
-		<td>
 			<a href="https://github.com/inaciosacataria">
 				<img src="https://avatars.githubusercontent.com/u/54165291?s=72&u=b231cfa63b23c529931e3b28e7ddab6139aa7613&v=4" width="24" alt="Avatar of inaciosacataria"> inaciosacataria
 			</a><br/>
@@ -869,6 +856,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>@candelabro  </td>
 		<td>No Twitter Username</td>
 		<td>Maputo, malhangalene</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>59</td>
+		<td>
+			<a href="https://github.com/AnisioMandlate">
+				<img src="https://avatars.githubusercontent.com/u/48864686?s=72&u=c575aed984ddcec37e6fbd7e575c06c4cf57bda7&v=4" width="24" alt="Avatar of AnisioMandlate"> AnisioMandlate
+			</a><br/>
+			Anisio Mandlate
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maputo, Mozambique</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -887,14 +887,14 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>61</td>
 		<td>
-			<a href="https://github.com/fernandogomesfg">
-				<img src="https://avatars.githubusercontent.com/u/59961857?s=72&u=f3207c583ccd7fb9516fe4ea26e1414d0b9e54fa&v=4" width="24" alt="Avatar of fernandogomesfg"> fernandogomesfg
+			<a href="https://github.com/Jeronimo-MZ">
+				<img src="https://avatars.githubusercontent.com/u/49800473?s=72&v=4" width="24" alt="Avatar of Jeronimo-MZ"> Jeronimo-MZ
 			</a><br/>
-			Fernando Gomes
+			Jerónimo Matavel
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Fernando_Gomes0">Fernando_Gomes0</a></td>
-		<td>Mozambique, Maputo</td>
+		<td>No Twitter Username</td>
+		<td>Maputo, Mozambique</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -913,6 +913,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>63</td>
 		<td>
+			<a href="https://github.com/PedroMadabula">
+				<img src="https://avatars.githubusercontent.com/u/56992852?s=72&u=bf4ac948bef080a1e7ece9219645be2a52bd9729&v=4" width="24" alt="Avatar of PedroMadabula"> PedroMadabula
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maputo, Mozambique</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
 			<a href="https://github.com/AlmeidaJoao">
 				<img src="https://avatars.githubusercontent.com/u/39647781?s=72&v=4" width="24" alt="Avatar of AlmeidaJoao"> AlmeidaJoao
 			</a><br/>
@@ -924,7 +937,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/Botomane">
 				<img src="https://avatars.githubusercontent.com/u/31362149?s=72&u=0f01bb53fb8603068a731747fcf5dce221425475&v=4" width="24" alt="Avatar of Botomane"> Botomane
@@ -937,29 +950,16 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>65</td>
-		<td>
-			<a href="https://github.com/Jeronimo-MZ">
-				<img src="https://avatars.githubusercontent.com/u/49800473?s=72&v=4" width="24" alt="Avatar of Jeronimo-MZ"> Jeronimo-MZ
-			</a><br/>
-			Jerónimo Matavel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maputo, Mozambique</td>
-		<td>11</td>
-	</tr>
-	<tr>
 		<td>66</td>
 		<td>
-			<a href="https://github.com/BelmiroMungoi">
-				<img src="https://avatars.githubusercontent.com/u/56709665?s=72&v=4" width="24" alt="Avatar of BelmiroMungoi"> BelmiroMungoi
+			<a href="https://github.com/fernandogomesfg">
+				<img src="https://avatars.githubusercontent.com/u/59961857?s=72&u=f3207c583ccd7fb9516fe4ea26e1414d0b9e54fa&v=4" width="24" alt="Avatar of fernandogomesfg"> fernandogomesfg
 			</a><br/>
-			Belmiro Mungoi
+			Fernando Gomes
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maputo, Mozambique</td>
+		<td><a href="https://twitter.com/Fernando_Gomes0">Fernando_Gomes0</a></td>
+		<td>Mozambique, Maputo</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -1004,19 +1004,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>70</td>
 		<td>
-			<a href="https://github.com/PedroMadabula">
-				<img src="https://avatars.githubusercontent.com/u/56992852?s=72&u=bf4ac948bef080a1e7ece9219645be2a52bd9729&v=4" width="24" alt="Avatar of PedroMadabula"> PedroMadabula
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maputo, Mozambique</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>71</td>
-		<td>
 			<a href="https://github.com/naftalivo">
 				<img src="https://avatars.githubusercontent.com/u/31237771?s=72&u=faa563093c99a257fb49c6a466a2f35b5ea39d4a&v=4" width="24" alt="Avatar of naftalivo"> naftalivo
 			</a><br/>
@@ -1028,7 +1015,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/amonmoce">
 				<img src="https://avatars.githubusercontent.com/u/7223550?s=72&u=ff7cf041455023f3ff6293d066aef2994514136b&v=4" width="24" alt="Avatar of amonmoce"> amonmoce
@@ -1041,7 +1028,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/talk-code">
 				<img src="https://avatars.githubusercontent.com/u/7803333?s=72&u=2db9b3bfa7de0fa992b2e9baddd819405ec90b26&v=4" width="24" alt="Avatar of talk-code"> talk-code
@@ -1054,7 +1041,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/ErmenegildoCumbe">
 				<img src="https://avatars.githubusercontent.com/u/32514855?s=72&u=7ad6297419022300f75f50b9461605e59be75371&v=4" width="24" alt="Avatar of ErmenegildoCumbe"> ErmenegildoCumbe
@@ -1065,6 +1052,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>Maputo, Mozambique</td>
 		<td>11</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
+			<a href="https://github.com/BelmiroMungoi">
+				<img src="https://avatars.githubusercontent.com/u/56709665?s=72&v=4" width="24" alt="Avatar of BelmiroMungoi"> BelmiroMungoi
+			</a><br/>
+			Belmiro Mungoi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maputo, Mozambique</td>
+		<td>10</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1082,19 +1082,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>76</td>
 		<td>
-			<a href="https://github.com/idacioDad">
-				<img src="https://avatars.githubusercontent.com/u/43821712?s=72&u=2ef8082e022fcbd234a938fa9dba8a370a3b539e&v=4" width="24" alt="Avatar of idacioDad"> idacioDad
-			</a><br/>
-			Idácio Dad A. Zibia
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/idacio_dad">idacio_dad</a></td>
-		<td>Maputo-Mozambique</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
 			<a href="https://github.com/Edgencio">
 				<img src="https://avatars.githubusercontent.com/u/12033296?s=72&u=78760144a91a6486ffeabb7655a8bd6477cd56ec&v=4" width="24" alt="Avatar of Edgencio"> Edgencio
 			</a><br/>
@@ -1106,7 +1093,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/BioteIN">
 				<img src="https://avatars.githubusercontent.com/u/42525101?s=72&u=5fafca776c5dd7851c2f18401682556a13d48608&v=4" width="24" alt="Avatar of BioteIN"> BioteIN
@@ -1116,6 +1103,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mozambique, Maputo</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>
+			<a href="https://github.com/idacioDad">
+				<img src="https://avatars.githubusercontent.com/u/43821712?s=72&u=2ef8082e022fcbd234a938fa9dba8a370a3b539e&v=4" width="24" alt="Avatar of idacioDad"> idacioDad
+			</a><br/>
+			Idácio Dad A. Zibia
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/idacio_dad">idacio_dad</a></td>
+		<td>Maputo-Mozambique</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -1290,6 +1290,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>92</td>
 		<td>
+			<a href="https://github.com/adolforicardo">
+				<img src="https://avatars.githubusercontent.com/u/44292931?s=72&v=4" width="24" alt="Avatar of adolforicardo"> adolforicardo
+			</a><br/>
+			Adolfo Ricardo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maputo, Mozambique</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>93</td>
+		<td>
 			<a href="https://github.com/MoisesMatsinhe">
 				<img src="https://avatars.githubusercontent.com/u/42444624?s=72&u=bcfda52f8a3fb4847c122acd574e39c0cf4f97aa&v=4" width="24" alt="Avatar of MoisesMatsinhe"> MoisesMatsinhe
 			</a><br/>
@@ -1301,7 +1314,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/aasfrancisco">
 				<img src="https://avatars.githubusercontent.com/u/8362985?s=72&v=4" width="24" alt="Avatar of aasfrancisco"> aasfrancisco
@@ -1314,20 +1327,20 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/hairone311">
 				<img src="https://avatars.githubusercontent.com/u/59767992?s=72&u=bf87ef4470d5874cbdda215eca57799f0c58d5ab&v=4" width="24" alt="Avatar of hairone311"> hairone311
 			</a><br/>
 			Eliseu Hairone
 		</td>
-		<td>Freelance </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Quelimane, Zambezia, Mozambique</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>95</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/baltonCome">
 				<img src="https://avatars.githubusercontent.com/u/64668677?s=72&u=a64c21941d73d9cf82037c8227c7aae20aa90944&v=4" width="24" alt="Avatar of baltonCome"> baltonCome
@@ -1340,7 +1353,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>97</td>
 		<td>
 			<a href="https://github.com/roomano">
 				<img src="https://avatars.githubusercontent.com/u/68255287?s=72&u=1e0fa26c990d1ec9329d17920b007a665ade22f1&v=4" width="24" alt="Avatar of roomano"> roomano
@@ -1353,7 +1366,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>97</td>
+		<td>98</td>
 		<td>
 			<a href="https://github.com/franciscofijamo">
 				<img src="https://avatars.githubusercontent.com/u/63910629?s=72&u=820171d777d7b27864e3026cd9ec5a5dc20486b5&v=4" width="24" alt="Avatar of franciscofijamo"> franciscofijamo
@@ -1366,7 +1379,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>98</td>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/yurken49">
 				<img src="https://avatars.githubusercontent.com/u/76201386?s=72&v=4" width="24" alt="Avatar of yurken49"> yurken49
@@ -1376,19 +1389,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Yurken_Davi">Yurken_Davi</a></td>
 		<td>Mozambique, Maputo city</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>99</td>
-		<td>
-			<a href="https://github.com/adolforicardo">
-				<img src="https://avatars.githubusercontent.com/u/44292931?s=72&v=4" width="24" alt="Avatar of adolforicardo"> adolforicardo
-			</a><br/>
-			Adolfo Ricardo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maputo, Mozambique</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -1459,19 +1459,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>105</td>
 		<td>
-			<a href="https://github.com/EACUAMBA">
-				<img src="https://avatars.githubusercontent.com/u/68120258?s=72&u=6e1e93bdd64ab34d73456cbb320a9482528d0d9d&v=4" width="24" alt="Avatar of EACUAMBA"> EACUAMBA
-			</a><br/>
-			Edilson Alexandre Cuamba
-		</td>
-		<td>Thunder Mozambique </td>
-		<td>No Twitter Username</td>
-		<td>Maputo</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>106</td>
-		<td>
 			<a href="https://github.com/GabrielTimba">
 				<img src="https://avatars.githubusercontent.com/u/49195303?s=72&u=41be0859c3107dcc09305735da9a7b97a693a1c9&v=4" width="24" alt="Avatar of GabrielTimba"> GabrielTimba
 			</a><br/>
@@ -1483,7 +1470,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/FTembe">
 				<img src="https://avatars.githubusercontent.com/u/31000619?s=72&u=2e93fffb986e9f85db629c198ec953ad846b6c2e&v=4" width="24" alt="Avatar of FTembe"> FTembe
@@ -1496,7 +1483,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/robertojuniorn">
 				<img src="https://avatars.githubusercontent.com/u/77936944?s=72&u=611e58fc0d2a01f0e14b1fb0f3077618390fbe41&v=4" width="24" alt="Avatar of robertojuniorn"> robertojuniorn
@@ -1509,7 +1496,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/DanielAntonioSitoe">
 				<img src="https://avatars.githubusercontent.com/u/42523503?s=72&u=6ba52d271a9154d832f4eb579aa1c86effa1759c&v=4" width="24" alt="Avatar of DanielAntonioSitoe"> DanielAntonioSitoe
@@ -1522,7 +1509,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/leonelmeque">
 				<img src="https://avatars.githubusercontent.com/u/50524749?s=72&u=feb5e32b76bc406f2f47775b091d194abf8ec313&v=4" width="24" alt="Avatar of leonelmeque"> leonelmeque
@@ -1532,6 +1519,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>Vodacom Mozambique </td>
 		<td>No Twitter Username</td>
 		<td>Maputo, Mozambique</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>110</td>
+		<td>
+			<a href="https://github.com/zilefc">
+				<img src="https://avatars.githubusercontent.com/u/46302322?s=72&u=1cc61b73be1305eb55d55ec307ecd4f1eaf68000&v=4" width="24" alt="Avatar of zilefc"> zilefc
+			</a><br/>
+			Frederico Zile
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maputo</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -1628,6 +1628,32 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>118</td>
 		<td>
+			<a href="https://github.com/nakatsinho">
+				<img src="https://avatars.githubusercontent.com/u/54830544?s=72&u=47a21f0ab37cc08eb694a12abeb8094dbffb4a58&v=4" width="24" alt="Avatar of nakatsinho"> nakatsinho
+			</a><br/>
+			Kelton M. Cumbe
+		</td>
+		<td>@champiermz @legocodemz  </td>
+		<td><a href="https://twitter.com/nakatsinho">nakatsinho</a></td>
+		<td>Maputo -  Mozambique</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
+			<a href="https://github.com/EACUAMBA">
+				<img src="https://avatars.githubusercontent.com/u/68120258?s=72&u=6e1e93bdd64ab34d73456cbb320a9482528d0d9d&v=4" width="24" alt="Avatar of EACUAMBA"> EACUAMBA
+			</a><br/>
+			Edilson Alexandre Cuamba
+		</td>
+		<td>Thunder Mozambique </td>
+		<td>No Twitter Username</td>
+		<td>Maputo</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>
 			<a href="https://github.com/delfim-junior">
 				<img src="https://avatars.githubusercontent.com/u/58065381?s=72&u=8de9fa1ba9075930b253842ff84b1f1b69b3f752&v=4" width="24" alt="Avatar of delfim-junior"> delfim-junior
 			</a><br/>
@@ -1636,32 +1662,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Maputo, Mozambique</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>119</td>
-		<td>
-			<a href="https://github.com/zilefc">
-				<img src="https://avatars.githubusercontent.com/u/46302322?s=72&u=1cc61b73be1305eb55d55ec307ecd4f1eaf68000&v=4" width="24" alt="Avatar of zilefc"> zilefc
-			</a><br/>
-			Frederico Zile
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maputo</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>120</td>
-		<td>
-			<a href="https://github.com/MostWanted17">
-				<img src="https://avatars.githubusercontent.com/u/53215893?s=72&v=4" width="24" alt="Avatar of MostWanted17"> MostWanted17
-			</a><br/>
-			David Maranho
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Moçambique, Sofala, Beira</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -1706,19 +1706,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>124</td>
 		<td>
-			<a href="https://github.com/Agostinhodossantos">
-				<img src="https://avatars.githubusercontent.com/u/44563964?s=72&u=add39e9d79bba61cf7fe20186325841421e7dcea&v=4" width="24" alt="Avatar of Agostinhodossantos"> Agostinhodossantos
-			</a><br/>
-			Agostinho Dos Santos
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maputo, Mozambique</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>125</td>
-		<td>
 			<a href="https://github.com/m3lvin-s3rafim">
 				<img src="https://avatars.githubusercontent.com/u/67284022?s=72&u=0e31e1938069c77b7257a300ae1ecd147fb1f7d8&v=4" width="24" alt="Avatar of m3lvin-s3rafim"> m3lvin-s3rafim
 			</a><br/>
@@ -1730,7 +1717,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/bboa3">
 				<img src="https://avatars.githubusercontent.com/u/63426852?s=72&u=206a098f1b5593f82c93ab68e7a696770ce906be&v=4" width="24" alt="Avatar of bboa3"> bboa3
@@ -1743,7 +1730,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/Delfimarime">
 				<img src="https://avatars.githubusercontent.com/u/20571696?s=72&u=bb6eafa69ef5ee3cbd05d7f3da2aaad47ea3b52c&v=4" width="24" alt="Avatar of Delfimarime"> Delfimarime
@@ -1756,20 +1743,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>128</td>
-		<td>
-			<a href="https://github.com/nakatsinho">
-				<img src="https://avatars.githubusercontent.com/u/54830544?s=72&u=47a21f0ab37cc08eb694a12abeb8094dbffb4a58&v=4" width="24" alt="Avatar of nakatsinho"> nakatsinho
-			</a><br/>
-			Kelton M. Cumbe
-		</td>
-		<td>@champiermz @legocodemz  </td>
-		<td><a href="https://twitter.com/nakatsinho">nakatsinho</a></td>
-		<td>Maputo -  Mozambique</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>129</td>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/JoaoCumbula">
 				<img src="https://avatars.githubusercontent.com/u/33693074?s=72&u=69de954b7f8299d112215937c24bc44c7cc80f9e&v=4" width="24" alt="Avatar of JoaoCumbula"> JoaoCumbula
@@ -1782,20 +1756,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>130</td>
-		<td>
-			<a href="https://github.com/Fausio">
-				<img src="https://avatars.githubusercontent.com/u/40181269?s=72&u=290e9b2fe47655cb848ebcd204973a000d84f568&v=4" width="24" alt="Avatar of Fausio"> Fausio
-			</a><br/>
-			Fáusio Luís
-		</td>
-		<td>Ologa - Sistemas Informáticos<br/></td>
-		<td>No Twitter Username</td>
-		<td>MAPUTO</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>131</td>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/CelsoDeCarvalho">
 				<img src="https://avatars.githubusercontent.com/u/64174170?s=72&u=35359b539756fe1c8091d8b01a0e2372553db81b&v=4" width="24" alt="Avatar of CelsoDeCarvalho"> CelsoDeCarvalho
@@ -1808,7 +1769,20 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>129</td>
+		<td>
+			<a href="https://github.com/Fausio">
+				<img src="https://avatars.githubusercontent.com/u/40181269?s=72&u=290e9b2fe47655cb848ebcd204973a000d84f568&v=4" width="24" alt="Avatar of Fausio"> Fausio
+			</a><br/>
+			Fáusio Luís
+		</td>
+		<td>Ologa - Sistemas Informáticos<br/></td>
+		<td>No Twitter Username</td>
+		<td>MAPUTO</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/jossiasmupandza">
 				<img src="https://avatars.githubusercontent.com/u/38070519?s=72&v=4" width="24" alt="Avatar of jossiasmupandza"> jossiasmupandza
@@ -1821,7 +1795,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/Wildpenas">
 				<img src="https://avatars.githubusercontent.com/u/77933701?s=72&u=95a24f5679b188308461fd141c8e961a3d47bc76&v=4" width="24" alt="Avatar of Wildpenas"> Wildpenas
@@ -1834,7 +1808,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>134</td>
+		<td>132</td>
 		<td>
 			<a href="https://github.com/tantofaznem">
 				<img src="https://avatars.githubusercontent.com/u/6969148?s=72&u=4134456e18df84a35869c84d7c5de2c07c2041c2&v=4" width="24" alt="Avatar of tantofaznem"> tantofaznem
@@ -1847,7 +1821,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/fader-azevedo">
 				<img src="https://avatars.githubusercontent.com/u/30689866?s=72&u=bfd1aaad85826497bdf56eae5ad99a142546b7e3&v=4" width="24" alt="Avatar of fader-azevedo"> fader-azevedo
@@ -1860,7 +1834,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/queirozSousa">
 				<img src="https://avatars.githubusercontent.com/u/64691992?s=72&u=fe9fd40b686b998ff1be4fea9c046fcea27a3554&v=4" width="24" alt="Avatar of queirozSousa"> queirozSousa
@@ -1873,7 +1847,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/echivambo">
 				<img src="https://avatars.githubusercontent.com/u/31899027?s=72&u=9935a2d3a576adbc8c4afcf354c023d7a7d07650&v=4" width="24" alt="Avatar of echivambo"> echivambo
@@ -1886,7 +1860,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/MiltonInguane">
 				<img src="https://avatars.githubusercontent.com/u/42754835?s=72&u=7b48646d515b5cec22877b44bb0d4fba04340cac&v=4" width="24" alt="Avatar of MiltonInguane"> MiltonInguane
@@ -1896,6 +1870,32 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Moçambique, Maputo</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>137</td>
+		<td>
+			<a href="https://github.com/dyotamo">
+				<img src="https://avatars.githubusercontent.com/u/9819921?s=72&u=fbb24ad6758fabd0546920087ffff8961c127aac&v=4" width="24" alt="Avatar of dyotamo"> dyotamo
+			</a><br/>
+			Dássone J. Yotamo
+		</td>
+		<td>Vodacom Mozambique </td>
+		<td><a href="https://twitter.com/dyotamo007">dyotamo007</a></td>
+		<td>Maputo, MZ</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>138</td>
+		<td>
+			<a href="https://github.com/MostWanted17">
+				<img src="https://avatars.githubusercontent.com/u/53215893?s=72&v=4" width="24" alt="Avatar of MostWanted17"> MostWanted17
+			</a><br/>
+			David Maranho
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Moçambique, Sofala, Beira</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -1914,14 +1914,14 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>140</td>
 		<td>
-			<a href="https://github.com/Luzidio">
-				<img src="https://avatars.githubusercontent.com/u/48757536?s=72&u=436719b137de30ffe7a28beca78524f337493170&v=4" width="24" alt="Avatar of Luzidio"> Luzidio
+			<a href="https://github.com/santosussene">
+				<img src="https://avatars.githubusercontent.com/u/80075551?s=72&u=f9ba9e78d2b47a0053b151cddea80b84a4fd0671&v=4" width="24" alt="Avatar of santosussene"> santosussene
 			</a><br/>
-			Luzídio Rafael
+			Santos Ussene
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maputo, Moçambique</td>
+		<td>Moz Digi Solutions Lda<br/></td>
+		<td><a href="https://twitter.com/santos_ussene">santos_ussene</a></td>
+		<td>Mozambique - Beira City</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -1979,6 +1979,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>145</td>
 		<td>
+			<a href="https://github.com/joaomachiana">
+				<img src="https://avatars.githubusercontent.com/u/5045783?s=72&u=4051dac7c6812035f9602897ea6e59a9929f2902&v=4" width="24" alt="Avatar of joaomachiana"> joaomachiana
+			</a><br/>
+			Joao Machiana
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maputo - Mozambique</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>146</td>
+		<td>
 			<a href="https://github.com/HoracioJunior">
 				<img src="https://avatars.githubusercontent.com/u/38478347?s=72&u=461ab4ae8439967a3d6124f0854129902fe8e311&v=4" width="24" alt="Avatar of HoracioJunior"> HoracioJunior
 			</a><br/>
@@ -1990,7 +2003,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/lourencomanjate">
 				<img src="https://avatars.githubusercontent.com/u/46556049?s=72&u=0f2f051ca41e7d9c3df5da7600c73ecd99096091&v=4" width="24" alt="Avatar of lourencomanjate"> lourencomanjate
@@ -2000,19 +2013,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mocambique Beira </td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
-			<a href="https://github.com/joaomachiana">
-				<img src="https://avatars.githubusercontent.com/u/5045783?s=72&u=4051dac7c6812035f9602897ea6e59a9929f2902&v=4" width="24" alt="Avatar of joaomachiana"> joaomachiana
-			</a><br/>
-			Joao Machiana
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maputo - Mozambique</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -2044,6 +2044,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>150</td>
 		<td>
+			<a href="https://github.com/timoteojjunior">
+				<img src="https://avatars.githubusercontent.com/u/3973230?s=72&v=4" width="24" alt="Avatar of timoteojjunior"> timoteojjunior
+			</a><br/>
+			Timoteo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maputo</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>151</td>
+		<td>
 			<a href="https://github.com/explicadordev">
 				<img src="https://avatars.githubusercontent.com/u/33947391?s=72&u=50d1dc26ea3ac593e4c9ac3842c4edc79da9c5b3&v=4" width="24" alt="Avatar of explicadordev"> explicadordev
 			</a><br/>
@@ -2055,7 +2068,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/castroguirrugo">
 				<img src="https://avatars.githubusercontent.com/u/52595419?s=72&u=f8155c78be338ea061d78e36a7253a74cacce063&v=4" width="24" alt="Avatar of castroguirrugo"> castroguirrugo
@@ -2068,7 +2081,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/TiagoBC">
 				<img src="https://avatars.githubusercontent.com/u/4709879?s=72&v=4" width="24" alt="Avatar of TiagoBC"> TiagoBC
@@ -2081,7 +2094,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/Mentorizer">
 				<img src="https://avatars.githubusercontent.com/u/42138007?s=72&v=4" width="24" alt="Avatar of Mentorizer"> Mentorizer
@@ -2094,7 +2107,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/juditemara">
 				<img src="https://avatars.githubusercontent.com/u/49486334?s=72&v=4" width="24" alt="Avatar of juditemara"> juditemara
@@ -2107,7 +2120,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/euclesiacadia">
 				<img src="https://avatars.githubusercontent.com/u/44864959?s=72&u=fbe28b04144584182596cebeca9c21648097aad7&v=4" width="24" alt="Avatar of euclesiacadia"> euclesiacadia
@@ -2120,7 +2133,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/Jorge-Massingue">
 				<img src="https://avatars.githubusercontent.com/u/54271987?s=72&u=4afcce9f3a5c24fa46ba7c50b6598d946d25452f&v=4" width="24" alt="Avatar of Jorge-Massingue"> Jorge-Massingue
@@ -2133,7 +2146,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/Mvxt1">
 				<img src="https://avatars.githubusercontent.com/u/22597065?s=72&v=4" width="24" alt="Avatar of Mvxt1"> Mvxt1
@@ -2146,7 +2159,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/Elton-jose-da-silva">
 				<img src="https://avatars.githubusercontent.com/u/53871338?s=72&v=4" width="24" alt="Avatar of Elton-jose-da-silva"> Elton-jose-da-silva
@@ -2159,7 +2172,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/jmrafael">
 				<img src="https://avatars.githubusercontent.com/u/33831855?s=72&u=8165a2709f648caf2231d896c72bf3abaa629e9a&v=4" width="24" alt="Avatar of jmrafael"> jmrafael
@@ -2172,7 +2185,20 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>161</td>
+		<td>
+			<a href="https://github.com/Agostinhodossantos">
+				<img src="https://avatars.githubusercontent.com/u/44563964?s=72&u=add39e9d79bba61cf7fe20186325841421e7dcea&v=4" width="24" alt="Avatar of Agostinhodossantos"> Agostinhodossantos
+			</a><br/>
+			Agostinho Dos Santos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maputo, Mozambique</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/nairo-mudumane">
 				<img src="https://avatars.githubusercontent.com/u/83153592?s=72&u=ea40ab49a7958bab79ee3ada5966d9b3332d2083&v=4" width="24" alt="Avatar of nairo-mudumane"> nairo-mudumane
@@ -2185,7 +2211,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/GXMUHATE">
 				<img src="https://avatars.githubusercontent.com/u/18415360?s=72&u=eb3a67ce15008f389c916ecff8e0707749bf833c&v=4" width="24" alt="Avatar of GXMUHATE"> GXMUHATE
@@ -2198,7 +2224,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>164</td>
 		<td>
 			<a href="https://github.com/irzelindo">
 				<img src="https://avatars.githubusercontent.com/u/10888023?s=72&u=fbba43ff9a7d578f83c286c0423753f88da60f2e&v=4" width="24" alt="Avatar of irzelindo"> irzelindo
@@ -2211,7 +2237,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/Jeremias-Tivane">
 				<img src="https://avatars.githubusercontent.com/u/22341964?s=72&u=39837b45ebb4ddb565e7d1ef56b966aea3a76007&v=4" width="24" alt="Avatar of Jeremias-Tivane"> Jeremias-Tivane
@@ -2224,7 +2250,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/klvnmbj">
 				<img src="https://avatars.githubusercontent.com/u/43994481?s=72&u=0ea5c5cc998ae9ca434847ff74bf9f46cc8959bd&v=4" width="24" alt="Avatar of klvnmbj"> klvnmbj
@@ -2237,7 +2263,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/ismaelchaquir">
 				<img src="https://avatars.githubusercontent.com/u/21342696?s=72&u=091a9b274b5bf6abdc78e3dd5c4a2643f8cf6c46&v=4" width="24" alt="Avatar of ismaelchaquir"> ismaelchaquir
@@ -2250,7 +2276,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/cleitonmombe">
 				<img src="https://avatars.githubusercontent.com/u/56032928?s=72&u=d1e1bfe97d4c3ebd5a914aca317a70fc4d51330d&v=4" width="24" alt="Avatar of cleitonmombe"> cleitonmombe
@@ -2263,7 +2289,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/GimoMhula">
 				<img src="https://avatars.githubusercontent.com/u/35003387?s=72&u=2a2d4758e02cfebd0433256b48b3dca4f43288f6&v=4" width="24" alt="Avatar of GimoMhula"> GimoMhula
@@ -2276,7 +2302,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/SamuelMaculuve">
 				<img src="https://avatars.githubusercontent.com/u/32066945?s=72&u=637161ff73bdf9b2fff59c9e3997d394ead00f5d&v=4" width="24" alt="Avatar of SamuelMaculuve"> SamuelMaculuve
@@ -2289,7 +2315,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/onesimoGit">
 				<img src="https://avatars.githubusercontent.com/u/45593347?s=72&u=e1eb3888199356565770159e2834d823714f418f&v=4" width="24" alt="Avatar of onesimoGit"> onesimoGit
@@ -2302,20 +2328,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>170</td>
-		<td>
-			<a href="https://github.com/dyotamo">
-				<img src="https://avatars.githubusercontent.com/u/9819921?s=72&u=fbb24ad6758fabd0546920087ffff8961c127aac&v=4" width="24" alt="Avatar of dyotamo"> dyotamo
-			</a><br/>
-			Dássone J. Yotamo
-		</td>
-		<td>Vodacom Mozambique </td>
-		<td><a href="https://twitter.com/dyotamo007">dyotamo007</a></td>
-		<td>Maputo, MZ</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>171</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/iniohd">
 				<img src="https://avatars.githubusercontent.com/u/22657992?s=72&u=98dc21c058eca8ab42566e9e7d73f5812513bd99&v=4" width="24" alt="Avatar of iniohd"> iniohd
@@ -2328,7 +2341,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/yazdejesus">
 				<img src="https://avatars.githubusercontent.com/u/70918025?s=72&u=3f159331163ba2902dbbd37496fe62e656f216a3&v=4" width="24" alt="Avatar of yazdejesus"> yazdejesus
@@ -2341,20 +2354,20 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
 		<td>
-			<a href="https://github.com/santosussene">
-				<img src="https://avatars.githubusercontent.com/u/80075551?s=72&u=f9ba9e78d2b47a0053b151cddea80b84a4fd0671&v=4" width="24" alt="Avatar of santosussene"> santosussene
+			<a href="https://github.com/Luzidio">
+				<img src="https://avatars.githubusercontent.com/u/48757536?s=72&u=436719b137de30ffe7a28beca78524f337493170&v=4" width="24" alt="Avatar of Luzidio"> Luzidio
 			</a><br/>
-			Santos Ussene
+			Luzídio Rafael
 		</td>
-		<td>Moz Digi Solutions Lda<br/></td>
-		<td><a href="https://twitter.com/santos_ussene">santos_ussene</a></td>
-		<td>Mozambique - Beira City</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maputo, Moçambique</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/airesvirgilio">
 				<img src="https://avatars.githubusercontent.com/u/57725103?s=72&u=cbec485d17f94f748935a9a4cba705fce3a01dd5&v=4" width="24" alt="Avatar of airesvirgilio"> airesvirgilio
@@ -2367,7 +2380,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/gersonhouane">
 				<img src="https://avatars.githubusercontent.com/u/31945644?s=72&u=f5c864342314f0cc2d8168da1cee3181bbebae00&v=4" width="24" alt="Avatar of gersonhouane"> gersonhouane
@@ -2380,7 +2393,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/alcinodagraca">
 				<img src="https://avatars.githubusercontent.com/u/39172682?s=72&u=c3f9c48693e4f8ae9792addacb98b8240978838f&v=4" width="24" alt="Avatar of alcinodagraca"> alcinodagraca
@@ -2393,7 +2406,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/joseseieproton">
 				<img src="https://avatars.githubusercontent.com/u/87650371?s=72&u=ae5ccead13933720b0c29ddc5db2b23b0c624170&v=4" width="24" alt="Avatar of joseseieproton"> joseseieproton
@@ -2406,7 +2419,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/SeverMateus">
 				<img src="https://avatars.githubusercontent.com/u/9496788?s=72&u=b2e9e3907e1f3a4c19e234dff3f20541c28fdd42&v=4" width="24" alt="Avatar of SeverMateus"> SeverMateus
@@ -2414,19 +2427,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 			Severino Mateus Jr.
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maputo, Mozambique</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>179</td>
-		<td>
-			<a href="https://github.com/PedroDava">
-				<img src="https://avatars.githubusercontent.com/u/7068535?s=72&u=57ce0ff3d40e1e05488c485944a7d24ffd28d06c&v=4" width="24" alt="Avatar of PedroDava"> PedroDava
-			</a><br/>
-			José Pedro Dava
-		</td>
-		<td>Moovimz </td>
 		<td>No Twitter Username</td>
 		<td>Maputo, Mozambique</td>
 		<td>3</td>
@@ -2447,6 +2447,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>181</td>
 		<td>
+			<a href="https://github.com/sfanuelch">
+				<img src="https://avatars.githubusercontent.com/u/15413104?s=72&u=78f2b6198c20711cd9256015d764ebf81a63c5a2&v=4" width="24" alt="Avatar of sfanuelch"> sfanuelch
+			</a><br/>
+			Simão Fanuel Chamango
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maputo, Mozambique</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>182</td>
+		<td>
 			<a href="https://github.com/gersonMucavele">
 				<img src="https://avatars.githubusercontent.com/u/35137020?s=72&u=4abd4ed2d68d098143ee6d516991b60e87dbfdd1&v=4" width="24" alt="Avatar of gersonMucavele"> gersonMucavele
 			</a><br/>
@@ -2455,19 +2468,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>Explicador Inc, Lda </td>
 		<td>No Twitter Username</td>
 		<td>Maputo,Mozambique</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>182</td>
-		<td>
-			<a href="https://github.com/timoteojjunior">
-				<img src="https://avatars.githubusercontent.com/u/3973230?s=72&v=4" width="24" alt="Avatar of timoteojjunior"> timoteojjunior
-			</a><br/>
-			Timoteo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maputo</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -2499,19 +2499,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>185</td>
 		<td>
-			<a href="https://github.com/leonelmulocha">
-				<img src="https://avatars.githubusercontent.com/u/17267747?s=72&u=f2639bab454fdfbe898fdb14999fcb9f67cb037c&v=4" width="24" alt="Avatar of leonelmulocha"> leonelmulocha
-			</a><br/>
-			Leonel Mulocha
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/thisislelo">thisislelo</a></td>
-		<td>Maputo, Mozambique</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>186</td>
-		<td>
 			<a href="https://github.com/yulaGuivala">
 				<img src="https://avatars.githubusercontent.com/u/56187504?s=72&v=4" width="24" alt="Avatar of yulaGuivala"> yulaGuivala
 			</a><br/>
@@ -2520,6 +2507,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Maputo, Mozomique</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>186</td>
+		<td>
+			<a href="https://github.com/leonelmulocha">
+				<img src="https://avatars.githubusercontent.com/u/17267747?s=72&u=f2639bab454fdfbe898fdb14999fcb9f67cb037c&v=4" width="24" alt="Avatar of leonelmulocha"> leonelmulocha
+			</a><br/>
+			Leonel Mulocha
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/thisislelo">thisislelo</a></td>
+		<td>Maputo, Mozambique</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -2590,6 +2590,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>192</td>
 		<td>
+			<a href="https://github.com/PedroDava">
+				<img src="https://avatars.githubusercontent.com/u/7068535?s=72&u=57ce0ff3d40e1e05488c485944a7d24ffd28d06c&v=4" width="24" alt="Avatar of PedroDava"> PedroDava
+			</a><br/>
+			José Pedro Dava
+		</td>
+		<td>Moovimz </td>
+		<td>No Twitter Username</td>
+		<td>Maputo, Mozambique</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>193</td>
+		<td>
 			<a href="https://github.com/dmgsantos">
 				<img src="https://avatars.githubusercontent.com/u/14132620?s=72&u=5cc6f1dc82d40b8b72129de0454cd74d16919cf3&v=4" width="24" alt="Avatar of dmgsantos"> dmgsantos
 			</a><br/>
@@ -2601,7 +2614,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/fmfortes">
 				<img src="https://avatars.githubusercontent.com/u/1401510?s=72&v=4" width="24" alt="Avatar of fmfortes"> fmfortes
@@ -2614,7 +2627,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/marracuene">
 				<img src="https://avatars.githubusercontent.com/u/66551006?s=72&u=c32b3c4107eac899d812c8546b879ec49037b741&v=4" width="24" alt="Avatar of marracuene"> marracuene
@@ -2627,7 +2640,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/cfaife">
 				<img src="https://avatars.githubusercontent.com/u/18709463?s=72&u=0a7a8912ef61b5263017d9f11ed49b6ee376a5a2&v=4" width="24" alt="Avatar of cfaife"> cfaife
@@ -2640,7 +2653,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>197</td>
 		<td>
 			<a href="https://github.com/paulphilimone">
 				<img src="https://avatars.githubusercontent.com/u/6688438?s=72&u=0acf394c7ff28a63fbafc8dc3eae780191874a4b&v=4" width="24" alt="Avatar of paulphilimone"> paulphilimone
@@ -2653,7 +2666,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/psmatsinhe">
 				<img src="https://avatars.githubusercontent.com/u/7911110?s=72&v=4" width="24" alt="Avatar of psmatsinhe"> psmatsinhe
@@ -2666,7 +2679,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/LTSana">
 				<img src="https://avatars.githubusercontent.com/u/34522558?s=72&u=4a120d2f3c4e2cf776ca63e5a3c72d4e88aea192&v=4" width="24" alt="Avatar of LTSana"> LTSana
@@ -2679,7 +2692,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/SavanaPointOfficial">
 				<img src="https://avatars.githubusercontent.com/u/63527675?s=72&u=3c969395854efdb6cd9ac9cd74aeec848a3c7567&v=4" width="24" alt="Avatar of SavanaPointOfficial"> SavanaPointOfficial
@@ -2689,19 +2702,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>Savanapoint </td>
 		<td><a href="https://twitter.com/SavanaPoint">SavanaPoint</a></td>
 		<td>Maputo</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/HelderMalunga">
-				<img src="https://avatars.githubusercontent.com/u/56542586?s=72&v=4" width="24" alt="Avatar of HelderMalunga"> HelderMalunga
-			</a><br/>
-			Hélder Malunga
-		</td>
-		<td>Estudante </td>
-		<td>No Twitter Username</td>
-		<td>Maputo - Moçambique</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -2720,6 +2720,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>202</td>
 		<td>
+			<a href="https://github.com/HelderMalunga">
+				<img src="https://avatars.githubusercontent.com/u/56542586?s=72&v=4" width="24" alt="Avatar of HelderMalunga"> HelderMalunga
+			</a><br/>
+			Hélder Malunga
+		</td>
+		<td>Estudante </td>
+		<td>No Twitter Username</td>
+		<td>Maputo - Moçambique</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
 			<a href="https://github.com/edilsonmatola">
 				<img src="https://avatars.githubusercontent.com/u/85250817?s=72&u=ad49279fff78929489734958b83639e4e8570b81&v=4" width="24" alt="Avatar of edilsonmatola"> edilsonmatola
 			</a><br/>
@@ -2731,7 +2744,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/hnoor">
 				<img src="https://avatars.githubusercontent.com/u/6995340?s=72&v=4" width="24" alt="Avatar of hnoor"> hnoor
@@ -2744,7 +2757,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/amilcarbg">
 				<img src="https://avatars.githubusercontent.com/u/20599605?s=72&u=82b8ee26bde0293f775cf67bb21c0b16142f8b55&v=4" width="24" alt="Avatar of amilcarbg"> amilcarbg
@@ -2757,7 +2770,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/bernardoaa">
 				<img src="https://avatars.githubusercontent.com/u/88674937?s=72&v=4" width="24" alt="Avatar of bernardoaa"> bernardoaa
@@ -2770,7 +2783,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/muchanga">
 				<img src="https://avatars.githubusercontent.com/u/27733133?s=72&v=4" width="24" alt="Avatar of muchanga"> muchanga
@@ -2780,19 +2793,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Beira, Moçambique</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>207</td>
-		<td>
-			<a href="https://github.com/Americo-Chaquisse">
-				<img src="https://avatars.githubusercontent.com/u/3806576?s=72&u=31a98220398587ac00e4f1aa57a2145ebe3e990c&v=4" width="24" alt="Avatar of Americo-Chaquisse"> Americo-Chaquisse
-			</a><br/>
-			Americo Chaquisse
-		</td>
-		<td>Bci </td>
-		<td>No Twitter Username</td>
-		<td>Maputo, Moçambique</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -2837,14 +2837,14 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>211</td>
 		<td>
-			<a href="https://github.com/NiltonFulano">
-				<img src="https://avatars.githubusercontent.com/u/59121880?s=72&v=4" width="24" alt="Avatar of NiltonFulano"> NiltonFulano
+			<a href="https://github.com/Americo-Chaquisse">
+				<img src="https://avatars.githubusercontent.com/u/3806576?s=72&u=31a98220398587ac00e4f1aa57a2145ebe3e990c&v=4" width="24" alt="Avatar of Americo-Chaquisse"> Americo-Chaquisse
 			</a><br/>
-			No Name
+			Americo Chaquisse
 		</td>
-		<td>No Company</td>
+		<td>Bci </td>
 		<td>No Twitter Username</td>
-		<td>Matola, Maputo, Mozambique</td>
+		<td>Maputo, Moçambique</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -2863,6 +2863,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>213</td>
 		<td>
+			<a href="https://github.com/NiltonFulano">
+				<img src="https://avatars.githubusercontent.com/u/59121880?s=72&v=4" width="24" alt="Avatar of NiltonFulano"> NiltonFulano
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Matola, Maputo, Mozambique</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
 			<a href="https://github.com/abadru">
 				<img src="https://avatars.githubusercontent.com/u/15192264?s=72&u=d98f25153aa03d40db920450d109be7ccb2d000c&v=4" width="24" alt="Avatar of abadru"> abadru
 			</a><br/>
@@ -2874,7 +2887,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/HarrissonRichard">
 				<img src="https://avatars.githubusercontent.com/u/69589722?s=72&v=4" width="24" alt="Avatar of HarrissonRichard"> HarrissonRichard
@@ -2887,7 +2900,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/AF258">
 				<img src="https://avatars.githubusercontent.com/u/86908936?s=72&u=ca04111f618a56ce57ff82bbf6931b824538b28d&v=4" width="24" alt="Avatar of AF258"> AF258
@@ -2897,19 +2910,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mozambican-Maputo</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>216</td>
-		<td>
-			<a href="https://github.com/sfanuelch">
-				<img src="https://avatars.githubusercontent.com/u/15413104?s=72&u=78f2b6198c20711cd9256015d764ebf81a63c5a2&v=4" width="24" alt="Avatar of sfanuelch"> sfanuelch
-			</a><br/>
-			Simão Fanuel Chamango
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maputo, Mozambique</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -3214,19 +3214,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>240</td>
 		<td>
-			<a href="https://github.com/scnguenha">
-				<img src="https://avatars.githubusercontent.com/u/32742390?s=72&u=e399dd967922405b46131de3c4eb8f221a856acf&v=4" width="24" alt="Avatar of scnguenha"> scnguenha
-			</a><br/>
-			Sidónio Goenha
-		</td>
-		<td>Exi, Lda </td>
-		<td>No Twitter Username</td>
-		<td>Maputo, Mozambique</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>241</td>
-		<td>
 			<a href="https://github.com/Helder-Machava">
 				<img src="https://avatars.githubusercontent.com/u/81919768?s=72&u=07fd8bc7cc44145cc54215e18b2792d6cf18d911&v=4" width="24" alt="Avatar of Helder-Machava"> Helder-Machava
 			</a><br/>
@@ -3238,7 +3225,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/damascenol">
 				<img src="https://avatars.githubusercontent.com/u/10496524?s=72&u=b961f22d3b1c57d8cc32100dbd0381dcaaf57922&v=4" width="24" alt="Avatar of damascenol"> damascenol
@@ -3248,6 +3235,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>Fgh </td>
 		<td>No Twitter Username</td>
 		<td>Mozambique, Zambezia, Quelimane</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>242</td>
+		<td>
+			<a href="https://github.com/maltainos">
+				<img src="https://avatars.githubusercontent.com/u/56935769?s=72&u=82d16e9481f167492469957f0845fe32be76c42d&v=4" width="24" alt="Avatar of maltainos"> maltainos
+			</a><br/>
+			Maltainos
+		</td>
+		<td>Ms </td>
+		<td>No Twitter Username</td>
+		<td>Beira, Sofala Mocambique</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -3292,6 +3292,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>246</td>
 		<td>
+			<a href="https://github.com/scnguenha">
+				<img src="https://avatars.githubusercontent.com/u/32742390?s=72&u=e399dd967922405b46131de3c4eb8f221a856acf&v=4" width="24" alt="Avatar of scnguenha"> scnguenha
+			</a><br/>
+			Sidónio Goenha
+		</td>
+		<td>Exi, Lda </td>
+		<td>No Twitter Username</td>
+		<td>Maputo, Mozambique</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>
 			<a href="https://github.com/Manuelromb">
 				<img src="https://avatars.githubusercontent.com/u/71780731?s=72&v=4" width="24" alt="Avatar of Manuelromb"> Manuelromb
 			</a><br/>
@@ -3300,19 +3313,6 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mozambique, Maputo.</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>247</td>
-		<td>
-			<a href="https://github.com/gersonnotico">
-				<img src="https://avatars.githubusercontent.com/u/68229913?s=72&u=4581330371fdf1505560d1e1d383fea44dd20d51&v=4" width="24" alt="Avatar of gersonnotico"> gersonnotico
-			</a><br/>
-			Gerson José Paulo Notiço
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maputo, Mozambique</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -3331,6 +3331,19 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>249</td>
 		<td>
+			<a href="https://github.com/gersonnotico">
+				<img src="https://avatars.githubusercontent.com/u/68229913?s=72&u=4581330371fdf1505560d1e1d383fea44dd20d51&v=4" width="24" alt="Avatar of gersonnotico"> gersonnotico
+			</a><br/>
+			Gerson José Paulo Notiço
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maputo, Mozambique</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>
 			<a href="https://github.com/francisco-zucula">
 				<img src="https://avatars.githubusercontent.com/u/68234552?s=72&u=e6d0051f71a3a3a6fb2c36d6c2405006cf8698e2&v=4" width="24" alt="Avatar of francisco-zucula"> francisco-zucula
 			</a><br/>
@@ -3342,7 +3355,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/rosarioog3nio">
 				<img src="https://avatars.githubusercontent.com/u/27642985?s=72&v=4" width="24" alt="Avatar of rosarioog3nio"> rosarioog3nio
@@ -3355,7 +3368,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/igorjocordasse">
 				<img src="https://avatars.githubusercontent.com/u/48513727?s=72&u=5cea3efc53ae25c9cc27d33d002c75a89ef3adb1&v=4" width="24" alt="Avatar of igorjocordasse"> igorjocordasse
@@ -3368,7 +3381,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/benchambule">
 				<img src="https://avatars.githubusercontent.com/u/24395031?s=72&v=4" width="24" alt="Avatar of benchambule"> benchambule
@@ -3381,7 +3394,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/mellodimande">
 				<img src="https://avatars.githubusercontent.com/u/29012453?s=72&v=4" width="24" alt="Avatar of mellodimande"> mellodimande
@@ -3394,7 +3407,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/asacur1992">
 				<img src="https://avatars.githubusercontent.com/u/27341187?s=72&u=28d37e6d8d9c595eef3a71697f2d12c856067906&v=4" width="24" alt="Avatar of asacur1992"> asacur1992
@@ -3407,7 +3420,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/JoseArmandoFumo">
 				<img src="https://avatars.githubusercontent.com/u/54287793?s=72&v=4" width="24" alt="Avatar of JoseArmandoFumo"> JoseArmandoFumo
@@ -3420,7 +3433,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/pcamla">
 				<img src="https://avatars.githubusercontent.com/u/89820377?s=72&u=dde9a58d4d4c5f3c1f46fa7f7e45bad1d1fb4fb5&v=4" width="24" alt="Avatar of pcamla"> pcamla
@@ -3433,7 +3446,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/osvaldoFreitas">
 				<img src="https://avatars.githubusercontent.com/u/73468995?s=72&u=f013fd549d3a0f62db98dad8bbfc1be4c0ce257e&v=4" width="24" alt="Avatar of osvaldoFreitas"> osvaldoFreitas
@@ -3446,7 +3459,20 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>259</td>
+		<td>
+			<a href="https://github.com/PedroMarcelino32">
+				<img src="https://avatars.githubusercontent.com/u/49428431?s=72&u=f215f43c61294f4ea3f466dda0d3c27935d89658&v=4" width="24" alt="Avatar of PedroMarcelino32"> PedroMarcelino32
+			</a><br/>
+			Pedro Marcelino Manhiça
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mozambique, Maputo</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/junior-pires">
 				<img src="https://avatars.githubusercontent.com/u/46570027?s=72&u=c932a6c8fd462d3ec9a3d8b2e13af66f71372319&v=4" width="24" alt="Avatar of junior-pires"> junior-pires
@@ -3459,7 +3485,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>261</td>
 		<td>
 			<a href="https://github.com/helderjossiasmate">
 				<img src="https://avatars.githubusercontent.com/u/44772199?s=72&u=7f0877e62e9e0f2dcb8d987c02e7ade96b785ac2&v=4" width="24" alt="Avatar of helderjossiasmate"> helderjossiasmate
@@ -3472,7 +3498,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/EdsonNhancale">
 				<img src="https://avatars.githubusercontent.com/u/54271761?s=72&u=7af50242394814c10b901a15f16297eb58f610ae&v=4" width="24" alt="Avatar of EdsonNhancale"> EdsonNhancale
@@ -3485,150 +3511,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>261</td>
-		<td>
-			<a href="https://github.com/2e2m">
-				<img src="https://avatars.githubusercontent.com/u/59722944?s=72&v=4" width="24" alt="Avatar of 2e2m"> 2e2m
-			</a><br/>
-			No Name
-		</td>
-		<td>Clickclickmoz </td>
-		<td>No Twitter Username</td>
-		<td>Beira</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>262</td>
-		<td>
-			<a href="https://github.com/RicardoReichert">
-				<img src="https://avatars.githubusercontent.com/u/52411224?s=72&v=4" width="24" alt="Avatar of RicardoReichert"> RicardoReichert
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maputo - Moçambique</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>263</td>
-		<td>
-			<a href="https://github.com/benalda">
-				<img src="https://avatars.githubusercontent.com/u/82959243?s=72&u=19de653976cc3fdbc3adbf1a6b9fd59c5c16e4c9&v=4" width="24" alt="Avatar of benalda"> benalda
-			</a><br/>
-			Benalda Marcelino Banda
-		</td>
-		<td>Coca Cola Company Sabco<br/>Mozambique<br/></td>
-		<td>No Twitter Username</td>
-		<td>Maputo, Mozambique</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>264</td>
-		<td>
-			<a href="https://github.com/Piletiche">
-				<img src="https://avatars.githubusercontent.com/u/68904752?s=72&u=16762a03c351a68cf017c8918b7c546661b8157e&v=4" width="24" alt="Avatar of Piletiche"> Piletiche
-			</a><br/>
-			Rosel Maria Jose Piletiche
-		</td>
-		<td>Universidade Licungo </td>
-		<td>No Twitter Username</td>
-		<td>Quelimane</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>265</td>
-		<td>
-			<a href="https://github.com/uemDev">
-				<img src="https://avatars.githubusercontent.com/u/91751263?s=72&u=6a92c33bc2154017c5cc79b24be22416e72e1695&v=4" width="24" alt="Avatar of uemDev"> uemDev
-			</a><br/>
-			ciuemDev
-		</td>
-		<td>Centro De Informatica -<br/>Universidade<br/>Eduardo<br/>Mondlane<br/></td>
-		<td>No Twitter Username</td>
-		<td>Maputo</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>266</td>
-		<td>
-			<a href="https://github.com/MawoneloProjectos">
-				<img src="https://avatars.githubusercontent.com/u/89925231?s=72&v=4" width="24" alt="Avatar of MawoneloProjectos"> MawoneloProjectos
-			</a><br/>
-			Mawonelo Projectos 
-		</td>
-		<td>Mawonelo Consultoria E Serviços<br/>E.i<br/></td>
-		<td>No Twitter Username</td>
-		<td>Maputo,Mozambique</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>267</td>
-		<td>
-			<a href="https://github.com/hkabwe">
-				<img src="https://avatars.githubusercontent.com/u/79161681?s=72&u=0d7728d0e009db667d4f5a8432eb49868382ae72&v=4" width="24" alt="Avatar of hkabwe"> hkabwe
-			</a><br/>
-			Horacio Kabwe
-		</td>
-		<td>Banco Unico </td>
-		<td><a href="https://twitter.com/HoracioKabwe">HoracioKabwe</a></td>
-		<td>Maputo</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>268</td>
-		<td>
-			<a href="https://github.com/Eugeniochiau">
-				<img src="https://avatars.githubusercontent.com/u/85197739?s=72&u=7047964990b8d72e921b41ddcac32ce1bc16eb77&v=4" width="24" alt="Avatar of Eugeniochiau"> Eugeniochiau
-			</a><br/>
-			Eugenio Chiau
-		</td>
-		<td>Explicador,inc </td>
-		<td>No Twitter Username</td>
-		<td>Maputo, Mozambique</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>269</td>
-		<td>
-			<a href="https://github.com/WilsonJeremias">
-				<img src="https://avatars.githubusercontent.com/u/82446715?s=72&v=4" width="24" alt="Avatar of WilsonJeremias"> WilsonJeremias
-			</a><br/>
-			Wilson de Assuncao Jeremias
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mocambique, Maputo</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>270</td>
-		<td>
-			<a href="https://github.com/NiltonChaguatica">
-				<img src="https://avatars.githubusercontent.com/u/88292349?s=72&u=a2c764a0228177e35756108e6dc63d18d5794021&v=4" width="24" alt="Avatar of NiltonChaguatica"> NiltonChaguatica
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Matola</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>271</td>
-		<td>
-			<a href="https://github.com/vangnhyaSnead">
-				<img src="https://avatars.githubusercontent.com/u/71712606?s=72&u=a7d40fa342491354955875ad0bc487cb9b293c5e&v=4" width="24" alt="Avatar of vangnhyaSnead"> vangnhyaSnead
-			</a><br/>
-			Vangnhya Snead F.Matavele
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maputo, Mozambique</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>272</td>
 		<td>
 			<a href="https://github.com/MazeDevelopmentMoz">
 				<img src="https://avatars.githubusercontent.com/u/88905241?s=72&u=ec9030fbc9d72d05826b5f2fd591785978348685&v=4" width="24" alt="Avatar of MazeDevelopmentMoz"> MazeDevelopmentMoz
@@ -3641,7 +3524,150 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
+		<td>264</td>
+		<td>
+			<a href="https://github.com/2e2m">
+				<img src="https://avatars.githubusercontent.com/u/59722944?s=72&v=4" width="24" alt="Avatar of 2e2m"> 2e2m
+			</a><br/>
+			No Name
+		</td>
+		<td>Clickclickmoz </td>
+		<td>No Twitter Username</td>
+		<td>Beira</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>265</td>
+		<td>
+			<a href="https://github.com/RicardoReichert">
+				<img src="https://avatars.githubusercontent.com/u/52411224?s=72&v=4" width="24" alt="Avatar of RicardoReichert"> RicardoReichert
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maputo - Moçambique</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>266</td>
+		<td>
+			<a href="https://github.com/benalda">
+				<img src="https://avatars.githubusercontent.com/u/82959243?s=72&u=19de653976cc3fdbc3adbf1a6b9fd59c5c16e4c9&v=4" width="24" alt="Avatar of benalda"> benalda
+			</a><br/>
+			Benalda Marcelino Banda
+		</td>
+		<td>Coca Cola Company Sabco<br/>Mozambique<br/></td>
+		<td>No Twitter Username</td>
+		<td>Maputo, Mozambique</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>267</td>
+		<td>
+			<a href="https://github.com/Piletiche">
+				<img src="https://avatars.githubusercontent.com/u/68904752?s=72&u=16762a03c351a68cf017c8918b7c546661b8157e&v=4" width="24" alt="Avatar of Piletiche"> Piletiche
+			</a><br/>
+			Rosel Maria Jose Piletiche
+		</td>
+		<td>Universidade Licungo </td>
+		<td>No Twitter Username</td>
+		<td>Quelimane</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>268</td>
+		<td>
+			<a href="https://github.com/MawoneloProjectos">
+				<img src="https://avatars.githubusercontent.com/u/89925231?s=72&v=4" width="24" alt="Avatar of MawoneloProjectos"> MawoneloProjectos
+			</a><br/>
+			Mawonelo Projectos 
+		</td>
+		<td>Mawonelo Consultoria E Serviços<br/>E.i<br/></td>
+		<td>No Twitter Username</td>
+		<td>Maputo,Mozambique</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>269</td>
+		<td>
+			<a href="https://github.com/uemDev">
+				<img src="https://avatars.githubusercontent.com/u/91751263?s=72&u=6a92c33bc2154017c5cc79b24be22416e72e1695&v=4" width="24" alt="Avatar of uemDev"> uemDev
+			</a><br/>
+			ciuemDev
+		</td>
+		<td>Centro De Informatica -<br/>Universidade<br/>Eduardo<br/>Mondlane<br/></td>
+		<td>No Twitter Username</td>
+		<td>Maputo</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>
+			<a href="https://github.com/hkabwe">
+				<img src="https://avatars.githubusercontent.com/u/79161681?s=72&u=0d7728d0e009db667d4f5a8432eb49868382ae72&v=4" width="24" alt="Avatar of hkabwe"> hkabwe
+			</a><br/>
+			Horacio Kabwe
+		</td>
+		<td>Banco Unico </td>
+		<td><a href="https://twitter.com/HoracioKabwe">HoracioKabwe</a></td>
+		<td>Maputo</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>
+			<a href="https://github.com/Eugeniochiau">
+				<img src="https://avatars.githubusercontent.com/u/85197739?s=72&u=7047964990b8d72e921b41ddcac32ce1bc16eb77&v=4" width="24" alt="Avatar of Eugeniochiau"> Eugeniochiau
+			</a><br/>
+			Eugenio Chiau
+		</td>
+		<td>Explicador,inc </td>
+		<td>No Twitter Username</td>
+		<td>Maputo, Mozambique</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
+			<a href="https://github.com/WilsonJeremias">
+				<img src="https://avatars.githubusercontent.com/u/82446715?s=72&v=4" width="24" alt="Avatar of WilsonJeremias"> WilsonJeremias
+			</a><br/>
+			Wilson de Assuncao Jeremias
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mocambique, Maputo</td>
+		<td>1</td>
+	</tr>
+	<tr>
 		<td>273</td>
+		<td>
+			<a href="https://github.com/NiltonChaguatica">
+				<img src="https://avatars.githubusercontent.com/u/88292349?s=72&u=a2c764a0228177e35756108e6dc63d18d5794021&v=4" width="24" alt="Avatar of NiltonChaguatica"> NiltonChaguatica
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Matola</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>274</td>
+		<td>
+			<a href="https://github.com/vangnhyaSnead">
+				<img src="https://avatars.githubusercontent.com/u/71712606?s=72&u=a7d40fa342491354955875ad0bc487cb9b293c5e&v=4" width="24" alt="Avatar of vangnhyaSnead"> vangnhyaSnead
+			</a><br/>
+			Vangnhya Snead F.Matavele
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maputo, Mozambique</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/CristianoGil">
 				<img src="https://avatars.githubusercontent.com/u/8783921?s=72&u=3957d87ddf85653c08486bfaf827aba7d36cab8b&v=4" width="24" alt="Avatar of CristianoGil"> CristianoGil
@@ -3654,7 +3680,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/joaopalate">
 				<img src="https://avatars.githubusercontent.com/u/74269408?s=72&u=a4f4a3d37b6b7040e71650c4669b6501809e7880&v=4" width="24" alt="Avatar of joaopalate"> joaopalate
@@ -3667,7 +3693,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/euclidesmoiane">
 				<img src="https://avatars.githubusercontent.com/u/76060004?s=72&v=4" width="24" alt="Avatar of euclidesmoiane"> euclidesmoiane
@@ -3680,7 +3706,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/AlguemDaRua">
 				<img src="https://avatars.githubusercontent.com/u/76119431?s=72&u=b01bc8733a4da596d6c44422f8c8599a0c9f5dfc&v=4" width="24" alt="Avatar of AlguemDaRua"> AlguemDaRua
@@ -3693,7 +3719,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/leondark">
 				<img src="https://avatars.githubusercontent.com/u/9781670?s=72&u=3eac6c389ae173986869516782bc34a6d0aa1a51&v=4" width="24" alt="Avatar of leondark"> leondark
@@ -3706,7 +3732,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>280</td>
 		<td>
 			<a href="https://github.com/valdopery">
 				<img src="https://avatars.githubusercontent.com/u/46064302?s=72&u=b0986e2c784665680ce0713a576940fbb57103cc&v=4" width="24" alt="Avatar of valdopery"> valdopery
@@ -3719,7 +3745,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/snhancume">
 				<img src="https://avatars.githubusercontent.com/u/8069196?s=72&u=7b0a5fc1a3613b761172b9d3a829cb33ff3dc211&v=4" width="24" alt="Avatar of snhancume"> snhancume
@@ -3732,7 +3758,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/carlosbulule">
 				<img src="https://avatars.githubusercontent.com/u/8768392?s=72&v=4" width="24" alt="Avatar of carlosbulule"> carlosbulule
@@ -3745,7 +3771,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/Faid-98">
 				<img src="https://avatars.githubusercontent.com/u/63150230?s=72&u=0b42a4f69085af58a9f2e1134fc0b84627cfaa47&v=4" width="24" alt="Avatar of Faid-98"> Faid-98
@@ -3758,7 +3784,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/dincassamo98">
 				<img src="https://avatars.githubusercontent.com/u/67518379?s=72&u=fb80a9b2e7c088954c3f1f9b4cc01a730b3a8414&v=4" width="24" alt="Avatar of dincassamo98"> dincassamo98
@@ -3771,7 +3797,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>285</td>
 		<td>
 			<a href="https://github.com/AUCox">
 				<img src="https://avatars.githubusercontent.com/u/54266190?s=72&v=4" width="24" alt="Avatar of AUCox"> AUCox
@@ -3784,7 +3810,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>284</td>
+		<td>286</td>
 		<td>
 			<a href="https://github.com/champier">
 				<img src="https://avatars.githubusercontent.com/u/15213215?s=72&u=5653841fa7c203a70fba202841f36d34e0eaeb00&v=4" width="24" alt="Avatar of champier"> champier
@@ -3797,7 +3823,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>285</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/FelixMarondo">
 				<img src="https://avatars.githubusercontent.com/u/72262069?s=72&v=4" width="24" alt="Avatar of FelixMarondo"> FelixMarondo
@@ -3810,7 +3836,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/silvioheynckes">
 				<img src="https://avatars.githubusercontent.com/u/19708061?s=72&v=4" width="24" alt="Avatar of silvioheynckes"> silvioheynckes
@@ -3823,7 +3849,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/j7macuacua">
 				<img src="https://avatars.githubusercontent.com/u/49056853?s=72&u=7ff27b765a67d627e985b06450945c8c51df78c5&v=4" width="24" alt="Avatar of j7macuacua"> j7macuacua
@@ -3836,7 +3862,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/alfredofrancisco99">
 				<img src="https://avatars.githubusercontent.com/u/58455761?s=72&v=4" width="24" alt="Avatar of alfredofrancisco99"> alfredofrancisco99
@@ -3849,7 +3875,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/Kakau-Oo">
 				<img src="https://avatars.githubusercontent.com/u/22320756?s=72&u=a86e915c0c13b2bc87a8ba5c9c44b5f46f80e489&v=4" width="24" alt="Avatar of Kakau-Oo"> Kakau-Oo
@@ -3862,7 +3888,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/youngSlim01">
 				<img src="https://avatars.githubusercontent.com/u/33871687?s=72&v=4" width="24" alt="Avatar of youngSlim01"> youngSlim01
@@ -3875,7 +3901,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/Infordata-Lda">
 				<img src="https://avatars.githubusercontent.com/u/49872383?s=72&u=6a31999373a48e0f75f196169d30d349dc8cc5af&v=4" width="24" alt="Avatar of Infordata-Lda"> Infordata-Lda
@@ -3888,7 +3914,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/Mandalte">
 				<img src="https://avatars.githubusercontent.com/u/14886079?s=72&u=966d475fe31776c3f31c4e443a261f2eaf73bc9b&v=4" width="24" alt="Avatar of Mandalte"> Mandalte
@@ -3901,7 +3927,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/h4ckn4n0x01">
 				<img src="https://avatars.githubusercontent.com/u/42326571?s=72&u=57ec90189913a273e802bc5c9d05dc6d29c5d6a9&v=4" width="24" alt="Avatar of h4ckn4n0x01"> h4ckn4n0x01
@@ -3914,7 +3940,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/oresteafrica">
 				<img src="https://avatars.githubusercontent.com/u/3955395?s=72&u=47cb79d772009052519fcff4ea1a7837f43c6462&v=4" width="24" alt="Avatar of oresteafrica"> oresteafrica
@@ -3927,7 +3953,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/aleixo-fx">
 				<img src="https://avatars.githubusercontent.com/u/19210598?s=72&u=cf31fcf6e1882c0f315b2a1fa52fe248ff181bcd&v=4" width="24" alt="Avatar of aleixo-fx"> aleixo-fx
@@ -3940,7 +3966,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>298</td>
 		<td>
 			<a href="https://github.com/ntsetso">
 				<img src="https://avatars.githubusercontent.com/u/4503513?s=72&v=4" width="24" alt="Avatar of ntsetso"> ntsetso
@@ -3953,7 +3979,7 @@ There are `645 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>299</td>
 		<td>
 			<a href="https://github.com/RicardoChambe">
 				<img src="https://avatars.githubusercontent.com/u/37326584?s=72&u=2dc350b067c279dd4319de8cb9fe0e41f79f0878&v=4" width="24" alt="Avatar of RicardoChambe"> RicardoChambe
