@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2021/11/15 3:18 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2021/11/21 9:16 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `286 users`  in Laos. You need at least `0 followers` to be on this list.
+There are `287 users`  in Laos. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -141,7 +141,7 @@ There are `286 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>@bcel </td>
 		<td>No Twitter Username</td>
 		<td>Vientiane,Laos</td>
-		<td>11</td>
+		<td>12</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `286 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Adacademy.ed.,acm </td>
 		<td><a href="https://twitter.com/chanthavong_12">chanthavong_12</a></td>
 		<td>Vientiane, Laos</td>
-		<td>10</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -1199,19 +1199,6 @@ There are `286 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>85</td>
 		<td>
-			<a href="https://github.com/kanokith">
-				<img src="https://avatars.githubusercontent.com/u/41558046?s=72&u=6c0ee0481cd7c03b1650fd9d11493fd371ebf812&v=4" width="24" alt="Avatar of kanokith"> kanokith
-			</a><br/>
-			Kanok ITH
-		</td>
-		<td>Ith </td>
-		<td>No Twitter Username</td>
-		<td>Laos</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>86</td>
-		<td>
 			<a href="https://github.com/longlee-ch">
 				<img src="https://avatars.githubusercontent.com/u/7879072?s=72&u=929c5c9d4855d27cd73a29743b1c53e6c0025439&v=4" width="24" alt="Avatar of longlee-ch"> longlee-ch
 			</a><br/>
@@ -1220,6 +1207,19 @@ There are `286 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>laos</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>86</td>
+		<td>
+			<a href="https://github.com/kanokith">
+				<img src="https://avatars.githubusercontent.com/u/41558046?s=72&u=6c0ee0481cd7c03b1650fd9d11493fd371ebf812&v=4" width="24" alt="Avatar of kanokith"> kanokith
+			</a><br/>
+			Kanok ITH
+		</td>
+		<td>Ith </td>
+		<td>No Twitter Username</td>
+		<td>Laos</td>
 		<td>1</td>
 	</tr>
 	<tr>
