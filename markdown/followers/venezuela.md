@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg" alt="Venezuela">
 </a>
 
-The `number of followers` of users in Venezuela on `2021/11/24 3:23 AM UTC`. This list contains users from `Venezuela` and cities `Caracas` `Maracay` `Maracaibo` `Guayana-city`.
+The `number of followers` of users in Venezuela on `2021/11/29 10:23 PM UTC`. This list contains users from `Venezuela` and cities `Caracas` `Maracay` `Maracaibo` `Guayana-city`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
@@ -128,7 +128,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>Smartbase Group </td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
-		<td>279</td>
+		<td>280</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>@araguaneybits </td>
 		<td>No Twitter Username</td>
 		<td>Caracas - Venezuela</td>
-		<td>245</td>
+		<td>246</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -172,19 +172,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>6</td>
 		<td>
-			<a href="https://github.com/dehivix">
-				<img src="https://avatars.githubusercontent.com/u/2779840?s=72&u=fdde4ed1d1b9c95dcf5581d1ad2116acb3685332&v=4" width="24" alt="Avatar of dehivix"> dehivix
-			</a><br/>
-			Dehivis Perez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San juan de los Morros Edo Guárico, Venezuela</td>
-		<td>133</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>
 			<a href="https://github.com/FranyerRangel">
 				<img src="https://avatars.githubusercontent.com/u/34946344?s=72&u=19962e8cde9233b5f70962d13785d72d5ca9c242&v=4" width="24" alt="Avatar of FranyerRangel"> FranyerRangel
 			</a><br/>
@@ -193,10 +180,10 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Frandeveloper3">Frandeveloper3</a></td>
 		<td>Venezuela</td>
-		<td>125</td>
+		<td>124</td>
 	</tr>
 	<tr>
-		<td>8</td>
+		<td>7</td>
 		<td>
 			<a href="https://github.com/DarkMatterCore">
 				<img src="https://avatars.githubusercontent.com/u/5520707?s=72&u=0301310a728929da7c4b9204c9be614bbc9b3595&v=4" width="24" alt="Avatar of DarkMatterCore"> DarkMatterCore
@@ -204,12 +191,12 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 			Pablo Curiel
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/DarkMatterCore">DarkMatterCore</a></td>
+		<td>No Twitter Username</td>
 		<td>Cabimas, Zulia, Venezuela</td>
-		<td>102</td>
+		<td>103</td>
 	</tr>
 	<tr>
-		<td>9</td>
+		<td>8</td>
 		<td>
 			<a href="https://github.com/LuisAlejandro">
 				<img src="https://avatars.githubusercontent.com/u/324683?s=72&u=4ca5afe2416ab07983fff0e06da7c9aaf4ebeeb4&v=4" width="24" alt="Avatar of LuisAlejandro"> LuisAlejandro
@@ -222,7 +209,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>10</td>
+		<td>9</td>
 		<td>
 			<a href="https://github.com/map0logo">
 				<img src="https://avatars.githubusercontent.com/u/236351?s=72&v=4" width="24" alt="Avatar of map0logo"> map0logo
@@ -235,7 +222,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>11</td>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/mvortizr">
 				<img src="https://avatars.githubusercontent.com/u/25888607?s=72&u=09dced9c30fcec4a54c4bc8525f4a945e219ee7c&v=4" width="24" alt="Avatar of mvortizr"> mvortizr
@@ -245,10 +232,10 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>@iaucab </td>
 		<td><a href="https://twitter.com/mvortizr">mvortizr</a></td>
 		<td>Venezuela</td>
-		<td>88</td>
+		<td>89</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>11</td>
 		<td>
 			<a href="https://github.com/ch1nux">
 				<img src="https://avatars.githubusercontent.com/u/8890124?s=72&u=5691e138890fe5cd7d431bef484843a8927394ab&v=4" width="24" alt="Avatar of ch1nux"> ch1nux
@@ -261,7 +248,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/aranajhonny">
 				<img src="https://avatars.githubusercontent.com/u/9091881?s=72&u=89d2532956db1dfb39de8c97494d45ab441c6698&v=4" width="24" alt="Avatar of aranajhonny"> aranajhonny
@@ -274,7 +261,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>13</td>
 		<td>
 			<a href="https://github.com/phenobarbital">
 				<img src="https://avatars.githubusercontent.com/u/139613?s=72&v=4" width="24" alt="Avatar of phenobarbital"> phenobarbital
@@ -287,7 +274,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>14</td>
 		<td>
 			<a href="https://github.com/albertogg">
 				<img src="https://avatars.githubusercontent.com/u/451539?s=72&v=4" width="24" alt="Avatar of albertogg"> albertogg
@@ -300,7 +287,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/davidhdz">
 				<img src="https://avatars.githubusercontent.com/u/236355?s=72&v=4" width="24" alt="Avatar of davidhdz"> davidhdz
@@ -310,10 +297,10 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/davidhdz">davidhdz</a></td>
 		<td>Merida, Venezuela</td>
-		<td>83</td>
+		<td>82</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/carlosjfernandes">
 				<img src="https://avatars.githubusercontent.com/u/11068612?s=72&u=6270b51c7f639b612193dc9deab1fcf061544991&v=4" width="24" alt="Avatar of carlosjfernandes"> carlosjfernandes
@@ -326,7 +313,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/EdinsonRequena">
 				<img src="https://avatars.githubusercontent.com/u/42161800?s=72&u=da249e3ecff856e137a96bc7623affb295419413&v=4" width="24" alt="Avatar of EdinsonRequena"> EdinsonRequena
@@ -339,7 +326,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/aitorres">
 				<img src="https://avatars.githubusercontent.com/u/26191851?s=72&u=f2f7df392410cd736fa70371763a512df4386f04&v=4" width="24" alt="Avatar of aitorres"> aitorres
@@ -352,7 +339,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/iKenshu">
 				<img src="https://avatars.githubusercontent.com/u/5619966?s=72&u=a478ed513f9fe7de9b8a3123cdc399e3e9347414&v=4" width="24" alt="Avatar of iKenshu"> iKenshu
@@ -362,7 +349,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Caracas - Venezuela</td>
-		<td>69</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/HackingEnVivo">
+				<img src="https://avatars.githubusercontent.com/u/16280772?s=72&u=93cb12670b2d0f0a4870d307bd3597ac2e2333e2&v=4" width="24" alt="Avatar of HackingEnVivo"> HackingEnVivo
+			</a><br/>
+			Hacking Live
+		</td>
+		<td>Hacking Live </td>
+		<td>No Twitter Username</td>
+		<td>Perú - Venezuela</td>
+		<td>68</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -380,19 +380,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>22</td>
 		<td>
-			<a href="https://github.com/HackingEnVivo">
-				<img src="https://avatars.githubusercontent.com/u/16280772?s=72&u=93cb12670b2d0f0a4870d307bd3597ac2e2333e2&v=4" width="24" alt="Avatar of HackingEnVivo"> HackingEnVivo
-			</a><br/>
-			Hacking Live
-		</td>
-		<td>Hacking Live </td>
-		<td>No Twitter Username</td>
-		<td>Perú - Venezuela</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>
 			<a href="https://github.com/emaestre">
 				<img src="https://avatars.githubusercontent.com/u/11685154?s=72&u=6aba32177c10f71fc31487bcb355bd912685941e&v=4" width="24" alt="Avatar of emaestre"> emaestre
 			</a><br/>
@@ -404,7 +391,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>23</td>
 		<td>
 			<a href="https://github.com/xombra">
 				<img src="https://avatars.githubusercontent.com/u/5238066?s=72&u=179eafc8e061695c48bec11039af55cf805b0f1d&v=4" width="24" alt="Avatar of xombra"> xombra
@@ -417,7 +404,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/bettyrjc">
 				<img src="https://avatars.githubusercontent.com/u/45097587?s=72&u=3eeef298ad45d460046bacf9baeb835d351a1018&v=4" width="24" alt="Avatar of bettyrjc"> bettyrjc
@@ -430,7 +417,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>25</td>
 		<td>
 			<a href="https://github.com/Th3-822">
 				<img src="https://avatars.githubusercontent.com/u/1194200?s=72&u=15f5516573cf7b970acf0a01813eecb409a85197&v=4" width="24" alt="Avatar of Th3-822"> Th3-822
@@ -441,6 +428,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>64</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
+			<a href="https://github.com/JorjMcKie">
+				<img src="https://avatars.githubusercontent.com/u/8290722?s=72&u=1eb37f46837975e4fc0feee0b33dbf83f537e789&v=4" width="24" alt="Avatar of JorjMcKie"> JorjMcKie
+			</a><br/>
+			Jorj X. McKie
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>63</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -458,19 +458,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>28</td>
 		<td>
-			<a href="https://github.com/JorjMcKie">
-				<img src="https://avatars.githubusercontent.com/u/8290722?s=72&u=1eb37f46837975e4fc0feee0b33dbf83f537e789&v=4" width="24" alt="Avatar of JorjMcKie"> JorjMcKie
-			</a><br/>
-			Jorj X. McKie
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>62</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
 			<a href="https://github.com/MasDinerOnline">
 				<img src="https://avatars.githubusercontent.com/u/44556317?s=72&u=05b428f0c66d2333060de296dd087ed43f0fa8a9&v=4" width="24" alt="Avatar of MasDinerOnline"> MasDinerOnline
 			</a><br/>
@@ -480,6 +467,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td><a href="https://twitter.com/masdineronline">masdineronline</a></td>
 		<td>Venezuela</td>
 		<td>62</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
+			<a href="https://github.com/NTBBloodbath">
+				<img src="https://avatars.githubusercontent.com/u/36456999?s=72&u=720e799d5bc0b8ecc1a8a8be55bc07bd9f190f0e&v=4" width="24" alt="Avatar of NTBBloodbath"> NTBBloodbath
+			</a><br/>
+			Alejandro
+		</td>
+		<td>@wefium  </td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>61</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -497,19 +497,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>31</td>
 		<td>
-			<a href="https://github.com/NTBBloodbath">
-				<img src="https://avatars.githubusercontent.com/u/36456999?s=72&u=720e799d5bc0b8ecc1a8a8be55bc07bd9f190f0e&v=4" width="24" alt="Avatar of NTBBloodbath"> NTBBloodbath
-			</a><br/>
-			Alejandro
-		</td>
-		<td>@wefium  </td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>60</td>
-	</tr>
-	<tr>
-		<td>32</td>
-		<td>
 			<a href="https://github.com/jobsamuel">
 				<img src="https://avatars.githubusercontent.com/u/7675645?s=72&u=1f735ea5bfb238098dca2d948833ebefeccd5fa5&v=4" width="24" alt="Avatar of jobsamuel"> jobsamuel
 			</a><br/>
@@ -521,7 +508,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/fredkrudger">
 				<img src="https://avatars.githubusercontent.com/u/15826553?s=72&u=7c289c3521037ba5b5822f991b2afd6ec59b73f6&v=4" width="24" alt="Avatar of fredkrudger"> fredkrudger
@@ -534,7 +521,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/edwinvrgs">
 				<img src="https://avatars.githubusercontent.com/u/9091905?s=72&u=826c85c37b830b563b03a9dfd5ba96f3a8588a74&v=4" width="24" alt="Avatar of edwinvrgs"> edwinvrgs
@@ -547,7 +534,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/JeDaYoshi">
 				<img src="https://avatars.githubusercontent.com/u/7420695?s=72&u=f4a5d4e556e98606ea0da5f4770f1e5bb9086606&v=4" width="24" alt="Avatar of JeDaYoshi"> JeDaYoshi
@@ -557,10 +544,10 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>@hellomouse </td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
-		<td>57</td>
+		<td>58</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/ernestomedinam">
 				<img src="https://avatars.githubusercontent.com/u/28765343?s=72&u=045e20575b5d92db5991321822bc194364b62237&v=4" width="24" alt="Avatar of ernestomedinam"> ernestomedinam
@@ -573,7 +560,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/Ing-Brayan-Martinez">
 				<img src="https://avatars.githubusercontent.com/u/8975941?s=72&u=96075e3046506ccc228928a83308b022a37dc944&v=4" width="24" alt="Avatar of Ing-Brayan-Martinez"> Ing-Brayan-Martinez
@@ -586,33 +573,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>38</td>
-		<td>
-			<a href="https://github.com/tty503">
-				<img src="https://avatars.githubusercontent.com/u/87353259?s=72&u=bd9ae793fe311470bc26a81e171426319f0e2b80&v=4" width="24" alt="Avatar of tty503"> tty503
-			</a><br/>
-			Christian Marquez
-		</td>
-		<td>My Fucking Brain </td>
-		<td><a href="https://twitter.com/tty_503">tty_503</a></td>
-		<td>Caracas, Venezuela</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
-			<a href="https://github.com/c27gc">
-				<img src="https://avatars.githubusercontent.com/u/13896979?s=72&u=0b4bb36b115a7f73dcb180bf90ef32d177738aef&v=4" width="24" alt="Avatar of c27gc"> c27gc
-			</a><br/>
-			Carlos E. González C.
-		</td>
-		<td>Central University Of Venezuela<br/></td>
-		<td><a href="https://twitter.com/CarlosEGC1727">CarlosEGC1727</a></td>
-		<td>Caracas, Venezuela</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>40</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/alexanyernas">
 				<img src="https://avatars.githubusercontent.com/u/49798413?s=72&u=c51df8cea6a88a66d134838e83c0201549174dbf&v=4" width="24" alt="Avatar of alexanyernas"> alexanyernas
@@ -625,7 +586,33 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>38</td>
+		<td>
+			<a href="https://github.com/c27gc">
+				<img src="https://avatars.githubusercontent.com/u/13896979?s=72&u=0b4bb36b115a7f73dcb180bf90ef32d177738aef&v=4" width="24" alt="Avatar of c27gc"> c27gc
+			</a><br/>
+			Carlos E. González C.
+		</td>
+		<td>Central University Of Venezuela<br/></td>
+		<td><a href="https://twitter.com/CarlosEGC1727">CarlosEGC1727</a></td>
+		<td>Caracas, Venezuela</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/tty503">
+				<img src="https://avatars.githubusercontent.com/u/87353259?s=72&u=bd9ae793fe311470bc26a81e171426319f0e2b80&v=4" width="24" alt="Avatar of tty503"> tty503
+			</a><br/>
+			Christian Marquez
+		</td>
+		<td>My Fucking Brain </td>
+		<td><a href="https://twitter.com/tty_503">tty_503</a></td>
+		<td>Caracas, Venezuela</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/mariajosemv">
 				<img src="https://avatars.githubusercontent.com/u/53355899?s=72&u=9385f3be2fe56a8d251773108ab1b1db57e2328d&v=4" width="24" alt="Avatar of mariajosemv"> mariajosemv
@@ -638,7 +625,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/german1608">
 				<img src="https://avatars.githubusercontent.com/u/29154504?s=72&u=ea6a4962d2f69989876bf1eaed11e00268a86c63&v=4" width="24" alt="Avatar of german1608"> german1608
@@ -651,7 +638,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/bonetblai">
 				<img src="https://avatars.githubusercontent.com/u/6879223?s=72&v=4" width="24" alt="Avatar of bonetblai"> bonetblai
@@ -662,6 +649,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>47</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
+			<a href="https://github.com/hostelix">
+				<img src="https://avatars.githubusercontent.com/u/7519284?s=72&u=d0e2b2ca505cdf0d9ae00b509ff60acc800306fd&v=4" width="24" alt="Avatar of hostelix"> hostelix
+			</a><br/>
+			Israel Lugo
+		</td>
+		<td>@bmkeros </td>
+		<td>No Twitter Username</td>
+		<td>Venezuela, Falcon</td>
+		<td>46</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -692,6 +692,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>46</td>
 		<td>
+			<a href="https://github.com/libredesarrollo">
+				<img src="https://avatars.githubusercontent.com/u/5392983?s=72&u=726b18151d7c15e0d513ce57202d930a57b42eeb&v=4" width="24" alt="Avatar of libredesarrollo"> libredesarrollo
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/LibreDesarrollo">LibreDesarrollo</a></td>
+		<td>Venezuela</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td>
 			<a href="https://github.com/ticojch">
 				<img src="https://avatars.githubusercontent.com/u/35245873?s=72&u=bb971f3a8848830ddc778f78d1723a44fa92797d&v=4" width="24" alt="Avatar of ticojch"> ticojch
 			</a><br/>
@@ -701,19 +714,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>46</td>
-	</tr>
-	<tr>
-		<td>47</td>
-		<td>
-			<a href="https://github.com/hostelix">
-				<img src="https://avatars.githubusercontent.com/u/7519284?s=72&u=d0e2b2ca505cdf0d9ae00b509ff60acc800306fd&v=4" width="24" alt="Avatar of hostelix"> hostelix
-			</a><br/>
-			Israel Lugo
-		</td>
-		<td>@bmkeros </td>
-		<td>No Twitter Username</td>
-		<td>Venezuela, Falcon</td>
-		<td>45</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -731,19 +731,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>49</td>
 		<td>
-			<a href="https://github.com/libredesarrollo">
-				<img src="https://avatars.githubusercontent.com/u/5392983?s=72&u=726b18151d7c15e0d513ce57202d930a57b42eeb&v=4" width="24" alt="Avatar of libredesarrollo"> libredesarrollo
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/LibreDesarrollo">LibreDesarrollo</a></td>
-		<td>Venezuela</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>50</td>
-		<td>
 			<a href="https://github.com/V3ct0r">
 				<img src="https://avatars.githubusercontent.com/u/1517119?s=72&v=4" width="24" alt="Avatar of V3ct0r"> V3ct0r
 			</a><br/>
@@ -755,7 +742,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>51</td>
+		<td>50</td>
 		<td>
 			<a href="https://github.com/mamcode">
 				<img src="https://avatars.githubusercontent.com/u/334317?s=72&u=ed39a281c9ff1f9f84369b07841fa62a02e478da&v=4" width="24" alt="Avatar of mamcode"> mamcode
@@ -768,7 +755,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>51</td>
 		<td>
 			<a href="https://github.com/willicab">
 				<img src="https://avatars.githubusercontent.com/u/189647?s=72&v=4" width="24" alt="Avatar of willicab"> willicab
@@ -781,7 +768,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>53</td>
+		<td>52</td>
 		<td>
 			<a href="https://github.com/Richzendy">
 				<img src="https://avatars.githubusercontent.com/u/284522?s=72&v=4" width="24" alt="Avatar of Richzendy"> Richzendy
@@ -794,7 +781,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>54</td>
+		<td>53</td>
 		<td>
 			<a href="https://github.com/ejdecena">
 				<img src="https://avatars.githubusercontent.com/u/8931673?s=72&u=dfb45045a11e8768617c396d818f5e2f83690acd&v=4" width="24" alt="Avatar of ejdecena"> ejdecena
@@ -807,7 +794,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>55</td>
+		<td>54</td>
 		<td>
 			<a href="https://github.com/Andresdst">
 				<img src="https://avatars.githubusercontent.com/u/52803963?s=72&u=57811faafe6b56c62f9665558413bf0ff9b9714a&v=4" width="24" alt="Avatar of Andresdst"> Andresdst
@@ -820,7 +807,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>56</td>
+		<td>55</td>
 		<td>
 			<a href="https://github.com/anibal">
 				<img src="https://avatars.githubusercontent.com/u/16866?s=72&v=4" width="24" alt="Avatar of anibal"> anibal
@@ -833,7 +820,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>57</td>
+		<td>56</td>
 		<td>
 			<a href="https://github.com/Usbac">
 				<img src="https://avatars.githubusercontent.com/u/38147742?s=72&u=8e2b2612bdff4608bc28f0a5882bb1ef41929816&v=4" width="24" alt="Avatar of Usbac"> Usbac
@@ -846,7 +833,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>58</td>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/joseayram">
 				<img src="https://avatars.githubusercontent.com/u/1056297?s=72&v=4" width="24" alt="Avatar of joseayram"> joseayram
@@ -859,7 +846,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>59</td>
+		<td>58</td>
 		<td>
 			<a href="https://github.com/clemir">
 				<img src="https://avatars.githubusercontent.com/u/1380496?s=72&u=860439ca9ae6c6a8c7ac98d9b5c1db3e351a8028&v=4" width="24" alt="Avatar of clemir"> clemir
@@ -872,7 +859,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>60</td>
+		<td>59</td>
 		<td>
 			<a href="https://github.com/jonathanaraul">
 				<img src="https://avatars.githubusercontent.com/u/2244427?s=72&u=536301dd5f9cb92b61080fdc593468c95f419576&v=4" width="24" alt="Avatar of jonathanaraul"> jonathanaraul
@@ -883,6 +870,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>41</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/yamelsenih">
+				<img src="https://avatars.githubusercontent.com/u/2333092?s=72&v=4" width="24" alt="Avatar of yamelsenih"> yamelsenih
+			</a><br/>
+			Yamel Senih
+		</td>
+		<td>Erp Consultores Y Asociados,<br/>C.a.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Venezuela, Portuguesa</td>
+		<td>40</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -900,19 +900,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>62</td>
 		<td>
-			<a href="https://github.com/yamelsenih">
-				<img src="https://avatars.githubusercontent.com/u/2333092?s=72&v=4" width="24" alt="Avatar of yamelsenih"> yamelsenih
-			</a><br/>
-			Yamel Senih
-		</td>
-		<td>Erp Consultores Y Asociados,<br/>C.a.<br/></td>
-		<td>No Twitter Username</td>
-		<td>Venezuela, Portuguesa</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>63</td>
-		<td>
 			<a href="https://github.com/sinfallas">
 				<img src="https://avatars.githubusercontent.com/u/6081790?s=72&u=aed30c8124217a77763a793cfa435ff9f5d206e8&v=4" width="24" alt="Avatar of sinfallas"> sinfallas
 			</a><br/>
@@ -924,7 +911,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/gersonrpq">
 				<img src="https://avatars.githubusercontent.com/u/55210754?s=72&u=07b1a7acb7cec2a7a28735e1dc3e2f082ad9ef0b&v=4" width="24" alt="Avatar of gersonrpq"> gersonrpq
@@ -937,7 +924,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/stivaliserna">
 				<img src="https://avatars.githubusercontent.com/u/6487058?s=72&u=37a0001b5db966f73d2bba229ac9d4bd3dca0248&v=4" width="24" alt="Avatar of stivaliserna"> stivaliserna
@@ -950,7 +937,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/3rn3st0">
 				<img src="https://avatars.githubusercontent.com/u/2755038?s=72&u=36fdd0a7550fc18de6146fe3a301815e8434328d&v=4" width="24" alt="Avatar of 3rn3st0"> 3rn3st0
@@ -963,7 +950,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/yuliannydev">
 				<img src="https://avatars.githubusercontent.com/u/52147398?s=72&u=cef546e0107adfe39ebc599ffa0b0d435a2f6604&v=4" width="24" alt="Avatar of yuliannydev"> yuliannydev
@@ -976,7 +963,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>68</td>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/manuelj555">
 				<img src="https://avatars.githubusercontent.com/u/1214013?s=72&u=4468d26b2f2ceb1e2c6c6dcb03f5e92d5ab596a9&v=4" width="24" alt="Avatar of manuelj555"> manuelj555
@@ -989,7 +976,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>69</td>
+		<td>68</td>
 		<td>
 			<a href="https://github.com/yaniaular">
 				<img src="https://avatars.githubusercontent.com/u/7602170?s=72&u=395d0e379a32a7478304eb9371fd90ecce227ca9&v=4" width="24" alt="Avatar of yaniaular"> yaniaular
@@ -1002,7 +989,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>69</td>
 		<td>
 			<a href="https://github.com/adeluccar">
 				<img src="https://avatars.githubusercontent.com/u/1455796?s=72&v=4" width="24" alt="Avatar of adeluccar"> adeluccar
@@ -1015,7 +1002,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/adasilvapdev">
 				<img src="https://avatars.githubusercontent.com/u/20091777?s=72&u=f3e6a1ad50932eec814cc943cd9c673118cf13fb&v=4" width="24" alt="Avatar of adasilvapdev"> adasilvapdev
@@ -1028,7 +1015,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/formatcom">
 				<img src="https://avatars.githubusercontent.com/u/8493573?s=72&u=b21619afae0cb7f2980d74b4945dbdcbcd2cfb04&v=4" width="24" alt="Avatar of formatcom"> formatcom
@@ -1041,7 +1028,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/Carls13">
 				<img src="https://avatars.githubusercontent.com/u/36903544?s=72&u=5adad88d4a1a497976b2f3fb3bb32355eb40b531&v=4" width="24" alt="Avatar of Carls13"> Carls13
@@ -1054,7 +1041,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/educa2ucv">
 				<img src="https://avatars.githubusercontent.com/u/67926811?s=72&u=300491ce5b23203f40948dc952a66d61f661bc84&v=4" width="24" alt="Avatar of educa2ucv"> educa2ucv
@@ -1067,7 +1054,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/chamini2">
 				<img src="https://avatars.githubusercontent.com/u/2745502?s=72&v=4" width="24" alt="Avatar of chamini2"> chamini2
@@ -1080,7 +1067,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/argenisosorio">
 				<img src="https://avatars.githubusercontent.com/u/13558431?s=72&u=e84da85915de7fda8c826d1880a0a1d69bfa5623&v=4" width="24" alt="Avatar of argenisosorio"> argenisosorio
@@ -1093,7 +1080,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/bikatti">
 				<img src="https://avatars.githubusercontent.com/u/44810201?s=72&u=da284d2822b2e7e997859b267db182e9cdf72716&v=4" width="24" alt="Avatar of bikatti"> bikatti
@@ -1106,7 +1093,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/apradoc">
 				<img src="https://avatars.githubusercontent.com/u/92080?s=72&v=4" width="24" alt="Avatar of apradoc"> apradoc
@@ -1119,7 +1106,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/RolandoAndrade">
 				<img src="https://avatars.githubusercontent.com/u/20493065?s=72&u=cd92d00377aee4e500b2a155491ad04ae45c49d0&v=4" width="24" alt="Avatar of RolandoAndrade"> RolandoAndrade
@@ -1132,7 +1119,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/juliolugo96">
 				<img src="https://avatars.githubusercontent.com/u/35197161?s=72&u=9bf853028c3e689cb029d809cfc9bb2a6f023537&v=4" width="24" alt="Avatar of juliolugo96"> juliolugo96
@@ -1145,7 +1132,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/achede22">
 				<img src="https://avatars.githubusercontent.com/u/29759848?s=72&u=7a1b3e7a46ab76b613a49793acba6d3d39f51791&v=4" width="24" alt="Avatar of achede22"> achede22
@@ -1158,7 +1145,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/johand">
 				<img src="https://avatars.githubusercontent.com/u/1388644?s=72&v=4" width="24" alt="Avatar of johand"> johand
@@ -1171,7 +1158,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/josealvaradoo">
 				<img src="https://avatars.githubusercontent.com/u/6018790?s=72&u=c0b86ef7acbadc9b25c98cabb9e0fd5ea31b0839&v=4" width="24" alt="Avatar of josealvaradoo"> josealvaradoo
@@ -1184,7 +1171,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/wilmeragsgh">
 				<img src="https://avatars.githubusercontent.com/u/10764342?s=72&u=c461f6950d3701a7eceb562ece35b662f15e392f&v=4" width="24" alt="Avatar of wilmeragsgh"> wilmeragsgh
@@ -1197,20 +1184,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>85</td>
-		<td>
-			<a href="https://github.com/arodu">
-				<img src="https://avatars.githubusercontent.com/u/12447690?s=72&u=1091024f4cd08e3cffb14313608f9111c10d7328&v=4" width="24" alt="Avatar of arodu"> arodu
-			</a><br/>
-			Alberto G. Rodriguez U.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>86</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/willez88">
 				<img src="https://avatars.githubusercontent.com/u/7889591?s=72&u=638b3e046d2292445631ee91e06424b727ba77bc&v=4" width="24" alt="Avatar of willez88"> willez88
@@ -1223,7 +1197,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/juventudproductivabicentenaria">
 				<img src="https://avatars.githubusercontent.com/u/11411794?s=72&u=f7eddd1010c85330605a68b99cc61b2ccab362c5&v=4" width="24" alt="Avatar of juventudproductivabicentenaria"> juventudproductivabicentenaria
@@ -1236,7 +1210,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/yuniquintero">
 				<img src="https://avatars.githubusercontent.com/u/32275777?s=72&u=11c826c3061a07f7889e08a576b6b5850b7ff0af&v=4" width="24" alt="Avatar of yuniquintero"> yuniquintero
@@ -1247,6 +1221,32 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Caracas, Venezuela</td>
 		<td>31</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
+			<a href="https://github.com/miguelpalazzo">
+				<img src="https://avatars.githubusercontent.com/u/50017?s=72&u=4f5022a5789d8c4a1b1ac3d83f536ef229edce81&v=4" width="24" alt="Avatar of miguelpalazzo"> miguelpalazzo
+			</a><br/>
+			Miguel Palazzo
+		</td>
+		<td>@teravisiontechnolog </td>
+		<td><a href="https://twitter.com/miguelpalazzo">miguelpalazzo</a></td>
+		<td>Caracas, Venezuela</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>88</td>
+		<td>
+			<a href="https://github.com/eroiyo">
+				<img src="https://avatars.githubusercontent.com/u/59938389?s=72&u=1fde6aba24d662d60142b5654a8d885ab7f3dc88&v=4" width="24" alt="Avatar of eroiyo"> eroiyo
+			</a><br/>
+			Carlos Arturo Ortega Guanipa
+		</td>
+		<td>Full-stack Developer </td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>30</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -1264,6 +1264,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>90</td>
 		<td>
+			<a href="https://github.com/arodu">
+				<img src="https://avatars.githubusercontent.com/u/12447690?s=72&u=1091024f4cd08e3cffb14313608f9111c10d7328&v=4" width="24" alt="Avatar of arodu"> arodu
+			</a><br/>
+			Alberto G. Rodriguez U.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
 			<a href="https://github.com/mmujica">
 				<img src="https://avatars.githubusercontent.com/u/1036468?s=72&v=4" width="24" alt="Avatar of mmujica"> mmujica
 			</a><br/>
@@ -1275,7 +1288,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/callmeanto">
 				<img src="https://avatars.githubusercontent.com/u/37022323?s=72&u=5280f3827e644c7a0663bdbaf79040017520ed28&v=4" width="24" alt="Avatar of callmeanto"> callmeanto
@@ -1288,7 +1301,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/dixonmartinez">
 				<img src="https://avatars.githubusercontent.com/u/2453563?s=72&v=4" width="24" alt="Avatar of dixonmartinez"> dixonmartinez
@@ -1301,33 +1314,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>93</td>
-		<td>
-			<a href="https://github.com/miguelpalazzo">
-				<img src="https://avatars.githubusercontent.com/u/50017?s=72&u=4f5022a5789d8c4a1b1ac3d83f536ef229edce81&v=4" width="24" alt="Avatar of miguelpalazzo"> miguelpalazzo
-			</a><br/>
-			Miguel Palazzo
-		</td>
-		<td>@teravisiontechnolog </td>
-		<td><a href="https://twitter.com/miguelpalazzo">miguelpalazzo</a></td>
-		<td>Caracas, Venezuela</td>
-		<td>29</td>
-	</tr>
-	<tr>
 		<td>94</td>
-		<td>
-			<a href="https://github.com/eroiyo">
-				<img src="https://avatars.githubusercontent.com/u/59938389?s=72&u=1fde6aba24d662d60142b5654a8d885ab7f3dc88&v=4" width="24" alt="Avatar of eroiyo"> eroiyo
-			</a><br/>
-			Carlos Arturo Ortega Guanipa
-		</td>
-		<td>Full-stack Developer </td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>95</td>
 		<td>
 			<a href="https://github.com/aristides1000">
 				<img src="https://avatars.githubusercontent.com/u/42152103?s=72&u=8663efc984d8c02ad29ba025e518188e30d9605e&v=4" width="24" alt="Avatar of aristides1000"> aristides1000
@@ -1340,7 +1327,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/jesusareyesv">
 				<img src="https://avatars.githubusercontent.com/u/12820150?s=72&u=2e440051b0e383768e2659d40ff1187280827c53&v=4" width="24" alt="Avatar of jesusareyesv"> jesusareyesv
@@ -1353,7 +1340,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>97</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/mariogrieco">
 				<img src="https://avatars.githubusercontent.com/u/5143277?s=72&u=201de4cf45167e612c1db3e8e0013dc7cc12153a&v=4" width="24" alt="Avatar of mariogrieco"> mariogrieco
@@ -1366,7 +1353,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>98</td>
+		<td>97</td>
 		<td>
 			<a href="https://github.com/ecrespo">
 				<img src="https://avatars.githubusercontent.com/u/236349?s=72&u=fbf72f1599aa3fb274c9efa22297f47df4d0c81e&v=4" width="24" alt="Avatar of ecrespo"> ecrespo
@@ -1379,7 +1366,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>99</td>
+		<td>98</td>
 		<td>
 			<a href="https://github.com/Wiar8">
 				<img src="https://avatars.githubusercontent.com/u/50030094?s=72&u=736ddc89732b1128c4b021d60c52f2ada1cc6810&v=4" width="24" alt="Avatar of Wiar8"> Wiar8
@@ -1392,7 +1379,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/Josbaney">
 				<img src="https://avatars.githubusercontent.com/u/12884716?s=72&u=ff43669ff1fe94adcef2d13de1fbdb7f40c0cf0e&v=4" width="24" alt="Avatar of Josbaney"> Josbaney
@@ -1405,7 +1392,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/rmonascal">
 				<img src="https://avatars.githubusercontent.com/u/5714062?s=72&u=a3269c6c94ec44493dae913e433be24229f1aa13&v=4" width="24" alt="Avatar of rmonascal"> rmonascal
@@ -1418,7 +1405,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>102</td>
+		<td>101</td>
 		<td>
 			<a href="https://github.com/AnthonyDugarte">
 				<img src="https://avatars.githubusercontent.com/u/34623660?s=72&v=4" width="24" alt="Avatar of AnthonyDugarte"> AnthonyDugarte
@@ -1431,7 +1418,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>103</td>
+		<td>102</td>
 		<td>
 			<a href="https://github.com/Siljesc">
 				<img src="https://avatars.githubusercontent.com/u/16419550?s=72&u=487f325eaf6850d4d8445e53de68c3b9000323e9&v=4" width="24" alt="Avatar of Siljesc"> Siljesc
@@ -1444,7 +1431,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>104</td>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/cabrerahector">
 				<img src="https://avatars.githubusercontent.com/u/3186556?s=72&u=3ea24deb70b4e73b3c227c64deaa60b18c536ee3&v=4" width="24" alt="Avatar of cabrerahector"> cabrerahector
@@ -1457,7 +1444,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>105</td>
+		<td>104</td>
 		<td>
 			<a href="https://github.com/joselpadronc">
 				<img src="https://avatars.githubusercontent.com/u/43755294?s=72&u=0b7b3d8525e7d247fcbc6c6e59132fbcf8a893ed&v=4" width="24" alt="Avatar of joselpadronc"> joselpadronc
@@ -1470,7 +1457,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>106</td>
+		<td>105</td>
 		<td>
 			<a href="https://github.com/tatica">
 				<img src="https://avatars.githubusercontent.com/u/3249816?s=72&v=4" width="24" alt="Avatar of tatica"> tatica
@@ -1483,7 +1470,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/ebrwn">
 				<img src="https://avatars.githubusercontent.com/u/46972821?s=72&u=574412a52d8b38d9586b4d943119da1d960578ba&v=4" width="24" alt="Avatar of ebrwn"> ebrwn
@@ -1496,7 +1483,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/MarcoAlejandro">
 				<img src="https://avatars.githubusercontent.com/u/24687664?s=72&u=12f705c5df4c7d0f269c1a64c28e112a3bd2527d&v=4" width="24" alt="Avatar of MarcoAlejandro"> MarcoAlejandro
@@ -1509,7 +1496,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/danzt">
 				<img src="https://avatars.githubusercontent.com/u/8420792?s=72&u=7684b9a6f6e32b413fbac78f739d5c7ba44d2a2b&v=4" width="24" alt="Avatar of danzt"> danzt
@@ -1522,7 +1509,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/danielnaranjo">
 				<img src="https://avatars.githubusercontent.com/u/588542?s=72&v=4" width="24" alt="Avatar of danielnaranjo"> danielnaranjo
@@ -1535,7 +1522,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/elshaka">
 				<img src="https://avatars.githubusercontent.com/u/242656?s=72&u=b308b6f5ae5521111907a3b323170ea706b58f93&v=4" width="24" alt="Avatar of elshaka"> elshaka
@@ -1548,7 +1535,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/hgouveia">
 				<img src="https://avatars.githubusercontent.com/u/668866?s=72&v=4" width="24" alt="Avatar of hgouveia"> hgouveia
@@ -1558,6 +1545,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/hgouveia">hgouveia</a></td>
 		<td>Guatire, Venezuela</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td>
+			<a href="https://github.com/robertoerd">
+				<img src="https://avatars.githubusercontent.com/u/46196325?s=72&u=64cc2b355a824b13a2b19ffdcd4e197012476fb4&v=4" width="24" alt="Avatar of robertoerd"> robertoerd
+			</a><br/>
+			Rob
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Caracas</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -1576,6 +1576,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>114</td>
 		<td>
+			<a href="https://github.com/zerontec">
+				<img src="https://avatars.githubusercontent.com/u/10091991?s=72&u=b8241d029447167e8e43e89ceb6ffa6c235faaa6&v=4" width="24" alt="Avatar of zerontec"> zerontec
+			</a><br/>
+			Leoberto Zeron
+		</td>
+		<td>Devsign.xyx </td>
+		<td><a href="https://twitter.com/leozeron1">leozeron1</a></td>
+		<td>Venezuela</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
 			<a href="https://github.com/Alejandro04">
 				<img src="https://avatars.githubusercontent.com/u/5976736?s=72&u=9f6d523bc2aec82eabb649e63763149d1dd07b1a&v=4" width="24" alt="Avatar of Alejandro04"> Alejandro04
 			</a><br/>
@@ -1587,7 +1600,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/Yusuke1998">
 				<img src="https://avatars.githubusercontent.com/u/18584463?s=72&u=be80d3a7bd3e9293ed029473250bc0c645b0868e&v=4" width="24" alt="Avatar of Yusuke1998"> Yusuke1998
@@ -1597,19 +1610,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>Unerg </td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/robertoerd">
-				<img src="https://avatars.githubusercontent.com/u/46196325?s=72&u=64cc2b355a824b13a2b19ffdcd4e197012476fb4&v=4" width="24" alt="Avatar of robertoerd"> robertoerd
-			</a><br/>
-			Rob
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Caracas</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -1680,19 +1680,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>122</td>
 		<td>
-			<a href="https://github.com/zerontec">
-				<img src="https://avatars.githubusercontent.com/u/10091991?s=72&u=b8241d029447167e8e43e89ceb6ffa6c235faaa6&v=4" width="24" alt="Avatar of zerontec"> zerontec
-			</a><br/>
-			Leo 
-		</td>
-		<td>Zeron Tecnologia,c.a </td>
-		<td><a href="https://twitter.com/leozeron1">leozeron1</a></td>
-		<td>Venezuela</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
 			<a href="https://github.com/dwest06">
 				<img src="https://avatars.githubusercontent.com/u/24593763?s=72&u=7aeadcf29aabc1d4021ff56a9aa39a1ed79aca48&v=4" width="24" alt="Avatar of dwest06"> dwest06
 			</a><br/>
@@ -1701,6 +1688,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Caracas, Venezuela</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>
+			<a href="https://github.com/manuelguillegil">
+				<img src="https://avatars.githubusercontent.com/u/44003522?s=72&u=3e6e4f24c7281cf6e551bea90a248ddc37ae45b5&v=4" width="24" alt="Avatar of manuelguillegil"> manuelguillegil
+			</a><br/>
+			Manuel Guillermo Gil Bermudez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Caracas. Venezuela</td>
 		<td>25</td>
 	</tr>
 	<tr>
@@ -1738,12 +1738,25 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 			Wilsen Hernández
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/wilsenhc">wilsenhc</a></td>
+		<td>No Twitter Username</td>
 		<td>Valencia, Venezuela</td>
 		<td>24</td>
 	</tr>
 	<tr>
 		<td>127</td>
+		<td>
+			<a href="https://github.com/AndresCode08">
+				<img src="https://avatars.githubusercontent.com/u/70079260?s=72&u=64e95b8c639d8d1f02a82772e719baf50d667aec&v=4" width="24" alt="Avatar of AndresCode08"> AndresCode08
+			</a><br/>
+			Andres Mayorca
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AndresCode08">AndresCode08</a></td>
+		<td>Venezuela </td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/mariagaa993">
 				<img src="https://avatars.githubusercontent.com/u/45337125?s=72&u=b823b076dfab88ea700acc6a4318eeaf88237f4e&v=4" width="24" alt="Avatar of mariagaa993"> mariagaa993
@@ -1753,19 +1766,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>128</td>
-		<td>
-			<a href="https://github.com/manuelguillegil">
-				<img src="https://avatars.githubusercontent.com/u/44003522?s=72&u=3e6e4f24c7281cf6e551bea90a248ddc37ae45b5&v=4" width="24" alt="Avatar of manuelguillegil"> manuelguillegil
-			</a><br/>
-			Manuel Guillermo Gil Bermudez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Caracas. Venezuela</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -1811,7 +1811,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>132</td>
 		<td>
 			<a href="https://github.com/elib0">
-				<img src="https://avatars.githubusercontent.com/u/1808713?s=72&v=4" width="24" alt="Avatar of elib0"> elib0
+				<img src="https://avatars.githubusercontent.com/u/1808713?s=72&u=850f52b719d96410793a21cd3a1dfe3f88dff4d9&v=4" width="24" alt="Avatar of elib0"> elib0
 			</a><br/>
 			Eli j. Chavez
 		</td>
@@ -1953,6 +1953,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>143</td>
 		<td>
+			<a href="https://github.com/Madot10">
+				<img src="https://avatars.githubusercontent.com/u/30395090?s=72&u=2d39a7d98935cee6b723d739c375a253b98321a9&v=4" width="24" alt="Avatar of Madot10"> Madot10
+			</a><br/>
+			Miguel De Olim
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Miguel_Olim">Miguel_Olim</a></td>
+		<td>Venezuela</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
 			<a href="https://github.com/delfinbeta">
 				<img src="https://avatars.githubusercontent.com/u/15043243?s=72&u=25c6b844bec3bd6b7fb7bf004480e907a90bed73&v=4" width="24" alt="Avatar of delfinbeta"> delfinbeta
 			</a><br/>
@@ -1964,7 +1977,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>144</td>
+		<td>145</td>
+		<td>
+			<a href="https://github.com/rodolfomayora">
+				<img src="https://avatars.githubusercontent.com/u/46007470?s=72&u=444a557aa988d32caa0e4598f7d1f208fae75501&v=4" width="24" alt="Avatar of rodolfomayora"> rodolfomayora
+			</a><br/>
+			Rodolfo Mayora
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Catia la Mar, Vargas, Venezuela</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/Yoimer">
 				<img src="https://avatars.githubusercontent.com/u/19174053?s=72&u=9645da9a2cd1470889e0d1a13de487a6d81b1431&v=4" width="24" alt="Avatar of Yoimer"> Yoimer
@@ -1977,7 +2003,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/gonzalezlrjesus">
 				<img src="https://avatars.githubusercontent.com/u/33332802?s=72&u=aef169d858125b93fc317797bdd9c5bb4d09306f&v=4" width="24" alt="Avatar of gonzalezlrjesus"> gonzalezlrjesus
@@ -1990,7 +2016,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/phanorcoll">
 				<img src="https://avatars.githubusercontent.com/u/195602?s=72&u=6eb0d09efa029079ad9e9627ad29b7dc2a67e0bd&v=4" width="24" alt="Avatar of phanorcoll"> phanorcoll
@@ -2003,7 +2029,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/manuelitod">
 				<img src="https://avatars.githubusercontent.com/u/22405900?s=72&u=575d009b58ef917b1d9f6fb43a635e3edaab82c2&v=4" width="24" alt="Avatar of manuelitod"> manuelitod
@@ -2016,20 +2042,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>148</td>
-		<td>
-			<a href="https://github.com/luisedo97">
-				<img src="https://avatars.githubusercontent.com/u/37022489?s=72&u=c0d72f96530c08e64f54988d36a08ed786ca52b9&v=4" width="24" alt="Avatar of luisedo97"> luisedo97
-			</a><br/>
-			Luis E. Araujo B.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>149</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/JSNavas">
 				<img src="https://avatars.githubusercontent.com/u/26546236?s=72&u=5ec2c8eb337d5c070c0b3f42611b287fad8169f1&v=4" width="24" alt="Avatar of JSNavas"> JSNavas
@@ -2042,7 +2055,33 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>151</td>
+		<td>
+			<a href="https://github.com/luisedo97">
+				<img src="https://avatars.githubusercontent.com/u/37022489?s=72&u=c0d72f96530c08e64f54988d36a08ed786ca52b9&v=4" width="24" alt="Avatar of luisedo97"> luisedo97
+			</a><br/>
+			Luis E. Araujo B.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>
+			<a href="https://github.com/cserradag96">
+				<img src="https://avatars.githubusercontent.com/u/10492339?s=72&u=a6bcdc9e9422c82a9d692935ef96f8f0fa8f2c99&v=4" width="24" alt="Avatar of cserradag96"> cserradag96
+			</a><br/>
+			Carlos Serrada
+		</td>
+		<td>Kavak </td>
+		<td><a href="https://twitter.com/cserradag96">cserradag96</a></td>
+		<td>Venezuela</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/carlosdimatteo-zz">
 				<img src="https://avatars.githubusercontent.com/u/37355787?s=72&u=39811f3764692913a31cbd8ddf56d02327f1a24e&v=4" width="24" alt="Avatar of carlosdimatteo-zz"> carlosdimatteo-zz
@@ -2055,33 +2094,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>151</td>
-		<td>
-			<a href="https://github.com/Madot10">
-				<img src="https://avatars.githubusercontent.com/u/30395090?s=72&u=2d39a7d98935cee6b723d739c375a253b98321a9&v=4" width="24" alt="Avatar of Madot10"> Madot10
-			</a><br/>
-			Miguel De Olim
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Miguel_Olim">Miguel_Olim</a></td>
-		<td>Venezuela</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>152</td>
-		<td>
-			<a href="https://github.com/rodolfomayora">
-				<img src="https://avatars.githubusercontent.com/u/46007470?s=72&u=444a557aa988d32caa0e4598f7d1f208fae75501&v=4" width="24" alt="Avatar of rodolfomayora"> rodolfomayora
-			</a><br/>
-			Rodolfo Mayora
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Catia la Mar, Vargas, Venezuela</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>153</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/csuito">
 				<img src="https://avatars.githubusercontent.com/u/25553373?s=72&u=a42533c58b5fb78344fca0ec5558010e6e6ee8e8&v=4" width="24" alt="Avatar of csuito"> csuito
@@ -2094,7 +2107,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>155</td>
+		<td>
+			<a href="https://github.com/swsandra">
+				<img src="https://avatars.githubusercontent.com/u/28073039?s=72&u=1ad2df1e52d5577bc0098b9795d3cf19028eaeef&v=4" width="24" alt="Avatar of swsandra"> swsandra
+			</a><br/>
+			Sandra Vera
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Caracas, Venezuela</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/andersonsalas">
 				<img src="https://avatars.githubusercontent.com/u/6117373?s=72&u=4ea05ec3560257befd22cb9ec4e76fd5c96b1caa&v=4" width="24" alt="Avatar of andersonsalas"> andersonsalas
@@ -2107,7 +2133,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/eagskunst">
 				<img src="https://avatars.githubusercontent.com/u/23042932?s=72&u=6687021e0b4a68702d3b862e1c7a60df56e839b3&v=4" width="24" alt="Avatar of eagskunst"> eagskunst
@@ -2120,7 +2146,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/arturyepez10">
 				<img src="https://avatars.githubusercontent.com/u/40376686?s=72&u=9b61e3de9c50e1f348858137f152a19f1f948963&v=4" width="24" alt="Avatar of arturyepez10"> arturyepez10
@@ -2133,7 +2159,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/ebirbe">
 				<img src="https://avatars.githubusercontent.com/u/442938?s=72&u=bb1dcb909904404c0d1e04c63839dd399b9ac01d&v=4" width="24" alt="Avatar of ebirbe"> ebirbe
@@ -2146,7 +2172,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/luisdgd07">
 				<img src="https://avatars.githubusercontent.com/u/26287606?s=72&u=2be9b5bf989a5b7b23fe70ff273c71a4d10113de&v=4" width="24" alt="Avatar of luisdgd07"> luisdgd07
@@ -2159,7 +2185,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/ExaByt3s">
 				<img src="https://avatars.githubusercontent.com/u/19945960?s=72&u=4489412455b02e888cb9ce1f4a394a204b8c9dd5&v=4" width="24" alt="Avatar of ExaByt3s"> ExaByt3s
@@ -2172,20 +2198,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>160</td>
-		<td>
-			<a href="https://github.com/cserradag96">
-				<img src="https://avatars.githubusercontent.com/u/10492339?s=72&u=a6bcdc9e9422c82a9d692935ef96f8f0fa8f2c99&v=4" width="24" alt="Avatar of cserradag96"> cserradag96
-			</a><br/>
-			Carlos Serrada
-		</td>
-		<td>Kavak </td>
-		<td><a href="https://twitter.com/cserradag96">cserradag96</a></td>
-		<td>Venezuela</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>161</td>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/cobisja">
 				<img src="https://avatars.githubusercontent.com/u/10275634?s=72&v=4" width="24" alt="Avatar of cobisja"> cobisja
@@ -2198,7 +2211,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/YV3399">
 				<img src="https://avatars.githubusercontent.com/u/17015690?s=72&u=bc09cf4a7e25220cbb4cdb011a02dea38138a184&v=4" width="24" alt="Avatar of YV3399"> YV3399
@@ -2211,7 +2224,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>164</td>
 		<td>
 			<a href="https://github.com/codificate">
 				<img src="https://avatars.githubusercontent.com/u/7433860?s=72&u=71d26d96648184aa59b08b8c2cffdbda4c3930d2&v=4" width="24" alt="Avatar of codificate"> codificate
@@ -2224,7 +2237,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/Edgardoweb">
 				<img src="https://avatars.githubusercontent.com/u/2364933?s=72&u=6e90f21efd4bb093f6873f5b2c7b91097bcc6173&v=4" width="24" alt="Avatar of Edgardoweb"> Edgardoweb
@@ -2237,7 +2250,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/Revod">
 				<img src="https://avatars.githubusercontent.com/u/10109689?s=72&u=5c92c2fd27eef7db9ff1c46e46200fa61c63fe4c&v=4" width="24" alt="Avatar of Revod"> Revod
@@ -2250,7 +2263,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/Zoomelectrico">
 				<img src="https://avatars.githubusercontent.com/u/12375252?s=72&u=07d0c83920889439f358f0aaf35aa61789cbbb77&v=4" width="24" alt="Avatar of Zoomelectrico"> Zoomelectrico
@@ -2263,7 +2276,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/franjorub">
 				<img src="https://avatars.githubusercontent.com/u/24401350?s=72&u=30cfec1d23dac112d47ec056cf460f4d92533d00&v=4" width="24" alt="Avatar of franjorub"> franjorub
@@ -2276,7 +2289,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/rpire">
 				<img src="https://avatars.githubusercontent.com/u/80990865?s=72&u=ff405a6ca6f1b218fedecdd647c9b2bbadd7450e&v=4" width="24" alt="Avatar of rpire"> rpire
@@ -2289,7 +2302,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/krysal">
 				<img src="https://avatars.githubusercontent.com/u/9145885?s=72&u=b9db05c11905356c24025bcfb9e079918da91102&v=4" width="24" alt="Avatar of krysal"> krysal
@@ -2302,7 +2315,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/ntrrg">
 				<img src="https://avatars.githubusercontent.com/u/6060009?s=72&u=f0146d3d9cce848a2a9eb1943c21409fa50328fb&v=4" width="24" alt="Avatar of ntrrg"> ntrrg
@@ -2315,7 +2328,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/theizerg">
 				<img src="https://avatars.githubusercontent.com/u/39157799?s=72&u=31396c51bd80b3d7f2bf290dcd546e3b9aefcf68&v=4" width="24" alt="Avatar of theizerg"> theizerg
@@ -2328,7 +2341,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/zuleykazar">
 				<img src="https://avatars.githubusercontent.com/u/77079241?s=72&u=b959fa357f170fa441c4c00c568c9c3740ce95bc&v=4" width="24" alt="Avatar of zuleykazar"> zuleykazar
@@ -2341,7 +2354,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/AngelTerrones">
 				<img src="https://avatars.githubusercontent.com/u/4234443?s=72&u=23a9acae2ec6a9333dbe27696a9aca54dfed763c&v=4" width="24" alt="Avatar of AngelTerrones"> AngelTerrones
@@ -2351,19 +2364,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>Universidad Simón Bolívar (usb)<br/></td>
 		<td>No Twitter Username</td>
 		<td>Caracas</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>174</td>
-		<td>
-			<a href="https://github.com/swsandra">
-				<img src="https://avatars.githubusercontent.com/u/28073039?s=72&u=1ad2df1e52d5577bc0098b9795d3cf19028eaeef&v=4" width="24" alt="Avatar of swsandra"> swsandra
-			</a><br/>
-			Sandra Vera
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Caracas, Venezuela</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -2382,19 +2382,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>176</td>
 		<td>
-			<a href="https://github.com/Ronaldomata34">
-				<img src="https://avatars.githubusercontent.com/u/23487903?s=72&u=b133098c36e717c1d613053d618ea59e7170c8c8&v=4" width="24" alt="Avatar of Ronaldomata34"> Ronaldomata34
-			</a><br/>
-			Ronaldo Mata
-		</td>
-		<td>@upwork </td>
-		<td>No Twitter Username</td>
-		<td>Venezuela - Puerto La Cruz</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>177</td>
-		<td>
 			<a href="https://github.com/kalimalrazif">
 				<img src="https://avatars.githubusercontent.com/u/2915349?s=72&u=82a1034f78801946cec4c9272d990cf91fe6dba2&v=4" width="24" alt="Avatar of kalimalrazif"> kalimalrazif
 			</a><br/>
@@ -2403,6 +2390,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>177</td>
+		<td>
+			<a href="https://github.com/Ronaldomata34">
+				<img src="https://avatars.githubusercontent.com/u/23487903?s=72&u=b133098c36e717c1d613053d618ea59e7170c8c8&v=4" width="24" alt="Avatar of Ronaldomata34"> Ronaldomata34
+			</a><br/>
+			Ronaldo Mata
+		</td>
+		<td>@upwork </td>
+		<td>No Twitter Username</td>
+		<td>Venezuela - Puerto La Cruz</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -2421,6 +2421,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>179</td>
 		<td>
+			<a href="https://github.com/VonHeikemen">
+				<img src="https://avatars.githubusercontent.com/u/20980671?s=72&u=f4db3590e22ac28f58d41877d504e923a10d0f0f&v=4" width="24" alt="Avatar of VonHeikemen"> VonHeikemen
+			</a><br/>
+			Heiker
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/VonHeikemen_">VonHeikemen_</a></td>
+		<td>Venezuela</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>180</td>
+		<td>
 			<a href="https://github.com/barreto-exe">
 				<img src="https://avatars.githubusercontent.com/u/20495108?s=72&u=e364cf5eacc31ea148cb228a7ef413f549c50e41&v=4" width="24" alt="Avatar of barreto-exe"> barreto-exe
 			</a><br/>
@@ -2432,7 +2445,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/cesarbonadio">
 				<img src="https://avatars.githubusercontent.com/u/32617164?s=72&u=8dac4a3344cee1024f091c3025ecb92376f9c646&v=4" width="24" alt="Avatar of cesarbonadio"> cesarbonadio
@@ -2445,7 +2458,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/darioxlz">
 				<img src="https://avatars.githubusercontent.com/u/33297887?s=72&u=6499061523ab7bfef2045313c6c03a748d25259f&v=4" width="24" alt="Avatar of darioxlz"> darioxlz
@@ -2458,7 +2471,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/onofreliscano">
 				<img src="https://avatars.githubusercontent.com/u/874183?s=72&u=76f3b4da47353ab62fe08dcc9c77e81d99329274&v=4" width="24" alt="Avatar of onofreliscano"> onofreliscano
@@ -2468,19 +2481,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>Onofreliscano </td>
 		<td>No Twitter Username</td>
 		<td>Caracas - Venezuela</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>183</td>
-		<td>
-			<a href="https://github.com/RicardoRien">
-				<img src="https://avatars.githubusercontent.com/u/55299652?s=72&u=98bc824b7cc60459836435a036a95eec4eb7ce33&v=4" width="24" alt="Avatar of RicardoRien"> RicardoRien
-			</a><br/>
-			Ricardo Aguilar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -2564,19 +2564,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>190</td>
 		<td>
-			<a href="https://github.com/skaptox">
-				<img src="https://avatars.githubusercontent.com/u/29805241?s=72&u=efe58fc5bb0ee7ad11fb7fc976820a7cda3f0c77&v=4" width="24" alt="Avatar of skaptox"> skaptox
-			</a><br/>
-			Oscar Albornoz
-		</td>
-		<td>University Of The Andes,<br/>Venezuela<br/></td>
-		<td><a href="https://twitter.com/skaptox">skaptox</a></td>
-		<td>Venezuela</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>191</td>
-		<td>
 			<a href="https://github.com/Fabioepb">
 				<img src="https://avatars.githubusercontent.com/u/37021532?s=72&u=a6915e1bdb6d338c9c508fc6f19ea1e8e8a935c8&v=4" width="24" alt="Avatar of Fabioepb"> Fabioepb
 			</a><br/>
@@ -2584,6 +2571,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>191</td>
+		<td>
+			<a href="https://github.com/skaptox">
+				<img src="https://avatars.githubusercontent.com/u/29805241?s=72&u=efe58fc5bb0ee7ad11fb7fc976820a7cda3f0c77&v=4" width="24" alt="Avatar of skaptox"> skaptox
+			</a><br/>
+			Oscar Albornoz
+		</td>
+		<td>University Of The Andes,<br/>Venezuela<br/></td>
+		<td><a href="https://twitter.com/skaptox">skaptox</a></td>
 		<td>Venezuela</td>
 		<td>18</td>
 	</tr>
@@ -2603,19 +2603,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>193</td>
 		<td>
-			<a href="https://github.com/VonHeikemen">
-				<img src="https://avatars.githubusercontent.com/u/20980671?s=72&u=f4db3590e22ac28f58d41877d504e923a10d0f0f&v=4" width="24" alt="Avatar of VonHeikemen"> VonHeikemen
-			</a><br/>
-			Heiker
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/VonHeikemen_">VonHeikemen_</a></td>
-		<td>Venezuela</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>194</td>
-		<td>
 			<a href="https://github.com/jkauze">
 				<img src="https://avatars.githubusercontent.com/u/21025451?s=72&u=d7f1a833ba14e211b8bda426000b463dea658db6&v=4" width="24" alt="Avatar of jkauze"> jkauze
 			</a><br/>
@@ -2627,16 +2614,29 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>194</td>
 		<td>
-			<a href="https://github.com/AndresCode08">
-				<img src="https://avatars.githubusercontent.com/u/70079260?s=72&u=8314459dcc64369021806e3b4870d68f73db59ff&v=4" width="24" alt="Avatar of AndresCode08"> AndresCode08
+			<a href="https://github.com/RicardoRien">
+				<img src="https://avatars.githubusercontent.com/u/55299652?s=72&u=98bc824b7cc60459836435a036a95eec4eb7ce33&v=4" width="24" alt="Avatar of RicardoRien"> RicardoRien
 			</a><br/>
-			Andres Code
+			Ricardo Aguilar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AndresCode08">AndresCode08</a></td>
-		<td>Venezuela </td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>195</td>
+		<td>
+			<a href="https://github.com/dreamtigers">
+				<img src="https://avatars.githubusercontent.com/u/17637014?s=72&u=6909ed972ae856543d772ef8fac9daf86c8ae0ca&v=4" width="24" alt="Avatar of dreamtigers"> dreamtigers
+			</a><br/>
+			Ivan Gonzalez Polanco
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Caracas, Venezuela.</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -2655,19 +2655,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>197</td>
 		<td>
-			<a href="https://github.com/dreamtigers">
-				<img src="https://avatars.githubusercontent.com/u/17637014?s=72&u=6909ed972ae856543d772ef8fac9daf86c8ae0ca&v=4" width="24" alt="Avatar of dreamtigers"> dreamtigers
-			</a><br/>
-			Ivan Gonzalez Polanco
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Caracas, Venezuela.</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>198</td>
-		<td>
 			<a href="https://github.com/OscarTorrez79-dev">
 				<img src="https://avatars.githubusercontent.com/u/23380555?s=72&u=3c5459ca49eefc8a5283ce1fc8c035eed25ebac1&v=4" width="24" alt="Avatar of OscarTorrez79-dev"> OscarTorrez79-dev
 			</a><br/>
@@ -2679,7 +2666,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/hectorerb">
 				<img src="https://avatars.githubusercontent.com/u/8787200?s=72&u=04b214ad2acb5ef57eeef9096737b4448e6f6a43&v=4" width="24" alt="Avatar of hectorerb"> hectorerb
@@ -2692,7 +2679,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/4geeks">
 				<img src="https://avatars.githubusercontent.com/u/1781430?s=72&u=34994b23bb6d30da15828146e8e6d7890c3bbf3d&v=4" width="24" alt="Avatar of 4geeks"> 4geeks
@@ -2705,7 +2692,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/neobrandll">
 				<img src="https://avatars.githubusercontent.com/u/39470721?s=72&v=4" width="24" alt="Avatar of neobrandll"> neobrandll
@@ -2718,7 +2705,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/jfuenmayor96">
 				<img src="https://avatars.githubusercontent.com/u/12123951?s=72&v=4" width="24" alt="Avatar of jfuenmayor96"> jfuenmayor96
@@ -2731,20 +2718,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>203</td>
-		<td>
-			<a href="https://github.com/daniel-moya">
-				<img src="https://avatars.githubusercontent.com/u/20147650?s=72&u=b9e51296b68a5b815270d3c60562eeea67bbb37c&v=4" width="24" alt="Avatar of daniel-moya"> daniel-moya
-			</a><br/>
-			Daniel Moya
-		</td>
-		<td>Self Employee </td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>204</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/gregorip02">
 				<img src="https://avatars.githubusercontent.com/u/62108989?s=72&u=941510d0e730397da6cb5c7af883279f632260af&v=4" width="24" alt="Avatar of gregorip02"> gregorip02
@@ -2757,7 +2731,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/efrenfuentes">
 				<img src="https://avatars.githubusercontent.com/u/33507?s=72&v=4" width="24" alt="Avatar of efrenfuentes"> efrenfuentes
@@ -2770,7 +2744,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/tomivs">
 				<img src="https://avatars.githubusercontent.com/u/6005972?s=72&u=f04c033e7416b4f91e0cf6f30cac1441decd7973&v=4" width="24" alt="Avatar of tomivs"> tomivs
@@ -2783,7 +2757,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/PietroIaia">
 				<img src="https://avatars.githubusercontent.com/u/37044996?s=72&u=78f1ec743292f15043a5a4325d29285fca1ad259&v=4" width="24" alt="Avatar of PietroIaia"> PietroIaia
@@ -2796,7 +2770,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/boanergepro">
 				<img src="https://avatars.githubusercontent.com/u/13975525?s=72&u=37d6fb8887f8172c6e238dd341881907f88657fa&v=4" width="24" alt="Avatar of boanergepro"> boanergepro
@@ -2809,7 +2783,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/hectorcanaimero">
 				<img src="https://avatars.githubusercontent.com/u/158916?s=72&u=495a628edcfc01feee8725c521f9959027767e0e&v=4" width="24" alt="Avatar of hectorcanaimero"> hectorcanaimero
@@ -2822,7 +2796,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>210</td>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/ShadowManu">
 				<img src="https://avatars.githubusercontent.com/u/5491749?s=72&u=8bb879404d2285295be13dcfe24bce28016497fd&v=4" width="24" alt="Avatar of ShadowManu"> ShadowManu
@@ -2835,7 +2809,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/jorgtowers">
 				<img src="https://avatars.githubusercontent.com/u/2346728?s=72&u=42424e074f9841401f1ecac1703804c61b354b5c&v=4" width="24" alt="Avatar of jorgtowers"> jorgtowers
@@ -2848,7 +2822,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/jackrichardzon">
 				<img src="https://avatars.githubusercontent.com/u/25041734?s=72&u=1cc1e69075cc733e9f129545a971491cc7a64033&v=4" width="24" alt="Avatar of jackrichardzon"> jackrichardzon
@@ -2861,7 +2835,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/Adversities">
 				<img src="https://avatars.githubusercontent.com/u/12886545?s=72&u=afb477c17a632c42cbfb781138b9956b8df6a92c&v=4" width="24" alt="Avatar of Adversities"> Adversities
@@ -2874,7 +2848,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/PagoFlash">
 				<img src="https://avatars.githubusercontent.com/u/10222880?s=72&u=c760e20a90df8d5c1ef2ebf2b956dea0d7557ecb&v=4" width="24" alt="Avatar of PagoFlash"> PagoFlash
@@ -2887,7 +2861,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/Melecio">
 				<img src="https://avatars.githubusercontent.com/u/1506664?s=72&u=eea16cf9edb0f3e56d5596f4617f133c8d70bdaa&v=4" width="24" alt="Avatar of Melecio"> Melecio
@@ -2900,7 +2874,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/sofiaromorales">
 				<img src="https://avatars.githubusercontent.com/u/49292858?s=72&u=0173ca799109881ab550fe27d33128e3f6d0cc6b&v=4" width="24" alt="Avatar of sofiaromorales"> sofiaromorales
@@ -2913,20 +2887,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>217</td>
-		<td>
-			<a href="https://github.com/hernanramirez">
-				<img src="https://avatars.githubusercontent.com/u/3480478?s=72&u=8e1eb24d7be84bc4a7ae15139312f6924b5f2dcf&v=4" width="24" alt="Avatar of hernanramirez"> hernanramirez
-			</a><br/>
-			J. Hernán Ramírez R
-		</td>
-		<td>Freelancer </td>
-		<td>No Twitter Username</td>
-		<td>Mérida, Venezuela</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>218</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/miguelesco">
 				<img src="https://avatars.githubusercontent.com/u/44306286?s=72&v=4" width="24" alt="Avatar of miguelesco"> miguelesco
@@ -2939,20 +2900,33 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>216</td>
 		<td>
-			<a href="https://github.com/Arturo-Ruiz">
-				<img src="https://avatars.githubusercontent.com/u/42457341?s=72&u=45bb4f4d4fd0e2efc5e72f5bb4b73a0b69946e3d&v=4" width="24" alt="Avatar of Arturo-Ruiz"> Arturo-Ruiz
+			<a href="https://github.com/hernanramirez">
+				<img src="https://avatars.githubusercontent.com/u/3480478?s=72&u=8e1eb24d7be84bc4a7ae15139312f6924b5f2dcf&v=4" width="24" alt="Avatar of hernanramirez"> hernanramirez
 			</a><br/>
-			Arturo
+			J. Hernán Ramírez R
+		</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Mérida, Venezuela</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
+			<a href="https://github.com/cgmark101">
+				<img src="https://avatars.githubusercontent.com/u/51804520?s=72&u=f78bdf6d1e4e9dd4cde798f5572714c85498e36e&v=4" width="24" alt="Avatar of cgmark101"> cgmark101
+			</a><br/>
+			Marcos Yeguez
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/MarcosYeguez">MarcosYeguez</a></td>
 		<td>Venezuela</td>
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/jesuswr">
 				<img src="https://avatars.githubusercontent.com/u/41008968?s=72&u=78481e960793814fc3d769639265af1715efee36&v=4" width="24" alt="Avatar of jesuswr"> jesuswr
@@ -2965,7 +2939,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/monpkz">
 				<img src="https://avatars.githubusercontent.com/u/79878292?s=72&u=95c5fa3f00bf550774199d4b4c441c0c71b05556&v=4" width="24" alt="Avatar of monpkz"> monpkz
@@ -2978,7 +2952,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/barinascode">
 				<img src="https://avatars.githubusercontent.com/u/3534986?s=72&u=8f913f4fc51ffc4b8454f5d0bc329470d71affbd&v=4" width="24" alt="Avatar of barinascode"> barinascode
@@ -2991,20 +2965,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>223</td>
-		<td>
-			<a href="https://github.com/jlbousing">
-				<img src="https://avatars.githubusercontent.com/u/18722585?s=72&u=863c174da5416f0b0251aab565acac35288567cb&v=4" width="24" alt="Avatar of jlbousing"> jlbousing
-			</a><br/>
-			Jorge Bou-saad
-		</td>
-		<td>Bou-games </td>
-		<td>No Twitter Username</td>
-		<td>Caracas Venezuela</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>224</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/Wgil">
 				<img src="https://avatars.githubusercontent.com/u/12855914?s=72&u=17d4b3fa3950f4f6d36aefa44eafefc7374f0c19&v=4" width="24" alt="Avatar of Wgil"> Wgil
@@ -3017,7 +2978,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>222</td>
 		<td>
 			<a href="https://github.com/CRISOMG">
 				<img src="https://avatars.githubusercontent.com/u/52843476?s=72&u=3783d5906883e61d146c5883c562e0f401a96824&v=4" width="24" alt="Avatar of CRISOMG"> CRISOMG
@@ -3030,7 +2991,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/datacampero">
 				<img src="https://avatars.githubusercontent.com/u/38816721?s=72&u=e34e8f8f9e48a6cd9a26d9134851c4679c1b0cb9&v=4" width="24" alt="Avatar of datacampero"> datacampero
@@ -3043,7 +3004,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/gregsanz182">
 				<img src="https://avatars.githubusercontent.com/u/9099404?s=72&u=09647d6030305f3f8eb18cc39a1bb57d62cda47e&v=4" width="24" alt="Avatar of gregsanz182"> gregsanz182
@@ -3056,7 +3017,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/Rafajrg21">
 				<img src="https://avatars.githubusercontent.com/u/36615882?s=72&u=9f084cb02c2dec16c85714d8d8228e2021bdc62f&v=4" width="24" alt="Avatar of Rafajrg21"> Rafajrg21
@@ -3069,7 +3030,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/pedrorojasg">
 				<img src="https://avatars.githubusercontent.com/u/18686600?s=72&u=ee42ad152a82faf5f889c949eea5014f4def9dc4&v=4" width="24" alt="Avatar of pedrorojasg"> pedrorojasg
@@ -3082,7 +3043,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/AKBiofrost">
 				<img src="https://avatars.githubusercontent.com/u/55666183?s=72&u=3218a4d5c3846b34ef244bc0d61f38d101ced2dd&v=4" width="24" alt="Avatar of AKBiofrost"> AKBiofrost
@@ -3095,7 +3056,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/Doenec">
 				<img src="https://avatars.githubusercontent.com/u/29964455?s=72&u=aa6da2fc21a3af1f607235800addfcc27d2a8bb9&v=4" width="24" alt="Avatar of Doenec"> Doenec
@@ -3108,7 +3069,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/rudmanmrrod">
 				<img src="https://avatars.githubusercontent.com/u/12460799?s=72&u=84069731514a52e8435d251f8abe01d98f027205&v=4" width="24" alt="Avatar of rudmanmrrod"> rudmanmrrod
@@ -3121,7 +3082,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/jcaponte">
 				<img src="https://avatars.githubusercontent.com/u/8532228?s=72&u=51fc8387a380bbf5f0874d10bac4cfbddfeff7d4&v=4" width="24" alt="Avatar of jcaponte"> jcaponte
@@ -3134,7 +3095,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/wladrod">
 				<img src="https://avatars.githubusercontent.com/u/13041943?s=72&v=4" width="24" alt="Avatar of wladrod"> wladrod
@@ -3147,7 +3108,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/javierlopm">
 				<img src="https://avatars.githubusercontent.com/u/7954439?s=72&u=f730ae986adaade2d6df44423fc5f5b674d295d6&v=4" width="24" alt="Avatar of javierlopm"> javierlopm
@@ -3160,7 +3121,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/CodeKommissar">
 				<img src="https://avatars.githubusercontent.com/u/24629844?s=72&u=c7be5a953bea026471127fbf82244829c09bdbcb&v=4" width="24" alt="Avatar of CodeKommissar"> CodeKommissar
@@ -3173,7 +3134,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/carloselhalabi">
 				<img src="https://avatars.githubusercontent.com/u/2533088?s=72&u=6f30d761b560524e4985e5969fa20b3cd4d25e49&v=4" width="24" alt="Avatar of carloselhalabi"> carloselhalabi
@@ -3186,7 +3147,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/alvarolac">
 				<img src="https://avatars.githubusercontent.com/u/26889695?s=72&v=4" width="24" alt="Avatar of alvarolac"> alvarolac
@@ -3199,20 +3160,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>236</td>
 		<td>
-			<a href="https://github.com/cgmark101">
-				<img src="https://avatars.githubusercontent.com/u/51804520?s=72&u=f78bdf6d1e4e9dd4cde798f5572714c85498e36e&v=4" width="24" alt="Avatar of cgmark101"> cgmark101
+			<a href="https://github.com/Arturo-Ruiz">
+				<img src="https://avatars.githubusercontent.com/u/42457341?s=72&u=45bb4f4d4fd0e2efc5e72f5bb4b73a0b69946e3d&v=4" width="24" alt="Avatar of Arturo-Ruiz"> Arturo-Ruiz
 			</a><br/>
-			Marcos Yeguez
+			Arturo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/MarcosYeguez">MarcosYeguez</a></td>
+		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/Andresdamelio">
 				<img src="https://avatars.githubusercontent.com/u/36086897?s=72&u=2b3480e82a1b5ba38ec5ac3a18d895a79684d7cc&v=4" width="24" alt="Avatar of Andresdamelio"> Andresdamelio
@@ -3225,7 +3186,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/aesthezel">
 				<img src="https://avatars.githubusercontent.com/u/57817604?s=72&u=ad1514cf53da8931231c6f681fa894b77f403bec&v=4" width="24" alt="Avatar of aesthezel"> aesthezel
@@ -3238,7 +3199,33 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>239</td>
+		<td>
+			<a href="https://github.com/jlbousing">
+				<img src="https://avatars.githubusercontent.com/u/18722585?s=72&u=863c174da5416f0b0251aab565acac35288567cb&v=4" width="24" alt="Avatar of jlbousing"> jlbousing
+			</a><br/>
+			Jorge Bou-saad
+		</td>
+		<td>Bou-games </td>
+		<td>No Twitter Username</td>
+		<td>Caracas Venezuela</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>240</td>
+		<td>
+			<a href="https://github.com/Yomalex">
+				<img src="https://avatars.githubusercontent.com/u/23020176?s=72&u=91e16f272e6d0256a0e1c366d0966a7ee20d6104&v=4" width="24" alt="Avatar of Yomalex"> Yomalex
+			</a><br/>
+			Camejo Yomar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/bakerianathaly">
 				<img src="https://avatars.githubusercontent.com/u/35816652?s=72&u=c04982fe6d7d050f5c95e44fb2fbfac124c440cf&v=4" width="24" alt="Avatar of bakerianathaly"> bakerianathaly
@@ -3251,7 +3238,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/LeidiFlores">
 				<img src="https://avatars.githubusercontent.com/u/62189355?s=72&u=87bd01059566bd7b7a89da081c15c8e381e95b84&v=4" width="24" alt="Avatar of LeidiFlores"> LeidiFlores
@@ -3264,7 +3251,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/IvanMontillaM">
 				<img src="https://avatars.githubusercontent.com/u/5497429?s=72&u=a0fd0c797e0401250a36917ff240226084db9060&v=4" width="24" alt="Avatar of IvanMontillaM"> IvanMontillaM
@@ -3277,7 +3264,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/yuryja">
 				<img src="https://avatars.githubusercontent.com/u/3640058?s=72&u=19b286ecc56ff6e07cf422869b81181c23b6c694&v=4" width="24" alt="Avatar of yuryja"> yuryja
@@ -3290,7 +3277,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/nabiljesus">
 				<img src="https://avatars.githubusercontent.com/u/11800199?s=72&u=e537ba7d2a2b823e07397391c3e585cc0f5ec43c&v=4" width="24" alt="Avatar of nabiljesus"> nabiljesus
@@ -3303,7 +3290,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/vpino">
 				<img src="https://avatars.githubusercontent.com/u/13278377?s=72&u=7acc1c7dc7833db79c7ef7e97f91200ad30d0a17&v=4" width="24" alt="Avatar of vpino"> vpino
@@ -3316,7 +3303,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/Luda16-zz">
 				<img src="https://avatars.githubusercontent.com/u/8575171?s=72&u=99705a4a25846819b95cb8a45fdd481675de0fe2&v=4" width="24" alt="Avatar of Luda16-zz"> Luda16-zz
@@ -3329,7 +3316,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/introdsandml">
 				<img src="https://avatars.githubusercontent.com/u/17896470?s=72&u=47fc68809f1c5de7b74bc329f4dc13da5253398e&v=4" width="24" alt="Avatar of introdsandml"> introdsandml
@@ -3342,7 +3329,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/gleamx">
 				<img src="https://avatars.githubusercontent.com/u/3728370?s=72&u=2a5d0ea51ffed4fff46381d632312f3689984876&v=4" width="24" alt="Avatar of gleamx"> gleamx
@@ -3355,7 +3342,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/maximosojo">
 				<img src="https://avatars.githubusercontent.com/u/11669311?s=72&u=1ed9a92948adfdaa64d76ee9eea3e477191dc5e4&v=4" width="24" alt="Avatar of maximosojo"> maximosojo
@@ -3364,6 +3351,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		</td>
 		<td>Open Source Universe </td>
 		<td><a href="https://twitter.com/maximosojo">maximosojo</a></td>
+		<td>Venezuela</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>251</td>
+		<td>
+			<a href="https://github.com/Alexander15M">
+				<img src="https://avatars.githubusercontent.com/u/15654990?s=72&u=94060bc2bda39ad4e183bf0490aea5f6ec528b54&v=4" width="24" alt="Avatar of Alexander15M"> Alexander15M
+			</a><br/>
+			Alexander
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>14</td>
 	</tr>
@@ -3383,6 +3383,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>253</td>
 		<td>
+			<a href="https://github.com/rockcesar">
+				<img src="https://avatars.githubusercontent.com/u/5984401?s=72&v=4" width="24" alt="Avatar of rockcesar"> rockcesar
+			</a><br/>
+			César Cordero Rodríguez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maracaibo</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>254</td>
+		<td>
 			<a href="https://github.com/Miguelus373">
 				<img src="https://avatars.githubusercontent.com/u/59075205?s=72&u=5c6d41c7ad0194ae460e387615f81ac0916a58ad&v=4" width="24" alt="Avatar of Miguelus373"> Miguelus373
 			</a><br/>
@@ -3394,7 +3407,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/CexyNature">
 				<img src="https://avatars.githubusercontent.com/u/29750401?s=72&u=ccf7d4889f4ae508ae598aed8a27ca7e35ced6c7&v=4" width="24" alt="Avatar of CexyNature"> CexyNature
@@ -3407,7 +3420,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/Danix421">
 				<img src="https://avatars.githubusercontent.com/u/78866931?s=72&u=96b008492ac9d0967443c80e09e08b2d1e6e0322&v=4" width="24" alt="Avatar of Danix421"> Danix421
@@ -3420,7 +3433,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/karenamg">
 				<img src="https://avatars.githubusercontent.com/u/64982034?s=72&u=f782730bcfac693b0159799471e5cebfc21aeedd&v=4" width="24" alt="Avatar of karenamg"> karenamg
@@ -3433,7 +3446,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/carrasquel">
 				<img src="https://avatars.githubusercontent.com/u/5001579?s=72&v=4" width="24" alt="Avatar of carrasquel"> carrasquel
@@ -3446,7 +3459,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>259</td>
 		<td>
 			<a href="https://github.com/AnnyChacon">
 				<img src="https://avatars.githubusercontent.com/u/25867987?s=72&u=1f94da84deef68257aefe28d09a50684cc58d78b&v=4" width="24" alt="Avatar of AnnyChacon"> AnnyChacon
@@ -3459,7 +3472,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/MarUser04">
 				<img src="https://avatars.githubusercontent.com/u/17751926?s=72&u=08de3f29c86b5e45d5bc7d992c31ab0615dd9f94&v=4" width="24" alt="Avatar of MarUser04"> MarUser04
@@ -3472,7 +3485,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>261</td>
+		<td>
+			<a href="https://github.com/fabriciobencomo">
+				<img src="https://avatars.githubusercontent.com/u/47840864?s=72&u=30c8822adf0b416f0f3a5dc235427ef86a8657f2&v=4" width="24" alt="Avatar of fabriciobencomo"> fabriciobencomo
+			</a><br/>
+			Fabricio Bencomo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/BencomoFabricio">BencomoFabricio</a></td>
+		<td>Valencia, CA Venezuela</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/MateoElias">
 				<img src="https://avatars.githubusercontent.com/u/61370647?s=72&v=4" width="24" alt="Avatar of MateoElias"> MateoElias
@@ -3485,20 +3511,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>261</td>
-		<td>
-			<a href="https://github.com/Yomalex">
-				<img src="https://avatars.githubusercontent.com/u/23020176?s=72&u=91e16f272e6d0256a0e1c366d0966a7ee20d6104&v=4" width="24" alt="Avatar of Yomalex"> Yomalex
-			</a><br/>
-			Camejo Yomar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>262</td>
+		<td>263</td>
 		<td>
 			<a href="https://github.com/jonathanjd">
 				<img src="https://avatars.githubusercontent.com/u/5623489?s=72&u=56b3cc852363ba76249be81a0d59892ea96e9ef2&v=4" width="24" alt="Avatar of jonathanjd"> jonathanjd
@@ -3511,7 +3524,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/jafjdev">
 				<img src="https://avatars.githubusercontent.com/u/34526344?s=72&u=5b199c770afc3b8c7a3126678f6b1ead5f6b9a07&v=4" width="24" alt="Avatar of jafjdev"> jafjdev
@@ -3524,7 +3537,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/vgarciac">
 				<img src="https://avatars.githubusercontent.com/u/22282987?s=72&u=eb128e22e801aef3975c0ddd7449a56b6da15c81&v=4" width="24" alt="Avatar of vgarciac"> vgarciac
@@ -3537,7 +3550,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/franjaviersans">
 				<img src="https://avatars.githubusercontent.com/u/1288576?s=72&u=1b878e44cec0027d52aa39df501802e51af5aa40&v=4" width="24" alt="Avatar of franjaviersans"> franjaviersans
@@ -3550,7 +3563,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/Hgonzalez1988">
 				<img src="https://avatars.githubusercontent.com/u/39654584?s=72&v=4" width="24" alt="Avatar of Hgonzalez1988"> Hgonzalez1988
@@ -3563,7 +3576,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/aortegao">
 				<img src="https://avatars.githubusercontent.com/u/4967883?s=72&u=611812505f2b76a4f649213697c5e02a10a4f63a&v=4" width="24" alt="Avatar of aortegao"> aortegao
@@ -3576,7 +3589,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>268</td>
+		<td>269</td>
 		<td>
 			<a href="https://github.com/DIOC-UCV">
 				<img src="https://avatars.githubusercontent.com/u/57406685?s=72&u=63982106ced3d4c2e80e7ecaed41bba4d03b514c&v=4" width="24" alt="Avatar of DIOC-UCV"> DIOC-UCV
@@ -3589,7 +3602,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/orlmonteverde">
 				<img src="https://avatars.githubusercontent.com/u/31595230?s=72&u=88cd1215c453dae519a7941d95acc20d57c3e658&v=4" width="24" alt="Avatar of orlmonteverde"> orlmonteverde
@@ -3602,25 +3615,12 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/Jose-Angel-Rey">
 				<img src="https://avatars.githubusercontent.com/u/76404798?s=72&u=027a4708da8a689bac7df81eb821c9d51eaacff2&v=4" width="24" alt="Avatar of Jose-Angel-Rey"> Jose-Angel-Rey
 			</a><br/>
 			Jose Angel Rey
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>271</td>
-		<td>
-			<a href="https://github.com/Alexander15M">
-				<img src="https://avatars.githubusercontent.com/u/15654990?s=72&u=94060bc2bda39ad4e183bf0490aea5f6ec528b54&v=4" width="24" alt="Avatar of Alexander15M"> Alexander15M
-			</a><br/>
-			Alexander
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3643,19 +3643,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>273</td>
 		<td>
-			<a href="https://github.com/rockcesar">
-				<img src="https://avatars.githubusercontent.com/u/5984401?s=72&v=4" width="24" alt="Avatar of rockcesar"> rockcesar
-			</a><br/>
-			César Cordero Rodríguez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maracaibo</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>274</td>
-		<td>
 			<a href="https://github.com/y-martinez">
 				<img src="https://avatars.githubusercontent.com/u/6761059?s=72&u=ffc7e86ac8109ad315594d176fc3eae8ccefe7ef&v=4" width="24" alt="Avatar of y-martinez"> y-martinez
 			</a><br/>
@@ -3667,7 +3654,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/Jsifontez">
 				<img src="https://avatars.githubusercontent.com/u/22948756?s=72&u=134a5f892d5cc623a9251d5d43a383f666551928&v=4" width="24" alt="Avatar of Jsifontez"> Jsifontez
@@ -3680,7 +3667,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/J33sus">
 				<img src="https://avatars.githubusercontent.com/u/37477995?s=72&u=976ade5896fa4ed461e9b45604eb47fb5cf12e14&v=4" width="24" alt="Avatar of J33sus"> J33sus
@@ -3693,7 +3680,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/zaidcodes">
 				<img src="https://avatars.githubusercontent.com/u/25602460?s=72&u=b85af595bf0ad26eb02278e50ed3c2a529e5f425&v=4" width="24" alt="Avatar of zaidcodes"> zaidcodes
@@ -3706,7 +3693,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/alonsogchparra">
 				<img src="https://avatars.githubusercontent.com/u/5703732?s=72&u=dc9e1c7a23253fb5f4cb2355a0b3854b95071a29&v=4" width="24" alt="Avatar of alonsogchparra"> alonsogchparra
@@ -3719,7 +3706,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/mfaria724">
 				<img src="https://avatars.githubusercontent.com/u/28281532?s=72&u=e1ede8cc14adce8a9f9513b1930a6df2c2e0d7c6&v=4" width="24" alt="Avatar of mfaria724"> mfaria724
@@ -3732,7 +3719,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/jotaate">
 				<img src="https://avatars.githubusercontent.com/u/25335293?s=72&u=8248516c3f9c885665ef2b31a78f393cf986c108&v=4" width="24" alt="Avatar of jotaate"> jotaate
@@ -3745,7 +3732,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>280</td>
 		<td>
 			<a href="https://github.com/martinezdiego">
 				<img src="https://avatars.githubusercontent.com/u/41063521?s=72&u=06d14a46d67cb949d73ce8bfb11a6b0fda5a9044&v=4" width="24" alt="Avatar of martinezdiego"> martinezdiego
@@ -3758,7 +3745,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/dsegura95">
 				<img src="https://avatars.githubusercontent.com/u/25865995?s=72&u=6646a4774930c17dc09940d285608c7c2533a690&v=4" width="24" alt="Avatar of dsegura95"> dsegura95
@@ -3771,7 +3758,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/nestorinf">
 				<img src="https://avatars.githubusercontent.com/u/26290548?s=72&u=fd54f9d319e036a678a3b1efbfaf2bce5082586d&v=4" width="24" alt="Avatar of nestorinf"> nestorinf
@@ -3784,20 +3771,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>284</td>
-		<td>
-			<a href="https://github.com/igorer88">
-				<img src="https://avatars.githubusercontent.com/u/6375299?s=72&u=646d871df91bf270b56a786cc370044e283b391a&v=4" width="24" alt="Avatar of igorer88"> igorer88
-			</a><br/>
-			Igor Escalona
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Porlamar, Venezuela</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>285</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/davidadc">
 				<img src="https://avatars.githubusercontent.com/u/33961923?s=72&u=a0b9e2dd2725b12d61b7a1ec3306e845390074f1&v=4" width="24" alt="Avatar of davidadc"> davidadc
@@ -3810,7 +3784,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/JesusJimenezG">
 				<img src="https://avatars.githubusercontent.com/u/17998775?s=72&u=a470b8b703d4e427db33d8bb8be8b39040423c50&v=4" width="24" alt="Avatar of JesusJimenezG"> JesusJimenezG
@@ -3823,20 +3797,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>285</td>
 		<td>
-			<a href="https://github.com/fabriciobencomo">
-				<img src="https://avatars.githubusercontent.com/u/47840864?s=72&u=30c8822adf0b416f0f3a5dc235427ef86a8657f2&v=4" width="24" alt="Avatar of fabriciobencomo"> fabriciobencomo
+			<a href="https://github.com/kathyhernndez">
+				<img src="https://avatars.githubusercontent.com/u/82229725?s=72&u=f079e59de5293f3be7d7e64c7e31d7b78e2aa57c&v=4" width="24" alt="Avatar of kathyhernndez"> kathyhernndez
 			</a><br/>
-			Fabricio Bencomo
+			Katherine Hernandez
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/BencomoFabricio">BencomoFabricio</a></td>
-		<td>Valencia, CA Venezuela</td>
+		<td><a href="https://twitter.com/kathyhernndez">kathyhernndez</a></td>
+		<td>Venezuela</td>
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>286</td>
 		<td>
 			<a href="https://github.com/WGraterol64">
 				<img src="https://avatars.githubusercontent.com/u/23112578?s=72&u=2befce3e04c3fb5495fe177e07e966bbbb6aac60&v=4" width="24" alt="Avatar of WGraterol64"> WGraterol64
@@ -3849,7 +3823,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/antusystem">
 				<img src="https://avatars.githubusercontent.com/u/57923391?s=72&u=49244577edde5a2491da268786f21f28f272f606&v=4" width="24" alt="Avatar of antusystem"> antusystem
@@ -3862,7 +3836,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/christian130">
 				<img src="https://avatars.githubusercontent.com/u/349283?s=72&v=4" width="24" alt="Avatar of christian130"> christian130
@@ -3875,7 +3849,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/JwRicauter">
 				<img src="https://avatars.githubusercontent.com/u/28968704?s=72&u=dfdcc7b93805b137e7d54389dafa39aa154ba8b6&v=4" width="24" alt="Avatar of JwRicauter"> JwRicauter
@@ -3888,7 +3862,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>290</td>
+		<td>
+			<a href="https://github.com/fonstack">
+				<img src="https://avatars.githubusercontent.com/u/35873992?s=72&u=1b17f75e544736150e3b1eb5de63c25fc46703d9&v=4" width="24" alt="Avatar of fonstack"> fonstack
+			</a><br/>
+			Carlos Fontes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Caracas, Venezuela</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/13luismb">
 				<img src="https://avatars.githubusercontent.com/u/32210483?s=72&u=9385f27fd8af173733523fb04e5ea8fa5d288a9c&v=4" width="24" alt="Avatar of 13luismb"> 13luismb
@@ -3901,7 +3888,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/cesarbellob">
 				<img src="https://avatars.githubusercontent.com/u/2160314?s=72&u=7ada994968337251c38703d29428547c0cb3dc6b&v=4" width="24" alt="Avatar of cesarbellob"> cesarbellob
@@ -3914,7 +3901,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/mamptecnocrata">
 				<img src="https://avatars.githubusercontent.com/u/17326510?s=72&u=072dd8720deb5cf70086416e509d917cdcb6bb14&v=4" width="24" alt="Avatar of mamptecnocrata"> mamptecnocrata
@@ -3927,7 +3914,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/Ivans51">
 				<img src="https://avatars.githubusercontent.com/u/24858611?s=72&u=165f3ade15b8f62a07108d88b9c59b2c47606857&v=4" width="24" alt="Avatar of Ivans51"> Ivans51
@@ -3940,7 +3927,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/arawako">
 				<img src="https://avatars.githubusercontent.com/u/348621?s=72&u=41f60dea375a8ff08f2f229dd029069b35253a02&v=4" width="24" alt="Avatar of arawako"> arawako
@@ -3953,7 +3940,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/lfbarragan">
 				<img src="https://avatars.githubusercontent.com/u/354342?s=72&v=4" width="24" alt="Avatar of lfbarragan"> lfbarragan
@@ -3966,7 +3953,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/daniibriito">
 				<img src="https://avatars.githubusercontent.com/u/61353628?s=72&u=4a93d1a4d052f62fd641680d7ad631c43378b7c3&v=4" width="24" alt="Avatar of daniibriito"> daniibriito
@@ -3979,7 +3966,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>298</td>
 		<td>
 			<a href="https://github.com/plantijn">
 				<img src="https://avatars.githubusercontent.com/u/5895683?s=72&u=4ae676b86b5191f3c26a6c8ca0153a45701c5484&v=4" width="24" alt="Avatar of plantijn"> plantijn
@@ -3992,7 +3979,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>299</td>
 		<td>
 			<a href="https://github.com/01Comandos">
 				<img src="https://avatars.githubusercontent.com/u/5424079?s=72&u=f3b92086db3efcec7170c629b0793565069df993&v=4" width="24" alt="Avatar of 01Comandos"> 01Comandos
@@ -4002,6 +3989,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>300</td>
+		<td>
+			<a href="https://github.com/7i11">
+				<img src="https://avatars.githubusercontent.com/u/5514371?s=72&v=4" width="24" alt="Avatar of 7i11"> 7i11
+			</a><br/>
+			till haxor
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>venezuela</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -4020,19 +4020,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>302</td>
 		<td>
-			<a href="https://github.com/7i11">
-				<img src="https://avatars.githubusercontent.com/u/5514371?s=72&v=4" width="24" alt="Avatar of 7i11"> 7i11
-			</a><br/>
-			till haxor
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>venezuela</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>303</td>
-		<td>
 			<a href="https://github.com/bishma-stornelli">
 				<img src="https://avatars.githubusercontent.com/u/1699818?s=72&v=4" width="24" alt="Avatar of bishma-stornelli"> bishma-stornelli
 			</a><br/>
@@ -4044,7 +4031,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/rafaelgus">
 				<img src="https://avatars.githubusercontent.com/u/35335939?s=72&u=06367c336d5bf63a2c81741cf1bc8281fbaa2610&v=4" width="24" alt="Avatar of rafaelgus"> rafaelgus
@@ -4057,7 +4044,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/josepas">
 				<img src="https://avatars.githubusercontent.com/u/1517944?s=72&v=4" width="24" alt="Avatar of josepas"> josepas
@@ -4070,7 +4057,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/rafaelrivasestrada">
 				<img src="https://avatars.githubusercontent.com/u/5714430?s=72&u=9d52270291aa23d48c9006b74cb72c432ea08ab7&v=4" width="24" alt="Avatar of rafaelrivasestrada"> rafaelrivasestrada
@@ -4083,7 +4070,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/jesusaugusto0x2">
 				<img src="https://avatars.githubusercontent.com/u/25781622?s=72&u=1a974b20282388ac63e5b71fe931ef893cf140d7&v=4" width="24" alt="Avatar of jesusaugusto0x2"> jesusaugusto0x2
@@ -4096,7 +4083,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>308</td>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/revliscano">
 				<img src="https://avatars.githubusercontent.com/u/22821350?s=72&u=a816ee55b9d866d7c01567174fad0e75a613521b&v=4" width="24" alt="Avatar of revliscano"> revliscano
@@ -4109,7 +4096,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/apalala">
 				<img src="https://avatars.githubusercontent.com/u/560789?s=72&v=4" width="24" alt="Avatar of apalala"> apalala
@@ -4122,7 +4109,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>310</td>
+		<td>309</td>
 		<td>
 			<a href="https://github.com/iriojose">
 				<img src="https://avatars.githubusercontent.com/u/48872692?s=72&u=e2bf2a8b5406d6fedd61295a2721c549bc3e9c99&v=4" width="24" alt="Avatar of iriojose"> iriojose
@@ -4135,7 +4122,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/rich1n">
 				<img src="https://avatars.githubusercontent.com/u/66102911?s=72&u=513a6252b664ee1442c0af915bb53b844de73e61&v=4" width="24" alt="Avatar of rich1n"> rich1n
@@ -4148,20 +4135,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>312</td>
-		<td>
-			<a href="https://github.com/josselineperdomo">
-				<img src="https://avatars.githubusercontent.com/u/9274112?s=72&u=0adff7046d6d059133c78d397a6841e9222dbbfd&v=4" width="24" alt="Avatar of josselineperdomo"> josselineperdomo
-			</a><br/>
-			Josseline Perdomo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jossperdomo_">jossperdomo_</a></td>
-		<td>Caracas</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>313</td>
+		<td>311</td>
 		<td>
 			<a href="https://github.com/lemyskaman">
 				<img src="https://avatars.githubusercontent.com/u/4540813?s=72&u=fff8260b403026e39b0776ddf1d7b4e10844d28c&v=4" width="24" alt="Avatar of lemyskaman"> lemyskaman
@@ -4174,7 +4148,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>312</td>
 		<td>
 			<a href="https://github.com/fjsaez">
 				<img src="https://avatars.githubusercontent.com/u/20619323?s=72&u=30a12d444794b12adafa53909e0d1aa9179b0181&v=4" width="24" alt="Avatar of fjsaez"> fjsaez
@@ -4187,7 +4161,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>315</td>
+		<td>313</td>
+		<td>
+			<a href="https://github.com/josselineperdomo">
+				<img src="https://avatars.githubusercontent.com/u/9274112?s=72&u=0adff7046d6d059133c78d397a6841e9222dbbfd&v=4" width="24" alt="Avatar of josselineperdomo"> josselineperdomo
+			</a><br/>
+			Josseline Perdomo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jossperdomo_">jossperdomo_</a></td>
+		<td>Caracas</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/AdrianVazquezMejia">
 				<img src="https://avatars.githubusercontent.com/u/43853543?s=72&u=cbfbdd2fb3931d990972e7f68e963c09ede4da69&v=4" width="24" alt="Avatar of AdrianVazquezMejia"> AdrianVazquezMejia
@@ -4197,6 +4184,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>Central University Of Venezuela<br/></td>
 		<td><a href="https://twitter.com/gocholandes">gocholandes</a></td>
 		<td>Caracas, Venezuela</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>315</td>
+		<td>
+			<a href="https://github.com/HectorZR">
+				<img src="https://avatars.githubusercontent.com/u/35118597?s=72&u=c251be0090f5f3f678778c569081231e859876f4&v=4" width="24" alt="Avatar of HectorZR"> HectorZR
+			</a><br/>
+			Hector Zurga
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/hectorj_zr">hectorj_zr</a></td>
+		<td>Venezuela</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -4241,18 +4241,31 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>319</td>
 		<td>
-			<a href="https://github.com/HectorZR">
-				<img src="https://avatars.githubusercontent.com/u/35118597?s=72&u=c251be0090f5f3f678778c569081231e859876f4&v=4" width="24" alt="Avatar of HectorZR"> HectorZR
+			<a href="https://github.com/emilioaor">
+				<img src="https://avatars.githubusercontent.com/u/18239881?s=72&v=4" width="24" alt="Avatar of emilioaor"> emilioaor
 			</a><br/>
-			Hector Zurga
+			Emilio Ochoa
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/hectorj_zr">hectorj_zr</a></td>
+		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>12</td>
 	</tr>
 	<tr>
 		<td>320</td>
+		<td>
+			<a href="https://github.com/drfcozapata">
+				<img src="https://avatars.githubusercontent.com/u/42281277?s=72&u=7e9108aca1f055b165d6d778a60d9f5c61baf844&v=4" width="24" alt="Avatar of drfcozapata"> drfcozapata
+			</a><br/>
+			Francisco Zapata
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/DrFcoZapata">DrFcoZapata</a></td>
+		<td>El Tigre, Anzoátegui, Venezuela</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>321</td>
 		<td>
 			<a href="https://github.com/jcellomarcano">
 				<img src="https://avatars.githubusercontent.com/u/20999799?s=72&u=7999c8a1fdcca8c20cb3bd19366e5370d57383b9&v=4" width="24" alt="Avatar of jcellomarcano"> jcellomarcano
@@ -4262,19 +4275,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jcellomarcano">jcellomarcano</a></td>
 		<td>Caracas, Venezuela</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>321</td>
-		<td>
-			<a href="https://github.com/emilioaor">
-				<img src="https://avatars.githubusercontent.com/u/18239881?s=72&v=4" width="24" alt="Avatar of emilioaor"> emilioaor
-			</a><br/>
-			Emilio Ochoa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -4319,6 +4319,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>325</td>
 		<td>
+			<a href="https://github.com/igorer88">
+				<img src="https://avatars.githubusercontent.com/u/6375299?s=72&u=646d871df91bf270b56a786cc370044e283b391a&v=4" width="24" alt="Avatar of igorer88"> igorer88
+			</a><br/>
+			Igor Escalona
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Porlamar, Venezuela</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>326</td>
+		<td>
 			<a href="https://github.com/outrera">
 				<img src="https://avatars.githubusercontent.com/u/1790768?s=72&u=eff316c0bc0347214a7f95afa3144c80647b5f66&v=4" width="24" alt="Avatar of outrera"> outrera
 			</a><br/>
@@ -4330,33 +4343,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>326</td>
-		<td>
-			<a href="https://github.com/kathyhernndez">
-				<img src="https://avatars.githubusercontent.com/u/82229725?s=72&u=f079e59de5293f3be7d7e64c7e31d7b78e2aa57c&v=4" width="24" alt="Avatar of kathyhernndez"> kathyhernndez
-			</a><br/>
-			Katherine Hernandez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kathyhernndez">kathyhernndez</a></td>
-		<td>Venezuela</td>
-		<td>12</td>
-	</tr>
-	<tr>
 		<td>327</td>
-		<td>
-			<a href="https://github.com/VENF">
-				<img src="https://avatars.githubusercontent.com/u/51413728?s=72&u=402ee7341b10acef871efc5d4ab6234bfc83995e&v=4" width="24" alt="Avatar of VENF"> VENF
-			</a><br/>
-			Víctor Naranjo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>punto fijo - Venezuela</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>328</td>
 		<td>
 			<a href="https://github.com/concongo">
 				<img src="https://avatars.githubusercontent.com/u/8966340?s=72&v=4" width="24" alt="Avatar of concongo"> concongo
@@ -4366,6 +4353,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>Freelancer </td>
 		<td>No Twitter Username</td>
 		<td>Venezuela/Spain</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>328</td>
+		<td>
+			<a href="https://github.com/VENF">
+				<img src="https://avatars.githubusercontent.com/u/51413728?s=72&u=402ee7341b10acef871efc5d4ab6234bfc83995e&v=4" width="24" alt="Avatar of VENF"> VENF
+			</a><br/>
+			Víctor Naranjo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>punto fijo - Venezuela</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -4514,19 +4514,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>340</td>
 		<td>
-			<a href="https://github.com/fonstack">
-				<img src="https://avatars.githubusercontent.com/u/35873992?s=72&u=1b17f75e544736150e3b1eb5de63c25fc46703d9&v=4" width="24" alt="Avatar of fonstack"> fonstack
-			</a><br/>
-			Carlos Fontes
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Caracas, Venezuela</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>341</td>
-		<td>
 			<a href="https://github.com/Aloxord">
 				<img src="https://avatars.githubusercontent.com/u/11880724?s=72&u=c1b5ee36dec099e14f604df9ba2376f380ff829a&v=4" width="24" alt="Avatar of Aloxord"> Aloxord
 			</a><br/>
@@ -4538,7 +4525,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/CryoCodex">
 				<img src="https://avatars.githubusercontent.com/u/24280621?s=72&u=1abf41e19ed8a2c06ea537a146f45713379aabca&v=4" width="24" alt="Avatar of CryoCodex"> CryoCodex
@@ -4551,7 +4538,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/Duccem">
 				<img src="https://avatars.githubusercontent.com/u/32114696?s=72&u=07067732d60fac18b91600426fabbf1f45ba90c6&v=4" width="24" alt="Avatar of Duccem"> Duccem
@@ -4564,16 +4551,29 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>343</td>
 		<td>
-			<a href="https://github.com/Duccem">
-				<img src="https://avatars.githubusercontent.com/u/32114696?s=72&u=07067732d60fac18b91600426fabbf1f45ba90c6&v=4" width="24" alt="Avatar of Duccem"> Duccem
+			<a href="https://github.com/jmlacruz">
+				<img src="https://avatars.githubusercontent.com/u/31663529?s=72&u=65ca836098379adb675deac23a479caa020a05ee&v=4" width="24" alt="Avatar of jmlacruz"> jmlacruz
 			</a><br/>
-			Jose Manuel Veliz
+			José Manuel Barrios Lacruz
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Nueva Esparta, Venezuela</td>
+		<td>Mérida-Venezuela</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>344</td>
+		<td>
+			<a href="https://github.com/Lujano">
+				<img src="https://avatars.githubusercontent.com/u/35519784?s=72&u=5101361f08f09dcaac0fde0c5270ca36da96c61d&v=4" width="24" alt="Avatar of Lujano"> Lujano
+			</a><br/>
+			Luis Lujano
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -4592,19 +4592,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>346</td>
 		<td>
-			<a href="https://github.com/jmlacruz">
-				<img src="https://avatars.githubusercontent.com/u/31663529?s=72&u=65ca836098379adb675deac23a479caa020a05ee&v=4" width="24" alt="Avatar of jmlacruz"> jmlacruz
-			</a><br/>
-			José Manuel Barrios Lacruz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mérida-Venezuela</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>347</td>
-		<td>
 			<a href="https://github.com/GEJ-VZLA">
 				<img src="https://avatars.githubusercontent.com/u/56598930?s=72&u=9ce17e75c46d34c9bfa2b8707b2f002f3507f119&v=4" width="24" alt="Avatar of GEJ-VZLA"> GEJ-VZLA
 			</a><br/>
@@ -4616,7 +4603,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/DavidL28D">
 				<img src="https://avatars.githubusercontent.com/u/26756195?s=72&u=be6a4297217ba7966f5e99369d78ea273a998cf6&v=4" width="24" alt="Avatar of DavidL28D"> DavidL28D
@@ -4629,7 +4616,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/usbceic">
 				<img src="https://avatars.githubusercontent.com/u/7072762?s=72&u=7d8b2b080869d9557a452d40e0c61394b3ab8384&v=4" width="24" alt="Avatar of usbceic"> usbceic
@@ -4642,7 +4629,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/patriv">
 				<img src="https://avatars.githubusercontent.com/u/12035879?s=72&u=72001377aeb540dc95c7ad76e60cb67d7f8f03a3&v=4" width="24" alt="Avatar of patriv"> patriv
@@ -4655,7 +4642,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/martoranod">
 				<img src="https://avatars.githubusercontent.com/u/9290840?s=72&u=e515291ec736b3e9a2d25837772a1e18d3715032&v=4" width="24" alt="Avatar of martoranod"> martoranod
@@ -4668,7 +4655,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/area55git">
 				<img src="https://avatars.githubusercontent.com/u/38330420?s=72&u=76087c38e2d97c6d9e37b46304b4cc722bdc54b3&v=4" width="24" alt="Avatar of area55git"> area55git
@@ -4681,7 +4668,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/Tukeke">
 				<img src="https://avatars.githubusercontent.com/u/1995895?s=72&u=93ae406b239f8bc92a92b9335d1bbb91a98be38a&v=4" width="24" alt="Avatar of Tukeke"> Tukeke
@@ -4694,7 +4681,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/lalezkadu">
 				<img src="https://avatars.githubusercontent.com/u/19307936?s=72&u=c130f857d0329dc251d65e06672fe928c516fbaf&v=4" width="24" alt="Avatar of lalezkadu"> lalezkadu
@@ -4707,7 +4694,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/eleonsolar">
 				<img src="https://avatars.githubusercontent.com/u/10914147?s=72&u=42d5d8f7a86149eb4ffeae5529dbc74eefeb98cb&v=4" width="24" alt="Avatar of eleonsolar"> eleonsolar
@@ -4720,7 +4707,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/architect-aimonkey">
 				<img src="https://avatars.githubusercontent.com/u/77405664?s=72&u=cdaf2722126f6fbb9b26496cb17719c5450f30e9&v=4" width="24" alt="Avatar of architect-aimonkey"> architect-aimonkey
@@ -4733,7 +4720,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/kikeztw">
 				<img src="https://avatars.githubusercontent.com/u/49035866?s=72&u=b90ec1663ba5caf85c19ff59f7eb84a89a245d72&v=4" width="24" alt="Avatar of kikeztw"> kikeztw
@@ -4746,7 +4733,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/jodaz">
 				<img src="https://avatars.githubusercontent.com/u/34009169?s=72&u=41278d8bb36c9d8fc6dd0c196e7ea899546092f8&v=4" width="24" alt="Avatar of jodaz"> jodaz
@@ -4759,7 +4746,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/Helg18">
 				<img src="https://avatars.githubusercontent.com/u/138007?s=72&u=fa1b9d573e0b87b9e3897a97d52c4be81c4dce8e&v=4" width="24" alt="Avatar of Helg18"> Helg18
@@ -4772,7 +4759,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/Alessag">
 				<img src="https://avatars.githubusercontent.com/u/17497470?s=72&u=f749481308ee8a8e3313cfea163df7636f682c7e&v=4" width="24" alt="Avatar of Alessag"> Alessag
@@ -4785,7 +4772,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/Alex99y">
 				<img src="https://avatars.githubusercontent.com/u/11529590?s=72&u=48de4ed0cc7060779293c2e851e4cd28c8d40f5e&v=4" width="24" alt="Avatar of Alex99y"> Alex99y
@@ -4798,7 +4785,33 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
+		<td>361</td>
+		<td>
+			<a href="https://github.com/thevacs">
+				<img src="https://avatars.githubusercontent.com/u/8504550?s=72&u=7430a9b7352ba9ede91bd4dbc092ae4fa8f43202&v=4" width="24" alt="Avatar of thevacs"> thevacs
+			</a><br/>
+			Juan Rivas
+		</td>
+		<td>@rivash-dev </td>
+		<td><a href="https://twitter.com/the_vacs">the_vacs</a></td>
+		<td>La Guaira, Venezuela.</td>
+		<td>11</td>
+	</tr>
+	<tr>
 		<td>362</td>
+		<td>
+			<a href="https://github.com/AnibalDBXD">
+				<img src="https://avatars.githubusercontent.com/u/66853369?s=72&u=b67b1b7437db168e0ca1bef53a3131fa8c337752&v=4" width="24" alt="Avatar of AnibalDBXD"> AnibalDBXD
+			</a><br/>
+			Anibal Olivares
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AnibalOZ_">AnibalOZ_</a></td>
+		<td>Venezuela, Carabobo , Valencia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/linuxing3">
 				<img src="https://avatars.githubusercontent.com/u/577637?s=72&u=89925d8d4e267340a386256d0f788ef39a499734&v=4" width="24" alt="Avatar of linuxing3"> linuxing3
@@ -4811,7 +4824,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/angel-afonso">
 				<img src="https://avatars.githubusercontent.com/u/38147058?s=72&u=68cb7aed2f14d7660235ff94a79c94e5d6c795c8&v=4" width="24" alt="Avatar of angel-afonso"> angel-afonso
@@ -4824,7 +4837,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/ajcrauseo">
 				<img src="https://avatars.githubusercontent.com/u/38672041?s=72&u=bdd6305f761bcc4b4f25106b295974631904047d&v=4" width="24" alt="Avatar of ajcrauseo"> ajcrauseo
@@ -4837,7 +4850,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>366</td>
 		<td>
 			<a href="https://github.com/aaray">
 				<img src="https://avatars.githubusercontent.com/u/51293?s=72&u=8ff73908d43cd222607748b9a9230fa810101c19&v=4" width="24" alt="Avatar of aaray"> aaray
@@ -4850,20 +4863,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>367</td>
 		<td>
-			<a href="https://github.com/drfcozapata">
-				<img src="https://avatars.githubusercontent.com/u/42281277?s=72&u=7e9108aca1f055b165d6d778a60d9f5c61baf844&v=4" width="24" alt="Avatar of drfcozapata"> drfcozapata
+			<a href="https://github.com/ReinKaos95">
+				<img src="https://avatars.githubusercontent.com/u/43525693?s=72&u=93a2acf8fefbb4917f6f8fd291604ded545cc127&v=4" width="24" alt="Avatar of ReinKaos95"> ReinKaos95
 			</a><br/>
-			Francisco Zapata
+			Walter Alejandro
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/DrFcoZapata">DrFcoZapata</a></td>
-		<td>El Tigre, Anzoátegui, Venezuela</td>
+		<td><a href="https://twitter.com/ReinKaos95">ReinKaos95</a></td>
+		<td>Caracas, Venezuela</td>
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/Alfonzzoj">
 				<img src="https://avatars.githubusercontent.com/u/46178745?s=72&u=52767226872841e1e194fecf7ff87a5e2b5a0c71&v=4" width="24" alt="Avatar of Alfonzzoj"> Alfonzzoj
@@ -4876,7 +4889,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>369</td>
+		<td>
+			<a href="https://github.com/NestorDevs">
+				<img src="https://avatars.githubusercontent.com/u/36705339?s=72&u=f607a77d6e33ca57dc7a8c1996ee1442ed69b8f9&v=4" width="24" alt="Avatar of NestorDevs"> NestorDevs
+			</a><br/>
+			<NestorDevs/>
+		</td>
+		<td>@devsstorenet  </td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/josedavidb">
 				<img src="https://avatars.githubusercontent.com/u/28213693?s=72&u=65986a68803c7af1b7524da3f96a4fa2d94554cc&v=4" width="24" alt="Avatar of josedavidb"> josedavidb
@@ -4889,7 +4915,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/paulinaeb">
 				<img src="https://avatars.githubusercontent.com/u/72865310?s=72&u=9710b14a986602c9a5ca02f3940b594584fae2dd&v=4" width="24" alt="Avatar of paulinaeb"> paulinaeb
@@ -4902,20 +4928,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>370</td>
-		<td>
-			<a href="https://github.com/JuanZabala21">
-				<img src="https://avatars.githubusercontent.com/u/44419062?s=72&u=a7a45829790c39dd27da3132f6bb3dc21dd3e7dc&v=4" width="24" alt="Avatar of JuanZabala21"> JuanZabala21
-			</a><br/>
-			Juan Zabala
-		</td>
-		<td>Intelix Synergy </td>
-		<td><a href="https://twitter.com/juanzabala_exe">juanzabala_exe</a></td>
-		<td>Venezuela</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>371</td>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/bettoarcaya">
 				<img src="https://avatars.githubusercontent.com/u/14881676?s=72&u=36047e73c4134c2960e07706f13b10f0ac798345&v=4" width="24" alt="Avatar of bettoarcaya"> bettoarcaya
@@ -4928,7 +4941,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>372</td>
+		<td>373</td>
+		<td>
+			<a href="https://github.com/JuanZabala21">
+				<img src="https://avatars.githubusercontent.com/u/44419062?s=72&u=a7a45829790c39dd27da3132f6bb3dc21dd3e7dc&v=4" width="24" alt="Avatar of JuanZabala21"> JuanZabala21
+			</a><br/>
+			Juan Zabala
+		</td>
+		<td>Intelix Synergy </td>
+		<td><a href="https://twitter.com/juanzabala_exe">juanzabala_exe</a></td>
+		<td>Venezuela</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/soyalbanisgil">
 				<img src="https://avatars.githubusercontent.com/u/40366740?s=72&v=4" width="24" alt="Avatar of soyalbanisgil"> soyalbanisgil
@@ -4941,7 +4967,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>373</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/thomgasa">
 				<img src="https://avatars.githubusercontent.com/u/73149710?s=72&u=f4826d48ef8f26136bbef5b8b1417b87ea3ebabd&v=4" width="24" alt="Avatar of thomgasa"> thomgasa
@@ -4954,7 +4980,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/soypaduano">
 				<img src="https://avatars.githubusercontent.com/u/17514139?s=72&u=2e70adf8c4529d1c5a2e62b33121628e32c3c7e6&v=4" width="24" alt="Avatar of soypaduano"> soypaduano
@@ -4967,20 +4993,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>375</td>
-		<td>
-			<a href="https://github.com/fuhranku">
-				<img src="https://avatars.githubusercontent.com/u/44873789?s=72&u=93f9756a7ed140a7464d55c7fb35b4b1de3c2820&v=4" width="24" alt="Avatar of fuhranku"> fuhranku
-			</a><br/>
-			fuhranku
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Caracas, Venezuela</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>376</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/joelcoronah">
 				<img src="https://avatars.githubusercontent.com/u/31328315?s=72&u=bd4d02da5f29c9ec6dd94143f8a74f5e78db6837&v=4" width="24" alt="Avatar of joelcoronah"> joelcoronah
@@ -4993,7 +5006,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>378</td>
+		<td>
+			<a href="https://github.com/fuhranku">
+				<img src="https://avatars.githubusercontent.com/u/44873789?s=72&u=93f9756a7ed140a7464d55c7fb35b4b1de3c2820&v=4" width="24" alt="Avatar of fuhranku"> fuhranku
+			</a><br/>
+			fuhranku
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Caracas, Venezuela</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/pablom58">
 				<img src="https://avatars.githubusercontent.com/u/53399357?s=72&u=5c1aa4dcd5038e2745132219d5547dfb3c4b1b32&v=4" width="24" alt="Avatar of pablom58"> pablom58
@@ -5006,7 +5032,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/anthxnyR">
 				<img src="https://avatars.githubusercontent.com/u/59780764?s=72&u=7b008593e9c8d093f4fcfd060bbfecc91363d382&v=4" width="24" alt="Avatar of anthxnyR"> anthxnyR
@@ -5019,7 +5045,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>381</td>
 		<td>
 			<a href="https://github.com/DevelTwist">
 				<img src="https://avatars.githubusercontent.com/u/22015495?s=72&u=2a59231b89f2d9129befb781f630a34079b33671&v=4" width="24" alt="Avatar of DevelTwist"> DevelTwist
@@ -5032,7 +5058,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/fulviofarina">
 				<img src="https://avatars.githubusercontent.com/u/18062915?s=72&u=7d0f47c73d0046d699ae94d7555692e732ba8a18&v=4" width="24" alt="Avatar of fulviofarina"> fulviofarina
@@ -5045,7 +5071,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/Gio666">
 				<img src="https://avatars.githubusercontent.com/u/7320979?s=72&u=43aaeb470a519b3cc53b053feed293732c4ab9de&v=4" width="24" alt="Avatar of Gio666"> Gio666
@@ -5058,7 +5084,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/SeanGonzalezAbreu">
 				<img src="https://avatars.githubusercontent.com/u/36556599?s=72&u=cbcb95664cfc582c76eeab363173bd3d513f76ce&v=4" width="24" alt="Avatar of SeanGonzalezAbreu"> SeanGonzalezAbreu
@@ -5071,7 +5097,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/johameli">
 				<img src="https://avatars.githubusercontent.com/u/31604303?s=72&u=68da912ad1b335e69bd4bb2ab9e9e0af3d53d269&v=4" width="24" alt="Avatar of johameli"> johameli
@@ -5084,7 +5110,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/Eabs212">
 				<img src="https://avatars.githubusercontent.com/u/46208920?s=72&u=cda4ac2dc97b243bd1e8cab0bbab10d99cafed98&v=4" width="24" alt="Avatar of Eabs212"> Eabs212
@@ -5097,85 +5123,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>385</td>
-		<td>
-			<a href="https://github.com/ncertad">
-				<img src="https://avatars.githubusercontent.com/u/35775036?s=72&u=955c50dd1e9fb3a73f130be648e02eaff7af954c&v=4" width="24" alt="Avatar of ncertad"> ncertad
-			</a><br/>
-			N. Certad
-		</td>
-		<td>Universidad Simón Bolívar </td>
-		<td>No Twitter Username</td>
-		<td>Caracas/Venezuela</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>386</td>
-		<td>
-			<a href="https://github.com/Valtiel">
-				<img src="https://avatars.githubusercontent.com/u/3488889?s=72&v=4" width="24" alt="Avatar of Valtiel"> Valtiel
-			</a><br/>
-			César Rosales
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>11</td>
-	</tr>
-	<tr>
 		<td>387</td>
-		<td>
-			<a href="https://github.com/brewsterl">
-				<img src="https://avatars.githubusercontent.com/u/288908?s=72&u=4a89332593cf70b3bd6b69a20a3c3e81397a62e3&v=4" width="24" alt="Avatar of brewsterl"> brewsterl
-			</a><br/>
-			Leandro Brewster
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>388</td>
-		<td>
-			<a href="https://github.com/ajha63">
-				<img src="https://avatars.githubusercontent.com/u/560156?s=72&u=cbdd00fbed9a87d60aad325fa000142aa98b9820&v=4" width="24" alt="Avatar of ajha63"> ajha63
-			</a><br/>
-			Alvaro Jesús Hernández Arteaga
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Valencia, Venezuela</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>389</td>
-		<td>
-			<a href="https://github.com/jemora">
-				<img src="https://avatars.githubusercontent.com/u/7087421?s=72&u=7b70b127eb88c632f42a28b81be8e0d0cc83b0d0&v=4" width="24" alt="Avatar of jemora"> jemora
-			</a><br/>
-			Jaime Ernesto Mora
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Amazonas, Venezuela</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>390</td>
-		<td>
-			<a href="https://github.com/jemora">
-				<img src="https://avatars.githubusercontent.com/u/7087421?s=72&u=7b70b127eb88c632f42a28b81be8e0d0cc83b0d0&v=4" width="24" alt="Avatar of jemora"> jemora
-			</a><br/>
-			Jaime Ernesto Mora
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Amazonas, Venezuela</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>391</td>
 		<td>
 			<a href="https://github.com/rosyrz">
 				<img src="https://avatars.githubusercontent.com/u/24395426?s=72&u=fad1a906e600a29b20954293d2321bb3941d1a2f&v=4" width="24" alt="Avatar of rosyrz"> rosyrz
@@ -5188,7 +5136,72 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
+		<td>388</td>
+		<td>
+			<a href="https://github.com/ncertad">
+				<img src="https://avatars.githubusercontent.com/u/35775036?s=72&u=955c50dd1e9fb3a73f130be648e02eaff7af954c&v=4" width="24" alt="Avatar of ncertad"> ncertad
+			</a><br/>
+			N. Certad
+		</td>
+		<td>Universidad Simón Bolívar </td>
+		<td>No Twitter Username</td>
+		<td>Caracas/Venezuela</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>389</td>
+		<td>
+			<a href="https://github.com/Valtiel">
+				<img src="https://avatars.githubusercontent.com/u/3488889?s=72&v=4" width="24" alt="Avatar of Valtiel"> Valtiel
+			</a><br/>
+			César Rosales
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>
+			<a href="https://github.com/brewsterl">
+				<img src="https://avatars.githubusercontent.com/u/288908?s=72&u=4a89332593cf70b3bd6b69a20a3c3e81397a62e3&v=4" width="24" alt="Avatar of brewsterl"> brewsterl
+			</a><br/>
+			Leandro Brewster
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>391</td>
+		<td>
+			<a href="https://github.com/ajha63">
+				<img src="https://avatars.githubusercontent.com/u/560156?s=72&u=cbdd00fbed9a87d60aad325fa000142aa98b9820&v=4" width="24" alt="Avatar of ajha63"> ajha63
+			</a><br/>
+			Alvaro Jesús Hernández Arteaga
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Valencia, Venezuela</td>
+		<td>11</td>
+	</tr>
+	<tr>
 		<td>392</td>
+		<td>
+			<a href="https://github.com/jemora">
+				<img src="https://avatars.githubusercontent.com/u/7087421?s=72&u=7b70b127eb88c632f42a28b81be8e0d0cc83b0d0&v=4" width="24" alt="Avatar of jemora"> jemora
+			</a><br/>
+			Jaime Ernesto Mora
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Amazonas, Venezuela</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/burgosnestor">
 				<img src="https://avatars.githubusercontent.com/u/40441261?s=72&u=eee9291ecf3e33036e605432d336a15f41ad2de8&v=4" width="24" alt="Avatar of burgosnestor"> burgosnestor
@@ -5201,7 +5214,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/AndrakeDesign">
 				<img src="https://avatars.githubusercontent.com/u/3046041?s=72&v=4" width="24" alt="Avatar of AndrakeDesign"> AndrakeDesign
@@ -5214,7 +5227,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/AuriCA32">
 				<img src="https://avatars.githubusercontent.com/u/33206328?s=72&u=c04f346d74799235b42178d46d8c2b547cf1617c&v=4" width="24" alt="Avatar of AuriCA32"> AuriCA32
@@ -5227,7 +5240,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/LuigiBaute">
 				<img src="https://avatars.githubusercontent.com/u/36426974?s=72&u=970b286e3bc9907bedcc7dcde826bc82a7396f9d&v=4" width="24" alt="Avatar of LuigiBaute"> LuigiBaute
@@ -5238,19 +5251,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>venezuela</td>
 		<td>11</td>
-	</tr>
-	<tr>
-		<td>396</td>
-		<td>
-			<a href="https://github.com/josejmv">
-				<img src="https://avatars.githubusercontent.com/u/33255350?s=72&u=07cc27cb552060d89942c26019b2120c6997d4d5&v=4" width="24" alt="Avatar of josejmv"> josejmv
-			</a><br/>
-			Jose Vasquez
-		</td>
-		<td>@centriadevelopment  </td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>10</td>
 	</tr>
 	<tr>
 		<td>397</td>
@@ -5268,6 +5268,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>398</td>
 		<td>
+			<a href="https://github.com/josejmv">
+				<img src="https://avatars.githubusercontent.com/u/33255350?s=72&u=07cc27cb552060d89942c26019b2120c6997d4d5&v=4" width="24" alt="Avatar of josejmv"> josejmv
+			</a><br/>
+			Jose Vasquez
+		</td>
+		<td>@centriadevelopment  </td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>399</td>
+		<td>
 			<a href="https://github.com/johancastillo">
 				<img src="https://avatars.githubusercontent.com/u/45182340?s=72&u=9a29bf8062b5ff73f01ccbff057bf8dc6f169f8f&v=4" width="24" alt="Avatar of johancastillo"> johancastillo
 			</a><br/>
@@ -5279,7 +5292,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/alfredolopez80">
 				<img src="https://avatars.githubusercontent.com/u/20690133?s=72&u=00d9ab95b3140d1627100c0cb9011b92341f8447&v=4" width="24" alt="Avatar of alfredolopez80"> alfredolopez80
@@ -5292,7 +5305,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/bandicootdev">
 				<img src="https://avatars.githubusercontent.com/u/42485564?s=72&u=e9fd298110d441ea49e774a95b7c8f55b461c9db&v=4" width="24" alt="Avatar of bandicootdev"> bandicootdev
@@ -5302,19 +5315,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/BandicootDev">BandicootDev</a></td>
 		<td>Venezuela</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>401</td>
-		<td>
-			<a href="https://github.com/thevacs">
-				<img src="https://avatars.githubusercontent.com/u/8504550?s=72&u=7430a9b7352ba9ede91bd4dbc092ae4fa8f43202&v=4" width="24" alt="Avatar of thevacs"> thevacs
-			</a><br/>
-			Juan Rivas
-		</td>
-		<td>@rivash-dev </td>
-		<td><a href="https://twitter.com/the_vacs">the_vacs</a></td>
-		<td>La Guaira, Venezuela.</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -5346,6 +5346,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>404</td>
 		<td>
+			<a href="https://github.com/mikehathsin">
+				<img src="https://avatars.githubusercontent.com/u/62524135?s=72&v=4" width="24" alt="Avatar of mikehathsin"> mikehathsin
+			</a><br/>
+			Miguel Padrino
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mikehathsin">mikehathsin</a></td>
+		<td>Venezuela</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>
 			<a href="https://github.com/enmanuel23x">
 				<img src="https://avatars.githubusercontent.com/u/45642674?s=72&v=4" width="24" alt="Avatar of enmanuel23x"> enmanuel23x
 			</a><br/>
@@ -5357,7 +5370,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>406</td>
+		<td>
+			<a href="https://github.com/lu-jim">
+				<img src="https://avatars.githubusercontent.com/u/59420634?s=72&u=ce084b960162c0bdf63e42338459cf24830e9054&v=4" width="24" alt="Avatar of lu-jim"> lu-jim
+			</a><br/>
+			Luis Fernando Jiménez
+		</td>
+		<td>Microverse </td>
+		<td><a href="https://twitter.com/lujimhe">lujimhe</a></td>
+		<td>Caracas, Venezuela</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/FranLMSP">
 				<img src="https://avatars.githubusercontent.com/u/32037942?s=72&u=1ba160161a3a554b672edc9f938def2cf624b2d8&v=4" width="24" alt="Avatar of FranLMSP"> FranLMSP
@@ -5370,7 +5396,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>406</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/Felixmp7">
 				<img src="https://avatars.githubusercontent.com/u/42417765?s=72&u=8d7e63b32e0a9cba49d78b3a5b033141deb714d0&v=4" width="24" alt="Avatar of Felixmp7"> Felixmp7
@@ -5383,7 +5409,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>409</td>
 		<td>
 			<a href="https://github.com/hug58">
 				<img src="https://avatars.githubusercontent.com/u/35838895?s=72&u=f92061ebcf32498270bc4cc8d731ecb41f6ae4e4&v=4" width="24" alt="Avatar of hug58"> hug58
@@ -5396,7 +5422,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>408</td>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/Sneyder2328">
 				<img src="https://avatars.githubusercontent.com/u/10778688?s=72&u=6b6a62bbac6ab39e45aa6c3db863c696c0d90448&v=4" width="24" alt="Avatar of Sneyder2328"> Sneyder2328
@@ -5409,7 +5435,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/adrianolmedo">
 				<img src="https://avatars.githubusercontent.com/u/10823779?s=72&u=58823e67b7b71a4f12debd3000673c2d824b51b4&v=4" width="24" alt="Avatar of adrianolmedo"> adrianolmedo
@@ -5422,7 +5448,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/ochoarobert1">
 				<img src="https://avatars.githubusercontent.com/u/4027931?s=72&u=a1c5e8c0f2d2a762140034d3e144689b156c2b2d&v=4" width="24" alt="Avatar of ochoarobert1"> ochoarobert1
@@ -5435,7 +5461,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/kyeeh">
 				<img src="https://avatars.githubusercontent.com/u/3770727?s=72&u=d8baf6d4857f018b8d003413f914cdb3b059914f&v=4" width="24" alt="Avatar of kyeeh"> kyeeh
@@ -5448,7 +5474,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>414</td>
 		<td>
 			<a href="https://github.com/haronacosta">
 				<img src="https://avatars.githubusercontent.com/u/39834578?s=72&u=87ed0e1827f25706189bd13e7a6648a4e145d261&v=4" width="24" alt="Avatar of haronacosta"> haronacosta
@@ -5461,42 +5487,16 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/MeeL1ght">
-				<img src="https://avatars.githubusercontent.com/u/73497994?s=72&v=4" width="24" alt="Avatar of MeeL1ght"> MeeL1ght
+				<img src="https://avatars.githubusercontent.com/u/73497994?s=72&u=9fab1e6cd62cd4b3ce1d13a1c9a311b800e352a1&v=4" width="24" alt="Avatar of MeeL1ght"> MeeL1ght
 			</a><br/>
 			Moises Reyes
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lara, Venezuela</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>414</td>
-		<td>
-			<a href="https://github.com/ReinKaos95">
-				<img src="https://avatars.githubusercontent.com/u/43525693?s=72&u=93a2acf8fefbb4917f6f8fd291604ded545cc127&v=4" width="24" alt="Avatar of ReinKaos95"> ReinKaos95
-			</a><br/>
-			Walter Alejandro
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ReinKaos95">ReinKaos95</a></td>
-		<td>Caracas, Venezuela</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>415</td>
-		<td>
-			<a href="https://github.com/NestorDevs">
-				<img src="https://avatars.githubusercontent.com/u/36705339?s=72&u=f607a77d6e33ca57dc7a8c1996ee1442ed69b8f9&v=4" width="24" alt="Avatar of NestorDevs"> NestorDevs
-			</a><br/>
-			<NestorDevs/>
-		</td>
-		<td>@devsstorenet  </td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -5580,6 +5580,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>422</td>
 		<td>
+			<a href="https://github.com/jamaldt">
+				<img src="https://avatars.githubusercontent.com/u/5687804?s=72&v=4" width="24" alt="Avatar of jamaldt"> jamaldt
+			</a><br/>
+			jamal_dt
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela, caracas</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>423</td>
+		<td>
 			<a href="https://github.com/daniklean">
 				<img src="https://avatars.githubusercontent.com/u/80367485?s=72&u=740f01277691f0d7b59bb3808802a03a348134bf&v=4" width="24" alt="Avatar of daniklean"> daniklean
 			</a><br/>
@@ -5591,7 +5604,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/CSivira">
 				<img src="https://avatars.githubusercontent.com/u/36940784?s=72&u=a2f6e347fd84cba0624f9258530ca6cc56630042&v=4" width="24" alt="Avatar of CSivira"> CSivira
@@ -5604,7 +5617,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/Antuan01">
 				<img src="https://avatars.githubusercontent.com/u/58564862?s=72&v=4" width="24" alt="Avatar of Antuan01"> Antuan01
@@ -5617,7 +5630,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/INHack20">
 				<img src="https://avatars.githubusercontent.com/u/1240646?s=72&v=4" width="24" alt="Avatar of INHack20"> INHack20
@@ -5627,19 +5640,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>Freelance </td>
 		<td>No Twitter Username</td>
 		<td>Venezuela - Carabobo</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>426</td>
-		<td>
-			<a href="https://github.com/jamaldt">
-				<img src="https://avatars.githubusercontent.com/u/5687804?s=72&v=4" width="24" alt="Avatar of jamaldt"> jamaldt
-			</a><br/>
-			jamal_dt
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela, caracas</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -5658,19 +5658,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>428</td>
 		<td>
-			<a href="https://github.com/JesusCrespo2823">
-				<img src="https://avatars.githubusercontent.com/u/71405786?s=72&u=d2b16297fd96517e6c31993a83903ce0bd299995&v=4" width="24" alt="Avatar of JesusCrespo2823"> JesusCrespo2823
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>429</td>
-		<td>
 			<a href="https://github.com/cocodrino">
 				<img src="https://avatars.githubusercontent.com/u/616412?s=72&u=81ff49d2865ab23513e8e9247841513b361b5b57&v=4" width="24" alt="Avatar of cocodrino"> cocodrino
 			</a><br/>
@@ -5682,7 +5669,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>429</td>
 		<td>
 			<a href="https://github.com/mvgregoryj">
 				<img src="https://avatars.githubusercontent.com/u/36367338?s=72&u=b53cb6a992a65ce0002a72947711e85b8565c458&v=4" width="24" alt="Avatar of mvgregoryj"> mvgregoryj
@@ -5695,7 +5682,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>430</td>
 		<td>
 			<a href="https://github.com/jafuentest">
 				<img src="https://avatars.githubusercontent.com/u/1434687?s=72&v=4" width="24" alt="Avatar of jafuentest"> jafuentest
@@ -5708,7 +5695,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>431</td>
 		<td>
 			<a href="https://github.com/ThanshunyWolf">
 				<img src="https://avatars.githubusercontent.com/u/61660168?s=72&u=b1f5524f75b9ba406f52ddcf1cac00b2d4cfed89&v=4" width="24" alt="Avatar of ThanshunyWolf"> ThanshunyWolf
@@ -5721,7 +5708,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>432</td>
 		<td>
 			<a href="https://github.com/alejandrojsn">
 				<img src="https://avatars.githubusercontent.com/u/3937954?s=72&v=4" width="24" alt="Avatar of alejandrojsn"> alejandrojsn
@@ -5734,7 +5721,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>433</td>
 		<td>
 			<a href="https://github.com/geraldogonzalez">
 				<img src="https://avatars.githubusercontent.com/u/31599772?s=72&u=fdfca9db568e70f49b84d3a2105b533fa8670819&v=4" width="24" alt="Avatar of geraldogonzalez"> geraldogonzalez
@@ -5744,6 +5731,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>434</td>
+		<td>
+			<a href="https://github.com/Radinax">
+				<img src="https://avatars.githubusercontent.com/u/16853671?s=72&u=5250ad7f290964c5be325ffe85cac725030d5f2b&v=4" width="24" alt="Avatar of Radinax"> Radinax
+			</a><br/>
+			Adrian Beria
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela, Bolivar State, Guayana City.</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -5775,19 +5775,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>437</td>
 		<td>
-			<a href="https://github.com/Radinax">
-				<img src="https://avatars.githubusercontent.com/u/16853671?s=72&u=5250ad7f290964c5be325ffe85cac725030d5f2b&v=4" width="24" alt="Avatar of Radinax"> Radinax
-			</a><br/>
-			Adrian Beria
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela, Bolivar State, Guayana City.</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>438</td>
-		<td>
 			<a href="https://github.com/darkpoison115">
 				<img src="https://avatars.githubusercontent.com/u/8138552?s=72&u=d4a27326558ccd3d551dd1a8a776eb28d2b7b074&v=4" width="24" alt="Avatar of darkpoison115"> darkpoison115
 			</a><br/>
@@ -5799,7 +5786,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>438</td>
 		<td>
 			<a href="https://github.com/azorcode">
 				<img src="https://avatars.githubusercontent.com/u/33294151?s=72&u=663c84c75908696d2918589d3b735276000b3ece&v=4" width="24" alt="Avatar of azorcode"> azorcode
@@ -5808,6 +5795,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		</td>
 		<td>Azordev </td>
 		<td><a href="https://twitter.com/azorcode">azorcode</a></td>
+		<td>Venezuela</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>439</td>
+		<td>
+			<a href="https://github.com/ViT4RGh0ST">
+				<img src="https://avatars.githubusercontent.com/u/19257351?s=72&u=e6f6173368feef13cadeffda5bd12cc41ce1b8d1&v=4" width="24" alt="Avatar of ViT4RGh0ST"> ViT4RGh0ST
+			</a><br/>
+			Naudy Linarez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>10</td>
 	</tr>
@@ -5853,19 +5853,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>443</td>
 		<td>
-			<a href="https://github.com/ViT4RGh0ST">
-				<img src="https://avatars.githubusercontent.com/u/19257351?s=72&u=e6f6173368feef13cadeffda5bd12cc41ce1b8d1&v=4" width="24" alt="Avatar of ViT4RGh0ST"> ViT4RGh0ST
-			</a><br/>
-			Naudy Linarez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>444</td>
-		<td>
 			<a href="https://github.com/rodriguzejl1">
 				<img src="https://avatars.githubusercontent.com/u/26794074?s=72&u=946237ae63c2a361c631760aa5c6018f2b674339&v=4" width="24" alt="Avatar of rodriguzejl1"> rodriguzejl1
 			</a><br/>
@@ -5877,7 +5864,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>444</td>
 		<td>
 			<a href="https://github.com/gabrieelgomez">
 				<img src="https://avatars.githubusercontent.com/u/23393343?s=72&u=506290cab5031b9e75b2ca2de0ebc5875062c670&v=4" width="24" alt="Avatar of gabrieelgomez"> gabrieelgomez
@@ -5890,7 +5877,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>445</td>
 		<td>
 			<a href="https://github.com/joseemanuelrr">
 				<img src="https://avatars.githubusercontent.com/u/12467980?s=72&u=b7ee01cc585b262d8ba8b76f14fb8e09550cb0dd&v=4" width="24" alt="Avatar of joseemanuelrr"> joseemanuelrr
@@ -5903,7 +5890,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/NightZpy">
 				<img src="https://avatars.githubusercontent.com/u/372232?s=72&u=90fe8b871f9b5ba931d80bfe468377a13cdaf5f0&v=4" width="24" alt="Avatar of NightZpy"> NightZpy
@@ -5916,7 +5903,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>448</td>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/sergebruni">
 				<img src="https://avatars.githubusercontent.com/u/1726651?s=72&u=c96a0da230c75c29fb1ea040ec3022e9f318d702&v=4" width="24" alt="Avatar of sergebruni"> sergebruni
@@ -5929,7 +5916,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>449</td>
+		<td>448</td>
 		<td>
 			<a href="https://github.com/djbu">
 				<img src="https://avatars.githubusercontent.com/u/862634?s=72&u=6628127792cb3319dee845557a3f7550db465928&v=4" width="24" alt="Avatar of djbu"> djbu
@@ -5942,7 +5929,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>450</td>
+		<td>449</td>
 		<td>
 			<a href="https://github.com/jamc92">
 				<img src="https://avatars.githubusercontent.com/u/1733996?s=72&u=93224b610e04fbedae1f8257969f6bd04a1550fd&v=4" width="24" alt="Avatar of jamc92"> jamc92
@@ -5955,7 +5942,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>451</td>
+		<td>450</td>
 		<td>
 			<a href="https://github.com/natalylopez">
 				<img src="https://avatars.githubusercontent.com/u/8002916?s=72&u=6e0636e83f36190bc4051cca03d293014dc1be6a&v=4" width="24" alt="Avatar of natalylopez"> natalylopez
@@ -5968,20 +5955,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>452</td>
-		<td>
-			<a href="https://github.com/rubenmedios">
-				<img src="https://avatars.githubusercontent.com/u/1053982?s=72&u=bfe9143f820cacdc4d941e301e591aa6dc627c4f&v=4" width="24" alt="Avatar of rubenmedios"> rubenmedios
-			</a><br/>
-			Ruben Rojas @rubenmedios
-		</td>
-		<td>Ruben A. Rojas E.<br/></td>
-		<td><a href="https://twitter.com/rubenmedios">rubenmedios</a></td>
-		<td>Venezuela</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>453</td>
+		<td>451</td>
 		<td>
 			<a href="https://github.com/katla20">
 				<img src="https://avatars.githubusercontent.com/u/812079?s=72&v=4" width="24" alt="Avatar of katla20"> katla20
@@ -5994,7 +5968,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>452</td>
+		<td>
+			<a href="https://github.com/katla20">
+				<img src="https://avatars.githubusercontent.com/u/812079?s=72&v=4" width="24" alt="Avatar of katla20"> katla20
+			</a><br/>
+			Keyla Bullon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maracay-Aragua</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>453</td>
 		<td>
 			<a href="https://github.com/olivaresa">
 				<img src="https://avatars.githubusercontent.com/u/606818?s=72&v=4" width="24" alt="Avatar of olivaresa"> olivaresa
@@ -6007,7 +5994,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>454</td>
 		<td>
 			<a href="https://github.com/theelmix">
 				<img src="https://avatars.githubusercontent.com/u/6492593?s=72&u=7042eaa45103d8a7970d21cf7127cb9d7e9adbbd&v=4" width="24" alt="Avatar of theelmix"> theelmix
@@ -6020,7 +6007,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>455</td>
 		<td>
 			<a href="https://github.com/luistorm">
 				<img src="https://avatars.githubusercontent.com/u/20448321?s=72&u=d610d5601c7a8543fa6ae7b6427c83298b66770a&v=4" width="24" alt="Avatar of luistorm"> luistorm
@@ -6033,7 +6020,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>456</td>
 		<td>
 			<a href="https://github.com/joelgomezb">
 				<img src="https://avatars.githubusercontent.com/u/219973?s=72&v=4" width="24" alt="Avatar of joelgomezb"> joelgomezb
@@ -6046,7 +6033,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/JySa65">
 				<img src="https://avatars.githubusercontent.com/u/29586050?s=72&u=c6ff89476ed2364c3e113dc5ea1a4755cb90c07c&v=4" width="24" alt="Avatar of JySa65"> JySa65
@@ -6059,7 +6046,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/lautarovc">
 				<img src="https://avatars.githubusercontent.com/u/28227203?s=72&u=0371621438b2b9b365bc285ddb74ece235d084e8&v=4" width="24" alt="Avatar of lautarovc"> lautarovc
@@ -6072,7 +6059,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/Cesaraugp">
 				<img src="https://avatars.githubusercontent.com/u/20848715?s=72&u=2cd2b3b9cc0e675480b0bae78b17b4d83b14e9bc&v=4" width="24" alt="Avatar of Cesaraugp"> Cesaraugp
@@ -6085,7 +6072,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/encels">
 				<img src="https://avatars.githubusercontent.com/u/249434?s=72&u=ca29202cdba130d66f236f37806c33dbc115f63e&v=4" width="24" alt="Avatar of encels"> encels
@@ -6098,7 +6085,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/juan-goncalves">
 				<img src="https://avatars.githubusercontent.com/u/10901485?s=72&u=404f2f125372964adca93dd9f625cbc54fdebb5f&v=4" width="24" alt="Avatar of juan-goncalves"> juan-goncalves
@@ -6111,7 +6098,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/EdwinBetanc0urt">
 				<img src="https://avatars.githubusercontent.com/u/20288327?s=72&v=4" width="24" alt="Avatar of EdwinBetanc0urt"> EdwinBetanc0urt
@@ -6124,7 +6111,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/pedroobando">
 				<img src="https://avatars.githubusercontent.com/u/7023498?s=72&u=6152eccd6c0d0f6256c49e21d8d186a3552fa272&v=4" width="24" alt="Avatar of pedroobando"> pedroobando
@@ -6137,20 +6124,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>464</td>
 		<td>
-			<a href="https://github.com/mikehathsin">
-				<img src="https://avatars.githubusercontent.com/u/62524135?s=72&v=4" width="24" alt="Avatar of mikehathsin"> mikehathsin
+			<a href="https://github.com/darkusphantom">
+				<img src="https://avatars.githubusercontent.com/u/55474311?s=72&u=f8122a0bd6969336c88d873d3494b76ca27c4846&v=4" width="24" alt="Avatar of darkusphantom"> darkusphantom
 			</a><br/>
-			Miguel Padrino
+			Luis Rodriguez
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mikehathsin">mikehathsin</a></td>
+		<td>@darkusphantomdev  </td>
+		<td><a href="https://twitter.com/darkusphxntxm">darkusphxntxm</a></td>
 		<td>Venezuela</td>
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/anyelopetit">
 				<img src="https://avatars.githubusercontent.com/u/19691938?s=72&u=fc74b85893666937db6bbcccab64d7d61fc9308f&v=4" width="24" alt="Avatar of anyelopetit"> anyelopetit
@@ -6163,16 +6150,29 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
+		<td>466</td>
+		<td>
+			<a href="https://github.com/josemfche">
+				<img src="https://avatars.githubusercontent.com/u/38661492?s=72&u=37402ce7f53a7d926e7fc45f1666158c43d6266f&v=4" width="24" alt="Avatar of josemfche"> josemfche
+			</a><br/>
+			José Martínez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/josemfcheo">josemfcheo</a></td>
+		<td>Caracas, Venezuela</td>
+		<td>9</td>
+	</tr>
+	<tr>
 		<td>467</td>
 		<td>
-			<a href="https://github.com/darkusphantom">
-				<img src="https://avatars.githubusercontent.com/u/55474311?s=72&u=f8122a0bd6969336c88d873d3494b76ca27c4846&v=4" width="24" alt="Avatar of darkusphantom"> darkusphantom
+			<a href="https://github.com/gbrlmrllo">
+				<img src="https://avatars.githubusercontent.com/u/3831984?s=72&v=4" width="24" alt="Avatar of gbrlmrllo"> gbrlmrllo
 			</a><br/>
-			Luis Rodriguez
+			Gabriel Morillo
 		</td>
-		<td>@darkusphantomdev  </td>
-		<td><a href="https://twitter.com/darkusphxntxm">darkusphxntxm</a></td>
-		<td>Venezuela</td>
+		<td>Sunlight </td>
+		<td>No Twitter Username</td>
+		<td>Punto Fijo - Venezuela</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -6191,19 +6191,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>469</td>
 		<td>
-			<a href="https://github.com/josemfche">
-				<img src="https://avatars.githubusercontent.com/u/38661492?s=72&u=37402ce7f53a7d926e7fc45f1666158c43d6266f&v=4" width="24" alt="Avatar of josemfche"> josemfche
-			</a><br/>
-			José Martínez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/josemfcheo">josemfcheo</a></td>
-		<td>Caracas, Venezuela</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>470</td>
-		<td>
 			<a href="https://github.com/dsuarezlogans">
 				<img src="https://avatars.githubusercontent.com/u/10699738?s=72&u=896530e0c25e50be3da9d01100a1195667d7c672&v=4" width="24" alt="Avatar of dsuarezlogans"> dsuarezlogans
 			</a><br/>
@@ -6215,7 +6202,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/kevinesaa">
 				<img src="https://avatars.githubusercontent.com/u/20506502?s=72&u=0aabdbaa02ba3c78e821e5d06bc5272912281c6e&v=4" width="24" alt="Avatar of kevinesaa"> kevinesaa
@@ -6228,7 +6215,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/brayanesteves">
 				<img src="https://avatars.githubusercontent.com/u/5505644?s=72&u=83f3cabe1eeba66b522f4cf66ffd35f0a8ce9905&v=4" width="24" alt="Avatar of brayanesteves"> brayanesteves
@@ -6237,6 +6224,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>472</td>
+		<td>
+			<a href="https://github.com/GastonKhouri">
+				<img src="https://avatars.githubusercontent.com/u/68894611?s=72&u=c3ac21d9ae6e73677239ac5baf7d70186b310edb&v=4" width="24" alt="Avatar of GastonKhouri"> GastonKhouri
+			</a><br/>
+			Gastón Khouri
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/KhouriGaston">KhouriGaston</a></td>
 		<td>Venezuela</td>
 		<td>9</td>
 	</tr>
@@ -6256,19 +6256,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>474</td>
 		<td>
-			<a href="https://github.com/GastonKhouri">
-				<img src="https://avatars.githubusercontent.com/u/68894611?s=72&u=c3ac21d9ae6e73677239ac5baf7d70186b310edb&v=4" width="24" alt="Avatar of GastonKhouri"> GastonKhouri
-			</a><br/>
-			Gastón Khouri
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/KhouriGaston">KhouriGaston</a></td>
-		<td>Venezuela</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>475</td>
-		<td>
 			<a href="https://github.com/JotaSe">
 				<img src="https://avatars.githubusercontent.com/u/3857855?s=72&u=45eff82b9bafe76bbc382bb452da3f883ba049ac&v=4" width="24" alt="Avatar of JotaSe"> JotaSe
 			</a><br/>
@@ -6277,6 +6264,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>@sosafeapp  </td>
 		<td>No Twitter Username</td>
 		<td>Maracaibo - Venezuela</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>475</td>
+		<td>
+			<a href="https://github.com/juanevillam">
+				<img src="https://avatars.githubusercontent.com/u/66635973?s=72&u=990dc5d5ec06d159546bfb2fffedc48dbfe462d9&v=4" width="24" alt="Avatar of juanevillam"> juanevillam
+			</a><br/>
+			Juan Villa
+		</td>
+		<td>Deblime </td>
+		<td><a href="https://twitter.com/juanevillam">juanevillam</a></td>
+		<td>Venezuela</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -6295,14 +6295,14 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>477</td>
 		<td>
-			<a href="https://github.com/juanevillam">
-				<img src="https://avatars.githubusercontent.com/u/66635973?s=72&u=990dc5d5ec06d159546bfb2fffedc48dbfe462d9&v=4" width="24" alt="Avatar of juanevillam"> juanevillam
+			<a href="https://github.com/SamuelVera">
+				<img src="https://avatars.githubusercontent.com/u/35410087?s=72&u=f31054f7e869a7be80269ed87af114baa40a233a&v=4" width="24" alt="Avatar of SamuelVera"> SamuelVera
 			</a><br/>
-			Juan Villa
+			No Name
 		</td>
-		<td>Deblime </td>
-		<td><a href="https://twitter.com/juanevillam">juanevillam</a></td>
-		<td>Venezuela</td>
+		<td>Aether Solutions Llc. </td>
+		<td>No Twitter Username</td>
+		<td>Caracas, Venezuela</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -6321,14 +6321,14 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>479</td>
 		<td>
-			<a href="https://github.com/SamuelVera">
-				<img src="https://avatars.githubusercontent.com/u/35410087?s=72&u=f31054f7e869a7be80269ed87af114baa40a233a&v=4" width="24" alt="Avatar of SamuelVera"> SamuelVera
+			<a href="https://github.com/santiagocarlos">
+				<img src="https://avatars.githubusercontent.com/u/13225445?s=72&u=006c529a0c9fa3dd3c0fdb15986b8d6f8dc36104&v=4" width="24" alt="Avatar of santiagocarlos"> santiagocarlos
 			</a><br/>
-			No Name
+			Carlos Santiago
 		</td>
-		<td>Aether Solutions Llc. </td>
+		<td>Dattahost | Www.dattahost.com.ve </td>
 		<td>No Twitter Username</td>
-		<td>Caracas, Venezuela</td>
+		<td>Mérida, Venezuela</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -6360,19 +6360,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>482</td>
 		<td>
-			<a href="https://github.com/romerojoseing">
-				<img src="https://avatars.githubusercontent.com/u/58814197?s=72&u=29f8b03ba5a5b614cd5e2c81ae67aa8bef459c00&v=4" width="24" alt="Avatar of romerojoseing"> romerojoseing
-			</a><br/>
-			Romero José
-		</td>
-		<td>@romerojoseing </td>
-		<td><a href="https://twitter.com/romerojoseing">romerojoseing</a></td>
-		<td>Valera, Venezuela</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>483</td>
-		<td>
 			<a href="https://github.com/JhonatanHern">
 				<img src="https://avatars.githubusercontent.com/u/25697703?s=72&u=22c2ae17daf11cd844c8719967a0960157f8cad7&v=4" width="24" alt="Avatar of JhonatanHern"> JhonatanHern
 			</a><br/>
@@ -6384,16 +6371,29 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
+		<td>483</td>
+		<td>
+			<a href="https://github.com/romerojoseing">
+				<img src="https://avatars.githubusercontent.com/u/58814197?s=72&u=29f8b03ba5a5b614cd5e2c81ae67aa8bef459c00&v=4" width="24" alt="Avatar of romerojoseing"> romerojoseing
+			</a><br/>
+			Romero José
+		</td>
+		<td>@romerojoseing </td>
+		<td><a href="https://twitter.com/romerojoseing">romerojoseing</a></td>
+		<td>Valera, Venezuela</td>
+		<td>9</td>
+	</tr>
+	<tr>
 		<td>484</td>
 		<td>
-			<a href="https://github.com/santiagocarlos">
-				<img src="https://avatars.githubusercontent.com/u/13225445?s=72&u=006c529a0c9fa3dd3c0fdb15986b8d6f8dc36104&v=4" width="24" alt="Avatar of santiagocarlos"> santiagocarlos
+			<a href="https://github.com/gorojou">
+				<img src="https://avatars.githubusercontent.com/u/942989?s=72&u=e377bd35b7985816504ba4c77da7b4061d2fd03b&v=4" width="24" alt="Avatar of gorojou"> gorojou
 			</a><br/>
-			Carlos Santiago
+			Igor Miquilena
 		</td>
-		<td>Dattahost | Www.dattahost.com.ve </td>
-		<td>No Twitter Username</td>
-		<td>Mérida, Venezuela</td>
+		<td>Improtecnologia C.a. </td>
+		<td><a href="https://twitter.com/gorojou">gorojou</a></td>
+		<td>Republica de Venezuela</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -6412,19 +6412,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>486</td>
 		<td>
-			<a href="https://github.com/gorojou">
-				<img src="https://avatars.githubusercontent.com/u/942989?s=72&u=e377bd35b7985816504ba4c77da7b4061d2fd03b&v=4" width="24" alt="Avatar of gorojou"> gorojou
-			</a><br/>
-			Igor Miquilena
-		</td>
-		<td>Improtecnologia C.a. </td>
-		<td><a href="https://twitter.com/gorojou">gorojou</a></td>
-		<td>Republica de Venezuela</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>487</td>
-		<td>
 			<a href="https://github.com/Glutamato">
 				<img src="https://avatars.githubusercontent.com/u/7342905?s=72&u=0116b3cafaaa871435ed98dba92b4455cfc23702&v=4" width="24" alt="Avatar of Glutamato"> Glutamato
 			</a><br/>
@@ -6436,7 +6423,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/dennysjmarquez">
 				<img src="https://avatars.githubusercontent.com/u/20476777?s=72&u=e0c7642407c89593518705b2baf34dae19435b98&v=4" width="24" alt="Avatar of dennysjmarquez"> dennysjmarquez
@@ -6449,7 +6436,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/WilliamAche">
 				<img src="https://avatars.githubusercontent.com/u/41762270?s=72&u=2bd6b73ae3d3164c855409cb1416785e0ceb39f5&v=4" width="24" alt="Avatar of WilliamAche"> WilliamAche
@@ -6459,6 +6446,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/William_Ache">William_Ache</a></td>
 		<td>Venezuela</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>489</td>
+		<td>
+			<a href="https://github.com/calrrox">
+				<img src="https://avatars.githubusercontent.com/u/4570712?s=72&u=0cebd69ca63e576850bd79556136f574f7b8fac2&v=4" width="24" alt="Avatar of calrrox"> calrrox
+			</a><br/>
+			Carlos Torrealba
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Caracas - Venezuela</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -6477,19 +6477,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>491</td>
 		<td>
-			<a href="https://github.com/calrrox">
-				<img src="https://avatars.githubusercontent.com/u/4570712?s=72&u=0cebd69ca63e576850bd79556136f574f7b8fac2&v=4" width="24" alt="Avatar of calrrox"> calrrox
-			</a><br/>
-			Carlos Torrealba
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Caracas - Venezuela</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>492</td>
-		<td>
 			<a href="https://github.com/magnoliaeb">
 				<img src="https://avatars.githubusercontent.com/u/40722931?s=72&v=4" width="24" alt="Avatar of magnoliaeb"> magnoliaeb
 			</a><br/>
@@ -6501,7 +6488,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/ed-mor">
 				<img src="https://avatars.githubusercontent.com/u/50190700?s=72&u=6900d80aa60be30c03a200cbdb28140f5d9af84d&v=4" width="24" alt="Avatar of ed-mor"> ed-mor
@@ -6514,7 +6501,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/alejandrohtadinom">
 				<img src="https://avatars.githubusercontent.com/u/17259844?s=72&u=12a90ef13fe175655e0e17efd6c96e073add3431&v=4" width="24" alt="Avatar of alejandrohtadinom"> alejandrohtadinom
@@ -6527,7 +6514,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/luisg18997">
 				<img src="https://avatars.githubusercontent.com/u/26290370?s=72&v=4" width="24" alt="Avatar of luisg18997"> luisg18997
@@ -6540,7 +6527,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/jesusgp22">
 				<img src="https://avatars.githubusercontent.com/u/2547899?s=72&u=5de87f6c5cdb6d5b93c2241ebb12c80cde4ff754&v=4" width="24" alt="Avatar of jesusgp22"> jesusgp22
@@ -6550,6 +6537,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>@vascarsolutions  </td>
 		<td>No Twitter Username</td>
 		<td>Mérida, Venezuela</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>496</td>
+		<td>
+			<a href="https://github.com/JesusCrespo2823">
+				<img src="https://avatars.githubusercontent.com/u/71405786?s=72&u=d2b16297fd96517e6c31993a83903ce0bd299995&v=4" width="24" alt="Avatar of JesusCrespo2823"> JesusCrespo2823
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -6646,19 +6646,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>504</td>
 		<td>
-			<a href="https://github.com/TheThryko">
-				<img src="https://avatars.githubusercontent.com/u/72079460?s=72&u=2f71173ff4775404b1155fa7916004795177debb&v=4" width="24" alt="Avatar of TheThryko"> TheThryko
-			</a><br/>
-			Thrynow
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/thrynow">thrynow</a></td>
-		<td>Venezuela</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>505</td>
-		<td>
 			<a href="https://github.com/WuilfredoAz">
 				<img src="https://avatars.githubusercontent.com/u/43300161?s=72&u=68f19a6dbff2f241c0b50bb2e61191b09ef41d83&v=4" width="24" alt="Avatar of WuilfredoAz"> WuilfredoAz
 			</a><br/>
@@ -6670,7 +6657,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/tecnologiaterabyte">
 				<img src="https://avatars.githubusercontent.com/u/4957021?s=72&u=c842f2b643629489345f15b987897abb90fc3e4f&v=4" width="24" alt="Avatar of tecnologiaterabyte"> tecnologiaterabyte
@@ -6683,7 +6670,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/ElpidioMC">
 				<img src="https://avatars.githubusercontent.com/u/34383145?s=72&u=20b1a355caf0644e490775744548f4f938bf2a9f&v=4" width="24" alt="Avatar of ElpidioMC"> ElpidioMC
@@ -6692,6 +6679,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>507</td>
+		<td>
+			<a href="https://github.com/Thryn0w">
+				<img src="https://avatars.githubusercontent.com/u/72079460?s=72&u=2f71173ff4775404b1155fa7916004795177debb&v=4" width="24" alt="Avatar of Thryn0w"> Thryn0w
+			</a><br/>
+			Thrynow
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/thrynow">thrynow</a></td>
 		<td>Venezuela</td>
 		<td>9</td>
 	</tr>
@@ -6802,12 +6802,12 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>516</td>
 		<td>
-			<a href="https://github.com/juanteran">
-				<img src="https://avatars.githubusercontent.com/u/22479700?s=72&u=6b9f1767bc48c4dddebdcf671922594428ea0a85&v=4" width="24" alt="Avatar of juanteran"> juanteran
+			<a href="https://github.com/mluna16">
+				<img src="https://avatars.githubusercontent.com/u/5174654?s=72&u=a43793caa361ec3c81f328d4c40eca3bec849b67&v=4" width="24" alt="Avatar of mluna16"> mluna16
 			</a><br/>
-			Juan Carlos Terán
+			Marcos Luna H
 		</td>
-		<td>Freelancer </td>
+		<td>None </td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>9</td>
@@ -6815,12 +6815,12 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>517</td>
 		<td>
-			<a href="https://github.com/mluna16">
-				<img src="https://avatars.githubusercontent.com/u/5174654?s=72&u=a43793caa361ec3c81f328d4c40eca3bec849b67&v=4" width="24" alt="Avatar of mluna16"> mluna16
+			<a href="https://github.com/juanteran">
+				<img src="https://avatars.githubusercontent.com/u/22479700?s=72&u=6b9f1767bc48c4dddebdcf671922594428ea0a85&v=4" width="24" alt="Avatar of juanteran"> juanteran
 			</a><br/>
-			Marcos Luna H
+			Juan Carlos Terán
 		</td>
-		<td>None </td>
+		<td>Freelancer </td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>9</td>
@@ -6945,12 +6945,12 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>527</td>
 		<td>
-			<a href="https://github.com/angel-rs">
-				<img src="https://avatars.githubusercontent.com/u/20560880?s=72&u=0bb296856ecb741395f60e5049228f460962d0f0&v=4" width="24" alt="Avatar of angel-rs"> angel-rs
+			<a href="https://github.com/h2jose">
+				<img src="https://avatars.githubusercontent.com/u/1481933?s=72&u=82fbd51c19f56b7e4e78f216c4655d74a7de08f4&v=4" width="24" alt="Avatar of h2jose"> h2jose
 			</a><br/>
-			Angel Rodríguez
+			Jose Hernandez
 		</td>
-		<td>No Company</td>
+		<td>Techcom </td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>8</td>
@@ -6958,12 +6958,12 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>528</td>
 		<td>
-			<a href="https://github.com/h2jose">
-				<img src="https://avatars.githubusercontent.com/u/1481933?s=72&u=82fbd51c19f56b7e4e78f216c4655d74a7de08f4&v=4" width="24" alt="Avatar of h2jose"> h2jose
+			<a href="https://github.com/angel-rs">
+				<img src="https://avatars.githubusercontent.com/u/20560880?s=72&u=0bb296856ecb741395f60e5049228f460962d0f0&v=4" width="24" alt="Avatar of angel-rs"> angel-rs
 			</a><br/>
-			Jose Hernandez
+			Angel Rodríguez
 		</td>
-		<td>Techcom </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>8</td>
@@ -7010,19 +7010,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>532</td>
 		<td>
-			<a href="https://github.com/Brian-Santeliz">
-				<img src="https://avatars.githubusercontent.com/u/52502435?s=72&u=fff6238b2a6bf94bf7f391893e552b4f5ec1d217&v=4" width="24" alt="Avatar of Brian-Santeliz"> Brian-Santeliz
-			</a><br/>
-			Briandev
-		</td>
-		<td>Caisert </td>
-		<td><a href="https://twitter.com/brian_santeliz">brian_santeliz</a></td>
-		<td>Venezuela</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>533</td>
-		<td>
 			<a href="https://github.com/ShonnyAIO">
 				<img src="https://avatars.githubusercontent.com/u/59207255?s=72&u=f3c07f176398b2101ade68d3461c138452ebe347&v=4" width="24" alt="Avatar of ShonnyAIO"> ShonnyAIO
 			</a><br/>
@@ -7031,6 +7018,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>@it-conectas  </td>
 		<td><a href="https://twitter.com/LinuxAIO">LinuxAIO</a></td>
 		<td>Caracas, Venezuela</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>533</td>
+		<td>
+			<a href="https://github.com/Brian-Santeliz">
+				<img src="https://avatars.githubusercontent.com/u/52502435?s=72&u=fff6238b2a6bf94bf7f391893e552b4f5ec1d217&v=4" width="24" alt="Avatar of Brian-Santeliz"> Brian-Santeliz
+			</a><br/>
+			Briandev
+		</td>
+		<td>Caisert </td>
+		<td><a href="https://twitter.com/brian_santeliz">brian_santeliz</a></td>
+		<td>Venezuela</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -7049,19 +7049,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>535</td>
 		<td>
-			<a href="https://github.com/Judejvlr">
-				<img src="https://avatars.githubusercontent.com/u/9142851?s=72&u=facf751fae39071c695682fe6ab244c078745900&v=4" width="24" alt="Avatar of Judejvlr"> Judejvlr
-			</a><br/>
-			Judejvlr
-		</td>
-		<td>@teranvo  </td>
-		<td><a href="https://twitter.com/Judejvlr">Judejvlr</a></td>
-		<td>Maturín, Venezuela</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>536</td>
-		<td>
 			<a href="https://github.com/DarkChimu">
 				<img src="https://avatars.githubusercontent.com/u/20270040?s=72&u=5c0b63598b330f02594f5545eeae9a54a8fa97f1&v=4" width="24" alt="Avatar of DarkChimu"> DarkChimu
 			</a><br/>
@@ -7073,16 +7060,29 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
+		<td>536</td>
+		<td>
+			<a href="https://github.com/Judejvlr">
+				<img src="https://avatars.githubusercontent.com/u/9142851?s=72&u=facf751fae39071c695682fe6ab244c078745900&v=4" width="24" alt="Avatar of Judejvlr"> Judejvlr
+			</a><br/>
+			Judejvlr
+		</td>
+		<td>@teranvo  </td>
+		<td><a href="https://twitter.com/Judejvlr">Judejvlr</a></td>
+		<td>Maturín, Venezuela</td>
+		<td>8</td>
+	</tr>
+	<tr>
 		<td>537</td>
 		<td>
-			<a href="https://github.com/gbrlmrllo">
-				<img src="https://avatars.githubusercontent.com/u/3831984?s=72&v=4" width="24" alt="Avatar of gbrlmrllo"> gbrlmrllo
+			<a href="https://github.com/mauriciobrito7">
+				<img src="https://avatars.githubusercontent.com/u/12994188?s=72&u=bae89d27f2f24f80af7fd16bc7f32d8790954db6&v=4" width="24" alt="Avatar of mauriciobrito7"> mauriciobrito7
 			</a><br/>
-			Gabriel Morillo
+			Mauricio Eduardo
 		</td>
-		<td>Sunlight </td>
+		<td>Reign </td>
 		<td>No Twitter Username</td>
-		<td>Punto Fijo - Venezuela</td>
+		<td>Venezuela</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -7218,19 +7218,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>548</td>
 		<td>
-			<a href="https://github.com/yencolon">
-				<img src="https://avatars.githubusercontent.com/u/32972934?s=72&u=9a09840d05785ddef3e272dcf1951658bce9a04a&v=4" width="24" alt="Avatar of yencolon"> yencolon
-			</a><br/>
-			Yen Colon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Puerto La Cruz, Venezuela</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>549</td>
-		<td>
 			<a href="https://github.com/emanueljtc">
 				<img src="https://avatars.githubusercontent.com/u/9807450?s=72&u=db245d710a8290ca96c49968fff253a33997c4f1&v=4" width="24" alt="Avatar of emanueljtc"> emanueljtc
 			</a><br/>
@@ -7242,7 +7229,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/djmbdv">
 				<img src="https://avatars.githubusercontent.com/u/25411168?s=72&u=25c5d9c9763af24d482e59469a74dd47999a5ca0&v=4" width="24" alt="Avatar of djmbdv"> djmbdv
@@ -7251,6 +7238,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/djmbdv">djmbdv</a></td>
+		<td>Puerto La Cruz, Venezuela</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>550</td>
+		<td>
+			<a href="https://github.com/yencolon">
+				<img src="https://avatars.githubusercontent.com/u/32972934?s=72&u=9a09840d05785ddef3e272dcf1951658bce9a04a&v=4" width="24" alt="Avatar of yencolon"> yencolon
+			</a><br/>
+			Yen Colon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Puerto La Cruz, Venezuela</td>
 		<td>8</td>
 	</tr>
@@ -7270,19 +7270,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>552</td>
 		<td>
-			<a href="https://github.com/antoniojh10">
-				<img src="https://avatars.githubusercontent.com/u/23227839?s=72&u=fec9e40269deddf7c0b78d173ee18d28d8b8bec6&v=4" width="24" alt="Avatar of antoniojh10"> antoniojh10
-			</a><br/>
-			Antonio Hernández
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Cristóbal - Venezuela</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>553</td>
-		<td>
 			<a href="https://github.com/Juanjosexdd">
 				<img src="https://avatars.githubusercontent.com/u/42101847?s=72&u=949b2d54b9f954475da7fa8b36fc2e379fb4a625&v=4" width="24" alt="Avatar of Juanjosexdd"> Juanjosexdd
 			</a><br/>
@@ -7291,6 +7278,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>venezuela</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>553</td>
+		<td>
+			<a href="https://github.com/antoniojh10">
+				<img src="https://avatars.githubusercontent.com/u/23227839?s=72&u=fec9e40269deddf7c0b78d173ee18d28d8b8bec6&v=4" width="24" alt="Avatar of antoniojh10"> antoniojh10
+			</a><br/>
+			Antonio Hernández
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Cristóbal - Venezuela</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -7322,19 +7322,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>556</td>
 		<td>
-			<a href="https://github.com/luiseduardobello">
-				<img src="https://avatars.githubusercontent.com/u/7142986?s=72&u=5ec99361eac9da1e468ffb8eff4ffdcd91c0768a&v=4" width="24" alt="Avatar of luiseduardobello"> luiseduardobello
-			</a><br/>
-			Luis Eduardo Bello
-		</td>
-		<td>@avila-tek  </td>
-		<td><a href="https://twitter.com/luisbellomila">luisbellomila</a></td>
-		<td>Caracas, Venezuela</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>557</td>
-		<td>
 			<a href="https://github.com/MeggSan">
 				<img src="https://avatars.githubusercontent.com/u/12054907?s=72&u=fcff4b3a26e23eda9bc90c91f829eaf2af2506e6&v=4" width="24" alt="Avatar of MeggSan"> MeggSan
 			</a><br/>
@@ -7346,33 +7333,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
+		<td>557</td>
+		<td>
+			<a href="https://github.com/luiseduardobello">
+				<img src="https://avatars.githubusercontent.com/u/7142986?s=72&u=5ec99361eac9da1e468ffb8eff4ffdcd91c0768a&v=4" width="24" alt="Avatar of luiseduardobello"> luiseduardobello
+			</a><br/>
+			Luis Eduardo Bello
+		</td>
+		<td>@avila-tek  </td>
+		<td><a href="https://twitter.com/luisbellomila">luisbellomila</a></td>
+		<td>Caracas, Venezuela</td>
+		<td>8</td>
+	</tr>
+	<tr>
 		<td>558</td>
-		<td>
-			<a href="https://github.com/andresnavag93">
-				<img src="https://avatars.githubusercontent.com/u/8867012?s=72&u=65a221d94ada95c95e785d1ac157c760a9278363&v=4" width="24" alt="Avatar of andresnavag93"> andresnavag93
-			</a><br/>
-			Andres Navarro
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>559</td>
-		<td>
-			<a href="https://github.com/JuanNavasJN">
-				<img src="https://avatars.githubusercontent.com/u/30758334?s=72&u=91d067122d3281b7909a208a9615f52595954178&v=4" width="24" alt="Avatar of JuanNavasJN"> JuanNavasJN
-			</a><br/>
-			Juan Navas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>560</td>
 		<td>
 			<a href="https://github.com/loldlm1">
 				<img src="https://avatars.githubusercontent.com/u/19172129?s=72&u=48518a37c4ef3fc2736d5374a22f467afa5ac018&v=4" width="24" alt="Avatar of loldlm1"> loldlm1
@@ -7385,7 +7359,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>561</td>
+		<td>559</td>
+		<td>
+			<a href="https://github.com/andresnavag93">
+				<img src="https://avatars.githubusercontent.com/u/8867012?s=72&u=65a221d94ada95c95e785d1ac157c760a9278363&v=4" width="24" alt="Avatar of andresnavag93"> andresnavag93
+			</a><br/>
+			Andres Navarro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>560</td>
 		<td>
 			<a href="https://github.com/JeanMaster">
 				<img src="https://avatars.githubusercontent.com/u/52432165?s=72&u=6305701f9f762c3ad3d7950796c0ca570d62a591&v=4" width="24" alt="Avatar of JeanMaster"> JeanMaster
@@ -7393,6 +7380,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 			Jean Master Magic
 		</td>
 		<td>Inversur . Divermagic </td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>561</td>
+		<td>
+			<a href="https://github.com/JuanNavasJN">
+				<img src="https://avatars.githubusercontent.com/u/30758334?s=72&u=91d067122d3281b7909a208a9615f52595954178&v=4" width="24" alt="Avatar of JuanNavasJN"> JuanNavasJN
+			</a><br/>
+			Juan Navas
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>8</td>
@@ -7452,19 +7452,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>566</td>
 		<td>
-			<a href="https://github.com/ajarellanod">
-				<img src="https://avatars.githubusercontent.com/u/44927636?s=72&u=caed8fb7113ef8b361a92f6f1eecd07c50c70d66&v=4" width="24" alt="Avatar of ajarellanod"> ajarellanod
-			</a><br/>
-			Alex Arellano
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ajarellanod">ajarellanod</a></td>
-		<td>Carabobo, Venezuela</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>567</td>
-		<td>
 			<a href="https://github.com/avdasilvab25">
 				<img src="https://avatars.githubusercontent.com/u/53025320?s=72&u=4dd0e9c719fd2c91fba0232e60a846c2143c5880&v=4" width="24" alt="Avatar of avdasilvab25"> avdasilvab25
 			</a><br/>
@@ -7476,20 +7463,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>567</td>
 		<td>
-			<a href="https://github.com/sherzo">
-				<img src="https://avatars.githubusercontent.com/u/15763948?s=72&u=df086022f85a94770773012751aa58ba33dd23d4&v=4" width="24" alt="Avatar of sherzo"> sherzo
+			<a href="https://github.com/ajarellanod">
+				<img src="https://avatars.githubusercontent.com/u/44927636?s=72&u=caed8fb7113ef8b361a92f6f1eecd07c50c70d66&v=4" width="24" alt="Avatar of ajarellanod"> ajarellanod
 			</a><br/>
-			Saul Florez
+			Alex Arellano
 		</td>
-		<td>Infocasas </td>
-		<td><a href="https://twitter.com/sherzof">sherzof</a></td>
-		<td>Maracay, Aragua Venezuela.</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ajarellanod">ajarellanod</a></td>
+		<td>Carabobo, Venezuela</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/DilanUse">
 				<img src="https://avatars.githubusercontent.com/u/20304156?s=72&u=0b4b2de38c75a990b3a11bf66d80d15f43bc065c&v=4" width="24" alt="Avatar of DilanUse"> DilanUse
@@ -7502,7 +7489,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>570</td>
+		<td>569</td>
 		<td>
 			<a href="https://github.com/21harley">
 				<img src="https://avatars.githubusercontent.com/u/20371626?s=72&v=4" width="24" alt="Avatar of 21harley"> 21harley
@@ -7515,7 +7502,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/summerhill5">
 				<img src="https://avatars.githubusercontent.com/u/42298149?s=72&u=d9dbb32e895951ccd8a3b53238e613cfa4f88a44&v=4" width="24" alt="Avatar of summerhill5"> summerhill5
@@ -7528,7 +7515,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/JustNrik">
 				<img src="https://avatars.githubusercontent.com/u/35231903?s=72&u=fa8345868f3b8af3bdade024f48e198f4c315372&v=4" width="24" alt="Avatar of JustNrik"> JustNrik
@@ -7541,7 +7528,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/gonzahce">
 				<img src="https://avatars.githubusercontent.com/u/17050482?s=72&u=f2c07affa8861eea277fb9ef5f472be035a02249&v=4" width="24" alt="Avatar of gonzahce"> gonzahce
@@ -7554,7 +7541,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>573</td>
 		<td>
 			<a href="https://github.com/maromero3d">
 				<img src="https://avatars.githubusercontent.com/u/9950788?s=72&u=2a0b23907896ee274d803db8be3e9e55f7bacec8&v=4" width="24" alt="Avatar of maromero3d"> maromero3d
@@ -7562,6 +7549,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 			Marco Romero
 		</td>
 		<td>Marcoromero.net </td>
+		<td>No Twitter Username</td>
+		<td>Caracas, Venezuela</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>574</td>
+		<td>
+			<a href="https://github.com/kijamve">
+				<img src="https://avatars.githubusercontent.com/u/290219?s=72&u=e9401a87aefa716b010ec2c2de71589f25f129be&v=4" width="24" alt="Avatar of kijamve"> kijamve
+			</a><br/>
+			Kijam López 
+		</td>
+		<td>Kijam.com </td>
 		<td>No Twitter Username</td>
 		<td>Caracas, Venezuela</td>
 		<td>8</td>
@@ -7634,19 +7634,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>580</td>
 		<td>
-			<a href="https://github.com/pizenblues">
-				<img src="https://avatars.githubusercontent.com/u/9159390?s=72&u=0210e132dab1480066444b04c3eaec621e257e4d&v=4" width="24" alt="Avatar of pizenblues"> pizenblues
-			</a><br/>
-			Valentina Azocar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>581</td>
-		<td>
 			<a href="https://github.com/Hercast">
 				<img src="https://avatars.githubusercontent.com/u/20843594?s=72&u=9f198182f82bdcf0397749f4d69dcec22ef3a49e&v=4" width="24" alt="Avatar of Hercast"> Hercast
 			</a><br/>
@@ -7658,20 +7645,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>581</td>
 		<td>
-			<a href="https://github.com/kijamve">
-				<img src="https://avatars.githubusercontent.com/u/290219?s=72&u=e9401a87aefa716b010ec2c2de71589f25f129be&v=4" width="24" alt="Avatar of kijamve"> kijamve
+			<a href="https://github.com/pizenblues">
+				<img src="https://avatars.githubusercontent.com/u/9159390?s=72&u=0210e132dab1480066444b04c3eaec621e257e4d&v=4" width="24" alt="Avatar of pizenblues"> pizenblues
 			</a><br/>
-			Kijam López 
+			Valentina Azocar
 		</td>
-		<td>Kijam.com </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Caracas, Venezuela</td>
+		<td>Venezuela</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/jcorreagallar">
 				<img src="https://avatars.githubusercontent.com/u/40636490?s=72&u=093dc12b145e269bbd25e41986ce945ca4cb3214&v=4" width="24" alt="Avatar of jcorreagallar"> jcorreagallar
@@ -7681,6 +7668,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/SoyJesusCorreaG">SoyJesusCorreaG</a></td>
 		<td>Caracas, Venezuela</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>583</td>
+		<td>
+			<a href="https://github.com/sherzo">
+				<img src="https://avatars.githubusercontent.com/u/15763948?s=72&u=df086022f85a94770773012751aa58ba33dd23d4&v=4" width="24" alt="Avatar of sherzo"> sherzo
+			</a><br/>
+			Saul Florez
+		</td>
+		<td>Infocasas </td>
+		<td><a href="https://twitter.com/sherzof">sherzof</a></td>
+		<td>Maracay, Aragua Venezuela.</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -7764,19 +7764,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>590</td>
 		<td>
-			<a href="https://github.com/Casthielle">
-				<img src="https://avatars.githubusercontent.com/u/4915587?s=72&u=fd5036c0e117bfed6f144d60d2597480371b6e40&v=4" width="24" alt="Avatar of Casthielle"> Casthielle
-			</a><br/>
-			Joel Joeverlt Crespo Salazar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>591</td>
-		<td>
 			<a href="https://github.com/syscobra">
 				<img src="https://avatars.githubusercontent.com/u/212311?s=72&u=9daa93191aaebce07d23dba38e7ac39edb05470b&v=4" width="24" alt="Avatar of syscobra"> syscobra
 			</a><br/>
@@ -7785,6 +7772,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>Softars </td>
 		<td><a href="https://twitter.com/syscobra">syscobra</a></td>
 		<td>Ciudad Ojeda, Zulia, Venezuela</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>591</td>
+		<td>
+			<a href="https://github.com/Casthielle">
+				<img src="https://avatars.githubusercontent.com/u/4915587?s=72&u=fd5036c0e117bfed6f144d60d2597480371b6e40&v=4" width="24" alt="Avatar of Casthielle"> Casthielle
+			</a><br/>
+			Joel Joeverlt Crespo Salazar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -8011,6 +8011,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>609</td>
 		<td>
+			<a href="https://github.com/Gefermanpernia">
+				<img src="https://avatars.githubusercontent.com/u/33972248?s=72&u=5d5973b53c9861d66316ae83071a1deb85e70d8b&v=4" width="24" alt="Avatar of Gefermanpernia"> Gefermanpernia
+			</a><br/>
+			Geferman Pernia
+		</td>
+		<td>Freelancer </td>
+		<td><a href="https://twitter.com/gefermanpernia">gefermanpernia</a></td>
+		<td>Venezuela</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>610</td>
+		<td>
 			<a href="https://github.com/perezperret">
 				<img src="https://avatars.githubusercontent.com/u/4761084?s=72&v=4" width="24" alt="Avatar of perezperret"> perezperret
 			</a><br/>
@@ -8022,7 +8035,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>611</td>
 		<td>
 			<a href="https://github.com/oswaldom-code">
 				<img src="https://avatars.githubusercontent.com/u/17863301?s=72&u=b2dec91d6774ae1845d2cb9ae03d956988acfe82&v=4" width="24" alt="Avatar of oswaldom-code"> oswaldom-code
@@ -8031,19 +8044,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		</td>
 		<td>Tutree Inc. </td>
 		<td><a href="https://twitter.com/OSWALDOM_CODE">OSWALDOM_CODE</a></td>
-		<td>Venezuela</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>611</td>
-		<td>
-			<a href="https://github.com/mauriciobrito7">
-				<img src="https://avatars.githubusercontent.com/u/12994188?s=72&u=bae89d27f2f24f80af7fd16bc7f32d8790954db6&v=4" width="24" alt="Avatar of mauriciobrito7"> mauriciobrito7
-			</a><br/>
-			Mauricio Eduardo
-		</td>
-		<td>Reign </td>
-		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>7</td>
 	</tr>
@@ -8154,14 +8154,14 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>620</td>
 		<td>
-			<a href="https://github.com/felixlopz">
-				<img src="https://avatars.githubusercontent.com/u/54049457?s=72&u=5fbba2fc8d6120d9318c8c3e9b59d20ee6257a8e&v=4" width="24" alt="Avatar of felixlopz"> felixlopz
+			<a href="https://github.com/Noheliajoeliana">
+				<img src="https://avatars.githubusercontent.com/u/82003379?s=72&u=6c92c8f00e1189460f063ab84a92371012c9e30b&v=4" width="24" alt="Avatar of Noheliajoeliana"> Noheliajoeliana
 			</a><br/>
-			Felix Lopez
+			Nohelia
 		</td>
-		<td>Freelance </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Venezuela</td>
+		<td>Caracas, Venezuela</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -8180,13 +8180,13 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>622</td>
 		<td>
-			<a href="https://github.com/waffercodes">
-				<img src="https://avatars.githubusercontent.com/u/19867900?s=72&u=d7990bf837617cee7e8d854963fc70759e22b12a&v=4" width="24" alt="Avatar of waffercodes"> waffercodes
+			<a href="https://github.com/felixlopz">
+				<img src="https://avatars.githubusercontent.com/u/54049457?s=72&u=5fbba2fc8d6120d9318c8c3e9b59d20ee6257a8e&v=4" width="24" alt="Avatar of felixlopz"> felixlopz
 			</a><br/>
-			Delkys Welffer
+			Felix Lopez
 		</td>
-		<td>Quantic Solutions </td>
-		<td><a href="https://twitter.com/waffercodes">waffercodes</a></td>
+		<td>Freelance </td>
+		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>7</td>
 	</tr>
@@ -8232,6 +8232,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>626</td>
 		<td>
+			<a href="https://github.com/waffercodes">
+				<img src="https://avatars.githubusercontent.com/u/19867900?s=72&u=d7990bf837617cee7e8d854963fc70759e22b12a&v=4" width="24" alt="Avatar of waffercodes"> waffercodes
+			</a><br/>
+			Delkys Welffer
+		</td>
+		<td>Quantic Solutions </td>
+		<td><a href="https://twitter.com/waffercodes">waffercodes</a></td>
+		<td>Venezuela</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>627</td>
+		<td>
 			<a href="https://github.com/illich570">
 				<img src="https://avatars.githubusercontent.com/u/49048159?s=72&u=2b7c5e2d559ce432c6f459ca97c4e51a0ab2cf8d&v=4" width="24" alt="Avatar of illich570"> illich570
 			</a><br/>
@@ -8243,7 +8256,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/jaoc1811">
 				<img src="https://avatars.githubusercontent.com/u/33599807?s=72&v=4" width="24" alt="Avatar of jaoc1811"> jaoc1811
@@ -8256,7 +8269,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/GuillermoMajano">
 				<img src="https://avatars.githubusercontent.com/u/84688663?s=72&u=3550b456a1cee88096ea2ff23b2830ff01bd1521&v=4" width="24" alt="Avatar of GuillermoMajano"> GuillermoMajano
@@ -8269,7 +8282,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>629</td>
+		<td>630</td>
 		<td>
 			<a href="https://github.com/aggressivepixels">
 				<img src="https://avatars.githubusercontent.com/u/16050351?s=72&u=0fecb460391cf4a1f7bc6c5617bf17fc87ef2015&v=4" width="24" alt="Avatar of aggressivepixels"> aggressivepixels
@@ -8282,7 +8295,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/alexisss1928">
 				<img src="https://avatars.githubusercontent.com/u/35819778?s=72&u=ab2ec32b29bc23a8b018985ae2fe6c544637a5cb&v=4" width="24" alt="Avatar of alexisss1928"> alexisss1928
@@ -8292,19 +8305,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>631</td>
-		<td>
-			<a href="https://github.com/shockiu">
-				<img src="https://avatars.githubusercontent.com/u/59290590?s=72&u=400f4ffc50ac8304d643911ee93b9fa85849a07a&v=4" width="24" alt="Avatar of shockiu"> shockiu
-			</a><br/>
-			Carlos Galeano
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/shockiu">shockiu</a></td>
-		<td>Caracas, Venezuela</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -8336,6 +8336,32 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>634</td>
 		<td>
+			<a href="https://github.com/shockiu">
+				<img src="https://avatars.githubusercontent.com/u/59290590?s=72&u=400f4ffc50ac8304d643911ee93b9fa85849a07a&v=4" width="24" alt="Avatar of shockiu"> shockiu
+			</a><br/>
+			Carlos Galeano
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/shockiu">shockiu</a></td>
+		<td>Caracas, Venezuela</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>635</td>
+		<td>
+			<a href="https://github.com/simonmontaggioni">
+				<img src="https://avatars.githubusercontent.com/u/16695962?s=72&u=512447c40370e62ad0c4da35f1b4dc875c05dff3&v=4" width="24" alt="Avatar of simonmontaggioni"> simonmontaggioni
+			</a><br/>
+			Simón
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>636</td>
+		<td>
 			<a href="https://github.com/chjesus">
 				<img src="https://avatars.githubusercontent.com/u/33363443?s=72&u=de1f8d1b901786618dea26235471ac97dac8a18c&v=4" width="24" alt="Avatar of chjesus"> chjesus
 			</a><br/>
@@ -8347,7 +8373,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>635</td>
+		<td>637</td>
 		<td>
 			<a href="https://github.com/ReynerCr">
 				<img src="https://avatars.githubusercontent.com/u/25756546?s=72&v=4" width="24" alt="Avatar of ReynerCr"> ReynerCr
@@ -8360,7 +8386,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>636</td>
+		<td>638</td>
 		<td>
 			<a href="https://github.com/barbierincones">
 				<img src="https://avatars.githubusercontent.com/u/59545961?s=72&u=d2cd3fc057f832af60b9e5e81880aee192c49a78&v=4" width="24" alt="Avatar of barbierincones"> barbierincones
@@ -8373,7 +8399,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>637</td>
+		<td>639</td>
 		<td>
 			<a href="https://github.com/gamg">
 				<img src="https://avatars.githubusercontent.com/u/7889815?s=72&u=9ce40330b7843feaafe7f59374110a4d04ffc0c8&v=4" width="24" alt="Avatar of gamg"> gamg
@@ -8386,7 +8412,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>638</td>
+		<td>640</td>
 		<td>
 			<a href="https://github.com/jhaqual">
 				<img src="https://avatars.githubusercontent.com/u/29391961?s=72&v=4" width="24" alt="Avatar of jhaqual"> jhaqual
@@ -8399,7 +8425,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>639</td>
+		<td>641</td>
 		<td>
 			<a href="https://github.com/CarSanoja">
 				<img src="https://avatars.githubusercontent.com/u/34045195?s=72&u=78a8c8880ad7c65fdec34dc52385b85515c2011f&v=4" width="24" alt="Avatar of CarSanoja"> CarSanoja
@@ -8412,7 +8438,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>640</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/dandev453">
 				<img src="https://avatars.githubusercontent.com/u/4423678?s=72&u=2ee99601bfe257599ebe2b6e0e0a9b05d4ab7273&v=4" width="24" alt="Avatar of dandev453"> dandev453
@@ -8425,7 +8451,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>641</td>
+		<td>643</td>
 		<td>
 			<a href="https://github.com/Sugisakii">
 				<img src="https://avatars.githubusercontent.com/u/28542642?s=72&u=dad27973d6fb2ebd21155b23d5439f90b9700296&v=4" width="24" alt="Avatar of Sugisakii"> Sugisakii
@@ -8438,7 +8464,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>642</td>
+		<td>644</td>
 		<td>
 			<a href="https://github.com/phidalgot">
 				<img src="https://avatars.githubusercontent.com/u/43784089?s=72&v=4" width="24" alt="Avatar of phidalgot"> phidalgot
@@ -8451,7 +8477,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>645</td>
 		<td>
 			<a href="https://github.com/jhernan33">
 				<img src="https://avatars.githubusercontent.com/u/5748047?s=72&v=4" width="24" alt="Avatar of jhernan33"> jhernan33
@@ -8464,7 +8490,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>646</td>
 		<td>
 			<a href="https://github.com/RhonSanchez">
 				<img src="https://avatars.githubusercontent.com/u/42100363?s=72&u=5b73b03be3ba419571b6a87b6211e78ab2aeaa2c&v=4" width="24" alt="Avatar of RhonSanchez"> RhonSanchez
@@ -8477,7 +8503,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>647</td>
 		<td>
 			<a href="https://github.com/rplusq">
 				<img src="https://avatars.githubusercontent.com/u/32346241?s=72&u=31f10a81051301aff90b9ad18920eef0dea0bff5&v=4" width="24" alt="Avatar of rplusq"> rplusq
@@ -8490,7 +8516,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>646</td>
+		<td>648</td>
 		<td>
 			<a href="https://github.com/MetalSyntax">
 				<img src="https://avatars.githubusercontent.com/u/25257337?s=72&u=a11bb0ae32fe00667e2870235ba2b607fde23596&v=4" width="24" alt="Avatar of MetalSyntax"> MetalSyntax
@@ -8503,20 +8529,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>647</td>
-		<td>
-			<a href="https://github.com/D4veCode">
-				<img src="https://avatars.githubusercontent.com/u/23439026?s=72&u=ee973ecdaabbb5474e81012a0b8a6dbc1153d55b&v=4" width="24" alt="Avatar of D4veCode"> D4veCode
-			</a><br/>
-			David Alejandro Serrada Botía
-		</td>
-		<td>Asistensi </td>
-		<td>No Twitter Username</td>
-		<td>Caracas, Venezuela</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>648</td>
+		<td>649</td>
 		<td>
 			<a href="https://github.com/jose6alejandro">
 				<img src="https://avatars.githubusercontent.com/u/34587391?s=72&u=cee2f6ac1d6ca22f36a318030e5f4ed8a6cc2093&v=4" width="24" alt="Avatar of jose6alejandro"> jose6alejandro
@@ -8529,7 +8542,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>649</td>
+		<td>650</td>
 		<td>
 			<a href="https://github.com/oilujc">
 				<img src="https://avatars.githubusercontent.com/u/28314671?s=72&u=1f54a6de68285130feb2a77a7e21005a2fbf35dc&v=4" width="24" alt="Avatar of oilujc"> oilujc
@@ -8542,7 +8555,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>651</td>
 		<td>
 			<a href="https://github.com/MgArreaza13">
 				<img src="https://avatars.githubusercontent.com/u/6876785?s=72&u=90dff21029587174fdce63956da273a47e84d5b9&v=4" width="24" alt="Avatar of MgArreaza13"> MgArreaza13
@@ -8555,7 +8568,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>651</td>
+		<td>652</td>
 		<td>
 			<a href="https://github.com/AngelP11">
 				<img src="https://avatars.githubusercontent.com/u/14016671?s=72&u=ca8763ca7a5fa05daae1fa115764f3c57ace293d&v=4" width="24" alt="Avatar of AngelP11"> AngelP11
@@ -8568,7 +8581,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>653</td>
 		<td>
 			<a href="https://github.com/elgeokareem">
 				<img src="https://avatars.githubusercontent.com/u/33305591?s=72&u=b8734663595df475a54a2afaba03af6ad3e851d2&v=4" width="24" alt="Avatar of elgeokareem"> elgeokareem
@@ -8581,7 +8594,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>653</td>
+		<td>654</td>
 		<td>
 			<a href="https://github.com/AlfredoJonas">
 				<img src="https://avatars.githubusercontent.com/u/22417461?s=72&u=6e7d0df70831a31703e104cbca510922b7b3de69&v=4" width="24" alt="Avatar of AlfredoJonas"> AlfredoJonas
@@ -8594,7 +8607,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>654</td>
+		<td>655</td>
 		<td>
 			<a href="https://github.com/AbsoluteC2H6O">
 				<img src="https://avatars.githubusercontent.com/u/31022309?s=72&u=27aadf67e67da6ffd7c711f43a866717df47e175&v=4" width="24" alt="Avatar of AbsoluteC2H6O"> AbsoluteC2H6O
@@ -8607,7 +8620,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>656</td>
 		<td>
 			<a href="https://github.com/nelxaz">
 				<img src="https://avatars.githubusercontent.com/u/18443060?s=72&u=676809d380b789579e9c0f67f5351ea6b95553e5&v=4" width="24" alt="Avatar of nelxaz"> nelxaz
@@ -8620,7 +8633,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/pernaletec">
 				<img src="https://avatars.githubusercontent.com/u/19232503?s=72&u=d20130d7ba4fc3bcb49bb2adc7b9ef8b049d865b&v=4" width="24" alt="Avatar of pernaletec"> pernaletec
@@ -8633,7 +8646,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/ehiber">
 				<img src="https://avatars.githubusercontent.com/u/56272634?s=72&u=4f1a26719fa4a92618a947475770a79bfbaae577&v=4" width="24" alt="Avatar of ehiber"> ehiber
@@ -8646,7 +8659,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/luisoliv">
 				<img src="https://avatars.githubusercontent.com/u/10443860?s=72&u=c454bb84c49579a20d72fcf80bf9880a7b190982&v=4" width="24" alt="Avatar of luisoliv"> luisoliv
@@ -8659,7 +8672,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/aegp17">
 				<img src="https://avatars.githubusercontent.com/u/4774544?s=72&u=cf1d62013ab4785d91efc94d379a31ce69a07eeb&v=4" width="24" alt="Avatar of aegp17"> aegp17
@@ -8672,7 +8685,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/ja6z">
 				<img src="https://avatars.githubusercontent.com/u/11982695?s=72&u=2cf7067ee8fd405c4a442289ad7186d0103bf164&v=4" width="24" alt="Avatar of ja6z"> ja6z
@@ -8685,7 +8698,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/offpaiva">
 				<img src="https://avatars.githubusercontent.com/u/78931497?s=72&v=4" width="24" alt="Avatar of offpaiva"> offpaiva
@@ -8698,7 +8711,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/tonybp18">
 				<img src="https://avatars.githubusercontent.com/u/1488665?s=72&u=c2b30d10e071322bf913cf39781e7df5ab5e1820&v=4" width="24" alt="Avatar of tonybp18"> tonybp18
@@ -8711,7 +8724,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/gesifred">
 				<img src="https://avatars.githubusercontent.com/u/6007031?s=72&u=161c76fe4a91b03107abe86a09a39c9f80bd4b18&v=4" width="24" alt="Avatar of gesifred"> gesifred
@@ -8724,7 +8737,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>665</td>
+		<td>
+			<a href="https://github.com/D4veCode">
+				<img src="https://avatars.githubusercontent.com/u/23439026?s=72&u=ee973ecdaabbb5474e81012a0b8a6dbc1153d55b&v=4" width="24" alt="Avatar of D4veCode"> D4veCode
+			</a><br/>
+			David Alejandro Serrada Botía
+		</td>
+		<td>Asistensi </td>
+		<td>No Twitter Username</td>
+		<td>Caracas, Venezuela</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>666</td>
 		<td>
 			<a href="https://github.com/joseasv">
 				<img src="https://avatars.githubusercontent.com/u/4216810?s=72&v=4" width="24" alt="Avatar of joseasv"> joseasv
@@ -8737,7 +8763,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>667</td>
 		<td>
 			<a href="https://github.com/cinfante96">
 				<img src="https://avatars.githubusercontent.com/u/20607085?s=72&u=98393abeb080548e7d05d7cc68690379e0dc42d2&v=4" width="24" alt="Avatar of cinfante96"> cinfante96
@@ -8750,7 +8776,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>668</td>
 		<td>
 			<a href="https://github.com/adonay28">
 				<img src="https://avatars.githubusercontent.com/u/745101?s=72&u=93925e850010d51339f313884d756c44d201853e&v=4" width="24" alt="Avatar of adonay28"> adonay28
@@ -8763,7 +8789,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>669</td>
 		<td>
 			<a href="https://github.com/jesusepp">
 				<img src="https://avatars.githubusercontent.com/u/64331543?s=72&u=459d811d16810b2a532f5d1a85274596b498cb53&v=4" width="24" alt="Avatar of jesusepp"> jesusepp
@@ -8776,7 +8802,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>670</td>
 		<td>
 			<a href="https://github.com/danielrvt">
 				<img src="https://avatars.githubusercontent.com/u/1197079?s=72&v=4" width="24" alt="Avatar of danielrvt"> danielrvt
@@ -8789,20 +8815,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>669</td>
-		<td>
-			<a href="https://github.com/gomix">
-				<img src="https://avatars.githubusercontent.com/u/802499?s=72&u=2df5faeb635447ea9a00cfd10f9ae548f52a03f4&v=4" width="24" alt="Avatar of gomix"> gomix
-			</a><br/>
-			Guillermo Gómez
-		</td>
-		<td>@caurimare-labs </td>
-		<td>No Twitter Username</td>
-		<td>Caracas - Venezuela</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>670</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/sysrock18">
 				<img src="https://avatars.githubusercontent.com/u/20133635?s=72&u=fc8022972e82d0eef7af95867c9a3066df3459f6&v=4" width="24" alt="Avatar of sysrock18"> sysrock18
@@ -8815,7 +8828,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/camilotorresf">
 				<img src="https://avatars.githubusercontent.com/u/2879155?s=72&u=7e2d6fd0da9e7b1a2ad73a554b448fca394d9414&v=4" width="24" alt="Avatar of camilotorresf"> camilotorresf
@@ -8828,7 +8841,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/francves">
 				<img src="https://avatars.githubusercontent.com/u/11378996?s=72&u=80e2cac297765f560314afcd3761a7ba8ec2102b&v=4" width="24" alt="Avatar of francves"> francves
@@ -8841,7 +8854,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/dbcode18">
 				<img src="https://avatars.githubusercontent.com/u/48027493?s=72&u=83e2cafd51cd849f8fb087d57a1f1c0d03a9d29f&v=4" width="24" alt="Avatar of dbcode18"> dbcode18
@@ -8854,7 +8867,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/woxip0">
 				<img src="https://avatars.githubusercontent.com/u/1747572?s=72&u=47336022f4f4a305ba7c5d1dfca879e6ec127f6d&v=4" width="24" alt="Avatar of woxip0"> woxip0
@@ -8867,7 +8880,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/ereyes791">
 				<img src="https://avatars.githubusercontent.com/u/13168285?s=72&u=b0c584e6e88b945561b8f8e4c27cad31658f4b58&v=4" width="24" alt="Avatar of ereyes791"> ereyes791
@@ -8880,7 +8893,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/Yesman-coder">
 				<img src="https://avatars.githubusercontent.com/u/62892745?s=72&u=a951a9cd7857324ed6803bade4da243fc3bbfd83&v=4" width="24" alt="Avatar of Yesman-coder"> Yesman-coder
@@ -8893,7 +8906,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/McReiz">
 				<img src="https://avatars.githubusercontent.com/u/1806032?s=72&u=74e6e9044adc155ef7c82800d89b5b5bb9cd0af2&v=4" width="24" alt="Avatar of McReiz"> McReiz
@@ -8906,7 +8919,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/asramirez">
 				<img src="https://avatars.githubusercontent.com/u/36772106?s=72&u=867be8abf4ef9ce026991a543c99eac5370f374e&v=4" width="24" alt="Avatar of asramirez"> asramirez
@@ -8919,7 +8932,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/carlosemoralesm">
 				<img src="https://avatars.githubusercontent.com/u/540389?s=72&u=0a78b771895867340ee186e508ba0e341b5d8977&v=4" width="24" alt="Avatar of carlosemoralesm"> carlosemoralesm
@@ -8932,7 +8945,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>681</td>
+		<td>
+			<a href="https://github.com/gomix">
+				<img src="https://avatars.githubusercontent.com/u/802499?s=72&u=2df5faeb635447ea9a00cfd10f9ae548f52a03f4&v=4" width="24" alt="Avatar of gomix"> gomix
+			</a><br/>
+			Guillermo Gómez
+		</td>
+		<td>@caurimare-labs </td>
+		<td>No Twitter Username</td>
+		<td>Caracas - Venezuela</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/throoze">
 				<img src="https://avatars.githubusercontent.com/u/225679?s=72&v=4" width="24" alt="Avatar of throoze"> throoze
@@ -8945,7 +8971,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/DanielLiraG">
 				<img src="https://avatars.githubusercontent.com/u/51686327?s=72&v=4" width="24" alt="Avatar of DanielLiraG"> DanielLiraG
@@ -8958,7 +8984,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/joerod1">
 				<img src="https://avatars.githubusercontent.com/u/26337790?s=72&u=e044080c1ebd95969db90c9d56600ba2647e385e&v=4" width="24" alt="Avatar of joerod1"> joerod1
@@ -8971,7 +8997,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/LuzneryVera1">
 				<img src="https://avatars.githubusercontent.com/u/13823655?s=72&u=9378729719f6125aab08026d734f27596a56fb75&v=4" width="24" alt="Avatar of LuzneryVera1"> LuzneryVera1
@@ -8984,7 +9010,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/arochaoscar">
 				<img src="https://avatars.githubusercontent.com/u/7518744?s=72&u=6f2939558c5c7ce794e083b4881ddc1bd109b072&v=4" width="24" alt="Avatar of arochaoscar"> arochaoscar
@@ -8997,7 +9023,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/KOAT-20">
 				<img src="https://avatars.githubusercontent.com/u/45703363?s=72&u=3d06d9caf7fc4f8b96e1dcd02e8e53f947ce4225&v=4" width="24" alt="Avatar of KOAT-20"> KOAT-20
@@ -9010,7 +9036,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/darraez">
 				<img src="https://avatars.githubusercontent.com/u/6143301?s=72&v=4" width="24" alt="Avatar of darraez"> darraez
@@ -9023,7 +9049,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/SarahLares">
 				<img src="https://avatars.githubusercontent.com/u/43853571?s=72&u=7168d3c49080cf300392783abd900de8cf562177&v=4" width="24" alt="Avatar of SarahLares"> SarahLares
@@ -9036,7 +9062,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/gquilarque">
 				<img src="https://avatars.githubusercontent.com/u/7597950?s=72&u=31cadf535d5164e162e06cfa20725f8851390bf5&v=4" width="24" alt="Avatar of gquilarque"> gquilarque
@@ -9049,7 +9075,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>689</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/VictorM-DRK">
 				<img src="https://avatars.githubusercontent.com/u/54082018?s=72&u=d98c9d5047828ffd63b46743d7742cd014269d43&v=4" width="24" alt="Avatar of VictorM-DRK"> VictorM-DRK
@@ -9062,7 +9088,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/TomasdelaBarra">
 				<img src="https://avatars.githubusercontent.com/u/18662565?s=72&u=f7821ef1b7ff52d8c389ce1f26bbc0e45ef71346&v=4" width="24" alt="Avatar of TomasdelaBarra"> TomasdelaBarra
@@ -9075,7 +9101,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/kenshin23">
 				<img src="https://avatars.githubusercontent.com/u/1142320?s=72&v=4" width="24" alt="Avatar of kenshin23"> kenshin23
@@ -9088,7 +9114,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/allforonebusiness">
 				<img src="https://avatars.githubusercontent.com/u/45899563?s=72&u=eb5dcd3218b676e55a39d78e95cab719b90160d0&v=4" width="24" alt="Avatar of allforonebusiness"> allforonebusiness
@@ -9101,7 +9127,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/javiloria">
 				<img src="https://avatars.githubusercontent.com/u/34045912?s=72&v=4" width="24" alt="Avatar of javiloria"> javiloria
@@ -9114,7 +9140,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/juanlop9717">
 				<img src="https://avatars.githubusercontent.com/u/30671312?s=72&u=9757d506b3a468a69fdc6435622cd3c83521b72a&v=4" width="24" alt="Avatar of juanlop9717"> juanlop9717
@@ -9127,7 +9153,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/ManuelGuillermoGil">
 				<img src="https://avatars.githubusercontent.com/u/29415834?s=72&u=c56ec77795d2955b88511c8cc150f7c24fbc4a92&v=4" width="24" alt="Avatar of ManuelGuillermoGil"> ManuelGuillermoGil
@@ -9140,7 +9166,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/manuggz">
 				<img src="https://avatars.githubusercontent.com/u/3038365?s=72&u=5ce992a66c2504f97cc2e86086a4d6c569734c9f&v=4" width="24" alt="Avatar of manuggz"> manuggz
@@ -9153,7 +9179,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/migcanedo">
 				<img src="https://avatars.githubusercontent.com/u/18181692?s=72&u=17b2e35103bcaa2ffecd939c1419b2a30c0105af&v=4" width="24" alt="Avatar of migcanedo"> migcanedo
@@ -9166,7 +9192,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/diaznelson">
 				<img src="https://avatars.githubusercontent.com/u/37834013?s=72&v=4" width="24" alt="Avatar of diaznelson"> diaznelson
@@ -9179,7 +9205,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/rruiz3">
 				<img src="https://avatars.githubusercontent.com/u/2716540?s=72&u=a562eb0f5ab1b1a588ecc37e18a89daee71da6e1&v=4" width="24" alt="Avatar of rruiz3"> rruiz3
@@ -9192,20 +9218,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>700</td>
-		<td>
-			<a href="https://github.com/aspicas">
-				<img src="https://avatars.githubusercontent.com/u/9023451?s=72&u=4c664fd57e52738993f041c79147a523652a6f90&v=4" width="24" alt="Avatar of aspicas"> aspicas
-			</a><br/>
-			David Alejandro Garcia Ruiz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Caracas, Venezuela</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>701</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/jenniferdr">
 				<img src="https://avatars.githubusercontent.com/u/226195?s=72&v=4" width="24" alt="Avatar of jenniferdr"> jenniferdr
@@ -9218,7 +9231,33 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>703</td>
+		<td>
+			<a href="https://github.com/aspicas">
+				<img src="https://avatars.githubusercontent.com/u/9023451?s=72&u=4c664fd57e52738993f041c79147a523652a6f90&v=4" width="24" alt="Avatar of aspicas"> aspicas
+			</a><br/>
+			David Alejandro Garcia Ruiz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Caracas, Venezuela</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>704</td>
+		<td>
+			<a href="https://github.com/rogeralberto">
+				<img src="https://avatars.githubusercontent.com/u/7242493?s=72&u=e0effd600fd27cab55f0395dccaf7fb0b039e2aa&v=4" width="24" alt="Avatar of rogeralberto"> rogeralberto
+			</a><br/>
+			Roger Olivares
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Caracas - Venezuela</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/cags12">
 				<img src="https://avatars.githubusercontent.com/u/1692905?s=72&v=4" width="24" alt="Avatar of cags12"> cags12
@@ -9231,7 +9270,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/sldave">
 				<img src="https://avatars.githubusercontent.com/u/16046779?s=72&u=ae4878420066da9f7c62d71e2cbdbba5cb54956f&v=4" width="24" alt="Avatar of sldave"> sldave
@@ -9244,20 +9283,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>704</td>
-		<td>
-			<a href="https://github.com/edbastidas">
-				<img src="https://avatars.githubusercontent.com/u/6976656?s=72&u=061d3afec8f7d2d8dab11b47bf04731a6958bcf3&v=4" width="24" alt="Avatar of edbastidas"> edbastidas
-			</a><br/>
-			Eduard Bastidas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Caracas</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>705</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/Betop0195">
 				<img src="https://avatars.githubusercontent.com/u/34145573?s=72&u=0af04f5a3dbddca2ac37e1b48d784b2636b570e2&v=4" width="24" alt="Avatar of Betop0195"> Betop0195
@@ -9270,7 +9296,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>708</td>
+		<td>
+			<a href="https://github.com/edbastidas">
+				<img src="https://avatars.githubusercontent.com/u/6976656?s=72&u=061d3afec8f7d2d8dab11b47bf04731a6958bcf3&v=4" width="24" alt="Avatar of edbastidas"> edbastidas
+			</a><br/>
+			Eduard Bastidas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Caracas</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/isalcedo">
 				<img src="https://avatars.githubusercontent.com/u/2588745?s=72&u=734948abbc34834c72ffba48b97e1faec9867089&v=4" width="24" alt="Avatar of isalcedo"> isalcedo
@@ -9283,7 +9322,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/CindySalinas">
 				<img src="https://avatars.githubusercontent.com/u/5131882?s=72&u=4b17a15d519c43596e3ad04635d0a05357477b54&v=4" width="24" alt="Avatar of CindySalinas"> CindySalinas
@@ -9296,7 +9335,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/DiegoG1019">
 				<img src="https://avatars.githubusercontent.com/u/61756479?s=72&u=478c1ec1696017db41d1d28cf5e373ce73d78f5c&v=4" width="24" alt="Avatar of DiegoG1019"> DiegoG1019
@@ -9309,7 +9348,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/OscarERH">
 				<img src="https://avatars.githubusercontent.com/u/46170024?s=72&u=713a66e625d3717b982cb0045353e909f693e532&v=4" width="24" alt="Avatar of OscarERH"> OscarERH
@@ -9322,20 +9361,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>710</td>
-		<td>
-			<a href="https://github.com/Gefermanpernia">
-				<img src="https://avatars.githubusercontent.com/u/33972248?s=72&u=5d5973b53c9861d66316ae83071a1deb85e70d8b&v=4" width="24" alt="Avatar of Gefermanpernia"> Gefermanpernia
-			</a><br/>
-			Geferman Pernia
-		</td>
-		<td>Freelancer </td>
-		<td><a href="https://twitter.com/gefermanpernia">gefermanpernia</a></td>
-		<td>Venezuela</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>711</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/jochdev">
 				<img src="https://avatars.githubusercontent.com/u/21144294?s=72&u=5131cf4c2a0e3744d96e6e389bff49b2461c611b&v=4" width="24" alt="Avatar of jochdev"> jochdev
@@ -9348,7 +9374,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/yonaikerlol">
 				<img src="https://avatars.githubusercontent.com/u/39972049?s=72&u=f990782bf6adc4221484a99f37a01f15aaf68ef1&v=4" width="24" alt="Avatar of yonaikerlol"> yonaikerlol
@@ -9361,7 +9387,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/Carligueroa">
 				<img src="https://avatars.githubusercontent.com/u/7309242?s=72&u=3ac2af30e97c68cb9b262904829c2b83fb1e8e63&v=4" width="24" alt="Avatar of Carligueroa"> Carligueroa
@@ -9374,7 +9400,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/quirozcarlos">
 				<img src="https://avatars.githubusercontent.com/u/20915036?s=72&u=db53c3e868852d5e3478d8a8c9f98e4f805ec011&v=4" width="24" alt="Avatar of quirozcarlos"> quirozcarlos
@@ -9384,32 +9410,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/quirozvcarlos">quirozvcarlos</a></td>
 		<td>Venezuela</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>715</td>
-		<td>
-			<a href="https://github.com/oceangravity">
-				<img src="https://avatars.githubusercontent.com/u/5217583?s=72&u=3e3d5b34864193dd66e466682a6f602b87512181&v=4" width="24" alt="Avatar of oceangravity"> oceangravity
-			</a><br/>
-			Juan Carlos Galindo Navarro
-		</td>
-		<td>Riateam </td>
-		<td><a href="https://twitter.com/oceangravity">oceangravity</a></td>
-		<td>Venezuela</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>716</td>
-		<td>
-			<a href="https://github.com/gantoreno">
-				<img src="https://avatars.githubusercontent.com/u/43397475?s=72&u=84e0ec568cbfed52baeaaa3a5a9d592a7470b154&v=4" width="24" alt="Avatar of gantoreno"> gantoreno
-			</a><br/>
-			Gabriel Moreno
-		</td>
-		<td>@cobuildlab </td>
-		<td><a href="https://twitter.com/gantoreno">gantoreno</a></td>
-		<td>Maracaibo, VE</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -9428,14 +9428,14 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>718</td>
 		<td>
-			<a href="https://github.com/JSilversun">
-				<img src="https://avatars.githubusercontent.com/u/26018221?s=72&u=1ac8165d872e141b6f239cffdc233c2bf7426a31&v=4" width="24" alt="Avatar of JSilversun"> JSilversun
+			<a href="https://github.com/oceangravity">
+				<img src="https://avatars.githubusercontent.com/u/5217583?s=72&u=3e3d5b34864193dd66e466682a6f602b87512181&v=4" width="24" alt="Avatar of oceangravity"> oceangravity
 			</a><br/>
-			Julia Suarez
+			Juan Carlos Galindo Navarro
 		</td>
-		<td>Plusteam </td>
-		<td>No Twitter Username</td>
-		<td>Venezuela, San Cristobal</td>
+		<td>Riateam </td>
+		<td><a href="https://twitter.com/oceangravity">oceangravity</a></td>
+		<td>Venezuela</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -9454,6 +9454,32 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>720</td>
 		<td>
+			<a href="https://github.com/gantoreno">
+				<img src="https://avatars.githubusercontent.com/u/43397475?s=72&u=84e0ec568cbfed52baeaaa3a5a9d592a7470b154&v=4" width="24" alt="Avatar of gantoreno"> gantoreno
+			</a><br/>
+			Gabriel Moreno
+		</td>
+		<td>@cobuildlab </td>
+		<td><a href="https://twitter.com/gantoreno">gantoreno</a></td>
+		<td>Maracaibo, VE</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>721</td>
+		<td>
+			<a href="https://github.com/JSilversun">
+				<img src="https://avatars.githubusercontent.com/u/26018221?s=72&u=1ac8165d872e141b6f239cffdc233c2bf7426a31&v=4" width="24" alt="Avatar of JSilversun"> JSilversun
+			</a><br/>
+			Julia Suarez
+		</td>
+		<td>Plusteam </td>
+		<td>No Twitter Username</td>
+		<td>Venezuela, San Cristobal</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>722</td>
+		<td>
 			<a href="https://github.com/ochoadev">
 				<img src="https://avatars.githubusercontent.com/u/30059070?s=72&u=383d5b085c8fb8c87f2cf96f112fb9f02a8444c5&v=4" width="24" alt="Avatar of ochoadev"> ochoadev
 			</a><br/>
@@ -9465,7 +9491,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>723</td>
 		<td>
 			<a href="https://github.com/simonorono">
 				<img src="https://avatars.githubusercontent.com/u/12176276?s=72&v=4" width="24" alt="Avatar of simonorono"> simonorono
@@ -9478,7 +9504,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>724</td>
 		<td>
 			<a href="https://github.com/nardoyala">
 				<img src="https://avatars.githubusercontent.com/u/30394879?s=72&u=13acabdc0bfc4809d55df205b5d335217c10c4c5&v=4" width="24" alt="Avatar of nardoyala"> nardoyala
@@ -9491,7 +9517,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>725</td>
 		<td>
 			<a href="https://github.com/SubjectZeroo">
 				<img src="https://avatars.githubusercontent.com/u/23109862?s=72&u=a52685986fbe50755c80d94b340f1c63abcd0900&v=4" width="24" alt="Avatar of SubjectZeroo"> SubjectZeroo
@@ -9504,20 +9530,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>726</td>
 		<td>
-			<a href="https://github.com/lu-jim">
-				<img src="https://avatars.githubusercontent.com/u/59420634?s=72&u=ce084b960162c0bdf63e42338459cf24830e9054&v=4" width="24" alt="Avatar of lu-jim"> lu-jim
+			<a href="https://github.com/dchaconoca">
+				<img src="https://avatars.githubusercontent.com/u/74699013?s=72&u=dbb65f9487e6cbab53bf044aa5cbd8d23989b66e&v=4" width="24" alt="Avatar of dchaconoca"> dchaconoca
 			</a><br/>
-			Luis Fernando Jiménez
+			Diana Chacón Ocariz
 		</td>
-		<td>Microverse </td>
-		<td><a href="https://twitter.com/lujimhe">lujimhe</a></td>
-		<td>Caracas, Venezuela</td>
+		<td>Independiente </td>
+		<td><a href="https://twitter.com/dchaconoca">dchaconoca</a></td>
+		<td>La Grita - Venezuela</td>
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>725</td>
+		<td>727</td>
 		<td>
 			<a href="https://github.com/ahn-nath">
 				<img src="https://avatars.githubusercontent.com/u/67247850?s=72&u=1bc1007649dcdef53648340af67aaea1747dfdbf&v=4" width="24" alt="Avatar of ahn-nath"> ahn-nath
@@ -9530,7 +9556,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>726</td>
+		<td>728</td>
 		<td>
 			<a href="https://github.com/CristianCala">
 				<img src="https://avatars.githubusercontent.com/u/54130077?s=72&u=356f40815cd9f46a4632c109c1b59e54e54b6d50&v=4" width="24" alt="Avatar of CristianCala"> CristianCala
@@ -9543,7 +9569,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>727</td>
+		<td>729</td>
 		<td>
 			<a href="https://github.com/festovalros">
 				<img src="https://avatars.githubusercontent.com/u/902248?s=72&u=5899cce90a3cb751cca6cd534fd178e20cfcfdc7&v=4" width="24" alt="Avatar of festovalros"> festovalros
@@ -9556,7 +9582,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>728</td>
+		<td>730</td>
+		<td>
+			<a href="https://github.com/achique-luisdan">
+				<img src="https://avatars.githubusercontent.com/u/46081094?s=72&u=641ecb72f21dc97251a2f56f810a8edb7b8e20fc&v=4" width="24" alt="Avatar of achique-luisdan"> achique-luisdan
+			</a><br/>
+			Achique Luis Daniel
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/achique_luisdan">achique_luisdan</a></td>
+		<td>Miranda, Venezuela</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>731</td>
 		<td>
 			<a href="https://github.com/MezzMar">
 				<img src="https://avatars.githubusercontent.com/u/25888252?s=72&u=0b99317e340e23c97691c800ff195ae34b761b46&v=4" width="24" alt="Avatar of MezzMar"> MezzMar
@@ -9569,7 +9608,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>729</td>
+		<td>732</td>
 		<td>
 			<a href="https://github.com/xillegas">
 				<img src="https://avatars.githubusercontent.com/u/46406075?s=72&u=2330765f0f71d7a6bcdb91acf836dced66d25204&v=4" width="24" alt="Avatar of xillegas"> xillegas
@@ -9582,7 +9621,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>730</td>
+		<td>733</td>
 		<td>
 			<a href="https://github.com/thecil">
 				<img src="https://avatars.githubusercontent.com/u/53628989?s=72&u=3313e0c8bf2ac977325b1fe81b95fdc9256bf7d0&v=4" width="24" alt="Avatar of thecil"> thecil
@@ -9595,7 +9634,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>731</td>
+		<td>734</td>
 		<td>
 			<a href="https://github.com/ImMaur0103">
 				<img src="https://avatars.githubusercontent.com/u/73214163?s=72&u=bfa232cde1198068d03443e444a325deea579298&v=4" width="24" alt="Avatar of ImMaur0103"> ImMaur0103
@@ -9608,20 +9647,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>732</td>
-		<td>
-			<a href="https://github.com/NeutronBlast">
-				<img src="https://avatars.githubusercontent.com/u/45906155?s=72&u=a8f90b73b4ca9efabee0b6f8e8a76adeeceb8982&v=4" width="24" alt="Avatar of NeutronBlast"> NeutronBlast
-			</a><br/>
-			S
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>733</td>
+		<td>735</td>
 		<td>
 			<a href="https://github.com/DiegoSalazar27">
 				<img src="https://avatars.githubusercontent.com/u/45908157?s=72&u=d6e77b596623d8edb17d2388159bf7f3546e7424&v=4" width="24" alt="Avatar of DiegoSalazar27"> DiegoSalazar27
@@ -9634,7 +9660,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>734</td>
+		<td>736</td>
 		<td>
 			<a href="https://github.com/efrainmejiasc">
 				<img src="https://avatars.githubusercontent.com/u/28456476?s=72&u=6d58b637dde7eb8b8c751f73366c426b676001b9&v=4" width="24" alt="Avatar of efrainmejiasc"> efrainmejiasc
@@ -9647,7 +9673,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>735</td>
+		<td>737</td>
 		<td>
 			<a href="https://github.com/camicasii">
 				<img src="https://avatars.githubusercontent.com/u/53520083?s=72&u=a6944d58573380e24410ee0e0ca02d5a9023ee34&v=4" width="24" alt="Avatar of camicasii"> camicasii
@@ -9660,42 +9686,16 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>736</td>
+		<td>738</td>
 		<td>
-			<a href="https://github.com/ArtuKILL">
-				<img src="https://avatars.githubusercontent.com/u/39144443?s=72&v=4" width="24" alt="Avatar of ArtuKILL"> ArtuKILL
+			<a href="https://github.com/NeutronBlast">
+				<img src="https://avatars.githubusercontent.com/u/45906155?s=72&u=45e48b36e2d8205c498c0b1c197f6fd5db15eb42&v=4" width="24" alt="Avatar of NeutronBlast"> NeutronBlast
 			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Caracas, Venezuela.</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>737</td>
-		<td>
-			<a href="https://github.com/bl3r3">
-				<img src="https://avatars.githubusercontent.com/u/26201975?s=72&u=2129475d15164d9d84317dc586f5c9f67cbe4328&v=4" width="24" alt="Avatar of bl3r3"> bl3r3
-			</a><br/>
-			Roberto Carrasquel
+			Kai
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>738</td>
-		<td>
-			<a href="https://github.com/jmelendezgeo">
-				<img src="https://avatars.githubusercontent.com/u/73434055?s=72&u=11708af05920a0bbafcdf297dc47c5a8af724d9d&v=4" width="24" alt="Avatar of jmelendezgeo"> jmelendezgeo
-			</a><br/>
-			Jesus Melendez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jmelendezgeo">jmelendezgeo</a></td>
-		<td>Caracas, Venezuela.</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -9714,6 +9714,45 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>740</td>
 		<td>
+			<a href="https://github.com/ArtuKILL">
+				<img src="https://avatars.githubusercontent.com/u/39144443?s=72&v=4" width="24" alt="Avatar of ArtuKILL"> ArtuKILL
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Caracas, Venezuela.</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>741</td>
+		<td>
+			<a href="https://github.com/bl3r3">
+				<img src="https://avatars.githubusercontent.com/u/26201975?s=72&u=2129475d15164d9d84317dc586f5c9f67cbe4328&v=4" width="24" alt="Avatar of bl3r3"> bl3r3
+			</a><br/>
+			Roberto Carrasquel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>742</td>
+		<td>
+			<a href="https://github.com/jmelendezgeo">
+				<img src="https://avatars.githubusercontent.com/u/73434055?s=72&u=11708af05920a0bbafcdf297dc47c5a8af724d9d&v=4" width="24" alt="Avatar of jmelendezgeo"> jmelendezgeo
+			</a><br/>
+			Jesus Melendez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jmelendezgeo">jmelendezgeo</a></td>
+		<td>Caracas, Venezuela.</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>743</td>
+		<td>
 			<a href="https://github.com/jhscode10">
 				<img src="https://avatars.githubusercontent.com/u/70250918?s=72&u=67c1c2fb3306d18c596fac1baddc463384548701&v=4" width="24" alt="Avatar of jhscode10"> jhscode10
 			</a><br/>
@@ -9725,7 +9764,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>741</td>
+		<td>744</td>
 		<td>
 			<a href="https://github.com/anventech">
 				<img src="https://avatars.githubusercontent.com/u/73440631?s=72&u=e9cf3f6dd074a99e913d5b95e03d5ee8c94e7efb&v=4" width="24" alt="Avatar of anventech"> anventech
@@ -9738,7 +9777,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>742</td>
+		<td>745</td>
 		<td>
 			<a href="https://github.com/mhliebano">
 				<img src="https://avatars.githubusercontent.com/u/7358057?s=72&u=ea175690b3248e3abdc896cddde73dd06793113e&v=4" width="24" alt="Avatar of mhliebano"> mhliebano
@@ -9751,7 +9790,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>743</td>
+		<td>746</td>
+		<td>
+			<a href="https://github.com/JanDez">
+				<img src="https://avatars.githubusercontent.com/u/28764739?s=72&u=998543bf39609e8fb95f6f91b0908c720de46a42&v=4" width="24" alt="Avatar of JanDez"> JanDez
+			</a><br/>
+			Jaifran Hernández
+		</td>
+		<td>Self Employee </td>
+		<td><a href="https://twitter.com/JanDez">JanDez</a></td>
+		<td>Caracas</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>747</td>
 		<td>
 			<a href="https://github.com/luisbello30">
 				<img src="https://avatars.githubusercontent.com/u/3742594?s=72&u=f7b7d0d3ed7f0e32b2c26ca7a35b57f8ec94e554&v=4" width="24" alt="Avatar of luisbello30"> luisbello30
@@ -9764,7 +9816,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>744</td>
+		<td>748</td>
 		<td>
 			<a href="https://github.com/edabrito7">
 				<img src="https://avatars.githubusercontent.com/u/67392231?s=72&u=122707f3824c9d4497ef41acdc7ac738bea738cd&v=4" width="24" alt="Avatar of edabrito7"> edabrito7
@@ -9777,7 +9829,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>745</td>
+		<td>749</td>
 		<td>
 			<a href="https://github.com/hackhit">
 				<img src="https://avatars.githubusercontent.com/u/419530?s=72&u=a87b6577838ca70cf0d41e05dfa2a624fe5b2317&v=4" width="24" alt="Avatar of hackhit"> hackhit
@@ -9790,7 +9842,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>746</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/Brian00111">
 				<img src="https://avatars.githubusercontent.com/u/72288072?s=72&u=cc3bc836c544b2511824766950f77b04ba627a37&v=4" width="24" alt="Avatar of Brian00111"> Brian00111
@@ -9803,7 +9855,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/LetMeDream">
 				<img src="https://avatars.githubusercontent.com/u/17774989?s=72&u=c16731c647b14e970c69bdb59d79ddc93aa7af6f&v=4" width="24" alt="Avatar of LetMeDream"> LetMeDream
@@ -9816,20 +9868,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>748</td>
-		<td>
-			<a href="https://github.com/cristyan12">
-				<img src="https://avatars.githubusercontent.com/u/1977093?s=72&v=4" width="24" alt="Avatar of cristyan12"> cristyan12
-			</a><br/>
-			Cristyan Valera
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Guanare, Venezuela</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>749</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/clustersnake">
 				<img src="https://avatars.githubusercontent.com/u/16407149?s=72&u=4ef0a593ab473d0b3d6f3ef90ef2e2a0a7b67a20&v=4" width="24" alt="Avatar of clustersnake"> clustersnake
@@ -9842,20 +9881,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>750</td>
-		<td>
-			<a href="https://github.com/jacintodavila">
-				<img src="https://avatars.githubusercontent.com/u/5183347?s=72&u=eafa2804951553b0a10be87173a4cbe90f554640&v=4" width="24" alt="Avatar of jacintodavila"> jacintodavila
-			</a><br/>
-			Jacinto Davila
-		</td>
-		<td>Universidad De Los Andes<br/></td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>751</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/GerardoAGL96">
 				<img src="https://avatars.githubusercontent.com/u/22962147?s=72&u=f65b5b6ede8fca40c00ac5076ebd58aba2b82a61&v=4" width="24" alt="Avatar of GerardoAGL96"> GerardoAGL96
@@ -9868,7 +9894,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/tizianaamica">
 				<img src="https://avatars.githubusercontent.com/u/20937715?s=72&u=645f1796bdf094dadd0947dd312dcacc3e1ddf29&v=4" width="24" alt="Avatar of tizianaamica"> tizianaamica
@@ -9881,7 +9907,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>755</td>
+		<td>
+			<a href="https://github.com/jacintodavila">
+				<img src="https://avatars.githubusercontent.com/u/5183347?s=72&u=eafa2804951553b0a10be87173a4cbe90f554640&v=4" width="24" alt="Avatar of jacintodavila"> jacintodavila
+			</a><br/>
+			Jacinto Davila
+		</td>
+		<td>Universidad De Los Andes<br/></td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/hbourgeot">
 				<img src="https://avatars.githubusercontent.com/u/85085805?s=72&u=5fb549048554ea259bf4bc1fbf6cc9d5cbfcdf25&v=4" width="24" alt="Avatar of hbourgeot"> hbourgeot
@@ -9894,7 +9933,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/AibersonDev">
 				<img src="https://avatars.githubusercontent.com/u/69764582?s=72&u=5099cb02a6dc5712a7ce82b6da861bad78299edc&v=4" width="24" alt="Avatar of AibersonDev"> AibersonDev
@@ -9907,7 +9946,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/Cuaulma">
 				<img src="https://avatars.githubusercontent.com/u/66890283?s=72&u=5da493d65fe2edc60892f00f0ab33a333ed93f80&v=4" width="24" alt="Avatar of Cuaulma"> Cuaulma
@@ -9920,7 +9959,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/britojq">
 				<img src="https://avatars.githubusercontent.com/u/7925016?s=72&u=7e572d2888c4e61625fde9e1515d5fa839518b2e&v=4" width="24" alt="Avatar of britojq"> britojq
@@ -9933,7 +9972,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>760</td>
+		<td>
+			<a href="https://github.com/cristyan12">
+				<img src="https://avatars.githubusercontent.com/u/1977093?s=72&v=4" width="24" alt="Avatar of cristyan12"> cristyan12
+			</a><br/>
+			Cristyan Valera
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Guanare, Venezuela</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/VncoDev">
 				<img src="https://avatars.githubusercontent.com/u/82989586?s=72&u=2c2a5f3975e475042799dfdb40eca04bcc1018fc&v=4" width="24" alt="Avatar of VncoDev"> VncoDev
@@ -9946,7 +9998,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/AliLorentz">
 				<img src="https://avatars.githubusercontent.com/u/45041345?s=72&u=fee2186ae80b8bbce3f0fff803d8b83a950586a4&v=4" width="24" alt="Avatar of AliLorentz"> AliLorentz
@@ -9959,7 +10011,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/wolerdev">
 				<img src="https://avatars.githubusercontent.com/u/60631953?s=72&u=a05e64a8b312990414165c8a44328a4c6ef21789&v=4" width="24" alt="Avatar of wolerdev"> wolerdev
@@ -9972,33 +10024,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>760</td>
-		<td>
-			<a href="https://github.com/carloscercado">
-				<img src="https://avatars.githubusercontent.com/u/21689800?s=72&u=792713b0a792b423132ded088f343f47bcdc9793&v=4" width="24" alt="Avatar of carloscercado"> carloscercado
-			</a><br/>
-			Carlos Cercado
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>761</td>
-		<td>
-			<a href="https://github.com/Dunnomix">
-				<img src="https://avatars.githubusercontent.com/u/10387379?s=72&v=4" width="24" alt="Avatar of Dunnomix"> Dunnomix
-			</a><br/>
-			Javier Mejias
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maracaibo, Venezuela</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>762</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/dracobk201">
 				<img src="https://avatars.githubusercontent.com/u/8491957?s=72&u=9135e5894a7754193804f9071d8aec5a80337975&v=4" width="24" alt="Avatar of dracobk201"> dracobk201
@@ -10011,7 +10037,33 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>765</td>
+		<td>
+			<a href="https://github.com/carloscercado">
+				<img src="https://avatars.githubusercontent.com/u/21689800?s=72&u=792713b0a792b423132ded088f343f47bcdc9793&v=4" width="24" alt="Avatar of carloscercado"> carloscercado
+			</a><br/>
+			Carlos Cercado
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>766</td>
+		<td>
+			<a href="https://github.com/Dunnomix">
+				<img src="https://avatars.githubusercontent.com/u/10387379?s=72&v=4" width="24" alt="Avatar of Dunnomix"> Dunnomix
+			</a><br/>
+			Javier Mejias
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maracaibo, Venezuela</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/jorgebarrero">
 				<img src="https://avatars.githubusercontent.com/u/3620375?s=72&u=7a2fb953677058223ae0a880937ba60b8f6b5aca&v=4" width="24" alt="Avatar of jorgebarrero"> jorgebarrero
@@ -10024,20 +10076,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>764</td>
-		<td>
-			<a href="https://github.com/michelnovellino">
-				<img src="https://avatars.githubusercontent.com/u/19700255?s=72&u=557b9d2f759557175da8759e00f4f61037066ac0&v=4" width="24" alt="Avatar of michelnovellino"> michelnovellino
-			</a><br/>
-			Michel Novellino
-		</td>
-		<td>@bazamideas  </td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>765</td>
+		<td>768</td>
 		<td>
 			<a href="https://github.com/ambarsquintana">
 				<img src="https://avatars.githubusercontent.com/u/21182339?s=72&u=42b44d06a86ba2e30d4729bd2fe5b4cf26055f58&v=4" width="24" alt="Avatar of ambarsquintana"> ambarsquintana
@@ -10050,7 +10089,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>769</td>
 		<td>
 			<a href="https://github.com/jlctmaster">
 				<img src="https://avatars.githubusercontent.com/u/2789271?s=72&v=4" width="24" alt="Avatar of jlctmaster"> jlctmaster
@@ -10063,7 +10102,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>770</td>
 		<td>
 			<a href="https://github.com/lajolari">
 				<img src="https://avatars.githubusercontent.com/u/23634540?s=72&u=af4417a7d3d09b8da684fdf9d1c5b0af3d051da9&v=4" width="24" alt="Avatar of lajolari"> lajolari
@@ -10076,7 +10115,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>771</td>
+		<td>
+			<a href="https://github.com/michelnovellino">
+				<img src="https://avatars.githubusercontent.com/u/19700255?s=72&u=557b9d2f759557175da8759e00f4f61037066ac0&v=4" width="24" alt="Avatar of michelnovellino"> michelnovellino
+			</a><br/>
+			Michel Novellino
+		</td>
+		<td>@bazamideas  </td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>772</td>
 		<td>
 			<a href="https://github.com/Osman8a">
 				<img src="https://avatars.githubusercontent.com/u/22961729?s=72&u=d73b382384bfaa34e5e4c90d5089411a3d49c53f&v=4" width="24" alt="Avatar of Osman8a"> Osman8a
@@ -10089,7 +10141,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>773</td>
 		<td>
 			<a href="https://github.com/cdbullones">
 				<img src="https://avatars.githubusercontent.com/u/12522911?s=72&u=9c8872d030ca520309f7934071b7ad156aada63a&v=4" width="24" alt="Avatar of cdbullones"> cdbullones
@@ -10102,7 +10154,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>774</td>
 		<td>
 			<a href="https://github.com/rafucisneros">
 				<img src="https://avatars.githubusercontent.com/u/32278088?s=72&u=e5253d6fee6597e937897ca2f480851bad3827f5&v=4" width="24" alt="Avatar of rafucisneros"> rafucisneros
@@ -10115,7 +10167,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>775</td>
 		<td>
 			<a href="https://github.com/joseamaita">
 				<img src="https://avatars.githubusercontent.com/u/20431998?s=72&u=305087838ca881683fe38e3cab9493224d6cecfa&v=4" width="24" alt="Avatar of joseamaita"> joseamaita
@@ -10128,7 +10180,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>776</td>
 		<td>
 			<a href="https://github.com/deividcode">
 				<img src="https://avatars.githubusercontent.com/u/54855093?s=72&u=c1d9bae0e62912741aab1d081a068d9eef224e23&v=4" width="24" alt="Avatar of deividcode"> deividcode
@@ -10141,7 +10193,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>777</td>
+		<td>
+			<a href="https://github.com/ivanrlg">
+				<img src="https://avatars.githubusercontent.com/u/21310111?s=72&u=7dd845059895cff1e5cd59d1bb9305e70439b036&v=4" width="24" alt="Avatar of ivanrlg"> ivanrlg
+			</a><br/>
+			Ivan Labrador
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>778</td>
 		<td>
 			<a href="https://github.com/Unstoppable7">
 				<img src="https://avatars.githubusercontent.com/u/19448390?s=72&u=ca09c973712caf832e4bfffceb1ba753976ebb23&v=4" width="24" alt="Avatar of Unstoppable7"> Unstoppable7
@@ -10154,7 +10219,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>779</td>
 		<td>
 			<a href="https://github.com/soydavidarteaga">
 				<img src="https://avatars.githubusercontent.com/u/16049070?s=72&u=77689462692b11a3814b09a8de29090bd4667a96&v=4" width="24" alt="Avatar of soydavidarteaga"> soydavidarteaga
@@ -10167,7 +10232,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>780</td>
 		<td>
 			<a href="https://github.com/soyluismunoz">
 				<img src="https://avatars.githubusercontent.com/u/28053622?s=72&u=257865382ba0911c3ff604120c1d666393e632c9&v=4" width="24" alt="Avatar of soyluismunoz"> soyluismunoz
@@ -10180,7 +10245,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>781</td>
 		<td>
 			<a href="https://github.com/thenixontorres">
 				<img src="https://avatars.githubusercontent.com/u/15004555?s=72&u=db91723b150217dd323855a60610923a70563541&v=4" width="24" alt="Avatar of thenixontorres"> thenixontorres
@@ -10193,7 +10258,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/systemson">
 				<img src="https://avatars.githubusercontent.com/u/32528630?s=72&u=b8dbd22b6f96c26a52c52f63a584bec46100fa86&v=4" width="24" alt="Avatar of systemson"> systemson
@@ -10206,7 +10271,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>783</td>
 		<td>
 			<a href="https://github.com/Capf96">
 				<img src="https://avatars.githubusercontent.com/u/32279631?s=72&u=3b06a73fe74d6322172fe4a195e57e4bb2183be8&v=4" width="24" alt="Avatar of Capf96"> Capf96
@@ -10219,7 +10284,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>784</td>
 		<td>
 			<a href="https://github.com/Invernon">
 				<img src="https://avatars.githubusercontent.com/u/18130949?s=72&u=d4f73f513eb0ed47c1a2c56ea6e59a2e06568246&v=4" width="24" alt="Avatar of Invernon"> Invernon
@@ -10232,7 +10297,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>785</td>
 		<td>
 			<a href="https://github.com/LuisJoseLopezD">
 				<img src="https://avatars.githubusercontent.com/u/45377927?s=72&u=eaf96f3fd2fbc074336a9a86d373c0e6554c79c2&v=4" width="24" alt="Avatar of LuisJoseLopezD"> LuisJoseLopezD
@@ -10245,7 +10310,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/robersongarcia">
 				<img src="https://avatars.githubusercontent.com/u/54471356?s=72&u=f246fe462ca933db3773734179b30b161402e6b3&v=4" width="24" alt="Avatar of robersongarcia"> robersongarcia
@@ -10258,7 +10323,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>782</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/luisveck">
 				<img src="https://avatars.githubusercontent.com/u/28517829?s=72&u=e378d24317b692ce4add2452ca5e925c016eaeee&v=4" width="24" alt="Avatar of luisveck"> luisveck
@@ -10271,20 +10336,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>783</td>
-		<td>
-			<a href="https://github.com/Limoctan">
-				<img src="https://avatars.githubusercontent.com/u/42892320?s=72&u=36f7b78638a9b261ef6c28211cc2e17f05492f0f&v=4" width="24" alt="Avatar of Limoctan"> Limoctan
-			</a><br/>
-			Jhonatan Brito
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nueva Esparta, Venezuela</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>784</td>
+		<td>788</td>
 		<td>
 			<a href="https://github.com/hendry19901990">
 				<img src="https://avatars.githubusercontent.com/u/13169230?s=72&u=c684e65d9d687605c5576a5a6075c0f87adfb366&v=4" width="24" alt="Avatar of hendry19901990"> hendry19901990
@@ -10297,7 +10349,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>785</td>
+		<td>789</td>
 		<td>
 			<a href="https://github.com/oxavibes">
 				<img src="https://avatars.githubusercontent.com/u/8161360?s=72&v=4" width="24" alt="Avatar of oxavibes"> oxavibes
@@ -10310,7 +10362,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>790</td>
+		<td>
+			<a href="https://github.com/Limoctan">
+				<img src="https://avatars.githubusercontent.com/u/42892320?s=72&u=36f7b78638a9b261ef6c28211cc2e17f05492f0f&v=4" width="24" alt="Avatar of Limoctan"> Limoctan
+			</a><br/>
+			Jhonatan Brito
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nueva Esparta, Venezuela</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>791</td>
 		<td>
 			<a href="https://github.com/NoraimarMora">
 				<img src="https://avatars.githubusercontent.com/u/18742284?s=72&v=4" width="24" alt="Avatar of NoraimarMora"> NoraimarMora
@@ -10323,7 +10388,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>792</td>
 		<td>
 			<a href="https://github.com/joseluisjb1990">
 				<img src="https://avatars.githubusercontent.com/u/5798975?s=72&u=28dd9b47149540989193cd5beab0c5154df9cfa6&v=4" width="24" alt="Avatar of joseluisjb1990"> joseluisjb1990
@@ -10336,7 +10401,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>793</td>
 		<td>
 			<a href="https://github.com/alonfigue">
 				<img src="https://avatars.githubusercontent.com/u/65868683?s=72&u=3274525b87ed7598b83a5079f1851504a3161fbb&v=4" width="24" alt="Avatar of alonfigue"> alonfigue
@@ -10349,7 +10414,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>789</td>
+		<td>794</td>
 		<td>
 			<a href="https://github.com/brayanduranvelasquez">
 				<img src="https://avatars.githubusercontent.com/u/61452566?s=72&u=dfa7b3a2e328952fc599a416581d8026e1d47092&v=4" width="24" alt="Avatar of brayanduranvelasquez"> brayanduranvelasquez
@@ -10362,7 +10427,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>790</td>
+		<td>795</td>
 		<td>
 			<a href="https://github.com/hdcr1985">
 				<img src="https://avatars.githubusercontent.com/u/11522493?s=72&u=786583fa55824625baf6bf70969b7756d1855982&v=4" width="24" alt="Avatar of hdcr1985"> hdcr1985
@@ -10375,7 +10440,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>791</td>
+		<td>796</td>
 		<td>
 			<a href="https://github.com/ajlongart">
 				<img src="https://avatars.githubusercontent.com/u/26236929?s=72&u=5154f2b45b7fb3cac299c2cfc789339c7454e76b&v=4" width="24" alt="Avatar of ajlongart"> ajlongart
@@ -10388,7 +10453,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>792</td>
+		<td>797</td>
 		<td>
 			<a href="https://github.com/matajmSoluciones">
 				<img src="https://avatars.githubusercontent.com/u/9389377?s=72&u=9d1dc0f6538637854a1e718caeb05ab6a5fe7d12&v=4" width="24" alt="Avatar of matajmSoluciones"> matajmSoluciones
@@ -10401,7 +10466,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>793</td>
+		<td>798</td>
 		<td>
 			<a href="https://github.com/carloslvm">
 				<img src="https://avatars.githubusercontent.com/u/44249546?s=72&u=07790aad5b3c172fbdd76d5a470a487a159e4623&v=4" width="24" alt="Avatar of carloslvm"> carloslvm
@@ -10414,7 +10479,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>794</td>
+		<td>799</td>
 		<td>
 			<a href="https://github.com/jaimesbga">
 				<img src="https://avatars.githubusercontent.com/u/50469507?s=72&u=9128b691e93480047032c33aedb9a76c67c3426a&v=4" width="24" alt="Avatar of jaimesbga"> jaimesbga
@@ -10427,7 +10492,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>795</td>
+		<td>800</td>
 		<td>
 			<a href="https://github.com/Dymanik">
 				<img src="https://avatars.githubusercontent.com/u/1354956?s=72&v=4" width="24" alt="Avatar of Dymanik"> Dymanik
@@ -10440,7 +10505,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>796</td>
+		<td>801</td>
 		<td>
 			<a href="https://github.com/kolrinah">
 				<img src="https://avatars.githubusercontent.com/u/5932883?s=72&u=8b7d1c32b133eebffe96230611481a5c30295340&v=4" width="24" alt="Avatar of kolrinah"> kolrinah
@@ -10453,7 +10518,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>797</td>
+		<td>802</td>
 		<td>
 			<a href="https://github.com/pcamilo89">
 				<img src="https://avatars.githubusercontent.com/u/655782?s=72&v=4" width="24" alt="Avatar of pcamilo89"> pcamilo89
@@ -10466,7 +10531,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>798</td>
+		<td>803</td>
 		<td>
 			<a href="https://github.com/jossy19">
 				<img src="https://avatars.githubusercontent.com/u/12237375?s=72&u=c0692a22b607409b76d2ff7f532f93613f79286a&v=4" width="24" alt="Avatar of jossy19"> jossy19
@@ -10479,7 +10544,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>799</td>
+		<td>804</td>
 		<td>
 			<a href="https://github.com/annynkr">
 				<img src="https://avatars.githubusercontent.com/u/11779132?s=72&u=fbfcfb051f86b3b59a3242302d6e0ed6e934d4ff&v=4" width="24" alt="Avatar of annynkr"> annynkr
@@ -10492,7 +10557,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>800</td>
+		<td>805</td>
 		<td>
 			<a href="https://github.com/annemarierolo">
 				<img src="https://avatars.githubusercontent.com/u/15096797?s=72&u=c18618a820b73131283188ea69aafb73826cf1da&v=4" width="24" alt="Avatar of annemarierolo"> annemarierolo
@@ -10505,7 +10570,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>801</td>
+		<td>806</td>
 		<td>
 			<a href="https://github.com/Nicolle-S">
 				<img src="https://avatars.githubusercontent.com/u/20374634?s=72&u=7ac6749025fe657209f5ecbc35115d5728355b33&v=4" width="24" alt="Avatar of Nicolle-S"> Nicolle-S
@@ -10518,7 +10583,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>802</td>
+		<td>807</td>
 		<td>
 			<a href="https://github.com/AlexGam">
 				<img src="https://avatars.githubusercontent.com/u/11688229?s=72&v=4" width="24" alt="Avatar of AlexGam"> AlexGam
@@ -10531,7 +10596,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>803</td>
+		<td>808</td>
 		<td>
 			<a href="https://github.com/tecnologoweb">
 				<img src="https://avatars.githubusercontent.com/u/651420?s=72&v=4" width="24" alt="Avatar of tecnologoweb"> tecnologoweb
@@ -10544,7 +10609,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>804</td>
+		<td>809</td>
 		<td>
 			<a href="https://github.com/Samuelab2">
 				<img src="https://avatars.githubusercontent.com/u/45796914?s=72&u=a436bfb2d4b5463d4a70f998ab16c165c182c508&v=4" width="24" alt="Avatar of Samuelab2"> Samuelab2
@@ -10557,7 +10622,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>805</td>
+		<td>810</td>
 		<td>
 			<a href="https://github.com/adrianaedc">
 				<img src="https://avatars.githubusercontent.com/u/17553755?s=72&u=a1fa4004d7ba738555ce9e91c3b7a52529b2582e&v=4" width="24" alt="Avatar of adrianaedc"> adrianaedc
@@ -10570,7 +10635,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>806</td>
+		<td>811</td>
 		<td>
 			<a href="https://github.com/hospino">
 				<img src="https://avatars.githubusercontent.com/u/9301507?s=72&u=619d58cd24c5d5abdf005d8374f38584cc971d46&v=4" width="24" alt="Avatar of hospino"> hospino
@@ -10583,7 +10648,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>807</td>
+		<td>812</td>
 		<td>
 			<a href="https://github.com/geopelia">
 				<img src="https://avatars.githubusercontent.com/u/776124?s=72&v=4" width="24" alt="Avatar of geopelia"> geopelia
@@ -10596,7 +10661,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>808</td>
+		<td>813</td>
 		<td>
 			<a href="https://github.com/slayerfat">
 				<img src="https://avatars.githubusercontent.com/u/7544518?s=72&u=719e09c7812ec494062e3e93599a95f69af27a42&v=4" width="24" alt="Avatar of slayerfat"> slayerfat
@@ -10609,7 +10674,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>809</td>
+		<td>814</td>
 		<td>
 			<a href="https://github.com/danielcfe">
 				<img src="https://avatars.githubusercontent.com/u/1497514?s=72&v=4" width="24" alt="Avatar of danielcfe"> danielcfe
@@ -10622,7 +10687,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>810</td>
+		<td>815</td>
 		<td>
 			<a href="https://github.com/Giulianne17">
 				<img src="https://avatars.githubusercontent.com/u/38994700?s=72&u=931bd1614288e44f9c2aef5f85316ba1e3fe5486&v=4" width="24" alt="Avatar of Giulianne17"> Giulianne17
@@ -10635,20 +10700,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>811</td>
-		<td>
-			<a href="https://github.com/rogeralberto">
-				<img src="https://avatars.githubusercontent.com/u/7242493?s=72&u=e0effd600fd27cab55f0395dccaf7fb0b039e2aa&v=4" width="24" alt="Avatar of rogeralberto"> rogeralberto
-			</a><br/>
-			Roger Olivares
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Caracas - Venezuela</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>812</td>
+		<td>816</td>
 		<td>
 			<a href="https://github.com/maribastiani">
 				<img src="https://avatars.githubusercontent.com/u/40639956?s=72&u=65c4e12505acce7eac8eb025c357671196f0f1e5&v=4" width="24" alt="Avatar of maribastiani"> maribastiani
@@ -10661,7 +10713,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>813</td>
+		<td>817</td>
 		<td>
 			<a href="https://github.com/Thalroga">
 				<img src="https://avatars.githubusercontent.com/u/20603020?s=72&u=48dce005f6e4e264adcebc5409274e88d985ab79&v=4" width="24" alt="Avatar of Thalroga"> Thalroga
@@ -10674,7 +10726,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>814</td>
+		<td>818</td>
 		<td>
 			<a href="https://github.com/citricn">
 				<img src="https://avatars.githubusercontent.com/u/1703940?s=72&v=4" width="24" alt="Avatar of citricn"> citricn
@@ -10687,7 +10739,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>815</td>
+		<td>819</td>
 		<td>
 			<a href="https://github.com/Joseandresfr1">
 				<img src="https://avatars.githubusercontent.com/u/17917126?s=72&u=eabd4d1c5b4119341c3a4cc918d23879d07e9efa&v=4" width="24" alt="Avatar of Joseandresfr1"> Joseandresfr1
@@ -10700,7 +10752,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>816</td>
+		<td>820</td>
 		<td>
 			<a href="https://github.com/ecubillanleon">
 				<img src="https://avatars.githubusercontent.com/u/26422479?s=72&u=36cb8eb57bfbecafe5304e7792791fc95757440b&v=4" width="24" alt="Avatar of ecubillanleon"> ecubillanleon
@@ -10713,7 +10765,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>817</td>
+		<td>821</td>
 		<td>
 			<a href="https://github.com/argenisfd">
 				<img src="https://avatars.githubusercontent.com/u/2146720?s=72&u=5159ea3b36ed86bfba6529def6bb9281de2c3307&v=4" width="24" alt="Avatar of argenisfd"> argenisfd
@@ -10726,7 +10778,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>818</td>
+		<td>822</td>
 		<td>
 			<a href="https://github.com/rompea">
 				<img src="https://avatars.githubusercontent.com/u/12222996?s=72&u=39fda01c2ac5340a263b359ee858683d577a8233&v=4" width="24" alt="Avatar of rompea"> rompea
@@ -10739,7 +10791,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>819</td>
+		<td>823</td>
 		<td>
 			<a href="https://github.com/Jalkhov">
 				<img src="https://avatars.githubusercontent.com/u/36505934?s=72&u=b54eac068d640102b5005c7cea94a325695c9d99&v=4" width="24" alt="Avatar of Jalkhov"> Jalkhov
@@ -10752,7 +10804,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>820</td>
+		<td>824</td>
 		<td>
 			<a href="https://github.com/xkevin190">
 				<img src="https://avatars.githubusercontent.com/u/37220428?s=72&u=ab3772cccd70e0901d890c5b45363a5076d52174&v=4" width="24" alt="Avatar of xkevin190"> xkevin190
@@ -10765,7 +10817,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>821</td>
+		<td>825</td>
+		<td>
+			<a href="https://github.com/dbriceno10">
+				<img src="https://avatars.githubusercontent.com/u/77646379?s=72&u=fcef8132a7b5b4d969ad4bc674bc9316b1f7b4fb&v=4" width="24" alt="Avatar of dbriceno10"> dbriceno10
+			</a><br/>
+			Daniel Briceño
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>826</td>
 		<td>
 			<a href="https://github.com/andresjosehr">
 				<img src="https://avatars.githubusercontent.com/u/41441113?s=72&u=5a7275354fec325cd878b105cda130dbe165dc07&v=4" width="24" alt="Avatar of andresjosehr"> andresjosehr
@@ -10778,7 +10843,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>822</td>
+		<td>827</td>
 		<td>
 			<a href="https://github.com/rjvelazco">
 				<img src="https://avatars.githubusercontent.com/u/72418962?s=72&u=041abd0ca476ac0c321561951fa76c7d920e34fb&v=4" width="24" alt="Avatar of rjvelazco"> rjvelazco
@@ -10791,7 +10856,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>823</td>
+		<td>828</td>
 		<td>
 			<a href="https://github.com/tommygonzaleza">
 				<img src="https://avatars.githubusercontent.com/u/56565994?s=72&u=4f0083807dbbd4791f3602722c6c1d7d92209cf5&v=4" width="24" alt="Avatar of tommygonzaleza"> tommygonzaleza
@@ -10804,7 +10869,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>824</td>
+		<td>829</td>
 		<td>
 			<a href="https://github.com/mois3x">
 				<img src="https://avatars.githubusercontent.com/u/5833678?s=72&u=96c94e330f1de3e93c3f2e67e10ed1109b715a37&v=4" width="24" alt="Avatar of mois3x"> mois3x
@@ -10817,20 +10882,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>825</td>
-		<td>
-			<a href="https://github.com/daluisgarcia">
-				<img src="https://avatars.githubusercontent.com/u/53272865?s=72&u=4e03b99096b458385bdd86a6cc03e3e419b4290d&v=4" width="24" alt="Avatar of daluisgarcia"> daluisgarcia
-			</a><br/>
-			Daniel Luis
-		</td>
-		<td>Arötech </td>
-		<td><a href="https://twitter.com/daluisgarcia">daluisgarcia</a></td>
-		<td>Caracas, Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>826</td>
+		<td>830</td>
 		<td>
 			<a href="https://github.com/alessandrovaru">
 				<img src="https://avatars.githubusercontent.com/u/22670763?s=72&u=9629715badbd15bce49ed768040a0af2ff1a158a&v=4" width="24" alt="Avatar of alessandrovaru"> alessandrovaru
@@ -10843,7 +10895,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>827</td>
+		<td>831</td>
+		<td>
+			<a href="https://github.com/daluisgarcia">
+				<img src="https://avatars.githubusercontent.com/u/53272865?s=72&u=4e03b99096b458385bdd86a6cc03e3e419b4290d&v=4" width="24" alt="Avatar of daluisgarcia"> daluisgarcia
+			</a><br/>
+			Daniel Luis
+		</td>
+		<td>Arötech </td>
+		<td><a href="https://twitter.com/daluisgarcia">daluisgarcia</a></td>
+		<td>Caracas, Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>832</td>
 		<td>
 			<a href="https://github.com/publicdomain">
 				<img src="https://avatars.githubusercontent.com/u/54631779?s=72&u=c91c16a9382415b625f473bf3fa6544213c5bd90&v=4" width="24" alt="Avatar of publicdomain"> publicdomain
@@ -10856,7 +10921,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>828</td>
+		<td>833</td>
 		<td>
 			<a href="https://github.com/nisa6delgado">
 				<img src="https://avatars.githubusercontent.com/u/32085862?s=72&u=464591029d3daa33fc959f1f8f7a65c25c7eeb31&v=4" width="24" alt="Avatar of nisa6delgado"> nisa6delgado
@@ -10869,20 +10934,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>829</td>
-		<td>
-			<a href="https://github.com/Haggets">
-				<img src="https://avatars.githubusercontent.com/u/70298382?s=72&u=64fa26563ed2ac6c882b9e0f435b6ff985ce1540&v=4" width="24" alt="Avatar of Haggets"> Haggets
-			</a><br/>
-			Haggets
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Haggetss">Haggetss</a></td>
-		<td>Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>830</td>
+		<td>834</td>
 		<td>
 			<a href="https://github.com/DarwinLozada">
 				<img src="https://avatars.githubusercontent.com/u/48458915?s=72&u=1edf22f9900ba392b6b16c18a5d0f59e8f3cc2b3&v=4" width="24" alt="Avatar of DarwinLozada"> DarwinLozada
@@ -10895,7 +10947,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>831</td>
+		<td>835</td>
 		<td>
 			<a href="https://github.com/t1t0">
 				<img src="https://avatars.githubusercontent.com/u/1810658?s=72&u=a1da5131cde3cc6735e01f6ad56ef1ac9646f6e9&v=4" width="24" alt="Avatar of t1t0"> t1t0
@@ -10908,7 +10960,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>832</td>
+		<td>836</td>
 		<td>
 			<a href="https://github.com/mitri-dvp">
 				<img src="https://avatars.githubusercontent.com/u/54691546?s=72&u=4fee258247780a2e4a05322fb57095c136efe4d5&v=4" width="24" alt="Avatar of mitri-dvp"> mitri-dvp
@@ -10921,7 +10973,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>833</td>
+		<td>837</td>
 		<td>
 			<a href="https://github.com/victorsuarezis">
 				<img src="https://avatars.githubusercontent.com/u/13411451?s=72&v=4" width="24" alt="Avatar of victorsuarezis"> victorsuarezis
@@ -10934,7 +10986,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>834</td>
+		<td>838</td>
+		<td>
+			<a href="https://github.com/almiavicas">
+				<img src="https://avatars.githubusercontent.com/u/24794386?s=72&u=5b1c19ca74cc9edbcd0e385be598e9d58aedce80&v=4" width="24" alt="Avatar of almiavicas"> almiavicas
+			</a><br/>
+			Alvaro Avila
+		</td>
+		<td>Moonshot </td>
+		<td><a href="https://twitter.com/toy_lala">toy_lala</a></td>
+		<td>Maracaibo, Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>839</td>
 		<td>
 			<a href="https://github.com/JulioFS12">
 				<img src="https://avatars.githubusercontent.com/u/66804353?s=72&u=0ddbc5a7edd253039c12d57565df918b6dd048b0&v=4" width="24" alt="Avatar of JulioFS12"> JulioFS12
@@ -10947,7 +11012,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>835</td>
+		<td>840</td>
 		<td>
 			<a href="https://github.com/exroot">
 				<img src="https://avatars.githubusercontent.com/u/50000165?s=72&u=11b1cca91c31bc042c653f819a57c40d17d44165&v=4" width="24" alt="Avatar of exroot"> exroot
@@ -10960,20 +11025,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>836</td>
-		<td>
-			<a href="https://github.com/yeisson-venencia">
-				<img src="https://avatars.githubusercontent.com/u/63071952?s=72&u=9a861d992e20dde6592e6f9ea958b1e56be04db3&v=4" width="24" alt="Avatar of yeisson-venencia"> yeisson-venencia
-			</a><br/>
-			Yeisson Venencia
-		</td>
-		<td>Ucab </td>
-		<td>No Twitter Username</td>
-		<td>Caracas, Venenzuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>837</td>
+		<td>841</td>
 		<td>
 			<a href="https://github.com/paulofabri">
 				<img src="https://avatars.githubusercontent.com/u/1709005?s=72&u=a169ee1b6070d4c6b029407101417942fc447f6f&v=4" width="24" alt="Avatar of paulofabri"> paulofabri
@@ -10986,20 +11038,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>838</td>
+		<td>842</td>
 		<td>
-			<a href="https://github.com/almiavicas">
-				<img src="https://avatars.githubusercontent.com/u/24794386?s=72&u=5b1c19ca74cc9edbcd0e385be598e9d58aedce80&v=4" width="24" alt="Avatar of almiavicas"> almiavicas
+			<a href="https://github.com/yeisson-venencia">
+				<img src="https://avatars.githubusercontent.com/u/63071952?s=72&u=9a861d992e20dde6592e6f9ea958b1e56be04db3&v=4" width="24" alt="Avatar of yeisson-venencia"> yeisson-venencia
 			</a><br/>
-			Alvaro Avila
+			Yeisson Venencia
 		</td>
-		<td>Moonshot </td>
-		<td><a href="https://twitter.com/toy_lala">toy_lala</a></td>
-		<td>Caracas, Venezuela</td>
+		<td>Ucab </td>
+		<td>No Twitter Username</td>
+		<td>Caracas, Venenzuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>839</td>
+		<td>843</td>
 		<td>
 			<a href="https://github.com/Joyfer">
 				<img src="https://avatars.githubusercontent.com/u/56049523?s=72&u=1e14d5fff625622bf7a175cb6f71ad9c14afad90&v=4" width="24" alt="Avatar of Joyfer"> Joyfer
@@ -11012,7 +11064,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>840</td>
+		<td>844</td>
 		<td>
 			<a href="https://github.com/YkBastidas">
 				<img src="https://avatars.githubusercontent.com/u/44125021?s=72&u=88351bab8ce18839921a72ad6e4ee7b967a19386&v=4" width="24" alt="Avatar of YkBastidas"> YkBastidas
@@ -11025,33 +11077,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>841</td>
+		<td>845</td>
 		<td>
-			<a href="https://github.com/dchaconoca">
-				<img src="https://avatars.githubusercontent.com/u/74699013?s=72&u=dbb65f9487e6cbab53bf044aa5cbd8d23989b66e&v=4" width="24" alt="Avatar of dchaconoca"> dchaconoca
+			<a href="https://github.com/Haggets">
+				<img src="https://avatars.githubusercontent.com/u/70298382?s=72&u=64fa26563ed2ac6c882b9e0f435b6ff985ce1540&v=4" width="24" alt="Avatar of Haggets"> Haggets
 			</a><br/>
-			Diana Chacón Ocariz
+			Haggets
 		</td>
-		<td>Independiente </td>
-		<td><a href="https://twitter.com/dchaconoca">dchaconoca</a></td>
-		<td>La Grita - Venezuela</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Haggetss">Haggetss</a></td>
+		<td>Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>842</td>
-		<td>
-			<a href="https://github.com/mreduar">
-				<img src="https://avatars.githubusercontent.com/u/22550119?s=72&u=26486140cc16a953cbacd9607d3df1d3406ea218&v=4" width="24" alt="Avatar of mreduar"> mreduar
-			</a><br/>
-			Eduar Bastidas
-		</td>
-		<td>@blockshiftnetwork  </td>
-		<td><a href="https://twitter.com/mreduar">mreduar</a></td>
-		<td>Barquisimeto, Lara, Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>843</td>
+		<td>846</td>
 		<td>
 			<a href="https://github.com/MarquezLuis96">
 				<img src="https://avatars.githubusercontent.com/u/51836812?s=72&u=c925cf0c89fbaca0d3a60a78c403e0683e549281&v=4" width="24" alt="Avatar of MarquezLuis96"> MarquezLuis96
@@ -11064,33 +11103,33 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>844</td>
+		<td>847</td>
 		<td>
-			<a href="https://github.com/cedaesca">
-				<img src="https://avatars.githubusercontent.com/u/26552106?s=72&u=a3fb7413d24cf44bdf04ad228569a85bc2feb8d4&v=4" width="24" alt="Avatar of cedaesca"> cedaesca
+			<a href="https://github.com/tguzmani">
+				<img src="https://avatars.githubusercontent.com/u/13774654?s=72&u=fda228e3d392ccefa3b119a56f3b00fa87830adb&v=4" width="24" alt="Avatar of tguzmani"> tguzmani
 			</a><br/>
-			César Escudero
+			Tomás Guzmán
 		</td>
-		<td>@skillshare </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>845</td>
+		<td>848</td>
 		<td>
-			<a href="https://github.com/OsiNubis99">
-				<img src="https://avatars.githubusercontent.com/u/43013455?s=72&u=d2fc4cecd271fb905480f06f2484e0175a022ed7&v=4" width="24" alt="Avatar of OsiNubis99"> OsiNubis99
+			<a href="https://github.com/mreduar">
+				<img src="https://avatars.githubusercontent.com/u/22550119?s=72&u=26486140cc16a953cbacd9607d3df1d3406ea218&v=4" width="24" alt="Avatar of mreduar"> mreduar
 			</a><br/>
-			Andrés David Hurtado Fernández
+			Eduar Bastidas
 		</td>
-		<td>Wolf's Codes </td>
-		<td><a href="https://twitter.com/OsiNubis99">OsiNubis99</a></td>
-		<td>Caracas, Venezuela</td>
+		<td>@blockshiftnetwork  </td>
+		<td><a href="https://twitter.com/mreduar">mreduar</a></td>
+		<td>Barquisimeto, Lara, Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>846</td>
+		<td>849</td>
 		<td>
 			<a href="https://github.com/JustJal">
 				<img src="https://avatars.githubusercontent.com/u/63567962?s=72&u=a5efa5d05b29bccba3f4f00a2f84daa85602c8ba&v=4" width="24" alt="Avatar of JustJal"> JustJal
@@ -11103,7 +11142,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>847</td>
+		<td>850</td>
+		<td>
+			<a href="https://github.com/cedaesca">
+				<img src="https://avatars.githubusercontent.com/u/26552106?s=72&u=a3fb7413d24cf44bdf04ad228569a85bc2feb8d4&v=4" width="24" alt="Avatar of cedaesca"> cedaesca
+			</a><br/>
+			César Escudero
+		</td>
+		<td>@skillshare </td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>851</td>
 		<td>
 			<a href="https://github.com/rjchirinos">
 				<img src="https://avatars.githubusercontent.com/u/22383393?s=72&u=47e7182617a51463cb273c52d62a73c4bbde2abe&v=4" width="24" alt="Avatar of rjchirinos"> rjchirinos
@@ -11116,7 +11168,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>848</td>
+		<td>852</td>
+		<td>
+			<a href="https://github.com/OsiNubis99">
+				<img src="https://avatars.githubusercontent.com/u/43013455?s=72&u=d2fc4cecd271fb905480f06f2484e0175a022ed7&v=4" width="24" alt="Avatar of OsiNubis99"> OsiNubis99
+			</a><br/>
+			Andrés David Hurtado Fernández
+		</td>
+		<td>Wolf's Codes </td>
+		<td><a href="https://twitter.com/OsiNubis99">OsiNubis99</a></td>
+		<td>Caracas, Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>853</td>
 		<td>
 			<a href="https://github.com/diangogav">
 				<img src="https://avatars.githubusercontent.com/u/19440044?s=72&u=ffefa0bc8908791201047f57547b0660d9047f27&v=4" width="24" alt="Avatar of diangogav"> diangogav
@@ -11129,33 +11194,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>849</td>
-		<td>
-			<a href="https://github.com/Noheliajoeliana">
-				<img src="https://avatars.githubusercontent.com/u/82003379?s=72&u=6c92c8f00e1189460f063ab84a92371012c9e30b&v=4" width="24" alt="Avatar of Noheliajoeliana"> Noheliajoeliana
-			</a><br/>
-			Nohelia
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Caracas, Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>850</td>
-		<td>
-			<a href="https://github.com/achique-luisdan">
-				<img src="https://avatars.githubusercontent.com/u/46081094?s=72&u=641ecb72f21dc97251a2f56f810a8edb7b8e20fc&v=4" width="24" alt="Avatar of achique-luisdan"> achique-luisdan
-			</a><br/>
-			Achique Luis Daniel
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/achique_luisdan">achique_luisdan</a></td>
-		<td>Miranda, Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>851</td>
+		<td>854</td>
 		<td>
 			<a href="https://github.com/Dgbusiness">
 				<img src="https://avatars.githubusercontent.com/u/45789806?s=72&u=f6bb794ad8dab7ad9dd1b937a0fecc1e84c35b99&v=4" width="24" alt="Avatar of Dgbusiness"> Dgbusiness
@@ -11168,7 +11207,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>852</td>
+		<td>855</td>
 		<td>
 			<a href="https://github.com/CerjioNava">
 				<img src="https://avatars.githubusercontent.com/u/51514029?s=72&u=f1059024dbe2ffa8500d7f5c25741a005e58da4f&v=4" width="24" alt="Avatar of CerjioNava"> CerjioNava
@@ -11181,7 +11220,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>853</td>
+		<td>856</td>
 		<td>
 			<a href="https://github.com/laurex94">
 				<img src="https://avatars.githubusercontent.com/u/66771560?s=72&u=c53d2065e526057efbbf850c8526d1d739f8d1b9&v=4" width="24" alt="Avatar of laurex94"> laurex94
@@ -11194,33 +11233,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>854</td>
-		<td>
-			<a href="https://github.com/zunkraz">
-				<img src="https://avatars.githubusercontent.com/u/32313172?s=72&u=8c0710ad80b1baf26377b5eda4092f7c413b17c0&v=4" width="24" alt="Avatar of zunkraz"> zunkraz
-			</a><br/>
-			Antonio Rodríguez 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Caracas - Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>855</td>
-		<td>
-			<a href="https://github.com/luisgdev">
-				<img src="https://avatars.githubusercontent.com/u/45129217?s=72&u=db4584f1024cb787fe1080499f1644e3ecc401c5&v=4" width="24" alt="Avatar of luisgdev"> luisgdev
-			</a><br/>
-			Luis Ch
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>856</td>
+		<td>857</td>
 		<td>
 			<a href="https://github.com/gehacheese">
 				<img src="https://avatars.githubusercontent.com/u/56802137?s=72&u=a4bafc28b31f5f8222cafb7ce1ee51a93f7471e2&v=4" width="24" alt="Avatar of gehacheese"> gehacheese
@@ -11233,7 +11246,33 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>857</td>
+		<td>858</td>
+		<td>
+			<a href="https://github.com/luisgdev">
+				<img src="https://avatars.githubusercontent.com/u/45129217?s=72&u=db4584f1024cb787fe1080499f1644e3ecc401c5&v=4" width="24" alt="Avatar of luisgdev"> luisgdev
+			</a><br/>
+			Luis Ch
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>859</td>
+		<td>
+			<a href="https://github.com/zunkraz">
+				<img src="https://avatars.githubusercontent.com/u/32313172?s=72&u=8c0710ad80b1baf26377b5eda4092f7c413b17c0&v=4" width="24" alt="Avatar of zunkraz"> zunkraz
+			</a><br/>
+			Antonio Rodríguez 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Caracas - Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>860</td>
 		<td>
 			<a href="https://github.com/imxnat">
 				<img src="https://avatars.githubusercontent.com/u/65699903?s=72&u=a933073f6a2c5f367c16a5a581389932d040f3f3&v=4" width="24" alt="Avatar of imxnat"> imxnat
@@ -11246,59 +11285,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>858</td>
-		<td>
-			<a href="https://github.com/diazpolanco13">
-				<img src="https://avatars.githubusercontent.com/u/27658177?s=72&u=eaa8539218043616614b8508a21440ceb7a72c21&v=4" width="24" alt="Avatar of diazpolanco13"> diazpolanco13
-			</a><br/>
-			Carlos Diaz
-		</td>
-		<td>Apidev </td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>859</td>
-		<td>
-			<a href="https://github.com/ShonTitor">
-				<img src="https://avatars.githubusercontent.com/u/39103403?s=72&u=b99562d59292cb819907a03bac2c93f87d2b0c82&v=4" width="24" alt="Avatar of ShonTitor"> ShonTitor
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Riokaru">Riokaru</a></td>
-		<td>Caracas</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>860</td>
-		<td>
-			<a href="https://github.com/manualvarado22">
-				<img src="https://avatars.githubusercontent.com/u/29046224?s=72&u=98196c5a2c3363b99ec5e652a1517817f58c8970&v=4" width="24" alt="Avatar of manualvarado22"> manualvarado22
-			</a><br/>
-			Manuel Alejandro Alvarado Montenegro
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Guanare, Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
 		<td>861</td>
-		<td>
-			<a href="https://github.com/adberardi">
-				<img src="https://avatars.githubusercontent.com/u/16629152?s=72&u=6ff313eccdde8ff9e7333357560bdaa1dda51042&v=4" width="24" alt="Avatar of adberardi"> adberardi
-			</a><br/>
-			Antonio Berardi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/anto9_berar5">anto9_berar5</a></td>
-		<td>Caracas, Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>862</td>
 		<td>
 			<a href="https://github.com/ddla12">
 				<img src="https://avatars.githubusercontent.com/u/18092220?s=72&u=0d87d23b6c5a83d07112eefcd2048ba0576eeb17&v=4" width="24" alt="Avatar of ddla12"> ddla12
@@ -11311,7 +11298,46 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
+		<td>862</td>
+		<td>
+			<a href="https://github.com/adberardi">
+				<img src="https://avatars.githubusercontent.com/u/16629152?s=72&u=6ff313eccdde8ff9e7333357560bdaa1dda51042&v=4" width="24" alt="Avatar of adberardi"> adberardi
+			</a><br/>
+			Antonio Berardi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/anto9_berar5">anto9_berar5</a></td>
+		<td>Caracas, Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
 		<td>863</td>
+		<td>
+			<a href="https://github.com/ShonTitor">
+				<img src="https://avatars.githubusercontent.com/u/39103403?s=72&u=b99562d59292cb819907a03bac2c93f87d2b0c82&v=4" width="24" alt="Avatar of ShonTitor"> ShonTitor
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Riokaru">Riokaru</a></td>
+		<td>Caracas</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>864</td>
+		<td>
+			<a href="https://github.com/diazpolanco13">
+				<img src="https://avatars.githubusercontent.com/u/27658177?s=72&u=eaa8539218043616614b8508a21440ceb7a72c21&v=4" width="24" alt="Avatar of diazpolanco13"> diazpolanco13
+			</a><br/>
+			Carlos Diaz
+		</td>
+		<td>Apidev </td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>865</td>
 		<td>
 			<a href="https://github.com/WolfangT">
 				<img src="https://avatars.githubusercontent.com/u/6606157?s=72&u=05c2c6dd37e4526e49d2eb84de47d808fcba6c2e&v=4" width="24" alt="Avatar of WolfangT"> WolfangT
@@ -11321,32 +11347,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>864</td>
-		<td>
-			<a href="https://github.com/JanDez">
-				<img src="https://avatars.githubusercontent.com/u/28764739?s=72&u=998543bf39609e8fb95f6f91b0908c720de46a42&v=4" width="24" alt="Avatar of JanDez"> JanDez
-			</a><br/>
-			Jaifran Hernández
-		</td>
-		<td>Self Employee </td>
-		<td><a href="https://twitter.com/JanDez">JanDez</a></td>
-		<td>Caracas</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>865</td>
-		<td>
-			<a href="https://github.com/CarlosBarrios045">
-				<img src="https://avatars.githubusercontent.com/u/52840766?s=72&u=92aeb51babf1efa73f23e132185c353ab61e476a&v=4" width="24" alt="Avatar of CarlosBarrios045"> CarlosBarrios045
-			</a><br/>
-			Carlos Barrios
-		</td>
-		<td>Tauros </td>
-		<td><a href="https://twitter.com/carlosb045">carlosb045</a></td>
-		<td>Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -11365,31 +11365,44 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>867</td>
 		<td>
-			<a href="https://github.com/DanRivSa">
-				<img src="https://avatars.githubusercontent.com/u/34323866?s=72&u=4e2a946cdfc1f301567ae19587914d5ad4faf57a&v=4" width="24" alt="Avatar of DanRivSa"> DanRivSa
+			<a href="https://github.com/manualvarado22">
+				<img src="https://avatars.githubusercontent.com/u/29046224?s=72&u=98196c5a2c3363b99ec5e652a1517817f58c8970&v=4" width="24" alt="Avatar of manualvarado22"> manualvarado22
 			</a><br/>
-			Daniel Rivero 
+			Manuel Alejandro Alvarado Montenegro
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Venezuela</td>
+		<td>Guanare, Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
 		<td>868</td>
 		<td>
-			<a href="https://github.com/simonmontaggioni">
-				<img src="https://avatars.githubusercontent.com/u/16695962?s=72&u=512447c40370e62ad0c4da35f1b4dc875c05dff3&v=4" width="24" alt="Avatar of simonmontaggioni"> simonmontaggioni
+			<a href="https://github.com/kroyxlab">
+				<img src="https://avatars.githubusercontent.com/u/32278660?s=72&u=4053390c41c0010a88e424f8b84d97ec5697017e&v=4" width="24" alt="Avatar of kroyxlab"> kroyxlab
 			</a><br/>
-			Simón
+			Kristian Soto
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Venezuela</td>
+		<td>Los Teques, Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
 		<td>869</td>
+		<td>
+			<a href="https://github.com/CarlosBarrios045">
+				<img src="https://avatars.githubusercontent.com/u/52840766?s=72&u=92aeb51babf1efa73f23e132185c353ab61e476a&v=4" width="24" alt="Avatar of CarlosBarrios045"> CarlosBarrios045
+			</a><br/>
+			Carlos Barrios
+		</td>
+		<td>Tauros </td>
+		<td><a href="https://twitter.com/carlosb045">carlosb045</a></td>
+		<td>Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>870</td>
 		<td>
 			<a href="https://github.com/TheCodingTomato">
 				<img src="https://avatars.githubusercontent.com/u/24487667?s=72&u=990d1c3c1716d7c8c1c4135793c08fb03d0600ff&v=4" width="24" alt="Avatar of TheCodingTomato"> TheCodingTomato
@@ -11402,7 +11415,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>870</td>
+		<td>871</td>
 		<td>
 			<a href="https://github.com/shaman2527">
 				<img src="https://avatars.githubusercontent.com/u/84341975?s=72&u=b65d7a1a6f24b4d5cd390aa918897f3ce128be56&v=4" width="24" alt="Avatar of shaman2527"> shaman2527
@@ -11415,46 +11428,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>871</td>
-		<td>
-			<a href="https://github.com/iSlidex">
-				<img src="https://avatars.githubusercontent.com/u/45302075?s=72&u=82abd9d8a9ac212156ffdcaf63cf9c242e981add&v=4" width="24" alt="Avatar of iSlidex"> iSlidex
-			</a><br/>
-			Leonardo Ruiz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Caracas, Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
 		<td>872</td>
 		<td>
-			<a href="https://github.com/arturo21">
-				<img src="https://avatars.githubusercontent.com/u/6676774?s=72&u=38dcc39a8c9bab60a287d0e6bd2daedabf881c08&v=4" width="24" alt="Avatar of arturo21"> arturo21
+			<a href="https://github.com/DanRivSa">
+				<img src="https://avatars.githubusercontent.com/u/34323866?s=72&u=4e2a946cdfc1f301567ae19587914d5ad4faf57a&v=4" width="24" alt="Avatar of DanRivSa"> DanRivSa
 			</a><br/>
-			Arturo Vasquez
+			Daniel Rivero 
 		</td>
-		<td>Arturo Vasquez Soluciones Web<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
 		<td>873</td>
-		<td>
-			<a href="https://github.com/darkgeline">
-				<img src="https://avatars.githubusercontent.com/u/53919981?s=72&u=5c74a94d318129521b5f3aae51cc84e9333f28f7&v=4" width="24" alt="Avatar of darkgeline"> darkgeline
-			</a><br/>
-			Angeline Matos
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maracaibo - Venezuela.</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>874</td>
 		<td>
 			<a href="https://github.com/HenryGlo">
 				<img src="https://avatars.githubusercontent.com/u/43855485?s=72&u=16d37f3e024b02b7cfeda6627b118efe50c41049&v=4" width="24" alt="Avatar of HenryGlo"> HenryGlo
@@ -11467,20 +11454,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>875</td>
+		<td>874</td>
 		<td>
-			<a href="https://github.com/gaidygomez">
-				<img src="https://avatars.githubusercontent.com/u/26682079?s=72&u=160b547532955d081f87ab20500708f84b5201a3&v=4" width="24" alt="Avatar of gaidygomez"> gaidygomez
+			<a href="https://github.com/arturo21">
+				<img src="https://avatars.githubusercontent.com/u/6676774?s=72&u=38dcc39a8c9bab60a287d0e6bd2daedabf881c08&v=4" width="24" alt="Avatar of arturo21"> arturo21
 			</a><br/>
-			gaidyjg
+			Arturo Vasquez
 		</td>
-		<td>No Company</td>
+		<td>Arturo Vasquez Soluciones Web<br/></td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>876</td>
+		<td>875</td>
 		<td>
 			<a href="https://github.com/ackseriam">
 				<img src="https://avatars.githubusercontent.com/u/5438407?s=72&v=4" width="24" alt="Avatar of ackseriam"> ackseriam
@@ -11493,7 +11480,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>877</td>
+		<td>876</td>
 		<td>
 			<a href="https://github.com/DavLiendoProgramming">
 				<img src="https://avatars.githubusercontent.com/u/20026992?s=72&v=4" width="24" alt="Avatar of DavLiendoProgramming"> DavLiendoProgramming
@@ -11506,12 +11493,12 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>878</td>
+		<td>877</td>
 		<td>
-			<a href="https://github.com/GJQP">
-				<img src="https://avatars.githubusercontent.com/u/32227166?s=72&u=a28e637782e392a0142aed9b310ca06898d4815d&v=4" width="24" alt="Avatar of GJQP"> GJQP
+			<a href="https://github.com/gaidygomez">
+				<img src="https://avatars.githubusercontent.com/u/26682079?s=72&u=160b547532955d081f87ab20500708f84b5201a3&v=4" width="24" alt="Avatar of gaidygomez"> gaidygomez
 			</a><br/>
-			Gustavo Quintana
+			gaidyjg
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -11519,16 +11506,29 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>879</td>
+		<td>878</td>
 		<td>
-			<a href="https://github.com/kroyxlab">
-				<img src="https://avatars.githubusercontent.com/u/32278660?s=72&u=4053390c41c0010a88e424f8b84d97ec5697017e&v=4" width="24" alt="Avatar of kroyxlab"> kroyxlab
+			<a href="https://github.com/iSlidex">
+				<img src="https://avatars.githubusercontent.com/u/45302075?s=72&u=82abd9d8a9ac212156ffdcaf63cf9c242e981add&v=4" width="24" alt="Avatar of iSlidex"> iSlidex
 			</a><br/>
-			Kristian Soto
+			Leonardo Ruiz
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Los Teques, Venezuela</td>
+		<td>Caracas, Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>879</td>
+		<td>
+			<a href="https://github.com/IsolatorD">
+				<img src="https://avatars.githubusercontent.com/u/26779262?s=72&u=194b8f9c0593776a881e5d4c5434f5eb74a3ecdd&v=4" width="24" alt="Avatar of IsolatorD"> IsolatorD
+			</a><br/>
+			Daniel Rodriguez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -11547,10 +11547,10 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>881</td>
 		<td>
-			<a href="https://github.com/IsolatorD">
-				<img src="https://avatars.githubusercontent.com/u/26779262?s=72&u=194b8f9c0593776a881e5d4c5434f5eb74a3ecdd&v=4" width="24" alt="Avatar of IsolatorD"> IsolatorD
+			<a href="https://github.com/GJQP">
+				<img src="https://avatars.githubusercontent.com/u/32227166?s=72&u=a28e637782e392a0142aed9b310ca06898d4815d&v=4" width="24" alt="Avatar of GJQP"> GJQP
 			</a><br/>
-			Daniel Rodriguez
+			Gustavo Quintana
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -11559,6 +11559,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	</tr>
 	<tr>
 		<td>882</td>
+		<td>
+			<a href="https://github.com/darkgeline">
+				<img src="https://avatars.githubusercontent.com/u/53919981?s=72&u=5c74a94d318129521b5f3aae51cc84e9333f28f7&v=4" width="24" alt="Avatar of darkgeline"> darkgeline
+			</a><br/>
+			Angeline Matos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maracaibo - Venezuela.</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>883</td>
 		<td>
 			<a href="https://github.com/alirioangel">
 				<img src="https://avatars.githubusercontent.com/u/41457927?s=72&u=5e812d044ba555cf4f45e6645c3e0145d5148694&v=4" width="24" alt="Avatar of alirioangel"> alirioangel
@@ -11571,7 +11584,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>883</td>
+		<td>884</td>
 		<td>
 			<a href="https://github.com/Vz0n">
 				<img src="https://avatars.githubusercontent.com/u/65766278?s=72&u=78b9e565a48393612932049aca2d8848ddaa0f94&v=4" width="24" alt="Avatar of Vz0n"> Vz0n
@@ -11584,7 +11597,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>884</td>
+		<td>885</td>
+		<td>
+			<a href="https://github.com/angizerep">
+				<img src="https://avatars.githubusercontent.com/u/18014297?s=72&u=7f0714f74484326bc23a5c3755cd426d2d7246f0&v=4" width="24" alt="Avatar of angizerep"> angizerep
+			</a><br/>
+			María de los Ángeles Pérez Pérez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>886</td>
 		<td>
 			<a href="https://github.com/crjoseabraham">
 				<img src="https://avatars.githubusercontent.com/u/24243662?s=72&u=6426ba99c7dd108e61b9f4552c938087eb798cf2&v=4" width="24" alt="Avatar of crjoseabraham"> crjoseabraham
@@ -11597,20 +11623,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>885</td>
-		<td>
-			<a href="https://github.com/jorge6242">
-				<img src="https://avatars.githubusercontent.com/u/15070448?s=72&u=462ea508f379951b22fdba353faaf9039f249f63&v=4" width="24" alt="Avatar of jorge6242"> jorge6242
-			</a><br/>
-			Jorge Gomez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>886</td>
+		<td>887</td>
 		<td>
 			<a href="https://github.com/cryptoneo23">
 				<img src="https://avatars.githubusercontent.com/u/46287980?s=72&v=4" width="24" alt="Avatar of cryptoneo23"> cryptoneo23
@@ -11620,19 +11633,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Caracas Venezuela </td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>887</td>
-		<td>
-			<a href="https://github.com/Luisdv93">
-				<img src="https://avatars.githubusercontent.com/u/7731089?s=72&u=6e1f9874250786d722eb74a72f963b7afc2befad&v=4" width="24" alt="Avatar of Luisdv93"> Luisdv93
-			</a><br/>
-			Luis Vilchez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -11651,10 +11651,10 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>889</td>
 		<td>
-			<a href="https://github.com/mariajmr1202">
-				<img src="https://avatars.githubusercontent.com/u/53985122?s=72&u=6f4de9d0c55fd3a065e4b278796bd1709749e484&v=4" width="24" alt="Avatar of mariajmr1202"> mariajmr1202
+			<a href="https://github.com/Luisdv93">
+				<img src="https://avatars.githubusercontent.com/u/7731089?s=72&u=6e1f9874250786d722eb74a72f963b7afc2befad&v=4" width="24" alt="Avatar of Luisdv93"> Luisdv93
 			</a><br/>
-			Maria Jose Muñoz Ruiz
+			Luis Vilchez
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -11677,6 +11677,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>891</td>
 		<td>
+			<a href="https://github.com/mariajmr1202">
+				<img src="https://avatars.githubusercontent.com/u/53985122?s=72&u=6f4de9d0c55fd3a065e4b278796bd1709749e484&v=4" width="24" alt="Avatar of mariajmr1202"> mariajmr1202
+			</a><br/>
+			Maria Jose Muñoz Ruiz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>892</td>
+		<td>
 			<a href="https://github.com/xetnos">
 				<img src="https://avatars.githubusercontent.com/u/24556274?s=72&u=5086de6d8b873c07b2b9e1edc4373b0502d2a403&v=4" width="24" alt="Avatar of xetnos"> xetnos
 			</a><br/>
@@ -11688,7 +11701,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>892</td>
+		<td>893</td>
 		<td>
 			<a href="https://github.com/peres84">
 				<img src="https://avatars.githubusercontent.com/u/19377207?s=72&u=cc55547fc85214d8dd7c218f8f8aafe689aab0dc&v=4" width="24" alt="Avatar of peres84"> peres84
@@ -11701,46 +11714,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>893</td>
+		<td>894</td>
 		<td>
-			<a href="https://github.com/angizerep">
-				<img src="https://avatars.githubusercontent.com/u/18014297?s=72&u=7f0714f74484326bc23a5c3755cd426d2d7246f0&v=4" width="24" alt="Avatar of angizerep"> angizerep
+			<a href="https://github.com/jorge6242">
+				<img src="https://avatars.githubusercontent.com/u/15070448?s=72&u=462ea508f379951b22fdba353faaf9039f249f63&v=4" width="24" alt="Avatar of jorge6242"> jorge6242
 			</a><br/>
-			María de los Ángeles Pérez Pérez
+			Jorge Gomez
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>894</td>
-		<td>
-			<a href="https://github.com/CarlosLuna25">
-				<img src="https://avatars.githubusercontent.com/u/56598057?s=72&u=df5f7a7ae3e24966eb3fb8740010729bcaaafd5a&v=4" width="24" alt="Avatar of CarlosLuna25"> CarlosLuna25
-			</a><br/>
-			Carlos Luna
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nueva Esparta, Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
 		<td>895</td>
-		<td>
-			<a href="https://github.com/AnotherFuckingWeeb">
-				<img src="https://avatars.githubusercontent.com/u/46989721?s=72&u=f6f3a6390215f8c56739778536ffa15cbf793fd7&v=4" width="24" alt="Avatar of AnotherFuckingWeeb"> AnotherFuckingWeeb
-			</a><br/>
-			AnotherFuckingWeeb
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>896</td>
 		<td>
 			<a href="https://github.com/vamf2805">
 				<img src="https://avatars.githubusercontent.com/u/20447406?s=72&u=14a9b499ec98d2aeeec1d15809231eb654b5a374&v=4" width="24" alt="Avatar of vamf2805"> vamf2805
@@ -11753,7 +11740,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>897</td>
+		<td>896</td>
 		<td>
 			<a href="https://github.com/olivo28">
 				<img src="https://avatars.githubusercontent.com/u/28832690?s=72&v=4" width="24" alt="Avatar of olivo28"> olivo28
@@ -11762,6 +11749,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/antikux">antikux</a></td>
+		<td>Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>897</td>
+		<td>
+			<a href="https://github.com/PedroRafa26">
+				<img src="https://avatars.githubusercontent.com/u/51805655?s=72&u=c5f27e67b42a36c5d114663992e1fd0a7ea3db5c&v=4" width="24" alt="Avatar of PedroRafa26"> PedroRafa26
+			</a><br/>
+			Pedro Rafael Chacon Acuña
+		</td>
+		<td>Strut-bebetter </td>
+		<td><a href="https://twitter.com/PedroRafa26">PedroRafa26</a></td>
 		<td>Venezuela</td>
 		<td>5</td>
 	</tr>
@@ -11794,14 +11794,14 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>900</td>
 		<td>
-			<a href="https://github.com/PedroRafa26">
-				<img src="https://avatars.githubusercontent.com/u/51805655?s=72&u=c5f27e67b42a36c5d114663992e1fd0a7ea3db5c&v=4" width="24" alt="Avatar of PedroRafa26"> PedroRafa26
+			<a href="https://github.com/CarlosLuna25">
+				<img src="https://avatars.githubusercontent.com/u/56598057?s=72&u=df5f7a7ae3e24966eb3fb8740010729bcaaafd5a&v=4" width="24" alt="Avatar of CarlosLuna25"> CarlosLuna25
 			</a><br/>
-			Pedro Rafael Chacon Acuña
+			Carlos Luna
 		</td>
-		<td>Strut-bebetter </td>
-		<td><a href="https://twitter.com/PedroRafa26">PedroRafa26</a></td>
-		<td>Venezuela</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nueva Esparta, Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -11820,70 +11820,18 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>902</td>
 		<td>
-			<a href="https://github.com/cpiocova">
-				<img src="https://avatars.githubusercontent.com/u/49238155?s=72&u=6b7fc19f10990f6be29daac7bd317c61b628d791&v=4" width="24" alt="Avatar of cpiocova"> cpiocova
+			<a href="https://github.com/AnotherFuckingWeeb">
+				<img src="https://avatars.githubusercontent.com/u/46989721?s=72&u=f6f3a6390215f8c56739778536ffa15cbf793fd7&v=4" width="24" alt="Avatar of AnotherFuckingWeeb"> AnotherFuckingWeeb
 			</a><br/>
-			Jose Pio
+			AnotherFuckingWeeb
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/cpioweb">cpioweb</a></td>
+		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
 		<td>903</td>
-		<td>
-			<a href="https://github.com/rafaelmoreno21">
-				<img src="https://avatars.githubusercontent.com/u/60928243?s=72&u=9e2e893e562aaa9817118bfb799efa8b2d57074a&v=4" width="24" alt="Avatar of rafaelmoreno21"> rafaelmoreno21
-			</a><br/>
-			Rafael Moreno
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Rafooii">Rafooii</a></td>
-		<td>Maracaibo - Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>904</td>
-		<td>
-			<a href="https://github.com/BEPZ22">
-				<img src="https://avatars.githubusercontent.com/u/23620620?s=72&v=4" width="24" alt="Avatar of BEPZ22"> BEPZ22
-			</a><br/>
-			Braulio Picón
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Caracas, Venezuela.</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>905</td>
-		<td>
-			<a href="https://github.com/aguerrave">
-				<img src="https://avatars.githubusercontent.com/u/351883?s=72&v=4" width="24" alt="Avatar of aguerrave"> aguerrave
-			</a><br/>
-			Alejandro Guerra
-		</td>
-		<td>Alge Consultores Gerenciales </td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>906</td>
-		<td>
-			<a href="https://github.com/rioyi">
-				<img src="https://avatars.githubusercontent.com/u/6560976?s=72&v=4" width="24" alt="Avatar of rioyi"> rioyi
-			</a><br/>
-			Rioyi
-		</td>
-		<td>Humantodev </td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>907</td>
 		<td>
 			<a href="https://github.com/doblesesays">
 				<img src="https://avatars.githubusercontent.com/u/17892765?s=72&u=2e878017bc12ea72246f0cdabd3386975e55bc7e&v=4" width="24" alt="Avatar of doblesesays"> doblesesays
@@ -11896,150 +11844,46 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>908</td>
+		<td>904</td>
 		<td>
-			<a href="https://github.com/ivanrlg">
-				<img src="https://avatars.githubusercontent.com/u/21310111?s=72&u=7dd845059895cff1e5cd59d1bb9305e70439b036&v=4" width="24" alt="Avatar of ivanrlg"> ivanrlg
+			<a href="https://github.com/rafaelmoreno21">
+				<img src="https://avatars.githubusercontent.com/u/60928243?s=72&u=9e2e893e562aaa9817118bfb799efa8b2d57074a&v=4" width="24" alt="Avatar of rafaelmoreno21"> rafaelmoreno21
 			</a><br/>
-			Ivan Labrador
+			Rafael Moreno
 		</td>
 		<td>No Company</td>
+		<td><a href="https://twitter.com/Rafooii">Rafooii</a></td>
+		<td>Maracaibo - Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>905</td>
+		<td>
+			<a href="https://github.com/BEPZ22">
+				<img src="https://avatars.githubusercontent.com/u/23620620?s=72&v=4" width="24" alt="Avatar of BEPZ22"> BEPZ22
+			</a><br/>
+			Braulio Picón
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Caracas, Venezuela.</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>906</td>
+		<td>
+			<a href="https://github.com/aguerrave">
+				<img src="https://avatars.githubusercontent.com/u/351883?s=72&v=4" width="24" alt="Avatar of aguerrave"> aguerrave
+			</a><br/>
+			Alejandro Guerra
+		</td>
+		<td>Alge Consultores Gerenciales </td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>909</td>
-		<td>
-			<a href="https://github.com/dev-armando">
-				<img src="https://avatars.githubusercontent.com/u/34174895?s=72&u=484b0a0cef62b39fe6b8035e5e73f95f762befa0&v=4" width="24" alt="Avatar of dev-armando"> dev-armando
-			</a><br/>
-			Armando Rojas
-		</td>
-		<td>Cronapis </td>
-		<td>No Twitter Username</td>
-		<td>Portuguesa, Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>910</td>
-		<td>
-			<a href="https://github.com/Wil-Alex">
-				<img src="https://avatars.githubusercontent.com/u/42851789?s=72&u=15c4c1e8e32dfcba701b48bbdf1b69de9849b8cc&v=4" width="24" alt="Avatar of Wil-Alex"> Wil-Alex
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/alex_doblevv">alex_doblevv</a></td>
-		<td>Venezuela, Caracas</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>911</td>
-		<td>
-			<a href="https://github.com/leonardojap">
-				<img src="https://avatars.githubusercontent.com/u/8810299?s=72&u=915f38a2fbee57887c52932ea646fd9249cce836&v=4" width="24" alt="Avatar of leonardojap"> leonardojap
-			</a><br/>
-			Leonardo Alvarado
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>912</td>
-		<td>
-			<a href="https://github.com/cesargillao">
-				<img src="https://avatars.githubusercontent.com/u/45072982?s=72&u=4b376fd2f962aabb2edb2df378bf8939fde1ff19&v=4" width="24" alt="Avatar of cesargillao"> cesargillao
-			</a><br/>
-			César Gil Lao
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cesargillao">cesargillao</a></td>
-		<td>Caracas - Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>913</td>
-		<td>
-			<a href="https://github.com/jyacot">
-				<img src="https://avatars.githubusercontent.com/u/5091152?s=72&v=4" width="24" alt="Avatar of jyacot"> jyacot
-			</a><br/>
-			Julio Yacot
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jyacot">jyacot</a></td>
-		<td>Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>914</td>
-		<td>
-			<a href="https://github.com/SunfurThanos">
-				<img src="https://avatars.githubusercontent.com/u/67055968?s=72&u=cc7efc2ca44aebd6cd27950093a9f8128d94ad5f&v=4" width="24" alt="Avatar of SunfurThanos"> SunfurThanos
-			</a><br/>
-			Sunfur Thanos
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/andrade28765974">andrade28765974</a></td>
-		<td>Venezuela, estado vargas</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>915</td>
-		<td>
-			<a href="https://github.com/cesarjv">
-				<img src="https://avatars.githubusercontent.com/u/31625237?s=72&u=b8d3cb8f3fc45baec2e657438635210caa2cfab4&v=4" width="24" alt="Avatar of cesarjv"> cesarjv
-			</a><br/>
-			Cesar
-		</td>
-		<td>Telefonica Venezolana </td>
-		<td>No Twitter Username</td>
-		<td>Caracas-Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>916</td>
-		<td>
-			<a href="https://github.com/samudex">
-				<img src="https://avatars.githubusercontent.com/u/22878819?s=72&u=ec45364e6b9d1e15abdd58312564fd3e62ce5654&v=4" width="24" alt="Avatar of samudex"> samudex
-			</a><br/>
-			Daniel Prieto
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/danielprieto">danielprieto</a></td>
-		<td>Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>917</td>
-		<td>
-			<a href="https://github.com/jraulhernandezi">
-				<img src="https://avatars.githubusercontent.com/u/35578070?s=72&u=11c1f1ead7c85748060802b18956cf5ccc39f7d0&v=4" width="24" alt="Avatar of jraulhernandezi"> jraulhernandezi
-			</a><br/>
-			Raúl
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Puerto Ordaz, Venezuela.</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>918</td>
-		<td>
-			<a href="https://github.com/marianoarnaiz">
-				<img src="https://avatars.githubusercontent.com/u/40127582?s=72&u=b4e31a53f325dd0f4ba280e9c786f856da21aaca&v=4" width="24" alt="Avatar of marianoarnaiz"> marianoarnaiz
-			</a><br/>
-			Mariano Arnaiz
-		</td>
-		<td>Central University Of Venezuela<br/></td>
-		<td>No Twitter Username</td>
-		<td>Caracas, Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>919</td>
+		<td>907</td>
 		<td>
 			<a href="https://github.com/santu1987">
 				<img src="https://avatars.githubusercontent.com/u/7151486?s=72&u=6b485810869775317c10c05da345e94f99b8ab44&v=4" width="24" alt="Avatar of santu1987"> santu1987
@@ -12052,7 +11896,150 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>908</td>
+		<td>
+			<a href="https://github.com/dev-armando">
+				<img src="https://avatars.githubusercontent.com/u/34174895?s=72&u=484b0a0cef62b39fe6b8035e5e73f95f762befa0&v=4" width="24" alt="Avatar of dev-armando"> dev-armando
+			</a><br/>
+			Armando Rojas
+		</td>
+		<td>Cronapis </td>
+		<td>No Twitter Username</td>
+		<td>Portuguesa, Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>909</td>
+		<td>
+			<a href="https://github.com/leonardojap">
+				<img src="https://avatars.githubusercontent.com/u/8810299?s=72&u=915f38a2fbee57887c52932ea646fd9249cce836&v=4" width="24" alt="Avatar of leonardojap"> leonardojap
+			</a><br/>
+			Leonardo Alvarado
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>910</td>
+		<td>
+			<a href="https://github.com/cesargillao">
+				<img src="https://avatars.githubusercontent.com/u/45072982?s=72&u=4b376fd2f962aabb2edb2df378bf8939fde1ff19&v=4" width="24" alt="Avatar of cesargillao"> cesargillao
+			</a><br/>
+			César Gil Lao
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cesargillao">cesargillao</a></td>
+		<td>Caracas - Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>911</td>
+		<td>
+			<a href="https://github.com/cpiocova">
+				<img src="https://avatars.githubusercontent.com/u/49238155?s=72&u=6b7fc19f10990f6be29daac7bd317c61b628d791&v=4" width="24" alt="Avatar of cpiocova"> cpiocova
+			</a><br/>
+			Jose Pio
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cpioweb">cpioweb</a></td>
+		<td>Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>912</td>
+		<td>
+			<a href="https://github.com/jyacot">
+				<img src="https://avatars.githubusercontent.com/u/5091152?s=72&v=4" width="24" alt="Avatar of jyacot"> jyacot
+			</a><br/>
+			Julio Yacot
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jyacot">jyacot</a></td>
+		<td>Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>913</td>
+		<td>
+			<a href="https://github.com/dsasoftware">
+				<img src="https://avatars.githubusercontent.com/u/3461425?s=72&u=524ff2429c6973e6eba48ca9d65261bc5a2b3915&v=4" width="24" alt="Avatar of dsasoftware"> dsasoftware
+			</a><br/>
+			Jonathan Guacaran
+		</td>
+		<td>Dsa Software Sistemas De<br/>Gestion,<br/>C.a.<br/></td>
+		<td><a href="https://twitter.com/dsasoftwaresg">dsasoftwaresg</a></td>
+		<td>Maracay-Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>914</td>
+		<td>
+			<a href="https://github.com/cesarjv">
+				<img src="https://avatars.githubusercontent.com/u/31625237?s=72&u=b8d3cb8f3fc45baec2e657438635210caa2cfab4&v=4" width="24" alt="Avatar of cesarjv"> cesarjv
+			</a><br/>
+			Cesar
+		</td>
+		<td>Telefonica Venezolana </td>
+		<td>No Twitter Username</td>
+		<td>Caracas-Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>915</td>
+		<td>
+			<a href="https://github.com/samudex">
+				<img src="https://avatars.githubusercontent.com/u/22878819?s=72&u=ec45364e6b9d1e15abdd58312564fd3e62ce5654&v=4" width="24" alt="Avatar of samudex"> samudex
+			</a><br/>
+			Daniel Prieto
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/danielprieto">danielprieto</a></td>
+		<td>Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>916</td>
+		<td>
+			<a href="https://github.com/jraulhernandezi">
+				<img src="https://avatars.githubusercontent.com/u/35578070?s=72&u=11c1f1ead7c85748060802b18956cf5ccc39f7d0&v=4" width="24" alt="Avatar of jraulhernandezi"> jraulhernandezi
+			</a><br/>
+			Raúl
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Puerto Ordaz, Venezuela.</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>917</td>
+		<td>
+			<a href="https://github.com/rioyi">
+				<img src="https://avatars.githubusercontent.com/u/6560976?s=72&v=4" width="24" alt="Avatar of rioyi"> rioyi
+			</a><br/>
+			Rioyi
+		</td>
+		<td>Humantodev </td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>918</td>
+		<td>
+			<a href="https://github.com/SunfurThanos">
+				<img src="https://avatars.githubusercontent.com/u/67055968?s=72&u=cc7efc2ca44aebd6cd27950093a9f8128d94ad5f&v=4" width="24" alt="Avatar of SunfurThanos"> SunfurThanos
+			</a><br/>
+			Sunfur Thanos
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/andrade28765974">andrade28765974</a></td>
+		<td>Venezuela, estado vargas</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/SirLink">
 				<img src="https://avatars.githubusercontent.com/u/23324444?s=72&u=7e36766ba3179410354561c003e42ac846d40798&v=4" width="24" alt="Avatar of SirLink"> SirLink
@@ -12065,7 +12052,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>920</td>
 		<td>
 			<a href="https://github.com/jabdvlp">
 				<img src="https://avatars.githubusercontent.com/u/60757237?s=72&u=75b1b23afe348d2e5a4dcc1fce86fe9d868b0db9&v=4" width="24" alt="Avatar of jabdvlp"> jabdvlp
@@ -12078,7 +12065,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>922</td>
+		<td>921</td>
 		<td>
 			<a href="https://github.com/jhonDavid20">
 				<img src="https://avatars.githubusercontent.com/u/30915746?s=72&u=fd2192a7fb1813f85bcfa1e2debc7275b195e4cd&v=4" width="24" alt="Avatar of jhonDavid20"> jhonDavid20
@@ -12091,33 +12078,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
+		<td>922</td>
+		<td>
+			<a href="https://github.com/jcruzp">
+				<img src="https://avatars.githubusercontent.com/u/797197?s=72&u=38a8b1b9c95a16bb84a7ab7f13bfc82c581a41ae&v=4" width="24" alt="Avatar of jcruzp"> jcruzp
+			</a><br/>
+			Jose A. Cruz P.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Valencia. Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
 		<td>923</td>
-		<td>
-			<a href="https://github.com/jcruzp">
-				<img src="https://avatars.githubusercontent.com/u/797197?s=72&u=38a8b1b9c95a16bb84a7ab7f13bfc82c581a41ae&v=4" width="24" alt="Avatar of jcruzp"> jcruzp
-			</a><br/>
-			Jose A. Cruz P.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Valencia. Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>924</td>
-		<td>
-			<a href="https://github.com/jcruzp">
-				<img src="https://avatars.githubusercontent.com/u/797197?s=72&u=38a8b1b9c95a16bb84a7ab7f13bfc82c581a41ae&v=4" width="24" alt="Avatar of jcruzp"> jcruzp
-			</a><br/>
-			Jose A. Cruz P.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Valencia. Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>925</td>
 		<td>
 			<a href="https://github.com/jorgeblanc9">
 				<img src="https://avatars.githubusercontent.com/u/23270073?s=72&v=4" width="24" alt="Avatar of jorgeblanc9"> jorgeblanc9
@@ -12130,7 +12104,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>926</td>
+		<td>924</td>
+		<td>
+			<a href="https://github.com/Wil-Alex">
+				<img src="https://avatars.githubusercontent.com/u/42851789?s=72&u=15c4c1e8e32dfcba701b48bbdf1b69de9849b8cc&v=4" width="24" alt="Avatar of Wil-Alex"> Wil-Alex
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/alex_doblevv">alex_doblevv</a></td>
+		<td>Venezuela, Caracas</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>925</td>
 		<td>
 			<a href="https://github.com/romero-cesar">
 				<img src="https://avatars.githubusercontent.com/u/30704991?s=72&u=b00f2ea86bdb6031e156e5f71b43501d40e051c8&v=4" width="24" alt="Avatar of romero-cesar"> romero-cesar
@@ -12143,20 +12130,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>927</td>
+		<td>926</td>
 		<td>
-			<a href="https://github.com/dsasoftware">
-				<img src="https://avatars.githubusercontent.com/u/3461425?s=72&u=524ff2429c6973e6eba48ca9d65261bc5a2b3915&v=4" width="24" alt="Avatar of dsasoftware"> dsasoftware
+			<a href="https://github.com/marianoarnaiz">
+				<img src="https://avatars.githubusercontent.com/u/40127582?s=72&u=b4e31a53f325dd0f4ba280e9c786f856da21aaca&v=4" width="24" alt="Avatar of marianoarnaiz"> marianoarnaiz
 			</a><br/>
-			Jonathan Guacaran
+			Mariano Arnaiz
 		</td>
-		<td>Dsa Software Sistemas De<br/>Gestion,<br/>C.a.<br/></td>
+		<td>Central University Of Venezuela<br/></td>
 		<td>No Twitter Username</td>
-		<td>Maracay-Venezuela</td>
+		<td>Caracas, Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>928</td>
+		<td>927</td>
 		<td>
 			<a href="https://github.com/rpucheq">
 				<img src="https://avatars.githubusercontent.com/u/8097067?s=72&u=c8b06e5feae63e02372b0327eb85e39d9042aaf4&v=4" width="24" alt="Avatar of rpucheq"> rpucheq
@@ -12169,7 +12156,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>929</td>
+		<td>928</td>
 		<td>
 			<a href="https://github.com/wgiovanni">
 				<img src="https://avatars.githubusercontent.com/u/11747430?s=72&u=eadac54d4463a718d16b4db13036d09b57428b89&v=4" width="24" alt="Avatar of wgiovanni"> wgiovanni
@@ -12182,20 +12169,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>930</td>
-		<td>
-			<a href="https://github.com/davidGuerraCode">
-				<img src="https://avatars.githubusercontent.com/u/30390925?s=72&u=05ab6949e496fd4f5db58f21710f2ad369dc4bf5&v=4" width="24" alt="Avatar of davidGuerraCode"> davidGuerraCode
-			</a><br/>
-			David Vásquez
-		</td>
-		<td>Atlasisdev </td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>931</td>
+		<td>929</td>
 		<td>
 			<a href="https://github.com/jmtt89">
 				<img src="https://avatars.githubusercontent.com/u/1221543?s=72&v=4" width="24" alt="Avatar of jmtt89"> jmtt89
@@ -12208,7 +12182,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>932</td>
+		<td>930</td>
 		<td>
 			<a href="https://github.com/laugustol">
 				<img src="https://avatars.githubusercontent.com/u/14079132?s=72&u=774e76bee061eaae4890f03567c17f87a55c1f7d&v=4" width="24" alt="Avatar of laugustol"> laugustol
@@ -12221,7 +12195,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>933</td>
+		<td>931</td>
 		<td>
 			<a href="https://github.com/fmelendezherize">
 				<img src="https://avatars.githubusercontent.com/u/5482083?s=72&u=671c9ae79dbc666aa08461880237b2b2e371e9c0&v=4" width="24" alt="Avatar of fmelendezherize"> fmelendezherize
@@ -12234,7 +12208,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>934</td>
+		<td>932</td>
 		<td>
 			<a href="https://github.com/joseconejoo">
 				<img src="https://avatars.githubusercontent.com/u/39308405?s=72&u=2c665c3e7ad4c3b2605b26cf8444c2be404a2c59&v=4" width="24" alt="Avatar of joseconejoo"> joseconejoo
@@ -12247,7 +12221,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>935</td>
+		<td>933</td>
 		<td>
 			<a href="https://github.com/vidaldev">
 				<img src="https://avatars.githubusercontent.com/u/30393443?s=72&u=0355de4c39e95a31ac959088f9b635bad480fb1f&v=4" width="24" alt="Avatar of vidaldev"> vidaldev
@@ -12260,7 +12234,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>936</td>
+		<td>934</td>
 		<td>
 			<a href="https://github.com/leo7r">
 				<img src="https://avatars.githubusercontent.com/u/6210797?s=72&v=4" width="24" alt="Avatar of leo7r"> leo7r
@@ -12270,6 +12244,32 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Caracas, Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>935</td>
+		<td>
+			<a href="https://github.com/ninboy">
+				<img src="https://avatars.githubusercontent.com/u/34670?s=72&v=4" width="24" alt="Avatar of ninboy"> ninboy
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Caracas, Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>936</td>
+		<td>
+			<a href="https://github.com/aceroraas">
+				<img src="https://avatars.githubusercontent.com/u/29669904?s=72&u=e30b3c4331afb9c2414b2b089613f0eee1581b40&v=4" width="24" alt="Avatar of aceroraas"> aceroraas
+			</a><br/>
+			RAAS
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -12288,32 +12288,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>938</td>
 		<td>
-			<a href="https://github.com/aceroraas">
-				<img src="https://avatars.githubusercontent.com/u/29669904?s=72&u=e30b3c4331afb9c2414b2b089613f0eee1581b40&v=4" width="24" alt="Avatar of aceroraas"> aceroraas
-			</a><br/>
-			RAAS
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>939</td>
-		<td>
-			<a href="https://github.com/ninboy">
-				<img src="https://avatars.githubusercontent.com/u/34670?s=72&v=4" width="24" alt="Avatar of ninboy"> ninboy
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Caracas, Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>940</td>
-		<td>
 			<a href="https://github.com/josemrp">
 				<img src="https://avatars.githubusercontent.com/u/19317392?s=72&u=45f29262033aff3fc58c52c822d50df80250b1d3&v=4" width="24" alt="Avatar of josemrp"> josemrp
 			</a><br/>
@@ -12325,20 +12299,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>941</td>
-		<td>
-			<a href="https://github.com/ravillarreal">
-				<img src="https://avatars.githubusercontent.com/u/29802906?s=72&v=4" width="24" alt="Avatar of ravillarreal"> ravillarreal
-			</a><br/>
-			Rafael Villarreal
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Maracaibo, Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>942</td>
+		<td>939</td>
 		<td>
 			<a href="https://github.com/edumntg">
 				<img src="https://avatars.githubusercontent.com/u/5995759?s=72&u=14c7a537bfc7c73331b2dd1003519784692e2e46&v=4" width="24" alt="Avatar of edumntg"> edumntg
@@ -12351,7 +12312,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>943</td>
+		<td>940</td>
+		<td>
+			<a href="https://github.com/ravillarreal">
+				<img src="https://avatars.githubusercontent.com/u/29802906?s=72&v=4" width="24" alt="Avatar of ravillarreal"> ravillarreal
+			</a><br/>
+			Rafael Villarreal
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Maracaibo, Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>941</td>
 		<td>
 			<a href="https://github.com/OsweRRR">
 				<img src="https://avatars.githubusercontent.com/u/23623282?s=72&u=b71b69935d2ab08bb57c00b8d765865cd718c9ff&v=4" width="24" alt="Avatar of OsweRRR"> OsweRRR
@@ -12364,7 +12338,20 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>944</td>
+		<td>942</td>
+		<td>
+			<a href="https://github.com/davidGuerraCode">
+				<img src="https://avatars.githubusercontent.com/u/30390925?s=72&u=05ab6949e496fd4f5db58f21710f2ad369dc4bf5&v=4" width="24" alt="Avatar of davidGuerraCode"> davidGuerraCode
+			</a><br/>
+			David Vásquez
+		</td>
+		<td>Atlasisdev </td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>943</td>
 		<td>
 			<a href="https://github.com/josemontiel">
 				<img src="https://avatars.githubusercontent.com/u/7999856?s=72&u=b71387da303d29a264dca8e263eef3486de322bf&v=4" width="24" alt="Avatar of josemontiel"> josemontiel
@@ -12377,7 +12364,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>945</td>
+		<td>944</td>
 		<td>
 			<a href="https://github.com/javierEd">
 				<img src="https://avatars.githubusercontent.com/u/4282637?s=72&u=d31f31001412ad14a8d873149965debebdd3790f&v=4" width="24" alt="Avatar of javierEd"> javierEd
@@ -12390,7 +12377,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>946</td>
+		<td>945</td>
 		<td>
 			<a href="https://github.com/yeniferramirez11">
 				<img src="https://avatars.githubusercontent.com/u/19655698?s=72&u=547d0c4c6d8867c9c0f20affa089566c993b91b5&v=4" width="24" alt="Avatar of yeniferramirez11"> yeniferramirez11
@@ -12403,7 +12390,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>947</td>
+		<td>946</td>
 		<td>
 			<a href="https://github.com/joseluistineo90">
 				<img src="https://avatars.githubusercontent.com/u/3197227?s=72&u=e3cd9238879ad45eb382d41ba0625abee2a9b0d0&v=4" width="24" alt="Avatar of joseluistineo90"> joseluistineo90
@@ -12416,7 +12403,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>948</td>
+		<td>947</td>
 		<td>
 			<a href="https://github.com/sam-silva">
 				<img src="https://avatars.githubusercontent.com/u/50209880?s=72&u=26f71855002a012a10681a54a753f89947c0d083&v=4" width="24" alt="Avatar of sam-silva"> sam-silva
@@ -12429,7 +12416,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>949</td>
+		<td>948</td>
 		<td>
 			<a href="https://github.com/flex-developments">
 				<img src="https://avatars.githubusercontent.com/u/9126700?s=72&u=78559dfd7101590fb11a0975648392d65c773cbe&v=4" width="24" alt="Avatar of flex-developments"> flex-developments
@@ -12442,7 +12429,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>950</td>
+		<td>949</td>
 		<td>
 			<a href="https://github.com/BioRazor">
 				<img src="https://avatars.githubusercontent.com/u/12092681?s=72&v=4" width="24" alt="Avatar of BioRazor"> BioRazor
@@ -12455,7 +12442,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>951</td>
+		<td>950</td>
 		<td>
 			<a href="https://github.com/jesuslopezlugo">
 				<img src="https://avatars.githubusercontent.com/u/1766884?s=72&u=1b14df5a46736cbc0157cbccfc0743d2c6726cbd&v=4" width="24" alt="Avatar of jesuslopezlugo"> jesuslopezlugo
@@ -12468,7 +12455,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>952</td>
+		<td>951</td>
 		<td>
 			<a href="https://github.com/ErisoHV">
 				<img src="https://avatars.githubusercontent.com/u/3903551?s=72&u=9724e9acfbbf1d4c69a16c2454432dd551e67e25&v=4" width="24" alt="Avatar of ErisoHV"> ErisoHV
@@ -12481,7 +12468,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>953</td>
+		<td>952</td>
 		<td>
 			<a href="https://github.com/JsusMillan">
 				<img src="https://avatars.githubusercontent.com/u/1726874?s=72&u=16a87ba2256fab907fbccf270e5e2dcc48d31433&v=4" width="24" alt="Avatar of JsusMillan"> JsusMillan
@@ -12494,7 +12481,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>954</td>
+		<td>953</td>
 		<td>
 			<a href="https://github.com/jotaveca">
 				<img src="https://avatars.githubusercontent.com/u/18203449?s=72&u=2c4000f2b2618b3fd9ec272e66a5439a7e780162&v=4" width="24" alt="Avatar of jotaveca"> jotaveca
@@ -12507,7 +12494,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>955</td>
+		<td>954</td>
 		<td>
 			<a href="https://github.com/josemalvarezg1">
 				<img src="https://avatars.githubusercontent.com/u/19997251?s=72&u=fc8a55cbe7bcd17ca6e5561ec9eadde95e4933a1&v=4" width="24" alt="Avatar of josemalvarezg1"> josemalvarezg1
@@ -12520,7 +12507,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>956</td>
+		<td>955</td>
 		<td>
 			<a href="https://github.com/luisjmrtnz">
 				<img src="https://avatars.githubusercontent.com/u/18398539?s=72&u=247d3ba2b313e3125b19b5bb353604ef60caa1e1&v=4" width="24" alt="Avatar of luisjmrtnz"> luisjmrtnz
@@ -12533,7 +12520,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>957</td>
+		<td>956</td>
 		<td>
 			<a href="https://github.com/Rubenazo">
 				<img src="https://avatars.githubusercontent.com/u/11355189?s=72&u=02c2db5acbb4279950dfd45c40020b9d4a4eaa77&v=4" width="24" alt="Avatar of Rubenazo"> Rubenazo
@@ -12546,7 +12533,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>958</td>
+		<td>957</td>
 		<td>
 			<a href="https://github.com/gerfig">
 				<img src="https://avatars.githubusercontent.com/u/4500467?s=72&v=4" width="24" alt="Avatar of gerfig"> gerfig
@@ -12559,7 +12546,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>959</td>
+		<td>958</td>
 		<td>
 			<a href="https://github.com/RafaelTorrealba">
 				<img src="https://avatars.githubusercontent.com/u/10966290?s=72&u=1c08ad8ec193b1297f035654c79210eb2c90d5fc&v=4" width="24" alt="Avatar of RafaelTorrealba"> RafaelTorrealba
@@ -12569,6 +12556,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>Avalon Consultores, C.a. </td>
 		<td>No Twitter Username</td>
 		<td>Caracas - Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>959</td>
+		<td>
+			<a href="https://github.com/GeorgeNava">
+				<img src="https://avatars.githubusercontent.com/u/153565?s=72&v=4" width="24" alt="Avatar of GeorgeNava"> GeorgeNava
+			</a><br/>
+			George Nava
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -12587,19 +12587,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>961</td>
 		<td>
-			<a href="https://github.com/GeorgeNava">
-				<img src="https://avatars.githubusercontent.com/u/153565?s=72&v=4" width="24" alt="Avatar of GeorgeNava"> GeorgeNava
-			</a><br/>
-			George Nava
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>962</td>
-		<td>
 			<a href="https://github.com/britojesusr">
 				<img src="https://avatars.githubusercontent.com/u/23616051?s=72&u=3cbbea62197bffec541683fba0adea1a9d8b7338&v=4" width="24" alt="Avatar of britojesusr"> britojesusr
 			</a><br/>
@@ -12611,7 +12598,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>963</td>
+		<td>962</td>
 		<td>
 			<a href="https://github.com/thaeronm">
 				<img src="https://avatars.githubusercontent.com/u/23365598?s=72&u=ba5b134f2fdb2009344a5d12584139ab553839c9&v=4" width="24" alt="Avatar of thaeronm"> thaeronm
@@ -12624,7 +12611,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>964</td>
+		<td>963</td>
 		<td>
 			<a href="https://github.com/ponceelrelajado">
 				<img src="https://avatars.githubusercontent.com/u/2956103?s=72&u=0651f715785338589c869f73ef39bd1d9e9d6d5a&v=4" width="24" alt="Avatar of ponceelrelajado"> ponceelrelajado
@@ -12637,7 +12624,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>965</td>
+		<td>964</td>
 		<td>
 			<a href="https://github.com/abrahamventura95">
 				<img src="https://avatars.githubusercontent.com/u/32375208?s=72&v=4" width="24" alt="Avatar of abrahamventura95"> abrahamventura95
@@ -12647,6 +12634,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>965</td>
+		<td>
+			<a href="https://github.com/guerrasoto10">
+				<img src="https://avatars.githubusercontent.com/u/23041224?s=72&u=8e2829e1113007b8ae6458caea3fe0312d0d5a6f&v=4" width="24" alt="Avatar of guerrasoto10"> guerrasoto10
+			</a><br/>
+			Gustavo Guerra
+		</td>
+		<td>Ula </td>
+		<td>No Twitter Username</td>
+		<td>Merida-Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -12665,19 +12665,6 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>967</td>
 		<td>
-			<a href="https://github.com/guerrasoto10">
-				<img src="https://avatars.githubusercontent.com/u/23041224?s=72&u=8e2829e1113007b8ae6458caea3fe0312d0d5a6f&v=4" width="24" alt="Avatar of guerrasoto10"> guerrasoto10
-			</a><br/>
-			Gustavo Guerra
-		</td>
-		<td>Ula </td>
-		<td>No Twitter Username</td>
-		<td>Merida-Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>968</td>
-		<td>
 			<a href="https://github.com/marthamendez21">
 				<img src="https://avatars.githubusercontent.com/u/8876942?s=72&u=968b22f759833d6bf8e06e49bb1852e875cc82d4&v=4" width="24" alt="Avatar of marthamendez21"> marthamendez21
 			</a><br/>
@@ -12686,6 +12673,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Barquisimeto, Lara. Venezuela</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>968</td>
+		<td>
+			<a href="https://github.com/bpena">
+				<img src="https://avatars.githubusercontent.com/u/1167332?s=72&v=4" width="24" alt="Avatar of bpena"> bpena
+			</a><br/>
+			Bernardo Peña
+		</td>
+		<td>Promotora Tántalo </td>
+		<td>No Twitter Username</td>
+		<td>Valencia, Carabobo - Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -12704,31 +12704,18 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 	<tr>
 		<td>970</td>
 		<td>
-			<a href="https://github.com/RJPC">
-				<img src="https://avatars.githubusercontent.com/u/5696550?s=72&u=a2fd0ec56cbf7a66d117f38e6e3b5c97a8d2916d&v=4" width="24" alt="Avatar of RJPC"> RJPC
+			<a href="https://github.com/J4rvs">
+				<img src="https://avatars.githubusercontent.com/u/36446725?s=72&u=e68ca288b06564c378e5def829488b596318e0f6&v=4" width="24" alt="Avatar of J4rvs"> J4rvs
 			</a><br/>
-			Rahiber Paradas
+			José Javier Martínez
 		</td>
-		<td>@frontuari  </td>
+		<td>@teranvo </td>
 		<td>No Twitter Username</td>
-		<td>Araure, Edo Portuguesa, Venezuela</td>
+		<td>Venezuela</td>
 		<td>5</td>
 	</tr>
 	<tr>
 		<td>971</td>
-		<td>
-			<a href="https://github.com/bpena">
-				<img src="https://avatars.githubusercontent.com/u/1167332?s=72&v=4" width="24" alt="Avatar of bpena"> bpena
-			</a><br/>
-			Bernardo Peña
-		</td>
-		<td>Promotora Tántalo </td>
-		<td>No Twitter Username</td>
-		<td>Valencia, Carabobo - Venezuela</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>972</td>
 		<td>
 			<a href="https://github.com/RoseCorpse">
 				<img src="https://avatars.githubusercontent.com/u/20915298?s=72&u=1dbd7661fd9d225a6f06c0aa775e4ae6f6ee0e97&v=4" width="24" alt="Avatar of RoseCorpse"> RoseCorpse
@@ -12741,7 +12728,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>973</td>
+		<td>972</td>
 		<td>
 			<a href="https://github.com/lomelisan">
 				<img src="https://avatars.githubusercontent.com/u/9118571?s=72&v=4" width="24" alt="Avatar of lomelisan"> lomelisan
@@ -12754,7 +12741,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>974</td>
+		<td>973</td>
 		<td>
 			<a href="https://github.com/guayu">
 				<img src="https://avatars.githubusercontent.com/u/291690?s=72&v=4" width="24" alt="Avatar of guayu"> guayu
@@ -12767,7 +12754,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>975</td>
+		<td>974</td>
 		<td>
 			<a href="https://github.com/lorissantamaria">
 				<img src="https://avatars.githubusercontent.com/u/2544530?s=72&v=4" width="24" alt="Avatar of lorissantamaria"> lorissantamaria
@@ -12780,7 +12767,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>976</td>
+		<td>975</td>
 		<td>
 			<a href="https://github.com/fidelwx">
 				<img src="https://avatars.githubusercontent.com/u/13259101?s=72&u=6cbc9196cd582d8268cd012aa992edd58e3e8210&v=4" width="24" alt="Avatar of fidelwx"> fidelwx
@@ -12793,7 +12780,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>977</td>
+		<td>976</td>
 		<td>
 			<a href="https://github.com/javierslzrh">
 				<img src="https://avatars.githubusercontent.com/u/4943525?s=72&v=4" width="24" alt="Avatar of javierslzrh"> javierslzrh
@@ -12806,7 +12793,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>978</td>
+		<td>977</td>
 		<td>
 			<a href="https://github.com/ssvictora">
 				<img src="https://avatars.githubusercontent.com/u/40406168?s=72&v=4" width="24" alt="Avatar of ssvictora"> ssvictora
@@ -12819,7 +12806,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>979</td>
+		<td>978</td>
 		<td>
 			<a href="https://github.com/Jjedi">
 				<img src="https://avatars.githubusercontent.com/u/4379064?s=72&v=4" width="24" alt="Avatar of Jjedi"> Jjedi
@@ -12832,7 +12819,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>980</td>
+		<td>979</td>
 		<td>
 			<a href="https://github.com/JssMarin">
 				<img src="https://avatars.githubusercontent.com/u/13279727?s=72&u=8d34bb77ef942b62fd8f9ac502adf07fa83efab0&v=4" width="24" alt="Avatar of JssMarin"> JssMarin
@@ -12845,7 +12832,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>981</td>
+		<td>980</td>
 		<td>
 			<a href="https://github.com/mendezlarisa">
 				<img src="https://avatars.githubusercontent.com/u/7053796?s=72&u=a97b858037f087f2da03e87cee2c246fc9ab7440&v=4" width="24" alt="Avatar of mendezlarisa"> mendezlarisa
@@ -12858,7 +12845,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>982</td>
+		<td>981</td>
 		<td>
 			<a href="https://github.com/viczzz">
 				<img src="https://avatars.githubusercontent.com/u/21047907?s=72&u=7a0dc54c8894efbe73839f6e8704957645029a4b&v=4" width="24" alt="Avatar of viczzz"> viczzz
@@ -12871,7 +12858,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>983</td>
+		<td>982</td>
 		<td>
 			<a href="https://github.com/jcpatio">
 				<img src="https://avatars.githubusercontent.com/u/15804346?s=72&u=3f01324b6f6e8c556d8d73b67634a5b874def4ed&v=4" width="24" alt="Avatar of jcpatio"> jcpatio
@@ -12884,7 +12871,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>984</td>
+		<td>983</td>
 		<td>
 			<a href="https://github.com/PredatorFly">
 				<img src="https://avatars.githubusercontent.com/u/33920804?s=72&u=3831288eb29159b4465c05d08f77bda6433cdcfe&v=4" width="24" alt="Avatar of PredatorFly"> PredatorFly
@@ -12897,7 +12884,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>985</td>
+		<td>984</td>
 		<td>
 			<a href="https://github.com/gustavonouel">
 				<img src="https://avatars.githubusercontent.com/u/40250056?s=72&u=680503a250c34138abc107d3a8add331d19aa7a2&v=4" width="24" alt="Avatar of gustavonouel"> gustavonouel
@@ -12910,7 +12897,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>986</td>
+		<td>985</td>
 		<td>
 			<a href="https://github.com/soullessdead">
 				<img src="https://avatars.githubusercontent.com/u/6645054?s=72&u=b683bf83f368878e3bd636f6f5d973b0bea5b8b1&v=4" width="24" alt="Avatar of soullessdead"> soullessdead
@@ -12923,7 +12910,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>987</td>
+		<td>986</td>
 		<td>
 			<a href="https://github.com/dotjorgeu">
 				<img src="https://avatars.githubusercontent.com/u/1538310?s=72&v=4" width="24" alt="Avatar of dotjorgeu"> dotjorgeu
@@ -12936,7 +12923,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>988</td>
+		<td>987</td>
 		<td>
 			<a href="https://github.com/tonyram19">
 				<img src="https://avatars.githubusercontent.com/u/1525663?s=72&u=e71fae24fc447b613632db6db2b3c3f72630bdf4&v=4" width="24" alt="Avatar of tonyram19"> tonyram19
@@ -12949,7 +12936,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>989</td>
+		<td>988</td>
 		<td>
 			<a href="https://github.com/fragarcia">
 				<img src="https://avatars.githubusercontent.com/u/7925033?s=72&u=294f6c8008b8b676f5cd6e170688f4097117da06&v=4" width="24" alt="Avatar of fragarcia"> fragarcia
@@ -12962,7 +12949,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>990</td>
+		<td>989</td>
 		<td>
 			<a href="https://github.com/jacoboamn87">
 				<img src="https://avatars.githubusercontent.com/u/1831679?s=72&v=4" width="24" alt="Avatar of jacoboamn87"> jacoboamn87
@@ -12975,7 +12962,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>991</td>
+		<td>990</td>
 		<td>
 			<a href="https://github.com/Instapago">
 				<img src="https://avatars.githubusercontent.com/u/9992331?s=72&u=fc4409249829cf7415c4a497264e116655065106&v=4" width="24" alt="Avatar of Instapago"> Instapago
@@ -12988,7 +12975,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>992</td>
+		<td>991</td>
 		<td>
 			<a href="https://github.com/mendezand">
 				<img src="https://avatars.githubusercontent.com/u/38763253?s=72&u=0101c6ed20a00dd1d111bfbdfa3e28431bf82b2a&v=4" width="24" alt="Avatar of mendezand"> mendezand
@@ -13001,7 +12988,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>993</td>
+		<td>992</td>
 		<td>
 			<a href="https://github.com/nanik94">
 				<img src="https://avatars.githubusercontent.com/u/36210912?s=72&u=67d575030f6ff14e0a736567b108951cdef08699&v=4" width="24" alt="Avatar of nanik94"> nanik94
@@ -13014,7 +13001,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>994</td>
+		<td>993</td>
 		<td>
 			<a href="https://github.com/erickhs">
 				<img src="https://avatars.githubusercontent.com/u/2702239?s=72&u=fa5ddfce8e1deafe4baecd24f757e60c5a700871&v=4" width="24" alt="Avatar of erickhs"> erickhs
@@ -13027,7 +13014,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>995</td>
+		<td>994</td>
 		<td>
 			<a href="https://github.com/EdenBrodbeck">
 				<img src="https://avatars.githubusercontent.com/u/9095915?s=72&u=f55532bc0fe213cc172c0f8d0bfe8bf0cc4120db&v=4" width="24" alt="Avatar of EdenBrodbeck"> EdenBrodbeck
@@ -13040,7 +13027,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>996</td>
+		<td>995</td>
 		<td>
 			<a href="https://github.com/zasquez">
 				<img src="https://avatars.githubusercontent.com/u/15965389?s=72&u=776df2c580a2329e15985e986d7965af5d693301&v=4" width="24" alt="Avatar of zasquez"> zasquez
@@ -13053,7 +13040,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>997</td>
+		<td>996</td>
 		<td>
 			<a href="https://github.com/YohanYsturiz">
 				<img src="https://avatars.githubusercontent.com/u/29384897?s=72&u=456e3094635d99a3204064000e6e86f76cbe54b1&v=4" width="24" alt="Avatar of YohanYsturiz"> YohanYsturiz
@@ -13066,7 +13053,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>998</td>
+		<td>997</td>
 		<td>
 			<a href="https://github.com/JChiquin">
 				<img src="https://avatars.githubusercontent.com/u/37207786?s=72&u=49a6bbde98b0ea932ff99ea9c2d72a920e75acf2&v=4" width="24" alt="Avatar of JChiquin"> JChiquin
@@ -13079,7 +13066,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>999</td>
+		<td>998</td>
 		<td>
 			<a href="https://github.com/vjgonzalezg">
 				<img src="https://avatars.githubusercontent.com/u/14031967?s=72&v=4" width="24" alt="Avatar of vjgonzalezg"> vjgonzalezg
@@ -13092,7 +13079,7 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>1000</td>
+		<td>999</td>
 		<td>
 			<a href="https://github.com/rodolforivr">
 				<img src="https://avatars.githubusercontent.com/u/44755764?s=72&v=4" width="24" alt="Avatar of rodolforivr"> rodolforivr
@@ -13102,6 +13089,19 @@ There are `1000 users`  in Venezuela. You need at least `4 followers` to be on t
 		<td>Freelancer </td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>1000</td>
+		<td>
+			<a href="https://github.com/cidesa">
+				<img src="https://avatars.githubusercontent.com/u/244369?s=72&v=4" width="24" alt="Avatar of cidesa"> cidesa
+			</a><br/>
+			Desarrollo Cidesa
+		</td>
+		<td>Cide, S.a. </td>
+		<td>No Twitter Username</td>
+		<td>Barquisimeto, Lara, Venezuela</td>
 		<td>4</td>
 	</tr>
 </table>
