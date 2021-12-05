@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2021/11/29 5:23 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2021/12/5 2:14 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `31 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
+There are `32 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -133,6 +133,19 @@ There are `31 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>3</td>
 		<td>
+			<a href="https://github.com/PrinceFazza">
+				<img src="https://avatars.githubusercontent.com/u/94594248?s=72&v=4" width="24" alt="Avatar of PrinceFazza"> PrinceFazza
+			</a><br/>
+			Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum
+		</td>
+		<td>Crown Prince Of Dubai<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Dubai, United Arab Emirates</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>
 			<a href="https://github.com/genesisneo">
 				<img src="https://avatars.githubusercontent.com/u/2639011?s=72&v=4" width="24" alt="Avatar of genesisneo"> genesisneo
 			</a><br/>
@@ -144,7 +157,20 @@ There are `31 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>4</td>
+		<td>5</td>
+		<td>
+			<a href="https://github.com/CrownPrinceofDubai">
+				<img src="https://avatars.githubusercontent.com/u/94616247?s=72&u=00b75f7b6d8959957de1f07a91e7b4dc1c5c1365&v=4" width="24" alt="Avatar of CrownPrinceofDubai"> CrownPrinceofDubai
+			</a><br/>
+			Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum
+		</td>
+		<td>Crown Prince Of Dubai<br/></td>
+		<td>No Twitter Username</td>
+		<td> Dubai, United Arab Emirates</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>6</td>
 		<td>
 			<a href="https://github.com/vaseemahmed01">
 				<img src="https://avatars.githubusercontent.com/u/6498283?s=72&u=dc26c977c229b63e5f83f315b934992602e93c47&v=4" width="24" alt="Avatar of vaseemahmed01"> vaseemahmed01
@@ -157,7 +183,7 @@ There are `31 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>5</td>
+		<td>7</td>
 		<td>
 			<a href="https://github.com/imluckyhussain">
 				<img src="https://avatars.githubusercontent.com/u/17722529?s=72&u=f0a5f31de910ab711867bd1accc194b8cd58b118&v=4" width="24" alt="Avatar of imluckyhussain"> imluckyhussain
@@ -167,32 +193,6 @@ There are `31 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@emirates </td>
 		<td><a href="https://twitter.com/IamMHussain">IamMHussain</a></td>
 		<td>Dubai</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>
-			<a href="https://github.com/PrinceFazza">
-				<img src="https://avatars.githubusercontent.com/u/94594248?s=72&v=4" width="24" alt="Avatar of PrinceFazza"> PrinceFazza
-			</a><br/>
-			Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum
-		</td>
-		<td>Crown Prince Of Dubai<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Dubai, United Arab Emirates</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>
-			<a href="https://github.com/CrownPrinceofDubai">
-				<img src="https://avatars.githubusercontent.com/u/94616247?s=72&u=00b75f7b6d8959957de1f07a91e7b4dc1c5c1365&v=4" width="24" alt="Avatar of CrownPrinceofDubai"> CrownPrinceofDubai
-			</a><br/>
-			Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum
-		</td>
-		<td>Crown Prince Of Dubai<br/></td>
-		<td>No Twitter Username</td>
-		<td> Dubai, United Arab Emirates</td>
 		<td>2</td>
 	</tr>
 	<tr>
