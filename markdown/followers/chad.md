@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2021/12/1 6:19 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2021/12/7 4:21 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
@@ -167,7 +167,7 @@ There are `74 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>Lrs </td>
 		<td><a href="https://twitter.com/gitmhd">gitmhd</a></td>
 		<td>N'djamena</td>
-		<td>6</td>
+		<td>7</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -284,7 +284,7 @@ There are `74 users`  in Chad. You need at least `0 followers` to be on this lis
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>N'Djamena Tchad</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 	<tr>
 		<td>15</td>
