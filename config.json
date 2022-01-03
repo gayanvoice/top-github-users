@@ -84,7 +84,7 @@
     { "country":  "moldova", "geoName": "Moldova", "cities": ["chișinău", "tiraspol"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg" },
     { "country":  "mongolia", "geoName": "Mongolia", "cities": ["ulaanbaatar", "ulaangom"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg" },
     { "country":  "montenegro", "geoName": "Montenegro", "cities": ["podgorica", "nikšić"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg" },
-    { "country":  "morocco", "geoName": "Morocco", "cities": ["casablanca", "tangier", "marrakesh", "meknes", "rabat", "fes"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" },
+    { "country":  "morocco", "geoName": "Morocco", "cities": ["casablanca", "tangier", "marrakesh", "meknes", "rabat", "fes" , "guercif" , "agadir" , "oujda" , "laayoune"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" },
     { "country":  "mozambique ", "geoName": "Mozambique", "cities": ["maputo", "beira", "quelimane", "chimoio", "matola", "nacala"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg" },
     { "country":  "myanmar", "geoName": "Myanmar", "cities": ["yangon", "mandalay", "naypyitaw", "bago", "mawlamyine", "taunggyi"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg" },
     { "country":  "namibia", "geoName": "Namibia", "cities": ["windhoek", "swakopmund", "walvis-bay", "otjiwarongo"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg" },
