@@ -1398,6 +1398,23 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/niger.md">
+				Niger
+			</a>
+		</td>
+		<td>
+			<code>Niamey</code> 
+			<code>Zinder</code> 
+			<code>Maradi</code> 
+			<code>Diffa</code> 
+			<code>Dosso</code> 
+			<code>Tahoua</code> 
+			<code>Tillabery</code>
+			<code>Agadez</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/nigeria.md">
 				Nigeria
 			</a>
