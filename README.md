@@ -884,7 +884,8 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 			</a>
 		</td>
 		<td>
-			<code>Mumbai</code> 
+			<code>Mumbai</code>
+			<code>Bangalore</code>
 			<code>Bengaluru</code> 
 			<code>Chennai</code> 
 			<code>Ahmedabad</code> 
