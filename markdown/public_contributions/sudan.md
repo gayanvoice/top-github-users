@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg" alt="Sudan">
 </a>
 
-The `public contributions` by users in Sudan on `2022/1/2 1:57 AM UTC`. This list contains users from `Sudan` and cities `Khartoum` `Omdurman`.
+The `public contributions` by users in Sudan on `2022/1/12 1:22 PM UTC`. This list contains users from `Sudan` and cities `Khartoum` `Omdurman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
