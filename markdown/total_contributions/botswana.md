@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg" alt="Botswana">
 </a>
 
-The `public contributions` and `private contributions` by users in Botswana on `2022/2/5 6:13 AM UTC`. This list contains users from `Botswana` and cities `Gaborone` `Francistown` `Maun` `Serowe` `Molepolole`.
+The `public contributions` and `private contributions` by users in Botswana on `2022/2/15 6:51 AM UTC`. This list contains users from `Botswana` and cities `Gaborone` `Francistown` `Maun` `Serowe` `Molepolole`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `512 users`  in Botswana. You need at least `0 followers` to be on this list.
+There are `513 users`  in Botswana. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -117,7 +117,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td><a href="https://twitter.com/BayonaElias">BayonaElias</a></td>
 		<td>Gaborone, Botswana</td>
 		<td>63</td>
-		<td>1630</td>
+		<td>1570</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -130,8 +130,8 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/amaal_hov">amaal_hov</a></td>
 		<td>Gaborone, Botswana</td>
-		<td>53</td>
-		<td>1214</td>
+		<td>52</td>
+		<td>1212</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,8 +144,8 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/KesegoMokgosi">KesegoMokgosi</a></td>
 		<td>Botswana</td>
-		<td>197</td>
-		<td>1081</td>
+		<td>196</td>
+		<td>1072</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -158,8 +158,8 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Gaborone, Botswana</td>
-		<td>901</td>
-		<td>912</td>
+		<td>1026</td>
+		<td>1037</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -172,8 +172,8 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>Solutech </td>
 		<td><a href="https://twitter.com/maatla_mogapi">maatla_mogapi</a></td>
 		<td>Gaborone, Botswana</td>
-		<td>617</td>
-		<td>617</td>
+		<td>618</td>
+		<td>618</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -186,8 +186,8 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>Botswana Harvard Aids Partnership<br/></td>
 		<td>No Twitter Username</td>
 		<td>Botswana, Gaborone</td>
-		<td>521</td>
-		<td>607</td>
+		<td>520</td>
+		<td>606</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -200,8 +200,8 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>Pixel 5 Softwares </td>
 		<td>No Twitter Username</td>
 		<td>Gaborone Botswana</td>
-		<td>316</td>
-		<td>564</td>
+		<td>376</td>
+		<td>594</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -214,8 +214,8 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>@anton-tech-bw, @gdsc-botswanaaccoun </td>
 		<td><a href="https://twitter.com/Tumo505">Tumo505</a></td>
 		<td>gaborone, botswana</td>
-		<td>102</td>
-		<td>492</td>
+		<td>100</td>
+		<td>491</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -228,8 +228,8 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>Unimelb </td>
 		<td>No Twitter Username</td>
 		<td>Gaborone, Botswana</td>
-		<td>218</td>
-		<td>467</td>
+		<td>193</td>
+		<td>439</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -242,11 +242,25 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Botswana</td>
-		<td>4</td>
-		<td>401</td>
+		<td>5</td>
+		<td>403</td>
 	</tr>
 	<tr>
 		<td>11</td>
+		<td>
+			<a href="https://github.com/impurefunctions">
+				<img src="https://avatars.githubusercontent.com/u/5565417?s=72&u=46f61b0e75232fd58c22dc03f5faebd6f46f4414&v=4" width="24" alt="Avatar of impurefunctions"> impurefunctions
+			</a><br/>
+			Kesego Tumisang
+		</td>
+		<td>@spectrum-analytics @officialgdggaborone  </td>
+		<td><a href="https://twitter.com/impurefunctions">impurefunctions</a></td>
+		<td>Gaborone, Botswana</td>
+		<td>34</td>
+		<td>335</td>
+	</tr>
+	<tr>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/Abel-Moremi">
 				<img src="https://avatars.githubusercontent.com/u/28807232?s=72&u=ab6e10f98172276783a994439224eda4ca2dcd2a&v=4" width="24" alt="Avatar of Abel-Moremi"> Abel-Moremi
@@ -256,22 +270,8 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>It-iq Botswana </td>
 		<td><a href="https://twitter.com/MoremiAbel">MoremiAbel</a></td>
 		<td>Gaborone, Botswana</td>
-		<td>263</td>
-		<td>343</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
-			<a href="https://github.com/impurefunctions">
-				<img src="https://avatars.githubusercontent.com/u/5565417?s=72&u=46f61b0e75232fd58c22dc03f5faebd6f46f4414&v=4" width="24" alt="Avatar of impurefunctions"> impurefunctions
-			</a><br/>
-			Kesego Tumisang
-		</td>
-		<td>@spectrum-analytics @officialgdggaborone  </td>
-		<td><a href="https://twitter.com/kesegotumisang">kesegotumisang</a></td>
-		<td>Gaborone, Botswana</td>
-		<td>34</td>
-		<td>341</td>
+		<td>232</td>
+		<td>312</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -298,8 +298,8 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>@pixel-pro-inc  </td>
 		<td>No Twitter Username</td>
 		<td>Botswana</td>
-		<td>274</td>
-		<td>274</td>
+		<td>275</td>
+		<td>275</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -309,11 +309,11 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 			</a><br/>
 			Tlotlo Kgotlafela
 		</td>
-		<td>No Company</td>
+		<td>Digital Natives </td>
 		<td><a href="https://twitter.com/patriotkgotlaf3">patriotkgotlaf3</a></td>
 		<td>Gaborone, Botswana</td>
 		<td>143</td>
-		<td>263</td>
+		<td>270</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -327,7 +327,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Gaborone</td>
 		<td>56</td>
-		<td>261</td>
+		<td>248</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -341,13 +341,13 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Botswana</td>
 		<td>40</td>
-		<td>248</td>
+		<td>244</td>
 	</tr>
 	<tr>
 		<td>18</td>
 		<td>
 			<a href="https://github.com/Kayne103">
-				<img src="https://avatars.githubusercontent.com/u/45307464?s=72&u=ad28848a85ad692caf05767b718fa4d3576e0c4a&v=4" width="24" alt="Avatar of Kayne103"> Kayne103
+				<img src="https://avatars.githubusercontent.com/u/45307464?s=72&u=de36bc6b9cf6bdfd73718ab9225c37f304366745&v=4" width="24" alt="Avatar of Kayne103"> Kayne103
 			</a><br/>
 			Kaene Karabo Lebakeng
 		</td>
@@ -355,10 +355,38 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td><a href="https://twitter.com/kayne_103">kayne_103</a></td>
 		<td>Gaborone, Botswana</td>
 		<td>131</td>
-		<td>218</td>
+		<td>235</td>
 	</tr>
 	<tr>
 		<td>19</td>
+		<td>
+			<a href="https://github.com/kitsoNamane">
+				<img src="https://avatars.githubusercontent.com/u/10577404?s=72&u=f96ceea790b3aacf87783664215649d1668acda9&v=4" width="24" alt="Avatar of kitsoNamane"> kitsoNamane
+			</a><br/>
+			Kitso Gidion Namane
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gaborone, Botswana, Africa</td>
+		<td>53</td>
+		<td>201</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/samKenpachi011">
+				<img src="https://avatars.githubusercontent.com/u/49259585?s=72&u=0bce1d1161ffd35977bcb07b85bc347796d5b77f&v=4" width="24" alt="Avatar of samKenpachi011"> samKenpachi011
+			</a><br/>
+			Samuel Kabelo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/samuel_kabelo">samuel_kabelo</a></td>
+		<td>Gaborone Botswana</td>
+		<td>191</td>
+		<td>191</td>
+	</tr>
+	<tr>
+		<td>21</td>
 		<td>
 			<a href="https://github.com/timothymonyake">
 				<img src="https://avatars.githubusercontent.com/u/33286216?s=72&v=4" width="24" alt="Avatar of timothymonyake"> timothymonyake
@@ -369,24 +397,10 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td><a href="https://twitter.com/timothymonyake">timothymonyake</a></td>
 		<td>Gaborone, Botswana</td>
 		<td>4</td>
-		<td>190</td>
+		<td>182</td>
 	</tr>
 	<tr>
-		<td>20</td>
-		<td>
-			<a href="https://github.com/kitsoNamane">
-				<img src="https://avatars.githubusercontent.com/u/10577404?s=72&u=f96ceea790b3aacf87783664215649d1668acda9&v=4" width="24" alt="Avatar of kitsoNamane"> kitsoNamane
-			</a><br/>
-			Kitso Gidion Namane
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Gaborone, Botswana, Africa</td>
-		<td>52</td>
-		<td>178</td>
-	</tr>
-	<tr>
-		<td>21</td>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/FaraMtb">
 				<img src="https://avatars.githubusercontent.com/u/54081239?s=72&u=7819d5e201aa214100f90c6b7d7c3ac71c7bee5a&v=4" width="24" alt="Avatar of FaraMtb"> FaraMtb
@@ -400,7 +414,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>23</td>
 		<td>
 			<a href="https://github.com/gala-m">
 				<img src="https://avatars.githubusercontent.com/u/76803540?s=72&v=4" width="24" alt="Avatar of gala-m"> gala-m
@@ -411,52 +425,10 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Gaborone</td>
 		<td>66</td>
-		<td>164</td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>
-			<a href="https://github.com/samKenpachi011">
-				<img src="https://avatars.githubusercontent.com/u/49259585?s=72&u=0bce1d1161ffd35977bcb07b85bc347796d5b77f&v=4" width="24" alt="Avatar of samKenpachi011"> samKenpachi011
-			</a><br/>
-			Samuel Kabelo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/samuel_kabelo">samuel_kabelo</a></td>
-		<td>Gaborone Botswana</td>
-		<td>153</td>
-		<td>153</td>
+		<td>170</td>
 	</tr>
 	<tr>
 		<td>24</td>
-		<td>
-			<a href="https://github.com/godwillmonthe">
-				<img src="https://avatars.githubusercontent.com/u/50472662?s=72&u=a430483ed928911fd9ac94cb26a6850f67c9dcba&v=4" width="24" alt="Avatar of godwillmonthe"> godwillmonthe
-			</a><br/>
-			Godwill Monthe
-		</td>
-		<td>Botswana Accountancy College <br/></td>
-		<td><a href="https://twitter.com/oletilemonthe">oletilemonthe</a></td>
-		<td>Botswana</td>
-		<td>82</td>
-		<td>149</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
-			<a href="https://github.com/jones345">
-				<img src="https://avatars.githubusercontent.com/u/39579308?s=72&u=531a093c70a4363bdcca2d0e46e0775404a580a7&v=4" width="24" alt="Avatar of jones345"> jones345
-			</a><br/>
-			zwelibanzi ntongana
-		</td>
-		<td>Bitri </td>
-		<td><a href="https://twitter.com/jonesdd10">jonesdd10</a></td>
-		<td>francistown Botswana</td>
-		<td>143</td>
-		<td>143</td>
-	</tr>
-	<tr>
-		<td>26</td>
 		<td>
 			<a href="https://github.com/nmunatsi">
 				<img src="https://avatars.githubusercontent.com/u/58169969?s=72&v=4" width="24" alt="Avatar of nmunatsi"> nmunatsi
@@ -466,8 +438,36 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>Botswana Havard Partnership </td>
 		<td><a href="https://twitter.com/mc_turner_bw">mc_turner_bw</a></td>
 		<td>Gaborone</td>
-		<td>135</td>
-		<td>135</td>
+		<td>158</td>
+		<td>158</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/godwillmonthe">
+				<img src="https://avatars.githubusercontent.com/u/50472662?s=72&u=a430483ed928911fd9ac94cb26a6850f67c9dcba&v=4" width="24" alt="Avatar of godwillmonthe"> godwillmonthe
+			</a><br/>
+			Godwill Monthe
+		</td>
+		<td>Botswana Accountancy College <br/></td>
+		<td><a href="https://twitter.com/oletilemonthe">oletilemonthe</a></td>
+		<td>Botswana</td>
+		<td>81</td>
+		<td>151</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
+			<a href="https://github.com/jones345">
+				<img src="https://avatars.githubusercontent.com/u/39579308?s=72&u=531a093c70a4363bdcca2d0e46e0775404a580a7&v=4" width="24" alt="Avatar of jones345"> jones345
+			</a><br/>
+			zwelibanzi ntongana
+		</td>
+		<td>Bitri </td>
+		<td><a href="https://twitter.com/jonesdd10">jonesdd10</a></td>
+		<td>francistown Botswana</td>
+		<td>146</td>
+		<td>146</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -480,8 +480,8 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/simisani10">simisani10</a></td>
 		<td>Gaborone</td>
-		<td>128</td>
-		<td>128</td>
+		<td>136</td>
+		<td>136</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -522,8 +522,8 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>@bac-github-club (botswana Accountancy College)<br/></td>
 		<td><a href="https://twitter.com/Kennyboi29_BW">Kennyboi29_BW</a></td>
 		<td>Gaborone, Botswana</td>
-		<td>59</td>
-		<td>102</td>
+		<td>56</td>
+		<td>93</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -550,11 +550,25 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Blackytubabwene">Blackytubabwene</a></td>
 		<td>Botswana, Kasane</td>
-		<td>68</td>
-		<td>80</td>
+		<td>72</td>
+		<td>85</td>
 	</tr>
 	<tr>
 		<td>33</td>
+		<td>
+			<a href="https://github.com/AmeizT">
+				<img src="https://avatars.githubusercontent.com/u/37455928?s=72&u=b5191a56c49190aa30fad95df400915acf02f790&v=4" width="24" alt="Avatar of AmeizT"> AmeizT
+			</a><br/>
+			Tawanda Zhuwao
+		</td>
+		<td>Selta Digital Studio </td>
+		<td><a href="https://twitter.com/ameiz_t">ameiz_t</a></td>
+		<td>Botswana</td>
+		<td>15</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/AubreyOlefile">
 				<img src="https://avatars.githubusercontent.com/u/26521701?s=72&u=ab6c63bd50eb97e96710b21c4bded63bc55ab940&v=4" width="24" alt="Avatar of AubreyOlefile"> AubreyOlefile
@@ -568,7 +582,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/Nathiington">
 				<img src="https://avatars.githubusercontent.com/u/58734424?s=72&u=d0eb2f7792b61354fcaecfefd6713320445b4026&v=4" width="24" alt="Avatar of Nathiington"> Nathiington
@@ -582,7 +596,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/mtkrated">
 				<img src="https://avatars.githubusercontent.com/u/57570477?s=72&u=a9f0f9a721814fbdf38ae35a9eb77c8a6ba66cf6&v=4" width="24" alt="Avatar of mtkrated"> mtkrated
@@ -594,20 +608,6 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>Botswana</td>
 		<td>44</td>
 		<td>72</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
-			<a href="https://github.com/Tsemester">
-				<img src="https://avatars.githubusercontent.com/u/58590980?s=72&u=4909fa546c9c2c45af4c02d71fafad6b1a647deb&v=4" width="24" alt="Avatar of Tsemester"> Tsemester
-			</a><br/>
-			Tseme Botlhe Tseme
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/TsemeBotlhe">TsemeBotlhe</a></td>
-		<td>Gaborone Botswana </td>
-		<td>69</td>
-		<td>71</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -640,6 +640,48 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 	<tr>
 		<td>39</td>
 		<td>
+			<a href="https://github.com/Tsemester">
+				<img src="https://avatars.githubusercontent.com/u/58590980?s=72&u=4909fa546c9c2c45af4c02d71fafad6b1a647deb&v=4" width="24" alt="Avatar of Tsemester"> Tsemester
+			</a><br/>
+			Tseme Botlhe Tseme
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/TsemeBotlhe">TsemeBotlhe</a></td>
+		<td>Gaborone Botswana </td>
+		<td>69</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
+			<a href="https://github.com/ratiebareeng">
+				<img src="https://avatars.githubusercontent.com/u/41191772?s=72&u=9aac3db884a214ac3afbba3b2cdbc48e0604a508&v=4" width="24" alt="Avatar of ratiebareeng"> ratiebareeng
+			</a><br/>
+			ratie bareeng
+		</td>
+		<td>Naledi Applications </td>
+		<td><a href="https://twitter.com/naledimostraten">naledimostraten</a></td>
+		<td>Gaborone</td>
+		<td>34</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
+			<a href="https://github.com/sapphire777">
+				<img src="https://avatars.githubusercontent.com/u/98028155?s=72&u=36d961f92f361b0cc6b5282d934e5081b58ef89d&v=4" width="24" alt="Avatar of sapphire777"> sapphire777
+			</a><br/>
+			Sapphire
+		</td>
+		<td>Sapphire Pillars </td>
+		<td>No Twitter Username</td>
+		<td>Gaborone, Botswana</td>
+		<td>67</td>
+		<td>67</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
 			<a href="https://github.com/loitijoseph">
 				<img src="https://avatars.githubusercontent.com/u/93574903?s=72&u=aa021c743e6b8c7aadfd24c6bb9af7e95631406d&v=4" width="24" alt="Avatar of loitijoseph"> loitijoseph
 			</a><br/>
@@ -652,7 +694,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/Mmusi">
 				<img src="https://avatars.githubusercontent.com/u/5792058?s=72&u=b6d753476835688011d6580c76f06b5b349dc66e&v=4" width="24" alt="Avatar of Mmusi"> Mmusi
@@ -662,39 +704,11 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>Zing Software (pty) Ltd<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Gaborone</td>
-		<td>65</td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>41</td>
-		<td>
-			<a href="https://github.com/ratiebareeng">
-				<img src="https://avatars.githubusercontent.com/u/41191772?s=72&u=9aac3db884a214ac3afbba3b2cdbc48e0604a508&v=4" width="24" alt="Avatar of ratiebareeng"> ratiebareeng
-			</a><br/>
-			ratie bareeng
-		</td>
-		<td>Naledi Applications </td>
-		<td><a href="https://twitter.com/naledimostraten">naledimostraten</a></td>
-		<td>Gaborone</td>
-		<td>34</td>
+		<td>64</td>
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>42</td>
-		<td>
-			<a href="https://github.com/Thelang07">
-				<img src="https://avatars.githubusercontent.com/u/78646792?s=72&v=4" width="24" alt="Avatar of Thelang07"> Thelang07
-			</a><br/>
-			Karabo Alfred Thelang
-		</td>
-		<td>Botswana Accountancy College </td>
-		<td>No Twitter Username</td>
-		<td>Gaborone</td>
-		<td>63</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>43</td>
+		<td>44</td>
 		<td>
 			<a href="https://github.com/amogelang2000">
 				<img src="https://avatars.githubusercontent.com/u/65100770?s=72&u=1891e5b002cd86573b7df1cfde3796331fc66c3b&v=4" width="24" alt="Avatar of amogelang2000"> amogelang2000
@@ -708,7 +722,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>44</td>
+		<td>45</td>
 		<td>
 			<a href="https://github.com/PPKjnr">
 				<img src="https://avatars.githubusercontent.com/u/61431257?s=72&u=5fbccdf2176a03e2999fa9144943843f509c27dd&v=4" width="24" alt="Avatar of PPKjnr"> PPKjnr
@@ -720,20 +734,6 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>Botswana</td>
 		<td>12</td>
 		<td>59</td>
-	</tr>
-	<tr>
-		<td>45</td>
-		<td>
-			<a href="https://github.com/GaoneKganetso">
-				<img src="https://avatars.githubusercontent.com/u/54110461?s=72&u=9a4a7104a0475519c72e1bd9ef4d21b1f6b4ff74&v=4" width="24" alt="Avatar of GaoneKganetso"> GaoneKganetso
-			</a><br/>
-			Gaone Kganetso
-		</td>
-		<td>Motshelo-app </td>
-		<td>No Twitter Username</td>
-		<td>Gaborone</td>
-		<td>57</td>
-		<td>57</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -752,15 +752,15 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 	<tr>
 		<td>47</td>
 		<td>
-			<a href="https://github.com/malcolmrite-dsi">
-				<img src="https://avatars.githubusercontent.com/u/71760639?s=72&u=e05bd0cdfc8dcfe462944ceaa212154c7e7b238a&v=4" width="24" alt="Avatar of malcolmrite-dsi"> malcolmrite-dsi
+			<a href="https://github.com/Thelang07">
+				<img src="https://avatars.githubusercontent.com/u/78646792?s=72&v=4" width="24" alt="Avatar of Thelang07"> Thelang07
 			</a><br/>
-			Malcolm Wright
+			Karabo Alfred Thelang
 		</td>
-		<td>No Company</td>
+		<td>Botswana Accountancy College </td>
 		<td>No Twitter Username</td>
-		<td>Botswana</td>
-		<td>43</td>
+		<td>Gaborone</td>
+		<td>56</td>
 		<td>56</td>
 	</tr>
 	<tr>
@@ -780,6 +780,20 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 	<tr>
 		<td>49</td>
 		<td>
+			<a href="https://github.com/GaoneKganetso">
+				<img src="https://avatars.githubusercontent.com/u/54110461?s=72&u=9a4a7104a0475519c72e1bd9ef4d21b1f6b4ff74&v=4" width="24" alt="Avatar of GaoneKganetso"> GaoneKganetso
+			</a><br/>
+			Gaone Kganetso
+		</td>
+		<td>Motshelo-app </td>
+		<td>No Twitter Username</td>
+		<td>Gaborone</td>
+		<td>53</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>
 			<a href="https://github.com/jmbengineering">
 				<img src="https://avatars.githubusercontent.com/u/84779896?s=72&v=4" width="24" alt="Avatar of jmbengineering"> jmbengineering
 			</a><br/>
@@ -792,20 +806,6 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>50</td>
-		<td>
-			<a href="https://github.com/kraymmese">
-				<img src="https://avatars.githubusercontent.com/u/28902314?s=72&u=2050f1fdc0c4b7549edde0b19ae31653c2529635&v=4" width="24" alt="Avatar of kraymmese"> kraymmese
-			</a><br/>
-			Kray Mmese
-		</td>
-		<td>Studentparkbw </td>
-		<td>No Twitter Username</td>
-		<td>Gaborone</td>
-		<td>51</td>
-		<td>51</td>
-	</tr>
-	<tr>
 		<td>51</td>
 		<td>
 			<a href="https://github.com/ditirodt">
@@ -816,8 +816,8 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ditiro_dt">ditiro_dt</a></td>
 		<td>Botswana</td>
-		<td>49</td>
-		<td>49</td>
+		<td>50</td>
+		<td>50</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -830,8 +830,8 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Gaborone, Francistown, Botswana</td>
-		<td>46</td>
-		<td>46</td>
+		<td>50</td>
+		<td>50</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -850,20 +850,6 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 	<tr>
 		<td>54</td>
 		<td>
-			<a href="https://github.com/sapphire777">
-				<img src="https://avatars.githubusercontent.com/u/98028155?s=72&u=36d961f92f361b0cc6b5282d934e5081b58ef89d&v=4" width="24" alt="Avatar of sapphire777"> sapphire777
-			</a><br/>
-			Sapphire
-		</td>
-		<td>Sapphire Pillars </td>
-		<td>No Twitter Username</td>
-		<td>Gaborone, Botswana</td>
-		<td>45</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>55</td>
-		<td>
 			<a href="https://github.com/MaatlaBird">
 				<img src="https://avatars.githubusercontent.com/u/40599226?s=72&u=6d1e14fcd2cc70b84d133f4ee8bc6c9c17d30fcc&v=4" width="24" alt="Avatar of MaatlaBird"> MaatlaBird
 			</a><br/>
@@ -876,35 +862,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>56</td>
-		<td>
-			<a href="https://github.com/dev-supanova">
-				<img src="https://avatars.githubusercontent.com/u/25563065?s=72&v=4" width="24" alt="Avatar of dev-supanova"> dev-supanova
-			</a><br/>
-			Alec Agisanyang
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Gaborone, Botswana</td>
-		<td>40</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>
-			<a href="https://github.com/Munenyashaishe">
-				<img src="https://avatars.githubusercontent.com/u/78939540?s=72&u=c72da1220755eecdcd34cfc40df0a1c1167bdc41&v=4" width="24" alt="Avatar of Munenyashaishe"> Munenyashaishe
-			</a><br/>
-			Munenyashaishe  Hove
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/NyashaLotus">NyashaLotus</a></td>
-		<td>Botswana</td>
-		<td>42</td>
-		<td>42</td>
-	</tr>
-	<tr>
-		<td>58</td>
+		<td>55</td>
 		<td>
 			<a href="https://github.com/keegopeo">
 				<img src="https://avatars.githubusercontent.com/u/98018900?s=72&u=7e8c1936dc6c1763eb9908b80e33591a696a60b7&v=4" width="24" alt="Avatar of keegopeo"> keegopeo
@@ -918,21 +876,35 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>59</td>
+		<td>56</td>
 		<td>
-			<a href="https://github.com/AmeizT">
-				<img src="https://avatars.githubusercontent.com/u/37455928?s=72&u=b5191a56c49190aa30fad95df400915acf02f790&v=4" width="24" alt="Avatar of AmeizT"> AmeizT
+			<a href="https://github.com/dev-supanova">
+				<img src="https://avatars.githubusercontent.com/u/25563065?s=72&v=4" width="24" alt="Avatar of dev-supanova"> dev-supanova
 			</a><br/>
-			Tawanda Zhuwao
+			Alec Agisanyang
 		</td>
-		<td>Selta Digital Studio </td>
-		<td><a href="https://twitter.com/ameiz_t">ameiz_t</a></td>
-		<td>Botswana</td>
-		<td>14</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gaborone, Botswana</td>
 		<td>40</td>
+		<td>42</td>
 	</tr>
 	<tr>
-		<td>60</td>
+		<td>57</td>
+		<td>
+			<a href="https://github.com/Munenyashaishe">
+				<img src="https://avatars.githubusercontent.com/u/78939540?s=72&u=c72da1220755eecdcd34cfc40df0a1c1167bdc41&v=4" width="24" alt="Avatar of Munenyashaishe"> Munenyashaishe
+			</a><br/>
+			Munenyashaishe  Hove
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/NyashaLotus">NyashaLotus</a></td>
+		<td>Botswana</td>
+		<td>41</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>58</td>
 		<td>
 			<a href="https://github.com/AdmireKhulumo">
 				<img src="https://avatars.githubusercontent.com/u/41173253?s=72&u=3707955aace6f8e31ec27229f87b25116f0e899e&v=4" width="24" alt="Avatar of AdmireKhulumo"> AdmireKhulumo
@@ -946,63 +918,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>61</td>
-		<td>
-			<a href="https://github.com/MelToteng">
-				<img src="https://avatars.githubusercontent.com/u/32373082?s=72&u=e0ed5fda43c0395ea632e1318ec98505059d14d1&v=4" width="24" alt="Avatar of MelToteng"> MelToteng
-			</a><br/>
-			Melchizedek Toteng
-		</td>
-		<td>Basenet Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Gaborone, Botswana</td>
-		<td>37</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>62</td>
-		<td>
-			<a href="https://github.com/Osotatanekeeni">
-				<img src="https://avatars.githubusercontent.com/u/36969775?s=72&v=4" width="24" alt="Avatar of Osotatanekeeni"> Osotatanekeeni
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Tatanekari52">Tatanekari52</a></td>
-		<td>Gaborone, Botswana</td>
-		<td>36</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>63</td>
-		<td>
-			<a href="https://github.com/bakanggaolekwe">
-				<img src="https://avatars.githubusercontent.com/u/29304020?s=72&u=6e622f1965c0da7188a1789841101100173d8f23&v=4" width="24" alt="Avatar of bakanggaolekwe"> bakanggaolekwe
-			</a><br/>
-			Bakang Gaolekwe
-		</td>
-		<td>Code Pulse </td>
-		<td><a href="https://twitter.com/bakanggaolekwe">bakanggaolekwe</a></td>
-		<td>Botswana</td>
-		<td>36</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>64</td>
-		<td>
-			<a href="https://github.com/kentsenaob">
-				<img src="https://avatars.githubusercontent.com/u/67282270?s=72&u=c31090b5ec56678b8afb088ff355aab7efa89d93&v=4" width="24" alt="Avatar of kentsenaob"> kentsenaob
-			</a><br/>
-			Kentsenao Victor Baseki
-		</td>
-		<td>Botswana Accontancy College </td>
-		<td><a href="https://twitter.com/viktorbarceqie">viktorbarceqie</a></td>
-		<td>Gaborone, Botswana</td>
-		<td>35</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>65</td>
+		<td>59</td>
 		<td>
 			<a href="https://github.com/CharisGiantStride">
 				<img src="https://avatars.githubusercontent.com/u/86821034?s=72&u=381eafd0e33e1d169c47406d9d318e1f5aabfb22&v=4" width="24" alt="Avatar of CharisGiantStride"> CharisGiantStride
@@ -1016,7 +932,21 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/kraymmese">
+				<img src="https://avatars.githubusercontent.com/u/28902314?s=72&u=2050f1fdc0c4b7549edde0b19ae31653c2529635&v=4" width="24" alt="Avatar of kraymmese"> kraymmese
+			</a><br/>
+			Kray Mmese
+		</td>
+		<td>Studentparkbw </td>
+		<td>No Twitter Username</td>
+		<td>Gaborone</td>
+		<td>34</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/maika404">
 				<img src="https://avatars.githubusercontent.com/u/65441337?s=72&v=4" width="24" alt="Avatar of maika404"> maika404
@@ -1030,7 +960,49 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>62</td>
+		<td>
+			<a href="https://github.com/MelToteng">
+				<img src="https://avatars.githubusercontent.com/u/32373082?s=72&u=e0ed5fda43c0395ea632e1318ec98505059d14d1&v=4" width="24" alt="Avatar of MelToteng"> MelToteng
+			</a><br/>
+			Melchizedek Toteng
+		</td>
+		<td>Basenet Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Gaborone, Botswana</td>
+		<td>33</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
+			<a href="https://github.com/bakanggaolekwe">
+				<img src="https://avatars.githubusercontent.com/u/29304020?s=72&u=6e622f1965c0da7188a1789841101100173d8f23&v=4" width="24" alt="Avatar of bakanggaolekwe"> bakanggaolekwe
+			</a><br/>
+			Bakang Gaolekwe
+		</td>
+		<td>Code Pulse </td>
+		<td><a href="https://twitter.com/bakanggaolekwe">bakanggaolekwe</a></td>
+		<td>Botswana</td>
+		<td>33</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
+			<a href="https://github.com/prospernglazi">
+				<img src="https://avatars.githubusercontent.com/u/52801366?s=72&u=81f01b607492301a773925551e38ee6fcf134d6e&v=4" width="24" alt="Avatar of prospernglazi"> prospernglazi
+			</a><br/>
+			Prosper Nglazi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Botswana</td>
+		<td>33</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/PolaroidZone">
 				<img src="https://avatars.githubusercontent.com/u/68607674?s=72&u=e44611484e977dac01b19e31f8407a3dd4a88e40&v=4" width="24" alt="Avatar of PolaroidZone"> PolaroidZone
@@ -1044,21 +1016,35 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>68</td>
+		<td>66</td>
 		<td>
-			<a href="https://github.com/prospernglazi">
-				<img src="https://avatars.githubusercontent.com/u/52801366?s=72&u=81f01b607492301a773925551e38ee6fcf134d6e&v=4" width="24" alt="Avatar of prospernglazi"> prospernglazi
+			<a href="https://github.com/skidonok">
+				<img src="https://avatars.githubusercontent.com/u/14858811?s=72&u=b7354181692a969f131214cf14f85f3959c0cc48&v=4" width="24" alt="Avatar of skidonok"> skidonok
 			</a><br/>
-			Prosper Nglazi
+			Nimrod Kgosimore
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Botswana</td>
-		<td>32</td>
+		<td>Skido Tools </td>
+		<td><a href="https://twitter.com/skido_nok">skido_nok</a></td>
+		<td>Gaborone, Botswana</td>
+		<td>6</td>
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>69</td>
+		<td>67</td>
+		<td>
+			<a href="https://github.com/Osotatanekeeni">
+				<img src="https://avatars.githubusercontent.com/u/36969775?s=72&v=4" width="24" alt="Avatar of Osotatanekeeni"> Osotatanekeeni
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Tatanekari52">Tatanekari52</a></td>
+		<td>Gaborone, Botswana</td>
+		<td>31</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>68</td>
 		<td>
 			<a href="https://github.com/Mr-Ketlhaetse">
 				<img src="https://avatars.githubusercontent.com/u/18008963?s=72&v=4" width="24" alt="Avatar of Mr-Ketlhaetse"> Mr-Ketlhaetse
@@ -1072,7 +1058,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>69</td>
 		<td>
 			<a href="https://github.com/gaolatheseelo">
 				<img src="https://avatars.githubusercontent.com/u/71010417?s=72&v=4" width="24" alt="Avatar of gaolatheseelo"> gaolatheseelo
@@ -1086,7 +1072,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/MartinNtlhe">
 				<img src="https://avatars.githubusercontent.com/u/19570824?s=72&u=da5e9b58b9fecc2f8e57477a7d38fd29bee2dead&v=4" width="24" alt="Avatar of MartinNtlhe"> MartinNtlhe
@@ -1100,21 +1086,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>72</td>
-		<td>
-			<a href="https://github.com/BegangN">
-				<img src="https://avatars.githubusercontent.com/u/50890224?s=72&u=5bcd67c1284c645e2df39a820062693592909985&v=4" width="24" alt="Avatar of BegangN"> BegangN
-			</a><br/>
-			Begang Godwin Nthubu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Francistown,Botswana</td>
-		<td>29</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>73</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/Smol-Tok">
 				<img src="https://avatars.githubusercontent.com/u/4882617?s=72&u=a30402e35244637798d2653690da57decd8c6a28&v=4" width="24" alt="Avatar of Smol-Tok"> Smol-Tok
@@ -1128,7 +1100,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/Robyxnet-DigitalHub">
 				<img src="https://avatars.githubusercontent.com/u/68923518?s=72&u=200463ca05d4f8e90665e14ff49a69fd8f7efebd&v=4" width="24" alt="Avatar of Robyxnet-DigitalHub"> Robyxnet-DigitalHub
@@ -1142,35 +1114,21 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>73</td>
 		<td>
-			<a href="https://github.com/Thero-bit">
-				<img src="https://avatars.githubusercontent.com/u/70297981?s=72&u=e3966dc5e2564a1ac0e1bd2223a3808d2d1348a2&v=4" width="24" alt="Avatar of Thero-bit"> Thero-bit
+			<a href="https://github.com/BegangN">
+				<img src="https://avatars.githubusercontent.com/u/50890224?s=72&u=5bcd67c1284c645e2df39a820062693592909985&v=4" width="24" alt="Avatar of BegangN"> BegangN
 			</a><br/>
-			Thero Molatlhegi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Thero_Trizzy">Thero_Trizzy</a></td>
-		<td>Botswana</td>
-		<td>0</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>76</td>
-		<td>
-			<a href="https://github.com/moithaopi">
-				<img src="https://avatars.githubusercontent.com/u/10796555?s=72&u=531c7ee7ce7b24782bb53580e363ea8f9e514066&v=4" width="24" alt="Avatar of moithaopi"> moithaopi
-			</a><br/>
-			Moithaopi Monwela
+			Begang Godwin Nthubu
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Botswana</td>
-		<td>25</td>
-		<td>25</td>
+		<td>Francistown,Botswana</td>
+		<td>28</td>
+		<td>28</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/Atang-Bofelo">
 				<img src="https://avatars.githubusercontent.com/u/62835427?s=72&u=9209a9bac286875fd3d72b0a99b045e5ef194a98&v=4" width="24" alt="Avatar of Atang-Bofelo"> Atang-Bofelo
@@ -1184,21 +1142,35 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>75</td>
 		<td>
-			<a href="https://github.com/val922">
-				<img src="https://avatars.githubusercontent.com/u/19333383?s=72&u=360dd2f381e0b2bff34b98939a49cb2d80d41917&v=4" width="24" alt="Avatar of val922"> val922
+			<a href="https://github.com/Thero-bit">
+				<img src="https://avatars.githubusercontent.com/u/70297981?s=72&u=e3966dc5e2564a1ac0e1bd2223a3808d2d1348a2&v=4" width="24" alt="Avatar of Thero-bit"> Thero-bit
 			</a><br/>
-			Thato Menyatso
+			Thero Molatlhegi
 		</td>
-		<td>@sedicapital </td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Thero_Trizzy">Thero_Trizzy</a></td>
+		<td>Botswana</td>
+		<td>0</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>
+			<a href="https://github.com/moithaopi">
+				<img src="https://avatars.githubusercontent.com/u/10796555?s=72&u=531c7ee7ce7b24782bb53580e363ea8f9e514066&v=4" width="24" alt="Avatar of moithaopi"> moithaopi
+			</a><br/>
+			Moithaopi Monwela
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Currently; Botswana</td>
+		<td>Botswana</td>
 		<td>24</td>
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/madnyte">
 				<img src="https://avatars.githubusercontent.com/u/93276929?s=72&u=00cbabf8d6fe7acc278b71bc130a3895cb6b65cb&v=4" width="24" alt="Avatar of madnyte"> madnyte
@@ -1210,6 +1182,34 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>Botswana</td>
 		<td>13</td>
 		<td>24</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>
+			<a href="https://github.com/val922">
+				<img src="https://avatars.githubusercontent.com/u/19333383?s=72&u=360dd2f381e0b2bff34b98939a49cb2d80d41917&v=4" width="24" alt="Avatar of val922"> val922
+			</a><br/>
+			Thato Menyatso
+		</td>
+		<td>@sedicapital </td>
+		<td>No Twitter Username</td>
+		<td>Currently; Botswana</td>
+		<td>22</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
+			<a href="https://github.com/malcolmrite-dsi">
+				<img src="https://avatars.githubusercontent.com/u/71760639?s=72&u=e05bd0cdfc8dcfe462944ceaa212154c7e7b238a&v=4" width="24" alt="Avatar of malcolmrite-dsi"> malcolmrite-dsi
+			</a><br/>
+			Malcolm Wright
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Botswana</td>
+		<td>9</td>
+		<td>22</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1228,34 +1228,6 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 	<tr>
 		<td>81</td>
 		<td>
-			<a href="https://github.com/bida20-045">
-				<img src="https://avatars.githubusercontent.com/u/78743085?s=72&u=eae210864c8080b573935254e4e06d9803da440b&v=4" width="24" alt="Avatar of bida20-045"> bida20-045
-			</a><br/>
-			Emily Shaibu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Gaborone, Botswana</td>
-		<td>21</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>82</td>
-		<td>
-			<a href="https://github.com/Chalebgwa">
-				<img src="https://avatars.githubusercontent.com/u/15668752?s=72&u=4fc6ef942a864e7347f84e98b230f2a29d22e5b9&v=4" width="24" alt="Avatar of Chalebgwa"> Chalebgwa
-			</a><br/>
-			Pako Chalebgwa
-		</td>
-		<td>Foresight </td>
-		<td><a href="https://twitter.com/ubermensch0401">ubermensch0401</a></td>
-		<td>Botswana,Gaborone</td>
-		<td>20</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>83</td>
-		<td>
 			<a href="https://github.com/aryaanlambe">
 				<img src="https://avatars.githubusercontent.com/u/52194584?s=72&u=db55a9710ef83d56da2bdc1d9f2e82b3d0965842&v=4" width="24" alt="Avatar of aryaanlambe"> aryaanlambe
 			</a><br/>
@@ -1268,21 +1240,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>84</td>
-		<td>
-			<a href="https://github.com/skidonok">
-				<img src="https://avatars.githubusercontent.com/u/14858811?s=72&u=b7354181692a969f131214cf14f85f3959c0cc48&v=4" width="24" alt="Avatar of skidonok"> skidonok
-			</a><br/>
-			Nimrod Kgosimore
-		</td>
-		<td>Skido Tools </td>
-		<td><a href="https://twitter.com/skido_nok">skido_nok</a></td>
-		<td>Gaborone, Botswana</td>
-		<td>6</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>85</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/Rev-I">
 				<img src="https://avatars.githubusercontent.com/u/23283760?s=72&u=b27d437bea86d5f283e6a1f760853ab50ac189c5&v=4" width="24" alt="Avatar of Rev-I"> Rev-I
@@ -1296,7 +1254,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/kagisojamesthomba">
 				<img src="https://avatars.githubusercontent.com/u/72046892?s=72&u=13958ef5ab9728e2fd944c6351eae65d1ffe511f&v=4" width="24" alt="Avatar of kagisojamesthomba"> kagisojamesthomba
@@ -1306,25 +1264,11 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kagiso_Legend">kagiso_Legend</a></td>
 		<td>Botswana</td>
-		<td>19</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>87</td>
-		<td>
-			<a href="https://github.com/Bida20-050">
-				<img src="https://avatars.githubusercontent.com/u/78618606?s=72&v=4" width="24" alt="Avatar of Bida20-050"> Bida20-050
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Botswana, Gaborone</td>
 		<td>18</td>
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/rabanna">
 				<img src="https://avatars.githubusercontent.com/u/13961296?s=72&u=b79ba0f0d565b536a6d01cd6d3dd9cbd01cf776d&v=4" width="24" alt="Avatar of rabanna"> rabanna
@@ -1338,7 +1282,21 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>85</td>
+		<td>
+			<a href="https://github.com/Msc-Joel">
+				<img src="https://avatars.githubusercontent.com/u/91802369?s=72&u=29ea8cdc9314a6b73e78169aa1611780e5688474&v=4" width="24" alt="Avatar of Msc-Joel"> Msc-Joel
+			</a><br/>
+			JOEL KONOPO
+		</td>
+		<td>Ink Centre For Investigative<br/>Journalism<br/><br/></td>
+		<td><a href="https://twitter.com/JKonopo">JKonopo</a></td>
+		<td>Botswana</td>
+		<td>18</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/Tlamelo">
 				<img src="https://avatars.githubusercontent.com/u/5216019?s=72&u=f3b715faa339e132db0b8a3745188eb1adac2e93&v=4" width="24" alt="Avatar of Tlamelo"> Tlamelo
@@ -1348,11 +1306,25 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Botswana</td>
-		<td>17</td>
-		<td>17</td>
+		<td>16</td>
+		<td>16</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>87</td>
+		<td>
+			<a href="https://github.com/Chalebgwa">
+				<img src="https://avatars.githubusercontent.com/u/15668752?s=72&u=4fc6ef942a864e7347f84e98b230f2a29d22e5b9&v=4" width="24" alt="Avatar of Chalebgwa"> Chalebgwa
+			</a><br/>
+			Pako Chalebgwa
+		</td>
+		<td>Foresight </td>
+		<td><a href="https://twitter.com/ubermensch0401">ubermensch0401</a></td>
+		<td>Botswana,Gaborone</td>
+		<td>16</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/Tumelo-mtec">
 				<img src="https://avatars.githubusercontent.com/u/78789972?s=72&v=4" width="24" alt="Avatar of Tumelo-mtec"> Tumelo-mtec
@@ -1362,11 +1334,11 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Botswana</td>
-		<td>17</td>
-		<td>17</td>
+		<td>16</td>
+		<td>16</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/Thabisocn">
 				<img src="https://avatars.githubusercontent.com/u/55186310?s=72&u=89a9a444dbba2e983979ee389196982f85d23a82&v=4" width="24" alt="Avatar of Thabisocn"> Thabisocn
@@ -1380,7 +1352,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/bots-developer">
 				<img src="https://avatars.githubusercontent.com/u/22821008?s=72&u=165fb5b8a9badd707b3fa2ff313746ae8673f63e&v=4" width="24" alt="Avatar of bots-developer"> bots-developer
@@ -1394,7 +1366,21 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>91</td>
+		<td>
+			<a href="https://github.com/Dalton7718">
+				<img src="https://avatars.githubusercontent.com/u/63519324?s=72&v=4" width="24" alt="Avatar of Dalton7718"> Dalton7718
+			</a><br/>
+			Dalton Tsima
+		</td>
+		<td>Individual </td>
+		<td>No Twitter Username</td>
+		<td>Botswana</td>
+		<td>14</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/Tshenolo17">
 				<img src="https://avatars.githubusercontent.com/u/27765869?s=72&u=d19243386bacff8fe4568420f5b4662d5529b821&v=4" width="24" alt="Avatar of Tshenolo17"> Tshenolo17
@@ -1408,7 +1394,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/quantamc">
 				<img src="https://avatars.githubusercontent.com/u/23459338?s=72&u=ea1fbd4ed7fcbe70cdafe0efd456144a6b7c80df&v=4" width="24" alt="Avatar of quantamc"> quantamc
@@ -1422,7 +1408,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>95</td>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/Dihu44">
 				<img src="https://avatars.githubusercontent.com/u/72245254?s=72&v=4" width="24" alt="Avatar of Dihu44"> Dihu44
@@ -1436,21 +1422,21 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>95</td>
 		<td>
-			<a href="https://github.com/Sean7007">
-				<img src="https://avatars.githubusercontent.com/u/60769463?s=72&u=856e09aa6c19ba56f89b4fb6dbcb727e08062df9&v=4" width="24" alt="Avatar of Sean7007"> Sean7007
+			<a href="https://github.com/kentsenaob">
+				<img src="https://avatars.githubusercontent.com/u/67282270?s=72&u=c31090b5ec56678b8afb088ff355aab7efa89d93&v=4" width="24" alt="Avatar of kentsenaob"> kentsenaob
 			</a><br/>
-			Sean-Douglas Kabelo Hamathi
+			Kentsenao Victor Baseki
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Botswana Accontancy College </td>
+		<td><a href="https://twitter.com/viktorbarceqie">viktorbarceqie</a></td>
 		<td>Gaborone, Botswana</td>
 		<td>12</td>
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>97</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/skyedes">
 				<img src="https://avatars.githubusercontent.com/u/23002025?s=72&u=c9402171abfe11d7189d87c5c22463162dd03b55&v=4" width="24" alt="Avatar of skyedes"> skyedes
@@ -1464,49 +1450,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>98</td>
-		<td>
-			<a href="https://github.com/ofentsekgomotso94">
-				<img src="https://avatars.githubusercontent.com/u/76022448?s=72&u=579b002cfe45b7658272d1e4dd420e24384f7a00&v=4" width="24" alt="Avatar of ofentsekgomotso94"> ofentsekgomotso94
-			</a><br/>
-			Ofentse Prince Kgomotso
-		</td>
-		<td>Self </td>
-		<td><a href="https://twitter.com/OfentseKgomots3">OfentseKgomots3</a></td>
-		<td>botswana gaborone</td>
-		<td>12</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>99</td>
-		<td>
-			<a href="https://github.com/Dalton7718">
-				<img src="https://avatars.githubusercontent.com/u/63519324?s=72&v=4" width="24" alt="Avatar of Dalton7718"> Dalton7718
-			</a><br/>
-			Dalton Tsima
-		</td>
-		<td>Individual </td>
-		<td>No Twitter Username</td>
-		<td>Botswana</td>
-		<td>12</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
-			<a href="https://github.com/TueloNtlotlang">
-				<img src="https://avatars.githubusercontent.com/u/72657722?s=72&v=4" width="24" alt="Avatar of TueloNtlotlang"> TueloNtlotlang
-			</a><br/>
-			No Name
-		</td>
-		<td>Botswana International University Of<br/>Science<br/>And<br/>Technology<br/>(biust)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Botswana, Africa</td>
-		<td>12</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>101</td>
+		<td>97</td>
 		<td>
 			<a href="https://github.com/Kabo-Sedirwa">
 				<img src="https://avatars.githubusercontent.com/u/10602914?s=72&u=80455b4a9e4076d54a030f7ef44dac5303e9e7b9&v=4" width="24" alt="Avatar of Kabo-Sedirwa"> Kabo-Sedirwa
@@ -1520,7 +1464,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>102</td>
+		<td>98</td>
 		<td>
 			<a href="https://github.com/boago">
 				<img src="https://avatars.githubusercontent.com/u/19343791?s=72&u=72f0f4e18f538b25bc08c0abbbeacde21dcece58&v=4" width="24" alt="Avatar of boago"> boago
@@ -1534,7 +1478,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>103</td>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/Demitri-Jace">
 				<img src="https://avatars.githubusercontent.com/u/55186010?s=72&u=176f6b6bf0e2ba9a2a84c31711a0d805159dfc0e&v=4" width="24" alt="Avatar of Demitri-Jace"> Demitri-Jace
@@ -1548,7 +1492,21 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>104</td>
+		<td>100</td>
+		<td>
+			<a href="https://github.com/Bida20-050">
+				<img src="https://avatars.githubusercontent.com/u/78618606?s=72&v=4" width="24" alt="Avatar of Bida20-050"> Bida20-050
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Botswana, Gaborone</td>
+		<td>11</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>101</td>
 		<td>
 			<a href="https://github.com/MysticKago">
 				<img src="https://avatars.githubusercontent.com/u/73802003?s=72&u=48dcbaf61304d6390b7acd62ced8799fa98804e7&v=4" width="24" alt="Avatar of MysticKago"> MysticKago
@@ -1562,21 +1520,21 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>105</td>
+		<td>102</td>
 		<td>
-			<a href="https://github.com/Goitseonebabitseng96">
-				<img src="https://avatars.githubusercontent.com/u/87649237?s=72&u=2b69270ba0eff8cef30defbb0771a7d22b4cf429&v=4" width="24" alt="Avatar of Goitseonebabitseng96"> Goitseonebabitseng96
+			<a href="https://github.com/ofentsekgomotso94">
+				<img src="https://avatars.githubusercontent.com/u/76022448?s=72&u=579b002cfe45b7658272d1e4dd420e24384f7a00&v=4" width="24" alt="Avatar of ofentsekgomotso94"> ofentsekgomotso94
 			</a><br/>
-			Goitseone Privilege Wanano Babitseng
+			Ofentse Prince Kgomotso
 		</td>
-		<td>Smartminds Developers Hub </td>
-		<td>No Twitter Username</td>
-		<td>Gaborone, Botswana</td>
+		<td>Self </td>
+		<td><a href="https://twitter.com/OfentseKgomots3">OfentseKgomots3</a></td>
+		<td>botswana gaborone</td>
 		<td>11</td>
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>106</td>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/edkambeu">
 				<img src="https://avatars.githubusercontent.com/u/44813457?s=72&u=0787626eb2ea8f037fdf433b2502ba4616bff19e&v=4" width="24" alt="Avatar of edkambeu"> edkambeu
@@ -1590,7 +1548,21 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>104</td>
+		<td>
+			<a href="https://github.com/Goitseonebabitseng96">
+				<img src="https://avatars.githubusercontent.com/u/87649237?s=72&u=2b69270ba0eff8cef30defbb0771a7d22b4cf429&v=4" width="24" alt="Avatar of Goitseonebabitseng96"> Goitseonebabitseng96
+			</a><br/>
+			Goitseone Privilege Wanano Babitseng
+		</td>
+		<td>Smartminds Developers Hub </td>
+		<td>No Twitter Username</td>
+		<td>Gaborone, Botswana</td>
+		<td>11</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>105</td>
 		<td>
 			<a href="https://github.com/Laomoalosi">
 				<img src="https://avatars.githubusercontent.com/u/36770604?s=72&u=840b13c3f98efd8c2a95282a25cfe129ad8c34ca&v=4" width="24" alt="Avatar of Laomoalosi"> Laomoalosi
@@ -1604,21 +1576,21 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/darula-hpp">
 				<img src="https://avatars.githubusercontent.com/u/24443769?s=72&u=b174fc10878c295f32a030454dfe60fced8389fa&v=4" width="24" alt="Avatar of darula-hpp"> darula-hpp
 			</a><br/>
 			Olebogeng Mbedzi
 		</td>
-		<td>Abstract Class </td>
+		<td>Omah Capital </td>
 		<td>No Twitter Username</td>
 		<td>Gaborone</td>
 		<td>10</td>
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/KhumoPhologe">
 				<img src="https://avatars.githubusercontent.com/u/87933856?s=72&u=5e387275331a5c15982971d17c3ed1ca66b4e4ef&v=4" width="24" alt="Avatar of KhumoPhologe"> KhumoPhologe
@@ -1632,7 +1604,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/Keabetswe-mambule">
 				<img src="https://avatars.githubusercontent.com/u/31808470?s=72&u=6d956d8b10ffd516decdf439b03b9f8a974fd029&v=4" width="24" alt="Avatar of Keabetswe-mambule"> Keabetswe-mambule
@@ -1646,7 +1618,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/tumi-geo">
 				<img src="https://avatars.githubusercontent.com/u/81810978?s=72&u=f29ae62a5505529e9ffe548af9c26eb2d74fbfa8&v=4" width="24" alt="Avatar of tumi-geo"> tumi-geo
@@ -1660,7 +1632,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/owoatmeal">
 				<img src="https://avatars.githubusercontent.com/u/88565073?s=72&u=28a390c5688035de85d83c225ac3a04ccedddcd0&v=4" width="24" alt="Avatar of owoatmeal"> owoatmeal
@@ -1674,7 +1646,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/fikstoday">
 				<img src="https://avatars.githubusercontent.com/u/5792290?s=72&u=692be29cd832b4cc23c1fa11d29fcf99be4d09d9&v=4" width="24" alt="Avatar of fikstoday"> fikstoday
@@ -1688,7 +1660,21 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>112</td>
+		<td>
+			<a href="https://github.com/Alfonzo007">
+				<img src="https://avatars.githubusercontent.com/u/99055476?s=72&u=9c3943814387cff078b75ad86ebc7c99e02c18b7&v=4" width="24" alt="Avatar of Alfonzo007"> Alfonzo007
+			</a><br/>
+			Alfonzo kgakole
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/PuskasGen">PuskasGen</a></td>
+		<td>Botswana</td>
+		<td>9</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/motheo26">
 				<img src="https://avatars.githubusercontent.com/u/63623333?s=72&v=4" width="24" alt="Avatar of motheo26"> motheo26
@@ -1702,7 +1688,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/BonangKadimo">
 				<img src="https://avatars.githubusercontent.com/u/45307602?s=72&v=4" width="24" alt="Avatar of BonangKadimo"> BonangKadimo
@@ -1716,21 +1702,21 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>116</td>
+		<td>115</td>
 		<td>
-			<a href="https://github.com/GodCode-cpp">
-				<img src="https://avatars.githubusercontent.com/u/59241523?s=72&v=4" width="24" alt="Avatar of GodCode-cpp"> GodCode-cpp
+			<a href="https://github.com/Sean7007">
+				<img src="https://avatars.githubusercontent.com/u/60769463?s=72&u=856e09aa6c19ba56f89b4fb6dbcb727e08062df9&v=4" width="24" alt="Avatar of Sean7007"> Sean7007
 			</a><br/>
-			Gobe Mphusu
+			Sean-Douglas Kabelo Hamathi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Botswana</td>
-		<td>6</td>
+		<td>Gaborone, Botswana</td>
+		<td>8</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>117</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/MyArrival">
 				<img src="https://avatars.githubusercontent.com/u/90355625?s=72&u=3f48078bc3f9d29db3b6e9e6aab16c7327390b8d&v=4" width="24" alt="Avatar of MyArrival"> MyArrival
@@ -1744,7 +1730,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>117</td>
 		<td>
 			<a href="https://github.com/Raven63">
 				<img src="https://avatars.githubusercontent.com/u/77496324?s=72&u=9a823921bb858a31e51519ea9242e57c700b5918&v=4" width="24" alt="Avatar of Raven63"> Raven63
@@ -1758,7 +1744,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/TumeloKg">
 				<img src="https://avatars.githubusercontent.com/u/25701317?s=72&u=359738554086813f8c4aeb1e51cf69e93e4b27da&v=4" width="24" alt="Avatar of TumeloKg"> TumeloKg
@@ -1772,7 +1758,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/Lala0599">
 				<img src="https://avatars.githubusercontent.com/u/62606057?s=72&u=73024e1ca6d7921b0f38bd137c34c758b90f3a1b&v=4" width="24" alt="Avatar of Lala0599"> Lala0599
@@ -1786,7 +1772,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/MabediMotimedi">
 				<img src="https://avatars.githubusercontent.com/u/7950228?s=72&u=ac3da18862d435deaca559f56cc0935299f4398a&v=4" width="24" alt="Avatar of MabediMotimedi"> MabediMotimedi
@@ -1800,7 +1786,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/gaone-M">
 				<img src="https://avatars.githubusercontent.com/u/42376236?s=72&u=bb6cc7ecb843deb1e1ef98229fb146c9e64781be&v=4" width="24" alt="Avatar of gaone-M"> gaone-M
@@ -1814,7 +1800,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/ben-modise">
 				<img src="https://avatars.githubusercontent.com/u/15379946?s=72&u=2e84cfacec87bd39fe0a37fdd99ae135378f0620&v=4" width="24" alt="Avatar of ben-modise"> ben-modise
@@ -1828,7 +1814,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/tumisangStarfire">
 				<img src="https://avatars.githubusercontent.com/u/31924544?s=72&v=4" width="24" alt="Avatar of tumisangStarfire"> tumisangStarfire
@@ -1842,21 +1828,21 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>124</td>
 		<td>
-			<a href="https://github.com/bat-bot">
-				<img src="https://avatars.githubusercontent.com/u/82183624?s=72&v=4" width="24" alt="Avatar of bat-bot"> bat-bot
+			<a href="https://github.com/bida20-045">
+				<img src="https://avatars.githubusercontent.com/u/78743085?s=72&u=eae210864c8080b573935254e4e06d9803da440b&v=4" width="24" alt="Avatar of bida20-045"> bida20-045
 			</a><br/>
-			No Name
+			Emily Shaibu
 		</td>
-		<td>Mind Menders Association </td>
-		<td><a href="https://twitter.com/Sebastianbash4">Sebastianbash4</a></td>
-		<td>Gaborone,Botswana</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gaborone, Botswana</td>
 		<td>7</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/Ed1ezac">
 				<img src="https://avatars.githubusercontent.com/u/19576625?s=72&u=e8f8f5064964e190f9d6b76ee2e893863decf660&v=4" width="24" alt="Avatar of Ed1ezac"> Ed1ezac
@@ -1866,6 +1852,20 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Gaborone, Botswana</td>
+		<td>7</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>126</td>
+		<td>
+			<a href="https://github.com/bat-bot">
+				<img src="https://avatars.githubusercontent.com/u/82183624?s=72&v=4" width="24" alt="Avatar of bat-bot"> bat-bot
+			</a><br/>
+			No Name
+		</td>
+		<td>Mind Menders Association </td>
+		<td><a href="https://twitter.com/Sebastianbash4">Sebastianbash4</a></td>
+		<td>Gaborone,Botswana</td>
 		<td>7</td>
 		<td>7</td>
 	</tr>
@@ -1928,6 +1928,20 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 	<tr>
 		<td>131</td>
 		<td>
+			<a href="https://github.com/chandamokgethi">
+				<img src="https://avatars.githubusercontent.com/u/62935866?s=72&v=4" width="24" alt="Avatar of chandamokgethi"> chandamokgethi
+			</a><br/>
+			Chandapiwa Mokgethi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gaborone, Botswana</td>
+		<td>7</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>
 			<a href="https://github.com/mmabathokealotswe">
 				<img src="https://avatars.githubusercontent.com/u/90091962?s=72&v=4" width="24" alt="Avatar of mmabathokealotswe"> mmabathokealotswe
 			</a><br/>
@@ -1940,7 +1954,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/MikeTito95">
 				<img src="https://avatars.githubusercontent.com/u/87642318?s=72&u=05c1097941b28e26ec7e71d29ce65fd71c802d3e&v=4" width="24" alt="Avatar of MikeTito95"> MikeTito95
@@ -1954,7 +1968,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/kingvictorr">
 				<img src="https://avatars.githubusercontent.com/u/3681392?s=72&u=fd0e8afd169717661b6a98e5d5feffa8254d1851&v=4" width="24" alt="Avatar of kingvictorr"> kingvictorr
@@ -1968,7 +1982,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>134</td>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/mai-rad98">
 				<img src="https://avatars.githubusercontent.com/u/67055383?s=72&v=4" width="24" alt="Avatar of mai-rad98"> mai-rad98
@@ -1982,7 +1996,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/th3M8A">
 				<img src="https://avatars.githubusercontent.com/u/94997131?s=72&u=f259439828d37c709bb9f0bca343335f5630654a&v=4" width="24" alt="Avatar of th3M8A"> th3M8A
@@ -1996,7 +2010,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/kagisopg">
 				<img src="https://avatars.githubusercontent.com/u/33590596?s=72&v=4" width="24" alt="Avatar of kagisopg"> kagisopg
@@ -2010,40 +2024,26 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>137</td>
-		<td>
-			<a href="https://github.com/devlesedi">
-				<img src="https://avatars.githubusercontent.com/u/7551308?s=72&u=9ae6d5cbf60219220061307d5ca2c1f6a44fdb3a&v=4" width="24" alt="Avatar of devlesedi"> devlesedi
-			</a><br/>
-			Lesedi Ramahobo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Gaborone, Botswana</td>
-		<td>6</td>
-		<td>6</td>
-	</tr>
-	<tr>
 		<td>138</td>
 		<td>
-			<a href="https://github.com/Rehanul-Hakim">
-				<img src="https://avatars.githubusercontent.com/u/83771496?s=72&u=74d045e6990a26008e2115c3b2032162f2276fba&v=4" width="24" alt="Avatar of Rehanul-Hakim"> Rehanul-Hakim
+			<a href="https://github.com/GodCode-cpp">
+				<img src="https://avatars.githubusercontent.com/u/59241523?s=72&v=4" width="24" alt="Avatar of GodCode-cpp"> GodCode-cpp
 			</a><br/>
-			Rehanul Rehan Hakim
+			Gobe Mphusu
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Gaborone, Botswana</td>
-		<td>6</td>
+		<td>Botswana</td>
+		<td>4</td>
 		<td>6</td>
 	</tr>
 	<tr>
 		<td>139</td>
 		<td>
-			<a href="https://github.com/chandamokgethi">
-				<img src="https://avatars.githubusercontent.com/u/62935866?s=72&v=4" width="24" alt="Avatar of chandamokgethi"> chandamokgethi
+			<a href="https://github.com/Rehanul-Hakim">
+				<img src="https://avatars.githubusercontent.com/u/83771496?s=72&u=74d045e6990a26008e2115c3b2032162f2276fba&v=4" width="24" alt="Avatar of Rehanul-Hakim"> Rehanul-Hakim
 			</a><br/>
-			Chandapiwa Mokgethi
+			Rehanul Rehan Hakim
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2082,20 +2082,6 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 	<tr>
 		<td>142</td>
 		<td>
-			<a href="https://github.com/DevMunashe">
-				<img src="https://avatars.githubusercontent.com/u/5782634?s=72&u=f7a65a80548976d0924dde2fc624976ae2fd0006&v=4" width="24" alt="Avatar of DevMunashe"> DevMunashe
-			</a><br/>
-			Munashe Shonge
-		</td>
-		<td>Afreeworx Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Botswana</td>
-		<td>6</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
 			<a href="https://github.com/Letsodon">
 				<img src="https://avatars.githubusercontent.com/u/88672700?s=72&u=9a4776d1f0146e820feaf4817f409512eacc31b3&v=4" width="24" alt="Avatar of Letsodon"> Letsodon
 			</a><br/>
@@ -2106,6 +2092,20 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>Gaborone Botswana</td>
 		<td>1</td>
 		<td>6</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>
+			<a href="https://github.com/devlesedi">
+				<img src="https://avatars.githubusercontent.com/u/7551308?s=72&u=9ae6d5cbf60219220061307d5ca2c1f6a44fdb3a&v=4" width="24" alt="Avatar of devlesedi"> devlesedi
+			</a><br/>
+			Lesedi Ramahobo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gaborone, Botswana</td>
+		<td>5</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -2166,20 +2166,6 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 	<tr>
 		<td>148</td>
 		<td>
-			<a href="https://github.com/ratladi">
-				<img src="https://avatars.githubusercontent.com/u/3639328?s=72&u=5fcf1a8a345e04c6b5be89f508681c43728f8d58&v=4" width="24" alt="Avatar of ratladi"> ratladi
-			</a><br/>
-			Kabo Ratladi
-		</td>
-		<td>Farmconnectar </td>
-		<td>No Twitter Username</td>
-		<td>Gaborone, Botswana</td>
-		<td>0</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
 			<a href="https://github.com/gmashonga">
 				<img src="https://avatars.githubusercontent.com/u/27202104?s=72&v=4" width="24" alt="Avatar of gmashonga"> gmashonga
 			</a><br/>
@@ -2192,7 +2178,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/tmotswagole">
 				<img src="https://avatars.githubusercontent.com/u/38315070?s=72&u=b2d55b24a418064c11914919ef23bdf12e0c23a9&v=4" width="24" alt="Avatar of tmotswagole"> tmotswagole
@@ -2206,7 +2192,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/GomolemoOnGithub">
 				<img src="https://avatars.githubusercontent.com/u/47298076?s=72&u=0facf85dbbf3e254936a33356a4f2c286f357809&v=4" width="24" alt="Avatar of GomolemoOnGithub"> GomolemoOnGithub
@@ -2220,7 +2206,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/Katlo-T">
 				<img src="https://avatars.githubusercontent.com/u/85590873?s=72&v=4" width="24" alt="Avatar of Katlo-T"> Katlo-T
@@ -2234,7 +2220,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/infusedigitalbw">
 				<img src="https://avatars.githubusercontent.com/u/84867339?s=72&v=4" width="24" alt="Avatar of infusedigitalbw"> infusedigitalbw
@@ -2248,7 +2234,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/TrixusCode">
 				<img src="https://avatars.githubusercontent.com/u/17107097?s=72&u=5aa3c722075086e597fdd885fdf4b1c847814fd8&v=4" width="24" alt="Avatar of TrixusCode"> TrixusCode
@@ -2262,7 +2248,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/seetsele-kebakile">
 				<img src="https://avatars.githubusercontent.com/u/28989852?s=72&v=4" width="24" alt="Avatar of seetsele-kebakile"> seetsele-kebakile
@@ -2276,7 +2262,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/lesleyditlhotlhole">
 				<img src="https://avatars.githubusercontent.com/u/54358626?s=72&u=df39cd1330227674b185b91e66f59e3785b822c9&v=4" width="24" alt="Avatar of lesleyditlhotlhole"> lesleyditlhotlhole
@@ -2290,7 +2276,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/Mojohny">
 				<img src="https://avatars.githubusercontent.com/u/19268603?s=72&u=6f884cb9075811a142c72a56808feb835be0579e&v=4" width="24" alt="Avatar of Mojohny"> Mojohny
@@ -2300,6 +2286,20 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Gaborone, Botswana</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>157</td>
+		<td>
+			<a href="https://github.com/Nqabeni">
+				<img src="https://avatars.githubusercontent.com/u/9331869?s=72&u=88d53568628951ff0f0852623c1164022dadf7f8&v=4" width="24" alt="Avatar of Nqabeni"> Nqabeni
+			</a><br/>
+			Noel Simela
+		</td>
+		<td>Data Chronicles </td>
+		<td>No Twitter Username</td>
+		<td>Botswana</td>
 		<td>4</td>
 		<td>4</td>
 	</tr>
@@ -2348,20 +2348,6 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 	<tr>
 		<td>161</td>
 		<td>
-			<a href="https://github.com/ThabangBW">
-				<img src="https://avatars.githubusercontent.com/u/13000572?s=72&u=6582d15361f4cfc06a8c62c2c90147e1c36ecacd&v=4" width="24" alt="Avatar of ThabangBW"> ThabangBW
-			</a><br/>
-			Thabang Boikanyo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mochudi, Botswana</td>
-		<td>4</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>162</td>
-		<td>
 			<a href="https://github.com/segwabetumo">
 				<img src="https://avatars.githubusercontent.com/u/43052738?s=72&u=429c6f66bf777bf270b726338ac4436a3223ca4a&v=4" width="24" alt="Avatar of segwabetumo"> segwabetumo
 			</a><br/>
@@ -2370,6 +2356,20 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Botswana, Gaborone</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>162</td>
+		<td>
+			<a href="https://github.com/ThabangBW">
+				<img src="https://avatars.githubusercontent.com/u/13000572?s=72&u=6582d15361f4cfc06a8c62c2c90147e1c36ecacd&v=4" width="24" alt="Avatar of ThabangBW"> ThabangBW
+			</a><br/>
+			Thabang Boikanyo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mochudi, Botswana</td>
 		<td>4</td>
 		<td>4</td>
 	</tr>
@@ -2446,20 +2446,6 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 	<tr>
 		<td>168</td>
 		<td>
-			<a href="https://github.com/Nqabeni">
-				<img src="https://avatars.githubusercontent.com/u/9331869?s=72&u=88d53568628951ff0f0852623c1164022dadf7f8&v=4" width="24" alt="Avatar of Nqabeni"> Nqabeni
-			</a><br/>
-			Noel Simela
-		</td>
-		<td>Data Chronicles </td>
-		<td>No Twitter Username</td>
-		<td>Botswana</td>
-		<td>3</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>169</td>
-		<td>
 			<a href="https://github.com/Khago17">
 				<img src="https://avatars.githubusercontent.com/u/86709662?s=72&u=bac424676c813b33a3e1d615ecaaacf375398b5a&v=4" width="24" alt="Avatar of Khago17"> Khago17
 			</a><br/>
@@ -2472,7 +2458,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/EmmanuelNtwaetsile">
 				<img src="https://avatars.githubusercontent.com/u/90899004?s=72&u=68d6b6404f698ba220808b886e103160ecc132c5&v=4" width="24" alt="Avatar of EmmanuelNtwaetsile"> EmmanuelNtwaetsile
@@ -2486,7 +2472,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/egps">
 				<img src="https://avatars.githubusercontent.com/u/23291687?s=72&u=89217e2539f092de5ca71038483e0290238fee67&v=4" width="24" alt="Avatar of egps"> egps
@@ -2500,7 +2486,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/localhostapps">
 				<img src="https://avatars.githubusercontent.com/u/96146609?s=72&v=4" width="24" alt="Avatar of localhostapps"> localhostapps
@@ -2514,7 +2500,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/TsotlheLetebele">
 				<img src="https://avatars.githubusercontent.com/u/95503225?s=72&v=4" width="24" alt="Avatar of TsotlheLetebele"> TsotlheLetebele
@@ -2528,7 +2514,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/lungievargas">
 				<img src="https://avatars.githubusercontent.com/u/43004309?s=72&v=4" width="24" alt="Avatar of lungievargas"> lungievargas
@@ -2542,7 +2528,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/LoreMenyatso">
 				<img src="https://avatars.githubusercontent.com/u/47567024?s=72&u=8274ae8880021a9db1c3bce9746e115ef7ef053b&v=4" width="24" alt="Avatar of LoreMenyatso"> LoreMenyatso
@@ -2556,7 +2542,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/generalmay-en">
 				<img src="https://avatars.githubusercontent.com/u/95106667?s=72&v=4" width="24" alt="Avatar of generalmay-en"> generalmay-en
@@ -2570,7 +2556,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/bktumisang">
 				<img src="https://avatars.githubusercontent.com/u/94763526?s=72&v=4" width="24" alt="Avatar of bktumisang"> bktumisang
@@ -2584,7 +2570,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/TSHEPOG">
 				<img src="https://avatars.githubusercontent.com/u/87138627?s=72&u=78139c2bf203c50c1edeea7dc01864cd6735da1b&v=4" width="24" alt="Avatar of TSHEPOG"> TSHEPOG
@@ -2598,7 +2584,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/machetedropout">
 				<img src="https://avatars.githubusercontent.com/u/92019820?s=72&v=4" width="24" alt="Avatar of machetedropout"> machetedropout
@@ -2612,7 +2598,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/cyndaAnalyst">
 				<img src="https://avatars.githubusercontent.com/u/84644813?s=72&v=4" width="24" alt="Avatar of cyndaAnalyst"> cyndaAnalyst
@@ -2626,7 +2612,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/L-Lebogang">
 				<img src="https://avatars.githubusercontent.com/u/28928486?s=72&v=4" width="24" alt="Avatar of L-Lebogang"> L-Lebogang
@@ -2640,7 +2626,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/carl022">
 				<img src="https://avatars.githubusercontent.com/u/84599981?s=72&v=4" width="24" alt="Avatar of carl022"> carl022
@@ -2650,6 +2636,20 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/carl_mt7">carl_mt7</a></td>
 		<td>Botswana</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>182</td>
+		<td>
+			<a href="https://github.com/sptssq">
+				<img src="https://avatars.githubusercontent.com/u/98433958?s=72&u=563d2adee8d3b2fa0ce5816ec7679d8eec82c7ba&v=4" width="24" alt="Avatar of sptssq"> sptssq
+			</a><br/>
+			SPTSSQ
+		</td>
+		<td>Poop Corp </td>
+		<td><a href="https://twitter.com/SptSSQ">SptSSQ</a></td>
+		<td>botswana</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
@@ -2684,20 +2684,6 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 	<tr>
 		<td>185</td>
 		<td>
-			<a href="https://github.com/sptssq">
-				<img src="https://avatars.githubusercontent.com/u/98433958?s=72&u=563d2adee8d3b2fa0ce5816ec7679d8eec82c7ba&v=4" width="24" alt="Avatar of sptssq"> sptssq
-			</a><br/>
-			SPTSSQ
-		</td>
-		<td>Poop Corp </td>
-		<td><a href="https://twitter.com/SptSSQ">SptSSQ</a></td>
-		<td>botswana</td>
-		<td>3</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>186</td>
-		<td>
 			<a href="https://github.com/Lefika952">
 				<img src="https://avatars.githubusercontent.com/u/84975786?s=72&v=4" width="24" alt="Avatar of Lefika952"> Lefika952
 			</a><br/>
@@ -2710,7 +2696,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/twice">
 				<img src="https://avatars.githubusercontent.com/u/406968?s=72&v=4" width="24" alt="Avatar of twice"> twice
@@ -2720,6 +2706,20 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>Clearstride </td>
 		<td>No Twitter Username</td>
 		<td>Gaborone, Botswana</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>187</td>
+		<td>
+			<a href="https://github.com/fenrice">
+				<img src="https://avatars.githubusercontent.com/u/49913941?s=72&v=4" width="24" alt="Avatar of fenrice"> fenrice
+			</a><br/>
+			No Name
+		</td>
+		<td>Self-employed </td>
+		<td>No Twitter Username</td>
+		<td>Gaborone</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
@@ -2852,20 +2852,6 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 	<tr>
 		<td>197</td>
 		<td>
-			<a href="https://github.com/MADISA2021">
-				<img src="https://avatars.githubusercontent.com/u/78379242?s=72&v=4" width="24" alt="Avatar of MADISA2021"> MADISA2021
-			</a><br/>
-			No Name
-		</td>
-		<td>National Health Laboratory <br/></td>
-		<td>No Twitter Username</td>
-		<td>GABORONE </td>
-		<td>2</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>198</td>
-		<td>
 			<a href="https://github.com/Shagnesium">
 				<img src="https://avatars.githubusercontent.com/u/36002431?s=72&v=4" width="24" alt="Avatar of Shagnesium"> Shagnesium
 			</a><br/>
@@ -2874,6 +2860,20 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Botswana</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>198</td>
+		<td>
+			<a href="https://github.com/Grahamm-sudo">
+				<img src="https://avatars.githubusercontent.com/u/98938923?s=72&v=4" width="24" alt="Avatar of Grahamm-sudo"> Grahamm-sudo
+			</a><br/>
+			Graham Munengami
+		</td>
+		<td>Sunday Standard </td>
+		<td>No Twitter Username</td>
+		<td>Gaborone</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
@@ -2950,34 +2950,6 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 	<tr>
 		<td>204</td>
 		<td>
-			<a href="https://github.com/fenrice">
-				<img src="https://avatars.githubusercontent.com/u/49913941?s=72&v=4" width="24" alt="Avatar of fenrice"> fenrice
-			</a><br/>
-			No Name
-		</td>
-		<td>Self-employed </td>
-		<td>No Twitter Username</td>
-		<td>Gaborone</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>205</td>
-		<td>
-			<a href="https://github.com/Bow-tech">
-				<img src="https://avatars.githubusercontent.com/u/39128181?s=72&v=4" width="24" alt="Avatar of Bow-tech"> Bow-tech
-			</a><br/>
-			Thabang Mphela
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Gaborone, Botswana</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>206</td>
-		<td>
 			<a href="https://github.com/Boago-1s0s">
 				<img src="https://avatars.githubusercontent.com/u/22000929?s=72&v=4" width="24" alt="Avatar of Boago-1s0s"> Boago-1s0s
 			</a><br/>
@@ -2990,7 +2962,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/ethamage">
 				<img src="https://avatars.githubusercontent.com/u/35776549?s=72&u=12bbd87b9aba11f53d233a81cfd681282ce9e394&v=4" width="24" alt="Avatar of ethamage"> ethamage
@@ -3001,6 +2973,34 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Gaborone, Botswana</td>
 		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>206</td>
+		<td>
+			<a href="https://github.com/blufox">
+				<img src="https://avatars.githubusercontent.com/u/6730424?s=72&u=0b906c014a680e8bc85359c12543225d37752456&v=4" width="24" alt="Avatar of blufox"> blufox
+			</a><br/>
+			-Dim
+		</td>
+		<td>Anti Verse </td>
+		<td>No Twitter Username</td>
+		<td>Botswana</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>207</td>
+		<td>
+			<a href="https://github.com/ratladi">
+				<img src="https://avatars.githubusercontent.com/u/3639328?s=72&u=5fcf1a8a345e04c6b5be89f508681c43728f8d58&v=4" width="24" alt="Avatar of ratladi"> ratladi
+			</a><br/>
+			Kabo Ratladi
+		</td>
+		<td>Farmconnectar </td>
+		<td>No Twitter Username</td>
+		<td>Gaborone, Botswana</td>
+		<td>0</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -3146,20 +3146,6 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 	<tr>
 		<td>218</td>
 		<td>
-			<a href="https://github.com/omogolo">
-				<img src="https://avatars.githubusercontent.com/u/13659881?s=72&u=b6971d32099e7b28b8f3dcd7d091f2afa826f618&v=4" width="24" alt="Avatar of omogolo"> omogolo
-			</a><br/>
-			Omogolo
-		</td>
-		<td>Focussurveys </td>
-		<td>No Twitter Username</td>
-		<td>Gaborone Botswana</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>219</td>
-		<td>
 			<a href="https://github.com/onalekitso">
 				<img src="https://avatars.githubusercontent.com/u/6186801?s=72&u=9d9d00952692ee8d9400ae6614cf05e5279d9be7&v=4" width="24" alt="Avatar of onalekitso"> onalekitso
 			</a><br/>
@@ -3172,7 +3158,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/nebzz">
 				<img src="https://avatars.githubusercontent.com/u/6778757?s=72&u=4ee394a975a5715c776cfd99526221f4c808d5bc&v=4" width="24" alt="Avatar of nebzz"> nebzz
@@ -3186,7 +3172,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/Edson-14">
 				<img src="https://avatars.githubusercontent.com/u/54361403?s=72&u=a740aaa646dcc293817f92e20a8a616f4ce1b8bb&v=4" width="24" alt="Avatar of Edson-14"> Edson-14
@@ -3200,7 +3186,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/lula-ai">
 				<img src="https://avatars.githubusercontent.com/u/84675203?s=72&u=0544e018032cd34a082f43f33cbc287b2a7b100f&v=4" width="24" alt="Avatar of lula-ai"> lula-ai
@@ -3214,35 +3200,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>223</td>
-		<td>
-			<a href="https://github.com/Alfonzo007">
-				<img src="https://avatars.githubusercontent.com/u/99055476?s=72&u=9c3943814387cff078b75ad86ebc7c99e02c18b7&v=4" width="24" alt="Avatar of Alfonzo007"> Alfonzo007
-			</a><br/>
-			Alfonzo kgakole
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/PuskasGen">PuskasGen</a></td>
-		<td>Botswana</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>224</td>
-		<td>
-			<a href="https://github.com/kabelo320">
-				<img src="https://avatars.githubusercontent.com/u/78957383?s=72&v=4" width="24" alt="Avatar of kabelo320"> kabelo320
-			</a><br/>
-			No Name
-		</td>
-		<td>Botswana Accountancy College </td>
-		<td>No Twitter Username</td>
-		<td>Gaborone</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>225</td>
+		<td>222</td>
 		<td>
 			<a href="https://github.com/EddyMuz">
 				<img src="https://avatars.githubusercontent.com/u/85221107?s=72&v=4" width="24" alt="Avatar of EddyMuz"> EddyMuz
@@ -3256,7 +3214,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/M-Pule">
 				<img src="https://avatars.githubusercontent.com/u/98982950?s=72&u=98ac3aa1649ce516853c57c864bc43eadd202e4f&v=4" width="24" alt="Avatar of M-Pule"> M-Pule
@@ -3270,7 +3228,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/TTMOSALA">
 				<img src="https://avatars.githubusercontent.com/u/42172840?s=72&u=597acebef0f31e51022160c49c8297c8d1488ff6&v=4" width="24" alt="Avatar of TTMOSALA"> TTMOSALA
@@ -3284,7 +3242,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/KopanoTsaro">
 				<img src="https://avatars.githubusercontent.com/u/85133221?s=72&v=4" width="24" alt="Avatar of KopanoTsaro"> KopanoTsaro
@@ -3298,7 +3256,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/Moengb">
 				<img src="https://avatars.githubusercontent.com/u/85745332?s=72&u=a5023bc94f14bb4304244319f219134b17ad2eb1&v=4" width="24" alt="Avatar of Moengb"> Moengb
@@ -3312,7 +3270,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/CynthiaNage">
 				<img src="https://avatars.githubusercontent.com/u/91093331?s=72&v=4" width="24" alt="Avatar of CynthiaNage"> CynthiaNage
@@ -3326,7 +3284,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/FazeLKhan">
 				<img src="https://avatars.githubusercontent.com/u/57949248?s=72&v=4" width="24" alt="Avatar of FazeLKhan"> FazeLKhan
@@ -3340,21 +3298,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>232</td>
-		<td>
-			<a href="https://github.com/obSch">
-				<img src="https://avatars.githubusercontent.com/u/21311513?s=72&v=4" width="24" alt="Avatar of obSch"> obSch
-			</a><br/>
-			Obakeng Maikano
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Francistown, Botswana</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>233</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/rjayaraj">
 				<img src="https://avatars.githubusercontent.com/u/88196829?s=72&v=4" width="24" alt="Avatar of rjayaraj"> rjayaraj
@@ -3368,7 +3312,21 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>230</td>
+		<td>
+			<a href="https://github.com/Riskboy">
+				<img src="https://avatars.githubusercontent.com/u/12247202?s=72&u=e822283ed8b4a52648bd95f2cf548705aa7e8c39&v=4" width="24" alt="Avatar of Riskboy"> Riskboy
+			</a><br/>
+			Thato Poloko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gaborone</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/chimbise">
 				<img src="https://avatars.githubusercontent.com/u/58652155?s=72&v=4" width="24" alt="Avatar of chimbise"> chimbise
@@ -3382,7 +3340,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/LonahM">
 				<img src="https://avatars.githubusercontent.com/u/88238181?s=72&u=ddd0a1c8aeac5ff95c270d36bc004887065de163&v=4" width="24" alt="Avatar of LonahM"> LonahM
@@ -3396,7 +3354,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/KgotlaBathoMokgaotsane">
 				<img src="https://avatars.githubusercontent.com/u/36712960?s=72&v=4" width="24" alt="Avatar of KgotlaBathoMokgaotsane"> KgotlaBathoMokgaotsane
@@ -3410,21 +3368,21 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>234</td>
 		<td>
-			<a href="https://github.com/spiritualjewellery">
-				<img src="https://avatars.githubusercontent.com/u/98528840?s=72&u=c1d5e5b3ff8dfa5c3eceb7310a3e9d3bb9fbaa74&v=4" width="24" alt="Avatar of spiritualjewellery"> spiritualjewellery
+			<a href="https://github.com/DevMunashe">
+				<img src="https://avatars.githubusercontent.com/u/5782634?s=72&u=f7a65a80548976d0924dde2fc624976ae2fd0006&v=4" width="24" alt="Avatar of DevMunashe"> DevMunashe
 			</a><br/>
-			spiritual jewellery
+			Munashe Shonge
 		</td>
-		<td>Sellegroup </td>
+		<td>Afreeworx Technologies </td>
 		<td>No Twitter Username</td>
-		<td>South Africa, Botswana and Swaziland</td>
+		<td>Botswana</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/PatloSeretse">
 				<img src="https://avatars.githubusercontent.com/u/81297972?s=72&v=4" width="24" alt="Avatar of PatloSeretse"> PatloSeretse
@@ -3438,7 +3396,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/royalmofenyi">
 				<img src="https://avatars.githubusercontent.com/u/55611009?s=72&u=fc17237ec492d742716ffe1bc718bbdda78fb428&v=4" width="24" alt="Avatar of royalmofenyi"> royalmofenyi
@@ -3452,7 +3410,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/drovnik">
 				<img src="https://avatars.githubusercontent.com/u/49633321?s=72&v=4" width="24" alt="Avatar of drovnik"> drovnik
@@ -3466,7 +3424,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/Kmphologe">
 				<img src="https://avatars.githubusercontent.com/u/76778667?s=72&v=4" width="24" alt="Avatar of Kmphologe"> Kmphologe
@@ -3480,7 +3438,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/SandileM-12">
 				<img src="https://avatars.githubusercontent.com/u/92942176?s=72&u=a7b1a847b34307d42b110280e818da22cc47875c&v=4" width="24" alt="Avatar of SandileM-12"> SandileM-12
@@ -3494,7 +3452,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/mnhema">
 				<img src="https://avatars.githubusercontent.com/u/4971529?s=72&u=cbdcff02286b7fc086c76727171c5d250e22adcb&v=4" width="24" alt="Avatar of mnhema"> mnhema
@@ -3508,7 +3466,7 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/PricemateBW">
 				<img src="https://avatars.githubusercontent.com/u/84067366?s=72&u=a81671ebd4991b29891dfa39fd7de2d3292764e6&v=4" width="24" alt="Avatar of PricemateBW"> PricemateBW
@@ -3522,7 +3480,21 @@ There are `512 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>242</td>
+		<td>
+			<a href="https://github.com/TueloNtlotlang">
+				<img src="https://avatars.githubusercontent.com/u/72657722?s=72&v=4" width="24" alt="Avatar of TueloNtlotlang"> TueloNtlotlang
+			</a><br/>
+			No Name
+		</td>
+		<td>Botswana International University Of<br/>Science<br/>And<br/>Technology<br/>(biust)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Botswana, Africa</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/snglenote">
 				<img src="https://avatars.githubusercontent.com/u/77485946?s=72&u=1c6473e617e542088c8318d43a02a8527e7bdb75&v=4" width="24" alt="Avatar of snglenote"> snglenote
