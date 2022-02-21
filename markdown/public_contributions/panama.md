@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg" alt="Panama">
 </a>
 
-The `public contributions` by users in Panama on `2022/2/10 6:51 PM UTC`. This list contains users from `Panama` and cities `Panama-city` `Tocumen`.
+The `public contributions` by users in Panama on `2022/2/21 12:45 AM UTC`. This list contains users from `Panama` and cities `Panama-city` `Tocumen`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
