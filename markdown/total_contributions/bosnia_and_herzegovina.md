@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` and `private contributions` by users in Bosnia And Herzegovina on `2022/2/15 6:33 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` and `private contributions` by users in Bosnia And Herzegovina on `2022/2/25 6:35 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
@@ -117,24 +117,10 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Mostar, BiH</td>
 		<td>1</td>
-		<td>411</td>
+		<td>407</td>
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>
-			<a href="https://github.com/filiprogic">
-				<img src="https://avatars.githubusercontent.com/u/37115543?s=72&u=c913012cfface9cc6f1dfa0059e26e631028488d&v=4" width="24" alt="Avatar of filiprogic"> filiprogic
-			</a><br/>
-			Filip Rogić
-		</td>
-		<td>Illuminos Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Mostar</td>
-		<td>0</td>
-		<td>94</td>
-	</tr>
-	<tr>
-		<td>3</td>
 		<td>
 			<a href="https://github.com/31d4r">
 				<img src="https://avatars.githubusercontent.com/u/30953857?s=72&u=1a5b01aa783a7a0f6ca9aaa60a82eb58287f56f7&v=4" width="24" alt="Avatar of 31d4r"> 31d4r
@@ -145,7 +131,21 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Zenica</td>
 		<td>3</td>
-		<td>82</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>
+			<a href="https://github.com/filiprogic">
+				<img src="https://avatars.githubusercontent.com/u/37115543?s=72&u=c913012cfface9cc6f1dfa0059e26e631028488d&v=4" width="24" alt="Avatar of filiprogic"> filiprogic
+			</a><br/>
+			Filip Rogić
+		</td>
+		<td>Illuminos Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Mostar</td>
+		<td>0</td>
+		<td>86</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -228,8 +228,8 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tuzla</td>
-		<td>29</td>
-		<td>29</td>
+		<td>27</td>
+		<td>27</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -262,6 +262,20 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>12</td>
 		<td>
+			<a href="https://github.com/adnanh">
+				<img src="https://avatars.githubusercontent.com/u/82367?s=72&u=d8460b1a01895dc3d11e0b0fcc8d0d1fd58e67ab&v=4" width="24" alt="Avatar of adnanh"> adnanh
+			</a><br/>
+			Adnan Hajdarević
+		</td>
+		<td>@saburly </td>
+		<td>No Twitter Username</td>
+		<td>Sarajevo, Bosnia & Herzegovina</td>
+		<td>8</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
 			<a href="https://github.com/nejramustagrudic">
 				<img src="https://avatars.githubusercontent.com/u/80315306?s=72&u=fc997fe66096d6bb40f2090e1b787d0dde9537e6&v=4" width="24" alt="Avatar of nejramustagrudic"> nejramustagrudic
 			</a><br/>
@@ -274,7 +288,7 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>14</td>
 		<td>
 			<a href="https://github.com/Champa99">
 				<img src="https://avatars.githubusercontent.com/u/44381756?s=72&u=ead091350ee020b01f311f41013ec79c579a0dee&v=4" width="24" alt="Avatar of Champa99"> Champa99
@@ -286,20 +300,6 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>Sarajevo, Bosnia and Herzegovina</td>
 		<td>9</td>
 		<td>11</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
-			<a href="https://github.com/adnanh">
-				<img src="https://avatars.githubusercontent.com/u/82367?s=72&u=d8460b1a01895dc3d11e0b0fcc8d0d1fd58e67ab&v=4" width="24" alt="Avatar of adnanh"> adnanh
-			</a><br/>
-			Adnan Hajdarević
-		</td>
-		<td>@saburly </td>
-		<td>No Twitter Username</td>
-		<td>Sarajevo, Bosnia & Herzegovina</td>
-		<td>8</td>
-		<td>10</td>
 	</tr>
 	<tr>
 		<td>15</td>

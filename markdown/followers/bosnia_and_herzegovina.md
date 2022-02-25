@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `number of followers` of users in Bosnia And Herzegovina on `2022/2/15 6:33 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `number of followers` of users in Bosnia And Herzegovina on `2022/2/25 6:35 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
@@ -167,7 +167,7 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>@wohlhart-lernsoftwa  </td>
 		<td>No Twitter Username</td>
 		<td>Zenica, Bosnia and Herzegovina</td>
-		<td>14</td>
+		<td>13</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -250,6 +250,19 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>12</td>
 		<td>
+			<a href="https://github.com/MirzaMedar">
+				<img src="https://avatars.githubusercontent.com/u/23072261?s=72&u=a278c5bd0c312d12f384de537edbe2c69b7f0b25&v=4" width="24" alt="Avatar of MirzaMedar"> MirzaMedar
+			</a><br/>
+			Mirza Medar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mostar</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
 			<a href="https://github.com/seadacehic">
 				<img src="https://avatars.githubusercontent.com/u/43740261?s=72&u=cfb6e045d48034f2c3f9d72d70116478206283cb&v=4" width="24" alt="Avatar of seadacehic"> seadacehic
 			</a><br/>
@@ -261,7 +274,7 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>14</td>
 		<td>
 			<a href="https://github.com/SenadAlagic">
 				<img src="https://avatars.githubusercontent.com/u/72402224?s=72&u=6b220bda9da04cecc8adf68bc983e5b81f4717ad&v=4" width="24" alt="Avatar of SenadAlagic"> SenadAlagic
@@ -274,7 +287,7 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/nejramustagrudic">
 				<img src="https://avatars.githubusercontent.com/u/80315306?s=72&u=fc997fe66096d6bb40f2090e1b787d0dde9537e6&v=4" width="24" alt="Avatar of nejramustagrudic"> nejramustagrudic
@@ -284,19 +297,6 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sarajevo</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/MirzaMedar">
-				<img src="https://avatars.githubusercontent.com/u/23072261?s=72&u=a278c5bd0c312d12f384de537edbe2c69b7f0b25&v=4" width="24" alt="Avatar of MirzaMedar"> MirzaMedar
-			</a><br/>
-			Mirza Medar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mostar</td>
 		<td>1</td>
 	</tr>
 	<tr>
