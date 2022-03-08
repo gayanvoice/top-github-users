@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czechia">
 </a>
 
-The `number of followers` of users in Czechia on `2022/2/26 12:51 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
+The `number of followers` of users in Czechia on `2022/3/8 12:57 PM UTC`. This list contains users from `Czechia` and cities `Prague` `Brno` `Ostrava` `Pilsen` `Olomouc`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
