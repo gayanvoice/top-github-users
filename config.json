@@ -124,7 +124,7 @@
     { "country":  "switzerland", "geoName": "Switzerland", "cities": ["zürich", "geneva", "basel", "lausanne"], "imageUrl": "https://en.wikipedia.org/wiki/Switzerland#/media/File:Flag_of_Switzerland.svg" },
     { "country":  "syria", "geoName": "Syria", "cities": ["damascus", "aleppo", "homs", "latakia"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg" },
     { "country":  "tanzania", "geoName": "Tanzania", "cities": ["dar-es-salaam", "mwanza", "dodoma", "mbeya"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg" },
-    { "country":  "thailand", "geoName": "Thailand", "cities": ["bangkok", "chiang-mai", "phuket", "pattaya"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" },
+    { "country":  "thailand", "geoName": "Thailand", "cities": ["bangkok", "chiang-mai", "phuket", "pattaya", "koh-samui", "nonthaburi", "chonburi", "pathum-thani", "chiang-rai", "khon-kaen", "hatyai"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" },
     { "country":  "tunisia", "geoName": "Tunisia", "cities": ["tunis", "sfax", "sousse", "kairouan"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" },
     { "country":  "turkey", "geoName": "Turkey", "cities": ["istanbul", "ankara", "izmir", "konya", "gaziantep", "adana"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" },
     { "country":  "uganda", "geoName": "Uganda", "cities": ["kampala"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg" },
