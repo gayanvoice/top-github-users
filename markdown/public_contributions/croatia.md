@@ -138,7 +138,7 @@ There are `1000 users`  in Croatia. You need at least `6 followers` to be on thi
 			</a><br/>
 			blakadder
 		</td>
-		<td>Https://blakadder.co </td>
+		<td>https://blakadder.com</td>
 		<td><a href="https://twitter.com/blakadder_">blakadder_</a></td>
 		<td>Croatia</td>
 		<td>3203</td>
