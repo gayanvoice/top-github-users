@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `number of followers` of users in Mauritania on `2022/4/21 7:08 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `number of followers` of users in Mauritania on `2022/5/3 6:59 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `123 users`  in Mauritania. You need at least `0 followers` to be on this list.
+There are `125 users`  in Mauritania. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -128,7 +128,7 @@ There are `123 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nouakchott, Mauritania</td>
-		<td>40</td>
+		<td>39</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -146,19 +146,6 @@ There are `123 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>4</td>
 		<td>
-			<a href="https://github.com/bechir">
-				<img src="https://avatars.githubusercontent.com/u/13308700?s=72&u=dcf3e4900eae0c8540f42a6638aca0069b6bed73&v=4" width="24" alt="Avatar of bechir"> bechir
-			</a><br/>
-			Bechir Ba
-		</td>
-		<td>@neo-tic </td>
-		<td><a href="https://twitter.com/bechiirba">bechiirba</a></td>
-		<td>Nouakchott, Mauritania</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>
 			<a href="https://github.com/etfaghaoubeid">
 				<img src="https://avatars.githubusercontent.com/u/26027603?s=72&u=f9e32398493ff917b8bb165ed2d3b0f76a7c8071&v=4" width="24" alt="Avatar of etfaghaoubeid"> etfaghaoubeid
 			</a><br/>
@@ -167,6 +154,19 @@ There are `123 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>nouakchott</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
+			<a href="https://github.com/bechir">
+				<img src="https://avatars.githubusercontent.com/u/13308700?s=72&u=dcf3e4900eae0c8540f42a6638aca0069b6bed73&v=4" width="24" alt="Avatar of bechir"> bechir
+			</a><br/>
+			Bechir Ba
+		</td>
+		<td>@neo-tic </td>
+		<td><a href="https://twitter.com/bechiirba">bechiirba</a></td>
+		<td>Nouakchott, Mauritania</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -357,9 +357,9 @@ There are `123 users`  in Mauritania. You need at least `0 followers` to be on t
 			<a href="https://github.com/Baira">
 				<img src="https://avatars.githubusercontent.com/u/5349435?s=72&u=030c9d1ce5bee90f0a08093b1a428220741f8d0a&v=4" width="24" alt="Avatar of Baira"> Baira
 			</a><br/>
-			Mohamed Salem BAIRA
+			Salem BAIRA
 		</td>
-		<td>No Company</td>
+		<td>Ibtikar Technologies </td>
 		<td><a href="https://twitter.com/salembaira">salembaira</a></td>
 		<td>Nouakchott, Mauritania</td>
 		<td>3</td>
