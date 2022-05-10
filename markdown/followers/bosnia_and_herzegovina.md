@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `number of followers` of users in Bosnia And Herzegovina on `2022/4/28 6:19 PM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `number of followers` of users in Bosnia And Herzegovina on `2022/5/10 6:14 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
@@ -115,7 +115,7 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>@saburly </td>
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia & Herzegovina</td>
-		<td>159</td>
+		<td>160</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -190,7 +190,7 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 			</a><br/>
 			Kerim Čampara
 		</td>
-		<td>@digime </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia and Herzegovina</td>
 		<td>7</td>
@@ -289,19 +289,6 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>15</td>
 		<td>
-			<a href="https://github.com/nejramustagrudic">
-				<img src="https://avatars.githubusercontent.com/u/80315306?s=72&u=fc997fe66096d6bb40f2090e1b787d0dde9537e6&v=4" width="24" alt="Avatar of nejramustagrudic"> nejramustagrudic
-			</a><br/>
-			Nejra Mustagrudić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sarajevo</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
 			<a href="https://github.com/Isutary">
 				<img src="https://avatars.githubusercontent.com/u/46055196?s=72&u=fa45ab6fb1fd4db0cb4ccb36a24043c33df82784&v=4" width="24" alt="Avatar of Isutary"> Isutary
 			</a><br/>
@@ -310,6 +297,19 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>Infinity Mesh </td>
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia and Herzegovina</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
+			<a href="https://github.com/nejramustagrudic">
+				<img src="https://avatars.githubusercontent.com/u/80315306?s=72&u=fc997fe66096d6bb40f2090e1b787d0dde9537e6&v=4" width="24" alt="Avatar of nejramustagrudic"> nejramustagrudic
+			</a><br/>
+			Nejra Mustagrudić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sarajevo</td>
 		<td>2</td>
 	</tr>
 	<tr>
