@@ -122,6 +122,20 @@ There are `761 users`  in Mozambique . You need at least `0 followers` to be on 
 	<tr>
 		<td>2</td>
 		<td>
+			<a href="https://github.com/machavate">
+				<img src="https://avatars.githubusercontent.com/u/82161016?v=4" width="24" alt="Avatar of machavate"> machavate
+			</a><br/>
+			Osmane Machavate
+		</td>
+		<td> Aervel </td>
+		<td>Osmane Andrade Machavate</td>
+		<td>Maputo, Mozambique</td>
+		<td>59</td>
+		<td>40085</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>
 			<a href="https://github.com/jmrafael">
 				<img src="https://avatars.githubusercontent.com/u/33831855?s=72&u=8165a2709f648caf2231d896c72bf3abaa629e9a&v=4" width="24" alt="Avatar of jmrafael"> jmrafael
 			</a><br/>
