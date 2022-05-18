@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg" alt="Senegal">
 </a>
 
-The `public contributions` by users in Senegal on `2022/5/6 12:27 PM UTC`. This list contains users from `Senegal` and cities `Dakar`.
+The `public contributions` by users in Senegal on `2022/5/18 12:28 PM UTC`. This list contains users from `Senegal` and cities `Dakar`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
