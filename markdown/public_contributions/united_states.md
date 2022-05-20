@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States">
 </a>
 
-The `public contributions` by users in United States on `2022/5/8 6:51 AM UTC`. This list contains users from `United States` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Austin` `Seattle`.
+The `public contributions` by users in United States on `2022/5/20 1:14 PM UTC`. This list contains users from `United States` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Austin` `Seattle`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
