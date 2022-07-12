@@ -2,7 +2,7 @@
 [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
-	<img align="right" width="200" src="https://en.wikipedia.org/wiki/Switzerland#/media/File:Flag_of_Switzerland.svg" alt="Switzerland">
+	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" alt="Switzerland">
 </a>
 
 The `public contributions` and `private contributions` by users in Switzerland on `2022/7/5 12:27 PM UTC`. This list contains users from `Switzerland` and cities `Zürich` `Geneva` `Basel` `Lausanne`.
