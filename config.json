@@ -121,7 +121,7 @@
     { "country":  "sri lanka", "geoName": "Sri Lanka", "cities": ["colombo", "kandy", "gampaha", "galle", "jaffna", "matara"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" },
     { "country":  "sudan", "geoName": "Sudan", "cities": ["khartoum", "omdurman"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg" },
     { "country":  "sweden", "geoName": "Sweden", "cities": ["stockholm", "gothenburg", "uppsala", "helsingborg"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" },
-    { "country":  "switzerland", "geoName": "Switzerland", "cities": ["zürich", "geneva", "basel", "lausanne"], "imageUrl": "https://en.wikipedia.org/wiki/Switzerland#/media/File:Flag_of_Switzerland.svg" },
+    { "country":  "switzerland", "geoName": "Switzerland", "cities": ["zürich", "geneva", "basel", "lausanne"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" },
     { "country":  "syria", "geoName": "Syria", "cities": ["damascus", "aleppo", "homs", "latakia"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg" },
     { "country":  "tanzania", "geoName": "Tanzania", "cities": ["dar-es-salaam", "mwanza", "dodoma", "mbeya"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg" },
     { "country":  "thailand", "geoName": "Thailand", "cities": ["bangkok", "chiang-mai", "phuket", "pattaya"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" },
