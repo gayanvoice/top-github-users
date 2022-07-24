@@ -1485,10 +1485,10 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 			</a>
 		</td>
 		<td>
-			<code>Asunción </code> 
+			<code>Asunción</code> 
 			<code>Ciudad-del-este</code> 
-			<code>Encarnacion</code> 
-			<code>Luque-paraguay</code> 
+			<code>Encarnación</code> 
+			<code>Luque</code> 
 		</td>
 	</tr>
 	<tr>
