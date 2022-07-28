@@ -98,7 +98,7 @@
     { "country":  "pakistan", "geoName": "Pakistan", "cities": ["islamabad", "karachi", "lahore", "faisalabad", "peshawar"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" },
     { "country":  "palestine", "geoName": "Palestine", "cities": ["gaza", "khan-yunis", "jabalia ", "hebron", "nablus"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" },
     { "country":  "panama", "geoName": "Panama", "cities": ["panama-city", "tocumen"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg" },
-    { "country":  "paraguay", "geoName": "Paraguay", "cities": ["asunción ", "ciudad-del-este", "encarnacion", "luque-paraguay"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg" },
+    { "country":  "paraguay", "geoName": "Paraguay", "cities": ["asunción", "ciudad-del-este", "encarnación", "luque"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg" },
     { "country":  "peru", "geoName": "Peru", "cities": ["lima ", "arequipa", "cusco", "chiclayo", "huancayo", "piura"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" },
     { "country":  "philippines", "geoName": "Philippines", "cities": ["manila", "quezon-city", "davao-city", "cebu-city", "makati", "baguio"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" },
     { "country":  "poland", "geoName": "Poland", "cities": ["warsaw", "kraków", "wrocław", "gdańsk", "poznań"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" },
