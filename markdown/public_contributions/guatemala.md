@@ -5092,7 +5092,7 @@ There are `1000 users`  in Guatemala. You need at least `2 followers` to be on t
 			Brandon Antony
 		</td>
 		<td>Quidocu </td>
-		<td>No Twitter Username</td>
+		<td>a href="https://twitter.com/BAnthonyCC">BAnthonyCC</a></td>
 		<td>Guatemala</td>
 		<td>37</td>
 	</tr>
