@@ -141,7 +141,8 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 			<code>Annaba</code> 
 			<code>Sidibelabbès</code> 
 			<code>Biskra</code> 
-			<code>Tiaret</code> 
+			<code>Tiaret</code>
+			<code>Jijel</code>
 		</td>
 	</tr>
 	<tr>
