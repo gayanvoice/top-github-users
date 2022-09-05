@@ -104,6 +104,20 @@ There are `1000 users`  in Uzbekistan. You need at least `6 followers` to be on 
 		<th>Location</th>
 		<th>Public Contributions</th>
 	</tr>
+	
+	<tr>
+		<td>0</td>
+		<td>
+			<a href="https://github.com/Abdurashid-dev">
+				<img src="https://avatars.githubusercontent.com/u/78313030?v=4" width="24" alt="Avatar of Abdurashi-dev"> Abdurashid-dev
+			</a><br/>
+			Abdurashid
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Fergana, Uzbekistan</td>
+		<td>604277</td>
+	</tr>
 	<tr>
 		<td>1</td>
 		<td>
