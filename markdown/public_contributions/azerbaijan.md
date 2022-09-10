@@ -752,7 +752,7 @@ There are `1000 users`  in Azerbaijan. You need at least `4 followers` to be on 
 		<td>Özgün Yapı </td>
 		<td><a href="https://twitter.com/__granger_">__granger_</a></td>
 		<td>Azerbaijan, Baku</td>
-		<td>419</td>
+		<td>613</td>
 	</tr>
 	<tr>
 		<td>51</td>
