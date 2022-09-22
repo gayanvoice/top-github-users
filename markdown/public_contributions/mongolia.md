@@ -419,10 +419,10 @@ There are `962 users`  in Mongolia. You need at least `0 followers` to be on thi
 	<tr>
 		<td>25</td>
 		<td>
-			<a href="https://github.com/amane312">
-				<img src="https://avatars.githubusercontent.com/u/31735410?s=72&u=09e82bc6219afd950c42f1560e950f21460c9417&v=4" width="24" alt="Avatar of amane312"> amane312
+			<a href="https://github.com/maririn312">
+				<img src="https://avatars.githubusercontent.com/u/31735410?s=72&u=09e82bc6219afd950c42f1560e950f21460c9417&v=4" width="24" alt="Avatar of maririn312"> maririn312
 			</a><br/>
-			Amane Misa
+			Amane Maririn
 		</td>
 		<td>/dev/null </td>
 		<td><a href="https://twitter.com/wakaba11299505">wakaba11299505</a></td>
