@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg" alt="Cambodia">
 </a>
 
-The `public contributions` and `private contributions` by users in Cambodia on `2022/7/9 6:57 AM UTC`. This list contains users from `Cambodia` and cities `Phnom-penh` `Siem-reap` `Preah-sihanouk` `Krong-battambang` `Krong-ta-khmau`.
+The `public contributions` and `private contributions` by users in Cambodia on `2022/9/29 1:31 AM UTC`. This list contains users from `Cambodia` and cities `Phnom-penh` `Siem-reap` `Preah-sihanouk` `Krong-battambang` `Krong-ta-khmau`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
