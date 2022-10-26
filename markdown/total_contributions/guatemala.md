@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg" alt="Guatemala">
 </a>
 
-The `public contributions` and `private contributions` by users in Guatemala on `2022/7/11 7:20 AM UTC`. This list contains users from `Guatemala` and cities `Guatemala-city` `Antigua-guatemala` `Quetzaltenango` `Chichicastenango` `Villa-nueva` `Totonicapán`.
+The `public contributions` and `private contributions` by users in Guatemala on `2022/10/26 1:22 AM UTC`. This list contains users from `Guatemala` and cities `Guatemala-city` `Antigua-guatemala` `Quetzaltenango` `Chichicastenango` `Villa-nueva` `Totonicapán`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
