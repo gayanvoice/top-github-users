@@ -6,7 +6,6 @@
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-
 List of most active GitHub users based on `public contributions` `private contributions` and `number of followers` by country or state. The list updated `2022/9/20 1:27 AM UTC`.
 
 
