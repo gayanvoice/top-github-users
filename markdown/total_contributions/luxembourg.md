@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg" alt="Luxembourg">
 </a>
 
-The `public contributions` and `private contributions` by users in Luxembourg on `2022/7/13 7:03 AM UTC`. This list contains users from `Luxembourg` and cities`Luxembourg` and cities `Echternach` `Esch-sur-alzette` `Pétange`.
+The `public contributions` and `private contributions` by users in Luxembourg on `2022/11/15 1:14 AM UTC`. This list contains users from `Luxembourg` and cities`Luxembourg` and cities `Echternach` `Esch-sur-alzette` `Pétange`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
