@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg" alt="Moldova">
 </a>
 
-The `public contributions` by users in Moldova on `2022/7/14 6:49 AM UTC`. This list contains users from `Moldova` and cities `Chișinău` `Tiraspol`.
+The `public contributions` by users in Moldova on `2022/11/24 1:13 AM UTC`. This list contains users from `Moldova` and cities `Chișinău` `Tiraspol`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
