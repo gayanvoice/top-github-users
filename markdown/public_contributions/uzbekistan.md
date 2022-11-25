@@ -9,7 +9,7 @@ The `public contributions` by users in Uzbekistan on `2022/8/31 1:31 AM UTC`. Th
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `1000 users`  in Uzbekistan. You need at least `6 followers` to be on this list.
+There are `1000 users`  in Uzbekistan. You need at least `5 followers` to be on this list.
 
 <table>
 	<tr>
