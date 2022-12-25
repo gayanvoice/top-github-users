@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg" alt="Yemen">
 </a>
 
-The `public contributions` and `private contributions` by users in Yemen on `2022/9/3 1:17 AM UTC`. This list contains users from `Yemen` and cities ` Sana'a`.
+The `public contributions` and `private contributions` by users in Yemen on `2022/12/25 2:20 AM UTC`. This list contains users from `Yemen` and cities ` Sana'a`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
