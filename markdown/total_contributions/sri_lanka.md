@@ -3263,7 +3263,7 @@ There are `1000 users`  in Sri Lanka. You need at least `9 followers` to be on t
 			</a><br/>
 			Kavinda Sumanaweera
 		</td>
-		<td>No Company</td>
+		<td>IMI Games</td>
 		<td><a href="https://twitter.com/kiwiyaaaa">kiwiyaaaa</a></td>
 		<td>Kandy, Sri Lanka</td>
 		<td>94</td>
