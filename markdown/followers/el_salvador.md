@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg" alt="El Salvador">
 </a>
 
-The `number of followers` of users in El Salvador on `2022/10/17 1:48 AM UTC`. This list contains users from `El Salvador` and cities `San-salvador` `San-miguel` `Santa-ana` `Santa-tecla` `San-martin`.
+The `number of followers` of users in El Salvador on `2023/1/18 1:06 AM UTC`. This list contains users from `El Salvador` and cities `San-salvador` `San-miguel` `Santa-ana` `Santa-tecla` `San-martin`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
