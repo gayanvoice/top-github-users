@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg" alt="Georgia">
 </a>
 
-The `public contributions` and `private contributions` by users in Georgia on `2022/10/22 1:32 AM UTC`. This list contains users from `Georgia` and cities `Tbilisi` `Batumi` `Kutaisi` `Rustavi`.
+The `public contributions` and `private contributions` by users in Georgia on `2023/1/20 2:30 AM UTC`. This list contains users from `Georgia` and cities `Tbilisi` `Batumi` `Kutaisi` `Rustavi`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
