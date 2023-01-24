@@ -276,7 +276,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 			<code>Mymensingh</code> 
 			<code>Rajshahi</code> 
 			<code>Rangpur</code> 
-			<code>Chittagong</code> 
+			<code>Chattogram</code> 
 			<code>Khulna</code> 
 		</td>
 	</tr>
