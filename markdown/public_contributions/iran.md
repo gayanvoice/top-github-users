@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" alt="Iran">
 </a>
 
-The `public contributions` by users in Iran on `2022/11/1 1:33 AM UTC`. This list contains users from `Iran` and cities `Tehran` `Isfahan` `Tabriz` `Shiraz` `Mashhad` `Qom`.
+The `public contributions` by users in Iran on `2023/1/25 2:20 AM UTC`. This list contains users from `Iran` and cities `Tehran` `Isfahan` `Tabriz` `Shiraz` `Mashhad` `Qom`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
