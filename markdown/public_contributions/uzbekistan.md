@@ -105,6 +105,19 @@ There are `1000 users`  in Uzbekistan. You need at least `6 followers` to be on 
 		<th>Public Contributions</th>
 	</tr>
 	<tr>
+		<td>0</td>
+		<td>
+			<a href="https://github.com/Abdulazizov23">
+				<img src="https://avatars.githubusercontent.com/u/75356279?s=72&u=d7190a8167d42a36b27bae77ea6aeea5c4a0b72f&v=4" width="24" alt="Avatar of ilosrim"> Abdulazizov23
+			</a><br/>
+			Abdulazizov23
+		</td>
+		<td>@biodasturchi @codahiri </td>
+		<td><a href="https://twitter.com">no</a></td>
+		<td>Andijon, Uzbekistan</td>
+		<td>312412</td>
+	</tr>
+	<tr>
 		<td>1</td>
 		<td>
 			<a href="https://github.com/ilosrim">
