@@ -138,7 +138,7 @@ There are `1000 users`  in Spain. You need at least `75 followers` to be on this
 			</a><br/>
 			Manuel Parra-Royón
 		</td>
-		<td>Ska,  Iaa-csic, University<br/>Of<br/>Granada<br/></td>
+		<td>SKA-Spain,  IAA-CSIC, University of Granada<br/></td>
 		<td><a href="https://twitter.com/manugrapevine">manugrapevine</a></td>
 		<td>Granada, Spain</td>
 		<td>8043</td>
