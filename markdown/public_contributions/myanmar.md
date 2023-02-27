@@ -4909,8 +4909,8 @@ There are `1000 users`  in Myanmar. You need at least `3 followers` to be on thi
 			</a><br/>
 			Aung Tay Zar Maung
 		</td>
-		<td>Z-waka </td>
-		<td><a href="https://twitter.com/DevTayzarMaung">DevTayzarMaung</a></td>
+		<td>K-Link</td>
+		<td><a href="https://twitter.com/BumminZ">BumminZ</a></td>
 		<td>Yangon</td>
 		<td>21</td>
 	</tr>
