@@ -10390,15 +10390,15 @@ There are `1000 users`  in Philippines. You need at least `16 followers` to be o
 	<tr>
 		<td>792</td>
 		<td>
-			<a href="https://github.com/patricklsamson">
-				<img src="https://avatars.githubusercontent.com/u/79001601?s=72&u=c9572491c9603265306d4d716f75e132d1feadb0&v=4" width="24" alt="Avatar of patricklsamson"> patricklsamson
+			<a href="https://github.com/TianMeds">
+				<img src="https://raw.githubusercontent.com/TianMeds/image--stocks-for-coding/main/DSC00085.jpg" width="24" alt="Avatar of TianMeds"> tianmeds
 			</a><br/>
-			Patrick Samson
+			TianMeds
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/patricklsamsonl">patricklsamsonl</a></td>
+		<td><a href="https://twitter.com/TianMeds">patricklsamsonl</a></td>
 		<td>Philippines</td>
-		<td>19</td>
+		<td>20</td>
 	</tr>
 	<tr>
 		<td>793</td>
