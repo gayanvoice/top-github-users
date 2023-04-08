@@ -260,9 +260,16 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 			</a>
 		</td>
 		<td>
+		    <code>Manama</code>
+			<code>Al-Muharraq</code>
 			<code>Nassau</code> 
 			<code>Riffa</code> 
 			<code>Muharraq</code> 
+			<code>Al Juffair</code>
+			<code>A'Aali</code>
+			<code>Al-Malikiyah</code>
+			<code> Isa Town</code>
+			<code> North Sehla</code>
 		</td>
 	</tr>
 	<tr>
