@@ -328,12 +328,12 @@ There are `1000 users`  in Azerbaijan. You need at least `5 followers` to be on 
 	<tr>
 		<td>18</td>
 		<td>
-			<a href="https://github.com/MamedYahyayev">
-				<img src="https://avatars.githubusercontent.com/u/66476643?s=72&u=ab1fb5c865b203130fa44c1faa933147aa6a6835&v=4" width="24" alt="Avatar of MamedYahyayev"> MamedYahyayev
-			</a><br/>
-			Məmməd Yahyayev
+			<a href="https://github.com/mammadyahyayev">
+				<img src="https://avatars.githubusercontent.com/u/66476643?s=72&u=ab1fb5c865b203130fa44c1faa933147aa6a6835&v=4" width="24" alt="Avatar of mammadyahyayev"> mammadyahyayev
+ 			</a><br/>
+			Mammad Yahya
 		</td>
-		<td>Smart Scoring </td>
+		<td>SmartScoring</td>
 		<td>No Twitter Username</td>
 		<td>Baku, Azerbaijan</td>
 		<td>693</td>
