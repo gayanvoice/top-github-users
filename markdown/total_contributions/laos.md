@@ -106,6 +106,20 @@ There are `409 users`  in Laos. You need at least `0 followers` to be on this li
 		<th>Total Contributions</th>
 	</tr>
 	<tr>
+		<td>2</td>
+		<td>
+			<a href="https://github.com/mrbankonly">
+				<img src="https://avatars.githubusercontent.com/u/110370337?v=4" width="24" alt="Avatar of mrbankonly"> mrbankonly
+			</a><br/>
+			Mr Bank Only
+		</td>
+		<td>Skv Group </td>
+		<td>No Twitter Username</td>
+		<td>Vientiane, Laos</td>
+		<td>132</td>
+		<td>1000000000</td>
+	</tr>
+	<tr>
 		<td>1</td>
 		<td>
 			<a href="https://github.com/Xaypanya">
