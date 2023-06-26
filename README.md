@@ -1841,14 +1841,6 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 			</a>
 		</td>
 		<td>
-			<code>Tunis</code> 
-			<code>Sfax</code> 
-			<code>Sousse</code> 
-			<code>Kairouan</code> 
-			<code>Ariana</code> 
-			<code>Djerba</code>
-			<code>Ben arous</code>
-			<code>Gafsa</code>
 			<code>Ariana</code>
 			<code>Tunis</code>
 			<code>Béja</code>
