@@ -4247,7 +4247,7 @@ There are `1000 users`  in Netherlands. You need at least `80 followers` to be o
 			Rutger Vos
 		</td>
 		<td>Naturalis Biodiversity Center </td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/rvosa">rvosa</td>
 		<td>Leiden, the Netherlands</td>
 		<td>304</td>
 	</tr>
