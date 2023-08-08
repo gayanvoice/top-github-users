@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg" alt="Afghanistan">
 </a>
 
-The `public contributions` by users in Afghanistan on `2023/5/28 2:24 AM UTC`. This list contains users from `Afghanistan` and cities `Kabul` `Kandahar` `Herat` `Kunduz` `Lashkargah` `Ghazni` `Khost` `Zaranj`.
+The `public contributions` by users in Afghanistan on `2023/7/29 12:32 AM UTC`. This list contains users from `Afghanistan` and cities `Kabul` `Kandahar` `Herat` `Kunduz` `Lashkargah` `Ghazni` `Khost` `Zaranj`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `960 users`  in Afghanistan. You need at least `0 followers` to be on this list.
+There are `918 users`  in Afghanistan. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -107,343 +107,148 @@ There are `960 users`  in Afghanistan. You need at least `0 followers` to be on 
 	<tr>
 		<td>1</td>
 		<td>
-			<a href="https://github.com/sajadevo">
-				<img src="https://avatars.githubusercontent.com/u/35235759?s=72&u=e4e9ec1ad568e77eaab9598d7057f22e4a67d1a6&v=4" width="24" alt="Avatar of sajadevo"> sajadevo
+			<a href="https://github.com/MahdiSohaily">
+				<img src="https://avatars.githubusercontent.com/u/50738922?s=72&u=8b14de2ad365c0459badca8994a3b7cb994945ab&v=4" width="24" alt="Avatar of MahdiSohaily"> MahdiSohaily
 			</a><br/>
-			Sajad Ahmad Nawabi
+			Mahdi Rezaei
 		</td>
-		<td>@creativetimofficial </td>
-		<td><a href="https://twitter.com/sajadevo_">sajadevo_</a></td>
+		<td>@microverseinc  </td>
+		<td><a href="https://twitter.com/Mahdi_Rezaei_AF">Mahdi_Rezaei_AF</a></td>
 		<td>Kabul, Afghanistan</td>
-		<td>8633</td>
+		<td>4715</td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>
-			<a href="https://github.com/DeltaNedas">
-				<img src="https://avatars.githubusercontent.com/u/39013340?s=72&u=b842b399cdf85fb69183181344eb93201b46cead&v=4" width="24" alt="Avatar of DeltaNedas"> DeltaNedas
+			<a href="https://github.com/TheHadiAhmadi">
+				<img src="https://avatars.githubusercontent.com/u/42554876?s=72&u=bf3f891178fc8e9acae9534c527f6fb764362a36&v=4" width="24" alt="Avatar of TheHadiAhmadi"> TheHadiAhmadi
 			</a><br/>
-			No Name
+			Hadi Ahmadi
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>afghanistan</td>
-		<td>1022</td>
+		<td>Ubeac </td>
+		<td><a href="https://twitter.com/TheHadiAhmadi">TheHadiAhmadi</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>2685</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>
-			<a href="https://github.com/ESMAT001">
-				<img src="https://avatars.githubusercontent.com/u/56363653?s=72&u=5cd07a5c59828a71939dcd700ddd003b6f6afbfd&v=4" width="24" alt="Avatar of ESMAT001"> ESMAT001
+			<a href="https://github.com/Sahar-SE">
+				<img src="https://avatars.githubusercontent.com/u/98980908?s=72&u=28065ccdc4c30f7bcc30ba1f3b85300fcc31a566&v=4" width="24" alt="Avatar of Sahar-SE"> Sahar-SE
 			</a><br/>
-			Esmatullah Niazi
+			Sahar Saba Amiri
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/esmat0100">esmat0100</a></td>
+		<td><a href="https://twitter.com/SaharSabaAmiri">SaharSabaAmiri</a></td>
 		<td>Kabul Afghanistan</td>
-		<td>657</td>
+		<td>2664</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>
-			<a href="https://github.com/NaveedAhmadHematmal">
-				<img src="https://avatars.githubusercontent.com/u/38671143?s=72&u=cb70b09ef5eace25d2ec503cd96b058d799a51f6&v=4" width="24" alt="Avatar of NaveedAhmadHematmal"> NaveedAhmadHematmal
+			<a href="https://github.com/SaboorSohaib">
+				<img src="https://avatars.githubusercontent.com/u/105917618?s=72&u=6f36773fefe270f163caf583ae6c91891c80dbe7&v=4" width="24" alt="Avatar of SaboorSohaib"> SaboorSohaib
 			</a><br/>
-			Naveed Ahmad Hematmal
+			Abdul Saboor Sohaib
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/NaveedHematmal">NaveedHematmal</a></td>
+		<td>Full Stack Web Developer<br/></td>
+		<td><a href="https://twitter.com/Absaboorsohaib">Absaboorsohaib</a></td>
 		<td>Afghanistan</td>
-		<td>590</td>
+		<td>2306</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>
-			<a href="https://github.com/ShahedAhmadAhadi">
-				<img src="https://avatars.githubusercontent.com/u/71192374?s=72&v=4" width="24" alt="Avatar of ShahedAhmadAhadi"> ShahedAhmadAhadi
+			<a href="https://github.com/Aliherawi7">
+				<img src="https://avatars.githubusercontent.com/u/74361010?s=72&u=3a14a51c511680eec82c2f6d466d459da29385d0&v=4" width="24" alt="Avatar of Aliherawi7"> Aliherawi7
 			</a><br/>
-			Shahed Ahmad
+			Ali Herawi
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>577</td>
+		<td><a href="https://twitter.com/Aliherawi7">Aliherawi7</a></td>
+		<td>Herat Afghanistan</td>
+		<td>2251</td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>
-			<a href="https://github.com/Mohammadjan1122">
-				<img src="https://avatars.githubusercontent.com/u/63337310?s=72&u=0455d7c815e3c1eb811e2ce4b22c7779994e970d&v=4" width="24" alt="Avatar of Mohammadjan1122"> Mohammadjan1122
+			<a href="https://github.com/ZuhRa-HashiMi">
+				<img src="https://avatars.githubusercontent.com/u/74463413?s=72&u=d98d4a74701cfe5605d2af69359fc2d02173e96b&v=4" width="24" alt="Avatar of ZuhRa-HashiMi"> ZuhRa-HashiMi
 			</a><br/>
-			No Name
+			ZuhRa HashiMi
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mazar sharif afghanistan</td>
-		<td>443</td>
+		<td><a href="https://twitter.com/ZuhraHashimi4">ZuhraHashimi4</a></td>
+		<td>Kabul, Afghanistan </td>
+		<td>2054</td>
 	</tr>
 	<tr>
 		<td>7</td>
 		<td>
-			<a href="https://github.com/SebghatYusuf">
-				<img src="https://avatars.githubusercontent.com/u/48417629?s=72&u=9d431cd822e6abf2190b916d3ea01adaf1a88357&v=4" width="24" alt="Avatar of SebghatYusuf"> SebghatYusuf
+			<a href="https://github.com/ab-noori">
+				<img src="https://avatars.githubusercontent.com/u/111179533?s=72&u=7e8af00bbb95048a46b94ea81344aab99bd2fbac&v=4" width="24" alt="Avatar of ab-noori"> ab-noori
 			</a><br/>
-			Sebghatullah Yusuf
+			Abdul Ali Noori
 		</td>
-		<td>Empire Pixel  </td>
-		<td><a href="https://twitter.com/SebghatYusuf">SebghatYusuf</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>405</td>
+		<td>@microverseinc </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>1493</td>
 	</tr>
 	<tr>
 		<td>8</td>
 		<td>
-			<a href="https://github.com/afgprogrammer">
-				<img src="https://avatars.githubusercontent.com/u/17293422?s=72&u=1ada7e918d4940c49ed02f6e92b6c9f7bb59cc57&v=4" width="24" alt="Avatar of afgprogrammer"> afgprogrammer
+			<a href="https://github.com/FaranoshAmini">
+				<img src="https://avatars.githubusercontent.com/u/101713819?s=72&u=b8cbd6a87bfa586a6bdca23fb43829adf8beabe3&v=4" width="24" alt="Avatar of FaranoshAmini"> FaranoshAmini
 			</a><br/>
-			Mohammad Rahmani
+			Faranosh Amini
 		</td>
-		<td>@openafg </td>
-		<td><a href="https://twitter.com/afgprogrammer">afgprogrammer</a></td>
-		<td> Kabul, Afghanistan</td>
-		<td>400</td>
+		<td>@microverse </td>
+		<td><a href="https://twitter.com/Faranosh_Amini">Faranosh_Amini</a></td>
+		<td>Afghanistan</td>
+		<td>1475</td>
 	</tr>
 	<tr>
 		<td>9</td>
 		<td>
-			<a href="https://github.com/suhailkakar">
-				<img src="https://avatars.githubusercontent.com/u/56798748?s=72&u=293bb422c65ff5dda75e722192831186ac4f4f52&v=4" width="24" alt="Avatar of suhailkakar"> suhailkakar
+			<a href="https://github.com/Mortaza10">
+				<img src="https://avatars.githubusercontent.com/u/100564516?s=72&u=620eb0657c93456ec58d37c90563b8a95361247c&v=4" width="24" alt="Avatar of Mortaza10"> Mortaza10
 			</a><br/>
-			Suhail Kakar
+			Mortaza
 		</td>
-		<td>Nordstone  </td>
-		<td><a href="https://twitter.com/suhailkakar">suhailkakar</a></td>
-		<td>Kabul , AF</td>
-		<td>338</td>
+		<td>Https://smartfriqi.c </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>1457</td>
 	</tr>
 	<tr>
 		<td>10</td>
 		<td>
-			<a href="https://github.com/Rina-Tokhi">
-				<img src="https://avatars.githubusercontent.com/u/73399769?s=72&u=4c847304632d136d37a143b3b0a9329c574c7507&v=4" width="24" alt="Avatar of Rina-Tokhi"> Rina-Tokhi
+			<a href="https://github.com/zakiyousufi">
+				<img src="https://avatars.githubusercontent.com/u/87229464?s=72&u=f443d2d4e2bb1ffec50b662588d542226f0be423&v=4" width="24" alt="Avatar of zakiyousufi"> zakiyousufi
 			</a><br/>
-			Rina Tokhi 
+			Ahmad Zaki Yousufi
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/RinaTokhi">RinaTokhi</a></td>
+		<td>Software Developer </td>
+		<td><a href="https://twitter.com/zakiyousufi">zakiyousufi</a></td>
 		<td>Kabul Afghanistan</td>
-		<td>259</td>
+		<td>1450</td>
 	</tr>
 	<tr>
 		<td>11</td>
 		<td>
-			<a href="https://github.com/ravener">
-				<img src="https://avatars.githubusercontent.com/u/31079629?s=72&u=1f4da8786c6176861d735bb738cc12c4aa384733&v=4" width="24" alt="Avatar of ravener"> ravener
+			<a href="https://github.com/AliSinaYOusofi">
+				<img src="https://avatars.githubusercontent.com/u/92437693?s=72&u=5893ec3d77d85fddca6f5ba825da95b248752a50&v=4" width="24" alt="Avatar of AliSinaYOusofi"> AliSinaYOusofi
 			</a><br/>
-			Raven Ravener
+			Ali Sina Yousofi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/RavenRavener">RavenRavener</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>253</td>
+		<td><a href="https://twitter.com/RippedDeveloper">RippedDeveloper</a></td>
+		<td>Afghanistan</td>
+		<td>1393</td>
 	</tr>
 	<tr>
 		<td>12</td>
-		<td>
-			<a href="https://github.com/ahzia">
-				<img src="https://avatars.githubusercontent.com/u/32243043?s=72&u=a86a0bb1289163ea865d017201969ddf2d1d5a37&v=4" width="24" alt="Avatar of ahzia"> ahzia
-			</a><br/>
-			Ahmad Zia yosufi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ziayousofi">ziayousofi</a></td>
-		<td>Kabul,Afghanistan</td>
-		<td>236</td>
-	</tr>
-	<tr>
-		<td>13</td>
-		<td>
-			<a href="https://github.com/drfaustusfade">
-				<img src="https://avatars.githubusercontent.com/u/29349472?s=72&u=5a8a2cda95f36b47b232286cbd5ab7f9e5a172c5&v=4" width="24" alt="Avatar of drfaustusfade"> drfaustusfade
-			</a><br/>
-			No Name
-		</td>
-		<td>Immap </td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>229</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
-			<a href="https://github.com/Hadi374">
-				<img src="https://avatars.githubusercontent.com/u/42554876?s=72&v=4" width="24" alt="Avatar of Hadi374"> Hadi374
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/hadi_374">hadi_374</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>195</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/AbdulQaharRahmani">
-				<img src="https://avatars.githubusercontent.com/u/72060828?s=72&u=ef106aad38be60ed97410d4d281b4e700fbab12e&v=4" width="24" alt="Avatar of AbdulQaharRahmani"> AbdulQaharRahmani
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul , Afghanistan</td>
-		<td>187</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
-			<a href="https://github.com/ys-sherzad">
-				<img src="https://avatars.githubusercontent.com/u/55835805?s=72&u=4628b89bd5919d8fba71bfb7836c87622038add6&v=4" width="24" alt="Avatar of ys-sherzad"> ys-sherzad
-			</a><br/>
-			Yasir Sherzad
-		</td>
-		<td>Netlinks </td>
-		<td><a href="https://twitter.com/YasirSherzad">YasirSherzad</a></td>
-		<td>Afghanistan</td>
-		<td>184</td>
-	</tr>
-	<tr>
-		<td>17</td>
-		<td>
-			<a href="https://github.com/TheEhsanSarshar">
-				<img src="https://avatars.githubusercontent.com/u/46188784?s=72&u=1b4674ab15651e2584b2df1e81433daf5acf6dc7&v=4" width="24" alt="Avatar of TheEhsanSarshar"> TheEhsanSarshar
-			</a><br/>
-			Ehsan sarshar
-		</td>
-		<td>Anar </td>
-		<td><a href="https://twitter.com/TheEhsanSarshar">TheEhsanSarshar</a></td>
-		<td>Herat, Afghanistan</td>
-		<td>179</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
-			<a href="https://github.com/hekmatnajafi">
-				<img src="https://avatars.githubusercontent.com/u/34719952?s=72&u=39a3b097e49c933d9eed3cef81ab18c2b7dcafbc&v=4" width="24" alt="Avatar of hekmatnajafi"> hekmatnajafi
-			</a><br/>
-			Hekmat Najafi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>175</td>
-	</tr>
-	<tr>
-		<td>19</td>
-		<td>
-			<a href="https://github.com/tajwal">
-				<img src="https://avatars.githubusercontent.com/u/5396746?s=72&u=ecdcb0af85b9bfca8dab3c4eddafce9d5ccc9296&v=4" width="24" alt="Avatar of tajwal"> tajwal
-			</a><br/>
-			Ghiasuddin tajwal
-		</td>
-		<td>Afghanistan Revenue Department (ard)<br/></td>
-		<td><a href="https://twitter.com/ghiasuddin">ghiasuddin</a></td>
-		<td>Kabul</td>
-		<td>160</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
-			<a href="https://github.com/Dawlatzai">
-				<img src="https://avatars.githubusercontent.com/u/8676919?s=72&u=fda74f9a6aeaf7506f2b35b38740e64fbbb39695&v=4" width="24" alt="Avatar of Dawlatzai"> Dawlatzai
-			</a><br/>
-			Dawlatzai
-		</td>
-		<td>Iarcsc(independent Administrative Resources And<br/>Civil<br/>Services<br/>)<br/></td>
-		<td><a href="https://twitter.com/DGhousi">DGhousi</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
-			<a href="https://github.com/brimmann">
-				<img src="https://avatars.githubusercontent.com/u/58560473?s=72&u=2b9114f0f3fc39cce16bf23ab785550589217423&v=4" width="24" alt="Avatar of brimmann"> brimmann
-			</a><br/>
-			Mohammad Rashid
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
-			<a href="https://github.com/prince1456">
-				<img src="https://avatars.githubusercontent.com/u/20523380?s=72&u=b63230881eea9e10c21a16c3c8f2f4eb46f22c7d&v=4" width="24" alt="Avatar of prince1456"> prince1456
-			</a><br/>
-			Ali
-		</td>
-		<td>Builddirect </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>147</td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>
-			<a href="https://github.com/Hashem-Poya">
-				<img src="https://avatars.githubusercontent.com/u/63535105?s=72&u=53882c712d936c8fabec23319b0937ee550051cb&v=4" width="24" alt="Avatar of Hashem-Poya"> Hashem-Poya
-			</a><br/>
-			Hashem Po Ya
-		</td>
-		<td>Netlinks Ltd </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>141</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
-			<a href="https://github.com/ODAGAMMXIX">
-				<img src="https://avatars.githubusercontent.com/u/54047352?s=72&u=030290f1eb6c108f0d6b35ecd6f1b716d3b651f0&v=4" width="24" alt="Avatar of ODAGAMMXIX"> ODAGAMMXIX
-			</a><br/>
-			Odaga
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>122</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
-			<a href="https://github.com/Looyfarahi001">
-				<img src="https://avatars.githubusercontent.com/u/77043887?s=72&u=ac62b63aeb86d67d6757ef0738f8e0ee35e5c564&v=4" width="24" alt="Avatar of Looyfarahi001"> Looyfarahi001
-			</a><br/>
-			Looy farahi
-		</td>
-		<td>Hacking </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>26</td>
-		<td>
-			<a href="https://github.com/ElhamAryanpur">
-				<img src="https://avatars.githubusercontent.com/u/35463470?s=72&u=69d6fae8d15bbaddfc0a3f8a634f4bacbb890334&v=4" width="24" alt="Avatar of ElhamAryanpur"> ElhamAryanpur
-			</a><br/>
-			Blue Elham
-		</td>
-		<td>Blue Mazar </td>
-		<td><a href="https://twitter.com/aryanpur_elham">aryanpur_elham</a></td>
-		<td>Afghanistan</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>27</td>
 		<td>
 			<a href="https://github.com/faizahmaddae">
 				<img src="https://avatars.githubusercontent.com/u/8683191?s=72&v=4" width="24" alt="Avatar of faizahmaddae"> faizahmaddae
@@ -453,621 +258,1518 @@ There are `960 users`  in Afghanistan. You need at least `0 followers` to be on 
 		<td>Techsharks.af </td>
 		<td><a href="https://twitter.com/faizdae">faizdae</a></td>
 		<td>kabul</td>
-		<td>108</td>
+		<td>1374</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
+			<a href="https://github.com/MaroufEbrahimi">
+				<img src="https://avatars.githubusercontent.com/u/104528241?s=72&u=36444adbfd43341b64e6ef1846e190558518a9bf&v=4" width="24" alt="Avatar of MaroufEbrahimi"> MaroufEbrahimi
+			</a><br/>
+			Marouf Ebrahimi
+		</td>
+		<td>$_$ </td>
+		<td><a href="https://twitter.com/01Marouf">01Marouf</a></td>
+		<td>Herat Afghanistan</td>
+		<td>1362</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
+			<a href="https://github.com/Iqbal-Elham">
+				<img src="https://avatars.githubusercontent.com/u/49829914?s=72&u=ade0c73dd5de71140a8fcc259e9fd175a668fc29&v=4" width="24" alt="Avatar of Iqbal-Elham"> Iqbal-Elham
+			</a><br/>
+			Iqbal Elham
+		</td>
+		<td>Full Stack Software Developer<br/></td>
+		<td><a href="https://twitter.com/IqbalElham7">IqbalElham7</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>1323</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/iAmWaris97">
+				<img src="https://avatars.githubusercontent.com/u/43011742?s=72&u=bd4122df1f00b7a0cafd1461b3647b1af13c0e9f&v=4" width="24" alt="Avatar of iAmWaris97"> iAmWaris97
+			</a><br/>
+			Waris Haleem
+		</td>
+		<td>The One Technologies |<br/>Microverse<br/></td>
+		<td><a href="https://twitter.com/iAmWaris97">iAmWaris97</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>1314</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
+			<a href="https://github.com/Ali-0111">
+				<img src="https://avatars.githubusercontent.com/u/73581663?s=72&u=a92781fd2cfb066e026835adabcca2b47d19deaf&v=4" width="24" alt="Avatar of Ali-0111"> Ali-0111
+			</a><br/>
+			Ali - Safari
+		</td>
+		<td>Front-end Developer </td>
+		<td>No Twitter Username</td>
+		<td>Kabul | Afghanistan</td>
+		<td>1260</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>
+			<a href="https://github.com/Elhambasir">
+				<img src="https://avatars.githubusercontent.com/u/108110651?s=72&u=47e6a9e35e3f7a3fb430b973929e4a2dc7dd0be1&v=4" width="24" alt="Avatar of Elhambasir"> Elhambasir
+			</a><br/>
+			Basir Elham
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan</td>
+		<td>1258</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
+			<a href="https://github.com/ahzamir">
+				<img src="https://avatars.githubusercontent.com/u/96838030?s=72&u=16e1488cd6003e902d9c76eb64c1466d1d2c46e9&v=4" width="24" alt="Avatar of ahzamir"> ahzamir
+			</a><br/>
+			Ahmad Zamir Yousufi
+		</td>
+		<td>Full-stack Developer. </td>
+		<td><a href="https://twitter.com/YousufiZamir">YousufiZamir</a></td>
+		<td>Kabul/Afghanistan</td>
+		<td>1245</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>
+			<a href="https://github.com/batoorsohail">
+				<img src="https://avatars.githubusercontent.com/u/100614799?s=72&u=5061093e30116b074a36243236a1ac2bf8527dd3&v=4" width="24" alt="Avatar of batoorsohail"> batoorsohail
+			</a><br/>
+			Ahmad Sohail
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sohailBatoor">sohailBatoor</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>1232</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/Alirezayoom">
+				<img src="https://avatars.githubusercontent.com/u/36882054?s=72&v=4" width="24" alt="Avatar of Alirezayoom"> Alirezayoom
+			</a><br/>
+			Alireza Karimi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/alirezayoom">alirezayoom</a></td>
+		<td>Herat, Afghanistan</td>
+		<td>1226</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
+			<a href="https://github.com/Masouma864">
+				<img src="https://avatars.githubusercontent.com/u/74160063?s=72&u=4e19bc13ce74bb5a8abb0663e4bf7ebdc46a2bc0&v=4" width="24" alt="Avatar of Masouma864"> Masouma864
+			</a><br/>
+			Masouma
+		</td>
+		<td>@microverseinc </td>
+		<td><a href="https://twitter.com/Hasina389">Hasina389</a></td>
+		<td>Kabul- Afghanistan</td>
+		<td>1157</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
+			<a href="https://github.com/mahdializada">
+				<img src="https://avatars.githubusercontent.com/u/68942156?s=72&u=4138f690408de5fce798e3277ad36f3784a2fa87&v=4" width="24" alt="Avatar of mahdializada"> mahdializada
+			</a><br/>
+			Mohammad Mahdi Alizada
+		</td>
+		<td>Smart Friqi </td>
+		<td><a href="https://twitter.com/mahdializada313">mahdializada313</a></td>
+		<td>Kabul,Afghanistan</td>
+		<td>1151</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
+			<a href="https://github.com/aimalamiri">
+				<img src="https://avatars.githubusercontent.com/u/34779928?s=72&u=2a5d283798916ec0c5fdcec26383df6a05787553&v=4" width="24" alt="Avatar of aimalamiri"> aimalamiri
+			</a><br/>
+			Aimal Amiri
+		</td>
+		<td>@microverseinc  </td>
+		<td><a href="https://twitter.com/meaimal">meaimal</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>1128</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/shahira-sadat">
+				<img src="https://avatars.githubusercontent.com/u/53530780?s=72&u=229b83902afe461a824454b36cf338488282e901&v=4" width="24" alt="Avatar of shahira-sadat"> shahira-sadat
+			</a><br/>
+			Shahira Sadat
+		</td>
+		<td>Dastyaar </td>
+		<td><a href="https://twitter.com/sadatshahira">sadatshahira</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>1035</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/HabibPayenda">
+				<img src="https://avatars.githubusercontent.com/u/66283922?s=72&u=db4caf6cbf4a3afd04404d0e2dd2fbd6db1914fd&v=4" width="24" alt="Avatar of HabibPayenda"> HabibPayenda
+			</a><br/>
+			Habib Payenda
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>993</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
+			<a href="https://github.com/AliReza1083">
+				<img src="https://avatars.githubusercontent.com/u/99729607?s=72&u=8423f12f095b7462da24dfb19718e9bd0e559d2d&v=4" width="24" alt="Avatar of AliReza1083"> AliReza1083
+			</a><br/>
+			Ali Reza
+		</td>
+		<td>@eddiehubcommunity </td>
+		<td><a href="https://twitter.com/Ali_Developer05">Ali_Developer05</a></td>
+		<td>Afghanistan -> Indonesia</td>
+		<td>991</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td>
+			<a href="https://github.com/Belal-Noory">
+				<img src="https://avatars.githubusercontent.com/u/58200815?s=72&u=b005536a3327d03c0649a4ac4de99500bcb6070e&v=4" width="24" alt="Avatar of Belal-Noory"> Belal-Noory
+			</a><br/>
+			Belal Noory
+		</td>
+		<td>@acted </td>
+		<td>No Twitter Username</td>
+		<td>Balkh, Afghanistan </td>
+		<td>971</td>
 	</tr>
 	<tr>
 		<td>28</td>
 		<td>
-			<a href="https://github.com/nakarimi">
-				<img src="https://avatars.githubusercontent.com/u/28529970?s=72&u=60298e2d9964b50e71f03cf5211a10b994f37eed&v=4" width="24" alt="Avatar of nakarimi"> nakarimi
+			<a href="https://github.com/BahirHakimy">
+				<img src="https://avatars.githubusercontent.com/u/73453971?s=72&u=d6d241e067bed3a2d01d7c7ec356c7fed951854c&v=4" width="24" alt="Avatar of BahirHakimy"> BahirHakimy
 			</a><br/>
-			Nasser Ali Karimi
+			Bahir Hakimi
 		</td>
-		<td>Almo.tech </td>
-		<td>No Twitter Username</td>
-		<td>Kabul , Afghanistan</td>
-		<td>108</td>
+		<td>@microverseinc  </td>
+		<td><a href="https://twitter.com/bahir_hakimi_">bahir_hakimi_</a></td>
+		<td>Kabul/Afghanistan</td>
+		<td>891</td>
 	</tr>
 	<tr>
 		<td>29</td>
 		<td>
-			<a href="https://github.com/siawashkasra">
-				<img src="https://avatars.githubusercontent.com/u/8684065?s=72&u=5451de1f02994efd59627fd3c8446d65ccf54656&v=4" width="24" alt="Avatar of siawashkasra"> siawashkasra
+			<a href="https://github.com/hafiz1379">
+				<img src="https://avatars.githubusercontent.com/u/117447018?s=72&u=94a28acbe958f1cd449f5adfa2d119e6f6d7e7c4&v=4" width="24" alt="Avatar of hafiz1379"> hafiz1379
 			</a><br/>
-			Siawash Kasra
+			Hafiz Rasa
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/siawashkasra">siawashkasra</a></td>
-		<td>Afghanistan</td>
-		<td>107</td>
+		<td>Frond End Developer </td>
+		<td><a href="https://twitter.com/hafizrasa1379">hafizrasa1379</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>888</td>
 	</tr>
 	<tr>
 		<td>30</td>
 		<td>
-			<a href="https://github.com/Aemal-shirzai">
-				<img src="https://avatars.githubusercontent.com/u/31972223?s=72&u=0e2f89dc5060d8153751a072af2e5a9c3c77ac83&v=4" width="24" alt="Avatar of Aemal-shirzai"> Aemal-shirzai
+			<a href="https://github.com/tamana-Balkhi">
+				<img src="https://avatars.githubusercontent.com/u/76628854?s=72&u=5df303c9ff7c1d1aa2583f1cf8932b132758a913&v=4" width="24" alt="Avatar of tamana-Balkhi"> tamana-Balkhi
 			</a><br/>
-			Aemal Shirzai
+			tamana Balkhi
 		</td>
-		<td>Netlinks </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>102</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/TAMANA1377">TAMANA1377</a></td>
+		<td>Aghanistan,Kabul</td>
+		<td>882</td>
 	</tr>
 	<tr>
 		<td>31</td>
 		<td>
-			<a href="https://github.com/Nelofarzabi">
-				<img src="https://avatars.githubusercontent.com/u/83637292?s=72&u=dc202cdbbb356ef3dbe852bace5451d6b1fadeb9&v=4" width="24" alt="Avatar of Nelofarzabi"> Nelofarzabi
+			<a href="https://github.com/shaqayq">
+				<img src="https://avatars.githubusercontent.com/u/43399946?s=72&u=04214fa219491697a5a87486ca7d4b541befb339&v=4" width="24" alt="Avatar of shaqayq"> shaqayq
 			</a><br/>
-			Nelofar Zabi
+			Shaqayq Darwazi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/NelofarZabi">NelofarZabi</a></td>
-		<td>Kabul  Afghanistan</td>
-		<td>102</td>
+		<td><a href="https://twitter.com/ShaqayqDarwazi">ShaqayqDarwazi</a></td>
+		<td>Kabul-Afghanistan</td>
+		<td>881</td>
 	</tr>
 	<tr>
 		<td>32</td>
 		<td>
-			<a href="https://github.com/YasirkhanStanekzai">
-				<img src="https://avatars.githubusercontent.com/u/57432794?s=72&u=14b0b2ad2103838bf283d2374553534dc68abf60&v=4" width="24" alt="Avatar of YasirkhanStanekzai"> YasirkhanStanekzai
+			<a href="https://github.com/ghreza-crypto">
+				<img src="https://avatars.githubusercontent.com/u/53405011?s=72&u=2cdb668e7a18229a4bed6dd0f300bc42cd614f45&v=4" width="24" alt="Avatar of ghreza-crypto"> ghreza-crypto
 			</a><br/>
-			Yasir Mudasir
+			Ghulam Reza Rajabi
 		</td>
-		<td>No Company</td>
+		<td>Full-stack Developer </td>
 		<td>No Twitter Username</td>
-		<td>kandahar</td>
-		<td>102</td>
+		<td>Afghanistan</td>
+		<td>842</td>
 	</tr>
 	<tr>
 		<td>33</td>
 		<td>
-			<a href="https://github.com/matiullah-karimi">
-				<img src="https://avatars.githubusercontent.com/u/17154701?s=72&u=67ffb49dfaa7e7cfc6ebc08f6dfe6eded3453f56&v=4" width="24" alt="Avatar of matiullah-karimi"> matiullah-karimi
+			<a href="https://github.com/HasibullahAman">
+				<img src="https://avatars.githubusercontent.com/u/62972346?s=72&u=adba7bd06e238005fdfb95acb0021828d2128a29&v=4" width="24" alt="Avatar of HasibullahAman"> HasibullahAman
 			</a><br/>
-			Matiullah Karimi
+			Hasibullah Aman
 		</td>
-		<td>Netlinksaf </td>
-		<td><a href="https://twitter.com/MatiKarimi">MatiKarimi</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>101</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/hasib_aman7">hasib_aman7</a></td>
+		<td>Kabul Afghanistan</td>
+		<td>815</td>
 	</tr>
 	<tr>
 		<td>34</td>
 		<td>
-			<a href="https://github.com/basirsharif">
-				<img src="https://avatars.githubusercontent.com/u/19546827?s=72&u=9c8f528a856c7a3273284ace77a563960181643f&v=4" width="24" alt="Avatar of basirsharif"> basirsharif
+			<a href="https://github.com/jafarFahimi">
+				<img src="https://avatars.githubusercontent.com/u/96675915?s=72&u=942608c0d24098768394d6740246bf2de719ccbe&v=4" width="24" alt="Avatar of jafarFahimi"> jafarFahimi
 			</a><br/>
-			Basir sharif
+			Jafar
 		</td>
-		<td>Sharifsoft </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Afghanistan </td>
-		<td>101</td>
+		<td>Afghanistan</td>
+		<td>807</td>
 	</tr>
 	<tr>
 		<td>35</td>
 		<td>
-			<a href="https://github.com/nikzadGitHub">
-				<img src="https://avatars.githubusercontent.com/u/27412311?s=72&u=f26761a416d77f5a4ce6de8cb71335a2b2beba81&v=4" width="24" alt="Avatar of nikzadGitHub"> nikzadGitHub
+			<a href="https://github.com/Fahim-Khan-P">
+				<img src="https://avatars.githubusercontent.com/u/74261465?s=72&u=ed107766f402a839d51f0abd0ce329b0b9bd7378&v=4" width="24" alt="Avatar of Fahim-Khan-P"> Fahim-Khan-P
 			</a><br/>
-			Naser Nikzad
+			Fahim Khan
 		</td>
-		<td>Pomtech </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Afghanistan-Herat</td>
-		<td>100</td>
+		<td>Kabul, Afghanistan</td>
+		<td>779</td>
 	</tr>
 	<tr>
 		<td>36</td>
 		<td>
-			<a href="https://github.com/hanifhefaz">
-				<img src="https://avatars.githubusercontent.com/u/41760085?s=72&u=61bcdb2c83654cd72a840d676b7b143093bfed81&v=4" width="24" alt="Avatar of hanifhefaz"> hanifhefaz
+			<a href="https://github.com/AhmadiGu">
+				<img src="https://avatars.githubusercontent.com/u/108144706?s=72&u=aaa7d7147acef3a00c374a234edf3802d7f56bb2&v=4" width="24" alt="Avatar of AhmadiGu"> AhmadiGu
 			</a><br/>
-			Hanif Hefaz
+			Gulalai Ahmadi
 		</td>
-		<td>No Company</td>
+		<td>Front-end Developer </td>
 		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>96</td>
+		<td>Pakistan, Islamabad  From Afghanistan</td>
+		<td>757</td>
 	</tr>
 	<tr>
 		<td>37</td>
 		<td>
-			<a href="https://github.com/Amanullahgit">
-				<img src="https://avatars.githubusercontent.com/u/41961773?s=72&u=82ddc2cd5dc4fa2cb264e4c7422571ec5ccfdeba&v=4" width="24" alt="Avatar of Amanullahgit"> Amanullahgit
+			<a href="https://github.com/mustafapoya">
+				<img src="https://avatars.githubusercontent.com/u/14885009?s=72&v=4" width="24" alt="Avatar of mustafapoya"> mustafapoya
 			</a><br/>
-			Amanullah
+			Mustafa Poya
 		</td>
-		<td>@gitprogramming  </td>
-		<td><a href="https://twitter.com/lazytechno">lazytechno</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>93</td>
+		<td>Golbarg </td>
+		<td><a href="https://twitter.com/mustafapoyaabc">mustafapoyaabc</a></td>
+		<td>Kabul</td>
+		<td>756</td>
 	</tr>
 	<tr>
 		<td>38</td>
 		<td>
-			<a href="https://github.com/ahmadjoya">
-				<img src="https://avatars.githubusercontent.com/u/35627961?s=72&u=e8e103c12fddf7e0f0fc21d47be081e0257e06fa&v=4" width="24" alt="Avatar of ahmadjoya"> ahmadjoya
+			<a href="https://github.com/SaeqaSultani">
+				<img src="https://avatars.githubusercontent.com/u/74806645?s=72&u=fdf7ef1939f853cca3da1e41731c663e5ea41e22&v=4" width="24" alt="Avatar of SaeqaSultani"> SaeqaSultani
 			</a><br/>
-			Ahmad Joya
+			Saeqa Sultani
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Microverse  </td>
+		<td><a href="https://twitter.com/SaeqaSultani">SaeqaSultani</a></td>
 		<td>Afghanistan</td>
-		<td>92</td>
+		<td>708</td>
 	</tr>
 	<tr>
 		<td>39</td>
 		<td>
-			<a href="https://github.com/habibullah-rezaie">
-				<img src="https://avatars.githubusercontent.com/u/71997884?s=72&v=4" width="24" alt="Avatar of habibullah-rezaie"> habibullah-rezaie
+			<a href="https://github.com/matee-safi">
+				<img src="https://avatars.githubusercontent.com/u/112982412?s=72&u=774875c48538501d0a67fe7408e4cd2b6ad09be7&v=4" width="24" alt="Avatar of matee-safi"> matee-safi
 			</a><br/>
-			Habibullah Rezaie
+			Matee Safi
 		</td>
-		<td>No Company</td>
+		<td>Full-stack Developer </td>
 		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan</td>
-		<td>92</td>
+		<td>691</td>
 	</tr>
 	<tr>
 		<td>40</td>
 		<td>
-			<a href="https://github.com/CNDNRSJS">
-				<img src="https://avatars.githubusercontent.com/u/72962713?s=72&v=4" width="24" alt="Avatar of CNDNRSJS"> CNDNRSJS
+			<a href="https://github.com/AryanHack907">
+				<img src="https://avatars.githubusercontent.com/u/96083971?s=72&u=4d3dd5b14a014a09cc22e82c2886b2ecdaf4f1df&v=4" width="24" alt="Avatar of AryanHack907"> AryanHack907
 			</a><br/>
-			No Name
+			Farhad Joya
 		</td>
-		<td>1stmeuaux </td>
+		<td>Https://github.com/f </td>
 		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>91</td>
+		<td>Afghanistan </td>
+		<td>672</td>
 	</tr>
 	<tr>
 		<td>41</td>
 		<td>
-			<a href="https://github.com/VerityIncorporated">
-				<img src="https://avatars.githubusercontent.com/u/83372423?s=72&u=f6a79b55247ed7154eecfbca0a4920e56cbaa582&v=4" width="24" alt="Avatar of VerityIncorporated"> VerityIncorporated
+			<a href="https://github.com/samiullahbahadur">
+				<img src="https://avatars.githubusercontent.com/u/92199590?s=72&u=a55c7c10ebe1f643bc2318c6a9423c16b8de74ed&v=4" width="24" alt="Avatar of samiullahbahadur"> samiullahbahadur
 			</a><br/>
-			Verity
+			Samiullah Bhadur
 		</td>
-		<td>Verity Projects </td>
-		<td>No Twitter Username</td>
-		<td>London, Afghanistan</td>
-		<td>88</td>
+		<td>Microverse </td>
+		<td><a href="https://twitter.com/Samiull88496331">Samiull88496331</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>638</td>
 	</tr>
 	<tr>
 		<td>42</td>
 		<td>
-			<a href="https://github.com/reyuhero">
-				<img src="https://avatars.githubusercontent.com/u/29449539?s=72&u=2824ba97dce75fe05fa5da0f4202cc1c3c770d5d&v=4" width="24" alt="Avatar of reyuhero"> reyuhero
+			<a href="https://github.com/M-Anwar-Hussaini">
+				<img src="https://avatars.githubusercontent.com/u/131291114?s=72&u=1d38afbd957110b652bc8aa6ad8b9672679e1f49&v=4" width="24" alt="Avatar of M-Anwar-Hussaini"> M-Anwar-Hussaini
 			</a><br/>
-			Reyu Hero
+			Anwar Hussaini
 		</td>
-		<td>Hostgigz </td>
-		<td>No Twitter Username</td>
+		<td>Front-end Developer </td>
+		<td><a href="https://twitter.com/MAnwarHussaini">MAnwarHussaini</a></td>
 		<td>Kabul, Afghanistan</td>
-		<td>87</td>
+		<td>634</td>
 	</tr>
 	<tr>
 		<td>43</td>
 		<td>
-			<a href="https://github.com/ZakaryaNoori">
-				<img src="https://avatars.githubusercontent.com/u/66834670?s=72&v=4" width="24" alt="Avatar of ZakaryaNoori"> ZakaryaNoori
+			<a href="https://github.com/kamranahmad123">
+				<img src="https://avatars.githubusercontent.com/u/109231264?s=72&u=eef114edf8c0484a467e71fa3a386300c9a8ab31&v=4" width="24" alt="Avatar of kamranahmad123"> kamranahmad123
 			</a><br/>
-			Zakarya Noori
+			Kamran Ahmad
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/noori_zakarya">noori_zakarya</a></td>
+		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan</td>
-		<td>86</td>
+		<td>627</td>
 	</tr>
 	<tr>
 		<td>44</td>
 		<td>
-			<a href="https://github.com/Fazlullahmamond">
-				<img src="https://avatars.githubusercontent.com/u/50315393?s=72&u=42d8ae02298576ec573da27e037ee5ce3d85bd5b&v=4" width="24" alt="Avatar of Fazlullahmamond"> Fazlullahmamond
+			<a href="https://github.com/mohammad2003mrz">
+				<img src="https://avatars.githubusercontent.com/u/122275704?s=72&u=2fa12fc3838a61715a3d67dac0360bcf8219dfa2&v=4" width="24" alt="Avatar of mohammad2003mrz"> mohammad2003mrz
 			</a><br/>
-			Fazlullah Mamond
+			Mohammad Reza
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>84</td>
+		<td><a href="https://twitter.com/EbrahimiGhorban">EbrahimiGhorban</a></td>
+		<td>Afghanistan , Herat</td>
+		<td>622</td>
 	</tr>
 	<tr>
 		<td>45</td>
 		<td>
-			<a href="https://github.com/Abdulahadahmadi">
-				<img src="https://avatars.githubusercontent.com/u/62951574?s=72&u=912badd139053c40648b17fd34799536fa0f9708&v=4" width="24" alt="Avatar of Abdulahadahmadi"> Abdulahadahmadi
+			<a href="https://github.com/SanaTameem">
+				<img src="https://avatars.githubusercontent.com/u/71990110?s=72&u=0dc856acbbbdff4de0c554faf07f645b19a0f42d&v=4" width="24" alt="Avatar of SanaTameem"> SanaTameem
 			</a><br/>
-			Abdulahad Ahmadi
+			Sana Tameem
 		</td>
-		<td>Freelancer </td>
-		<td><a href="https://twitter.com/Abdulah46837101">Abdulah46837101</a></td>
-		<td>Kabul Afghanistan </td>
-		<td>80</td>
+		<td>Microverse </td>
+		<td><a href="https://twitter.com/sana_tameem">sana_tameem</a></td>
+		<td>Kabul-Afghanistan</td>
+		<td>615</td>
 	</tr>
 	<tr>
 		<td>46</td>
 		<td>
-			<a href="https://github.com/NazirBahadori">
-				<img src="https://avatars.githubusercontent.com/u/47793690?s=72&u=e7edec6abd0326b08d113c705f21b79d6c643a36&v=4" width="24" alt="Avatar of NazirBahadori"> NazirBahadori
+			<a href="https://github.com/akbarsazish">
+				<img src="https://avatars.githubusercontent.com/u/97288972?s=72&u=3ead67322bb6a936d46eec00a02def7fee42ff0c&v=4" width="24" alt="Avatar of akbarsazish"> akbarsazish
 			</a><br/>
-			Nazir Bahadori
+			Ali Akbar Sazish
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>79</td>
+		<td>Front-end Developer </td>
+		<td><a href="https://twitter.com/AliAkbarSazish1">AliAkbarSazish1</a></td>
+		<td>Afghanistan</td>
+		<td>602</td>
 	</tr>
 	<tr>
 		<td>47</td>
 		<td>
-			<a href="https://github.com/iamaliataie">
-				<img src="https://avatars.githubusercontent.com/u/67245165?s=72&u=43b2bb1838862ca84db0521e547409c3c6a0dde4&v=4" width="24" alt="Avatar of iamaliataie"> iamaliataie
+			<a href="https://github.com/ashraf-frotan">
+				<img src="https://avatars.githubusercontent.com/u/79718476?s=72&u=cd8a365e391996a2372a9a524d644d6590e1dc01&v=4" width="24" alt="Avatar of ashraf-frotan"> ashraf-frotan
 			</a><br/>
-			Ali Ahmad Ataie Hazara
+			Ashraf Frotan
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Smart Friqi </td>
+		<td><a href="https://twitter.com/FrotanAshraf">FrotanAshraf</a></td>
 		<td>Kabul, Afghanistan</td>
-		<td>78</td>
+		<td>592</td>
 	</tr>
 	<tr>
 		<td>48</td>
 		<td>
-			<a href="https://github.com/mustafa4321">
-				<img src="https://avatars.githubusercontent.com/u/49608945?s=72&u=ec3897d97014fa68edec4ad76952797f7cd9aa3c&v=4" width="24" alt="Avatar of mustafa4321"> mustafa4321
+			<a href="https://github.com/tawakuliKH">
+				<img src="https://avatars.githubusercontent.com/u/57441621?s=72&u=437ab304e2cf159011a890929575a552727397a5&v=4" width="24" alt="Avatar of tawakuliKH"> tawakuliKH
 			</a><br/>
-			MUSTAFA FAQIRY
+			Khadim Tawakuli
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>kabul</td>
-		<td>77</td>
+		<td>Afghanistan</td>
+		<td>588</td>
 	</tr>
 	<tr>
 		<td>49</td>
 		<td>
-			<a href="https://github.com/rahimiarifhussain">
-				<img src="https://avatars.githubusercontent.com/u/57014445?s=72&u=d2506e6087e3b086aad228dcc1cd16cfbd195f85&v=4" width="24" alt="Avatar of rahimiarifhussain"> rahimiarifhussain
+			<a href="https://github.com/aliatayee">
+				<img src="https://avatars.githubusercontent.com/u/74867463?s=72&u=253ee5ae957879dacd4cc2293fa15100244094e3&v=4" width="24" alt="Avatar of aliatayee"> aliatayee
 			</a><br/>
-			Arif  Hussain Rahimi
+			Ali Aqa Atayee
 		</td>
-		<td>Abarbit </td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>72</td>
+		<td>Alihost </td>
+		<td><a href="https://twitter.com/AqaAtayee">AqaAtayee</a></td>
+		<td>Kabul Afghanistan</td>
+		<td>575</td>
 	</tr>
 	<tr>
 		<td>50</td>
 		<td>
-			<a href="https://github.com/realHamid">
-				<img src="https://avatars.githubusercontent.com/u/68530436?s=72&u=03d4c74696131c33f174ff316ede37afd0b4ddb7&v=4" width="24" alt="Avatar of realHamid"> realHamid
+			<a href="https://github.com/Hadi111jafari">
+				<img src="https://avatars.githubusercontent.com/u/93380132?s=72&u=0c4630de6643128d358ebc9e5b2d2bbf993e5be7&v=4" width="24" alt="Avatar of Hadi111jafari"> Hadi111jafari
 			</a><br/>
-			Hamid Rahimi
+			Abdul Hadi Jafari
 		</td>
-		<td>Herat Host Ict Co.<br/></td>
-		<td>No Twitter Username</td>
-		<td>Herat</td>
-		<td>72</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/HadiJaf62814146">HadiJaf62814146</a></td>
+		<td>Afghanistan</td>
+		<td>564</td>
 	</tr>
 	<tr>
 		<td>51</td>
 		<td>
-			<a href="https://github.com/mahdi-jafaree">
-				<img src="https://avatars.githubusercontent.com/u/49129293?s=72&u=b0e63bb0f6a27683f8d9cf0b5fa0489cfecc6ea0&v=4" width="24" alt="Avatar of mahdi-jafaree"> mahdi-jafaree
+			<a href="https://github.com/Zohra-Neda">
+				<img src="https://avatars.githubusercontent.com/u/58807251?s=72&u=255c04345a87100061ea5c372fa0e7b843a0f62a&v=4" width="24" alt="Avatar of Zohra-Neda"> Zohra-Neda
 			</a><br/>
-			No Name
+			Zohra Neda
 		</td>
-		<td>Parsa Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>71</td>
+		<td>Full Stack Software Engineer<br/></td>
+		<td><a href="https://twitter.com/zohra_neda">zohra_neda</a></td>
+		<td>Kabul - Afghanistan</td>
+		<td>559</td>
 	</tr>
 	<tr>
 		<td>52</td>
 		<td>
-			<a href="https://github.com/murtazasultani">
-				<img src="https://avatars.githubusercontent.com/u/31856440?s=72&u=8e57c5cdcae131d46cb8fb8f4620e549ca7bcb99&v=4" width="24" alt="Avatar of murtazasultani"> murtazasultani
+			<a href="https://github.com/Nizamuddin4493">
+				<img src="https://avatars.githubusercontent.com/u/78977308?s=72&u=1d08e25c4e282626783a09773a04f07f8a700c29&v=4" width="24" alt="Avatar of Nizamuddin4493"> Nizamuddin4493
 			</a><br/>
-			Murtaza Sultani
+			Nizamuddin Ahmadzai
 		</td>
-		<td>@rapiditeration @codeweekend </td>
-		<td><a href="https://twitter.com/amurtazasultani">amurtazasultani</a></td>
-		<td>Afghanistan</td>
-		<td>69</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Nizamuddin4493">Nizamuddin4493</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>557</td>
 	</tr>
 	<tr>
 		<td>53</td>
 		<td>
-			<a href="https://github.com/mustafahayat">
-				<img src="https://avatars.githubusercontent.com/u/64731119?s=72&u=3915591d475bd2232673d60414fdfa9f27e91a3f&v=4" width="24" alt="Avatar of mustafahayat"> mustafahayat
+			<a href="https://github.com/SulimanJoya">
+				<img src="https://avatars.githubusercontent.com/u/92423023?s=72&u=fe042bab656c856558963a67307f69557a47a1ad&v=4" width="24" alt="Avatar of SulimanJoya"> SulimanJoya
 			</a><br/>
-			M.Mustaf Hayat
+			Mohammad Suliman joya
 		</td>
-		<td>Hayat Software Company </td>
+		<td>@ Microverse </td>
 		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan</td>
-		<td>68</td>
+		<td>553</td>
 	</tr>
 	<tr>
 		<td>54</td>
 		<td>
-			<a href="https://github.com/uoiiou">
-				<img src="https://avatars.githubusercontent.com/u/62906324?s=72&u=2f0e4e4f4a7fe7e9a745fa0a691b48cdb0b2c27e&v=4" width="24" alt="Avatar of uoiiou"> uoiiou
+			<a href="https://github.com/wadaudzai">
+				<img src="https://avatars.githubusercontent.com/u/99719024?s=72&u=bdd8f4d49727bafb6583b15130675a81fd26e5e9&v=4" width="24" alt="Avatar of wadaudzai"> wadaudzai
 			</a><br/>
-			Vlad
+			Abdul Rahman Daudzai
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mazari Sharif, مزار شريف، Afghanistan</td>
-		<td>68</td>
+		<td>Front End Developer </td>
+		<td><a href="https://twitter.com/wadaudzai">wadaudzai</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>549</td>
 	</tr>
 	<tr>
 		<td>55</td>
 		<td>
-			<a href="https://github.com/MohammadMosaAghaJahanmal">
-				<img src="https://avatars.githubusercontent.com/u/32578948?s=72&v=4" width="24" alt="Avatar of MohammadMosaAghaJahanmal"> MohammadMosaAghaJahanmal
+			<a href="https://github.com/mahdimahdawi">
+				<img src="https://avatars.githubusercontent.com/u/59498020?s=72&u=fd7199d8b210059fda1f48bb8c9c1430a74707e2&v=4" width="24" alt="Avatar of mahdimahdawi"> mahdimahdawi
 			</a><br/>
-			Muhammad Mosa Agha Jahanmal
+			Mahdi Mahdawi
 		</td>
-		<td>Jahanmal </td>
-		<td>No Twitter Username</td>
-		<td>Kandahar, Afghanistan</td>
-		<td>64</td>
+		<td>Revand </td>
+		<td><a href="https://twitter.com/MahdiMahdawi">MahdiMahdawi</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>526</td>
 	</tr>
 	<tr>
 		<td>56</td>
 		<td>
-			<a href="https://github.com/bestel01">
-				<img src="https://avatars.githubusercontent.com/u/34553621?s=72&u=52dc1b51cfd8306c3c1b7207607d3f2eedf41ae3&v=4" width="24" alt="Avatar of bestel01"> bestel01
+			<a href="https://github.com/eaesmat">
+				<img src="https://avatars.githubusercontent.com/u/98796487?s=72&u=5c133c7893866a67daedd67762740b75f08ada5f&v=4" width="24" alt="Avatar of eaesmat"> eaesmat
 			</a><br/>
-			Briggs
+			Esmatullah Ahmadzai (Esmat)
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>64</td>
+		<td>Flashbits </td>
+		<td><a href="https://twitter.com/ea_ahmadzai">ea_ahmadzai</a></td>
+		<td>Kabul, Afghanistan </td>
+		<td>523</td>
 	</tr>
 	<tr>
 		<td>57</td>
 		<td>
-			<a href="https://github.com/bestel01">
-				<img src="https://avatars.githubusercontent.com/u/34553621?s=72&u=52dc1b51cfd8306c3c1b7207607d3f2eedf41ae3&v=4" width="24" alt="Avatar of bestel01"> bestel01
+			<a href="https://github.com/sediqullahbadakhsh">
+				<img src="https://avatars.githubusercontent.com/u/89765258?s=72&u=c73f5d5a926d0b02304fd6a07b73c9ac4aa9cae4&v=4" width="24" alt="Avatar of sediqullahbadakhsh"> sediqullahbadakhsh
 			</a><br/>
-			Briggs
+			Sediqullah Badakhsh
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>64</td>
+		<td>Full Stack Developer </td>
+		<td><a href="https://twitter.com/sediqullah6">sediqullah6</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>504</td>
 	</tr>
 	<tr>
 		<td>58</td>
 		<td>
-			<a href="https://github.com/habibmhamadi">
-				<img src="https://avatars.githubusercontent.com/u/34987353?s=72&u=2ac44073d4e79348c332e68700fc30323f4cad4c&v=4" width="24" alt="Avatar of habibmhamadi"> habibmhamadi
+			<a href="https://github.com/mahdinoori2000">
+				<img src="https://avatars.githubusercontent.com/u/126486418?s=72&u=3219f078f71ab100c25934239d15cf877b84c583&v=4" width="24" alt="Avatar of mahdinoori2000"> mahdinoori2000
 			</a><br/>
-			Habib Mhamadi
+			Mahdi Noori
 		</td>
-		<td>Netlinks Ltd. </td>
+		<td>Full Stack Web Developer<br/></td>
 		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>61</td>
+		<td>Afghanistan</td>
+		<td>480</td>
 	</tr>
 	<tr>
 		<td>59</td>
 		<td>
-			<a href="https://github.com/NoorAhmd">
-				<img src="https://avatars.githubusercontent.com/u/17162219?s=72&u=16874ddfaf1ee5170183477ebb24ef37e973aa9b&v=4" width="24" alt="Avatar of NoorAhmd"> NoorAhmd
+			<a href="https://github.com/Hamnava">
+				<img src="https://avatars.githubusercontent.com/u/71535744?s=72&u=49e16bb2023124a5b7231faf18a91e647e81edca&v=4" width="24" alt="Avatar of Hamnava"> Hamnava
 			</a><br/>
-			Noor Ahmad
+			Nematullah Hussaini
 		</td>
-		<td>Bogazici University, Ankegeo </td>
+		<td>Hamnava </td>
 		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>61</td>
+		<td>Kabul Afghanistan</td>
+		<td>473</td>
 	</tr>
 	<tr>
 		<td>60</td>
 		<td>
-			<a href="https://github.com/SodabehSherzad">
-				<img src="https://avatars.githubusercontent.com/u/42426114?s=72&u=dc2ec3d1cb0d8eb6d6505671cc59ce12a8753fda&v=4" width="24" alt="Avatar of SodabehSherzad"> SodabehSherzad
+			<a href="https://github.com/Gh-Reza">
+				<img src="https://avatars.githubusercontent.com/u/76435157?s=72&u=69b97533b094542a99a497222b15430ccaec8e58&v=4" width="24" alt="Avatar of Gh-Reza"> Gh-Reza
 			</a><br/>
-			Sodabeh Sherzad
+			Reza Merzaie
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/SodabehSherzad">SodabehSherzad</a></td>
-		<td>Herat-Afghanistan</td>
-		<td>61</td>
+		<td>Frontend Developer </td>
+		<td><a href="https://twitter.com/RezaMerzaie97">RezaMerzaie97</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>467</td>
 	</tr>
 	<tr>
 		<td>61</td>
 		<td>
-			<a href="https://github.com/Hedayat-Farahi786">
-				<img src="https://avatars.githubusercontent.com/u/67658092?s=72&u=9740931247ff9f68f3c2ff2e94515d5cb47b1f74&v=4" width="24" alt="Avatar of Hedayat-Farahi786"> Hedayat-Farahi786
+			<a href="https://github.com/Nelofarzabi">
+				<img src="https://avatars.githubusercontent.com/u/83637292?s=72&u=4535499ec4690a8c22e0691b768643cba3eaa958&v=4" width="24" alt="Avatar of Nelofarzabi"> Nelofarzabi
 			</a><br/>
-			Hedayat Farahi
+			Nelofar Zabi
 		</td>
-		<td>Software Developer </td>
-		<td>No Twitter Username</td>
-		<td>Kabul/Afghanistan</td>
-		<td>61</td>
+		<td>Microverse </td>
+		<td><a href="https://twitter.com/NelofarZabi">NelofarZabi</a></td>
+		<td>Kabul , Afghanistan</td>
+		<td>459</td>
 	</tr>
 	<tr>
 		<td>62</td>
 		<td>
-			<a href="https://github.com/ehsanbigzad">
-				<img src="https://avatars.githubusercontent.com/u/35545441?s=72&u=5708b98db706b0e1592412b116d5b6688b622ce4&v=4" width="24" alt="Avatar of ehsanbigzad"> ehsanbigzad
+			<a href="https://github.com/Hamayounali">
+				<img src="https://avatars.githubusercontent.com/u/22744775?s=72&u=e2dbbbc2aec70e499411e9ae85910901842a83b8&v=4" width="24" alt="Avatar of Hamayounali"> Hamayounali
 			</a><br/>
-			Ehsan Bigzad
+			Hamayoun Ali Babur
 		</td>
-		<td>Team Artisans </td>
-		<td><a href="https://twitter.com/ehsanbigzad">ehsanbigzad</a></td>
-		<td>Afghanistan</td>
-		<td>60</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/hamayounAli6">hamayounAli6</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>458</td>
 	</tr>
 	<tr>
 		<td>63</td>
 		<td>
-			<a href="https://github.com/ShafiqSadat">
-				<img src="https://avatars.githubusercontent.com/u/22668836?s=72&u=eafa3796339fdcdaa97702e427fc38b5bae776c1&v=4" width="24" alt="Avatar of ShafiqSadat"> ShafiqSadat
+			<a href="https://github.com/najibullahjafari">
+				<img src="https://avatars.githubusercontent.com/u/121656832?s=72&u=1083ca2c305a237b8dbe9ce688a3f6ef962c433c&v=4" width="24" alt="Avatar of najibullahjafari"> najibullahjafari
 			</a><br/>
-			Shafiq Sadat
+			Najibullah Jafari
 		</td>
-		<td>@afbots  </td>
-		<td><a href="https://twitter.com/ShafiqSadat20">ShafiqSadat20</a></td>
-		<td>Afghanistan</td>
-		<td>59</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Najib_Jafari_">Najib_Jafari_</a></td>
+		<td>kabul Afghanistan</td>
+		<td>439</td>
 	</tr>
 	<tr>
 		<td>64</td>
 		<td>
-			<a href="https://github.com/wasiqkhan">
-				<img src="https://avatars.githubusercontent.com/u/32957037?s=72&v=4" width="24" alt="Avatar of wasiqkhan"> wasiqkhan
+			<a href="https://github.com/kazim110">
+				<img src="https://avatars.githubusercontent.com/u/40393095?s=72&u=f01d5c31efe4c7329397e54bf3ec2eab4762cafd&v=4" width="24" alt="Avatar of kazim110"> kazim110
 			</a><br/>
-			Mohammad Wasiq Ahmadzai
+			Mohammad Kazim
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/wasiqahmadzai">wasiqahmadzai</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>59</td>
+		<td>Front-end Developer </td>
+		<td><a href="https://twitter.com/Kazim471">Kazim471</a></td>
+		<td>kabul, Afghanistan</td>
+		<td>438</td>
 	</tr>
 	<tr>
 		<td>65</td>
 		<td>
-			<a href="https://github.com/NangialaiStoman">
-				<img src="https://avatars.githubusercontent.com/u/16396664?s=72&u=aeaf300ce22782f49f4493cc2973f292d48b661c&v=4" width="24" alt="Avatar of NangialaiStoman"> NangialaiStoman
+			<a href="https://github.com/ravener">
+				<img src="https://avatars.githubusercontent.com/u/31079629?s=72&u=0c2c3c7480ef096316b2227c0b108c7bca8fa729&v=4" width="24" alt="Avatar of ravener"> ravener
 			</a><br/>
-			Nangialai Stoman
+			Raven Ravener
 		</td>
-		<td>Tetraclick </td>
-		<td><a href="https://twitter.com/NangialaiStoman">NangialaiStoman</a></td>
-		<td>Kabul Afghanistan</td>
-		<td>57</td>
+		<td>@termux  </td>
+		<td><a href="https://twitter.com/RavenRavener">RavenRavener</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>429</td>
 	</tr>
 	<tr>
 		<td>66</td>
 		<td>
-			<a href="https://github.com/AbbasAtaieMontazer">
-				<img src="https://avatars.githubusercontent.com/u/49268657?s=72&v=4" width="24" alt="Avatar of AbbasAtaieMontazer"> AbbasAtaieMontazer
+			<a href="https://github.com/MozamelJawad">
+				<img src="https://avatars.githubusercontent.com/u/14952154?s=72&u=126ef8453161a3748283551ec39cca6e162c3915&v=4" width="24" alt="Avatar of MozamelJawad"> MozamelJawad
 			</a><br/>
-			Abbas Ataie
+			Mozamel Jawad
 		</td>
-		<td>Bluebit Networking Services </td>
-		<td><a href="https://twitter.com/AtaieAbbas">AtaieAbbas</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>56</td>
+		<td>Microverse  </td>
+		<td><a href="https://twitter.com/mozameljawad">mozameljawad</a></td>
+		<td>Kabul Afghanistan</td>
+		<td>423</td>
 	</tr>
 	<tr>
 		<td>67</td>
 		<td>
-			<a href="https://github.com/sd101">
-				<img src="https://avatars.githubusercontent.com/u/20475949?s=72&u=f2d825a56e042796efaa6d12a35c7968687f3ec1&v=4" width="24" alt="Avatar of sd101"> sd101
+			<a href="https://github.com/Alibaba2023">
+				<img src="https://avatars.githubusercontent.com/u/126192888?s=72&u=ee390450e96c2a43eeb4d6ac09ba04645db3835b&v=4" width="24" alt="Avatar of Alibaba2023"> Alibaba2023
 			</a><br/>
-			James
+			Ali Baba
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>56</td>
+		<td>Front-end Developer </td>
+		<td><a href="https://twitter.com/AliBabaHu2023">AliBabaHu2023</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>414</td>
 	</tr>
 	<tr>
 		<td>68</td>
 		<td>
-			<a href="https://github.com/mehmoh41">
-				<img src="https://avatars.githubusercontent.com/u/59174850?s=72&v=4" width="24" alt="Avatar of mehmoh41"> mehmoh41
+			<a href="https://github.com/Salarhabibi-amir">
+				<img src="https://avatars.githubusercontent.com/u/108141097?s=72&u=09da913d1c3b343840da3c42c1c9adeae3aac4ba&v=4" width="24" alt="Avatar of Salarhabibi-amir"> Salarhabibi-amir
 			</a><br/>
-			Mehdi Mohammadi
+			Amir Hussain habibi
 		</td>
-		<td>@codenawis </td>
-		<td><a href="https://twitter.com/mehdimo60567475">mehdimo60567475</a></td>
-		<td>kabul,afghanistan</td>
-		<td>55</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>413</td>
 	</tr>
 	<tr>
 		<td>69</td>
 		<td>
-			<a href="https://github.com/JaAfghan">
-				<img src="https://avatars.githubusercontent.com/u/67356472?s=72&u=f5e0c9c7c324402c26c850cf2f1e57a6df4ee9f6&v=4" width="24" alt="Avatar of JaAfghan"> JaAfghan
+			<a href="https://github.com/mhnazary">
+				<img src="https://avatars.githubusercontent.com/u/77242944?s=72&u=5f06fe55bf10f3f9b010474841dc41986a698597&v=4" width="24" alt="Avatar of mhnazary"> mhnazary
 			</a><br/>
-			Javed Ahmad Olfath
+			Mahram Hossain 
 		</td>
-		<td>Afghanistan Revenue Department </td>
-		<td><a href="https://twitter.com/Javed_olfath">Javed_olfath</a></td>
-		<td>Kabul,Afghanistan</td>
-		<td>55</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mh_nazary">mh_nazary</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>407</td>
 	</tr>
 	<tr>
 		<td>70</td>
 		<td>
-			<a href="https://github.com/billalsiddiqi">
-				<img src="https://avatars.githubusercontent.com/u/52275107?s=72&u=52e02a4813df59b5def9bd8b4c6e088ed2a6b4ff&v=4" width="24" alt="Avatar of billalsiddiqi"> billalsiddiqi
+			<a href="https://github.com/Zahra-Habibi">
+				<img src="https://avatars.githubusercontent.com/u/75669065?s=72&u=5cf06c09040df62804bdd0055cf58165fa88dae2&v=4" width="24" alt="Avatar of Zahra-Habibi"> Zahra-Habibi
 			</a><br/>
-			Khwaja Billal Siddiqi
+			Zahra Habibi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>52</td>
+		<td>Kabul-Afghanistan</td>
+		<td>404</td>
 	</tr>
 	<tr>
 		<td>71</td>
 		<td>
-			<a href="https://github.com/nimatrazmjo">
-				<img src="https://avatars.githubusercontent.com/u/3712526?s=72&u=c2b6c6d94493dd7a9bb581c1513dc86965511312&v=4" width="24" alt="Avatar of nimatrazmjo"> nimatrazmjo
+			<a href="https://github.com/mostafa-meerzad">
+				<img src="https://avatars.githubusercontent.com/u/71199539?s=72&u=5ab2d059682e9163e587d0c9eee1a42a6750b043&v=4" width="24" alt="Avatar of mostafa-meerzad"> mostafa-meerzad
 			</a><br/>
-			Nimatullah Razmjo
+			No Name
 		</td>
-		<td>#netlinks Ltd </td>
-		<td><a href="https://twitter.com/nimatrazmjo">nimatrazmjo</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>51</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan, Kabul</td>
+		<td>403</td>
 	</tr>
 	<tr>
 		<td>72</td>
 		<td>
-			<a href="https://github.com/nazarialireza">
-				<img src="https://avatars.githubusercontent.com/u/9654370?s=72&u=53706a722b206a4535d1b5e51d1d508ea62a28c2&v=4" width="24" alt="Avatar of nazarialireza"> nazarialireza
+			<a href="https://github.com/Mustafa-Zahedi">
+				<img src="https://avatars.githubusercontent.com/u/96369008?s=72&u=03a91b5b1d4bca41c2a3bf0e0c375cc2a7b63828&v=4" width="24" alt="Avatar of Mustafa-Zahedi"> Mustafa-Zahedi
 			</a><br/>
-			Alireza Nazari
+			Mustafa Zahedi
 		</td>
-		<td>Awcc, Kabul Dns, Nazari<br/>Co<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>50</td>
+		<td>@tutiatechnology  </td>
+		<td><a href="https://twitter.com/Mustafa_Zahedi2">Mustafa_Zahedi2</a></td>
+		<td>Herat, Afghanistan</td>
+		<td>395</td>
 	</tr>
 	<tr>
 		<td>73</td>
 		<td>
-			<a href="https://github.com/samiullah119">
-				<img src="https://avatars.githubusercontent.com/u/71274633?s=72&u=13bbe72734a50e84c2b6cbe9c1d488928d2ddb69&v=4" width="24" alt="Avatar of samiullah119"> samiullah119
+			<a href="https://github.com/bezhanSalleh">
+				<img src="https://avatars.githubusercontent.com/u/10007504?s=72&v=4" width="24" alt="Avatar of bezhanSalleh"> bezhanSalleh
 			</a><br/>
-			@SAMI
+			Bezhan Salleh
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan-kabul</td>
-		<td>49</td>
+		<td>@roshantdca </td>
+		<td><a href="https://twitter.com/bezhanSalleh">bezhanSalleh</a></td>
+		<td>Afghanistan, Kabul</td>
+		<td>390</td>
 	</tr>
 	<tr>
 		<td>74</td>
 		<td>
-			<a href="https://github.com/RafiBahez">
-				<img src="https://avatars.githubusercontent.com/u/11470953?s=72&u=b97b7ab33e2ff02da1bb5110b91a6755994200f0&v=4" width="24" alt="Avatar of RafiBahez"> RafiBahez
+			<a href="https://github.com/Codepulze">
+				<img src="https://avatars.githubusercontent.com/u/99908796?s=72&u=92bc208de6b9abc31484ad8b69ff8e03e46cdfd6&v=4" width="24" alt="Avatar of Codepulze"> Codepulze
 			</a><br/>
-			Mohammad Rafi Bahez
+			Daisy
 		</td>
-		<td>Kabul University </td>
+		<td>Malwarebytes </td>
 		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan.</td>
-		<td>48</td>
+		<td>Afghanistan</td>
+		<td>381</td>
 	</tr>
 	<tr>
 		<td>75</td>
+		<td>
+			<a href="https://github.com/nilab-khwaja">
+				<img src="https://avatars.githubusercontent.com/u/122613936?s=72&u=e74818dfccb9d49e0d949e30444f181de3d40b49&v=4" width="24" alt="Avatar of nilab-khwaja"> nilab-khwaja
+			</a><br/>
+			Nilab Khwajazada
+		</td>
+		<td>Currently Available For Hire<br/></td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>376</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>
+			<a href="https://github.com/MAHDIA001">
+				<img src="https://avatars.githubusercontent.com/u/59234266?s=72&v=4" width="24" alt="Avatar of MAHDIA001"> MAHDIA001
+			</a><br/>
+			Mahdia
+		</td>
+		<td>@microverse </td>
+		<td><a href="https://twitter.com/mahdia00734562">mahdia00734562</a></td>
+		<td>kabul afghanistan</td>
+		<td>368</td>
+	</tr>
+	<tr>
+		<td>77</td>
+		<td>
+			<a href="https://github.com/HemtKhan">
+				<img src="https://avatars.githubusercontent.com/u/88194852?s=72&u=70537a34020a565579bdca629f43e9a56b260282&v=4" width="24" alt="Avatar of HemtKhan"> HemtKhan
+			</a><br/>
+			HEMAT KHAN 
+		</td>
+		<td>Hacking </td>
+		<td>No Twitter Username</td>
+		<td>Ghazni city</td>
+		<td>343</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>
+			<a href="https://github.com/HanifullahJamalzai">
+				<img src="https://avatars.githubusercontent.com/u/43265047?s=72&u=5185b20a6baee93fe5f2f4e9e855e801586fe9d7&v=4" width="24" alt="Avatar of HanifullahJamalzai"> HanifullahJamalzai
+			</a><br/>
+			Hanifullah Jamalzai
+		</td>
+		<td>Open To Work </td>
+		<td><a href="https://twitter.com/hanifullahjamal">hanifullahjamal</a></td>
+		<td>Afghanistan</td>
+		<td>343</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
+			<a href="https://github.com/ZabihullahNooriWardak">
+				<img src="https://avatars.githubusercontent.com/u/115200857?s=72&u=a74d2dd6933048ca0dcb35b24c33153e4ec545c0&v=4" width="24" alt="Avatar of ZabihullahNooriWardak"> ZabihullahNooriWardak
+			</a><br/>
+			Zabih Noori 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>kabul , Afghanistan</td>
+		<td>332</td>
+	</tr>
+	<tr>
+		<td>80</td>
+		<td>
+			<a href="https://github.com/naimatullahRezaee">
+				<img src="https://avatars.githubusercontent.com/u/76400548?s=72&u=accb63bc76663b3adc2e07bead27c958afef13ee&v=4" width="24" alt="Avatar of naimatullahRezaee"> naimatullahRezaee
+			</a><br/>
+			Niamatullah Rezaie
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>326</td>
+	</tr>
+	<tr>
+		<td>81</td>
+		<td>
+			<a href="https://github.com/Muslim-Tech786">
+				<img src="https://avatars.githubusercontent.com/u/124895681?s=72&u=279a2d947ee721ec802c91a6e7c4ae45292b8fd5&v=4" width="24" alt="Avatar of Muslim-Tech786"> Muslim-Tech786
+			</a><br/>
+			Muslim Tech Team
+		</td>
+		<td>Best Technicals </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>323</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>
+			<a href="https://github.com/AbdulQarizada">
+				<img src="https://avatars.githubusercontent.com/u/36229166?s=72&u=da1c918dd511f37071c4a4fdcc8231681e680529&v=4" width="24" alt="Avatar of AbdulQarizada"> AbdulQarizada
+			</a><br/>
+			Abdul Qarizada
+		</td>
+		<td>Fatiha </td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>320</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>
+			<a href="https://github.com/Esmatullah12">
+				<img src="https://avatars.githubusercontent.com/u/101590645?s=72&u=7fffaeebf0a339cf953cfd505ef19774fcc6e9bb&v=4" width="24" alt="Avatar of Esmatullah12"> Esmatullah12
+			</a><br/>
+			Esmatullah
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Esmatullah173">Esmatullah173</a></td>
+		<td>Afghanistan</td>
+		<td>319</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
+			<a href="https://github.com/shtayeb">
+				<img src="https://avatars.githubusercontent.com/u/48182832?s=72&u=9dd4dcbe00fa8a82aec34fe9ecb371817e250aa7&v=4" width="24" alt="Avatar of shtayeb"> shtayeb
+			</a><br/>
+			Shahryar Tayeb
+		</td>
+		<td>Immap </td>
+		<td><a href="https://twitter.com/shahryar_tayeb">shahryar_tayeb</a></td>
+		<td>Afghanistan</td>
+		<td>319</td>
+	</tr>
+	<tr>
+		<td>85</td>
+		<td>
+			<a href="https://github.com/Mahdi-Niazi">
+				<img src="https://avatars.githubusercontent.com/u/66867944?s=72&u=c14df0e55d17363569bca7a3d9f6281129c336d2&v=4" width="24" alt="Avatar of Mahdi-Niazi"> Mahdi-Niazi
+			</a><br/>
+			Mohammad Mahdi Niazi
+		</td>
+		<td>Mahd Tech </td>
+		<td><a href="https://twitter.com/mahdiniazi1">mahdiniazi1</a></td>
+		<td>Kabul Afghanistan </td>
+		<td>307</td>
+	</tr>
+	<tr>
+		<td>86</td>
+		<td>
+			<a href="https://github.com/Saboor-Hakimi">
+				<img src="https://avatars.githubusercontent.com/u/44523544?s=72&u=35c33ae7f05f0d4185a41fd44b82fdce36273626&v=4" width="24" alt="Avatar of Saboor-Hakimi"> Saboor-Hakimi
+			</a><br/>
+			Saboor Hakimi
+		</td>
+		<td>Aseel, A Mobile E-commerce<br/>Platform<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan</td>
+		<td>302</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
+			<a href="https://github.com/KingGZX">
+				<img src="https://avatars.githubusercontent.com/u/50453175?s=72&u=b02e81e4684681b1c186f863c2821cb3bd8f450f&v=4" width="24" alt="Avatar of KingGZX"> KingGZX
+			</a><br/>
+			KingGZX
+		</td>
+		<td>Apple </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>301</td>
+	</tr>
+	<tr>
+		<td>88</td>
+		<td>
+			<a href="https://github.com/mansoorfaizi">
+				<img src="https://avatars.githubusercontent.com/u/103066716?s=72&u=17ca4b7b27d273fe62f8481cdcc612ff7a5f1ba1&v=4" width="24" alt="Avatar of mansoorfaizi"> mansoorfaizi
+			</a><br/>
+			Mansoor
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MansoorFaizi2">MansoorFaizi2</a></td>
+		<td>Herat</td>
+		<td>295</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
+			<a href="https://github.com/fatima-najafi">
+				<img src="https://avatars.githubusercontent.com/u/101437051?s=72&u=03acdf079f9057fbc69f6c92b49acd3e33ba12b0&v=4" width="24" alt="Avatar of fatima-najafi"> fatima-najafi
+			</a><br/>
+			Fatima Najafi
+		</td>
+		<td>Microverse </td>
+		<td><a href="https://twitter.com/FatimaNajafi6">FatimaNajafi6</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>294</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>
+			<a href="https://github.com/AliShahSafdari">
+				<img src="https://avatars.githubusercontent.com/u/102790107?s=72&u=c6e74c91827c210eb1fa8dec507c1398a8889d87&v=4" width="24" alt="Avatar of AliShahSafdari"> AliShahSafdari
+			</a><br/>
+			Alishah
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AlishahSafdari">AlishahSafdari</a></td>
+		<td>Kabul Afghanistan </td>
+		<td>275</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
+			<a href="https://github.com/Faiz-rhm">
+				<img src="https://avatars.githubusercontent.com/u/14290499?s=72&u=0a5a86eea41599c9f3d097e2f3e0f2416c09e89a&v=4" width="24" alt="Avatar of Faiz-rhm"> Faiz-rhm
+			</a><br/>
+			Faiz Rhm
+		</td>
+		<td>Netlinks </td>
+		<td><a href="https://twitter.com/faiz_rhm">faiz_rhm</a></td>
+		<td>Afghanistan</td>
+		<td>273</td>
+	</tr>
+	<tr>
+		<td>92</td>
+		<td>
+			<a href="https://github.com/sajjadrajaee">
+				<img src="https://avatars.githubusercontent.com/u/33055346?s=72&u=bc321239ac7ee6ea43f79c8174ad42bcfcdcc555&v=4" width="24" alt="Avatar of sajjadrajaee"> sajjadrajaee
+			</a><br/>
+			Sajjad Rajaee
+		</td>
+		<td>Microverse </td>
+		<td><a href="https://twitter.com/sajjadrajaee">sajjadrajaee</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>272</td>
+	</tr>
+	<tr>
+		<td>93</td>
+		<td>
+			<a href="https://github.com/Naqibullah-Nabizada">
+				<img src="https://avatars.githubusercontent.com/u/72225962?s=72&u=5009d30f0cb812b1e98a57c67884243f324e51ce&v=4" width="24" alt="Avatar of Naqibullah-Nabizada"> Naqibullah-Nabizada
+			</a><br/>
+			Naqibullah Nabizada
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan </td>
+		<td>262</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
+			<a href="https://github.com/janabdullahi">
+				<img src="https://avatars.githubusercontent.com/u/103871568?s=72&u=a2700287a339afd4cc22b0cbeccaf05db32ad6be&v=4" width="24" alt="Avatar of janabdullahi"> janabdullahi
+			</a><br/>
+			hamed jan abdullahi
+		</td>
+		<td>Netlinks Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan</td>
+		<td>262</td>
+	</tr>
+	<tr>
+		<td>95</td>
+		<td>
+			<a href="https://github.com/Nasim-Alizai">
+				<img src="https://avatars.githubusercontent.com/u/73281686?s=72&u=9a070c9e2ea44592f59c2c2c450b69391cde436c&v=4" width="24" alt="Avatar of Nasim-Alizai"> Nasim-Alizai
+			</a><br/>
+			Nasim Alizai 
+		</td>
+		<td>Code9ine Tech Company </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan </td>
+		<td>259</td>
+	</tr>
+	<tr>
+		<td>96</td>
+		<td>
+			<a href="https://github.com/Nawabi-Hamza">
+				<img src="https://avatars.githubusercontent.com/u/111171188?s=72&u=b663f5a59f8b56bc9fdaccaedc15727af7827122&v=4" width="24" alt="Avatar of Nawabi-Hamza"> Nawabi-Hamza
+			</a><br/>
+			Hamza-Nawabi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul , Afghanistan</td>
+		<td>257</td>
+	</tr>
+	<tr>
+		<td>97</td>
+		<td>
+			<a href="https://github.com/mirwaisfarahi">
+				<img src="https://avatars.githubusercontent.com/u/104019280?s=72&u=1faf16878b3c5c11fce96ecd7021ef547fbe0dc8&v=4" width="24" alt="Avatar of mirwaisfarahi"> mirwaisfarahi
+			</a><br/>
+			Mirwais Farahi
+		</td>
+		<td>Software Developer </td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan</td>
+		<td>250</td>
+	</tr>
+	<tr>
+		<td>98</td>
+		<td>
+			<a href="https://github.com/HabibRahmani">
+				<img src="https://avatars.githubusercontent.com/u/126974267?s=72&u=12d60e6b84adce3b496364dc825693743279eb9f&v=4" width="24" alt="Avatar of HabibRahmani"> HabibRahmani
+			</a><br/>
+			Habib Rahmani
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Herat , Afghanistan</td>
+		<td>248</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>
+			<a href="https://github.com/HabibRahmani">
+				<img src="https://avatars.githubusercontent.com/u/126974267?s=72&u=12d60e6b84adce3b496364dc825693743279eb9f&v=4" width="24" alt="Avatar of HabibRahmani"> HabibRahmani
+			</a><br/>
+			Habib Rahmani
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Herat , Afghanistan</td>
+		<td>248</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>
+			<a href="https://github.com/maisamaf">
+				<img src="https://avatars.githubusercontent.com/u/20711118?s=72&u=515458e80d9ff01f5a822d161cc6d68fe89f75b8&v=4" width="24" alt="Avatar of maisamaf"> maisamaf
+			</a><br/>
+			 Maisam Afshar
+		</td>
+		<td>@creativetimofficial </td>
+		<td><a href="https://twitter.com/imaisam">imaisam</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>238</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
+			<a href="https://github.com/elhamatokhi">
+				<img src="https://avatars.githubusercontent.com/u/101942323?s=72&u=b664610ad547788be692179ec5d0a65ec22a74a2&v=4" width="24" alt="Avatar of elhamatokhi"> elhamatokhi
+			</a><br/>
+			Elhama Tokhi
+		</td>
+		<td>Software Engineer </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>237</td>
+	</tr>
+	<tr>
+		<td>102</td>
+		<td>
+			<a href="https://github.com/fahimy143">
+				<img src="https://avatars.githubusercontent.com/u/57341400?s=72&u=27c620a93b8b07b5b8e6efa9e921b09ece405fa2&v=4" width="24" alt="Avatar of fahimy143"> fahimy143
+			</a><br/>
+			Mustafa Fahimy
+		</td>
+		<td>Full-stack Web Developer </td>
+		<td><a href="https://twitter.com/MustafaFahimy">MustafaFahimy</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>233</td>
+	</tr>
+	<tr>
+		<td>103</td>
+		<td>
+			<a href="https://github.com/Osman-Rasooli">
+				<img src="https://avatars.githubusercontent.com/u/109551544?s=72&u=84df40f412a8fcc8f15c7afe19481d738205ac9a&v=4" width="24" alt="Avatar of Osman-Rasooli"> Osman-Rasooli
+			</a><br/>
+			Mohammad Osman Rasooli
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/OsmanRasooli">OsmanRasooli</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>233</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
+			<a href="https://github.com/kingmammad0">
+				<img src="https://avatars.githubusercontent.com/u/62317202?s=72&u=ff72825bf627ba27737c51dbff55c34bead53177&v=4" width="24" alt="Avatar of kingmammad0"> kingmammad0
+			</a><br/>
+			Mohammad
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kingmammad0">kingmammad0</a></td>
+		<td>Afghanistan</td>
+		<td>232</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>
+			<a href="https://github.com/Hidar37">
+				<img src="https://avatars.githubusercontent.com/u/76766060?s=72&u=f46a00a097b9b90a292afd132800eb83f572aee5&v=4" width="24" alt="Avatar of Hidar37"> Hidar37
+			</a><br/>
+			Haider Ahmad
+		</td>
+		<td>Afg Web Development </td>
+		<td><a href="https://twitter.com/HidarAhmad1">HidarAhmad1</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>231</td>
+	</tr>
+	<tr>
+		<td>106</td>
+		<td>
+			<a href="https://github.com/KhatimaSadat">
+				<img src="https://avatars.githubusercontent.com/u/86257958?s=72&u=fa4fe0fb425fad78dcc787c54743f98494bcf56a&v=4" width="24" alt="Avatar of KhatimaSadat"> KhatimaSadat
+			</a><br/>
+			Khatima Sajadi
+		</td>
+		<td>Kandahar University  </td>
+		<td>No Twitter Username</td>
+		<td>Kandahar , Afghanistan </td>
+		<td>223</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td>
+			<a href="https://github.com/Hurmatullah">
+				<img src="https://avatars.githubusercontent.com/u/31663895?s=72&u=aebea270ca333f6b9735bac18a95192e16dc7518&v=4" width="24" alt="Avatar of Hurmatullah"> Hurmatullah
+			</a><br/>
+			Karimi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>219</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/MustafaSamiShirzad">
+				<img src="https://avatars.githubusercontent.com/u/104809541?s=72&u=9f9ab24b7ff0f03ca6771e222eeb9e6856d806e9&v=4" width="24" alt="Avatar of MustafaSamiShirzad"> MustafaSamiShirzad
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>kabul, Afghanistan</td>
+		<td>216</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td>
+			<a href="https://github.com/hikmatullah-mohammadi">
+				<img src="https://avatars.githubusercontent.com/u/70486343?s=72&u=da540f6762e949012e71a962a0087078b27fcc73&v=4" width="24" alt="Avatar of hikmatullah-mohammadi"> hikmatullah-mohammadi
+			</a><br/>
+			Hikmatullah Mohammadi
+		</td>
+		<td>Kabul University </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>215</td>
+	</tr>
+	<tr>
+		<td>110</td>
+		<td>
+			<a href="https://github.com/real-ali">
+				<img src="https://avatars.githubusercontent.com/u/93838882?s=72&u=dea20c4c525fe24eeb12dff5f356f58b32a01ec5&v=4" width="24" alt="Avatar of real-ali"> real-ali
+			</a><br/>
+			Ali
+		</td>
+		<td>@laams </td>
+		<td><a href="https://twitter.com/ali_twitte_">ali_twitte_</a></td>
+		<td>Afghanistan</td>
+		<td>208</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
+			<a href="https://github.com/BaburshahSayer">
+				<img src="https://avatars.githubusercontent.com/u/92582416?s=72&u=bd2bbe209e241b9b330f8a70ae7b7c2e589a5eb0&v=4" width="24" alt="Avatar of BaburshahSayer"> BaburshahSayer
+			</a><br/>
+			Babur Shah Sayer
+		</td>
+		<td>Honesthelper </td>
+		<td><a href="https://twitter.com/BaburSayer">BaburSayer</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>206</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td>
+			<a href="https://github.com/Ph0rk0z">
+				<img src="https://avatars.githubusercontent.com/u/59298527?s=72&u=56b88957aa38420d208bc6507ff2d5a217b26082&v=4" width="24" alt="Avatar of Ph0rk0z"> Ph0rk0z
+			</a><br/>
+			Forkoz
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>205</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
+			<a href="https://github.com/omidshayan">
+				<img src="https://avatars.githubusercontent.com/u/58745887?s=72&u=6f0e71b9d855f277357cf4020deea4ac6d0e05fb&v=4" width="24" alt="Avatar of omidshayan"> omidshayan
+			</a><br/>
+			omid shayan
+		</td>
+		<td>Aryatech Co </td>
+		<td>No Twitter Username</td>
+		<td>Afganistan-Herat</td>
+		<td>204</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td>
+			<a href="https://github.com/MahsumaRezai">
+				<img src="https://avatars.githubusercontent.com/u/110189253?s=72&u=f21a1acd088422171bd13ba3b674a0756453647a&v=4" width="24" alt="Avatar of MahsumaRezai"> MahsumaRezai
+			</a><br/>
+			 Masoumeh Rezai
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MahsumaRezai">MahsumaRezai</a></td>
+		<td>Afghanistan</td>
+		<td>202</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
+			<a href="https://github.com/habibullahturkmen">
+				<img src="https://avatars.githubusercontent.com/u/11511274?s=72&u=83483dda4b53db23f0176dac7ed15a94a1f6bbe8&v=4" width="24" alt="Avatar of habibullahturkmen"> habibullahturkmen
+			</a><br/>
+			Habibullah Turkmen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>200</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td>
+			<a href="https://github.com/Paiman-Rasoli">
+				<img src="https://avatars.githubusercontent.com/u/83835010?s=72&u=4e1e177869e30d757b28e9a9c1bc5100d0c2e87b&v=4" width="24" alt="Avatar of Paiman-Rasoli"> Paiman-Rasoli
+			</a><br/>
+			Paiman Rasoli
+		</td>
+		<td>Full Stack Developer </td>
+		<td>No Twitter Username</td>
+		<td>Herat, Afghanistan</td>
+		<td>199</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>
+			<a href="https://github.com/ElhamAryanpur">
+				<img src="https://avatars.githubusercontent.com/u/35463470?s=72&u=cb2cd551c3674fb9e850c112732608fe5db440c7&v=4" width="24" alt="Avatar of ElhamAryanpur"> ElhamAryanpur
+			</a><br/>
+			Elham Aryanpur
+		</td>
+		<td>Aryanpurtech </td>
+		<td><a href="https://twitter.com/aryanpur_elham">aryanpur_elham</a></td>
+		<td>Afghanistan</td>
+		<td>198</td>
+	</tr>
+	<tr>
+		<td>118</td>
+		<td>
+			<a href="https://github.com/khalid-atayee">
+				<img src="https://avatars.githubusercontent.com/u/107976140?s=72&u=33ac117501e5f353fc6c0c0d35006587737fb2b6&v=4" width="24" alt="Avatar of khalid-atayee"> khalid-atayee
+			</a><br/>
+			khalid
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul,Afghanistan</td>
+		<td>194</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
+			<a href="https://github.com/khalid-atayee">
+				<img src="https://avatars.githubusercontent.com/u/107976140?s=72&u=33ac117501e5f353fc6c0c0d35006587737fb2b6&v=4" width="24" alt="Avatar of khalid-atayee"> khalid-atayee
+			</a><br/>
+			khalid
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul,Afghanistan</td>
+		<td>194</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>
+			<a href="https://github.com/MohammadYaser">
+				<img src="https://avatars.githubusercontent.com/u/134836471?s=72&v=4" width="24" alt="Avatar of MohammadYaser"> MohammadYaser
+			</a><br/>
+			Mohammad Yaser
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>190</td>
+	</tr>
+	<tr>
+		<td>121</td>
+		<td>
+			<a href="https://github.com/HamidFaramarz">
+				<img src="https://avatars.githubusercontent.com/u/101446076?s=72&u=5e70a1f161cb737eb96e138cfb0bf8cbec6e44a5&v=4" width="24" alt="Avatar of HamidFaramarz"> HamidFaramarz
+			</a><br/>
+			Hamid Faramarz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>190</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>
+			<a href="https://github.com/ManzoorWayar">
+				<img src="https://avatars.githubusercontent.com/u/64924432?s=72&u=09eea89da0623a992b051b6e08970b9e786f99bc&v=4" width="24" alt="Avatar of ManzoorWayar"> ManzoorWayar
+			</a><br/>
+			Manzoor Ahmad Wayar
+		</td>
+		<td>Https://rahanet.af/ </td>
+		<td><a href="https://twitter.com/manzoor_wayar">manzoor_wayar</a></td>
+		<td>Herat, Afghanistan</td>
+		<td>189</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>
+			<a href="https://github.com/Seddiqui">
+				<img src="https://avatars.githubusercontent.com/u/99140762?s=72&u=4a244cb6b873dd22fd754a580e5bedf900f3a498&v=4" width="24" alt="Avatar of Seddiqui"> Seddiqui
+			</a><br/>
+			Abdul Mateen Seddiqui
+		</td>
+		<td>Immap </td>
+		<td><a href="https://twitter.com/MateenSeddiqui">MateenSeddiqui</a></td>
+		<td>Kabul Afghanistan </td>
+		<td>184</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>
+			<a href="https://github.com/RamezRayyan64">
+				<img src="https://avatars.githubusercontent.com/u/107287484?s=72&u=aebe413f88b3db71f3b386184f895951dcb4f5c0&v=4" width="24" alt="Avatar of RamezRayyan64"> RamezRayyan64
+			</a><br/>
+			Ramez A. Rayyan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Ramez_Rayyan64">Ramez_Rayyan64</a></td>
+		<td>Herat, Afghanistan</td>
+		<td>183</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
+			<a href="https://github.com/alizada-hadi">
+				<img src="https://avatars.githubusercontent.com/u/84295743?s=72&u=947b3bbe23811f9f11d6e1a6bdd6cd41ec5aac02&v=4" width="24" alt="Avatar of alizada-hadi"> alizada-hadi
+			</a><br/>
+			Hadi Alizada
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Hadi_Alizada1">Hadi_Alizada1</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>183</td>
+	</tr>
+	<tr>
+		<td>126</td>
+		<td>
+			<a href="https://github.com/BestProfessionals">
+				<img src="https://avatars.githubusercontent.com/u/113937008?s=72&u=6a135a60ef6ea1d371d2d9a5c72b1d1c138350e6&v=4" width="24" alt="Avatar of BestProfessionals"> BestProfessionals
+			</a><br/>
+			MR Danishyar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>182</td>
+	</tr>
+	<tr>
+		<td>127</td>
+		<td>
+			<a href="https://github.com/sadaf-Daneshgar">
+				<img src="https://avatars.githubusercontent.com/u/124706141?s=72&u=9555f762a07f38163dc10fe84f107dbcdd951291&v=4" width="24" alt="Avatar of sadaf-Daneshgar"> sadaf-Daneshgar
+			</a><br/>
+			Sadaf-Daneshgar
+		</td>
+		<td>Front-end Developer </td>
+		<td><a href="https://twitter.com/SadafDaneshgar">SadafDaneshgar</a></td>
+		<td>Kabul, Afghanistan </td>
+		<td>178</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
+			<a href="https://github.com/Arsalan-Najm">
+				<img src="https://avatars.githubusercontent.com/u/64060848?s=72&u=983f6b974c17f45a8b7bdaf98865d56d2ceec551&v=4" width="24" alt="Avatar of Arsalan-Najm"> Arsalan-Najm
+			</a><br/>
+			Arsalan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan </td>
+		<td>177</td>
+	</tr>
+	<tr>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/yasin1376">
 				<img src="https://avatars.githubusercontent.com/u/40073233?s=72&u=7e9df01e43c96677f453721624499f9c9e7bb8ce&v=4" width="24" alt="Avatar of yasin1376"> yasin1376
@@ -1075,1039 +1777,1052 @@ There are `960 users`  in Afghanistan. You need at least `0 followers` to be on 
 			Mohammad yasin mohammadi
 		</td>
 		<td>Intellectual Applications & Products<br/></td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/myasin1376">myasin1376</a></td>
 		<td>Afghanistan</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>76</td>
-		<td>
-			<a href="https://github.com/abubaker47">
-				<img src="https://avatars.githubusercontent.com/u/9978417?s=72&u=26cd5398cc3bd3514e4f8da8f5f2c05e9cb051ec&v=4" width="24" alt="Avatar of abubaker47"> abubaker47
-			</a><br/>
-			Faisal Abubaker
-		</td>
-		<td>Elitech </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
-			<a href="https://github.com/AbdulWahabAchakzai">
-				<img src="https://avatars.githubusercontent.com/u/24620093?s=72&u=4914a328bfbd342673410a6688861d10c7e58acb&v=4" width="24" alt="Avatar of AbdulWahabAchakzai"> AbdulWahabAchakzai
-			</a><br/>
-			Abdul Wahab Achakzai
-		</td>
-		<td>@nsia-infosys </td>
-		<td>No Twitter Username</td>
-		<td>kabul/Afghanistan</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>78</td>
-		<td>
-			<a href="https://github.com/AbdulWahabAchakzai">
-				<img src="https://avatars.githubusercontent.com/u/24620093?s=72&u=4914a328bfbd342673410a6688861d10c7e58acb&v=4" width="24" alt="Avatar of AbdulWahabAchakzai"> AbdulWahabAchakzai
-			</a><br/>
-			Abdul Wahab Achakzai
-		</td>
-		<td>@nsia-infosys </td>
-		<td>No Twitter Username</td>
-		<td>kabul/Afghanistan</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>79</td>
-		<td>
-			<a href="https://github.com/nasimalizai">
-				<img src="https://avatars.githubusercontent.com/u/73281686?s=72&u=c8a0d94be71c7a35bd4cccc5cf6aeadfda810761&v=4" width="24" alt="Avatar of nasimalizai"> nasimalizai
-			</a><br/>
-			Nasim Alizai
-		</td>
-		<td>Code9ine Tech Company </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan </td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>80</td>
-		<td>
-			<a href="https://github.com/SaidShahAhmadi">
-				<img src="https://avatars.githubusercontent.com/u/27332667?s=72&u=889dabe4ee32b301ce8c113f4f436023fee1cc31&v=4" width="24" alt="Avatar of SaidShahAhmadi"> SaidShahAhmadi
-			</a><br/>
-			SaidShahAhmadi
-		</td>
-		<td>No Company Student <br/></td>
-		<td><a href="https://twitter.com/SaidShahAhmadi">SaidShahAhmadi</a></td>
-		<td>kabul</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>
-			<a href="https://github.com/Riyhana">
-				<img src="https://avatars.githubusercontent.com/u/44570946?s=72&u=f6ad65d7bad3e2e45ff0e5ac62f51e1a4d9d38f5&v=4" width="24" alt="Avatar of Riyhana"> Riyhana
-			</a><br/>
-			RiyhanaAhmadi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>herat</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>82</td>
-		<td>
-			<a href="https://github.com/muhammadwafa">
-				<img src="https://avatars.githubusercontent.com/u/56511436?s=72&u=70818d609e37e5bee732594ebaafba14ee170be8&v=4" width="24" alt="Avatar of muhammadwafa"> muhammadwafa
-			</a><br/>
-			Muhammad
-		</td>
-		<td>Thecodegiant </td>
-		<td>No Twitter Username</td>
-		<td>kabul</td>
-		<td>42</td>
-	</tr>
-	<tr>
-		<td>83</td>
-		<td>
-			<a href="https://github.com/najibkr">
-				<img src="https://avatars.githubusercontent.com/u/59522872?s=72&u=f7e5ad780a476148576593dfce54f1d01afe4fae&v=4" width="24" alt="Avatar of najibkr"> najibkr
-			</a><br/>
-			Najibullah Khoda Rahim
-		</td>
-		<td>Laams - Tech Company<br/>Based<br/>In<br/>Kabul,<br/>Afghanistan<br/></td>
-		<td><a href="https://twitter.com/najibkhodarahim">najibkhodarahim</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>41</td>
-	</tr>
-	<tr>
-		<td>84</td>
-		<td>
-			<a href="https://github.com/timekills">
-				<img src="https://avatars.githubusercontent.com/u/3918587?s=72&u=070e0a4fea1d42d7d29cc3be1ac70fcc49bb0c32&v=4" width="24" alt="Avatar of timekills"> timekills
-			</a><br/>
-			Timekills
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>40</td>
-	</tr>
-	<tr>
-		<td>85</td>
-		<td>
-			<a href="https://github.com/ghufranataie">
-				<img src="https://avatars.githubusercontent.com/u/26889400?s=72&u=c75a1f8fa1d47a6bd9052a0ead05b6a46a6428b8&v=4" width="24" alt="Avatar of ghufranataie"> ghufranataie
-			</a><br/>
-			Ghufran Ataie
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ghufranataie">ghufranataie</a></td>
-		<td>Mazar-e Sharif, Balkh, Afghanistan</td>
-		<td>40</td>
-	</tr>
-	<tr>
-		<td>86</td>
-		<td>
-			<a href="https://github.com/shawkatullah1">
-				<img src="https://avatars.githubusercontent.com/u/45576708?s=72&u=1cb200c28af71cf8f04edd4ff13f20fac4fa3e96&v=4" width="24" alt="Avatar of shawkatullah1"> shawkatullah1
-			</a><br/>
-			Shawkatullah Masood 
-		</td>
-		<td>Stm Ltd. </td>
-		<td><a href="https://twitter.com/ShawkatullahSTM">ShawkatullahSTM</a></td>
-		<td>Afghanistan</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>87</td>
-		<td>
-			<a href="https://github.com/AqidaHaidari">
-				<img src="https://avatars.githubusercontent.com/u/42426077?s=72&u=1472b71de2fc33ea31dde5d31055694e6c252647&v=4" width="24" alt="Avatar of AqidaHaidari"> AqidaHaidari
-			</a><br/>
-			Aqida
-		</td>
-		<td>Code To Inspire </td>
-		<td><a href="https://twitter.com/AqidaHaidari">AqidaHaidari</a></td>
-		<td>Heart,Afghanistan</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
-			<a href="https://github.com/abdullahmaster313">
-				<img src="https://avatars.githubusercontent.com/u/59148342?s=72&u=7b00c8c5e57ed95545a2265069c41925824d0129&v=4" width="24" alt="Avatar of abdullahmaster313"> abdullahmaster313
-			</a><br/>
-			Abdullah Qasemi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
-			<a href="https://github.com/jafaritaqi">
-				<img src="https://avatars.githubusercontent.com/u/9637377?s=72&u=16780c662e8ce06d720189764a3455dcd9723a23&v=4" width="24" alt="Avatar of jafaritaqi"> jafaritaqi
-			</a><br/>
-			Mohammad Taqi
-		</td>
-		<td>Chal </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
-			<a href="https://github.com/NekfarBaqir">
-				<img src="https://avatars.githubusercontent.com/u/73381493?s=72&u=8434420e74f3ab0682da5789e7c357ff4f5bc28c&v=4" width="24" alt="Avatar of NekfarBaqir"> NekfarBaqir
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
-			<a href="https://github.com/iampopal">
-				<img src="https://avatars.githubusercontent.com/u/36197852?s=72&u=ec52a1876951558e3c466d94bdb53594b48bd402&v=4" width="24" alt="Avatar of iampopal"> iampopal
-			</a><br/>
-			Abdurahman Popal
-		</td>
-		<td>Saawis  </td>
-		<td>No Twitter Username</td>
-		<td>Mazar-e-sharif, Afghanistan</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>92</td>
-		<td>
-			<a href="https://github.com/Mo-Hesam">
-				<img src="https://avatars.githubusercontent.com/u/62071569?s=72&u=3ebcd986fceb9ef5274222889ac8297d44d1a6d9&v=4" width="24" alt="Avatar of Mo-Hesam"> Mo-Hesam
-			</a><br/>
-			Amoo Purang
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabol, Afghanistan</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>93</td>
-		<td>
-			<a href="https://github.com/SpeeedWagon">
-				<img src="https://avatars.githubusercontent.com/u/66512352?s=72&u=cc41c992ff63938a48d8429f468c65a631d8ee3b&v=4" width="24" alt="Avatar of SpeeedWagon"> SpeeedWagon
-			</a><br/>
-			No Name
-		</td>
-		<td>Deepcode.xyz </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
-			<a href="https://github.com/safi-4025">
-				<img src="https://avatars.githubusercontent.com/u/66010252?s=72&u=a6c08d7c8cef05e8eba692dfc0fa9666448c8a3f&v=4" width="24" alt="Avatar of safi-4025"> safi-4025
-			</a><br/>
-			Safi Rahimi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/SafiRahimi7">SafiRahimi7</a></td>
-		<td>Kabul. Afghanistan</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
-			<a href="https://github.com/AbbasJafariTrax">
-				<img src="https://avatars.githubusercontent.com/u/42559404?s=72&u=2e0291dc3205b9e07d6c2b6988fc414a2f1f17b2&v=4" width="24" alt="Avatar of AbbasJafariTrax"> AbbasJafariTrax
-			</a><br/>
-			No Name
-		</td>
-		<td>Pomtech </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>96</td>
-		<td>
-			<a href="https://github.com/mahmadin">
-				<img src="https://avatars.githubusercontent.com/u/68723980?s=72&u=398e6c34da99edb8f50c02adf08c160e238ead62&v=4" width="24" alt="Avatar of mahmadin"> mahmadin
-			</a><br/>
-			Mohammad ahmadinezhad
-		</td>
-		<td>Soca </td>
-		<td><a href="https://twitter.com/mohammad">mohammad</a></td>
-		<td>kabul</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>97</td>
-		<td>
-			<a href="https://github.com/mahmadin">
-				<img src="https://avatars.githubusercontent.com/u/68723980?s=72&u=398e6c34da99edb8f50c02adf08c160e238ead62&v=4" width="24" alt="Avatar of mahmadin"> mahmadin
-			</a><br/>
-			Mohammad ahmadinezhad
-		</td>
-		<td>Soca </td>
-		<td><a href="https://twitter.com/mohammad">mohammad</a></td>
-		<td>kabul</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>98</td>
-		<td>
-			<a href="https://github.com/Ph0rk0z">
-				<img src="https://avatars.githubusercontent.com/u/59298527?s=72&u=56b88957aa38420d208bc6507ff2d5a217b26082&v=4" width="24" alt="Avatar of Ph0rk0z"> Ph0rk0z
-			</a><br/>
-			Forkoz
-		</td>
-		<td>Microsoft </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>99</td>
-		<td>
-			<a href="https://github.com/Ph0rk0z">
-				<img src="https://avatars.githubusercontent.com/u/59298527?s=72&u=56b88957aa38420d208bc6507ff2d5a217b26082&v=4" width="24" alt="Avatar of Ph0rk0z"> Ph0rk0z
-			</a><br/>
-			Forkoz
-		</td>
-		<td>Microsoft </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
-			<a href="https://github.com/HussainRasuli">
-				<img src="https://avatars.githubusercontent.com/u/62686803?s=72&u=9befee74357176726a8edb58d565c3504dffa498&v=4" width="24" alt="Avatar of HussainRasuli"> HussainRasuli
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>101</td>
-		<td>
-			<a href="https://github.com/mohbadar">
-				<img src="https://avatars.githubusercontent.com/u/32482095?s=72&u=e0ab7b4bbf3ada940b4b93cd5898458c013d85c2&v=4" width="24" alt="Avatar of mohbadar"> mohbadar
-			</a><br/>
-			Mohammad Badar Hashimi
-		</td>
-		<td>Nsia & Asr </td>
-		<td><a href="https://twitter.com/mohbadarhashimi">mohbadarhashimi</a></td>
-		<td>Kabul Afghanistan</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>102</td>
-		<td>
-			<a href="https://github.com/mahdihassani12">
-				<img src="https://avatars.githubusercontent.com/u/46732091?s=72&u=a0a2dafb8ec608e393c83b8c87ce01f694fdf609&v=4" width="24" alt="Avatar of mahdihassani12"> mahdihassani12
-			</a><br/>
-			Mahdi
-		</td>
-		<td>Pomtech Ict Solution </td>
-		<td>No Twitter Username</td>
-		<td>Herat Afghanistan</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>103</td>
-		<td>
-			<a href="https://github.com/hamidafghan">
-				<img src="https://avatars.githubusercontent.com/u/21290137?s=72&u=15c156248eeae47d76c073126c3528643c704d44&v=4" width="24" alt="Avatar of hamidafghan"> hamidafghan
-			</a><br/>
-			Hamid Afghan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
-			<a href="https://github.com/mostafa-A48">
-				<img src="https://avatars.githubusercontent.com/u/44500373?s=72&u=84bd57f5630642e458f45df90f213fe6ab119b4a&v=4" width="24" alt="Avatar of mostafa-A48"> mostafa-A48
-			</a><br/>
-			Mostafa Rezaie
-		</td>
-		<td>@rapiditeration </td>
-		<td><a href="https://twitter.com/Mostafa89988831">Mostafa89988831</a></td>
-		<td>Afghanistan</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>105</td>
-		<td>
-			<a href="https://github.com/HekmatSuha">
-				<img src="https://avatars.githubusercontent.com/u/76567609?s=72&v=4" width="24" alt="Avatar of HekmatSuha"> HekmatSuha
-			</a><br/>
-			HekmatSuha
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul-Afghanistan</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>106</td>
-		<td>
-			<a href="https://github.com/samimhamza7">
-				<img src="https://avatars.githubusercontent.com/u/60222233?s=72&u=7dbd76bfd1df5f83f3942e6290d07c2aea543b91&v=4" width="24" alt="Avatar of samimhamza7"> samimhamza7
-			</a><br/>
-			Samim Hamza
-		</td>
-		<td>@code9ine  </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>107</td>
-		<td>
-			<a href="https://github.com/masoodaslami">
-				<img src="https://avatars.githubusercontent.com/u/24816479?s=72&u=f0eed3082a40e9a0d19f3e9c7bda7e6e94f8a3b9&v=4" width="24" alt="Avatar of masoodaslami"> masoodaslami
-			</a><br/>
-			Mohammad Masood Aslami
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/masoodaslami">masoodaslami</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/hadi-2019">
-				<img src="https://avatars.githubusercontent.com/u/57652838?s=72&u=57bb9fbec8ff9fc144e197fac5afd1f9551b6fd1&v=4" width="24" alt="Avatar of hadi-2019"> hadi-2019
-			</a><br/>
-			Hadi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Hadi88693732">Hadi88693732</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>109</td>
-		<td>
-			<a href="https://github.com/FaizullahFirozi">
-				<img src="https://avatars.githubusercontent.com/u/50979169?s=72&u=959f7ac4c99692dcf3ce91f660f20afc7d49f1ee&v=4" width="24" alt="Avatar of FaizullahFirozi"> FaizullahFirozi
-			</a><br/>
-			Faizullah Firozi Wardak
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>110</td>
-		<td>
-			<a href="https://github.com/elyas-nawabi">
-				<img src="https://avatars.githubusercontent.com/u/37258366?s=72&u=d25123343067ea7c4891a6ed56188a30e7e50025&v=4" width="24" alt="Avatar of elyas-nawabi"> elyas-nawabi
-			</a><br/>
-			Elyas Nawabi
-		</td>
-		<td>Milestonetechs </td>
-		<td>No Twitter Username</td>
-		<td>kabul-afghanistan</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
-			<a href="https://github.com/mnizhadali-afg">
-				<img src="https://avatars.githubusercontent.com/u/64815288?s=72&u=ac104d93020249b34ea429eab594452c8fa0691d&v=4" width="24" alt="Avatar of mnizhadali-afg"> mnizhadali-afg
-			</a><br/>
-			Ali Mousavi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>112</td>
-		<td>
-			<a href="https://github.com/mrhusseiny">
-				<img src="https://avatars.githubusercontent.com/u/73812137?s=72&v=4" width="24" alt="Avatar of mrhusseiny"> mrhusseiny
-			</a><br/>
-			Reza
-		</td>
-		<td>The-code-giant </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>113</td>
-		<td>
-			<a href="https://github.com/Abdul-Wahab-Khan">
-				<img src="https://avatars.githubusercontent.com/u/38637988?s=72&u=7869333e42935b99a2f465f123244b87dad2ddc9&v=4" width="24" alt="Avatar of Abdul-Wahab-Khan"> Abdul-Wahab-Khan
-			</a><br/>
-			Abdul Wahab Khan
-		</td>
-		<td>Ngits </td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>114</td>
-		<td>
-			<a href="https://github.com/bezhanSalleh">
-				<img src="https://avatars.githubusercontent.com/u/10007504?s=72&v=4" width="24" alt="Avatar of bezhanSalleh"> bezhanSalleh
-			</a><br/>
-			Bezhan Salleh
-		</td>
-		<td>Roshan.af </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan, Kabul</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/tiyansoft">
-				<img src="https://avatars.githubusercontent.com/u/31818493?s=72&u=2a6dbf0c2bb26fed121fbbc783bdb5ceaa6cf216&v=4" width="24" alt="Avatar of tiyansoft"> tiyansoft
-			</a><br/>
-			Tiyan Software Development Company
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Herat - Afghanistan</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/usmanbasharmal123">
-				<img src="https://avatars.githubusercontent.com/u/54000575?s=72&u=678965ce909dfab86144a1eb2d68bb68797f6bd1&v=4" width="24" alt="Avatar of usmanbasharmal123"> usmanbasharmal123
-			</a><br/>
-			usmanBasharmal
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul,Afghanistan</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>117</td>
-		<td>
-			<a href="https://github.com/usmanbasharmal123">
-				<img src="https://avatars.githubusercontent.com/u/54000575?s=72&u=678965ce909dfab86144a1eb2d68bb68797f6bd1&v=4" width="24" alt="Avatar of usmanbasharmal123"> usmanbasharmal123
-			</a><br/>
-			usmanBasharmal
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul,Afghanistan</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>118</td>
-		<td>
-			<a href="https://github.com/Hurmatullah">
-				<img src="https://avatars.githubusercontent.com/u/31663895?s=72&u=aebea270ca333f6b9735bac18a95192e16dc7518&v=4" width="24" alt="Avatar of Hurmatullah"> Hurmatullah
-			</a><br/>
-			Hurmatullah
-		</td>
-		<td>Intelllectual Application & Product<br/></td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>119</td>
-		<td>
-			<a href="https://github.com/masjedi">
-				<img src="https://avatars.githubusercontent.com/u/36927494?s=72&u=cce999eea34263d66c9045c42c7efb578677a4e5&v=4" width="24" alt="Avatar of masjedi"> masjedi
-			</a><br/>
-			Masjedi Aqtash
-		</td>
-		<td>@zeersign </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>120</td>
-		<td>
-			<a href="https://github.com/nzfarhad">
-				<img src="https://avatars.githubusercontent.com/u/5116194?s=72&u=c8340f11448fa54bbd9cc6dc34e06f82920a3584&v=4" width="24" alt="Avatar of nzfarhad"> nzfarhad
-			</a><br/>
-			Sayed Farhad Nabizda
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mazar-e-sharif, Afghanistan</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>121</td>
-		<td>
-			<a href="https://github.com/ibrahimrahimi">
-				<img src="https://avatars.githubusercontent.com/u/38061603?s=72&u=0e4886c4da40378b5a38769f5b5bed7fa3be1a1b&v=4" width="24" alt="Avatar of ibrahimrahimi"> ibrahimrahimi
-			</a><br/>
-			Ibrahim Rahimi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
-			<a href="https://github.com/khaibaromari">
-				<img src="https://avatars.githubusercontent.com/u/62234350?s=72&u=aeb3e78a74cb72a0d81ef1afa3bf03ccb3ff3b24&v=4" width="24" alt="Avatar of khaibaromari"> khaibaromari
-			</a><br/>
-			Khaibar Omari
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Balkh, Afghanistan</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
-			<a href="https://github.com/MustafaZamani91">
-				<img src="https://avatars.githubusercontent.com/u/76998104?s=72&u=d83f567d52233496fea0cce3e247b60b721aaecf&v=4" width="24" alt="Avatar of MustafaZamani91"> MustafaZamani91
-			</a><br/>
-			Mustafa Zamani
-		</td>
-		<td>@ </td>
-		<td><a href="https://twitter.com/MustafaZamani91">MustafaZamani91</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>124</td>
-		<td>
-			<a href="https://github.com/unknown-21-m">
-				<img src="https://avatars.githubusercontent.com/u/76683054?s=72&v=4" width="24" alt="Avatar of unknown-21-m"> unknown-21-m
-			</a><br/>
-			Mansour Qaderi
-		</td>
-		<td>Anar Company </td>
-		<td>No Twitter Username</td>
-		<td>Herat-Afghanistan</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>125</td>
-		<td>
-			<a href="https://github.com/unknown-21-m">
-				<img src="https://avatars.githubusercontent.com/u/76683054?s=72&v=4" width="24" alt="Avatar of unknown-21-m"> unknown-21-m
-			</a><br/>
-			Mansour Qaderi
-		</td>
-		<td>Anar Company </td>
-		<td>No Twitter Username</td>
-		<td>Herat-Afghanistan</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>126</td>
-		<td>
-			<a href="https://github.com/zubairfarahi">
-				<img src="https://avatars.githubusercontent.com/u/11086632?s=72&u=7fecac17833425be5ef711eda83fe74f4a8c424c&v=4" width="24" alt="Avatar of zubairfarahi"> zubairfarahi
-			</a><br/>
-			zubairfarahi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>127</td>
-		<td>
-			<a href="https://github.com/Atefah">
-				<img src="https://avatars.githubusercontent.com/u/42426203?s=72&u=5d44512964fe4a684f58a69d38686081a6c69738&v=4" width="24" alt="Avatar of Atefah"> Atefah
-			</a><br/>
-			Atefah
-		</td>
-		<td>Codetoinspire </td>
-		<td>No Twitter Username</td>
-		<td>Herat Afghanistan</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>128</td>
-		<td>
-			<a href="https://github.com/ZabiObaidi">
-				<img src="https://avatars.githubusercontent.com/u/77543967?s=72&u=661eeab51d3bc7e1c2aa3b1e5f6ba798fb5e7cd8&v=4" width="24" alt="Avatar of ZabiObaidi"> ZabiObaidi
-			</a><br/>
-			Zabi Obaidi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lovely Afghanistan</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>129</td>
-		<td>
-			<a href="https://github.com/Salar-lodin786">
-				<img src="https://avatars.githubusercontent.com/u/85390429?s=72&u=6ef55b0cc7aa52b7106344531f60b5ba3b3f1ea5&v=4" width="24" alt="Avatar of Salar-lodin786"> Salar-lodin786
-			</a><br/>
-			Salar Lodin
-		</td>
-		<td>S1h </td>
-		<td><a href="https://twitter.com/Salarlodin78690">Salarlodin78690</a></td>
-		<td>Afghanistan</td>
-		<td>23</td>
+		<td>175</td>
 	</tr>
 	<tr>
 		<td>130</td>
 		<td>
-			<a href="https://github.com/dawoodemran">
-				<img src="https://avatars.githubusercontent.com/u/39809469?s=72&u=1a14fd1b5e4b58ff9b96ec69b4b4e7e977f93455&v=4" width="24" alt="Avatar of dawoodemran"> dawoodemran
+			<a href="https://github.com/eisafaqiri">
+				<img src="https://avatars.githubusercontent.com/u/56713919?s=72&u=041838d1f9c67ec2adad91f4f2b58790f0a96e5c&v=4" width="24" alt="Avatar of eisafaqiri"> eisafaqiri
 			</a><br/>
-			Dawood Emran
+			Eisa faqiri
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/DawoodEmran">DawoodEmran</a></td>
-		<td>kabul, Afghanistan</td>
-		<td>22</td>
+		<td><a href="https://twitter.com/eisafaqiri">eisafaqiri</a></td>
+		<td>Herat, Afghanistan</td>
+		<td>175</td>
 	</tr>
 	<tr>
 		<td>131</td>
 		<td>
-			<a href="https://github.com/HAMMER-OF-GOD">
-				<img src="https://avatars.githubusercontent.com/u/75710329?s=72&u=686ca8b9c7c18b1d8511f263dc1416f105410cd5&v=4" width="24" alt="Avatar of HAMMER-OF-GOD"> HAMMER-OF-GOD
+			<a href="https://github.com/EdrissAria">
+				<img src="https://avatars.githubusercontent.com/u/67925134?s=72&u=e7635116b8634630327d047280fda61031f2f373&v=4" width="24" alt="Avatar of EdrissAria"> EdrissAria
 			</a><br/>
-			JAIRO ANIVAL MAZELTOV
+			M.Edriss Aria
 		</td>
-		<td>Source Build/envsetup.sh </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>afghanistan,kabul</td>
-		<td>22</td>
+		<td>Afghanistan</td>
+		<td>171</td>
 	</tr>
 	<tr>
 		<td>132</td>
 		<td>
-			<a href="https://github.com/dawoodemran">
-				<img src="https://avatars.githubusercontent.com/u/39809469?s=72&u=1a14fd1b5e4b58ff9b96ec69b4b4e7e977f93455&v=4" width="24" alt="Avatar of dawoodemran"> dawoodemran
+			<a href="https://github.com/dghousi">
+				<img src="https://avatars.githubusercontent.com/u/8676919?s=72&u=af49171e0382fb94e9abd29d01390032e91117a2&v=4" width="24" alt="Avatar of dghousi"> dghousi
 			</a><br/>
-			Dawood Emran
+			Dawlatzai Ghousi
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/DawoodEmran">DawoodEmran</a></td>
-		<td>kabul, Afghanistan</td>
-		<td>22</td>
+		<td>Remote </td>
+		<td><a href="https://twitter.com/DGhousi">DGhousi</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>169</td>
 	</tr>
 	<tr>
 		<td>133</td>
 		<td>
-			<a href="https://github.com/abdullah-shahab">
-				<img src="https://avatars.githubusercontent.com/u/77187927?s=72&u=750865ca1608a6cc7effb56d0d5ea52ec864d94c&v=4" width="24" alt="Avatar of abdullah-shahab"> abdullah-shahab
+			<a href="https://github.com/musawerfatih">
+				<img src="https://avatars.githubusercontent.com/u/63827449?s=72&u=438bc99facb5894f97dc3f0ff168b3648d148fcf&v=4" width="24" alt="Avatar of musawerfatih"> musawerfatih
 			</a><br/>
-			No Name
+			Musawer Khan Fatih
 		</td>
-		<td>Hacking </td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>22</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Musawer_Fatih">Musawer_Fatih</a></td>
+		<td>Afghanistan</td>
+		<td>166</td>
 	</tr>
 	<tr>
 		<td>134</td>
 		<td>
-			<a href="https://github.com/FarhadAhmad">
-				<img src="https://avatars.githubusercontent.com/u/24881155?s=72&u=32f96e093895c05549826c3df097bed660bd7eec&v=4" width="24" alt="Avatar of FarhadAhmad"> FarhadAhmad
+			<a href="https://github.com/Sasan-Darwazi">
+				<img src="https://avatars.githubusercontent.com/u/120738958?s=72&u=7c7d75a6efa887bd257db4415460095d7f83dc6a&v=4" width="24" alt="Avatar of Sasan-Darwazi"> Sasan-Darwazi
 			</a><br/>
-			Farhad Ahmad
+			Sasan Darwazi
 		</td>
-		<td>Digital Consultancy Software Services<br/><br/></td>
-		<td><a href="https://twitter.com/Farhad_Ahmad10M">Farhad_Ahmad10M</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>22</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Kabul-AFG</td>
+		<td>164</td>
 	</tr>
 	<tr>
 		<td>135</td>
 		<td>
-			<a href="https://github.com/ahmadzai">
-				<img src="https://avatars.githubusercontent.com/u/1661188?s=72&v=4" width="24" alt="Avatar of ahmadzai"> ahmadzai
+			<a href="https://github.com/shadabwahidullah">
+				<img src="https://avatars.githubusercontent.com/u/51750930?s=72&u=be348840e9ad077c7d6b249d4f9d8258790a4e19&v=4" width="24" alt="Avatar of shadabwahidullah"> shadabwahidullah
 			</a><br/>
-			Wazir Khan
+			shadabwahidullah
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>21</td>
+		<td>Full-stack Software Developer </td>
+		<td><a href="https://twitter.com/Wahidul74626845">Wahidul74626845</a></td>
+		<td>Afghanistan</td>
+		<td>163</td>
 	</tr>
 	<tr>
 		<td>136</td>
 		<td>
-			<a href="https://github.com/Mojeeb-Rahman">
-				<img src="https://avatars.githubusercontent.com/u/14246811?s=72&u=59582619cb5426d29d6a446d6656649800904eb9&v=4" width="24" alt="Avatar of Mojeeb-Rahman"> Mojeeb-Rahman
+			<a href="https://github.com/afaisalsahar">
+				<img src="https://avatars.githubusercontent.com/u/13269591?s=72&u=6a454d3968792cfc6a789f695fdcab5621e73d2e&v=4" width="24" alt="Avatar of afaisalsahar"> afaisalsahar
 			</a><br/>
-			Mojeeb_Rahman
+			Ahmad Faisal Sahar
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>21</td>
+		<td>Kabul, Afghanistan</td>
+		<td>163</td>
 	</tr>
 	<tr>
 		<td>137</td>
 		<td>
-			<a href="https://github.com/absherzad">
-				<img src="https://avatars.githubusercontent.com/u/1332906?s=72&v=4" width="24" alt="Avatar of absherzad"> absherzad
+			<a href="https://github.com/TheEhsanSarshar">
+				<img src="https://avatars.githubusercontent.com/u/46188784?s=72&u=8c0b113fa95f0ed6e6e82a656a3a8bd13f09069f&v=4" width="24" alt="Avatar of TheEhsanSarshar"> TheEhsanSarshar
 			</a><br/>
-			Abdul Rahman Sherzad
+			Ehsan sarshar
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Herat, Afghanistan</td>
-		<td>20</td>
+		<td><a href="https://twitter.com/TheEhsanSarshar">TheEhsanSarshar</a></td>
+		<td>Afghanistan ( Remote )</td>
+		<td>160</td>
 	</tr>
 	<tr>
 		<td>138</td>
 		<td>
-			<a href="https://github.com/ArmanAmp4rator">
-				<img src="https://avatars.githubusercontent.com/u/71124533?s=72&u=f96a986e7a1fd4efb049f8291213ee86641924d7&v=4" width="24" alt="Avatar of ArmanAmp4rator"> ArmanAmp4rator
+			<a href="https://github.com/RasoulAskari">
+				<img src="https://avatars.githubusercontent.com/u/73556100?s=72&u=884d0626e4e6477a453725f1698cb22ca6030e53&v=4" width="24" alt="Avatar of RasoulAskari"> RasoulAskari
 			</a><br/>
-			Maishat arman
+			Debugger
 		</td>
-		<td>No Company</td>
+		<td>Code9ine </td>
 		<td>No Twitter Username</td>
-		<td>Kabul </td>
-		<td>20</td>
+		<td>Kabul, Afghanistan</td>
+		<td>156</td>
 	</tr>
 	<tr>
 		<td>139</td>
 		<td>
-			<a href="https://github.com/fbarikzehi">
-				<img src="https://avatars.githubusercontent.com/u/7451666?s=72&v=4" width="24" alt="Avatar of fbarikzehi"> fbarikzehi
+			<a href="https://github.com/SayeedMahdi">
+				<img src="https://avatars.githubusercontent.com/u/84064542?s=72&u=1b88bfd0de29f050622944afc084c0137fdaa80b&v=4" width="24" alt="Avatar of SayeedMahdi"> SayeedMahdi
 			</a><br/>
-			fereydoon barikzehi
+			Sayeed Mahdi Mousavi
 		</td>
-		<td>Freelance For Now </td>
+		<td>Tutia.ict.co </td>
 		<td>No Twitter Username</td>
-		<td>afghanistan</td>
-		<td>20</td>
+		<td>Herat, Afghanistan</td>
+		<td>153</td>
 	</tr>
 	<tr>
 		<td>140</td>
 		<td>
-			<a href="https://github.com/Ozair0">
-				<img src="https://avatars.githubusercontent.com/u/35186768?s=72&u=203301af19ff280021ff88f1b67b98cf0043124b&v=4" width="24" alt="Avatar of Ozair0"> Ozair0
+			<a href="https://github.com/Basir-Mohammadi">
+				<img src="https://avatars.githubusercontent.com/u/101289027?s=72&u=f396512787c6f93688a5fcb153bf2efce0132cae&v=4" width="24" alt="Avatar of Basir-Mohammadi"> Basir-Mohammadi
 			</a><br/>
-			Ozair Farahi
+			Basir Mohammadi
 		</td>
-		<td>Gtech </td>
-		<td>No Twitter Username</td>
+		<td>Full Stack Developer </td>
+		<td><a href="https://twitter.com/basirahmad1312">basirahmad1312</a></td>
 		<td>Kabul, Afghanistan</td>
-		<td>20</td>
+		<td>151</td>
 	</tr>
 	<tr>
 		<td>141</td>
 		<td>
-			<a href="https://github.com/FrashtaAnsari">
-				<img src="https://avatars.githubusercontent.com/u/77612224?s=72&u=ca3858cbd49fc46c3ebb401a7bb6a74148f2f92c&v=4" width="24" alt="Avatar of FrashtaAnsari"> FrashtaAnsari
+			<a href="https://github.com/hussainHakimi">
+				<img src="https://avatars.githubusercontent.com/u/73498440?s=72&u=e3177c9e3350f773ef3195752e1028a75838fee0&v=4" width="24" alt="Avatar of hussainHakimi"> hussainHakimi
 			</a><br/>
-			فرشته انصاری
+			Hussain Hakimi
 		</td>
-		<td>Programer </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>20</td>
+		<td>Anarsoft </td>
+		<td><a href="https://twitter.com/HussainHakimi33">HussainHakimi33</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>144</td>
 	</tr>
 	<tr>
 		<td>142</td>
 		<td>
-			<a href="https://github.com/MohammadSamirAskan">
-				<img src="https://avatars.githubusercontent.com/u/76533128?s=72&v=4" width="24" alt="Avatar of MohammadSamirAskan"> MohammadSamirAskan
+			<a href="https://github.com/kazim-kayhan">
+				<img src="https://avatars.githubusercontent.com/u/70243719?s=72&u=9a4d7913f613175d07ffb7c00de4d706c84038db&v=4" width="24" alt="Avatar of kazim-kayhan"> kazim-kayhan
 			</a><br/>
-			Mohammad Samir Ashkan
+			Kazim Kayhan
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>19</td>
+		<td>The-code-giant </td>
+		<td><a href="https://twitter.com/twit4kazim">twit4kazim</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>142</td>
 	</tr>
 	<tr>
 		<td>143</td>
 		<td>
-			<a href="https://github.com/mozaffari">
-				<img src="https://avatars.githubusercontent.com/u/8011883?s=72&u=fc4ebee73065fcb1b0790e0bc6de3cccc6712bf6&v=4" width="24" alt="Avatar of mozaffari"> mozaffari
+			<a href="https://github.com/SulimanHakimi">
+				<img src="https://avatars.githubusercontent.com/u/122719578?s=72&u=c80851d99a6548e792d46cacb5df297ae45776f6&v=4" width="24" alt="Avatar of SulimanHakimi"> SulimanHakimi
 			</a><br/>
-			Abdol Hussain Mozaffari
+			Suliman Hakimi 
 		</td>
-		<td>Microcis </td>
-		<td><a href="https://twitter.com/AbdolHussain">AbdolHussain</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>19</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>kabul afghanistan</td>
+		<td>142</td>
 	</tr>
 	<tr>
 		<td>144</td>
 		<td>
-			<a href="https://github.com/WajihaNiazi">
-				<img src="https://avatars.githubusercontent.com/u/42426067?s=72&u=ab197c5cb7dbd1b4e4d359b0a2efedb4a6320cd1&v=4" width="24" alt="Avatar of WajihaNiazi"> WajihaNiazi
+			<a href="https://github.com/rouckay">
+				<img src="https://avatars.githubusercontent.com/u/55535348?s=72&v=4" width="24" alt="Avatar of rouckay"> rouckay
 			</a><br/>
-			WajihaNiazi
+			Farhad Rahmani
 		</td>
-		<td>Codetoinspire </td>
+		<td>Dev </td>
 		<td>No Twitter Username</td>
-		<td>Herat,, Afghanistan</td>
-		<td>19</td>
+		<td>Kabul khoshal khan</td>
+		<td>138</td>
 	</tr>
 	<tr>
 		<td>145</td>
 		<td>
-			<a href="https://github.com/rahelajawadi">
-				<img src="https://avatars.githubusercontent.com/u/59908134?s=72&v=4" width="24" alt="Avatar of rahelajawadi"> rahelajawadi
+			<a href="https://github.com/Armancollab">
+				<img src="https://avatars.githubusercontent.com/u/109197285?s=72&u=135f05a6ebbf0ecae709842658a46ad69590cbab&v=4" width="24" alt="Avatar of Armancollab"> Armancollab
 			</a><br/>
-			No Name
+			Arman Mustamandyar
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan </td>
-		<td>19</td>
+		<td>Kabul, Afghanistan</td>
+		<td>137</td>
 	</tr>
 	<tr>
 		<td>146</td>
 		<td>
-			<a href="https://github.com/MahdiJafari1">
-				<img src="https://avatars.githubusercontent.com/u/60805406?s=72&u=e4eac3983ac8d6e0e676e76ee852ab780da91ff2&v=4" width="24" alt="Avatar of MahdiJafari1"> MahdiJafari1
+			<a href="https://github.com/basirsharif">
+				<img src="https://avatars.githubusercontent.com/u/19546827?s=72&u=9c8f528a856c7a3273284ace77a563960181643f&v=4" width="24" alt="Avatar of basirsharif"> basirsharif
 			</a><br/>
-			Mahdi Jafari
+			Basir sharif
 		</td>
-		<td>Iap.af </td>
-		<td><a href="https://twitter.com/MahdiJa27091848">MahdiJa27091848</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>18</td>
+		<td>Bsapps </td>
+		<td><a href="https://twitter.com/basirsharif">basirsharif</a></td>
+		<td>Afghanistan </td>
+		<td>135</td>
 	</tr>
 	<tr>
 		<td>147</td>
 		<td>
-			<a href="https://github.com/RamezRayyan48">
-				<img src="https://avatars.githubusercontent.com/u/60462845?s=72&u=bcbf58239cfe0069e3e62f301efeec10e09250c0&v=4" width="24" alt="Avatar of RamezRayyan48"> RamezRayyan48
+			<a href="https://github.com/afghanelyas">
+				<img src="https://avatars.githubusercontent.com/u/79163050?s=72&u=f0aad9f97abb4bbca57313beb8c9005ad8fd237f&v=4" width="24" alt="Avatar of afghanelyas"> afghanelyas
 			</a><br/>
-			Ramez A. Rayyan
+			Elyas Afghan
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ghazni, Afghanistan</td>
-		<td>18</td>
+		<td>Kabul Polytechnic University </td>
+		<td><a href="https://twitter.com/AfghanElyas1">AfghanElyas1</a></td>
+		<td>Kabul Afghanistan</td>
+		<td>135</td>
 	</tr>
 	<tr>
 		<td>148</td>
 		<td>
-			<a href="https://github.com/omidomari786786">
-				<img src="https://avatars.githubusercontent.com/u/67055552?s=72&v=4" width="24" alt="Avatar of omidomari786786"> omidomari786786
+			<a href="https://github.com/lssibb">
+				<img src="https://avatars.githubusercontent.com/u/114455833?s=72&u=4830548323549220bae441488218b6f569bf1072&v=4" width="24" alt="Avatar of lssibb"> lssibb
 			</a><br/>
-			Omid Omari
+			ARS
 		</td>
-		<td>No Company</td>
+		<td>Ltpu </td>
 		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>18</td>
+		<td>Kabul Afganistan</td>
+		<td>131</td>
 	</tr>
 	<tr>
 		<td>149</td>
 		<td>
-			<a href="https://github.com/LoolzMe">
-				<img src="https://avatars.githubusercontent.com/u/70146541?s=72&u=a82847554c2f65f896c12a5aad64dc888eac5dd9&v=4" width="24" alt="Avatar of LoolzMe"> LoolzMe
+			<a href="https://github.com/Hamid313-coder">
+				<img src="https://avatars.githubusercontent.com/u/77102797?s=72&u=0e6e22ad6abe71d2fd8f3bdd3269e9982c9ea8b4&v=4" width="24" alt="Avatar of Hamid313-coder"> Hamid313-coder
 			</a><br/>
-			LolzI
+			Hamid Hussainy
 		</td>
-		<td>Robot L. Corporation </td>
-		<td><a href="https://twitter.com/realDonaldTrump">realDonaldTrump</a></td>
-		<td>afghanistan, "Shalashaska"</td>
-		<td>18</td>
+		<td>Tutia Tech </td>
+		<td>No Twitter Username</td>
+		<td>Herat, Afghanistan</td>
+		<td>129</td>
 	</tr>
 	<tr>
 		<td>150</td>
 		<td>
-			<a href="https://github.com/panjsher">
-				<img src="https://avatars.githubusercontent.com/u/54968909?s=72&u=a2502006f6baae02f460b26b290357bbf25d1c6a&v=4" width="24" alt="Avatar of panjsher"> panjsher
+			<a href="https://github.com/akbari4yaseen">
+				<img src="https://avatars.githubusercontent.com/u/30418813?s=72&u=0acf3c55d394caeb1fb470f123ba2124e8e77102&v=4" width="24" alt="Avatar of akbari4yaseen"> akbari4yaseen
 			</a><br/>
-			Mr Af2
+			Yaseen Akbari 
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>17</td>
+		<td><a href="https://twitter.com/AkbariYaseen">AkbariYaseen</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>129</td>
 	</tr>
 	<tr>
 		<td>151</td>
 		<td>
-			<a href="https://github.com/Zinatullah">
-				<img src="https://avatars.githubusercontent.com/u/20598492?s=72&u=5df4c4ef0c392cd58ddf181a05cb29b2cb76883f&v=4" width="24" alt="Avatar of Zinatullah"> Zinatullah
+			<a href="https://github.com/akbari4yaseen">
+				<img src="https://avatars.githubusercontent.com/u/30418813?s=72&u=0acf3c55d394caeb1fb470f123ba2124e8e77102&v=4" width="24" alt="Avatar of akbari4yaseen"> akbari4yaseen
 			</a><br/>
-			Zinatullah AKRAMI
+			Yaseen Akbari 
 		</td>
-		<td>Karyal </td>
-		<td>No Twitter Username</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AkbariYaseen">AkbariYaseen</a></td>
 		<td>Kabul, Afghanistan</td>
-		<td>17</td>
+		<td>129</td>
 	</tr>
 	<tr>
 		<td>152</td>
 		<td>
-			<a href="https://github.com/Saboor-Hakimi">
-				<img src="https://avatars.githubusercontent.com/u/44523544?s=72&v=4" width="24" alt="Avatar of Saboor-Hakimi"> Saboor-Hakimi
+			<a href="https://github.com/Stalol77">
+				<img src="https://avatars.githubusercontent.com/u/95977677?s=72&u=d288281811c43c7a3e2626d5a6d5940b23866474&v=4" width="24" alt="Avatar of Stalol77"> Stalol77
 			</a><br/>
-			No Name
+			Stalol
 		</td>
-		<td>Iap </td>
+		<td>Myballscorp </td>
 		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>17</td>
+		<td>Afghanistan, Kabul, Captured Territory of</td>
+		<td>126</td>
 	</tr>
 	<tr>
 		<td>153</td>
 		<td>
-			<a href="https://github.com/EngMonikaMohammadi">
-				<img src="https://avatars.githubusercontent.com/u/74226136?s=72&u=f2ad935df75bd4c52ebe511ebbdc573d5713eabd&v=4" width="24" alt="Avatar of EngMonikaMohammadi"> EngMonikaMohammadi
+			<a href="https://github.com/MahdiJafari1">
+				<img src="https://avatars.githubusercontent.com/u/60805406?s=72&u=502580e218cae2907e2eea0865ef23e568a276f4&v=4" width="24" alt="Avatar of MahdiJafari1"> MahdiJafari1
 			</a><br/>
-			Monika
+			Mahdi Jafari
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Herat,Afghanistan</td>
-		<td>17</td>
+		<td>Legalkite </td>
+		<td><a href="https://twitter.com/TheMahdiJafari">TheMahdiJafari</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>125</td>
 	</tr>
 	<tr>
 		<td>154</td>
 		<td>
-			<a href="https://github.com/MAHDIA001">
-				<img src="https://avatars.githubusercontent.com/u/59234266?s=72&v=4" width="24" alt="Avatar of MAHDIA001"> MAHDIA001
+			<a href="https://github.com/TechnicalZahid">
+				<img src="https://avatars.githubusercontent.com/u/101432093?s=72&u=b5242fe2593d48d0ee99457bf0539eb60a95ca2a&v=4" width="24" alt="Avatar of TechnicalZahid"> TechnicalZahid
 			</a><br/>
-			No Name
+			Technical Zahid
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mahdia00734562">mahdia00734562</a></td>
-		<td>kabul afghanistan</td>
-		<td>17</td>
+		<td>@muslimtech786 </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>125</td>
 	</tr>
 	<tr>
 		<td>155</td>
+		<td>
+			<a href="https://github.com/hanifhefaz">
+				<img src="https://avatars.githubusercontent.com/u/41760085?s=72&u=361298b6fd8bfca82c9d5a7c748f57d8f73844d2&v=4" width="24" alt="Avatar of hanifhefaz"> hanifhefaz
+			</a><br/>
+			Hanif Hefaz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>122</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>
+			<a href="https://github.com/ehsanbigzad">
+				<img src="https://avatars.githubusercontent.com/u/35545441?s=72&u=2324360148ef1d6a7cbe00d1a4a70b5d166d9268&v=4" width="24" alt="Avatar of ehsanbigzad"> ehsanbigzad
+			</a><br/>
+			Ehsan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>157</td>
+		<td>
+			<a href="https://github.com/ahzia">
+				<img src="https://avatars.githubusercontent.com/u/32243043?s=72&u=a86a0bb1289163ea865d017201969ddf2d1d5a37&v=4" width="24" alt="Avatar of ahzia"> ahzia
+			</a><br/>
+			Ahmad Zia Yousufi
+		</td>
+		<td>@gitstarthq  </td>
+		<td><a href="https://twitter.com/ziayousofi">ziayousofi</a></td>
+		<td>Kabul,Afghanistan</td>
+		<td>119</td>
+	</tr>
+	<tr>
+		<td>158</td>
+		<td>
+			<a href="https://github.com/Ali-hadi1">
+				<img src="https://avatars.githubusercontent.com/u/76496433?s=72&v=4" width="24" alt="Avatar of Ali-hadi1"> Ali-hadi1
+			</a><br/>
+			Ali hadi
+		</td>
+		<td>Netlinks Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Kabul - Afghanistan</td>
+		<td>118</td>
+	</tr>
+	<tr>
+		<td>159</td>
+		<td>
+			<a href="https://github.com/Ali-hadi1">
+				<img src="https://avatars.githubusercontent.com/u/76496433?s=72&v=4" width="24" alt="Avatar of Ali-hadi1"> Ali-hadi1
+			</a><br/>
+			Ali hadi
+		</td>
+		<td>Netlinks Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Kabul - Afghanistan</td>
+		<td>118</td>
+	</tr>
+	<tr>
+		<td>160</td>
+		<td>
+			<a href="https://github.com/SoHailaNekHat">
+				<img src="https://avatars.githubusercontent.com/u/102651144?s=72&u=b417c99854b4e49fce6cc092ac37653389ab4423&v=4" width="24" alt="Avatar of SoHailaNekHat"> SoHailaNekHat
+			</a><br/>
+			SoHaila NekHat
+		</td>
+		<td>Kandahar University </td>
+		<td><a href="https://twitter.com/noshinnekhat">noshinnekhat</a></td>
+		<td>Kandahar </td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>161</td>
+		<td>
+			<a href="https://github.com/azizyarzai">
+				<img src="https://avatars.githubusercontent.com/u/46055472?s=72&u=7e48299df81ddeef219bf0bfef7d56f69ebd03a5&v=4" width="24" alt="Avatar of azizyarzai"> azizyarzai
+			</a><br/>
+			Aziz Rahman Yarzai
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>111</td>
+	</tr>
+	<tr>
+		<td>162</td>
+		<td>
+			<a href="https://github.com/naqibhakimi">
+				<img src="https://avatars.githubusercontent.com/u/8378897?s=72&u=72b602b09a960b50b6c2e2dab1e937d412f15c69&v=4" width="24" alt="Avatar of naqibhakimi"> naqibhakimi
+			</a><br/>
+			Naqib Hakimi
+		</td>
+		<td>@zenpro-io </td>
+		<td>No Twitter Username</td>
+		<td>Kabul , Afghanistan</td>
+		<td>109</td>
+	</tr>
+	<tr>
+		<td>163</td>
+		<td>
+			<a href="https://github.com/fatimarezaie1">
+				<img src="https://avatars.githubusercontent.com/u/111042279?s=72&u=0b360cf244a456c0164247066e0a2d0d7381997e&v=4" width="24" alt="Avatar of fatimarezaie1"> fatimarezaie1
+			</a><br/>
+			Fatima
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>kabul</td>
+		<td>109</td>
+	</tr>
+	<tr>
+		<td>164</td>
+		<td>
+			<a href="https://github.com/fatimarezaie1">
+				<img src="https://avatars.githubusercontent.com/u/111042279?s=72&u=0b360cf244a456c0164247066e0a2d0d7381997e&v=4" width="24" alt="Avatar of fatimarezaie1"> fatimarezaie1
+			</a><br/>
+			Fatima
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>kabul</td>
+		<td>109</td>
+	</tr>
+	<tr>
+		<td>165</td>
+		<td>
+			<a href="https://github.com/janabdullahi1">
+				<img src="https://avatars.githubusercontent.com/u/132326707?s=72&v=4" width="24" alt="Avatar of janabdullahi1"> janabdullahi1
+			</a><br/>
+			hamed jan abdullahi
+		</td>
+		<td>Netlinks Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan</td>
+		<td>107</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
+			<a href="https://github.com/afgprogrammer">
+				<img src="https://avatars.githubusercontent.com/u/17293422?s=72&u=5bef2b954c20361dcc830bf4b4038256844ca5d3&v=4" width="24" alt="Avatar of afgprogrammer"> afgprogrammer
+			</a><br/>
+			Mohammad Rahmani
+		</td>
+		<td>@openafg </td>
+		<td><a href="https://twitter.com/afgprogrammer">afgprogrammer</a></td>
+		<td> Kabul, Afghanistan</td>
+		<td>103</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>
+			<a href="https://github.com/ahmadjoya">
+				<img src="https://avatars.githubusercontent.com/u/35627961?s=72&u=e8e103c12fddf7e0f0fc21d47be081e0257e06fa&v=4" width="24" alt="Avatar of ahmadjoya"> ahmadjoya
+			</a><br/>
+			Ahmad Joya
+		</td>
+		<td>Softwareship-io </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>103</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
+			<a href="https://github.com/FawziaAkbari">
+				<img src="https://avatars.githubusercontent.com/u/57459554?s=72&u=ec18d785233fcbd1b67272082df917bfb3d2f8f1&v=4" width="24" alt="Avatar of FawziaAkbari"> FawziaAkbari
+			</a><br/>
+			FawziaAkbari
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AkbariFawzia">AkbariFawzia</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>103</td>
+	</tr>
+	<tr>
+		<td>169</td>
+		<td>
+			<a href="https://github.com/ZubairOmer">
+				<img src="https://avatars.githubusercontent.com/u/83947921?s=72&u=64169a07fdbeff84ffb87ac2b868fe1ec2562565&v=4" width="24" alt="Avatar of ZubairOmer"> ZubairOmer
+			</a><br/>
+			Zubair Omer
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan</td>
+		<td>101</td>
+	</tr>
+	<tr>
+		<td>170</td>
+		<td>
+			<a href="https://github.com/Ali-Aref">
+				<img src="https://avatars.githubusercontent.com/u/61370091?s=72&u=79d3aea8e98477370975503314d50212cdcc3394&v=4" width="24" alt="Avatar of Ali-Aref"> Ali-Aref
+			</a><br/>
+			Ali Aref
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan</td>
+		<td>101</td>
+	</tr>
+	<tr>
+		<td>171</td>
+		<td>
+			<a href="https://github.com/HajiRohullah">
+				<img src="https://avatars.githubusercontent.com/u/59381814?s=72&u=28ebf7a248546dba431f255b9585b6cd201845c7&v=4" width="24" alt="Avatar of HajiRohullah"> HajiRohullah
+			</a><br/>
+			Rohullah Hussaini
+		</td>
+		<td>@code9ine </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>
+			<a href="https://github.com/besmillahibrahimi">
+				<img src="https://avatars.githubusercontent.com/u/38233951?s=72&u=6a81afd02f54f4a73cec8fc1839d87b83d007635&v=4" width="24" alt="Avatar of besmillahibrahimi"> besmillahibrahimi
+			</a><br/>
+			Besmillah Ibrahimi
+		</td>
+		<td>Ast Fartak </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afganistan</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>
+			<a href="https://github.com/Inayatullahsh">
+				<img src="https://avatars.githubusercontent.com/u/47157614?s=72&u=2ddea21c40744b014fca98bf30d0ec6379c2bb1e&v=4" width="24" alt="Avatar of Inayatullahsh"> Inayatullahsh
+			</a><br/>
+			InayatUllah
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/InayatUllahShi1">InayatUllahShi1</a></td>
+		<td>Afghanistan</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>174</td>
+		<td>
+			<a href="https://github.com/NaveedAhmadHematmal">
+				<img src="https://avatars.githubusercontent.com/u/38671143?s=72&u=cb70b09ef5eace25d2ec503cd96b058d799a51f6&v=4" width="24" alt="Avatar of NaveedAhmadHematmal"> NaveedAhmadHematmal
+			</a><br/>
+			Naveed Ahmad Hematmal
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/NaveedHematmal">NaveedHematmal</a></td>
+		<td>Afghanistan</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
+			<a href="https://github.com/EhsanHasin">
+				<img src="https://avatars.githubusercontent.com/u/32514844?s=72&u=798420ad4804928bee0b053d9b6be6b67c39e937&v=4" width="24" alt="Avatar of EhsanHasin"> EhsanHasin
+			</a><br/>
+			Ehsan Hasin
+		</td>
+		<td>Asooda Owar </td>
+		<td><a href="https://twitter.com/EhsanHasin">EhsanHasin</a></td>
+		<td>Herat - Afghanistan</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>176</td>
+		<td>
+			<a href="https://github.com/Parvanah">
+				<img src="https://avatars.githubusercontent.com/u/103665873?s=72&v=4" width="24" alt="Avatar of Parvanah"> Parvanah
+			</a><br/>
+			parwana omarzai
+		</td>
+		<td>Kandahar University </td>
+		<td>No Twitter Username</td>
+		<td>kandahar</td>
+		<td>95</td>
+	</tr>
+	<tr>
+		<td>177</td>
+		<td>
+			<a href="https://github.com/Ahmadgul12">
+				<img src="https://avatars.githubusercontent.com/u/87373395?s=72&u=cdffa92c6f82c97c03389e968912f8f1c429347b&v=4" width="24" alt="Avatar of Ahmadgul12"> Ahmadgul12
+			</a><br/>
+			AhmadGul
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>95</td>
+	</tr>
+	<tr>
+		<td>178</td>
+		<td>
+			<a href="https://github.com/Qasim345">
+				<img src="https://avatars.githubusercontent.com/u/69038179?s=72&u=1b65b8c2d8e1831ab51422e7baa4df910b603f69&v=4" width="24" alt="Avatar of Qasim345"> Qasim345
+			</a><br/>
+			Qasim Sarwari
+		</td>
+		<td>Sholgara </td>
+		<td><a href="https://twitter.com/QasimSarwary3">QasimSarwary3</a></td>
+		<td>Sholgara Balkh Afghanistan</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
+			<a href="https://github.com/jalal1379">
+				<img src="https://avatars.githubusercontent.com/u/126975214?s=72&v=4" width="24" alt="Avatar of jalal1379"> jalal1379
+			</a><br/>
+			M. Jalal Ahmadi 
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/JalalAh78951382">JalalAh78951382</a></td>
+		<td>Kabul Afghanistan</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>180</td>
+		<td>
+			<a href="https://github.com/jalal1379">
+				<img src="https://avatars.githubusercontent.com/u/126975214?s=72&v=4" width="24" alt="Avatar of jalal1379"> jalal1379
+			</a><br/>
+			M. Jalal Ahmadi 
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/JalalAh78951382">JalalAh78951382</a></td>
+		<td>Kabul Afghanistan</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>181</td>
+		<td>
+			<a href="https://github.com/habibmhamadi">
+				<img src="https://avatars.githubusercontent.com/u/34987353?s=72&u=2ac44073d4e79348c332e68700fc30323f4cad4c&v=4" width="24" alt="Avatar of habibmhamadi"> habibmhamadi
+			</a><br/>
+			Habibullah Mohammadi
+		</td>
+		<td>Netlinks Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>182</td>
+		<td>
+			<a href="https://github.com/Abdulahadahmadi">
+				<img src="https://avatars.githubusercontent.com/u/62951574?s=72&u=05a60fc770ddad64f20851523f52947a3f07cebc&v=4" width="24" alt="Avatar of Abdulahadahmadi"> Abdulahadahmadi
+			</a><br/>
+			Ahad Ahmadi
+		</td>
+		<td>@netlinksaf </td>
+		<td><a href="https://twitter.com/codewithahad">codewithahad</a></td>
+		<td>Kabul Afghanistan </td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>183</td>
+		<td>
+			<a href="https://github.com/Zachariah-Farhang">
+				<img src="https://avatars.githubusercontent.com/u/69781394?s=72&u=6a83fbacef4b3a71d84938b68541b011c6415659&v=4" width="24" alt="Avatar of Zachariah-Farhang"> Zachariah-Farhang
+			</a><br/>
+			Zachariah Farhang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Herat-Afghanistan</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>184</td>
+		<td>
+			<a href="https://github.com/ab-etemadi">
+				<img src="https://avatars.githubusercontent.com/u/80175309?s=72&u=42c3befed348548514751ef34ae6e8af33d054cb&v=4" width="24" alt="Avatar of ab-etemadi"> ab-etemadi
+			</a><br/>
+			Ab Etemadi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ab_etemadi">ab_etemadi</a></td>
+		<td>Herat, Afghanistan</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>185</td>
+		<td>
+			<a href="https://github.com/SayedHassan-Hussaini">
+				<img src="https://avatars.githubusercontent.com/u/83859543?s=72&u=29e2370647b0db5f19941da4710c330356891e3a&v=4" width="24" alt="Avatar of SayedHassan-Hussaini"> SayedHassan-Hussaini
+			</a><br/>
+			Sayed Hassan Hussaini
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/SayedHassan_H">SayedHassan_H</a></td>
+		<td>Herat, Afganistan</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>186</td>
+		<td>
+			<a href="https://github.com/mohammadhashemdev">
+				<img src="https://avatars.githubusercontent.com/u/78247944?s=72&u=cf5d40e0b1757898e0daf5874c828305263095d4&v=4" width="24" alt="Avatar of mohammadhashemdev"> mohammadhashemdev
+			</a><br/>
+			Mohammad Hashem
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>187</td>
+		<td>
+			<a href="https://github.com/Syed-Mujtaba-Mussavi">
+				<img src="https://avatars.githubusercontent.com/u/109266411?s=72&u=c1e7d7fa4f3e474f58548909c7136489341654ab&v=4" width="24" alt="Avatar of Syed-Mujtaba-Mussavi"> Syed-Mujtaba-Mussavi
+			</a><br/>
+			syed mujtaba mussavi
+		</td>
+		<td>Toptech Technology Services Company<br/></td>
+		<td>No Twitter Username</td>
+		<td>Herat, Afghanistan</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>188</td>
+		<td>
+			<a href="https://github.com/hamida-ashna">
+				<img src="https://avatars.githubusercontent.com/u/75003524?s=72&u=2989d8a20ca934e6eb5ab293587bfad8310729e3&v=4" width="24" alt="Avatar of hamida-ashna"> hamida-ashna
+			</a><br/>
+			Hamida Ashna
+		</td>
+		<td>Kite Runner </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>88</td>
+	</tr>
+	<tr>
+		<td>189</td>
+		<td>
+			<a href="https://github.com/iamaliataie">
+				<img src="https://avatars.githubusercontent.com/u/67245165?s=72&u=43b2bb1838862ca84db0521e547409c3c6a0dde4&v=4" width="24" alt="Avatar of iamaliataie"> iamaliataie
+			</a><br/>
+			Ali Ahmad Ataie
+		</td>
+		<td>Netlinks </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
+			<a href="https://github.com/mohammadjannaser">
+				<img src="https://avatars.githubusercontent.com/u/31328499?s=72&u=65776c75c174ce1bf3d19ad59a96781197aebbe7&v=4" width="24" alt="Avatar of mohammadjannaser"> mohammadjannaser
+			</a><br/>
+			mohammad jan naser
+		</td>
+		<td>Softelino </td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>191</td>
+		<td>
+			<a href="https://github.com/hojjatmahdave">
+				<img src="https://avatars.githubusercontent.com/u/75361451?s=72&u=1522fc097ecda7228c90644c063ac311d67140cb&v=4" width="24" alt="Avatar of hojjatmahdave"> hojjatmahdave
+			</a><br/>
+			Mohammad Hojjat 
+		</td>
+		<td>Tanbali.com </td>
+		<td><a href="https://twitter.com/MohammadHojja12">MohammadHojja12</a></td>
+		<td>HERAT , Herat , Zamanjan street .</td>
+		<td>86</td>
+	</tr>
+	<tr>
+		<td>192</td>
+		<td>
+			<a href="https://github.com/MustafaAswadi">
+				<img src="https://avatars.githubusercontent.com/u/73468393?s=72&u=bd388bbf1e338d1da72730268e52cb442d022dc0&v=4" width="24" alt="Avatar of MustafaAswadi"> MustafaAswadi
+			</a><br/>
+			Mustafa Aswadi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MustafaAswadi">MustafaAswadi</a></td>
+		<td>Herat, Afghanistan</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>193</td>
+		<td>
+			<a href="https://github.com/HLS706">
+				<img src="https://avatars.githubusercontent.com/u/118651197?s=72&u=27bd7060151ae2a3b6dc24b4270d2386db18697d&v=4" width="24" alt="Avatar of HLS706"> HLS706
+			</a><br/>
+			HAMAYON
+		</td>
+		<td>Hamayonoo706@gmail.c </td>
+		<td>No Twitter Username</td>
+		<td>AFGHANISTAN</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>194</td>
+		<td>
+			<a href="https://github.com/HanifaTavassoli">
+				<img src="https://avatars.githubusercontent.com/u/74895465?s=72&u=92accd4791138fb4e7e78b09ce873c60f97d787f&v=4" width="24" alt="Avatar of HanifaTavassoli"> HanifaTavassoli
+			</a><br/>
+			Hanifa Tavassoli
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/hanifa10855351">hanifa10855351</a></td>
+		<td>Afghanistan</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>195</td>
+		<td>
+			<a href="https://github.com/abubaker47">
+				<img src="https://avatars.githubusercontent.com/u/9978417?s=72&u=16e89fc09eaef2586957388895ec3e0f587add6d&v=4" width="24" alt="Avatar of abubaker47"> abubaker47
+			</a><br/>
+			Faisal Abubaker
+		</td>
+		<td>Elitech </td>
+		<td><a href="https://twitter.com/a_faisal47">a_faisal47</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>196</td>
+		<td>
+			<a href="https://github.com/Abdullatif-Erfan">
+				<img src="https://avatars.githubusercontent.com/u/60866963?s=72&u=4d246051e76a1d752e889dc6b11a3d97c7bde2d3&v=4" width="24" alt="Avatar of Abdullatif-Erfan"> Abdullatif-Erfan
+			</a><br/>
+			Abdul Latif Erfan
+		</td>
+		<td>National Development Corporation </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>197</td>
+		<td>
+			<a href="https://github.com/JawadErfani01">
+				<img src="https://avatars.githubusercontent.com/u/56750602?s=72&u=7b54b93dee9ec7c73cf0578192b0794ba3c585eb&v=4" width="24" alt="Avatar of JawadErfani01"> JawadErfani01
+			</a><br/>
+			Jawad Erfani
+		</td>
+		<td>Https://rahanet.af/ </td>
+		<td><a href="https://twitter.com/JawadErfani01">JawadErfani01</a></td>
+		<td>Herat,Afghanistan</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>198</td>
+		<td>
+			<a href="https://github.com/rahmanrezaee">
+				<img src="https://avatars.githubusercontent.com/u/37028113?s=72&u=7096214e723210da9db8e83c81f60211059e4d6d&v=4" width="24" alt="Avatar of rahmanrezaee"> rahmanrezaee
+			</a><br/>
+			Rahmanrezaee
+		</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>199</td>
+		<td>
+			<a href="https://github.com/Wahab-Adil">
+				<img src="https://avatars.githubusercontent.com/u/115516734?s=72&u=f2b1fb25e06eb80c978b554135417c81cc280ae9&v=4" width="24" alt="Avatar of Wahab-Adil"> Wahab-Adil
+			</a><br/>
+			Wahab Adil
+		</td>
+		<td>Student At Kdr University,afghanist<br/></td>
+		<td>No Twitter Username</td>
+		<td>Helmand,Afghanistan</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
+			<a href="https://github.com/miftah1991">
+				<img src="https://avatars.githubusercontent.com/u/26737538?s=72&u=64e85643a013c23afc656eac9f8b0f55c495e5f9&v=4" width="24" alt="Avatar of miftah1991"> miftah1991
+			</a><br/>
+			Miftah Amin
+		</td>
+		<td>Microverse </td>
+		<td><a href="https://twitter.com/miftah_amin1991">miftah_amin1991</a></td>
+		<td>Afghanistan</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>201</td>
+		<td>
+			<a href="https://github.com/ashrafomid">
+				<img src="https://avatars.githubusercontent.com/u/55034289?s=72&u=ea9daf239455008ab2e8483a52c2609d22ab0a97&v=4" width="24" alt="Avatar of ashrafomid"> ashrafomid
+			</a><br/>
+			Mohammad Ashraf
+		</td>
+		<td>Codingrah </td>
+		<td>No Twitter Username</td>
+		<td>Kabul - Afghanistan</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>
+			<a href="https://github.com/obaidahmadzai">
+				<img src="https://avatars.githubusercontent.com/u/95979473?s=72&u=a60e4c04ece017930a367aba1986caa652d840be&v=4" width="24" alt="Avatar of obaidahmadzai"> obaidahmadzai
+			</a><br/>
+			Obaidullah Ahmadzai
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
+			<a href="https://github.com/Rohullah-Sarabi">
+				<img src="https://avatars.githubusercontent.com/u/68662451?s=72&u=c962866d9d10a49e18338a7e621d89421a5d5e00&v=4" width="24" alt="Avatar of Rohullah-Sarabi"> Rohullah-Sarabi
+			</a><br/>
+			Rohullah Sarabi
+		</td>
+		<td>Kabul University </td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan</td>
+		<td>72</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
+			<a href="https://github.com/hakima3">
+				<img src="https://avatars.githubusercontent.com/u/39476708?s=72&u=df6ee1059c8c5b4f2c91913fb7a3593ece44ceab&v=4" width="24" alt="Avatar of hakima3"> hakima3
+			</a><br/>
+			Hakima Merzayee
+		</td>
+		<td>@listoli </td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>72</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
+			<a href="https://github.com/sulimansadat">
+				<img src="https://avatars.githubusercontent.com/u/109897633?s=72&u=9c1f879147b112cc032f635ce2e935dd511a9f32&v=4" width="24" alt="Avatar of sulimansadat"> sulimansadat
+			</a><br/>
+			Sayed Suliman Sadat
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>72</td>
+	</tr>
+	<tr>
+		<td>206</td>
+		<td>
+			<a href="https://github.com/knikzad">
+				<img src="https://avatars.githubusercontent.com/u/94276213?s=72&u=b1359fdbd5a3bf1c10028b383cbc75657dd5d54e&v=4" width="24" alt="Avatar of knikzad"> knikzad
+			</a><br/>
+			Khalifa Nikzad
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>72</td>
+	</tr>
+	<tr>
+		<td>207</td>
+		<td>
+			<a href="https://github.com/MohHussainIshraq">
+				<img src="https://avatars.githubusercontent.com/u/112789134?s=72&u=29d36072c78d344c19be69bccd43a278009cd1fa&v=4" width="24" alt="Avatar of MohHussainIshraq"> MohHussainIshraq
+			</a><br/>
+			Ishraq
+		</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
+			<a href="https://github.com/Shukrullahshirzad">
+				<img src="https://avatars.githubusercontent.com/u/19500729?s=72&u=5e3c5255b0f73a9a64047af59643b35c5598e211&v=4" width="24" alt="Avatar of Shukrullahshirzad"> Shukrullahshirzad
+			</a><br/>
+			Shukrullah shirzad
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cooolcoder">cooolcoder</a></td>
+		<td>Kabul. Afghanistan</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>209</td>
+		<td>
+			<a href="https://github.com/forworkismail">
+				<img src="https://avatars.githubusercontent.com/u/99077529?s=72&u=0c9cadee89640ce0a52a634572698ce17c469a6c&v=4" width="24" alt="Avatar of forworkismail"> forworkismail
+			</a><br/>
+			Ismail
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/sayedsadat344">
 				<img src="https://avatars.githubusercontent.com/u/34087696?s=72&u=a50a8951fc4ad93f9a28e092f2eb40fa33d5a010&v=4" width="24" alt="Avatar of sayedsadat344"> sayedsadat344
@@ -2117,28 +2832,1874 @@ There are `960 users`  in Afghanistan. You need at least `0 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kabul</td>
-		<td>16</td>
+		<td>69</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>211</td>
 		<td>
-			<a href="https://github.com/EhsanHasin">
-				<img src="https://avatars.githubusercontent.com/u/32514844?s=72&u=b18a82296a89601dbad5c940e93d08cf5769c735&v=4" width="24" alt="Avatar of EhsanHasin"> EhsanHasin
+			<a href="https://github.com/Nooriaehsani">
+				<img src="https://avatars.githubusercontent.com/u/103328903?s=72&v=4" width="24" alt="Avatar of Nooriaehsani"> Nooriaehsani
 			</a><br/>
-			Ehsan Hasin
+			Nooria Ehsani
 		</td>
-		<td>Asooda Owar </td>
-		<td><a href="https://twitter.com/EhsanHasin">EhsanHasin</a></td>
+		<td>Kandahar University  </td>
+		<td>No Twitter Username</td>
+		<td>Kandahar Afghanistan</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
+			<a href="https://github.com/Atefah">
+				<img src="https://avatars.githubusercontent.com/u/42426203?s=72&u=5d44512964fe4a684f58a69d38686081a6c69738&v=4" width="24" alt="Avatar of Atefah"> Atefah
+			</a><br/>
+			Atefah
+		</td>
+		<td>Codetoinspire </td>
+		<td>No Twitter Username</td>
+		<td>Herat Afghanistan</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/zahidasafi">
+				<img src="https://avatars.githubusercontent.com/u/103043666?s=72&u=7d6695fbc67118dac3ab3f7fc2ee23b5707f937f&v=4" width="24" alt="Avatar of zahidasafi"> zahidasafi
+			</a><br/>
+			Zahidasafi
+		</td>
+		<td>Kandahar University </td>
+		<td><a href="https://twitter.com/Zahidasafi">Zahidasafi</a></td>
+		<td>Kandahar</td>
+		<td>67</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
+			<a href="https://github.com/Hashem-Poya">
+				<img src="https://avatars.githubusercontent.com/u/63535105?s=72&u=01ddef9ddc045ea07a9e8889148540ba5c9699f4&v=4" width="24" alt="Avatar of Hashem-Poya"> Hashem-Poya
+			</a><br/>
+			Hashem Poya 
+		</td>
+		<td>Netlinks Ltd </td>
+		<td><a href="https://twitter.com/h__poya">h__poya</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>67</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
+			<a href="https://github.com/ShahedAhmadAhadi">
+				<img src="https://avatars.githubusercontent.com/u/71192374?s=72&v=4" width="24" alt="Avatar of ShahedAhmadAhadi"> ShahedAhmadAhadi
+			</a><br/>
+			Shahed Ahmad
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>216</td>
+		<td>
+			<a href="https://github.com/ehsanullahhaidary">
+				<img src="https://avatars.githubusercontent.com/u/74910020?s=72&u=3794287561e72fd88cd2c896b8b12c664f243171&v=4" width="24" alt="Avatar of ehsanullahhaidary"> ehsanullahhaidary
+			</a><br/>
+			Ehsanullah Haidary
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ehsan_haidary">ehsan_haidary</a></td>
+		<td>Herat, Afghanistan</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
+			<a href="https://github.com/najibkr">
+				<img src="https://avatars.githubusercontent.com/u/59522872?s=72&u=f7e5ad780a476148576593dfce54f1d01afe4fae&v=4" width="24" alt="Avatar of najibkr"> najibkr
+			</a><br/>
+			Najibullah Khoda Rahim
+		</td>
+		<td>Laams - Tech Company<br/>Based<br/>In<br/>Kabul,<br/>Afghanistan<br/></td>
+		<td><a href="https://twitter.com/najibkhodarahim">najibkhodarahim</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
+			<a href="https://github.com/sediqamiri">
+				<img src="https://avatars.githubusercontent.com/u/95490813?s=72&u=7b0868921469b71ffd302857b1de514fab642711&v=4" width="24" alt="Avatar of sediqamiri"> sediqamiri
+			</a><br/>
+			Sediqullah Amiri
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sediqullahamiri">sediqullahamiri</a></td>
+		<td>Kabul,Afghanistan</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>
+			<a href="https://github.com/MustafaKhazaee">
+				<img src="https://avatars.githubusercontent.com/u/101381823?s=72&u=32ab4d9479e47a7994589a1ccad420b79473c7f2&v=4" width="24" alt="Avatar of MustafaKhazaee"> MustafaKhazaee
+			</a><br/>
+			Mustafa Khazaee
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>220</td>
+		<td>
+			<a href="https://github.com/SaraNooryar">
+				<img src="https://avatars.githubusercontent.com/u/103105418?s=72&u=939793427ad60ff3e3c1f5a11f4801b920b29d4b&v=4" width="24" alt="Avatar of SaraNooryar"> SaraNooryar
+			</a><br/>
+			Sara Nooryar
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/NooryarSara">NooryarSara</a></td>
+		<td>Herat</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>221</td>
+		<td>
+			<a href="https://github.com/chardiwall">
+				<img src="https://avatars.githubusercontent.com/u/67890569?s=72&u=b94e5b5c5e9542be24e30be0486345fa30ce7f87&v=4" width="24" alt="Avatar of chardiwall"> chardiwall
+			</a><br/>
+			Samiulhaq Chardiwall
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Jalalabad, Afghanistan</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>
+			<a href="https://github.com/Sypher12233">
+				<img src="https://avatars.githubusercontent.com/u/85158811?s=72&u=fb25f189e777cfbc118f5d3611b1573ae3d5a8bd&v=4" width="24" alt="Avatar of Sypher12233"> Sypher12233
+			</a><br/>
+			Sypher Sec
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Sypher12233">Sypher12233</a></td>
+		<td>Afghanistan ❤️</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>223</td>
+		<td>
+			<a href="https://github.com/Jawed-Poya">
+				<img src="https://avatars.githubusercontent.com/u/73993181?s=72&u=e2f0013790453cfea1e7561d23e1df849db25223&v=4" width="24" alt="Avatar of Jawed-Poya"> Jawed-Poya
+			</a><br/>
+			Jawed Poya
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>224</td>
+		<td>
+			<a href="https://github.com/MW25-hush">
+				<img src="https://avatars.githubusercontent.com/u/76003465?s=72&u=9cad6d8b5100086314102d5677aaf97c8c1e7bb0&v=4" width="24" alt="Avatar of MW25-hush"> MW25-hush
+			</a><br/>
+			Mohammad Mehdi Wahid 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan </td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>
+			<a href="https://github.com/fayiz770">
+				<img src="https://avatars.githubusercontent.com/u/62296634?s=72&u=8467a783cc8504854634d42e787abc2f15a5cd34&v=4" width="24" alt="Avatar of fayiz770"> fayiz770
+			</a><br/>
+			Mohammad Waris Fayiz
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/WarisFayiz">WarisFayiz</a></td>
+		<td>Afghanistan, Sar i pull, Sancharac, Archatu</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
+			<a href="https://github.com/nbahadori143">
+				<img src="https://avatars.githubusercontent.com/u/84330217?s=72&u=b6ad2ad29b5e312b4b37dc2869804e07bf3d9d41&v=4" width="24" alt="Avatar of nbahadori143"> nbahadori143
+			</a><br/>
+			Nazir Bahadori
+		</td>
+		<td>@softwareship-io </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>
+			<a href="https://github.com/AlikhanBehzad">
+				<img src="https://avatars.githubusercontent.com/u/108258742?s=72&v=4" width="24" alt="Avatar of AlikhanBehzad"> AlikhanBehzad
+			</a><br/>
+			Alikhan Behzad
+		</td>
+		<td>Nsia </td>
+		<td><a href="https://twitter.com/Alikhan">Alikhan</a></td>
+		<td>Kabul</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>228</td>
+		<td>
+			<a href="https://github.com/gsabury">
+				<img src="https://avatars.githubusercontent.com/u/56909365?s=72&u=067b6092b22c370f90355a072dda7d1bc51b3acb&v=4" width="24" alt="Avatar of gsabury"> gsabury
+			</a><br/>
+			Abdul Ghafor Sabury
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Herat, Afghanistan</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>229</td>
+		<td>
+			<a href="https://github.com/samiullah-sahir">
+				<img src="https://avatars.githubusercontent.com/u/110901271?s=72&u=2d938e74213c4491b1e74100c3dfaa42d823e7b4&v=4" width="24" alt="Avatar of samiullah-sahir"> samiullah-sahir
+			</a><br/>
+			Samiullah Sahir
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/samiullah_sahir">samiullah_sahir</a></td>
+		<td>Kabul-Afghanistan</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>230</td>
+		<td>
+			<a href="https://github.com/asifazimi">
+				<img src="https://avatars.githubusercontent.com/u/78723939?s=72&u=b3d197fb9d64f6ebc43cd7dad8e691919d8a0760&v=4" width="24" alt="Avatar of asifazimi"> asifazimi
+			</a><br/>
+			Mohammad Asif
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AsifAzimi9">AsifAzimi9</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>
+			<a href="https://github.com/ShokrullahHaqdost">
+				<img src="https://avatars.githubusercontent.com/u/83744627?s=72&u=3bdfff648e77c8d0408d281c4a12c41d88f255d7&v=4" width="24" alt="Avatar of ShokrullahHaqdost"> ShokrullahHaqdost
+			</a><br/>
+			Shokrullah Haqdost
+		</td>
+		<td>Annarsoftcomapny </td>
+		<td><a href="https://twitter.com/Arash7862020">Arash7862020</a></td>
+		<td>Kabul,Afghnistan</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>232</td>
+		<td>
+			<a href="https://github.com/Eehrari">
+				<img src="https://avatars.githubusercontent.com/u/20050474?s=72&u=f1b90ea85e70a1abddefdf4d3751eb515d4914f3&v=4" width="24" alt="Avatar of Eehrari"> Eehrari
+			</a><br/>
+			Ehsan Ehrari
+		</td>
+		<td>@codetoinspire </td>
+		<td>No Twitter Username</td>
+		<td>Herat Afghanistan</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>
+			<a href="https://github.com/edrianabizada">
+				<img src="https://avatars.githubusercontent.com/u/76719529?s=72&u=e657d77b5704731fd4f1ce74731af6c539c5c720&v=4" width="24" alt="Avatar of edrianabizada"> edrianabizada
+			</a><br/>
+			Edris Nabizada 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan,Mazar e Shrif</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>234</td>
+		<td>
+			<a href="https://github.com/KhudadadKhawari">
+				<img src="https://avatars.githubusercontent.com/u/54738188?s=72&u=aaee7e7c6a58b521df580afa24e19fb0aed9c87d&v=4" width="24" alt="Avatar of KhudadadKhawari"> KhudadadKhawari
+			</a><br/>
+			Khudadad Khawari
+		</td>
+		<td>@seferyak </td>
+		<td><a href="https://twitter.com/KhudadadKhawari">KhudadadKhawari</a></td>
+		<td>Afghanistan</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>235</td>
+		<td>
+			<a href="https://github.com/Monir-Ahmadyar-01">
+				<img src="https://avatars.githubusercontent.com/u/124679365?s=72&u=d11f7d0650922950bbb5c6d3b6b38e14654e0ac0&v=4" width="24" alt="Avatar of Monir-Ahmadyar-01"> Monir-Ahmadyar-01
+			</a><br/>
+			Monir Ahmadyar
+		</td>
+		<td>Www.asrepoya.com </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>236</td>
+		<td>
+			<a href="https://github.com/mrezayusufy">
+				<img src="https://avatars.githubusercontent.com/u/29449539?s=72&u=2824ba97dce75fe05fa5da0f4202cc1c3c770d5d&v=4" width="24" alt="Avatar of mrezayusufy"> mrezayusufy
+			</a><br/>
+			M.Reza Yusufy
+		</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>237</td>
+		<td>
+			<a href="https://github.com/BashirRezaiee">
+				<img src="https://avatars.githubusercontent.com/u/18642056?s=72&u=f5fe56e9144d63c07f9819944dae83aadb24dce1&v=4" width="24" alt="Avatar of BashirRezaiee"> BashirRezaiee
+			</a><br/>
+			Abdul Bashir Rezaie
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/BashirRezaie">BashirRezaie</a></td>
+		<td>Afghanistan</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>238</td>
+		<td>
+			<a href="https://github.com/Abdul-Wahab-Khan">
+				<img src="https://avatars.githubusercontent.com/u/38637988?s=72&u=80d4eafc8d8c9b259e252dd52992ee4dae3ee435&v=4" width="24" alt="Avatar of Abdul-Wahab-Khan"> Abdul-Wahab-Khan
+			</a><br/>
+			Abdul Wahab Khan
+		</td>
+		<td>Mof - Afmis </td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>239</td>
+		<td>
+			<a href="https://github.com/sohrabezzati">
+				<img src="https://avatars.githubusercontent.com/u/65640704?s=72&u=e7af676266d8c3299b0f7f53fb4369a47b6ab063&v=4" width="24" alt="Avatar of sohrabezzati"> sohrabezzati
+			</a><br/>
+			Sohrab Ezzati
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>herat,afghanestan</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>240</td>
+		<td>
+			<a href="https://github.com/mohsen-zahed">
+				<img src="https://avatars.githubusercontent.com/u/100500746?s=72&u=0c6db96fdb98b0dfde65e516467a41925cc96977&v=4" width="24" alt="Avatar of mohsen-zahed"> mohsen-zahed
+			</a><br/>
+			Amir M. Zahed
+		</td>
+		<td>Arta Information & Technology<br/>Services<br/></td>
+		<td><a href="https://twitter.com/AmirMZahed">AmirMZahed</a></td>
+		<td>Afghanistan</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>241</td>
+		<td>
+			<a href="https://github.com/Jawid-7ce">
+				<img src="https://avatars.githubusercontent.com/u/118686128?s=72&u=f55c4ad4426f320876848c82079862f827ab483b&v=4" width="24" alt="Avatar of Jawid-7ce"> Jawid-7ce
+			</a><br/>
+			Ahmad Jawid Saraj
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jawid_7ce">jawid_7ce</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>242</td>
+		<td>
+			<a href="https://github.com/Mosavi87">
+				<img src="https://avatars.githubusercontent.com/u/39488910?s=72&u=5b3ac332ca1fc6557ed742cdb9909ad46f1e66d5&v=4" width="24" alt="Avatar of Mosavi87"> Mosavi87
+			</a><br/>
+			Mosavi
+		</td>
+		<td>Smart Friqi </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>243</td>
+		<td>
+			<a href="https://github.com/sohailbadghisi1">
+				<img src="https://avatars.githubusercontent.com/u/57681550?s=72&u=42ac34e8941158182d2fe722ca5314bf3b5b791e&v=4" width="24" alt="Avatar of sohailbadghisi1"> sohailbadghisi1
+			</a><br/>
+			Sohail Badghisi
+		</td>
+		<td>@lajwardco  </td>
+		<td><a href="https://twitter.com/Sohailbadghisi2">Sohailbadghisi2</a></td>
+		<td>Herat,afghanistan</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>244</td>
+		<td>
+			<a href="https://github.com/salarnoorzada">
+				<img src="https://avatars.githubusercontent.com/u/78403951?s=72&v=4" width="24" alt="Avatar of salarnoorzada"> salarnoorzada
+			</a><br/>
+			Salar Noorzada
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/SebghatYusuf">
+				<img src="https://avatars.githubusercontent.com/u/48417629?s=72&u=9d431cd822e6abf2190b916d3ea01adaf1a88357&v=4" width="24" alt="Avatar of SebghatYusuf"> SebghatYusuf
+			</a><br/>
+			Sebghatullah Yusuf
+		</td>
+		<td>Empire Pixel  </td>
+		<td><a href="https://twitter.com/SebghatYusuf">SebghatYusuf</a></td>
+		<td>Ghor, Afghanistan</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>246</td>
+		<td>
+			<a href="https://github.com/mzhd10">
+				<img src="https://avatars.githubusercontent.com/u/116106151?s=72&u=59c3e3eda45986e803c8524ecd2ee4adf141f4ab&v=4" width="24" alt="Avatar of mzhd10"> mzhd10
+			</a><br/>
+			Mozhdeh Marvi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/withmzhd">withmzhd</a></td>
+		<td>Afghanistan</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>
+			<a href="https://github.com/MasihMuhammadi">
+				<img src="https://avatars.githubusercontent.com/u/92782741?s=72&u=e12e966a39da5b0b947a32949b7b68abb3ced810&v=4" width="24" alt="Avatar of MasihMuhammadi"> MasihMuhammadi
+			</a><br/>
+			MasihullahMuhammadi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Masih_202">Masih_202</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>248</td>
+		<td>
+			<a href="https://github.com/iammirkhel">
+				<img src="https://avatars.githubusercontent.com/u/100057528?s=72&u=24df9b205e43ff02a97129fd2da1ea0bbf48a2d2&v=4" width="24" alt="Avatar of iammirkhel"> iammirkhel
+			</a><br/>
+			Jailan Mirkhel 
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/iamjailan">iamjailan</a></td>
+		<td>Kabul, Afghanistan </td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>249</td>
+		<td>
+			<a href="https://github.com/DarkNightTEAM">
+				<img src="https://avatars.githubusercontent.com/u/103863807?s=72&u=64a974f7d7b56fad0ce867bd58a072ea8ad46ce8&v=4" width="24" alt="Avatar of DarkNightTEAM"> DarkNightTEAM
+			</a><br/>
+			DN-TEAM
+		</td>
+		<td>Dark Nights Team <br/></td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan </td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>
+			<a href="https://github.com/ZakiMohammadi">
+				<img src="https://avatars.githubusercontent.com/u/74866972?s=72&u=283fd40d8401a5f2dea5984466a1e3f2ace51874&v=4" width="24" alt="Avatar of ZakiMohammadi"> ZakiMohammadi
+			</a><br/>
+			Mohammad Zaki
+		</td>
+		<td>Revand </td>
+		<td><a href="https://twitter.com/Za_Mohammadi786">Za_Mohammadi786</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>251</td>
+		<td>
+			<a href="https://github.com/Mustafa-Arghandiwal">
+				<img src="https://avatars.githubusercontent.com/u/107584485?s=72&u=71adedf2e4f06a369add930f4ff8d4a5b73d0767&v=4" width="24" alt="Avatar of Mustafa-Arghandiwal"> Mustafa-Arghandiwal
+			</a><br/>
+			Mustafa
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mustafa_dev_">mustafa_dev_</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>
+			<a href="https://github.com/Parwizafghan">
+				<img src="https://avatars.githubusercontent.com/u/122114742?s=72&u=cfa6ff3b0ad407d2d9559358ffb8a7f6a63d0dbf&v=4" width="24" alt="Avatar of Parwizafghan"> Parwizafghan
+			</a><br/>
+			Parwiz Afghan001
+		</td>
+		<td>Dark Nights Team <br/></td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan </td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>253</td>
+		<td>
+			<a href="https://github.com/alisina123">
+				<img src="https://avatars.githubusercontent.com/u/22353179?s=72&u=1f9548623d7c78ae1b15ff227220750e6fd688e4&v=4" width="24" alt="Avatar of alisina123"> alisina123
+			</a><br/>
+			Alisina Sadat
+		</td>
+		<td>Mcit </td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>254</td>
+		<td>
+			<a href="https://github.com/alisina123">
+				<img src="https://avatars.githubusercontent.com/u/22353179?s=72&u=1f9548623d7c78ae1b15ff227220750e6fd688e4&v=4" width="24" alt="Avatar of alisina123"> alisina123
+			</a><br/>
+			Alisina Sadat
+		</td>
+		<td>Mcit </td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>255</td>
+		<td>
+			<a href="https://github.com/mohsodais107">
+				<img src="https://avatars.githubusercontent.com/u/129716677?s=72&v=4" width="24" alt="Avatar of mohsodais107"> mohsodais107
+			</a><br/>
+			Mohammad Sodais qadery
+		</td>
+		<td>Lajward Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Herat, Afghanistan</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>256</td>
+		<td>
+			<a href="https://github.com/Sultanzai">
+				<img src="https://avatars.githubusercontent.com/u/62445435?s=72&u=9295df89f851450ec40673a68cd0e60a1a2d6e34&v=4" width="24" alt="Avatar of Sultanzai"> Sultanzai
+			</a><br/>
+			EMn-Codes
+		</td>
+		<td>Orbit </td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>257</td>
+		<td>
+			<a href="https://github.com/Sultanzai">
+				<img src="https://avatars.githubusercontent.com/u/62445435?s=72&u=9295df89f851450ec40673a68cd0e60a1a2d6e34&v=4" width="24" alt="Avatar of Sultanzai"> Sultanzai
+			</a><br/>
+			EMn-Codes
+		</td>
+		<td>Orbit </td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>258</td>
+		<td>
+			<a href="https://github.com/mortezaom">
+				<img src="https://avatars.githubusercontent.com/u/32927231?s=72&u=e65683f9d21a8fde171ac44ec96454aee851b737&v=4" width="24" alt="Avatar of mortezaom"> mortezaom
+			</a><br/>
+			Morteza Omar Mohammadi
+		</td>
+		<td>Freelancer </td>
+		<td><a href="https://twitter.com/omar_morteza">omar_morteza</a></td>
 		<td>Herat - Afghanistan</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>259</td>
+		<td>
+			<a href="https://github.com/usmanbasharmal123">
+				<img src="https://avatars.githubusercontent.com/u/54000575?s=72&u=678965ce909dfab86144a1eb2d68bb68797f6bd1&v=4" width="24" alt="Avatar of usmanbasharmal123"> usmanbasharmal123
+			</a><br/>
+			usmanBasharmal
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul,Afghanistan</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>260</td>
+		<td>
+			<a href="https://github.com/samimhamza">
+				<img src="https://avatars.githubusercontent.com/u/60222233?s=72&u=c0626758cdb5b3936e84b32abb87d195f783abe6&v=4" width="24" alt="Avatar of samimhamza"> samimhamza
+			</a><br/>
+			Samim Hamza
+		</td>
+		<td>Peace Global Tech </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>261</td>
+		<td>
+			<a href="https://github.com/ziayamin">
+				<img src="https://avatars.githubusercontent.com/u/51748102?s=72&u=360efa376981722a7e6e5fe3674d5093e50e2112&v=4" width="24" alt="Avatar of ziayamin"> ziayamin
+			</a><br/>
+			Zia(Yamin) Mohammadi
+		</td>
+		<td>Tutia Technology Services Company<br/></td>
+		<td>No Twitter Username</td>
+		<td>Herat, Afganistan</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>262</td>
+		<td>
+			<a href="https://github.com/ShahidJanAmin">
+				<img src="https://avatars.githubusercontent.com/u/79240533?s=72&u=d4148fd59977dba1b576e2016e52aa46eb7d39a5&v=4" width="24" alt="Avatar of ShahidJanAmin"> ShahidJanAmin
+			</a><br/>
+			Shahid Jan Amin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>263</td>
+		<td>
+			<a href="https://github.com/Hashmat4">
+				<img src="https://avatars.githubusercontent.com/u/100021407?s=72&u=60ef05de20779a08209862dab579be678f32bb07&v=4" width="24" alt="Avatar of Hashmat4"> Hashmat4
+			</a><br/>
+			Hashmat Malik
+		</td>
+		<td>Smart Friqi </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan </td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>264</td>
+		<td>
+			<a href="https://github.com/NabizadaAbida">
+				<img src="https://avatars.githubusercontent.com/u/31917110?s=72&u=1ae6bfab087aaab3fc6dd4a0234a5fbcba428877&v=4" width="24" alt="Avatar of NabizadaAbida"> NabizadaAbida
+			</a><br/>
+			Abida Nabizada
+		</td>
+		<td>Afghanistan  </td>
+		<td><a href="https://twitter.com/NabizadaAbida">NabizadaAbida</a></td>
+		<td>kabul</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>265</td>
+		<td>
+			<a href="https://github.com/ibrahim-nazari">
+				<img src="https://avatars.githubusercontent.com/u/51007186?s=72&u=df8f1035760f04fb5e4fdd404da289fedd3967c0&v=4" width="24" alt="Avatar of ibrahim-nazari"> ibrahim-nazari
+			</a><br/>
+			Ibrahim Nazari
+		</td>
+		<td>Convose (convose.com) </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>266</td>
+		<td>
+			<a href="https://github.com/Abdullah-Raoufi">
+				<img src="https://avatars.githubusercontent.com/u/48079425?s=72&u=473c72651ece1a3b17b008ebf80f3977c9467a6b&v=4" width="24" alt="Avatar of Abdullah-Raoufi"> Abdullah-Raoufi
+			</a><br/>
+			Abdullah Raoufi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>267</td>
+		<td>
+			<a href="https://github.com/mnaimfaizy">
+				<img src="https://avatars.githubusercontent.com/u/34773846?s=72&u=8aedd081bcf29195f6f0bd7a6261d398b5814638&v=4" width="24" alt="Avatar of mnaimfaizy"> mnaimfaizy
+			</a><br/>
+			Mohammad Naim Faizy
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Naim_Soft">Naim_Soft</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>268</td>
+		<td>
+			<a href="https://github.com/Abid-khankhel">
+				<img src="https://avatars.githubusercontent.com/u/111336904?s=72&u=693bc47e426985ba17e96f57a60e95c278419288&v=4" width="24" alt="Avatar of Abid-khankhel"> Abid-khankhel
+			</a><br/>
+			israeel khankhel
+		</td>
+		<td>Startupistan </td>
+		<td>No Twitter Username</td>
+		<td>kabul-Afghanistan</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>269</td>
+		<td>
+			<a href="https://github.com/Rahimah-817">
+				<img src="https://avatars.githubusercontent.com/u/79223398?s=72&u=d6d5330af82ff5030cee678ca1f98c6fd66d8c7b&v=4" width="24" alt="Avatar of Rahimah-817"> Rahimah-817
+			</a><br/>
+			Rahimah
+		</td>
+		<td>Codeto Inspire </td>
+		<td><a href="https://twitter.com/Rahimah_817">Rahimah_817</a></td>
+		<td>Herat Afghanistan</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>
+			<a href="https://github.com/FaridTareen">
+				<img src="https://avatars.githubusercontent.com/u/86624529?s=72&u=49c44470432af767d0bed452579246e50227cd57&v=4" width="24" alt="Avatar of FaridTareen"> FaridTareen
+			</a><br/>
+			Farid Tareen 
+		</td>
+		<td>Fk Developer  </td>
+		<td>No Twitter Username</td>
+		<td>Kandahar Afghanistan </td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>
+			<a href="https://github.com/aziz-rahman-marouf">
+				<img src="https://avatars.githubusercontent.com/u/47821724?s=72&u=a6ebd6706badb08618462baadb1a43790ac5be71&v=4" width="24" alt="Avatar of aziz-rahman-marouf"> aziz-rahman-marouf
+			</a><br/>
+			Aziz Rahman Marouf
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
+			<a href="https://github.com/nazilaF2002">
+				<img src="https://avatars.githubusercontent.com/u/117016881?s=72&u=e43bf3bf4bd0a583798330e696bb776185c5e96b&v=4" width="24" alt="Avatar of nazilaF2002"> nazilaF2002
+			</a><br/>
+			Nazila Faizzadah
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/NazilaF2002">NazilaF2002</a></td>
+		<td>Herat Afghanistan</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>273</td>
+		<td>
+			<a href="https://github.com/ArsalanHabibi14">
+				<img src="https://avatars.githubusercontent.com/u/97635681?s=72&u=0621addb2e6e8fbf9d295d22c10e25bf0daf5eda&v=4" width="24" alt="Avatar of ArsalanHabibi14"> ArsalanHabibi14
+			</a><br/>
+			Arsalan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan-Herat</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>274</td>
+		<td>
+			<a href="https://github.com/nebilsharifi247">
+				<img src="https://avatars.githubusercontent.com/u/56500430?s=72&u=43cbfa89ef3bb16c6e15a9eb5657fd1ee466dd2b&v=4" width="24" alt="Avatar of nebilsharifi247"> nebilsharifi247
+			</a><br/>
+			Zero_x
+		</td>
+		<td>Fuctrues </td>
+		<td><a href="https://twitter.com/nebil_sharifi">nebil_sharifi</a></td>
+		<td>afghanistan</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>275</td>
+		<td>
+			<a href="https://github.com/SamiullahWardak">
+				<img src="https://avatars.githubusercontent.com/u/103319507?s=72&u=20ded956532ea0d57569cdab542dbd6c443155fd&v=4" width="24" alt="Avatar of SamiullahWardak"> SamiullahWardak
+			</a><br/>
+			Samak Wardak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kandahar, Afghanistan</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>276</td>
+		<td>
+			<a href="https://github.com/sm-sayedi">
+				<img src="https://avatars.githubusercontent.com/u/59946442?s=72&u=f7e864874cbe9de6ce96fcb1f193738b326dd569&v=4" width="24" alt="Avatar of sm-sayedi"> sm-sayedi
+			</a><br/>
+			Sayed Mahmood Sayedi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>277</td>
+		<td>
+			<a href="https://github.com/ffauziaa">
+				<img src="https://avatars.githubusercontent.com/u/107146592?s=72&u=2cc0f160e72cb9acb08001fb121e8effe197709f&v=4" width="24" alt="Avatar of ffauziaa"> ffauziaa
+			</a><br/>
+			Fauzia
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ffauzziaa">ffauzziaa</a></td>
+		<td>Afghanistan</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>278</td>
+		<td>
+			<a href="https://github.com/aziz-mohammadi">
+				<img src="https://avatars.githubusercontent.com/u/132747916?s=72&u=a635a90ac34954eb6203c6e98ba24b931aa8146a&v=4" width="24" alt="Avatar of aziz-mohammadi"> aziz-mohammadi
+			</a><br/>
+			Aziz Mohammadi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>279</td>
+		<td>
+			<a href="https://github.com/aziz-mohammadi">
+				<img src="https://avatars.githubusercontent.com/u/132747916?s=72&u=a635a90ac34954eb6203c6e98ba24b931aa8146a&v=4" width="24" alt="Avatar of aziz-mohammadi"> aziz-mohammadi
+			</a><br/>
+			Aziz Mohammadi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>280</td>
+		<td>
+			<a href="https://github.com/hanifshahy">
+				<img src="https://avatars.githubusercontent.com/u/100494103?s=72&v=4" width="24" alt="Avatar of hanifshahy"> hanifshahy
+			</a><br/>
+			M. Hanif Shahy
+		</td>
+		<td>Freelancer </td>
+		<td><a href="https://twitter.com/hanifshahy9">hanifshahy9</a></td>
+		<td>Afghanistan, Herat, Guzara</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>281</td>
+		<td>
+			<a href="https://github.com/raziq-quraishi">
+				<img src="https://avatars.githubusercontent.com/u/99569578?s=72&u=f3910aac20a360358d3f7f2faa03b977d78d8b0e&v=4" width="24" alt="Avatar of raziq-quraishi"> raziq-quraishi
+			</a><br/>
+			Abdul Raziq Quraishi 
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/raziq_quraishi">raziq_quraishi</a></td>
+		<td>Afghanistan</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>282</td>
+		<td>
+			<a href="https://github.com/abdulazizaziz">
+				<img src="https://avatars.githubusercontent.com/u/75569778?s=72&u=3549ef703d9d06d750faa3bc377c916cb134fa3d&v=4" width="24" alt="Avatar of abdulazizaziz"> abdulazizaziz
+			</a><br/>
+			Abdulaziz
+		</td>
+		<td>Codewithaziz </td>
+		<td><a href="https://twitter.com/imazizarab">imazizarab</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>283</td>
+		<td>
+			<a href="https://github.com/MahmoodHashem">
+				<img src="https://avatars.githubusercontent.com/u/132586926?s=72&u=36f9a5bc666ccafb93654c7024909c8fe4096da7&v=4" width="24" alt="Avatar of MahmoodHashem"> MahmoodHashem
+			</a><br/>
+			Mahmood
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Herat, Afghanistan </td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>284</td>
+		<td>
+			<a href="https://github.com/masoudqaderi1384">
+				<img src="https://avatars.githubusercontent.com/u/132349975?s=72&u=d42db6ede5cb8d10427d9184b308a85d40174830&v=4" width="24" alt="Avatar of masoudqaderi1384"> masoudqaderi1384
+			</a><br/>
+			Masoud Qaderi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Herat, Afghanistan</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>285</td>
+		<td>
+			<a href="https://github.com/abbasatayee">
+				<img src="https://avatars.githubusercontent.com/u/49268657?s=72&u=1e880a3741f178d9c5d058c0fd636b8910b5ad1b&v=4" width="24" alt="Avatar of abbasatayee"> abbasatayee
+			</a><br/>
+			Abbas Ataie
+		</td>
+		<td>@softwareship-io </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>286</td>
+		<td>
+			<a href="https://github.com/SharifullahCS">
+				<img src="https://avatars.githubusercontent.com/u/103334899?s=72&u=0e1dfb7eb6d68d6ef5eaad158193a2a0a9ea2cd3&v=4" width="24" alt="Avatar of SharifullahCS"> SharifullahCS
+			</a><br/>
+			Sharifullah Amin
+		</td>
+		<td>Kandahar University  </td>
+		<td>No Twitter Username</td>
+		<td>Kandahar, Afghanistan </td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>287</td>
+		<td>
+			<a href="https://github.com/tajwal">
+				<img src="https://avatars.githubusercontent.com/u/5396746?s=72&u=ecdcb0af85b9bfca8dab3c4eddafce9d5ccc9296&v=4" width="24" alt="Avatar of tajwal"> tajwal
+			</a><br/>
+			Ghiasuddin tajwal
+		</td>
+		<td>Treasury Department, Mof </td>
+		<td><a href="https://twitter.com/ghiasuddin">ghiasuddin</a></td>
+		<td>Kabul</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>288</td>
+		<td>
+			<a href="https://github.com/OmranAbhar">
+				<img src="https://avatars.githubusercontent.com/u/61108944?s=72&u=3661e7617142c11a97eea502e5185e49779abc78&v=4" width="24" alt="Avatar of OmranAbhar"> OmranAbhar
+			</a><br/>
+			Mir Omranudin Abhar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>289</td>
+		<td>
+			<a href="https://github.com/Nabavi2">
+				<img src="https://avatars.githubusercontent.com/u/83859644?s=72&u=8a0a4eb7f33da6452a6e06183d014878d116e02f&v=4" width="24" alt="Avatar of Nabavi2"> Nabavi2
+			</a><br/>
+			Rohullah Nabavi
+		</td>
+		<td>Tutia Tech And Rannlab<br/></td>
+		<td><a href="https://twitter.com/rohullah_nabavi">rohullah_nabavi</a></td>
+		<td>Herat Afghanistan</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>290</td>
+		<td>
+			<a href="https://github.com/BesmellahBassam">
+				<img src="https://avatars.githubusercontent.com/u/68810874?s=72&u=1879928cccc03535cf6202ab147a375860c15a68&v=4" width="24" alt="Avatar of BesmellahBassam"> BesmellahBassam
+			</a><br/>
+			 Besmellah Bassam
+		</td>
+		<td>Lajwardco </td>
+		<td>No Twitter Username</td>
+		<td>Herat, Afghanistan</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>291</td>
+		<td>
+			<a href="https://github.com/SharokhAtaie">
+				<img src="https://avatars.githubusercontent.com/u/94289484?s=72&u=7161d9fe4fa055b2d3334bbdfeeded45537770c3&v=4" width="24" alt="Avatar of SharokhAtaie"> SharokhAtaie
+			</a><br/>
+			Sharo_k_h
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sharo_k_h">sharo_k_h</a></td>
+		<td>Afghanistan</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>292</td>
+		<td>
+			<a href="https://github.com/jawadRezaei10">
+				<img src="https://avatars.githubusercontent.com/u/107846753?s=72&u=64aa482274f012c660c8a345cf779257be3cbf96&v=4" width="24" alt="Avatar of jawadRezaei10"> jawadRezaei10
+			</a><br/>
+			Jawad Rezaei
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Herat, Afghanistan</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>293</td>
+		<td>
+			<a href="https://github.com/kravandir">
+				<img src="https://avatars.githubusercontent.com/u/79300121?s=72&u=a730f207d0d2768182383ef754dd116f744d3fce&v=4" width="24" alt="Avatar of kravandir"> kravandir
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>294</td>
+		<td>
+			<a href="https://github.com/murtaza-aslani">
+				<img src="https://avatars.githubusercontent.com/u/84260841?s=72&u=d7e440077eac8c8bb2bf2adbeae74caa872d2044&v=4" width="24" alt="Avatar of murtaza-aslani"> murtaza-aslani
+			</a><br/>
+			Aslani Murtaza
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/murtaza_aslani">murtaza_aslani</a></td>
+		<td>Kabul Afghanistan</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>
+			<a href="https://github.com/abdulsaboorhemat1500">
+				<img src="https://avatars.githubusercontent.com/u/103122094?s=72&u=fe4d3727e3414f3dd81b43a24ed66a6783e17a79&v=4" width="24" alt="Avatar of abdulsaboorhemat1500"> abdulsaboorhemat1500
+			</a><br/>
+			saboorhemat
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>296</td>
+		<td>
+			<a href="https://github.com/Belceebuh">
+				<img src="https://avatars.githubusercontent.com/u/90662594?s=72&u=0e11d397833dce518fd61071ad535b5a1c45cc37&v=4" width="24" alt="Avatar of Belceebuh"> Belceebuh
+			</a><br/>
+			Belcebú
+		</td>
+		<td>@sevencraft-network </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>
+			<a href="https://github.com/hematw">
+				<img src="https://avatars.githubusercontent.com/u/108283493?s=72&u=454bb2a44c8b963d4d369d8c73aa3b51be5d8281&v=4" width="24" alt="Avatar of hematw"> hematw
+			</a><br/>
+			Hemat Waziri
+		</td>
+		<td>Codeunity </td>
+		<td><a href="https://twitter.com/_hematw">_hematw</a></td>
+		<td>Afghanistan </td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>298</td>
+		<td>
+			<a href="https://github.com/EmalHamza">
+				<img src="https://avatars.githubusercontent.com/u/83998973?s=72&u=7e3373898113b332c87a8fb3442265e9f61725b8&v=4" width="24" alt="Avatar of EmalHamza"> EmalHamza
+			</a><br/>
+			Emal Hamza
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>299</td>
+		<td>
+			<a href="https://github.com/kabirzahid">
+				<img src="https://avatars.githubusercontent.com/u/102759917?s=72&u=184066ab6bbf4ef7ea28d9212371486135e7f8d4&v=4" width="24" alt="Avatar of kabirzahid"> kabirzahid
+			</a><br/>
+			Kabir Ahmad Zahid
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kandahar Aghanishat</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>300</td>
+		<td>
+			<a href="https://github.com/BasiraMehrzad24">
+				<img src="https://avatars.githubusercontent.com/u/134311243?s=72&u=649e960f12d62b86c4543060084de1af44ff1d98&v=4" width="24" alt="Avatar of BasiraMehrzad24"> BasiraMehrzad24
+			</a><br/>
+			Basira Mehrzad
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>301</td>
+		<td>
+			<a href="https://github.com/omer-jan">
+				<img src="https://avatars.githubusercontent.com/u/20932799?s=72&u=41be59c868b0b6a6b40859dde8b4b3507ae5fdbf&v=4" width="24" alt="Avatar of omer-jan"> omer-jan
+			</a><br/>
+			Mohammad Zubair Akrami
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul-Afghanistan </td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>302</td>
+		<td>
+			<a href="https://github.com/Mohammad-Yasin-Noori">
+				<img src="https://avatars.githubusercontent.com/u/20409577?s=72&u=15be0379dc78d8d0d06ec259466ddc7e187e11e6&v=4" width="24" alt="Avatar of Mohammad-Yasin-Noori"> Mohammad-Yasin-Noori
+			</a><br/>
+			Mohammad Yasin Noori
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>303</td>
+		<td>
+			<a href="https://github.com/abdullah-hamidy">
+				<img src="https://avatars.githubusercontent.com/u/58934528?s=72&u=f97e3892b8ee51d168ef460650468cc8f25b02a4&v=4" width="24" alt="Avatar of abdullah-hamidy"> abdullah-hamidy
+			</a><br/>
+			Abdullah Hamidy
+		</td>
+		<td>@nethubaf </td>
+		<td><a href="https://twitter.com/abdullahhamidy">abdullahhamidy</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>304</td>
+		<td>
+			<a href="https://github.com/mohsenkarimi-mk">
+				<img src="https://avatars.githubusercontent.com/u/71186740?s=72&u=bd1f0b7cd17bbaaa42439d67621b68e9f18dc95a&v=4" width="24" alt="Avatar of mohsenkarimi-mk"> mohsenkarimi-mk
+			</a><br/>
+			Mohsen Karimi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/TheMohsenKarimi">TheMohsenKarimi</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>305</td>
+		<td>
+			<a href="https://github.com/qaderi-coding">
+				<img src="https://avatars.githubusercontent.com/u/29048917?s=72&u=7e6d91af7e21a080c13df830d6a70ddf7593656f&v=4" width="24" alt="Avatar of qaderi-coding"> qaderi-coding
+			</a><br/>
+			Ehsanullah Qaderi
+		</td>
+		<td>Bcs In Computer Science<br/><br/></td>
+		<td><a href="https://twitter.com/ehsan_coding">ehsan_coding</a></td>
+		<td>Afghanistan</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>306</td>
+		<td>
+			<a href="https://github.com/HekmatAliyaar">
+				<img src="https://avatars.githubusercontent.com/u/101539969?s=72&u=5978f8fc29db7e07c294d042c0d6eecd390e67f7&v=4" width="24" alt="Avatar of HekmatAliyaar"> HekmatAliyaar
+			</a><br/>
+			Hikmat Ali
+		</td>
+		<td>Own </td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>307</td>
+		<td>
+			<a href="https://github.com/GharibHussain">
+				<img src="https://avatars.githubusercontent.com/u/87558046?s=72&u=1db62b0365a0efa2f7766eeba4adde7a383d8316&v=4" width="24" alt="Avatar of GharibHussain"> GharibHussain
+			</a><br/>
+			Gharib Hussain Amiri
+		</td>
+		<td>Kabul University </td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>308</td>
+		<td>
+			<a href="https://github.com/SodabehSherzad">
+				<img src="https://avatars.githubusercontent.com/u/42426114?s=72&u=dc2ec3d1cb0d8eb6d6505671cc59ce12a8753fda&v=4" width="24" alt="Avatar of SodabehSherzad"> SodabehSherzad
+			</a><br/>
+			Sodabeh Sherzad
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/SodabehSherzad">SodabehSherzad</a></td>
+		<td>Herat-Afghanistan</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>309</td>
+		<td>
+			<a href="https://github.com/NoorullahErfan">
+				<img src="https://avatars.githubusercontent.com/u/103544155?s=72&u=4f2a51f8bcc6aaa806feaa9720796751866e2121&v=4" width="24" alt="Avatar of NoorullahErfan"> NoorullahErfan
+			</a><br/>
+			Noorullah
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>310</td>
+		<td>
+			<a href="https://github.com/SamirDanial">
+				<img src="https://avatars.githubusercontent.com/u/12440384?s=72&u=54f95fb3a4d53f3fa17e186801dadd552cc7a227&v=4" width="24" alt="Avatar of SamirDanial"> SamirDanial
+			</a><br/>
+			Samir Danial Bayat
+		</td>
+		<td>Samir Foundation </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>311</td>
+		<td>
+			<a href="https://github.com/shahghasiadil">
+				<img src="https://avatars.githubusercontent.com/u/64509320?s=72&u=e4af05ab04d674e4697160c649a0448f8955e904&v=4" width="24" alt="Avatar of shahghasiadil"> shahghasiadil
+			</a><br/>
+			Shahghasi Adil
+		</td>
+		<td>Full Stack Developer </td>
+		<td><a href="https://twitter.com/shahghasi_adil">shahghasi_adil</a></td>
+		<td>Afghanistan</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>
+			<a href="https://github.com/MarufSharifi">
+				<img src="https://avatars.githubusercontent.com/u/59383482?s=72&u=26170d4fc38166d2e8856485f853770ca9be76d4&v=4" width="24" alt="Avatar of MarufSharifi"> MarufSharifi
+			</a><br/>
+			Maruf
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MarufSharifi">MarufSharifi</a></td>
+		<td>Herat Afghanistan</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>313</td>
+		<td>
+			<a href="https://github.com/EhsanHadid">
+				<img src="https://avatars.githubusercontent.com/u/14174671?s=72&u=fdfe89c9796fd2052b928bec23216868b6c59546&v=4" width="24" alt="Avatar of EhsanHadid"> EhsanHadid
+			</a><br/>
+			Ehsan Hadid
+		</td>
+		<td>Tanbali </td>
+		<td>No Twitter Username</td>
+		<td>Herat, Afghanistan</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>314</td>
+		<td>
+			<a href="https://github.com/mr-wafi">
+				<img src="https://avatars.githubusercontent.com/u/62784458?s=72&u=8dc8188a3045e5d0ad68b9102716ef1ec984f25c&v=4" width="24" alt="Avatar of mr-wafi"> mr-wafi
+			</a><br/>
+			мя wafi
+		</td>
+		<td>Mrwafi </td>
+		<td><a href="https://twitter.com/xbwafi">xbwafi</a></td>
+		<td>Afghanistan</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>315</td>
+		<td>
+			<a href="https://github.com/Baheerelias">
+				<img src="https://avatars.githubusercontent.com/u/96648453?s=72&u=bba803892a8e8d041366413273e6bfdce9dd2e4a&v=4" width="24" alt="Avatar of Baheerelias"> Baheerelias
+			</a><br/>
+			Baheer Elias
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghansitan</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>316</td>
+		<td>
+			<a href="https://github.com/tamimehsas">
+				<img src="https://avatars.githubusercontent.com/u/25801722?s=72&u=bcf1a1d43a1920a2021990e94a17e92351e1d21f&v=4" width="24" alt="Avatar of tamimehsas"> tamimehsas
+			</a><br/>
+			Tamim Ehsas
+		</td>
+		<td>Moore Afghanistan </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan </td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>317</td>
+		<td>
+			<a href="https://github.com/Moulagul-Hotak">
+				<img src="https://avatars.githubusercontent.com/u/73734268?s=72&u=5d6eccaf6f8b690f710ac79442a180dd79abd038&v=4" width="24" alt="Avatar of Moulagul-Hotak"> Moulagul-Hotak
+			</a><br/>
+			Moulagul Hotak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>318</td>
+		<td>
+			<a href="https://github.com/MirajHaidari">
+				<img src="https://avatars.githubusercontent.com/u/25987333?s=72&u=cb148fda1fddaaf7df8084b821245d114eaac63f&v=4" width="24" alt="Avatar of MirajHaidari"> MirajHaidari
+			</a><br/>
+			Mirajuddin Haidari
+		</td>
+		<td>Mcit </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>319</td>
+		<td>
+			<a href="https://github.com/Azizamahammadi12">
+				<img src="https://avatars.githubusercontent.com/u/136817625?s=72&v=4" width="24" alt="Avatar of Azizamahammadi12"> Azizamahammadi12
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>320</td>
+		<td>
+			<a href="https://github.com/Shahizadeh">
+				<img src="https://avatars.githubusercontent.com/u/42260174?s=72&v=4" width="24" alt="Avatar of Shahizadeh"> Shahizadeh
+			</a><br/>
+			Zia Shahizadeh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul/Afghanistan</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
+			<a href="https://github.com/asrarahmadehsan">
+				<img src="https://avatars.githubusercontent.com/u/22363640?s=72&u=2bc1517bf2bd241540a57139b1c74778f32cc37b&v=4" width="24" alt="Avatar of asrarahmadehsan"> asrarahmadehsan
+			</a><br/>
+			Asrar Ahmad Ehsan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/asrarehsan">asrarehsan</a></td>
+		<td>Herat, Afghanistan</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>322</td>
+		<td>
+			<a href="https://github.com/abdullahqasemi">
+				<img src="https://avatars.githubusercontent.com/u/59148342?s=72&u=d0421922e19d29485e1fce996df04fe1828dec85&v=4" width="24" alt="Avatar of abdullahqasemi"> abdullahqasemi
+			</a><br/>
+			Abdullah Qasemi
+		</td>
+		<td>Code9ine </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
+			<a href="https://github.com/billalsiddiqi">
+				<img src="https://avatars.githubusercontent.com/u/52275107?s=72&u=52e02a4813df59b5def9bd8b4c6e088ed2a6b4ff&v=4" width="24" alt="Avatar of billalsiddiqi"> billalsiddiqi
+			</a><br/>
+			Khwaja Billal Siddiqi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>324</td>
+		<td>
+			<a href="https://github.com/nazarialireza">
+				<img src="https://avatars.githubusercontent.com/u/9654370?s=72&u=a27a89815aa344401eb0fcb4c0a523e6954b5ab6&v=4" width="24" alt="Avatar of nazarialireza"> nazarialireza
+			</a><br/>
+			Alireza Nazari
+		</td>
+		<td>Aftel, Awcc, Kabul Dns,<br/>Nazari<br/>Co<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>325</td>
+		<td>
+			<a href="https://github.com/SeSartaj">
+				<img src="https://avatars.githubusercontent.com/u/43495510?s=72&u=25f3af4ffae612593f7f0f3b77c8bd85687d54eb&v=4" width="24" alt="Avatar of SeSartaj"> SeSartaj
+			</a><br/>
+			Sartaj Ahmad
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>326</td>
+		<td>
+			<a href="https://github.com/ahmadroheed">
+				<img src="https://avatars.githubusercontent.com/u/33017120?s=72&u=c372057510b3ce1a56df8939b6cae1747287092f&v=4" width="24" alt="Avatar of ahmadroheed"> ahmadroheed
+			</a><br/>
+			Ahmad Roheed Khaliqyar
+		</td>
+		<td>Ccnpp_dmm </td>
+		<td>No Twitter Username</td>
+		<td>Kabul/Afghanistan</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>327</td>
+		<td>
+			<a href="https://github.com/AjmalNasiri">
+				<img src="https://avatars.githubusercontent.com/u/106055460?s=72&u=433041f0a574eb546259e77fcceb5a4c5bb5a7fa&v=4" width="24" alt="Avatar of AjmalNasiri"> AjmalNasiri
+			</a><br/>
+			Ajmal Nasiri
+		</td>
+		<td>Ndc (national Development Company)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>328</td>
+		<td>
+			<a href="https://github.com/Aalem">
+				<img src="https://avatars.githubusercontent.com/u/3881951?s=72&u=f9ac4738ddd43b97dd8320d88bfa477a1dd165b6&v=4" width="24" alt="Avatar of Aalem"> Aalem
+			</a><br/>
+			Aalem Daneshyar
+		</td>
+		<td>@codetoinspire-afgha  </td>
+		<td>No Twitter Username</td>
+		<td>Herat University, Herat-Afghanistan</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>329</td>
+		<td>
+			<a href="https://github.com/danishyarkhwork">
+				<img src="https://avatars.githubusercontent.com/u/131935615?s=72&u=fcbe52cdc9a38e4c0eb5dac66e6f5e9cccf73da7&v=4" width="24" alt="Avatar of danishyarkhwork"> danishyarkhwork
+			</a><br/>
+			Khalid Danishyar
+		</td>
+		<td>Afghan Wazifa </td>
+		<td><a href="https://twitter.com/danishyarkhalid">danishyarkhalid</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>330</td>
+		<td>
+			<a href="https://github.com/Sakinayousufi">
+				<img src="https://avatars.githubusercontent.com/u/21315211?s=72&v=4" width="24" alt="Avatar of Sakinayousufi"> Sakinayousufi
+			</a><br/>
+			Sakina Yousufi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>kabul Afghanistan</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>331</td>
+		<td>
+			<a href="https://github.com/Erfan1995">
+				<img src="https://avatars.githubusercontent.com/u/20784403?s=72&u=7f5f0181e77364e84f1f26f36de1c1afa6aa8c61&v=4" width="24" alt="Avatar of Erfan1995"> Erfan1995
+			</a><br/>
+			Ali Reza
+		</td>
+		<td>Softwareship </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>332</td>
+		<td>
+			<a href="https://github.com/Haseebullah555">
+				<img src="https://avatars.githubusercontent.com/u/68950624?s=72&u=eb7702e52f90ed389267702b2c7f814db7bc0b2b&v=4" width="24" alt="Avatar of Haseebullah555"> Haseebullah555
+			</a><br/>
+			HShirzad
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/HShirzad555">HShirzad555</a></td>
+		<td>Afghanistan</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>333</td>
+		<td>
+			<a href="https://github.com/abdullahahadi">
+				<img src="https://avatars.githubusercontent.com/u/32227706?s=72&u=6644705984a3ae9371d33d5a9cb55f54b9b97f97&v=4" width="24" alt="Avatar of abdullahahadi"> abdullahahadi
+			</a><br/>
+			Abdullah Ahadi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>334</td>
+		<td>
+			<a href="https://github.com/MR-shefaei">
+				<img src="https://avatars.githubusercontent.com/u/100781269?s=72&u=29c851503cebb16446a5341c9f7332b9e62ebdc8&v=4" width="24" alt="Avatar of MR-shefaei"> MR-shefaei
+			</a><br/>
+			MR shefaei
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/m_shefaei">m_shefaei</a></td>
+		<td>Herat , afghanistan</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>335</td>
+		<td>
+			<a href="https://github.com/Mohebjami">
+				<img src="https://avatars.githubusercontent.com/u/91026012?s=72&u=8cf6f4777227f3e1938833fe2ec1ffe6a553f03b&v=4" width="24" alt="Avatar of Mohebjami"> Mohebjami
+			</a><br/>
+			Mohebullah Jami
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Moheb_Jami">Moheb_Jami</a></td>
+		<td>Herat , Afghanistan</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>336</td>
+		<td>
+			<a href="https://github.com/Hassib1234">
+				<img src="https://avatars.githubusercontent.com/u/103536401?s=72&u=1a5210ad461bbfe118e0312975f422e55209b73f&v=4" width="24" alt="Avatar of Hassib1234"> Hassib1234
+			</a><br/>
+			Hassib Umair
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kandahar</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>337</td>
+		<td>
+			<a href="https://github.com/MirwaisAkrami">
+				<img src="https://avatars.githubusercontent.com/u/34417742?s=72&u=da3875287500c1cf1e70bffb99d7034f1e073bd2&v=4" width="24" alt="Avatar of MirwaisAkrami"> MirwaisAkrami
+			</a><br/>
+			Mirwais Akrami
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>338</td>
+		<td>
+			<a href="https://github.com/mostafa-A48">
+				<img src="https://avatars.githubusercontent.com/u/44500373?s=72&u=84bd57f5630642e458f45df90f213fe6ab119b4a&v=4" width="24" alt="Avatar of mostafa-A48"> mostafa-A48
+			</a><br/>
+			Mostafa Rezaie
+		</td>
+		<td>@rapiditeration </td>
+		<td><a href="https://twitter.com/MostafaRezaie_">MostafaRezaie_</a></td>
+		<td>Afghanistan</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>339</td>
+		<td>
+			<a href="https://github.com/Najeeb-joya">
+				<img src="https://avatars.githubusercontent.com/u/99063455?s=72&u=6f8aaeba65fd1ba57b94fa9aa9af500564d689c0&v=4" width="24" alt="Avatar of Najeeb-joya"> Najeeb-joya
+			</a><br/>
+			Najeebullah Joya
+		</td>
+		<td>Parsa Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>340</td>
+		<td>
+			<a href="https://github.com/JKhaledJ">
+				<img src="https://avatars.githubusercontent.com/u/35091383?s=72&u=6b8cec2154263e33fbc28df49a27098073b6e6c8&v=4" width="24" alt="Avatar of JKhaledJ"> JKhaledJ
+			</a><br/>
+			Mohammad Khaled
+		</td>
+		<td>Cssoftsolutions | Kite Runner<br/>|<br/>Kern<br/>Ag<br/></td>
+		<td>No Twitter Username</td>
+		<td>Herat, Afg</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>341</td>
+		<td>
+			<a href="https://github.com/iamhemmat">
+				<img src="https://avatars.githubusercontent.com/u/66066346?s=72&u=71b2a6833a2dc8ea916ac61bfc8c0d78b469c92d&v=4" width="24" alt="Avatar of iamhemmat"> iamhemmat
+			</a><br/>
+			Hussain Hemmat
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/HemmatHussain">HemmatHussain</a></td>
+		<td>Afghanistan, Mazar-e Sharif, Nahr-e Shahi, AliAbad</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>342</td>
+		<td>
+			<a href="https://github.com/protipscs">
+				<img src="https://avatars.githubusercontent.com/u/124239962?s=72&u=27779331e94618105f4ad363cd26576810b1b472&v=4" width="24" alt="Avatar of protipscs"> protipscs
+			</a><br/>
+			pro tips
+		</td>
+		<td>Protips </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>343</td>
+		<td>
+			<a href="https://github.com/najma-shams">
+				<img src="https://avatars.githubusercontent.com/u/67504186?s=72&u=bd9bac579a4f3c49a559fdbf2c3fddf310adcea0&v=4" width="24" alt="Avatar of najma-shams"> najma-shams
+			</a><br/>
+			Najma Shams
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/najma_shams">najma_shams</a></td>
+		<td>Afghanistan</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>344</td>
+		<td>
+			<a href="https://github.com/mohammadjawadnazari">
+				<img src="https://avatars.githubusercontent.com/u/129998566?s=72&u=08222e3d0ba0f5913d4960b8073425e4b20e2eb1&v=4" width="24" alt="Avatar of mohammadjawadnazari"> mohammadjawadnazari
+			</a><br/>
+			M Jawad
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan </td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>345</td>
+		<td>
+			<a href="https://github.com/WazhmaHakimi">
+				<img src="https://avatars.githubusercontent.com/u/133529903?s=72&u=2a811f6cbd307e86512932f4cb2208d829a29350&v=4" width="24" alt="Avatar of WazhmaHakimi"> WazhmaHakimi
+			</a><br/>
+			Wazhma Hakimi 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>346</td>
+		<td>
+			<a href="https://github.com/SirkoYu">
+				<img src="https://avatars.githubusercontent.com/u/116541931?s=72&u=b5da436ee5934af62cc1df1238569d6325943209&v=4" width="24" alt="Avatar of SirkoYu"> SirkoYu
+			</a><br/>
+			Yurii Sirko
+		</td>
+		<td>Red Smurfs </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>347</td>
+		<td>
+			<a href="https://github.com/nzfarhad">
+				<img src="https://avatars.githubusercontent.com/u/5116194?s=72&u=c8340f11448fa54bbd9cc6dc34e06f82920a3584&v=4" width="24" alt="Avatar of nzfarhad"> nzfarhad
+			</a><br/>
+			Sayed Farhad Nabizda
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mazar-e-sharif, Afghanistan</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>348</td>
+		<td>
+			<a href="https://github.com/ikhesraw">
+				<img src="https://avatars.githubusercontent.com/u/83567285?s=72&u=af4e564db524d32106bc0d282e3a41f954697124&v=4" width="24" alt="Avatar of ikhesraw"> ikhesraw
+			</a><br/>
+			Ahmad Khesraw
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>349</td>
+		<td>
+			<a href="https://github.com/mohbadar">
+				<img src="https://avatars.githubusercontent.com/u/32482095?s=72&v=4" width="24" alt="Avatar of mohbadar"> mohbadar
+			</a><br/>
+			Mohammad Badar Hashimi
+		</td>
+		<td>Nsia & Asr </td>
+		<td><a href="https://twitter.com/mohbadarhashimi">mohbadarhashimi</a></td>
+		<td>Kabul Afghanistan</td>
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>350</td>
 		<td>
-			<a href="https://github.com/walid-mashal">
-				<img src="https://avatars.githubusercontent.com/u/30696582?s=72&u=3072ea3f715dda469bf08e0d4eaee1e5aac31a41&v=4" width="24" alt="Avatar of walid-mashal"> walid-mashal
+			<a href="https://github.com/RezaNaeemiRad">
+				<img src="https://avatars.githubusercontent.com/u/59737181?s=72&u=5e7804a5d6698a4d035b5ee9b4fa4780cc240738&v=4" width="24" alt="Avatar of RezaNaeemiRad"> RezaNaeemiRad
 			</a><br/>
-			Walid Mashal
+			Reza Naeemi
+		</td>
+		<td>Radazin Information Technology </td>
+		<td><a href="https://twitter.com/RezaNaeemiRad">RezaNaeemiRad</a></td>
+		<td>Afghanistan</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>351</td>
+		<td>
+			<a href="https://github.com/AhmadStudies">
+				<img src="https://avatars.githubusercontent.com/u/34029561?s=72&v=4" width="24" alt="Avatar of AhmadStudies"> AhmadStudies
+			</a><br/>
+			Ahmad Shah Habib
+		</td>
+		<td>Afghanweb </td>
+		<td>No Twitter Username</td>
+		<td>Herat Afghanistan</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>352</td>
+		<td>
+			<a href="https://github.com/Samira-Amiri">
+				<img src="https://avatars.githubusercontent.com/u/87242121?s=72&u=a30e8c4666619d201d0e5059f310a1bf5b8cb455&v=4" width="24" alt="Avatar of Samira-Amiri"> Samira-Amiri
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>kabul</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>353</td>
+		<td>
+			<a href="https://github.com/Mohammad-Ghafoori">
+				<img src="https://avatars.githubusercontent.com/u/65372613?s=72&u=16f9160362ef2412d413c9820d14447e6814aad3&v=4" width="24" alt="Avatar of Mohammad-Ghafoori"> Mohammad-Ghafoori
+			</a><br/>
+			Mohammad Ghafoori
+		</td>
+		<td>Ino </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan Herat </td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>354</td>
+		<td>
+			<a href="https://github.com/imrankazemi">
+				<img src="https://avatars.githubusercontent.com/u/108762939?s=72&u=4595d1c9b1fab14193e972580762934f5526ea56&v=4" width="24" alt="Avatar of imrankazemi"> imrankazemi
+			</a><br/>
+			Mohammad Imran Kazemi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2146,12 +4707,12 @@ There are `960 users`  in Afghanistan. You need at least `0 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>355</td>
 		<td>
-			<a href="https://github.com/Ali-Aref">
-				<img src="https://avatars.githubusercontent.com/u/61370091?s=72&u=79d3aea8e98477370975503314d50212cdcc3394&v=4" width="24" alt="Avatar of Ali-Aref"> Ali-Aref
+			<a href="https://github.com/aziznabizada">
+				<img src="https://avatars.githubusercontent.com/u/49517524?s=72&u=8d646370c22a2250d3e8ed9ced27e5044348d4fa&v=4" width="24" alt="Avatar of aziznabizada"> aziznabizada
 			</a><br/>
-			No Name
+			Mohammad Aziz Nabizada
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2159,72 +4720,202 @@ There are `960 users`  in Afghanistan. You need at least `0 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>356</td>
 		<td>
-			<a href="https://github.com/UmeedEmad">
-				<img src="https://avatars.githubusercontent.com/u/18365490?s=72&u=d00cd90bfc68fb8c77380110302271e1ca43b2e7&v=4" width="24" alt="Avatar of UmeedEmad"> UmeedEmad
+			<a href="https://github.com/aziznabizada">
+				<img src="https://avatars.githubusercontent.com/u/49517524?s=72&u=8d646370c22a2250d3e8ed9ced27e5044348d4fa&v=4" width="24" alt="Avatar of aziznabizada"> aziznabizada
 			</a><br/>
-			Umeedullah Emad
+			Mohammad Aziz Nabizada
 		</td>
-		<td>Umeedemad </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Herat, Afghanistan</td>
+		<td>Kabul Afghanistan</td>
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>357</td>
 		<td>
-			<a href="https://github.com/Saba-Saeedi">
-				<img src="https://avatars.githubusercontent.com/u/69328966?s=72&v=4" width="24" alt="Avatar of Saba-Saeedi"> Saba-Saeedi
+			<a href="https://github.com/Wahidaliyar">
+				<img src="https://avatars.githubusercontent.com/u/103150272?s=72&u=1c70126d615d65e6217e07ece799bb8901e3fd9e&v=4" width="24" alt="Avatar of Wahidaliyar"> Wahidaliyar
 			</a><br/>
-			No Name
+			Abdulwahid Aliyar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AlphaGeekSB">AlphaGeekSB</a></td>
-		<td>Kabul, Aghanistan</td>
+		<td><a href="https://twitter.com/wahidaliyarr">wahidaliyarr</a></td>
+		<td>Kabul/Afghanistan</td>
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>358</td>
 		<td>
-			<a href="https://github.com/Saba-Saeedi">
-				<img src="https://avatars.githubusercontent.com/u/69328966?s=72&v=4" width="24" alt="Avatar of Saba-Saeedi"> Saba-Saeedi
+			<a href="https://github.com/nasirmoheb">
+				<img src="https://avatars.githubusercontent.com/u/57741415?s=72&u=c381185de03d321fe00ed65b64054d7e024ef701&v=4" width="24" alt="Avatar of nasirmoheb"> nasirmoheb
 			</a><br/>
-			No Name
+			Nasir Ahmad Moheb
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AlphaGeekSB">AlphaGeekSB</a></td>
-		<td>Kabul, Aghanistan</td>
+		<td><a href="https://twitter.com/nasirmoheb_">nasirmoheb_</a></td>
+		<td>Badakhshan, Afghanistan </td>
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>359</td>
 		<td>
-			<a href="https://github.com/lucnicod">
-				<img src="https://avatars.githubusercontent.com/u/39966555?s=72&u=26f917cae70272a74544af28433c87853f80f9ed&v=4" width="24" alt="Avatar of lucnicod"> lucnicod
+			<a href="https://github.com/boz6336">
+				<img src="https://avatars.githubusercontent.com/u/133365283?s=72&u=bf50fc6572687403d97e6b22f3e2b73e214e6ac2&v=4" width="24" alt="Avatar of boz6336"> boz6336
 			</a><br/>
-			Luc Nicod
+			Ebrahimhashemy
 		</td>
-		<td>Federal Department Of Foreign<br/>Affairs<br/></td>
+		<td>Build  </td>
+		<td><a href="https://twitter.com/Ebrahim01018075">Ebrahim01018075</a></td>
+		<td>Afghanistan </td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>360</td>
+		<td>
+			<a href="https://github.com/Evo-Learning">
+				<img src="https://avatars.githubusercontent.com/u/101318280?s=72&u=718e995b29f0cfd5f1a244dab28e4e2a5718be17&v=4" width="24" alt="Avatar of Evo-Learning"> Evo-Learning
+			</a><br/>
+			Evolutive Learning by Muslim Helalee
+		</td>
+		<td>Evolutive Learning </td>
+		<td><a href="https://twitter.com/evo_learning">evo_learning</a></td>
+		<td>Afghanistan</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>361</td>
+		<td>
+			<a href="https://github.com/samimhamza-pgl">
+				<img src="https://avatars.githubusercontent.com/u/114285940?s=72&u=2b1b7458ece132104719007593db8bd6ed88d884&v=4" width="24" alt="Avatar of samimhamza-pgl"> samimhamza-pgl
+			</a><br/>
+			Ahmad Samim Hamza
+		</td>
+		<td>Peace Global Tech Llc<br/></td>
 		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>163</td>
-		<td>
-			<a href="https://github.com/Humayoon17">
-				<img src="https://avatars.githubusercontent.com/u/59541560?s=72&u=88307faa892882633594e8497782c4dfb238380b&v=4" width="24" alt="Avatar of Humayoon17"> Humayoon17
-			</a><br/>
-			Humayoon Muhammadi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Humayoon_17">Humayoon_17</a></td>
 		<td>Kabul, Afghanistan</td>
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>362</td>
+		<td>
+			<a href="https://github.com/azizpgl">
+				<img src="https://avatars.githubusercontent.com/u/111742707?s=72&u=133130d9c71dc79a878dad982521dfc0798a6c59&v=4" width="24" alt="Avatar of azizpgl"> azizpgl
+			</a><br/>
+			Aziz Nabizada
+		</td>
+		<td> Peace Global Logistic<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>363</td>
+		<td>
+			<a href="https://github.com/ShafiqSadat">
+				<img src="https://avatars.githubusercontent.com/u/22668836?s=72&u=eafa3796339fdcdaa97702e427fc38b5bae776c1&v=4" width="24" alt="Avatar of ShafiqSadat"> ShafiqSadat
+			</a><br/>
+			Shafiq Sadat
+		</td>
+		<td>@afbots  </td>
+		<td><a href="https://twitter.com/ShafiqSadat20">ShafiqSadat20</a></td>
+		<td>Afghanistan</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>364</td>
+		<td>
+			<a href="https://github.com/zafarshafaq">
+				<img src="https://avatars.githubusercontent.com/u/14288221?s=72&u=2162ca10453395a7683e347e4de4bcdd1ec4e72a&v=4" width="24" alt="Avatar of zafarshafaq"> zafarshafaq
+			</a><br/>
+			zafarshafaq
+		</td>
+		<td>Idevelop Software Solution </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>365</td>
+		<td>
+			<a href="https://github.com/65r">
+				<img src="https://avatars.githubusercontent.com/u/88870443?s=72&u=2f9296e2a6efd9052ffe390c587500419e752cd1&v=4" width="24" alt="Avatar of 65r"> 65r
+			</a><br/>
+			Nematullah
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan </td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>366</td>
+		<td>
+			<a href="https://github.com/65r">
+				<img src="https://avatars.githubusercontent.com/u/88870443?s=72&u=2f9296e2a6efd9052ffe390c587500419e752cd1&v=4" width="24" alt="Avatar of 65r"> 65r
+			</a><br/>
+			Nematullah
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan </td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>367</td>
+		<td>
+			<a href="https://github.com/Hussain1488">
+				<img src="https://avatars.githubusercontent.com/u/106614750?s=72&u=3121fc91e021b8a381d73659476fd99ba8b9fd56&v=4" width="24" alt="Avatar of Hussain1488"> Hussain1488
+			</a><br/>
+			Hussain Hedayati
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan, Kabul</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>368</td>
+		<td>
+			<a href="https://github.com/Nazari06">
+				<img src="https://avatars.githubusercontent.com/u/104348123?s=72&u=4e079231804dc351e91668dbe9b48e4a61f8f14c&v=4" width="24" alt="Avatar of Nazari06"> Nazari06
+			</a><br/>
+			Mahmood Nazari
+		</td>
+		<td>Hami </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>369</td>
+		<td>
+			<a href="https://github.com/AjmalHussainAhmadi">
+				<img src="https://avatars.githubusercontent.com/u/105153527?s=72&u=8eb783570f1b01c7badfa97765c1d13b22fc0e09&v=4" width="24" alt="Avatar of AjmalHussainAhmadi"> AjmalHussainAhmadi
+			</a><br/>
+			Ajmal Hussain Ahmadi
+		</td>
+		<td>Mcita </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>370</td>
+		<td>
+			<a href="https://github.com/AB-Omar">
+				<img src="https://avatars.githubusercontent.com/u/43162546?s=72&u=d68a979f3c101165eafac1c27acfb2c8c9884968&v=4" width="24" alt="Avatar of AB-Omar"> AB-Omar
+			</a><br/>
+			Abdulbasit Omar
+		</td>
+		<td>@atra </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/romalfaizyar">
 				<img src="https://avatars.githubusercontent.com/u/21338794?s=72&v=4" width="24" alt="Avatar of romalfaizyar"> romalfaizyar
@@ -2234,561 +4925,366 @@ There are `960 users`  in Afghanistan. You need at least `0 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>165</td>
-		<td>
-			<a href="https://github.com/Nemgeree-Armanonah">
-				<img src="https://avatars.githubusercontent.com/u/39020286?s=72&u=9edeb6a1a24eff85b2f5493e6c444c350b54ee3b&v=4" width="24" alt="Avatar of Nemgeree-Armanonah"> Nemgeree-Armanonah
-			</a><br/>
-			Nemgeree Armanonah
-		</td>
-		<td>Uth </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan </td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/musahaidari">
-				<img src="https://avatars.githubusercontent.com/u/8165629?s=72&v=4" width="24" alt="Avatar of musahaidari"> musahaidari
-			</a><br/>
-			Musa Haidari
-		</td>
-		<td>Mids Consulting </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/maisamaf">
-				<img src="https://avatars.githubusercontent.com/u/20711118?s=72&u=dc3ee471cf4f0ae053824f47bfb67a4b44cac515&v=4" width="24" alt="Avatar of maisamaf"> maisamaf
-			</a><br/>
-			 Maisam Afshar
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/imaisam">imaisam</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>168</td>
-		<td>
-			<a href="https://github.com/mr-wafi">
-				<img src="https://avatars.githubusercontent.com/u/62784458?s=72&u=e1f87e9e0c86983f84854b5a962c0edd92593517&v=4" width="24" alt="Avatar of mr-wafi"> mr-wafi
-			</a><br/>
-			мя wafi
-		</td>
-		<td>Gullposh </td>
-		<td><a href="https://twitter.com/xbwafi">xbwafi</a></td>
-		<td>Afghanistan</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>169</td>
-		<td>
-			<a href="https://github.com/shafiramaki">
-				<img src="https://avatars.githubusercontent.com/u/35919418?s=72&u=7edb6ca2e75ebea88c6777bd77e5537f036e85e1&v=4" width="24" alt="Avatar of shafiramaki"> shafiramaki
-			</a><br/>
-			Shafiullah Ramaki
-		</td>
-		<td>Eons Code </td>
-		<td>No Twitter Username</td>
-		<td>kabul,afghanistan</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>170</td>
-		<td>
-			<a href="https://github.com/MostafaNabawi">
-				<img src="https://avatars.githubusercontent.com/u/50819301?s=72&u=e34b3800913c54ad365824058d1a216b17e6c5df&v=4" width="24" alt="Avatar of MostafaNabawi"> MostafaNabawi
-			</a><br/>
-			Mustafa Nabavi
-		</td>
-		<td>@tutiatechnology </td>
-		<td><a href="https://twitter.com/MostafaNabawi2">MostafaNabawi2</a></td>
-		<td>Herat, Afghanistan</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>171</td>
-		<td>
-			<a href="https://github.com/OmerSalimMohmand">
-				<img src="https://avatars.githubusercontent.com/u/61202768?s=72&u=16d5c31dcafec6473d85ba1e3ae1e5b47a70954e&v=4" width="24" alt="Avatar of OmerSalimMohmand"> OmerSalimMohmand
-			</a><br/>
-			No Name
-		</td>
-		<td>Ministry Of Energy And<br/>Water<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>172</td>
-		<td>
-			<a href="https://github.com/bluebitconsulting">
-				<img src="https://avatars.githubusercontent.com/u/76871387?s=72&u=e829feffaf591f6fbf9a6684c87d84c35f24a703&v=4" width="24" alt="Avatar of bluebitconsulting"> bluebitconsulting
-			</a><br/>
-			BlueBit Networking Services
-		</td>
-		<td>Bluebit Networking Service </td>
-		<td>No Twitter Username</td>
-		<td>Sar-e-Kariz, Charahi Shaheed, Poly Sorkh, D#6, Kabul Afghanistan</td>
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>372</td>
 		<td>
-			<a href="https://github.com/bluebitconsulting">
-				<img src="https://avatars.githubusercontent.com/u/76871387?s=72&u=e829feffaf591f6fbf9a6684c87d84c35f24a703&v=4" width="24" alt="Avatar of bluebitconsulting"> bluebitconsulting
+			<a href="https://github.com/FaridQattali">
+				<img src="https://avatars.githubusercontent.com/u/43576586?s=72&u=dc9dcaea8b330b8b622ec2ddc46081fc33ebd768&v=4" width="24" alt="Avatar of FaridQattali"> FaridQattali
 			</a><br/>
-			BlueBit Networking Services
-		</td>
-		<td>Bluebit Networking Service </td>
-		<td>No Twitter Username</td>
-		<td>Sar-e-Kariz, Charahi Shaheed, Poly Sorkh, D#6, Kabul Afghanistan</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>174</td>
-		<td>
-			<a href="https://github.com/sohailbadghisi1">
-				<img src="https://avatars.githubusercontent.com/u/57681550?s=72&u=00efabaa4c01f786b39d8c856abc4aa6548db684&v=4" width="24" alt="Avatar of sohailbadghisi1"> sohailbadghisi1
-			</a><br/>
-			Sohail Badghisi
+			Sayed Farid Qattali
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Herat,afghanistan</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/ahmadshoaibjoya">
-				<img src="https://avatars.githubusercontent.com/u/19787421?s=72&u=8c0590a3b2cc13b348f3b472f605570348e07e55&v=4" width="24" alt="Avatar of ahmadshoaibjoya"> ahmadshoaibjoya
-			</a><br/>
-			Ahmad Shoaib Joya
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/hsaqibsz">
-				<img src="https://avatars.githubusercontent.com/u/28854928?s=72&u=e82aadf158a4672425dbccdd13bbc06d74aa1667&v=4" width="24" alt="Avatar of hsaqibsz"> hsaqibsz
-			</a><br/>
-			Hikmatullah 
-		</td>
-		<td>Organization For Relief Development<br/>(ord)<br/></td>
-		<td>No Twitter Username</td>
-		<td>kabul-afghanistan</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>177</td>
-		<td>
-			<a href="https://github.com/Qais-Haidari">
-				<img src="https://avatars.githubusercontent.com/u/63033514?s=72&u=7c9184e54dd54d9952f63c40a169cec90691ccd8&v=4" width="24" alt="Avatar of Qais-Haidari"> Qais-Haidari
-			</a><br/>
-			Qais
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>afghanistan</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>178</td>
-		<td>
-			<a href="https://github.com/podcoder">
-				<img src="https://avatars.githubusercontent.com/u/25810841?s=72&u=8a15626e727be5db567741f68c75b59c410558e9&v=4" width="24" alt="Avatar of podcoder"> podcoder
-			</a><br/>
-			Seddiq Sorush
-		</td>
-		<td>International Organization For Migration<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>179</td>
-		<td>
-			<a href="https://github.com/sultanzada">
-				<img src="https://avatars.githubusercontent.com/u/14036691?s=72&u=e0889f62621f2b1dd6a7dfb515e2009f0b6df676&v=4" width="24" alt="Avatar of sultanzada"> sultanzada
-			</a><br/>
-			No Name
-		</td>
-		<td>Afghanhost </td>
-		<td>No Twitter Username</td>
-		<td>Herat</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
-			<a href="https://github.com/MasihKarimi">
-				<img src="https://avatars.githubusercontent.com/u/21160577?s=72&u=d623256bc5a309fda760461305453d9a624fdefe&v=4" width="24" alt="Avatar of MasihKarimi"> MasihKarimi
-			</a><br/>
-			Masih Karimi
-		</td>
-		<td>Zeersign Software Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Kabul/Afghanistan</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>181</td>
-		<td>
-			<a href="https://github.com/MasihKarimi">
-				<img src="https://avatars.githubusercontent.com/u/21160577?s=72&u=d623256bc5a309fda760461305453d9a624fdefe&v=4" width="24" alt="Avatar of MasihKarimi"> MasihKarimi
-			</a><br/>
-			Masih Karimi
-		</td>
-		<td>Zeersign Software Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Kabul/Afghanistan</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>182</td>
-		<td>
-			<a href="https://github.com/hoshmandaqil">
-				<img src="https://avatars.githubusercontent.com/u/57030631?s=72&u=f2ac7e0c4ab1877907bd4deb0a70e59ee33112ff&v=4" width="24" alt="Avatar of hoshmandaqil"> hoshmandaqil
-			</a><br/>
-			Aqil Hoshmand
-		</td>
-		<td>@rapiditeration </td>
-		<td><a href="https://twitter.com/aqil_hoshmand">aqil_hoshmand</a></td>
-		<td>Afghanistan</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>183</td>
-		<td>
-			<a href="https://github.com/KhalidObaide">
-				<img src="https://avatars.githubusercontent.com/u/46670360?s=72&u=ea0b7690184710f81d460f6b0517cc058fce4ef4&v=4" width="24" alt="Avatar of KhalidObaide"> KhalidObaide
-			</a><br/>
-			Khalid Obaide
-		</td>
-		<td>Lajwardco </td>
-		<td><a href="https://twitter.com/ObaideKhalid">ObaideKhalid</a></td>
-		<td>Herat, Afghanistan</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>184</td>
-		<td>
-			<a href="https://github.com/Matin-Naqshbandi">
-				<img src="https://avatars.githubusercontent.com/u/45973794?s=72&u=12c9ddab573db60934257116e4db4446df49c2c3&v=4" width="24" alt="Avatar of Matin-Naqshbandi"> Matin-Naqshbandi
-			</a><br/>
-			Matin Naqshbandi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>185</td>
-		<td>
-			<a href="https://github.com/azad47808">
-				<img src="https://avatars.githubusercontent.com/u/42833500?s=72&u=da79417eb3fda626196f7efe7c9cebdfd31ee1cd&v=4" width="24" alt="Avatar of azad47808"> azad47808
-			</a><br/>
-			AliAzad
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>186</td>
-		<td>
-			<a href="https://github.com/mbshaban">
-				<img src="https://avatars.githubusercontent.com/u/42973778?s=72&u=803d70b02c04e713e6bf44a25a67eba0e76a396f&v=4" width="24" alt="Avatar of mbshaban"> mbshaban
-			</a><br/>
-			belal
-		</td>
-		<td>Raybold </td>
-		<td>No Twitter Username</td>
-		<td>afghanistan - kabul</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>187</td>
-		<td>
-			<a href="https://github.com/ssahim">
-				<img src="https://avatars.githubusercontent.com/u/32739357?s=72&u=1b682901d7afaf82d561af568e91dac358299e84&v=4" width="24" alt="Avatar of ssahim"> ssahim
-			</a><br/>
-			Sayed Ahmad Sahim
-		</td>
-		<td>Kandahar University </td>
-		<td>No Twitter Username</td>
-		<td>Kandahar, Afghanistan</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a href="https://github.com/ZakhilAmin">
-				<img src="https://avatars.githubusercontent.com/u/23170466?s=72&u=7dc2f9a30eac95744aa74a56f96fef3e181534ce&v=4" width="24" alt="Avatar of ZakhilAmin"> ZakhilAmin
-			</a><br/>
-			Amin Gul Zakhil
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>189</td>
-		<td>
-			<a href="https://github.com/HanifullahJamalzai">
-				<img src="https://avatars.githubusercontent.com/u/43265047?s=72&v=4" width="24" alt="Avatar of HanifullahJamalzai"> HanifullahJamalzai
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/hanifullahjamal">hanifullahjamal</a></td>
-		<td>Afghanistan</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>190</td>
-		<td>
-			<a href="https://github.com/rafihaidari">
-				<img src="https://avatars.githubusercontent.com/u/24665898?s=72&u=6677c0b466a4d34d249a671a6b635ff8d6cfecf6&v=4" width="24" alt="Avatar of rafihaidari"> rafihaidari
-			</a><br/>
-			Rafi Haidari
-		</td>
-		<td>@pomtechteam  </td>
 		<td>No Twitter Username</td>
 		<td>Herat, Afghanistan</td>
-		<td>11</td>
+		<td>13</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>373</td>
 		<td>
-			<a href="https://github.com/mohsenkarimi-mk">
-				<img src="https://avatars.githubusercontent.com/u/71186740?s=72&u=bd1f0b7cd17bbaaa42439d67621b68e9f18dc95a&v=4" width="24" alt="Avatar of mohsenkarimi-mk"> mohsenkarimi-mk
+			<a href="https://github.com/FaridQattali">
+				<img src="https://avatars.githubusercontent.com/u/43576586?s=72&u=dc9dcaea8b330b8b622ec2ddc46081fc33ebd768&v=4" width="24" alt="Avatar of FaridQattali"> FaridQattali
 			</a><br/>
-			Mohsen Karimi
+			Sayed Farid Qattali
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Mohsen__karimi">Mohsen__karimi</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>11</td>
+		<td>No Twitter Username</td>
+		<td>Herat, Afghanistan</td>
+		<td>13</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>374</td>
 		<td>
-			<a href="https://github.com/ahmadi70">
-				<img src="https://avatars.githubusercontent.com/u/26131755?s=72&u=e742b3008a6cc183274ceabb7d625e83dbbe8d3a&v=4" width="24" alt="Avatar of ahmadi70"> ahmadi70
+			<a href="https://github.com/SalehBagheri">
+				<img src="https://avatars.githubusercontent.com/u/8124646?s=72&u=321ffbcdc7254945dc809e57252b8f7179b73a8d&v=4" width="24" alt="Avatar of SalehBagheri"> SalehBagheri
 			</a><br/>
-			Nahid Ahmadi
+			Saleh Bagheri
 		</td>
-		<td>Codeto Inspire </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>375</td>
+		<td>
+			<a href="https://github.com/RezaHabibi1001">
+				<img src="https://avatars.githubusercontent.com/u/74239217?s=72&u=f4ba6a61d225abe5d6b1ce0b2c7d512e25b28be3&v=4" width="24" alt="Avatar of RezaHabibi1001"> RezaHabibi1001
+			</a><br/>
+			RezaHabibi
+		</td>
+		<td>Anar </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>376</td>
+		<td>
+			<a href="https://github.com/elyas-nawabi">
+				<img src="https://avatars.githubusercontent.com/u/37258366?s=72&u=d25123343067ea7c4891a6ed56188a30e7e50025&v=4" width="24" alt="Avatar of elyas-nawabi"> elyas-nawabi
+			</a><br/>
+			Mohamad Elyas Nawabi
+		</td>
+		<td>Milestonetechs </td>
+		<td><a href="https://twitter.com/elyas_nawabi19">elyas_nawabi19</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>377</td>
+		<td>
+			<a href="https://github.com/AhmadSinaSaeedi">
+				<img src="https://avatars.githubusercontent.com/u/49959868?s=72&u=f53db40782e46f29513b7a798a2ebb5cee7f894e&v=4" width="24" alt="Avatar of AhmadSinaSaeedi"> AhmadSinaSaeedi
+			</a><br/>
+			Ahmad Sina Saeedi
+		</td>
+		<td>Anar Company </td>
+		<td><a href="https://twitter.com/ah_SinaSaeedi">ah_SinaSaeedi</a></td>
 		<td>Afghanistan, Herat</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>378</td>
+		<td>
+			<a href="https://github.com/ESMAT001">
+				<img src="https://avatars.githubusercontent.com/u/56363653?s=72&u=f8a8e4d367991b62fdd0db3ffe6271d413f0432d&v=4" width="24" alt="Avatar of ESMAT001"> ESMAT001
+			</a><br/>
+			Esmatullah Niazi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/esmat0100">esmat0100</a></td>
+		<td>Kabul Afghanistan</td>
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>379</td>
 		<td>
-			<a href="https://github.com/SaeedPeyman">
-				<img src="https://avatars.githubusercontent.com/u/29803274?s=72&u=1acad7ad29e5c0ce84a6e57681ecd0bc56ea9ddf&v=4" width="24" alt="Avatar of SaeedPeyman"> SaeedPeyman
+			<a href="https://github.com/mahdighyasi626">
+				<img src="https://avatars.githubusercontent.com/u/57662605?s=72&u=36b35a38adb3449a65bd8d3dbeacadc692b6265b&v=4" width="24" alt="Avatar of mahdighyasi626"> mahdighyasi626
 			</a><br/>
-			Saeed Peyman
+			Mahdi Ghyasi
 		</td>
-		<td>American University Of Afghanistan<br/></td>
+		<td>Netlinks Ltd </td>
+		<td><a href="https://twitter.com/mahdighyasi_96">mahdighyasi_96</a></td>
+		<td>Kabul</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>380</td>
+		<td>
+			<a href="https://github.com/iampopal">
+				<img src="https://avatars.githubusercontent.com/u/36197852?s=72&u=ec52a1876951558e3c466d94bdb53594b48bd402&v=4" width="24" alt="Avatar of iampopal"> iampopal
+			</a><br/>
+			Abdurahman Popal
+		</td>
+		<td>Saawis  </td>
+		<td>No Twitter Username</td>
+		<td>Mazar-e-sharif, Afghanistan</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>381</td>
+		<td>
+			<a href="https://github.com/MuhammadFRZN">
+				<img src="https://avatars.githubusercontent.com/u/65233481?s=72&u=08e5d6601cc2f4ae9f7b183bbd784add8aa10217&v=4" width="24" alt="Avatar of MuhammadFRZN"> MuhammadFRZN
+			</a><br/>
+			Muhammad Farzan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/frzn_hydari">frzn_hydari</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>382</td>
+		<td>
+			<a href="https://github.com/Farihahaqiqi">
+				<img src="https://avatars.githubusercontent.com/u/116056668?s=72&u=149906c957a79b65adda8941adcc8834756a736b&v=4" width="24" alt="Avatar of Farihahaqiqi"> Farihahaqiqi
+			</a><br/>
+			Fariha Haqiqi
+		</td>
+		<td>Codetoinspire </td>
+		<td><a href="https://twitter.com/farihahaqiqi">farihahaqiqi</a></td>
+		<td> Afghanistan</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>383</td>
+		<td>
+			<a href="https://github.com/samiruser">
+				<img src="https://avatars.githubusercontent.com/u/42918364?s=72&u=b8244dc40629485a8a8a031b08c635385df20179&v=4" width="24" alt="Avatar of samiruser"> samiruser
+			</a><br/>
+			Samir
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>384</td>
+		<td>
+			<a href="https://github.com/Waqef">
+				<img src="https://avatars.githubusercontent.com/u/103654903?s=72&u=d70a28cdd3f892b98f01a54c2bdf95a6f837cb9d&v=4" width="24" alt="Avatar of Waqef"> Waqef
+			</a><br/>
+			Shamsuddin Waqef 
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/shamswaqef">shamswaqef</a></td>
+		<td>Afghanistan</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>385</td>
+		<td>
+			<a href="https://github.com/Muhaddesa">
+				<img src="https://avatars.githubusercontent.com/u/86623515?s=72&u=f6c447969213f2cd8dcee609da2574158473fba9&v=4" width="24" alt="Avatar of Muhaddesa"> Muhaddesa
+			</a><br/>
+			Muhaddesa Noori
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MHds88">MHds88</a></td>
+		<td>Afghanistan</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>386</td>
+		<td>
+			<a href="https://github.com/abdullatif143">
+				<img src="https://avatars.githubusercontent.com/u/113279817?s=72&u=d04a991df521ea1c4e8e43a477edc8a8ea736db3&v=4" width="24" alt="Avatar of abdullatif143"> abdullatif143
+			</a><br/>
+			Abdullatif Mubariz
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/abdullatifmub10">abdullatifmub10</a></td>
+		<td>Kabul, Afganistan</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>387</td>
+		<td>
+			<a href="https://github.com/nooriallah">
+				<img src="https://avatars.githubusercontent.com/u/93869756?s=72&u=cb134d9b4e6b12c299432ec71d8d44b08c339974&v=4" width="24" alt="Avatar of nooriallah"> nooriallah
+			</a><br/>
+			Nooriallah
+		</td>
+		<td>Obrang </td>
 		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan</td>
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>388</td>
 		<td>
-			<a href="https://github.com/MassoudSharifi">
-				<img src="https://avatars.githubusercontent.com/u/43839019?s=72&u=9ac097c288a770a191bf423993d6050d531420d7&v=4" width="24" alt="Avatar of MassoudSharifi"> MassoudSharifi
+			<a href="https://github.com/Saberhacker">
+				<img src="https://avatars.githubusercontent.com/u/31983680?s=72&u=a6e30c589915e9fe3c58630cb9480e17b7ce3c4d&v=4" width="24" alt="Avatar of Saberhacker"> Saberhacker
 			</a><br/>
-			Massoud Sharifi
+			Saber-Seerat
 		</td>
-		<td>Microcis </td>
-		<td><a href="https://twitter.com/MassoudFaizShar">MassoudFaizShar</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan/Kabul</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>389</td>
+		<td>
+			<a href="https://github.com/AbdulWahahb">
+				<img src="https://avatars.githubusercontent.com/u/135337726?s=72&u=f954cdaa57921ffdb33c89856171dc52adf08135&v=4" width="24" alt="Avatar of AbdulWahahb"> AbdulWahahb
+			</a><br/>
+			Abdulwahab
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Afghanistan</td>
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>390</td>
 		<td>
-			<a href="https://github.com/Akbari300">
-				<img src="https://avatars.githubusercontent.com/u/32899288?s=72&u=313bb951664503fec1de995c7bfe1dc7e145d25e&v=4" width="24" alt="Avatar of Akbari300"> Akbari300
+			<a href="https://github.com/nassiry">
+				<img src="https://avatars.githubusercontent.com/u/105405739?s=72&u=03f95db84bd087f64fedac5336a26039a323b589&v=4" width="24" alt="Avatar of nassiry"> nassiry
 			</a><br/>
-			Ali Akbari
+			A.S Nasseri
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>391</td>
+		<td>
+			<a href="https://github.com/danishZKR">
+				<img src="https://avatars.githubusercontent.com/u/35831644?s=72&u=f92b28fd48725fcb4a3500304039fb20605afc59&v=4" width="24" alt="Avatar of danishZKR"> danishZKR
+			</a><br/>
+			Zikrullah Danish
+		</td>
+		<td>Afghanistan Central Bank </td>
 		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan</td>
-		<td>10</td>
+		<td>11</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>392</td>
 		<td>
-			<a href="https://github.com/itisWahid">
-				<img src="https://avatars.githubusercontent.com/u/44894842?s=72&u=c62a600b6fbf0a9f6db09279e281a04aa49df1bc&v=4" width="24" alt="Avatar of itisWahid"> itisWahid
+			<a href="https://github.com/RayeesOmidMazari">
+				<img src="https://avatars.githubusercontent.com/u/111547613?s=72&u=ae7e00d8945e8be202e23fcb2ae995ff68747ee4&v=4" width="24" alt="Avatar of RayeesOmidMazari"> RayeesOmidMazari
 			</a><br/>
-			Wahid Sabiri
+			ᖇᗩᎩᗴᗴᔑ ᝪᗰᏆᗞ ᑕᎩᗷᗴᖇᎩ
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/itiswahid">itiswahid</a></td>
-		<td>Afghanistan</td>
-		<td>10</td>
+		<td>Afghanistan  </td>
+		<td><a href="https://twitter.com/RaYeesHcker">RaYeesHcker</a></td>
+		<td>Afghanistan Mazair Sharif</td>
+		<td>11</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>393</td>
 		<td>
-			<a href="https://github.com/Elham-karbasi">
-				<img src="https://avatars.githubusercontent.com/u/57432784?s=72&u=e44bde3008c5c35b1a0e9d98f92d590537f91b2e&v=4" width="24" alt="Avatar of Elham-karbasi"> Elham-karbasi
-			</a><br/>
-			Elham Karbasi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kandahar, Afghanistan</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>198</td>
-		<td>
-			<a href="https://github.com/Hamzakfareed">
-				<img src="https://avatars.githubusercontent.com/u/25123404?s=72&u=a1ad057de63894e6d476ecd626cc643a8ee2b144&v=4" width="24" alt="Avatar of Hamzakfareed"> Hamzakfareed
-			</a><br/>
-			Hamza Fareed
-		</td>
-		<td>Fourzon </td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>199</td>
-		<td>
-			<a href="https://github.com/HikmatullahEhsan">
-				<img src="https://avatars.githubusercontent.com/u/23573173?s=72&u=7f7597448d7dcfc79b1baf6b0c2b6364dac3ce36&v=4" width="24" alt="Avatar of HikmatullahEhsan"> HikmatullahEhsan
-			</a><br/>
-			Hekmatullah
-		</td>
-		<td>Dna Consultants </td>
-		<td>No Twitter Username</td>
-		<td>Kabul , Afghanistan</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/MalihaBahar">
-				<img src="https://avatars.githubusercontent.com/u/77227465?s=72&u=c784ab8781653e283cec831db86d4d264c081dfd&v=4" width="24" alt="Avatar of MalihaBahar"> MalihaBahar
-			</a><br/>
-			MalihaShahi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/MalihaShahi">MalihaShahi</a></td>
-		<td>Kabul Afghanistan</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>201</td>
-		<td>
-			<a href="https://github.com/ahmadshah-12">
-				<img src="https://avatars.githubusercontent.com/u/81696128?s=72&v=4" width="24" alt="Avatar of ahmadshah-12"> ahmadshah-12
+			<a href="https://github.com/Mohammadjan1122">
+				<img src="https://avatars.githubusercontent.com/u/63337310?s=72&u=0455d7c815e3c1eb811e2ce4b22c7779994e970d&v=4" width="24" alt="Avatar of Mohammadjan1122"> Mohammadjan1122
 			</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Afghanistan </td>
+		<td>Mazar sharif afghanistan</td>
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>394</td>
 		<td>
-			<a href="https://github.com/LVSEC">
-				<img src="https://avatars.githubusercontent.com/u/60835468?s=72&u=bce445861fdf78f75064da8997b54ef346f343b9&v=4" width="24" alt="Avatar of LVSEC"> LVSEC
+			<a href="https://github.com/hamidsafdari">
+				<img src="https://avatars.githubusercontent.com/u/5158006?s=72&v=4" width="24" alt="Avatar of hamidsafdari"> hamidsafdari
 			</a><br/>
-			LVSEC
+			Hamid Safdari
+		</td>
+		<td>Afghanistan Central Bank </td>
+		<td><a href="https://twitter.com/hamidsafdari">hamidsafdari</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>395</td>
+		<td>
+			<a href="https://github.com/MMnaimi">
+				<img src="https://avatars.githubusercontent.com/u/45477322?s=72&u=ada4145c8ec94f4f7f9ac0d584ffbf6cdb1c4b9a&v=4" width="24" alt="Avatar of MMnaimi"> MMnaimi
+			</a><br/>
+			Mohammad Murtaza Naimi
+		</td>
+		<td>Netlinks Ltd </td>
+		<td>No Twitter Username</td>
+		<td>kabul</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>396</td>
+		<td>
+			<a href="https://github.com/MohammadSamirAskan">
+				<img src="https://avatars.githubusercontent.com/u/76533128?s=72&v=4" width="24" alt="Avatar of MohammadSamirAskan"> MohammadSamirAskan
+			</a><br/>
+			Mohammad Samir Ashkan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/LVSEC_AF">LVSEC_AF</a></td>
+		<td>No Twitter Username</td>
 		<td>Afghanistan</td>
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>397</td>
 		<td>
-			<a href="https://github.com/samiramiri88">
-				<img src="https://avatars.githubusercontent.com/u/87090389?s=72&u=02e9a2ae23ddf941cb3a72e8d5cca80195ec1f13&v=4" width="24" alt="Avatar of samiramiri88"> samiramiri88
+			<a href="https://github.com/jumahmohammadi">
+				<img src="https://avatars.githubusercontent.com/u/37100506?s=72&u=297844b4e48e4c4afec939cfd55e471299f04382&v=4" width="24" alt="Avatar of jumahmohammadi"> jumahmohammadi
 			</a><br/>
-			Shahzada samir 
+			Jumah
 		</td>
-		<td>Dr </td>
-		<td><a href="https://twitter.com/samiramiri88">samiramiri88</a></td>
-		<td>Kabul </td>
+		<td>Iraqsoft </td>
+		<td><a href="https://twitter.com/jumah_mohammadi">jumah_mohammadi</a></td>
+		<td>Herat , Afghanistan</td>
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>398</td>
 		<td>
-			<a href="https://github.com/mohammadsajeed">
-				<img src="https://avatars.githubusercontent.com/u/82529285?s=72&u=d221502cda348af726cbf71f5f95e391b8810060&v=4" width="24" alt="Avatar of mohammadsajeed"> mohammadsajeed
+			<a href="https://github.com/NisarUlfat1">
+				<img src="https://avatars.githubusercontent.com/u/116214383?s=72&u=1f2fbf388a487ea2d8713b7a27579e764f55aa88&v=4" width="24" alt="Avatar of NisarUlfat1"> NisarUlfat1
 			</a><br/>
-			Mohammad Sajeed 
+			Nisar Ulfat
 		</td>
-		<td>Rta </td>
+		<td>Ayazi Pharmacy </td>
 		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
+		<td>Kandahar,Afghanistan</td>
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>399</td>
 		<td>
-			<a href="https://github.com/darmalkhan">
-				<img src="https://avatars.githubusercontent.com/u/71965621?s=72&u=b8f1a225a93d712ae7051d8d4fe6a388e4fccecf&v=4" width="24" alt="Avatar of darmalkhan"> darmalkhan
+			<a href="https://github.com/M-Ahmadi-2002">
+				<img src="https://avatars.githubusercontent.com/u/130595306?s=72&v=4" width="24" alt="Avatar of M-Ahmadi-2002"> M-Ahmadi-2002
 			</a><br/>
-			darmal gulabzoi
-		</td>
-		<td>Iarcsc(independent Administrative Resources And<br/>Civil<br/>Services<br/>)<br/></td>
-		<td><a href="https://twitter.com/darmal47">darmal47</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>206</td>
-		<td>
-			<a href="https://github.com/sman2020">
-				<img src="https://avatars.githubusercontent.com/u/70079958?s=72&u=59da792ad46ca1c2153fcb1cf9d26a0f396b9449&v=4" width="24" alt="Avatar of sman2020"> sman2020
-			</a><br/>
-			Sayed Mustafa Alawi 
-		</td>
-		<td>Kite Runner </td>
-		<td>No Twitter Username</td>
-		<td>Herat, Afghanistan</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>207</td>
-		<td>
-			<a href="https://github.com/mustafaaloko">
-				<img src="https://avatars.githubusercontent.com/u/4721735?s=72&u=2d6d1abeb0d69f9c74f9f1c4d9564dc4873d6d96&v=4" width="24" alt="Avatar of mustafaaloko"> mustafaaloko
-			</a><br/>
-			Mustafa Ehsan Alokozay
+			Milad
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2796,85 +5292,7 @@ There are `960 users`  in Afghanistan. You need at least `0 followers` to be on 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>208</td>
-		<td>
-			<a href="https://github.com/farhadsadat">
-				<img src="https://avatars.githubusercontent.com/u/7261724?s=72&u=17f71076c21aa104979db4f7aa362df4649231c6&v=4" width="24" alt="Avatar of farhadsadat"> farhadsadat
-			</a><br/>
-			Farhad Sadat
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/netrahmani">
-				<img src="https://avatars.githubusercontent.com/u/43290247?s=72&u=c1bb38aea51cc51c5732714c2f338c98fd632ca9&v=4" width="24" alt="Avatar of netrahmani"> netrahmani
-			</a><br/>
-			Mohammad Rahmani
-		</td>
-		<td>@netlinksaf </td>
-		<td><a href="https://twitter.com/afgprogrammer">afgprogrammer</a></td>
-		<td>Afghanistan, Kabul</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>210</td>
-		<td>
-			<a href="https://github.com/Mohammad-Yasin-Noori">
-				<img src="https://avatars.githubusercontent.com/u/20409577?s=72&u=15be0379dc78d8d0d06ec259466ddc7e187e11e6&v=4" width="24" alt="Avatar of Mohammad-Yasin-Noori"> Mohammad-Yasin-Noori
-			</a><br/>
-			Mohammad Yasin Noori
-		</td>
-		<td>Office Of The President<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>211</td>
-		<td>
-			<a href="https://github.com/naqibhakimi">
-				<img src="https://avatars.githubusercontent.com/u/8378897?s=72&v=4" width="24" alt="Avatar of naqibhakimi"> naqibhakimi
-			</a><br/>
-			No Name
-		</td>
-		<td>@technation </td>
-		<td>No Twitter Username</td>
-		<td>Kabul , Afghanistan</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>212</td>
-		<td>
-			<a href="https://github.com/SaeedaRasuly">
-				<img src="https://avatars.githubusercontent.com/u/57433018?s=72&u=d376b8587b36959485291b589cab462ca9879d27&v=4" width="24" alt="Avatar of SaeedaRasuly"> SaeedaRasuly
-			</a><br/>
-			Saeeda Rasuly
-		</td>
-		<td>Codex </td>
-		<td>No Twitter Username</td>
-		<td>Kandahar, Afghanistan</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>213</td>
-		<td>
-			<a href="https://github.com/Ejazulhaq21">
-				<img src="https://avatars.githubusercontent.com/u/51711171?s=72&u=df8026d2646ad9bee7c0a580dbc8d0517e61b5cf&v=4" width="24" alt="Avatar of Ejazulhaq21"> Ejazulhaq21
-			</a><br/>
-			Ejazulhaq Malik
-		</td>
-		<td>Unic App </td>
-		<td><a href="https://twitter.com/ezmalik19">ezmalik19</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>214</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/ShilaWalizade2121">
 				<img src="https://avatars.githubusercontent.com/u/48326839?s=72&u=5a3ca619bcce4237dc3871cd929fd9a266d763ea&v=4" width="24" alt="Avatar of ShilaWalizade2121"> ShilaWalizade2121
@@ -2887,2165 +5305,215 @@ There are `960 users`  in Afghanistan. You need at least `0 followers` to be on 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>401</td>
 		<td>
-			<a href="https://github.com/ElhamKohestani">
-				<img src="https://avatars.githubusercontent.com/u/13310417?s=72&u=d5ba940be0c095b757be9651ba9c08f483d9434d&v=4" width="24" alt="Avatar of ElhamKohestani"> ElhamKohestani
+			<a href="https://github.com/kalims-sahebi">
+				<img src="https://avatars.githubusercontent.com/u/102899692?s=72&u=69e0506fe56a301f23dbea08b3cd026c035ec75d&v=4" width="24" alt="Avatar of kalims-sahebi"> kalims-sahebi
 			</a><br/>
-			Elham Kohestani
+			Kalimullah Sahebi
 		</td>
-		<td>National Statistics And Information<br/>Authority<br/>@nsia-infosys<br/><br/></td>
+		<td>Freelancing </td>
 		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>402</td>
+		<td>
+			<a href="https://github.com/SaidShahAhmadi">
+				<img src="https://avatars.githubusercontent.com/u/27332667?s=72&u=5ccbab4033a508e7fb6afc91f048bed33d52461b&v=4" width="24" alt="Avatar of SaidShahAhmadi"> SaidShahAhmadi
+			</a><br/>
+			SaidShahAhmadi
+		</td>
+		<td>No Company Student <br/></td>
+		<td><a href="https://twitter.com/SaidShahAhmadi">SaidShahAhmadi</a></td>
+		<td>kabul</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>403</td>
+		<td>
+			<a href="https://github.com/Husamuddin-Muzaffar">
+				<img src="https://avatars.githubusercontent.com/u/128698737?s=72&u=016dd4d69f561ecf2051ca2f2cad89c5eff4f7a4&v=4" width="24" alt="Avatar of Husamuddin-Muzaffar"> Husamuddin-Muzaffar
+			</a><br/>
+			Husamuddin Muzaffar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mazar e Sharif Afghanistan</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>404</td>
+		<td>
+			<a href="https://github.com/sroheed">
+				<img src="https://avatars.githubusercontent.com/u/20150652?s=72&u=0a17274425abe800d80ffaff6928ade7794f3ac5&v=4" width="24" alt="Avatar of sroheed"> sroheed
+			</a><br/>
+			Mohammad Rohid safi 
+		</td>
+		<td>Freelancer - Rohidsafi.org </td>
+		<td><a href="https://twitter.com/sroheed">sroheed</a></td>
 		<td>Kabul, Afghanistan</td>
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>405</td>
 		<td>
-			<a href="https://github.com/ElhamKohestani">
-				<img src="https://avatars.githubusercontent.com/u/13310417?s=72&u=d5ba940be0c095b757be9651ba9c08f483d9434d&v=4" width="24" alt="Avatar of ElhamKohestani"> ElhamKohestani
+			<a href="https://github.com/mustafaaloko">
+				<img src="https://avatars.githubusercontent.com/u/4721735?s=72&u=2d6d1abeb0d69f9c74f9f1c4d9564dc4873d6d96&v=4" width="24" alt="Avatar of mustafaaloko"> mustafaaloko
 			</a><br/>
-			Elham Kohestani
+			Mustafa Ehsan Alokozay
 		</td>
-		<td>National Statistics And Information<br/>Authority<br/>@nsia-infosys<br/><br/></td>
+		<td>@aidrivers  </td>
 		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>217</td>
-		<td>
-			<a href="https://github.com/alirezaLG">
-				<img src="https://avatars.githubusercontent.com/u/6204266?s=72&u=364923a2e33482d9cae08fc88768891844c0f7ff&v=4" width="24" alt="Avatar of alirezaLG"> alirezaLG
-			</a><br/>
-			Alireza Akbari
-		</td>
-		<td>Techsharks </td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>406</td>
 		<td>
-			<a href="https://github.com/alirezaLG">
-				<img src="https://avatars.githubusercontent.com/u/6204266?s=72&u=364923a2e33482d9cae08fc88768891844c0f7ff&v=4" width="24" alt="Avatar of alirezaLG"> alirezaLG
+			<a href="https://github.com/AbdulWahabAchakzai">
+				<img src="https://avatars.githubusercontent.com/u/24620093?s=72&u=3eb212bcf3bf0b6e97989fb0d3febb375778e607&v=4" width="24" alt="Avatar of AbdulWahabAchakzai"> AbdulWahabAchakzai
 			</a><br/>
-			Alireza Akbari
+			Abdul Wahab Achakzai
 		</td>
-		<td>Techsharks </td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
+		<td>@nsia-infosys </td>
+		<td><a href="https://twitter.com/wahabachakzai">wahabachakzai</a></td>
+		<td>kabul/Afghanistan</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>407</td>
 		<td>
-			<a href="https://github.com/kamranhanif27">
-				<img src="https://avatars.githubusercontent.com/u/42893126?s=72&u=ec0a8fc33051b4f3c1442e0dcf27dfced7d2be82&v=4" width="24" alt="Avatar of kamranhanif27"> kamranhanif27
+			<a href="https://github.com/azizullahsaeidi">
+				<img src="https://avatars.githubusercontent.com/u/18898699?s=72&u=82e486fdbef28573346949213002b68d430d552e&v=4" width="24" alt="Avatar of azizullahsaeidi"> azizullahsaeidi
 			</a><br/>
-			Kamran Hanif
+			Azizullah Saeidi
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Rapiditeration </td>
+		<td><a href="https://twitter.com/azizullahsaeidi">azizullahsaeidi</a></td>
+		<td>Kabul Afghanistan</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>408</td>
+		<td>
+			<a href="https://github.com/WajihaNiazi">
+				<img src="https://avatars.githubusercontent.com/u/42426067?s=72&u=ab197c5cb7dbd1b4e4d359b0a2efedb4a6320cd1&v=4" width="24" alt="Avatar of WajihaNiazi"> WajihaNiazi
+			</a><br/>
+			Wajiha Niazi
+		</td>
+		<td>Codetoinspire </td>
+		<td><a href="https://twitter.com/Wajiha_Niazi">Wajiha_Niazi</a></td>
+		<td>Herat,, Afghanistan</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>409</td>
+		<td>
+			<a href="https://github.com/MostafaNabawi">
+				<img src="https://avatars.githubusercontent.com/u/50819301?s=72&u=e34b3800913c54ad365824058d1a216b17e6c5df&v=4" width="24" alt="Avatar of MostafaNabawi"> MostafaNabawi
+			</a><br/>
+			Mustafa Nabavi
+		</td>
+		<td>@tutiatechnology </td>
+		<td><a href="https://twitter.com/MostafaNabawi2">MostafaNabawi2</a></td>
 		<td>Herat, Afghanistan</td>
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>220</td>
-		<td>
-			<a href="https://github.com/jalilahmad">
-				<img src="https://avatars.githubusercontent.com/u/6159444?s=72&u=122a995f8d591d961791aaae7253f010e3c2fc21&v=4" width="24" alt="Avatar of jalilahmad"> jalilahmad
-			</a><br/>
-			جلیل احمد
-		</td>
-		<td>X 0011 Group </td>
-		<td>No Twitter Username</td>
-		<td>Herat,Afghanistan</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>221</td>
-		<td>
-			<a href="https://github.com/obaidullahzaland">
-				<img src="https://avatars.githubusercontent.com/u/37972907?s=72&v=4" width="24" alt="Avatar of obaidullahzaland"> obaidullahzaland
-			</a><br/>
-			No Name
-		</td>
-		<td>National Statistics And Information<br/>Authority<br/></td>
-		<td><a href="https://twitter.com/obaidullahpz">obaidullahpz</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>222</td>
-		<td>
-			<a href="https://github.com/zabiullahzahid">
-				<img src="https://avatars.githubusercontent.com/u/55867264?s=72&u=5e24c80b0227e89daa9d126461b3bbaee6efe050&v=4" width="24" alt="Avatar of zabiullahzahid"> zabiullahzahid
-			</a><br/>
-			Zabiullah
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>223</td>
-		<td>
-			<a href="https://github.com/mostafa-meerzad">
-				<img src="https://avatars.githubusercontent.com/u/71199539?s=72&v=4" width="24" alt="Avatar of mostafa-meerzad"> mostafa-meerzad
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan, Kabul</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>224</td>
-		<td>
-			<a href="https://github.com/WahidUllahBahadar">
-				<img src="https://avatars.githubusercontent.com/u/75679516?s=72&u=f723c2d4f819fc7eec54d1cce3e8a577659bb136&v=4" width="24" alt="Avatar of WahidUllahBahadar"> WahidUllahBahadar
-			</a><br/>
-			Wahid ullah Bahadar
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/WahidBahadar">WahidBahadar</a></td>
-		<td>Afghanistan</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>225</td>
-		<td>
-			<a href="https://github.com/khadija-pixel">
-				<img src="https://avatars.githubusercontent.com/u/68380451?s=72&u=5986b11d469a424f6dc81748865b5a6364f5aafa&v=4" width="24" alt="Avatar of khadija-pixel"> khadija-pixel
-			</a><br/>
-			Khadija
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul-Afghanistan</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>226</td>
-		<td>
-			<a href="https://github.com/nebilnebil">
-				<img src="https://avatars.githubusercontent.com/u/56500430?s=72&u=15ce00f97865fdc53bd45d31733f5052c49e9a4d&v=4" width="24" alt="Avatar of nebilnebil"> nebilnebil
-			</a><br/>
-			nebilsharifi
-		</td>
-		<td>Turkcell </td>
-		<td><a href="https://twitter.com/nebil_sharifi">nebil_sharifi</a></td>
-		<td>afghanistan</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>227</td>
-		<td>
-			<a href="https://github.com/OmarZabi">
-				<img src="https://avatars.githubusercontent.com/u/86609589?s=72&u=2d87c6b1a636c87f0191d50135d6a89125db978e&v=4" width="24" alt="Avatar of OmarZabi"> OmarZabi
-			</a><br/>
-			Omar Zabi 
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/OmarZabi2">OmarZabi2</a></td>
-		<td>Kabul  Afghanistan </td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>228</td>
-		<td>
-			<a href="https://github.com/abdulwaheedd">
-				<img src="https://avatars.githubusercontent.com/u/37532613?s=72&u=3325518dadec7e5f1bb33b3545de0693beb349bd&v=4" width="24" alt="Avatar of abdulwaheedd"> abdulwaheedd
-			</a><br/>
-			Waheedullah Azizi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>229</td>
-		<td>
-			<a href="https://github.com/ahmadjawidjami">
-				<img src="https://avatars.githubusercontent.com/u/3838546?s=72&u=2cd109d7ee948e9be19acda611ed147a08c7a8ef&v=4" width="24" alt="Avatar of ahmadjawidjami"> ahmadjawidjami
-			</a><br/>
-			Ahmad Jawid Jami-ulahmadi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Herat, Afghanistan</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>230</td>
-		<td>
-			<a href="https://github.com/khayalsayeedi">
-				<img src="https://avatars.githubusercontent.com/u/25791474?s=72&u=05f5d93143a26adc00ad3108813d9ec828d81c99&v=4" width="24" alt="Avatar of khayalsayeedi"> khayalsayeedi
-			</a><br/>
-			Khayal Pacha
-		</td>
-		<td>Nsia </td>
-		<td><a href="https://twitter.com/khayalsayeedi">khayalsayeedi</a></td>
-		<td>Kabul, Afghanistan </td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>231</td>
-		<td>
-			<a href="https://github.com/SabawoonDaqiq8">
-				<img src="https://avatars.githubusercontent.com/u/59951680?s=72&u=ee6a8e065e8481e69e081b129491f8f27969a6bd&v=4" width="24" alt="Avatar of SabawoonDaqiq8"> SabawoonDaqiq8
-			</a><br/>
-			Sabawoon Daqiq
-		</td>
-		<td>@nsia-infosys  </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>232</td>
-		<td>
-			<a href="https://github.com/mahdi-akbary">
-				<img src="https://avatars.githubusercontent.com/u/25363017?s=72&u=f7b45d781408ce68b85b20edc40d7542b6b001f5&v=4" width="24" alt="Avatar of mahdi-akbary"> mahdi-akbary
-			</a><br/>
-			Mahdi Akbary Nikzad
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dasht e Barchi , Kabul City</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>233</td>
-		<td>
-			<a href="https://github.com/BashirZamani1">
-				<img src="https://avatars.githubusercontent.com/u/48402200?s=72&u=d237409b06be75bc9df9bcc453160dc0ec0be99c&v=4" width="24" alt="Avatar of BashirZamani1"> BashirZamani1
-			</a><br/>
-			BashirAhmadZamani
-		</td>
-		<td>Dawat University </td>
-		<td>No Twitter Username</td>
-		<td>kabul-afghanistan</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>234</td>
-		<td>
-			<a href="https://github.com/ahmadnesarnoori">
-				<img src="https://avatars.githubusercontent.com/u/42084204?s=72&u=b5c476fdd49619ddae33e1c67a0e595dd77054f0&v=4" width="24" alt="Avatar of ahmadnesarnoori"> ahmadnesarnoori
-			</a><br/>
-			Nesar Ahmad Noori
-		</td>
-		<td>Oryaa </td>
-		<td><a href="https://twitter.com/NesarAhmadNoori">NesarAhmadNoori</a></td>
-		<td>Third Street, Al-Madina Town, District 5, Kabul, Afghanistan</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>235</td>
-		<td>
-			<a href="https://github.com/AFMIS">
-				<img src="https://avatars.githubusercontent.com/u/87112434?s=72&v=4" width="24" alt="Avatar of AFMIS"> AFMIS
-			</a><br/>
-			No Name
-		</td>
-		<td>Ministry Of Finance </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan </td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>236</td>
-		<td>
-			<a href="https://github.com/AhmadSuhrab1234">
-				<img src="https://avatars.githubusercontent.com/u/84292872?s=72&v=4" width="24" alt="Avatar of AhmadSuhrab1234"> AhmadSuhrab1234
-			</a><br/>
-			No Name
-		</td>
-		<td>Suhrabahmad830@gmail </td>
-		<td><a href="https://twitter.com/suhrabahmad830">suhrabahmad830</a></td>
-		<td>kabul,Afghanistan</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>237</td>
-		<td>
-			<a href="https://github.com/hpardess">
-				<img src="https://avatars.githubusercontent.com/u/6196491?s=72&u=530150ae078f8a0414be29ae9b5f2fa197dfd47f&v=4" width="24" alt="Avatar of hpardess"> hpardess
-			</a><br/>
-			Hameedullah Pardess
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>238</td>
-		<td>
-			<a href="https://github.com/MirwaisAkrami">
-				<img src="https://avatars.githubusercontent.com/u/34417742?s=72&u=da3875287500c1cf1e70bffb99d7034f1e073bd2&v=4" width="24" alt="Avatar of MirwaisAkrami"> MirwaisAkrami
-			</a><br/>
-			Mirwais Akrami
-		</td>
-		<td>Nsia </td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>239</td>
-		<td>
-			<a href="https://github.com/sanam453">
-				<img src="https://avatars.githubusercontent.com/u/55902046?s=72&u=808881e461fee3320eabcac4755882cad7676b0d&v=4" width="24" alt="Avatar of sanam453"> sanam453
-			</a><br/>
-			Sanam Hamza
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/SanamHamza2">SanamHamza2</a></td>
-		<td>kabul, Afghanistan</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>240</td>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/mujibhalimi">
-				<img src="https://avatars.githubusercontent.com/u/46517293?s=72&u=efefa07473a3d54b564e59087e7860dd7c777d8c&v=4" width="24" alt="Avatar of mujibhalimi"> mujibhalimi
+				<img src="https://avatars.githubusercontent.com/u/46517293?s=72&u=27afb6d96037640dabb3c567ad71cc3f05f62d97&v=4" width="24" alt="Avatar of mujibhalimi"> mujibhalimi
 			</a><br/>
 			Mujib Halimi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Afghanistan</td>
-		<td>6</td>
+		<td>8</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>411</td>
 		<td>
-			<a href="https://github.com/esmatullaharifi">
-				<img src="https://avatars.githubusercontent.com/u/16731035?s=72&u=970cd48d5eb411333ff72b011d3e3588c4f944d5&v=4" width="24" alt="Avatar of esmatullaharifi"> esmatullaharifi
+			<a href="https://github.com/Atiqullah-codes">
+				<img src="https://avatars.githubusercontent.com/u/101654127?s=72&u=3df4774c6e2151da17bbcbf1f5d7d2179e1daa63&v=4" width="24" alt="Avatar of Atiqullah-codes"> Atiqullah-codes
 			</a><br/>
-			Esmatullah Arifi
-		</td>
-		<td>Independent Directorate Of Local<br/>Governance<br/></td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>242</td>
-		<td>
-			<a href="https://github.com/Zohra-Jafari">
-				<img src="https://avatars.githubusercontent.com/u/74793680?s=72&v=4" width="24" alt="Avatar of Zohra-Jafari"> Zohra-Jafari
-			</a><br/>
-			Zohra
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/zohrajafari">zohrajafari</a></td>
-		<td>Herat</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>243</td>
-		<td>
-			<a href="https://github.com/Fex47">
-				<img src="https://avatars.githubusercontent.com/u/65360543?s=72&u=7b07d80b3a86bbc19a264bb3e7e6768e64b92aa1&v=4" width="24" alt="Avatar of Fex47"> Fex47
-			</a><br/>
-			No Name
-		</td>
-		<td>Global Relief Foundation </td>
-		<td>No Twitter Username</td>
-		<td>Kandahar, Afghanistan</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>244</td>
-		<td>
-			<a href="https://github.com/asadullahhashimi">
-				<img src="https://avatars.githubusercontent.com/u/44425223?s=72&u=ed915ca00e954498359f7d14ad4fca46490520d4&v=4" width="24" alt="Avatar of asadullahhashimi"> asadullahhashimi
-			</a><br/>
-			Asadullah Hashimi
-		</td>
-		<td>Rapiditeration.com </td>
-		<td><a href="https://twitter.com/__asdullah">__asdullah</a></td>
-		<td>Afghanistan</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>245</td>
-		<td>
-			<a href="https://github.com/top-master">
-				<img src="https://avatars.githubusercontent.com/u/31405473?s=72&u=da7c9af06ea83b426ae86849de8efd23a909a593&v=4" width="24" alt="Avatar of top-master"> top-master
-			</a><br/>
-			top master
-		</td>
-		<td>Hidden Co </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>246</td>
-		<td>
-			<a href="https://github.com/Hamnava">
-				<img src="https://avatars.githubusercontent.com/u/71535744?s=72&u=d0c72fd444da6ad99622ac731c0816e548644ed8&v=4" width="24" alt="Avatar of Hamnava"> Hamnava
-			</a><br/>
-			Nematullah Hussaini
-		</td>
-		<td>Hamnava </td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>247</td>
-		<td>
-			<a href="https://github.com/AFghanistanPTO">
-				<img src="https://avatars.githubusercontent.com/u/78133187?s=72&v=4" width="24" alt="Avatar of AFghanistanPTO"> AFghanistanPTO
-			</a><br/>
-			APTCO
-		</td>
-		<td>@afghanistan Patent And Trademark<br/>And<br/>Copyright<br/>Office<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>248</td>
-		<td>
-			<a href="https://github.com/atalz163">
-				<img src="https://avatars.githubusercontent.com/u/79457116?s=72&u=4b52c498137a8d18cefa3627f2c411cbffbf4980&v=4" width="24" alt="Avatar of atalz163"> atalz163
-			</a><br/>
-			Atal
+			Atiqullah
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>6</td>
+		<td>Barchi, Kabul, Afghanistan</td>
+		<td>8</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>412</td>
 		<td>
-			<a href="https://github.com/chardiwall">
-				<img src="https://avatars.githubusercontent.com/u/67890569?s=72&u=a3c7f8570ea5d7316de10c71594a9b857ea1cede&v=4" width="24" alt="Avatar of chardiwall"> chardiwall
+			<a href="https://github.com/mohsen-amani">
+				<img src="https://avatars.githubusercontent.com/u/125363778?s=72&u=2f46a40145db5784d18972aac5ca227dfd39e5df&v=4" width="24" alt="Avatar of mohsen-amani"> mohsen-amani
 			</a><br/>
-			Samiulhaq
+			Mohsen Amani
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Jalalabad, Afghanistan</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>250</td>
-		<td>
-			<a href="https://github.com/IsrarullahZaheer">
-				<img src="https://avatars.githubusercontent.com/u/70327713?s=72&u=33aaa9e2053c506ba8fcdc2b6d5008a962cb914b&v=4" width="24" alt="Avatar of IsrarullahZaheer"> IsrarullahZaheer
-			</a><br/>
-			Israraullah786
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/israrullah786">israrullah786</a></td>
-		<td>Kabul Afghanistan</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>251</td>
-		<td>
-			<a href="https://github.com/Qk-Ahmadzai">
-				<img src="https://avatars.githubusercontent.com/u/18209310?s=72&u=3d8020b31b0a403808bc769aaf506503b046d5c7&v=4" width="24" alt="Avatar of Qk-Ahmadzai"> Qk-Ahmadzai
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>252</td>
-		<td>
-			<a href="https://github.com/sarwarsateer">
-				<img src="https://avatars.githubusercontent.com/u/48590403?s=72&u=6a14a517cc7a0b3488d20c0d2ce9e3e729c93f06&v=4" width="24" alt="Avatar of sarwarsateer"> sarwarsateer
-			</a><br/>
-			Sarwar Sateer
-		</td>
-		<td>Borcope </td>
-		<td><a href="https://twitter.com/sarwarsateer">sarwarsateer</a></td>
-		<td>Afghanistan</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>253</td>
-		<td>
-			<a href="https://github.com/Aalem">
-				<img src="https://avatars.githubusercontent.com/u/3881951?s=72&u=f9ac4738ddd43b97dd8320d88bfa477a1dd165b6&v=4" width="24" alt="Avatar of Aalem"> Aalem
-			</a><br/>
-			Aalem Daneshyar
-		</td>
-		<td>@codetoinspire-afgha  </td>
-		<td>No Twitter Username</td>
-		<td>Herat University, Herat-Afghanistan</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>254</td>
-		<td>
-			<a href="https://github.com/hedayatullahhoshmand">
-				<img src="https://avatars.githubusercontent.com/u/62910569?s=72&u=226a2265ac460d4e8907283429b48ace039190d4&v=4" width="24" alt="Avatar of hedayatullahhoshmand"> hedayatullahhoshmand
-			</a><br/>
-			Hedayatullah Hoshmand
-		</td>
-		<td>Hoshmand </td>
-		<td>No Twitter Username</td>
-		<td>kabul</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>255</td>
-		<td>
-			<a href="https://github.com/Mohebullah-Y">
-				<img src="https://avatars.githubusercontent.com/u/86351771?s=72&u=cba71b763bb7ff3c3b48d13e6d3f4cf41900f7fc&v=4" width="24" alt="Avatar of Mohebullah-Y"> Mohebullah-Y
-			</a><br/>
-			Mohebullah Yousofi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Herat,Afghanistan</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>256</td>
-		<td>
-			<a href="https://github.com/Anahita1999">
-				<img src="https://avatars.githubusercontent.com/u/57270230?s=72&u=615d2e60228aa4d95d6866f08d0ed26309690f23&v=4" width="24" alt="Avatar of Anahita1999"> Anahita1999
-			</a><br/>
-			Anahita
-		</td>
-		<td>Kabul University </td>
-		<td><a href="https://twitter.com/DanielAnahita">DanielAnahita</a></td>
-		<td>Kabul</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>257</td>
-		<td>
-			<a href="https://github.com/hojjatian">
-				<img src="https://avatars.githubusercontent.com/u/47389143?s=72&v=4" width="24" alt="Avatar of hojjatian"> hojjatian
-			</a><br/>
-			hojjat
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>258</td>
-		<td>
-			<a href="https://github.com/mehreennajm">
-				<img src="https://avatars.githubusercontent.com/u/31657799?s=72&u=abe5d98a596fdf3418b09954027aaeac1c59a0ec&v=4" width="24" alt="Avatar of mehreennajm"> mehreennajm
-			</a><br/>
-			Mehreen Najm
-		</td>
-		<td>Https://www.facebook </td>
-		<td><a href="https://twitter.com/MehreenNajm">MehreenNajm</a></td>
-		<td>Kabul,Afghanistan</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>259</td>
-		<td>
-			<a href="https://github.com/nineixx">
-				<img src="https://avatars.githubusercontent.com/u/66849228?s=72&u=b2241734f1ecca8e863bb37da06e3f86d73b9e6f&v=4" width="24" alt="Avatar of nineixx"> nineixx
-			</a><br/>
-			ix
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>afghanistan</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>260</td>
-		<td>
-			<a href="https://github.com/amirshah093">
-				<img src="https://avatars.githubusercontent.com/u/39397358?s=72&u=4edd0f82262c48dc4c108f1bca4c8c4c556dfcf8&v=4" width="24" alt="Avatar of amirshah093"> amirshah093
-			</a><br/>
-			Amir Shah
-		</td>
-		<td>Shahhost </td>
-		<td><a href="https://twitter.com/amirshah_a">amirshah_a</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>261</td>
-		<td>
-			<a href="https://github.com/murtazanoori">
-				<img src="https://avatars.githubusercontent.com/u/65132706?s=72&u=f5a78dee57d15565c797f4f9fff48009bc9430b6&v=4" width="24" alt="Avatar of murtazanoori"> murtazanoori
-			</a><br/>
-			Murtaza Noori
-		</td>
-		<td>Dark Blue </td>
-		<td><a href="https://twitter.com/Murtaza06113215">Murtaza06113215</a></td>
-		<td>afghanistan kabul</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>262</td>
-		<td>
-			<a href="https://github.com/MohammadAsef">
-				<img src="https://avatars.githubusercontent.com/u/50768961?s=72&u=887a4a0a8233cfb642fdbaf97955efbf0722e34d&v=4" width="24" alt="Avatar of MohammadAsef"> MohammadAsef
-			</a><br/>
-			Mohammad_Asef
-		</td>
-		<td>Tutia Technology </td>
-		<td>No Twitter Username</td>
-		<td>Herat-Afghanistan</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>263</td>
-		<td>
-			<a href="https://github.com/realramin">
-				<img src="https://avatars.githubusercontent.com/u/51857378?s=72&u=7eab7969dbeee1d7a6bd87600a33b6b84381a757&v=4" width="24" alt="Avatar of realramin"> realramin
-			</a><br/>
-			Ramin
-		</td>
-		<td>Herat Host Ict Co.<br/></td>
+		<td>Alusool </td>
 		<td>No Twitter Username</td>
 		<td>Herat</td>
-		<td>5</td>
+		<td>8</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>413</td>
 		<td>
-			<a href="https://github.com/Amrullah-Hashimi">
-				<img src="https://avatars.githubusercontent.com/u/37834818?s=72&u=8b79d96e621d64d71810847bef7a1c0a1de511c2&v=4" width="24" alt="Avatar of Amrullah-Hashimi"> Amrullah-Hashimi
+			<a href="https://github.com/mohsen-amani">
+				<img src="https://avatars.githubusercontent.com/u/125363778?s=72&u=2f46a40145db5784d18972aac5ca227dfd39e5df&v=4" width="24" alt="Avatar of mohsen-amani"> mohsen-amani
 			</a><br/>
-			Amrullah Hashimi
+			Mohsen Amani
 		</td>
-		<td>Aga Khan Cultural Services<br/>-<br/>Afghanistan(akcs<br/>-<br/>A)<br/></td>
-		<td><a href="https://twitter.com/AmrullahH12">AmrullahH12</a></td>
-		<td>Afghanistan</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>265</td>
-		<td>
-			<a href="https://github.com/safiullahzuri">
-				<img src="https://avatars.githubusercontent.com/u/21277117?s=72&v=4" width="24" alt="Avatar of safiullahzuri"> safiullahzuri
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
+		<td>Alusool </td>
 		<td>No Twitter Username</td>
 		<td>Herat</td>
-		<td>5</td>
+		<td>8</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>414</td>
 		<td>
-			<a href="https://github.com/unnxmd">
-				<img src="https://avatars.githubusercontent.com/u/54909142?s=72&u=3f63ea011a82c7f0c24fca9b23b1c9ae5bd97ae3&v=4" width="24" alt="Avatar of unnxmd"> unnxmd
+			<a href="https://github.com/ahad-netlinks">
+				<img src="https://avatars.githubusercontent.com/u/111482691?s=72&u=02a870665431aae0c01f34529f0c59e4f8806139&v=4" width="24" alt="Avatar of ahad-netlinks"> ahad-netlinks
 			</a><br/>
-			No Name
+			Ahad Ahmadi
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>267</td>
-		<td>
-			<a href="https://github.com/ShahidJanAmin">
-				<img src="https://avatars.githubusercontent.com/u/79240533?s=72&v=4" width="24" alt="Avatar of ShahidJanAmin"> ShahidJanAmin
-			</a><br/>
-			Shahid Jan Amin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>268</td>
-		<td>
-			<a href="https://github.com/jawidsarwary">
-				<img src="https://avatars.githubusercontent.com/u/62131548?s=72&u=14f9983d97d9b9e7975436c9c522e9dd1ad3965b&v=4" width="24" alt="Avatar of jawidsarwary"> jawidsarwary
-			</a><br/>
-			Jawid Sarwary
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>@netlinksaf </td>
+		<td><a href="https://twitter.com/codewithahad">codewithahad</a></td>
 		<td>Kabul, Afghanistan</td>
-		<td>5</td>
+		<td>8</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>415</td>
 		<td>
-			<a href="https://github.com/Poya-Netlinks">
-				<img src="https://avatars.githubusercontent.com/u/78256303?s=72&u=45e128caaf9601afbf8600a6778da2c540e6f887&v=4" width="24" alt="Avatar of Poya-Netlinks"> Poya-Netlinks
+			<a href="https://github.com/AqidaHaidari">
+				<img src="https://avatars.githubusercontent.com/u/42426077?s=72&u=1472b71de2fc33ea31dde5d31055694e6c252647&v=4" width="24" alt="Avatar of AqidaHaidari"> AqidaHaidari
 			</a><br/>
-			Hashem Po Ya
+			Aqida
 		</td>
-		<td>Netlinks Ltd </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>270</td>
-		<td>
-			<a href="https://github.com/gitkhan425">
-				<img src="https://avatars.githubusercontent.com/u/83376901?s=72&u=ac7cd04314d0d6f2977b6a6d9f23086bb28be5bd&v=4" width="24" alt="Avatar of gitkhan425"> gitkhan425
-			</a><br/>
-			gitkhan425
-		</td>
-		<td>Https://www.facebook </td>
-		<td><a href="https://twitter.com/Gitkhan">Gitkhan</a></td>
-		<td>Afghanistan,jalalabad</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>271</td>
-		<td>
-			<a href="https://github.com/gitkhan425">
-				<img src="https://avatars.githubusercontent.com/u/83376901?s=72&u=ac7cd04314d0d6f2977b6a6d9f23086bb28be5bd&v=4" width="24" alt="Avatar of gitkhan425"> gitkhan425
-			</a><br/>
-			gitkhan425
-		</td>
-		<td>Https://www.facebook </td>
-		<td><a href="https://twitter.com/Gitkhan">Gitkhan</a></td>
-		<td>Afghanistan,jalalabad</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>272</td>
-		<td>
-			<a href="https://github.com/ehsnaskri">
-				<img src="https://avatars.githubusercontent.com/u/46539678?s=72&u=1112933b4f2f7b641e012b14546d571bdea523f6&v=4" width="24" alt="Avatar of ehsnaskri"> ehsnaskri
-			</a><br/>
-			Ehsan Askari
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>273</td>
-		<td>
-			<a href="https://github.com/HakimEhsan">
-				<img src="https://avatars.githubusercontent.com/u/72210819?s=72&v=4" width="24" alt="Avatar of HakimEhsan"> HakimEhsan
-			</a><br/>
-			Hakim Ehsan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>274</td>
-		<td>
-			<a href="https://github.com/HakimEhsan">
-				<img src="https://avatars.githubusercontent.com/u/72210819?s=72&v=4" width="24" alt="Avatar of HakimEhsan"> HakimEhsan
-			</a><br/>
-			Hakim Ehsan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>275</td>
-		<td>
-			<a href="https://github.com/swaseeb">
-				<img src="https://avatars.githubusercontent.com/u/11972108?s=72&u=f2e4cf7dba8c10e37f8f73c803a05fe01284c2a9&v=4" width="24" alt="Avatar of swaseeb"> swaseeb
-			</a><br/>
-			Shakirullah Waseeb
-		</td>
-		<td>Nangarhar University Afghanistan </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>276</td>
-		<td>
-			<a href="https://github.com/HamidRezaSepehr">
-				<img src="https://avatars.githubusercontent.com/u/8534852?s=72&u=dbd801977a864e14e707521b4527434fa8a44c35&v=4" width="24" alt="Avatar of HamidRezaSepehr"> HamidRezaSepehr
-			</a><br/>
-			Hamid Reza Sepehr
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>277</td>
-		<td>
-			<a href="https://github.com/noorzaie">
-				<img src="https://avatars.githubusercontent.com/u/7344137?s=72&u=26d848cd438f0f5168245a99dd17342d0fe40441&v=4" width="24" alt="Avatar of noorzaie"> noorzaie
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>278</td>
-		<td>
-			<a href="https://github.com/abdullahjs">
-				<img src="https://avatars.githubusercontent.com/u/43341334?s=72&v=4" width="24" alt="Avatar of abdullahjs"> abdullahjs
-			</a><br/>
-			Abdullah Mohammadi
-		</td>
-		<td>Abdullahh490@gmail.c </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>279</td>
-		<td>
-			<a href="https://github.com/Abdulahmad-Matin">
-				<img src="https://avatars.githubusercontent.com/u/26517918?s=72&u=b1c5fb5ea3541bf413f0fac31b6d3b18b1310971&v=4" width="24" alt="Avatar of Abdulahmad-Matin"> Abdulahmad-Matin
-			</a><br/>
-			Abdulahmad
-		</td>
-		<td>@zarvanservices </td>
-		<td>No Twitter Username</td>
-		<td>herat/afghanistan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>280</td>
-		<td>
-			<a href="https://github.com/Attiqullah">
-				<img src="https://avatars.githubusercontent.com/u/8799945?s=72&u=7bf585d1ec5938f3e36190d29978698585348a1b&v=4" width="24" alt="Avatar of Attiqullah"> Attiqullah
-			</a><br/>
-			Attiqullah
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>281</td>
-		<td>
-			<a href="https://github.com/abbasimadina">
-				<img src="https://avatars.githubusercontent.com/u/50651090?s=72&u=05419f1a3b6da660aaa5ca57df4f741107113335&v=4" width="24" alt="Avatar of abbasimadina"> abbasimadina
-			</a><br/>
-			Madina Abbasi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>282</td>
-		<td>
-			<a href="https://github.com/github-123-ullah">
-				<img src="https://avatars.githubusercontent.com/u/68871249?s=72&u=61444b6d039cde939d490dd3e8806e8cca1a993d&v=4" width="24" alt="Avatar of github-123-ullah"> github-123-ullah
-			</a><br/>
-			Omran Ullah
-		</td>
-		<td>Kabul University </td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghansitan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>283</td>
-		<td>
-			<a href="https://github.com/SharifRasekh">
-				<img src="https://avatars.githubusercontent.com/u/73937387?s=72&u=7e61f9ff3760ef6699ea4128a2fd64cc2f0dc358&v=4" width="24" alt="Avatar of SharifRasekh"> SharifRasekh
-			</a><br/>
-			Sharif Ahmad
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sharif_rasekh">sharif_rasekh</a></td>
-		<td>Herat, Afghanistan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>284</td>
-		<td>
-			<a href="https://github.com/Hedoo">
-				<img src="https://avatars.githubusercontent.com/u/46179635?s=72&u=372175268571d2929177d8c16397ef34e53c7f24&v=4" width="24" alt="Avatar of Hedoo"> Hedoo
-			</a><br/>
-			Hedayatullah Hedayat
-		</td>
-		<td>@kardanuniversity </td>
-		<td>No Twitter Username</td>
-		<td>Kardan University, Kabul, Afghanistan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>285</td>
-		<td>
-			<a href="https://github.com/zabeehkhan">
-				<img src="https://avatars.githubusercontent.com/u/26257446?s=72&u=c9c1a8a689b438eed0683de1f256d4bd3b8f5f61&v=4" width="24" alt="Avatar of zabeehkhan"> zabeehkhan
-			</a><br/>
-			Zabeeh Khan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>286</td>
-		<td>
-			<a href="https://github.com/mujomar">
-				<img src="https://avatars.githubusercontent.com/u/3962963?s=72&u=c3a1a22f6c6eb2c8f3587b8db921d03da6ee7279&v=4" width="24" alt="Avatar of mujomar"> mujomar
-			</a><br/>
-			Mujtaba
-		</td>
-		<td>Moph </td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>287</td>
-		<td>
-			<a href="https://github.com/Baqir-eminent">
-				<img src="https://avatars.githubusercontent.com/u/84768799?s=72&u=ad09c3e8d3d00db04367845e1f9b98cc09451efd&v=4" width="24" alt="Avatar of Baqir-eminent"> Baqir-eminent
-			</a><br/>
-			Baqir Amiri
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>kabul afghanistan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>288</td>
-		<td>
-			<a href="https://github.com/edrianabizada">
-				<img src="https://avatars.githubusercontent.com/u/76719529?s=72&u=07c945d4f130c9eb09c6fe00a23321afb2696240&v=4" width="24" alt="Avatar of edrianabizada"> edrianabizada
-			</a><br/>
-			Edris Nabizada 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan,Mazar e Shrif</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>289</td>
-		<td>
-			<a href="https://github.com/azimullahh">
-				<img src="https://avatars.githubusercontent.com/u/85884985?s=72&u=15b105032eb50e508d8cc3b76038abf6640fef25&v=4" width="24" alt="Avatar of azimullahh"> azimullahh
-			</a><br/>
-			Azimullah
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Azimull47673771">Azimull47673771</a></td>
-		<td>afghanistan/kabul/kharkhana/5th street afsooter</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>290</td>
-		<td>
-			<a href="https://github.com/HanifaTavassoli">
-				<img src="https://avatars.githubusercontent.com/u/74895465?s=72&u=bc7a0471cb235bfb089d0b28ca236a1bacb3972d&v=4" width="24" alt="Avatar of HanifaTavassoli"> HanifaTavassoli
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/hanifa10855351">hanifa10855351</a></td>
-		<td>Afghanistan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>291</td>
-		<td>
-			<a href="https://github.com/rezamirzayee">
-				<img src="https://avatars.githubusercontent.com/u/33068365?s=72&u=6c912dcb8f5f05fdbc1ba2506d6bbc8a8854c001&v=4" width="24" alt="Avatar of rezamirzayee"> rezamirzayee
-			</a><br/>
-			Reza Merzayee
-		</td>
-		<td>Clothing Manufacturer </td>
-		<td>No Twitter Username</td>
-		<td>Kabul,Afghanistan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>292</td>
-		<td>
-			<a href="https://github.com/Eshaqi">
-				<img src="https://avatars.githubusercontent.com/u/17120138?s=72&u=06448b162c76fcca9011533a6e181ebb4139892c&v=4" width="24" alt="Avatar of Eshaqi"> Eshaqi
-			</a><br/>
-			AliReza Eshaqi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan, Kabul</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>293</td>
-		<td>
-			<a href="https://github.com/MustafaHussaini">
-				<img src="https://avatars.githubusercontent.com/u/12586240?s=72&v=4" width="24" alt="Avatar of MustafaHussaini"> MustafaHussaini
-			</a><br/>
-			Mustafa Hussaini
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>294</td>
-		<td>
-			<a href="https://github.com/Mohammad-Mirzaie">
-				<img src="https://avatars.githubusercontent.com/u/35021766?s=72&u=fec17704069c14fe14387608543cb49e85f913dd&v=4" width="24" alt="Avatar of Mohammad-Mirzaie"> Mohammad-Mirzaie
-			</a><br/>
-			Mohammad Mirzaie
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>295</td>
-		<td>
-			<a href="https://github.com/abdulkhalil2021">
-				<img src="https://avatars.githubusercontent.com/u/84657646?s=72&u=b1a0005a5039b2fae162a9189522877e1ff4fd55&v=4" width="24" alt="Avatar of abdulkhalil2021"> abdulkhalil2021
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>296</td>
-		<td>
-			<a href="https://github.com/pishoo">
-				<img src="https://avatars.githubusercontent.com/u/81550408?s=72&u=aa8fdf88c677cd864940ff8469bc6e153630978f&v=4" width="24" alt="Avatar of pishoo"> pishoo
-			</a><br/>
-			pishoo
-		</td>
-		<td>Noen </td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>297</td>
-		<td>
-			<a href="https://github.com/Hashmatullah">
-				<img src="https://avatars.githubusercontent.com/u/3388503?s=72&v=4" width="24" alt="Avatar of Hashmatullah"> Hashmatullah
-			</a><br/>
-			Hashmatullah Zaheer
-		</td>
-		<td>Msi </td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>298</td>
-		<td>
-			<a href="https://github.com/HayatTimori">
-				<img src="https://avatars.githubusercontent.com/u/77272732?s=72&v=4" width="24" alt="Avatar of HayatTimori"> HayatTimori
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/HayatTimori">HayatTimori</a></td>
-		<td>Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>299</td>
-		<td>
-			<a href="https://github.com/SalehBagheri">
-				<img src="https://avatars.githubusercontent.com/u/8124646?s=72&u=321ffbcdc7254945dc809e57252b8f7179b73a8d&v=4" width="24" alt="Avatar of SalehBagheri"> SalehBagheri
-			</a><br/>
-			Saleh Bagheri
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>300</td>
-		<td>
-			<a href="https://github.com/Masood87">
-				<img src="https://avatars.githubusercontent.com/u/15031026?s=72&u=7c51a29b9c5c626d1aaab861372e5c09e65e664f&v=4" width="24" alt="Avatar of Masood87"> Masood87
-			</a><br/>
-			Masood Sadat
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Prague (Czech Republic) and Kabul (Afghanistan)</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>301</td>
-		<td>
-			<a href="https://github.com/ElyHack7">
-				<img src="https://avatars.githubusercontent.com/u/67768288?s=72&u=e78baa633efd97090342732736851d745e3c5463&v=4" width="24" alt="Avatar of ElyHack7"> ElyHack7
-			</a><br/>
-			ElyHack00
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>302</td>
-		<td>
-			<a href="https://github.com/afaisalsahar">
-				<img src="https://avatars.githubusercontent.com/u/13269591?s=72&u=269150b318d76f937e2aa61999e3a6492a81a683&v=4" width="24" alt="Avatar of afaisalsahar"> afaisalsahar
-			</a><br/>
-			Fay Sal
-		</td>
-		<td>Freecodecamp </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>303</td>
-		<td>
-			<a href="https://github.com/zoheirkabuli">
-				<img src="https://avatars.githubusercontent.com/u/56550780?s=72&v=4" width="24" alt="Avatar of zoheirkabuli"> zoheirkabuli
-			</a><br/>
-			zoheir kabuli
-		</td>
-		<td>Teta </td>
-		<td><a href="https://twitter.com/zoheir_kabuli">zoheir_kabuli</a></td>
-		<td>Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>304</td>
-		<td>
-			<a href="https://github.com/ekliloriakhil">
-				<img src="https://avatars.githubusercontent.com/u/64562619?s=72&u=00a9d84a87301c0b24189d4a5c4d976e79b36da8&v=4" width="24" alt="Avatar of ekliloriakhil"> ekliloriakhil
-			</a><br/>
-			Eklil Oriakhil
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>kabul, Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>305</td>
-		<td>
-			<a href="https://github.com/EngAbdullahHanif">
-				<img src="https://avatars.githubusercontent.com/u/61375766?s=72&u=3bb39b97ce5a78ec48955a7c296a5b1146112524&v=4" width="24" alt="Avatar of EngAbdullahHanif"> EngAbdullahHanif
-			</a><br/>
-			Abdullah Hanif
-		</td>
-		<td>Roya Solutions </td>
-		<td><a href="https://twitter.com/aAbdullahhanif">aAbdullahhanif</a></td>
-		<td>Herat, Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>306</td>
-		<td>
-			<a href="https://github.com/aligulzar729">
-				<img src="https://avatars.githubusercontent.com/u/32263497?s=72&v=4" width="24" alt="Avatar of aligulzar729"> aligulzar729
-			</a><br/>
-			Ali Gulzar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>307</td>
-		<td>
-			<a href="https://github.com/rohullahayobi">
-				<img src="https://avatars.githubusercontent.com/u/24896340?s=72&u=6687294a360d0f52feca4dd4c06533647295e027&v=4" width="24" alt="Avatar of rohullahayobi"> rohullahayobi
-			</a><br/>
-			Rohullah Ayobi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Balkh, Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>308</td>
-		<td>
-			<a href="https://github.com/Musayeb">
-				<img src="https://avatars.githubusercontent.com/u/58417688?s=72&u=e02e8c5dedbd73afb0afbf8fb2174e8fd8deb3a0&v=4" width="24" alt="Avatar of Musayeb"> Musayeb
-			</a><br/>
-			Musayeb
-		</td>
-		<td>Codezone </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>309</td>
-		<td>
-			<a href="https://github.com/Zakaria-Wardak">
-				<img src="https://avatars.githubusercontent.com/u/73768820?s=72&u=506a2ad996151d27b20bf63257f5bde2f3953a31&v=4" width="24" alt="Avatar of Zakaria-Wardak"> Zakaria-Wardak
-			</a><br/>
-			Code Learner
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kandahar, Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>310</td>
-		<td>
-			<a href="https://github.com/Mansourjohn">
-				<img src="https://avatars.githubusercontent.com/u/79451718?s=72&u=c9b841020f6d743078fdeae3fe8d6ffd7dd74dfe&v=4" width="24" alt="Avatar of Mansourjohn"> Mansourjohn
-			</a><br/>
-			Mansour Qaderi
-		</td>
-		<td>Anar Store </td>
-		<td>No Twitter Username</td>
-		<td>Herat</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>311</td>
-		<td>
-			<a href="https://github.com/BesmellahFarahmand1383">
-				<img src="https://avatars.githubusercontent.com/u/80641045?s=72&u=fd9139a00501940917d27863d22ea21eab6556d7&v=4" width="24" alt="Avatar of BesmellahFarahmand1383"> BesmellahFarahmand1383
-			</a><br/>
-			Besmellah
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kunduz Afghanistan </td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>312</td>
-		<td>
-			<a href="https://github.com/mustafa507">
-				<img src="https://avatars.githubusercontent.com/u/82079109?s=72&v=4" width="24" alt="Avatar of mustafa507"> mustafa507
-			</a><br/>
-			No Name
-		</td>
-		<td>University </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>313</td>
-		<td>
-			<a href="https://github.com/Zakaria-Wardak">
-				<img src="https://avatars.githubusercontent.com/u/73768820?s=72&u=506a2ad996151d27b20bf63257f5bde2f3953a31&v=4" width="24" alt="Avatar of Zakaria-Wardak"> Zakaria-Wardak
-			</a><br/>
-			Code Learner
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kandahar, Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>314</td>
-		<td>
-			<a href="https://github.com/Mansourjohn">
-				<img src="https://avatars.githubusercontent.com/u/79451718?s=72&u=c9b841020f6d743078fdeae3fe8d6ffd7dd74dfe&v=4" width="24" alt="Avatar of Mansourjohn"> Mansourjohn
-			</a><br/>
-			Mansour Qaderi
-		</td>
-		<td>Anar Store </td>
-		<td>No Twitter Username</td>
-		<td>Herat</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>315</td>
-		<td>
-			<a href="https://github.com/Mahmood1399">
-				<img src="https://avatars.githubusercontent.com/u/74134770?s=72&u=b82a74932d3c8905e76e11266c5365f4ce0ad951&v=4" width="24" alt="Avatar of Mahmood1399"> Mahmood1399
-			</a><br/>
-			Mahmood Nazari
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul,Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>316</td>
-		<td>
-			<a href="https://github.com/Shussainshahir">
-				<img src="https://avatars.githubusercontent.com/u/78290955?s=72&u=d429c3a515b59845aa3aa40c154de03c04771a66&v=4" width="24" alt="Avatar of Shussainshahir"> Shussainshahir
-			</a><br/>
-			ShirHussainShahir
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/shir_shahir">shir_shahir</a></td>
-		<td>Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>317</td>
-		<td>
-			<a href="https://github.com/Hasibullahnoori007">
-				<img src="https://avatars.githubusercontent.com/u/79189489?s=72&u=fbade2b08d42838111f2c832ea9f3969095d7b21&v=4" width="24" alt="Avatar of Hasibullahnoori007"> Hasibullahnoori007
-			</a><br/>
-			Hasibullah Noori
-		</td>
-		<td>Lgf </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>318</td>
-		<td>
-			<a href="https://github.com/abdulazizaziz">
-				<img src="https://avatars.githubusercontent.com/u/75569778?s=72&u=a3b925cc2e2d7a957bdcc3b093d3b7d8375cc1a3&v=4" width="24" alt="Avatar of abdulazizaziz"> abdulazizaziz
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>319</td>
-		<td>
-			<a href="https://github.com/Mujeeburahman">
-				<img src="https://avatars.githubusercontent.com/u/43927465?s=72&u=731f29036d52c470df7c8e1e2b1730600743760d&v=4" width="24" alt="Avatar of Mujeeburahman"> Mujeeburahman
-			</a><br/>
-			Mujeeburahman
-		</td>
-		<td>Cyberaan </td>
-		<td>No Twitter Username</td>
-		<td>kabul</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>320</td>
-		<td>
-			<a href="https://github.com/fidamuhammadkhan">
-				<img src="https://avatars.githubusercontent.com/u/45406901?s=72&u=ae6b7d26fb758a9cb17f0e36d3dcaf447d5118b9&v=4" width="24" alt="Avatar of fidamuhammadkhan"> fidamuhammadkhan
-			</a><br/>
-			Fida Mohammad
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>321</td>
-		<td>
-			<a href="https://github.com/Momta3">
-				<img src="https://avatars.githubusercontent.com/u/86412419?s=72&u=26e7b76ada3aee23a82b1a417575fcc66d68feb0&v=4" width="24" alt="Avatar of Momta3"> Momta3
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan </td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>322</td>
-		<td>
-			<a href="https://github.com/Momta3">
-				<img src="https://avatars.githubusercontent.com/u/86412419?s=72&u=26e7b76ada3aee23a82b1a417575fcc66d68feb0&v=4" width="24" alt="Avatar of Momta3"> Momta3
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan </td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>323</td>
-		<td>
-			<a href="https://github.com/Arkitecton">
-				<img src="https://avatars.githubusercontent.com/u/19477961?s=72&u=05a7e02cd6441fe4ec067b223c29dce849ce7d00&v=4" width="24" alt="Avatar of Arkitecton"> Arkitecton
-			</a><br/>
-			Ahmad Safdari
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>324</td>
-		<td>
-			<a href="https://github.com/Habibzahed">
-				<img src="https://avatars.githubusercontent.com/u/78712065?s=72&u=5afa50738af41d16242836c0fcd480e90c053f95&v=4" width="24" alt="Avatar of Habibzahed"> Habibzahed
-			</a><br/>
-			Habibullah Zahed
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Balkh, Afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>325</td>
-		<td>
-			<a href="https://github.com/nahid760">
-				<img src="https://avatars.githubusercontent.com/u/16075144?s=72&u=a543c8106d7a752e0dd35413637c5d24aa42d956&v=4" width="24" alt="Avatar of nahid760"> nahid760
-			</a><br/>
-			me
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nahidahmadi760">nahidahmadi760</a></td>
-		<td>afghanistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>326</td>
-		<td>
-			<a href="https://github.com/ziayamin">
-				<img src="https://avatars.githubusercontent.com/u/51748102?s=72&u=6ef851d5cc8012136ac1c14352e6dfd7bc6dda1c&v=4" width="24" alt="Avatar of ziayamin"> ziayamin
-			</a><br/>
-			ZM Yamin
-		</td>
-		<td>Tutia Technology Services Company<br/></td>
-		<td>No Twitter Username</td>
-		<td>Herat, Afganistan</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>327</td>
-		<td>
-			<a href="https://github.com/AhmadMiladKakar">
-				<img src="https://avatars.githubusercontent.com/u/38484460?s=72&u=00c425ca265db9e9c3a4274084877b06530b33b0&v=4" width="24" alt="Avatar of AhmadMiladKakar"> AhmadMiladKakar
-			</a><br/>
-			No Name
-		</td>
-		<td>Nsia </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan </td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>328</td>
-		<td>
-			<a href="https://github.com/jone30rw">
-				<img src="https://avatars.githubusercontent.com/u/1673598?s=72&u=49c26ddbdf95c869dc67db373258e14664eaadcd&v=4" width="24" alt="Avatar of jone30rw"> jone30rw
-			</a><br/>
-			Mohammad Hassany
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Herat, Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>329</td>
-		<td>
-			<a href="https://github.com/sediqamousavi">
-				<img src="https://avatars.githubusercontent.com/u/43989585?s=72&u=42fdc6671e3b4e9b06885ef14e9021f70ed54a6f&v=4" width="24" alt="Avatar of sediqamousavi"> sediqamousavi
-			</a><br/>
-			Sediqa Mousavi
-		</td>
-		<td>Nsia </td>
-		<td>No Twitter Username</td>
-		<td>kabul, Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>330</td>
-		<td>
-			<a href="https://github.com/omer-jan">
-				<img src="https://avatars.githubusercontent.com/u/20932799?s=72&u=41be59c868b0b6a6b40859dde8b4b3507ae5fdbf&v=4" width="24" alt="Avatar of omer-jan"> omer-jan
-			</a><br/>
-			Mohammad Zubair
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan </td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>331</td>
-		<td>
-			<a href="https://github.com/HabibFrozesh1">
-				<img src="https://avatars.githubusercontent.com/u/79252452?s=72&u=6d659602f335d1af2732e07b287f9ef82ab9e008&v=4" width="24" alt="Avatar of HabibFrozesh1"> HabibFrozesh1
-			</a><br/>
-			Habib frozesh
-		</td>
-		<td>Code9ine </td>
-		<td><a href="https://twitter.com/HFrozesh">HFrozesh</a></td>
-		<td>Kabul Afghanistan </td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>332</td>
-		<td>
-			<a href="https://github.com/afghan-laghmani">
-				<img src="https://avatars.githubusercontent.com/u/79382039?s=72&u=5ba26044232798d2ffb360aa23e6b2a1f2327b8e&v=4" width="24" alt="Avatar of afghan-laghmani"> afghan-laghmani
-			</a><br/>
-			Hazrat Bilal Niazi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/hbilal_niazi">hbilal_niazi</a></td>
-		<td>Mazar e sharef Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>333</td>
-		<td>
-			<a href="https://github.com/jalilhaidari2">
-				<img src="https://avatars.githubusercontent.com/u/33908181?s=72&u=20383c2818ea9ea35444664bb64889df8d74048b&v=4" width="24" alt="Avatar of jalilhaidari2"> jalilhaidari2
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>334</td>
-		<td>
-			<a href="https://github.com/yousafi">
-				<img src="https://avatars.githubusercontent.com/u/40589224?s=72&u=940018b18b5bac8a18f5ce383c335c8bc29029d2&v=4" width="24" alt="Avatar of yousafi"> yousafi
-			</a><br/>
-			Faridoon Yousafi
-		</td>
-		<td>Netlinks Inc </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>335</td>
-		<td>
-			<a href="https://github.com/timorshahtahib">
-				<img src="https://avatars.githubusercontent.com/u/43265757?s=72&u=8629623ed7fbd256c39efe67e4eaba82c85babc2&v=4" width="24" alt="Avatar of timorshahtahib"> timorshahtahib
-			</a><br/>
-			Timor shah Tahib
-		</td>
-		<td>Porann Ict </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan Herat</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>336</td>
-		<td>
-			<a href="https://github.com/ehsan58">
-				<img src="https://avatars.githubusercontent.com/u/3213169?s=72&v=4" width="24" alt="Avatar of ehsan58"> ehsan58
-			</a><br/>
-			Ehsan Mozaffari
-		</td>
-		<td>Pishtaazhost </td>
-		<td><a href="https://twitter.com/ahura_tanha">ahura_tanha</a></td>
-		<td>Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>337</td>
-		<td>
-			<a href="https://github.com/matiullah-netlinks">
-				<img src="https://avatars.githubusercontent.com/u/17737729?s=72&u=7844b365489d8ddfbacbfebc88726842538d2c61&v=4" width="24" alt="Avatar of matiullah-netlinks"> matiullah-netlinks
-			</a><br/>
-			Matiullah Karimi
-		</td>
-		<td>Netlinks </td>
-		<td><a href="https://twitter.com/MatiKarimi">MatiKarimi</a></td>
-		<td>Kabul,Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>338</td>
-		<td>
-			<a href="https://github.com/mkjawadi">
-				<img src="https://avatars.githubusercontent.com/u/32951993?s=72&u=1f74182b5b98e6c00c1977e2d505c336ead082c5&v=4" width="24" alt="Avatar of mkjawadi"> mkjawadi
-			</a><br/>
-			Kumail Jawadi
-		</td>
-		<td>Undp </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>339</td>
-		<td>
-			<a href="https://github.com/Zakarya-Netlinks">
-				<img src="https://avatars.githubusercontent.com/u/61266292?s=72&u=1de9665cc4562c51817865ccdb78b59722ba3d31&v=4" width="24" alt="Avatar of Zakarya-Netlinks"> Zakarya-Netlinks
-			</a><br/>
-			No Name
-		</td>
-		<td>Netlinks </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>340</td>
-		<td>
-			<a href="https://github.com/h4tabibi">
-				<img src="https://avatars.githubusercontent.com/u/70327041?s=72&u=7b1dd455253bc3e787af5660078b8fb18e256041&v=4" width="24" alt="Avatar of h4tabibi"> h4tabibi
-			</a><br/>
-			Hashmat Tabibi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/h4tabibi">h4tabibi</a></td>
-		<td>afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>341</td>
-		<td>
-			<a href="https://github.com/AbdulQarizada">
-				<img src="https://avatars.githubusercontent.com/u/36229166?s=72&u=da1c918dd511f37071c4a4fdcc8231681e680529&v=4" width="24" alt="Avatar of AbdulQarizada"> AbdulQarizada
-			</a><br/>
-			Abdul Qarizada
-		</td>
-		<td>Afghanistan Civil Aviation Authority<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>342</td>
-		<td>
-			<a href="https://github.com/obaidnasary">
-				<img src="https://avatars.githubusercontent.com/u/20941068?s=72&u=a27558437847b171f61951cb5eca38e260bf00e2&v=4" width="24" alt="Avatar of obaidnasary"> obaidnasary
-			</a><br/>
-			Obaid Nasary
-		</td>
-		<td>Obaid Khan </td>
-		<td><a href="https://twitter.com/obaidnasary">obaidnasary</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>343</td>
-		<td>
-			<a href="https://github.com/khadijahashimi">
-				<img src="https://avatars.githubusercontent.com/u/76244408?s=72&u=95965420e1f8b155d30465f7bc3ee80274086664&v=4" width="24" alt="Avatar of khadijahashimi"> khadijahashimi
-			</a><br/>
-			No Name
-		</td>
-		<td> Hayat Software Company<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>344</td>
-		<td>
-			<a href="https://github.com/asmatkharoti">
-				<img src="https://avatars.githubusercontent.com/u/40036871?s=72&u=6da6ad6ccde709f8aa7e2e9e9c3cc2f327064090&v=4" width="24" alt="Avatar of asmatkharoti"> asmatkharoti
-			</a><br/>
-			Asmat Kharoti
-		</td>
-		<td>Modern Era Technologies <br/></td>
-		<td><a href="https://twitter.com/asmat_kharoti">asmat_kharoti</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>345</td>
-		<td>
-			<a href="https://github.com/sayednajmuddin">
-				<img src="https://avatars.githubusercontent.com/u/5242251?s=72&u=261e235e586764351d2ecc973e58d86776d126df&v=4" width="24" alt="Avatar of sayednajmuddin"> sayednajmuddin
-			</a><br/>
-			Sayed Najmuddin
-		</td>
-		<td>Kardan </td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>346</td>
-		<td>
-			<a href="https://github.com/shershahv">
-				<img src="https://avatars.githubusercontent.com/u/25692554?s=72&v=4" width="24" alt="Avatar of shershahv"> shershahv
-			</a><br/>
-			shershah vaziry
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>347</td>
-		<td>
-			<a href="https://github.com/qaisrasuli">
-				<img src="https://avatars.githubusercontent.com/u/31842596?s=72&u=66ff33d99140868ea355e31c3af4dddd45780e41&v=4" width="24" alt="Avatar of qaisrasuli"> qaisrasuli
-			</a><br/>
-			Qais Rasuli
-		</td>
-		<td>Abtech.com </td>
-		<td>No Twitter Username</td>
-		<td>Herat , Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>348</td>
-		<td>
-			<a href="https://github.com/wisal1426">
-				<img src="https://avatars.githubusercontent.com/u/83450121?s=72&v=4" width="24" alt="Avatar of wisal1426"> wisal1426
-			</a><br/>
-			Rafiqullah wisal
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nangarhar Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>349</td>
-		<td>
-			<a href="https://github.com/Shuib-Niazi">
-				<img src="https://avatars.githubusercontent.com/u/59106604?s=72&u=856fdcf6a71ada88e7723528703657fc510649ce&v=4" width="24" alt="Avatar of Shuib-Niazi"> Shuib-Niazi
-			</a><br/>
-			Shuib-Niazi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>350</td>
-		<td>
-			<a href="https://github.com/farshadosmani">
-				<img src="https://avatars.githubusercontent.com/u/75152955?s=72&u=41ce296a487faa66fee05bb08b4b976c0e9330fe&v=4" width="24" alt="Avatar of farshadosmani"> farshadosmani
-			</a><br/>
-			No Name
-		</td>
-		<td>Kabul Shahkar </td>
-		<td>No Twitter Username</td>
-		<td>kabul Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>351</td>
-		<td>
-			<a href="https://github.com/Atmarkhan">
-				<img src="https://avatars.githubusercontent.com/u/59101431?s=72&u=f9bf6d535ed91b525c204b408c4987c7515f8246&v=4" width="24" alt="Avatar of Atmarkhan"> Atmarkhan
-			</a><br/>
-			Atmar momand
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan </td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>352</td>
-		<td>
-			<a href="https://github.com/Muqaddar45">
-				<img src="https://avatars.githubusercontent.com/u/83910044?s=72&u=c2f8cdc2f10c2cfe0ecdc0e7d06746e8a6f3cb9f&v=4" width="24" alt="Avatar of Muqaddar45"> Muqaddar45
-			</a><br/>
-			Muqaddar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Jalalabad Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>353</td>
-		<td>
-			<a href="https://github.com/Atmarkhan">
-				<img src="https://avatars.githubusercontent.com/u/59101431?s=72&u=f9bf6d535ed91b525c204b408c4987c7515f8246&v=4" width="24" alt="Avatar of Atmarkhan"> Atmarkhan
-			</a><br/>
-			Atmar momand
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan </td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>354</td>
-		<td>
-			<a href="https://github.com/farshadosmani">
-				<img src="https://avatars.githubusercontent.com/u/75152955?s=72&u=41ce296a487faa66fee05bb08b4b976c0e9330fe&v=4" width="24" alt="Avatar of farshadosmani"> farshadosmani
-			</a><br/>
-			No Name
-		</td>
-		<td>Kabul Shahkar </td>
-		<td>No Twitter Username</td>
-		<td>kabul Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>355</td>
-		<td>
-			<a href="https://github.com/Nazaroghlo">
-				<img src="https://avatars.githubusercontent.com/u/72612295?s=72&u=b2619c105f58b75b9635133ede20743e4a5f451f&v=4" width="24" alt="Avatar of Nazaroghlo"> Nazaroghlo
-			</a><br/>
-			Mohammad Amin Khodai Nazaroğlu
-		</td>
-		<td>Nazaroghlo </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>356</td>
-		<td>
-			<a href="https://github.com/safiullah-github">
-				<img src="https://avatars.githubusercontent.com/u/65490995?s=72&u=e3d550bc0f9cd9852cd93025dc76e819483d95c4&v=4" width="24" alt="Avatar of safiullah-github"> safiullah-github
-			</a><br/>
-			Safiullah Amarkhail
-		</td>
-		<td>Afghanistan Online </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>357</td>
-		<td>
-			<a href="https://github.com/Elyas690">
-				<img src="https://avatars.githubusercontent.com/u/83100848?s=72&u=090272cbd62c76ec10ffa1e1457da7500ebe22cd&v=4" width="24" alt="Avatar of Elyas690"> Elyas690
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>358</td>
-		<td>
-			<a href="https://github.com/admiral0796">
-				<img src="https://avatars.githubusercontent.com/u/85609414?s=72&u=cd33b9a85c9217bfa9e5d5cd9179c585f8ddf656&v=4" width="24" alt="Avatar of admiral0796"> admiral0796
-			</a><br/>
-			nick karsslon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>afghanistan - herat city</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>359</td>
-		<td>
-			<a href="https://github.com/admiral0796">
-				<img src="https://avatars.githubusercontent.com/u/85609414?s=72&u=cd33b9a85c9217bfa9e5d5cd9179c585f8ddf656&v=4" width="24" alt="Avatar of admiral0796"> admiral0796
-			</a><br/>
-			nick karsslon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>afghanistan - herat city</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>360</td>
-		<td>
-			<a href="https://github.com/1389">
-				<img src="https://avatars.githubusercontent.com/u/34157640?s=72&u=d59e498c1bdc1e6ec61eeba956fa738b0f79f772&v=4" width="24" alt="Avatar of 1389"> 1389
-			</a><br/>
-			Mohammad Naeem
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>361</td>
-		<td>
-			<a href="https://github.com/kiyaasoft">
-				<img src="https://avatars.githubusercontent.com/u/67957147?s=72&v=4" width="24" alt="Avatar of kiyaasoft"> kiyaasoft
-			</a><br/>
-			Kiyaasoft
-		</td>
-		<td>Kiyaasoft </td>
-		<td><a href="https://twitter.com/kiyaasoft">kiyaasoft</a></td>
-		<td>Mazar-e-Sharif, Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>362</td>
-		<td>
-			<a href="https://github.com/kiyaasoft">
-				<img src="https://avatars.githubusercontent.com/u/67957147?s=72&v=4" width="24" alt="Avatar of kiyaasoft"> kiyaasoft
-			</a><br/>
-			Kiyaasoft
-		</td>
-		<td>Kiyaasoft </td>
-		<td><a href="https://twitter.com/kiyaasoft">kiyaasoft</a></td>
-		<td>Mazar-e-Sharif, Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>363</td>
-		<td>
-			<a href="https://github.com/abedbehrooz">
-				<img src="https://avatars.githubusercontent.com/u/71087250?s=72&u=1b194f1b1ae72e8f25db55fdb54709c26451e45c&v=4" width="24" alt="Avatar of abedbehrooz"> abedbehrooz
-			</a><br/>
-			Abed Behrooz
-		</td>
-		<td>Freelancer </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>364</td>
-		<td>
-			<a href="https://github.com/AbdulBaser">
-				<img src="https://avatars.githubusercontent.com/u/52736065?s=72&u=427c42e8897c4a8bf5d4fa8956e30e4a03717a83&v=4" width="24" alt="Avatar of AbdulBaser"> AbdulBaser
-			</a><br/>
-			Abdul Baser
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AbdulbaserAlfat">AbdulbaserAlfat</a></td>
-		<td>Herat Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>365</td>
-		<td>
-			<a href="https://github.com/Masoma-Mahmudy">
-				<img src="https://avatars.githubusercontent.com/u/50538546?s=72&v=4" width="24" alt="Avatar of Masoma-Mahmudy"> Masoma-Mahmudy
-			</a><br/>
-			Masoma Mahmudy
-		</td>
-		<td>Dmm </td>
-		<td>No Twitter Username</td>
-		<td>Shahr Now Kabul, Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>366</td>
-		<td>
-			<a href="https://github.com/akmal-khan">
-				<img src="https://avatars.githubusercontent.com/u/85055965?s=72&v=4" width="24" alt="Avatar of akmal-khan"> akmal-khan
-			</a><br/>
-			No Name
-		</td>
-		<td>Ministry Of Higher Education<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>367</td>
-		<td>
-			<a href="https://github.com/ahmadm520">
-				<img src="https://avatars.githubusercontent.com/u/79419000?s=72&v=4" width="24" alt="Avatar of ahmadm520"> ahmadm520
-			</a><br/>
-			Ahmad
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>368</td>
-		<td>
-			<a href="https://github.com/mansoor-sayaad">
-				<img src="https://avatars.githubusercontent.com/u/71921070?s=72&u=14409ce17f475c40c268b5643f8678ceed2f1fcc&v=4" width="24" alt="Avatar of mansoor-sayaad"> mansoor-sayaad
-			</a><br/>
-			mansoor_sayaad
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>kabul afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>369</td>
-		<td>
-			<a href="https://github.com/HajiRafi">
-				<img src="https://avatars.githubusercontent.com/u/68814346?s=72&u=788fe678a292f02ad33bcbeea8c48e41881a4995&v=4" width="24" alt="Avatar of HajiRafi"> HajiRafi
-			</a><br/>
-			Haji Rafi
-		</td>
-		<td>@rafi_hack </td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>370</td>
-		<td>
-			<a href="https://github.com/Humisak">
-				<img src="https://avatars.githubusercontent.com/u/60721057?s=72&u=975cccd0629c429633da005c56eba62316e1c5e9&v=4" width="24" alt="Avatar of Humisak"> Humisak
-			</a><br/>
-			Khan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan/Norway</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>371</td>
-		<td>
-			<a href="https://github.com/devreza">
-				<img src="https://avatars.githubusercontent.com/u/56305555?s=72&v=4" width="24" alt="Avatar of devreza"> devreza
-			</a><br/>
-			No Name
-		</td>
-		<td>Home </td>
-		<td><a href="https://twitter.com/abdulRezaMaleki">abdulRezaMaleki</a></td>
-		<td>Iran & Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>372</td>
-		<td>
-			<a href="https://github.com/smalawi1368">
-				<img src="https://avatars.githubusercontent.com/u/49611864?s=72&u=53a8cf7bceb38a501b76692d6252accfab1508a2&v=4" width="24" alt="Avatar of smalawi1368"> smalawi1368
-			</a><br/>
-			SMAN
-		</td>
-		<td>Afghanistan International Bank </td>
-		<td><a href="https://twitter.com/sman1368">sman1368</a></td>
-		<td>Kabul _ Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>373</td>
-		<td>
-			<a href="https://github.com/sayedatal92">
-				<img src="https://avatars.githubusercontent.com/u/36219655?s=72&u=1f45cb4e78cfcde287395acb0766abc8a43563bc&v=4" width="24" alt="Avatar of sayedatal92"> sayedatal92
-			</a><br/>
-			Sayed Burhan Atal
-		</td>
-		<td>Icimod-servir-hkh </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>374</td>
-		<td>
-			<a href="https://github.com/mahboobsabiry">
-				<img src="https://avatars.githubusercontent.com/u/49223850?s=72&u=f05585acd79e5fe3abc003a898f913ad96194472&v=4" width="24" alt="Avatar of mahboobsabiry"> mahboobsabiry
-			</a><br/>
-			Mahboobulrahman Sabiry
-		</td>
-		<td>Doordreams </td>
-		<td><a href="https://twitter.com/msabiryofficial">msabiryofficial</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>375</td>
-		<td>
-			<a href="https://github.com/abzarkankor">
-				<img src="https://avatars.githubusercontent.com/u/84274145?s=72&v=4" width="24" alt="Avatar of abzarkankor"> abzarkankor
-			</a><br/>
-			Abzar Kankor
-		</td>
-		<td>Asr Fratak </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>376</td>
-		<td>
-			<a href="https://github.com/Wayarsafi">
-				<img src="https://avatars.githubusercontent.com/u/83131239?s=72&u=0b94c4c6a594ac151a3046adf063e907fcc11c10&v=4" width="24" alt="Avatar of Wayarsafi"> Wayarsafi
-			</a><br/>
-			Eng. Wayar Safi
-		</td>
-		<td>@netuacademy </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan-Herat</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>377</td>
-		<td>
-			<a href="https://github.com/zshu">
-				<img src="https://avatars.githubusercontent.com/u/3916333?s=72&u=7dc28ebd30178eae41b486bfe01df083238edaeb&v=4" width="24" alt="Avatar of zshu"> zshu
-			</a><br/>
-			zshu
-		</td>
-		<td>Mgkj </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>378</td>
-		<td>
-			<a href="https://github.com/afrahim2001">
-				<img src="https://avatars.githubusercontent.com/u/66724674?s=72&u=72c01dbc95ef5b5f40648ca00f0e5c9e4685e1cc&v=4" width="24" alt="Avatar of afrahim2001"> afrahim2001
-			</a><br/>
-			afrahim2001
-		</td>
-		<td>Oc </td>
-		<td><a href="https://twitter.com/KhanAfraheem">KhanAfraheem</a></td>
-		<td>Kabul</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>379</td>
-		<td>
-			<a href="https://github.com/SamimRahimi730">
-				<img src="https://avatars.githubusercontent.com/u/36768871?s=72&u=489a4ddc827f981893f1abdec69789213750a0ba&v=4" width="24" alt="Avatar of SamimRahimi730"> SamimRahimi730
-			</a><br/>
-			Samim Rahimi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nangarhar Afghanistan</td>
-		<td>1</td>
+		<td>Code To Inspire </td>
+		<td><a href="https://twitter.com/AqidaHaidari">AqidaHaidari</a></td>
+		<td>Heart,Afghanistan</td>
+		<td>8</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>416</td>
 		<td>
-			<a href="https://github.com/AzizurrahmanMohammadi">
-				<img src="https://avatars.githubusercontent.com/u/28766087?s=72&u=6e6a223301f1482bb06166faa4a0b54c49df4e2a&v=4" width="24" alt="Avatar of AzizurrahmanMohammadi"> AzizurrahmanMohammadi
+			<a href="https://github.com/Mirwais89">
+				<img src="https://avatars.githubusercontent.com/u/95518285?s=72&u=415e0cf1844eb6ace53301030d647807073a164e&v=4" width="24" alt="Avatar of Mirwais89"> Mirwais89
 			</a><br/>
-			Azizurrahman Mohammadi
+			Mirwais
 		</td>
-		<td>Asoodaowar Ict Solution Company<br/></td>
+		<td>Itch </td>
 		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>1</td>
+		<td>herat</td>
+		<td>8</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/SafiAhmadzai">
 				<img src="https://avatars.githubusercontent.com/u/44229318?s=72&u=3ba557dc8f3df700642e822456afa1c9148f2deb&v=4" width="24" alt="Avatar of SafiAhmadzai"> SafiAhmadzai
@@ -5055,1094 +5523,1952 @@ There are `960 users`  in Afghanistan. You need at least `0 followers` to be on 
 		<td>@nsia-infosys </td>
 		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan </td>
-		<td>1</td>
+		<td>7</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>418</td>
 		<td>
-			<a href="https://github.com/LatifBeheshti">
-				<img src="https://avatars.githubusercontent.com/u/83934821?s=72&u=0cf966c5df32e2f476a9255c5fa2cc97c77fb8d6&v=4" width="24" alt="Avatar of LatifBeheshti"> LatifBeheshti
+			<a href="https://github.com/morsalyosufi22">
+				<img src="https://avatars.githubusercontent.com/u/116018815?s=72&u=8c26833496f078605156dc2e1cc7aa3ac285a3c3&v=4" width="24" alt="Avatar of morsalyosufi22"> morsalyosufi22
 			</a><br/>
-			Latif
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/latifbeheshti">latifbeheshti</a></td>
-		<td>Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>383</td>
-		<td>
-			<a href="https://github.com/jawid-safari">
-				<img src="https://avatars.githubusercontent.com/u/79437644?s=72&u=9fdbf7f171c497a8cf80a5e7174363bbd93d55aa&v=4" width="24" alt="Avatar of jawid-safari"> jawid-safari
-			</a><br/>
-			Jawid Safari
-		</td>
-		<td>@code9ine </td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>384</td>
-		<td>
-			<a href="https://github.com/sajjadrajaee">
-				<img src="https://avatars.githubusercontent.com/u/33055346?s=72&u=71f91142144955fd07548d3327e018929179e155&v=4" width="24" alt="Avatar of sajjadrajaee"> sajjadrajaee
-			</a><br/>
-			Sajjad Rajaee
-		</td>
-		<td>Parhamict </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>385</td>
-		<td>
-			<a href="https://github.com/siawash-netlinks">
-				<img src="https://avatars.githubusercontent.com/u/17270183?s=72&u=af92a49a07aca6ddf61ef1636cc1fe4e10029107&v=4" width="24" alt="Avatar of siawash-netlinks"> siawash-netlinks
-			</a><br/>
-			Siawash Kasra
-		</td>
-		<td>Netlinks Ltd </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>386</td>
-		<td>
-			<a href="https://github.com/Wrahimee">
-				<img src="https://avatars.githubusercontent.com/u/81586064?s=72&u=54dd3cc11c5c3d8a404e48806749779016930cf1&v=4" width="24" alt="Avatar of Wrahimee"> Wrahimee
-			</a><br/>
-			Waliullah Rahimee
+			Morsal
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Herat </td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>419</td>
+		<td>
+			<a href="https://github.com/Kabulkhacksms">
+				<img src="https://avatars.githubusercontent.com/u/97286291?s=72&u=c15606c7f4e7fc19d37fa7449239671741b30bc9&v=4" width="24" alt="Avatar of Kabulkhacksms"> Kabulkhacksms
+			</a><br/>
+			Tariq Bahar
+		</td>
+		<td>Tariq Bahar </td>
+		<td><a href="https://twitter.com/tariqbahar">tariqbahar</a></td>
+		<td>Kabul afghanistan</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>420</td>
+		<td>
+			<a href="https://github.com/itisWahid">
+				<img src="https://avatars.githubusercontent.com/u/44894842?s=72&u=c62a600b6fbf0a9f6db09279e281a04aa49df1bc&v=4" width="24" alt="Avatar of itisWahid"> itisWahid
+			</a><br/>
+			Wahid Sabiri
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/itiswahid">itiswahid</a></td>
 		<td>Afghanistan</td>
-		<td>1</td>
+		<td>7</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>421</td>
 		<td>
-			<a href="https://github.com/Archisio">
-				<img src="https://avatars.githubusercontent.com/u/3201950?s=72&u=aaea1a5e814804246cce774d6c1b7b5758f5bf78&v=4" width="24" alt="Avatar of Archisio"> Archisio
+			<a href="https://github.com/Mozjdanasim15">
+				<img src="https://avatars.githubusercontent.com/u/116083420?s=72&u=2b2bb4c8103cdffc86f212b931b90507a85374d4&v=4" width="24" alt="Avatar of Mozjdanasim15"> Mozjdanasim15
 			</a><br/>
-			Mustafa Samadi
+			Mozhda
 		</td>
-		<td>Code Afghanistan </td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MozhdaNasim">MozhdaNasim</a></td>
+		<td> Afghanistan </td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>422</td>
+		<td>
+			<a href="https://github.com/Abdulraqibemami1">
+				<img src="https://avatars.githubusercontent.com/u/114464167?s=72&u=27def2735612dff4d33f4088026122201a571293&v=4" width="24" alt="Avatar of Abdulraqibemami1"> Abdulraqibemami1
+			</a><br/>
+			Abdulraqib Emami
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/RaqibEmami">RaqibEmami</a></td>
+		<td>Kabul Afghanistan</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>423</td>
+		<td>
+			<a href="https://github.com/Abdulraqibemami1">
+				<img src="https://avatars.githubusercontent.com/u/114464167?s=72&u=27def2735612dff4d33f4088026122201a571293&v=4" width="24" alt="Avatar of Abdulraqibemami1"> Abdulraqibemami1
+			</a><br/>
+			Abdulraqib Emami
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/RaqibEmami">RaqibEmami</a></td>
+		<td>Kabul Afghanistan</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>424</td>
+		<td>
+			<a href="https://github.com/obaidullahzaland">
+				<img src="https://avatars.githubusercontent.com/u/37972907?s=72&v=4" width="24" alt="Avatar of obaidullahzaland"> obaidullahzaland
+			</a><br/>
+			No Name
+		</td>
+		<td>National Statistics And Information<br/>Authority<br/></td>
+		<td><a href="https://twitter.com/obaidullahpz">obaidullahpz</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>425</td>
+		<td>
+			<a href="https://github.com/fayeqkashifi">
+				<img src="https://avatars.githubusercontent.com/u/22777589?s=72&u=ec122d9c7ad5b9031d2df75a34b9174238afc0db&v=4" width="24" alt="Avatar of fayeqkashifi"> fayeqkashifi
+			</a><br/>
+			Mohammad Faiq Kashifi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul,Afghanistan</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>426</td>
+		<td>
+			<a href="https://github.com/hamidullah596">
+				<img src="https://avatars.githubusercontent.com/u/133311487?s=72&u=98bff56840252e60f5cfda8c8cab628385bb3740&v=4" width="24" alt="Avatar of hamidullah596"> hamidullah596
+			</a><br/>
+			Hamidullah Amini
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>427</td>
+		<td>
+			<a href="https://github.com/ElhamKohestani">
+				<img src="https://avatars.githubusercontent.com/u/13310417?s=72&u=d5ba940be0c095b757be9651ba9c08f483d9434d&v=4" width="24" alt="Avatar of ElhamKohestani"> ElhamKohestani
+			</a><br/>
+			Elham Kohestani
+		</td>
+		<td>Vanhack </td>
 		<td>No Twitter Username</td>
 		<td>Kabul, Afghanistan</td>
-		<td>1</td>
+		<td>7</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>428</td>
 		<td>
-			<a href="https://github.com/imranosmanzai">
-				<img src="https://avatars.githubusercontent.com/u/35005566?s=72&v=4" width="24" alt="Avatar of imranosmanzai"> imranosmanzai
+			<a href="https://github.com/madadjo">
+				<img src="https://avatars.githubusercontent.com/u/36999869?s=72&u=d46dc1c9e25ada4e7bc158b38618a55e176c9947&v=4" width="24" alt="Avatar of madadjo"> madadjo
 			</a><br/>
-			Imran Osmanzai
+			Habib
 		</td>
-		<td>Ministry Of Education <br/></td>
+		<td>Raybold </td>
 		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>429</td>
+		<td>
+			<a href="https://github.com/KhalidRashidi">
+				<img src="https://avatars.githubusercontent.com/u/113974219?s=72&u=22eae79ea3e415b678fdae0f95dc04c129a19c6b&v=4" width="24" alt="Avatar of KhalidRashidi"> KhalidRashidi
+			</a><br/>
+			Khalid Rashidi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kandahar Afghanistan</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>430</td>
+		<td>
+			<a href="https://github.com/ParwizAfghan001">
+				<img src="https://avatars.githubusercontent.com/u/133603774?s=72&v=4" width="24" alt="Avatar of ParwizAfghan001"> ParwizAfghan001
+			</a><br/>
+			Parwiz Afghan 
+		</td>
+		<td>Dark Nights Team <br/></td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan </td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>431</td>
+		<td>
+			<a href="https://github.com/Tariq1112003">
+				<img src="https://avatars.githubusercontent.com/u/133871235?s=72&u=23e92ed6b96b41432772350e76d0c897f6a09ba7&v=4" width="24" alt="Avatar of Tariq1112003"> Tariq1112003
+			</a><br/>
+			Tariq 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Herat , Afghanistan </td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>432</td>
+		<td>
+			<a href="https://github.com/AlexPlays133">
+				<img src="https://avatars.githubusercontent.com/u/112446581?s=72&u=3f1d97c5a34e306176a612369d49c343380c4170&v=4" width="24" alt="Avatar of AlexPlays133"> AlexPlays133
+			</a><br/>
+			AlexDevs
+		</td>
+		<td>Bingus.ca </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>433</td>
+		<td>
+			<a href="https://github.com/Mostafa-Hussaini">
+				<img src="https://avatars.githubusercontent.com/u/83858868?s=72&u=a7d7a770580cb5d64fd6a4369aa00704fa7d73bd&v=4" width="24" alt="Avatar of Mostafa-Hussaini"> Mostafa-Hussaini
+			</a><br/>
+			Mostafa Islami
+		</td>
+		<td>@lajwardco </td>
+		<td><a href="https://twitter.com/Mostafa02192290">Mostafa02192290</a></td>
+		<td>Herat-Afghanistan</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>434</td>
+		<td>
+			<a href="https://github.com/mustafahayat">
+				<img src="https://avatars.githubusercontent.com/u/64731119?s=72&u=3915591d475bd2232673d60414fdfa9f27e91a3f&v=4" width="24" alt="Avatar of mustafahayat"> mustafahayat
+			</a><br/>
+			M.Mustaf Hayat
+		</td>
+		<td>Hayat Software Company </td>
+		<td><a href="https://twitter.com/mustafaamarkhil">mustafaamarkhil</a></td>
 		<td>Kabul, Afghanistan</td>
-		<td>1</td>
+		<td>6</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>435</td>
 		<td>
-			<a href="https://github.com/Aman-Saeed">
-				<img src="https://avatars.githubusercontent.com/u/55559732?s=72&u=41983baf70f01fbd275b6d4edcfb1e59a4ee075d&v=4" width="24" alt="Avatar of Aman-Saeed"> Aman-Saeed
+			<a href="https://github.com/SakinehMoradi">
+				<img src="https://avatars.githubusercontent.com/u/105529809?s=72&u=7851efe26e8129adc1ec48515573230711589390&v=4" width="24" alt="Avatar of SakinehMoradi"> SakinehMoradi
 			</a><br/>
-			Amanullah Saeed
+			No Name
 		</td>
-		<td>Parsa Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Jalalabad Afghanistan</td>
-		<td>1</td>
+		<td>@cti(code To Inspire) </td>
+		<td><a href="https://twitter.com/sakinehmoradi07">sakinehmoradi07</a></td>
+		<td>Herat Afghanistan</td>
+		<td>6</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>436</td>
 		<td>
 			<a href="https://github.com/saberzul">
-				<img src="https://avatars.githubusercontent.com/u/57654914?s=72&u=d275b191b9ff2c72bcdf54e53f9775abe676ba14&v=4" width="24" alt="Avatar of saberzul"> saberzul
+				<img src="https://avatars.githubusercontent.com/u/57654914?s=72&u=16eb18a587858c7dba4dbf395756f66d64444bf3&v=4" width="24" alt="Avatar of saberzul"> saberzul
 			</a><br/>
 			saberzulqarnain
 		</td>
 		<td>Cuww </td>
 		<td>No Twitter Username</td>
 		<td>afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>391</td>
-		<td>
-			<a href="https://github.com/tnoori">
-				<img src="https://avatars.githubusercontent.com/u/34747443?s=72&u=d6184aa0d4c9794d8ab3edf5e9a72b22bd1cf57a&v=4" width="24" alt="Avatar of tnoori"> tnoori
-			</a><br/>
-			Timor Noori
-		</td>
-		<td>Cyberaan  </td>
-		<td><a href="https://twitter.com/ti_noori">ti_noori</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>392</td>
-		<td>
-			<a href="https://github.com/Eehrari">
-				<img src="https://avatars.githubusercontent.com/u/20050474?s=72&u=f1b90ea85e70a1abddefdf4d3751eb515d4914f3&v=4" width="24" alt="Avatar of Eehrari"> Eehrari
-			</a><br/>
-			Ehsan Ehrari
-		</td>
-		<td>@codetoinspire </td>
-		<td>No Twitter Username</td>
-		<td>Herat Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>393</td>
-		<td>
-			<a href="https://github.com/afghanVTeam">
-				<img src="https://avatars.githubusercontent.com/u/71073980?s=72&u=95879bf1eec47dbae114bcb1e01bd2db0c8bd56c&v=4" width="24" alt="Avatar of afghanVTeam"> afghanVTeam
-			</a><br/>
-			afghanVTeam
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Herat-Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>394</td>
-		<td>
-			<a href="https://github.com/arahimee">
-				<img src="https://avatars.githubusercontent.com/u/6381416?s=72&u=1163f4f71303455c175dea05293ebeb1ce733813&v=4" width="24" alt="Avatar of arahimee"> arahimee
-			</a><br/>
-			Ahmad Ramin Rahimee
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>395</td>
-		<td>
-			<a href="https://github.com/Sayed-Enayat">
-				<img src="https://avatars.githubusercontent.com/u/14256329?s=72&u=0c30874bd15b4f62b2e9ede2a73306feb1312156&v=4" width="24" alt="Avatar of Sayed-Enayat"> Sayed-Enayat
-			</a><br/>
-			Enayat Sadat
-		</td>
-		<td>Buraq Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>396</td>
-		<td>
-			<a href="https://github.com/modeer-smis">
-				<img src="https://avatars.githubusercontent.com/u/81752538?s=72&u=00b98dc261bbde4bf456de5d23dbac2acc4de43e&v=4" width="24" alt="Avatar of modeer-smis"> modeer-smis
-			</a><br/>
-			Modeer SMIS
-		</td>
-		<td>Modder </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>397</td>
-		<td>
-			<a href="https://github.com/mr-robot-95">
-				<img src="https://avatars.githubusercontent.com/u/57442881?s=72&u=d282651c220e8aef22b17f2c44f572f7d23705a5&v=4" width="24" alt="Avatar of mr-robot-95"> mr-robot-95
-			</a><br/>
-			Ali
-		</td>
-		<td>Google Developer Student Clubs<br/></td>
-		<td><a href="https://twitter.com/ALiAKBARi95">ALiAKBARi95</a></td>
-		<td>Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>398</td>
-		<td>
-			<a href="https://github.com/naqi-hub">
-				<img src="https://avatars.githubusercontent.com/u/79391235?s=72&u=d9d949634640b0a8d5902f22c4e5e8332e65b8d8&v=4" width="24" alt="Avatar of naqi-hub"> naqi-hub
-			</a><br/>
-			Naqi
-		</td>
-		<td>Immap </td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>399</td>
-		<td>
-			<a href="https://github.com/masjedi-2020">
-				<img src="https://avatars.githubusercontent.com/u/68049484?s=72&u=2409e4d2beea30f8ee0df243bf889eca9f782aba&v=4" width="24" alt="Avatar of masjedi-2020"> masjedi-2020
-			</a><br/>
-			Masjedi Qaderi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>400</td>
-		<td>
-			<a href="https://github.com/tpaikan1992">
-				<img src="https://avatars.githubusercontent.com/u/58360005?s=72&v=4" width="24" alt="Avatar of tpaikan1992"> tpaikan1992
-			</a><br/>
-			Taufiq paikan
-		</td>
-		<td>Public Private Partnership </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>401</td>
-		<td>
-			<a href="https://github.com/SayedJawadMosavi">
-				<img src="https://avatars.githubusercontent.com/u/77432546?s=72&u=b9391ce9dedc13cb6b08046e7c2c3dc58b6da2bd&v=4" width="24" alt="Avatar of SayedJawadMosavi"> SayedJawadMosavi
-			</a><br/>
-			No Name
-		</td>
-		<td>Twistedbits </td>
-		<td>No Twitter Username</td>
-		<td>kabul</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>402</td>
-		<td>
-			<a href="https://github.com/Shabeer-Mahir">
-				<img src="https://avatars.githubusercontent.com/u/32621908?s=72&u=fa530d23139e62f1ddc8283ae8a1d215f2fbbb13&v=4" width="24" alt="Avatar of Shabeer-Mahir"> Shabeer-Mahir
-			</a><br/>
-			Shabeer Mahir
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>403</td>
-		<td>
-			<a href="https://github.com/deathgrouop">
-				<img src="https://avatars.githubusercontent.com/u/74304837?s=72&u=90e2ac0ae3646a508e9e71bf2c711729ed361761&v=4" width="24" alt="Avatar of deathgrouop"> deathgrouop
-			</a><br/>
-			Milad
-		</td>
-		<td>Technology Star </td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>404</td>
-		<td>
-			<a href="https://github.com/ModaserSidiqi">
-				<img src="https://avatars.githubusercontent.com/u/29195941?s=72&u=06e49f046baa53dcee08057190d21e6694074461&v=4" width="24" alt="Avatar of ModaserSidiqi"> ModaserSidiqi
-			</a><br/>
-			Modaser Sidiqi
-		</td>
-		<td>American University Of Afghanistan<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanisatn</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>405</td>
-		<td>
-			<a href="https://github.com/mohshafi7">
-				<img src="https://avatars.githubusercontent.com/u/75176421?s=72&v=4" width="24" alt="Avatar of mohshafi7"> mohshafi7
-			</a><br/>
-			Mohammad Shafi 
-		</td>
-		<td>Kardan University  </td>
-		<td><a href="https://twitter.com/Moh___shafi">Moh___shafi</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>406</td>
-		<td>
-			<a href="https://github.com/cuberstech">
-				<img src="https://avatars.githubusercontent.com/u/71541068?s=72&u=14b5f09e74cef281bf6cce955bcf1710cdd4fe49&v=4" width="24" alt="Avatar of cuberstech"> cuberstech
-			</a><br/>
-			No Name
-		</td>
-		<td>Cubers Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>407</td>
-		<td>
-			<a href="https://github.com/mohshafi7">
-				<img src="https://avatars.githubusercontent.com/u/75176421?s=72&v=4" width="24" alt="Avatar of mohshafi7"> mohshafi7
-			</a><br/>
-			Mohammad Shafi 
-		</td>
-		<td>Kardan University  </td>
-		<td><a href="https://twitter.com/Moh___shafi">Moh___shafi</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>408</td>
-		<td>
-			<a href="https://github.com/ULB4788">
-				<img src="https://avatars.githubusercontent.com/u/74758462?s=72&u=8ac372951ebbbd8daa9bec4e9fa0114519880756&v=4" width="24" alt="Avatar of ULB4788"> ULB4788
-			</a><br/>
-			THE ULB
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan-jalalabad-nangarhar-1st-zone</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>409</td>
-		<td>
-			<a href="https://github.com/FaridAhamdSafi">
-				<img src="https://avatars.githubusercontent.com/u/76446662?s=72&u=90a5bb0300c3b05f6300a1808ce0a6fd8c312bb1&v=4" width="24" alt="Avatar of FaridAhamdSafi"> FaridAhamdSafi
-			</a><br/>
-			Farid Ahmad Safi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>410</td>
-		<td>
-			<a href="https://github.com/cuberstech">
-				<img src="https://avatars.githubusercontent.com/u/71541068?s=72&u=14b5f09e74cef281bf6cce955bcf1710cdd4fe49&v=4" width="24" alt="Avatar of cuberstech"> cuberstech
-			</a><br/>
-			No Name
-		</td>
-		<td>Cubers Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>411</td>
-		<td>
-			<a href="https://github.com/mansoor640">
-				<img src="https://avatars.githubusercontent.com/u/84623498?s=72&v=4" width="24" alt="Avatar of mansoor640"> mansoor640
-			</a><br/>
-			No Name
-		</td>
-		<td>Talash </td>
-		<td><a href="https://twitter.com/esmatmaqsodi">esmatmaqsodi</a></td>
-		<td>kabul</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>412</td>
-		<td>
-			<a href="https://github.com/MohammadBaqirAzimi">
-				<img src="https://avatars.githubusercontent.com/u/52359831?s=72&v=4" width="24" alt="Avatar of MohammadBaqirAzimi"> MohammadBaqirAzimi
-			</a><br/>
-			No Name
-		</td>
-		<td>Web-flow </td>
-		<td>No Twitter Username</td>
-		<td>Kabul-Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>413</td>
-		<td>
-			<a href="https://github.com/ksahil007">
-				<img src="https://avatars.githubusercontent.com/u/69498004?s=72&u=40c23848e9b9bae6b7ebd66763e708f5495e8615&v=4" width="24" alt="Avatar of ksahil007"> ksahil007
-			</a><br/>
-			Sayed Kanishka Sahil
-		</td>
-		<td>Fwa </td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>414</td>
-		<td>
-			<a href="https://github.com/kamalhasan7654">
-				<img src="https://avatars.githubusercontent.com/u/69629068?s=72&u=b8ede208ea671d29c30dadee4f7f88b3d9b0f5d1&v=4" width="24" alt="Avatar of kamalhasan7654"> kamalhasan7654
-			</a><br/>
-			Kamaluddin
-		</td>
-		<td>Atr </td>
-		<td><a href="https://twitter.com/Afrasiyab">Afrasiyab</a></td>
-		<td>Sarepul afghanistan </td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>415</td>
-		<td>
-			<a href="https://github.com/Karimeh-AL">
-				<img src="https://avatars.githubusercontent.com/u/74170966?s=72&v=4" width="24" alt="Avatar of Karimeh-AL"> Karimeh-AL
-			</a><br/>
-			Karimeh Alizadeh 
-		</td>
-		<td>I Don't Have <br/></td>
-		<td><a href="https://twitter.com/No">No</a></td>
-		<td>Herat Afghanistan </td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>416</td>
-		<td>
-			<a href="https://github.com/GandomM">
-				<img src="https://avatars.githubusercontent.com/u/66696085?s=72&u=97cc00a1a83e264c9bb90bf002fa83c83cfcef58&v=4" width="24" alt="Avatar of GandomM"> GandomM
-			</a><br/>
-			Masomeh 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>417</td>
-		<td>
-			<a href="https://github.com/hamed788">
-				<img src="https://avatars.githubusercontent.com/u/83406011?s=72&v=4" width="24" alt="Avatar of hamed788"> hamed788
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>418</td>
-		<td>
-			<a href="https://github.com/mahdi1400">
-				<img src="https://avatars.githubusercontent.com/u/84655465?s=72&u=f90b23c1eeae58920d033e01643426ac285f45da&v=4" width="24" alt="Avatar of mahdi1400"> mahdi1400
-			</a><br/>
-			mahdi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>419</td>
-		<td>
-			<a href="https://github.com/AMZHack">
-				<img src="https://avatars.githubusercontent.com/u/78636738?s=72&u=5a1d21cba39cef51d6cba00e0d03613c681618cd&v=4" width="24" alt="Avatar of AMZHack"> AMZHack
-			</a><br/>
-			Mamad.hack
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Zaher_hussaini">Zaher_hussaini</a></td>
-		<td>Afghanistan </td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>420</td>
-		<td>
-			<a href="https://github.com/nasrimohseni">
-				<img src="https://avatars.githubusercontent.com/u/20246850?s=72&u=687d8f5d3f41b939175ee4e87d1cf7d3b594997a&v=4" width="24" alt="Avatar of nasrimohseni"> nasrimohseni
-			</a><br/>
-			Nasrullah Mohseni
-		</td>
-		<td>Moore Afghanistan </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>421</td>
-		<td>
-			<a href="https://github.com/Alim21887">
-				<img src="https://avatars.githubusercontent.com/u/77436692?s=72&v=4" width="24" alt="Avatar of Alim21887"> Alim21887
-			</a><br/>
-			mohammad alim
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>kabul, afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>422</td>
-		<td>
-			<a href="https://github.com/ewazfakor">
-				<img src="https://avatars.githubusercontent.com/u/70776423?s=72&v=4" width="24" alt="Avatar of ewazfakor"> ewazfakor
-			</a><br/>
-			Ewaz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghnistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>423</td>
-		<td>
-			<a href="https://github.com/Arash194">
-				<img src="https://avatars.githubusercontent.com/u/69211075?s=72&v=4" width="24" alt="Avatar of Arash194"> Arash194
-			</a><br/>
-			Shah arash charade
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>424</td>
-		<td>
-			<a href="https://github.com/fudgeholden">
-				<img src="https://avatars.githubusercontent.com/u/74383424?s=72&u=dddc978ff3126f0f36f9389116793c6f02d70320&v=4" width="24" alt="Avatar of fudgeholden"> fudgeholden
-			</a><br/>
-			Janitorial_Wrath
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>425</td>
-		<td>
-			<a href="https://github.com/Zahra-Habibi">
-				<img src="https://avatars.githubusercontent.com/u/75669065?s=72&u=8459c5764d9faa5a160956a32dc59f0fe8cbde1b&v=4" width="24" alt="Avatar of Zahra-Habibi"> Zahra-Habibi
-			</a><br/>
-			Zahra Habibi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul-Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>426</td>
-		<td>
-			<a href="https://github.com/Raihanahmadfaiz">
-				<img src="https://avatars.githubusercontent.com/u/83766650?s=72&v=4" width="24" alt="Avatar of Raihanahmadfaiz"> Raihanahmadfaiz
-			</a><br/>
-			Raihan Ahmad Faiz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>427</td>
-		<td>
-			<a href="https://github.com/iwalii">
-				<img src="https://avatars.githubusercontent.com/u/62290326?s=72&v=4" width="24" alt="Avatar of iwalii"> iwalii
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Khost, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>428</td>
-		<td>
-			<a href="https://github.com/amini853">
-				<img src="https://avatars.githubusercontent.com/u/78329771?s=72&v=4" width="24" alt="Avatar of amini853"> amini853
-			</a><br/>
-			No Name
-		</td>
-		<td>Kabul </td>
-		<td><a href="https://twitter.com/0780516971">0780516971</a></td>
-		<td>Kabul</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>429</td>
-		<td>
-			<a href="https://github.com/iwalii">
-				<img src="https://avatars.githubusercontent.com/u/62290326?s=72&v=4" width="24" alt="Avatar of iwalii"> iwalii
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Khost, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>430</td>
-		<td>
-			<a href="https://github.com/Raihanahmadfaiz">
-				<img src="https://avatars.githubusercontent.com/u/83766650?s=72&v=4" width="24" alt="Avatar of Raihanahmadfaiz"> Raihanahmadfaiz
-			</a><br/>
-			Raihan Ahmad Faiz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>431</td>
-		<td>
-			<a href="https://github.com/Suliman-Noori">
-				<img src="https://avatars.githubusercontent.com/u/82102224?s=72&u=769b809b8317cc0c86e4918810c559460cdb1e43&v=4" width="24" alt="Avatar of Suliman-Noori"> Suliman-Noori
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan </td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>432</td>
-		<td>
-			<a href="https://github.com/iAmins">
-				<img src="https://avatars.githubusercontent.com/u/29329348?s=72&u=b7e45f7752923127535ba461da1d05cc05d136dc&v=4" width="24" alt="Avatar of iAmins"> iAmins
-			</a><br/>
-			Rohoulamin Sawaby
-		</td>
-		<td>Technophobe Afg </td>
-		<td>No Twitter Username</td>
-		<td>Herat - Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>433</td>
-		<td>
-			<a href="https://github.com/samiruser">
-				<img src="https://avatars.githubusercontent.com/u/42918364?s=72&u=b8244dc40629485a8a8a031b08c635385df20179&v=4" width="24" alt="Avatar of samiruser"> samiruser
-			</a><br/>
-			Samir
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>434</td>
-		<td>
-			<a href="https://github.com/Moulagul-Hotak">
-				<img src="https://avatars.githubusercontent.com/u/73734268?s=72&u=5d6eccaf6f8b690f710ac79442a180dd79abd038&v=4" width="24" alt="Avatar of Moulagul-Hotak"> Moulagul-Hotak
-			</a><br/>
-			Moulagul Hotak
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Jalalabad,Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>435</td>
-		<td>
-			<a href="https://github.com/Mohammadsabir7440">
-				<img src="https://avatars.githubusercontent.com/u/71369143?s=72&v=4" width="24" alt="Avatar of Mohammadsabir7440"> Mohammadsabir7440
-			</a><br/>
-			Mohammad Sabir " Ibrahimi "
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>kabul afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>436</td>
-		<td>
-			<a href="https://github.com/LemaAkrami">
-				<img src="https://avatars.githubusercontent.com/u/71944246?s=72&v=4" width="24" alt="Avatar of LemaAkrami"> LemaAkrami
-			</a><br/>
-			Lema Akrami
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>1</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>437</td>
 		<td>
-			<a href="https://github.com/ahmadi666">
-				<img src="https://avatars.githubusercontent.com/u/73419259?s=72&v=4" width="24" alt="Avatar of ahmadi666"> ahmadi666
+			<a href="https://github.com/wahrez">
+				<img src="https://avatars.githubusercontent.com/u/25291271?s=72&u=6d3fdb04c762282997f8fef026412e495e0d2d39&v=4" width="24" alt="Avatar of wahrez"> wahrez
 			</a><br/>
-			No Name
+			Mustafa Wahrez
 		</td>
-		<td>Ahmadi Group </td>
+		<td>National Procurement Authority (npa)<br/></td>
 		<td>No Twitter Username</td>
-		<td>kabul</td>
-		<td>1</td>
+		<td>Kabul, Afghanistan </td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>438</td>
 		<td>
-			<a href="https://github.com/murtaza6709">
-				<img src="https://avatars.githubusercontent.com/u/75002219?s=72&u=59b80dda39b36d5c9036602be9b3b4d66b9d76ad&v=4" width="24" alt="Avatar of murtaza6709"> murtaza6709
+			<a href="https://github.com/ferdouskazemi">
+				<img src="https://avatars.githubusercontent.com/u/59219097?s=72&u=1517846b6627ef48d6f1c4ac239f9aa20be7b2f0&v=4" width="24" alt="Avatar of ferdouskazemi"> ferdouskazemi
 			</a><br/>
-			No Name
+			Ferdous Kazemi
 		</td>
-		<td>Kabul </td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>1</td>
+		<td>Inolitix </td>
+		<td><a href="https://twitter.com/Ferdouskz350">Ferdouskz350</a></td>
+		<td>Herat</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>439</td>
 		<td>
-			<a href="https://github.com/pouyaomid">
-				<img src="https://avatars.githubusercontent.com/u/69306041?s=72&u=0205ccb9ab8f4c3efd3ae81c41ec86eb514212fc&v=4" width="24" alt="Avatar of pouyaomid"> pouyaomid
+			<a href="https://github.com/SagharHazinyar">
+				<img src="https://avatars.githubusercontent.com/u/74876760?s=72&u=a248e2dcb12ab6142ab9276d6f52df22c5a68cef&v=4" width="24" alt="Avatar of SagharHazinyar"> SagharHazinyar
 			</a><br/>
-			No Name
+			Saghar Hazinyar
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/pouya_omid">pouya_omid</a></td>
+		<td>No Twitter Username</td>
 		<td>Afghanistan</td>
-		<td>1</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>440</td>
 		<td>
-			<a href="https://github.com/R44G">
-				<img src="https://avatars.githubusercontent.com/u/71746946?s=72&v=4" width="24" alt="Avatar of R44G"> R44G
+			<a href="https://github.com/baqir-amiri">
+				<img src="https://avatars.githubusercontent.com/u/84768799?s=72&u=ad09c3e8d3d00db04367845e1f9b98cc09451efd&v=4" width="24" alt="Avatar of baqir-amiri"> baqir-amiri
 			</a><br/>
-			RESHAD
+			Baqir Amiri
 		</td>
-		<td>No Company</td>
+		<td>Rapid Technology </td>
 		<td>No Twitter Username</td>
-		<td>kabul</td>
-		<td>1</td>
+		<td>kabul afghanistan</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>441</td>
 		<td>
-			<a href="https://github.com/idreesmuhammadi">
-				<img src="https://avatars.githubusercontent.com/u/39558192?s=72&u=6bd024c36323874bf88deee8247213fc9c98f37f&v=4" width="24" alt="Avatar of idreesmuhammadi"> idreesmuhammadi
+			<a href="https://github.com/anahita-nazari">
+				<img src="https://avatars.githubusercontent.com/u/94045237?s=72&u=8cd28c51dd6a640c5b65ec33739fd6cd9966bc16&v=4" width="24" alt="Avatar of anahita-nazari"> anahita-nazari
 			</a><br/>
-			Idrees Muhammadi
+			Anahita Nazari
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Afghanistan,Kabul</td>
-		<td>1</td>
+		<td>kabul, afghanistan</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>442</td>
 		<td>
-			<a href="https://github.com/naqibullah1378">
-				<img src="https://avatars.githubusercontent.com/u/72225962?s=72&u=8b0b08a4270da996ac96755fc3fd6a12c0dd5a10&v=4" width="24" alt="Avatar of naqibullah1378"> naqibullah1378
+			<a href="https://github.com/qadirAdalat530">
+				<img src="https://avatars.githubusercontent.com/u/101456810?s=72&u=723a4664572b849236c0501acf5f78bc2d920df5&v=4" width="24" alt="Avatar of qadirAdalat530"> qadirAdalat530
 			</a><br/>
-			Naqibullah
+			Qadir Ali 
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Naqib_Nabizada">Naqib_Nabizada</a></td>
-		<td>Kabul</td>
-		<td>1</td>
+		<td>No </td>
+		<td><a href="https://twitter.com/AdalatQadir">AdalatQadir</a></td>
+		<td>Kabul , Afghanistan</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>443</td>
 		<td>
-			<a href="https://github.com/Omid2021">
-				<img src="https://avatars.githubusercontent.com/u/84637689?s=72&u=a71c2ac72b758eb46825ca744d5a57b9412507d5&v=4" width="24" alt="Avatar of Omid2021"> Omid2021
+			<a href="https://github.com/nasrat-codes">
+				<img src="https://avatars.githubusercontent.com/u/108133033?s=72&u=ff91b280a5d092d52a95a52967efe61a46bdfc6e&v=4" width="24" alt="Avatar of nasrat-codes"> nasrat-codes
 			</a><br/>
 			No Name
 		</td>
-		<td>Rasaictsolution </td>
-		<td>No Twitter Username</td>
-		<td>Kabul,Afghanistan</td>
-		<td>1</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nasrat_codes">nasrat_codes</a></td>
+		<td>kabul</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>444</td>
 		<td>
-			<a href="https://github.com/armanaria111">
-				<img src="https://avatars.githubusercontent.com/u/80363447?s=72&v=4" width="24" alt="Avatar of armanaria111"> armanaria111
+			<a href="https://github.com/HoseinSalehi1">
+				<img src="https://avatars.githubusercontent.com/u/103531326?s=72&v=4" width="24" alt="Avatar of HoseinSalehi1"> HoseinSalehi1
 			</a><br/>
-			arman jafari
+			Hosein Ali Salehi
 		</td>
-		<td>Afghan Wordpress </td>
-		<td><a href="https://twitter.com/afwpcom">afwpcom</a></td>
-		<td>afghanistan</td>
-		<td>1</td>
+		<td>Salehi </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan, nimruz</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>445</td>
 		<td>
-			<a href="https://github.com/safijoon001">
-				<img src="https://avatars.githubusercontent.com/u/81467073?s=72&v=4" width="24" alt="Avatar of safijoon001"> safijoon001
+			<a href="https://github.com/khayalsayeedi">
+				<img src="https://avatars.githubusercontent.com/u/25791474?s=72&u=1781b502f2f599521fc6349faed6aec03a090597&v=4" width="24" alt="Avatar of khayalsayeedi"> khayalsayeedi
 			</a><br/>
-			No Name
+			Khayal Pacha Sayeedi
 		</td>
-		<td>Facebook </td>
-		<td><a href="https://twitter.com/iqrarjanalmas">iqrarjanalmas</a></td>
-		<td>Afghanistan</td>
-		<td>1</td>
+		<td>Nsia </td>
+		<td><a href="https://twitter.com/khayalsayeedi">khayalsayeedi</a></td>
+		<td>Kabul, Afghanistan </td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>446</td>
 		<td>
-			<a href="https://github.com/Omid2021">
-				<img src="https://avatars.githubusercontent.com/u/84637689?s=72&u=a71c2ac72b758eb46825ca744d5a57b9412507d5&v=4" width="24" alt="Avatar of Omid2021"> Omid2021
+			<a href="https://github.com/aliparsa78">
+				<img src="https://avatars.githubusercontent.com/u/95699478?s=72&u=becf871ae75322c4a927557baba6cf11af62ca47&v=4" width="24" alt="Avatar of aliparsa78"> aliparsa78
 			</a><br/>
 			No Name
 		</td>
-		<td>Rasaictsolution </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kabul,Afghanistan</td>
-		<td>1</td>
+		<td>Afghanistan, kabul</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>447</td>
 		<td>
-			<a href="https://github.com/naqibullah1378">
-				<img src="https://avatars.githubusercontent.com/u/72225962?s=72&u=8b0b08a4270da996ac96755fc3fd6a12c0dd5a10&v=4" width="24" alt="Avatar of naqibullah1378"> naqibullah1378
+			<a href="https://github.com/tahminanoorzay">
+				<img src="https://avatars.githubusercontent.com/u/116256712?s=72&v=4" width="24" alt="Avatar of tahminanoorzay"> tahminanoorzay
 			</a><br/>
-			Naqibullah
+			Tahmina Noorzay
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Naqib_Nabizada">Naqib_Nabizada</a></td>
-		<td>Kabul</td>
-		<td>1</td>
+		<td><a href="https://twitter.com/tahmina_noorzay">tahmina_noorzay</a></td>
+		<td>Afghanistan</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>448</td>
 		<td>
-			<a href="https://github.com/MehdiHotmani">
-				<img src="https://avatars.githubusercontent.com/u/48784825?s=72&u=0944b5857a6e4f8c8c8125b306c1abb56bdebafe&v=4" width="24" alt="Avatar of MehdiHotmani"> MehdiHotmani
+			<a href="https://github.com/shafiramaki">
+				<img src="https://avatars.githubusercontent.com/u/35919418?s=72&u=7edb6ca2e75ebea88c6777bd77e5537f036e85e1&v=4" width="24" alt="Avatar of shafiramaki"> shafiramaki
 			</a><br/>
-			Mehdi Ahmadi
+			Shafiullah Ramaki
 		</td>
-		<td>Pohantoonplus </td>
+		<td>Eons Code </td>
 		<td>No Twitter Username</td>
-		<td>kabul-afghanistan</td>
-		<td>1</td>
+		<td>kabul,afghanistan</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>449</td>
 		<td>
-			<a href="https://github.com/SecMan00121">
-				<img src="https://avatars.githubusercontent.com/u/68487632?s=72&u=e3b916b7fc8332a4ced0328c4022af2a2fdd6921&v=4" width="24" alt="Avatar of SecMan00121"> SecMan00121
+			<a href="https://github.com/aligulzar729">
+				<img src="https://avatars.githubusercontent.com/u/32263497?s=72&v=4" width="24" alt="Avatar of aligulzar729"> aligulzar729
 			</a><br/>
-			ArtFul
+			Ali Gulzar
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/SecMan00121">SecMan00121</a></td>
-		<td>Kabul,Afghnistan</td>
-		<td>1</td>
+		<td>@netlinksaf </td>
+		<td><a href="https://twitter.com/Ali_Gulzar_729">Ali_Gulzar_729</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>450</td>
 		<td>
-			<a href="https://github.com/BELAL788">
-				<img src="https://avatars.githubusercontent.com/u/73283535?s=72&u=102e386657cc9a91de9a515da0b2f13e32cf5f88&v=4" width="24" alt="Avatar of BELAL788"> BELAL788
+			<a href="https://github.com/alirezaLG">
+				<img src="https://avatars.githubusercontent.com/u/6204266?s=72&u=d390866b7fe43c50f6749a40853fb02cdb5b71b5&v=4" width="24" alt="Avatar of alirezaLG"> alirezaLG
 			</a><br/>
-			BELAL
+			Alireza Akbari
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/788BELAL">788BELAL</a></td>
-		<td>Afghanistan</td>
-		<td>1</td>
+		<td>@techsharks  </td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>451</td>
 		<td>
-			<a href="https://github.com/Mohammad-2021">
-				<img src="https://avatars.githubusercontent.com/u/77010968?s=72&u=696ec302e173eb25df096377039124754ac41232&v=4" width="24" alt="Avatar of Mohammad-2021"> Mohammad-2021
+			<a href="https://github.com/mahdi-akbary">
+				<img src="https://avatars.githubusercontent.com/u/25363017?s=72&u=6dd8582c5ed251fd1301c0b3c0bc18e8be6490ea&v=4" width="24" alt="Avatar of mahdi-akbary"> mahdi-akbary
 			</a><br/>
-			No Name
+			Mahdi Akbary
 		</td>
-		<td>Millestone </td>
-		<td>No Twitter Username</td>
-		<td>Kabul-Afghanistan</td>
-		<td>1</td>
+		<td>Presidential Palace, Npa </td>
+		<td><a href="https://twitter.com/Mahdi_Akbary">Mahdi_Akbary</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>452</td>
 		<td>
-			<a href="https://github.com/MrDiwanaMajazi">
-				<img src="https://avatars.githubusercontent.com/u/79871041?s=72&u=5a23ede9a95a5bde4a3dabe30acccd4dc536e7fc&v=4" width="24" alt="Avatar of MrDiwanaMajazi"> MrDiwanaMajazi
+			<a href="https://github.com/Fazlullahmamond">
+				<img src="https://avatars.githubusercontent.com/u/50315393?s=72&u=973c0bd194ddb302de43a04cc0486529c79699cd&v=4" width="24" alt="Avatar of Fazlullahmamond"> Fazlullahmamond
 			</a><br/>
-			No Name
+			Fazlullah Mamond
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Jp_hamid">Jp_hamid</a></td>
-		<td>Kabul</td>
-		<td>1</td>
+		<td><a href="https://twitter.com/fazlullahmamond">fazlullahmamond</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>453</td>
 		<td>
-			<a href="https://github.com/reza1919">
-				<img src="https://avatars.githubusercontent.com/u/68787848?s=72&v=4" width="24" alt="Avatar of reza1919"> reza1919
+			<a href="https://github.com/ghufranataie">
+				<img src="https://avatars.githubusercontent.com/u/26889400?s=72&u=c75a1f8fa1d47a6bd9052a0ead05b6a46a6428b8&v=4" width="24" alt="Avatar of ghufranataie"> ghufranataie
 			</a><br/>
-			Five Jason
+			Ghufran Ataie
 		</td>
-		<td>Bfc </td>
-		<td><a href="https://twitter.com/YousefSalami">YousefSalami</a></td>
-		<td>Kabul/Afghanistan</td>
-		<td>1</td>
+		<td>Zaitoon Tech </td>
+		<td><a href="https://twitter.com/ghufranataie">ghufranataie</a></td>
+		<td>Mazar-e Sharif, Balkh, Afghanistan</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>454</td>
 		<td>
-			<a href="https://github.com/Shamsia123">
-				<img src="https://avatars.githubusercontent.com/u/82294427?s=72&v=4" width="24" alt="Avatar of Shamsia123"> Shamsia123
+			<a href="https://github.com/asmailsaadat">
+				<img src="https://avatars.githubusercontent.com/u/103553220?s=72&u=ddd287c8de33e3cc0fdb667bb0088de37867d3de&v=4" width="24" alt="Avatar of asmailsaadat"> asmailsaadat
 			</a><br/>
 			No Name
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Shamsiashams1">Shamsiashams1</a></td>
-		<td>Kabul/Afghanistan </td>
-		<td>1</td>
+		<td>Cs Student  </td>
+		<td>No Twitter Username</td>
+		<td>kandahar</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>455</td>
 		<td>
-			<a href="https://github.com/yasser44210">
-				<img src="https://avatars.githubusercontent.com/u/73667093?s=72&u=08d114847772b504c8498ade4e9400db4db46273&v=4" width="24" alt="Avatar of yasser44210"> yasser44210
+			<a href="https://github.com/Razwanullah">
+				<img src="https://avatars.githubusercontent.com/u/59358360?s=72&u=f0febc10b78d400a7fe2c0bcd4cb36eab0ca3c4c&v=4" width="24" alt="Avatar of Razwanullah"> Razwanullah
 			</a><br/>
-			Yasir Fazli
+			Rizwanullah Mohib
 		</td>
-		<td>Free Of Work </td>
-		<td><a href="https://twitter.com/yasser44210">yasser44210</a></td>
-		<td>Kabul Afghanistan</td>
-		<td>1</td>
+		<td>Techvision </td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>456</td>
 		<td>
-			<a href="https://github.com/EngHabibullah">
-				<img src="https://avatars.githubusercontent.com/u/85920677?s=72&v=4" width="24" alt="Avatar of EngHabibullah"> EngHabibullah
+			<a href="https://github.com/shakila2022">
+				<img src="https://avatars.githubusercontent.com/u/103276933?s=72&u=cf5fad227bede130d3b31f2ed4a3e88fbf1ac0db&v=4" width="24" alt="Avatar of shakila2022"> shakila2022
 			</a><br/>
-			Habibullah Qais
+			Shakila Mohammadi
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Habibullahqais">Habibullahqais</a></td>
-		<td>Bamyan, Afghanistan</td>
-		<td>1</td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>457</td>
 		<td>
-			<a href="https://github.com/ahmaddmehri">
-				<img src="https://avatars.githubusercontent.com/u/83858198?s=72&v=4" width="24" alt="Avatar of ahmaddmehri"> ahmaddmehri
+			<a href="https://github.com/Amrullah-Hashimi">
+				<img src="https://avatars.githubusercontent.com/u/37834818?s=72&v=4" width="24" alt="Avatar of Amrullah-Hashimi"> Amrullah-Hashimi
 			</a><br/>
-			Ahmad Mehri
+			Amrullah Hashimi
 		</td>
-		<td>Damehri </td>
-		<td>No Twitter Username</td>
-		<td>Kandahar, Afghanistan</td>
-		<td>1</td>
+		<td>Digital Junction </td>
+		<td><a href="https://twitter.com/AmrullahH12">AmrullahH12</a></td>
+		<td>Afghanistan</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>458</td>
 		<td>
-			<a href="https://github.com/Nasrat-Netlinks">
-				<img src="https://avatars.githubusercontent.com/u/61187069?s=72&u=88161047c674aa35a7ce133035571d4eb66b4450&v=4" width="24" alt="Avatar of Nasrat-Netlinks"> Nasrat-Netlinks
+			<a href="https://github.com/lauraMegamind">
+				<img src="https://avatars.githubusercontent.com/u/137477825?s=72&u=29e3c01ee9fc2235506a2b85f78eadd2de058fdd&v=4" width="24" alt="Avatar of lauraMegamind"> lauraMegamind
 			</a><br/>
-			Nasrat
+			Laura
 		</td>
-		<td>Netlinks </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan </td>
-		<td>1</td>
+		<td>Afghanistan</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>459</td>
 		<td>
-			<a href="https://github.com/HeavenReP">
-				<img src="https://avatars.githubusercontent.com/u/83018398?s=72&u=60596a802ea58862e3ec0fd27e88a07c0a88c288&v=4" width="24" alt="Avatar of HeavenReP"> HeavenReP
+			<a href="https://github.com/Hedoo">
+				<img src="https://avatars.githubusercontent.com/u/46179635?s=72&u=372175268571d2929177d8c16397ef34e53c7f24&v=4" width="24" alt="Avatar of Hedoo"> Hedoo
 			</a><br/>
-			HeavenReP
+			Hedayatullah Hedayat
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/HeavenKebab">HeavenKebab</a></td>
-		<td>Afghanistan</td>
-		<td>1</td>
+		<td>@kardanuniversity </td>
+		<td>No Twitter Username</td>
+		<td>Kardan University, Kabul, Afghanistan</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>460</td>
 		<td>
-			<a href="https://github.com/HeavenReP">
-				<img src="https://avatars.githubusercontent.com/u/83018398?s=72&u=60596a802ea58862e3ec0fd27e88a07c0a88c288&v=4" width="24" alt="Avatar of HeavenReP"> HeavenReP
+			<a href="https://github.com/rafiullahnikzad">
+				<img src="https://avatars.githubusercontent.com/u/58433250?s=72&u=7c54a2851e08bbc60c40f1d034bb0a3b4456d708&v=4" width="24" alt="Avatar of rafiullahnikzad"> rafiullahnikzad
 			</a><br/>
-			HeavenReP
+			Rafiullah
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/HeavenKebab">HeavenKebab</a></td>
+		<td>Nikzad </td>
+		<td><a href="https://twitter.com/nikzadrafiullah">nikzadrafiullah</a></td>
 		<td>Afghanistan</td>
-		<td>1</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>461</td>
 		<td>
-			<a href="https://github.com/Manizha-eng">
-				<img src="https://avatars.githubusercontent.com/u/58648282?s=72&v=4" width="24" alt="Avatar of Manizha-eng"> Manizha-eng
+			<a href="https://github.com/Qasimi1995">
+				<img src="https://avatars.githubusercontent.com/u/36435712?s=72&u=07213c8750472e72184798777c2da28c8613e7c9&v=4" width="24" alt="Avatar of Qasimi1995"> Qasimi1995
 			</a><br/>
-			Manizha sadat
+			Fawad Qasimi 
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul- Afghanistan</td>
-		<td>1</td>
+		<td><a href="https://twitter.com/FawadQasimi">FawadQasimi</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>462</td>
 		<td>
-			<a href="https://github.com/vaheedxp">
-				<img src="https://avatars.githubusercontent.com/u/34465387?s=72&v=4" width="24" alt="Avatar of vaheedxp"> vaheedxp
+			<a href="https://github.com/Shakib8888">
+				<img src="https://avatars.githubusercontent.com/u/113247483?s=72&u=1f723c28bfa85d4a305bf5c35128b56fbed1f7d5&v=4" width="24" alt="Avatar of Shakib8888"> Shakib8888
 			</a><br/>
-			Taqi Vaheed
+			Ahmad shakib
 		</td>
-		<td>Baz Consulting International </td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Herat Afghanistan </td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>463</td>
+		<td>
+			<a href="https://github.com/king1234khan">
+				<img src="https://avatars.githubusercontent.com/u/106375705?s=72&u=dbd5aafd0bcb72dc4fba12089c54b6435f60a188&v=4" width="24" alt="Avatar of king1234khan"> king1234khan
+			</a><br/>
+			Ahmadwali
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>kandahar Afganistan</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>464</td>
+		<td>
+			<a href="https://github.com/Shahrukh-Karimi">
+				<img src="https://avatars.githubusercontent.com/u/115795952?s=72&v=4" width="24" alt="Avatar of Shahrukh-Karimi"> Shahrukh-Karimi
+			</a><br/>
+			Shahrukh Karimi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>465</td>
+		<td>
+			<a href="https://github.com/semicolonn">
+				<img src="https://avatars.githubusercontent.com/u/40003253?s=72&u=40dde58221c3758527a4e5b8483f75799133052d&v=4" width="24" alt="Avatar of semicolonn"> semicolonn
+			</a><br/>
+			Edrise Baher
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>466</td>
+		<td>
+			<a href="https://github.com/esnz">
+				<img src="https://avatars.githubusercontent.com/u/25284536?s=72&u=81e3b85ad31126d0a5c323fbe91b67e318f60a14&v=4" width="24" alt="Avatar of esnz"> esnz
+			</a><br/>
+			Ehsan Azizi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Herat, Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>467</td>
+		<td>
+			<a href="https://github.com/hodmanmusa">
+				<img src="https://avatars.githubusercontent.com/u/26418747?s=72&u=a9770d0b01386dcdc10be11e6eeb31fbd198ad7b&v=4" width="24" alt="Avatar of hodmanmusa"> hodmanmusa
+			</a><br/>
+			Musa Hodman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>468</td>
+		<td>
+			<a href="https://github.com/ahmadrezaazimi">
+				<img src="https://avatars.githubusercontent.com/u/42022873?s=72&u=9b2628aeae3ffe96a4dee40577ad7437dfd2682d&v=4" width="24" alt="Avatar of ahmadrezaazimi"> ahmadrezaazimi
+			</a><br/>
+			Ahmad Reza Azimi
+		</td>
+		<td>Hpl(honest Public Limited) </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>469</td>
+		<td>
+			<a href="https://github.com/ZakaryaNoori">
+				<img src="https://avatars.githubusercontent.com/u/66834670?s=72&u=bcc00db36e344324df35dd3215506250ac3cbd3e&v=4" width="24" alt="Avatar of ZakaryaNoori"> ZakaryaNoori
+			</a><br/>
+			Zakarya Noori
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/noori_zakarya">noori_zakarya</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>470</td>
+		<td>
+			<a href="https://github.com/rafihaidari">
+				<img src="https://avatars.githubusercontent.com/u/24665898?s=72&u=8e8c82e4ae75ba0808a5d7cbf134f118013f5ec9&v=4" width="24" alt="Avatar of rafihaidari"> rafihaidari
+			</a><br/>
+			Rafi Haidari
+		</td>
+		<td>@pomtechteam  </td>
+		<td>No Twitter Username</td>
+		<td>Herat, Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>471</td>
+		<td>
+			<a href="https://github.com/timekills">
+				<img src="https://avatars.githubusercontent.com/u/3918587?s=72&u=070e0a4fea1d42d7d29cc3be1ac70fcc49bb0c32&v=4" width="24" alt="Avatar of timekills"> timekills
+			</a><br/>
+			Timekills
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>472</td>
+		<td>
+			<a href="https://github.com/HikmatullahEhsan">
+				<img src="https://avatars.githubusercontent.com/u/23573173?s=72&u=7f7597448d7dcfc79b1baf6b0c2b6364dac3ce36&v=4" width="24" alt="Avatar of HikmatullahEhsan"> HikmatullahEhsan
+			</a><br/>
+			Hekmatullah
+		</td>
+		<td>Tetra Tech </td>
+		<td><a href="https://twitter.com/Harithehsan">Harithehsan</a></td>
+		<td>Kabul , Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>473</td>
+		<td>
+			<a href="https://github.com/ehsan58">
+				<img src="https://avatars.githubusercontent.com/u/3213169?s=72&u=c5212f08f0f4810c0ebb46ed8d0752dada5a9272&v=4" width="24" alt="Avatar of ehsan58"> ehsan58
+			</a><br/>
+			Ehsan Mozaffari
+		</td>
+		<td>Self </td>
+		<td><a href="https://twitter.com/ahura_tanha">ahura_tanha</a></td>
+		<td>Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>474</td>
+		<td>
+			<a href="https://github.com/SaidAbdullahAbid">
+				<img src="https://avatars.githubusercontent.com/u/79208380?s=72&u=4a854d3ba067e5aaad392dc7a2787f6427c2feb9&v=4" width="24" alt="Avatar of SaidAbdullahAbid"> SaidAbdullahAbid
+			</a><br/>
+			Said Abdullah Abid
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ningrahar, Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>475</td>
+		<td>
+			<a href="https://github.com/SaidAbdullahAbid">
+				<img src="https://avatars.githubusercontent.com/u/79208380?s=72&u=4a854d3ba067e5aaad392dc7a2787f6427c2feb9&v=4" width="24" alt="Avatar of SaidAbdullahAbid"> SaidAbdullahAbid
+			</a><br/>
+			Said Abdullah Abid
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ningrahar, Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>476</td>
+		<td>
+			<a href="https://github.com/HedayatAasy">
+				<img src="https://avatars.githubusercontent.com/u/60835613?s=72&u=d08e34c15309e6ee4e59233a7859d4acc4d32959&v=4" width="24" alt="Avatar of HedayatAasy"> HedayatAasy
+			</a><br/>
+			No Name
+		</td>
+		<td>Cubers Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>477</td>
+		<td>
+			<a href="https://github.com/wasiqkhan">
+				<img src="https://avatars.githubusercontent.com/u/32957037?s=72&v=4" width="24" alt="Avatar of wasiqkhan"> wasiqkhan
+			</a><br/>
+			Mohammad Wasiq Ahmadzai
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/wasiqahmadzai">wasiqahmadzai</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>478</td>
+		<td>
+			<a href="https://github.com/Taj9">
+				<img src="https://avatars.githubusercontent.com/u/97931536?s=72&v=4" width="24" alt="Avatar of Taj9"> Taj9
+			</a><br/>
+			Taj Wali Khan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>479</td>
+		<td>
+			<a href="https://github.com/99Alireza">
+				<img src="https://avatars.githubusercontent.com/u/111224364?s=72&u=5210f1f4e024f144968c2e6be338eec71f41af9a&v=4" width="24" alt="Avatar of 99Alireza"> 99Alireza
+			</a><br/>
+			AliReza
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>kabul-afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>480</td>
+		<td>
+			<a href="https://github.com/Zakarya-Netlinks">
+				<img src="https://avatars.githubusercontent.com/u/61266292?s=72&u=1de9665cc4562c51817865ccdb78b59722ba3d31&v=4" width="24" alt="Avatar of Zakarya-Netlinks"> Zakarya-Netlinks
+			</a><br/>
+			No Name
+		</td>
+		<td>Netlinks </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>481</td>
+		<td>
+			<a href="https://github.com/wajid1212">
+				<img src="https://avatars.githubusercontent.com/u/99576755?s=72&u=15b2cb1aeca4d34b4f9dd6918856bf6f8cf9ae06&v=4" width="24" alt="Avatar of wajid1212"> wajid1212
+			</a><br/>
+			Wajidullah ibrahimi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul </td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>482</td>
+		<td>
+			<a href="https://github.com/azarmujtaba">
+				<img src="https://avatars.githubusercontent.com/u/129181478?s=72&u=2e19a308035e6a6684dcb8f32dc9158390b5b3e0&v=4" width="24" alt="Avatar of azarmujtaba"> azarmujtaba
+			</a><br/>
+			MujtabaAzar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>483</td>
+		<td>
+			<a href="https://github.com/AkmalArzhang">
+				<img src="https://avatars.githubusercontent.com/u/10325451?s=72&u=eb8e5b3adbbf64430a2bbbac2130d5fa0de551e8&v=4" width="24" alt="Avatar of AkmalArzhang"> AkmalArzhang
+			</a><br/>
+			Akmal Arzhang
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/akeearzhang">akeearzhang</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>484</td>
+		<td>
+			<a href="https://github.com/azizazizi1995">
+				<img src="https://avatars.githubusercontent.com/u/85872032?s=72&u=b6136ba7f287c000fee8e33b10605ab548c641a6&v=4" width="24" alt="Avatar of azizazizi1995"> azizazizi1995
+			</a><br/>
+			Aziz M Azizi
+		</td>
+		<td>Computer Tech. </td>
+		<td><a href="https://twitter.com/azizazizi_1995">azizazizi_1995</a></td>
+		<td>Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>485</td>
+		<td>
+			<a href="https://github.com/OldMan-3301">
+				<img src="https://avatars.githubusercontent.com/u/28019243?s=72&u=e093788ede43fa7b00ea21ef395b86f528e73189&v=4" width="24" alt="Avatar of OldMan-3301"> OldMan-3301
+			</a><br/>
+			Mahmood-Afzali
+		</td>
+		<td>Mikrogate </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>486</td>
+		<td>
+			<a href="https://github.com/sanam453">
+				<img src="https://avatars.githubusercontent.com/u/55902046?s=72&u=96fd7988a08cb11452b325bef528a7ebac37eb53&v=4" width="24" alt="Avatar of sanam453"> sanam453
+			</a><br/>
+			Sanam Hamza
+		</td>
+		<td>@creativetimofficial </td>
+		<td><a href="https://twitter.com/SanamHamza2">SanamHamza2</a></td>
+		<td>kabul, Afghanistan</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>487</td>
+		<td>
+			<a href="https://github.com/bahirbarak">
+				<img src="https://avatars.githubusercontent.com/u/22539387?s=72&u=4b031039d2b12029c145f5df34356468374d639c&v=4" width="24" alt="Avatar of bahirbarak"> bahirbarak
+			</a><br/>
+			bahir arazhar
+		</td>
+		<td>@nsia-infosys, Nsia </td>
+		<td>No Twitter Username</td>
+		<td>afghanistan</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>488</td>
+		<td>
+			<a href="https://github.com/u3efi">
+				<img src="https://avatars.githubusercontent.com/u/116116345?s=72&u=a3e781cd3b6ef871f4b61bca985512e14a880bc6&v=4" width="24" alt="Avatar of u3efi"> u3efi
+			</a><br/>
+			Zahra Yosefi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ZahraYosefi9">ZahraYosefi9</a></td>
+		<td>Herat, Afghanistan</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>489</td>
+		<td>
+			<a href="https://github.com/Yasnapopal">
+				<img src="https://avatars.githubusercontent.com/u/103026097?s=72&u=0f2006765097de5c0013410a8835fa42aadbc194&v=4" width="24" alt="Avatar of Yasnapopal"> Yasnapopal
+			</a><br/>
+			Yasna Popal
+		</td>
+		<td>Kandahar University </td>
+		<td>No Twitter Username</td>
+		<td>Kandahar</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>490</td>
+		<td>
+			<a href="https://github.com/najeeb-anwari">
+				<img src="https://avatars.githubusercontent.com/u/36798422?s=72&u=9a2207e376a19b14ef5685887bcf2eea93157d8b&v=4" width="24" alt="Avatar of najeeb-anwari"> najeeb-anwari
+			</a><br/>
+			Abdul Najeeb Anwari
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/najeeb_anwari">najeeb_anwari</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>491</td>
+		<td>
+			<a href="https://github.com/zainudinnoori">
+				<img src="https://avatars.githubusercontent.com/u/33480461?s=72&u=c6bcc69c6448bdc392eb95078adcb3713620dfe5&v=4" width="24" alt="Avatar of zainudinnoori"> zainudinnoori
+			</a><br/>
+			Zainudin noori
+		</td>
+		<td>Intellectual Applications And Products<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>492</td>
+		<td>
+			<a href="https://github.com/kamranhanif27">
+				<img src="https://avatars.githubusercontent.com/u/42893126?s=72&u=ec0a8fc33051b4f3c1442e0dcf27dfced7d2be82&v=4" width="24" alt="Avatar of kamranhanif27"> kamranhanif27
+			</a><br/>
+			Kamran Hanif
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Herat, Afghanistan</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>493</td>
+		<td>
+			<a href="https://github.com/Hakim047">
+				<img src="https://avatars.githubusercontent.com/u/123444388?s=72&v=4" width="24" alt="Avatar of Hakim047"> Hakim047
+			</a><br/>
+			M Hakim Hemat
+		</td>
+		<td>Rino Construction Company <br/></td>
+		<td>No Twitter Username</td>
+		<td>Kandahar</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>494</td>
+		<td>
+			<a href="https://github.com/dawoodemran">
+				<img src="https://avatars.githubusercontent.com/u/39809469?s=72&u=1a14fd1b5e4b58ff9b96ec69b4b4e7e977f93455&v=4" width="24" alt="Avatar of dawoodemran"> dawoodemran
+			</a><br/>
+			Dawood Emran
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/DawoodEmran">DawoodEmran</a></td>
+		<td>kabul, Afghanistan</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>495</td>
+		<td>
+			<a href="https://github.com/MohammadNasirAriaee">
+				<img src="https://avatars.githubusercontent.com/u/25987803?s=72&u=c4c4729e2dc429a8d1b60a93729cced30503631b&v=4" width="24" alt="Avatar of MohammadNasirAriaee"> MohammadNasirAriaee
+			</a><br/>
+			Mohammad Nasir Ariaee
+		</td>
+		<td>Hpl(honest Public Ltd) </td>
+		<td><a href="https://twitter.com/AriaeeNasir">AriaeeNasir</a></td>
+		<td>Shahr Now, Kabul Afghanistan</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>496</td>
+		<td>
+			<a href="https://github.com/hadiahamid">
+				<img src="https://avatars.githubusercontent.com/u/116066004?s=72&v=4" width="24" alt="Avatar of hadiahamid"> hadiahamid
+			</a><br/>
+			Hadia
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/HadiaHamid__">HadiaHamid__</a></td>
+		<td>Herat</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>497</td>
+		<td>
+			<a href="https://github.com/Hizbullah047">
+				<img src="https://avatars.githubusercontent.com/u/123620267?s=72&u=849bb318c5197089dff49483e202a1d54e79e097&v=4" width="24" alt="Avatar of Hizbullah047"> Hizbullah047
+			</a><br/>
+			Hz_Sahil
+		</td>
+		<td>Rino Constriction Company </td>
+		<td>No Twitter Username</td>
+		<td>Kandahar</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>498</td>
+		<td>
+			<a href="https://github.com/murtazanoori">
+				<img src="https://avatars.githubusercontent.com/u/65132706?s=72&u=c556e43a7410382b5c957ba813f082d67be9d915&v=4" width="24" alt="Avatar of murtazanoori"> murtazanoori
+			</a><br/>
+			Murtaza Noori
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Murtaza06113215">Murtaza06113215</a></td>
+		<td>afghanistan kabul</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>499</td>
+		<td>
+			<a href="https://github.com/shabirsalik">
+				<img src="https://avatars.githubusercontent.com/u/137433106?s=72&v=4" width="24" alt="Avatar of shabirsalik"> shabirsalik
+			</a><br/>
+			Ahmad Shabir Salik
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>500</td>
+		<td>
+			<a href="https://github.com/zahra-khodadadi">
+				<img src="https://avatars.githubusercontent.com/u/116875103?s=72&u=e093534f412533aaea42f49e1340075e378f2218&v=4" width="24" alt="Avatar of zahra-khodadadi"> zahra-khodadadi
+			</a><br/>
+			Zahra Khodadadi
+		</td>
+		<td>@giti-development </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>501</td>
+		<td>
+			<a href="https://github.com/git1120">
+				<img src="https://avatars.githubusercontent.com/u/9814533?s=72&u=6cdb8dfbb12b11c417a90433bd9af6b53b49e6cc&v=4" width="24" alt="Avatar of git1120"> git1120
+			</a><br/>
+			DANISH
+		</td>
+		<td>Cyberaan </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>502</td>
+		<td>
+			<a href="https://github.com/Abdul-Baseer-Ahmadi">
+				<img src="https://avatars.githubusercontent.com/u/25935588?s=72&u=8774b192271726cf03eba02763f2ca6a175e35ec&v=4" width="24" alt="Avatar of Abdul-Baseer-Ahmadi"> Abdul-Baseer-Ahmadi
+			</a><br/>
+			Abdul Baseer Ahmadi
+		</td>
+		<td>Rahat Ict </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>503</td>
+		<td>
+			<a href="https://github.com/rasa7585">
+				<img src="https://avatars.githubusercontent.com/u/28892864?s=72&v=4" width="24" alt="Avatar of rasa7585"> rasa7585
+			</a><br/>
+			Razia Sabeghi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan - Herat</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>504</td>
+		<td>
+			<a href="https://github.com/hasibaahmadi">
+				<img src="https://avatars.githubusercontent.com/u/58166377?s=72&u=7e8d699944a508c11164194e70c02c4c029ba0ec&v=4" width="24" alt="Avatar of hasibaahmadi"> hasibaahmadi
+			</a><br/>
+			Hasiba Ahmadi
+		</td>
+		<td>Ahsas.org </td>
+		<td>No Twitter Username</td>
+		<td>Herat,Afg</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>505</td>
+		<td>
+			<a href="https://github.com/Sarehraofian">
+				<img src="https://avatars.githubusercontent.com/u/43628206?s=72&v=4" width="24" alt="Avatar of Sarehraofian"> Sarehraofian
+			</a><br/>
+			Sareh
+		</td>
+		<td>@codetoinspire </td>
+		<td>No Twitter Username</td>
+		<td>Herat, Afghanistan</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>506</td>
+		<td>
+			<a href="https://github.com/Mujeeburahman">
+				<img src="https://avatars.githubusercontent.com/u/43927465?s=72&u=5c170fe487e594bbbcf76db0d22fe53e5762a455&v=4" width="24" alt="Avatar of Mujeeburahman"> Mujeeburahman
+			</a><br/>
+			Mujeeburahman Hassanzai
+		</td>
+		<td>General Directorate Of Treasury<br/>@<br/>Ministry<br/>Of<br/>Finance<br/></td>
+		<td><a href="https://twitter.com/mujeebhassanzai">mujeebhassanzai</a></td>
+		<td>kabul</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>507</td>
+		<td>
+			<a href="https://github.com/abuzar-ahmade">
+				<img src="https://avatars.githubusercontent.com/u/111602488?s=72&u=5da117187245bfc10a520e0eca593108b9f59920&v=4" width="24" alt="Avatar of abuzar-ahmade"> abuzar-ahmade
+			</a><br/>
+			Abuzar Ahmadi
+		</td>
+		<td>Moore Afghanistan </td>
+		<td><a href="https://twitter.com/Abuzar_ahmade">Abuzar_ahmade</a></td>
+		<td>kabul, Afghanistan</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>508</td>
+		<td>
+			<a href="https://github.com/RashedRahimi">
+				<img src="https://avatars.githubusercontent.com/u/100548445?s=72&u=001b5e51d07edbd43c363193b2f93bc669bb4d95&v=4" width="24" alt="Avatar of RashedRahimi"> RashedRahimi
+			</a><br/>
+			Rashed Rahimi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/RashedRahimi01">RashedRahimi01</a></td>
+		<td>Herat, Afghanistan</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>509</td>
+		<td>
+			<a href="https://github.com/abdulnaeemturk">
+				<img src="https://avatars.githubusercontent.com/u/14292397?s=72&u=25f115ccd10d1ba89c439a36e22a1c59533d7997&v=4" width="24" alt="Avatar of abdulnaeemturk"> abdulnaeemturk
+			</a><br/>
+			Abdul Naeem
+		</td>
+		<td>Dreamvision </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>510</td>
+		<td>
+			<a href="https://github.com/Pokhtoon2050">
+				<img src="https://avatars.githubusercontent.com/u/88254684?s=72&u=387a4b81e974d9f75c22674b79b023b5eb741b59&v=4" width="24" alt="Avatar of Pokhtoon2050"> Pokhtoon2050
+			</a><br/>
+			Mohammad Zakeria Stanikzai 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan </td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>511</td>
+		<td>
+			<a href="https://github.com/habibullah-sorosh">
+				<img src="https://avatars.githubusercontent.com/u/105270154?s=72&u=c9ec27dfff280864c152fa06acb3274dd214cc66&v=4" width="24" alt="Avatar of habibullah-sorosh"> habibullah-sorosh
+			</a><br/>
+			Habibullah Sorosh
+		</td>
+		<td>Tutia Tech Ict Co<br/></td>
+		<td>No Twitter Username</td>
+		<td>Herat</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>512</td>
+		<td>
+			<a href="https://github.com/omidhabibi">
+				<img src="https://avatars.githubusercontent.com/u/14058045?s=72&u=d858d5de9c202eb018df42ccaba8ee6c3c364563&v=4" width="24" alt="Avatar of omidhabibi"> omidhabibi
+			</a><br/>
+			Omid Habibi
+		</td>
+		<td>Sufi Software Development Company<br/></td>
+		<td>No Twitter Username</td>
+		<td>Herat - Afghanista</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>513</td>
+		<td>
+			<a href="https://github.com/qalildarwish">
+				<img src="https://avatars.githubusercontent.com/u/117110981?s=72&v=4" width="24" alt="Avatar of qalildarwish"> qalildarwish
+			</a><br/>
+			Mohammad Qalil
+		</td>
+		<td>Afghanistan </td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>514</td>
+		<td>
+			<a href="https://github.com/husna-akhundzada">
+				<img src="https://avatars.githubusercontent.com/u/76965140?s=72&u=e1ec12cb169720b9192d80f9b7b93f9fae8fafdc&v=4" width="24" alt="Avatar of husna-akhundzada"> husna-akhundzada
+			</a><br/>
+			husna akhundzada
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/HusnaAkhund">HusnaAkhund</a></td>
+		<td>afghanistan</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>515</td>
+		<td>
+			<a href="https://github.com/rahimiarifhussain">
+				<img src="https://avatars.githubusercontent.com/u/57014445?s=72&u=d2506e6087e3b086aad228dcc1cd16cfbd195f85&v=4" width="24" alt="Avatar of rahimiarifhussain"> rahimiarifhussain
+			</a><br/>
+			Arif  Hussain Rahimi
+		</td>
+		<td>Abarbit </td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>516</td>
+		<td>
+			<a href="https://github.com/Humayoon17">
+				<img src="https://avatars.githubusercontent.com/u/59541560?s=72&u=88307faa892882633594e8497782c4dfb238380b&v=4" width="24" alt="Avatar of Humayoon17"> Humayoon17
+			</a><br/>
+			Humayoon Muhammadi
+		</td>
+		<td>Roshan (telecom Development Company<br/>Afghanistan)<br/></td>
+		<td><a href="https://twitter.com/Humayoon_17">Humayoon_17</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>517</td>
+		<td>
+			<a href="https://github.com/musahaidari">
+				<img src="https://avatars.githubusercontent.com/u/8165629?s=72&v=4" width="24" alt="Avatar of musahaidari"> musahaidari
+			</a><br/>
+			Musa Haidari
+		</td>
+		<td>Mids Consulting </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>518</td>
+		<td>
+			<a href="https://github.com/SabawoonDaqiq8">
+				<img src="https://avatars.githubusercontent.com/u/59951680?s=72&u=76647390f5e40b9a9acb5ad51287ad6617afa8fd&v=4" width="24" alt="Avatar of SabawoonDaqiq8"> SabawoonDaqiq8
+			</a><br/>
+			Sabawoon Daqiq
+		</td>
+		<td>@nsia-infosys </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>519</td>
+		<td>
+			<a href="https://github.com/safirahimi">
+				<img src="https://avatars.githubusercontent.com/u/66010252?s=72&u=63fc3176f40061785083f2e74bcd2bf5f35c3444&v=4" width="24" alt="Avatar of safirahimi"> safirahimi
+			</a><br/>
+			Safiullah Rahimi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/SafiRahimi7">SafiRahimi7</a></td>
+		<td>Kabul. Afghanistan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>520</td>
+		<td>
+			<a href="https://github.com/zabih036">
+				<img src="https://avatars.githubusercontent.com/u/52412292?s=72&u=c749187901ef53d9f29c0d02acc492fb2f94c43f&v=4" width="24" alt="Avatar of zabih036"> zabih036
+			</a><br/>
+			Zabihullah
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nangarhar Afghanistan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>521</td>
+		<td>
+			<a href="https://github.com/sultanzada">
+				<img src="https://avatars.githubusercontent.com/u/14036691?s=72&u=e0889f62621f2b1dd6a7dfb515e2009f0b6df676&v=4" width="24" alt="Avatar of sultanzada"> sultanzada
+			</a><br/>
+			Ramin Sultanzada
+		</td>
+		<td>Pomtech Ict Solution </td>
+		<td>No Twitter Username</td>
+		<td>Herat</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>522</td>
+		<td>
+			<a href="https://github.com/Ehsan-sudo">
+				<img src="https://avatars.githubusercontent.com/u/57553461?s=72&u=8c2af88fa1adf3ccdb0bb97be59b59bcd4bca645&v=4" width="24" alt="Avatar of Ehsan-sudo"> Ehsan-sudo
+			</a><br/>
+			Ehsanullah Popal
+		</td>
+		<td>Unicef Afghanistan </td>
+		<td><a href="https://twitter.com/EhsanPopal7">EhsanPopal7</a></td>
+		<td>Afghanistan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>523</td>
+		<td>
+			<a href="https://github.com/mansoorzamani">
+				<img src="https://avatars.githubusercontent.com/u/13914054?s=72&v=4" width="24" alt="Avatar of mansoorzamani"> mansoorzamani
+			</a><br/>
+			Mohammad Mansoor Zamani
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>524</td>
+		<td>
+			<a href="https://github.com/EsmatYasir">
+				<img src="https://avatars.githubusercontent.com/u/103309054?s=72&u=539681f8cc12653595f8cb7fed3e7728b46bf89a&v=4" width="24" alt="Avatar of EsmatYasir"> EsmatYasir
+			</a><br/>
+			Esmatullah Yasir
+		</td>
+		<td>University </td>
+		<td>No Twitter Username</td>
+		<td>Kandahar</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>525</td>
+		<td>
+			<a href="https://github.com/marwamalikzada">
+				<img src="https://avatars.githubusercontent.com/u/107245860?s=72&v=4" width="24" alt="Avatar of marwamalikzada"> marwamalikzada
+			</a><br/>
+			Marwa Malikzada
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan, Kabul</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>526</td>
+		<td>
+			<a href="https://github.com/somayahTimoory">
+				<img src="https://avatars.githubusercontent.com/u/116103764?s=72&v=4" width="24" alt="Avatar of somayahTimoory"> somayahTimoory
+			</a><br/>
+			Somayah Timoory
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Somayah33824203">Somayah33824203</a></td>
+		<td>Herat Afghanistan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>527</td>
+		<td>
+			<a href="https://github.com/ziawaqas">
+				<img src="https://avatars.githubusercontent.com/u/32820733?s=72&u=78226210b3b1f3499ad5a063feadc936c24cd193&v=4" width="24" alt="Avatar of ziawaqas"> ziawaqas
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul afghanistan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>528</td>
+		<td>
+			<a href="https://github.com/darmalkhan">
+				<img src="https://avatars.githubusercontent.com/u/71965621?s=72&u=b8f1a225a93d712ae7051d8d4fe6a388e4fccecf&v=4" width="24" alt="Avatar of darmalkhan"> darmalkhan
+			</a><br/>
+			Darmal Gulabzoi
+		</td>
+		<td>Iarcsc(independent Administrative Resources And<br/>Civil<br/>Services<br/>)<br/></td>
+		<td><a href="https://twitter.com/darmal47">darmal47</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>529</td>
+		<td>
+			<a href="https://github.com/abdulmuhammadigit">
+				<img src="https://avatars.githubusercontent.com/u/46393553?s=72&u=a478596da9439a87f4d504294cc1b71bca9b5627&v=4" width="24" alt="Avatar of abdulmuhammadigit"> abdulmuhammadigit
+			</a><br/>
+			Abdul Muhammadi
+		</td>
+		<td>Atc,nsia,inovora, Mcit </td>
+		<td><a href="https://twitter.com/abdulmuhammadi2">abdulmuhammadi2</a></td>
+		<td>Kabul Afghanistan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>530</td>
+		<td>
+			<a href="https://github.com/github-123-ullah">
+				<img src="https://avatars.githubusercontent.com/u/68871249?s=72&u=87117a7621d6af8f98b16b1c6c08bc8f74757f14&v=4" width="24" alt="Avatar of github-123-ullah"> github-123-ullah
+			</a><br/>
+			Emranullah
+		</td>
+		<td>Kabul University </td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghansitan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>531</td>
+		<td>
+			<a href="https://github.com/MohammadAsef">
+				<img src="https://avatars.githubusercontent.com/u/50768961?s=72&u=887a4a0a8233cfb642fdbaf97955efbf0722e34d&v=4" width="24" alt="Avatar of MohammadAsef"> MohammadAsef
+			</a><br/>
+			Mohammad_Asef
+		</td>
+		<td>Tutia Technology </td>
+		<td>No Twitter Username</td>
+		<td>Herat-Afghanistan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>532</td>
+		<td>
+			<a href="https://github.com/nooria1212">
+				<img src="https://avatars.githubusercontent.com/u/113319863?s=72&v=4" width="24" alt="Avatar of nooria1212"> nooria1212
+			</a><br/>
+			Nooria Ghanawi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ghazni</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>533</td>
+		<td>
+			<a href="https://github.com/AhmadSamimDawlatzay">
+				<img src="https://avatars.githubusercontent.com/u/58666279?s=72&u=f7952828cf172ab84362de89fb77f4531e7e049b&v=4" width="24" alt="Avatar of AhmadSamimDawlatzay"> AhmadSamimDawlatzay
+			</a><br/>
+			Ahmad Samim
+		</td>
+		<td>Kite Runner </td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>534</td>
+		<td>
+			<a href="https://github.com/HaidarRezai">
+				<img src="https://avatars.githubusercontent.com/u/68451205?s=72&u=785b30674398ac18733a8209bc99ebca7c0fef3c&v=4" width="24" alt="Avatar of HaidarRezai"> HaidarRezai
+			</a><br/>
+			Haidar Rezai
+		</td>
+		<td>Viracloud </td>
+		<td>No Twitter Username</td>
+		<td>kabul, Afghanistan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>535</td>
+		<td>
+			<a href="https://github.com/BashirZamani1">
+				<img src="https://avatars.githubusercontent.com/u/48402200?s=72&u=7b1ec97baf02ff64576344c1096f0d3314b8268a&v=4" width="24" alt="Avatar of BashirZamani1"> BashirZamani1
+			</a><br/>
+			Bashir Ahmad Zamani
+		</td>
+		<td>Dawat University </td>
+		<td>No Twitter Username</td>
+		<td>kabul-afghanistan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>536</td>
+		<td>
+			<a href="https://github.com/BashirZamani1">
+				<img src="https://avatars.githubusercontent.com/u/48402200?s=72&u=7b1ec97baf02ff64576344c1096f0d3314b8268a&v=4" width="24" alt="Avatar of BashirZamani1"> BashirZamani1
+			</a><br/>
+			Bashir Ahmad Zamani
+		</td>
+		<td>Dawat University </td>
+		<td>No Twitter Username</td>
+		<td>kabul-afghanistan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>537</td>
+		<td>
+			<a href="https://github.com/AbRahmanMamnoon">
+				<img src="https://avatars.githubusercontent.com/u/123380437?s=72&u=872781dadabf0d50f28fd9439af6862eb769d56f&v=4" width="24" alt="Avatar of AbRahmanMamnoon"> AbRahmanMamnoon
+			</a><br/>
+			A Rahman Mamnoon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan, Kandahar</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>538</td>
+		<td>
+			<a href="https://github.com/naser-nikzad">
+				<img src="https://avatars.githubusercontent.com/u/11912707?s=72&u=aa43c6abb14ab8cca57fa7a7caf639ef8b6706df&v=4" width="24" alt="Avatar of naser-nikzad"> naser-nikzad
+			</a><br/>
+			Mohammad Naser Nikzad
+		</td>
+		<td>@lajwardco  </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan, Herat</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>539</td>
+		<td>
+			<a href="https://github.com/salehi-01">
+				<img src="https://avatars.githubusercontent.com/u/67367433?s=72&u=0c3f79b012ab9552a9cce5e07d43d40e9a2605fa&v=4" width="24" alt="Avatar of salehi-01"> salehi-01
+			</a><br/>
+			Baktash Salehi
+		</td>
+		<td>Msh </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>540</td>
+		<td>
+			<a href="https://github.com/eisa874">
+				<img src="https://avatars.githubusercontent.com/u/74069377?s=72&u=c59888ac0a74fd7c9864dc1dfdc114e152688485&v=4" width="24" alt="Avatar of eisa874"> eisa874
+			</a><br/>
+			Eisa Yoldash
+		</td>
+		<td>Yoldash Spare Parts </td>
+		<td><a href="https://twitter.com/EisaYoldash">EisaYoldash</a></td>
+		<td>Afghanistan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>541</td>
+		<td>
+			<a href="https://github.com/HamzaWesal2022">
+				<img src="https://avatars.githubusercontent.com/u/115971015?s=72&u=90d5dc202c00b1c00a60734f80589c7c18da14d4&v=4" width="24" alt="Avatar of HamzaWesal2022"> HamzaWesal2022
+			</a><br/>
+			Hamza Rahimi
+		</td>
+		<td>None </td>
+		<td><a href="https://twitter.com/hamzawesal2">hamzawesal2</a></td>
+		<td>afghanistan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>542</td>
+		<td>
+			<a href="https://github.com/MusawerSeerat">
+				<img src="https://avatars.githubusercontent.com/u/136538386?s=72&u=571cdd04670b6b1bd94e7f78df062daa11937429&v=4" width="24" alt="Avatar of MusawerSeerat"> MusawerSeerat
+			</a><br/>
+			Musawer
+		</td>
+		<td>Moi </td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>543</td>
+		<td>
+			<a href="https://github.com/mjb100rahman">
+				<img src="https://avatars.githubusercontent.com/u/114256385?s=72&u=2ed810db127c861b76756230ce43f7c2991d2c32&v=4" width="24" alt="Avatar of mjb100rahman"> mjb100rahman
+			</a><br/>
+			mjb rahman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>afghanIstanbul kabul</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>544</td>
+		<td>
+			<a href="https://github.com/matiullah-karimi">
+				<img src="https://avatars.githubusercontent.com/u/17154701?s=72&u=67ffb49dfaa7e7cfc6ebc08f6dfe6eded3453f56&v=4" width="24" alt="Avatar of matiullah-karimi"> matiullah-karimi
+			</a><br/>
+			Matiullah Karimi
+		</td>
+		<td>Netlinksaf </td>
+		<td><a href="https://twitter.com/MatiKarimi">MatiKarimi</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>545</td>
+		<td>
+			<a href="https://github.com/ahmadjawidjami">
+				<img src="https://avatars.githubusercontent.com/u/3838546?s=72&u=2cd109d7ee948e9be19acda611ed147a08c7a8ef&v=4" width="24" alt="Avatar of ahmadjawidjami"> ahmadjawidjami
+			</a><br/>
+			Ahmad Jawid Jami-ulahmadi
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Herat, Afghanistan</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>546</td>
 		<td>
-			<a href="https://github.com/kabir212">
-				<img src="https://avatars.githubusercontent.com/u/77749817?s=72&v=4" width="24" alt="Avatar of kabir212"> kabir212
+			<a href="https://github.com/M-Zahir-Akbari">
+				<img src="https://avatars.githubusercontent.com/u/112478015?s=72&u=290fcf65d2428eacf5a9da31ebb9f0ed86d12df9&v=4" width="24" alt="Avatar of M-Zahir-Akbari"> M-Zahir-Akbari
 			</a><br/>
-			No Name
+			Mohammad Zahir Akbari
 		</td>
-		<td>Csc </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
+		<td>Kabul, Afghanistan</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>547</td>
 		<td>
-			<a href="https://github.com/HasibullahAman">
-				<img src="https://avatars.githubusercontent.com/u/62972346?s=72&u=544cb4e90fbe80cf48d9d6bc705ac27a64753a77&v=4" width="24" alt="Avatar of HasibullahAman"> HasibullahAman
+			<a href="https://github.com/HamidRezaSepehr">
+				<img src="https://avatars.githubusercontent.com/u/8534852?s=72&u=dbd801977a864e14e707521b4527434fa8a44c35&v=4" width="24" alt="Avatar of HamidRezaSepehr"> HamidRezaSepehr
 			</a><br/>
-			No Name
+			Hamid Reza Sepehr
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>548</td>
+		<td>
+			<a href="https://github.com/Archisio">
+				<img src="https://avatars.githubusercontent.com/u/3201950?s=72&u=027ee8a0ce5a2782dc5a4c00812fe61d76fb116c&v=4" width="24" alt="Avatar of Archisio"> Archisio
+			</a><br/>
+			Mustafa Samadi
+		</td>
+		<td>@codeafghanistan </td>
+		<td><a href="https://twitter.com/archisio">archisio</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>549</td>
+		<td>
+			<a href="https://github.com/Hashmatullah">
+				<img src="https://avatars.githubusercontent.com/u/3388503?s=72&v=4" width="24" alt="Avatar of Hashmatullah"> Hashmatullah
+			</a><br/>
+			Hashmatullah Zaheer
+		</td>
+		<td>Msi </td>
+		<td>No Twitter Username</td>
+		<td>Kabul</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>550</td>
+		<td>
+			<a href="https://github.com/nabavi-dev">
+				<img src="https://avatars.githubusercontent.com/u/59136513?s=72&u=9b0a176d8cb98e3e491efcf01ad31612aa166dc0&v=4" width="24" alt="Avatar of nabavi-dev"> nabavi-dev
+			</a><br/>
+			Mohammad Nabavi
+		</td>
+		<td>Code9ine </td>
 		<td>No Twitter Username</td>
 		<td>Kabul Afghanistan</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>551</td>
 		<td>
-			<a href="https://github.com/shafisediqiltd">
-				<img src="https://avatars.githubusercontent.com/u/68772795?s=72&v=4" width="24" alt="Avatar of shafisediqiltd"> shafisediqiltd
+			<a href="https://github.com/AbCreativeAmid">
+				<img src="https://avatars.githubusercontent.com/u/53194364?s=72&u=cd5d29e31da1cba851341f56fcd890836e4bc7a2&v=4" width="24" alt="Avatar of AbCreativeAmid"> AbCreativeAmid
 			</a><br/>
-			Shafi Sediqi
+			AbCreative
+		</td>
+		<td>Swiss Umef University </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>552</td>
+		<td>
+			<a href="https://github.com/mansoorkochy">
+				<img src="https://avatars.githubusercontent.com/u/46961393?s=72&u=5125b9d84cbc6df629bbe216d52ed3517d3ca5c7&v=4" width="24" alt="Avatar of mansoorkochy"> mansoorkochy
+			</a><br/>
+			Mansoor Anis Kochy
+		</td>
+		<td>Akbar Coders, Msoft Technologies<br/></td>
+		<td><a href="https://twitter.com/mansoorkochy">mansoorkochy</a></td>
+		<td>Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>553</td>
+		<td>
+			<a href="https://github.com/sarwarsateer">
+				<img src="https://avatars.githubusercontent.com/u/48590403?s=72&u=0d5411236237b4f111d0f9677a09dfc423954a53&v=4" width="24" alt="Avatar of sarwarsateer"> sarwarsateer
+			</a><br/>
+			Sarwar Sateer
+		</td>
+		<td>Borcope </td>
+		<td><a href="https://twitter.com/sarwarsateer">sarwarsateer</a></td>
+		<td>Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>554</td>
+		<td>
+			<a href="https://github.com/SomayMD">
+				<img src="https://avatars.githubusercontent.com/u/116126018?s=72&v=4" width="24" alt="Avatar of SomayMD"> SomayMD
+			</a><br/>
+			Somayeh MD
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Somay_MD">Somay_MD</a></td>
+		<td>Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>555</td>
+		<td>
+			<a href="https://github.com/ferdouskazemi350">
+				<img src="https://avatars.githubusercontent.com/u/111180120?s=72&u=d29c8cc9f61a03b2246df36dc7d1d084a19bbf07&v=4" width="24" alt="Avatar of ferdouskazemi350"> ferdouskazemi350
+			</a><br/>
+			Ferdous Kazemi
+		</td>
+		<td>Truetale.io </td>
+		<td><a href="https://twitter.com/ferdouskz350">ferdouskz350</a></td>
+		<td>Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>556</td>
+		<td>
+			<a href="https://github.com/esmatullah-hassani">
+				<img src="https://avatars.githubusercontent.com/u/48239098?s=72&u=0f8a1ff6c863456188e6064337f5255993058543&v=4" width="24" alt="Avatar of esmatullah-hassani"> esmatullah-hassani
+			</a><br/>
+			Esmatullah Hassani
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/esmatullah1395">esmatullah1395</a></td>
+		<td>Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>557</td>
+		<td>
+			<a href="https://github.com/OmerSalimMohmand">
+				<img src="https://avatars.githubusercontent.com/u/61202768?s=72&u=33c87a5f176366d711dcbc43380f09a0ca2ba9f4&v=4" width="24" alt="Avatar of OmerSalimMohmand"> OmerSalimMohmand
+			</a><br/>
+			No Name
+		</td>
+		<td>Dabs (da Afghanistan Breshna<br/>Sherkat)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>558</td>
+		<td>
+			<a href="https://github.com/MassoudSharifi">
+				<img src="https://avatars.githubusercontent.com/u/43839019?s=72&u=371fbffe943eb6ac52410dfb483ba47b5baa358b&v=4" width="24" alt="Avatar of MassoudSharifi"> MassoudSharifi
+			</a><br/>
+			Massoud Sharifi
+		</td>
+		<td>Truetale </td>
+		<td><a href="https://twitter.com/MassoudFSharifi">MassoudFSharifi</a></td>
+		<td>Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>559</td>
+		<td>
+			<a href="https://github.com/FarhadFazly">
+				<img src="https://avatars.githubusercontent.com/u/24881155?s=72&u=32f96e093895c05549826c3df097bed660bd7eec&v=4" width="24" alt="Avatar of FarhadFazly"> FarhadFazly
+			</a><br/>
+			Farhad Ahmad Fazly
+		</td>
+		<td>Techvision Consulting & Information<br/>Technology<br/>Services<br/></td>
+		<td><a href="https://twitter.com/Farhad_Ahmad10M">Farhad_Ahmad10M</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>560</td>
+		<td>
+			<a href="https://github.com/basirebadipgl">
+				<img src="https://avatars.githubusercontent.com/u/115058898?s=72&u=ca0872a53bf997e635ddb5d8d262c42fd785fa84&v=4" width="24" alt="Avatar of basirebadipgl"> basirebadipgl
+			</a><br/>
+			Abdul Basir Ebadi
+		</td>
+		<td>Peace Global Logistics </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>561</td>
+		<td>
+			<a href="https://github.com/Zinatullah">
+				<img src="https://avatars.githubusercontent.com/u/20598492?s=72&u=5df4c4ef0c392cd58ddf181a05cb29b2cb76883f&v=4" width="24" alt="Avatar of Zinatullah"> Zinatullah
+			</a><br/>
+			Zinatullah AKRAMI
+		</td>
+		<td>Karyal </td>
+		<td>No Twitter Username</td>
+		<td>Kabul, Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>562</td>
+		<td>
+			<a href="https://github.com/ariya-bod">
+				<img src="https://avatars.githubusercontent.com/u/125801897?s=72&u=808e9aafccc1c830925919575595f378c872f71d&v=4" width="24" alt="Avatar of ariya-bod"> ariya-bod
+			</a><br/>
+			Ariyabod
+		</td>
+		<td>Ariybod </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>563</td>
+		<td>
+			<a href="https://github.com/ghulamalimohtaj">
+				<img src="https://avatars.githubusercontent.com/u/61561989?s=72&u=dbb1789f3bad9bdf5fcce9d30d5553a6256871f6&v=4" width="24" alt="Avatar of ghulamalimohtaj"> ghulamalimohtaj
+			</a><br/>
+			Ghulam Ali
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Ghulamali">Ghulamali</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>564</td>
+		<td>
+			<a href="https://github.com/AbdullahYousufzai">
+				<img src="https://avatars.githubusercontent.com/u/74919893?s=72&u=2e88da8f78c0c13bb677b446cfb0f858ac28d347&v=4" width="24" alt="Avatar of AbdullahYousufzai"> AbdullahYousufzai
+			</a><br/>
+			AbdullahYousufzai
+		</td>
+		<td>Eons Code </td>
+		<td><a href="https://twitter.com/AbdullahBoxer01">AbdullahBoxer01</a></td>
+		<td>Kabul, Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>565</td>
+		<td>
+			<a href="https://github.com/jumaghulami">
+				<img src="https://avatars.githubusercontent.com/u/120018529?s=72&u=7a68163f0498073825fce5925bf54b2314f897cc&v=4" width="24" alt="Avatar of jumaghulami"> jumaghulami
+			</a><br/>
+			Juma Ghulami
+		</td>
+		<td>@giti-development </td>
+		<td>No Twitter Username</td>
+		<td>Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>566</td>
+		<td>
+			<a href="https://github.com/FOZAEL">
+				<img src="https://avatars.githubusercontent.com/u/89026669?s=72&u=1d51ff8419642ff84e54278d53387777823996fc&v=4" width="24" alt="Avatar of FOZAEL"> FOZAEL
+			</a><br/>
+			Ahmad Fozael Amiri
+		</td>
+		<td>Nova </td>
+		<td>No Twitter Username</td>
+		<td>Herat</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>567</td>
+		<td>
+			<a href="https://github.com/masistan">
+				<img src="https://avatars.githubusercontent.com/u/110831906?s=72&v=4" width="24" alt="Avatar of masistan"> masistan
+			</a><br/>
+			Masiullah Stanikzai
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6150,64 +7476,25 @@ There are `960 users`  in Afghanistan. You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>568</td>
 		<td>
-			<a href="https://github.com/FatemahRezaie">
-				<img src="https://avatars.githubusercontent.com/u/79140422?s=72&v=4" width="24" alt="Avatar of FatemahRezaie"> FatemahRezaie
+			<a href="https://github.com/jalilahmad">
+				<img src="https://avatars.githubusercontent.com/u/6159444?s=72&u=122a995f8d591d961791aaae7253f010e3c2fc21&v=4" width="24" alt="Avatar of jalilahmad"> jalilahmad
 			</a><br/>
-			No Name
+			جلیل احمد
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/FatemahRezaie">FatemahRezaie</a></td>
-		<td>Afghanistan, Herat</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>467</td>
-		<td>
-			<a href="https://github.com/rafebakhtyari">
-				<img src="https://avatars.githubusercontent.com/u/49270951?s=72&u=be3ac54630fb13073e369d263748551230acda29&v=4" width="24" alt="Avatar of rafebakhtyari"> rafebakhtyari
-			</a><br/>
-			Raka
-		</td>
-		<td>Techsharks.af </td>
+		<td>X 0011 Group </td>
 		<td>No Twitter Username</td>
-		<td>Karte char Kabul</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>468</td>
-		<td>
-			<a href="https://github.com/FarzanaEbrahimi">
-				<img src="https://avatars.githubusercontent.com/u/79249038?s=72&v=4" width="24" alt="Avatar of FarzanaEbrahimi"> FarzanaEbrahimi
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/FarzanaEbrahimi">FarzanaEbrahimi</a></td>
 		<td>Herat,Afghanistan</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>569</td>
 		<td>
-			<a href="https://github.com/mujibinay">
-				<img src="https://avatars.githubusercontent.com/u/79825494?s=72&v=4" width="24" alt="Avatar of mujibinay"> mujibinay
+			<a href="https://github.com/naferoozi">
+				<img src="https://avatars.githubusercontent.com/u/1239321?s=72&v=4" width="24" alt="Avatar of naferoozi"> naferoozi
 			</a><br/>
-			No Name
-		</td>
-		<td>Not  </td>
-		<td>No Twitter Username</td>
-		<td>Kabul </td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>470</td>
-		<td>
-			<a href="https://github.com/HaroonSafi">
-				<img src="https://avatars.githubusercontent.com/u/82946306?s=72&u=eeb54e8073ead67e7f614fd148ad5f32dc62cb29&v=4" width="24" alt="Avatar of HaroonSafi"> HaroonSafi
-			</a><br/>
-			Haroon Safi
+			Noor Ahmad Feroozi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6215,484 +7502,185 @@ There are `960 users`  in Afghanistan. You need at least `0 followers` to be on 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>570</td>
 		<td>
-			<a href="https://github.com/Mustafa-Khazaee">
-				<img src="https://avatars.githubusercontent.com/u/26244660?s=72&u=b6bdf167ed21eb7c96e7693714a71c3c6c155f19&v=4" width="24" alt="Avatar of Mustafa-Khazaee"> Mustafa-Khazaee
+			<a href="https://github.com/Emranullah">
+				<img src="https://avatars.githubusercontent.com/u/126319523?s=72&u=3d811f6982dc7379c40d7777a47e35c3fc0e3c6d&v=4" width="24" alt="Avatar of Emranullah"> Emranullah
 			</a><br/>
-			Mustafa Khazaee
+			EmranUllah
 		</td>
-		<td>Webflow Web Development Company<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>472</td>
-		<td>
-			<a href="https://github.com/Mustafa-Khazaee">
-				<img src="https://avatars.githubusercontent.com/u/26244660?s=72&u=b6bdf167ed21eb7c96e7693714a71c3c6c155f19&v=4" width="24" alt="Avatar of Mustafa-Khazaee"> Mustafa-Khazaee
-			</a><br/>
-			Mustafa Khazaee
-		</td>
-		<td>Webflow Web Development Company<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>473</td>
-		<td>
-			<a href="https://github.com/AimalKhanCom">
-				<img src="https://avatars.githubusercontent.com/u/16707905?s=72&u=c7da079440d2ca55ead3d1f4f6c8f3bfbb9aad95&v=4" width="24" alt="Avatar of AimalKhanCom"> AimalKhanCom
-			</a><br/>
-			Aimal
-		</td>
-		<td>Engineering Passion </td>
-		<td><a href="https://twitter.com/OfficialAimal">OfficialAimal</a></td>
-		<td>Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>474</td>
-		<td>
-			<a href="https://github.com/KhalilAhmadDanish">
-				<img src="https://avatars.githubusercontent.com/u/14087594?s=72&u=15feb357942024b61d16fa76ecfd5e3440c0a092&v=4" width="24" alt="Avatar of KhalilAhmadDanish"> KhalilAhmadDanish
-			</a><br/>
-			Khalil Ahamd Danish
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Herat , Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>475</td>
-		<td>
-			<a href="https://github.com/Faisal166243">
-				<img src="https://avatars.githubusercontent.com/u/75729518?s=72&u=8c01f9bff85ad4cdf1b42b091590d42aecb6c331&v=4" width="24" alt="Avatar of Faisal166243"> Faisal166243
-			</a><br/>
-			Faisal Mandozai
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan </td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>476</td>
-		<td>
-			<a href="https://github.com/Dost701">
-				<img src="https://avatars.githubusercontent.com/u/70817362?s=72&u=f50838090204125da1f14a06fe1024e36c44f940&v=4" width="24" alt="Avatar of Dost701"> Dost701
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Dost_khan4U">Dost_khan4U</a></td>
-		<td>Kabul, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>477</td>
-		<td>
-			<a href="https://github.com/khalilwedial2">
-				<img src="https://avatars.githubusercontent.com/u/75782594?s=72&u=3c0ab1e917612d6d18c8595a174fa0a0a982cd3a&v=4" width="24" alt="Avatar of khalilwedial2"> khalilwedial2
-			</a><br/>
-			khalil wedial
-		</td>
-		<td>Aop </td>
-		<td>No Twitter Username</td>
-		<td>kabul afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>478</td>
-		<td>
-			<a href="https://github.com/taibqaderi">
-				<img src="https://avatars.githubusercontent.com/u/84539782?s=72&v=4" width="24" alt="Avatar of taibqaderi"> taibqaderi
-			</a><br/>
-			taibqaderi
-		</td>
-		<td>No Company</td>
+		<td>Aseel </td>
 		<td>No Twitter Username</td>
 		<td>Kabul</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>479</td>
+		<td>571</td>
 		<td>
-			<a href="https://github.com/Faisal166243">
-				<img src="https://avatars.githubusercontent.com/u/75729518?s=72&u=8c01f9bff85ad4cdf1b42b091590d42aecb6c331&v=4" width="24" alt="Avatar of Faisal166243"> Faisal166243
+			<a href="https://github.com/aminullah09">
+				<img src="https://avatars.githubusercontent.com/u/113475108?s=72&u=b593d606aa769745d2416ce8ee671a546ce0d4db&v=4" width="24" alt="Avatar of aminullah09"> aminullah09
 			</a><br/>
-			Faisal Mandozai
+			Aminullah-sharifi
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Micro Qubic Logistics Company<br/><br/></td>
+		<td><a href="https://twitter.com/Aminsharifi07">Aminsharifi07</a></td>
 		<td>Afghanistan </td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>572</td>
 		<td>
-			<a href="https://github.com/taibqaderi">
-				<img src="https://avatars.githubusercontent.com/u/84539782?s=72&v=4" width="24" alt="Avatar of taibqaderi"> taibqaderi
+			<a href="https://github.com/SayedMiladFakhri">
+				<img src="https://avatars.githubusercontent.com/u/117004805?s=72&u=a411b4d1ca040df500fda94cc99c81253d3de24e&v=4" width="24" alt="Avatar of SayedMiladFakhri"> SayedMiladFakhri
 			</a><br/>
-			taibqaderi
+			Sayed Milad Fakhri
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>481</td>
-		<td>
-			<a href="https://github.com/MW25-hush">
-				<img src="https://avatars.githubusercontent.com/u/76003465?s=72&v=4" width="24" alt="Avatar of MW25-hush"> MW25-hush
-			</a><br/>
-			Mohammad Mehdi Wahid 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan </td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>482</td>
-		<td>
-			<a href="https://github.com/mohammad871">
-				<img src="https://avatars.githubusercontent.com/u/75902515?s=72&u=9dc0ff31f75ae165f9b831652f02e32fbe46d0bf&v=4" width="24" alt="Avatar of mohammad871"> mohammad871
-			</a><br/>
-			MohammadAlamkhel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>kabul</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>483</td>
-		<td>
-			<a href="https://github.com/aminullahdeveloper">
-				<img src="https://avatars.githubusercontent.com/u/60218423?s=72&u=9ed748720c383b63cbd9b267a54a33bcec394101&v=4" width="24" alt="Avatar of aminullahdeveloper"> aminullahdeveloper
-			</a><br/>
-			Aminullah Jalal
-		</td>
-		<td>Plancv Llc </td>
-		<td>No Twitter Username</td>
-		<td>Maimana - Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>484</td>
-		<td>
-			<a href="https://github.com/vored">
-				<img src="https://avatars.githubusercontent.com/u/86535560?s=72&u=539a1f960ff91b53ba1a5058ddf143bd3570b6fd&v=4" width="24" alt="Avatar of vored"> vored
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>485</td>
-		<td>
-			<a href="https://github.com/MW25-hush">
-				<img src="https://avatars.githubusercontent.com/u/76003465?s=72&v=4" width="24" alt="Avatar of MW25-hush"> MW25-hush
-			</a><br/>
-			Mohammad Mehdi Wahid 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kabul Afghanistan </td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>486</td>
-		<td>
-			<a href="https://github.com/mohammad871">
-				<img src="https://avatars.githubusercontent.com/u/75902515?s=72&u=9dc0ff31f75ae165f9b831652f02e32fbe46d0bf&v=4" width="24" alt="Avatar of mohammad871"> mohammad871
-			</a><br/>
-			MohammadAlamkhel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>kabul</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>487</td>
-		<td>
-			<a href="https://github.com/ccnpp">
-				<img src="https://avatars.githubusercontent.com/u/72644343?s=72&u=94f0fdda377889af739a493fe139ee88c8ddc746&v=4" width="24" alt="Avatar of ccnpp"> ccnpp
-			</a><br/>
-			CCNPP
-		</td>
-		<td>Ccnpp </td>
-		<td>No Twitter Username</td>
+		<td>American University Of Afghanistan<br/></td>
+		<td><a href="https://twitter.com/SayedMiladFakh1">SayedMiladFakh1</a></td>
 		<td>Kabul, Afghanistan</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>573</td>
 		<td>
-			<a href="https://github.com/Jawed-Poya">
-				<img src="https://avatars.githubusercontent.com/u/73993181?s=72&u=2c4f2695f07908eb3e81a3d214aaf94819f84860&v=4" width="24" alt="Avatar of Jawed-Poya"> Jawed-Poya
+			<a href="https://github.com/tt-mansour">
+				<img src="https://avatars.githubusercontent.com/u/110462609?s=72&u=a9b139264f5415e0b15e2f9b084f1c29f96b235b&v=4" width="24" alt="Avatar of tt-mansour"> tt-mansour
 			</a><br/>
-			No Name
+			Mansour Qaderi
 		</td>
 		<td>No Company</td>
+		<td><a href="https://twitter.com/mansour_qaderi">mansour_qaderi</a></td>
+		<td>Herat - Afghanistan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>574</td>
+		<td>
+			<a href="https://github.com/fadelyar">
+				<img src="https://avatars.githubusercontent.com/u/50693917?s=72&u=151d5d8242d747a68bd2323b9eddac97de979930&v=4" width="24" alt="Avatar of fadelyar"> fadelyar
+			</a><br/>
+			Faisal Adelyar
+		</td>
+		<td>Kite Runner </td>
 		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
+		<td>Kabul-Afghanistan</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>575</td>
 		<td>
-			<a href="https://github.com/SakinaAhmadi2019">
-				<img src="https://avatars.githubusercontent.com/u/79905133?s=72&v=4" width="24" alt="Avatar of SakinaAhmadi2019"> SakinaAhmadi2019
+			<a href="https://github.com/WasiUsman">
+				<img src="https://avatars.githubusercontent.com/u/133760875?s=72&u=e3c8fa5ebc184b185958158793e4aa4788ffd590&v=4" width="24" alt="Avatar of WasiUsman"> WasiUsman
 			</a><br/>
-			Sakina
+			WasiUsman
 		</td>
-		<td>@codetoinspir </td>
-		<td><a href="https://twitter.com/S_ahmadi2019">S_ahmadi2019</a></td>
-		<td>Herat Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>490</td>
-		<td>
-			<a href="https://github.com/BSDitDEV">
-				<img src="https://avatars.githubusercontent.com/u/86546897?s=72&u=bf50e66d6ed84ef3d3b8bbacb6053abd75c245ef&v=4" width="24" alt="Avatar of BSDitDEV"> BSDitDEV
-			</a><br/>
-			BSD IT Development 
-		</td>
-		<td>Da Afghanistan Bank </td>
-		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>491</td>
-		<td>
-			<a href="https://github.com/billyhassan1234">
-				<img src="https://avatars.githubusercontent.com/u/67926258?s=72&u=580e2c972dc6cd7e31af1ba9a1e7be6428f391b3&v=4" width="24" alt="Avatar of billyhassan1234"> billyhassan1234
-			</a><br/>
-			billy hassan
-		</td>
-		<td>Secret </td>
+		<td>K </td>
 		<td>No Twitter Username</td>
 		<td>Afghanistan</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>576</td>
 		<td>
-			<a href="https://github.com/musanasiri">
-				<img src="https://avatars.githubusercontent.com/u/73512975?s=72&v=4" width="24" alt="Avatar of musanasiri"> musanasiri
+			<a href="https://github.com/rahanet-ict">
+				<img src="https://avatars.githubusercontent.com/u/98453999?s=72&u=d4ad5527a5f9c66d179cb35d63cc2e50c39fd45b&v=4" width="24" alt="Avatar of rahanet-ict"> rahanet-ict
 			</a><br/>
-			Musanasiri
+			Rahanet ICT
 		</td>
-		<td>Musatotakhail@gmail.  </td>
-		<td><a href="https://twitter.com/hajiMk3">hajiMk3</a></td>
-		<td>Afghanistan</td>
+		<td>Rahanet Isp Co </td>
+		<td>No Twitter Username</td>
+		<td>Herat</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>577</td>
 		<td>
-			<a href="https://github.com/mojibsamadi44">
-				<img src="https://avatars.githubusercontent.com/u/74624604?s=72&v=4" width="24" alt="Avatar of mojibsamadi44"> mojibsamadi44
+			<a href="https://github.com/SamanaFaizi">
+				<img src="https://avatars.githubusercontent.com/u/115926794?s=72&u=3b5f1e3cffd3882bc6bfd6e3369c43e20b03da83&v=4" width="24" alt="Avatar of SamanaFaizi"> SamanaFaizi
 			</a><br/>
-			Mojib Samadi
+			Samana Faizi 
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/FaiziSamana">FaiziSamana</a></td>
+		<td>Afghanistan Herat city </td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>578</td>
+		<td>
+			<a href="https://github.com/salaruddin">
+				<img src="https://avatars.githubusercontent.com/u/24790257?s=72&u=61f2cf78ef530c4b683658be446b764639b7ab99&v=4" width="24" alt="Avatar of salaruddin"> salaruddin
+			</a><br/>
+			Salaruddin Jalal
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kabul, Afghanistan</td>
+		<td> Kabul, Afghanistan</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>579</td>
 		<td>
-			<a href="https://github.com/Mohebullah786">
-				<img src="https://avatars.githubusercontent.com/u/75239602?s=72&v=4" width="24" alt="Avatar of Mohebullah786"> Mohebullah786
+			<a href="https://github.com/cuevasluv">
+				<img src="https://avatars.githubusercontent.com/u/113597408?s=72&u=9e5a7607762a8d65cdeb94ce0b05cde12e2337dd&v=4" width="24" alt="Avatar of cuevasluv"> cuevasluv
 			</a><br/>
-			Mohebullah
+			Cuevas Rolling
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>kabul</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>495</td>
-		<td>
-			<a href="https://github.com/enchangizfar">
-				<img src="https://avatars.githubusercontent.com/u/80741087?s=72&v=4" width="24" alt="Avatar of enchangizfar"> enchangizfar
-			</a><br/>
-			Najibullah Changizfar
-		</td>
-		<td>Changizfar Electronics </td>
-		<td><a href="https://twitter.com/enchangizfar">enchangizfar</a></td>
-		<td>Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>496</td>
-		<td>
-			<a href="https://github.com/hussainsaifi143">
-				<img src="https://avatars.githubusercontent.com/u/83689146?s=72&u=37d2983df024664815987576f134ee28e6f3f03b&v=4" width="24" alt="Avatar of hussainsaifi143"> hussainsaifi143
-			</a><br/>
-			Hussain
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/MahajerBachagak">MahajerBachagak</a></td>
-		<td>Afghanistan </td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>497</td>
-		<td>
-			<a href="https://github.com/nadeem786-source">
-				<img src="https://avatars.githubusercontent.com/u/72703973?s=72&u=b5ee8b63d17c57bb76104a5b6f244b27eb8b58d6&v=4" width="24" alt="Avatar of nadeem786-source"> nadeem786-source
-			</a><br/>
-			Nadeem Akhtar MOHMAND
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/NadeemAkhtarMO2">NadeemAkhtarMO2</a></td>
-		<td>Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>498</td>
-		<td>
-			<a href="https://github.com/naqibullahbabakhani">
-				<img src="https://avatars.githubusercontent.com/u/77542958?s=72&u=a94d82c12c8e92248beda2ed618f5146bbf25f4d&v=4" width="24" alt="Avatar of naqibullahbabakhani"> naqibullahbabakhani
-			</a><br/>
-			Naqibullah Babakhani
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>499</td>
-		<td>
-			<a href="https://github.com/prince-adeel">
-				<img src="https://avatars.githubusercontent.com/u/70526415?s=72&u=5689f6b7216005ccbc9001094cf698ef70dfb325&v=4" width="24" alt="Avatar of prince-adeel"> prince-adeel
-			</a><br/>
-			Prince-Adeel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan </td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>500</td>
-		<td>
-			<a href="https://github.com/ashrafi580">
-				<img src="https://avatars.githubusercontent.com/u/70195444?s=72&v=4" width="24" alt="Avatar of ashrafi580"> ashrafi580
-			</a><br/>
-			Muhammad Atique Ashrafi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>501</td>
-		<td>
-			<a href="https://github.com/nomanshadab">
-				<img src="https://avatars.githubusercontent.com/u/77891263?s=72&v=4" width="24" alt="Avatar of nomanshadab"> nomanshadab
-			</a><br/>
-			No Name
-		</td>
-		<td>The Student Afghanistan </td>
-		<td><a href="https://twitter.com/Nomanalishadab">Nomanalishadab</a></td>
-		<td>Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>502</td>
-		<td>
-			<a href="https://github.com/khalid1372">
-				<img src="https://avatars.githubusercontent.com/u/79417728?s=72&u=06bc573a71183d8aa51fea0ed4f39390ae1f9c08&v=4" width="24" alt="Avatar of khalid1372"> khalid1372
-			</a><br/>
-			Mohammad khalid afghan
-		</td>
-		<td>Zabul University </td>
-		<td>No Twitter Username</td>
-		<td>afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>503</td>
-		<td>
-			<a href="https://github.com/khalid1372">
-				<img src="https://avatars.githubusercontent.com/u/79417728?s=72&u=06bc573a71183d8aa51fea0ed4f39390ae1f9c08&v=4" width="24" alt="Avatar of khalid1372"> khalid1372
-			</a><br/>
-			Mohammad khalid afghan
-		</td>
-		<td>Zabul University </td>
-		<td>No Twitter Username</td>
-		<td>afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>504</td>
-		<td>
-			<a href="https://github.com/aliatayee">
-				<img src="https://avatars.githubusercontent.com/u/74867463?s=72&u=ecc9f07e956048e30a41891bbbc9327dd6e271d2&v=4" width="24" alt="Avatar of aliatayee"> aliatayee
-			</a><br/>
-			Ali Aqa Atayee
-		</td>
-		<td>Revand </td>
 		<td>No Twitter Username</td>
 		<td>Kabul Afghanistan</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>580</td>
 		<td>
-			<a href="https://github.com/JamshidKarimi">
-				<img src="https://avatars.githubusercontent.com/u/81328342?s=72&v=4" width="24" alt="Avatar of JamshidKarimi"> JamshidKarimi
+			<a href="https://github.com/Alireza2028">
+				<img src="https://avatars.githubusercontent.com/u/123544471?s=72&u=744680a1e94a94be37212a22d32af1bf17c7ec72&v=4" width="24" alt="Avatar of Alireza2028"> Alireza2028
 			</a><br/>
-			No Name
+			Ali Reza Rezaei
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Khost Afghanistan</td>
+		<td>Kabul</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>581</td>
 		<td>
-			<a href="https://github.com/Surgeondoctor">
-				<img src="https://avatars.githubusercontent.com/u/83830747?s=72&u=08f7360c7873249fc4d29b06a0b993a94d21567c&v=4" width="24" alt="Avatar of Surgeondoctor"> Surgeondoctor
+			<a href="https://github.com/heiuendueksg">
+				<img src="https://avatars.githubusercontent.com/u/116345731?s=72&v=4" width="24" alt="Avatar of heiuendueksg"> heiuendueksg
 			</a><br/>
-			No Name
+			Hamid Yousufi
 		</td>
-		<td>Doctor  </td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>afganistan kabul</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>582</td>
+		<td>
+			<a href="https://github.com/Rezwan0101">
+				<img src="https://avatars.githubusercontent.com/u/126001658?s=72&u=a6f8255be757740771e92a0434c03d12cc087103&v=4" width="24" alt="Avatar of Rezwan0101"> Rezwan0101
+			</a><br/>
+			Rezwan M.M.M 
+		</td>
+		<td>Operations Team Afg <br/></td>
+		<td>No Twitter Username</td>
+		<td>Kabul Afghanistan </td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>583</td>
+		<td>
+			<a href="https://github.com/Northman1375">
+				<img src="https://avatars.githubusercontent.com/u/96867602?s=72&v=4" width="24" alt="Avatar of Northman1375"> Northman1375
+			</a><br/>
+			Sohrab Jahish
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Afghanistan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>507</td>
-		<td>
-			<a href="https://github.com/mjalali1996">
-				<img src="https://avatars.githubusercontent.com/u/38237946?s=72&v=4" width="24" alt="Avatar of mjalali1996"> mjalali1996
-			</a><br/>
-			Mohammad
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>afghanistan</td>
 		<td>1</td>
 	</tr>
 </table>
