@@ -2146,7 +2146,7 @@ There are `948 users`  in Cyprus. You need at least `4 followers` to be on this 
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>11</td>
 		<td>
 			<a href="https://github.com/B0bbycode">
 				<img src="https://avatars.githubusercontent.com/u/70687294?s=72&u=05fb0fe4c5d72418ba705d6fb98a59d1953eb524&v=4" width="24" alt="Avatar of B0bbycode"> B0bbycode
@@ -2156,7 +2156,7 @@ There are `948 users`  in Cyprus. You need at least `4 followers` to be on this 
 		<td>@linconwaves </td>
 		<td><a href="https://twitter.com/B0bbycode">B0bbycode</a></td>
 		<td>Cyprus</td>
-		<td>138</td>
+		<td>969</td>
 	</tr>
 	<tr>
 		<td>159</td>
