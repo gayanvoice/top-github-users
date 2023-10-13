@@ -3588,8 +3588,8 @@ There are `989 users`  in Bangladesh. You need at least `54 followers` to be on 
 		<td>Cr </td>
 		<td>No Twitter Username</td>
 		<td>Bangladesh </td>
-		<td>767</td>
-		<td>767</td>
+		<td>3000</td>
+		<td>3000</td>
 	</tr>
 	<tr>
 		<td>250</td>
