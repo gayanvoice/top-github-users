@@ -1630,7 +1630,9 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 			<code>Medina</code> 
 			<code>Khamismushait</code> 
 			<code>Dammam</code> 
-			<code>Abha</code> 
+			<code>Abha</code>
+   			<code>Qatif</code>
+      			<code>Ahsa</code>
 		</td>
 	</tr>
 	<tr>
