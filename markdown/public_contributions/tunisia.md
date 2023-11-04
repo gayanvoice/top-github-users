@@ -308,7 +308,7 @@ There are `984 users`  in Tunisia. You need at least `9 followers` to be on this
 			Idriss Neumann
 		</td>
 		<td>Comwork.io & Uprodit.com &<br/>Veggiepi.com<br/></td>
-		<td><a href="https://twitter.com/idriss_neumann">idriss_neumann</a></td>
+		<td><a href="https://twitter.com/idriss_neumann">idriss_neumann</a></td> 
 		<td>Paris & Tunis</td>
 		<td>1128</td>
 	</tr>
