@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg" alt="Bahrain">
 </a>
 
-The `public contributions` by users in Bahrain on `2023/10/8 12:53 AM UTC`. This list contains users from `Bahrain` and cities `Nassau` `Riffa` `Muharraq`.
+The `public contributions` by users in Bahrain on `2023/10/8 12:53 AM UTC`. This list contains users from `Bahrain` and cities `Nassau` `Riffa` `Muharraq` `Manama` `Sitra` `Hamad Town` `Aali` `Isa Town` `Budaiya` `Jidhafs` `AlMalikiyah` .
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
