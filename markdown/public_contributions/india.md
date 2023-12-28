@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India">
 </a>
 
-The `public contributions` by users in India on `2023/12/27 12:52 AM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
+The `public contributions` by users in India on `2023/12/27 12:52 AM UTC`. This list contains users from `India` and cities `Mumbai` `Bengaluru` `Chennai` `Ahmedabad` `Anand` `Pune` `Kolkata` `Hyderabad` `New-delhi` `Lucknow` `Jaipur`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
@@ -11425,6 +11425,19 @@ There are `969 users`  in India. You need at least `242 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Hanif_Max">Hanif_Max</a></td>
 		<td>Guwahati, Assam (INDIA)</td>
+		<td>1</td>
+	</tr>
+		<tr>
+		<td>872</td>
+		<td>
+			<a href="https://github.com/sagar-patel-sls">
+				<img src="https://avatars.githubusercontent.com/u/43664335?s=400&u=777fbcac5d4b68a52bea5169adb80025129f7046&v=4" width="24" alt="Avatar of SAGAR PATEL"> sagar-patel-sls
+			</a><br/>
+			SAGAR PATEL
+		</td>
+		<td>System Level Solutions (I) Pvt. Ltd.</td>
+		<td><a href="https://twitter.com/sagu25patel">sagu25patel</a></td>
+		<td>Anand, Gujarat, India</td>
 		<td>1</td>
 	</tr>
 </table>
