@@ -154,7 +154,7 @@ There are `958 users`  in Mozambique . You need at least `0 followers` to be on 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/manueldinisjr">manueldinisjr</a></td>
 		<td>Maputo</td>
-		<td>1486</td>
+		<td>2544</td>
 	</tr>
 	<tr>
 		<td>5</td>
