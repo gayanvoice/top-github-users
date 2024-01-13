@@ -130,7 +130,7 @@
     { "country":  "uganda", "geoName": "Uganda", "cities": ["kampala"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg" },
     { "country":  "ukraine", "geoName": "Ukraine", "cities": ["kyiv", "lviv", "kharkiv", "odesa"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" },
     { "country":  "united arab emirates", "geoName": "United Arab Emirates", "cities": ["dubai", "sharjah", "ajman"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" },
-    { "country":  "united kingdom", "geoName": "United Kingdom", "cities": ["london", "birmingham", "edinburgh", "manchester", "glasgow", "liverpool", "bristol"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" },
+    { "country":  "united kingdom", "geoName": "United Kingdom", "cities": ["london", "birmingham", "edinburgh", "manchester", "glasgow", "liverpool", "bristol", "nottingham"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" },
     { "country":  "united states", "geoName": "United States of America", "cities": ["new-york", "chicago", "los-angeles", "san-francisco", "austin", "seattle"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" },
     { "country":  "uruguay", "geoName": "Uruguay", "cities": ["montevideo"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg" },
     { "country":  "uzbekistan", "geoName": "Uzbekistan", "cities": ["samarkand", "tashkent"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" },
