@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" alt="Nigeria">
 </a>
 
-The `public contributions` by users in Nigeria on `2024/3/14 1:20 AM UTC`. This list contains users from `Nigeria` and cities `Lagos` `Ibadan` `Abuja` `Port-harcourt` `Benin-city` `Ilorin` `Kano`.
+The `public contributions` by users in Nigeria on `2024/3/14 1:20 AM UTC`. This list contains users from `Nigeria` and cities `Lagos` `Ibadan` `Ogbomoso` `Abuja` `Port-harcourt` `Benin-city` `Ilorin` `Kano`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
@@ -675,6 +675,19 @@ There are `993 users`  in Nigeria. You need at least `63 followers` to be on thi
 		<td><a href="https://twitter.com/kasiemobieke">kasiemobieke</a></td>
 		<td>Abuja</td>
 		<td>1121</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
+			<a href="https://github.com/AdewaleAdeniji">
+				<img src="https://avatars.githubusercontent.com/u/86200356?s=72&u=ba602e058b6299e535bffa3d67066a19750c6a1e&v=4" width="24" alt="Avatar of Oluwaferanmi adeniji"> Feranmi
+			</a><br/>
+			Adeniji Oluwaferanmi
+		</td>
+		<td>_ </td>
+		<td><a href="https://twitter.com/na">No twitter</a></td>
+		<td>Lagos, Nigeria</td>
+		<td>1083</td>
 	</tr>
 	<tr>
 		<td>45</td>
