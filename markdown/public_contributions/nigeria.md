@@ -686,7 +686,7 @@ There are `993 users`  in Nigeria. You need at least `63 followers` to be on thi
 		</td>
 		<td>_ </td>
 		<td><a href="https://twitter.com/na">No twitter</a></td>
-		<td>Lagos, Nigeria</td>
+		<td>Ogbomoso, Nigeria</td>
 		<td>1083</td>
 	</tr>
 	<tr>
