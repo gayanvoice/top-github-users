@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2024/3/24 12:11 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2024/4/28 12:28 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `65 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
+There are `66 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -112,10 +112,10 @@ There are `65 users`  in United Arab Emirates. You need at least `0 followers` t
 			</a><br/>
 			Abshar Mohammed Aslam
 		</td>
-		<td>@emirates </td>
+		<td>Emirates </td>
 		<td><a href="https://twitter.com/abxhraslam">abxhraslam</a></td>
 		<td>Dubai, United Arab Emirates</td>
-		<td>399</td>
+		<td>401</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -147,7 +147,7 @@ There are `65 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>4</td>
 		<td>
 			<a href="https://github.com/Ebrahim-Mostafa">
-				<img src="https://avatars.githubusercontent.com/u/57369953?s=72&v=4" width="24" alt="Avatar of Ebrahim-Mostafa"> Ebrahim-Mostafa
+				<img src="https://avatars.githubusercontent.com/u/57369953?s=72&u=328b2c7669511e08745f00c93ed496c1f9e4150c&v=4" width="24" alt="Avatar of Ebrahim-Mostafa"> Ebrahim-Mostafa
 			</a><br/>
 			Ebahim Mostafa
 		</td>
