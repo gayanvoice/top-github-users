@@ -333,7 +333,7 @@ There are `971 users`  in Romania. You need at least `21 followers` to be on thi
 			</a><br/>
 			Adrian Marin
 		</td>
-		<td>No Company</td>
+		<td><a href="https://github.com/avo-hq">Avo</a></td>
 		<td><a href="https://twitter.com/adrianthedev">adrianthedev</a></td>
 		<td>Bucharest, Romania</td>
 		<td>1750</td>
