@@ -1360,10 +1360,10 @@ There are `983 users` in Tunisia. You need at least `11 followers` to be on this
 			</a><br/>
 			Anis Safia
 		</td>
-		<td>@insight </td>
+		<td>No Company  </td>
 		<td><a href="hhttps://x.com/AnisSafia6">AnisSafia6</a></td>
 		<td>Tunisia,Zarzis</td>
-		<td>49</td>
+		<td>1058</td>
 		<td>1058</td>
 	</tr>
 	<tr>
