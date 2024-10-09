@@ -1,4 +1,5 @@
 # Top GitHub Users By Followers in Tunisia [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+
 [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
@@ -9,7 +10,7 @@ The `number of followers` of users in Tunisia on `2024/9/13 1:02 AM UTC`. This l
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `983 users`  in Tunisia. You need at least `11 followers` to be on this list.
+There are `983 users` in Tunisia. You need at least `11 followers` to be on this list.
 
 <table>
 	<tr>
@@ -673,6 +674,19 @@ There are `983 users`  in Tunisia. You need at least `11 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Tunis</td>
+		<td>170</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
+			<a href="https://github.com/anissafia90">
+				<img src="https://avatars.githubusercontent.com/u/140076273?s=400&v=4" width="24" alt="Avatar of anissafia90"> anissafia90
+			</a><br/>
+			Anis SAFIA
+		</td>
+		<td>No Company</td>
+		<td>https://x.com/AnisSafia6</td>
 		<td>Tunis</td>
 		<td>170</td>
 	</tr>
@@ -12952,6 +12966,7 @@ There are `983 users`  in Tunisia. You need at least `11 followers` to be on thi
 - [@octokit/graphql](https://www.npmjs.com/package/@octokit/graphql) - Send GraphQL requests to GitHub API.
 - [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+
 ## 📄 License
 
 - GitHub Action - [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action)
