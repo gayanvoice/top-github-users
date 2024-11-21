@@ -13,7 +13,7 @@
     { "country":  "azerbaijan", "geoName": "Azerbaijan","cities": ["baku", "ganja", "sumqayit", "mingecevir"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" },
     { "country":  "bahrain","geoName": "Bahrain", "cities": ["nassau", "riffa", "muharraq"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg" },
     { "country":  "bangladesh", "geoName": "Bangladesh", "cities": ["dhaka", "mymensingh", "rajshahi", "rangpur", "chittagong", "khulna"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" },
-    { "country":  "belarus", "geoName": "Belarus", "cities": ["minsk", "gomel", "grodno", "mogilev", "brest"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg" },
+    { "country":  "belarus", "geoName": "Belarus", "cities": ["minsk", "gomel", "grodno", "mogilev", "brest"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Belarus_%281918%2C_1991%E2%80%931995%29.svg" },
     { "country":  "belgium", "geoName": "Belgium", "cities": ["antwerp", "brussels", "ghent", "bruges", "leuven", "liège", "namur"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" },
     { "country":  "benin", "geoName": "Benin", "cities": ["cotonou", "porto-novo", "parakou", "kandi", "abomey-calavi"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg" },
     { "country":  "bhutan", "geoName": "Bhutan", "cities": ["thimphu", "phuntsholing", "phuntsholing", "gelephu"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg" },
