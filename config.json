@@ -118,7 +118,7 @@
     { "country":  "south africa", "geoName": "South Africa", "cities": ["cape-town", "johannesburg", "durban", "pretoria", "soweto"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg" },
     { "country":  "south korea", "geoName": "South Korea", "cities": ["seoul", "busan", "incheon", "daegu", "ulsan", "daejeon"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" },
     { "country":  "spain", "geoName": "Spain", "cities": ["madrid", "barcelona", "seville", "valencia ", "bilbao"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_España.svg" },
-    { "country":  "sri lanka", "geoName": "Sri Lanka", "cities": ["colombo", "kandy", "gampaha", "galle", "jaffna", "matara"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" },
+    { "country":  "sri lanka", "geoName": "Sri Lanka", "cities": ["colombo", "kandy", "gampaha", "galle", "jaffna", "matara","Kurunegala"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" },
     { "country":  "sudan", "geoName": "Sudan", "cities": ["khartoum", "omdurman"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg" },
     { "country":  "sweden", "geoName": "Sweden", "cities": ["stockholm", "gothenburg", "uppsala", "helsingborg"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" },
     { "country":  "switzerland", "geoName": "Switzerland", "cities": ["zürich", "geneva", "basel", "lausanne"], "imageUrl": "https://en.wikipedia.org/wiki/Switzerland#/media/File:Flag_of_Switzerland.svg" },
