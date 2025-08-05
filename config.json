@@ -65,7 +65,7 @@
     { "country":  "jamaica", "geoName": "Jamaica", "cities": ["kingston", "montego-bay", "ocho-rios", "port-antonio"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg" },
     { "country":  "japan", "geoName": "Japan", "cities": ["tokyo"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" },
     { "country":  "jordan", "geoName": "Jordan", "cities": ["amman", "aqaba", "zarqa", "mafraq", "jerash", "irbid"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg" },
-    { "country":  "kazakhstan", "geoName": "Kazakhstan", "cities": ["almaty", "shymkent", "karagandy", "taraz", "nursultan", "pavlodar", "oskemen", "semey", "aktobe", "kostanay"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" },
+    { "country":  "kazakhstan", "geoName": "Kazakhstan", "cities": ["almaty", "shymkent", "karagandy", "taraz", "astana", "pavlodar", "oskemen", "semey", "aktobe", "kostanay"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" },
     { "country":  "kenya", "geoName": "Kenya", "cities": ["nairobi", "mombasa", "kisumu", "nakuru", "eldoret"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg" },
     { "country":  "kuwait", "geoName": "Kuwait", "cities": ["kuwait-city", "al-jahra", "mangaf", "salmiya"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg" },
     { "country":  "laos", "geoName": "Laos", "cities": ["vientiane"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" },
