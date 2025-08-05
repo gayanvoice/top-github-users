@@ -1,13 +1,14 @@
 # Top GitHub Users By Country [<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
+
 [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml) [![Image of insights](https://github.com/gayanvoice/insights/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/373383893/week.md)
 
 <a href="https://gayanvoice.github.io/top-github-users/index.html">
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2025/8/5 1:23 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers` by country or state. The list updated `2025/8/5 1:23 AM UTC`.
 
-This repository contains users `138 countries` and `674 cities`. 
+This repository contains users `138 countries` and `674 cities`.
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
 
 Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action). The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -1039,7 +1040,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 			<code>Shymkent</code> 
 			<code>Karagandy</code> 
 			<code>Taraz</code> 
-			<code>Nursultan</code> 
+			<code>Astana</code> 
 			<code>Pavlodar</code> 
 			<code>Oskemen</code> 
 			<code>Semey</code> 
@@ -2076,6 +2077,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 - [@octokit/graphql](https://www.npmjs.com/package/@octokit/graphql) - Send GraphQL requests to GitHub API.
 - [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+
 ## 📄 License
 
 - GitHub Action - [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action)
