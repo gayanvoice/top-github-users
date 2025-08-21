@@ -462,10 +462,13 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 		<td>
 			<code>Yaoundé</code> 
 			<code>Douala</code> 
+			<code>Bamenda</code>
+			<code>Buea</code>
+			<code>Bafoussam</code> 
+			<code>Bangangte</code>
 			<code>Kumba</code> 
-			<code>Bamenda</code> 
-			<code>Garoua</code> 
-			<code>Ngaoundere</code> 
+			<code>Garoua</code>
+			<code>Ngaoundere</code>
 		</td>
 	</tr>
 	<tr>
