@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg" alt="Cameroon">
 </a>
 
-The `public contributions` by users in Cameroon on `2025/7/26 12:48 AM UTC`. This list contains users from `Cameroon` and cities `Yaoundé` `Douala` `Kumba` `Bamenda` `Garoua` `Ngaoundere`.
+The `public contributions` by users in Cameroon on `2025/7/26 12:48 AM UTC`. This list contains users from `Cameroon` and cities `Yaoundé` `Douala` `Bamenda` `Buea` `Bafoussam` `Bangangte` `Kumba` `Garoua` `Ngaoundere`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
