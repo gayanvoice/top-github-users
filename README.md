@@ -5,7 +5,7 @@
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2025/12/27 1:14 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2025/12/28 12:25 AM UTC`.
 
 This repository contains users `138 countries` and `674 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
@@ -1391,7 +1391,6 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 		<td>
 			<code>Managua</code> 
 			<code>Leon</code> 
-			<code>Granada</code> 
 			<code>Masaya</code> 
 			<code>Esteli</code> 
 		</td>
@@ -1728,6 +1727,7 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 			<code>Seville</code> 
 			<code>Valencia </code> 
 			<code>Bilbao</code> 
+			<code>Granada</code> 
 		</td>
 	</tr>
 	<tr>
