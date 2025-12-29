@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg" alt="Malaysia">
 </a>
 
-The `public contributions` by users in Malaysia on `2025/11/12 1:16 AM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
+The `public contributions` by users in Malaysia on `2025/12/29 12:25 AM UTC`. This list contains users from `Malaysia` and cities `Kuala-lumpur` `Malacca-city` `Kuching` `Ipoh` `Johor-bahru`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `974 users`  in Malaysia. You need at least `23 followers` to be on this list.
+There are `975 users`  in Malaysia. You need at least `24 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Gato Graphql </td>
 		<td><a href="https://twitter.com/losoviz">losoviz</a></td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>23621</td>
+		<td>21230</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Asia Pacific University </td>
 		<td><a href="https://twitter.com/AngJianming">AngJianming</a></td>
 		<td>Jalan Teknologi 5, Taman Teknologi Malaysia, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur</td>
-		<td>10301</td>
+		<td>10011</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Johor, Malaysia</td>
-		<td>7646</td>
+		<td>8450</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>National Pharmaceutical Regulatory Agency<br/></td>
 		<td><a href="https://twitter.com/syariefazman">syariefazman</a></td>
 		<td>Malaysia</td>
-		<td>7244</td>
+		<td>7121</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,20 +167,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/AqFad2811">AqFad2811</a></td>
 		<td>Malaysia</td>
-		<td>5112</td>
+		<td>5003</td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>
-			<a href="https://github.com/crynobone">
-				<img src="https://avatars.githubusercontent.com/u/172966?s=72&u=fbcea845562f301590229ac75bac4965e53192c7&v=4" width="24" alt="Avatar of crynobone"> crynobone
+			<a href="https://github.com/Abdallemo">
+				<img src="https://avatars.githubusercontent.com/u/137080653?s=72&u=95e1d1e9f640f80e153fe1018860c45fd9287aed&v=4" width="24" alt="Avatar of Abdallemo"> Abdallemo
 			</a><br/>
-			Mior Muhammad Zaki
+			Abdalle mohamed
 		</td>
-		<td>@laravel  </td>
-		<td><a href="https://twitter.com/crynobone">crynobone</a></td>
-		<td>Malaysia</td>
-		<td>3725</td>
+		<td>Student In Uthm <br/></td>
+		<td>No Twitter Username</td>
+		<td>Johor Malaysia </td>
+		<td>3681</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,10 +193,23 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Universiti Teknologi Malaysia </td>
 		<td>No Twitter Username</td>
 		<td>Johor Bahru</td>
-		<td>3109</td>
+		<td>2968</td>
 	</tr>
 	<tr>
 		<td>8</td>
+		<td>
+			<a href="https://github.com/crynobone">
+				<img src="https://avatars.githubusercontent.com/u/172966?s=72&u=fbcea845562f301590229ac75bac4965e53192c7&v=4" width="24" alt="Avatar of crynobone"> crynobone
+			</a><br/>
+			Mior Muhammad Zaki
+		</td>
+		<td>@laravel  </td>
+		<td><a href="https://twitter.com/crynobone">crynobone</a></td>
+		<td>Malaysia</td>
+		<td>2838</td>
+	</tr>
+	<tr>
+		<td>9</td>
 		<td>
 			<a href="https://github.com/helenclx">
 				<img src="https://avatars.githubusercontent.com/u/119173961?s=72&u=85aebd289002ae89b335ac44610df458f140734c&v=4" width="24" alt="Avatar of helenclx"> helenclx
@@ -206,20 +219,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>3036</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>
-			<a href="https://github.com/ksysoev">
-				<img src="https://avatars.githubusercontent.com/u/910988?s=72&u=8510289e49a311bccd456c6b119589bf20258e49&v=4" width="24" alt="Avatar of ksysoev"> ksysoev
-			</a><br/>
-			Kirill Sysoev
-		</td>
-		<td>Deriv </td>
-		<td>No Twitter Username</td>
-		<td>Cyberjaya, Malaysia</td>
-		<td>3007</td>
+		<td>2775</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -232,20 +232,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/KKMPutrajaya">KKMPutrajaya</a></td>
 		<td>Putrajaya, Malaysia</td>
-		<td>2345</td>
+		<td>2284</td>
 	</tr>
 	<tr>
 		<td>11</td>
 		<td>
-			<a href="https://github.com/Abdallemo">
-				<img src="https://avatars.githubusercontent.com/u/137080653?s=72&u=95e1d1e9f640f80e153fe1018860c45fd9287aed&v=4" width="24" alt="Avatar of Abdallemo"> Abdallemo
+			<a href="https://github.com/data-gov-my">
+				<img src="https://avatars.githubusercontent.com/u/127065101?s=72&u=0f2af2f4dad0254e24bd6b7e125e4379e72c37b3&v=4" width="24" alt="Avatar of data-gov-my"> data-gov-my
 			</a><br/>
-			Abdalle mohamed
+			data.gov.my
 		</td>
-		<td>Student In Uthm <br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Johor Malaysia </td>
-		<td>2206</td>
+		<td>Putrajaya, Malaysia</td>
+		<td>2282</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -258,101 +258,23 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/acfatah">acfatah</a></td>
 		<td>Temerloh, Pahang, Malaysia</td>
-		<td>1638</td>
+		<td>1580</td>
 	</tr>
 	<tr>
 		<td>13</td>
 		<td>
-			<a href="https://github.com/yeongpin">
-				<img src="https://avatars.githubusercontent.com/u/29575074?s=72&u=7d03766f4a082a84f369e0eed32a423eb23e2a23&v=4" width="24" alt="Avatar of yeongpin"> yeongpin
+			<a href="https://github.com/hollowaykeanho">
+				<img src="https://avatars.githubusercontent.com/u/7259572?s=72&u=5e1c74b41d75d5307df09caf0ea08987aaaab24d&v=4" width="24" alt="Avatar of hollowaykeanho"> hollowaykeanho
 			</a><br/>
-			Pin Studios
+			(Holloway) Chew, Kean Ho
 		</td>
-		<td>No Company</td>
+		<td>Independent </td>
 		<td>No Twitter Username</td>
-		<td>Malaysia / Taiwan / Singapore</td>
-		<td>1479</td>
+		<td>Malaysia, South East Asia</td>
+		<td>1410</td>
 	</tr>
 	<tr>
 		<td>14</td>
-		<td>
-			<a href="https://github.com/data-gov-my">
-				<img src="https://avatars.githubusercontent.com/u/127065101?s=72&u=0f2af2f4dad0254e24bd6b7e125e4379e72c37b3&v=4" width="24" alt="Avatar of data-gov-my"> data-gov-my
-			</a><br/>
-			data.gov.my
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Putrajaya, Malaysia</td>
-		<td>1460</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/Kiyoraka">
-				<img src="https://avatars.githubusercontent.com/u/94098971?s=72&u=473553af167849c4af599f72f854f6069939fe69&v=4" width="24" alt="Avatar of Kiyoraka"> Kiyoraka
-			</a><br/>
-			Afif Maahi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>1293</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
-			<a href="https://github.com/dennislamcv1">
-				<img src="https://avatars.githubusercontent.com/u/39684447?s=72&u=5093b97a828ab96e5e09c701255a931aaa6466ae&v=4" width="24" alt="Avatar of dennislamcv1"> dennislamcv1
-			</a><br/>
-			Dennis Lam
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>1263</td>
-	</tr>
-	<tr>
-		<td>17</td>
-		<td>
-			<a href="https://github.com/pyhoon">
-				<img src="https://avatars.githubusercontent.com/u/20526693?s=72&u=8b7721c5196bb2fbe7ca2beb3856d6ddb146351a&v=4" width="24" alt="Avatar of pyhoon"> pyhoon
-			</a><br/>
-			Poon Yip Hoon (Aeric)
-		</td>
-		<td>Computerise </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>1252</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
-			<a href="https://github.com/weareblahs">
-				<img src="https://avatars.githubusercontent.com/u/37889443?s=72&u=4d0cefb2363d8ff8017a5dee2feb7a71249e1afc&v=4" width="24" alt="Avatar of weareblahs"> weareblahs
-			</a><br/>
-			Tan Yu Xuan
-		</td>
-		<td>(currently Studying In Forward<br/>College)<br/></td>
-		<td><a href="https://twitter.com/ThisIsTYX">ThisIsTYX</a></td>
-		<td>Penang, Malaysia</td>
-		<td>1241</td>
-	</tr>
-	<tr>
-		<td>19</td>
-		<td>
-			<a href="https://github.com/bluwy">
-				<img src="https://avatars.githubusercontent.com/u/34116392?s=72&u=b156c6773cb1d21bf37c99bd427486ce73b2173d&v=4" width="24" alt="Avatar of bluwy"> bluwy
-			</a><br/>
-			Bjorn Lu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/bluwyoo">bluwyoo</a></td>
-		<td>Kuching, Sarawak, Malaysia</td>
-		<td>1228</td>
-	</tr>
-	<tr>
-		<td>20</td>
 		<td>
 			<a href="https://github.com/Light2Dark">
 				<img src="https://avatars.githubusercontent.com/u/19585239?s=72&u=8a67f33c8b8eecf40179b0b91668715eff6b5e45&v=4" width="24" alt="Avatar of Light2Dark"> Light2Dark
@@ -362,10 +284,49 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>1146</td>
+		<td>1350</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/pyhoon">
+				<img src="https://avatars.githubusercontent.com/u/20526693?s=72&u=5144e5cca50f525f9a4e6efc76dbab4444926a57&v=4" width="24" alt="Avatar of pyhoon"> pyhoon
+			</a><br/>
+			Poon Yip Hoon (Aeric)
+		</td>
+		<td>Computerise </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>1310</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
+			<a href="https://github.com/MOHAMMEDFAHD">
+				<img src="https://avatars.githubusercontent.com/u/93455327?s=72&u=3861443e9a5d922a55095467862512d7d3c12d8c&v=4" width="24" alt="Avatar of MOHAMMEDFAHD"> MOHAMMEDFAHD
+			</a><br/>
+			Mohammed Fahd Abrah
+		</td>
+		<td>Programming Ocean Academy </td>
+		<td><a href="https://twitter.com/programmingoce">programmingoce</a></td>
+		<td>Malaysia</td>
+		<td>1180</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>
+			<a href="https://github.com/dennislamcv1">
+				<img src="https://avatars.githubusercontent.com/u/39684447?s=72&u=5093b97a828ab96e5e09c701255a931aaa6466ae&v=4" width="24" alt="Avatar of dennislamcv1"> dennislamcv1
+			</a><br/>
+			Dennis Lam
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>1171</td>
+	</tr>
+	<tr>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/iqfareez">
 				<img src="https://avatars.githubusercontent.com/u/60868965?s=72&u=8bd214a346c32e1b2c5951dc7f3ffe8577ed373a&v=4" width="24" alt="Avatar of iqfareez"> iqfareez
@@ -375,7 +336,46 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/iqfareez">iqfareez</a></td>
 		<td>Kuala Lumpur</td>
-		<td>1088</td>
+		<td>1105</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>
+			<a href="https://github.com/Kiyoraka">
+				<img src="https://avatars.githubusercontent.com/u/94098971?s=72&u=473553af167849c4af599f72f854f6069939fe69&v=4" width="24" alt="Avatar of Kiyoraka"> Kiyoraka
+			</a><br/>
+			Afif Maahi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>1075</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/bluwy">
+				<img src="https://avatars.githubusercontent.com/u/34116392?s=72&u=b156c6773cb1d21bf37c99bd427486ce73b2173d&v=4" width="24" alt="Avatar of bluwy"> bluwy
+			</a><br/>
+			Bjorn Lu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/bluwyoo">bluwyoo</a></td>
+		<td>Kuching, Sarawak, Malaysia</td>
+		<td>1055</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
+			<a href="https://github.com/jssuthahar">
+				<img src="https://avatars.githubusercontent.com/u/5663351?s=72&u=79488cce025bd7955d603aa7cacbe1e6b43481c7&v=4" width="24" alt="Avatar of jssuthahar"> jssuthahar
+			</a><br/>
+			Suthahar
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jssuthahar">jssuthahar</a></td>
+		<td>Malaysia</td>
+		<td>1039</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -388,23 +388,10 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Universiti Sains Malaysia </td>
 		<td><a href="https://twitter.com/Hao1223Wen">Hao1223Wen</a></td>
 		<td>Penang, Malaysia</td>
-		<td>1082</td>
+		<td>995</td>
 	</tr>
 	<tr>
 		<td>23</td>
-		<td>
-			<a href="https://github.com/AzimsTech">
-				<img src="https://avatars.githubusercontent.com/u/12103851?s=72&u=443910618ff88911b9032146a19a18977acbbc82&v=4" width="24" alt="Avatar of AzimsTech"> AzimsTech
-			</a><br/>
-			Wan Azims
-		</td>
-		<td>Azimstech </td>
-		<td><a href="https://twitter.com/AzimsLives">AzimsLives</a></td>
-		<td>Malaysia</td>
-		<td>1030</td>
-	</tr>
-	<tr>
-		<td>24</td>
 		<td>
 			<a href="https://github.com/Innocentsax">
 				<img src="https://avatars.githubusercontent.com/u/117287767?s=72&u=412801281b67813a08af8a0ddffb4c35afd66084&v=4" width="24" alt="Avatar of Innocentsax"> Innocentsax
@@ -414,46 +401,59 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Accenture </td>
 		<td><a href="https://twitter.com/Innocentsax">Innocentsax</a></td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>1008</td>
+		<td>976</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
+			<a href="https://github.com/weareblahs">
+				<img src="https://avatars.githubusercontent.com/u/37889443?s=72&u=4d0cefb2363d8ff8017a5dee2feb7a71249e1afc&v=4" width="24" alt="Avatar of weareblahs"> weareblahs
+			</a><br/>
+			Tan Yu Xuan
+		</td>
+		<td>(currently Studying In Forward<br/>College)<br/></td>
+		<td><a href="https://twitter.com/ThisIsTYX">ThisIsTYX</a></td>
+		<td>Penang, Malaysia</td>
+		<td>959</td>
 	</tr>
 	<tr>
 		<td>25</td>
 		<td>
-			<a href="https://github.com/jssuthahar">
-				<img src="https://avatars.githubusercontent.com/u/5663351?s=72&u=79488cce025bd7955d603aa7cacbe1e6b43481c7&v=4" width="24" alt="Avatar of jssuthahar"> jssuthahar
+			<a href="https://github.com/AzimsTech">
+				<img src="https://avatars.githubusercontent.com/u/12103851?s=72&u=443910618ff88911b9032146a19a18977acbbc82&v=4" width="24" alt="Avatar of AzimsTech"> AzimsTech
 			</a><br/>
-			Suthahar
+			Wan Azims
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jssuthahar">jssuthahar</a></td>
+		<td>Azimstech </td>
+		<td><a href="https://twitter.com/AzimsLives">AzimsLives</a></td>
 		<td>Malaysia</td>
-		<td>966</td>
+		<td>931</td>
 	</tr>
 	<tr>
 		<td>26</td>
 		<td>
-			<a href="https://github.com/MOHAMMEDFAHD">
-				<img src="https://avatars.githubusercontent.com/u/93455327?s=72&u=3861443e9a5d922a55095467862512d7d3c12d8c&v=4" width="24" alt="Avatar of MOHAMMEDFAHD"> MOHAMMEDFAHD
+			<a href="https://github.com/junxian428">
+				<img src="https://avatars.githubusercontent.com/u/58724748?s=72&u=06e8eca4628c151c89e2ffd068f443d5d7262544&v=4" width="24" alt="Avatar of junxian428"> junxian428
 			</a><br/>
-			Mohammed Fahd Abrah
+			Uranium Cat
 		</td>
-		<td>Programming Ocean Academy </td>
-		<td><a href="https://twitter.com/programmingoce">programmingoce</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>938</td>
+		<td>928</td>
 	</tr>
 	<tr>
 		<td>27</td>
 		<td>
-			<a href="https://github.com/tonyqus">
-				<img src="https://avatars.githubusercontent.com/u/772561?s=72&u=257dc08c21de294b494472d9dde2bb4713038ae6&v=4" width="24" alt="Avatar of tonyqus"> tonyqus
+			<a href="https://github.com/HafiziRuslan">
+				<img src="https://avatars.githubusercontent.com/u/30207509?s=72&u=5586693f87b146e15171739471b25efcc44f3c77&v=4" width="24" alt="Avatar of HafiziRuslan"> HafiziRuslan
 			</a><br/>
-			Tony Q.
+			Hafizi Ruslan
 		</td>
-		<td>@nissl-lab  </td>
-		<td>No Twitter Username</td>
+		<td>@mhrtechmy  </td>
+		<td><a href="https://twitter.com/HafiziRuslan">HafiziRuslan</a></td>
 		<td>Malaysia</td>
-		<td>912</td>
+		<td>904</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -466,75 +466,10 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Uitm </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>909</td>
+		<td>850</td>
 	</tr>
 	<tr>
 		<td>29</td>
-		<td>
-			<a href="https://github.com/nrmnqdds">
-				<img src="https://avatars.githubusercontent.com/u/65181897?s=72&u=e9e5b46de90406ef77c456c2d2ef63f5436e55fd&v=4" width="24" alt="Avatar of nrmnqdds"> nrmnqdds
-			</a><br/>
-			Nuriman Quddus
-		</td>
-		<td>@cartridge-gg </td>
-		<td><a href="https://twitter.com/nrmnqdds">nrmnqdds</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>877</td>
-	</tr>
-	<tr>
-		<td>30</td>
-		<td>
-			<a href="https://github.com/mhmdd-farhan">
-				<img src="https://avatars.githubusercontent.com/u/161969701?s=72&u=8ac27681cdee15429525e207a34ea63fa72d395d&v=4" width="24" alt="Avatar of mhmdd-farhan"> mhmdd-farhan
-			</a><br/>
-			Muhammad Farhan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>861</td>
-	</tr>
-	<tr>
-		<td>31</td>
-		<td>
-			<a href="https://github.com/Y-T-G">
-				<img src="https://avatars.githubusercontent.com/u/32206511?s=72&u=e37741a148cd53720262c833e9bfa1b5048a881e&v=4" width="24" alt="Avatar of Y-T-G"> Y-T-G
-			</a><br/>
-			Mohammed Yasin
-		</td>
-		<td>@ultralytics </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>823</td>
-	</tr>
-	<tr>
-		<td>32</td>
-		<td>
-			<a href="https://github.com/olasunkanmi-SE">
-				<img src="https://avatars.githubusercontent.com/u/60177090?s=72&u=25fa00a8ddb3827c607a72bc66a77953afa73782&v=4" width="24" alt="Avatar of olasunkanmi-SE"> olasunkanmi-SE
-			</a><br/>
-			Oyinlola Olasunkanmi Raymond
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kosemani1">kosemani1</a></td>
-		<td>Kuala Lumpur</td>
-		<td>796</td>
-	</tr>
-	<tr>
-		<td>33</td>
-		<td>
-			<a href="https://github.com/nurulashraf">
-				<img src="https://avatars.githubusercontent.com/u/88407376?s=72&u=771a2ce4b1d4b687c8d8b55e791c9d56a9ee800a&v=4" width="24" alt="Avatar of nurulashraf"> nurulashraf
-			</a><br/>
-			Nurul Ashraf
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia </td>
-		<td>769</td>
-	</tr>
-	<tr>
-		<td>34</td>
 		<td>
 			<a href="https://github.com/wongjiahau">
 				<img src="https://avatars.githubusercontent.com/u/23183656?s=72&u=a6dd109b186df1304acd2fb4b0f29c16dbe64ac8&v=4" width="24" alt="Avatar of wongjiahau"> wongjiahau
@@ -544,49 +479,23 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>748</td>
+		<td>790</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>30</td>
 		<td>
-			<a href="https://github.com/junxian428">
-				<img src="https://avatars.githubusercontent.com/u/58724748?s=72&u=06e8eca4628c151c89e2ffd068f443d5d7262544&v=4" width="24" alt="Avatar of junxian428"> junxian428
+			<a href="https://github.com/olasunkanmi-SE">
+				<img src="https://avatars.githubusercontent.com/u/60177090?s=72&u=25fa00a8ddb3827c607a72bc66a77953afa73782&v=4" width="24" alt="Avatar of olasunkanmi-SE"> olasunkanmi-SE
 			</a><br/>
-			Uranium Cat
+			Oyinlola Olasunkanmi Raymond
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>708</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
-			<a href="https://github.com/NotYoojun">
-				<img src="https://avatars.githubusercontent.com/u/54567489?s=72&u=b2c61ff6427a50c2c3288e031035cc7e387fcde0&v=4" width="24" alt="Avatar of NotYoojun"> NotYoojun
-			</a><br/>
-			Yoojun Zhou
-		</td>
-		<td>Inkore! (@inkore-net) </td>
-		<td><a href="https://twitter.com/NotYoojun">NotYoojun</a></td>
-		<td>Selangor, Malaysia</td>
-		<td>706</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
-			<a href="https://github.com/szeyu">
-				<img src="https://avatars.githubusercontent.com/u/34510821?s=72&u=61cc7996e963f6e9d478704ec563acad2e8a39cc&v=4" width="24" alt="Avatar of szeyu"> szeyu
-			</a><br/>
-			Sze Yu Sim
-		</td>
-		<td>Universiti Malaya </td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/kosemani1">kosemani1</a></td>
 		<td>Kuala Lumpur</td>
-		<td>698</td>
+		<td>776</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/AqilJaafree">
 				<img src="https://avatars.githubusercontent.com/u/73504832?s=72&u=b994b2a2cffb66108c5bf9bad7698d2db35e9d48&v=4" width="24" alt="Avatar of AqilJaafree"> AqilJaafree
@@ -596,114 +505,62 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/wanaokii">wanaokii</a></td>
 		<td>Malaysia</td>
-		<td>680</td>
+		<td>775</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>32</td>
 		<td>
-			<a href="https://github.com/kianmeng">
-				<img src="https://avatars.githubusercontent.com/u/134518?s=72&u=6d630e9ad092b1dba07dd4d07fd188ced5aa916e&v=4" width="24" alt="Avatar of kianmeng"> kianmeng
+			<a href="https://github.com/Y-T-G">
+				<img src="https://avatars.githubusercontent.com/u/32206511?s=72&u=e37741a148cd53720262c833e9bfa1b5048a881e&v=4" width="24" alt="Avatar of Y-T-G"> Y-T-G
 			</a><br/>
-			Ang
+			Mohammed Yasin
 		</td>
-		<td>No Company</td>
+		<td>@ultralytics </td>
 		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>767</td>
+	</tr>
+	<tr>
+		<td>33</td>
+		<td>
+			<a href="https://github.com/nrmnqdds">
+				<img src="https://avatars.githubusercontent.com/u/65181897?s=72&u=e9e5b46de90406ef77c456c2d2ef63f5436e55fd&v=4" width="24" alt="Avatar of nrmnqdds"> nrmnqdds
+			</a><br/>
+			Nuriman Quddus
+		</td>
+		<td>@cartridge-gg </td>
+		<td><a href="https://twitter.com/nrmnqdds">nrmnqdds</a></td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>671</td>
+		<td>750</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>34</td>
 		<td>
-			<a href="https://github.com/JapiKredi">
-				<img src="https://avatars.githubusercontent.com/u/88824661?s=72&u=4172763ef056852cf431f183eeb2ddefbc94ad65&v=4" width="24" alt="Avatar of JapiKredi"> JapiKredi
+			<a href="https://github.com/afandiazmi">
+				<img src="https://avatars.githubusercontent.com/u/55932567?s=72&u=1c64613517fb763aa7691f4a88b3ba5b556693ce&v=4" width="24" alt="Avatar of afandiazmi"> afandiazmi
 			</a><br/>
-			Jasper Bongers
-		</td>
-		<td>Apple Inc </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>660</td>
-	</tr>
-	<tr>
-		<td>41</td>
-		<td>
-			<a href="https://github.com/khrnchn">
-				<img src="https://avatars.githubusercontent.com/u/71305935?s=72&u=931bf5026c6117ac1c6a471fd20c9c1db3b91d40&v=4" width="24" alt="Avatar of khrnchn"> khrnchn
-			</a><br/>
-			Black Kaiser
+			Afandi Azmi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>635</td>
+		<td>744</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>35</td>
 		<td>
-			<a href="https://github.com/Ripwords">
-				<img src="https://avatars.githubusercontent.com/u/58784686?s=72&u=4f4f695753ee3433007046c9ef56f40b8354dfd5&v=4" width="24" alt="Avatar of Ripwords"> Ripwords
+			<a href="https://github.com/teemingc">
+				<img src="https://avatars.githubusercontent.com/u/54401897?s=72&u=973fe400d637c5f7a5f9695f85b66183eb94ac63&v=4" width="24" alt="Avatar of teemingc"> teemingc
 			</a><br/>
-			JJ Teoh
+			Tee Ming
 		</td>
-		<td>Studio20 </td>
-		<td><a href="https://twitter.com/Ripwords_">Ripwords_</a></td>
-		<td>Malaysia</td>
-		<td>582</td>
-	</tr>
-	<tr>
-		<td>43</td>
-		<td>
-			<a href="https://github.com/parasquid">
-				<img src="https://avatars.githubusercontent.com/u/185592?s=72&u=a2a48c4ff65bf62a598ec0d16114f51f2450f95d&v=4" width="24" alt="Avatar of parasquid"> parasquid
-			</a><br/>
-			Tristan
-		</td>
-		<td>@hivekind </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>566</td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>
-			<a href="https://github.com/SohZHong">
-				<img src="https://avatars.githubusercontent.com/u/108559888?s=72&u=de705e38ff221805fd4841442924f23f876a5a4f&v=4" width="24" alt="Avatar of SohZHong"> SohZHong
-			</a><br/>
-			Soh Zhe Hong
-		</td>
-		<td>The Graph Foundation </td>
+		<td>Nindatech </td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>549</td>
+		<td>739</td>
 	</tr>
 	<tr>
-		<td>45</td>
-		<td>
-			<a href="https://github.com/rc-chuah">
-				<img src="https://avatars.githubusercontent.com/u/44928288?s=72&u=9ecf72eb5d9530b65e3ca8d6d9f1f72c0dd22f5c&v=4" width="24" alt="Avatar of rc-chuah"> rc-chuah
-			</a><br/>
-			RC Chuah
-		</td>
-		<td>@raynersec @design-enginnering @krypto-hashers-comm @mmo-org-my<br/>@rayner-iot-solution<br/></td>
-		<td><a href="https://twitter.com/rc_chuah">rc_chuah</a></td>
-		<td>Shah Alam, Selangor, Malaysia</td>
-		<td>539</td>
-	</tr>
-	<tr>
-		<td>46</td>
-		<td>
-			<a href="https://github.com/hollowaykeanho">
-				<img src="https://avatars.githubusercontent.com/u/7259572?s=72&u=5e1c74b41d75d5307df09caf0ea08987aaaab24d&v=4" width="24" alt="Avatar of hollowaykeanho"> hollowaykeanho
-			</a><br/>
-			(Holloway) Chew, Kean Ho
-		</td>
-		<td>Independent </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia, South East Asia</td>
-		<td>536</td>
-	</tr>
-	<tr>
-		<td>47</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/jeqcho">
 				<img src="https://avatars.githubusercontent.com/u/42904912?s=72&u=081fd50f7f4b9511d821a35083a1b30c3fd33d45&v=4" width="24" alt="Avatar of jeqcho"> jeqcho
@@ -713,23 +570,23 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Harvard College </td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>536</td>
+		<td>704</td>
 	</tr>
 	<tr>
-		<td>48</td>
+		<td>37</td>
 		<td>
-			<a href="https://github.com/cileong">
-				<img src="https://avatars.githubusercontent.com/u/45704921?s=72&u=a6999d805833fda829d4cd6a08c4dfdcc976ea94&v=4" width="24" alt="Avatar of cileong"> cileong
+			<a href="https://github.com/tonyqus">
+				<img src="https://avatars.githubusercontent.com/u/772561?s=72&u=257dc08c21de294b494472d9dde2bb4713038ae6&v=4" width="24" alt="Avatar of tonyqus"> tonyqus
 			</a><br/>
-			Ci Leong
+			Tony Q.
 		</td>
-		<td>@moneylion </td>
+		<td>@nissl-lab  </td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>532</td>
+		<td>Malaysia</td>
+		<td>694</td>
 	</tr>
 	<tr>
-		<td>49</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/CaedusSolo">
 				<img src="https://avatars.githubusercontent.com/u/86660931?s=72&u=015260906840e10368d538963e9a7173947f3de1&v=4" width="24" alt="Avatar of CaedusSolo"> CaedusSolo
@@ -739,127 +596,75 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Multimedia University </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur/Cyberjaya</td>
-		<td>521</td>
+		<td>681</td>
 	</tr>
 	<tr>
-		<td>50</td>
+		<td>39</td>
 		<td>
-			<a href="https://github.com/chengkangzai">
-				<img src="https://avatars.githubusercontent.com/u/43839286?s=72&u=96f8911c0ca11182da7f465ccc847bc486c3a22a&v=4" width="24" alt="Avatar of chengkangzai"> chengkangzai
+			<a href="https://github.com/opariffazman">
+				<img src="https://avatars.githubusercontent.com/u/10364153?s=72&u=567c0a803f9f0abb6ed6464bf67fa88f66496301&v=4" width="24" alt="Avatar of opariffazman"> opariffazman
 			</a><br/>
-			Ching Cheng Kang
+			Ariff Azman
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/chengkangzai">chengkangzai</a></td>
-		<td>Damansara Perdana, Kuala Lumpur</td>
-		<td>514</td>
+		<td>@officialdad </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>678</td>
 	</tr>
 	<tr>
-		<td>51</td>
+		<td>40</td>
 		<td>
-			<a href="https://github.com/maercaestro">
-				<img src="https://avatars.githubusercontent.com/u/129637227?s=72&u=51bcfe991ce7164a7f032a33d32dee7905cbc973&v=4" width="24" alt="Avatar of maercaestro"> maercaestro
+			<a href="https://github.com/mjm918">
+				<img src="https://avatars.githubusercontent.com/u/17846525?s=72&u=558b38029e433e60ef2aba9ddebd24dc8c67e94b&v=4" width="24" alt="Avatar of mjm918"> mjm918
 			</a><br/>
-			Abu Huzaifah Bin Haji Bidin
+			Mohammad Julfikar
+		</td>
+		<td>Easytech International Sdn Bhd<br/></td>
+		<td><a href="https://twitter.com/OrphanPid">OrphanPid</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>672</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
+			<a href="https://github.com/wzul">
+				<img src="https://avatars.githubusercontent.com/u/19372567?s=72&u=58e7ecd6e267c7b004158c4dad189f7b3918f663&v=4" width="24" alt="Avatar of wzul"> wzul
+			</a><br/>
+			Wan Zulkarnain
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>512</td>
+		<td>Malaysia</td>
+		<td>668</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>42</td>
 		<td>
-			<a href="https://github.com/0xYudhishthra">
-				<img src="https://avatars.githubusercontent.com/u/66850474?s=72&u=4f8ad7d70005157ce9b66a61f962a5a164c610d1&v=4" width="24" alt="Avatar of 0xYudhishthra"> 0xYudhishthra
+			<a href="https://github.com/kianmeng">
+				<img src="https://avatars.githubusercontent.com/u/134518?s=72&u=6d630e9ad092b1dba07dd4d07fd188ced5aa916e&v=4" width="24" alt="Avatar of kianmeng"> kianmeng
 			</a><br/>
-			Yudhishthra Sugumaran
+			Ang
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/0xYudhishthra">0xYudhishthra</a></td>
-		<td>Malaysia</td>
-		<td>510</td>
-	</tr>
-	<tr>
-		<td>53</td>
-		<td>
-			<a href="https://github.com/ahmedmusawir">
-				<img src="https://avatars.githubusercontent.com/u/8651367?s=72&u=745b9894a2c4ea52be5555ed6ca3c0c253a0a005&v=4" width="24" alt="Avatar of ahmedmusawir"> ahmedmusawir
-			</a><br/>
-			No Name
-		</td>
-		<td>Cyberize Group Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>507</td>
+		<td>655</td>
 	</tr>
 	<tr>
-		<td>54</td>
+		<td>43</td>
 		<td>
-			<a href="https://github.com/irfancoder">
-				<img src="https://avatars.githubusercontent.com/u/23192852?s=72&u=a4af16bc5d093f0f7edabba56ad08672d51e5767&v=4" width="24" alt="Avatar of irfancoder"> irfancoder
+			<a href="https://github.com/mhmdd-farhan">
+				<img src="https://avatars.githubusercontent.com/u/161969701?s=72&u=8ac27681cdee15429525e207a34ea63fa72d395d&v=4" width="24" alt="Avatar of mhmdd-farhan"> mhmdd-farhan
 			</a><br/>
-			Irfan Ismail
+			Muhammad Farhan
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>500</td>
-	</tr>
-	<tr>
-		<td>55</td>
-		<td>
-			<a href="https://github.com/Juneezee">
-				<img src="https://avatars.githubusercontent.com/u/20135478?s=72&u=ff913ee45c2c6250accd6eb785a4123fb0eda01f&v=4" width="24" alt="Avatar of Juneezee"> Juneezee
-			</a><br/>
-			Eng Zer Jun
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/juneezee">juneezee</a></td>
-		<td>Malaysia</td>
-		<td>498</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
-			<a href="https://github.com/HafiziRuslan">
-				<img src="https://avatars.githubusercontent.com/u/30207509?s=72&u=5586693f87b146e15171739471b25efcc44f3c77&v=4" width="24" alt="Avatar of HafiziRuslan"> HafiziRuslan
-			</a><br/>
-			Hafizi Ruslan
-		</td>
-		<td>@mhrtechmy  </td>
-		<td><a href="https://twitter.com/HafiziRuslan">HafiziRuslan</a></td>
-		<td>Malaysia</td>
-		<td>496</td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>
-			<a href="https://github.com/zernonia">
-				<img src="https://avatars.githubusercontent.com/u/59365435?s=72&u=7554ee9b1dbcd2b06d8369f0cb2b8230f54db720&v=4" width="24" alt="Avatar of zernonia"> zernonia
-			</a><br/>
-			zernonia
-		</td>
-		<td>Troop Travel </td>
-		<td><a href="https://twitter.com/zernonia">zernonia</a></td>
-		<td>Malaysia</td>
-		<td>476</td>
-	</tr>
-	<tr>
-		<td>58</td>
-		<td>
-			<a href="https://github.com/rashidi">
-				<img src="https://avatars.githubusercontent.com/u/380073?s=72&u=058471ffcf27303e8ad780d4aa440b6d29b26660&v=4" width="24" alt="Avatar of rashidi"> rashidi
-			</a><br/>
-			Rashidi Zin
-		</td>
-		<td>@ezypay-pty-ltd  </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>475</td>
+		<td>652</td>
 	</tr>
 	<tr>
-		<td>59</td>
+		<td>44</td>
 		<td>
 			<a href="https://github.com/InterStella0">
 				<img src="https://avatars.githubusercontent.com/u/70153286?s=72&u=6e53e46a395841e548085308cd4044508b75e01a&v=4" width="24" alt="Avatar of InterStella0"> InterStella0
@@ -869,36 +674,153 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>466</td>
+		<td>610</td>
 	</tr>
 	<tr>
-		<td>60</td>
+		<td>45</td>
 		<td>
-			<a href="https://github.com/paanjoe">
-				<img src="https://avatars.githubusercontent.com/u/38974707?s=72&u=eb517d41fbdc172e134a2da224752f1e4de31948&v=4" width="24" alt="Avatar of paanjoe"> paanjoe
+			<a href="https://github.com/NotYoojun">
+				<img src="https://avatars.githubusercontent.com/u/54567489?s=72&u=b2c61ff6427a50c2c3288e031035cc7e387fcde0&v=4" width="24" alt="Avatar of NotYoojun"> NotYoojun
 			</a><br/>
-			PaanJoe
+			Yoojun Zhou
 		</td>
-		<td>Https://tubular-basb </td>
+		<td>Inkore! (@inkore-net) </td>
+		<td><a href="https://twitter.com/NotYoojun">NotYoojun</a></td>
+		<td>Selangor, Malaysia</td>
+		<td>607</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td>
+			<a href="https://github.com/rc-chuah">
+				<img src="https://avatars.githubusercontent.com/u/44928288?s=72&u=9ecf72eb5d9530b65e3ca8d6d9f1f72c0dd22f5c&v=4" width="24" alt="Avatar of rc-chuah"> rc-chuah
+			</a><br/>
+			RC Chuah
+		</td>
+		<td>@raynersec @design-enginnering @krypto-hashers-comm @mmo-org-my<br/>@rayner-iot-solution<br/></td>
+		<td><a href="https://twitter.com/rc_chuah">rc_chuah</a></td>
+		<td>Shah Alam, Selangor, Malaysia</td>
+		<td>599</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td>
+			<a href="https://github.com/SohZHong">
+				<img src="https://avatars.githubusercontent.com/u/108559888?s=72&u=de705e38ff221805fd4841442924f23f876a5a4f&v=4" width="24" alt="Avatar of SohZHong"> SohZHong
+			</a><br/>
+			Soh Zhe Hong
+		</td>
+		<td>The Graph Foundation </td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>465</td>
+		<td>582</td>
 	</tr>
 	<tr>
-		<td>61</td>
+		<td>48</td>
 		<td>
-			<a href="https://github.com/jameswong3388">
-				<img src="https://avatars.githubusercontent.com/u/87692325?s=72&u=9291bdee546b2574d2ca1e1f4099e95e3bcbacc8&v=4" width="24" alt="Avatar of jameswong3388"> jameswong3388
+			<a href="https://github.com/cheeseng">
+				<img src="https://avatars.githubusercontent.com/u/1322009?s=72&u=fd08989b45c5616107b54ae055a36a5f871e5763&v=4" width="24" alt="Avatar of cheeseng"> cheeseng
 			</a><br/>
-			James Wong
+			Chua Chee Seng
 		</td>
-		<td>School Of Computing At<br/>Apu<br/></td>
-		<td><a href="https://twitter.com/jameswong3388">jameswong3388</a></td>
-		<td>Kuala Lumpur/ Malaysia</td>
-		<td>465</td>
+		<td>Amaseng Software Sdn. Bhd.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>576</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>49</td>
+		<td>
+			<a href="https://github.com/Ripwords">
+				<img src="https://avatars.githubusercontent.com/u/58784686?s=72&u=4f4f695753ee3433007046c9ef56f40b8354dfd5&v=4" width="24" alt="Avatar of Ripwords"> Ripwords
+			</a><br/>
+			JJ Teoh
+		</td>
+		<td>Studio20 </td>
+		<td><a href="https://twitter.com/Ripwords_">Ripwords_</a></td>
+		<td>Malaysia</td>
+		<td>570</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>
+			<a href="https://github.com/nurulashraf">
+				<img src="https://avatars.githubusercontent.com/u/88407376?s=72&u=771a2ce4b1d4b687c8d8b55e791c9d56a9ee800a&v=4" width="24" alt="Avatar of nurulashraf"> nurulashraf
+			</a><br/>
+			Nurul Ashraf
+		</td>
+		<td>Sv Solution Centric </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia </td>
+		<td>566</td>
+	</tr>
+	<tr>
+		<td>51</td>
+		<td>
+			<a href="https://github.com/khrnchn">
+				<img src="https://avatars.githubusercontent.com/u/71305935?s=72&u=931bf5026c6117ac1c6a471fd20c9c1db3b91d40&v=4" width="24" alt="Avatar of khrnchn"> khrnchn
+			</a><br/>
+			Black Kaiser
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>546</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
+			<a href="https://github.com/parasquid">
+				<img src="https://avatars.githubusercontent.com/u/185592?s=72&u=a2a48c4ff65bf62a598ec0d16114f51f2450f95d&v=4" width="24" alt="Avatar of parasquid"> parasquid
+			</a><br/>
+			Tristan
+		</td>
+		<td>@hivekind </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>532</td>
+	</tr>
+	<tr>
+		<td>53</td>
+		<td>
+			<a href="https://github.com/saky-semicolon">
+				<img src="https://avatars.githubusercontent.com/u/114678581?s=72&u=aeb32c29c9670d98992feb1fb21f3f081fbf8227&v=4" width="24" alt="Avatar of saky-semicolon"> saky-semicolon
+			</a><br/>
+			S M Asiful Islam Saky
+		</td>
+		<td>Semicolon </td>
+		<td><a href="https://twitter.com/saky_semicolon">saky_semicolon</a></td>
+		<td>Alor Setar, Kedah, Malaysia</td>
+		<td>531</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/cileong">
+				<img src="https://avatars.githubusercontent.com/u/45704921?s=72&u=a6999d805833fda829d4cd6a08c4dfdcc976ea94&v=4" width="24" alt="Avatar of cileong"> cileong
+			</a><br/>
+			Ci Leong
+		</td>
+		<td>@moneylion </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>528</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>
+			<a href="https://github.com/chengkangzai">
+				<img src="https://avatars.githubusercontent.com/u/43839286?s=72&u=96f8911c0ca11182da7f465ccc847bc486c3a22a&v=4" width="24" alt="Avatar of chengkangzai"> chengkangzai
+			</a><br/>
+			Ching Cheng Kang
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/chengkangzai">chengkangzai</a></td>
+		<td>Damansara Perdana, Kuala Lumpur</td>
+		<td>526</td>
+	</tr>
+	<tr>
+		<td>56</td>
 		<td>
 			<a href="https://github.com/Ang-dot">
 				<img src="https://avatars.githubusercontent.com/u/62604618?s=72&u=1e122f1823f5c0ff36b41b2f3996e4613003f41a&v=4" width="24" alt="Avatar of Ang-dot"> Ang-dot
@@ -908,49 +830,49 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>460</td>
+		<td>525</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>57</td>
 		<td>
-			<a href="https://github.com/DreamerChaserHAH">
-				<img src="https://avatars.githubusercontent.com/u/109950820?s=72&u=cb9d9784b06114b9455c4c351b7056ed2ac81c65&v=4" width="24" alt="Avatar of DreamerChaserHAH"> DreamerChaserHAH
+			<a href="https://github.com/maercaestro">
+				<img src="https://avatars.githubusercontent.com/u/129637227?s=72&u=51bcfe991ce7164a7f032a33d32dee7905cbc973&v=4" width="24" alt="Avatar of maercaestro"> maercaestro
 			</a><br/>
-			Htet Aung Hlaing
-		</td>
-		<td>Asia Pacific University </td>
-		<td><a href="https://twitter.com/victorevolves">victorevolves</a></td>
-		<td>Kuala Lumpur</td>
-		<td>459</td>
-	</tr>
-	<tr>
-		<td>64</td>
-		<td>
-			<a href="https://github.com/amsryq">
-				<img src="https://avatars.githubusercontent.com/u/82711525?s=72&u=1f40dc2f91b979e89b2ea65f07b68af15c770efe&v=4" width="24" alt="Avatar of amsryq"> amsryq
-			</a><br/>
-			aeyric
-		</td>
-		<td>Universiti Teknologi Mara </td>
-		<td><a href="https://twitter.com/amsryq">amsryq</a></td>
-		<td>Malaysia</td>
-		<td>456</td>
-	</tr>
-	<tr>
-		<td>65</td>
-		<td>
-			<a href="https://github.com/NizarKhan0">
-				<img src="https://avatars.githubusercontent.com/u/131904091?s=72&u=0f6003bbcfe5a790878f2c24224afa106f154121&v=4" width="24" alt="Avatar of NizarKhan0"> NizarKhan0
-			</a><br/>
-			Nizar Khan
+			Abu Huzaifah Bin Haji Bidin
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>450</td>
+		<td>Kuala Lumpur</td>
+		<td>518</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>58</td>
+		<td>
+			<a href="https://github.com/szeyu">
+				<img src="https://avatars.githubusercontent.com/u/34510821?s=72&u=61cc7996e963f6e9d478704ec563acad2e8a39cc&v=4" width="24" alt="Avatar of szeyu"> szeyu
+			</a><br/>
+			Sze Yu Sim
+		</td>
+		<td>Universiti Malaya </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>513</td>
+	</tr>
+	<tr>
+		<td>59</td>
+		<td>
+			<a href="https://github.com/ahmedmusawir">
+				<img src="https://avatars.githubusercontent.com/u/8651367?s=72&u=745b9894a2c4ea52be5555ed6ca3c0c253a0a005&v=4" width="24" alt="Avatar of ahmedmusawir"> ahmedmusawir
+			</a><br/>
+			No Name
+		</td>
+		<td>Cyberize Group Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>498</td>
+	</tr>
+	<tr>
+		<td>60</td>
 		<td>
 			<a href="https://github.com/rehackxyz">
 				<img src="https://avatars.githubusercontent.com/u/92614795?s=72&u=c443fb8b9c9d7eb67771750aeca4dad89dfdf4c3&v=4" width="24" alt="Avatar of rehackxyz"> rehackxyz
@@ -960,7 +882,85 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/rehackxyz">rehackxyz</a></td>
 		<td>Malaysia</td>
+		<td>474</td>
+	</tr>
+	<tr>
+		<td>61</td>
+		<td>
+			<a href="https://github.com/farhan-syah">
+				<img src="https://avatars.githubusercontent.com/u/45132618?s=72&u=c1294b96cb8454b1c1c8fe1a721d272d3871f531&v=4" width="24" alt="Avatar of farhan-syah"> farhan-syah
+			</a><br/>
+			Farhan Syah
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>472</td>
+	</tr>
+	<tr>
+		<td>62</td>
+		<td>
+			<a href="https://github.com/ngjupeng">
+				<img src="https://avatars.githubusercontent.com/u/74807962?s=72&u=b881fccd988faacb99451ba204c64affaccad4c9&v=4" width="24" alt="Avatar of ngjupeng"> ngjupeng
+			</a><br/>
+			JuPeng
+		</td>
+		<td>Q3 Labs </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>460</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
+			<a href="https://github.com/zernonia">
+				<img src="https://avatars.githubusercontent.com/u/59365435?s=72&u=7554ee9b1dbcd2b06d8369f0cb2b8230f54db720&v=4" width="24" alt="Avatar of zernonia"> zernonia
+			</a><br/>
+			zernonia
+		</td>
+		<td>Troop Travel </td>
+		<td><a href="https://twitter.com/zernonia">zernonia</a></td>
+		<td>Malaysia</td>
+		<td>454</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
+			<a href="https://github.com/jameswong3388">
+				<img src="https://avatars.githubusercontent.com/u/87692325?s=72&u=9291bdee546b2574d2ca1e1f4099e95e3bcbacc8&v=4" width="24" alt="Avatar of jameswong3388"> jameswong3388
+			</a><br/>
+			James Wong
+		</td>
+		<td>Ai Engineer @ Deriv<br/></td>
+		<td><a href="https://twitter.com/jameswong3388">jameswong3388</a></td>
+		<td>Kuala Lumpur/ Malaysia</td>
 		<td>446</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td>
+			<a href="https://github.com/lamarios">
+				<img src="https://avatars.githubusercontent.com/u/1192563?s=72&v=4" width="24" alt="Avatar of lamarios"> lamarios
+			</a><br/>
+			Paul Fauchon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>445</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
+			<a href="https://github.com/0xYudhishthra">
+				<img src="https://avatars.githubusercontent.com/u/66850474?s=72&u=4f8ad7d70005157ce9b66a61f962a5a164c610d1&v=4" width="24" alt="Avatar of 0xYudhishthra"> 0xYudhishthra
+			</a><br/>
+			Yudhishthra Sugumaran
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/0xYudhishthra">0xYudhishthra</a></td>
+		<td>Malaysia</td>
+		<td>435</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -973,33 +973,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/huseinzol05">huseinzol05</a></td>
 		<td>Kedah, Malaysia</td>
-		<td>444</td>
+		<td>421</td>
 	</tr>
 	<tr>
 		<td>68</td>
 		<td>
-			<a href="https://github.com/saky-semicolon">
-				<img src="https://avatars.githubusercontent.com/u/114678581?s=72&u=aeb32c29c9670d98992feb1fb21f3f081fbf8227&v=4" width="24" alt="Avatar of saky-semicolon"> saky-semicolon
+			<a href="https://github.com/Cyb3rDudu">
+				<img src="https://avatars.githubusercontent.com/u/49803228?s=72&u=ab579d3931a7b73027c51fd66f0583092941f6c2&v=4" width="24" alt="Avatar of Cyb3rDudu"> Cyb3rDudu
 			</a><br/>
-			S M Asiful Islam Saky
+			dudu
 		</td>
-		<td>Semicolon </td>
-		<td><a href="https://twitter.com/saky_semicolon">saky_semicolon</a></td>
-		<td>Alor Setar, Kedah, Malaysia</td>
-		<td>436</td>
+		<td>Catdev </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur </td>
+		<td>419</td>
 	</tr>
 	<tr>
 		<td>69</td>
 		<td>
-			<a href="https://github.com/truboxl">
-				<img src="https://avatars.githubusercontent.com/u/12658589?s=72&v=4" width="24" alt="Avatar of truboxl"> truboxl
+			<a href="https://github.com/7azmi">
+				<img src="https://avatars.githubusercontent.com/u/58638184?s=72&u=c5ba72b08971b74cf583ad8535f6cef084eb378c&v=4" width="24" alt="Avatar of 7azmi"> 7azmi
 			</a><br/>
-			Jia Yuan Lo
+			Ahmed Ghaleb
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kota Tinggi, Johor, Malaysia</td>
-		<td>434</td>
+		<td><a href="https://twitter.com/humadi2001">humadi2001</a></td>
+		<td>Malaysia</td>
+		<td>413</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -1012,62 +1012,36 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Netcom Partner Sdn. Bhd.<br/></td>
 		<td><a href="https://twitter.com/lbthomsen">lbthomsen</a></td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>426</td>
+		<td>411</td>
 	</tr>
 	<tr>
 		<td>71</td>
 		<td>
-			<a href="https://github.com/amjadjibon">
-				<img src="https://avatars.githubusercontent.com/u/40180045?s=72&u=d41330e676c6e94bc73369ffa4aace62bc71088f&v=4" width="24" alt="Avatar of amjadjibon"> amjadjibon
+			<a href="https://github.com/Juneezee">
+				<img src="https://avatars.githubusercontent.com/u/20135478?s=72&u=ff913ee45c2c6250accd6eb785a4123fb0eda01f&v=4" width="24" alt="Avatar of Juneezee"> Juneezee
 			</a><br/>
-			Amjad Hossain
+			Eng Zer Jun
 		</td>
-		<td>Arvato Systems Malaysia </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>416</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/juneezee">juneezee</a></td>
+		<td>Malaysia</td>
+		<td>409</td>
 	</tr>
 	<tr>
 		<td>72</td>
 		<td>
-			<a href="https://github.com/hakimifr">
-				<img src="https://avatars.githubusercontent.com/u/67860246?s=72&v=4" width="24" alt="Avatar of hakimifr"> hakimifr
+			<a href="https://github.com/NizarKhan0">
+				<img src="https://avatars.githubusercontent.com/u/131904091?s=72&u=0f6003bbcfe5a790878f2c24224afa106f154121&v=4" width="24" alt="Avatar of NizarKhan0"> NizarKhan0
 			</a><br/>
-			Hakimi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/hakimifrd">hakimifrd</a></td>
-		<td>Malaysia</td>
-		<td>398</td>
-	</tr>
-	<tr>
-		<td>73</td>
-		<td>
-			<a href="https://github.com/7azmi">
-				<img src="https://avatars.githubusercontent.com/u/58638184?s=72&u=c5ba72b08971b74cf583ad8535f6cef084eb378c&v=4" width="24" alt="Avatar of 7azmi"> 7azmi
-			</a><br/>
-			Ahmed Ghaleb
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/humadi2001">humadi2001</a></td>
-		<td>Malaysia</td>
-		<td>395</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
-			<a href="https://github.com/raselworshop">
-				<img src="https://avatars.githubusercontent.com/u/174137192?s=72&u=497e2bc8e24f350619298babe977b4070a592239&v=4" width="24" alt="Avatar of raselworshop"> raselworshop
-			</a><br/>
-			Md Rasel Mia
+			Nizar Khan
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>392</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>408</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/easonchai">
 				<img src="https://avatars.githubusercontent.com/u/43127107?s=72&u=0c22e42f173501eee21febf9df6e9bf98bde98ff&v=4" width="24" alt="Avatar of easonchai"> easonchai
@@ -1077,127 +1051,10 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/easonchaiii">easonchaiii</a></td>
 		<td>Malaysia</td>
-		<td>389</td>
+		<td>402</td>
 	</tr>
 	<tr>
-		<td>76</td>
-		<td>
-			<a href="https://github.com/zainolamzar">
-				<img src="https://avatars.githubusercontent.com/u/101105847?s=72&u=978247abbda02e1a5b1a221e4ccb43ab77579236&v=4" width="24" alt="Avatar of zainolamzar"> zainolamzar
-			</a><br/>
-			Zainol Amzar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>385</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
-			<a href="https://github.com/lamarios">
-				<img src="https://avatars.githubusercontent.com/u/1192563?s=72&v=4" width="24" alt="Avatar of lamarios"> lamarios
-			</a><br/>
-			Paul Fauchon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>383</td>
-	</tr>
-	<tr>
-		<td>78</td>
-		<td>
-			<a href="https://github.com/hazelnutcloud">
-				<img src="https://avatars.githubusercontent.com/u/82351571?s=72&u=ed701a7ecae3e4de5908e4f35af974a6c402f6f1&v=4" width="24" alt="Avatar of hazelnutcloud"> hazelnutcloud
-			</a><br/>
-			hsnmkls
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/hzlntcld">hzlntcld</a></td>
-		<td>Malaysia</td>
-		<td>376</td>
-	</tr>
-	<tr>
-		<td>79</td>
-		<td>
-			<a href="https://github.com/nacht29">
-				<img src="https://avatars.githubusercontent.com/u/163842622?s=72&u=02a73c9fb655fea108ead1e6bb5dc1329a447f8d&v=4" width="24" alt="Avatar of nacht29"> nacht29
-			</a><br/>
-			Chan Yan Zhe
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>369</td>
-	</tr>
-	<tr>
-		<td>80</td>
-		<td>
-			<a href="https://github.com/zhenchai00">
-				<img src="https://avatars.githubusercontent.com/u/76050421?s=72&u=374974174104c2563bd79d122325ecb92fc248bd&v=4" width="24" alt="Avatar of zhenchai00"> zhenchai00
-			</a><br/>
-			zhenchai
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/zhenchai123">zhenchai123</a></td>
-		<td>Malaysia</td>
-		<td>368</td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>
-			<a href="https://github.com/ndoo">
-				<img src="https://avatars.githubusercontent.com/u/262784?s=72&u=2ed236105d9fea041748e77696b0d3da71de6860&v=4" width="24" alt="Avatar of ndoo"> ndoo
-			</a><br/>
-			Andrew Yong
-		</td>
-		<td>Rge Digital </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>367</td>
-	</tr>
-	<tr>
-		<td>82</td>
-		<td>
-			<a href="https://github.com/zubir2k">
-				<img src="https://avatars.githubusercontent.com/u/1905339?s=72&u=f01c0da908286cd701d4cdb97e5cc9e9333bf56c&v=4" width="24" alt="Avatar of zubir2k"> zubir2k
-			</a><br/>
-			Zubir Jamal
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/zubirjamal">zubirjamal</a></td>
-		<td>Kajang, Malaysia</td>
-		<td>362</td>
-	</tr>
-	<tr>
-		<td>83</td>
-		<td>
-			<a href="https://github.com/wzul">
-				<img src="https://avatars.githubusercontent.com/u/19372567?s=72&u=58e7ecd6e267c7b004158c4dad189f7b3918f663&v=4" width="24" alt="Avatar of wzul"> wzul
-			</a><br/>
-			Wan Zulkarnain
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>360</td>
-	</tr>
-	<tr>
-		<td>84</td>
-		<td>
-			<a href="https://github.com/Tharshen2124">
-				<img src="https://avatars.githubusercontent.com/u/109658031?s=72&u=20c6b60014570dbb36499d237b4b182f2aeb37ea&v=4" width="24" alt="Avatar of Tharshen2124"> Tharshen2124
-			</a><br/>
-			Tharshen
-		</td>
-		<td>Multimedia University </td>
-		<td>No Twitter Username</td>
-		<td>Selangor, Malaysia</td>
-		<td>359</td>
-	</tr>
-	<tr>
-		<td>85</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/muazhazali">
 				<img src="https://avatars.githubusercontent.com/u/100086292?s=72&u=e8c26e863e61b17bea8650a978483066a3a0e780&v=4" width="24" alt="Avatar of muazhazali"> muazhazali
@@ -1207,127 +1064,153 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>University Teknologi Mara </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>354</td>
+		<td>396</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
+			<a href="https://github.com/DreamerChaserHAH">
+				<img src="https://avatars.githubusercontent.com/u/109950820?s=72&u=cb9d9784b06114b9455c4c351b7056ed2ac81c65&v=4" width="24" alt="Avatar of DreamerChaserHAH"> DreamerChaserHAH
+			</a><br/>
+			Victor Mak
+		</td>
+		<td>Asia Pacific University </td>
+		<td><a href="https://twitter.com/victorevolves">victorevolves</a></td>
+		<td>Kuala Lumpur</td>
+		<td>394</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>
+			<a href="https://github.com/hazelnutcloud">
+				<img src="https://avatars.githubusercontent.com/u/82351571?s=72&u=ed701a7ecae3e4de5908e4f35af974a6c402f6f1&v=4" width="24" alt="Avatar of hazelnutcloud"> hazelnutcloud
+			</a><br/>
+			hsnmkls
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/hzlntcld">hzlntcld</a></td>
+		<td>Malaysia</td>
+		<td>392</td>
+	</tr>
+	<tr>
+		<td>77</td>
+		<td>
+			<a href="https://github.com/nacht29">
+				<img src="https://avatars.githubusercontent.com/u/163842622?s=72&u=02a73c9fb655fea108ead1e6bb5dc1329a447f8d&v=4" width="24" alt="Avatar of nacht29"> nacht29
+			</a><br/>
+			Chan Yan Zhe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>392</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>
+			<a href="https://github.com/Junshen18">
+				<img src="https://avatars.githubusercontent.com/u/108778342?s=72&u=d74f2e53e9ec74a681d221e6289f52853d1db42a&v=4" width="24" alt="Avatar of Junshen18"> Junshen18
+			</a><br/>
+			Jun Shen
+		</td>
+		<td>Asia Pacific University </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>389</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
+			<a href="https://github.com/amjadjibon">
+				<img src="https://avatars.githubusercontent.com/u/40180045?s=72&u=d41330e676c6e94bc73369ffa4aace62bc71088f&v=4" width="24" alt="Avatar of amjadjibon"> amjadjibon
+			</a><br/>
+			Amjad Hossain
+		</td>
+		<td>Arvato Systems Malaysia </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>371</td>
+	</tr>
+	<tr>
+		<td>80</td>
+		<td>
+			<a href="https://github.com/irfancoder">
+				<img src="https://avatars.githubusercontent.com/u/23192852?s=72&u=a4af16bc5d093f0f7edabba56ad08672d51e5767&v=4" width="24" alt="Avatar of irfancoder"> irfancoder
+			</a><br/>
+			Irfan Ismail
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>367</td>
+	</tr>
+	<tr>
+		<td>81</td>
+		<td>
+			<a href="https://github.com/amsryq">
+				<img src="https://avatars.githubusercontent.com/u/82711525?s=72&u=78da46400a081828a96b013707e14d57b43a4af5&v=4" width="24" alt="Avatar of amsryq"> amsryq
+			</a><br/>
+			aeyric
+		</td>
+		<td>Universiti Teknologi Mara </td>
+		<td><a href="https://twitter.com/amsryq">amsryq</a></td>
+		<td>Malaysia</td>
+		<td>364</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>
+			<a href="https://github.com/zainolamzar">
+				<img src="https://avatars.githubusercontent.com/u/101105847?s=72&u=978247abbda02e1a5b1a221e4ccb43ab77579236&v=4" width="24" alt="Avatar of zainolamzar"> zainolamzar
+			</a><br/>
+			Zainol Amzar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>362</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>
+			<a href="https://github.com/ndoo">
+				<img src="https://avatars.githubusercontent.com/u/262784?s=72&u=2ed236105d9fea041748e77696b0d3da71de6860&v=4" width="24" alt="Avatar of ndoo"> ndoo
+			</a><br/>
+			Andrew Yong
+		</td>
+		<td>Rge Digital </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>361</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
+			<a href="https://github.com/hakimifr">
+				<img src="https://avatars.githubusercontent.com/u/67860246?s=72&v=4" width="24" alt="Avatar of hakimifr"> hakimifr
+			</a><br/>
+			Hakimi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/hakimifrd">hakimifrd</a></td>
+		<td>Malaysia</td>
+		<td>358</td>
+	</tr>
+	<tr>
+		<td>85</td>
+		<td>
+			<a href="https://github.com/Tharshen2124">
+				<img src="https://avatars.githubusercontent.com/u/109658031?s=72&u=20c6b60014570dbb36499d237b4b182f2aeb37ea&v=4" width="24" alt="Avatar of Tharshen2124"> Tharshen2124
+			</a><br/>
+			Tharshen
+		</td>
+		<td>Multimedia University </td>
+		<td>No Twitter Username</td>
+		<td>Selangor, Malaysia</td>
+		<td>350</td>
 	</tr>
 	<tr>
 		<td>86</td>
-		<td>
-			<a href="https://github.com/k4200">
-				<img src="https://avatars.githubusercontent.com/u/539941?s=72&u=4835430ee46c62a8309d11f39437dd806f45d8c6&v=4" width="24" alt="Avatar of k4200"> k4200
-			</a><br/>
-			Kazuo Kashima
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>351</td>
-	</tr>
-	<tr>
-		<td>87</td>
-		<td>
-			<a href="https://github.com/mawlid1431">
-				<img src="https://avatars.githubusercontent.com/u/60866464?s=72&u=27948e5a4f98a204b1c7f82985358fe1cb387910&v=4" width="24" alt="Avatar of mawlid1431"> mawlid1431
-			</a><br/>
-			malit mohamut
-		</td>
-		<td>Https://www.linkedin </td>
-		<td><a href="https://twitter.com/malitfx">malitfx</a></td>
-		<td>malaysia</td>
-		<td>347</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
-			<a href="https://github.com/KelvinYou">
-				<img src="https://avatars.githubusercontent.com/u/49147986?s=72&u=657f92e9e1b8a3daf4f928f1fab12d9d28e62e50&v=4" width="24" alt="Avatar of KelvinYou"> KelvinYou
-			</a><br/>
-			Kelvin You
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>344</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
-			<a href="https://github.com/dnth">
-				<img src="https://avatars.githubusercontent.com/u/6821286?s=72&u=697b7e03f65f8f5fd259765751f78ca6a28b6b11&v=4" width="24" alt="Avatar of dnth"> dnth
-			</a><br/>
-			Dickson Neoh
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/dicksonneoh7">dicksonneoh7</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>343</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
-			<a href="https://github.com/mujahidfa">
-				<img src="https://avatars.githubusercontent.com/u/17759705?s=72&u=c81bbb71e3d79a511dcd47a6733921b8f63c454c&v=4" width="24" alt="Avatar of mujahidfa"> mujahidfa
-			</a><br/>
-			Mujahid Anuar
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mujahid_fa">mujahid_fa</a></td>
-		<td>Malaysia</td>
-		<td>339</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
-			<a href="https://github.com/fahmizainal17">
-				<img src="https://avatars.githubusercontent.com/u/116262995?s=72&u=ff00e19781776b0b5b0658bb16a94384e11e823f&v=4" width="24" alt="Avatar of fahmizainal17"> fahmizainal17
-			</a><br/>
-			Fahmi Zainal
-		</td>
-		<td>Excelerate Asia/invoke </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>336</td>
-	</tr>
-	<tr>
-		<td>92</td>
-		<td>
-			<a href="https://github.com/alextanhongpin">
-				<img src="https://avatars.githubusercontent.com/u/6033638?s=72&u=22076cb88dcff9e003d13ca89d3ce5dbc2ec9b8f&v=4" width="24" alt="Avatar of alextanhongpin"> alextanhongpin
-			</a><br/>
-			Alex Tan Hong Pin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia, Singapore</td>
-		<td>331</td>
-	</tr>
-	<tr>
-		<td>93</td>
-		<td>
-			<a href="https://github.com/sumardi">
-				<img src="https://avatars.githubusercontent.com/u/315603?s=72&v=4" width="24" alt="Avatar of sumardi"> sumardi
-			</a><br/>
-			Sumardi Shukor
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sumardi">sumardi</a></td>
-		<td>Cyberjaya, Malaysia</td>
-		<td>331</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
-			<a href="https://github.com/kyziq">
-				<img src="https://avatars.githubusercontent.com/u/77775117?s=72&u=ffc6ce44f95072775ace2023f6c07d60d57cbc93&v=4" width="24" alt="Avatar of kyziq"> kyziq
-			</a><br/>
-			Khairul Haziq
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kyziqqq">kyziqqq</a></td>
-		<td>Malaysia</td>
-		<td>328</td>
-	</tr>
-	<tr>
-		<td>95</td>
 		<td>
 			<a href="https://github.com/shamsbd71">
 				<img src="https://avatars.githubusercontent.com/u/1936565?s=72&v=4" width="24" alt="Avatar of shamsbd71"> shamsbd71
@@ -1337,10 +1220,62 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Themexpert </td>
 		<td><a href="https://twitter.com/shamsbd71">shamsbd71</a></td>
 		<td>Malaysia</td>
-		<td>324</td>
+		<td>344</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>87</td>
+		<td>
+			<a href="https://github.com/truboxl">
+				<img src="https://avatars.githubusercontent.com/u/12658589?s=72&v=4" width="24" alt="Avatar of truboxl"> truboxl
+			</a><br/>
+			Jia Yuan Lo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kota Tinggi, Johor, Malaysia</td>
+		<td>341</td>
+	</tr>
+	<tr>
+		<td>88</td>
+		<td>
+			<a href="https://github.com/zhenchai00">
+				<img src="https://avatars.githubusercontent.com/u/76050421?s=72&u=374974174104c2563bd79d122325ecb92fc248bd&v=4" width="24" alt="Avatar of zhenchai00"> zhenchai00
+			</a><br/>
+			zhenchai
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/zhenchai123">zhenchai123</a></td>
+		<td>Malaysia</td>
+		<td>340</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
+			<a href="https://github.com/SANNNNN-123">
+				<img src="https://avatars.githubusercontent.com/u/65912073?s=72&u=ee7dae3bd5ff2cdce3ee590a3bd4fdc6eb5c6738&v=4" width="24" alt="Avatar of SANNNNN-123"> SANNNNN-123
+			</a><br/>
+			SANNNN
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>340</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>
+			<a href="https://github.com/alextanhongpin">
+				<img src="https://avatars.githubusercontent.com/u/6033638?s=72&u=22076cb88dcff9e003d13ca89d3ce5dbc2ec9b8f&v=4" width="24" alt="Avatar of alextanhongpin"> alextanhongpin
+			</a><br/>
+			Alex Tan Hong Pin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia, Singapore</td>
+		<td>327</td>
+	</tr>
+	<tr>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/elmyrockers">
 				<img src="https://avatars.githubusercontent.com/u/6540616?s=72&u=a2c6e54e779dab88cba4ddf88e93700fac4cce70&v=4" width="24" alt="Avatar of elmyrockers"> elmyrockers
@@ -1350,36 +1285,23 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Xeno Software Solutions </td>
 		<td><a href="https://twitter.com/elmyrockers">elmyrockers</a></td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>324</td>
+		<td>325</td>
 	</tr>
 	<tr>
-		<td>97</td>
+		<td>92</td>
 		<td>
-			<a href="https://github.com/takase1121">
-				<img src="https://avatars.githubusercontent.com/u/20792268?s=72&u=fab10017c9b94358d12438b124c48783186b35d7&v=4" width="24" alt="Avatar of takase1121"> takase1121
+			<a href="https://github.com/mawlid1431">
+				<img src="https://avatars.githubusercontent.com/u/60866464?s=72&u=27948e5a4f98a204b1c7f82985358fe1cb387910&v=4" width="24" alt="Avatar of mawlid1431"> mawlid1431
 			</a><br/>
-			Takase
+			malit mohamut
 		</td>
-		<td>Bruh </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
+		<td>Https://www.linkedin </td>
+		<td><a href="https://twitter.com/malitfx">malitfx</a></td>
+		<td>malaysia</td>
 		<td>319</td>
 	</tr>
 	<tr>
-		<td>98</td>
-		<td>
-			<a href="https://github.com/cheeseng">
-				<img src="https://avatars.githubusercontent.com/u/1322009?s=72&u=fd08989b45c5616107b54ae055a36a5f871e5763&v=4" width="24" alt="Avatar of cheeseng"> cheeseng
-			</a><br/>
-			Chua Chee Seng
-		</td>
-		<td>Amaseng Software Sdn. Bhd.<br/></td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>319</td>
-	</tr>
-	<tr>
-		<td>99</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/NightFurySL2001">
 				<img src="https://avatars.githubusercontent.com/u/33471049?s=72&u=8195eb275ecb56d95c1ad94e79f15dc41cd82d09&v=4" width="24" alt="Avatar of NightFurySL2001"> NightFurySL2001
@@ -1389,88 +1311,153 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>304</td>
+		<td>313</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
+			<a href="https://github.com/paanjoe">
+				<img src="https://avatars.githubusercontent.com/u/38974707?s=72&u=eb517d41fbdc172e134a2da224752f1e4de31948&v=4" width="24" alt="Avatar of paanjoe"> paanjoe
+			</a><br/>
+			PaanJoe
+		</td>
+		<td>Https://tubular-basb </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>307</td>
+	</tr>
+	<tr>
+		<td>95</td>
+		<td>
+			<a href="https://github.com/LeeSinLiang">
+				<img src="https://avatars.githubusercontent.com/u/38833175?s=72&u=953b308cb926c329e10b1b124c9a8fdbf3e6ae06&v=4" width="24" alt="Avatar of LeeSinLiang"> LeeSinLiang
+			</a><br/>
+			Sin Liang Lee
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Selangor, Malaysia</td>
+		<td>307</td>
+	</tr>
+	<tr>
+		<td>96</td>
+		<td>
+			<a href="https://github.com/JapiKredi">
+				<img src="https://avatars.githubusercontent.com/u/88824661?s=72&u=4172763ef056852cf431f183eeb2ddefbc94ad65&v=4" width="24" alt="Avatar of JapiKredi"> JapiKredi
+			</a><br/>
+			Jasper Bongers
+		</td>
+		<td>Apple Inc </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>294</td>
+	</tr>
+	<tr>
+		<td>97</td>
+		<td>
+			<a href="https://github.com/k4200">
+				<img src="https://avatars.githubusercontent.com/u/539941?s=72&u=4835430ee46c62a8309d11f39437dd806f45d8c6&v=4" width="24" alt="Avatar of k4200"> k4200
+			</a><br/>
+			Kazuo Kashima
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>292</td>
+	</tr>
+	<tr>
+		<td>98</td>
+		<td>
+			<a href="https://github.com/zubir2k">
+				<img src="https://avatars.githubusercontent.com/u/1905339?s=72&u=f01c0da908286cd701d4cdb97e5cc9e9333bf56c&v=4" width="24" alt="Avatar of zubir2k"> zubir2k
+			</a><br/>
+			Zubir Jamal
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/zubirjamal">zubirjamal</a></td>
+		<td>Kajang, Malaysia</td>
+		<td>289</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>
+			<a href="https://github.com/dnth">
+				<img src="https://avatars.githubusercontent.com/u/6821286?s=72&u=697b7e03f65f8f5fd259765751f78ca6a28b6b11&v=4" width="24" alt="Avatar of dnth"> dnth
+			</a><br/>
+			Dickson Neoh
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dicksonneoh7">dicksonneoh7</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>283</td>
 	</tr>
 	<tr>
 		<td>100</td>
 		<td>
-			<a href="https://github.com/aditiapratama">
-				<img src="https://avatars.githubusercontent.com/u/982553?s=72&u=b6b8d14048cf19d601ac4e2cbb5df48a03e34627&v=4" width="24" alt="Avatar of aditiapratama"> aditiapratama
+			<a href="https://github.com/BLTC-520">
+				<img src="https://avatars.githubusercontent.com/u/125104831?s=72&u=74a2c5390fd0fd1299863c7aa0a25907b5dc03fc&v=4" width="24" alt="Avatar of BLTC-520"> BLTC-520
 			</a><br/>
-			Aditia A. Pratama
+			Brian Har
 		</td>
-		<td>@monstastudios </td>
-		<td><a href="https://twitter.com/aditia_ap">aditia_ap</a></td>
-		<td>Cyberjaya, Malaysia</td>
-		<td>298</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>283</td>
 	</tr>
 	<tr>
 		<td>101</td>
 		<td>
-			<a href="https://github.com/ngjupeng">
-				<img src="https://avatars.githubusercontent.com/u/74807962?s=72&u=b881fccd988faacb99451ba204c64affaccad4c9&v=4" width="24" alt="Avatar of ngjupeng"> ngjupeng
+			<a href="https://github.com/SzeMeng76">
+				<img src="https://avatars.githubusercontent.com/u/80573337?s=72&u=962ab52112eb8407f355e43b391f4ccaadfd3264&v=4" width="24" alt="Avatar of SzeMeng76"> SzeMeng76
 			</a><br/>
-			JuPeng
+			No Name
 		</td>
-		<td>Q3 Labs </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>296</td>
+		<td>Malaysia</td>
+		<td>280</td>
 	</tr>
 	<tr>
 		<td>102</td>
 		<td>
-			<a href="https://github.com/zhaolinlau">
-				<img src="https://avatars.githubusercontent.com/u/68846168?s=72&u=4766a8b82addc56f19d56091ee9321a266096b7c&v=4" width="24" alt="Avatar of zhaolinlau"> zhaolinlau
+			<a href="https://github.com/ragibkl">
+				<img src="https://avatars.githubusercontent.com/u/18181377?s=72&v=4" width="24" alt="Avatar of ragibkl"> ragibkl
 			</a><br/>
-			Zhaolin Lau
+			Ragib Badaruddin
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/zhaolinlau">zhaolinlau</a></td>
-		<td>Malaysia</td>
-		<td>295</td>
+		<td><a href="https://twitter.com/ragibkl">ragibkl</a></td>
+		<td>Kuala Lumpur</td>
+		<td>275</td>
 	</tr>
 	<tr>
 		<td>103</td>
 		<td>
-			<a href="https://github.com/junwen-k">
-				<img src="https://avatars.githubusercontent.com/u/40173716?s=72&u=b1f39f23f633143a6aaadf838f726092c42aa343&v=4" width="24" alt="Avatar of junwen-k"> junwen-k
+			<a href="https://github.com/kha7iq">
+				<img src="https://avatars.githubusercontent.com/u/79246862?s=72&u=601bda63c847b78e2a8931f266a350ec1526e3d5&v=4" width="24" alt="Avatar of kha7iq"> kha7iq
 			</a><br/>
-			Kwan Jun Wen
+			Khaliq
 		</td>
-		<td>No Company</td>
+		<td>Playstation </td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>293</td>
+		<td>Malaysia</td>
+		<td>270</td>
 	</tr>
 	<tr>
 		<td>104</td>
 		<td>
-			<a href="https://github.com/Jeffrey04">
-				<img src="https://avatars.githubusercontent.com/u/46977?s=72&v=4" width="24" alt="Avatar of Jeffrey04"> Jeffrey04
+			<a href="https://github.com/c4lyp5o">
+				<img src="https://avatars.githubusercontent.com/u/87253997?s=72&u=64aa5342ef5729de2002fc38e1e22c2fdd323789&v=4" width="24" alt="Avatar of c4lyp5o"> c4lyp5o
 			</a><br/>
-			Choon-Siang Lai
-		</td>
-		<td>Dahu Technology </td>
-		<td>No Twitter Username</td>
-		<td>Shah Alam, Selangor, Malaysia</td>
-		<td>289</td>
-	</tr>
-	<tr>
-		<td>105</td>
-		<td>
-			<a href="https://github.com/pokgak">
-				<img src="https://avatars.githubusercontent.com/u/20373062?s=72&u=955a4fdb4093c36cacfca6a10846c629841eb8a5&v=4" width="24" alt="Avatar of pokgak"> pokgak
-			</a><br/>
-			Aiman Ismail
+			Mohammad Aimaan
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>286</td>
+		<td>Dengkil, Malaysia</td>
+		<td>270</td>
 	</tr>
 	<tr>
-		<td>106</td>
+		<td>105</td>
 		<td>
 			<a href="https://github.com/teohhanhui">
 				<img src="https://avatars.githubusercontent.com/u/548843?s=72&v=4" width="24" alt="Avatar of teohhanhui"> teohhanhui
@@ -1480,7 +1467,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/teohhanhui">teohhanhui</a></td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>284</td>
+		<td>269</td>
+	</tr>
+	<tr>
+		<td>106</td>
+		<td>
+			<a href="https://github.com/raselworshop">
+				<img src="https://avatars.githubusercontent.com/u/174137192?s=72&u=497e2bc8e24f350619298babe977b4070a592239&v=4" width="24" alt="Avatar of raselworshop"> raselworshop
+			</a><br/>
+			Md Rasel Mia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>269</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -1493,270 +1493,23 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/xinghao2003">xinghao2003</a></td>
 		<td>Malaysia</td>
-		<td>278</td>
+		<td>268</td>
 	</tr>
 	<tr>
 		<td>108</td>
 		<td>
-			<a href="https://github.com/fathulfahmy">
-				<img src="https://avatars.githubusercontent.com/u/100550389?s=72&u=0455337ff993feef3ddad747270fe78fa586205c&v=4" width="24" alt="Avatar of fathulfahmy"> fathulfahmy
+			<a href="https://github.com/pokgak">
+				<img src="https://avatars.githubusercontent.com/u/20373062?s=72&u=955a4fdb4093c36cacfca6a10846c629841eb8a5&v=4" width="24" alt="Avatar of pokgak"> pokgak
 			</a><br/>
-			Fathul Fahmy
-		</td>
-		<td>Asiaquest </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>277</td>
-	</tr>
-	<tr>
-		<td>109</td>
-		<td>
-			<a href="https://github.com/LeeSinLiang">
-				<img src="https://avatars.githubusercontent.com/u/38833175?s=72&u=953b308cb926c329e10b1b124c9a8fdbf3e6ae06&v=4" width="24" alt="Avatar of LeeSinLiang"> LeeSinLiang
-			</a><br/>
-			Sin Liang Lee
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Selangor, Malaysia</td>
-		<td>277</td>
-	</tr>
-	<tr>
-		<td>110</td>
-		<td>
-			<a href="https://github.com/SzeMeng76">
-				<img src="https://avatars.githubusercontent.com/u/80573337?s=72&u=962ab52112eb8407f355e43b391f4ccaadfd3264&v=4" width="24" alt="Avatar of SzeMeng76"> SzeMeng76
-			</a><br/>
-			No Name
+			Aiman Ismail
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>276</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
-			<a href="https://github.com/Laikaiyong">
-				<img src="https://avatars.githubusercontent.com/u/76078213?s=72&u=51a41b89dd6122ded6e2dba26257072a988cc1f0&v=4" width="24" alt="Avatar of Laikaiyong"> Laikaiyong
-			</a><br/>
-			vandyck.lai
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>267</td>
-	</tr>
-	<tr>
-		<td>112</td>
-		<td>
-			<a href="https://github.com/si3nloong">
-				<img src="https://avatars.githubusercontent.com/u/28108597?s=72&u=92394581057c9c8d5b20ba4a415d42f83be382fc&v=4" width="24" alt="Avatar of si3nloong"> si3nloong
-			</a><br/>
-			Sian Loong
-		</td>
-		<td>Native Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
 		<td>266</td>
 	</tr>
 	<tr>
-		<td>113</td>
-		<td>
-			<a href="https://github.com/ExistCode">
-				<img src="https://avatars.githubusercontent.com/u/76140889?s=72&u=aaaea3e2c5f824f202dbf013c8e047151dac36d2&v=4" width="24" alt="Avatar of ExistCode"> ExistCode
-			</a><br/>
-			Hans Andreanto
-		</td>
-		<td>Juris Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Kuala lumpur</td>
-		<td>260</td>
-	</tr>
-	<tr>
-		<td>114</td>
-		<td>
-			<a href="https://github.com/christopher192">
-				<img src="https://avatars.githubusercontent.com/u/40853270?s=72&u=084a8a20b8f3ac90ac2164f7ef936eb817588847&v=4" width="24" alt="Avatar of christopher192"> christopher192
-			</a><br/>
-			Christopher Hu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>256</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/BLTC-520">
-				<img src="https://avatars.githubusercontent.com/u/125104831?s=72&u=74a2c5390fd0fd1299863c7aa0a25907b5dc03fc&v=4" width="24" alt="Avatar of BLTC-520"> BLTC-520
-			</a><br/>
-			Brian Har
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>250</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/ammarsaf">
-				<img src="https://avatars.githubusercontent.com/u/88831990?s=72&u=af95eea4f6019be3b3ead6a893cc290b6e5369a1&v=4" width="24" alt="Avatar of ammarsaf"> ammarsaf
-			</a><br/>
-			ammar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>249</td>
-	</tr>
-	<tr>
-		<td>117</td>
-		<td>
-			<a href="https://github.com/eteubert">
-				<img src="https://avatars.githubusercontent.com/u/235918?s=72&v=4" width="24" alt="Avatar of eteubert"> eteubert
-			</a><br/>
-			Eric Teubert
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>245</td>
-	</tr>
-	<tr>
-		<td>118</td>
-		<td>
-			<a href="https://github.com/cwkang1998">
-				<img src="https://avatars.githubusercontent.com/u/23054115?s=72&u=d55212bb26181ff2e0ee79e425dd0cce52ae9593&v=4" width="24" alt="Avatar of cwkang1998"> cwkang1998
-			</a><br/>
-			WenKang
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>243</td>
-	</tr>
-	<tr>
-		<td>119</td>
-		<td>
-			<a href="https://github.com/chungweileong94">
-				<img src="https://avatars.githubusercontent.com/u/15154097?s=72&u=13b1fb2bba294ff7623c2f91e741e49278a12fea&v=4" width="24" alt="Avatar of chungweileong94"> chungweileong94
-			</a><br/>
-			Chung Wei Leong
-		</td>
-		<td>White Room </td>
-		<td>No Twitter Username</td>
-		<td>Penang, Malaysia</td>
-		<td>239</td>
-	</tr>
-	<tr>
-		<td>120</td>
-		<td>
-			<a href="https://github.com/mseong123">
-				<img src="https://avatars.githubusercontent.com/u/35676562?s=72&u=21c770ffa62131fb9c2d6d231fdc87480ebf82f5&v=4" width="24" alt="Avatar of mseong123"> mseong123
-			</a><br/>
-			mseong
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>238</td>
-	</tr>
-	<tr>
-		<td>121</td>
-		<td>
-			<a href="https://github.com/ahmadhanis">
-				<img src="https://avatars.githubusercontent.com/u/36687333?s=72&u=a60bed39af96d239bbb2af891dc973cf1afd89fd&v=4" width="24" alt="Avatar of ahmadhanis"> ahmadhanis
-			</a><br/>
-			Ahmad Hanis
-		</td>
-		<td>Uum </td>
-		<td>No Twitter Username</td>
-		<td>UUM Sintok, Kedah, Malaysia</td>
-		<td>237</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
-			<a href="https://github.com/JasonKhew96">
-				<img src="https://avatars.githubusercontent.com/u/29531167?s=72&u=9e74a806ba1de80ceb547cdea2384c14d49498d6&v=4" width="24" alt="Avatar of JasonKhew96"> JasonKhew96
-			</a><br/>
-			Js0n
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia, Negeri Sembilan</td>
-		<td>237</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
-			<a href="https://github.com/LaiAnTan">
-				<img src="https://avatars.githubusercontent.com/u/61616854?s=72&u=fbcd59d8004b51c9df6cfd45245d3769be76516a&v=4" width="24" alt="Avatar of LaiAnTan"> LaiAnTan
-			</a><br/>
-			laian
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>237</td>
-	</tr>
-	<tr>
-		<td>124</td>
-		<td>
-			<a href="https://github.com/nashmuhandes">
-				<img src="https://avatars.githubusercontent.com/u/4926156?s=72&v=4" width="24" alt="Avatar of nashmuhandes"> nashmuhandes
-			</a><br/>
-			Nash Muhandes
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/NashMuhandes">NashMuhandes</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>232</td>
-	</tr>
-	<tr>
-		<td>125</td>
-		<td>
-			<a href="https://github.com/Amjad50">
-				<img src="https://avatars.githubusercontent.com/u/26300843?s=72&v=4" width="24" alt="Avatar of Amjad50"> Amjad50
-			</a><br/>
-			Amjad Alsharafi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>230</td>
-	</tr>
-	<tr>
-		<td>126</td>
-		<td>
-			<a href="https://github.com/Cyb3rDudu">
-				<img src="https://avatars.githubusercontent.com/u/49803228?s=72&u=ab579d3931a7b73027c51fd66f0583092941f6c2&v=4" width="24" alt="Avatar of Cyb3rDudu"> Cyb3rDudu
-			</a><br/>
-			dudu
-		</td>
-		<td>Catdev </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur </td>
-		<td>229</td>
-	</tr>
-	<tr>
-		<td>127</td>
-		<td>
-			<a href="https://github.com/kha7iq">
-				<img src="https://avatars.githubusercontent.com/u/79246862?s=72&u=601bda63c847b78e2a8931f266a350ec1526e3d5&v=4" width="24" alt="Avatar of kha7iq"> kha7iq
-			</a><br/>
-			Khaliq
-		</td>
-		<td>Playstation </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>227</td>
-	</tr>
-	<tr>
-		<td>128</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/limxuan">
 				<img src="https://avatars.githubusercontent.com/u/66986299?s=72&u=d81c91255d62f47894f5e7347098427cf90147da&v=4" width="24" alt="Avatar of limxuan"> limxuan
@@ -1766,88 +1519,140 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>225</td>
+		<td>262</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>110</td>
 		<td>
-			<a href="https://github.com/LinThitHtwe">
-				<img src="https://avatars.githubusercontent.com/u/106507721?s=72&u=5c7265016424f1c8a0e3fa75e8f4832c8ad250de&v=4" width="24" alt="Avatar of LinThitHtwe"> LinThitHtwe
+			<a href="https://github.com/aditiapratama">
+				<img src="https://avatars.githubusercontent.com/u/982553?s=72&u=b6b8d14048cf19d601ac4e2cbb5df48a03e34627&v=4" width="24" alt="Avatar of aditiapratama"> aditiapratama
 			</a><br/>
-			Lin Thit
+			Aditia A. Pratama
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nilai, Malaysia</td>
-		<td>225</td>
-	</tr>
-	<tr>
-		<td>130</td>
-		<td>
-			<a href="https://github.com/bheatleyyy">
-				<img src="https://avatars.githubusercontent.com/u/83747297?s=72&v=4" width="24" alt="Avatar of bheatleyyy"> bheatleyyy
-			</a><br/>
-			Sugakesshaa
-		</td>
-		<td>@pixelos-aosp </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>224</td>
-	</tr>
-	<tr>
-		<td>131</td>
-		<td>
-			<a href="https://github.com/dukefirehawk">
-				<img src="https://avatars.githubusercontent.com/u/2887776?s=72&u=28433480651ab2359aaaed6405cec2808eb5db37&v=4" width="24" alt="Avatar of dukefirehawk"> dukefirehawk
-			</a><br/>
-			Thomas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>221</td>
-	</tr>
-	<tr>
-		<td>132</td>
-		<td>
-			<a href="https://github.com/XPH0816">
-				<img src="https://avatars.githubusercontent.com/u/50739818?s=72&u=13a2fae01a05ba0ab01d85dd807b29c539b949fd&v=4" width="24" alt="Avatar of XPH0816"> XPH0816
-			</a><br/>
-			Song
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>219</td>
-	</tr>
-	<tr>
-		<td>133</td>
-		<td>
-			<a href="https://github.com/faw01">
-				<img src="https://avatars.githubusercontent.com/u/102456616?s=72&u=c064d193067fbf94e22a14ec7fb28f04a32e757b&v=4" width="24" alt="Avatar of faw01"> faw01
-			</a><br/>
-			faw
-		</td>
-		<td>Cleve.ai </td>
-		<td>No Twitter Username</td>
-		<td>kuala lumpur</td>
-		<td>218</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
-			<a href="https://github.com/raunakkathuria">
-				<img src="https://avatars.githubusercontent.com/u/2534747?s=72&v=4" width="24" alt="Avatar of raunakkathuria"> raunakkathuria
-			</a><br/>
-			Raunak Kathuria
-		</td>
-		<td>@deriv-enterprise  </td>
-		<td>No Twitter Username</td>
+		<td>@monstastudios </td>
+		<td><a href="https://twitter.com/aditia_ap">aditia_ap</a></td>
 		<td>Cyberjaya, Malaysia</td>
-		<td>216</td>
+		<td>262</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>111</td>
+		<td>
+			<a href="https://github.com/ahmadhanis">
+				<img src="https://avatars.githubusercontent.com/u/36687333?s=72&u=a60bed39af96d239bbb2af891dc973cf1afd89fd&v=4" width="24" alt="Avatar of ahmadhanis"> ahmadhanis
+			</a><br/>
+			Ahmad Hanis
+		</td>
+		<td>Uum </td>
+		<td>No Twitter Username</td>
+		<td>UUM Sintok, Kedah, Malaysia</td>
+		<td>261</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td>
+			<a href="https://github.com/junwen-k">
+				<img src="https://avatars.githubusercontent.com/u/40173716?s=72&u=b1f39f23f633143a6aaadf838f726092c42aa343&v=4" width="24" alt="Avatar of junwen-k"> junwen-k
+			</a><br/>
+			Kwan Jun Wen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>261</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
+			<a href="https://github.com/kyziq">
+				<img src="https://avatars.githubusercontent.com/u/77775117?s=72&u=ffc6ce44f95072775ace2023f6c07d60d57cbc93&v=4" width="24" alt="Avatar of kyziq"> kyziq
+			</a><br/>
+			Khairul Haziq
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kyziqqq">kyziqqq</a></td>
+		<td>Malaysia</td>
+		<td>259</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td>
+			<a href="https://github.com/fahmizainal17">
+				<img src="https://avatars.githubusercontent.com/u/116262995?s=72&u=ff00e19781776b0b5b0658bb16a94384e11e823f&v=4" width="24" alt="Avatar of fahmizainal17"> fahmizainal17
+			</a><br/>
+			Fahmi Zainal
+		</td>
+		<td>Excelerate Asia/invoke </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>253</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
+			<a href="https://github.com/christopher192">
+				<img src="https://avatars.githubusercontent.com/u/40853270?s=72&u=084a8a20b8f3ac90ac2164f7ef936eb817588847&v=4" width="24" alt="Avatar of christopher192"> christopher192
+			</a><br/>
+			Christopher Hu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>245</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td>
+			<a href="https://github.com/Amjad50">
+				<img src="https://avatars.githubusercontent.com/u/26300843?s=72&v=4" width="24" alt="Avatar of Amjad50"> Amjad50
+			</a><br/>
+			Amjad Alsharafi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>245</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>
+			<a href="https://github.com/tanghoong">
+				<img src="https://avatars.githubusercontent.com/u/4799387?s=72&u=8ccee8e0381bd16a07fa5b9dc5609c4ca86b916e&v=4" width="24" alt="Avatar of tanghoong"> tanghoong
+			</a><br/>
+			Charlie
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tanghoong_">tanghoong_</a></td>
+		<td>Malaysia</td>
+		<td>240</td>
+	</tr>
+	<tr>
+		<td>118</td>
+		<td>
+			<a href="https://github.com/ammarsaf">
+				<img src="https://avatars.githubusercontent.com/u/88831990?s=72&u=af95eea4f6019be3b3ead6a893cc290b6e5369a1&v=4" width="24" alt="Avatar of ammarsaf"> ammarsaf
+			</a><br/>
+			ammar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>240</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
+			<a href="https://github.com/solahidris">
+				<img src="https://avatars.githubusercontent.com/u/36721459?s=72&u=a8b1d294e8fe54c44c2b706bbe3abcd712d2d724&v=4" width="24" alt="Avatar of solahidris"> solahidris
+			</a><br/>
+			Sol
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/solahidris_">solahidris_</a></td>
+		<td>Malaysia</td>
+		<td>237</td>
+	</tr>
+	<tr>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/msulaimanmisri">
 				<img src="https://avatars.githubusercontent.com/u/47172118?s=72&u=e5811b03b8535ac65182969bfea82c43c5677422&v=4" width="24" alt="Avatar of msulaimanmisri"> msulaimanmisri
@@ -1857,36 +1662,36 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur</td>
-		<td>215</td>
+		<td>227</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>121</td>
 		<td>
-			<a href="https://github.com/ynshung">
-				<img src="https://avatars.githubusercontent.com/u/61302840?s=72&u=75b8b60df6ae8289cea4400f9369120c0ff15012&v=4" width="24" alt="Avatar of ynshung"> ynshung
+			<a href="https://github.com/Gajeee">
+				<img src="https://avatars.githubusercontent.com/u/155935914?s=72&u=12d5b2777baa63933514cbec204042adb4bdcfe7&v=4" width="24" alt="Avatar of Gajeee"> Gajeee
 			</a><br/>
-			Young Shung
+			Gajee
+		</td>
+		<td>Uniten </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>225</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>
+			<a href="https://github.com/dukefirehawk">
+				<img src="https://avatars.githubusercontent.com/u/2887776?s=72&u=28433480651ab2359aaaed6405cec2808eb5db37&v=4" width="24" alt="Avatar of dukefirehawk"> dukefirehawk
+			</a><br/>
+			Thomas
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>214</td>
+		<td>224</td>
 	</tr>
 	<tr>
-		<td>137</td>
-		<td>
-			<a href="https://github.com/addisonschultz">
-				<img src="https://avatars.githubusercontent.com/u/42930383?s=72&u=759d01d33ab33a0d0d333561c329bfa05147e992&v=4" width="24" alt="Avatar of addisonschultz"> addisonschultz
-			</a><br/>
-			Addison
-		</td>
-		<td>@gitbookio </td>
-		<td><a href="https://twitter.com/addisonschultz">addisonschultz</a></td>
-		<td>Tokyo / Amsterdam / Kuala Lumpur</td>
-		<td>212</td>
-	</tr>
-	<tr>
-		<td>138</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/xk2800">
 				<img src="https://avatars.githubusercontent.com/u/59243836?s=72&u=55812efbacb8ffb775f564ccbed7afa06669ec0f&v=4" width="24" alt="Avatar of xk2800"> xk2800
@@ -1896,10 +1701,127 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>@upstackstudio </td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>212</td>
+		<td>223</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>124</td>
+		<td>
+			<a href="https://github.com/Thevesh">
+				<img src="https://avatars.githubusercontent.com/u/16397572?s=72&u=eb67345b067444b40fbc99e694280969018521ee&v=4" width="24" alt="Avatar of Thevesh"> Thevesh
+			</a><br/>
+			Thevesh Theva
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Thevesh">Thevesh</a></td>
+		<td>Kuala Lumpur</td>
+		<td>221</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
+			<a href="https://github.com/chungweileong94">
+				<img src="https://avatars.githubusercontent.com/u/15154097?s=72&u=13b1fb2bba294ff7623c2f91e741e49278a12fea&v=4" width="24" alt="Avatar of chungweileong94"> chungweileong94
+			</a><br/>
+			Chung Wei Leong
+		</td>
+		<td>White Room </td>
+		<td><a href="https://twitter.com/ChungWeiLeong">ChungWeiLeong</a></td>
+		<td>Penang, Malaysia</td>
+		<td>221</td>
+	</tr>
+	<tr>
+		<td>126</td>
+		<td>
+			<a href="https://github.com/addisonschultz">
+				<img src="https://avatars.githubusercontent.com/u/42930383?s=72&u=759d01d33ab33a0d0d333561c329bfa05147e992&v=4" width="24" alt="Avatar of addisonschultz"> addisonschultz
+			</a><br/>
+			Addison
+		</td>
+		<td>@gitbookio </td>
+		<td><a href="https://twitter.com/addisonschultz">addisonschultz</a></td>
+		<td>Tokyo / Amsterdam / Kuala Lumpur</td>
+		<td>219</td>
+	</tr>
+	<tr>
+		<td>127</td>
+		<td>
+			<a href="https://github.com/nashmuhandes">
+				<img src="https://avatars.githubusercontent.com/u/4926156?s=72&v=4" width="24" alt="Avatar of nashmuhandes"> nashmuhandes
+			</a><br/>
+			Nash Muhandes
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/NashMuhandes">NashMuhandes</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>218</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
+			<a href="https://github.com/Laikaiyong">
+				<img src="https://avatars.githubusercontent.com/u/76078213?s=72&u=51a41b89dd6122ded6e2dba26257072a988cc1f0&v=4" width="24" alt="Avatar of Laikaiyong"> Laikaiyong
+			</a><br/>
+			vandyck.lai
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>217</td>
+	</tr>
+	<tr>
+		<td>129</td>
+		<td>
+			<a href="https://github.com/fathulfahmy">
+				<img src="https://avatars.githubusercontent.com/u/100550389?s=72&u=0455337ff993feef3ddad747270fe78fa586205c&v=4" width="24" alt="Avatar of fathulfahmy"> fathulfahmy
+			</a><br/>
+			Fathul Fahmy
+		</td>
+		<td>Asiaquest </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>214</td>
+	</tr>
+	<tr>
+		<td>130</td>
+		<td>
+			<a href="https://github.com/cwkang1998">
+				<img src="https://avatars.githubusercontent.com/u/23054115?s=72&u=d55212bb26181ff2e0ee79e425dd0cce52ae9593&v=4" width="24" alt="Avatar of cwkang1998"> cwkang1998
+			</a><br/>
+			WenKang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>214</td>
+	</tr>
+	<tr>
+		<td>131</td>
+		<td>
+			<a href="https://github.com/AdaniKamal">
+				<img src="https://avatars.githubusercontent.com/u/44063862?s=72&u=5542e66afbabd45390bf83b466e8656ef85147d4&v=4" width="24" alt="Avatar of AdaniKamal"> AdaniKamal
+			</a><br/>
+			AdaniKamal
+		</td>
+		<td>Hobby </td>
+		<td><a href="https://twitter.com/my_r3in3">my_r3in3</a></td>
+		<td>Malaysia</td>
+		<td>210</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>
+			<a href="https://github.com/myndaaa">
+				<img src="https://avatars.githubusercontent.com/u/127163546?s=72&u=fa5be408c795a0044e82e239ed86ace5795e71f7&v=4" width="24" alt="Avatar of myndaaa"> myndaaa
+			</a><br/>
+			myndaaa
+		</td>
+		<td>Swinburne University Of Technology<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>210</td>
+	</tr>
+	<tr>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/josepcurto">
 				<img src="https://avatars.githubusercontent.com/u/7433343?s=72&u=8f8ca6a4d7dcd434a3b3bd3f199fbe6786e6c8a9&v=4" width="24" alt="Avatar of josepcurto"> josepcurto
@@ -1909,140 +1831,114 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Athenacore </td>
 		<td><a href="https://twitter.com/josepcurto">josepcurto</a></td>
 		<td>Malaysia</td>
-		<td>211</td>
+		<td>208</td>
+	</tr>
+	<tr>
+		<td>134</td>
+		<td>
+			<a href="https://github.com/kaerumy">
+				<img src="https://avatars.githubusercontent.com/u/1060743?s=72&v=4" width="24" alt="Avatar of kaerumy"> kaerumy
+			</a><br/>
+			Khairil Yusof
+		</td>
+		<td>Sinar Project </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>207</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
+			<a href="https://github.com/sattiyans">
+				<img src="https://avatars.githubusercontent.com/u/52833600?s=72&u=718eaad413fd04952a27a33b07936ac92f1a51d5&v=4" width="24" alt="Avatar of sattiyans"> sattiyans
+			</a><br/>
+			Sattiyan Selvarajah
+		</td>
+		<td>@dotkod </td>
+		<td><a href="https://twitter.com/sattiyans">sattiyans</a></td>
+		<td>Kuala Lumpur, MY</td>
+		<td>206</td>
+	</tr>
+	<tr>
+		<td>136</td>
+		<td>
+			<a href="https://github.com/faw01">
+				<img src="https://avatars.githubusercontent.com/u/102456616?s=72&u=c064d193067fbf94e22a14ec7fb28f04a32e757b&v=4" width="24" alt="Avatar of faw01"> faw01
+			</a><br/>
+			faw
+		</td>
+		<td>Cleve.ai </td>
+		<td>No Twitter Username</td>
+		<td>kuala lumpur</td>
+		<td>205</td>
+	</tr>
+	<tr>
+		<td>137</td>
+		<td>
+			<a href="https://github.com/mseong123">
+				<img src="https://avatars.githubusercontent.com/u/35676562?s=72&u=21c770ffa62131fb9c2d6d231fdc87480ebf82f5&v=4" width="24" alt="Avatar of mseong123"> mseong123
+			</a><br/>
+			mseong
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>203</td>
+	</tr>
+	<tr>
+		<td>138</td>
+		<td>
+			<a href="https://github.com/raunakkathuria">
+				<img src="https://avatars.githubusercontent.com/u/2534747?s=72&v=4" width="24" alt="Avatar of raunakkathuria"> raunakkathuria
+			</a><br/>
+			Raunak Kathuria
+		</td>
+		<td>@deriv-enterprise  </td>
+		<td>No Twitter Username</td>
+		<td>Cyberjaya, Malaysia</td>
+		<td>200</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>
+			<a href="https://github.com/rashidi">
+				<img src="https://avatars.githubusercontent.com/u/380073?s=72&u=058471ffcf27303e8ad780d4aa440b6d29b26660&v=4" width="24" alt="Avatar of rashidi"> rashidi
+			</a><br/>
+			Rashidi Zin
+		</td>
+		<td>@ezypay-pty-ltd  </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>196</td>
 	</tr>
 	<tr>
 		<td>140</td>
 		<td>
-			<a href="https://github.com/tanchekwei">
-				<img src="https://avatars.githubusercontent.com/u/26683979?s=72&u=ca0d114823bd3c4dcfe42867f56387b3b1ba8d9f&v=4" width="24" alt="Avatar of tanchekwei"> tanchekwei
+			<a href="https://github.com/ExistCode">
+				<img src="https://avatars.githubusercontent.com/u/76140889?s=72&u=aaaea3e2c5f824f202dbf013c8e047151dac36d2&v=4" width="24" alt="Avatar of ExistCode"> ExistCode
 			</a><br/>
-			Chek Wei Tan
+			Hans Andreanto
 		</td>
-		<td>No Company</td>
+		<td>Juris Technologies </td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>210</td>
+		<td>Kuala lumpur</td>
+		<td>195</td>
 	</tr>
 	<tr>
 		<td>141</td>
 		<td>
-			<a href="https://github.com/iChun">
-				<img src="https://avatars.githubusercontent.com/u/2298444?s=72&v=4" width="24" alt="Avatar of iChun"> iChun
+			<a href="https://github.com/afrieirham">
+				<img src="https://avatars.githubusercontent.com/u/32460534?s=72&u=f269797675eabfad4a1a286499c5732a443bc933&v=4" width="24" alt="Avatar of afrieirham"> afrieirham
 			</a><br/>
-			iChun
+			Afrie Irham
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>207</td>
+		<td>@chipasia  </td>
+		<td><a href="https://twitter.com/afrieirham_">afrieirham_</a></td>
+		<td>Kuala Lumpur</td>
+		<td>193</td>
 	</tr>
 	<tr>
 		<td>142</td>
-		<td>
-			<a href="https://github.com/c4lyp5o">
-				<img src="https://avatars.githubusercontent.com/u/87253997?s=72&u=64aa5342ef5729de2002fc38e1e22c2fdd323789&v=4" width="24" alt="Avatar of c4lyp5o"> c4lyp5o
-			</a><br/>
-			Mohammad Aimaan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dengkil, Malaysia</td>
-		<td>207</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/hsayed21">
-				<img src="https://avatars.githubusercontent.com/u/47378309?s=72&u=35e64edf44ac629015e02718e61876195a910069&v=4" width="24" alt="Avatar of hsayed21"> hsayed21
-			</a><br/>
-			Hamada Sayed
-		</td>
-		<td>@posbank.me </td>
-		<td><a href="https://twitter.com/hsayedhamed">hsayedhamed</a></td>
-		<td>Malaysia</td>
-		<td>207</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
-			<a href="https://github.com/yudhiesh">
-				<img src="https://avatars.githubusercontent.com/u/55042754?s=72&u=906030b46e6e09e1d30459b0dea7e45f802ccd7c&v=4" width="24" alt="Avatar of yudhiesh"> yudhiesh
-			</a><br/>
-			Yudhiesh Ravindranath
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur </td>
-		<td>205</td>
-	</tr>
-	<tr>
-		<td>145</td>
-		<td>
-			<a href="https://github.com/kk666679">
-				<img src="https://avatars.githubusercontent.com/u/180330512?s=72&u=5e2057a5711a7a9e5e34b1d6bb75b9ecd4ab5dd6&v=4" width="24" alt="Avatar of kk666679"> kk666679
-			</a><br/>
-			Kurnia Kadir
-		</td>
-		<td>Halalchain </td>
-		<td><a href="https://twitter.com/kmtuah">kmtuah</a></td>
-		<td>Kuala Lumpur</td>
-		<td>205</td>
-	</tr>
-	<tr>
-		<td>146</td>
-		<td>
-			<a href="https://github.com/vrnsky">
-				<img src="https://avatars.githubusercontent.com/u/19514058?s=72&u=02d9950fc18e810b8244527b80515078acc3c7ef&v=4" width="24" alt="Avatar of vrnsky"> vrnsky
-			</a><br/>
-			Egor Voronianskii
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/VoronyanskyE">VoronyanskyE</a></td>
-		<td>Selangor, Malaysia</td>
-		<td>197</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
-			<a href="https://github.com/bxra2">
-				<img src="https://avatars.githubusercontent.com/u/55817909?s=72&u=0e954fad21eb1da384db622d09dc66922d59a366&v=4" width="24" alt="Avatar of bxra2"> bxra2
-			</a><br/>
-			Bartek
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>194</td>
-	</tr>
-	<tr>
-		<td>148</td>
-		<td>
-			<a href="https://github.com/AnthonyLaw">
-				<img src="https://avatars.githubusercontent.com/u/5649156?s=72&u=3c34986538d5bda4a4404d0b09f210eb25063469&v=4" width="24" alt="Avatar of AnthonyLaw"> AnthonyLaw
-			</a><br/>
-			Anthony Law
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Anthony14w">Anthony14w</a></td>
-		<td>Malaysia</td>
-		<td>192</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
-			<a href="https://github.com/Syammed2429">
-				<img src="https://avatars.githubusercontent.com/u/43319549?s=72&u=90d90f30d4ff37d5189c06c1a0e3f3b7aadad19c&v=4" width="24" alt="Avatar of Syammed2429"> Syammed2429
-			</a><br/>
-			Dada Khalandar
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Kerry14066781">Kerry14066781</a></td>
-		<td>Malaysia</td>
-		<td>192</td>
-	</tr>
-	<tr>
-		<td>150</td>
 		<td>
 			<a href="https://github.com/mdsohelmia">
 				<img src="https://avatars.githubusercontent.com/u/40440531?s=72&u=2e2bb0b9cde103cb7c0d993eae2322276a03afd7&v=4" width="24" alt="Avatar of mdsohelmia"> mdsohelmia
@@ -2052,36 +1948,62 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Tenbyte Sdn Bhd </td>
 		<td><a href="https://twitter.com/sohelcse1999">sohelcse1999</a></td>
 		<td>Kuala Lumpur,Malaysia</td>
-		<td>189</td>
+		<td>193</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>143</td>
 		<td>
-			<a href="https://github.com/emomeni">
-				<img src="https://avatars.githubusercontent.com/u/6424128?s=72&u=1a9e9984dee2e7f917c1e8d7bf1e551b3928b3da&v=4" width="24" alt="Avatar of emomeni"> emomeni
+			<a href="https://github.com/SadmanYasar">
+				<img src="https://avatars.githubusercontent.com/u/67522140?s=72&u=871b6bd2184fb1dcb6c0edc03ebb51c8f353cb5b&v=4" width="24" alt="Avatar of SadmanYasar"> SadmanYasar
 			</a><br/>
-			Ehsan Momeni Bashusqeh
+			Sadman Yasar Sayem
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sadmanyasar_">sadmanyasar_</a></td>
+		<td>Johor Bahru, Malaysia</td>
+		<td>193</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
+			<a href="https://github.com/eteubert">
+				<img src="https://avatars.githubusercontent.com/u/235918?s=72&v=4" width="24" alt="Avatar of eteubert"> eteubert
+			</a><br/>
+			Eric Teubert
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>188</td>
-	</tr>
-	<tr>
-		<td>152</td>
-		<td>
-			<a href="https://github.com/CharaeKeow">
-				<img src="https://avatars.githubusercontent.com/u/34004186?s=72&u=f1189878a2a1df7d6fb4c0c656bda997c9e5a7ac&v=4" width="24" alt="Avatar of CharaeKeow"> CharaeKeow
-			</a><br/>
-			CharaeKeow
-		</td>
-		<td>@unienrol </td>
-		<td><a href="https://twitter.com/charae_keow">charae_keow</a></td>
 		<td>Malaysia</td>
-		<td>187</td>
+		<td>192</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>145</td>
+		<td>
+			<a href="https://github.com/zhaolinlau">
+				<img src="https://avatars.githubusercontent.com/u/68846168?s=72&u=4766a8b82addc56f19d56091ee9321a266096b7c&v=4" width="24" alt="Avatar of zhaolinlau"> zhaolinlau
+			</a><br/>
+			Zhaolin Lau
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/zhaolinlau">zhaolinlau</a></td>
+		<td>Malaysia</td>
+		<td>192</td>
+	</tr>
+	<tr>
+		<td>146</td>
+		<td>
+			<a href="https://github.com/JasonKhew96">
+				<img src="https://avatars.githubusercontent.com/u/29531167?s=72&u=9e74a806ba1de80ceb547cdea2384c14d49498d6&v=4" width="24" alt="Avatar of JasonKhew96"> JasonKhew96
+			</a><br/>
+			Js0n
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia, Negeri Sembilan</td>
+		<td>191</td>
+	</tr>
+	<tr>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/Jaironlanda">
 				<img src="https://avatars.githubusercontent.com/u/7873044?s=72&u=74fcbd7d7d311ef487f29bffee7cb9bbe5a6f727&v=4" width="24" alt="Avatar of Jaironlanda"> Jaironlanda
@@ -2094,20 +2016,46 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>187</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>148</td>
 		<td>
-			<a href="https://github.com/philip-khor">
-				<img src="https://avatars.githubusercontent.com/u/35039795?s=72&u=e25de0897cb687f8e7efd4c09f9a0b9ea5adf190&v=4" width="24" alt="Avatar of philip-khor"> philip-khor
+			<a href="https://github.com/Ganthology">
+				<img src="https://avatars.githubusercontent.com/u/18641991?s=72&u=5f7cc0494c43f15c81f61c7166e591b0d6e63990&v=4" width="24" alt="Avatar of Ganthology"> Ganthology
 			</a><br/>
-			Philip Khor
+			Ray Gan Boon Kit
 		</td>
-		<td>Sustenyx </td>
+		<td>Ryt Bank </td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>184</td>
+		<td>187</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>149</td>
+		<td>
+			<a href="https://github.com/ynshung">
+				<img src="https://avatars.githubusercontent.com/u/61302840?s=72&u=75b8b60df6ae8289cea4400f9369120c0ff15012&v=4" width="24" alt="Avatar of ynshung"> ynshung
+			</a><br/>
+			Young Shung
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>186</td>
+	</tr>
+	<tr>
+		<td>150</td>
+		<td>
+			<a href="https://github.com/LaiAnTan">
+				<img src="https://avatars.githubusercontent.com/u/61616854?s=72&u=fbcd59d8004b51c9df6cfd45245d3769be76516a&v=4" width="24" alt="Avatar of LaiAnTan"> LaiAnTan
+			</a><br/>
+			laian
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>186</td>
+	</tr>
+	<tr>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/naimkatiman">
 				<img src="https://avatars.githubusercontent.com/u/157269711?s=72&u=eab0c328c27d494e3815060cd648dfb9dc492df8&v=4" width="24" alt="Avatar of naimkatiman"> naimkatiman
@@ -2117,23 +2065,62 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Rm Investment Bank Ltd<br/></td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
+		<td>184</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>
+			<a href="https://github.com/bxra2">
+				<img src="https://avatars.githubusercontent.com/u/55817909?s=72&u=0e954fad21eb1da384db622d09dc66922d59a366&v=4" width="24" alt="Avatar of bxra2"> bxra2
+			</a><br/>
+			Bartek
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>183</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
+			<a href="https://github.com/bheatleyyy">
+				<img src="https://avatars.githubusercontent.com/u/83747297?s=72&v=4" width="24" alt="Avatar of bheatleyyy"> bheatleyyy
+			</a><br/>
+			Sugakesshaa
+		</td>
+		<td>@pixelos-aosp </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>181</td>
+	</tr>
+	<tr>
+		<td>154</td>
+		<td>
+			<a href="https://github.com/kidino">
+				<img src="https://avatars.githubusercontent.com/u/1450433?s=72&v=4" width="24" alt="Avatar of kidino"> kidino
+			</a><br/>
+			Iszuddin Ismail
+		</td>
+		<td>Taming Tech Sdn Bhd<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>155</td>
 		<td>
-			<a href="https://github.com/clarencelol">
-				<img src="https://avatars.githubusercontent.com/u/76221463?s=72&u=07510cf6f40e7e09967b9c49ea8c2ce9472c8e13&v=4" width="24" alt="Avatar of clarencelol"> clarencelol
+			<a href="https://github.com/alienxp03">
+				<img src="https://avatars.githubusercontent.com/u/672704?s=72&u=8fcf1015dda1a078992bb9ed8496eec815532756&v=4" width="24" alt="Avatar of alienxp03"> alienxp03
 			</a><br/>
-			Clarence K
+			Azuan
 		</td>
-		<td>@shapeshiftos @project-fluid @tequilaos </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>UniMAP, Malaysia</td>
-		<td>179</td>
+		<td>Kuala Lumpur</td>
+		<td>178</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/ngaisteve1">
 				<img src="https://avatars.githubusercontent.com/u/21274590?s=72&u=a55c2495c46619f83e3f48edccf3ae98c15c93c1&v=4" width="24" alt="Avatar of ngaisteve1"> ngaisteve1
@@ -2146,683 +2133,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>178</td>
 	</tr>
 	<tr>
-		<td>158</td>
-		<td>
-			<a href="https://github.com/Thevesh">
-				<img src="https://avatars.githubusercontent.com/u/16397572?s=72&u=eb67345b067444b40fbc99e694280969018521ee&v=4" width="24" alt="Avatar of Thevesh"> Thevesh
-			</a><br/>
-			Thevesh Theva
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Thevesh">Thevesh</a></td>
-		<td>Kuala Lumpur</td>
-		<td>177</td>
-	</tr>
-	<tr>
-		<td>159</td>
-		<td>
-			<a href="https://github.com/ronylee11">
-				<img src="https://avatars.githubusercontent.com/u/64385071?s=72&u=424a8501f3815732fd5c424b27822ac70d6158e9&v=4" width="24" alt="Avatar of ronylee11"> ronylee11
-			</a><br/>
-			Rony Lee
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/rongyil33">rongyil33</a></td>
-		<td>Malaysia</td>
-		<td>177</td>
-	</tr>
-	<tr>
-		<td>160</td>
-		<td>
-			<a href="https://github.com/leechiahwa">
-				<img src="https://avatars.githubusercontent.com/u/126877680?s=72&u=61d4f28299a4e263090a6b268ca68458c3b3200b&v=4" width="24" alt="Avatar of leechiahwa"> leechiahwa
-			</a><br/>
-			Melvin Lee
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>175</td>
-	</tr>
-	<tr>
-		<td>161</td>
-		<td>
-			<a href="https://github.com/darwishathibi">
-				<img src="https://avatars.githubusercontent.com/u/119912350?s=72&u=db019fa3e0bf47fec141002c399ed7c40ab8f2c1&v=4" width="24" alt="Avatar of darwishathibi"> darwishathibi
-			</a><br/>
-			Darwis Shathibi
-		</td>
-		<td>Iium </td>
-		<td><a href="https://twitter.com/darwishathibi">darwishathibi</a></td>
-		<td>Malaysia</td>
-		<td>175</td>
-	</tr>
-	<tr>
-		<td>162</td>
-		<td>
-			<a href="https://github.com/SadmanYasar">
-				<img src="https://avatars.githubusercontent.com/u/67522140?s=72&u=871b6bd2184fb1dcb6c0edc03ebb51c8f353cb5b&v=4" width="24" alt="Avatar of SadmanYasar"> SadmanYasar
-			</a><br/>
-			Sadman Yasar Sayem
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sadmanyasar_">sadmanyasar_</a></td>
-		<td>Johor Bahru, Malaysia</td>
-		<td>175</td>
-	</tr>
-	<tr>
-		<td>163</td>
-		<td>
-			<a href="https://github.com/hassanfuad96">
-				<img src="https://avatars.githubusercontent.com/u/78142117?s=72&u=44684c6eec9eae9c0df4064309dc2a277592b413&v=4" width="24" alt="Avatar of hassanfuad96"> hassanfuad96
-			</a><br/>
-			Hassan Fuad
-		</td>
-		<td>@udex-media  </td>
-		<td><a href="https://twitter.com/mhassanfuad">mhassanfuad</a></td>
-		<td>Malaysia</td>
-		<td>174</td>
-	</tr>
-	<tr>
-		<td>164</td>
-		<td>
-			<a href="https://github.com/afrieirham">
-				<img src="https://avatars.githubusercontent.com/u/32460534?s=72&u=f269797675eabfad4a1a286499c5732a443bc933&v=4" width="24" alt="Avatar of afrieirham"> afrieirham
-			</a><br/>
-			Afrie Irham
-		</td>
-		<td>@chipasia  </td>
-		<td><a href="https://twitter.com/afrieirham_">afrieirham_</a></td>
-		<td>Kuala Lumpur</td>
-		<td>172</td>
-	</tr>
-	<tr>
-		<td>165</td>
-		<td>
-			<a href="https://github.com/hadiulofficial">
-				<img src="https://avatars.githubusercontent.com/u/75871974?s=72&u=63cdad0e39f8e47e3b5adfc1e1608b48866a2c62&v=4" width="24" alt="Avatar of hadiulofficial"> hadiulofficial
-			</a><br/>
-			Hadiul Islam
-		</td>
-		<td>@automatio-co  </td>
-		<td>No Twitter Username</td>
-		<td>Kualalumpur, Malaysia</td>
-		<td>172</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/kidino">
-				<img src="https://avatars.githubusercontent.com/u/1450433?s=72&v=4" width="24" alt="Avatar of kidino"> kidino
-			</a><br/>
-			Iszuddin Ismail
-		</td>
-		<td>Taming Tech Sdn Bhd<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>171</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/kaerumy">
-				<img src="https://avatars.githubusercontent.com/u/1060743?s=72&v=4" width="24" alt="Avatar of kaerumy"> kaerumy
-			</a><br/>
-			Khairil Yusof
-		</td>
-		<td>Sinar Project </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>171</td>
-	</tr>
-	<tr>
-		<td>168</td>
-		<td>
-			<a href="https://github.com/nuzulfikrie">
-				<img src="https://avatars.githubusercontent.com/u/5245744?s=72&u=3963c9b225a07bdb96681a1b0b667d40d244be9f&v=4" width="24" alt="Avatar of nuzulfikrie"> nuzulfikrie
-			</a><br/>
-			nuzulFikrie
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia | indonesia | Singapore</td>
-		<td>169</td>
-	</tr>
-	<tr>
-		<td>169</td>
-		<td>
-			<a href="https://github.com/qiangqiang101">
-				<img src="https://avatars.githubusercontent.com/u/11488961?s=72&u=d9cd6d74237127b63b1698fc1887c23b792d613f&v=4" width="24" alt="Avatar of qiangqiang101"> qiangqiang101
-			</a><br/>
-			Bartholomew Ho
-		</td>
-		<td>Zettabyte Technology </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>166</td>
-	</tr>
-	<tr>
-		<td>170</td>
-		<td>
-			<a href="https://github.com/damithkothalawala">
-				<img src="https://avatars.githubusercontent.com/u/8252891?s=72&u=df78626f31f8ce5cd4bda4d7ebe889ab3f1eec39&v=4" width="24" alt="Avatar of damithkothalawala"> damithkothalawala
-			</a><br/>
-			Damith Rushika Kothalawala
-		</td>
-		<td>@oracle </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>166</td>
-	</tr>
-	<tr>
-		<td>171</td>
-		<td>
-			<a href="https://github.com/Annytech001">
-				<img src="https://avatars.githubusercontent.com/u/117596977?s=72&u=ba2c9e34a3e6b2cfa85f24318c26412b794344b2&v=4" width="24" alt="Avatar of Annytech001"> Annytech001
-			</a><br/>
-			Glory Bassey
-		</td>
-		<td>Amk Group </td>
-		<td><a href="https://twitter.com/glozanta001">glozanta001</a></td>
-		<td>Malaysia </td>
-		<td>165</td>
-	</tr>
-	<tr>
-		<td>172</td>
-		<td>
-			<a href="https://github.com/kwongtn">
-				<img src="https://avatars.githubusercontent.com/u/5886584?s=72&u=8ff471f4fad434a2ac8a0a0621eec3c1ec838d7e&v=4" width="24" alt="Avatar of kwongtn"> kwongtn
-			</a><br/>
-			KwongTN
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Subang Jaya, Selangor, Malaysia.</td>
-		<td>165</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
-			<a href="https://github.com/daniel-shuy">
-				<img src="https://avatars.githubusercontent.com/u/17351764?s=72&v=4" width="24" alt="Avatar of daniel-shuy"> daniel-shuy
-			</a><br/>
-			Daniel Shuy
-		</td>
-		<td>Sicpa </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>163</td>
-	</tr>
-	<tr>
-		<td>174</td>
-		<td>
-			<a href="https://github.com/neosizzle">
-				<img src="https://avatars.githubusercontent.com/u/44501267?s=72&u=a21f5977246dc8599b9f14e657b03d7d044aaa31&v=4" width="24" alt="Avatar of neosizzle"> neosizzle
-			</a><br/>
-			Jun Han Ng
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>161</td>
-	</tr>
-	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/Ricky0625">
-				<img src="https://avatars.githubusercontent.com/u/75558748?s=72&u=c64eeb16c0947962725552e872cd8eb1fafc2738&v=4" width="24" alt="Avatar of Ricky0625"> Ricky0625
-			</a><br/>
-			Rickyyyy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>160</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/alienxp03">
-				<img src="https://avatars.githubusercontent.com/u/672704?s=72&u=8fcf1015dda1a078992bb9ed8496eec815532756&v=4" width="24" alt="Avatar of alienxp03"> alienxp03
-			</a><br/>
-			Azuan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>159</td>
-	</tr>
-	<tr>
-		<td>177</td>
-		<td>
-			<a href="https://github.com/sealw4ll">
-				<img src="https://avatars.githubusercontent.com/u/61623069?s=72&u=ee52e078b87cf3a0851ed1b9c85175eddff5c798&v=4" width="24" alt="Avatar of sealw4ll"> sealw4ll
-			</a><br/>
-			Wallace Ting
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>158</td>
-	</tr>
-	<tr>
-		<td>178</td>
-		<td>
-			<a href="https://github.com/fvtrx">
-				<img src="https://avatars.githubusercontent.com/u/48309262?s=72&u=1e802ce7a8c2509a12f697c528b046e89c81fa77&v=4" width="24" alt="Avatar of fvtrx"> fvtrx
-			</a><br/>
-			Abdullah Fitri
-		</td>
-		<td>Ryt Bank </td>
-		<td><a href="https://twitter.com/fvtrx">fvtrx</a></td>
-		<td>Kuala Lumpur</td>
 		<td>157</td>
-	</tr>
-	<tr>
-		<td>179</td>
-		<td>
-			<a href="https://github.com/superoo7">
-				<img src="https://avatars.githubusercontent.com/u/15358452?s=72&u=62545654ed8691c0fa5706f35979ef323e84a937&v=4" width="24" alt="Avatar of superoo7"> superoo7
-			</a><br/>
-			Johnson
-		</td>
-		<td>@chromindscan </td>
-		<td><a href="https://twitter.com/jlwhoo7">jlwhoo7</a></td>
-		<td>Malaysia</td>
-		<td>153</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
-			<a href="https://github.com/salimi-my">
-				<img src="https://avatars.githubusercontent.com/u/55532224?s=72&u=d4ae90070cf62932e6f15ae63b008b3ad77ddcea&v=4" width="24" alt="Avatar of salimi-my"> salimi-my
-			</a><br/>
-			Salimi
-		</td>
-		<td>@smarttechtank </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>153</td>
-	</tr>
-	<tr>
-		<td>181</td>
-		<td>
-			<a href="https://github.com/MiraBellierr">
-				<img src="https://avatars.githubusercontent.com/u/56716823?s=72&u=03a63de37b6ba2378f45cb8ca84d9da7f2a932f8&v=4" width="24" alt="Avatar of MiraBellierr"> MiraBellierr
-			</a><br/>
-			Mirabellier
-		</td>
-		<td>Unimas </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>152</td>
-	</tr>
-	<tr>
-		<td>182</td>
-		<td>
-			<a href="https://github.com/wanadzhar913">
-				<img src="https://avatars.githubusercontent.com/u/88019612?s=72&u=1834911572b393a16e55feaef592d9edd2f2aefc&v=4" width="24" alt="Avatar of wanadzhar913"> wanadzhar913
-			</a><br/>
-			Faiq Adzlan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>W. P. Kuala Lumpur, Malaysia</td>
-		<td>151</td>
-	</tr>
-	<tr>
-		<td>183</td>
-		<td>
-			<a href="https://github.com/sean0205">
-				<img src="https://avatars.githubusercontent.com/u/102940?s=72&u=22f673c2017968a9ef1affa373df2ea674043c2d&v=4" width="24" alt="Avatar of sean0205"> sean0205
-			</a><br/>
-			Sean
-		</td>
-		<td>Keenthemes Inc </td>
-		<td><a href="https://twitter.com/shuxer">shuxer</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>151</td>
-	</tr>
-	<tr>
-		<td>184</td>
-		<td>
-			<a href="https://github.com/talentedunicorn">
-				<img src="https://avatars.githubusercontent.com/u/904501?s=72&u=cafaa64b4ccd51e9e63f0134fc80721985dd69a0&v=4" width="24" alt="Avatar of talentedunicorn"> talentedunicorn
-			</a><br/>
-			Eze
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>150</td>
-	</tr>
-	<tr>
-		<td>185</td>
-		<td>
-			<a href="https://github.com/samadtalukder">
-				<img src="https://avatars.githubusercontent.com/u/7585069?s=72&u=fb2135586c5e42ddaf81703ab2f69f1b8492b39b&v=4" width="24" alt="Avatar of samadtalukder"> samadtalukder
-			</a><br/>
-			Samad Talukder
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>149</td>
-	</tr>
-	<tr>
-		<td>186</td>
-		<td>
-			<a href="https://github.com/tnwei">
-				<img src="https://avatars.githubusercontent.com/u/12769364?s=72&u=8a82de1b7de993834d492ceb7e51c6601fdfd0eb&v=4" width="24" alt="Avatar of tnwei"> tnwei
-			</a><br/>
-			No Name
-		</td>
-		<td>Rosarylabs.ai </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>149</td>
-	</tr>
-	<tr>
-		<td>187</td>
-		<td>
-			<a href="https://github.com/Ganthology">
-				<img src="https://avatars.githubusercontent.com/u/18641991?s=72&u=5f7cc0494c43f15c81f61c7166e591b0d6e63990&v=4" width="24" alt="Avatar of Ganthology"> Ganthology
-			</a><br/>
-			Ray Gan Boon Kit
-		</td>
-		<td>Ryt Bank </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>147</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a href="https://github.com/tanghoong">
-				<img src="https://avatars.githubusercontent.com/u/4799387?s=72&u=8ccee8e0381bd16a07fa5b9dc5609c4ca86b916e&v=4" width="24" alt="Avatar of tanghoong"> tanghoong
-			</a><br/>
-			Charlie
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tanghoong_">tanghoong_</a></td>
-		<td>Malaysia</td>
-		<td>145</td>
-	</tr>
-	<tr>
-		<td>189</td>
-		<td>
-			<a href="https://github.com/jerrychong25">
-				<img src="https://avatars.githubusercontent.com/u/15714095?s=72&u=4b28e2425732acccf41fcf880b7775222019b6d6&v=4" width="24" alt="Avatar of jerrychong25"> jerrychong25
-			</a><br/>
-			Jerry Chong
-		</td>
-		<td>Dhl </td>
-		<td><a href="https://twitter.com/jerrychong25">jerrychong25</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>144</td>
-	</tr>
-	<tr>
-		<td>190</td>
-		<td>
-			<a href="https://github.com/ragibkl">
-				<img src="https://avatars.githubusercontent.com/u/18181377?s=72&v=4" width="24" alt="Avatar of ragibkl"> ragibkl
-			</a><br/>
-			Ragib Badaruddin
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ragibkl">ragibkl</a></td>
-		<td>Kuala Lumpur</td>
-		<td>143</td>
-	</tr>
-	<tr>
-		<td>191</td>
-		<td>
-			<a href="https://github.com/sattiyans">
-				<img src="https://avatars.githubusercontent.com/u/52833600?s=72&u=718eaad413fd04952a27a33b07936ac92f1a51d5&v=4" width="24" alt="Avatar of sattiyans"> sattiyans
-			</a><br/>
-			Sattiyan Selvarajah
-		</td>
-		<td>@dotkod </td>
-		<td><a href="https://twitter.com/sattiyans">sattiyans</a></td>
-		<td>Kuala Lumpur, MY</td>
-		<td>141</td>
-	</tr>
-	<tr>
-		<td>192</td>
-		<td>
-			<a href="https://github.com/rudzainy">
-				<img src="https://avatars.githubusercontent.com/u/13617437?s=72&u=6196db1a8216e2c36813e44023a1e74189b2740d&v=4" width="24" alt="Avatar of rudzainy"> rudzainy
-			</a><br/>
-			Rudzainy Rahman
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/rudzainy">rudzainy</a></td>
-		<td>Kuala Lumpur</td>
-		<td>140</td>
-	</tr>
-	<tr>
-		<td>193</td>
-		<td>
-			<a href="https://github.com/kenfai">
-				<img src="https://avatars.githubusercontent.com/u/3436468?s=72&u=4756cc75f60d519bf800994f18cf32cddb70433f&v=4" width="24" alt="Avatar of kenfai"> kenfai
-			</a><br/>
-			KenFai
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ngkenfai">ngkenfai</a></td>
-		<td>Malaysia</td>
-		<td>139</td>
-	</tr>
-	<tr>
-		<td>194</td>
-		<td>
-			<a href="https://github.com/tengku-hanis">
-				<img src="https://avatars.githubusercontent.com/u/38757591?s=72&u=df64e631c7cc9b480ff293e02721962030f82abd&v=4" width="24" alt="Avatar of tengku-hanis"> tengku-hanis
-			</a><br/>
-			Tengku Hanis
-		</td>
-		<td>Unisza </td>
-		<td><a href="https://twitter.com/tmhanis">tmhanis</a></td>
-		<td>Terengganu, Malaysia</td>
-		<td>139</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
-			<a href="https://github.com/sdil">
-				<img src="https://avatars.githubusercontent.com/u/461537?s=72&u=f238e1d87dde720c5df0e6cd6f7ebb30b4fdcca5&v=4" width="24" alt="Avatar of sdil"> sdil
-			</a><br/>
-			Mohamad Fadhil
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sdil">sdil</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>138</td>
-	</tr>
-	<tr>
-		<td>196</td>
-		<td>
-			<a href="https://github.com/Ruhul-Quddus-Tamim">
-				<img src="https://avatars.githubusercontent.com/u/86849949?s=72&u=54c117b90f1862429e8e3250f47ae63d93f8774d&v=4" width="24" alt="Avatar of Ruhul-Quddus-Tamim"> Ruhul-Quddus-Tamim
-			</a><br/>
-			Tamim
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur </td>
-		<td>136</td>
-	</tr>
-	<tr>
-		<td>197</td>
-		<td>
-			<a href="https://github.com/joelgoh15">
-				<img src="https://avatars.githubusercontent.com/u/147377225?s=72&u=cd7395278ea654e3643c6f016c6cf1f4dba37ba6&v=4" width="24" alt="Avatar of joelgoh15"> joelgoh15
-			</a><br/>
-			Joel Goh Chong Hui
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>133</td>
-	</tr>
-	<tr>
-		<td>198</td>
-		<td>
-			<a href="https://github.com/lawweiliang">
-				<img src="https://avatars.githubusercontent.com/u/34936929?s=72&u=b6fb6ef5ba9efc42e516186c0d3190b865c2afea&v=4" width="24" alt="Avatar of lawweiliang"> lawweiliang
-			</a><br/>
-			LAW WEI LIANG 
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/lawweiliang">lawweiliang</a></td>
-		<td>Malaysia</td>
-		<td>132</td>
-	</tr>
-	<tr>
-		<td>199</td>
-		<td>
-			<a href="https://github.com/Kemi-Oluwadahunsi">
-				<img src="https://avatars.githubusercontent.com/u/137022041?s=72&u=c650e9d833776093c255fb78bfab3f3421784654&v=4" width="24" alt="Avatar of Kemi-Oluwadahunsi"> Kemi-Oluwadahunsi
-			</a><br/>
-			Oluwakemi Oluwadahunsi
-		</td>
-		<td>Kodemaven </td>
-		<td><a href="https://twitter.com/km_oluwadahunsi">km_oluwadahunsi</a></td>
-		<td>Malaysia, Nigeria</td>
-		<td>132</td>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/justinwkUKM">
-				<img src="https://avatars.githubusercontent.com/u/20006026?s=72&u=decd882a78758816b0863e40e0842da3d0d224ea&v=4" width="24" alt="Avatar of justinwkUKM"> justinwkUKM
-			</a><br/>
-			Waqas Khalid Obeidy
-		</td>
-		<td>Paynet </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>132</td>
-	</tr>
-	<tr>
-		<td>201</td>
-		<td>
-			<a href="https://github.com/byte">
-				<img src="https://avatars.githubusercontent.com/u/61067?s=72&u=9f42f271b66e92750f12b3140b0383dd2dfda941&v=4" width="24" alt="Avatar of byte"> byte
-			</a><br/>
-			Colin Charles
-		</td>
-		<td>Grok </td>
-		<td><a href="https://twitter.com/bytebot">bytebot</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>131</td>
-	</tr>
-	<tr>
-		<td>202</td>
-		<td>
-			<a href="https://github.com/DavidJonahSivaruban">
-				<img src="https://avatars.githubusercontent.com/u/110078587?s=72&u=566f2ec91d87f83e636c1ab330bf24aeac14aec3&v=4" width="24" alt="Avatar of DavidJonahSivaruban"> DavidJonahSivaruban
-			</a><br/>
-			David Jonah 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>131</td>
-	</tr>
-	<tr>
-		<td>203</td>
-		<td>
-			<a href="https://github.com/sycanz">
-				<img src="https://avatars.githubusercontent.com/u/119921047?s=72&u=6c1d1372a2be70668301ace3838c0de8644c2fea&v=4" width="24" alt="Avatar of sycanz"> sycanz
-			</a><br/>
-			Aiden
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Selangor, Malaysia</td>
-		<td>131</td>
-	</tr>
-	<tr>
-		<td>204</td>
-		<td>
-			<a href="https://github.com/barzin144">
-				<img src="https://avatars.githubusercontent.com/u/22778135?s=72&u=b33a938b271182eeecb773ee28d99be4aa9fdc72&v=4" width="24" alt="Avatar of barzin144"> barzin144
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>130</td>
-	</tr>
-	<tr>
-		<td>205</td>
-		<td>
-			<a href="https://github.com/Zuhu162">
-				<img src="https://avatars.githubusercontent.com/u/53121149?s=72&u=bbf99466030ddae3290fc7c2576427e8f1517fee&v=4" width="24" alt="Avatar of Zuhu162"> Zuhu162
-			</a><br/>
-			Zuhayer Adnan Siddique
-		</td>
-		<td>Dhl Asia Pacific Shared<br/>Services<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>130</td>
-	</tr>
-	<tr>
-		<td>206</td>
-		<td>
-			<a href="https://github.com/rsoo23">
-				<img src="https://avatars.githubusercontent.com/u/81731553?s=72&u=166cdd8d48bbb115863d104fd21705fdf8e6b2d4&v=4" width="24" alt="Avatar of rsoo23"> rsoo23
-			</a><br/>
-			Soo Rong Jie
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Selangor, Malaysia</td>
-		<td>130</td>
-	</tr>
-	<tr>
-		<td>207</td>
-		<td>
-			<a href="https://github.com/idinium96">
-				<img src="https://avatars.githubusercontent.com/u/47635037?s=72&u=3df4b13620a944897faf6ed1b6c1e790f03e7f72&v=4" width="24" alt="Avatar of idinium96"> idinium96
-			</a><br/>
-			IdiNium
-		</td>
-		<td>@tf2autobot </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>130</td>
-	</tr>
-	<tr>
-		<td>208</td>
-		<td>
-			<a href="https://github.com/ali-commits">
-				<img src="https://avatars.githubusercontent.com/u/18226328?s=72&u=52a5d3da5b03bb674bbabde395dc6c068b779f39&v=4" width="24" alt="Avatar of ali-commits"> ali-commits
-			</a><br/>
-			Ali Alrabeei
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia </td>
-		<td>128</td>
-	</tr>
-	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/Flakky">
-				<img src="https://avatars.githubusercontent.com/u/9094898?s=72&u=35e9d404465a6f1e8f851842018987788bcd64de&v=4" width="24" alt="Avatar of Flakky"> Flakky
-			</a><br/>
-			Alexander Blintsov
-		</td>
-		<td>Enraven </td>
-		<td><a href="https://twitter.com/AlFlakky">AlFlakky</a></td>
-		<td>Kuala Lumpur</td>
-		<td>128</td>
-	</tr>
-	<tr>
-		<td>210</td>
 		<td>
 			<a href="https://github.com/tylim88">
 				<img src="https://avatars.githubusercontent.com/u/5227509?s=72&u=bb95727b626d693ae8d25d4b4a730ed160b8b386&v=4" width="24" alt="Avatar of tylim88"> tylim88
@@ -2832,114 +2143,179 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>127</td>
+		<td>176</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>158</td>
 		<td>
-			<a href="https://github.com/ismi-abbas">
-				<img src="https://avatars.githubusercontent.com/u/77921975?s=72&u=ed724696789e6f0cb093071284b554e366bc3cf4&v=4" width="24" alt="Avatar of ismi-abbas"> ismi-abbas
+			<a href="https://github.com/hadiulofficial">
+				<img src="https://avatars.githubusercontent.com/u/75871974?s=72&u=e0cb16d3d302555a39ce129d33305dcf19c37160&v=4" width="24" alt="Avatar of hadiulofficial"> hadiulofficial
 			</a><br/>
-			Abbas
+			Hadiul Islam
 		</td>
-		<td>Ismi-abbas.co </td>
-		<td><a href="https://twitter.com/ismiabbas_">ismiabbas_</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>127</td>
+		<td>@automatio-co  </td>
+		<td>No Twitter Username</td>
+		<td>Kualalumpur, Malaysia</td>
+		<td>175</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>159</td>
 		<td>
-			<a href="https://github.com/VAggrippino">
-				<img src="https://avatars.githubusercontent.com/u/195491?s=72&u=5932eed88d79e9a6988e8d5b07962d4ff5d17cb7&v=4" width="24" alt="Avatar of VAggrippino"> VAggrippino
+			<a href="https://github.com/damithkothalawala">
+				<img src="https://avatars.githubusercontent.com/u/8252891?s=72&u=df78626f31f8ce5cd4bda4d7ebe889ab3f1eec39&v=4" width="24" alt="Avatar of damithkothalawala"> damithkothalawala
 			</a><br/>
-			Vince Aggrippino
+			Damith Rushika Kothalawala
+		</td>
+		<td>@oracle </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>175</td>
+	</tr>
+	<tr>
+		<td>160</td>
+		<td>
+			<a href="https://github.com/AnthonyLaw">
+				<img src="https://avatars.githubusercontent.com/u/5649156?s=72&u=3c34986538d5bda4a4404d0b09f210eb25063469&v=4" width="24" alt="Avatar of AnthonyLaw"> AnthonyLaw
+			</a><br/>
+			Anthony Law
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>East Greenbush, NY or Kota Kinabalu, Sabah, Malaysia</td>
-		<td>127</td>
+		<td><a href="https://twitter.com/Anthony14w">Anthony14w</a></td>
+		<td>Malaysia</td>
+		<td>173</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>161</td>
 		<td>
-			<a href="https://github.com/omiq17">
-				<img src="https://avatars.githubusercontent.com/u/14343228?s=72&u=c2eb7b5845e9d924489e6134cb7bc735ca94ca6b&v=4" width="24" alt="Avatar of omiq17"> omiq17
+			<a href="https://github.com/nekoprog">
+				<img src="https://avatars.githubusercontent.com/u/2550618?s=72&v=4" width="24" alt="Avatar of nekoprog"> nekoprog
 			</a><br/>
-			Rakib Hasann
+			Neko Prog
 		</td>
-		<td>No Company</td>
+		<td>@fytz-my  </td>
 		<td>No Twitter Username</td>
+		<td>Mersing, Johor, Malaysia</td>
+		<td>172</td>
+	</tr>
+	<tr>
+		<td>162</td>
+		<td>
+			<a href="https://github.com/sean0205">
+				<img src="https://avatars.githubusercontent.com/u/102940?s=72&u=22f673c2017968a9ef1affa373df2ea674043c2d&v=4" width="24" alt="Avatar of sean0205"> sean0205
+			</a><br/>
+			Sean
+		</td>
+		<td>Keenthemes Inc </td>
+		<td><a href="https://twitter.com/shuxer">shuxer</a></td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>125</td>
+		<td>167</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>163</td>
 		<td>
-			<a href="https://github.com/JasonTanz">
-				<img src="https://avatars.githubusercontent.com/u/65846113?s=72&u=ecbc13f4d151011acde3476df2e001915cc47127&v=4" width="24" alt="Avatar of JasonTanz"> JasonTanz
+			<a href="https://github.com/justinwkUKM">
+				<img src="https://avatars.githubusercontent.com/u/20006026?s=72&u=decd882a78758816b0863e40e0842da3d0d224ea&v=4" width="24" alt="Avatar of justinwkUKM"> justinwkUKM
 			</a><br/>
-			Jason Tan
+			Waqas Khalid Obeidy
 		</td>
-		<td>Moneylion </td>
+		<td>Paynet </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur</td>
-		<td>125</td>
+		<td>167</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>164</td>
 		<td>
-			<a href="https://github.com/poig">
-				<img src="https://avatars.githubusercontent.com/u/43441314?s=72&u=60162bbd30291d5e4ff1b99330958095f46d8b9e&v=4" width="24" alt="Avatar of poig"> poig
+			<a href="https://github.com/rudzainy">
+				<img src="https://avatars.githubusercontent.com/u/13617437?s=72&u=6196db1a8216e2c36813e44023a1e74189b2740d&v=4" width="24" alt="Avatar of rudzainy"> rudzainy
 			</a><br/>
-			Tan Jun Liang
+			Rudzainy Rahman
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/LaoliangPoig">LaoliangPoig</a></td>
-		<td>Malaysia</td>
-		<td>124</td>
+		<td><a href="https://twitter.com/rudzainy">rudzainy</a></td>
+		<td>Kuala Lumpur</td>
+		<td>166</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>165</td>
 		<td>
-			<a href="https://github.com/Hazqeel09">
-				<img src="https://avatars.githubusercontent.com/u/33782405?s=72&u=f756af58d163dca93aafe0063d8eccee4b43316e&v=4" width="24" alt="Avatar of Hazqeel09"> Hazqeel09
+			<a href="https://github.com/kk666679">
+				<img src="https://avatars.githubusercontent.com/u/180330512?s=72&u=5e2057a5711a7a9e5e34b1d6bb75b9ecd4ab5dd6&v=4" width="24" alt="Avatar of kk666679"> kk666679
 			</a><br/>
-			Hazqeel Afyq
+			Kurnia Kadir
 		</td>
-		<td>Cynco </td>
+		<td>Halalchain </td>
+		<td><a href="https://twitter.com/kmtuah">kmtuah</a></td>
+		<td>Kuala Lumpur</td>
+		<td>166</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
+			<a href="https://github.com/yudhiesh">
+				<img src="https://avatars.githubusercontent.com/u/55042754?s=72&u=906030b46e6e09e1d30459b0dea7e45f802ccd7c&v=4" width="24" alt="Avatar of yudhiesh"> yudhiesh
+			</a><br/>
+			Yudhiesh Ravindranath
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur </td>
+		<td>161</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>
+			<a href="https://github.com/Jeffrey04">
+				<img src="https://avatars.githubusercontent.com/u/46977?s=72&v=4" width="24" alt="Avatar of Jeffrey04"> Jeffrey04
+			</a><br/>
+			Choon-Siang Lai
+		</td>
+		<td>Dahu Technology </td>
+		<td>No Twitter Username</td>
+		<td>Shah Alam, Selangor, Malaysia</td>
+		<td>159</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
+			<a href="https://github.com/qiangqiang101">
+				<img src="https://avatars.githubusercontent.com/u/11488961?s=72&u=d9cd6d74237127b63b1698fc1887c23b792d613f&v=4" width="24" alt="Avatar of qiangqiang101"> qiangqiang101
+			</a><br/>
+			Bartholomew Ho
+		</td>
+		<td>Zettabyte Technology </td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>123</td>
+		<td>158</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>169</td>
 		<td>
-			<a href="https://github.com/kematzy">
-				<img src="https://avatars.githubusercontent.com/u/6571?s=72&v=4" width="24" alt="Avatar of kematzy"> kematzy
+			<a href="https://github.com/justin8ty">
+				<img src="https://avatars.githubusercontent.com/u/87443293?s=72&u=46ae12c0364bc670c1d1d3e3bea24ea2dbef7c9f&v=4" width="24" alt="Avatar of justin8ty"> justin8ty
 			</a><br/>
-			Kematzy
+			Justin Tan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>157</td>
+	</tr>
+	<tr>
+		<td>170</td>
+		<td>
+			<a href="https://github.com/emomeni">
+				<img src="https://avatars.githubusercontent.com/u/6424128?s=72&u=1a9e9984dee2e7f917c1e8d7bf1e551b3928b3da&v=4" width="24" alt="Avatar of emomeni"> emomeni
+			</a><br/>
+			Ehsan Momeni Bashusqeh
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>122</td>
+		<td>156</td>
 	</tr>
 	<tr>
-		<td>218</td>
-		<td>
-			<a href="https://github.com/noman404">
-				<img src="https://avatars.githubusercontent.com/u/5913235?s=72&u=bcc607b31a2cd65c12ac88de02c01d60d0769a1e&v=4" width="24" alt="Avatar of noman404"> noman404
-			</a><br/>
-			Al Noman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala lumpur, Malaysia</td>
-		<td>122</td>
-	</tr>
-	<tr>
-		<td>219</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/askbard">
 				<img src="https://avatars.githubusercontent.com/u/18548269?s=72&u=d1e2d314d3ce060ef73fb33f1db1d281eee573a4&v=4" width="24" alt="Avatar of askbard"> askbard
@@ -2949,62 +2325,166 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Universiti Malaya </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur</td>
-		<td>122</td>
+		<td>156</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>172</td>
 		<td>
-			<a href="https://github.com/InspectorGadget">
-				<img src="https://avatars.githubusercontent.com/u/20971020?s=72&u=4b35901954c41052e9c76d37046da631e2101be0&v=4" width="24" alt="Avatar of InspectorGadget"> InspectorGadget
+			<a href="https://github.com/fvtrx">
+				<img src="https://avatars.githubusercontent.com/u/48309262?s=72&u=1e802ce7a8c2509a12f697c528b046e89c81fa77&v=4" width="24" alt="Avatar of fvtrx"> fvtrx
 			</a><br/>
-			RTG™
+			Abdullah Fitri
+		</td>
+		<td>Ryt Bank </td>
+		<td><a href="https://twitter.com/fvtrx">fvtrx</a></td>
+		<td>Kuala Lumpur</td>
+		<td>154</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>
+			<a href="https://github.com/ronylee11">
+				<img src="https://avatars.githubusercontent.com/u/64385071?s=72&u=424a8501f3815732fd5c424b27822ac70d6158e9&v=4" width="24" alt="Avatar of ronylee11"> ronylee11
+			</a><br/>
+			Rony Lee
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>120</td>
+		<td><a href="https://twitter.com/rongyil33">rongyil33</a></td>
+		<td>Malaysia</td>
+		<td>150</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>174</td>
 		<td>
-			<a href="https://github.com/jasonkwm">
-				<img src="https://avatars.githubusercontent.com/u/32697686?s=72&u=366d32a2a72d84eca257d440b7c5f876c414ba92&v=4" width="24" alt="Avatar of jasonkwm"> jasonkwm
+			<a href="https://github.com/poig">
+				<img src="https://avatars.githubusercontent.com/u/43441314?s=72&u=60162bbd30291d5e4ff1b99330958095f46d8b9e&v=4" width="24" alt="Avatar of poig"> poig
 			</a><br/>
-			Jason Koh
+			Tan Jun Liang
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/LaoliangPoig">LaoliangPoig</a></td>
+		<td>Malaysia</td>
+		<td>149</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
+			<a href="https://github.com/addff">
+				<img src="https://avatars.githubusercontent.com/u/39934467?s=72&u=95515eb29d4c3ddfb353dd8161b57ef247291914&v=4" width="24" alt="Avatar of addff"> addff
+			</a><br/>
+			Shahadan Bin Saad
+		</td>
+		<td>Universiti Teknologi Mara </td>
+		<td>No Twitter Username</td>
+		<td>Jasin, Malaysia</td>
+		<td>149</td>
+	</tr>
+	<tr>
+		<td>176</td>
+		<td>
+			<a href="https://github.com/hsayed21">
+				<img src="https://avatars.githubusercontent.com/u/47378309?s=72&u=35e64edf44ac629015e02718e61876195a910069&v=4" width="24" alt="Avatar of hsayed21"> hsayed21
+			</a><br/>
+			Hamada Sayed
+		</td>
+		<td>@posbank.me </td>
+		<td><a href="https://twitter.com/hsayedhamed">hsayedhamed</a></td>
+		<td>Malaysia</td>
+		<td>148</td>
+	</tr>
+	<tr>
+		<td>177</td>
+		<td>
+			<a href="https://github.com/mujahidfa">
+				<img src="https://avatars.githubusercontent.com/u/17759705?s=72&u=c81bbb71e3d79a511dcd47a6733921b8f63c454c&v=4" width="24" alt="Avatar of mujahidfa"> mujahidfa
+			</a><br/>
+			Mujahid Anuar
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mujahid_fa">mujahid_fa</a></td>
+		<td>Malaysia</td>
+		<td>145</td>
+	</tr>
+	<tr>
+		<td>178</td>
+		<td>
+			<a href="https://github.com/Syammed2429">
+				<img src="https://avatars.githubusercontent.com/u/43319549?s=72&u=90d90f30d4ff37d5189c06c1a0e3f3b7aadad19c&v=4" width="24" alt="Avatar of Syammed2429"> Syammed2429
+			</a><br/>
+			Dada Khalandar
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Kerry14066781">Kerry14066781</a></td>
+		<td>Malaysia</td>
+		<td>145</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
+			<a href="https://github.com/Annytech001">
+				<img src="https://avatars.githubusercontent.com/u/117596977?s=72&u=ba2c9e34a3e6b2cfa85f24318c26412b794344b2&v=4" width="24" alt="Avatar of Annytech001"> Annytech001
+			</a><br/>
+			Glory Bassey
+		</td>
+		<td>Amk Group </td>
+		<td><a href="https://twitter.com/glozanta001">glozanta001</a></td>
+		<td>Malaysia </td>
+		<td>143</td>
+	</tr>
+	<tr>
+		<td>180</td>
+		<td>
+			<a href="https://github.com/CharaeKeow">
+				<img src="https://avatars.githubusercontent.com/u/34004186?s=72&u=f1189878a2a1df7d6fb4c0c656bda997c9e5a7ac&v=4" width="24" alt="Avatar of CharaeKeow"> CharaeKeow
+			</a><br/>
+			CharaeKeow
+		</td>
+		<td>@unienrol </td>
+		<td><a href="https://twitter.com/charae_keow">charae_keow</a></td>
+		<td>Malaysia</td>
+		<td>142</td>
+	</tr>
+	<tr>
+		<td>181</td>
+		<td>
+			<a href="https://github.com/samadtalukder">
+				<img src="https://avatars.githubusercontent.com/u/7585069?s=72&u=fb2135586c5e42ddaf81703ab2f69f1b8492b39b&v=4" width="24" alt="Avatar of samadtalukder"> samadtalukder
+			</a><br/>
+			Samad Talukder
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>120</td>
+		<td>140</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>182</td>
 		<td>
-			<a href="https://github.com/sujaypillai">
-				<img src="https://avatars.githubusercontent.com/u/3936714?s=72&v=4" width="24" alt="Avatar of sujaypillai"> sujaypillai
+			<a href="https://github.com/raj-khan">
+				<img src="https://avatars.githubusercontent.com/u/27042520?s=72&u=0d3236ebf10bee8ea0263978438c4a311c61b2d1&v=4" width="24" alt="Avatar of raj-khan"> raj-khan
 			</a><br/>
-			Sujay Pillai
+			Meher Ullah Khan Raj
 		</td>
-		<td>Microsoft </td>
-		<td><a href="https://twitter.com/sujaypillai">sujaypillai</a></td>
+		<td>@snappymob </td>
+		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>117</td>
+		<td>140</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>183</td>
 		<td>
-			<a href="https://github.com/rhidoyhasanmahmud">
-				<img src="https://avatars.githubusercontent.com/u/21336974?s=72&u=6202ca25df5fd95e8f1ff4adf8360b6f09d99c5e&v=4" width="24" alt="Avatar of rhidoyhasanmahmud"> rhidoyhasanmahmud
+			<a href="https://github.com/kenfai">
+				<img src="https://avatars.githubusercontent.com/u/3436468?s=72&u=4756cc75f60d519bf800994f18cf32cddb70433f&v=4" width="24" alt="Avatar of kenfai"> kenfai
 			</a><br/>
-			Hasan Mahmud Rhidoy
+			KenFai
 		</td>
-		<td>@moneylion </td>
-		<td><a href="https://twitter.com/RhidoyMahmud">RhidoyMahmud</a></td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ngkenfai">ngkenfai</a></td>
 		<td>Malaysia</td>
-		<td>116</td>
+		<td>138</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/u007">
 				<img src="https://avatars.githubusercontent.com/u/388813?s=72&u=609176be3e1226d41bd07e564863b04ddd638328&v=4" width="24" alt="Avatar of u007"> u007
@@ -3014,23 +2494,478 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/bcrap">bcrap</a></td>
 		<td>kuala lumpur, malaysia</td>
+		<td>138</td>
+	</tr>
+	<tr>
+		<td>185</td>
+		<td>
+			<a href="https://github.com/LinThitHtwe">
+				<img src="https://avatars.githubusercontent.com/u/106507721?s=72&u=5c7265016424f1c8a0e3fa75e8f4832c8ad250de&v=4" width="24" alt="Avatar of LinThitHtwe"> LinThitHtwe
+			</a><br/>
+			Lin Thit
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nilai, Malaysia</td>
+		<td>136</td>
+	</tr>
+	<tr>
+		<td>186</td>
+		<td>
+			<a href="https://github.com/XPH0816">
+				<img src="https://avatars.githubusercontent.com/u/50739818?s=72&u=13a2fae01a05ba0ab01d85dd807b29c539b949fd&v=4" width="24" alt="Avatar of XPH0816"> XPH0816
+			</a><br/>
+			Song
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>135</td>
+	</tr>
+	<tr>
+		<td>187</td>
+		<td>
+			<a href="https://github.com/InspectorGadget">
+				<img src="https://avatars.githubusercontent.com/u/20971020?s=72&u=4b35901954c41052e9c76d37046da631e2101be0&v=4" width="24" alt="Avatar of InspectorGadget"> InspectorGadget
+			</a><br/>
+			RTG™
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>134</td>
+	</tr>
+	<tr>
+		<td>188</td>
+		<td>
+			<a href="https://github.com/idinium96">
+				<img src="https://avatars.githubusercontent.com/u/47635037?s=72&u=3df4b13620a944897faf6ed1b6c1e790f03e7f72&v=4" width="24" alt="Avatar of idinium96"> idinium96
+			</a><br/>
+			IdiNium
+		</td>
+		<td>@tf2autobot </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>134</td>
+	</tr>
+	<tr>
+		<td>189</td>
+		<td>
+			<a href="https://github.com/omiq17">
+				<img src="https://avatars.githubusercontent.com/u/14343228?s=72&u=c2eb7b5845e9d924489e6134cb7bc735ca94ca6b&v=4" width="24" alt="Avatar of omiq17"> omiq17
+			</a><br/>
+			Rakib Hasann
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>131</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
+			<a href="https://github.com/lawweiliang">
+				<img src="https://avatars.githubusercontent.com/u/34936929?s=72&u=b6fb6ef5ba9efc42e516186c0d3190b865c2afea&v=4" width="24" alt="Avatar of lawweiliang"> lawweiliang
+			</a><br/>
+			LAW WEI LIANG 
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/lawweiliang">lawweiliang</a></td>
+		<td>Malaysia</td>
+		<td>130</td>
+	</tr>
+	<tr>
+		<td>191</td>
+		<td>
+			<a href="https://github.com/ali-commits">
+				<img src="https://avatars.githubusercontent.com/u/18226328?s=72&u=52a5d3da5b03bb674bbabde395dc6c068b779f39&v=4" width="24" alt="Avatar of ali-commits"> ali-commits
+			</a><br/>
+			Ali Alrabeei
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia </td>
+		<td>130</td>
+	</tr>
+	<tr>
+		<td>192</td>
+		<td>
+			<a href="https://github.com/Anime4000">
+				<img src="https://avatars.githubusercontent.com/u/1908715?s=72&v=4" width="24" alt="Avatar of Anime4000"> Anime4000
+			</a><br/>
+			Hitoha
+		</td>
+		<td>Asia Pacific University </td>
+		<td><a href="https://twitter.com/anime4000">anime4000</a></td>
+		<td>Malaysia</td>
+		<td>129</td>
+	</tr>
+	<tr>
+		<td>193</td>
+		<td>
+			<a href="https://github.com/payen83">
+				<img src="https://avatars.githubusercontent.com/u/13946724?s=72&v=4" width="24" alt="Avatar of payen83"> payen83
+			</a><br/>
+			Ferdy Fauzi
+		</td>
+		<td>Apps Malaya </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>129</td>
+	</tr>
+	<tr>
+		<td>194</td>
+		<td>
+			<a href="https://github.com/neosizzle">
+				<img src="https://avatars.githubusercontent.com/u/44501267?s=72&u=a21f5977246dc8599b9f14e657b03d7d044aaa31&v=4" width="24" alt="Avatar of neosizzle"> neosizzle
+			</a><br/>
+			Jun Han Ng
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>128</td>
+	</tr>
+	<tr>
+		<td>195</td>
+		<td>
+			<a href="https://github.com/philip-khor">
+				<img src="https://avatars.githubusercontent.com/u/35039795?s=72&u=e25de0897cb687f8e7efd4c09f9a0b9ea5adf190&v=4" width="24" alt="Avatar of philip-khor"> philip-khor
+			</a><br/>
+			Philip Khor
+		</td>
+		<td>Sustenyx </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>128</td>
+	</tr>
+	<tr>
+		<td>196</td>
+		<td>
+			<a href="https://github.com/nuzulfikrie">
+				<img src="https://avatars.githubusercontent.com/u/5245744?s=72&u=3963c9b225a07bdb96681a1b0b667d40d244be9f&v=4" width="24" alt="Avatar of nuzulfikrie"> nuzulfikrie
+			</a><br/>
+			nuzulFikrie
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia | indonesia | Singapore</td>
+		<td>128</td>
+	</tr>
+	<tr>
+		<td>197</td>
+		<td>
+			<a href="https://github.com/tengku-hanis">
+				<img src="https://avatars.githubusercontent.com/u/38757591?s=72&u=df64e631c7cc9b480ff293e02721962030f82abd&v=4" width="24" alt="Avatar of tengku-hanis"> tengku-hanis
+			</a><br/>
+			Tengku Hanis
+		</td>
+		<td>Unisza </td>
+		<td><a href="https://twitter.com/tmhanis">tmhanis</a></td>
+		<td>Terengganu, Malaysia</td>
+		<td>128</td>
+	</tr>
+	<tr>
+		<td>198</td>
+		<td>
+			<a href="https://github.com/tnwei">
+				<img src="https://avatars.githubusercontent.com/u/12769364?s=72&u=8a82de1b7de993834d492ceb7e51c6601fdfd0eb&v=4" width="24" alt="Avatar of tnwei"> tnwei
+			</a><br/>
+			No Name
+		</td>
+		<td>Rosarylabs.ai </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>127</td>
+	</tr>
+	<tr>
+		<td>199</td>
+		<td>
+			<a href="https://github.com/iChun">
+				<img src="https://avatars.githubusercontent.com/u/2298444?s=72&v=4" width="24" alt="Avatar of iChun"> iChun
+			</a><br/>
+			iChun
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>126</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
+			<a href="https://github.com/jerrychong25">
+				<img src="https://avatars.githubusercontent.com/u/15714095?s=72&u=4b28e2425732acccf41fcf880b7775222019b6d6&v=4" width="24" alt="Avatar of jerrychong25"> jerrychong25
+			</a><br/>
+			Jerry Chong
+		</td>
+		<td>Dhl </td>
+		<td><a href="https://twitter.com/jerrychong25">jerrychong25</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>126</td>
+	</tr>
+	<tr>
+		<td>201</td>
+		<td>
+			<a href="https://github.com/marcustut">
+				<img src="https://avatars.githubusercontent.com/u/59773847?s=72&u=b1662719777a6d8315b9842dd56f3d7ad95c5652&v=4" width="24" alt="Avatar of marcustut"> marcustut
+			</a><br/>
+			Marcus Lee
+		</td>
+		<td>Balaena Quant </td>
+		<td><a href="https://twitter.com/geminimarcus">geminimarcus</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>126</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>
+			<a href="https://github.com/Flakky">
+				<img src="https://avatars.githubusercontent.com/u/9094898?s=72&u=35e9d404465a6f1e8f851842018987788bcd64de&v=4" width="24" alt="Avatar of Flakky"> Flakky
+			</a><br/>
+			Alexander Blintsov
+		</td>
+		<td>Enraven </td>
+		<td><a href="https://twitter.com/AlFlakky">AlFlakky</a></td>
+		<td>Kuala Lumpur</td>
+		<td>126</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
+			<a href="https://github.com/darwishathibi">
+				<img src="https://avatars.githubusercontent.com/u/119912350?s=72&u=db019fa3e0bf47fec141002c399ed7c40ab8f2c1&v=4" width="24" alt="Avatar of darwishathibi"> darwishathibi
+			</a><br/>
+			Darwis Shathibi
+		</td>
+		<td>Iium </td>
+		<td><a href="https://twitter.com/darwishathibi">darwishathibi</a></td>
+		<td>Malaysia</td>
+		<td>125</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
+			<a href="https://github.com/DavidJonahSivaruban">
+				<img src="https://avatars.githubusercontent.com/u/110078587?s=72&u=566f2ec91d87f83e636c1ab330bf24aeac14aec3&v=4" width="24" alt="Avatar of DavidJonahSivaruban"> DavidJonahSivaruban
+			</a><br/>
+			David Jonah 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>125</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
+			<a href="https://github.com/yk-yong">
+				<img src="https://avatars.githubusercontent.com/u/34984575?s=72&u=5ba8b5da2390f228a238f05606e18d84121dbd9d&v=4" width="24" alt="Avatar of yk-yong"> yk-yong
+			</a><br/>
+			John yk
+		</td>
+		<td>@eggteen  </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>124</td>
+	</tr>
+	<tr>
+		<td>206</td>
+		<td>
+			<a href="https://github.com/byte">
+				<img src="https://avatars.githubusercontent.com/u/61067?s=72&u=9f42f271b66e92750f12b3140b0383dd2dfda941&v=4" width="24" alt="Avatar of byte"> byte
+			</a><br/>
+			Colin Charles
+		</td>
+		<td>Grok </td>
+		<td><a href="https://twitter.com/bytebot">bytebot</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>123</td>
+	</tr>
+	<tr>
+		<td>207</td>
+		<td>
+			<a href="https://github.com/andirady">
+				<img src="https://avatars.githubusercontent.com/u/385785?s=72&u=8e71f8da6bf0ab2949ca6aeb19ffbc0c51e315d4&v=4" width="24" alt="Avatar of andirady"> andirady
+			</a><br/>
+			Andi Rady Kurniawan
+		</td>
+		<td>Kendra-solutions </td>
+		<td><a href="https://twitter.com/isolatedsheep">isolatedsheep</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>122</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
+			<a href="https://github.com/AnuarRazii">
+				<img src="https://avatars.githubusercontent.com/u/182597573?s=72&u=e14d7d7df599f5c37e655a4271c918d32ce18ab1&v=4" width="24" alt="Avatar of AnuarRazii"> AnuarRazii
+			</a><br/>
+			Anuar Razii
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>121</td>
+	</tr>
+	<tr>
+		<td>209</td>
+		<td>
+			<a href="https://github.com/si3nloong">
+				<img src="https://avatars.githubusercontent.com/u/28108597?s=72&u=92394581057c9c8d5b20ba4a415d42f83be382fc&v=4" width="24" alt="Avatar of si3nloong"> si3nloong
+			</a><br/>
+			Atlas Lee
+		</td>
+		<td>@native-technologies  </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>210</td>
+		<td>
+			<a href="https://github.com/leechiahwa">
+				<img src="https://avatars.githubusercontent.com/u/126877680?s=72&u=61d4f28299a4e263090a6b268ca68458c3b3200b&v=4" width="24" alt="Avatar of leechiahwa"> leechiahwa
+			</a><br/>
+			Melvin Lee
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>
+			<a href="https://github.com/jamesabela">
+				<img src="https://avatars.githubusercontent.com/u/16495873?s=72&u=f90b185347c51772c81bc1a7837e9c5310b84572&v=4" width="24" alt="Avatar of jamesabela"> jamesabela
+			</a><br/>
+			James Abela
+		</td>
+		<td>Garden International School </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
+			<a href="https://github.com/cyysky">
+				<img src="https://avatars.githubusercontent.com/u/2968391?s=72&u=e11f12376018fd25cc68109c8ead3dfac67d263e&v=4" width="24" alt="Avatar of cyysky"> cyysky
+			</a><br/>
+			CHONG YOE YAT
+		</td>
+		<td>Fortune Machine Computer </td>
+		<td>No Twitter Username</td>
+		<td>Molek , Johor Bahru, Johor, Malaysia</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/talentedunicorn">
+				<img src="https://avatars.githubusercontent.com/u/904501?s=72&u=cafaa64b4ccd51e9e63f0134fc80721985dd69a0&v=4" width="24" alt="Avatar of talentedunicorn"> talentedunicorn
+			</a><br/>
+			Eze
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
+			<a href="https://github.com/farahanasuhaimi">
+				<img src="https://avatars.githubusercontent.com/u/75070355?s=72&u=fadb7c6e29e81d310ec46c3a7879dd8e00af40a9&v=4" width="24" alt="Avatar of farahanasuhaimi"> farahanasuhaimi
+			</a><br/>
+			Farahana Suhaimi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Farahana100days">Farahana100days</a></td>
+		<td>Kuala Lumpur</td>
+		<td>119</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
+			<a href="https://github.com/kagesenshi">
+				<img src="https://avatars.githubusercontent.com/u/480984?s=72&u=29fe1669e61ead470f21ce074bf755ff3d69e926&v=4" width="24" alt="Avatar of kagesenshi"> kagesenshi
+			</a><br/>
+			Izhar Firdaus
+		</td>
+		<td>Abyres Enterprise Technologies Sdn<br/>Bhd<br/></td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>117</td>
+	</tr>
+	<tr>
+		<td>216</td>
+		<td>
+			<a href="https://github.com/flanfly">
+				<img src="https://avatars.githubusercontent.com/u/5614769?s=72&u=ffeadf6ec3cc08947c251a8cb9f4bdcbd76e0efa&v=4" width="24" alt="Avatar of flanfly"> flanfly
+			</a><br/>
+			Kai Michaelis
+		</td>
+		<td>@binarly-io, @open-source-firmwar @das-labor </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
+			<a href="https://github.com/sithumonline">
+				<img src="https://avatars.githubusercontent.com/u/24352487?s=72&u=6c55222a12c19294ddccf3643dd7cb800ef162ff&v=4" width="24" alt="Avatar of sithumonline"> sithumonline
+			</a><br/>
+			Sithum Bopitiya
+		</td>
+		<td>@clubpay </td>
+		<td><a href="https://twitter.com/sithumonline">sithumonline</a></td>
+		<td>Kuala Lumpur</td>
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>218</td>
 		<td>
-			<a href="https://github.com/ismailsakdo">
-				<img src="https://avatars.githubusercontent.com/u/57325497?s=72&u=70c27fccd01c270c206cb874e52c628d5b2043b5&v=4" width="24" alt="Avatar of ismailsakdo"> ismailsakdo
+			<a href="https://github.com/takase1121">
+				<img src="https://avatars.githubusercontent.com/u/20792268?s=72&u=fab10017c9b94358d12438b124c48783186b35d7&v=4" width="24" alt="Avatar of takase1121"> takase1121
 			</a><br/>
-			Kajidataonline
+			Takase
 		</td>
-		<td>Founder: Kajidataonline.com </td>
+		<td>Bruh </td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>219</td>
+		<td>
+			<a href="https://github.com/joelgoh15">
+				<img src="https://avatars.githubusercontent.com/u/147377225?s=72&u=cd7395278ea654e3643c6f016c6cf1f4dba37ba6&v=4" width="24" alt="Avatar of joelgoh15"> joelgoh15
+			</a><br/>
+			Joel Goh Chong Hui
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>115</td>
+	</tr>
+	<tr>
+		<td>220</td>
+		<td>
+			<a href="https://github.com/syafihakim">
+				<img src="https://avatars.githubusercontent.com/u/49998486?s=72&u=5219ec0893b0d4125bbf9f5bcd30a8e089fe260b&v=4" width="24" alt="Avatar of syafihakim"> syafihakim
+			</a><br/>
+			Syafi Hakim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/hbina">
 				<img src="https://avatars.githubusercontent.com/u/6733660?s=72&u=5dff467e5c24b9735e76290c75fce397ea318ac6&v=4" width="24" alt="Avatar of hbina"> hbina
@@ -3043,124 +2978,163 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>222</td>
 		<td>
-			<a href="https://github.com/paragasu">
-				<img src="https://avatars.githubusercontent.com/u/27353?s=72&u=9350742648d28f2a2de4748c01030baf08433248&v=4" width="24" alt="Avatar of paragasu"> paragasu
+			<a href="https://github.com/sycanz">
+				<img src="https://avatars.githubusercontent.com/u/119921047?s=72&u=6c1d1372a2be70668301ace3838c0de8644c2fea&v=4" width="24" alt="Avatar of sycanz"> sycanz
 			</a><br/>
-			Jeffry L
+			Aiden
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kota Kinabalu, Malaysia</td>
+		<td>Selangor, Malaysia</td>
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>223</td>
 		<td>
-			<a href="https://github.com/ariffinzulkifli">
-				<img src="https://avatars.githubusercontent.com/u/13013693?s=72&u=5f3085ba1d43352f380be481b58686374322e31a&v=4" width="24" alt="Avatar of ariffinzulkifli"> ariffinzulkifli
+			<a href="https://github.com/Rocky111245">
+				<img src="https://avatars.githubusercontent.com/u/113866147?s=72&u=e6f0cbdc35f0efd80d8d6bdea89ebe04e1b96e99&v=4" width="24" alt="Avatar of Rocky111245"> Rocky111245
 			</a><br/>
-			Mohamad Ariffin Zulkifli
+			Ahmed Rakib Al Hasan
 		</td>
-		<td>@myduino  </td>
-		<td><a href="https://twitter.com/ariffinastute">ariffinastute</a></td>
-		<td>Shah Alam, Malaysia</td>
-		<td>111</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia, Sepang, Selangor, 43900</td>
+		<td>110</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>224</td>
 		<td>
-			<a href="https://github.com/raj-khan">
-				<img src="https://avatars.githubusercontent.com/u/27042520?s=72&u=0d3236ebf10bee8ea0263978438c4a311c61b2d1&v=4" width="24" alt="Avatar of raj-khan"> raj-khan
+			<a href="https://github.com/alvinlimfangchuen">
+				<img src="https://avatars.githubusercontent.com/u/125956578?s=72&u=168a74c248a7bd0a583c0d0fdf140a128e78859a&v=4" width="24" alt="Avatar of alvinlimfangchuen"> alvinlimfangchuen
 			</a><br/>
-			Meher Ullah Khan Raj
+			Alvin Lim
 		</td>
-		<td>@snappymob </td>
+		<td>Multimedia University </td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>111</td>
+		<td>Melaka,Malaysia</td>
+		<td>110</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>225</td>
 		<td>
-			<a href="https://github.com/shiernee">
-				<img src="https://avatars.githubusercontent.com/u/49260558?s=72&v=4" width="24" alt="Avatar of shiernee"> shiernee
+			<a href="https://github.com/Zeyad-Azima">
+				<img src="https://avatars.githubusercontent.com/u/62406753?s=72&u=dbe6e3b2f9570064240f700ed08eef5443c9cc5a&v=4" width="24" alt="Avatar of Zeyad-Azima"> Zeyad-Azima
 			</a><br/>
-			Shier Nee Saw 
+			Zer0verflow
 		</td>
-		<td>Universiti Malaya </td>
-		<td>No Twitter Username</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AzimaZeyad">AzimaZeyad</a></td>
 		<td>Malaysia</td>
 		<td>109</td>
 	</tr>
 	<tr>
+		<td>226</td>
+		<td>
+			<a href="https://github.com/VAggrippino">
+				<img src="https://avatars.githubusercontent.com/u/195491?s=72&u=5932eed88d79e9a6988e8d5b07962d4ff5d17cb7&v=4" width="24" alt="Avatar of VAggrippino"> VAggrippino
+			</a><br/>
+			Vince Aggrippino
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>East Greenbush, NY or Kota Kinabalu, Sabah, Malaysia</td>
+		<td>108</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>
+			<a href="https://github.com/MiraBellierr">
+				<img src="https://avatars.githubusercontent.com/u/56716823?s=72&u=03a63de37b6ba2378f45cb8ca84d9da7f2a932f8&v=4" width="24" alt="Avatar of MiraBellierr"> MiraBellierr
+			</a><br/>
+			Mirabellier
+		</td>
+		<td>Unimas </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>108</td>
+	</tr>
+	<tr>
+		<td>228</td>
+		<td>
+			<a href="https://github.com/sujaypillai">
+				<img src="https://avatars.githubusercontent.com/u/3936714?s=72&v=4" width="24" alt="Avatar of sujaypillai"> sujaypillai
+			</a><br/>
+			Sujay Pillai
+		</td>
+		<td>Microsoft </td>
+		<td><a href="https://twitter.com/sujaypillai">sujaypillai</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>107</td>
+	</tr>
+	<tr>
+		<td>229</td>
+		<td>
+			<a href="https://github.com/Snorch">
+				<img src="https://avatars.githubusercontent.com/u/6671311?s=72&u=075dd30d4598dc98b9ece5910705629e4e16dc13&v=4" width="24" alt="Avatar of Snorch"> Snorch
+			</a><br/>
+			Pavel Tikhomirov
+		</td>
+		<td>Virtuozzo </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>107</td>
+	</tr>
+	<tr>
+		<td>230</td>
+		<td>
+			<a href="https://github.com/rhidoyhasanmahmud">
+				<img src="https://avatars.githubusercontent.com/u/21336974?s=72&u=6202ca25df5fd95e8f1ff4adf8360b6f09d99c5e&v=4" width="24" alt="Avatar of rhidoyhasanmahmud"> rhidoyhasanmahmud
+			</a><br/>
+			Hasan Mahmud Rhidoy
+		</td>
+		<td>@moneylion </td>
+		<td><a href="https://twitter.com/RhidoyMahmud">RhidoyMahmud</a></td>
+		<td>Malaysia</td>
+		<td>106</td>
+	</tr>
+	<tr>
 		<td>231</td>
 		<td>
-			<a href="https://github.com/marcustut">
-				<img src="https://avatars.githubusercontent.com/u/59773847?s=72&u=b1662719777a6d8315b9842dd56f3d7ad95c5652&v=4" width="24" alt="Avatar of marcustut"> marcustut
+			<a href="https://github.com/kwongtn">
+				<img src="https://avatars.githubusercontent.com/u/5886584?s=72&u=8ff471f4fad434a2ac8a0a0621eec3c1ec838d7e&v=4" width="24" alt="Avatar of kwongtn"> kwongtn
 			</a><br/>
-			Marcus Lee
+			KwongTN
 		</td>
-		<td>Balaena Quant </td>
-		<td><a href="https://twitter.com/geminimarcus">geminimarcus</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>108</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Subang Jaya, Selangor, Malaysia.</td>
+		<td>106</td>
 	</tr>
 	<tr>
 		<td>232</td>
 		<td>
-			<a href="https://github.com/angch">
-				<img src="https://avatars.githubusercontent.com/u/1099082?s=72&v=4" width="24" alt="Avatar of angch"> angch
+			<a href="https://github.com/GervinFung">
+				<img src="https://avatars.githubusercontent.com/u/53143214?s=72&u=3144cfa3b8e9804adec0c46673aa5240f6705f7f&v=4" width="24" alt="Avatar of GervinFung"> GervinFung
 			</a><br/>
-			Ang Chin Han
+			PoolOfDeath20
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>108</td>
+		<td>Malaysia</td>
+		<td>106</td>
 	</tr>
 	<tr>
 		<td>233</td>
 		<td>
-			<a href="https://github.com/cchitsiang">
-				<img src="https://avatars.githubusercontent.com/u/343107?s=72&u=ede1e551f1d6061c68ec05117745838de8e58af8&v=4" width="24" alt="Avatar of cchitsiang"> cchitsiang
+			<a href="https://github.com/JasonTanz">
+				<img src="https://avatars.githubusercontent.com/u/65846113?s=72&u=ecbc13f4d151011acde3476df2e001915cc47127&v=4" width="24" alt="Avatar of JasonTanz"> JasonTanz
 			</a><br/>
-			Chew Chit Siang
+			Jason Tan
 		</td>
-		<td>No Company</td>
+		<td>Moneylion </td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>107</td>
-	</tr>
-	<tr>
-		<td>234</td>
-		<td>
-			<a href="https://github.com/LimJY03">
-				<img src="https://avatars.githubusercontent.com/u/44389847?s=72&u=ba7b99ba5b6c041c47a631afa4a63f7dde9de918&v=4" width="24" alt="Avatar of LimJY03"> LimJY03
-			</a><br/>
-			Lim JY
-		</td>
-		<td>Universiti Malaya </td>
-		<td>No Twitter Username</td>
-		<td>Federal Territory of Kuala Lumpur, Malaysia</td>
-		<td>107</td>
-	</tr>
-	<tr>
-		<td>235</td>
-		<td>
-			<a href="https://github.com/payen83">
-				<img src="https://avatars.githubusercontent.com/u/13946724?s=72&v=4" width="24" alt="Avatar of payen83"> payen83
-			</a><br/>
-			Ferdy Fauzi
-		</td>
-		<td>Apps Malaya </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
+		<td>Kuala Lumpur</td>
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/yccheok">
 				<img src="https://avatars.githubusercontent.com/u/308276?s=72&u=b333bc0e07dd945b76badee1891d03afe5f80d57&v=4" width="24" alt="Avatar of yccheok"> yccheok
@@ -3170,10 +3144,23 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>103</td>
+		<td>104</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>235</td>
+		<td>
+			<a href="https://github.com/amzar96">
+				<img src="https://avatars.githubusercontent.com/u/19677928?s=72&u=837c28b3a902c1a712f1d12fac8c0065aab9ede6&v=4" width="24" alt="Avatar of amzar96"> amzar96
+			</a><br/>
+			Amzar
+		</td>
+		<td>Digital Bank </td>
+		<td><a href="https://twitter.com/amzardev">amzardev</a></td>
+		<td>Malaysia</td>
+		<td>104</td>
+	</tr>
+	<tr>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/Jian0518">
 				<img src="https://avatars.githubusercontent.com/u/87455675?s=72&u=0167c22b6281bef53c5760b804e2f693e20c147b&v=4" width="24" alt="Avatar of Jian0518"> Jian0518
@@ -3186,72 +3173,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>237</td>
 		<td>
-			<a href="https://github.com/AlipBot">
-				<img src="https://avatars.githubusercontent.com/u/80237144?s=72&u=adc665ed0cbb98598941768a9cb423089b09375f&v=4" width="24" alt="Avatar of AlipBot"> AlipBot
+			<a href="https://github.com/Kemi-Oluwadahunsi">
+				<img src="https://avatars.githubusercontent.com/u/137022041?s=72&u=c650e9d833776093c255fb78bfab3f3421784654&v=4" width="24" alt="Avatar of Kemi-Oluwadahunsi"> Kemi-Oluwadahunsi
 			</a><br/>
-			AlipBot
+			Oluwakemi Oluwadahunsi
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sepang,Selangor,Malaysia</td>
+		<td>Kodemaven </td>
+		<td><a href="https://twitter.com/km_oluwadahunsi">km_oluwadahunsi</a></td>
+		<td>Malaysia, Nigeria</td>
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>239</td>
-		<td>
-			<a href="https://github.com/flanfly">
-				<img src="https://avatars.githubusercontent.com/u/5614769?s=72&u=ffeadf6ec3cc08947c251a8cb9f4bdcbd76e0efa&v=4" width="24" alt="Avatar of flanfly"> flanfly
-			</a><br/>
-			Kai Michaelis
-		</td>
-		<td>@binarly-io, @open-source-firmwar @das-labor </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>240</td>
-		<td>
-			<a href="https://github.com/sithumonline">
-				<img src="https://avatars.githubusercontent.com/u/24352487?s=72&u=6c55222a12c19294ddccf3643dd7cb800ef162ff&v=4" width="24" alt="Avatar of sithumonline"> sithumonline
-			</a><br/>
-			Sithum Bopitiya
-		</td>
-		<td>@clubpay </td>
-		<td><a href="https://twitter.com/sithumonline">sithumonline</a></td>
-		<td>Kuala Lumpur</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>241</td>
-		<td>
-			<a href="https://github.com/cyysky">
-				<img src="https://avatars.githubusercontent.com/u/2968391?s=72&u=e11f12376018fd25cc68109c8ead3dfac67d263e&v=4" width="24" alt="Avatar of cyysky"> cyysky
-			</a><br/>
-			CHONG YOE YAT
-		</td>
-		<td>Fortune Machine Computer </td>
-		<td>No Twitter Username</td>
-		<td>Molek , Johor Bahru, Johor, Malaysia</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>242</td>
-		<td>
-			<a href="https://github.com/theinsidersandrush">
-				<img src="https://avatars.githubusercontent.com/u/87752859?s=72&u=1470054488ed6db72b4f10107b2dcc0c02dc8c12&v=4" width="24" alt="Avatar of theinsidersandrush"> theinsidersandrush
-			</a><br/>
-			The Insider Sandrush
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>243</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/Sharkesm">
 				<img src="https://avatars.githubusercontent.com/u/16168370?s=72&u=7d82cdaa753719ecac132e1d5ee3bae5a602ffb0&v=4" width="24" alt="Avatar of Sharkesm"> Sharkesm
@@ -3264,20 +3199,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>244</td>
-		<td>
-			<a href="https://github.com/yk-yong">
-				<img src="https://avatars.githubusercontent.com/u/34984575?s=72&u=5ba8b5da2390f228a238f05606e18d84121dbd9d&v=4" width="24" alt="Avatar of yk-yong"> yk-yong
-			</a><br/>
-			John yk
-		</td>
-		<td>@eggteen  </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>245</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/kitloong">
 				<img src="https://avatars.githubusercontent.com/u/7660346?s=72&u=e48f166d7e62ea8f41244ccff232afcb0b8f6d65&v=4" width="24" alt="Avatar of kitloong"> kitloong
@@ -3287,88 +3209,140 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Rakuten </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>98</td>
+		<td>100</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>240</td>
+		<td>
+			<a href="https://github.com/clarencelol">
+				<img src="https://avatars.githubusercontent.com/u/76221463?s=72&u=07510cf6f40e7e09967b9c49ea8c2ce9472c8e13&v=4" width="24" alt="Avatar of clarencelol"> clarencelol
+			</a><br/>
+			Clarence K
+		</td>
+		<td>@shapeshiftos @project-fluid @tequilaos </td>
+		<td>No Twitter Username</td>
+		<td>UniMAP, Malaysia</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>241</td>
+		<td>
+			<a href="https://github.com/Zuhu162">
+				<img src="https://avatars.githubusercontent.com/u/53121149?s=72&u=bbf99466030ddae3290fc7c2576427e8f1517fee&v=4" width="24" alt="Avatar of Zuhu162"> Zuhu162
+			</a><br/>
+			Zuhayer Adnan Siddique
+		</td>
+		<td>Dhl Asia Pacific Shared<br/>Services<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>242</td>
+		<td>
+			<a href="https://github.com/ismailsakdo">
+				<img src="https://avatars.githubusercontent.com/u/57325497?s=72&u=70c27fccd01c270c206cb874e52c628d5b2043b5&v=4" width="24" alt="Avatar of ismailsakdo"> ismailsakdo
+			</a><br/>
+			Kajidataonline
+		</td>
+		<td>Founder: Kajidataonline.com </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>243</td>
+		<td>
+			<a href="https://github.com/cchitsiang">
+				<img src="https://avatars.githubusercontent.com/u/343107?s=72&u=ede1e551f1d6061c68ec05117745838de8e58af8&v=4" width="24" alt="Avatar of cchitsiang"> cchitsiang
+			</a><br/>
+			Chew Chit Siang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>99</td>
+	</tr>
+	<tr>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/shuvonsec">
 				<img src="https://avatars.githubusercontent.com/u/83355567?s=72&u=b89ea474aa3811e2fdd85daa8d679796703fbe6e&v=4" width="24" alt="Avatar of shuvonsec"> shuvonsec
 			</a><br/>
 			Md Shariar Shanaz Shuvon
 		</td>
-		<td>Socialsafe.my </td>
+		<td>Awarexone.com </td>
 		<td><a href="https://twitter.com/shuvonsec">shuvonsec</a></td>
 		<td>Malaysia </td>
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>245</td>
 		<td>
-			<a href="https://github.com/firdauskotp">
-				<img src="https://avatars.githubusercontent.com/u/46307489?s=72&u=24a2f34bd12028492771d620abb6f0fc26865e58&v=4" width="24" alt="Avatar of firdauskotp"> firdauskotp
+			<a href="https://github.com/datgai">
+				<img src="https://avatars.githubusercontent.com/u/23694752?s=72&u=75556b17c386434b8db1d050bcb5a09a49404900&v=4" width="24" alt="Avatar of datgai"> datgai
 			</a><br/>
-			Muhammad Firdaus
+			Alex Chee
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>246</td>
 		<td>
-			<a href="https://github.com/Rocky111245">
-				<img src="https://avatars.githubusercontent.com/u/113866147?s=72&u=e6f0cbdc35f0efd80d8d6bdea89ebe04e1b96e99&v=4" width="24" alt="Avatar of Rocky111245"> Rocky111245
+			<a href="https://github.com/amree">
+				<img src="https://avatars.githubusercontent.com/u/424392?s=72&u=17c395a4cc4e90cc514858a691247fc261531da8&v=4" width="24" alt="Avatar of amree"> amree
 			</a><br/>
-			Ahmed Rakib Al Hasan
+			Amree Zaid
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia, Sepang, Selangor, 43900</td>
-		<td>98</td>
-	</tr>
-	<tr>
-		<td>249</td>
-		<td>
-			<a href="https://github.com/miesaf">
-				<img src="https://avatars.githubusercontent.com/u/19381137?s=72&u=7d113796d9d68965e450a7a025f1e9844372ed4d&v=4" width="24" alt="Avatar of miesaf"> miesaf
-			</a><br/>
-			Muhamad Amirul
-		</td>
-		<td>Dimensi Kini </td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/AmreeZaid">AmreeZaid</a></td>
 		<td>Malaysia</td>
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>247</td>
 		<td>
-			<a href="https://github.com/batoorsohail">
-				<img src="https://avatars.githubusercontent.com/u/100614799?s=72&u=5287ea2fe955a223e4a85f4ca791b5e5f89099d3&v=4" width="24" alt="Avatar of batoorsohail"> batoorsohail
+			<a href="https://github.com/ariffinzulkifli">
+				<img src="https://avatars.githubusercontent.com/u/13013693?s=72&u=5f3085ba1d43352f380be481b58686374322e31a&v=4" width="24" alt="Avatar of ariffinzulkifli"> ariffinzulkifli
 			</a><br/>
-			Ahmad Sohail
+			Mohamad Ariffin Zulkifli
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sohailBatoor">sohailBatoor</a></td>
-		<td>Kedah, Malaysia</td>
+		<td>@myduino  </td>
+		<td><a href="https://twitter.com/ariffinastute">ariffinastute</a></td>
+		<td>Shah Alam, Malaysia</td>
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>248</td>
 		<td>
-			<a href="https://github.com/alvinlimfangchuen">
-				<img src="https://avatars.githubusercontent.com/u/125956578?s=72&u=168a74c248a7bd0a583c0d0fdf140a128e78859a&v=4" width="24" alt="Avatar of alvinlimfangchuen"> alvinlimfangchuen
+			<a href="https://github.com/AlipBot">
+				<img src="https://avatars.githubusercontent.com/u/80237144?s=72&u=adc665ed0cbb98598941768a9cb423089b09375f&v=4" width="24" alt="Avatar of AlipBot"> AlipBot
 			</a><br/>
-			Alvin Lim
+			AlipBot
 		</td>
-		<td>Multimedia University </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Melaka,Malaysia</td>
+		<td>Sepang,Selangor,Malaysia</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>249</td>
+		<td>
+			<a href="https://github.com/sumardi">
+				<img src="https://avatars.githubusercontent.com/u/315603?s=72&v=4" width="24" alt="Avatar of sumardi"> sumardi
+			</a><br/>
+			Sumardi Shukor
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sumardi">sumardi</a></td>
+		<td>Cyberjaya, Malaysia</td>
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/qwerqy">
 				<img src="https://avatars.githubusercontent.com/u/5802740?s=72&u=923f3f567166143f618161b1a19a6698b829593b&v=4" width="24" alt="Avatar of qwerqy"> qwerqy
@@ -3381,111 +3355,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>251</td>
 		<td>
-			<a href="https://github.com/warlocksmurf">
-				<img src="https://avatars.githubusercontent.com/u/121353711?s=72&u=150f43205ecbc0366ac9fb4f7b3534ca5b64fac2&v=4" width="24" alt="Avatar of warlocksmurf"> warlocksmurf
+			<a href="https://github.com/foneazmi">
+				<img src="https://avatars.githubusercontent.com/u/26783512?s=72&u=9ca23725bb68cf67ea77407fe61603521efbbf6f&v=4" width="24" alt="Avatar of foneazmi"> foneazmi
 			</a><br/>
-			Robbin
+			Farkhan Azmi
 		</td>
-		<td>Gen </td>
+		<td>Appfuxion, Prudential </td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>94</td>
-	</tr>
-	<tr>
-		<td>254</td>
-		<td>
-			<a href="https://github.com/amzar96">
-				<img src="https://avatars.githubusercontent.com/u/19677928?s=72&u=837c28b3a902c1a712f1d12fac8c0065aab9ede6&v=4" width="24" alt="Avatar of amzar96"> amzar96
-			</a><br/>
-			Amzar
-		</td>
-		<td>Digital Bank </td>
-		<td><a href="https://twitter.com/amzardev">amzardev</a></td>
-		<td>Malaysia</td>
-		<td>94</td>
-	</tr>
-	<tr>
-		<td>255</td>
-		<td>
-			<a href="https://github.com/farahanasuhaimi">
-				<img src="https://avatars.githubusercontent.com/u/75070355?s=72&u=fadb7c6e29e81d310ec46c3a7879dd8e00af40a9&v=4" width="24" alt="Avatar of farahanasuhaimi"> farahanasuhaimi
-			</a><br/>
-			Farahana Suhaimi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Farahana100days">Farahana100days</a></td>
 		<td>Kuala Lumpur</td>
-		<td>93</td>
+		<td>94</td>
 	</tr>
 	<tr>
-		<td>256</td>
-		<td>
-			<a href="https://github.com/qir4ni">
-				<img src="https://avatars.githubusercontent.com/u/31045106?s=72&u=f5710a8a72b153508b674c43c535ae5210e207d5&v=4" width="24" alt="Avatar of qir4ni"> qir4ni
-			</a><br/>
-			Awis
-		</td>
-		<td>Chip In Sdn Bhd<br/></td>
-		<td><a href="https://twitter.com/qir4ni">qir4ni</a></td>
-		<td>Malaysia</td>
-		<td>92</td>
-	</tr>
-	<tr>
-		<td>257</td>
-		<td>
-			<a href="https://github.com/addff">
-				<img src="https://avatars.githubusercontent.com/u/39934467?s=72&u=95515eb29d4c3ddfb353dd8161b57ef247291914&v=4" width="24" alt="Avatar of addff"> addff
-			</a><br/>
-			Shahadan Bin Saad
-		</td>
-		<td>Universiti Teknologi Mara </td>
-		<td>No Twitter Username</td>
-		<td>Jasin, Malaysia</td>
-		<td>92</td>
-	</tr>
-	<tr>
-		<td>258</td>
-		<td>
-			<a href="https://github.com/khalid-hussain">
-				<img src="https://avatars.githubusercontent.com/u/3102714?s=72&u=56d8909a599ce762e103f794818037cd55329f7c&v=4" width="24" alt="Avatar of khalid-hussain"> khalid-hussain
-			</a><br/>
-			Mohammad Khalid Hussain
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>91</td>
-	</tr>
-	<tr>
-		<td>259</td>
-		<td>
-			<a href="https://github.com/islamdidarmd">
-				<img src="https://avatars.githubusercontent.com/u/27812028?s=72&u=c71519a0a139d832effcb300cde3bb438919d47f&v=4" width="24" alt="Avatar of islamdidarmd"> islamdidarmd
-			</a><br/>
-			Md Didarul Islam
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/islamdidarmd">islamdidarmd</a></td>
-		<td>Malaysia</td>
-		<td>91</td>
-	</tr>
-	<tr>
-		<td>260</td>
-		<td>
-			<a href="https://github.com/andirady">
-				<img src="https://avatars.githubusercontent.com/u/385785?s=72&u=8e71f8da6bf0ab2949ca6aeb19ffbc0c51e315d4&v=4" width="24" alt="Avatar of andirady"> andirady
-			</a><br/>
-			Andi Rady Kurniawan
-		</td>
-		<td>Kendra-solutions </td>
-		<td><a href="https://twitter.com/isolatedsheep">isolatedsheep</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>91</td>
-	</tr>
-	<tr>
-		<td>261</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/khorzhenwin">
 				<img src="https://avatars.githubusercontent.com/u/78037711?s=72&u=722cedf6392af5e4219aaf09fd7fe3b31f7725b8&v=4" width="24" alt="Avatar of khorzhenwin"> khorzhenwin
@@ -3495,41 +3378,41 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Onngooff </td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>91</td>
+		<td>93</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>253</td>
 		<td>
-			<a href="https://github.com/datgai">
-				<img src="https://avatars.githubusercontent.com/u/23694752?s=72&u=75556b17c386434b8db1d050bcb5a09a49404900&v=4" width="24" alt="Avatar of datgai"> datgai
+			<a href="https://github.com/Hazqeel09">
+				<img src="https://avatars.githubusercontent.com/u/33782405?s=72&u=f756af58d163dca93aafe0063d8eccee4b43316e&v=4" width="24" alt="Avatar of Hazqeel09"> Hazqeel09
 			</a><br/>
-			Alex Chee
+			Hazqeel Afyq
 		</td>
-		<td>No Company</td>
+		<td>Cynco </td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
+		<td>Malaysia</td>
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>254</td>
 		<td>
-			<a href="https://github.com/zhixe">
-				<img src="https://avatars.githubusercontent.com/u/24543980?s=72&u=cc887477cc0d7a660160f8769e4f7ffdedd47508&v=4" width="24" alt="Avatar of zhixe"> zhixe
+			<a href="https://github.com/istiyakamin">
+				<img src="https://avatars.githubusercontent.com/u/22401441?s=72&u=ffd96b1a4a741404748d2581c3885e6b28da7714&v=4" width="24" alt="Avatar of istiyakamin"> istiyakamin
 			</a><br/>
-			Amsyar Malek
+			Istiyak Amin Santo
 		</td>
-		<td>No Company</td>
+		<td>Founder At Shaperk </td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
+		<td>Cyberjaya, Malaysia</td>
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>255</td>
 		<td>
-			<a href="https://github.com/syafihakim">
-				<img src="https://avatars.githubusercontent.com/u/49998486?s=72&u=5219ec0893b0d4125bbf9f5bcd30a8e089fe260b&v=4" width="24" alt="Avatar of syafihakim"> syafihakim
+			<a href="https://github.com/firdauskotp">
+				<img src="https://avatars.githubusercontent.com/u/46307489?s=72&u=24a2f34bd12028492771d620abb6f0fc26865e58&v=4" width="24" alt="Avatar of firdauskotp"> firdauskotp
 			</a><br/>
-			Syafi Hakim
+			Muhammad Firdaus
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3537,20 +3420,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>265</td>
-		<td>
-			<a href="https://github.com/golxzn">
-				<img src="https://avatars.githubusercontent.com/u/42336163?s=72&u=cb25240dcb06e9cc170d6e44651b6a61ea739162&v=4" width="24" alt="Avatar of golxzn"> golxzn
-			</a><br/>
-			Ruslan Golovinskii
-		</td>
-		<td>@mytona </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia, Kuala Lumpur </td>
-		<td>88</td>
-	</tr>
-	<tr>
-		<td>266</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/yuzurihaaa">
 				<img src="https://avatars.githubusercontent.com/u/33388560?s=72&u=1349e1b5725622c16a30498c4cf8b98e88a073ff&v=4" width="24" alt="Avatar of yuzurihaaa"> yuzurihaaa
@@ -3560,23 +3430,114 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/yuzurihaa93">yuzurihaa93</a></td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>87</td>
+		<td>90</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>257</td>
 		<td>
-			<a href="https://github.com/yasserhessein">
-				<img src="https://avatars.githubusercontent.com/u/69808132?s=72&u=f80f7cba16065a91bb7f0ac496f40f1825eef2a1&v=4" width="24" alt="Avatar of yasserhessein"> yasserhessein
+			<a href="https://github.com/lerlerchan">
+				<img src="https://avatars.githubusercontent.com/u/35757415?s=72&u=7a4a271f94eb4f329df3432a8538ab1d4c44459a&v=4" width="24" alt="Avatar of lerlerchan"> lerlerchan
 			</a><br/>
-			Yasir Hussein Shakir
+			LerLerChan
 		</td>
-		<td>University Tenaga Nasional </td>
+		<td>Southern University College </td>
+		<td>No Twitter Username</td>
+		<td>Johor, Malaysia</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>258</td>
+		<td>
+			<a href="https://github.com/sdil">
+				<img src="https://avatars.githubusercontent.com/u/461537?s=72&u=f238e1d87dde720c5df0e6cd6f7ebb30b4fdcca5&v=4" width="24" alt="Avatar of sdil"> sdil
+			</a><br/>
+			Mohamad Fadhil
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sdil">sdil</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>259</td>
+		<td>
+			<a href="https://github.com/mammykins">
+				<img src="https://avatars.githubusercontent.com/u/6576226?s=72&u=4fc730a0d096d4a7077e1a9f70a070464474aa68&v=4" width="24" alt="Avatar of mammykins"> mammykins
+			</a><br/>
+			Matthew Gregory
+		</td>
+		<td>Government Digital Service </td>
+		<td><a href="https://twitter.com/mammykins_">mammykins_</a></td>
+		<td>Kuala Lumpur</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>260</td>
+		<td>
+			<a href="https://github.com/ivan-loh">
+				<img src="https://avatars.githubusercontent.com/u/3806597?s=72&u=ff7e472ed0a871e30396eba8cc7c8b9bda63787c&v=4" width="24" alt="Avatar of ivan-loh"> ivan-loh
+			</a><br/>
+			Ivan Loh
+		</td>
+		<td>Eriad Solution Plt </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>261</td>
+		<td>
+			<a href="https://github.com/salimi-my">
+				<img src="https://avatars.githubusercontent.com/u/55532224?s=72&u=d4ae90070cf62932e6f15ae63b008b3ad77ddcea&v=4" width="24" alt="Avatar of salimi-my"> salimi-my
+			</a><br/>
+			Salimi
+		</td>
+		<td>@smarttechtank </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>88</td>
+	</tr>
+	<tr>
+		<td>262</td>
+		<td>
+			<a href="https://github.com/ismi-abbas">
+				<img src="https://avatars.githubusercontent.com/u/77921975?s=72&u=ed724696789e6f0cb093071284b554e366bc3cf4&v=4" width="24" alt="Avatar of ismi-abbas"> ismi-abbas
+			</a><br/>
+			Abbas
+		</td>
+		<td>Ismi-abbas.co </td>
+		<td><a href="https://twitter.com/ismiabbas_">ismiabbas_</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>88</td>
+	</tr>
+	<tr>
+		<td>263</td>
+		<td>
+			<a href="https://github.com/ccy">
+				<img src="https://avatars.githubusercontent.com/u/865670?s=72&u=5bf4cfc19f732f1bed06054d8e04199bea2b6756&v=4" width="24" alt="Avatar of ccy"> ccy
+			</a><br/>
+			Chee-Yang, Chau
+		</td>
+		<td>@estreamsoftware </td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>268</td>
+		<td>264</td>
+		<td>
+			<a href="https://github.com/kiawin">
+				<img src="https://avatars.githubusercontent.com/u/1992348?s=72&u=b0e3aab463e92511111e9d165ddf97c8deea32fb&v=4" width="24" alt="Avatar of kiawin"> kiawin
+			</a><br/>
+			Sian Lerk Lau
+		</td>
+		<td>@intuitivewebsolutio </td>
+		<td>No Twitter Username</td>
+		<td>Klang, Malaysia</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/fare4z">
 				<img src="https://avatars.githubusercontent.com/u/9054072?s=72&u=3d28a95d4cc6e91c5d7a4cd5f4c2285c295fc75d&v=4" width="24" alt="Avatar of fare4z"> fare4z
@@ -3589,59 +3550,59 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>86</td>
 	</tr>
 	<tr>
+		<td>266</td>
+		<td>
+			<a href="https://github.com/afzafri">
+				<img src="https://avatars.githubusercontent.com/u/14824387?s=72&u=52fddbee8f3e89e70eb466efe67d84ffdf8223f3&v=4" width="24" alt="Avatar of afzafri"> afzafri
+			</a><br/>
+			Afif Zafri
+		</td>
+		<td>Red Ant Technology Sdn<br/>Bhd<br/></td>
+		<td><a href="https://twitter.com/afzafri">afzafri</a></td>
+		<td>Subang Jaya, Selangor, Malaysia</td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>267</td>
+		<td>
+			<a href="https://github.com/golxzn">
+				<img src="https://avatars.githubusercontent.com/u/42336163?s=72&u=cb25240dcb06e9cc170d6e44651b6a61ea739162&v=4" width="24" alt="Avatar of golxzn"> golxzn
+			</a><br/>
+			Ruslan Golovinskii
+		</td>
+		<td>@mytona </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia, Kuala Lumpur </td>
+		<td>85</td>
+	</tr>
+	<tr>
+		<td>268</td>
+		<td>
+			<a href="https://github.com/HarryDotMYx">
+				<img src="https://avatars.githubusercontent.com/u/90368539?s=72&u=1daa4fbe8fa38dc13ffc3f7d727f3d7698d1bb22&v=4" width="24" alt="Avatar of HarryDotMYx"> HarryDotMYx
+			</a><br/>
+			PG Mohd Azhan Fikri
+		</td>
+		<td>Perbadanan Pembangunan Ekonomi Sabah<br/><br/></td>
+		<td><a href="https://twitter.com/pangeranazhan">pangeranazhan</a></td>
+		<td>Somewhere at Kuala Lumpur</td>
+		<td>85</td>
+	</tr>
+	<tr>
 		<td>269</td>
 		<td>
-			<a href="https://github.com/Snorch">
-				<img src="https://avatars.githubusercontent.com/u/6671311?s=72&u=075dd30d4598dc98b9ece5910705629e4e16dc13&v=4" width="24" alt="Avatar of Snorch"> Snorch
+			<a href="https://github.com/superoo7">
+				<img src="https://avatars.githubusercontent.com/u/15358452?s=72&u=62545654ed8691c0fa5706f35979ef323e84a937&v=4" width="24" alt="Avatar of superoo7"> superoo7
 			</a><br/>
-			Pavel Tikhomirov
+			Johnson
 		</td>
-		<td>Virtuozzo </td>
-		<td>No Twitter Username</td>
+		<td>@chromindscan </td>
+		<td><a href="https://twitter.com/jlwhoo7">jlwhoo7</a></td>
 		<td>Malaysia</td>
-		<td>86</td>
+		<td>84</td>
 	</tr>
 	<tr>
 		<td>270</td>
-		<td>
-			<a href="https://github.com/zineanteoh">
-				<img src="https://avatars.githubusercontent.com/u/58854510?s=72&u=76c9005fa326e49336b1c02305e99d4e96097ac8&v=4" width="24" alt="Avatar of zineanteoh"> zineanteoh
-			</a><br/>
-			Zi Nean Teoh
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/zineanteoh">zineanteoh</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>85</td>
-	</tr>
-	<tr>
-		<td>271</td>
-		<td>
-			<a href="https://github.com/ccy">
-				<img src="https://avatars.githubusercontent.com/u/865670?s=72&u=5bf4cfc19f732f1bed06054d8e04199bea2b6756&v=4" width="24" alt="Avatar of ccy"> ccy
-			</a><br/>
-			Chee-Yang, Chau
-		</td>
-		<td>@estreamsoftware </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>85</td>
-	</tr>
-	<tr>
-		<td>272</td>
-		<td>
-			<a href="https://github.com/ecgan">
-				<img src="https://avatars.githubusercontent.com/u/417342?s=72&u=62d118aab71b624bbb6526a747416ebb4e915faf&v=4" width="24" alt="Avatar of ecgan"> ecgan
-			</a><br/>
-			Gan Eng Chin
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ecgan">ecgan</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>85</td>
-	</tr>
-	<tr>
-		<td>273</td>
 		<td>
 			<a href="https://github.com/h4ck4life">
 				<img src="https://avatars.githubusercontent.com/u/562130?s=72&u=f33c034f68923aab4359c56cbf26df8673d1a8bd&v=4" width="24" alt="Avatar of h4ck4life"> h4ck4life
@@ -3654,124 +3615,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>274</td>
-		<td>
-			<a href="https://github.com/GervinFung">
-				<img src="https://avatars.githubusercontent.com/u/53143214?s=72&u=3144cfa3b8e9804adec0c46673aa5240f6705f7f&v=4" width="24" alt="Avatar of GervinFung"> GervinFung
-			</a><br/>
-			PoolOfDeath20
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>84</td>
-	</tr>
-	<tr>
-		<td>275</td>
-		<td>
-			<a href="https://github.com/dr-zool">
-				<img src="https://avatars.githubusercontent.com/u/37915963?s=72&u=665a3505c9eba21a2f2d3015368582f83237bb87&v=4" width="24" alt="Avatar of dr-zool"> dr-zool
-			</a><br/>
-			Zool Hilmi Ismail
-		</td>
-		<td>Universiti Teknologi Malaysia </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>84</td>
-	</tr>
-	<tr>
-		<td>276</td>
-		<td>
-			<a href="https://github.com/0xkaz">
-				<img src="https://avatars.githubusercontent.com/u/87490841?s=72&u=32c2bd0864a614ee5f69a6246527e7e8137d3bbb&v=4" width="24" alt="Avatar of 0xkaz"> 0xkaz
-			</a><br/>
-			kaz
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/WeaveKaz">WeaveKaz</a></td>
-		<td>Malaysia/UAE</td>
-		<td>84</td>
-	</tr>
-	<tr>
-		<td>277</td>
-		<td>
-			<a href="https://github.com/ivan-loh">
-				<img src="https://avatars.githubusercontent.com/u/3806597?s=72&u=ff7e472ed0a871e30396eba8cc7c8b9bda63787c&v=4" width="24" alt="Avatar of ivan-loh"> ivan-loh
-			</a><br/>
-			Ivan Loh
-		</td>
-		<td>Eriad Solution Plt </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>83</td>
-	</tr>
-	<tr>
-		<td>278</td>
-		<td>
-			<a href="https://github.com/naimulcsx">
-				<img src="https://avatars.githubusercontent.com/u/91200810?s=72&u=c065020042ae63cb432fbe90d21ded7144385a1a&v=4" width="24" alt="Avatar of naimulcsx"> naimulcsx
-			</a><br/>
-			Naimul Haque
-		</td>
-		<td>Liberate Labs </td>
-		<td><a href="https://twitter.com/naimulcsx">naimulcsx</a></td>
-		<td>Malaysia</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>279</td>
-		<td>
-			<a href="https://github.com/Fakhruddin90">
-				<img src="https://avatars.githubusercontent.com/u/30628450?s=72&v=4" width="24" alt="Avatar of Fakhruddin90"> Fakhruddin90
-			</a><br/>
-			Fakhruddin Saupe
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>280</td>
-		<td>
-			<a href="https://github.com/amirahnasihah">
-				<img src="https://avatars.githubusercontent.com/u/89834315?s=72&u=11d0957bd72e4c780f172a76349cbf6bead44f93&v=4" width="24" alt="Avatar of amirahnasihah"> amirahnasihah
-			</a><br/>
-			Amirah Nasihah
-		</td>
-		<td>@doktahoo  </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>81</td>
-	</tr>
-	<tr>
-		<td>281</td>
-		<td>
-			<a href="https://github.com/amree">
-				<img src="https://avatars.githubusercontent.com/u/424392?s=72&u=17c395a4cc4e90cc514858a691247fc261531da8&v=4" width="24" alt="Avatar of amree"> amree
-			</a><br/>
-			Amree Zaid
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AmreeZaid">AmreeZaid</a></td>
-		<td>Malaysia</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>282</td>
-		<td>
-			<a href="https://github.com/Ugenteraan">
-				<img src="https://avatars.githubusercontent.com/u/17710137?s=72&u=2eecaf16ff7f7ef9668cfd91c8d8082dea6e638d&v=4" width="24" alt="Avatar of Ugenteraan"> Ugenteraan
-			</a><br/>
-			Ugenteraan Manogaran
-		</td>
-		<td>@ombreapp @mmu-vision-lab @technologia-x @devconx<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Cyberjaya, Malaysia</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>283</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/mengwangk">
 				<img src="https://avatars.githubusercontent.com/u/113252?s=72&u=35e26d5c87e8181baa421118576261a227250cec&v=4" width="24" alt="Avatar of mengwangk"> mengwangk
@@ -3781,23 +3625,127 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
+			<a href="https://github.com/yasserhessein">
+				<img src="https://avatars.githubusercontent.com/u/69808132?s=72&u=f80f7cba16065a91bb7f0ac496f40f1825eef2a1&v=4" width="24" alt="Avatar of yasserhessein"> yasserhessein
+			</a><br/>
+			Yasir Hussein Shakir
+		</td>
+		<td>University Tenaga Nasional </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>273</td>
+		<td>
+			<a href="https://github.com/g5n-dev">
+				<img src="https://avatars.githubusercontent.com/u/25024102?s=72&u=196e44e1b9e4b31b4a37f9b6b45beb37e4d2395d&v=4" width="24" alt="Avatar of g5n-dev"> g5n-dev
+			</a><br/>
+			Giovanni
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Peking｜Kuala Lumpur｜Singapore</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>274</td>
+		<td>
+			<a href="https://github.com/vrnsky">
+				<img src="https://avatars.githubusercontent.com/u/19514058?s=72&u=02d9950fc18e810b8244527b80515078acc3c7ef&v=4" width="24" alt="Avatar of vrnsky"> vrnsky
+			</a><br/>
+			Egor Voronianskii
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/VoronyanskyE">VoronyanskyE</a></td>
+		<td>Selangor, Malaysia</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>275</td>
+		<td>
+			<a href="https://github.com/syarul">
+				<img src="https://avatars.githubusercontent.com/u/2774594?s=72&u=de27a062e657d29556ad1153ee20c699cb018e31&v=4" width="24" alt="Avatar of syarul"> syarul
+			</a><br/>
+			Shahrul Nizam Selamat
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kajang Selangor, Malaysia</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>276</td>
+		<td>
+			<a href="https://github.com/wanadzhar913">
+				<img src="https://avatars.githubusercontent.com/u/88019612?s=72&u=1834911572b393a16e55feaef592d9edd2f2aefc&v=4" width="24" alt="Avatar of wanadzhar913"> wanadzhar913
+			</a><br/>
+			Faiq Adzlan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>W. P. Kuala Lumpur, Malaysia</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>277</td>
+		<td>
+			<a href="https://github.com/asifmuntasir">
+				<img src="https://avatars.githubusercontent.com/u/66783393?s=72&u=927975714c04b55c9c185cee39078c79de7c0f79&v=4" width="24" alt="Avatar of asifmuntasir"> asifmuntasir
+			</a><br/>
+			Asif Muntasir Shuaib
+		</td>
+		<td>Theta Edge Berhad </td>
+		<td>No Twitter Username</td>
+		<td>Petaling Jaya, Selangor, Malaysia.</td>
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>284</td>
+		<td>278</td>
 		<td>
-			<a href="https://github.com/shiburagi">
-				<img src="https://avatars.githubusercontent.com/u/15533887?s=72&u=c16224feb806a42c942624a9442e0ef86f0d0670&v=4" width="24" alt="Avatar of shiburagi"> shiburagi
+			<a href="https://github.com/Fakhruddin90">
+				<img src="https://avatars.githubusercontent.com/u/30628450?s=72&v=4" width="24" alt="Avatar of Fakhruddin90"> Fakhruddin90
 			</a><br/>
-			Muhammad Norzariman Razari
+			Fakhruddin Saupe
 		</td>
-		<td>@xendit </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Petaling Jaya, Selangor, Malaysia</td>
+		<td>Malaysia</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>279</td>
+		<td>
+			<a href="https://github.com/amirahnasihah">
+				<img src="https://avatars.githubusercontent.com/u/89834315?s=72&u=11d0957bd72e4c780f172a76349cbf6bead44f93&v=4" width="24" alt="Avatar of amirahnasihah"> amirahnasihah
+			</a><br/>
+			Amirah Nasihah
+		</td>
+		<td>@doktahoo  </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>285</td>
+		<td>280</td>
+		<td>
+			<a href="https://github.com/Justryuz">
+				<img src="https://avatars.githubusercontent.com/u/4434876?s=72&v=4" width="24" alt="Avatar of Justryuz"> Justryuz
+			</a><br/>
+			Fahmi Fisal
+		</td>
+		<td>Fztech </td>
+		<td><a href="https://twitter.com/justryuz">justryuz</a></td>
+		<td>Malaysia, Selangor</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/taham655">
 				<img src="https://avatars.githubusercontent.com/u/96670924?s=72&u=e1e30be985ec40813a6d65cd004df7ef46f7a8f2&v=4" width="24" alt="Avatar of taham655"> taham655
@@ -3807,7 +3755,59 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>University Of Southampton <br/></td>
 		<td>No Twitter Username</td>
 		<td>Malaysia </td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>282</td>
+		<td>
+			<a href="https://github.com/daniel-shuy">
+				<img src="https://avatars.githubusercontent.com/u/17351764?s=72&v=4" width="24" alt="Avatar of daniel-shuy"> daniel-shuy
+			</a><br/>
+			Daniel Shuy
+		</td>
+		<td>Sicpa </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>283</td>
+		<td>
+			<a href="https://github.com/batoorsohail">
+				<img src="https://avatars.githubusercontent.com/u/100614799?s=72&u=4c23629f2ea5e30a32d0366fcf1fcb7297d6d660&v=4" width="24" alt="Avatar of batoorsohail"> batoorsohail
+			</a><br/>
+			Ahmad Sohail
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sohailBatoor">sohailBatoor</a></td>
+		<td>Kedah, Malaysia</td>
 		<td>77</td>
+	</tr>
+	<tr>
+		<td>284</td>
+		<td>
+			<a href="https://github.com/ecgan">
+				<img src="https://avatars.githubusercontent.com/u/417342?s=72&u=62d118aab71b624bbb6526a747416ebb4e915faf&v=4" width="24" alt="Avatar of ecgan"> ecgan
+			</a><br/>
+			Gan Eng Chin
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ecgan">ecgan</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>285</td>
+		<td>
+			<a href="https://github.com/simonhorlick">
+				<img src="https://avatars.githubusercontent.com/u/300172?s=72&u=4e16c6355f8b89ab7178a79bd4db5b1318373c91&v=4" width="24" alt="Avatar of simonhorlick"> simonhorlick
+			</a><br/>
+			Simon Horlick
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/simonhorlick">simonhorlick</a></td>
+		<td>Kuala Lumpur</td>
+		<td>76</td>
 	</tr>
 	<tr>
 		<td>286</td>
@@ -3818,51 +3818,12 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 			Waiz Wafiq
 		</td>
 		<td>@afterkelas , @fylix-my <br/></td>
-		<td><a href="https://twitter.com/mwaizwafiq">mwaizwafiq</a></td>
+		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>76</td>
+		<td>75</td>
 	</tr>
 	<tr>
 		<td>287</td>
-		<td>
-			<a href="https://github.com/istiyakamin">
-				<img src="https://avatars.githubusercontent.com/u/22401441?s=72&u=ffd96b1a4a741404748d2581c3885e6b28da7714&v=4" width="24" alt="Avatar of istiyakamin"> istiyakamin
-			</a><br/>
-			Istiyak Amin Santo
-		</td>
-		<td>Founder At Shaperk </td>
-		<td>No Twitter Username</td>
-		<td>Cyberjaya, Malaysia</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>288</td>
-		<td>
-			<a href="https://github.com/g5n-dev">
-				<img src="https://avatars.githubusercontent.com/u/25024102?s=72&u=196e44e1b9e4b31b4a37f9b6b45beb37e4d2395d&v=4" width="24" alt="Avatar of g5n-dev"> g5n-dev
-			</a><br/>
-			Giovanni
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Peking｜Kuala Lumpur｜Singapore</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>289</td>
-		<td>
-			<a href="https://github.com/genesis331">
-				<img src="https://avatars.githubusercontent.com/u/22348410?s=72&u=608e5389446c2df78921297baaa6db3c4f2f457d&v=4" width="24" alt="Avatar of genesis331"> genesis331
-			</a><br/>
-			Cheah Zixu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>290</td>
 		<td>
 			<a href="https://github.com/Dr-Khatib">
 				<img src="https://avatars.githubusercontent.com/u/137243645?s=72&u=db401ca0dddd8be8a77f7bc62d3e3536c7b0f148&v=4" width="24" alt="Avatar of Dr-Khatib"> Dr-Khatib
@@ -3875,59 +3836,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>288</td>
 		<td>
-			<a href="https://github.com/Justryuz">
-				<img src="https://avatars.githubusercontent.com/u/4434876?s=72&v=4" width="24" alt="Avatar of Justryuz"> Justryuz
+			<a href="https://github.com/MianSaleem">
+				<img src="https://avatars.githubusercontent.com/u/5428120?s=72&u=10203c2bb21a8742d5cfdb99a67ffa7a20ce2bdf&v=4" width="24" alt="Avatar of MianSaleem"> MianSaleem
 			</a><br/>
-			Fahmi Fisal
+			Mian Saleem
 		</td>
-		<td>Fztech </td>
-		<td><a href="https://twitter.com/justryuz">justryuz</a></td>
-		<td>Malaysia, Selangor</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>292</td>
-		<td>
-			<a href="https://github.com/simonhorlick">
-				<img src="https://avatars.githubusercontent.com/u/300172?s=72&u=4e16c6355f8b89ab7178a79bd4db5b1318373c91&v=4" width="24" alt="Avatar of simonhorlick"> simonhorlick
-			</a><br/>
-			Simon Horlick
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/simonhorlick">simonhorlick</a></td>
-		<td>Kuala Lumpur</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>293</td>
-		<td>
-			<a href="https://github.com/Code-Artist">
-				<img src="https://avatars.githubusercontent.com/u/1674648?s=72&u=266776b0b7bf0fba3acb68327b0c34d451cfa5a8&v=4" width="24" alt="Avatar of Code-Artist"> Code-Artist
-			</a><br/>
-			Code Artist
-		</td>
-		<td>Code Art Engineering </td>
-		<td>No Twitter Username</td>
+		<td>Tecdiary </td>
+		<td><a href="https://twitter.com/Tecdiary">Tecdiary</a></td>
 		<td>Malaysia</td>
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>294</td>
-		<td>
-			<a href="https://github.com/AdaniKamal">
-				<img src="https://avatars.githubusercontent.com/u/44063862?s=72&u=5542e66afbabd45390bf83b466e8656ef85147d4&v=4" width="24" alt="Avatar of AdaniKamal"> AdaniKamal
-			</a><br/>
-			AdaniKamal
-		</td>
-		<td>Hobby </td>
-		<td><a href="https://twitter.com/my_r3in3">my_r3in3</a></td>
-		<td>Malaysia</td>
-		<td>73</td>
-	</tr>
-	<tr>
-		<td>295</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/weiiilunnnn">
 				<img src="https://avatars.githubusercontent.com/u/203374182?s=72&u=98fffe97cba935698d8377bfbe045ed390906ac5&v=4" width="24" alt="Avatar of weiiilunnnn"> weiiilunnnn
@@ -3940,7 +3862,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/manfye">
 				<img src="https://avatars.githubusercontent.com/u/5368997?s=72&u=6a6b5202e060cbd1e9a6e909ffb0b6af3add06fb&v=4" width="24" alt="Avatar of manfye"> manfye
@@ -3953,33 +3875,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>291</td>
 		<td>
-			<a href="https://github.com/irisyann">
-				<img src="https://avatars.githubusercontent.com/u/48094822?s=72&u=de8d96385b2db0b443dd7f42f2b07ded69c1e86a&v=4" width="24" alt="Avatar of irisyann"> irisyann
+			<a href="https://github.com/naimulcsx">
+				<img src="https://avatars.githubusercontent.com/u/91200810?s=72&u=c065020042ae63cb432fbe90d21ded7144385a1a&v=4" width="24" alt="Avatar of naimulcsx"> naimulcsx
 			</a><br/>
-			Iris Y.
+			Naimul Haque
 		</td>
-		<td>No Company</td>
+		<td>Liberate Labs </td>
+		<td><a href="https://twitter.com/naimulcsx">naimulcsx</a></td>
+		<td>Malaysia</td>
+		<td>72</td>
+	</tr>
+	<tr>
+		<td>292</td>
+		<td>
+			<a href="https://github.com/Code-Artist">
+				<img src="https://avatars.githubusercontent.com/u/1674648?s=72&u=266776b0b7bf0fba3acb68327b0c34d451cfa5a8&v=4" width="24" alt="Avatar of Code-Artist"> Code-Artist
+			</a><br/>
+			Code Artist
+		</td>
+		<td>Code Art Engineering </td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>298</td>
-		<td>
-			<a href="https://github.com/MianSaleem">
-				<img src="https://avatars.githubusercontent.com/u/5428120?s=72&u=10203c2bb21a8742d5cfdb99a67ffa7a20ce2bdf&v=4" width="24" alt="Avatar of MianSaleem"> MianSaleem
-			</a><br/>
-			Mian Saleem
-		</td>
-		<td>Tecdiary </td>
-		<td><a href="https://twitter.com/Tecdiary">Tecdiary</a></td>
-		<td>Malaysia</td>
-		<td>72</td>
-	</tr>
-	<tr>
-		<td>299</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/sbahrin3">
 				<img src="https://avatars.githubusercontent.com/u/5608134?s=72&u=74ec5378f5c8fd208eec7548eb2e1813a079b1e2&v=4" width="24" alt="Avatar of sbahrin3"> sbahrin3
@@ -3989,10 +3911,23 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Freelancer </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur</td>
-		<td>72</td>
+		<td>71</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>294</td>
+		<td>
+			<a href="https://github.com/SiewYan">
+				<img src="https://avatars.githubusercontent.com/u/8265559?s=72&u=a60a1eb1ab99937d8e2ac134c4f96d3ec66e05f9&v=4" width="24" alt="Avatar of SiewYan"> SiewYan
+			</a><br/>
+			Siewyan Hoh
+		</td>
+		<td>Xiamen University Malaysia </td>
+		<td>No Twitter Username</td>
+		<td>Sepang, Malaysia</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/fadhlirahim">
 				<img src="https://avatars.githubusercontent.com/u/4056?s=72&u=5814273acbeb7f3866f8b1492dbb0eaf7cafc6d5&v=4" width="24" alt="Avatar of fadhlirahim"> fadhlirahim
@@ -4005,7 +3940,85 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>70</td>
 	</tr>
 	<tr>
+		<td>296</td>
+		<td>
+			<a href="https://github.com/stanleyseow">
+				<img src="https://avatars.githubusercontent.com/u/539857?s=72&u=b8835ba372b0467d0a2ef3d1236e211c6e46226a&v=4" width="24" alt="Avatar of stanleyseow"> stanleyseow
+			</a><br/>
+			Stanley Seow
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/StanleySeow">StanleySeow</a></td>
+		<td>Kuala Lumpur</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>
+			<a href="https://github.com/Tze-Sien">
+				<img src="https://avatars.githubusercontent.com/u/46163200?s=72&u=7967099b130e23834b84ea2c0013b4084c6fef27&v=4" width="24" alt="Avatar of Tze-Sien"> Tze-Sien
+			</a><br/>
+			Tze-Sien
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>298</td>
+		<td>
+			<a href="https://github.com/barzin144">
+				<img src="https://avatars.githubusercontent.com/u/22778135?s=72&u=b33a938b271182eeecb773ee28d99be4aa9fdc72&v=4" width="24" alt="Avatar of barzin144"> barzin144
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>299</td>
+		<td>
+			<a href="https://github.com/angch">
+				<img src="https://avatars.githubusercontent.com/u/1099082?s=72&v=4" width="24" alt="Avatar of angch"> angch
+			</a><br/>
+			Ang Chin Han
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>300</td>
+		<td>
+			<a href="https://github.com/dshe">
+				<img src="https://avatars.githubusercontent.com/u/750168?s=72&u=d9df8294512a810e7f95414d3d1935d8652b4bc8&v=4" width="24" alt="Avatar of dshe"> dshe
+			</a><br/>
+			DavidS
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dshe">dshe</a></td>
+		<td>Kuala Lumpur</td>
+		<td>69</td>
+	</tr>
+	<tr>
 		<td>301</td>
+		<td>
+			<a href="https://github.com/irisyann">
+				<img src="https://avatars.githubusercontent.com/u/48094822?s=72&u=de8d96385b2db0b443dd7f42f2b07ded69c1e86a&v=4" width="24" alt="Avatar of irisyann"> irisyann
+			</a><br/>
+			Iris Yan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>302</td>
 		<td>
 			<a href="https://github.com/shangyilim">
 				<img src="https://avatars.githubusercontent.com/u/6754603?s=72&v=4" width="24" alt="Avatar of shangyilim"> shangyilim
@@ -4018,7 +4031,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>303</td>
+		<td>
+			<a href="https://github.com/wnarifin">
+				<img src="https://avatars.githubusercontent.com/u/8581708?s=72&u=859dd0d01ee7063bca55e025c9c7c6dd803a0d59&v=4" width="24" alt="Avatar of wnarifin"> wnarifin
+			</a><br/>
+			Wan Nor Arifin
+		</td>
+		<td>Universiti Sains Malaysia </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/damnitjoshua">
 				<img src="https://avatars.githubusercontent.com/u/46387702?s=72&u=46949308d2832983bc6534be26716ad33e711f9d&v=4" width="24" alt="Avatar of damnitjoshua"> damnitjoshua
@@ -4031,7 +4057,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>305</td>
+		<td>
+			<a href="https://github.com/kematzy">
+				<img src="https://avatars.githubusercontent.com/u/6571?s=72&v=4" width="24" alt="Avatar of kematzy"> kematzy
+			</a><br/>
+			Kematzy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/Thihasoehlaing">
 				<img src="https://avatars.githubusercontent.com/u/43937816?s=72&u=a711cc27cf3aa16e97524315a6d4980ff600c8aa&v=4" width="24" alt="Avatar of Thihasoehlaing"> Thihasoehlaing
@@ -4044,72 +4083,46 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>307</td>
 		<td>
-			<a href="https://github.com/Syf-Almjd">
-				<img src="https://avatars.githubusercontent.com/u/70374999?s=72&u=6c5cfa4fbc556d1252286e311115c319f90b8b49&v=4" width="24" alt="Avatar of Syf-Almjd"> Syf-Almjd
+			<a href="https://github.com/hasyimibhar">
+				<img src="https://avatars.githubusercontent.com/u/1431045?s=72&u=db940717c945e7d6523931fc3e9d86ac2a0fe059&v=4" width="24" alt="Avatar of hasyimibhar"> hasyimibhar
 			</a><br/>
-			SaifAlmajd
+			Hasyimi Bahrudin
 		</td>
-		<td>@mjd_malaysia </td>
-		<td><a href="https://twitter.com/HSaifalmajd">HSaifalmajd</a></td>
-		<td>Kuala Lumpur, Malaysia.</td>
+		<td>@moneylion  </td>
+		<td>No Twitter Username</td>
+		<td>Selangor, Malaysia</td>
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>308</td>
 		<td>
-			<a href="https://github.com/dshe">
-				<img src="https://avatars.githubusercontent.com/u/750168?s=72&u=d9df8294512a810e7f95414d3d1935d8652b4bc8&v=4" width="24" alt="Avatar of dshe"> dshe
+			<a href="https://github.com/shiburagi">
+				<img src="https://avatars.githubusercontent.com/u/15533887?s=72&u=c16224feb806a42c942624a9442e0ef86f0d0670&v=4" width="24" alt="Avatar of shiburagi"> shiburagi
 			</a><br/>
-			DavidS
+			Muhammad Norzariman Razari
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/dshe">dshe</a></td>
-		<td>Kuala Lumpur</td>
+		<td>@xendit </td>
+		<td>No Twitter Username</td>
+		<td>Petaling Jaya, Selangor, Malaysia</td>
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>309</td>
 		<td>
-			<a href="https://github.com/taimoon">
-				<img src="https://avatars.githubusercontent.com/u/41246170?s=72&u=0fa375279c5e0136ff758d2aff39bb1c05c7d9ef&v=4" width="24" alt="Avatar of taimoon"> taimoon
+			<a href="https://github.com/ezzylan">
+				<img src="https://avatars.githubusercontent.com/u/66157842?s=72&u=6fe47aed8a62673404414484e33129e7f0ab2804&v=4" width="24" alt="Avatar of ezzylan"> ezzylan
 			</a><br/>
-			Leong Teng Man
+			Ezlan Zulfiqree
 		</td>
-		<td>No Company</td>
+		<td>Mercedes-benz Tech Malaysia </td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>307</td>
-		<td>
-			<a href="https://github.com/kingkingyyk">
-				<img src="https://avatars.githubusercontent.com/u/7446799?s=72&v=4" width="24" alt="Avatar of kingkingyyk"> kingkingyyk
-			</a><br/>
-			Yap Yee King
-		</td>
-		<td>@puzzleslab </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>308</td>
-		<td>
-			<a href="https://github.com/Yeffian">
-				<img src="https://avatars.githubusercontent.com/u/76024824?s=72&v=4" width="24" alt="Avatar of Yeffian"> Yeffian
-			</a><br/>
-			Adit Chakraborty
-		</td>
-		<td>Garden International School </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>66</td>
-	</tr>
-	<tr>
-		<td>309</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/msmalley">
 				<img src="https://avatars.githubusercontent.com/u/393099?s=72&u=9cf396780dd5f881e08edeb1e6eac1fdb6c89cfa&v=4" width="24" alt="Avatar of msmalley"> msmalley
@@ -4119,49 +4132,88 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Opensource Technology Evangelist And<br/>Blockchain<br/>Enthusiast<br/></td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>66</td>
-	</tr>
-	<tr>
-		<td>310</td>
-		<td>
-			<a href="https://github.com/kiawin">
-				<img src="https://avatars.githubusercontent.com/u/1992348?s=72&u=b0e3aab463e92511111e9d165ddf97c8deea32fb&v=4" width="24" alt="Avatar of kiawin"> kiawin
-			</a><br/>
-			Sian Lerk Lau
-		</td>
-		<td>@intuitivewebsolutio </td>
-		<td>No Twitter Username</td>
-		<td>Klang, Malaysia</td>
-		<td>66</td>
+		<td>67</td>
 	</tr>
 	<tr>
 		<td>311</td>
 		<td>
-			<a href="https://github.com/stanleyseow">
-				<img src="https://avatars.githubusercontent.com/u/539857?s=72&u=b8835ba372b0467d0a2ef3d1236e211c6e46226a&v=4" width="24" alt="Avatar of stanleyseow"> stanleyseow
+			<a href="https://github.com/miwi-fbsd">
+				<img src="https://avatars.githubusercontent.com/u/6657176?s=72&u=7f96853f2cd26b5143865d870421a999a69874e5&v=4" width="24" alt="Avatar of miwi-fbsd"> miwi-fbsd
 			</a><br/>
-			Stanley Seow
+			MiwiDot
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/StanleySeow">StanleySeow</a></td>
-		<td>Kuala Lumpur</td>
-		<td>65</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>67</td>
 	</tr>
 	<tr>
 		<td>312</td>
 		<td>
-			<a href="https://github.com/muntakim1">
-				<img src="https://avatars.githubusercontent.com/u/32785930?s=72&u=bc676cfb47208c866811f5b5e824e81045a650b6&v=4" width="24" alt="Avatar of muntakim1"> muntakim1
+			<a href="https://github.com/noman404">
+				<img src="https://avatars.githubusercontent.com/u/5913235?s=72&u=bcc607b31a2cd65c12ac88de02c01d60d0769a1e&v=4" width="24" alt="Avatar of noman404"> noman404
 			</a><br/>
-			Muntakimur Rahaman
+			Al Noman
 		</td>
-		<td>@innova-analytics.ai </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cyberjaya,63000, Malaysia</td>
-		<td>65</td>
+		<td>Kuala lumpur, Malaysia</td>
+		<td>67</td>
 	</tr>
 	<tr>
 		<td>313</td>
+		<td>
+			<a href="https://github.com/askmuhsin">
+				<img src="https://avatars.githubusercontent.com/u/8600096?s=72&u=d3354862cebce6b987fad5405a3bb4e11005a30e&v=4" width="24" alt="Avatar of askmuhsin"> askmuhsin
+			</a><br/>
+			Muhsin Mohammed
+		</td>
+		<td>@shoppr </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>67</td>
+	</tr>
+	<tr>
+		<td>314</td>
+		<td>
+			<a href="https://github.com/zineanteoh">
+				<img src="https://avatars.githubusercontent.com/u/58854510?s=72&u=76c9005fa326e49336b1c02305e99d4e96097ac8&v=4" width="24" alt="Avatar of zineanteoh"> zineanteoh
+			</a><br/>
+			Zi Nean Teoh
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/zineanteoh">zineanteoh</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>315</td>
+		<td>
+			<a href="https://github.com/Syf-Almjd">
+				<img src="https://avatars.githubusercontent.com/u/70374999?s=72&u=6c5cfa4fbc556d1252286e311115c319f90b8b49&v=4" width="24" alt="Avatar of Syf-Almjd"> Syf-Almjd
+			</a><br/>
+			SaifAlmajd
+		</td>
+		<td>@mjd_malaysia </td>
+		<td><a href="https://twitter.com/HSaifalmajd">HSaifalmajd</a></td>
+		<td>Kuala Lumpur, Malaysia.</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>316</td>
+		<td>
+			<a href="https://github.com/zhamri">
+				<img src="https://avatars.githubusercontent.com/u/24503750?s=72&u=aee63f41a650b2369d27c3455b246b21539d1c46&v=4" width="24" alt="Avatar of zhamri"> zhamri
+			</a><br/>
+			Zhamri Che Ani
+		</td>
+		<td>Universiti Utara Malaysia </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>317</td>
 		<td>
 			<a href="https://github.com/wenjiun">
 				<img src="https://avatars.githubusercontent.com/u/215471?s=72&u=f47aa1ba00f99b3dacd2101537689e50d622a860&v=4" width="24" alt="Avatar of wenjiun"> wenjiun
@@ -4174,72 +4226,98 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>314</td>
-		<td>
-			<a href="https://github.com/solahidris">
-				<img src="https://avatars.githubusercontent.com/u/36721459?s=72&u=a8b1d294e8fe54c44c2b706bbe3abcd712d2d724&v=4" width="24" alt="Avatar of solahidris"> solahidris
-			</a><br/>
-			Sol
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/solahsol_">solahsol_</a></td>
-		<td>Malaysia</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>315</td>
-		<td>
-			<a href="https://github.com/AnuarRazii">
-				<img src="https://avatars.githubusercontent.com/u/182597573?s=72&u=ab0aa41653544f0d12543983f1bfa42b00170752&v=4" width="24" alt="Avatar of AnuarRazii"> AnuarRazii
-			</a><br/>
-			Anuar Razii
-		</td>
-		<td>Product Hunt </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>316</td>
-		<td>
-			<a href="https://github.com/azri-cs">
-				<img src="https://avatars.githubusercontent.com/u/79372152?s=72&u=2671f95ed891157b106c0fb0ab46b76f52ac73a1&v=4" width="24" alt="Avatar of azri-cs"> azri-cs
-			</a><br/>
-			Azri
-		</td>
-		<td>Hayat Technologies Sdn Bhd<br/></td>
-		<td><a href="https://twitter.com/azri_cs">azri_cs</a></td>
-		<td>Malaysia</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>317</td>
-		<td>
-			<a href="https://github.com/habibtalib">
-				<img src="https://avatars.githubusercontent.com/u/7113831?s=72&u=313b38d26654cf356155b691f8f8f9a3dd449ccb&v=4" width="24" alt="Avatar of habibtalib"> habibtalib
-			</a><br/>
-			Habib Talib
-		</td>
-		<td>Synctexs Solution </td>
-		<td><a href="https://twitter.com/cyberx11">cyberx11</a></td>
-		<td>Malaysia</td>
-		<td>63</td>
-	</tr>
-	<tr>
 		<td>318</td>
 		<td>
-			<a href="https://github.com/nzmksk">
-				<img src="https://avatars.githubusercontent.com/u/107503836?s=72&u=6f5083b921617bf320323ee08899982fecd6d31f&v=4" width="24" alt="Avatar of nzmksk"> nzmksk
+			<a href="https://github.com/muntakim1">
+				<img src="https://avatars.githubusercontent.com/u/32785930?s=72&u=bc676cfb47208c866811f5b5e824e81045a650b6&v=4" width="24" alt="Avatar of muntakim1"> muntakim1
 			</a><br/>
-			Mohd Hafiz Zabba
+			Muntakimur Rahaman
 		</td>
-		<td>No Company</td>
+		<td>@innova-analytics.ai </td>
 		<td>No Twitter Username</td>
-		<td>Cyberjaya, Selangor, Malaysia</td>
-		<td>63</td>
+		<td>Cyberjaya,63000, Malaysia</td>
+		<td>65</td>
 	</tr>
 	<tr>
 		<td>319</td>
+		<td>
+			<a href="https://github.com/paragasu">
+				<img src="https://avatars.githubusercontent.com/u/27353?s=72&u=9350742648d28f2a2de4748c01030baf08433248&v=4" width="24" alt="Avatar of paragasu"> paragasu
+			</a><br/>
+			Jeffry L
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kota Kinabalu, Malaysia</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>320</td>
+		<td>
+			<a href="https://github.com/54853315">
+				<img src="https://avatars.githubusercontent.com/u/1081252?s=72&u=87f542d41f9b7d3f5647c13734803221c7a124de&v=4" width="24" alt="Avatar of 54853315"> 54853315
+			</a><br/>
+			konakona
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Guilin/Malaysia</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
+			<a href="https://github.com/Ugenteraan">
+				<img src="https://avatars.githubusercontent.com/u/17710137?s=72&u=2eecaf16ff7f7ef9668cfd91c8d8082dea6e638d&v=4" width="24" alt="Avatar of Ugenteraan"> Ugenteraan
+			</a><br/>
+			Ugenteraan Manogaran
+		</td>
+		<td>@ombreapp @mmu-vision-lab @technologia-x @devconx<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Cyberjaya, Malaysia</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>322</td>
+		<td>
+			<a href="https://github.com/zackrsli">
+				<img src="https://avatars.githubusercontent.com/u/112287122?s=72&u=6ff495617cd0fd1d3cc7f89b4180d3826429fd78&v=4" width="24" alt="Avatar of zackrsli"> zackrsli
+			</a><br/>
+			Zackry Rosli
+		</td>
+		<td>@decubeio </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
+			<a href="https://github.com/amirulabu">
+				<img src="https://avatars.githubusercontent.com/u/10055534?s=72&u=6531e37871e5bc8ba532a3b87e744adb2678238e&v=4" width="24" alt="Avatar of amirulabu"> amirulabu
+			</a><br/>
+			Amirul Abu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/amirulabu">amirulabu</a></td>
+		<td>Malaysia</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>324</td>
+		<td>
+			<a href="https://github.com/yewyewxd">
+				<img src="https://avatars.githubusercontent.com/u/61444703?s=72&u=e5c82f72842f266446bb4c84402691075a9887b9&v=4" width="24" alt="Avatar of yewyewxd"> yewyewxd
+			</a><br/>
+			Kang Wei
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/katiehuangx">
 				<img src="https://avatars.githubusercontent.com/u/81607668?s=72&u=09ce529a29607c6df2f8ee8a81bcb4feaea97db4&v=4" width="24" alt="Avatar of katiehuangx"> katiehuangx
@@ -4252,33 +4330,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>326</td>
 		<td>
-			<a href="https://github.com/yewyewXD">
-				<img src="https://avatars.githubusercontent.com/u/61444703?s=72&u=e5c82f72842f266446bb4c84402691075a9887b9&v=4" width="24" alt="Avatar of yewyewXD"> yewyewXD
+			<a href="https://github.com/azri-cs">
+				<img src="https://avatars.githubusercontent.com/u/79372152?s=72&u=2671f95ed891157b106c0fb0ab46b76f52ac73a1&v=4" width="24" alt="Avatar of azri-cs"> azri-cs
 			</a><br/>
-			Kang Wei
+			Azri
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Hayat Technologies Sdn Bhd<br/></td>
+		<td><a href="https://twitter.com/azri_cs">azri_cs</a></td>
 		<td>Malaysia</td>
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>327</td>
 		<td>
-			<a href="https://github.com/miwi-fbsd">
-				<img src="https://avatars.githubusercontent.com/u/6657176?s=72&u=7f96853f2cd26b5143865d870421a999a69874e5&v=4" width="24" alt="Avatar of miwi-fbsd"> miwi-fbsd
+			<a href="https://github.com/hazimhanif">
+				<img src="https://avatars.githubusercontent.com/u/7348874?s=72&u=ca7169b67ef7543c894fe2d46e1890c3a94618ab&v=4" width="24" alt="Avatar of hazimhanif"> hazimhanif
 			</a><br/>
-			MiwiDot
+			Hazim Hanif
 		</td>
-		<td>No Company</td>
+		<td>Universiti Malaya </td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>61</td>
+		<td>Kuala Lumpur</td>
+		<td>62</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/mmafrar">
 				<img src="https://avatars.githubusercontent.com/u/12560035?s=72&v=4" width="24" alt="Avatar of mmafrar"> mmafrar
@@ -4291,111 +4369,72 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>329</td>
 		<td>
-			<a href="https://github.com/isaactan98">
-				<img src="https://avatars.githubusercontent.com/u/73921980?s=72&u=308b0d7c38d5d44ea434e0b7a954b083c4721e72&v=4" width="24" alt="Avatar of isaactan98"> isaactan98
+			<a href="https://github.com/syahrinseth">
+				<img src="https://avatars.githubusercontent.com/u/32351679?s=72&u=c772f2d842212e999e42da0965ecbabd78e5d33b&v=4" width="24" alt="Avatar of syahrinseth"> syahrinseth
 			</a><br/>
-			Isaac Tan
+			Syahrin Seth
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Betterweb Solutions </td>
+		<td><a href="https://twitter.com/syahrinseth">syahrinseth</a></td>
 		<td>Malaysia</td>
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>330</td>
 		<td>
-			<a href="https://github.com/sweemeng">
-				<img src="https://avatars.githubusercontent.com/u/80779?s=72&v=4" width="24" alt="Avatar of sweemeng"> sweemeng
+			<a href="https://github.com/theinsidersandrush">
+				<img src="https://avatars.githubusercontent.com/u/87752859?s=72&u=1470054488ed6db72b4f10107b2dcc0c02dc8c12&v=4" width="24" alt="Avatar of theinsidersandrush"> theinsidersandrush
 			</a><br/>
-			sweemeng
+			The Insider Sandrush
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>kuala lumpur</td>
-		<td>60</td>
+		<td>Kuala Lumpur</td>
+		<td>61</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>331</td>
 		<td>
-			<a href="https://github.com/ezzylan">
-				<img src="https://avatars.githubusercontent.com/u/66157842?s=72&u=6fe47aed8a62673404414484e33129e7f0ab2804&v=4" width="24" alt="Avatar of ezzylan"> ezzylan
+			<a href="https://github.com/kuanhoong">
+				<img src="https://avatars.githubusercontent.com/u/2316456?s=72&u=2a7c98f357ba9dae92d7e30afd1c6e38a26c36c6&v=4" width="24" alt="Avatar of kuanhoong"> kuanhoong
 			</a><br/>
-			Ezlan Zulfiqree
+			Kuan Hoong
 		</td>
-		<td>Mercedes-benz Tech Malaysia </td>
-		<td>No Twitter Username</td>
+		<td>Roche </td>
+		<td><a href="https://twitter.com/kuanhoong">kuanhoong</a></td>
 		<td>Malaysia</td>
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>332</td>
 		<td>
-			<a href="https://github.com/MTLKS">
-				<img src="https://avatars.githubusercontent.com/u/43807318?s=72&u=82d8fbbf21321ba32713ca5c985ba61b4111b206&v=4" width="24" alt="Avatar of MTLKS"> MTLKS
+			<a href="https://github.com/islamdidarmd">
+				<img src="https://avatars.githubusercontent.com/u/27812028?s=72&u=c71519a0a139d832effcb300cde3bb438919d47f&v=4" width="24" alt="Avatar of islamdidarmd"> islamdidarmd
 			</a><br/>
-			Matthew
+			Md Didarul Islam
 		</td>
-		<td>42 Kuala Lumpur </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/islamdidarmd">islamdidarmd</a></td>
+		<td>Malaysia</td>
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>333</td>
 		<td>
-			<a href="https://github.com/oneseedfruit">
-				<img src="https://avatars.githubusercontent.com/u/5054104?s=72&u=7164e7118f9ac77d3cb3bd48f7f16d4ab7b82bfa&v=4" width="24" alt="Avatar of oneseedfruit"> oneseedfruit
+			<a href="https://github.com/hovahyii">
+				<img src="https://avatars.githubusercontent.com/u/31881261?s=72&u=f776aa87bf53077c38f3c0be30aeeae32e49f46d&v=4" width="24" alt="Avatar of hovahyii"> hovahyii
 			</a><br/>
-			Randy Tan
+			Jehovah Yii Zui Hon (Hovah)
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia / Coventry, United Kingdom (teleporter)</td>
-		<td>59</td>
+		<td>Selangor, Malaysia</td>
+		<td>60</td>
 	</tr>
 	<tr>
-		<td>328</td>
-		<td>
-			<a href="https://github.com/atifnewcastle">
-				<img src="https://avatars.githubusercontent.com/u/9415579?s=72&u=f6a148180b3e1fde51ddec1c0213e2beee545e55&v=4" width="24" alt="Avatar of atifnewcastle"> atifnewcastle
-			</a><br/>
-			MUHAMMAD ATIF RAMLAN
-		</td>
-		<td>Universiti Teknologi Mara, Malaysia<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kuala Teregganu, Malaysia</td>
-		<td>59</td>
-	</tr>
-	<tr>
-		<td>329</td>
-		<td>
-			<a href="https://github.com/foneazmi">
-				<img src="https://avatars.githubusercontent.com/u/26783512?s=72&u=45b08d1d0a1c322903fe209eacf8ee35b3524920&v=4" width="24" alt="Avatar of foneazmi"> foneazmi
-			</a><br/>
-			Farkhan Azmi
-		</td>
-		<td>Appfuxion, Prudential </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>59</td>
-	</tr>
-	<tr>
-		<td>330</td>
-		<td>
-			<a href="https://github.com/abhishek71994">
-				<img src="https://avatars.githubusercontent.com/u/8072400?s=72&u=517e2a4ad5e7e81732cbd578f3a8318b3cf39d42&v=4" width="24" alt="Avatar of abhishek71994"> abhishek71994
-			</a><br/>
-			Abhishek Prasad
-		</td>
-		<td>Seek Asia </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>58</td>
-	</tr>
-	<tr>
-		<td>331</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/pickfire">
 				<img src="https://avatars.githubusercontent.com/u/4687791?s=72&u=ba52aed90b71e4a6d64e889fa3280863d2bcd959&v=4" width="24" alt="Avatar of pickfire"> pickfire
@@ -4405,36 +4444,127 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malaysia, Earth</td>
+		<td>59</td>
+	</tr>
+	<tr>
+		<td>335</td>
+		<td>
+			<a href="https://github.com/sealw4ll">
+				<img src="https://avatars.githubusercontent.com/u/61623069?s=72&u=ee52e078b87cf3a0851ed1b9c85175eddff5c798&v=4" width="24" alt="Avatar of sealw4ll"> sealw4ll
+			</a><br/>
+			Wallace Ting
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>59</td>
+	</tr>
+	<tr>
+		<td>336</td>
+		<td>
+			<a href="https://github.com/mazemax">
+				<img src="https://avatars.githubusercontent.com/u/1362445?s=72&u=a2c6e285ac709874db920dc4239f4af29ba4d617&v=4" width="24" alt="Avatar of mazemax"> mazemax
+			</a><br/>
+			Max Saad
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>337</td>
+		<td>
+			<a href="https://github.com/khalid-hussain">
+				<img src="https://avatars.githubusercontent.com/u/3102714?s=72&u=56d8909a599ce762e103f794818037cd55329f7c&v=4" width="24" alt="Avatar of khalid-hussain"> khalid-hussain
+			</a><br/>
+			Mohammad Khalid Hussain
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>338</td>
+		<td>
+			<a href="https://github.com/habibtalib">
+				<img src="https://avatars.githubusercontent.com/u/7113831?s=72&u=313b38d26654cf356155b691f8f8f9a3dd449ccb&v=4" width="24" alt="Avatar of habibtalib"> habibtalib
+			</a><br/>
+			Habib Talib
+		</td>
+		<td>Synctexs Solution </td>
+		<td><a href="https://twitter.com/cyberx11">cyberx11</a></td>
+		<td>Malaysia</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>339</td>
+		<td>
+			<a href="https://github.com/alijvhr">
+				<img src="https://avatars.githubusercontent.com/u/8235960?s=72&u=188c7c9b51d000917f60ebbb00b1ed154951a8c6&v=4" width="24" alt="Avatar of alijvhr"> alijvhr
+			</a><br/>
+			Ali Javaheri
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/alijvhr">alijvhr</a></td>
+		<td>Malaysia</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>340</td>
+		<td>
+			<a href="https://github.com/farhan-helmy">
+				<img src="https://avatars.githubusercontent.com/u/59960562?s=72&u=c6dcbe4ca462213c14dc04e2553546e69f7a8d82&v=4" width="24" alt="Avatar of farhan-helmy"> farhan-helmy
+			</a><br/>
+			Farhan Helmy
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/farhanhelmycode">farhanhelmycode</a></td>
+		<td>Malaysia</td>
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>341</td>
 		<td>
-			<a href="https://github.com/askmuhsin">
-				<img src="https://avatars.githubusercontent.com/u/8600096?s=72&u=d3354862cebce6b987fad5405a3bb4e11005a30e&v=4" width="24" alt="Avatar of askmuhsin"> askmuhsin
+			<a href="https://github.com/cylim">
+				<img src="https://avatars.githubusercontent.com/u/5622951?s=72&u=798ba3ccdc582e879631dac80015418c166d24d1&v=4" width="24" alt="Avatar of cylim"> cylim
 			</a><br/>
-			Muhsin Mohammed
+			CY Lim
 		</td>
-		<td>@shoppr </td>
+		<td>@cyants, @kysenpool & Codename:null<br/></td>
+		<td><a href="https://twitter.com/cylim226">cylim226</a></td>
+		<td>Penang, Malaysia</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>342</td>
+		<td>
+			<a href="https://github.com/taimoon">
+				<img src="https://avatars.githubusercontent.com/u/41246170?s=72&u=0fa375279c5e0136ff758d2aff39bb1c05c7d9ef&v=4" width="24" alt="Avatar of taimoon"> taimoon
+			</a><br/>
+			Leong Teng Man
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>343</td>
+		<td>
+			<a href="https://github.com/rexlow">
+				<img src="https://avatars.githubusercontent.com/u/7680796?s=72&u=f99f3e60dc673763f1324dfe6d57d2b3c5e711e3&v=4" width="24" alt="Avatar of rexlow"> rexlow
+			</a><br/>
+			Rex Low
+		</td>
+		<td>@revenuemonster  </td>
+		<td><a href="https://twitter.com/rexlow0823">rexlow0823</a></td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>56</td>
+		<td>55</td>
 	</tr>
 	<tr>
-		<td>333</td>
-		<td>
-			<a href="https://github.com/lerlerchan">
-				<img src="https://avatars.githubusercontent.com/u/35757415?s=72&u=7a4a271f94eb4f329df3432a8538ab1d4c44459a&v=4" width="24" alt="Avatar of lerlerchan"> lerlerchan
-			</a><br/>
-			LerLerChan
-		</td>
-		<td>Southern University College </td>
-		<td>No Twitter Username</td>
-		<td>Johor, Malaysia</td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>334</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/syah769">
 				<img src="https://avatars.githubusercontent.com/u/37147869?s=72&u=f088bfe4f98a5de6d780f8dad2d443a570362e69&v=4" width="24" alt="Avatar of syah769"> syah769
@@ -4447,33 +4577,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>335</td>
-		<td>
-			<a href="https://github.com/mazemax">
-				<img src="https://avatars.githubusercontent.com/u/1362445?s=72&u=a2c6e285ac709874db920dc4239f4af29ba4d617&v=4" width="24" alt="Avatar of mazemax"> mazemax
-			</a><br/>
-			Max Saad
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>336</td>
-		<td>
-			<a href="https://github.com/zackrsli">
-				<img src="https://avatars.githubusercontent.com/u/112287122?s=72&u=6ff495617cd0fd1d3cc7f89b4180d3826429fd78&v=4" width="24" alt="Avatar of zackrsli"> zackrsli
-			</a><br/>
-			Zackry Rosli
-		</td>
-		<td>@decubeio </td>
-		<td><a href="https://twitter.com/zackrsli">zackrsli</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>337</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/fido93">
 				<img src="https://avatars.githubusercontent.com/u/22357051?s=72&u=27308f5d759dd23f55ec04765f0849f23cb8b534&v=4" width="24" alt="Avatar of fido93"> fido93
@@ -4486,72 +4590,46 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>346</td>
 		<td>
-			<a href="https://github.com/almondheng">
-				<img src="https://avatars.githubusercontent.com/u/33097498?s=72&u=2ee15c5a3302414f97b3e82965e498c85ee07469&v=4" width="24" alt="Avatar of almondheng"> almondheng
+			<a href="https://github.com/LeeRenJie">
+				<img src="https://avatars.githubusercontent.com/u/67599130?s=72&u=687f579cde893a08ee1c185afdbf0eb214b2cef6&v=4" width="24" alt="Avatar of LeeRenJie"> LeeRenJie
 			</a><br/>
-			almondheng
+			Lee Ren Jie
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/almondheng">almondheng</a></td>
-		<td>Malaysia</td>
-		<td>55</td>
+		<td>No Twitter Username</td>
+		<td>Selangor, Malaysia</td>
+		<td>54</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>347</td>
 		<td>
-			<a href="https://github.com/NoorRaihan">
-				<img src="https://avatars.githubusercontent.com/u/22992785?s=72&u=c18ec6dbec0938fc53411b34931d5b189c4e663e&v=4" width="24" alt="Avatar of NoorRaihan"> NoorRaihan
+			<a href="https://github.com/faridyusof727">
+				<img src="https://avatars.githubusercontent.com/u/6507110?s=72&u=0233470ddb9f829b3ae0b0f15108f99a19c2c5b6&v=4" width="24" alt="Avatar of faridyusof727"> faridyusof727
 			</a><br/>
-			NOOR RAIHAN
+			Farid Yusof
 		</td>
-		<td>Finexus Sdn Bhd </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur</td>
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>348</td>
 		<td>
-			<a href="https://github.com/Dhivyno">
-				<img src="https://avatars.githubusercontent.com/u/63943490?s=72&u=15d52e9e999ddbbf92ada1bda5c8cb201e4917d7&v=4" width="24" alt="Avatar of Dhivyno"> Dhivyno
+			<a href="https://github.com/MTLKS">
+				<img src="https://avatars.githubusercontent.com/u/43807318?s=72&u=82d8fbbf21321ba32713ca5c985ba61b4111b206&v=4" width="24" alt="Avatar of MTLKS"> MTLKS
 			</a><br/>
-			Dhivyesh K
+			Matthew
 		</td>
-		<td>Garden International School <br/></td>
+		<td>42 Kuala Lumpur </td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>54</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>53</td>
 	</tr>
 	<tr>
-		<td>341</td>
-		<td>
-			<a href="https://github.com/alijvhr">
-				<img src="https://avatars.githubusercontent.com/u/8235960?s=72&u=188c7c9b51d000917f60ebbb00b1ed154951a8c6&v=4" width="24" alt="Avatar of alijvhr"> alijvhr
-			</a><br/>
-			Ali Javaheri
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/alijvhr">alijvhr</a></td>
-		<td>Malaysia</td>
-		<td>54</td>
-	</tr>
-	<tr>
-		<td>342</td>
-		<td>
-			<a href="https://github.com/adamity">
-				<img src="https://avatars.githubusercontent.com/u/50904284?s=72&u=5781d9709a62269446c9e6ae8c2ce3b96005aad0&v=4" width="24" alt="Avatar of adamity"> adamity
-			</a><br/>
-			Adamity
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/consistentcat">consistentcat</a></td>
-		<td>Malaysia</td>
-		<td>54</td>
-	</tr>
-	<tr>
-		<td>343</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/AmeerFaisalAdanan">
 				<img src="https://avatars.githubusercontent.com/u/24472998?s=72&u=2748360b0531ccfe3e4b600f7915764b6e97f099&v=4" width="24" alt="Avatar of AmeerFaisalAdanan"> AmeerFaisalAdanan
@@ -4561,75 +4639,62 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>54</td>
+		<td>53</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>350</td>
 		<td>
-			<a href="https://github.com/Zeyad-Azima">
-				<img src="https://avatars.githubusercontent.com/u/62406753?s=72&u=dbe6e3b2f9570064240f700ed08eef5443c9cc5a&v=4" width="24" alt="Avatar of Zeyad-Azima"> Zeyad-Azima
+			<a href="https://github.com/AmirolAhmad">
+				<img src="https://avatars.githubusercontent.com/u/1130863?s=72&u=7ffa942042ec03d96c6aa50060d1e5099ec13132&v=4" width="24" alt="Avatar of AmirolAhmad"> AmirolAhmad
 			</a><br/>
-			Zer0verflow
+			Xambitt
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AzimaZeyad">AzimaZeyad</a></td>
+		<td>@rubiest  </td>
+		<td><a href="https://twitter.com/xambitt">xambitt</a></td>
 		<td>Malaysia</td>
-		<td>53</td>
+		<td>52</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>351</td>
 		<td>
-			<a href="https://github.com/kuanhoong">
-				<img src="https://avatars.githubusercontent.com/u/2316456?s=72&u=2a7c98f357ba9dae92d7e30afd1c6e38a26c36c6&v=4" width="24" alt="Avatar of kuanhoong"> kuanhoong
+			<a href="https://github.com/ihsanberahim">
+				<img src="https://avatars.githubusercontent.com/u/1956846?s=72&v=4" width="24" alt="Avatar of ihsanberahim"> ihsanberahim
 			</a><br/>
-			Kuan Hoong
-		</td>
-		<td>Roche </td>
-		<td><a href="https://twitter.com/kuanhoong">kuanhoong</a></td>
-		<td>Malaysia</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>346</td>
-		<td>
-			<a href="https://github.com/ElyasAsmad">
-				<img src="https://avatars.githubusercontent.com/u/78308067?s=72&u=e1a4a0e08c45742fa8759df00d56dad7468b8a31&v=4" width="24" alt="Avatar of ElyasAsmad"> ElyasAsmad
-			</a><br/>
-			Elyas Asmad
-		</td>
-		<td>Bank Islam Malaysia Berhad<br/></td>
-		<td><a href="https://twitter.com/ElyasAsmad">ElyasAsmad</a></td>
-		<td>Batu Pahat, Johor, Malaysia</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>347</td>
-		<td>
-			<a href="https://github.com/afandiazmi">
-				<img src="https://avatars.githubusercontent.com/u/55932567?s=72&u=1c64613517fb763aa7691f4a88b3ba5b556693ce&v=4" width="24" alt="Avatar of afandiazmi"> afandiazmi
-			</a><br/>
-			Afandi Azmi
+			Muhammad Nur'Ihsan Bin Berahim
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>53</td>
+		<td>Cheras, Selangor, Malaysia</td>
+		<td>52</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>352</td>
 		<td>
-			<a href="https://github.com/abdule-yo">
-				<img src="https://avatars.githubusercontent.com/u/114812664?s=72&u=dd3b4d24ca7f38ae855b9b3875389bbd9e23610e&v=4" width="24" alt="Avatar of abdule-yo"> abdule-yo
+			<a href="https://github.com/abhishek71994">
+				<img src="https://avatars.githubusercontent.com/u/8072400?s=72&u=517e2a4ad5e7e81732cbd578f3a8318b3cf39d42&v=4" width="24" alt="Avatar of abhishek71994"> abhishek71994
 			</a><br/>
-			Abdule Y.
+			Abhishek Prasad
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/abdule_yo">abdule_yo</a></td>
-		<td>Malaysia, KL</td>
-		<td>53</td>
+		<td>Seek Asia </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>51</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>353</td>
+		<td>
+			<a href="https://github.com/Dhivyno">
+				<img src="https://avatars.githubusercontent.com/u/63943490?s=72&u=15d52e9e999ddbbf92ada1bda5c8cb201e4917d7&v=4" width="24" alt="Avatar of Dhivyno"> Dhivyno
+			</a><br/>
+			Dhivyesh K
+		</td>
+		<td>Garden International School <br/></td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/samtarmizi">
 				<img src="https://avatars.githubusercontent.com/u/48077864?s=72&u=4afd7a58494a9f1eca5f123f6f0391d0ed5a4293&v=4" width="24" alt="Avatar of samtarmizi"> samtarmizi
@@ -4639,62 +4704,10 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>Tarsoft </td>
 		<td><a href="https://twitter.com/sxmtarmizi">sxmtarmizi</a></td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>350</td>
-		<td>
-			<a href="https://github.com/rob0pup">
-				<img src="https://avatars.githubusercontent.com/u/203882662?s=72&u=36ea469ff9ac9839197e7fa1dc794fe5e3161998&v=4" width="24" alt="Avatar of rob0pup"> rob0pup
-			</a><br/>
-			rob0pup
-		</td>
-		<td>Self-employed </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>351</td>
-		<td>
-			<a href="https://github.com/shkna1368">
-				<img src="https://avatars.githubusercontent.com/u/4773370?s=72&u=999f6b6b337ae21d977e59b408b4ef046e3beaea&v=4" width="24" alt="Avatar of shkna1368"> shkna1368
-			</a><br/>
-			Shabab Koohi
-		</td>
-		<td>Standard Chartered </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>352</td>
-		<td>
-			<a href="https://github.com/jamesabela">
-				<img src="https://avatars.githubusercontent.com/u/16495873?s=72&u=f90b185347c51772c81bc1a7837e9c5310b84572&v=4" width="24" alt="Avatar of jamesabela"> jamesabela
-			</a><br/>
-			James Abela
-		</td>
-		<td>Garden International School </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>353</td>
-		<td>
-			<a href="https://github.com/farhan-helmy">
-				<img src="https://avatars.githubusercontent.com/u/59960562?s=72&u=c6dcbe4ca462213c14dc04e2553546e69f7a8d82&v=4" width="24" alt="Avatar of farhan-helmy"> farhan-helmy
-			</a><br/>
-			Farhan Helmy
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/farhanhelmycode">farhanhelmycode</a></td>
-		<td>Malaysia</td>
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/Fadhil">
 				<img src="https://avatars.githubusercontent.com/u/170094?s=72&u=2ba41621adb4a6a08f1ccb389227a6145a3db4a9&v=4" width="24" alt="Avatar of Fadhil"> Fadhil
@@ -4707,33 +4720,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>355</td>
-		<td>
-			<a href="https://github.com/JAhimaz">
-				<img src="https://avatars.githubusercontent.com/u/30050383?s=72&u=4f4cb30774f290f3fd3f0053fd32a196c68070e3&v=4" width="24" alt="Avatar of JAhimaz"> JAhimaz
-			</a><br/>
-			Joshua Ahimaz
-		</td>
-		<td>0g Labs </td>
-		<td><a href="https://twitter.com/TheCoolerJosh">TheCoolerJosh</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>50</td>
-	</tr>
-	<tr>
 		<td>356</td>
-		<td>
-			<a href="https://github.com/ruben2020">
-				<img src="https://avatars.githubusercontent.com/u/2457121?s=72&v=4" width="24" alt="Avatar of ruben2020"> ruben2020
-			</a><br/>
-			Ruben
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>357</td>
 		<td>
 			<a href="https://github.com/rinpatch">
 				<img src="https://avatars.githubusercontent.com/u/37929071?s=72&u=ab339c101e0bbb3facac01e6615e2dd4f7647ec2&v=4" width="24" alt="Avatar of rinpatch"> rinpatch
@@ -4743,6 +4730,19 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>357</td>
+		<td>
+			<a href="https://github.com/ruben2020">
+				<img src="https://avatars.githubusercontent.com/u/2457121?s=72&v=4" width="24" alt="Avatar of ruben2020"> ruben2020
+			</a><br/>
+			Ruben
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
 		<td>50</td>
 	</tr>
 	<tr>
@@ -4761,66 +4761,66 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 	<tr>
 		<td>359</td>
 		<td>
-			<a href="https://github.com/niczrsoh">
-				<img src="https://avatars.githubusercontent.com/u/87169349?s=72&u=1a8877d9eef8ab704fb01f917acaf92e717f58cf&v=4" width="24" alt="Avatar of niczrsoh"> niczrsoh
+			<a href="https://github.com/ShuvoHabib">
+				<img src="https://avatars.githubusercontent.com/u/7802528?s=72&u=c8b22bec31bf54de3f60b868f817a4103061b91a&v=4" width="24" alt="Avatar of ShuvoHabib"> ShuvoHabib
 			</a><br/>
-			Soh Zen Ren
+			Habib
 		</td>
-		<td>Universiti Teknologi Malaysia </td>
+		<td>Deriv </td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>50</td>
+		<td>Cyberjaya, Malaysia</td>
+		<td>49</td>
 	</tr>
 	<tr>
 		<td>360</td>
 		<td>
-			<a href="https://github.com/afzafri">
-				<img src="https://avatars.githubusercontent.com/u/14824387?s=72&u=52fddbee8f3e89e70eb466efe67d84ffdf8223f3&v=4" width="24" alt="Avatar of afzafri"> afzafri
+			<a href="https://github.com/LimJY03">
+				<img src="https://avatars.githubusercontent.com/u/44389847?s=72&u=ba7b99ba5b6c041c47a631afa4a63f7dde9de918&v=4" width="24" alt="Avatar of LimJY03"> LimJY03
 			</a><br/>
-			Afif Zafri
+			Lim JY
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/afzafri">afzafri</a></td>
-		<td>Subang Jaya, Selangor, Malaysia</td>
+		<td>Universiti Malaya </td>
+		<td>No Twitter Username</td>
+		<td>Federal Territory of Kuala Lumpur, Malaysia</td>
 		<td>49</td>
 	</tr>
 	<tr>
 		<td>361</td>
 		<td>
-			<a href="https://github.com/mkhairi">
-				<img src="https://avatars.githubusercontent.com/u/7901659?s=72&u=6e86ed6331dfa6039a9f398beb682c5e04ff9f0e&v=4" width="24" alt="Avatar of mkhairi"> mkhairi
+			<a href="https://github.com/arfinhosainn">
+				<img src="https://avatars.githubusercontent.com/u/86840895?s=72&u=b87dc253f6bb7466d2e543fc02c574ffd4f985a1&v=4" width="24" alt="Avatar of arfinhosainn"> arfinhosainn
 			</a><br/>
-			Khairi Adnan
+			Arfin Hosain
 		</td>
-		<td>@tekno-labs  </td>
-		<td><a href="https://twitter.com/kheri_ad6">kheri_ad6</a></td>
-		<td>Shah Alam, Malaysia</td>
+		<td>Arfin Hosain </td>
+		<td><a href="https://twitter.com/ArfinHosain4">ArfinHosain4</a></td>
+		<td>Malaysia</td>
 		<td>49</td>
 	</tr>
 	<tr>
 		<td>362</td>
 		<td>
-			<a href="https://github.com/mason-chase">
-				<img src="https://avatars.githubusercontent.com/u/17309021?s=72&u=589638f22a9257aaf3879382199657cd515e299b&v=4" width="24" alt="Avatar of mason-chase"> mason-chase
+			<a href="https://github.com/alifmazli">
+				<img src="https://avatars.githubusercontent.com/u/73010352?s=72&u=53ea70bb36ee13ceae98528cf134266ab1d5e1f7&v=4" width="24" alt="Avatar of alifmazli"> alifmazli
 			</a><br/>
-			Mason Chase
+			Alif Mazli
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>California, Kuala Lumpur, Amsterdam, Rotterdam</td>
+		<td>Revo </td>
+		<td><a href="https://twitter.com/alifmazli2">alifmazli2</a></td>
+		<td>Kuala Lumpur</td>
 		<td>49</td>
 	</tr>
 	<tr>
 		<td>363</td>
 		<td>
-			<a href="https://github.com/asifmuntasir">
-				<img src="https://avatars.githubusercontent.com/u/66783393?s=72&u=927975714c04b55c9c185cee39078c79de7c0f79&v=4" width="24" alt="Avatar of asifmuntasir"> asifmuntasir
+			<a href="https://github.com/AdinRC">
+				<img src="https://avatars.githubusercontent.com/u/93084433?s=72&u=43049bbdd5afa7c808ee0b0fd67c2343ca3fd5e8&v=4" width="24" alt="Avatar of AdinRC"> AdinRC
 			</a><br/>
-			Asif Muntasir Shuaib
+			Aizuddin
 		</td>
-		<td>Theta Edge Berhad </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Petaling Jaya, Selangor, Malaysia.</td>
+		<td>Malaysia</td>
 		<td>49</td>
 	</tr>
 	<tr>
@@ -4834,88 +4834,23 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>@setel-engineering </td>
 		<td><a href="https://twitter.com/feedsbrain">feedsbrain</a></td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>49</td>
+		<td>48</td>
 	</tr>
 	<tr>
 		<td>365</td>
 		<td>
-			<a href="https://github.com/arisecode">
-				<img src="https://avatars.githubusercontent.com/u/10177288?s=72&u=1a81859fe15d95d05f56e75bca0c8dc77a477c1d&v=4" width="24" alt="Avatar of arisecode"> arisecode
+			<a href="https://github.com/JAhimaz">
+				<img src="https://avatars.githubusercontent.com/u/30050383?s=72&u=4f4cb30774f290f3fd3f0053fd32a196c68070e3&v=4" width="24" alt="Avatar of JAhimaz"> JAhimaz
 			</a><br/>
-			Fauzan
+			Joshua Ahimaz
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>49</td>
+		<td>0g Labs </td>
+		<td><a href="https://twitter.com/TheCoolerJosh">TheCoolerJosh</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>48</td>
 	</tr>
 	<tr>
 		<td>366</td>
-		<td>
-			<a href="https://github.com/arfinhosainn">
-				<img src="https://avatars.githubusercontent.com/u/86840895?s=72&u=b87dc253f6bb7466d2e543fc02c574ffd4f985a1&v=4" width="24" alt="Avatar of arfinhosainn"> arfinhosainn
-			</a><br/>
-			Arfin Hosain
-		</td>
-		<td>Arfin Hosain </td>
-		<td><a href="https://twitter.com/ArfinHosain4">ArfinHosain4</a></td>
-		<td>Malaysia</td>
-		<td>49</td>
-	</tr>
-	<tr>
-		<td>367</td>
-		<td>
-			<a href="https://github.com/Thaza-Kun">
-				<img src="https://avatars.githubusercontent.com/u/61819672?s=72&u=cba22b36de00fa38bcd90ed10f86033d15121331&v=4" width="24" alt="Avatar of Thaza-Kun"> Thaza-Kun
-			</a><br/>
-			Murthadza Aznam
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>49</td>
-	</tr>
-	<tr>
-		<td>368</td>
-		<td>
-			<a href="https://github.com/zhamri">
-				<img src="https://avatars.githubusercontent.com/u/24503750?s=72&u=aee63f41a650b2369d27c3455b246b21539d1c46&v=4" width="24" alt="Avatar of zhamri"> zhamri
-			</a><br/>
-			Zhamri Che Ani
-		</td>
-		<td>Universiti Utara Malaysia </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>369</td>
-		<td>
-			<a href="https://github.com/MagusWyvern">
-				<img src="https://avatars.githubusercontent.com/u/72914828?s=72&u=56efdc5bead565a149406d2a119f1b0c302ad22f&v=4" width="24" alt="Avatar of MagusWyvern"> MagusWyvern
-			</a><br/>
-			Adi Ahmad Danish
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/MagusWyvern">MagusWyvern</a></td>
-		<td>Malaysia</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>370</td>
-		<td>
-			<a href="https://github.com/wnarifin">
-				<img src="https://avatars.githubusercontent.com/u/8581708?s=72&u=859dd0d01ee7063bca55e025c9c7c6dd803a0d59&v=4" width="24" alt="Avatar of wnarifin"> wnarifin
-			</a><br/>
-			Wan Nor Arifin
-		</td>
-		<td>Universiti Sains Malaysia </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>371</td>
 		<td>
 			<a href="https://github.com/vicevirus">
 				<img src="https://avatars.githubusercontent.com/u/1129407?s=72&u=a1d6fd2e5c43ce558b1c47446bc0c03cbeeb2853&v=4" width="24" alt="Avatar of vicevirus"> vicevirus
@@ -4928,20 +4863,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>372</td>
+		<td>367</td>
 		<td>
-			<a href="https://github.com/sirhcofe">
-				<img src="https://avatars.githubusercontent.com/u/99158692?s=72&u=69eb7cd762fdb4e9546e5a45d040dba1f702a144&v=4" width="24" alt="Avatar of sirhcofe"> sirhcofe
+			<a href="https://github.com/HafizuddinSharif">
+				<img src="https://avatars.githubusercontent.com/u/53827794?s=72&u=b91a16b48d5f4078f04ff0d022a465aa7550d7d6&v=4" width="24" alt="Avatar of HafizuddinSharif"> HafizuddinSharif
 			</a><br/>
-			Cheng Zer Lee
+			Hafizuddin Sharif
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Selangor, Malaysia</td>
+		<td><a href="https://twitter.com/sharippu">sharippu</a></td>
+		<td>Malaysia</td>
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>373</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/jeffhappily">
 				<img src="https://avatars.githubusercontent.com/u/15669500?s=72&u=c6adb1b15a574d122b621091cf4a7829c1959a5b&v=4" width="24" alt="Avatar of jeffhappily"> jeffhappily
@@ -4954,20 +4889,72 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>369</td>
 		<td>
-			<a href="https://github.com/rexlow">
-				<img src="https://avatars.githubusercontent.com/u/7680796?s=72&u=f99f3e60dc673763f1324dfe6d57d2b3c5e711e3&v=4" width="24" alt="Avatar of rexlow"> rexlow
+			<a href="https://github.com/qir4ni">
+				<img src="https://avatars.githubusercontent.com/u/31045106?s=72&u=f5710a8a72b153508b674c43c535ae5210e207d5&v=4" width="24" alt="Avatar of qir4ni"> qir4ni
 			</a><br/>
-			Rex Low
+			Awis
 		</td>
-		<td>@revenuemonster  </td>
-		<td><a href="https://twitter.com/rexlow0823">rexlow0823</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>47</td>
+		<td>Chip In Sdn Bhd<br/></td>
+		<td><a href="https://twitter.com/qir4ni">qir4ni</a></td>
+		<td>Malaysia</td>
+		<td>46</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>370</td>
+		<td>
+			<a href="https://github.com/sweemeng">
+				<img src="https://avatars.githubusercontent.com/u/80779?s=72&v=4" width="24" alt="Avatar of sweemeng"> sweemeng
+			</a><br/>
+			sweemeng
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>kuala lumpur</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>371</td>
+		<td>
+			<a href="https://github.com/MagusWyvern">
+				<img src="https://avatars.githubusercontent.com/u/72914828?s=72&u=56efdc5bead565a149406d2a119f1b0c302ad22f&v=4" width="24" alt="Avatar of MagusWyvern"> MagusWyvern
+			</a><br/>
+			Adi Ahmad Danish
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MagusWyvern">MagusWyvern</a></td>
+		<td>Malaysia</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>372</td>
+		<td>
+			<a href="https://github.com/Ruhul-Quddus-Tamim">
+				<img src="https://avatars.githubusercontent.com/u/86849949?s=72&u=5336d937505056f71def5bd8f7ac5a5656bb98cb&v=4" width="24" alt="Avatar of Ruhul-Quddus-Tamim"> Ruhul-Quddus-Tamim
+			</a><br/>
+			Tamim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur </td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>373</td>
+		<td>
+			<a href="https://github.com/WenLonG12345">
+				<img src="https://avatars.githubusercontent.com/u/39330565?s=72&u=3f3fc4fbd4a8395f79223c01a3531306f75da984&v=4" width="24" alt="Avatar of WenLonG12345"> WenLonG12345
+			</a><br/>
+			Teo
+		</td>
+		<td>Astro </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/hisham86">
 				<img src="https://avatars.githubusercontent.com/u/29301784?s=72&u=ff7d35dc335613eb0ec568ddf4ef5139ce2cb657&v=4" width="24" alt="Avatar of hisham86"> hisham86
@@ -4980,72 +4967,72 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>46</td>
 	</tr>
 	<tr>
+		<td>375</td>
+		<td>
+			<a href="https://github.com/0xN1">
+				<img src="https://avatars.githubusercontent.com/u/9148847?s=72&u=f70356a6f1666a280b8b1ef84af48c951b5c6191&v=4" width="24" alt="Avatar of 0xN1"> 0xN1
+			</a><br/>
+			Nero One
+		</td>
+		<td>N1-lab </td>
+		<td><a href="https://twitter.com/0xNeroOne">0xNeroOne</a></td>
+		<td>Shah Alam, Malaysia</td>
+		<td>44</td>
+	</tr>
+	<tr>
 		<td>376</td>
 		<td>
-			<a href="https://github.com/HafizuddinSharif">
-				<img src="https://avatars.githubusercontent.com/u/53827794?s=72&u=b91a16b48d5f4078f04ff0d022a465aa7550d7d6&v=4" width="24" alt="Avatar of HafizuddinSharif"> HafizuddinSharif
+			<a href="https://github.com/Yeffian">
+				<img src="https://avatars.githubusercontent.com/u/76024824?s=72&v=4" width="24" alt="Avatar of Yeffian"> Yeffian
 			</a><br/>
-			Hafizuddin Sharif
+			Adit Chakraborty
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sharippu">sharippu</a></td>
-		<td>Malaysia</td>
-		<td>45</td>
+		<td>Garden International School </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>44</td>
 	</tr>
 	<tr>
 		<td>377</td>
 		<td>
-			<a href="https://github.com/julianfssen">
-				<img src="https://avatars.githubusercontent.com/u/25947043?s=72&u=7cf20d5128ad3da010ab31721580a48799fa0612&v=4" width="24" alt="Avatar of julianfssen"> julianfssen
+			<a href="https://github.com/arisecode">
+				<img src="https://avatars.githubusercontent.com/u/10177288?s=72&u=1a81859fe15d95d05f56e75bca0c8dc77a477c1d&v=4" width="24" alt="Avatar of arisecode"> arisecode
 			</a><br/>
-			Julian Foo Siang Sen
+			Fauzan
 		</td>
-		<td>Jup.ag </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>45</td>
+		<td>Malaysia</td>
+		<td>44</td>
 	</tr>
 	<tr>
 		<td>378</td>
 		<td>
-			<a href="https://github.com/Jachokoreto">
-				<img src="https://avatars.githubusercontent.com/u/49505493?s=72&u=87ce0bfb31c8ae959e0be29d2cb1edcf1e95ab82&v=4" width="24" alt="Avatar of Jachokoreto"> Jachokoreto
+			<a href="https://github.com/adamity">
+				<img src="https://avatars.githubusercontent.com/u/50904284?s=72&u=5781d9709a62269446c9e6ae8c2ce3b96005aad0&v=4" width="24" alt="Avatar of adamity"> adamity
 			</a><br/>
-			Jaclyn Tan
+			Adamity
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/consistentcat">consistentcat</a></td>
 		<td>Malaysia</td>
 		<td>44</td>
 	</tr>
 	<tr>
 		<td>379</td>
 		<td>
-			<a href="https://github.com/f4ww4z">
-				<img src="https://avatars.githubusercontent.com/u/21199242?s=72&u=d6a25fd7da5700c80fe1204b4a02d3c906d60cff&v=4" width="24" alt="Avatar of f4ww4z"> f4ww4z
+			<a href="https://github.com/Thaza-Kun">
+				<img src="https://avatars.githubusercontent.com/u/61819672?s=72&u=cba22b36de00fa38bcd90ed10f86033d15121331&v=4" width="24" alt="Avatar of Thaza-Kun"> Thaza-Kun
 			</a><br/>
-			Fawwaz Yusran
+			Murthadza Aznam
 		</td>
-		<td>@creative-light  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Yogyakarta, Terengganu, Kuala Lumpur</td>
+		<td>Malaysia</td>
 		<td>44</td>
 	</tr>
 	<tr>
 		<td>380</td>
-		<td>
-			<a href="https://github.com/jiuntian">
-				<img src="https://avatars.githubusercontent.com/u/13869695?s=72&u=e0f3b2a7ba6c3a54c7d2f52b90c4d732f29485db&v=4" width="24" alt="Avatar of jiuntian"> jiuntian
-			</a><br/>
-			Hoe Jiun Tian
-		</td>
-		<td>Nanyang Technological University </td>
-		<td>No Twitter Username</td>
-		<td>Penang, Malaysia</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>381</td>
 		<td>
 			<a href="https://github.com/Alex-Lekov">
 				<img src="https://avatars.githubusercontent.com/u/61644712?s=72&u=b94e4ee658875410008495383d0428a39591c07d&v=4" width="24" alt="Avatar of Alex-Lekov"> Alex-Lekov
@@ -5058,56 +5045,69 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>43</td>
 	</tr>
 	<tr>
+		<td>381</td>
+		<td>
+			<a href="https://github.com/jiuntian">
+				<img src="https://avatars.githubusercontent.com/u/13869695?s=72&u=e0f3b2a7ba6c3a54c7d2f52b90c4d732f29485db&v=4" width="24" alt="Avatar of jiuntian"> jiuntian
+			</a><br/>
+			Hoe Jiun Tian
+		</td>
+		<td>Nanyang Technological University </td>
+		<td>No Twitter Username</td>
+		<td>Penang, Malaysia</td>
+		<td>43</td>
+	</tr>
+	<tr>
 		<td>382</td>
 		<td>
-			<a href="https://github.com/54853315">
-				<img src="https://avatars.githubusercontent.com/u/1081252?s=72&u=87f542d41f9b7d3f5647c13734803221c7a124de&v=4" width="24" alt="Avatar of 54853315"> 54853315
+			<a href="https://github.com/ElyasAsmad">
+				<img src="https://avatars.githubusercontent.com/u/78308067?s=72&u=e1a4a0e08c45742fa8759df00d56dad7468b8a31&v=4" width="24" alt="Avatar of ElyasAsmad"> ElyasAsmad
 			</a><br/>
-			konakona
+			Elyas Asmad
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Guilin/Malaysia</td>
+		<td>Bank Islam Malaysia Berhad<br/></td>
+		<td><a href="https://twitter.com/ElyasAsmad">ElyasAsmad</a></td>
+		<td>Batu Pahat, Johor, Malaysia</td>
 		<td>43</td>
 	</tr>
 	<tr>
 		<td>383</td>
 		<td>
-			<a href="https://github.com/jslim89">
-				<img src="https://avatars.githubusercontent.com/u/797182?s=72&v=4" width="24" alt="Avatar of jslim89"> jslim89
+			<a href="https://github.com/atifnewcastle">
+				<img src="https://avatars.githubusercontent.com/u/9415579?s=72&u=f6a148180b3e1fde51ddec1c0213e2beee545e55&v=4" width="24" alt="Avatar of atifnewcastle"> atifnewcastle
 			</a><br/>
-			Js Lim
+			MUHAMMAD ATIF RAMLAN
 		</td>
-		<td>No Company</td>
+		<td>Universiti Teknologi Mara, Malaysia<br/></td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>43</td>
+		<td>Kuala Teregganu, Malaysia</td>
+		<td>42</td>
 	</tr>
 	<tr>
 		<td>384</td>
 		<td>
-			<a href="https://github.com/cs-chan">
-				<img src="https://avatars.githubusercontent.com/u/23725126?s=72&u=e77b596df419a4d8ee7f0c70a5879714569f9c90&v=4" width="24" alt="Avatar of cs-chan"> cs-chan
+			<a href="https://github.com/abdule-yo">
+				<img src="https://avatars.githubusercontent.com/u/114812664?s=72&u=dd3b4d24ca7f38ae855b9b3875389bbd9e23610e&v=4" width="24" alt="Avatar of abdule-yo"> abdule-yo
 			</a><br/>
-			Chee Seng Chan
+			Abdule Y.
 		</td>
-		<td>Universiti Malaya </td>
-		<td><a href="https://twitter.com/cschan134">cschan134</a></td>
-		<td>Malaysia</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/abdule_yo">abdule_yo</a></td>
+		<td>Malaysia, KL</td>
 		<td>42</td>
 	</tr>
 	<tr>
 		<td>385</td>
 		<td>
-			<a href="https://github.com/nekoprog">
-				<img src="https://avatars.githubusercontent.com/u/2550618?s=72&v=4" width="24" alt="Avatar of nekoprog"> nekoprog
+			<a href="https://github.com/ZhengYuTay">
+				<img src="https://avatars.githubusercontent.com/u/32449414?s=72&v=4" width="24" alt="Avatar of ZhengYuTay"> ZhengYuTay
 			</a><br/>
-			Neko Prog
+			Tay Zheng Yu
 		</td>
-		<td>@petanisugeh  </td>
-		<td>No Twitter Username</td>
-		<td>Mersing, Johor, Malaysia</td>
-		<td>42</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/zhengyutay">zhengyutay</a></td>
+		<td>Malaysia</td>
+		<td>41</td>
 	</tr>
 	<tr>
 		<td>386</td>
@@ -5120,101 +5120,49 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/adibzter">adibzter</a></td>
 		<td>Malaysia</td>
-		<td>42</td>
+		<td>41</td>
 	</tr>
 	<tr>
 		<td>387</td>
 		<td>
-			<a href="https://github.com/alifmazli">
-				<img src="https://avatars.githubusercontent.com/u/73010352?s=72&u=53ea70bb36ee13ceae98528cf134266ab1d5e1f7&v=4" width="24" alt="Avatar of alifmazli"> alifmazli
+			<a href="https://github.com/onimusya">
+				<img src="https://avatars.githubusercontent.com/u/1286179?s=72&u=6e2b42f78b2b95fd70febaab027bd754d07e1f07&v=4" width="24" alt="Avatar of onimusya"> onimusya
 			</a><br/>
-			Alif Mazli
+			Francis Hor
 		</td>
-		<td>Revo </td>
-		<td><a href="https://twitter.com/alifmazli2">alifmazli2</a></td>
-		<td>Kuala Lumpur</td>
-		<td>42</td>
+		<td>@francishor </td>
+		<td><a href="https://twitter.com/francishorcw">francishorcw</a></td>
+		<td>Malaysia</td>
+		<td>41</td>
 	</tr>
 	<tr>
 		<td>388</td>
 		<td>
-			<a href="https://github.com/syahrinseth">
-				<img src="https://avatars.githubusercontent.com/u/32351679?s=72&u=c772f2d842212e999e42da0965ecbabd78e5d33b&v=4" width="24" alt="Avatar of syahrinseth"> syahrinseth
+			<a href="https://github.com/nzmksk">
+				<img src="https://avatars.githubusercontent.com/u/107503836?s=72&u=6f5083b921617bf320323ee08899982fecd6d31f&v=4" width="24" alt="Avatar of nzmksk"> nzmksk
 			</a><br/>
-			Syahrin Seth
+			Mohd Hafiz Zabba
 		</td>
-		<td>Betterweb Solutions </td>
-		<td><a href="https://twitter.com/syahrinseth">syahrinseth</a></td>
-		<td>Malaysia</td>
-		<td>42</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cyberjaya, Selangor, Malaysia</td>
+		<td>41</td>
 	</tr>
 	<tr>
 		<td>389</td>
 		<td>
-			<a href="https://github.com/vxavictor513">
-				<img src="https://avatars.githubusercontent.com/u/27017678?s=72&u=86b4027488b6fa9c119529d0d8aab23057c3a4ce&v=4" width="24" alt="Avatar of vxavictor513"> vxavictor513
+			<a href="https://github.com/SalmanEunus27">
+				<img src="https://avatars.githubusercontent.com/u/52669020?s=72&u=6da51bbf36efce8388efc921f36dbcb06dc113d2&v=4" width="24" alt="Avatar of SalmanEunus27"> SalmanEunus27
 			</a><br/>
-			Wai Loon
+			Salman Ibne Eunus
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, MY</td>
-		<td>42</td>
+		<td>International Islamic University Malaysia<br/></td>
+		<td><a href="https://twitter.com/ibne_eunus">ibne_eunus</a></td>
+		<td>Gombak, Selangor, Malaysia</td>
+		<td>41</td>
 	</tr>
 	<tr>
 		<td>390</td>
-		<td>
-			<a href="https://github.com/Shamim-Al-Mamun">
-				<img src="https://avatars.githubusercontent.com/u/86506636?s=72&u=b6b3c9e794aa009e0d8fe263a808e55f60403821&v=4" width="24" alt="Avatar of Shamim-Al-Mamun"> Shamim-Al-Mamun
-			</a><br/>
-			Mamun
-		</td>
-		<td>Https://www.igsb.com </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>41</td>
-	</tr>
-	<tr>
-		<td>391</td>
-		<td>
-			<a href="https://github.com/hovahyii">
-				<img src="https://avatars.githubusercontent.com/u/31881261?s=72&u=f776aa87bf53077c38f3c0be30aeeae32e49f46d&v=4" width="24" alt="Avatar of hovahyii"> hovahyii
-			</a><br/>
-			Jehovah Yii Zui Hon (Hovah)
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Selangor, Malaysia</td>
-		<td>41</td>
-	</tr>
-	<tr>
-		<td>392</td>
-		<td>
-			<a href="https://github.com/AlekseiMonakhov">
-				<img src="https://avatars.githubusercontent.com/u/80720836?s=72&u=82269af85e20f4e08985b3740daca78525de02ea&v=4" width="24" alt="Avatar of AlekseiMonakhov"> AlekseiMonakhov
-			</a><br/>
-			Aleksei M.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>40</td>
-	</tr>
-	<tr>
-		<td>393</td>
-		<td>
-			<a href="https://github.com/leewp14">
-				<img src="https://avatars.githubusercontent.com/u/17796518?s=72&u=5b27ef623dabbe545e7a33780e7b8914b422c509&v=4" width="24" alt="Avatar of leewp14"> leewp14
-			</a><br/>
-			lee.wp14
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Penang, Malaysia</td>
-		<td>40</td>
-	</tr>
-	<tr>
-		<td>394</td>
 		<td>
 			<a href="https://github.com/taufek">
 				<img src="https://avatars.githubusercontent.com/u/10803354?s=72&u=b4b90a8cd40dc2918bcd12a9a475bfc9fad0d457&v=4" width="24" alt="Avatar of taufek"> taufek
@@ -5224,101 +5172,127 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>@caterspot </td>
 		<td><a href="https://twitter.com/taufekjohar">taufekjohar</a></td>
 		<td>Kuala Lumpur, Malaysia</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>391</td>
+		<td>
+			<a href="https://github.com/mkhairi">
+				<img src="https://avatars.githubusercontent.com/u/7901659?s=72&u=6e86ed6331dfa6039a9f398beb682c5e04ff9f0e&v=4" width="24" alt="Avatar of mkhairi"> mkhairi
+			</a><br/>
+			Khairi Adnan
+		</td>
+		<td>@tekno-labs  </td>
+		<td><a href="https://twitter.com/kheri_ad6">kheri_ad6</a></td>
+		<td>Shah Alam, Malaysia</td>
 		<td>40</td>
+	</tr>
+	<tr>
+		<td>392</td>
+		<td>
+			<a href="https://github.com/zyqhpz">
+				<img src="https://avatars.githubusercontent.com/u/19585220?s=72&u=208b9a956b8ef38b95bff303bcf3daeaa628736d&v=4" width="24" alt="Avatar of zyqhpz"> zyqhpz
+			</a><br/>
+			Haziq Hapiz
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/haziqhapiz">haziqhapiz</a></td>
+		<td>Malaysia</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>393</td>
+		<td>
+			<a href="https://github.com/NoorRaihan">
+				<img src="https://avatars.githubusercontent.com/u/22992785?s=72&u=c18ec6dbec0938fc53411b34931d5b189c4e663e&v=4" width="24" alt="Avatar of NoorRaihan"> NoorRaihan
+			</a><br/>
+			NOOR RAIHAN
+		</td>
+		<td>Finexus Sdn Bhd </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>394</td>
+		<td>
+			<a href="https://github.com/jslim89">
+				<img src="https://avatars.githubusercontent.com/u/797182?s=72&v=4" width="24" alt="Avatar of jslim89"> jslim89
+			</a><br/>
+			Js Lim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>39</td>
 	</tr>
 	<tr>
 		<td>395</td>
 		<td>
-			<a href="https://github.com/mammykins">
-				<img src="https://avatars.githubusercontent.com/u/6576226?s=72&u=4fc730a0d096d4a7077e1a9f70a070464474aa68&v=4" width="24" alt="Avatar of mammykins"> mammykins
+			<a href="https://github.com/LongYC">
+				<img src="https://avatars.githubusercontent.com/u/3985459?s=72&u=450f8d47e93bfc983a33345f478c11e672a0c194&v=4" width="24" alt="Avatar of LongYC"> LongYC
 			</a><br/>
-			Matthew Gregory
+			LongYC
 		</td>
-		<td>Government Digital Service </td>
-		<td><a href="https://twitter.com/mammykins_">mammykins_</a></td>
-		<td>Kuala Lumpur</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
 		<td>39</td>
 	</tr>
 	<tr>
 		<td>396</td>
 		<td>
-			<a href="https://github.com/hazimhanif">
-				<img src="https://avatars.githubusercontent.com/u/7348874?s=72&u=ca7169b67ef7543c894fe2d46e1890c3a94618ab&v=4" width="24" alt="Avatar of hazimhanif"> hazimhanif
+			<a href="https://github.com/Shamim-Al-Mamun">
+				<img src="https://avatars.githubusercontent.com/u/86506636?s=72&u=b6b3c9e794aa009e0d8fe263a808e55f60403821&v=4" width="24" alt="Avatar of Shamim-Al-Mamun"> Shamim-Al-Mamun
 			</a><br/>
-			Hazim Hanif
+			Mamun
 		</td>
-		<td>Universiti Malaya </td>
+		<td>Https://www.igsb.com </td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>39</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>38</td>
 	</tr>
 	<tr>
 		<td>397</td>
 		<td>
-			<a href="https://github.com/LeeRenJie">
-				<img src="https://avatars.githubusercontent.com/u/67599130?s=72&u=687f579cde893a08ee1c185afdbf0eb214b2cef6&v=4" width="24" alt="Avatar of LeeRenJie"> LeeRenJie
+			<a href="https://github.com/linuxmalaysia">
+				<img src="https://avatars.githubusercontent.com/u/72349?s=72&v=4" width="24" alt="Avatar of linuxmalaysia"> linuxmalaysia
 			</a><br/>
-			Lee Ren Jie
+			Harisfazillah Jamel
 		</td>
-		<td>No Company</td>
+		<td>@songketmail  </td>
 		<td>No Twitter Username</td>
-		<td>Selangor, Malaysia</td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>38</td>
 	</tr>
 	<tr>
 		<td>398</td>
 		<td>
-			<a href="https://github.com/AmirolAhmad">
-				<img src="https://avatars.githubusercontent.com/u/1130863?s=72&u=7ffa942042ec03d96c6aa50060d1e5099ec13132&v=4" width="24" alt="Avatar of AmirolAhmad"> AmirolAhmad
+			<a href="https://github.com/shiernee">
+				<img src="https://avatars.githubusercontent.com/u/49260558?s=72&v=4" width="24" alt="Avatar of shiernee"> shiernee
 			</a><br/>
-			Xambitt
+			Shier Nee Saw 
 		</td>
-		<td>@rubiest  </td>
-		<td><a href="https://twitter.com/xambitt">xambitt</a></td>
+		<td>Universiti Malaya </td>
+		<td>No Twitter Username</td>
 		<td>Malaysia</td>
 		<td>38</td>
 	</tr>
 	<tr>
 		<td>399</td>
 		<td>
-			<a href="https://github.com/tylerlim">
-				<img src="https://avatars.githubusercontent.com/u/627237?s=72&v=4" width="24" alt="Avatar of tylerlim"> tylerlim
+			<a href="https://github.com/julianfssen">
+				<img src="https://avatars.githubusercontent.com/u/25947043?s=72&u=7cf20d5128ad3da010ab31721580a48799fa0612&v=4" width="24" alt="Avatar of julianfssen"> julianfssen
 			</a><br/>
-			Lim Ting Wei
+			Julian Foo Siang Sen
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Pulau Penang, Malaysia</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>400</td>
-		<td>
-			<a href="https://github.com/naqibasri">
-				<img src="https://avatars.githubusercontent.com/u/94728775?s=72&u=5cd6736ca87947234dc26e50e765624843fcd657&v=4" width="24" alt="Avatar of naqibasri"> naqibasri
-			</a><br/>
-			Naqib
-		</td>
-		<td>No Company</td>
+		<td>Jup.ag </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>401</td>
-		<td>
-			<a href="https://github.com/k11q">
-				<img src="https://avatars.githubusercontent.com/u/101852870?s=72&u=165230fe4186fe360b484e07adef9420ccaeb2cc&v=4" width="24" alt="Avatar of k11q"> k11q
-			</a><br/>
-			kerol
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>402</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/kimmohito">
 				<img src="https://avatars.githubusercontent.com/u/61388555?s=72&v=4" width="24" alt="Avatar of kimmohito"> kimmohito
@@ -5331,33 +5305,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>401</td>
 		<td>
-			<a href="https://github.com/kagesenshi">
-				<img src="https://avatars.githubusercontent.com/u/480984?s=72&u=29fe1669e61ead470f21ce074bf755ff3d69e926&v=4" width="24" alt="Avatar of kagesenshi"> kagesenshi
+			<a href="https://github.com/klrkdekira">
+				<img src="https://avatars.githubusercontent.com/u/411259?s=72&u=7dd40e570487e279ae28921d2b674eec059c24a2&v=4" width="24" alt="Avatar of klrkdekira"> klrkdekira
 			</a><br/>
-			Izhar Firdaus
+			Chee Leong
 		</td>
-		<td>Abyres Enterprise Technologies Sdn<br/>Bhd<br/></td>
+		<td>@engineersmy </td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
+		<td>Kuala Lumpur</td>
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>404</td>
+		<td>402</td>
 		<td>
-			<a href="https://github.com/LongYC">
-				<img src="https://avatars.githubusercontent.com/u/3985459?s=72&u=450f8d47e93bfc983a33345f478c11e672a0c194&v=4" width="24" alt="Avatar of LongYC"> LongYC
+			<a href="https://github.com/patrickxchong">
+				<img src="https://avatars.githubusercontent.com/u/20418855?s=72&u=e5029e6d4f4118f0b17aedeb41d953475184c6c5&v=4" width="24" alt="Avatar of patrickxchong"> patrickxchong
 			</a><br/>
-			LongYC
+			Patrick Chong
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>403</td>
 		<td>
 			<a href="https://github.com/iamalvisng">
 				<img src="https://avatars.githubusercontent.com/u/13939164?s=72&u=a911571343d976767ee2773addfe9826725be347&v=4" width="24" alt="Avatar of iamalvisng"> iamalvisng
@@ -5370,59 +5344,46 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
+		<td>404</td>
+		<td>
+			<a href="https://github.com/maxmamun11">
+				<img src="https://avatars.githubusercontent.com/u/46846360?s=72&u=b73a673ebb28c7d12a0ffc30e60a9ba359ba9aee&v=4" width="24" alt="Avatar of maxmamun11"> maxmamun11
+			</a><br/>
+			Abdullah Al mamun
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/maxmamun11">maxmamun11</a></td>
+		<td>Malaysia </td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>
+			<a href="https://github.com/musdom">
+				<img src="https://avatars.githubusercontent.com/u/9629456?s=72&u=6c5b378e3587876a4d9e0bd6135f9be4e54b7aff&v=4" width="24" alt="Avatar of musdom"> musdom
+			</a><br/>
+			Adam Mashrique
+		</td>
+		<td>@frostsnap </td>
+		<td>No Twitter Username</td>
+		<td>Cyberjaya, Malaysia</td>
+		<td>37</td>
+	</tr>
+	<tr>
 		<td>406</td>
 		<td>
-			<a href="https://github.com/itsFiz">
-				<img src="https://avatars.githubusercontent.com/u/98175714?s=72&u=8725e4f645410c3698212a87a168537b10ce8dac&v=4" width="24" alt="Avatar of itsFiz"> itsFiz
+			<a href="https://github.com/wmthor">
+				<img src="https://avatars.githubusercontent.com/u/2637626?s=72&u=b702b661156ea67f50aa4ca540de29f5bd56aa4c&v=4" width="24" alt="Avatar of wmthor"> wmthor
 			</a><br/>
-			Hafiz Kadir
+			Wei-Ming Thor
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/criedfizcken">criedfizcken</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>407</td>
-		<td>
-			<a href="https://github.com/hanyi00i">
-				<img src="https://avatars.githubusercontent.com/u/92980326?s=72&u=a446733b37566ccb91304622215e60e5eb81c44b&v=4" width="24" alt="Avatar of hanyi00i"> hanyi00i
-			</a><br/>
-			Ooi Han Yi
-		</td>
-		<td>@intel </td>
-		<td><a href="https://twitter.com/hanyi00i">hanyi00i</a></td>
-		<td>Penang, Malaysia</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>408</td>
-		<td>
-			<a href="https://github.com/0xN1">
-				<img src="https://avatars.githubusercontent.com/u/9148847?s=72&u=5b483e240c090b8f28509dad1adb8e2c3b1f6d7f&v=4" width="24" alt="Avatar of 0xN1"> 0xN1
-			</a><br/>
-			Nero One
-		</td>
-		<td>N1-lab </td>
-		<td><a href="https://twitter.com/0xNeroOne">0xNeroOne</a></td>
-		<td>Shah Alam, Malaysia</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>409</td>
-		<td>
-			<a href="https://github.com/thrashraf">
-				<img src="https://avatars.githubusercontent.com/u/55182461?s=72&u=368d6338005e5269561767e684756fa537f5e5fb&v=4" width="24" alt="Avatar of thrashraf"> thrashraf
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/thrashraf">thrashraf</a></td>
+		<td>No Twitter Username</td>
 		<td>Malaysia</td>
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/naimbob95">
 				<img src="https://avatars.githubusercontent.com/u/13710927?s=72&u=bee500a3fa1154f55236600bccd525d267885200&v=4" width="24" alt="Avatar of naimbob95"> naimbob95
@@ -5435,59 +5396,46 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>408</td>
 		<td>
-			<a href="https://github.com/ariffnorhadi">
-				<img src="https://avatars.githubusercontent.com/u/56864343?s=72&u=3e6dcae137193518374a5f76faca30b4ccc411cd&v=4" width="24" alt="Avatar of ariffnorhadi"> ariffnorhadi
+			<a href="https://github.com/ansyeow">
+				<img src="https://avatars.githubusercontent.com/u/721561?s=72&u=6d750a266742454739116840704cb730e40ea90a&v=4" width="24" alt="Avatar of ansyeow"> ansyeow
 			</a><br/>
-			Ariff Norhadi
+			Andrew NS Yeow
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Johor, Malaysia</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>412</td>
-		<td>
-			<a href="https://github.com/hansheng0512">
-				<img src="https://avatars.githubusercontent.com/u/81958029?s=72&u=5e660ce7a10cc7e2db4b96b7ed198780b6ebfbc2&v=4" width="24" alt="Avatar of hansheng0512"> hansheng0512
-			</a><br/>
-			Han Sheng
-		</td>
-		<td>@arkmind-sdn-bhd  </td>
-		<td>No Twitter Username</td>
-		<td>Sri Petaling, Kuala Lumpur, Malaysia</td>
+		<td>PJ, Selangor, Malaysia</td>
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>409</td>
 		<td>
-			<a href="https://github.com/zawawimanja">
-				<img src="https://avatars.githubusercontent.com/u/37230267?s=72&v=4" width="24" alt="Avatar of zawawimanja"> zawawimanja
+			<a href="https://github.com/k11q">
+				<img src="https://avatars.githubusercontent.com/u/101852870?s=72&u=165230fe4186fe360b484e07adef9420ccaeb2cc&v=4" width="24" alt="Avatar of k11q"> k11q
 			</a><br/>
-			awi
-		</td>
-		<td>Awi </td>
-		<td>No Twitter Username</td>
-		<td>malaysia</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>414</td>
-		<td>
-			<a href="https://github.com/atlaschiew">
-				<img src="https://avatars.githubusercontent.com/u/45816141?s=72&u=7b7580997469327a766dbbfb5b230d487b4690b9&v=4" width="24" alt="Avatar of atlaschiew"> atlaschiew
-			</a><br/>
-			Atlas Chiew
+			kerol
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>410</td>
+		<td>
+			<a href="https://github.com/zahidhasanpapon">
+				<img src="https://avatars.githubusercontent.com/u/23638044?s=72&u=2b87da4b01cb2d941dea8eacf65a6f01f9c2ce73&v=4" width="24" alt="Avatar of zahidhasanpapon"> zahidhasanpapon
+			</a><br/>
+			Zahid Hasan 
+		</td>
+		<td>@pentaglobalsltd </td>
+		<td><a href="https://twitter.com/zahidhasanpapon">zahidhasanpapon</a></td>
 		<td>Kuala Lumpur, Malaysia</td>
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>415</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/LeeSzeYuan">
 				<img src="https://avatars.githubusercontent.com/u/55387911?s=72&u=83ba76d73f3e699198b8e7145ea6c9a32c82d1a1&v=4" width="24" alt="Avatar of LeeSzeYuan"> LeeSzeYuan
@@ -5500,85 +5448,46 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>416</td>
+		<td>412</td>
 		<td>
-			<a href="https://github.com/hecongqing">
-				<img src="https://avatars.githubusercontent.com/u/19923817?s=72&u=fa065b17d06e72b802d2776dc662d080f9940abf&v=4" width="24" alt="Avatar of hecongqing"> hecongqing
+			<a href="https://github.com/kels-git">
+				<img src="https://avatars.githubusercontent.com/u/83751389?s=72&u=330f90add52f654f4e15b2f774cc06581fd964f2&v=4" width="24" alt="Avatar of kels-git"> kels-git
 			</a><br/>
-			hecongqing
+			Osazuwa O
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Penang,Malaysia</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>417</td>
-		<td>
-			<a href="https://github.com/OysterD3">
-				<img src="https://avatars.githubusercontent.com/u/7383278?s=72&u=90fa1a1c03baf35d4893ffb87c8987e615c2bbe3&v=4" width="24" alt="Avatar of OysterD3"> OysterD3
-			</a><br/>
-			Oyster Lee
-		</td>
-		<td>@antinternational </td>
-		<td><a href="https://twitter.com/OysterD3">OysterD3</a></td>
-		<td>Melaka, Malaysia</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>418</td>
-		<td>
-			<a href="https://github.com/zahidhasanpapon">
-				<img src="https://avatars.githubusercontent.com/u/23638044?s=72&u=2b87da4b01cb2d941dea8eacf65a6f01f9c2ce73&v=4" width="24" alt="Avatar of zahidhasanpapon"> zahidhasanpapon
-			</a><br/>
-			Zahid Hasan 
-		</td>
-		<td>@pentaglobalsltd </td>
-		<td><a href="https://twitter.com/zahidhasanpapon">zahidhasanpapon</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>419</td>
-		<td>
-			<a href="https://github.com/faridyusof727">
-				<img src="https://avatars.githubusercontent.com/u/6507110?s=72&u=0233470ddb9f829b3ae0b0f15108f99a19c2c5b6&v=4" width="24" alt="Avatar of faridyusof727"> faridyusof727
-			</a><br/>
-			Farid Yusof
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>420</td>
-		<td>
-			<a href="https://github.com/musdom">
-				<img src="https://avatars.githubusercontent.com/u/9629456?s=72&u=6c5b378e3587876a4d9e0bd6135f9be4e54b7aff&v=4" width="24" alt="Avatar of musdom"> musdom
-			</a><br/>
-			Adam Mashrique
-		</td>
-		<td>@frostsnap </td>
-		<td>No Twitter Username</td>
-		<td>Cyberjaya, Malaysia</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>421</td>
-		<td>
-			<a href="https://github.com/zklim">
-				<img src="https://avatars.githubusercontent.com/u/53001910?s=72&u=7460dd9e972acc43aeb87a94797224c1177fbb2d&v=4" width="24" alt="Avatar of zklim"> zklim
-			</a><br/>
-			Zk Lim
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/zklim5389">zklim5389</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
+		<td>Malaysia</td>
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>422</td>
+		<td>413</td>
+		<td>
+			<a href="https://github.com/pearlxcore">
+				<img src="https://avatars.githubusercontent.com/u/36906814?s=72&u=bd9f248d21b4aab4d2e9646be29e236c52e6a5b7&v=4" width="24" alt="Avatar of pearlxcore"> pearlxcore
+			</a><br/>
+			Izat Emir
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/pearlxcore">pearlxcore</a></td>
+		<td>Kuala Lumpur</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>414</td>
+		<td>
+			<a href="https://github.com/xputerax">
+				<img src="https://avatars.githubusercontent.com/u/24550890?s=72&u=4e6748eb5cbc253f58ebe3f403f8c344e3ad1145&v=4" width="24" alt="Avatar of xputerax"> xputerax
+			</a><br/>
+			ad
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/aizuddin85">
 				<img src="https://avatars.githubusercontent.com/u/6443107?s=72&u=ea4ffc34a04a1ddd79c0bdf6f679f8c6a3fd9757&v=4" width="24" alt="Avatar of aizuddin85"> aizuddin85
@@ -5591,7 +5500,46 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>416</td>
+		<td>
+			<a href="https://github.com/atlaschiew">
+				<img src="https://avatars.githubusercontent.com/u/45816141?s=72&u=7b7580997469327a766dbbfb5b230d487b4690b9&v=4" width="24" alt="Avatar of atlaschiew"> atlaschiew
+			</a><br/>
+			Atlas Chiew
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>
+			<a href="https://github.com/zaimazhar">
+				<img src="https://avatars.githubusercontent.com/u/54124001?s=72&u=7e40bf808e8afc1242a3be462f1734eb284b944e&v=4" width="24" alt="Avatar of zaimazhar"> zaimazhar
+			</a><br/>
+			zaimazhar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Perlis, Malaysia</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>418</td>
+		<td>
+			<a href="https://github.com/itsFiz">
+				<img src="https://avatars.githubusercontent.com/u/98175714?s=72&u=8725e4f645410c3698212a87a168537b10ce8dac&v=4" width="24" alt="Avatar of itsFiz"> itsFiz
+			</a><br/>
+			Hafiz Kadir
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/criedfizcken">criedfizcken</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/chinloongtan">
 				<img src="https://avatars.githubusercontent.com/u/9411705?s=72&u=0681817c5064f65edf864300df2e381827673aef&v=4" width="24" alt="Avatar of chinloongtan"> chinloongtan
@@ -5604,85 +5552,176 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
+		<td>420</td>
+		<td>
+			<a href="https://github.com/dark-warlord14">
+				<img src="https://avatars.githubusercontent.com/u/25666147?s=72&v=4" width="24" alt="Avatar of dark-warlord14"> dark-warlord14
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dark_warlord14">dark_warlord14</a></td>
+		<td>Malaysia</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>421</td>
+		<td>
+			<a href="https://github.com/jk-gan">
+				<img src="https://avatars.githubusercontent.com/u/7545747?s=72&u=ecd6fc8fcb20d3913c42489a1cbc9c1a5cb1aec0&v=4" width="24" alt="Avatar of jk-gan"> jk-gan
+			</a><br/>
+			Gan Jun Kai
+		</td>
+		<td>@mindvalley </td>
+		<td><a href="https://twitter.com/jk_gan">jk_gan</a></td>
+		<td>Malaysia</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>422</td>
+		<td>
+			<a href="https://github.com/oneseedfruit">
+				<img src="https://avatars.githubusercontent.com/u/5054104?s=72&u=7164e7118f9ac77d3cb3bd48f7f16d4ab7b82bfa&v=4" width="24" alt="Avatar of oneseedfruit"> oneseedfruit
+			</a><br/>
+			Randy Tan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia / Coventry, United Kingdom (teleporter)</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>423</td>
+		<td>
+			<a href="https://github.com/thrashraf">
+				<img src="https://avatars.githubusercontent.com/u/55182461?s=72&u=368d6338005e5269561767e684756fa537f5e5fb&v=4" width="24" alt="Avatar of thrashraf"> thrashraf
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/thrashraf">thrashraf</a></td>
+		<td>Malaysia</td>
+		<td>32</td>
+	</tr>
+	<tr>
 		<td>424</td>
 		<td>
-			<a href="https://github.com/RealSyferX">
-				<img src="https://avatars.githubusercontent.com/u/18321019?s=72&u=8663004a0714cb5567de620b3278db91a68eec4d&v=4" width="24" alt="Avatar of RealSyferX"> RealSyferX
+			<a href="https://github.com/cs-chan">
+				<img src="https://avatars.githubusercontent.com/u/23725126?s=72&u=e77b596df419a4d8ee7f0c70a5879714569f9c90&v=4" width="24" alt="Avatar of cs-chan"> cs-chan
 			</a><br/>
-			SyferX
+			Chee Seng Chan
 		</td>
-		<td>@syxmem </td>
-		<td>No Twitter Username</td>
+		<td>Universiti Malaya </td>
+		<td><a href="https://twitter.com/cschan134">cschan134</a></td>
 		<td>Malaysia</td>
-		<td>33</td>
+		<td>31</td>
 	</tr>
 	<tr>
 		<td>425</td>
 		<td>
-			<a href="https://github.com/kels-git">
-				<img src="https://avatars.githubusercontent.com/u/83751389?s=72&u=330f90add52f654f4e15b2f774cc06581fd964f2&v=4" width="24" alt="Avatar of kels-git"> kels-git
+			<a href="https://github.com/hecongqing">
+				<img src="https://avatars.githubusercontent.com/u/19923817?s=72&u=fa065b17d06e72b802d2776dc662d080f9940abf&v=4" width="24" alt="Avatar of hecongqing"> hecongqing
 			</a><br/>
-			Osazuwa O
+			hecongqing
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>32</td>
+		<td>Penang,Malaysia</td>
+		<td>31</td>
 	</tr>
 	<tr>
 		<td>426</td>
 		<td>
-			<a href="https://github.com/Bunyod16">
-				<img src="https://avatars.githubusercontent.com/u/71476894?s=72&u=aac5d9521c13b820d5a8f834b60ff23ccb32612c&v=4" width="24" alt="Avatar of Bunyod16"> Bunyod16
+			<a href="https://github.com/heiswayi">
+				<img src="https://avatars.githubusercontent.com/u/13794983?s=72&u=0cab3ce4c3382aeca0ec171d6cd691d19764a630&v=4" width="24" alt="Avatar of heiswayi"> heiswayi
 			</a><br/>
-			Bunyod Shams
+			Heiswayi Nrird
 		</td>
-		<td>42 Kuala Lumpur </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>32</td>
+		<td>Malaysia</td>
+		<td>31</td>
 	</tr>
 	<tr>
 		<td>427</td>
 		<td>
-			<a href="https://github.com/klrkdekira">
-				<img src="https://avatars.githubusercontent.com/u/411259?s=72&u=7dd40e570487e279ae28921d2b674eec059c24a2&v=4" width="24" alt="Avatar of klrkdekira"> klrkdekira
+			<a href="https://github.com/AlekseiMonakhov">
+				<img src="https://avatars.githubusercontent.com/u/80720836?s=72&u=82269af85e20f4e08985b3740daca78525de02ea&v=4" width="24" alt="Avatar of AlekseiMonakhov"> AlekseiMonakhov
 			</a><br/>
-			Chee Leong
-		</td>
-		<td>@engineersmy </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>428</td>
-		<td>
-			<a href="https://github.com/js9726">
-				<img src="https://avatars.githubusercontent.com/u/95610695?s=72&u=983b606dcc7d65c2ed1eb358a02a189c36f88ac6&v=4" width="24" alt="Avatar of js9726"> js9726
-			</a><br/>
-			JIE SHENG OOI
-		</td>
-		<td>Walplus </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>429</td>
-		<td>
-			<a href="https://github.com/RavinRau">
-				<img src="https://avatars.githubusercontent.com/u/12477629?s=72&u=75ee24b44b9552c278e8d62c508e2b5ef3551d9c&v=4" width="24" alt="Avatar of RavinRau"> RavinRau
-			</a><br/>
-			Ravin Rau
+			Aleksei M.
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/RavinRau">RavinRau</a></td>
+		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
 		<td>31</td>
 	</tr>
 	<tr>
+		<td>428</td>
+		<td>
+			<a href="https://github.com/k4ml">
+				<img src="https://avatars.githubusercontent.com/u/116353?s=72&u=8b1c3a8c2dbda782b2b4d1a28802211090a689fa&v=4" width="24" alt="Avatar of k4ml"> k4ml
+			</a><br/>
+			Kamal Mustafa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>429</td>
+		<td>
+			<a href="https://github.com/paulschwarz">
+				<img src="https://avatars.githubusercontent.com/u/720418?s=72&u=e1c9578e4dcf747f3491662a9f32603f632496e5&v=4" width="24" alt="Avatar of paulschwarz"> paulschwarz
+			</a><br/>
+			Paul Schwarz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>31</td>
+	</tr>
+	<tr>
 		<td>430</td>
+		<td>
+			<a href="https://github.com/miesaf">
+				<img src="https://avatars.githubusercontent.com/u/19381137?s=72&u=7d113796d9d68965e450a7a025f1e9844372ed4d&v=4" width="24" alt="Avatar of miesaf"> miesaf
+			</a><br/>
+			Muhamad Amirul
+		</td>
+		<td>Dimensi Kini </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>431</td>
+		<td>
+			<a href="https://github.com/KhooHaoYit">
+				<img src="https://avatars.githubusercontent.com/u/40757009?s=72&u=61aa797fd609a040a30eda249c03687a61b9486d&v=4" width="24" alt="Avatar of KhooHaoYit"> KhooHaoYit
+			</a><br/>
+			Khoo Hao Yit
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/KhooHaoYit">KhooHaoYit</a></td>
+		<td>Malaysia</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>432</td>
+		<td>
+			<a href="https://github.com/cwcheak">
+				<img src="https://avatars.githubusercontent.com/u/7193879?s=72&v=4" width="24" alt="Avatar of cwcheak"> cwcheak
+			</a><br/>
+			Julius Chan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cwcheak">cwcheak</a></td>
+		<td>Penang, Malaysia</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>433</td>
 		<td>
 			<a href="https://github.com/muhammadn">
 				<img src="https://avatars.githubusercontent.com/u/3349747?s=72&v=4" width="24" alt="Avatar of muhammadn"> muhammadn
@@ -5695,55 +5734,16 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>431</td>
-		<td>
-			<a href="https://github.com/RitchieP">
-				<img src="https://avatars.githubusercontent.com/u/26197115?s=72&u=34323501344f72ca434f3244c6ad092c67f29758&v=4" width="24" alt="Avatar of RitchieP"> RitchieP
-			</a><br/>
-			Ritchie Poh
-		</td>
-		<td>Mes Innovation </td>
-		<td>No Twitter Username</td>
-		<td>Penang, Malaysia</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>432</td>
-		<td>
-			<a href="https://github.com/aizat890">
-				<img src="https://avatars.githubusercontent.com/u/56986426?s=72&u=17f6d212c14982a1eb2e501fb747f0aead829910&v=4" width="24" alt="Avatar of aizat890"> aizat890
-			</a><br/>
-			Deuniverse Legacy
-		</td>
-		<td>Deuniverse Legacy </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>433</td>
-		<td>
-			<a href="https://github.com/limkokhole">
-				<img src="https://avatars.githubusercontent.com/u/4859895?s=72&u=76fc521010fd21ff40ab0324a7f5a328b3fc0b76&v=4" width="24" alt="Avatar of limkokhole"> limkokhole
-			</a><br/>
-			林果皞
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>30</td>
-	</tr>
-	<tr>
 		<td>434</td>
 		<td>
-			<a href="https://github.com/Oskang09">
-				<img src="https://avatars.githubusercontent.com/u/15674107?s=72&u=b591fcd118287b6437510034902150626ee66797&v=4" width="24" alt="Avatar of Oskang09"> Oskang09
+			<a href="https://github.com/noxasch">
+				<img src="https://avatars.githubusercontent.com/u/23155338?s=72&u=2556e949c19a8714a2a6c46fabd977e31d51f324&v=4" width="24" alt="Avatar of noxasch"> noxasch
 			</a><br/>
-			NG SZE CHEN
+			Alexander Dischberg
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/oska_ng">oska_ng</a></td>
-		<td>Malaysia, Johor</td>
+		<td><a href="https://twitter.com/noxasch">noxasch</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>30</td>
 	</tr>
 	<tr>
@@ -5762,19 +5762,6 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 	<tr>
 		<td>436</td>
 		<td>
-			<a href="https://github.com/aizatto">
-				<img src="https://avatars.githubusercontent.com/u/1182?s=72&u=0ca1be578f815adc6c443ebed7bc0cbdfd1423e8&v=4" width="24" alt="Avatar of aizatto"> aizatto
-			</a><br/>
-			Aizat Faiz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>437</td>
-		<td>
 			<a href="https://github.com/macvsrpro">
 				<img src="https://avatars.githubusercontent.com/u/86844356?s=72&u=d009555249b8cf03038d46925d06124c85f68635&v=4" width="24" alt="Avatar of macvsrpro"> macvsrpro
 			</a><br/>
@@ -5786,28 +5773,41 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
+		<td>437</td>
+		<td>
+			<a href="https://github.com/ddrdushy">
+				<img src="https://avatars.githubusercontent.com/u/17252833?s=72&u=dd439c7978c8ccba89b3d90c50e041ead4de54bf&v=4" width="24" alt="Avatar of ddrdushy"> ddrdushy
+			</a><br/>
+			ddr dushy
+		</td>
+		<td>@sympriodev </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>29</td>
+	</tr>
+	<tr>
 		<td>438</td>
 		<td>
-			<a href="https://github.com/ongzzzzzz">
-				<img src="https://avatars.githubusercontent.com/u/47311100?s=72&u=421488217a44904cd8ef6bff1795675208a57ab1&v=4" width="24" alt="Avatar of ongzzzzzz"> ongzzzzzz
+			<a href="https://github.com/cheeyi">
+				<img src="https://avatars.githubusercontent.com/u/9331335?s=72&u=a975625e4cb1b62dc77b84b112936ac252a91fef&v=4" width="24" alt="Avatar of cheeyi"> cheeyi
 			</a><br/>
-			Ong Zhi Zheng
+			Chee Yi Ong
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ongzzzzzz">ongzzzzzz</a></td>
+		<td>@punchthrough </td>
+		<td>No Twitter Username</td>
 		<td>Penang, Malaysia</td>
 		<td>29</td>
 	</tr>
 	<tr>
 		<td>439</td>
 		<td>
-			<a href="https://github.com/ZhengYuTay">
-				<img src="https://avatars.githubusercontent.com/u/32449414?s=72&v=4" width="24" alt="Avatar of ZhengYuTay"> ZhengYuTay
+			<a href="https://github.com/js9726">
+				<img src="https://avatars.githubusercontent.com/u/95610695?s=72&u=983b606dcc7d65c2ed1eb358a02a189c36f88ac6&v=4" width="24" alt="Avatar of js9726"> js9726
 			</a><br/>
-			Tay Zheng Yu
+			JIE SHENG OOI
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/zhengyutay">zhengyutay</a></td>
+		<td>Walplus </td>
+		<td>No Twitter Username</td>
 		<td>Malaysia</td>
 		<td>29</td>
 	</tr>
@@ -5827,44 +5827,18 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 	<tr>
 		<td>441</td>
 		<td>
-			<a href="https://github.com/faisalfs10x">
-				<img src="https://avatars.githubusercontent.com/u/51811615?s=72&u=2b2cd76e4aeed60804aef63be4e505433b319db8&v=4" width="24" alt="Avatar of faisalfs10x"> faisalfs10x
+			<a href="https://github.com/DaveAppleton">
+				<img src="https://avatars.githubusercontent.com/u/1858302?s=72&u=56824604f8487a257671d71066d522a5562eed36&v=4" width="24" alt="Avatar of DaveAppleton"> DaveAppleton
 			</a><br/>
-			Faisal Fs ⚔️
+			Dave Appleton
 		</td>
-		<td>Github </td>
-		<td><a href="https://twitter.com/faisalfs10x">faisalfs10x</a></td>
-		<td>Malaysia</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AppletonDave">AppletonDave</a></td>
+		<td>Johor Bahru, Malaysia</td>
 		<td>28</td>
 	</tr>
 	<tr>
 		<td>442</td>
-		<td>
-			<a href="https://github.com/gavincarr">
-				<img src="https://avatars.githubusercontent.com/u/37670?s=72&v=4" width="24" alt="Avatar of gavincarr"> gavincarr
-			</a><br/>
-			Gavin Carr
-		</td>
-		<td>Profound Networks </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>443</td>
-		<td>
-			<a href="https://github.com/ihsanberahim">
-				<img src="https://avatars.githubusercontent.com/u/1956846?s=72&v=4" width="24" alt="Avatar of ihsanberahim"> ihsanberahim
-			</a><br/>
-			Muhammad Nur'Ihsan Bin Berahim
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cheras, Selangor, Malaysia</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>444</td>
 		<td>
 			<a href="https://github.com/adbrsln">
 				<img src="https://avatars.githubusercontent.com/u/19999967?s=72&u=de510b237aa72cf06ddd54c966a36e7b3382529a&v=4" width="24" alt="Avatar of adbrsln"> adbrsln
@@ -5877,20 +5851,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>445</td>
-		<td>
-			<a href="https://github.com/hpratama">
-				<img src="https://avatars.githubusercontent.com/u/24450783?s=72&u=5bb5cec927d1fccc525ef794c34f721d3dd8dd2c&v=4" width="24" alt="Avatar of hpratama"> hpratama
-			</a><br/>
-			Hadyan Pratama
-		</td>
-		<td>Dgb Earth Sciences Bv<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>446</td>
+		<td>443</td>
 		<td>
 			<a href="https://github.com/RajaAsyraf">
 				<img src="https://avatars.githubusercontent.com/u/16475495?s=72&u=d249d0e088858530690fee952bed9f9a8114afe3&v=4" width="24" alt="Avatar of RajaAsyraf"> RajaAsyraf
@@ -5903,46 +5864,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>444</td>
 		<td>
-			<a href="https://github.com/cupnoodle">
-				<img src="https://avatars.githubusercontent.com/u/3954625?s=72&u=87ad01670821577b8b219a7f3c06dbda96da0c98&v=4" width="24" alt="Avatar of cupnoodle"> cupnoodle
+			<a href="https://github.com/isaactan98">
+				<img src="https://avatars.githubusercontent.com/u/73921980?s=72&u=308b0d7c38d5d44ea434e0b7a954b083c4721e72&v=4" width="24" alt="Avatar of isaactan98"> isaactan98
 			</a><br/>
-			soulchild
-		</td>
-		<td>@fluffyes  </td>
-		<td><a href="https://twitter.com/soulchildpls">soulchildpls</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>448</td>
-		<td>
-			<a href="https://github.com/dark-warlord14">
-				<img src="https://avatars.githubusercontent.com/u/25666147?s=72&v=4" width="24" alt="Avatar of dark-warlord14"> dark-warlord14
-			</a><br/>
-			No Name
+			Isaac Tan
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/dark_warlord14">dark_warlord14</a></td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>445</td>
+		<td>
+			<a href="https://github.com/faisalfs10x">
+				<img src="https://avatars.githubusercontent.com/u/51811615?s=72&u=2b2cd76e4aeed60804aef63be4e505433b319db8&v=4" width="24" alt="Avatar of faisalfs10x"> faisalfs10x
+			</a><br/>
+			Faisal Fs ⚔️
+		</td>
+		<td>Github </td>
+		<td><a href="https://twitter.com/faisalfs10x">faisalfs10x</a></td>
 		<td>Malaysia</td>
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>449</td>
-		<td>
-			<a href="https://github.com/niyazed">
-				<img src="https://avatars.githubusercontent.com/u/31667432?s=72&u=bfbb38a6e372e7c207412f31b9e0c6a4f8a8d83a&v=4" width="24" alt="Avatar of niyazed"> niyazed
-			</a><br/>
-			Niyaz Bin Hashem
-		</td>
-		<td>Lenovo </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>450</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/AdmiJW">
 				<img src="https://avatars.githubusercontent.com/u/66473534?s=72&u=edbd4c934c6cbfa6a24fc2ebf16ad48d2a761017&v=4" width="24" alt="Avatar of AdmiJW"> AdmiJW
@@ -5955,33 +5903,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>451</td>
+		<td>447</td>
 		<td>
-			<a href="https://github.com/onimusya">
-				<img src="https://avatars.githubusercontent.com/u/1286179?s=72&u=6e2b42f78b2b95fd70febaab027bd754d07e1f07&v=4" width="24" alt="Avatar of onimusya"> onimusya
+			<a href="https://github.com/Oskang09">
+				<img src="https://avatars.githubusercontent.com/u/15674107?s=72&u=b591fcd118287b6437510034902150626ee66797&v=4" width="24" alt="Avatar of Oskang09"> Oskang09
 			</a><br/>
-			Francis Hor
-		</td>
-		<td>@francishor </td>
-		<td><a href="https://twitter.com/francishorcw">francishorcw</a></td>
-		<td>Malaysia</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>452</td>
-		<td>
-			<a href="https://github.com/zaimazhar">
-				<img src="https://avatars.githubusercontent.com/u/54124001?s=72&u=7e40bf808e8afc1242a3be462f1734eb284b944e&v=4" width="24" alt="Avatar of zaimazhar"> zaimazhar
-			</a><br/>
-			zaimazhar
+			NG SZE CHEN
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Perlis, Malaysia</td>
+		<td><a href="https://twitter.com/oska_ng">oska_ng</a></td>
+		<td>Malaysia, Johor</td>
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>453</td>
+		<td>448</td>
 		<td>
 			<a href="https://github.com/AhmadAlMunajjed">
 				<img src="https://avatars.githubusercontent.com/u/11685646?s=72&u=6086d8ecd55a057e6a2223484e29d9ed41ed883a&v=4" width="24" alt="Avatar of AhmadAlMunajjed"> AhmadAlMunajjed
@@ -5994,46 +5929,124 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>449</td>
 		<td>
-			<a href="https://github.com/XiangLun0713">
-				<img src="https://avatars.githubusercontent.com/u/93761074?s=72&u=4bd6851d6b81d9a96f2abe512ab999350bef9191&v=4" width="24" alt="Avatar of XiangLun0713"> XiangLun0713
+			<a href="https://github.com/PhakornKiong">
+				<img src="https://avatars.githubusercontent.com/u/30017432?s=72&u=3d0da65a4f05c9af95d8959050d3d23ae1a5c6e3&v=4" width="24" alt="Avatar of PhakornKiong"> PhakornKiong
 			</a><br/>
-			Choo Xiang Lun
+			Phakorn Kiong
 		</td>
-		<td>University Of Malaya </td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Singapore/Malaysia</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>450</td>
+		<td>
+			<a href="https://github.com/RealSyferX">
+				<img src="https://avatars.githubusercontent.com/u/18321019?s=72&u=8663004a0714cb5567de620b3278db91a68eec4d&v=4" width="24" alt="Avatar of RealSyferX"> RealSyferX
+			</a><br/>
+			SyferX
+		</td>
+		<td>@syxmem </td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>451</td>
 		<td>
-			<a href="https://github.com/khursani8">
-				<img src="https://avatars.githubusercontent.com/u/5404903?s=72&u=c2e45e2d303543072dc46cfd9639126e5187ee49&v=4" width="24" alt="Avatar of khursani8"> khursani8
+			<a href="https://github.com/syafiqfaiz">
+				<img src="https://avatars.githubusercontent.com/u/8923682?s=72&v=4" width="24" alt="Avatar of syafiqfaiz"> syafiqfaiz
 			</a><br/>
-			Sani
+			syafiq faiz
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
+		<td>kajang, selangor, malaysia</td>
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>452</td>
 		<td>
-			<a href="https://github.com/jk-gan">
-				<img src="https://avatars.githubusercontent.com/u/7545747?s=72&u=ecd6fc8fcb20d3913c42489a1cbc9c1a5cb1aec0&v=4" width="24" alt="Avatar of jk-gan"> jk-gan
+			<a href="https://github.com/zklim">
+				<img src="https://avatars.githubusercontent.com/u/53001910?s=72&u=7460dd9e972acc43aeb87a94797224c1177fbb2d&v=4" width="24" alt="Avatar of zklim"> zklim
 			</a><br/>
-			Gan Jun Kai
+			Zk Lim
 		</td>
-		<td>@mindvalley </td>
-		<td><a href="https://twitter.com/jk_gan">jk_gan</a></td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/zklim5389">zklim5389</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>453</td>
+		<td>
+			<a href="https://github.com/hansheng0512">
+				<img src="https://avatars.githubusercontent.com/u/81958029?s=72&u=5e660ce7a10cc7e2db4b96b7ed198780b6ebfbc2&v=4" width="24" alt="Avatar of hansheng0512"> hansheng0512
+			</a><br/>
+			Han Sheng
+		</td>
+		<td>@arkmind-sdn-bhd  </td>
+		<td>No Twitter Username</td>
+		<td>Sri Petaling, Kuala Lumpur, Malaysia</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>454</td>
+		<td>
+			<a href="https://github.com/aizat890">
+				<img src="https://avatars.githubusercontent.com/u/56986426?s=72&u=17f6d212c14982a1eb2e501fb747f0aead829910&v=4" width="24" alt="Avatar of aizat890"> aizat890
+			</a><br/>
+			Deuniverse Legacy
+		</td>
+		<td>Deuniverse Legacy </td>
+		<td>No Twitter Username</td>
 		<td>Malaysia</td>
 		<td>26</td>
 	</tr>
 	<tr>
+		<td>455</td>
+		<td>
+			<a href="https://github.com/limkokhole">
+				<img src="https://avatars.githubusercontent.com/u/4859895?s=72&u=76fc521010fd21ff40ab0324a7f5a328b3fc0b76&v=4" width="24" alt="Avatar of limkokhole"> limkokhole
+			</a><br/>
+			林果皞
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>456</td>
+		<td>
+			<a href="https://github.com/gavincarr">
+				<img src="https://avatars.githubusercontent.com/u/37670?s=72&v=4" width="24" alt="Avatar of gavincarr"> gavincarr
+			</a><br/>
+			Gavin Carr
+		</td>
+		<td>Profound Networks </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>25</td>
+	</tr>
+	<tr>
 		<td>457</td>
+		<td>
+			<a href="https://github.com/f4ww4z">
+				<img src="https://avatars.githubusercontent.com/u/21199242?s=72&u=d6a25fd7da5700c80fe1204b4a02d3c906d60cff&v=4" width="24" alt="Avatar of f4ww4z"> f4ww4z
+			</a><br/>
+			Fawwaz Yusran
+		</td>
+		<td>@creative-light  </td>
+		<td>No Twitter Username</td>
+		<td>Yogyakarta, Terengganu, Kuala Lumpur</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/limkhashing">
 				<img src="https://avatars.githubusercontent.com/u/30791939?s=72&u=8aba1e22fdbaac7ebb67d129d5a026880d90bca3&v=4" width="24" alt="Avatar of limkhashing"> limkhashing
@@ -6043,101 +6056,23 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>458</td>
-		<td>
-			<a href="https://github.com/Kyle-Law">
-				<img src="https://avatars.githubusercontent.com/u/55923773?s=72&u=cd6ce2e221d40d33a79baecb4226ea2f76612356&v=4" width="24" alt="Avatar of Kyle-Law"> Kyle-Law
-			</a><br/>
-			Kyle-Law
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Johor Bahru, Malaysia</td>
-		<td>26</td>
+		<td>25</td>
 	</tr>
 	<tr>
 		<td>459</td>
 		<td>
-			<a href="https://github.com/noxasch">
-				<img src="https://avatars.githubusercontent.com/u/23155338?s=72&u=2556e949c19a8714a2a6c46fabd977e31d51f324&v=4" width="24" alt="Avatar of noxasch"> noxasch
+			<a href="https://github.com/hanyi00i">
+				<img src="https://avatars.githubusercontent.com/u/92980326?s=72&u=a446733b37566ccb91304622215e60e5eb81c44b&v=4" width="24" alt="Avatar of hanyi00i"> hanyi00i
 			</a><br/>
-			Alexander Dischberg
+			Ooi Han Yi
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/noxasch">noxasch</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>26</td>
+		<td>@intel </td>
+		<td><a href="https://twitter.com/hanyi00i">hanyi00i</a></td>
+		<td>Penang, Malaysia</td>
+		<td>25</td>
 	</tr>
 	<tr>
 		<td>460</td>
-		<td>
-			<a href="https://github.com/tosasitill">
-				<img src="https://avatars.githubusercontent.com/u/66861785?s=72&u=4dd7548d505389de6b3c739bfa2f3e8fcc7cb618&v=4" width="24" alt="Avatar of tosasitill"> tosasitill
-			</a><br/>
-			Tosasitill
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Perlis, Malaysia</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>461</td>
-		<td>
-			<a href="https://github.com/Tze-Sien">
-				<img src="https://avatars.githubusercontent.com/u/46163200?s=72&u=7967099b130e23834b84ea2c0013b4084c6fef27&v=4" width="24" alt="Avatar of Tze-Sien"> Tze-Sien
-			</a><br/>
-			Tze-Sien
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>462</td>
-		<td>
-			<a href="https://github.com/hanafiah">
-				<img src="https://avatars.githubusercontent.com/u/1551565?s=72&v=4" width="24" alt="Avatar of hanafiah"> hanafiah
-			</a><br/>
-			Muhamad Hanafiah Yahya
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Johor, Malaysia</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>463</td>
-		<td>
-			<a href="https://github.com/yoonwaiyan">
-				<img src="https://avatars.githubusercontent.com/u/3081772?s=72&u=e105359f2a54da1ce65874422bb9c56ad67d48e4&v=4" width="24" alt="Avatar of yoonwaiyan"> yoonwaiyan
-			</a><br/>
-			Wai Yan Yoon
-		</td>
-		<td>@hivekind </td>
-		<td><a href="https://twitter.com/waiyanyoon">waiyanyoon</a></td>
-		<td>Petaling, Malaysia</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>464</td>
-		<td>
-			<a href="https://github.com/KhooHaoYit">
-				<img src="https://avatars.githubusercontent.com/u/40757009?s=72&u=61aa797fd609a040a30eda249c03687a61b9486d&v=4" width="24" alt="Avatar of KhooHaoYit"> KhooHaoYit
-			</a><br/>
-			Khoo Hao Yit
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/KhooHaoYit">KhooHaoYit</a></td>
-		<td>Malaysia</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>465</td>
 		<td>
 			<a href="https://github.com/AzrizHaziq">
 				<img src="https://avatars.githubusercontent.com/u/9023187?s=72&u=4d136c376825582e509e132a5f77c255bc14fdd8&v=4" width="24" alt="Avatar of AzrizHaziq"> AzrizHaziq
@@ -6150,20 +6085,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>461</td>
 		<td>
-			<a href="https://github.com/xputerax">
-				<img src="https://avatars.githubusercontent.com/u/24550890?s=72&u=4e6748eb5cbc253f58ebe3f403f8c344e3ad1145&v=4" width="24" alt="Avatar of xputerax"> xputerax
+			<a href="https://github.com/mason-chase">
+				<img src="https://avatars.githubusercontent.com/u/17309021?s=72&u=589638f22a9257aaf3879382199657cd515e299b&v=4" width="24" alt="Avatar of mason-chase"> mason-chase
 			</a><br/>
-			ad
+			Mason Chase
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
+		<td>California, Kuala Lumpur, Amsterdam, Rotterdam</td>
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/xcrone">
 				<img src="https://avatars.githubusercontent.com/u/48623158?s=72&u=ef8b0533f96a2ba7bc838b2b7658cf8e0756a832&v=4" width="24" alt="Avatar of xcrone"> xcrone
@@ -6176,7 +6111,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/kanasite">
 				<img src="https://avatars.githubusercontent.com/u/985129?s=72&u=4a6383b311339ea8897c84027917a1a0c22dc91d&v=4" width="24" alt="Avatar of kanasite"> kanasite
@@ -6189,7 +6124,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>464</td>
+		<td>
+			<a href="https://github.com/zarulizham">
+				<img src="https://avatars.githubusercontent.com/u/10229855?s=72&v=4" width="24" alt="Avatar of zarulizham"> zarulizham
+			</a><br/>
+			Zarul Izham Zubir
+		</td>
+		<td>Pro Office Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Selangor, Malaysia</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/asyraffff">
 				<img src="https://avatars.githubusercontent.com/u/58986949?s=72&u=323f75088c952056674c422c9e78b9013fec6816&v=4" width="24" alt="Avatar of asyraffff"> asyraffff
@@ -6202,29 +6150,81 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>466</td>
 		<td>
-			<a href="https://github.com/DaveAppleton">
-				<img src="https://avatars.githubusercontent.com/u/1858302?s=72&u=56824604f8487a257671d71066d522a5562eed36&v=4" width="24" alt="Avatar of DaveAppleton"> DaveAppleton
+			<a href="https://github.com/Ricky0625">
+				<img src="https://avatars.githubusercontent.com/u/75558748?s=72&u=c64eeb16c0947962725552e872cd8eb1fafc2738&v=4" width="24" alt="Avatar of Ricky0625"> Ricky0625
 			</a><br/>
-			Dave Appleton
+			Rickyyyy
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/AppletonDave">AppletonDave</a></td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>467</td>
+		<td>
+			<a href="https://github.com/yoonwaiyan">
+				<img src="https://avatars.githubusercontent.com/u/3081772?s=72&u=e105359f2a54da1ce65874422bb9c56ad67d48e4&v=4" width="24" alt="Avatar of yoonwaiyan"> yoonwaiyan
+			</a><br/>
+			Wai Yan Yoon
+		</td>
+		<td>@hivekind </td>
+		<td><a href="https://twitter.com/waiyanyoon">waiyanyoon</a></td>
+		<td>Petaling, Malaysia</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>468</td>
+		<td>
+			<a href="https://github.com/Kyle-Law">
+				<img src="https://avatars.githubusercontent.com/u/55923773?s=72&u=cd6ce2e221d40d33a79baecb4226ea2f76612356&v=4" width="24" alt="Avatar of Kyle-Law"> Kyle-Law
+			</a><br/>
+			Kyle-Law
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Johor Bahru, Malaysia</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>469</td>
+		<td>
+			<a href="https://github.com/PoisonDarterz">
+				<img src="https://avatars.githubusercontent.com/u/99233005?s=72&u=625d535be7248ec26fa54f8fe95df37fbed2c371&v=4" width="24" alt="Avatar of PoisonDarterz"> PoisonDarterz
+			</a><br/>
+			Jonas Chuan
+		</td>
+		<td>Universiti Malaya </td>
+		<td>No Twitter Username</td>
+		<td>Penang, Malaysia</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>470</td>
+		<td>
+			<a href="https://github.com/RavinRau">
+				<img src="https://avatars.githubusercontent.com/u/12477629?s=72&u=75ee24b44b9552c278e8d62c508e2b5ef3551d9c&v=4" width="24" alt="Avatar of RavinRau"> RavinRau
+			</a><br/>
+			Ravin Rau
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/RavinRau">RavinRau</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>23</td>
 	</tr>
 	<tr>
 		<td>471</td>
 		<td>
-			<a href="https://github.com/syafiqfaiz">
-				<img src="https://avatars.githubusercontent.com/u/8923682?s=72&v=4" width="24" alt="Avatar of syafiqfaiz"> syafiqfaiz
+			<a href="https://github.com/hpratama">
+				<img src="https://avatars.githubusercontent.com/u/24450783?s=72&u=5bb5cec927d1fccc525ef794c34f721d3dd8dd2c&v=4" width="24" alt="Avatar of hpratama"> hpratama
 			</a><br/>
-			syafiq faiz
+			Hadyan Pratama
 		</td>
-		<td>No Company</td>
+		<td>Dgb Earth Sciences Bv<br/></td>
 		<td>No Twitter Username</td>
-		<td>kajang, selangor, malaysia</td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>23</td>
 	</tr>
 	<tr>
@@ -6243,83 +6243,31 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 	<tr>
 		<td>473</td>
 		<td>
-			<a href="https://github.com/k4ml">
-				<img src="https://avatars.githubusercontent.com/u/116353?s=72&u=8b1c3a8c2dbda782b2b4d1a28802211090a689fa&v=4" width="24" alt="Avatar of k4ml"> k4ml
+			<a href="https://github.com/RitchieP">
+				<img src="https://avatars.githubusercontent.com/u/26197115?s=72&u=34323501344f72ca434f3244c6ad092c67f29758&v=4" width="24" alt="Avatar of RitchieP"> RitchieP
 			</a><br/>
-			Kamal Mustafa
+			Ritchie Poh
 		</td>
-		<td>No Company</td>
+		<td>Mes Innovation </td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
+		<td>Penang, Malaysia</td>
 		<td>22</td>
 	</tr>
 	<tr>
 		<td>474</td>
 		<td>
-			<a href="https://github.com/mjm918">
-				<img src="https://avatars.githubusercontent.com/u/17846525?s=72&u=558b38029e433e60ef2aba9ddebd24dc8c67e94b&v=4" width="24" alt="Avatar of mjm918"> mjm918
+			<a href="https://github.com/ziqinyeow">
+				<img src="https://avatars.githubusercontent.com/u/74515561?s=72&u=3d52d7cacefab543512e756f2a6c14f86f3ba1fa&v=4" width="24" alt="Avatar of ziqinyeow"> ziqinyeow
 			</a><br/>
-			Mohammad Julfikar
+			Yeow Zi Qin
 		</td>
-		<td>Easytech International Sdn Bhd<br/></td>
-		<td><a href="https://twitter.com/OrphanPid">OrphanPid</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>22</td>
+		<td>Grab | University Of<br/>Malaya<br/></td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>21</td>
 	</tr>
 	<tr>
 		<td>475</td>
-		<td>
-			<a href="https://github.com/cwcheak">
-				<img src="https://avatars.githubusercontent.com/u/7193879?s=72&v=4" width="24" alt="Avatar of cwcheak"> cwcheak
-			</a><br/>
-			Julius Chan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cwcheak">cwcheak</a></td>
-		<td>Penang, Malaysia</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>476</td>
-		<td>
-			<a href="https://github.com/KeluhingBavui">
-				<img src="https://avatars.githubusercontent.com/u/74557371?s=72&u=f8346382c49c92918387bf38a544b92be9dc4424&v=4" width="24" alt="Avatar of KeluhingBavui"> KeluhingBavui
-			</a><br/>
-			Daniel Wan Jonathan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>477</td>
-		<td>
-			<a href="https://github.com/wmthor">
-				<img src="https://avatars.githubusercontent.com/u/2637626?s=72&u=b702b661156ea67f50aa4ca540de29f5bd56aa4c&v=4" width="24" alt="Avatar of wmthor"> wmthor
-			</a><br/>
-			Wei-Ming Thor
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>478</td>
-		<td>
-			<a href="https://github.com/wowthecoder">
-				<img src="https://avatars.githubusercontent.com/u/82577844?s=72&v=4" width="24" alt="Avatar of wowthecoder"> wowthecoder
-			</a><br/>
-			Andrew Loo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>479</td>
 		<td>
 			<a href="https://github.com/FarhAnonymous">
 				<img src="https://avatars.githubusercontent.com/u/26120025?s=72&u=42e53a77eaa5d6f8d428db0ffa342871f2249366&v=4" width="24" alt="Avatar of FarhAnonymous"> FarhAnonymous
@@ -6332,20 +6280,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>480</td>
-		<td>
-			<a href="https://github.com/MostafaKMilly">
-				<img src="https://avatars.githubusercontent.com/u/57003058?s=72&u=2d218ea842a3450275bb25ad535401901fb12eed&v=4" width="24" alt="Avatar of MostafaKMilly"> MostafaKMilly
-			</a><br/>
-			Mustafa Melli
-		</td>
-		<td>@seekasia </td>
-		<td>No Twitter Username</td>
-		<td>KL, Malaysia</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>481</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/youjingwong">
 				<img src="https://avatars.githubusercontent.com/u/7776614?s=72&u=03fe27624e23f005e9d968f62a724daef48839ab&v=4" width="24" alt="Avatar of youjingwong"> youjingwong
@@ -6358,20 +6293,59 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>482</td>
+		<td>477</td>
 		<td>
-			<a href="https://github.com/AdinRC">
-				<img src="https://avatars.githubusercontent.com/u/93084433?s=72&u=43049bbdd5afa7c808ee0b0fd67c2343ca3fd5e8&v=4" width="24" alt="Avatar of AdinRC"> AdinRC
+			<a href="https://github.com/XiangLun0713">
+				<img src="https://avatars.githubusercontent.com/u/93761074?s=72&u=4bd6851d6b81d9a96f2abe512ab999350bef9191&v=4" width="24" alt="Avatar of XiangLun0713"> XiangLun0713
 			</a><br/>
-			Aizuddin
+			Choo Xiang Lun
 		</td>
-		<td>No Company</td>
+		<td>Ryt Bank </td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>478</td>
+		<td>
+			<a href="https://github.com/sanikkenway">
+				<img src="https://avatars.githubusercontent.com/u/5909692?s=72&u=05f22c1beb9879796f8f1546274c488042678b13&v=4" width="24" alt="Avatar of sanikkenway"> sanikkenway
+			</a><br/>
+			Nik Saiful Anuar
+		</td>
+		<td>@medkadsdnbhd...@san </td>
+		<td><a href="https://twitter.com/sanikkenway">sanikkenway</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>479</td>
+		<td>
+			<a href="https://github.com/khursani8">
+				<img src="https://avatars.githubusercontent.com/u/5404903?s=72&u=c2e45e2d303543072dc46cfd9639126e5187ee49&v=4" width="24" alt="Avatar of khursani8"> khursani8
+			</a><br/>
+			Sani
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>480</td>
+		<td>
+			<a href="https://github.com/ongzzzzzz">
+				<img src="https://avatars.githubusercontent.com/u/47311100?s=72&u=421488217a44904cd8ef6bff1795675208a57ab1&v=4" width="24" alt="Avatar of ongzzzzzz"> ongzzzzzz
+			</a><br/>
+			Ong Zhi Zheng
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ongzzzzzz">ongzzzzzz</a></td>
+		<td>Penang, Malaysia</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>481</td>
 		<td>
 			<a href="https://github.com/casfian">
 				<img src="https://avatars.githubusercontent.com/u/139088?s=72&u=219c9e893fd6298067fad7431fbd86fb62c2f85f&v=4" width="24" alt="Avatar of casfian"> casfian
@@ -6384,59 +6358,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
+		<td>482</td>
+		<td>
+			<a href="https://github.com/tajulasri">
+				<img src="https://avatars.githubusercontent.com/u/6530495?s=72&v=4" width="24" alt="Avatar of tajulasri"> tajulasri
+			</a><br/>
+			espressoByte
+		</td>
+		<td>@codexpertmy  </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>483</td>
+		<td>
+			<a href="https://github.com/brainysmurf">
+				<img src="https://avatars.githubusercontent.com/u/859335?s=72&v=4" width="24" alt="Avatar of brainysmurf"> brainysmurf
+			</a><br/>
+			Adam Morris
+		</td>
+		<td>@classroomtechtools  </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>20</td>
+	</tr>
+	<tr>
 		<td>484</td>
-		<td>
-			<a href="https://github.com/ziqinyeow">
-				<img src="https://avatars.githubusercontent.com/u/74515561?s=72&u=3d52d7cacefab543512e756f2a6c14f86f3ba1fa&v=4" width="24" alt="Avatar of ziqinyeow"> ziqinyeow
-			</a><br/>
-			Yeow Zi Qin
-		</td>
-		<td>Grab | University Of<br/>Malaya<br/></td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>485</td>
-		<td>
-			<a href="https://github.com/NiesHW">
-				<img src="https://avatars.githubusercontent.com/u/84613560?s=72&u=6644624678a6ed28a41251bcb983046e134b0682&v=4" width="24" alt="Avatar of NiesHW"> NiesHW
-			</a><br/>
-			Nies HW
-		</td>
-		<td>Universiti Teknologi Malaysia </td>
-		<td>No Twitter Username</td>
-		<td>Universiti Teknologi Malaysia</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>486</td>
-		<td>
-			<a href="https://github.com/amirulabu">
-				<img src="https://avatars.githubusercontent.com/u/10055534?s=72&u=6531e37871e5bc8ba532a3b87e744adb2678238e&v=4" width="24" alt="Avatar of amirulabu"> amirulabu
-			</a><br/>
-			Amirul Abu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/amirulabu">amirulabu</a></td>
-		<td>Malaysia</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>487</td>
-		<td>
-			<a href="https://github.com/hasyimibhar">
-				<img src="https://avatars.githubusercontent.com/u/1431045?s=72&u=db940717c945e7d6523931fc3e9d86ac2a0fe059&v=4" width="24" alt="Avatar of hasyimibhar"> hasyimibhar
-			</a><br/>
-			Hasyimi Bahrudin
-		</td>
-		<td>@moneylion  </td>
-		<td>No Twitter Username</td>
-		<td>Selangor, Malaysia</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>488</td>
 		<td>
 			<a href="https://github.com/YeeJiaWei">
 				<img src="https://avatars.githubusercontent.com/u/21292986?s=72&u=631c4d1cd243257c81baf20a9041ef796a0a244c&v=4" width="24" alt="Avatar of YeeJiaWei"> YeeJiaWei
@@ -6449,72 +6397,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>485</td>
 		<td>
-			<a href="https://github.com/sanikkenway">
-				<img src="https://avatars.githubusercontent.com/u/5909692?s=72&u=05f22c1beb9879796f8f1546274c488042678b13&v=4" width="24" alt="Avatar of sanikkenway"> sanikkenway
+			<a href="https://github.com/marwanbukhori">
+				<img src="https://avatars.githubusercontent.com/u/59740052?s=72&v=4" width="24" alt="Avatar of marwanbukhori"> marwanbukhori
 			</a><br/>
-			Nik Saiful Anuar
-		</td>
-		<td>@medkadsdnbhd...@san </td>
-		<td><a href="https://twitter.com/sanikkenway">sanikkenway</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>490</td>
-		<td>
-			<a href="https://github.com/zulh-civo">
-				<img src="https://avatars.githubusercontent.com/u/75463191?s=72&u=28a4db4050ff91109673d8171a2acf4eecfcdaa6&v=4" width="24" alt="Avatar of zulh-civo"> zulh-civo
-			</a><br/>
-			Zulh
-		</td>
-		<td>Civo </td>
-		<td><a href="https://twitter.com/zulhhandyplast">zulhhandyplast</a></td>
-		<td>Kuala Lumpur</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>491</td>
-		<td>
-			<a href="https://github.com/afiqiqmal">
-				<img src="https://avatars.githubusercontent.com/u/9051312?s=72&u=75d9d0c6e6180257371242bc061a4af385231802&v=4" width="24" alt="Avatar of afiqiqmal"> afiqiqmal
-			</a><br/>
-			Hafiq
+			player 1
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/hafiqiqmal93">hafiqiqmal93</a></td>
-		<td>Malaysia</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>492</td>
-		<td>
-			<a href="https://github.com/cylim">
-				<img src="https://avatars.githubusercontent.com/u/5622951?s=72&u=798ba3ccdc582e879631dac80015418c166d24d1&v=4" width="24" alt="Avatar of cylim"> cylim
-			</a><br/>
-			CY Lim
-		</td>
-		<td>@cyants, @kysenpool & Codename:null<br/></td>
-		<td><a href="https://twitter.com/cylim226">cylim226</a></td>
-		<td>Penang, Malaysia</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>493</td>
-		<td>
-			<a href="https://github.com/WenLonG12345">
-				<img src="https://avatars.githubusercontent.com/u/39330565?s=72&u=3f3fc4fbd4a8395f79223c01a3531306f75da984&v=4" width="24" alt="Avatar of WenLonG12345"> WenLonG12345
-			</a><br/>
-			Teo
-		</td>
-		<td>Astro </td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>19</td>
+		<td>20</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/ahmadsyamim">
 				<img src="https://avatars.githubusercontent.com/u/14102774?s=72&u=c29e6f4e257b27a1bf354f3bc0cf30f45a823387&v=4" width="24" alt="Avatar of ahmadsyamim"> ahmadsyamim
@@ -6524,10 +6420,62 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>487</td>
+		<td>
+			<a href="https://github.com/aizatto">
+				<img src="https://avatars.githubusercontent.com/u/1182?s=72&u=0ca1be578f815adc6c443ebed7bc0cbdfd1423e8&v=4" width="24" alt="Avatar of aizatto"> aizatto
+			</a><br/>
+			Aizat Faiz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>488</td>
+		<td>
+			<a href="https://github.com/FlyfishSec">
+				<img src="https://avatars.githubusercontent.com/u/14146928?s=72&u=85d793eebbb4af14062263611c7d4e690c658084&v=4" width="24" alt="Avatar of FlyfishSec"> FlyfishSec
+			</a><br/>
+			Flyfish
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>489</td>
+		<td>
+			<a href="https://github.com/tslim">
+				<img src="https://avatars.githubusercontent.com/u/13184?s=72&u=dab4ac37b5c38b6acf7257a5efb58537c1d5659a&v=4" width="24" alt="Avatar of tslim"> tslim
+			</a><br/>
+			TS Lim
+		</td>
+		<td>Flexnode Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Kota Kinabalu, Sabah, Malaysia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>490</td>
+		<td>
+			<a href="https://github.com/rsoo23">
+				<img src="https://avatars.githubusercontent.com/u/81731553?s=72&u=166cdd8d48bbb115863d104fd21705fdf8e6b2d4&v=4" width="24" alt="Avatar of rsoo23"> rsoo23
+			</a><br/>
+			Soo Rong Jie
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Selangor, Malaysia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/datomnurdin">
 				<img src="https://avatars.githubusercontent.com/u/5416242?s=72&u=ed5b27a13130c4a0c5c91c966440037ddf99c129&v=4" width="24" alt="Avatar of datomnurdin"> datomnurdin
@@ -6536,6 +6484,58 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		</td>
 		<td>@deepagi </td>
 		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>492</td>
+		<td>
+			<a href="https://github.com/zulhfreelancer">
+				<img src="https://avatars.githubusercontent.com/u/3416976?s=72&v=4" width="24" alt="Avatar of zulhfreelancer"> zulhfreelancer
+			</a><br/>
+			Zulhilmi Zainudin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>493</td>
+		<td>
+			<a href="https://github.com/LeeKahSeng">
+				<img src="https://avatars.githubusercontent.com/u/28749333?s=72&u=62751d1676546ec3dc727bf47f053482359ee37c&v=4" width="24" alt="Avatar of LeeKahSeng"> LeeKahSeng
+			</a><br/>
+			Lee Kah Seng
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>494</td>
+		<td>
+			<a href="https://github.com/zulh-civo">
+				<img src="https://avatars.githubusercontent.com/u/75463191?s=72&u=28a4db4050ff91109673d8171a2acf4eecfcdaa6&v=4" width="24" alt="Avatar of zulh-civo"> zulh-civo
+			</a><br/>
+			Zulh
+		</td>
+		<td>Civo </td>
+		<td><a href="https://twitter.com/zulhhandyplast">zulhhandyplast</a></td>
+		<td>Kuala Lumpur</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>495</td>
+		<td>
+			<a href="https://github.com/cupnoodle">
+				<img src="https://avatars.githubusercontent.com/u/3954625?s=72&u=87ad01670821577b8b219a7f3c06dbda96da0c98&v=4" width="24" alt="Avatar of cupnoodle"> cupnoodle
+			</a><br/>
+			soulchild
+		</td>
+		<td>@fluffyes  </td>
+		<td><a href="https://twitter.com/soulchildpls">soulchildpls</a></td>
 		<td>Kuala Lumpur, Malaysia</td>
 		<td>18</td>
 	</tr>
@@ -6555,70 +6555,31 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 	<tr>
 		<td>497</td>
 		<td>
-			<a href="https://github.com/faizalzakaria">
-				<img src="https://avatars.githubusercontent.com/u/3461316?s=72&u=ea8db1fc4a0784076c4d9391bdd0ce1f5d31b000&v=4" width="24" alt="Avatar of faizalzakaria"> faizalzakaria
+			<a href="https://github.com/AbedElazizShe">
+				<img src="https://avatars.githubusercontent.com/u/20614470?s=72&u=46d95ba4120e7c3ff68ea04b3fc5f25fa987a602&v=4" width="24" alt="Avatar of AbedElazizShe"> AbedElazizShe
 			</a><br/>
-			Faizal Zakaria
+			Abed Elaziz Shehadeh
 		</td>
-		<td>Codegarage </td>
+		<td>Sicpa </td>
 		<td>No Twitter Username</td>
-		<td>San Francisco / Kuala Lumpur</td>
+		<td>Cyberjaya, Malaysia</td>
 		<td>18</td>
 	</tr>
 	<tr>
 		<td>498</td>
 		<td>
-			<a href="https://github.com/tslim">
-				<img src="https://avatars.githubusercontent.com/u/13184?s=72&v=4" width="24" alt="Avatar of tslim"> tslim
+			<a href="https://github.com/ch4meleon">
+				<img src="https://avatars.githubusercontent.com/u/22002692?s=72&u=7b0f71aaa570ad41151cb13ae7060916c5698dec&v=4" width="24" alt="Avatar of ch4meleon"> ch4meleon
 			</a><br/>
-			TS Lim
+			ch4meleon
 		</td>
-		<td>Flexnode Solutions </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kota Kinabalu, Sabah, Malaysia</td>
+		<td>Selangor, Malaysia</td>
 		<td>18</td>
 	</tr>
 	<tr>
 		<td>499</td>
-		<td>
-			<a href="https://github.com/SnorSnor9998">
-				<img src="https://avatars.githubusercontent.com/u/56662976?s=72&u=28200999e752f0df789903fc69a114a02a7b2f68&v=4" width="24" alt="Avatar of SnorSnor9998"> SnorSnor9998
-			</a><br/>
-			SnorSnor
-		</td>
-		<td>@revenuemonster  </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>500</td>
-		<td>
-			<a href="https://github.com/sharuzzaman">
-				<img src="https://avatars.githubusercontent.com/u/7421941?s=72&v=4" width="24" alt="Avatar of sharuzzaman"> sharuzzaman
-			</a><br/>
-			Sharuzzaman Ahmat Raslan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>501</td>
-		<td>
-			<a href="https://github.com/zulhfreelancer">
-				<img src="https://avatars.githubusercontent.com/u/3416976?s=72&v=4" width="24" alt="Avatar of zulhfreelancer"> zulhfreelancer
-			</a><br/>
-			Zulhilmi Zainudin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>502</td>
 		<td>
 			<a href="https://github.com/tmlee">
 				<img src="https://avatars.githubusercontent.com/u/110264?s=72&u=01ac158c7b5293cc953639db32a34d4b5937ed37&v=4" width="24" alt="Avatar of tmlee"> tmlee
@@ -6631,46 +6592,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>500</td>
 		<td>
-			<a href="https://github.com/sheikhhanif">
-				<img src="https://avatars.githubusercontent.com/u/35553517?s=72&u=697210624661311207fe985f8c4b4c6c0e2d8eaf&v=4" width="24" alt="Avatar of sheikhhanif"> sheikhhanif
+			<a href="https://github.com/arzumy">
+				<img src="https://avatars.githubusercontent.com/u/27543?s=72&v=4" width="24" alt="Avatar of arzumy"> arzumy
 			</a><br/>
-			Sheikh Hanif
+			Arzumy MD
+		</td>
+		<td>Fave, Billplz </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>501</td>
+		<td>
+			<a href="https://github.com/javedmultani16">
+				<img src="https://avatars.githubusercontent.com/u/16849127?s=72&u=e6d5a65fdf68569f2a1d735a7d9f33b6a74a15c4&v=4" width="24" alt="Avatar of javedmultani16"> javedmultani16
+			</a><br/>
+			Javed Multani
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
+		<td>Cyberjaya, Malaysia</td>
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>504</td>
-		<td>
-			<a href="https://github.com/hafizhaziq307">
-				<img src="https://avatars.githubusercontent.com/u/81540611?s=72&u=a875d4c58290b0d8126419b5656fdc11c7ced3c5&v=4" width="24" alt="Avatar of hafizhaziq307"> hafizhaziq307
-			</a><br/>
-			Hafiz Haziq
-		</td>
-		<td>Jcoders Sdn. Bhd. </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>505</td>
-		<td>
-			<a href="https://github.com/ibrahim-kardi">
-				<img src="https://avatars.githubusercontent.com/u/25303964?s=72&u=ad8ec732e4fe1daf4b5d06a7eb9621392df38f81&v=4" width="24" alt="Avatar of ibrahim-kardi"> ibrahim-kardi
-			</a><br/>
-			Mohammad Ibrahim
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Johor bahru, Malaysia</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>506</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/solomonricky">
 				<img src="https://avatars.githubusercontent.com/u/53608272?s=72&u=02d3384a09ea1729d2e78b0a8c497ca306453f88&v=4" width="24" alt="Avatar of solomonricky"> solomonricky
@@ -6683,20 +6631,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>503</td>
 		<td>
-			<a href="https://github.com/Kayzwer">
-				<img src="https://avatars.githubusercontent.com/u/68285002?s=72&u=338ec9e3f31678e42d20c214a222e53f3ae93d4a&v=4" width="24" alt="Avatar of Kayzwer"> Kayzwer
+			<a href="https://github.com/Smart-SangGe">
+				<img src="https://avatars.githubusercontent.com/u/37489256?s=72&u=2b4ef92b4c0552b4b11d8055fe407edc5ba0ba50&v=4" width="24" alt="Avatar of Smart-SangGe"> Smart-SangGe
 			</a><br/>
-			Kayzwer
+			Junyong Liang
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
+		<td>Johor Bahru, Malaysia</td>
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/nafiez">
 				<img src="https://avatars.githubusercontent.com/u/789149?s=72&u=78b2f6433b6278243d060c42471248f126205ef8&v=4" width="24" alt="Avatar of nafiez"> nafiez
@@ -6709,7 +6657,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/fyezool">
 				<img src="https://avatars.githubusercontent.com/u/2125447?s=72&v=4" width="24" alt="Avatar of fyezool"> fyezool
@@ -6722,10 +6670,10 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/4rvnd">
-				<img src="https://avatars.githubusercontent.com/u/37099536?s=72&u=44d5ddc5d2fb74d2834411a0aa5a288f407da22b&v=4" width="24" alt="Avatar of 4rvnd"> 4rvnd
+				<img src="https://avatars.githubusercontent.com/u/37099536?s=72&u=221d6bba1bd29727b8421c8705abb23ba9089053&v=4" width="24" alt="Avatar of 4rvnd"> 4rvnd
 			</a><br/>
 			Aravind
 		</td>
@@ -6735,33 +6683,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>507</td>
 		<td>
-			<a href="https://github.com/ch4meleon">
-				<img src="https://avatars.githubusercontent.com/u/22002692?s=72&u=7b0f71aaa570ad41151cb13ae7060916c5698dec&v=4" width="24" alt="Avatar of ch4meleon"> ch4meleon
+			<a href="https://github.com/lejarx">
+				<img src="https://avatars.githubusercontent.com/u/6431985?s=72&u=0a9ce4d472ca867d85ddcddfef5103921da82c82&v=4" width="24" alt="Avatar of lejarx"> lejarx
 			</a><br/>
-			ch4meleon
+			lejarX
 		</td>
-		<td>No Company</td>
+		<td>@lejarx </td>
 		<td>No Twitter Username</td>
-		<td>Selangor, Malaysia</td>
+		<td>Kuala Lumpur</td>
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>508</td>
 		<td>
-			<a href="https://github.com/javedmultani16">
-				<img src="https://avatars.githubusercontent.com/u/16849127?s=72&u=e6d5a65fdf68569f2a1d735a7d9f33b6a74a15c4&v=4" width="24" alt="Avatar of javedmultani16"> javedmultani16
+			<a href="https://github.com/SnorSnor9998">
+				<img src="https://avatars.githubusercontent.com/u/56662976?s=72&u=28200999e752f0df789903fc69a114a02a7b2f68&v=4" width="24" alt="Avatar of SnorSnor9998"> SnorSnor9998
 			</a><br/>
-			Javed Multani
+			SnorSnor
 		</td>
-		<td>No Company</td>
+		<td>@revenuemonster  </td>
 		<td>No Twitter Username</td>
-		<td>Cyberjaya, Malaysia</td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/eimihar">
 				<img src="https://avatars.githubusercontent.com/u/5824953?s=72&u=23b8b9f83376228d6e870f6d389e6492a2558237&v=4" width="24" alt="Avatar of eimihar"> eimihar
@@ -6774,7 +6722,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>510</td>
+		<td>
+			<a href="https://github.com/Kayzwer">
+				<img src="https://avatars.githubusercontent.com/u/68285002?s=72&u=338ec9e3f31678e42d20c214a222e53f3ae93d4a&v=4" width="24" alt="Avatar of Kayzwer"> Kayzwer
+			</a><br/>
+			Kayzwer
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>511</td>
+		<td>
+			<a href="https://github.com/xmhafiz">
+				<img src="https://avatars.githubusercontent.com/u/20514319?s=72&u=cc4b7aab8c994e8500a47b4f7a1b435ce37d7259&v=4" width="24" alt="Avatar of xmhafiz"> xmhafiz
+			</a><br/>
+			Mohd Hafiz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/ernsheong">
 				<img src="https://avatars.githubusercontent.com/u/1343284?s=72&u=d63b8da483b9c3e73ddc49f7d39c582fc088c684&v=4" width="24" alt="Avatar of ernsheong"> ernsheong
@@ -6787,33 +6761,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>513</td>
 		<td>
-			<a href="https://github.com/HohShenYien">
-				<img src="https://avatars.githubusercontent.com/u/55322546?s=72&u=ef83f62cf4d30a194de57d8147bcf04b93317f13&v=4" width="24" alt="Avatar of HohShenYien"> HohShenYien
+			<a href="https://github.com/faizalzakaria">
+				<img src="https://avatars.githubusercontent.com/u/3461316?s=72&u=ea8db1fc4a0784076c4d9391bdd0ce1f5d31b000&v=4" width="24" alt="Avatar of faizalzakaria"> faizalzakaria
 			</a><br/>
-			Hoh Shen Yien
+			Faizal Zakaria
 		</td>
-		<td>No Company</td>
+		<td>Codegarage </td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
+		<td>San Francisco / Kuala Lumpur</td>
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>516</td>
-		<td>
-			<a href="https://github.com/luqmanafif96">
-				<img src="https://avatars.githubusercontent.com/u/33752679?s=72&u=26c01a76e143c6e2d2060d8f08dcf273b3d9c2e0&v=4" width="24" alt="Avatar of luqmanafif96"> luqmanafif96
-			</a><br/>
-			Luqman Afif 
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/isluqies96">isluqies96</a></td>
-		<td>malaysia</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>517</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/danialhui">
 				<img src="https://avatars.githubusercontent.com/u/287429?s=72&u=66ac3085db3c6a879adfcc7c8d153922f3556ff0&v=4" width="24" alt="Avatar of danialhui"> danialhui
@@ -6826,59 +6787,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>515</td>
 		<td>
-			<a href="https://github.com/michlee1337">
-				<img src="https://avatars.githubusercontent.com/u/25736131?s=72&u=d046b31919ba98772751778b903f3c6133d9de5e&v=4" width="24" alt="Avatar of michlee1337"> michlee1337
+			<a href="https://github.com/hymns">
+				<img src="https://avatars.githubusercontent.com/u/232046?s=72&u=99e67c2eb2aad2465cc5a964b09103a4a83a5a4f&v=4" width="24" alt="Avatar of hymns"> hymns
 			</a><br/>
-			Michelle S Lee
+			Muhammad Hamizi Jaminan
 		</td>
-		<td>No Company</td>
+		<td>Swirly Technology </td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>519</td>
-		<td>
-			<a href="https://github.com/crossRT">
-				<img src="https://avatars.githubusercontent.com/u/3617115?s=72&u=309a81de7574036933a99b5efaa28342cc0b0f42&v=4" width="24" alt="Avatar of crossRT"> crossRT
-			</a><br/>
-			Rui Tai Low
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>520</td>
-		<td>
-			<a href="https://github.com/RamadhanAmizudin">
-				<img src="https://avatars.githubusercontent.com/u/2631784?s=72&u=ade14f50cd86c6c5ffc97efda7e81624621f2d3f&v=4" width="24" alt="Avatar of RamadhanAmizudin"> RamadhanAmizudin
-			</a><br/>
-			Ramadhan Amizudin
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/rempahrz">rempahrz</a></td>
-		<td>Malaysia</td>
+		<td>Johor, Malaysia</td>
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>521</td>
-		<td>
-			<a href="https://github.com/zawawiAI">
-				<img src="https://avatars.githubusercontent.com/u/50743060?s=72&u=05a30b0171cd46cd121db193ee9d89afe1c9a13e&v=4" width="24" alt="Avatar of zawawiAI"> zawawiAI
-			</a><br/>
-			ZawawiAI
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>522</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/Joojo7">
 				<img src="https://avatars.githubusercontent.com/u/30333594?s=72&u=1dd2991949d9dd6634747f1cdd2d6ada19efaf3f&v=4" width="24" alt="Avatar of Joojo7"> Joojo7
@@ -6891,7 +6813,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/amanullah-1">
 				<img src="https://avatars.githubusercontent.com/u/11665131?s=72&u=b04dbfcb16a2aacc61921cb6b093001afb643487&v=4" width="24" alt="Avatar of amanullah-1"> amanullah-1
@@ -6904,7 +6826,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/melvinchng">
 				<img src="https://avatars.githubusercontent.com/u/7425125?s=72&u=ff0becc6bc9896b375cd54c6f3d76754c9857899&v=4" width="24" alt="Avatar of melvinchng"> melvinchng
@@ -6917,7 +6839,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/mikhaiIy">
 				<img src="https://avatars.githubusercontent.com/u/96830319?s=72&u=5599317c15a775f3db3cb7304e1bd7bce2282910&v=4" width="24" alt="Avatar of mikhaiIy"> mikhaiIy
@@ -6930,33 +6852,46 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>520</td>
 		<td>
-			<a href="https://github.com/ahmadalwareh">
-				<img src="https://avatars.githubusercontent.com/u/55667622?s=72&u=9390460678e52dc911c0ed9e589685adbfa0d310&v=4" width="24" alt="Avatar of ahmadalwareh"> ahmadalwareh
+			<a href="https://github.com/michlee1337">
+				<img src="https://avatars.githubusercontent.com/u/25736131?s=72&u=d046b31919ba98772751778b903f3c6133d9de5e&v=4" width="24" alt="Avatar of michlee1337"> michlee1337
 			</a><br/>
-			Ahmad Alwareh
+			Michelle S Lee
 		</td>
-		<td>Basf </td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>521</td>
+		<td>
+			<a href="https://github.com/marcuswkl">
+				<img src="https://avatars.githubusercontent.com/u/56200199?s=72&u=1a48d0b233385ed4c85af086b077dbe52a6bf33f&v=4" width="24" alt="Avatar of marcuswkl"> marcuswkl
+			</a><br/>
+			Marcus Wong Ke Lun
+		</td>
+		<td>Carsome </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>522</td>
+		<td>
+			<a href="https://github.com/zaidhuda">
+				<img src="https://avatars.githubusercontent.com/u/3919103?s=72&v=4" width="24" alt="Avatar of zaidhuda"> zaidhuda
+			</a><br/>
+			Zaid Huda
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur</td>
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>527</td>
-		<td>
-			<a href="https://github.com/joeynor">
-				<img src="https://avatars.githubusercontent.com/u/5109172?s=72&u=933ca4b1a05878700b05fd2283110b8a5efb3bb7&v=4" width="24" alt="Avatar of joeynor"> joeynor
-			</a><br/>
-			Rizal Mohd Nor
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>528</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/FamryAmri">
 				<img src="https://avatars.githubusercontent.com/u/57156706?s=72&u=91e9bfc60d31ec50c7ad4536f7a78f4eab4e3ce0&v=4" width="24" alt="Avatar of FamryAmri"> FamryAmri
@@ -6969,20 +6904,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>524</td>
 		<td>
-			<a href="https://github.com/dFarkhod">
-				<img src="https://avatars.githubusercontent.com/u/4464420?s=72&u=0feedcce6485f45f3515d1d82cfed325fcc2c88d&v=4" width="24" alt="Avatar of dFarkhod"> dFarkhod
+			<a href="https://github.com/crossRT">
+				<img src="https://avatars.githubusercontent.com/u/3617115?s=72&u=309a81de7574036933a99b5efaa28342cc0b0f42&v=4" width="24" alt="Avatar of crossRT"> crossRT
 			</a><br/>
-			Farkhod
+			Rui Tai Low
 		</td>
-		<td>Consolsys Technologies </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>13</td>
+		<td>14</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/anonoz">
 				<img src="https://avatars.githubusercontent.com/u/1917638?s=72&u=97c7240ee432f98be6f8934ef130b22eb693fa55&v=4" width="24" alt="Avatar of anonoz"> anonoz
@@ -6995,7 +6930,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>526</td>
+		<td>
+			<a href="https://github.com/sheikhhanif">
+				<img src="https://avatars.githubusercontent.com/u/35553517?s=72&u=697210624661311207fe985f8c4b4c6c0e2d8eaf&v=4" width="24" alt="Avatar of sheikhhanif"> sheikhhanif
+			</a><br/>
+			Sheikh Hanif
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/xiihaiqal">
 				<img src="https://avatars.githubusercontent.com/u/71058792?s=72&u=69c3c017e90a19aebc0ee592abeb6880230497a8&v=4" width="24" alt="Avatar of xiihaiqal"> xiihaiqal
@@ -7008,20 +6956,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>528</td>
 		<td>
-			<a href="https://github.com/karamalie">
-				<img src="https://avatars.githubusercontent.com/u/12868819?s=72&u=bbccf91687bbe7605c5619b38414aa4f50b11def&v=4" width="24" alt="Avatar of karamalie"> karamalie
+			<a href="https://github.com/dr-zool">
+				<img src="https://avatars.githubusercontent.com/u/37915963?s=72&u=665a3505c9eba21a2f2d3015368582f83237bb87&v=4" width="24" alt="Avatar of dr-zool"> dr-zool
 			</a><br/>
-			karam
+			Zool Hilmi Ismail
 		</td>
-		<td>Tria </td>
+		<td>Universiti Teknologi Malaysia </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur</td>
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/yujinlim">
 				<img src="https://avatars.githubusercontent.com/u/1311231?s=72&v=4" width="24" alt="Avatar of yujinlim"> yujinlim
@@ -7034,7 +6982,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>530</td>
+		<td>
+			<a href="https://github.com/m-nathani">
+				<img src="https://avatars.githubusercontent.com/u/13331386?s=72&u=69d61c83d9a0d57036ed19bfe8be11d5bbc53a2c&v=4" width="24" alt="Avatar of m-nathani"> m-nathani
+			</a><br/>
+			Murtaza Nathani
+		</td>
+		<td>Umai </td>
+		<td><a href="https://twitter.com/mudza252">mudza252</a></td>
+		<td>Kuala Lampur, Malaysia.</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/rafu01">
 				<img src="https://avatars.githubusercontent.com/u/25989379?s=72&u=0d5682a2bfec3297b799fc5753a1ce456fdb8bcc&v=4" width="24" alt="Avatar of rafu01"> rafu01
@@ -7047,20 +7008,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>535</td>
-		<td>
-			<a href="https://github.com/zarulizham">
-				<img src="https://avatars.githubusercontent.com/u/10229855?s=72&v=4" width="24" alt="Avatar of zarulizham"> zarulizham
-			</a><br/>
-			Zarul Izham Zubir
-		</td>
-		<td>Pro Office Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Selangor, Malaysia</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>536</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/HazmanNaim">
 				<img src="https://avatars.githubusercontent.com/u/77926273?s=72&u=49573d3219fbd2da4944a48a5913deaf12b67a1b&v=4" width="24" alt="Avatar of HazmanNaim"> HazmanNaim
@@ -7073,7 +7021,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>533</td>
+		<td>
+			<a href="https://github.com/kenng">
+				<img src="https://avatars.githubusercontent.com/u/6687538?s=72&u=5090c97afd4a79af77954a3988ab35e712c869d9&v=4" width="24" alt="Avatar of kenng"> kenng
+			</a><br/>
+			Ken Ng
+		</td>
+		<td>@itwonders  </td>
+		<td>No Twitter Username</td>
+		<td>#09-02, Jalan Permas 10/2, Bandar Baru Permas, Masai, Johor, Malaysia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/MahbubaHaque">
 				<img src="https://avatars.githubusercontent.com/u/77088429?s=72&u=7f242d53f1e916c442e786cd2d7b26a5ece5cd91&v=4" width="24" alt="Avatar of MahbubaHaque"> MahbubaHaque
@@ -7086,33 +7047,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>535</td>
 		<td>
-			<a href="https://github.com/mrhery">
-				<img src="https://avatars.githubusercontent.com/u/20160636?s=72&u=35ca3488ca2823b661d0d1c32c64de3d7eeb9674&v=4" width="24" alt="Avatar of mrhery"> mrhery
+			<a href="https://github.com/afiqiqmal">
+				<img src="https://avatars.githubusercontent.com/u/9051312?s=72&u=75d9d0c6e6180257371242bc061a4af385231802&v=4" width="24" alt="Avatar of afiqiqmal"> afiqiqmal
 			</a><br/>
-			Mr Hery
+			Hafiq
 		</td>
-		<td>Heryit </td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/hafiqiqmal93">hafiqiqmal93</a></td>
+		<td>Malaysia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>536</td>
+		<td>
+			<a href="https://github.com/zawawimanja">
+				<img src="https://avatars.githubusercontent.com/u/37230267?s=72&v=4" width="24" alt="Avatar of zawawimanja"> zawawimanja
+			</a><br/>
+			awi
+		</td>
+		<td>Awi </td>
 		<td>No Twitter Username</td>
-		<td>Johor, Malaysia</td>
+		<td>malaysia</td>
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>539</td>
-		<td>
-			<a href="https://github.com/afxal">
-				<img src="https://avatars.githubusercontent.com/u/383016?s=72&u=6e27c7d453f485f4cd7319b29a199d4cf8b24206&v=4" width="24" alt="Avatar of afxal"> afxal
-			</a><br/>
-			Apo
-		</td>
-		<td>@oviatohq </td>
-		<td><a href="https://twitter.com/afxal">afxal</a></td>
-		<td>Kuala Lumpur</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>540</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/muhdlaziem">
 				<img src="https://avatars.githubusercontent.com/u/33310853?s=72&u=8bb7567deecc25eedc445307041344a161afde6a&v=4" width="24" alt="Avatar of muhdlaziem"> muhdlaziem
@@ -7125,7 +7086,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/1zaak">
 				<img src="https://avatars.githubusercontent.com/u/473564?s=72&u=a71502af8ba3af5fe9ae4eb5263b49f58109aa19&v=4" width="24" alt="Avatar of 1zaak"> 1zaak
@@ -7138,20 +7099,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>539</td>
 		<td>
-			<a href="https://github.com/mnh48">
-				<img src="https://avatars.githubusercontent.com/u/12217018?s=72&u=4d7169ee50372a75d028af9ba769e345b1f4f542&v=4" width="24" alt="Avatar of mnh48"> mnh48
+			<a href="https://github.com/luqmanafif96">
+				<img src="https://avatars.githubusercontent.com/u/33752679?s=72&u=26c01a76e143c6e2d2060d8f08dcf273b3d9c2e0&v=4" width="24" alt="Avatar of luqmanafif96"> luqmanafif96
 			</a><br/>
-			Yaya - Nurul Azeera Hidayah Yatsuko Muhammad Nur Hidayat Yasuyoshi (MNH48)
+			Luqman Afif 
 		</td>
-		<td>Unemployed </td>
-		<td><a href="https://twitter.com/yayamnh48">yayamnh48</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/isluqies96">isluqies96</a></td>
+		<td>malaysia</td>
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/RachelHow">
 				<img src="https://avatars.githubusercontent.com/u/30018572?s=72&u=acb33c19656f7726ed45c7be37dd7a17a5a71dc9&v=4" width="24" alt="Avatar of RachelHow"> RachelHow
@@ -7164,59 +7125,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>541</td>
 		<td>
-			<a href="https://github.com/patrickxchong">
-				<img src="https://avatars.githubusercontent.com/u/20418855?s=72&u=e5029e6d4f4118f0b17aedeb41d953475184c6c5&v=4" width="24" alt="Avatar of patrickxchong"> patrickxchong
+			<a href="https://github.com/hafizhaziq307">
+				<img src="https://avatars.githubusercontent.com/u/81540611?s=72&u=a875d4c58290b0d8126419b5656fdc11c7ced3c5&v=4" width="24" alt="Avatar of hafizhaziq307"> hafizhaziq307
 			</a><br/>
-			Patrick Chong
+			Hafiz Haziq
 		</td>
-		<td>No Company</td>
+		<td>Jcoders Sdn. Bhd. </td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
+		<td>Malaysia</td>
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>545</td>
-		<td>
-			<a href="https://github.com/Cloonie">
-				<img src="https://avatars.githubusercontent.com/u/104150554?s=72&u=1e7022ec0ede969a070401be33675c61f4a56b7c&v=4" width="24" alt="Avatar of Cloonie"> Cloonie
-			</a><br/>
-			Mark Liew
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>546</td>
-		<td>
-			<a href="https://github.com/m-nathani">
-				<img src="https://avatars.githubusercontent.com/u/13331386?s=72&u=69d61c83d9a0d57036ed19bfe8be11d5bbc53a2c&v=4" width="24" alt="Avatar of m-nathani"> m-nathani
-			</a><br/>
-			Murtaza Nathani
-		</td>
-		<td>Umai </td>
-		<td><a href="https://twitter.com/mudza252">mudza252</a></td>
-		<td>Kuala Lampur, Malaysia.</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>547</td>
-		<td>
-			<a href="https://github.com/Soni96pl">
-				<img src="https://avatars.githubusercontent.com/u/3409889?s=72&u=13cf7753b3ffbd4e65446cff2e1ef39442057160&v=4" width="24" alt="Avatar of Soni96pl"> Soni96pl
-			</a><br/>
-			Sonia Chronowska
-		</td>
-		<td>@spcode1  </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>548</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/ArvdSrh">
 				<img src="https://avatars.githubusercontent.com/u/56919066?s=72&u=dadddc19c07a17da09785d4e5611d06228ff7059&v=4" width="24" alt="Avatar of ArvdSrh"> ArvdSrh
@@ -7229,7 +7151,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>543</td>
+		<td>
+			<a href="https://github.com/RamadhanAmizudin">
+				<img src="https://avatars.githubusercontent.com/u/2631784?s=72&u=ade14f50cd86c6c5ffc97efda7e81624621f2d3f&v=4" width="24" alt="Avatar of RamadhanAmizudin"> RamadhanAmizudin
+			</a><br/>
+			Ramadhan Amizudin
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/rempahrz">rempahrz</a></td>
+		<td>Malaysia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/zulfahmi93">
 				<img src="https://avatars.githubusercontent.com/u/7465997?s=72&u=42f8c9a69f836fe6b29a84d692ad9d290bb63a7a&v=4" width="24" alt="Avatar of zulfahmi93"> zulfahmi93
@@ -7242,12 +7177,38 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>545</td>
 		<td>
-			<a href="https://github.com/emafazillah">
-				<img src="https://avatars.githubusercontent.com/u/8803451?s=72&u=115a766302c904471d152b9bf9f0cb1733b610d5&v=4" width="24" alt="Avatar of emafazillah"> emafazillah
+			<a href="https://github.com/firdisml">
+				<img src="https://avatars.githubusercontent.com/u/44713893?s=72&u=d9da9084c4b1b030ea3ac8fe1565862b716ea854&v=4" width="24" alt="Avatar of firdisml"> firdisml
 			</a><br/>
-			Ema Fazillah Abu Bakar
+			Firdaus Ismail
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur , Malaysia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>546</td>
+		<td>
+			<a href="https://github.com/zawawiAI">
+				<img src="https://avatars.githubusercontent.com/u/50743060?s=72&u=05a30b0171cd46cd121db193ee9d89afe1c9a13e&v=4" width="24" alt="Avatar of zawawiAI"> zawawiAI
+			</a><br/>
+			ZawawiAI
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>547</td>
+		<td>
+			<a href="https://github.com/yusufsuhair">
+				<img src="https://avatars.githubusercontent.com/u/53525901?s=72&u=0f9f38567eaa4767ecc21df27c7b1167dbe4b690&v=4" width="24" alt="Avatar of yusufsuhair"> yusufsuhair
+			</a><br/>
+			Yusuf Suhair
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -7255,85 +7216,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>551</td>
-		<td>
-			<a href="https://github.com/Mamanggans">
-				<img src="https://avatars.githubusercontent.com/u/59646191?s=72&u=9c171b9348544be6e6042d8b100a6d15376a8bca&v=4" width="24" alt="Avatar of Mamanggans"> Mamanggans
-			</a><br/>
-			Ferdiansyah
-		</td>
-		<td>Ftui And Aeu </td>
-		<td>No Twitter Username</td>
-		<td>Depok and Kuala Lumpur</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>552</td>
-		<td>
-			<a href="https://github.com/duttashi">
-				<img src="https://avatars.githubusercontent.com/u/17269259?s=72&u=91b1dc0bf501233ae0fa3684997d9e6d6c6cb827&v=4" width="24" alt="Avatar of duttashi"> duttashi
-			</a><br/>
-			Ashish Dutt
-		</td>
-		<td>Monash University Malaysia </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>553</td>
-		<td>
-			<a href="https://github.com/yuenherny">
-				<img src="https://avatars.githubusercontent.com/u/59016908?s=72&u=93cb6dd6aef1efe723291e3779221e78254aebe7&v=4" width="24" alt="Avatar of yuenherny"> yuenherny
-			</a><br/>
-			Yuen Hern Yu
-		</td>
-		<td>Ørsted </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>554</td>
-		<td>
-			<a href="https://github.com/lejarx">
-				<img src="https://avatars.githubusercontent.com/u/6431985?s=72&u=0a9ce4d472ca867d85ddcddfef5103921da82c82&v=4" width="24" alt="Avatar of lejarx"> lejarx
-			</a><br/>
-			lejarX
-		</td>
-		<td>@lejarx </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>555</td>
-		<td>
-			<a href="https://github.com/ikursus">
-				<img src="https://avatars.githubusercontent.com/u/20785668?s=72&u=0903baa55d7af677893d1f3379a77c8563d9e379&v=4" width="24" alt="Avatar of ikursus"> ikursus
-			</a><br/>
-			ikursus.com
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>556</td>
-		<td>
-			<a href="https://github.com/rashid2003">
-				<img src="https://avatars.githubusercontent.com/u/31435017?s=72&v=4" width="24" alt="Avatar of rashid2003"> rashid2003
-			</a><br/>
-			Rashid Obaidi
-		</td>
-		<td>Lajwardco </td>
-		<td><a href="https://twitter.com/rashid_obaidi">rashid_obaidi</a></td>
-		<td>Malaysia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>557</td>
+		<td>548</td>
 		<td>
 			<a href="https://github.com/cycool29">
 				<img src="https://avatars.githubusercontent.com/u/88134003?s=72&u=917de048f831f371434c50991aff5ad06758adf5&v=4" width="24" alt="Avatar of cycool29"> cycool29
@@ -7346,7 +7229,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>558</td>
+		<td>549</td>
+		<td>
+			<a href="https://github.com/rashid2003">
+				<img src="https://avatars.githubusercontent.com/u/31435017?s=72&v=4" width="24" alt="Avatar of rashid2003"> rashid2003
+			</a><br/>
+			Rashid Obaidi
+		</td>
+		<td>Lajwardco </td>
+		<td><a href="https://twitter.com/rashid_obaidi">rashid_obaidi</a></td>
+		<td>Malaysia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>550</td>
+		<td>
+			<a href="https://github.com/Cloonie">
+				<img src="https://avatars.githubusercontent.com/u/104150554?s=72&u=1e7022ec0ede969a070401be33675c61f4a56b7c&v=4" width="24" alt="Avatar of Cloonie"> Cloonie
+			</a><br/>
+			Mark Liew
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/akutaktau">
 				<img src="https://avatars.githubusercontent.com/u/408417?s=72&v=4" width="24" alt="Avatar of akutaktau"> akutaktau
@@ -7359,7 +7268,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>559</td>
+		<td>552</td>
+		<td>
+			<a href="https://github.com/KeluhingBavui">
+				<img src="https://avatars.githubusercontent.com/u/74557371?s=72&u=f8346382c49c92918387bf38a544b92be9dc4424&v=4" width="24" alt="Avatar of KeluhingBavui"> KeluhingBavui
+			</a><br/>
+			Daniel Wan Jonathan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>553</td>
 		<td>
 			<a href="https://github.com/takieddinetorki">
 				<img src="https://avatars.githubusercontent.com/u/66402797?s=72&u=1a17b91445e8491b5699cef08afac7f0bc5a3aeb&v=4" width="24" alt="Avatar of takieddinetorki"> takieddinetorki
@@ -7372,33 +7294,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>560</td>
-		<td>
-			<a href="https://github.com/IdrisCytron">
-				<img src="https://avatars.githubusercontent.com/u/12030410?s=72&u=8d2a61691a9893114bb2d9dda34126bcc79d6ad4&v=4" width="24" alt="Avatar of IdrisCytron"> IdrisCytron
-			</a><br/>
-			Idris Zainal Abidin
-		</td>
-		<td>Cytron Technologies Sdn Bhd<br/></td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>561</td>
-		<td>
-			<a href="https://github.com/PandieYay">
-				<img src="https://avatars.githubusercontent.com/u/42307449?s=72&v=4" width="24" alt="Avatar of PandieYay"> PandieYay
-			</a><br/>
-			Edison Lim
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>562</td>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/kyaroru">
 				<img src="https://avatars.githubusercontent.com/u/1030024?s=72&u=1b194848c4983f9e5c114986d8de7867c39e4c5c&v=4" width="24" alt="Avatar of kyaroru"> kyaroru
@@ -7411,46 +7307,59 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>563</td>
+		<td>555</td>
 		<td>
-			<a href="https://github.com/Yatib">
-				<img src="https://avatars.githubusercontent.com/u/26847272?s=72&u=0a78f17ffbbcd6e34ae94fbe4d67e44bda643365&v=4" width="24" alt="Avatar of Yatib"> Yatib
+			<a href="https://github.com/bbkx226">
+				<img src="https://avatars.githubusercontent.com/u/83408362?s=72&u=e35c30d6575b130df9ee074ecc4d14016fcfac61&v=4" width="24" alt="Avatar of bbkx226"> bbkx226
 			</a><br/>
-			Aryati Bakri
+			Brandon Ban Kai Xian
 		</td>
-		<td>Faculty Computing, Universiti Teknologi<br/>Malaysia<br/></td>
+		<td>Ant International </td>
 		<td>No Twitter Username</td>
-		<td>Johor, Malaysia</td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>556</td>
 		<td>
-			<a href="https://github.com/WanHirwanWanTalip">
-				<img src="https://avatars.githubusercontent.com/u/107345406?s=72&u=2ef95f7f7ef3c941ab0aa3ae47c2e97c2c596d49&v=4" width="24" alt="Avatar of WanHirwanWanTalip"> WanHirwanWanTalip
+			<a href="https://github.com/joevo2">
+				<img src="https://avatars.githubusercontent.com/u/697155?s=72&v=4" width="24" alt="Avatar of joevo2"> joevo2
 			</a><br/>
-			No Name
+			Joel
 		</td>
-		<td>Empite Global Ventures Llc<br/></td>
-		<td><a href="https://twitter.com/WanHirwan">WanHirwan</a></td>
-		<td>Sabah,malaysia</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>565</td>
-		<td>
-			<a href="https://github.com/ApOgEE">
-				<img src="https://avatars.githubusercontent.com/u/76922?s=72&u=65d383a62c59bded1b65da6f8381af4d1ce281b0&v=4" width="24" alt="Avatar of ApOgEE"> ApOgEE
-			</a><br/>
-			M. Fauzilkamil Zainuddin
-		</td>
-		<td>Apogeek Creative Solutions </td>
+		<td>@baesystemsai </td>
 		<td>No Twitter Username</td>
-		<td>Kuala Terengganu, Malaysia</td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>557</td>
+		<td>
+			<a href="https://github.com/yuenherny">
+				<img src="https://avatars.githubusercontent.com/u/59016908?s=72&u=93cb6dd6aef1efe723291e3779221e78254aebe7&v=4" width="24" alt="Avatar of yuenherny"> yuenherny
+			</a><br/>
+			Yuen Hern Yu
+		</td>
+		<td>Ørsted </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>558</td>
+		<td>
+			<a href="https://github.com/jasonkwm">
+				<img src="https://avatars.githubusercontent.com/u/32697686?s=72&u=366d32a2a72d84eca257d440b7c5f876c414ba92&v=4" width="24" alt="Avatar of jasonkwm"> jasonkwm
+			</a><br/>
+			Jason Koh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>559</td>
 		<td>
 			<a href="https://github.com/shihabmi7">
 				<img src="https://avatars.githubusercontent.com/u/5005589?s=72&u=f30018b87e8fdbe0d7ac34e747a36f233b2c3c8f&v=4" width="24" alt="Avatar of shihabmi7"> shihabmi7
@@ -7463,7 +7372,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>567</td>
+		<td>560</td>
 		<td>
 			<a href="https://github.com/munirrani">
 				<img src="https://avatars.githubusercontent.com/u/44516210?s=72&u=95e00748a5aaff3095575e4640ac4cedfa79a476&v=4" width="24" alt="Avatar of munirrani"> munirrani
@@ -7476,33 +7385,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>561</td>
 		<td>
-			<a href="https://github.com/zaimabdullah">
-				<img src="https://avatars.githubusercontent.com/u/36534973?s=72&u=757cec7f2e480df7c4311c1c9602e59e3c3c53d8&v=4" width="24" alt="Avatar of zaimabdullah"> zaimabdullah
+			<a href="https://github.com/ikursus">
+				<img src="https://avatars.githubusercontent.com/u/20785668?s=72&u=0903baa55d7af677893d1f3379a77c8563d9e379&v=4" width="24" alt="Avatar of ikursus"> ikursus
 			</a><br/>
-			Ahmad Husni Zaim
+			ikursus.com
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Peringat, Kelantan, Malaysia</td>
+		<td>Malaysia</td>
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>562</td>
 		<td>
-			<a href="https://github.com/andrew-lim">
-				<img src="https://avatars.githubusercontent.com/u/3378648?s=72&u=3f0feb261903c0759d66e08b1a8d3ff3bdbf310d&v=4" width="24" alt="Avatar of andrew-lim"> andrew-lim
+			<a href="https://github.com/ahmadalwareh">
+				<img src="https://avatars.githubusercontent.com/u/55667622?s=72&u=9390460678e52dc911c0ed9e589685adbfa0d310&v=4" width="24" alt="Avatar of ahmadalwareh"> ahmadalwareh
 			</a><br/>
-			Andrew Lim
+			Ahmad Alwareh
 		</td>
-		<td>No Company</td>
+		<td>Basf </td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
+		<td>Kuala Lumpur</td>
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>570</td>
+		<td>563</td>
 		<td>
 			<a href="https://github.com/edwin-19">
 				<img src="https://avatars.githubusercontent.com/u/13368628?s=72&v=4" width="24" alt="Avatar of edwin-19"> edwin-19
@@ -7515,7 +7424,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>564</td>
 		<td>
 			<a href="https://github.com/develalfy">
 				<img src="https://avatars.githubusercontent.com/u/7834932?s=72&u=150209b9d061703c8be822a03636a9748ddaf4e2&v=4" width="24" alt="Avatar of develalfy"> develalfy
@@ -7528,20 +7437,46 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>565</td>
 		<td>
-			<a href="https://github.com/jawish">
-				<img src="https://avatars.githubusercontent.com/u/2058516?s=72&u=01415ef734a417c60462166f18cd0cc074c5ec1d&v=4" width="24" alt="Avatar of jawish"> jawish
+			<a href="https://github.com/sharuzzaman">
+				<img src="https://avatars.githubusercontent.com/u/7421941?s=72&v=4" width="24" alt="Avatar of sharuzzaman"> sharuzzaman
 			</a><br/>
-			Jawish Hameed
+			Sharuzzaman Ahmat Raslan
 		</td>
-		<td>Lottiefiles </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>9</td>
+		<td>10</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>566</td>
+		<td>
+			<a href="https://github.com/adyromantika">
+				<img src="https://avatars.githubusercontent.com/u/4217995?s=72&u=cbb24dc4cf8126bc76065a99253cdaff795a3f6c&v=4" width="24" alt="Avatar of adyromantika"> adyromantika
+			</a><br/>
+			Ady Romantika
+		</td>
+		<td>@tessaigatech </td>
+		<td>No Twitter Username</td>
+		<td>Cyberjaya, Malaysia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>567</td>
+		<td>
+			<a href="https://github.com/ankkho">
+				<img src="https://avatars.githubusercontent.com/u/1430541?s=72&u=bde8e91ab9a0b108855cd3bcf279e6a631186377&v=4" width="24" alt="Avatar of ankkho"> ankkho
+			</a><br/>
+			Ankit
+		</td>
+		<td>Airasia </td>
+		<td><a href="https://twitter.com/ankit_khosla">ankit_khosla</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/g3nj1z">
 				<img src="https://avatars.githubusercontent.com/u/50061857?s=72&u=2d5f01f2373d2c04442eecf6dc7955d51f202b03&v=4" width="24" alt="Avatar of g3nj1z"> g3nj1z
@@ -7554,20 +7489,46 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>569</td>
 		<td>
-			<a href="https://github.com/linuxmalaysia">
-				<img src="https://avatars.githubusercontent.com/u/72349?s=72&v=4" width="24" alt="Avatar of linuxmalaysia"> linuxmalaysia
+			<a href="https://github.com/niyazed">
+				<img src="https://avatars.githubusercontent.com/u/31667432?s=72&u=bfbb38a6e372e7c207412f31b9e0c6a4f8a8d83a&v=4" width="24" alt="Avatar of niyazed"> niyazed
 			</a><br/>
-			Harisfazillah Jamel
+			Niyaz Bin Hashem
 		</td>
-		<td>@songketmail  </td>
+		<td>Lenovo </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>570</td>
+		<td>
+			<a href="https://github.com/eman1000">
+				<img src="https://avatars.githubusercontent.com/u/16818188?s=72&u=1996e15b65595f8be0abd8f38af9ab9b41d52d38&v=4" width="24" alt="Avatar of eman1000"> eman1000
+			</a><br/>
+			Emmancipate Takunda Musemwa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>571</td>
+		<td>
+			<a href="https://github.com/Yatib">
+				<img src="https://avatars.githubusercontent.com/u/26847272?s=72&u=0a78f17ffbbcd6e34ae94fbe4d67e44bda643365&v=4" width="24" alt="Avatar of Yatib"> Yatib
+			</a><br/>
+			Aryati Bakri
+		</td>
+		<td>Faculty Computing, Universiti Teknologi<br/>Malaysia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Johor, Malaysia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/aisyahrzk">
 				<img src="https://avatars.githubusercontent.com/u/61441363?s=72&u=d2d7bc9d163403a86ae64f789c1984c33f8c4a79&v=4" width="24" alt="Avatar of aisyahrzk"> aisyahrzk
@@ -7580,29 +7541,68 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>9</td>
 	</tr>
 	<tr>
+		<td>573</td>
+		<td>
+			<a href="https://github.com/WanHirwanWanTalip">
+				<img src="https://avatars.githubusercontent.com/u/107345406?s=72&u=2ef95f7f7ef3c941ab0aa3ae47c2e97c2c596d49&v=4" width="24" alt="Avatar of WanHirwanWanTalip"> WanHirwanWanTalip
+			</a><br/>
+			No Name
+		</td>
+		<td>Empite Global Ventures Llc<br/></td>
+		<td><a href="https://twitter.com/WanHirwan">WanHirwan</a></td>
+		<td>Sabah,malaysia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>574</td>
+		<td>
+			<a href="https://github.com/ApOgEE">
+				<img src="https://avatars.githubusercontent.com/u/76922?s=72&u=65d383a62c59bded1b65da6f8381af4d1ce281b0&v=4" width="24" alt="Avatar of ApOgEE"> ApOgEE
+			</a><br/>
+			M. Fauzilkamil Zainuddin
+		</td>
+		<td>Apogeek Creative Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Terengganu, Malaysia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>575</td>
+		<td>
+			<a href="https://github.com/Bunyod16">
+				<img src="https://avatars.githubusercontent.com/u/71476894?s=72&u=aac5d9521c13b820d5a8f834b60ff23ccb32612c&v=4" width="24" alt="Avatar of Bunyod16"> Bunyod16
+			</a><br/>
+			Bunyod Shams
+		</td>
+		<td>42 Kuala Lumpur </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>9</td>
+	</tr>
+	<tr>
 		<td>576</td>
 		<td>
-			<a href="https://github.com/maail">
-				<img src="https://avatars.githubusercontent.com/u/955823?s=72&u=ded4fdb5f05c1fe1a6cd24518a21163f0617cd22&v=4" width="24" alt="Avatar of maail"> maail
+			<a href="https://github.com/wupmemo">
+				<img src="https://avatars.githubusercontent.com/u/15247512?s=72&u=9816a16abc36fc558bfca231b698490749b9a825&v=4" width="24" alt="Avatar of wupmemo"> wupmemo
 			</a><br/>
-			Mohamed Maail
+			me-mo
 		</td>
-		<td>Mindvalley </td>
-		<td><a href="https://twitter.com/maail">maail</a></td>
-		<td>Malaysia</td>
+		<td>Itsos </td>
+		<td><a href="https://twitter.com/memoman90">memoman90</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>9</td>
 	</tr>
 	<tr>
 		<td>577</td>
 		<td>
-			<a href="https://github.com/firdisml">
-				<img src="https://avatars.githubusercontent.com/u/44713893?s=72&u=d9da9084c4b1b030ea3ac8fe1565862b716ea854&v=4" width="24" alt="Avatar of firdisml"> firdisml
+			<a href="https://github.com/andrew-lim">
+				<img src="https://avatars.githubusercontent.com/u/3378648?s=72&u=3f0feb261903c0759d66e08b1a8d3ff3bdbf310d&v=4" width="24" alt="Avatar of andrew-lim"> andrew-lim
 			</a><br/>
-			Firdaus Ismail
+			Andrew Lim
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur , Malaysia</td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -7621,23 +7621,10 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 	<tr>
 		<td>579</td>
 		<td>
-			<a href="https://github.com/iaskeyz69">
-				<img src="https://avatars.githubusercontent.com/u/108406765?s=72&u=2ad5cc444a19aa318047ded8a305160a5ede678f&v=4" width="24" alt="Avatar of iaskeyz69"> iaskeyz69
+			<a href="https://github.com/karinfam">
+				<img src="https://avatars.githubusercontent.com/u/14949157?s=72&u=a46afde7f6ce78d58a0fc3ac39f1ea244e227d57&v=4" width="24" alt="Avatar of karinfam"> karinfam
 			</a><br/>
-			Julias Johari
-		</td>
-		<td>Enviros Group </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>580</td>
-		<td>
-			<a href="https://github.com/abuyusif01">
-				<img src="https://avatars.githubusercontent.com/u/49121684?s=72&u=cb85322a6e14c10b1c9174abd2ac73f2a343c2f6&v=4" width="24" alt="Avatar of abuyusif01"> abuyusif01
-			</a><br/>
-			Abubakar Yusif
+			Karin Fam
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -7645,59 +7632,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>580</td>
 		<td>
-			<a href="https://github.com/kenng">
-				<img src="https://avatars.githubusercontent.com/u/6687538?s=72&u=5090c97afd4a79af77954a3988ab35e712c869d9&v=4" width="24" alt="Avatar of kenng"> kenng
+			<a href="https://github.com/dFarkhod">
+				<img src="https://avatars.githubusercontent.com/u/4464420?s=72&u=0feedcce6485f45f3515d1d82cfed325fcc2c88d&v=4" width="24" alt="Avatar of dFarkhod"> dFarkhod
 			</a><br/>
-			Ken Ng
+			Farkhod
 		</td>
-		<td>@itwonders  </td>
-		<td>No Twitter Username</td>
-		<td>#09-02, Jalan Permas 10/2, Bandar Baru Permas, Masai, Johor, Malaysia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>582</td>
-		<td>
-			<a href="https://github.com/adyromantika">
-				<img src="https://avatars.githubusercontent.com/u/4217995?s=72&u=cbb24dc4cf8126bc76065a99253cdaff795a3f6c&v=4" width="24" alt="Avatar of adyromantika"> adyromantika
-			</a><br/>
-			Ady Romantika
-		</td>
-		<td>@tessaigatech </td>
-		<td>No Twitter Username</td>
-		<td>Cyberjaya, Malaysia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>583</td>
-		<td>
-			<a href="https://github.com/PhakornKiong">
-				<img src="https://avatars.githubusercontent.com/u/30017432?s=72&u=3d0da65a4f05c9af95d8959050d3d23ae1a5c6e3&v=4" width="24" alt="Avatar of PhakornKiong"> PhakornKiong
-			</a><br/>
-			Phakorn Kiong
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore/Malaysia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>584</td>
-		<td>
-			<a href="https://github.com/wmfairuz">
-				<img src="https://avatars.githubusercontent.com/u/2242144?s=72&u=c0f562af86c51d91200c5d291a1675c41e6c6695&v=4" width="24" alt="Avatar of wmfairuz"> wmfairuz
-			</a><br/>
-			Fairuz Wan Ismail
-		</td>
-		<td>Trizit Lab Sdn Bhd<br/></td>
+		<td>Consolsys Technologies </td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
-		<td>9</td>
+		<td>8</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>581</td>
 		<td>
 			<a href="https://github.com/mdrhmn">
 				<img src="https://avatars.githubusercontent.com/u/50654608?s=72&u=43fa1195a5d3beb71be1cbc479acc13ce2765731&v=4" width="24" alt="Avatar of mdrhmn"> mdrhmn
@@ -7710,7 +7658,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>582</td>
+		<td>
+			<a href="https://github.com/OysterD3">
+				<img src="https://avatars.githubusercontent.com/u/7383278?s=72&u=90fa1a1c03baf35d4893ffb87c8987e615c2bbe3&v=4" width="24" alt="Avatar of OysterD3"> OysterD3
+			</a><br/>
+			Oyster Lee
+		</td>
+		<td>@antinternational </td>
+		<td><a href="https://twitter.com/OysterD3">OysterD3</a></td>
+		<td>Melaka, Malaysia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>583</td>
+		<td>
+			<a href="https://github.com/longyap">
+				<img src="https://avatars.githubusercontent.com/u/24841306?s=72&u=aa699b35cd6e351dcb3135dbf17101ef1da4ced1&v=4" width="24" alt="Avatar of longyap"> longyap
+			</a><br/>
+			longyap
+		</td>
+		<td>Masonic Audio Technology </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/hariadi">
 				<img src="https://avatars.githubusercontent.com/u/376635?s=72&v=4" width="24" alt="Avatar of hariadi"> hariadi
@@ -7723,12 +7697,25 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>585</td>
 		<td>
-			<a href="https://github.com/hakimtakiyuddin">
-				<img src="https://avatars.githubusercontent.com/u/30569068?s=72&u=d8d5bb8b80b3c703464ee6d739058544e1f5a981&v=4" width="24" alt="Avatar of hakimtakiyuddin"> hakimtakiyuddin
+			<a href="https://github.com/duttashi">
+				<img src="https://avatars.githubusercontent.com/u/17269259?s=72&u=91b1dc0bf501233ae0fa3684997d9e6d6c6cb827&v=4" width="24" alt="Avatar of duttashi"> duttashi
 			</a><br/>
-			Hakim Takiyuddin
+			Ashish Dutt
+		</td>
+		<td>Monash University Malaysia </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>586</td>
+		<td>
+			<a href="https://github.com/HohShenYien">
+				<img src="https://avatars.githubusercontent.com/u/55322546?s=72&u=ef83f62cf4d30a194de57d8147bcf04b93317f13&v=4" width="24" alt="Avatar of HohShenYien"> HohShenYien
+			</a><br/>
+			Hoh Shen Yien
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -7736,16 +7723,29 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
+		<td>587</td>
+		<td>
+			<a href="https://github.com/mnh48">
+				<img src="https://avatars.githubusercontent.com/u/12217018?s=72&u=4d7169ee50372a75d028af9ba769e345b1f4f542&v=4" width="24" alt="Avatar of mnh48"> mnh48
+			</a><br/>
+			Yaya - Nurul Azeera Hidayah Yatsuko Muhammad Nur Hidayat Yasuyoshi (MNH48)
+		</td>
+		<td>Unemployed </td>
+		<td><a href="https://twitter.com/yayamnh48">yayamnh48</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>8</td>
+	</tr>
+	<tr>
 		<td>588</td>
 		<td>
-			<a href="https://github.com/yusufsuhair">
-				<img src="https://avatars.githubusercontent.com/u/53525901?s=72&u=0f9f38567eaa4767ecc21df27c7b1167dbe4b690&v=4" width="24" alt="Avatar of yusufsuhair"> yusufsuhair
+			<a href="https://github.com/jvloo">
+				<img src="https://avatars.githubusercontent.com/u/54534702?s=72&u=645d34c68592bb6c40c4f9c43f124f3f2289a2a5&v=4" width="24" alt="Avatar of jvloo"> jvloo
 			</a><br/>
-			Yusuf Suhair
+			Xavier Loo
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/yusuf_suhair">yusuf_suhair</a></td>
-		<td>Malaysia</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -7764,6 +7764,32 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 	<tr>
 		<td>590</td>
 		<td>
+			<a href="https://github.com/aqilanwar">
+				<img src="https://avatars.githubusercontent.com/u/62605741?s=72&u=f2281aa7b15f66b171c11d6a2eefcd8dff973e54&v=4" width="24" alt="Avatar of aqilanwar"> aqilanwar
+			</a><br/>
+			Aqil Anwar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>591</td>
+		<td>
+			<a href="https://github.com/abuyusif01">
+				<img src="https://avatars.githubusercontent.com/u/49121684?s=72&u=cb85322a6e14c10b1c9174abd2ac73f2a343c2f6&v=4" width="24" alt="Avatar of abuyusif01"> abuyusif01
+			</a><br/>
+			Abubakar Yusif
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>592</td>
+		<td>
 			<a href="https://github.com/syazwan089">
 				<img src="https://avatars.githubusercontent.com/u/45165877?s=72&u=cc34f358d07597dd39a9ce2e0e0a1cb119bc684d&v=4" width="24" alt="Avatar of syazwan089"> syazwan089
 			</a><br/>
@@ -7775,55 +7801,29 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>591</td>
-		<td>
-			<a href="https://github.com/aimanaliff">
-				<img src="https://avatars.githubusercontent.com/u/58556128?s=72&u=f6908f7c9addea775d27abfb524219767db58c87&v=4" width="24" alt="Avatar of aimanaliff"> aimanaliff
-			</a><br/>
-			Aliff Aiman
-		</td>
-		<td>University Of Malaya </td>
-		<td>No Twitter Username</td>
-		<td>Selangor, Malaysia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>592</td>
-		<td>
-			<a href="https://github.com/haqem">
-				<img src="https://avatars.githubusercontent.com/u/22459138?s=72&u=97c1bd162d052eaa5b102bcf1016d4aba1a9e68e&v=4" width="24" alt="Avatar of haqem"> haqem
-			</a><br/>
-			Ahmad Luqman Haqem
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>8</td>
-	</tr>
-	<tr>
 		<td>593</td>
 		<td>
-			<a href="https://github.com/fsylum">
-				<img src="https://avatars.githubusercontent.com/u/3433880?s=72&u=43ebff512d163a48f7edb07477476086fd0f1402&v=4" width="24" alt="Avatar of fsylum"> fsylum
+			<a href="https://github.com/aa6my">
+				<img src="https://avatars.githubusercontent.com/u/7272163?s=72&u=1522b6210408cbd07e4784722815e725adcc0438&v=4" width="24" alt="Avatar of aa6my"> aa6my
 			</a><br/>
-			Firdaus Zahari
+			aa6mys
 		</td>
-		<td>@humanmade </td>
-		<td><a href="https://twitter.com/fsylum">fsylum</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
+		<td>@oppstar </td>
+		<td>No Twitter Username</td>
+		<td>Bukit Jalil, Kuala Lumpur</td>
 		<td>8</td>
 	</tr>
 	<tr>
 		<td>594</td>
 		<td>
-			<a href="https://github.com/ridzcode">
-				<img src="https://avatars.githubusercontent.com/u/56738676?s=72&u=04aa456809074b787a41381a4bf2c44b1e887d31&v=4" width="24" alt="Avatar of ridzcode"> ridzcode
+			<a href="https://github.com/iaskeyz69">
+				<img src="https://avatars.githubusercontent.com/u/108406765?s=72&u=2ad5cc444a19aa318047ded8a305160a5ede678f&v=4" width="24" alt="Avatar of iaskeyz69"> iaskeyz69
 			</a><br/>
-			Muhammad Ridzwan
+			Julias Johari
 		</td>
-		<td>Student </td>
+		<td>Enviros Group </td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
+		<td>Kuala Lumpur</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -7842,14 +7842,14 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 	<tr>
 		<td>596</td>
 		<td>
-			<a href="https://github.com/ansyeow">
-				<img src="https://avatars.githubusercontent.com/u/721561?s=72&u=6d750a266742454739116840704cb730e40ea90a&v=4" width="24" alt="Avatar of ansyeow"> ansyeow
+			<a href="https://github.com/mrhery">
+				<img src="https://avatars.githubusercontent.com/u/20160636?s=72&u=35ca3488ca2823b661d0d1c32c64de3d7eeb9674&v=4" width="24" alt="Avatar of mrhery"> mrhery
 			</a><br/>
-			Andrew NS Yeow
+			Mr Hery
 		</td>
-		<td>No Company</td>
+		<td>Heryit </td>
 		<td>No Twitter Username</td>
-		<td>PJ, Selangor, Malaysia</td>
+		<td>Johor, Malaysia</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -7868,31 +7868,18 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 	<tr>
 		<td>598</td>
 		<td>
-			<a href="https://github.com/larryTheCoder">
-				<img src="https://avatars.githubusercontent.com/u/15889642?s=72&u=85f88804be988810422218336e44c86fb8973c5b&v=4" width="24" alt="Avatar of larryTheCoder"> larryTheCoder
+			<a href="https://github.com/henzljw">
+				<img src="https://avatars.githubusercontent.com/u/65068770?s=72&u=a5157bfc25ac73ad45ccffa16677959494024e02&v=4" width="24" alt="Avatar of henzljw"> henzljw
 			</a><br/>
-			Amir Muazzam
+			henz
 		</td>
-		<td>@nethergamesmc </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
+		<td>Johor Darul Takzim, Malaysia</td>
 		<td>7</td>
 	</tr>
 	<tr>
 		<td>599</td>
-		<td>
-			<a href="https://github.com/longyap">
-				<img src="https://avatars.githubusercontent.com/u/24841306?s=72&u=aa699b35cd6e351dcb3135dbf17101ef1da4ced1&v=4" width="24" alt="Avatar of longyap"> longyap
-			</a><br/>
-			longyap
-		</td>
-		<td>Masonic Audio Technology </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>600</td>
 		<td>
 			<a href="https://github.com/bruceoutdoors">
 				<img src="https://avatars.githubusercontent.com/u/3065980?s=72&u=5c8ce6cb2c7f11c88385889c42618726b003bf23&v=4" width="24" alt="Avatar of bruceoutdoors"> bruceoutdoors
@@ -7905,20 +7892,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>601</td>
+		<td>600</td>
 		<td>
-			<a href="https://github.com/tajulasri">
-				<img src="https://avatars.githubusercontent.com/u/6530495?s=72&v=4" width="24" alt="Avatar of tajulasri"> tajulasri
+			<a href="https://github.com/afxal">
+				<img src="https://avatars.githubusercontent.com/u/383016?s=72&u=6e27c7d453f485f4cd7319b29a199d4cf8b24206&v=4" width="24" alt="Avatar of afxal"> afxal
 			</a><br/>
-			espressoByte
+			Apo
 		</td>
-		<td>@codexpertmy  </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
+		<td>@oviatohq </td>
+		<td><a href="https://twitter.com/afxal">afxal</a></td>
+		<td>Kuala Lumpur</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>602</td>
+		<td>601</td>
 		<td>
 			<a href="https://github.com/kurkurzz">
 				<img src="https://avatars.githubusercontent.com/u/64152220?s=72&u=44efead9c2735493b63b1129b2f0d7091fd3f256&v=4" width="24" alt="Avatar of kurkurzz"> kurkurzz
@@ -7931,33 +7918,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>603</td>
-		<td>
-			<a href="https://github.com/kailoon">
-				<img src="https://avatars.githubusercontent.com/u/151661?s=72&u=25f1ab4c2bd4f7313d8e44a1b81b9c4855cb6f23&v=4" width="24" alt="Avatar of kailoon"> kailoon
-			</a><br/>
-			kailoon
-		</td>
-		<td>Loondesign Studio Sdn Bhd<br/></td>
-		<td><a href="https://twitter.com/kailoon">kailoon</a></td>
-		<td>Malaysia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>604</td>
-		<td>
-			<a href="https://github.com/sudocode1">
-				<img src="https://avatars.githubusercontent.com/u/52894745?s=72&u=32573bebe0bf27a4b5261344ad9068454bc405c5&v=4" width="24" alt="Avatar of sudocode1"> sudocode1
-			</a><br/>
-			aruna
-		</td>
-		<td>Student </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>605</td>
+		<td>602</td>
 		<td>
 			<a href="https://github.com/khirulnizam">
 				<img src="https://avatars.githubusercontent.com/u/14230752?s=72&v=4" width="24" alt="Avatar of khirulnizam"> khirulnizam
@@ -7970,33 +7931,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>606</td>
-		<td>
-			<a href="https://github.com/wupmemo">
-				<img src="https://avatars.githubusercontent.com/u/15247512?s=72&u=9816a16abc36fc558bfca231b698490749b9a825&v=4" width="24" alt="Avatar of wupmemo"> wupmemo
-			</a><br/>
-			me-mo
-		</td>
-		<td>Itsos </td>
-		<td><a href="https://twitter.com/memoman90">memoman90</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>607</td>
-		<td>
-			<a href="https://github.com/jvloo">
-				<img src="https://avatars.githubusercontent.com/u/54534702?s=72&u=645d34c68592bb6c40c4f9c43f124f3f2289a2a5&v=4" width="24" alt="Avatar of jvloo"> jvloo
-			</a><br/>
-			Xavier Loo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>608</td>
+		<td>603</td>
 		<td>
 			<a href="https://github.com/jimmynguyc">
 				<img src="https://avatars.githubusercontent.com/u/377774?s=72&u=68b914d55a82db4e5d8dc7b90cea9942f1201691&v=4" width="24" alt="Avatar of jimmynguyc"> jimmynguyc
@@ -8009,7 +7944,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>604</td>
+		<td>
+			<a href="https://github.com/joeynor">
+				<img src="https://avatars.githubusercontent.com/u/5109172?s=72&u=933ca4b1a05878700b05fd2283110b8a5efb3bb7&v=4" width="24" alt="Avatar of joeynor"> joeynor
+			</a><br/>
+			Rizal Mohd Nor
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>605</td>
 		<td>
 			<a href="https://github.com/abdusfauzi">
 				<img src="https://avatars.githubusercontent.com/u/1118229?s=72&v=4" width="24" alt="Avatar of abdusfauzi"> abdusfauzi
@@ -8022,98 +7970,124 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>606</td>
 		<td>
-			<a href="https://github.com/rognales">
-				<img src="https://avatars.githubusercontent.com/u/28396330?s=72&v=4" width="24" alt="Avatar of rognales"> rognales
+			<a href="https://github.com/haqem">
+				<img src="https://avatars.githubusercontent.com/u/22459138?s=72&u=97c1bd162d052eaa5b102bcf1016d4aba1a9e68e&v=4" width="24" alt="Avatar of haqem"> haqem
 			</a><br/>
-			Zaiman Noris
+			Ahmad Luqman Haqem
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/rognales">rognales</a></td>
-		<td>Malaysia</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>607</td>
 		<td>
-			<a href="https://github.com/ibrahimyaacob92">
-				<img src="https://avatars.githubusercontent.com/u/58116068?s=72&u=31ac1e7d90b59cb4b29a2fe818ea95084258640e&v=4" width="24" alt="Avatar of ibrahimyaacob92"> ibrahimyaacob92
+			<a href="https://github.com/safwanshamsir99">
+				<img src="https://avatars.githubusercontent.com/u/103097574?s=72&u=309c30be7a100c0331a7e7d8a0be5608712e1a73&v=4" width="24" alt="Avatar of safwanshamsir99"> safwanshamsir99
 			</a><br/>
-			Ibrahim Yaacob
+			Safwan Shamsir
 		</td>
-		<td>No Company</td>
+		<td>Western Digital - Sandisk<br/>Storage<br/></td>
 		<td>No Twitter Username</td>
 		<td>Malaysia</td>
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>608</td>
 		<td>
-			<a href="https://github.com/pisyek">
-				<img src="https://avatars.githubusercontent.com/u/10695986?s=72&v=4" width="24" alt="Avatar of pisyek"> pisyek
+			<a href="https://github.com/jawish">
+				<img src="https://avatars.githubusercontent.com/u/2058516?s=72&u=01415ef734a417c60462166f18cd0cc074c5ec1d&v=4" width="24" alt="Avatar of jawish"> jawish
 			</a><br/>
-			Pisyek K.
+			Jawish Hameed
+		</td>
+		<td>Lottiefiles </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>609</td>
+		<td>
+			<a href="https://github.com/larryTheCoder">
+				<img src="https://avatars.githubusercontent.com/u/15889642?s=72&u=9d28127bd25208b641588b6ea0cf8977fc03f940&v=4" width="24" alt="Avatar of larryTheCoder"> larryTheCoder
+			</a><br/>
+			Amir Muazzam
+		</td>
+		<td>@nethergamesmc </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>610</td>
+		<td>
+			<a href="https://github.com/sykezz">
+				<img src="https://avatars.githubusercontent.com/u/6332979?s=72&u=102ec8e1916e0f34340929bd37b4cd82df663360&v=4" width="24" alt="Avatar of sykezz"> sykezz
+			</a><br/>
+			Hussain 'Sykez' Faisal
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/pisyek">pisyek</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>7</td>
+		<td><a href="https://twitter.com/saiikzz">saiikzz</a></td>
+		<td>Malaysia / Maldives</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>611</td>
+		<td>
+			<a href="https://github.com/amirhakim9477">
+				<img src="https://avatars.githubusercontent.com/u/247914286?s=72&u=2d2f7184b9719e85dbd54ec185d635eb9a4c646e&v=4" width="24" alt="Avatar of amirhakim9477"> amirhakim9477
+			</a><br/>
+			Amir Hakim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Petaling Jaya, Selangor, Malaysia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>612</td>
+		<td>
+			<a href="https://github.com/kiyui">
+				<img src="https://avatars.githubusercontent.com/u/5292862?s=72&u=f21966d4e508deabad6e04748afa3f6c306050bc&v=4" width="24" alt="Avatar of kiyui"> kiyui
+			</a><br/>
+			Dafne Kiyui
+		</td>
+		<td>@abillionveg </td>
+		<td>No Twitter Username</td>
+		<td>Sarawak, Malaysia</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>613</td>
 		<td>
-			<a href="https://github.com/pearlxcore">
-				<img src="https://avatars.githubusercontent.com/u/36906814?s=72&u=bd9f248d21b4aab4d2e9646be29e236c52e6a5b7&v=4" width="24" alt="Avatar of pearlxcore"> pearlxcore
+			<a href="https://github.com/maail">
+				<img src="https://avatars.githubusercontent.com/u/955823?s=72&u=ded4fdb5f05c1fe1a6cd24518a21163f0617cd22&v=4" width="24" alt="Avatar of maail"> maail
 			</a><br/>
-			Izat Emir
+			Mohamed Maail
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/pearlxcore">pearlxcore</a></td>
-		<td>Kuala Lumpur</td>
+		<td>Mindvalley </td>
+		<td><a href="https://twitter.com/maail">maail</a></td>
+		<td>Malaysia</td>
 		<td>6</td>
 	</tr>
 	<tr>
 		<td>614</td>
 		<td>
-			<a href="https://github.com/farisology">
-				<img src="https://avatars.githubusercontent.com/u/11160466?s=72&u=2fe6a6eec7ec9a87e10d90eeeb8d7df6d6fd9399&v=4" width="24" alt="Avatar of farisology"> farisology
+			<a href="https://github.com/efemkay">
+				<img src="https://avatars.githubusercontent.com/u/42369515?s=72&u=674333c7c3ed99457fd6420513e0e484df8d36b9&v=4" width="24" alt="Avatar of efemkay"> efemkay
 			</a><br/>
-			Fares Hasan
+			Faiz Khuzaimah
 		</td>
-		<td>Dürrdentalse </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>6</td>
 	</tr>
 	<tr>
 		<td>615</td>
-		<td>
-			<a href="https://github.com/henzljw">
-				<img src="https://avatars.githubusercontent.com/u/65068770?s=72&u=a5157bfc25ac73ad45ccffa16677959494024e02&v=4" width="24" alt="Avatar of henzljw"> henzljw
-			</a><br/>
-			henz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Johor Darul Takzim, Malaysia</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>616</td>
-		<td>
-			<a href="https://github.com/veeableful">
-				<img src="https://avatars.githubusercontent.com/u/2060653?s=72&u=7e8f89b6ebcbe8ccb291c6301e632ebbca58f781&v=4" width="24" alt="Avatar of veeableful"> veeableful
-			</a><br/>
-			No Name
-		</td>
-		<td>Ve And Co. </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>617</td>
 		<td>
 			<a href="https://github.com/alternat0r">
 				<img src="https://avatars.githubusercontent.com/u/1006000?s=72&u=d944a3e4b49b73734926a863c40d88e995af47d8&v=4" width="24" alt="Avatar of alternat0r"> alternat0r
@@ -8126,20 +8100,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>618</td>
+		<td>616</td>
 		<td>
-			<a href="https://github.com/apikmeister">
-				<img src="https://avatars.githubusercontent.com/u/92358212?s=72&u=7a26d08424b4bafa732cff6efc2f55ce0d495ad6&v=4" width="24" alt="Avatar of apikmeister"> apikmeister
+			<a href="https://github.com/hanjeahwan">
+				<img src="https://avatars.githubusercontent.com/u/21311478?s=72&u=0d79c7aca29f090f406a890ef049ad406ffdd433&v=4" width="24" alt="Avatar of hanjeahwan"> hanjeahwan
 			</a><br/>
-			Muhammad Afiq
+			codeartz
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/apkmstr">apkmstr</a></td>
-		<td>Malaysia</td>
+		<td>@pulsifi </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>619</td>
+		<td>617</td>
 		<td>
 			<a href="https://github.com/yusriy">
 				<img src="https://avatars.githubusercontent.com/u/8579268?s=72&u=e2e152efd0694d9a4ac59dec6f7d411cd6c9abea&v=4" width="24" alt="Avatar of yusriy"> yusriy
@@ -8152,33 +8126,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>620</td>
+		<td>618</td>
 		<td>
-			<a href="https://github.com/Vip3rLi0n">
-				<img src="https://avatars.githubusercontent.com/u/21289340?s=72&u=104b4caad3011ffa2a7a2334c1a01d72d5f75c7a&v=4" width="24" alt="Avatar of Vip3rLi0n"> Vip3rLi0n
+			<a href="https://github.com/fsylum">
+				<img src="https://avatars.githubusercontent.com/u/3433880?s=72&u=43ebff512d163a48f7edb07477476086fd0f1402&v=4" width="24" alt="Avatar of fsylum"> fsylum
 			</a><br/>
-			Vip3r_Li0n
+			Firdaus Zahari
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
+		<td>@humanmade </td>
+		<td><a href="https://twitter.com/fsylum">fsylum</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>621</td>
+		<td>619</td>
 		<td>
-			<a href="https://github.com/Saad-Bashar">
-				<img src="https://avatars.githubusercontent.com/u/13269141?s=72&u=a53b94f5b81934acecc950b52b540ec0df60ba7d&v=4" width="24" alt="Avatar of Saad-Bashar"> Saad-Bashar
+			<a href="https://github.com/farisology">
+				<img src="https://avatars.githubusercontent.com/u/11160466?s=72&u=2fe6a6eec7ec9a87e10d90eeeb8d7df6d6fd9399&v=4" width="24" alt="Avatar of farisology"> farisology
 			</a><br/>
-			Saad
+			Fares Hasan
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/saad_khan27">saad_khan27</a></td>
+		<td>Dürrdentalse </td>
+		<td>No Twitter Username</td>
 		<td>Malaysia</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>620</td>
 		<td>
 			<a href="https://github.com/zaimanza">
 				<img src="https://avatars.githubusercontent.com/u/36519974?s=72&u=9d6419827708c7dfcf0dfd71e875d01f5be3a6ec&v=4" width="24" alt="Avatar of zaimanza"> zaimanza
@@ -8191,7 +8165,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>621</td>
 		<td>
 			<a href="https://github.com/irekasoft">
 				<img src="https://avatars.githubusercontent.com/u/1006957?s=72&v=4" width="24" alt="Avatar of irekasoft"> irekasoft
@@ -8204,46 +8178,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>622</td>
 		<td>
-			<a href="https://github.com/luqmanrom">
-				<img src="https://avatars.githubusercontent.com/u/6434819?s=72&u=e6737f196d68e12720b1087a080d524c5657c298&v=4" width="24" alt="Avatar of luqmanrom"> luqmanrom
+			<a href="https://github.com/web-dev404">
+				<img src="https://avatars.githubusercontent.com/u/62200534?s=72&u=f8dc85526128080a611dae1f377707ddba0c79c5&v=4" width="24" alt="Avatar of web-dev404"> web-dev404
 			</a><br/>
-			Luqman Rom
+			Imron Mirzarasulov
 		</td>
-		<td>No Company</td>
+		<td>@deos-network  </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>625</td>
-		<td>
-			<a href="https://github.com/kiyui">
-				<img src="https://avatars.githubusercontent.com/u/5292862?s=72&u=53512a35d08bbc0fbbddb3c88d6c989fd8271ab4&v=4" width="24" alt="Avatar of kiyui"> kiyui
-			</a><br/>
-			Dafne Kiyui
-		</td>
-		<td>@abillionveg </td>
-		<td>No Twitter Username</td>
-		<td>Sarawak, Malaysia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>626</td>
-		<td>
-			<a href="https://github.com/danielng620">
-				<img src="https://avatars.githubusercontent.com/u/111548116?s=72&u=cee6d2c1a6e2f5543edea7afb3fc6a6f08bc4ab8&v=4" width="24" alt="Avatar of danielng620"> danielng620
-			</a><br/>
-			Ng Bin Chong 
-		</td>
-		<td>@danielng620 </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur </td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>627</td>
+		<td>623</td>
 		<td>
 			<a href="https://github.com/HowToDoThis">
 				<img src="https://avatars.githubusercontent.com/u/15705176?s=72&v=4" width="24" alt="Avatar of HowToDoThis"> HowToDoThis
@@ -8252,6 +8200,58 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>624</td>
+		<td>
+			<a href="https://github.com/MostafaKMilly">
+				<img src="https://avatars.githubusercontent.com/u/57003058?s=72&u=2d218ea842a3450275bb25ad535401901fb12eed&v=4" width="24" alt="Avatar of MostafaKMilly"> MostafaKMilly
+			</a><br/>
+			Mustafa Melli
+		</td>
+		<td>@seekasia </td>
+		<td>No Twitter Username</td>
+		<td>KL, Malaysia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>625</td>
+		<td>
+			<a href="https://github.com/zaimabdullah">
+				<img src="https://avatars.githubusercontent.com/u/36534973?s=72&u=757cec7f2e480df7c4311c1c9602e59e3c3c53d8&v=4" width="24" alt="Avatar of zaimabdullah"> zaimabdullah
+			</a><br/>
+			Ahmad Husni Zaim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Peringat, Kelantan, Malaysia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>626</td>
+		<td>
+			<a href="https://github.com/apikmeister">
+				<img src="https://avatars.githubusercontent.com/u/92358212?s=72&u=7a26d08424b4bafa732cff6efc2f55ce0d495ad6&v=4" width="24" alt="Avatar of apikmeister"> apikmeister
+			</a><br/>
+			Muhammad Afiq
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/apkmstr">apkmstr</a></td>
+		<td>Malaysia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>627</td>
+		<td>
+			<a href="https://github.com/hassanfuad96">
+				<img src="https://avatars.githubusercontent.com/u/78142117?s=72&u=44684c6eec9eae9c0df4064309dc2a277592b413&v=4" width="24" alt="Avatar of hassanfuad96"> hassanfuad96
+			</a><br/>
+			Hassan Fuad
+		</td>
+		<td>@udex-media  </td>
+		<td><a href="https://twitter.com/mhassanfuad">mhassanfuad</a></td>
 		<td>Malaysia</td>
 		<td>5</td>
 	</tr>
@@ -8271,44 +8271,31 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 	<tr>
 		<td>629</td>
 		<td>
-			<a href="https://github.com/marcuswkl">
-				<img src="https://avatars.githubusercontent.com/u/56200199?s=72&u=1a48d0b233385ed4c85af086b077dbe52a6bf33f&v=4" width="24" alt="Avatar of marcuswkl"> marcuswkl
+			<a href="https://github.com/aminnizamdev">
+				<img src="https://avatars.githubusercontent.com/u/206028972?s=72&u=06c4c47d52dfe244112774b6380a50da68e9ebc5&v=4" width="24" alt="Avatar of aminnizamdev"> aminnizamdev
 			</a><br/>
-			Marcus Wong Ke Lun
+			Amin Nizam
 		</td>
-		<td>Carsome </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/aminnizamdev">aminnizamdev</a></td>
+		<td>Wilayah Persekutuan, Malaysia</td>
 		<td>5</td>
 	</tr>
 	<tr>
 		<td>630</td>
 		<td>
-			<a href="https://github.com/julkifli">
-				<img src="https://avatars.githubusercontent.com/u/17141538?s=72&u=fae98af82200409f3c7555d81751a80bbd4e4485&v=4" width="24" alt="Avatar of julkifli"> julkifli
+			<a href="https://github.com/PandieYay">
+				<img src="https://avatars.githubusercontent.com/u/42307449?s=72&v=4" width="24" alt="Avatar of PandieYay"> PandieYay
 			</a><br/>
-			Julkifli {aka} syclops
+			Edison Lim
 		</td>
-		<td>Microbot.my </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kota Kinabalu , Sabah , Malaysia</td>
+		<td>Malaysia</td>
 		<td>5</td>
 	</tr>
 	<tr>
 		<td>631</td>
-		<td>
-			<a href="https://github.com/PoisonDarterz">
-				<img src="https://avatars.githubusercontent.com/u/99233005?s=72&u=625d535be7248ec26fa54f8fe95df37fbed2c371&v=4" width="24" alt="Avatar of PoisonDarterz"> PoisonDarterz
-			</a><br/>
-			Jonas Chuan
-		</td>
-		<td>Universiti Malaya </td>
-		<td>No Twitter Username</td>
-		<td>Penang, Malaysia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>632</td>
 		<td>
 			<a href="https://github.com/f-a-a">
 				<img src="https://avatars.githubusercontent.com/u/19421765?s=72&u=e5d42b5d6d4e76cf01f5c9fdfe47cda9e6ac9a70&v=4" width="24" alt="Avatar of f-a-a"> f-a-a
@@ -8321,38 +8308,51 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>5</td>
 	</tr>
 	<tr>
+		<td>632</td>
+		<td>
+			<a href="https://github.com/ibrahimyaacob92">
+				<img src="https://avatars.githubusercontent.com/u/58116068?s=72&u=31ac1e7d90b59cb4b29a2fe818ea95084258640e&v=4" width="24" alt="Avatar of ibrahimyaacob92"> ibrahimyaacob92
+			</a><br/>
+			Ibrahim Yaacob
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>5</td>
+	</tr>
+	<tr>
 		<td>633</td>
 		<td>
-			<a href="https://github.com/Jamirais94">
-				<img src="https://avatars.githubusercontent.com/u/126028247?s=72&u=05f64073cb3161a0e5a7afdc6b1270d21391b28d&v=4" width="24" alt="Avatar of Jamirais94"> Jamirais94
+			<a href="https://github.com/ibnumalik">
+				<img src="https://avatars.githubusercontent.com/u/1806269?s=72&v=4" width="24" alt="Avatar of ibnumalik"> ibnumalik
 			</a><br/>
-			Jamirais Bin Ismail
+			Shaiful Aiman Malik
 		</td>
-		<td>Jamirais </td>
+		<td>Ibnumalik.my </td>
 		<td>No Twitter Username</td>
-		<td>4360 permatang manggis,13200 kepala batas, pulau Pinang,,malaysia</td>
+		<td>Malaysia</td>
 		<td>5</td>
 	</tr>
 	<tr>
 		<td>634</td>
 		<td>
-			<a href="https://github.com/mostafizur1997">
-				<img src="https://avatars.githubusercontent.com/u/52290406?s=72&u=ce7baf9e784543f0d9280cf55c5773a6c5b355d9&v=4" width="24" alt="Avatar of mostafizur1997"> mostafizur1997
+			<a href="https://github.com/Saad-Bashar">
+				<img src="https://avatars.githubusercontent.com/u/13269141?s=72&u=a53b94f5b81934acecc950b52b540ec0df60ba7d&v=4" width="24" alt="Avatar of Saad-Bashar"> Saad-Bashar
 			</a><br/>
-			MD Mostafizur Rahman Masud
+			Saad
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>xb1, kdoj ,skudai, johor bahru, Malaysia</td>
+		<td><a href="https://twitter.com/saad_khan27">saad_khan27</a></td>
+		<td>Malaysia</td>
 		<td>4</td>
 	</tr>
 	<tr>
 		<td>635</td>
 		<td>
-			<a href="https://github.com/faizmokh">
-				<img src="https://avatars.githubusercontent.com/u/1093100?s=72&u=3a962edae9eb6e1286134e52dab3845138bc05ac&v=4" width="24" alt="Avatar of faizmokh"> faizmokh
+			<a href="https://github.com/T-baby">
+				<img src="https://avatars.githubusercontent.com/u/7859785?s=72&u=f852b7461a0cf40e140d252dc42661799bdf9de8&v=4" width="24" alt="Avatar of T-baby"> T-baby
 			</a><br/>
-			Faiz Mokhtar
+			Andy
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -8375,58 +8375,6 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 	<tr>
 		<td>637</td>
 		<td>
-			<a href="https://github.com/junjie1475">
-				<img src="https://avatars.githubusercontent.com/u/86281724?s=72&u=04f12ae96bc7300ae7345322d65009f08776ed92&v=4" width="24" alt="Avatar of junjie1475"> junjie1475
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Johor Bahru, Malaysia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>638</td>
-		<td>
-			<a href="https://github.com/nawawi">
-				<img src="https://avatars.githubusercontent.com/u/1203635?s=72&v=4" width="24" alt="Avatar of nawawi"> nawawi
-			</a><br/>
-			Nawawi Jamili
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Putrajaya, Malaysia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>639</td>
-		<td>
-			<a href="https://github.com/jumail-utm">
-				<img src="https://avatars.githubusercontent.com/u/47444793?s=72&u=6749241b3af1b66111ae94c9300788db258513bb&v=4" width="24" alt="Avatar of jumail-utm"> jumail-utm
-			</a><br/>
-			Jumail
-		</td>
-		<td>Universiti Teknologi Malaysia </td>
-		<td>No Twitter Username</td>
-		<td>Johor, Malaysia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>640</td>
-		<td>
-			<a href="https://github.com/muaz234">
-				<img src="https://avatars.githubusercontent.com/u/36180180?s=72&u=27e0ff324050e9a5b49106dc45d6805cd76a8b24&v=4" width="24" alt="Avatar of muaz234"> muaz234
-			</a><br/>
-			Muaz Ahmed(Muaz)
-		</td>
-		<td>Mimos Berhad </td>
-		<td><a href="https://twitter.com/MuazAhmed_10">MuazAhmed_10</a></td>
-		<td>Kuala Lumpur, MY</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>641</td>
-		<td>
 			<a href="https://github.com/andyngo">
 				<img src="https://avatars.githubusercontent.com/u/278293?s=72&u=90d56f8be772902bb902376bdd221226c9c54b1c&v=4" width="24" alt="Avatar of andyngo"> andyngo
 			</a><br/>
@@ -8438,7 +8386,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>642</td>
+		<td>638</td>
 		<td>
 			<a href="https://github.com/az-iar">
 				<img src="https://avatars.githubusercontent.com/u/1249596?s=72&u=cc3ae0c75cf69d608240c3d6c79208ebb1b0c18f&v=4" width="24" alt="Avatar of az-iar"> az-iar
@@ -8451,20 +8399,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>643</td>
-		<td>
-			<a href="https://github.com/atharh">
-				<img src="https://avatars.githubusercontent.com/u/513?s=72&v=4" width="24" alt="Avatar of atharh"> atharh
-			</a><br/>
-			Athar Hameed
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>644</td>
+		<td>639</td>
 		<td>
 			<a href="https://github.com/aprijunaidi">
 				<img src="https://avatars.githubusercontent.com/u/7279471?s=72&u=b2dfbcd7d6732762dcbaf31b782eba2cec9896df&v=4" width="24" alt="Avatar of aprijunaidi"> aprijunaidi
@@ -8477,7 +8412,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>640</td>
+		<td>
+			<a href="https://github.com/atharh">
+				<img src="https://avatars.githubusercontent.com/u/513?s=72&v=4" width="24" alt="Avatar of atharh"> atharh
+			</a><br/>
+			Athar Hameed
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>641</td>
 		<td>
 			<a href="https://github.com/tao-s">
 				<img src="https://avatars.githubusercontent.com/u/485749?s=72&u=dff216a1e25ce97aa0f22959d77d6b5a21367348&v=4" width="24" alt="Avatar of tao-s"> tao-s
@@ -8490,7 +8438,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>646</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/navenprasad">
 				<img src="https://avatars.githubusercontent.com/u/8400462?s=72&u=dc37c078fbf905736c5a532da9ff42dbbf8ca767&v=4" width="24" alt="Avatar of navenprasad"> navenprasad
@@ -8503,7 +8451,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>643</td>
+		<td>
+			<a href="https://github.com/leewp14">
+				<img src="https://avatars.githubusercontent.com/u/17796518?s=72&u=5b27ef623dabbe545e7a33780e7b8914b422c509&v=4" width="24" alt="Avatar of leewp14"> leewp14
+			</a><br/>
+			lee.wp14
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Penang, Malaysia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>644</td>
+		<td>
+			<a href="https://github.com/ibrahim-kardi">
+				<img src="https://avatars.githubusercontent.com/u/25303964?s=72&u=ad8ec732e4fe1daf4b5d06a7eb9621392df38f81&v=4" width="24" alt="Avatar of ibrahim-kardi"> ibrahim-kardi
+			</a><br/>
+			Mohammad Ibrahim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Johor bahru, Malaysia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>645</td>
 		<td>
 			<a href="https://github.com/manoj153">
 				<img src="https://avatars.githubusercontent.com/u/17961318?s=72&v=4" width="24" alt="Avatar of manoj153"> manoj153
@@ -8516,111 +8490,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>648</td>
-		<td>
-			<a href="https://github.com/karinfam">
-				<img src="https://avatars.githubusercontent.com/u/14949157?s=72&u=a46afde7f6ce78d58a0fc3ac39f1ea244e227d57&v=4" width="24" alt="Avatar of karinfam"> karinfam
-			</a><br/>
-			Karin Fam
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>649</td>
-		<td>
-			<a href="https://github.com/azzuwan">
-				<img src="https://avatars.githubusercontent.com/u/816052?s=72&u=eb750b60c37442725e5966417a0332d20fddaafa&v=4" width="24" alt="Avatar of azzuwan"> azzuwan
-			</a><br/>
-			Azzuwan Aziz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>650</td>
-		<td>
-			<a href="https://github.com/aminnizamdev">
-				<img src="https://avatars.githubusercontent.com/u/206028972?s=72&u=06c4c47d52dfe244112774b6380a50da68e9ebc5&v=4" width="24" alt="Avatar of aminnizamdev"> aminnizamdev
-			</a><br/>
-			Amin Nizam
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/aminnizamdev">aminnizamdev</a></td>
-		<td>Wilayah Persekutuan, Malaysia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>651</td>
-		<td>
-			<a href="https://github.com/ganhj99">
-				<img src="https://avatars.githubusercontent.com/u/49816974?s=72&u=0761bcfd0dd6f840019c20284530b85c699c300e&v=4" width="24" alt="Avatar of ganhj99"> ganhj99
-			</a><br/>
-			Gan Hong Jian
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>652</td>
-		<td>
-			<a href="https://github.com/alvindrakes">
-				<img src="https://avatars.githubusercontent.com/u/13532268?s=72&u=c859f5720670f2950631928e89800521ea05d613&v=4" width="24" alt="Avatar of alvindrakes"> alvindrakes
-			</a><br/>
-			Loh Jin Xian
-		</td>
-		<td>@zenno-studio  </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>653</td>
-		<td>
-			<a href="https://github.com/li9ht">
-				<img src="https://avatars.githubusercontent.com/u/127061?s=72&v=4" width="24" alt="Avatar of li9ht"> li9ht
-			</a><br/>
-			li9ht
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur , Malaysia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>654</td>
-		<td>
-			<a href="https://github.com/r0lodex">
-				<img src="https://avatars.githubusercontent.com/u/6908558?s=72&u=6d8627df60be12d646ff54be87f42d389d9e34f2&v=4" width="24" alt="Avatar of r0lodex"> r0lodex
-			</a><br/>
-			Irfan Radzi
-		</td>
-		<td>Kestrl Ltd </td>
-		<td><a href="https://twitter.com/r0lodex">r0lodex</a></td>
-		<td>Johor Bahru, Malaysia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>655</td>
-		<td>
-			<a href="https://github.com/aashiks">
-				<img src="https://avatars.githubusercontent.com/u/202316?s=72&u=e8177bd3699c98fb51d8b9c94bc09c15094d2eec&v=4" width="24" alt="Avatar of aashiks"> aashiks
-			</a><br/>
-			Ashik Salahudeen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>656</td>
+		<td>646</td>
 		<td>
 			<a href="https://github.com/Sattishh">
 				<img src="https://avatars.githubusercontent.com/u/51452387?s=72&u=23ca9b3c55b5eb335ff630f5f7d4701cc0a7ec04&v=4" width="24" alt="Avatar of Sattishh"> Sattishh
@@ -8633,20 +8503,59 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>647</td>
 		<td>
-			<a href="https://github.com/izuddinhelmi">
-				<img src="https://avatars.githubusercontent.com/u/3667952?s=72&u=ba83f25de69891fa0955361c4abf76b5db162321&v=4" width="24" alt="Avatar of izuddinhelmi"> izuddinhelmi
+			<a href="https://github.com/r0lodex">
+				<img src="https://avatars.githubusercontent.com/u/6908558?s=72&u=6d8627df60be12d646ff54be87f42d389d9e34f2&v=4" width="24" alt="Avatar of r0lodex"> r0lodex
 			</a><br/>
-			Izuddin Helmi
+			Irfan Radzi
 		</td>
-		<td>@katsana  </td>
+		<td>Kestrl Ltd </td>
+		<td><a href="https://twitter.com/r0lodex">r0lodex</a></td>
+		<td>Johor Bahru, Malaysia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>648</td>
+		<td>
+			<a href="https://github.com/li9ht">
+				<img src="https://avatars.githubusercontent.com/u/127061?s=72&v=4" width="24" alt="Avatar of li9ht"> li9ht
+			</a><br/>
+			li9ht
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur , Malaysia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>649</td>
+		<td>
+			<a href="https://github.com/aashiks">
+				<img src="https://avatars.githubusercontent.com/u/202316?s=72&u=e8177bd3699c98fb51d8b9c94bc09c15094d2eec&v=4" width="24" alt="Avatar of aashiks"> aashiks
+			</a><br/>
+			Ashik Salahudeen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>650</td>
+		<td>
+			<a href="https://github.com/azzuwan">
+				<img src="https://avatars.githubusercontent.com/u/816052?s=72&u=eb750b60c37442725e5966417a0332d20fddaafa&v=4" width="24" alt="Avatar of azzuwan"> azzuwan
+			</a><br/>
+			Azzuwan Aziz
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>651</td>
 		<td>
 			<a href="https://github.com/nwjun">
 				<img src="https://avatars.githubusercontent.com/u/63900029?s=72&u=b535c2715b46517ca1801ac1e5a715607aa37f59&v=4" width="24" alt="Avatar of nwjun"> nwjun
@@ -8659,7 +8568,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>652</td>
+		<td>
+			<a href="https://github.com/izuddinhelmi">
+				<img src="https://avatars.githubusercontent.com/u/3667952?s=72&u=ba83f25de69891fa0955361c4abf76b5db162321&v=4" width="24" alt="Avatar of izuddinhelmi"> izuddinhelmi
+			</a><br/>
+			Izuddin Helmi
+		</td>
+		<td>@katsana  </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>653</td>
 		<td>
 			<a href="https://github.com/syamilmj">
 				<img src="https://avatars.githubusercontent.com/u/845515?s=72&u=dd08a89757fe220a788dcee1fe1fa2df148753ab&v=4" width="24" alt="Avatar of syamilmj"> syamilmj
@@ -8672,7 +8594,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>654</td>
+		<td>
+			<a href="https://github.com/faizmokh">
+				<img src="https://avatars.githubusercontent.com/u/1093100?s=72&u=3a962edae9eb6e1286134e52dab3845138bc05ac&v=4" width="24" alt="Avatar of faizmokh"> faizmokh
+			</a><br/>
+			Faiz Mokhtar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>655</td>
 		<td>
 			<a href="https://github.com/shahrilhamzan">
 				<img src="https://avatars.githubusercontent.com/u/75612633?s=72&u=ec41fc1039f9ad34f0c2ae878ff05aa081798055&v=4" width="24" alt="Avatar of shahrilhamzan"> shahrilhamzan
@@ -8685,46 +8620,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>656</td>
 		<td>
-			<a href="https://github.com/T-baby">
-				<img src="https://avatars.githubusercontent.com/u/7859785?s=72&u=f852b7461a0cf40e140d252dc42661799bdf9de8&v=4" width="24" alt="Avatar of T-baby"> T-baby
+			<a href="https://github.com/Mamanggans">
+				<img src="https://avatars.githubusercontent.com/u/59646191?s=72&u=9c171b9348544be6e6042d8b100a6d15376a8bca&v=4" width="24" alt="Avatar of Mamanggans"> Mamanggans
 			</a><br/>
-			Andy
+			Ferdiansyah
 		</td>
-		<td>No Company</td>
+		<td>Ftui And Aeu </td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
+		<td>Depok and Kuala Lumpur</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>662</td>
-		<td>
-			<a href="https://github.com/akmalhazim">
-				<img src="https://avatars.githubusercontent.com/u/34267739?s=72&u=e148039c47448f6779bffa3b0d6f76140ef6169f&v=4" width="24" alt="Avatar of akmalhazim"> akmalhazim
-			</a><br/>
-			Akmal Hazim
-		</td>
-		<td>Wahed Inc </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>663</td>
-		<td>
-			<a href="https://github.com/ddrdushy">
-				<img src="https://avatars.githubusercontent.com/u/17252833?s=72&u=dd439c7978c8ccba89b3d90c50e041ead4de54bf&v=4" width="24" alt="Avatar of ddrdushy"> ddrdushy
-			</a><br/>
-			ddr dushy
-		</td>
-		<td>@sympriodev </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>664</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/nazmiasri95">
 				<img src="https://avatars.githubusercontent.com/u/5549467?s=72&u=5f662b7d0b368da28c6da1fd10f08fd1929b7926&v=4" width="24" alt="Avatar of nazmiasri95"> nazmiasri95
@@ -8737,20 +8646,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>658</td>
 		<td>
-			<a href="https://github.com/WaheedNazir">
-				<img src="https://avatars.githubusercontent.com/u/39362210?s=72&u=0b034abbbb7ebe46d1d32d6d908c9c15552204fa&v=4" width="24" alt="Avatar of WaheedNazir"> WaheedNazir
+			<a href="https://github.com/nawawi">
+				<img src="https://avatars.githubusercontent.com/u/1203635?s=72&v=4" width="24" alt="Avatar of nawawi"> nawawi
 			</a><br/>
-			Waheed Nazir
+			Nawawi Jamili
 		</td>
-		<td>Sicpa Product & Security<br/></td>
-		<td><a href="https://twitter.com/waheed10001">waheed10001</a></td>
-		<td>Malaysia</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Putrajaya, Malaysia</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>659</td>
+		<td>
+			<a href="https://github.com/junjie1475">
+				<img src="https://avatars.githubusercontent.com/u/86281724?s=72&u=04f12ae96bc7300ae7345322d65009f08776ed92&v=4" width="24" alt="Avatar of junjie1475"> junjie1475
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Johor Bahru, Malaysia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/asyrique">
 				<img src="https://avatars.githubusercontent.com/u/5598413?s=72&u=a8d245067367b4af44d0abc10ebdca6391068c8c&v=4" width="24" alt="Avatar of asyrique"> asyrique
@@ -8763,20 +8685,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>661</td>
 		<td>
-			<a href="https://github.com/akifrabbani">
-				<img src="https://avatars.githubusercontent.com/u/1407235?s=72&u=ea58c2575ec95168650bce463ccaa2e0f2039c43&v=4" width="24" alt="Avatar of akifrabbani"> akifrabbani
+			<a href="https://github.com/muaz234">
+				<img src="https://avatars.githubusercontent.com/u/36180180?s=72&u=27e0ff324050e9a5b49106dc45d6805cd76a8b24&v=4" width="24" alt="Avatar of muaz234"> muaz234
 			</a><br/>
-			Akif Rabbani
+			Muaz Ahmed(Muaz)
 		</td>
-		<td>Bayam </td>
-		<td><a href="https://twitter.com/akifrabbani">akifrabbani</a></td>
-		<td>Malaysia</td>
+		<td>Mimos Berhad </td>
+		<td><a href="https://twitter.com/MuazAhmed_10">MuazAhmed_10</a></td>
+		<td>Kuala Lumpur, MY</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/nurfaizfoat">
 				<img src="https://avatars.githubusercontent.com/u/9588157?s=72&u=e11cd48f273f8a4832c5e9cd5faf35015935cc2d&v=4" width="24" alt="Avatar of nurfaizfoat"> nurfaizfoat
@@ -8789,20 +8711,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>669</td>
-		<td>
-			<a href="https://github.com/AbedElazizShe">
-				<img src="https://avatars.githubusercontent.com/u/20614470?s=72&u=46d95ba4120e7c3ff68ea04b3fc5f25fa987a602&v=4" width="24" alt="Avatar of AbedElazizShe"> AbedElazizShe
-			</a><br/>
-			Abed Elaziz Shehadeh
-		</td>
-		<td>Sicpa </td>
-		<td>No Twitter Username</td>
-		<td>Cyberjaya, Malaysia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>670</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/xwlee">
 				<img src="https://avatars.githubusercontent.com/u/688247?s=72&v=4" width="24" alt="Avatar of xwlee"> xwlee
@@ -8815,7 +8724,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/jakzaizzat">
 				<img src="https://avatars.githubusercontent.com/u/4480258?s=72&u=a3d657fc615541f00f5943aa193e7f22fa3846d6&v=4" width="24" alt="Avatar of jakzaizzat"> jakzaizzat
@@ -8828,7 +8737,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/i906">
 				<img src="https://avatars.githubusercontent.com/u/866735?s=72&v=4" width="24" alt="Avatar of i906"> i906
@@ -8841,46 +8750,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>666</td>
 		<td>
-			<a href="https://github.com/efemkay">
-				<img src="https://avatars.githubusercontent.com/u/42369515?s=72&u=674333c7c3ed99457fd6420513e0e484df8d36b9&v=4" width="24" alt="Avatar of efemkay"> efemkay
+			<a href="https://github.com/mimizzx">
+				<img src="https://avatars.githubusercontent.com/u/224764551?s=72&u=1a5335bcdf42aa386fef736838dc530a0be49085&v=4" width="24" alt="Avatar of mimizzx"> mimizzx
 			</a><br/>
-			Faiz Khuzaimah
+			mia𓆩♡𓆪
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>674</td>
-		<td>
-			<a href="https://github.com/KohGeek">
-				<img src="https://avatars.githubusercontent.com/u/6839340?s=72&u=5a355ceb07fe5c67a79bdf0814c74faf818f665b&v=4" width="24" alt="Avatar of KohGeek"> KohGeek
-			</a><br/>
-			Koh Jun Dong
-		</td>
-		<td>@westerndigitalcorpo </td>
-		<td><a href="https://twitter.com/KohGeek">KohGeek</a></td>
+		<td><a href="https://twitter.com/miathedinosaure">miathedinosaure</a></td>
 		<td>Malaysia</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>675</td>
-		<td>
-			<a href="https://github.com/ridhwandaud">
-				<img src="https://avatars.githubusercontent.com/u/9943357?s=72&u=510b15e38bc949d28ca010b22764e89bd2294f38&v=4" width="24" alt="Avatar of ridhwandaud"> ridhwandaud
-			</a><br/>
-			Ridhwan
-		</td>
-		<td>Jewel-dv </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>676</td>
+		<td>667</td>
 		<td>
 			<a href="https://github.com/ibrahemid">
 				<img src="https://avatars.githubusercontent.com/u/25980614?s=72&u=b5bfe8c73c58ea4f7f3e606e7ee8c861fe0d31a2&v=4" width="24" alt="Avatar of ibrahemid"> ibrahemid
@@ -8893,7 +8776,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>668</td>
+		<td>
+			<a href="https://github.com/ridhwandaud">
+				<img src="https://avatars.githubusercontent.com/u/9943357?s=72&u=510b15e38bc949d28ca010b22764e89bd2294f38&v=4" width="24" alt="Avatar of ridhwandaud"> ridhwandaud
+			</a><br/>
+			Ridhwan
+		</td>
+		<td>Jewel-dv </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>669</td>
 		<td>
 			<a href="https://github.com/kerolzeeq">
 				<img src="https://avatars.githubusercontent.com/u/76143604?s=72&u=c9dffce79076a5bdea67aafd4115a61ff793a061&v=4" width="24" alt="Avatar of kerolzeeq"> kerolzeeq
@@ -8906,12 +8802,12 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>670</td>
 		<td>
-			<a href="https://github.com/rahman541">
-				<img src="https://avatars.githubusercontent.com/u/8364908?s=72&v=4" width="24" alt="Avatar of rahman541"> rahman541
+			<a href="https://github.com/EdmundHee">
+				<img src="https://avatars.githubusercontent.com/u/8703704?s=72&u=9f42dbcde59a38681012ecabd4e23f62dc5ac1f9&v=4" width="24" alt="Avatar of EdmundHee"> EdmundHee
 			</a><br/>
-			Rahman
+			Edmund Hee
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -8919,46 +8815,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>671</td>
 		<td>
-			<a href="https://github.com/sfsf9797">
-				<img src="https://avatars.githubusercontent.com/u/25578820?s=72&u=d2c1662ae64103edf60ab489957b105a6f1947fe&v=4" width="24" alt="Avatar of sfsf9797"> sfsf9797
+			<a href="https://github.com/tengznaim">
+				<img src="https://avatars.githubusercontent.com/u/63803360?s=72&u=9caec74c938e819c4b899c51dd18857ebde9f60c&v=4" width="24" alt="Avatar of tengznaim"> tengznaim
 			</a><br/>
-			Sek Fook
+			Tengku Naim
 		</td>
-		<td>Xendit </td>
-		<td><a href="https://twitter.com/sekfook">sekfook</a></td>
-		<td>Malaysia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>680</td>
-		<td>
-			<a href="https://github.com/aa6my">
-				<img src="https://avatars.githubusercontent.com/u/7272163?s=72&u=1522b6210408cbd07e4784722815e725adcc0438&v=4" width="24" alt="Avatar of aa6my"> aa6my
-			</a><br/>
-			aa6mys
-		</td>
-		<td>@oppstar </td>
-		<td>No Twitter Username</td>
-		<td>Bukit Jalil, Kuala Lumpur</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>681</td>
-		<td>
-			<a href="https://github.com/hanjeahwan">
-				<img src="https://avatars.githubusercontent.com/u/21311478?s=72&u=d1c2411f2febacef66aec397a91be4bb9dc15b4c&v=4" width="24" alt="Avatar of hanjeahwan"> hanjeahwan
-			</a><br/>
-			codeartz
-		</td>
-		<td>@pulsifi </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>672</td>
+		<td>
+			<a href="https://github.com/luisbarrancos">
+				<img src="https://avatars.githubusercontent.com/u/387352?s=72&v=4" width="24" alt="Avatar of luisbarrancos"> luisbarrancos
+			</a><br/>
+			Luis Barrancos
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/LuisBarrancos">LuisBarrancos</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/gurzugon">
 				<img src="https://avatars.githubusercontent.com/u/60390413?s=72&u=a9422d49ab129d76388bff40f91c93592b76ca8c&v=4" width="24" alt="Avatar of gurzugon"> gurzugon
@@ -8971,7 +8854,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>674</td>
+		<td>
+			<a href="https://github.com/IdrisCytron">
+				<img src="https://avatars.githubusercontent.com/u/12030410?s=72&u=8d2a61691a9893114bb2d9dda34126bcc79d6ad4&v=4" width="24" alt="Avatar of IdrisCytron"> IdrisCytron
+			</a><br/>
+			Idris Zainal Abidin
+		</td>
+		<td>Cytron Technologies Sdn Bhd<br/></td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/ibnusulaiman83">
 				<img src="https://avatars.githubusercontent.com/u/656929?s=72&u=9aae4e6abbdf23a2e4700fccf87ee28e366070b0&v=4" width="24" alt="Avatar of ibnusulaiman83"> ibnusulaiman83
@@ -8984,33 +8880,59 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>676</td>
 		<td>
-			<a href="https://github.com/mfaizmzaki">
-				<img src="https://avatars.githubusercontent.com/u/9010487?s=72&v=4" width="24" alt="Avatar of mfaizmzaki"> mfaizmzaki
+			<a href="https://github.com/aizzat">
+				<img src="https://avatars.githubusercontent.com/u/1865868?s=72&u=23c2a24e5070fa86d518e074658ef38f9fed75bb&v=4" width="24" alt="Avatar of aizzat"> aizzat
 			</a><br/>
-			Faiz Zaki
+			Muhammad Aizzat Zakaria
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
+		<td><a href="https://twitter.com/draizzat">draizzat</a></td>
+		<td>Malaysia</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>677</td>
 		<td>
-			<a href="https://github.com/malikperang">
-				<img src="https://avatars.githubusercontent.com/u/3023034?s=72&u=007b670f3b1b710fc59a933ab3014bc3a43454de&v=4" width="24" alt="Avatar of malikperang"> malikperang
+			<a href="https://github.com/Winds126">
+				<img src="https://avatars.githubusercontent.com/u/152965737?s=72&u=62c697324ccf8d55232e069bb1ad9a59ea653f17&v=4" width="24" alt="Avatar of Winds126"> Winds126
 			</a><br/>
-			r3d7
+			Foong Yew Fai
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur,Malaysia</td>
+		<td>Malaysia </td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>678</td>
+		<td>
+			<a href="https://github.com/archie-lab">
+				<img src="https://avatars.githubusercontent.com/u/8452257?s=72&u=79161af2c56fdd953046e4bb0832638ea6098782&v=4" width="24" alt="Avatar of archie-lab"> archie-lab
+			</a><br/>
+			Artyom Serebryakov
+		</td>
+		<td>Nindatech Sdn. Bhd. </td>
+		<td>No Twitter Username</td>
+		<td>Penang, Malaysia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>679</td>
+		<td>
+			<a href="https://github.com/chingh1123">
+				<img src="https://avatars.githubusercontent.com/u/86087456?s=72&u=1fdf1bdfbc393420ea1104fdd4e1d23945e07387&v=4" width="24" alt="Avatar of chingh1123"> chingh1123
+			</a><br/>
+			TheNoobGH
+		</td>
+		<td>@cgh-team </td>
+		<td><a href="https://twitter.com/gh_chin">gh_chin</a></td>
+		<td>Malaysia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/dosm-malaysia">
 				<img src="https://avatars.githubusercontent.com/u/105629152?s=72&u=f8cb76981a6a7b2ea6696111a92cf6dd4797b1f7&v=4" width="24" alt="Avatar of dosm-malaysia"> dosm-malaysia
@@ -9023,7 +8945,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/od3n">
 				<img src="https://avatars.githubusercontent.com/u/156899?s=72&v=4" width="24" alt="Avatar of od3n"> od3n
@@ -9036,7 +8958,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>682</td>
+		<td>
+			<a href="https://github.com/AliCharper">
+				<img src="https://avatars.githubusercontent.com/u/12136692?s=72&u=c76fb83078607e04c21f5c9fa744e4b3caf0d8b2&v=4" width="24" alt="Avatar of AliCharper"> AliCharper
+			</a><br/>
+			AliKolahdoozan
+		</td>
+		<td>Iteasy.ir </td>
+		<td>No Twitter Username</td>
+		<td>KUL/Malaysia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/renettarenula">
 				<img src="https://avatars.githubusercontent.com/u/724458?s=72&u=40506f891e76a8b7079c4b4c7204d389ab297247&v=4" width="24" alt="Avatar of renettarenula"> renettarenula
@@ -9049,7 +8984,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>689</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/teobeeguan">
 				<img src="https://avatars.githubusercontent.com/u/63414996?s=72&u=3725339f65ea90348f84a3bd8f75c45543df3909&v=4" width="24" alt="Avatar of teobeeguan"> teobeeguan
@@ -9062,7 +8997,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/bashketchum02">
 				<img src="https://avatars.githubusercontent.com/u/46514454?s=72&u=fb3c93de8a48cc5e67394b00bc33c3f0569e0026&v=4" width="24" alt="Avatar of bashketchum02"> bashketchum02
@@ -9075,20 +9010,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>686</td>
 		<td>
-			<a href="https://github.com/bbkx226">
-				<img src="https://avatars.githubusercontent.com/u/83408362?s=72&u=e35c30d6575b130df9ee074ecc4d14016fcfac61&v=4" width="24" alt="Avatar of bbkx226"> bbkx226
+			<a href="https://github.com/luqmanrom">
+				<img src="https://avatars.githubusercontent.com/u/6434819?s=72&u=e6737f196d68e12720b1087a080d524c5657c298&v=4" width="24" alt="Avatar of luqmanrom"> luqmanrom
 			</a><br/>
-			Brandon Ban Kai Xian
+			Luqman Rom
 		</td>
-		<td>Ant International </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
+		<td>Kuala Lumpur</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/kriskhaira">
 				<img src="https://avatars.githubusercontent.com/u/80577?s=72&u=8fb1f3e9c15431364712db3ed2b49bc6a231dfda&v=4" width="24" alt="Avatar of kriskhaira"> kriskhaira
@@ -9101,12 +9036,12 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>688</td>
 		<td>
-			<a href="https://github.com/HakamRaza">
-				<img src="https://avatars.githubusercontent.com/u/65484304?s=72&u=1305ad38e66178327ed7cb3b2262ee5527753df6&v=4" width="24" alt="Avatar of HakamRaza"> HakamRaza
+			<a href="https://github.com/hakimtakiyuddin">
+				<img src="https://avatars.githubusercontent.com/u/30569068?s=72&u=d8d5bb8b80b3c703464ee6d739058544e1f5a981&v=4" width="24" alt="Avatar of hakimtakiyuddin"> hakimtakiyuddin
 			</a><br/>
-			HakamRaza
+			Hakim Takiyuddin
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -9114,12 +9049,103 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
+		<td>689</td>
+		<td>
+			<a href="https://github.com/jumail-utm">
+				<img src="https://avatars.githubusercontent.com/u/47444793?s=72&u=6749241b3af1b66111ae94c9300788db258513bb&v=4" width="24" alt="Avatar of jumail-utm"> jumail-utm
+			</a><br/>
+			Jumail
+		</td>
+		<td>Universiti Teknologi Malaysia </td>
+		<td>No Twitter Username</td>
+		<td>Johor, Malaysia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>690</td>
+		<td>
+			<a href="https://github.com/imtiaz-emu">
+				<img src="https://avatars.githubusercontent.com/u/6468601?s=72&u=871ce0b8f572de5ce304caf3d69e77ea55377576&v=4" width="24" alt="Avatar of imtiaz-emu"> imtiaz-emu
+			</a><br/>
+			Imtiaz Hossain Emu
+		</td>
+		<td>Ørsted  </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>691</td>
+		<td>
+			<a href="https://github.com/danielng620">
+				<img src="https://avatars.githubusercontent.com/u/111548116?s=72&u=cee6d2c1a6e2f5543edea7afb3fc6a6f08bc4ab8&v=4" width="24" alt="Avatar of danielng620"> danielng620
+			</a><br/>
+			Ng Bin Chong 
+		</td>
+		<td>@danielng620 </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur </td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>692</td>
+		<td>
+			<a href="https://github.com/veeableful">
+				<img src="https://avatars.githubusercontent.com/u/2060653?s=72&u=7e8f89b6ebcbe8ccb291c6301e632ebbca58f781&v=4" width="24" alt="Avatar of veeableful"> veeableful
+			</a><br/>
+			No Name
+		</td>
+		<td>Ve And Co. </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>693</td>
+		<td>
+			<a href="https://github.com/kailoon">
+				<img src="https://avatars.githubusercontent.com/u/151661?s=72&u=25f1ab4c2bd4f7313d8e44a1b81b9c4855cb6f23&v=4" width="24" alt="Avatar of kailoon"> kailoon
+			</a><br/>
+			kailoon
+		</td>
+		<td>Loondesign Studio Sdn Bhd<br/></td>
+		<td><a href="https://twitter.com/kailoon">kailoon</a></td>
+		<td>Malaysia</td>
+		<td>2</td>
+	</tr>
+	<tr>
 		<td>694</td>
 		<td>
-			<a href="https://github.com/hakimzulkufli">
-				<img src="https://avatars.githubusercontent.com/u/42469039?s=72&v=4" width="24" alt="Avatar of hakimzulkufli"> hakimzulkufli
+			<a href="https://github.com/kennylflim">
+				<img src="https://avatars.githubusercontent.com/u/30202993?s=72&u=018bdb22b2753abb06f5d4e051a0c5b24df372ef&v=4" width="24" alt="Avatar of kennylflim"> kennylflim
 			</a><br/>
-			Hakim Zulkufli
+			Opportunity network 
+		</td>
+		<td>Not For Profit <br/></td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>695</td>
+		<td>
+			<a href="https://github.com/karamalie">
+				<img src="https://avatars.githubusercontent.com/u/12868819?s=72&u=bbccf91687bbe7605c5619b38414aa4f50b11def&v=4" width="24" alt="Avatar of karamalie"> karamalie
+			</a><br/>
+			karam
+		</td>
+		<td>Tria </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>696</td>
+		<td>
+			<a href="https://github.com/seikan">
+				<img src="https://avatars.githubusercontent.com/u/73107?s=72&u=b4d19929f74a1d9ae0118e1b0523806985392cf9&v=4" width="24" alt="Avatar of seikan"> seikan
+			</a><br/>
+			Sei Kan
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -9127,7 +9153,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/nobodyatall648">
 				<img src="https://avatars.githubusercontent.com/u/35725871?s=72&u=bbac6a236c0b0bde629315752b8ad28ef107d04d&v=4" width="24" alt="Avatar of nobodyatall648"> nobodyatall648
@@ -9140,33 +9166,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>698</td>
 		<td>
-			<a href="https://github.com/haziqzikry">
-				<img src="https://avatars.githubusercontent.com/u/64769759?s=72&u=5de5b52d0d7b09612117fc6e0fb655d7c8f0a3be&v=4" width="24" alt="Avatar of haziqzikry"> haziqzikry
+			<a href="https://github.com/HakamRaza">
+				<img src="https://avatars.githubusercontent.com/u/65484304?s=72&u=1305ad38e66178327ed7cb3b2262ee5527753df6&v=4" width="24" alt="Avatar of HakamRaza"> HakamRaza
 			</a><br/>
-			Haziq Zikry (Qiqi)
+			HakamRaza
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>697</td>
-		<td>
-			<a href="https://github.com/hymns">
-				<img src="https://avatars.githubusercontent.com/u/232046?s=72&u=99e67c2eb2aad2465cc5a964b09103a4a83a5a4f&v=4" width="24" alt="Avatar of hymns"> hymns
-			</a><br/>
-			Muhammad Hamizi Jaminan
-		</td>
-		<td>Credence </td>
-		<td>No Twitter Username</td>
-		<td>Cyberjaya, Malaysia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/azraai">
 				<img src="https://avatars.githubusercontent.com/u/80473?s=72&v=4" width="24" alt="Avatar of azraai"> azraai
@@ -9179,7 +9192,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/sergioutama">
 				<img src="https://avatars.githubusercontent.com/u/1159163?s=72&v=4" width="24" alt="Avatar of sergioutama"> sergioutama
@@ -9188,19 +9201,6 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/sergioutama">sergioutama</a></td>
-		<td>Malaysia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>700</td>
-		<td>
-			<a href="https://github.com/weiweitoo">
-				<img src="https://avatars.githubusercontent.com/u/25069837?s=72&u=1805458532b5fcc53235b3be5bdcf5b7fe7e7caf&v=4" width="24" alt="Avatar of weiweitoo"> weiweitoo
-			</a><br/>
-			Too
-		</td>
-		<td>Palapapapa </td>
-		<td>No Twitter Username</td>
 		<td>Malaysia</td>
 		<td>2</td>
 	</tr>
@@ -9220,44 +9220,70 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 	<tr>
 		<td>702</td>
 		<td>
-			<a href="https://github.com/imancybersecurity">
-				<img src="https://avatars.githubusercontent.com/u/106005322?s=72&u=0c0a851500b99e593e986968d557b81b1082e54a&v=4" width="24" alt="Avatar of imancybersecurity"> imancybersecurity
+			<a href="https://github.com/nurh">
+				<img src="https://avatars.githubusercontent.com/u/1252947?s=72&v=4" width="24" alt="Avatar of nurh"> nurh
 			</a><br/>
-			Mohamad Nur Iman
+			Nur Hussein
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
+		<td>Penang, Malaysia</td>
 		<td>2</td>
 	</tr>
 	<tr>
 		<td>703</td>
 		<td>
-			<a href="https://github.com/Ninad99">
-				<img src="https://avatars.githubusercontent.com/u/39592667?s=72&v=4" width="24" alt="Avatar of Ninad99"> Ninad99
+			<a href="https://github.com/pizza0502">
+				<img src="https://avatars.githubusercontent.com/u/2167237?s=72&u=2d588f92e7773977d95a2c90ddddd81689a6e64e&v=4" width="24" alt="Avatar of pizza0502"> pizza0502
 			</a><br/>
-			Ninad Subba
+			Pizza Yap
 		</td>
-		<td>@insectos </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Johor Bahru, Malaysia</td>
+		<td>Malaysia ✈ Singapore</td>
 		<td>2</td>
 	</tr>
 	<tr>
 		<td>704</td>
 		<td>
-			<a href="https://github.com/ParhamZare">
-				<img src="https://avatars.githubusercontent.com/u/11447106?s=72&u=1be47261e6b81c14740f1461c0df60dbcf9d1f9a&v=4" width="24" alt="Avatar of ParhamZare"> ParhamZare
+			<a href="https://github.com/rognales">
+				<img src="https://avatars.githubusercontent.com/u/28396330?s=72&v=4" width="24" alt="Avatar of rognales"> rognales
 			</a><br/>
-			ParhamZare
+			Zaiman Noris
 		</td>
-		<td>@loanstreet  </td>
-		<td><a href="https://twitter.com/parhamzaree">parhamzaree</a></td>
-		<td>Malaysia, Kuala Lumpur</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/rognales">rognales</a></td>
+		<td>Malaysia</td>
 		<td>2</td>
 	</tr>
 	<tr>
 		<td>705</td>
+		<td>
+			<a href="https://github.com/sfsf9797">
+				<img src="https://avatars.githubusercontent.com/u/25578820?s=72&u=d2c1662ae64103edf60ab489957b105a6f1947fe&v=4" width="24" alt="Avatar of sfsf9797"> sfsf9797
+			</a><br/>
+			Sek Fook
+		</td>
+		<td>Xendit </td>
+		<td><a href="https://twitter.com/sekfook">sekfook</a></td>
+		<td>Malaysia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>706</td>
+		<td>
+			<a href="https://github.com/alvindrakes">
+				<img src="https://avatars.githubusercontent.com/u/13532268?s=72&u=c859f5720670f2950631928e89800521ea05d613&v=4" width="24" alt="Avatar of alvindrakes"> alvindrakes
+			</a><br/>
+			Loh Jin Xian
+		</td>
+		<td>@zenno-studio  </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/zam3858">
 				<img src="https://avatars.githubusercontent.com/u/99651?s=72&v=4" width="24" alt="Avatar of zam3858"> zam3858
@@ -9270,7 +9296,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>708</td>
+		<td>
+			<a href="https://github.com/Ninad99">
+				<img src="https://avatars.githubusercontent.com/u/39592667?s=72&v=4" width="24" alt="Avatar of Ninad99"> Ninad99
+			</a><br/>
+			Ninad Subba
+		</td>
+		<td>@insectos </td>
+		<td>No Twitter Username</td>
+		<td>Johor Bahru, Malaysia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/aibrahim3546">
 				<img src="https://avatars.githubusercontent.com/u/31366174?s=72&u=8c202191a232179dbe4983d56337a2d2e8f08a6b&v=4" width="24" alt="Avatar of aibrahim3546"> aibrahim3546
@@ -9283,7 +9322,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/lirenyeo">
 				<img src="https://avatars.githubusercontent.com/u/20812937?s=72&u=9f3fe35a186c4e2ac1897204734bdfb3cfa2e179&v=4" width="24" alt="Avatar of lirenyeo"> lirenyeo
@@ -9296,20 +9335,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>711</td>
 		<td>
-			<a href="https://github.com/escornbar">
-				<img src="https://avatars.githubusercontent.com/u/74599637?s=72&u=6d34bd0ebc90fa87cac45bd4e7b4fc3b68548e5f&v=4" width="24" alt="Avatar of escornbar"> escornbar
+			<a href="https://github.com/ParhamZare">
+				<img src="https://avatars.githubusercontent.com/u/11447106?s=72&u=1be47261e6b81c14740f1461c0df60dbcf9d1f9a&v=4" width="24" alt="Avatar of ParhamZare"> ParhamZare
 			</a><br/>
-			Syaamil Fa'iq
+			ParhamZare
 		</td>
-		<td>Dell Technologies </td>
-		<td><a href="https://twitter.com/syaamilfaiq">syaamilfaiq</a></td>
-		<td>Kuala Lumpur</td>
+		<td>@finology-group </td>
+		<td><a href="https://twitter.com/parhamzaree">parhamzaree</a></td>
+		<td>Malaysia, Kuala Lumpur</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/sktalreja">
 				<img src="https://avatars.githubusercontent.com/u/36738969?s=72&u=6114e7cae3b1d91c3b0831b2de773ff87103d8e5&v=4" width="24" alt="Avatar of sktalreja"> sktalreja
@@ -9322,20 +9361,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>713</td>
 		<td>
-			<a href="https://github.com/ibnumalik">
-				<img src="https://avatars.githubusercontent.com/u/1806269?s=72&v=4" width="24" alt="Avatar of ibnumalik"> ibnumalik
+			<a href="https://github.com/haziqhafizuddin">
+				<img src="https://avatars.githubusercontent.com/u/5515570?s=72&u=6a75de3848bb1da2e01138f1a67ad6a2d289118c&v=4" width="24" alt="Avatar of haziqhafizuddin"> haziqhafizuddin
 			</a><br/>
-			Shaiful Aiman Malik
+			ハジク
 		</td>
-		<td>Ibnumalik.my </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Malaysia</td>
+		<td>Kuala Lumpur, Malaysia</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>714</td>
+		<td>
+			<a href="https://github.com/Jamirais94">
+				<img src="https://avatars.githubusercontent.com/u/126028247?s=72&u=b0d3fa9f8ad12cf2d6ec2eff3610a7b8ac98a3b4&v=4" width="24" alt="Avatar of Jamirais94"> Jamirais94
+			</a><br/>
+			Jamirais Bin Ismail
+		</td>
+		<td>Jamirais Bin Ismail </td>
+		<td>No Twitter Username</td>
+		<td>4360 permatang manggis,13200 kepala batas, pulau Pinang,,malaysia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/tyh2305">
 				<img src="https://avatars.githubusercontent.com/u/17763849?s=72&u=746031c2f9220b36e639e287f09c407fed29d385&v=4" width="24" alt="Avatar of tyh2305"> tyh2305
@@ -9348,72 +9400,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>712</td>
-		<td>
-			<a href="https://github.com/PremChandran15">
-				<img src="https://avatars.githubusercontent.com/u/30081284?s=72&u=3e80c5b570706eab19407ddbd7f75bea2eb6ffa8&v=4" width="24" alt="Avatar of PremChandran15"> PremChandran15
-			</a><br/>
-			Premkumar Chandrashegaran
-		</td>
-		<td>Oxygen </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>713</td>
-		<td>
-			<a href="https://github.com/Fadreus">
-				<img src="https://avatars.githubusercontent.com/u/32188494?s=72&u=03ae61326170d7d8405194ed89eb5a229ae679cf&v=4" width="24" alt="Avatar of Fadreus"> Fadreus
-			</a><br/>
-			チビすけ
-		</td>
-		<td>F.a.d. Corp. Ltd. </td>
-		<td>No Twitter Username</td>
-		<td>Genting Highland, Malaysia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>714</td>
-		<td>
-			<a href="https://github.com/danyscape">
-				<img src="https://avatars.githubusercontent.com/u/62817930?s=72&u=b8c1601409cc4ccd253c905dabb89635ea858c36&v=4" width="24" alt="Avatar of danyscape"> danyscape
-			</a><br/>
-			dany
-		</td>
-		<td>@pixelos-aosp </td>
-		<td>No Twitter Username</td>
-		<td>Selangor, Malaysia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>715</td>
-		<td>
-			<a href="https://github.com/umaqgeek">
-				<img src="https://avatars.githubusercontent.com/u/7758956?s=72&u=467398795e28fbdfad0eea63f3e3319d20e293b7&v=4" width="24" alt="Avatar of umaqgeek"> umaqgeek
-			</a><br/>
-			Umar Mukhtar
-		</td>
-		<td>Tuffah Informatics </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>2</td>
-	</tr>
-	<tr>
 		<td>716</td>
-		<td>
-			<a href="https://github.com/archie-lab">
-				<img src="https://avatars.githubusercontent.com/u/8452257?s=72&u=79161af2c56fdd953046e4bb0832638ea6098782&v=4" width="24" alt="Avatar of archie-lab"> archie-lab
-			</a><br/>
-			Artyom Serebryakov
-		</td>
-		<td>Nindatech Sdn. Bhd. </td>
-		<td>No Twitter Username</td>
-		<td>Penang, Malaysia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>717</td>
 		<td>
 			<a href="https://github.com/hendriklammers">
 				<img src="https://avatars.githubusercontent.com/u/754556?s=72&u=1aac0525d996f2f7ad14018177d99e98daf3cca5&v=4" width="24" alt="Avatar of hendriklammers"> hendriklammers
@@ -9426,59 +9413,46 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>717</td>
 		<td>
-			<a href="https://github.com/firdoussross">
-				<img src="https://avatars.githubusercontent.com/u/148120?s=72&u=37ee0b4b0c93d14ff911628cf67383a27f291134&v=4" width="24" alt="Avatar of firdoussross"> firdoussross
+			<a href="https://github.com/PremChandran15">
+				<img src="https://avatars.githubusercontent.com/u/30081284?s=72&u=3e80c5b570706eab19407ddbd7f75bea2eb6ffa8&v=4" width="24" alt="Avatar of PremChandran15"> PremChandran15
 			</a><br/>
-			Firdouss Ross
+			Premkumar Chandrashegaran
 		</td>
-		<td>No Company</td>
+		<td>Oxygen </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
 		<td>2</td>
 	</tr>
 	<tr>
+		<td>718</td>
+		<td>
+			<a href="https://github.com/Fadreus">
+				<img src="https://avatars.githubusercontent.com/u/32188494?s=72&u=03ae61326170d7d8405194ed89eb5a229ae679cf&v=4" width="24" alt="Avatar of Fadreus"> Fadreus
+			</a><br/>
+			チビすけ
+		</td>
+		<td>F.a.d. Corp. Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Genting Highland, Malaysia</td>
+		<td>2</td>
+	</tr>
+	<tr>
 		<td>719</td>
 		<td>
-			<a href="https://github.com/yennhi95zz">
-				<img src="https://avatars.githubusercontent.com/u/88694623?s=72&u=feb29b3d62ce5834eb0e8db58614bb5b4f27a891&v=4" width="24" alt="Avatar of yennhi95zz"> yennhi95zz
+			<a href="https://github.com/danyscape">
+				<img src="https://avatars.githubusercontent.com/u/62817930?s=72&u=b8c1601409cc4ccd253c905dabb89635ea858c36&v=4" width="24" alt="Avatar of danyscape"> danyscape
 			</a><br/>
-			Nhi Yen
+			dany
 		</td>
-		<td>Freelance </td>
+		<td>@pixelos-aosp </td>
 		<td>No Twitter Username</td>
-		<td>KL, Malaysia</td>
-		<td>1</td>
+		<td>Selangor, Malaysia</td>
+		<td>2</td>
 	</tr>
 	<tr>
 		<td>720</td>
-		<td>
-			<a href="https://github.com/boonsuen">
-				<img src="https://avatars.githubusercontent.com/u/19908657?s=72&u=6b57b90c3a326c61f7537468ce8b4dd442c1a499&v=4" width="24" alt="Avatar of boonsuen"> boonsuen
-			</a><br/>
-			Boonsuen Oh
-		</td>
-		<td>@grab </td>
-		<td><a href="https://twitter.com/_wnxn">_wnxn</a></td>
-		<td>Malaysia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>721</td>
-		<td>
-			<a href="https://github.com/soggie">
-				<img src="https://avatars.githubusercontent.com/u/551670?s=72&u=47a0b160545597bb37d4e73851e4cecb3d1b8402&v=4" width="24" alt="Avatar of soggie"> soggie
-			</a><br/>
-			Ruben Tan Long Zheng
-		</td>
-		<td>Atomycal </td>
-		<td><a href="https://twitter.com/atomycal">atomycal</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>722</td>
 		<td>
 			<a href="https://github.com/RoslanWahab">
 				<img src="https://avatars.githubusercontent.com/u/134185053?s=72&u=51c4cecfa8550d815f7dc3e1cba9db8a19fffd24&v=4" width="24" alt="Avatar of RoslanWahab"> RoslanWahab
@@ -9491,7 +9465,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>721</td>
 		<td>
 			<a href="https://github.com/aqhmal">
 				<img src="https://avatars.githubusercontent.com/u/22043590?s=72&u=e06577cf701fb3de1eef6bd7ea5a654541cbfbf6&v=4" width="24" alt="Avatar of aqhmal"> aqhmal
@@ -9504,7 +9478,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>722</td>
+		<td>
+			<a href="https://github.com/WaheedNazir">
+				<img src="https://avatars.githubusercontent.com/u/39362210?s=72&u=0b034abbbb7ebe46d1d32d6d908c9c15552204fa&v=4" width="24" alt="Avatar of WaheedNazir"> WaheedNazir
+			</a><br/>
+			Waheed Nazir
+		</td>
+		<td>Sicpa Product & Security<br/></td>
+		<td><a href="https://twitter.com/waheed10001">waheed10001</a></td>
+		<td>Malaysia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>723</td>
 		<td>
 			<a href="https://github.com/aajiwani">
 				<img src="https://avatars.githubusercontent.com/u/844545?s=72&v=4" width="24" alt="Avatar of aajiwani"> aajiwani
@@ -9517,7 +9504,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>725</td>
+		<td>724</td>
 		<td>
 			<a href="https://github.com/jcailan">
 				<img src="https://avatars.githubusercontent.com/u/27951983?s=72&u=254f5dcbab6aacaad0711eb5e4b13317397630b2&v=4" width="24" alt="Avatar of jcailan"> jcailan
@@ -9526,6 +9513,19 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		</td>
 		<td>Alphaoak </td>
 		<td><a href="https://twitter.com/CailanJhodel">CailanJhodel</a></td>
+		<td>Kuala Lumpur</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>725</td>
+		<td>
+			<a href="https://github.com/tedbundyjr">
+				<img src="https://avatars.githubusercontent.com/u/30531?s=72&v=4" width="24" alt="Avatar of tedbundyjr"> tedbundyjr
+			</a><br/>
+			Haris Subandie Md. Suhaimin
+		</td>
+		<td>Vms Services </td>
+		<td>No Twitter Username</td>
 		<td>Kuala Lumpur</td>
 		<td>1</td>
 	</tr>
@@ -9545,19 +9545,6 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 	<tr>
 		<td>727</td>
 		<td>
-			<a href="https://github.com/sam-suresh">
-				<img src="https://avatars.githubusercontent.com/u/5198092?s=72&u=80f3d1a4bc2441fee3f1af87a7cd21ab0cec5b7f&v=4" width="24" alt="Avatar of sam-suresh"> sam-suresh
-			</a><br/>
-			Sam Suresh
-		</td>
-		<td>@mudotmy  </td>
-		<td><a href="https://twitter.com/samsureshx">samsureshx</a></td>
-		<td>Malaysia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>728</td>
-		<td>
 			<a href="https://github.com/ethanliew">
 				<img src="https://avatars.githubusercontent.com/u/1124512?s=72&u=428d1736090b271c048a9f5327959fb08dc6dfd3&v=4" width="24" alt="Avatar of ethanliew"> ethanliew
 			</a><br/>
@@ -9565,6 +9552,19 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		</td>
 		<td>Red Oomph Technology Sdn<br/>Bhd<br/></td>
 		<td><a href="https://twitter.com/ethanliew">ethanliew</a></td>
+		<td>Malaysia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>728</td>
+		<td>
+			<a href="https://github.com/sam-suresh">
+				<img src="https://avatars.githubusercontent.com/u/5198092?s=72&u=80f3d1a4bc2441fee3f1af87a7cd21ab0cec5b7f&v=4" width="24" alt="Avatar of sam-suresh"> sam-suresh
+			</a><br/>
+			Sam Suresh
+		</td>
+		<td>@mudotmy  </td>
+		<td><a href="https://twitter.com/samsureshx">samsureshx</a></td>
 		<td>Malaysia</td>
 		<td>1</td>
 	</tr>
@@ -9597,19 +9597,6 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 	<tr>
 		<td>731</td>
 		<td>
-			<a href="https://github.com/kennylflim">
-				<img src="https://avatars.githubusercontent.com/u/30202993?s=72&u=018bdb22b2753abb06f5d4e051a0c5b24df372ef&v=4" width="24" alt="Avatar of kennylflim"> kennylflim
-			</a><br/>
-			Opportunity network 
-		</td>
-		<td>Not For Profit <br/></td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>732</td>
-		<td>
 			<a href="https://github.com/asyazwan">
 				<img src="https://avatars.githubusercontent.com/u/236578?s=72&v=4" width="24" alt="Avatar of asyazwan"> asyazwan
 			</a><br/>
@@ -9621,7 +9608,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>733</td>
+		<td>732</td>
 		<td>
 			<a href="https://github.com/fabhar">
 				<img src="https://avatars.githubusercontent.com/u/6761951?s=72&u=598dabe00fadba41718510fe95fe4d7ab2fafcb8&v=4" width="24" alt="Avatar of fabhar"> fabhar
@@ -9634,16 +9621,29 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>734</td>
+		<td>733</td>
 		<td>
-			<a href="https://github.com/mo-azfar">
-				<img src="https://avatars.githubusercontent.com/u/62957738?s=72&u=d5aa3b504f0a50f4aa76675625228e0433ee8d07&v=4" width="24" alt="Avatar of mo-azfar"> mo-azfar
+			<a href="https://github.com/hakimzulkufli">
+				<img src="https://avatars.githubusercontent.com/u/42469039?s=72&v=4" width="24" alt="Avatar of hakimzulkufli"> hakimzulkufli
 			</a><br/>
-			Mohd Azfar
+			Hakim Zulkufli
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
+		<td>Malaysia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>734</td>
+		<td>
+			<a href="https://github.com/imnirfn">
+				<img src="https://avatars.githubusercontent.com/u/35915224?s=72&u=39f3789682cccfb25ce255ad3b3c0c123f809c85&v=4" width="24" alt="Avatar of imnirfn"> imnirfn
+			</a><br/>
+			.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -9688,31 +9688,18 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 	<tr>
 		<td>738</td>
 		<td>
-			<a href="https://github.com/web-dev404">
-				<img src="https://avatars.githubusercontent.com/u/62200534?s=72&u=f8dc85526128080a611dae1f377707ddba0c79c5&v=4" width="24" alt="Avatar of web-dev404"> web-dev404
+			<a href="https://github.com/HtutLynn">
+				<img src="https://avatars.githubusercontent.com/u/42746452?s=72&u=9ae758bc3034f7d50440437407f7abcc1794ba44&v=4" width="24" alt="Avatar of HtutLynn"> HtutLynn
 			</a><br/>
-			Imron Mirzarasulov
+			Htut Lynn Aung
 		</td>
-		<td>@deos-network  </td>
+		<td>Moneylion, Honeyhunt.ai </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur</td>
 		<td>1</td>
 	</tr>
 	<tr>
 		<td>739</td>
-		<td>
-			<a href="https://github.com/DevxPi">
-				<img src="https://avatars.githubusercontent.com/u/114049418?s=72&u=d06927c6fb6a173d4e0306cb624980b865409930&v=4" width="24" alt="Avatar of DevxPi"> DevxPi
-			</a><br/>
-			Me
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/devx47">devx47</a></td>
-		<td>Malaysia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>740</td>
 		<td>
 			<a href="https://github.com/therezacuet">
 				<img src="https://avatars.githubusercontent.com/u/16717497?s=72&u=c32b394672e584dff5e18179d1f9095edffeec68&v=4" width="24" alt="Avatar of therezacuet"> therezacuet
@@ -9725,72 +9712,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>741</td>
-		<td>
-			<a href="https://github.com/HtutLynn">
-				<img src="https://avatars.githubusercontent.com/u/42746452?s=72&u=9ae758bc3034f7d50440437407f7abcc1794ba44&v=4" width="24" alt="Avatar of HtutLynn"> HtutLynn
-			</a><br/>
-			Htut Lynn Aung
-		</td>
-		<td>Moneylion, Honeyhunt.ai </td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>742</td>
-		<td>
-			<a href="https://github.com/FTiniNadhirah">
-				<img src="https://avatars.githubusercontent.com/u/50139706?s=72&u=c32d09678af51c2e2ed79e5f04aefc0d545dfc8d&v=4" width="24" alt="Avatar of FTiniNadhirah"> FTiniNadhirah
-			</a><br/>
-			Fatini Nadhirah
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>743</td>
-		<td>
-			<a href="https://github.com/chinlewen">
-				<img src="https://avatars.githubusercontent.com/u/83626748?s=72&v=4" width="24" alt="Avatar of chinlewen"> chinlewen
-			</a><br/>
-			chinlewen
-		</td>
-		<td>Nextdc </td>
-		<td>No Twitter Username</td>
-		<td>Malaysia / Australia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>744</td>
-		<td>
-			<a href="https://github.com/raden">
-				<img src="https://avatars.githubusercontent.com/u/822803?s=72&v=4" width="24" alt="Avatar of raden"> raden
-			</a><br/>
-			Muhammad Najmi Ahmad Zabidi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>745</td>
-		<td>
-			<a href="https://github.com/0732sta">
-				<img src="https://avatars.githubusercontent.com/u/42581091?s=72&u=2bdcb262a83862cc6ebb271ab6d801673536dd25&v=4" width="24" alt="Avatar of 0732sta"> 0732sta
-			</a><br/>
-			Atsilah Anuar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>746</td>
+		<td>740</td>
 		<td>
 			<a href="https://github.com/JinLuvOnigiri">
 				<img src="https://avatars.githubusercontent.com/u/220903403?s=72&u=f67c9c9c036c721f9dd92657c0109517982462af&v=4" width="24" alt="Avatar of JinLuvOnigiri"> JinLuvOnigiri
@@ -9803,12 +9725,12 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>741</td>
 		<td>
-			<a href="https://github.com/EdmundHee">
-				<img src="https://avatars.githubusercontent.com/u/8703704?s=72&u=9f42dbcde59a38681012ecabd4e23f62dc5ac1f9&v=4" width="24" alt="Avatar of EdmundHee"> EdmundHee
+			<a href="https://github.com/FTiniNadhirah">
+				<img src="https://avatars.githubusercontent.com/u/50139706?s=72&u=c32d09678af51c2e2ed79e5f04aefc0d545dfc8d&v=4" width="24" alt="Avatar of FTiniNadhirah"> FTiniNadhirah
 			</a><br/>
-			Edmund Hee
+			Fatini Nadhirah
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -9816,7 +9738,33 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>748</td>
+		<td>742</td>
+		<td>
+			<a href="https://github.com/weiweitoo">
+				<img src="https://avatars.githubusercontent.com/u/25069837?s=72&u=1805458532b5fcc53235b3be5bdcf5b7fe7e7caf&v=4" width="24" alt="Avatar of weiweitoo"> weiweitoo
+			</a><br/>
+			Too
+		</td>
+		<td>Palapapapa </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>743</td>
+		<td>
+			<a href="https://github.com/sirhcofe">
+				<img src="https://avatars.githubusercontent.com/u/99158692?s=72&u=69eb7cd762fdb4e9546e5a45d040dba1f702a144&v=4" width="24" alt="Avatar of sirhcofe"> sirhcofe
+			</a><br/>
+			Cheng Zer Lee
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Selangor, Malaysia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>744</td>
 		<td>
 			<a href="https://github.com/tgnj">
 				<img src="https://avatars.githubusercontent.com/u/57750?s=72&u=d3a194ed2ced438f9d6e18b1f5af0154e1971ea7&v=4" width="24" alt="Avatar of tgnj"> tgnj
@@ -9829,33 +9777,46 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>745</td>
 		<td>
-			<a href="https://github.com/tengznaim">
-				<img src="https://avatars.githubusercontent.com/u/63803360?s=72&u=9caec74c938e819c4b899c51dd18857ebde9f60c&v=4" width="24" alt="Avatar of tengznaim"> tengznaim
+			<a href="https://github.com/raden">
+				<img src="https://avatars.githubusercontent.com/u/822803?s=72&v=4" width="24" alt="Avatar of raden"> raden
 			</a><br/>
-			Tengku Naim
+			Muhammad Najmi Ahmad Zabidi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kuala Lumpur, Malaysia</td>
+		<td>Malaysia</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>746</td>
 		<td>
-			<a href="https://github.com/nurh">
-				<img src="https://avatars.githubusercontent.com/u/1252947?s=72&v=4" width="24" alt="Avatar of nurh"> nurh
+			<a href="https://github.com/DevxPi">
+				<img src="https://avatars.githubusercontent.com/u/114049418?s=72&u=d06927c6fb6a173d4e0306cb624980b865409930&v=4" width="24" alt="Avatar of DevxPi"> DevxPi
 			</a><br/>
-			Nur Hussein
+			Me
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Penang, Malaysia</td>
+		<td><a href="https://twitter.com/devx47">devx47</a></td>
+		<td>Malaysia</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>747</td>
+		<td>
+			<a href="https://github.com/chinlewen">
+				<img src="https://avatars.githubusercontent.com/u/83626748?s=72&v=4" width="24" alt="Avatar of chinlewen"> chinlewen
+			</a><br/>
+			chinlewen
+		</td>
+		<td>Nextdc </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia / Australia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>748</td>
 		<td>
 			<a href="https://github.com/jiajing1993">
 				<img src="https://avatars.githubusercontent.com/u/5715141?s=72&u=9b7ec2ece9069327d5e8ca8d4f36c7c8ad147818&v=4" width="24" alt="Avatar of jiajing1993"> jiajing1993
@@ -9868,7 +9829,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>749</td>
+		<td>
+			<a href="https://github.com/afifsohaili">
+				<img src="https://avatars.githubusercontent.com/u/8052933?s=72&u=5dbcbaf4ab67c13e8a17abe301849dd9a24cba72&v=4" width="24" alt="Avatar of afifsohaili"> afifsohaili
+			</a><br/>
+			Afif Sohaili
+		</td>
+		<td>Servicerocket </td>
+		<td>No Twitter Username</td>
+		<td>Malaysia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/azrilnazli">
 				<img src="https://avatars.githubusercontent.com/u/649296?s=72&u=a709fd6ec45b89bf128ec9605a98591ea257b651&v=4" width="24" alt="Avatar of azrilnazli"> azrilnazli
@@ -9881,20 +9855,7 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>753</td>
-		<td>
-			<a href="https://github.com/luisbarrancos">
-				<img src="https://avatars.githubusercontent.com/u/387352?s=72&v=4" width="24" alt="Avatar of luisbarrancos"> luisbarrancos
-			</a><br/>
-			Luis Barrancos
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/LuisBarrancos">LuisBarrancos</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>754</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/muhaimincs">
 				<img src="https://avatars.githubusercontent.com/u/30996641?s=72&u=ad2fc75cd23a244ee70623a53bedf7b9ea94eb62&v=4" width="24" alt="Avatar of muhaimincs"> muhaimincs
@@ -9907,98 +9868,20 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>752</td>
 		<td>
-			<a href="https://github.com/nghaosiong98">
-				<img src="https://avatars.githubusercontent.com/u/31809739?s=72&u=290be77f10174e21a10423df1901d6e9cbf6d577&v=4" width="24" alt="Avatar of nghaosiong98"> nghaosiong98
+			<a href="https://github.com/mfaizmzaki">
+				<img src="https://avatars.githubusercontent.com/u/9010487?s=72&v=4" width="24" alt="Avatar of mfaizmzaki"> mfaizmzaki
 			</a><br/>
-			Haosiong Ng
+			Faiz Zaki
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>756</td>
-		<td>
-			<a href="https://github.com/densityx">
-				<img src="https://avatars.githubusercontent.com/u/10068719?s=72&u=fcec79018e3d0ca0b6e1096d7974944707d68b5f&v=4" width="24" alt="Avatar of densityx"> densityx
-			</a><br/>
-			Ahmad Aziz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>757</td>
-		<td>
-			<a href="https://github.com/yashimwong">
-				<img src="https://avatars.githubusercontent.com/u/20573180?s=72&u=4d23eb4e59ad6a708408cc3a752014ba9bc910d9&v=4" width="24" alt="Avatar of yashimwong"> yashimwong
-			</a><br/>
-			devsans
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Malaysia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>758</td>
-		<td>
-			<a href="https://github.com/alirezaeftekhari">
-				<img src="https://avatars.githubusercontent.com/u/31543066?s=72&u=ad9767d57764809a32249f8854a283fccf3a0824&v=4" width="24" alt="Avatar of alirezaeftekhari"> alirezaeftekhari
-			</a><br/>
-			Alireza (Pure)
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kuala Lumpur/Malaysia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>759</td>
-		<td>
-			<a href="https://github.com/purnima23">
-				<img src="https://avatars.githubusercontent.com/u/10125807?s=72&v=4" width="24" alt="Avatar of purnima23"> purnima23
-			</a><br/>
-			Purnima Wijendra
-		</td>
-		<td>Says.com/ Klips.my/ 8share.com </td>
 		<td>No Twitter Username</td>
 		<td>Kuala Lumpur, Malaysia</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>760</td>
-		<td>
-			<a href="https://github.com/seraph">
-				<img src="https://avatars.githubusercontent.com/u/33110?s=72&u=7801bd6a09422b8e14fe3446d897e6691d206c7d&v=4" width="24" alt="Avatar of seraph"> seraph
-			</a><br/>
-			Kevin Francis
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kevgfran">kevgfran</a></td>
-		<td>Kuala Lumpur, Malaysia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>761</td>
-		<td>
-			<a href="https://github.com/chingh1123">
-				<img src="https://avatars.githubusercontent.com/u/86087456?s=72&u=1fdf1bdfbc393420ea1104fdd4e1d23945e07387&v=4" width="24" alt="Avatar of chingh1123"> chingh1123
-			</a><br/>
-			TheNoobGH
-		</td>
-		<td>@cgh-team </td>
-		<td><a href="https://twitter.com/gh_chin">gh_chin</a></td>
-		<td>Malaysia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>762</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/Jafnee">
 				<img src="https://avatars.githubusercontent.com/u/5748926?s=72&v=4" width="24" alt="Avatar of Jafnee"> Jafnee
@@ -10011,12 +9894,64 @@ There are `974 users`  in Malaysia. You need at least `23 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>754</td>
+		<td>
+			<a href="https://github.com/alirezaeftekhari">
+				<img src="https://avatars.githubusercontent.com/u/31543066?s=72&u=ad9767d57764809a32249f8854a283fccf3a0824&v=4" width="24" alt="Avatar of alirezaeftekhari"> alirezaeftekhari
+			</a><br/>
+			Alireza (Pure)
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur/Malaysia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>755</td>
+		<td>
+			<a href="https://github.com/purnima23">
+				<img src="https://avatars.githubusercontent.com/u/10125807?s=72&v=4" width="24" alt="Avatar of purnima23"> purnima23
+			</a><br/>
+			Purnima Wijendra
+		</td>
+		<td>Says.com/ Klips.my/ 8share.com </td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/PakCu">
 				<img src="https://avatars.githubusercontent.com/u/1624935?s=72&u=d06b2429fce1fcc5359fe8d243f77313b19ab5b6&v=4" width="24" alt="Avatar of PakCu"> PakCu
 			</a><br/>
 			PakCu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kuala Lumpur</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>757</td>
+		<td>
+			<a href="https://github.com/seraph">
+				<img src="https://avatars.githubusercontent.com/u/33110?s=72&u=7801bd6a09422b8e14fe3446d897e6691d206c7d&v=4" width="24" alt="Avatar of seraph"> seraph
+			</a><br/>
+			Kevin Francis
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kevgfran">kevgfran</a></td>
+		<td>Kuala Lumpur, Malaysia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>758</td>
+		<td>
+			<a href="https://github.com/densityx">
+				<img src="https://avatars.githubusercontent.com/u/10068719?s=72&u=fcec79018e3d0ca0b6e1096d7974944707d68b5f&v=4" width="24" alt="Avatar of densityx"> densityx
+			</a><br/>
+			Ahmad Aziz
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
