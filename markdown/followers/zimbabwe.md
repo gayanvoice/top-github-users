@@ -2733,13 +2733,13 @@ There are `919 users`  in Zimbabwe. You need at least `2 followers` to be on thi
 	<tr>
 		<td>203</td>
 		<td>
-			<a href="https://github.com/Ashemaro">
-				<img src="https://avatars.githubusercontent.com/u/107895856?s=72&u=7601af6fec002578e8a4f16eb0ccdc997b0bf276&v=4" width="24" alt="Avatar of Ashemaro"> Ashemaro
+			<a href="https://github.com/Kudakwashemaro">
+				<img src="https://avatars.githubusercontent.com/u/107895856?s=72&u=7601af6fec002578e8a4f16eb0ccdc997b0bf276&v=4" width="24" alt="Avatar of Kudakwashemaro"> Kudakwashemaro
 			</a><br/>
 			Kudakwashe Marongedza
 		</td>
-		<td>Codecrafters </td>
-		<td>No Twitter Username</td>
+		<td>Shift Enterprices</td>
+		<td><a https://x.com/Kudakwashemaro>Kudakwashemaro</a></td>
 		<td>Bulawayo</td>
 		<td>17</td>
 	</tr>
