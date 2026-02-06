@@ -104,7 +104,7 @@
     { "country":  "poland", "geoName": "Poland", "cities": ["warsaw", "kraków", "wrocław", "gdańsk", "poznań"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" },
     { "country":  "portugal", "geoName": "Portugal", "cities": ["lisbon", "porto", "braga", "coimbra"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" },
     { "country":  "qatar", "geoName": "Qatar", "cities": ["doha"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg" },
-    { "country":  "romania", "geoName": "Romania", "cities": ["bucharest", "constanța"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" },
+    { "country":  "romania", "geoName": "Romania", "cities": ["bucharest", "constanța", "cluj-napoca"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" },
     { "country":  "russia", "geoName": "Russia", "cities": ["moscow", "saint-petersburg", "yekaterinburg", "novosibirsk", "kazan", "omsk", "volgograd", "chelyabinsk", "krasnoyarsk"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" },
     { "country":  "rwanda", "geoName": "Rwanda", "cities": ["kigali"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg" },
     { "country":  "san marino", "geoName": "San Marino", "cities": ["marino"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" },
