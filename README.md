@@ -7,7 +7,7 @@
 
 List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2026/4/6 1:09 AM UTC`.
 
-This repository contains users `138 countries` and `674 cities`. 
+This repository contains users `139 countries` and `678 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/gayanvoice/top-github-users/blob/main/config.json).
 
 Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action). The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -1754,6 +1754,19 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 		<td>
 			<code>Khartoum</code> 
 			<code>Omdurman</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/south_sudan.md">
+				South Sudan
+			</a>
+		</td>
+		<td>
+			<code>Juba</code> 
+			<code>Wau</code> 
+			<code>Malakal</code> 
+			<code>Bentiu</code> 
 		</td>
 	</tr>
 	<tr>

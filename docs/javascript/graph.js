@@ -1,6 +1,12 @@
 let graph = function () {
+    const countryLabelAliases = {
+        "S. Sudan": "South Sudan"
+    };
     let setValue = function (rankingJsonFile, countryName) {
         let country = rankingJsonFile.ranking.find(o => o.name === countryName);
+        if (country === undefined && countryLabelAliases[countryName] !== undefined) {
+            country = rankingJsonFile.ranking.find(o => o.name === countryLabelAliases[countryName]);
+        }
         if (country === undefined) {
             return 0
         } else {
