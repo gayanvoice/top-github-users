@@ -96,7 +96,7 @@
     { "country":  "norway", "geoName": "Norway", "cities": ["oslo", "bergen", "trondheim", "stavanger"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" },
     { "country":  "oman", "geoName": "Oman", "cities": ["muscat", "salalah", "nizwa", "sohar", "seeb"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg" },
     { "country":  "pakistan", "geoName": "Pakistan", "cities": ["islamabad", "karachi", "lahore", "faisalabad", "peshawar"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" },
-    { "country":  "palestine", "geoName": "Palestine", "cities": ["gaza", "khan-yunis", "jabalia ", "hebron", "nablus"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" },
+    { "country":  "palestine", "geoName": "Palestine", "cities": ["gaza", "khan-yunis", "jabalia ", "hebron", "nablus","ramallah","tulkarm","jenin","jericho","jerusalem","salfit"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" },
     { "country":  "panama", "geoName": "Panama", "cities": ["panama-city", "tocumen"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg" },
     { "country":  "paraguay", "geoName": "Paraguay", "cities": ["asunción ", "ciudad-del-este", "encarnacion", "luque-paraguay"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg" },
     { "country":  "peru", "geoName": "Peru", "cities": ["lima ", "arequipa", "cusco", "chiclayo", "huancayo", "piura"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" },
