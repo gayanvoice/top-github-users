@@ -4137,6 +4137,20 @@ There are `983 users`  in Ethiopia. You need at least `18 followers` to be on th
 		<td>855</td>
 		<td>886</td>
 	</tr>
+		<tr>
+		<td>289</td>
+		<td>
+			<a href="https://github.com/hababisha">
+				<img src="https://github.com/NaolMeseret.png" width="24" alt="Avatar of Naol Meseret"> Naol
+			</a><br/>
+			Naol Meseret
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/NaolMeseret">Naol</a></td>
+		<td>Ethiopia</td>
+		<td>856</td>
+		<td>886</td>
+	</tr>
 	<tr>
 		<td>289</td>
 		<td>
