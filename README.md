@@ -559,6 +559,25 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/democratic_republic_of_the_congo.md">
+				Democratic Republic of the Congo
+			</a>
+		</td>
+		<td>
+			<code>Kinshasa</code> 
+			<code>Lubumbashi</code> 
+			<code>Mbuji-Mayi</code> 
+			<code>Kananga</code> 
+			<code>Kisangani</code> 
+			<code>Bukavu</code> 
+			<code>Goma</code> 
+			<code>Kikwit</code> 
+			<code>Mbandaka</code> 
+			<code>Matadi</code> 
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/croatia.md">
 				Croatia
 			</a>
