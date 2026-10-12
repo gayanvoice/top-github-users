@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg" alt="Panama">
 </a>
 
-The `public contributions` by users in Panama on `2026/6/21 1:46 AM UTC`. This list contains users from `Panama` and cities `Panama-city` `Tocumen`.
+The `public contributions` by users in Panama on `2026/10/12 4:03 AM UTC`. This list contains users from `Panama` and cities `Panama-city` `Tocumen`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `831 users`  in Panama. You need at least `1 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [Panama GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -109,7 +111,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jeremymcs">
 				<img src="https://avatars.githubusercontent.com/u/211150?s=72&u=7e2d2d4f10b7cbc89322d4bba0501fae8060d236&v=4" width="24" alt="Avatar of jeremymcs"> jeremymcs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jeremymcs">Copy rank badge</a><br/>
 			Jeremy McSpadden
 		</td>
 		<td>Flux Labs </td>
@@ -122,7 +124,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/kingg22">
 				<img src="https://avatars.githubusercontent.com/u/89825425?s=72&u=7dfe76d46cf6f800f77b1f48ba311301afaedf01&v=4" width="24" alt="Avatar of kingg22"> kingg22
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#kingg22">Copy rank badge</a><br/>
 			Rey
 		</td>
 		<td>No Company</td>
@@ -135,7 +137,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ElenaRevicheva">
 				<img src="https://avatars.githubusercontent.com/u/112330081?s=72&u=61810f064f50275ffcdc101179c72234e9dfa2d0&v=4" width="24" alt="Avatar of ElenaRevicheva"> ElenaRevicheva
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ElenaRevicheva">Copy rank badge</a><br/>
 			Elena
 		</td>
 		<td>Aideazz Start-up </td>
@@ -148,7 +150,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/gonzalezulises">
 				<img src="https://avatars.githubusercontent.com/u/7233165?s=72&u=f6c72df93159fd1235d5901e4a47ba7c5b454aad&v=4" width="24" alt="Avatar of gonzalezulises"> gonzalezulises
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#gonzalezulises">Copy rank badge</a><br/>
 			Ulises Gonzalez
 		</td>
 		<td>Rizoma </td>
@@ -161,7 +163,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Yizack">
 				<img src="https://avatars.githubusercontent.com/u/16264115?s=72&u=447f2bd5f88a4a5ed4d150c70a245d63d22fa165&v=4" width="24" alt="Avatar of Yizack"> Yizack
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Yizack">Copy rank badge</a><br/>
 			Yizack Rangel
 		</td>
 		<td>Mailchannels </td>
@@ -174,7 +176,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/nandocdev">
 				<img src="https://avatars.githubusercontent.com/u/18200511?s=72&u=68c0d119a6d9c53c305f8069983a6d1b7c410ced&v=4" width="24" alt="Avatar of nandocdev"> nandocdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#nandocdev">Copy rank badge</a><br/>
 			Fernando Castillo Valdés
 		</td>
 		<td>No Company</td>
@@ -187,7 +189,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ArkoSammy12">
 				<img src="https://avatars.githubusercontent.com/u/121594394?s=72&v=4" width="24" alt="Avatar of ArkoSammy12"> ArkoSammy12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ArkoSammy12">Copy rank badge</a><br/>
 			James Villarreal
 		</td>
 		<td>No Company</td>
@@ -200,7 +202,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/SampleBias">
 				<img src="https://avatars.githubusercontent.com/u/156245185?s=72&v=4" width="24" alt="Avatar of SampleBias"> SampleBias
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#SampleBias">Copy rank badge</a><br/>
 			S4MPL3BI4S
 		</td>
 		<td>Syndicate Laboratories </td>
@@ -213,7 +215,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/neithanmo">
 				<img src="https://avatars.githubusercontent.com/u/7524579?s=72&u=92ba8b4a5b4a9e648e62bb161ae10bb40cb3444b&v=4" width="24" alt="Avatar of neithanmo"> neithanmo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#neithanmo">Copy rank badge</a><br/>
 			Natanael Mojica
 		</td>
 		<td>Semiotic Ai </td>
@@ -226,7 +228,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ergofobe">
 				<img src="https://avatars.githubusercontent.com/u/5315024?s=72&u=92197aacda85ee0c630d271707748c8f47e8899f&v=4" width="24" alt="Avatar of ergofobe"> ergofobe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ergofobe">Copy rank badge</a><br/>
 			Jim Phillips
 		</td>
 		<td>Oberon Solutions </td>
@@ -239,7 +241,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ahmedrangel">
 				<img src="https://avatars.githubusercontent.com/u/50090595?s=72&u=a3d09185bd87e4654e9762838323a15575d849b8&v=4" width="24" alt="Avatar of ahmedrangel"> ahmedrangel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ahmedrangel">Copy rank badge</a><br/>
 			Ahmed Rangel
 		</td>
 		<td>Toyota | Ricardo Perez<br/>S.a.<br/></td>
@@ -252,7 +254,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/dsfaccini">
 				<img src="https://avatars.githubusercontent.com/u/64162682?s=72&u=28053eb4a78fe6ad1784bdca1281e473efa4d375&v=4" width="24" alt="Avatar of dsfaccini"> dsfaccini
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#dsfaccini">Copy rank badge</a><br/>
 			David SF
 		</td>
 		<td>Alecs </td>
@@ -265,7 +267,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/angelnereira">
 				<img src="https://avatars.githubusercontent.com/u/176702755?s=72&u=98be1756a75e97630d307ca677762fbb4bfbbf52&v=4" width="24" alt="Avatar of angelnereira"> angelnereira
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#angelnereira">Copy rank badge</a><br/>
 			Angel Nereira
 		</td>
 		<td>No Company</td>
@@ -278,7 +280,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/levieraf">
 				<img src="https://avatars.githubusercontent.com/u/2042699?s=72&u=4c92643632868624882de685017c3000998c5fc4&v=4" width="24" alt="Avatar of levieraf"> levieraf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#levieraf">Copy rank badge</a><br/>
 			Luis Viera
 		</td>
 		<td>No Company</td>
@@ -291,7 +293,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/quitmeyer">
 				<img src="https://avatars.githubusercontent.com/u/742627?s=72&u=399649a1dcae1ac190f8e9eaa31ab03b6c13701f&v=4" width="24" alt="Avatar of quitmeyer"> quitmeyer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#quitmeyer">Copy rank badge</a><br/>
 			Andrew Quitmeyer
 		</td>
 		<td>@digital-naturalism- </td>
@@ -304,7 +306,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/kelvinhe04">
 				<img src="https://avatars.githubusercontent.com/u/91310516?s=72&u=47782094269647c1a5edcf1671b087e5830d2dcc&v=4" width="24" alt="Avatar of kelvinhe04"> kelvinhe04
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#kelvinhe04">Copy rank badge</a><br/>
 			Kelvin He Wu
 		</td>
 		<td>No Company</td>
@@ -317,7 +319,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/IbarraSamuel">
 				<img src="https://avatars.githubusercontent.com/u/64639449?s=72&u=37f5f567d2eba4da6c8b9867eb2fcf2686669fa0&v=4" width="24" alt="Avatar of IbarraSamuel"> IbarraSamuel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#IbarraSamuel">Copy rank badge</a><br/>
 			Samuel Ibarra
 		</td>
 		<td>No Company</td>
@@ -330,7 +332,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jaimelias">
 				<img src="https://avatars.githubusercontent.com/u/782750?s=72&v=4" width="24" alt="Avatar of jaimelias"> jaimelias
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jaimelias">Copy rank badge</a><br/>
 			Jaimelías
 		</td>
 		<td>Jaimelías </td>
@@ -343,7 +345,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/linkmoises">
 				<img src="https://avatars.githubusercontent.com/u/1836456?s=72&u=8b4d482b4633775cfe38696cc612d76c976bf47d&v=4" width="24" alt="Avatar of linkmoises"> linkmoises
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#linkmoises">Copy rank badge</a><br/>
 			Moisés Serrano Samudio
 		</td>
 		<td>Rackmed </td>
@@ -356,7 +358,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/coredumped">
 				<img src="https://avatars.githubusercontent.com/u/53845?s=72&u=b28468f402c954b5d48d34099a14fccea2d1aebc&v=4" width="24" alt="Avatar of coredumped"> coredumped
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#coredumped">Copy rank badge</a><br/>
 			Juan V. Guerrero
 		</td>
 		<td>Oregon State University </td>
@@ -369,7 +371,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jjzcru">
 				<img src="https://avatars.githubusercontent.com/u/2231310?s=72&u=25114ec436ee544998283c739ce00b184f12e132&v=4" width="24" alt="Avatar of jjzcru"> jjzcru
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jjzcru">Copy rank badge</a><br/>
 			Jose J. Cruz
 		</td>
 		<td>@canvasflow </td>
@@ -382,7 +384,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/GreatDeveloper66">
 				<img src="https://avatars.githubusercontent.com/u/26236141?s=72&u=5c89a67003d6e43db696be97af7d82c0642f9611&v=4" width="24" alt="Avatar of GreatDeveloper66"> GreatDeveloper66
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#GreatDeveloper66">Copy rank badge</a><br/>
 			Adam Shaffer
 		</td>
 		<td>Self Employed </td>
@@ -395,7 +397,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/N0oCh1">
 				<img src="https://avatars.githubusercontent.com/u/110440573?s=72&u=bdb53d02d59de71310e79abd73a0a7e1aedde0f8&v=4" width="24" alt="Avatar of N0oCh1"> N0oCh1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#N0oCh1">Copy rank badge</a><br/>
 			Ruben Feng
 		</td>
 		<td>@paymesoft </td>
@@ -408,7 +410,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/luiscberrocal">
 				<img src="https://avatars.githubusercontent.com/u/976869?s=72&u=75b7404c91db65307584e4be627d8a18f5ecfe8a&v=4" width="24" alt="Avatar of luiscberrocal"> luiscberrocal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#luiscberrocal">Copy rank badge</a><br/>
 			Luis Carlos Berrocal
 		</td>
 		<td>Payjoy </td>
@@ -421,7 +423,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/cdonlan">
 				<img src="https://avatars.githubusercontent.com/u/6511266?s=72&u=f365f4a5111e051980ac5a97cd6e8e12e8293abc&v=4" width="24" alt="Avatar of cdonlan"> cdonlan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#cdonlan">Copy rank badge</a><br/>
 			Chris Donlan
 		</td>
 		<td>Anthropic </td>
@@ -434,7 +436,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jasonssdev">
 				<img src="https://avatars.githubusercontent.com/u/171509988?s=72&u=f631cc3e2ae444d1e83b16c22582acbdea4ab7c5&v=4" width="24" alt="Avatar of jasonssdev"> jasonssdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jasonssdev">Copy rank badge</a><br/>
 			Jason
 		</td>
 		<td>No Company</td>
@@ -447,7 +449,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Initsogar">
 				<img src="https://avatars.githubusercontent.com/u/1488641?s=72&u=54f911bfd8c77e85480aa09237b81fa635779729&v=4" width="24" alt="Avatar of Initsogar"> Initsogar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Initsogar">Copy rank badge</a><br/>
 			Rafael Agostini
 		</td>
 		<td>@automattic </td>
@@ -460,7 +462,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Quantumquirkz">
 				<img src="https://avatars.githubusercontent.com/u/124087234?s=72&u=4a8a1ad2887fe1271cbdbfbea7a46ff3d1f13041&v=4" width="24" alt="Avatar of Quantumquirkz"> Quantumquirkz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Quantumquirkz">Copy rank badge</a><br/>
 			Jhuomar Boskoll Quintero
 		</td>
 		<td>@blackcode </td>
@@ -473,7 +475,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/josephr04">
 				<img src="https://avatars.githubusercontent.com/u/158125760?s=72&u=408daa2ff3d59a0a7bdccf29b9def78cdc20ca1f&v=4" width="24" alt="Avatar of josephr04"> josephr04
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#josephr04">Copy rank badge</a><br/>
 			Joseph Rosas
 		</td>
 		<td>No Company</td>
@@ -486,7 +488,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ptyx507x">
 				<img src="https://avatars.githubusercontent.com/u/95775753?s=72&u=d1df7153885057f5af7d20af52706216b6a67ab5&v=4" width="24" alt="Avatar of ptyx507x"> ptyx507x
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ptyx507x">Copy rank badge</a><br/>
 			Miguel Escobar
 		</td>
 		<td>@microsoft </td>
@@ -499,7 +501,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/sh3rqxs">
 				<img src="https://avatars.githubusercontent.com/u/254769430?s=72&u=dc317cf4fffd21c5a27e64093eb39423ac63318f&v=4" width="24" alt="Avatar of sh3rqxs"> sh3rqxs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#sh3rqxs">Copy rank badge</a><br/>
 			shercodes
 		</td>
 		<td>No Company</td>
@@ -512,7 +514,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Commandtechno">
 				<img src="https://avatars.githubusercontent.com/u/68407783?s=72&u=4e04f5d642b050c49552c7043a887e6d42e06aa9&v=4" width="24" alt="Avatar of Commandtechno"> Commandtechno
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Commandtechno">Copy rank badge</a><br/>
 			Techno
 		</td>
 		<td>No Company</td>
@@ -525,7 +527,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/soynixonlopez">
 				<img src="https://avatars.githubusercontent.com/u/108183423?s=72&u=c36398dcf96d502a0905c49665db7f78b2b31f84&v=4" width="24" alt="Avatar of soynixonlopez"> soynixonlopez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#soynixonlopez">Copy rank badge</a><br/>
 			Nixon López
 		</td>
 		<td>Nixon López Services <br/></td>
@@ -538,7 +540,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Sanchex-22">
 				<img src="https://avatars.githubusercontent.com/u/84732279?s=72&u=042301ec9fa644d5e7fac823c1864a62e0f0b213&v=4" width="24" alt="Avatar of Sanchex-22"> Sanchex-22
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Sanchex-22">Copy rank badge</a><br/>
 			Carlos Sanchez
 		</td>
 		<td>No Company</td>
@@ -551,7 +553,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jaisonabdiel25">
 				<img src="https://avatars.githubusercontent.com/u/72420117?s=72&u=5965b6fb9ac5dca1bb77e38b2ea0c65b7de46a04&v=4" width="24" alt="Avatar of jaisonabdiel25"> jaisonabdiel25
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jaisonabdiel25">Copy rank badge</a><br/>
 			Jaison Palacio
 		</td>
 		<td>No Company</td>
@@ -564,7 +566,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Jcanotorr06">
 				<img src="https://avatars.githubusercontent.com/u/59259618?s=72&u=b4abf55d54640f25e7a2fb4dc2fc353aa878a73b&v=4" width="24" alt="Avatar of Jcanotorr06"> Jcanotorr06
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Jcanotorr06">Copy rank badge</a><br/>
 			Joseph Cano
 		</td>
 		<td>No Company</td>
@@ -577,7 +579,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/victorsdd01">
 				<img src="https://avatars.githubusercontent.com/u/61807238?s=72&u=8104adcd10bf4c98c46cdc6f774592ebc6d3add1&v=4" width="24" alt="Avatar of victorsdd01"> victorsdd01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#victorsdd01">Copy rank badge</a><br/>
 			Victor Gonzalez
 		</td>
 		<td>Intechideas </td>
@@ -590,7 +592,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/arookieds">
 				<img src="https://avatars.githubusercontent.com/u/12825084?s=72&u=f053d2da3bfd171e1f53fe491b31efa70da09d06&v=4" width="24" alt="Avatar of arookieds"> arookieds
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#arookieds">Copy rank badge</a><br/>
 			Lior Gefen
 		</td>
 		<td>@time-of-data  </td>
@@ -603,7 +605,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Tykillita">
 				<img src="https://avatars.githubusercontent.com/u/129893989?s=72&u=af12f0649f9f66c91a59e41df84b98fc4c185749&v=4" width="24" alt="Avatar of Tykillita"> Tykillita
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Tykillita">Copy rank badge</a><br/>
 			Rubén
 		</td>
 		<td>No Company</td>
@@ -616,7 +618,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/atomikigai">
 				<img src="https://avatars.githubusercontent.com/u/30026273?s=72&u=5961d2be97837cc6efa2e31819e8bbe92ce64464&v=4" width="24" alt="Avatar of atomikigai"> atomikigai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#atomikigai">Copy rank badge</a><br/>
 			Jostick Quiel
 		</td>
 		<td>The No Name Company<br/></td>
@@ -629,7 +631,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/bol507">
 				<img src="https://avatars.githubusercontent.com/u/19575466?s=72&u=66790dd6ebb3ef6965a0ffb0647d1a201d3a8e97&v=4" width="24" alt="Avatar of bol507"> bol507
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#bol507">Copy rank badge</a><br/>
 			Bolivar Delgado
 		</td>
 		<td>No Company</td>
@@ -642,7 +644,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Ricardo-Marques">
 				<img src="https://avatars.githubusercontent.com/u/9907599?s=72&u=fe9acb95c915931c34bad9e113ba5df43083f0a4&v=4" width="24" alt="Avatar of Ricardo-Marques"> Ricardo-Marques
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Ricardo-Marques">Copy rank badge</a><br/>
 			Ricardo "Meida" Marques
 		</td>
 		<td>No Company</td>
@@ -655,7 +657,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/hooperits">
 				<img src="https://avatars.githubusercontent.com/u/70923595?s=72&u=6617f58c83f338cd970fff33fcdb23447d7d61b4&v=4" width="24" alt="Avatar of hooperits"> hooperits
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#hooperits">Copy rank badge</a><br/>
 			HOOPERITS
 		</td>
 		<td>@hooperits </td>
@@ -668,7 +670,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/BrandynHamilton">
 				<img src="https://avatars.githubusercontent.com/u/86081782?s=72&u=ff2831999e910bd67f97a654190ad88b2369d32c&v=4" width="24" alt="Avatar of BrandynHamilton"> BrandynHamilton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#BrandynHamilton">Copy rank badge</a><br/>
 			Brandyn Hamilton
 		</td>
 		<td>No Company</td>
@@ -681,7 +683,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/patriciavong">
 				<img src="https://avatars.githubusercontent.com/u/46908256?s=72&u=92c107446f500d69e237409995bb8f3870cdda36&v=4" width="24" alt="Avatar of patriciavong"> patriciavong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#patriciavong">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -694,7 +696,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/3UR12">
 				<img src="https://avatars.githubusercontent.com/u/171286806?s=72&u=4af377ca93cad48fb77154f9e0094a4a1000d78f&v=4" width="24" alt="Avatar of 3UR12"> 3UR12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#3UR12">Copy rank badge</a><br/>
 			Euris J. Rodríguez V.
 		</td>
 		<td>No Company</td>
@@ -707,7 +709,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/moisnx">
 				<img src="https://avatars.githubusercontent.com/u/35237160?s=72&u=c7a4539d96f78ba06f32cc15fbc98aa7ea524a48&v=4" width="24" alt="Avatar of moisnx"> moisnx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#moisnx">Copy rank badge</a><br/>
 			Moi
 		</td>
 		<td>No Company</td>
@@ -720,7 +722,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ruben-cxtx">
 				<img src="https://avatars.githubusercontent.com/u/71348561?s=72&u=85276635799bf1a10dc6c0afae1a28cbf2ef408c&v=4" width="24" alt="Avatar of ruben-cxtx"> ruben-cxtx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ruben-cxtx">Copy rank badge</a><br/>
 			Rubén Juárez
 		</td>
 		<td>Copa Airlines </td>
@@ -733,7 +735,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/antoine-berger">
 				<img src="https://avatars.githubusercontent.com/u/64917674?s=72&u=f377da07784836cb201b10ad4fc491fda97aa9f9&v=4" width="24" alt="Avatar of antoine-berger"> antoine-berger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#antoine-berger">Copy rank badge</a><br/>
 			Antoine Berger
 		</td>
 		<td>@trackit </td>
@@ -746,7 +748,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Joalesf">
 				<img src="https://avatars.githubusercontent.com/u/227924688?s=72&u=c13c70484a86fba0d25e59ed37e6e887fee4163b&v=4" width="24" alt="Avatar of Joalesf"> Joalesf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Joalesf">Copy rank badge</a><br/>
 			José Sánchez
 		</td>
 		<td>No Company</td>
@@ -759,7 +761,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/muniter">
 				<img src="https://avatars.githubusercontent.com/u/9699804?s=72&u=2a89c9ea38547a6ae832241299a89b76ef2af384&v=4" width="24" alt="Avatar of muniter"> muniter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#muniter">Copy rank badge</a><br/>
 			Javier Lopez
 		</td>
 		<td>No Company</td>
@@ -772,7 +774,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jbrodriguez">
 				<img src="https://avatars.githubusercontent.com/u/1305422?s=72&u=dae7438561909bda3e734837cf245fe7012c4f47&v=4" width="24" alt="Avatar of jbrodriguez"> jbrodriguez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jbrodriguez">Copy rank badge</a><br/>
 			Juan B. Rodriguez
 		</td>
 		<td>No Company</td>
@@ -785,7 +787,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/carroyo5">
 				<img src="https://avatars.githubusercontent.com/u/86899303?s=72&u=97994c443307d8374bb1c743d2ef857b1739b84b&v=4" width="24" alt="Avatar of carroyo5"> carroyo5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#carroyo5">Copy rank badge</a><br/>
 			Cristhian Arroyo
 		</td>
 		<td>Towerbank International Inc. </td>
@@ -798,7 +800,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ShockedRose">
 				<img src="https://avatars.githubusercontent.com/u/43595145?s=72&u=ad4875a92da78b4e328b5d75217a0cfc93f5cba4&v=4" width="24" alt="Avatar of ShockedRose"> ShockedRose
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ShockedRose">Copy rank badge</a><br/>
 			Miguel R.
 		</td>
 		<td>No Company</td>
@@ -811,7 +813,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/capArturo507">
 				<img src="https://avatars.githubusercontent.com/u/9748621?s=72&u=2299bef0709090b58555ec1daa6f1c113041a263&v=4" width="24" alt="Avatar of capArturo507"> capArturo507
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#capArturo507">Copy rank badge</a><br/>
 			Cesar Arturo
 		</td>
 		<td>Copa Airlines </td>
@@ -824,7 +826,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/nachomartinezl">
 				<img src="https://avatars.githubusercontent.com/u/74192139?s=72&u=91fa126aa625febd91bf0ac3751b62abddefa144&v=4" width="24" alt="Avatar of nachomartinezl"> nachomartinezl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#nachomartinezl">Copy rank badge</a><br/>
 			Ignacio Martinez Lombardero
 		</td>
 		<td>No Company</td>
@@ -837,7 +839,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Dandush03">
 				<img src="https://avatars.githubusercontent.com/u/51087936?s=72&u=e4c61f36c4893e57902a2daf4aa260abd4c85504&v=4" width="24" alt="Avatar of Dandush03"> Dandush03
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Dandush03">Copy rank badge</a><br/>
 			Daniel Laloush
 		</td>
 		<td>Freelance </td>
@@ -850,7 +852,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/gluneau">
 				<img src="https://avatars.githubusercontent.com/u/2903505?s=72&u=093a790c3e6f20bafebd3103dd8805b4f7c11aec&v=4" width="24" alt="Avatar of gluneau"> gluneau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#gluneau">Copy rank badge</a><br/>
 			Gregory Luneau
 		</td>
 		<td>No Company</td>
@@ -863,7 +865,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jerry-whoami">
 				<img src="https://avatars.githubusercontent.com/u/95326190?s=72&v=4" width="24" alt="Avatar of jerry-whoami"> jerry-whoami
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jerry-whoami">Copy rank badge</a><br/>
 			Jeremiah Kurmaty
 		</td>
 		<td>Technological University Of Panama<br/></td>
@@ -876,7 +878,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Tsarri">
 				<img src="https://avatars.githubusercontent.com/u/104706756?s=72&u=f7b963c8f440e43589ffc1c8fe43df56aa861568&v=4" width="24" alt="Avatar of Tsarri"> Tsarri
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Tsarri">Copy rank badge</a><br/>
 			Teo Irisarri
 		</td>
 		<td>No Company</td>
@@ -889,7 +891,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/notSoEliel">
 				<img src="https://avatars.githubusercontent.com/u/73372783?s=72&u=a689c5971b713c953b3e3d719a84e4c56ddc8f25&v=4" width="24" alt="Avatar of notSoEliel"> notSoEliel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#notSoEliel">Copy rank badge</a><br/>
 			Eliel García
 		</td>
 		<td>No Company</td>
@@ -902,7 +904,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/yohangaitan">
 				<img src="https://avatars.githubusercontent.com/u/189505887?s=72&u=bf07279bedb780fb59a7f81fe56316f0fc99945d&v=4" width="24" alt="Avatar of yohangaitan"> yohangaitan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#yohangaitan">Copy rank badge</a><br/>
 			Yohan Gaitan
 		</td>
 		<td>No Company</td>
@@ -915,7 +917,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/erinmdillon">
 				<img src="https://avatars.githubusercontent.com/u/28285818?s=72&u=9d463d3d50a9f416a44d3a44f4fe4971529e2130&v=4" width="24" alt="Avatar of erinmdillon"> erinmdillon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#erinmdillon">Copy rank badge</a><br/>
 			Erin Dillon
 		</td>
 		<td>No Company</td>
@@ -928,7 +930,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/alexlatam">
 				<img src="https://avatars.githubusercontent.com/u/38260647?s=72&u=d18ad6d1e59a4e16d7864b21da8234963ab4f967&v=4" width="24" alt="Avatar of alexlatam"> alexlatam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#alexlatam">Copy rank badge</a><br/>
 			Alexis Montilla
 		</td>
 		<td>Collars Inc </td>
@@ -941,7 +943,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/benlazaro">
 				<img src="https://avatars.githubusercontent.com/u/1410588?s=72&u=89cfa9ac0595af26a82ddf0417ade6114fb906c7&v=4" width="24" alt="Avatar of benlazaro"> benlazaro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#benlazaro">Copy rank badge</a><br/>
 			Ben Lazaro
 		</td>
 		<td>Masimo </td>
@@ -954,7 +956,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/kieviceb">
 				<img src="https://avatars.githubusercontent.com/u/173707213?s=72&u=a599e54611d36ba9eefafd910f2c6855c47a505f&v=4" width="24" alt="Avatar of kieviceb"> kieviceb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#kieviceb">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -967,7 +969,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jeann2013">
 				<img src="https://avatars.githubusercontent.com/u/3299025?s=72&u=91d02ac3f206dc71f3a4195df5ae7d2621ea6926&v=4" width="24" alt="Avatar of jeann2013"> jeann2013
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jeann2013">Copy rank badge</a><br/>
 			Jean Carlos Nuñez
 		</td>
 		<td>Jean Carlos Nuñez </td>
@@ -980,7 +982,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/AbdielP">
 				<img src="https://avatars.githubusercontent.com/u/60860410?s=72&u=8cd2e25335f9b0656547a2f7aefad4fdc1dfc7a6&v=4" width="24" alt="Avatar of AbdielP"> AbdielP
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#AbdielP">Copy rank badge</a><br/>
 			Abdiel Pinzón Carrera
 		</td>
 		<td>No Company</td>
@@ -993,7 +995,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/enderyun">
 				<img src="https://avatars.githubusercontent.com/u/167573206?s=72&u=496a8748bc0fda173643cbc33a3a6f8517096ed2&v=4" width="24" alt="Avatar of enderyun"> enderyun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#enderyun">Copy rank badge</a><br/>
 			Chris-Chris
 		</td>
 		<td>No Company</td>
@@ -1006,7 +1008,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/razielnavarro">
 				<img src="https://avatars.githubusercontent.com/u/75914116?s=72&u=1e2055ad8dc034457f9673aec02a21072f85cece&v=4" width="24" alt="Avatar of razielnavarro"> razielnavarro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#razielnavarro">Copy rank badge</a><br/>
 			Raziel
 		</td>
 		<td>No Company</td>
@@ -1019,7 +1021,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jaosber">
 				<img src="https://avatars.githubusercontent.com/u/65511374?s=72&u=2dc1091bac3197946895517edfae785e5afd5048&v=4" width="24" alt="Avatar of jaosber"> jaosber
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jaosber">Copy rank badge</a><br/>
 			Jaime B.
 		</td>
 		<td>No Company</td>
@@ -1032,7 +1034,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/aodaru">
 				<img src="https://avatars.githubusercontent.com/u/942151?s=72&u=3849e4449cb8e2d2b934f5a3ad704cf4eb6c8404&v=4" width="24" alt="Avatar of aodaru"> aodaru
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#aodaru">Copy rank badge</a><br/>
 			Adal García
 		</td>
 		<td>No Company</td>
@@ -1045,7 +1047,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Angelcmp">
 				<img src="https://avatars.githubusercontent.com/u/60658277?s=72&u=ce1b31be27910effc76ac2810017873e5d7ebd4c&v=4" width="24" alt="Avatar of Angelcmp"> Angelcmp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Angelcmp">Copy rank badge</a><br/>
 			Angel
 		</td>
 		<td>No Company</td>
@@ -1058,7 +1060,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/vizctas">
 				<img src="https://avatars.githubusercontent.com/u/38738081?s=72&u=6bc5687ec60c27e29155e31cda527dfa2c6c59a9&v=4" width="24" alt="Avatar of vizctas"> vizctas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#vizctas">Copy rank badge</a><br/>
 			Joshua Gomez P.
 		</td>
 		<td>No Company</td>
@@ -1071,7 +1073,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/codewithomarm">
 				<img src="https://avatars.githubusercontent.com/u/156161605?s=72&u=76d9b56a9e756895182803265d741d7e221c1a6b&v=4" width="24" alt="Avatar of codewithomarm"> codewithomarm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#codewithomarm">Copy rank badge</a><br/>
 			Omar David Montoya Gomez
 		</td>
 		<td>No Company</td>
@@ -1084,7 +1086,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/a3rxander">
 				<img src="https://avatars.githubusercontent.com/u/5152323?s=72&u=baa87dcc1c42e341f279e90a085116b4bb7f4fac&v=4" width="24" alt="Avatar of a3rxander"> a3rxander
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#a3rxander">Copy rank badge</a><br/>
 			Alexander A
 		</td>
 		<td>Tigo </td>
@@ -1097,7 +1099,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/marweb">
 				<img src="https://avatars.githubusercontent.com/u/562682?s=72&v=4" width="24" alt="Avatar of marweb"> marweb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#marweb">Copy rank badge</a><br/>
 			Mario Rios
 		</td>
 		<td>No Company</td>
@@ -1110,7 +1112,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/alexandermorales-dev">
 				<img src="https://avatars.githubusercontent.com/u/63633536?s=72&u=4cbdf6181c864705b1657ec36d7ad84a764a62a7&v=4" width="24" alt="Avatar of alexandermorales-dev"> alexandermorales-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#alexandermorales-dev">Copy rank badge</a><br/>
 			Alexander Morales
 		</td>
 		<td>Full-stack Software Developer </td>
@@ -1123,7 +1125,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/sergiobarria">
 				<img src="https://avatars.githubusercontent.com/u/72055343?s=72&u=5c33d5ba72dfe6fe1779345c941f3978a27e6de7&v=4" width="24" alt="Avatar of sergiobarria"> sergiobarria
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#sergiobarria">Copy rank badge</a><br/>
 			Sergio Barria
 		</td>
 		<td>Oceans Code Experts </td>
@@ -1136,7 +1138,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Iardo">
 				<img src="https://avatars.githubusercontent.com/u/6209460?s=72&u=8f848928f67d811aa44c0fb3515910551865533c&v=4" width="24" alt="Avatar of Iardo"> Iardo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Iardo">Copy rank badge</a><br/>
 			Ivan Ramos
 		</td>
 		<td>No Company</td>
@@ -1149,7 +1151,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/christhoval06">
 				<img src="https://avatars.githubusercontent.com/u/7133189?s=72&u=a13b565600d716a1d231eafc0d2be0336a619934&v=4" width="24" alt="Avatar of christhoval06"> christhoval06
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#christhoval06">Copy rank badge</a><br/>
 			Christhoval Barba
 		</td>
 		<td>Gnd Labs </td>
@@ -1162,7 +1164,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/bryanjtc">
 				<img src="https://avatars.githubusercontent.com/u/49354825?s=72&u=6fc27a236a5c24411eff3a5233e8563ffa745ed3&v=4" width="24" alt="Avatar of bryanjtc"> bryanjtc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#bryanjtc">Copy rank badge</a><br/>
 			Bryan Thomas
 		</td>
 		<td>@paymesoft  </td>
@@ -1175,7 +1177,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/aguirre-jes">
 				<img src="https://avatars.githubusercontent.com/u/66501518?s=72&u=1fe2e0dfb9cb20957e4f991f3d807b14b58f4693&v=4" width="24" alt="Avatar of aguirre-jes"> aguirre-jes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#aguirre-jes">Copy rank badge</a><br/>
 			Jesús Aguirre
 		</td>
 		<td>Copa Airlines </td>
@@ -1188,7 +1190,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/mdnelles">
 				<img src="https://avatars.githubusercontent.com/u/26289863?s=72&u=b77e793df10a7c22b0b0187eaa5451b293f9d606&v=4" width="24" alt="Avatar of mdnelles"> mdnelles
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#mdnelles">Copy rank badge</a><br/>
 			Nelles
 		</td>
 		<td>No Company</td>
@@ -1201,7 +1203,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Ginazai">
 				<img src="https://avatars.githubusercontent.com/u/67808421?s=72&u=a94e76765f15d0413af51f8802732076b70a1cce&v=4" width="24" alt="Avatar of Ginazai"> Ginazai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Ginazai">Copy rank badge</a><br/>
 			Rafael Caballero
 		</td>
 		<td>No Company</td>
@@ -1214,7 +1216,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/CarlosParis7">
 				<img src="https://avatars.githubusercontent.com/u/235901934?s=72&u=e0e5c82e68948834969faaf9a5328c7f3d1e6706&v=4" width="24" alt="Avatar of CarlosParis7"> CarlosParis7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#CarlosParis7">Copy rank badge</a><br/>
 			Carlos E. Paris
 		</td>
 		<td>Byte Labs </td>
@@ -1227,7 +1229,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/maracosta17">
 				<img src="https://avatars.githubusercontent.com/u/206169566?s=72&u=57726949aa7de1aadefef9c9383498d77731446c&v=4" width="24" alt="Avatar of maracosta17"> maracosta17
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#maracosta17">Copy rank badge</a><br/>
 			Maryorie Maryell Viluce
 		</td>
 		<td>Universidad Latina De Panama<br/></td>
@@ -1240,7 +1242,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/hp3icc">
 				<img src="https://avatars.githubusercontent.com/u/49044505?s=72&u=ba120c492e3534a6d7d7f1c98285696f0b7006da&v=4" width="24" alt="Avatar of hp3icc"> hp3icc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#hp3icc">Copy rank badge</a><br/>
 			Esteban Mackay Q.
 		</td>
 		<td>No Company</td>
@@ -1253,7 +1255,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/bueno12223">
 				<img src="https://avatars.githubusercontent.com/u/47345579?s=72&u=4ee3245ee363eb90735b30d395535e2f85bc8649&v=4" width="24" alt="Avatar of bueno12223"> bueno12223
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#bueno12223">Copy rank badge</a><br/>
 			jesus berrio
 		</td>
 		<td>No Company</td>
@@ -1266,7 +1268,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/MantisWare">
 				<img src="https://avatars.githubusercontent.com/u/5867336?s=72&u=3e23e4da2aa22b98a73bffc629422aa91e2600ac&v=4" width="24" alt="Avatar of MantisWare"> MantisWare
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#MantisWare">Copy rank badge</a><br/>
 			Waldo Marais
 		</td>
 		<td>Mantisware </td>
@@ -1279,7 +1281,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/JahirCDev">
 				<img src="https://avatars.githubusercontent.com/u/166346937?s=72&u=1cab7ba16139c0c838bfefa369f0b15dcaa6a622&v=4" width="24" alt="Avatar of JahirCDev"> JahirCDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#JahirCDev">Copy rank badge</a><br/>
 			Jahir Campos
 		</td>
 		<td>No Company</td>
@@ -1292,7 +1294,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ficazam">
 				<img src="https://avatars.githubusercontent.com/u/62767203?s=72&u=ed8f7353f5efc5d476668dd55d9a4d2beb830792&v=4" width="24" alt="Avatar of ficazam"> ficazam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ficazam">Copy rank badge</a><br/>
 			Felipe Icaza
 		</td>
 		<td>No Company</td>
@@ -1305,7 +1307,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/bl4cksku11">
 				<img src="https://avatars.githubusercontent.com/u/81886705?s=72&u=91c9f46684430485d7281a7e004c1d26a1fda7cf&v=4" width="24" alt="Avatar of bl4cksku11"> bl4cksku11
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#bl4cksku11">Copy rank badge</a><br/>
 			Bl4ckSku11
 		</td>
 		<td>Zero Trust Offsec </td>
@@ -1318,7 +1320,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/hroddev">
 				<img src="https://avatars.githubusercontent.com/u/78382541?s=72&u=75023007334e09986acb44879b6a83231dd4d876&v=4" width="24" alt="Avatar of hroddev"> hroddev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#hroddev">Copy rank badge</a><br/>
 			Hector Rodriguez
 		</td>
 		<td>Helix Cloud </td>
@@ -1331,7 +1333,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/martingom4">
 				<img src="https://avatars.githubusercontent.com/u/88672473?s=72&u=fdb77b3e32ae7adff5c6aa58b5fc764255507a82&v=4" width="24" alt="Avatar of martingom4"> martingom4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#martingom4">Copy rank badge</a><br/>
 			Martin Gomez 
 		</td>
 		<td>No Company</td>
@@ -1344,7 +1346,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ConnorDarghaoui">
 				<img src="https://avatars.githubusercontent.com/u/24283500?s=72&u=a78bbb26ae6e7ae963bbe2263886a77210bc2773&v=4" width="24" alt="Avatar of ConnorDarghaoui"> ConnorDarghaoui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ConnorDarghaoui">Copy rank badge</a><br/>
 			Lucas Boniche
 		</td>
 		<td>No Company</td>
@@ -1357,7 +1359,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/lhowardnet">
 				<img src="https://avatars.githubusercontent.com/u/62311324?s=72&u=21e3e9444fdfb7c70408355a77270a5331ea2914&v=4" width="24" alt="Avatar of lhowardnet"> lhowardnet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#lhowardnet">Copy rank badge</a><br/>
 			Luis Howard
 		</td>
 		<td>Redsoft </td>
@@ -1370,7 +1372,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/hermesvillarreal">
 				<img src="https://avatars.githubusercontent.com/u/80530073?s=72&u=5cb1a2ea8d3a56bc7fc593ab68eb1d2af6988fe7&v=4" width="24" alt="Avatar of hermesvillarreal"> hermesvillarreal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#hermesvillarreal">Copy rank badge</a><br/>
 			Hermes Villarreal
 		</td>
 		<td>No Company</td>
@@ -1383,7 +1385,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/d3layd">
 				<img src="https://avatars.githubusercontent.com/u/42395324?s=72&u=925a1902833f2b4ff2558a56914547b91becd3c1&v=4" width="24" alt="Avatar of d3layd"> d3layd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#d3layd">Copy rank badge</a><br/>
 			Dennis Layden
 		</td>
 		<td>No Company</td>
@@ -1396,7 +1398,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/abdielLopezpy">
 				<img src="https://avatars.githubusercontent.com/u/75334241?s=72&u=68eeca28cb8f52af5312df310c5a7874a8263a1a&v=4" width="24" alt="Avatar of abdielLopezpy"> abdielLopezpy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#abdielLopezpy">Copy rank badge</a><br/>
 			abdielLopez.py
 		</td>
 		<td>No Company</td>
@@ -1409,7 +1411,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Yusuf007R">
 				<img src="https://avatars.githubusercontent.com/u/45109516?s=72&u=46efff2fae93854383b217b73b45b84e635661f7&v=4" width="24" alt="Avatar of Yusuf007R"> Yusuf007R
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Yusuf007R">Copy rank badge</a><br/>
 			Yusuf Rawat
 		</td>
 		<td>Pragma S.a </td>
@@ -1422,7 +1424,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/roarweb">
 				<img src="https://avatars.githubusercontent.com/u/9721968?s=72&u=f558cc7465100b66f1c9b65d157c19088776dc6a&v=4" width="24" alt="Avatar of roarweb"> roarweb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#roarweb">Copy rank badge</a><br/>
 			Oliver Alexander
 		</td>
 		<td>Roar Web Development </td>
@@ -1435,7 +1437,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/zachwinter">
 				<img src="https://avatars.githubusercontent.com/u/636595?s=72&u=dadde25d25b1c9321a0ce1cf3642ddf26d897077&v=4" width="24" alt="Avatar of zachwinter"> zachwinter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#zachwinter">Copy rank badge</a><br/>
 			Zach Winter
 		</td>
 		<td>No Company</td>
@@ -1448,7 +1450,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Eynarr">
 				<img src="https://avatars.githubusercontent.com/u/135076865?s=72&u=844ce4e48bf2345626a6e868b558cb51c5dbbc8a&v=4" width="24" alt="Avatar of Eynarr"> Eynarr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Eynarr">Copy rank badge</a><br/>
 			Eynar Morales
 		</td>
 		<td>No Company</td>
@@ -1461,7 +1463,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/HugoAquinoNavarrete">
 				<img src="https://avatars.githubusercontent.com/u/46193358?s=72&u=6879bdc1f42cab376d5398ab2268e6635bd5095c&v=4" width="24" alt="Avatar of HugoAquinoNavarrete"> HugoAquinoNavarrete
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#HugoAquinoNavarrete">Copy rank badge</a><br/>
 			Hugo Aquino
 		</td>
 		<td>No Company</td>
@@ -1474,7 +1476,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ramxv">
 				<img src="https://avatars.githubusercontent.com/u/121623609?s=72&u=61e29370be873a3ec126f405b571be743641d495&v=4" width="24" alt="Avatar of ramxv"> ramxv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ramxv">Copy rank badge</a><br/>
 			Ram Singh
 		</td>
 		<td>No Company</td>
@@ -1487,7 +1489,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Perfekz">
 				<img src="https://avatars.githubusercontent.com/u/152131985?s=72&v=4" width="24" alt="Avatar of Perfekz"> Perfekz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Perfekz">Copy rank badge</a><br/>
 			Erick Hou
 		</td>
 		<td>No Company</td>
@@ -1500,7 +1502,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/vorluno">
 				<img src="https://avatars.githubusercontent.com/u/185805002?s=72&u=9832aac759c79cb4eda8d432a4bf522103f0f2ba&v=4" width="24" alt="Avatar of vorluno"> vorluno
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#vorluno">Copy rank badge</a><br/>
 			josé
 		</td>
 		<td>Vorluno </td>
@@ -1513,7 +1515,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Claurt07">
 				<img src="https://avatars.githubusercontent.com/u/77023236?s=72&u=1c0cbfc7d208826baf8ce81b3e66638c2b669add&v=4" width="24" alt="Avatar of Claurt07"> Claurt07
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Claurt07">Copy rank badge</a><br/>
 			Claudio de los Reyes
 		</td>
 		<td>Hotosm </td>
@@ -1526,7 +1528,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Gab1nh0">
 				<img src="https://avatars.githubusercontent.com/u/131487087?s=72&u=fad708d988f812d72ee64bb4a8e30aad7d2c200d&v=4" width="24" alt="Avatar of Gab1nh0"> Gab1nh0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Gab1nh0">Copy rank badge</a><br/>
 			Gabriel Martínez
 		</td>
 		<td>No Company</td>
@@ -1539,7 +1541,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/GP-schacht">
 				<img src="https://avatars.githubusercontent.com/u/118639778?s=72&u=cfbbc5423b1d1a6deefed3b00a1396849fbd94b8&v=4" width="24" alt="Avatar of GP-schacht"> GP-schacht
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#GP-schacht">Copy rank badge</a><br/>
 			Gael 
 		</td>
 		<td>Workspacegaelp </td>
@@ -1552,7 +1554,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/gabriel-del13">
 				<img src="https://avatars.githubusercontent.com/u/70821695?s=72&u=ee190f02147044fd7108b0b2371ef204d8f3b0d9&v=4" width="24" alt="Avatar of gabriel-del13"> gabriel-del13
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#gabriel-del13">Copy rank badge</a><br/>
 			Gabriel
 		</td>
 		<td>No Company</td>
@@ -1565,7 +1567,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/hmullerlandau">
 				<img src="https://avatars.githubusercontent.com/u/15363767?s=72&u=f558fd719a90f0265e6c768a7744240252ff87aa&v=4" width="24" alt="Avatar of hmullerlandau"> hmullerlandau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#hmullerlandau">Copy rank badge</a><br/>
 			Helene C. Muller-Landau
 		</td>
 		<td>Smithsonian Tropical Research Institute<br/></td>
@@ -1578,7 +1580,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Reelez">
 				<img src="https://avatars.githubusercontent.com/u/131429441?s=72&u=401f6987b746a5fd6e4258fc92ba0e0ebb849592&v=4" width="24" alt="Avatar of Reelez"> Reelez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Reelez">Copy rank badge</a><br/>
 			Omar Jaramillo
 		</td>
 		<td>No Company</td>
@@ -1591,7 +1593,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/rolmos1990">
 				<img src="https://avatars.githubusercontent.com/u/20683623?s=72&u=3a85ae1963410a51704405a689662faf682f9d93&v=4" width="24" alt="Avatar of rolmos1990"> rolmos1990
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#rolmos1990">Copy rank badge</a><br/>
 			Ramon Olmos
 		</td>
 		<td>Goaly Inc </td>
@@ -1604,7 +1606,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/mark-onyschuk">
 				<img src="https://avatars.githubusercontent.com/u/118382182?s=72&u=99a79d3c58e39190870a9ef3f4296477ccbfc70d&v=4" width="24" alt="Avatar of mark-onyschuk"> mark-onyschuk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#mark-onyschuk">Copy rank badge</a><br/>
 			Mark Onyschuk
 		</td>
 		<td>@dimension-north-inc  </td>
@@ -1617,7 +1619,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/asolenzal">
 				<img src="https://avatars.githubusercontent.com/u/4202755?s=72&u=7c48ad7c7075e1a1ae076db0ab0dc588e7fdfd67&v=4" width="24" alt="Avatar of asolenzal"> asolenzal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#asolenzal">Copy rank badge</a><br/>
 			Andres Solenzal
 		</td>
 		<td>No Company</td>
@@ -1630,7 +1632,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/wuzupKev">
 				<img src="https://avatars.githubusercontent.com/u/103788196?s=72&u=ee9819e705fdc2e94bafcc1638615a891edadc20&v=4" width="24" alt="Avatar of wuzupKev"> wuzupKev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#wuzupKev">Copy rank badge</a><br/>
 			Kevin Chavarría
 		</td>
 		<td>No Company</td>
@@ -1643,7 +1645,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/amartinezdev1">
 				<img src="https://avatars.githubusercontent.com/u/128103072?s=72&v=4" width="24" alt="Avatar of amartinezdev1"> amartinezdev1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#amartinezdev1">Copy rank badge</a><br/>
 			Angel Martinez
 		</td>
 		<td>University Of Panama </td>
@@ -1656,7 +1658,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Rchungye">
 				<img src="https://avatars.githubusercontent.com/u/118088700?s=72&u=396723d81aaccd4843ba51d999b943f66f00054b&v=4" width="24" alt="Avatar of Rchungye"> Rchungye
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Rchungye">Copy rank badge</a><br/>
 			Rafael Chung
 		</td>
 		<td>No Company</td>
@@ -1669,7 +1671,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Slaif3r">
 				<img src="https://avatars.githubusercontent.com/u/17076764?s=72&v=4" width="24" alt="Avatar of Slaif3r"> Slaif3r
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Slaif3r">Copy rank badge</a><br/>
 			Aristides A. Morcillo
 		</td>
 		<td>No Company</td>
@@ -1682,7 +1684,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Klowsx">
 				<img src="https://avatars.githubusercontent.com/u/103051804?s=72&u=78a1af5417644a18c85f06c6857fe20b1203e806&v=4" width="24" alt="Avatar of Klowsx"> Klowsx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Klowsx">Copy rank badge</a><br/>
 			Javier Hernandez
 		</td>
 		<td>No Company</td>
@@ -1695,7 +1697,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jonny0702">
 				<img src="https://avatars.githubusercontent.com/u/72591032?s=72&u=5a69a920d67d03e10d9c3d86981f12f1f1094beb&v=4" width="24" alt="Avatar of jonny0702"> jonny0702
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jonny0702">Copy rank badge</a><br/>
 			jonathan vergara
 		</td>
 		<td>Banco General </td>
@@ -1708,7 +1710,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ssolunna">
 				<img src="https://avatars.githubusercontent.com/u/65374099?s=72&u=f61a310e43fe8fd69b1394f5828eda80a01090f5&v=4" width="24" alt="Avatar of ssolunna"> ssolunna
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ssolunna">Copy rank badge</a><br/>
 			Selena Solunna
 		</td>
 		<td>No Company</td>
@@ -1721,7 +1723,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/paolocostanzo">
 				<img src="https://avatars.githubusercontent.com/u/225715812?s=72&u=6e9a273c4c0a771e899c642b097bc5dc9ead13f8&v=4" width="24" alt="Avatar of paolocostanzo"> paolocostanzo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#paolocostanzo">Copy rank badge</a><br/>
 			Paolo Costanzo
 		</td>
 		<td>Code - Research &<br/>Technological<br/>Development<br/></td>
@@ -1734,7 +1736,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/JuanPabloGaviria">
 				<img src="https://avatars.githubusercontent.com/u/19624912?s=72&u=2bed2cebf8d1c71beb3dc601cafed5731307bf1a&v=4" width="24" alt="Avatar of JuanPabloGaviria"> JuanPabloGaviria
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#JuanPabloGaviria">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1747,7 +1749,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/carloshinojosallontop">
 				<img src="https://avatars.githubusercontent.com/u/169203325?s=72&u=0e414e5d56ba7df9aad97c24a447193411b2ce34&v=4" width="24" alt="Avatar of carloshinojosallontop"> carloshinojosallontop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#carloshinojosallontop">Copy rank badge</a><br/>
 			Carlos Fabian Hinojosa
 		</td>
 		<td>No Company</td>
@@ -1760,7 +1762,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ligmaster3">
 				<img src="https://avatars.githubusercontent.com/u/136215596?s=72&u=02a41b35aee7c972e2d55db640fc1503c0fa7dc3&v=4" width="24" alt="Avatar of ligmaster3"> ligmaster3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ligmaster3">Copy rank badge</a><br/>
 			Enier Arauz
 		</td>
 		<td>No Company</td>
@@ -1773,7 +1775,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/CristianAsprilla">
 				<img src="https://avatars.githubusercontent.com/u/30159218?s=72&u=cea8648e682d8591ae61de925b2c49fb942fa0a6&v=4" width="24" alt="Avatar of CristianAsprilla"> CristianAsprilla
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#CristianAsprilla">Copy rank badge</a><br/>
 			Cristian Asprilla
 		</td>
 		<td>Ontario Tech University </td>
@@ -1786,7 +1788,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/juanra">
 				<img src="https://avatars.githubusercontent.com/u/112196?s=72&u=a40afff618a000e8cde6cac92620ac37e73840a2&v=4" width="24" alt="Avatar of juanra"> juanra
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#juanra">Copy rank badge</a><br/>
 			Juanra Núñez
 		</td>
 		<td>No Company</td>
@@ -1799,7 +1801,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Gi0Gio">
 				<img src="https://avatars.githubusercontent.com/u/93150198?s=72&u=1e795e2c51dba73314cefed9468ac9c9859572a3&v=4" width="24" alt="Avatar of Gi0Gio"> Gi0Gio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Gi0Gio">Copy rank badge</a><br/>
 			Giovanny Jované
 		</td>
 		<td>Geshk </td>
@@ -1812,7 +1814,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/AbelardoCarcamo">
 				<img src="https://avatars.githubusercontent.com/u/164315712?s=72&u=0bded77534c5fc653cb745571fbdaf9eca3241d5&v=4" width="24" alt="Avatar of AbelardoCarcamo"> AbelardoCarcamo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#AbelardoCarcamo">Copy rank badge</a><br/>
 			Abelardo Carcamo
 		</td>
 		<td>No Company</td>
@@ -1825,7 +1827,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/nobodynowhere">
 				<img src="https://avatars.githubusercontent.com/u/11762322?s=72&u=650868520171894c322472f08b203995df8a5d1c&v=4" width="24" alt="Avatar of nobodynowhere"> nobodynowhere
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#nobodynowhere">Copy rank badge</a><br/>
 			Joel Larkin
 		</td>
 		<td>No Company</td>
@@ -1838,7 +1840,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/cris19quintero">
 				<img src="https://avatars.githubusercontent.com/u/197113696?s=72&u=6c62618e1ac21293eac9e95a42bc49c92a03c730&v=4" width="24" alt="Avatar of cris19quintero"> cris19quintero
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#cris19quintero">Copy rank badge</a><br/>
 			cristopher quintero
 		</td>
 		<td>No Company</td>
@@ -1851,7 +1853,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/angel-wm">
 				<img src="https://avatars.githubusercontent.com/u/90712697?s=72&v=4" width="24" alt="Avatar of angel-wm"> angel-wm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#angel-wm">Copy rank badge</a><br/>
 			Angel W. Miller
 		</td>
 		<td>No Company</td>
@@ -1864,7 +1866,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/rlasso92">
 				<img src="https://avatars.githubusercontent.com/u/20019397?s=72&u=7dd224f617479d70c56c91d1e0fdb330caff1a0c&v=4" width="24" alt="Avatar of rlasso92"> rlasso92
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#rlasso92">Copy rank badge</a><br/>
 			Ronoaldo Lasso
 		</td>
 		<td>Bashpty </td>
@@ -1877,7 +1879,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Kevincito20">
 				<img src="https://avatars.githubusercontent.com/u/171656956?s=72&v=4" width="24" alt="Avatar of Kevincito20"> Kevincito20
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Kevincito20">Copy rank badge</a><br/>
 			Kevin
 		</td>
 		<td>Universidad Tecnológica De Panamá<br/></td>
@@ -1890,7 +1892,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jquesada92">
 				<img src="https://avatars.githubusercontent.com/u/42700058?s=72&u=4d72ff1669fd195089845e9be0ff4cd98dac3338&v=4" width="24" alt="Avatar of jquesada92"> jquesada92
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jquesada92">Copy rank badge</a><br/>
 			Jose Quesada
 		</td>
 		<td>Cgi </td>
@@ -1903,7 +1905,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/kirstenintech">
 				<img src="https://avatars.githubusercontent.com/u/65366096?s=72&u=48721f023021dadd58fc0612ddb7fb3d5c3b9b6d&v=4" width="24" alt="Avatar of kirstenintech"> kirstenintech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#kirstenintech">Copy rank badge</a><br/>
 			Kirsten Chong
 		</td>
 		<td>No Company</td>
@@ -1916,7 +1918,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ericdsw">
 				<img src="https://avatars.githubusercontent.com/u/3594423?s=72&u=9bc96aa890ef085f4033b1f36412da73da2000e9&v=4" width="24" alt="Avatar of ericdsw"> ericdsw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ericdsw">Copy rank badge</a><br/>
 			Eric De Sedas
 		</td>
 		<td>World Eater Games </td>
@@ -1929,7 +1931,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/captainsparrow10">
 				<img src="https://avatars.githubusercontent.com/u/62343905?s=72&u=195ee3190a73454b4dbe689f56b5496851787587&v=4" width="24" alt="Avatar of captainsparrow10"> captainsparrow10
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#captainsparrow10">Copy rank badge</a><br/>
 			Javier Acosta Tullock
 		</td>
 		<td>No Company</td>
@@ -1942,7 +1944,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/hoolymama">
 				<img src="https://avatars.githubusercontent.com/u/83855?s=72&v=4" width="24" alt="Avatar of hoolymama"> hoolymama
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#hoolymama">Copy rank badge</a><br/>
 			Julian Mann
 		</td>
 		<td>No Company</td>
@@ -1955,7 +1957,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/raul2811">
 				<img src="https://avatars.githubusercontent.com/u/118602670?s=72&u=86ef5facf198a45c8a6a20845ac3f41629a914b1&v=4" width="24" alt="Avatar of raul2811"> raul2811
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#raul2811">Copy rank badge</a><br/>
 			Raul Serrano
 		</td>
 		<td>No Company</td>
@@ -1968,7 +1970,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/aphilop">
 				<img src="https://avatars.githubusercontent.com/u/102693686?s=72&u=cb32f26b8eb9382085654f7f518ce5787634628f&v=4" width="24" alt="Avatar of aphilop"> aphilop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#aphilop">Copy rank badge</a><br/>
 			Alexandros Philopoulos
 		</td>
 		<td>No Company</td>
@@ -1981,7 +1983,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Lavadeg31">
 				<img src="https://avatars.githubusercontent.com/u/167889683?s=72&v=4" width="24" alt="Avatar of Lavadeg31"> Lavadeg31
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Lavadeg31">Copy rank badge</a><br/>
 			Lars van de Griend
 		</td>
 		<td>Robostem </td>
@@ -1994,7 +1996,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jcastaneda06">
 				<img src="https://avatars.githubusercontent.com/u/51100886?s=72&u=b33ec50ce05d1d6425dd2e42813337800e241a19&v=4" width="24" alt="Avatar of jcastaneda06"> jcastaneda06
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jcastaneda06">Copy rank badge</a><br/>
 			Jesus Castaneda
 		</td>
 		<td>No Company</td>
@@ -2007,7 +2009,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/devCluna">
 				<img src="https://avatars.githubusercontent.com/u/39814718?s=72&u=591b1c78a1327994b55787cda79babbc444bd8d4&v=4" width="24" alt="Avatar of devCluna"> devCluna
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#devCluna">Copy rank badge</a><br/>
 			Cristhian A Luna
 		</td>
 		<td>No Company</td>
@@ -2020,7 +2022,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/nanabexa">
 				<img src="https://avatars.githubusercontent.com/u/150203093?s=72&u=59c9fe2f9ab09d147ca8d1c1f6a88af4b7f8a2c9&v=4" width="24" alt="Avatar of nanabexa"> nanabexa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#nanabexa">Copy rank badge</a><br/>
 			Viviana Nieto
 		</td>
 		<td>No Company</td>
@@ -2033,7 +2035,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/andreso04z">
 				<img src="https://avatars.githubusercontent.com/u/107504483?s=72&v=4" width="24" alt="Avatar of andreso04z"> andreso04z
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#andreso04z">Copy rank badge</a><br/>
 			Andrés Obón Zárate
 		</td>
 		<td>No Company</td>
@@ -2046,7 +2048,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/omar1779">
 				<img src="https://avatars.githubusercontent.com/u/82868104?s=72&u=d2bf6dc07df39d73b15ddc9030c3ee91a98f11c8&v=4" width="24" alt="Avatar of omar1779"> omar1779
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#omar1779">Copy rank badge</a><br/>
 			Omar Sosa
 		</td>
 		<td>Prival Bank </td>
@@ -2059,7 +2061,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ytzvan">
 				<img src="https://avatars.githubusercontent.com/u/703873?s=72&u=7b2fb4284fe91b0ba6c3dc9e3e4599dc7d114f76&v=4" width="24" alt="Avatar of ytzvan"> ytzvan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ytzvan">Copy rank badge</a><br/>
 			Ytzvan Mastino
 		</td>
 		<td>No Company</td>
@@ -2072,7 +2074,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/dav3trad3r">
 				<img src="https://avatars.githubusercontent.com/u/87349828?s=72&v=4" width="24" alt="Avatar of dav3trad3r"> dav3trad3r
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#dav3trad3r">Copy rank badge</a><br/>
 			dave
 		</td>
 		<td>No Company</td>
@@ -2085,7 +2087,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jorgeeldis">
 				<img src="https://avatars.githubusercontent.com/u/73083341?s=72&u=ce3bbf6afa7951b490333dcb3eca59475e2edc1e&v=4" width="24" alt="Avatar of jorgeeldis"> jorgeeldis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jorgeeldis">Copy rank badge</a><br/>
 			Jorge Eldis González
 		</td>
 		<td>Metro Mpls </td>
@@ -2098,7 +2100,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/rdeeb">
 				<img src="https://avatars.githubusercontent.com/u/456490?s=72&v=4" width="24" alt="Avatar of rdeeb"> rdeeb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#rdeeb">Copy rank badge</a><br/>
 			Ramy Deeb
 		</td>
 		<td>Fh Dev Studio </td>
@@ -2111,7 +2113,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/NaguiHW">
 				<img src="https://avatars.githubusercontent.com/u/37708240?s=72&u=c8152ba31db85d22e2b9a28084ba11045b9d9db6&v=4" width="24" alt="Avatar of NaguiHW"> NaguiHW
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#NaguiHW">Copy rank badge</a><br/>
 			Kalib Hackin
 		</td>
 		<td>No Company</td>
@@ -2124,7 +2126,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/JuanKsPty">
 				<img src="https://avatars.githubusercontent.com/u/119611707?s=72&v=4" width="24" alt="Avatar of JuanKsPty"> JuanKsPty
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#JuanKsPty">Copy rank badge</a><br/>
 			Juan Castillo
 		</td>
 		<td>No Company</td>
@@ -2137,7 +2139,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/haasem">
 				<img src="https://avatars.githubusercontent.com/u/24290886?s=72&u=44d02d75cdda640309a1a73125426dcf196c0dde&v=4" width="24" alt="Avatar of haasem"> haasem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#haasem">Copy rank badge</a><br/>
 			Michael Haase
 		</td>
 		<td>Michael Haase Consulting </td>
@@ -2150,7 +2152,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/hguerrero-dev">
 				<img src="https://avatars.githubusercontent.com/u/112592861?s=72&u=7b6f6c070921322b9d4d5a5e74242ee814a59f6d&v=4" width="24" alt="Avatar of hguerrero-dev"> hguerrero-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#hguerrero-dev">Copy rank badge</a><br/>
 			Hector Guerrero
 		</td>
 		<td>Ministerio De Gobierno </td>
@@ -2163,7 +2165,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/cooltimedia">
 				<img src="https://avatars.githubusercontent.com/u/62820071?s=72&u=72d976c070f1b1aea3f458dffa68b1ea563b8398&v=4" width="24" alt="Avatar of cooltimedia"> cooltimedia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#cooltimedia">Copy rank badge</a><br/>
 			Jair Poveda
 		</td>
 		<td>Cooltimedia </td>
@@ -2176,7 +2178,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/alexanderj-castillo">
 				<img src="https://avatars.githubusercontent.com/u/61983330?s=72&v=4" width="24" alt="Avatar of alexanderj-castillo"> alexanderj-castillo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#alexanderj-castillo">Copy rank badge</a><br/>
 			Alexander José Castillo Espinosa
 		</td>
 		<td>Open To Opportunities </td>
@@ -2189,7 +2191,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ralphdev">
 				<img src="https://avatars.githubusercontent.com/u/16153863?s=72&u=c958bafc8e416fb69b01a748c325a0f8df568fe3&v=4" width="24" alt="Avatar of ralphdev"> ralphdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ralphdev">Copy rank badge</a><br/>
 			Rafael Martínez
 		</td>
 		<td>Ralphcode </td>
@@ -2202,7 +2204,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/mcorkidi">
 				<img src="https://avatars.githubusercontent.com/u/49004694?s=72&v=4" width="24" alt="Avatar of mcorkidi"> mcorkidi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#mcorkidi">Copy rank badge</a><br/>
 			Moises Corkidi
 		</td>
 		<td>Mck Tech, Inc. </td>
@@ -2215,7 +2217,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/heroesch62">
 				<img src="https://avatars.githubusercontent.com/u/34802304?s=72&u=3ff174b04f8a7331949e045f89bddd5b77387a49&v=4" width="24" alt="Avatar of heroesch62"> heroesch62
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#heroesch62">Copy rank badge</a><br/>
 			Hermann Rosch
 		</td>
 		<td>@ennuba  </td>
@@ -2228,7 +2230,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/EliecerAAguilar">
 				<img src="https://avatars.githubusercontent.com/u/81975603?s=72&u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4" width="24" alt="Avatar of EliecerAAguilar"> EliecerAAguilar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#EliecerAAguilar">Copy rank badge</a><br/>
 			Eliecer Aguilar
 		</td>
 		<td>Banco General </td>
@@ -2241,7 +2243,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/JoseMG-ux">
 				<img src="https://avatars.githubusercontent.com/u/53275813?s=72&u=9c057d84e598f559a3421c20088ced0b5711c96f&v=4" width="24" alt="Avatar of JoseMG-ux"> JoseMG-ux
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#JoseMG-ux">Copy rank badge</a><br/>
 			Jose Moreno Gomez
 		</td>
 		<td>Panamapac Solutions And Services<br/></td>
@@ -2254,7 +2256,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/leivadev">
 				<img src="https://avatars.githubusercontent.com/u/103515231?s=72&u=113ab95d40938748f9be60151223c0955a4425d8&v=4" width="24" alt="Avatar of leivadev"> leivadev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#leivadev">Copy rank badge</a><br/>
 			Luis Leiva
 		</td>
 		<td>Universidad Tecnológica De Panamá<br/></td>
@@ -2267,7 +2269,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/rosemanslo">
 				<img src="https://avatars.githubusercontent.com/u/214047449?s=72&v=4" width="24" alt="Avatar of rosemanslo"> rosemanslo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#rosemanslo">Copy rank badge</a><br/>
 			Carlos Roseman
 		</td>
 		<td>No Company</td>
@@ -2280,7 +2282,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/infrony">
 				<img src="https://avatars.githubusercontent.com/u/1005749?s=72&u=84caad0d2a463de4cecd36eeef029040eee38c4a&v=4" width="24" alt="Avatar of infrony"> infrony
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#infrony">Copy rank badge</a><br/>
 			Rodney Guillen
 		</td>
 		<td>Infrony </td>
@@ -2293,7 +2295,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/agiguere">
 				<img src="https://avatars.githubusercontent.com/u/8300810?s=72&u=98e4f6381d7fa241a49083e7f85484f4e97a605e&v=4" width="24" alt="Avatar of agiguere"> agiguere
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#agiguere">Copy rank badge</a><br/>
 			Alexandre Giguere
 		</td>
 		<td>Dollarcity </td>
@@ -2306,7 +2308,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/pammsitoh">
 				<img src="https://avatars.githubusercontent.com/u/103278454?s=72&u=3c6a2ebd2e916d60aafcba34e1d47510beff4f7b&v=4" width="24" alt="Avatar of pammsitoh"> pammsitoh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#pammsitoh">Copy rank badge</a><br/>
 			Pammsitoh
 		</td>
 		<td>Boxbuild </td>
@@ -2319,7 +2321,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/adev-web">
 				<img src="https://avatars.githubusercontent.com/u/68888380?s=72&u=03c32b516ceeeffd9ea5037809a62275a14df91a&v=4" width="24" alt="Avatar of adev-web"> adev-web
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#adev-web">Copy rank badge</a><br/>
 			Alessandro Javier Olivares Velarde
 		</td>
 		<td>No Company</td>
@@ -2332,7 +2334,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/kurai021">
 				<img src="https://avatars.githubusercontent.com/u/1455724?s=72&u=da502be685263a54cff5b43c21d86195b8431a6d&v=4" width="24" alt="Avatar of kurai021"> kurai021
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#kurai021">Copy rank badge</a><br/>
 			Richard Armuelles
 		</td>
 		<td>Mozilla Panamá </td>
@@ -2345,7 +2347,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/juanrdlo">
 				<img src="https://avatars.githubusercontent.com/u/48454427?s=72&u=54a7e7756fc8982b835771fd6608c273960a3a20&v=4" width="24" alt="Avatar of juanrdlo"> juanrdlo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#juanrdlo">Copy rank badge</a><br/>
 			Juan R. De Leon O.
 		</td>
 		<td>@barberos_app </td>
@@ -2358,7 +2360,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Ernestoc14">
 				<img src="https://avatars.githubusercontent.com/u/74624259?s=72&u=d0b0117f3d5256652ec9b166b6a5df70530b7172&v=4" width="24" alt="Avatar of Ernestoc14"> Ernestoc14
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Ernestoc14">Copy rank badge</a><br/>
 			Ernesto Cassino
 		</td>
 		<td>Copa Airlines </td>
@@ -2371,7 +2373,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/xiloss">
 				<img src="https://avatars.githubusercontent.com/u/104058895?s=72&v=4" width="24" alt="Avatar of xiloss"> xiloss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#xiloss">Copy rank badge</a><br/>
 			Fabrizio Sgura
 		</td>
 		<td>No Company</td>
@@ -2384,7 +2386,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/adrifok">
 				<img src="https://avatars.githubusercontent.com/u/97637423?s=72&u=3788f374243117d3301703e5af944263b9d0709e&v=4" width="24" alt="Avatar of adrifok"> adrifok
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#adrifok">Copy rank badge</a><br/>
 			Adriana F
 		</td>
 		<td>No Company</td>
@@ -2397,7 +2399,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/PinePad79">
 				<img src="https://avatars.githubusercontent.com/u/83054510?s=72&u=6d9fe400fd5525bc24ebf7170380bcc63a86dd75&v=4" width="24" alt="Avatar of PinePad79"> PinePad79
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#PinePad79">Copy rank badge</a><br/>
 			Manuel Alejandro Lee
 		</td>
 		<td>Independent </td>
@@ -2410,7 +2412,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/JamSwiftDev">
 				<img src="https://avatars.githubusercontent.com/u/163559069?s=72&u=f0fd77d6c8db486ab7029413683194813548f5d2&v=4" width="24" alt="Avatar of JamSwiftDev"> JamSwiftDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#JamSwiftDev">Copy rank badge</a><br/>
 			Jamkeatesis Sarmiento
 		</td>
 		<td>No Company</td>
@@ -2423,7 +2425,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Alexander14210">
 				<img src="https://avatars.githubusercontent.com/u/75588220?s=72&u=1a2f926a5f084db56b468ffa0007a37cafdcc6ad&v=4" width="24" alt="Avatar of Alexander14210"> Alexander14210
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Alexander14210">Copy rank badge</a><br/>
 			Alejandro Santamaria
 		</td>
 		<td>No Company</td>
@@ -2436,7 +2438,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/YESUBZERO">
 				<img src="https://avatars.githubusercontent.com/u/60267016?s=72&u=0fd8637431049f9857c699aebaecf9533f0a4e43&v=4" width="24" alt="Avatar of YESUBZERO"> YESUBZERO
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#YESUBZERO">Copy rank badge</a><br/>
 			Miguel Hidalgo
 		</td>
 		<td>No Company</td>
@@ -2449,7 +2451,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/gliberte">
 				<img src="https://avatars.githubusercontent.com/u/7155776?s=72&u=04491adfc08b197b7e217f1295d57064cd9ff210&v=4" width="24" alt="Avatar of gliberte"> gliberte
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#gliberte">Copy rank badge</a><br/>
 			Luis Solano
 		</td>
 		<td>Senaven S.a. </td>
@@ -2462,7 +2464,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/sanger16">
 				<img src="https://avatars.githubusercontent.com/u/65130014?s=72&u=ad7352beb6b1557ded7eeadbafe3d620f3047c6b&v=4" width="24" alt="Avatar of sanger16"> sanger16
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#sanger16">Copy rank badge</a><br/>
 			Daniel Delgado
 		</td>
 		<td>Lsi Group </td>
@@ -2475,7 +2477,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/drlolwat">
 				<img src="https://avatars.githubusercontent.com/u/44096820?s=72&u=c6d51a71866cf3761714e07e44f22e98e97788c2&v=4" width="24" alt="Avatar of drlolwat"> drlolwat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#drlolwat">Copy rank badge</a><br/>
 			Dr Lolwat
 		</td>
 		<td>No Company</td>
@@ -2488,7 +2490,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/A-Cronnex">
 				<img src="https://avatars.githubusercontent.com/u/193942675?s=72&u=43078f2725338cab28434ddf05dfc7a8a636fdc8&v=4" width="24" alt="Avatar of A-Cronnex"> A-Cronnex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#A-Cronnex">Copy rank badge</a><br/>
 			Aaron C.
 		</td>
 		<td>Universidad Tecnológica De Panamá<br/></td>
@@ -2501,7 +2503,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/dromel06">
 				<img src="https://avatars.githubusercontent.com/u/28783950?s=72&u=ceb2554d80c2a832855c875b946395c17e8611ff&v=4" width="24" alt="Avatar of dromel06"> dromel06
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#dromel06">Copy rank badge</a><br/>
 			Diomedes Díaz
 		</td>
 		<td>No Company</td>
@@ -2514,7 +2516,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/catenacap">
 				<img src="https://avatars.githubusercontent.com/u/129257576?s=72&u=977caf763a1f0b01376955047979f7b311c9f2a2&v=4" width="24" alt="Avatar of catenacap"> catenacap
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#catenacap">Copy rank badge</a><br/>
 			CATENACAP
 		</td>
 		<td>Catena </td>
@@ -2527,7 +2529,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/QuantumDevGlitcher">
 				<img src="https://avatars.githubusercontent.com/u/175897719?s=72&v=4" width="24" alt="Avatar of QuantumDevGlitcher"> QuantumDevGlitcher
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#QuantumDevGlitcher">Copy rank badge</a><br/>
 			Alejandro Alberto Carrasco Ruiz
 		</td>
 		<td>No Company</td>
@@ -2540,7 +2542,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/18Roderick">
 				<img src="https://avatars.githubusercontent.com/u/20848995?s=72&u=a9e4d24c87700ff296d406bc6ff013115539c88c&v=4" width="24" alt="Avatar of 18Roderick"> 18Roderick
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#18Roderick">Copy rank badge</a><br/>
 			Roderick Romero
 		</td>
 		<td>No Company</td>
@@ -2553,7 +2555,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Joel-SD">
 				<img src="https://avatars.githubusercontent.com/u/100252596?s=72&u=58412caeb1031999340294255af4755368def620&v=4" width="24" alt="Avatar of Joel-SD"> Joel-SD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Joel-SD">Copy rank badge</a><br/>
 			Joel Carrasco
 		</td>
 		<td>Hypernovalabs </td>
@@ -2566,7 +2568,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/randol696">
 				<img src="https://avatars.githubusercontent.com/u/56413028?s=72&u=63e6e3b1891e0133d4bb74631cf3d85cea1d4c9c&v=4" width="24" alt="Avatar of randol696"> randol696
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#randol696">Copy rank badge</a><br/>
 			Randol H Gonzalez
 		</td>
 		<td>Randolgonzalez </td>
@@ -2579,7 +2581,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/lincolnap">
 				<img src="https://avatars.githubusercontent.com/u/55828850?s=72&u=4c85fa8debd516e5adc875fc7ec251ba62503bd1&v=4" width="24" alt="Avatar of lincolnap"> lincolnap
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#lincolnap">Copy rank badge</a><br/>
 			Lincoln Prendergat
 		</td>
 		<td>No Company</td>
@@ -2592,7 +2594,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Brandon780">
 				<img src="https://avatars.githubusercontent.com/u/65078269?s=72&u=c336d90a89b318b0ffc97ca2c4b4dd1b23434186&v=4" width="24" alt="Avatar of Brandon780"> Brandon780
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Brandon780">Copy rank badge</a><br/>
 			Brandon kenneth M
 		</td>
 		<td>Universidad Nacional De Panamá<br/></td>
@@ -2605,7 +2607,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/KavinduPehesara">
 				<img src="https://avatars.githubusercontent.com/u/72927397?s=72&u=e46dabd2fa4283459aee625400dcd0f8f858d8c6&v=4" width="24" alt="Avatar of KavinduPehesara"> KavinduPehesara
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#KavinduPehesara">Copy rank badge</a><br/>
 			Kavindu Pehesara Gunawardena
 		</td>
 		<td>No Company</td>
@@ -2618,7 +2620,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/luissanchez0305">
 				<img src="https://avatars.githubusercontent.com/u/1278025?s=72&u=0f69c25e2b19d757ee0ddcfc198e95748eb80036&v=4" width="24" alt="Avatar of luissanchez0305"> luissanchez0305
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#luissanchez0305">Copy rank badge</a><br/>
 			Luis Ricardo Sanchez
 		</td>
 		<td>Esferasoluciones </td>
@@ -2631,7 +2633,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Gabriel2209">
 				<img src="https://avatars.githubusercontent.com/u/131930403?s=72&u=e9db03b4fd38e7f78d7827cc0ad3eaed966c1444&v=4" width="24" alt="Avatar of Gabriel2209"> Gabriel2209
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Gabriel2209">Copy rank badge</a><br/>
 			Omar Salazar
 		</td>
 		<td>No Company</td>
@@ -2644,7 +2646,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/dashboardtech">
 				<img src="https://avatars.githubusercontent.com/u/45579534?s=72&u=20c919595750a0053ecbee878e9196456876d757&v=4" width="24" alt="Avatar of dashboardtech"> dashboardtech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#dashboardtech">Copy rank badge</a><br/>
 			Frederick Roberts
 		</td>
 		<td>Master Services </td>
@@ -2657,7 +2659,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/nosh247">
 				<img src="https://avatars.githubusercontent.com/u/560893?s=72&u=0cad5965a9c332cb7bc916c8d752c0d15bfd5f0e&v=4" width="24" alt="Avatar of nosh247"> nosh247
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#nosh247">Copy rank badge</a><br/>
 			Francisco Chong
 		</td>
 		<td>No Company</td>
@@ -2670,7 +2672,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/harleeliz">
 				<img src="https://avatars.githubusercontent.com/u/145159465?s=72&u=c0ae2ea600be556d4e0a01ad39330d9cf06c87f0&v=4" width="24" alt="Avatar of harleeliz"> harleeliz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#harleeliz">Copy rank badge</a><br/>
 			Harlee Ramos
 		</td>
 		<td>No Company</td>
@@ -2683,7 +2685,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Yyauw">
 				<img src="https://avatars.githubusercontent.com/u/112560291?s=72&u=cc0e59f590f47403a928b374e9c735331341ad91&v=4" width="24" alt="Avatar of Yyauw"> Yyauw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Yyauw">Copy rank badge</a><br/>
 			Yunier Yau
 		</td>
 		<td>No Company</td>
@@ -2696,7 +2698,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Rolilink">
 				<img src="https://avatars.githubusercontent.com/u/1035546?s=72&u=3f85b32e6cbfa247d035d82a7c81b357fac15e38&v=4" width="24" alt="Avatar of Rolilink"> Rolilink
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Rolilink">Copy rank badge</a><br/>
 			Rolando Perez
 		</td>
 		<td>No Company</td>
@@ -2709,7 +2711,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/pahasara-ridmaka">
 				<img src="https://avatars.githubusercontent.com/u/50484252?s=72&u=0efc50c0a384c8437dbfd6fcc4aa741b22f14312&v=4" width="24" alt="Avatar of pahasara-ridmaka"> pahasara-ridmaka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#pahasara-ridmaka">Copy rank badge</a><br/>
 			Pahasara Ridmaka
 		</td>
 		<td>No Company</td>
@@ -2722,7 +2724,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ivanbonillac">
 				<img src="https://avatars.githubusercontent.com/u/64997538?s=72&u=a494a47fb974b83b6bbeb4452c9cb0b2c859fa98&v=4" width="24" alt="Avatar of ivanbonillac"> ivanbonillac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ivanbonillac">Copy rank badge</a><br/>
 			Ivan Bonilla
 		</td>
 		<td>Universidad Tecnológica De Panamá<br/></td>
@@ -2735,7 +2737,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/DevArturoOrtueta">
 				<img src="https://avatars.githubusercontent.com/u/69780116?s=72&u=7c3e7fdc4b1b62589ceaf320a7433526174f3f2b&v=4" width="24" alt="Avatar of DevArturoOrtueta"> DevArturoOrtueta
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#DevArturoOrtueta">Copy rank badge</a><br/>
 			Arturo Ortueta
 		</td>
 		<td>Front-end Developer </td>
@@ -2748,7 +2750,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ramonfabrega">
 				<img src="https://avatars.githubusercontent.com/u/6278111?s=72&v=4" width="24" alt="Avatar of ramonfabrega"> ramonfabrega
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ramonfabrega">Copy rank badge</a><br/>
 			Ramon
 		</td>
 		<td>No Company</td>
@@ -2761,7 +2763,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/r4m-juan">
 				<img src="https://avatars.githubusercontent.com/u/7936998?s=72&u=826665f1e8e56af555f7975bd05d1f3d81cbff72&v=4" width="24" alt="Avatar of r4m-juan"> r4m-juan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#r4m-juan">Copy rank badge</a><br/>
 			r4m-juan
 		</td>
 		<td>Route4me </td>
@@ -2774,7 +2776,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Roy-x24">
 				<img src="https://avatars.githubusercontent.com/u/178921275?s=72&u=117e8e6bdba2c69b705f8b31add0ed65b8d141ea&v=4" width="24" alt="Avatar of Roy-x24"> Roy-x24
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Roy-x24">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2787,7 +2789,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/lucaskardo">
 				<img src="https://avatars.githubusercontent.com/u/44847179?s=72&u=e7895e228c25cccd405c0511cc88acd5a6f97ac8&v=4" width="24" alt="Avatar of lucaskardo"> lucaskardo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#lucaskardo">Copy rank badge</a><br/>
 			lucas kardonski
 		</td>
 		<td>Torus  </td>
@@ -2800,7 +2802,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/pangoro24">
 				<img src="https://avatars.githubusercontent.com/u/40504751?s=72&u=829d9cf84c038b60eeff91265c013fe7c69504f2&v=4" width="24" alt="Avatar of pangoro24"> pangoro24
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#pangoro24">Copy rank badge</a><br/>
 			Pablo Gonzalez Robles
 		</td>
 		<td>No Company</td>
@@ -2813,7 +2815,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/itmc-dev">
 				<img src="https://avatars.githubusercontent.com/u/172001743?s=72&u=fa4e101e5c66ca3bdd2191d046634edc7537bb2a&v=4" width="24" alt="Avatar of itmc-dev"> itmc-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#itmc-dev">Copy rank badge</a><br/>
 			itmc
 		</td>
 		<td>@itmc-cloud </td>
@@ -2826,7 +2828,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/issaiass">
 				<img src="https://avatars.githubusercontent.com/u/4116031?s=72&u=edd72e058c85c3fa7e21be77de2e39525cab5638&v=4" width="24" alt="Avatar of issaiass"> issaiass
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#issaiass">Copy rank badge</a><br/>
 			Rangel Isaías Alvarado Walles
 		</td>
 		<td>Data Acquisition Systems, S.a.<br/></td>
@@ -2839,7 +2841,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/LaviejaD">
 				<img src="https://avatars.githubusercontent.com/u/44241809?s=72&u=5cd89154dfd03c4851366a538f18c895b04ff037&v=4" width="24" alt="Avatar of LaviejaD"> LaviejaD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#LaviejaD">Copy rank badge</a><br/>
 			Dimas modes
 		</td>
 		<td>No Company</td>
@@ -2852,7 +2854,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/sebasop320">
 				<img src="https://avatars.githubusercontent.com/u/73962362?s=72&v=4" width="24" alt="Avatar of sebasop320"> sebasop320
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#sebasop320">Copy rank badge</a><br/>
 			Sebastian Ocampo
 		</td>
 		<td>No Company</td>
@@ -2865,7 +2867,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/DavidGomez3">
 				<img src="https://avatars.githubusercontent.com/u/71481274?s=72&u=86a66157eb06fe9ac91c74f2377126dffc1e101b&v=4" width="24" alt="Avatar of DavidGomez3"> DavidGomez3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#DavidGomez3">Copy rank badge</a><br/>
 			David Gómez
 		</td>
 		<td>Bieni Latam </td>
@@ -2878,7 +2880,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ecordoba24">
 				<img src="https://avatars.githubusercontent.com/u/1800924?s=72&v=4" width="24" alt="Avatar of ecordoba24"> ecordoba24
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ecordoba24">Copy rank badge</a><br/>
 			Eugenio Cordoba
 		</td>
 		<td>No Company</td>
@@ -2891,7 +2893,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jkamiphi">
 				<img src="https://avatars.githubusercontent.com/u/45156475?s=72&u=c86f24ab3752a987e549d1a1e688806eb55c3cda&v=4" width="24" alt="Avatar of jkamiphi"> jkamiphi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jkamiphi">Copy rank badge</a><br/>
 			Julian Santana
 		</td>
 		<td>No Company</td>
@@ -2904,7 +2906,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/AntonyGarcia">
 				<img src="https://avatars.githubusercontent.com/u/10373367?s=72&u=6c372a786095e847a04d46c8b7f717a169485c6c&v=4" width="24" alt="Avatar of AntonyGarcia"> AntonyGarcia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#AntonyGarcia">Copy rank badge</a><br/>
 			Antony García
 		</td>
 		<td>Panama Hitek </td>
@@ -2917,7 +2919,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/davisclick">
 				<img src="https://avatars.githubusercontent.com/u/1535384?s=72&u=710ae062f9fc3f45a701ae97ef5308720648488c&v=4" width="24" alt="Avatar of davisclick"> davisclick
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#davisclick">Copy rank badge</a><br/>
 			Davis Alvarez
 		</td>
 		<td>No Company</td>
@@ -2930,7 +2932,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/yuliglocky">
 				<img src="https://avatars.githubusercontent.com/u/102256366?s=72&u=c7ad07f10da45811305f5f407aa466f8cd9a5a44&v=4" width="24" alt="Avatar of yuliglocky"> yuliglocky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#yuliglocky">Copy rank badge</a><br/>
 			⸸
 		</td>
 		<td>Universidad Tecnologica De Panama<br/></td>
@@ -2943,7 +2945,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/JALR97">
 				<img src="https://avatars.githubusercontent.com/u/8293824?s=72&u=785b1898ac7626cd21165eebba30aad092ed74df&v=4" width="24" alt="Avatar of JALR97"> JALR97
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#JALR97">Copy rank badge</a><br/>
 			Jose Angel Lugo
 		</td>
 		<td>Hopeful Undertone </td>
@@ -2956,7 +2958,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ndvelasquez">
 				<img src="https://avatars.githubusercontent.com/u/20730326?s=72&u=1b4832644d5d17b60155141261720c9e1e1a78b1&v=4" width="24" alt="Avatar of ndvelasquez"> ndvelasquez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ndvelasquez">Copy rank badge</a><br/>
 			Nestor David Velasquez Lopez
 		</td>
 		<td>No Company</td>
@@ -2969,7 +2971,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/EDeLeon9">
 				<img src="https://avatars.githubusercontent.com/u/84997785?s=72&u=042b3a57ff2b5263ceb97f915ce8103d177ced9e&v=4" width="24" alt="Avatar of EDeLeon9"> EDeLeon9
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#EDeLeon9">Copy rank badge</a><br/>
 			Esteven De Leon
 		</td>
 		<td>No Company</td>
@@ -2982,7 +2984,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/VenomJD">
 				<img src="https://avatars.githubusercontent.com/u/102642791?s=72&u=d60495bcf14a5c0d42268be7e38a879dc6fe3cb9&v=4" width="24" alt="Avatar of VenomJD"> VenomJD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#VenomJD">Copy rank badge</a><br/>
 			Jean Carlos Melgar
 		</td>
 		<td>No Company</td>
@@ -2995,7 +2997,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Extibax">
 				<img src="https://avatars.githubusercontent.com/u/29496152?s=72&u=61226c1d7be41898241632a43f68781602492beb&v=4" width="24" alt="Avatar of Extibax"> Extibax
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Extibax">Copy rank badge</a><br/>
 			Juan Bedoya (Bedoya Dev)
 		</td>
 		<td>Bedoya Dev </td>
@@ -3008,7 +3010,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/demilio24">
 				<img src="https://avatars.githubusercontent.com/u/113644507?s=72&u=0e4e344a7f205cee1310c64b095b2409d5a061b3&v=4" width="24" alt="Avatar of demilio24"> demilio24
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#demilio24">Copy rank badge</a><br/>
 			Emilio Arias
 		</td>
 		<td>No Company</td>
@@ -3021,7 +3023,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/caragua">
 				<img src="https://avatars.githubusercontent.com/u/2228376?s=72&u=b4c69b6eb099bfd46528618e45ff1fd9eb27b4c4&v=4" width="24" alt="Avatar of caragua"> caragua
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#caragua">Copy rank badge</a><br/>
 			Caragua Woof
 		</td>
 		<td>Home </td>
@@ -3034,7 +3036,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/emadero">
 				<img src="https://avatars.githubusercontent.com/u/63073391?s=72&u=37d79bbc70e1cfbd38dcab23707dc6cc7016e5b3&v=4" width="24" alt="Avatar of emadero"> emadero
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#emadero">Copy rank badge</a><br/>
 			Fedu
 		</td>
 		<td>@procter-gamble </td>
@@ -3047,7 +3049,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/elrui">
 				<img src="https://avatars.githubusercontent.com/u/7256126?s=72&u=544223c2003d41f4eb7fa7917e880938ffb123a5&v=4" width="24" alt="Avatar of elrui"> elrui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#elrui">Copy rank badge</a><br/>
 			Rui Santos
 		</td>
 		<td>Plus 351 </td>
@@ -3060,7 +3062,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/hectorx2x">
 				<img src="https://avatars.githubusercontent.com/u/4926874?s=72&u=70569c9f560bd81e6411b365a438f58adf0083b2&v=4" width="24" alt="Avatar of hectorx2x"> hectorx2x
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#hectorx2x">Copy rank badge</a><br/>
 			Hector Cisneros
 		</td>
 		<td>Devsmaker </td>
@@ -3073,7 +3075,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/6ilberM">
 				<img src="https://avatars.githubusercontent.com/u/17973729?s=72&u=d9cd41baa7f1f7e2fcfa12e5a465c4439ba2f812&v=4" width="24" alt="Avatar of 6ilberM"> 6ilberM
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#6ilberM">Copy rank badge</a><br/>
 			Gilber Moreno
 		</td>
 		<td>No Company</td>
@@ -3086,7 +3088,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Jhony0311">
 				<img src="https://avatars.githubusercontent.com/u/6932538?s=72&u=b5db77972d36c213d1bd4d2ca49714f6c2239279&v=4" width="24" alt="Avatar of Jhony0311"> Jhony0311
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Jhony0311">Copy rank badge</a><br/>
 			Jonathan Ortega
 		</td>
 		<td>Zinli </td>
@@ -3099,7 +3101,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Rafael13es">
 				<img src="https://avatars.githubusercontent.com/u/32114834?s=72&u=2930bb887c6f3bfb5e7d3a6fa54da03d1ecc75e3&v=4" width="24" alt="Avatar of Rafael13es"> Rafael13es
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Rafael13es">Copy rank badge</a><br/>
 			Rafael
 		</td>
 		<td>The Home Depot </td>
@@ -3112,7 +3114,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/c0r1ex">
 				<img src="https://avatars.githubusercontent.com/u/84841202?s=72&u=c6d1a548eb538081903c9356fb58a3960c999b78&v=4" width="24" alt="Avatar of c0r1ex"> c0r1ex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#c0r1ex">Copy rank badge</a><br/>
 			Dario Cortes
 		</td>
 		<td>No Company</td>
@@ -3125,7 +3127,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Hopelezz">
 				<img src="https://avatars.githubusercontent.com/u/72772558?s=72&u=dc698cb834456f3e80919c58f211e62c8f692e24&v=4" width="24" alt="Avatar of Hopelezz"> Hopelezz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Hopelezz">Copy rank badge</a><br/>
 			Mark Spratt
 		</td>
 		<td>100devs & Astro </td>
@@ -3138,7 +3140,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/mau27galvez">
 				<img src="https://avatars.githubusercontent.com/u/45831817?s=72&u=e4cbfd8b1f8adc6feba2f6c50b4319603e7cd2a8&v=4" width="24" alt="Avatar of mau27galvez"> mau27galvez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#mau27galvez">Copy rank badge</a><br/>
 			Mauricio Galvez
 		</td>
 		<td>No Company</td>
@@ -3151,7 +3153,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/JVeraPTY">
 				<img src="https://avatars.githubusercontent.com/u/61756456?s=72&u=c9bbe5fa71bfd75076223a22041c9d0ed185c57c&v=4" width="24" alt="Avatar of JVeraPTY"> JVeraPTY
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#JVeraPTY">Copy rank badge</a><br/>
 			Jose Vera
 		</td>
 		<td>No Company</td>
@@ -3164,7 +3166,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/josejuan2412">
 				<img src="https://avatars.githubusercontent.com/u/14971436?s=72&u=44ff5d73ba7b363f10effa07b254772c51ae8357&v=4" width="24" alt="Avatar of josejuan2412"> josejuan2412
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#josejuan2412">Copy rank badge</a><br/>
 			Jose J. Jaen
 		</td>
 		<td>No Company</td>
@@ -3177,7 +3179,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/DanielMes888">
 				<img src="https://avatars.githubusercontent.com/u/157556066?s=72&v=4" width="24" alt="Avatar of DanielMes888"> DanielMes888
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#DanielMes888">Copy rank badge</a><br/>
 			Daniel Maestre
 		</td>
 		<td>Universidad Tecnologica De Panama<br/></td>
@@ -3190,7 +3192,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ensonb">
 				<img src="https://avatars.githubusercontent.com/u/2094732?s=72&v=4" width="24" alt="Avatar of ensonb"> ensonb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ensonb">Copy rank badge</a><br/>
 			Enson Barker
 		</td>
 		<td>N E R V<br/><br/></td>
@@ -3203,7 +3205,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/reiern70">
 				<img src="https://avatars.githubusercontent.com/u/462655?s=72&v=4" width="24" alt="Avatar of reiern70"> reiern70
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#reiern70">Copy rank badge</a><br/>
 			Ernesto Reinaldo Barreiro
 		</td>
 		<td>Self Employed </td>
@@ -3216,7 +3218,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/bgawne">
 				<img src="https://avatars.githubusercontent.com/u/10254150?s=72&v=4" width="24" alt="Avatar of bgawne"> bgawne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#bgawne">Copy rank badge</a><br/>
 			Brad Gawne
 		</td>
 		<td>No Company</td>
@@ -3229,7 +3231,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/lfamorim">
 				<img src="https://avatars.githubusercontent.com/u/195014?s=72&v=4" width="24" alt="Avatar of lfamorim"> lfamorim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#lfamorim">Copy rank badge</a><br/>
 			Lucas Fernando Amorim
 		</td>
 		<td>Goodfellas & Credithub </td>
@@ -3242,7 +3244,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/unknownuser401">
 				<img src="https://avatars.githubusercontent.com/u/43711857?s=72&u=d43e4d5e9a85d90fed05bc9bc3f366ccd2912645&v=4" width="24" alt="Avatar of unknownuser401"> unknownuser401
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#unknownuser401">Copy rank badge</a><br/>
 			Luis Castillo
 		</td>
 		<td>No Company</td>
@@ -3255,7 +3257,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/CVCOL">
 				<img src="https://avatars.githubusercontent.com/u/128415232?s=72&u=c4b96691873a7686d6265de7c995c1df2fb9b9dc&v=4" width="24" alt="Avatar of CVCOL"> CVCOL
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#CVCOL">Copy rank badge</a><br/>
 			CVCOL
 		</td>
 		<td>Consultoría Venezuela S.a. </td>
@@ -3268,7 +3270,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/EdwinDLCx">
 				<img src="https://avatars.githubusercontent.com/u/28794438?s=72&u=387cd7532ca6b82c5cfed8bac1d09d8388775f35&v=4" width="24" alt="Avatar of EdwinDLCx"> EdwinDLCx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#EdwinDLCx">Copy rank badge</a><br/>
 			Edwin De León
 		</td>
 		<td>Advanced It Group Panama<br/></td>
@@ -3281,7 +3283,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ferdoropeza">
 				<img src="https://avatars.githubusercontent.com/u/74103555?s=72&v=4" width="24" alt="Avatar of ferdoropeza"> ferdoropeza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ferdoropeza">Copy rank badge</a><br/>
 			Daniel Oropeza
 		</td>
 		<td>No Company</td>
@@ -3294,7 +3296,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/zgudino">
 				<img src="https://avatars.githubusercontent.com/u/14242895?s=72&u=ce6df3edaae32c0d6e67bbd93f2b712ce58fa828&v=4" width="24" alt="Avatar of zgudino"> zgudino
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#zgudino">Copy rank badge</a><br/>
 			Zahir Gudiño
 		</td>
 		<td>No Company</td>
@@ -3307,7 +3309,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/hjupter">
 				<img src="https://avatars.githubusercontent.com/u/1037359?s=72&v=4" width="24" alt="Avatar of hjupter"> hjupter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#hjupter">Copy rank badge</a><br/>
 			Hjupter Cerrud
 		</td>
 		<td>No Company</td>
@@ -3320,7 +3322,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/CatherineSData">
 				<img src="https://avatars.githubusercontent.com/u/212260175?s=72&u=7df74ce3e76e07cd1c8310423fafaed52b215773&v=4" width="24" alt="Avatar of CatherineSData"> CatherineSData
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#CatherineSData">Copy rank badge</a><br/>
 			Catherine Small
 		</td>
 		<td>No Company</td>
@@ -3333,7 +3335,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/carios23">
 				<img src="https://avatars.githubusercontent.com/u/9803327?s=72&u=69df57e87a4988e4a30a41935199da6dd6c51071&v=4" width="24" alt="Avatar of carios23"> carios23
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#carios23">Copy rank badge</a><br/>
 			Christian Rios
 		</td>
 		<td>Freelance </td>
@@ -3346,7 +3348,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/MangoDingo">
 				<img src="https://avatars.githubusercontent.com/u/76626633?s=72&u=c452c94f7eac96b87ac72e935b347b8d36cbadfa&v=4" width="24" alt="Avatar of MangoDingo"> MangoDingo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#MangoDingo">Copy rank badge</a><br/>
 			Moises507
 		</td>
 		<td>No Company</td>
@@ -3359,7 +3361,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/x-lui-x-16">
 				<img src="https://avatars.githubusercontent.com/u/168311510?s=72&u=89e959d574a4c14dca41e968858b7a9add13f7bb&v=4" width="24" alt="Avatar of x-lui-x-16"> x-lui-x-16
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#x-lui-x-16">Copy rank badge</a><br/>
 			its._xluix
 		</td>
 		<td>No Company</td>
@@ -3372,7 +3374,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/softd3v">
 				<img src="https://avatars.githubusercontent.com/u/16480452?s=72&u=53bf172a5689ceb9cccfb90e5fc809df6223d613&v=4" width="24" alt="Avatar of softd3v"> softd3v
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#softd3v">Copy rank badge</a><br/>
 			Emmanuel Paternina
 		</td>
 		<td>@softd3v </td>
@@ -3385,7 +3387,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Jason31j">
 				<img src="https://avatars.githubusercontent.com/u/79297776?s=72&u=f8373dd2ca37176278ed3c4b19e801ae279ff32a&v=4" width="24" alt="Avatar of Jason31j"> Jason31j
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Jason31j">Copy rank badge</a><br/>
 			Jesson Grajales 
 		</td>
 		<td>Universidad Tecnológica De Panamá<br/><br/></td>
@@ -3398,7 +3400,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/irvingbennett">
 				<img src="https://avatars.githubusercontent.com/u/3063697?s=72&v=4" width="24" alt="Avatar of irvingbennett"> irvingbennett
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#irvingbennett">Copy rank badge</a><br/>
 			Irving Bennett
 		</td>
 		<td>No Company</td>
@@ -3411,7 +3413,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/YauFengCarlo">
 				<img src="https://avatars.githubusercontent.com/u/117961630?s=72&u=32980faf12d8923e7dcb0f7c69a88d58b8f5f5c4&v=4" width="24" alt="Avatar of YauFengCarlo"> YauFengCarlo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#YauFengCarlo">Copy rank badge</a><br/>
 			caYauFeng
 		</td>
 		<td>No Company</td>
@@ -3424,7 +3426,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/juanzeta33">
 				<img src="https://avatars.githubusercontent.com/u/36899684?s=72&v=4" width="24" alt="Avatar of juanzeta33"> juanzeta33
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#juanzeta33">Copy rank badge</a><br/>
 			Juan Antonio Zamora Arosemena
 		</td>
 		<td>Universidad Tecnológica De Panamá<br/></td>
@@ -3437,7 +3439,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/nabilAparicio">
 				<img src="https://avatars.githubusercontent.com/u/87939719?s=72&u=50c366411b6ef6858cdf0ff79768f45df860a426&v=4" width="24" alt="Avatar of nabilAparicio"> nabilAparicio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#nabilAparicio">Copy rank badge</a><br/>
 			Nabil Aparicio
 		</td>
 		<td>Rednblue </td>
@@ -3450,7 +3452,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/babuenop">
 				<img src="https://avatars.githubusercontent.com/u/19504517?s=72&u=71490a62c3f6988ac8cd13c25545546af509448c&v=4" width="24" alt="Avatar of babuenop"> babuenop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#babuenop">Copy rank badge</a><br/>
 			Braulio Alberto Bueno 
 		</td>
 		<td>No Company</td>
@@ -3463,7 +3465,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/DeftDiaz">
 				<img src="https://avatars.githubusercontent.com/u/179077650?s=72&v=4" width="24" alt="Avatar of DeftDiaz"> DeftDiaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#DeftDiaz">Copy rank badge</a><br/>
 			DereckD
 		</td>
 		<td>No Company</td>
@@ -3476,7 +3478,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ricardostmalo">
 				<img src="https://avatars.githubusercontent.com/u/205794563?s=72&u=c342da027e61abfe8f06fc811353bdf1b266c783&v=4" width="24" alt="Avatar of ricardostmalo"> ricardostmalo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ricardostmalo">Copy rank badge</a><br/>
 			Ricardo de Saint Malo
 		</td>
 		<td>Boton </td>
@@ -3489,7 +3491,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ahmedalonsoi">
 				<img src="https://avatars.githubusercontent.com/u/177805527?s=72&u=b586e76cd57284c1a5b6207780d095a81bde8ce3&v=4" width="24" alt="Avatar of ahmedalonsoi"> ahmedalonsoi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ahmedalonsoi">Copy rank badge</a><br/>
 			Ahmed Alonso
 		</td>
 		<td>No Company</td>
@@ -3502,7 +3504,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Wolfant">
 				<img src="https://avatars.githubusercontent.com/u/11856221?s=72&u=266cc06ffae7f8980ffe20583e455fa3eb9058c6&v=4" width="24" alt="Avatar of Wolfant"> Wolfant
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Wolfant">Copy rank badge</a><br/>
 			Antonio Insuasti
 		</td>
 		<td>Kaito Networks </td>
@@ -3515,7 +3517,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/victorcode1">
 				<img src="https://avatars.githubusercontent.com/u/55858068?s=72&u=9f333f8e8fe9d18c91a255222383e39e234232c0&v=4" width="24" alt="Avatar of victorcode1"> victorcode1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#victorcode1">Copy rank badge</a><br/>
 			Victor Flores
 		</td>
 		<td>Pienaple </td>
@@ -3528,7 +3530,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/k1ara">
 				<img src="https://avatars.githubusercontent.com/u/11337798?s=72&u=72b45c649c4e590bdfe2e5cfe9bf1cf6eda6ac5e&v=4" width="24" alt="Avatar of k1ara"> k1ara
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#k1ara">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -3541,7 +3543,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/gkpty">
 				<img src="https://avatars.githubusercontent.com/u/31138615?s=72&u=ccf7f07161c412e23ebd554664525f8ed02f3206&v=4" width="24" alt="Avatar of gkpty"> gkpty
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#gkpty">Copy rank badge</a><br/>
 			Gabriel Kardonski
 		</td>
 		<td>@torus-digital  </td>
@@ -3554,7 +3556,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/bryancowan">
 				<img src="https://avatars.githubusercontent.com/u/53589418?s=72&u=f35109f69de2b9d71a5cc21fe4e728076387bd0c&v=4" width="24" alt="Avatar of bryancowan"> bryancowan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#bryancowan">Copy rank badge</a><br/>
 			Bryan Cowan
 		</td>
 		<td>Fortress Information Security </td>
@@ -3567,7 +3569,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ecofintech">
 				<img src="https://avatars.githubusercontent.com/u/43483686?s=72&u=8543f961b760ff11ff2bdf22181491ea25bed346&v=4" width="24" alt="Avatar of ecofintech"> ecofintech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ecofintech">Copy rank badge</a><br/>
 			Ecofintech
 		</td>
 		<td>Ecofintech </td>
@@ -3580,7 +3582,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/dancasey">
 				<img src="https://avatars.githubusercontent.com/u/6557149?s=72&u=17568fb82cd661f5e58ebd62c64e878886527bfa&v=4" width="24" alt="Avatar of dancasey"> dancasey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#dancasey">Copy rank badge</a><br/>
 			Dan Casey
 		</td>
 		<td>No Company</td>
@@ -3593,7 +3595,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/edulml98">
 				<img src="https://avatars.githubusercontent.com/u/45901674?s=72&v=4" width="24" alt="Avatar of edulml98"> edulml98
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#edulml98">Copy rank badge</a><br/>
 			Eduardo Rodriguez
 		</td>
 		<td>No Company</td>
@@ -3606,7 +3608,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Sebbb989">
 				<img src="https://avatars.githubusercontent.com/u/86593558?s=72&u=81b8f830a8cc2d2b547328e64ac122b5a948774d&v=4" width="24" alt="Avatar of Sebbb989"> Sebbb989
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Sebbb989">Copy rank badge</a><br/>
 			Sebastian Gutierrez
 		</td>
 		<td>Gotuuri </td>
@@ -3619,7 +3621,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/alexishevia">
 				<img src="https://avatars.githubusercontent.com/u/261408?s=72&u=e282517d717b523af3bf6e59cad1ace4eb41a2b7&v=4" width="24" alt="Avatar of alexishevia"> alexishevia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#alexishevia">Copy rank badge</a><br/>
 			Alexis Hevia
 		</td>
 		<td>No Company</td>
@@ -3632,7 +3634,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/egmsystems">
 				<img src="https://avatars.githubusercontent.com/u/3238522?s=72&u=f17915ca93539604e1e748a415e785f134cc8712&v=4" width="24" alt="Avatar of egmsystems"> egmsystems
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#egmsystems">Copy rank badge</a><br/>
 			Edgar Gonzalez
 		</td>
 		<td>Egmsystems </td>
@@ -3645,7 +3647,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Karmapz">
 				<img src="https://avatars.githubusercontent.com/u/187822123?s=72&u=989cca96a82652244c5f0ae5bfaff972b8a00be9&v=4" width="24" alt="Avatar of Karmapz"> Karmapz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Karmapz">Copy rank badge</a><br/>
 			Miguel Perez
 		</td>
 		<td>No Company</td>
@@ -3658,7 +3660,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/majakudlicka">
 				<img src="https://avatars.githubusercontent.com/u/23139974?s=72&u=227a5c41b297e8dccd43cc1e3e95988cde14c72b&v=4" width="24" alt="Avatar of majakudlicka"> majakudlicka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#majakudlicka">Copy rank badge</a><br/>
 			Maja Kudlicka
 		</td>
 		<td>No Company</td>
@@ -3671,7 +3673,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ChristopherStrom">
 				<img src="https://avatars.githubusercontent.com/u/48628726?s=72&u=ebdba8e3cfb148d5bf0edaf637cbbfd4a6f688cf&v=4" width="24" alt="Avatar of ChristopherStrom"> ChristopherStrom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ChristopherStrom">Copy rank badge</a><br/>
 			Christopher Strom
 		</td>
 		<td>@cyberlab-services @the-frank-agency  </td>
@@ -3684,7 +3686,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/JulianC606">
 				<img src="https://avatars.githubusercontent.com/u/51425345?s=72&u=f8d5030248513854478cabfadc8adfca42d8d5a4&v=4" width="24" alt="Avatar of JulianC606"> JulianC606
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#JulianC606">Copy rank badge</a><br/>
 			Julián Cipagauta
 		</td>
 		<td>No Company</td>
@@ -3697,7 +3699,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/gabodo">
 				<img src="https://avatars.githubusercontent.com/u/10210835?s=72&u=21775c09587060a75e110272608a471941ec0e51&v=4" width="24" alt="Avatar of gabodo"> gabodo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#gabodo">Copy rank badge</a><br/>
 			Gustavo Bohorquez
 		</td>
 		<td>No Company</td>
@@ -3710,7 +3712,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/julioaescobar">
 				<img src="https://avatars.githubusercontent.com/u/343138?s=72&u=39fe646ce5f69ded65874fea2c5cf595eb9f859d&v=4" width="24" alt="Avatar of julioaescobar"> julioaescobar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#julioaescobar">Copy rank badge</a><br/>
 			Julio Avila Escobar
 		</td>
 		<td>Grupo Tx </td>
@@ -3723,7 +3725,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/juangdanilo">
 				<img src="https://avatars.githubusercontent.com/u/22298205?s=72&u=d4a79efb79a577d1f4cf81aba258a6e4e6c8cf7a&v=4" width="24" alt="Avatar of juangdanilo"> juangdanilo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#juangdanilo">Copy rank badge</a><br/>
 			Juan Daniel
 		</td>
 		<td>No Company</td>
@@ -3736,7 +3738,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/haza507">
 				<img src="https://avatars.githubusercontent.com/u/4556463?s=72&v=4" width="24" alt="Avatar of haza507"> haza507
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#haza507">Copy rank badge</a><br/>
 			hazael moreno
 		</td>
 		<td>No Company</td>
@@ -3749,7 +3751,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/fabriziocucina">
 				<img src="https://avatars.githubusercontent.com/u/70029972?s=72&u=2d89c2953108a498bb38b648e0b1b49c1548e1f8&v=4" width="24" alt="Avatar of fabriziocucina"> fabriziocucina
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#fabriziocucina">Copy rank badge</a><br/>
 			Fabrizio Cucina 
 		</td>
 		<td>No Company</td>
@@ -3762,7 +3764,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jacenteno">
 				<img src="https://avatars.githubusercontent.com/u/2048301?s=72&u=d309c98819527782ef32190602078a6024bf6906&v=4" width="24" alt="Avatar of jacenteno"> jacenteno
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jacenteno">Copy rank badge</a><br/>
 			Jorge Centeno
 		</td>
 		<td>Floppyfilms </td>
@@ -3775,7 +3777,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/midnight-baker">
 				<img src="https://avatars.githubusercontent.com/u/124546107?s=72&u=1e181e45762925aa501b45e018db800689ae75ce&v=4" width="24" alt="Avatar of midnight-baker"> midnight-baker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#midnight-baker">Copy rank badge</a><br/>
 			Ambar Castillo
 		</td>
 		<td>No Company</td>
@@ -3788,7 +3790,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/KenrySanchez">
 				<img src="https://avatars.githubusercontent.com/u/10257878?s=72&u=f0e856cb40f27fdf2a7ce2d145957a15229f8237&v=4" width="24" alt="Avatar of KenrySanchez"> KenrySanchez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#KenrySanchez">Copy rank badge</a><br/>
 			Kenry A. Sanchez
 		</td>
 		<td>No Company</td>
@@ -3801,7 +3803,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/luiscarlos2000">
 				<img src="https://avatars.githubusercontent.com/u/18080747?s=72&v=4" width="24" alt="Avatar of luiscarlos2000"> luiscarlos2000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#luiscarlos2000">Copy rank badge</a><br/>
 			Luis Carlos
 		</td>
 		<td>No Company</td>
@@ -3814,7 +3816,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Juanleonel03">
 				<img src="https://avatars.githubusercontent.com/u/96208076?s=72&u=ac50ef4ee945252e76dd6487708b11786b6b99b1&v=4" width="24" alt="Avatar of Juanleonel03"> Juanleonel03
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Juanleonel03">Copy rank badge</a><br/>
 			Juan Leonel
 		</td>
 		<td>No Company</td>
@@ -3827,7 +3829,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/cristian-bula">
 				<img src="https://avatars.githubusercontent.com/u/163961459?s=72&u=5ca08089ed93d327923feb4102d50a4c99ae0889&v=4" width="24" alt="Avatar of cristian-bula"> cristian-bula
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#cristian-bula">Copy rank badge</a><br/>
 			Cristian Bula
 		</td>
 		<td>No Company</td>
@@ -3840,7 +3842,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/hugo-2505">
 				<img src="https://avatars.githubusercontent.com/u/229654148?s=72&u=565f7b150671b9049cc0f8766d30a6f719c92a26&v=4" width="24" alt="Avatar of hugo-2505"> hugo-2505
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#hugo-2505">Copy rank badge</a><br/>
 			Hugo Falcón
 		</td>
 		<td>Fg Digital Group </td>
@@ -3853,7 +3855,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/HunterX-7">
 				<img src="https://avatars.githubusercontent.com/u/90111138?s=72&u=9b0e4f352cbe79d6ba9917be40489956ef17c86f&v=4" width="24" alt="Avatar of HunterX-7"> HunterX-7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#HunterX-7">Copy rank badge</a><br/>
 			Francisco Quintero
 		</td>
 		<td>Salesforce Consultant </td>
@@ -3866,7 +3868,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Benji0104">
 				<img src="https://avatars.githubusercontent.com/u/166535278?s=72&u=cb0d733cc88f8cbbb7d3c4376287ce77e8d501d8&v=4" width="24" alt="Avatar of Benji0104"> Benji0104
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Benji0104">Copy rank badge</a><br/>
 			Benjamín Gil
 		</td>
 		<td>No Company</td>
@@ -3879,7 +3881,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/507cardoze">
 				<img src="https://avatars.githubusercontent.com/u/49157674?s=72&u=8f49b3fbdab5111c5547791e7c1d6de100bc10fb&v=4" width="24" alt="Avatar of 507cardoze"> 507cardoze
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#507cardoze">Copy rank badge</a><br/>
 			Anthony Salvattore Cardoze A.
 		</td>
 		<td>Pragma S.a </td>
@@ -3892,7 +3894,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/callmesilva">
 				<img src="https://avatars.githubusercontent.com/u/123431990?s=72&u=fa3107e73dc4912740da24a8da87c7854a92cec3&v=4" width="24" alt="Avatar of callmesilva"> callmesilva
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#callmesilva">Copy rank badge</a><br/>
 			Enrique Silva 
 		</td>
 		<td>No Company</td>
@@ -3905,7 +3907,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/juliocw18">
 				<img src="https://avatars.githubusercontent.com/u/71946172?s=72&u=9e45042a5c3d534663344318fa0e956db9d08b1c&v=4" width="24" alt="Avatar of juliocw18"> juliocw18
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#juliocw18">Copy rank badge</a><br/>
 			Julio Chen
 		</td>
 		<td>No Company</td>
@@ -3918,7 +3920,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jaimesbgab">
 				<img src="https://avatars.githubusercontent.com/u/159469561?s=72&u=d04735841530d71ba723d529c9dfa434819b3e5b&v=4" width="24" alt="Avatar of jaimesbgab"> jaimesbgab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jaimesbgab">Copy rank badge</a><br/>
 			Gabriel Alejandro Jaimes
 		</td>
 		<td>Freelancer </td>
@@ -3931,7 +3933,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/AChris07">
 				<img src="https://avatars.githubusercontent.com/u/4684558?s=72&u=c5df228675077327e057fb65645e7a851c1133be&v=4" width="24" alt="Avatar of AChris07"> AChris07
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#AChris07">Copy rank badge</a><br/>
 			Cristiano Amici
 		</td>
 		<td>Huge </td>
@@ -3944,7 +3946,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ecedenyo">
 				<img src="https://avatars.githubusercontent.com/u/2360081?s=72&v=4" width="24" alt="Avatar of ecedenyo"> ecedenyo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ecedenyo">Copy rank badge</a><br/>
 			Emerson Cedeño
 		</td>
 		<td>Logic Studio </td>
@@ -3957,7 +3959,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jmbarrios27">
 				<img src="https://avatars.githubusercontent.com/u/55581483?s=72&u=4f251ebc19e2d7057248a3226d47f9df002d8a68&v=4" width="24" alt="Avatar of jmbarrios27"> jmbarrios27
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jmbarrios27">Copy rank badge</a><br/>
 			José Max Barrios
 		</td>
 		<td>Panama Canal </td>
@@ -3970,7 +3972,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/itsfreddyrb">
 				<img src="https://avatars.githubusercontent.com/u/7672885?s=72&v=4" width="24" alt="Avatar of itsfreddyrb"> itsfreddyrb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#itsfreddyrb">Copy rank badge</a><br/>
 			itsfreddyrb
 		</td>
 		<td>No Company</td>
@@ -3983,7 +3985,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/vaxjc">
 				<img src="https://avatars.githubusercontent.com/u/163893697?s=72&u=be5111e06e4075091ce2762d2244be0a15ada2d2&v=4" width="24" alt="Avatar of vaxjc"> vaxjc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#vaxjc">Copy rank badge</a><br/>
 			Juan Varela
 		</td>
 		<td>No Company</td>
@@ -3996,7 +3998,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/abolivar">
 				<img src="https://avatars.githubusercontent.com/u/92059?s=72&v=4" width="24" alt="Avatar of abolivar"> abolivar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#abolivar">Copy rank badge</a><br/>
 			Argenis David Bolivar
 		</td>
 		<td>No Company</td>
@@ -4009,7 +4011,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/DJHodgens">
 				<img src="https://avatars.githubusercontent.com/u/229031787?s=72&v=4" width="24" alt="Avatar of DJHodgens"> DJHodgens
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#DJHodgens">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Quantum Entanglement In Human-ai<br/>Development<br/><br/></td>
@@ -4022,7 +4024,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/joseantonioamaya">
 				<img src="https://avatars.githubusercontent.com/u/68615071?s=72&u=29b84e4eae1ff2fa78455c8da4d66946c31b33f7&v=4" width="24" alt="Avatar of joseantonioamaya"> joseantonioamaya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#joseantonioamaya">Copy rank badge</a><br/>
 			Jose Amaya
 		</td>
 		<td>@pitbullsoft </td>
@@ -4035,7 +4037,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/miningthecoin">
 				<img src="https://avatars.githubusercontent.com/u/64866499?s=72&u=f074cfb8b6f2a3b7b020a343f5a97b3d5299a1f2&v=4" width="24" alt="Avatar of miningthecoin"> miningthecoin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#miningthecoin">Copy rank badge</a><br/>
 			MiningTheCoin
 		</td>
 		<td>No Company</td>
@@ -4048,7 +4050,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/PaulChen507">
 				<img src="https://avatars.githubusercontent.com/u/45174352?s=72&u=f3b199c85fecc3840fbbe7b0b97791a0ba3ca266&v=4" width="24" alt="Avatar of PaulChen507"> PaulChen507
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#PaulChen507">Copy rank badge</a><br/>
 			PaulChen507
 		</td>
 		<td>No Company</td>
@@ -4061,7 +4063,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/AlexanderBaikal">
 				<img src="https://avatars.githubusercontent.com/u/60140669?s=72&v=4" width="24" alt="Avatar of AlexanderBaikal"> AlexanderBaikal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#AlexanderBaikal">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4074,7 +4076,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/joseabraham">
 				<img src="https://avatars.githubusercontent.com/u/10468236?s=72&u=8212fb718a75a364d60a31f0048bc56a13a6b385&v=4" width="24" alt="Avatar of joseabraham"> joseabraham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#joseabraham">Copy rank badge</a><br/>
 			Jose Abraham Garcia
 		</td>
 		<td>Eprezto.com </td>
@@ -4087,7 +4089,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/panamariddick">
 				<img src="https://avatars.githubusercontent.com/u/18664114?s=72&u=364d2c68c3ae54b147f853d0a2ddaf37762f7104&v=4" width="24" alt="Avatar of panamariddick"> panamariddick
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#panamariddick">Copy rank badge</a><br/>
 			Roderick G
 		</td>
 		<td>No Company</td>
@@ -4100,7 +4102,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/aldocano29">
 				<img src="https://avatars.githubusercontent.com/u/20285968?s=72&u=016a7d0c8673aaaa46a5b7a6984d1b136c9fc516&v=4" width="24" alt="Avatar of aldocano29"> aldocano29
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#aldocano29">Copy rank badge</a><br/>
 			Aldo Cano
 		</td>
 		<td>No Company</td>
@@ -4113,7 +4115,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/amitsamtani">
 				<img src="https://avatars.githubusercontent.com/u/107021?s=72&v=4" width="24" alt="Avatar of amitsamtani"> amitsamtani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#amitsamtani">Copy rank badge</a><br/>
 			Amit Samtani
 		</td>
 		<td>Tech And House </td>
@@ -4126,7 +4128,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/arturochent">
 				<img src="https://avatars.githubusercontent.com/u/60562941?s=72&u=c9746de3973f1386f43d6bc04a95622d5a11f155&v=4" width="24" alt="Avatar of arturochent"> arturochent
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#arturochent">Copy rank badge</a><br/>
 			Arturo Chen
 		</td>
 		<td>No Company</td>
@@ -4139,7 +4141,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/mjaenvargas">
 				<img src="https://avatars.githubusercontent.com/u/108007782?s=72&u=78b9cc289ce2f806ea2f53d6b4cd45e7866abdf3&v=4" width="24" alt="Avatar of mjaenvargas"> mjaenvargas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#mjaenvargas">Copy rank badge</a><br/>
 			Milagros  Jaén-Vargas
 		</td>
 		<td>Ctb - Upm </td>
@@ -4152,7 +4154,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jezmn">
 				<img src="https://avatars.githubusercontent.com/u/210289157?s=72&u=b9257b4d7b6bfc0c6607a44ed727cd2e87f29520&v=4" width="24" alt="Avatar of jezmn"> jezmn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jezmn">Copy rank badge</a><br/>
 			jesus moreno
 		</td>
 		<td>No Company</td>
@@ -4165,7 +4167,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/sc10n-eth">
 				<img src="https://avatars.githubusercontent.com/u/351782?s=72&u=deaa65ebb512dd534a868ded6999c1990e8a94a3&v=4" width="24" alt="Avatar of sc10n-eth"> sc10n-eth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#sc10n-eth">Copy rank badge</a><br/>
 			Steven Clarke-Martin
 		</td>
 		<td>Tesseras Labs </td>
@@ -4178,7 +4180,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/mopx">
 				<img src="https://avatars.githubusercontent.com/u/12272?s=72&u=c9c2231fbd05d7ba3af83811f88f9f74d2d9c461&v=4" width="24" alt="Avatar of mopx"> mopx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#mopx">Copy rank badge</a><br/>
 			Jorge Yau
 		</td>
 		<td>@jorge-yau  </td>
@@ -4191,7 +4193,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/AdanSaavedra">
 				<img src="https://avatars.githubusercontent.com/u/90541865?s=72&u=2dbb984176a8986b69b1b374b59bb8ea69ce8c2b&v=4" width="24" alt="Avatar of AdanSaavedra"> AdanSaavedra
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#AdanSaavedra">Copy rank badge</a><br/>
 			Adan Saavedra
 		</td>
 		<td>No Company</td>
@@ -4204,7 +4206,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/drchichodiaz">
 				<img src="https://avatars.githubusercontent.com/u/20830769?s=72&u=08279cad901da0539e2643dccdca6c85f086ad8c&v=4" width="24" alt="Avatar of drchichodiaz"> drchichodiaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#drchichodiaz">Copy rank badge</a><br/>
 			Adrian Diaz
 		</td>
 		<td>No Company</td>
@@ -4217,7 +4219,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/28veces">
 				<img src="https://avatars.githubusercontent.com/u/1709717?s=72&u=f5b63a875c5164ee1a970214e625e0ffc472e2ad&v=4" width="24" alt="Avatar of 28veces"> 28veces
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#28veces">Copy rank badge</a><br/>
 			Miguel Veces
 		</td>
 		<td>Pty </td>
@@ -4230,7 +4232,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Wismarr">
 				<img src="https://avatars.githubusercontent.com/u/12803996?s=72&v=4" width="24" alt="Avatar of Wismarr"> Wismarr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Wismarr">Copy rank badge</a><br/>
 			Wismar Rivas Elguin
 		</td>
 		<td>Consein </td>
@@ -4243,7 +4245,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jsaied99">
 				<img src="https://avatars.githubusercontent.com/u/50586124?s=72&u=338791e88a7e99f32f3497a841c02654844196bb&v=4" width="24" alt="Avatar of jsaied99"> jsaied99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jsaied99">Copy rank badge</a><br/>
 			Jamal Saied
 		</td>
 		<td>@codetec-inc  </td>
@@ -4256,7 +4258,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/richardominq">
 				<img src="https://avatars.githubusercontent.com/u/12249856?s=72&u=03bef0eafbdb7814a5abb8da4eac3bd4be85f3bd&v=4" width="24" alt="Avatar of richardominq"> richardominq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#richardominq">Copy rank badge</a><br/>
 			Luis Richard Dominguez
 		</td>
 		<td>No Company</td>
@@ -4269,7 +4271,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/GaboarCruz">
 				<img src="https://avatars.githubusercontent.com/u/86798784?s=72&u=59b9d2b90b7df9995ee005d240c009247769afb7&v=4" width="24" alt="Avatar of GaboarCruz"> GaboarCruz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#GaboarCruz">Copy rank badge</a><br/>
 			GabrielArizaDeLaCruz
 		</td>
 		<td>No Company</td>
@@ -4282,7 +4284,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/robtoes">
 				<img src="https://avatars.githubusercontent.com/u/6590079?s=72&u=8700135c296a1840332580386dc3ffc8fe33847f&v=4" width="24" alt="Avatar of robtoes"> robtoes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#robtoes">Copy rank badge</a><br/>
 			Roberto Tortolero Sanz
 		</td>
 		<td>Klamath Lbs </td>
@@ -4295,7 +4297,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Capuccinna">
 				<img src="https://avatars.githubusercontent.com/u/56525711?s=72&u=14d7d485730b05e3d6a93ecb962977a058dfddeb&v=4" width="24" alt="Avatar of Capuccinna"> Capuccinna
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Capuccinna">Copy rank badge</a><br/>
 			Smaragdus
 		</td>
 		<td>No Company</td>
@@ -4308,7 +4310,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/smadrom">
 				<img src="https://avatars.githubusercontent.com/u/53558044?s=72&u=f3b31767ef59ec36e6a019ff356f9161758d3d1f&v=4" width="24" alt="Avatar of smadrom"> smadrom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#smadrom">Copy rank badge</a><br/>
 			Pavel
 		</td>
 		<td>No Company</td>
@@ -4321,7 +4323,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Alek07">
 				<img src="https://avatars.githubusercontent.com/u/35198616?s=72&u=b45ca12f814e58acc5cd384d172d24fe6d412b41&v=4" width="24" alt="Avatar of Alek07"> Alek07
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Alek07">Copy rank badge</a><br/>
 			Alek Rutherford
 		</td>
 		<td>No Company</td>
@@ -4334,7 +4336,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Julio-Cesar-Code">
 				<img src="https://avatars.githubusercontent.com/u/69693704?s=72&u=e1986fe79d7cb8a1916a4bada7d8b7f4e027b055&v=4" width="24" alt="Avatar of Julio-Cesar-Code"> Julio-Cesar-Code
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Julio-Cesar-Code">Copy rank badge</a><br/>
 			Julio Cesar Chavez
 		</td>
 		<td>No Company</td>
@@ -4347,7 +4349,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/SebastianJordan">
 				<img src="https://avatars.githubusercontent.com/u/2831736?s=72&u=412349e876755dd0183e6e2a9e9283f9df94235c&v=4" width="24" alt="Avatar of SebastianJordan"> SebastianJordan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#SebastianJordan">Copy rank badge</a><br/>
 			Sebastian Jordan
 		</td>
 		<td>Banco General </td>
@@ -4360,7 +4362,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/rick2631">
 				<img src="https://avatars.githubusercontent.com/u/100965406?s=72&u=45e9bd31b649d201597188210dc52262f2390f27&v=4" width="24" alt="Avatar of rick2631"> rick2631
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#rick2631">Copy rank badge</a><br/>
 			Rick Zamora
 		</td>
 		<td>No Company</td>
@@ -4373,7 +4375,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/AnellSkill">
 				<img src="https://avatars.githubusercontent.com/u/145738443?s=72&v=4" width="24" alt="Avatar of AnellSkill"> AnellSkill
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#AnellSkill">Copy rank badge</a><br/>
 			Anell
 		</td>
 		<td>No Company</td>
@@ -4386,7 +4388,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jaimesoad">
 				<img src="https://avatars.githubusercontent.com/u/67212214?s=72&u=716ee8246c347b2f238ac1e3530602e02e504ae7&v=4" width="24" alt="Avatar of jaimesoad"> jaimesoad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jaimesoad">Copy rank badge</a><br/>
 			Jaime Acosta
 		</td>
 		<td>No Company</td>
@@ -4399,7 +4401,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/BQComm">
 				<img src="https://avatars.githubusercontent.com/u/77318191?s=72&u=9d78e2807026626831685c30145753ed4b4dffe9&v=4" width="24" alt="Avatar of BQComm"> BQComm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#BQComm">Copy rank badge</a><br/>
 			Bryan Quiroz
 		</td>
 		<td>Freelancer </td>
@@ -4412,7 +4414,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/lfloresbatista">
 				<img src="https://avatars.githubusercontent.com/u/97482694?s=72&v=4" width="24" alt="Avatar of lfloresbatista"> lfloresbatista
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#lfloresbatista">Copy rank badge</a><br/>
 			Luis Flores
 		</td>
 		<td>No Company</td>
@@ -4425,7 +4427,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/oliverPTY">
 				<img src="https://avatars.githubusercontent.com/u/68890999?s=72&u=bf83ed4e87354442c946f9d6d8676474d6b0b5ac&v=4" width="24" alt="Avatar of oliverPTY"> oliverPTY
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#oliverPTY">Copy rank badge</a><br/>
 			Oliver Aparicio
 		</td>
 		<td>No Company</td>
@@ -4438,7 +4440,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/kuking">
 				<img src="https://avatars.githubusercontent.com/u/1817268?s=72&u=339cf87f397ba862b3883132f6d33b220d624b8e&v=4" width="24" alt="Avatar of kuking"> kuking
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#kuking">Copy rank badge</a><br/>
 			Ed Riccardi
 		</td>
 		<td>No Company</td>
@@ -4451,7 +4453,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/lessallan">
 				<img src="https://avatars.githubusercontent.com/u/30468?s=72&v=4" width="24" alt="Avatar of lessallan"> lessallan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#lessallan">Copy rank badge</a><br/>
 			Allan Branch
 		</td>
 		<td>Less Everything, Inc. </td>
@@ -4464,7 +4466,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jasoncai0">
 				<img src="https://avatars.githubusercontent.com/u/8760914?s=72&u=17194e26833eb2ce325a5ac4ac02c48642a07f8c&v=4" width="24" alt="Avatar of jasoncai0"> jasoncai0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jasoncai0">Copy rank badge</a><br/>
 			jason cai
 		</td>
 		<td>Bahringer-gulgowski </td>
@@ -4477,7 +4479,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/EnnubaBPMN2">
 				<img src="https://avatars.githubusercontent.com/u/34802457?s=72&u=702f0bc2c544551bc077a4716737a162f92c91b9&v=4" width="24" alt="Avatar of EnnubaBPMN2"> EnnubaBPMN2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#EnnubaBPMN2">Copy rank badge</a><br/>
 			ENNUBA
 		</td>
 		<td>@ennuba  </td>
@@ -4490,7 +4492,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/javierarrue">
 				<img src="https://avatars.githubusercontent.com/u/62568080?s=72&u=1b7debf540b6538844e31e4a576cf4cdcbf1d835&v=4" width="24" alt="Avatar of javierarrue"> javierarrue
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#javierarrue">Copy rank badge</a><br/>
 			Javier Arrue
 		</td>
 		<td>No Company</td>
@@ -4503,7 +4505,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/josebladex">
 				<img src="https://avatars.githubusercontent.com/u/38568706?s=72&u=cd0e06f5090564c573bb2501c800b781e7258b0b&v=4" width="24" alt="Avatar of josebladex"> josebladex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#josebladex">Copy rank badge</a><br/>
 			Jose Plata
 		</td>
 		<td>No Company</td>
@@ -4516,7 +4518,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jsgalan">
 				<img src="https://avatars.githubusercontent.com/u/971958?s=72&u=636ea53247a4e6d36a37e2642fe4a736b251732e&v=4" width="24" alt="Avatar of jsgalan"> jsgalan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jsgalan">Copy rank badge</a><br/>
 			Javier Sanchez Galan
 		</td>
 		<td>No Company</td>
@@ -4529,7 +4531,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Ryuksito">
 				<img src="https://avatars.githubusercontent.com/u/69592821?s=72&u=af097fba52b5a092f55f185d286fc62e99b4f6fb&v=4" width="24" alt="Avatar of Ryuksito"> Ryuksito
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Ryuksito">Copy rank badge</a><br/>
 			Alan Delgado
 		</td>
 		<td>No Company</td>
@@ -4542,7 +4544,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/csisnett">
 				<img src="https://avatars.githubusercontent.com/u/19243165?s=72&u=f7b1cc4fba35929fc7253e4836d7a2194b8b369d&v=4" width="24" alt="Avatar of csisnett"> csisnett
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#csisnett">Copy rank badge</a><br/>
 			Carlos Sisnett
 		</td>
 		<td>No Company</td>
@@ -4555,7 +4557,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/YannickAlexander">
 				<img src="https://avatars.githubusercontent.com/u/74278552?s=72&u=b2011744b1c2148e7aec8ad0fd1ae977285848b3&v=4" width="24" alt="Avatar of YannickAlexander"> YannickAlexander
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#YannickAlexander">Copy rank badge</a><br/>
 			Yanick Alexander
 		</td>
 		<td>No Company</td>
@@ -4568,7 +4570,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/fjugaldev">
 				<img src="https://avatars.githubusercontent.com/u/697428?s=72&v=4" width="24" alt="Avatar of fjugaldev"> fjugaldev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#fjugaldev">Copy rank badge</a><br/>
 			Francisco Javier Ugalde
 		</td>
 		<td>No Company</td>
@@ -4581,7 +4583,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/0xhzr1">
 				<img src="https://avatars.githubusercontent.com/u/223987850?s=72&u=ee715e4eaa735f28fce15c2b508008a6d807b5c8&v=4" width="24" alt="Avatar of 0xhzr1"> 0xhzr1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#0xhzr1">Copy rank badge</a><br/>
 			kzr
 		</td>
 		<td>No Company</td>
@@ -4594,7 +4596,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/BlakCake">
 				<img src="https://avatars.githubusercontent.com/u/18336899?s=72&u=e2b706442b7d547c6f6f8d91562eb8a5c6013bd0&v=4" width="24" alt="Avatar of BlakCake"> BlakCake
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#BlakCake">Copy rank badge</a><br/>
 			Christian Barsallo
 		</td>
 		<td>No Company</td>
@@ -4607,7 +4609,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jrivasromi">
 				<img src="https://avatars.githubusercontent.com/u/12226855?s=72&u=f1952bcf9181fc89074509432099fa9107919066&v=4" width="24" alt="Avatar of jrivasromi"> jrivasromi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jrivasromi">Copy rank badge</a><br/>
 			Alexis Rivas
 		</td>
 		<td>Esri </td>
@@ -4620,7 +4622,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Dreycko">
 				<img src="https://avatars.githubusercontent.com/u/3641024?s=72&v=4" width="24" alt="Avatar of Dreycko"> Dreycko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Dreycko">Copy rank badge</a><br/>
 			Edwin Toribio
 		</td>
 		<td>Habiotec </td>
@@ -4633,7 +4635,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jeremie-rostan">
 				<img src="https://avatars.githubusercontent.com/u/219889512?s=72&u=61939d707978e030d8222b02b429c3230dd66e97&v=4" width="24" alt="Avatar of jeremie-rostan"> jeremie-rostan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jeremie-rostan">Copy rank badge</a><br/>
 			Jérémie Rostan
 		</td>
 		<td>No Company</td>
@@ -4646,7 +4648,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ElTitox">
 				<img src="https://avatars.githubusercontent.com/u/100016262?s=72&u=e1942d18b940771633f97621dcad126c3f393a41&v=4" width="24" alt="Avatar of ElTitox"> ElTitox
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ElTitox">Copy rank badge</a><br/>
 			José
 		</td>
 		<td>No Company</td>
@@ -4659,7 +4661,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Crawron">
 				<img src="https://avatars.githubusercontent.com/u/19144605?s=72&u=64bf5d1d7fc00fd41d535a7c9935d6058708393a&v=4" width="24" alt="Avatar of Crawron"> Crawron
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Crawron">Copy rank badge</a><br/>
 			Aaron
 		</td>
 		<td>@discohook </td>
@@ -4672,7 +4674,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/gsuscastellanosSC">
 				<img src="https://avatars.githubusercontent.com/u/53982913?s=72&u=6ec46a66770ce030b1e8211aff8ba16b1ad16a89&v=4" width="24" alt="Avatar of gsuscastellanosSC"> gsuscastellanosSC
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#gsuscastellanosSC">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4685,7 +4687,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Marityb">
 				<img src="https://avatars.githubusercontent.com/u/130790055?s=72&u=6c45f4aed69cc430a9e35995303ada59c93bba8b&v=4" width="24" alt="Avatar of Marityb"> Marityb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Marityb">Copy rank badge</a><br/>
 			Marisa_tyb
 		</td>
 		<td>T&b Turismo Y Bienestar<br/></td>
@@ -4698,7 +4700,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/erangel">
 				<img src="https://avatars.githubusercontent.com/u/622295?s=72&v=4" width="24" alt="Avatar of erangel"> erangel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#erangel">Copy rank badge</a><br/>
 			Elias Rangel
 		</td>
 		<td>No Company</td>
@@ -4711,7 +4713,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/cheposki">
 				<img src="https://avatars.githubusercontent.com/u/5551355?s=72&u=2ea9fee2c375310c36f2488b7bf1d09229631b03&v=4" width="24" alt="Avatar of cheposki"> cheposki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#cheposki">Copy rank badge</a><br/>
 			Diogenes Ardines
 		</td>
 		<td>Autoridad Del Canal De<br/>Panamá<br/></td>
@@ -4724,7 +4726,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/mike-hanono">
 				<img src="https://avatars.githubusercontent.com/u/98059885?s=72&u=0c4530b4dc602a9db5ec3d14a58f579aca03df70&v=4" width="24" alt="Avatar of mike-hanono"> mike-hanono
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#mike-hanono">Copy rank badge</a><br/>
 			Mike Hanono
 		</td>
 		<td>Talus Labs, Inc. </td>
@@ -4737,7 +4739,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Axel9994">
 				<img src="https://avatars.githubusercontent.com/u/6643313?s=72&u=7de8ada034ef69c639e225bcabd8ff3d3559e756&v=4" width="24" alt="Avatar of Axel9994"> Axel9994
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Axel9994">Copy rank badge</a><br/>
 			Axel Aleman
 		</td>
 		<td>Pec </td>
@@ -4750,7 +4752,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/elmerjaen">
 				<img src="https://avatars.githubusercontent.com/u/86205348?s=72&v=4" width="24" alt="Avatar of elmerjaen"> elmerjaen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#elmerjaen">Copy rank badge</a><br/>
 			Elmer Jaén
 		</td>
 		<td>Universidad Tecnológica De Panamá<br/></td>
@@ -4763,7 +4765,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/luival01">
 				<img src="https://avatars.githubusercontent.com/u/62024294?s=72&v=4" width="24" alt="Avatar of luival01"> luival01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#luival01">Copy rank badge</a><br/>
 			Luis
 		</td>
 		<td>Student </td>
@@ -4776,7 +4778,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/rootbc01">
 				<img src="https://avatars.githubusercontent.com/u/80192164?s=72&u=4e392eefbf34185a217692b181157a224043ca15&v=4" width="24" alt="Avatar of rootbc01"> rootbc01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#rootbc01">Copy rank badge</a><br/>
 			Carlos Blandon
 		</td>
 		<td>No Company</td>
@@ -4789,7 +4791,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/AvaoCore">
 				<img src="https://avatars.githubusercontent.com/u/134414477?s=72&u=db83cc1ae7087440ea724af85b0117272cda71a3&v=4" width="24" alt="Avatar of AvaoCore"> AvaoCore
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#AvaoCore">Copy rank badge</a><br/>
 			Avao Foundation - Core
 		</td>
 		<td>No Company</td>
@@ -4802,7 +4804,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/fabriguzden">
 				<img src="https://avatars.githubusercontent.com/u/27593140?s=72&u=add9b0343214ac78158991526957dd6209d792a9&v=4" width="24" alt="Avatar of fabriguzden"> fabriguzden
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#fabriguzden">Copy rank badge</a><br/>
 			Fabriccio Antonio Guzman Denham
 		</td>
 		<td>No Company</td>
@@ -4815,7 +4817,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/leelandmiller">
 				<img src="https://avatars.githubusercontent.com/u/7775399?s=72&u=3cce59e421082923dafad53ee36e3801c48a6eb1&v=4" width="24" alt="Avatar of leelandmiller"> leelandmiller
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#leelandmiller">Copy rank badge</a><br/>
 			Leeland Miller
 		</td>
 		<td>No Company</td>
@@ -4828,7 +4830,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ehan16">
 				<img src="https://avatars.githubusercontent.com/u/54789966?s=72&u=cd14678edc5e2b981f5209eac26f44b75e24521e&v=4" width="24" alt="Avatar of ehan16"> ehan16
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ehan16">Copy rank badge</a><br/>
 			Erika Han
 		</td>
 		<td>Procter & Gamble </td>
@@ -4841,7 +4843,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Dilson1502">
 				<img src="https://avatars.githubusercontent.com/u/71112278?s=72&u=a15a6b51ba7e2d703ee3f890d98fe4aa999604d0&v=4" width="24" alt="Avatar of Dilson1502"> Dilson1502
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Dilson1502">Copy rank badge</a><br/>
 			Dilson Castro Hernández
 		</td>
 		<td>Procter&gamble </td>
@@ -4854,7 +4856,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/josegl06">
 				<img src="https://avatars.githubusercontent.com/u/1206857?s=72&u=d497461eb80e522a7fbb68f8ccedd30266f08686&v=4" width="24" alt="Avatar of josegl06"> josegl06
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#josegl06">Copy rank badge</a><br/>
 			JoseG1990
 		</td>
 		<td>No Company</td>
@@ -4867,7 +4869,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/mgaitan09">
 				<img src="https://avatars.githubusercontent.com/u/35647840?s=72&u=e907f703c20e216b79882b3079a716c459d1ce1c&v=4" width="24" alt="Avatar of mgaitan09"> mgaitan09
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#mgaitan09">Copy rank badge</a><br/>
 			Miguel Gaitan
 		</td>
 		<td>No Company</td>
@@ -4880,7 +4882,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jose-tells">
 				<img src="https://avatars.githubusercontent.com/u/77627433?s=72&u=d317b27657a63aea1927cb1ad68e134217882361&v=4" width="24" alt="Avatar of jose-tells"> jose-tells
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jose-tells">Copy rank badge</a><br/>
 			Jose Marquinez
 		</td>
 		<td>No Company</td>
@@ -4893,7 +4895,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/itsjesushx">
 				<img src="https://avatars.githubusercontent.com/u/140932715?s=72&u=82b0b310cecfed833b1c58b10f237e1759f72427&v=4" width="24" alt="Avatar of itsjesushx"> itsjesushx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#itsjesushx">Copy rank badge</a><br/>
 			Jesushi
 		</td>
 		<td>No Company</td>
@@ -4906,7 +4908,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Mandres07">
 				<img src="https://avatars.githubusercontent.com/u/66852885?s=72&u=d2227974fe21a3b3299eb12a14ea1ca141f5c14e&v=4" width="24" alt="Avatar of Mandres07"> Mandres07
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Mandres07">Copy rank badge</a><br/>
 			Mario Andrés Morales
 		</td>
 		<td>Efiscal Networks </td>
@@ -4919,7 +4921,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/mixkey23">
 				<img src="https://avatars.githubusercontent.com/u/62155503?s=72&v=4" width="24" alt="Avatar of mixkey23"> mixkey23
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#mixkey23">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Anorco </td>
@@ -4932,7 +4934,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Takata21">
 				<img src="https://avatars.githubusercontent.com/u/54631891?s=72&u=ea0120f342ad9d7a8b606e760d1a5e66cb8a59df&v=4" width="24" alt="Avatar of Takata21"> Takata21
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Takata21">Copy rank badge</a><br/>
 			Manuel Takata
 		</td>
 		<td>Universidad Tecnológica De Panamá<br/></td>
@@ -4945,7 +4947,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/MiguePinilla">
 				<img src="https://avatars.githubusercontent.com/u/111702179?s=72&v=4" width="24" alt="Avatar of MiguePinilla"> MiguePinilla
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#MiguePinilla">Copy rank badge</a><br/>
 			Miguel Pinilla
 		</td>
 		<td>No Company</td>
@@ -4958,7 +4960,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/maryito">
 				<img src="https://avatars.githubusercontent.com/u/12788867?s=72&v=4" width="24" alt="Avatar of maryito"> maryito
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#maryito">Copy rank badge</a><br/>
 			Maryon Torres
 		</td>
 		<td>No Company</td>
@@ -4971,7 +4973,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/oevl">
 				<img src="https://avatars.githubusercontent.com/u/174772?s=72&v=4" width="24" alt="Avatar of oevl"> oevl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#oevl">Copy rank badge</a><br/>
 			Omar Vasquez Lima
 		</td>
 		<td>No Company</td>
@@ -4984,7 +4986,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/zubietaroberto">
 				<img src="https://avatars.githubusercontent.com/u/1283714?s=72&u=127a68ac94671d5b6262927537ae15b8c4d2e1a9&v=4" width="24" alt="Avatar of zubietaroberto"> zubietaroberto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#zubietaroberto">Copy rank badge</a><br/>
 			Roberto Eduardo Zubieta
 		</td>
 		<td>@admios  </td>
@@ -4997,7 +4999,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/johanngonzalez">
 				<img src="https://avatars.githubusercontent.com/u/56042?s=72&v=4" width="24" alt="Avatar of johanngonzalez"> johanngonzalez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#johanngonzalez">Copy rank badge</a><br/>
 			Johann González
 		</td>
 		<td>Johann González </td>
@@ -5010,7 +5012,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/SirRodney">
 				<img src="https://avatars.githubusercontent.com/u/34220863?s=72&u=d9740ed0cf58c1cefe5d3ed1292e5e4af42aadfd&v=4" width="24" alt="Avatar of SirRodney"> SirRodney
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#SirRodney">Copy rank badge</a><br/>
 			Rodney
 		</td>
 		<td>No Company</td>
@@ -5023,7 +5025,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jllinares">
 				<img src="https://avatars.githubusercontent.com/u/12477640?s=72&u=6dc4d9f054670b46eb8be5ab6b835646501f03dd&v=4" width="24" alt="Avatar of jllinares"> jllinares
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jllinares">Copy rank badge</a><br/>
 			Javier Llinares
 		</td>
 		<td>Banco General </td>
@@ -5036,7 +5038,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/juliben">
 				<img src="https://avatars.githubusercontent.com/u/166950214?s=72&u=df0319b4473df13c4bc623c8ce2d6a4c6e613e9b&v=4" width="24" alt="Avatar of juliben"> juliben
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#juliben">Copy rank badge</a><br/>
 			Julieta
 		</td>
 		<td>No Company</td>
@@ -5049,7 +5051,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jamseams">
 				<img src="https://avatars.githubusercontent.com/u/7048792?s=72&v=4" width="24" alt="Avatar of jamseams"> jamseams
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jamseams">Copy rank badge</a><br/>
 			Juan Mo
 		</td>
 		<td>No Company</td>
@@ -5062,7 +5064,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/avocarlos">
 				<img src="https://avatars.githubusercontent.com/u/16023423?s=72&u=c5e85e6a311e4d1bd438b596032cdfdf76166d8b&v=4" width="24" alt="Avatar of avocarlos"> avocarlos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#avocarlos">Copy rank badge</a><br/>
 			Carlos Garcia
 		</td>
 		<td>No Company</td>
@@ -5075,7 +5077,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/leoluxburg">
 				<img src="https://avatars.githubusercontent.com/u/5751206?s=72&u=2f1b21137d1208ba053e926d6e2917e1e2725294&v=4" width="24" alt="Avatar of leoluxburg"> leoluxburg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#leoluxburg">Copy rank badge</a><br/>
 			Leonardo Luxburg
 		</td>
 		<td>No Company</td>
@@ -5088,7 +5090,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/anibaljrp">
 				<img src="https://avatars.githubusercontent.com/u/133814206?s=72&u=47b7ed4970062f017044d4a69394607f12251c87&v=4" width="24" alt="Avatar of anibaljrp"> anibaljrp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#anibaljrp">Copy rank badge</a><br/>
 			Anibal
 		</td>
 		<td>No Company</td>
@@ -5101,7 +5103,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/DanielaEAR">
 				<img src="https://avatars.githubusercontent.com/u/87284687?s=72&u=c6db86c35371e74a9bcec46af74a5f6cdf41ea18&v=4" width="24" alt="Avatar of DanielaEAR"> DanielaEAR
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#DanielaEAR">Copy rank badge</a><br/>
 			Daniela Aparicio
 		</td>
 		<td>Bango General </td>
@@ -5114,7 +5116,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/pabloaguirreonq">
 				<img src="https://avatars.githubusercontent.com/u/179147085?s=72&v=4" width="24" alt="Avatar of pabloaguirreonq"> pabloaguirreonq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#pabloaguirreonq">Copy rank badge</a><br/>
 			Pablo Aguirre
 		</td>
 		<td>Onq </td>
@@ -5127,7 +5129,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jfcoronado">
 				<img src="https://avatars.githubusercontent.com/u/42303459?s=72&u=70b829f4c98368da4018477742056f780b1b62cb&v=4" width="24" alt="Avatar of jfcoronado"> jfcoronado
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jfcoronado">Copy rank badge</a><br/>
 			Jose Felix Coronado
 		</td>
 		<td>Dell Technologies </td>
@@ -5140,7 +5142,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/vladimir3006">
 				<img src="https://avatars.githubusercontent.com/u/26657249?s=72&u=fec3e7257b43d51e4b4fe3a1fe22cdcd64e870b9&v=4" width="24" alt="Avatar of vladimir3006"> vladimir3006
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#vladimir3006">Copy rank badge</a><br/>
 			Vladimir Valladares
 		</td>
 		<td>Didaskalia 3.0 </td>
@@ -5153,7 +5155,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/luckycharmsx">
 				<img src="https://avatars.githubusercontent.com/u/2263550?s=72&u=ac938d57e0cedb88f42f0ef3af06ac7bf826341b&v=4" width="24" alt="Avatar of luckycharmsx"> luckycharmsx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#luckycharmsx">Copy rank badge</a><br/>
 			Lucky CharmsX
 		</td>
 		<td>@susaeta-editorial </td>
@@ -5166,7 +5168,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ozonechainofficial">
 				<img src="https://avatars.githubusercontent.com/u/215939736?s=72&u=d3d3340c19d13020b1bb4fc7e72e509f4dea85d8&v=4" width="24" alt="Avatar of ozonechainofficial"> ozonechainofficial
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ozonechainofficial">Copy rank badge</a><br/>
 			OZONE CHAIN
 		</td>
 		<td>Ozone Automation Technology Inc<br/></td>
@@ -5179,7 +5181,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ericdaniel">
 				<img src="https://avatars.githubusercontent.com/u/17369?s=72&v=4" width="24" alt="Avatar of ericdaniel"> ericdaniel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ericdaniel">Copy rank badge</a><br/>
 			Eric Acevedo
 		</td>
 		<td>Eacevedo </td>
@@ -5192,7 +5194,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Vortecsmaster">
 				<img src="https://avatars.githubusercontent.com/u/19583760?s=72&u=1acad7b7a20757834ecddd2a3cd4af990fb7b706&v=4" width="24" alt="Avatar of Vortecsmaster"> Vortecsmaster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Vortecsmaster">Copy rank badge</a><br/>
 			Vortecs 
 		</td>
 		<td>Vortecs </td>
@@ -5205,7 +5207,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/luccianozz">
 				<img src="https://avatars.githubusercontent.com/u/42782441?s=72&u=06985a5a6b3a908039dddaafbb8ddb35f1761c72&v=4" width="24" alt="Avatar of luccianozz"> luccianozz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#luccianozz">Copy rank badge</a><br/>
 			Luciano Zavala
 		</td>
 		<td>Copa Airlines </td>
@@ -5218,7 +5220,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/kirill-terekhov">
 				<img src="https://avatars.githubusercontent.com/u/6803580?s=72&v=4" width="24" alt="Avatar of kirill-terekhov"> kirill-terekhov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#kirill-terekhov">Copy rank badge</a><br/>
 			Kirill Terekhov
 		</td>
 		<td>Stanford </td>
@@ -5231,7 +5233,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/mynameiskira">
 				<img src="https://avatars.githubusercontent.com/u/79657238?s=72&u=79ca47f3d6370a4a0e837d819b5ab291eef9aac7&v=4" width="24" alt="Avatar of mynameiskira"> mynameiskira
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#mynameiskira">Copy rank badge</a><br/>
 			k
 		</td>
 		<td>No Company</td>
@@ -5244,7 +5246,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/daveed07">
 				<img src="https://avatars.githubusercontent.com/u/79769134?s=72&u=be88d3ba3fd880e22a7df176ccd6cc455dc0f218&v=4" width="24" alt="Avatar of daveed07"> daveed07
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#daveed07">Copy rank badge</a><br/>
 			David Zuñiga
 		</td>
 		<td>No Company</td>
@@ -5257,7 +5259,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/bigrobinson">
 				<img src="https://avatars.githubusercontent.com/u/42244176?s=72&u=5e34a2e025e39007b8bcf344424759aa3ca64830&v=4" width="24" alt="Avatar of bigrobinson"> bigrobinson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#bigrobinson">Copy rank badge</a><br/>
 			Brian Robinson
 		</td>
 		<td>Torch Technologies </td>
@@ -5270,7 +5272,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/EstefaniF23">
 				<img src="https://avatars.githubusercontent.com/u/189394252?s=72&u=6e2642d9fb6c2f3fb8846f85bd88ad3bc22227b4&v=4" width="24" alt="Avatar of EstefaniF23"> EstefaniF23
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#EstefaniF23">Copy rank badge</a><br/>
 			EstefaniFlores
 		</td>
 		<td>Centro ¡supérate! Fundacion Alberto<br/>Motta<br/></td>
@@ -5283,7 +5285,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/scjcoder">
 				<img src="https://avatars.githubusercontent.com/u/15017600?s=72&v=4" width="24" alt="Avatar of scjcoder"> scjcoder
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#scjcoder">Copy rank badge</a><br/>
 			Sean C. Johnson
 		</td>
 		<td>No Company</td>
@@ -5296,7 +5298,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/samyr0722">
 				<img src="https://avatars.githubusercontent.com/u/28767847?s=72&u=3a84991e3e784e1c97139fafb76f60f027457a4f&v=4" width="24" alt="Avatar of samyr0722"> samyr0722
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#samyr0722">Copy rank badge</a><br/>
 			Samuel Vasquez Xplor
 		</td>
 		<td>Xplor </td>
@@ -5309,7 +5311,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ginomakes">
 				<img src="https://avatars.githubusercontent.com/u/56286454?s=72&u=6d1999e896199006dbf65c558eb18a8171ab9d30&v=4" width="24" alt="Avatar of ginomakes"> ginomakes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ginomakes">Copy rank badge</a><br/>
 			Gino
 		</td>
 		<td>Langan </td>
@@ -5322,7 +5324,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/magdielgutierrez">
 				<img src="https://avatars.githubusercontent.com/u/46491988?s=72&u=5475fc341ee01fa3b4e71ef824b793b2875f73ef&v=4" width="24" alt="Avatar of magdielgutierrez"> magdielgutierrez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#magdielgutierrez">Copy rank badge</a><br/>
 			Magdiel Gutiérrez
 		</td>
 		<td>No Company</td>
@@ -5335,7 +5337,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/LuisaFGomezC">
 				<img src="https://avatars.githubusercontent.com/u/123587288?s=72&u=9ebcea5bf5942a25c9fd9f9477bb0b36286b9a64&v=4" width="24" alt="Avatar of LuisaFGomezC"> LuisaFGomezC
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#LuisaFGomezC">Copy rank badge</a><br/>
 			Luisa F. Gómez-Correa
 		</td>
 		<td>Smithsonian Tropical Research Institute<br/></td>
@@ -5348,7 +5350,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Unboundscience">
 				<img src="https://avatars.githubusercontent.com/u/161249422?s=72&u=7a151247af6f325d2ee36ac6ad74536472f44e77&v=4" width="24" alt="Avatar of Unboundscience"> Unboundscience
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Unboundscience">Copy rank badge</a><br/>
 			Unbound Science
 		</td>
 		<td>Unbound Science </td>
@@ -5361,7 +5363,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/dploche">
 				<img src="https://avatars.githubusercontent.com/u/128251684?s=72&v=4" width="24" alt="Avatar of dploche"> dploche
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#dploche">Copy rank badge</a><br/>
 			Diego Ploche
 		</td>
 		<td>No Company</td>
@@ -5374,7 +5376,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/aaaj1510">
 				<img src="https://avatars.githubusercontent.com/u/149129592?s=72&v=4" width="24" alt="Avatar of aaaj1510"> aaaj1510
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#aaaj1510">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5387,7 +5389,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/rodriguez-sosa">
 				<img src="https://avatars.githubusercontent.com/u/27388771?s=72&u=16d2c454078613c2ecebd5b20d2caeca3840f5c7&v=4" width="24" alt="Avatar of rodriguez-sosa"> rodriguez-sosa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#rodriguez-sosa">Copy rank badge</a><br/>
 			José Rodríguez Sosa
 		</td>
 		<td>No Company</td>
@@ -5400,7 +5402,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/cabe56">
 				<img src="https://avatars.githubusercontent.com/u/822139?s=72&v=4" width="24" alt="Avatar of cabe56"> cabe56
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#cabe56">Copy rank badge</a><br/>
 			Jose Varela
 		</td>
 		<td>Cuanto </td>
@@ -5413,7 +5415,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/wanderindev">
 				<img src="https://avatars.githubusercontent.com/u/47220482?s=72&u=a458ec31966be169d0a63b4437a7a413fc422a54&v=4" width="24" alt="Avatar of wanderindev"> wanderindev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#wanderindev">Copy rank badge</a><br/>
 			Javier Feliu
 		</td>
 		<td>No Company</td>
@@ -5426,7 +5428,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/NeaSTDL">
 				<img src="https://avatars.githubusercontent.com/u/7611921?s=72&u=b5b9ed7b16b774cbb174e6a7220ad8d951cf4f27&v=4" width="24" alt="Avatar of NeaSTDL"> NeaSTDL
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#NeaSTDL">Copy rank badge</a><br/>
 			Emir Salazar
 		</td>
 		<td>Intech Ideas </td>
@@ -5439,7 +5441,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ChuckGriess">
 				<img src="https://avatars.githubusercontent.com/u/177987?s=72&u=102a417861e2e2b1cef4c5a4d258619d3de73495&v=4" width="24" alt="Avatar of ChuckGriess"> ChuckGriess
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ChuckGriess">Copy rank badge</a><br/>
 			Chuck Griess
 		</td>
 		<td>Stakesauce </td>
@@ -5452,7 +5454,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/urvog">
 				<img src="https://avatars.githubusercontent.com/u/459689?s=72&u=8491d74f78693b578de83935fa45f0d8ddcaad57&v=4" width="24" alt="Avatar of urvog"> urvog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#urvog">Copy rank badge</a><br/>
 			Mauricio Arancibia
 		</td>
 		<td>Simgular </td>
@@ -5465,7 +5467,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/JaimeAbdielCH">
 				<img src="https://avatars.githubusercontent.com/u/5631713?s=72&u=28c9e2015e2f9549be2191b3e654bb82d58b09c4&v=4" width="24" alt="Avatar of JaimeAbdielCH"> JaimeAbdielCH
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#JaimeAbdielCH">Copy rank badge</a><br/>
 			Jaime Chung
 		</td>
 		<td>3kings </td>
@@ -5478,7 +5480,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jesselard">
 				<img src="https://avatars.githubusercontent.com/u/29643918?s=72&u=ff8250a0e02febfd01b8c848d3335ed9b9ac5c51&v=4" width="24" alt="Avatar of jesselard"> jesselard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jesselard">Copy rank badge</a><br/>
 			Jesse Lard
 		</td>
 		<td>No Company</td>
@@ -5491,7 +5493,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/saruman">
 				<img src="https://avatars.githubusercontent.com/u/813190?s=72&v=4" width="24" alt="Avatar of saruman"> saruman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#saruman">Copy rank badge</a><br/>
 			Ezequiel Villarreal
 		</td>
 		<td>Soft Media Development </td>
@@ -5504,7 +5506,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/orlandolopez">
 				<img src="https://avatars.githubusercontent.com/u/492463?s=72&v=4" width="24" alt="Avatar of orlandolopez"> orlandolopez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#orlandolopez">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5517,7 +5519,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/kwspieker">
 				<img src="https://avatars.githubusercontent.com/u/64915082?s=72&v=4" width="24" alt="Avatar of kwspieker"> kwspieker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#kwspieker">Copy rank badge</a><br/>
 			Karl Spieker
 		</td>
 		<td>No Company</td>
@@ -5530,7 +5532,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Kiruma">
 				<img src="https://avatars.githubusercontent.com/u/195936?s=72&u=09d81094680ba8cbbdfcb641d797da9ac7ffcfec&v=4" width="24" alt="Avatar of Kiruma"> Kiruma
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Kiruma">Copy rank badge</a><br/>
 			Mario Gongora
 		</td>
 		<td>No Company</td>
@@ -5543,7 +5545,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/rcordobar19">
 				<img src="https://avatars.githubusercontent.com/u/11697510?s=72&u=f9674ea6f1da2d8011cfecb6e2864f9e75274ab1&v=4" width="24" alt="Avatar of rcordobar19"> rcordobar19
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#rcordobar19">Copy rank badge</a><br/>
 			Rafael Córdoba
 		</td>
 		<td>@resortpass </td>
@@ -5556,7 +5558,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/DavidDaniel08">
 				<img src="https://avatars.githubusercontent.com/u/111468730?s=72&u=67ea90d98df1a597c073d0803a8d9ed0f7aa639c&v=4" width="24" alt="Avatar of DavidDaniel08"> DavidDaniel08
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#DavidDaniel08">Copy rank badge</a><br/>
 			David Daniel Alvarez
 		</td>
 		<td>No Company</td>
@@ -5569,7 +5571,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/alejduin">
 				<img src="https://avatars.githubusercontent.com/u/2307085?s=72&u=87d63a52da4b9da2e08988469b3a615fd7935549&v=4" width="24" alt="Avatar of alejduin"> alejduin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#alejduin">Copy rank badge</a><br/>
 			J. Alejandro H. Duin
 		</td>
 		<td>No Company</td>
@@ -5582,7 +5584,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Francisco1881">
 				<img src="https://avatars.githubusercontent.com/u/106290905?s=72&u=6509ab15b1d89a4da3b69d476f7df5f325381f20&v=4" width="24" alt="Avatar of Francisco1881"> Francisco1881
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Francisco1881">Copy rank badge</a><br/>
 			Fran
 		</td>
 		<td>No Company</td>
@@ -5595,7 +5597,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/formateli">
 				<img src="https://avatars.githubusercontent.com/u/11544993?s=72&u=282871f77833506daefe18ff8199cda07ae36426&v=4" width="24" alt="Avatar of formateli"> formateli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#formateli">Copy rank badge</a><br/>
 			Fredy Ramirez
 		</td>
 		<td>No Company</td>
@@ -5608,7 +5610,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/TengoMan">
 				<img src="https://avatars.githubusercontent.com/u/36330841?s=72&u=012912722b1742d45a879d926576acefb558cf44&v=4" width="24" alt="Avatar of TengoMan"> TengoMan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#TengoMan">Copy rank badge</a><br/>
 			Tengoman
 		</td>
 		<td>Tengo Research Foundation </td>
@@ -5621,7 +5623,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/CBS-LAAG">
 				<img src="https://avatars.githubusercontent.com/u/149402860?s=72&u=8c602ac1084c46e18f712f3f41413c4e1a56d5f3&v=4" width="24" alt="Avatar of CBS-LAAG"> CBS-LAAG
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#CBS-LAAG">Copy rank badge</a><br/>
 			Luis Alegria
 		</td>
 		<td>No Company</td>
@@ -5634,7 +5636,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/mariajosemv">
 				<img src="https://avatars.githubusercontent.com/u/53355899?s=72&u=90f8ed021ed03b73ef10244fa344448ce8323cbf&v=4" width="24" alt="Avatar of mariajosemv"> mariajosemv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#mariajosemv">Copy rank badge</a><br/>
 			Maria Jose Medina
 		</td>
 		<td>Procter & Gamble </td>
@@ -5647,7 +5649,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/DottieDot">
 				<img src="https://avatars.githubusercontent.com/u/22892293?s=72&u=33cc6a12c9c07628fee98b12e80d279909d1ee0f&v=4" width="24" alt="Avatar of DottieDot"> DottieDot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#DottieDot">Copy rank badge</a><br/>
 			Taran
 		</td>
 		<td>No Company</td>
@@ -5660,7 +5662,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Metsanpeitto">
 				<img src="https://avatars.githubusercontent.com/u/13708475?s=72&u=9877dd7ec89cd6b071a926dd75ac3791ce3b2583&v=4" width="24" alt="Avatar of Metsanpeitto"> Metsanpeitto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Metsanpeitto">Copy rank badge</a><br/>
 			Abraham R
 		</td>
 		<td>Masmovil- Llac </td>
@@ -5673,7 +5675,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/fdvj">
 				<img src="https://avatars.githubusercontent.com/u/2347974?s=72&u=55f33835132fd24bf9d099ae36b48e8c02bcaa73&v=4" width="24" alt="Avatar of fdvj"> fdvj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#fdvj">Copy rank badge</a><br/>
 			Fernando De Vega
 		</td>
 		<td>Off The Grid </td>
@@ -5686,7 +5688,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/leidyz">
 				<img src="https://avatars.githubusercontent.com/u/132456552?s=72&u=f37cdbc4551b9297c2315f526c0ec5beccf64e33&v=4" width="24" alt="Avatar of leidyz"> leidyz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#leidyz">Copy rank badge</a><br/>
 			Leidy Zhang
 		</td>
 		<td>No Company</td>
@@ -5699,7 +5701,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/calebjaph">
 				<img src="https://avatars.githubusercontent.com/u/45523529?s=72&u=d667845fb5bef2b09ee46e787647e7ea05c5709e&v=4" width="24" alt="Avatar of calebjaph"> calebjaph
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#calebjaph">Copy rank badge</a><br/>
 			Caleb Brown
 		</td>
 		<td>No Company</td>
@@ -5712,7 +5714,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/jpcuevas">
 				<img src="https://avatars.githubusercontent.com/u/8173372?s=72&u=98ca3db359dd4a70dc9788851d2624727b406508&v=4" width="24" alt="Avatar of jpcuevas"> jpcuevas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#jpcuevas">Copy rank badge</a><br/>
 			Juan Pablo Cuevas Sclopis
 		</td>
 		<td>Startfleet-solutions </td>
@@ -5725,7 +5727,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/rhenriquez28">
 				<img src="https://avatars.githubusercontent.com/u/22778956?s=72&u=cd39eef6dbd7f96120deec51388dfa61ba0b2708&v=4" width="24" alt="Avatar of rhenriquez28"> rhenriquez28
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#rhenriquez28">Copy rank badge</a><br/>
 			Roy Henriquez
 		</td>
 		<td>No Company</td>
@@ -5738,7 +5740,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/davidddfm">
 				<img src="https://avatars.githubusercontent.com/u/22713986?s=72&u=9aaeb0802fc2237c80c8ac8621669512821f97d6&v=4" width="24" alt="Avatar of davidddfm"> davidddfm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#davidddfm">Copy rank badge</a><br/>
 			David Flores
 		</td>
 		<td>No Company</td>
@@ -5751,7 +5753,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Dev-Anyelo">
 				<img src="https://avatars.githubusercontent.com/u/137204513?s=72&u=190004f1c700c56297e7e0c40dcbbe31feb2d53a&v=4" width="24" alt="Avatar of Dev-Anyelo"> Dev-Anyelo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Dev-Anyelo">Copy rank badge</a><br/>
 			Anyelo Benavides
 		</td>
 		<td>No Company</td>
@@ -5764,7 +5766,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/dani16antonio">
 				<img src="https://avatars.githubusercontent.com/u/28380862?s=72&u=0b64cd89a8139236501a8df6de86a61171b075aa&v=4" width="24" alt="Avatar of dani16antonio"> dani16antonio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#dani16antonio">Copy rank badge</a><br/>
 			Daniel Antonio Díaz Quiroz
 		</td>
 		<td>No Company</td>
@@ -5777,7 +5779,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/gilbertojesus20">
 				<img src="https://avatars.githubusercontent.com/u/53986017?s=72&u=646cfa3ce66882d20918465420c6d21bcdbb4037&v=4" width="24" alt="Avatar of gilbertojesus20"> gilbertojesus20
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#gilbertojesus20">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5790,7 +5792,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/yohendry">
 				<img src="https://avatars.githubusercontent.com/u/4332958?s=72&u=c8e7599a7b01e55aee57d65564a27b7d158852e0&v=4" width="24" alt="Avatar of yohendry"> yohendry
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#yohendry">Copy rank badge</a><br/>
 			yohendry
 		</td>
 		<td>No Company</td>
@@ -5803,7 +5805,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/sirArthurDayne">
 				<img src="https://avatars.githubusercontent.com/u/26316287?s=72&u=25a87533606f92b24df6b6f565f135a3b90e6b50&v=4" width="24" alt="Avatar of sirArthurDayne"> sirArthurDayne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#sirArthurDayne">Copy rank badge</a><br/>
 			Xavier Lamela
 		</td>
 		<td>No Company</td>
@@ -5816,7 +5818,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/lourdes-morales">
 				<img src="https://avatars.githubusercontent.com/u/100326295?s=72&u=84c9203aad27627a823fe95106f7bb28298bfe0a&v=4" width="24" alt="Avatar of lourdes-morales"> lourdes-morales
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#lourdes-morales">Copy rank badge</a><br/>
 			Lourdes Morales
 		</td>
 		<td>No Company</td>
@@ -5829,7 +5831,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/MCGuynn">
 				<img src="https://avatars.githubusercontent.com/u/2272894?s=72&v=4" width="24" alt="Avatar of MCGuynn"> MCGuynn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#MCGuynn">Copy rank badge</a><br/>
 			Michael Guynn
 		</td>
 		<td>No Company</td>
@@ -5842,7 +5844,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/SrMiichael">
 				<img src="https://avatars.githubusercontent.com/u/113848089?s=72&u=708840c1b72c7c9c7fb673aa1f299f8c669bb99c&v=4" width="24" alt="Avatar of SrMiichael"> SrMiichael
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#SrMiichael">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5855,7 +5857,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/tejada05">
 				<img src="https://avatars.githubusercontent.com/u/5205436?s=72&u=f4c9a0881494ce27c02a65d4b01b74bf411e121f&v=4" width="24" alt="Avatar of tejada05"> tejada05
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#tejada05">Copy rank badge</a><br/>
 			Julio Ruiz
 		</td>
 		<td>No Company</td>
@@ -5868,7 +5870,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/dioris-moreno">
 				<img src="https://avatars.githubusercontent.com/u/7681801?s=72&u=2b52fd8b46b328bea1f641222318a3e547d22409&v=4" width="24" alt="Avatar of dioris-moreno"> dioris-moreno
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#dioris-moreno">Copy rank badge</a><br/>
 			Dioris Moreno
 		</td>
 		<td>Libereco Systems </td>
@@ -5881,7 +5883,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/danit1972">
 				<img src="https://avatars.githubusercontent.com/u/44537216?s=72&u=c2e09d16c38582030c4d827c88b59169693bd921&v=4" width="24" alt="Avatar of danit1972"> danit1972
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#danit1972">Copy rank badge</a><br/>
 			Danitzel
 		</td>
 		<td>No Company</td>
@@ -5894,7 +5896,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/juanjosepimentel">
 				<img src="https://avatars.githubusercontent.com/u/2964957?s=72&v=4" width="24" alt="Avatar of juanjosepimentel"> juanjosepimentel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#juanjosepimentel">Copy rank badge</a><br/>
 			Juan Jose Pimentel
 		</td>
 		<td>Qn Cove </td>
@@ -5907,7 +5909,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/primateavatar">
 				<img src="https://avatars.githubusercontent.com/u/166235209?s=72&u=300ce2bdf94716253a703229ab0552ad7dbe6548&v=4" width="24" alt="Avatar of primateavatar"> primateavatar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#primateavatar">Copy rank badge</a><br/>
 			LewisJHorne
 		</td>
 		<td>No Company</td>
@@ -5920,7 +5922,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/sembrador">
 				<img src="https://avatars.githubusercontent.com/u/1627493?s=72&u=db2b97c7d1e4aa74e7818727958c5931fcb5cba5&v=4" width="24" alt="Avatar of sembrador"> sembrador
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#sembrador">Copy rank badge</a><br/>
 			Leandro Camaño
 		</td>
 		<td>Castle Soft Panama </td>
@@ -5933,7 +5935,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/ninoshkavega">
 				<img src="https://avatars.githubusercontent.com/u/116459316?s=72&v=4" width="24" alt="Avatar of ninoshkavega"> ninoshkavega
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#ninoshkavega">Copy rank badge</a><br/>
 			NINOSHKA
 		</td>
 		<td>Banistmo </td>
@@ -5946,7 +5948,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/bradpatton">
 				<img src="https://avatars.githubusercontent.com/u/1874939?s=72&u=b029170a9757563015e87185c1a005d90d1516eb&v=4" width="24" alt="Avatar of bradpatton"> bradpatton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#bradpatton">Copy rank badge</a><br/>
 			Brad Patton
 		</td>
 		<td>Magnolia </td>
@@ -5959,7 +5961,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/rafaelgasperi09">
 				<img src="https://avatars.githubusercontent.com/u/65238994?s=72&u=68be2a35880bdca2a2a1ce3fd9c714e2464e8432&v=4" width="24" alt="Avatar of rafaelgasperi09"> rafaelgasperi09
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#rafaelgasperi09">Copy rank badge</a><br/>
 			Rafael Gasperi
 		</td>
 		<td>Hca Panama </td>
@@ -5972,7 +5974,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/powerfulsaso">
 				<img src="https://avatars.githubusercontent.com/u/34785107?s=72&u=a4ada08a5f942f7a3fcb82fc44a92dd3d508ba3a&v=4" width="24" alt="Avatar of powerfulsaso"> powerfulsaso
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#powerfulsaso">Copy rank badge</a><br/>
 			powerfulsaso
 		</td>
 		<td>No Company</td>
@@ -5985,7 +5987,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/mitzicubillamontilla">
 				<img src="https://avatars.githubusercontent.com/u/62905557?s=72&v=4" width="24" alt="Avatar of mitzicubillamontilla"> mitzicubillamontilla
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#mitzicubillamontilla">Copy rank badge</a><br/>
 			Mitzi Cubilla Montilla
 		</td>
 		<td>Universidad De Panamá </td>
@@ -5998,7 +6000,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/rjaramillo21">
 				<img src="https://avatars.githubusercontent.com/u/2087263?s=72&u=b1a9a9d204fd29d4cf28a9ea244c05b587ff53fe&v=4" width="24" alt="Avatar of rjaramillo21"> rjaramillo21
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#rjaramillo21">Copy rank badge</a><br/>
 			Rodolfo Jaramillo
 		</td>
 		<td>Admios </td>
@@ -6011,7 +6013,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/mybabyangie">
 				<img src="https://avatars.githubusercontent.com/u/262721891?s=72&u=6b02f320e2bd60bd61c08ce4545ca206283a4e1e&v=4" width="24" alt="Avatar of mybabyangie"> mybabyangie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#mybabyangie">Copy rank badge</a><br/>
 			Angeline
 		</td>
 		<td>No Company</td>
@@ -6024,7 +6026,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/garydormoi">
 				<img src="https://avatars.githubusercontent.com/u/242537399?s=72&u=0d69952fc6805e1fe9fdf36248c94ee4d848e564&v=4" width="24" alt="Avatar of garydormoi"> garydormoi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#garydormoi">Copy rank badge</a><br/>
 			Gary Dormoi
 		</td>
 		<td>Pgt Logistics </td>
@@ -6037,7 +6039,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/plinionunez">
 				<img src="https://avatars.githubusercontent.com/u/11141689?s=72&u=c99abd6e04a6caf33ec4b29968905985c627d9ee&v=4" width="24" alt="Avatar of plinionunez"> plinionunez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#plinionunez">Copy rank badge</a><br/>
 			Plinio Nunez
 		</td>
 		<td>No Company</td>
@@ -6050,7 +6052,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/Nauj-Montes">
 				<img src="https://avatars.githubusercontent.com/u/69248692?s=72&u=2245b45b5d12ffd225e87101eb885f2adf09cf6d&v=4" width="24" alt="Avatar of Nauj-Montes"> Nauj-Montes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#Nauj-Montes">Copy rank badge</a><br/>
 			Juan Montes
 		</td>
 		<td>No Company</td>
@@ -6063,7 +6065,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/donnaleeginsberg">
 				<img src="https://avatars.githubusercontent.com/u/219185445?s=72&v=4" width="24" alt="Avatar of donnaleeginsberg"> donnaleeginsberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#donnaleeginsberg">Copy rank badge</a><br/>
 			Donna-lee Ginsberg
 		</td>
 		<td>@geopoll </td>
@@ -6076,7 +6078,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/alejxx09">
 				<img src="https://avatars.githubusercontent.com/u/96017974?s=72&u=00c79ecc7a6d6c3974fd3d626d84202616bfdc65&v=4" width="24" alt="Avatar of alejxx09"> alejxx09
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#alejxx09">Copy rank badge</a><br/>
 			Alejandro Cardona Henao
 		</td>
 		<td>No Company</td>
@@ -6089,7 +6091,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/gama-sebas">
 				<img src="https://avatars.githubusercontent.com/u/249357149?s=72&v=4" width="24" alt="Avatar of gama-sebas"> gama-sebas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#gama-sebas">Copy rank badge</a><br/>
 			Sebastian Ocampo
 		</td>
 		<td>Gama Sistemas S.a </td>
@@ -6102,7 +6104,7 @@ There are `831 users`  in Panama. You need at least `1 followers` to be on this 
 		<td>
 			<a href="https://github.com/RaulEfdz">
 				<img src="https://avatars.githubusercontent.com/u/68834789?s=72&u=6fa3781bf372185be3a0b3ca32844e69861d980e&v=4" width="24" alt="Avatar of RaulEfdz"> RaulEfdz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/panama.md#RaulEfdz">Copy rank badge</a><br/>
 			Raul E. Fernandez
 		</td>
 		<td>No Company</td>
