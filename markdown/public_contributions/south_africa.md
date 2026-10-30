@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg" alt="South Africa">
 </a>
 
-The `public contributions` by users in South Africa on `2026/6/30 1:36 AM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
+The `public contributions` by users in South Africa on `2026/10/30 4:06 AM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `971 users`  in South Africa. You need at least `19 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [South Africa GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -109,7 +111,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/snopoke">
 				<img src="https://avatars.githubusercontent.com/u/249606?s=72&v=4" width="24" alt="Avatar of snopoke"> snopoke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#snopoke">Copy rank badge</a><br/>
 			Simon Kelly
 		</td>
 		<td>@dimagi </td>
@@ -122,7 +124,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Raphasha27">
 				<img src="https://avatars.githubusercontent.com/u/220842167?s=72&u=a9e66fe06965e3830aecb82be4a442874950babe&v=4" width="24" alt="Avatar of Raphasha27"> Raphasha27
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Raphasha27">Copy rank badge</a><br/>
 			Raphasha27
 		</td>
 		<td>Capaciti  </td>
@@ -135,7 +137,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/govert">
 				<img src="https://avatars.githubusercontent.com/u/414659?s=72&v=4" width="24" alt="Avatar of govert"> govert
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#govert">Copy rank badge</a><br/>
 			Govert van Drimmelen
 		</td>
 		<td>Excel-dna </td>
@@ -148,7 +150,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/datashaman">
 				<img src="https://avatars.githubusercontent.com/u/59514?s=72&u=210742409e969246cc586833a6379edd0a2a2b3b&v=4" width="24" alt="Avatar of datashaman"> datashaman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#datashaman">Copy rank badge</a><br/>
 			datashaman
 		</td>
 		<td>Datashaman </td>
@@ -161,7 +163,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/GedMarc">
 				<img src="https://avatars.githubusercontent.com/u/5367513?s=72&u=72f6c711180b1d795d16d625533e72aaaa2af570&v=4" width="24" alt="Avatar of GedMarc"> GedMarc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#GedMarc">Copy rank badge</a><br/>
 			Marc Magon
 		</td>
 		<td>No Company</td>
@@ -174,7 +176,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mattleibow">
 				<img src="https://avatars.githubusercontent.com/u/1096616?s=72&u=dd5a4a31ea513c54d12d42b0f44590e93199ecfb&v=4" width="24" alt="Avatar of mattleibow"> mattleibow
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mattleibow">Copy rank badge</a><br/>
 			Matthew Leibowitz
 		</td>
 		<td>@microsoft @xamarin @mono @monogame<br/></td>
@@ -187,7 +189,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/bshongwe">
 				<img src="https://avatars.githubusercontent.com/u/126109055?s=72&u=554524102ee63d68d2020ec7a279dafb4a1bf0ea&v=4" width="24" alt="Avatar of bshongwe"> bshongwe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#bshongwe">Copy rank badge</a><br/>
 			Ernest Bhekizwe Shongwe
 		</td>
 		<td>Popping </td>
@@ -200,7 +202,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/longhotsummer">
 				<img src="https://avatars.githubusercontent.com/u/4178542?s=72&u=02f585f44abe5d519447fc756cba0fde68ca4b99&v=4" width="24" alt="Avatar of longhotsummer"> longhotsummer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#longhotsummer">Copy rank badge</a><br/>
 			Greg Kempe
 		</td>
 		<td>@laws-africa  </td>
@@ -213,7 +215,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/roryp">
 				<img src="https://avatars.githubusercontent.com/u/6388864?s=72&u=36b09ca531212bfafdd69bb36b6f1240c341ad8a&v=4" width="24" alt="Avatar of roryp"> roryp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#roryp">Copy rank badge</a><br/>
 			Rory Preddy
 		</td>
 		<td>Microsoft </td>
@@ -226,7 +228,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/rebelchris">
 				<img src="https://avatars.githubusercontent.com/u/554874?s=72&u=d2b82b9d9564d30044097a900f8ea734fdd51a75&v=4" width="24" alt="Avatar of rebelchris"> rebelchris
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#rebelchris">Copy rank badge</a><br/>
 			Chris Bongers
 		</td>
 		<td>Daily.dev </td>
@@ -239,7 +241,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/nikrich">
 				<img src="https://avatars.githubusercontent.com/u/8254123?s=72&u=59245918625e9672cc223742310e495ccb2a7fd4&v=4" width="24" alt="Avatar of nikrich"> nikrich
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#nikrich">Copy rank badge</a><br/>
 			Jannik Richter
 		</td>
 		<td>Sanlam Fintech </td>
@@ -252,7 +254,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/schalkneethling">
 				<img src="https://avatars.githubusercontent.com/u/10350960?s=72&u=c22553d591adbe2aa0afa991ff83759db21c2eea&v=4" width="24" alt="Avatar of schalkneethling"> schalkneethling
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#schalkneethling">Copy rank badge</a><br/>
 			Schalk Neethling
 		</td>
 		<td>No Company</td>
@@ -265,7 +267,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/aidan-bailey">
 				<img src="https://avatars.githubusercontent.com/u/45186175?s=72&u=3ddf34c307130b8ce10f547a0203b40f667b5e58&v=4" width="24" alt="Avatar of aidan-bailey"> aidan-bailey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#aidan-bailey">Copy rank badge</a><br/>
 			Aidan Bailey
 		</td>
 		<td>University Of Cape Town<br/></td>
@@ -278,7 +280,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/gititGoro">
 				<img src="https://avatars.githubusercontent.com/u/12531162?s=72&u=8c7558190d925afaae9d592ac08577f33e8d4bff&v=4" width="24" alt="Avatar of gititGoro"> gititGoro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#gititGoro">Copy rank badge</a><br/>
 			Justin
 		</td>
 		<td>No Company</td>
@@ -291,7 +293,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/DavidBakerEffendi">
 				<img src="https://avatars.githubusercontent.com/u/28294550?s=72&u=ae9a5d35308bfdf3b312dfe481b6e55d8aac0803&v=4" width="24" alt="Avatar of DavidBakerEffendi"> DavidBakerEffendi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#DavidBakerEffendi">Copy rank badge</a><br/>
 			David Baker Effendi
 		</td>
 		<td>@brokkai </td>
@@ -304,7 +306,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/wkirschbaum">
 				<img src="https://avatars.githubusercontent.com/u/1431483?s=72&u=2a14bcaeea5f22f93896a7d7bbcd2dd3ea428518&v=4" width="24" alt="Avatar of wkirschbaum"> wkirschbaum
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#wkirschbaum">Copy rank badge</a><br/>
 			Wilhelm Kirschbaum
 		</td>
 		<td>Floatpays </td>
@@ -317,7 +319,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/jonathanbossenger">
 				<img src="https://avatars.githubusercontent.com/u/180629?s=72&u=7020e0a117ed341534b738c986f0874b1e79a4f9&v=4" width="24" alt="Avatar of jonathanbossenger"> jonathanbossenger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#jonathanbossenger">Copy rank badge</a><br/>
 			Jonathan Bossenger
 		</td>
 		<td>No Company</td>
@@ -330,7 +332,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/RobynAwesome">
 				<img src="https://avatars.githubusercontent.com/u/200361702?s=72&u=3e94e8e129f563b3e3d31f4412defd302c5665bc&v=4" width="24" alt="Avatar of RobynAwesome"> RobynAwesome
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#RobynAwesome">Copy rank badge</a><br/>
 			Kholofelo Robyn Rababalela
 		</td>
 		<td>Founder & Chief Architect<br/></td>
@@ -343,7 +345,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/davidbits">
 				<img src="https://avatars.githubusercontent.com/u/65959534?s=72&u=03c18aa2f09afe25e120ca0ddaf53cd9899b6280&v=4" width="24" alt="Avatar of davidbits"> davidbits
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#davidbits">Copy rank badge</a><br/>
 			David
 		</td>
 		<td>Yoco / @dyner-ai </td>
@@ -356,7 +358,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/awinogradov">
 				<img src="https://avatars.githubusercontent.com/u/982072?s=72&u=3b94604df26ea42675bdd01c4e4bc184eb95f962&v=4" width="24" alt="Avatar of awinogradov"> awinogradov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#awinogradov">Copy rank badge</a><br/>
 			Anton Vinogradov
 		</td>
 		<td>Acclaim.ai </td>
@@ -369,7 +371,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/elviscgn">
 				<img src="https://avatars.githubusercontent.com/u/96030189?s=72&u=354e1bd517d7d6817a4390a555dcbf4c051be7a0&v=4" width="24" alt="Avatar of elviscgn"> elviscgn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#elviscgn">Copy rank badge</a><br/>
 			Elvis Chege
 		</td>
 		<td>Peer Tutor @wethinkcode </td>
@@ -382,7 +384,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/tsheporamantso">
 				<img src="https://avatars.githubusercontent.com/u/110445380?s=72&u=7eb66b64ea2f2367458d23c4accb2f43619c040e&v=4" width="24" alt="Avatar of tsheporamantso"> tsheporamantso
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#tsheporamantso">Copy rank badge</a><br/>
 			Gladwin Tshepo Ramantso
 		</td>
 		<td>Microverse </td>
@@ -395,7 +397,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MisheckGalx">
 				<img src="https://avatars.githubusercontent.com/u/136022287?s=72&u=fa79452a774bf4d23ea23bcde765cde32d765e9e&v=4" width="24" alt="Avatar of MisheckGalx"> MisheckGalx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MisheckGalx">Copy rank badge</a><br/>
 			Misheck Gogo
 		</td>
 		<td>Alx </td>
@@ -408,7 +410,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/abhi18av">
 				<img src="https://avatars.githubusercontent.com/u/12799326?s=72&u=64ecd3cf46fb91faeab9fbfe84f6550e2ac9a212&v=4" width="24" alt="Avatar of abhi18av"> abhi18av
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#abhi18av">Copy rank badge</a><br/>
 			Abhinav Sharma
 		</td>
 		<td>@biosharp-dotnet </td>
@@ -421,7 +423,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/hashimaziz88">
 				<img src="https://avatars.githubusercontent.com/u/78796582?s=72&u=7e2bcd049ef17c221081cf872db0c4a79ec4f285&v=4" width="24" alt="Avatar of hashimaziz88"> hashimaziz88
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#hashimaziz88">Copy rank badge</a><br/>
 			Hashim Aziz Muhammad
 		</td>
 		<td>Boxfusion </td>
@@ -434,7 +436,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/V-FOR-VEND3TTA">
 				<img src="https://avatars.githubusercontent.com/u/55334979?s=72&u=2a25e2e25aca73c4818d0b732232da8a7d05a03f&v=4" width="24" alt="Avatar of V-FOR-VEND3TTA"> V-FOR-VEND3TTA
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#V-FOR-VEND3TTA">Copy rank badge</a><br/>
 			George Hlongwane
 		</td>
 		<td>Big O Media </td>
@@ -447,7 +449,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Benehiko">
 				<img src="https://avatars.githubusercontent.com/u/18033717?s=72&u=3111b7c106a27634e151cb7a85eff4a4cc7301fc&v=4" width="24" alt="Avatar of Benehiko"> Benehiko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Benehiko">Copy rank badge</a><br/>
 			Alano Terblanche
 		</td>
 		<td>@docker </td>
@@ -460,7 +462,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/glen-84">
 				<img src="https://avatars.githubusercontent.com/u/261509?s=72&v=4" width="24" alt="Avatar of glen-84"> glen-84
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#glen-84">Copy rank badge</a><br/>
 			Glen
 		</td>
 		<td>@chillicream </td>
@@ -473,7 +475,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/dannykopping">
 				<img src="https://avatars.githubusercontent.com/u/373762?s=72&u=4c3e3776b7cc9cb346e9f43196fb387c845a4adc&v=4" width="24" alt="Avatar of dannykopping"> dannykopping
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#dannykopping">Copy rank badge</a><br/>
 			Danny Kopping
 		</td>
 		<td>@coder  </td>
@@ -486,7 +488,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/justinegeffen">
 				<img src="https://avatars.githubusercontent.com/u/4223530?s=72&u=bafbb77cac0a9068516a65121516e0f85eb744f9&v=4" width="24" alt="Avatar of justinegeffen"> justinegeffen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#justinegeffen">Copy rank badge</a><br/>
 			Justine Geffen
 		</td>
 		<td>Seqera </td>
@@ -499,7 +501,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Luka2Lkay">
 				<img src="https://avatars.githubusercontent.com/u/36195596?s=72&u=d66ae4e8f473c08b354960d4066f14961cafc47b&v=4" width="24" alt="Avatar of Luka2Lkay"> Luka2Lkay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Luka2Lkay">Copy rank badge</a><br/>
 			Lukhanyo Matshebelele
 		</td>
 		<td>No Company</td>
@@ -512,7 +514,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/rorisangputu">
 				<img src="https://avatars.githubusercontent.com/u/84104112?s=72&u=a98bc3b1cc764f25e8370d123074443158571371&v=4" width="24" alt="Avatar of rorisangputu"> rorisangputu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#rorisangputu">Copy rank badge</a><br/>
 			Rorisang Putu
 		</td>
 		<td>Capaciti </td>
@@ -525,7 +527,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/lostpebble">
 				<img src="https://avatars.githubusercontent.com/u/1508863?s=72&u=4ada478500c2c9112fe8e3b0b8240a454403aebc&v=4" width="24" alt="Avatar of lostpebble"> lostpebble
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#lostpebble">Copy rank badge</a><br/>
 			Paul Myburgh
 		</td>
 		<td>No Company</td>
@@ -538,7 +540,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Kaydev-cmd">
 				<img src="https://avatars.githubusercontent.com/u/181621926?s=72&u=df7ea75bc08267c44234e8add0bac4f8a49928e2&v=4" width="24" alt="Avatar of Kaydev-cmd"> Kaydev-cmd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Kaydev-cmd">Copy rank badge</a><br/>
 			Keamogetswi Ngwako Malau
 		</td>
 		<td>No Company</td>
@@ -551,7 +553,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/barrymichaeldoyle">
 				<img src="https://avatars.githubusercontent.com/u/4674486?s=72&v=4" width="24" alt="Avatar of barrymichaeldoyle"> barrymichaeldoyle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#barrymichaeldoyle">Copy rank badge</a><br/>
 			Barry Michael Doyle
 		</td>
 		<td>No Company</td>
@@ -564,7 +566,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/KIKMAKER">
 				<img src="https://avatars.githubusercontent.com/u/113447311?s=72&u=bbdc293b7b84cadd87048e57c8c7b3f307a8af75&v=4" width="24" alt="Avatar of KIKMAKER"> KIKMAKER
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#KIKMAKER">Copy rank badge</a><br/>
 			Kiki (Kristen) Kennedy
 		</td>
 		<td>No Company</td>
@@ -577,7 +579,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/LouisRossouw">
 				<img src="https://avatars.githubusercontent.com/u/80905013?s=72&u=2435ce73cd56744ce0ab25befef649e3896056a3&v=4" width="24" alt="Avatar of LouisRossouw"> LouisRossouw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#LouisRossouw">Copy rank badge</a><br/>
 			Louis Rossouw
 		</td>
 		<td>No Company</td>
@@ -590,7 +592,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/dylanvanh">
 				<img src="https://avatars.githubusercontent.com/u/61427891?s=72&u=cf82967ffc581b33ab04d2f4907ac7aaa755b374&v=4" width="24" alt="Avatar of dylanvanh"> dylanvanh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#dylanvanh">Copy rank badge</a><br/>
 			Dylan van Heerden
 		</td>
 		<td>No Company</td>
@@ -603,7 +605,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Gervwyk">
 				<img src="https://avatars.githubusercontent.com/u/7165064?s=72&u=6dcaac4139f41cadddab1b3eda4d7a3b8239bb14&v=4" width="24" alt="Avatar of Gervwyk"> Gervwyk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Gervwyk">Copy rank badge</a><br/>
 			Gerrie van Wyk
 		</td>
 		<td>@lowdefy, @techmrm </td>
@@ -616,7 +618,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Gamaroff">
 				<img src="https://avatars.githubusercontent.com/u/237446?s=72&u=e36b8745fc944ee7ac000485d0e11a9161092886&v=4" width="24" alt="Avatar of Gamaroff"> Gamaroff
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Gamaroff">Copy rank badge</a><br/>
 			Lorien Gamaroff
 		</td>
 		<td>Centbee </td>
@@ -629,7 +631,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/GrahamStrickland">
 				<img src="https://avatars.githubusercontent.com/u/56818955?s=72&u=17ee11d5ee42b94f1846654fc4d31d26c1c04009&v=4" width="24" alt="Avatar of GrahamStrickland"> GrahamStrickland
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#GrahamStrickland">Copy rank badge</a><br/>
 			Graham Strickland
 		</td>
 		<td>@ankerdata </td>
@@ -642,7 +644,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/SamTolmay">
 				<img src="https://avatars.githubusercontent.com/u/23532753?s=72&u=03a38abb84732b42a764a3772a5c77094bc86ce0&v=4" width="24" alt="Avatar of SamTolmay"> SamTolmay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#SamTolmay">Copy rank badge</a><br/>
 			Sam
 		</td>
 		<td>@lowdefy,@techmrm </td>
@@ -655,7 +657,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MogammadShaqeelless16">
 				<img src="https://avatars.githubusercontent.com/u/54390756?s=72&u=e1104b358a15c97c98d19ff729530c5c099ef474&v=4" width="24" alt="Avatar of MogammadShaqeelless16"> MogammadShaqeelless16
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MogammadShaqeelless16">Copy rank badge</a><br/>
 			Shaqeel Less
 		</td>
 		<td>No Company</td>
@@ -668,7 +670,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/BioGeek">
 				<img src="https://avatars.githubusercontent.com/u/59344?s=72&u=1d40159cb2b75698863f432ba8e93c1ced8a6dc8&v=4" width="24" alt="Avatar of BioGeek"> BioGeek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#BioGeek">Copy rank badge</a><br/>
 			Jeroen Van Goey
 		</td>
 		<td>@instadeepai </td>
@@ -681,7 +683,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ntsakosurprise">
 				<img src="https://avatars.githubusercontent.com/u/72092024?s=72&u=af93e8e0d760d5a2bdc9fd980265df8c6f1c465b&v=4" width="24" alt="Avatar of ntsakosurprise"> ntsakosurprise
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ntsakosurprise">Copy rank badge</a><br/>
 			ntsakosurprise
 		</td>
 		<td>Turtrozz </td>
@@ -694,7 +696,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/sjperkins">
 				<img src="https://avatars.githubusercontent.com/u/3530212?s=72&u=5959df86491d191d3b748c0976b2199cc02fa37e&v=4" width="24" alt="Avatar of sjperkins"> sjperkins
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#sjperkins">Copy rank badge</a><br/>
 			Simon Perkins
 		</td>
 		<td>@ska-sa </td>
@@ -707,7 +709,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/1Mhondiwa">
 				<img src="https://avatars.githubusercontent.com/u/149875401?s=72&u=863a847593a2e78bc2bb0a78800f4578760246c6&v=4" width="24" alt="Avatar of 1Mhondiwa"> 1Mhondiwa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#1Mhondiwa">Copy rank badge</a><br/>
 			Tapiwanashe Mhondiwa
 		</td>
 		<td>Hussle Digital </td>
@@ -720,7 +722,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/stringhandler">
 				<img src="https://avatars.githubusercontent.com/u/4200336?s=72&u=e2d98188e7bca0975d9b8484981022486c608990&v=4" width="24" alt="Avatar of stringhandler"> stringhandler
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#stringhandler">Copy rank badge</a><br/>
 			stringhandler
 		</td>
 		<td>No Company</td>
@@ -733,7 +735,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/bblack-jewENT">
 				<img src="https://avatars.githubusercontent.com/u/158572657?s=72&u=e323b54bec11e6bda07767f8109dfba3219fbd66&v=4" width="24" alt="Avatar of bblack-jewENT"> bblack-jewENT
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#bblack-jewENT">Copy rank badge</a><br/>
 			Moses Rametsi
 		</td>
 		<td>Bblack-jew Ent </td>
@@ -746,7 +748,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/niloc95">
 				<img src="https://avatars.githubusercontent.com/u/36539420?s=72&u=3692edd827925794534400d1c053afb485cacddf&v=4" width="24" alt="Avatar of niloc95"> niloc95
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#niloc95">Copy rank badge</a><br/>
 			Nilo Cara
 		</td>
 		<td>@nilo_r </td>
@@ -759,7 +761,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MlondiMchunu">
 				<img src="https://avatars.githubusercontent.com/u/68140202?s=72&u=869e4b05f4074346a90b12bfe83895e55419d92d&v=4" width="24" alt="Avatar of MlondiMchunu"> MlondiMchunu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MlondiMchunu">Copy rank badge</a><br/>
 			mlo.dev 
 		</td>
 		<td>No Company</td>
@@ -772,7 +774,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/omoinjm">
 				<img src="https://avatars.githubusercontent.com/u/86345934?s=72&u=7b7f754a70f01d6eac9ec1f85d9eb303b2b0d3ad&v=4" width="24" alt="Avatar of omoinjm"> omoinjm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#omoinjm">Copy rank badge</a><br/>
 			Nhlanhla Malaza
 		</td>
 		<td>No Company</td>
@@ -785,7 +787,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/nrwiersma">
 				<img src="https://avatars.githubusercontent.com/u/644536?s=72&u=4510b6d1cc2b284548bd5d787fbd2a361e54bff3&v=4" width="24" alt="Avatar of nrwiersma"> nrwiersma
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#nrwiersma">Copy rank badge</a><br/>
 			Nicholas Wiersma
 		</td>
 		<td>@nitrado </td>
@@ -798,7 +800,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/iarxii">
 				<img src="https://avatars.githubusercontent.com/u/78591599?s=72&u=615599a74161738660f03da2abeb82f0019d5da7&v=4" width="24" alt="Avatar of iarxii"> iarxii
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#iarxii">Copy rank badge</a><br/>
 			Thabang Mposula
 		</td>
 		<td>Adaptivconcept™ Freelancing </td>
@@ -811,7 +813,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/stuartc">
 				<img src="https://avatars.githubusercontent.com/u/144796?s=72&v=4" width="24" alt="Avatar of stuartc"> stuartc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#stuartc">Copy rank badge</a><br/>
 			Stuart Corbishley
 		</td>
 		<td>Openfn </td>
@@ -824,7 +826,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/adrianmoisey">
 				<img src="https://avatars.githubusercontent.com/u/736329?s=72&u=69c73c35078e3f198f4f5364ad939e5b478efb7e&v=4" width="24" alt="Avatar of adrianmoisey"> adrianmoisey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#adrianmoisey">Copy rank badge</a><br/>
 			Adrian Moisey
 		</td>
 		<td>Salesloft </td>
@@ -837,7 +839,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/kovymun">
 				<img src="https://avatars.githubusercontent.com/u/78513588?s=72&u=4670cbe2602e536c93a9b35e0afd1be3cfd1ce9f&v=4" width="24" alt="Avatar of kovymun"> kovymun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#kovymun">Copy rank badge</a><br/>
 			Koveshan Munsami
 		</td>
 		<td>Software Developer </td>
@@ -850,7 +852,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/geofmureithi">
 				<img src="https://avatars.githubusercontent.com/u/95377562?s=72&u=24869486f3fb0757cc5d8ce65c6f18a781225b56&v=4" width="24" alt="Avatar of geofmureithi"> geofmureithi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#geofmureithi">Copy rank badge</a><br/>
 			Njuguna Mureithi
 		</td>
 		<td>@apalis-dev  </td>
@@ -863,7 +865,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Siphelele-Maphumulo">
 				<img src="https://avatars.githubusercontent.com/u/96381832?s=72&u=e1c571757afd59b0fa630467d447b0d5a73aff78&v=4" width="24" alt="Avatar of Siphelele-Maphumulo"> Siphelele-Maphumulo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Siphelele-Maphumulo">Copy rank badge</a><br/>
 			Siphelele A Maphumulo
 		</td>
 		<td>Coding Sa Institute |<br/>Cisco<br/>Academy<br/>|<br/>Ocule<br/>It<br/>|<br/>Mangosuthu<br/>University<br/></td>
@@ -876,7 +878,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/czue">
 				<img src="https://avatars.githubusercontent.com/u/66555?s=72&v=4" width="24" alt="Avatar of czue"> czue
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#czue">Copy rank badge</a><br/>
 			Cory Zue
 		</td>
 		<td>Saas Pegasus, Dimagi </td>
@@ -889,7 +891,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MarcelMichau">
 				<img src="https://avatars.githubusercontent.com/u/7761114?s=72&u=59901d31966b6b6cb1603f456a278abe80affe96&v=4" width="24" alt="Avatar of MarcelMichau"> MarcelMichau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MarcelMichau">Copy rank badge</a><br/>
 			Marcel Michau
 		</td>
 		<td>No Company</td>
@@ -902,7 +904,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/gregfurman">
 				<img src="https://avatars.githubusercontent.com/u/31275503?s=72&u=2f40f8ed8f6c4f0d0060907245f4d032bda7dca4&v=4" width="24" alt="Avatar of gregfurman"> gregfurman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#gregfurman">Copy rank badge</a><br/>
 			Greg Furman
 		</td>
 		<td>@hatchet-dev </td>
@@ -915,7 +917,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mamanambiya">
 				<img src="https://avatars.githubusercontent.com/u/1291138?s=72&u=0b9772f3924b0ea7059f2594f1039a697b543bcc&v=4" width="24" alt="Avatar of mamanambiya"> mamanambiya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mamanambiya">Copy rank badge</a><br/>
 			Mamana Mbiyavanga
 		</td>
 		<td>University Of Cape Town<br/></td>
@@ -928,7 +930,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/boris-kolpackov">
 				<img src="https://avatars.githubusercontent.com/u/31799599?s=72&u=a53de72ba0efe9f3720f4fbb36ea6dbf7d0506c7&v=4" width="24" alt="Avatar of boris-kolpackov"> boris-kolpackov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#boris-kolpackov">Copy rank badge</a><br/>
 			Boris Kolpackov
 		</td>
 		<td>Code Synthesis </td>
@@ -941,7 +943,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/0xlebogang">
 				<img src="https://avatars.githubusercontent.com/u/146351467?s=72&u=4df0c745bc2991d2938ce581dd902628e74d7e1b&v=4" width="24" alt="Avatar of 0xlebogang"> 0xlebogang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#0xlebogang">Copy rank badge</a><br/>
 			Lebogang Phoshoko
 		</td>
 		<td>@gkss-unisa  </td>
@@ -954,7 +956,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/jasbanza">
 				<img src="https://avatars.githubusercontent.com/u/1925470?s=72&u=c365e3f441193b2ec3e0bc35e9c8e186531121e3&v=4" width="24" alt="Avatar of jasbanza"> jasbanza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#jasbanza">Copy rank badge</a><br/>
 			Jason
 		</td>
 		<td>Osmosis Labs </td>
@@ -967,7 +969,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/JagTheFriend">
 				<img src="https://avatars.githubusercontent.com/u/70753983?s=72&u=3cf73d36c2dab2e77e6110c9f86883364f92f511&v=4" width="24" alt="Avatar of JagTheFriend"> JagTheFriend
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#JagTheFriend">Copy rank badge</a><br/>
 			JagTheFriend
 		</td>
 		<td>No Company</td>
@@ -980,7 +982,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/antstanley">
 				<img src="https://avatars.githubusercontent.com/u/12698748?s=72&u=151e6426c8e8fa724440dfc7130d75f8a4cf842a&v=4" width="24" alt="Avatar of antstanley"> antstanley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#antstanley">Copy rank badge</a><br/>
 			Ant Stanley
 		</td>
 		<td>No Company</td>
@@ -993,7 +995,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/davidfraser">
 				<img src="https://avatars.githubusercontent.com/u/356451?s=72&v=4" width="24" alt="Avatar of davidfraser"> davidfraser
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#davidfraser">Copy rank badge</a><br/>
 			David Fraser
 		</td>
 		<td>Inconceivable </td>
@@ -1006,7 +1008,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/keegancsmith">
 				<img src="https://avatars.githubusercontent.com/u/187831?s=72&u=317b50a31294346f352a743fc57328acb3f264ed&v=4" width="24" alt="Avatar of keegancsmith"> keegancsmith
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#keegancsmith">Copy rank badge</a><br/>
 			Keegan Carruthers-Smith
 		</td>
 		<td>@sourcegraph </td>
@@ -1019,7 +1021,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ThembelihleQueeneth">
 				<img src="https://avatars.githubusercontent.com/u/165462584?s=72&u=c106ea436fa1995ba9391d988984b7e82e431999&v=4" width="24" alt="Avatar of ThembelihleQueeneth"> ThembelihleQueeneth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ThembelihleQueeneth">Copy rank badge</a><br/>
 			Thembelihle Queeneth Maluka
 		</td>
 		<td>No Company</td>
@@ -1032,7 +1034,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ptaoussanis">
 				<img src="https://avatars.githubusercontent.com/u/160011?s=72&u=9bd357e46497a74a0629a5e8089f17f2fa945a2c&v=4" width="24" alt="Avatar of ptaoussanis"> ptaoussanis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ptaoussanis">Copy rank badge</a><br/>
 			Peter Taoussanis
 		</td>
 		<td>Taoensso </td>
@@ -1045,7 +1047,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ajsmit">
 				<img src="https://avatars.githubusercontent.com/u/1480961?s=72&u=d1fa5b14f867eb268496da513091b2a6a05c25a9&v=4" width="24" alt="Avatar of ajsmit"> ajsmit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ajsmit">Copy rank badge</a><br/>
 			AJ Smit
 		</td>
 		<td>University Of The Western<br/>Cape<br/></td>
@@ -1058,7 +1060,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/dbfx">
 				<img src="https://avatars.githubusercontent.com/u/182394?s=72&u=d7d4c79d9639aebfff698d3e3a457dc25b9cafef&v=4" width="24" alt="Avatar of dbfx"> dbfx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#dbfx">Copy rank badge</a><br/>
 			Dave
 		</td>
 		<td>@join-panda  </td>
@@ -1071,7 +1073,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Frostist">
 				<img src="https://avatars.githubusercontent.com/u/37545822?s=72&u=2efb18df20bf485efaffef645c1f0ba1d907897c&v=4" width="24" alt="Avatar of Frostist"> Frostist
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Frostist">Copy rank badge</a><br/>
 			Frostist
 		</td>
 		<td>Britalian </td>
@@ -1084,7 +1086,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/SpheMakh">
 				<img src="https://avatars.githubusercontent.com/u/6624280?s=72&u=eb6cd26c7732d0938cdf6586b805956b4f850a2c&v=4" width="24" alt="Avatar of SpheMakh"> SpheMakh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#SpheMakh">Copy rank badge</a><br/>
 			Sphesihle Makhathini
 		</td>
 		<td>University Of The Witwatersrand<br/></td>
@@ -1097,7 +1099,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/joshuaberetta">
 				<img src="https://avatars.githubusercontent.com/u/50016008?s=72&u=da6b58296e7d30c88a9c9d96ab3393c3a4445108&v=4" width="24" alt="Avatar of joshuaberetta"> joshuaberetta
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#joshuaberetta">Copy rank badge</a><br/>
 			Joshua Beretta
 		</td>
 		<td>@kobotoolbox  </td>
@@ -1110,7 +1112,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/SeanDylan1982">
 				<img src="https://avatars.githubusercontent.com/u/74496368?s=72&u=d96eb6eb4b0b243a1f66bbcd222528acea9acfed&v=4" width="24" alt="Avatar of SeanDylan1982"> SeanDylan1982
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#SeanDylan1982">Copy rank badge</a><br/>
 			Sean Dylan Patterson
 		</td>
 		<td>Independent Developer </td>
@@ -1123,7 +1125,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/quicujo">
 				<img src="https://avatars.githubusercontent.com/u/5463680?s=72&u=29558d01b21d421c2740f82c0b5d2dd5ac638c1b&v=4" width="24" alt="Avatar of quicujo"> quicujo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#quicujo">Copy rank badge</a><br/>
 			Anton Pretorius
 		</td>
 		<td>@auxstudio </td>
@@ -1136,7 +1138,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/siv-the-programmer">
 				<img src="https://avatars.githubusercontent.com/u/233561122?s=72&u=28867f4d536a3197ad3a149425d08a0e1c196771&v=4" width="24" alt="Avatar of siv-the-programmer"> siv-the-programmer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#siv-the-programmer">Copy rank badge</a><br/>
 			Sivario
 		</td>
 		<td>@buildsbybuchanan </td>
@@ -1149,7 +1151,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/DenhamPreen">
 				<img src="https://avatars.githubusercontent.com/u/26438203?s=72&u=53b7191e00e2428d78cd9144c8d7282dd0582795&v=4" width="24" alt="Avatar of DenhamPreen"> DenhamPreen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#DenhamPreen">Copy rank badge</a><br/>
 			Denham Preen
 		</td>
 		<td>Envio </td>
@@ -1162,7 +1164,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Jaleel-VS">
 				<img src="https://avatars.githubusercontent.com/u/56233547?s=72&u=eaaa3f3c5b195497dcd5f78ad5ff6f059b76a7f1&v=4" width="24" alt="Avatar of Jaleel-VS"> Jaleel-VS
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Jaleel-VS">Copy rank badge</a><br/>
 			Jaleel van Staden
 		</td>
 		<td>Entelect / Fnb </td>
@@ -1175,7 +1177,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ZubeidHendricks">
 				<img src="https://avatars.githubusercontent.com/u/7151636?s=72&u=76b01c9f54d8dc20b24e6938138f24834fc072e1&v=4" width="24" alt="Avatar of ZubeidHendricks"> ZubeidHendricks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ZubeidHendricks">Copy rank badge</a><br/>
 			Zubeid Hendricks
 		</td>
 		<td>Https://pricklypairs </td>
@@ -1188,7 +1190,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Ndelu-Blose">
 				<img src="https://avatars.githubusercontent.com/u/185533359?s=72&u=59d5b400b6abeca2d34f27f11622bb098773ff56&v=4" width="24" alt="Avatar of Ndelu-Blose"> Ndelu-Blose
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Ndelu-Blose">Copy rank badge</a><br/>
 			Thamsanqa
 		</td>
 		<td>No Company</td>
@@ -1201,7 +1203,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/qix">
 				<img src="https://avatars.githubusercontent.com/u/212593?s=72&v=4" width="24" alt="Avatar of qix"> qix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#qix">Copy rank badge</a><br/>
 			Josh Yudaken
 		</td>
 		<td>Snapbill </td>
@@ -1214,7 +1216,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/dannysimfukwe">
 				<img src="https://avatars.githubusercontent.com/u/3866312?s=72&u=ed1089881157f58b8b10081b96c0a528c1f7fc5e&v=4" width="24" alt="Avatar of dannysimfukwe"> dannysimfukwe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#dannysimfukwe">Copy rank badge</a><br/>
 			Danny Simfukwe
 		</td>
 		<td>No Company</td>
@@ -1227,7 +1229,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/markbirss">
 				<img src="https://avatars.githubusercontent.com/u/22388007?s=72&u=1cdd8f221e990a36c53de99a128f4757d2ba14c3&v=4" width="24" alt="Avatar of markbirss"> markbirss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#markbirss">Copy rank badge</a><br/>
 			Mark Trevor Birss
 		</td>
 		<td>No Company</td>
@@ -1240,7 +1242,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/pcholakov">
 				<img src="https://avatars.githubusercontent.com/u/115803?s=72&v=4" width="24" alt="Avatar of pcholakov"> pcholakov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#pcholakov">Copy rank badge</a><br/>
 			Pavel Tcholakov
 		</td>
 		<td>@restatedev  </td>
@@ -1253,7 +1255,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/davidteren">
 				<img src="https://avatars.githubusercontent.com/u/5962867?s=72&u=f18c41a4abb8ea014a452d5006218403ecab19fa&v=4" width="24" alt="Avatar of davidteren"> davidteren
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#davidteren">Copy rank badge</a><br/>
 			David Teren
 		</td>
 		<td>No Company</td>
@@ -1266,7 +1268,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/frostaura">
 				<img src="https://avatars.githubusercontent.com/u/8956241?s=72&v=4" width="24" alt="Avatar of frostaura"> frostaura
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#frostaura">Copy rank badge</a><br/>
 			Dean Martin
 		</td>
 		<td>Frostaura </td>
@@ -1279,7 +1281,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/TomRadford">
 				<img src="https://avatars.githubusercontent.com/u/7515754?s=72&u=8c97a1fe3e91810ed6e125a75b68bc80c9171a95&v=4" width="24" alt="Avatar of TomRadford"> TomRadford
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#TomRadford">Copy rank badge</a><br/>
 			Tom Radford
 		</td>
 		<td>@teamgeek-io </td>
@@ -1292,7 +1294,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Mphele">
 				<img src="https://avatars.githubusercontent.com/u/132210848?s=72&u=d4bc5f05b2de7e0b9b3d85001664dee84e45a8bf&v=4" width="24" alt="Avatar of Mphele"> Mphele
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Mphele">Copy rank badge</a><br/>
 			Mphele Moswane
 		</td>
 		<td>No Company</td>
@@ -1305,7 +1307,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/pasej5">
 				<img src="https://avatars.githubusercontent.com/u/125504697?s=72&u=05747495d6350ff4eee85a2567d683a153fff4bf&v=4" width="24" alt="Avatar of pasej5"> pasej5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#pasej5">Copy rank badge</a><br/>
 			Jealous Matsikachando
 		</td>
 		<td>Katriel-consulting-a </td>
@@ -1318,7 +1320,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ewaldhorn">
 				<img src="https://avatars.githubusercontent.com/u/1387056?s=72&u=7ff75135404491d60c460c7091766c0d177798d0&v=4" width="24" alt="Avatar of ewaldhorn"> ewaldhorn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ewaldhorn">Copy rank badge</a><br/>
 			Ewald Horn
 		</td>
 		<td>Nofuss Solutions </td>
@@ -1331,7 +1333,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/tomjuggler">
 				<img src="https://avatars.githubusercontent.com/u/4427160?s=72&u=474dedbd7e07d59882a311ac6ac305375b644c49&v=4" width="24" alt="Avatar of tomjuggler"> tomjuggler
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#tomjuggler">Copy rank badge</a><br/>
 			Tom
 		</td>
 		<td>Big Top Entertainment <br/></td>
@@ -1344,7 +1346,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/DevinNorgarb">
 				<img src="https://avatars.githubusercontent.com/u/12491966?s=72&u=81ce7278da244eeb1886ff1bab092f3792e51eba&v=4" width="24" alt="Avatar of DevinNorgarb"> DevinNorgarb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#DevinNorgarb">Copy rank badge</a><br/>
 			Devin Norgarb
 		</td>
 		<td>Itb Software </td>
@@ -1357,7 +1359,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ghost2468developer">
 				<img src="https://avatars.githubusercontent.com/u/160495796?s=72&u=76ad8452b2ba12a63f591774da88e31d62e43ff9&v=4" width="24" alt="Avatar of ghost2468developer"> ghost2468developer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ghost2468developer">Copy rank badge</a><br/>
 			Kenneth Siyabonga Ncube
 		</td>
 		<td>No Company</td>
@@ -1370,7 +1372,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/burmudar">
 				<img src="https://avatars.githubusercontent.com/u/1001709?s=72&u=9b3db1e0b25d0855173bbbdae4a57fe19669b98f&v=4" width="24" alt="Avatar of burmudar"> burmudar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#burmudar">Copy rank badge</a><br/>
 			William Bezuidenhout
 		</td>
 		<td>@sourcegraph  </td>
@@ -1383,7 +1385,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/daniel-levin">
 				<img src="https://avatars.githubusercontent.com/u/910254?s=72&u=56f5ad9fe3640ec92db79c8686b19ce017280d31&v=4" width="24" alt="Avatar of daniel-levin"> daniel-levin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#daniel-levin">Copy rank badge</a><br/>
 			Daniel Levin
 		</td>
 		<td>@oxidecomputer  </td>
@@ -1396,7 +1398,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/tafaranyamhunga">
 				<img src="https://avatars.githubusercontent.com/u/136159071?s=72&u=1fa88897abb385bcbce682c2ea352ec8caf9862d&v=4" width="24" alt="Avatar of tafaranyamhunga"> tafaranyamhunga
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#tafaranyamhunga">Copy rank badge</a><br/>
 			Tafara Nyamhunga
 		</td>
 		<td>No Company</td>
@@ -1409,7 +1411,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/CodeCrafterNoku">
 				<img src="https://avatars.githubusercontent.com/u/156459137?s=72&u=58507d2d8e16ab920c04366cc9b0e061fb453d7a&v=4" width="24" alt="Avatar of CodeCrafterNoku"> CodeCrafterNoku
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#CodeCrafterNoku">Copy rank badge</a><br/>
 			Nokubonga Ngema
 		</td>
 		<td>No Company</td>
@@ -1422,7 +1424,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/davenewza">
 				<img src="https://avatars.githubusercontent.com/u/6212830?s=72&u=9d5f01ae80dbed6123f51ab598b3813679842e76&v=4" width="24" alt="Avatar of davenewza"> davenewza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#davenewza">Copy rank badge</a><br/>
 			Dave New
 		</td>
 		<td>@teamkeel  </td>
@@ -1435,7 +1437,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/iftheshoefritz">
 				<img src="https://avatars.githubusercontent.com/u/1541595?s=72&u=bf5a5122b632b8052c23d8402f8d7b26734ed601&v=4" width="24" alt="Avatar of iftheshoefritz"> iftheshoefritz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#iftheshoefritz">Copy rank badge</a><br/>
 			Fritz Meissner
 		</td>
 		<td>No Company</td>
@@ -1448,7 +1450,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/jackson951">
 				<img src="https://avatars.githubusercontent.com/u/127627309?s=72&u=be561aa5785a4b695a25a09d7506f52f9e68ab2b&v=4" width="24" alt="Avatar of jackson951"> jackson951
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#jackson951">Copy rank badge</a><br/>
 			Jackson Khuto
 		</td>
 		<td>No Company</td>
@@ -1461,7 +1463,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Pushplaybang">
 				<img src="https://avatars.githubusercontent.com/u/1330359?s=72&u=485531a46e2c4e304078b079fad7564263db15d0&v=4" width="24" alt="Avatar of Pushplaybang"> Pushplaybang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Pushplaybang">Copy rank badge</a><br/>
 			Paul
 		</td>
 		<td>No Company</td>
@@ -1474,7 +1476,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Sihle-Thwa">
 				<img src="https://avatars.githubusercontent.com/u/51497939?s=72&u=b6027a5421e92b9f82f28cf4393b5895d9b32d26&v=4" width="24" alt="Avatar of Sihle-Thwa"> Sihle-Thwa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Sihle-Thwa">Copy rank badge</a><br/>
 			Siphesihle Mthethwa
 		</td>
 		<td>No Company</td>
@@ -1487,7 +1489,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Simacoder">
 				<img src="https://avatars.githubusercontent.com/u/15520259?s=72&u=cb856831e244882bc5976e6026b9ccc3bf282d18&v=4" width="24" alt="Avatar of Simacoder"> Simacoder
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Simacoder">Copy rank badge</a><br/>
 			Simanga Mchunu
 		</td>
 		<td>No Company</td>
@@ -1500,7 +1502,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/shanimal08">
 				<img src="https://avatars.githubusercontent.com/u/47271333?s=72&u=e64a7ef2c4b164c72edb7b88956eca919fb3746d&v=4" width="24" alt="Avatar of shanimal08"> shanimal08
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#shanimal08">Copy rank badge</a><br/>
 			Shan
 		</td>
 		<td>No Company</td>
@@ -1513,7 +1515,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/DnA-IntRicate">
 				<img src="https://avatars.githubusercontent.com/u/87928802?s=72&u=b8c5452a74e82af8752c4a43596e2e19f0a81fac&v=4" width="24" alt="Avatar of DnA-IntRicate"> DnA-IntRicate
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#DnA-IntRicate">Copy rank badge</a><br/>
 			Adam Foflonker
 		</td>
 		<td>Intrynzic Software </td>
@@ -1526,7 +1528,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/fjlaubscher">
 				<img src="https://avatars.githubusercontent.com/u/5119031?s=72&u=aba0dbacc7295156b7d24c4c24c826939978643c&v=4" width="24" alt="Avatar of fjlaubscher"> fjlaubscher
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#fjlaubscher">Copy rank badge</a><br/>
 			Francois Laubscher
 		</td>
 		<td>@toptal </td>
@@ -1539,7 +1541,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/rehno-lindeque">
 				<img src="https://avatars.githubusercontent.com/u/337811?s=72&u=0b101acab7e7dbcf4d5f510e81cf4e483701d195&v=4" width="24" alt="Avatar of rehno-lindeque"> rehno-lindeque
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#rehno-lindeque">Copy rank badge</a><br/>
 			Rehno Lindeque
 		</td>
 		<td>Circuithub </td>
@@ -1552,7 +1554,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/katGhost">
 				<img src="https://avatars.githubusercontent.com/u/106239836?s=72&u=dcf3159871811b8d5e72d4b0e1c3f184fc4feddc&v=4" width="24" alt="Avatar of katGhost"> katGhost
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#katGhost">Copy rank badge</a><br/>
 			Andries N. Mogashoa
 		</td>
 		<td>No Company</td>
@@ -1565,7 +1567,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ONTI98">
 				<img src="https://avatars.githubusercontent.com/u/157315560?s=72&u=0687c2ffd3acba6a4da7b83ee162276aa397d9cf&v=4" width="24" alt="Avatar of ONTI98"> ONTI98
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ONTI98">Copy rank badge</a><br/>
 			Ontisitse Manyeneng
 		</td>
 		<td>No Company</td>
@@ -1578,7 +1580,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/itskingori">
 				<img src="https://avatars.githubusercontent.com/u/703786?s=72&u=d6664a9037c35f20a6738e2c77e1b475ffe60952&v=4" width="24" alt="Avatar of itskingori"> itskingori
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#itskingori">Copy rank badge</a><br/>
 			King'ori Maina
 		</td>
 		<td>Zappi </td>
@@ -1591,7 +1593,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/marknature">
 				<img src="https://avatars.githubusercontent.com/u/152166967?s=72&u=24a6e8305e51f8f62c2a70e47bb22c724d78d6f4&v=4" width="24" alt="Avatar of marknature"> marknature
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#marknature">Copy rank badge</a><br/>
 			Mark Chindudzi
 		</td>
 		<td>Africa University </td>
@@ -1604,7 +1606,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/KagishoMangaba">
 				<img src="https://avatars.githubusercontent.com/u/203539411?s=72&u=5f3b8b41a768bd328af02503f0186edd9eba2842&v=4" width="24" alt="Avatar of KagishoMangaba"> KagishoMangaba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#KagishoMangaba">Copy rank badge</a><br/>
 			Kagisho Prince
 		</td>
 		<td>No Company</td>
@@ -1617,7 +1619,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/yusufk">
 				<img src="https://avatars.githubusercontent.com/u/404139?s=72&v=4" width="24" alt="Avatar of yusufk"> yusufk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#yusufk">Copy rank badge</a><br/>
 			Yusuf Kaka
 		</td>
 		<td>@dis-chem </td>
@@ -1630,7 +1632,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/TebogoYungMercykay">
 				<img src="https://avatars.githubusercontent.com/u/91455209?s=72&u=c1d1124e85ac8638c463d41081aa65a9dea3ca04&v=4" width="24" alt="Avatar of TebogoYungMercykay"> TebogoYungMercykay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#TebogoYungMercykay">Copy rank badge</a><br/>
 			Sello Selepe
 		</td>
 		<td>University Of Pretoria </td>
@@ -1643,7 +1645,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/KevinT">
 				<img src="https://avatars.githubusercontent.com/u/182792?s=72&u=c69ce05fe675690cb59250b9993702a0f4b1750a&v=4" width="24" alt="Avatar of KevinT"> KevinT
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#KevinT">Copy rank badge</a><br/>
 			Kevin Trethewey
 		</td>
 		<td>No Company</td>
@@ -1656,7 +1658,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/chrinovicmu">
 				<img src="https://avatars.githubusercontent.com/u/164991237?s=72&v=4" width="24" alt="Avatar of chrinovicmu"> chrinovicmu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#chrinovicmu">Copy rank badge</a><br/>
 			Chrinovic Mukanya
 		</td>
 		<td>Gehirn/nerv Central Laboratory </td>
@@ -1669,7 +1671,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/charbileigh">
 				<img src="https://avatars.githubusercontent.com/u/44195461?s=72&u=95d34115fedbb9c89763b9fe85c03c52ad61b3b6&v=4" width="24" alt="Avatar of charbileigh"> charbileigh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#charbileigh">Copy rank badge</a><br/>
 			Chabi Francesca Seopa
 		</td>
 		<td>No Company</td>
@@ -1682,7 +1684,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/TRex22">
 				<img src="https://avatars.githubusercontent.com/u/2313094?s=72&u=81ab73aa61d5560188f5180570b59524b0648ae2&v=4" width="24" alt="Avatar of TRex22"> TRex22
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#TRex22">Copy rank badge</a><br/>
 			Jason Chalom
 		</td>
 		<td>@ncino </td>
@@ -1695,7 +1697,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/kathy-Kat">
 				<img src="https://avatars.githubusercontent.com/u/184753967?s=72&u=8c23f6300b2a1a1b46936ce11b5327fcfda6f228&v=4" width="24" alt="Avatar of kathy-Kat"> kathy-Kat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#kathy-Kat">Copy rank badge</a><br/>
 			Catherine Maponya
 		</td>
 		<td>No Company</td>
@@ -1708,7 +1710,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MeezaanD">
 				<img src="https://avatars.githubusercontent.com/u/114749755?s=72&u=1a29716ee47c01a666840840cba4947c76a3f6d9&v=4" width="24" alt="Avatar of MeezaanD"> MeezaanD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MeezaanD">Copy rank badge</a><br/>
 			Meezaan Davids
 		</td>
 		<td>@yoyogroup  </td>
@@ -1721,7 +1723,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/nmichlo">
 				<img src="https://avatars.githubusercontent.com/u/30571138?s=72&u=dfc6bd1284713d154592d467990c7a55ba93c174&v=4" width="24" alt="Avatar of nmichlo"> nmichlo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#nmichlo">Copy rank badge</a><br/>
 			Nathan
 		</td>
 		<td>Bytefuse.ai </td>
@@ -1734,7 +1736,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ShyAssassin">
 				<img src="https://avatars.githubusercontent.com/u/49711232?s=72&u=274c3d26338a7be41031935cde2c22d9e1c1118b&v=4" width="24" alt="Avatar of ShyAssassin"> ShyAssassin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ShyAssassin">Copy rank badge</a><br/>
 			[Assassin]
 		</td>
 		<td>No Company</td>
@@ -1747,7 +1749,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/keeganwhite">
 				<img src="https://avatars.githubusercontent.com/u/34510640?s=72&u=5a197f1ecaa9ba60f2c145a4218d218eef660001&v=4" width="24" alt="Avatar of keeganwhite"> keeganwhite
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#keeganwhite">Copy rank badge</a><br/>
 			Keegan White
 		</td>
 		<td>@taurine-technology @inethi </td>
@@ -1760,7 +1762,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Bumblebash">
 				<img src="https://avatars.githubusercontent.com/u/94570601?s=72&u=d37dac3aace996502a82f488d9b8eeebf36c7139&v=4" width="24" alt="Avatar of Bumblebash"> Bumblebash
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Bumblebash">Copy rank badge</a><br/>
 			SSIMBWA BASHIR
 		</td>
 		<td>No Company</td>
@@ -1773,7 +1775,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/rossmacarthur">
 				<img src="https://avatars.githubusercontent.com/u/17109887?s=72&u=60369a738bb32158609dbb1bf895406b5e609c0b&v=4" width="24" alt="Avatar of rossmacarthur"> rossmacarthur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#rossmacarthur">Copy rank badge</a><br/>
 			Ross MacArthur
 		</td>
 		<td>No Company</td>
@@ -1786,7 +1788,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/zeorin">
 				<img src="https://avatars.githubusercontent.com/u/1187078?s=72&v=4" width="24" alt="Avatar of zeorin"> zeorin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#zeorin">Copy rank badge</a><br/>
 			Xandor Schiefer
 		</td>
 		<td>Pixel Theory </td>
@@ -1799,7 +1801,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Abdulrasheed1729">
 				<img src="https://avatars.githubusercontent.com/u/70612165?s=72&u=f4a2d45b6a40d977223ed51ef8c19d8205b07c11&v=4" width="24" alt="Avatar of Abdulrasheed1729"> Abdulrasheed1729
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Abdulrasheed1729">Copy rank badge</a><br/>
 			0xcf2f
 		</td>
 		<td>No Company</td>
@@ -1812,7 +1814,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/bruce-atkinson">
 				<img src="https://avatars.githubusercontent.com/u/13369065?s=72&v=4" width="24" alt="Avatar of bruce-atkinson"> bruce-atkinson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#bruce-atkinson">Copy rank badge</a><br/>
 			Bruce Atkinson
 		</td>
 		<td>App Inlet </td>
@@ -1825,7 +1827,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Pho3niX90">
 				<img src="https://avatars.githubusercontent.com/u/7858187?s=72&u=d70a7d894b188d03047e80a2f672fc8b515d69bb&v=4" width="24" alt="Avatar of Pho3niX90"> Pho3niX90
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Pho3niX90">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Server Armour </td>
@@ -1838,7 +1840,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/DenDen047">
 				<img src="https://avatars.githubusercontent.com/u/6120047?s=72&u=35cbaa011df3953ef8821b8b051b1eb0f03da971&v=4" width="24" alt="Avatar of DenDen047"> DenDen047
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#DenDen047">Copy rank badge</a><br/>
 			Naoya Muramatsu
 		</td>
 		<td>University Of Cape Town<br/></td>
@@ -1851,7 +1853,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/WrathZA">
 				<img src="https://avatars.githubusercontent.com/u/3757315?s=72&v=4" width="24" alt="Avatar of WrathZA"> WrathZA
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#WrathZA">Copy rank badge</a><br/>
 			WrathZA
 		</td>
 		<td>No Company</td>
@@ -1864,7 +1866,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ndamulelonemakh">
 				<img src="https://avatars.githubusercontent.com/u/14007831?s=72&u=8fbb41f668e507571889155dd1bc038e7ceff710&v=4" width="24" alt="Avatar of ndamulelonemakh"> ndamulelonemakh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ndamulelonemakh">Copy rank badge</a><br/>
 			Ndamulelo Nemakhavhani
 		</td>
 		<td>Rooral Platforms </td>
@@ -1877,7 +1879,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/duanecilliers">
 				<img src="https://avatars.githubusercontent.com/u/1135407?s=72&u=9ed05a6aa1672d0790ff33c4e2ee27c3bcfa3089&v=4" width="24" alt="Avatar of duanecilliers"> duanecilliers
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#duanecilliers">Copy rank badge</a><br/>
 			Duane Cilliers
 		</td>
 		<td>@rew-studio, @castleone, Trust My<br/>Group<br/></td>
@@ -1890,7 +1892,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/jordanbmnt">
 				<img src="https://avatars.githubusercontent.com/u/89685475?s=72&u=eb8d10f1b2f8d030fcdc5d0a749d1f4272587cf5&v=4" width="24" alt="Avatar of jordanbmnt"> jordanbmnt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#jordanbmnt">Copy rank badge</a><br/>
 			Jordan Beaumont
 		</td>
 		<td>No Company</td>
@@ -1903,7 +1905,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/aowebtech13">
 				<img src="https://avatars.githubusercontent.com/u/74331985?s=72&u=63a64b4e37323de718ca5bd8483899ac3425d986&v=4" width="24" alt="Avatar of aowebtech13"> aowebtech13
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#aowebtech13">Copy rank badge</a><br/>
 			Aoweb tech
 		</td>
 		<td>Aowebtech </td>
@@ -1916,7 +1918,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/JOlsen-Neslo">
 				<img src="https://avatars.githubusercontent.com/u/46996097?s=72&u=13e650f3b193a8c46e3c82efff053f33c5a08f63&v=4" width="24" alt="Avatar of JOlsen-Neslo"> JOlsen-Neslo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#JOlsen-Neslo">Copy rank badge</a><br/>
 			Jordan Olsen
 		</td>
 		<td>Neslo Tech </td>
@@ -1929,7 +1931,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/HlobisileLukhele">
 				<img src="https://avatars.githubusercontent.com/u/111096303?s=72&u=647be4e575571bb5a04008970f9e24c1549116a4&v=4" width="24" alt="Avatar of HlobisileLukhele"> HlobisileLukhele
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#HlobisileLukhele">Copy rank badge</a><br/>
 			HLOBI
 		</td>
 		<td>No Company</td>
@@ -1942,7 +1944,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/jesselsookha">
 				<img src="https://avatars.githubusercontent.com/u/128137223?s=72&u=7167467377fdd025a53061670659e21af0df66c5&v=4" width="24" alt="Avatar of jesselsookha"> jesselsookha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#jesselsookha">Copy rank badge</a><br/>
 			Jessel Sookha
 		</td>
 		<td>@vcstdn  </td>
@@ -1955,7 +1957,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/JasoonS">
 				<img src="https://avatars.githubusercontent.com/u/6032276?s=72&v=4" width="24" alt="Avatar of JasoonS"> JasoonS
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#JasoonS">Copy rank badge</a><br/>
 			Jason Smythe
 		</td>
 		<td>Envio.dev </td>
@@ -1968,7 +1970,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/knightspore">
 				<img src="https://avatars.githubusercontent.com/u/51886151?s=72&u=453e2533438f7be170ccb386c2d52fa5461a1543&v=4" width="24" alt="Avatar of knightspore"> knightspore
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#knightspore">Copy rank badge</a><br/>
 			Ciarán
 		</td>
 		<td>No Company</td>
@@ -1981,7 +1983,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/davidtinker">
 				<img src="https://avatars.githubusercontent.com/u/561033?s=72&v=4" width="24" alt="Avatar of davidtinker"> davidtinker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#davidtinker">Copy rank badge</a><br/>
 			David Tinker
 		</td>
 		<td>Intervals.icu </td>
@@ -1994,7 +1996,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/DimakatsoMalope">
 				<img src="https://avatars.githubusercontent.com/u/197581807?s=72&u=99bd2af4406f86d635ca754afc4c7311691e8a02&v=4" width="24" alt="Avatar of DimakatsoMalope"> DimakatsoMalope
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#DimakatsoMalope">Copy rank badge</a><br/>
 			Thatoyaka Dimakatso Malope
 		</td>
 		<td>No Company</td>
@@ -2007,7 +2009,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/WandileM7">
 				<img src="https://avatars.githubusercontent.com/u/171447027?s=72&v=4" width="24" alt="Avatar of WandileM7"> WandileM7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#WandileM7">Copy rank badge</a><br/>
 			Wandile Paballo Mawela
 		</td>
 		<td>Wethinkcode_ </td>
@@ -2020,7 +2022,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MampotjeMabusela">
 				<img src="https://avatars.githubusercontent.com/u/211841854?s=72&u=2d5fab632537c2fe36eb6193941b89fe97891d71&v=4" width="24" alt="Avatar of MampotjeMabusela"> MampotjeMabusela
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MampotjeMabusela">Copy rank badge</a><br/>
 			Mampotje Mabusela
 		</td>
 		<td>Self-made </td>
@@ -2033,7 +2035,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/dagelf">
 				<img src="https://avatars.githubusercontent.com/u/802628?s=72&v=4" width="24" alt="Avatar of dagelf"> dagelf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#dagelf">Copy rank badge</a><br/>
 			Coenraad Loubser
 		</td>
 		<td>Where Innovation Serves Humans<br/></td>
@@ -2046,7 +2048,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/NtokozoMkhwanazi">
 				<img src="https://avatars.githubusercontent.com/u/68799579?s=72&v=4" width="24" alt="Avatar of NtokozoMkhwanazi"> NtokozoMkhwanazi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#NtokozoMkhwanazi">Copy rank badge</a><br/>
 			RTT-Dev
 		</td>
 		<td>No Company</td>
@@ -2059,7 +2061,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/jhavatar">
 				<img src="https://avatars.githubusercontent.com/u/10738882?s=72&u=7c1332b94e6c78a10fbe736f8f411afe1918ae59&v=4" width="24" alt="Avatar of jhavatar"> jhavatar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#jhavatar">Copy rank badge</a><br/>
 			Jan-Hendrik de Vaal
 		</td>
 		<td>No Company</td>
@@ -2072,7 +2074,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/tmampa">
 				<img src="https://avatars.githubusercontent.com/u/67906597?s=72&u=852e16717b2031bda03bf01af07ae0b671c71063&v=4" width="24" alt="Avatar of tmampa"> tmampa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#tmampa">Copy rank badge</a><br/>
 			Tshephang Mampa
 		</td>
 		<td>Full Stack Developer </td>
@@ -2085,7 +2087,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mikechiloane">
 				<img src="https://avatars.githubusercontent.com/u/38855352?s=72&u=52dc74c9b9f036a21ce493b0483d3547d6e1b348&v=4" width="24" alt="Avatar of mikechiloane"> mikechiloane
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mikechiloane">Copy rank badge</a><br/>
 			Mike Nhlanhla Chiloane
 		</td>
 		<td>No Company</td>
@@ -2098,7 +2100,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/pavelivanov">
 				<img src="https://avatars.githubusercontent.com/u/966176?s=72&u=64ce2c7db19cb670dde5c8efcee980c047ef386a&v=4" width="24" alt="Avatar of pavelivanov"> pavelivanov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#pavelivanov">Copy rank badge</a><br/>
 			Pavel Ivanov
 		</td>
 		<td>No Company</td>
@@ -2111,7 +2113,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Sbusiso2904">
 				<img src="https://avatars.githubusercontent.com/u/181453024?s=72&u=ed6818d6065a95007fd390f0fc70ad43912c5307&v=4" width="24" alt="Avatar of Sbusiso2904"> Sbusiso2904
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Sbusiso2904">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2124,7 +2126,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/bilo-io">
 				<img src="https://avatars.githubusercontent.com/u/3089012?s=72&u=f26806aa32cb21331071c4379d3b5ed4b81c854f&v=4" width="24" alt="Avatar of bilo-io"> bilo-io
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#bilo-io">Copy rank badge</a><br/>
 			Bilo Lwabona
 		</td>
 		<td>No Company</td>
@@ -2137,7 +2139,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/peterretief">
 				<img src="https://avatars.githubusercontent.com/u/227878?s=72&v=4" width="24" alt="Avatar of peterretief"> peterretief
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#peterretief">Copy rank badge</a><br/>
 			Peter Retief
 		</td>
 		<td>Pr </td>
@@ -2150,7 +2152,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mholtzhausen">
 				<img src="https://avatars.githubusercontent.com/u/90659?s=72&u=7e66e7a176efea8748f9c0312ca91ca471e2bd13&v=4" width="24" alt="Avatar of mholtzhausen"> mholtzhausen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mholtzhausen">Copy rank badge</a><br/>
 			Mark Holtzhausen
 		</td>
 		<td>No Company</td>
@@ -2163,7 +2165,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Tumo505">
 				<img src="https://avatars.githubusercontent.com/u/43002871?s=72&u=9778e3d960240b01b4ec239e802748ff2b3123b2&v=4" width="24" alt="Avatar of Tumo505"> Tumo505
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Tumo505">Copy rank badge</a><br/>
 			Tumo Kgabeng
 		</td>
 		<td>@anton-tech-bw, @gdsc-botswanaaccoun </td>
@@ -2176,7 +2178,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/JohannesMeyerYC">
 				<img src="https://avatars.githubusercontent.com/u/213844792?s=72&v=4" width="24" alt="Avatar of JohannesMeyerYC"> JohannesMeyerYC
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#JohannesMeyerYC">Copy rank badge</a><br/>
 			Johannes Meyer
 		</td>
 		<td>Quant Enthusiasts </td>
@@ -2189,7 +2191,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MrBean355">
 				<img src="https://avatars.githubusercontent.com/u/6640530?s=72&u=27f4bf6fdfb4f2e8e3669a83e0bda686e1d47f14&v=4" width="24" alt="Avatar of MrBean355"> MrBean355
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MrBean355">Copy rank badge</a><br/>
 			Mike Johnston
 		</td>
 		<td>Standard Bank </td>
@@ -2202,7 +2204,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/damienswarts23">
 				<img src="https://avatars.githubusercontent.com/u/199116920?s=72&u=fc9f6eb0c3c942d9ba5b9b3a73d8fbb2438bfc94&v=4" width="24" alt="Avatar of damienswarts23"> damienswarts23
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#damienswarts23">Copy rank badge</a><br/>
 			Damien Swarts
 		</td>
 		<td>No Company</td>
@@ -2215,7 +2217,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/dirkcuys">
 				<img src="https://avatars.githubusercontent.com/u/121995?s=72&u=cc798d66eb3926121982a593fe1fc0249e2b1cfe&v=4" width="24" alt="Avatar of dirkcuys"> dirkcuys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#dirkcuys">Copy rank badge</a><br/>
 			Dirk Uys
 		</td>
 		<td>Peer 2 Peer University<br/></td>
@@ -2228,7 +2230,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MikhaD">
 				<img src="https://avatars.githubusercontent.com/u/31388146?s=72&u=403d68cd852c0f61ce966b189438fce2263fcaa7&v=4" width="24" alt="Avatar of MikhaD"> MikhaD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MikhaD">Copy rank badge</a><br/>
 			Mikha Davids
 		</td>
 		<td>@quicklysign  </td>
@@ -2241,7 +2243,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/fatalbanana">
 				<img src="https://avatars.githubusercontent.com/u/2176651?s=72&u=48843ef3d3efb0f67247b34ba4a9f23eb67fa66c&v=4" width="24" alt="Avatar of fatalbanana"> fatalbanana
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#fatalbanana">Copy rank badge</a><br/>
 			Andrew Lewis
 		</td>
 		<td>No Company</td>
@@ -2254,7 +2256,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/theronic">
 				<img src="https://avatars.githubusercontent.com/u/1011676?s=72&u=7aa431621352ed91bc99e39bc9d467dfd97b0aa9&v=4" width="24" alt="Avatar of theronic"> theronic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#theronic">Copy rank badge</a><br/>
 			Petrus Theron
 		</td>
 		<td>@cloudafrica </td>
@@ -2267,7 +2269,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/shiviancodes">
 				<img src="https://avatars.githubusercontent.com/u/283748711?s=72&u=b66869fd61de5c4a2cf41b76f8a3c889809b104a&v=4" width="24" alt="Avatar of shiviancodes"> shiviancodes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#shiviancodes">Copy rank badge</a><br/>
 			Shivian
 		</td>
 		<td>No Company</td>
@@ -2280,7 +2282,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/RatulMaharaj">
 				<img src="https://avatars.githubusercontent.com/u/56479869?s=72&u=0ae1f3ea5e841110d1549708db6300d45527df7a&v=4" width="24" alt="Avatar of RatulMaharaj"> RatulMaharaj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#RatulMaharaj">Copy rank badge</a><br/>
 			Ratul Maharaj
 		</td>
 		<td>@loopedautomation  </td>
@@ -2293,7 +2295,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MrBooi">
 				<img src="https://avatars.githubusercontent.com/u/28918582?s=72&u=68fa84d6b86eeb65bf4f8ac1225e84ea68d99263&v=4" width="24" alt="Avatar of MrBooi"> MrBooi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MrBooi">Copy rank badge</a><br/>
 			Ayabonga
 		</td>
 		<td>No Company</td>
@@ -2306,7 +2308,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/kmf">
 				<img src="https://avatars.githubusercontent.com/u/78700?s=72&u=b327e38f91de81b97fb5b0d104c2496ce565b0e1&v=4" width="24" alt="Avatar of kmf"> kmf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#kmf">Copy rank badge</a><br/>
 			Karl Fischer
 		</td>
 		<td>Obsidian </td>
@@ -2319,7 +2321,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Sandile88">
 				<img src="https://avatars.githubusercontent.com/u/152507157?s=72&u=5573e8df46ad9e9ac597b33b77ba23f6cc1de049&v=4" width="24" alt="Avatar of Sandile88"> Sandile88
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Sandile88">Copy rank badge</a><br/>
 			Sandile M'remi
 		</td>
 		<td>Wethinkcode_ </td>
@@ -2332,7 +2334,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/WisaniShilumani">
 				<img src="https://avatars.githubusercontent.com/u/22444640?s=72&u=fb238147de5b37a4aa3a20a12a7f1b2c3dbe0303&v=4" width="24" alt="Avatar of WisaniShilumani"> WisaniShilumani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#WisaniShilumani">Copy rank badge</a><br/>
 			Wisani Shilumani
 		</td>
 		<td>Allan Gray Proprietary Limited<br/></td>
@@ -2345,7 +2347,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ncthbrt">
 				<img src="https://avatars.githubusercontent.com/u/8688217?s=72&u=fa16b13753abbb8050bea0e93637378c97c917b4&v=4" width="24" alt="Avatar of ncthbrt"> ncthbrt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ncthbrt">Copy rank badge</a><br/>
 			Natalie Cuthbert
 		</td>
 		<td>No Company</td>
@@ -2358,7 +2360,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/bradleymarques">
 				<img src="https://avatars.githubusercontent.com/u/728866?s=72&u=922bbe4bf92d9dbe83ecf4d98fbe0737a38871e3&v=4" width="24" alt="Avatar of bradleymarques"> bradleymarques
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#bradleymarques">Copy rank badge</a><br/>
 			Bradley Marques
 		</td>
 		<td>@haikucode-dev </td>
@@ -2371,7 +2373,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/chris-kck">
 				<img src="https://avatars.githubusercontent.com/u/22814329?s=72&u=e94b418596a924c82f68163f4a50759350f11e6c&v=4" width="24" alt="Avatar of chris-kck"> chris-kck
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#chris-kck">Copy rank badge</a><br/>
 			Chris Kateera
 		</td>
 		<td>Mohara </td>
@@ -2384,7 +2386,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/lindelwa122">
 				<img src="https://avatars.githubusercontent.com/u/141874170?s=72&u=93b01472721afd1826a4f9e58d5acba1ae9b12c8&v=4" width="24" alt="Avatar of lindelwa122"> lindelwa122
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#lindelwa122">Copy rank badge</a><br/>
 			Nqabenhle
 		</td>
 		<td>No Company</td>
@@ -2397,7 +2399,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/WalterSmuts">
 				<img src="https://avatars.githubusercontent.com/u/17950515?s=72&u=5d5eabd3a284ababd216c72abaac328bbc4e2e7b&v=4" width="24" alt="Avatar of WalterSmuts"> WalterSmuts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#WalterSmuts">Copy rank badge</a><br/>
 			Walter Smuts
 		</td>
 		<td>No Company</td>
@@ -2410,7 +2412,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ndorfin">
 				<img src="https://avatars.githubusercontent.com/u/107569?s=72&u=e022b3996608368cee315206d16d644bd09e0f51&v=4" width="24" alt="Avatar of ndorfin"> ndorfin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ndorfin">Copy rank badge</a><br/>
 			Shaun O’Connell
 		</td>
 		<td>No Company</td>
@@ -2423,7 +2425,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/tsotetsi">
 				<img src="https://avatars.githubusercontent.com/u/15611990?s=72&u=949f7aa26cbf0b427a88f089a1e3827dcc832c0b&v=4" width="24" alt="Avatar of tsotetsi"> tsotetsi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#tsotetsi">Copy rank badge</a><br/>
 			Thapelo Tsotetsi
 		</td>
 		<td>No Company</td>
@@ -2436,7 +2438,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/willemvds">
 				<img src="https://avatars.githubusercontent.com/u/237710?s=72&u=b8e5d0edee5b2c76685adb3d74bfab393d853318&v=4" width="24" alt="Avatar of willemvds"> willemvds
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#willemvds">Copy rank badge</a><br/>
 			Willem van der Schyff
 		</td>
 		<td>Lateralwave.dev </td>
@@ -2449,7 +2451,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ArnoldT01">
 				<img src="https://avatars.githubusercontent.com/u/139617269?s=72&u=fa74208958427460d273b5ef98b89915349f9a62&v=4" width="24" alt="Avatar of ArnoldT01"> ArnoldT01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ArnoldT01">Copy rank badge</a><br/>
 			Arnold
 		</td>
 		<td>No Company</td>
@@ -2462,7 +2464,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/arthurattwell">
 				<img src="https://avatars.githubusercontent.com/u/1053331?s=72&v=4" width="24" alt="Avatar of arthurattwell"> arthurattwell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#arthurattwell">Copy rank badge</a><br/>
 			Arthur Attwell
 		</td>
 		<td>@electricbookworks  </td>
@@ -2475,7 +2477,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/cliedeman">
 				<img src="https://avatars.githubusercontent.com/u/3578740?s=72&u=7eb17070d09bf9930686c3a73b58d21322641854&v=4" width="24" alt="Avatar of cliedeman"> cliedeman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#cliedeman">Copy rank badge</a><br/>
 			Ciaran Liedeman
 		</td>
 		<td>@stackworx  </td>
@@ -2488,7 +2490,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/JasonTame">
 				<img src="https://avatars.githubusercontent.com/u/15672948?s=72&u=4d17de205dee5a5828e71f5795ae065c325029b9&v=4" width="24" alt="Avatar of JasonTame"> JasonTame
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#JasonTame">Copy rank badge</a><br/>
 			Jason Tame
 		</td>
 		<td>@tillotech </td>
@@ -2501,7 +2503,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/paulmwatson">
 				<img src="https://avatars.githubusercontent.com/u/4352?s=72&u=c0990a3c079320b54e0d431117ca13a2127a70c9&v=4" width="24" alt="Avatar of paulmwatson"> paulmwatson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#paulmwatson">Copy rank badge</a><br/>
 			Paul Watson
 		</td>
 		<td>@sociolocal </td>
@@ -2514,7 +2516,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/kgundula">
 				<img src="https://avatars.githubusercontent.com/u/1294795?s=72&u=540680e71a5921c52bfd7bbb927dffa52ecf831d&v=4" width="24" alt="Avatar of kgundula"> kgundula
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#kgundula">Copy rank badge</a><br/>
 			Khuthadzo Gundula
 		</td>
 		<td>Google Developer Group </td>
@@ -2527,7 +2529,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/thaboxan">
 				<img src="https://avatars.githubusercontent.com/u/113469568?s=72&u=fea7bd13e8b9a7cbda86d7ebf4fc245e717ac62b&v=4" width="24" alt="Avatar of thaboxan"> thaboxan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#thaboxan">Copy rank badge</a><br/>
 			ThaboCodes
 		</td>
 		<td>No Company</td>
@@ -2540,7 +2542,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/DeanVanGreunen">
 				<img src="https://avatars.githubusercontent.com/u/22296075?s=72&u=aa9330a04a3df1030fb30241a22b6650453a92ba&v=4" width="24" alt="Avatar of DeanVanGreunen"> DeanVanGreunen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#DeanVanGreunen">Copy rank badge</a><br/>
 			Dean Van Greunen
 		</td>
 		<td>No Company</td>
@@ -2553,7 +2555,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/LukeRenton">
 				<img src="https://avatars.githubusercontent.com/u/99989709?s=72&u=492f76537956100d4921b8484bd2c36c2921646f&v=4" width="24" alt="Avatar of LukeRenton"> LukeRenton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#LukeRenton">Copy rank badge</a><br/>
 			Luke Renton
 		</td>
 		<td>Industrial Data Xchange </td>
@@ -2566,7 +2568,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/eliasjudin">
 				<img src="https://avatars.githubusercontent.com/u/48514516?s=72&u=c5fabc5806321ad2e083d3cbb473fbc1f7020e62&v=4" width="24" alt="Avatar of eliasjudin"> eliasjudin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#eliasjudin">Copy rank badge</a><br/>
 			Elias Judin
 		</td>
 		<td>University Of Cape Town<br/></td>
@@ -2579,7 +2581,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Tyrese-Mv">
 				<img src="https://avatars.githubusercontent.com/u/126143071?s=72&u=72a7a5fef2cc3cad914ee49040787950738e93f8&v=4" width="24" alt="Avatar of Tyrese-Mv"> Tyrese-Mv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Tyrese-Mv">Copy rank badge</a><br/>
 			Musawenkosi Tyrese Mvuna
 		</td>
 		<td>Rorschach Innovative Services </td>
@@ -2592,7 +2594,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/simandebvu">
 				<img src="https://avatars.githubusercontent.com/u/4772111?s=72&u=328c9afada1b46c27ea74c383857f88be6062524&v=4" width="24" alt="Avatar of simandebvu"> simandebvu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#simandebvu">Copy rank badge</a><br/>
 			Shingirayi Innocent Mandebvu
 		</td>
 		<td>Freelance Full-stack Developer </td>
@@ -2605,7 +2607,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/siphosenkosi803">
 				<img src="https://avatars.githubusercontent.com/u/110998052?s=72&u=f259d87814854c602ce081b519a62e72f52ddcac&v=4" width="24" alt="Avatar of siphosenkosi803"> siphosenkosi803
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#siphosenkosi803">Copy rank badge</a><br/>
 			siphosenkosi mlotshwa
 		</td>
 		<td>1heavy0 </td>
@@ -2618,7 +2620,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/c-goosen">
 				<img src="https://avatars.githubusercontent.com/u/7881734?s=72&u=83abf3451612fe2b862c947a5dafbe6e085c0e58&v=4" width="24" alt="Avatar of c-goosen"> c-goosen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#c-goosen">Copy rank badge</a><br/>
 			Christo (crypticGoose) Goosen
 		</td>
 		<td>Utility Warehouse </td>
@@ -2631,7 +2633,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/martink-rsa">
 				<img src="https://avatars.githubusercontent.com/u/52622303?s=72&u=46034d78909faf0f30fa4ca9d067bbfec93938d5&v=4" width="24" alt="Avatar of martink-rsa"> martink-rsa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#martink-rsa">Copy rank badge</a><br/>
 			Martin Kruger
 		</td>
 		<td>@lidema-studios  </td>
@@ -2644,7 +2646,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/hcvst">
 				<img src="https://avatars.githubusercontent.com/u/106671?s=72&u=e3649ae7cc436001befb5932da2efcb8f3e6f3b8&v=4" width="24" alt="Avatar of hcvst"> hcvst
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#hcvst">Copy rank badge</a><br/>
 			Hans Christian v. Stockhausen
 		</td>
 		<td>No Company</td>
@@ -2657,7 +2659,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/erickelninoSwift">
 				<img src="https://avatars.githubusercontent.com/u/66980273?s=72&u=55b24711c11af2a229ad8b3e6a0561c79d105c9c&v=4" width="24" alt="Avatar of erickelninoSwift"> erickelninoSwift
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#erickelninoSwift">Copy rank badge</a><br/>
 			Erick El Nino Tshimbombo
 		</td>
 		<td>Instacom South Africa </td>
@@ -2670,7 +2672,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/eugenefvdm">
 				<img src="https://avatars.githubusercontent.com/u/1836436?s=72&u=eb323d25c4be86caa28fd29cbccad30b0a75ab12&v=4" width="24" alt="Avatar of eugenefvdm"> eugenefvdm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#eugenefvdm">Copy rank badge</a><br/>
 			Eugene van der Merwe 
 		</td>
 		<td>Freelance & Vander Host<br/></td>
@@ -2683,7 +2685,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/jslingsby">
 				<img src="https://avatars.githubusercontent.com/u/1164222?s=72&u=367070f821a86b5afa027629e81bcd5bab5988dc&v=4" width="24" alt="Avatar of jslingsby"> jslingsby
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#jslingsby">Copy rank badge</a><br/>
 			Jasper Slingsby
 		</td>
 		<td>University Of Cape Town<br/></td>
@@ -2696,7 +2698,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/bley-gold">
 				<img src="https://avatars.githubusercontent.com/u/136028346?s=72&u=a019d50736ba81e40dfeb47a64cf8e486f9f9ce3&v=4" width="24" alt="Avatar of bley-gold"> bley-gold
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#bley-gold">Copy rank badge</a><br/>
 			Blessings Mwale
 		</td>
 		<td>No Company</td>
@@ -2709,7 +2711,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/corverroos">
 				<img src="https://avatars.githubusercontent.com/u/29249923?s=72&u=ebc4499936c3ebbedf2086aef2978eb2f1b7f441&v=4" width="24" alt="Avatar of corverroos"> corverroos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#corverroos">Copy rank badge</a><br/>
 			corver
 		</td>
 		<td>@nomina-xyz </td>
@@ -2722,7 +2724,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/sachajw">
 				<img src="https://avatars.githubusercontent.com/u/32266273?s=72&u=d7324c74dc28d21cb56d6fe609f3df83917232b1&v=4" width="24" alt="Avatar of sachajw"> sachajw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#sachajw">Copy rank badge</a><br/>
 			Sacha Wharton
 		</td>
 		<td>Pangarabbit </td>
@@ -2735,7 +2737,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/lebohang0824">
 				<img src="https://avatars.githubusercontent.com/u/26303203?s=72&u=ba915a2b3861de9cb5b6be13d0439654988f69b1&v=4" width="24" alt="Avatar of lebohang0824"> lebohang0824
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#lebohang0824">Copy rank badge</a><br/>
 			Lebohang Mokoena
 		</td>
 		<td>No Company</td>
@@ -2748,7 +2750,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/armanddp">
 				<img src="https://avatars.githubusercontent.com/u/6898?s=72&u=a76a7951ef1b499949b8171a002d298d51d0c253&v=4" width="24" alt="Avatar of armanddp"> armanddp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#armanddp">Copy rank badge</a><br/>
 			Armand du Plessis
 		</td>
 		<td>Pulse </td>
@@ -2761,7 +2763,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/LuthandoNgombane">
 				<img src="https://avatars.githubusercontent.com/u/24877517?s=72&u=50d0fcd8282f5189b3322cf37d39bca71d30b898&v=4" width="24" alt="Avatar of LuthandoNgombane"> LuthandoNgombane
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#LuthandoNgombane">Copy rank badge</a><br/>
 			Luthando Ngombane
 		</td>
 		<td>360 Administration And Systems<br/>Pty<br/>Ltd<br/></td>
@@ -2774,7 +2776,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Lawrence-Godfrey">
 				<img src="https://avatars.githubusercontent.com/u/47714027?s=72&u=64fc8fd7427f12ca0340a020458e6fe4f9971bbd&v=4" width="24" alt="Avatar of Lawrence-Godfrey"> Lawrence-Godfrey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Lawrence-Godfrey">Copy rank badge</a><br/>
 			Lawrence Godfrey
 		</td>
 		<td>Www.solenya.ai </td>
@@ -2787,7 +2789,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/TebogoLesedi1">
 				<img src="https://avatars.githubusercontent.com/u/136654639?s=72&u=4670996d1163921918b6195f1bd698ef4d6a71bf&v=4" width="24" alt="Avatar of TebogoLesedi1"> TebogoLesedi1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#TebogoLesedi1">Copy rank badge</a><br/>
 			Tebogo Lesedi
 		</td>
 		<td>No Company</td>
@@ -2800,7 +2802,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/TumeloNtsilo">
 				<img src="https://avatars.githubusercontent.com/u/122849519?s=72&u=81b20532796fa392cc9f6311770d6ba8463e0891&v=4" width="24" alt="Avatar of TumeloNtsilo"> TumeloNtsilo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#TumeloNtsilo">Copy rank badge</a><br/>
 			Tumelo Edward Ntsilo
 		</td>
 		<td>No Company</td>
@@ -2813,7 +2815,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/chemeris">
 				<img src="https://avatars.githubusercontent.com/u/361090?s=72&v=4" width="24" alt="Avatar of chemeris"> chemeris
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#chemeris">Copy rank badge</a><br/>
 			Alexander Chemeris
 		</td>
 		<td>Rain South Africa </td>
@@ -2826,7 +2828,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Executioner1939">
 				<img src="https://avatars.githubusercontent.com/u/10631012?s=72&u=b8208b1f098de7fe6fb80ccc6c796b841240b92a&v=4" width="24" alt="Avatar of Executioner1939"> Executioner1939
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Executioner1939">Copy rank badge</a><br/>
 			Richard
 		</td>
 		<td>No Company</td>
@@ -2839,7 +2841,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Ratau-Lebohang">
 				<img src="https://avatars.githubusercontent.com/u/199377084?s=72&u=1805f9d767324344d61c9a602db579cab3982012&v=4" width="24" alt="Avatar of Ratau-Lebohang"> Ratau-Lebohang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Ratau-Lebohang">Copy rank badge</a><br/>
 			Lebohang
 		</td>
 		<td>No Company</td>
@@ -2852,7 +2854,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mactunechy">
 				<img src="https://avatars.githubusercontent.com/u/37017264?s=72&u=961b5b77f8aec6b76536c89c59c0adcd118050ab&v=4" width="24" alt="Avatar of mactunechy"> mactunechy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mactunechy">Copy rank badge</a><br/>
 			Dellan Muchengapadare
 		</td>
 		<td>Innstyle </td>
@@ -2865,7 +2867,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/rmaclean">
 				<img src="https://avatars.githubusercontent.com/u/1232733?s=72&v=4" width="24" alt="Avatar of rmaclean"> rmaclean
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#rmaclean">Copy rank badge</a><br/>
 			Robert MacLean
 		</td>
 		<td>@good-name-za </td>
@@ -2878,7 +2880,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/HlonieLive">
 				<img src="https://avatars.githubusercontent.com/u/155855387?s=72&u=a264c6edffaa97380fbf26e144ee32bd3e208f4d&v=4" width="24" alt="Avatar of HlonieLive"> HlonieLive
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#HlonieLive">Copy rank badge</a><br/>
 			Lehlohonolo Tshabalala
 		</td>
 		<td>No Company</td>
@@ -2891,7 +2893,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/smn">
 				<img src="https://avatars.githubusercontent.com/u/1065?s=72&v=4" width="24" alt="Avatar of smn"> smn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#smn">Copy rank badge</a><br/>
 			Simon de Haan
 		</td>
 		<td>@turnhub  </td>
@@ -2904,7 +2906,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Danie10">
 				<img src="https://avatars.githubusercontent.com/u/1153726?s=72&v=4" width="24" alt="Avatar of Danie10"> Danie10
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Danie10">Copy rank badge</a><br/>
 			Danie
 		</td>
 		<td>No Company</td>
@@ -2917,7 +2919,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/FortuneN">
 				<img src="https://avatars.githubusercontent.com/u/5636175?s=72&v=4" width="24" alt="Avatar of FortuneN"> FortuneN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#FortuneN">Copy rank badge</a><br/>
 			Fortune Ngwenya
 		</td>
 		<td>Fortune Ngwenya </td>
@@ -2930,7 +2932,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/kb-90">
 				<img src="https://avatars.githubusercontent.com/u/217981115?s=72&u=39b7a9fabfb0e69a2c8d05ebae3f634ff5b96006&v=4" width="24" alt="Avatar of kb-90"> kb-90
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#kb-90">Copy rank badge</a><br/>
 			solo-coder-bro
 		</td>
 		<td>Solo_coder_bro </td>
@@ -2943,7 +2945,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Nomcebo-coder-hub">
 				<img src="https://avatars.githubusercontent.com/u/152399132?s=72&u=52b69ed09dacf943fdd6a98fb3fbe00644e0642c&v=4" width="24" alt="Avatar of Nomcebo-coder-hub"> Nomcebo-coder-hub
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Nomcebo-coder-hub">Copy rank badge</a><br/>
 			Nomcebo
 		</td>
 		<td>No Company</td>
@@ -2956,7 +2958,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/anelda">
 				<img src="https://avatars.githubusercontent.com/u/7215014?s=72&u=4c52f257c7577295dfa8b5a2bd4a4b6592fb5961&v=4" width="24" alt="Avatar of anelda"> anelda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#anelda">Copy rank badge</a><br/>
 			Anelda van der Walt
 		</td>
 		<td>Talarify </td>
@@ -2969,7 +2971,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/jegbogu">
 				<img src="https://avatars.githubusercontent.com/u/63346497?s=72&u=402340c1e828024b55ce996e86b5bfe0e8b34474&v=4" width="24" alt="Avatar of jegbogu"> jegbogu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#jegbogu">Copy rank badge</a><br/>
 			Egbogu Chinedu Joseph
 		</td>
 		<td>Nathan Claire Africa </td>
@@ -2982,7 +2984,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/afrith">
 				<img src="https://avatars.githubusercontent.com/u/6260294?s=72&u=22500c7afe265c47e60db7127feea2bc2561c09a&v=4" width="24" alt="Avatar of afrith"> afrith
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#afrith">Copy rank badge</a><br/>
 			Adrian Frith
 		</td>
 		<td>@democraticalliance  </td>
@@ -2995,7 +2997,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/LungisaniMajozi">
 				<img src="https://avatars.githubusercontent.com/u/170618325?s=72&u=ad941b77c55c0fc8c9e5fa0a668871bf615f25bc&v=4" width="24" alt="Avatar of LungisaniMajozi"> LungisaniMajozi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#LungisaniMajozi">Copy rank badge</a><br/>
 			Lungisani Majozi
 		</td>
 		<td>No Company</td>
@@ -3008,7 +3010,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/NickChrisMeyer">
 				<img src="https://avatars.githubusercontent.com/u/101266733?s=72&v=4" width="24" alt="Avatar of NickChrisMeyer"> NickChrisMeyer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#NickChrisMeyer">Copy rank badge</a><br/>
 			Nicholas Christopher Meyer
 		</td>
 		<td>Varsity College </td>
@@ -3021,7 +3023,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/James-Burgess">
 				<img src="https://avatars.githubusercontent.com/u/18641066?s=72&u=3cc0246beb4e91eac49e2b277681fdf5c66cc3e4&v=4" width="24" alt="Avatar of James-Burgess"> James-Burgess
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#James-Burgess">Copy rank badge</a><br/>
 			James Burgess
 		</td>
 		<td>@cloud-intelligence  </td>
@@ -3034,7 +3036,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/KhosieDlomo">
 				<img src="https://avatars.githubusercontent.com/u/87178909?s=72&u=78fb2c53e9f738c48aeed20ad10bf05ff7e0cfd0&v=4" width="24" alt="Avatar of KhosieDlomo"> KhosieDlomo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#KhosieDlomo">Copy rank badge</a><br/>
 			Khosi Dlomo
 		</td>
 		<td>No Company</td>
@@ -3047,7 +3049,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/KabeloM13">
 				<img src="https://avatars.githubusercontent.com/u/227147147?s=72&u=13fe356cd2d3eaa9d7285095e6ba83d3ed871190&v=4" width="24" alt="Avatar of KabeloM13"> KabeloM13
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#KabeloM13">Copy rank badge</a><br/>
 			Kabelo M.
 		</td>
 		<td>Freelance Ux/ui & Front-end<br/>Developer<br/></td>
@@ -3060,7 +3062,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/SkillBeatsAll">
 				<img src="https://avatars.githubusercontent.com/u/6688388?s=72&u=e2fa84c47a9edcf7544e50aac0c12710793740bf&v=4" width="24" alt="Avatar of SkillBeatsAll"> SkillBeatsAll
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#SkillBeatsAll">Copy rank badge</a><br/>
 			Joel Cedras
 		</td>
 		<td>No Company</td>
@@ -3073,7 +3075,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/jpt13653903">
 				<img src="https://avatars.githubusercontent.com/u/41227383?s=72&u=315701f7c20b519a735eaf940081567d71b42bd4&v=4" width="24" alt="Avatar of jpt13653903"> jpt13653903
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#jpt13653903">Copy rank badge</a><br/>
 			John-Philip Taylor
 		</td>
 		<td>Reutech Radar Systems </td>
@@ -3086,7 +3088,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/axxter99">
 				<img src="https://avatars.githubusercontent.com/u/282395?s=72&v=4" width="24" alt="Avatar of axxter99"> axxter99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#axxter99">Copy rank badge</a><br/>
 			David Horwitz
 		</td>
 		<td>No Company</td>
@@ -3099,7 +3101,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/greywolve">
 				<img src="https://avatars.githubusercontent.com/u/1939511?s=72&u=51beeb41f496ddc5a8b62201cb4e05ea51b4a614&v=4" width="24" alt="Avatar of greywolve"> greywolve
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#greywolve">Copy rank badge</a><br/>
 			Oliver Powell
 		</td>
 		<td>No Company</td>
@@ -3112,7 +3114,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/fijal">
 				<img src="https://avatars.githubusercontent.com/u/85944?s=72&u=54cfc546ea4e435aeb56e78dd549276ec27173eb&v=4" width="24" alt="Avatar of fijal"> fijal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#fijal">Copy rank badge</a><br/>
 			Maciej Fijalkowski
 		</td>
 		<td>Pypy, Baroquesoftware </td>
@@ -3125,7 +3127,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MrPeterManda">
 				<img src="https://avatars.githubusercontent.com/u/48562656?s=72&u=5a24a6dabf3e5a022f828346d0943136eeca5fa4&v=4" width="24" alt="Avatar of MrPeterManda"> MrPeterManda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MrPeterManda">Copy rank badge</a><br/>
 			Peter Manda
 		</td>
 		<td>Levels Enterprises Pty Ltd<br/></td>
@@ -3138,7 +3140,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Psynosaur">
 				<img src="https://avatars.githubusercontent.com/u/26934113?s=72&u=673949c55bda89db4c6aaf4f0650c08d0d3c1966&v=4" width="24" alt="Avatar of Psynosaur"> Psynosaur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Psynosaur">Copy rank badge</a><br/>
 			Ohan Smit
 		</td>
 		<td>No Company</td>
@@ -3151,7 +3153,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/igitur">
 				<img src="https://avatars.githubusercontent.com/u/145854?s=72&u=c2006f0b1c6c8c8497339a80e72e529052ec3794&v=4" width="24" alt="Avatar of igitur"> igitur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#igitur">Copy rank badge</a><br/>
 			Francois Botha
 		</td>
 		<td>No Company</td>
@@ -3164,7 +3166,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/zkrige">
 				<img src="https://avatars.githubusercontent.com/u/968412?s=72&u=5224e65e8481642a0a9b19f985fdbeb4eb61c133&v=4" width="24" alt="Avatar of zkrige"> zkrige
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#zkrige">Copy rank badge</a><br/>
 			Zayin Krige
 		</td>
 		<td>Apex Technology </td>
@@ -3177,7 +3179,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/tiaanduplessis">
 				<img src="https://avatars.githubusercontent.com/u/18066992?s=72&u=48d3ed7f12e25dca0b2a23bab24d503bb08ebd32&v=4" width="24" alt="Avatar of tiaanduplessis"> tiaanduplessis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#tiaanduplessis">Copy rank badge</a><br/>
 			Tiaan
 		</td>
 		<td>No Company</td>
@@ -3190,7 +3192,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Anoonaa">
 				<img src="https://avatars.githubusercontent.com/u/122968120?s=72&u=e04e39693fc3ff4512d4786a28dc9d48a685677d&v=4" width="24" alt="Avatar of Anoonaa"> Anoonaa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Anoonaa">Copy rank badge</a><br/>
 			Anoona Sithole
 		</td>
 		<td>Anoona.io </td>
@@ -3203,7 +3205,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/dainemawer">
 				<img src="https://avatars.githubusercontent.com/u/48082535?s=72&v=4" width="24" alt="Avatar of dainemawer"> dainemawer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#dainemawer">Copy rank badge</a><br/>
 			Daine Mawer
 		</td>
 		<td>10up </td>
@@ -3216,7 +3218,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/schalkburger">
 				<img src="https://avatars.githubusercontent.com/u/1482046?s=72&u=592e22635aad7814ad948abe76ea691ac2fd4549&v=4" width="24" alt="Avatar of schalkburger"> schalkburger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#schalkburger">Copy rank badge</a><br/>
 			Schalk Burger
 		</td>
 		<td>Ovex </td>
@@ -3229,7 +3231,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/telmon95">
 				<img src="https://avatars.githubusercontent.com/u/104770094?s=72&u=dcf88a5e110d8235d9c0418c0e2de84b3b41ea16&v=4" width="24" alt="Avatar of telmon95"> telmon95
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#telmon95">Copy rank badge</a><br/>
 			Telmon Maluleka
 		</td>
 		<td>No Company</td>
@@ -3242,7 +3244,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/trentpark8800">
 				<img src="https://avatars.githubusercontent.com/u/47793696?s=72&u=53473aca208cb5b9ed2a1d9b7603672a01223118&v=4" width="24" alt="Avatar of trentpark8800"> trentpark8800
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#trentpark8800">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Data Engineering/science Freelancer </td>
@@ -3255,7 +3257,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/sphavix">
 				<img src="https://avatars.githubusercontent.com/u/103431152?s=72&u=aa12c8f9653769a52c49ffb48cfab498a0ecd1ce&v=4" width="24" alt="Avatar of sphavix"> sphavix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#sphavix">Copy rank badge</a><br/>
 			Siphamandla Zolakhe
 		</td>
 		<td>No Company</td>
@@ -3268,7 +3270,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/riazarbi">
 				<img src="https://avatars.githubusercontent.com/u/13433911?s=72&u=6324866f8b5dccf37990dfc935b37d4e54ec14bf&v=4" width="24" alt="Avatar of riazarbi"> riazarbi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#riazarbi">Copy rank badge</a><br/>
 			Riaz Arbi
 		</td>
 		<td>City Of Cape Town<br/></td>
@@ -3281,7 +3283,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/JamesLTaylor">
 				<img src="https://avatars.githubusercontent.com/u/10483325?s=72&v=4" width="24" alt="Avatar of JamesLTaylor"> JamesLTaylor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#JamesLTaylor">Copy rank badge</a><br/>
 			James Taylor
 		</td>
 		<td>No Company</td>
@@ -3294,7 +3296,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/amadibethel">
 				<img src="https://avatars.githubusercontent.com/u/195969871?s=72&u=0538228b0cc802d0b84dbf48159a3afdbbd90628&v=4" width="24" alt="Avatar of amadibethel"> amadibethel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#amadibethel">Copy rank badge</a><br/>
 			Engr. Bethel Amadi
 		</td>
 		<td>Klonix Technologies </td>
@@ -3307,7 +3309,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Miguel-Domingos">
 				<img src="https://avatars.githubusercontent.com/u/79005738?s=72&u=22d47874e5bfa6cd43e6c5c35a54fce16bd4c775&v=4" width="24" alt="Avatar of Miguel-Domingos"> Miguel-Domingos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Miguel-Domingos">Copy rank badge</a><br/>
 			Miguel Domingos
 		</td>
 		<td>No Company</td>
@@ -3320,7 +3322,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MalindiFrank">
 				<img src="https://avatars.githubusercontent.com/u/140599294?s=72&u=78369c13ea24960f55f137cfb07e0867c1fa9b69&v=4" width="24" alt="Avatar of MalindiFrank"> MalindiFrank
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MalindiFrank">Copy rank badge</a><br/>
 			Malindi Thembalakhe
 		</td>
 		<td>No Company</td>
@@ -3333,7 +3335,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/BayandasPlayGround">
 				<img src="https://avatars.githubusercontent.com/u/118121551?s=72&u=3e2d65f1c36c3fb3e15897c9d257ad216c168d49&v=4" width="24" alt="Avatar of BayandasPlayGround"> BayandasPlayGround
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#BayandasPlayGround">Copy rank badge</a><br/>
 			Bayanda Kutshwa
 		</td>
 		<td>No Company</td>
@@ -3346,7 +3348,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/BradleyKirton">
 				<img src="https://avatars.githubusercontent.com/u/6583221?s=72&u=a4b821a792069d41ded4d5201af76e689792cc55&v=4" width="24" alt="Avatar of BradleyKirton"> BradleyKirton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#BradleyKirton">Copy rank badge</a><br/>
 			Bradley Stuart Kirton
 		</td>
 		<td>No Company</td>
@@ -3359,7 +3361,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/JayWelsh">
 				<img src="https://avatars.githubusercontent.com/u/14224459?s=72&u=c63a6b73830eca475fcc58f9c2aa37b12eea458e&v=4" width="24" alt="Avatar of JayWelsh"> JayWelsh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#JayWelsh">Copy rank badge</a><br/>
 			Jay Welsh
 		</td>
 		<td>No Company</td>
@@ -3372,7 +3374,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/topollonaketsana">
 				<img src="https://avatars.githubusercontent.com/u/120329118?s=72&u=a257c7942b5ec01aa25074500bdee3f3e51654ba&v=4" width="24" alt="Avatar of topollonaketsana"> topollonaketsana
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#topollonaketsana">Copy rank badge</a><br/>
 			Topollo Naketsana
 		</td>
 		<td>Stellenbosch University </td>
@@ -3385,7 +3387,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/sjnarmstrong">
 				<img src="https://avatars.githubusercontent.com/u/46250125?s=72&u=bf93c12d1f3dc4e1d43eb6c1e43848d24a1d66e2&v=4" width="24" alt="Avatar of sjnarmstrong"> sjnarmstrong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#sjnarmstrong">Copy rank badge</a><br/>
 			Sholto Armstrong
 		</td>
 		<td>Capitec Bank </td>
@@ -3398,7 +3400,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Axulo-Inc">
 				<img src="https://avatars.githubusercontent.com/u/221667053?s=72&u=8bff952cd07c3d3764aaa45a34f680a4abc982eb&v=4" width="24" alt="Avatar of Axulo-Inc"> Axulo-Inc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Axulo-Inc">Copy rank badge</a><br/>
 			Axulo Technologies (Axulo Inc.)
 		</td>
 		<td>Axulo Technologies </td>
@@ -3411,7 +3413,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/simanga-dev">
 				<img src="https://avatars.githubusercontent.com/u/51496873?s=72&u=9b483e71ad5b0637b71399d4dc40624d26b6499a&v=4" width="24" alt="Avatar of simanga-dev"> simanga-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#simanga-dev">Copy rank badge</a><br/>
 			Simanga Khoza
 		</td>
 		<td>Thswane University Of Technology<br/></td>
@@ -3424,7 +3426,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/sw00">
 				<img src="https://avatars.githubusercontent.com/u/2427972?s=72&u=c9cce17c9dafe0b8e2ae3b1be519429cb07a6d78&v=4" width="24" alt="Avatar of sw00"> sw00
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#sw00">Copy rank badge</a><br/>
 			Sett
 		</td>
 		<td>No Company</td>
@@ -3437,7 +3439,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/KoketsoMangwale">
 				<img src="https://avatars.githubusercontent.com/u/111183926?s=72&u=0799cb697a280921382cd474c894eee595876595&v=4" width="24" alt="Avatar of KoketsoMangwale"> KoketsoMangwale
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#KoketsoMangwale">Copy rank badge</a><br/>
 			Koketso Mangwale
 		</td>
 		<td>No Company</td>
@@ -3450,7 +3452,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/SfisoNxumalo">
 				<img src="https://avatars.githubusercontent.com/u/75265642?s=72&u=6ef63c3143baca74e25f654e971d11898c57c59a&v=4" width="24" alt="Avatar of SfisoNxumalo"> SfisoNxumalo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#SfisoNxumalo">Copy rank badge</a><br/>
 			Sfiso Nxumalo
 		</td>
 		<td>No Company</td>
@@ -3463,7 +3465,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/jeanres">
 				<img src="https://avatars.githubusercontent.com/u/329498?s=72&u=c61d4bfd5c4a88cd22cae60c6deeaf7a3daf82b4&v=4" width="24" alt="Avatar of jeanres"> jeanres
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#jeanres">Copy rank badge</a><br/>
 			Jeanre Swanepoel
 		</td>
 		<td>No Company</td>
@@ -3476,7 +3478,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mvniekerk">
 				<img src="https://avatars.githubusercontent.com/u/1570687?s=72&v=4" width="24" alt="Avatar of mvniekerk"> mvniekerk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mvniekerk">Copy rank badge</a><br/>
 			Michael van Niekerk
 		</td>
 		<td>No Company</td>
@@ -3489,7 +3491,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mauriceLC92">
 				<img src="https://avatars.githubusercontent.com/u/29854288?s=72&u=aa9dab1a122a66833d2f5f1410b88deb7815e99e&v=4" width="24" alt="Avatar of mauriceLC92"> mauriceLC92
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mauriceLC92">Copy rank badge</a><br/>
 			Maurice Le Cordier
 		</td>
 		<td>Yellow Card Financial </td>
@@ -3502,7 +3504,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mutaremalcolm">
 				<img src="https://avatars.githubusercontent.com/u/135226305?s=72&u=c79ddc996df982b7af380dd1b6b3b14a5b2905fb&v=4" width="24" alt="Avatar of mutaremalcolm"> mutaremalcolm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mutaremalcolm">Copy rank badge</a><br/>
 			Malcolm Mutare
 		</td>
 		<td>No Company</td>
@@ -3515,7 +3517,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/sash-a">
 				<img src="https://avatars.githubusercontent.com/u/22861775?s=72&u=bce996bb50ba4805d0b28297abb7bf6c74347b65&v=4" width="24" alt="Avatar of sash-a"> sash-a
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#sash-a">Copy rank badge</a><br/>
 			Sasha Abramowitz
 		</td>
 		<td>Instadeep </td>
@@ -3528,7 +3530,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/kngako">
 				<img src="https://avatars.githubusercontent.com/u/6692413?s=72&u=f8b38b8d1b9e0c1cb674703be0b3b51b8abdf426&v=4" width="24" alt="Avatar of kngako"> kngako
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#kngako">Copy rank badge</a><br/>
 			Kgothatso
 		</td>
 		<td>No Company</td>
@@ -3541,7 +3543,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/veggiesaurus">
 				<img src="https://avatars.githubusercontent.com/u/592504?s=72&u=8919a982c5475d23cfec0ab2edc89ce8659eba0a&v=4" width="24" alt="Avatar of veggiesaurus"> veggiesaurus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#veggiesaurus">Copy rank badge</a><br/>
 			Angus Comrie
 		</td>
 		<td>@idia-astro, @deepalertai </td>
@@ -3554,7 +3556,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/SiyaMathe">
 				<img src="https://avatars.githubusercontent.com/u/101455139?s=72&u=682c6ecc49e8ece0bac60b16e12d85f410094b2e&v=4" width="24" alt="Avatar of SiyaMathe"> SiyaMathe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#SiyaMathe">Copy rank badge</a><br/>
 			Siyabulela Mathe
 		</td>
 		<td>No Company</td>
@@ -3567,7 +3569,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/timlind">
 				<img src="https://avatars.githubusercontent.com/u/237741?s=72&v=4" width="24" alt="Avatar of timlind"> timlind
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#timlind">Copy rank badge</a><br/>
 			Tim Lind
 		</td>
 		<td>Incremental Company </td>
@@ -3580,7 +3582,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/liambeeton">
 				<img src="https://avatars.githubusercontent.com/u/555716?s=72&u=7f34df314f6a8525616531fd8c3de5fe3954261a&v=4" width="24" alt="Avatar of liambeeton"> liambeeton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#liambeeton">Copy rank badge</a><br/>
 			Liam Beeton
 		</td>
 		<td>No Company</td>
@@ -3593,7 +3595,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/NyikoMnisii">
 				<img src="https://avatars.githubusercontent.com/u/94037118?s=72&u=de65e05ebd6e7072fd16f88e57ec8eb43cc6d49c&v=4" width="24" alt="Avatar of NyikoMnisii"> NyikoMnisii
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#NyikoMnisii">Copy rank badge</a><br/>
 			Nyiko Mnisi
 		</td>
 		<td>Pale Ai </td>
@@ -3606,7 +3608,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Kgotso-Koete">
 				<img src="https://avatars.githubusercontent.com/u/20281376?s=72&u=2507a369eb7fa250c45fec8e0bc8b315b87c198b&v=4" width="24" alt="Avatar of Kgotso-Koete"> Kgotso-Koete
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Kgotso-Koete">Copy rank badge</a><br/>
 			Kgotso Koete
 		</td>
 		<td>No Company</td>
@@ -3619,7 +3621,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/OlefileMamorare">
 				<img src="https://avatars.githubusercontent.com/u/115598807?s=72&u=426f805d8e4f56336539ba4aa69c60ff7301b6ce&v=4" width="24" alt="Avatar of OlefileMamorare"> OlefileMamorare
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#OlefileMamorare">Copy rank badge</a><br/>
 			Olefile Mamorare
 		</td>
 		<td>Sabio Africa </td>
@@ -3632,7 +3634,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/DenzelSE">
 				<img src="https://avatars.githubusercontent.com/u/125692067?s=72&u=c0ee2989b256a83ec0b57a9c11a5aceefa958c98&v=4" width="24" alt="Avatar of DenzelSE"> DenzelSE
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#DenzelSE">Copy rank badge</a><br/>
 			DenzelSE
 		</td>
 		<td>No Company</td>
@@ -3645,7 +3647,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Bluette1">
 				<img src="https://avatars.githubusercontent.com/u/16859034?s=72&u=9901c2b67bd29f52c23c4f5390a89f46a03a5fe1&v=4" width="24" alt="Avatar of Bluette1"> Bluette1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Bluette1">Copy rank badge</a><br/>
 			Marylene Sawyer
 		</td>
 		<td>Appwork </td>
@@ -3658,7 +3660,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/thingwala">
 				<img src="https://avatars.githubusercontent.com/u/116184727?s=72&u=b3f8c79d2089ea2b53c0c232df96ff6d0118c88e&v=4" width="24" alt="Avatar of thingwala"> thingwala
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#thingwala">Copy rank badge</a><br/>
 			Thingwala
 		</td>
 		<td>No Company</td>
@@ -3671,7 +3673,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/okmich">
 				<img src="https://avatars.githubusercontent.com/u/4775672?s=72&u=d2dd640bb0e0dea1eeea88da2350eedd128cd50e&v=4" width="24" alt="Avatar of okmich"> okmich
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#okmich">Copy rank badge</a><br/>
 			Michael E.
 		</td>
 		<td>Okmich </td>
@@ -3684,7 +3686,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/yummywakame">
 				<img src="https://avatars.githubusercontent.com/u/5927823?s=72&u=9f6a844e88a011fd0ba800b7c6852e91daba13be&v=4" width="24" alt="Avatar of yummywakame"> yummywakame
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#yummywakame">Copy rank badge</a><br/>
 			Olivia Meiring
 		</td>
 		<td>No Company</td>
@@ -3697,7 +3699,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/akserg">
 				<img src="https://avatars.githubusercontent.com/u/1400409?s=72&v=4" width="24" alt="Avatar of akserg"> akserg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#akserg">Copy rank badge</a><br/>
 			akserg
 		</td>
 		<td>Akkomtech </td>
@@ -3710,7 +3712,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Kgomotso196">
 				<img src="https://avatars.githubusercontent.com/u/74494438?s=72&u=37a23dad04c6047a156c8b9c4e5f26db4279cd97&v=4" width="24" alt="Avatar of Kgomotso196"> Kgomotso196
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Kgomotso196">Copy rank badge</a><br/>
 			Kgomotso (Troos) Nacane
 		</td>
 		<td>Microverse </td>
@@ -3723,7 +3725,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/kayjeee">
 				<img src="https://avatars.githubusercontent.com/u/9987251?s=72&u=4ba354df49de370f064c9434685cffa27f2fdc6d&v=4" width="24" alt="Avatar of kayjeee"> kayjeee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#kayjeee">Copy rank badge</a><br/>
 			kayjee
 		</td>
 		<td>@schoolheadoffice.co </td>
@@ -3736,7 +3738,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/rawdreeg">
 				<img src="https://avatars.githubusercontent.com/u/4209011?s=72&v=4" width="24" alt="Avatar of rawdreeg"> rawdreeg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#rawdreeg">Copy rank badge</a><br/>
 			Rodrigue
 		</td>
 		<td>No Company</td>
@@ -3749,7 +3751,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mitchtembo">
 				<img src="https://avatars.githubusercontent.com/u/42540252?s=72&u=a6175c640c1a1a3556f730bedbbbc2e9851ad8cb&v=4" width="24" alt="Avatar of mitchtembo"> mitchtembo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mitchtembo">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -3762,7 +3764,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Motjiang">
 				<img src="https://avatars.githubusercontent.com/u/114883452?s=72&u=8673ada59688c50d9392828642de06eccfe8475d&v=4" width="24" alt="Avatar of Motjiang"> Motjiang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Motjiang">Copy rank badge</a><br/>
 			Brilliant Nhlamolo 
 		</td>
 		<td>Nelson Mandela University </td>
@@ -3775,7 +3777,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ycparak">
 				<img src="https://avatars.githubusercontent.com/u/12952566?s=72&u=8395d69db33a68e1f24c1ef6968996318aa19071&v=4" width="24" alt="Avatar of ycparak"> ycparak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ycparak">Copy rank badge</a><br/>
 			Yusuf Parak
 		</td>
 		<td>No Company</td>
@@ -3788,7 +3790,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/oni1997">
 				<img src="https://avatars.githubusercontent.com/u/48757069?s=72&u=cf0b4a25a7fc8605d682a865e9b6b4f31c22d3d6&v=4" width="24" alt="Avatar of oni1997"> oni1997
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#oni1997">Copy rank badge</a><br/>
 			 Onesmus Dzidzai Maenzanise
 		</td>
 		<td>Aps Holiding </td>
@@ -3801,7 +3803,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/codesbydeen">
 				<img src="https://avatars.githubusercontent.com/u/91410767?s=72&u=90e766977414da7854d94cd7897e5dbcb0d094f7&v=4" width="24" alt="Avatar of codesbydeen"> codesbydeen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#codesbydeen">Copy rank badge</a><br/>
 			Deen
 		</td>
 		<td>No Company</td>
@@ -3814,7 +3816,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Sbonelo01">
 				<img src="https://avatars.githubusercontent.com/u/37469171?s=72&u=e1a97f57aa58aab853a01dd7d8b79c2d78a2cc0b&v=4" width="24" alt="Avatar of Sbonelo01"> Sbonelo01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Sbonelo01">Copy rank badge</a><br/>
 			Sbonelo
 		</td>
 		<td>404 </td>
@@ -3827,7 +3829,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/sepeth">
 				<img src="https://avatars.githubusercontent.com/u/100005?s=72&u=be7d56ae35ee25d900438443894bbc6dbe69c5fc&v=4" width="24" alt="Avatar of sepeth"> sepeth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#sepeth">Copy rank badge</a><br/>
 			Doğan Çeçen
 		</td>
 		<td>No Company</td>
@@ -3840,7 +3842,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/refilwe-m">
 				<img src="https://avatars.githubusercontent.com/u/39610552?s=72&u=cef774e9cb88dc98a2f24c10455354a7cffbce68&v=4" width="24" alt="Avatar of refilwe-m"> refilwe-m
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#refilwe-m">Copy rank badge</a><br/>
 			Refilwe M. Mashile
 		</td>
 		<td>@refilwe-tech  </td>
@@ -3853,7 +3855,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/TshepisoSabelo">
 				<img src="https://avatars.githubusercontent.com/u/139599731?s=72&u=67e5334698fc131a527be5b749872792c36834e1&v=4" width="24" alt="Avatar of TshepisoSabelo"> TshepisoSabelo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#TshepisoSabelo">Copy rank badge</a><br/>
 			Tshepiso Motshoene
 		</td>
 		<td>No Company</td>
@@ -3866,7 +3868,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/nlauchande">
 				<img src="https://avatars.githubusercontent.com/u/646979?s=72&u=b7289286726bebbb948e8be8779a12478e9807ea&v=4" width="24" alt="Avatar of nlauchande"> nlauchande
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#nlauchande">Copy rank badge</a><br/>
 			Natu Lauchande
 		</td>
 		<td>No Company</td>
@@ -3879,7 +3881,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Sliqric7053">
 				<img src="https://avatars.githubusercontent.com/u/7964516?s=72&u=2d7d3e9efa9962afd1db703a8fdba1d853083d5a&v=4" width="24" alt="Avatar of Sliqric7053"> Sliqric7053
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Sliqric7053">Copy rank badge</a><br/>
 			Richard Sithole
 		</td>
 		<td>Rural Labs </td>
@@ -3892,7 +3894,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/SizoDevelops">
 				<img src="https://avatars.githubusercontent.com/u/85371755?s=72&u=97358e76534230604ee868ce581ab21097d7bed4&v=4" width="24" alt="Avatar of SizoDevelops"> SizoDevelops
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#SizoDevelops">Copy rank badge</a><br/>
 			Sizo Develops
 		</td>
 		<td>No Company</td>
@@ -3905,7 +3907,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Patfarmurs">
 				<img src="https://avatars.githubusercontent.com/u/70089310?s=72&u=f85062274861e5001fb89bc553ff61831db7fc23&v=4" width="24" alt="Avatar of Patfarmurs"> Patfarmurs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Patfarmurs">Copy rank badge</a><br/>
 			Patrick Mukula
 		</td>
 		<td>Full-stack Developer </td>
@@ -3918,7 +3920,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ashleygrobler04">
 				<img src="https://avatars.githubusercontent.com/u/31541911?s=72&v=4" width="24" alt="Avatar of ashleygrobler04"> ashleygrobler04
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ashleygrobler04">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -3931,7 +3933,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/kurhula">
 				<img src="https://avatars.githubusercontent.com/u/10710047?s=72&u=c9c7448cc11c54e07da8e8fc20798e654107c314&v=4" width="24" alt="Avatar of kurhula"> kurhula
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#kurhula">Copy rank badge</a><br/>
 			Musa Baloyi
 		</td>
 		<td>Madyondza Consulting </td>
@@ -3944,7 +3946,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/apead">
 				<img src="https://avatars.githubusercontent.com/u/3928718?s=72&u=9eed0848b70769558a8560c31da9b82d8e5d5799&v=4" width="24" alt="Avatar of apead"> apead
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#apead">Copy rank badge</a><br/>
 			Allan Pead
 		</td>
 		<td>Ad Software Systems </td>
@@ -3957,7 +3959,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/simonbuerger">
 				<img src="https://avatars.githubusercontent.com/u/1869299?s=72&u=2b375c2ab855990f347a09bebf9d804d728c787a&v=4" width="24" alt="Avatar of simonbuerger"> simonbuerger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#simonbuerger">Copy rank badge</a><br/>
 			Simon Buerger
 		</td>
 		<td>No Company</td>
@@ -3970,7 +3972,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/itsayopapi">
 				<img src="https://avatars.githubusercontent.com/u/111683116?s=72&u=4b05623960a402317fcfd6ff091eec301d652fe7&v=4" width="24" alt="Avatar of itsayopapi"> itsayopapi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#itsayopapi">Copy rank badge</a><br/>
 			Papi
 		</td>
 		<td>Software Development  </td>
@@ -3983,7 +3985,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mmphego">
 				<img src="https://avatars.githubusercontent.com/u/7910856?s=72&u=34f977f5b9caa6e679fcd95dd2d4ece77f531a04&v=4" width="24" alt="Avatar of mmphego"> mmphego
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mmphego">Copy rank badge</a><br/>
 			Mpho Mphego
 		</td>
 		<td>No Company</td>
@@ -3996,7 +3998,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/OfentseLoeto">
 				<img src="https://avatars.githubusercontent.com/u/107747953?s=72&u=3d1ef886c899d1f40dbbd2cf9ce18f45741f66d5&v=4" width="24" alt="Avatar of OfentseLoeto"> OfentseLoeto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#OfentseLoeto">Copy rank badge</a><br/>
 			Ofentse Loeto
 		</td>
 		<td>No Company</td>
@@ -4009,7 +4011,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/bennahugo">
 				<img src="https://avatars.githubusercontent.com/u/7934586?s=72&u=72d8eb4d85168db6520b789b9715b8f6024acdd4&v=4" width="24" alt="Avatar of bennahugo"> bennahugo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#bennahugo">Copy rank badge</a><br/>
 			Benjamin Hugo
 		</td>
 		<td>South African Radio Astronomy<br/>Observatory<br/></td>
@@ -4022,7 +4024,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Cwengii">
 				<img src="https://avatars.githubusercontent.com/u/174229195?s=72&u=7059077f3a2f96fe82e18e2390fffd5060683682&v=4" width="24" alt="Avatar of Cwengii"> Cwengii
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Cwengii">Copy rank badge</a><br/>
 			Acwengile Morris
 		</td>
 		<td>No Company</td>
@@ -4035,7 +4037,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/DonnieTD">
 				<img src="https://avatars.githubusercontent.com/u/56354785?s=72&u=f453ff4e0e6b1485fb9da07fe9ee3685f423e0e1&v=4" width="24" alt="Avatar of DonnieTD"> DonnieTD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#DonnieTD">Copy rank badge</a><br/>
 			Donovan van der Linde
 		</td>
 		<td>Cto @ Weavacare </td>
@@ -4048,7 +4050,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Naledi-starr">
 				<img src="https://avatars.githubusercontent.com/u/132021395?s=72&u=0bd7782f68ab0b2d3266a8967f7ca930125be1ff&v=4" width="24" alt="Avatar of Naledi-starr"> Naledi-starr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Naledi-starr">Copy rank badge</a><br/>
 			Naledi M Motswiane
 		</td>
 		<td>No Company</td>
@@ -4061,7 +4063,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Gideon877">
 				<img src="https://avatars.githubusercontent.com/u/24386861?s=72&u=5765f1f8e123f9560525e4058ae79677e65560bf&v=4" width="24" alt="Avatar of Gideon877"> Gideon877
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Gideon877">Copy rank badge</a><br/>
 			Thabang Gideon
 		</td>
 		<td>@codex-academy  </td>
@@ -4074,7 +4076,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/samofoke">
 				<img src="https://avatars.githubusercontent.com/u/50703217?s=72&u=aec918926082dae14b605ea5bee7dea56ba07882&v=4" width="24" alt="Avatar of samofoke"> samofoke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#samofoke">Copy rank badge</a><br/>
 			Sabata Mofokeng
 		</td>
 		<td> Algoquantia </td>
@@ -4087,7 +4089,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/nwakauc">
 				<img src="https://avatars.githubusercontent.com/u/109084069?s=72&u=d0c0409b5af1391d65d408c627675dc64900bbf1&v=4" width="24" alt="Avatar of nwakauc"> nwakauc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#nwakauc">Copy rank badge</a><br/>
 			Uchechi Nwaka
 		</td>
 		<td>Psg </td>
@@ -4100,7 +4102,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/adudumayo">
 				<img src="https://avatars.githubusercontent.com/u/148616095?s=72&u=e67e6415a0d3d96edefe236bcf358705289530f4&v=4" width="24" alt="Avatar of adudumayo"> adudumayo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#adudumayo">Copy rank badge</a><br/>
 			Asimanye Dudumayo
 		</td>
 		<td>No Company</td>
@@ -4113,7 +4115,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/rorymckinley">
 				<img src="https://avatars.githubusercontent.com/u/65485?s=72&v=4" width="24" alt="Avatar of rorymckinley"> rorymckinley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#rorymckinley">Copy rank badge</a><br/>
 			Rory McKinley
 		</td>
 		<td>No Company</td>
@@ -4126,7 +4128,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Thiomark">
 				<img src="https://avatars.githubusercontent.com/u/60178286?s=72&u=303a0075318cde58241a9d350fb65e465bfc6765&v=4" width="24" alt="Avatar of Thiomark"> Thiomark
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Thiomark">Copy rank badge</a><br/>
 			Itumeleng
 		</td>
 		<td>Software Developer </td>
@@ -4139,7 +4141,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mrkiffie">
 				<img src="https://avatars.githubusercontent.com/u/2323810?s=72&v=4" width="24" alt="Avatar of mrkiffie"> mrkiffie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mrkiffie">Copy rank badge</a><br/>
 			Kiffie Liversage
 		</td>
 		<td>No Company</td>
@@ -4152,7 +4154,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/aZaamBie">
 				<img src="https://avatars.githubusercontent.com/u/53663013?s=72&u=306a98fe5dfd23b503b2e3661524674f614dc575&v=4" width="24" alt="Avatar of aZaamBie"> aZaamBie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#aZaamBie">Copy rank badge</a><br/>
 			aZamBie
 		</td>
 		<td>No Company</td>
@@ -4165,7 +4167,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/cypcodestudio">
 				<img src="https://avatars.githubusercontent.com/u/147054372?s=72&u=08eba14f28ef8bf406e8e4a735ab340054c76f8d&v=4" width="24" alt="Avatar of cypcodestudio"> cypcodestudio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#cypcodestudio">Copy rank badge</a><br/>
 			Cypcode
 		</td>
 		<td>@cypcodestudio </td>
@@ -4178,7 +4180,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/antonjan">
 				<img src="https://avatars.githubusercontent.com/u/2240283?s=72&u=a99e824773b6b70e80e0b3b400aba6e003636d55&v=4" width="24" alt="Avatar of antonjan"> antonjan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#antonjan">Copy rank badge</a><br/>
 			Anton
 		</td>
 		<td>Giga Technology </td>
@@ -4191,7 +4193,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Rites23">
 				<img src="https://avatars.githubusercontent.com/u/76614949?s=72&u=46f99bffda4db1b4e068ed24d1e3f5739168e57f&v=4" width="24" alt="Avatar of Rites23"> Rites23
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Rites23">Copy rank badge</a><br/>
 			Ritesh Balu
 		</td>
 		<td>No Company</td>
@@ -4204,7 +4206,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/vegtelenseg">
 				<img src="https://avatars.githubusercontent.com/u/16936547?s=72&u=2944cc5a62f2513bf60c99f6f3d6e9a2c41edf0d&v=4" width="24" alt="Avatar of vegtelenseg"> vegtelenseg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#vegtelenseg">Copy rank badge</a><br/>
 			Siya
 		</td>
 		<td>@lexisnexis </td>
@@ -4217,7 +4219,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/vianneyKB">
 				<img src="https://avatars.githubusercontent.com/u/36236520?s=72&u=ef6682a001c6c4ea57fe85d40050d5c7089ed646&v=4" width="24" alt="Avatar of vianneyKB"> vianneyKB
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#vianneyKB">Copy rank badge</a><br/>
 			Vianney Kondo Bongo
 		</td>
 		<td>Littlefish </td>
@@ -4230,7 +4232,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/joshuacalebdavids">
 				<img src="https://avatars.githubusercontent.com/u/61545813?s=72&u=60035726e449344dfe22e6d664a43212261d919c&v=4" width="24" alt="Avatar of joshuacalebdavids"> joshuacalebdavids
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#joshuacalebdavids">Copy rank badge</a><br/>
 			Joshua Caleb Davids
 		</td>
 		<td>@buildwithenovation </td>
@@ -4243,7 +4245,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/hitonnie">
 				<img src="https://avatars.githubusercontent.com/u/161940723?s=72&u=bb8dd6b4d188d89e90aa270bf389d8b861ce5bc8&v=4" width="24" alt="Avatar of hitonnie"> hitonnie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#hitonnie">Copy rank badge</a><br/>
 			Hanyani Tonny Makhubele
 		</td>
 		<td>No Company</td>
@@ -4256,7 +4258,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ludwigschwardt">
 				<img src="https://avatars.githubusercontent.com/u/392144?s=72&v=4" width="24" alt="Avatar of ludwigschwardt"> ludwigschwardt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ludwigschwardt">Copy rank badge</a><br/>
 			Ludwig Schwardt
 		</td>
 		<td>No Company</td>
@@ -4269,7 +4271,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MiroDojkic">
 				<img src="https://avatars.githubusercontent.com/u/9119913?s=72&u=103027acd784fda61ddb747187a7ea970ebe078d&v=4" width="24" alt="Avatar of MiroDojkic"> MiroDojkic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MiroDojkic">Copy rank badge</a><br/>
 			Miro
 		</td>
 		<td>@extensionengine </td>
@@ -4282,7 +4284,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/DidasMba">
 				<img src="https://avatars.githubusercontent.com/u/125478136?s=72&u=91b452aa64b8e1c01deef6cf737e21113cc3e446&v=4" width="24" alt="Avatar of DidasMba"> DidasMba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#DidasMba">Copy rank badge</a><br/>
 			Didas Mbarushimana daniel
 		</td>
 		<td> Andela </td>
@@ -4295,7 +4297,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/bretton">
 				<img src="https://avatars.githubusercontent.com/u/4481592?s=72&u=14bbcd14ad54f18f4365d0579f8fc1c8bc3697f7&v=4" width="24" alt="Avatar of bretton"> bretton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#bretton">Copy rank badge</a><br/>
 			bretton
 		</td>
 		<td>No Company</td>
@@ -4308,7 +4310,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/KhomotsoKekana">
 				<img src="https://avatars.githubusercontent.com/u/110098964?s=72&u=24e84687acded3c40da91054444b5c13e63c3e35&v=4" width="24" alt="Avatar of KhomotsoKekana"> KhomotsoKekana
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#KhomotsoKekana">Copy rank badge</a><br/>
 			Khomotso Jacob Kekana
 		</td>
 		<td>No Company</td>
@@ -4321,7 +4323,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/bazileros">
 				<img src="https://avatars.githubusercontent.com/u/125132613?s=72&u=09cda009b1882f9332a57910f153ad2ee9b03560&v=4" width="24" alt="Avatar of bazileros"> bazileros
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#bazileros">Copy rank badge</a><br/>
 			Zalisile Stuli
 		</td>
 		<td>Surestrat Consultants (pty) Ltd<br/></td>
@@ -4334,7 +4336,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/AsandahDevs">
 				<img src="https://avatars.githubusercontent.com/u/89397749?s=72&u=87b36372cb06bc738794129973b235a70fcfac70&v=4" width="24" alt="Avatar of AsandahDevs"> AsandahDevs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#AsandahDevs">Copy rank badge</a><br/>
 			Asanda Majola
 		</td>
 		<td>No Company</td>
@@ -4347,7 +4349,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/SakhileKhuzwayo222">
 				<img src="https://avatars.githubusercontent.com/u/131344992?s=72&u=e2d83e3ee11c79b46699154912364f3e45bbb8ce&v=4" width="24" alt="Avatar of SakhileKhuzwayo222"> SakhileKhuzwayo222
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#SakhileKhuzwayo222">Copy rank badge</a><br/>
 			Sakhile (Sakhumuzi) khuzwayo
 		</td>
 		<td>No Company</td>
@@ -4360,7 +4362,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/TarCode">
 				<img src="https://avatars.githubusercontent.com/u/11028860?s=72&u=4135b7b35571816e2217fbde6f2176282f2b32aa&v=4" width="24" alt="Avatar of TarCode"> TarCode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#TarCode">Copy rank badge</a><br/>
 			Taariq Isaacs
 		</td>
 		<td>No Company</td>
@@ -4373,7 +4375,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/isgiddy">
 				<img src="https://avatars.githubusercontent.com/u/30691939?s=72&u=b29d156f33184780ba8e4080d9b016f44e2d98c5&v=4" width="24" alt="Avatar of isgiddy"> isgiddy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#isgiddy">Copy rank badge</a><br/>
 			Isabelle Sindiswa Giddy
 		</td>
 		<td>No Company</td>
@@ -4386,7 +4388,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/andrewbakercloudscale">
 				<img src="https://avatars.githubusercontent.com/u/264703750?s=72&u=91d0a435fa6f81e9ddaea7804261b2e932ea0873&v=4" width="24" alt="Avatar of andrewbakercloudscale"> andrewbakercloudscale
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#andrewbakercloudscale">Copy rank badge</a><br/>
 			Andrew Baker
 		</td>
 		<td>Capitec </td>
@@ -4399,7 +4401,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Whitney-coded">
 				<img src="https://avatars.githubusercontent.com/u/198579718?s=72&u=857a4123e80c7a13203b5d719d7d5a955ffee3dd&v=4" width="24" alt="Avatar of Whitney-coded"> Whitney-coded
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Whitney-coded">Copy rank badge</a><br/>
 			Whitney Lejaka
 		</td>
 		<td>No Company</td>
@@ -4412,7 +4414,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/samwisecode">
 				<img src="https://avatars.githubusercontent.com/u/2327419?s=72&u=997c8a463683ac0f9e3dff3ecfa4c22fd4cab1ac&v=4" width="24" alt="Avatar of samwisecode"> samwisecode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#samwisecode">Copy rank badge</a><br/>
 			Sam Norris-Rogers
 		</td>
 		<td>Lank Dev </td>
@@ -4425,7 +4427,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/bats64mgutsi">
 				<img src="https://avatars.githubusercontent.com/u/22795741?s=72&u=f420926e24b3435b4883d75a1e20c3fe219842d5&v=4" width="24" alt="Avatar of bats64mgutsi"> bats64mgutsi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#bats64mgutsi">Copy rank badge</a><br/>
 			Batandwa Mgutsi
 		</td>
 		<td>No Company</td>
@@ -4438,7 +4440,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/saifeldeen-bio">
 				<img src="https://avatars.githubusercontent.com/u/75811385?s=72&u=c4f6e80272d8c5ab2f30c5c8a79ac21ba3e0938d&v=4" width="24" alt="Avatar of saifeldeen-bio"> saifeldeen-bio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#saifeldeen-bio">Copy rank badge</a><br/>
 			Saifeldeen Mohamed
 		</td>
 		<td>Neuroscience Institute, University Of<br/>Cape<br/>Town<br/></td>
@@ -4451,7 +4453,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/juancho088">
 				<img src="https://avatars.githubusercontent.com/u/2023311?s=72&v=4" width="24" alt="Avatar of juancho088"> juancho088
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#juancho088">Copy rank badge</a><br/>
 			Juan Urrego
 		</td>
 		<td>@qibdo  </td>
@@ -4464,7 +4466,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/krampus-nuggets">
 				<img src="https://avatars.githubusercontent.com/u/21266436?s=72&u=c22bfd1ce92bac435824077dbc9d270acb5ebddf&v=4" width="24" alt="Avatar of krampus-nuggets"> krampus-nuggets
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#krampus-nuggets">Copy rank badge</a><br/>
 			Brandon Williams
 		</td>
 		<td>@tripplo-software  </td>
@@ -4477,7 +4479,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/KatlegoMothoa">
 				<img src="https://avatars.githubusercontent.com/u/177452467?s=72&u=c19081bb1cb4bff9eff8d75005eee620a7167f77&v=4" width="24" alt="Avatar of KatlegoMothoa"> KatlegoMothoa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#KatlegoMothoa">Copy rank badge</a><br/>
 			KatKodes 
 		</td>
 		<td>Computer Science Student At<br/>Tshwane<br/>University<br/>Of<br/>Technology<br/></td>
@@ -4490,7 +4492,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/marktheunissen">
 				<img src="https://avatars.githubusercontent.com/u/453297?s=72&u=3a752180bea710af4ef79f0a39588411a7505f58&v=4" width="24" alt="Avatar of marktheunissen"> marktheunissen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#marktheunissen">Copy rank badge</a><br/>
 			Mark Theunissen
 		</td>
 		<td>Minio </td>
@@ -4503,7 +4505,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/GMoncrieff">
 				<img src="https://avatars.githubusercontent.com/u/8463334?s=72&u=4fcdbb2aaa91e8198e54285121de464cd5554721&v=4" width="24" alt="Avatar of GMoncrieff"> GMoncrieff
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#GMoncrieff">Copy rank badge</a><br/>
 			Glenn Moncrieff
 		</td>
 		<td>@thenatureconservanc </td>
@@ -4516,7 +4518,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/wernerhp">
 				<img src="https://avatars.githubusercontent.com/u/2578772?s=72&v=4" width="24" alt="Avatar of wernerhp"> wernerhp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#wernerhp">Copy rank badge</a><br/>
 			Werner Pieterson
 		</td>
 		<td>No Company</td>
@@ -4529,7 +4531,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/JohnRoux">
 				<img src="https://avatars.githubusercontent.com/u/4610241?s=72&u=c55ac6a83cafbb2d64f71cc5786ee9d1d03b2cb6&v=4" width="24" alt="Avatar of JohnRoux"> JohnRoux
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#JohnRoux">Copy rank badge</a><br/>
 			John Roux
 		</td>
 		<td>Rouxtaccess </td>
@@ -4542,7 +4544,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/AvinashSingh786">
 				<img src="https://avatars.githubusercontent.com/u/17118413?s=72&u=1ab693761041fad0bbe7439143ab9175653b19fc&v=4" width="24" alt="Avatar of AvinashSingh786"> AvinashSingh786
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#AvinashSingh786">Copy rank badge</a><br/>
 			Avinash Singh
 		</td>
 		<td>No Company</td>
@@ -4555,7 +4557,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/KieranHunt">
 				<img src="https://avatars.githubusercontent.com/u/4106917?s=72&v=4" width="24" alt="Avatar of KieranHunt"> KieranHunt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#KieranHunt">Copy rank badge</a><br/>
 			Kieran Hunt
 		</td>
 		<td>No Company</td>
@@ -4568,7 +4570,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/sibabalwe-qamata">
 				<img src="https://avatars.githubusercontent.com/u/20126197?s=72&v=4" width="24" alt="Avatar of sibabalwe-qamata"> sibabalwe-qamata
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#sibabalwe-qamata">Copy rank badge</a><br/>
 			Sibabalwe Qamata
 		</td>
 		<td>No Company</td>
@@ -4581,7 +4583,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/HSMathebula">
 				<img src="https://avatars.githubusercontent.com/u/56921581?s=72&u=1de96973345274895333680e912f7dd817669107&v=4" width="24" alt="Avatar of HSMathebula"> HSMathebula
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#HSMathebula">Copy rank badge</a><br/>
 			HS Mathebula
 		</td>
 		<td>Full-stack Developer </td>
@@ -4594,7 +4596,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/patrickm663">
 				<img src="https://avatars.githubusercontent.com/u/77886027?s=72&u=9bacef601d5595f7ce3b5ddc34397757d57f20ab&v=4" width="24" alt="Avatar of patrickm663"> patrickm663
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#patrickm663">Copy rank badge</a><br/>
 			Patrick Moehrke
 		</td>
 		<td>Momentum Corporate </td>
@@ -4607,7 +4609,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/luisdza">
 				<img src="https://avatars.githubusercontent.com/u/7270188?s=72&u=05257d3651cdbb7a15e47f138009a524862c2e10&v=4" width="24" alt="Avatar of luisdza"> luisdza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#luisdza">Copy rank badge</a><br/>
 			Luis de Sousa
 		</td>
 		<td>@syeop </td>
@@ -4620,7 +4622,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/clemsadand">
 				<img src="https://avatars.githubusercontent.com/u/132694770?s=72&u=6ec1cc36c796137c5c86dddfb3f9a0b8b58fd313&v=4" width="24" alt="Avatar of clemsadand"> clemsadand
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#clemsadand">Copy rank badge</a><br/>
 			Clément Adandé
 		</td>
 		<td>African Institute For Mathematical<br/>Sciences<br/>(aims)<br/></td>
@@ -4633,7 +4635,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/SbonisoZama">
 				<img src="https://avatars.githubusercontent.com/u/66653743?s=72&u=126effe877206039c751ba942bf2b3560b5a65bf&v=4" width="24" alt="Avatar of SbonisoZama"> SbonisoZama
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#SbonisoZama">Copy rank badge</a><br/>
 			Sboniso Zama
 		</td>
 		<td>No Company</td>
@@ -4646,7 +4648,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mkhmik004">
 				<img src="https://avatars.githubusercontent.com/u/137772011?s=72&u=75a2c7cdb6c60b6b090849bf3ab719a811d6ccd7&v=4" width="24" alt="Avatar of mkhmik004"> mkhmik004
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mkhmik004">Copy rank badge</a><br/>
 			Mkhabele Mikejunior Mark Mashaole
 		</td>
 		<td>No Company</td>
@@ -4659,7 +4661,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/steezyza">
 				<img src="https://avatars.githubusercontent.com/u/69159038?s=72&u=62fd511cc5ce7ccbc2ed255a321723cab1449073&v=4" width="24" alt="Avatar of steezyza"> steezyza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#steezyza">Copy rank badge</a><br/>
 			steezyza
 		</td>
 		<td>Atara Studios </td>
@@ -4672,7 +4674,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/themeticus">
 				<img src="https://avatars.githubusercontent.com/u/13768602?s=72&u=c6bcf674502448b37719fd228b0547e91adebeab&v=4" width="24" alt="Avatar of themeticus"> themeticus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#themeticus">Copy rank badge</a><br/>
 			Hugh Mosno
 		</td>
 		<td>No Company</td>
@@ -4685,7 +4687,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/morristech">
 				<img src="https://avatars.githubusercontent.com/u/619183?s=72&u=6fb5278f7f4db03d3c292f9e622b5aad947f5165&v=4" width="24" alt="Avatar of morristech"> morristech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#morristech">Copy rank badge</a><br/>
 			Wade
 		</td>
 		<td>@datawave Solutions </td>
@@ -4698,7 +4700,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/avermeulen">
 				<img src="https://avatars.githubusercontent.com/u/34037?s=72&u=e39c1a476424d5d64791711ff8bbc8509218e835&v=4" width="24" alt="Avatar of avermeulen"> avermeulen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#avermeulen">Copy rank badge</a><br/>
 			Andre Vermeulen
 		</td>
 		<td>Project Codex </td>
@@ -4711,7 +4713,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/agabrie">
 				<img src="https://avatars.githubusercontent.com/u/38133679?s=72&v=4" width="24" alt="Avatar of agabrie"> agabrie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#agabrie">Copy rank badge</a><br/>
 			Abduraghmaan Gabriels
 		</td>
 		<td>Lexisnexis </td>
@@ -4724,7 +4726,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/schalkventer">
 				<img src="https://avatars.githubusercontent.com/u/14258328?s=72&u=9a00a298ffd0b5d7737363ee5e2ae5277e6133d2&v=4" width="24" alt="Avatar of schalkventer"> schalkventer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#schalkventer">Copy rank badge</a><br/>
 			Schalk Venter
 		</td>
 		<td>Co-founder At @fedsa </td>
@@ -4737,7 +4739,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MargaretThomas">
 				<img src="https://avatars.githubusercontent.com/u/20098473?s=72&u=e176a1e85248dc71fab3ea02d9390176073b6f93&v=4" width="24" alt="Avatar of MargaretThomas"> MargaretThomas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MargaretThomas">Copy rank badge</a><br/>
 			Margaret Thomas
 		</td>
 		<td>No Company</td>
@@ -4750,7 +4752,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Siyabonga-Gregory">
 				<img src="https://avatars.githubusercontent.com/u/19228713?s=72&u=316b69f55c4425c85a0ef2d83c9118ec6dd393d0&v=4" width="24" alt="Avatar of Siyabonga-Gregory"> Siyabonga-Gregory
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Siyabonga-Gregory">Copy rank badge</a><br/>
 			Siyabonga Gregory
 		</td>
 		<td>Picra Systems </td>
@@ -4763,7 +4765,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/lukevanlukevan">
 				<img src="https://avatars.githubusercontent.com/u/115544067?s=72&u=c14ef93e80ebb4da8b0cd008b914b056d9be12b7&v=4" width="24" alt="Avatar of lukevanlukevan"> lukevanlukevan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#lukevanlukevan">Copy rank badge</a><br/>
 			Luke Van
 		</td>
 		<td>No Company</td>
@@ -4776,7 +4778,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/markwhitfeld">
 				<img src="https://avatars.githubusercontent.com/u/1948265?s=72&v=4" width="24" alt="Avatar of markwhitfeld"> markwhitfeld
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#markwhitfeld">Copy rank badge</a><br/>
 			Mark Whitfeld
 		</td>
 		<td>No Company</td>
@@ -4789,7 +4791,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/hypn">
 				<img src="https://avatars.githubusercontent.com/u/146244?s=72&u=8589c236f70a686a9d012cdb93246a520d00478b&v=4" width="24" alt="Avatar of hypn"> hypn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#hypn">Copy rank badge</a><br/>
 			Ross
 		</td>
 		<td>K-rad Web Technologies </td>
@@ -4802,7 +4804,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/eXigentCoder">
 				<img src="https://avatars.githubusercontent.com/u/8137674?s=72&u=17dbb4f70e37d41358585cd34f2f3b4799560842&v=4" width="24" alt="Avatar of eXigentCoder"> eXigentCoder
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#eXigentCoder">Copy rank badge</a><br/>
 			Ryan Kotzen
 		</td>
 		<td>@synatic  </td>
@@ -4815,7 +4817,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/thabomosenthal">
 				<img src="https://avatars.githubusercontent.com/u/6329049?s=72&u=a0ab2058849cbddea349efa7cfcaa33c34bf360d&v=4" width="24" alt="Avatar of thabomosenthal"> thabomosenthal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#thabomosenthal">Copy rank badge</a><br/>
 			Thabo Mosenthal
 		</td>
 		<td>@cassiumsolutions </td>
@@ -4828,7 +4830,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Scott12565">
 				<img src="https://avatars.githubusercontent.com/u/115543498?s=72&v=4" width="24" alt="Avatar of Scott12565"> Scott12565
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Scott12565">Copy rank badge</a><br/>
 			Nkosinathi Silinda (Scott)
 		</td>
 		<td>No Company</td>
@@ -4841,7 +4843,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/heis-sn3">
 				<img src="https://avatars.githubusercontent.com/u/108768413?s=72&u=6e90a4a75151908102b579e64c8102a1bb8e84fa&v=4" width="24" alt="Avatar of heis-sn3"> heis-sn3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#heis-sn3">Copy rank badge</a><br/>
 			sinenhlanhla ntombela
 		</td>
 		<td>No Company</td>
@@ -4854,7 +4856,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/XavierJ96">
 				<img src="https://avatars.githubusercontent.com/u/78542365?s=72&u=3125f133afd74178de30f53c9b63948d45641893&v=4" width="24" alt="Avatar of XavierJ96"> XavierJ96
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#XavierJ96">Copy rank badge</a><br/>
 			Xavier Julies
 		</td>
 		<td>No Company</td>
@@ -4867,7 +4869,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/assertchris">
 				<img src="https://avatars.githubusercontent.com/u/200609?s=72&u=6208a2e2fc2cd3db2bb6231e2d5533ec8d0987e5&v=4" width="24" alt="Avatar of assertchris"> assertchris
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#assertchris">Copy rank badge</a><br/>
 			Christopher Pitt
 		</td>
 		<td>Ringier </td>
@@ -4880,7 +4882,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/aodendaal">
 				<img src="https://avatars.githubusercontent.com/u/898441?s=72&u=3a1225d841f7e01c4316c3bb946a8ff142e40cfb&v=4" width="24" alt="Avatar of aodendaal"> aodendaal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#aodendaal">Copy rank badge</a><br/>
 			Andre Odendaal
 		</td>
 		<td>No Company</td>
@@ -4893,7 +4895,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Manuel-Sphe">
 				<img src="https://avatars.githubusercontent.com/u/49991613?s=72&u=02064417b2af4ad039e8c6a65585e65f8dd9379f&v=4" width="24" alt="Avatar of Manuel-Sphe"> Manuel-Sphe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Manuel-Sphe">Copy rank badge</a><br/>
 			Sphesihle Madonsela
 		</td>
 		<td>@impact.com </td>
@@ -4906,7 +4908,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/dadecoza">
 				<img src="https://avatars.githubusercontent.com/u/2756871?s=72&v=4" width="24" alt="Avatar of dadecoza"> dadecoza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#dadecoza">Copy rank badge</a><br/>
 			Johannes le Roux
 		</td>
 		<td>No Company</td>
@@ -4919,7 +4921,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/FreakyJay1">
 				<img src="https://avatars.githubusercontent.com/u/104420971?s=72&u=5f24be62035a00937a68e83fc0f3315459883329&v=4" width="24" alt="Avatar of FreakyJay1"> FreakyJay1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#FreakyJay1">Copy rank badge</a><br/>
 			Jason Arnold
 		</td>
 		<td>Wethinkcode_ </td>
@@ -4932,7 +4934,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/hothman">
 				<img src="https://avatars.githubusercontent.com/u/8320261?s=72&u=9fae1ad6735879e4a7607f05d1148f605c2577c0&v=4" width="24" alt="Avatar of hothman"> hothman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#hothman">Copy rank badge</a><br/>
 			Houcemeddine Othman
 		</td>
 		<td>Wits University </td>
@@ -4945,7 +4947,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/LiyandasGitH">
 				<img src="https://avatars.githubusercontent.com/u/214903825?s=72&u=dfc63c6969d61ff2cdd693d0c6d3be6a271b8ee7&v=4" width="24" alt="Avatar of LiyandasGitH"> LiyandasGitH
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#LiyandasGitH">Copy rank badge</a><br/>
 			liyanda
 		</td>
 		<td>No Company</td>
@@ -4958,7 +4960,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/rolfwessels">
 				<img src="https://avatars.githubusercontent.com/u/643179?s=72&v=4" width="24" alt="Avatar of rolfwessels"> rolfwessels
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#rolfwessels">Copy rank badge</a><br/>
 			Rolf Wessels
 		</td>
 		<td>No Company</td>
@@ -4971,7 +4973,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/garyvdm">
 				<img src="https://avatars.githubusercontent.com/u/352175?s=72&v=4" width="24" alt="Avatar of garyvdm"> garyvdm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#garyvdm">Copy rank badge</a><br/>
 			Gary van der Merwe
 		</td>
 		<td>No Company</td>
@@ -4984,7 +4986,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/christiangubana">
 				<img src="https://avatars.githubusercontent.com/u/101836990?s=72&u=66a99b37120ee73fab25996be41f2d9607e5580f&v=4" width="24" alt="Avatar of christiangubana"> christiangubana
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#christiangubana">Copy rank badge</a><br/>
 			christiangubana
 		</td>
 		<td>Uct/com-science </td>
@@ -4997,7 +4999,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/timkeller">
 				<img src="https://avatars.githubusercontent.com/u/4269?s=72&u=116286d85a3bc4edd83a5e95cf373b0de1740c37&v=4" width="24" alt="Avatar of timkeller"> timkeller
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#timkeller">Copy rank badge</a><br/>
 			Tim Keller
 		</td>
 		<td>Sunrise Productions </td>
@@ -5010,7 +5012,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/jerith">
 				<img src="https://avatars.githubusercontent.com/u/43731?s=72&u=bfb0b9a61ad650de01397b4d3800673e0d08e4b4&v=4" width="24" alt="Avatar of jerith"> jerith
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#jerith">Copy rank badge</a><br/>
 			Jeremy Thurgood
 		</td>
 		<td>No Company</td>
@@ -5023,7 +5025,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/stephenlake">
 				<img src="https://avatars.githubusercontent.com/u/1300442?s=72&u=848e45d081c763dbfd62031fc0264d4c1d0387d0&v=4" width="24" alt="Avatar of stephenlake"> stephenlake
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#stephenlake">Copy rank badge</a><br/>
 			Stephen Lake
 		</td>
 		<td>No Company</td>
@@ -5036,7 +5038,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/homeautomatorza">
 				<img src="https://avatars.githubusercontent.com/u/156931173?s=72&u=18798dd3913424987d875b3d7ed065efe7c7640a&v=4" width="24" alt="Avatar of homeautomatorza"> homeautomatorza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#homeautomatorza">Copy rank badge</a><br/>
 			Home Automator ZA
 		</td>
 		<td>No Company</td>
@@ -5049,7 +5051,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/louis-smit">
 				<img src="https://avatars.githubusercontent.com/u/4406160?s=72&u=a196c22caf945993540175db5f751849f955062b&v=4" width="24" alt="Avatar of louis-smit"> louis-smit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#louis-smit">Copy rank badge</a><br/>
 			Louis Smit
 		</td>
 		<td>No Company</td>
@@ -5062,7 +5064,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/DenoRautenbach">
 				<img src="https://avatars.githubusercontent.com/u/95660703?s=72&u=c5a4f3c7ebef85e70eb1047ef4eba2b20ffb13fe&v=4" width="24" alt="Avatar of DenoRautenbach"> DenoRautenbach
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#DenoRautenbach">Copy rank badge</a><br/>
 			Deno Rautenbach
 		</td>
 		<td>Databalk </td>
@@ -5075,7 +5077,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/tyhieshajohnson">
 				<img src="https://avatars.githubusercontent.com/u/140961082?s=72&u=a7db9d346174ecbc971e7066fd9cfe9fd7c59c2e&v=4" width="24" alt="Avatar of tyhieshajohnson"> tyhieshajohnson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#tyhieshajohnson">Copy rank badge</a><br/>
 			Tyhiesha Johnson
 		</td>
 		<td>Vyntra </td>
@@ -5088,7 +5090,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/h3nryza">
 				<img src="https://avatars.githubusercontent.com/u/20166417?s=72&u=f7226ccf4d9c62593f0cee099b54a02be121d808&v=4" width="24" alt="Avatar of h3nryza"> h3nryza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#h3nryza">Copy rank badge</a><br/>
 			H3nryza
 		</td>
 		<td>No Company</td>
@@ -5101,7 +5103,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/kolawoletech">
 				<img src="https://avatars.githubusercontent.com/u/4382405?s=72&u=e156f6539f6e6175c4fd599c7c092c3c791798fd&v=4" width="24" alt="Avatar of kolawoletech"> kolawoletech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#kolawoletech">Copy rank badge</a><br/>
 			Olulana Kolawole
 		</td>
 		<td>No Company</td>
@@ -5114,7 +5116,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/noturlee">
 				<img src="https://avatars.githubusercontent.com/u/100778149?s=72&u=a89d7558c6f06de39a11b7595deb858715b01ae0&v=4" width="24" alt="Avatar of noturlee"> noturlee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#noturlee">Copy rank badge</a><br/>
 			Leighché Jaikarran
 		</td>
 		<td>Amazon South Africa </td>
@@ -5127,7 +5129,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/TheRealMasterK">
 				<img src="https://avatars.githubusercontent.com/u/85064930?s=72&u=156310af9bc9e06b700139e881dfc58c4896bbae&v=4" width="24" alt="Avatar of TheRealMasterK"> TheRealMasterK
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#TheRealMasterK">Copy rank badge</a><br/>
 			Master K
 		</td>
 		<td>Web3 Dao </td>
@@ -5140,7 +5142,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/alekcz">
 				<img src="https://avatars.githubusercontent.com/u/11717556?s=72&u=822929ea4d621410db0fc321d3592569e48e3a08&v=4" width="24" alt="Avatar of alekcz"> alekcz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#alekcz">Copy rank badge</a><br/>
 			Alexander Oloo
 		</td>
 		<td>Stub.africa </td>
@@ -5153,7 +5155,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mahlwanismangaliso67-art">
 				<img src="https://avatars.githubusercontent.com/u/261332674?s=72&u=12ae7dba072f020369e4dd4fbc0258fa7119f2b8&v=4" width="24" alt="Avatar of mahlwanismangaliso67-art"> mahlwanismangaliso67-art
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mahlwanismangaliso67-art">Copy rank badge</a><br/>
 			Smangaliso Mahlwani
 		</td>
 		<td>Unemployed  </td>
@@ -5166,7 +5168,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/kimvanwyk">
 				<img src="https://avatars.githubusercontent.com/u/304738?s=72&u=3b9fd52fac7f05830473d484713873830319eca2&v=4" width="24" alt="Avatar of kimvanwyk"> kimvanwyk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#kimvanwyk">Copy rank badge</a><br/>
 			Kim van Wyk
 		</td>
 		<td>No Company</td>
@@ -5179,7 +5181,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Asensio0227">
 				<img src="https://avatars.githubusercontent.com/u/83821620?s=72&u=a38f11d9729ab71ac1f01d9b802adf0c29e556f3&v=4" width="24" alt="Avatar of Asensio0227"> Asensio0227
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Asensio0227">Copy rank badge</a><br/>
 			Brendon Banda
 		</td>
 		<td>No Company</td>
@@ -5192,7 +5194,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/vvvvvvizard">
 				<img src="https://avatars.githubusercontent.com/u/11029513?s=72&u=f0dac69c14755d9bf7ba03f14b78fed67261f848&v=4" width="24" alt="Avatar of vvvvvvizard"> vvvvvvizard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#vvvvvvizard">Copy rank badge</a><br/>
 			Yusuf Rawat
 		</td>
 		<td>No Company</td>
@@ -5205,7 +5207,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/leppie">
 				<img src="https://avatars.githubusercontent.com/u/127666?s=72&v=4" width="24" alt="Avatar of leppie"> leppie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#leppie">Copy rank badge</a><br/>
 			Llewellyn Pritchard
 		</td>
 		<td>No Company</td>
@@ -5218,7 +5220,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Axolem">
 				<img src="https://avatars.githubusercontent.com/u/82832027?s=72&u=78bbb7d1cd1d51d7a37af94674512b02961061a9&v=4" width="24" alt="Avatar of Axolem"> Axolem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Axolem">Copy rank badge</a><br/>
 			Axole Maranjana
 		</td>
 		<td>No Company</td>
@@ -5231,7 +5233,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Leon-Africa">
 				<img src="https://avatars.githubusercontent.com/u/16097992?s=72&u=297a8e423fce059ddc186586df5a86c5400282e0&v=4" width="24" alt="Avatar of Leon-Africa"> Leon-Africa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Leon-Africa">Copy rank badge</a><br/>
 			Leon Africa
 		</td>
 		<td>@gonameless </td>
@@ -5244,7 +5246,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/jaconza">
 				<img src="https://avatars.githubusercontent.com/u/1098745?s=72&u=a5efbc7d2db75a95b4b84a6427c036cd83479e9a&v=4" width="24" alt="Avatar of jaconza"> jaconza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#jaconza">Copy rank badge</a><br/>
 			Jaco Nel
 		</td>
 		<td>Salus Cloud </td>
@@ -5257,7 +5259,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ShawenHarker">
 				<img src="https://avatars.githubusercontent.com/u/68463618?s=72&u=c51fe87e0c31604504239e9850cc55ea71064350&v=4" width="24" alt="Avatar of ShawenHarker"> ShawenHarker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ShawenHarker">Copy rank badge</a><br/>
 			Shawen Harker
 		</td>
 		<td>No Company</td>
@@ -5270,7 +5272,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/NexGenEmb">
 				<img src="https://avatars.githubusercontent.com/u/175104879?s=72&u=bfdbfae47d82231edf5f7d56aeae5168e6f706c2&v=4" width="24" alt="Avatar of NexGenEmb"> NexGenEmb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#NexGenEmb">Copy rank badge</a><br/>
 			Koketso Gerald Moeti
 		</td>
 		<td>No Company</td>
@@ -5283,7 +5285,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/AyorindeTayo">
 				<img src="https://avatars.githubusercontent.com/u/51823754?s=72&u=fe3da2232954163a0f8dc49e26caf7695a8b0e12&v=4" width="24" alt="Avatar of AyorindeTayo"> AyorindeTayo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#AyorindeTayo">Copy rank badge</a><br/>
 			Ayorinde Olanipekun, PhD
 		</td>
 		<td>Codedatawithayo </td>
@@ -5296,7 +5298,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/wizaj">
 				<img src="https://avatars.githubusercontent.com/u/9387487?s=72&u=7b4e320cb798a0dc4b3ab4eb9868708257df44e9&v=4" width="24" alt="Avatar of wizaj"> wizaj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#wizaj">Copy rank badge</a><br/>
 			Wiza Jalakasi
 		</td>
 		<td>No Company</td>
@@ -5309,7 +5311,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Cbazil">
 				<img src="https://avatars.githubusercontent.com/u/36533527?s=72&u=7169b8ec8cf21e6bc940b8398639165daae4d872&v=4" width="24" alt="Avatar of Cbazil"> Cbazil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Cbazil">Copy rank badge</a><br/>
 			Chad Bazil Bosch
 		</td>
 		<td>No Company</td>
@@ -5322,7 +5324,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Mpilo-Pillz">
 				<img src="https://avatars.githubusercontent.com/u/37321788?s=72&u=d8933260da2babb7e3bd30352cd6a0822fcaa983&v=4" width="24" alt="Avatar of Mpilo-Pillz"> Mpilo-Pillz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Mpilo-Pillz">Copy rank badge</a><br/>
 			Mpilo Dlamini
 		</td>
 		<td>Watermelon Development </td>
@@ -5335,7 +5337,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Mzacoding">
 				<img src="https://avatars.githubusercontent.com/u/134933325?s=72&u=3c5f586a87618451c4840cbca5f57ddd412ccb7b&v=4" width="24" alt="Avatar of Mzacoding"> Mzacoding
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Mzacoding">Copy rank badge</a><br/>
 			Nyiko Mkansi
 		</td>
 		<td>Wil Intern (rain Cloud<br/>Group)<br/><br/></td>
@@ -5348,7 +5350,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/HicoMcD">
 				<img src="https://avatars.githubusercontent.com/u/70553434?s=72&u=daecb4e780c656c1f1af26979ddeb5fda1bd988a&v=4" width="24" alt="Avatar of HicoMcD"> HicoMcD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#HicoMcD">Copy rank badge</a><br/>
 			Hico
 		</td>
 		<td>No Company</td>
@@ -5361,7 +5363,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/LebohangMashinini">
 				<img src="https://avatars.githubusercontent.com/u/179400848?s=72&u=2f9ab15c2926af2d7f933a38f07835484d82307b&v=4" width="24" alt="Avatar of LebohangMashinini"> LebohangMashinini
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#LebohangMashinini">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5374,7 +5376,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/jacques">
 				<img src="https://avatars.githubusercontent.com/u/2543?s=72&v=4" width="24" alt="Avatar of jacques"> jacques
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#jacques">Copy rank badge</a><br/>
 			Jacques Marneweck
 		</td>
 		<td>@siberia </td>
@@ -5387,7 +5389,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mpendulo-dev">
 				<img src="https://avatars.githubusercontent.com/u/79789895?s=72&u=589a9259a32fd78ab67e3c3f211d92b06b6a7785&v=4" width="24" alt="Avatar of mpendulo-dev"> mpendulo-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mpendulo-dev">Copy rank badge</a><br/>
 			Mpendulo Sibiya
 		</td>
 		<td>Accenture Song </td>
@@ -5400,7 +5402,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/OliverRC">
 				<img src="https://avatars.githubusercontent.com/u/1888486?s=72&u=4a73442612aebe7a934c5c16f0f73a24e203e410&v=4" width="24" alt="Avatar of OliverRC"> OliverRC
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#OliverRC">Copy rank badge</a><br/>
 			Oliver
 		</td>
 		<td>@wootware  </td>
@@ -5413,7 +5415,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/jonmcalder">
 				<img src="https://avatars.githubusercontent.com/u/5055818?s=72&u=ec07bf9fcb4205d0a564b814b07847c4811ff78d&v=4" width="24" alt="Avatar of jonmcalder"> jonmcalder
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#jonmcalder">Copy rank badge</a><br/>
 			Jon Calder
 		</td>
 		<td>Libryo </td>
@@ -5426,7 +5428,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/drzoidberg33">
 				<img src="https://avatars.githubusercontent.com/u/1313205?s=72&v=4" width="24" alt="Avatar of drzoidberg33"> drzoidberg33
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#drzoidberg33">Copy rank badge</a><br/>
 			Tim Van
 		</td>
 		<td>No Company</td>
@@ -5439,7 +5441,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/harry34704">
 				<img src="https://avatars.githubusercontent.com/u/72135875?s=72&u=ef3aa8d1e6576cfc0663a4c21e86ca63c8f7aede&v=4" width="24" alt="Avatar of harry34704"> harry34704
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#harry34704">Copy rank badge</a><br/>
 			Harry Munyai
 		</td>
 		<td>Rentoza </td>
@@ -5452,7 +5454,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/wernsey">
 				<img src="https://avatars.githubusercontent.com/u/4777926?s=72&u=1466a562159c2ff0a9b60772dce401a96abb92b4&v=4" width="24" alt="Avatar of wernsey"> wernsey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#wernsey">Copy rank badge</a><br/>
 			Werner Stoop
 		</td>
 		<td>No Company</td>
@@ -5465,7 +5467,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Tooblippe">
 				<img src="https://avatars.githubusercontent.com/u/805313?s=72&v=4" width="24" alt="Avatar of Tooblippe"> Tooblippe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Tooblippe">Copy rank badge</a><br/>
 			Tobie
 		</td>
 		<td>No Company</td>
@@ -5478,7 +5480,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Nkosinathi-dev1">
 				<img src="https://avatars.githubusercontent.com/u/69791210?s=72&u=2b506cf0d7117a53d15083daec2aa67376583565&v=4" width="24" alt="Avatar of Nkosinathi-dev1"> Nkosinathi-dev1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Nkosinathi-dev1">Copy rank badge</a><br/>
 			Nkosinathi Ngele
 		</td>
 		<td>No Company</td>
@@ -5491,7 +5493,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/clintsayshi">
 				<img src="https://avatars.githubusercontent.com/u/14341181?s=72&u=e56dec7f96bf6fca08d56aae7a2b93772194bc34&v=4" width="24" alt="Avatar of clintsayshi"> clintsayshi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#clintsayshi">Copy rank badge</a><br/>
 			Clinton Manakane
 		</td>
 		<td>Tomorrowly </td>
@@ -5504,7 +5506,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Linf0rd">
 				<img src="https://avatars.githubusercontent.com/u/122806756?s=72&u=ef4b3a8a80bb57f01763bdeb8e5ca9c22b0df604&v=4" width="24" alt="Avatar of Linf0rd"> Linf0rd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Linf0rd">Copy rank badge</a><br/>
 			𝕷𝖎𝖓𝖋𝖔𝖗𝖉 💾
 		</td>
 		<td>No Company</td>
@@ -5517,7 +5519,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/bjnortier">
 				<img src="https://avatars.githubusercontent.com/u/57994?s=72&u=66f77f26fda97f515a1bb9d23ff36afcc33d46df&v=4" width="24" alt="Avatar of bjnortier"> bjnortier
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#bjnortier">Copy rank badge</a><br/>
 			Ben Nortier
 		</td>
 		<td>No Company</td>
@@ -5530,7 +5532,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/woganmay">
 				<img src="https://avatars.githubusercontent.com/u/225550?s=72&u=a7ef4937efccd64a31cf27d8a02fc24f9d4af545&v=4" width="24" alt="Avatar of woganmay"> woganmay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#woganmay">Copy rank badge</a><br/>
 			Wogan May
 		</td>
 		<td>No Company</td>
@@ -5543,7 +5545,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/jonathanj">
 				<img src="https://avatars.githubusercontent.com/u/112166?s=72&u=bf38349cda34890df8f8e19d7fd2d879d58006c4&v=4" width="24" alt="Avatar of jonathanj"> jonathanj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#jonathanj">Copy rank badge</a><br/>
 			Jonathan Jacobs
 		</td>
 		<td>No Company</td>
@@ -5556,7 +5558,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/scriptjumper">
 				<img src="https://avatars.githubusercontent.com/u/25608161?s=72&u=f762038d21daf0438a775307b553c646a0ad4d46&v=4" width="24" alt="Avatar of scriptjumper"> scriptjumper
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#scriptjumper">Copy rank badge</a><br/>
 			Shaeen Singh
 		</td>
 		<td>No Company</td>
@@ -5569,7 +5571,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/garrensmith">
 				<img src="https://avatars.githubusercontent.com/u/179458?s=72&u=42928604e490bf9978e9a57982222def552c67d8&v=4" width="24" alt="Avatar of garrensmith"> garrensmith
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#garrensmith">Copy rank badge</a><br/>
 			Garren
 		</td>
 		<td>@tigrisdata </td>
@@ -5582,7 +5584,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/nikspyratos">
 				<img src="https://avatars.githubusercontent.com/u/17888779?s=72&u=a4eb88fbb95a3297c3239108f124efb663f58519&v=4" width="24" alt="Avatar of nikspyratos"> nikspyratos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#nikspyratos">Copy rank badge</a><br/>
 			Nik Spyratos
 		</td>
 		<td>Nik.software </td>
@@ -5595,7 +5597,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/devinpearson">
 				<img src="https://avatars.githubusercontent.com/u/1645428?s=72&v=4" width="24" alt="Avatar of devinpearson"> devinpearson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#devinpearson">Copy rank badge</a><br/>
 			Devin
 		</td>
 		<td>No Company</td>
@@ -5608,7 +5610,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/TDL2627">
 				<img src="https://avatars.githubusercontent.com/u/60740073?s=72&u=d026351f9a84397465d11271e89c492d0540d120&v=4" width="24" alt="Avatar of TDL2627"> TDL2627
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#TDL2627">Copy rank badge</a><br/>
 			Abdul-Malik Kannemeyer
 		</td>
 		<td>Unitech </td>
@@ -5621,7 +5623,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/tebello-thejane">
 				<img src="https://avatars.githubusercontent.com/u/7853189?s=72&u=8b6fdb17f081c767717c418bf4bd8cbbb887f49f&v=4" width="24" alt="Avatar of tebello-thejane"> tebello-thejane
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#tebello-thejane">Copy rank badge</a><br/>
 			Tebello Thejane
 		</td>
 		<td>@kuno-market  </td>
@@ -5634,7 +5636,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/tembamazingi">
 				<img src="https://avatars.githubusercontent.com/u/360635?s=72&v=4" width="24" alt="Avatar of tembamazingi"> tembamazingi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#tembamazingi">Copy rank badge</a><br/>
 			Temba Mazingi
 		</td>
 		<td>No Company</td>
@@ -5647,7 +5649,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/YayoKB">
 				<img src="https://avatars.githubusercontent.com/u/38580104?s=72&u=ff9a9741ad7fa65d721cf99e23ec520482d3cf2f&v=4" width="24" alt="Avatar of YayoKB"> YayoKB
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#YayoKB">Copy rank badge</a><br/>
 			Kate Blake
 		</td>
 		<td>Nml </td>
@@ -5660,7 +5662,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/dijon59">
 				<img src="https://avatars.githubusercontent.com/u/42912929?s=72&u=664cf15923f3e4f9e8537a35963cc1f46ce73788&v=4" width="24" alt="Avatar of dijon59"> dijon59
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#dijon59">Copy rank badge</a><br/>
 			Dijon Mboko
 		</td>
 		<td>No Company</td>
@@ -5673,7 +5675,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/LawrenceTheAnalyst">
 				<img src="https://avatars.githubusercontent.com/u/144681425?s=72&u=ae8c449242387ed607064547142d8601cba0047a&v=4" width="24" alt="Avatar of LawrenceTheAnalyst"> LawrenceTheAnalyst
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#LawrenceTheAnalyst">Copy rank badge</a><br/>
 			Lawrence Rabasotho
 		</td>
 		<td>No Company</td>
@@ -5686,7 +5688,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Aurelian-Nkonde">
 				<img src="https://avatars.githubusercontent.com/u/52359608?s=72&u=e0ad49c55466a2a97bf4ade794bd1d238395a606&v=4" width="24" alt="Avatar of Aurelian-Nkonde"> Aurelian-Nkonde
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Aurelian-Nkonde">Copy rank badge</a><br/>
 			Aurelian Nkonde
 		</td>
 		<td>No Company</td>
@@ -5699,7 +5701,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/hkdeven">
 				<img src="https://avatars.githubusercontent.com/u/12387497?s=72&u=69edcc85e8b35c8eb8016ffafd438d18bdf0d457&v=4" width="24" alt="Avatar of hkdeven"> hkdeven
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#hkdeven">Copy rank badge</a><br/>
 			Deven Blackburn
 		</td>
 		<td>@allied-steel-buildi </td>
@@ -5712,7 +5714,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/aviddiviner">
 				<img src="https://avatars.githubusercontent.com/u/835967?s=72&u=37f1682b8eba8aa7e250b7315874c7d903c4766c&v=4" width="24" alt="Avatar of aviddiviner"> aviddiviner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#aviddiviner">Copy rank badge</a><br/>
 			David Irvine
 		</td>
 		<td>No Company</td>
@@ -5725,7 +5727,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/pivendren">
 				<img src="https://avatars.githubusercontent.com/u/4654785?s=72&u=71f837e09ca2b4dbcb04b5f2c579af06be010a38&v=4" width="24" alt="Avatar of pivendren"> pivendren
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#pivendren">Copy rank badge</a><br/>
 			Pivendren Naik
 		</td>
 		<td>No Company</td>
@@ -5738,7 +5740,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/senyosimpson">
 				<img src="https://avatars.githubusercontent.com/u/31822321?s=72&u=3549333e63e1dc9aed841cafdda966bc71502cb3&v=4" width="24" alt="Avatar of senyosimpson"> senyosimpson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#senyosimpson">Copy rank badge</a><br/>
 			Senyo Simpson
 		</td>
 		<td>@superfly  </td>
@@ -5751,7 +5753,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/oletilwe12">
 				<img src="https://avatars.githubusercontent.com/u/92241677?s=72&u=75723ee06298f017f231123bcb105c82bfaa0bad&v=4" width="24" alt="Avatar of oletilwe12"> oletilwe12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#oletilwe12">Copy rank badge</a><br/>
 			Oletilwe Mophuting
 		</td>
 		<td>No Company</td>
@@ -5764,7 +5766,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/21Saliji">
 				<img src="https://avatars.githubusercontent.com/u/147812319?s=72&u=7a8539409cc23a405492cc65c80dc34393b34f75&v=4" width="24" alt="Avatar of 21Saliji"> 21Saliji
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#21Saliji">Copy rank badge</a><br/>
 			21Saliji
 		</td>
 		<td>Wethinkcode_ </td>
@@ -5777,7 +5779,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Siyanda">
 				<img src="https://avatars.githubusercontent.com/u/2773268?s=72&v=4" width="24" alt="Avatar of Siyanda"> Siyanda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Siyanda">Copy rank badge</a><br/>
 			Maphumulo
 		</td>
 		<td>No Company</td>
@@ -5790,7 +5792,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MjMthimunye">
 				<img src="https://avatars.githubusercontent.com/u/52870544?s=72&u=4d2c88c13c3c39549a31ec81cee05c6d0a15e20b&v=4" width="24" alt="Avatar of MjMthimunye"> MjMthimunye
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MjMthimunye">Copy rank badge</a><br/>
 			Musa Mthimunye
 		</td>
 		<td>Jacobian Tech </td>
@@ -5803,7 +5805,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/matievisthekat">
 				<img src="https://avatars.githubusercontent.com/u/45036977?s=72&u=50fba970ed1301f11950f276e72ac18df84c1db6&v=4" width="24" alt="Avatar of matievisthekat"> matievisthekat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#matievisthekat">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5816,7 +5818,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/FelixTellmann">
 				<img src="https://avatars.githubusercontent.com/u/22034038?s=72&u=24acd76c8ff5b65b62cee87eecd0a45ab9017eb4&v=4" width="24" alt="Avatar of FelixTellmann"> FelixTellmann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#FelixTellmann">Copy rank badge</a><br/>
 			Felix Tellmann
 		</td>
 		<td>Ft - Front-end Development<br/></td>
@@ -5829,7 +5831,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Tinashe984life">
 				<img src="https://avatars.githubusercontent.com/u/70666237?s=72&u=2ce4bec827a6a1222d1cad02932fff5a3d702d97&v=4" width="24" alt="Avatar of Tinashe984life"> Tinashe984life
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Tinashe984life">Copy rank badge</a><br/>
 			Tinashe Madanire
 		</td>
 		<td>No Company</td>
@@ -5842,7 +5844,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Mardoqueiro">
 				<img src="https://avatars.githubusercontent.com/u/165322152?s=72&u=81388bc4e43705868db46aa5ec18cd4ead621569&v=4" width="24" alt="Avatar of Mardoqueiro"> Mardoqueiro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Mardoqueiro">Copy rank badge</a><br/>
 			Mardoquéiro Dimbu
 		</td>
 		<td>No Company</td>
@@ -5855,7 +5857,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/BenJanecke">
 				<img src="https://avatars.githubusercontent.com/u/2826898?s=72&u=cb0bae67b9b41e5df10704b1b6c0c952590e2d1d&v=4" width="24" alt="Avatar of BenJanecke"> BenJanecke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#BenJanecke">Copy rank badge</a><br/>
 			Ben Janecke
 		</td>
 		<td>@peach-payments  </td>
@@ -5868,7 +5870,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/stevedonovan">
 				<img src="https://avatars.githubusercontent.com/u/218893?s=72&v=4" width="24" alt="Avatar of stevedonovan"> stevedonovan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#stevedonovan">Copy rank badge</a><br/>
 			Steve J Donovan
 		</td>
 		<td>@panoptix-za  </td>
@@ -5881,7 +5883,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/skibz">
 				<img src="https://avatars.githubusercontent.com/u/2462211?s=72&u=6586d0a9cc8e16cc8aba2d80784f9d83ad00ddfd&v=4" width="24" alt="Avatar of skibz"> skibz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#skibz">Copy rank badge</a><br/>
 			ant cosentino
 		</td>
 		<td>@io-digital  </td>
@@ -5894,7 +5896,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Melbanda28">
 				<img src="https://avatars.githubusercontent.com/u/122828898?s=72&u=67ba0b640c1d6a5bb1389193a35894ea2cc9be90&v=4" width="24" alt="Avatar of Melbanda28"> Melbanda28
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Melbanda28">Copy rank badge</a><br/>
 			Mellania Banda
 		</td>
 		<td>No Company</td>
@@ -5907,7 +5909,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/dylut2000">
 				<img src="https://avatars.githubusercontent.com/u/21155105?s=72&u=63913b7769f9c56099b6a4d5367762788a12febf&v=4" width="24" alt="Avatar of dylut2000"> dylut2000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#dylut2000">Copy rank badge</a><br/>
 			Hardy Lutula
 		</td>
 		<td>Shaper (the Digital Academy)<br/></td>
@@ -5920,7 +5922,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/trevorgowing">
 				<img src="https://avatars.githubusercontent.com/u/863970?s=72&u=9b426c83e4436e756f4b28a41b9ce6d44c2451b1&v=4" width="24" alt="Avatar of trevorgowing"> trevorgowing
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#trevorgowing">Copy rank badge</a><br/>
 			Trevor Gowing
 		</td>
 		<td>@decode-development  </td>
@@ -5933,7 +5935,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/manny1001">
 				<img src="https://avatars.githubusercontent.com/u/28627211?s=72&u=ad68d5da4ed5d0cdbaad9efb3a7f063bd7643ee3&v=4" width="24" alt="Avatar of manny1001"> manny1001
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#manny1001">Copy rank badge</a><br/>
 			Emmanuel
 		</td>
 		<td>No Company</td>
@@ -5946,7 +5948,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/krugertech">
 				<img src="https://avatars.githubusercontent.com/u/28920021?s=72&u=0950852a23011f7af6ebd40c5c2af1551e9c8788&v=4" width="24" alt="Avatar of krugertech"> krugertech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#krugertech">Copy rank badge</a><br/>
 			Llewellyn Kruger
 		</td>
 		<td>No Company</td>
@@ -5959,7 +5961,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/benjaminjvdm">
 				<img src="https://avatars.githubusercontent.com/u/97449931?s=72&u=b7b72264788b96e78348da3f6b08283ca2c1276e&v=4" width="24" alt="Avatar of benjaminjvdm"> benjaminjvdm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#benjaminjvdm">Copy rank badge</a><br/>
 			Benjamin (James) van der Merwe
 		</td>
 		<td>No Company</td>
@@ -5972,7 +5974,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ogjr80">
 				<img src="https://avatars.githubusercontent.com/u/4364309?s=72&u=f279d3a520f0eaf14de4fa64be67cba77e2ac2d8&v=4" width="24" alt="Avatar of ogjr80"> ogjr80
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ogjr80">Copy rank badge</a><br/>
 			Gideon Ogongo
 		</td>
 		<td>Opher Labs </td>
@@ -5985,7 +5987,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/charl">
 				<img src="https://avatars.githubusercontent.com/u/36466?s=72&u=404eab52b5e4b75a8b2cb3051fa1bf682381e920&v=4" width="24" alt="Avatar of charl"> charl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#charl">Copy rank badge</a><br/>
 			Charl Matthee
 		</td>
 		<td>Phenom Systems </td>
@@ -5998,7 +6000,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/bright-spark">
 				<img src="https://avatars.githubusercontent.com/u/5949436?s=72&u=f318eba4d03afa89a6069bc7610db8ee2291837e&v=4" width="24" alt="Avatar of bright-spark"> bright-spark
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#bright-spark">Copy rank badge</a><br/>
 			Myburgh
 		</td>
 		<td>@inventinred </td>
@@ -6011,7 +6013,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Tamoledi">
 				<img src="https://avatars.githubusercontent.com/u/197843880?s=72&u=753e8d930da191759ae293315dbde5f21e41849a&v=4" width="24" alt="Avatar of Tamoledi"> Tamoledi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Tamoledi">Copy rank badge</a><br/>
 			Tamoledi Sindane
 		</td>
 		<td>No Company</td>
@@ -6024,7 +6026,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/wmv">
 				<img src="https://avatars.githubusercontent.com/u/4395323?s=72&u=eacf19655e64c07d266f4276870d41c1104b247c&v=4" width="24" alt="Avatar of wmv"> wmv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#wmv">Copy rank badge</a><br/>
 			Wilson M. de N. Canda
 		</td>
 		<td>Metasolves </td>
@@ -6037,7 +6039,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Mistborn94">
 				<img src="https://avatars.githubusercontent.com/u/9079017?s=72&u=1ff1144e41a377e9817fc95c8e0d09c195ac411e&v=4" width="24" alt="Avatar of Mistborn94"> Mistborn94
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Mistborn94">Copy rank badge</a><br/>
 			Renette Ros
 		</td>
 		<td>No Company</td>
@@ -6050,7 +6052,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ander1044">
 				<img src="https://avatars.githubusercontent.com/u/45909999?s=72&u=8599cd182233e8e919e340c9a5d63d0c384f6baf&v=4" width="24" alt="Avatar of ander1044"> ander1044
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ander1044">Copy rank badge</a><br/>
 			Anda Ben
 		</td>
 		<td>No Company</td>
@@ -6063,7 +6065,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Siphenathi">
 				<img src="https://avatars.githubusercontent.com/u/32597717?s=72&u=82746ca665ef5c2fb00f7e88493caad7776656cd&v=4" width="24" alt="Avatar of Siphenathi"> Siphenathi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Siphenathi">Copy rank badge</a><br/>
 			Siphenathi Nathi
 		</td>
 		<td>No Company</td>
@@ -6076,7 +6078,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/thatobabusi">
 				<img src="https://avatars.githubusercontent.com/u/6802518?s=72&u=51761a71aab973359d2fdee0971730e06ba0ac32&v=4" width="24" alt="Avatar of thatobabusi"> thatobabusi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#thatobabusi">Copy rank badge</a><br/>
 			Thato
 		</td>
 		<td>No Company</td>
@@ -6089,7 +6091,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/abarkhuysen">
 				<img src="https://avatars.githubusercontent.com/u/1845109?s=72&v=4" width="24" alt="Avatar of abarkhuysen"> abarkhuysen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#abarkhuysen">Copy rank badge</a><br/>
 			Arthur Barkhuysen
 		</td>
 		<td>Creative8 </td>
@@ -6102,7 +6104,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/LesegoMbulumeti">
 				<img src="https://avatars.githubusercontent.com/u/111395796?s=72&u=b0f91689219212afcc2c2b13305422915dc4fdf0&v=4" width="24" alt="Avatar of LesegoMbulumeti"> LesegoMbulumeti
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#LesegoMbulumeti">Copy rank badge</a><br/>
 			Lesego Mbulumeti
 		</td>
 		<td>Tshwane University Of Technology<br/></td>
@@ -6115,7 +6117,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mukwevhom">
 				<img src="https://avatars.githubusercontent.com/u/13466809?s=72&u=da2c51b04ed39ee06239fb834c625fbee5ff80b4&v=4" width="24" alt="Avatar of mukwevhom"> mukwevhom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mukwevhom">Copy rank badge</a><br/>
 			Murendeni Mukwevho
 		</td>
 		<td>No Company</td>
@@ -6128,7 +6130,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/jadonhansen">
 				<img src="https://avatars.githubusercontent.com/u/35688233?s=72&u=b555baaaa40eebfdb3814501baca963770892300&v=4" width="24" alt="Avatar of jadonhansen"> jadonhansen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#jadonhansen">Copy rank badge</a><br/>
 			Jadon Hansen
 		</td>
 		<td>No Company</td>
@@ -6141,7 +6143,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/alxcnwy">
 				<img src="https://avatars.githubusercontent.com/u/8632011?s=72&u=6cb74baea73a0e9395605794a933abf2f6c8ba09&v=4" width="24" alt="Avatar of alxcnwy"> alxcnwy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#alxcnwy">Copy rank badge</a><br/>
 			Alex Conway
 		</td>
 		<td>No Company</td>
@@ -6154,7 +6156,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/bausmeier">
 				<img src="https://avatars.githubusercontent.com/u/116090?s=72&v=4" width="24" alt="Avatar of bausmeier"> bausmeier
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#bausmeier">Copy rank badge</a><br/>
 			Brett Ausmeier
 		</td>
 		<td>@decode-development  </td>
@@ -6167,7 +6169,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/AceFire6">
 				<img src="https://avatars.githubusercontent.com/u/4126778?s=72&u=8616f2085b373f078131c49a8107a8fbeeb6d808&v=4" width="24" alt="Avatar of AceFire6"> AceFire6
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#AceFire6">Copy rank badge</a><br/>
 			Jethro Muller
 		</td>
 		<td>@orcafraud  </td>
@@ -6180,7 +6182,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/gomesdigital">
 				<img src="https://avatars.githubusercontent.com/u/69418528?s=72&v=4" width="24" alt="Avatar of gomesdigital"> gomesdigital
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#gomesdigital">Copy rank badge</a><br/>
 			Daniel Gomes-Sebastiao
 		</td>
 		<td>Xai </td>
@@ -6193,7 +6195,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/katlehormakhoba">
 				<img src="https://avatars.githubusercontent.com/u/58688272?s=72&u=1b045583717412aa364f7bc50f6886a0d69e312a&v=4" width="24" alt="Avatar of katlehormakhoba"> katlehormakhoba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#katlehormakhoba">Copy rank badge</a><br/>
 			Katleho R. Makhoba
 		</td>
 		<td>No Company</td>
@@ -6206,7 +6208,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MuziZwane">
 				<img src="https://avatars.githubusercontent.com/u/87149575?s=72&u=e436b1901e7aa08850a44666e223300ffac37dcc&v=4" width="24" alt="Avatar of MuziZwane"> MuziZwane
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MuziZwane">Copy rank badge</a><br/>
 			Muzi Zwane
 		</td>
 		<td>We Think Code </td>
@@ -6219,7 +6221,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/SkinnyShugo">
 				<img src="https://avatars.githubusercontent.com/u/20124826?s=72&u=f36facb500b1258649cb2d699cf567ac3400c4dc&v=4" width="24" alt="Avatar of SkinnyShugo"> SkinnyShugo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#SkinnyShugo">Copy rank badge</a><br/>
 			Skinny Shugo
 		</td>
 		<td>No Company</td>
@@ -6232,7 +6234,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/shalomtaiwo">
 				<img src="https://avatars.githubusercontent.com/u/63932011?s=72&u=514a46a140d8d19ec3da94cd4a9c7e713bb4b036&v=4" width="24" alt="Avatar of shalomtaiwo"> shalomtaiwo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#shalomtaiwo">Copy rank badge</a><br/>
 			Shalom Taiwo
 		</td>
 		<td>No Company</td>
@@ -6245,7 +6247,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Kwenziwa">
 				<img src="https://avatars.githubusercontent.com/u/21169712?s=72&u=a183f3da227e605a61f6bceff95deea946b22c39&v=4" width="24" alt="Avatar of Kwenziwa"> Kwenziwa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Kwenziwa">Copy rank badge</a><br/>
 			Kwenziwa Khanyile
 		</td>
 		<td>Influx It </td>
@@ -6258,7 +6260,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/JasonWandrag">
 				<img src="https://avatars.githubusercontent.com/u/21158540?s=72&v=4" width="24" alt="Avatar of JasonWandrag"> JasonWandrag
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#JasonWandrag">Copy rank badge</a><br/>
 			Jason Wandrag
 		</td>
 		<td>Silicon Overdrive </td>
@@ -6271,7 +6273,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/KAYEMBAJONATHAN">
 				<img src="https://avatars.githubusercontent.com/u/83698235?s=72&u=515d366d804bd2c44ec1b1b7bc2e22a9b4e1c823&v=4" width="24" alt="Avatar of KAYEMBAJONATHAN"> KAYEMBAJONATHAN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#KAYEMBAJONATHAN">Copy rank badge</a><br/>
 			KayembaJonathan
 		</td>
 		<td>Microverse Student </td>
@@ -6284,7 +6286,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/dancanangwenyi">
 				<img src="https://avatars.githubusercontent.com/u/24637101?s=72&u=d64c5c08575ab25b7dbd0098687cfceade5ef731&v=4" width="24" alt="Avatar of dancanangwenyi"> dancanangwenyi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#dancanangwenyi">Copy rank badge</a><br/>
 			Dancan Angwenyi
 		</td>
 		<td>University Of Cape Town<br/></td>
@@ -6297,7 +6299,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/garbetjie">
 				<img src="https://avatars.githubusercontent.com/u/254752?s=72&u=8a07fd3e585eaa21c8cddf6388dfa68d5ccc8447&v=4" width="24" alt="Avatar of garbetjie"> garbetjie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#garbetjie">Copy rank badge</a><br/>
 			Geoff Garbers
 		</td>
 		<td>No Company</td>
@@ -6310,7 +6312,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/PsionicAlch">
 				<img src="https://avatars.githubusercontent.com/u/34652519?s=72&u=90be42eb3bfeba54a024df660eb621022328a5ce&v=4" width="24" alt="Avatar of PsionicAlch"> PsionicAlch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#PsionicAlch">Copy rank badge</a><br/>
 			Jean-Jacques
 		</td>
 		<td>Psionicalch </td>
@@ -6323,7 +6325,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Katleho-codes">
 				<img src="https://avatars.githubusercontent.com/u/67188889?s=72&u=722d0bf674eed093da5945b1784ba6bbe826befe&v=4" width="24" alt="Avatar of Katleho-codes"> Katleho-codes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Katleho-codes">Copy rank badge</a><br/>
 			Katleho-codes
 		</td>
 		<td>No Company</td>
@@ -6336,7 +6338,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/sgrimbly">
 				<img src="https://avatars.githubusercontent.com/u/28342957?s=72&u=721b3518406b59ecd5b57d50a318232bde767943&v=4" width="24" alt="Avatar of sgrimbly"> sgrimbly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#sgrimbly">Copy rank badge</a><br/>
 			St John Grimbly
 		</td>
 		<td>@shocklab  </td>
@@ -6349,7 +6351,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/QuentinManemla">
 				<img src="https://avatars.githubusercontent.com/u/26185011?s=72&u=d6a0d2c046aa4400f70c9e9778833dcf4efa6947&v=4" width="24" alt="Avatar of QuentinManemla"> QuentinManemla
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#QuentinManemla">Copy rank badge</a><br/>
 			Quentin
 		</td>
 		<td>No Company</td>
@@ -6362,7 +6364,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/axeltidemann">
 				<img src="https://avatars.githubusercontent.com/u/6352118?s=72&u=45ae87760c87e2998aa41ec76e079aecae673605&v=4" width="24" alt="Avatar of axeltidemann"> axeltidemann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#axeltidemann">Copy rank badge</a><br/>
 			Axel Tidemann
 		</td>
 		<td>Takealot </td>
@@ -6375,7 +6377,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/alchemyst">
 				<img src="https://avatars.githubusercontent.com/u/236588?s=72&u=1ec51974fb383d683b581ca4ac5e9634ef2f90df&v=4" width="24" alt="Avatar of alchemyst"> alchemyst
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#alchemyst">Copy rank badge</a><br/>
 			Carl Sandrock
 		</td>
 		<td>@proquo-ai  </td>
@@ -6388,7 +6390,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/NqobileMthombeni">
 				<img src="https://avatars.githubusercontent.com/u/156246722?s=72&u=f3931eb6f1c0fe952c9bbe6aaa76daafdff8731e&v=4" width="24" alt="Avatar of NqobileMthombeni"> NqobileMthombeni
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#NqobileMthombeni">Copy rank badge</a><br/>
 			Nqobile Mthombeni
 		</td>
 		<td>@wethinkcode </td>
@@ -6401,7 +6403,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/StevenPss">
 				<img src="https://avatars.githubusercontent.com/u/66909427?s=72&u=65abb6e745d229e04f04eb85e143b310fefbb951&v=4" width="24" alt="Avatar of StevenPss"> StevenPss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#StevenPss">Copy rank badge</a><br/>
 			Steven Selolo
 		</td>
 		<td>No Company</td>
@@ -6414,7 +6416,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/DumakudeN">
 				<img src="https://avatars.githubusercontent.com/u/136772576?s=72&u=97046c5195fcc7fbf48e5bfa633c9f7a8982c8d2&v=4" width="24" alt="Avatar of DumakudeN"> DumakudeN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#DumakudeN">Copy rank badge</a><br/>
 			Nkululeko Dumakude244
 		</td>
 		<td>No Company</td>
@@ -6427,7 +6429,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ittani">
 				<img src="https://avatars.githubusercontent.com/u/42994867?s=72&v=4" width="24" alt="Avatar of ittani"> ittani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ittani">Copy rank badge</a><br/>
 			Ittani maemo
 		</td>
 		<td>No Company</td>
@@ -6440,7 +6442,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/justinslack">
 				<img src="https://avatars.githubusercontent.com/u/823133?s=72&u=74df22240cc69632e83a0187b7e99a71ea1c1b84&v=4" width="24" alt="Avatar of justinslack"> justinslack
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#justinslack">Copy rank badge</a><br/>
 			Justin Slack
 		</td>
 		<td>Nml </td>
@@ -6453,7 +6455,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/LucHayward">
 				<img src="https://avatars.githubusercontent.com/u/20114222?s=72&u=de73d70b1a4368871f6843cd6464d0436891eb8e&v=4" width="24" alt="Avatar of LucHayward"> LucHayward
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#LucHayward">Copy rank badge</a><br/>
 			Luc Hayward
 		</td>
 		<td>Aws </td>
@@ -6466,7 +6468,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/GustavBertram">
 				<img src="https://avatars.githubusercontent.com/u/503051?s=72&u=341af5c6571edf866392f0aaa7bbb4d00b7ef64d&v=4" width="24" alt="Avatar of GustavBertram"> GustavBertram
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#GustavBertram">Copy rank badge</a><br/>
 			Gustav Bertram
 		</td>
 		<td>No Company</td>
@@ -6479,7 +6481,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Gordonei">
 				<img src="https://avatars.githubusercontent.com/u/1272984?s=72&u=a999f94bbe635278698e832d3a78cb064056874c&v=4" width="24" alt="Avatar of Gordonei"> Gordonei
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Gordonei">Copy rank badge</a><br/>
 			Gordon Inggs
 		</td>
 		<td>@cityofcapetown  </td>
@@ -6492,7 +6494,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/angus-mackenzie">
 				<img src="https://avatars.githubusercontent.com/u/15137213?s=72&u=e07f55e7bb11237ffa397327991e0fd8c2d23176&v=4" width="24" alt="Avatar of angus-mackenzie"> angus-mackenzie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#angus-mackenzie">Copy rank badge</a><br/>
 			Angus Mackenzie
 		</td>
 		<td>Bigskies </td>
@@ -6505,7 +6507,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/warrendholmes">
 				<img src="https://avatars.githubusercontent.com/u/995473?s=72&u=d26727f0856bae03fdd7b791655d604ece527846&v=4" width="24" alt="Avatar of warrendholmes"> warrendholmes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#warrendholmes">Copy rank badge</a><br/>
 			Warren Holmes
 		</td>
 		<td>Woothemes </td>
@@ -6518,7 +6520,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/system123">
 				<img src="https://avatars.githubusercontent.com/u/91509?s=72&u=e9430904a147affe2cba461a61eddb226efc5a1e&v=4" width="24" alt="Avatar of system123"> system123
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#system123">Copy rank badge</a><br/>
 			Lloyd Hughes
 		</td>
 		<td>Consultant  </td>
@@ -6531,7 +6533,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/KellanStevens">
 				<img src="https://avatars.githubusercontent.com/u/45543616?s=72&u=e077c9606bc62cba51fd38e85bbbad1cac0c77bd&v=4" width="24" alt="Avatar of KellanStevens"> KellanStevens
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#KellanStevens">Copy rank badge</a><br/>
 			Kellan Stevens
 		</td>
 		<td>Tillo </td>
@@ -6544,7 +6546,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Luqxus">
 				<img src="https://avatars.githubusercontent.com/u/137922070?s=72&u=c6848b90b982c1879c1a2d8f94409de92c5b228e&v=4" width="24" alt="Avatar of Luqxus"> Luqxus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Luqxus">Copy rank badge</a><br/>
 			Lucas Lebelwane
 		</td>
 		<td>No Company</td>
@@ -6557,7 +6559,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/wizba">
 				<img src="https://avatars.githubusercontent.com/u/33273335?s=72&u=6f96f325ef58433f72f91ff32b7ff5f5304589d5&v=4" width="24" alt="Avatar of wizba"> wizba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#wizba">Copy rank badge</a><br/>
 			william
 		</td>
 		<td>Digital Academy </td>
@@ -6570,7 +6572,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/AndreasNel">
 				<img src="https://avatars.githubusercontent.com/u/17763359?s=72&v=4" width="24" alt="Avatar of AndreasNel"> AndreasNel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#AndreasNel">Copy rank badge</a><br/>
 			Andreas Nel
 		</td>
 		<td>@entelect </td>
@@ -6583,7 +6585,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Mitso">
 				<img src="https://avatars.githubusercontent.com/u/1453355?s=72&u=e1bb6dd53bbe84e5b54178fd058b8532d7c8235a&v=4" width="24" alt="Avatar of Mitso"> Mitso
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Mitso">Copy rank badge</a><br/>
 			Mitso
 		</td>
 		<td>N/a </td>
@@ -6596,7 +6598,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/capetonian">
 				<img src="https://avatars.githubusercontent.com/u/1757486?s=72&v=4" width="24" alt="Avatar of capetonian"> capetonian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#capetonian">Copy rank badge</a><br/>
 			Andrew La Grange
 		</td>
 		<td>No Company</td>
@@ -6609,7 +6611,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/emilyncosta">
 				<img src="https://avatars.githubusercontent.com/u/31550634?s=72&u=ecbbd1fb1413090649204c93feaf2fc1b7012670&v=4" width="24" alt="Avatar of emilyncosta"> emilyncosta
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#emilyncosta">Copy rank badge</a><br/>
 			Emilyn Costa Conceição
 		</td>
 		<td>Stellenbosch University </td>
@@ -6622,7 +6624,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/PiDelport">
 				<img src="https://avatars.githubusercontent.com/u/630271?s=72&u=6a77a488f03c6ea41879e3344830f42eda01a891&v=4" width="24" alt="Avatar of PiDelport"> PiDelport
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#PiDelport">Copy rank badge</a><br/>
 			Pi
 		</td>
 		<td>Well-typed </td>
@@ -6635,7 +6637,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/johanmeiring">
 				<img src="https://avatars.githubusercontent.com/u/1214876?s=72&u=a5859c36348a869e5dd2834947156303a5e120b6&v=4" width="24" alt="Avatar of johanmeiring"> johanmeiring
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#johanmeiring">Copy rank badge</a><br/>
 			Johan Meiring
 		</td>
 		<td>No Company</td>
@@ -6648,7 +6650,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/SmileyJoe">
 				<img src="https://avatars.githubusercontent.com/u/2392845?s=72&u=b1ce726c88f6cdca1f4ba5f0fb3bd3387278bbf2&v=4" width="24" alt="Avatar of SmileyJoe"> SmileyJoe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#SmileyJoe">Copy rank badge</a><br/>
 			Cody Strugnell
 		</td>
 		<td>No Company</td>
@@ -6661,7 +6663,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/gregmarzio">
 				<img src="https://avatars.githubusercontent.com/u/3627311?s=72&u=74bace88075fea7e4dfb5b793e37a50d766a09c7&v=4" width="24" alt="Avatar of gregmarzio"> gregmarzio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#gregmarzio">Copy rank badge</a><br/>
 			Gregori Marzio
 		</td>
 		<td>@gregmarziomedia </td>
@@ -6674,7 +6676,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/TaariqLangenhoven">
 				<img src="https://avatars.githubusercontent.com/u/149932529?s=72&u=a41b2d9acce3ac32a8eaf70a5c49f7e3731ea166&v=4" width="24" alt="Avatar of TaariqLangenhoven"> TaariqLangenhoven
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#TaariqLangenhoven">Copy rank badge</a><br/>
 			Taariq Langenhoven
 		</td>
 		<td>No Company</td>
@@ -6687,7 +6689,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/BulelaG">
 				<img src="https://avatars.githubusercontent.com/u/91262460?s=72&u=e3e78e551ba67537edf62c0a518a090d5e3175d4&v=4" width="24" alt="Avatar of BulelaG"> BulelaG
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#BulelaG">Copy rank badge</a><br/>
 			Bool.
 		</td>
 		<td>Thuto Platform  </td>
@@ -6700,7 +6702,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/therealchiko">
 				<img src="https://avatars.githubusercontent.com/u/1927685?s=72&v=4" width="24" alt="Avatar of therealchiko"> therealchiko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#therealchiko">Copy rank badge</a><br/>
 			Chiko
 		</td>
 		<td>@usekeeptabs  </td>
@@ -6713,7 +6715,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/KevinKotze">
 				<img src="https://avatars.githubusercontent.com/u/12526166?s=72&u=f7fb2a910218c0b8b57cfec22454fcf05a80ae0d&v=4" width="24" alt="Avatar of KevinKotze"> KevinKotze
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#KevinKotze">Copy rank badge</a><br/>
 			Kevin Kotze
 		</td>
 		<td>No Company</td>
@@ -6726,7 +6728,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/shailen-naidoo">
 				<img src="https://avatars.githubusercontent.com/u/26552540?s=72&u=65f247e04c3c28fc7cf1c81598cdc3d5d043bdba&v=4" width="24" alt="Avatar of shailen-naidoo"> shailen-naidoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#shailen-naidoo">Copy rank badge</a><br/>
 			Shay
 		</td>
 		<td>@tfg-labs </td>
@@ -6739,7 +6741,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/AbdimulhinYussuf3675">
 				<img src="https://avatars.githubusercontent.com/u/81711768?s=72&u=760c72891207c6600e7012d0a0a3d3995c673c7c&v=4" width="24" alt="Avatar of AbdimulhinYussuf3675"> AbdimulhinYussuf3675
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#AbdimulhinYussuf3675">Copy rank badge</a><br/>
 			Abdimulhin Adan
 		</td>
 		<td>Software Engineer </td>
@@ -6752,7 +6754,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Xxtractz">
 				<img src="https://avatars.githubusercontent.com/u/17059036?s=72&u=a0f5167e537bab78d45158b6bfea689e4652909d&v=4" width="24" alt="Avatar of Xxtractz"> Xxtractz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Xxtractz">Copy rank badge</a><br/>
 			Musa Baloyi
 		</td>
 		<td>Fnb  </td>
@@ -6765,7 +6767,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MaddoxMaila">
 				<img src="https://avatars.githubusercontent.com/u/37212622?s=72&u=a26a3c44a4e3622b9e45375a7b5898f13826d96b&v=4" width="24" alt="Avatar of MaddoxMaila"> MaddoxMaila
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MaddoxMaila">Copy rank badge</a><br/>
 			Tshepang Maila
 		</td>
 		<td>Ideation.ai </td>
@@ -6778,7 +6780,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/twesigomwedavid">
 				<img src="https://avatars.githubusercontent.com/u/38982270?s=72&u=d139f3106189858d3a716fe44f4a52b1a1ccd3d3&v=4" width="24" alt="Avatar of twesigomwedavid"> twesigomwedavid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#twesigomwedavid">Copy rank badge</a><br/>
 			David Twesigomwe
 		</td>
 		<td>Sydney Brenner Institute For<br/>Molecular<br/>Bioscience<br/></td>
@@ -6791,7 +6793,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/NelCapeTown">
 				<img src="https://avatars.githubusercontent.com/u/4562349?s=72&u=a1db351e3b1a9ad1165478931a1361bdd3e959c4&v=4" width="24" alt="Avatar of NelCapeTown"> NelCapeTown
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#NelCapeTown">Copy rank badge</a><br/>
 			Nel Prinsloo
 		</td>
 		<td>Nelcapetown (pty) Ltd </td>
@@ -6804,7 +6806,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/corneil">
 				<img src="https://avatars.githubusercontent.com/u/466422?s=72&u=41a405bfabcba754710e1db4215315341a985725&v=4" width="24" alt="Avatar of corneil"> corneil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#corneil">Copy rank badge</a><br/>
 			Corneil du Plessis
 		</td>
 		<td>Oddm.ao </td>
@@ -6817,7 +6819,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/VanRaath">
 				<img src="https://avatars.githubusercontent.com/u/40421910?s=72&u=afa23e16bbe12752ae2bee77134ab5a4fe2eb281&v=4" width="24" alt="Avatar of VanRaath"> VanRaath
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#VanRaath">Copy rank badge</a><br/>
 			VanRaath
 		</td>
 		<td>Tth </td>
@@ -6830,7 +6832,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Waxes27">
 				<img src="https://avatars.githubusercontent.com/u/40868090?s=72&u=1a4096bc94cff923769f7334820c0122eca05798&v=4" width="24" alt="Avatar of Waxes27"> Waxes27
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Waxes27">Copy rank badge</a><br/>
 			Waxes27
 		</td>
 		<td>@the-underground-wor  </td>
@@ -6843,7 +6845,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/gomomohapi">
 				<img src="https://avatars.githubusercontent.com/u/49839746?s=72&u=1d821969e11bc9bbe2b9321cba0b572825f4f79c&v=4" width="24" alt="Avatar of gomomohapi"> gomomohapi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#gomomohapi">Copy rank badge</a><br/>
 			Gomolemo Mohapi
 		</td>
 		<td>Microsoft </td>
@@ -6856,7 +6858,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/sahirmaharaj">
 				<img src="https://avatars.githubusercontent.com/u/157965615?s=72&u=f81c82670a6d6278e10fb8a6dd5f40dd763d83a2&v=4" width="24" alt="Avatar of sahirmaharaj"> sahirmaharaj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#sahirmaharaj">Copy rank badge</a><br/>
 			Sahir Maharaj
 		</td>
 		<td>No Company</td>
@@ -6869,7 +6871,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/francois-meyer">
 				<img src="https://avatars.githubusercontent.com/u/24473662?s=72&u=b85644b09a939ada3baa2021b62a2d3475475e83&v=4" width="24" alt="Avatar of francois-meyer"> francois-meyer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#francois-meyer">Copy rank badge</a><br/>
 			Francois Meyer
 		</td>
 		<td>No Company</td>
@@ -6882,7 +6884,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MarcoVCarreira">
 				<img src="https://avatars.githubusercontent.com/u/170438245?s=72&u=eeb3aa0ba8f336895e957155a839832fc05c8acd&v=4" width="24" alt="Avatar of MarcoVCarreira"> MarcoVCarreira
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MarcoVCarreira">Copy rank badge</a><br/>
 			Marco Carreira
 		</td>
 		<td>No Company</td>
@@ -6895,7 +6897,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/techtalkdev">
 				<img src="https://avatars.githubusercontent.com/u/142533196?s=72&u=c3590523a036f9383b8dd5f06be3d2050ea2fff9&v=4" width="24" alt="Avatar of techtalkdev"> techtalkdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#techtalkdev">Copy rank badge</a><br/>
 			Mike Jaure
 		</td>
 		<td>No Company</td>
@@ -6908,7 +6910,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/sapho-sys">
 				<img src="https://avatars.githubusercontent.com/u/81621118?s=72&u=ec3d9a058401c693dffe98d2f1ceeb16f331cb0b&v=4" width="24" alt="Avatar of sapho-sys"> sapho-sys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#sapho-sys">Copy rank badge</a><br/>
 			#Skillor
 		</td>
 		<td>Games Global  </td>
@@ -6921,7 +6923,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/cbalona">
 				<img src="https://avatars.githubusercontent.com/u/38562793?s=72&u=2c4e18e45cec5501a1d69d098bf98fd5031a063b&v=4" width="24" alt="Avatar of cbalona"> cbalona
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#cbalona">Copy rank badge</a><br/>
 			Caesar Balona
 		</td>
 		<td>Old Mutual Insure </td>
@@ -6934,7 +6936,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/gwasserfall">
 				<img src="https://avatars.githubusercontent.com/u/17541336?s=72&u=fd506ef2ebb8e0d61ec548583c3ee4727240d242&v=4" width="24" alt="Avatar of gwasserfall"> gwasserfall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#gwasserfall">Copy rank badge</a><br/>
 			Glen Wasserfall
 		</td>
 		<td>No Company</td>
@@ -6947,7 +6949,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/dalenunns">
 				<img src="https://avatars.githubusercontent.com/u/21309512?s=72&u=d7ffc6eb7f35fa206dc766750e89f690da458053&v=4" width="24" alt="Avatar of dalenunns"> dalenunns
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#dalenunns">Copy rank badge</a><br/>
 			Dale Nunns
 		</td>
 		<td>No Company</td>
@@ -6960,7 +6962,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Pietervdw">
 				<img src="https://avatars.githubusercontent.com/u/5253872?s=72&u=80d2177835372713f555aa28d0fd15aae693affe&v=4" width="24" alt="Avatar of Pietervdw"> Pietervdw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Pietervdw">Copy rank badge</a><br/>
 			Pieter van der Westhuizen
 		</td>
 		<td>Coalition Software </td>
@@ -6973,7 +6975,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/sellomkantjwa">
 				<img src="https://avatars.githubusercontent.com/u/5308286?s=72&u=e15a96771b13ae0eb624d27db6b92de5b7652821&v=4" width="24" alt="Avatar of sellomkantjwa"> sellomkantjwa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#sellomkantjwa">Copy rank badge</a><br/>
 			Sello Mkantjwa
 		</td>
 		<td>No Company</td>
@@ -6986,7 +6988,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/nreddystudent">
 				<img src="https://avatars.githubusercontent.com/u/50164676?s=72&v=4" width="24" alt="Avatar of nreddystudent"> nreddystudent
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#nreddystudent">Copy rank badge</a><br/>
 			Nolin Reddy
 		</td>
 		<td>No Company</td>
@@ -6999,7 +7001,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/marcpeiser">
 				<img src="https://avatars.githubusercontent.com/u/390709?s=72&u=3ca88872054137f17534c30c94caf59ea0ca14ec&v=4" width="24" alt="Avatar of marcpeiser"> marcpeiser
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#marcpeiser">Copy rank badge</a><br/>
 			Marc Peiser
 		</td>
 		<td>Daemon </td>
@@ -7012,7 +7014,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/xtyrrell">
 				<img src="https://avatars.githubusercontent.com/u/6854494?s=72&u=088be7feeaaa974899e2055a82373a9e71ce0b1c&v=4" width="24" alt="Avatar of xtyrrell"> xtyrrell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#xtyrrell">Copy rank badge</a><br/>
 			Max
 		</td>
 		<td>No Company</td>
@@ -7025,7 +7027,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/arnoesterhuizen">
 				<img src="https://avatars.githubusercontent.com/u/49686?s=72&v=4" width="24" alt="Avatar of arnoesterhuizen"> arnoesterhuizen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#arnoesterhuizen">Copy rank badge</a><br/>
 			Arno Esterhuizen
 		</td>
 		<td>No Company</td>
@@ -7038,7 +7040,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/maxandrezils">
 				<img src="https://avatars.githubusercontent.com/u/4243691?s=72&u=2156f828334cbef65bd9c99a6eb9be7262bcd32b&v=4" width="24" alt="Avatar of maxandrezils"> maxandrezils
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#maxandrezils">Copy rank badge</a><br/>
 			Max-Andre' Zils
 		</td>
 		<td>Medi2data </td>
@@ -7051,7 +7053,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/riverdusty">
 				<img src="https://avatars.githubusercontent.com/u/572263?s=72&u=b7592ae9cbb18c44b1a473d7fdda56d79733b5df&v=4" width="24" alt="Avatar of riverdusty"> riverdusty
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#riverdusty">Copy rank badge</a><br/>
 			Dusty
 		</td>
 		<td>Inspired! </td>
@@ -7064,7 +7066,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/dario-ds">
 				<img src="https://avatars.githubusercontent.com/u/59831286?s=72&u=72f888eca63497d056e44d4df313455fcda81b83&v=4" width="24" alt="Avatar of dario-ds"> dario-ds
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#dario-ds">Copy rank badge</a><br/>
 			Dario da Silva
 		</td>
 		<td>No Company</td>
@@ -7077,7 +7079,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/blndlo">
 				<img src="https://avatars.githubusercontent.com/u/23232641?s=72&u=309d4332ede1e75568246adf337f952fa007655d&v=4" width="24" alt="Avatar of blndlo"> blndlo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#blndlo">Copy rank badge</a><br/>
 			Blessmore Ndlovu
 		</td>
 		<td>N/a </td>
@@ -7090,7 +7092,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/zikisacalesogaxa">
 				<img src="https://avatars.githubusercontent.com/u/24386876?s=72&u=c42518c36c734c370e05627d4deaf2e5ae8578dd&v=4" width="24" alt="Avatar of zikisacalesogaxa"> zikisacalesogaxa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#zikisacalesogaxa">Copy rank badge</a><br/>
 			Zikisa Cale Sogaxa
 		</td>
 		<td>Scout Technologies </td>
@@ -7103,7 +7105,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/dshkatov">
 				<img src="https://avatars.githubusercontent.com/u/4377937?s=72&u=b3feba1fa76567146d9fb0a26adaece8aff44091&v=4" width="24" alt="Avatar of dshkatov"> dshkatov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#dshkatov">Copy rank badge</a><br/>
 			Dmitry Shkatov
 		</td>
 		<td>University Of The Witwatersrand,<br/>Johannesburg<br/></td>
@@ -7116,7 +7118,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MadgeMothae">
 				<img src="https://avatars.githubusercontent.com/u/150597926?s=72&u=5e1ea323b74f5d02d59d4fa92cb5e2d5d4717998&v=4" width="24" alt="Avatar of MadgeMothae"> MadgeMothae
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MadgeMothae">Copy rank badge</a><br/>
 			Magic R Mothae
 		</td>
 		<td>Ey </td>
@@ -7129,7 +7131,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/TheOptimisticDev">
 				<img src="https://avatars.githubusercontent.com/u/110236527?s=72&u=a83c50804eb495ceeeee86d51e5a88e6f63fbe25&v=4" width="24" alt="Avatar of TheOptimisticDev"> TheOptimisticDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#TheOptimisticDev">Copy rank badge</a><br/>
 			Mfumu Wealth Mabunda
 		</td>
 		<td>No Company</td>
@@ -7142,7 +7144,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Nicktz">
 				<img src="https://avatars.githubusercontent.com/u/14888246?s=72&u=8c87676986e3273733e0820ad8c15e3bf75ffea5&v=4" width="24" alt="Avatar of Nicktz"> Nicktz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Nicktz">Copy rank badge</a><br/>
 			Nico Katzke
 		</td>
 		<td>Satrix </td>
@@ -7155,7 +7157,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/philip-sterne">
 				<img src="https://avatars.githubusercontent.com/u/3687631?s=72&v=4" width="24" alt="Avatar of philip-sterne"> philip-sterne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#philip-sterne">Copy rank badge</a><br/>
 			Philip Sterne
 		</td>
 		<td>No Company</td>
@@ -7168,7 +7170,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/shaze">
 				<img src="https://avatars.githubusercontent.com/u/5936911?s=72&u=8d29510724247382d6ee8c0b6bbad70f2ea3f336&v=4" width="24" alt="Avatar of shaze"> shaze
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#shaze">Copy rank badge</a><br/>
 			Scott Hazelhurst
 		</td>
 		<td>University Of The Witwatersrand<br/></td>
@@ -7181,7 +7183,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/29td">
 				<img src="https://avatars.githubusercontent.com/u/93027816?s=72&u=9e60971cf0a0328369e9136bec3567e3021096b8&v=4" width="24" alt="Avatar of 29td"> 29td
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#29td">Copy rank badge</a><br/>
 			Nonhlanhla Mndebele
 		</td>
 		<td>Capaciti,uvu Africa </td>
@@ -7194,7 +7196,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Maitisa">
 				<img src="https://avatars.githubusercontent.com/u/144735912?s=72&u=39af239297cc4cc0def834a7de3ce659f3153d37&v=4" width="24" alt="Avatar of Maitisa"> Maitisa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Maitisa">Copy rank badge</a><br/>
 			Thato M.
 		</td>
 		<td>Upwork - Data And<br/>Cybersecurity<br/>Specialist<br/>And<br/>Software<br/>Developer.<br/></td>
@@ -7207,7 +7209,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/RonRichman">
 				<img src="https://avatars.githubusercontent.com/u/6745662?s=72&u=0167dc6ea0357208d95db2d0e833c1d65ea416de&v=4" width="24" alt="Avatar of RonRichman"> RonRichman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#RonRichman">Copy rank badge</a><br/>
 			Ronald Richman
 		</td>
 		<td>No Company</td>
@@ -7220,7 +7222,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/lucaliebenberg">
 				<img src="https://avatars.githubusercontent.com/u/89966720?s=72&u=5a80a32286c35a0205eb42f384732f5cbae95c7b&v=4" width="24" alt="Avatar of lucaliebenberg"> lucaliebenberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#lucaliebenberg">Copy rank badge</a><br/>
 			Luca Liebenberg
 		</td>
 		<td>Swe @ Vat It<br/></td>
@@ -7233,7 +7235,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/waynemunro">
 				<img src="https://avatars.githubusercontent.com/u/964342?s=72&u=e5c1c02df61c0dc466547c58ac6d192d673974f1&v=4" width="24" alt="Avatar of waynemunro"> waynemunro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#waynemunro">Copy rank badge</a><br/>
 			Wayne Munro Former Microsoft Premier Field Engineer · Architect of Software Fabric · Cloud & Modular Systems Strategist
 		</td>
 		<td>@softwarefabric </td>
@@ -7246,7 +7248,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/snth">
 				<img src="https://avatars.githubusercontent.com/u/652285?s=72&u=2540db5919dfc8d9c0404daf7f3c766c944eba54&v=4" width="24" alt="Avatar of snth"> snth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#snth">Copy rank badge</a><br/>
 			Tobias Brandt
 		</td>
 		<td>No Company</td>
@@ -7259,7 +7261,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Lusanda11">
 				<img src="https://avatars.githubusercontent.com/u/96213746?s=72&u=65dc6bd943b8ab34d8227efc128895f211a917f6&v=4" width="24" alt="Avatar of Lusanda11"> Lusanda11
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Lusanda11">Copy rank badge</a><br/>
 			Lusanda Bonani
 		</td>
 		<td>No Company</td>
@@ -7272,7 +7274,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ChaseNaidoo">
 				<img src="https://avatars.githubusercontent.com/u/125469506?s=72&u=a271b099a25854ebf802bf7f94d54b08140aa650&v=4" width="24" alt="Avatar of ChaseNaidoo"> ChaseNaidoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ChaseNaidoo">Copy rank badge</a><br/>
 			Cameron Chase Naidoo
 		</td>
 		<td>No Company</td>
@@ -7285,7 +7287,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/adothompson">
 				<img src="https://avatars.githubusercontent.com/u/18236?s=72&u=720f4b0c65914a800e8836075300865025a07e1e&v=4" width="24" alt="Avatar of adothompson"> adothompson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#adothompson">Copy rank badge</a><br/>
 			Adam Thompson
 		</td>
 		<td>Ehealth Africa </td>
@@ -7298,7 +7300,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/neilgarb">
 				<img src="https://avatars.githubusercontent.com/u/598376?s=72&u=9345909c3a929cf1be0c6c2a77eb9b320a6a1621&v=4" width="24" alt="Avatar of neilgarb"> neilgarb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#neilgarb">Copy rank badge</a><br/>
 			Neil Garb
 		</td>
 		<td>No Company</td>
@@ -7311,7 +7313,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/justinwyer">
 				<img src="https://avatars.githubusercontent.com/u/124817?s=72&u=4a523868aa853fdcbc05639197ad35e8153a4f7f&v=4" width="24" alt="Avatar of justinwyer"> justinwyer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#justinwyer">Copy rank badge</a><br/>
 			Justin Wyer
 		</td>
 		<td>No Company</td>
@@ -7324,7 +7326,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/bentenjamin">
 				<img src="https://avatars.githubusercontent.com/u/46859990?s=72&u=3da020d3fc6b8116e0ebff9263b6805375782b86&v=4" width="24" alt="Avatar of bentenjamin"> bentenjamin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#bentenjamin">Copy rank badge</a><br/>
 			Ben Webb
 		</td>
 		<td>Ntt Ltd </td>
@@ -7337,7 +7339,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/markdicks">
 				<img src="https://avatars.githubusercontent.com/u/117034609?s=72&u=e8257185dca29916a19c096f72441224717cc6c0&v=4" width="24" alt="Avatar of markdicks"> markdicks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#markdicks">Copy rank badge</a><br/>
 			Mark Dicks
 		</td>
 		<td>Paramatic (pty) Ltd </td>
@@ -7350,7 +7352,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/DuartBreedt">
 				<img src="https://avatars.githubusercontent.com/u/16672702?s=72&u=8b7eb13fb90ab23452a1f36d5301db41a9c50398&v=4" width="24" alt="Avatar of DuartBreedt"> DuartBreedt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#DuartBreedt">Copy rank badge</a><br/>
 			Duart Breedt
 		</td>
 		<td>No Company</td>
@@ -7363,7 +7365,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/nophora">
 				<img src="https://avatars.githubusercontent.com/u/60358782?s=72&u=a4afec333bd4e9a94bcca9ac5968d80f2d09abee&v=4" width="24" alt="Avatar of nophora"> nophora
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#nophora">Copy rank badge</a><br/>
 			Siphosethu Nongwe
 		</td>
 		<td>No Company</td>
@@ -7376,7 +7378,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/chandredewet">
 				<img src="https://avatars.githubusercontent.com/u/65244840?s=72&u=be38c29e705ec934b323b58791f5894635f4bb6d&v=4" width="24" alt="Avatar of chandredewet"> chandredewet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#chandredewet">Copy rank badge</a><br/>
 			Chandré De Wet
 		</td>
 		<td>No Company</td>
@@ -7389,7 +7391,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Siphiwo">
 				<img src="https://avatars.githubusercontent.com/u/22646629?s=72&u=86d5a61cca80490fd1be68b9573c0671189f386c&v=4" width="24" alt="Avatar of Siphiwo"> Siphiwo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Siphiwo">Copy rank badge</a><br/>
 			Siphiwo Julayi
 		</td>
 		<td>No Company</td>
@@ -7402,7 +7404,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/neeland">
 				<img src="https://avatars.githubusercontent.com/u/5680639?s=72&u=9dc40f8aa990a628610be5f306793b2ee8697714&v=4" width="24" alt="Avatar of neeland"> neeland
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#neeland">Copy rank badge</a><br/>
 			neelan pather
 		</td>
 		<td>Æ Analytixengine.com </td>
@@ -7415,7 +7417,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ksmasemula">
 				<img src="https://avatars.githubusercontent.com/u/20091183?s=72&u=f543779c518d95ded42e40f53b6b8d2211871a53&v=4" width="24" alt="Avatar of ksmasemula"> ksmasemula
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ksmasemula">Copy rank badge</a><br/>
 			KabeloMasemula
 		</td>
 		<td>Adaptit </td>
@@ -7428,7 +7430,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/jcass77">
 				<img src="https://avatars.githubusercontent.com/u/10268911?s=72&u=fee8b3581b353123552a65d398359d57c4b1112c&v=4" width="24" alt="Avatar of jcass77"> jcass77
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#jcass77">Copy rank badge</a><br/>
 			John Cass
 		</td>
 		<td>No Company</td>
@@ -7441,7 +7443,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/AesSedai101">
 				<img src="https://avatars.githubusercontent.com/u/1587721?s=72&u=f32d915403412794a2d6f12087f0c70bf8f219d9&v=4" width="24" alt="Avatar of AesSedai101"> AesSedai101
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#AesSedai101">Copy rank badge</a><br/>
 			Elsabe Ros
 		</td>
 		<td>No Company</td>
@@ -7454,7 +7456,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/BridgetLeratoT">
 				<img src="https://avatars.githubusercontent.com/u/122853747?s=72&u=940684ee049343281d2b6ed43f3f065977f0e74e&v=4" width="24" alt="Avatar of BridgetLeratoT"> BridgetLeratoT
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#BridgetLeratoT">Copy rank badge</a><br/>
 			Bridget Lerato Tshabalala
 		</td>
 		<td>No Company</td>
@@ -7467,7 +7469,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Ramasindi">
 				<img src="https://avatars.githubusercontent.com/u/47077855?s=72&u=3e948585025b911772d0b0a6e120c76572771099&v=4" width="24" alt="Avatar of Ramasindi"> Ramasindi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Ramasindi">Copy rank badge</a><br/>
 			Thalukanyo 
 		</td>
 		<td>No Company</td>
@@ -7480,7 +7482,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/siphephelok">
 				<img src="https://avatars.githubusercontent.com/u/102871868?s=72&u=fe4da235811dab53d88587d973717655b01100c4&v=4" width="24" alt="Avatar of siphephelok"> siphephelok
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#siphephelok">Copy rank badge</a><br/>
 			Siphephelo Myeni
 		</td>
 		<td>No Company</td>
@@ -7493,7 +7495,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/BrendaLetseka1">
 				<img src="https://avatars.githubusercontent.com/u/111045575?s=72&v=4" width="24" alt="Avatar of BrendaLetseka1"> BrendaLetseka1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#BrendaLetseka1">Copy rank badge</a><br/>
 			Ntsoaki Letseka
 		</td>
 		<td>No Company</td>
@@ -7506,7 +7508,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/tawandakembo">
 				<img src="https://avatars.githubusercontent.com/u/1892654?s=72&u=91cfbc27f9463902cbfde78a1a20a4636e13e403&v=4" width="24" alt="Avatar of tawandakembo"> tawandakembo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#tawandakembo">Copy rank badge</a><br/>
 			Tawanda Kembo
 		</td>
 		<td>No Company</td>
@@ -7519,7 +7521,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/taylorgibb">
 				<img src="https://avatars.githubusercontent.com/u/13660108?s=72&u=48fe96de98856c3ffa40c3d5cf193e3f051bda68&v=4" width="24" alt="Avatar of taylorgibb"> taylorgibb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#taylorgibb">Copy rank badge</a><br/>
 			Taylor Gibb
 		</td>
 		<td>No Company</td>
@@ -7532,7 +7534,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Necrolis">
 				<img src="https://avatars.githubusercontent.com/u/44764?s=72&v=4" width="24" alt="Avatar of Necrolis"> Necrolis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Necrolis">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -7545,7 +7547,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/JaschaW">
 				<img src="https://avatars.githubusercontent.com/u/31500795?s=72&u=69e677efa95b6d60957a3b7aea69b442cee77323&v=4" width="24" alt="Avatar of JaschaW"> JaschaW
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#JaschaW">Copy rank badge</a><br/>
 			Jascha Wohlkinger
 		</td>
 		<td>No Company</td>
@@ -7558,7 +7560,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/gpampara">
 				<img src="https://avatars.githubusercontent.com/u/44838?s=72&v=4" width="24" alt="Avatar of gpampara"> gpampara
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#gpampara">Copy rank badge</a><br/>
 			Gary Pamparà
 		</td>
 		<td>No Company</td>
@@ -7571,7 +7573,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/nanosoftonline">
 				<img src="https://avatars.githubusercontent.com/u/23306683?s=72&u=c663c5a3c285621b20580a7cc0345eacd97e2fad&v=4" width="24" alt="Avatar of nanosoftonline"> nanosoftonline
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#nanosoftonline">Copy rank badge</a><br/>
 			Nanosoft
 		</td>
 		<td>Nanosoft </td>
@@ -7584,7 +7586,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Abongile-Alven-Code-With-The-Coolest">
 				<img src="https://avatars.githubusercontent.com/u/61139920?s=72&u=e349661edf4af6aaa1593556e909c213765c2673&v=4" width="24" alt="Avatar of Abongile-Alven-Code-With-The-Coolest"> Abongile-Alven-Code-With-The-Coolest
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Abongile-Alven-Code-With-The-Coolest">Copy rank badge</a><br/>
 			Abongile Alven 
 		</td>
 		<td>No Company</td>
@@ -7597,7 +7599,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MfundoZA">
 				<img src="https://avatars.githubusercontent.com/u/65462513?s=72&u=0f61f0b12c0df84b7e75d1553761401475dcc07e&v=4" width="24" alt="Avatar of MfundoZA"> MfundoZA
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MfundoZA">Copy rank badge</a><br/>
 			Mfundo
 		</td>
 		<td>No Company</td>
@@ -7610,7 +7612,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mnicstruwig">
 				<img src="https://avatars.githubusercontent.com/u/14093308?s=72&u=2e72c55b7028cfbecfb696cb6d3fa240c9ca0509&v=4" width="24" alt="Avatar of mnicstruwig"> mnicstruwig
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mnicstruwig">Copy rank badge</a><br/>
 			Michael Struwig
 		</td>
 		<td>No Company</td>
@@ -7623,7 +7625,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Mo7ammedFarahat">
 				<img src="https://avatars.githubusercontent.com/u/138137237?s=72&u=d11b4100c849381f5369e1a97d3fc7422cfde8aa&v=4" width="24" alt="Avatar of Mo7ammedFarahat"> Mo7ammedFarahat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Mo7ammedFarahat">Copy rank badge</a><br/>
 			Mohammed Farahat
 		</td>
 		<td>University Of Cape Town<br/></td>
@@ -7636,7 +7638,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/kinggs">
 				<img src="https://avatars.githubusercontent.com/u/516126?s=72&v=4" width="24" alt="Avatar of kinggs"> kinggs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#kinggs">Copy rank badge</a><br/>
 			Kenny Inggs
 		</td>
 		<td>Lettuce </td>
@@ -7649,7 +7651,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/CR-Hughes">
 				<img src="https://avatars.githubusercontent.com/u/98946076?s=72&u=e0b1e23106c6bc18aaf4a01ac69e4f82b52c521a&v=4" width="24" alt="Avatar of CR-Hughes"> CR-Hughes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#CR-Hughes">Copy rank badge</a><br/>
 			Connor Hughes
 		</td>
 		<td>Neslo Tech </td>
@@ -7662,7 +7664,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Dyani101">
 				<img src="https://avatars.githubusercontent.com/u/17434416?s=72&v=4" width="24" alt="Avatar of Dyani101"> Dyani101
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Dyani101">Copy rank badge</a><br/>
 			asiphe
 		</td>
 		<td>No Company</td>
@@ -7675,7 +7677,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ZannyM">
 				<img src="https://avatars.githubusercontent.com/u/72578586?s=72&u=d4c61b15187c0fe773fa68cf7ada854673f2fdbd&v=4" width="24" alt="Avatar of ZannyM"> ZannyM
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ZannyM">Copy rank badge</a><br/>
 			Zanny Athalia 
 		</td>
 		<td>No Company</td>
@@ -7688,7 +7690,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/tseboho">
 				<img src="https://avatars.githubusercontent.com/u/5609223?s=72&u=7e4e05a34644190f10250f9d9835b9946fae344c&v=4" width="24" alt="Avatar of tseboho"> tseboho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#tseboho">Copy rank badge</a><br/>
 			Thabang Tseboho
 		</td>
 		<td>@botho-works  </td>
@@ -7701,7 +7703,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/TinoMuzambi">
 				<img src="https://avatars.githubusercontent.com/u/38549830?s=72&u=0d5760a3d9f3548281a4e925b5a08063c310ad55&v=4" width="24" alt="Avatar of TinoMuzambi"> TinoMuzambi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#TinoMuzambi">Copy rank badge</a><br/>
 			Tinotenda Muzambi
 		</td>
 		<td>University Of Cape Town<br/></td>
@@ -7714,7 +7716,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Lekau">
 				<img src="https://avatars.githubusercontent.com/u/24572075?s=72&u=8749b7721f9d18543018222ab7a84aaa30d46a58&v=4" width="24" alt="Avatar of Lekau"> Lekau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Lekau">Copy rank badge</a><br/>
 			Lekau Mamabolo
 		</td>
 		<td>Versofy Solar </td>
@@ -7727,7 +7729,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/marcusinthesky">
 				<img src="https://avatars.githubusercontent.com/u/26429489?s=72&u=f0f47c154c82769887160f8d46d0b4e1c8ba9fe9&v=4" width="24" alt="Avatar of marcusinthesky"> marcusinthesky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#marcusinthesky">Copy rank badge</a><br/>
 			Marcus Gawronsky
 		</td>
 		<td>Solenya-aiaas </td>
@@ -7740,7 +7742,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MaryMdukaza">
 				<img src="https://avatars.githubusercontent.com/u/118189185?s=72&u=12765dc5502fa98e43f1fd344a1256efab512a9a&v=4" width="24" alt="Avatar of MaryMdukaza"> MaryMdukaza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MaryMdukaza">Copy rank badge</a><br/>
 			Mary Mdukaza
 		</td>
 		<td>Komatsu </td>
@@ -7753,7 +7755,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Hallocoos">
 				<img src="https://avatars.githubusercontent.com/u/45897219?s=72&u=b2a4d2e7fe5ef64cdb33d15ef597609c7bb59c4e&v=4" width="24" alt="Avatar of Hallocoos"> Hallocoos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Hallocoos">Copy rank badge</a><br/>
 			Henricus Wouter de Vos
 		</td>
 		<td>@nttltd. </td>
@@ -7766,7 +7768,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mattyza">
 				<img src="https://avatars.githubusercontent.com/u/880803?s=72&u=84a8ce043757fc3c6788993d36ada9a964b47998&v=4" width="24" alt="Avatar of mattyza"> mattyza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mattyza">Copy rank badge</a><br/>
 			Matt Cohen
 		</td>
 		<td>Mdc Consulting </td>
@@ -7779,7 +7781,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/martygo">
 				<img src="https://avatars.githubusercontent.com/u/33721844?s=72&u=261f68baa1ab2f743f8e9cba89efef92966f9410&v=4" width="24" alt="Avatar of martygo"> martygo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#martygo">Copy rank badge</a><br/>
 			Martins Gouveia
 		</td>
 		<td>Directv </td>
@@ -7792,7 +7794,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/nogumbi">
 				<img src="https://avatars.githubusercontent.com/u/67958932?s=72&u=4fd48ef737acca55d42f65b58c3b65341c0a10e2&v=4" width="24" alt="Avatar of nogumbi"> nogumbi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#nogumbi">Copy rank badge</a><br/>
 			Nobantu Gumbi
 		</td>
 		<td>No Company</td>
@@ -7805,7 +7807,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Sifiso-Mazibuko">
 				<img src="https://avatars.githubusercontent.com/u/142902211?s=72&u=a83d4a64bacb75724dd552ec529c9541da98d410&v=4" width="24" alt="Avatar of Sifiso-Mazibuko"> Sifiso-Mazibuko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Sifiso-Mazibuko">Copy rank badge</a><br/>
 			Sifiso
 		</td>
 		<td>No Company</td>
@@ -7818,7 +7820,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Tarto-4">
 				<img src="https://avatars.githubusercontent.com/u/109634276?s=72&u=96120b6979f4810cae1bd583dd9053637fda03a9&v=4" width="24" alt="Avatar of Tarto-4"> Tarto-4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Tarto-4">Copy rank badge</a><br/>
 			Thato Mongwe
 		</td>
 		<td>No Company</td>
@@ -7831,7 +7833,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/eksoverzero">
 				<img src="https://avatars.githubusercontent.com/u/722021?s=72&u=cc13c86f75ed7013579628f10a494b4d5f586539&v=4" width="24" alt="Avatar of eksoverzero"> eksoverzero
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#eksoverzero">Copy rank badge</a><br/>
 			Steven Eksteen
 		</td>
 		<td>No Company</td>
@@ -7844,7 +7846,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Ora1xx">
 				<img src="https://avatars.githubusercontent.com/u/204095250?s=72&u=fab801fb66b6f4cdd1ab6e035094973fa6ab48d5&v=4" width="24" alt="Avatar of Ora1xx"> Ora1xx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Ora1xx">Copy rank badge</a><br/>
 			n1xora_
 		</td>
 		<td>No Company</td>
@@ -7857,7 +7859,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/morgs">
 				<img src="https://avatars.githubusercontent.com/u/2584?s=72&u=40e322e47dde4f9e2ac402370890752ab70bb1f0&v=4" width="24" alt="Avatar of morgs"> morgs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#morgs">Copy rank badge</a><br/>
 			Morgan Collett
 		</td>
 		<td>No Company</td>
@@ -7870,7 +7872,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/grandinj">
 				<img src="https://avatars.githubusercontent.com/u/796121?s=72&v=4" width="24" alt="Avatar of grandinj"> grandinj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#grandinj">Copy rank badge</a><br/>
 			Noel Grandin
 		</td>
 		<td>Peralex </td>
@@ -7883,7 +7885,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/kialanpillay">
 				<img src="https://avatars.githubusercontent.com/u/32073100?s=72&u=9c877a5aca3349578340c833735b24d62521403e&v=4" width="24" alt="Avatar of kialanpillay"> kialanpillay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#kialanpillay">Copy rank badge</a><br/>
 			Kialan Pillay
 		</td>
 		<td>Amorphous Ai </td>
@@ -7896,7 +7898,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Lucky8">
 				<img src="https://avatars.githubusercontent.com/u/10108176?s=72&u=37caa02e41ffe9aff715e2f631f4e6677bd14299&v=4" width="24" alt="Avatar of Lucky8"> Lucky8
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Lucky8">Copy rank badge</a><br/>
 			Ltech Ndlovu
 		</td>
 		<td>Ltech Dev </td>
@@ -7909,7 +7911,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/juliennyambal">
 				<img src="https://avatars.githubusercontent.com/u/12143753?s=72&u=4744b3219b7b101d97595f1cded6fc7b925e0eaa&v=4" width="24" alt="Avatar of juliennyambal"> juliennyambal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#juliennyambal">Copy rank badge</a><br/>
 			Julien Nyambal
 		</td>
 		<td>University Of The Witwatersrand<br/></td>
@@ -7922,7 +7924,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/louwjlabuschagne">
 				<img src="https://avatars.githubusercontent.com/u/10983628?s=72&u=ba3ac96b448190f728effadc224c7194a0d062cf&v=4" width="24" alt="Avatar of louwjlabuschagne"> louwjlabuschagne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#louwjlabuschagne">Copy rank badge</a><br/>
 			Louwrens Labuschagne
 		</td>
 		<td>@fan-fire @automator-plus @kingly-clark </td>
@@ -7935,7 +7937,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/hollenaizer">
 				<img src="https://avatars.githubusercontent.com/u/45949931?s=72&u=63949881394b637ef327e81de9cd7533505976c4&v=4" width="24" alt="Avatar of hollenaizer"> hollenaizer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#hollenaizer">Copy rank badge</a><br/>
 			Casswell Maswanganye
 		</td>
 		<td>Adcorp Group </td>
@@ -7948,7 +7950,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Nubuck">
 				<img src="https://avatars.githubusercontent.com/u/6399322?s=72&u=c5e2bc26dcedf423f4588eeeda32067749da95d8&v=4" width="24" alt="Avatar of Nubuck"> Nubuck
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Nubuck">Copy rank badge</a><br/>
 			Barry Buck
 		</td>
 		<td>No Company</td>
@@ -7961,7 +7963,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/RabiaHassen">
 				<img src="https://avatars.githubusercontent.com/u/108760453?s=72&u=c21dd28f19dacfeaf53bfae770ea01e88a64dca6&v=4" width="24" alt="Avatar of RabiaHassen"> RabiaHassen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#RabiaHassen">Copy rank badge</a><br/>
 			Rabia Hassen
 		</td>
 		<td>No Company</td>
@@ -7974,7 +7976,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ismaild">
 				<img src="https://avatars.githubusercontent.com/u/429985?s=72&v=4" width="24" alt="Avatar of ismaild"> ismaild
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ismaild">Copy rank badge</a><br/>
 			Ismail Dhorat
 		</td>
 		<td>Zyelabs </td>
@@ -7987,7 +7989,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ej52">
 				<img src="https://avatars.githubusercontent.com/u/6298706?s=72&u=abcf16b355922778855adddb6a29832aec3ec1e1&v=4" width="24" alt="Avatar of ej52"> ej52
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ej52">Copy rank badge</a><br/>
 			Elton Renda
 		</td>
 		<td>@equalexperts  </td>
@@ -8000,7 +8002,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/benmaddison">
 				<img src="https://avatars.githubusercontent.com/u/19263308?s=72&u=3a057bde5007c63b1530bb7f0f741ee9b5afecc8&v=4" width="24" alt="Avatar of benmaddison"> benmaddison
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#benmaddison">Copy rank badge</a><br/>
 			Ben Maddison
 		</td>
 		<td>Workonline Communications </td>
@@ -8013,7 +8015,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/willemodendaal">
 				<img src="https://avatars.githubusercontent.com/u/915354?s=72&u=a47323b6e6be65e8479997795c4cb1babf742688&v=4" width="24" alt="Avatar of willemodendaal"> willemodendaal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#willemodendaal">Copy rank badge</a><br/>
 			Willem Odendaal
 		</td>
 		<td>Floatpays </td>
@@ -8026,7 +8028,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ZaidMarrie">
 				<img src="https://avatars.githubusercontent.com/u/84665360?s=72&u=7c2ad831d259e810a690549db1abc2d5f63de39f&v=4" width="24" alt="Avatar of ZaidMarrie"> ZaidMarrie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ZaidMarrie">Copy rank badge</a><br/>
 			Zaid Marrie
 		</td>
 		<td>No Company</td>
@@ -8039,7 +8041,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Yonela-Johannes">
 				<img src="https://avatars.githubusercontent.com/u/69614136?s=72&u=325547b993377d3761340787b01782b5ea6181b3&v=4" width="24" alt="Avatar of Yonela-Johannes"> Yonela-Johannes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Yonela-Johannes">Copy rank badge</a><br/>
 			Yonela Johannes
 		</td>
 		<td>No Company</td>
@@ -8052,7 +8054,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/grbot">
 				<img src="https://avatars.githubusercontent.com/u/2334112?s=72&u=8a0df0b9ea9bec56ef68dc094c6fee8a7f4569a2&v=4" width="24" alt="Avatar of grbot"> grbot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#grbot">Copy rank badge</a><br/>
 			Gerrit Reinier Botha 
 		</td>
 		<td>University Of Cape Town<br/></td>
@@ -8065,7 +8067,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/BenjaminDev">
 				<img src="https://avatars.githubusercontent.com/u/11699155?s=72&u=ed7cb0cb82fdd689eb98678fd2197955c69eb057&v=4" width="24" alt="Avatar of BenjaminDev"> BenjaminDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#BenjaminDev">Copy rank badge</a><br/>
 			benjamin de charmoy
 		</td>
 		<td>No Company</td>
@@ -8078,7 +8080,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/masaimahapa">
 				<img src="https://avatars.githubusercontent.com/u/53610207?s=72&u=47cd38161a85171ed6f9a0a97880ecffa27cd4bc&v=4" width="24" alt="Avatar of masaimahapa"> masaimahapa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#masaimahapa">Copy rank badge</a><br/>
 			Masai
 		</td>
 		<td>Vuti.io </td>
@@ -8091,7 +8093,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/NTOKOZOTK">
 				<img src="https://avatars.githubusercontent.com/u/49594805?s=72&u=06cc59fb2dd58670bf1d833fb8a7db7b2d8f1392&v=4" width="24" alt="Avatar of NTOKOZOTK"> NTOKOZOTK
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#NTOKOZOTK">Copy rank badge</a><br/>
 			Ntokozo Ngcobo
 		</td>
 		<td>No Company</td>
@@ -8104,7 +8106,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/HBiSoft">
 				<img src="https://avatars.githubusercontent.com/u/35602540?s=72&u=199b0178fe28b971dec944aea33ef2e950ad80ea&v=4" width="24" alt="Avatar of HBiSoft"> HBiSoft
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#HBiSoft">Copy rank badge</a><br/>
 			Hagen Brooks
 		</td>
 		<td>No Company</td>
@@ -8117,7 +8119,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Pholisa-Fatyela">
 				<img src="https://avatars.githubusercontent.com/u/11028989?s=72&u=e1f1f0e422c2a820d2000efba14c31b51a226b2b&v=4" width="24" alt="Avatar of Pholisa-Fatyela"> Pholisa-Fatyela
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Pholisa-Fatyela">Copy rank badge</a><br/>
 			Pholisa Fatyela
 		</td>
 		<td>No Company</td>
@@ -8130,7 +8132,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/saurabhagrawal86">
 				<img src="https://avatars.githubusercontent.com/u/149760?s=72&u=6e188c09d4fce65e9d979f5069825b166121fbe6&v=4" width="24" alt="Avatar of saurabhagrawal86"> saurabhagrawal86
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#saurabhagrawal86">Copy rank badge</a><br/>
 			Saurabh Agrawal
 		</td>
 		<td>@dvt </td>
@@ -8143,7 +8145,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/LuckyNkosi">
 				<img src="https://avatars.githubusercontent.com/u/35841501?s=72&u=1a77fe60127e0de2e2819216dbdd39db9879cc3c&v=4" width="24" alt="Avatar of LuckyNkosi"> LuckyNkosi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#LuckyNkosi">Copy rank badge</a><br/>
 			Lucky Nkosi
 		</td>
 		<td>Bbd </td>
@@ -8156,7 +8158,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/cieranholmes">
 				<img src="https://avatars.githubusercontent.com/u/97479993?s=72&u=9fd7357f8666d7549027ce4b9e2c69ef5a4aff81&v=4" width="24" alt="Avatar of cieranholmes"> cieranholmes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#cieranholmes">Copy rank badge</a><br/>
 			Cieran Holmes
 		</td>
 		<td>No Company</td>
@@ -8169,7 +8171,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/chrismipi">
 				<img src="https://avatars.githubusercontent.com/u/4865875?s=72&u=7f57111edad7dfe235523cae9c1371f4b9f900d8&v=4" width="24" alt="Avatar of chrismipi"> chrismipi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#chrismipi">Copy rank badge</a><br/>
 			Makhabane Mipi
 		</td>
 		<td>Operadev </td>
@@ -8182,7 +8184,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Hlakaza">
 				<img src="https://avatars.githubusercontent.com/u/25383313?s=72&v=4" width="24" alt="Avatar of Hlakaza"> Hlakaza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Hlakaza">Copy rank badge</a><br/>
 			Lucky Hlakaza
 		</td>
 		<td>No Company</td>
@@ -8195,7 +8197,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mrackwitz">
 				<img src="https://avatars.githubusercontent.com/u/1389011?s=72&u=46eeb28ddb713a0ff2820b6a332be65043cfc94a&v=4" width="24" alt="Avatar of mrackwitz"> mrackwitz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mrackwitz">Copy rank badge</a><br/>
 			Marius Rackwitz
 		</td>
 		<td>No Company</td>
@@ -8208,7 +8210,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/petrus-jvrensburg">
 				<img src="https://avatars.githubusercontent.com/u/3660183?s=72&u=a50297be34fc66bcb17635d1de08021bb4112cbb&v=4" width="24" alt="Avatar of petrus-jvrensburg"> petrus-jvrensburg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#petrus-jvrensburg">Copy rank badge</a><br/>
 			Petrus Janse van Rensburg
 		</td>
 		<td>No Company</td>
@@ -8221,7 +8223,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/SaneMyburg">
 				<img src="https://avatars.githubusercontent.com/u/109852822?s=72&u=0c1a1c338084d83967b1bee75091b3869668a49a&v=4" width="24" alt="Avatar of SaneMyburg"> SaneMyburg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#SaneMyburg">Copy rank badge</a><br/>
 			Sane Myburg
 		</td>
 		<td>@microverseinc </td>
@@ -8234,7 +8236,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/InquisitorJax">
 				<img src="https://avatars.githubusercontent.com/u/1822976?s=72&u=33d9cf8e9c35f283cb06fbddfbc1a23a89f1659c&v=4" width="24" alt="Avatar of InquisitorJax"> InquisitorJax
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#InquisitorJax">Copy rank badge</a><br/>
 			Malcolm Jack
 		</td>
 		<td>No Company</td>
@@ -8247,7 +8249,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/evanman83">
 				<img src="https://avatars.githubusercontent.com/u/72649719?s=72&u=e3d6d0ab3fa85fca564f4f488116a2dfd878769a&v=4" width="24" alt="Avatar of evanman83"> evanman83
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#evanman83">Copy rank badge</a><br/>
 			EvanR
 		</td>
 		<td>No Company</td>
@@ -8260,7 +8262,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/iandurbach">
 				<img src="https://avatars.githubusercontent.com/u/14127459?s=72&u=1a427921970c61a28affe856ad316433d4b32ecf&v=4" width="24" alt="Avatar of iandurbach"> iandurbach
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#iandurbach">Copy rank badge</a><br/>
 			Ian Durbach
 		</td>
 		<td>University Of Cape Town<br/></td>
@@ -8273,7 +8275,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/banelemjaji">
 				<img src="https://avatars.githubusercontent.com/u/52581719?s=72&u=fdfc4e1900ec3cd75945cbfc5680f06ed5f1783e&v=4" width="24" alt="Avatar of banelemjaji"> banelemjaji
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#banelemjaji">Copy rank badge</a><br/>
 			Banele Mjaji
 		</td>
 		<td>No Company</td>
@@ -8286,7 +8288,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/chumani130">
 				<img src="https://avatars.githubusercontent.com/u/56044652?s=72&u=f3e6ca6ce127361dbef65d76c59d41aa8249fa89&v=4" width="24" alt="Avatar of chumani130"> chumani130
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#chumani130">Copy rank badge</a><br/>
 			Chumani Madikizela
 		</td>
 		<td>No Company</td>
@@ -8299,7 +8301,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/bagf">
 				<img src="https://avatars.githubusercontent.com/u/2567601?s=72&v=4" width="24" alt="Avatar of bagf"> bagf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#bagf">Copy rank badge</a><br/>
 			Rory
 		</td>
 		<td>No Company</td>
@@ -8312,7 +8314,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/JaredP94">
 				<img src="https://avatars.githubusercontent.com/u/13906915?s=72&u=74ab82a3b0721990dc9b4f12086c5d0f5a8b84ba&v=4" width="24" alt="Avatar of JaredP94"> JaredP94
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#JaredP94">Copy rank badge</a><br/>
 			Jared Ping
 		</td>
 		<td>@digitalmatter  </td>
@@ -8325,7 +8327,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Persemutengera">
 				<img src="https://avatars.githubusercontent.com/u/123206539?s=72&u=2ecc1ecdd9ca865c00ebf62a1534a24d594a51a2&v=4" width="24" alt="Avatar of Persemutengera"> Persemutengera
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Persemutengera">Copy rank badge</a><br/>
 			Perseverance Mutengera 
 		</td>
 		<td>No Company</td>
@@ -8338,7 +8340,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/dev-ted">
 				<img src="https://avatars.githubusercontent.com/u/68188559?s=72&u=2907a07e43b9b58057c45b53301060671b3b5880&v=4" width="24" alt="Avatar of dev-ted"> dev-ted
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#dev-ted">Copy rank badge</a><br/>
 			Teddy 
 		</td>
 		<td>No Company</td>
@@ -8351,7 +8353,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/aj-cloete">
 				<img src="https://avatars.githubusercontent.com/u/16252154?s=72&u=47fd264749dd44ebd63392ad2e9934b0b34585ac&v=4" width="24" alt="Avatar of aj-cloete"> aj-cloete
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#aj-cloete">Copy rank badge</a><br/>
 			AJ Cloete
 		</td>
 		<td>Yoco Technologies </td>
@@ -8364,7 +8366,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/phzietsman">
 				<img src="https://avatars.githubusercontent.com/u/11902058?s=72&u=ffaa9978d3acc2cdf345cd0701520340e21276d6&v=4" width="24" alt="Avatar of phzietsman"> phzietsman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#phzietsman">Copy rank badge</a><br/>
 			Paul Zietsman
 		</td>
 		<td>@cloudandthings  </td>
@@ -8377,7 +8379,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/codedependant">
 				<img src="https://avatars.githubusercontent.com/u/946732?s=72&u=93318eb727b69afe18844dd0c65e6c2a959da264&v=4" width="24" alt="Avatar of codedependant"> codedependant
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#codedependant">Copy rank badge</a><br/>
 			Chè Nxusani
 		</td>
 		<td>Osmosis </td>
@@ -8390,7 +8392,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/tvanzyl">
 				<img src="https://avatars.githubusercontent.com/u/1215545?s=72&v=4" width="24" alt="Avatar of tvanzyl"> tvanzyl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#tvanzyl">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>University Of Johannesburg </td>
@@ -8403,7 +8405,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/khanyakupelo01">
 				<img src="https://avatars.githubusercontent.com/u/58774118?s=72&u=99d8add7ad909b015a030dadeb4ee1fcf8da7736&v=4" width="24" alt="Avatar of khanyakupelo01"> khanyakupelo01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#khanyakupelo01">Copy rank badge</a><br/>
 			Khanya Kupelo
 		</td>
 		<td>No Company</td>
@@ -8416,7 +8418,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/zpatienc">
 				<img src="https://avatars.githubusercontent.com/u/13217657?s=72&v=4" width="24" alt="Avatar of zpatienc"> zpatienc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#zpatienc">Copy rank badge</a><br/>
 			Zainul
 		</td>
 		<td>No Company</td>
@@ -8429,7 +8431,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/boitshepo97">
 				<img src="https://avatars.githubusercontent.com/u/54136739?s=72&u=a16a293cac4c00c818883e223039ed5c425cf77f&v=4" width="24" alt="Avatar of boitshepo97"> boitshepo97
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#boitshepo97">Copy rank badge</a><br/>
 			Boitshepo Masemola
 		</td>
 		<td>Tih </td>
@@ -8442,7 +8444,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/kleinric">
 				<img src="https://avatars.githubusercontent.com/u/631780?s=72&v=4" width="24" alt="Avatar of kleinric"> kleinric
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#kleinric">Copy rank badge</a><br/>
 			Richard Klein
 		</td>
 		<td>No Company</td>
@@ -8455,7 +8457,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/molorane">
 				<img src="https://avatars.githubusercontent.com/u/12952798?s=72&u=6f870c0cd90ea783fb526226abae4b5369cf9923&v=4" width="24" alt="Avatar of molorane"> molorane
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#molorane">Copy rank badge</a><br/>
 			Mothusi Molorane
 		</td>
 		<td>Standard Bank </td>
@@ -8468,7 +8470,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/aksharbhagwandin">
 				<img src="https://avatars.githubusercontent.com/u/10631015?s=72&u=23519e067d662039d87af4aabe30d3beb388fcd8&v=4" width="24" alt="Avatar of aksharbhagwandin"> aksharbhagwandin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#aksharbhagwandin">Copy rank badge</a><br/>
 			Akshar
 		</td>
 		<td>No Company</td>
@@ -8481,7 +8483,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/suprememoocow">
 				<img src="https://avatars.githubusercontent.com/u/594566?s=72&v=4" width="24" alt="Avatar of suprememoocow"> suprememoocow
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#suprememoocow">Copy rank badge</a><br/>
 			Andrew Newdigate
 		</td>
 		<td>Gitlab Inc. </td>
@@ -8494,7 +8496,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Naledi-Dikgale">
 				<img src="https://avatars.githubusercontent.com/u/117156742?s=72&u=ae8c5b9969f5305c3d1465b8924dd2479ebd2a9d&v=4" width="24" alt="Avatar of Naledi-Dikgale"> Naledi-Dikgale
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Naledi-Dikgale">Copy rank badge</a><br/>
 			Naledi
 		</td>
 		<td>Microverse </td>
@@ -8507,7 +8509,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/donovanmuller">
 				<img src="https://avatars.githubusercontent.com/u/1175891?s=72&u=f444a2d0502bbd55d15331b55c1491140e0a0b29&v=4" width="24" alt="Avatar of donovanmuller"> donovanmuller
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#donovanmuller">Copy rank badge</a><br/>
 			Donovan Muller
 		</td>
 		<td>Absa Group Ltd </td>
@@ -8520,7 +8522,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/circlingthesun">
 				<img src="https://avatars.githubusercontent.com/u/1028632?s=72&u=73fc8c14e12b0bb0f26e98ad6c5e85426dc2f368&v=4" width="24" alt="Avatar of circlingthesun"> circlingthesun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#circlingthesun">Copy rank badge</a><br/>
 			Rickert Mulder
 		</td>
 		<td>No Company</td>
@@ -8533,7 +8535,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/LadySith">
 				<img src="https://avatars.githubusercontent.com/u/9806760?s=72&u=eca46b87df3f70f905632fbcaed8c640b2d312aa&v=4" width="24" alt="Avatar of LadySith"> LadySith
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#LadySith">Copy rank badge</a><br/>
 			Sithe Ncube
 		</td>
 		<td>No Company</td>
@@ -8546,7 +8548,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/HanjoStudy">
 				<img src="https://avatars.githubusercontent.com/u/12710800?s=72&u=cbe709b567870ed1a65d162513e34ab0a5496854&v=4" width="24" alt="Avatar of HanjoStudy"> HanjoStudy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#HanjoStudy">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8559,7 +8561,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/CmdrDats">
 				<img src="https://avatars.githubusercontent.com/u/1006584?s=72&u=7a8e8bf25862761b3f40c61fd4a414ad40057270&v=4" width="24" alt="Avatar of CmdrDats"> CmdrDats
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#CmdrDats">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8572,7 +8574,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/aamir-asaram">
 				<img src="https://avatars.githubusercontent.com/u/76215321?s=72&u=6bdb2b70d7575e3a23ccd6a366b4b153cce65f69&v=4" width="24" alt="Avatar of aamir-asaram"> aamir-asaram
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#aamir-asaram">Copy rank badge</a><br/>
 			Aamir Asaram
 		</td>
 		<td>No Company</td>
@@ -8585,7 +8587,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/evanchristians">
 				<img src="https://avatars.githubusercontent.com/u/41146113?s=72&u=cbddf40d60aa2111d63b922e77e8eff7a27b9e6e&v=4" width="24" alt="Avatar of evanchristians"> evanchristians
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#evanchristians">Copy rank badge</a><br/>
 			Evan Christians
 		</td>
 		<td>Flexperto.com </td>
@@ -8598,7 +8600,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/DewaldFourie">
 				<img src="https://avatars.githubusercontent.com/u/66355688?s=72&v=4" width="24" alt="Avatar of DewaldFourie"> DewaldFourie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#DewaldFourie">Copy rank badge</a><br/>
 			Dewald Fourie
 		</td>
 		<td>Developer </td>
@@ -8611,7 +8613,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Nghondzweni">
 				<img src="https://avatars.githubusercontent.com/u/25883274?s=72&u=5cf87cbf8d98ec593187dbd99aa4cb957be19194&v=4" width="24" alt="Avatar of Nghondzweni"> Nghondzweni
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Nghondzweni">Copy rank badge</a><br/>
 			Tsundzukani
 		</td>
 		<td>No Company</td>
@@ -8624,7 +8626,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/SanvirDessai">
 				<img src="https://avatars.githubusercontent.com/u/20380970?s=72&u=809d50e4248acfaf7dc01c624b95facf736e633a&v=4" width="24" alt="Avatar of SanvirDessai"> SanvirDessai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#SanvirDessai">Copy rank badge</a><br/>
 			Sanvir Dessai
 		</td>
 		<td>No Company</td>
@@ -8637,7 +8639,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Taetse">
 				<img src="https://avatars.githubusercontent.com/u/23291091?s=72&u=ed165e80c394cda4978435eb2872cd310ff8498b&v=4" width="24" alt="Avatar of Taetse"> Taetse
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Taetse">Copy rank badge</a><br/>
 			Taetse Durand 
 		</td>
 		<td>No Company</td>
@@ -8650,7 +8652,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/cjlotz">
 				<img src="https://avatars.githubusercontent.com/u/1300847?s=72&u=eda3ff046ebc43edd6be46559c91bb18b12d4ef8&v=4" width="24" alt="Avatar of cjlotz"> cjlotz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#cjlotz">Copy rank badge</a><br/>
 			Carel Lotz
 		</td>
 		<td>No Company</td>
@@ -8663,7 +8665,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Roebou1989">
 				<img src="https://avatars.githubusercontent.com/u/52892685?s=72&u=893a926caf3fd85639f27aaa5839c76dfa7ff005&v=4" width="24" alt="Avatar of Roebou1989"> Roebou1989
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Roebou1989">Copy rank badge</a><br/>
 			Rohan de Jongh
 		</td>
 		<td>No Company</td>
@@ -8676,7 +8678,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/RasoolBooley">
 				<img src="https://avatars.githubusercontent.com/u/45028873?s=72&u=b9ec3b4f6fb4edd2c0afd646a42485f0ab8850a2&v=4" width="24" alt="Avatar of RasoolBooley"> RasoolBooley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#RasoolBooley">Copy rank badge</a><br/>
 			Rasool Booley
 		</td>
 		<td>No Company</td>
@@ -8689,7 +8691,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/puzzledvacuum">
 				<img src="https://avatars.githubusercontent.com/u/17252265?s=72&u=f87dd2fa31bf5c35a9e683d9b17c52b423533d70&v=4" width="24" alt="Avatar of puzzledvacuum"> puzzledvacuum
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#puzzledvacuum">Copy rank badge</a><br/>
 			Peter Frescura
 		</td>
 		<td>No Company</td>
@@ -8702,7 +8704,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/qawemlilo">
 				<img src="https://avatars.githubusercontent.com/u/363359?s=72&u=5cb7d7131083d938ffcdb6c7686116d173ed3ae4&v=4" width="24" alt="Avatar of qawemlilo"> qawemlilo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#qawemlilo">Copy rank badge</a><br/>
 			Qawelesizwe Mlilo
 		</td>
 		<td>Raging Flame </td>
@@ -8715,7 +8717,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/VernonGrant">
 				<img src="https://avatars.githubusercontent.com/u/5819017?s=72&u=b2144152fbdcb8ff7090f30342a17d27aa8cbb8d&v=4" width="24" alt="Avatar of VernonGrant"> VernonGrant
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#VernonGrant">Copy rank badge</a><br/>
 			Vernon Grant
 		</td>
 		<td>@twothreebird </td>
@@ -8728,7 +8730,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/shai-04">
 				<img src="https://avatars.githubusercontent.com/u/91010705?s=72&u=82950edd08522dbad8ca4c9e198dc063edd10687&v=4" width="24" alt="Avatar of shai-04"> shai-04
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#shai-04">Copy rank badge</a><br/>
 			Shaiyur Dooken
 		</td>
 		<td>Aurum Signature Studios </td>
@@ -8741,7 +8743,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/JustinPedersen">
 				<img src="https://avatars.githubusercontent.com/u/30386343?s=72&u=295edb5bb19676b316f849e7ef66f35941a42dbc&v=4" width="24" alt="Avatar of JustinPedersen"> JustinPedersen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#JustinPedersen">Copy rank badge</a><br/>
 			Justin Pedersen
 		</td>
 		<td>Ninja Theory </td>
@@ -8754,7 +8756,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/givenkiban1">
 				<img src="https://avatars.githubusercontent.com/u/42853516?s=72&u=84927c9e092bde9accd04e1ee1a2513708b8c214&v=4" width="24" alt="Avatar of givenkiban1"> givenkiban1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#givenkiban1">Copy rank badge</a><br/>
 			Given Kibanza
 		</td>
 		<td>@gintecsolutions  </td>
@@ -8767,7 +8769,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/sgigaba">
 				<img src="https://avatars.githubusercontent.com/u/43130772?s=72&u=d07bc7178af31d513349450e529602ae693b6c4e&v=4" width="24" alt="Avatar of sgigaba"> sgigaba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#sgigaba">Copy rank badge</a><br/>
 			Samkelo Gigaba
 		</td>
 		<td>No Company</td>
@@ -8780,7 +8782,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/chop-dev">
 				<img src="https://avatars.githubusercontent.com/u/19818797?s=72&u=76df3f425056c47daa6792a880dca0f9da617a70&v=4" width="24" alt="Avatar of chop-dev"> chop-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#chop-dev">Copy rank badge</a><br/>
 			Raynard Vermeulen
 		</td>
 		<td>@faustlink </td>
@@ -8793,7 +8795,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Paballo-R">
 				<img src="https://avatars.githubusercontent.com/u/101789330?s=72&u=688e4e65586a160cf91cac0c1ad864bdd7937e27&v=4" width="24" alt="Avatar of Paballo-R"> Paballo-R
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Paballo-R">Copy rank badge</a><br/>
 			Paballo Mampshika
 		</td>
 		<td>No Company</td>
@@ -8806,7 +8808,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/xdossantos">
 				<img src="https://avatars.githubusercontent.com/u/39842595?s=72&u=7a46c4bc6ef709a3b5a75b3db3602da4db927ebe&v=4" width="24" alt="Avatar of xdossantos"> xdossantos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#xdossantos">Copy rank badge</a><br/>
 			Xola dos Santos
 		</td>
 		<td>Xdode Information Systems </td>
@@ -8819,7 +8821,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Philani5674">
 				<img src="https://avatars.githubusercontent.com/u/62145841?s=72&u=1dc93f68b6d17e070f0e9b5d3b8b6681dc697f3e&v=4" width="24" alt="Avatar of Philani5674"> Philani5674
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Philani5674">Copy rank badge</a><br/>
 			Philani Ngcamu
 		</td>
 		<td>No Company</td>
@@ -8832,7 +8834,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/DouglasVDM">
 				<img src="https://avatars.githubusercontent.com/u/74470226?s=72&u=3a3f1bad9ca233f1aa0e56bbc20bc3e00b72a1bd&v=4" width="24" alt="Avatar of DouglasVDM"> DouglasVDM
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#DouglasVDM">Copy rank badge</a><br/>
 			Douglas Van Der Merwe
 		</td>
 		<td>@sentianza </td>
@@ -8845,7 +8847,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/TheeAndre">
 				<img src="https://avatars.githubusercontent.com/u/800363?s=72&u=fe7eda9192745fd1a9d71e1c03adfcab120c3ba0&v=4" width="24" alt="Avatar of TheeAndre"> TheeAndre
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#TheeAndre">Copy rank badge</a><br/>
 			Andre Imbayago
 		</td>
 		<td>No Company</td>
@@ -8858,7 +8860,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/thefanclub">
 				<img src="https://avatars.githubusercontent.com/u/3775580?s=72&u=379cd8e71f82d87b085ee3d45c3450d937db5ff8&v=4" width="24" alt="Avatar of thefanclub"> thefanclub
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#thefanclub">Copy rank badge</a><br/>
 			The Fan Club
 		</td>
 		<td>The Fan Club </td>
@@ -8871,7 +8873,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/CrytonAndrew">
 				<img src="https://avatars.githubusercontent.com/u/59775865?s=72&u=1fd17af6a021741f97027ca04721637b78676c81&v=4" width="24" alt="Avatar of CrytonAndrew"> CrytonAndrew
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#CrytonAndrew">Copy rank badge</a><br/>
 			Cryton Sibanda
 		</td>
 		<td>No Company</td>
@@ -8884,7 +8886,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/janmbuys">
 				<img src="https://avatars.githubusercontent.com/u/11444669?s=72&u=6ba66c66ccaee7c25c86cabcd66c1e87e87412fc&v=4" width="24" alt="Avatar of janmbuys"> janmbuys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#janmbuys">Copy rank badge</a><br/>
 			Jan Buys
 		</td>
 		<td>No Company</td>
@@ -8897,7 +8899,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/stacyjeptha">
 				<img src="https://avatars.githubusercontent.com/u/490488?s=72&v=4" width="24" alt="Avatar of stacyjeptha"> stacyjeptha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#stacyjeptha">Copy rank badge</a><br/>
 			Stacy Jeptha
 		</td>
 		<td>Achievement Awards Group (pty)<br/>Ltd.<br/></td>
@@ -8910,7 +8912,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/TamirShklaz">
 				<img src="https://avatars.githubusercontent.com/u/29455240?s=72&u=94f467013f8570439cca80196afd167522d0af49&v=4" width="24" alt="Avatar of TamirShklaz"> TamirShklaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#TamirShklaz">Copy rank badge</a><br/>
 			Tamir Shklaz
 		</td>
 		<td>No Company</td>
@@ -8923,7 +8925,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/dthompsonza">
 				<img src="https://avatars.githubusercontent.com/u/769513?s=72&u=8bb4371f1463d71a43eb021263fc13d393fd0acf&v=4" width="24" alt="Avatar of dthompsonza"> dthompsonza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#dthompsonza">Copy rank badge</a><br/>
 			Dave Thompson
 		</td>
 		<td>Somewhere Out There </td>
@@ -8936,7 +8938,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MortonDalla">
 				<img src="https://avatars.githubusercontent.com/u/40450881?s=72&u=fb2fc25f4f7539b81a6d792af4cc25ac2e35f9fa&v=4" width="24" alt="Avatar of MortonDalla"> MortonDalla
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MortonDalla">Copy rank badge</a><br/>
 			morton-dalla
 		</td>
 		<td>No Company</td>
@@ -8949,7 +8951,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/diamondobama">
 				<img src="https://avatars.githubusercontent.com/u/7268931?s=72&u=2e792fb0239f27f8a2a9ad8cc1824f1890c2f27c&v=4" width="24" alt="Avatar of diamondobama"> diamondobama
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#diamondobama">Copy rank badge</a><br/>
 			Diamond Mubaarak
 		</td>
 		<td>Diamond Dev Group </td>
@@ -8962,7 +8964,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/cairin">
 				<img src="https://avatars.githubusercontent.com/u/10084084?s=72&u=bee9a4e58d184d6c545884ced3ab25d1e7c63e89&v=4" width="24" alt="Avatar of cairin"> cairin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#cairin">Copy rank badge</a><br/>
 			Cairin Michie
 		</td>
 		<td>@fynbosmoney  </td>
@@ -8975,7 +8977,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/mchall">
 				<img src="https://avatars.githubusercontent.com/u/3825339?s=72&u=da79d8244851dfe9d1d93ad121c501784872e1f5&v=4" width="24" alt="Avatar of mchall"> mchall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#mchall">Copy rank badge</a><br/>
 			Mike Hall
 		</td>
 		<td>No Company</td>
@@ -8988,7 +8990,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/tmuzanenhamo">
 				<img src="https://avatars.githubusercontent.com/u/45859685?s=72&u=75926f1101b575ca538c0386749dfd8153ddd0ab&v=4" width="24" alt="Avatar of tmuzanenhamo"> tmuzanenhamo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#tmuzanenhamo">Copy rank badge</a><br/>
 			Tawanda Muzanenhamo
 		</td>
 		<td>No Company</td>
@@ -9001,7 +9003,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/zmaqutu">
 				<img src="https://avatars.githubusercontent.com/u/39608194?s=72&u=e386cf728969b30326a7b550c22a89a48a799924&v=4" width="24" alt="Avatar of zmaqutu"> zmaqutu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#zmaqutu">Copy rank badge</a><br/>
 			Zongo Maqutu
 		</td>
 		<td>University Of Cape Town<br/></td>
@@ -9014,7 +9016,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Ms-P-Hub">
 				<img src="https://avatars.githubusercontent.com/u/124253391?s=72&u=5844c1c76827108e955c26d2b11992c8983ea1bc&v=4" width="24" alt="Avatar of Ms-P-Hub"> Ms-P-Hub
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Ms-P-Hub">Copy rank badge</a><br/>
 			Gugu Precious Mokwena
 		</td>
 		<td>@wethinkcode_ </td>
@@ -9027,7 +9029,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/nogesiyasanga">
 				<img src="https://avatars.githubusercontent.com/u/136093300?s=72&u=ff0b44e01f80445fe32250c8b2c1d859f8129c2c&v=4" width="24" alt="Avatar of nogesiyasanga"> nogesiyasanga
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#nogesiyasanga">Copy rank badge</a><br/>
 			Siyasanga Noge
 		</td>
 		<td>No Company</td>
@@ -9040,7 +9042,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/GeredaDotNet">
 				<img src="https://avatars.githubusercontent.com/u/77052694?s=72&u=2d2d424bb761c80951d7b44f99997991f495df66&v=4" width="24" alt="Avatar of GeredaDotNet"> GeredaDotNet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#GeredaDotNet">Copy rank badge</a><br/>
 			Mukwevho
 		</td>
 		<td>No Company</td>
@@ -9053,7 +9055,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/gauta-dev">
 				<img src="https://avatars.githubusercontent.com/u/58868373?s=72&u=b6c24c36624df1d9d783acfd52e1f1d3b57c82ae&v=4" width="24" alt="Avatar of gauta-dev"> gauta-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#gauta-dev">Copy rank badge</a><br/>
 			Gauta Ncholo
 		</td>
 		<td>Gnt Technology </td>
@@ -9066,7 +9068,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/TheMorgz">
 				<img src="https://avatars.githubusercontent.com/u/4815589?s=72&v=4" width="24" alt="Avatar of TheMorgz"> TheMorgz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#TheMorgz">Copy rank badge</a><br/>
 			Morgan Shadung
 		</td>
 		<td>No Company</td>
@@ -9079,7 +9081,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/toast38coza">
 				<img src="https://avatars.githubusercontent.com/u/517966?s=72&v=4" width="24" alt="Avatar of toast38coza"> toast38coza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#toast38coza">Copy rank badge</a><br/>
 			Christo Crampton
 		</td>
 		<td>Tangent Solutions </td>
@@ -9092,7 +9094,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/highvoltage">
 				<img src="https://avatars.githubusercontent.com/u/117850?s=72&u=7f4c3f34d4cf40b6e6c22a6fa721be3f72d9935a&v=4" width="24" alt="Avatar of highvoltage"> highvoltage
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#highvoltage">Copy rank badge</a><br/>
 			Jonathan Carter
 		</td>
 		<td>No Company</td>
@@ -9105,7 +9107,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Ayano2000">
 				<img src="https://avatars.githubusercontent.com/u/47319672?s=72&u=0c2de7fe185c449390ac1f791722086f323e6ef8&v=4" width="24" alt="Avatar of Ayano2000"> Ayano2000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Ayano2000">Copy rank badge</a><br/>
 			Arata Yano
 		</td>
 		<td>Stock2shop </td>
@@ -9118,7 +9120,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/5iDS">
 				<img src="https://avatars.githubusercontent.com/u/1865463?s=72&v=4" width="24" alt="Avatar of 5iDS"> 5iDS
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#5iDS">Copy rank badge</a><br/>
 			Max
 		</td>
 		<td>5ive Design Studio </td>
@@ -9131,7 +9133,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Devbriax">
 				<img src="https://avatars.githubusercontent.com/u/61142054?s=72&u=0a179ce4c7c165f44a31664736f04910653a7302&v=4" width="24" alt="Avatar of Devbriax"> Devbriax
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Devbriax">Copy rank badge</a><br/>
 			Brian JL. Mabaso| MBxO
 		</td>
 		<td>No Company</td>
@@ -9144,7 +9146,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/LukeStonehm">
 				<img src="https://avatars.githubusercontent.com/u/5001686?s=72&u=a82ae1f0f241994f2afd46db967769cf20026945&v=4" width="24" alt="Avatar of LukeStonehm"> LukeStonehm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#LukeStonehm">Copy rank badge</a><br/>
 			LukeStoneHm
 		</td>
 		<td>Touchfoundry </td>
@@ -9157,7 +9159,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/matdehaast">
 				<img src="https://avatars.githubusercontent.com/u/12172996?s=72&u=17fcc0f88afe0f6c5f230d60264bf1413e623d41&v=4" width="24" alt="Avatar of matdehaast"> matdehaast
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#matdehaast">Copy rank badge</a><br/>
 			Matthew de Haast
 		</td>
 		<td>@fynbosmoney </td>
@@ -9170,7 +9172,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Ksimz">
 				<img src="https://avatars.githubusercontent.com/u/40968095?s=72&u=cef18826a4715488af07f8cc535ef0612dbf33a5&v=4" width="24" alt="Avatar of Ksimz"> Ksimz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Ksimz">Copy rank badge</a><br/>
 			Kudzai Simau
 		</td>
 		<td>No Company</td>
@@ -9183,7 +9185,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/giftmbanda">
 				<img src="https://avatars.githubusercontent.com/u/16929138?s=72&u=e767197fbc7eea563883d38fc51049b50374716e&v=4" width="24" alt="Avatar of giftmbanda"> giftmbanda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#giftmbanda">Copy rank badge</a><br/>
 			Gift Banda
 		</td>
 		<td>Standard Bank Group </td>
@@ -9196,7 +9198,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/chearenz">
 				<img src="https://avatars.githubusercontent.com/u/25976804?s=72&u=e50c2b92c75a5a74853b31d07644d7042d975247&v=4" width="24" alt="Avatar of chearenz"> chearenz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#chearenz">Copy rank badge</a><br/>
 			Ché Arenz
 		</td>
 		<td>No Company</td>
@@ -9209,7 +9211,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/JordanKadish">
 				<img src="https://avatars.githubusercontent.com/u/13508439?s=72&u=750539cd0ab97000b6cac164a8f1eac6e6969942&v=4" width="24" alt="Avatar of JordanKadish"> JordanKadish
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#JordanKadish">Copy rank badge</a><br/>
 			Jordan Kadish
 		</td>
 		<td>No Company</td>
@@ -9222,7 +9224,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/manenga">
 				<img src="https://avatars.githubusercontent.com/u/10142421?s=72&u=64c6a2dc52301e1a6e8d507410efb7475a3c57ed&v=4" width="24" alt="Avatar of manenga"> manenga
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#manenga">Copy rank badge</a><br/>
 			Manenga Mungandi
 		</td>
 		<td>No Company</td>
@@ -9235,7 +9237,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/EndzDrink">
 				<img src="https://avatars.githubusercontent.com/u/107040911?s=72&u=9713b9106a676c10040942cea7944ab75b98feaf&v=4" width="24" alt="Avatar of EndzDrink"> EndzDrink
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#EndzDrink">Copy rank badge</a><br/>
 			Andy Mthembu
 		</td>
 		<td>Zamambotelecomms </td>
@@ -9248,7 +9250,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/MondeLionel">
 				<img src="https://avatars.githubusercontent.com/u/8441731?s=72&u=cb891b801aca64fe33f1bf0b35b5bb5988e8b764&v=4" width="24" alt="Avatar of MondeLionel"> MondeLionel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#MondeLionel">Copy rank badge</a><br/>
 			Monde
 		</td>
 		<td>No Company</td>
@@ -9261,7 +9263,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/gear4s">
 				<img src="https://avatars.githubusercontent.com/u/832900?s=72&u=618031001788d2d3a094fedc3f4277afd5be6b25&v=4" width="24" alt="Avatar of gear4s"> gear4s
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#gear4s">Copy rank badge</a><br/>
 			Aaron Marais
 		</td>
 		<td>@team-tenacious  </td>
@@ -9274,7 +9276,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/danogwok">
 				<img src="https://avatars.githubusercontent.com/u/2078436?s=72&u=d90ad2a6b8dd0b12edc020e0f7f8e49169b146ca&v=4" width="24" alt="Avatar of danogwok"> danogwok
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#danogwok">Copy rank badge</a><br/>
 			Daniel
 		</td>
 		<td>No Company</td>
@@ -9287,7 +9289,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Arnold-A-Mubaiwa">
 				<img src="https://avatars.githubusercontent.com/u/42342141?s=72&u=eeee33ff62507c246652b004c1ed76b6c20f9111&v=4" width="24" alt="Avatar of Arnold-A-Mubaiwa"> Arnold-A-Mubaiwa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Arnold-A-Mubaiwa">Copy rank badge</a><br/>
 			Arnold Mubaiwa
 		</td>
 		<td>No Company</td>
@@ -9300,7 +9302,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/NateNM">
 				<img src="https://avatars.githubusercontent.com/u/111265578?s=72&u=db6e599cad44f221a33f88ad7a746adebc2b7cf7&v=4" width="24" alt="Avatar of NateNM"> NateNM
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#NateNM">Copy rank badge</a><br/>
 			Nathaniel Nate Mguli
 		</td>
 		<td>Building Credit Management </td>
@@ -9313,7 +9315,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/rogerwcpt">
 				<img src="https://avatars.githubusercontent.com/u/13134927?s=72&u=bf13cd46f241f1877ba11e423428ffc35d71e5c6&v=4" width="24" alt="Avatar of rogerwcpt"> rogerwcpt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#rogerwcpt">Copy rank badge</a><br/>
 			Roger Weiss
 		</td>
 		<td>Weiss Digital </td>
@@ -9326,7 +9328,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/samlanz04">
 				<img src="https://avatars.githubusercontent.com/u/99680162?s=72&u=24ef570476e8f825cf7f316082f64c75c5c6f7dc&v=4" width="24" alt="Avatar of samlanz04"> samlanz04
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#samlanz04">Copy rank badge</a><br/>
 			lavisa mlanzeli
 		</td>
 		<td>No Company</td>
@@ -9339,7 +9341,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/nDiv">
 				<img src="https://avatars.githubusercontent.com/u/12632943?s=72&u=908b1e3f3d1b8c8b1883bef23bec9a40b9392e30&v=4" width="24" alt="Avatar of nDiv"> nDiv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#nDiv">Copy rank badge</a><br/>
 			Ndivhuwo Makondo
 		</td>
 		<td>Ibm Research - Africa<br/></td>
@@ -9352,7 +9354,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/darzo27">
 				<img src="https://avatars.githubusercontent.com/u/13764436?s=72&u=49f5d555d327e6d39309cf3f60abe3cb9c02e971&v=4" width="24" alt="Avatar of darzo27"> darzo27
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#darzo27">Copy rank badge</a><br/>
 			D K
 		</td>
 		<td>No Company</td>
@@ -9365,7 +9367,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ShaunEgan">
 				<img src="https://avatars.githubusercontent.com/u/5261827?s=72&u=95189f576f22a94717a94cadff1dbed535ee69d5&v=4" width="24" alt="Avatar of ShaunEgan"> ShaunEgan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ShaunEgan">Copy rank badge</a><br/>
 			Shaun Egan
 		</td>
 		<td>Deimos Cloud </td>
@@ -9378,7 +9380,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Supreme-Zungula">
 				<img src="https://avatars.githubusercontent.com/u/29781701?s=72&u=d16e2ae6a49ed9fbf1cf44873ba7bb9e0b767a74&v=4" width="24" alt="Avatar of Supreme-Zungula"> Supreme-Zungula
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Supreme-Zungula">Copy rank badge</a><br/>
 			Yamkela  Zungula
 		</td>
 		<td>Morae Global </td>
@@ -9391,7 +9393,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/bamvans">
 				<img src="https://avatars.githubusercontent.com/u/23016386?s=72&u=f03c965898aa3905ac6ac7c349290d6d829c8233&v=4" width="24" alt="Avatar of bamvans"> bamvans
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#bamvans">Copy rank badge</a><br/>
 			Stacey Nunez
 		</td>
 		<td>Confluence </td>
@@ -9404,7 +9406,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/clivecrous">
 				<img src="https://avatars.githubusercontent.com/u/9338?s=72&v=4" width="24" alt="Avatar of clivecrous"> clivecrous
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#clivecrous">Copy rank badge</a><br/>
 			Clive Crous
 		</td>
 		<td>Darkarts Studios </td>
@@ -9417,7 +9419,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/vhlnd">
 				<img src="https://avatars.githubusercontent.com/u/44393182?s=72&u=0bf08f4700d6c68bd1457b8d5e49e3f79e91ddb7&v=4" width="24" alt="Avatar of vhlnd"> vhlnd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#vhlnd">Copy rank badge</a><br/>
 			Innocent V.I.
 		</td>
 		<td>No Company</td>
@@ -9430,7 +9432,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/micah5">
 				<img src="https://avatars.githubusercontent.com/u/40206415?s=72&u=cdae4249e154eef92092e75d6850220323a28153&v=4" width="24" alt="Avatar of micah5"> micah5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#micah5">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9443,7 +9445,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/itvarsity">
 				<img src="https://avatars.githubusercontent.com/u/73164726?s=72&u=fbefd590ce1864ec2a6a62c63437778c0769ed9b&v=4" width="24" alt="Avatar of itvarsity"> itvarsity
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#itvarsity">Copy rank badge</a><br/>
 			IT varsity
 		</td>
 		<td>It Varsity </td>
@@ -9456,7 +9458,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/taliesinb">
 				<img src="https://avatars.githubusercontent.com/u/365157?s=72&u=648fc28c49596d2a846c36581cbbe47ae021b5f0&v=4" width="24" alt="Avatar of taliesinb"> taliesinb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#taliesinb">Copy rank badge</a><br/>
 			Taliesin Beynon
 		</td>
 		<td>No Company</td>
@@ -9469,7 +9471,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/aaliyah-jardien">
 				<img src="https://avatars.githubusercontent.com/u/82204946?s=72&u=6b622bbc5adcc7b2fecc6bbe16b2bd0243d31bcd&v=4" width="24" alt="Avatar of aaliyah-jardien"> aaliyah-jardien
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#aaliyah-jardien">Copy rank badge</a><br/>
 			Aaliyah Jardien
 		</td>
 		<td>No Company</td>
@@ -9482,7 +9484,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/cogeorg">
 				<img src="https://avatars.githubusercontent.com/u/7039845?s=72&u=9df3623bdf613898e7607fdb0ed02c039497dd6c&v=4" width="24" alt="Avatar of cogeorg"> cogeorg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#cogeorg">Copy rank badge</a><br/>
 			Co-Pierre Georg
 		</td>
 		<td>Uct </td>
@@ -9495,7 +9497,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Xperimance">
 				<img src="https://avatars.githubusercontent.com/u/137794719?s=72&u=0da798c90cedb861e2f2576ddec12e1bb2557ebf&v=4" width="24" alt="Avatar of Xperimance"> Xperimance
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Xperimance">Copy rank badge</a><br/>
 			Dale Hendricks
 		</td>
 		<td>Dlk Group </td>
@@ -9508,7 +9510,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/lungamalinga">
 				<img src="https://avatars.githubusercontent.com/u/76551648?s=72&u=6abc56e083792a2a31cdc212923f80cc6ce460cc&v=4" width="24" alt="Avatar of lungamalinga"> lungamalinga
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#lungamalinga">Copy rank badge</a><br/>
 			Lunga Malinga
 		</td>
 		<td>No Company</td>
@@ -9521,7 +9523,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Taffy4467">
 				<img src="https://avatars.githubusercontent.com/u/111084392?s=72&v=4" width="24" alt="Avatar of Taffy4467"> Taffy4467
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Taffy4467">Copy rank badge</a><br/>
 			Taffy
 		</td>
 		<td>No Company</td>
@@ -9534,7 +9536,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/coeniebeyers">
 				<img src="https://avatars.githubusercontent.com/u/5429884?s=72&v=4" width="24" alt="Avatar of coeniebeyers"> coeniebeyers
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#coeniebeyers">Copy rank badge</a><br/>
 			Coenie Beyers
 		</td>
 		<td>No Company</td>
@@ -9547,7 +9549,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/fallengravity">
 				<img src="https://avatars.githubusercontent.com/u/37632291?s=72&u=f47f901411cb86b344a7f2352e4cc33608359cc5&v=4" width="24" alt="Avatar of fallengravity"> fallengravity
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#fallengravity">Copy rank badge</a><br/>
 			Ethan van Ballegooyen
 		</td>
 		<td>Gravity Enterprises </td>
@@ -9560,7 +9562,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/yokimpillay">
 				<img src="https://avatars.githubusercontent.com/u/25602516?s=72&u=f4a671e6ad388a0ff33af594a1323c82c7acf8e8&v=4" width="24" alt="Avatar of yokimpillay"> yokimpillay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#yokimpillay">Copy rank badge</a><br/>
 			Yokim Pillay
 		</td>
 		<td>No Company</td>
@@ -9573,7 +9575,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/joaonzangoII">
 				<img src="https://avatars.githubusercontent.com/u/5413892?s=72&u=89d5c38e1f32a32c7acf8d38489c130357e2d647&v=4" width="24" alt="Avatar of joaonzangoII"> joaonzangoII
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#joaonzangoII">Copy rank badge</a><br/>
 			Joao Nzango II
 		</td>
 		<td>@tchiowahub </td>
@@ -9586,7 +9588,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/dmt">
 				<img src="https://avatars.githubusercontent.com/u/11664?s=72&v=4" width="24" alt="Avatar of dmt"> dmt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#dmt">Copy rank badge</a><br/>
 			Daniel Temme
 		</td>
 		<td>@entelect </td>
@@ -9599,7 +9601,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/CaptainCuddleCube">
 				<img src="https://avatars.githubusercontent.com/u/10521116?s=72&u=7f5a5b97490d563619039dee14b023c19b7d56b6&v=4" width="24" alt="Avatar of CaptainCuddleCube"> CaptainCuddleCube
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#CaptainCuddleCube">Copy rank badge</a><br/>
 			Ashton Hudson
 		</td>
 		<td>@aruba-uxi </td>
@@ -9612,7 +9614,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ksekwamote">
 				<img src="https://avatars.githubusercontent.com/u/32220345?s=72&u=ad4c1d747061e3e166e5cff4fee63315f1d1f4d4&v=4" width="24" alt="Avatar of ksekwamote"> ksekwamote
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ksekwamote">Copy rank badge</a><br/>
 			Kutlo Sekwamote
 		</td>
 		<td>No Company</td>
@@ -9625,7 +9627,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ryanza">
 				<img src="https://avatars.githubusercontent.com/u/100300?s=72&u=ac9c652904b0afd29d0e6f8a023b45fe1c0fd63b&v=4" width="24" alt="Avatar of ryanza"> ryanza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ryanza">Copy rank badge</a><br/>
 			Ryan Oberholzer
 		</td>
 		<td>@ryanza </td>
@@ -9638,7 +9640,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/aminggs">
 				<img src="https://avatars.githubusercontent.com/u/156370?s=72&v=4" width="24" alt="Avatar of aminggs"> aminggs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#aminggs">Copy rank badge</a><br/>
 			Andrew Inggs
 		</td>
 		<td>No Company</td>
@@ -9651,7 +9653,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/felixchalumeau">
 				<img src="https://avatars.githubusercontent.com/u/49362657?s=72&u=c6f6449a94fb1fc7c74c361223989879cce09f76&v=4" width="24" alt="Avatar of felixchalumeau"> felixchalumeau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#felixchalumeau">Copy rank badge</a><br/>
 			Felix Chalumeau
 		</td>
 		<td>Instadeep, Ecole Polytechnique </td>
@@ -9664,7 +9666,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/autonomous">
 				<img src="https://avatars.githubusercontent.com/u/15879?s=72&u=679a3ff22889ac9b6bb16eb367d7ba2059801407&v=4" width="24" alt="Avatar of autonomous"> autonomous
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#autonomous">Copy rank badge</a><br/>
 			Christopher Spring
 		</td>
 		<td>No Company</td>
@@ -9677,7 +9679,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ashrafstakala">
 				<img src="https://avatars.githubusercontent.com/u/31999808?s=72&u=b445b2a6e8e7d7c848206c0381a51643a4c8646b&v=4" width="24" alt="Avatar of ashrafstakala"> ashrafstakala
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ashrafstakala">Copy rank badge</a><br/>
 			Ashraf Stakala
 		</td>
 		<td>No Company</td>
@@ -9690,7 +9692,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Mmontsheng">
 				<img src="https://avatars.githubusercontent.com/u/26759863?s=72&u=03ad694e3a1b5bd4fc4a5e1e9d4af1d12fe47a07&v=4" width="24" alt="Avatar of Mmontsheng"> Mmontsheng
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Mmontsheng">Copy rank badge</a><br/>
 			Mmontsheng Maoto
 		</td>
 		<td>@afrigis-south-afric </td>
@@ -9703,7 +9705,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/josephkandi">
 				<img src="https://avatars.githubusercontent.com/u/3235272?s=72&u=d3276751c1340798fd6ec2f3c8a0ec749f0bf8af&v=4" width="24" alt="Avatar of josephkandi"> josephkandi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#josephkandi">Copy rank badge</a><br/>
 			Joseph Kandi
 		</td>
 		<td>@peruzal </td>
@@ -9716,7 +9718,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/besen">
 				<img src="https://avatars.githubusercontent.com/u/40580?s=72&v=4" width="24" alt="Avatar of besen"> besen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#besen">Copy rank badge</a><br/>
 			Renato Besen
 		</td>
 		<td>No Company</td>
@@ -9729,7 +9731,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/ntruter42">
 				<img src="https://avatars.githubusercontent.com/u/46681656?s=72&u=bbb29f95194d97d998b79d7f97a1512c6b3e8822&v=4" width="24" alt="Avatar of ntruter42"> ntruter42
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#ntruter42">Copy rank badge</a><br/>
 			Nicholas
 		</td>
 		<td>No Company</td>
@@ -9742,7 +9744,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/markphillips01">
 				<img src="https://avatars.githubusercontent.com/u/5227468?s=72&u=eb98b87c89d9f56f9a4c56d7f973544ac6f355ab&v=4" width="24" alt="Avatar of markphillips01"> markphillips01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#markphillips01">Copy rank badge</a><br/>
 			markp
 		</td>
 		<td>No Company</td>
@@ -9755,7 +9757,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/brandonstubbs">
 				<img src="https://avatars.githubusercontent.com/u/3731434?s=72&u=340417930bb4e4ae6d6b469cf7053a0f2d792ebf&v=4" width="24" alt="Avatar of brandonstubbs"> brandonstubbs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#brandonstubbs">Copy rank badge</a><br/>
 			Brandon Stubbs
 		</td>
 		<td>@redefine-io  </td>
@@ -9768,7 +9770,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/DevJr14">
 				<img src="https://avatars.githubusercontent.com/u/35074006?s=72&u=83f2b984d5da8082e5522f8f0a389f6958068125&v=4" width="24" alt="Avatar of DevJr14"> DevJr14
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#DevJr14">Copy rank badge</a><br/>
 			Junior Matlou
 		</td>
 		<td>No Company</td>
@@ -9781,7 +9783,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/chadfaurie">
 				<img src="https://avatars.githubusercontent.com/u/54393506?s=72&u=8314d68a2052f184fce78c5bd045f11f63133128&v=4" width="24" alt="Avatar of chadfaurie"> chadfaurie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#chadfaurie">Copy rank badge</a><br/>
 			Chad Faurie
 		</td>
 		<td>@bluetrino </td>
@@ -9794,7 +9796,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/bertuss">
 				<img src="https://avatars.githubusercontent.com/u/2698961?s=72&u=cf8479f9e7934d0708db3b923594222590d77573&v=4" width="24" alt="Avatar of bertuss"> bertuss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#bertuss">Copy rank badge</a><br/>
 			Bertus Steenberg
 		</td>
 		<td>No Company</td>
@@ -9807,7 +9809,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/JustinScottJenecke">
 				<img src="https://avatars.githubusercontent.com/u/75792666?s=72&u=78ea7a7eedf01b634c8aa81a197a700198bbbef2&v=4" width="24" alt="Avatar of JustinScottJenecke"> JustinScottJenecke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#JustinScottJenecke">Copy rank badge</a><br/>
 			Justin Scott Isaac Jenecke
 		</td>
 		<td>Rank Group </td>
@@ -9820,7 +9822,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Mangalis0">
 				<img src="https://avatars.githubusercontent.com/u/30199444?s=72&u=d4697cc67a6651fec73ef3fee554023307c4d5f5&v=4" width="24" alt="Avatar of Mangalis0"> Mangalis0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Mangalis0">Copy rank badge</a><br/>
 			Mangaliso Samuel Makhoba
 		</td>
 		<td>No Company</td>
@@ -9833,7 +9835,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/CarlaLlama">
 				<img src="https://avatars.githubusercontent.com/u/10594299?s=72&u=4f548df3a749e3e6d44adce11852a64373dc6cd6&v=4" width="24" alt="Avatar of CarlaLlama"> CarlaLlama
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#CarlaLlama">Copy rank badge</a><br/>
 			Carla Wilby
 		</td>
 		<td>Orca Fraud, Inc. </td>
@@ -9846,7 +9848,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/SH-Codes">
 				<img src="https://avatars.githubusercontent.com/u/47412373?s=72&u=fa7632b846cd8bb400504cbdfdf4eeda395f8f00&v=4" width="24" alt="Avatar of SH-Codes"> SH-Codes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#SH-Codes">Copy rank badge</a><br/>
 			Sihle Hlophe
 		</td>
 		<td>Wldrms </td>
@@ -9859,7 +9861,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/paulfurber">
 				<img src="https://avatars.githubusercontent.com/u/607285?s=72&v=4" width="24" alt="Avatar of paulfurber"> paulfurber
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#paulfurber">Copy rank badge</a><br/>
 			Paul Furber
 		</td>
 		<td>No Company</td>
@@ -9872,7 +9874,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/Bukho-Cosa">
 				<img src="https://avatars.githubusercontent.com/u/108462861?s=72&u=d5d76792fa7c12706e257a8f00f0de7a2c314cab&v=4" width="24" alt="Avatar of Bukho-Cosa"> Bukho-Cosa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#Bukho-Cosa">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9885,7 +9887,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/wimolivier">
 				<img src="https://avatars.githubusercontent.com/u/3774792?s=72&u=838812278e60c650d8e6239ec446baad82bf2d28&v=4" width="24" alt="Avatar of wimolivier"> wimolivier
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#wimolivier">Copy rank badge</a><br/>
 			Wim Olivier
 		</td>
 		<td>No Company</td>
@@ -9898,7 +9900,7 @@ There are `971 users`  in South Africa. You need at least `19 followers` to be o
 		<td>
 			<a href="https://github.com/RassieDotDev">
 				<img src="https://avatars.githubusercontent.com/u/12081480?s=72&u=7fb4a1ea28c22f0ece427f195322ab216aa98b3e&v=4" width="24" alt="Avatar of RassieDotDev"> RassieDotDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_africa.md#RassieDotDev">Copy rank badge</a><br/>
 			Justin David Erasmus
 		</td>
 		<td>@orcafraud </td>
