@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="South Korea">
 </a>
 
-The `public contributions` by users in South Korea on `2026/7/1 12:53 AM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
+The `public contributions` by users in South Korea on `2026/10/31 3:51 AM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `981 users`  in South Korea. You need at least `118 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [South Korea GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -109,7 +111,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/code-yeongyu">
 				<img src="https://avatars.githubusercontent.com/u/11153873?s=72&u=568c08de254b942a8ec466fcba17f2a02cb68802&v=4" width="24" alt="Avatar of code-yeongyu"> code-yeongyu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#code-yeongyu">Copy rank badge</a><br/>
 			YeonGyu-Kim
 		</td>
 		<td>@sionic-ai </td>
@@ -122,7 +124,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Yeachan-Heo">
 				<img src="https://avatars.githubusercontent.com/u/54757707?s=72&u=a7b1fed0840f822ae7d8bdd202da57121d737eaa&v=4" width="24" alt="Avatar of Yeachan-Heo"> Yeachan-Heo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Yeachan-Heo">Copy rank badge</a><br/>
 			Bellman
 		</td>
 		<td>@layoff-labs  </td>
@@ -135,7 +137,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/dahlia">
 				<img src="https://avatars.githubusercontent.com/u/12431?s=72&u=93aabac3b6cdf0cccfa5ad756adfb4e6e32ebe10&v=4" width="24" alt="Avatar of dahlia"> dahlia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#dahlia">Copy rank badge</a><br/>
 			Hong Minhee (洪 民憙)
 		</td>
 		<td>@fedify-dev </td>
@@ -148,7 +150,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/JAICHANGPARK">
 				<img src="https://avatars.githubusercontent.com/u/19484515?s=72&u=0ec7b31ff9129826cccc5cd971887a9dd0e0a538&v=4" width="24" alt="Avatar of JAICHANGPARK"> JAICHANGPARK
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#JAICHANGPARK">Copy rank badge</a><br/>
 			Dreamwalker
 		</td>
 		<td>No Company</td>
@@ -161,7 +163,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/shaun0927">
 				<img src="https://avatars.githubusercontent.com/u/70629228?s=72&u=0abc03d4e3f902de9290c9723c82389752a356bf&v=4" width="24" alt="Avatar of shaun0927"> shaun0927
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#shaun0927">Copy rank badge</a><br/>
 			Junghwan
 		</td>
 		<td>Rivetta Co., Ltd. </td>
@@ -174,7 +176,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/devxoul">
 				<img src="https://avatars.githubusercontent.com/u/931655?s=72&u=171dfcfb08fa97c627edfdb3a10be372fda5af37&v=4" width="24" alt="Avatar of devxoul"> devxoul
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#devxoul">Copy rank badge</a><br/>
 			Jeon Suyeol
 		</td>
 		<td>@indentcorp </td>
@@ -187,7 +189,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/youknowone">
 				<img src="https://avatars.githubusercontent.com/u/69878?s=72&v=4" width="24" alt="Avatar of youknowone"> youknowone
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#youknowone">Copy rank badge</a><br/>
 			Jeong, YunWon
 		</td>
 		<td>Youknowone.org </td>
@@ -200,7 +202,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/seo-rii">
 				<img src="https://avatars.githubusercontent.com/u/48939845?s=72&u=d6d21a226df832ed466b1c33670f2d7f8543a305&v=4" width="24" alt="Avatar of seo-rii"> seo-rii
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#seo-rii">Copy rank badge</a><br/>
 			Seohyun Lee
 		</td>
 		<td>Kaist </td>
@@ -213,7 +215,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/gg582">
 				<img src="https://avatars.githubusercontent.com/u/168180007?s=72&u=ebd725dd31ff66a61f119eab41fe071e00b8ea26&v=4" width="24" alt="Avatar of gg582"> gg582
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#gg582">Copy rank badge</a><br/>
 			이윤진(Lee Yunjin)
 		</td>
 		<td>No Company</td>
@@ -226,7 +228,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/samchon">
 				<img src="https://avatars.githubusercontent.com/u/13158709?s=72&u=e23bb8f07478072e32e194b32646aff392afc048&v=4" width="24" alt="Avatar of samchon"> samchon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#samchon">Copy rank badge</a><br/>
 			Jeongho Nam
 		</td>
 		<td>Wrtn Technologies </td>
@@ -239,7 +241,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/occidere">
 				<img src="https://avatars.githubusercontent.com/u/20942871?s=72&u=d18714ae47ecbc06d4c2917ffd23ae2718aa13d5&v=4" width="24" alt="Avatar of occidere"> occidere
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#occidere">Copy rank badge</a><br/>
 			Sungjun Lee
 		</td>
 		<td>@naver </td>
@@ -252,7 +254,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jbj338033">
 				<img src="https://avatars.githubusercontent.com/u/82754696?s=72&u=577073f866bc1348185fc6e852dce86cc424dc6d&v=4" width="24" alt="Avatar of jbj338033"> jbj338033
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jbj338033">Copy rank badge</a><br/>
 			Jeon Min O
 		</td>
 		<td>No Company</td>
@@ -265,7 +267,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/junhoyeo">
 				<img src="https://avatars.githubusercontent.com/u/32605822?s=72&u=6a6f976248563e9ffce981aedb5ac806b0212fff&v=4" width="24" alt="Avatar of junhoyeo"> junhoyeo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#junhoyeo">Copy rank badge</a><br/>
 			Junho Yeo
 		</td>
 		<td>No Company</td>
@@ -278,7 +280,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/dobestan">
 				<img src="https://avatars.githubusercontent.com/u/4688315?s=72&u=003a3ff9e07cd8d0d5ac92770348ac218d8b3f17&v=4" width="24" alt="Avatar of dobestan"> dobestan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#dobestan">Copy rank badge</a><br/>
 			Suchan An
 		</td>
 		<td>No Company</td>
@@ -291,7 +293,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/developer0hye">
 				<img src="https://avatars.githubusercontent.com/u/35001605?s=72&u=f1cc3d4c3e00ca2efc26a6522482b5710fc50e8f&v=4" width="24" alt="Avatar of developer0hye"> developer0hye
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#developer0hye">Copy rank badge</a><br/>
 			Yonghye Kwon
 		</td>
 		<td>Markany </td>
@@ -304,7 +306,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hyochan">
 				<img src="https://avatars.githubusercontent.com/u/27461460?s=72&u=a46ea8e97772a53ce03e7eb45de28a02de92cbc9&v=4" width="24" alt="Avatar of hyochan"> hyochan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hyochan">Copy rank badge</a><br/>
 			Hyo
 		</td>
 		<td>Hyo Dev </td>
@@ -317,7 +319,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/scarf005">
 				<img src="https://avatars.githubusercontent.com/u/54838975?s=72&u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="24" alt="Avatar of scarf005"> scarf005
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#scarf005">Copy rank badge</a><br/>
 			scarf
 		</td>
 		<td>@quotabook </td>
@@ -330,7 +332,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Xixn2">
 				<img src="https://avatars.githubusercontent.com/u/116987917?s=72&u=1d5bd14790ee777d5f17de2d033472f32a0973f9&v=4" width="24" alt="Avatar of Xixn2"> Xixn2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Xixn2">Copy rank badge</a><br/>
 			Jiwan SEO
 		</td>
 		<td>광주소프트웨어마이스터고등학교 @efface-studio @hivits </td>
@@ -343,7 +345,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jiunbae">
 				<img src="https://avatars.githubusercontent.com/u/7712538?s=72&u=817129109d69d3d0439451160b0fc8cbf73574e6&v=4" width="24" alt="Avatar of jiunbae"> jiunbae
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jiunbae">Copy rank badge</a><br/>
 			Jiun Bae (June)
 		</td>
 		<td>@rtzr  </td>
@@ -356,7 +358,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/YoungHaKim7">
 				<img src="https://avatars.githubusercontent.com/u/67513038?s=72&u=225e0bee9812c05a8f8f9523f4a1307ed2e5efa2&v=4" width="24" alt="Avatar of YoungHaKim7"> YoungHaKim7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#YoungHaKim7">Copy rank badge</a><br/>
 			Global Young
 		</td>
 		<td>No Company</td>
@@ -369,7 +371,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/shinkeonkim">
 				<img src="https://avatars.githubusercontent.com/u/47373998?s=72&u=f69b2338c301effc1718178385ce9ed0f81a0b76&v=4" width="24" alt="Avatar of shinkeonkim"> shinkeonkim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#shinkeonkim">Copy rank badge</a><br/>
 			kokoa
 		</td>
 		<td>Kookmin University </td>
@@ -382,7 +384,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/wanseob">
 				<img src="https://avatars.githubusercontent.com/u/8542397?s=72&u=d6baa7e3c27a0d9229bee67ee57d79d960623724&v=4" width="24" alt="Avatar of wanseob"> wanseob
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#wanseob">Copy rank badge</a><br/>
 			Wanseob Lim
 		</td>
 		<td>No Company</td>
@@ -395,7 +397,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/vkehfdl1">
 				<img src="https://avatars.githubusercontent.com/u/28955029?s=72&u=7655fbd962dba4fb82803c1fb51037a41ed51d46&v=4" width="24" alt="Avatar of vkehfdl1"> vkehfdl1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#vkehfdl1">Copy rank badge</a><br/>
 			Jeffrey (Dongkyu) Kim
 		</td>
 		<td>Nomadamas </td>
@@ -408,7 +410,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/panda15963">
 				<img src="https://avatars.githubusercontent.com/u/45156127?s=72&u=a48d594ed99471965a9d57decf1513ae99b7e83b&v=4" width="24" alt="Avatar of panda15963"> panda15963
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#panda15963">Copy rank badge</a><br/>
 			Minseok Choi
 		</td>
 		<td>Twin </td>
@@ -421,7 +423,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/nalbam">
 				<img src="https://avatars.githubusercontent.com/u/235465?s=72&u=7cd6646657054d7ca420edd6df323e9b20021629&v=4" width="24" alt="Avatar of nalbam"> nalbam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#nalbam">Copy rank badge</a><br/>
 			Jungyoul Yu
 		</td>
 		<td>@daangn </td>
@@ -434,7 +436,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Jonghakseo">
 				<img src="https://avatars.githubusercontent.com/u/53500778?s=72&u=82aa128ba88e4a3b3373aeab6c2ebaff2da33c6c&v=4" width="24" alt="Avatar of Jonghakseo"> Jonghakseo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Jonghakseo">Copy rank badge</a><br/>
 			JongHak Seo
 		</td>
 		<td>Creatrip </td>
@@ -447,7 +449,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hmmhmmhm">
 				<img src="https://avatars.githubusercontent.com/u/38493722?s=72&u=3e2a963ca0773ac13d390447c7dd655410aea6fe&v=4" width="24" alt="Avatar of hmmhmmhm"> hmmhmmhm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hmmhmmhm">Copy rank badge</a><br/>
 			<hmmhmmhm/>
 		</td>
 		<td>@neosapience </td>
@@ -460,7 +462,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/mym0404">
 				<img src="https://avatars.githubusercontent.com/u/33388801?s=72&u=71e176d17ded023ce0d58576449cd40c8cad96ab&v=4" width="24" alt="Avatar of mym0404"> mym0404
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#mym0404">Copy rank badge</a><br/>
 			MJ Studio
 		</td>
 		<td>Republic Of Korea Navy<br/></td>
@@ -473,7 +475,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/HA-SEUNG-JEONG">
 				<img src="https://avatars.githubusercontent.com/u/88266129?s=72&v=4" width="24" alt="Avatar of HA-SEUNG-JEONG"> HA-SEUNG-JEONG
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#HA-SEUNG-JEONG">Copy rank badge</a><br/>
 			Jeong Ha Seung
 		</td>
 		<td>No Company</td>
@@ -486,7 +488,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/skyleedevzero86">
 				<img src="https://avatars.githubusercontent.com/u/81811670?s=72&u=b7b6dcfbfed7ed7dcdb725b56949fcc7990b1734&v=4" width="24" alt="Avatar of skyleedevzero86"> skyleedevzero86
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#skyleedevzero86">Copy rank badge</a><br/>
 			궁금하면500원
 		</td>
 		<td>Korea Public </td>
@@ -499,7 +501,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kyopark2014">
 				<img src="https://avatars.githubusercontent.com/u/52392004?s=72&v=4" width="24" alt="Avatar of kyopark2014"> kyopark2014
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kyopark2014">Copy rank badge</a><br/>
 			Kyoungsu Park
 		</td>
 		<td>Aws </td>
@@ -512,7 +514,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/DebugJO">
 				<img src="https://avatars.githubusercontent.com/u/18445776?s=72&u=42c4df0d46378b1aa142bd4d5f5a093cc8941bac&v=4" width="24" alt="Avatar of DebugJO"> DebugJO
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#DebugJO">Copy rank badge</a><br/>
 			msj
 		</td>
 		<td>Software Engineer / Developer<br/></td>
@@ -525,7 +527,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/YangSiJun528">
 				<img src="https://avatars.githubusercontent.com/u/80192911?s=72&u=6c6df286d8423f7c70a6d7c7edfa94788fa6a74c&v=4" width="24" alt="Avatar of YangSiJun528"> YangSiJun528
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#YangSiJun528">Copy rank badge</a><br/>
 			sijun-yang
 		</td>
 		<td>No Company</td>
@@ -538,7 +540,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/brody-0125">
 				<img src="https://avatars.githubusercontent.com/u/67903919?s=72&u=662736af5fb9f2f1e71bee72ab86e8205457a241&v=4" width="24" alt="Avatar of brody-0125"> brody-0125
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#brody-0125">Copy rank badge</a><br/>
 			Seokhyeon Kim
 		</td>
 		<td>Software Engineer @42dot |<br/>Community<br/>Organizer<br/>@ksug<br/>|<br/>@foss-for-all<br/></td>
@@ -551,7 +553,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/pdh0128">
 				<img src="https://avatars.githubusercontent.com/u/162246145?s=72&u=88d32ac91fd8afa2f001c9d2a76835f1967e46b3&v=4" width="24" alt="Avatar of pdh0128"> pdh0128
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#pdh0128">Copy rank badge</a><br/>
 			ComodoFlow
 		</td>
 		<td>Busan Software Meister High<br/>School<br/></td>
@@ -564,7 +566,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/tmdgusya">
 				<img src="https://avatars.githubusercontent.com/u/57784077?s=72&u=387caf2969a851378614ad7712d1e78c7731d792&v=4" width="24" alt="Avatar of tmdgusya"> tmdgusya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#tmdgusya">Copy rank badge</a><br/>
 			roach
 		</td>
 		<td>No Company</td>
@@ -577,7 +579,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/DWL21">
 				<img src="https://avatars.githubusercontent.com/u/76774809?s=72&u=500474a192c7c0a4e2ef1716fefe54d9a4cdb34b&v=4" width="24" alt="Avatar of DWL21"> DWL21
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#DWL21">Copy rank badge</a><br/>
 			Leo
 		</td>
 		<td>No Company</td>
@@ -590,7 +592,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sudosubin">
 				<img src="https://avatars.githubusercontent.com/u/32478597?s=72&u=ee461a171dc4fd05c6c0f65c9ef258324e0a6bac&v=4" width="24" alt="Avatar of sudosubin"> sudosubin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sudosubin">Copy rank badge</a><br/>
 			Subin Kim
 		</td>
 		<td>No Company</td>
@@ -603,7 +605,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/limeburst">
 				<img src="https://avatars.githubusercontent.com/u/1113499?s=72&u=97245017178cf6c481457a09ff9b595dfc4bc4fa&v=4" width="24" alt="Avatar of limeburst"> limeburst
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#limeburst">Copy rank badge</a><br/>
 			Jihyeok Seo
 		</td>
 		<td>No Company</td>
@@ -616,7 +618,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Junhyunny">
 				<img src="https://avatars.githubusercontent.com/u/50021245?s=72&u=d560797eab45e2203a28ddfd227fd81cd7eacb9c&v=4" width="24" alt="Avatar of Junhyunny"> Junhyunny
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Junhyunny">Copy rank badge</a><br/>
 			Junhyunny
 		</td>
 		<td>@bekind-labs </td>
@@ -629,7 +631,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/channprj">
 				<img src="https://avatars.githubusercontent.com/u/1831308?s=72&u=a8d7ba7b90d8da292a5d282c0ae7646edc03589f&v=4" width="24" alt="Avatar of channprj"> channprj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#channprj">Copy rank badge</a><br/>
 			Park Hee Chan
 		</td>
 		<td>@portrai-io @chann </td>
@@ -642,7 +644,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/choo121600">
 				<img src="https://avatars.githubusercontent.com/u/54111883?s=72&u=0e331b7c2748515c048e016bcfbf809a8037e1cf&v=4" width="24" alt="Avatar of choo121600"> choo121600
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#choo121600">Copy rank badge</a><br/>
 			Yeonguk Choo
 		</td>
 		<td>@apache @arxtrus </td>
@@ -655,7 +657,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/serithemage">
 				<img src="https://avatars.githubusercontent.com/u/3435720?s=72&u=5f7fb126970ba194166177bdafb263064a98bfd2&v=4" width="24" alt="Avatar of serithemage"> serithemage
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#serithemage">Copy rank badge</a><br/>
 			Jung Do Hyun
 		</td>
 		<td>Roboco.io </td>
@@ -668,7 +670,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/graykode">
 				<img src="https://avatars.githubusercontent.com/u/10525011?s=72&u=93defdf6c24a3851108815c9cde80e432b4fc29b&v=4" width="24" alt="Avatar of graykode"> graykode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#graykode">Copy rank badge</a><br/>
 			Tae Hwan Jung
 		</td>
 		<td>@clober-dex </td>
@@ -681,7 +683,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hkjang">
 				<img src="https://avatars.githubusercontent.com/u/3069493?s=72&u=fa306f6637231b3c428948caa70253a4bf1a6e7c&v=4" width="24" alt="Avatar of hkjang"> hkjang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hkjang">Copy rank badge</a><br/>
 			hkjang
 		</td>
 		<td>Korea Credit Bureau </td>
@@ -694,7 +696,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/BeLeap">
 				<img src="https://avatars.githubusercontent.com/u/46488521?s=72&u=0cfe0a6470f086cf7e510daa0498c2479ec1da1e&v=4" width="24" alt="Avatar of BeLeap"> BeLeap
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#BeLeap">Copy rank badge</a><br/>
 			Changseo Jang
 		</td>
 		<td>@toss @klue-kr </td>
@@ -707,7 +709,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/lemos999">
 				<img src="https://avatars.githubusercontent.com/u/174872088?s=72&u=3d83cac6905b7924b9e5eadd452e3a3c4048f207&v=4" width="24" alt="Avatar of lemos999"> lemos999
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#lemos999">Copy rank badge</a><br/>
 			Fewweekslater
 		</td>
 		<td>No Company</td>
@@ -720,7 +722,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Q00">
 				<img src="https://avatars.githubusercontent.com/u/31264094?s=72&u=52ab710b6502dec7ed0093a031b71d10ae43143e&v=4" width="24" alt="Avatar of Q00"> Q00
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Q00">Copy rank badge</a><br/>
 			Q00
 		</td>
 		<td>@zep-us </td>
@@ -733,7 +735,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/moonbox3">
 				<img src="https://avatars.githubusercontent.com/u/35585003?s=72&u=336ff6f4160f17ee0ea43f3c47681cc1a97ac4e8&v=4" width="24" alt="Avatar of moonbox3"> moonbox3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#moonbox3">Copy rank badge</a><br/>
 			Evan Mattson
 		</td>
 		<td>@microsoft </td>
@@ -746,7 +748,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ahastudio">
 				<img src="https://avatars.githubusercontent.com/u/36392?s=72&u=e3ee8b17c9fb9d38dc336b96e80898b1db0b4dfd&v=4" width="24" alt="Avatar of ahastudio"> ahastudio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ahastudio">Copy rank badge</a><br/>
 			Ashal aka JOKER
 		</td>
 		<td>No Company</td>
@@ -759,7 +761,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/subinium">
 				<img src="https://avatars.githubusercontent.com/u/16396561?s=72&u=df2a21d9d52a1c6d0dc5dc556a2fa2702539e0ef&v=4" width="24" alt="Avatar of subinium"> subinium
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#subinium">Copy rank badge</a><br/>
 			Subin An
 		</td>
 		<td>Asteromorph </td>
@@ -772,7 +774,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/mrchypark">
 				<img src="https://avatars.githubusercontent.com/u/6179259?s=72&u=c550e5b88559b198d151ec316a07ba0d6c8758e9&v=4" width="24" alt="Avatar of mrchypark"> mrchypark
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#mrchypark">Copy rank badge</a><br/>
 			ChanYub Park
 		</td>
 		<td>No Company</td>
@@ -785,7 +787,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/johnsonlee">
 				<img src="https://avatars.githubusercontent.com/u/2344882?s=72&v=4" width="24" alt="Avatar of johnsonlee"> johnsonlee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#johnsonlee">Copy rank badge</a><br/>
 			Johnson Lee
 		</td>
 		<td>Coupang </td>
@@ -798,7 +800,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/leeeyubin">
 				<img src="https://avatars.githubusercontent.com/u/128459613?s=72&u=84420d4c2b6d19608d1e8b1b6828569489a78c78&v=4" width="24" alt="Avatar of leeeyubin"> leeeyubin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#leeeyubin">Copy rank badge</a><br/>
 			LEE YOU BIN
 		</td>
 		<td>Soongsil Univ. Computer Science<br/>&&<br/>Engineering<br/></td>
@@ -811,7 +813,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/JSL107">
 				<img src="https://avatars.githubusercontent.com/u/95362504?s=72&u=c77f08d9abe53a115921d8994ac82df6ec74b115&v=4" width="24" alt="Avatar of JSL107"> JSL107
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#JSL107">Copy rank badge</a><br/>
 			JSL107
 		</td>
 		<td>No Company</td>
@@ -824,7 +826,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/maj34">
 				<img src="https://avatars.githubusercontent.com/u/75362328?s=72&u=29fdb3ace784fbc16e15afd48e3d1a7d994c5159&v=4" width="24" alt="Avatar of maj34"> maj34
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#maj34">Copy rank badge</a><br/>
 			마민정 (MinJeong Ma)
 		</td>
 		<td>No Company</td>
@@ -837,7 +839,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/HI-JIN2">
 				<img src="https://avatars.githubusercontent.com/u/94737714?s=72&u=b1b7706f1271015b88b01c4970f82e33c030be01&v=4" width="24" alt="Avatar of HI-JIN2"> HI-JIN2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#HI-JIN2">Copy rank badge</a><br/>
 			Yu Jin
 		</td>
 		<td>No Company</td>
@@ -850,7 +852,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/easyhooon">
 				<img src="https://avatars.githubusercontent.com/u/51016231?s=72&u=f0b900ff8568a21b8c37586d3eb8711b714323d9&v=4" width="24" alt="Avatar of easyhooon"> easyhooon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#easyhooon">Copy rank badge</a><br/>
 			JI HUN LEE
 		</td>
 		<td>메디플러스솔루션 </td>
@@ -863,7 +865,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/023-dev">
 				<img src="https://avatars.githubusercontent.com/u/80230155?s=72&u=be9576343dc1b7600e78948050790251537e507f&v=4" width="24" alt="Avatar of 023-dev"> 023-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#023-dev">Copy rank badge</a><br/>
 			023
 		</td>
 		<td>No Company</td>
@@ -876,7 +878,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/marshallku">
 				<img src="https://avatars.githubusercontent.com/u/33550065?s=72&u=3111f489e341eb7cd8b86a60b7b76b63c7e38f29&v=4" width="24" alt="Avatar of marshallku"> marshallku
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#marshallku">Copy rank badge</a><br/>
 			Marshall Ku / 구영표
 		</td>
 		<td>@toss </td>
@@ -889,7 +891,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/l2hyunwoo">
 				<img src="https://avatars.githubusercontent.com/u/54518925?s=72&u=74e3bd8d04f7a1db55ce00c9415e781530b7ea0a&v=4" width="24" alt="Avatar of l2hyunwoo"> l2hyunwoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#l2hyunwoo">Copy rank badge</a><br/>
 			HyunWoo Lee (Nunu Lee)
 		</td>
 		<td>@toss </td>
@@ -902,7 +904,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/rkttu">
 				<img src="https://avatars.githubusercontent.com/u/1297346?s=72&u=1dbc469b7aaa9ef601cfbc021a3e46bad0a2a67c&v=4" width="24" alt="Avatar of rkttu"> rkttu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#rkttu">Copy rank badge</a><br/>
 			Jung Hyun Nam
 		</td>
 		<td>Megazone Cloud </td>
@@ -915,7 +917,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/yymin1022">
 				<img src="https://avatars.githubusercontent.com/u/12806229?s=72&u=8676df8feb5085f9db9cc9c438f1cc16f157cbad&v=4" width="24" alt="Avatar of yymin1022"> yymin1022
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#yymin1022">Copy rank badge</a><br/>
 			Yongmin Yoo 유용민 
 		</td>
 		<td>Vimosoft </td>
@@ -928,7 +930,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/vvan2">
 				<img src="https://avatars.githubusercontent.com/u/113279387?s=72&u=a190fbc9fb2574dff05f0dd35ad3fd48a2d867a3&v=4" width="24" alt="Avatar of vvan2"> vvan2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#vvan2">Copy rank badge</a><br/>
 			Son Juwan
 		</td>
 		<td>Hansung Univ </td>
@@ -941,7 +943,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/posquit0">
 				<img src="https://avatars.githubusercontent.com/u/1484002?s=72&u=1f7ee6a51940741ea893646599d3e4900d7c186a&v=4" width="24" alt="Avatar of posquit0"> posquit0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#posquit0">Copy rank badge</a><br/>
 			Byungjin Park (Claud)
 		</td>
 		<td>Somewhere </td>
@@ -954,7 +956,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hermet">
 				<img src="https://avatars.githubusercontent.com/u/3711518?s=72&u=18eb2480a3edcff002763195ca1751ee641fa635&v=4" width="24" alt="Avatar of hermet"> hermet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hermet">Copy rank badge</a><br/>
 			Hermet Park
 		</td>
 		<td>No Company</td>
@@ -967,7 +969,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/bbbang105">
 				<img src="https://avatars.githubusercontent.com/u/113084292?s=72&u=d393b4cc1adcc520ec53d7ba09f154b9a8ecc5a7&v=4" width="24" alt="Avatar of bbbang105"> bbbang105
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#bbbang105">Copy rank badge</a><br/>
 			Sangho Han
 		</td>
 		<td>No Company</td>
@@ -980,7 +982,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jundot">
 				<img src="https://avatars.githubusercontent.com/u/64250138?s=72&u=e95cca863622c88961c53f9b3fffe2d5982c8a6f&v=4" width="24" alt="Avatar of jundot"> jundot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jundot">Copy rank badge</a><br/>
 			Jun Kim
 		</td>
 		<td>No Company</td>
@@ -993,7 +995,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ryanking13">
 				<img src="https://avatars.githubusercontent.com/u/24893111?s=72&u=011a593539ca5a334afb9efd59fb718dc9ed7a3e&v=4" width="24" alt="Avatar of ryanking13"> ryanking13
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ryanking13">Copy rank badge</a><br/>
 			Gyeongjae Choi
 		</td>
 		<td>@cloudflare </td>
@@ -1006,7 +1008,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/storycraft">
 				<img src="https://avatars.githubusercontent.com/u/11706717?s=72&u=e8888a9dce889240661937a7745164d23535cb68&v=4" width="24" alt="Avatar of storycraft"> storycraft
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#storycraft">Copy rank badge</a><br/>
 			스도리
 		</td>
 		<td>No Company</td>
@@ -1019,7 +1021,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/GraceKim527">
 				<img src="https://avatars.githubusercontent.com/u/80322308?s=72&u=d4ac712eec7eb328a72a40e23ae90fec146ad3c5&v=4" width="24" alt="Avatar of GraceKim527"> GraceKim527
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#GraceKim527">Copy rank badge</a><br/>
 			GraceKim
 		</td>
 		<td>No Company</td>
@@ -1032,7 +1034,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/taxi-tabby">
 				<img src="https://avatars.githubusercontent.com/u/24689260?s=72&v=4" width="24" alt="Avatar of taxi-tabby"> taxi-tabby
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#taxi-tabby">Copy rank badge</a><br/>
 			lIllIlIIlllIllI
 		</td>
 		<td>No Company</td>
@@ -1045,7 +1047,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/potados99">
 				<img src="https://avatars.githubusercontent.com/u/35878712?s=72&u=16c4a34686a980b39cd1dcd4de1cff7d45181f05&v=4" width="24" alt="Avatar of potados99"> potados99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#potados99">Copy rank badge</a><br/>
 			송병준
 		</td>
 		<td>@inu-appcenter @cartanova-ai </td>
@@ -1058,7 +1060,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/bang9">
 				<img src="https://avatars.githubusercontent.com/u/26326015?s=72&u=33a1afbe11e8f6b962c6267606d59c2b2ef94716&v=4" width="24" alt="Avatar of bang9"> bang9
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#bang9">Copy rank badge</a><br/>
 			Hyungu Kang | Airen
 		</td>
 		<td>@sendbird </td>
@@ -1071,7 +1073,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sukvvon">
 				<img src="https://avatars.githubusercontent.com/u/66409882?s=72&u=a4976a0158498eab98450788acc842d9450ca09f&v=4" width="24" alt="Avatar of sukvvon"> sukvvon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sukvvon">Copy rank badge</a><br/>
 			Wonsuk Choi
 		</td>
 		<td>@nicemso @tanstack </td>
@@ -1084,7 +1086,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/moreal">
 				<img src="https://avatars.githubusercontent.com/u/26626194?s=72&u=a2562acc54f54efa2ba93200b57d38da8922718b&v=4" width="24" alt="Avatar of moreal"> moreal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#moreal">Copy rank badge</a><br/>
 			Lee Dogeon
 		</td>
 		<td>No Company</td>
@@ -1097,7 +1099,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/tumblecat44">
 				<img src="https://avatars.githubusercontent.com/u/162662402?s=72&v=4" width="24" alt="Avatar of tumblecat44"> tumblecat44
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#tumblecat44">Copy rank badge</a><br/>
 			이건희
 		</td>
 		<td>@team-b1nd </td>
@@ -1110,7 +1112,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/terryum">
 				<img src="https://avatars.githubusercontent.com/u/12528769?s=72&u=63795302a0208e9879b5b893dc5989236e415233&v=4" width="24" alt="Avatar of terryum"> terryum
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#terryum">Copy rank badge</a><br/>
 			Terry Taewoong Um
 		</td>
 		<td>Cosmax </td>
@@ -1123,7 +1125,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/yansfil">
 				<img src="https://avatars.githubusercontent.com/u/14955500?s=72&u=9adfd3d55f65d6ab4111afe56e635d8019914470&v=4" width="24" alt="Avatar of yansfil"> yansfil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#yansfil">Copy rank badge</a><br/>
 			Grab
 		</td>
 		<td>Team Attention </td>
@@ -1136,7 +1138,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/PlusUltraCode">
 				<img src="https://avatars.githubusercontent.com/u/164465431?s=72&u=ab1c78e275a0a95d34f868f80b35580cf716c896&v=4" width="24" alt="Avatar of PlusUltraCode"> PlusUltraCode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#PlusUltraCode">Copy rank badge</a><br/>
 			PlusUltraCode
 		</td>
 		<td>@kup @sejong_univ </td>
@@ -1149,7 +1151,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/subicura">
 				<img src="https://avatars.githubusercontent.com/u/67347?s=72&u=562622f6003e52c617f9dfb9b84db684d64812fb&v=4" width="24" alt="Avatar of subicura"> subicura
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#subicura">Copy rank badge</a><br/>
 			Chungsub Kim
 		</td>
 		<td>Purpleio </td>
@@ -1162,7 +1164,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/keemsebin">
 				<img src="https://avatars.githubusercontent.com/u/108217858?s=72&u=2248c81a88dc06f4d764f93703815566c536bc6a&v=4" width="24" alt="Avatar of keemsebin"> keemsebin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#keemsebin">Copy rank badge</a><br/>
 			keemsebeen
 		</td>
 		<td>Myongji University </td>
@@ -1175,7 +1177,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/guesung">
 				<img src="https://avatars.githubusercontent.com/u/62178788?s=72&u=c14538d44421775ccb404a47b3ee6b81faeea646&v=4" width="24" alt="Avatar of guesung"> guesung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#guesung">Copy rank badge</a><br/>
 			Kuesung Park
 		</td>
 		<td>No Company</td>
@@ -1188,7 +1190,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/rayleighko">
 				<img src="https://avatars.githubusercontent.com/u/24822072?s=72&u=793c8dc2de21655847773223e9d718b3286b359c&v=4" width="24" alt="Avatar of rayleighko"> rayleighko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#rayleighko">Copy rank badge</a><br/>
 			MyungJin Ko
 		</td>
 		<td>No Company</td>
@@ -1201,7 +1203,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/char-yb">
 				<img src="https://avatars.githubusercontent.com/u/68099546?s=72&u=2899ab09627f13bf88d0597117ba6f94506ab7b1&v=4" width="24" alt="Avatar of char-yb"> char-yb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#char-yb">Copy rank badge</a><br/>
 			yb__char
 		</td>
 		<td>@nexters @depromeet @sipe-team </td>
@@ -1214,7 +1216,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Kroisse">
 				<img src="https://avatars.githubusercontent.com/u/543661?s=72&u=72aee6ba6463c6299d27e46ebb069534869cddd7&v=4" width="24" alt="Avatar of Kroisse"> Kroisse
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Kroisse">Copy rank badge</a><br/>
 			Eunchong "Gracie" Yu
 		</td>
 		<td>No Company</td>
@@ -1227,7 +1229,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/disjukr">
 				<img src="https://avatars.githubusercontent.com/u/690661?s=72&u=915f2c67b52a28512216de8f0872809d141103d1&v=4" width="24" alt="Avatar of disjukr"> disjukr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#disjukr">Copy rank badge</a><br/>
 			JongChan Choi (Rieul)
 		</td>
 		<td>No Company</td>
@@ -1240,7 +1242,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/leegeunhyeok">
 				<img src="https://avatars.githubusercontent.com/u/26512984?s=72&u=46d8bb6cba1eca8c30f5d5bffad1be95c2d4816e&v=4" width="24" alt="Avatar of leegeunhyeok"> leegeunhyeok
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#leegeunhyeok">Copy rank badge</a><br/>
 			Geunhyeok LEE
 		</td>
 		<td>@toss </td>
@@ -1253,7 +1255,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/HurDong">
 				<img src="https://avatars.githubusercontent.com/u/131800093?s=72&u=7a68367e7e1a23f20d188efe58ddfe22761a0a4f&v=4" width="24" alt="Avatar of HurDong"> HurDong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#HurDong">Copy rank badge</a><br/>
 			허동민
 		</td>
 		<td>Hongik Univ. Computer Engineering<br/></td>
@@ -1266,7 +1268,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/devseunggwan">
 				<img src="https://avatars.githubusercontent.com/u/60123681?s=72&u=da62a36127865067e54e1aee64bfe807505cc4d8&v=4" width="24" alt="Avatar of devseunggwan"> devseunggwan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#devseunggwan">Copy rank badge</a><br/>
 			Seunggwan Song
 		</td>
 		<td>@laplacetec </td>
@@ -1279,7 +1281,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ghostdogpr">
 				<img src="https://avatars.githubusercontent.com/u/7413894?s=72&u=63dea832171801401441412ebfe6a1dbe00e15b4&v=4" width="24" alt="Avatar of ghostdogpr"> ghostdogpr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ghostdogpr">Copy rank badge</a><br/>
 			Pierre Ricadat
 		</td>
 		<td>@devsisters </td>
@@ -1292,7 +1294,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jiji-hoon96">
 				<img src="https://avatars.githubusercontent.com/u/94469974?s=72&u=8a8d3adcc3ec2b89db474e2160c459f09bb8684b&v=4" width="24" alt="Avatar of jiji-hoon96"> jiji-hoon96
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jiji-hoon96">Copy rank badge</a><br/>
 			jihoon
 		</td>
 		<td>Hicarenet </td>
@@ -1305,7 +1307,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/songkg7">
 				<img src="https://avatars.githubusercontent.com/u/56438906?s=72&u=10a0e1564576ef2086b3862c596b88cae0f0031d&v=4" width="24" alt="Avatar of songkg7"> songkg7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#songkg7">Copy rank badge</a><br/>
 			Haril Song
 		</td>
 		<td>@42dot </td>
@@ -1318,7 +1320,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/easylogic">
 				<img src="https://avatars.githubusercontent.com/u/591983?s=72&v=4" width="24" alt="Avatar of easylogic"> easylogic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#easylogic">Copy rank badge</a><br/>
 			jinho park
 		</td>
 		<td>@summernote @easylogic @elf-framework </td>
@@ -1331,7 +1333,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/minyeamer">
 				<img src="https://avatars.githubusercontent.com/u/17109173?s=72&u=20f4a2e2b2bf77111a943e862640abbe06f63ad0&v=4" width="24" alt="Avatar of minyeamer"> minyeamer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#minyeamer">Copy rank badge</a><br/>
 			Minyeob Kim
 		</td>
 		<td>No Company</td>
@@ -1344,7 +1346,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Laeyoung">
 				<img src="https://avatars.githubusercontent.com/u/1391299?s=72&u=45059d9c171f570d3aef2d6ded401c2c79ebdff5&v=4" width="24" alt="Avatar of Laeyoung"> Laeyoung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Laeyoung">Copy rank badge</a><br/>
 			Laeyoung
 		</td>
 		<td>No Company</td>
@@ -1357,7 +1359,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/gronxb">
 				<img src="https://avatars.githubusercontent.com/u/41789633?s=72&u=547de9fdd818e277802f96a4b57ba3741f1d1e31&v=4" width="24" alt="Avatar of gronxb"> gronxb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#gronxb">Copy rank badge</a><br/>
 			Sungyu Kang
 		</td>
 		<td>@toss </td>
@@ -1370,7 +1372,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Jamkris">
 				<img src="https://avatars.githubusercontent.com/u/82251632?s=72&u=29652be87cf967d2c2f12d419a5c837fba7f8c93&v=4" width="24" alt="Avatar of Jamkris"> Jamkris
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Jamkris">Copy rank badge</a><br/>
 			SeungHyun
 		</td>
 		<td>No Company</td>
@@ -1383,7 +1385,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jechol">
 				<img src="https://avatars.githubusercontent.com/u/795125?s=72&u=d2db94af28617fba65d19dd8134fdd1e93c7d6e8&v=4" width="24" alt="Avatar of jechol"> jechol
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jechol">Copy rank badge</a><br/>
 			Jechol Lee
 		</td>
 		<td>@devall-org  </td>
@@ -1396,7 +1398,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/breath103">
 				<img src="https://avatars.githubusercontent.com/u/2001792?s=72&u=878308b695e462a8f5d1d5396761921f1ab4a6b6&v=4" width="24" alt="Avatar of breath103"> breath103
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#breath103">Copy rank badge</a><br/>
 			Kurt
 		</td>
 		<td>No Company</td>
@@ -1409,7 +1411,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/froggy1014">
 				<img src="https://avatars.githubusercontent.com/u/76844856?s=72&u=22d44afc33c6c84c86e90f7927f8cc99c9560f5a&v=4" width="24" alt="Avatar of froggy1014"> froggy1014
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#froggy1014">Copy rank badge</a><br/>
 			Evan
 		</td>
 		<td>Cloudhospital </td>
@@ -1422,7 +1424,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/2daKaizen-gun">
 				<img src="https://avatars.githubusercontent.com/u/254829298?s=72&u=2d6862efc9a923a3f167f34544cf42e2be312673&v=4" width="24" alt="Avatar of 2daKaizen-gun"> 2daKaizen-gun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#2daKaizen-gun">Copy rank badge</a><br/>
 			JPLee
 		</td>
 		<td>No Company</td>
@@ -1435,7 +1437,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/haechanmoon">
 				<img src="https://avatars.githubusercontent.com/u/142145631?s=72&u=e43220b7780fc8a8333fa39bfc7324e893f096ba&v=4" width="24" alt="Avatar of haechanmoon"> haechanmoon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#haechanmoon">Copy rank badge</a><br/>
 			Pino Moon
 		</td>
 		<td>@woowacourse 8th Be </td>
@@ -1448,7 +1450,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/justinyoo">
 				<img src="https://avatars.githubusercontent.com/u/1538528?s=72&u=7df07ea894a679551edce4707da744d2b2ed2969&v=4" width="24" alt="Avatar of justinyoo"> justinyoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#justinyoo">Copy rank badge</a><br/>
 			Justin Yoo
 		</td>
 		<td>Microsoft </td>
@@ -1461,7 +1463,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/CaesiumY">
 				<img src="https://avatars.githubusercontent.com/u/35517199?s=72&u=5437c45b0fd74b67eb754bd71eb62b688aecba23&v=4" width="24" alt="Avatar of CaesiumY"> CaesiumY
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#CaesiumY">Copy rank badge</a><br/>
 			ChangSik Yoon
 		</td>
 		<td>No Company</td>
@@ -1474,7 +1476,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/BaekKyunShin">
 				<img src="https://avatars.githubusercontent.com/u/36662761?s=72&u=0954621d620ba4543e53d89036d358ff3be45f8e&v=4" width="24" alt="Avatar of BaekKyunShin"> BaekKyunShin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#BaekKyunShin">Copy rank badge</a><br/>
 			신백균
 		</td>
 		<td>No Company</td>
@@ -1487,7 +1489,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/teslamint">
 				<img src="https://avatars.githubusercontent.com/u/158752?s=72&u=21c4e2231cdf3a543bfb02333fe40b2d5e0d4459&v=4" width="24" alt="Avatar of teslamint"> teslamint
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#teslamint">Copy rank badge</a><br/>
 			Jaehoon You
 		</td>
 		<td>No Company</td>
@@ -1500,7 +1502,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/msbaek">
 				<img src="https://avatars.githubusercontent.com/u/22156?s=72&v=4" width="24" alt="Avatar of msbaek"> msbaek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#msbaek">Copy rank badge</a><br/>
 			Myeongseok Baek
 		</td>
 		<td>Ktown4u </td>
@@ -1513,7 +1515,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Rokt33r">
 				<img src="https://avatars.githubusercontent.com/u/5865853?s=72&u=2076d1e95f211aca5c6ea905a62de37c695e0312&v=4" width="24" alt="Avatar of Rokt33r"> Rokt33r
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Rokt33r">Copy rank badge</a><br/>
 			Junyoung Choi
 		</td>
 		<td>@issuehunt </td>
@@ -1526,7 +1528,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Cotidie">
 				<img src="https://avatars.githubusercontent.com/u/51331195?s=72&v=4" width="24" alt="Avatar of Cotidie"> Cotidie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Cotidie">Copy rank badge</a><br/>
 			Wonseok
 		</td>
 		<td>Kaist </td>
@@ -1539,7 +1541,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hyunjung-choi">
 				<img src="https://avatars.githubusercontent.com/u/69616347?s=72&u=a21b6f668ded4ce82cb23a785f0ddc2a92abdd45&v=4" width="24" alt="Avatar of hyunjung-choi"> hyunjung-choi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hyunjung-choi">Copy rank badge</a><br/>
 			최현정
 		</td>
 		<td>No Company</td>
@@ -1552,7 +1554,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jongfeel">
 				<img src="https://avatars.githubusercontent.com/u/17442457?s=72&u=940f058c5210cffab5ff0469b3683cdf4c646e4e&v=4" width="24" alt="Avatar of jongfeel"> jongfeel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jongfeel">Copy rank badge</a><br/>
 			Kim Jong Feel
 		</td>
 		<td>No Company</td>
@@ -1565,7 +1567,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Zerohertz">
 				<img src="https://avatars.githubusercontent.com/u/42334717?s=72&u=5ebf4d33e73b1ad373154f6cdee44f7cab4d05ba&v=4" width="24" alt="Avatar of Zerohertz"> Zerohertz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Zerohertz">Copy rank badge</a><br/>
 			Hyogeun Oh (오효근)
 		</td>
 		<td>@tossinvest </td>
@@ -1578,7 +1580,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/luke0408">
 				<img src="https://avatars.githubusercontent.com/u/98688494?s=72&u=6a06f7b4b509c0970e6abf4302121a24133b9297&v=4" width="24" alt="Avatar of luke0408"> luke0408
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#luke0408">Copy rank badge</a><br/>
 			SunKyu Choi
 		</td>
 		<td>Gachon University </td>
@@ -1591,7 +1593,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/indiflex">
 				<img src="https://avatars.githubusercontent.com/u/5843964?s=72&u=ce8ecce607c5d5f24c94b9990fdd81b0df56f961&v=4" width="24" alt="Avatar of indiflex"> indiflex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#indiflex">Copy rank badge</a><br/>
 			시니어코딩
 		</td>
 		<td>No Company</td>
@@ -1604,7 +1606,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/VenusGirl">
 				<img src="https://avatars.githubusercontent.com/u/53147200?s=72&u=80b13c27e96fd4020634aeb21583652b4520cd2a&v=4" width="24" alt="Avatar of VenusGirl"> VenusGirl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#VenusGirl">Copy rank badge</a><br/>
 			VenusGirl❤
 		</td>
 		<td>No Company</td>
@@ -1617,7 +1619,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Bing-su">
 				<img src="https://avatars.githubusercontent.com/u/37621276?s=72&u=40d768586d9cb4b9404565e44bd980e91bd59b83&v=4" width="24" alt="Avatar of Bing-su"> Bing-su
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Bing-su">Copy rank badge</a><br/>
 			Dowon
 		</td>
 		<td>No Company</td>
@@ -1630,7 +1632,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Neibce">
 				<img src="https://avatars.githubusercontent.com/u/18096595?s=72&u=c003ac83361cf959f2941beda0868c3f9dd7a180&v=4" width="24" alt="Avatar of Neibce"> Neibce
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Neibce">Copy rank badge</a><br/>
 			Junyoung Yang
 		</td>
 		<td>Pusan Nat'l University </td>
@@ -1643,7 +1645,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/noname0310">
 				<img src="https://avatars.githubusercontent.com/u/48761044?s=72&u=401a20855374f2c1beecbe2e10e95461f9403322&v=4" width="24" alt="Avatar of noname0310"> noname0310
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#noname0310">Copy rank badge</a><br/>
 			noname
 		</td>
 		<td>No Company</td>
@@ -1656,7 +1658,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/thingineeer">
 				<img src="https://avatars.githubusercontent.com/u/88179341?s=72&u=3bad74c3ecf222c4d135f78f6bf391a949660f82&v=4" width="24" alt="Avatar of thingineeer"> thingineeer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#thingineeer">Copy rank badge</a><br/>
 			MJ
 		</td>
 		<td>No Company</td>
@@ -1669,7 +1671,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hundong2">
 				<img src="https://avatars.githubusercontent.com/u/17015362?s=72&u=f0f85427a21940a01536025773f3622a6a6966e1&v=4" width="24" alt="Avatar of hundong2"> hundong2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hundong2">Copy rank badge</a><br/>
 			hundong2
 		</td>
 		<td>Secret </td>
@@ -1682,7 +1684,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/elecbug">
 				<img src="https://avatars.githubusercontent.com/u/81972855?s=72&u=2274fdbf220863f6b485a70c67b3032d6464abac&v=4" width="24" alt="Avatar of elecbug"> elecbug
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#elecbug">Copy rank badge</a><br/>
 			EB
 		</td>
 		<td>Keimyung Univ. Computer Network<br/>Lab<br/></td>
@@ -1695,7 +1697,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/HamBP">
 				<img src="https://avatars.githubusercontent.com/u/35232655?s=72&u=e77776c7f242baedfec29449a853be9ff77cb90c&v=4" width="24" alt="Avatar of HamBP"> HamBP
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#HamBP">Copy rank badge</a><br/>
 			algosketch
 		</td>
 		<td>Incheon National University </td>
@@ -1708,7 +1710,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jihoonahn">
 				<img src="https://avatars.githubusercontent.com/u/68891494?s=72&u=9b9485853ea616fbb504cf556cd611568790db09&v=4" width="24" alt="Avatar of jihoonahn"> jihoonahn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jihoonahn">Copy rank badge</a><br/>
 			Jihoon Ahn
 		</td>
 		<td>@pelagornis </td>
@@ -1721,7 +1723,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/simnalamburt">
 				<img src="https://avatars.githubusercontent.com/u/4435445?s=72&u=eea2d84ad8c03b44e96e3fd7e7f1e7e3c6c700b5&v=4" width="24" alt="Avatar of simnalamburt"> simnalamburt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#simnalamburt">Copy rank badge</a><br/>
 			Jihyeon Kim (김지현)
 		</td>
 		<td>@contentstech-com Vpe, Ex @portone-io,<br/>@snucse<br/></td>
@@ -1734,7 +1736,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/rolldeep-stepmerrily">
 				<img src="https://avatars.githubusercontent.com/u/98504913?s=72&u=b711531a6f79e571e43b4443720a6797291cb6ce&v=4" width="24" alt="Avatar of rolldeep-stepmerrily"> rolldeep-stepmerrily
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#rolldeep-stepmerrily">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1747,7 +1749,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/daehyuh">
 				<img src="https://avatars.githubusercontent.com/u/53990946?s=72&u=003cc2ce3049f34b1989adeb871332d125ea4df8&v=4" width="24" alt="Avatar of daehyuh"> daehyuh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#daehyuh">Copy rank badge</a><br/>
 			Kang Daehyun
 		</td>
 		<td>Hufs Ces </td>
@@ -1760,7 +1762,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/gisbi-kim">
 				<img src="https://avatars.githubusercontent.com/u/14989535?s=72&u=457c94521fdfab5f700ec2431a42079c77df0ad6&v=4" width="24" alt="Avatar of gisbi-kim"> gisbi-kim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#gisbi-kim">Copy rank badge</a><br/>
 			Giseop Kim
 		</td>
 		<td>Dgist </td>
@@ -1773,7 +1775,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ageldama">
 				<img src="https://avatars.githubusercontent.com/u/54128?s=72&v=4" width="24" alt="Avatar of ageldama"> ageldama
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ageldama">Copy rank badge</a><br/>
 			Jonghyouk Yun
 		</td>
 		<td>No Company</td>
@@ -1786,7 +1788,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hyp3rflow">
 				<img src="https://avatars.githubusercontent.com/u/49385012?s=72&u=765081052e5e4d79323f0491ec48775116ff890a&v=4" width="24" alt="Avatar of hyp3rflow"> hyp3rflow
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hyp3rflow">Copy rank badge</a><br/>
 			flow
 		</td>
 		<td>@teamprex </td>
@@ -1799,7 +1801,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/changja88">
 				<img src="https://avatars.githubusercontent.com/u/21832110?s=72&u=7d95f7c954a16715f36b5de71cc001c897880ea2&v=4" width="24" alt="Avatar of changja88"> changja88
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#changja88">Copy rank badge</a><br/>
 			Eun changhyun
 		</td>
 		<td>No Company</td>
@@ -1812,7 +1814,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/RangHo">
 				<img src="https://avatars.githubusercontent.com/u/10833976?s=72&u=28fc86a39e62242cc863bb23aa35b0c791ad3c4c&v=4" width="24" alt="Avatar of RangHo"> RangHo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#RangHo">Copy rank badge</a><br/>
 			Juhun Lee
 		</td>
 		<td>Yonsei University, @fcai-lab </td>
@@ -1825,7 +1827,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kcalvinalvin">
 				<img src="https://avatars.githubusercontent.com/u/37185887?s=72&u=64fc9cb04c8743315ebde6775ec8486fc0ce1a12&v=4" width="24" alt="Avatar of kcalvinalvin"> kcalvinalvin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kcalvinalvin">Copy rank badge</a><br/>
 			Calvin Kim
 		</td>
 		<td>고롸늬 </td>
@@ -1838,7 +1840,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/lgwk42">
 				<img src="https://avatars.githubusercontent.com/u/76110334?s=72&u=758457ba0f391a8d4a13bdfc72c1b0643e42d4af&v=4" width="24" alt="Avatar of lgwk42"> lgwk42
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#lgwk42">Copy rank badge</a><br/>
 			김건우
 		</td>
 		<td>@bigtablet </td>
@@ -1851,7 +1853,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/manudeli">
 				<img src="https://avatars.githubusercontent.com/u/61593290?s=72&u=bc1ff5075626ea79e10444be6323513a54a52e68&v=4" width="24" alt="Avatar of manudeli"> manudeli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#manudeli">Copy rank badge</a><br/>
 			Jonghyeon Ko
 		</td>
 		<td>@toss @tanstack </td>
@@ -1864,7 +1866,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/stevejkang">
 				<img src="https://avatars.githubusercontent.com/u/47936709?s=72&v=4" width="24" alt="Avatar of stevejkang"> stevejkang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#stevejkang">Copy rank badge</a><br/>
 			Steve Juneyoung Kang
 		</td>
 		<td>@wanteddev @0xinevitable </td>
@@ -1877,7 +1879,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/SJang1">
 				<img src="https://avatars.githubusercontent.com/u/29011440?s=72&u=92bfdb14824692d320168c26b1c8d71de47dadee&v=4" width="24" alt="Avatar of SJang1"> SJang1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#SJang1">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1890,7 +1892,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sangkilc">
 				<img src="https://avatars.githubusercontent.com/u/1836303?s=72&u=d9d57db9d443750dbfb49a84464c098caf75a740&v=4" width="24" alt="Avatar of sangkilc"> sangkilc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sangkilc">Copy rank badge</a><br/>
 			Sang Kil Cha
 		</td>
 		<td>@softsec-kaist  </td>
@@ -1903,7 +1905,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sunrabbit123">
 				<img src="https://avatars.githubusercontent.com/u/64676070?s=72&u=c6bff9f5d06bd837d4c2a69e64beb5c416b917fa&v=4" width="24" alt="Avatar of sunrabbit123"> sunrabbit123
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sunrabbit123">Copy rank badge</a><br/>
 			오병진
 		</td>
 		<td>@wrtnlabs  </td>
@@ -1916,7 +1918,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/junghyeonsu">
 				<img src="https://avatars.githubusercontent.com/u/54893898?s=72&u=ecd4884f031be6d3387bd73727f270e5b8f2b67b&v=4" width="24" alt="Avatar of junghyeonsu"> junghyeonsu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#junghyeonsu">Copy rank badge</a><br/>
 			정현수
 		</td>
 		<td>@daangn </td>
@@ -1929,7 +1931,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/qus0in">
 				<img src="https://avatars.githubusercontent.com/u/50694786?s=72&u=397a3b6830e311cb9ec474de05a57886f2582939&v=4" width="24" alt="Avatar of qus0in"> qus0in
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#qus0in">Copy rank badge</a><br/>
 			Young-in Byeon
 		</td>
 		<td>No Company</td>
@@ -1942,7 +1944,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/lemon-mint">
 				<img src="https://avatars.githubusercontent.com/u/55233766?s=72&u=2ad0e66e61e669f1e15311f2ca3245fb58975496&v=4" width="24" alt="Avatar of lemon-mint"> lemon-mint
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#lemon-mint">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1955,7 +1957,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jaeyeonling">
 				<img src="https://avatars.githubusercontent.com/u/40811999?s=72&u=ceb002c2037ae999802cea84dfe2eaff122c0d72&v=4" width="24" alt="Avatar of jaeyeonling"> jaeyeonling
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jaeyeonling">Copy rank badge</a><br/>
 			Jaeyeon Kim
 		</td>
 		<td>No Company</td>
@@ -1968,7 +1970,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/benelog">
 				<img src="https://avatars.githubusercontent.com/u/910151?s=72&u=82f4436e3472262310139e95ea008a16a0c490ff&v=4" width="24" alt="Avatar of benelog"> benelog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#benelog">Copy rank badge</a><br/>
 			Sanghyuk Jung
 		</td>
 		<td>Naver Corp. </td>
@@ -1981,7 +1983,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hollobit">
 				<img src="https://avatars.githubusercontent.com/u/998803?s=72&v=4" width="24" alt="Avatar of hollobit"> hollobit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hollobit">Copy rank badge</a><br/>
 			Jonathan Jeon
 		</td>
 		<td>Etri </td>
@@ -1994,7 +1996,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hyeshik">
 				<img src="https://avatars.githubusercontent.com/u/1702891?s=72&u=50fbc197751fb9415c5a1bb86bf8d610c38afcdd&v=4" width="24" alt="Avatar of hyeshik"> hyeshik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hyeshik">Copy rank badge</a><br/>
 			Hyeshik Chang
 		</td>
 		<td>Seoul National University </td>
@@ -2007,7 +2009,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/fru1tworld">
 				<img src="https://avatars.githubusercontent.com/u/127650598?s=72&u=03cf013b3faf099118e0c4b63c938bc60200d5b6&v=4" width="24" alt="Avatar of fru1tworld"> fru1tworld
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#fru1tworld">Copy rank badge</a><br/>
 			fru1tworld
 		</td>
 		<td>@portone-io </td>
@@ -2020,7 +2022,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Dhghomon">
 				<img src="https://avatars.githubusercontent.com/u/56599343?s=72&u=36ccc3f1673606d5111b8f0485ad3a38fc4a3790&v=4" width="24" alt="Avatar of Dhghomon"> Dhghomon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Dhghomon">Copy rank badge</a><br/>
 			Dave MacLeod
 		</td>
 		<td>No Company</td>
@@ -2033,7 +2035,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jinlee1703">
 				<img src="https://avatars.githubusercontent.com/u/68031450?s=72&u=b5f3993283517b47c74379e47e5c7fe054f1c40f&v=4" width="24" alt="Avatar of jinlee1703"> jinlee1703
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jinlee1703">Copy rank badge</a><br/>
 			Jinwoo Lee (Eden)
 		</td>
 		<td>@healingpaper-soluti </td>
@@ -2046,7 +2048,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/eupthere">
 				<img src="https://avatars.githubusercontent.com/u/30365108?s=72&u=11ae7ce3327c751f91d2bf11e0bee0e78798d3c8&v=4" width="24" alt="Avatar of eupthere"> eupthere
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#eupthere">Copy rank badge</a><br/>
 			eupthere
 		</td>
 		<td>No Company</td>
@@ -2059,7 +2061,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/HelloWorld017">
 				<img src="https://avatars.githubusercontent.com/u/3919433?s=72&u=c60def132f216d819f166c823838573e0005ce08&v=4" width="24" alt="Avatar of HelloWorld017"> HelloWorld017
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#HelloWorld017">Copy rank badge</a><br/>
 			nenw*
 		</td>
 		<td>@sparcs-kaist @if-team </td>
@@ -2072,7 +2074,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/robotpilot">
 				<img src="https://avatars.githubusercontent.com/u/2698667?s=72&u=a3b7b7c5a7a42b6cd66bfdc6872f1175a583b581&v=4" width="24" alt="Avatar of robotpilot"> robotpilot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#robotpilot">Copy rank badge</a><br/>
 			Pyo
 		</td>
 		<td>Robotis </td>
@@ -2085,7 +2087,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/yuseok-kim-edushare">
 				<img src="https://avatars.githubusercontent.com/u/24761659?s=72&u=a7ab5b0a4919003d4815e2cbb82ace5d4fe61af1&v=4" width="24" alt="Avatar of yuseok-kim-edushare"> yuseok-kim-edushare
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#yuseok-kim-edushare">Copy rank badge</a><br/>
 			김유석(Yu Seok Kim)
 		</td>
 		<td>Vilac </td>
@@ -2098,7 +2100,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/OliverJoo">
 				<img src="https://avatars.githubusercontent.com/u/25758568?s=72&u=5d064e752976b97171d98e63f8adf70423c9703a&v=4" width="24" alt="Avatar of OliverJoo"> OliverJoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#OliverJoo">Copy rank badge</a><br/>
 			Oliver he/him
 		</td>
 		<td>No Company</td>
@@ -2111,7 +2113,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Geonhee-LEE">
 				<img src="https://avatars.githubusercontent.com/u/12562147?s=72&u=af4620420fbe8f940a85b13ca9dfcc464e1c33d2&v=4" width="24" alt="Avatar of Geonhee-LEE"> Geonhee-LEE
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Geonhee-LEE">Copy rank badge</a><br/>
 			Geonhee
 		</td>
 		<td>Robotis Ai @robotis-move @robotis-git<br/></td>
@@ -2124,7 +2126,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/justinbrianhwang">
 				<img src="https://avatars.githubusercontent.com/u/150766879?s=72&u=58adbd036cc70e4bf703897db881f7a01a00a48d&v=4" width="24" alt="Avatar of justinbrianhwang"> justinbrianhwang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#justinbrianhwang">Copy rank badge</a><br/>
 			Sunjun Hwang(황선준)
 		</td>
 		<td>Yonsei University </td>
@@ -2137,7 +2139,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kez-lab">
 				<img src="https://avatars.githubusercontent.com/u/93872496?s=72&u=fad31f18973f0e05026e3cf5d514673e840b02d2&v=4" width="24" alt="Avatar of kez-lab"> kez-lab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kez-lab">Copy rank badge</a><br/>
 			KEZ
 		</td>
 		<td>No Company</td>
@@ -2150,7 +2152,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Bu-Du-Dak">
 				<img src="https://avatars.githubusercontent.com/u/77924873?s=72&u=3620d641b98f5b8f403671e2c977dca3a4577ed6&v=4" width="24" alt="Avatar of Bu-Du-Dak"> Bu-Du-Dak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Bu-Du-Dak">Copy rank badge</a><br/>
 			Hong JaeHoon
 		</td>
 		<td>Ean_tec </td>
@@ -2163,7 +2165,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/lisa3907">
 				<img src="https://avatars.githubusercontent.com/u/3665952?s=72&u=696f5caf81cc2f6bbf1670f3b609d3fc3878027b&v=4" width="24" alt="Avatar of lisa3907"> lisa3907
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#lisa3907">Copy rank badge</a><br/>
 			SEONG-AHN LEE
 		</td>
 		<td>Odinsoft </td>
@@ -2176,7 +2178,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/choisungwook">
 				<img src="https://avatars.githubusercontent.com/u/9348148?s=72&u=d7a321960e302961bfa5700d236ae66774524d54&v=4" width="24" alt="Avatar of choisungwook"> choisungwook
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#choisungwook">Copy rank badge</a><br/>
 			choisungwook
 		</td>
 		<td>No Company</td>
@@ -2189,7 +2191,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ujuc">
 				<img src="https://avatars.githubusercontent.com/u/624975?s=72&u=e11469dcb25c4e871b8571161bf32a8645698717&v=4" width="24" alt="Avatar of ujuc"> ujuc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ujuc">Copy rank badge</a><br/>
 			sungjin
 		</td>
 		<td>No Company</td>
@@ -2202,7 +2204,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/songminkyu">
 				<img src="https://avatars.githubusercontent.com/u/20591921?s=72&u=8140a4634f31a08b8f2270bc6260bbae8eff7fb9&v=4" width="24" alt="Avatar of songminkyu"> songminkyu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#songminkyu">Copy rank badge</a><br/>
 			likelihood
 		</td>
 		<td>No Company</td>
@@ -2215,7 +2217,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/panarch">
 				<img src="https://avatars.githubusercontent.com/u/2025065?s=72&u=eb081d0bbe3f649ccf2b1e5ce0c90a7488c0b1cf&v=4" width="24" alt="Avatar of panarch"> panarch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#panarch">Copy rank badge</a><br/>
 			Taehoon Moon
 		</td>
 		<td>Gluesql </td>
@@ -2228,7 +2230,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jujumilk3">
 				<img src="https://avatars.githubusercontent.com/u/41659814?s=72&u=538f7dfef03b59f25e43f10d59a31c19ef538a0c&v=4" width="24" alt="Avatar of jujumilk3"> jujumilk3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jujumilk3">Copy rank badge</a><br/>
 			gyudoza
 		</td>
 		<td>Wrtn.ax </td>
@@ -2241,7 +2243,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Nhahan">
 				<img src="https://avatars.githubusercontent.com/u/81916648?s=72&u=1ba058e350f5102d87163591cc40879ba5fae954&v=4" width="24" alt="Avatar of Nhahan"> Nhahan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Nhahan">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2254,7 +2256,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/cometkim">
 				<img src="https://avatars.githubusercontent.com/u/9696352?s=72&u=a0c516f075b83409a8b6317ad269291117861e26&v=4" width="24" alt="Avatar of cometkim"> cometkim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#cometkim">Copy rank badge</a><br/>
 			Hyeseong Kim
 		</td>
 		<td>@daangn </td>
@@ -2267,7 +2269,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/namjaejeon">
 				<img src="https://avatars.githubusercontent.com/u/13989893?s=72&u=a534aba3216f0c711f223bab0b8abe9d06ad004f&v=4" width="24" alt="Avatar of namjaejeon"> namjaejeon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#namjaejeon">Copy rank badge</a><br/>
 			Namjae Jeon
 		</td>
 		<td>No Company</td>
@@ -2280,7 +2282,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/theminjunchoi">
 				<img src="https://avatars.githubusercontent.com/u/26942349?s=72&u=2cbac7a2f926912006a2a81f280791d1c90bc21e&v=4" width="24" alt="Avatar of theminjunchoi"> theminjunchoi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#theminjunchoi">Copy rank badge</a><br/>
 			MinJun Choi
 		</td>
 		<td>Chung-ang Univ. Cse <br/></td>
@@ -2293,7 +2295,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/get6">
 				<img src="https://avatars.githubusercontent.com/u/56869571?s=72&u=5a400ddc992f5e2156058134fac1b776f164bd42&v=4" width="24" alt="Avatar of get6"> get6
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#get6">Copy rank badge</a><br/>
 			sunhwang
 		</td>
 		<td>@ttc </td>
@@ -2306,7 +2308,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Zeta611">
 				<img src="https://avatars.githubusercontent.com/u/9553691?s=72&u=e67c3c8f66d7270cbfe72e7a33fe95713270a915&v=4" width="24" alt="Avatar of Zeta611"> Zeta611
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Zeta611">Copy rank badge</a><br/>
 			Jay Lee
 		</td>
 		<td>@ropas @koreantug </td>
@@ -2319,7 +2321,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/icepeng">
 				<img src="https://avatars.githubusercontent.com/u/12782606?s=72&u=c67f9d7e39d09d8a9fd49810274a0951172b0e19&v=4" width="24" alt="Avatar of icepeng"> icepeng
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#icepeng">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2332,7 +2334,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/seongbin9786">
 				<img src="https://avatars.githubusercontent.com/u/28754907?s=72&u=12ec57f99565d222dc2b7405d6919615e2679f65&v=4" width="24" alt="Avatar of seongbin9786"> seongbin9786
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#seongbin9786">Copy rank badge</a><br/>
 			seongbin
 		</td>
 		<td>No Company</td>
@@ -2345,7 +2347,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kozistr">
 				<img src="https://avatars.githubusercontent.com/u/15344796?s=72&u=cbd5c3bfecb49757b42fb6aee259d3dd25d6557f&v=4" width="24" alt="Avatar of kozistr"> kozistr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kozistr">Copy rank badge</a><br/>
 			Hyeongchan Kim
 		</td>
 		<td>No Company</td>
@@ -2358,7 +2360,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Lee-JaeWon">
 				<img src="https://avatars.githubusercontent.com/u/72693388?s=72&u=090836256348dcae73e3fd54d1d8580e46769653&v=4" width="24" alt="Avatar of Lee-JaeWon"> Lee-JaeWon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Lee-JaeWon">Copy rank badge</a><br/>
 			Jaewon Lee
 		</td>
 		<td>Cilab@yonsei Univ.  </td>
@@ -2371,7 +2373,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/if1live">
 				<img src="https://avatars.githubusercontent.com/u/971476?s=72&v=4" width="24" alt="Avatar of if1live"> if1live
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#if1live">Copy rank badge</a><br/>
 			byunghoo.yu
 		</td>
 		<td>@5minlab  </td>
@@ -2384,7 +2386,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hellozo0">
 				<img src="https://avatars.githubusercontent.com/u/62981652?s=72&u=4c727e702f4e49718d7be4d561531ccf15a6552a&v=4" width="24" alt="Avatar of hellozo0"> hellozo0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hellozo0">Copy rank badge</a><br/>
 			HyunJu An
 		</td>
 		<td>No Company</td>
@@ -2397,7 +2399,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/2dubu">
 				<img src="https://avatars.githubusercontent.com/u/70322775?s=72&u=30d356b86a0fd356160ce7cd95ef98afe7936ef3&v=4" width="24" alt="Avatar of 2dubu"> 2dubu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#2dubu">Copy rank badge</a><br/>
 			Geonwoo Lee
 		</td>
 		<td>@daangn </td>
@@ -2410,7 +2412,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/JaesungLeee">
 				<img src="https://avatars.githubusercontent.com/u/51078673?s=72&u=51737287d3bd7f8b8cb185021a5f791ab493bfeb&v=4" width="24" alt="Avatar of JaesungLeee"> JaesungLeee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#JaesungLeee">Copy rank badge</a><br/>
 			Jaesung Lee
 		</td>
 		<td>No Company</td>
@@ -2423,7 +2425,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/JiHong88">
 				<img src="https://avatars.githubusercontent.com/u/13191953?s=72&u=54ca7310588f807c95a185ac13800253465ef6f0&v=4" width="24" alt="Avatar of JiHong88"> JiHong88
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#JiHong88">Copy rank badge</a><br/>
 			Yi JiHong
 		</td>
 		<td>No Company</td>
@@ -2436,7 +2438,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sigridjineth">
 				<img src="https://avatars.githubusercontent.com/u/41055141?s=72&u=975df724d95e912e28c81d7bbf182bf760be9265&v=4" width="24" alt="Avatar of sigridjineth"> sigridjineth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sigridjineth">Copy rank badge</a><br/>
 			Sigrid Jin (ง'̀-'́)ง oO
 		</td>
 		<td>@ubc @instructkr </td>
@@ -2449,7 +2451,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/JUSTIVE">
 				<img src="https://avatars.githubusercontent.com/u/7118300?s=72&u=cff51b7e0cf46e1cd66b6284cfc42931d3378664&v=4" width="24" alt="Avatar of JUSTIVE"> JUSTIVE
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#JUSTIVE">Copy rank badge</a><br/>
 			Ben
 		</td>
 		<td>Cookieplace </td>
@@ -2462,7 +2464,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/scari">
 				<img src="https://avatars.githubusercontent.com/u/964251?s=72&v=4" width="24" alt="Avatar of scari"> scari
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#scari">Copy rank badge</a><br/>
 			Younggun Kim
 		</td>
 		<td>@dalock  </td>
@@ -2475,7 +2477,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jhon3242">
 				<img src="https://avatars.githubusercontent.com/u/78288539?s=72&u=5f86d2d9ee3532e28282da176f5b1ac54bd6912e&v=4" width="24" alt="Avatar of jhon3242"> jhon3242
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jhon3242">Copy rank badge</a><br/>
 			Wonjun Choi
 		</td>
 		<td>@toss </td>
@@ -2488,7 +2490,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/nacyot">
 				<img src="https://avatars.githubusercontent.com/u/148919?s=72&u=f70bfac12ba8bc2071500fd579e6d01dd630261a&v=4" width="24" alt="Avatar of nacyot"> nacyot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#nacyot">Copy rank badge</a><br/>
 			Daegwon Nacyot Kim
 		</td>
 		<td>Karrot(당근) </td>
@@ -2501,7 +2503,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/mysticfall">
 				<img src="https://avatars.githubusercontent.com/u/2367032?s=72&u=f0902182ea08b98a3995e30728592840a83f1735&v=4" width="24" alt="Avatar of mysticfall"> mysticfall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#mysticfall">Copy rank badge</a><br/>
 			Xavier Cho
 		</td>
 		<td>Clush </td>
@@ -2514,7 +2516,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/bepyan">
 				<img src="https://avatars.githubusercontent.com/u/65283190?s=72&u=cf68eca90591b9346226728a6c30dd2ecad04497&v=4" width="24" alt="Avatar of bepyan"> bepyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#bepyan">Copy rank badge</a><br/>
 			Edward Kim
 		</td>
 		<td>@kakao @nexters </td>
@@ -2527,7 +2529,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/AppleCEO">
 				<img src="https://avatars.githubusercontent.com/u/47517256?s=72&u=3eee37d61ad851ea7c8245a7fe81c4818a312188&v=4" width="24" alt="Avatar of AppleCEO"> AppleCEO
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#AppleCEO">Copy rank badge</a><br/>
 			도미닉
 		</td>
 		<td>Idalink </td>
@@ -2540,7 +2542,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jisungbin">
 				<img src="https://avatars.githubusercontent.com/u/40740128?s=72&u=365d2138473948d0090779d730ab470d3ddf6d6f&v=4" width="24" alt="Avatar of jisungbin"> jisungbin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jisungbin">Copy rank badge</a><br/>
 			Ji Sungbin (Forky)
 		</td>
 		<td>@healingpaper (강남언니) </td>
@@ -2553,7 +2555,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sw6820">
 				<img src="https://avatars.githubusercontent.com/u/52646313?s=72&v=4" width="24" alt="Avatar of sw6820"> sw6820
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sw6820">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Yonsei Univ. </td>
@@ -2566,7 +2568,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/progh2">
 				<img src="https://avatars.githubusercontent.com/u/1307187?s=72&u=870a8039bddd5ee572cf31f5b25e63abdd33083c&v=4" width="24" alt="Avatar of progh2"> progh2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#progh2">Copy rank badge</a><br/>
 			Gihun Ham
 		</td>
 		<td>Mirim Meister Highschool </td>
@@ -2579,7 +2581,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/custardcream98">
 				<img src="https://avatars.githubusercontent.com/u/87423085?s=72&u=d2517daa834e8e82ae7ee38dfbd626acc5663cde&v=4" width="24" alt="Avatar of custardcream98"> custardcream98
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#custardcream98">Copy rank badge</a><br/>
 			shiwoo.park
 		</td>
 		<td>@tossinvest </td>
@@ -2592,7 +2594,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/rickiepark">
 				<img src="https://avatars.githubusercontent.com/u/18256853?s=72&u=a8331133911ac429531692620f7044beb35162c4&v=4" width="24" alt="Avatar of rickiepark"> rickiepark
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#rickiepark">Copy rank badge</a><br/>
 			Haesun Park
 		</td>
 		<td>No Company</td>
@@ -2605,7 +2607,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Sh031224">
 				<img src="https://avatars.githubusercontent.com/u/51149996?s=72&v=4" width="24" alt="Avatar of Sh031224"> Sh031224
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Sh031224">Copy rank badge</a><br/>
 			차승호
 		</td>
 		<td>@wanteddev </td>
@@ -2618,7 +2620,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kyujin-cho">
 				<img src="https://avatars.githubusercontent.com/u/2904494?s=72&u=c1f5076b2cafc44f9abb5bf976b69a416806b220&v=4" width="24" alt="Avatar of kyujin-cho"> kyujin-cho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kyujin-cho">Copy rank badge</a><br/>
 			Kyujin Cho
 		</td>
 		<td>@lablup  </td>
@@ -2631,7 +2633,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/eseiker">
 				<img src="https://avatars.githubusercontent.com/u/285361?s=72&u=c40f0609e326a98eb1f3f2afb4b12ad515cc0f38&v=4" width="24" alt="Avatar of eseiker"> eseiker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#eseiker">Copy rank badge</a><br/>
 			Licia
 		</td>
 		<td>No Company</td>
@@ -2644,7 +2646,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/stepanowon">
 				<img src="https://avatars.githubusercontent.com/u/1870088?s=72&u=772f11ff15400fbaf8ddeeebb6da4342774a0538&v=4" width="24" alt="Avatar of stepanowon"> stepanowon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#stepanowon">Copy rank badge</a><br/>
 			Hyungseob Won
 		</td>
 		<td>(주)쌤즈 - Ssamz </td>
@@ -2657,7 +2659,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/saechimdaeki">
 				<img src="https://avatars.githubusercontent.com/u/40031858?s=72&u=187c2f96fc9d88c18b5eddca8acc5f27f15e0a53&v=4" width="24" alt="Avatar of saechimdaeki"> saechimdaeki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#saechimdaeki">Copy rank badge</a><br/>
 			Junseong kim
 		</td>
 		<td>No Company</td>
@@ -2670,7 +2672,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jokj624">
 				<img src="https://avatars.githubusercontent.com/u/20807197?s=72&u=03c9cf37635c80afe8f11bf7f140b79ff85ec9d6&v=4" width="24" alt="Avatar of jokj624"> jokj624
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jokj624">Copy rank badge</a><br/>
 			Zino, Chae Jeong Ah
 		</td>
 		<td>No Company</td>
@@ -2683,7 +2685,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/CreatiCoding">
 				<img src="https://avatars.githubusercontent.com/u/33514304?s=72&u=f652e291e828a8f9d9720fdf76f19f5e2b068cd4&v=4" width="24" alt="Avatar of CreatiCoding"> CreatiCoding
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#CreatiCoding">Copy rank badge</a><br/>
 			정석호
 		</td>
 		<td>Toss </td>
@@ -2696,7 +2698,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kihyun-math-ee">
 				<img src="https://avatars.githubusercontent.com/u/256994988?s=72&u=28f712f3e77521f6b807d49a1e779284d8f4baf9&v=4" width="24" alt="Avatar of kihyun-math-ee"> kihyun-math-ee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kihyun-math-ee">Copy rank badge</a><br/>
 			Kihyun
 		</td>
 		<td>Korea University </td>
@@ -2709,7 +2711,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kelly6bf">
 				<img src="https://avatars.githubusercontent.com/u/104609807?s=72&u=750c260cadf91533428cbff340476cf0d39536e8&v=4" width="24" alt="Avatar of kelly6bf"> kelly6bf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kelly6bf">Copy rank badge</a><br/>
 			Sunguk Yang (Kelly)
 		</td>
 		<td>@woowacourse </td>
@@ -2722,7 +2724,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ApexCaptain">
 				<img src="https://avatars.githubusercontent.com/u/39866332?s=72&u=a68ad99aa3741205ea3872eaa5ca0dbc5d3d8334&v=4" width="24" alt="Avatar of ApexCaptain"> ApexCaptain
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ApexCaptain">Copy rank badge</a><br/>
 			SangHun Lee
 		</td>
 		<td>No Company</td>
@@ -2735,7 +2737,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/bugoverdose">
 				<img src="https://avatars.githubusercontent.com/u/73531614?s=72&u=363b3223a03cd56d5e459067a881eb93fa652197&v=4" width="24" alt="Avatar of bugoverdose"> bugoverdose
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#bugoverdose">Copy rank badge</a><br/>
 			Jinwoo Jeong
 		</td>
 		<td>Seoul National University </td>
@@ -2748,7 +2750,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/xvzc">
 				<img src="https://avatars.githubusercontent.com/u/45588457?s=72&u=4d61d34948bed4a615f960417ec8bf30c08255d0&v=4" width="24" alt="Avatar of xvzc"> xvzc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#xvzc">Copy rank badge</a><br/>
 			xvzc
 		</td>
 		<td>No Company</td>
@@ -2761,7 +2763,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hadevyi">
 				<img src="https://avatars.githubusercontent.com/u/45550607?s=72&u=371ba1d25b36e75ca95244e58c9068d257cd3e26&v=4" width="24" alt="Avatar of hadevyi"> hadevyi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hadevyi">Copy rank badge</a><br/>
 			Hyeona
 		</td>
 		<td>Bigxdata </td>
@@ -2774,7 +2776,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/choru-k">
 				<img src="https://avatars.githubusercontent.com/u/8134523?s=72&u=41ff2bc58befc7a9f863c06a43ed60ae5916ac16&v=4" width="24" alt="Avatar of choru-k"> choru-k
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#choru-k">Copy rank badge</a><br/>
 			Cheol Kang
 		</td>
 		<td>@commvault </td>
@@ -2787,7 +2789,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jinseob2kim">
 				<img src="https://avatars.githubusercontent.com/u/33089958?s=72&u=feefa8dfb9e2e3b7c68f1d8ab0ce8f89e5c62641&v=4" width="24" alt="Avatar of jinseob2kim"> jinseob2kim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jinseob2kim">Copy rank badge</a><br/>
 			Jinseob Kim
 		</td>
 		<td>@zarathucorp  </td>
@@ -2800,7 +2802,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/yakhyo">
 				<img src="https://avatars.githubusercontent.com/u/28424328?s=72&v=4" width="24" alt="Avatar of yakhyo"> yakhyo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#yakhyo">Copy rank badge</a><br/>
 			Yakhyokhuja Valikhujaev
 		</td>
 		<td>No Company</td>
@@ -2813,7 +2815,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/saseungmin">
 				<img src="https://avatars.githubusercontent.com/u/60910665?s=72&u=62850ff8add50dc4c618ecd4ada9de2493705f49&v=4" width="24" alt="Avatar of saseungmin"> saseungmin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#saseungmin">Copy rank badge</a><br/>
 			Harang
 		</td>
 		<td>@mnet-plus @dndacademy @sipe-team @mbti-nf-team<br/></td>
@@ -2826,7 +2828,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ai7dnn">
 				<img src="https://avatars.githubusercontent.com/u/70050528?s=72&u=2b0d5cea8ccd7f878c61960d10c90944e80d7856&v=4" width="24" alt="Avatar of ai7dnn"> ai7dnn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ai7dnn">Copy rank badge</a><br/>
 			Hwan Soo Kang 
 		</td>
 		<td>Dongyang Mirae University </td>
@@ -2839,7 +2841,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kakasoo">
 				<img src="https://avatars.githubusercontent.com/u/55487286?s=72&u=789e05ee7da353903e02c88d8dbbca5fc190dc4d&v=4" width="24" alt="Avatar of kakasoo"> kakasoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kakasoo">Copy rank badge</a><br/>
 			Kyungsu Kang
 		</td>
 		<td>I My Me Mine<br/></td>
@@ -2852,7 +2854,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/krapie">
 				<img src="https://avatars.githubusercontent.com/u/70474071?s=72&u=705436f7e34231f99df46729da8ccaaf38607ccf&v=4" width="24" alt="Avatar of krapie"> krapie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#krapie">Copy rank badge</a><br/>
 			Kevin Park
 		</td>
 		<td>@aws </td>
@@ -2865,7 +2867,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/KoEonYack">
 				<img src="https://avatars.githubusercontent.com/u/28642484?s=72&u=ebdb97db8befaad731075b91a762cfebd1894e55&v=4" width="24" alt="Avatar of KoEonYack"> KoEonYack
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#KoEonYack">Copy rank badge</a><br/>
 			Covenant
 		</td>
 		<td>@webtoon </td>
@@ -2878,7 +2880,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/azure-553">
 				<img src="https://avatars.githubusercontent.com/u/80371353?s=72&u=1a5d0804313008506d9f058cc9d3cf32c27a8239&v=4" width="24" alt="Avatar of azure-553"> azure-553
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#azure-553">Copy rank badge</a><br/>
 			심미진
 		</td>
 		<td>No Company</td>
@@ -2891,7 +2893,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/darjeeling">
 				<img src="https://avatars.githubusercontent.com/u/52967?s=72&v=4" width="24" alt="Avatar of darjeeling"> darjeeling
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#darjeeling">Copy rank badge</a><br/>
 			Kwon-Han Bae
 		</td>
 		<td>Linecorp </td>
@@ -2904,7 +2906,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sumi-03">
 				<img src="https://avatars.githubusercontent.com/u/100473912?s=72&u=e2a615a4920c17a917e90d218da74397c3432f45&v=4" width="24" alt="Avatar of sumi-03"> sumi-03
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sumi-03">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Hansung University </td>
@@ -2917,7 +2919,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/YehyeokBang">
 				<img src="https://avatars.githubusercontent.com/u/107793780?s=72&u=3a5f18f4f8129dbcb9ded2599324b9cdd02c71d4&v=4" width="24" alt="Avatar of YehyeokBang"> YehyeokBang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#YehyeokBang">Copy rank badge</a><br/>
 			Yehyeok Bang
 		</td>
 		<td>No Company</td>
@@ -2930,7 +2932,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jojoldu">
 				<img src="https://avatars.githubusercontent.com/u/7760496?s=72&u=d0933bcbad7f15e9516e59d90db8b1e77e26517d&v=4" width="24" alt="Avatar of jojoldu"> jojoldu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jojoldu">Copy rank badge</a><br/>
 			DongUk Lee
 		</td>
 		<td>@inflearn </td>
@@ -2943,7 +2945,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/martinkersner">
 				<img src="https://avatars.githubusercontent.com/u/2312761?s=72&u=539abd47f65ee71165c48a17c7e18fe3c0e9ad3f&v=4" width="24" alt="Avatar of martinkersner"> martinkersner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#martinkersner">Copy rank badge</a><br/>
 			Martin Kersner
 		</td>
 		<td>@bisonai </td>
@@ -2956,7 +2958,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/oli999">
 				<img src="https://avatars.githubusercontent.com/u/2850045?s=72&u=3abf0be1b4eb2aec52f48dc5c755ff3055376943&v=4" width="24" alt="Avatar of oli999"> oli999
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#oli999">Copy rank badge</a><br/>
 			이정호
 		</td>
 		<td>Acorn Academy  </td>
@@ -2969,7 +2971,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kibalab">
 				<img src="https://avatars.githubusercontent.com/u/31209389?s=72&u=395bcfe7384c384e87fb65718622d8f69042ebf5&v=4" width="24" alt="Avatar of kibalab"> kibalab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kibalab">Copy rank badge</a><br/>
 			KIBA
 		</td>
 		<td>K13a_labs, Vrchat </td>
@@ -2982,7 +2984,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/raon0211">
 				<img src="https://avatars.githubusercontent.com/u/3102175?s=72&u=5a2ffa0d74ba75c181641ff00972a255fcb65a35&v=4" width="24" alt="Avatar of raon0211"> raon0211
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#raon0211">Copy rank badge</a><br/>
 			Sojin Park
 		</td>
 		<td>@toss  </td>
@@ -2995,7 +2997,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/chkwon">
 				<img src="https://avatars.githubusercontent.com/u/7596204?s=72&u=62d8e63e2dd2b619ef089abc1d50ba6ff8e6a838&v=4" width="24" alt="Avatar of chkwon"> chkwon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#chkwon">Copy rank badge</a><br/>
 			Changhyun Kwon
 		</td>
 		<td>Kaist </td>
@@ -3008,7 +3010,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/seokju-na">
 				<img src="https://avatars.githubusercontent.com/u/13250888?s=72&u=186e3515a6493f782e9499f0d595541e67699627&v=4" width="24" alt="Avatar of seokju-na"> seokju-na
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#seokju-na">Copy rank badge</a><br/>
 			seokju-na
 		</td>
 		<td>@toss @tossplace </td>
@@ -3021,7 +3023,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Alex4386">
 				<img src="https://avatars.githubusercontent.com/u/27724108?s=72&u=6836bd5ceadfe0eb3771dfb59ccce06d893abbe8&v=4" width="24" alt="Avatar of Alex4386"> Alex4386
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Alex4386">Copy rank badge</a><br/>
 			Sanghee Park
 		</td>
 		<td>@packetstream-llc, Gachon University </td>
@@ -3034,7 +3036,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/zi-gae">
 				<img src="https://avatars.githubusercontent.com/u/39829378?s=72&u=c3dce21d1ccf65a2b5ef55d642b88aca1ec5859b&v=4" width="24" alt="Avatar of zi-gae"> zi-gae
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#zi-gae">Copy rank badge</a><br/>
 			정건우(ignite)
 		</td>
 		<td>No Company</td>
@@ -3047,7 +3049,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hyunwoongko">
 				<img src="https://avatars.githubusercontent.com/u/38183241?s=72&u=afa3bce59d7326e90412f5f705b2ef17fdef92e8&v=4" width="24" alt="Avatar of hyunwoongko"> hyunwoongko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hyunwoongko">Copy rank badge</a><br/>
 			Kevin Ko
 		</td>
 		<td>@upstageai </td>
@@ -3060,7 +3062,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/alittlekitten">
 				<img src="https://avatars.githubusercontent.com/u/14370441?s=72&u=b6986f04199069d19a40de37861c0f2c7dd9a898&v=4" width="24" alt="Avatar of alittlekitten"> alittlekitten
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#alittlekitten">Copy rank badge</a><br/>
 			Ssoco
 		</td>
 		<td>Kyunghee Univ. Likelion 7th<br/>8th<br/></td>
@@ -3073,7 +3075,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/evan-moon">
 				<img src="https://avatars.githubusercontent.com/u/19145342?s=72&u=c2e22dd78a44f99e582e82925974c7234760e095&v=4" width="24" alt="Avatar of evan-moon"> evan-moon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#evan-moon">Copy rank badge</a><br/>
 			Evan Moon
 		</td>
 		<td>@lubycon, @toss </td>
@@ -3086,7 +3088,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ds-wook">
 				<img src="https://avatars.githubusercontent.com/u/46340424?s=72&u=e5b5acdf65ceaea769e2a21101a655be8631a65d&v=4" width="24" alt="Avatar of ds-wook"> ds-wook
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ds-wook">Copy rank badge</a><br/>
 			ds wook
 		</td>
 		<td>Kt Ax Data Lab<br/></td>
@@ -3099,7 +3101,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/coallaoh">
 				<img src="https://avatars.githubusercontent.com/u/7447092?s=72&u=d0d445a1561ed5340537a1ca4d41790d534ce4f8&v=4" width="24" alt="Avatar of coallaoh"> coallaoh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#coallaoh">Copy rank badge</a><br/>
 			Seong Joon Oh
 		</td>
 		<td>No Company</td>
@@ -3112,7 +3114,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sooperset">
 				<img src="https://avatars.githubusercontent.com/u/32061883?s=72&u=e4a8c1d1d7053116027e6db6be579a4f748d053c&v=4" width="24" alt="Avatar of sooperset"> sooperset
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sooperset">Copy rank badge</a><br/>
 			Hyeonsoo Lee
 		</td>
 		<td>Lunit Inc. </td>
@@ -3125,7 +3127,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/bricksky">
 				<img src="https://avatars.githubusercontent.com/u/113027703?s=72&u=3b3fdb9f2d4c6730dbe12a1809af6251b1afb91d&v=4" width="24" alt="Avatar of bricksky"> bricksky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#bricksky">Copy rank badge</a><br/>
 			DongHyun Kim
 		</td>
 		<td>@yourssu </td>
@@ -3138,7 +3140,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/pmnxis">
 				<img src="https://avatars.githubusercontent.com/u/7401129?s=72&u=396a32af3ff435cf8aff2589adfc826758b1a167&v=4" width="24" alt="Avatar of pmnxis"> pmnxis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#pmnxis">Copy rank badge</a><br/>
 			Jinwoo Park
 		</td>
 		<td>Southchip </td>
@@ -3151,7 +3153,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sinoru">
 				<img src="https://avatars.githubusercontent.com/u/1138433?s=72&u=b7aa6222751f10a24dce1c47d78f20ced83fd984&v=4" width="24" alt="Avatar of sinoru"> sinoru
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sinoru">Copy rank badge</a><br/>
 			Jaehong Kang
 		</td>
 		<td>@naver </td>
@@ -3164,7 +3166,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/fabichoi">
 				<img src="https://avatars.githubusercontent.com/u/11341966?s=72&u=bda943f91aa0963d9f94d5a794f0001b4c4d5b65&v=4" width="24" alt="Avatar of fabichoi"> fabichoi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#fabichoi">Copy rank badge</a><br/>
 			Fabi H. Choi
 		</td>
 		<td>Danbi Education </td>
@@ -3177,7 +3179,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/monam2">
 				<img src="https://avatars.githubusercontent.com/u/138136517?s=72&u=e389a3136fdc8da450a78fd7ab2b1c580510581d&v=4" width="24" alt="Avatar of monam2"> monam2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#monam2">Copy rank badge</a><br/>
 			Changwoo Kang
 		</td>
 		<td>Dozn </td>
@@ -3190,7 +3192,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/webstoryboy">
 				<img src="https://avatars.githubusercontent.com/u/10102495?s=72&u=d35cd413d76033e433d56f2a9692b6f49aaf8a79&v=4" width="24" alt="Avatar of webstoryboy"> webstoryboy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#webstoryboy">Copy rank badge</a><br/>
 			웹스토리보이
 		</td>
 		<td>웹스토리보이 </td>
@@ -3203,7 +3205,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/code-sum">
 				<img src="https://avatars.githubusercontent.com/u/106902415?s=72&u=3cb7d988d611c3b7798a5cfc2b20730943ccaf5a&v=4" width="24" alt="Avatar of code-sum"> code-sum
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#code-sum">Copy rank badge</a><br/>
 			Sugyeong Lee
 		</td>
 		<td>No Company</td>
@@ -3216,7 +3218,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/nabi-chan">
 				<img src="https://avatars.githubusercontent.com/u/42037851?s=72&u=9aa163dae741e87f0fdcd851cec8c1226356f9a7&v=4" width="24" alt="Avatar of nabi-chan"> nabi-chan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#nabi-chan">Copy rank badge</a><br/>
 			Eunsol
 		</td>
 		<td>@cat-hou-se </td>
@@ -3229,7 +3231,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/SangAu124">
 				<img src="https://avatars.githubusercontent.com/u/81676542?s=72&u=d24dfc12ea481887df4bd0f8b6819fe1bccf3429&v=4" width="24" alt="Avatar of SangAu124"> SangAu124
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#SangAu124">Copy rank badge</a><br/>
 			Sangeun Kim
 		</td>
 		<td>Hodi </td>
@@ -3242,7 +3244,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Koomook">
 				<img src="https://avatars.githubusercontent.com/u/17285668?s=72&u=d7e235439b561250b4ca1492fc957391e20c2288&v=4" width="24" alt="Avatar of Koomook"> Koomook
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Koomook">Copy rank badge</a><br/>
 			Dave Goobong Jeong
 		</td>
 		<td>@team-attention </td>
@@ -3255,7 +3257,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/mooyoul">
 				<img src="https://avatars.githubusercontent.com/u/2101743?s=72&u=c14b3642cd8f1569c5fe4166e1d89bce3f9bd449&v=4" width="24" alt="Avatar of mooyoul"> mooyoul
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#mooyoul">Copy rank badge</a><br/>
 			MooYeol Prescott Lee
 		</td>
 		<td>@daangn </td>
@@ -3268,7 +3270,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/code1218">
 				<img src="https://avatars.githubusercontent.com/u/53811120?s=72&u=511b8c3fc58b1ada62d8ef26f3b528c1f6d6385a&v=4" width="24" alt="Avatar of code1218"> code1218
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#code1218">Copy rank badge</a><br/>
 			Junil Kim
 		</td>
 		<td>@koreaitacademy </td>
@@ -3281,7 +3283,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/acetcom">
 				<img src="https://avatars.githubusercontent.com/u/4222492?s=72&u=71a6e5e0382ff3d0e1191594f5fb838bfc2268bf&v=4" width="24" alt="Avatar of acetcom"> acetcom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#acetcom">Copy rank badge</a><br/>
 			Sukchan Lee
 		</td>
 		<td>Open5gs </td>
@@ -3294,7 +3296,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/keenkim1202">
 				<img src="https://avatars.githubusercontent.com/u/59866819?s=72&u=6f530af47c4d4b96245254354746beeba1efd489&v=4" width="24" alt="Avatar of keenkim1202"> keenkim1202
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#keenkim1202">Copy rank badge</a><br/>
 			KEEN
 		</td>
 		<td>No Company</td>
@@ -3307,7 +3309,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/mintae1117">
 				<img src="https://avatars.githubusercontent.com/u/80088812?s=72&u=66306f1a06b68010ca60de11aa2c0733fc5c1a63&v=4" width="24" alt="Avatar of mintae1117"> mintae1117
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#mintae1117">Copy rank badge</a><br/>
 			mintaeKim
 		</td>
 		<td>No Company</td>
@@ -3320,7 +3322,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/stuartasiimwe7">
 				<img src="https://avatars.githubusercontent.com/u/12202351?s=72&u=7087e641246b25a7601bdf68161c26f739c96161&v=4" width="24" alt="Avatar of stuartasiimwe7"> stuartasiimwe7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#stuartasiimwe7">Copy rank badge</a><br/>
 			Asiimwe
 		</td>
 		<td>Sga Technology, Inc </td>
@@ -3333,7 +3335,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ChaJiTae">
 				<img src="https://avatars.githubusercontent.com/u/55056889?s=72&u=fb661f3a8eb4c01a19cc441a5510a5418352a9e2&v=4" width="24" alt="Avatar of ChaJiTae"> ChaJiTae
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ChaJiTae">Copy rank badge</a><br/>
 			지태
 		</td>
 		<td>@boostcampwm2025  </td>
@@ -3346,7 +3348,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/KumJungMin">
 				<img src="https://avatars.githubusercontent.com/u/37934668?s=72&u=4de3e79e38d592b7a10aae8fa7a6764384c8f2c4&v=4" width="24" alt="Avatar of KumJungMin"> KumJungMin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#KumJungMin">Copy rank badge</a><br/>
 			KumJungMin
 		</td>
 		<td>Gln International, Hana Financial<br/>Group<br/></td>
@@ -3359,7 +3361,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/YongGoose">
 				<img src="https://avatars.githubusercontent.com/u/104314593?s=72&u=95eff4ed92800ac74bb345f2f9807f7b8c7d0179&v=4" width="24" alt="Avatar of YongGoose"> YongGoose
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#YongGoose">Copy rank badge</a><br/>
 			Yongjun Hong
 		</td>
 		<td>@apache @webtoon </td>
@@ -3372,7 +3374,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/da-in">
 				<img src="https://avatars.githubusercontent.com/u/66757141?s=72&u=b65b3ac748c8a06a5eac867f4f695e619ec39ae0&v=4" width="24" alt="Avatar of da-in"> da-in
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#da-in">Copy rank badge</a><br/>
 			Choi Da-in
 		</td>
 		<td>Wavve @vibe-ai-coding-club </td>
@@ -3385,7 +3387,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/silverbeen">
 				<img src="https://avatars.githubusercontent.com/u/63506240?s=72&u=6ddcd50b558edbb2d1990348e0d7d05de2383289&v=4" width="24" alt="Avatar of silverbeen"> silverbeen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#silverbeen">Copy rank badge</a><br/>
 			silverbeen
 		</td>
 		<td>Bunjang </td>
@@ -3398,7 +3400,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/booldook">
 				<img src="https://avatars.githubusercontent.com/u/30773555?s=72&u=ba874ade7d08514efa4fa4bc2d7a9a846f52cfb0&v=4" width="24" alt="Avatar of booldook"> booldook
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#booldook">Copy rank badge</a><br/>
 			Lim Dukkyu
 		</td>
 		<td>Motive Inc. </td>
@@ -3411,7 +3413,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/byulparan">
 				<img src="https://avatars.githubusercontent.com/u/459573?s=72&u=df7ff5ea324e8067269dcbe947fa5647117bb5e3&v=4" width="24" alt="Avatar of byulparan"> byulparan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#byulparan">Copy rank badge</a><br/>
 			Sungmin Park
 		</td>
 		<td>No Company</td>
@@ -3424,7 +3426,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/pjt3591oo">
 				<img src="https://avatars.githubusercontent.com/u/12229295?s=72&u=dcb362b6442945f538f91e01d007f5f70872bf8f&v=4" width="24" alt="Avatar of pjt3591oo"> pjt3591oo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#pjt3591oo">Copy rank badge</a><br/>
 			JeongTae Park
 		</td>
 		<td>No Company</td>
@@ -3437,7 +3439,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jungyeons">
 				<img src="https://avatars.githubusercontent.com/u/81145288?s=72&v=4" width="24" alt="Avatar of jungyeons"> jungyeons
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jungyeons">Copy rank badge</a><br/>
 			JungYeon Bae
 		</td>
 		<td>Personal </td>
@@ -3450,7 +3452,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Scanf-s">
 				<img src="https://avatars.githubusercontent.com/u/105439069?s=72&u=1b0a0a59f2da0a2a74d88ee8d985b09db8e3aafc&v=4" width="24" alt="Avatar of Scanf-s"> Scanf-s
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Scanf-s">Copy rank badge</a><br/>
 			UiJong (Jace), Yang
 		</td>
 		<td>No Company</td>
@@ -3463,7 +3465,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kenu">
 				<img src="https://avatars.githubusercontent.com/u/718691?s=72&u=bf207e57807fce4015f9ea6e22cd228e77975172&v=4" width="24" alt="Avatar of kenu"> kenu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kenu">Copy rank badge</a><br/>
 			kenu
 		</td>
 		<td>Okky(okjsp), Okdevtv </td>
@@ -3476,7 +3478,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/corona10">
 				<img src="https://avatars.githubusercontent.com/u/5110323?s=72&u=2dea940664aff06a115380e69c8dee6b3f2b043a&v=4" width="24" alt="Avatar of corona10"> corona10
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#corona10">Copy rank badge</a><br/>
 			Donghee Na
 		</td>
 		<td>@daangn </td>
@@ -3489,7 +3491,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/mu29">
 				<img src="https://avatars.githubusercontent.com/u/8934513?s=72&u=f5239b8a08126a01bcb04e8b143b22be3d1b4fe2&v=4" width="24" alt="Avatar of mu29"> mu29
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#mu29">Copy rank badge</a><br/>
 			Injung Chung
 		</td>
 		<td>@delightroom </td>
@@ -3502,7 +3504,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ssi02014">
 				<img src="https://avatars.githubusercontent.com/u/64779472?s=72&u=593c8e0d8fa2802cf54e2dd3b1e7a5db9e21e51b&v=4" width="24" alt="Avatar of ssi02014"> ssi02014
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ssi02014">Copy rank badge</a><br/>
 			Gromit (전민재)
 		</td>
 		<td>Bgzt </td>
@@ -3515,7 +3517,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Najeong-Kim">
 				<img src="https://avatars.githubusercontent.com/u/73640737?s=72&u=956ba909325a2d33113efcc654a982e14e68a179&v=4" width="24" alt="Avatar of Najeong-Kim"> Najeong-Kim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Najeong-Kim">Copy rank badge</a><br/>
 			Najeong Kim
 		</td>
 		<td>@riiid </td>
@@ -3528,7 +3530,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ash-hun">
 				<img src="https://avatars.githubusercontent.com/u/32566767?s=72&u=3f901439d2a5cb0e94ddd31e1c11e70659451ecd&v=4" width="24" alt="Avatar of ash-hun"> ash-hun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ash-hun">Copy rank badge</a><br/>
 			Choi JaeHun
 		</td>
 		<td>Diadiahun0902@gmail. </td>
@@ -3541,7 +3543,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/witch-factory">
 				<img src="https://avatars.githubusercontent.com/u/51201821?s=72&u=ce08db06407b32c74a17d4e8f046a2b3b7c20115&v=4" width="24" alt="Avatar of witch-factory"> witch-factory
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#witch-factory">Copy rank badge</a><br/>
 			SungHyun Kim
 		</td>
 		<td>Witchcraft </td>
@@ -3554,7 +3556,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jacking75">
 				<img src="https://avatars.githubusercontent.com/u/1384152?s=72&u=2bf185b8683b4c26edd7341668b1ad3fe56e3d5d&v=4" width="24" alt="Avatar of jacking75"> jacking75
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jacking75">Copy rank badge</a><br/>
 			Choi HeungBae
 		</td>
 		<td>Com2us </td>
@@ -3567,7 +3569,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/curieuxjy">
 				<img src="https://avatars.githubusercontent.com/u/40867411?s=72&u=0a0172d75e75936bd5305f8108af111489fcb6c4&v=4" width="24" alt="Avatar of curieuxjy"> curieuxjy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#curieuxjy">Copy rank badge</a><br/>
 			Jung Yeon Lee
 		</td>
 		<td>No Company</td>
@@ -3580,7 +3582,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/chcbaram">
 				<img src="https://avatars.githubusercontent.com/u/5537436?s=72&u=ef8eceb61b3494ed1ed5ad8171d4ff340e0d53ba&v=4" width="24" alt="Avatar of chcbaram"> chcbaram
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#chcbaram">Copy rank badge</a><br/>
 			Hancheol Cho
 		</td>
 		<td>No Company</td>
@@ -3593,7 +3595,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sohnryang">
 				<img src="https://avatars.githubusercontent.com/u/15506585?s=72&v=4" width="24" alt="Avatar of sohnryang"> sohnryang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sohnryang">Copy rank badge</a><br/>
 			Ryang Sohn
 		</td>
 		<td>Postech </td>
@@ -3606,7 +3608,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kanghyojun">
 				<img src="https://avatars.githubusercontent.com/u/95910?s=72&u=688c115098e54f2c2226a8f5806bfb99c99aed73&v=4" width="24" alt="Avatar of kanghyojun"> kanghyojun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kanghyojun">Copy rank badge</a><br/>
 			Kang Hyojun
 		</td>
 		<td>@hopsoffice  </td>
@@ -3619,7 +3621,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/KennethanCeyer">
 				<img src="https://avatars.githubusercontent.com/u/7090315?s=72&u=21b96a49f980ddbfb78ea14d8e691ca2854ff47b&v=4" width="24" alt="Avatar of KennethanCeyer"> KennethanCeyer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#KennethanCeyer">Copy rank badge</a><br/>
 			Sungmin Han
 		</td>
 		<td>Csta @confluentinc / Ai<br/>/<br/>Cloud<br/>/<br/>Go<br/>Gde<br/></td>
@@ -3632,7 +3634,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jungwoo3490">
 				<img src="https://avatars.githubusercontent.com/u/60962533?s=72&u=fe05814359bab1ed5f7bd4b1098a33179c93c895&v=4" width="24" alt="Avatar of jungwoo3490"> jungwoo3490
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jungwoo3490">Copy rank badge</a><br/>
 			Evan LEE
 		</td>
 		<td>@daangn </td>
@@ -3645,7 +3647,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jhcode33">
 				<img src="https://avatars.githubusercontent.com/u/125725072?s=72&u=2cc4e28a4a173611e9ccbd3612e11db44c67fb87&v=4" width="24" alt="Avatar of jhcode33"> jhcode33
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jhcode33">Copy rank badge</a><br/>
 			LEEJEONGHUI
 		</td>
 		<td>No Company</td>
@@ -3658,7 +3660,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/zeta1999">
 				<img src="https://avatars.githubusercontent.com/u/2989846?s=72&u=8e15c081a0e77d4c8ac7de5ddb340b265067258c&v=4" width="24" alt="Avatar of zeta1999"> zeta1999
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#zeta1999">Copy rank badge</a><br/>
 			Renoir Fortytwo
 		</td>
 		<td>No Company</td>
@@ -3671,7 +3673,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/cruisediary">
 				<img src="https://avatars.githubusercontent.com/u/2609775?s=72&u=98a765989f6e14dcc8374005bb52ad2bed63e236&v=4" width="24" alt="Avatar of cruisediary"> cruisediary
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#cruisediary">Copy rank badge</a><br/>
 			Cruz
 		</td>
 		<td>@hyperconnect </td>
@@ -3684,7 +3686,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/rhiokim">
 				<img src="https://avatars.githubusercontent.com/u/145777?s=72&u=2a1095688741c9edd8b8d96c882b5a42a1fbfff3&v=4" width="24" alt="Avatar of rhiokim"> rhiokim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#rhiokim">Copy rank badge</a><br/>
 			Rhio Kim
 		</td>
 		<td>@okky-lab  </td>
@@ -3697,7 +3699,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/lqez">
 				<img src="https://avatars.githubusercontent.com/u/579366?s=72&v=4" width="24" alt="Avatar of lqez"> lqez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#lqez">Copy rank badge</a><br/>
 			Hyunwoo Park
 		</td>
 		<td>Zerobased.co </td>
@@ -3710,7 +3712,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/daekeun-ml">
 				<img src="https://avatars.githubusercontent.com/u/56706095?s=72&u=c08de76391fe7537948ed645aae0fc3d5a623429&v=4" width="24" alt="Avatar of daekeun-ml"> daekeun-ml
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#daekeun-ml">Copy rank badge</a><br/>
 			Daekeun Kim
 		</td>
 		<td>@aws </td>
@@ -3723,7 +3725,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/goodboychan">
 				<img src="https://avatars.githubusercontent.com/u/4475650?s=72&u=d6e230d61e83cdaf12a7bb1613189f204711f806&v=4" width="24" alt="Avatar of goodboychan"> goodboychan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#goodboychan">Copy rank badge</a><br/>
 			Chanseok Kang
 		</td>
 		<td>Lg Electronics </td>
@@ -3736,7 +3738,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/daclouds">
 				<img src="https://avatars.githubusercontent.com/u/518869?s=72&u=084dd4c8aef00d849d925cde873a14e623e4d51b&v=4" width="24" alt="Avatar of daclouds"> daclouds
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#daclouds">Copy rank badge</a><br/>
 			Jongil Seok
 		</td>
 		<td>@electronicarts </td>
@@ -3749,7 +3751,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/black7375">
 				<img src="https://avatars.githubusercontent.com/u/25581533?s=72&u=f6993f176b7d8c95ca247234efce60bd6076eecb&v=4" width="24" alt="Avatar of black7375"> black7375
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#black7375">Copy rank badge</a><br/>
 			MS_Y
 		</td>
 		<td>No Company</td>
@@ -3762,7 +3764,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Devdha">
 				<img src="https://avatars.githubusercontent.com/u/46529663?s=72&u=e695615d5622d09a6cf1263f1cbe442caf4260cf&v=4" width="24" alt="Avatar of Devdha"> Devdha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Devdha">Copy rank badge</a><br/>
 			DongHun Ha
 		</td>
 		<td>@corca-ai </td>
@@ -3775,7 +3777,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/brainbackdoor">
 				<img src="https://avatars.githubusercontent.com/u/29951288?s=72&u=3028a7cafabf0047a8ee9c7578ef6651b7cdecf0&v=4" width="24" alt="Avatar of brainbackdoor"> brainbackdoor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#brainbackdoor">Copy rank badge</a><br/>
 			LeeDongGyu
 		</td>
 		<td>@grandeclip </td>
@@ -3788,7 +3790,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/JeongHwan-dev">
 				<img src="https://avatars.githubusercontent.com/u/68452755?s=72&u=aeca792783e0637cb512176ef8f18e2ac603be6d&v=4" width="24" alt="Avatar of JeongHwan-dev"> JeongHwan-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#JeongHwan-dev">Copy rank badge</a><br/>
 			박정환
 		</td>
 		<td>Lg U+ </td>
@@ -3801,7 +3803,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/chattymin">
 				<img src="https://avatars.githubusercontent.com/u/52882799?s=72&u=48fd34aeeac5e021c1f98b867e6e8cd82f9d911a&v=4" width="24" alt="Avatar of chattymin"> chattymin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#chattymin">Copy rank badge</a><br/>
 			Patrick.Park
 		</td>
 		<td>@buzzvil </td>
@@ -3814,7 +3816,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/tonyfromundefined">
 				<img src="https://avatars.githubusercontent.com/u/20325202?s=72&u=3796ba94dea7362e084cc746c4d418bd6d308548&v=4" width="24" alt="Avatar of tonyfromundefined"> tonyfromundefined
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#tonyfromundefined">Copy rank badge</a><br/>
 			Tony
 		</td>
 		<td>@daangn </td>
@@ -3827,7 +3829,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Kyounghwan01">
 				<img src="https://avatars.githubusercontent.com/u/44187477?s=72&u=29ba134ac6b2db9bcdc62d992749e0e9624d145d&v=4" width="24" alt="Avatar of Kyounghwan01"> Kyounghwan01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Kyounghwan01">Copy rank badge</a><br/>
 			kyounghwan Noh
 		</td>
 		<td>No Company</td>
@@ -3840,7 +3842,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/namsh1125">
 				<img src="https://avatars.githubusercontent.com/u/45845547?s=72&u=3eb489f0b13b87a1f336d29f6ca8d5eff647e15e&v=4" width="24" alt="Avatar of namsh1125"> namsh1125
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#namsh1125">Copy rank badge</a><br/>
 			SeungHyeon
 		</td>
 		<td>구직 중 </td>
@@ -3853,7 +3855,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/golbin">
 				<img src="https://avatars.githubusercontent.com/u/6277035?s=72&u=5168b7e3f9ded940f35b0dfc803767ad33acc876&v=4" width="24" alt="Avatar of golbin"> golbin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#golbin">Copy rank badge</a><br/>
 			Jin Kim
 		</td>
 		<td>No Company</td>
@@ -3866,7 +3868,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/gngsn">
 				<img src="https://avatars.githubusercontent.com/u/43839834?s=72&u=e69f66e51efab44d756e901b940821f10a64b60a&v=4" width="24" alt="Avatar of gngsn"> gngsn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#gngsn">Copy rank badge</a><br/>
 			Gyeongsun Park
 		</td>
 		<td>Kakao Bank </td>
@@ -3879,7 +3881,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/unifiedh">
 				<img src="https://avatars.githubusercontent.com/u/3947578?s=72&u=ccc0bd8e69651ba91160ded6a34af0b7de52a791&v=4" width="24" alt="Avatar of unifiedh"> unifiedh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#unifiedh">Copy rank badge</a><br/>
 			Daniel Hong
 		</td>
 		<td>No Company</td>
@@ -3892,7 +3894,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hskang9">
 				<img src="https://avatars.githubusercontent.com/u/12888144?s=72&u=8fcce17429d72171396af9e6bba6a696d92bb9d5&v=4" width="24" alt="Avatar of hskang9"> hskang9
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hskang9">Copy rank badge</a><br/>
 			Hyungsuk Kang
 		</td>
 		<td>@off-grid-money </td>
@@ -3905,7 +3907,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hikaMaeng">
 				<img src="https://avatars.githubusercontent.com/u/5790535?s=72&u=c8f06bbb7b88b6e948b71f490047f1df86380d6d&v=4" width="24" alt="Avatar of hikaMaeng"> hikaMaeng
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hikaMaeng">Copy rank badge</a><br/>
 			hika, maeng
 		</td>
 		<td>Bsidesoft Co. </td>
@@ -3918,7 +3920,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/s9hn">
 				<img src="https://avatars.githubusercontent.com/u/81347125?s=72&u=51c9f45e59b8ae46a82a21a5271585d28906d59f&v=4" width="24" alt="Avatar of s9hn"> s9hn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#s9hn">Copy rank badge</a><br/>
 			SeHun
 		</td>
 		<td>@shopl </td>
@@ -3931,7 +3933,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Yaminyam">
 				<img src="https://avatars.githubusercontent.com/u/31057849?s=72&u=d56518785909edee402d55107e8134938666d659&v=4" width="24" alt="Avatar of Yaminyam"> Yaminyam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Yaminyam">Copy rank badge</a><br/>
 			Sion Kang
 		</td>
 		<td>@lablup @ausg @campus-experts @aws-cloud-clubs<br/></td>
@@ -3944,7 +3946,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/flynnpark">
 				<img src="https://avatars.githubusercontent.com/u/6476870?s=72&u=a1f4e9dd14b5838624a5f1623a6862c9289aa114&v=4" width="24" alt="Avatar of flynnpark"> flynnpark
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#flynnpark">Copy rank badge</a><br/>
 			Flynn (Inho Park)
 		</td>
 		<td>@ridi </td>
@@ -3957,7 +3959,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/revsic">
 				<img src="https://avatars.githubusercontent.com/u/15906088?s=72&u=2799f4e044160da69b4834877e4cb4c452e8ad43&v=4" width="24" alt="Avatar of revsic"> revsic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#revsic">Copy rank badge</a><br/>
 			YoungJoong Kim
 		</td>
 		<td>Visual & Geometric Intelligence<br/>Lab,<br/>Seoul<br/>National<br/>University<br/></td>
@@ -3970,7 +3972,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/juyoungml">
 				<img src="https://avatars.githubusercontent.com/u/39263767?s=72&u=a6726cf8021272838f960d6964faf2567e5efc70&v=4" width="24" alt="Avatar of juyoungml"> juyoungml
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#juyoungml">Copy rank badge</a><br/>
 			Juyoung Suk
 		</td>
 		<td>@trillion-labs </td>
@@ -3983,7 +3985,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kciter">
 				<img src="https://avatars.githubusercontent.com/u/3623695?s=72&u=df70da376f7d062aafea227c1bde3d847d4ad287&v=4" width="24" alt="Avatar of kciter"> kciter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kciter">Copy rank badge</a><br/>
 			Sunhyoup Lee
 		</td>
 		<td>@toss </td>
@@ -3996,7 +3998,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Gezine">
 				<img src="https://avatars.githubusercontent.com/u/30000519?s=72&u=754fe3ce9f881116c904ee0ad92630315a70fc20&v=4" width="24" alt="Avatar of Gezine"> Gezine
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Gezine">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4009,7 +4011,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/raccoonyy">
 				<img src="https://avatars.githubusercontent.com/u/541274?s=72&v=4" width="24" alt="Avatar of raccoonyy"> raccoonyy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#raccoonyy">Copy rank badge</a><br/>
 			Seungho Kim
 		</td>
 		<td>당근마켓 </td>
@@ -4022,7 +4024,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/tail-s">
 				<img src="https://avatars.githubusercontent.com/u/98503573?s=72&u=70c4ba92ff8680d5b72c03aecd793bf810bf6b57&v=4" width="24" alt="Avatar of tail-s"> tail-s
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#tail-s">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4035,7 +4037,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/suminb">
 				<img src="https://avatars.githubusercontent.com/u/136119?s=72&u=2f3c125b7ed930c612e3c80f15ff2f166e61a19f&v=4" width="24" alt="Avatar of suminb"> suminb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#suminb">Copy rank badge</a><br/>
 			Sumin Byeon
 		</td>
 		<td>Naver Cloud </td>
@@ -4048,7 +4050,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/EricSeokgon">
 				<img src="https://avatars.githubusercontent.com/u/84391?s=72&u=c5c9086c4484a6f66d3ef542c456bfb3337857ae&v=4" width="24" alt="Avatar of EricSeokgon"> EricSeokgon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#EricSeokgon">Copy rank badge</a><br/>
 			Eric
 		</td>
 		<td>Ircompany </td>
@@ -4061,7 +4063,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ljlm0402">
 				<img src="https://avatars.githubusercontent.com/u/42952358?s=72&u=9339130d60ba300064e2bbddf120da31fde8360a&v=4" width="24" alt="Avatar of ljlm0402"> ljlm0402
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ljlm0402">Copy rank badge</a><br/>
 			아구몬
 		</td>
 		<td>No Company</td>
@@ -4074,7 +4076,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ckiekim">
 				<img src="https://avatars.githubusercontent.com/u/25958012?s=72&u=dd373f4956f6cac9e5ee82c6804356ad030052c2&v=4" width="24" alt="Avatar of ckiekim"> ckiekim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ckiekim">Copy rank badge</a><br/>
 			Cheolkie Kim
 		</td>
 		<td>No Company</td>
@@ -4087,7 +4089,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/shiftpsh">
 				<img src="https://avatars.githubusercontent.com/u/4417431?s=72&u=a36c54dd78765caa1547aea1dd2c0b4ab3d03114&v=4" width="24" alt="Avatar of shiftpsh"> shiftpsh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#shiftpsh">Copy rank badge</a><br/>
 			Suhyun Park
 		</td>
 		<td>@solved-ac </td>
@@ -4100,7 +4102,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/minsoo-web">
 				<img src="https://avatars.githubusercontent.com/u/57122180?s=72&u=345e30df529ed9f7a4408631b6ee91316a91bf2e&v=4" width="24" alt="Avatar of minsoo-web"> minsoo-web
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#minsoo-web">Copy rank badge</a><br/>
 			Minsoo Kim
 		</td>
 		<td>@toss @hamsurang </td>
@@ -4113,7 +4115,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/cynthia">
 				<img src="https://avatars.githubusercontent.com/u/43924?s=72&u=f02afa3338129157f3e75ff1175934548e66db8a&v=4" width="24" alt="Avatar of cynthia"> cynthia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#cynthia">Copy rank badge</a><br/>
 			Sangwhan "fish" Moon
 		</td>
 		<td>@google  </td>
@@ -4126,7 +4128,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hyesungoh">
 				<img src="https://avatars.githubusercontent.com/u/26461307?s=72&u=91d84c7ed6ac4341a577447c3c94d56a1eda9746&v=4" width="24" alt="Avatar of hyesungoh"> hyesungoh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hyesungoh">Copy rank badge</a><br/>
 			hyesung oh
 		</td>
 		<td>@toss </td>
@@ -4139,7 +4141,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/innocarpe">
 				<img src="https://avatars.githubusercontent.com/u/2222333?s=72&v=4" width="24" alt="Avatar of innocarpe"> innocarpe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#innocarpe">Copy rank badge</a><br/>
 			Wooseong Kim
 		</td>
 		<td>No Company</td>
@@ -4152,7 +4154,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/serranoarevalo">
 				<img src="https://avatars.githubusercontent.com/u/3612017?s=72&u=7829da1605a4ba5d541d3224ab71659f6471a2c1&v=4" width="24" alt="Avatar of serranoarevalo"> serranoarevalo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#serranoarevalo">Copy rank badge</a><br/>
 			니콜라스
 		</td>
 		<td>@nomadcoders  </td>
@@ -4165,7 +4167,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/syncle">
 				<img src="https://avatars.githubusercontent.com/u/18297113?s=72&u=990b34623bd599f2159394dd0645e635f5bd172e&v=4" width="24" alt="Avatar of syncle"> syncle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#syncle">Copy rank badge</a><br/>
 			Jaesik Park
 		</td>
 		<td>Seoul National University </td>
@@ -4178,7 +4180,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/J-Hoplin">
 				<img src="https://avatars.githubusercontent.com/u/45956041?s=72&u=c3f0934a5bd10f88b51dfa19f506b3c865db9d54&v=4" width="24" alt="Avatar of J-Hoplin"> J-Hoplin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#J-Hoplin">Copy rank badge</a><br/>
 			Junho Yoon
 		</td>
 		<td>No Company</td>
@@ -4191,7 +4193,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jeongwhanchoi">
 				<img src="https://avatars.githubusercontent.com/u/29731173?s=72&u=789d9136ee54a357f086b8ba0e1d7d2caa09233d&v=4" width="24" alt="Avatar of jeongwhanchoi"> jeongwhanchoi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jeongwhanchoi">Copy rank badge</a><br/>
 			Jeongwhan Choi
 		</td>
 		<td>@bigdyl-kaist </td>
@@ -4204,7 +4206,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/gomjellie">
 				<img src="https://avatars.githubusercontent.com/u/13645032?s=72&u=e00c49e7661d9d4139d9960db53ea9a9a1c82cf1&v=4" width="24" alt="Avatar of gomjellie"> gomjellie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#gomjellie">Copy rank badge</a><br/>
 			Inkyu Oh
 		</td>
 		<td>@naverlabs </td>
@@ -4217,7 +4219,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/note11g">
 				<img src="https://avatars.githubusercontent.com/u/67783062?s=72&u=099a919c393f058cc7086850eb19351d506ef81c&v=4" width="24" alt="Avatar of note11g"> note11g
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#note11g">Copy rank badge</a><br/>
 			Soyeon Kim
 		</td>
 		<td>No Company</td>
@@ -4230,7 +4232,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/arahansa">
 				<img src="https://avatars.githubusercontent.com/u/6437210?s=72&u=1353c934011a3e6b1fe38d29a1e50db94b108253&v=4" width="24" alt="Avatar of arahansa"> arahansa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#arahansa">Copy rank badge</a><br/>
 			최강용
 		</td>
 		<td>No Company</td>
@@ -4243,7 +4245,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kdrkdrkdr">
 				<img src="https://avatars.githubusercontent.com/u/49074597?s=72&u=e243be82491e41c10d71fb6cee0f85fed860001e&v=4" width="24" alt="Avatar of kdrkdrkdr"> kdrkdrkdr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kdrkdrkdr">Copy rank badge</a><br/>
 			Sleeping KDR
 		</td>
 		<td>@nc-ai </td>
@@ -4256,7 +4258,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/arter97">
 				<img src="https://avatars.githubusercontent.com/u/5400990?s=72&u=a73455db3f044b67b2a5d5974d603e6f737be5bb&v=4" width="24" alt="Avatar of arter97"> arter97
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#arter97">Copy rank badge</a><br/>
 			Juhyung Park
 		</td>
 		<td>No Company</td>
@@ -4269,7 +4271,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/AhnSeongHyun">
 				<img src="https://avatars.githubusercontent.com/u/1414228?s=72&u=efd1e354ef3c3c90e075e814c5056910f8c884a3&v=4" width="24" alt="Avatar of AhnSeongHyun"> AhnSeongHyun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#AhnSeongHyun">Copy rank badge</a><br/>
 			AhnSeongHyun
 		</td>
 		<td>Payhere Inc. </td>
@@ -4282,7 +4284,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/skyfe79">
 				<img src="https://avatars.githubusercontent.com/u/309935?s=72&u=64c65d848d9f9051725db3c806ff0132ef391349&v=4" width="24" alt="Avatar of skyfe79"> skyfe79
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#skyfe79">Copy rank badge</a><br/>
 			Sungcheol Kim
 		</td>
 		<td>Burt.k </td>
@@ -4295,7 +4297,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/yhs0602">
 				<img src="https://avatars.githubusercontent.com/u/35697677?s=72&u=5523eae5cbd1ca24319132f42bc663e3f6084fb4&v=4" width="24" alt="Avatar of yhs0602"> yhs0602
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#yhs0602">Copy rank badge</a><br/>
 			Hyeonseo Yang
 		</td>
 		<td>Snucse 19, 23 @bi-lab<br/></td>
@@ -4308,7 +4310,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jamesnet214">
 				<img src="https://avatars.githubusercontent.com/u/52397976?s=72&u=53e109065b4ebb31ac36a552d4a408161c5965aa&v=4" width="24" alt="Avatar of jamesnet214"> jamesnet214
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jamesnet214">Copy rank badge</a><br/>
 			Jaewung Lee
 		</td>
 		<td>@opensilver </td>
@@ -4321,7 +4323,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/mahi97">
 				<img src="https://avatars.githubusercontent.com/u/7570279?s=72&u=d2bd21f794e5e98607737554dcf66253e4aa4344&v=4" width="24" alt="Avatar of mahi97"> mahi97
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#mahi97">Copy rank badge</a><br/>
 			Mahi Rahimi
 		</td>
 		<td>Dgist,  Ilt Lab<br/></td>
@@ -4334,7 +4336,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/osohyun0224">
 				<img src="https://avatars.githubusercontent.com/u/53892427?s=72&u=f3953361bcedf6451152de8fd580f5591f0df34c&v=4" width="24" alt="Avatar of osohyun0224"> osohyun0224
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#osohyun0224">Copy rank badge</a><br/>
 			오소현
 		</td>
 		<td>No Company</td>
@@ -4347,7 +4349,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/wan2land">
 				<img src="https://avatars.githubusercontent.com/u/4086535?s=72&u=731aeb5ceb13a0b2146fdd4c77558df4b50d0c56&v=4" width="24" alt="Avatar of wan2land"> wan2land
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#wan2land">Copy rank badge</a><br/>
 			Changwan Jun
 		</td>
 		<td>Dieende </td>
@@ -4360,7 +4362,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Hyeon9mak">
 				<img src="https://avatars.githubusercontent.com/u/37354145?s=72&u=87c5d22a935223f5163b672e0a70527f99948784&v=4" width="24" alt="Avatar of Hyeon9mak"> Hyeon9mak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Hyeon9mak">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4373,7 +4375,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/0xd669">
 				<img src="https://avatars.githubusercontent.com/u/8149378?s=72&u=a70350d6aa8dea4b1dcb65a54121535de08c4f4d&v=4" width="24" alt="Avatar of 0xd669"> 0xd669
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#0xd669">Copy rank badge</a><br/>
 			Jace Hwang
 		</td>
 		<td>@theventures </td>
@@ -4386,7 +4388,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/d3m3vilurr">
 				<img src="https://avatars.githubusercontent.com/u/47262?s=72&v=4" width="24" alt="Avatar of d3m3vilurr"> d3m3vilurr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#d3m3vilurr">Copy rank badge</a><br/>
 			Sunguk Lee
 		</td>
 		<td>Ea </td>
@@ -4399,7 +4401,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/eggmun98">
 				<img src="https://avatars.githubusercontent.com/u/120009393?s=72&u=e40f6f8a0e844876358eefa4638251daa61bb761&v=4" width="24" alt="Avatar of eggmun98"> eggmun98
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#eggmun98">Copy rank badge</a><br/>
 			SeongJin Mun (문성진)
 		</td>
 		<td>No Company</td>
@@ -4412,7 +4414,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/xissy">
 				<img src="https://avatars.githubusercontent.com/u/538584?s=72&u=3d837d0e5119c777611ad2148f9d8a3395fa09ae&v=4" width="24" alt="Avatar of xissy"> xissy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#xissy">Copy rank badge</a><br/>
 			Taeho Kim
 		</td>
 		<td>No Company</td>
@@ -4425,7 +4427,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kakao-kong-j">
 				<img src="https://avatars.githubusercontent.com/u/20773978?s=72&u=9d95acd2448736c1b18c829fbd7ba2d65879e64a&v=4" width="24" alt="Avatar of kakao-kong-j"> kakao-kong-j
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kakao-kong-j">Copy rank badge</a><br/>
 			Hong jinho
 		</td>
 		<td>Kakao </td>
@@ -4438,7 +4440,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/pbzweihander">
 				<img src="https://avatars.githubusercontent.com/u/15262528?s=72&u=8fae776f1162a71754214502f8159358f6fe8bda&v=4" width="24" alt="Avatar of pbzweihander"> pbzweihander
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#pbzweihander">Copy rank badge</a><br/>
 			이강욱 (Kangwook Lee)
 		</td>
 		<td>@sionic-ai </td>
@@ -4451,7 +4453,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jinia91">
 				<img src="https://avatars.githubusercontent.com/u/85499582?s=72&u=e077f1d9a11ffd335759bb75490dbbb1d0bbe715&v=4" width="24" alt="Avatar of jinia91"> jinia91
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jinia91">Copy rank badge</a><br/>
 			Jinia
 		</td>
 		<td>@mathflat </td>
@@ -4464,7 +4466,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/soaple">
 				<img src="https://avatars.githubusercontent.com/u/34570624?s=72&u=3598b26a701d26fbe83391e8b8e6bf1e7b1a16ff&v=4" width="24" alt="Avatar of soaple"> soaple
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#soaple">Copy rank badge</a><br/>
 			Inje Lee
 		</td>
 		<td>@hottestlab </td>
@@ -4477,7 +4479,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/1ilsang">
 				<img src="https://avatars.githubusercontent.com/u/23524849?s=72&u=1ed18b19476ef0a246b5b4ec2749ffaf50762d89&v=4" width="24" alt="Avatar of 1ilsang"> 1ilsang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#1ilsang">Copy rank badge</a><br/>
 			1ilsang
 		</td>
 		<td>@woowabros </td>
@@ -4490,7 +4492,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/xncbf">
 				<img src="https://avatars.githubusercontent.com/u/9462045?s=72&u=a80a7bb349555b277645632ed66639ff43400614&v=4" width="24" alt="Avatar of xncbf"> xncbf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#xncbf">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@ab180 Airbridge </td>
@@ -4503,7 +4505,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/chitacan">
 				<img src="https://avatars.githubusercontent.com/u/286950?s=72&u=60b94fc0fdf68bc91a822f13ca9fdee7b70353d5&v=4" width="24" alt="Avatar of chitacan"> chitacan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#chitacan">Copy rank badge</a><br/>
 			Bret Kim
 		</td>
 		<td>No Company</td>
@@ -4516,7 +4518,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Leesin0222">
 				<img src="https://avatars.githubusercontent.com/u/90879448?s=72&u=7cbdcd68474b1db07fa2014d61a5f9f6e0b7f916&v=4" width="24" alt="Avatar of Leesin0222"> Leesin0222
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Leesin0222">Copy rank badge</a><br/>
 			이용진
 		</td>
 		<td>@triggers-team  </td>
@@ -4529,7 +4531,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Cheondongmin">
 				<img src="https://avatars.githubusercontent.com/u/43745198?s=72&u=3b48c3a62d2fbd266af44663a8f776e12cf387d6&v=4" width="24" alt="Avatar of Cheondongmin"> Cheondongmin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Cheondongmin">Copy rank badge</a><br/>
 			Cheondongmin
 		</td>
 		<td>Sir.loin </td>
@@ -4542,7 +4544,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/pakxe">
 				<img src="https://avatars.githubusercontent.com/u/64801796?s=72&u=555272e5dad147b5a86d0892d8c7faff2c016203&v=4" width="24" alt="Avatar of pakxe"> pakxe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#pakxe">Copy rank badge</a><br/>
 			Pakxe
 		</td>
 		<td>@naverlabs @woowacourse </td>
@@ -4555,7 +4557,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/minchodang">
 				<img src="https://avatars.githubusercontent.com/u/90169703?s=72&u=a07a107f57fb6ddbb73c9a585dd35dec724aef61&v=4" width="24" alt="Avatar of minchodang"> minchodang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#minchodang">Copy rank badge</a><br/>
 			minsuKang
 		</td>
 		<td>@toss </td>
@@ -4568,7 +4570,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/mnxmnz">
 				<img src="https://avatars.githubusercontent.com/u/48766355?s=72&u=9028ad249b4b56f556e7d35e0f23ac9184de9385&v=4" width="24" alt="Avatar of mnxmnz"> mnxmnz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#mnxmnz">Copy rank badge</a><br/>
 			김민지
 		</td>
 		<td>@toss </td>
@@ -4581,7 +4583,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ianychoi">
 				<img src="https://avatars.githubusercontent.com/u/6965982?s=72&u=ab3bd1e497f0fd4e99482ef4d4699c56912bad3f&v=4" width="24" alt="Avatar of ianychoi"> ianychoi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ianychoi">Copy rank badge</a><br/>
 			Ian Y. Choi
 		</td>
 		<td>No Company</td>
@@ -4594,7 +4596,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/textcube">
 				<img src="https://avatars.githubusercontent.com/u/6434470?s=72&u=528c9621304d3a5a1941d835d5e5d48640ab43ba&v=4" width="24" alt="Avatar of textcube"> textcube
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#textcube">Copy rank badge</a><br/>
 			textcube
 		</td>
 		<td>Bunt Games </td>
@@ -4607,7 +4609,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/x-0o0">
 				<img src="https://avatars.githubusercontent.com/u/53814741?s=72&u=61f328acaed80918a94ef9d4e8e2442e130fb38e&v=4" width="24" alt="Avatar of x-0o0"> x-0o0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#x-0o0">Copy rank badge</a><br/>
 			x_0o0
 		</td>
 		<td>Apple Developer Academy @<br/>Postech<br/></td>
@@ -4620,7 +4622,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jdasam">
 				<img src="https://avatars.githubusercontent.com/u/10192604?s=72&u=85ef63eb11ffc806d6833baaba41ec625623ca6f&v=4" width="24" alt="Avatar of jdasam"> jdasam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jdasam">Copy rank badge</a><br/>
 			Dasaem Jeong
 		</td>
 		<td>Sogang University </td>
@@ -4633,7 +4635,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/djkeh">
 				<img src="https://avatars.githubusercontent.com/u/4949544?s=72&u=ee598fff512c3df3b3dc4034c540ab204e0db733&v=4" width="24" alt="Avatar of djkeh"> djkeh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#djkeh">Copy rank badge</a><br/>
 			Uno Kim
 		</td>
 		<td>No Company</td>
@@ -4646,7 +4648,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/uyeong">
 				<img src="https://avatars.githubusercontent.com/u/1321707?s=72&u=cf364553a5132c7faf4376aeb80040889d65ffab&v=4" width="24" alt="Avatar of uyeong"> uyeong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#uyeong">Copy rank badge</a><br/>
 			U-Yeong Ju
 		</td>
 		<td>Naver Webtoon Corp </td>
@@ -4659,7 +4661,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Party4Bread">
 				<img src="https://avatars.githubusercontent.com/u/6923985?s=72&u=5ffccfbded0d642136f5d11879ce46c574cf0abd&v=4" width="24" alt="Avatar of Party4Bread"> Party4Bread
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Party4Bread">Copy rank badge</a><br/>
 			Party4Bread
 		</td>
 		<td>@seoul-electric-deco  @dsmakerteam @i-mind<br/></td>
@@ -4672,7 +4674,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/pers0n4">
 				<img src="https://avatars.githubusercontent.com/u/24864600?s=72&u=f211a13a7b572cbbd7779b9c8d8cb428cc7ba07e&v=4" width="24" alt="Avatar of pers0n4"> pers0n4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#pers0n4">Copy rank badge</a><br/>
 			Dong-Young Kim
 		</td>
 		<td>No Company</td>
@@ -4685,7 +4687,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/w00ye0l">
 				<img src="https://avatars.githubusercontent.com/u/87852507?s=72&u=b6a83e094072c384f09b83eeb72282424d7ac52c&v=4" width="24" alt="Avatar of w00ye0l"> w00ye0l
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#w00ye0l">Copy rank badge</a><br/>
 			lwyeol
 		</td>
 		<td>Sungkyunkwan University,  M&e<br/></td>
@@ -4698,7 +4700,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/zeeshanlakhani">
 				<img src="https://avatars.githubusercontent.com/u/202820?s=72&v=4" width="24" alt="Avatar of zeeshanlakhani"> zeeshanlakhani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#zeeshanlakhani">Copy rank badge</a><br/>
 			Zeeshan Lakhani
 		</td>
 		<td>Papers We Love |<br/>Oxide<br/>Computer<br/>Company<br/>|<br/>Cmu<br/></td>
@@ -4711,7 +4713,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/vuski">
 				<img src="https://avatars.githubusercontent.com/u/12396726?s=72&u=8b782c5f4210c3534e4ed26037c45b2f1c5ee5f4&v=4" width="24" alt="Avatar of vuski"> vuski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#vuski">Copy rank badge</a><br/>
 			Seungbum KIM
 		</td>
 		<td>Vwl Inc. </td>
@@ -4724,7 +4726,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Anne-Hyeyeon">
 				<img src="https://avatars.githubusercontent.com/u/93920435?s=72&u=6ffbc892ae4335dccf18e79d640bd93241984852&v=4" width="24" alt="Avatar of Anne-Hyeyeon"> Anne-Hyeyeon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Anne-Hyeyeon">Copy rank badge</a><br/>
 			Hyeyeon(Anne)
 		</td>
 		<td>Futureworklab </td>
@@ -4737,7 +4739,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/dayo2n">
 				<img src="https://avatars.githubusercontent.com/u/57654681?s=72&u=cff60104f8c90f81ce7a9da620cf94004da258c7&v=4" width="24" alt="Avatar of dayo2n"> dayo2n
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#dayo2n">Copy rank badge</a><br/>
 			zena-triple
 		</td>
 		<td>@yanolja-org </td>
@@ -4750,7 +4752,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ByeongHunKim">
 				<img src="https://avatars.githubusercontent.com/u/82696921?s=72&u=6e7a6ee78a6377aa0dac4ebcb0a1dd94e2b71022&v=4" width="24" alt="Avatar of ByeongHunKim"> ByeongHunKim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ByeongHunKim">Copy rank badge</a><br/>
 			Meiko
 		</td>
 		<td> Bdacs </td>
@@ -4763,7 +4765,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/71">
 				<img src="https://avatars.githubusercontent.com/u/7189784?s=72&u=1cd360baf572e1eeb1470bb3ee2f7fa43967b21f&v=4" width="24" alt="Avatar of 71"> 71
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#71">Copy rank badge</a><br/>
 			Grégoire Geis
 		</td>
 		<td>@seoulrobotics </td>
@@ -4776,7 +4778,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Alisherka7">
 				<img src="https://avatars.githubusercontent.com/u/38793933?s=72&u=1e827a9d9f153a24e848d2f71fdc4e8c5a2e7e3e&v=4" width="24" alt="Avatar of Alisherka7"> Alisherka7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Alisherka7">Copy rank badge</a><br/>
 			Alisher Togayev
 		</td>
 		<td>No Company</td>
@@ -4789,7 +4791,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/heumsi">
 				<img src="https://avatars.githubusercontent.com/u/31306282?s=72&u=f931136ddc25458a8f7224c79649c7089c1c86b3&v=4" width="24" alt="Avatar of heumsi"> heumsi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#heumsi">Copy rank badge</a><br/>
 			heumsi
 		</td>
 		<td>@closerlabs </td>
@@ -4802,7 +4804,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ihoneymon">
 				<img src="https://avatars.githubusercontent.com/u/876860?s=72&v=4" width="24" alt="Avatar of ihoneymon"> ihoneymon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ihoneymon">Copy rank badge</a><br/>
 			Kim Ji-Heon
 		</td>
 		<td>.. </td>
@@ -4815,7 +4817,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/buttercrab">
 				<img src="https://avatars.githubusercontent.com/u/34997549?s=72&u=a8ae2b73edf34455e79c99ca9dcb2badca581be1&v=4" width="24" alt="Avatar of buttercrab"> buttercrab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#buttercrab">Copy rank badge</a><br/>
 			Jaeyong Sung
 		</td>
 		<td>Cartesia </td>
@@ -4828,7 +4830,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/YOOJS1205">
 				<img src="https://avatars.githubusercontent.com/u/89122773?s=72&u=685b9a826ad917adcaae6b9b3a657ea47ac40c2f&v=4" width="24" alt="Avatar of YOOJS1205"> YOOJS1205
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#YOOJS1205">Copy rank badge</a><br/>
 			유준상 (B팀 프론트)
 		</td>
 		<td>@dwhale-dev </td>
@@ -4841,7 +4843,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/saengmotmi">
 				<img src="https://avatars.githubusercontent.com/u/35240142?s=72&u=80e0094c2527351b9c7d0054a79e95bf02d110f2&v=4" width="24" alt="Avatar of saengmotmi"> saengmotmi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#saengmotmi">Copy rank badge</a><br/>
 			Jong Taek Oh
 		</td>
 		<td>@toss </td>
@@ -4854,7 +4856,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Vallista">
 				<img src="https://avatars.githubusercontent.com/u/6455767?s=72&u=d6c3e9eb175ab438f3dde26896e669268cce4e49&v=4" width="24" alt="Avatar of Vallista"> Vallista
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Vallista">Copy rank badge</a><br/>
 			VallistA
 		</td>
 		<td>@woowabros </td>
@@ -4867,7 +4869,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/nashs789">
 				<img src="https://avatars.githubusercontent.com/u/59809278?s=72&u=8b2a0fc893aa61174a19e2df442898768845a4f1&v=4" width="24" alt="Avatar of nashs789"> nashs789
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#nashs789">Copy rank badge</a><br/>
 			LeeInBok
 		</td>
 		<td>No Company</td>
@@ -4880,7 +4882,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/chicori3">
 				<img src="https://avatars.githubusercontent.com/u/40778768?s=72&u=3579b7971c45cc2c8d63538351d774d207f7462d&v=4" width="24" alt="Avatar of chicori3"> chicori3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#chicori3">Copy rank badge</a><br/>
 			sian
 		</td>
 		<td>No Company</td>
@@ -4893,7 +4895,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/bokveizen">
 				<img src="https://avatars.githubusercontent.com/u/32029544?s=72&u=6fcc97caeecc2edb798209029c08de7d7b93d1a6&v=4" width="24" alt="Avatar of bokveizen"> bokveizen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#bokveizen">Copy rank badge</a><br/>
 			BU Fanchen 卜凡辰
 		</td>
 		<td>Kaist </td>
@@ -4906,7 +4908,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/AhyoungRyu">
 				<img src="https://avatars.githubusercontent.com/u/10060731?s=72&u=1bdd616e376407d9cfbb68f8ddaaf439ea726ea6&v=4" width="24" alt="Avatar of AhyoungRyu"> AhyoungRyu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#AhyoungRyu">Copy rank badge</a><br/>
 			Irene Ryu
 		</td>
 		<td>@sendbird  </td>
@@ -4919,7 +4921,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/cpprhtn">
 				<img src="https://avatars.githubusercontent.com/u/63298243?s=72&u=a7a45ab382c7999eadfdd3f4ba56438d8f5f5487&v=4" width="24" alt="Avatar of cpprhtn"> cpprhtn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#cpprhtn">Copy rank badge</a><br/>
 			Junwon Lee
 		</td>
 		<td>Ubisam </td>
@@ -4932,7 +4934,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/BasixKOR">
 				<img src="https://avatars.githubusercontent.com/u/7413880?s=72&u=583745ada28edcf3181b0646abe94a904a6739a9&v=4" width="24" alt="Avatar of BasixKOR"> BasixKOR
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#BasixKOR">Copy rank badge</a><br/>
 			Sung Jeon
 		</td>
 		<td>No Company</td>
@@ -4945,7 +4947,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/HELLOHIDI">
 				<img src="https://avatars.githubusercontent.com/u/54922625?s=72&u=912464d21276bde172ec803242e7220094210bf6&v=4" width="24" alt="Avatar of HELLOHIDI"> HELLOHIDI
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#HELLOHIDI">Copy rank badge</a><br/>
 			hui-jae Ryu
 		</td>
 		<td>No Company</td>
@@ -4958,7 +4960,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/uiop5809">
 				<img src="https://avatars.githubusercontent.com/u/97819580?s=72&u=4ee47b6c551ab800fef15008eeb29f9ce8f35ebf&v=4" width="24" alt="Avatar of uiop5809"> uiop5809
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#uiop5809">Copy rank badge</a><br/>
 			YEJIN PARK
 		</td>
 		<td>Cj Oliveyoung </td>
@@ -4971,7 +4973,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/20chan">
 				<img src="https://avatars.githubusercontent.com/u/16171816?s=72&u=b1a8a779205019126f71824c7db5a8edf41f0924&v=4" width="24" alt="Avatar of 20chan"> 20chan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#20chan">Copy rank badge</a><br/>
 			20chan
 		</td>
 		<td>@20c6a7 </td>
@@ -4984,7 +4986,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/mun-jeong-min">
 				<img src="https://avatars.githubusercontent.com/u/83737498?s=72&u=b29566ef21243d917ad8dd5cd753c322eb4a93b0&v=4" width="24" alt="Avatar of mun-jeong-min"> mun-jeong-min
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#mun-jeong-min">Copy rank badge</a><br/>
 			munjeongmin
 		</td>
 		<td>Daedeok Software Meister High<br/>School<br/></td>
@@ -4997,7 +4999,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/insuyun">
 				<img src="https://avatars.githubusercontent.com/u/960652?s=72&v=4" width="24" alt="Avatar of insuyun"> insuyun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#insuyun">Copy rank badge</a><br/>
 			INSU YUN
 		</td>
 		<td>Kaist </td>
@@ -5010,7 +5012,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/esthyj">
 				<img src="https://avatars.githubusercontent.com/u/129812780?s=72&u=e0ec58f2922ef2801b3824cf936eb49fdc16423e&v=4" width="24" alt="Avatar of esthyj"> esthyj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#esthyj">Copy rank badge</a><br/>
 			Yeeun Jeon
 		</td>
 		<td>Hanwha General Insurance </td>
@@ -5023,7 +5025,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/bloomspes">
 				<img src="https://avatars.githubusercontent.com/u/27952469?s=72&u=9ad2cd23dfa241e50d3f68dbb9ac6816da5ff2d1&v=4" width="24" alt="Avatar of bloomspes"> bloomspes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#bloomspes">Copy rank badge</a><br/>
 			Spes
 		</td>
 		<td>No Company</td>
@@ -5036,7 +5038,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/monologg">
 				<img src="https://avatars.githubusercontent.com/u/28896432?s=72&u=c5a5aa7e00b089abb7e791861a92d2e9665705b6&v=4" width="24" alt="Avatar of monologg"> monologg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#monologg">Copy rank badge</a><br/>
 			Jangwon Park
 		</td>
 		<td>@bhsn-ai </td>
@@ -5049,7 +5051,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/1ambda">
 				<img src="https://avatars.githubusercontent.com/u/4968473?s=72&u=7943d4517c66ba3c8a0b1b3c1cbc5d79e48bba02&v=4" width="24" alt="Avatar of 1ambda"> 1ambda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#1ambda">Copy rank badge</a><br/>
 			Kun
 		</td>
 		<td>Will Code For Food<br/></td>
@@ -5062,7 +5064,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/icarus8050">
 				<img src="https://avatars.githubusercontent.com/u/26276085?s=72&u=4224c88087cc052a7e585700f513165f6e0bd710&v=4" width="24" alt="Avatar of icarus8050"> icarus8050
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#icarus8050">Copy rank badge</a><br/>
 			Chul Yun
 		</td>
 		<td>Toss Bank </td>
@@ -5075,7 +5077,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/wdshin">
 				<img src="https://avatars.githubusercontent.com/u/559032?s=72&u=2484efa37f8071fd837ae989790ea95b528bf799&v=4" width="24" alt="Avatar of wdshin"> wdshin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#wdshin">Copy rank badge</a><br/>
 			Wondong Shin
 		</td>
 		<td>What If Studio /<br/>Ceo<br/></td>
@@ -5088,7 +5090,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/getsolaris">
 				<img src="https://avatars.githubusercontent.com/u/19664237?s=72&u=cc7eec4003be355a03335ae3d54b66e2738ba428&v=4" width="24" alt="Avatar of getsolaris"> getsolaris
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#getsolaris">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@imwebme </td>
@@ -5101,7 +5103,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/likejazz">
 				<img src="https://avatars.githubusercontent.com/u/1250095?s=72&u=7e49bdc75f4b0e90759370fa939c2b0d49b69f5c&v=4" width="24" alt="Avatar of likejazz"> likejazz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#likejazz">Copy rank badge</a><br/>
 			Sang Park
 		</td>
 		<td>Dnotitia </td>
@@ -5114,7 +5116,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/KimDoubleB">
 				<img src="https://avatars.githubusercontent.com/u/37873745?s=72&u=555e8d654cdd969b179a035fc3ed54e4c6e870aa&v=4" width="24" alt="Avatar of KimDoubleB"> KimDoubleB
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#KimDoubleB">Copy rank badge</a><br/>
 			Bobae Kim
 		</td>
 		<td>@froghive </td>
@@ -5127,7 +5129,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/EeeasyCode">
 				<img src="https://avatars.githubusercontent.com/u/92606611?s=72&u=1b688499f8e65244655039f0395f1599249f1968&v=4" width="24" alt="Avatar of EeeasyCode"> EeeasyCode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#EeeasyCode">Copy rank badge</a><br/>
 			Khan / 이창민
 		</td>
 		<td>@imwebme </td>
@@ -5140,7 +5142,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/seominseok0429">
 				<img src="https://avatars.githubusercontent.com/u/33244972?s=72&u=8e222f78401bcd8d3cdc0b8d2fcdfe30632f17a9&v=4" width="24" alt="Avatar of seominseok0429"> seominseok0429
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#seominseok0429">Copy rank badge</a><br/>
 			seominseok
 		</td>
 		<td>No Company</td>
@@ -5153,7 +5155,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/minar09">
 				<img src="https://avatars.githubusercontent.com/u/3684134?s=72&u=6ec98751263dfda8348fd335c4f4f9702f0a4700&v=4" width="24" alt="Avatar of minar09"> minar09
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#minar09">Copy rank badge</a><br/>
 			Matiur Rahman Minar
 		</td>
 		<td>Sogang University </td>
@@ -5166,7 +5168,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/0x00000FF">
 				<img src="https://avatars.githubusercontent.com/u/13935811?s=72&u=d7d35ee609942a2afb3793253a8da760fd57b2a4&v=4" width="24" alt="Avatar of 0x00000FF"> 0x00000FF
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#0x00000FF">Copy rank badge</a><br/>
 			Kangjun Heo
 		</td>
 		<td>Islab @ Chungnam National<br/>University<br/></td>
@@ -5179,7 +5181,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/utkuozbulak">
 				<img src="https://avatars.githubusercontent.com/u/19213588?s=72&u=47395f50eb97b56785263f3d1f7f5fa34028d1d0&v=4" width="24" alt="Avatar of utkuozbulak"> utkuozbulak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#utkuozbulak">Copy rank badge</a><br/>
 			Utku Ozbulak
 		</td>
 		<td>Ghent University </td>
@@ -5192,7 +5194,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/rainygirl">
 				<img src="https://avatars.githubusercontent.com/u/1021138?s=72&u=b4df9c82c6e7ae334095b3049665e512205d448e&v=4" width="24" alt="Avatar of rainygirl"> rainygirl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#rainygirl">Copy rank badge</a><br/>
 			Lee JunHaeng
 		</td>
 		<td>Https://rainygirl.co </td>
@@ -5205,7 +5207,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/donghoony">
 				<img src="https://avatars.githubusercontent.com/u/31026350?s=72&u=5ce02317e1ffec67da98bba2621c9c0d77e687b0&v=4" width="24" alt="Avatar of donghoony"> donghoony
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#donghoony">Copy rank badge</a><br/>
 			Donghoon Lee
 		</td>
 		<td>@woowabros </td>
@@ -5218,7 +5220,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/BenjaminKim">
 				<img src="https://avatars.githubusercontent.com/u/597114?s=72&u=df00b0fe7220f0e2f412e1e42475a864521f8963&v=4" width="24" alt="Avatar of BenjaminKim"> BenjaminKim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#BenjaminKim">Copy rank badge</a><br/>
 			김재호
 		</td>
 		<td>커피한잔 </td>
@@ -5231,7 +5233,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Harang-Dev">
 				<img src="https://avatars.githubusercontent.com/u/90229940?s=72&u=ddf71512c0402cd48219b2357e6a4cc439dd62b3&v=4" width="24" alt="Avatar of Harang-Dev"> Harang-Dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Harang-Dev">Copy rank badge</a><br/>
 			Harang
 		</td>
 		<td>Alphaprime </td>
@@ -5244,7 +5246,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/mununki">
 				<img src="https://avatars.githubusercontent.com/u/36963424?s=72&u=afc595576a7994ac2eb9cd501a92f8e96065d214&v=4" width="24" alt="Avatar of mununki"> mununki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#mununki">Copy rank badge</a><br/>
 			woonki
 		</td>
 		<td>@toss </td>
@@ -5257,7 +5259,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/JSpiner">
 				<img src="https://avatars.githubusercontent.com/u/5474864?s=72&u=f56a5b84a85909f40be7a0964045c55fe96409da&v=4" width="24" alt="Avatar of JSpiner"> JSpiner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#JSpiner">Copy rank badge</a><br/>
 			smith_정성민
 		</td>
 		<td>@daangn </td>
@@ -5270,7 +5272,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/yunho0130">
 				<img src="https://avatars.githubusercontent.com/u/7574765?s=72&u=9632e80bc35925bab70c3310704b2eb3c19f9058&v=4" width="24" alt="Avatar of yunho0130"> yunho0130
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#yunho0130">Copy rank badge</a><br/>
 			Yunho Maeng
 		</td>
 		<td>Ewha University </td>
@@ -5283,7 +5285,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jung-han">
 				<img src="https://avatars.githubusercontent.com/u/35371660?s=72&u=f2300e99d43b2d4bdd89a7103e4166e459138d92&v=4" width="24" alt="Avatar of jung-han"> jung-han
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jung-han">Copy rank badge</a><br/>
 			hanjung
 		</td>
 		<td>@upbitit </td>
@@ -5296,7 +5298,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/cos18">
 				<img src="https://avatars.githubusercontent.com/u/33975709?s=72&u=46729ff04922d2593b7219ccc794ca358b9044c1&v=4" width="24" alt="Avatar of cos18"> cos18
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#cos18">Copy rank badge</a><br/>
 			Sungwoo Park
 		</td>
 		<td>@snuuq </td>
@@ -5309,7 +5311,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/OhKanghoon">
 				<img src="https://avatars.githubusercontent.com/u/18064037?s=72&u=a16d27eb2e91f1e4e975e6b8a2f14b643eeb9a69&v=4" width="24" alt="Avatar of OhKanghoon"> OhKanghoon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#OhKanghoon">Copy rank badge</a><br/>
 			Ray (Kanghoon Oh)
 		</td>
 		<td>@daangn </td>
@@ -5322,7 +5324,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kyechan99">
 				<img src="https://avatars.githubusercontent.com/u/14146566?s=72&u=483e82666381dc503a456252f195e3d05230c8ba&v=4" width="24" alt="Avatar of kyechan99"> kyechan99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kyechan99">Copy rank badge</a><br/>
 			Ye-Chan Kang
 		</td>
 		<td>Daangn </td>
@@ -5335,7 +5337,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/leehyeonbin">
 				<img src="https://avatars.githubusercontent.com/u/82383983?s=72&u=3495974e76a72aeed4cf4401be71b4764cb51e0d&v=4" width="24" alt="Avatar of leehyeonbin"> leehyeonbin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#leehyeonbin">Copy rank badge</a><br/>
 			이현빈
 		</td>
 		<td>@mealligram, @gsm-msg </td>
@@ -5348,7 +5350,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/siniseong">
 				<img src="https://avatars.githubusercontent.com/u/128358820?s=72&u=6aecf876570aaa7f1fdc83f86aa9d89bba7c2d40&v=4" width="24" alt="Avatar of siniseong"> siniseong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#siniseong">Copy rank badge</a><br/>
 			희성
 		</td>
 		<td>No Company</td>
@@ -5361,7 +5363,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/junhaesung">
 				<img src="https://avatars.githubusercontent.com/u/4813025?s=72&u=eae596a8bc46e2161f3e62e61ea7545929eb8fbe&v=4" width="24" alt="Avatar of junhaesung"> junhaesung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#junhaesung">Copy rank badge</a><br/>
 			전해성
 		</td>
 		<td>29cm </td>
@@ -5374,7 +5376,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/syyjbhjh3">
 				<img src="https://avatars.githubusercontent.com/u/29969615?s=72&u=9307c612e51f73abd408d8475e41e3222935a2fb&v=4" width="24" alt="Avatar of syyjbhjh3"> syyjbhjh3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#syyjbhjh3">Copy rank badge</a><br/>
 			Young Jun Park
 		</td>
 		<td>No Company</td>
@@ -5387,7 +5389,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/minhoryang">
 				<img src="https://avatars.githubusercontent.com/u/1270855?s=72&u=1f7e335b2ac72e1f63a89e148e4ffd2d48f6a8cb&v=4" width="24" alt="Avatar of minhoryang"> minhoryang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#minhoryang">Copy rank badge</a><br/>
 			Minho Ryang
 		</td>
 		<td>Stealth Startup </td>
@@ -5400,7 +5402,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sublee">
 				<img src="https://avatars.githubusercontent.com/u/19982?s=72&u=60f628f885c7b416223bce3bfc409fe96fde8b05&v=4" width="24" alt="Avatar of sublee"> sublee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sublee">Copy rank badge</a><br/>
 			Heungsub Lee
 		</td>
 		<td>No Company</td>
@@ -5413,7 +5415,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/choonghyunryu">
 				<img src="https://avatars.githubusercontent.com/u/1195558?s=72&u=7702d11f2716fa9eb6c8bbaf1c6141cf7ce0fefb&v=4" width="24" alt="Avatar of choonghyunryu"> choonghyunryu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#choonghyunryu">Copy rank badge</a><br/>
 			Choonghyun Ryu
 		</td>
 		<td>Dplanex </td>
@@ -5426,7 +5428,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/seungheondoh">
 				<img src="https://avatars.githubusercontent.com/u/24955574?s=72&u=75fb3611b82b26b411f87f45847ebb67c201dd30&v=4" width="24" alt="Avatar of seungheondoh"> seungheondoh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#seungheondoh">Copy rank badge</a><br/>
 			Seungheon Doh
 		</td>
 		<td>Music And Audio Computing<br/>Lab<br/></td>
@@ -5439,7 +5441,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/anys34">
 				<img src="https://avatars.githubusercontent.com/u/127452485?s=72&u=d9217321660043998dca1272530431c7df9f8a96&v=4" width="24" alt="Avatar of anys34"> anys34
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#anys34">Copy rank badge</a><br/>
 			안예성
 		</td>
 		<td>@team-insert </td>
@@ -5452,7 +5454,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ElonPark">
 				<img src="https://avatars.githubusercontent.com/u/13270453?s=72&u=f843672b67a2637ef61e78cae324f0db1b5a81ce&v=4" width="24" alt="Avatar of ElonPark"> ElonPark
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ElonPark">Copy rank badge</a><br/>
 			Elon Park
 		</td>
 		<td>@daangn  </td>
@@ -5465,7 +5467,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Violet-Bora-Lee">
 				<img src="https://avatars.githubusercontent.com/u/6451384?s=72&u=022417bbca6619e73dda0e268a796fd0a9aedcf8&v=4" width="24" alt="Avatar of Violet-Bora-Lee"> Violet-Bora-Lee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Violet-Bora-Lee">Copy rank badge</a><br/>
 			Bora Lee
 		</td>
 		<td>No Company</td>
@@ -5478,7 +5480,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/leejseo">
 				<img src="https://avatars.githubusercontent.com/u/29532160?s=72&u=49243d78a1d94faa9f9214d560577d782fb25f64&v=4" width="24" alt="Avatar of leejseo"> leejseo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#leejseo">Copy rank badge</a><br/>
 			Jongseo Lee
 		</td>
 		<td>No Company</td>
@@ -5491,7 +5493,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/rkskekzzz">
 				<img src="https://avatars.githubusercontent.com/u/57925497?s=72&u=b323a487f48aea6545e14959f53761ef7bac20d4&v=4" width="24" alt="Avatar of rkskekzzz"> rkskekzzz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#rkskekzzz">Copy rank badge</a><br/>
 			Polar 신수형
 		</td>
 		<td>@channel-io </td>
@@ -5504,7 +5506,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/minsOne">
 				<img src="https://avatars.githubusercontent.com/u/4429361?s=72&u=d6b086eb695cf93158da4887e38cd04807b4954d&v=4" width="24" alt="Avatar of minsOne"> minsOne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#minsOne">Copy rank badge</a><br/>
 			Ahn JungMin
 		</td>
 		<td>Kakaobank </td>
@@ -5517,7 +5519,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/JuHyun419">
 				<img src="https://avatars.githubusercontent.com/u/50076031?s=72&u=478be351d89e5b76980e6f10b00493e0771d87c4&v=4" width="24" alt="Avatar of JuHyun419"> JuHyun419
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#JuHyun419">Copy rank badge</a><br/>
 			LeeJuHyun
 		</td>
 		<td>No Company</td>
@@ -5530,7 +5532,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/NESOY">
 				<img src="https://avatars.githubusercontent.com/u/13412639?s=72&u=519204ed87ba53bb38fe07e10d349f12f1ed14ab&v=4" width="24" alt="Avatar of NESOY"> NESOY
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#NESOY">Copy rank badge</a><br/>
 			Kwon Young Jae
 		</td>
 		<td>@kakao </td>
@@ -5543,7 +5545,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hotsemiwest">
 				<img src="https://avatars.githubusercontent.com/u/102123549?s=72&u=470102a03c84797ff22d197cbf80eefdae77fed0&v=4" width="24" alt="Avatar of hotsemiwest"> hotsemiwest
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hotsemiwest">Copy rank badge</a><br/>
 			신준서
 		</td>
 		<td>@bamdoliro </td>
@@ -5556,7 +5558,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Taeung">
 				<img src="https://avatars.githubusercontent.com/u/3875235?s=72&u=e00978f897e89517d4da1c88b9ea77e338fd54e8&v=4" width="24" alt="Avatar of Taeung"> Taeung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Taeung">Copy rank badge</a><br/>
 			Taeung Song
 		</td>
 		<td>Real Linux Edu. </td>
@@ -5569,7 +5571,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/thomasJang">
 				<img src="https://avatars.githubusercontent.com/u/5884902?s=72&u=4e6b9ac724ff405dc721f0131e3c79af97cb5d77&v=4" width="24" alt="Avatar of thomasJang"> thomasJang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#thomasJang">Copy rank badge</a><br/>
 			JANG KI-YOUNG
 		</td>
 		<td>Axisj Inc. </td>
@@ -5582,7 +5584,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Cup-Of-Liber-Tea">
 				<img src="https://avatars.githubusercontent.com/u/174796444?s=72&u=0b04f1a237867d2cb4334daa0ae601462cffc0f7&v=4" width="24" alt="Avatar of Cup-Of-Liber-Tea"> Cup-Of-Liber-Tea
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Cup-Of-Liber-Tea">Copy rank badge</a><br/>
 			coffee kimchi
 		</td>
 		<td>No Company</td>
@@ -5595,7 +5597,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/eouia">
 				<img src="https://avatars.githubusercontent.com/u/1720610?s=72&v=4" width="24" alt="Avatar of eouia"> eouia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#eouia">Copy rank badge</a><br/>
 			Seongnoh Sean Yi
 		</td>
 		<td>No Company</td>
@@ -5608,7 +5610,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sinaetown">
 				<img src="https://avatars.githubusercontent.com/u/123349044?s=72&u=472167eb06f1c5ace3f3852f2e2bd3a4b85158e8&v=4" width="24" alt="Avatar of sinaetown"> sinaetown
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sinaetown">Copy rank badge</a><br/>
 			Sinae Hong 홍신애
 		</td>
 		<td>No Company</td>
@@ -5621,7 +5623,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/MarkSon-42">
 				<img src="https://avatars.githubusercontent.com/u/84828274?s=72&u=8577b9453834974e1c61fcd0d2317ab3bde8cc77&v=4" width="24" alt="Avatar of MarkSon-42"> MarkSon-42
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#MarkSon-42">Copy rank badge</a><br/>
 			Minwoo Son
 		</td>
 		<td>No Company</td>
@@ -5634,7 +5636,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Taehyeon-Kim">
 				<img src="https://avatars.githubusercontent.com/u/61109660?s=72&u=5b386ed3a947635b2d5fe6a145e79dbc5f52c773&v=4" width="24" alt="Avatar of Taehyeon-Kim"> Taehyeon-Kim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Taehyeon-Kim">Copy rank badge</a><br/>
 			Taehyeon Kim
 		</td>
 		<td>Pog Inc. </td>
@@ -5647,7 +5649,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/yeochul-jeon">
 				<img src="https://avatars.githubusercontent.com/u/14012201?s=72&v=4" width="24" alt="Avatar of yeochul-jeon"> yeochul-jeon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#yeochul-jeon">Copy rank badge</a><br/>
 			deadman
 		</td>
 		<td>Cj Enm </td>
@@ -5660,7 +5662,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/rscarrera27">
 				<img src="https://avatars.githubusercontent.com/u/20695897?s=72&u=49f326fdf7c4679a9ce3aebfdabfeffb768e0668&v=4" width="24" alt="Avatar of rscarrera27"> rscarrera27
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#rscarrera27">Copy rank badge</a><br/>
 			Sunghyun Kim
 		</td>
 		<td>@toss </td>
@@ -5673,7 +5675,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sookcha">
 				<img src="https://avatars.githubusercontent.com/u/1160378?s=72&u=2925809008f4614be12bf8ff44673d15caff3ab0&v=4" width="24" alt="Avatar of sookcha"> sookcha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sookcha">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@green-labs </td>
@@ -5686,7 +5688,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/techinpark">
 				<img src="https://avatars.githubusercontent.com/u/45546296?s=72&u=58ddcc93e02ad40f241c4f8a6c3d7ef88bf248bf&v=4" width="24" alt="Avatar of techinpark"> techinpark
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#techinpark">Copy rank badge</a><br/>
 			Fernando
 		</td>
 		<td>No Company</td>
@@ -5699,7 +5701,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/mehribanko">
 				<img src="https://avatars.githubusercontent.com/u/88960300?s=72&v=4" width="24" alt="Avatar of mehribanko"> mehribanko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#mehribanko">Copy rank badge</a><br/>
 			Mehriban (Mareeko) 
 		</td>
 		<td>Fingate </td>
@@ -5712,7 +5714,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jaehwachung">
 				<img src="https://avatars.githubusercontent.com/u/3782032?s=72&u=a75770fde224b853cf7332f13f4dc3917161335d&v=4" width="24" alt="Avatar of jaehwachung"> jaehwachung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jaehwachung">Copy rank badge</a><br/>
 			jaehwachung
 		</td>
 		<td>Korea National Open University<br/></td>
@@ -5725,7 +5727,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/nnnlog">
 				<img src="https://avatars.githubusercontent.com/u/20399222?s=72&u=b812629e24be88a2aef9ab781de37321736df505&v=4" width="24" alt="Avatar of nnnlog"> nnnlog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#nnnlog">Copy rank badge</a><br/>
 			nlog (solrin)
 		</td>
 		<td>@googlers @organization  </td>
@@ -5738,7 +5740,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/wontaeleeterry">
 				<img src="https://avatars.githubusercontent.com/u/121205458?s=72&u=02db3cf81c14023a18a1ce65f3773692b9b87426&v=4" width="24" alt="Avatar of wontaeleeterry"> wontaeleeterry
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#wontaeleeterry">Copy rank badge</a><br/>
 			Terry  Wontae Lee
 		</td>
 		<td>No Company</td>
@@ -5751,7 +5753,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/miraexhoi">
 				<img src="https://avatars.githubusercontent.com/u/109408165?s=72&u=d09fd720141d0e5d243450fc4eb9ad275a5002e5&v=4" width="24" alt="Avatar of miraexhoi"> miraexhoi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#miraexhoi">Copy rank badge</a><br/>
 			Mirae Choi
 		</td>
 		<td>Bix Payments </td>
@@ -5764,7 +5766,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/thguss">
 				<img src="https://avatars.githubusercontent.com/u/55437339?s=72&u=560c13a8b5733c4c5a67f7dac0b8aa14f426ba43&v=4" width="24" alt="Avatar of thguss"> thguss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#thguss">Copy rank badge</a><br/>
 			Sohyeon Kim
 		</td>
 		<td>Coupang Corp </td>
@@ -5777,7 +5779,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/chayeoi">
 				<img src="https://avatars.githubusercontent.com/u/17597549?s=72&u=6023b69086f791c6c2c0a0dc055998ea2b296ddb&v=4" width="24" alt="Avatar of chayeoi"> chayeoi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#chayeoi">Copy rank badge</a><br/>
 			Chanyeon
 		</td>
 		<td>@toss </td>
@@ -5790,7 +5792,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hy57in">
 				<img src="https://avatars.githubusercontent.com/u/60775453?s=72&u=550e98fca6ebb7ce7a260d95dbfa458c21f2507f&v=4" width="24" alt="Avatar of hy57in"> hy57in
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hy57in">Copy rank badge</a><br/>
 			Kim Hyojin
 		</td>
 		<td>No Company</td>
@@ -5803,7 +5805,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/KamaTAEWOO">
 				<img src="https://avatars.githubusercontent.com/u/48404941?s=72&u=2c932a75538850dddc22e7ece793df57167b13e6&v=4" width="24" alt="Avatar of KamaTAEWOO"> KamaTAEWOO
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#KamaTAEWOO">Copy rank badge</a><br/>
 			달리는 다람쥐
 		</td>
 		<td>알서포트 </td>
@@ -5816,7 +5818,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sanghyun-son">
 				<img src="https://avatars.githubusercontent.com/u/21952093?s=72&u=1d2b2d0df8ebde1a39164b6004051368f040e742&v=4" width="24" alt="Avatar of sanghyun-son"> sanghyun-son
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sanghyun-son">Copy rank badge</a><br/>
 			Sanghyun Son (Shane)
 		</td>
 		<td>Ml Research Engineer, Twelvelabs<br/></td>
@@ -5829,7 +5831,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/luciancah">
 				<img src="https://avatars.githubusercontent.com/u/8311335?s=72&u=aef963a016a55479eb692a48766e662f993ae19e&v=4" width="24" alt="Avatar of luciancah"> luciancah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#luciancah">Copy rank badge</a><br/>
 			Jinhyung Lee
 		</td>
 		<td>Hyundai Motor Company </td>
@@ -5842,7 +5844,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ssut">
 				<img src="https://avatars.githubusercontent.com/u/2366668?s=72&u=7ae14a05c5187d54badddffa1ee53dfd468f86e0&v=4" width="24" alt="Avatar of ssut"> ssut
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ssut">Copy rank badge</a><br/>
 			Suhun Han
 		</td>
 		<td>@brandazine </td>
@@ -5855,7 +5857,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/derrickkim0109">
 				<img src="https://avatars.githubusercontent.com/u/59466342?s=72&u=bbc94b31a75e8d3babe56c80bd158de570d9065f&v=4" width="24" alt="Avatar of derrickkim0109"> derrickkim0109
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#derrickkim0109">Copy rank badge</a><br/>
 			Derrick Kim
 		</td>
 		<td>Cross Enf </td>
@@ -5868,7 +5870,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/nowgnas">
 				<img src="https://avatars.githubusercontent.com/u/55802893?s=72&u=2905d2a71344c08d2c49b0cd9c123e7d899b845e&v=4" width="24" alt="Avatar of nowgnas"> nowgnas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#nowgnas">Copy rank badge</a><br/>
 			sangwon
 		</td>
 		<td>@lotte-on </td>
@@ -5881,7 +5883,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Climier-code">
 				<img src="https://avatars.githubusercontent.com/u/55488800?s=72&u=b404405b834a5b922f90bda013e52752df87a3f7&v=4" width="24" alt="Avatar of Climier-code"> Climier-code
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Climier-code">Copy rank badge</a><br/>
 			강종연(ALT)
 		</td>
 		<td>Worxphere </td>
@@ -5894,7 +5896,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Gyubin">
 				<img src="https://avatars.githubusercontent.com/u/3977273?s=72&u=3eca3e9fdffc2fbf42016f25ccdf3b68c0199491&v=4" width="24" alt="Avatar of Gyubin"> Gyubin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Gyubin">Copy rank badge</a><br/>
 			Gyubin Son
 		</td>
 		<td>No Company</td>
@@ -5907,7 +5909,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/fivetop">
 				<img src="https://avatars.githubusercontent.com/u/50413?s=72&u=bf80a1ed965184e570367886922b7cff7a9e1525&v=4" width="24" alt="Avatar of fivetop"> fivetop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#fivetop">Copy rank badge</a><br/>
 			romee
 		</td>
 		<td>Ls Cable&system (www.lscns.com) </td>
@@ -5920,7 +5922,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kwon37xi">
 				<img src="https://avatars.githubusercontent.com/u/545649?s=72&v=4" width="24" alt="Avatar of kwon37xi"> kwon37xi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kwon37xi">Copy rank badge</a><br/>
 			KwonNam Son
 		</td>
 		<td>@woowabros </td>
@@ -5933,7 +5935,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/mintheon">
 				<img src="https://avatars.githubusercontent.com/u/23326757?s=72&u=594fff75f3b6c205b7ecf2f57efb18f0dd411bd3&v=4" width="24" alt="Avatar of mintheon"> mintheon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#mintheon">Copy rank badge</a><br/>
 			MinHyun Lee
 		</td>
 		<td>@naver </td>
@@ -5946,7 +5948,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/chobkyu">
 				<img src="https://avatars.githubusercontent.com/u/98572357?s=72&u=f54d6de286e6758299750187a5c249a448967623&v=4" width="24" alt="Avatar of chobkyu"> chobkyu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#chobkyu">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5959,7 +5961,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jsikyoon">
 				<img src="https://avatars.githubusercontent.com/u/22428579?s=72&u=9297912241064493c6a74650e22d65d8316fed92&v=4" width="24" alt="Avatar of jsikyoon"> jsikyoon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jsikyoon">Copy rank badge</a><br/>
 			Jaesik Yoon
 		</td>
 		<td>Sap, @ahn-ml  </td>
@@ -5972,7 +5974,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/woody6624">
 				<img src="https://avatars.githubusercontent.com/u/103871252?s=72&u=629abd3f5bb3029452195171c1af770e0f16b92f&v=4" width="24" alt="Avatar of woody6624"> woody6624
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#woody6624">Copy rank badge</a><br/>
 			KIMWOOHYUN
 		</td>
 		<td>Ezcaretech Infra Team, Cloud<br/>Part<br/></td>
@@ -5985,7 +5987,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Xvezda">
 				<img src="https://avatars.githubusercontent.com/u/9497404?s=72&u=f3fbe027a6943b3e6ec902e4ba931bd3e09986aa&v=4" width="24" alt="Avatar of Xvezda"> Xvezda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Xvezda">Copy rank badge</a><br/>
 			Xvezda
 		</td>
 		<td>No Company</td>
@@ -5998,7 +6000,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/SeongokRyu">
 				<img src="https://avatars.githubusercontent.com/u/29187295?s=72&u=2998f67dfccc1dc473cba7b4e3abb67c40f31d2a&v=4" width="24" alt="Avatar of SeongokRyu"> SeongokRyu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#SeongokRyu">Copy rank badge</a><br/>
 			Seongok Ryu
 		</td>
 		<td>Stealth Startup </td>
@@ -6011,7 +6013,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/JinseongHwang">
 				<img src="https://avatars.githubusercontent.com/u/52629158?s=72&u=6ce1a0c47b7977f891f3d2ebdfe60878fcdb35f5&v=4" width="24" alt="Avatar of JinseongHwang"> JinseongHwang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#JinseongHwang">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@kakaobank </td>
@@ -6024,7 +6026,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ulgoon">
 				<img src="https://avatars.githubusercontent.com/u/13392227?s=72&u=a33bbf3005be8d2dfd56d037128b41c617c2c707&v=4" width="24" alt="Avatar of ulgoon"> ulgoon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ulgoon">Copy rank badge</a><br/>
 			Clifford Choi
 		</td>
 		<td>No Company</td>
@@ -6037,7 +6039,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/alicek106">
 				<img src="https://avatars.githubusercontent.com/u/10753179?s=72&u=ca92f8d0725b0d2cb3f68e2d977bb8aa5d819a4a&v=4" width="24" alt="Avatar of alicek106"> alicek106
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#alicek106">Copy rank badge</a><br/>
 			Chanho Yong
 		</td>
 		<td>Devsisters Corp. </td>
@@ -6050,7 +6052,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hallazzang">
 				<img src="https://avatars.githubusercontent.com/u/5072682?s=72&u=cb4a35e9fdf44171091118dd11dc115fca1ce190&v=4" width="24" alt="Avatar of hallazzang"> hallazzang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hallazzang">Copy rank badge</a><br/>
 			Hanjun Kim
 		</td>
 		<td>B-harvest </td>
@@ -6063,7 +6065,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Zundal">
 				<img src="https://avatars.githubusercontent.com/u/37681757?s=72&u=d1d76cd035c391d393304d2c7a0336394851ca22&v=4" width="24" alt="Avatar of Zundal"> Zundal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Zundal">Copy rank badge</a><br/>
 			2O_OS
 		</td>
 		<td>No Company</td>
@@ -6076,7 +6078,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/gitchannn">
 				<img src="https://avatars.githubusercontent.com/u/107979804?s=72&u=87563a5f1d073f359e79ec3caa20b04b920e5bd2&v=4" width="24" alt="Avatar of gitchannn"> gitchannn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#gitchannn">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Yonsei Univ.  </td>
@@ -6089,7 +6091,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kingsj0405">
 				<img src="https://avatars.githubusercontent.com/u/13496612?s=72&u=ebc14f618cd246c250e83a82f87bfed342b44c9c&v=4" width="24" alt="Avatar of kingsj0405"> kingsj0405
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kingsj0405">Copy rank badge</a><br/>
 			Sejong Yang
 		</td>
 		<td>Lg Ai Research </td>
@@ -6102,7 +6104,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/dsa28s">
 				<img src="https://avatars.githubusercontent.com/u/10934461?s=72&u=d8b2d3787794017a1fdf7bf38f401014f9b34555&v=4" width="24" alt="Avatar of dsa28s"> dsa28s
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#dsa28s">Copy rank badge</a><br/>
 			Sanghun Lee
 		</td>
 		<td>@at-inc </td>
@@ -6115,7 +6117,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/JeffGuKang">
 				<img src="https://avatars.githubusercontent.com/u/216363?s=72&u=63deb11d365d9686dea4f36db0db07108446acc2&v=4" width="24" alt="Avatar of JeffGuKang"> JeffGuKang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#JeffGuKang">Copy rank badge</a><br/>
 			Jeff Gu Kang
 		</td>
 		<td>Monymony Co. </td>
@@ -6128,7 +6130,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/bezzang-dev">
 				<img src="https://avatars.githubusercontent.com/u/84405002?s=72&u=5f0c1e469a859ebd1193c7c48a5bfbfe27e2bdd2&v=4" width="24" alt="Avatar of bezzang-dev"> bezzang-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#bezzang-dev">Copy rank badge</a><br/>
 			JinMyeong Kim
 		</td>
 		<td>No Company</td>
@@ -6141,7 +6143,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/e-sung">
 				<img src="https://avatars.githubusercontent.com/u/4796743?s=72&u=2fa8242b5fc843cf022f572d66a6897d9770c0f2&v=4" width="24" alt="Avatar of e-sung"> e-sung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#e-sung">Copy rank badge</a><br/>
 			류성두
 		</td>
 		<td>Rainist </td>
@@ -6154,7 +6156,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/3boku">
 				<img src="https://avatars.githubusercontent.com/u/68502584?s=72&u=25a25213421e09ae7358ac984197d8a6b75ee0ef&v=4" width="24" alt="Avatar of 3boku"> 3boku
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#3boku">Copy rank badge</a><br/>
 			정삼복
 		</td>
 		<td>@post-math </td>
@@ -6167,7 +6169,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/iamchiwon">
 				<img src="https://avatars.githubusercontent.com/u/6276689?s=72&u=ff65a4173e154b2cfdb295c40ff581fd7c1b5e97&v=4" width="24" alt="Avatar of iamchiwon"> iamchiwon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#iamchiwon">Copy rank badge</a><br/>
 			Song Chiwon
 		</td>
 		<td>Voyagerx </td>
@@ -6180,7 +6182,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/skyil7">
 				<img src="https://avatars.githubusercontent.com/u/30472421?s=72&u=74e6ff165dd2994f4c67c925eab31784bc426387&v=4" width="24" alt="Avatar of skyil7"> skyil7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#skyil7">Copy rank badge</a><br/>
 			GIO PAIK
 		</td>
 		<td>@thetaone-ai </td>
@@ -6193,7 +6195,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/eungyeole">
 				<img src="https://avatars.githubusercontent.com/u/66717787?s=72&u=70c5533562bb933baa5519951f0751c9bfbe4c6a&v=4" width="24" alt="Avatar of eungyeole"> eungyeole
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#eungyeole">Copy rank badge</a><br/>
 			Eungyeol
 		</td>
 		<td>@doodlincorp </td>
@@ -6206,7 +6208,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/skt-t1-byungi">
 				<img src="https://avatars.githubusercontent.com/u/16894698?s=72&u=ec651d8295e11624850765dd8410c21fb9f1e71c&v=4" width="24" alt="Avatar of skt-t1-byungi"> skt-t1-byungi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#skt-t1-byungi">Copy rank badge</a><br/>
 			BYUNGI
 		</td>
 		<td>@lbox-kr </td>
@@ -6219,7 +6221,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kimsama">
 				<img src="https://avatars.githubusercontent.com/u/564941?s=72&u=553c1a83d294a063ed26a1b6b71a9f41e43b5884&v=4" width="24" alt="Avatar of kimsama"> kimsama
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kimsama">Copy rank badge</a><br/>
 			Kim, Hyoun Woo
 		</td>
 		<td>No Company</td>
@@ -6232,7 +6234,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/pengooseDev">
 				<img src="https://avatars.githubusercontent.com/u/73521518?s=72&u=28f675b92319f15f17ecfa960aa81d8d8403e283&v=4" width="24" alt="Avatar of pengooseDev"> pengooseDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#pengooseDev">Copy rank badge</a><br/>
 			Pengoose
 		</td>
 		<td>No Company</td>
@@ -6245,7 +6247,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/eagle705">
 				<img src="https://avatars.githubusercontent.com/u/7252598?s=72&u=a574524978db64ec6ab60286e1c4aad3c8813634&v=4" width="24" alt="Avatar of eagle705"> eagle705
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#eagle705">Copy rank badge</a><br/>
 			Joosung Yoon
 		</td>
 		<td>Nvidia </td>
@@ -6258,7 +6260,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/shine-jung">
 				<img src="https://avatars.githubusercontent.com/u/79754613?s=72&u=0123f7637f8c8838d8992a05d6b66fbd78dc7eed&v=4" width="24" alt="Avatar of shine-jung"> shine-jung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#shine-jung">Copy rank badge</a><br/>
 			Seokmin Jung
 		</td>
 		<td>@merlot-platform  </td>
@@ -6271,7 +6273,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/wisemuji">
 				<img src="https://avatars.githubusercontent.com/u/32327475?s=72&u=6fe562ad9053619423cd9d7681b1dfce89ee5391&v=4" width="24" alt="Avatar of wisemuji"> wisemuji
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#wisemuji">Copy rank badge</a><br/>
 			Suhyeon Kim
 		</td>
 		<td>우아한형제들 </td>
@@ -6284,7 +6286,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/heyman333">
 				<img src="https://avatars.githubusercontent.com/u/22214150?s=72&u=445052201b9360429253a48bfc64697a506b0753&v=4" width="24" alt="Avatar of heyman333"> heyman333
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#heyman333">Copy rank badge</a><br/>
 			Yeongsu Han (zero)
 		</td>
 		<td>No Company</td>
@@ -6297,7 +6299,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/falconlee236">
 				<img src="https://avatars.githubusercontent.com/u/52999093?s=72&u=72cc50e83a54de3ae26702eb08cc4a7ebdaa9205&v=4" width="24" alt="Avatar of falconlee236"> falconlee236
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#falconlee236">Copy rank badge</a><br/>
 			Sangyun_LEE
 		</td>
 		<td>Cj Olivenetworks </td>
@@ -6310,7 +6312,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/l-yohai">
 				<img src="https://avatars.githubusercontent.com/u/49181231?s=72&u=5afac92bd5fd63c27d97a6d8602e2ec8b2d2a24e&v=4" width="24" alt="Avatar of l-yohai"> l-yohai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#l-yohai">Copy rank badge</a><br/>
 			Yohan Lee
 		</td>
 		<td>@kakaobank </td>
@@ -6323,7 +6325,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kangju2000">
 				<img src="https://avatars.githubusercontent.com/u/23312485?s=72&u=56d44be9f5705224b1914bf365a1d7c6f022e2bf&v=4" width="24" alt="Avatar of kangju2000"> kangju2000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kangju2000">Copy rank badge</a><br/>
 			Juhyeok Kang
 		</td>
 		<td>@toss </td>
@@ -6336,7 +6338,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/SightStudio">
 				<img src="https://avatars.githubusercontent.com/u/50672087?s=72&u=55249747c374d504d54889e4021375609269a918&v=4" width="24" alt="Avatar of SightStudio"> SightStudio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#SightStudio">Copy rank badge</a><br/>
 			Dong Min Seol
 		</td>
 		<td>Line Plus Corp </td>
@@ -6349,7 +6351,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/krkarma777">
 				<img src="https://avatars.githubusercontent.com/u/149022496?s=72&u=8357b211bcf7ed63117e54d44d1d5935ade588f1&v=4" width="24" alt="Avatar of krkarma777"> krkarma777
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#krkarma777">Copy rank badge</a><br/>
 			YUJUN OH
 		</td>
 		<td>@puzzleai </td>
@@ -6362,7 +6364,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kkyungseo">
 				<img src="https://avatars.githubusercontent.com/u/61786275?s=72&u=ad098a1c088c5725d2ed3c5a78ae638b6072c824&v=4" width="24" alt="Avatar of kkyungseo"> kkyungseo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kkyungseo">Copy rank badge</a><br/>
 			김경서 (Kyung Seo KIM)
 		</td>
 		<td>Hyperstar Inc. </td>
@@ -6375,7 +6377,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kbumsik">
 				<img src="https://avatars.githubusercontent.com/u/7823583?s=72&u=3a05e32df2253733c27546b2ca8b3d09e920fb1d&v=4" width="24" alt="Avatar of kbumsik"> kbumsik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kbumsik">Copy rank badge</a><br/>
 			Bumsik Kim
 		</td>
 		<td>@deepauto-ai  </td>
@@ -6388,7 +6390,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/JGeun">
 				<img src="https://avatars.githubusercontent.com/u/68798525?s=72&u=b631dfc2877264f1318fde42bfb11339fda4198e&v=4" width="24" alt="Avatar of JGeun"> JGeun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#JGeun">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@line </td>
@@ -6401,7 +6403,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/dokdo2013">
 				<img src="https://avatars.githubusercontent.com/u/22076477?s=72&u=99c474e471d8b3a44bace48c4e3cd38ea0d90ab8&v=4" width="24" alt="Avatar of dokdo2013"> dokdo2013
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#dokdo2013">Copy rank badge</a><br/>
 			Hyeonwoo Jo
 		</td>
 		<td>@dylabs </td>
@@ -6414,7 +6416,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/yujo11">
 				<img src="https://avatars.githubusercontent.com/u/61097373?s=72&u=ab37afb5d6b237205273b7241195cfb7c59b1fe3&v=4" width="24" alt="Avatar of yujo11"> yujo11
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#yujo11">Copy rank badge</a><br/>
 			JO YUN HO
 		</td>
 		<td>@woowabros </td>
@@ -6427,7 +6429,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/rheehot">
 				<img src="https://avatars.githubusercontent.com/u/7463532?s=72&u=e121aa27337dcef05f9e4cd5c4248f13ec06dade&v=4" width="24" alt="Avatar of rheehot"> rheehot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#rheehot">Copy rank badge</a><br/>
 			Peter Lee  Jong Woo
 		</td>
 		<td>No Company</td>
@@ -6440,7 +6442,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jnhwkim">
 				<img src="https://avatars.githubusercontent.com/u/1910051?s=72&v=4" width="24" alt="Avatar of jnhwkim"> jnhwkim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jnhwkim">Copy rank badge</a><br/>
 			Jin-Hwa Kim
 		</td>
 		<td>Naver Ai Lab </td>
@@ -6453,7 +6455,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hustle-dev">
 				<img src="https://avatars.githubusercontent.com/u/53992007?s=72&u=da26c1a072c7ade9b0b78cd53bc13237c94ae4e8&v=4" width="24" alt="Avatar of hustle-dev"> hustle-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hustle-dev">Copy rank badge</a><br/>
 			Lee Jeong Min
 		</td>
 		<td>@webtoon </td>
@@ -6466,7 +6468,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jojaeng2">
 				<img src="https://avatars.githubusercontent.com/u/76645095?s=72&u=b93e6796af6631576e1fb3163d07859c2b904af7&v=4" width="24" alt="Avatar of jojaeng2"> jojaeng2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jojaeng2">Copy rank badge</a><br/>
 			조정현
 		</td>
 		<td>@naver </td>
@@ -6479,7 +6481,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/nnnnoel">
 				<img src="https://avatars.githubusercontent.com/u/67718949?s=72&u=b8bd4c1066607c5204bc22cc8870cc5c985ffe87&v=4" width="24" alt="Avatar of nnnnoel"> nnnnoel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#nnnnoel">Copy rank badge</a><br/>
 			Noel Kim (김민혁)
 		</td>
 		<td>No Company</td>
@@ -6492,7 +6494,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/neoarc">
 				<img src="https://avatars.githubusercontent.com/u/963958?s=72&u=8de9252ad48e0e0df8e4dc42168b48f7721c229c&v=4" width="24" alt="Avatar of neoarc"> neoarc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#neoarc">Copy rank badge</a><br/>
 			neoarc
 		</td>
 		<td>None </td>
@@ -6505,7 +6507,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Astro36">
 				<img src="https://avatars.githubusercontent.com/u/10459262?s=72&u=11f1e8e43e59cf87c18b66e2e0a485a1cbb56255&v=4" width="24" alt="Avatar of Astro36"> Astro36
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Astro36">Copy rank badge</a><br/>
 			Seungjae Park
 		</td>
 		<td>M.s. Student, Yonsei University<br/></td>
@@ -6518,7 +6520,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Philchoi17">
 				<img src="https://avatars.githubusercontent.com/u/26807723?s=72&u=138f6c16725a3f52ac36136edf834105f68518b9&v=4" width="24" alt="Avatar of Philchoi17"> Philchoi17
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Philchoi17">Copy rank badge</a><br/>
 			Phil Choi
 		</td>
 		<td>No Company</td>
@@ -6531,7 +6533,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ykss">
 				<img src="https://avatars.githubusercontent.com/u/35093128?s=72&u=f93750a8a006adbea5752b9487c6f241ea14ff99&v=4" width="24" alt="Avatar of ykss"> ykss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ykss">Copy rank badge</a><br/>
 			KyeongSang Yu
 		</td>
 		<td>@42dot </td>
@@ -6544,7 +6546,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/angeloyeo">
 				<img src="https://avatars.githubusercontent.com/u/23230116?s=72&u=307c39898ff6e5094b395569488117ccafe826d9&v=4" width="24" alt="Avatar of angeloyeo"> angeloyeo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#angeloyeo">Copy rank badge</a><br/>
 			Angelo Yeo
 		</td>
 		<td>@mathworks </td>
@@ -6557,7 +6559,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ukairia777">
 				<img src="https://avatars.githubusercontent.com/u/73151616?s=72&v=4" width="24" alt="Avatar of ukairia777"> ukairia777
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ukairia777">Copy rank badge</a><br/>
 			Joon
 		</td>
 		<td>No Company</td>
@@ -6570,7 +6572,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/eunmin">
 				<img src="https://avatars.githubusercontent.com/u/1837478?s=72&u=f16304c5ff197c86cd5ff8f144c408e189e8df78&v=4" width="24" alt="Avatar of eunmin"> eunmin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#eunmin">Copy rank badge</a><br/>
 			Eunmin Kim
 		</td>
 		<td>Constacts, Inc. </td>
@@ -6583,7 +6585,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/studioego">
 				<img src="https://avatars.githubusercontent.com/u/20002?s=72&u=40b132a63d797e1f76e8bc91375f1d5f8f9b2979&v=4" width="24" alt="Avatar of studioego"> studioego
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#studioego">Copy rank badge</a><br/>
 			DaeHyun Sung
 		</td>
 		<td>Lablup Inc. </td>
@@ -6596,7 +6598,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sanghoon">
 				<img src="https://avatars.githubusercontent.com/u/3340388?s=72&u=5fe68e994611d2ad2eb056c7a9b7d15ba13b3949&v=4" width="24" alt="Avatar of sanghoon"> sanghoon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sanghoon">Copy rank badge</a><br/>
 			Sanghoon Hong
 		</td>
 		<td>Cinamon Corp. </td>
@@ -6609,7 +6611,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/zelkovaria">
 				<img src="https://avatars.githubusercontent.com/u/110520124?s=72&u=a318d8b5d0d18b7ed048ab9392423075fe0f211a&v=4" width="24" alt="Avatar of zelkovaria"> zelkovaria
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#zelkovaria">Copy rank badge</a><br/>
 			정혜인
 		</td>
 		<td>No Company</td>
@@ -6622,7 +6624,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/qwerty3345">
 				<img src="https://avatars.githubusercontent.com/u/59835351?s=72&u=019098ac3515d5f64cabbf582ddf9961ce8cc00b&v=4" width="24" alt="Avatar of qwerty3345"> qwerty3345
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#qwerty3345">Copy rank badge</a><br/>
 			Mason Kim
 		</td>
 		<td>@ahaofficial </td>
@@ -6635,7 +6637,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/noahmik">
 				<img src="https://avatars.githubusercontent.com/u/122420333?s=72&u=d71dfaffedecdf5772d8f6cfb0964d9c60531cc2&v=4" width="24" alt="Avatar of noahmik"> noahmik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#noahmik">Copy rank badge</a><br/>
 			한태영
 		</td>
 		<td>No Company</td>
@@ -6648,7 +6650,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hajoeun">
 				<img src="https://avatars.githubusercontent.com/u/8841586?s=72&u=bdba9968c1db83be161c408935143b67eb8df3f5&v=4" width="24" alt="Avatar of hajoeun"> hajoeun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hajoeun">Copy rank badge</a><br/>
 			Ha Joeun
 		</td>
 		<td>@daangn </td>
@@ -6661,7 +6663,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/young891221">
 				<img src="https://avatars.githubusercontent.com/u/15729299?s=72&u=109bb3fe7a3937d5ec8c67631242b88617d52510&v=4" width="24" alt="Avatar of young891221"> young891221
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#young891221">Copy rank badge</a><br/>
 			YoungJae Kim
 		</td>
 		<td>Line Plus Corp. </td>
@@ -6674,7 +6676,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/paikwiki">
 				<img src="https://avatars.githubusercontent.com/u/4120850?s=72&u=f141f6b1a1f12743c90d23d68887e4e0b8cd38be&v=4" width="24" alt="Avatar of paikwiki"> paikwiki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#paikwiki">Copy rank badge</a><br/>
 			paikwiki
 		</td>
 		<td>Ecole42 </td>
@@ -6687,7 +6689,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ddongule">
 				<img src="https://avatars.githubusercontent.com/u/26598561?s=72&u=f29db967cd58ba045195b18c0a1d15b2a88c137f&v=4" width="24" alt="Avatar of ddongule"> ddongule
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ddongule">Copy rank badge</a><br/>
 			Minkyung Kang
 		</td>
 		<td>No Company</td>
@@ -6700,7 +6702,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/dn1t">
 				<img src="https://avatars.githubusercontent.com/u/45326612?s=72&u=53e407449db3b0df8a49cef542e4d7a5bae8a306&v=4" width="24" alt="Avatar of dn1t"> dn1t
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#dn1t">Copy rank badge</a><br/>
 			David Lee
 		</td>
 		<td>Hansung University </td>
@@ -6713,7 +6715,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kimdwkimdw">
 				<img src="https://avatars.githubusercontent.com/u/386070?s=72&v=4" width="24" alt="Avatar of kimdwkimdw"> kimdwkimdw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kimdwkimdw">Copy rank badge</a><br/>
 			Arthur Kim
 		</td>
 		<td>Returnzero Inc. </td>
@@ -6726,7 +6728,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/14km">
 				<img src="https://avatars.githubusercontent.com/u/45898974?s=72&u=4a8464b308c37f670d19fc83cc4ea51a15845ed0&v=4" width="24" alt="Avatar of 14km"> 14km
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#14km">Copy rank badge</a><br/>
 			MinTae Kim
 		</td>
 		<td>@woowabros @ausg </td>
@@ -6739,7 +6741,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kwaksj329">
 				<img src="https://avatars.githubusercontent.com/u/75911380?s=72&u=29089fe7dd902f4a3ab23fb6c58653a63ec3fb4a&v=4" width="24" alt="Avatar of kwaksj329"> kwaksj329
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kwaksj329">Copy rank badge</a><br/>
 			Sujong Kwak
 		</td>
 		<td>@toss </td>
@@ -6752,7 +6754,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Harry24k">
 				<img src="https://avatars.githubusercontent.com/u/41545927?s=72&u=852f8a0a24581b74404a7db6d15544f7a575e94a&v=4" width="24" alt="Avatar of Harry24k"> Harry24k
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Harry24k">Copy rank badge</a><br/>
 			Hoki Kim
 		</td>
 		<td>Chung-ang University </td>
@@ -6765,7 +6767,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hu1won">
 				<img src="https://avatars.githubusercontent.com/u/71807924?s=72&u=c6b67b5f2199c92abae770eaec3d09927adf8a2b&v=4" width="24" alt="Avatar of hu1won"> hu1won
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hu1won">Copy rank badge</a><br/>
 			Huiwon.
 		</td>
 		<td>No Company</td>
@@ -6778,7 +6780,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/eastroots92">
 				<img src="https://avatars.githubusercontent.com/u/26288794?s=72&u=94472f8f72610ac0d8b6c7201d36917ba9689fa5&v=4" width="24" alt="Avatar of eastroots92"> eastroots92
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#eastroots92">Copy rank badge</a><br/>
 			Root Lee
 		</td>
 		<td>@daangn  </td>
@@ -6791,7 +6793,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/vividswan">
 				<img src="https://avatars.githubusercontent.com/u/54254402?s=72&u=b79346189a24d559de5d0002afae819921a20e5d&v=4" width="24" alt="Avatar of vividswan"> vividswan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#vividswan">Copy rank badge</a><br/>
 			박수환
 		</td>
 		<td>@naver </td>
@@ -6804,7 +6806,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/chanhl22">
 				<img src="https://avatars.githubusercontent.com/u/77683221?s=72&u=dbef3212c3dedfb1141a0d9da90843f0a71aa6dd&v=4" width="24" alt="Avatar of chanhl22"> chanhl22
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#chanhl22">Copy rank badge</a><br/>
 			chanhlee
 		</td>
 		<td>No Company</td>
@@ -6817,7 +6819,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/tilltue">
 				<img src="https://avatars.githubusercontent.com/u/2108446?s=72&u=10f4406976364eb3d02d6a528d2c28d637adbfa6&v=4" width="24" alt="Avatar of tilltue"> tilltue
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#tilltue">Copy rank badge</a><br/>
 			junhyi park
 		</td>
 		<td>No Company</td>
@@ -6830,7 +6832,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/fimuxd">
 				<img src="https://avatars.githubusercontent.com/u/27915244?s=72&u=002d40f8bd9c354ea19d01d1f4ea290d3dd81103&v=4" width="24" alt="Avatar of fimuxd"> fimuxd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#fimuxd">Copy rank badge</a><br/>
 			Bo-Young PARK
 		</td>
 		<td>Travelwallet </td>
@@ -6843,7 +6845,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Parkchanjun">
 				<img src="https://avatars.githubusercontent.com/u/18658449?s=72&u=db55e5fef558feb598144e0c01d7e6ee7942cacf&v=4" width="24" alt="Avatar of Parkchanjun"> Parkchanjun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Parkchanjun">Copy rank badge</a><br/>
 			Chanjun Park
 		</td>
 		<td>Soongsil University </td>
@@ -6856,7 +6858,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/SoYoung210">
 				<img src="https://avatars.githubusercontent.com/u/18658235?s=72&u=ab3c7029ff471ee057fe25039dd328523bfd88ba&v=4" width="24" alt="Avatar of SoYoung210"> SoYoung210
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#SoYoung210">Copy rank badge</a><br/>
 			Soyoung
 		</td>
 		<td>@pika-labs </td>
@@ -6869,7 +6871,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/brightparagon">
 				<img src="https://avatars.githubusercontent.com/u/18232179?s=72&u=69713391421e251194eb7b27e9a4dc4c3c37320a&v=4" width="24" alt="Avatar of brightparagon"> brightparagon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#brightparagon">Copy rank badge</a><br/>
 			Kyeongmo Jeffrey Noh
 		</td>
 		<td>@toss </td>
@@ -6882,7 +6884,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/raymin0223">
 				<img src="https://avatars.githubusercontent.com/u/50742281?s=72&u=60adee3bf80c4aaa2cbe7aebbd40e80f03849a07&v=4" width="24" alt="Avatar of raymin0223"> raymin0223
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#raymin0223">Copy rank badge</a><br/>
 			Sangmin Bae
 		</td>
 		<td>Kaist Ai </td>
@@ -6895,7 +6897,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/cowkite">
 				<img src="https://avatars.githubusercontent.com/u/15315794?s=72&v=4" width="24" alt="Avatar of cowkite"> cowkite
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#cowkite">Copy rank badge</a><br/>
 			Soyeon Kim
 		</td>
 		<td>@naver </td>
@@ -6908,7 +6910,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Beomi">
 				<img src="https://avatars.githubusercontent.com/u/11323660?s=72&u=411c8feaca0f718bb71adf800d7aa0eea1c1765f&v=4" width="24" alt="Avatar of Beomi"> Beomi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Beomi">Copy rank badge</a><br/>
 			Junbum Lee
 		</td>
 		<td>Lablup Inc. </td>
@@ -6921,7 +6923,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ayoungk">
 				<img src="https://avatars.githubusercontent.com/u/13426677?s=72&u=e8a835ccb5a50526aaac27c292fe4a540f098201&v=4" width="24" alt="Avatar of ayoungk"> ayoungk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ayoungk">Copy rank badge</a><br/>
 			Ayoung Kim
 		</td>
 		<td>Snu </td>
@@ -6934,7 +6936,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sesang06">
 				<img src="https://avatars.githubusercontent.com/u/18592095?s=72&u=59cb2686172dbf9d935fdd040331ad180a67f71c&v=4" width="24" alt="Avatar of sesang06"> sesang06
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sesang06">Copy rank badge</a><br/>
 			Jo Sesang
 		</td>
 		<td>Seoul National University </td>
@@ -6947,7 +6949,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/cwdoh">
 				<img src="https://avatars.githubusercontent.com/u/2120719?s=72&u=1afea4dd25be4117c8199a0ed0d6f13aeebf7cec&v=4" width="24" alt="Avatar of cwdoh"> cwdoh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#cwdoh">Copy rank badge</a><br/>
 			Changwook Doh
 		</td>
 		<td>Riot Games </td>
@@ -6960,7 +6962,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/redLiquidator">
 				<img src="https://avatars.githubusercontent.com/u/25495667?s=72&u=1b1b0d62f8c1459430565ed08938e5bd40f9bc03&v=4" width="24" alt="Avatar of redLiquidator"> redLiquidator
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#redLiquidator">Copy rank badge</a><br/>
 			lee jin joo
 		</td>
 		<td>No Company</td>
@@ -6973,7 +6975,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/shinsunyoung">
 				<img src="https://avatars.githubusercontent.com/u/42836576?s=72&u=96862c1b1a3f0f7b365ccba7f01f917f945bcb73&v=4" width="24" alt="Avatar of shinsunyoung"> shinsunyoung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#shinsunyoung">Copy rank badge</a><br/>
 			Sunyoung Shin
 		</td>
 		<td>@dramancompany </td>
@@ -6986,7 +6988,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/benjioh5">
 				<img src="https://avatars.githubusercontent.com/u/4755202?s=72&u=1c3fb28173bebf985620fb219b977784ff276cda&v=4" width="24" alt="Avatar of benjioh5"> benjioh5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#benjioh5">Copy rank badge</a><br/>
 			Benjamin Hyo-keun Oh
 		</td>
 		<td>@scv-soft </td>
@@ -6999,7 +7001,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Two-Jay">
 				<img src="https://avatars.githubusercontent.com/u/64449323?s=72&u=684405c28601ced2364fea4d597b61e36bdf558a&v=4" width="24" alt="Avatar of Two-Jay"> Two-Jay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Two-Jay">Copy rank badge</a><br/>
 			Jeongjun Aiden Kim
 		</td>
 		<td>No Company</td>
@@ -7012,7 +7014,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/nyeoni">
 				<img src="https://avatars.githubusercontent.com/u/51353146?s=72&u=5dac46f1a37fee992df5da1b537262e917f5de42&v=4" width="24" alt="Avatar of nyeoni"> nyeoni
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#nyeoni">Copy rank badge</a><br/>
 			Nayeon Kim (Jupi)
 		</td>
 		<td>42seoul(@innovationa </td>
@@ -7025,7 +7027,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jiyeoon">
 				<img src="https://avatars.githubusercontent.com/u/32065860?s=72&u=175e6fcaa9291bc93ea7b5e70e5a3e028917e157&v=4" width="24" alt="Avatar of jiyeoon"> jiyeoon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jiyeoon">Copy rank badge</a><br/>
 			Jiyeon Lee
 		</td>
 		<td>@11st-corp </td>
@@ -7038,7 +7040,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/unluckyjung">
 				<img src="https://avatars.githubusercontent.com/u/43930419?s=72&u=4a3251977bf6fda5c7df1e45d8e93416d5d6ebe7&v=4" width="24" alt="Avatar of unluckyjung"> unluckyjung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#unluckyjung">Copy rank badge</a><br/>
 			yoonsung.jung
 		</td>
 		<td>@naver </td>
@@ -7051,7 +7053,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sithu31296">
 				<img src="https://avatars.githubusercontent.com/u/35328963?s=72&u=e6948cc439dba3838c7dde9bb0e795f5d895e974&v=4" width="24" alt="Avatar of sithu31296"> sithu31296
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sithu31296">Copy rank badge</a><br/>
 			sithu3
 		</td>
 		<td>No Company</td>
@@ -7064,7 +7066,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/junpakPark">
 				<img src="https://avatars.githubusercontent.com/u/112045553?s=72&u=5a875562d8cb27514e9c90a5e51be9421fa2b596&v=4" width="24" alt="Avatar of junpakPark"> junpakPark
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#junpakPark">Copy rank badge</a><br/>
 			박준현
 		</td>
 		<td>@woowacourse 5th Be 준팍<br/></td>
@@ -7077,7 +7079,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/endmoseung">
 				<img src="https://avatars.githubusercontent.com/u/103626175?s=72&u=89b8ad085d617e12a109a8ce465a67946a2521fd&v=4" width="24" alt="Avatar of endmoseung"> endmoseung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#endmoseung">Copy rank badge</a><br/>
 			SeungMo Kim
 		</td>
 		<td>@dramancompany </td>
@@ -7090,7 +7092,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Jayden6849">
 				<img src="https://avatars.githubusercontent.com/u/119868330?s=72&u=3f2004dafd15605f10b48870f1e24e949372c078&v=4" width="24" alt="Avatar of Jayden6849"> Jayden6849
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Jayden6849">Copy rank badge</a><br/>
 			Jayden
 		</td>
 		<td>No Company</td>
@@ -7103,7 +7105,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/neosarchizo">
 				<img src="https://avatars.githubusercontent.com/u/5792283?s=72&u=6239c814a70790984adfae4ad64504dc05c0abe8&v=4" width="24" alt="Avatar of neosarchizo"> neosarchizo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#neosarchizo">Copy rank badge</a><br/>
 			Junhyuk Lee
 		</td>
 		<td>No Company</td>
@@ -7116,7 +7118,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sanxiyn">
 				<img src="https://avatars.githubusercontent.com/u/45249?s=72&u=664663313e018faeb0c6bd2ce1df681197f8523f&v=4" width="24" alt="Avatar of sanxiyn"> sanxiyn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sanxiyn">Copy rank badge</a><br/>
 			Seo Sanghyeon
 		</td>
 		<td>No Company</td>
@@ -7129,7 +7131,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/gloomystore">
 				<img src="https://avatars.githubusercontent.com/u/80506909?s=72&u=98d2dea2253ad7c22aeb688c3f4d80a5da32cb1b&v=4" width="24" alt="Avatar of gloomystore"> gloomystore
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#gloomystore">Copy rank badge</a><br/>
 			gloomystore
 		</td>
 		<td>No Company</td>
@@ -7142,7 +7144,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/gongdongho12">
 				<img src="https://avatars.githubusercontent.com/u/1717874?s=72&u=db87910e71df502050d1c74fcd6e602a50dc9400&v=4" width="24" alt="Avatar of gongdongho12"> gongdongho12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#gongdongho12">Copy rank badge</a><br/>
 			gongdongho12
 		</td>
 		<td>@lgvoltup </td>
@@ -7155,7 +7157,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/tooooo1">
 				<img src="https://avatars.githubusercontent.com/u/77133565?s=72&u=bafec194ab3aa86941f727473e15df01632715de&v=4" width="24" alt="Avatar of tooooo1"> tooooo1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#tooooo1">Copy rank badge</a><br/>
 			Chung-il
 		</td>
 		<td>Wello </td>
@@ -7168,7 +7170,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/r-4bb1t">
 				<img src="https://avatars.githubusercontent.com/u/52532871?s=72&u=1a1f0a75b266966489beb5c1b486510e98d2ce68&v=4" width="24" alt="Avatar of r-4bb1t"> r-4bb1t
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#r-4bb1t">Copy rank badge</a><br/>
 			r4bb1t
 		</td>
 		<td>Korea University </td>
@@ -7181,7 +7183,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Hoto-Cocoa">
 				<img src="https://avatars.githubusercontent.com/u/21969938?s=72&u=80d1ae5a73d43333b63a4585dfa2ec9866340ba0&v=4" width="24" alt="Avatar of Hoto-Cocoa"> Hoto-Cocoa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Hoto-Cocoa">Copy rank badge</a><br/>
 			Cocoa Hoto
 		</td>
 		<td>@hotous </td>
@@ -7194,7 +7196,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/suyeoniii">
 				<img src="https://avatars.githubusercontent.com/u/52654236?s=72&u=94a9342ce039ef5b86d92fd1f40a78ab27c95345&v=4" width="24" alt="Avatar of suyeoniii"> suyeoniii
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#suyeoniii">Copy rank badge</a><br/>
 			Suyeon Son
 		</td>
 		<td>No Company</td>
@@ -7207,7 +7209,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Doeunnkimm">
 				<img src="https://avatars.githubusercontent.com/u/112946860?s=72&u=0594c8a56116003cb7a44ca17cdbd295c01c0ad8&v=4" width="24" alt="Avatar of Doeunnkimm"> Doeunnkimm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Doeunnkimm">Copy rank badge</a><br/>
 			Doeun Kim
 		</td>
 		<td>@flex-team </td>
@@ -7220,7 +7222,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kairess">
 				<img src="https://avatars.githubusercontent.com/u/5242555?s=72&u=80172577734647edfcf40166e05ae84c5c875179&v=4" width="24" alt="Avatar of kairess"> kairess
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kairess">Copy rank badge</a><br/>
 			Brad
 		</td>
 		<td>Https://www.m47rix.c </td>
@@ -7233,7 +7235,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/myungjuice">
 				<img src="https://avatars.githubusercontent.com/u/26559413?s=72&u=81fd9e3385cfb1f5ed8b8e75bbd78316d1fb594a&v=4" width="24" alt="Avatar of myungjuice"> myungjuice
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#myungjuice">Copy rank badge</a><br/>
 			Myungjoo Jang
 		</td>
 		<td>No Company</td>
@@ -7246,7 +7248,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/anarcher">
 				<img src="https://avatars.githubusercontent.com/u/12271?s=72&u=5062f99bcd25d8116ff99e0a87e92a80733b8aea&v=4" width="24" alt="Avatar of anarcher"> anarcher
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#anarcher">Copy rank badge</a><br/>
 			myoung-soo,shin
 		</td>
 		<td>Dark Side Ltd. </td>
@@ -7259,7 +7261,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sooftware">
 				<img src="https://avatars.githubusercontent.com/u/42150335?s=72&u=cc1a053bcbb88debcdd0bf95b0d7cae984630c56&v=4" width="24" alt="Avatar of sooftware"> sooftware
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sooftware">Copy rank badge</a><br/>
 			Soohwan Kim
 		</td>
 		<td>@daangn </td>
@@ -7272,7 +7274,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/baeharam">
 				<img src="https://avatars.githubusercontent.com/u/35518072?s=72&u=677750734122739bcddff4629e33bb458ec01b7d&v=4" width="24" alt="Avatar of baeharam"> baeharam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#baeharam">Copy rank badge</a><br/>
 			baeharam
 		</td>
 		<td>No Company</td>
@@ -7285,7 +7287,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jungpaeng">
 				<img src="https://avatars.githubusercontent.com/u/26024412?s=72&u=3a1c4b0d351c1d8aae1f13d4fdb7bd63edaf297f&v=4" width="24" alt="Avatar of jungpaeng"> jungpaeng
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jungpaeng">Copy rank badge</a><br/>
 			Yongbeen Im
 		</td>
 		<td>@toss </td>
@@ -7298,7 +7300,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ch4n3-yoon">
 				<img src="https://avatars.githubusercontent.com/u/13852925?s=72&u=a2aacdc377185d88d63ef6ea97d4eefbaef1c0ec&v=4" width="24" alt="Avatar of ch4n3-yoon"> ch4n3-yoon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ch4n3-yoon">Copy rank badge</a><br/>
 			Seokchan Yoon
 		</td>
 		<td>@zellic </td>
@@ -7311,7 +7313,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/rudeh2926">
 				<img src="https://avatars.githubusercontent.com/u/125863754?s=72&u=b85964b649187e1c956e71a052010d8a67481d7d&v=4" width="24" alt="Avatar of rudeh2926"> rudeh2926
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#rudeh2926">Copy rank badge</a><br/>
 			도경
 		</td>
 		<td>Lucentblock </td>
@@ -7324,7 +7326,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/e9t">
 				<img src="https://avatars.githubusercontent.com/u/1205890?s=72&v=4" width="24" alt="Avatar of e9t"> e9t
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#e9t">Copy rank badge</a><br/>
 			Lucy Park
 		</td>
 		<td>@upstageai </td>
@@ -7337,7 +7339,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/galsang">
 				<img src="https://avatars.githubusercontent.com/u/6680061?s=72&u=1a614ebb49e409cb808375220375b80200ec37f8&v=4" width="24" alt="Avatar of galsang"> galsang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#galsang">Copy rank badge</a><br/>
 			Taeuk Kim
 		</td>
 		<td>Hanyang University </td>
@@ -7350,7 +7352,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/feel5ny">
 				<img src="https://avatars.githubusercontent.com/u/30822283?s=72&u=74bd8d48f85fb4081ce974f71a56eaeef798ced3&v=4" width="24" alt="Avatar of feel5ny"> feel5ny
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#feel5ny">Copy rank badge</a><br/>
 			김나영
 		</td>
 		<td>@banksalad </td>
@@ -7363,7 +7365,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/lsjsj92">
 				<img src="https://avatars.githubusercontent.com/u/24634054?s=72&u=04a5da3c28ce14036e77c9aee5184914e53ca491&v=4" width="24" alt="Avatar of lsjsj92"> lsjsj92
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#lsjsj92">Copy rank badge</a><br/>
 			leesoojin
 		</td>
 		<td>Dongwoo Fine-chem - Data<br/>Scientist<br/></td>
@@ -7376,7 +7378,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/totuworld">
 				<img src="https://avatars.githubusercontent.com/u/3582610?s=72&u=3cbf28e0df9768b80d5e278f9e2608b0d74fe5c7&v=4" width="24" alt="Avatar of totuworld"> totuworld
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#totuworld">Copy rank badge</a><br/>
 			totuworld
 		</td>
 		<td>@woowabros </td>
@@ -7389,7 +7391,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/0xk1h0">
 				<img src="https://avatars.githubusercontent.com/u/47383452?s=72&u=905ed7a0dbf939a7c539a251f64a36c7d4fad707&v=4" width="24" alt="Avatar of 0xk1h0"> 0xk1h0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#0xk1h0">Copy rank badge</a><br/>
 			Kiho Lee
 		</td>
 		<td>Etri </td>
@@ -7402,7 +7404,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/giftbott">
 				<img src="https://avatars.githubusercontent.com/u/10107709?s=72&u=414c568ee8060471a5cfdf55377b85d82efecd01&v=4" width="24" alt="Avatar of giftbott"> giftbott
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#giftbott">Copy rank badge</a><br/>
 			Fourenn
 		</td>
 		<td>No Company</td>
@@ -7415,7 +7417,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/heejongahn">
 				<img src="https://avatars.githubusercontent.com/u/6768840?s=72&u=88373084d079a1861845143e7cb1acc7af0e111e&v=4" width="24" alt="Avatar of heejongahn"> heejongahn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#heejongahn">Copy rank badge</a><br/>
 			Ahn Heejong
 		</td>
 		<td>No Company</td>
@@ -7428,7 +7430,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/gunlee01">
 				<img src="https://avatars.githubusercontent.com/u/6788732?s=72&u=e898a12c58951ded9d6cd7f4bd9df0cafb889c82&v=4" width="24" alt="Avatar of gunlee01"> gunlee01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#gunlee01">Copy rank badge</a><br/>
 			Gunhee Lee
 		</td>
 		<td>Naver Z </td>
@@ -7441,7 +7443,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hhhminme">
 				<img src="https://avatars.githubusercontent.com/u/54930877?s=72&u=f062c7ed0f9517505619800b32b443da7f52c378&v=4" width="24" alt="Avatar of hhhminme"> hhhminme
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hhhminme">Copy rank badge</a><br/>
 			허민
 		</td>
 		<td>@toss </td>
@@ -7454,7 +7456,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hyeonprojects">
 				<img src="https://avatars.githubusercontent.com/u/7149932?s=72&u=8b732deb289ce048795543cb163a2fb30d1ba779&v=4" width="24" alt="Avatar of hyeonprojects"> hyeonprojects
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hyeonprojects">Copy rank badge</a><br/>
 			Hyeon
 		</td>
 		<td>The Antigravity Team </td>
@@ -7467,7 +7469,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/JayFreemandev">
 				<img src="https://avatars.githubusercontent.com/u/72185011?s=72&u=ea5599960af238893c3053eaa7ecb940f33f1808&v=4" width="24" alt="Avatar of JayFreemandev"> JayFreemandev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#JayFreemandev">Copy rank badge</a><br/>
 			JayFreeman
 		</td>
 		<td>No Company</td>
@@ -7480,7 +7482,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/minsuklee">
 				<img src="https://avatars.githubusercontent.com/u/4986890?s=72&u=6571cef1810da0ea17d27dd4767c21a6c20909dd&v=4" width="24" alt="Avatar of minsuklee"> minsuklee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#minsuklee">Copy rank badge</a><br/>
 			Minsuk Lee
 		</td>
 		<td>@kmu-oss-laboratory  </td>
@@ -7493,7 +7495,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/with-key">
 				<img src="https://avatars.githubusercontent.com/u/66957178?s=72&u=26faf454dadc0e906fda4d3578966295797fe5f2&v=4" width="24" alt="Avatar of with-key"> with-key
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#with-key">Copy rank badge</a><br/>
 			with-key
 		</td>
 		<td>Atnp </td>
@@ -7506,7 +7508,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Seung-wan">
 				<img src="https://avatars.githubusercontent.com/u/51105841?s=72&u=b3350abb3bad38d3341211eb1d40f4010fd62b42&v=4" width="24" alt="Avatar of Seung-wan"> Seung-wan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Seung-wan">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@tossplace @korean-fe-article @hamsurang </td>
@@ -7519,7 +7521,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ilovemyminutes">
 				<img src="https://avatars.githubusercontent.com/u/48649606?s=72&u=c450d714bb4ccf83c6cf424913db192a79d765fc&v=4" width="24" alt="Avatar of ilovemyminutes"> ilovemyminutes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ilovemyminutes">Copy rank badge</a><br/>
 			Jihyeong Ko
 		</td>
 		<td>Naver Corp. </td>
@@ -7532,7 +7534,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/itsnamgyu">
 				<img src="https://avatars.githubusercontent.com/u/23400562?s=72&u=bdd77c7aa59a82fa603f553e91da1bb9342fb6a4&v=4" width="24" alt="Avatar of itsnamgyu"> itsnamgyu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#itsnamgyu">Copy rank badge</a><br/>
 			Namgyu Ho
 		</td>
 		<td>Kaist Ai (osi Lab)<br/></td>
@@ -7545,7 +7547,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Chan531">
 				<img src="https://avatars.githubusercontent.com/u/81404890?s=72&u=07d93463a1cbeda8dd1ae888a4f8603be2be72e7&v=4" width="24" alt="Avatar of Chan531"> Chan531
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Chan531">Copy rank badge</a><br/>
 			Chan531
 		</td>
 		<td>Soongsil University </td>
@@ -7558,7 +7560,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/younatics">
 				<img src="https://avatars.githubusercontent.com/u/6335975?s=72&u=ecd0e369c769c7c9e769b22f4ab1b75cd6434bff&v=4" width="24" alt="Avatar of younatics"> younatics
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#younatics">Copy rank badge</a><br/>
 			Kyle Yi
 		</td>
 		<td>@upstageai </td>
@@ -7571,7 +7573,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/minho511">
 				<img src="https://avatars.githubusercontent.com/u/57162448?s=72&u=c54ed091350298778ab8310942513f8a434d1273&v=4" width="24" alt="Avatar of minho511"> minho511
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#minho511">Copy rank badge</a><br/>
 			Minho Kim
 		</td>
 		<td>Vcl Lab (seoultech) </td>
@@ -7584,7 +7586,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kimjmin">
 				<img src="https://avatars.githubusercontent.com/u/4598473?s=72&u=0c7ee3656c16b7f3c9545774bcd09319905b98ae&v=4" width="24" alt="Avatar of kimjmin"> kimjmin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kimjmin">Copy rank badge</a><br/>
 			Jongmin Kim
 		</td>
 		<td>Lablup Inc </td>
@@ -7597,7 +7599,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/shanmdphd">
 				<img src="https://avatars.githubusercontent.com/u/6946821?s=72&u=ed0ccb4644fe0d20241a9ae9019e8e9a3f72c546&v=4" width="24" alt="Avatar of shanmdphd"> shanmdphd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#shanmdphd">Copy rank badge</a><br/>
 			Sungpil Han
 		</td>
 		<td>College Of Medicine, Catholic<br/>University<br/>Of<br/>Korea<br/></td>
@@ -7610,7 +7612,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Puterism">
 				<img src="https://avatars.githubusercontent.com/u/2542730?s=72&u=8e3106844e239627a44641f1e70728dc5fd44486&v=4" width="24" alt="Avatar of Puterism"> Puterism
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Puterism">Copy rank badge</a><br/>
 			Shim MunSeong
 		</td>
 		<td>Accenture Japan </td>
@@ -7623,7 +7625,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Dawon00">
 				<img src="https://avatars.githubusercontent.com/u/71630722?s=72&u=9ec1e65d4487c8d30e18a7241ec002d04e324bef&v=4" width="24" alt="Avatar of Dawon00"> Dawon00
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Dawon00">Copy rank badge</a><br/>
 			Dawon Seo
 		</td>
 		<td>No Company</td>
@@ -7636,7 +7638,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/da-nyee">
 				<img src="https://avatars.githubusercontent.com/u/50176238?s=72&u=212ca9ffd06b88465746a94eaa6f88b10485497d&v=4" width="24" alt="Avatar of da-nyee"> da-nyee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#da-nyee">Copy rank badge</a><br/>
 			Dani
 		</td>
 		<td>@kakaopay </td>
@@ -7649,7 +7651,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/knm8643">
 				<img src="https://avatars.githubusercontent.com/u/89565071?s=72&u=41ede337db9fbaa974f599913b069b520e9273d0&v=4" width="24" alt="Avatar of knm8643"> knm8643
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#knm8643">Copy rank badge</a><br/>
 			Chung jae
 		</td>
 		<td>No Company</td>
@@ -7662,7 +7664,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kimwest00">
 				<img src="https://avatars.githubusercontent.com/u/71765938?s=72&u=e9a41a98f5b60d5c7a834b93103222dccc658722&v=4" width="24" alt="Avatar of kimwest00"> kimwest00
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kimwest00">Copy rank badge</a><br/>
 			Minseo Kim
 		</td>
 		<td>Hufs, Hankuk University Of<br/>Foreign<br/>Studies<br/></td>
@@ -7675,7 +7677,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/XionWCFM">
 				<img src="https://avatars.githubusercontent.com/u/101111364?s=72&u=5c182df9184bb3e3a6db4f37f49c32b35145ae4d&v=4" width="24" alt="Avatar of XionWCFM"> XionWCFM
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#XionWCFM">Copy rank badge</a><br/>
 			YuGilJong
 		</td>
 		<td>@toss </td>
@@ -7688,7 +7690,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/loinsir">
 				<img src="https://avatars.githubusercontent.com/u/46420281?s=72&u=610c39c6e980867be8426b08afbab46d67fc22bd&v=4" width="24" alt="Avatar of loinsir"> loinsir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#loinsir">Copy rank badge</a><br/>
 			Inhwan Kim
 		</td>
 		<td>Vinu </td>
@@ -7701,7 +7703,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/MinSeungHyun">
 				<img src="https://avatars.githubusercontent.com/u/44062683?s=72&u=97a8b3418a8c1310fdd19733b639fae376e187cd&v=4" width="24" alt="Avatar of MinSeungHyun"> MinSeungHyun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#MinSeungHyun">Copy rank badge</a><br/>
 			Seunghyun Min
 		</td>
 		<td>@silgam </td>
@@ -7714,7 +7716,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Zagoshipda">
 				<img src="https://avatars.githubusercontent.com/u/34166218?s=72&u=533446416d162330b7dcf5c6e0429889fc9570b4&v=4" width="24" alt="Avatar of Zagoshipda"> Zagoshipda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Zagoshipda">Copy rank badge</a><br/>
 			Jeon Hyeong 전 형
 		</td>
 		<td>No Company</td>
@@ -7727,7 +7729,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/JihoChoi">
 				<img src="https://avatars.githubusercontent.com/u/5732211?s=72&u=0cebe55caf1b2f26deb94a73fe62629ff96749f8&v=4" width="24" alt="Avatar of JihoChoi"> JihoChoi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#JihoChoi">Copy rank badge</a><br/>
 			Jiho Choi
 		</td>
 		<td>Kaist </td>
@@ -7740,7 +7742,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/godrm">
 				<img src="https://avatars.githubusercontent.com/u/278988?s=72&u=d01ac01802da8357ab5faf71d8123035dcb3bcd2&v=4" width="24" alt="Avatar of godrm"> godrm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#godrm">Copy rank badge</a><br/>
 			Jung Kim
 		</td>
 		<td>Codesquad </td>
@@ -7753,7 +7755,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/usageness">
 				<img src="https://avatars.githubusercontent.com/u/28296575?s=72&u=cdc6d8160b30e3a6a4da4b37421fa6ff6f9432d0&v=4" width="24" alt="Avatar of usageness"> usageness
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#usageness">Copy rank badge</a><br/>
 			Yongrae Kim
 		</td>
 		<td>@catchtable </td>
@@ -7766,7 +7768,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/limsaehyun">
 				<img src="https://avatars.githubusercontent.com/u/80076029?s=72&u=c5ffdd69618a81ec467e6056f78312aa63cfa476&v=4" width="24" alt="Avatar of limsaehyun"> limsaehyun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#limsaehyun">Copy rank badge</a><br/>
 			임세현(Skit)
 		</td>
 		<td>T.p.c. </td>
@@ -7779,7 +7781,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ChoiysApple">
 				<img src="https://avatars.githubusercontent.com/u/43776784?s=72&u=dfc640c71f77e85862db5487b1660d451d24fc51&v=4" width="24" alt="Avatar of ChoiysApple"> ChoiysApple
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ChoiysApple">Copy rank badge</a><br/>
 			Daegun Choi 
 		</td>
 		<td>Hyundai Motor Group </td>
@@ -7792,7 +7794,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/upskyy">
 				<img src="https://avatars.githubusercontent.com/u/54731898?s=72&u=28820e798f53a85ffb9376f645223a3d1ec1ae74&v=4" width="24" alt="Avatar of upskyy"> upskyy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#upskyy">Copy rank badge</a><br/>
 			Sangchun Ha
 		</td>
 		<td>Toss Bank </td>
@@ -7805,7 +7807,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jeongeun980906">
 				<img src="https://avatars.githubusercontent.com/u/57895587?s=72&u=98d10b570c1bd65ae321d08f26d45b8de95cc9b7&v=4" width="24" alt="Avatar of jeongeun980906"> jeongeun980906
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jeongeun980906">Copy rank badge</a><br/>
 			JeongEun Park
 		</td>
 		<td>No Company</td>
@@ -7818,7 +7820,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Ubinquitous">
 				<img src="https://avatars.githubusercontent.com/u/102154880?s=72&u=b352969b28a3a7b0112b2a40c29e2f724630c080&v=4" width="24" alt="Avatar of Ubinquitous"> Ubinquitous
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Ubinquitous">Copy rank badge</a><br/>
 			우빈
 		</td>
 		<td>@findainc </td>
@@ -7831,7 +7833,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/tropicalchancer">
 				<img src="https://avatars.githubusercontent.com/u/15321359?s=72&u=b75cb235a4f3d257086a4070235642c991c2e788&v=4" width="24" alt="Avatar of tropicalchancer"> tropicalchancer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#tropicalchancer">Copy rank badge</a><br/>
 			Chance
 		</td>
 		<td>Chingu </td>
@@ -7844,7 +7846,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sunglok">
 				<img src="https://avatars.githubusercontent.com/u/1608552?s=72&u=a81d3d0ae85efea59db915fec2ce26680a795e92&v=4" width="24" alt="Avatar of sunglok"> sunglok
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sunglok">Copy rank badge</a><br/>
 			Sunglok Choi
 		</td>
 		<td>Seoultech </td>
@@ -7857,7 +7859,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Lactea-J">
 				<img src="https://avatars.githubusercontent.com/u/135582645?s=72&u=0d501bb5daa3399478a0210af94d02fe67d6ebb1&v=4" width="24" alt="Avatar of Lactea-J"> Lactea-J
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Lactea-J">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Seokyung Industry </td>
@@ -7870,7 +7872,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/zerosum99">
 				<img src="https://avatars.githubusercontent.com/u/5029019?s=72&u=91ca2f237c5e2f83cd3ba91b13c5f1f49a89370d&v=4" width="24" alt="Avatar of zerosum99"> zerosum99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#zerosum99">Copy rank badge</a><br/>
 			Moon Yong Joon
 		</td>
 		<td>Sk </td>
@@ -7883,7 +7885,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/moveonha">
 				<img src="https://avatars.githubusercontent.com/u/73816024?s=72&u=bc32f5217442fa93714f3cb2de16f9db73b336b1&v=4" width="24" alt="Avatar of moveonha"> moveonha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#moveonha">Copy rank badge</a><br/>
 			CHRIS LEE
 		</td>
 		<td>Korea University </td>
@@ -7896,7 +7898,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/justiceHui">
 				<img src="https://avatars.githubusercontent.com/u/20872857?s=72&v=4" width="24" alt="Avatar of justiceHui"> justiceHui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#justiceHui">Copy rank badge</a><br/>
 			Jeounghui Nah
 		</td>
 		<td>Quora </td>
@@ -7909,7 +7911,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hanakim3945">
 				<img src="https://avatars.githubusercontent.com/u/208469616?s=72&u=a51536edd673e07b29adea27a6535a0e713b741c&v=4" width="24" alt="Avatar of hanakim3945"> hanakim3945
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hanakim3945">Copy rank badge</a><br/>
 			한나김
 		</td>
 		<td>No Company</td>
@@ -7922,7 +7924,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/HanJaeJoon">
 				<img src="https://avatars.githubusercontent.com/u/31728365?s=72&u=314cc51a7b4b7ffd74e368fef798f18077412938&v=4" width="24" alt="Avatar of HanJaeJoon"> HanJaeJoon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#HanJaeJoon">Copy rank badge</a><br/>
 			Jaejoon Han
 		</td>
 		<td>No Company</td>
@@ -7935,7 +7937,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hochan222">
 				<img src="https://avatars.githubusercontent.com/u/22424891?s=72&u=fd0fc98aabc56e7f41a438a985d8fb9fac439f1b&v=4" width="24" alt="Avatar of hochan222"> hochan222
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hochan222">Copy rank badge</a><br/>
 			hochan Lee
 		</td>
 		<td>11street, Mdn/yari-content-ko </td>
@@ -7948,7 +7950,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/mercen-lee">
 				<img src="https://avatars.githubusercontent.com/u/98750438?s=72&u=d63b0891531056cefdbc54e92efe76140d791bff&v=4" width="24" alt="Avatar of mercen-lee"> mercen-lee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#mercen-lee">Copy rank badge</a><br/>
 			Seokho Lee
 		</td>
 		<td>No Company</td>
@@ -7961,7 +7963,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/injoon2019">
 				<img src="https://avatars.githubusercontent.com/u/46641538?s=72&u=b9b7fc4ce8ee7557f83923710f2dd31b5b850854&v=4" width="24" alt="Avatar of injoon2019"> injoon2019
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#injoon2019">Copy rank badge</a><br/>
 			인준
 		</td>
 		<td>Simon Fraser University </td>
@@ -7974,7 +7976,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/perillamint">
 				<img src="https://avatars.githubusercontent.com/u/1622360?s=72&u=005a9dfba78694aeb410a68a9b6315f4e150698e&v=4" width="24" alt="Avatar of perillamint"> perillamint
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#perillamint">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -7987,7 +7989,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/mori8">
 				<img src="https://avatars.githubusercontent.com/u/51125960?s=72&u=bae1af9b2aa30033df8b7279814d191be09808c1&v=4" width="24" alt="Avatar of mori8"> mori8
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#mori8">Copy rank badge</a><br/>
 			Sooyohn (Suyeon) Nam
 		</td>
 		<td>Nh Investment & Securities<br/></td>
@@ -8000,7 +8002,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kyuwoo-choi">
 				<img src="https://avatars.githubusercontent.com/u/1215767?s=72&u=a241c7e31122f0516b3610da9815be379b62fef7&v=4" width="24" alt="Avatar of kyuwoo-choi"> kyuwoo-choi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kyuwoo-choi">Copy rank badge</a><br/>
 			KyuWoo Choi
 		</td>
 		<td>Simplatform </td>
@@ -8013,7 +8015,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/itsaslanov">
 				<img src="https://avatars.githubusercontent.com/u/95647896?s=72&u=a0a4af5e2bed25ce7b026da404f5e95e601f8cfe&v=4" width="24" alt="Avatar of itsaslanov"> itsaslanov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#itsaslanov">Copy rank badge</a><br/>
 			Azizbek Aslanov
 		</td>
 		<td>No Company</td>
@@ -8026,7 +8028,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/leejoonhun">
 				<img src="https://avatars.githubusercontent.com/u/61962637?s=72&u=dcccfab8f1ee8d03632fe0ae3a865dc0752a768a&v=4" width="24" alt="Avatar of leejoonhun"> leejoonhun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#leejoonhun">Copy rank badge</a><br/>
 			이준헌
 		</td>
 		<td>@qraft-technologies </td>
@@ -8039,7 +8041,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hyunsikjeong">
 				<img src="https://avatars.githubusercontent.com/u/5892860?s=72&u=0d1679ce929b0de0391d4a9ae9ba748943084550&v=4" width="24" alt="Avatar of hyunsikjeong"> hyunsikjeong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hyunsikjeong">Copy rank badge</a><br/>
 			Hyunsik Jeong
 		</td>
 		<td>Zellic </td>
@@ -8052,7 +8054,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/icsl-Jeon">
 				<img src="https://avatars.githubusercontent.com/u/30062474?s=72&u=e6a51690438534799457063facd7d706ac84fcf2&v=4" width="24" alt="Avatar of icsl-Jeon"> icsl-Jeon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#icsl-Jeon">Copy rank badge</a><br/>
 			Boseong Jeon
 		</td>
 		<td>Samsung Research </td>
@@ -8065,7 +8067,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/losskatsu">
 				<img src="https://avatars.githubusercontent.com/u/39438165?s=72&u=6e62865638f74fbc5ec84ee8589923d6e8ec8c4c&v=4" width="24" alt="Avatar of losskatsu"> losskatsu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#losskatsu">Copy rank badge</a><br/>
 			Cheolwon Jang
 		</td>
 		<td>마도학자 주식회사 </td>
@@ -8078,7 +8080,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/zeroFruit">
 				<img src="https://avatars.githubusercontent.com/u/18715362?s=72&u=c5b7319625cfcdca6d4d24c6653ed068b08acbab&v=4" width="24" alt="Avatar of zeroFruit"> zeroFruit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#zeroFruit">Copy rank badge</a><br/>
 			JooHyung Kim
 		</td>
 		<td>No Company</td>
@@ -8091,7 +8093,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kseo">
 				<img src="https://avatars.githubusercontent.com/u/2034762?s=72&u=baa6eef9daad745af956a8d9b564acaabf8bed25&v=4" width="24" alt="Avatar of kseo"> kseo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kseo">Copy rank badge</a><br/>
 			Kwang Yul Seo
 		</td>
 		<td>Kodebox </td>
@@ -8104,7 +8106,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/inseo24">
 				<img src="https://avatars.githubusercontent.com/u/84627144?s=72&u=047739c74f8fa5c95fcec44ddd58a03af7f29f7e&v=4" width="24" alt="Avatar of inseo24"> inseo24
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#inseo24">Copy rank badge</a><br/>
 			inseo24
 		</td>
 		<td>No Company</td>
@@ -8117,7 +8119,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/dohlee">
 				<img src="https://avatars.githubusercontent.com/u/30403812?s=72&u=f8f39ffc004d8a886960704d0f6f9fa885ab05f8&v=4" width="24" alt="Avatar of dohlee"> dohlee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#dohlee">Copy rank badge</a><br/>
 			Dohoon Lee
 		</td>
 		<td>Galux Inc. </td>
@@ -8130,7 +8132,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ygzgxyz">
 				<img src="https://avatars.githubusercontent.com/u/249795?s=72&u=39bc3e2da56f32d4fd0070b808d60ae0f4c6260c&v=4" width="24" alt="Avatar of ygzgxyz"> ygzgxyz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ygzgxyz">Copy rank badge</a><br/>
 			Hyunjun Kim
 		</td>
 		<td>Viva Republica </td>
@@ -8143,7 +8145,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/k89jy12-collab">
 				<img src="https://avatars.githubusercontent.com/u/269940944?s=72&v=4" width="24" alt="Avatar of k89jy12-collab"> k89jy12-collab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#k89jy12-collab">Copy rank badge</a><br/>
 			Kim Ji Young
 		</td>
 		<td>No Company</td>
@@ -8156,7 +8158,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sunghwan2789">
 				<img src="https://avatars.githubusercontent.com/u/4927894?s=72&u=cac3e008b87959879e28834b029708bd5bf70f58&v=4" width="24" alt="Avatar of sunghwan2789"> sunghwan2789
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sunghwan2789">Copy rank badge</a><br/>
 			Sunghwan Bang
 		</td>
 		<td>No Company</td>
@@ -8169,7 +8171,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jahongir7174">
 				<img src="https://avatars.githubusercontent.com/u/71679734?s=72&v=4" width="24" alt="Avatar of jahongir7174"> jahongir7174
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jahongir7174">Copy rank badge</a><br/>
 			Jahongir Yunusov
 		</td>
 		<td>No Company</td>
@@ -8182,7 +8184,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/bohblue2">
 				<img src="https://avatars.githubusercontent.com/u/13178330?s=72&u=a143fa1bfb1bf6e95b472cb516b77b1441860384&v=4" width="24" alt="Avatar of bohblue2"> bohblue2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#bohblue2">Copy rank badge</a><br/>
 			Brian Bae
 		</td>
 		<td>No Company</td>
@@ -8195,7 +8197,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sairion">
 				<img src="https://avatars.githubusercontent.com/u/484290?s=72&u=eef4184ddf80dbfa9adb7fe775a92a7c591c834d&v=4" width="24" alt="Avatar of sairion"> sairion
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sairion">Copy rank badge</a><br/>
 			Jaeho Lee (Jay)
 		</td>
 		<td>No Company</td>
@@ -8208,7 +8210,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/skh6075">
 				<img src="https://avatars.githubusercontent.com/u/44698603?s=72&u=b0790e59a57a5a68f5c686a93a2a160a750fec73&v=4" width="24" alt="Avatar of skh6075"> skh6075
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#skh6075">Copy rank badge</a><br/>
 			Andrew
 		</td>
 		<td>No Company</td>
@@ -8221,7 +8223,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/affjljoo3581">
 				<img src="https://avatars.githubusercontent.com/u/5409637?s=72&u=1d40d7acfd2924052eaa8d171daccf6a11027fe4&v=4" width="24" alt="Avatar of affjljoo3581"> affjljoo3581
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#affjljoo3581">Copy rank badge</a><br/>
 			Jungwoo Park
 		</td>
 		<td>Korea University </td>
@@ -8234,7 +8236,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/dongminlee94">
 				<img src="https://avatars.githubusercontent.com/u/29733842?s=72&u=0666662bcdd72a10b3c18e2f38906f52bc898121&v=4" width="24" alt="Avatar of dongminlee94"> dongminlee94
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#dongminlee94">Copy rank badge</a><br/>
 			Dongmin Lee (Dane)
 		</td>
 		<td>@madup-inc </td>
@@ -8247,7 +8249,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/inclue">
 				<img src="https://avatars.githubusercontent.com/u/13315923?s=72&u=2225df27dd77c46fe208b9ff00dec86d8b39bcef&v=4" width="24" alt="Avatar of inclue"> inclue
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#inclue">Copy rank badge</a><br/>
 			Inseo Park
 		</td>
 		<td>Naver Corp. </td>
@@ -8260,7 +8262,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Parkhanyoung">
 				<img src="https://avatars.githubusercontent.com/u/80797824?s=72&u=ea51aed30497250b37f3ddd68c62d3566b7b215a&v=4" width="24" alt="Avatar of Parkhanyoung"> Parkhanyoung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Parkhanyoung">Copy rank badge</a><br/>
 			박한영(Ryan)
 		</td>
 		<td>Korea University </td>
@@ -8273,7 +8275,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/stleamist">
 				<img src="https://avatars.githubusercontent.com/u/2215080?s=72&u=e576fde728ae7c233ecf110d7f215dd255aa0c69&v=4" width="24" alt="Avatar of stleamist"> stleamist
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#stleamist">Copy rank badge</a><br/>
 			Dongkyu Kim
 		</td>
 		<td>@daangn </td>
@@ -8286,7 +8288,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/devleejb">
 				<img src="https://avatars.githubusercontent.com/u/52884648?s=72&u=72c345cadeda1a60c3e6a321cc879a169adb3907&v=4" width="24" alt="Avatar of devleejb"> devleejb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#devleejb">Copy rank badge</a><br/>
 			LeeJongBeom
 		</td>
 		<td>@moloco @yorkie-team </td>
@@ -8299,7 +8301,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/YongjinKim-Dev">
 				<img src="https://avatars.githubusercontent.com/u/76604798?s=72&u=06bcba08b03052cd7b13199c061e8b1a2dca41f3&v=4" width="24" alt="Avatar of YongjinKim-Dev"> YongjinKim-Dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#YongjinKim-Dev">Copy rank badge</a><br/>
 			kim yongjin
 		</td>
 		<td>No Company</td>
@@ -8312,7 +8314,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/skullkim">
 				<img src="https://avatars.githubusercontent.com/u/37966705?s=72&u=2a49f9362bd76b738d90841ef2a9c83ce923c81f&v=4" width="24" alt="Avatar of skullkim"> skullkim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#skullkim">Copy rank badge</a><br/>
 			Yunki Kim
 		</td>
 		<td>Korea Credit Data </td>
@@ -8325,7 +8327,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/cceyda">
 				<img src="https://avatars.githubusercontent.com/u/15624271?s=72&u=98ac24c506193e460ecaa5dc88fe99e2e97ac444&v=4" width="24" alt="Avatar of cceyda"> cceyda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#cceyda">Copy rank badge</a><br/>
 			Ceyda Cinarel (재이다)
 		</td>
 		<td>Kakaostyle </td>
@@ -8338,7 +8340,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Dogdriip">
 				<img src="https://avatars.githubusercontent.com/u/6940439?s=72&u=99cca64c782c263df986d513015d8b4782585cc1&v=4" width="24" alt="Avatar of Dogdriip"> Dogdriip
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Dogdriip">Copy rank badge</a><br/>
 			Hyunseung Jeon (Aru)
 		</td>
 		<td>@bucketplace  </td>
@@ -8351,7 +8353,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ojj1123">
 				<img src="https://avatars.githubusercontent.com/u/33178048?s=72&u=f89e94d25d0aa7de345fad8eb7a0db96c44a28b8&v=4" width="24" alt="Avatar of ojj1123"> ojj1123
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ojj1123">Copy rank badge</a><br/>
 			Jeongjin Oh
 		</td>
 		<td>Elice </td>
@@ -8364,7 +8366,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sunghun7511">
 				<img src="https://avatars.githubusercontent.com/u/12845407?s=72&u=177b4563f26d1cb980e327f8a979ad95ac4c1d82&v=4" width="24" alt="Avatar of sunghun7511"> sunghun7511
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sunghun7511">Copy rank badge</a><br/>
 			SHGroup
 		</td>
 		<td>Shgroup </td>
@@ -8377,7 +8379,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/MansurCompAI">
 				<img src="https://avatars.githubusercontent.com/u/66158441?s=72&u=1a40222beef314af17bcf0ccb804fe1971bbeea6&v=4" width="24" alt="Avatar of MansurCompAI"> MansurCompAI
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#MansurCompAI">Copy rank badge</a><br/>
 			Mansurbek Abdullaev
 		</td>
 		<td>University Of Science And<br/>Technology,<br/>South<br/>Korea<br/></td>
@@ -8390,7 +8392,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/zzsza">
 				<img src="https://avatars.githubusercontent.com/u/18207755?s=72&u=46ab139d37e5d6d4caf85d1cd378c919972f18b4&v=4" width="24" alt="Avatar of zzsza"> zzsza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#zzsza">Copy rank badge</a><br/>
 			Seong Yun Byeon
 		</td>
 		<td>No Company</td>
@@ -8403,7 +8405,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/brunofragax">
 				<img src="https://avatars.githubusercontent.com/u/5962795?s=72&u=4b6359af3fb2fd805a2ef4dfc8bd35e17ece9030&v=4" width="24" alt="Avatar of brunofragax"> brunofragax
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#brunofragax">Copy rank badge</a><br/>
 			Bruno Fraga
 		</td>
 		<td>No Company</td>
@@ -8416,7 +8418,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/PHPJunior">
 				<img src="https://avatars.githubusercontent.com/u/13845077?s=72&u=30c94101112fd4080c381a75b5cfe4718336b632&v=4" width="24" alt="Avatar of PHPJunior"> PHPJunior
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#PHPJunior">Copy rank badge</a><br/>
 			Nyi Nyi Lwin
 		</td>
 		<td>No Company</td>
@@ -8429,7 +8431,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ralfyang">
 				<img src="https://avatars.githubusercontent.com/u/4043594?s=72&u=8b06d7dbac298ab9998d89c382ecde1746f08f00&v=4" width="24" alt="Avatar of ralfyang"> ralfyang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ralfyang">Copy rank badge</a><br/>
 			Ralf Yang
 		</td>
 		<td>No Company</td>
@@ -8442,7 +8444,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Dev-Beom">
 				<img src="https://avatars.githubusercontent.com/u/66074802?s=72&u=2d5679d1dcc38732c941b32796b9f5a860b62240&v=4" width="24" alt="Avatar of Dev-Beom"> Dev-Beom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Dev-Beom">Copy rank badge</a><br/>
 			Lee Young Beom
 		</td>
 		<td>@naver @clovaai </td>
@@ -8455,7 +8457,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/minai621">
 				<img src="https://avatars.githubusercontent.com/u/80272444?s=72&u=3d4cc29a9d335e0c00206ee2bc05300e33086d65&v=4" width="24" alt="Avatar of minai621"> minai621
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#minai621">Copy rank badge</a><br/>
 			MJ
 		</td>
 		<td>@smashfi Ex)@toss </td>
@@ -8468,7 +8470,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Jay-WKJun">
 				<img src="https://avatars.githubusercontent.com/u/40374023?s=72&u=df6fa4c48679156e32a676ceda6e491346ca3eb6&v=4" width="24" alt="Avatar of Jay-WKJun"> Jay-WKJun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Jay-WKJun">Copy rank badge</a><br/>
 			Woo KyungJun
 		</td>
 		<td>No Company</td>
@@ -8481,7 +8483,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/potatovllage">
 				<img src="https://avatars.githubusercontent.com/u/69392387?s=72&u=96fd7270fd0149cd79960d567c0d782349918aaf&v=4" width="24" alt="Avatar of potatovllage"> potatovllage
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#potatovllage">Copy rank badge</a><br/>
 			Luka
 		</td>
 		<td>No Company</td>
@@ -8494,7 +8496,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hyena0608">
 				<img src="https://avatars.githubusercontent.com/u/82203978?s=72&u=17259eec1fadfa1ed161d690732f3205d7c61aca&v=4" width="24" alt="Avatar of hyena0608"> hyena0608
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hyena0608">Copy rank badge</a><br/>
 			HyunSeo Park (Hyena)
 		</td>
 		<td>@woowacourse 5th Be </td>
@@ -8507,7 +8509,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/dnddnjs">
 				<img src="https://avatars.githubusercontent.com/u/16641054?s=72&u=5dfa66a38f3570022acfbdf8b8ac2d1d38a5f8c8&v=4" width="24" alt="Avatar of dnddnjs"> dnddnjs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#dnddnjs">Copy rank badge</a><br/>
 			Woongwon Lee
 		</td>
 		<td>@daangn  </td>
@@ -8520,7 +8522,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Nahee-Park">
 				<img src="https://avatars.githubusercontent.com/u/81923229?s=72&u=14f9548e0b5c0d4e1dbdf5c0d449947116902f67&v=4" width="24" alt="Avatar of Nahee-Park"> Nahee-Park
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Nahee-Park">Copy rank badge</a><br/>
 			devstone
 		</td>
 		<td>@sap </td>
@@ -8533,7 +8535,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Dalgona">
 				<img src="https://avatars.githubusercontent.com/u/2667858?s=72&u=7327f025aad0ee18e6ffd1d9829430145b813a4a&v=4" width="24" alt="Avatar of Dalgona"> Dalgona
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Dalgona">Copy rank badge</a><br/>
 			Eunbin Jeong
 		</td>
 		<td>No Company</td>
@@ -8546,7 +8548,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/yh0921k">
 				<img src="https://avatars.githubusercontent.com/u/35794280?s=72&u=cb21bace97f2991861ea8f913b3ab82388c356ec&v=4" width="24" alt="Avatar of yh0921k"> yh0921k
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#yh0921k">Copy rank badge</a><br/>
 			Yonghwi Kim
 		</td>
 		<td>No Company</td>
@@ -8559,7 +8561,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/amuileobsda">
 				<img src="https://avatars.githubusercontent.com/u/30142355?s=72&v=4" width="24" alt="Avatar of amuileobsda"> amuileobsda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#amuileobsda">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8572,7 +8574,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/JangWoojun">
 				<img src="https://avatars.githubusercontent.com/u/102157871?s=72&u=73dcfbe287f0c577181df72c99b6a2335b37a7e4&v=4" width="24" alt="Avatar of JangWoojun"> JangWoojun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#JangWoojun">Copy rank badge</a><br/>
 			SUS
 		</td>
 		<td>Sparta Builders </td>
@@ -8585,7 +8587,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/bosskmk">
 				<img src="https://avatars.githubusercontent.com/u/5284141?s=72&u=1ef6a6a0bd1634f00f35f03d8a59a5b2f5030509&v=4" width="24" alt="Avatar of bosskmk"> bosskmk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#bosskmk">Copy rank badge</a><br/>
 			Manki Kim
 		</td>
 		<td>No Company</td>
@@ -8598,7 +8600,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ivybae">
 				<img src="https://avatars.githubusercontent.com/u/20774764?s=72&u=700454029f6e68aa95fa234c0a757084e25ec4f3&v=4" width="24" alt="Avatar of ivybae"> ivybae
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ivybae">Copy rank badge</a><br/>
 			Ivy Bae
 		</td>
 		<td>원밀리언라인즈코딩 </td>
@@ -8611,7 +8613,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/arawn">
 				<img src="https://avatars.githubusercontent.com/u/74773?s=72&u=fcb70776e32bc9bf952a9ef58845e0ee93667ddb&v=4" width="24" alt="Avatar of arawn"> arawn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#arawn">Copy rank badge</a><br/>
 			Arawn Park
 		</td>
 		<td>Springrunner </td>
@@ -8624,7 +8626,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/dsdanielpark">
 				<img src="https://avatars.githubusercontent.com/u/81407603?s=72&u=d8c3442fbd945e2227319bebc200b1b1861c17d0&v=4" width="24" alt="Avatar of dsdanielpark"> dsdanielpark
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#dsdanielpark">Copy rank badge</a><br/>
 			MinWoo(Daniel) Park
 		</td>
 		<td>No Company</td>
@@ -8637,7 +8639,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/237summit">
 				<img src="https://avatars.githubusercontent.com/u/42544305?s=72&u=644a4f240cfb4b43a7b8c74344f11efd8c47856f&v=4" width="24" alt="Avatar of 237summit"> 237summit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#237summit">Copy rank badge</a><br/>
 			SEONGMI LEE
 		</td>
 		<td>It Management Freelance Instructor<br/></td>
@@ -8650,7 +8652,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/eunsukimme">
 				<img src="https://avatars.githubusercontent.com/u/31213226?s=72&u=60642ee1bd9f6442654fe7f5b94dfc964e012aa9&v=4" width="24" alt="Avatar of eunsukimme"> eunsukimme
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#eunsukimme">Copy rank badge</a><br/>
 			Eunsu(Evan) Kim
 		</td>
 		<td>@daangn </td>
@@ -8663,7 +8665,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/xguru">
 				<img src="https://avatars.githubusercontent.com/u/126918?s=72&u=7ec085c02bd132fb8329796126add3b466cac82b&v=4" width="24" alt="Avatar of xguru"> xguru
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#xguru">Copy rank badge</a><br/>
 			Kwon Jung Hyuk
 		</td>
 		<td>No Company</td>
@@ -8676,7 +8678,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/learn-programmers">
 				<img src="https://avatars.githubusercontent.com/u/44829481?s=72&u=3169994e1a1db41a6948da6c8ed9eb70147b13ee&v=4" width="24" alt="Avatar of learn-programmers"> learn-programmers
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#learn-programmers">Copy rank badge</a><br/>
 			프로그래머스 교육팀
 		</td>
 		<td>@grepp </td>
@@ -8689,7 +8691,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Pasov">
 				<img src="https://avatars.githubusercontent.com/u/24522378?s=72&u=4055510234b923a934f50498407cae5d7ed9241d&v=4" width="24" alt="Avatar of Pasov"> Pasov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Pasov">Copy rank badge</a><br/>
 			Pasov
 		</td>
 		<td>42dot </td>
@@ -8702,7 +8704,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/GHooN99">
 				<img src="https://avatars.githubusercontent.com/u/53388557?s=72&u=025bdd97f35e7de5e32603a985d9cd5c66f5d7b0&v=4" width="24" alt="Avatar of GHooN99"> GHooN99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#GHooN99">Copy rank badge</a><br/>
 			KyungHun Jung
 		</td>
 		<td>@kakaopay </td>
@@ -8715,7 +8717,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/morethanmin">
 				<img src="https://avatars.githubusercontent.com/u/72514247?s=72&u=e88eff67ece166888799c74f5a50bc0bf2e127f7&v=4" width="24" alt="Avatar of morethanmin"> morethanmin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#morethanmin">Copy rank badge</a><br/>
 			Lee Sang Min
 		</td>
 		<td>@prndcompany </td>
@@ -8728,7 +8730,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jaeseongDev">
 				<img src="https://avatars.githubusercontent.com/u/41244373?s=72&u=0dfb104703811c4f853e49e4a901890fa6f0401a&v=4" width="24" alt="Avatar of jaeseongDev"> jaeseongDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jaeseongDev">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8741,7 +8743,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hanyeonhee">
 				<img src="https://avatars.githubusercontent.com/u/33242880?s=72&u=b6c616ee0c7e48e7940c6f84c823aa27f0eb6bef&v=4" width="24" alt="Avatar of hanyeonhee"> hanyeonhee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hanyeonhee">Copy rank badge</a><br/>
 			YeonheeHan
 		</td>
 		<td>Openpath (duotone) </td>
@@ -8754,7 +8756,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/joohaem">
 				<img src="https://avatars.githubusercontent.com/u/47105088?s=72&u=e0103ccc45a9a942199ea19e826dfe022efc7e9e&v=4" width="24" alt="Avatar of joohaem"> joohaem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#joohaem">Copy rank badge</a><br/>
 			SNUPI
 		</td>
 		<td>@tossplace </td>
@@ -8767,7 +8769,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Yabby1997">
 				<img src="https://avatars.githubusercontent.com/u/20262392?s=72&u=6cb8ab5e7870f531ca32e37b1959ed50fd57b60e&v=4" width="24" alt="Avatar of Yabby1997"> Yabby1997
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Yabby1997">Copy rank badge</a><br/>
 			Seunghun Yang
 		</td>
 		<td>Line Plus </td>
@@ -8780,7 +8782,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/gurugio">
 				<img src="https://avatars.githubusercontent.com/u/453184?s=72&v=4" width="24" alt="Avatar of gurugio"> gurugio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#gurugio">Copy rank badge</a><br/>
 			gurugio
 		</td>
 		<td>No Company</td>
@@ -8793,7 +8795,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hotire">
 				<img src="https://avatars.githubusercontent.com/u/31230862?s=72&u=1f4054b394cdaa3932d38b93818a37b3dd8f784b&v=4" width="24" alt="Avatar of hotire"> hotire
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hotire">Copy rank badge</a><br/>
 			Kim In Hoi
 		</td>
 		<td>@toss </td>
@@ -8806,7 +8808,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/k-lpmg">
 				<img src="https://avatars.githubusercontent.com/u/15151687?s=72&u=acb458baebf0808435ec2a905ee19c04669235ba&v=4" width="24" alt="Avatar of k-lpmg"> k-lpmg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#k-lpmg">Copy rank badge</a><br/>
 			DongHee Kang
 		</td>
 		<td>No Company</td>
@@ -8819,7 +8821,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/teamhide">
 				<img src="https://avatars.githubusercontent.com/u/8403122?s=72&u=8c8cd63090a8c37a365a6f579c096da8e719031b&v=4" width="24" alt="Avatar of teamhide"> teamhide
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#teamhide">Copy rank badge</a><br/>
 			teamhide
 		</td>
 		<td>@toss </td>
@@ -8832,7 +8834,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kyaryunha">
 				<img src="https://avatars.githubusercontent.com/u/37409087?s=72&u=9f4b3f7b5f39d58cfc5ae7a9248ef2e568c44274&v=4" width="24" alt="Avatar of kyaryunha"> kyaryunha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kyaryunha">Copy rank badge</a><br/>
 			Shin Hyun
 		</td>
 		<td>No Company</td>
@@ -8845,7 +8847,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/dooboocookie">
 				<img src="https://avatars.githubusercontent.com/u/79090478?s=72&u=4c181876d42b7343708295f75e1ed0676813c82e&v=4" width="24" alt="Avatar of dooboocookie"> dooboocookie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#dooboocookie">Copy rank badge</a><br/>
 			dooboocookie
 		</td>
 		<td>Myfair </td>
@@ -8858,7 +8860,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/9yujin">
 				<img src="https://avatars.githubusercontent.com/u/55226431?s=72&u=53416f8d735d87f2c7f3460e3f70c3f15c47f88f&v=4" width="24" alt="Avatar of 9yujin"> 9yujin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#9yujin">Copy rank badge</a><br/>
 			한규진
 		</td>
 		<td>@tossinsu </td>
@@ -8871,7 +8873,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/mingxoxo">
 				<img src="https://avatars.githubusercontent.com/u/44529556?s=72&u=b1b3800ead81d58b02d983f0642026ff65ab2e83&v=4" width="24" alt="Avatar of mingxoxo"> mingxoxo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#mingxoxo">Copy rank badge</a><br/>
 			jeongmin
 		</td>
 		<td>Sejong University </td>
@@ -8884,7 +8886,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/HeegyuKim">
 				<img src="https://avatars.githubusercontent.com/u/4586874?s=72&v=4" width="24" alt="Avatar of HeegyuKim"> HeegyuKim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#HeegyuKim">Copy rank badge</a><br/>
 			Heegyu Kim
 		</td>
 		<td>No Company</td>
@@ -8897,7 +8899,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/seungminio">
 				<img src="https://avatars.githubusercontent.com/u/49827449?s=72&u=167805e16a561e8243c36a5c7efe828d4634e509&v=4" width="24" alt="Avatar of seungminio"> seungminio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#seungminio">Copy rank badge</a><br/>
 			Seungmin Lee
 		</td>
 		<td>@afininc </td>
@@ -8910,7 +8912,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Wladyslaw-Kim">
 				<img src="https://avatars.githubusercontent.com/u/143526686?s=72&u=9801f57cb6056e1e8e5604c9edd1690aebbc7b4f&v=4" width="24" alt="Avatar of Wladyslaw-Kim"> Wladyslaw-Kim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Wladyslaw-Kim">Copy rank badge</a><br/>
 			Władysław Kim
 		</td>
 		<td>No Company</td>
@@ -8923,7 +8925,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/pleasure97">
 				<img src="https://avatars.githubusercontent.com/u/89335038?s=72&v=4" width="24" alt="Avatar of pleasure97"> pleasure97
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#pleasure97">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8936,7 +8938,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hahnlee">
 				<img src="https://avatars.githubusercontent.com/u/16930958?s=72&u=8363467c03e027d7d39aeb1398cc1dc1216546ad&v=4" width="24" alt="Avatar of hahnlee"> hahnlee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hahnlee">Copy rank badge</a><br/>
 			Han Lee
 		</td>
 		<td>@peulda-official </td>
@@ -8949,7 +8951,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/mjlee34">
 				<img src="https://avatars.githubusercontent.com/u/81722346?s=72&u=7cc366843f9562a2e04087762dea3a35dca84a6d&v=4" width="24" alt="Avatar of mjlee34"> mjlee34
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#mjlee34">Copy rank badge</a><br/>
 			Myoungjun Lee (Jun)
 		</td>
 		<td>Memory Division, Samsung Electronics<br/></td>
@@ -8962,7 +8964,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/devholic">
 				<img src="https://avatars.githubusercontent.com/u/6194958?s=72&u=5f1361d60fdcba598899581c1706395835347ca2&v=4" width="24" alt="Avatar of devholic"> devholic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#devholic">Copy rank badge</a><br/>
 			Sunghoon Kang
 		</td>
 		<td>@trillion-labs - X @akuity<br/>@line<br/>@banksalad<br/></td>
@@ -8975,7 +8977,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/minsoozz">
 				<img src="https://avatars.githubusercontent.com/u/52095945?s=72&v=4" width="24" alt="Avatar of minsoozz"> minsoozz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#minsoozz">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8988,7 +8990,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/BackFoxx">
 				<img src="https://avatars.githubusercontent.com/u/95093193?s=72&u=ce14d8ecce2fb9e5afac2e5ddbafb3aa63b819fb&v=4" width="24" alt="Avatar of BackFoxx"> BackFoxx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#BackFoxx">Copy rank badge</a><br/>
 			Seungghyeon Jo
 		</td>
 		<td>@woowacourse </td>
@@ -9001,7 +9003,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/JaeSeoKim">
 				<img src="https://avatars.githubusercontent.com/u/48559454?s=72&u=f1e37467221f3162a842033aaee053fab175a236&v=4" width="24" alt="Avatar of JaeSeoKim"> JaeSeoKim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#JaeSeoKim">Copy rank badge</a><br/>
 			JaeSeoKim (Jackie)
 		</td>
 		<td>@healingpaper-soluti  </td>
@@ -9014,7 +9016,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/GeekTree0101">
 				<img src="https://avatars.githubusercontent.com/u/19504988?s=72&u=12057fe771237a4db5653644fbcbc256863dd659&v=4" width="24" alt="Avatar of GeekTree0101"> GeekTree0101
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#GeekTree0101">Copy rank badge</a><br/>
 			David Ha (小河)
 		</td>
 		<td>No Company</td>
@@ -9027,7 +9029,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kunny">
 				<img src="https://avatars.githubusercontent.com/u/1596824?s=72&v=4" width="24" alt="Avatar of kunny"> kunny
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kunny">Copy rank badge</a><br/>
 			Taeho Kim
 		</td>
 		<td>@google </td>
@@ -9040,7 +9042,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/youngwoos">
 				<img src="https://avatars.githubusercontent.com/u/29052303?s=72&u=a1aa473fb728442d4a13145b4a6da156b9dbf815&v=4" width="24" alt="Avatar of youngwoos"> youngwoos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#youngwoos">Copy rank badge</a><br/>
 			Youngwoo Kim
 		</td>
 		<td>Datajournal </td>
@@ -9053,7 +9055,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sungjk">
 				<img src="https://avatars.githubusercontent.com/u/9454446?s=72&u=d27151adeb276fbf2cd9a7a82bea4e702c968e5a&v=4" width="24" alt="Avatar of sungjk"> sungjk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sungjk">Copy rank badge</a><br/>
 			Jeremy Kim
 		</td>
 		<td>@daangn </td>
@@ -9066,7 +9068,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/samsung-ga">
 				<img src="https://avatars.githubusercontent.com/u/56102421?s=72&u=b2f6d18a6b8254fe58d40d353367cb4feb7c3260&v=4" width="24" alt="Avatar of samsung-ga"> samsung-ga
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#samsung-ga">Copy rank badge</a><br/>
 			Jaeyong
 		</td>
 		<td>No Company</td>
@@ -9079,7 +9081,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/yeonkkk">
 				<img src="https://avatars.githubusercontent.com/u/88660886?s=72&u=61ab11253362852aaaa748f90ae4b8bd689f2716&v=4" width="24" alt="Avatar of yeonkkk"> yeonkkk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#yeonkkk">Copy rank badge</a><br/>
 			Seongyeon Kim
 		</td>
 		<td>No Company</td>
@@ -9092,7 +9094,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Urunov">
 				<img src="https://avatars.githubusercontent.com/u/11626327?s=72&u=fa163ef4e5efe77ec912f870ae6e330f77179d55&v=4" width="24" alt="Avatar of Urunov"> Urunov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Urunov">Copy rank badge</a><br/>
 			Hamdamboy
 		</td>
 		<td>@urunov </td>
@@ -9105,7 +9107,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hongbeomi">
 				<img src="https://avatars.githubusercontent.com/u/40753104?s=72&u=0ad807703e24b7941206ef6677c4a1eab603c2f1&v=4" width="24" alt="Avatar of hongbeomi"> hongbeomi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hongbeomi">Copy rank badge</a><br/>
 			안홍범
 		</td>
 		<td>Cj Oliveyoung </td>
@@ -9118,7 +9120,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/dojinyou">
 				<img src="https://avatars.githubusercontent.com/u/61923768?s=72&u=10eabdb10da1af0cece8153391e132c830555ee9&v=4" width="24" alt="Avatar of dojinyou"> dojinyou
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#dojinyou">Copy rank badge</a><br/>
 			dojin
 		</td>
 		<td>@toss </td>
@@ -9131,7 +9133,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/wfedev">
 				<img src="https://avatars.githubusercontent.com/u/54713067?s=72&u=79f3ff1da616a197ad3d8165ae0de42033897f28&v=4" width="24" alt="Avatar of wfedev"> wfedev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#wfedev">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9144,7 +9146,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/d0422">
 				<img src="https://avatars.githubusercontent.com/u/99241871?s=72&u=ede28f6386c2f207e1b3ecdfa2cbf4873865cdab&v=4" width="24" alt="Avatar of d0422"> d0422
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#d0422">Copy rank badge</a><br/>
 			Manolin
 		</td>
 		<td>@daangn </td>
@@ -9157,7 +9159,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ChanghyeonYoon">
 				<img src="https://avatars.githubusercontent.com/u/71636292?s=72&u=e843ffe04c20c9d2fa904fdc483bbd50b9edc02a&v=4" width="24" alt="Avatar of ChanghyeonYoon"> ChanghyeonYoon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ChanghyeonYoon">Copy rank badge</a><br/>
 			Changhyeon (Kevin) Yoon
 		</td>
 		<td>@miridih </td>
@@ -9170,7 +9172,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ildoonet">
 				<img src="https://avatars.githubusercontent.com/u/1115758?s=72&u=63dbd5ed4eb8cc5cc0112c45be4710d08395d73f&v=4" width="24" alt="Avatar of ildoonet"> ildoonet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ildoonet">Copy rank badge</a><br/>
 			curtis.abcd
 		</td>
 		<td>No Company</td>
@@ -9183,7 +9185,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/devHudi">
 				<img src="https://avatars.githubusercontent.com/u/11745691?s=72&u=8888a33c4cd2e0e29cd63cea9b5e8e0d03eba84b&v=4" width="24" alt="Avatar of devHudi"> devHudi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#devHudi">Copy rank badge</a><br/>
 			Donghyun Cho
 		</td>
 		<td>@tossbank </td>
@@ -9196,7 +9198,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/haven-jeon">
 				<img src="https://avatars.githubusercontent.com/u/957840?s=72&u=7766a983c545fe0abf84c7aa11d3429f2eb002a1&v=4" width="24" alt="Avatar of haven-jeon"> haven-jeon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#haven-jeon">Copy rank badge</a><br/>
 			Heewon Jeon(gogamza)
 		</td>
 		<td>Naver Corporation </td>
@@ -9209,7 +9211,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Arc-Jung">
 				<img src="https://avatars.githubusercontent.com/u/43470915?s=72&u=06bfcabc5d26f1fae908858240c558817e5a293d&v=4" width="24" alt="Avatar of Arc-Jung"> Arc-Jung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Arc-Jung">Copy rank badge</a><br/>
 			Arc-Jung
 		</td>
 		<td>No Company</td>
@@ -9222,7 +9224,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/cokia">
 				<img src="https://avatars.githubusercontent.com/u/24792377?s=72&u=2c894d9e63aefcc78f37318dbcd77e6812126828&v=4" width="24" alt="Avatar of cokia"> cokia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#cokia">Copy rank badge</a><br/>
 			hanukoon
 		</td>
 		<td>A-fin I&c / @sparcs-kaist<br/></td>
@@ -9235,7 +9237,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/softpeanut">
 				<img src="https://avatars.githubusercontent.com/u/80632060?s=72&u=0ba895daedfda2ce88a613cbe2fabcdd4bd108dc&v=4" width="24" alt="Avatar of softpeanut"> softpeanut
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#softpeanut">Copy rank badge</a><br/>
 			Kim Beom Jin
 		</td>
 		<td>@doodlincorp </td>
@@ -9248,7 +9250,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Brew-Brew">
 				<img src="https://avatars.githubusercontent.com/u/26598542?s=72&u=c0295f93489f7b7277d20c74803036d41017789c&v=4" width="24" alt="Avatar of Brew-Brew"> Brew-Brew
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Brew-Brew">Copy rank badge</a><br/>
 			Ideveloper (이승규)
 		</td>
 		<td>No Company</td>
@@ -9261,7 +9263,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/orlein">
 				<img src="https://avatars.githubusercontent.com/u/11387965?s=72&u=634dcbce0f5ac43ec34139c08d69eaa085075f46&v=4" width="24" alt="Avatar of orlein"> orlein
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#orlein">Copy rank badge</a><br/>
 			orlein
 		</td>
 		<td>No Company</td>
@@ -9274,7 +9276,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kwanok">
 				<img src="https://avatars.githubusercontent.com/u/61671343?s=72&u=e22080b6d20602a9f06cbeef3bb637cae8d3e7c6&v=4" width="24" alt="Avatar of kwanok"> kwanok
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kwanok">Copy rank badge</a><br/>
 			Kwanok Noh
 		</td>
 		<td>Laftel </td>
@@ -9287,7 +9289,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/dl0312">
 				<img src="https://avatars.githubusercontent.com/u/3915393?s=72&u=9f505e49bb2fb2ebe2c52939cb1b5f65a0ed590b&v=4" width="24" alt="Avatar of dl0312"> dl0312
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#dl0312">Copy rank badge</a><br/>
 			Geon Lee
 		</td>
 		<td>@naver </td>
@@ -9300,7 +9302,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/4rNe5">
 				<img src="https://avatars.githubusercontent.com/u/108358152?s=72&u=0100028ba0fa684875ec7cf2d80c540953bb19ed&v=4" width="24" alt="Avatar of 4rNe5"> 4rNe5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#4rNe5">Copy rank badge</a><br/>
 			Park Jun Hyeon
 		</td>
 		<td>@kr-co-masterway </td>
@@ -9313,7 +9315,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sjYoondeltar">
 				<img src="https://avatars.githubusercontent.com/u/26751833?s=72&v=4" width="24" alt="Avatar of sjYoondeltar"> sjYoondeltar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sjYoondeltar">Copy rank badge</a><br/>
 			Yoon, Seungje
 		</td>
 		<td>No Company</td>
@@ -9326,7 +9328,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/getogrand">
 				<img src="https://avatars.githubusercontent.com/u/7913887?s=72&u=202831def78e6cd367611be462e7f7698ca45c80&v=4" width="24" alt="Avatar of getogrand"> getogrand
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#getogrand">Copy rank badge</a><br/>
 			Wonyoung Ju
 		</td>
 		<td>@eineblume </td>
@@ -9339,7 +9341,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/cozzin">
 				<img src="https://avatars.githubusercontent.com/u/11647461?s=72&v=4" width="24" alt="Avatar of cozzin"> cozzin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#cozzin">Copy rank badge</a><br/>
 			SeongHo Hong
 		</td>
 		<td>No Company</td>
@@ -9352,7 +9354,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/lunarscents">
 				<img src="https://avatars.githubusercontent.com/u/45254522?s=72&u=05d7bdedc3c87f24a3904092ea8a78f405eeab9b&v=4" width="24" alt="Avatar of lunarscents"> lunarscents
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#lunarscents">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9365,7 +9367,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/tkwoo">
 				<img src="https://avatars.githubusercontent.com/u/13216666?s=72&u=6ec383da44f274ae99dca49197dcdb10ec7c9b28&v=4" width="24" alt="Avatar of tkwoo"> tkwoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#tkwoo">Copy rank badge</a><br/>
 			t.k.woo
 		</td>
 		<td>Naver </td>
@@ -9378,7 +9380,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/engcang">
 				<img src="https://avatars.githubusercontent.com/u/34734707?s=72&u=31eeb9320f65281915a5851c905812c200db9ccb&v=4" width="24" alt="Avatar of engcang"> engcang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#engcang">Copy rank badge</a><br/>
 			Eungchang-Mason-Lee
 		</td>
 		<td>Kaist </td>
@@ -9391,7 +9393,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/HyunSeob">
 				<img src="https://avatars.githubusercontent.com/u/6940487?s=72&u=b5949e6e57fe66fe8787630c113d19f4e5f86277&v=4" width="24" alt="Avatar of HyunSeob"> HyunSeob
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#HyunSeob">Copy rank badge</a><br/>
 			HyunSeob
 		</td>
 		<td>No Company</td>
@@ -9404,7 +9406,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/unanchoi">
 				<img src="https://avatars.githubusercontent.com/u/81692211?s=72&u=1b885a05e6dbc86a552c99135929dbf83ff3e657&v=4" width="24" alt="Avatar of unanchoi"> unanchoi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#unanchoi">Copy rank badge</a><br/>
 			Unan
 		</td>
 		<td>B.s. Mathematics In Chung-ang<br/>Univ.<br/></td>
@@ -9417,7 +9419,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/leejaycoke">
 				<img src="https://avatars.githubusercontent.com/u/4186934?s=72&u=6f7ffd0f9805748c1a0ec13b529255dd987268d8&v=4" width="24" alt="Avatar of leejaycoke"> leejaycoke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#leejaycoke">Copy rank badge</a><br/>
 			JuHyun Lee
 		</td>
 		<td>반려생활 </td>
@@ -9430,7 +9432,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/resten1497">
 				<img src="https://avatars.githubusercontent.com/u/19689492?s=72&u=19a19e3cd23c3d80e9b6d4a8ddcf75bdc1255ff2&v=4" width="24" alt="Avatar of resten1497"> resten1497
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#resten1497">Copy rank badge</a><br/>
 			Resten
 		</td>
 		<td>Graduate School Of Education,<br/>Konkuk<br/>University<br/></td>
@@ -9443,7 +9445,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jhaemin">
 				<img src="https://avatars.githubusercontent.com/u/19797697?s=72&u=3673980f73cdebaec36104d249aaba7fef653c1a&v=4" width="24" alt="Avatar of jhaemin"> jhaemin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jhaemin">Copy rank badge</a><br/>
 			Jang Haemin
 		</td>
 		<td>@twelvelabs-io </td>
@@ -9456,7 +9458,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jyeonjyan">
 				<img src="https://avatars.githubusercontent.com/u/67095821?s=72&u=a72dd0cab37d52846273c85d58d3012c6be4bf6b&v=4" width="24" alt="Avatar of jyeonjyan"> jyeonjyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jyeonjyan">Copy rank badge</a><br/>
 			전지환
 		</td>
 		<td>@toss </td>
@@ -9469,7 +9471,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hangillee">
 				<img src="https://avatars.githubusercontent.com/u/14046092?s=72&u=fc4ffac3b3eb6eba3555b3006faaa523dc021640&v=4" width="24" alt="Avatar of hangillee"> hangillee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hangillee">Copy rank badge</a><br/>
 			Hangil Lee
 		</td>
 		<td>@joodra @woowacourse </td>
@@ -9482,7 +9484,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/going-doer">
 				<img src="https://avatars.githubusercontent.com/u/48055421?s=72&u=84756a450b86790b177e4750719cba9a45633832&v=4" width="24" alt="Avatar of going-doer"> going-doer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#going-doer">Copy rank badge</a><br/>
 			Minju Seo
 		</td>
 		<td>Kaist Ai </td>
@@ -9495,7 +9497,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/gliese581gg">
 				<img src="https://avatars.githubusercontent.com/u/15100232?s=72&v=4" width="24" alt="Avatar of gliese581gg"> gliese581gg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#gliese581gg">Copy rank badge</a><br/>
 			Jinyoung Choi
 		</td>
 		<td>Seoul National Univercity </td>
@@ -9508,7 +9510,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sonsurim">
 				<img src="https://avatars.githubusercontent.com/u/47546413?s=72&u=ef323e97607875282946bef1a0c90683d0465a51&v=4" width="24" alt="Avatar of sonsurim"> sonsurim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sonsurim">Copy rank badge</a><br/>
 			Sonny
 		</td>
 		<td>@line @korean-fe-article @hamsurang </td>
@@ -9521,7 +9523,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/nstarlike">
 				<img src="https://avatars.githubusercontent.com/u/46280877?s=72&u=e2c921ef6c9078447a1a699fbb26a72a00528a6d&v=4" width="24" alt="Avatar of nstarlike"> nstarlike
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#nstarlike">Copy rank badge</a><br/>
 			nstarlike
 		</td>
 		<td>Freelance Web Developer </td>
@@ -9534,7 +9536,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/tokijh">
 				<img src="https://avatars.githubusercontent.com/u/3157900?s=72&u=b1b9409c57b3ca1fb9d02efb57f2732d1fca1bdd&v=4" width="24" alt="Avatar of tokijh"> tokijh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#tokijh">Copy rank badge</a><br/>
 			Yoon Joonghyun
 		</td>
 		<td>@toss </td>
@@ -9547,7 +9549,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Seolhun">
 				<img src="https://avatars.githubusercontent.com/u/16330024?s=72&u=045fd03880ea59b02be439f0682d694999328871&v=4" width="24" alt="Avatar of Seolhun"> Seolhun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Seolhun">Copy rank badge</a><br/>
 			Hun, Seol(Sol)
 		</td>
 		<td>Firstage.ai </td>
@@ -9560,7 +9562,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/digitalisx">
 				<img src="https://avatars.githubusercontent.com/u/16293464?s=72&u=de389676f4eb3ec555a233183ca7d3d68a9ac367&v=4" width="24" alt="Avatar of digitalisx"> digitalisx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#digitalisx">Copy rank badge</a><br/>
 			Donghyun Kim
 		</td>
 		<td>@coupang, Ex-@zigbang </td>
@@ -9573,7 +9575,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/myungsub">
 				<img src="https://avatars.githubusercontent.com/u/7778428?s=72&v=4" width="24" alt="Avatar of myungsub"> myungsub
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#myungsub">Copy rank badge</a><br/>
 			Myungsub Choi
 		</td>
 		<td>No Company</td>
@@ -9586,7 +9588,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ParkSangGwon">
 				<img src="https://avatars.githubusercontent.com/u/8275048?s=72&u=c0ff4e9d2cc6665ca9d338aa29b98ca32cca2bb1&v=4" width="24" alt="Avatar of ParkSangGwon"> ParkSangGwon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ParkSangGwon">Copy rank badge</a><br/>
 			Ted Park
 		</td>
 		<td>@prndcompany </td>
@@ -9599,7 +9601,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/danmin20">
 				<img src="https://avatars.githubusercontent.com/u/50590192?s=72&u=8df62a402039e29f2d52288cdf048804d12cac3f&v=4" width="24" alt="Avatar of danmin20"> danmin20
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#danmin20">Copy rank badge</a><br/>
 			이정민 Jeongmin Lee
 		</td>
 		<td>@kakaoent @woowabros @sipe-team <br/></td>
@@ -9612,7 +9614,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/AndersonChoi">
 				<img src="https://avatars.githubusercontent.com/u/9148605?s=72&u=29b5ca22663c664086c5ac3c5ce5f6c6555c32f9&v=4" width="24" alt="Avatar of AndersonChoi"> AndersonChoi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#AndersonChoi">Copy rank badge</a><br/>
 			AndersonChoi
 		</td>
 		<td>@kakao </td>
@@ -9625,7 +9627,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/f-lab-dev">
 				<img src="https://avatars.githubusercontent.com/u/54677861?s=72&u=e35dca92dd10f8b0c48f231063184516e805639a&v=4" width="24" alt="Avatar of f-lab-dev"> f-lab-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#f-lab-dev">Copy rank badge</a><br/>
 			f-lab
 		</td>
 		<td>@f-lab-edu  </td>
@@ -9638,7 +9640,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sozohoy">
 				<img src="https://avatars.githubusercontent.com/u/49385546?s=72&u=77aff348e1d9a34062d3b2d3b8d67f4c9a2e23b1&v=4" width="24" alt="Avatar of sozohoy"> sozohoy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sozohoy">Copy rank badge</a><br/>
 			한지석
 		</td>
 		<td>@gccompany-co-kr </td>
@@ -9651,7 +9653,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/codertimo">
 				<img src="https://avatars.githubusercontent.com/u/9063575?s=72&u=25b1f35af433b23839b7c04bb30c47ca73f2184b&v=4" width="24" alt="Avatar of codertimo"> codertimo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#codertimo">Copy rank badge</a><br/>
 			Junseong Kim
 		</td>
 		<td>@bittersweet-team </td>
@@ -9664,7 +9666,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jeehoonkang">
 				<img src="https://avatars.githubusercontent.com/u/1201316?s=72&u=8fa45799d1d74b151727f7bbc2bb3e7f9dbcaf7e&v=4" width="24" alt="Avatar of jeehoonkang"> jeehoonkang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jeehoonkang">Copy rank badge</a><br/>
 			Jeehoon Kang
 		</td>
 		<td>@furiosa-ai, @kaist-cp </td>
@@ -9677,7 +9679,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ChoiWheatley">
 				<img src="https://avatars.githubusercontent.com/u/18757823?s=72&u=ce7b4afa7d5662c962442f52dd7c3f3b1addf502&v=4" width="24" alt="Avatar of ChoiWheatley"> ChoiWheatley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ChoiWheatley">Copy rank badge</a><br/>
 			최승현(Choi Wheatley)
 		</td>
 		<td>No Company</td>
@@ -9690,7 +9692,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/devxsby">
 				<img src="https://avatars.githubusercontent.com/u/80062632?s=72&u=e43b8ab2785a60b662e6c7d4715e1e3135b5d58b&v=4" width="24" alt="Avatar of devxsby"> devxsby
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#devxsby">Copy rank badge</a><br/>
 			Subin Yoon
 		</td>
 		<td>No Company</td>
@@ -9703,7 +9705,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/qwopqwop200">
 				<img src="https://avatars.githubusercontent.com/u/64115820?s=72&v=4" width="24" alt="Avatar of qwopqwop200"> qwopqwop200
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#qwopqwop200">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9716,7 +9718,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/magi82">
 				<img src="https://avatars.githubusercontent.com/u/8379861?s=72&u=0ad6de939bd7b9587d54ac7ce9d5daad47db561f&v=4" width="24" alt="Avatar of magi82"> magi82
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#magi82">Copy rank badge</a><br/>
 			Byungkook Hwang
 		</td>
 		<td>No Company</td>
@@ -9729,7 +9731,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kdgyun">
 				<img src="https://avatars.githubusercontent.com/u/73222685?s=72&u=a0eddb0fe2f3cbd0e6ed5cfa8cbbd32368b35278&v=4" width="24" alt="Avatar of kdgyun"> kdgyun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kdgyun">Copy rank badge</a><br/>
 			K.D.Gyun
 		</td>
 		<td>No Company</td>
@@ -9742,7 +9744,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/dohvis">
 				<img src="https://avatars.githubusercontent.com/u/9590242?s=72&u=0af4b583b7197ace46bf3127f15238ccdc5b02cf&v=4" width="24" alt="Avatar of dohvis"> dohvis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#dohvis">Copy rank badge</a><br/>
 			Dohyeon Kim
 		</td>
 		<td>Pinta Ai </td>
@@ -9755,7 +9757,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/eungjun-yi">
 				<img src="https://avatars.githubusercontent.com/u/1129852?s=72&u=3f09cbe48ed95cca67d1e00422be9ca316f98ddf&v=4" width="24" alt="Avatar of eungjun-yi"> eungjun-yi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#eungjun-yi">Copy rank badge</a><br/>
 			Yi EungJun
 		</td>
 		<td>Toss </td>
@@ -9768,7 +9770,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/wonderlandpark">
 				<img src="https://avatars.githubusercontent.com/u/31924512?s=72&u=639a72a90d7b59ab88f47f50bc816a159343e862&v=4" width="24" alt="Avatar of wonderlandpark"> wonderlandpark
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#wonderlandpark">Copy rank badge</a><br/>
 			Junseo Park
 		</td>
 		<td>@koreanbots </td>
@@ -9781,7 +9783,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ops-jaeha">
 				<img src="https://avatars.githubusercontent.com/u/63505712?s=72&u=afa3783f44ccae79dc454874d306a9204e555ebc&v=4" width="24" alt="Avatar of ops-jaeha"> ops-jaeha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ops-jaeha">Copy rank badge</a><br/>
 			이재하
 		</td>
 		<td>No Company</td>
@@ -9794,7 +9796,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/woorim960">
 				<img src="https://avatars.githubusercontent.com/u/56839474?s=72&u=d91f741e222a76b96d4943ba915bf333fdac587b&v=4" width="24" alt="Avatar of woorim960"> woorim960
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#woorim960">Copy rank badge</a><br/>
 			박우림
 		</td>
 		<td>Gmarket </td>
@@ -9807,7 +9809,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sunvvis">
 				<img src="https://avatars.githubusercontent.com/u/130190785?s=72&u=268f550c7194ca95144b140d4fb5fdd3fd45d3b5&v=4" width="24" alt="Avatar of sunvvis"> sunvvis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sunvvis">Copy rank badge</a><br/>
 			Sunwoo Yu
 		</td>
 		<td>Enliple </td>
@@ -9820,7 +9822,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/saehun">
 				<img src="https://avatars.githubusercontent.com/u/16033316?s=72&u=1bd40301a1ac8ea6eee154d10898d9dcc1ca8d87&v=4" width="24" alt="Avatar of saehun"> saehun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#saehun">Copy rank badge</a><br/>
 			Karl Saehun Chung
 		</td>
 		<td>@toss </td>
@@ -9833,7 +9835,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/krung2">
 				<img src="https://avatars.githubusercontent.com/u/62950058?s=72&u=a857b56421da72bc96fb8fa63d19843f100e0ef6&v=4" width="24" alt="Avatar of krung2"> krung2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#krung2">Copy rank badge</a><br/>
 			신중빈
 		</td>
 		<td>@peoplefund-tech </td>
@@ -9846,7 +9848,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kh-kim">
 				<img src="https://avatars.githubusercontent.com/u/18007785?s=72&u=d1eefa8c0c0749a4fa76b2fc6bd3491bd1bf6ae5&v=4" width="24" alt="Avatar of kh-kim"> kh-kim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kh-kim">Copy rank badge</a><br/>
 			Kim, Ki Hyun
 		</td>
 		<td>No Company</td>
@@ -9859,7 +9861,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Jabee7531">
 				<img src="https://avatars.githubusercontent.com/u/98081176?s=72&u=69eab6d95a9a0d8790e59582114bc8afc4526d0e&v=4" width="24" alt="Avatar of Jabee7531"> Jabee7531
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Jabee7531">Copy rank badge</a><br/>
 			JaBee
 		</td>
 		<td>No Company</td>
@@ -9872,7 +9874,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jung-youjin">
 				<img src="https://avatars.githubusercontent.com/u/37402072?s=72&u=95cca5e9d4bc8cf38393a6ad2c7a4a74d41c7400&v=4" width="24" alt="Avatar of jung-youjin"> jung-youjin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jung-youjin">Copy rank badge</a><br/>
 			YouJin Jung
 		</td>
 		<td>No Company</td>
@@ -9885,7 +9887,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hyungjin-chung">
 				<img src="https://avatars.githubusercontent.com/u/39315552?s=72&u=d73b1012fe6c74a5a778b984540d73ea3ef46cf3&v=4" width="24" alt="Avatar of hyungjin-chung"> hyungjin-chung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hyungjin-chung">Copy rank badge</a><br/>
 			Hyungjin Chung
 		</td>
 		<td>Everex </td>
@@ -9898,7 +9900,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jwvg0425">
 				<img src="https://avatars.githubusercontent.com/u/7145629?s=72&u=9c357ce16dc60e43e256e292b1e94c7b9764854c&v=4" width="24" alt="Avatar of jwvg0425"> jwvg0425
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jwvg0425">Copy rank badge</a><br/>
 			namhyunuk
 		</td>
 		<td>Team Samoyed </td>
@@ -9911,7 +9913,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/havilog">
 				<img src="https://avatars.githubusercontent.com/u/57659933?s=72&u=8c83a073d5bf4e11a8762eb116c373338d31ff29&v=4" width="24" alt="Avatar of havilog"> havilog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#havilog">Copy rank badge</a><br/>
 			havi
 		</td>
 		<td>Toss </td>
@@ -9924,7 +9926,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/snack655">
 				<img src="https://avatars.githubusercontent.com/u/80940200?s=72&u=77493ce4df8c942c74e164823b8b019f5d14e904&v=4" width="24" alt="Avatar of snack655"> snack655
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#snack655">Copy rank badge</a><br/>
 			최민재
 		</td>
 		<td>No Company</td>
@@ -9937,7 +9939,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/star0202">
 				<img src="https://avatars.githubusercontent.com/u/61998307?s=72&u=fea4ba89d622782794aec13c142970da0941960c&v=4" width="24" alt="Avatar of star0202"> star0202
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#star0202">Copy rank badge</a><br/>
 			Starcea / 스타샤
 		</td>
 		<td>No Company</td>
@@ -9950,7 +9952,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/amkorousagi">
 				<img src="https://avatars.githubusercontent.com/u/39821875?s=72&u=2b4c89c0e8530e555c5761e1b9a26b26c5c494ac&v=4" width="24" alt="Avatar of amkorousagi"> amkorousagi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#amkorousagi">Copy rank badge</a><br/>
 			SeChan Park
 		</td>
 		<td>Salphatherapeutics </td>
@@ -9963,7 +9965,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/WTPENGUIN">
 				<img src="https://avatars.githubusercontent.com/u/28136137?s=72&u=cebfafb12c307ce98e9540994b84d40a61d70f7e&v=4" width="24" alt="Avatar of WTPENGUIN"> WTPENGUIN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#WTPENGUIN">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9976,7 +9978,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/lim0606">
 				<img src="https://avatars.githubusercontent.com/u/4983224?s=72&u=a06536b05b93c810ed5afaefae91c41cbd38f117&v=4" width="24" alt="Avatar of lim0606"> lim0606
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#lim0606">Copy rank badge</a><br/>
 			Jae Hyun Lim
 		</td>
 		<td>No Company</td>
@@ -9989,7 +9991,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hanameee">
 				<img src="https://avatars.githubusercontent.com/u/25149664?s=72&u=262a20f0e0f1a07baaeae890cd332aede4c38378&v=4" width="24" alt="Avatar of hanameee"> hanameee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hanameee">Copy rank badge</a><br/>
 			Hae Na Lee
 		</td>
 		<td>Flex </td>
@@ -10002,7 +10004,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/haryung-lee">
 				<img src="https://avatars.githubusercontent.com/u/64428916?s=72&u=bd02f00902a05a17b2672129df833c5cb8788d14&v=4" width="24" alt="Avatar of haryung-lee"> haryung-lee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#haryung-lee">Copy rank badge</a><br/>
 			halang
 		</td>
 		<td>@sw-maestro-oss @nexters @kakaopaysec </td>
@@ -10015,7 +10017,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/heowc">
 				<img src="https://avatars.githubusercontent.com/u/22594101?s=72&u=2eb44ee07d94b1879b8d54d05311d2e18ef91a97&v=4" width="24" alt="Avatar of heowc"> heowc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#heowc">Copy rank badge</a><br/>
 			WonChul Heo
 		</td>
 		<td>No Company</td>
@@ -10028,7 +10030,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/harrydrippin">
 				<img src="https://avatars.githubusercontent.com/u/5152494?s=72&u=6b1e0127eb860842db5d11570164eca5c7015c76&v=4" width="24" alt="Avatar of harrydrippin"> harrydrippin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#harrydrippin">Copy rank badge</a><br/>
 			Seunghwan Hong
 		</td>
 		<td>@scatterlab </td>
@@ -10041,7 +10043,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/dev-jungbin">
 				<img src="https://avatars.githubusercontent.com/u/43312096?s=72&u=98433e43c45ddf3fe9cb18a10b7752b4e05224a6&v=4" width="24" alt="Avatar of dev-jungbin"> dev-jungbin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#dev-jungbin">Copy rank badge</a><br/>
 			Jungbin Jung
 		</td>
 		<td>Naver Connect Foundation </td>
@@ -10054,7 +10056,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/onesup">
 				<img src="https://avatars.githubusercontent.com/u/298348?s=72&u=8e22eae5539fc7bd3e4077d17b0bc595ea53f913&v=4" width="24" alt="Avatar of onesup"> onesup
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#onesup">Copy rank badge</a><br/>
 			이원섭wonsup Lee/Alfonso
 		</td>
 		<td>No Company</td>
@@ -10067,7 +10069,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kewlbear">
 				<img src="https://avatars.githubusercontent.com/u/1168866?s=72&v=4" width="24" alt="Avatar of kewlbear"> kewlbear
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kewlbear">Copy rank badge</a><br/>
 			Changbeom Ahn
 		</td>
 		<td>Blueoceansoft </td>
@@ -10080,7 +10082,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/SeongJaeMoon">
 				<img src="https://avatars.githubusercontent.com/u/26380600?s=72&u=c5f320cdc9b28b6eeba8c68d4d1792a50d6c7bac&v=4" width="24" alt="Avatar of SeongJaeMoon"> SeongJaeMoon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#SeongJaeMoon">Copy rank badge</a><br/>
 			SeongjaeMoon
 		</td>
 		<td>@impactus-corporatio </td>
@@ -10093,7 +10095,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/seominjoon">
 				<img src="https://avatars.githubusercontent.com/u/1738325?s=72&u=34778399cd285ab36acc3feda5e0a6c550808464&v=4" width="24" alt="Avatar of seominjoon"> seominjoon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#seominjoon">Copy rank badge</a><br/>
 			Minjoon Seo
 		</td>
 		<td>@configint, Kaist </td>
@@ -10106,7 +10108,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/JoMingyu">
 				<img src="https://avatars.githubusercontent.com/u/21031883?s=72&u=e478193655b4d5b55b220b7ae6e46f54c2458498&v=4" width="24" alt="Avatar of JoMingyu"> JoMingyu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#JoMingyu">Copy rank badge</a><br/>
 			PlanB
 		</td>
 		<td>@theori-io </td>
@@ -10119,7 +10121,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/claudiajkang">
 				<img src="https://avatars.githubusercontent.com/u/17492826?s=72&u=80103770d6aa4fcfebf4804daf9c975cfb005871&v=4" width="24" alt="Avatar of claudiajkang"> claudiajkang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#claudiajkang">Copy rank badge</a><br/>
 			Juhee Kang
 		</td>
 		<td>No Company</td>
@@ -10132,7 +10134,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kickscar-admin">
 				<img src="https://avatars.githubusercontent.com/u/482271?s=72&u=1b26317572b6c2731b79f3943f0a90e77faaf1d7&v=4" width="24" alt="Avatar of kickscar-admin"> kickscar-admin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kickscar-admin">Copy rank badge</a><br/>
 			admin @kickscar
 		</td>
 		<td>Kickscar </td>
@@ -10145,7 +10147,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/nakosung">
 				<img src="https://avatars.githubusercontent.com/u/2463571?s=72&u=9e7439df165f057ff16a078aa5646aeead63e986&v=4" width="24" alt="Avatar of nakosung"> nakosung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#nakosung">Copy rank badge</a><br/>
 			Nako Sung
 		</td>
 		<td>Naver, Clova Ai </td>
@@ -10158,7 +10160,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/adki">
 				<img src="https://avatars.githubusercontent.com/u/1940738?s=72&u=1861dcb58aad2962a75ffa9b359ca35bf7e226d5&v=4" width="24" alt="Avatar of adki"> adki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#adki">Copy rank badge</a><br/>
 			Ando Ki
 		</td>
 		<td>Future Design Systems </td>
@@ -10171,7 +10173,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/appkr">
 				<img src="https://avatars.githubusercontent.com/u/6471947?s=72&u=512801a77b0013e0c34738eed258f3b4a8211247&v=4" width="24" alt="Avatar of appkr"> appkr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#appkr">Copy rank badge</a><br/>
 			appkr
 		</td>
 		<td>@flex-team </td>
@@ -10184,7 +10186,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/orioncactus">
 				<img src="https://avatars.githubusercontent.com/u/7247848?s=72&u=51e2d1bd2b1d381e465f6d73733a26ac4bc42c6d&v=4" width="24" alt="Avatar of orioncactus"> orioncactus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#orioncactus">Copy rank badge</a><br/>
 			Kil Hyung-jin
 		</td>
 		<td>No Company</td>
@@ -10197,7 +10199,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/DanielTimLee">
 				<img src="https://avatars.githubusercontent.com/u/16421480?s=72&u=72dba5799d49c14d0864f20af6cf87cf7f852457&v=4" width="24" alt="Avatar of DanielTimLee"> DanielTimLee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#DanielTimLee">Copy rank badge</a><br/>
 			Hoyeon Lee
 		</td>
 		<td>@kosslab-kr </td>
@@ -10210,7 +10212,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/bonghyunyang">
 				<img src="https://avatars.githubusercontent.com/u/60928021?s=72&u=261f2e0d4b877b7f480b7aa1d5152afb702f3f03&v=4" width="24" alt="Avatar of bonghyunyang"> bonghyunyang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#bonghyunyang">Copy rank badge</a><br/>
 			Bonghyun Yang
 		</td>
 		<td>Hyperlink </td>
@@ -10223,7 +10225,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/backtony">
 				<img src="https://avatars.githubusercontent.com/u/68492475?s=72&u=05e88b84cfeeca9c5011fe381b276ec56ba29c24&v=4" width="24" alt="Avatar of backtony"> backtony
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#backtony">Copy rank badge</a><br/>
 			Junseong Choi
 		</td>
 		<td>@naver </td>
@@ -10236,7 +10238,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/leeseojune53">
 				<img src="https://avatars.githubusercontent.com/u/61784568?s=72&v=4" width="24" alt="Avatar of leeseojune53"> leeseojune53
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#leeseojune53">Copy rank badge</a><br/>
 			Leeseojune
 		</td>
 		<td>@solve-us </td>
@@ -10249,7 +10251,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/5anniversary">
 				<img src="https://avatars.githubusercontent.com/u/22820675?s=72&u=9d3da852be7ca229baf9b3cead1c2e90b2ca9c5c&v=4" width="24" alt="Avatar of 5anniversary"> 5anniversary
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#5anniversary">Copy rank badge</a><br/>
 			오준현(Junhyun Oh)
 		</td>
 		<td>No Company</td>
@@ -10262,7 +10264,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/koreanddinghwan">
 				<img src="https://avatars.githubusercontent.com/u/76278794?s=72&u=25ae8b4aa40b222201264770c24b49ae44d25e8c&v=4" width="24" alt="Avatar of koreanddinghwan"> koreanddinghwan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#koreanddinghwan">Copy rank badge</a><br/>
 			Myukang
 		</td>
 		<td>No Company</td>
@@ -10275,7 +10277,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Jeewhan">
 				<img src="https://avatars.githubusercontent.com/u/14256139?s=72&u=59386eab9b64e21b89c4c587e92c969217a9c417&v=4" width="24" alt="Avatar of Jeewhan"> Jeewhan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Jeewhan">Copy rank badge</a><br/>
 			Jeewhan
 		</td>
 		<td>No Company</td>
@@ -10288,7 +10290,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/pilgwon">
 				<img src="https://avatars.githubusercontent.com/u/6335605?s=72&u=47efac4dd5c14b2868717f32f91fc40701da5560&v=4" width="24" alt="Avatar of pilgwon"> pilgwon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#pilgwon">Copy rank badge</a><br/>
 			pilgwon
 		</td>
 		<td>No Company</td>
@@ -10301,7 +10303,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/mokhs00">
 				<img src="https://avatars.githubusercontent.com/u/72328687?s=72&u=89b2f77564702f509810f926e38c743d0bdbb53f&v=4" width="24" alt="Avatar of mokhs00"> mokhs00
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#mokhs00">Copy rank badge</a><br/>
 			김한수(Hansu Kim)
 		</td>
 		<td>@banksalad | @ausg @boaz-bigdata<br/></td>
@@ -10314,7 +10316,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jihoonerd">
 				<img src="https://avatars.githubusercontent.com/u/10102721?s=72&u=194b3a61778e4a9f51bc56929302a153e6cb8234&v=4" width="24" alt="Avatar of jihoonerd"> jihoonerd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jihoonerd">Copy rank badge</a><br/>
 			Jihoon Kim
 		</td>
 		<td>Cinamon Corp. </td>
@@ -10327,7 +10329,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/myungseokang">
 				<img src="https://avatars.githubusercontent.com/u/12431127?s=72&u=9bfb1616ed1bb3b9b86d9396cb718989997cdb04&v=4" width="24" alt="Avatar of myungseokang"> myungseokang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#myungseokang">Copy rank badge</a><br/>
 			강명서 (Myungseo Kang)
 		</td>
 		<td>Ably Corp., Inc. </td>
@@ -10340,7 +10342,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Clzzi">
 				<img src="https://avatars.githubusercontent.com/u/62810965?s=72&u=f28bb2c4d0f4059f7a24b49896819236adb16f2d&v=4" width="24" alt="Avatar of Clzzi"> Clzzi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Clzzi">Copy rank badge</a><br/>
 			Clzzi(Poby)
 		</td>
 		<td>@healingpaper </td>
@@ -10353,7 +10355,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ato-m-a">
 				<img src="https://avatars.githubusercontent.com/u/99224451?s=72&u=35ed652c3891387c947793af8163ac5186a3bf31&v=4" width="24" alt="Avatar of ato-m-a"> ato-m-a
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ato-m-a">Copy rank badge</a><br/>
 			Tom
 		</td>
 		<td>@toss </td>
@@ -10366,7 +10368,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/taehoonlee">
 				<img src="https://avatars.githubusercontent.com/u/4445535?s=72&u=56fc9cf038a7404f04de294e6a0b4f2871f74a6e&v=4" width="24" alt="Avatar of taehoonlee"> taehoonlee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#taehoonlee">Copy rank badge</a><br/>
 			Taehoon Lee
 		</td>
 		<td>@desilo </td>
@@ -10379,7 +10381,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Jager-yoo">
 				<img src="https://avatars.githubusercontent.com/u/71127966?s=72&u=c4707b76c13360eace22c91df51a65ce88625201&v=4" width="24" alt="Avatar of Jager-yoo"> Jager-yoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Jager-yoo">Copy rank badge</a><br/>
 			Jaeho Yoo
 		</td>
 		<td>Hyundai Motor Group </td>
@@ -10392,7 +10394,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Huffon">
 				<img src="https://avatars.githubusercontent.com/u/31345506?s=72&u=c41bdf60facd004ec6364bf718ce16f8da2b884f&v=4" width="24" alt="Avatar of Huffon"> Huffon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Huffon">Copy rank badge</a><br/>
 			devfon
 		</td>
 		<td>No Company</td>
@@ -10405,7 +10407,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/pr0gr4m">
 				<img src="https://avatars.githubusercontent.com/u/13072715?s=72&u=433fcb318d43cf1fcca8c09d22cab707b7d25f2a&v=4" width="24" alt="Avatar of pr0gr4m"> pr0gr4m
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#pr0gr4m">Copy rank badge</a><br/>
 			Kangmin Park
 		</td>
 		<td>No Company</td>
@@ -10418,7 +10420,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/orioonyx">
 				<img src="https://avatars.githubusercontent.com/u/74607521?s=72&u=8a89db23a88b9f7d62759ebd4a8cc63aa455d718&v=4" width="24" alt="Avatar of orioonyx"> orioonyx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#orioonyx">Copy rank badge</a><br/>
 			KyungEun
 		</td>
 		<td>No Company</td>
@@ -10431,7 +10433,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kimhc6028">
 				<img src="https://avatars.githubusercontent.com/u/15006217?s=72&u=e9969a477a6d2c8682de082f9bf7d87cda1b1589&v=4" width="24" alt="Avatar of kimhc6028"> kimhc6028
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kimhc6028">Copy rank badge</a><br/>
 			Kim Heecheol
 		</td>
 		<td>No Company</td>
@@ -10444,7 +10446,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/gimhanul">
 				<img src="https://avatars.githubusercontent.com/u/80656733?s=72&u=7856b06b49c6075a720c29842d27102a76d5ea52&v=4" width="24" alt="Avatar of gimhanul"> gimhanul
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#gimhanul">Copy rank badge</a><br/>
 			김한울
 		</td>
 		<td>No Company</td>
@@ -10457,7 +10459,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jihoo-kim">
 				<img src="https://avatars.githubusercontent.com/u/50820635?s=72&u=edcbca2dc52150de4e53a9b00430933d2d46a970&v=4" width="24" alt="Avatar of jihoo-kim"> jihoo-kim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jihoo-kim">Copy rank badge</a><br/>
 			Jerry
 		</td>
 		<td>Upstage </td>
@@ -10470,7 +10472,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hanjukim">
 				<img src="https://avatars.githubusercontent.com/u/1264116?s=72&u=4612613dce99ec703e6ddca4d62afddf1fc74020&v=4" width="24" alt="Avatar of hanjukim"> hanjukim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hanjukim">Copy rank badge</a><br/>
 			Paul Kim
 		</td>
 		<td>@terra-money </td>
@@ -10483,7 +10485,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Charlezz">
 				<img src="https://avatars.githubusercontent.com/u/12824365?s=72&u=414afcd2c4391aa9ac0bdcdedb0ef7337e130a7f&v=4" width="24" alt="Avatar of Charlezz"> Charlezz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Charlezz">Copy rank badge</a><br/>
 			soohwan.Ok
 		</td>
 		<td>Naver </td>
@@ -10496,7 +10498,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ejolie">
 				<img src="https://avatars.githubusercontent.com/u/31282659?s=72&u=db64ff3e70351e4767fa3ddf26da04c7866bcd13&v=4" width="24" alt="Avatar of ejolie"> ejolie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ejolie">Copy rank badge</a><br/>
 			Eunjeong Park
 		</td>
 		<td>No Company</td>
@@ -10509,7 +10511,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/YoonAh-dev">
 				<img src="https://avatars.githubusercontent.com/u/55099365?s=72&u=8ad2e100a3d2f44f32482288aec73f4d7ef0e411&v=4" width="24" alt="Avatar of YoonAh-dev"> YoonAh-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#YoonAh-dev">Copy rank badge</a><br/>
 			Yoonah Shin
 		</td>
 		<td>@toss </td>
@@ -10522,7 +10524,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/applely25">
 				<img src="https://avatars.githubusercontent.com/u/102589413?s=72&u=962fe74781650f52ad8cd6c9e134a2a04cb20c92&v=4" width="24" alt="Avatar of applely25"> applely25
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#applely25">Copy rank badge</a><br/>
 			kimgyuha
 		</td>
 		<td>No Company</td>
@@ -10535,7 +10537,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/seungchan2">
 				<img src="https://avatars.githubusercontent.com/u/80672561?s=72&u=a4b239b08f1b3034cd2f6dc45e9046574542b71a&v=4" width="24" alt="Avatar of seungchan2"> seungchan2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#seungchan2">Copy rank badge</a><br/>
 			Seungchan
 		</td>
 		<td>No Company</td>
@@ -10548,7 +10550,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/youngwoon">
 				<img src="https://avatars.githubusercontent.com/u/8296129?s=72&u=6e10b6e164b502adbe4ddd4ca54c8863a61532b9&v=4" width="24" alt="Avatar of youngwoon"> youngwoon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#youngwoon">Copy rank badge</a><br/>
 			Youngwoon Lee
 		</td>
 		<td>Yonsei University </td>
@@ -10561,7 +10563,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/heartcored98">
 				<img src="https://avatars.githubusercontent.com/u/33013451?s=72&u=5b4879a3a597ce57c3dfbaff51e8dcf025c243d8&v=4" width="24" alt="Avatar of heartcored98"> heartcored98
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#heartcored98">Copy rank badge</a><br/>
 			JaeYoung Jo
 		</td>
 		<td>Autopedia Co., Ltd </td>
@@ -10574,7 +10576,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hayeong0">
 				<img src="https://avatars.githubusercontent.com/u/47182864?s=72&u=0b769bda33840a4e882c679c0db45e9205ef8767&v=4" width="24" alt="Avatar of hayeong0"> hayeong0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hayeong0">Copy rank badge</a><br/>
 			Hayeong
 		</td>
 		<td>No Company</td>
@@ -10587,7 +10589,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/BAE-JI-WANG">
 				<img src="https://avatars.githubusercontent.com/u/59479926?s=72&u=6f7748227c9fb33cbb55351e161f80990192cbf8&v=4" width="24" alt="Avatar of BAE-JI-WANG"> BAE-JI-WANG
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#BAE-JI-WANG">Copy rank badge</a><br/>
 			BAEJIWANG
 		</td>
 		<td>Starlabs </td>
@@ -10600,7 +10602,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ruthetum">
 				<img src="https://avatars.githubusercontent.com/u/59307414?s=72&u=7cef72588c7c9ded4f1f2c89467f22a560f59c36&v=4" width="24" alt="Avatar of ruthetum"> ruthetum
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ruthetum">Copy rank badge</a><br/>
 			wilump
 		</td>
 		<td>@dunamu </td>
@@ -10613,7 +10615,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kimdaehee0824">
 				<img src="https://avatars.githubusercontent.com/u/68860610?s=72&u=692f2a9c9855db45e7676ba2c9a074ff78d4795a&v=4" width="24" alt="Avatar of kimdaehee0824"> kimdaehee0824
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kimdaehee0824">Copy rank badge</a><br/>
 			Daehee Kim
 		</td>
 		<td>@cashwalk </td>
@@ -10626,7 +10628,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jiseok419">
 				<img src="https://avatars.githubusercontent.com/u/104004650?s=72&u=19233ada9ac72b4c1ff2849e7fae01941f891eee&v=4" width="24" alt="Avatar of jiseok419"> jiseok419
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jiseok419">Copy rank badge</a><br/>
 			강지석
 		</td>
 		<td>Stand-by Lab </td>
@@ -10639,7 +10641,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/samslow">
 				<img src="https://avatars.githubusercontent.com/u/26738367?s=72&u=597ba0f6fad3932d86a48a5c1f6a5393f0497447&v=4" width="24" alt="Avatar of samslow"> samslow
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#samslow">Copy rank badge</a><br/>
 			서현석
 		</td>
 		<td>@next-securities  </td>
@@ -10652,7 +10654,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/dochoi-bot">
 				<img src="https://avatars.githubusercontent.com/u/54564170?s=72&u=2b67406193680b6605fd67869171f9e7a45cec81&v=4" width="24" alt="Avatar of dochoi-bot"> dochoi-bot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#dochoi-bot">Copy rank badge</a><br/>
 			dochoi
 		</td>
 		<td>Line+ </td>
@@ -10665,7 +10667,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/adunStudio">
 				<img src="https://avatars.githubusercontent.com/u/20084289?s=72&u=08a262d3d3b324b504fed47db8b4b1fa7cffcaf5&v=4" width="24" alt="Avatar of adunStudio"> adunStudio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#adunStudio">Copy rank badge</a><br/>
 			GodHongIl
 		</td>
 		<td>Lumena </td>
@@ -10678,7 +10680,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/paranlee">
 				<img src="https://avatars.githubusercontent.com/u/43713967?s=72&u=1762db0e3aa8c4b79e7c9a5a8b7d750ba1b0e146&v=4" width="24" alt="Avatar of paranlee"> paranlee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#paranlee">Copy rank badge</a><br/>
 			Paran Lee
 		</td>
 		<td>Ericsson Lg </td>
@@ -10691,7 +10693,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/peyo-hd">
 				<img src="https://avatars.githubusercontent.com/u/11039841?s=72&u=7783a739639d6477f3ff7771b1b366cd3bcbdbaa&v=4" width="24" alt="Avatar of peyo-hd"> peyo-hd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#peyo-hd">Copy rank badge</a><br/>
 			Peter Yoon
 		</td>
 		<td>No Company</td>
@@ -10704,7 +10706,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/wbluke">
 				<img src="https://avatars.githubusercontent.com/u/44018338?s=72&u=36151437ce678b1b30c0313116e66fe06f67c710&v=4" width="24" alt="Avatar of wbluke"> wbluke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#wbluke">Copy rank badge</a><br/>
 			박우빈 (Park WooBean)
 		</td>
 		<td>캐치테이블 </td>
@@ -10717,7 +10719,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Baekjoon">
 				<img src="https://avatars.githubusercontent.com/u/706317?s=72&v=4" width="24" alt="Avatar of Baekjoon"> Baekjoon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Baekjoon">Copy rank badge</a><br/>
 			Baekjoon Choi
 		</td>
 		<td>Startlink </td>
@@ -10730,7 +10732,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jiyeonseo">
 				<img src="https://avatars.githubusercontent.com/u/2231510?s=72&u=e71a6c444d85b615d8da0bb73e22361b60ab268f&v=4" width="24" alt="Avatar of jiyeonseo"> jiyeonseo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jiyeonseo">Copy rank badge</a><br/>
 			Cheese 
 		</td>
 		<td>No Company</td>
@@ -10743,7 +10745,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Ken123777">
 				<img src="https://avatars.githubusercontent.com/u/3277615?s=72&u=737f13c81f522495ff6ff319b3c7795a1f79a23a&v=4" width="24" alt="Avatar of Ken123777"> Ken123777
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Ken123777">Copy rank badge</a><br/>
 			Ken Huh
 		</td>
 		<td>Pi Lab </td>
@@ -10756,7 +10758,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/gimdongwoo">
 				<img src="https://avatars.githubusercontent.com/u/7310854?s=72&u=f01e6058046b1fdd16221b3a530246dd47352142&v=4" width="24" alt="Avatar of gimdongwoo"> gimdongwoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#gimdongwoo">Copy rank badge</a><br/>
 			gimdongwoo
 		</td>
 		<td>No Company</td>
@@ -10769,7 +10771,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sihyun-yu">
 				<img src="https://avatars.githubusercontent.com/u/41201275?s=72&u=75a5dab1083ac663492d780852bcb2d6e2b862f3&v=4" width="24" alt="Avatar of sihyun-yu"> sihyun-yu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sihyun-yu">Copy rank badge</a><br/>
 			Sihyun Yu
 		</td>
 		<td>Kaist </td>
@@ -10782,7 +10784,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/wnduqrla">
 				<img src="https://avatars.githubusercontent.com/u/49600974?s=72&u=dfc350244c0aa8280fd8c308fef4080fc3dae17b&v=4" width="24" alt="Avatar of wnduqrla"> wnduqrla
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#wnduqrla">Copy rank badge</a><br/>
 			김주엽
 		</td>
 		<td>No Company</td>
@@ -10795,7 +10797,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/sang-w0o">
 				<img src="https://avatars.githubusercontent.com/u/48438083?s=72&u=b305df380319c973e018efa7cbc8a81616223035&v=4" width="24" alt="Avatar of sang-w0o"> sang-w0o
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#sang-w0o">Copy rank badge</a><br/>
 			나상우(Roy)
 		</td>
 		<td>@tossbank </td>
@@ -10808,7 +10810,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/lexifdev">
 				<img src="https://avatars.githubusercontent.com/u/721157?s=72&v=4" width="24" alt="Avatar of lexifdev"> lexifdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#lexifdev">Copy rank badge</a><br/>
 			sl kim
 		</td>
 		<td>Nez </td>
@@ -10821,7 +10823,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/insanehong">
 				<img src="https://avatars.githubusercontent.com/u/1558742?s=72&v=4" width="24" alt="Avatar of insanehong"> insanehong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#insanehong">Copy rank badge</a><br/>
 			DeokHong Kim (a.k.a insanehong) 
 		</td>
 		<td>Naver Corp. </td>
@@ -10834,7 +10836,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Jeontaeyun">
 				<img src="https://avatars.githubusercontent.com/u/34877121?s=72&u=5a809f868279b522c0488bdb359a7cf9cf184702&v=4" width="24" alt="Avatar of Jeontaeyun"> Jeontaeyun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Jeontaeyun">Copy rank badge</a><br/>
 			Stark
 		</td>
 		<td>@connect-dot  </td>
@@ -10847,7 +10849,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ivaaaaann">
 				<img src="https://avatars.githubusercontent.com/u/79711744?s=72&u=8b6e45c5a09c0d411c8212d6a8eab66e856fb8e4&v=4" width="24" alt="Avatar of ivaaaaann"> ivaaaaann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ivaaaaann">Copy rank badge</a><br/>
 			임동현(Ivan)
 		</td>
 		<td>@quotabook </td>
@@ -10860,7 +10862,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kawoou">
 				<img src="https://avatars.githubusercontent.com/u/1403026?s=72&u=7c01e54f729144a958f51996156591c67b132ca2&v=4" width="24" alt="Avatar of kawoou"> kawoou
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kawoou">Copy rank badge</a><br/>
 			Jungwon An
 		</td>
 		<td>@toss </td>
@@ -10873,7 +10875,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/howdy-mj">
 				<img src="https://avatars.githubusercontent.com/u/58619071?s=72&u=d7f4b38f9fbb416b367d0bda029733171e1cf3c9&v=4" width="24" alt="Avatar of howdy-mj"> howdy-mj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#howdy-mj">Copy rank badge</a><br/>
 			MJ Kim
 		</td>
 		<td>No Company</td>
@@ -10886,7 +10888,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/haeseoklee">
 				<img src="https://avatars.githubusercontent.com/u/20268101?s=72&u=5782d45f0afa06cccba4950684086bef75b92ce0&v=4" width="24" alt="Avatar of haeseoklee"> haeseoklee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#haeseoklee">Copy rank badge</a><br/>
 			Haeseok Lee
 		</td>
 		<td>@kakaobank </td>
@@ -10899,7 +10901,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Hyo-Seong">
 				<img src="https://avatars.githubusercontent.com/u/30197829?s=72&u=6c42ab087f99a0dfd22bef3cb47f27173aa5587d&v=4" width="24" alt="Avatar of Hyo-Seong"> Hyo-Seong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Hyo-Seong">Copy rank badge</a><br/>
 			Max (HyoSeong) Lee
 		</td>
 		<td>@clovirtualfashion </td>
@@ -10912,7 +10914,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/Hansangjin98">
 				<img src="https://avatars.githubusercontent.com/u/70688424?s=72&u=72a3bc097f09291f25774d58dda3288675d485e8&v=4" width="24" alt="Avatar of Hansangjin98"> Hansangjin98
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#Hansangjin98">Copy rank badge</a><br/>
 			SangJin
 		</td>
 		<td>@nhn </td>
@@ -10925,7 +10927,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/gabrielyoon7">
 				<img src="https://avatars.githubusercontent.com/u/69189073?s=72&u=81a6197260c99142fb8f8d4404565f941de51e09&v=4" width="24" alt="Avatar of gabrielyoon7"> gabrielyoon7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#gabrielyoon7">Copy rank badge</a><br/>
 			Ju Hyun, Yoon
 		</td>
 		<td>@tossbank </td>
@@ -10938,7 +10940,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hoya012">
 				<img src="https://avatars.githubusercontent.com/u/37167578?s=72&u=a0c1918d72672a5a8bac4d454c90c410b5ba80d2&v=4" width="24" alt="Avatar of hoya012"> hoya012
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hoya012">Copy rank badge</a><br/>
 			Hoseong Lee
 		</td>
 		<td>Cognex Deep Learning Lab<br/></td>
@@ -10951,7 +10953,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/techhtml">
 				<img src="https://avatars.githubusercontent.com/u/6267393?s=72&u=340f1e8ec6952f1e230d5b785e2287a323930f55&v=4" width="24" alt="Avatar of techhtml"> techhtml
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#techhtml">Copy rank badge</a><br/>
 			John Cho
 		</td>
 		<td>No Company</td>
@@ -10964,7 +10966,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/DSKSD">
 				<img src="https://avatars.githubusercontent.com/u/18030414?s=72&u=5f1349807444a8b81a258df87acd7f4c3912ab77&v=4" width="24" alt="Avatar of DSKSD"> DSKSD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#DSKSD">Copy rank badge</a><br/>
 			Sungdong Kim
 		</td>
 		<td>No Company</td>
@@ -10977,7 +10979,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/tchoi8">
 				<img src="https://avatars.githubusercontent.com/u/683107?s=72&u=3adf21ad9b1d71d29543998c0ef265b2f21b1fc5&v=4" width="24" alt="Avatar of tchoi8"> tchoi8
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#tchoi8">Copy rank badge</a><br/>
 			Taeyoon Choi
 		</td>
 		<td>No Company</td>
@@ -10990,7 +10992,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/madvirus">
 				<img src="https://avatars.githubusercontent.com/u/538349?s=72&v=4" width="24" alt="Avatar of madvirus"> madvirus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#madvirus">Copy rank badge</a><br/>
 			madvirus
 		</td>
 		<td>No Company</td>
@@ -11003,7 +11005,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/WooVictory">
 				<img src="https://avatars.githubusercontent.com/u/33534771?s=72&u=39494abd38d7c78209e795a6a5f4989bcac5435e&v=4" width="24" alt="Avatar of WooVictory"> WooVictory
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#WooVictory">Copy rank badge</a><br/>
 			이승우(Seungwoo Lee)
 		</td>
 		<td>@musinsa </td>
@@ -11016,7 +11018,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/gaussian37">
 				<img src="https://avatars.githubusercontent.com/u/29148551?s=72&u=ea6353b7a1c8d031b6994adb08d888bc8f815d52&v=4" width="24" alt="Avatar of gaussian37"> gaussian37
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#gaussian37">Copy rank badge</a><br/>
 			JINSOL KIM
 		</td>
 		<td>Hyundai Motors </td>
@@ -11029,7 +11031,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/GunhoChoi">
 				<img src="https://avatars.githubusercontent.com/u/17610397?s=72&u=aaa5fa83999704d700a42bf0fe2db6313f7f37b5&v=4" width="24" alt="Avatar of GunhoChoi"> GunhoChoi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#GunhoChoi">Copy rank badge</a><br/>
 			Choi Gunho
 		</td>
 		<td>No Company</td>
@@ -11042,7 +11044,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/LeeOhHyung">
 				<img src="https://avatars.githubusercontent.com/u/37705123?s=72&v=4" width="24" alt="Avatar of LeeOhHyung"> LeeOhHyung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#LeeOhHyung">Copy rank badge</a><br/>
 			이오형
 		</td>
 		<td>No Company</td>
@@ -11055,7 +11057,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/YoungriKIM">
 				<img src="https://avatars.githubusercontent.com/u/76423415?s=72&u=0a346c759a89ff9a1d6be3d85ee66d7d87b1d255&v=4" width="24" alt="Avatar of YoungriKIM"> YoungriKIM
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#YoungriKIM">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -11068,7 +11070,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jaejun-yoo">
 				<img src="https://avatars.githubusercontent.com/u/14287883?s=72&u=85842a0f7e5a10b79a268b9d165fb28f897804b3&v=4" width="24" alt="Avatar of jaejun-yoo"> jaejun-yoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jaejun-yoo">Copy rank badge</a><br/>
 			Jaejun Yoo
 		</td>
 		<td>Lait, Unist </td>
@@ -11081,7 +11083,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/archsyscall">
 				<img src="https://avatars.githubusercontent.com/u/39186433?s=72&u=da21cb245c418317ed78a46ea7c19d64590658d2&v=4" width="24" alt="Avatar of archsyscall"> archsyscall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#archsyscall">Copy rank badge</a><br/>
 			Wansoo Kim
 		</td>
 		<td>@rebellions-sw </td>
@@ -11094,7 +11096,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/channy">
 				<img src="https://avatars.githubusercontent.com/u/45874?s=72&v=4" width="24" alt="Avatar of channy"> channy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#channy">Copy rank badge</a><br/>
 			Channy Yun
 		</td>
 		<td>Aws, Daum, Mozilla, Nine4u<br/></td>
@@ -11107,7 +11109,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/hyesuuou">
 				<img src="https://avatars.githubusercontent.com/u/68391767?s=72&u=71a8a82b9a0a3adee2a6c060f242bb1e4d9b82b8&v=4" width="24" alt="Avatar of hyesuuou"> hyesuuou
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#hyesuuou">Copy rank badge</a><br/>
 			hyesu kim
 		</td>
 		<td>Kakaobank </td>
@@ -11120,7 +11122,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/swimjiy">
 				<img src="https://avatars.githubusercontent.com/u/38487811?s=72&u=5acd302c1f34df9874b962d1cdf638ad9125e34f&v=4" width="24" alt="Avatar of swimjiy"> swimjiy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#swimjiy">Copy rank badge</a><br/>
 			Jiyoung Lim
 		</td>
 		<td>Krafton </td>
@@ -11133,7 +11135,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jayhxmo">
 				<img src="https://avatars.githubusercontent.com/u/14072008?s=72&u=f562916adfa8127999ac3cabe58303b18653c42a&v=4" width="24" alt="Avatar of jayhxmo"> jayhxmo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jayhxmo">Copy rank badge</a><br/>
 			Jay Mo
 		</td>
 		<td>Love & Fury </td>
@@ -11146,7 +11148,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/delmaSong">
 				<img src="https://avatars.githubusercontent.com/u/40784518?s=72&u=7b0784c661ac53fbf39f49eb1451cc374df09616&v=4" width="24" alt="Avatar of delmaSong"> delmaSong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#delmaSong">Copy rank badge</a><br/>
 			송다영(Delma Song)
 		</td>
 		<td>@musinsa </td>
@@ -11159,7 +11161,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/seohyun0120">
 				<img src="https://avatars.githubusercontent.com/u/35247295?s=72&u=83d6ad442f20d9e98d016f86a975aecd2b95980a&v=4" width="24" alt="Avatar of seohyun0120"> seohyun0120
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#seohyun0120">Copy rank badge</a><br/>
 			Seohyun Yoon
 		</td>
 		<td>@electronicarts </td>
@@ -11172,7 +11174,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/pjc0247">
 				<img src="https://avatars.githubusercontent.com/u/1961216?s=72&u=0b5d1937e405df1e0cbd6cadef8003d0f451fb23&v=4" width="24" alt="Avatar of pjc0247"> pjc0247
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#pjc0247">Copy rank badge</a><br/>
 			Park June Chul
 		</td>
 		<td>Doyu </td>
@@ -11185,7 +11187,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/codingbowoo">
 				<img src="https://avatars.githubusercontent.com/u/11171902?s=72&u=a6d203298c0d7ee4d42a121b34b12e1cb9401c09&v=4" width="24" alt="Avatar of codingbowoo"> codingbowoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#codingbowoo">Copy rank badge</a><br/>
 			장보우 Bowoo Jang
 		</td>
 		<td>Idk Squared Inc. </td>
@@ -11198,7 +11200,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/zoomkoding">
 				<img src="https://avatars.githubusercontent.com/u/36878344?s=72&u=e2533775be66aba83d8cace62799f40d95ea00f4&v=4" width="24" alt="Avatar of zoomkoding"> zoomkoding
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#zoomkoding">Copy rank badge</a><br/>
 			Jinhyeok Jeong
 		</td>
 		<td>No Company</td>
@@ -11211,7 +11213,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/KimMachineGun">
 				<img src="https://avatars.githubusercontent.com/u/20117947?s=72&u=b9d76c50dd26cbe85926d5034e0ba176ab11665e&v=4" width="24" alt="Avatar of KimMachineGun"> KimMachineGun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#KimMachineGun">Copy rank badge</a><br/>
 			Geon Kim
 		</td>
 		<td>No Company</td>
@@ -11224,7 +11226,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/thepenielcho">
 				<img src="https://avatars.githubusercontent.com/u/60251602?s=72&u=60ae4715720ac53e285a28d79af97fdeee41a3ec&v=4" width="24" alt="Avatar of thepenielcho"> thepenielcho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#thepenielcho">Copy rank badge</a><br/>
 			Peniel Yongjoo Cho
 		</td>
 		<td>Siemens </td>
@@ -11237,7 +11239,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/dev-Lena">
 				<img src="https://avatars.githubusercontent.com/u/52783516?s=72&u=f7d42188e3be250c5b335591674dd4ac949b6ed9&v=4" width="24" alt="Avatar of dev-Lena"> dev-Lena
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#dev-Lena">Copy rank badge</a><br/>
 			Keunna Lee
 		</td>
 		<td>No Company</td>
@@ -11250,7 +11252,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/yechoi42">
 				<img src="https://avatars.githubusercontent.com/u/61399588?s=72&u=b60829d7b81d6fb39523d26cf1505258738e0e28&v=4" width="24" alt="Avatar of yechoi42"> yechoi42
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#yechoi42">Copy rank badge</a><br/>
 			Yeji Choi
 		</td>
 		<td>Line+ </td>
@@ -11263,7 +11265,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ninthsun91">
 				<img src="https://avatars.githubusercontent.com/u/50778955?s=72&u=fa45ff542f48403f5557c34ab7986f3da9aff663&v=4" width="24" alt="Avatar of ninthsun91"> ninthsun91
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ninthsun91">Copy rank badge</a><br/>
 			Sewook Kim
 		</td>
 		<td>No Company</td>
@@ -11276,7 +11278,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/pje1740">
 				<img src="https://avatars.githubusercontent.com/u/38778829?s=72&u=b9d7ced3cf846e638611b0547342891d98b52781&v=4" width="24" alt="Avatar of pje1740"> pje1740
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#pje1740">Copy rank badge</a><br/>
 			SoHyun Park
 		</td>
 		<td>No Company</td>
@@ -11289,7 +11291,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/bakyeono">
 				<img src="https://avatars.githubusercontent.com/u/2022454?s=72&u=806e4ca70619c4f61741b8aeb990045dde746093&v=4" width="24" alt="Avatar of bakyeono"> bakyeono
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#bakyeono">Copy rank badge</a><br/>
 			Yeono Park 박연오
 		</td>
 		<td>@green-labs </td>
@@ -11302,7 +11304,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/parkikbum">
 				<img src="https://avatars.githubusercontent.com/u/73978827?s=72&u=1046bbef55cf42bddc5f6a0d0a25a359186d9652&v=4" width="24" alt="Avatar of parkikbum"> parkikbum
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#parkikbum">Copy rank badge</a><br/>
 			swikkft
 		</td>
 		<td>@askitmore </td>
@@ -11315,7 +11317,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jpham005">
 				<img src="https://avatars.githubusercontent.com/u/76723089?s=72&u=dd8d77701bc4de768ec78aae2a8a99913b8e1710&v=4" width="24" alt="Avatar of jpham005"> jpham005
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jpham005">Copy rank badge</a><br/>
 			jaham
 		</td>
 		<td>No Company</td>
@@ -11328,7 +11330,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/buddman1208">
 				<img src="https://avatars.githubusercontent.com/u/9213292?s=72&u=62fb32a125c56f7c61b84da8c680cd9c2ff796da&v=4" width="24" alt="Avatar of buddman1208"> buddman1208
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#buddman1208">Copy rank badge</a><br/>
 			Darren
 		</td>
 		<td>No Company</td>
@@ -11341,7 +11343,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/kingyong9169">
 				<img src="https://avatars.githubusercontent.com/u/62797441?s=72&v=4" width="24" alt="Avatar of kingyong9169"> kingyong9169
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#kingyong9169">Copy rank badge</a><br/>
 			김동용
 		</td>
 		<td>@tossinvest </td>
@@ -11354,7 +11356,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/ChoiSangwon">
 				<img src="https://avatars.githubusercontent.com/u/21211957?s=72&u=6c54bcf91fb4578f4c66ff18cc5111754027f48e&v=4" width="24" alt="Avatar of ChoiSangwon"> ChoiSangwon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#ChoiSangwon">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Lg Electronics </td>
@@ -11367,7 +11369,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/bckim92">
 				<img src="https://avatars.githubusercontent.com/u/6949363?s=72&u=9264503885c82c0fdf37a5a11b19c6f2ae115034&v=4" width="24" alt="Avatar of bckim92"> bckim92
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#bckim92">Copy rank badge</a><br/>
 			Byeongchang Kim (ben.kim)
 		</td>
 		<td>Karrot (@daangn) </td>
@@ -11380,7 +11382,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/presto95">
 				<img src="https://avatars.githubusercontent.com/u/29768423?s=72&u=edee96d4e9e21806f575053024f526698761f1b7&v=4" width="24" alt="Avatar of presto95"> presto95
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#presto95">Copy rank badge</a><br/>
 			Hangyeol Lee
 		</td>
 		<td>Coupang Corp. </td>
@@ -11393,7 +11395,7 @@ There are `981 users`  in South Korea. You need at least `118 followers` to be o
 		<td>
 			<a href="https://github.com/jihoonl">
 				<img src="https://avatars.githubusercontent.com/u/1556736?s=72&v=4" width="24" alt="Avatar of jihoonl"> jihoonl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/south_korea.md#jihoonl">Copy rank badge</a><br/>
 			Jihoon Lee
 		</td>
 		<td>No Company</td>
