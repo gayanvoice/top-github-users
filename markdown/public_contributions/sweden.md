@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" alt="Sweden">
 </a>
 
-The `public contributions` by users in Sweden on `2026/7/3 2:39 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
+The `public contributions` by users in Sweden on `2026/11/4 4:40 AM UTC`. This list contains users from `Sweden` and cities `Stockholm` `Gothenburg` `Uppsala` `Helsingborg`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `919 users`  in Sweden. You need at least `101 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [Sweden GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -109,7 +111,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/pethers">
 				<img src="https://avatars.githubusercontent.com/u/1726836?s=72&u=defaa14ad1bac3ee623c1b5dcbae76e28e3af9d5&v=4" width="24" alt="Avatar of pethers"> pethers
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#pethers">Copy rank badge</a><br/>
 			James Pether Sörling
 		</td>
 		<td>Hack23 </td>
@@ -122,7 +124,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/rogeralsing">
 				<img src="https://avatars.githubusercontent.com/u/647031?s=72&u=b1f23add79eda7794d22fa69acf3562c6ae8dbd9&v=4" width="24" alt="Avatar of rogeralsing"> rogeralsing
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#rogeralsing">Copy rank badge</a><br/>
 			Roger Johansson
 		</td>
 		<td>Asynkron Ab </td>
@@ -135,7 +137,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jolars">
 				<img src="https://avatars.githubusercontent.com/u/13087841?s=72&u=4caa7b4e1981c39716f688bcba3bd1635079850b&v=4" width="24" alt="Avatar of jolars"> jolars
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jolars">Copy rank badge</a><br/>
 			Johan Larsson
 		</td>
 		<td>University Of Copenhagen </td>
@@ -148,7 +150,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/marinasundstrom">
 				<img src="https://avatars.githubusercontent.com/u/919580?s=72&u=13f506cde0e5858ccbd036ddf5ea7f596b3862bc&v=4" width="24" alt="Avatar of marinasundstrom"> marinasundstrom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#marinasundstrom">Copy rank badge</a><br/>
 			Marina Sundström
 		</td>
 		<td>No Company</td>
@@ -161,7 +163,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/devlead">
 				<img src="https://avatars.githubusercontent.com/u/1647294?s=72&u=aa1987685d817802829596761fcca3996238b7b4&v=4" width="24" alt="Avatar of devlead"> devlead
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#devlead">Copy rank badge</a><br/>
 			Mattias Karlsson
 		</td>
 		<td>@wcomab </td>
@@ -174,7 +176,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/philpax">
 				<img src="https://avatars.githubusercontent.com/u/707827?s=72&u=099bc9db5cc0304b118a081ac6e05246fbf612df&v=4" width="24" alt="Avatar of philpax"> philpax
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#philpax">Copy rank badge</a><br/>
 			Philpax
 		</td>
 		<td>Overworld </td>
@@ -187,7 +189,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/richelbilderbeek">
 				<img src="https://avatars.githubusercontent.com/u/2098230?s=72&u=eb0321e52ef07f95057edef9a69350878b4e7a0d&v=4" width="24" alt="Avatar of richelbilderbeek"> richelbilderbeek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#richelbilderbeek">Copy rank badge</a><br/>
 			Richèl Bilderbeek
 		</td>
 		<td>Nbis </td>
@@ -200,7 +202,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/PEZ">
 				<img src="https://avatars.githubusercontent.com/u/30010?s=72&u=67937494b85688779a3a09ebfe5770ab9fac0981&v=4" width="24" alt="Avatar of PEZ"> PEZ
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#PEZ">Copy rank badge</a><br/>
 			Peter Strömberg
 		</td>
 		<td>@betterthantomorrow  </td>
@@ -213,7 +215,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/onmax">
 				<img src="https://avatars.githubusercontent.com/u/22072217?s=72&u=5cd9a530f8cd1669cff4f085b71096f3372b6e1e&v=4" width="24" alt="Avatar of onmax"> onmax
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#onmax">Copy rank badge</a><br/>
 			Max
 		</td>
 		<td>@nimiq </td>
@@ -226,7 +228,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/wajahat-ali-mir-dev">
 				<img src="https://avatars.githubusercontent.com/u/156110102?s=72&u=c407c0684339b08ac2d9c5bc14cd4bc8658c1ec6&v=4" width="24" alt="Avatar of wajahat-ali-mir-dev"> wajahat-ali-mir-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#wajahat-ali-mir-dev">Copy rank badge</a><br/>
 			Wajahat Ali Mir
 		</td>
 		<td>Wajahat Ali Mir Solutions<br/><br/></td>
@@ -239,7 +241,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/zmstone">
 				<img src="https://avatars.githubusercontent.com/u/164324?s=72&u=33b0667584f473505e536a6907c47bd76e9b47b5&v=4" width="24" alt="Avatar of zmstone"> zmstone
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#zmstone">Copy rank badge</a><br/>
 			zmstone
 		</td>
 		<td>Emq Technologies </td>
@@ -252,7 +254,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/robinwhittleton">
 				<img src="https://avatars.githubusercontent.com/u/7414?s=72&u=1f49bb40c37268713f4e0ec585311750cff662e1&v=4" width="24" alt="Avatar of robinwhittleton"> robinwhittleton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#robinwhittleton">Copy rank badge</a><br/>
 			Robin Whittleton
 		</td>
 		<td>@ikea </td>
@@ -265,7 +267,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/bagder">
 				<img src="https://avatars.githubusercontent.com/u/177011?s=72&u=3993f58d9d45601d48a85a755c1c89548bf44c16&v=4" width="24" alt="Avatar of bagder"> bagder
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#bagder">Copy rank badge</a><br/>
 			Daniel Stenberg
 		</td>
 		<td>@wolfssl  </td>
@@ -278,7 +280,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/MartinHjelmare">
 				<img src="https://avatars.githubusercontent.com/u/3181692?s=72&v=4" width="24" alt="Avatar of MartinHjelmare"> MartinHjelmare
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#MartinHjelmare">Copy rank badge</a><br/>
 			Martin Hjelmare
 		</td>
 		<td>No Company</td>
@@ -291,7 +293,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/andreasronge">
 				<img src="https://avatars.githubusercontent.com/u/6504?s=72&v=4" width="24" alt="Avatar of andreasronge"> andreasronge
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#andreasronge">Copy rank badge</a><br/>
 			Andreas Ronge
 		</td>
 		<td>Devoteam </td>
@@ -304,7 +306,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/emilk">
 				<img src="https://avatars.githubusercontent.com/u/1148717?s=72&u=1ad444882def5ad4bd70cdb8f5da252bb6d03e39&v=4" width="24" alt="Avatar of emilk"> emilk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#emilk">Copy rank badge</a><br/>
 			Emil Ernerfeldt
 		</td>
 		<td>Rerun.io, Egui </td>
@@ -317,7 +319,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Rugvip">
 				<img src="https://avatars.githubusercontent.com/u/4984472?s=72&u=bdc4deaabe86263582b43eeb65c2cae743d80e27&v=4" width="24" alt="Avatar of Rugvip"> Rugvip
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Rugvip">Copy rank badge</a><br/>
 			Patrik Oldsberg
 		</td>
 		<td>@spotify </td>
@@ -330,7 +332,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/konstruktoid">
 				<img src="https://avatars.githubusercontent.com/u/7956715?s=72&u=47a93702fb85c99d8e2089f2e33f6a101ba09558&v=4" width="24" alt="Avatar of konstruktoid"> konstruktoid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#konstruktoid">Copy rank badge</a><br/>
 			Thomas Sjögren
 		</td>
 		<td>No Company</td>
@@ -343,7 +345,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/maxulysse">
 				<img src="https://avatars.githubusercontent.com/u/1019628?s=72&u=16d5752b268ed2a474547b0a2fbf88a7786da70f&v=4" width="24" alt="Avatar of maxulysse"> maxulysse
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#maxulysse">Copy rank badge</a><br/>
 			Maxime U Garcia
 		</td>
 		<td>No Company</td>
@@ -356,7 +358,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Tobbe">
 				<img src="https://avatars.githubusercontent.com/u/30793?s=72&u=909f3d01c0fcd56c6c6a9bb76aa364cc52079511&v=4" width="24" alt="Avatar of Tobbe"> Tobbe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Tobbe">Copy rank badge</a><br/>
 			Tobbe Lundberg
 		</td>
 		<td>Cedarjs </td>
@@ -369,7 +371,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/freben">
 				<img src="https://avatars.githubusercontent.com/u/3097461?s=72&u=c906d041ecf5f6289d1e0a825b9d6f7d26bdabdd&v=4" width="24" alt="Avatar of freben"> freben
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#freben">Copy rank badge</a><br/>
 			Fredrik Adelöw
 		</td>
 		<td>@spotify </td>
@@ -382,7 +384,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/eerimoq">
 				<img src="https://avatars.githubusercontent.com/u/176810?s=72&u=6f822489fdf7ee33f87f0d42334a72bd2fe5eacd&v=4" width="24" alt="Avatar of eerimoq"> eerimoq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#eerimoq">Copy rank badge</a><br/>
 			Erik Moqvist
 		</td>
 		<td>No Company</td>
@@ -395,7 +397,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/vadi2">
 				<img src="https://avatars.githubusercontent.com/u/110988?s=72&u=265045c2c3293282b914f8de2c21dd71fd0534f9&v=4" width="24" alt="Avatar of vadi2"> vadi2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#vadi2">Copy rank badge</a><br/>
 			Vadim Peretokin
 		</td>
 		<td>Peretokin Consulting </td>
@@ -408,7 +410,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ewels">
 				<img src="https://avatars.githubusercontent.com/u/465550?s=72&u=c73b4d925637f236dfb26628f97f2b88191255eb&v=4" width="24" alt="Avatar of ewels"> ewels
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ewels">Copy rank badge</a><br/>
 			Phil Ewels
 		</td>
 		<td>@seqeralabs </td>
@@ -421,7 +423,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/hrydgard">
 				<img src="https://avatars.githubusercontent.com/u/130929?s=72&u=3f6a75a1ef554e8faac09efa30c4d8f0c826a231&v=4" width="24" alt="Avatar of hrydgard"> hrydgard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#hrydgard">Copy rank badge</a><br/>
 			Henrik Rydgård
 		</td>
 		<td>No Company</td>
@@ -434,7 +436,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/fredrikaverpil">
 				<img src="https://avatars.githubusercontent.com/u/994357?s=72&u=0eed882b2da0e87c2c749c9292d2d21b985b8b4c&v=4" width="24" alt="Avatar of fredrikaverpil"> fredrikaverpil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#fredrikaverpil">Copy rank badge</a><br/>
 			Fredrik Averpil
 		</td>
 		<td>@einride </td>
@@ -447,7 +449,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/midwan">
 				<img src="https://avatars.githubusercontent.com/u/3877365?s=72&u=da52c8fc62ddc7143b0ddf4dd40528a75d38b40c&v=4" width="24" alt="Avatar of midwan"> midwan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#midwan">Copy rank badge</a><br/>
 			Dimitris Panokostas
 		</td>
 		<td>No Company</td>
@@ -460,7 +462,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/YaelDillies">
 				<img src="https://avatars.githubusercontent.com/u/14090593?s=72&u=61c585aaa59bb9d7385ea7120d54e85bae68d065&v=4" width="24" alt="Avatar of YaelDillies"> YaelDillies
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#YaelDillies">Copy rank badge</a><br/>
 			Yaël Dillies
 		</td>
 		<td>Stockholm Universitet </td>
@@ -473,7 +475,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kushaldas">
 				<img src="https://avatars.githubusercontent.com/u/272303?s=72&u=392b46c2a0102df453221ef8ce6ab5d8374f1ee9&v=4" width="24" alt="Avatar of kushaldas"> kushaldas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kushaldas">Copy rank badge</a><br/>
 			Kushal Das
 		</td>
 		<td>@sunet </td>
@@ -486,7 +488,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/juliusmarminge">
 				<img src="https://avatars.githubusercontent.com/u/51714798?s=72&u=7010559c831ddae241a5c1ace13e5a78048f9219&v=4" width="24" alt="Avatar of juliusmarminge"> juliusmarminge
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#juliusmarminge">Copy rank badge</a><br/>
 			Julius Marminge
 		</td>
 		<td>No Company</td>
@@ -499,7 +501,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/PierreGode">
 				<img src="https://avatars.githubusercontent.com/u/8579922?s=72&u=c67d06f1ac3e0362020de9a05584ac8d5597ad5e&v=4" width="24" alt="Avatar of PierreGode"> PierreGode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#PierreGode">Copy rank badge</a><br/>
 			PierreGode
 		</td>
 		<td>No Company</td>
@@ -512,7 +514,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/foolip">
 				<img src="https://avatars.githubusercontent.com/u/498917?s=72&u=168bc3756bda2c1e4962b687bed0c85f18902638&v=4" width="24" alt="Avatar of foolip"> foolip
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#foolip">Copy rank badge</a><br/>
 			Philip Jägenstedt
 		</td>
 		<td>Google </td>
@@ -525,7 +527,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/awesomekling">
 				<img src="https://avatars.githubusercontent.com/u/5954907?s=72&u=9d67d26e5a088f31ffff42f60d8d70a6b61c4942&v=4" width="24" alt="Avatar of awesomekling"> awesomekling
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#awesomekling">Copy rank badge</a><br/>
 			Andreas Kling
 		</td>
 		<td>@ladybirdbrowser </td>
@@ -538,7 +540,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/neongreen">
 				<img src="https://avatars.githubusercontent.com/u/1523306?s=72&u=5f293a31f737a8c26614dc8e42af9a09e54fcb47&v=4" width="24" alt="Avatar of neongreen"> neongreen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#neongreen">Copy rank badge</a><br/>
 			Emily
 		</td>
 		<td>@monadfix, @brickdo </td>
@@ -551,7 +553,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/scazan">
 				<img src="https://avatars.githubusercontent.com/u/1750321?s=72&u=8fe5afc22a1ff7676390a72bea2e2899dd6c51a0&v=4" width="24" alt="Avatar of scazan"> scazan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#scazan">Copy rank badge</a><br/>
 			Scott Cazan
 		</td>
 		<td>Engineer In Arts And<br/>Social<br/>Impact<br/></td>
@@ -564,7 +566,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ogenstad">
 				<img src="https://avatars.githubusercontent.com/u/6694669?s=72&v=4" width="24" alt="Avatar of ogenstad"> ogenstad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ogenstad">Copy rank badge</a><br/>
 			Patrick Ogenstad
 		</td>
 		<td>No Company</td>
@@ -577,7 +579,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/etu">
 				<img src="https://avatars.githubusercontent.com/u/461970?s=72&u=6bb3c98e293206b7d5a202002306159f27fef773&v=4" width="24" alt="Avatar of etu"> etu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#etu">Copy rank badge</a><br/>
 			Elis Hirwing
 		</td>
 		<td>Tvnu Sweden Ab </td>
@@ -590,7 +592,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/andreasjansson">
 				<img src="https://avatars.githubusercontent.com/u/713993?s=72&u=aaa286b32f9e2ccf551d1a309ce6dd630599775e&v=4" width="24" alt="Avatar of andreasjansson"> andreasjansson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#andreasjansson">Copy rank badge</a><br/>
 			Andreas Jansson
 		</td>
 		<td>@cloudflare </td>
@@ -603,7 +605,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/arvidn">
 				<img src="https://avatars.githubusercontent.com/u/661450?s=72&u=0776b7dc299640869e1b67765046d2f7057c78cf&v=4" width="24" alt="Avatar of arvidn"> arvidn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#arvidn">Copy rank badge</a><br/>
 			Arvid Norberg
 		</td>
 		<td>Chia Net </td>
@@ -616,7 +618,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/geon">
 				<img src="https://avatars.githubusercontent.com/u/228012?s=72&u=ca0de2c00eefeab461cada0f28d7db9947510b60&v=4" width="24" alt="Avatar of geon"> geon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#geon">Copy rank badge</a><br/>
 			Victor Widell
 		</td>
 		<td>Divid Ab </td>
@@ -629,7 +631,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/enoch85">
 				<img src="https://avatars.githubusercontent.com/u/4511254?s=72&u=3ba644e2e1c1e54f2a669ece323f8df786114c6b&v=4" width="24" alt="Avatar of enoch85"> enoch85
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#enoch85">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -642,7 +644,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/elitan">
 				<img src="https://avatars.githubusercontent.com/u/331818?s=72&u=5f928229549c608dcdfce2589807dca06f58219e&v=4" width="24" alt="Avatar of elitan"> elitan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#elitan">Copy rank badge</a><br/>
 			Johan Eliasson
 		</td>
 		<td>Cto @ Gazella </td>
@@ -655,7 +657,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/oeway">
 				<img src="https://avatars.githubusercontent.com/u/478667?s=72&v=4" width="24" alt="Avatar of oeway"> oeway
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#oeway">Copy rank badge</a><br/>
 			Wei Ouyang
 		</td>
 		<td>Science For Life Laboratory<br/></td>
@@ -668,7 +670,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/andreasabel">
 				<img src="https://avatars.githubusercontent.com/u/1155218?s=72&v=4" width="24" alt="Avatar of andreasabel"> andreasabel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#andreasabel">Copy rank badge</a><br/>
 			Andreas Abel
 		</td>
 		<td>Chalmers And Gothenburg University<br/></td>
@@ -681,7 +683,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/troglobit">
 				<img src="https://avatars.githubusercontent.com/u/183517?s=72&u=7464e6288098929fe55ec333781ed838e07e9223&v=4" width="24" alt="Avatar of troglobit"> troglobit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#troglobit">Copy rank badge</a><br/>
 			Joachim Wiberg
 		</td>
 		<td>@wires-se  </td>
@@ -694,7 +696,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jpnurmi">
 				<img src="https://avatars.githubusercontent.com/u/140617?s=72&v=4" width="24" alt="Avatar of jpnurmi"> jpnurmi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jpnurmi">Copy rank badge</a><br/>
 			J-P Nurmi
 		</td>
 		<td>No Company</td>
@@ -707,7 +709,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kraxarn">
 				<img src="https://avatars.githubusercontent.com/u/6675728?s=72&u=6b5c15b5e0d4ea0f4ed232f8e8dea5c8656316bf&v=4" width="24" alt="Avatar of kraxarn"> kraxarn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kraxarn">Copy rank badge</a><br/>
 			kraxie
 		</td>
 		<td>No Company</td>
@@ -720,7 +722,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/khromov">
 				<img src="https://avatars.githubusercontent.com/u/1207507?s=72&u=3508f4f9190e73cbdb3b36b02b919f9faf756c04&v=4" width="24" alt="Avatar of khromov"> khromov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#khromov">Copy rank badge</a><br/>
 			Stanislav Khromov
 		</td>
 		<td>Schibsted Media Group </td>
@@ -733,7 +735,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/AhsanAyaz">
 				<img src="https://avatars.githubusercontent.com/u/9844254?s=72&u=d06bde7e67248f757e174aa18179579e90c1bc68&v=4" width="24" alt="Avatar of AhsanAyaz"> AhsanAyaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#AhsanAyaz">Copy rank badge</a><br/>
 			Muhammad Ahsan Ayaz
 		</td>
 		<td>@scania </td>
@@ -746,7 +748,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/lawik">
 				<img src="https://avatars.githubusercontent.com/u/1971237?s=72&u=671495fb9f1a273698d28143739868e993be816e&v=4" width="24" alt="Avatar of lawik"> lawik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#lawik">Copy rank badge</a><br/>
 			Lars Wikman
 		</td>
 		<td>Underjord </td>
@@ -759,7 +761,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/cbrueffer">
 				<img src="https://avatars.githubusercontent.com/u/2705287?s=72&u=185694adf4aae91ebff13e8a825bb74a32dec6f9&v=4" width="24" alt="Avatar of cbrueffer"> cbrueffer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#cbrueffer">Copy rank badge</a><br/>
 			Christian Brueffer
 		</td>
 		<td>@insilicoconsulting </td>
@@ -772,7 +774,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/pardeike">
 				<img src="https://avatars.githubusercontent.com/u/853584?s=72&u=7507769c2d3a1bd5decb361a8eef4a1c150e1da7&v=4" width="24" alt="Avatar of pardeike"> pardeike
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#pardeike">Copy rank badge</a><br/>
 			Andreas Pardeike
 		</td>
 		<td>Swedish Police Authority </td>
@@ -785,7 +787,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/odsod">
 				<img src="https://avatars.githubusercontent.com/u/1392777?s=72&u=a0cb5fd8cf3b6868331e5d2341366cdc7e846b1a&v=4" width="24" alt="Avatar of odsod"> odsod
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#odsod">Copy rank badge</a><br/>
 			Oscar Söderlund
 		</td>
 		<td>@way-platform </td>
@@ -798,7 +800,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Zajfan">
 				<img src="https://avatars.githubusercontent.com/u/114745912?s=72&v=4" width="24" alt="Avatar of Zajfan"> Zajfan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Zajfan">Copy rank badge</a><br/>
 			Zajfan
 		</td>
 		<td>The Occult Circle </td>
@@ -811,7 +813,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/EmilStenstrom">
 				<img src="https://avatars.githubusercontent.com/u/224130?s=72&v=4" width="24" alt="Avatar of EmilStenstrom"> EmilStenstrom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#EmilStenstrom">Copy rank badge</a><br/>
 			Emil Stenström
 		</td>
 		<td>@odevo-dev </td>
@@ -824,7 +826,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/epatel">
 				<img src="https://avatars.githubusercontent.com/u/81102?s=72&u=7b8561dafb5a5c24fb4600a275c6bbe702a21305&v=4" width="24" alt="Avatar of epatel"> epatel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#epatel">Copy rank badge</a><br/>
 			Edward Patel
 		</td>
 		<td>Http://www.memention </td>
@@ -837,7 +839,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/danielsaidi">
 				<img src="https://avatars.githubusercontent.com/u/429927?s=72&u=4506cbeaf9551678f01ff7b5b07881663cc4e2f9&v=4" width="24" alt="Avatar of danielsaidi"> danielsaidi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#danielsaidi">Copy rank badge</a><br/>
 			Daniel Saidi
 		</td>
 		<td>Daniel Saidi </td>
@@ -850,7 +852,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Princesseuh">
 				<img src="https://avatars.githubusercontent.com/u/3019731?s=72&u=523960a16b8dda85b9f13d4816886703226775f8&v=4" width="24" alt="Avatar of Princesseuh"> Princesseuh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Princesseuh">Copy rank badge</a><br/>
 			Erika
 		</td>
 		<td>@withastro </td>
@@ -863,7 +865,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/krlvi">
 				<img src="https://avatars.githubusercontent.com/u/4030927?s=72&u=c7c824336a551c70bcbdcca0991cfcc6b320bb77&v=4" width="24" alt="Avatar of krlvi"> krlvi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#krlvi">Copy rank badge</a><br/>
 			Kiril Videlov
 		</td>
 		<td>@gitbutlerapp </td>
@@ -876,7 +878,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/druvus">
 				<img src="https://avatars.githubusercontent.com/u/83170?s=72&u=cf375c5e7067ca535560686345040d4c82bf3efc&v=4" width="24" alt="Avatar of druvus"> druvus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#druvus">Copy rank badge</a><br/>
 			Andreas Sjödin
 		</td>
 		<td>No Company</td>
@@ -889,7 +891,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/homanp">
 				<img src="https://avatars.githubusercontent.com/u/2464556?s=72&u=4d6150c38daf305b43153112d1f2815d287273ea&v=4" width="24" alt="Avatar of homanp"> homanp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#homanp">Copy rank badge</a><br/>
 			Ismail Pelaseyed
 		</td>
 		<td>Superagent </td>
@@ -902,7 +904,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mostafa">
 				<img src="https://avatars.githubusercontent.com/u/54546?s=72&u=01e4971dea8f535bf23f2f4e20f85ece6784926a&v=4" width="24" alt="Avatar of mostafa"> mostafa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mostafa">Copy rank badge</a><br/>
 			Mostafa Moradian
 		</td>
 		<td>@timescale </td>
@@ -915,7 +917,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/astrit">
 				<img src="https://avatars.githubusercontent.com/u/2398447?s=72&u=54a41444f874782a2200aa0981db36583c4af682&v=4" width="24" alt="Avatar of astrit"> astrit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#astrit">Copy rank badge</a><br/>
 			astrit
 		</td>
 		<td>Seb </td>
@@ -928,7 +930,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/AThousandShips">
 				<img src="https://avatars.githubusercontent.com/u/96648715?s=72&u=af70f5d107e9c1447f296643d5a566dab53d25e8&v=4" width="24" alt="Avatar of AThousandShips"> AThousandShips
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#AThousandShips">Copy rank badge</a><br/>
 			A Thousand Ships
 		</td>
 		<td>No Company</td>
@@ -941,7 +943,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/soulgalore">
 				<img src="https://avatars.githubusercontent.com/u/540757?s=72&u=2be4490fbd53d2d55f6450925c81f2d8f04873f6&v=4" width="24" alt="Avatar of soulgalore"> soulgalore
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#soulgalore">Copy rank badge</a><br/>
 			Peter Hedenskog
 		</td>
 		<td>@wikimedia </td>
@@ -954,7 +956,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/JCash">
 				<img src="https://avatars.githubusercontent.com/u/1349334?s=72&u=f53991435a5e7bf2e99a2db5553dd4aad405ae13&v=4" width="24" alt="Avatar of JCash"> JCash
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#JCash">Copy rank badge</a><br/>
 			Mathias Westerdahl
 		</td>
 		<td>Refold </td>
@@ -967,7 +969,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/iabdalkader">
 				<img src="https://avatars.githubusercontent.com/u/4498013?s=72&u=6d1716bad820a1a0579fe5c266045df3f4b87f25&v=4" width="24" alt="Avatar of iabdalkader"> iabdalkader
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#iabdalkader">Copy rank badge</a><br/>
 			Ibrahim Abdelkader
 		</td>
 		<td>Openmv </td>
@@ -980,7 +982,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/spydon">
 				<img src="https://avatars.githubusercontent.com/u/744771?s=72&u=5677f94c23fa5a8cb946b0dc9c0fae2e58d18ec2&v=4" width="24" alt="Avatar of spydon"> spydon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#spydon">Copy rank badge</a><br/>
 			Lukas Klingsbo
 		</td>
 		<td>Blue Fire Open Source<br/>Collective<br/></td>
@@ -993,7 +995,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/segeljakt">
 				<img src="https://avatars.githubusercontent.com/u/15143039?s=72&u=539851ff6871d51831ece6de1ca3df1c3b5c0116&v=4" width="24" alt="Avatar of segeljakt"> segeljakt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#segeljakt">Copy rank badge</a><br/>
 			Klas Segeljakt
 		</td>
 		<td>Kth Royal Institute Of<br/>Technology<br/></td>
@@ -1006,7 +1008,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/diogotcorreia">
 				<img src="https://avatars.githubusercontent.com/u/7467891?s=72&u=6058ebed2172723836267378e8c112ecb30883ff&v=4" width="24" alt="Avatar of diogotcorreia"> diogotcorreia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#diogotcorreia">Copy rank badge</a><br/>
 			Diogo Correia
 		</td>
 		<td>Student, Kth (royal Institute<br/>Of<br/>Technology)<br/>-<br/>Looking<br/>For<br/>Jobs<br/></td>
@@ -1019,7 +1021,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/MoeidHeidari">
 				<img src="https://avatars.githubusercontent.com/u/41738051?s=72&u=a86c3904ecafdca4bc6a02b70fda038a09976d72&v=4" width="24" alt="Avatar of MoeidHeidari"> MoeidHeidari
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#MoeidHeidari">Copy rank badge</a><br/>
 			Moeid Heidari
 		</td>
 		<td>Volvo Cars </td>
@@ -1032,7 +1034,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/johanandren">
 				<img src="https://avatars.githubusercontent.com/u/666915?s=72&u=8376b4fadae86776adb65885523ded7054aa27c6&v=4" width="24" alt="Avatar of johanandren"> johanandren
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#johanandren">Copy rank badge</a><br/>
 			Johan Andrén
 		</td>
 		<td>@lightbend  </td>
@@ -1045,7 +1047,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/monperrus">
 				<img src="https://avatars.githubusercontent.com/u/803666?s=72&u=6bd14fe0f15b19033d4216f9d5277d52739f9807&v=4" width="24" alt="Avatar of monperrus"> monperrus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#monperrus">Copy rank badge</a><br/>
 			Martin Monperrus
 		</td>
 		<td>Acme Corporation </td>
@@ -1058,7 +1060,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Hexagon">
 				<img src="https://avatars.githubusercontent.com/u/419737?s=72&u=1ae1717bcb9c28a2403a61dba7f7489d38ae1f47&v=4" width="24" alt="Avatar of Hexagon"> Hexagon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Hexagon">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1071,7 +1073,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/lerno">
 				<img src="https://avatars.githubusercontent.com/u/27989?s=72&v=4" width="24" alt="Avatar of lerno"> lerno
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#lerno">Copy rank badge</a><br/>
 			Christoffer Lerno
 		</td>
 		<td>Aegik Ab </td>
@@ -1084,7 +1086,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/pontusab">
 				<img src="https://avatars.githubusercontent.com/u/655158?s=72&u=4ed2dd3339c694c58bb65211a26e048a222ca710&v=4" width="24" alt="Avatar of pontusab"> pontusab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#pontusab">Copy rank badge</a><br/>
 			Pontus Abrahamsson
 		</td>
 		<td>@midday-ai </td>
@@ -1097,7 +1099,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Wumpf">
 				<img src="https://avatars.githubusercontent.com/u/1220815?s=72&u=77fb4aa2474c2f75bc49c101f45a3c3f650b4c19&v=4" width="24" alt="Avatar of Wumpf"> Wumpf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Wumpf">Copy rank badge</a><br/>
 			Andreas Reich
 		</td>
 		<td>Rerun.io </td>
@@ -1110,7 +1112,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/AGulev">
 				<img src="https://avatars.githubusercontent.com/u/2209596?s=72&u=d942bf2f9b4eebd2fa3b0370786e80abff0fb00c&v=4" width="24" alt="Avatar of AGulev"> AGulev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#AGulev">Copy rank badge</a><br/>
 			Alexey Gulev
 		</td>
 		<td>@defold @refold @potatojam </td>
@@ -1123,7 +1125,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ErikBjare">
 				<img src="https://avatars.githubusercontent.com/u/1405370?s=72&u=8a516a20206354bedf5e1f7639649f3214562d84&v=4" width="24" alt="Avatar of ErikBjare"> ErikBjare
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ErikBjare">Copy rank badge</a><br/>
 			Erik Bjäreholt
 		</td>
 		<td>@superuserlabs </td>
@@ -1136,7 +1138,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/emilwidlund">
 				<img src="https://avatars.githubusercontent.com/u/10053249?s=72&u=12baa9786301d870faefbb9b1a85ff919d8b9084&v=4" width="24" alt="Avatar of emilwidlund"> emilwidlund
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#emilwidlund">Copy rank badge</a><br/>
 			Emil Widlund
 		</td>
 		<td>@polarsource & @newfrgmnt </td>
@@ -1149,7 +1151,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/plajjan">
 				<img src="https://avatars.githubusercontent.com/u/841628?s=72&u=15829fdba0a69043cf34f3239ec16fc7199feb98&v=4" width="24" alt="Avatar of plajjan"> plajjan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#plajjan">Copy rank badge</a><br/>
 			Kristian Larsson
 		</td>
 		<td>Deutsche Telekom / Terastream,<br/>@spritelink<br/></td>
@@ -1162,7 +1164,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/HamedMP">
 				<img src="https://avatars.githubusercontent.com/u/3755031?s=72&u=07eb126494a8a50dd1aa15ac88b2f4e5eb572b11&v=4" width="24" alt="Avatar of HamedMP"> HamedMP
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#HamedMP">Copy rank badge</a><br/>
 			hamed
 		</td>
 		<td>Hamedmp.com </td>
@@ -1175,7 +1177,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/olleolleolle">
 				<img src="https://avatars.githubusercontent.com/u/211?s=72&u=9bf7571066c8e4de984f14c35791cb852c66aab9&v=4" width="24" alt="Avatar of olleolleolle"> olleolleolle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#olleolleolle">Copy rank badge</a><br/>
 			Olle Jonsson
 		</td>
 		<td>Auctionet ✨  </td>
@@ -1188,7 +1190,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/RusProgger">
 				<img src="https://avatars.githubusercontent.com/u/105813644?s=72&u=e6ba51ef88445add4b3aa8201be9737ec1c33423&v=4" width="24" alt="Avatar of RusProgger"> RusProgger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#RusProgger">Copy rank badge</a><br/>
 			Ruslan Voronenko
 		</td>
 		<td>No Company</td>
@@ -1201,7 +1203,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dbarrosop">
 				<img src="https://avatars.githubusercontent.com/u/6246622?s=72&u=f0c3baf08f7776c31e4fd15f090da93ff669ec14&v=4" width="24" alt="Avatar of dbarrosop"> dbarrosop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dbarrosop">Copy rank badge</a><br/>
 			David Barroso
 		</td>
 		<td>Nhost </td>
@@ -1214,7 +1216,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/lenguyenthanh">
 				<img src="https://avatars.githubusercontent.com/u/437967?s=72&u=365a9232e2fc3e47b07f7623c01ff684ce9b0124&v=4" width="24" alt="Avatar of lenguyenthanh"> lenguyenthanh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#lenguyenthanh">Copy rank badge</a><br/>
 			Thanh Le
 		</td>
 		<td>@lichess-org / @recordedfuture </td>
@@ -1227,7 +1229,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/fornwall">
 				<img src="https://avatars.githubusercontent.com/u/277251?s=72&v=4" width="24" alt="Avatar of fornwall"> fornwall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#fornwall">Copy rank badge</a><br/>
 			Fredrik Fornwall
 		</td>
 		<td>Avanza </td>
@@ -1240,7 +1242,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/johlju">
 				<img src="https://avatars.githubusercontent.com/u/7189721?s=72&u=753ae2193c7ca9225fd59755442a7549ae2a1dd8&v=4" width="24" alt="Avatar of johlju"> johlju
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#johlju">Copy rank badge</a><br/>
 			Johan Ljunggren
 		</td>
 		<td>No Company</td>
@@ -1253,7 +1255,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/icyJoseph">
 				<img src="https://avatars.githubusercontent.com/u/21013447?s=72&u=4dc74e3d0232ee1048636f00ead4e80b0b14db7b&v=4" width="24" alt="Avatar of icyJoseph"> icyJoseph
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#icyJoseph">Copy rank badge</a><br/>
 			Joseph
 		</td>
 		<td>@vercel </td>
@@ -1266,7 +1268,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/danbev">
 				<img src="https://avatars.githubusercontent.com/u/432351?s=72&u=01dbd5b0e6781f3cd3b69b8a5629aac12ef34add&v=4" width="24" alt="Avatar of danbev"> danbev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#danbev">Copy rank badge</a><br/>
 			Daniel Bevenius
 		</td>
 		<td>@huggingface </td>
@@ -1279,7 +1281,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/tochman">
 				<img src="https://avatars.githubusercontent.com/u/5248170?s=72&u=8945905720623cfdc9899d7a4473de6f0ee22518&v=4" width="24" alt="Avatar of tochman"> tochman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#tochman">Copy rank badge</a><br/>
 			Thomas Ochman
 		</td>
 		<td>Craftacademy </td>
@@ -1292,7 +1294,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/khaosdoctor">
 				<img src="https://avatars.githubusercontent.com/u/3200560?s=72&u=3ce25a245638c76d0ce4ea77784ca65511113ba0&v=4" width="24" alt="Avatar of khaosdoctor"> khaosdoctor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#khaosdoctor">Copy rank badge</a><br/>
 			Lucas Santos
 		</td>
 		<td>Staff Engineer @hemnet </td>
@@ -1305,7 +1307,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/udoprog">
 				<img src="https://avatars.githubusercontent.com/u/111092?s=72&u=a1186d21097c01508f5fdf287c4b3bdc5a3f0e7a&v=4" width="24" alt="Avatar of udoprog"> udoprog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#udoprog">Copy rank badge</a><br/>
 			John-John Tedro
 		</td>
 		<td>No Company</td>
@@ -1318,7 +1320,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/KristofferC">
 				<img src="https://avatars.githubusercontent.com/u/1282691?s=72&u=267c68627f28d82d1980cbbbd375af38b13d3fc1&v=4" width="24" alt="Avatar of KristofferC"> KristofferC
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#KristofferC">Copy rank badge</a><br/>
 			Kristoffer Carlsson
 		</td>
 		<td>@juliacomputing  </td>
@@ -1331,7 +1333,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/K-Phoen">
 				<img src="https://avatars.githubusercontent.com/u/66958?s=72&v=4" width="24" alt="Avatar of K-Phoen"> K-Phoen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#K-Phoen">Copy rank badge</a><br/>
 			Kévin Gomez
 		</td>
 		<td>@grafana </td>
@@ -1344,7 +1346,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/britzl">
 				<img src="https://avatars.githubusercontent.com/u/1300688?s=72&v=4" width="24" alt="Avatar of britzl"> britzl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#britzl">Copy rank badge</a><br/>
 			Björn Ritzl
 		</td>
 		<td>@defold  </td>
@@ -1357,7 +1359,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/MHSanaei">
 				<img src="https://avatars.githubusercontent.com/u/33454419?s=72&v=4" width="24" alt="Avatar of MHSanaei"> MHSanaei
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#MHSanaei">Copy rank badge</a><br/>
 			Sanaei
 		</td>
 		<td>No Company</td>
@@ -1370,7 +1372,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/wader">
 				<img src="https://avatars.githubusercontent.com/u/185566?s=72&u=3d3221f6b26270d87665a5523f31328f576c5051&v=4" width="24" alt="Avatar of wader"> wader
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#wader">Copy rank badge</a><br/>
 			Mattias Wadman
 		</td>
 		<td>No Company</td>
@@ -1383,7 +1385,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/augustss">
 				<img src="https://avatars.githubusercontent.com/u/5245086?s=72&v=4" width="24" alt="Avatar of augustss"> augustss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#augustss">Copy rank badge</a><br/>
 			Lennart Augustsson
 		</td>
 		<td>No Company</td>
@@ -1396,7 +1398,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/fredrikburmester">
 				<img src="https://avatars.githubusercontent.com/u/26228321?s=72&u=651a4a056073c25cd163c61b5e05f775b2df7158&v=4" width="24" alt="Avatar of fredrikburmester"> fredrikburmester
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#fredrikburmester">Copy rank badge</a><br/>
 			Fredrik Burmester
 		</td>
 		<td>Enra Digital Ab </td>
@@ -1409,7 +1411,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/smakosh">
 				<img src="https://avatars.githubusercontent.com/u/20082141?s=72&u=6b908d11194bc71029d4e5525e39f4aea3923a9a&v=4" width="24" alt="Avatar of smakosh"> smakosh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#smakosh">Copy rank badge</a><br/>
 			Ismail Ghallou 
 		</td>
 		<td>Llmgateway.io </td>
@@ -1422,7 +1424,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/cyberw">
 				<img src="https://avatars.githubusercontent.com/u/1134328?s=72&u=d991efc5d5f2908b2b13ba5fc1ce5567dd5b4613&v=4" width="24" alt="Avatar of cyberw"> cyberw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#cyberw">Copy rank badge</a><br/>
 			Lars Holmberg
 		</td>
 		<td>Locust Technologies Inc </td>
@@ -1435,7 +1437,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ngalaiko">
 				<img src="https://avatars.githubusercontent.com/u/15010292?s=72&u=a6a91caf2c0336cedbf4e62b8b0ba516b4bbb42c&v=4" width="24" alt="Avatar of ngalaiko"> ngalaiko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ngalaiko">Copy rank badge</a><br/>
 			Nikita Galaiko
 		</td>
 		<td>@cerveco </td>
@@ -1448,7 +1450,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/karl-zylinski">
 				<img src="https://avatars.githubusercontent.com/u/6352002?s=72&u=9ad079bea1c5c2fbe4f45af90a2d6a58ebce291b&v=4" width="24" alt="Avatar of karl-zylinski"> karl-zylinski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#karl-zylinski">Copy rank badge</a><br/>
 			Karl Zylinski
 		</td>
 		<td>Self-employed </td>
@@ -1461,7 +1463,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/oskarhane">
 				<img src="https://avatars.githubusercontent.com/u/570998?s=72&u=8743f961822fd4442cf7cb39619bc53dd23474a5&v=4" width="24" alt="Avatar of oskarhane"> oskarhane
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#oskarhane">Copy rank badge</a><br/>
 			Oskar Hane
 		</td>
 		<td>@neo4j  </td>
@@ -1474,7 +1476,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/svenssonjoel">
 				<img src="https://avatars.githubusercontent.com/u/598672?s=72&u=8115570d09c782509cf684691d7810f058ddfcb0&v=4" width="24" alt="Avatar of svenssonjoel"> svenssonjoel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#svenssonjoel">Copy rank badge</a><br/>
 			Joel Svensson
 		</td>
 		<td>No Company</td>
@@ -1487,7 +1489,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/nizos">
 				<img src="https://avatars.githubusercontent.com/u/16970186?s=72&u=ecf0d39f675c0cf3482256673cbde340d4da0e6e&v=4" width="24" alt="Avatar of nizos"> nizos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#nizos">Copy rank badge</a><br/>
 			Nizar Selander
 		</td>
 		<td>@factor10 </td>
@@ -1500,7 +1502,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/algomaster99">
 				<img src="https://avatars.githubusercontent.com/u/35191225?s=72&u=44db73e3db685b5983965dd57c2ff6c02ad6407b&v=4" width="24" alt="Avatar of algomaster99"> algomaster99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#algomaster99">Copy rank badge</a><br/>
 			Aman Sharma
 		</td>
 		<td>Kth Royal Institute Of<br/>Technology<br/></td>
@@ -1513,7 +1515,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/boxed">
 				<img src="https://avatars.githubusercontent.com/u/332428?s=72&u=0c5a9ea1932c1dd9ecb128871036388c6c1a17e6&v=4" width="24" alt="Avatar of boxed"> boxed
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#boxed">Copy rank badge</a><br/>
 			Anders Hovmöller
 		</td>
 		<td>@dryft-technologies  </td>
@@ -1526,7 +1528,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/benjdlambert">
 				<img src="https://avatars.githubusercontent.com/u/3645856?s=72&u=8b994d22cd04b91e9cd738e165a85b0e8269f72f&v=4" width="24" alt="Avatar of benjdlambert"> benjdlambert
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#benjdlambert">Copy rank badge</a><br/>
 			Ben Lambert
 		</td>
 		<td>@spotify </td>
@@ -1539,7 +1541,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/rezkam">
 				<img src="https://avatars.githubusercontent.com/u/1498074?s=72&u=a811a7f82f944843fa674663245ea721701badd5&v=4" width="24" alt="Avatar of rezkam"> rezkam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#rezkam">Copy rank badge</a><br/>
 			Rez
 		</td>
 		<td>No Company</td>
@@ -1552,7 +1554,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/SCKelemen">
 				<img src="https://avatars.githubusercontent.com/u/4325375?s=72&u=1fc80d23460f7a457be68f6ff424598c9368120e&v=4" width="24" alt="Avatar of SCKelemen"> SCKelemen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#SCKelemen">Copy rank badge</a><br/>
 			Samuel Kelemen
 		</td>
 		<td>Lovable </td>
@@ -1565,7 +1567,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/nathanlesage">
 				<img src="https://avatars.githubusercontent.com/u/17251683?s=72&u=eaab6d2597f12e8f585530ef089567aedb1d32a0&v=4" width="24" alt="Avatar of nathanlesage"> nathanlesage
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#nathanlesage">Copy rank badge</a><br/>
 			Hendrik Erz
 		</td>
 		<td>@zettlr  </td>
@@ -1578,7 +1580,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/vlaaad">
 				<img src="https://avatars.githubusercontent.com/u/732554?s=72&u=f130b0caca4dd3ac310d8e72f1c7dbddfce96004&v=4" width="24" alt="Avatar of vlaaad"> vlaaad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#vlaaad">Copy rank badge</a><br/>
 			vlaaad
 		</td>
 		<td>@refold </td>
@@ -1591,7 +1593,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/peterix">
 				<img src="https://avatars.githubusercontent.com/u/203326?s=72&u=3088f492f29bd29965956ae72b6ffb306a4d7651&v=4" width="24" alt="Avatar of peterix"> peterix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#peterix">Copy rank badge</a><br/>
 			Petr Mrázek
 		</td>
 		<td>@multimc  </td>
@@ -1604,7 +1606,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mekwall">
 				<img src="https://avatars.githubusercontent.com/u/37091?s=72&u=0fdf8a836f8936523279cd50e437a8f0c632efd1&v=4" width="24" alt="Avatar of mekwall"> mekwall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mekwall">Copy rank badge</a><br/>
 			Marcus Ekwall
 		</td>
 		<td>No Company</td>
@@ -1617,7 +1619,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/alexewerlof">
 				<img src="https://avatars.githubusercontent.com/u/835750?s=72&u=57e72b3e64215821918235ece7f824376d4a933b&v=4" width="24" alt="Avatar of alexewerlof"> alexewerlof
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#alexewerlof">Copy rank badge</a><br/>
 			Alex Ewerlöf
 		</td>
 		<td>No Company</td>
@@ -1630,7 +1632,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/consideRatio">
 				<img src="https://avatars.githubusercontent.com/u/3837114?s=72&u=427ac1d3219f5f6ab6002584a4700d06340e9621&v=4" width="24" alt="Avatar of consideRatio"> consideRatio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#consideRatio">Copy rank badge</a><br/>
 			Erik Sundell
 		</td>
 		<td>@sensmetry </td>
@@ -1643,7 +1645,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/devmotion">
 				<img src="https://avatars.githubusercontent.com/u/26102?s=72&u=945a5b7e5854b607abc481bd3fcea2ca128fa617&v=4" width="24" alt="Avatar of devmotion"> devmotion
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#devmotion">Copy rank badge</a><br/>
 			David Müller-Widmann
 		</td>
 		<td>@pumasai  </td>
@@ -1656,7 +1658,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/junkdog">
 				<img src="https://avatars.githubusercontent.com/u/804039?s=72&u=ff9e52d7a07d12baa40d723ba58a7973642596f7&v=4" width="24" alt="Avatar of junkdog"> junkdog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#junkdog">Copy rank badge</a><br/>
 			Adrian Papari
 		</td>
 		<td>No Company</td>
@@ -1669,7 +1671,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dnouri">
 				<img src="https://avatars.githubusercontent.com/u/56370?s=72&u=0c8cbcb1746b2e3cee54d25c6dbc978b32d5f4c8&v=4" width="24" alt="Avatar of dnouri"> dnouri
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dnouri">Copy rank badge</a><br/>
 			Daniel Nouri
 		</td>
 		<td>No Company</td>
@@ -1682,7 +1684,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/carlhoerberg">
 				<img src="https://avatars.githubusercontent.com/u/180046?s=72&u=c2ce29afd593aaf2fa296ef14521ff5bf8c4fc89&v=4" width="24" alt="Avatar of carlhoerberg"> carlhoerberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#carlhoerberg">Copy rank badge</a><br/>
 			Carl Hörberg
 		</td>
 		<td>@84codes  </td>
@@ -1695,7 +1697,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/niik">
 				<img src="https://avatars.githubusercontent.com/u/634063?s=72&u=22154de977b53938df37f4eca28913bf7d6d2783&v=4" width="24" alt="Avatar of niik"> niik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#niik">Copy rank badge</a><br/>
 			Markus Olsson
 		</td>
 		<td>@github </td>
@@ -1708,7 +1710,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kristinaxm">
 				<img src="https://avatars.githubusercontent.com/u/235483091?s=72&u=02ea7ee0c04d732351aeb930c6945b2b6cebd256&v=4" width="24" alt="Avatar of kristinaxm"> kristinaxm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kristinaxm">Copy rank badge</a><br/>
 			Kristina M
 		</td>
 		<td>No Company</td>
@@ -1721,7 +1723,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kristoferlund">
 				<img src="https://avatars.githubusercontent.com/u/9698363?s=72&u=277b6444ab2e542c3e94f746a4bb7447a9c18cf5&v=4" width="24" alt="Avatar of kristoferlund"> kristoferlund
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kristoferlund">Copy rank badge</a><br/>
 			Kristofer
 		</td>
 		<td>No Company</td>
@@ -1734,7 +1736,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/robinlinden">
 				<img src="https://avatars.githubusercontent.com/u/8304462?s=72&u=61d7381a8a404d8baf622b43929b965dce10a200&v=4" width="24" alt="Avatar of robinlinden"> robinlinden
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#robinlinden">Copy rank badge</a><br/>
 			Robin Lindén
 		</td>
 		<td>@evilcorpltd </td>
@@ -1747,7 +1749,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/baggepinnen">
 				<img src="https://avatars.githubusercontent.com/u/3797491?s=72&u=467360b32809fc2205ef5eefe6e89402fb9427f8&v=4" width="24" alt="Avatar of baggepinnen"> baggepinnen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#baggepinnen">Copy rank badge</a><br/>
 			Fredrik Bagge Carlson
 		</td>
 		<td>No Company</td>
@@ -1760,7 +1762,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/a7ul">
 				<img src="https://avatars.githubusercontent.com/u/4029423?s=72&u=7d20d30705b732c3906d32c0ad1512bb8865ebb7&v=4" width="24" alt="Avatar of a7ul"> a7ul
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#a7ul">Copy rank badge</a><br/>
 			Atul R
 		</td>
 		<td>@filedcom </td>
@@ -1773,7 +1775,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/danmar">
 				<img src="https://avatars.githubusercontent.com/u/60195?s=72&v=4" width="24" alt="Avatar of danmar"> danmar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#danmar">Copy rank badge</a><br/>
 			Daniel Marjamäki
 		</td>
 		<td>Cppcheck Solutions Ab </td>
@@ -1786,7 +1788,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Tritlo">
 				<img src="https://avatars.githubusercontent.com/u/1667287?s=72&u=a0bb58a53c3446d567621501f9819814e1fc4c0b&v=4" width="24" alt="Avatar of Tritlo"> Tritlo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Tritlo">Copy rank badge</a><br/>
 			Matthías Páll Gissurarson
 		</td>
 		<td>Dpella Ab </td>
@@ -1799,7 +1801,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/calmh">
 				<img src="https://avatars.githubusercontent.com/u/125426?s=72&u=43157627b33d10997db7ee408a0557ab54c40146&v=4" width="24" alt="Avatar of calmh"> calmh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#calmh">Copy rank badge</a><br/>
 			Jakob Borg
 		</td>
 		<td>@kastelo </td>
@@ -1812,7 +1814,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/MansMeg">
 				<img src="https://avatars.githubusercontent.com/u/2458198?s=72&u=10a1a49aedfd6aeb14946188eba3b233b9b58130&v=4" width="24" alt="Avatar of MansMeg"> MansMeg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#MansMeg">Copy rank badge</a><br/>
 			Måns Magnusson
 		</td>
 		<td>Uppsala Universitet </td>
@@ -1825,7 +1827,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/fulsomenko">
 				<img src="https://avatars.githubusercontent.com/u/14945057?s=72&u=0711991aa986ff012da921db168715fcc64f64c5&v=4" width="24" alt="Avatar of fulsomenko"> fulsomenko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#fulsomenko">Copy rank badge</a><br/>
 			Max Emil Yoon Blomstervall
 		</td>
 		<td>No Company</td>
@@ -1838,7 +1840,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Sajjon">
 				<img src="https://avatars.githubusercontent.com/u/864410?s=72&u=d22926c271f08a9a3577b6ad2bd5638117e49c3f&v=4" width="24" alt="Avatar of Sajjon"> Sajjon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Sajjon">Copy rank badge</a><br/>
 			Alexander Cyon
 		</td>
 		<td>Cyon Consulting Ab </td>
@@ -1851,7 +1853,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kevmodrome">
 				<img src="https://avatars.githubusercontent.com/u/534488?s=72&u=c15c88b444b64419e6c5fbf3e82cf06c069bb02e&v=4" width="24" alt="Avatar of kevmodrome"> kevmodrome
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kevmodrome">Copy rank badge</a><br/>
 			Kevin Åberg Kultalahti
 		</td>
 		<td>@svelte-society  </td>
@@ -1864,7 +1866,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/roflcoopter">
 				<img src="https://avatars.githubusercontent.com/u/26493864?s=72&u=3e7d46dd792b406aa9d62e363d5e7f8558d1e2d2&v=4" width="24" alt="Avatar of roflcoopter"> roflcoopter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#roflcoopter">Copy rank badge</a><br/>
 			Jesper
 		</td>
 		<td>No Company</td>
@@ -1877,7 +1879,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/krig">
 				<img src="https://avatars.githubusercontent.com/u/25527?s=72&u=50d79d1275e63271e96dc4663419bfbd0285cc3e&v=4" width="24" alt="Avatar of krig"> krig
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#krig">Copy rank badge</a><br/>
 			Kristoffer Grönlund
 		</td>
 		<td>Zi Ran </td>
@@ -1890,7 +1892,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/emlun">
 				<img src="https://avatars.githubusercontent.com/u/1367758?s=72&u=3b23a42f5ac223a8e35130b4a8f83eb27294c827&v=4" width="24" alt="Avatar of emlun"> emlun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#emlun">Copy rank badge</a><br/>
 			Emil Lundberg
 		</td>
 		<td>@yubico </td>
@@ -1903,7 +1905,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/voxpelli">
 				<img src="https://avatars.githubusercontent.com/u/34457?s=72&u=e27c6801586cca8b51ff32595348faf0edfbd810&v=4" width="24" alt="Avatar of voxpelli"> voxpelli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#voxpelli">Copy rank badge</a><br/>
 			Pelle Wessman
 		</td>
 		<td>@040-internet-ab </td>
@@ -1916,7 +1918,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/peterhellberg">
 				<img src="https://avatars.githubusercontent.com/u/565124?s=72&u=9933200ccff1d65f1635b4ca59876e2794b6985b&v=4" width="24" alt="Avatar of peterhellberg"> peterhellberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#peterhellberg">Copy rank badge</a><br/>
 			Peter Hellberg
 		</td>
 		<td>Code7 Interactive And Athega<br/></td>
@@ -1929,7 +1931,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ericmj">
 				<img src="https://avatars.githubusercontent.com/u/316890?s=72&u=e50caf97a4a97f9ee547e58b90b4670bd5352379&v=4" width="24" alt="Avatar of ericmj"> ericmj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ericmj">Copy rank badge</a><br/>
 			Eric Meadows-Jönsson
 		</td>
 		<td>No Company</td>
@@ -1942,7 +1944,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Proximyst">
 				<img src="https://avatars.githubusercontent.com/u/19861299?s=72&u=32a765c2da981e22edaefb470664b381c56aad51&v=4" width="24" alt="Avatar of Proximyst"> Proximyst
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Proximyst">Copy rank badge</a><br/>
 			Mariell Hoversholm
 		</td>
 		<td>Staff Engineer @grafana </td>
@@ -1955,7 +1957,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mraspaud">
 				<img src="https://avatars.githubusercontent.com/u/167802?s=72&u=047f1d18d1ba819e2c0e0916936894a71458b133&v=4" width="24" alt="Avatar of mraspaud"> mraspaud
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mraspaud">Copy rank badge</a><br/>
 			Martin Raspaud
 		</td>
 		<td>Smhi </td>
@@ -1968,7 +1970,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dentarg">
 				<img src="https://avatars.githubusercontent.com/u/42626?s=72&u=347da3805f67c316594806588e22b494ad920887&v=4" width="24" alt="Avatar of dentarg"> dentarg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dentarg">Copy rank badge</a><br/>
 			Patrik Ragnarsson
 		</td>
 		<td>@cloudamqp </td>
@@ -1981,7 +1983,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/anderseknert">
 				<img src="https://avatars.githubusercontent.com/u/510711?s=72&u=b5ea2d2932eaece3755cc60e2e7e18f0fd1719ec&v=4" width="24" alt="Avatar of anderseknert"> anderseknert
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#anderseknert">Copy rank badge</a><br/>
 			Anders Eknert
 		</td>
 		<td>Apple </td>
@@ -1994,7 +1996,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/garazdawi">
 				<img src="https://avatars.githubusercontent.com/u/111762?s=72&v=4" width="24" alt="Avatar of garazdawi"> garazdawi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#garazdawi">Copy rank badge</a><br/>
 			Lukas Backström
 		</td>
 		<td>Erlang Solutions </td>
@@ -2007,7 +2009,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/svmiller">
 				<img src="https://avatars.githubusercontent.com/u/4589542?s=72&v=4" width="24" alt="Avatar of svmiller"> svmiller
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#svmiller">Copy rank badge</a><br/>
 			Steven V. Miller
 		</td>
 		<td>Stockholm University </td>
@@ -2020,7 +2022,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/owickstrom">
 				<img src="https://avatars.githubusercontent.com/u/1464328?s=72&u=a64c6edb2f674137e4a7a926ecfff0dab5289713&v=4" width="24" alt="Avatar of owickstrom"> owickstrom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#owickstrom">Copy rank badge</a><br/>
 			Oskar Wickström
 		</td>
 		<td>Independent </td>
@@ -2033,7 +2035,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dionhaefner">
 				<img src="https://avatars.githubusercontent.com/u/11994217?s=72&u=d7e6bb213aabc747cb03482a8a60b10a763c54cf&v=4" width="24" alt="Avatar of dionhaefner"> dionhaefner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dionhaefner">Copy rank badge</a><br/>
 			Dion Häfner
 		</td>
 		<td>@pasteurlabs | University Of<br/>Copenhagen<br/></td>
@@ -2046,7 +2048,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/beeequeue">
 				<img src="https://avatars.githubusercontent.com/u/472500?s=72&u=92c3ac61c61343471654dec067a229aa58e4f941&v=4" width="24" alt="Avatar of beeequeue"> beeequeue
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#beeequeue">Copy rank badge</a><br/>
 			Adam Haglund
 		</td>
 		<td>No Company</td>
@@ -2059,7 +2061,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ysndr">
 				<img src="https://avatars.githubusercontent.com/u/7040031?s=72&v=4" width="24" alt="Avatar of ysndr"> ysndr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ysndr">Copy rank badge</a><br/>
 			Yannik Sander
 		</td>
 		<td>@nixos @flox </td>
@@ -2072,7 +2074,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/xacrimon">
 				<img src="https://avatars.githubusercontent.com/u/21025159?s=72&u=6559dee401b8a9341c08504b848e38d9c62d28c0&v=4" width="24" alt="Avatar of xacrimon"> xacrimon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#xacrimon">Copy rank badge</a><br/>
 			Joel Wejdenstål
 		</td>
 		<td>Linköping University </td>
@@ -2085,7 +2087,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/carlthome">
 				<img src="https://avatars.githubusercontent.com/u/1595907?s=72&v=4" width="24" alt="Avatar of carlthome"> carlthome
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#carlthome">Copy rank badge</a><br/>
 			Carl Thomé
 		</td>
 		<td>No Company</td>
@@ -2098,7 +2100,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/elupus">
 				<img src="https://avatars.githubusercontent.com/u/482976?s=72&v=4" width="24" alt="Avatar of elupus"> elupus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#elupus">Copy rank badge</a><br/>
 			Joakim Plate
 		</td>
 		<td>No Company</td>
@@ -2111,7 +2113,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/willianpaixao">
 				<img src="https://avatars.githubusercontent.com/u/201236?s=72&u=efb457efc42d282fcc992c65d3c48a343cc49d27&v=4" width="24" alt="Avatar of willianpaixao"> willianpaixao
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#willianpaixao">Copy rank badge</a><br/>
 			willian.eth
 		</td>
 		<td>No Company</td>
@@ -2124,7 +2126,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Snuffleupagus">
 				<img src="https://avatars.githubusercontent.com/u/2692120?s=72&v=4" width="24" alt="Avatar of Snuffleupagus"> Snuffleupagus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Snuffleupagus">Copy rank badge</a><br/>
 			Jonas Jenwald
 		</td>
 		<td>No Company</td>
@@ -2137,7 +2139,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/zuiderkwast">
 				<img src="https://avatars.githubusercontent.com/u/273886?s=72&u=a9ada125d7ba4160179370282f9d66c0224d76bb&v=4" width="24" alt="Avatar of zuiderkwast"> zuiderkwast
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#zuiderkwast">Copy rank badge</a><br/>
 			Viktor Söderqvist
 		</td>
 		<td>Ericsson Software Technology </td>
@@ -2150,7 +2152,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/afbjorklund">
 				<img src="https://avatars.githubusercontent.com/u/10364051?s=72&u=330266a69a98d11b00fb93a72eab014a2823a936&v=4" width="24" alt="Avatar of afbjorklund"> afbjorklund
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#afbjorklund">Copy rank badge</a><br/>
 			Anders Björklund
 		</td>
 		<td>No Company</td>
@@ -2163,7 +2165,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/emmadesilva">
 				<img src="https://avatars.githubusercontent.com/u/95144705?s=72&u=8a16a838ecd757efbab656e7ec1c95a5e8fac6a7&v=4" width="24" alt="Avatar of emmadesilva"> emmadesilva
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#emmadesilva">Copy rank badge</a><br/>
 			Emma De Silva
 		</td>
 		<td>@hydephp  </td>
@@ -2176,7 +2178,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/richardolsson">
 				<img src="https://avatars.githubusercontent.com/u/550212?s=72&v=4" width="24" alt="Avatar of richardolsson"> richardolsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#richardolsson">Copy rank badge</a><br/>
 			Richard Olsson
 		</td>
 		<td>Freelance </td>
@@ -2189,7 +2191,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/robertherber">
 				<img src="https://avatars.githubusercontent.com/u/1467411?s=72&u=56bed3568bf7a31c20758580744feffabfb182ee&v=4" width="24" alt="Avatar of robertherber"> robertherber
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#robertherber">Copy rank badge</a><br/>
 			Robert Herber
 		</td>
 		<td>Kingstinct Ab </td>
@@ -2202,7 +2204,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/marcelm">
 				<img src="https://avatars.githubusercontent.com/u/724864?s=72&u=be78b0eefc746e433af72ebd597e2e8c0e533bb8&v=4" width="24" alt="Avatar of marcelm"> marcelm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#marcelm">Copy rank badge</a><br/>
 			Marcel Martin
 		</td>
 		<td>No Company</td>
@@ -2215,7 +2217,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ncfavier">
 				<img src="https://avatars.githubusercontent.com/u/4323933?s=72&u=d57f82ff75b935c665a2c5b092699239e90a3167&v=4" width="24" alt="Avatar of ncfavier"> ncfavier
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ncfavier">Copy rank badge</a><br/>
 			Naïm Camille Favier
 		</td>
 		<td>Chalmers University Of Technology<br/></td>
@@ -2228,7 +2230,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/AigennA">
 				<img src="https://avatars.githubusercontent.com/u/107804812?s=72&u=5c398be1b053280dae4cce71a4859ba52c6800b1&v=4" width="24" alt="Avatar of AigennA"> AigennA
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#AigennA">Copy rank badge</a><br/>
 			Aygen
 		</td>
 		<td>No Company</td>
@@ -2241,7 +2243,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/codeaholicguy">
 				<img src="https://avatars.githubusercontent.com/u/4585708?s=72&u=46dddda83b0d81159d688b1438c38836cdea3cdb&v=4" width="24" alt="Avatar of codeaholicguy"> codeaholicguy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#codeaholicguy">Copy rank badge</a><br/>
 			Hoang Nguyen
 		</td>
 		<td>Shopback </td>
@@ -2254,7 +2256,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ashwinvis">
 				<img src="https://avatars.githubusercontent.com/u/9155111?s=72&u=c31a122b5f3fbade7df3d1f16e33e3ddef5c1a76&v=4" width="24" alt="Avatar of ashwinvis"> ashwinvis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ashwinvis">Copy rank badge</a><br/>
 			Ashwin V. Mohanan
 		</td>
 		<td>@mimer-ai, @enccs, @coderefinery, @ri-se<br/></td>
@@ -2267,7 +2269,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/irony">
 				<img src="https://avatars.githubusercontent.com/u/395843?s=72&u=18d5c44e17c84db210675ec7c717107c12ef4852&v=4" width="24" alt="Avatar of irony"> irony
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#irony">Copy rank badge</a><br/>
 			Christian Landgren
 		</td>
 		<td>Berget Ai </td>
@@ -2280,7 +2282,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/manast">
 				<img src="https://avatars.githubusercontent.com/u/95200?s=72&v=4" width="24" alt="Avatar of manast"> manast
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#manast">Copy rank badge</a><br/>
 			Manuel Astudillo
 		</td>
 		<td>Castmill / Taskforce.sh </td>
@@ -2293,7 +2295,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Gegy">
 				<img src="https://avatars.githubusercontent.com/u/5172118?s=72&u=8aad510d03455d4a930553468a8dde864c93fbc2&v=4" width="24" alt="Avatar of Gegy"> Gegy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Gegy">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@mojang </td>
@@ -2306,7 +2308,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/andreasohlund">
 				<img src="https://avatars.githubusercontent.com/u/125028?s=72&v=4" width="24" alt="Avatar of andreasohlund"> andreasohlund
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#andreasohlund">Copy rank badge</a><br/>
 			Andreas Öhlund
 		</td>
 		<td>Particular Software Ltd </td>
@@ -2319,7 +2321,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jakkra">
 				<img src="https://avatars.githubusercontent.com/u/4318648?s=72&u=30a059b1505529c6be90ef9bc50f8d4d74330ec3&v=4" width="24" alt="Avatar of jakkra"> jakkra
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jakkra">Copy rank badge</a><br/>
 			Jakob Krantz
 		</td>
 		<td>@u-blox </td>
@@ -2332,7 +2334,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/etnt">
 				<img src="https://avatars.githubusercontent.com/u/5860?s=72&u=79b63a105cf70227065c8096e52aa470d3c62a6d&v=4" width="24" alt="Avatar of etnt"> etnt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#etnt">Copy rank badge</a><br/>
 			Torbjörn Törnkvist
 		</td>
 		<td>- </td>
@@ -2345,7 +2347,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/olensmar">
 				<img src="https://avatars.githubusercontent.com/u/1917063?s=72&u=9f191a1d33abebd7660569f379e595fd2e2c9086&v=4" width="24" alt="Avatar of olensmar"> olensmar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#olensmar">Copy rank badge</a><br/>
 			Ole Lensmar
 		</td>
 		<td>@kubeshop  </td>
@@ -2358,7 +2360,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/patriksvensson">
 				<img src="https://avatars.githubusercontent.com/u/357872?s=72&u=e5bc3f4894262ae20e947c5e46d9e1091986d018&v=4" width="24" alt="Avatar of patriksvensson"> patriksvensson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#patriksvensson">Copy rank badge</a><br/>
 			Patrik Svensson
 		</td>
 		<td>@spectresystems </td>
@@ -2371,7 +2373,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/knmcguire">
 				<img src="https://avatars.githubusercontent.com/u/11061260?s=72&u=00ea54e0c07b55800d30882e66244da9e761c019&v=4" width="24" alt="Avatar of knmcguire"> knmcguire
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#knmcguire">Copy rank badge</a><br/>
 			Kimberly N. McGuire
 		</td>
 		<td>No Company</td>
@@ -2384,7 +2386,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dfahlander">
 				<img src="https://avatars.githubusercontent.com/u/6791329?s=72&u=00e080283cf2988e1993962f85a82cf5a0ca3a3e&v=4" width="24" alt="Avatar of dfahlander"> dfahlander
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dfahlander">Copy rank badge</a><br/>
 			David Fahlander
 		</td>
 		<td>Awarica Ab </td>
@@ -2397,7 +2399,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/numbata">
 				<img src="https://avatars.githubusercontent.com/u/82400?s=72&v=4" width="24" alt="Avatar of numbata"> numbata
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#numbata">Copy rank badge</a><br/>
 			Andrei Subbota
 		</td>
 		<td>@mentimeter </td>
@@ -2410,7 +2412,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/bombsimon">
 				<img src="https://avatars.githubusercontent.com/u/3248948?s=72&u=b2f108328c0a7b3628f9aade62ad6b248f3eeb8c&v=4" width="24" alt="Avatar of bombsimon"> bombsimon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#bombsimon">Copy rank badge</a><br/>
 			Simon Sawert
 		</td>
 		<td>@validio-io </td>
@@ -2423,7 +2425,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Pinta365">
 				<img src="https://avatars.githubusercontent.com/u/19735646?s=72&u=7738af63635223bcf20d3d248d2b77629e047a44&v=4" width="24" alt="Avatar of Pinta365"> Pinta365
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Pinta365">Copy rank badge</a><br/>
 			Pinta
 		</td>
 		<td>No Company</td>
@@ -2436,7 +2438,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/simeg">
 				<img src="https://avatars.githubusercontent.com/u/8566054?s=72&u=e00157bd2170d5a8e3cf0cd3d76600322ca918f2&v=4" width="24" alt="Avatar of simeg"> simeg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#simeg">Copy rank badge</a><br/>
 			Simon Egersand
 		</td>
 		<td>@spotify </td>
@@ -2449,7 +2451,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/killercup">
 				<img src="https://avatars.githubusercontent.com/u/20063?s=72&v=4" width="24" alt="Avatar of killercup"> killercup
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#killercup">Copy rank badge</a><br/>
 			Pascal Hertleif
 		</td>
 		<td>@softleif </td>
@@ -2462,7 +2464,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/gaqzi">
 				<img src="https://avatars.githubusercontent.com/u/18167?s=72&v=4" width="24" alt="Avatar of gaqzi"> gaqzi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#gaqzi">Copy rank badge</a><br/>
 			Björn Andersson
 		</td>
 		<td>No Company</td>
@@ -2475,7 +2477,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/bjorng">
 				<img src="https://avatars.githubusercontent.com/u/74840?s=72&v=4" width="24" alt="Avatar of bjorng"> bjorng
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#bjorng">Copy rank badge</a><br/>
 			Björn Gustavsson
 		</td>
 		<td>No Company</td>
@@ -2488,7 +2490,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/tinaponting">
 				<img src="https://avatars.githubusercontent.com/u/3619162?s=72&u=b6b3fedfede27402924b41ffa7a5bb606876afcc&v=4" width="24" alt="Avatar of tinaponting"> tinaponting
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#tinaponting">Copy rank badge</a><br/>
 			Kristina Ponting  sweden
 		</td>
 		<td>Racewalker- Runner </td>
@@ -2501,7 +2503,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Dinnerbone">
 				<img src="https://avatars.githubusercontent.com/u/317625?s=72&u=d76f4a5cb101b216c09250d5be5593328e21c84f&v=4" width="24" alt="Avatar of Dinnerbone"> Dinnerbone
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Dinnerbone">Copy rank badge</a><br/>
 			Nathan Adams
 		</td>
 		<td>@mojang </td>
@@ -2514,7 +2516,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/hsjoberg">
 				<img src="https://avatars.githubusercontent.com/u/3824379?s=72&u=43f7872ad7cfeedf1187ebf9ab714eafaded74bf&v=4" width="24" alt="Avatar of hsjoberg"> hsjoberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#hsjoberg">Copy rank badge</a><br/>
 			Hampus Sjöberg
 		</td>
 		<td>No Company</td>
@@ -2527,7 +2529,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/lithammer">
 				<img src="https://avatars.githubusercontent.com/u/177685?s=72&u=b41c0aca56e26f6bac4249a57a45311db1f0d198&v=4" width="24" alt="Avatar of lithammer"> lithammer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#lithammer">Copy rank badge</a><br/>
 			Peter Lithammer
 		</td>
 		<td>@embarkstudios </td>
@@ -2540,7 +2542,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/hugowetterberg">
 				<img src="https://avatars.githubusercontent.com/u/30441?s=72&u=aa2533b31ef680ba183f1b4c276159f2852064e7&v=4" width="24" alt="Avatar of hugowetterberg"> hugowetterberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#hugowetterberg">Copy rank badge</a><br/>
 			Hugo Wetterberg
 		</td>
 		<td>@ttab </td>
@@ -2553,7 +2555,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/erwinvanhunen">
 				<img src="https://avatars.githubusercontent.com/u/7666381?s=72&u=38bb0ce5e0286997502f8fda54898a4ed71710c1&v=4" width="24" alt="Avatar of erwinvanhunen"> erwinvanhunen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#erwinvanhunen">Copy rank badge</a><br/>
 			Erwin van Hunen
 		</td>
 		<td>Mondaycoffee Ag </td>
@@ -2566,7 +2568,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Jacalz">
 				<img src="https://avatars.githubusercontent.com/u/25466657?s=72&u=02289a6bc8551222ed36d03f5d947f7658961687&v=4" width="24" alt="Avatar of Jacalz"> Jacalz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Jacalz">Copy rank badge</a><br/>
 			Jacob Alzén
 		</td>
 		<td>No Company</td>
@@ -2579,7 +2581,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/niklasl">
 				<img src="https://avatars.githubusercontent.com/u/29803?s=72&v=4" width="24" alt="Avatar of niklasl"> niklasl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#niklasl">Copy rank badge</a><br/>
 			Niklas Lindström
 		</td>
 		<td>@kungbib  </td>
@@ -2592,7 +2594,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kostis">
 				<img src="https://avatars.githubusercontent.com/u/165033?s=72&u=46e6db327ca4813a6732a60b9e3f1c1f74c1f2cf&v=4" width="24" alt="Avatar of kostis"> kostis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kostis">Copy rank badge</a><br/>
 			Kostis Sagonas
 		</td>
 		<td>Ntua, Greece + Uppsala<br/>University,<br/>Sweden<br/></td>
@@ -2605,7 +2607,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/abergs">
 				<img src="https://avatars.githubusercontent.com/u/357283?s=72&u=b9262cdc085c0cd6cc5f6b8f52454634fc0bb1b9&v=4" width="24" alt="Avatar of abergs"> abergs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#abergs">Copy rank badge</a><br/>
 			Anders Åberg
 		</td>
 		<td>Bitwarden </td>
@@ -2618,7 +2620,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/cheerfulstoic">
 				<img src="https://avatars.githubusercontent.com/u/301415?s=72&u=47da8331c737c56641588d955fb094ea0dfcdb74&v=4" width="24" alt="Avatar of cheerfulstoic"> cheerfulstoic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#cheerfulstoic">Copy rank badge</a><br/>
 			Brian Underwood
 		</td>
 		<td>Erlang Solutions </td>
@@ -2631,7 +2633,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/glrodasz">
 				<img src="https://avatars.githubusercontent.com/u/1431663?s=72&u=0df158149a8382a203273ec569ed139f4a6182dd&v=4" width="24" alt="Avatar of glrodasz"> glrodasz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#glrodasz">Copy rank badge</a><br/>
 			Guillermo Rodas
 		</td>
 		<td>No Company</td>
@@ -2644,7 +2646,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/fredr">
 				<img src="https://avatars.githubusercontent.com/u/762956?s=72&v=4" width="24" alt="Avatar of fredr"> fredr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#fredr">Copy rank badge</a><br/>
 			Fredrik Enestad
 		</td>
 		<td>@encoredev </td>
@@ -2657,7 +2659,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ivargrimstad">
 				<img src="https://avatars.githubusercontent.com/u/149188?s=72&u=019baebed4fdb2951bd8d46ce64999cff810e027&v=4" width="24" alt="Avatar of ivargrimstad"> ivargrimstad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ivargrimstad">Copy rank badge</a><br/>
 			Ivar Grimstad
 		</td>
 		<td>No Company</td>
@@ -2670,7 +2672,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/alexlarsson">
 				<img src="https://avatars.githubusercontent.com/u/990736?s=72&v=4" width="24" alt="Avatar of alexlarsson"> alexlarsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#alexlarsson">Copy rank badge</a><br/>
 			Alexander Larsson
 		</td>
 		<td>No Company</td>
@@ -2683,7 +2685,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/john-tornblom">
 				<img src="https://avatars.githubusercontent.com/u/547534?s=72&v=4" width="24" alt="Avatar of john-tornblom"> john-tornblom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#john-tornblom">Copy rank badge</a><br/>
 			John Törnblom
 		</td>
 		<td>No Company</td>
@@ -2696,7 +2698,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/veggiemonk">
 				<img src="https://avatars.githubusercontent.com/u/5487021?s=72&u=b585317a55eee3d3c59eaad4ebf8e79c5998005f&v=4" width="24" alt="Avatar of veggiemonk"> veggiemonk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#veggiemonk">Copy rank badge</a><br/>
 			Julien Bisconti
 		</td>
 		<td>No Company</td>
@@ -2709,7 +2711,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/andoma">
 				<img src="https://avatars.githubusercontent.com/u/216384?s=72&v=4" width="24" alt="Avatar of andoma"> andoma
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#andoma">Copy rank badge</a><br/>
 			Andreas Smas
 		</td>
 		<td>No Company</td>
@@ -2722,7 +2724,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/renatoathaydes">
 				<img src="https://avatars.githubusercontent.com/u/1901277?s=72&v=4" width="24" alt="Avatar of renatoathaydes"> renatoathaydes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#renatoathaydes">Copy rank badge</a><br/>
 			Renato Athaydes
 		</td>
 		<td>Curity </td>
@@ -2735,7 +2737,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mikaelvesavuori">
 				<img src="https://avatars.githubusercontent.com/u/23580994?s=72&u=f0c36772e539105f73230678e8c86909a841377e&v=4" width="24" alt="Avatar of mikaelvesavuori"> mikaelvesavuori
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mikaelvesavuori">Copy rank badge</a><br/>
 			Mikael Vesavuori
 		</td>
 		<td>@molnoscloud @phasetdev  </td>
@@ -2748,7 +2750,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/emilybache">
 				<img src="https://avatars.githubusercontent.com/u/48844?s=72&u=9ebc29cfa3edd85c0bdbdad1e64a30e77985b843&v=4" width="24" alt="Avatar of emilybache"> emilybache
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#emilybache">Copy rank badge</a><br/>
 			Emily Bache
 		</td>
 		<td>Bache Consulting </td>
@@ -2761,7 +2763,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mattiasvillani">
 				<img src="https://avatars.githubusercontent.com/u/1288479?s=72&u=f9a50ebb8a59767f2aba982881ff94312d6b67c8&v=4" width="24" alt="Avatar of mattiasvillani"> mattiasvillani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mattiasvillani">Copy rank badge</a><br/>
 			Mattias Villani
 		</td>
 		<td>Stockholm University </td>
@@ -2774,7 +2776,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/heyman">
 				<img src="https://avatars.githubusercontent.com/u/54217?s=72&u=26fff55717cc6243493162f9204b129e12535702&v=4" width="24" alt="Avatar of heyman"> heyman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#heyman">Copy rank badge</a><br/>
 			Jonatan Heyman
 		</td>
 		<td>Heylab </td>
@@ -2787,7 +2789,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/pmmmwh">
 				<img src="https://avatars.githubusercontent.com/u/9338255?s=72&u=0b748539c151acf36871fdf53cb52c9f150bf1a4&v=4" width="24" alt="Avatar of pmmmwh"> pmmmwh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#pmmmwh">Copy rank badge</a><br/>
 			Michael Mok
 		</td>
 		<td>@mimohq </td>
@@ -2800,7 +2802,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/JeremyVyska">
 				<img src="https://avatars.githubusercontent.com/u/35526546?s=72&u=b4f8bac83a020c99942592d313680879205236ba&v=4" width="24" alt="Avatar of JeremyVyska"> JeremyVyska
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#JeremyVyska">Copy rank badge</a><br/>
 			Jeremy Vyska
 		</td>
 		<td>Brightcom Solutions Ab </td>
@@ -2813,7 +2815,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Jake-Shadle">
 				<img src="https://avatars.githubusercontent.com/u/2316028?s=72&u=0212263d60e16a08c898f9159f252efdfa19eae9&v=4" width="24" alt="Avatar of Jake-Shadle"> Jake-Shadle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Jake-Shadle">Copy rank badge</a><br/>
 			Jake Shadle
 		</td>
 		<td>@embarkstudios </td>
@@ -2826,7 +2828,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ulrikstrid">
 				<img src="https://avatars.githubusercontent.com/u/1607770?s=72&u=1722648d7596bba906ebe09dc47d806766057295&v=4" width="24" alt="Avatar of ulrikstrid"> ulrikstrid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ulrikstrid">Copy rank badge</a><br/>
 			Ulrik Strid
 		</td>
 		<td>Strid Tech Ab </td>
@@ -2839,7 +2841,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kappsegla">
 				<img src="https://avatars.githubusercontent.com/u/5329974?s=72&u=5d35c9342e4b96b4668190415d8be588ad82ab20&v=4" width="24" alt="Avatar of kappsegla"> kappsegla
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kappsegla">Copy rank badge</a><br/>
 			Martin Blomberg
 		</td>
 		<td>No Company</td>
@@ -2852,7 +2854,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/fltman">
 				<img src="https://avatars.githubusercontent.com/u/102783063?s=72&v=4" width="24" alt="Avatar of fltman"> fltman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#fltman">Copy rank badge</a><br/>
 			Anders Bjarby
 		</td>
 		<td>Brattoo Ab </td>
@@ -2865,7 +2867,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/nevyn">
 				<img src="https://avatars.githubusercontent.com/u/34791?s=72&u=2ab618672ca18a0688b49c7ece18e799605e2cb6&v=4" width="24" alt="Avatar of nevyn"> nevyn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#nevyn">Copy rank badge</a><br/>
 			Nevyn Bengtsson
 		</td>
 		<td>@alloverse And @lookback </td>
@@ -2878,7 +2880,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/KATT">
 				<img src="https://avatars.githubusercontent.com/u/459267?s=72&u=3cabbc9b4739fa20d06b154410198d0ac13592c6&v=4" width="24" alt="Avatar of KATT"> KATT
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#KATT">Copy rank badge</a><br/>
 			Alex / KATT
 		</td>
 		<td>No Company</td>
@@ -2891,7 +2893,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/bittin">
 				<img src="https://avatars.githubusercontent.com/u/43197?s=72&u=2041498b1740f769b1acab7e4e8dfd00cce9ab6c&v=4" width="24" alt="Avatar of bittin"> bittin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#bittin">Copy rank badge</a><br/>
 			Luna Jernberg
 		</td>
 		<td>No Company</td>
@@ -2904,7 +2906,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ChrisKlug">
 				<img src="https://avatars.githubusercontent.com/u/2353256?s=72&u=bc70f431aa2b88c402c314eecca1779c6d914e4b&v=4" width="24" alt="Avatar of ChrisKlug"> ChrisKlug
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ChrisKlug">Copy rank badge</a><br/>
 			Chris Klug
 		</td>
 		<td>@activesolution </td>
@@ -2917,7 +2919,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mkschreder">
 				<img src="https://avatars.githubusercontent.com/u/4483721?s=72&u=0c40aa8de8127c31423257e0593ae03b640a3550&v=4" width="24" alt="Avatar of mkschreder"> mkschreder
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mkschreder">Copy rank badge</a><br/>
 			Martin Schröder
 		</td>
 		<td>@swedishembedded  </td>
@@ -2930,7 +2932,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jhaals">
 				<img src="https://avatars.githubusercontent.com/u/68980?s=72&u=a60f67ece9b4e0f2dbfd29b85b0f298ff8b26ef0&v=4" width="24" alt="Avatar of jhaals"> jhaals
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jhaals">Copy rank badge</a><br/>
 			Johan Haals
 		</td>
 		<td>Spotify </td>
@@ -2943,7 +2945,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/eandre">
 				<img src="https://avatars.githubusercontent.com/u/425456?s=72&u=7667aa1f93d806c2360d7666adde5ac87fa9728c&v=4" width="24" alt="Avatar of eandre"> eandre
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#eandre">Copy rank badge</a><br/>
 			André Eriksson
 		</td>
 		<td>@encoredev </td>
@@ -2956,7 +2958,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ErikReider">
 				<img src="https://avatars.githubusercontent.com/u/35975961?s=72&v=4" width="24" alt="Avatar of ErikReider"> ErikReider
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ErikReider">Copy rank badge</a><br/>
 			Erik Reider
 		</td>
 		<td>No Company</td>
@@ -2969,7 +2971,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Enselic">
 				<img src="https://avatars.githubusercontent.com/u/115040?s=72&u=283158de638e85254cea70c61f0ace4a77c5f7a7&v=4" width="24" alt="Avatar of Enselic"> Enselic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Enselic">Copy rank badge</a><br/>
 			Martin Nordholts
 		</td>
 		<td>No Company</td>
@@ -2982,7 +2984,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/C4illin">
 				<img src="https://avatars.githubusercontent.com/u/20753603?s=72&u=fa4667de4968e743c089b88b336de141346daf6e&v=4" width="24" alt="Avatar of C4illin"> C4illin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#C4illin">Copy rank badge</a><br/>
 			Emrik Östling
 		</td>
 		<td>Evinova </td>
@@ -2995,7 +2997,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ennru">
 				<img src="https://avatars.githubusercontent.com/u/458526?s=72&u=2fb7ddac10ff4acbf3f439061efdc1225094b468&v=4" width="24" alt="Avatar of ennru"> ennru
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ennru">Copy rank badge</a><br/>
 			Enno Runne
 		</td>
 		<td>@akka  </td>
@@ -3008,7 +3010,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mosbth">
 				<img src="https://avatars.githubusercontent.com/u/169550?s=72&u=93c0afb75d5acf00b4339afb65cc9c636ff23b01&v=4" width="24" alt="Avatar of mosbth"> mosbth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mosbth">Copy rank badge</a><br/>
 			Mikael Roos
 		</td>
 		<td>Sifero & Blekinge Institute<br/>Of<br/>Technology<br/></td>
@@ -3021,7 +3023,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/lydell">
 				<img src="https://avatars.githubusercontent.com/u/2142817?s=72&u=6bf21d3208a5807e06babbeb5e3ea26f842346db&v=4" width="24" alt="Avatar of lydell"> lydell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#lydell">Copy rank badge</a><br/>
 			Simon Lydell
 		</td>
 		<td>Savr </td>
@@ -3034,7 +3036,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/zth">
 				<img src="https://avatars.githubusercontent.com/u/1457626?s=72&u=afdf441987349e22016cbbc7be73ae303d840a00&v=4" width="24" alt="Avatar of zth"> zth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#zth">Copy rank badge</a><br/>
 			Gabriel Nordeborn
 		</td>
 		<td>Arizon </td>
@@ -3047,7 +3049,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/vedderb">
 				<img src="https://avatars.githubusercontent.com/u/2311760?s=72&v=4" width="24" alt="Avatar of vedderb"> vedderb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#vedderb">Copy rank badge</a><br/>
 			Benjamin Vedder
 		</td>
 		<td>No Company</td>
@@ -3060,7 +3062,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ranisalt">
 				<img src="https://avatars.githubusercontent.com/u/1993083?s=72&u=4f833af18f4764154dfafd4a492bb2e9be46a46d&v=4" width="24" alt="Avatar of ranisalt"> ranisalt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ranisalt">Copy rank badge</a><br/>
 			Ranieri Althoff
 		</td>
 		<td>@volvo-cars </td>
@@ -3073,7 +3075,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/andreineculau">
 				<img src="https://avatars.githubusercontent.com/u/708161?s=72&u=02fa2fd38c5d5a481f17b9dad09d77820c71e6a6&v=4" width="24" alt="Avatar of andreineculau"> andreineculau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#andreineculau">Copy rank badge</a><br/>
 			Andrei Neculau
 		</td>
 		<td>No Company</td>
@@ -3086,7 +3088,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Swepool">
 				<img src="https://avatars.githubusercontent.com/u/36674091?s=72&u=0ad83d60cf254c3b5cbee670573b004a6db54958&v=4" width="24" alt="Avatar of Swepool"> Swepool
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Swepool">Copy rank badge</a><br/>
 			Lukas
 		</td>
 		<td>No Company</td>
@@ -3099,7 +3101,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/robertoaloi">
 				<img src="https://avatars.githubusercontent.com/u/91769?s=72&v=4" width="24" alt="Avatar of robertoaloi"> robertoaloi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#robertoaloi">Copy rank badge</a><br/>
 			Roberto Aloi
 		</td>
 		<td>Whatsapp </td>
@@ -3112,7 +3114,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/urre">
 				<img src="https://avatars.githubusercontent.com/u/307676?s=72&v=4" width="24" alt="Avatar of urre"> urre
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#urre">Copy rank badge</a><br/>
 			Urban Sandén
 		</td>
 		<td>@urre </td>
@@ -3125,7 +3127,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/bjornharrtell">
 				<img src="https://avatars.githubusercontent.com/u/141030?s=72&u=9b6f0795c7eeed4e76f38008e21ebc1c36c73233&v=4" width="24" alt="Avatar of bjornharrtell"> bjornharrtell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#bjornharrtell">Copy rank badge</a><br/>
 			Björn Harrtell
 		</td>
 		<td>@septima </td>
@@ -3138,7 +3140,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/rockbruno">
 				<img src="https://avatars.githubusercontent.com/u/11647449?s=72&u=b88f1dabafbaaa5ec04ceacf3e1ebe4c1bad32ca&v=4" width="24" alt="Avatar of rockbruno"> rockbruno
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#rockbruno">Copy rank badge</a><br/>
 			Bruno Rocha
 		</td>
 		<td>Spotify </td>
@@ -3151,7 +3153,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/NiclasOlofsson">
 				<img src="https://avatars.githubusercontent.com/u/8754750?s=72&u=43dde54ed18111a687a05b52b63734ca9c27b15f&v=4" width="24" alt="Avatar of NiclasOlofsson"> NiclasOlofsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#NiclasOlofsson">Copy rank badge</a><br/>
 			Niclas Olofsson
 		</td>
 		<td>Oatly </td>
@@ -3164,7 +3166,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/vlidholt">
 				<img src="https://avatars.githubusercontent.com/u/1539812?s=72&u=5ad18ebe931984a1dc3ec7a910949eb239592618&v=4" width="24" alt="Avatar of vlidholt"> vlidholt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#vlidholt">Copy rank badge</a><br/>
 			Viktor Lidholt
 		</td>
 		<td>Serverpod </td>
@@ -3177,7 +3179,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/bfredl">
 				<img src="https://avatars.githubusercontent.com/u/1363104?s=72&u=3d7e8b3269db4fce5abeb8f6edc3d648d6cf9e5b&v=4" width="24" alt="Avatar of bfredl"> bfredl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#bfredl">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -3190,7 +3192,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/zcorpan">
 				<img src="https://avatars.githubusercontent.com/u/244772?s=72&u=0c109a472bad24e5cf459b88d1e30c867fdbf53e&v=4" width="24" alt="Avatar of zcorpan"> zcorpan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#zcorpan">Copy rank badge</a><br/>
 			Simon Pieters
 		</td>
 		<td>Mozilla </td>
@@ -3203,7 +3205,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/korken89">
 				<img src="https://avatars.githubusercontent.com/u/913109?s=72&u=1a23bb02d8934fde4e6683522531d84c09cdac90&v=4" width="24" alt="Avatar of korken89"> korken89
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#korken89">Copy rank badge</a><br/>
 			Emil Fresk
 		</td>
 		<td>No Company</td>
@@ -3216,7 +3218,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/digama0">
 				<img src="https://avatars.githubusercontent.com/u/868588?s=72&v=4" width="24" alt="Avatar of digama0"> digama0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#digama0">Copy rank badge</a><br/>
 			Mario Carneiro
 		</td>
 		<td>Chalmers University Of Technology<br/></td>
@@ -3229,7 +3231,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mhagander">
 				<img src="https://avatars.githubusercontent.com/u/174657?s=72&v=4" width="24" alt="Avatar of mhagander"> mhagander
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mhagander">Copy rank badge</a><br/>
 			Magnus Hagander
 		</td>
 		<td>Redpill Linpro </td>
@@ -3242,7 +3244,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/terlar">
 				<img src="https://avatars.githubusercontent.com/u/280235?s=72&u=d7800c6b865cd81f66dde404e97f2db291840368&v=4" width="24" alt="Avatar of terlar"> terlar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#terlar">Copy rank badge</a><br/>
 			Terje Larsen
 		</td>
 		<td>No Company</td>
@@ -3255,7 +3257,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/gustavlrsn">
 				<img src="https://avatars.githubusercontent.com/u/1552194?s=72&u=767b363812c6dbe550db4bc0b404aa82c6cf6eed&v=4" width="24" alt="Avatar of gustavlrsn"> gustavlrsn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#gustavlrsn">Copy rank badge</a><br/>
 			Gustav Larsson
 		</td>
 		<td>@opencollective </td>
@@ -3268,7 +3270,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/wictorwilen">
 				<img src="https://avatars.githubusercontent.com/u/5854279?s=72&u=f503d90da0986daa74f0830aafdb490a516775df&v=4" width="24" alt="Avatar of wictorwilen"> wictorwilen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#wictorwilen">Copy rank badge</a><br/>
 			Wictor Wilén
 		</td>
 		<td>Microsoft </td>
@@ -3281,7 +3283,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/HaraldNordgren">
 				<img src="https://avatars.githubusercontent.com/u/9569897?s=72&u=1e752264d4cf712d17301d31ab002601c8e8018b&v=4" width="24" alt="Avatar of HaraldNordgren"> HaraldNordgren
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#HaraldNordgren">Copy rank badge</a><br/>
 			Harald Nordgren
 		</td>
 		<td>@dietdoctor </td>
@@ -3294,7 +3296,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jbilander">
 				<img src="https://avatars.githubusercontent.com/u/1673918?s=72&u=e4221745e75612a8ec02e5abb7d885a5be1a45c9&v=4" width="24" alt="Avatar of jbilander"> jbilander
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jbilander">Copy rank badge</a><br/>
 			Jorgen Bilander
 		</td>
 		<td>No Company</td>
@@ -3307,7 +3309,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/AxxAxx">
 				<img src="https://avatars.githubusercontent.com/u/12958429?s=72&u=98c37bfc6aa8704522c67509416cbe84a0baa160&v=4" width="24" alt="Avatar of AxxAxx"> AxxAxx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#AxxAxx">Copy rank badge</a><br/>
 			Axel Johansson
 		</td>
 		<td>No Company</td>
@@ -3320,7 +3322,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/minborg">
 				<img src="https://avatars.githubusercontent.com/u/7457876?s=72&u=0611372868b726b5a11f630253197086252073f3&v=4" width="24" alt="Avatar of minborg"> minborg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#minborg">Copy rank badge</a><br/>
 			Per-Ake Minborg
 		</td>
 		<td>Oracle, Inc </td>
@@ -3333,7 +3335,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/amakarudze">
 				<img src="https://avatars.githubusercontent.com/u/13593285?s=72&u=d18c6fa7887691cd25e8aa494624420f739408ff&v=4" width="24" alt="Avatar of amakarudze"> amakarudze
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#amakarudze">Copy rank badge</a><br/>
 			Anna Makarudze
 		</td>
 		<td>Django Girls Foundation </td>
@@ -3346,7 +3348,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/thiagokimo">
 				<img src="https://avatars.githubusercontent.com/u/1932485?s=72&u=fdedd718b0b4ea9f7fd9caa50b0a552ab6664f68&v=4" width="24" alt="Avatar of thiagokimo"> thiagokimo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#thiagokimo">Copy rank badge</a><br/>
 			Thiago Rocha
 		</td>
 		<td>No Company</td>
@@ -3359,7 +3361,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dainnilsson">
 				<img src="https://avatars.githubusercontent.com/u/140781?s=72&u=ebf6af50dc203d3dc3d9be6642d501478cd8982e&v=4" width="24" alt="Avatar of dainnilsson"> dainnilsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dainnilsson">Copy rank badge</a><br/>
 			Dain Nilsson
 		</td>
 		<td>Yubico </td>
@@ -3372,7 +3374,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/shiningflash">
 				<img src="https://avatars.githubusercontent.com/u/35567854?s=72&u=81e4954dccc81625c04dfec09e7367036e9ee314&v=4" width="24" alt="Avatar of shiningflash"> shiningflash
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#shiningflash">Copy rank badge</a><br/>
 			Amirul Islam
 		</td>
 		<td>Truxel </td>
@@ -3385,7 +3387,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/thani-sh">
 				<img src="https://avatars.githubusercontent.com/u/136691?s=72&u=04260f8851149395959ac555a86e69ed38443db8&v=4" width="24" alt="Avatar of thani-sh"> thani-sh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#thani-sh">Copy rank badge</a><br/>
 			Thanish Nizam
 		</td>
 		<td>No Company</td>
@@ -3398,7 +3400,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/lefant">
 				<img src="https://avatars.githubusercontent.com/u/64208?s=72&u=bcfeadcb9aebe2d2b70907c8c23d807006a03228&v=4" width="24" alt="Avatar of lefant"> lefant
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#lefant">Copy rank badge</a><br/>
 			Fabian Linzberger
 		</td>
 		<td>No Company</td>
@@ -3411,7 +3413,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/torkelo">
 				<img src="https://avatars.githubusercontent.com/u/10999?s=72&u=00ee9b9643b8eafd5df664bad66f196ff32bd9ed&v=4" width="24" alt="Avatar of torkelo"> torkelo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#torkelo">Copy rank badge</a><br/>
 			Torkel Ödegaard
 		</td>
 		<td>Grafana Labs </td>
@@ -3424,7 +3426,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/eriksvedang">
 				<img src="https://avatars.githubusercontent.com/u/356121?s=72&u=c8d69b066549b0092df75dfedfb163da55c9da13&v=4" width="24" alt="Avatar of eriksvedang"> eriksvedang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#eriksvedang">Copy rank badge</a><br/>
 			Erik Svedäng
 		</td>
 		<td>No Company</td>
@@ -3437,7 +3439,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/lassekongo83">
 				<img src="https://avatars.githubusercontent.com/u/7415624?s=72&v=4" width="24" alt="Avatar of lassekongo83"> lassekongo83
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#lassekongo83">Copy rank badge</a><br/>
 			Mattias
 		</td>
 		<td>No Company</td>
@@ -3450,7 +3452,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/johanhaleby">
 				<img src="https://avatars.githubusercontent.com/u/187029?s=72&u=0158265b5694cfaf1272295f15249c8c9a3ea77e&v=4" width="24" alt="Avatar of johanhaleby"> johanhaleby
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#johanhaleby">Copy rank badge</a><br/>
 			Johan Haleby
 		</td>
 		<td>Parkster </td>
@@ -3463,7 +3465,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dvdplm">
 				<img src="https://avatars.githubusercontent.com/u/18515?s=72&v=4" width="24" alt="Avatar of dvdplm"> dvdplm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dvdplm">Copy rank badge</a><br/>
 			David
 		</td>
 		<td>No Company</td>
@@ -3476,7 +3478,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kaishin">
 				<img src="https://avatars.githubusercontent.com/u/519433?s=72&u=081c5f190caf53b0ac22ce5f0f0a95509e7c1254&v=4" width="24" alt="Avatar of kaishin"> kaishin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kaishin">Copy rank badge</a><br/>
 			Reda Lemeden
 		</td>
 		<td>@4rays  </td>
@@ -3489,7 +3491,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/larsbrinkhoff">
 				<img src="https://avatars.githubusercontent.com/u/775050?s=72&u=4aeecedf771c1b5adfc2454c6804dc1c69746dce&v=4" width="24" alt="Avatar of larsbrinkhoff"> larsbrinkhoff
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#larsbrinkhoff">Copy rank badge</a><br/>
 			Lars Brinkhoff
 		</td>
 		<td>No Company</td>
@@ -3502,7 +3504,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/simonbengtsson">
 				<img src="https://avatars.githubusercontent.com/u/3586691?s=72&u=353d8470f51a7492e750ebf67901878c78a99fb0&v=4" width="24" alt="Avatar of simonbengtsson"> simonbengtsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#simonbengtsson">Copy rank badge</a><br/>
 			Simon Bengtsson
 		</td>
 		<td>Peach </td>
@@ -3515,7 +3517,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ataffanel">
 				<img src="https://avatars.githubusercontent.com/u/6381499?s=72&u=fce7aa3c60bc37fa98f350551fd60d005f465915&v=4" width="24" alt="Avatar of ataffanel"> ataffanel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ataffanel">Copy rank badge</a><br/>
 			Arnaud Taffanel
 		</td>
 		<td>@bitcraze  </td>
@@ -3528,7 +3530,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/albingroen">
 				<img src="https://avatars.githubusercontent.com/u/19674362?s=72&u=9ee7aba40146fc3cf7466e941ceb24f2d7c883a3&v=4" width="24" alt="Avatar of albingroen"> albingroen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#albingroen">Copy rank badge</a><br/>
 			Albin Groen
 		</td>
 		<td>@allears-ai  </td>
@@ -3541,7 +3543,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mewmew">
 				<img src="https://avatars.githubusercontent.com/u/1414531?s=72&u=e7820e4736743b3899346f00fc5765ea45086116&v=4" width="24" alt="Avatar of mewmew"> mewmew
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mewmew">Copy rank badge</a><br/>
 			Robin
 		</td>
 		<td>No Company</td>
@@ -3554,7 +3556,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/samuell">
 				<img src="https://avatars.githubusercontent.com/u/125003?s=72&u=d8e9d922b1b720af2b70f9284f9135c57e5c5642&v=4" width="24" alt="Avatar of samuell"> samuell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#samuell">Copy rank badge</a><br/>
 			Samuel Lampa
 		</td>
 		<td>Karolinska University Hospital </td>
@@ -3567,7 +3569,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/maandree">
 				<img src="https://avatars.githubusercontent.com/u/1611742?s=72&u=e75bb501cc2c56cd152b826294e2dcc51f3dc403&v=4" width="24" alt="Avatar of maandree"> maandree
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#maandree">Copy rank badge</a><br/>
 			Mattias Andrée
 		</td>
 		<td>No Company</td>
@@ -3580,7 +3582,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/LinusU">
 				<img src="https://avatars.githubusercontent.com/u/189580?s=72&u=781f2fa82feb68f17afa9d05d7d049f6e81c9f38&v=4" width="24" alt="Avatar of LinusU"> LinusU
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#LinusU">Copy rank badge</a><br/>
 			Linus Unnebäck
 		</td>
 		<td>@locoapp @ctrl-alt-deseat  </td>
@@ -3593,7 +3595,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Ecstasy-EC">
 				<img src="https://avatars.githubusercontent.com/u/22725279?s=72&u=483a7c0f83dae1de2c934b3ff37fe34c4d04fdd1&v=4" width="24" alt="Avatar of Ecstasy-EC"> Ecstasy-EC
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Ecstasy-EC">Copy rank badge</a><br/>
 			Yixi Cai
 		</td>
 		<td>@hku-mars  </td>
@@ -3606,7 +3608,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/powercode">
 				<img src="https://avatars.githubusercontent.com/u/3505151?s=72&u=590d778f57c0059940a1997697f38461b9866029&v=4" width="24" alt="Avatar of powercode"> powercode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#powercode">Copy rank badge</a><br/>
 			Staffan Gustafsson
 		</td>
 		<td>Dice </td>
@@ -3619,7 +3621,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jackpoz">
 				<img src="https://avatars.githubusercontent.com/u/1153754?s=72&u=900647776c6bd521650d487eaaa8c8974181ac8c&v=4" width="24" alt="Avatar of jackpoz"> jackpoz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jackpoz">Copy rank badge</a><br/>
 			Giacomo Pozzoni
 		</td>
 		<td>Stena Group It </td>
@@ -3632,7 +3634,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/sodiboo">
 				<img src="https://avatars.githubusercontent.com/u/37938646?s=72&u=3f07dacab24bcf207e269dc2be8fccaf7b9a1b94&v=4" width="24" alt="Avatar of sodiboo"> sodiboo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#sodiboo">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -3645,7 +3647,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mihe">
 				<img src="https://avatars.githubusercontent.com/u/4884246?s=72&v=4" width="24" alt="Avatar of mihe"> mihe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mihe">Copy rank badge</a><br/>
 			Mikael Hermansson
 		</td>
 		<td>W4 Games </td>
@@ -3658,7 +3660,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/frozzare">
 				<img src="https://avatars.githubusercontent.com/u/14610?s=72&u=10ade710f8a1f98661c2496b09de5dc310a9cdca&v=4" width="24" alt="Avatar of frozzare"> frozzare
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#frozzare">Copy rank badge</a><br/>
 			Fredrik Forsmo
 		</td>
 		<td>No Company</td>
@@ -3671,7 +3673,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mikel-brostrom">
 				<img src="https://avatars.githubusercontent.com/u/18719680?s=72&u=468559473a17b2feadaed2b800639c83c84e19b9&v=4" width="24" alt="Avatar of mikel-brostrom"> mikel-brostrom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mikel-brostrom">Copy rank badge</a><br/>
 			Mike
 		</td>
 		<td>No Company</td>
@@ -3684,7 +3686,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/DanielMartensson">
 				<img src="https://avatars.githubusercontent.com/u/28505229?s=72&u=a6bde000bb2befe8db2ea30952fcbcec36129ca0&v=4" width="24" alt="Avatar of DanielMartensson"> DanielMartensson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#DanielMartensson">Copy rank badge</a><br/>
 			Daniel Mårtensson
 		</td>
 		<td>No Company</td>
@@ -3697,7 +3699,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jkhoeini">
 				<img src="https://avatars.githubusercontent.com/u/2345773?s=72&v=4" width="24" alt="Avatar of jkhoeini"> jkhoeini
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jkhoeini">Copy rank badge</a><br/>
 			Jonathan Khoeini
 		</td>
 		<td>Spotify </td>
@@ -3710,7 +3712,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dgud">
 				<img src="https://avatars.githubusercontent.com/u/80937?s=72&v=4" width="24" alt="Avatar of dgud"> dgud
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dgud">Copy rank badge</a><br/>
 			Dan Gudmundsson
 		</td>
 		<td>@erlang  </td>
@@ -3723,7 +3725,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/raiyanyahya">
 				<img src="https://avatars.githubusercontent.com/u/23720340?s=72&u=96560ba763ca56dfd1049a37db3f714491d9446d&v=4" width="24" alt="Avatar of raiyanyahya"> raiyanyahya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#raiyanyahya">Copy rank badge</a><br/>
 			Raiyan Yahya
 		</td>
 		<td>💻🖱️ </td>
@@ -3736,7 +3738,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/rarkins">
 				<img src="https://avatars.githubusercontent.com/u/6311784?s=72&u=170a8b4c60557af1ff9a7eea0089f7e4c2716507&v=4" width="24" alt="Avatar of rarkins"> rarkins
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#rarkins">Copy rank badge</a><br/>
 			Rhys Arkins
 		</td>
 		<td>No Company</td>
@@ -3749,7 +3751,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/teoljungberg">
 				<img src="https://avatars.githubusercontent.com/u/810650?s=72&u=7b43a1fa18e42c8db514fabc6724d9dc51e30c2f&v=4" width="24" alt="Avatar of teoljungberg"> teoljungberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#teoljungberg">Copy rank badge</a><br/>
 			Teo Ljungberg
 		</td>
 		<td>No Company</td>
@@ -3762,7 +3764,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/iffyio">
 				<img src="https://avatars.githubusercontent.com/u/7816405?s=72&u=d5e38ac7af164f2f601ac030babda72ca1b4c0ff&v=4" width="24" alt="Avatar of iffyio"> iffyio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#iffyio">Copy rank badge</a><br/>
 			Ifeanyi Ubah
 		</td>
 		<td>No Company</td>
@@ -3775,7 +3777,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Nyholm">
 				<img src="https://avatars.githubusercontent.com/u/1275206?s=72&v=4" width="24" alt="Avatar of Nyholm"> Nyholm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Nyholm">Copy rank badge</a><br/>
 			Tobias Nyholm
 		</td>
 		<td>Eneba </td>
@@ -3788,7 +3790,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/hashier">
 				<img src="https://avatars.githubusercontent.com/u/92332?s=72&u=1fc9d50e3aa526dceef369c8bc5934dd12490440&v=4" width="24" alt="Avatar of hashier"> hashier
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#hashier">Copy rank badge</a><br/>
 			Christopher Loessl
 		</td>
 		<td>Visa </td>
@@ -3801,7 +3803,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jendrikseipp">
 				<img src="https://avatars.githubusercontent.com/u/213955?s=72&u=b6b27f3e5df079c2d66e2b51ddc13da7fd804250&v=4" width="24" alt="Avatar of jendrikseipp"> jendrikseipp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jendrikseipp">Copy rank badge</a><br/>
 			Jendrik Seipp
 		</td>
 		<td>No Company</td>
@@ -3814,7 +3816,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mglantz">
 				<img src="https://avatars.githubusercontent.com/u/16682462?s=72&u=51caf46399123308ba43270321bc665928219cf6&v=4" width="24" alt="Avatar of mglantz"> mglantz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mglantz">Copy rank badge</a><br/>
 			Magnus Glantz
 		</td>
 		<td>@redhatofficial </td>
@@ -3827,7 +3829,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/qnguyen3">
 				<img src="https://avatars.githubusercontent.com/u/42907738?s=72&u=5c3a7bf5ea1a16aafa6dfb5c5d47bae3c1ae605b&v=4" width="24" alt="Avatar of qnguyen3"> qnguyen3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#qnguyen3">Copy rank badge</a><br/>
 			Quan Nguyen
 		</td>
 		<td>Skawld Inc. </td>
@@ -3840,7 +3842,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/patrickbryant1">
 				<img src="https://avatars.githubusercontent.com/u/12907385?s=72&u=816beb86be306d1711d20dc79bcda05629da2bcd&v=4" width="24" alt="Avatar of patrickbryant1"> patrickbryant1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#patrickbryant1">Copy rank badge</a><br/>
 			Patrick Bryant
 		</td>
 		<td>No Company</td>
@@ -3853,7 +3855,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/brainstorm">
 				<img src="https://avatars.githubusercontent.com/u/175587?s=72&v=4" width="24" alt="Avatar of brainstorm"> brainstorm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#brainstorm">Copy rank badge</a><br/>
 			Roman Valls Guimera
 		</td>
 		<td>No Company</td>
@@ -3866,7 +3868,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jimdowling">
 				<img src="https://avatars.githubusercontent.com/u/1904928?s=72&u=da3ed9841303d2d9634c40f1d2233503434e032b&v=4" width="24" alt="Avatar of jimdowling"> jimdowling
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jimdowling">Copy rank badge</a><br/>
 			Jim Dowling
 		</td>
 		<td>Hopsworks </td>
@@ -3879,7 +3881,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/DavidVujic">
 				<img src="https://avatars.githubusercontent.com/u/301286?s=72&u=38e6d4b20488018cd0ab904b13c9f1355f3b3d6f&v=4" width="24" alt="Avatar of DavidVujic"> DavidVujic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#DavidVujic">Copy rank badge</a><br/>
 			David Vujic
 		</td>
 		<td>No Company</td>
@@ -3892,7 +3894,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/pauldreik">
 				<img src="https://avatars.githubusercontent.com/u/3541498?s=72&u=14b5fd5e09af4189853c91fae1934f247292e7fb&v=4" width="24" alt="Avatar of pauldreik"> pauldreik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#pauldreik">Copy rank badge</a><br/>
 			Paul Dreik
 		</td>
 		<td>No Company</td>
@@ -3905,7 +3907,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/EngstromJimmy">
 				<img src="https://avatars.githubusercontent.com/u/2390244?s=72&u=caee39c7f26a309e5261c75a35b982aefc9d1b24&v=4" width="24" alt="Avatar of EngstromJimmy"> EngstromJimmy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#EngstromJimmy">Copy rank badge</a><br/>
 			Jimmy Engstrom
 		</td>
 		<td>Azm Dev </td>
@@ -3918,7 +3920,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/CendioOssman">
 				<img src="https://avatars.githubusercontent.com/u/6640916?s=72&v=4" width="24" alt="Avatar of CendioOssman"> CendioOssman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#CendioOssman">Copy rank badge</a><br/>
 			Pierre Ossman (ThinLinc team)
 		</td>
 		<td>@cendio  </td>
@@ -3931,7 +3933,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Olof-Lagerkvist">
 				<img src="https://avatars.githubusercontent.com/u/5272825?s=72&u=8d68aeda8328e148f4066ff387193f5352be7800&v=4" width="24" alt="Avatar of Olof-Lagerkvist"> Olof-Lagerkvist
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Olof-Lagerkvist">Copy rank badge</a><br/>
 			Olof Lagerkvist (LTRData)
 		</td>
 		<td>Ltr Data </td>
@@ -3944,7 +3946,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/maciekish">
 				<img src="https://avatars.githubusercontent.com/u/442007?s=72&v=4" width="24" alt="Avatar of maciekish"> maciekish
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#maciekish">Copy rank badge</a><br/>
 			Maciej Swic
 		</td>
 		<td>Appulize </td>
@@ -3957,7 +3959,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/nglgzz">
 				<img src="https://avatars.githubusercontent.com/u/13448636?s=72&u=7745a1967d80f59a5a05636ebcc826c7fedac195&v=4" width="24" alt="Avatar of nglgzz"> nglgzz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#nglgzz">Copy rank badge</a><br/>
 			Angelo Gazzola
 		</td>
 		<td>No Company</td>
@@ -3970,7 +3972,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/hkupty">
 				<img src="https://avatars.githubusercontent.com/u/2695819?s=72&u=fca316cc6f265a1567af09a469a5e9a12e16c5f7&v=4" width="24" alt="Avatar of hkupty"> hkupty
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#hkupty">Copy rank badge</a><br/>
 			Henry John Kupty
 		</td>
 		<td>No Company</td>
@@ -3983,7 +3985,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/attack68">
 				<img src="https://avatars.githubusercontent.com/u/24256554?s=72&u=2c5f8635868c717eaff1605ddfc87c4077329ecd&v=4" width="24" alt="Avatar of attack68"> attack68
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#attack68">Copy rank badge</a><br/>
 			JHM Darbyshire
 		</td>
 		<td>No Company</td>
@@ -3996,7 +3998,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/palmskog">
 				<img src="https://avatars.githubusercontent.com/u/397424?s=72&u=8bdbffd14ab7e9053d4a655f482aee760793c783&v=4" width="24" alt="Avatar of palmskog"> palmskog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#palmskog">Copy rank badge</a><br/>
 			Karl Palmskog
 		</td>
 		<td>Kth Royal Institute Of<br/>Technology<br/></td>
@@ -4009,7 +4011,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mikaelkaron">
 				<img src="https://avatars.githubusercontent.com/u/478468?s=72&u=9f26a1519b2abfde87bb7277d016326b54993781&v=4" width="24" alt="Avatar of mikaelkaron"> mikaelkaron
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mikaelkaron">Copy rank badge</a><br/>
 			Mikael Karon
 		</td>
 		<td>@wetryfun </td>
@@ -4022,7 +4024,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/freider">
 				<img src="https://avatars.githubusercontent.com/u/2393194?s=72&v=4" width="24" alt="Avatar of freider"> freider
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#freider">Copy rank badge</a><br/>
 			Elias Freider
 		</td>
 		<td>Modal Labs </td>
@@ -4035,7 +4037,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/FantasticFiasco">
 				<img src="https://avatars.githubusercontent.com/u/8513095?s=72&u=8ec24f369fbffe96ee3281f14878cbb3f5a2836b&v=4" width="24" alt="Avatar of FantasticFiasco"> FantasticFiasco
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#FantasticFiasco">Copy rank badge</a><br/>
 			Mattias Kindborg
 		</td>
 		<td>No Company</td>
@@ -4048,7 +4050,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/emilpriver">
 				<img src="https://avatars.githubusercontent.com/u/34039674?s=72&u=567a1aedd36a1374eb4daf167c9fc9073dda41f3&v=4" width="24" alt="Avatar of emilpriver"> emilpriver
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#emilpriver">Copy rank badge</a><br/>
 			Emil Priver
 		</td>
 		<td>No Company</td>
@@ -4061,7 +4063,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/marcusolsson">
 				<img src="https://avatars.githubusercontent.com/u/8396880?s=72&v=4" width="24" alt="Avatar of marcusolsson"> marcusolsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#marcusolsson">Copy rank badge</a><br/>
 			Marcus Olsson
 		</td>
 		<td>@assemblyai </td>
@@ -4074,7 +4076,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/beshrkayali">
 				<img src="https://avatars.githubusercontent.com/u/17021?s=72&u=5ab0df681fa6f6bcff1ae233fadb8ccf487c457e&v=4" width="24" alt="Avatar of beshrkayali"> beshrkayali
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#beshrkayali">Copy rank badge</a><br/>
 			Beshr Kayali Reinholdsson
 		</td>
 		<td>No Company</td>
@@ -4087,7 +4089,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/CloudyPadmal">
 				<img src="https://avatars.githubusercontent.com/u/14261304?s=72&u=37438002975e3eaab00007447cf31345ac4bf1d3&v=4" width="24" alt="Avatar of CloudyPadmal"> CloudyPadmal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#CloudyPadmal">Copy rank badge</a><br/>
 			Padmal
 		</td>
 		<td>@fossasia  </td>
@@ -4100,7 +4102,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/iAmMrinal0">
 				<img src="https://avatars.githubusercontent.com/u/890062?s=72&u=579de8e0238464dbab8539fdaa858f2f441eaa96&v=4" width="24" alt="Avatar of iAmMrinal0"> iAmMrinal0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#iAmMrinal0">Copy rank badge</a><br/>
 			Mrinal
 		</td>
 		<td>No Company</td>
@@ -4113,7 +4115,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/koreyspace">
 				<img src="https://avatars.githubusercontent.com/u/7462909?s=72&u=0e0a8965116048618a6113c5a5826a251146d274&v=4" width="24" alt="Avatar of koreyspace"> koreyspace
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#koreyspace">Copy rank badge</a><br/>
 			Korey Stegared-Pace
 		</td>
 		<td>Microsoft </td>
@@ -4126,7 +4128,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/hex2f">
 				<img src="https://avatars.githubusercontent.com/u/16632409?s=72&u=d13d58f4e11d33378b33d88b6504d484496c7cfc&v=4" width="24" alt="Avatar of hex2f"> hex2f
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#hex2f">Copy rank badge</a><br/>
 			Leah Lundqvist
 		</td>
 		<td>@dendrite-systems </td>
@@ -4139,7 +4141,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/capricorn86">
 				<img src="https://avatars.githubusercontent.com/u/19155544?s=72&u=6848d42beb6f0dcbda2f8511ee6b75a762ab5fdc&v=4" width="24" alt="Avatar of capricorn86"> capricorn86
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#capricorn86">Copy rank badge</a><br/>
 			David Ortner
 		</td>
 		<td>Ortner It Solutions Ab<br/></td>
@@ -4152,7 +4154,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mindspank">
 				<img src="https://avatars.githubusercontent.com/u/1181922?s=72&u=3c0eaa7afb8a631d3c34ba735b4fcb726dedef7a&v=4" width="24" alt="Avatar of mindspank"> mindspank
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mindspank">Copy rank badge</a><br/>
 			Alexander Thor
 		</td>
 		<td>No Company</td>
@@ -4165,7 +4167,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/davidjerleke">
 				<img src="https://avatars.githubusercontent.com/u/11529148?s=72&u=94446866c576d620cbd33e62834c480091fedcf0&v=4" width="24" alt="Avatar of davidjerleke"> davidjerleke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#davidjerleke">Copy rank badge</a><br/>
 			David Jerleke
 		</td>
 		<td>No Company</td>
@@ -4178,7 +4180,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/pythops">
 				<img src="https://avatars.githubusercontent.com/u/57548585?s=72&u=16322f95f9d2bd4644bd8e77033627463a62cc51&v=4" width="24" alt="Avatar of pythops"> pythops
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#pythops">Copy rank badge</a><br/>
 			Badr
 		</td>
 		<td>@pythops </td>
@@ -4191,7 +4193,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/bjesus">
 				<img src="https://avatars.githubusercontent.com/u/55081?s=72&v=4" width="24" alt="Avatar of bjesus"> bjesus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#bjesus">Copy rank badge</a><br/>
 			Yo'av Moshe
 		</td>
 		<td>Cloudflare </td>
@@ -4204,7 +4206,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/gunnargrosch">
 				<img src="https://avatars.githubusercontent.com/u/2095761?s=72&u=124aca9f08ef51d9b513a88b012f23f341033098&v=4" width="24" alt="Avatar of gunnargrosch"> gunnargrosch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#gunnargrosch">Copy rank badge</a><br/>
 			Gunnar Grosch
 		</td>
 		<td>Sinch </td>
@@ -4217,7 +4219,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/IvanUkhov">
 				<img src="https://avatars.githubusercontent.com/u/57440?s=72&u=2dfb9144e6c93a33a4a0677d4b8aaa189a778e0f&v=4" width="24" alt="Avatar of IvanUkhov"> IvanUkhov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#IvanUkhov">Copy rank badge</a><br/>
 			Ivan Ukhov
 		</td>
 		<td>No Company</td>
@@ -4230,7 +4232,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/thomasf">
 				<img src="https://avatars.githubusercontent.com/u/330847?s=72&v=4" width="24" alt="Avatar of thomasf"> thomasf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#thomasf">Copy rank badge</a><br/>
 			Thomas Frössman
 		</td>
 		<td>Various </td>
@@ -4243,7 +4245,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/danielgustafsson">
 				<img src="https://avatars.githubusercontent.com/u/321790?s=72&u=1d0e60e82bbcc1231f75eca4c63398962001be93&v=4" width="24" alt="Avatar of danielgustafsson"> danielgustafsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#danielgustafsson">Copy rank badge</a><br/>
 			Daniel Gustafsson
 		</td>
 		<td>@microsoft </td>
@@ -4256,7 +4258,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/aristocratos">
 				<img src="https://avatars.githubusercontent.com/u/59659483?s=72&u=e7a780662f1876525a5d2f7f642fa3f8fe56b1fe&v=4" width="24" alt="Avatar of aristocratos"> aristocratos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#aristocratos">Copy rank badge</a><br/>
 			Jakob P. Liljenberg
 		</td>
 		<td>No Company</td>
@@ -4269,7 +4271,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mptre">
 				<img src="https://avatars.githubusercontent.com/u/43914?s=72&u=2c4e1205d5fa98b1674293e1c876ad634a606d19&v=4" width="24" alt="Avatar of mptre"> mptre
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mptre">Copy rank badge</a><br/>
 			Anton Lindqvist
 		</td>
 		<td>No Company</td>
@@ -4282,7 +4284,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/grimen">
 				<img src="https://avatars.githubusercontent.com/u/4783?s=72&u=5a6072e19b1ffedf86dfa3d5c73c5df278f8beaa&v=4" width="24" alt="Avatar of grimen"> grimen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#grimen">Copy rank badge</a><br/>
 			Jonas Grimfelt
 		</td>
 		<td>Blink </td>
@@ -4295,7 +4297,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/pelme">
 				<img src="https://avatars.githubusercontent.com/u/20529?s=72&v=4" width="24" alt="Avatar of pelme"> pelme
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#pelme">Copy rank badge</a><br/>
 			Andreas Pelme
 		</td>
 		<td>Personalkollen </td>
@@ -4308,7 +4310,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/krawaller">
 				<img src="https://avatars.githubusercontent.com/u/249764?s=72&v=4" width="24" alt="Avatar of krawaller"> krawaller
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#krawaller">Copy rank badge</a><br/>
 			David Waller
 		</td>
 		<td>Krawaller </td>
@@ -4321,7 +4323,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Grokzen">
 				<img src="https://avatars.githubusercontent.com/u/892309?s=72&u=8c9cacf20b1de782736cd569060a488b8b657678&v=4" width="24" alt="Avatar of Grokzen"> Grokzen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Grokzen">Copy rank badge</a><br/>
 			Grokzen
 		</td>
 		<td>Tutus (https://tutus.se) </td>
@@ -4334,7 +4336,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mengstr">
 				<img src="https://avatars.githubusercontent.com/u/325326?s=72&v=4" width="24" alt="Avatar of mengstr"> mengstr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mengstr">Copy rank badge</a><br/>
 			Mats Engstrom
 		</td>
 		<td>No Company</td>
@@ -4347,7 +4349,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/williamboman">
 				<img src="https://avatars.githubusercontent.com/u/6705160?s=72&u=5dc5ff534c6c6b4b5d8ebbf6dc77568fe3babcf8&v=4" width="24" alt="Avatar of williamboman"> williamboman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#williamboman">Copy rank badge</a><br/>
 			William Boman
 		</td>
 		<td>No Company</td>
@@ -4360,7 +4362,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/gkaramanis">
 				<img src="https://avatars.githubusercontent.com/u/3393168?s=72&u=863af696bed2f9916811ae5ce1a54e90022b9f32&v=4" width="24" alt="Avatar of gkaramanis"> gkaramanis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#gkaramanis">Copy rank badge</a><br/>
 			Georgios Karamanis
 		</td>
 		<td>No Company</td>
@@ -4373,7 +4375,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/NikolayOskolkov">
 				<img src="https://avatars.githubusercontent.com/u/49948664?s=72&u=54f76562aa11e0582cf53885f0a375e2ce2231cc&v=4" width="24" alt="Avatar of NikolayOskolkov"> NikolayOskolkov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#NikolayOskolkov">Copy rank badge</a><br/>
 			Nikolay Oskolkov
 		</td>
 		<td>Scilifelab And Lund University<br/></td>
@@ -4386,7 +4388,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ranveeraggarwal">
 				<img src="https://avatars.githubusercontent.com/u/3941281?s=72&u=7622e08b6f3781d8f4eb71b694b1f8a20e70da37&v=4" width="24" alt="Avatar of ranveeraggarwal"> ranveeraggarwal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ranveeraggarwal">Copy rank badge</a><br/>
 			Ranveer Aggarwal
 		</td>
 		<td>@google </td>
@@ -4399,7 +4401,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Torxed">
 				<img src="https://avatars.githubusercontent.com/u/861439?s=72&u=6d9b8dd2998107cdb8f2e4989bba6a26d82c346c&v=4" width="24" alt="Avatar of Torxed"> Torxed
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Torxed">Copy rank badge</a><br/>
 			Anton Hvornum
 		</td>
 		<td>Blyg Ab </td>
@@ -4412,7 +4414,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/valderman">
 				<img src="https://avatars.githubusercontent.com/u/81643?s=72&v=4" width="24" alt="Avatar of valderman"> valderman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#valderman">Copy rank badge</a><br/>
 			Anton Ekblad
 		</td>
 		<td>@koditoriet </td>
@@ -4425,7 +4427,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/okasi">
 				<img src="https://avatars.githubusercontent.com/u/42962282?s=72&u=471d57256541e60d66f2ad5a3e4ed82a73acb7a9&v=4" width="24" alt="Avatar of okasi"> okasi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#okasi">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@sbabbank </td>
@@ -4438,7 +4440,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/felixjones">
 				<img src="https://avatars.githubusercontent.com/u/1824671?s=72&u=420f838628fecd3b86238f97e7f889333ac942b9&v=4" width="24" alt="Avatar of felixjones"> felixjones
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#felixjones">Copy rank badge</a><br/>
 			Felix Jones
 		</td>
 		<td>Mojang </td>
@@ -4451,7 +4453,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/NiGhTTraX">
 				<img src="https://avatars.githubusercontent.com/u/485061?s=72&v=4" width="24" alt="Avatar of NiGhTTraX"> NiGhTTraX
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#NiGhTTraX">Copy rank badge</a><br/>
 			Andrei Picus
 		</td>
 		<td>@tink-ab </td>
@@ -4464,7 +4466,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/pliden">
 				<img src="https://avatars.githubusercontent.com/u/11799670?s=72&u=d63deb430d15e5848ccc497d79a759ed58e387b4&v=4" width="24" alt="Avatar of pliden"> pliden
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#pliden">Copy rank badge</a><br/>
 			Per Liden
 		</td>
 		<td>No Company</td>
@@ -4477,7 +4479,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/shubhamzanwar">
 				<img src="https://avatars.githubusercontent.com/u/15626155?s=72&u=f9a12f09de21a9e4538bb869ebfbd4f3789f5371&v=4" width="24" alt="Avatar of shubhamzanwar"> shubhamzanwar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#shubhamzanwar">Copy rank badge</a><br/>
 			Shubham Zanwar
 		</td>
 		<td>@mimohq </td>
@@ -4490,7 +4492,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/edgarberlinck">
 				<img src="https://avatars.githubusercontent.com/u/663286?s=72&u=8c027b55c7d4f6f818ab7e226089fc9ec9ea218c&v=4" width="24" alt="Avatar of edgarberlinck"> edgarberlinck
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#edgarberlinck">Copy rank badge</a><br/>
 			Edgar Muniz Berlinck
 		</td>
 		<td>Edgarberlinck.github </td>
@@ -4503,7 +4505,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Kin-Zhang">
 				<img src="https://avatars.githubusercontent.com/u/35365764?s=72&u=b0418034ae034cd7efdc986e1327ca7321561f7b&v=4" width="24" alt="Avatar of Kin-Zhang"> Kin-Zhang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Kin-Zhang">Copy rank badge</a><br/>
 			Qingwen Zhang
 		</td>
 		<td>Phd @kth-rpl; Mphil Hkust<br/></td>
@@ -4516,7 +4518,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/IuryAlves">
 				<img src="https://avatars.githubusercontent.com/u/1934268?s=72&u=4d5bede692170231a1a0b32fd3f74243f5d8e53d&v=4" width="24" alt="Avatar of IuryAlves"> IuryAlves
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#IuryAlves">Copy rank badge</a><br/>
 			Iury Alves de Souza
 		</td>
 		<td>@tibber  </td>
@@ -4529,7 +4531,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/birkjernstrom">
 				<img src="https://avatars.githubusercontent.com/u/281715?s=72&u=80c54a0781492dc5248f693fd237b1a6d516a9ba&v=4" width="24" alt="Avatar of birkjernstrom"> birkjernstrom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#birkjernstrom">Copy rank badge</a><br/>
 			Birk Jernström
 		</td>
 		<td>@polarsource </td>
@@ -4542,7 +4544,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/xZero707">
 				<img src="https://avatars.githubusercontent.com/u/3281104?s=72&u=39a4f81c86eb411f063336b09d71e16884b165fa&v=4" width="24" alt="Avatar of xZero707"> xZero707
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#xZero707">Copy rank badge</a><br/>
 			Aleksandar Puharic
 		</td>
 		<td>@landell-games </td>
@@ -4555,7 +4557,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mrhamda">
 				<img src="https://avatars.githubusercontent.com/u/98427207?s=72&u=2324264993d2c9fab345bb292924bfdfec08c3ba&v=4" width="24" alt="Avatar of mrhamda"> mrhamda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mrhamda">Copy rank badge</a><br/>
 			Abdullah Hamdan
 		</td>
 		<td>No Company</td>
@@ -4568,7 +4570,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/lindell">
 				<img src="https://avatars.githubusercontent.com/u/284868?s=72&u=0deab4bc0b7aa79bf1abbcbd58516f5a95f6ada1&v=4" width="24" alt="Avatar of lindell"> lindell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#lindell">Copy rank badge</a><br/>
 			Johan Lindell
 		</td>
 		<td>No Company</td>
@@ -4581,7 +4583,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/seriyps">
 				<img src="https://avatars.githubusercontent.com/u/422014?s=72&v=4" width="24" alt="Avatar of seriyps"> seriyps
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#seriyps">Copy rank badge</a><br/>
 			Sergey Prokhorov
 		</td>
 		<td>Klarna @klarna  </td>
@@ -4594,7 +4596,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/pooyanazad">
 				<img src="https://avatars.githubusercontent.com/u/20085529?s=72&u=e6336dbc3f465dcf6e83ee571752be0d8bdbf794&v=4" width="24" alt="Avatar of pooyanazad"> pooyanazad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#pooyanazad">Copy rank badge</a><br/>
 			Pooyan
 		</td>
 		<td>No Company</td>
@@ -4607,7 +4609,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/simonlindholm">
 				<img src="https://avatars.githubusercontent.com/u/371089?s=72&v=4" width="24" alt="Avatar of simonlindholm"> simonlindholm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#simonlindholm">Copy rank badge</a><br/>
 			Simon Lindholm
 		</td>
 		<td>No Company</td>
@@ -4620,7 +4622,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/abinashnavaseelan">
 				<img src="https://avatars.githubusercontent.com/u/162363441?s=72&u=6a5d119811e1b94a1151747ac232e5ecc2bf12d4&v=4" width="24" alt="Avatar of abinashnavaseelan"> abinashnavaseelan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#abinashnavaseelan">Copy rank badge</a><br/>
 			𝙰
 		</td>
 		<td>Localhost:8080 </td>
@@ -4633,7 +4635,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/MarieLynneBlock">
 				<img src="https://avatars.githubusercontent.com/u/19439834?s=72&u=fc8169f14981c57769b5f5d52b075cb71b2501ed&v=4" width="24" alt="Avatar of MarieLynneBlock"> MarieLynneBlock
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#MarieLynneBlock">Copy rank badge</a><br/>
 			Marie-Lynne Block
 		</td>
 		<td>Cm - Mc </td>
@@ -4646,7 +4648,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/erickguan">
 				<img src="https://avatars.githubusercontent.com/u/297343?s=72&u=64af867a8fd51e18b937c6ceb6ef343fe5eaf0bc&v=4" width="24" alt="Avatar of erickguan"> erickguan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#erickguan">Copy rank badge</a><br/>
 			Erick Guan
 		</td>
 		<td>No Company</td>
@@ -4659,7 +4661,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/rickynils">
 				<img src="https://avatars.githubusercontent.com/u/16779?s=72&v=4" width="24" alt="Avatar of rickynils"> rickynils
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#rickynils">Copy rank badge</a><br/>
 			Rickard Nilsson
 		</td>
 		<td>@imsl  </td>
@@ -4672,7 +4674,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/erique">
 				<img src="https://avatars.githubusercontent.com/u/456745?s=72&v=4" width="24" alt="Avatar of erique"> erique
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#erique">Copy rank badge</a><br/>
 			Erik Hemming
 		</td>
 		<td>@unity-technologies </td>
@@ -4685,7 +4687,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kopiro">
 				<img src="https://avatars.githubusercontent.com/u/839700?s=72&u=89f05503dfdd87fdd19b6def0aed9b9992f320b8&v=4" width="24" alt="Avatar of kopiro"> kopiro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kopiro">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4698,7 +4700,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/oej">
 				<img src="https://avatars.githubusercontent.com/u/20310?s=72&u=84b3f307a865cc4d457cc23b3f2ae9d92cb523b5&v=4" width="24" alt="Avatar of oej"> oej
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#oej">Copy rank badge</a><br/>
 			Olle E. Johansson
 		</td>
 		<td>Edvina Ab - @edvinanet<br/><br/></td>
@@ -4711,7 +4713,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ErikHellman">
 				<img src="https://avatars.githubusercontent.com/u/72444?s=72&v=4" width="24" alt="Avatar of ErikHellman"> ErikHellman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ErikHellman">Copy rank badge</a><br/>
 			Erik Hellman
 		</td>
 		<td>Hellsoft </td>
@@ -4724,7 +4726,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Habrador">
 				<img src="https://avatars.githubusercontent.com/u/1989704?s=72&u=5604cb9eb294c7e2bc32091881a8a96890ec8161&v=4" width="24" alt="Avatar of Habrador"> Habrador
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Habrador">Copy rank badge</a><br/>
 			Erik Nordeus
 		</td>
 		<td>Indie </td>
@@ -4737,7 +4739,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/wkz">
 				<img src="https://avatars.githubusercontent.com/u/574546?s=72&v=4" width="24" alt="Avatar of wkz"> wkz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#wkz">Copy rank badge</a><br/>
 			Tobias Waldekranz
 		</td>
 		<td>No Company</td>
@@ -4750,7 +4752,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/almenscorner">
 				<img src="https://avatars.githubusercontent.com/u/78877636?s=72&u=e1e6ff24043ec7178e623007dcc9f8678b5ed8ca&v=4" width="24" alt="Avatar of almenscorner"> almenscorner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#almenscorner">Copy rank badge</a><br/>
 			Tobias Almén
 		</td>
 		<td>Linköping University </td>
@@ -4763,7 +4765,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/matinzd">
 				<img src="https://avatars.githubusercontent.com/u/24797481?s=72&u=17391f093f39692d6e176e1f829509d8374ac3ee&v=4" width="24" alt="Avatar of matinzd"> matinzd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#matinzd">Copy rank badge</a><br/>
 			Matin Zadeh Dolatabad
 		</td>
 		<td>Lendo Ab </td>
@@ -4776,7 +4778,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Lauszus">
 				<img src="https://avatars.githubusercontent.com/u/1098847?s=72&u=812233c2795562422999fc7706346fce2f467692&v=4" width="24" alt="Avatar of Lauszus"> Lauszus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Lauszus">Copy rank badge</a><br/>
 			Kristian Sloth Lauszus
 		</td>
 		<td>@candelaspeedboat  </td>
@@ -4789,7 +4791,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/andrija-djurovic">
 				<img src="https://avatars.githubusercontent.com/u/85941317?s=72&u=1ad2c47bb0334ccd443668b70c70cb0c570a43a4&v=4" width="24" alt="Avatar of andrija-djurovic"> andrija-djurovic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#andrija-djurovic">Copy rank badge</a><br/>
 			Andrija Djurovic
 		</td>
 		<td>Deloitte  </td>
@@ -4802,7 +4804,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/carlbarrdahl">
 				<img src="https://avatars.githubusercontent.com/u/2961337?s=72&u=6dd8607979818843829704391e68a902f3055e3f&v=4" width="24" alt="Avatar of carlbarrdahl"> carlbarrdahl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#carlbarrdahl">Copy rank badge</a><br/>
 			Carl Barrdahl
 		</td>
 		<td>Zephyr Valley </td>
@@ -4815,7 +4817,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ciscoheat">
 				<img src="https://avatars.githubusercontent.com/u/130450?s=72&u=f3e8d60e65b24e7f5e0e0ad46ca1d17bff309446&v=4" width="24" alt="Avatar of ciscoheat"> ciscoheat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ciscoheat">Copy rank badge</a><br/>
 			Andreas Söderlund
 		</td>
 		<td>No Company</td>
@@ -4828,7 +4830,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/tadeuzagallo">
 				<img src="https://avatars.githubusercontent.com/u/764414?s=72&u=c2f33817057a69d31627c9a9342799a65ff1e4f9&v=4" width="24" alt="Avatar of tadeuzagallo"> tadeuzagallo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#tadeuzagallo">Copy rank badge</a><br/>
 			Tadeu Zagallo
 		</td>
 		<td>@apple </td>
@@ -4841,7 +4843,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/johannilsson">
 				<img src="https://avatars.githubusercontent.com/u/43943?s=72&v=4" width="24" alt="Avatar of johannilsson"> johannilsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#johannilsson">Copy rank badge</a><br/>
 			Johan Berg
 		</td>
 		<td>@framna-se @markupartist  </td>
@@ -4854,7 +4856,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/uxmal">
 				<img src="https://avatars.githubusercontent.com/u/10154465?s=72&v=4" width="24" alt="Avatar of uxmal"> uxmal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#uxmal">Copy rank badge</a><br/>
 			John Källén
 		</td>
 		<td>No Company</td>
@@ -4867,7 +4869,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/richcarl">
 				<img src="https://avatars.githubusercontent.com/u/192513?s=72&v=4" width="24" alt="Avatar of richcarl"> richcarl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#richcarl">Copy rank badge</a><br/>
 			Richard Carlsson
 		</td>
 		<td>No Company</td>
@@ -4880,7 +4882,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/rollbear">
 				<img src="https://avatars.githubusercontent.com/u/9164980?s=72&u=3817e11a26be3f4420c77efcbc08645e0ae0f511&v=4" width="24" alt="Avatar of rollbear"> rollbear
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#rollbear">Copy rank badge</a><br/>
 			Björn Fahller
 		</td>
 		<td>No Company</td>
@@ -4893,7 +4895,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ubuwaits">
 				<img src="https://avatars.githubusercontent.com/u/223076?s=72&u=3bf8d99421a717ef26d428b4e4aea339476ee7d3&v=4" width="24" alt="Avatar of ubuwaits"> ubuwaits
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ubuwaits">Copy rank badge</a><br/>
 			Chad Mazzola
 		</td>
 		<td>No Company</td>
@@ -4906,7 +4908,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ardacetinkaya">
 				<img src="https://avatars.githubusercontent.com/u/4550197?s=72&u=fe8ca0b788e285344936b61fbdeea573d465cef9&v=4" width="24" alt="Avatar of ardacetinkaya"> ardacetinkaya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ardacetinkaya">Copy rank badge</a><br/>
 			Arda Cetinkaya
 		</td>
 		<td>No Company</td>
@@ -4919,7 +4921,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/eliassjogreen">
 				<img src="https://avatars.githubusercontent.com/u/19556658?s=72&u=6636979217e8310800e5394d0f5358bd3bf49b87&v=4" width="24" alt="Avatar of eliassjogreen"> eliassjogreen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#eliassjogreen">Copy rank badge</a><br/>
 			Elias Sjögreen
 		</td>
 		<td>@5monkeys </td>
@@ -4932,7 +4934,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/iKenndac">
 				<img src="https://avatars.githubusercontent.com/u/514900?s=72&u=b97ab7a7784028a0a37807a9f799567114b34df7&v=4" width="24" alt="Avatar of iKenndac"> iKenndac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#iKenndac">Copy rank badge</a><br/>
 			Daniel Kennett
 		</td>
 		<td>No Company</td>
@@ -4945,7 +4947,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/adamtornhill">
 				<img src="https://avatars.githubusercontent.com/u/5179769?s=72&u=6ea0968bbaf3b30ff917ff4177e7a3147f5d1999&v=4" width="24" alt="Avatar of adamtornhill"> adamtornhill
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#adamtornhill">Copy rank badge</a><br/>
 			Adam Tornhill
 		</td>
 		<td>Https://codescene.co </td>
@@ -4958,7 +4960,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/tobiassjosten">
 				<img src="https://avatars.githubusercontent.com/u/65159?s=72&v=4" width="24" alt="Avatar of tobiassjosten"> tobiassjosten
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#tobiassjosten">Copy rank badge</a><br/>
 			Tobias Sjösten
 		</td>
 		<td>Stim </td>
@@ -4971,7 +4973,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/AndersAbel">
 				<img src="https://avatars.githubusercontent.com/u/4894558?s=72&u=cfa7f5b57a5a6d7f4da2eb6360ac416739af8db0&v=4" width="24" alt="Avatar of AndersAbel"> AndersAbel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#AndersAbel">Copy rank badge</a><br/>
 			Anders Abel
 		</td>
 		<td>@sustainsys  </td>
@@ -4984,7 +4986,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/patjak">
 				<img src="https://avatars.githubusercontent.com/u/224602?s=72&u=f3086f699b47907865d8e79f5ff6009dbc9a2464&v=4" width="24" alt="Avatar of patjak"> patjak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#patjak">Copy rank badge</a><br/>
 			Patrik Jakobsson
 		</td>
 		<td>No Company</td>
@@ -4997,7 +4999,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/rohe">
 				<img src="https://avatars.githubusercontent.com/u/99900?s=72&v=4" width="24" alt="Avatar of rohe"> rohe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#rohe">Copy rank badge</a><br/>
 			Roland Hedberg
 		</td>
 		<td>Catalogix </td>
@@ -5010,7 +5012,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ten3roberts">
 				<img src="https://avatars.githubusercontent.com/u/25723553?s=72&u=abaa60f94038078d69f27f9bb5073b7a76ba9fa5&v=4" width="24" alt="Avatar of ten3roberts"> ten3roberts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ten3roberts">Copy rank badge</a><br/>
 			Freja Roberts
 		</td>
 		<td>No Company</td>
@@ -5023,7 +5025,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Anviking">
 				<img src="https://avatars.githubusercontent.com/u/304423?s=72&u=7aa196c9dd9af20594f3e21030c977a6b42e6aa8&v=4" width="24" alt="Avatar of Anviking"> Anviking
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Anviking">Copy rank badge</a><br/>
 			Johannes Lund
 		</td>
 		<td>No Company</td>
@@ -5036,7 +5038,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/oguzgundogdu">
 				<img src="https://avatars.githubusercontent.com/u/13837465?s=72&u=380bdf6bdbfaa3c0068d2abc9eba09622a69381a&v=4" width="24" alt="Avatar of oguzgundogdu"> oguzgundogdu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#oguzgundogdu">Copy rank badge</a><br/>
 			Oğuz Gündoğdu
 		</td>
 		<td>@avensia </td>
@@ -5049,7 +5051,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/phaller">
 				<img src="https://avatars.githubusercontent.com/u/289943?s=72&v=4" width="24" alt="Avatar of phaller"> phaller
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#phaller">Copy rank badge</a><br/>
 			Philipp Haller
 		</td>
 		<td>Kth Royal Institute Of<br/>Technology<br/></td>
@@ -5062,7 +5064,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/spacecowboy">
 				<img src="https://avatars.githubusercontent.com/u/223655?s=72&v=4" width="24" alt="Avatar of spacecowboy"> spacecowboy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#spacecowboy">Copy rank badge</a><br/>
 			Jonas Kalderstam
 		</td>
 		<td>No Company</td>
@@ -5075,7 +5077,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dalen">
 				<img src="https://avatars.githubusercontent.com/u/7400?s=72&u=0f6263dcf2cf8ea4e4ced3805c276474e21b52cf&v=4" width="24" alt="Avatar of dalen"> dalen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dalen">Copy rank badge</a><br/>
 			Erik Dalén
 		</td>
 		<td>@resolutiongames   </td>
@@ -5088,7 +5090,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/murilopolese">
 				<img src="https://avatars.githubusercontent.com/u/954594?s=72&u=1c69c46e1b93f0ce508e21b283545e34b756c146&v=4" width="24" alt="Avatar of murilopolese"> murilopolese
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#murilopolese">Copy rank badge</a><br/>
 			Murilo Polese
 		</td>
 		<td>No Company</td>
@@ -5101,7 +5103,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/platisd">
 				<img src="https://avatars.githubusercontent.com/u/7327776?s=72&u=3d159083aa71a2daa7997dafe0d3cfebbdceae10&v=4" width="24" alt="Avatar of platisd"> platisd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#platisd">Copy rank badge</a><br/>
 			Dimitris Platis
 		</td>
 		<td>@dit113-v22 </td>
@@ -5114,7 +5116,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/systay">
 				<img src="https://avatars.githubusercontent.com/u/402248?s=72&u=0a535bcae050b28f4144e160badf98cca1545899&v=4" width="24" alt="Avatar of systay"> systay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#systay">Copy rank badge</a><br/>
 			Andrés Taylor
 		</td>
 		<td>@planetscale  </td>
@@ -5127,7 +5129,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/nick8325">
 				<img src="https://avatars.githubusercontent.com/u/104447?s=72&v=4" width="24" alt="Avatar of nick8325"> nick8325
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#nick8325">Copy rank badge</a><br/>
 			Nick Smallbone
 		</td>
 		<td>No Company</td>
@@ -5140,7 +5142,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kvakvs">
 				<img src="https://avatars.githubusercontent.com/u/288724?s=72&u=6710cb23bd77eac197a7b927fe66af5aa551c04a&v=4" width="24" alt="Avatar of kvakvs"> kvakvs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kvakvs">Copy rank badge</a><br/>
 			Dmytro Lytovchenko
 		</td>
 		<td>Erlang Solutions Ltd </td>
@@ -5153,7 +5155,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/wille">
 				<img src="https://avatars.githubusercontent.com/u/1017440?s=72&u=51ba19d3c033552f3fe010b521f8243f6b379a1c&v=4" width="24" alt="Avatar of wille"> wille
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#wille">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5166,7 +5168,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/camilaibs">
 				<img src="https://avatars.githubusercontent.com/u/6290749?s=72&u=34c0b7487ef87611b61b3e1785dc35b047b47e66&v=4" width="24" alt="Avatar of camilaibs"> camilaibs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#camilaibs">Copy rank badge</a><br/>
 			Camila Belo
 		</td>
 		<td>Spotify </td>
@@ -5179,7 +5181,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/CodyJasonBennett">
 				<img src="https://avatars.githubusercontent.com/u/23324155?s=72&u=54a808be62d75cdddcb43c8a8c5e93c8d42a6aa2&v=4" width="24" alt="Avatar of CodyJasonBennett"> CodyJasonBennett
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#CodyJasonBennett">Copy rank badge</a><br/>
 			Cody Bennett
 		</td>
 		<td>No Company</td>
@@ -5192,7 +5194,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/whubaichuan">
 				<img src="https://avatars.githubusercontent.com/u/28725662?s=72&u=37a846d332cd238b3522b99dc59248b86b865dfb&v=4" width="24" alt="Avatar of whubaichuan"> whubaichuan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#whubaichuan">Copy rank badge</a><br/>
 			Baichuan
 		</td>
 		<td>Ph.d. In Lth, Lund<br/>University<br/></td>
@@ -5205,7 +5207,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/JensRantil">
 				<img src="https://avatars.githubusercontent.com/u/730342?s=72&u=84f97039006558834aadc9d3e9f50ffa686b8fd3&v=4" width="24" alt="Avatar of JensRantil"> JensRantil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#JensRantil">Copy rank badge</a><br/>
 			Jens Rantil
 		</td>
 		<td>Sweet Potato Tech Ab<br/></td>
@@ -5218,7 +5220,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/tonyrog">
 				<img src="https://avatars.githubusercontent.com/u/152886?s=72&u=e00078632dfbb129d242aad41227cbf9b2cee7e5&v=4" width="24" alt="Avatar of tonyrog"> tonyrog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#tonyrog">Copy rank badge</a><br/>
 			Tony Rogvall
 		</td>
 		<td>No Company</td>
@@ -5231,7 +5233,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jonahandersson">
 				<img src="https://avatars.githubusercontent.com/u/14919667?s=72&u=163e6876029d1f06f68efe98cbc62ced60848388&v=4" width="24" alt="Avatar of jonahandersson"> jonahandersson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jonahandersson">Copy rank badge</a><br/>
 			Jonah Andersson
 		</td>
 		<td>@jonahanderssontech  </td>
@@ -5244,7 +5246,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Lallassu">
 				<img src="https://avatars.githubusercontent.com/u/1034939?s=72&u=1c4c326ccfa680309303f5259514e9b1b9b0f308&v=4" width="24" alt="Avatar of Lallassu"> Lallassu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Lallassu">Copy rank badge</a><br/>
 			Magnus
 		</td>
 		<td>@varnish </td>
@@ -5257,7 +5259,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/alex-shpak">
 				<img src="https://avatars.githubusercontent.com/u/5515443?s=72&v=4" width="24" alt="Avatar of alex-shpak"> alex-shpak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#alex-shpak">Copy rank badge</a><br/>
 			Alex Shpak
 		</td>
 		<td>No Company</td>
@@ -5270,7 +5272,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/fu5ha">
 				<img src="https://avatars.githubusercontent.com/u/887711?s=72&u=5f23dd8908f8070cf3ffcf74b7a571aa70ac282b&v=4" width="24" alt="Avatar of fu5ha"> fu5ha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#fu5ha">Copy rank badge</a><br/>
 			Gray Olson
 		</td>
 		<td>@embarkstudios  </td>
@@ -5283,7 +5285,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/isabellaalstrom">
 				<img src="https://avatars.githubusercontent.com/u/22006797?s=72&u=8bc9178439693d23366fcea9b604a89e539ee864&v=4" width="24" alt="Avatar of isabellaalstrom"> isabellaalstrom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#isabellaalstrom">Copy rank badge</a><br/>
 			Isabella Gross Alström
 		</td>
 		<td>No Company</td>
@@ -5296,7 +5298,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/tgwizard">
 				<img src="https://avatars.githubusercontent.com/u/660706?s=72&u=19410c942e0efecfa563a274074ddcc521846fde&v=4" width="24" alt="Avatar of tgwizard"> tgwizard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#tgwizard">Copy rank badge</a><br/>
 			Adam Renberg Tamm
 		</td>
 		<td>@stilla </td>
@@ -5309,7 +5311,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/GeneKao">
 				<img src="https://avatars.githubusercontent.com/u/1162842?s=72&u=6e83538984f3d94c804b489b15b26b9012c4b69d&v=4" width="24" alt="Avatar of GeneKao"> GeneKao
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#GeneKao">Copy rank badge</a><br/>
 			Gene Ting-Chun Kao
 		</td>
 		<td>@ansys </td>
@@ -5322,7 +5324,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jamesmcm">
 				<img src="https://avatars.githubusercontent.com/u/54889?s=72&u=7ed894dd9317e2c6434ca4d0aa2b9fe5087d1ef6&v=4" width="24" alt="Avatar of jamesmcm"> jamesmcm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jamesmcm">Copy rank badge</a><br/>
 			James McMurray
 		</td>
 		<td>No Company</td>
@@ -5335,7 +5337,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/satansdeer">
 				<img src="https://avatars.githubusercontent.com/u/450319?s=72&u=84b42a8224caff37d9c7902f932d49b41e766223&v=4" width="24" alt="Avatar of satansdeer"> satansdeer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#satansdeer">Copy rank badge</a><br/>
 			Maksim Ivanov
 		</td>
 		<td>@zero-plus-x  </td>
@@ -5348,7 +5350,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/hakimel">
 				<img src="https://avatars.githubusercontent.com/u/629429?s=72&u=89467ce33d305cdd20922cb190314e92562dc640&v=4" width="24" alt="Avatar of hakimel"> hakimel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#hakimel">Copy rank badge</a><br/>
 			Hakim El Hattab
 		</td>
 		<td>Slides.com </td>
@@ -5361,7 +5363,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/williamhogman">
 				<img src="https://avatars.githubusercontent.com/u/143746?s=72&u=4ebb6ca39369d9cb327add27dc5cbbc2d068ae7f&v=4" width="24" alt="Avatar of williamhogman"> williamhogman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#williamhogman">Copy rank badge</a><br/>
 			William Högman Rudenmalm
 		</td>
 		<td>@sobelio  </td>
@@ -5374,7 +5376,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/babyfaceEasy">
 				<img src="https://avatars.githubusercontent.com/u/16900234?s=72&u=50c1505c4da1d9f7e88010d1f902f5547a16f63c&v=4" width="24" alt="Avatar of babyfaceEasy"> babyfaceEasy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#babyfaceEasy">Copy rank badge</a><br/>
 			Olakunle M. Odegbaro
 		</td>
 		<td>Kongapay </td>
@@ -5387,7 +5389,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/hfreire">
 				<img src="https://avatars.githubusercontent.com/u/774164?s=72&u=fd07cb67d74ab82192499ab9765486cdc81445ec&v=4" width="24" alt="Avatar of hfreire"> hfreire
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#hfreire">Copy rank badge</a><br/>
 			Hugo Freire
 		</td>
 		<td>@antifragile-systems  </td>
@@ -5400,7 +5402,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/isveckrali">
 				<img src="https://avatars.githubusercontent.com/u/19333878?s=72&u=91f39eb2acf4b32ab4119831bf5b7b3717f8fcee&v=4" width="24" alt="Avatar of isveckrali"> isveckrali
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#isveckrali">Copy rank badge</a><br/>
 			Mehmet Can Seyhan
 		</td>
 		<td>Yurotek </td>
@@ -5413,7 +5415,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/furqanullah717">
 				<img src="https://avatars.githubusercontent.com/u/11693042?s=72&u=0e8f637109ab2ad905373f923a77dfd010df8680&v=4" width="24" alt="Avatar of furqanullah717"> furqanullah717
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#furqanullah717">Copy rank badge</a><br/>
 			Furqan Ullah
 		</td>
 		<td>Instabridge Ab </td>
@@ -5426,7 +5428,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/postmodernistx">
 				<img src="https://avatars.githubusercontent.com/u/18628999?s=72&u=1b45e2929d2f021ee2f27089d25e4800c6adad34&v=4" width="24" alt="Avatar of postmodernistx"> postmodernistx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#postmodernistx">Copy rank badge</a><br/>
 			Jenni
 		</td>
 		<td>Posh Industries Ab </td>
@@ -5439,7 +5441,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/fhqvst">
 				<img src="https://avatars.githubusercontent.com/u/7013571?s=72&u=9c167357b42888181b774722196bda546121fbe8&v=4" width="24" alt="Avatar of fhqvst"> fhqvst
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#fhqvst">Copy rank badge</a><br/>
 			Filip Hallqvist
 		</td>
 		<td>No Company</td>
@@ -5452,7 +5454,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mropert">
 				<img src="https://avatars.githubusercontent.com/u/101672?s=72&u=47812a5c99c303d115b5808bf01a4e4bee5d4fd7&v=4" width="24" alt="Avatar of mropert"> mropert
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mropert">Copy rank badge</a><br/>
 			Mathieu Ropert
 		</td>
 		<td>No Company</td>
@@ -5465,7 +5467,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ellessenne">
 				<img src="https://avatars.githubusercontent.com/u/10330005?s=72&u=6d8748914ef501c0ae8a2284287e21ad8b3e20ab&v=4" width="24" alt="Avatar of ellessenne"> ellessenne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ellessenne">Copy rank badge</a><br/>
 			Alessandro Gasparini
 		</td>
 		<td>Gsk </td>
@@ -5478,7 +5480,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/rasmusab">
 				<img src="https://avatars.githubusercontent.com/u/1006144?s=72&u=9319499b56f833b19c6f36298230f704541a333e&v=4" width="24" alt="Avatar of rasmusab"> rasmusab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#rasmusab">Copy rank badge</a><br/>
 			Rasmus Bååth
 		</td>
 		<td>Normative.io; Lund University </td>
@@ -5491,7 +5493,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/folsen">
 				<img src="https://avatars.githubusercontent.com/u/8249?s=72&u=f166b28e5d545989e7c32b4b6d8da71166f813e8&v=4" width="24" alt="Avatar of folsen"> folsen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#folsen">Copy rank badge</a><br/>
 			Fredrik Harrysson
 		</td>
 		<td>No Company</td>
@@ -5504,7 +5506,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ezeoleaf">
 				<img src="https://avatars.githubusercontent.com/u/10358977?s=72&u=a0acc2002cc34df015fd98164d8777c8f08401fc&v=4" width="24" alt="Avatar of ezeoleaf"> ezeoleaf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ezeoleaf">Copy rank badge</a><br/>
 			Eze Olea Figueroa
 		</td>
 		<td>Baffin Bay Networks </td>
@@ -5517,7 +5519,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/haf">
 				<img src="https://avatars.githubusercontent.com/u/193115?s=72&u=b1a0969a754bde80b9a111dbf8d7ab5c6a3beffa&v=4" width="24" alt="Avatar of haf"> haf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#haf">Copy rank badge</a><br/>
 			Henrik Feldt
 		</td>
 		<td>No Company</td>
@@ -5530,7 +5532,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/perliedman">
 				<img src="https://avatars.githubusercontent.com/u/1246614?s=72&v=4" width="24" alt="Avatar of perliedman"> perliedman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#perliedman">Copy rank badge</a><br/>
 			Per Liedman
 		</td>
 		<td>Solvi </td>
@@ -5543,7 +5545,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/bluecmd">
 				<img src="https://avatars.githubusercontent.com/u/149442?s=72&u=1ea6716404e55e56f8e7af7c494d4281b7daf632&v=4" width="24" alt="Avatar of bluecmd"> bluecmd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#bluecmd">Copy rank badge</a><br/>
 			Christian Svensson
 		</td>
 		<td>No Company</td>
@@ -5556,7 +5558,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/danielmkarlsson">
 				<img src="https://avatars.githubusercontent.com/u/8030258?s=72&u=2563974f069db7f4bceb0f5e7159f1ce78f21c4a&v=4" width="24" alt="Avatar of danielmkarlsson"> danielmkarlsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#danielmkarlsson">Copy rank badge</a><br/>
 			Daniel M Karlsson
 		</td>
 		<td>No Company</td>
@@ -5569,7 +5571,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/marcusoftnet">
 				<img src="https://avatars.githubusercontent.com/u/184660?s=72&u=4ea74c95439154571a8293cd8e1fd2745a37205e&v=4" width="24" alt="Avatar of marcusoftnet"> marcusoftnet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#marcusoftnet">Copy rank badge</a><br/>
 			Marcus Hammarberg
 		</td>
 		<td>No Company</td>
@@ -5582,7 +5584,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/thinkverse">
 				<img src="https://avatars.githubusercontent.com/u/2221746?s=72&u=e5698214a3d7b505b8d1be3542cf51f1fe43e0ae&v=4" width="24" alt="Avatar of thinkverse"> thinkverse
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#thinkverse">Copy rank badge</a><br/>
 			Kim Hallberg
 		</td>
 		<td>No Company</td>
@@ -5595,7 +5597,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/marefr">
 				<img src="https://avatars.githubusercontent.com/u/1668778?s=72&v=4" width="24" alt="Avatar of marefr"> marefr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#marefr">Copy rank badge</a><br/>
 			Marcus Efraimsson
 		</td>
 		<td>@anaherix </td>
@@ -5608,7 +5610,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/siamaksade">
 				<img src="https://avatars.githubusercontent.com/u/1174934?s=72&u=9763b3f1109f3dd77b6e15fb73372a5466eb5af7&v=4" width="24" alt="Avatar of siamaksade"> siamaksade
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#siamaksade">Copy rank badge</a><br/>
 			Siamak Sadeghianfar
 		</td>
 		<td>Red Hat </td>
@@ -5621,7 +5623,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/tomsoderlund">
 				<img src="https://avatars.githubusercontent.com/u/1368668?s=72&u=5edc4c7e8277b19c438d174752dffdeb53accc2b&v=4" width="24" alt="Avatar of tomsoderlund"> tomsoderlund
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#tomsoderlund">Copy rank badge</a><br/>
 			Tom Söderlund
 		</td>
 		<td>Blenda Labs </td>
@@ -5634,7 +5636,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Soitora">
 				<img src="https://avatars.githubusercontent.com/u/10836780?s=72&u=c2f17da2ef8f718207ae734f4bb10b9468382eb3&v=4" width="24" alt="Avatar of Soitora"> Soitora
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Soitora">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5647,7 +5649,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/samuelkraft">
 				<img src="https://avatars.githubusercontent.com/u/2223418?s=72&u=32815a878be90b0a2da01ba20f876cda53e0f1e1&v=4" width="24" alt="Avatar of samuelkraft"> samuelkraft
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#samuelkraft">Copy rank badge</a><br/>
 			Samuel Kraft
 		</td>
 		<td>@raycast </td>
@@ -5660,7 +5662,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mjansson">
 				<img src="https://avatars.githubusercontent.com/u/3316562?s=72&u=468fbf0cefde729d3cec86a291c7a4a870a77f93&v=4" width="24" alt="Avatar of mjansson"> mjansson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mjansson">Copy rank badge</a><br/>
 			Mattias Jansson
 		</td>
 		<td>No Company</td>
@@ -5673,7 +5675,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/fluffybeing">
 				<img src="https://avatars.githubusercontent.com/u/3780511?s=72&u=8cd5f27f066cf3e66ac85867e0fbf5c61162ba92&v=4" width="24" alt="Avatar of fluffybeing"> fluffybeing
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#fluffybeing">Copy rank badge</a><br/>
 			Rahul Ranjan
 		</td>
 		<td>@spotify </td>
@@ -5686,7 +5688,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/NamitaMalik">
 				<img src="https://avatars.githubusercontent.com/u/7893372?s=72&u=7943cba83fc8409a44bef1478a21219c507cd830&v=4" width="24" alt="Avatar of NamitaMalik"> NamitaMalik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#NamitaMalik">Copy rank badge</a><br/>
 			Namita Malik
 		</td>
 		<td>No Company</td>
@@ -5699,7 +5701,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/carolinan">
 				<img src="https://avatars.githubusercontent.com/u/7422055?s=72&u=955566afc47ddbcf10521c2b57acb14405f34ec3&v=4" width="24" alt="Avatar of carolinan"> carolinan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#carolinan">Copy rank badge</a><br/>
 			Carolina Nymark
 		</td>
 		<td>No Company</td>
@@ -5712,7 +5714,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/alvarlagerlof">
 				<img src="https://avatars.githubusercontent.com/u/14835120?s=72&u=25adb6551500a72b946d56e4a27dcf6db6b94359&v=4" width="24" alt="Avatar of alvarlagerlof"> alvarlagerlof
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#alvarlagerlof">Copy rank badge</a><br/>
 			Alvar Lagerlöf
 		</td>
 		<td>@matsmart  </td>
@@ -5725,7 +5727,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/polachok">
 				<img src="https://avatars.githubusercontent.com/u/94035?s=72&v=4" width="24" alt="Avatar of polachok"> polachok
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#polachok">Copy rank badge</a><br/>
 			Alexander Polakov
 		</td>
 		<td>No Company</td>
@@ -5738,7 +5740,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/lastguest">
 				<img src="https://avatars.githubusercontent.com/u/178900?s=72&u=9ea6877064eaec1061b898e7c843cda3d6fcaecb&v=4" width="24" alt="Avatar of lastguest"> lastguest
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#lastguest">Copy rank badge</a><br/>
 			Stefano Azzolini
 		</td>
 		<td>No Company</td>
@@ -5751,7 +5753,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/w33zl">
 				<img src="https://avatars.githubusercontent.com/u/7383510?s=72&u=9dcdfae01aed9b530904c61068c06c95e1be6730&v=4" width="24" alt="Avatar of w33zl"> w33zl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#w33zl">Copy rank badge</a><br/>
 			WZL Modding
 		</td>
 		<td>Weezl </td>
@@ -5764,7 +5766,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/amir-rahnama">
 				<img src="https://avatars.githubusercontent.com/u/6009583?s=72&u=9b45c7255c65a4cebeddc870dc3268730e7a1a7d&v=4" width="24" alt="Avatar of amir-rahnama"> amir-rahnama
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#amir-rahnama">Copy rank badge</a><br/>
 			Amir Rahnama
 		</td>
 		<td>@allears-ai  </td>
@@ -5777,7 +5779,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/MissPixxie">
 				<img src="https://avatars.githubusercontent.com/u/78534885?s=72&u=30dd3f458af8e9dc0e7c7988cd43a9bce3f50f84&v=4" width="24" alt="Avatar of MissPixxie"> MissPixxie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#MissPixxie">Copy rank badge</a><br/>
 			Emelie
 		</td>
 		<td>No Company</td>
@@ -5790,7 +5792,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/pakerfeldt">
 				<img src="https://avatars.githubusercontent.com/u/195860?s=72&u=c213a3f7110ec6065e7ba3dd38993ca7c89ac9f9&v=4" width="24" alt="Avatar of pakerfeldt"> pakerfeldt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#pakerfeldt">Copy rank badge</a><br/>
 			Patrik Åkerfeldt
 		</td>
 		<td>@znipeesport  </td>
@@ -5803,7 +5805,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Mange">
 				<img src="https://avatars.githubusercontent.com/u/1599?s=72&v=4" width="24" alt="Avatar of Mange"> Mange
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Mange">Copy rank badge</a><br/>
 			Magnus Bergmark
 		</td>
 		<td>Devbox @devbox-ab </td>
@@ -5816,7 +5818,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jyp">
 				<img src="https://avatars.githubusercontent.com/u/27747?s=72&u=f1edca116de055a1cc5ee273834163a7b00fee6f&v=4" width="24" alt="Avatar of jyp"> jyp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jyp">Copy rank badge</a><br/>
 			Jean-Philippe Bernardy
 		</td>
 		<td>University Of Gothenburg </td>
@@ -5829,7 +5831,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ledongthuc">
 				<img src="https://avatars.githubusercontent.com/u/1828895?s=72&u=add2ba1214c507271c252a5dfcd23affc7135b48&v=4" width="24" alt="Avatar of ledongthuc"> ledongthuc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ledongthuc">Copy rank badge</a><br/>
 			Thuc Le
 		</td>
 		<td>Limina Ab </td>
@@ -5842,7 +5844,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/MarcusOtter">
 				<img src="https://avatars.githubusercontent.com/u/35617441?s=72&u=1cb3a186ccc75d24e43bfcc54c0d27f60a26dc5e&v=4" width="24" alt="Avatar of MarcusOtter"> MarcusOtter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#MarcusOtter">Copy rank badge</a><br/>
 			Marcus Otterström
 		</td>
 		<td>@caspeco </td>
@@ -5855,7 +5857,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/happi">
 				<img src="https://avatars.githubusercontent.com/u/158428?s=72&u=c243070ba21a12f68d226e2ccb0f06a83bebecef&v=4" width="24" alt="Avatar of happi"> happi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#happi">Copy rank badge</a><br/>
 			Erik Stenman
 		</td>
 		<td>Happihacking Ab </td>
@@ -5868,7 +5870,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/sebbekarlsson">
 				<img src="https://avatars.githubusercontent.com/u/6907725?s=72&u=27fb94a02b0ddb060ea2cbf9a76a4a17e47b466e&v=4" width="24" alt="Avatar of sebbekarlsson"> sebbekarlsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#sebbekarlsson">Copy rank badge</a><br/>
 			Sebastian Karlsson (ianertson)
 		</td>
 		<td>No Company</td>
@@ -5881,7 +5883,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/sm0svx">
 				<img src="https://avatars.githubusercontent.com/u/653045?s=72&v=4" width="24" alt="Avatar of sm0svx"> sm0svx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#sm0svx">Copy rank badge</a><br/>
 			Tobias Blomberg
 		</td>
 		<td>No Company</td>
@@ -5894,7 +5896,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Swizzy">
 				<img src="https://avatars.githubusercontent.com/u/1915633?s=72&v=4" width="24" alt="Avatar of Swizzy"> Swizzy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Swizzy">Copy rank badge</a><br/>
 			Swizzy
 		</td>
 		<td>Causey & Westling Consulting<br/>Ab<br/></td>
@@ -5907,7 +5909,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kabirbaidhya">
 				<img src="https://avatars.githubusercontent.com/u/3315763?s=72&u=681ba115fb1faa60c7297039b8767246302ca081&v=4" width="24" alt="Avatar of kabirbaidhya"> kabirbaidhya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kabirbaidhya">Copy rank badge</a><br/>
 			Kabir Baidhya
 		</td>
 		<td>@ubiquiti </td>
@@ -5920,7 +5922,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ajweeks">
 				<img src="https://avatars.githubusercontent.com/u/4230924?s=72&u=bb33a8f5a4659ad2710d9d8ae1d8a6264f07a85f&v=4" width="24" alt="Avatar of ajweeks"> ajweeks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ajweeks">Copy rank badge</a><br/>
 			AJ Weeks
 		</td>
 		<td>No Company</td>
@@ -5933,7 +5935,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/DMarby">
 				<img src="https://avatars.githubusercontent.com/u/174626?s=72&u=35b184f265ccf298d18a3da0c3f78b020b43abf9&v=4" width="24" alt="Avatar of DMarby"> DMarby
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#DMarby">Copy rank badge</a><br/>
 			David Marby
 		</td>
 		<td>No Company</td>
@@ -5946,7 +5948,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/hikari-no-yume">
 				<img src="https://avatars.githubusercontent.com/u/579774?s=72&u=1c0cedf00919b87ce8162c46019f62a1710010bf&v=4" width="24" alt="Avatar of hikari-no-yume"> hikari-no-yume
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#hikari-no-yume">Copy rank badge</a><br/>
 			hikari_no_yume
 		</td>
 		<td>No Company</td>
@@ -5959,7 +5961,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/pomle">
 				<img src="https://avatars.githubusercontent.com/u/1315639?s=72&v=4" width="24" alt="Avatar of pomle"> pomle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#pomle">Copy rank badge</a><br/>
 			Pontus Alexander
 		</td>
 		<td>No Company</td>
@@ -5972,7 +5974,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/tru">
 				<img src="https://avatars.githubusercontent.com/u/35614?s=72&u=0d82c22570ce274c9a2251f71aa208461de15ae7&v=4" width="24" alt="Avatar of tru"> tru
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#tru">Copy rank badge</a><br/>
 			Tobias Hieta
 		</td>
 		<td>@ubisoft  </td>
@@ -5985,7 +5987,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Grimler91">
 				<img src="https://avatars.githubusercontent.com/u/18900601?s=72&u=ee1e7b800a23a2d9801b2bc36632a3e4adea2ad6&v=4" width="24" alt="Avatar of Grimler91"> Grimler91
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Grimler91">Copy rank badge</a><br/>
 			Henrik Grimler
 		</td>
 		<td>No Company</td>
@@ -5998,7 +6000,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/flavianmissi">
 				<img src="https://avatars.githubusercontent.com/u/444856?s=72&u=19fb9acc54f83f904cc801e5d124564051cee154&v=4" width="24" alt="Avatar of flavianmissi"> flavianmissi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#flavianmissi">Copy rank badge</a><br/>
 			Flavian Missi
 		</td>
 		<td>Red Hat </td>
@@ -6011,7 +6013,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ezedinff">
 				<img src="https://avatars.githubusercontent.com/u/19648503?s=72&u=4c8921e345fc3cf6a22632945a406e2067487b42&v=4" width="24" alt="Avatar of ezedinff"> ezedinff
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ezedinff">Copy rank badge</a><br/>
 			Ezedin Fedlu
 		</td>
 		<td>Volvo Cars </td>
@@ -6024,7 +6026,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mortberg">
 				<img src="https://avatars.githubusercontent.com/u/1068413?s=72&u=f0d1fdb1557b73287cfdfd671e4537f39271c5f8&v=4" width="24" alt="Avatar of mortberg"> mortberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mortberg">Copy rank badge</a><br/>
 			Anders Mörtberg
 		</td>
 		<td>No Company</td>
@@ -6037,7 +6039,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ghostbear">
 				<img src="https://avatars.githubusercontent.com/u/6576096?s=72&u=c5f80f4e059b37b7497ccdaf96d94dceb4970605&v=4" width="24" alt="Avatar of ghostbear"> ghostbear
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ghostbear">Copy rank badge</a><br/>
 			Andreas
 		</td>
 		<td>No Company</td>
@@ -6050,7 +6052,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/sinanartun">
 				<img src="https://avatars.githubusercontent.com/u/26043673?s=72&u=dc32bf19c8b3b792c9b617f1bc684607e6ffb7a0&v=4" width="24" alt="Avatar of sinanartun"> sinanartun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#sinanartun">Copy rank badge</a><br/>
 			Sinan ARTUN
 		</td>
 		<td>Sinanartun.com </td>
@@ -6063,7 +6065,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/letoram">
 				<img src="https://avatars.githubusercontent.com/u/5888792?s=72&u=1303f5234a3bbdd068ec76ecfdb8fb6734aa5b9c&v=4" width="24" alt="Avatar of letoram"> letoram
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#letoram">Copy rank badge</a><br/>
 			Bjorn Stahl
 		</td>
 		<td>No Company</td>
@@ -6076,7 +6078,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/trapd00r">
 				<img src="https://avatars.githubusercontent.com/u/43331?s=72&u=9b7bea245930fa680b2ceab80c4f828a55b01344&v=4" width="24" alt="Avatar of trapd00r"> trapd00r
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#trapd00r">Copy rank badge</a><br/>
 			magnus woldrich
 		</td>
 		<td>No Company</td>
@@ -6089,7 +6091,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dogmatic69">
 				<img src="https://avatars.githubusercontent.com/u/94674?s=72&u=ca7647de53145c6283b6373ade5dc94ba99347db&v=4" width="24" alt="Avatar of dogmatic69"> dogmatic69
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dogmatic69">Copy rank badge</a><br/>
 			Carl Sutton
 		</td>
 		<td>@ingka-group-digital </td>
@@ -6102,7 +6104,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Marwes">
 				<img src="https://avatars.githubusercontent.com/u/957312?s=72&u=61244c66166ebb47671f711a523548fc78c1d794&v=4" width="24" alt="Avatar of Marwes"> Marwes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Marwes">Copy rank badge</a><br/>
 			Markus Westerlind
 		</td>
 		<td>No Company</td>
@@ -6115,7 +6117,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/zegl">
 				<img src="https://avatars.githubusercontent.com/u/47952?s=72&u=ea6f04adb8a7bb6c0d52f903376d8a9e42e619a6&v=4" width="24" alt="Avatar of zegl"> zegl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#zegl">Copy rank badge</a><br/>
 			Gustav Westling
 		</td>
 		<td>@sanalabs  </td>
@@ -6128,7 +6130,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mhuzaifadev">
 				<img src="https://avatars.githubusercontent.com/u/52717891?s=72&u=e7aead766b8f3bafa50c653b9878ff0adce5cbc2&v=4" width="24" alt="Avatar of mhuzaifadev"> mhuzaifadev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mhuzaifadev">Copy rank badge</a><br/>
 			Muhammad Huzaifa Shahbaz
 		</td>
 		<td>Digital Dividend Global </td>
@@ -6141,7 +6143,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/actuallyaridan">
 				<img src="https://avatars.githubusercontent.com/u/96298432?s=72&u=a037a298e8b8d3b4e768d62f81363f17478ebc80&v=4" width="24" alt="Avatar of actuallyaridan"> actuallyaridan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#actuallyaridan">Copy rank badge</a><br/>
 			Adnan Bukvic
 		</td>
 		<td>No Company</td>
@@ -6154,7 +6156,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dflemstr">
 				<img src="https://avatars.githubusercontent.com/u/56029?s=72&v=4" width="24" alt="Avatar of dflemstr"> dflemstr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dflemstr">Copy rank badge</a><br/>
 			David Flemström
 		</td>
 		<td>@modal-labs  </td>
@@ -6167,7 +6169,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Dr-TSNG">
 				<img src="https://avatars.githubusercontent.com/u/52071314?s=72&u=8b7c7c95d34a0b03e60ff352d739c95e64061e08&v=4" width="24" alt="Avatar of Dr-TSNG"> Dr-TSNG
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Dr-TSNG">Copy rank badge</a><br/>
 			Nullptr
 		</td>
 		<td>Student@kth </td>
@@ -6180,7 +6182,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/vcwild">
 				<img src="https://avatars.githubusercontent.com/u/49621396?s=72&u=728a00f46219cdf4896f45f0d9bd5e5305e83a92&v=4" width="24" alt="Avatar of vcwild"> vcwild
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#vcwild">Copy rank badge</a><br/>
 			Victor Wildner
 		</td>
 		<td>@etraveli </td>
@@ -6193,7 +6195,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/simonduq">
 				<img src="https://avatars.githubusercontent.com/u/1425999?s=72&u=9e3bbed6e387bfb1e9218b15582afe55e367fb12&v=4" width="24" alt="Avatar of simonduq"> simonduq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#simonduq">Copy rank badge</a><br/>
 			Simon Duquennoy
 		</td>
 		<td>No Company</td>
@@ -6206,7 +6208,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/rakibtg">
 				<img src="https://avatars.githubusercontent.com/u/5412730?s=72&u=cbf5403bacb0f364e5f8d4c12641e8f74eadec95&v=4" width="24" alt="Avatar of rakibtg"> rakibtg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#rakibtg">Copy rank badge</a><br/>
 			Kazi Mehedi Hasan
 		</td>
 		<td>No Company</td>
@@ -6219,7 +6221,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ufrisk">
 				<img src="https://avatars.githubusercontent.com/u/18221464?s=72&u=a3c3b6e1b5621fe92cfa9eb82cab30a8fdce9520&v=4" width="24" alt="Avatar of ufrisk"> ufrisk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ufrisk">Copy rank badge</a><br/>
 			Ulf Frisk
 		</td>
 		<td>No Company</td>
@@ -6232,7 +6234,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/beiciliang">
 				<img src="https://avatars.githubusercontent.com/u/11922736?s=72&u=e117167389c841a36f45d7bcae07abb2c2a06bb8&v=4" width="24" alt="Avatar of beiciliang"> beiciliang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#beiciliang">Copy rank badge</a><br/>
 			Beici Liang
 		</td>
 		<td>Epidemic Sound </td>
@@ -6245,7 +6247,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/op">
 				<img src="https://avatars.githubusercontent.com/u/55245?s=72&u=85add75c633cc362b030f1ea6ff9babb8a2a9714&v=4" width="24" alt="Avatar of op"> op
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#op">Copy rank badge</a><br/>
 			Örjan Fors
 		</td>
 		<td>No Company</td>
@@ -6258,7 +6260,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/liufuyang">
 				<img src="https://avatars.githubusercontent.com/u/161689?s=72&u=dc5c09e1677d1d205459ff0bda8b4c05ede2798e&v=4" width="24" alt="Avatar of liufuyang"> liufuyang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#liufuyang">Copy rank badge</a><br/>
 			Fuyang Liu
 		</td>
 		<td>Comsol </td>
@@ -6271,7 +6273,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Nevon">
 				<img src="https://avatars.githubusercontent.com/u/83586?s=72&u=87641963a6285c7e5730a6626bf74af6e2ecd33e&v=4" width="24" alt="Avatar of Nevon"> Nevon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Nevon">Copy rank badge</a><br/>
 			Tommy Brunn
 		</td>
 		<td>Klarna </td>
@@ -6284,7 +6286,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/vlarsson">
 				<img src="https://avatars.githubusercontent.com/u/48490995?s=72&v=4" width="24" alt="Avatar of vlarsson"> vlarsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#vlarsson">Copy rank badge</a><br/>
 			Viktor Larsson
 		</td>
 		<td>Lund University </td>
@@ -6297,7 +6299,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/helioloureiro">
 				<img src="https://avatars.githubusercontent.com/u/6479951?s=72&u=1ccbd2e8fece12d5212376cbbd2c21e9d086f244&v=4" width="24" alt="Avatar of helioloureiro"> helioloureiro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#helioloureiro">Copy rank badge</a><br/>
 			Helio Loureiro
 		</td>
 		<td>Loureiro Inc </td>
@@ -6310,7 +6312,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/semomo12">
 				<img src="https://avatars.githubusercontent.com/u/180536693?s=72&u=a38b234db51ddc9c89e281a789a63eaec61ee5da&v=4" width="24" alt="Avatar of semomo12"> semomo12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#semomo12">Copy rank badge</a><br/>
 			Mostafa Mohseni
 		</td>
 		<td>No Company</td>
@@ -6323,7 +6325,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ivanpaulovich">
 				<img src="https://avatars.githubusercontent.com/u/7133698?s=72&v=4" width="24" alt="Avatar of ivanpaulovich"> ivanpaulovich
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ivanpaulovich">Copy rank badge</a><br/>
 			Ivan Paulovich
 		</td>
 		<td>@lunarway </td>
@@ -6336,7 +6338,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/patrikja">
 				<img src="https://avatars.githubusercontent.com/u/662883?s=72&u=1292aa77b936c953f99dc1a77be93087a71cf91d&v=4" width="24" alt="Avatar of patrikja"> patrikja
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#patrikja">Copy rank badge</a><br/>
 			Patrik Jansson
 		</td>
 		<td>Chalmers University Of Technology<br/></td>
@@ -6349,7 +6351,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/gbrindisi">
 				<img src="https://avatars.githubusercontent.com/u/287126?s=72&u=1af1cf0e16d2dbb7010ee8032155bf53f1678fbb&v=4" width="24" alt="Avatar of gbrindisi"> gbrindisi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#gbrindisi">Copy rank badge</a><br/>
 			Gianluca Brindisi
 		</td>
 		<td>Https://synthesia.io </td>
@@ -6362,7 +6364,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/joseftw">
 				<img src="https://avatars.githubusercontent.com/u/1232096?s=72&u=a4429af619cede7ecd141dc4993093490c301983&v=4" width="24" alt="Avatar of joseftw"> joseftw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#joseftw">Copy rank badge</a><br/>
 			Josef Ottosson
 		</td>
 		<td>No Company</td>
@@ -6375,7 +6377,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Victorystick">
 				<img src="https://avatars.githubusercontent.com/u/703602?s=72&u=366c08c3b76365103c5aab058ac7dab68750cf4f&v=4" width="24" alt="Avatar of Victorystick"> Victorystick
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Victorystick">Copy rank badge</a><br/>
 			Oskar Segersvärd
 		</td>
 		<td>No Company</td>
@@ -6388,7 +6390,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ilsilfverskiold">
 				<img src="https://avatars.githubusercontent.com/u/26217092?s=72&u=1abc862cef3a770263a96afa80294fbfd4e52d7e&v=4" width="24" alt="Avatar of ilsilfverskiold"> ilsilfverskiold
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ilsilfverskiold">Copy rank badge</a><br/>
 			Ida
 		</td>
 		<td>No Company</td>
@@ -6401,7 +6403,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/bhassani">
 				<img src="https://avatars.githubusercontent.com/u/5201019?s=72&u=7a858b0434b8805f2a012d996f5199e72458b297&v=4" width="24" alt="Avatar of bhassani"> bhassani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#bhassani">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6414,7 +6416,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/johanbrook">
 				<img src="https://avatars.githubusercontent.com/u/437261?s=72&u=d78538299856223f27a0b7e2f72a093bd84ee4b4&v=4" width="24" alt="Avatar of johanbrook"> johanbrook
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#johanbrook">Copy rank badge</a><br/>
 			Johan Brook
 		</td>
 		<td>Lookback </td>
@@ -6427,7 +6429,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/svendahlstrand">
 				<img src="https://avatars.githubusercontent.com/u/35639?s=72&v=4" width="24" alt="Avatar of svendahlstrand"> svendahlstrand
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#svendahlstrand">Copy rank badge</a><br/>
 			Sven Dahlstrand
 		</td>
 		<td>@kodkosmos  </td>
@@ -6440,7 +6442,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/eldh">
 				<img src="https://avatars.githubusercontent.com/u/612703?s=72&v=4" width="24" alt="Avatar of eldh"> eldh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#eldh">Copy rank badge</a><br/>
 			Andreas Eldh
 		</td>
 		<td>@linearapp  </td>
@@ -6453,7 +6455,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/niklasekstrom">
 				<img src="https://avatars.githubusercontent.com/u/6104627?s=72&u=a50f7d07043405d48931e1717b3b8e403434d8e2&v=4" width="24" alt="Avatar of niklasekstrom"> niklasekstrom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#niklasekstrom">Copy rank badge</a><br/>
 			Niklas Ekström
 		</td>
 		<td>No Company</td>
@@ -6466,7 +6468,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ElPumpo">
 				<img src="https://avatars.githubusercontent.com/u/12564301?s=72&v=4" width="24" alt="Avatar of ElPumpo"> ElPumpo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ElPumpo">Copy rank badge</a><br/>
 			Samuel
 		</td>
 		<td>No Company</td>
@@ -6479,7 +6481,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/noumannahmad">
 				<img src="https://avatars.githubusercontent.com/u/43134572?s=72&u=1c9b29309a259f5d6ea95d1cfd05b4101f8d189e&v=4" width="24" alt="Avatar of noumannahmad"> noumannahmad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#noumannahmad">Copy rank badge</a><br/>
 			Nouman Ahmad
 		</td>
 		<td>Softbox Technologies </td>
@@ -6492,7 +6494,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mattiasgustavsson">
 				<img src="https://avatars.githubusercontent.com/u/15855267?s=72&u=ccecc9b39658aeb365529e115ab103249f5a94e6&v=4" width="24" alt="Avatar of mattiasgustavsson"> mattiasgustavsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mattiasgustavsson">Copy rank badge</a><br/>
 			Mattias Gustavsson
 		</td>
 		<td>No Company</td>
@@ -6505,7 +6507,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/arturo182">
 				<img src="https://avatars.githubusercontent.com/u/249082?s=72&u=dc0c9048bb2a41d74c37c22e5fce068f35c21324&v=4" width="24" alt="Avatar of arturo182"> arturo182
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#arturo182">Copy rank badge</a><br/>
 			arturo182
 		</td>
 		<td>Solder Party Ab </td>
@@ -6518,7 +6520,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Temerold">
 				<img src="https://avatars.githubusercontent.com/u/67090612?s=72&u=e4bf75f5ee6b2f90b78f75b9a2d749b1fb3130cf&v=4" width="24" alt="Avatar of Temerold"> Temerold
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Temerold">Copy rank badge</a><br/>
 			Temerold
 		</td>
 		<td>@temerold-se </td>
@@ -6531,7 +6533,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/magnus-larsson">
 				<img src="https://avatars.githubusercontent.com/u/1313727?s=72&u=f6f775d231f001ebb1f10251bf54990d60be600d&v=4" width="24" alt="Avatar of magnus-larsson"> magnus-larsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#magnus-larsson">Copy rank badge</a><br/>
 			Magnus Larsson
 		</td>
 		<td>Callista Enterprise Ab </td>
@@ -6544,7 +6546,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kewah">
 				<img src="https://avatars.githubusercontent.com/u/195442?s=72&u=2d12f4a20c67e3402c5c259b13de6505c00a7fce&v=4" width="24" alt="Avatar of kewah"> kewah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kewah">Copy rank badge</a><br/>
 			Antoine Lehurt
 		</td>
 		<td>@sanalabs  </td>
@@ -6557,7 +6559,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jiwidi">
 				<img src="https://avatars.githubusercontent.com/u/10882086?s=72&u=047b5c4565f6cedbd21abd1b4cf95b933c1c65a6&v=4" width="24" alt="Avatar of jiwidi"> jiwidi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jiwidi">Copy rank badge</a><br/>
 			Jaime FH
 		</td>
 		<td>No Company</td>
@@ -6570,7 +6572,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/asbott">
 				<img src="https://avatars.githubusercontent.com/u/66182434?s=72&u=ea5f71ea6046de45468bfd20c81ab5472d6fc88b&v=4" width="24" alt="Avatar of asbott"> asbott
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#asbott">Copy rank badge</a><br/>
 			Charlie
 		</td>
 		<td>No Company</td>
@@ -6583,7 +6585,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/javve">
 				<img src="https://avatars.githubusercontent.com/u/123192?s=72&u=74525f7edc0c551b3e5b079c7f8b541339754ac3&v=4" width="24" alt="Avatar of javve"> javve
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#javve">Copy rank badge</a><br/>
 			Jonny Strömberg
 		</td>
 		<td>@confetti  </td>
@@ -6596,7 +6598,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ErFUN-KH">
 				<img src="https://avatars.githubusercontent.com/u/10438900?s=72&u=6cdaf0da28352835c4ca1645c6198dc4ee107013&v=4" width="24" alt="Avatar of ErFUN-KH"> ErFUN-KH
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ErFUN-KH">Copy rank badge</a><br/>
 			ErFUN KH
 		</td>
 		<td>No Company</td>
@@ -6609,7 +6611,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/johang">
 				<img src="https://avatars.githubusercontent.com/u/41016?s=72&v=4" width="24" alt="Avatar of johang"> johang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#johang">Copy rank badge</a><br/>
 			Johan Gunnarsson
 		</td>
 		<td>No Company</td>
@@ -6622,7 +6624,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/LiveLikeCounter">
 				<img src="https://avatars.githubusercontent.com/u/24720382?s=72&u=aa2d01a8dcb8c58733603327e784490a1e47a168&v=4" width="24" alt="Avatar of LiveLikeCounter"> LiveLikeCounter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#LiveLikeCounter">Copy rank badge</a><br/>
 			Johan
 		</td>
 		<td>Interestinate </td>
@@ -6635,7 +6637,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/cagdass">
 				<img src="https://avatars.githubusercontent.com/u/6324802?s=72&u=2adac58bf38da84c53c89ca671db5ce1bf6bf2f4&v=4" width="24" alt="Avatar of cagdass"> cagdass
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#cagdass">Copy rank badge</a><br/>
 			Çağdaş
 		</td>
 		<td>No Company</td>
@@ -6648,7 +6650,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/StevenVanAcker">
 				<img src="https://avatars.githubusercontent.com/u/2060446?s=72&v=4" width="24" alt="Avatar of StevenVanAcker"> StevenVanAcker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#StevenVanAcker">Copy rank badge</a><br/>
 			Steven Van Acker
 		</td>
 		<td>No Company</td>
@@ -6661,7 +6663,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/superdump">
 				<img src="https://avatars.githubusercontent.com/u/302146?s=72&u=be3fbc18882b2133939525f431d6cefcf45c1739&v=4" width="24" alt="Avatar of superdump"> superdump
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#superdump">Copy rank badge</a><br/>
 			Robert Swain
 		</td>
 		<td>No Company</td>
@@ -6674,7 +6676,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Z3rio">
 				<img src="https://avatars.githubusercontent.com/u/54480523?s=72&u=4aa101fbca7f0f0440e6c7704c6e6934049294e0&v=4" width="24" alt="Avatar of Z3rio"> Z3rio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Z3rio">Copy rank badge</a><br/>
 			Zerio
 		</td>
 		<td>@zerio-ab </td>
@@ -6687,7 +6689,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/aboullaite">
 				<img src="https://avatars.githubusercontent.com/u/2836850?s=72&u=81685728c1db8ffb502e922f7f21a039819f2e73&v=4" width="24" alt="Avatar of aboullaite"> aboullaite
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#aboullaite">Copy rank badge</a><br/>
 			Mohammed Aboullaite
 		</td>
 		<td>@spotify </td>
@@ -6700,7 +6702,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/FOLLGAD">
 				<img src="https://avatars.githubusercontent.com/u/1856197?s=72&u=ba9754e73ca5f8e75654abf4fcd9dfa31b3f8c8e&v=4" width="24" alt="Avatar of FOLLGAD"> FOLLGAD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#FOLLGAD">Copy rank badge</a><br/>
 			Emil Ahlbäck
 		</td>
 		<td>Lovable </td>
@@ -6713,7 +6715,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/OmalPerera">
 				<img src="https://avatars.githubusercontent.com/u/11645048?s=72&u=0d8a8797a614c06ff8d07773e57a7c022518e2cf&v=4" width="24" alt="Avatar of OmalPerera"> OmalPerera
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#OmalPerera">Copy rank badge</a><br/>
 			Omal Perera
 		</td>
 		<td>Dietdoctor / Hava </td>
@@ -6726,7 +6728,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Kerem1989">
 				<img src="https://avatars.githubusercontent.com/u/98690898?s=72&u=8205a00c306a1baa5673ce0603005401571a5a4e&v=4" width="24" alt="Avatar of Kerem1989"> Kerem1989
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Kerem1989">Copy rank badge</a><br/>
 			Kerem Bjälvenäs Tazedal
 		</td>
 		<td>No Company</td>
@@ -6739,7 +6741,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/bergquist">
 				<img src="https://avatars.githubusercontent.com/u/618863?s=72&u=3e138dc82d635ddf0c5c82e6463edb81b2205a74&v=4" width="24" alt="Avatar of bergquist"> bergquist
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#bergquist">Copy rank badge</a><br/>
 			Carl Bergquist
 		</td>
 		<td>@grafana  </td>
@@ -6752,7 +6754,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/iconara">
 				<img src="https://avatars.githubusercontent.com/u/73330?s=72&u=e52569336cb41365a22ae47c3865b429e8a3ee6c&v=4" width="24" alt="Avatar of iconara"> iconara
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#iconara">Copy rank badge</a><br/>
 			Theo
 		</td>
 		<td>@aws </td>
@@ -6765,7 +6767,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/peterneubauer">
 				<img src="https://avatars.githubusercontent.com/u/11977?s=72&v=4" width="24" alt="Avatar of peterneubauer"> peterneubauer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#peterneubauer">Copy rank badge</a><br/>
 			Peter Neubauer
 		</td>
 		<td>No Company</td>
@@ -6778,7 +6780,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/MagnusThome">
 				<img src="https://avatars.githubusercontent.com/u/32169384?s=72&u=7de8d39d80ab33f23b8782a279aefa32ab0962f1&v=4" width="24" alt="Avatar of MagnusThome"> MagnusThome
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#MagnusThome">Copy rank badge</a><br/>
 			Magnus Thomé
 		</td>
 		<td>No Company</td>
@@ -6791,7 +6793,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/MichaelGustavsson">
 				<img src="https://avatars.githubusercontent.com/u/8419476?s=72&u=f66dac79ae8f74173d39d2c1555be538747a3c95&v=4" width="24" alt="Avatar of MichaelGustavsson"> MichaelGustavsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#MichaelGustavsson">Copy rank badge</a><br/>
 			Michael Gustavsson
 		</td>
 		<td>Softtech Development </td>
@@ -6804,7 +6806,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kbeckmann">
 				<img src="https://avatars.githubusercontent.com/u/3134352?s=72&v=4" width="24" alt="Avatar of kbeckmann"> kbeckmann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kbeckmann">Copy rank badge</a><br/>
 			Konrad Beckmann
 		</td>
 		<td>No Company</td>
@@ -6817,7 +6819,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/victorbjorklund">
 				<img src="https://avatars.githubusercontent.com/u/4668654?s=72&u=cd168906f09b22167169a1b948c0468ee3290383&v=4" width="24" alt="Avatar of victorbjorklund"> victorbjorklund
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#victorbjorklund">Copy rank badge</a><br/>
 			Victor Björklund
 		</td>
 		<td>No Company</td>
@@ -6830,7 +6832,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jnicklas">
 				<img src="https://avatars.githubusercontent.com/u/134?s=72&v=4" width="24" alt="Avatar of jnicklas"> jnicklas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jnicklas">Copy rank badge</a><br/>
 			Jonas Nicklas
 		</td>
 		<td>Jnicklas Consulting </td>
@@ -6843,7 +6845,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/secworks">
 				<img src="https://avatars.githubusercontent.com/u/1833061?s=72&v=4" width="24" alt="Avatar of secworks"> secworks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#secworks">Copy rank badge</a><br/>
 			Joachim Strömbergson
 		</td>
 		<td>Assured Ab </td>
@@ -6856,7 +6858,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/leon">
 				<img src="https://avatars.githubusercontent.com/u/13211?s=72&u=082cfa606d571fd4c8a67a722c3f4d8621482133&v=4" width="24" alt="Avatar of leon"> leon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#leon">Copy rank badge</a><br/>
 			Leon Radley
 		</td>
 		<td>@locka </td>
@@ -6869,7 +6871,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/hijaaack">
 				<img src="https://avatars.githubusercontent.com/u/75740551?s=72&u=1b1243f24078fabb36c267981e6fbf866c793189&v=4" width="24" alt="Avatar of hijaaack"> hijaaack
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#hijaaack">Copy rank badge</a><br/>
 			Jack Borelius
 		</td>
 		<td>No Company</td>
@@ -6882,7 +6884,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Vild">
 				<img src="https://avatars.githubusercontent.com/u/484438?s=72&u=4aaa23b2f44e6ea42a1e47a3a907d6b13ce9cab3&v=4" width="24" alt="Avatar of Vild"> Vild
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Vild">Copy rank badge</a><br/>
 			Dan Printzell
 		</td>
 		<td>@dagg-ai  </td>
@@ -6895,7 +6897,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/OskarGroth">
 				<img src="https://avatars.githubusercontent.com/u/1417019?s=72&u=5e9bfe116318340aba316207143949eb8e04057d&v=4" width="24" alt="Avatar of OskarGroth"> OskarGroth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#OskarGroth">Copy rank badge</a><br/>
 			Oskar Groth
 		</td>
 		<td>Cindori </td>
@@ -6908,7 +6910,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/linhduongtuan">
 				<img src="https://avatars.githubusercontent.com/u/22388092?s=72&u=ff2c6e49c3d6bac1d4e33bd846ad76973a9457b5&v=4" width="24" alt="Avatar of linhduongtuan"> linhduongtuan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#linhduongtuan">Copy rank badge</a><br/>
 			Linh T. Duong
 		</td>
 		<td>Kth Royal Institute Of<br/>Technology<br/></td>
@@ -6921,7 +6923,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Dahlgren">
 				<img src="https://avatars.githubusercontent.com/u/288631?s=72&u=e8ed3f81c686525c7ec855fe9bc9e1a0217de15c&v=4" width="24" alt="Avatar of Dahlgren"> Dahlgren
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Dahlgren">Copy rank badge</a><br/>
 			Björn Dahlgren
 		</td>
 		<td>No Company</td>
@@ -6934,7 +6936,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kemikal">
 				<img src="https://avatars.githubusercontent.com/u/121049?s=72&v=4" width="24" alt="Avatar of kemikal"> kemikal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kemikal">Copy rank badge</a><br/>
 			Kemikal
 		</td>
 		<td>Hiveandfive </td>
@@ -6947,7 +6949,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Nilsen84">
 				<img src="https://avatars.githubusercontent.com/u/56961087?s=72&v=4" width="24" alt="Avatar of Nilsen84"> Nilsen84
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Nilsen84">Copy rank badge</a><br/>
 			Nils
 		</td>
 		<td>No Company</td>
@@ -6960,7 +6962,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kyrias">
 				<img src="https://avatars.githubusercontent.com/u/2285387?s=72&v=4" width="24" alt="Avatar of kyrias"> kyrias
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kyrias">Copy rank badge</a><br/>
 			Johannes Löthberg
 		</td>
 		<td>Elokon Gmbh </td>
@@ -6973,7 +6975,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/wmnsk">
 				<img src="https://avatars.githubusercontent.com/u/6134010?s=72&u=bcbe41771d1d4758475eb59f6162da2706c22c97&v=4" width="24" alt="Avatar of wmnsk"> wmnsk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#wmnsk">Copy rank badge</a><br/>
 			Yoshiyuki Kurauchi
 		</td>
 		<td>No Company</td>
@@ -6986,7 +6988,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/smahmadpanah">
 				<img src="https://avatars.githubusercontent.com/u/6068637?s=72&u=167be1bed960b0ccabec428868dc864ed256d18d&v=4" width="24" alt="Avatar of smahmadpanah"> smahmadpanah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#smahmadpanah">Copy rank badge</a><br/>
 			Mohammad M. Ahmadpanah
 		</td>
 		<td>Postdoc At Kth Royal<br/>Institute<br/>Of<br/>Technology<br/></td>
@@ -6999,7 +7001,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/drblue">
 				<img src="https://avatars.githubusercontent.com/u/3941411?s=72&u=3643776b963c9de560db4fddb7dd62f5de8b7d75&v=4" width="24" alt="Avatar of drblue"> drblue
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#drblue">Copy rank badge</a><br/>
 			Johan Nordström
 		</td>
 		<td>@the-hive-resistance  </td>
@@ -7012,7 +7014,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/qalle-git">
 				<img src="https://avatars.githubusercontent.com/u/36276161?s=72&u=6b5ebdabacf72f4b0323329019dd57868596ead6&v=4" width="24" alt="Avatar of qalle-git"> qalle-git
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#qalle-git">Copy rank badge</a><br/>
 			qalle
 		</td>
 		<td>Loaded </td>
@@ -7025,7 +7027,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mateogianolio">
 				<img src="https://avatars.githubusercontent.com/u/1065069?s=72&u=4896559545c32924df4fa0cc20c4e6fa908d3a25&v=4" width="24" alt="Avatar of mateogianolio"> mateogianolio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mateogianolio">Copy rank badge</a><br/>
 			Mateo Gianolio
 		</td>
 		<td>No Company</td>
@@ -7038,7 +7040,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/joakimbeng">
 				<img src="https://avatars.githubusercontent.com/u/1427383?s=72&v=4" width="24" alt="Avatar of joakimbeng"> joakimbeng
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#joakimbeng">Copy rank badge</a><br/>
 			Joakim Carlstein
 		</td>
 		<td>@aboviq  </td>
@@ -7051,7 +7053,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kakashidota">
 				<img src="https://avatars.githubusercontent.com/u/20668121?s=72&u=7af26b002ddac5a4dcdd7a5bdf0e67d0793a893f&v=4" width="24" alt="Avatar of kakashidota"> kakashidota
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kakashidota">Copy rank badge</a><br/>
 			Robin Kamo
 		</td>
 		<td>Nion </td>
@@ -7064,7 +7066,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/AhmedAbdulrahman">
 				<img src="https://avatars.githubusercontent.com/u/10485129?s=72&u=cb2d3f114bbd6433f4d75d5f7903dd06f86185a5&v=4" width="24" alt="Avatar of AhmedAbdulrahman"> AhmedAbdulrahman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#AhmedAbdulrahman">Copy rank badge</a><br/>
 			Ahmet Abdulrahman . Señor developer
 		</td>
 		<td>No Company</td>
@@ -7077,7 +7079,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kolmodin">
 				<img src="https://avatars.githubusercontent.com/u/157261?s=72&u=0e0fa67c272586a4de9d407311063a9ad4a6802f&v=4" width="24" alt="Avatar of kolmodin"> kolmodin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kolmodin">Copy rank badge</a><br/>
 			Lennart Kolmodin
 		</td>
 		<td>Google </td>
@@ -7090,7 +7092,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Kwiboo">
 				<img src="https://avatars.githubusercontent.com/u/1200456?s=72&v=4" width="24" alt="Avatar of Kwiboo"> Kwiboo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Kwiboo">Copy rank badge</a><br/>
 			Jonas Karlman
 		</td>
 		<td>Fellowmind </td>
@@ -7103,7 +7105,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/m3hrdadfi">
 				<img src="https://avatars.githubusercontent.com/u/2601833?s=72&u=f855c54605250628687ac80ffdb99e7d7a5099ba&v=4" width="24" alt="Avatar of m3hrdadfi"> m3hrdadfi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#m3hrdadfi">Copy rank badge</a><br/>
 			Mehrdad Farahani
 		</td>
 		<td>Chalmers University Of Technology<br/></td>
@@ -7116,7 +7118,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/calleluks">
 				<img src="https://avatars.githubusercontent.com/u/66666?s=72&u=fc14df8d5703b2ccf5d15dda2a212ae6b6a2c0e7&v=4" width="24" alt="Avatar of calleluks"> calleluks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#calleluks">Copy rank badge</a><br/>
 			Calle Luks
 		</td>
 		<td>@pliroco </td>
@@ -7129,7 +7131,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/bergmark">
 				<img src="https://avatars.githubusercontent.com/u/100681?s=72&u=a61c516443f4cbfde578e01f17432a06ba302c30&v=4" width="24" alt="Avatar of bergmark"> bergmark
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#bergmark">Copy rank badge</a><br/>
 			Adam Bergmark
 		</td>
 		<td>No Company</td>
@@ -7142,7 +7144,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/quantshah">
 				<img src="https://avatars.githubusercontent.com/u/6968324?s=72&u=10438e84d1ef57aecc0ab4070e43795f23c13793&v=4" width="24" alt="Avatar of quantshah"> quantshah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#quantshah">Copy rank badge</a><br/>
 			Shahnawaz Ahmed
 		</td>
 		<td>@embedl Chalmers, Riken @qutip<br/>@pyquantum<br/>@qgrad<br/></td>
@@ -7155,7 +7157,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/MagerValp">
 				<img src="https://avatars.githubusercontent.com/u/404393?s=72&v=4" width="24" alt="Avatar of MagerValp"> MagerValp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#MagerValp">Copy rank badge</a><br/>
 			Per Olofsson
 		</td>
 		<td>No Company</td>
@@ -7168,7 +7170,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/IonelPopJara">
 				<img src="https://avatars.githubusercontent.com/u/72368518?s=72&u=ce7ac7f09cdcf5cf6780a1ec16e970e8a9b8e0d3&v=4" width="24" alt="Avatar of IonelPopJara"> IonelPopJara
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#IonelPopJara">Copy rank badge</a><br/>
 			Ionel Pop
 		</td>
 		<td>No Company</td>
@@ -7181,7 +7183,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/andras-nemes">
 				<img src="https://avatars.githubusercontent.com/u/4129804?s=72&u=e116c58e2b76037d78981d57a3ad16af47ca8f2a&v=4" width="24" alt="Avatar of andras-nemes"> andras-nemes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#andras-nemes">Copy rank badge</a><br/>
 			Andras Nemes
 		</td>
 		<td>No Company</td>
@@ -7194,7 +7196,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ssheikholeslami">
 				<img src="https://avatars.githubusercontent.com/u/1773069?s=72&u=70bb173e96448fdc215710801b7dda4cf4fa8c13&v=4" width="24" alt="Avatar of ssheikholeslami"> ssheikholeslami
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ssheikholeslami">Copy rank badge</a><br/>
 			Sina Sheikholeslami
 		</td>
 		<td>Kth Climate Action Centre<br/></td>
@@ -7207,7 +7209,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/johan-bjareholt">
 				<img src="https://avatars.githubusercontent.com/u/1398500?s=72&u=ab5a4b312b98753e430a7316de727ee17197d486&v=4" width="24" alt="Avatar of johan-bjareholt"> johan-bjareholt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#johan-bjareholt">Copy rank badge</a><br/>
 			Johan Bjäreholt
 		</td>
 		<td>No Company</td>
@@ -7220,7 +7222,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/imansafari1991">
 				<img src="https://avatars.githubusercontent.com/u/52294855?s=72&u=f06767f095b8ec13e7638bfbd3df3c178cbcc76a&v=4" width="24" alt="Avatar of imansafari1991"> imansafari1991
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#imansafari1991">Copy rank badge</a><br/>
 			iman safari
 		</td>
 		<td>Medius </td>
@@ -7233,7 +7235,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/NickolajA">
 				<img src="https://avatars.githubusercontent.com/u/14348341?s=72&u=9e609f2a1c0241f509c5d2aafaae4fddadd4b753&v=4" width="24" alt="Avatar of NickolajA"> NickolajA
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#NickolajA">Copy rank badge</a><br/>
 			Nickolaj Andersen
 		</td>
 		<td>Ericsson </td>
@@ -7246,7 +7248,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/rehrumesh">
 				<img src="https://avatars.githubusercontent.com/u/2035004?s=72&u=38d481d358ab1c773af0343cdd0f3eb59a7b45ad&v=4" width="24" alt="Avatar of rehrumesh"> rehrumesh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#rehrumesh">Copy rank badge</a><br/>
 			Rumesh Eranga Hapuarachchi
 		</td>
 		<td>No Company</td>
@@ -7259,7 +7261,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/azr">
 				<img src="https://avatars.githubusercontent.com/u/1024852?s=72&v=4" width="24" alt="Avatar of azr"> azr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#azr">Copy rank badge</a><br/>
 			Adrien Delorme
 		</td>
 		<td>No Company</td>
@@ -7272,7 +7274,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mollstam">
 				<img src="https://avatars.githubusercontent.com/u/385582?s=72&u=d445e9c0ee15cdad027789d11f033dcd8b26f0cc&v=4" width="24" alt="Avatar of mollstam"> mollstam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mollstam">Copy rank badge</a><br/>
 			Tobias Mollstam
 		</td>
 		<td>No Company</td>
@@ -7285,7 +7287,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/linusw">
 				<img src="https://avatars.githubusercontent.com/u/664240?s=72&u=0cd525c8040440f825c057fd01485f8ce7dcbec1&v=4" width="24" alt="Avatar of linusw"> linusw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#linusw">Copy rank badge</a><br/>
 			Linus Walleij
 		</td>
 		<td>Linaro </td>
@@ -7298,7 +7300,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/grananqvist">
 				<img src="https://avatars.githubusercontent.com/u/16865473?s=72&u=b58c9a850d3cb5df557d982b7367ead685e5d4fb&v=4" width="24" alt="Avatar of grananqvist"> grananqvist
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#grananqvist">Copy rank badge</a><br/>
 			fgranqvist
 		</td>
 		<td>Apple </td>
@@ -7311,7 +7313,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mehdy">
 				<img src="https://avatars.githubusercontent.com/u/2669765?s=72&v=4" width="24" alt="Avatar of mehdy"> mehdy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mehdy">Copy rank badge</a><br/>
 			Mehdi Khoshnoodi
 		</td>
 		<td>@vianawork </td>
@@ -7324,7 +7326,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/bartekspitza">
 				<img src="https://avatars.githubusercontent.com/u/34445227?s=72&u=0d4918c28126beed955ce45f566fbbb7754162e4&v=4" width="24" alt="Avatar of bartekspitza"> bartekspitza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#bartekspitza">Copy rank badge</a><br/>
 			Bartek Spitza
 		</td>
 		<td>New Minds </td>
@@ -7337,7 +7339,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jonkri">
 				<img src="https://avatars.githubusercontent.com/u/777056?s=72&v=4" width="24" alt="Avatar of jonkri"> jonkri
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jonkri">Copy rank badge</a><br/>
 			Jon Kristensen
 		</td>
 		<td>Nejla Ab </td>
@@ -7350,7 +7352,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/robiot">
 				<img src="https://avatars.githubusercontent.com/u/68228472?s=72&u=2bfac7e9d4d933b1d469d1274529977a92ed6330&v=4" width="24" alt="Avatar of robiot"> robiot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#robiot">Copy rank badge</a><br/>
 			Elliot Lindberg
 		</td>
 		<td>@lovablelabs </td>
@@ -7363,7 +7365,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jacksonfdam">
 				<img src="https://avatars.githubusercontent.com/u/885385?s=72&u=72dfe18d9b80dac2acd73dc0ff21bcb9130a14da&v=4" width="24" alt="Avatar of jacksonfdam"> jacksonfdam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jacksonfdam">Copy rank badge</a><br/>
 			Jackson F. de A. Mafra
 		</td>
 		<td>No Company</td>
@@ -7376,7 +7378,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/codechips">
 				<img src="https://avatars.githubusercontent.com/u/44770?s=72&u=bc583233c3b0d7776003e7db308dc38ee9a22631&v=4" width="24" alt="Avatar of codechips"> codechips
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#codechips">Copy rank badge</a><br/>
 			ilia mikhailov
 		</td>
 		<td>No Company</td>
@@ -7389,7 +7391,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/grapefrukt">
 				<img src="https://avatars.githubusercontent.com/u/158901?s=72&u=b974162c2989931334cef121ae147c4d6a2533ca&v=4" width="24" alt="Avatar of grapefrukt"> grapefrukt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#grapefrukt">Copy rank badge</a><br/>
 			martin jonasson
 		</td>
 		<td>Grapefrukt Games </td>
@@ -7402,7 +7404,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Ali-Razmjoo">
 				<img src="https://avatars.githubusercontent.com/u/7676267?s=72&u=345e0b69bae7359ac98e46c642b9a1257b5b6cfc&v=4" width="24" alt="Avatar of Ali-Razmjoo"> Ali-Razmjoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Ali-Razmjoo">Copy rank badge</a><br/>
 			Ali Razmjoo
 		</td>
 		<td>@owasp, @sorenaio </td>
@@ -7415,7 +7417,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dorukgezici">
 				<img src="https://avatars.githubusercontent.com/u/16089856?s=72&u=336c34ab97a77d67602c9fe814621b3d2702a73a&v=4" width="24" alt="Avatar of dorukgezici"> dorukgezici
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dorukgezici">Copy rank badge</a><br/>
 			Doruk Gezici
 		</td>
 		<td>@popjam-io </td>
@@ -7428,7 +7430,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/e8johan">
 				<img src="https://avatars.githubusercontent.com/u/1732851?s=72&v=4" width="24" alt="Avatar of e8johan"> e8johan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#e8johan">Copy rank badge</a><br/>
 			Johan Toverland Thelin
 		</td>
 		<td>No Company</td>
@@ -7441,7 +7443,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/magwo">
 				<img src="https://avatars.githubusercontent.com/u/548345?s=72&u=58f7be3fa1455d2a34a6596808802ece01ae7577&v=4" width="24" alt="Avatar of magwo"> magwo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#magwo">Copy rank badge</a><br/>
 			Magnus Wolffelt
 		</td>
 		<td>No Company</td>
@@ -7454,7 +7456,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/marcobrunodev">
 				<img src="https://avatars.githubusercontent.com/u/4096456?s=72&u=f4d1bcc4ffb93d63760cb08109105f75e5d7ad8d&v=4" width="24" alt="Avatar of marcobrunodev"> marcobrunodev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#marcobrunodev">Copy rank badge</a><br/>
 			Marco Bruno
 		</td>
 		<td>No Company</td>
@@ -7467,7 +7469,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/rociomer">
 				<img src="https://avatars.githubusercontent.com/u/21346048?s=72&u=07c57fbf815ee669830c3eedd7a5fa3c8c5e3443&v=4" width="24" alt="Avatar of rociomer"> rociomer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#rociomer">Copy rank badge</a><br/>
 			Rocío Mercado Oropeza
 		</td>
 		<td>Chalmers University Of Technology<br/></td>
@@ -7480,7 +7482,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/loaf-scripts">
 				<img src="https://avatars.githubusercontent.com/u/60279520?s=72&u=6b8a4688843d4e5e94c0e81009ee5718d70498bc&v=4" width="24" alt="Avatar of loaf-scripts"> loaf-scripts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#loaf-scripts">Copy rank badge</a><br/>
 			Loaf
 		</td>
 		<td>No Company</td>
@@ -7493,7 +7495,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/emiloberg">
 				<img src="https://avatars.githubusercontent.com/u/4673048?s=72&v=4" width="24" alt="Avatar of emiloberg"> emiloberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#emiloberg">Copy rank badge</a><br/>
 			Emil Öberg
 		</td>
 		<td>Bit Up North Ab<br/></td>
@@ -7506,7 +7508,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/auroranockert">
 				<img src="https://avatars.githubusercontent.com/u/49616?s=72&u=c3b640328fb485e7c6242abcbbd56e53e93f71af&v=4" width="24" alt="Avatar of auroranockert"> auroranockert
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#auroranockert">Copy rank badge</a><br/>
 			Aurora Nockert
 		</td>
 		<td>Ecraft </td>
@@ -7519,7 +7521,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/slowmove">
 				<img src="https://avatars.githubusercontent.com/u/624182?s=72&u=0c1c83735a145dba961f90dc4f8c3010c89f0785&v=4" width="24" alt="Avatar of slowmove"> slowmove
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#slowmove">Copy rank badge</a><br/>
 			Erik Hoffman
 		</td>
 		<td>@clipsource  </td>
@@ -7532,7 +7534,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/charliejeppsson">
 				<img src="https://avatars.githubusercontent.com/u/23011729?s=72&u=8256d7add5ee74b5538f3d2c0c6b1905dc6ff2c5&v=4" width="24" alt="Avatar of charliejeppsson"> charliejeppsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#charliejeppsson">Copy rank badge</a><br/>
 			Charlie Jeppsson
 		</td>
 		<td>No Company</td>
@@ -7545,7 +7547,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Hjdskes">
 				<img src="https://avatars.githubusercontent.com/u/1260727?s=72&u=2d13ef3381588103de4c4fb8892d30205953b214&v=4" width="24" alt="Avatar of Hjdskes"> Hjdskes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Hjdskes">Copy rank badge</a><br/>
 			Jente Hidskes Ankarberg
 		</td>
 		<td>@griffinbank </td>
@@ -7558,7 +7560,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/FreyaHolmer">
 				<img src="https://avatars.githubusercontent.com/u/3438510?s=72&u=4d0cfc6be814e58ce9c206671e623c4381f2174c&v=4" width="24" alt="Avatar of FreyaHolmer"> FreyaHolmer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#FreyaHolmer">Copy rank badge</a><br/>
 			Freya Holmér
 		</td>
 		<td>@acegikmo  </td>
@@ -7571,7 +7573,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/h3r2tic">
 				<img src="https://avatars.githubusercontent.com/u/16522064?s=72&u=6318c6779140dc393289d8c8797d456ceeed9885&v=4" width="24" alt="Avatar of h3r2tic"> h3r2tic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#h3r2tic">Copy rank badge</a><br/>
 			Tomasz Stachowiak
 		</td>
 		<td>No Company</td>
@@ -7584,7 +7586,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/LeuisKen">
 				<img src="https://avatars.githubusercontent.com/u/7701575?s=72&u=91772b3bacfd249a6536a32b05a3125819ffb748&v=4" width="24" alt="Avatar of LeuisKen"> LeuisKen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#LeuisKen">Copy rank badge</a><br/>
 			Jiaxun Wei
 		</td>
 		<td>Keystone Education Group Ab<br/></td>
@@ -7597,7 +7599,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/maxwihlborg">
 				<img src="https://avatars.githubusercontent.com/u/6181962?s=72&v=4" width="24" alt="Avatar of maxwihlborg"> maxwihlborg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#maxwihlborg">Copy rank badge</a><br/>
 			Max Wihlborg
 		</td>
 		<td>No Company</td>
@@ -7610,7 +7612,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/codler">
 				<img src="https://avatars.githubusercontent.com/u/102052?s=72&u=6811e33422f6066b7bde496c92ef280f88d52f8b&v=4" width="24" alt="Avatar of codler"> codler
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#codler">Copy rank badge</a><br/>
 			Han Lin Yap
 		</td>
 		<td>No Company</td>
@@ -7623,7 +7625,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/KaarinGaming">
 				<img src="https://avatars.githubusercontent.com/u/96723354?s=72&u=49449900fa40045d68efcecf368eac6e4227c95a&v=4" width="24" alt="Avatar of KaarinGaming"> KaarinGaming
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#KaarinGaming">Copy rank badge</a><br/>
 			KaarinGaming
 		</td>
 		<td>No Company</td>
@@ -7636,7 +7638,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/danielstocks">
 				<img src="https://avatars.githubusercontent.com/u/52788?s=72&u=36c7b26dd2da91eaf022eedb48f548af6250f1f4&v=4" width="24" alt="Avatar of danielstocks"> danielstocks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#danielstocks">Copy rank badge</a><br/>
 			Daniel Stocks
 		</td>
 		<td>@carla-se </td>
@@ -7649,7 +7651,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/HadrienG">
 				<img src="https://avatars.githubusercontent.com/u/7337110?s=72&u=33826be6e4bb340f888ede72cd89ac289ceae3fe&v=4" width="24" alt="Avatar of HadrienG"> HadrienG
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#HadrienG">Copy rank badge</a><br/>
 			Hadrien Gourlé
 		</td>
 		<td>Folkhalsomyndigheten </td>
@@ -7662,7 +7664,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dc0d">
 				<img src="https://avatars.githubusercontent.com/u/3826814?s=72&u=90acf1ef5da96349f01c270fb244fc3c3706309f&v=4" width="24" alt="Avatar of dc0d"> dc0d
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dc0d">Copy rank badge</a><br/>
 			Kaveh Shahbazian
 		</td>
 		<td>No Company</td>
@@ -7675,7 +7677,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/niklasad1">
 				<img src="https://avatars.githubusercontent.com/u/14157425?s=72&u=9a4973dd68ade19095b26edb25f8564f44effdc1&v=4" width="24" alt="Avatar of niklasad1"> niklasad1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#niklasad1">Copy rank badge</a><br/>
 			Niklas Adolfsson
 		</td>
 		<td>No Company</td>
@@ -7688,7 +7690,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/sonyxperiadev">
 				<img src="https://avatars.githubusercontent.com/u/487469?s=72&u=fa5bb5cee8b53723250d4569d4b2860387ff79d0&v=4" width="24" alt="Avatar of sonyxperiadev"> sonyxperiadev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#sonyxperiadev">Copy rank badge</a><br/>
 			Sony – Developer World for Xperia
 		</td>
 		<td>Sony </td>
@@ -7701,7 +7703,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/vktr">
 				<img src="https://avatars.githubusercontent.com/u/1491824?s=72&u=11bc20f361b7553509ea8bee39433dc9152231c3&v=4" width="24" alt="Avatar of vktr"> vktr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#vktr">Copy rank badge</a><br/>
 			Viktor Elofsson
 		</td>
 		<td>Blinkenlights Ab </td>
@@ -7714,7 +7716,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/FredrikNoren">
 				<img src="https://avatars.githubusercontent.com/u/1288009?s=72&v=4" width="24" alt="Avatar of FredrikNoren"> FredrikNoren
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#FredrikNoren">Copy rank badge</a><br/>
 			Fredrik Norén
 		</td>
 		<td>General Intuition </td>
@@ -7727,7 +7729,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/GabeRundlett">
 				<img src="https://avatars.githubusercontent.com/u/28205981?s=72&u=24fd4d20dba3a27bf7d766b91948598965258954&v=4" width="24" alt="Avatar of GabeRundlett"> GabeRundlett
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#GabeRundlett">Copy rank badge</a><br/>
 			Gabe Rundlett
 		</td>
 		<td>No Company</td>
@@ -7740,7 +7742,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/albinekb">
 				<img src="https://avatars.githubusercontent.com/u/5027156?s=72&u=e95ffef6db70920d120b2e57527576d055014cae&v=4" width="24" alt="Avatar of albinekb"> albinekb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#albinekb">Copy rank badge</a><br/>
 			Albin Ekblom
 		</td>
 		<td>No Company</td>
@@ -7753,7 +7755,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/CodeConnoisseur74">
 				<img src="https://avatars.githubusercontent.com/u/106032462?s=72&u=783d5d3fff0ba3a85c838877a9649166424e7d82&v=4" width="24" alt="Avatar of CodeConnoisseur74"> CodeConnoisseur74
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#CodeConnoisseur74">Copy rank badge</a><br/>
 			Sherry_AB
 		</td>
 		<td>Pybites </td>
@@ -7766,7 +7768,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/pirelenito">
 				<img src="https://avatars.githubusercontent.com/u/6001?s=72&u=536d81201b58fb80138a6f7b07562ccb5f7df966&v=4" width="24" alt="Avatar of pirelenito"> pirelenito
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#pirelenito">Copy rank badge</a><br/>
 			Paulo Ragonha
 		</td>
 		<td>@mojang  </td>
@@ -7779,7 +7781,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Garderoben">
 				<img src="https://avatars.githubusercontent.com/u/10367109?s=72&u=2abf95f9e01132e8e2915def42895ffe99c5d2c6&v=4" width="24" alt="Avatar of Garderoben"> Garderoben
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Garderoben">Copy rank badge</a><br/>
 			Jonny Larsson
 		</td>
 		<td>No Company</td>
@@ -7792,7 +7794,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ronikaufman">
 				<img src="https://avatars.githubusercontent.com/u/48394336?s=72&u=dcf97214ef3248fd9658c3cfdf02bcbc38e8f779&v=4" width="24" alt="Avatar of ronikaufman"> ronikaufman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ronikaufman">Copy rank badge</a><br/>
 			Roni Kaufman
 		</td>
 		<td>No Company</td>
@@ -7805,7 +7807,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/henkwymeersch">
 				<img src="https://avatars.githubusercontent.com/u/43907870?s=72&u=c803d4f313cd812a9e7e724985b456c1d80ed988&v=4" width="24" alt="Avatar of henkwymeersch"> henkwymeersch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#henkwymeersch">Copy rank badge</a><br/>
 			Henk Wymeersch
 		</td>
 		<td>Chalmers University Of Technology<br/></td>
@@ -7818,7 +7820,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jaagr">
 				<img src="https://avatars.githubusercontent.com/u/3697186?s=72&u=d5b3e1e93858545550c89a961c8e2eab442ce29d&v=4" width="24" alt="Avatar of jaagr"> jaagr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jaagr">Copy rank badge</a><br/>
 			Michael Carlberg
 		</td>
 		<td>No Company</td>
@@ -7831,7 +7833,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mehrdad-shokri">
 				<img src="https://avatars.githubusercontent.com/u/13661520?s=72&u=da7bedf49d13eec31f7ffaeb1c107d45155e1fdd&v=4" width="24" alt="Avatar of mehrdad-shokri"> mehrdad-shokri
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mehrdad-shokri">Copy rank badge</a><br/>
 			Mehrdad Shokri
 		</td>
 		<td>No Company</td>
@@ -7844,7 +7846,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/tyaga001">
 				<img src="https://avatars.githubusercontent.com/u/16003228?s=72&u=7f197a76a104e966738321c4a57d64ef3fc0ffc1&v=4" width="24" alt="Avatar of tyaga001"> tyaga001
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#tyaga001">Copy rank badge</a><br/>
 			Ankur Tyagi
 		</td>
 		<td>Consultant </td>
@@ -7857,7 +7859,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/davidgranstrom">
 				<img src="https://avatars.githubusercontent.com/u/672917?s=72&u=e6b0f40a7d7f64e338c15261af4b919e5af04605&v=4" width="24" alt="Avatar of davidgranstrom"> davidgranstrom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#davidgranstrom">Copy rank badge</a><br/>
 			David Granström
 		</td>
 		<td>No Company</td>
@@ -7870,7 +7872,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/arirawr">
 				<img src="https://avatars.githubusercontent.com/u/6777313?s=72&u=2cbae2d48e1864e7dc734cc301edf16e047fdce3&v=4" width="24" alt="Avatar of arirawr"> arirawr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#arirawr">Copy rank badge</a><br/>
 			Ari V
 		</td>
 		<td>King (microsoft/xbox) </td>
@@ -7883,7 +7885,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/koslib">
 				<img src="https://avatars.githubusercontent.com/u/2552310?s=72&u=3c722f76218c1a093c9a72925a52379d52d933dd&v=4" width="24" alt="Avatar of koslib"> koslib
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#koslib">Copy rank badge</a><br/>
 			Konstantinos Livieratos
 		</td>
 		<td>No Company</td>
@@ -7896,7 +7898,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/alexemanuelol">
 				<img src="https://avatars.githubusercontent.com/u/18254752?s=72&u=c070a016216c6a3e8fddb1e9b82f6cd619fe4f8b&v=4" width="24" alt="Avatar of alexemanuelol"> alexemanuelol
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#alexemanuelol">Copy rank badge</a><br/>
 			Alle
 		</td>
 		<td>No Company</td>
@@ -7909,7 +7911,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/antonior92">
 				<img src="https://avatars.githubusercontent.com/u/16557411?s=72&u=3a754c87deb564d547557e084e7a1b348371b763&v=4" width="24" alt="Avatar of antonior92"> antonior92
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#antonior92">Copy rank badge</a><br/>
 			Antonio Horta Ribeiro
 		</td>
 		<td>Uppsala University </td>
@@ -7922,7 +7924,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/boredabdel">
 				<img src="https://avatars.githubusercontent.com/u/1208914?s=72&u=1ab2ce500965cba0d5779724b6320444efd8612c&v=4" width="24" alt="Avatar of boredabdel"> boredabdel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#boredabdel">Copy rank badge</a><br/>
 			Abdel SGHIOUAR
 		</td>
 		<td>Google </td>
@@ -7935,7 +7937,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jgauffin">
 				<img src="https://avatars.githubusercontent.com/u/818579?s=72&u=e555a62364af29f64fe17e2020636eeb6e696aaa&v=4" width="24" alt="Avatar of jgauffin"> jgauffin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jgauffin">Copy rank badge</a><br/>
 			Jonas Gauffin
 		</td>
 		<td>Https://coderr.io </td>
@@ -7948,7 +7950,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/panoply">
 				<img src="https://avatars.githubusercontent.com/u/7041324?s=72&u=b546aead4ef4d464152da5e0fe88cb7835166a73&v=4" width="24" alt="Avatar of panoply"> panoply
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#panoply">Copy rank badge</a><br/>
 			ΝΙΚΟΛΑΣ
 		</td>
 		<td>No Company</td>
@@ -7961,7 +7963,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/johanlofberg">
 				<img src="https://avatars.githubusercontent.com/u/1905742?s=72&u=ee107d6924e5f0053acba825685594a270064047&v=4" width="24" alt="Avatar of johanlofberg"> johanlofberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#johanlofberg">Copy rank badge</a><br/>
 			Johan Löfberg
 		</td>
 		<td>Linköping University </td>
@@ -7974,7 +7976,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Theodeus">
 				<img src="https://avatars.githubusercontent.com/u/910280?s=72&u=d2ea176a7334be62fcb731da617fb751c88fe4cf&v=4" width="24" alt="Avatar of Theodeus"> Theodeus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Theodeus">Copy rank badge</a><br/>
 			Oskar Eriksson
 		</td>
 		<td>No Company</td>
@@ -7987,7 +7989,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/hakank">
 				<img src="https://avatars.githubusercontent.com/u/425629?s=72&u=3351999809ee8f0745d7d141dbb73d44a096df14&v=4" width="24" alt="Avatar of hakank"> hakank
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#hakank">Copy rank badge</a><br/>
 			Hakan Kjellerstrand
 		</td>
 		<td>Software Developer (retired) /<br/>Independent<br/>Researcher<br/></td>
@@ -8000,7 +8002,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/martinlindhe">
 				<img src="https://avatars.githubusercontent.com/u/181531?s=72&v=4" width="24" alt="Avatar of martinlindhe"> martinlindhe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#martinlindhe">Copy rank badge</a><br/>
 			Martin Lindhe
 		</td>
 		<td>No Company</td>
@@ -8013,7 +8015,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/tiwilliam">
 				<img src="https://avatars.githubusercontent.com/u/190349?s=72&v=4" width="24" alt="Avatar of tiwilliam"> tiwilliam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#tiwilliam">Copy rank badge</a><br/>
 			William Tisäter
 		</td>
 		<td>No Company</td>
@@ -8026,7 +8028,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dejwid">
 				<img src="https://avatars.githubusercontent.com/u/4366518?s=72&u=8279404551418caa6e85acb3553d39bf1e8d8aff&v=4" width="24" alt="Avatar of dejwid"> dejwid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dejwid">Copy rank badge</a><br/>
 			Dawid Paszko
 		</td>
 		<td>No Company</td>
@@ -8039,7 +8041,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/miyconst">
 				<img src="https://avatars.githubusercontent.com/u/6435556?s=72&u=cb4f76c12108ca492126080fda409e669e8d3123&v=4" width="24" alt="Avatar of miyconst"> miyconst
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#miyconst">Copy rank badge</a><br/>
 			Kostiantyn Cherniavskyi
 		</td>
 		<td>Modular Management </td>
@@ -8052,7 +8054,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/sebdah">
 				<img src="https://avatars.githubusercontent.com/u/856108?s=72&u=82c958285f08be86b4124bf7a06fd12b3a9d509d&v=4" width="24" alt="Avatar of sebdah"> sebdah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#sebdah">Copy rank badge</a><br/>
 			Sebastian Dahlgren
 		</td>
 		<td>Meta </td>
@@ -8065,7 +8067,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/peterlefanulumsdaine">
 				<img src="https://avatars.githubusercontent.com/u/295280?s=72&v=4" width="24" alt="Avatar of peterlefanulumsdaine"> peterlefanulumsdaine
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#peterlefanulumsdaine">Copy rank badge</a><br/>
 			Peter LeFanu Lumsdaine
 		</td>
 		<td>Stockholm University </td>
@@ -8078,7 +8080,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/themaxsandelin">
 				<img src="https://avatars.githubusercontent.com/u/7646347?s=72&u=4c219fcf2b6bde0d9578fda2c296b003005ab792&v=4" width="24" alt="Avatar of themaxsandelin"> themaxsandelin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#themaxsandelin">Copy rank badge</a><br/>
 			Max Sandelin
 		</td>
 		<td>Rocket @ sj </td>
@@ -8091,7 +8093,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Temaran">
 				<img src="https://avatars.githubusercontent.com/u/5060324?s=72&u=e9df914d48069677984f868d4fcacb8ab7e7d680&v=4" width="24" alt="Avatar of Temaran"> Temaran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Temaran">Copy rank badge</a><br/>
 			Temaran
 		</td>
 		<td>@epicgames  </td>
@@ -8104,7 +8106,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ptz0n">
 				<img src="https://avatars.githubusercontent.com/u/200250?s=72&v=4" width="24" alt="Avatar of ptz0n"> ptz0n
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ptz0n">Copy rank badge</a><br/>
 			Erik Eng
 		</td>
 		<td>Daniel Wellington </td>
@@ -8117,7 +8119,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/zimme">
 				<img src="https://avatars.githubusercontent.com/u/1215414?s=72&v=4" width="24" alt="Avatar of zimme"> zimme
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#zimme">Copy rank badge</a><br/>
 			Simon Fridlund
 		</td>
 		<td>@zymego </td>
@@ -8130,7 +8132,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/possan">
 				<img src="https://avatars.githubusercontent.com/u/33173?s=72&v=4" width="24" alt="Avatar of possan"> possan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#possan">Copy rank badge</a><br/>
 			Per-Olov Jernberg
 		</td>
 		<td>Lingio </td>
@@ -8143,7 +8145,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/slicedlime">
 				<img src="https://avatars.githubusercontent.com/u/1653332?s=72&v=4" width="24" alt="Avatar of slicedlime"> slicedlime
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#slicedlime">Copy rank badge</a><br/>
 			slicedlime (Mikael Hedberg)
 		</td>
 		<td>@mojang  </td>
@@ -8156,7 +8158,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/uwiger">
 				<img src="https://avatars.githubusercontent.com/u/160216?s=72&v=4" width="24" alt="Avatar of uwiger"> uwiger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#uwiger">Copy rank badge</a><br/>
 			Ulf Wiger
 		</td>
 		<td>Wiger Pilotti Unlimited </td>
@@ -8169,7 +8171,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/tidyui">
 				<img src="https://avatars.githubusercontent.com/u/781266?s=72&u=9553fdfaa4579445b4fc72279ceb4f417deb9e56&v=4" width="24" alt="Avatar of tidyui"> tidyui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#tidyui">Copy rank badge</a><br/>
 			Håkan Edling
 		</td>
 		<td>Optimizely </td>
@@ -8182,7 +8184,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kbladin">
 				<img src="https://avatars.githubusercontent.com/u/4128312?s=72&u=66b134c03d3ea9cdb3b122ad0280bc1bc76246ee&v=4" width="24" alt="Avatar of kbladin"> kbladin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kbladin">Copy rank badge</a><br/>
 			Kalle Bladin
 		</td>
 		<td>Nvidia </td>
@@ -8195,7 +8197,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/meadsteve">
 				<img src="https://avatars.githubusercontent.com/u/1663120?s=72&u=74a4ddf5f92c6487c425a2eb20fd04d7826c6323&v=4" width="24" alt="Avatar of meadsteve"> meadsteve
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#meadsteve">Copy rank badge</a><br/>
 			Steve Brazier
 		</td>
 		<td>No Company</td>
@@ -8208,7 +8210,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/postlund">
 				<img src="https://avatars.githubusercontent.com/u/5982179?s=72&u=ba08103d81a7d8756e6d5e594216292e955e257c&v=4" width="24" alt="Avatar of postlund"> postlund
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#postlund">Copy rank badge</a><br/>
 			Pierre Ståhl
 		</td>
 		<td>Toyota Material Handling Europe<br/></td>
@@ -8221,7 +8223,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/crilleengvall">
 				<img src="https://avatars.githubusercontent.com/u/623720?s=72&v=4" width="24" alt="Avatar of crilleengvall"> crilleengvall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#crilleengvall">Copy rank badge</a><br/>
 			Christian Engvall
 		</td>
 		<td>@honkbarkstudios  </td>
@@ -8234,7 +8236,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/sagatowski">
 				<img src="https://avatars.githubusercontent.com/u/33381702?s=72&u=944c5bd7002ba021d9a664b2dfaae76cfe3a79e8&v=4" width="24" alt="Avatar of sagatowski"> sagatowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#sagatowski">Copy rank badge</a><br/>
 			Jakob Sagatowski
 		</td>
 		<td>Sagatowski Gmbh </td>
@@ -8247,7 +8249,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ilkermanap">
 				<img src="https://avatars.githubusercontent.com/u/3263409?s=72&u=e6309368878e0d03d98ff057e650b3127c117a3d&v=4" width="24" alt="Avatar of ilkermanap"> ilkermanap
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ilkermanap">Copy rank badge</a><br/>
 			Ilker Manap
 		</td>
 		<td>No Company</td>
@@ -8260,7 +8262,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/sedflix">
 				<img src="https://avatars.githubusercontent.com/u/21156678?s=72&u=81e93af3f0a807f84ad0a67e3498103f18dec9a3&v=4" width="24" alt="Avatar of sedflix"> sedflix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#sedflix">Copy rank badge</a><br/>
 			siddharth
 		</td>
 		<td>King </td>
@@ -8273,7 +8275,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kevva">
 				<img src="https://avatars.githubusercontent.com/u/709159?s=72&u=5c9a37233feea1a66d2efd961227c481312adb3d&v=4" width="24" alt="Avatar of kevva"> kevva
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kevva">Copy rank badge</a><br/>
 			Kevin Mårtensson
 		</td>
 		<td>No Company</td>
@@ -8286,7 +8288,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/tkilla64">
 				<img src="https://avatars.githubusercontent.com/u/63802297?s=72&u=0a3ca967f244f4ed37aa4acc279b58639d136dd9&v=4" width="24" alt="Avatar of tkilla64"> tkilla64
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#tkilla64">Copy rank badge</a><br/>
 			Tommy Killander
 		</td>
 		<td>Meebilt </td>
@@ -8299,7 +8301,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/QuantumCryp">
 				<img src="https://avatars.githubusercontent.com/u/137149680?s=72&u=24f9ef8a19ad37d25388f2d19a6498005fc59505&v=4" width="24" alt="Avatar of QuantumCryp"> QuantumCryp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#QuantumCryp">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8312,7 +8314,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/AdamRamberg">
 				<img src="https://avatars.githubusercontent.com/u/10260896?s=72&u=2bd6fea3d6ab046eeda3b4e528051e93e8949572&v=4" width="24" alt="Avatar of AdamRamberg"> AdamRamberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#AdamRamberg">Copy rank badge</a><br/>
 			Adam Ramberg
 		</td>
 		<td>Mambo Jambo Studios Ab<br/></td>
@@ -8325,7 +8327,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/cabral">
 				<img src="https://avatars.githubusercontent.com/u/182472?s=72&u=4077dca366fb0aeee43599760277ecffe25ff603&v=4" width="24" alt="Avatar of cabral"> cabral
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#cabral">Copy rank badge</a><br/>
 			Felipe Benites Cabral
 		</td>
 		<td>@felipebcabral </td>
@@ -8338,7 +8340,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jacobrask">
 				<img src="https://avatars.githubusercontent.com/u/58563?s=72&u=bb4f9301161ce7bd2d685e4138631dbe951b2aea&v=4" width="24" alt="Avatar of jacobrask"> jacobrask
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jacobrask">Copy rank badge</a><br/>
 			Jacob Rask
 		</td>
 		<td>No Company</td>
@@ -8351,7 +8353,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/daniel-lundin">
 				<img src="https://avatars.githubusercontent.com/u/545809?s=72&u=e5e48ca7ef41d5b03d5eb9e572329222967b77d3&v=4" width="24" alt="Avatar of daniel-lundin"> daniel-lundin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#daniel-lundin">Copy rank badge</a><br/>
 			Daniel Lundin
 		</td>
 		<td>@milkywire </td>
@@ -8364,7 +8366,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/cogu">
 				<img src="https://avatars.githubusercontent.com/u/5165494?s=72&v=4" width="24" alt="Avatar of cogu"> cogu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#cogu">Copy rank badge</a><br/>
 			Conny Gustafsson
 		</td>
 		<td>Knowit Swedspot </td>
@@ -8377,7 +8379,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/rvirding">
 				<img src="https://avatars.githubusercontent.com/u/11467?s=72&u=57b39cf2b435fc9612f76cc65d181d771cb0305c&v=4" width="24" alt="Avatar of rvirding"> rvirding
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#rvirding">Copy rank badge</a><br/>
 			Robert Virding
 		</td>
 		<td>Erlang Solutions Ltd. </td>
@@ -8390,7 +8392,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ruudmens">
 				<img src="https://avatars.githubusercontent.com/u/20253186?s=72&u=e0ef1bd232a809b22365d4eec0fe4bb9743870bc&v=4" width="24" alt="Avatar of ruudmens"> ruudmens
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ruudmens">Copy rank badge</a><br/>
 			Ruud
 		</td>
 		<td>No Company</td>
@@ -8403,7 +8405,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/MrAlek">
 				<img src="https://avatars.githubusercontent.com/u/1496135?s=72&u=827b574fee05b52f99e3d74abf3eb69a92d87431&v=4" width="24" alt="Avatar of MrAlek"> MrAlek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#MrAlek">Copy rank badge</a><br/>
 			Alek Åström
 		</td>
 		<td>Done Services </td>
@@ -8416,7 +8418,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kaos">
 				<img src="https://avatars.githubusercontent.com/u/72965?s=72&v=4" width="24" alt="Avatar of kaos"> kaos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kaos">Copy rank badge</a><br/>
 			Andreas Stenius
 		</td>
 		<td>Svenska Spel </td>
@@ -8429,7 +8431,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mschauer">
 				<img src="https://avatars.githubusercontent.com/u/1923437?s=72&u=045b71b0a171ea27a4877afe19ae906b0cbe2f38&v=4" width="24" alt="Avatar of mschauer"> mschauer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mschauer">Copy rank badge</a><br/>
 			Moritz Schauer
 		</td>
 		<td>Chalmers University Of Technology<br/>And<br/>University<br/>Of<br/>Gothenburg<br/></td>
@@ -8442,7 +8444,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/vladimirmakarovs">
 				<img src="https://avatars.githubusercontent.com/u/260109657?s=72&u=e9a142cbdf39c3c8279577f542b3e035985120ca&v=4" width="24" alt="Avatar of vladimirmakarovs"> vladimirmakarovs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#vladimirmakarovs">Copy rank badge</a><br/>
 			⤷゛◟♯ . / juno ꨄ︎'s makarov . ! ˎˊ˗
 		</td>
 		<td>♯༉‧₊˚.more Coming Soonzᶻ ૮˶-<br/>ﻌ<br/>-˶ა⌒)ᦱ<br/>@alixdw<br/>My<br/>Irl<br/>Bsf!<br/>Go<br/>Follow<br/>Him<br/></td>
@@ -8455,7 +8457,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/zarinfam">
 				<img src="https://avatars.githubusercontent.com/u/1052394?s=72&u=623e7114f8dbbff710055e2fb1b15c813b3eee60&v=4" width="24" alt="Avatar of zarinfam"> zarinfam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#zarinfam">Copy rank badge</a><br/>
 			Saeed Zarinfam
 		</td>
 		<td>0+x </td>
@@ -8468,7 +8470,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jfacorro">
 				<img src="https://avatars.githubusercontent.com/u/1522569?s=72&u=df08dceec70c4910d814ebefd0feb8203a7f8db9&v=4" width="24" alt="Avatar of jfacorro"> jfacorro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jfacorro">Copy rank badge</a><br/>
 			Juan Facorro
 		</td>
 		<td>@klarna </td>
@@ -8481,7 +8483,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/johasalinas">
 				<img src="https://avatars.githubusercontent.com/u/5965987?s=72&u=52722304f74acacbca8ac7e78be65303f01c1a8e&v=4" width="24" alt="Avatar of johasalinas"> johasalinas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#johasalinas">Copy rank badge</a><br/>
 			Joha Salinas 
 		</td>
 		<td>No Company</td>
@@ -8494,7 +8496,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dan11003">
 				<img src="https://avatars.githubusercontent.com/u/16028750?s=72&u=49867231680577cc5cce1e229c0cd504f7ae30b1&v=4" width="24" alt="Avatar of dan11003"> dan11003
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dan11003">Copy rank badge</a><br/>
 			Daniel Adolfsson
 		</td>
 		<td>Örebro University </td>
@@ -8507,7 +8509,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/PetterS">
 				<img src="https://avatars.githubusercontent.com/u/772305?s=72&u=919408ea790c0d64c57246a16efc042540452225&v=4" width="24" alt="Avatar of PetterS"> PetterS
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#PetterS">Copy rank badge</a><br/>
 			Petter Strandmark
 		</td>
 		<td>No Company</td>
@@ -8520,7 +8522,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/SamLarenN">
 				<img src="https://avatars.githubusercontent.com/u/25548756?s=72&u=a4b6e249df62c1a3a3091d83d51ee40fbd1682f0&v=4" width="24" alt="Avatar of SamLarenN"> SamLarenN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#SamLarenN">Copy rank badge</a><br/>
 			Samuel Skoog
 		</td>
 		<td>No Company</td>
@@ -8533,7 +8535,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mansmahamat">
 				<img src="https://avatars.githubusercontent.com/u/58693907?s=72&u=6648795d2cbdf62df36b2d7698ad1bace0b50306&v=4" width="24" alt="Avatar of mansmahamat"> mansmahamat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mansmahamat">Copy rank badge</a><br/>
 			Mansour Mahamat-salle
 		</td>
 		<td>No Company</td>
@@ -8546,7 +8548,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/afatsumcemreg">
 				<img src="https://avatars.githubusercontent.com/u/84686681?s=72&u=191d4d9486c174c4b39bd98025681a06811f75df&v=4" width="24" alt="Avatar of afatsumcemreg"> afatsumcemreg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#afatsumcemreg">Copy rank badge</a><br/>
 			Mustafa Germeç
 		</td>
 		<td>Miuul </td>
@@ -8559,7 +8561,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dag">
 				<img src="https://avatars.githubusercontent.com/u/319?s=72&u=2d7b97c570795da9906d3f3e14a2a8201337e87e&v=4" width="24" alt="Avatar of dag"> dag
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dag">Copy rank badge</a><br/>
 			Dag
 		</td>
 		<td>No Company</td>
@@ -8572,7 +8574,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jsannemo">
 				<img src="https://avatars.githubusercontent.com/u/951901?s=72&v=4" width="24" alt="Avatar of jsannemo"> jsannemo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jsannemo">Copy rank badge</a><br/>
 			Johan Sannemo
 		</td>
 		<td>No Company</td>
@@ -8585,7 +8587,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/emilbjornson">
 				<img src="https://avatars.githubusercontent.com/u/6824231?s=72&v=4" width="24" alt="Avatar of emilbjornson"> emilbjornson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#emilbjornson">Copy rank badge</a><br/>
 			Emil Björnson
 		</td>
 		<td>Kth Royal Institute Of<br/>Technology<br/></td>
@@ -8598,7 +8600,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jboner">
 				<img src="https://avatars.githubusercontent.com/u/10701?s=72&v=4" width="24" alt="Avatar of jboner"> jboner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jboner">Copy rank badge</a><br/>
 			Jonas Bonér
 		</td>
 		<td>Akka </td>
@@ -8611,7 +8613,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/onurdemir55">
 				<img src="https://avatars.githubusercontent.com/u/7716642?s=72&u=5de0fb5c4d0176ea753dc741a1e3a2be4350d92a&v=4" width="24" alt="Avatar of onurdemir55"> onurdemir55
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#onurdemir55">Copy rank badge</a><br/>
 			Onur Demir
 		</td>
 		<td>No Company</td>
@@ -8624,7 +8626,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/avocade">
 				<img src="https://avatars.githubusercontent.com/u/8943?s=72&u=0f1dab3cfbb762b5144035b8fca486976630793f&v=4" width="24" alt="Avatar of avocade"> avocade
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#avocade">Copy rank badge</a><br/>
 			Oskar Boëthius Lissheim
 		</td>
 		<td>@multiplyco </td>
@@ -8637,7 +8639,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/obskyr">
 				<img src="https://avatars.githubusercontent.com/u/4363779?s=72&u=7fbe14ee0337e4c254974bfbac309b355e532973&v=4" width="24" alt="Avatar of obskyr"> obskyr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#obskyr">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8650,7 +8652,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/senorcarbone">
 				<img src="https://avatars.githubusercontent.com/u/858078?s=72&u=1328ad7ab8a0a656a88c10266d79b4b7230e08d8&v=4" width="24" alt="Avatar of senorcarbone"> senorcarbone
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#senorcarbone">Copy rank badge</a><br/>
 			Paris Carbone
 		</td>
 		<td>Kth, Rise </td>
@@ -8663,7 +8665,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/stuffmatic">
 				<img src="https://avatars.githubusercontent.com/u/2444852?s=72&u=1bda66dea90d74d7ed40806a0b525385e3ff8c61&v=4" width="24" alt="Avatar of stuffmatic"> stuffmatic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#stuffmatic">Copy rank badge</a><br/>
 			Per Gantelius
 		</td>
 		<td>No Company</td>
@@ -8676,7 +8678,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Bobotech79">
 				<img src="https://avatars.githubusercontent.com/u/10651375?s=72&u=15a3863de1ef1155ff20c85a4d6b7367e1167809&v=4" width="24" alt="Avatar of Bobotech79"> Bobotech79
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Bobotech79">Copy rank badge</a><br/>
 			Tony Olsson
 		</td>
 		<td>It Consultant </td>
@@ -8689,7 +8691,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/pellepl">
 				<img src="https://avatars.githubusercontent.com/u/5098839?s=72&v=4" width="24" alt="Avatar of pellepl"> pellepl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#pellepl">Copy rank badge</a><br/>
 			Peter Andersson
 		</td>
 		<td>No Company</td>
@@ -8702,7 +8704,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Zimmergren">
 				<img src="https://avatars.githubusercontent.com/u/4071728?s=72&u=66177a2d09eea5f8755e1f24c727a76a3f3cb00e&v=4" width="24" alt="Avatar of Zimmergren"> Zimmergren
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Zimmergren">Copy rank badge</a><br/>
 			Tobias Zimmergren
 		</td>
 		<td>Pons.io </td>
@@ -8715,7 +8717,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/wiledal">
 				<img src="https://avatars.githubusercontent.com/u/1035169?s=72&u=0eb7b61eff69096cb694ec2d58b8e75fa350b819&v=4" width="24" alt="Avatar of wiledal"> wiledal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#wiledal">Copy rank badge</a><br/>
 			Hugo Wiledal
 		</td>
 		<td>@lovablelabs </td>
@@ -8728,7 +8730,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jeffersongirao">
 				<img src="https://avatars.githubusercontent.com/u/70795?s=72&u=5c43bbc800ba336430cfa3d0ed372971c7637f94&v=4" width="24" alt="Avatar of jeffersongirao"> jeffersongirao
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jeffersongirao">Copy rank badge</a><br/>
 			Jefferson Girão
 		</td>
 		<td>Velory </td>
@@ -8741,7 +8743,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/feelepxyz">
 				<img src="https://avatars.githubusercontent.com/u/20165?s=72&u=21eb39fe815e53bc468ebe4776f97cf93cdc8c49&v=4" width="24" alt="Avatar of feelepxyz"> feelepxyz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#feelepxyz">Copy rank badge</a><br/>
 			Philip Harrison
 		</td>
 		<td>No Company</td>
@@ -8754,7 +8756,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/EBjerrum">
 				<img src="https://avatars.githubusercontent.com/u/12825511?s=72&u=e499a9474eb872b1a21f41d78a4aa7816c1014e0&v=4" width="24" alt="Avatar of EBjerrum"> EBjerrum
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#EBjerrum">Copy rank badge</a><br/>
 			Esben Jannik Bjerrum
 		</td>
 		<td>Abbvie </td>
@@ -8767,7 +8769,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/linus">
 				<img src="https://avatars.githubusercontent.com/u/105278?s=72&u=638b02776df75fd326eb051b8091c0434d66feaf&v=4" width="24" alt="Avatar of linus"> linus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#linus">Copy rank badge</a><br/>
 			Linus G Thiel
 		</td>
 		<td>@bonniernews </td>
@@ -8780,7 +8782,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Kungsgeten">
 				<img src="https://avatars.githubusercontent.com/u/3976377?s=72&u=b1ee4fadcc1220688b355b3b6cd770a4f8d3af8e&v=4" width="24" alt="Avatar of Kungsgeten"> Kungsgeten
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Kungsgeten">Copy rank badge</a><br/>
 			Erik Sjöstrand
 		</td>
 		<td>No Company</td>
@@ -8793,7 +8795,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/qerub">
 				<img src="https://avatars.githubusercontent.com/u/636?s=72&v=4" width="24" alt="Avatar of qerub"> qerub
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#qerub">Copy rank badge</a><br/>
 			Christoffer Sawicki
 		</td>
 		<td>Defsoftware </td>
@@ -8806,7 +8808,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/lorainegarutti">
 				<img src="https://avatars.githubusercontent.com/u/60954622?s=72&u=c6689ce69ccce0ee6d09d9a69e03ed6d4dfcea08&v=4" width="24" alt="Avatar of lorainegarutti"> lorainegarutti
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#lorainegarutti">Copy rank badge</a><br/>
 			Loraine Barcha Garutti
 		</td>
 		<td>Mentimeter </td>
@@ -8819,7 +8821,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/edvinerikson">
 				<img src="https://avatars.githubusercontent.com/u/3890572?s=72&u=a5bb5a2b78191bd8b0e7ea1989f6df8a4fa329e1&v=4" width="24" alt="Avatar of edvinerikson"> edvinerikson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#edvinerikson">Copy rank badge</a><br/>
 			Edvin Eriksson
 		</td>
 		<td>Pokeyo Ab </td>
@@ -8832,7 +8834,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mpj">
 				<img src="https://avatars.githubusercontent.com/u/17815?s=72&u=f1a411a58da2601b7b2d232210f821a95598a756&v=4" width="24" alt="Avatar of mpj"> mpj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mpj">Copy rank badge</a><br/>
 			Mattias Petter Johansson
 		</td>
 		<td>Fun Fun Function </td>
@@ -8845,7 +8847,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Bogdan-Lyashenko">
 				<img src="https://avatars.githubusercontent.com/u/2098309?s=72&u=5be76d92959c63ce452edfbe97531f3444828e84&v=4" width="24" alt="Avatar of Bogdan-Lyashenko"> Bogdan-Lyashenko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Bogdan-Lyashenko">Copy rank badge</a><br/>
 			Bohdan Liashenko
 		</td>
 		<td>@zero-plus-x  </td>
@@ -8858,7 +8860,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ajtowf">
 				<img src="https://avatars.githubusercontent.com/u/3427270?s=72&u=9829756ccc670d82a051ea3613646c6286f26d0f&v=4" width="24" alt="Avatar of ajtowf"> ajtowf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ajtowf">Copy rank badge</a><br/>
 			Ajden Towfeek
 		</td>
 		<td>Towfeek Solutions Ab </td>
@@ -8871,7 +8873,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/danba340">
 				<img src="https://avatars.githubusercontent.com/u/12296279?s=72&u=70e9950e8d9494ff36d5e3a9642ca2bbe34a7574&v=4" width="24" alt="Avatar of danba340"> danba340
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#danba340">Copy rank badge</a><br/>
 			Daniel Bark
 		</td>
 		<td>Volvo Cars </td>
@@ -8884,7 +8886,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/daniel-j">
 				<img src="https://avatars.githubusercontent.com/u/1264014?s=72&u=21717386df9294178bdf4fffff700aded7270b0f&v=4" width="24" alt="Avatar of daniel-j"> daniel-j
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#daniel-j">Copy rank badge</a><br/>
 			djazz
 		</td>
 		<td>No Company</td>
@@ -8897,7 +8899,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/nekosaur">
 				<img src="https://avatars.githubusercontent.com/u/623137?s=72&u=78cc78fa9772b7746aa53bfc92417268ea9dba62&v=4" width="24" alt="Avatar of nekosaur"> nekosaur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#nekosaur">Copy rank badge</a><br/>
 			Albert Kaaman
 		</td>
 		<td>No Company</td>
@@ -8910,7 +8912,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/forslund">
 				<img src="https://avatars.githubusercontent.com/u/804543?s=72&v=4" width="24" alt="Avatar of forslund"> forslund
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#forslund">Copy rank badge</a><br/>
 			Åke
 		</td>
 		<td>Leine Linde </td>
@@ -8923,7 +8925,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/aurora-mm">
 				<img src="https://avatars.githubusercontent.com/u/83468574?s=72&u=c7b0cb78154290009a8cded325f6ffdd496f7908&v=4" width="24" alt="Avatar of aurora-mm"> aurora-mm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#aurora-mm">Copy rank badge</a><br/>
 			Linn R. Friberg
 		</td>
 		<td>No Company</td>
@@ -8936,7 +8938,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ptomasroos">
 				<img src="https://avatars.githubusercontent.com/u/1064547?s=72&u=543dc0393cd6751aa36179a593524dbf1652fcac&v=4" width="24" alt="Avatar of ptomasroos"> ptomasroos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ptomasroos">Copy rank badge</a><br/>
 			Tomas Roos
 		</td>
 		<td>No Company</td>
@@ -8949,7 +8951,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jishi">
 				<img src="https://avatars.githubusercontent.com/u/3165475?s=72&v=4" width="24" alt="Avatar of jishi"> jishi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jishi">Copy rank badge</a><br/>
 			Jimmy Shimizu
 		</td>
 		<td>No Company</td>
@@ -8962,7 +8964,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/gdomiciano">
 				<img src="https://avatars.githubusercontent.com/u/4642785?s=72&u=6ae36400e5cf02e6452dd05404dcf3433b06057f&v=4" width="24" alt="Avatar of gdomiciano"> gdomiciano
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#gdomiciano">Copy rank badge</a><br/>
 			Geisy Domiciano
 		</td>
 		<td>No Company</td>
@@ -8975,7 +8977,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/gabrielPeart">
 				<img src="https://avatars.githubusercontent.com/u/194588?s=72&u=04f9a206a091d15c992bae02146fb1f1ea9e1b4b&v=4" width="24" alt="Avatar of gabrielPeart"> gabrielPeart
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#gabrielPeart">Copy rank badge</a><br/>
 			Gabriel Peart
 		</td>
 		<td>No Company</td>
@@ -8988,7 +8990,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/djui">
 				<img src="https://avatars.githubusercontent.com/u/99752?s=72&v=4" width="24" alt="Avatar of djui"> djui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#djui">Copy rank badge</a><br/>
 			Uwe Dauernheim
 		</td>
 		<td>@voiapp, @gracehealth  </td>
@@ -9001,7 +9003,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/gopatrik">
 				<img src="https://avatars.githubusercontent.com/u/774052?s=72&u=1f350140c8554352fd52e9655decb40a6878df0e&v=4" width="24" alt="Avatar of gopatrik"> gopatrik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#gopatrik">Copy rank badge</a><br/>
 			Patrik Göthe
 		</td>
 		<td>No Company</td>
@@ -9014,7 +9016,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/andristum">
 				<img src="https://avatars.githubusercontent.com/u/47616367?s=72&u=acd96c8a370fb32e919b284db005b96192f37908&v=4" width="24" alt="Avatar of andristum"> andristum
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#andristum">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9027,7 +9029,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/BullishVince">
 				<img src="https://avatars.githubusercontent.com/u/61637268?s=72&u=fc94d3d1532fae09e8de235a94a95178313cb20a&v=4" width="24" alt="Avatar of BullishVince"> BullishVince
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#BullishVince">Copy rank badge</a><br/>
 			Vincent W
 		</td>
 		<td>No Company</td>
@@ -9040,7 +9042,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/joviane">
 				<img src="https://avatars.githubusercontent.com/u/2012952?s=72&v=4" width="24" alt="Avatar of joviane"> joviane
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#joviane">Copy rank badge</a><br/>
 			Joviane Fernandes Jardim
 		</td>
 		<td>@detectify </td>
@@ -9053,7 +9055,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/serso">
 				<img src="https://avatars.githubusercontent.com/u/461719?s=72&u=123e50bdf828a679604d83d5bf2ea2aa88447bd5&v=4" width="24" alt="Avatar of serso"> serso
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#serso">Copy rank badge</a><br/>
 			Sergey Solovyev
 		</td>
 		<td>Opera Software </td>
@@ -9066,7 +9068,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/rlv-dan">
 				<img src="https://avatars.githubusercontent.com/u/8337570?s=72&u=997c205890a79d99e06e107adbff52b322244c05&v=4" width="24" alt="Avatar of rlv-dan"> rlv-dan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#rlv-dan">Copy rank badge</a><br/>
 			Dan
 		</td>
 		<td>Rl Vision </td>
@@ -9079,7 +9081,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/hussius">
 				<img src="https://avatars.githubusercontent.com/u/373445?s=72&v=4" width="24" alt="Avatar of hussius"> hussius
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#hussius">Copy rank badge</a><br/>
 			Mikael Huss
 		</td>
 		<td>Codon Consulting </td>
@@ -9092,7 +9094,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/FRidh">
 				<img src="https://avatars.githubusercontent.com/u/2129135?s=72&u=dc44f21e5093b3bf073d8dd2fadf3d916e81e3f1&v=4" width="24" alt="Avatar of FRidh"> FRidh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#FRidh">Copy rank badge</a><br/>
 			Frederik Rietdijk
 		</td>
 		<td>No Company</td>
@@ -9105,7 +9107,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/erkie">
 				<img src="https://avatars.githubusercontent.com/u/21059?s=72&u=9e2c2b41300a8e14cb51117511d68f099c4f3d51&v=4" width="24" alt="Avatar of erkie"> erkie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#erkie">Copy rank badge</a><br/>
 			Erik Rothoff Andersson
 		</td>
 		<td>@feederco  </td>
@@ -9118,7 +9120,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/miickel">
 				<img src="https://avatars.githubusercontent.com/u/1155441?s=72&u=142e6eb68f6d23f0cf9ad2b02c7de1d05864f431&v=4" width="24" alt="Avatar of miickel"> miickel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#miickel">Copy rank badge</a><br/>
 			Mickel
 		</td>
 		<td>Ultimate Machine </td>
@@ -9131,7 +9133,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/lericson">
 				<img src="https://avatars.githubusercontent.com/u/46901?s=72&u=46ce8b0b88f9e918184ca1c84e1b315bead6aac3&v=4" width="24" alt="Avatar of lericson"> lericson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#lericson">Copy rank badge</a><br/>
 			Ludvig Ericson
 		</td>
 		<td>@sendapatch  </td>
@@ -9144,7 +9146,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mariorodeghiero">
 				<img src="https://avatars.githubusercontent.com/u/24671133?s=72&u=0de13316d490ea295bbe3ead5fa55e63c5b86a3c&v=4" width="24" alt="Avatar of mariorodeghiero"> mariorodeghiero
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mariorodeghiero">Copy rank badge</a><br/>
 			Mario Rodeghiero
 		</td>
 		<td>Comeon Group </td>
@@ -9157,7 +9159,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/weibenfalk">
 				<img src="https://avatars.githubusercontent.com/u/11212270?s=72&u=e0a311546a016bc5b58298e8d8ef6f2f5dc37ceb&v=4" width="24" alt="Avatar of weibenfalk"> weibenfalk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#weibenfalk">Copy rank badge</a><br/>
 			Thomas Weibenfalk
 		</td>
 		<td>Own </td>
@@ -9170,7 +9172,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/myflashlab">
 				<img src="https://avatars.githubusercontent.com/u/1692948?s=72&u=9ddad06ffdb39978e41a7c37145d5f599e004c58&v=4" width="24" alt="Avatar of myflashlab"> myflashlab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#myflashlab">Copy rank badge</a><br/>
 			Hadi Tavakoli
 		</td>
 		<td>No Company</td>
@@ -9183,7 +9185,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Tobias-Thor">
 				<img src="https://avatars.githubusercontent.com/u/179440561?s=72&u=7180cd0ef61a301cdaa2bc17aa58f5780e78cf78&v=4" width="24" alt="Avatar of Tobias-Thor"> Tobias-Thor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Tobias-Thor">Copy rank badge</a><br/>
 			Tobias Thor
 		</td>
 		<td>No Company</td>
@@ -9196,7 +9198,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/risan">
 				<img src="https://avatars.githubusercontent.com/u/3825242?s=72&u=4971f9dc5c4616d6522dcb25f84edd0d66681386&v=4" width="24" alt="Avatar of risan"> risan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#risan">Copy rank badge</a><br/>
 			Risan Bagja Pradana
 		</td>
 		<td>No Company</td>
@@ -9209,7 +9211,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/felixmulder">
 				<img src="https://avatars.githubusercontent.com/u/1530049?s=72&v=4" width="24" alt="Avatar of felixmulder"> felixmulder
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#felixmulder">Copy rank badge</a><br/>
 			Felix Mulder
 		</td>
 		<td>Stripe </td>
@@ -9222,7 +9224,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/fesplugas">
 				<img src="https://avatars.githubusercontent.com/u/2720?s=72&u=e2b6191d1ba34be63d6b54a68dab24486ddf4071&v=4" width="24" alt="Avatar of fesplugas"> fesplugas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#fesplugas">Copy rank badge</a><br/>
 			Francesc Esplugas
 		</td>
 		<td>No Company</td>
@@ -9235,7 +9237,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ln5">
 				<img src="https://avatars.githubusercontent.com/u/41551?s=72&v=4" width="24" alt="Avatar of ln5"> ln5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ln5">Copy rank badge</a><br/>
 			Linus Nordberg
 		</td>
 		<td>No Company</td>
@@ -9248,7 +9250,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ZmengXu">
 				<img src="https://avatars.githubusercontent.com/u/47369307?s=72&u=c30f7527e5cd4665bc9d2b389d2f899cc3fd2a0f&v=4" width="24" alt="Avatar of ZmengXu"> ZmengXu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ZmengXu">Copy rank badge</a><br/>
 			Shijie Xu
 		</td>
 		<td>Lund University </td>
@@ -9261,7 +9263,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dln">
 				<img src="https://avatars.githubusercontent.com/u/49960?s=72&u=bedaf93a3cef4e5fe87d1a28f0a3e3a3949cd491&v=4" width="24" alt="Avatar of dln"> dln
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dln">Copy rank badge</a><br/>
 			Daniel Lundin
 		</td>
 		<td>Patagia </td>
@@ -9274,7 +9276,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/henrikruscon">
 				<img src="https://avatars.githubusercontent.com/u/1430576?s=72&u=1c62c6f665a146523a00ff77d36aef1a0161f03d&v=4" width="24" alt="Avatar of henrikruscon"> henrikruscon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#henrikruscon">Copy rank badge</a><br/>
 			Henrik
 		</td>
 		<td>No Company</td>
@@ -9287,7 +9289,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/EmmaDawsonDev">
 				<img src="https://avatars.githubusercontent.com/u/57045550?s=72&u=1f89668be674f5cce7643c331a189225816a55b5&v=4" width="24" alt="Avatar of EmmaDawsonDev"> EmmaDawsonDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#EmmaDawsonDev">Copy rank badge</a><br/>
 			Emma Dawson
 		</td>
 		<td>No Company</td>
@@ -9300,7 +9302,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/iamstarkov">
 				<img src="https://avatars.githubusercontent.com/u/559321?s=72&u=a6ce5d08733cd3af09adef1fcb45ae080edff459&v=4" width="24" alt="Avatar of iamstarkov"> iamstarkov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#iamstarkov">Copy rank badge</a><br/>
 			Vladimir Starkov
 		</td>
 		<td> @nordnet  </td>
@@ -9313,7 +9315,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/chrokh">
 				<img src="https://avatars.githubusercontent.com/u/223850?s=72&u=f381ea9db7688267802597f60337fa95f9b27d0d&v=4" width="24" alt="Avatar of chrokh"> chrokh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#chrokh">Copy rank badge</a><br/>
 			Christopher
 		</td>
 		<td>No Company</td>
@@ -9326,7 +9328,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/vintharas">
 				<img src="https://avatars.githubusercontent.com/u/284869?s=72&u=d1232b15cce47486961cc1be0ad11da934bb2898&v=4" width="24" alt="Avatar of vintharas"> vintharas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#vintharas">Copy rank badge</a><br/>
 			Jaime
 		</td>
 		<td>@google </td>
@@ -9339,7 +9341,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Ezzpify">
 				<img src="https://avatars.githubusercontent.com/u/9034691?s=72&u=697a80f12d821aa3aa9e60042299ae4cd53decca&v=4" width="24" alt="Avatar of Ezzpify"> Ezzpify
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Ezzpify">Copy rank badge</a><br/>
 			Casper BL
 		</td>
 		<td>Stepler Ab </td>
@@ -9352,7 +9354,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Kimtaro">
 				<img src="https://avatars.githubusercontent.com/u/15438?s=72&v=4" width="24" alt="Avatar of Kimtaro"> Kimtaro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Kimtaro">Copy rank badge</a><br/>
 			Kim Ahlström
 		</td>
 		<td>No Company</td>
@@ -9365,7 +9367,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/myshov">
 				<img src="https://avatars.githubusercontent.com/u/2382567?s=72&v=4" width="24" alt="Avatar of myshov"> myshov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#myshov">Copy rank badge</a><br/>
 			Alexander Myshov
 		</td>
 		<td>@iconik-io  </td>
@@ -9378,7 +9380,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Oliver-1-1">
 				<img src="https://avatars.githubusercontent.com/u/66334947?s=72&u=e9224ab31b70db69512922ad20c52091f692d766&v=4" width="24" alt="Avatar of Oliver-1-1"> Oliver-1-1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Oliver-1-1">Copy rank badge</a><br/>
 			Oliver
 		</td>
 		<td>Swedish School </td>
@@ -9391,7 +9393,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/luna-duclos">
 				<img src="https://avatars.githubusercontent.com/u/5576448?s=72&u=3208e9fa4c182ace846eef003811b63a08ff8d1f&v=4" width="24" alt="Avatar of luna-duclos"> luna-duclos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#luna-duclos">Copy rank badge</a><br/>
 			Luna Duclos
 		</td>
 		<td>Coreweave </td>
@@ -9404,7 +9406,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mahmudalhakim">
 				<img src="https://avatars.githubusercontent.com/u/16646383?s=72&v=4" width="24" alt="Avatar of mahmudalhakim"> mahmudalhakim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mahmudalhakim">Copy rank badge</a><br/>
 			Mahmud Al Hakim
 		</td>
 		<td>Swedish Web Academy Ab<br/></td>
@@ -9417,7 +9419,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/gnebbia">
 				<img src="https://avatars.githubusercontent.com/u/16106651?s=72&v=4" width="24" alt="Avatar of gnebbia"> gnebbia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#gnebbia">Copy rank badge</a><br/>
 			gnebbia
 		</td>
 		<td>No Company</td>
@@ -9430,7 +9432,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/daniellee">
 				<img src="https://avatars.githubusercontent.com/u/434655?s=72&u=0625e6874dbde9488a0cd6bc2d3a94c665337551&v=4" width="24" alt="Avatar of daniellee"> daniellee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#daniellee">Copy rank badge</a><br/>
 			Daniel Lee
 		</td>
 		<td>@embarkstudios  </td>
@@ -9443,7 +9445,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ffdead">
 				<img src="https://avatars.githubusercontent.com/u/420472?s=72&u=769ef9e684becfa06028d54a298e653c65a82faf&v=4" width="24" alt="Avatar of ffdead"> ffdead
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ffdead">Copy rank badge</a><br/>
 			David Lindkvist
 		</td>
 		<td>14islands </td>
@@ -9456,7 +9458,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/krisskross">
 				<img src="https://avatars.githubusercontent.com/u/414023?s=72&u=806be1620690673c95b0710d390aca330c3b696f&v=4" width="24" alt="Avatar of krisskross"> krisskross
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#krisskross">Copy rank badge</a><br/>
 			Christofer Sjögren
 		</td>
 		<td>Http://github.com/de </td>
@@ -9469,7 +9471,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/tobiasahlin">
 				<img src="https://avatars.githubusercontent.com/u/211284?s=72&u=9673e9709b6ce46ba66a402cf0e10c1c8e8f73d6&v=4" width="24" alt="Avatar of tobiasahlin"> tobiasahlin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#tobiasahlin">Copy rank badge</a><br/>
 			Tobias Ahlin
 		</td>
 		<td>No Company</td>
@@ -9482,7 +9484,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/thmsgbrt">
 				<img src="https://avatars.githubusercontent.com/u/16786906?s=72&u=bd3082da4caa53be5d387a3e2f9093b5224bddfe&v=4" width="24" alt="Avatar of thmsgbrt"> thmsgbrt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#thmsgbrt">Copy rank badge</a><br/>
 			Thomas Guibert
 		</td>
 		<td>Primer.io </td>
@@ -9495,7 +9497,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/henninghall">
 				<img src="https://avatars.githubusercontent.com/u/1652607?s=72&u=058c146a249b1802ca364af1c55f74e92965d382&v=4" width="24" alt="Avatar of henninghall"> henninghall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#henninghall">Copy rank badge</a><br/>
 			Henning Hall
 		</td>
 		<td>No Company</td>
@@ -9508,7 +9510,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mayojava">
 				<img src="https://avatars.githubusercontent.com/u/3038239?s=72&v=4" width="24" alt="Avatar of mayojava"> mayojava
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mayojava">Copy rank badge</a><br/>
 			Mayowa Adegeye
 		</td>
 		<td>Spotify </td>
@@ -9521,7 +9523,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/danielwertheim">
 				<img src="https://avatars.githubusercontent.com/u/196044?s=72&u=e0f959a34eea93ab8ffb11977d3649a1e8ef1bb6&v=4" width="24" alt="Avatar of danielwertheim"> danielwertheim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#danielwertheim">Copy rank badge</a><br/>
 			Daniel Wertheim
 		</td>
 		<td>No Company</td>
@@ -9534,7 +9536,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ruthpozuelo">
 				<img src="https://avatars.githubusercontent.com/u/19476550?s=72&v=4" width="24" alt="Avatar of ruthpozuelo"> ruthpozuelo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ruthpozuelo">Copy rank badge</a><br/>
 			Ruth Pozuelo Martinez
 		</td>
 		<td>Curbal Ab </td>
@@ -9547,7 +9549,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/xaviervia">
 				<img src="https://avatars.githubusercontent.com/u/381614?s=72&u=6489618ae52b1ccb10d42fa5c71e57edb8b038fb&v=4" width="24" alt="Avatar of xaviervia"> xaviervia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#xaviervia">Copy rank badge</a><br/>
 			Fernando Via Canel
 		</td>
 		<td>No Company</td>
@@ -9560,7 +9562,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/halhen">
 				<img src="https://avatars.githubusercontent.com/u/71583?s=72&u=30832b0083b60133abd305f29d54ad7e5ce8e721&v=4" width="24" alt="Avatar of halhen"> halhen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#halhen">Copy rank badge</a><br/>
 			Henrik Lindberg
 		</td>
 		<td>No Company</td>
@@ -9573,7 +9575,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/pahen">
 				<img src="https://avatars.githubusercontent.com/u/353888?s=72&u=2165ceb046ec6746c3b88b392d251a1b34303017&v=4" width="24" alt="Avatar of pahen"> pahen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#pahen">Copy rank badge</a><br/>
 			Patrik Henningsson
 		</td>
 		<td>Aptoma </td>
@@ -9586,7 +9588,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/baraki-weldat">
 				<img src="https://avatars.githubusercontent.com/u/30467913?s=72&v=4" width="24" alt="Avatar of baraki-weldat"> baraki-weldat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#baraki-weldat">Copy rank badge</a><br/>
 			Welemhret Baraki
 		</td>
 		<td>University Of Skövde </td>
@@ -9599,7 +9601,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/zvonicek">
 				<img src="https://avatars.githubusercontent.com/u/1540564?s=72&u=c2d841c90d3df459b37052c41b966cda92b7460b&v=4" width="24" alt="Avatar of zvonicek"> zvonicek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#zvonicek">Copy rank badge</a><br/>
 			Petr Zvoníček
 		</td>
 		<td>@spotify </td>
@@ -9612,7 +9614,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ykhedher">
 				<img src="https://avatars.githubusercontent.com/u/47088512?s=72&u=152ce2d37099081930bf5126477438bff3d9fa0e&v=4" width="24" alt="Avatar of ykhedher"> ykhedher
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ykhedher">Copy rank badge</a><br/>
 			Youssef Khedher
 		</td>
 		<td>Klarna </td>
@@ -9625,7 +9627,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/hovren">
 				<img src="https://avatars.githubusercontent.com/u/311535?s=72&u=de994c67bd593780176b7ee86cccd6613adb3f66&v=4" width="24" alt="Avatar of hovren"> hovren
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#hovren">Copy rank badge</a><br/>
 			Hannes Ovrén
 		</td>
 		<td>No Company</td>
@@ -9638,7 +9640,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/JoelBesada">
 				<img src="https://avatars.githubusercontent.com/u/688415?s=72&u=14c445604674c8912f0861e17e990e415f35e1d4&v=4" width="24" alt="Avatar of JoelBesada"> JoelBesada
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#JoelBesada">Copy rank badge</a><br/>
 			Joel Besada
 		</td>
 		<td>No Company</td>
@@ -9651,7 +9653,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/JunshengFu">
 				<img src="https://avatars.githubusercontent.com/u/15829883?s=72&u=e109667358491c93dd89d7eff095e829665ad2d0&v=4" width="24" alt="Avatar of JunshengFu"> JunshengFu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#JunshengFu">Copy rank badge</a><br/>
 			Junsheng Fu
 		</td>
 		<td>Zenseact </td>
@@ -9664,7 +9666,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/korthaj">
 				<img src="https://avatars.githubusercontent.com/u/11197899?s=72&v=4" width="24" alt="Avatar of korthaj"> korthaj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#korthaj">Copy rank badge</a><br/>
 			Stefan Nilsson
 		</td>
 		<td>No Company</td>
@@ -9677,7 +9679,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/quarnster">
 				<img src="https://avatars.githubusercontent.com/u/1230389?s=72&v=4" width="24" alt="Avatar of quarnster"> quarnster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#quarnster">Copy rank badge</a><br/>
 			Fredrik Ehnbom
 		</td>
 		<td>No Company</td>
@@ -9690,7 +9692,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/nokonoko">
 				<img src="https://avatars.githubusercontent.com/u/2499891?s=72&u=693f281d91e7cfb9336c78bf407e392751085b19&v=4" width="24" alt="Avatar of nokonoko"> nokonoko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#nokonoko">Copy rank badge</a><br/>
 			Go Johansson (neku)
 		</td>
 		<td>Pomf Ab </td>
@@ -9703,7 +9705,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jto">
 				<img src="https://avatars.githubusercontent.com/u/197582?s=72&u=df2d7f6e077f7d87e90e941ffbb17efa208f8a63&v=4" width="24" alt="Avatar of jto"> jto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jto">Copy rank badge</a><br/>
 			Julien Tournay
 		</td>
 		<td>No Company</td>
@@ -9716,7 +9718,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/massemanet">
 				<img src="https://avatars.githubusercontent.com/u/12678?s=72&v=4" width="24" alt="Avatar of massemanet"> massemanet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#massemanet">Copy rank badge</a><br/>
 			mats cronqvist
 		</td>
 		<td>No Company</td>
@@ -9729,7 +9731,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/CelikCebrail">
 				<img src="https://avatars.githubusercontent.com/u/154819648?s=72&u=9c4d9a41ed4b328ef230b3d79269ffdfff47ce33&v=4" width="24" alt="Avatar of CelikCebrail"> CelikCebrail
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#CelikCebrail">Copy rank badge</a><br/>
 			Cebrail Celik
 		</td>
 		<td>No Company</td>
@@ -9742,7 +9744,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kallepersson">
 				<img src="https://avatars.githubusercontent.com/u/2496?s=72&u=42ac3deabd28429402dcbef127d6d896871b1c10&v=4" width="24" alt="Avatar of kallepersson"> kallepersson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kallepersson">Copy rank badge</a><br/>
 			Kalle Persson
 		</td>
 		<td>@spotify </td>
@@ -9755,7 +9757,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/dimitrij">
 				<img src="https://avatars.githubusercontent.com/u/425682?s=72&u=5cdeb6f0486f21c1447224288d52191fc9a2c19f&v=4" width="24" alt="Avatar of dimitrij"> dimitrij
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#dimitrij">Copy rank badge</a><br/>
 			Dimitrij Aleshkov
 		</td>
 		<td>Robot Minds Ab </td>
@@ -9768,7 +9770,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/hannseman">
 				<img src="https://avatars.githubusercontent.com/u/758858?s=72&v=4" width="24" alt="Avatar of hannseman"> hannseman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#hannseman">Copy rank badge</a><br/>
 			Hannes Ljungberg
 		</td>
 		<td>@teenageengineering  </td>
@@ -9781,7 +9783,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/hemangshah">
 				<img src="https://avatars.githubusercontent.com/u/3313412?s=72&v=4" width="24" alt="Avatar of hemangshah"> hemangshah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#hemangshah">Copy rank badge</a><br/>
 			Hemang
 		</td>
 		<td>No Company</td>
@@ -9794,7 +9796,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/tjackenpacken">
 				<img src="https://avatars.githubusercontent.com/u/72186578?s=72&u=a5ce7a4e0e3131d53ef17c85a67fd2cd24df264c&v=4" width="24" alt="Avatar of tjackenpacken"> tjackenpacken
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#tjackenpacken">Copy rank badge</a><br/>
 			Jack Schierbeck
 		</td>
 		<td>Scania </td>
@@ -9807,7 +9809,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/oalsing">
 				<img src="https://avatars.githubusercontent.com/u/2356843?s=72&u=5f15f1ebe8cf9cb80f79a13c25ca363cce6d1afe&v=4" width="24" alt="Avatar of oalsing"> oalsing
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#oalsing">Copy rank badge</a><br/>
 			Oscar Alsing
 		</td>
 		<td>Sprints </td>
@@ -9820,7 +9822,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/LTMenezes">
 				<img src="https://avatars.githubusercontent.com/u/7016702?s=72&u=c63abf098aeadfb2415edde8b7fa1e687c7a257e&v=4" width="24" alt="Avatar of LTMenezes"> LTMenezes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#LTMenezes">Copy rank badge</a><br/>
 			Leonardo Teixeira Menezes
 		</td>
 		<td>Spotify </td>
@@ -9833,7 +9835,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/nihilus">
 				<img src="https://avatars.githubusercontent.com/u/544596?s=72&v=4" width="24" alt="Avatar of nihilus"> nihilus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#nihilus">Copy rank badge</a><br/>
 			Markus Gothe
 		</td>
 		<td>No Company</td>
@@ -9846,7 +9848,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/lukego">
 				<img src="https://avatars.githubusercontent.com/u/13791?s=72&u=47bd47cffaf29cd7ca0ccc48bc3bbfa2e55eb8d0&v=4" width="24" alt="Avatar of lukego"> lukego
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#lukego">Copy rank badge</a><br/>
 			Luke Gorrie
 		</td>
 		<td>Permo </td>
@@ -9859,7 +9861,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/andersnoren">
 				<img src="https://avatars.githubusercontent.com/u/8181091?s=72&v=4" width="24" alt="Avatar of andersnoren"> andersnoren
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#andersnoren">Copy rank badge</a><br/>
 			Anders Norén
 		</td>
 		<td>Freelance </td>
@@ -9872,7 +9874,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/CarlGroth">
 				<img src="https://avatars.githubusercontent.com/u/21248941?s=72&u=e20fcecc13a814bc7ba70b81313d62e3e331247c&v=4" width="24" alt="Avatar of CarlGroth"> CarlGroth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#CarlGroth">Copy rank badge</a><br/>
 			Carl Groth
 		</td>
 		<td>No Company</td>
@@ -9885,7 +9887,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/EmilHernvall">
 				<img src="https://avatars.githubusercontent.com/u/507999?s=72&u=93a4097a2dde30bf14cef49e61e8d264236ba39a&v=4" width="24" alt="Avatar of EmilHernvall"> EmilHernvall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#EmilHernvall">Copy rank badge</a><br/>
 			Emil Hernvall
 		</td>
 		<td>Amazon Web Services </td>
@@ -9898,7 +9900,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/ChocoChipset">
 				<img src="https://avatars.githubusercontent.com/u/612990?s=72&u=d281f025ca2f5995f5a5bfe58e37e8ff360f9a45&v=4" width="24" alt="Avatar of ChocoChipset"> ChocoChipset
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#ChocoChipset">Copy rank badge</a><br/>
 			Hector Zarate
 		</td>
 		<td>Tab </td>
@@ -9911,7 +9913,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/soroushchehresa">
 				<img src="https://avatars.githubusercontent.com/u/20001233?s=72&u=215daa6ca826ae57551b6c34069f244a97f64638&v=4" width="24" alt="Avatar of soroushchehresa"> soroushchehresa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#soroushchehresa">Copy rank badge</a><br/>
 			Soroush Chehresa
 		</td>
 		<td>No Company</td>
@@ -9924,7 +9926,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/syranide">
 				<img src="https://avatars.githubusercontent.com/u/1714255?s=72&u=2921394d74080734119fac0a48685fc81228988d&v=4" width="24" alt="Avatar of syranide"> syranide
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#syranide">Copy rank badge</a><br/>
 			Andreas Svensson
 		</td>
 		<td>Cetrez </td>
@@ -9937,7 +9939,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/rasmusbrandt">
 				<img src="https://avatars.githubusercontent.com/u/2608033?s=72&u=34c12bf71713e3da7a66b455d8383ad3d928df34&v=4" width="24" alt="Avatar of rasmusbrandt"> rasmusbrandt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#rasmusbrandt">Copy rank badge</a><br/>
 			Rasmus Brandt
 		</td>
 		<td>@google  </td>
@@ -9950,7 +9952,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/EmilPoulsen">
 				<img src="https://avatars.githubusercontent.com/u/11620852?s=72&u=80da2eb1f84ac91f3b81dd2d206f8f9cb6fc11b6&v=4" width="24" alt="Avatar of EmilPoulsen"> EmilPoulsen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#EmilPoulsen">Copy rank badge</a><br/>
 			Emil Poulsen
 		</td>
 		<td>Plsndesigntech </td>
@@ -9963,7 +9965,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/nikreiman">
 				<img src="https://avatars.githubusercontent.com/u/312573?s=72&v=4" width="24" alt="Avatar of nikreiman"> nikreiman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#nikreiman">Copy rank badge</a><br/>
 			Nik Reiman
 		</td>
 		<td>No Company</td>
@@ -9976,7 +9978,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/Powersource">
 				<img src="https://avatars.githubusercontent.com/u/1427063?s=72&u=0fe67cf20db522c35fbc7dac445eda86682c632f&v=4" width="24" alt="Avatar of Powersource"> Powersource
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#Powersource">Copy rank badge</a><br/>
 			Powersource
 		</td>
 		<td>No Company</td>
@@ -9989,7 +9991,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/JagCesar">
 				<img src="https://avatars.githubusercontent.com/u/923548?s=72&u=f78198719d8e9bbc54e1be59b8cfe65ef1add2c1&v=4" width="24" alt="Avatar of JagCesar"> JagCesar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#JagCesar">Copy rank badge</a><br/>
 			César Pinto Castillo
 		</td>
 		<td>@ambiapps  </td>
@@ -10002,7 +10004,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/uguratar">
 				<img src="https://avatars.githubusercontent.com/u/2308580?s=72&u=84fe083104e7b9936f25402f53085261fbc10a4f&v=4" width="24" alt="Avatar of uguratar"> uguratar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#uguratar">Copy rank badge</a><br/>
 			Uğur Atar
 		</td>
 		<td>Bimobject </td>
@@ -10015,7 +10017,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/inoerp">
 				<img src="https://avatars.githubusercontent.com/u/6542612?s=72&v=4" width="24" alt="Avatar of inoerp"> inoerp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#inoerp">Copy rank badge</a><br/>
 			Nishit
 		</td>
 		<td>No Company</td>
@@ -10028,7 +10030,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/rperezdattari">
 				<img src="https://avatars.githubusercontent.com/u/21115731?s=72&u=63ff37cad35ba3c249f7bf279dcde792692a2840&v=4" width="24" alt="Avatar of rperezdattari"> rperezdattari
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#rperezdattari">Copy rank badge</a><br/>
 			Rodrigo Pérez Dattari
 		</td>
 		<td>Kth Royal Institute Of<br/>Technology<br/></td>
@@ -10041,7 +10043,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/tulios">
 				<img src="https://avatars.githubusercontent.com/u/33231?s=72&u=d37ed5316e38f552866d7598addb4f36049e2ec9&v=4" width="24" alt="Avatar of tulios"> tulios
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#tulios">Copy rank badge</a><br/>
 			Túlio Ornelas
 		</td>
 		<td>@spotify </td>
@@ -10054,7 +10056,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/JWarmenhoven">
 				<img src="https://avatars.githubusercontent.com/u/7450204?s=72&u=7473956c8d230114ca0a285b957287700d63ee34&v=4" width="24" alt="Avatar of JWarmenhoven"> JWarmenhoven
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#JWarmenhoven">Copy rank badge</a><br/>
 			Jordi Warmenhoven
 		</td>
 		<td>No Company</td>
@@ -10067,7 +10069,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/IrisClasson">
 				<img src="https://avatars.githubusercontent.com/u/1671084?s=72&u=3b40fa54f932a52426abdcaeb6b9b832c764cb44&v=4" width="24" alt="Avatar of IrisClasson"> IrisClasson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#IrisClasson">Copy rank badge</a><br/>
 			Iris Classon
 		</td>
 		<td>In Love With Code<br/></td>
@@ -10080,7 +10082,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/MaikKlein">
 				<img src="https://avatars.githubusercontent.com/u/1994306?s=72&u=0addc64095b767d9018c7635172b0e623a98344d&v=4" width="24" alt="Avatar of MaikKlein"> MaikKlein
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#MaikKlein">Copy rank badge</a><br/>
 			Maik Klein
 		</td>
 		<td>@embarkstudios </td>
@@ -10093,7 +10095,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jesolem">
 				<img src="https://avatars.githubusercontent.com/u/136751?s=72&u=a751c1bb422280fd3913b3f024e5a46c32a50a0f&v=4" width="24" alt="Avatar of jesolem"> jesolem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jesolem">Copy rank badge</a><br/>
 			Jan Erik Solem
 		</td>
 		<td>No Company</td>
@@ -10106,7 +10108,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/stegu">
 				<img src="https://avatars.githubusercontent.com/u/681322?s=72&u=7ff015e555b6b35c68dc9640910a27d76da52519&v=4" width="24" alt="Avatar of stegu"> stegu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#stegu">Copy rank badge</a><br/>
 			Stefan Gustavson
 		</td>
 		<td>Linköping University </td>
@@ -10119,7 +10121,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/faizankshaikh">
 				<img src="https://avatars.githubusercontent.com/u/8406903?s=72&u=fc2e02602788b28b132d2517087543042a3b2719&v=4" width="24" alt="Avatar of faizankshaikh"> faizankshaikh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#faizankshaikh">Copy rank badge</a><br/>
 			Faizan Shaikh
 		</td>
 		<td>Stora Enso </td>
@@ -10132,7 +10134,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/rejeep">
 				<img src="https://avatars.githubusercontent.com/u/20277?s=72&u=92ef50623dfcda42aeaa00a8a0f7d46c7ed90cd4&v=4" width="24" alt="Avatar of rejeep"> rejeep
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#rejeep">Copy rank badge</a><br/>
 			Johan Andersson
 		</td>
 		<td>Burt </td>
@@ -10145,7 +10147,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/camiloribeiro">
 				<img src="https://avatars.githubusercontent.com/u/972114?s=72&u=ab464f94c23f898c6d1f0dac2491a20574cb87ee&v=4" width="24" alt="Avatar of camiloribeiro"> camiloribeiro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#camiloribeiro">Copy rank badge</a><br/>
 			Camilo Ribeiro
 		</td>
 		<td>@spotify </td>
@@ -10158,7 +10160,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jonas-med-ett-s">
 				<img src="https://avatars.githubusercontent.com/u/5990550?s=72&u=ae2d2e713820bca0bd523b066ed5441099e056b8&v=4" width="24" alt="Avatar of jonas-med-ett-s"> jonas-med-ett-s
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jonas-med-ett-s">Copy rank badge</a><br/>
 			Jonas
 		</td>
 		<td>No Company</td>
@@ -10171,7 +10173,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/erming">
 				<img src="https://avatars.githubusercontent.com/u/2502500?s=72&u=9ee3b82ea61eec2d847a60865a2c1e91ca04592b&v=4" width="24" alt="Avatar of erming"> erming
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#erming">Copy rank badge</a><br/>
 			Mattias Erming
 		</td>
 		<td>Software Contractor </td>
@@ -10184,7 +10186,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/spoike">
 				<img src="https://avatars.githubusercontent.com/u/9253?s=72&u=0211b742b8cb495f21cf8a6cf5fc8462cf15aa9d&v=4" width="24" alt="Avatar of spoike"> spoike
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#spoike">Copy rank badge</a><br/>
 			Mikael Brassman
 		</td>
 		<td>@tretton37 </td>
@@ -10197,7 +10199,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/modlfo">
 				<img src="https://avatars.githubusercontent.com/u/2001046?s=72&v=4" width="24" alt="Avatar of modlfo"> modlfo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#modlfo">Copy rank badge</a><br/>
 			Leonardo Laguna Ruiz
 		</td>
 		<td>No Company</td>
@@ -10210,7 +10212,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/72lions">
 				<img src="https://avatars.githubusercontent.com/u/520279?s=72&u=f54e2ef66d4487588affaff93786391a9e2607a8&v=4" width="24" alt="Avatar of 72lions"> 72lions
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#72lions">Copy rank badge</a><br/>
 			Thodoris Tsiridis
 		</td>
 		<td>72lions </td>
@@ -10223,7 +10225,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/supercurio">
 				<img src="https://avatars.githubusercontent.com/u/406003?s=72&u=b694fb02d938eaaa4a212ef2f99ff895f52b5970&v=4" width="24" alt="Avatar of supercurio"> supercurio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#supercurio">Copy rank badge</a><br/>
 			François Simond
 		</td>
 		<td>No Company</td>
@@ -10236,7 +10238,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/TwoTenPvP">
 				<img src="https://avatars.githubusercontent.com/u/21089228?s=72&u=fe63ed58851fda6895fc31e229213f873537df53&v=4" width="24" alt="Avatar of TwoTenPvP"> TwoTenPvP
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#TwoTenPvP">Copy rank badge</a><br/>
 			Albin Corén
 		</td>
 		<td>No Company</td>
@@ -10249,7 +10251,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/davidsjoberg">
 				<img src="https://avatars.githubusercontent.com/u/44140737?s=72&u=d68ee9668f54ab1defb365b553b98d5582170043&v=4" width="24" alt="Avatar of davidsjoberg"> davidsjoberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#davidsjoberg">Copy rank badge</a><br/>
 			David Sjoberg
 		</td>
 		<td>No Company</td>
@@ -10262,7 +10264,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/maddnias">
 				<img src="https://avatars.githubusercontent.com/u/1886976?s=72&v=4" width="24" alt="Avatar of maddnias"> maddnias
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#maddnias">Copy rank badge</a><br/>
 			maddnias
 		</td>
 		<td>No Company</td>
@@ -10275,7 +10277,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/zydeco">
 				<img src="https://avatars.githubusercontent.com/u/158216?s=72&u=8764b33aa252d996b8a14f8756d680752f13d7e9&v=4" width="24" alt="Avatar of zydeco"> zydeco
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#zydeco">Copy rank badge</a><br/>
 			Jesús A. Álvarez
 		</td>
 		<td>@atlar-tech </td>
@@ -10288,7 +10290,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/oravirt">
 				<img src="https://avatars.githubusercontent.com/u/7466937?s=72&u=ce5fa3e6964bb8e3f9b5105a187f4da267a77b46&v=4" width="24" alt="Avatar of oravirt"> oravirt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#oravirt">Copy rank badge</a><br/>
 			Mikael Sandström
 		</td>
 		<td>No Company</td>
@@ -10301,7 +10303,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/OskarSigvardsson">
 				<img src="https://avatars.githubusercontent.com/u/7059777?s=72&v=4" width="24" alt="Avatar of OskarSigvardsson"> OskarSigvardsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#OskarSigvardsson">Copy rank badge</a><br/>
 			Oskar Sigvardsson
 		</td>
 		<td>Xln Audio </td>
@@ -10314,7 +10316,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/keeto">
 				<img src="https://avatars.githubusercontent.com/u/19396?s=72&v=4" width="24" alt="Avatar of keeto"> keeto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#keeto">Copy rank badge</a><br/>
 			Mark Obcena
 		</td>
 		<td>@spotify  </td>
@@ -10327,7 +10329,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/pmaingi">
 				<img src="https://avatars.githubusercontent.com/u/612859?s=72&u=25919aebffcac539246f8f1c0e68399acb6a1abf&v=4" width="24" alt="Avatar of pmaingi"> pmaingi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#pmaingi">Copy rank badge</a><br/>
 			pmaingi
 		</td>
 		<td>No Company</td>
@@ -10340,7 +10342,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/TimonPost">
 				<img src="https://avatars.githubusercontent.com/u/19969910?s=72&u=88eff3bab2f81e0568c0dc333d20934ebf919063&v=4" width="24" alt="Avatar of TimonPost"> TimonPost
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#TimonPost">Copy rank badge</a><br/>
 			Timon
 		</td>
 		<td>@embarkstudios  </td>
@@ -10353,7 +10355,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/kalasjocke">
 				<img src="https://avatars.githubusercontent.com/u/7636?s=72&v=4" width="24" alt="Avatar of kalasjocke"> kalasjocke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#kalasjocke">Copy rank badge</a><br/>
 			Joakim Ekberg
 		</td>
 		<td>No Company</td>
@@ -10366,7 +10368,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/enceladosaurus">
 				<img src="https://avatars.githubusercontent.com/u/29658186?s=72&u=4e44f54fa68fba95a11617d3cc6c3c187813a50f&v=4" width="24" alt="Avatar of enceladosaurus"> enceladosaurus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#enceladosaurus">Copy rank badge</a><br/>
 			Jesse Shanahan
 		</td>
 		<td>Peltarion </td>
@@ -10379,7 +10381,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/mbitsnbites">
 				<img src="https://avatars.githubusercontent.com/u/1193992?s=72&v=4" width="24" alt="Avatar of mbitsnbites"> mbitsnbites
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#mbitsnbites">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -10392,7 +10394,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/inear">
 				<img src="https://avatars.githubusercontent.com/u/946195?s=72&v=4" width="24" alt="Avatar of inear"> inear
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#inear">Copy rank badge</a><br/>
 			Einar Öberg
 		</td>
 		<td>Motorica </td>
@@ -10405,7 +10407,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/midori-fukami">
 				<img src="https://avatars.githubusercontent.com/u/13758811?s=72&u=4b0d4ec20f27c334214cdf1204d68640c3bdc39b&v=4" width="24" alt="Avatar of midori-fukami"> midori-fukami
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#midori-fukami">Copy rank badge</a><br/>
 			Midori Fukami
 		</td>
 		<td>Hayppgroup </td>
@@ -10418,7 +10420,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/jakobmattsson">
 				<img src="https://avatars.githubusercontent.com/u/179709?s=72&v=4" width="24" alt="Avatar of jakobmattsson"> jakobmattsson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#jakobmattsson">Copy rank badge</a><br/>
 			Jakob Mattsson
 		</td>
 		<td>Rokos Capital Management </td>
@@ -10431,7 +10433,7 @@ There are `919 users`  in Sweden. You need at least `101 followers` to be on thi
 		<td>
 			<a href="https://github.com/d3v1l401">
 				<img src="https://avatars.githubusercontent.com/u/7295314?s=72&u=b1e04768f730fcf99b57ddb1fa2830a46a9f14eb&v=4" width="24" alt="Avatar of d3v1l401"> d3v1l401
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/sweden.md#d3v1l401">Copy rank badge</a><br/>
 			d3vil401
 		</td>
 		<td>Crytek </td>
