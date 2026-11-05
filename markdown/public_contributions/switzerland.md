@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://en.wikipedia.org/wiki/Switzerland#/media/File:Flag_of_Switzerland.svg" alt="Switzerland">
 </a>
 
-The `public contributions` by users in Switzerland on `2026/7/4 2:35 AM UTC`. This list contains users from `Switzerland` and cities `Zürich` `Geneva` `Basel` `Lausanne`.
+The `public contributions` by users in Switzerland on `2026/11/5 5:00 AM UTC`. This list contains users from `Switzerland` and cities `Zürich` `Geneva` `Basel` `Lausanne`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
-There are `827 users`  in Switzerland. You need at least `108 followers` to be on this list.
+There are `821 users`  in Switzerland. You need at least `112 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [Switzerland GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -107,7081 +109,7315 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 	<tr>
 		<td>1</td>
 		<td>
-			<a href="https://github.com/sthagen">
-				<img src="https://avatars.githubusercontent.com/u/450800?s=72&u=40afa5125d883ed9aa5d368202fd9bd27d2f20f1&v=4" width="24" alt="Avatar of sthagen"> sthagen
-			</a><br/>
-			Stefan Hagen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>20904</td>
-	</tr>
-	<tr>
-		<td>2</td>
-		<td>
 			<a href="https://github.com/fabaff">
 				<img src="https://avatars.githubusercontent.com/u/116184?s=72&v=4" width="24" alt="Avatar of fabaff"> fabaff
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#fabaff">Copy rank badge</a><br/>
 			Fabian Affolter
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/fabaff">fabaff</a></td>
 		<td>Switzerland</td>
-		<td>17410</td>
+		<td>18544</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>
+			<a href="https://github.com/kzahel">
+				<img src="https://avatars.githubusercontent.com/u/158352?s=72&v=4" width="24" alt="Avatar of kzahel"> kzahel
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#kzahel">Copy rank badge</a><br/>
+			Kyle Graehl
+		</td>
+		<td>Graehl Arts </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>17423</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>
-			<a href="https://github.com/PozzettiAndrea">
-				<img src="https://avatars.githubusercontent.com/u/57418757?s=72&u=2c92da0dd9b7294de805eed1bec03de0ef1eb920&v=4" width="24" alt="Avatar of PozzettiAndrea"> PozzettiAndrea
-			</a><br/>
-			Andrea Pozzetti
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>11470</td>
-	</tr>
-	<tr>
-		<td>4</td>
-		<td>
 			<a href="https://github.com/JonnyBurger">
 				<img src="https://avatars.githubusercontent.com/u/1629785?s=72&u=f91613c118bb1fcf442a71008dff1cd5f9b30411&v=4" width="24" alt="Avatar of JonnyBurger"> JonnyBurger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#JonnyBurger">Copy rank badge</a><br/>
 			Jonny Burger
 		</td>
 		<td>@remotion-dev </td>
 		<td><a href="https://twitter.com/JNYBGR">JNYBGR</a></td>
 		<td>Zurich, Switzerland</td>
-		<td>10218</td>
+		<td>16775</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>
+			<a href="https://github.com/PozzettiAndrea">
+				<img src="https://avatars.githubusercontent.com/u/57418757?s=72&u=2c92da0dd9b7294de805eed1bec03de0ef1eb920&v=4" width="24" alt="Avatar of PozzettiAndrea"> PozzettiAndrea
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#PozzettiAndrea">Copy rank badge</a><br/>
+			Andrea Pozzetti
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>12775</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>
-			<a href="https://github.com/jonesbusy">
-				<img src="https://avatars.githubusercontent.com/u/825750?s=72&u=fe9efad238c62b746c6d8f60702941cf909e03c1&v=4" width="24" alt="Avatar of jonesbusy"> jonesbusy
-			</a><br/>
-			Valentin Delaye
+			<a href="https://github.com/plhery">
+				<img src="https://avatars.githubusercontent.com/u/4018426?s=72&v=4" width="24" alt="Avatar of plhery"> plhery
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#plhery">Copy rank badge</a><br/>
+			Paul-Louis HERY
 		</td>
-		<td>@jenkinsci Contributor </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>9233</td>
+		<td>Zurich, Switzerland</td>
+		<td>10552</td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>
-			<a href="https://github.com/peterpeterparker">
-				<img src="https://avatars.githubusercontent.com/u/16886711?s=72&u=3a58e2c4574f3fd356e3e747c1e09f2d992d46f6&v=4" width="24" alt="Avatar of peterpeterparker"> peterpeterparker
-			</a><br/>
-			David Dal Busco
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/daviddalbusco">daviddalbusco</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>8395</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>
-			<a href="https://github.com/spMohanty">
-				<img src="https://avatars.githubusercontent.com/u/1581312?s=72&u=80fd960c1e9a3081e68ac094517634df42b85818&v=4" width="24" alt="Avatar of spMohanty"> spMohanty
-			</a><br/>
-			SP Mohanty
-		</td>
-		<td>Aicrowd </td>
-		<td>No Twitter Username</td>
-		<td>Geneva, Switzerland</td>
-		<td>7878</td>
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>
 			<a href="https://github.com/mrcjkb">
 				<img src="https://avatars.githubusercontent.com/u/12857160?s=72&u=1014b81d0dff9ba67047e538d8296e79162115e0&v=4" width="24" alt="Avatar of mrcjkb"> mrcjkb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mrcjkb">Copy rank badge</a><br/>
 			Marc Jakobi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>7698</td>
+		<td>9508</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>
+			<a href="https://github.com/oetiker">
+				<img src="https://avatars.githubusercontent.com/u/429279?s=72&u=a30bd4aeddde6e679d7fec5cc8a56fde3afbfca9&v=4" width="24" alt="Avatar of oetiker"> oetiker
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#oetiker">Copy rank badge</a><br/>
+			Tobias Oetiker
+		</td>
+		<td>Oetiker+partner Ag </td>
+		<td><a href="https://twitter.com/oetiker">oetiker</a></td>
+		<td>Olten, Switzerland</td>
+		<td>8533</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>
+			<a href="https://github.com/spMohanty">
+				<img src="https://avatars.githubusercontent.com/u/1581312?s=72&u=80fd960c1e9a3081e68ac094517634df42b85818&v=4" width="24" alt="Avatar of spMohanty"> spMohanty
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#spMohanty">Copy rank badge</a><br/>
+			SP Mohanty
+		</td>
+		<td>Founder & Ceo @aicrowd<br/></td>
+		<td><a href="https://twitter.com/MeMohanty">MeMohanty</a></td>
+		<td>Geneva, Switzerland</td>
+		<td>8491</td>
 	</tr>
 	<tr>
 		<td>9</td>
 		<td>
 			<a href="https://github.com/swissspidy">
 				<img src="https://avatars.githubusercontent.com/u/841956?s=72&u=126b7e5e51c53b94606e538b5e208c75baad6cb7&v=4" width="24" alt="Avatar of swissspidy"> swissspidy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#swissspidy">Copy rank badge</a><br/>
 			Pascal Birchler
 		</td>
 		<td>@google </td>
 		<td><a href="https://twitter.com/swissspidy">swissspidy</a></td>
 		<td>Zurich, Switzerland</td>
-		<td>6706</td>
+		<td>8041</td>
 	</tr>
 	<tr>
 		<td>10</td>
 		<td>
-			<a href="https://github.com/daniellaera">
-				<img src="https://avatars.githubusercontent.com/u/8995710?s=72&u=a3b923e415de42ad0f0ccf1208bd06be42dd6c89&v=4" width="24" alt="Avatar of daniellaera"> daniellaera
-			</a><br/>
-			Daniel Laera
+			<a href="https://github.com/jonesbusy">
+				<img src="https://avatars.githubusercontent.com/u/825750?s=72&u=fe9efad238c62b746c6d8f60702941cf909e03c1&v=4" width="24" alt="Avatar of jonesbusy"> jonesbusy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jonesbusy">Copy rank badge</a><br/>
+			Valentin Delaye
 		</td>
-		<td>No Company</td>
+		<td>@jenkinsci Contributor </td>
 		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>6688</td>
+		<td>Lausanne, Switzerland</td>
+		<td>7520</td>
 	</tr>
 	<tr>
 		<td>11</td>
 		<td>
-			<a href="https://github.com/kzahel">
-				<img src="https://avatars.githubusercontent.com/u/158352?s=72&v=4" width="24" alt="Avatar of kzahel"> kzahel
-			</a><br/>
-			Kyle Graehl
-		</td>
-		<td>Graehl Arts </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>6260</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
-			<a href="https://github.com/felixfontein">
-				<img src="https://avatars.githubusercontent.com/u/5781356?s=72&u=c763a4721d66a356d5363b63af4c0b26bd81e883&v=4" width="24" alt="Avatar of felixfontein"> felixfontein
-			</a><br/>
-			Felix Fontein
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>5384</td>
-	</tr>
-	<tr>
-		<td>13</td>
-		<td>
-			<a href="https://github.com/oesteban">
-				<img src="https://avatars.githubusercontent.com/u/598470?s=72&u=b94aa9afc400ac700dea91c1d411304c9f08528f&v=4" width="24" alt="Avatar of oesteban"> oesteban
-			</a><br/>
-			Oscar Esteban
-		</td>
-		<td>School Of Engineering, Hes-so<br/>Valais/wallis<br/></td>
-		<td>No Twitter Username</td>
-		<td>Sion, Switzerland</td>
-		<td>5200</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
 			<a href="https://github.com/denysvitali">
 				<img src="https://avatars.githubusercontent.com/u/4939519?s=72&u=fa490c49c515fa463332fef56d04ab49598b8476&v=4" width="24" alt="Avatar of denysvitali"> denysvitali
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#denysvitali">Copy rank badge</a><br/>
 			Denys Vitali
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DenysVitali">DenysVitali</a></td>
 		<td>Zürich, Switzerland</td>
-		<td>5082</td>
+		<td>7351</td>
 	</tr>
 	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/alan-agius4">
-				<img src="https://avatars.githubusercontent.com/u/17563226?s=72&u=250cf720db02199267b5eb2f1140b00944fc9062&v=4" width="24" alt="Avatar of alan-agius4"> alan-agius4
-			</a><br/>
-			Alan Agius
-		</td>
-		<td>@google </td>
-		<td><a href="https://twitter.com/alanagius4">alanagius4</a></td>
-		<td>Switzerland</td>
-		<td>4906</td>
-	</tr>
-	<tr>
-		<td>16</td>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/liufengyun">
 				<img src="https://avatars.githubusercontent.com/u/754633?s=72&v=4" width="24" alt="Avatar of liufengyun"> liufengyun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#liufengyun">Copy rank badge</a><br/>
 			Fengyun Liu
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lausanne, Switzerland</td>
-		<td>4860</td>
+		<td>6553</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
+			<a href="https://github.com/mattmezza">
+				<img src="https://avatars.githubusercontent.com/u/1915989?s=72&u=2ca2fcb72ae62bc1477d5936b83d490aebf2013c&v=4" width="24" alt="Avatar of mattmezza"> mattmezza
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mattmezza">Copy rank badge</a><br/>
+			Matteo Merola
+		</td>
+		<td>@inter-ikea-digital, @inter-ikea, Ex-@ingka-group-digi </td>
+		<td><a href="https://twitter.com/_mattmezza_">_mattmezza_</a></td>
+		<td>Zürich</td>
+		<td>6362</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
+			<a href="https://github.com/sthagen">
+				<img src="https://avatars.githubusercontent.com/u/450800?s=72&u=40afa5125d883ed9aa5d368202fd9bd27d2f20f1&v=4" width="24" alt="Avatar of sthagen"> sthagen
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#sthagen">Copy rank badge</a><br/>
+			Stefan Hagen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>6192</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/oesteban">
+				<img src="https://avatars.githubusercontent.com/u/598470?s=72&u=b94aa9afc400ac700dea91c1d411304c9f08528f&v=4" width="24" alt="Avatar of oesteban"> oesteban
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#oesteban">Copy rank badge</a><br/>
+			Oscar Esteban
+		</td>
+		<td>School Of Engineering, Hes-so<br/>Valais/wallis<br/></td>
+		<td>No Twitter Username</td>
+		<td>Sion, Switzerland</td>
+		<td>5983</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
+			<a href="https://github.com/peterpeterparker">
+				<img src="https://avatars.githubusercontent.com/u/16886711?s=72&u=3a58e2c4574f3fd356e3e747c1e09f2d992d46f6&v=4" width="24" alt="Avatar of peterpeterparker"> peterpeterparker
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#peterpeterparker">Copy rank badge</a><br/>
+			David Dal Busco
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/daviddalbusco">daviddalbusco</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>5877</td>
 	</tr>
 	<tr>
 		<td>17</td>
 		<td>
-			<a href="https://github.com/bpasero">
-				<img src="https://avatars.githubusercontent.com/u/900690?s=72&u=e6836b241797ee7af0b32b467319f9273fe53af2&v=4" width="24" alt="Avatar of bpasero"> bpasero
-			</a><br/>
-			Benjamin Pasero
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/BenjaminPasero">BenjaminPasero</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>4822</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
-			<a href="https://github.com/breml">
-				<img src="https://avatars.githubusercontent.com/u/6205217?s=72&u=ddaccd56a7384572a1d80b85e204dad293d80c9d&v=4" width="24" alt="Avatar of breml"> breml
-			</a><br/>
-			Lucas Bremgartner
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>4718</td>
-	</tr>
-	<tr>
-		<td>19</td>
-		<td>
-			<a href="https://github.com/lszomoru">
-				<img src="https://avatars.githubusercontent.com/u/3372902?s=72&u=f559f04d198c85273afe3414e56a5ebe6e47ee02&v=4" width="24" alt="Avatar of lszomoru"> lszomoru
-			</a><br/>
-			Ladislau Szomoru
-		</td>
-		<td>Microsoft </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>4557</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
-			<a href="https://github.com/corneliusroemer">
-				<img src="https://avatars.githubusercontent.com/u/25161793?s=72&u=65e2a148a3cb8720de96415b45d9ddd54370fc7b&v=4" width="24" alt="Avatar of corneliusroemer"> corneliusroemer
-			</a><br/>
-			Cornelius Roemer
-		</td>
-		<td>@neherlab @nextstrain  </td>
-		<td><a href="https://twitter.com/CorneliusRoemer">CorneliusRoemer</a></td>
-		<td>Switzerland</td>
-		<td>4385</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
 			<a href="https://github.com/marcoroth">
 				<img src="https://avatars.githubusercontent.com/u/6411752?s=72&u=8844efc42a064e4f4d678b59bd3332b33527f7da&v=4" width="24" alt="Avatar of marcoroth"> marcoroth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#marcoroth">Copy rank badge</a><br/>
 			Marco Roth
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/marcoroth_">marcoroth_</a></td>
 		<td>Basel, Switzerland</td>
-		<td>4321</td>
+		<td>5762</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
+			<a href="https://github.com/sigma">
+				<img src="https://avatars.githubusercontent.com/u/16090?s=72&u=c8e066119aa13b6e36642ade56ee5936ff2276db&v=4" width="24" alt="Avatar of sigma"> sigma
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#sigma">Copy rank badge</a><br/>
+			Yann Hodique
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Geneva, Switzerland</td>
+		<td>5479</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>
+			<a href="https://github.com/breml">
+				<img src="https://avatars.githubusercontent.com/u/6205217?s=72&u=ddaccd56a7384572a1d80b85e204dad293d80c9d&v=4" width="24" alt="Avatar of breml"> breml
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#breml">Copy rank badge</a><br/>
+			Lucas Bremgartner
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>5439</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/paulgessinger">
+				<img src="https://avatars.githubusercontent.com/u/1058585?s=72&u=001f33dc2c1cf114a3519838029b8eaf444ca4ef&v=4" width="24" alt="Avatar of paulgessinger"> paulgessinger
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#paulgessinger">Copy rank badge</a><br/>
+			Paul Gessinger
+		</td>
+		<td>Cern </td>
+		<td>No Twitter Username</td>
+		<td>Geneva, Switzerland</td>
+		<td>5334</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
+			<a href="https://github.com/pavelzw">
+				<img src="https://avatars.githubusercontent.com/u/29506042?s=72&v=4" width="24" alt="Avatar of pavelzw"> pavelzw
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pavelzw">Copy rank badge</a><br/>
+			Pavel Zwerschke
+		</td>
+		<td>@quantco </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>5258</td>
 	</tr>
 	<tr>
 		<td>22</td>
 		<td>
-			<a href="https://github.com/tarsius">
-				<img src="https://avatars.githubusercontent.com/u/25046?s=72&v=4" width="24" alt="Avatar of tarsius"> tarsius
-			</a><br/>
-			Jonas Bernoulli
+			<a href="https://github.com/christophsax">
+				<img src="https://avatars.githubusercontent.com/u/1390827?s=72&u=ce6363f6da758d1bb85987d021cacc34a81c8837&v=4" width="24" alt="Avatar of christophsax"> christophsax
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#christophsax">Copy rank badge</a><br/>
+			Christoph Sax
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Basel, Switzerland</td>
-		<td>4060</td>
+		<td>Zurich, Switzerland</td>
+		<td>5207</td>
 	</tr>
 	<tr>
 		<td>23</td>
 		<td>
-			<a href="https://github.com/janhohenheim">
-				<img src="https://avatars.githubusercontent.com/u/9047632?s=72&u=aa8398d96dc1c9e590d18dec4d903ec9d54bcdf4&v=4" width="24" alt="Avatar of janhohenheim"> janhohenheim
-			</a><br/>
-			Jan Hohenheim
+			<a href="https://github.com/daniellaera">
+				<img src="https://avatars.githubusercontent.com/u/8995710?s=72&u=a3b923e415de42ad0f0ccf1208bd06be42dd6c89&v=4" width="24" alt="Avatar of daniellaera"> daniellaera
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#daniellaera">Copy rank badge</a><br/>
+			Daniel Laera
 		</td>
-		<td>Institute Of Neuroinformatics, Uzh<br/>/<br/>Eth<br/>Zurich<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>3667</td>
+		<td>Switzerland</td>
+		<td>5016</td>
 	</tr>
 	<tr>
 		<td>24</td>
 		<td>
 			<a href="https://github.com/zdavatz">
 				<img src="https://avatars.githubusercontent.com/u/4953?s=72&v=4" width="24" alt="Avatar of zdavatz"> zdavatz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#zdavatz">Copy rank badge</a><br/>
 			Zeno R.R. Davatz
 		</td>
 		<td>Ywesee Gmbh </td>
 		<td>No Twitter Username</td>
 		<td>Zürich</td>
-		<td>3554</td>
+		<td>4913</td>
 	</tr>
 	<tr>
 		<td>25</td>
 		<td>
-			<a href="https://github.com/sueszli">
-				<img src="https://avatars.githubusercontent.com/u/61852663?s=72&u=b7c64f221b62118d4e3972717c999224a6c2df68&v=4" width="24" alt="Avatar of sueszli"> sueszli
-			</a><br/>
-			Yahya Jabary
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>3374</td>
-	</tr>
-	<tr>
-		<td>26</td>
-		<td>
-			<a href="https://github.com/Fuzss">
-				<img src="https://avatars.githubusercontent.com/u/28218241?s=72&v=4" width="24" alt="Avatar of Fuzss"> Fuzss
-			</a><br/>
+			<a href="https://github.com/PierrunoYT">
+				<img src="https://avatars.githubusercontent.com/u/95778421?s=72&u=9a298775bf1d210d984fddfdad50d8a92975b93a&v=4" width="24" alt="Avatar of PierrunoYT"> PierrunoYT
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#PierrunoYT">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>3341</td>
+		<td>4888</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
+			<a href="https://github.com/alan-agius4">
+				<img src="https://avatars.githubusercontent.com/u/17563226?s=72&u=250cf720db02199267b5eb2f1140b00944fc9062&v=4" width="24" alt="Avatar of alan-agius4"> alan-agius4
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#alan-agius4">Copy rank badge</a><br/>
+			Alan Agius
+		</td>
+		<td>@google </td>
+		<td><a href="https://twitter.com/alanagius4">alanagius4</a></td>
+		<td>Switzerland</td>
+		<td>4847</td>
 	</tr>
 	<tr>
 		<td>27</td>
 		<td>
-			<a href="https://github.com/pavelzw">
-				<img src="https://avatars.githubusercontent.com/u/29506042?s=72&v=4" width="24" alt="Avatar of pavelzw"> pavelzw
-			</a><br/>
-			Pavel Zwerschke
+			<a href="https://github.com/felixfontein">
+				<img src="https://avatars.githubusercontent.com/u/5781356?s=72&u=c763a4721d66a356d5363b63af4c0b26bd81e883&v=4" width="24" alt="Avatar of felixfontein"> felixfontein
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#felixfontein">Copy rank badge</a><br/>
+			Felix Fontein
 		</td>
-		<td>@quantco </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>3307</td>
+		<td>Switzerland</td>
+		<td>4821</td>
 	</tr>
 	<tr>
 		<td>28</td>
 		<td>
-			<a href="https://github.com/vasile">
-				<img src="https://avatars.githubusercontent.com/u/113994?s=72&v=4" width="24" alt="Avatar of vasile"> vasile
-			</a><br/>
-			Vasile Cotovanu
+			<a href="https://github.com/dominikkoenitzer">
+				<img src="https://avatars.githubusercontent.com/u/82450286?s=72&u=5e62d2be42a8e9e47e241bf46e24a32db114208f&v=4" width="24" alt="Avatar of dominikkoenitzer"> dominikkoenitzer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dominikkoenitzer">Copy rank badge</a><br/>
+			Dominik Könitzer
 		</td>
-		<td>Vasile.ch </td>
-		<td><a href="https://twitter.com/vasile23">vasile23</a></td>
-		<td>Zürich</td>
-		<td>3250</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>4792</td>
 	</tr>
 	<tr>
 		<td>29</td>
 		<td>
-			<a href="https://github.com/dougxc">
-				<img src="https://avatars.githubusercontent.com/u/5080087?s=72&u=a7c3f468f974c3a332dfdb10dca1c2e1d62007f9&v=4" width="24" alt="Avatar of dougxc"> dougxc
-			</a><br/>
-			Douglas Simon
+			<a href="https://github.com/jleni">
+				<img src="https://avatars.githubusercontent.com/u/13698520?s=72&u=b0fc717bd93dc28a429c00c56d3a3333c9243f6d&v=4" width="24" alt="Avatar of jleni"> jleni
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jleni">Copy rank badge</a><br/>
+			Juan Leni
 		</td>
-		<td>Oracle Labs </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>3234</td>
+		<td>Zondax Ag ( Https://zondax.ch<br/>)<br/></td>
+		<td><a href="https://twitter.com/jleni">jleni</a></td>
+		<td>Switzerland</td>
+		<td>4658</td>
 	</tr>
 	<tr>
 		<td>30</td>
 		<td>
-			<a href="https://github.com/pcarrier">
-				<img src="https://avatars.githubusercontent.com/u/8641?s=72&u=8af20e7520afb49a09ce94ae561931c70e4abb21&v=4" width="24" alt="Avatar of pcarrier"> pcarrier
-			</a><br/>
-			Pierre Carrier
+			<a href="https://github.com/MrNeRF">
+				<img src="https://avatars.githubusercontent.com/u/33876434?s=72&u=223e93bb39f15a25feb7a1fc111709206531b57e&v=4" width="24" alt="Avatar of MrNeRF"> MrNeRF
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#MrNeRF">Copy rank badge</a><br/>
+			janusch
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Geneva, Switzerland</td>
-		<td>3191</td>
+		<td><a href="https://twitter.com/janusch_patas">janusch_patas</a></td>
+		<td>Basel, Switzerland</td>
+		<td>4631</td>
 	</tr>
 	<tr>
 		<td>31</td>
 		<td>
-			<a href="https://github.com/danielmarbach">
-				<img src="https://avatars.githubusercontent.com/u/174258?s=72&u=a6d73a06f7201e5279954a0ef83f26fc5465b2ba&v=4" width="24" alt="Avatar of danielmarbach"> danielmarbach
-			</a><br/>
-			Daniel Marbach
-		</td>
-		<td>@particular  </td>
-		<td><a href="https://twitter.com/danielmarbach">danielmarbach</a></td>
-		<td>Switzerland</td>
-		<td>3151</td>
-	</tr>
-	<tr>
-		<td>32</td>
-		<td>
-			<a href="https://github.com/eregon">
-				<img src="https://avatars.githubusercontent.com/u/168854?s=72&u=075f949ceef8be9c565bcf4dde727a6bf5a73839&v=4" width="24" alt="Avatar of eregon"> eregon
-			</a><br/>
-			Benoit Daloze
-		</td>
-		<td>@datadog </td>
-		<td><a href="https://twitter.com/eregontp">eregontp</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>3146</td>
-	</tr>
-	<tr>
-		<td>33</td>
-		<td>
-			<a href="https://github.com/ahankinson">
-				<img src="https://avatars.githubusercontent.com/u/163183?s=72&u=318f8a58a826b1226dd87226e2425551a44257af&v=4" width="24" alt="Avatar of ahankinson"> ahankinson
-			</a><br/>
-			Andrew Hankinson
-		</td>
-		<td>Rism Digital Center </td>
-		<td><a href="https://twitter.com/ahankinson">ahankinson</a></td>
-		<td>Basel, Switzerland</td>
-		<td>3111</td>
-	</tr>
-	<tr>
-		<td>34</td>
-		<td>
-			<a href="https://github.com/MichaReiser">
-				<img src="https://avatars.githubusercontent.com/u/1203881?s=72&u=a4198e6ec750b50d8f708f7b226cc6fec288b993&v=4" width="24" alt="Avatar of MichaReiser"> MichaReiser
-			</a><br/>
-			Micha Reiser
-		</td>
-		<td>@astral-sh  </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>2967</td>
-	</tr>
-	<tr>
-		<td>35</td>
-		<td>
-			<a href="https://github.com/janikvonrotz">
-				<img src="https://avatars.githubusercontent.com/u/1370421?s=72&u=d02fe3852775c2ce8b4ae83ef430defad20ead45&v=4" width="24" alt="Avatar of janikvonrotz"> janikvonrotz
-			</a><br/>
-			Janik von Rotz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>2947</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
 			<a href="https://github.com/pvizeli">
 				<img src="https://avatars.githubusercontent.com/u/15338540?s=72&u=610c2bc2f528d62761ee2792799a85608fd42234&v=4" width="24" alt="Avatar of pvizeli"> pvizeli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pvizeli">Copy rank badge</a><br/>
 			Pascal Vizeli
 		</td>
 		<td>@nabucasa </td>
 		<td><a href="https://twitter.com/pvizeli">pvizeli</a></td>
 		<td>Switzerland</td>
-		<td>2837</td>
+		<td>4503</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>32</td>
 		<td>
-			<a href="https://github.com/cclauss">
-				<img src="https://avatars.githubusercontent.com/u/3709715?s=72&u=0745d1d2473894c33f3b35f0b965d71cc9aec553&v=4" width="24" alt="Avatar of cclauss"> cclauss
-			</a><br/>
-			Christian Clauss
-		</td>
-		<td>Christian Clauss </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>2825</td>
-	</tr>
-	<tr>
-		<td>38</td>
-		<td>
-			<a href="https://github.com/nielstron">
-				<img src="https://avatars.githubusercontent.com/u/20638630?s=72&u=7b0f68a6a067e44050d73968ea392230f42145ff&v=4" width="24" alt="Avatar of nielstron"> nielstron
-			</a><br/>
-			Niels Mündler
-		</td>
-		<td>Eth Zurich </td>
-		<td><a href="https://twitter.com/nielstron">nielstron</a></td>
-		<td>Switzerland</td>
-		<td>2705</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
-			<a href="https://github.com/oetiker">
-				<img src="https://avatars.githubusercontent.com/u/429279?s=72&u=a30bd4aeddde6e679d7fec5cc8a56fde3afbfca9&v=4" width="24" alt="Avatar of oetiker"> oetiker
-			</a><br/>
-			Tobias Oetiker
-		</td>
-		<td>Oetiker+partner Ag </td>
-		<td><a href="https://twitter.com/oetiker">oetiker</a></td>
-		<td>Olten, Switzerland</td>
-		<td>2703</td>
-	</tr>
-	<tr>
-		<td>40</td>
-		<td>
-			<a href="https://github.com/mo271">
-				<img src="https://avatars.githubusercontent.com/u/3491627?s=72&u=315f5464f4bc43fde3f4223201229650e9bd500b&v=4" width="24" alt="Avatar of mo271"> mo271
-			</a><br/>
-			Moritz Firsching
-		</td>
-		<td>Google Deepmind </td>
-		<td><a href="https://twitter.com/MoritzFirsching">MoritzFirsching</a></td>
-		<td>Basel, CH</td>
-		<td>2694</td>
-	</tr>
-	<tr>
-		<td>41</td>
-		<td>
-			<a href="https://github.com/hifiberry">
-				<img src="https://avatars.githubusercontent.com/u/8243622?s=72&u=c2e67cc94c06b92bb70a50bf31a10e858d56463d&v=4" width="24" alt="Avatar of hifiberry"> hifiberry
-			</a><br/>
-			HiFiBerry
-		</td>
-		<td>Modul 9 Llc </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>2685</td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>
-			<a href="https://github.com/nquinquenel">
-				<img src="https://avatars.githubusercontent.com/u/14952624?s=72&u=08a457347eeb634d4cf20b693b5d6bf459912f07&v=4" width="24" alt="Avatar of nquinquenel"> nquinquenel
-			</a><br/>
-			Nicolas QUINQUENEL
-		</td>
-		<td>@sonarsource  </td>
-		<td>No Twitter Username</td>
-		<td>Geneva, Switzerland</td>
-		<td>2678</td>
-	</tr>
-	<tr>
-		<td>43</td>
-		<td>
-			<a href="https://github.com/christophsax">
-				<img src="https://avatars.githubusercontent.com/u/1390827?s=72&u=ce6363f6da758d1bb85987d021cacc34a81c8837&v=4" width="24" alt="Avatar of christophsax"> christophsax
-			</a><br/>
-			Christoph Sax
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>2603</td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>
-			<a href="https://github.com/vorburger">
-				<img src="https://avatars.githubusercontent.com/u/298598?s=72&v=4" width="24" alt="Avatar of vorburger"> vorburger
-			</a><br/>
-			Michael Vorburger
-		</td>
-		<td>@google </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>2586</td>
-	</tr>
-	<tr>
-		<td>45</td>
-		<td>
-			<a href="https://github.com/sigma">
-				<img src="https://avatars.githubusercontent.com/u/16090?s=72&u=c8e066119aa13b6e36642ade56ee5936ff2276db&v=4" width="24" alt="Avatar of sigma"> sigma
-			</a><br/>
-			Yann Hodique
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Geneva, Switzerland</td>
-		<td>2549</td>
-	</tr>
-	<tr>
-		<td>46</td>
-		<td>
-			<a href="https://github.com/davidhalter">
-				<img src="https://avatars.githubusercontent.com/u/748594?s=72&v=4" width="24" alt="Avatar of davidhalter"> davidhalter
-			</a><br/>
-			Dave Halter
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>2503</td>
-	</tr>
-	<tr>
-		<td>47</td>
-		<td>
-			<a href="https://github.com/dtslvr">
-				<img src="https://avatars.githubusercontent.com/u/4159106?s=72&u=038bc1d93c1f542d935499cbd4184b3ce0df9b86&v=4" width="24" alt="Avatar of dtslvr"> dtslvr
-			</a><br/>
-			Thomas Kaul
-		</td>
-		<td>@sublimd </td>
-		<td><a href="https://twitter.com/dotsilver">dotsilver</a></td>
-		<td>Switzerland</td>
-		<td>2462</td>
-	</tr>
-	<tr>
-		<td>48</td>
-		<td>
-			<a href="https://github.com/haampie">
-				<img src="https://avatars.githubusercontent.com/u/194764?s=72&u=3c961c01fb914af8e2bffa5d599a04d4273b584a&v=4" width="24" alt="Avatar of haampie"> haampie
-			</a><br/>
-			Harmen Stoppels
-		</td>
-		<td>Stoppels Consulting </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>2455</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>
-			<a href="https://github.com/sandy081">
-				<img src="https://avatars.githubusercontent.com/u/10746682?s=72&u=f41e610654d0407b889cb97706c6e2adbf46d439&v=4" width="24" alt="Avatar of sandy081"> sandy081
-			</a><br/>
-			Sandeep Somavarapu
+			<a href="https://github.com/lszomoru">
+				<img src="https://avatars.githubusercontent.com/u/3372902?s=72&u=f559f04d198c85273afe3414e56a5ebe6e47ee02&v=4" width="24" alt="Avatar of lszomoru"> lszomoru
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#lszomoru">Copy rank badge</a><br/>
+			Ladislau Szomoru
 		</td>
 		<td>Microsoft </td>
 		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>2454</td>
-	</tr>
-	<tr>
-		<td>50</td>
-		<td>
-			<a href="https://github.com/damienbod">
-				<img src="https://avatars.githubusercontent.com/u/3442158?s=72&v=4" width="24" alt="Avatar of damienbod"> damienbod
-			</a><br/>
-			damienbod
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>2451</td>
-	</tr>
-	<tr>
-		<td>51</td>
-		<td>
-			<a href="https://github.com/maennchen">
-				<img src="https://avatars.githubusercontent.com/u/333918?s=72&u=3eab9bf6904ef6585db85dd41762714ed3081991&v=4" width="24" alt="Avatar of maennchen"> maennchen
-			</a><br/>
-			Jonatan Männchen
-		</td>
-		<td>Erlang Ecosystem Foundation </td>
-		<td><a href="https://twitter.com/maennchen_">maennchen_</a></td>
-		<td>Winterthur - Switzerland</td>
-		<td>2404</td>
-	</tr>
-	<tr>
-		<td>52</td>
-		<td>
-			<a href="https://github.com/hfp">
-				<img src="https://avatars.githubusercontent.com/u/6748085?s=72&v=4" width="24" alt="Avatar of hfp"> hfp
-			</a><br/>
-			Hans Pabst
-		</td>
-		<td>Intel Extreme Computing Software<br/>And<br/>Systems<br/></td>
-		<td>No Twitter Username</td>
-		<td>Zurich / Switzerland</td>
-		<td>2334</td>
-	</tr>
-	<tr>
-		<td>53</td>
-		<td>
-			<a href="https://github.com/Luthaf">
-				<img src="https://avatars.githubusercontent.com/u/6141587?s=72&u=a421407afab5e6412f0b24ed03bf992f29e75e7f&v=4" width="24" alt="Avatar of Luthaf"> Luthaf
-			</a><br/>
-			Guillaume Fraux
-		</td>
-		<td>Epfl </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>2312</td>
-	</tr>
-	<tr>
-		<td>54</td>
-		<td>
-			<a href="https://github.com/adrai">
-				<img src="https://avatars.githubusercontent.com/u/1086194?s=72&v=4" width="24" alt="Avatar of adrai"> adrai
-			</a><br/>
-			Adriano Raiano
-		</td>
-		<td>I18next.com | Locize.com </td>
-		<td><a href="https://twitter.com/adrirai">adrirai</a></td>
 		<td>Zürich, Switzerland</td>
-		<td>2291</td>
+		<td>4495</td>
 	</tr>
 	<tr>
-		<td>55</td>
-		<td>
-			<a href="https://github.com/cakebaker">
-				<img src="https://avatars.githubusercontent.com/u/26196?s=72&v=4" width="24" alt="Avatar of cakebaker"> cakebaker
-			</a><br/>
-			Daniel Hofstetter
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>2283</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
-			<a href="https://github.com/Anselmoo">
-				<img src="https://avatars.githubusercontent.com/u/13209783?s=72&u=fb29a0565488703e3b8678b28e93e27101bc93f3&v=4" width="24" alt="Avatar of Anselmoo"> Anselmoo
-			</a><br/>
-			Anselm Hahn
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>2282</td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>
-			<a href="https://github.com/pschatzmann">
-				<img src="https://avatars.githubusercontent.com/u/2078916?s=72&u=7ed1c4888deb940b3b5d4caa7a7fc956b0218bc7&v=4" width="24" alt="Avatar of pschatzmann"> pschatzmann
-			</a><br/>
-			Phil Schatzmann
-		</td>
-		<td>Phil Schatzmann </td>
-		<td>No Twitter Username</td>
-		<td>Valais, Switzerland</td>
-		<td>2245</td>
-	</tr>
-	<tr>
-		<td>58</td>
-		<td>
-			<a href="https://github.com/meodai">
-				<img src="https://avatars.githubusercontent.com/u/608386?s=72&u=e0af7daa6c755b64e2ddf03ee2046ac708ca4f51&v=4" width="24" alt="Avatar of meodai"> meodai
-			</a><br/>
-			David Aerne
-		</td>
-		<td>Elastiq </td>
-		<td><a href="https://twitter.com/meodai">meodai</a></td>
-		<td>Zürich</td>
-		<td>2241</td>
-	</tr>
-	<tr>
-		<td>59</td>
-		<td>
-			<a href="https://github.com/Greenheart">
-				<img src="https://avatars.githubusercontent.com/u/6125097?s=72&u=5ee17c67f8b62a5a1b54678759e67cedc5505f86&v=4" width="24" alt="Avatar of Greenheart"> Greenheart
-			</a><br/>
-			Samuel Plumppu
-		</td>
-		<td>@greenheart-coop </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>2231</td>
-	</tr>
-	<tr>
-		<td>60</td>
-		<td>
-			<a href="https://github.com/mafintosh">
-				<img src="https://avatars.githubusercontent.com/u/376661?s=72&u=69e0f4e7e2dc9e575ef93b329babfa773302622e&v=4" width="24" alt="Avatar of mafintosh"> mafintosh
-			</a><br/>
-			Mathias Buus
-		</td>
-		<td>@holepunchto </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>2220</td>
-	</tr>
-	<tr>
-		<td>61</td>
-		<td>
-			<a href="https://github.com/PierrunoYT">
-				<img src="https://avatars.githubusercontent.com/u/95778421?s=72&u=9a298775bf1d210d984fddfdad50d8a92975b93a&v=4" width="24" alt="Avatar of PierrunoYT"> PierrunoYT
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>2194</td>
-	</tr>
-	<tr>
-		<td>62</td>
-		<td>
-			<a href="https://github.com/gschmutz">
-				<img src="https://avatars.githubusercontent.com/u/3357942?s=72&v=4" width="24" alt="Avatar of gschmutz"> gschmutz
-			</a><br/>
-			Guido Schmutz
-		</td>
-		<td>Accenture </td>
-		<td><a href="https://twitter.com/gschmutz">gschmutz</a></td>
-		<td>Berne, Switzerland</td>
-		<td>2134</td>
-	</tr>
-	<tr>
-		<td>63</td>
-		<td>
-			<a href="https://github.com/biodranik">
-				<img src="https://avatars.githubusercontent.com/u/170263?s=72&u=d5d069fc859d680d7ec9e256b267bac08da2fd1e&v=4" width="24" alt="Avatar of biodranik"> biodranik
-			</a><br/>
-			Alexander Borsuk
-		</td>
-		<td>@organicmaps </td>
-		<td><a href="https://twitter.com/BioDranik">BioDranik</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>2103</td>
-	</tr>
-	<tr>
-		<td>64</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/gmickel">
 				<img src="https://avatars.githubusercontent.com/u/139907?s=72&u=91c15b326ccaa99d3ffcd930ff828a76b7b04c71&v=4" width="24" alt="Avatar of gmickel"> gmickel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#gmickel">Copy rank badge</a><br/>
 			Gordon Mickel
 		</td>
 		<td>Mickel Tech </td>
 		<td><a href="https://twitter.com/gmickel">gmickel</a></td>
 		<td>Basel, Switzerland</td>
-		<td>2100</td>
+		<td>4463</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td>
+			<a href="https://github.com/patbaumgartner">
+				<img src="https://avatars.githubusercontent.com/u/406780?s=72&u=1cedfe7ea556141710f026f980afa27be78b487d&v=4" width="24" alt="Avatar of patbaumgartner"> patbaumgartner
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#patbaumgartner">Copy rank badge</a><br/>
+			Patrick Baumgartner
+		</td>
+		<td>42talents Gmbh </td>
+		<td><a href="https://twitter.com/patbaumgartner">patbaumgartner</a></td>
+		<td>Switzerland</td>
+		<td>4247</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td>
+			<a href="https://github.com/meodai">
+				<img src="https://avatars.githubusercontent.com/u/608386?s=72&u=b1a3f7d62cf3bd5c20bdf9a7a6b6a79dbb36ad9e&v=4" width="24" alt="Avatar of meodai"> meodai
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#meodai">Copy rank badge</a><br/>
+			David Aerne
+		</td>
+		<td>Elastiq </td>
+		<td><a href="https://twitter.com/meodai">meodai</a></td>
+		<td>Zürich</td>
+		<td>4140</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
+			<a href="https://github.com/danielmarbach">
+				<img src="https://avatars.githubusercontent.com/u/174258?s=72&u=a6d73a06f7201e5279954a0ef83f26fc5465b2ba&v=4" width="24" alt="Avatar of danielmarbach"> danielmarbach
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#danielmarbach">Copy rank badge</a><br/>
+			Daniel Marbach
+		</td>
+		<td>@particular  </td>
+		<td><a href="https://twitter.com/danielmarbach">danielmarbach</a></td>
+		<td>Switzerland</td>
+		<td>4100</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/mukel">
+				<img src="https://avatars.githubusercontent.com/u/1896283?s=72&u=7e0ee2c2d08108c3fd8b86f25c2bd143538ae0ae&v=4" width="24" alt="Avatar of mukel"> mukel
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mukel">Copy rank badge</a><br/>
+			Alfonso² Peterssen
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/TheMukel">TheMukel</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>3966</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td>
+			<a href="https://github.com/tarsius">
+				<img src="https://avatars.githubusercontent.com/u/25046?s=72&v=4" width="24" alt="Avatar of tarsius"> tarsius
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#tarsius">Copy rank badge</a><br/>
+			Jonas Bernoulli
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Basel, Switzerland</td>
+		<td>3789</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/sueszli">
+				<img src="https://avatars.githubusercontent.com/u/61852663?s=72&u=b7c64f221b62118d4e3972717c999224a6c2df68&v=4" width="24" alt="Avatar of sueszli"> sueszli
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#sueszli">Copy rank badge</a><br/>
+			Yahya Jabary
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>3760</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
+			<a href="https://github.com/lehni">
+				<img src="https://avatars.githubusercontent.com/u/213275?s=72&v=4" width="24" alt="Avatar of lehni"> lehni
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#lehni">Copy rank badge</a><br/>
+			Jürg Lehni
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>3669</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
+			<a href="https://github.com/eregon">
+				<img src="https://avatars.githubusercontent.com/u/168854?s=72&u=075f949ceef8be9c565bcf4dde727a6bf5a73839&v=4" width="24" alt="Avatar of eregon"> eregon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#eregon">Copy rank badge</a><br/>
+			Benoit Daloze
+		</td>
+		<td>@datadog </td>
+		<td><a href="https://twitter.com/eregontp">eregontp</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>3628</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
+			<a href="https://github.com/peter-gy">
+				<img src="https://avatars.githubusercontent.com/u/40776291?s=72&u=1b043c29f4ef2c4ea54269cc294b2e4857fe71bf&v=4" width="24" alt="Avatar of peter-gy"> peter-gy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#peter-gy">Copy rank badge</a><br/>
+			Péter Gyarmati
+		</td>
+		<td>Eth Zürich </td>
+		<td><a href="https://twitter.com/peter_gyarmati">peter_gyarmati</a></td>
+		<td>Zürich</td>
+		<td>3623</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
+			<a href="https://github.com/vasile">
+				<img src="https://avatars.githubusercontent.com/u/113994?s=72&v=4" width="24" alt="Avatar of vasile"> vasile
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#vasile">Copy rank badge</a><br/>
+			Vasile Cotovanu
+		</td>
+		<td>Vasile.ch </td>
+		<td><a href="https://twitter.com/vasile23">vasile23</a></td>
+		<td>Zürich</td>
+		<td>3612</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
+			<a href="https://github.com/bpasero">
+				<img src="https://avatars.githubusercontent.com/u/900690?s=72&u=bc6e61493ce693e514226c71aeba9d059fc1a30d&v=4" width="24" alt="Avatar of bpasero"> bpasero
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#bpasero">Copy rank badge</a><br/>
+			Benjamin Pasero
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/BenjaminPasero">BenjaminPasero</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>3560</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
+			<a href="https://github.com/sandy081">
+				<img src="https://avatars.githubusercontent.com/u/10746682?s=72&u=f41e610654d0407b889cb97706c6e2adbf46d439&v=4" width="24" alt="Avatar of sandy081"> sandy081
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#sandy081">Copy rank badge</a><br/>
+			Sandeep Somavarapu
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>3554</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td>
+			<a href="https://github.com/mo271">
+				<img src="https://avatars.githubusercontent.com/u/3491627?s=72&u=315f5464f4bc43fde3f4223201229650e9bd500b&v=4" width="24" alt="Avatar of mo271"> mo271
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mo271">Copy rank badge</a><br/>
+			Moritz Firsching
+		</td>
+		<td>Google Deepmind </td>
+		<td><a href="https://twitter.com/MoritzFirsching">MoritzFirsching</a></td>
+		<td>Basel, CH</td>
+		<td>3530</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td>
+			<a href="https://github.com/ralscha">
+				<img src="https://avatars.githubusercontent.com/u/372512?s=72&u=47a7baa5890841c5446bf773060d7a97808bbe0d&v=4" width="24" alt="Avatar of ralscha"> ralscha
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ralscha">Copy rank badge</a><br/>
+			Ralph Schaer
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bern, Switzerland</td>
+		<td>3482</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td>
+			<a href="https://github.com/pcarrier">
+				<img src="https://avatars.githubusercontent.com/u/8641?s=72&u=8af20e7520afb49a09ce94ae561931c70e4abb21&v=4" width="24" alt="Avatar of pcarrier"> pcarrier
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pcarrier">Copy rank badge</a><br/>
+			Pierre Carrier
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Geneva, Switzerland</td>
+		<td>3388</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>
+			<a href="https://github.com/birkskyum">
+				<img src="https://avatars.githubusercontent.com/u/74932975?s=72&u=ac2f6ede79205bcb7896aacc5db15443266c5986&v=4" width="24" alt="Avatar of birkskyum"> birkskyum
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#birkskyum">Copy rank badge</a><br/>
+			Birk Skyum
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland 🇨🇭</td>
+		<td>3383</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>
+			<a href="https://github.com/dtslvr">
+				<img src="https://avatars.githubusercontent.com/u/4159106?s=72&u=038bc1d93c1f542d935499cbd4184b3ce0df9b86&v=4" width="24" alt="Avatar of dtslvr"> dtslvr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dtslvr">Copy rank badge</a><br/>
+			Thomas Kaul
+		</td>
+		<td>@sublimd </td>
+		<td><a href="https://twitter.com/dotsilver">dotsilver</a></td>
+		<td>Switzerland</td>
+		<td>3249</td>
+	</tr>
+	<tr>
+		<td>51</td>
+		<td>
+			<a href="https://github.com/brawer">
+				<img src="https://avatars.githubusercontent.com/u/1527880?s=72&u=df59d8eba21ea523772e2ca3eb1ffc4f40a7b24f&v=4" width="24" alt="Avatar of brawer"> brawer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#brawer">Copy rank badge</a><br/>
+			Sascha Brawer
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bern, Switzerland</td>
+		<td>3240</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
+			<a href="https://github.com/cclauss">
+				<img src="https://avatars.githubusercontent.com/u/3709715?s=72&u=0745d1d2473894c33f3b35f0b965d71cc9aec553&v=4" width="24" alt="Avatar of cclauss"> cclauss
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#cclauss">Copy rank badge</a><br/>
+			Christian Clauss
+		</td>
+		<td>Christian Clauss </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>3184</td>
+	</tr>
+	<tr>
+		<td>53</td>
+		<td>
+			<a href="https://github.com/deepentropy">
+				<img src="https://avatars.githubusercontent.com/u/8287111?s=72&u=7027a33f6e6ea0a0d5d2cf7386a9b893040140c5&v=4" width="24" alt="Avatar of deepentropy"> deepentropy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#deepentropy">Copy rank badge</a><br/>
+			DeepEntropy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Geneva, Switzerland</td>
+		<td>3102</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/MichaReiser">
+				<img src="https://avatars.githubusercontent.com/u/1203881?s=72&u=a4198e6ec750b50d8f708f7b226cc6fec288b993&v=4" width="24" alt="Avatar of MichaReiser"> MichaReiser
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#MichaReiser">Copy rank badge</a><br/>
+			Micha Reiser
+		</td>
+		<td>@astral-sh  </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>3049</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>
+			<a href="https://github.com/nquinquenel">
+				<img src="https://avatars.githubusercontent.com/u/14952624?s=72&u=08a457347eeb634d4cf20b693b5d6bf459912f07&v=4" width="24" alt="Avatar of nquinquenel"> nquinquenel
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nquinquenel">Copy rank badge</a><br/>
+			Nicolas QUINQUENEL
+		</td>
+		<td>@sonarsource  </td>
+		<td>No Twitter Username</td>
+		<td>Geneva, Switzerland</td>
+		<td>2997</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/ahankinson">
+				<img src="https://avatars.githubusercontent.com/u/163183?s=72&u=318f8a58a826b1226dd87226e2425551a44257af&v=4" width="24" alt="Avatar of ahankinson"> ahankinson
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ahankinson">Copy rank badge</a><br/>
+			Andrew Hankinson
+		</td>
+		<td>Rism Digital Center </td>
+		<td><a href="https://twitter.com/ahankinson">ahankinson</a></td>
+		<td>Basel, Switzerland</td>
+		<td>2924</td>
+	</tr>
+	<tr>
+		<td>57</td>
+		<td>
+			<a href="https://github.com/andimarafioti">
+				<img src="https://avatars.githubusercontent.com/u/9143109?s=72&u=05c88991776cebbe6f95e0f1a5dc14b7c3ad9034&v=4" width="24" alt="Avatar of andimarafioti"> andimarafioti
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#andimarafioti">Copy rank badge</a><br/>
+			Andrés Marafioti
+		</td>
+		<td>Hugging Face </td>
+		<td>No Twitter Username</td>
+		<td>Bern, Switzerland</td>
+		<td>2923</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
+			<a href="https://github.com/biodranik">
+				<img src="https://avatars.githubusercontent.com/u/170263?s=72&u=d5d069fc859d680d7ec9e256b267bac08da2fd1e&v=4" width="24" alt="Avatar of biodranik"> biodranik
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#biodranik">Copy rank badge</a><br/>
+			Alexander Borsuk
+		</td>
+		<td>@organicmaps </td>
+		<td><a href="https://twitter.com/BioDranik">BioDranik</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>2852</td>
+	</tr>
+	<tr>
+		<td>59</td>
+		<td>
+			<a href="https://github.com/mirek">
+				<img src="https://avatars.githubusercontent.com/u/8561?s=72&u=6e33350853b1a22ad33820cc11975edeb5e510d3&v=4" width="24" alt="Avatar of mirek"> mirek
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mirek">Copy rank badge</a><br/>
+			Mirek Rusin
+		</td>
+		<td>@appliedblockchain  </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>2851</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/maennchen">
+				<img src="https://avatars.githubusercontent.com/u/333918?s=72&u=3eab9bf6904ef6585db85dd41762714ed3081991&v=4" width="24" alt="Avatar of maennchen"> maennchen
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#maennchen">Copy rank badge</a><br/>
+			Jonatan Männchen
+		</td>
+		<td>Erlang Ecosystem Foundation </td>
+		<td><a href="https://twitter.com/maennchen_">maennchen_</a></td>
+		<td>Winterthur - Switzerland</td>
+		<td>2843</td>
+	</tr>
+	<tr>
+		<td>61</td>
+		<td>
+			<a href="https://github.com/pschatzmann">
+				<img src="https://avatars.githubusercontent.com/u/2078916?s=72&u=7ed1c4888deb940b3b5d4caa7a7fc956b0218bc7&v=4" width="24" alt="Avatar of pschatzmann"> pschatzmann
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pschatzmann">Copy rank badge</a><br/>
+			Phil Schatzmann
+		</td>
+		<td>Phil Schatzmann </td>
+		<td>No Twitter Username</td>
+		<td>Valais, Switzerland</td>
+		<td>2694</td>
+	</tr>
+	<tr>
+		<td>62</td>
+		<td>
+			<a href="https://github.com/nielstron">
+				<img src="https://avatars.githubusercontent.com/u/20638630?s=72&u=7b0f68a6a067e44050d73968ea392230f42145ff&v=4" width="24" alt="Avatar of nielstron"> nielstron
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nielstron">Copy rank badge</a><br/>
+			Niels Mündler-Sasahara
+		</td>
+		<td>Eth Zurich </td>
+		<td><a href="https://twitter.com/nielstron">nielstron</a></td>
+		<td>Switzerland</td>
+		<td>2652</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
+			<a href="https://github.com/Fuzss">
+				<img src="https://avatars.githubusercontent.com/u/28218241?s=72&v=4" width="24" alt="Avatar of Fuzss"> Fuzss
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Fuzss">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>2616</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
+			<a href="https://github.com/yperbasis">
+				<img src="https://avatars.githubusercontent.com/u/34320705?s=72&u=318f5ae605b6fff6696f51b50978493c411b23f3&v=4" width="24" alt="Avatar of yperbasis"> yperbasis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#yperbasis">Copy rank badge</a><br/>
+			Andrew Ashikhmin
+		</td>
+		<td>Erigon </td>
+		<td>No Twitter Username</td>
+		<td>Basel, Switzerland</td>
+		<td>2604</td>
 	</tr>
 	<tr>
 		<td>65</td>
 		<td>
-			<a href="https://github.com/3nids">
-				<img src="https://avatars.githubusercontent.com/u/127259?s=72&u=97c016a3415edf05e629ee8dc20e306dee4f1189&v=4" width="24" alt="Avatar of 3nids"> 3nids
-			</a><br/>
-			Denis Rouzaud
+			<a href="https://github.com/janikvonrotz">
+				<img src="https://avatars.githubusercontent.com/u/1370421?s=72&u=d02fe3852775c2ce8b4ae83ef430defad20ead45&v=4" width="24" alt="Avatar of janikvonrotz"> janikvonrotz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#janikvonrotz">Copy rank badge</a><br/>
+			Janik von Rotz
 		</td>
-		<td>@opengisch  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Champéry, Switzerland</td>
-		<td>2039</td>
+		<td>Switzerland</td>
+		<td>2576</td>
 	</tr>
 	<tr>
 		<td>66</td>
 		<td>
-			<a href="https://github.com/basvandijk">
-				<img src="https://avatars.githubusercontent.com/u/576355?s=72&u=146c497454faa6a20e8146f867bfdae2e6028829&v=4" width="24" alt="Avatar of basvandijk"> basvandijk
-			</a><br/>
-			Bas van Dijk
+			<a href="https://github.com/andreolf">
+				<img src="https://avatars.githubusercontent.com/u/15174764?s=72&u=54a1ed9e77ce7ed9f290c191056c936e3b5d899b&v=4" width="24" alt="Avatar of andreolf"> andreolf
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#andreolf">Copy rank badge</a><br/>
+			Francesco
 		</td>
-		<td>Dfinity </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>2028</td>
+		<td>Metamask </td>
+		<td><a href="https://twitter.com/francescoswiss">francescoswiss</a></td>
+		<td>Switzerland</td>
+		<td>2573</td>
 	</tr>
 	<tr>
 		<td>67</td>
 		<td>
-			<a href="https://github.com/antiguru">
-				<img src="https://avatars.githubusercontent.com/u/582946?s=72&u=4322e44782d237411ef51473f56cd05abd88a3ad&v=4" width="24" alt="Avatar of antiguru"> antiguru
-			</a><br/>
-			Moritz Hoffmann
+			<a href="https://github.com/joslat">
+				<img src="https://avatars.githubusercontent.com/u/9831011?s=72&u=51a57e3df1fed842c1bccbd6de83fcaa56b505be&v=4" width="24" alt="Avatar of joslat"> joslat
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#joslat">Copy rank badge</a><br/>
+			Jose Luis Latorre Millas
 		</td>
-		<td>@materializeinc  </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>2006</td>
+		<td>Swiss Life Ag </td>
+		<td><a href="https://twitter.com/joslat">joslat</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>2498</td>
 	</tr>
 	<tr>
 		<td>68</td>
 		<td>
-			<a href="https://github.com/targos">
-				<img src="https://avatars.githubusercontent.com/u/2352663?s=72&u=6d0db159fb863f7648118acf92b7960701228bf9&v=4" width="24" alt="Avatar of targos"> targos
-			</a><br/>
-			Michaël Zasso
+			<a href="https://github.com/mafintosh">
+				<img src="https://avatars.githubusercontent.com/u/376661?s=72&u=69e0f4e7e2dc9e575ef93b329babfa773302622e&v=4" width="24" alt="Avatar of mafintosh"> mafintosh
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mafintosh">Copy rank badge</a><br/>
+			Mathias Buus
 		</td>
-		<td>@zakodium </td>
+		<td>@holepunchto </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>1946</td>
+		<td>2493</td>
 	</tr>
 	<tr>
 		<td>69</td>
 		<td>
 			<a href="https://github.com/aeschli">
 				<img src="https://avatars.githubusercontent.com/u/6461412?s=72&u=583a66b96653150e4c1da049eaef21e53c01f47d&v=4" width="24" alt="Avatar of aeschli"> aeschli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#aeschli">Copy rank badge</a><br/>
 			Martin Aeschlimann
 		</td>
 		<td>Microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>1944</td>
+		<td>2492</td>
 	</tr>
 	<tr>
 		<td>70</td>
 		<td>
-			<a href="https://github.com/simasch">
-				<img src="https://avatars.githubusercontent.com/u/593352?s=72&u=fae30ed907d13089cd272eec309586b58dd69a52&v=4" width="24" alt="Avatar of simasch"> simasch
-			</a><br/>
-			Simon Martinelli
+			<a href="https://github.com/Anselmoo">
+				<img src="https://avatars.githubusercontent.com/u/13209783?s=72&u=fb29a0565488703e3b8678b28e93e27101bc93f3&v=4" width="24" alt="Avatar of Anselmoo"> Anselmoo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Anselmoo">Copy rank badge</a><br/>
+			Anselm Hahn
 		</td>
-		<td>@martinellich </td>
-		<td><a href="https://twitter.com/simas_ch">simas_ch</a></td>
-		<td>Erlach, Switzerland</td>
-		<td>1942</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>2480</td>
 	</tr>
 	<tr>
 		<td>71</td>
 		<td>
-			<a href="https://github.com/nicotsx">
-				<img src="https://avatars.githubusercontent.com/u/47644445?s=72&u=7df62ac26a4aea30c143c51f0d5f0107933d8cc8&v=4" width="24" alt="Avatar of nicotsx"> nicotsx
-			</a><br/>
-			Nico
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1907</td>
-	</tr>
-	<tr>
-		<td>72</td>
-		<td>
-			<a href="https://github.com/jleni">
-				<img src="https://avatars.githubusercontent.com/u/13698520?s=72&u=b0fc717bd93dc28a429c00c56d3a3333c9243f6d&v=4" width="24" alt="Avatar of jleni"> jleni
-			</a><br/>
-			Juan Leni
-		</td>
-		<td>Zondax Ag ( Https://zondax.ch<br/>)<br/></td>
-		<td><a href="https://twitter.com/jleni">jleni</a></td>
-		<td>Zug, Switzerland</td>
-		<td>1884</td>
-	</tr>
-	<tr>
-		<td>73</td>
-		<td>
-			<a href="https://github.com/andimarafioti">
-				<img src="https://avatars.githubusercontent.com/u/9143109?s=72&u=05c88991776cebbe6f95e0f1a5dc14b7c3ad9034&v=4" width="24" alt="Avatar of andimarafioti"> andimarafioti
-			</a><br/>
-			Andrés Marafioti
-		</td>
-		<td>Hugging Face </td>
-		<td>No Twitter Username</td>
-		<td>Bern, Switzerland</td>
-		<td>1855</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
-			<a href="https://github.com/yperbasis">
-				<img src="https://avatars.githubusercontent.com/u/34320705?s=72&u=318f5ae605b6fff6696f51b50978493c411b23f3&v=4" width="24" alt="Avatar of yperbasis"> yperbasis
-			</a><br/>
-			Andrew Ashikhmin
-		</td>
-		<td>Erigon </td>
-		<td>No Twitter Username</td>
-		<td>Basel, Switzerland</td>
-		<td>1844</td>
-	</tr>
-	<tr>
-		<td>75</td>
-		<td>
-			<a href="https://github.com/ralscha">
-				<img src="https://avatars.githubusercontent.com/u/372512?s=72&u=47a7baa5890841c5446bf773060d7a97808bbe0d&v=4" width="24" alt="Avatar of ralscha"> ralscha
-			</a><br/>
-			Ralph Schaer
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bern, Switzerland</td>
-		<td>1829</td>
-	</tr>
-	<tr>
-		<td>76</td>
-		<td>
-			<a href="https://github.com/patrickbucher">
-				<img src="https://avatars.githubusercontent.com/u/22887124?s=72&u=b3b5670f255efa32ae334d9efde74552f05a4639&v=4" width="24" alt="Avatar of patrickbucher"> patrickbucher
-			</a><br/>
-			Patrick Bucher
-		</td>
-		<td>Composed Gmbh </td>
-		<td>No Twitter Username</td>
-		<td>Sursee, Switzerland</td>
-		<td>1822</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
-			<a href="https://github.com/robert-zaremba">
-				<img src="https://avatars.githubusercontent.com/u/811701?s=72&u=d42c4af3f97ebccdd701e8d0faeefd123699930e&v=4" width="24" alt="Avatar of robert-zaremba"> robert-zaremba
-			</a><br/>
-			Robert Zaremba
-		</td>
-		<td>Scale It </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1812</td>
-	</tr>
-	<tr>
-		<td>78</td>
-		<td>
-			<a href="https://github.com/bchapuis">
-				<img src="https://avatars.githubusercontent.com/u/238747?s=72&u=9e49f522ae5272f1b3671488a27de2aebe28be96&v=4" width="24" alt="Avatar of bchapuis"> bchapuis
-			</a><br/>
-			Bertil Chapuis
-		</td>
-		<td>Heig-vd </td>
-		<td><a href="https://twitter.com/bchapuis">bchapuis</a></td>
-		<td>Lausanne, Switzerland</td>
-		<td>1775</td>
-	</tr>
-	<tr>
-		<td>79</td>
-		<td>
-			<a href="https://github.com/aknuds1">
-				<img src="https://avatars.githubusercontent.com/u/281303?s=72&v=4" width="24" alt="Avatar of aknuds1"> aknuds1
-			</a><br/>
-			Arve Knudsen
-		</td>
-		<td>@grafana </td>
-		<td>No Twitter Username</td>
-		<td>Lachen, Switzerland</td>
-		<td>1764</td>
-	</tr>
-	<tr>
-		<td>80</td>
-		<td>
-			<a href="https://github.com/rvolosatovs">
-				<img src="https://avatars.githubusercontent.com/u/12877905?s=72&u=a8bb76b322d40362a9c6da8bd05bf8e2c6e06552&v=4" width="24" alt="Avatar of rvolosatovs"> rvolosatovs
-			</a><br/>
-			Roman Volosatovs
-		</td>
-		<td>@midnightntwrk </td>
-		<td>No Twitter Username</td>
-		<td>Crans-Montana, Switzerland</td>
-		<td>1748</td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>
 			<a href="https://github.com/romainsacchi">
 				<img src="https://avatars.githubusercontent.com/u/22473067?s=72&v=4" width="24" alt="Avatar of romainsacchi"> romainsacchi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#romainsacchi">Copy rank badge</a><br/>
 			Romain Sacchi
 		</td>
 		<td>Paul Scherrer Institut </td>
 		<td><a href="https://twitter.com/RomainSacchi">RomainSacchi</a></td>
 		<td>Villigen, Switzerland</td>
-		<td>1721</td>
+		<td>2475</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>72</td>
 		<td>
-			<a href="https://github.com/MrNeRF">
-				<img src="https://avatars.githubusercontent.com/u/33876434?s=72&u=223e93bb39f15a25feb7a1fc111709206531b57e&v=4" width="24" alt="Avatar of MrNeRF"> MrNeRF
-			</a><br/>
-			janusch
+			<a href="https://github.com/ArturSepp">
+				<img src="https://avatars.githubusercontent.com/u/39810730?s=72&u=44c24f4a7b9bd964087e7d6b0fa74b3dbcdfcdb0&v=4" width="24" alt="Avatar of ArturSepp"> ArturSepp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ArturSepp">Copy rank badge</a><br/>
+			Artur Sepp
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/janusch_patas">janusch_patas</a></td>
-		<td>Basel, Switzerland</td>
-		<td>1688</td>
+		<td>Lgt Private Banking </td>
+		<td><a href="https://twitter.com/artursepp">artursepp</a></td>
+		<td>Switzerland</td>
+		<td>2464</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>73</td>
 		<td>
-			<a href="https://github.com/0PandaDEV">
-				<img src="https://avatars.githubusercontent.com/u/70103896?s=72&u=19768da42575fd954e0c8259d2357e9e743b3a69&v=4" width="24" alt="Avatar of 0PandaDEV"> 0PandaDEV
-			</a><br/>
-			PandaDEV
+			<a href="https://github.com/rvolosatovs">
+				<img src="https://avatars.githubusercontent.com/u/12877905?s=72&u=a8bb76b322d40362a9c6da8bd05bf8e2c6e06552&v=4" width="24" alt="Avatar of rvolosatovs"> rvolosatovs
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#rvolosatovs">Copy rank badge</a><br/>
+			Roman Volosatovs
 		</td>
-		<td>@epilogueteam  </td>
+		<td>@midnightntwrk </td>
 		<td>No Twitter Username</td>
-		<td>Zürich, Swizerland</td>
-		<td>1667</td>
+		<td>Crans-Montana, Switzerland</td>
+		<td>2464</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>74</td>
+		<td>
+			<a href="https://github.com/haampie">
+				<img src="https://avatars.githubusercontent.com/u/194764?s=72&u=3c961c01fb914af8e2bffa5d599a04d4273b584a&v=4" width="24" alt="Avatar of haampie"> haampie
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#haampie">Copy rank badge</a><br/>
+			Harmen Stoppels
+		</td>
+		<td>Stoppels Consulting </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>2454</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
+			<a href="https://github.com/3nids">
+				<img src="https://avatars.githubusercontent.com/u/127259?s=72&u=97c016a3415edf05e629ee8dc20e306dee4f1189&v=4" width="24" alt="Avatar of 3nids"> 3nids
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#3nids">Copy rank badge</a><br/>
+			Denis Rouzaud
+		</td>
+		<td>@opengisch  </td>
+		<td>No Twitter Username</td>
+		<td>Champéry, Switzerland</td>
+		<td>2378</td>
+	</tr>
+	<tr>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/zouharvi">
 				<img src="https://avatars.githubusercontent.com/u/7661193?s=72&u=d94bfcb0cc25b509a77b7ae1e676c0a7a469e96d&v=4" width="24" alt="Avatar of zouharvi"> zouharvi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#zouharvi">Copy rank badge</a><br/>
 			Vilém Zouhar
 		</td>
 		<td>Eth Zürich </td>
 		<td><a href="https://twitter.com/zouharvi">zouharvi</a></td>
 		<td>Zürich</td>
-		<td>1652</td>
+		<td>2298</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>77</td>
 		<td>
-			<a href="https://github.com/ubruhin">
-				<img src="https://avatars.githubusercontent.com/u/5374821?s=72&u=c9c1f2e27e7be0b16d22ad2f3a68eeaef73885b3&v=4" width="24" alt="Avatar of ubruhin"> ubruhin
-			</a><br/>
-			U. Bruhin
+			<a href="https://github.com/adrai">
+				<img src="https://avatars.githubusercontent.com/u/1086194?s=72&v=4" width="24" alt="Avatar of adrai"> adrai
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#adrai">Copy rank badge</a><br/>
+			Adriano Raiano
 		</td>
-		<td>@librepcb </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1605</td>
-	</tr>
-	<tr>
-		<td>86</td>
-		<td>
-			<a href="https://github.com/birkskyum">
-				<img src="https://avatars.githubusercontent.com/u/74932975?s=72&u=ac2f6ede79205bcb7896aacc5db15443266c5986&v=4" width="24" alt="Avatar of birkskyum"> birkskyum
-			</a><br/>
-			Birk Skyum
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland 🇨🇭</td>
-		<td>1604</td>
-	</tr>
-	<tr>
-		<td>87</td>
-		<td>
-			<a href="https://github.com/mb21">
-				<img src="https://avatars.githubusercontent.com/u/157497?s=72&v=4" width="24" alt="Avatar of mb21"> mb21
-			</a><br/>
-			Mauro Bieg
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>I18next.com | Locize.com </td>
+		<td><a href="https://twitter.com/adrirai">adrirai</a></td>
 		<td>Zürich, Switzerland</td>
-		<td>1603</td>
+		<td>2296</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>78</td>
 		<td>
-			<a href="https://github.com/jrieken">
-				<img src="https://avatars.githubusercontent.com/u/1794099?s=72&u=fd4a2d1f49f071ea5b9c3e9097fb9e36218b15af&v=4" width="24" alt="Avatar of jrieken"> jrieken
-			</a><br/>
-			Johannes Rieken
-		</td>
-		<td>Microsoft </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1588</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
-			<a href="https://github.com/openscript">
-				<img src="https://avatars.githubusercontent.com/u/1105080?s=72&u=ebda165c92f1f174a7aef1c0defd8a0955b83b01&v=4" width="24" alt="Avatar of openscript"> openscript
-			</a><br/>
-			Robin Bühler
-		</td>
-		<td>Openscript Ltd. @openscript-ch <br/></td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>1571</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
-			<a href="https://github.com/mms-gianni">
-				<img src="https://avatars.githubusercontent.com/u/2052196?s=72&u=5d553580b1792723a7a1ec63426ca09b9ce565c1&v=4" width="24" alt="Avatar of mms-gianni"> mms-gianni
-			</a><br/>
-			Gianni
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zurich / Switzerland</td>
-		<td>1559</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
-			<a href="https://github.com/mmagician">
-				<img src="https://avatars.githubusercontent.com/u/8402446?s=72&u=9ff07c90cc49ab6139a7d2b0aeaa4f6aba94d940&v=4" width="24" alt="Avatar of mmagician"> mmagician
-			</a><br/>
-			Marti
-		</td>
-		<td>@0xmiden </td>
-		<td><a href="https://twitter.com/mmagician">mmagician</a></td>
-		<td>Switzerland</td>
-		<td>1547</td>
-	</tr>
-	<tr>
-		<td>92</td>
-		<td>
-			<a href="https://github.com/joker-eph">
-				<img src="https://avatars.githubusercontent.com/u/3372300?s=72&u=17a732098371c9e2ec0fd87759be79f0ff60d7ab&v=4" width="24" alt="Avatar of joker-eph"> joker-eph
-			</a><br/>
-			Mehdi Amini
+			<a href="https://github.com/damienbod">
+				<img src="https://avatars.githubusercontent.com/u/3442158?s=72&v=4" width="24" alt="Avatar of damienbod"> damienbod
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#damienbod">Copy rank badge</a><br/>
+			damienbod
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>1546</td>
+		<td>2276</td>
 	</tr>
 	<tr>
-		<td>93</td>
-		<td>
-			<a href="https://github.com/DivadNojnarg">
-				<img src="https://avatars.githubusercontent.com/u/18291543?s=72&u=666bbdb69e00ab153483d33343e1affd6ddb7be9&v=4" width="24" alt="Avatar of DivadNojnarg"> DivadNojnarg
-			</a><br/>
-			David Granjon
-		</td>
-		<td>@cynkra, Zurich </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1517</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
-			<a href="https://github.com/mattmezza">
-				<img src="https://avatars.githubusercontent.com/u/1915989?s=72&u=2ca2fcb72ae62bc1477d5936b83d490aebf2013c&v=4" width="24" alt="Avatar of mattmezza"> mattmezza
-			</a><br/>
-			Matteo Merola
-		</td>
-		<td>@inter-ikea-digital, @inter-ikea, Ex-@ingka-group-digi </td>
-		<td><a href="https://twitter.com/_mattmezza_">_mattmezza_</a></td>
-		<td>Zürich</td>
-		<td>1500</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
-			<a href="https://github.com/Godin">
-				<img src="https://avatars.githubusercontent.com/u/138671?s=72&u=60971b1c25cb2ba9026e296d4a64154c277215d6&v=4" width="24" alt="Avatar of Godin"> Godin
-			</a><br/>
-			Evgeny Mandrikov
-		</td>
-		<td>@sonarsource </td>
-		<td><a href="https://twitter.com/_Godin_">_Godin_</a></td>
-		<td>Geneva, Switzerland</td>
-		<td>1445</td>
-	</tr>
-	<tr>
-		<td>96</td>
-		<td>
-			<a href="https://github.com/pat-s">
-				<img src="https://avatars.githubusercontent.com/u/8430564?s=72&u=ca18dea8eda7c5f02b5a94f6242c91ead54d4e83&v=4" width="24" alt="Avatar of pat-s"> pat-s
-			</a><br/>
-			Patrick Schratz
-		</td>
-		<td>Devxy </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1437</td>
-	</tr>
-	<tr>
-		<td>97</td>
-		<td>
-			<a href="https://github.com/sspaeti">
-				<img src="https://avatars.githubusercontent.com/u/689199?s=72&v=4" width="24" alt="Avatar of sspaeti"> sspaeti
-			</a><br/>
-			Simon Späti
-		</td>
-		<td>@ssp-data </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1414</td>
-	</tr>
-	<tr>
-		<td>98</td>
-		<td>
-			<a href="https://github.com/dolfim-ibm">
-				<img src="https://avatars.githubusercontent.com/u/97102151?s=72&u=d06bc719516d192834a6d0f5f2f097eaf8db17ef&v=4" width="24" alt="Avatar of dolfim-ibm"> dolfim-ibm
-			</a><br/>
-			Michele Dolfi
-		</td>
-		<td>Ibm Research </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>1397</td>
-	</tr>
-	<tr>
-		<td>99</td>
-		<td>
-			<a href="https://github.com/junpenglao">
-				<img src="https://avatars.githubusercontent.com/u/12952641?s=72&u=ba131642770555e888ba227a095f0267ce72578b&v=4" width="24" alt="Avatar of junpenglao"> junpenglao
-			</a><br/>
-			Junpeng Lao
-		</td>
-		<td>@google  </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>1391</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
-			<a href="https://github.com/iluuu1994">
-				<img src="https://avatars.githubusercontent.com/u/1752683?s=72&v=4" width="24" alt="Avatar of iluuu1994"> iluuu1994
-			</a><br/>
-			Ilija Tovilo
-		</td>
-		<td>@thephpf </td>
-		<td>No Twitter Username</td>
-		<td>Bern, Switzerland</td>
-		<td>1387</td>
-	</tr>
-	<tr>
-		<td>101</td>
-		<td>
-			<a href="https://github.com/intellectronica">
-				<img src="https://avatars.githubusercontent.com/u/46264?s=72&u=a843173bc4b1407395eb556f6bcc4559be54e0d5&v=4" width="24" alt="Avatar of intellectronica"> intellectronica
-			</a><br/>
-			Eleanor Berger
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/intellectronica">intellectronica</a></td>
-		<td>Zürich</td>
-		<td>1371</td>
-	</tr>
-	<tr>
-		<td>102</td>
-		<td>
-			<a href="https://github.com/bartoszmajsak">
-				<img src="https://avatars.githubusercontent.com/u/719616?s=72&u=fd7f457e40fc5fb642c1f727b66138cb36177e1a&v=4" width="24" alt="Avatar of bartoszmajsak"> bartoszmajsak
-			</a><br/>
-			Bartosz Majsak
-		</td>
-		<td>Red Hat Inc. </td>
-		<td><a href="https://twitter.com/majson">majson</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>1356</td>
-	</tr>
-	<tr>
-		<td>103</td>
-		<td>
-			<a href="https://github.com/WerWolv">
-				<img src="https://avatars.githubusercontent.com/u/10835354?s=72&u=df34a21c99e8b5470fb39a106d328372e7abc115&v=4" width="24" alt="Avatar of WerWolv"> WerWolv
-			</a><br/>
-			Nik
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/WerWolv">WerWolv</a></td>
-		<td>Switzerland</td>
-		<td>1339</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
-			<a href="https://github.com/Cyrilvallez">
-				<img src="https://avatars.githubusercontent.com/u/71554963?s=72&u=2d762f749ea6c0f5a6ce1f0e74cf4e8bc3df573a&v=4" width="24" alt="Avatar of Cyrilvallez"> Cyrilvallez
-			</a><br/>
-			Cyril Vallez
-		</td>
-		<td>@huggingface </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>1335</td>
-	</tr>
-	<tr>
-		<td>105</td>
-		<td>
-			<a href="https://github.com/romeokienzler">
-				<img src="https://avatars.githubusercontent.com/u/5694071?s=72&u=e2ab83e6ff8d3906b1b5b6d7c0f16d674161fa93&v=4" width="24" alt="Avatar of romeokienzler"> romeokienzler
-			</a><br/>
-			Romeo Kienzler
-		</td>
-		<td>Ai Research Engineer At<br/>Ibm<br/>Research<br/></td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1316</td>
-	</tr>
-	<tr>
-		<td>106</td>
-		<td>
-			<a href="https://github.com/kdubois">
-				<img src="https://avatars.githubusercontent.com/u/373537?s=72&u=70a833e0c8dd8a1c42022473c6e8b7eba01fb3f3&v=4" width="24" alt="Avatar of kdubois"> kdubois
-			</a><br/>
-			Kevin Dubois
-		</td>
-		<td>Ibm </td>
-		<td>No Twitter Username</td>
-		<td>Valais, Switzerland</td>
-		<td>1315</td>
-	</tr>
-	<tr>
-		<td>107</td>
-		<td>
-			<a href="https://github.com/dcharkes">
-				<img src="https://avatars.githubusercontent.com/u/3601775?s=72&u=0530ce5eee2857f30b5960dce516be06d90e39e7&v=4" width="24" alt="Avatar of dcharkes"> dcharkes
-			</a><br/>
-			Daco Harkes
-		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1310</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/dbaeumer">
-				<img src="https://avatars.githubusercontent.com/u/1931590?s=72&u=42e6e26369606542d3f3d86805b09bcc1de45bcc&v=4" width="24" alt="Avatar of dbaeumer"> dbaeumer
-			</a><br/>
-			Dirk Bäumer
-		</td>
-		<td>Microsoft </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1294</td>
-	</tr>
-	<tr>
-		<td>109</td>
-		<td>
-			<a href="https://github.com/Shinmera">
-				<img src="https://avatars.githubusercontent.com/u/4833204?s=72&v=4" width="24" alt="Avatar of Shinmera"> Shinmera
-			</a><br/>
-			Yukari Hafner
-		</td>
-		<td>@shirakumo  </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>1291</td>
-	</tr>
-	<tr>
-		<td>110</td>
-		<td>
-			<a href="https://github.com/kode4food">
-				<img src="https://avatars.githubusercontent.com/u/69445?s=72&u=c682ec8af2c0d9dfc977e8c8dcd7ba5b42f51f6f&v=4" width="24" alt="Avatar of kode4food"> kode4food
-			</a><br/>
-			Thomas Bradford
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>1291</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
-			<a href="https://github.com/CyberTimon">
-				<img src="https://avatars.githubusercontent.com/u/78795905?s=72&u=b11aa2032eb24e1eceff9e7f2ec8b590bde11833&v=4" width="24" alt="Avatar of CyberTimon"> CyberTimon
-			</a><br/>
-			Timon Käch
-		</td>
-		<td>Cybertimon </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1285</td>
-	</tr>
-	<tr>
-		<td>112</td>
-		<td>
-			<a href="https://github.com/sjrd">
-				<img src="https://avatars.githubusercontent.com/u/535934?s=72&u=837d8ccc05f624946f9fbec6a81ecb1eb519031b&v=4" width="24" alt="Avatar of sjrd"> sjrd
-			</a><br/>
-			Sébastien Doeraene
-		</td>
-		<td>École Polytechnique Fédérale De<br/>Lausanne<br/></td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>1269</td>
-	</tr>
-	<tr>
-		<td>113</td>
-		<td>
-			<a href="https://github.com/wjakob">
-				<img src="https://avatars.githubusercontent.com/u/1203629?s=72&u=42d816bc7194889b0372881656b4792c536fff69&v=4" width="24" alt="Avatar of wjakob"> wjakob
-			</a><br/>
-			Wenzel Jakob
-		</td>
-		<td>Epfl </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>1258</td>
-	</tr>
-	<tr>
-		<td>114</td>
-		<td>
-			<a href="https://github.com/7PH">
-				<img src="https://avatars.githubusercontent.com/u/31401273?s=72&u=226dc19201e3c6fdb356bad55495a62722f4ee61&v=4" width="24" alt="Avatar of 7PH"> 7PH
-			</a><br/>
-			Benjamin Raymond
-		</td>
-		<td>Cern </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland & France</td>
-		<td>1258</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/thibaudgg">
-				<img src="https://avatars.githubusercontent.com/u/1322?s=72&v=4" width="24" alt="Avatar of thibaudgg"> thibaudgg
-			</a><br/>
-			Thibaud Guillaume-Gentil
-		</td>
-		<td>Gatemedia </td>
-		<td><a href="https://twitter.com/thibaudgg">thibaudgg</a></td>
-		<td>Switzerland</td>
-		<td>1255</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/joaomoreno">
-				<img src="https://avatars.githubusercontent.com/u/22350?s=72&u=4abb57cd9c3806bb8ed4583ea885e090aa8f6123&v=4" width="24" alt="Avatar of joaomoreno"> joaomoreno
-			</a><br/>
-			João Moreno
-		</td>
-		<td>Microsoft </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>1230</td>
-	</tr>
-	<tr>
-		<td>117</td>
-		<td>
-			<a href="https://github.com/joelbarmettlerUZH">
-				<img src="https://avatars.githubusercontent.com/u/24369532?s=72&u=d8b1419a9c6a55bd419afe28bbb5142a56b5fa7c&v=4" width="24" alt="Avatar of joelbarmettlerUZH"> joelbarmettlerUZH
-			</a><br/>
-			Joel Barmettler
-		</td>
-		<td>Bbv </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>1229</td>
-	</tr>
-	<tr>
-		<td>118</td>
-		<td>
-			<a href="https://github.com/m-kuhn">
-				<img src="https://avatars.githubusercontent.com/u/588407?s=72&u=ad5df5522dafe2a5b1b6b5cbebf2abc18e0f9d50&v=4" width="24" alt="Avatar of m-kuhn"> m-kuhn
-			</a><br/>
-			Matthias Kuhn
-		</td>
-		<td>Opengis.ch </td>
-		<td><a href="https://twitter.com/_mkuhn">_mkuhn</a></td>
-		<td>Switzerland</td>
-		<td>1213</td>
-	</tr>
-	<tr>
-		<td>119</td>
-		<td>
-			<a href="https://github.com/256dpi">
-				<img src="https://avatars.githubusercontent.com/u/696886?s=72&u=a425613ad184e9dfbb05ab2c7012fea6cc88b453&v=4" width="24" alt="Avatar of 256dpi"> 256dpi
-			</a><br/>
-			Joël Gähwiler
-		</td>
-		<td>@networkedartifacts </td>
-		<td><a href="https://twitter.com/256dpi">256dpi</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>1203</td>
-	</tr>
-	<tr>
-		<td>120</td>
-		<td>
-			<a href="https://github.com/galderz">
-				<img src="https://avatars.githubusercontent.com/u/50187?s=72&u=b9453cf04b11b1e8279b53fb4899761468194b30&v=4" width="24" alt="Avatar of galderz"> galderz
-			</a><br/>
-			Galder Zamarreño
-		</td>
-		<td>Ibm </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1198</td>
-	</tr>
-	<tr>
-		<td>121</td>
-		<td>
-			<a href="https://github.com/brawer">
-				<img src="https://avatars.githubusercontent.com/u/1527880?s=72&u=df59d8eba21ea523772e2ca3eb1ffc4f40a7b24f&v=4" width="24" alt="Avatar of brawer"> brawer
-			</a><br/>
-			Sascha Brawer
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bern, Switzerland</td>
-		<td>1194</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
-			<a href="https://github.com/joslat">
-				<img src="https://avatars.githubusercontent.com/u/9831011?s=72&u=51a57e3df1fed842c1bccbd6de83fcaa56b505be&v=4" width="24" alt="Avatar of joslat"> joslat
-			</a><br/>
-			Jose Luis Latorre Millas
-		</td>
-		<td>Swiss Life Ag </td>
-		<td><a href="https://twitter.com/joslat">joslat</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>1189</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
-			<a href="https://github.com/krzk">
-				<img src="https://avatars.githubusercontent.com/u/10425763?s=72&u=3ce53807dcddfaca9b7b59b5e6d4fa7ac29dc569&v=4" width="24" alt="Avatar of krzk"> krzk
-			</a><br/>
-			Krzysztof Kozlowski
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1176</td>
-	</tr>
-	<tr>
-		<td>124</td>
-		<td>
-			<a href="https://github.com/matthiask">
-				<img src="https://avatars.githubusercontent.com/u/2627?s=72&u=857d87abc02f3fbd60c5dd37bb7a4cf7f86d8aa8&v=4" width="24" alt="Avatar of matthiask"> matthiask
-			</a><br/>
-			Matthias Kestenholz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>1175</td>
-	</tr>
-	<tr>
-		<td>125</td>
-		<td>
-			<a href="https://github.com/atemerev">
-				<img src="https://avatars.githubusercontent.com/u/127891?s=72&v=4" width="24" alt="Avatar of atemerev"> atemerev
-			</a><br/>
-			Alexander Temerev
-		</td>
-		<td>Reactivity </td>
-		<td>No Twitter Username</td>
-		<td>Geneva, Switzerland</td>
-		<td>1158</td>
-	</tr>
-	<tr>
-		<td>126</td>
-		<td>
-			<a href="https://github.com/aschempp">
-				<img src="https://avatars.githubusercontent.com/u/1073273?s=72&u=88295fc0b83ac52948d8875981f31a6485858694&v=4" width="24" alt="Avatar of aschempp"> aschempp
-			</a><br/>
-			Andreas Schempp
-		</td>
-		<td>@terminal42  </td>
-		<td><a href="https://twitter.com/andyschempp">andyschempp</a></td>
-		<td>Lyss, Switzerland</td>
-		<td>1157</td>
-	</tr>
-	<tr>
-		<td>127</td>
-		<td>
-			<a href="https://github.com/Saransh-cpp">
-				<img src="https://avatars.githubusercontent.com/u/74055102?s=72&u=3d90a5880dbd720e51ee791e1a33c17519770562&v=4" width="24" alt="Avatar of Saransh-cpp"> Saransh-cpp
-			</a><br/>
-			Saransh Chopra
-		</td>
-		<td>Epfl / Logitech </td>
-		<td><a href="https://twitter.com/saranshchopra7">saranshchopra7</a></td>
-		<td>Vaud, Switzerland</td>
-		<td>1147</td>
-	</tr>
-	<tr>
-		<td>128</td>
-		<td>
-			<a href="https://github.com/qkniep">
-				<img src="https://avatars.githubusercontent.com/u/2348350?s=72&u=80d26c113a3efcb335c1fbb42f37820c50e3055a&v=4" width="24" alt="Avatar of qkniep"> qkniep
-			</a><br/>
-			Quentin Kniep
-		</td>
-		<td>@anza-xyz  </td>
-		<td><a href="https://twitter.com/qkniep">qkniep</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>1147</td>
-	</tr>
-	<tr>
-		<td>129</td>
-		<td>
-			<a href="https://github.com/twpayne">
-				<img src="https://avatars.githubusercontent.com/u/6942?s=72&u=227a4496aba8d3f526c53bdb6aa7713b22c56906&v=4" width="24" alt="Avatar of twpayne"> twpayne
-			</a><br/>
-			Tom Payne
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>1137</td>
-	</tr>
-	<tr>
-		<td>130</td>
-		<td>
-			<a href="https://github.com/adr1anh">
-				<img src="https://avatars.githubusercontent.com/u/304966?s=72&u=6f1309829585fdc001fd03f531fc3ac8cf7b320a&v=4" width="24" alt="Avatar of adr1anh"> adr1anh
-			</a><br/>
-			Adrian Hamelink
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1129</td>
-	</tr>
-	<tr>
-		<td>131</td>
-		<td>
-			<a href="https://github.com/tklauser">
-				<img src="https://avatars.githubusercontent.com/u/539708?s=72&v=4" width="24" alt="Avatar of tklauser"> tklauser
-			</a><br/>
-			Tobias Klauser
-		</td>
-		<td>@cilium / @isovalent </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1119</td>
-	</tr>
-	<tr>
-		<td>132</td>
-		<td>
-			<a href="https://github.com/marcantondahmen">
-				<img src="https://avatars.githubusercontent.com/u/8440030?s=72&u=3ef466f1fd16e6915ca554de6bd9740a2f004240&v=4" width="24" alt="Avatar of marcantondahmen"> marcantondahmen
-			</a><br/>
-			Marc Anton Dahmen
-		</td>
-		<td>@automadcms  </td>
-		<td><a href="https://twitter.com/marcantondahmen">marcantondahmen</a></td>
-		<td>Basel, Switzerland</td>
-		<td>1118</td>
-	</tr>
-	<tr>
-		<td>133</td>
-		<td>
-			<a href="https://github.com/ilyabo">
-				<img src="https://avatars.githubusercontent.com/u/351828?s=72&u=e681513c0ae3676718cc1bd0b84bdc78932de4da&v=4" width="24" alt="Avatar of ilyabo"> ilyabo
-			</a><br/>
-			Ilya Boyandin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Meilen, Switzerland</td>
-		<td>1107</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
-			<a href="https://github.com/domwoe">
-				<img src="https://avatars.githubusercontent.com/u/1970182?s=72&u=26be1fc80226357412a0d5e4d9aaf38337b56d22&v=4" width="24" alt="Avatar of domwoe"> domwoe
-			</a><br/>
-			Dominic Wörner
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/domiwoe">domiwoe</a></td>
-		<td>Switzerland</td>
-		<td>1103</td>
-	</tr>
-	<tr>
-		<td>135</td>
-		<td>
-			<a href="https://github.com/ThiefMaster">
-				<img src="https://avatars.githubusercontent.com/u/179599?s=72&v=4" width="24" alt="Avatar of ThiefMaster"> ThiefMaster
-			</a><br/>
-			Adrian
-		</td>
-		<td>Cern / @indico <br/></td>
-		<td>No Twitter Username</td>
-		<td>Geneva, Switzerland</td>
-		<td>1099</td>
-	</tr>
-	<tr>
-		<td>136</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/antonmedv">
 				<img src="https://avatars.githubusercontent.com/u/141232?s=72&u=32c3c767d77f4bf7eb66499cb4898f88472d7d52&v=4" width="24" alt="Avatar of antonmedv"> antonmedv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#antonmedv">Copy rank badge</a><br/>
 			Anton Medvedev
 		</td>
-		<td>No Company</td>
+		<td>Cerrion </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>1090</td>
+		<td>2213</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/KireinaHoro">
 				<img src="https://avatars.githubusercontent.com/u/7804730?s=72&u=30e5ad659a92bfd8952b9e470f6f98956db63b68&v=4" width="24" alt="Avatar of KireinaHoro"> KireinaHoro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#KireinaHoro">Copy rank badge</a><br/>
 			Pengcheng Xu
 		</td>
 		<td>Eth Zurich </td>
 		<td>No Twitter Username</td>
 		<td>Zürich, Switzerland</td>
-		<td>1087</td>
+		<td>2172</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>81</td>
 		<td>
-			<a href="https://github.com/ReneNyffenegger">
-				<img src="https://avatars.githubusercontent.com/u/1092660?s=72&u=36fbe8dd64f3071f5d752031f0759c39ae023cff&v=4" width="24" alt="Avatar of ReneNyffenegger"> ReneNyffenegger
-			</a><br/>
-			Rene Nyffenegger
+			<a href="https://github.com/Luthaf">
+				<img src="https://avatars.githubusercontent.com/u/6141587?s=72&u=a421407afab5e6412f0b24ed03bf992f29e75e7f&v=4" width="24" alt="Avatar of Luthaf"> Luthaf
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Luthaf">Copy rank badge</a><br/>
+			Guillaume Fraux
 		</td>
-		<td>Digitale Daten </td>
-		<td><a href="https://twitter.com/ReneNyffenegger">ReneNyffenegger</a></td>
-		<td>Winterthur-Zürich-Switzerland</td>
-		<td>1073</td>
-	</tr>
-	<tr>
-		<td>139</td>
-		<td>
-			<a href="https://github.com/sbrannen">
-				<img src="https://avatars.githubusercontent.com/u/104798?s=72&u=e316a3b9d5ae74c3b31ace1a8361c90e84481daf&v=4" width="24" alt="Avatar of sbrannen"> sbrannen
-			</a><br/>
-			Sam Brannen
-		</td>
-		<td>Broadcom </td>
-		<td><a href="https://twitter.com/Sam_Brannen">Sam_Brannen</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>1067</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/cloudlena">
-				<img src="https://avatars.githubusercontent.com/u/6780471?s=72&u=9d1c457f2f98ad0b39d4683e14424c78cddb887d&v=4" width="24" alt="Avatar of cloudlena"> cloudlena
-			</a><br/>
-			Lena Fuhrimann
-		</td>
-		<td>@bespinian   </td>
+		<td>Epfl </td>
 		<td>No Twitter Username</td>
-		<td>Bern, Switzerland</td>
-		<td>1067</td>
+		<td>Lausanne, Switzerland</td>
+		<td>2169</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>82</td>
 		<td>
-			<a href="https://github.com/Toflar">
-				<img src="https://avatars.githubusercontent.com/u/481937?s=72&u=3886e93271c74ede59be7eb2db4d4b0ecc02ff3c&v=4" width="24" alt="Avatar of Toflar"> Toflar
-			</a><br/>
-			Yanick Witschi
+			<a href="https://github.com/junpenglao">
+				<img src="https://avatars.githubusercontent.com/u/12952641?s=72&u=ba131642770555e888ba227a095f0267ce72578b&v=4" width="24" alt="Avatar of junpenglao"> junpenglao
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#junpenglao">Copy rank badge</a><br/>
+			Junpeng Lao
 		</td>
-		<td>Terminal42 Gmbh </td>
-		<td><a href="https://twitter.com/toflar">toflar</a></td>
-		<td>Switzerland</td>
-		<td>1066</td>
-	</tr>
-	<tr>
-		<td>142</td>
-		<td>
-			<a href="https://github.com/wcandillon">
-				<img src="https://avatars.githubusercontent.com/u/306134?s=72&v=4" width="24" alt="Avatar of wcandillon"> wcandillon
-			</a><br/>
-			William Candillon
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/wcandillon">wcandillon</a></td>
-		<td>Zürich</td>
-		<td>1040</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/riga">
-				<img src="https://avatars.githubusercontent.com/u/1908734?s=72&u=d54fba605e6ac65b50defea01763a508ea454012&v=4" width="24" alt="Avatar of riga"> riga
-			</a><br/>
-			Marcel Rieger
-		</td>
-		<td>Uhh / Cern </td>
-		<td>No Twitter Username</td>
-		<td>Geneva</td>
-		<td>1000</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
-			<a href="https://github.com/mukel">
-				<img src="https://avatars.githubusercontent.com/u/1896283?s=72&u=7e0ee2c2d08108c3fd8b86f25c2bd143538ae0ae&v=4" width="24" alt="Avatar of mukel"> mukel
-			</a><br/>
-			Alfonso² Peterssen
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/TheMukel">TheMukel</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>975</td>
-	</tr>
-	<tr>
-		<td>145</td>
-		<td>
-			<a href="https://github.com/thomasgalliker">
-				<img src="https://avatars.githubusercontent.com/u/10376364?s=72&u=3ba1946be053d2499108c5eb58cb78221ff16b06&v=4" width="24" alt="Avatar of thomasgalliker"> thomasgalliker
-			</a><br/>
-			Thomas Galliker
-		</td>
-		<td>Superdev Gmbh </td>
-		<td>No Twitter Username</td>
-		<td>Cham, Switzerland</td>
-		<td>964</td>
-	</tr>
-	<tr>
-		<td>146</td>
-		<td>
-			<a href="https://github.com/adriaanm">
-				<img src="https://avatars.githubusercontent.com/u/91083?s=72&u=400b83ef4f7ac9849888495a3c50a4bbc1f060cc&v=4" width="24" alt="Avatar of adriaanm"> adriaanm
-			</a><br/>
-			Adriaan Moors
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lausanne</td>
-		<td>963</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
-			<a href="https://github.com/topaxi">
-				<img src="https://avatars.githubusercontent.com/u/213788?s=72&u=d0ecc4614df5fc2f078c6ebe5cd99c345e3d7d39&v=4" width="24" alt="Avatar of topaxi"> topaxi
-			</a><br/>
-			Damian Senn
-		</td>
-		<td>@ti8m </td>
-		<td><a href="https://twitter.com/topaxi">topaxi</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>960</td>
-	</tr>
-	<tr>
-		<td>148</td>
-		<td>
-			<a href="https://github.com/davidmorgan">
-				<img src="https://avatars.githubusercontent.com/u/5536920?s=72&u=210342fc14700d385b0c2c6735008510ebcfc96d&v=4" width="24" alt="Avatar of davidmorgan"> davidmorgan
-			</a><br/>
-			Morgan :)
-		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>955</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
-			<a href="https://github.com/tomrussobuilds">
-				<img src="https://avatars.githubusercontent.com/u/228353887?s=72&v=4" width="24" alt="Avatar of tomrussobuilds"> tomrussobuilds
-			</a><br/>
-			Tommaso Russo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lugano, Switzerland</td>
-		<td>951</td>
-	</tr>
-	<tr>
-		<td>150</td>
-		<td>
-			<a href="https://github.com/ia0">
-				<img src="https://avatars.githubusercontent.com/u/969295?s=72&u=4ef46340cc6a5d9bd458a8b18bac630d165486f6&v=4" width="24" alt="Avatar of ia0"> ia0
-			</a><br/>
-			Julien Cretin
-		</td>
-		<td>@google  </td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>950</td>
-	</tr>
-	<tr>
-		<td>151</td>
-		<td>
-			<a href="https://github.com/adamralph">
-				<img src="https://avatars.githubusercontent.com/u/677704?s=72&u=e53b32844f4f19c28e853bb0424f3d9ebf102d8d&v=4" width="24" alt="Avatar of adamralph"> adamralph
-			</a><br/>
-			Adam Ralph
-		</td>
-		<td>@duendesoftware </td>
-		<td><a href="https://twitter.com/adamralph">adamralph</a></td>
-		<td>Switzerland</td>
-		<td>943</td>
-	</tr>
-	<tr>
-		<td>152</td>
-		<td>
-			<a href="https://github.com/pavolloffay">
-				<img src="https://avatars.githubusercontent.com/u/5618424?s=72&u=9a7177cd549704a44436742ba74deee1e58075d9&v=4" width="24" alt="Avatar of pavolloffay"> pavolloffay
-			</a><br/>
-			Pavol Loffay
-		</td>
-		<td>Red Hat </td>
-		<td><a href="https://twitter.com/ploffay">ploffay</a></td>
-		<td>Switzerland</td>
-		<td>931</td>
-	</tr>
-	<tr>
-		<td>153</td>
-		<td>
-			<a href="https://github.com/RicoSuter">
-				<img src="https://avatars.githubusercontent.com/u/2603405?s=72&u=eaf8de2141873385ae3d6c2cefb7afefabd8c78d&v=4" width="24" alt="Avatar of RicoSuter"> RicoSuter
-			</a><br/>
-			Rico Suter
-		</td>
-		<td>Independent Software Engineer </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>912</td>
-	</tr>
-	<tr>
-		<td>154</td>
-		<td>
-			<a href="https://github.com/daniel149afonso">
-				<img src="https://avatars.githubusercontent.com/u/182422760?s=72&u=05c59c06d25cb611a75b4ec51d082d4f72c78020&v=4" width="24" alt="Avatar of daniel149afonso"> daniel149afonso
-			</a><br/>
-			Daniel
-		</td>
-		<td>42lausanne </td>
-		<td>No Twitter Username</td>
-		<td>Geneva, Switzerland</td>
-		<td>910</td>
-	</tr>
-	<tr>
-		<td>155</td>
-		<td>
-			<a href="https://github.com/vemonet">
-				<img src="https://avatars.githubusercontent.com/u/3778439?s=72&u=548e6f6a4c4885fb91658391bbda9604f81b96a7&v=4" width="24" alt="Avatar of vemonet"> vemonet
-			</a><br/>
-			Vincent Emonet
-		</td>
-		<td>@sib-swiss </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>902</td>
-	</tr>
-	<tr>
-		<td>156</td>
-		<td>
-			<a href="https://github.com/nroduit">
-				<img src="https://avatars.githubusercontent.com/u/993975?s=72&v=4" width="24" alt="Avatar of nroduit"> nroduit
-			</a><br/>
-			Nicolas Roduit
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Geneva</td>
-		<td>898</td>
-	</tr>
-	<tr>
-		<td>157</td>
-		<td>
-			<a href="https://github.com/aalmiray">
-				<img src="https://avatars.githubusercontent.com/u/13969?s=72&u=6a649c057ec7a4fb3acbd57899cc03c5f7c46819&v=4" width="24" alt="Avatar of aalmiray"> aalmiray
-			</a><br/>
-			Andres Almiray
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/aalmiray">aalmiray</a></td>
-		<td>Basel, Switzerland</td>
-		<td>894</td>
-	</tr>
-	<tr>
-		<td>158</td>
-		<td>
-			<a href="https://github.com/lewtun">
-				<img src="https://avatars.githubusercontent.com/u/26859204?s=72&u=ca50a1595bbb6ace36c3adb39c40e186265184d3&v=4" width="24" alt="Avatar of lewtun"> lewtun
-			</a><br/>
-			No Name
-		</td>
-		<td>@huggingface </td>
-		<td><a href="https://twitter.com/_lewtun">_lewtun</a></td>
-		<td>Bern, Switzerland</td>
-		<td>889</td>
-	</tr>
-	<tr>
-		<td>159</td>
-		<td>
-			<a href="https://github.com/s3inlc">
-				<img src="https://avatars.githubusercontent.com/u/1167295?s=72&u=4c9772001541ab06a147e77c9194cb869b8e431e&v=4" width="24" alt="Avatar of s3inlc"> s3inlc
-			</a><br/>
-			Sein Coray
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/s3inlc">s3inlc</a></td>
-		<td>Switzerland</td>
-		<td>878</td>
-	</tr>
-	<tr>
-		<td>160</td>
-		<td>
-			<a href="https://github.com/dominikkoenitzer">
-				<img src="https://avatars.githubusercontent.com/u/82450286?s=72&u=5e62d2be42a8e9e47e241bf46e24a32db114208f&v=4" width="24" alt="Avatar of dominikkoenitzer"> dominikkoenitzer
-			</a><br/>
-			Punds
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>878</td>
-	</tr>
-	<tr>
-		<td>161</td>
-		<td>
-			<a href="https://github.com/Seldaek">
-				<img src="https://avatars.githubusercontent.com/u/183678?s=72&v=4" width="24" alt="Avatar of Seldaek"> Seldaek
-			</a><br/>
-			Jordi Boggiano
-		</td>
-		<td>Packagist </td>
-		<td><a href="https://twitter.com/seldaek">seldaek</a></td>
-		<td>Zürich, Zurich, Switzerland</td>
-		<td>876</td>
-	</tr>
-	<tr>
-		<td>162</td>
-		<td>
-			<a href="https://github.com/B1ueber2y">
-				<img src="https://avatars.githubusercontent.com/u/27623481?s=72&u=9e69174620a8db6adb1a2af549c7635621ddbefa&v=4" width="24" alt="Avatar of B1ueber2y"> B1ueber2y
-			</a><br/>
-			Shaohui Liu
-		</td>
-		<td>No Company</td>
+		<td>@rekursiv-ai   </td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>873</td>
+		<td>2144</td>
 	</tr>
 	<tr>
-		<td>163</td>
-		<td>
-			<a href="https://github.com/benruijl">
-				<img src="https://avatars.githubusercontent.com/u/280089?s=72&u=75c5a86b8c62d87c44ad9172f6bada2d387416a1&v=4" width="24" alt="Avatar of benruijl"> benruijl
-			</a><br/>
-			Ben Ruijl
-		</td>
-		<td>Ruijl Research </td>
-		<td>No Twitter Username</td>
-		<td>Zug, Switzerland</td>
-		<td>863</td>
-	</tr>
-	<tr>
-		<td>164</td>
-		<td>
-			<a href="https://github.com/romac">
-				<img src="https://avatars.githubusercontent.com/u/106849?s=72&u=84677ec154fec9e4d04200cd0187e04693adc4c7&v=4" width="24" alt="Avatar of romac"> romac
-			</a><br/>
-			Romain Ruetschi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>857</td>
-	</tr>
-	<tr>
-		<td>165</td>
-		<td>
-			<a href="https://github.com/raphink">
-				<img src="https://avatars.githubusercontent.com/u/650430?s=72&u=edf01c5250adfd9028b9879fc069c213cfb1d6d6&v=4" width="24" alt="Avatar of raphink"> raphink
-			</a><br/>
-			Raphaël Pinson
-		</td>
-		<td>@isovalent </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>853</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/defagos">
-				<img src="https://avatars.githubusercontent.com/u/170201?s=72&v=4" width="24" alt="Avatar of defagos"> defagos
-			</a><br/>
-			Samuel Défago
-		</td>
-		<td>Rts Radio Télévision Suisse<br/>/<br/>Srg<br/>Ssr<br/></td>
-		<td><a href="https://twitter.com/defagos">defagos</a></td>
-		<td>Geneva (Switzerland)</td>
-		<td>848</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/macmade">
-				<img src="https://avatars.githubusercontent.com/u/146476?s=72&u=9e54d2c3ed0cd586a7ebb020c8e57c6ad4c5f86c&v=4" width="24" alt="Avatar of macmade"> macmade
-			</a><br/>
-			JD Gadina
-		</td>
-		<td>Xs-labs </td>
-		<td><a href="https://twitter.com/macmade">macmade</a></td>
-		<td>Switzerland</td>
-		<td>833</td>
-	</tr>
-	<tr>
-		<td>168</td>
-		<td>
-			<a href="https://github.com/stapelberg">
-				<img src="https://avatars.githubusercontent.com/u/55506?s=72&u=d76452e75774c895a975e588cf2b830b32b61020&v=4" width="24" alt="Avatar of stapelberg"> stapelberg
-			</a><br/>
-			Michael Stapelberg
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>823</td>
-	</tr>
-	<tr>
-		<td>169</td>
-		<td>
-			<a href="https://github.com/mantoni">
-				<img src="https://avatars.githubusercontent.com/u/332271?s=72&u=45ee8bd6a11d2c82321319eeefdebce7ee748279&v=4" width="24" alt="Avatar of mantoni"> mantoni
-			</a><br/>
-			Maximilian Antoni
-		</td>
-		<td>@javascript-studio @yourbarmate  </td>
-		<td><a href="https://twitter.com/mantoni">mantoni</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>823</td>
-	</tr>
-	<tr>
-		<td>170</td>
-		<td>
-			<a href="https://github.com/c22dev">
-				<img src="https://avatars.githubusercontent.com/u/102235607?s=72&u=9966ef669c99faf88caf7b66faf283dd3639549b&v=4" width="24" alt="Avatar of c22dev"> c22dev
-			</a><br/>
-			c22dev
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/c22_dev">c22_dev</a></td>
-		<td>Switzerland</td>
-		<td>822</td>
-	</tr>
-	<tr>
-		<td>171</td>
-		<td>
-			<a href="https://github.com/ganqqwerty">
-				<img src="https://avatars.githubusercontent.com/u/697308?s=72&u=115485290603d1e3072f2426a5609fa6831512c0&v=4" width="24" alt="Avatar of ganqqwerty"> ganqqwerty
-			</a><br/>
-			Yuri Katkov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>814</td>
-	</tr>
-	<tr>
-		<td>172</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/romshark">
-				<img src="https://avatars.githubusercontent.com/u/9574743?s=72&u=524e99d7a782a014039017eca07c9f96b4a7a357&v=4" width="24" alt="Avatar of romshark"> romshark
-			</a><br/>
+				<img src="https://avatars.githubusercontent.com/u/9574743?s=72&u=a0dd9445be4c66214954923d876269039dad36f0&v=4" width="24" alt="Avatar of romshark"> romshark
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#romshark">Copy rank badge</a><br/>
 			Roman Sharkov
 		</td>
 		<td>Scion Association </td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>812</td>
+		<td>2138</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>84</td>
 		<td>
-			<a href="https://github.com/attilaolah">
-				<img src="https://avatars.githubusercontent.com/u/196617?s=72&v=4" width="24" alt="Avatar of attilaolah"> attilaolah
-			</a><br/>
-			Attila Oláh
+			<a href="https://github.com/simasch">
+				<img src="https://avatars.githubusercontent.com/u/593352?s=72&u=fae30ed907d13089cd272eec309586b58dd69a52&v=4" width="24" alt="Avatar of simasch"> simasch
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#simasch">Copy rank badge</a><br/>
+			Simon Martinelli
 		</td>
-		<td>Netstal Machinen </td>
-		<td><a href="https://twitter.com/attilaolah">attilaolah</a></td>
-		<td>GL, Switzerland</td>
-		<td>808</td>
+		<td>@martinellich </td>
+		<td><a href="https://twitter.com/simas_ch">simas_ch</a></td>
+		<td>Erlach, Switzerland</td>
+		<td>2106</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>85</td>
 		<td>
-			<a href="https://github.com/bittner">
-				<img src="https://avatars.githubusercontent.com/u/665072?s=72&v=4" width="24" alt="Avatar of bittner"> bittner
-			</a><br/>
-			Peter Bittner
+			<a href="https://github.com/adamant-pwn">
+				<img src="https://avatars.githubusercontent.com/u/14077831?s=72&u=9b1187f6cc05fe6fc22ab0ef060e41b855d47293&v=4" width="24" alt="Avatar of adamant-pwn"> adamant-pwn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#adamant-pwn">Copy rank badge</a><br/>
+			Oleksandr Kulkov
 		</td>
-		<td>@painless-software  </td>
-		<td><a href="https://twitter.com/peterbittner">peterbittner</a></td>
-		<td>Kreuzlingen, Switzerland</td>
-		<td>803</td>
-	</tr>
-	<tr>
-		<td>175</td>
-		<td>
-			<a href="https://github.com/abey79">
-				<img src="https://avatars.githubusercontent.com/u/49431240?s=72&u=5148fbf93b4a75ca6a783142ed771506a6cdf051&v=4" width="24" alt="Avatar of abey79"> abey79
-			</a><br/>
-			Antoine Beyeler
-		</td>
-		<td>@rerun-io </td>
+		<td>Eth Zürich </td>
 		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>798</td>
+		<td>Zürich</td>
+		<td>2105</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>86</td>
 		<td>
-			<a href="https://github.com/Andre601">
-				<img src="https://avatars.githubusercontent.com/u/11576465?s=72&u=b608c1e5d40b7bb195c1a06c77d837799a8c9c05&v=4" width="24" alt="Avatar of Andre601"> Andre601
-			</a><br/>
-			Andre_601
+			<a href="https://github.com/basvandijk">
+				<img src="https://avatars.githubusercontent.com/u/576355?s=72&u=146c497454faa6a20e8146f867bfdae2e6028829&v=4" width="24" alt="Avatar of basvandijk"> basvandijk
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#basvandijk">Copy rank badge</a><br/>
+			Bas van Dijk
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>798</td>
-	</tr>
-	<tr>
-		<td>177</td>
-		<td>
-			<a href="https://github.com/infinisil">
-				<img src="https://avatars.githubusercontent.com/u/20525370?s=72&u=d7c703d1d8974c5837ca617d54e4a1ff85eb7721&v=4" width="24" alt="Avatar of infinisil"> infinisil
-			</a><br/>
-			Silvan Mosberger
-		</td>
-		<td>Hexagon Robotics </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>796</td>
-	</tr>
-	<tr>
-		<td>178</td>
-		<td>
-			<a href="https://github.com/loleg">
-				<img src="https://avatars.githubusercontent.com/u/31819?s=72&u=ba93c8c34f26362c98c226aff1d9b997089059e0&v=4" width="24" alt="Avatar of loleg"> loleg
-			</a><br/>
-			Oleg Lavrovsky
-		</td>
-		<td>Epfl - Snai </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>789</td>
-	</tr>
-	<tr>
-		<td>179</td>
-		<td>
-			<a href="https://github.com/Noratrieb">
-				<img src="https://avatars.githubusercontent.com/u/48135649?s=72&u=f47185e959d8ac7ec628af62c40ed782e9d6485b&v=4" width="24" alt="Avatar of Noratrieb"> Noratrieb
-			</a><br/>
-			nora
-		</td>
-		<td>Axa Switzerland </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>776</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
-			<a href="https://github.com/davidgiven">
-				<img src="https://avatars.githubusercontent.com/u/100638?s=72&u=aef8aa31dc31e30488a954ec1152045088451b34&v=4" width="24" alt="Avatar of davidgiven"> davidgiven
-			</a><br/>
-			David Given
-		</td>
-		<td>No Company</td>
+		<td>Dfinity </td>
 		<td>No Twitter Username</td>
 		<td>Zürich, Switzerland</td>
-		<td>775</td>
+		<td>2063</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>87</td>
 		<td>
-			<a href="https://github.com/jeremytammik">
-				<img src="https://avatars.githubusercontent.com/u/4264589?s=72&u=0661b68db0b6bf3d58b41788b3df1e81a3171659&v=4" width="24" alt="Avatar of jeremytammik"> jeremytammik
-			</a><br/>
-			Jeremy Tammik
-		</td>
-		<td>Autodesk </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>764</td>
-	</tr>
-	<tr>
-		<td>182</td>
-		<td>
-			<a href="https://github.com/RMeli">
-				<img src="https://avatars.githubusercontent.com/u/11348981?s=72&u=9aa6fa4f12cd4140509e9b25b6c78853fef089be&v=4" width="24" alt="Avatar of RMeli"> RMeli
-			</a><br/>
-			Rocco Meli
-		</td>
-		<td>@eth-cscs </td>
-		<td><a href="https://twitter.com/roccomeli">roccomeli</a></td>
-		<td>Lugano, Switzerland</td>
-		<td>762</td>
-	</tr>
-	<tr>
-		<td>183</td>
-		<td>
-			<a href="https://github.com/PhilippSalvisberg">
-				<img src="https://avatars.githubusercontent.com/u/3883171?s=72&u=effaa5f8d65022d5c41c4c7e8dc6d1099b579efd&v=4" width="24" alt="Avatar of PhilippSalvisberg"> PhilippSalvisberg
-			</a><br/>
-			Philipp Salvisberg
-		</td>
-		<td>@grisselbav  </td>
-		<td><a href="https://twitter.com/phsalvisberg">phsalvisberg</a></td>
-		<td>Winterthur, Switzerland</td>
-		<td>762</td>
-	</tr>
-	<tr>
-		<td>184</td>
-		<td>
-			<a href="https://github.com/filipw">
-				<img src="https://avatars.githubusercontent.com/u/1710369?s=72&u=e2531da60e171fad339200cccd87300dcac64163&v=4" width="24" alt="Avatar of filipw"> filipw
-			</a><br/>
-			Filip W
+			<a href="https://github.com/matthiask">
+				<img src="https://avatars.githubusercontent.com/u/2627?s=72&u=857d87abc02f3fbd60c5dd37bb7a4cf7f86d8aa8&v=4" width="24" alt="Avatar of matthiask"> matthiask
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#matthiask">Copy rank badge</a><br/>
+			Matthias Kestenholz
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>758</td>
+		<td>2052</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>88</td>
 		<td>
-			<a href="https://github.com/qnikst">
-				<img src="https://avatars.githubusercontent.com/u/170227?s=72&v=4" width="24" alt="Avatar of qnikst"> qnikst
-			</a><br/>
-			Alexander Vershilov
+			<a href="https://github.com/davidhalter">
+				<img src="https://avatars.githubusercontent.com/u/748594?s=72&v=4" width="24" alt="Avatar of davidhalter"> davidhalter
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#davidhalter">Copy rank badge</a><br/>
+			Dave Halter
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/qnikst">qnikst</a></td>
-		<td>Lausanne, Switzerland </td>
-		<td>744</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1989</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>89</td>
+		<td>
+			<a href="https://github.com/Malix-Labs">
+				<img src="https://avatars.githubusercontent.com/u/76160668?s=72&u=4f73d8f4bdca70e6076c6e73b63230eb82fd2c4e&v=4" width="24" alt="Avatar of Malix-Labs"> Malix-Labs
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Malix-Labs">Copy rank badge</a><br/>
+			Malix - Alix Brunet
+		</td>
+		<td>Malix Gmbh </td>
+		<td><a href="https://twitter.com/Malix_Labs">Malix_Labs</a></td>
+		<td>🇫🇷 Paris / Geneva 🇨🇭</td>
+		<td>1973</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>
+			<a href="https://github.com/gschmutz">
+				<img src="https://avatars.githubusercontent.com/u/3357942?s=72&v=4" width="24" alt="Avatar of gschmutz"> gschmutz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#gschmutz">Copy rank badge</a><br/>
+			Guido Schmutz
+		</td>
+		<td>Accenture </td>
+		<td><a href="https://twitter.com/gschmutz">gschmutz</a></td>
+		<td>Berne, Switzerland</td>
+		<td>1971</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
+			<a href="https://github.com/wjakob">
+				<img src="https://avatars.githubusercontent.com/u/1203629?s=72&u=42d816bc7194889b0372881656b4792c536fff69&v=4" width="24" alt="Avatar of wjakob"> wjakob
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#wjakob">Copy rank badge</a><br/>
+			Wenzel Jakob
+		</td>
+		<td>Epfl </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>1964</td>
+	</tr>
+	<tr>
+		<td>92</td>
+		<td>
+			<a href="https://github.com/kode4food">
+				<img src="https://avatars.githubusercontent.com/u/69445?s=72&u=c682ec8af2c0d9dfc977e8c8dcd7ba5b42f51f6f&v=4" width="24" alt="Avatar of kode4food"> kode4food
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#kode4food">Copy rank badge</a><br/>
+			Thomas Bradford
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>1958</td>
+	</tr>
+	<tr>
+		<td>93</td>
+		<td>
+			<a href="https://github.com/sspaeti">
+				<img src="https://avatars.githubusercontent.com/u/689199?s=72&v=4" width="24" alt="Avatar of sspaeti"> sspaeti
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#sspaeti">Copy rank badge</a><br/>
+			Simon Späti
+		</td>
+		<td>@ssp-data </td>
+		<td><a href="https://twitter.com/sspaeti">sspaeti</a></td>
+		<td>Switzerland</td>
+		<td>1914</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
+			<a href="https://github.com/0PandaDEV">
+				<img src="https://avatars.githubusercontent.com/u/70103896?s=72&u=19768da42575fd954e0c8259d2357e9e743b3a69&v=4" width="24" alt="Avatar of 0PandaDEV"> 0PandaDEV
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#0PandaDEV">Copy rank badge</a><br/>
+			PandaDEV
+		</td>
+		<td>@epilogueteam  </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Swizerland</td>
+		<td>1902</td>
+	</tr>
+	<tr>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/lsmith77">
 				<img src="https://avatars.githubusercontent.com/u/300279?s=72&v=4" width="24" alt="Avatar of lsmith77"> lsmith77
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#lsmith77">Copy rank badge</a><br/>
 			Lukas Kahwe Smith
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>737</td>
+		<td>1897</td>
+	</tr>
+	<tr>
+		<td>96</td>
+		<td>
+			<a href="https://github.com/bartoszmajsak">
+				<img src="https://avatars.githubusercontent.com/u/719616?s=72&u=fd7f457e40fc5fb642c1f727b66138cb36177e1a&v=4" width="24" alt="Avatar of bartoszmajsak"> bartoszmajsak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#bartoszmajsak">Copy rank badge</a><br/>
+			Bartosz Majsak
+		</td>
+		<td>Red Hat Inc. </td>
+		<td><a href="https://twitter.com/majson">majson</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>1888</td>
+	</tr>
+	<tr>
+		<td>97</td>
+		<td>
+			<a href="https://github.com/freezy">
+				<img src="https://avatars.githubusercontent.com/u/70426?s=72&v=4" width="24" alt="Avatar of freezy"> freezy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#freezy">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>1887</td>
+	</tr>
+	<tr>
+		<td>98</td>
+		<td>
+			<a href="https://github.com/benruijl">
+				<img src="https://avatars.githubusercontent.com/u/280089?s=72&u=75c5a86b8c62d87c44ad9172f6bada2d387416a1&v=4" width="24" alt="Avatar of benruijl"> benruijl
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#benruijl">Copy rank badge</a><br/>
+			Ben Ruijl
+		</td>
+		<td>Ruijl Research </td>
+		<td>No Twitter Username</td>
+		<td>Zug, Switzerland</td>
+		<td>1875</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>
+			<a href="https://github.com/aknuds1">
+				<img src="https://avatars.githubusercontent.com/u/281303?s=72&v=4" width="24" alt="Avatar of aknuds1"> aknuds1
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#aknuds1">Copy rank badge</a><br/>
+			Arve Knudsen
+		</td>
+		<td>@grafana </td>
+		<td>No Twitter Username</td>
+		<td>Lachen, Switzerland</td>
+		<td>1861</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>
+			<a href="https://github.com/kdubois">
+				<img src="https://avatars.githubusercontent.com/u/373537?s=72&u=70a833e0c8dd8a1c42022473c6e8b7eba01fb3f3&v=4" width="24" alt="Avatar of kdubois"> kdubois
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#kdubois">Copy rank badge</a><br/>
+			Kevin Dubois
+		</td>
+		<td>Ibm </td>
+		<td>No Twitter Username</td>
+		<td>Valais, Switzerland</td>
+		<td>1853</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
+			<a href="https://github.com/corneliusroemer">
+				<img src="https://avatars.githubusercontent.com/u/25161793?s=72&u=65e2a148a3cb8720de96415b45d9ddd54370fc7b&v=4" width="24" alt="Avatar of corneliusroemer"> corneliusroemer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#corneliusroemer">Copy rank badge</a><br/>
+			Cornelius Roemer
+		</td>
+		<td>@neherlab @nextstrain  </td>
+		<td><a href="https://twitter.com/CorneliusRoemer">CorneliusRoemer</a></td>
+		<td>Switzerland</td>
+		<td>1827</td>
+	</tr>
+	<tr>
+		<td>102</td>
+		<td>
+			<a href="https://github.com/nicotsx">
+				<img src="https://avatars.githubusercontent.com/u/47644445?s=72&u=7df62ac26a4aea30c143c51f0d5f0107933d8cc8&v=4" width="24" alt="Avatar of nicotsx"> nicotsx
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nicotsx">Copy rank badge</a><br/>
+			Nico
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1823</td>
+	</tr>
+	<tr>
+		<td>103</td>
+		<td>
+			<a href="https://github.com/dbaeumer">
+				<img src="https://avatars.githubusercontent.com/u/1931590?s=72&u=42e6e26369606542d3f3d86805b09bcc1de45bcc&v=4" width="24" alt="Avatar of dbaeumer"> dbaeumer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dbaeumer">Copy rank badge</a><br/>
+			Dirk Bäumer
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1822</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
+			<a href="https://github.com/davidgiven">
+				<img src="https://avatars.githubusercontent.com/u/100638?s=72&u=aef8aa31dc31e30488a954ec1152045088451b34&v=4" width="24" alt="Avatar of davidgiven"> davidgiven
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#davidgiven">Copy rank badge</a><br/>
+			David Given
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>1814</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>
+			<a href="https://github.com/janhohenheim">
+				<img src="https://avatars.githubusercontent.com/u/9047632?s=72&u=aa8398d96dc1c9e590d18dec4d903ec9d54bcdf4&v=4" width="24" alt="Avatar of janhohenheim"> janhohenheim
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#janhohenheim">Copy rank badge</a><br/>
+			Jan Hohenheim
+		</td>
+		<td>Institute Of Neuroinformatics, Uzh<br/>/<br/>Eth<br/>Zurich<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>1801</td>
+	</tr>
+	<tr>
+		<td>106</td>
+		<td>
+			<a href="https://github.com/mmagician">
+				<img src="https://avatars.githubusercontent.com/u/8402446?s=72&u=9ff07c90cc49ab6139a7d2b0aeaa4f6aba94d940&v=4" width="24" alt="Avatar of mmagician"> mmagician
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mmagician">Copy rank badge</a><br/>
+			Marti
+		</td>
+		<td>@0xmiden </td>
+		<td><a href="https://twitter.com/mmagician">mmagician</a></td>
+		<td>Switzerland</td>
+		<td>1740</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td>
+			<a href="https://github.com/vorburger">
+				<img src="https://avatars.githubusercontent.com/u/298598?s=72&v=4" width="24" alt="Avatar of vorburger"> vorburger
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#vorburger">Copy rank badge</a><br/>
+			Michael Vorburger
+		</td>
+		<td>@google </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1729</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/pat-s">
+				<img src="https://avatars.githubusercontent.com/u/8430564?s=72&u=ca18dea8eda7c5f02b5a94f6242c91ead54d4e83&v=4" width="24" alt="Avatar of pat-s"> pat-s
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pat-s">Copy rank badge</a><br/>
+			Patrick Schratz
+		</td>
+		<td>Devxy </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1720</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td>
+			<a href="https://github.com/Godin">
+				<img src="https://avatars.githubusercontent.com/u/138671?s=72&u=60971b1c25cb2ba9026e296d4a64154c277215d6&v=4" width="24" alt="Avatar of Godin"> Godin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Godin">Copy rank badge</a><br/>
+			Evgeny Mandrikov
+		</td>
+		<td>@sonarsource </td>
+		<td><a href="https://twitter.com/_Godin_">_Godin_</a></td>
+		<td>Geneva, Switzerland</td>
+		<td>1698</td>
+	</tr>
+	<tr>
+		<td>110</td>
+		<td>
+			<a href="https://github.com/thibaudgg">
+				<img src="https://avatars.githubusercontent.com/u/1322?s=72&v=4" width="24" alt="Avatar of thibaudgg"> thibaudgg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#thibaudgg">Copy rank badge</a><br/>
+			Thibaud Guillaume-Gentil
+		</td>
+		<td>Gatemedia </td>
+		<td><a href="https://twitter.com/thibaudgg">thibaudgg</a></td>
+		<td>Switzerland</td>
+		<td>1682</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
+			<a href="https://github.com/renggli">
+				<img src="https://avatars.githubusercontent.com/u/131610?s=72&v=4" width="24" alt="Avatar of renggli"> renggli
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#renggli">Copy rank badge</a><br/>
+			Lukas Renggli
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>1665</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td>
+			<a href="https://github.com/dolfim-ibm">
+				<img src="https://avatars.githubusercontent.com/u/97102151?s=72&u=d06bc719516d192834a6d0f5f2f097eaf8db17ef&v=4" width="24" alt="Avatar of dolfim-ibm"> dolfim-ibm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dolfim-ibm">Copy rank badge</a><br/>
+			Michele Dolfi
+		</td>
+		<td>Ibm Research </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>1647</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
+			<a href="https://github.com/Greenheart">
+				<img src="https://avatars.githubusercontent.com/u/6125097?s=72&u=5ee17c67f8b62a5a1b54678759e67cedc5505f86&v=4" width="24" alt="Avatar of Greenheart"> Greenheart
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Greenheart">Copy rank badge</a><br/>
+			Samuel Plumppu
+		</td>
+		<td>@greenheart-coop </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>1617</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td>
+			<a href="https://github.com/macmade">
+				<img src="https://avatars.githubusercontent.com/u/146476?s=72&u=0f5e2cacf07aa319b69a591e616a24d1a9d91fa5&v=4" width="24" alt="Avatar of macmade"> macmade
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#macmade">Copy rank badge</a><br/>
+			JD Gadina
+		</td>
+		<td>Xs-labs </td>
+		<td><a href="https://twitter.com/macmade">macmade</a></td>
+		<td>Switzerland</td>
+		<td>1600</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
+			<a href="https://github.com/Toflar">
+				<img src="https://avatars.githubusercontent.com/u/481937?s=72&u=3886e93271c74ede59be7eb2db4d4b0ecc02ff3c&v=4" width="24" alt="Avatar of Toflar"> Toflar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Toflar">Copy rank badge</a><br/>
+			Yanick Witschi
+		</td>
+		<td>Terminal42 Gmbh </td>
+		<td><a href="https://twitter.com/toflar">toflar</a></td>
+		<td>Switzerland</td>
+		<td>1548</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td>
+			<a href="https://github.com/FujiwaraChoki">
+				<img src="https://avatars.githubusercontent.com/u/78088687?s=72&u=a8365eefd9eb056784b1f4064e10c114b7f69968&v=4" width="24" alt="Avatar of FujiwaraChoki"> FujiwaraChoki
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#FujiwaraChoki">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>1521</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>
+			<a href="https://github.com/jrieken">
+				<img src="https://avatars.githubusercontent.com/u/1794099?s=72&u=fd4a2d1f49f071ea5b9c3e9097fb9e36218b15af&v=4" width="24" alt="Avatar of jrieken"> jrieken
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jrieken">Copy rank badge</a><br/>
+			Johannes Rieken
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1521</td>
+	</tr>
+	<tr>
+		<td>118</td>
+		<td>
+			<a href="https://github.com/aschempp">
+				<img src="https://avatars.githubusercontent.com/u/1073273?s=72&u=88295fc0b83ac52948d8875981f31a6485858694&v=4" width="24" alt="Avatar of aschempp"> aschempp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#aschempp">Copy rank badge</a><br/>
+			Andreas Schempp
+		</td>
+		<td>@terminal42  </td>
+		<td><a href="https://twitter.com/andyschempp">andyschempp</a></td>
+		<td>Lyss, Switzerland</td>
+		<td>1518</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
+			<a href="https://github.com/wcandillon">
+				<img src="https://avatars.githubusercontent.com/u/306134?s=72&v=4" width="24" alt="Avatar of wcandillon"> wcandillon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#wcandillon">Copy rank badge</a><br/>
+			William Candillon
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/wcandillon">wcandillon</a></td>
+		<td>Zürich</td>
+		<td>1508</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>
+			<a href="https://github.com/Vad1mo">
+				<img src="https://avatars.githubusercontent.com/u/1492007?s=72&u=26d1efac60204c19d54acdc1328718e5ef78003c&v=4" width="24" alt="Avatar of Vad1mo"> Vad1mo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Vad1mo">Copy rank badge</a><br/>
+			Vadim Bauer
+		</td>
+		<td>@container-registry  </td>
+		<td><a href="https://twitter.com/vad1mo">vad1mo</a></td>
+		<td>Zürich</td>
+		<td>1502</td>
+	</tr>
+	<tr>
+		<td>121</td>
+		<td>
+			<a href="https://github.com/bchapuis">
+				<img src="https://avatars.githubusercontent.com/u/238747?s=72&u=9e49f522ae5272f1b3671488a27de2aebe28be96&v=4" width="24" alt="Avatar of bchapuis"> bchapuis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#bchapuis">Copy rank badge</a><br/>
+			Bertil Chapuis
+		</td>
+		<td>Heig-vd </td>
+		<td><a href="https://twitter.com/bchapuis">bchapuis</a></td>
+		<td>Lausanne, Switzerland</td>
+		<td>1493</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>
+			<a href="https://github.com/RicoSuter">
+				<img src="https://avatars.githubusercontent.com/u/2603405?s=72&u=eaf8de2141873385ae3d6c2cefb7afefabd8c78d&v=4" width="24" alt="Avatar of RicoSuter"> RicoSuter
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#RicoSuter">Copy rank badge</a><br/>
+			Rico Suter
+		</td>
+		<td>Independent Software Engineer </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1484</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>
+			<a href="https://github.com/cakebaker">
+				<img src="https://avatars.githubusercontent.com/u/26196?s=72&v=4" width="24" alt="Avatar of cakebaker"> cakebaker
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#cakebaker">Copy rank badge</a><br/>
+			Daniel Hofstetter
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1483</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>
+			<a href="https://github.com/cloudlena">
+				<img src="https://avatars.githubusercontent.com/u/6780471?s=72&u=9d1c457f2f98ad0b39d4683e14424c78cddb887d&v=4" width="24" alt="Avatar of cloudlena"> cloudlena
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#cloudlena">Copy rank badge</a><br/>
+			Lena Fuhrimann
+		</td>
+		<td>@bespinian   </td>
+		<td>No Twitter Username</td>
+		<td>Bern, Switzerland</td>
+		<td>1471</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
+			<a href="https://github.com/targos">
+				<img src="https://avatars.githubusercontent.com/u/2352663?s=72&u=6d0db159fb863f7648118acf92b7960701228bf9&v=4" width="24" alt="Avatar of targos"> targos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#targos">Copy rank badge</a><br/>
+			Michaël Zasso
+		</td>
+		<td>@zakodium </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1464</td>
+	</tr>
+	<tr>
+		<td>126</td>
+		<td>
+			<a href="https://github.com/joelbarmettlerUZH">
+				<img src="https://avatars.githubusercontent.com/u/24369532?s=72&u=d8b1419a9c6a55bd419afe28bbb5142a56b5fa7c&v=4" width="24" alt="Avatar of joelbarmettlerUZH"> joelbarmettlerUZH
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#joelbarmettlerUZH">Copy rank badge</a><br/>
+			Joel Barmettler
+		</td>
+		<td>Bbv </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>1434</td>
+	</tr>
+	<tr>
+		<td>127</td>
+		<td>
+			<a href="https://github.com/LeiShi1313">
+				<img src="https://avatars.githubusercontent.com/u/3712421?s=72&u=e8e8b1d7be2f7e717630a886a1510db243915dfa&v=4" width="24" alt="Avatar of LeiShi1313"> LeiShi1313
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#LeiShi1313">Copy rank badge</a><br/>
+			Lei Shi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1418</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
+			<a href="https://github.com/CyberTimon">
+				<img src="https://avatars.githubusercontent.com/u/78795905?s=72&u=81a4db1bf45dff336d3fdf4226b8b814a02d811b&v=4" width="24" alt="Avatar of CyberTimon"> CyberTimon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#CyberTimon">Copy rank badge</a><br/>
+			Timon Käch
+		</td>
+		<td>Cybertimon </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1382</td>
+	</tr>
+	<tr>
+		<td>129</td>
+		<td>
+			<a href="https://github.com/joker-eph">
+				<img src="https://avatars.githubusercontent.com/u/3372300?s=72&u=17a732098371c9e2ec0fd87759be79f0ff60d7ab&v=4" width="24" alt="Avatar of joker-eph"> joker-eph
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#joker-eph">Copy rank badge</a><br/>
+			Mehdi Amini
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1353</td>
+	</tr>
+	<tr>
+		<td>130</td>
+		<td>
+			<a href="https://github.com/c22dev">
+				<img src="https://avatars.githubusercontent.com/u/102235607?s=72&u=9966ef669c99faf88caf7b66faf283dd3639549b&v=4" width="24" alt="Avatar of c22dev"> c22dev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#c22dev">Copy rank badge</a><br/>
+			c22dev
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/c22_dev">c22_dev</a></td>
+		<td>Switzerland</td>
+		<td>1346</td>
+	</tr>
+	<tr>
+		<td>131</td>
+		<td>
+			<a href="https://github.com/AnomalRoil">
+				<img src="https://avatars.githubusercontent.com/u/10077203?s=72&u=15a98bac90dcea2779f21ca928263315c324f255&v=4" width="24" alt="Avatar of AnomalRoil"> AnomalRoil
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#AnomalRoil">Copy rank badge</a><br/>
+			AnomalRoil
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/anomalroil">anomalroil</a></td>
+		<td>Switzerland</td>
+		<td>1327</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>
+			<a href="https://github.com/DivadNojnarg">
+				<img src="https://avatars.githubusercontent.com/u/18291543?s=72&u=666bbdb69e00ab153483d33343e1affd6ddb7be9&v=4" width="24" alt="Avatar of DivadNojnarg"> DivadNojnarg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#DivadNojnarg">Copy rank badge</a><br/>
+			David Granjon
+		</td>
+		<td>@cynkra, Zurich </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1308</td>
+	</tr>
+	<tr>
+		<td>133</td>
+		<td>
+			<a href="https://github.com/WerWolv">
+				<img src="https://avatars.githubusercontent.com/u/10835354?s=72&u=df34a21c99e8b5470fb39a106d328372e7abc115&v=4" width="24" alt="Avatar of WerWolv"> WerWolv
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#WerWolv">Copy rank badge</a><br/>
+			Nik
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/WerWolv">WerWolv</a></td>
+		<td>Switzerland</td>
+		<td>1306</td>
+	</tr>
+	<tr>
+		<td>134</td>
+		<td>
+			<a href="https://github.com/ubruhin">
+				<img src="https://avatars.githubusercontent.com/u/5374821?s=72&u=c9c1f2e27e7be0b16d22ad2f3a68eeaef73885b3&v=4" width="24" alt="Avatar of ubruhin"> ubruhin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ubruhin">Copy rank badge</a><br/>
+			U. Bruhin
+		</td>
+		<td>@librepcb </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1294</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
+			<a href="https://github.com/marcantondahmen">
+				<img src="https://avatars.githubusercontent.com/u/8440030?s=72&u=3ef466f1fd16e6915ca554de6bd9740a2f004240&v=4" width="24" alt="Avatar of marcantondahmen"> marcantondahmen
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#marcantondahmen">Copy rank badge</a><br/>
+			Marc Anton Dahmen
+		</td>
+		<td>@automadcms  </td>
+		<td><a href="https://twitter.com/marcantondahmen">marcantondahmen</a></td>
+		<td>Basel, Switzerland</td>
+		<td>1286</td>
+	</tr>
+	<tr>
+		<td>136</td>
+		<td>
+			<a href="https://github.com/s3inlc">
+				<img src="https://avatars.githubusercontent.com/u/1167295?s=72&u=4c9772001541ab06a147e77c9194cb869b8e431e&v=4" width="24" alt="Avatar of s3inlc"> s3inlc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#s3inlc">Copy rank badge</a><br/>
+			Sein Coray
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/s3inlc">s3inlc</a></td>
+		<td>Switzerland</td>
+		<td>1284</td>
+	</tr>
+	<tr>
+		<td>137</td>
+		<td>
+			<a href="https://github.com/m-albert">
+				<img src="https://avatars.githubusercontent.com/u/12528388?s=72&u=de0eb6dff8df7a5b85cad22e0d57fcdf408534d7&v=4" width="24" alt="Avatar of m-albert"> m-albert
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#m-albert">Copy rank badge</a><br/>
+			Marvin Albert
+		</td>
+		<td>Eth Zurich </td>
+		<td><a href="https://twitter.com/_malberto">_malberto</a></td>
+		<td>Basel, Switzerland</td>
+		<td>1282</td>
+	</tr>
+	<tr>
+		<td>138</td>
+		<td>
+			<a href="https://github.com/openscript">
+				<img src="https://avatars.githubusercontent.com/u/1105080?s=72&u=ebda165c92f1f174a7aef1c0defd8a0955b83b01&v=4" width="24" alt="Avatar of openscript"> openscript
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#openscript">Copy rank badge</a><br/>
+			Robin Bühler
+		</td>
+		<td>Openscript Ltd. @openscript-ch <br/></td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>1268</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>
+			<a href="https://github.com/resmo">
+				<img src="https://avatars.githubusercontent.com/u/23809?s=72&u=41e22f5f023649603e075d5d7108fb9048bf9e6a&v=4" width="24" alt="Avatar of resmo"> resmo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#resmo">Copy rank badge</a><br/>
+			René Moser
+		</td>
+		<td>@ngine-io, @moser-systems </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1266</td>
+	</tr>
+	<tr>
+		<td>140</td>
+		<td>
+			<a href="https://github.com/zzamboni">
+				<img src="https://avatars.githubusercontent.com/u/32876?s=72&v=4" width="24" alt="Avatar of zzamboni"> zzamboni
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#zzamboni">Copy rank badge</a><br/>
+			Diego Zamboni
+		</td>
+		<td>Avaloq </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1256</td>
+	</tr>
+	<tr>
+		<td>141</td>
+		<td>
+			<a href="https://github.com/dcharkes">
+				<img src="https://avatars.githubusercontent.com/u/3601775?s=72&u=0530ce5eee2857f30b5960dce516be06d90e39e7&v=4" width="24" alt="Avatar of dcharkes"> dcharkes
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dcharkes">Copy rank badge</a><br/>
+			Daco Harkes
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1251</td>
+	</tr>
+	<tr>
+		<td>142</td>
+		<td>
+			<a href="https://github.com/adamralph">
+				<img src="https://avatars.githubusercontent.com/u/677704?s=72&u=e53b32844f4f19c28e853bb0424f3d9ebf102d8d&v=4" width="24" alt="Avatar of adamralph"> adamralph
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#adamralph">Copy rank badge</a><br/>
+			Adam Ralph
+		</td>
+		<td>@duendesoftware </td>
+		<td><a href="https://twitter.com/adamralph">adamralph</a></td>
+		<td>Switzerland</td>
+		<td>1239</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>
+			<a href="https://github.com/galderz">
+				<img src="https://avatars.githubusercontent.com/u/50187?s=72&u=b9453cf04b11b1e8279b53fb4899761468194b30&v=4" width="24" alt="Avatar of galderz"> galderz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#galderz">Copy rank badge</a><br/>
+			Galder Zamarreño
+		</td>
+		<td>Ibm </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1238</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
+			<a href="https://github.com/HelenaLC">
+				<img src="https://avatars.githubusercontent.com/u/14542264?s=72&u=85c2ac9621166175ce3647dea940faf568de6bb9&v=4" width="24" alt="Avatar of HelenaLC"> HelenaLC
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#HelenaLC">Copy rank badge</a><br/>
+			Helena L. Crowell
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>CHUV/UNIL, Lausanne, Switzerland</td>
+		<td>1228</td>
+	</tr>
+	<tr>
+		<td>145</td>
+		<td>
+			<a href="https://github.com/ilyabo">
+				<img src="https://avatars.githubusercontent.com/u/351828?s=72&u=e681513c0ae3676718cc1bd0b84bdc78932de4da&v=4" width="24" alt="Avatar of ilyabo"> ilyabo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ilyabo">Copy rank badge</a><br/>
+			Ilya Boyandin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Meilen, Switzerland</td>
+		<td>1219</td>
+	</tr>
+	<tr>
+		<td>146</td>
+		<td>
+			<a href="https://github.com/nroduit">
+				<img src="https://avatars.githubusercontent.com/u/993975?s=72&v=4" width="24" alt="Avatar of nroduit"> nroduit
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nroduit">Copy rank badge</a><br/>
+			Nicolas Roduit
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Geneva</td>
+		<td>1203</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
+			<a href="https://github.com/eXpl0it3r">
+				<img src="https://avatars.githubusercontent.com/u/920861?s=72&u=f083a05d0267e1c94cae9527a0704d885fe45674&v=4" width="24" alt="Avatar of eXpl0it3r"> eXpl0it3r
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#eXpl0it3r">Copy rank badge</a><br/>
+			Lukas Dürrenberger
+		</td>
+		<td>@digitecgalaxus </td>
+		<td><a href="https://twitter.com/DarkCisum">DarkCisum</a></td>
+		<td>Switzerland</td>
+		<td>1202</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>
+			<a href="https://github.com/adroamccullinp">
+				<img src="https://avatars.githubusercontent.com/u/268234?s=72&u=afac7d4c7f3f0bea4c0f70493cca7b6c3d7d1efe&v=4" width="24" alt="Avatar of adroamccullinp"> adroamccullinp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#adroamccullinp">Copy rank badge</a><br/>
+			0xAxiom
+		</td>
+		<td>Purslane Tech Pte. Ltd.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zug, Switzerland </td>
+		<td>1194</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
+			<a href="https://github.com/devnoname120">
+				<img src="https://avatars.githubusercontent.com/u/2824100?s=72&u=691a9322ced036e4635779cfb1822616507609fa&v=4" width="24" alt="Avatar of devnoname120"> devnoname120
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#devnoname120">Copy rank badge</a><br/>
+			Paul
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/devnoname120">devnoname120</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>1193</td>
+	</tr>
+	<tr>
+		<td>150</td>
+		<td>
+			<a href="https://github.com/Seldaek">
+				<img src="https://avatars.githubusercontent.com/u/183678?s=72&v=4" width="24" alt="Avatar of Seldaek"> Seldaek
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Seldaek">Copy rank badge</a><br/>
+			Jordi Boggiano
+		</td>
+		<td>Packagist </td>
+		<td><a href="https://twitter.com/seldaek">seldaek</a></td>
+		<td>Zürich, Zurich, Switzerland</td>
+		<td>1185</td>
+	</tr>
+	<tr>
+		<td>151</td>
+		<td>
+			<a href="https://github.com/mms-gianni">
+				<img src="https://avatars.githubusercontent.com/u/2052196?s=72&u=5d553580b1792723a7a1ec63426ca09b9ce565c1&v=4" width="24" alt="Avatar of mms-gianni"> mms-gianni
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mms-gianni">Copy rank badge</a><br/>
+			Gianni
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich / Switzerland</td>
+		<td>1183</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>
+			<a href="https://github.com/attilaolah">
+				<img src="https://avatars.githubusercontent.com/u/196617?s=72&v=4" width="24" alt="Avatar of attilaolah"> attilaolah
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#attilaolah">Copy rank badge</a><br/>
+			Attila Oláh
+		</td>
+		<td>Netstal Machinen </td>
+		<td><a href="https://twitter.com/attilaolah">attilaolah</a></td>
+		<td>GL, Switzerland</td>
+		<td>1181</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
+			<a href="https://github.com/krzk">
+				<img src="https://avatars.githubusercontent.com/u/10425763?s=72&u=3ce53807dcddfaca9b7b59b5e6d4fa7ac29dc569&v=4" width="24" alt="Avatar of krzk"> krzk
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#krzk">Copy rank badge</a><br/>
+			Krzysztof Kozlowski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1173</td>
+	</tr>
+	<tr>
+		<td>154</td>
+		<td>
+			<a href="https://github.com/adriaanm">
+				<img src="https://avatars.githubusercontent.com/u/91083?s=72&u=400b83ef4f7ac9849888495a3c50a4bbc1f060cc&v=4" width="24" alt="Avatar of adriaanm"> adriaanm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#adriaanm">Copy rank badge</a><br/>
+			Adriaan Moors
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lausanne</td>
+		<td>1168</td>
+	</tr>
+	<tr>
+		<td>155</td>
+		<td>
+			<a href="https://github.com/Saransh-cpp">
+				<img src="https://avatars.githubusercontent.com/u/74055102?s=72&u=3d90a5880dbd720e51ee791e1a33c17519770562&v=4" width="24" alt="Avatar of Saransh-cpp"> Saransh-cpp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Saransh-cpp">Copy rank badge</a><br/>
+			Saransh Chopra
+		</td>
+		<td>Epfl / Logitech </td>
+		<td><a href="https://twitter.com/saranshchopra7">saranshchopra7</a></td>
+		<td>Vaud, Switzerland</td>
+		<td>1163</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>
+			<a href="https://github.com/stonith404">
+				<img src="https://avatars.githubusercontent.com/u/58886915?s=72&u=331d50be14395e2c62a2a733e16d89e59a5b04b9&v=4" width="24" alt="Avatar of stonith404"> stonith404
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#stonith404">Copy rank badge</a><br/>
+			Elias Schneider
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1160</td>
+	</tr>
+	<tr>
+		<td>157</td>
+		<td>
+			<a href="https://github.com/romeokienzler">
+				<img src="https://avatars.githubusercontent.com/u/5694071?s=72&u=e2ab83e6ff8d3906b1b5b6d7c0f16d674161fa93&v=4" width="24" alt="Avatar of romeokienzler"> romeokienzler
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#romeokienzler">Copy rank badge</a><br/>
+			Romeo Kienzler
+		</td>
+		<td>Ai Research Engineer At<br/>Ibm<br/>Research<br/></td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1159</td>
+	</tr>
+	<tr>
+		<td>158</td>
+		<td>
+			<a href="https://github.com/twpayne">
+				<img src="https://avatars.githubusercontent.com/u/6942?s=72&u=227a4496aba8d3f526c53bdb6aa7713b22c56906&v=4" width="24" alt="Avatar of twpayne"> twpayne
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#twpayne">Copy rank badge</a><br/>
+			Tom Payne
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>1146</td>
+	</tr>
+	<tr>
+		<td>159</td>
+		<td>
+			<a href="https://github.com/sjrd">
+				<img src="https://avatars.githubusercontent.com/u/535934?s=72&u=837d8ccc05f624946f9fbec6a81ecb1eb519031b&v=4" width="24" alt="Avatar of sjrd"> sjrd
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#sjrd">Copy rank badge</a><br/>
+			Sébastien Doeraene
+		</td>
+		<td>École Polytechnique Fédérale De<br/>Lausanne<br/></td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>1145</td>
+	</tr>
+	<tr>
+		<td>160</td>
+		<td>
+			<a href="https://github.com/256dpi">
+				<img src="https://avatars.githubusercontent.com/u/696886?s=72&u=a425613ad184e9dfbb05ab2c7012fea6cc88b453&v=4" width="24" alt="Avatar of 256dpi"> 256dpi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#256dpi">Copy rank badge</a><br/>
+			Joël Gähwiler
+		</td>
+		<td>@networkedartifacts </td>
+		<td><a href="https://twitter.com/256dpi">256dpi</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>1139</td>
+	</tr>
+	<tr>
+		<td>161</td>
+		<td>
+			<a href="https://github.com/tklauser">
+				<img src="https://avatars.githubusercontent.com/u/539708?s=72&v=4" width="24" alt="Avatar of tklauser"> tklauser
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#tklauser">Copy rank badge</a><br/>
+			Tobias Klauser
+		</td>
+		<td>@cilium / @isovalent </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1124</td>
+	</tr>
+	<tr>
+		<td>162</td>
+		<td>
+			<a href="https://github.com/visualbruno">
+				<img src="https://avatars.githubusercontent.com/u/389440?s=72&u=5e799534ee8da7a0d05390584726fc025078d68c&v=4" width="24" alt="Avatar of visualbruno"> visualbruno
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#visualbruno">Copy rank badge</a><br/>
+			Bruno Fargnoli
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lausanne</td>
+		<td>1115</td>
+	</tr>
+	<tr>
+		<td>163</td>
+		<td>
+			<a href="https://github.com/bittner">
+				<img src="https://avatars.githubusercontent.com/u/665072?s=72&v=4" width="24" alt="Avatar of bittner"> bittner
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#bittner">Copy rank badge</a><br/>
+			Peter Bittner
+		</td>
+		<td>@painless-software  </td>
+		<td><a href="https://twitter.com/peterbittner">peterbittner</a></td>
+		<td>Kreuzlingen, Switzerland</td>
+		<td>1109</td>
+	</tr>
+	<tr>
+		<td>164</td>
+		<td>
+			<a href="https://github.com/ThiefMaster">
+				<img src="https://avatars.githubusercontent.com/u/179599?s=72&v=4" width="24" alt="Avatar of ThiefMaster"> ThiefMaster
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ThiefMaster">Copy rank badge</a><br/>
+			Adrian
+		</td>
+		<td>Cern / @indico <br/></td>
+		<td>No Twitter Username</td>
+		<td>Geneva, Switzerland</td>
+		<td>1108</td>
+	</tr>
+	<tr>
+		<td>165</td>
+		<td>
+			<a href="https://github.com/iluuu1994">
+				<img src="https://avatars.githubusercontent.com/u/1752683?s=72&v=4" width="24" alt="Avatar of iluuu1994"> iluuu1994
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#iluuu1994">Copy rank badge</a><br/>
+			Ilija Tovilo
+		</td>
+		<td>@thephpf </td>
+		<td>No Twitter Username</td>
+		<td>Bern, Switzerland</td>
+		<td>1085</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
+			<a href="https://github.com/B1ueber2y">
+				<img src="https://avatars.githubusercontent.com/u/27623481?s=72&u=9e69174620a8db6adb1a2af549c7635621ddbefa&v=4" width="24" alt="Avatar of B1ueber2y"> B1ueber2y
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#B1ueber2y">Copy rank badge</a><br/>
+			Shaohui Liu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>1079</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>
+			<a href="https://github.com/7PH">
+				<img src="https://avatars.githubusercontent.com/u/31401273?s=72&u=226dc19201e3c6fdb356bad55495a62722f4ee61&v=4" width="24" alt="Avatar of 7PH"> 7PH
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#7PH">Copy rank badge</a><br/>
+			Benjamin Raymond
+		</td>
+		<td>Cern </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland & France</td>
+		<td>1077</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
+			<a href="https://github.com/huanghoujing">
+				<img src="https://avatars.githubusercontent.com/u/13362456?s=72&v=4" width="24" alt="Avatar of huanghoujing"> huanghoujing
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#huanghoujing">Copy rank badge</a><br/>
+			Houjing Huang
+		</td>
+		<td>Department Of Quantitative Biomedicine,<br/>University<br/>Of<br/>Zurich<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>1076</td>
+	</tr>
+	<tr>
+		<td>169</td>
+		<td>
+			<a href="https://github.com/RomainLanz">
+				<img src="https://avatars.githubusercontent.com/u/2793951?s=72&u=8362820a019064366b206e3b8fc9116dd048410d&v=4" width="24" alt="Avatar of RomainLanz"> RomainLanz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#RomainLanz">Copy rank badge</a><br/>
+			Romain Lanz
+		</td>
+		<td>Fivb </td>
+		<td><a href="https://twitter.com/romainlanz">romainlanz</a></td>
+		<td>Switzerland</td>
+		<td>1057</td>
+	</tr>
+	<tr>
+		<td>170</td>
+		<td>
+			<a href="https://github.com/pavolloffay">
+				<img src="https://avatars.githubusercontent.com/u/5618424?s=72&u=b69d4e3bf89d5ec5d3ae594cd149633b6fc26ebb&v=4" width="24" alt="Avatar of pavolloffay"> pavolloffay
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pavolloffay">Copy rank badge</a><br/>
+			Pavol Loffay
+		</td>
+		<td>Red Hat </td>
+		<td><a href="https://twitter.com/ploffay">ploffay</a></td>
+		<td>Switzerland</td>
+		<td>1057</td>
+	</tr>
+	<tr>
+		<td>171</td>
+		<td>
+			<a href="https://github.com/l-ramirez-lopez">
+				<img src="https://avatars.githubusercontent.com/u/5450209?s=72&u=b8703050fb64474ec0d1d226f86c0d844d87454b&v=4" width="24" alt="Avatar of l-ramirez-lopez"> l-ramirez-lopez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#l-ramirez-lopez">Copy rank badge</a><br/>
+			Leonardo Ramirez-Lopez
+		</td>
+		<td>Buchi Labortechnik Ag </td>
+		<td><a href="https://twitter.com/rlleonardo">rlleonardo</a></td>
+		<td>Switzerland</td>
+		<td>1052</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>
+			<a href="https://github.com/stapelberg">
+				<img src="https://avatars.githubusercontent.com/u/55506?s=72&u=d76452e75774c895a975e588cf2b830b32b61020&v=4" width="24" alt="Avatar of stapelberg"> stapelberg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#stapelberg">Copy rank badge</a><br/>
+			Michael Stapelberg
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>1049</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>
+			<a href="https://github.com/davidmorgan">
+				<img src="https://avatars.githubusercontent.com/u/5536920?s=72&u=210342fc14700d385b0c2c6735008510ebcfc96d&v=4" width="24" alt="Avatar of davidmorgan"> davidmorgan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#davidmorgan">Copy rank badge</a><br/>
+			Morgan :)
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1039</td>
+	</tr>
+	<tr>
+		<td>174</td>
+		<td>
+			<a href="https://github.com/m-kuhn">
+				<img src="https://avatars.githubusercontent.com/u/588407?s=72&u=ad5df5522dafe2a5b1b6b5cbebf2abc18e0f9d50&v=4" width="24" alt="Avatar of m-kuhn"> m-kuhn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#m-kuhn">Copy rank badge</a><br/>
+			Matthias Kuhn
+		</td>
+		<td>Opengis.ch </td>
+		<td><a href="https://twitter.com/_mkuhn">_mkuhn</a></td>
+		<td>Switzerland</td>
+		<td>1038</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
+			<a href="https://github.com/ReneNyffenegger">
+				<img src="https://avatars.githubusercontent.com/u/1092660?s=72&u=36fbe8dd64f3071f5d752031f0759c39ae023cff&v=4" width="24" alt="Avatar of ReneNyffenegger"> ReneNyffenegger
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ReneNyffenegger">Copy rank badge</a><br/>
+			Rene Nyffenegger
+		</td>
+		<td>Digitale Daten </td>
+		<td><a href="https://twitter.com/ReneNyffenegger">ReneNyffenegger</a></td>
+		<td>Winterthur-Zürich-Switzerland</td>
+		<td>1036</td>
+	</tr>
+	<tr>
+		<td>176</td>
+		<td>
+			<a href="https://github.com/riga">
+				<img src="https://avatars.githubusercontent.com/u/1908734?s=72&u=d54fba605e6ac65b50defea01763a508ea454012&v=4" width="24" alt="Avatar of riga"> riga
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#riga">Copy rank badge</a><br/>
+			Marcel Rieger
+		</td>
+		<td>Uhh / Cern </td>
+		<td>No Twitter Username</td>
+		<td>Geneva</td>
+		<td>1036</td>
+	</tr>
+	<tr>
+		<td>177</td>
+		<td>
+			<a href="https://github.com/qkniep">
+				<img src="https://avatars.githubusercontent.com/u/2348350?s=72&u=80d26c113a3efcb335c1fbb42f37820c50e3055a&v=4" width="24" alt="Avatar of qkniep"> qkniep
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#qkniep">Copy rank badge</a><br/>
+			Quentin Kniep
+		</td>
+		<td>@anza-xyz  </td>
+		<td><a href="https://twitter.com/qkniep">qkniep</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>1032</td>
+	</tr>
+	<tr>
+		<td>178</td>
+		<td>
+			<a href="https://github.com/mb21">
+				<img src="https://avatars.githubusercontent.com/u/157497?s=72&v=4" width="24" alt="Avatar of mb21"> mb21
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mb21">Copy rank badge</a><br/>
+			Mauro Bieg
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>1030</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
+			<a href="https://github.com/Fraccaman">
+				<img src="https://avatars.githubusercontent.com/u/9825521?s=72&u=6e4974860d944563a92a5cf5e5cbb46d6e9d2e00&v=4" width="24" alt="Avatar of Fraccaman"> Fraccaman
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Fraccaman">Copy rank badge</a><br/>
+			Fraccaroli Gianmarco
+		</td>
+		<td>@heliaxdev  </td>
+		<td><a href="https://twitter.com/fraccaman">fraccaman</a></td>
+		<td>Switzerland</td>
+		<td>1019</td>
+	</tr>
+	<tr>
+		<td>180</td>
+		<td>
+			<a href="https://github.com/ganqqwerty">
+				<img src="https://avatars.githubusercontent.com/u/697308?s=72&u=115485290603d1e3072f2426a5609fa6831512c0&v=4" width="24" alt="Avatar of ganqqwerty"> ganqqwerty
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ganqqwerty">Copy rank badge</a><br/>
+			Yuri Katkov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>1016</td>
+	</tr>
+	<tr>
+		<td>181</td>
+		<td>
+			<a href="https://github.com/hifiberry">
+				<img src="https://avatars.githubusercontent.com/u/8243622?s=72&u=c2e67cc94c06b92bb70a50bf31a10e858d56463d&v=4" width="24" alt="Avatar of hifiberry"> hifiberry
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#hifiberry">Copy rank badge</a><br/>
+			HiFiBerry
+		</td>
+		<td>Modul 9 Llc </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1005</td>
+	</tr>
+	<tr>
+		<td>182</td>
+		<td>
+			<a href="https://github.com/sbrannen">
+				<img src="https://avatars.githubusercontent.com/u/104798?s=72&u=e316a3b9d5ae74c3b31ace1a8361c90e84481daf&v=4" width="24" alt="Avatar of sbrannen"> sbrannen
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#sbrannen">Copy rank badge</a><br/>
+			Sam Brannen
+		</td>
+		<td>Broadcom </td>
+		<td><a href="https://twitter.com/Sam_Brannen">Sam_Brannen</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>1001</td>
+	</tr>
+	<tr>
+		<td>183</td>
+		<td>
+			<a href="https://github.com/luraess">
+				<img src="https://avatars.githubusercontent.com/u/61313342?s=72&u=269202324686c5679a17740cd78e4674ab3af624&v=4" width="24" alt="Avatar of luraess"> luraess
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#luraess">Copy rank badge</a><br/>
+			Ludovic Räss
+		</td>
+		<td>University Of Lausanne </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>999</td>
+	</tr>
+	<tr>
+		<td>184</td>
+		<td>
+			<a href="https://github.com/tomrussobuilds">
+				<img src="https://avatars.githubusercontent.com/u/228353887?s=72&v=4" width="24" alt="Avatar of tomrussobuilds"> tomrussobuilds
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#tomrussobuilds">Copy rank badge</a><br/>
+			Tommaso Russo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lugano, Switzerland</td>
+		<td>990</td>
+	</tr>
+	<tr>
+		<td>185</td>
+		<td>
+			<a href="https://github.com/eamonnmag">
+				<img src="https://avatars.githubusercontent.com/u/282396?s=72&v=4" width="24" alt="Avatar of eamonnmag"> eamonnmag
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#eamonnmag">Copy rank badge</a><br/>
+			Eamonn Maguire
+		</td>
+		<td>@protonmail  </td>
+		<td><a href="https://twitter.com/antarcticdesign">antarcticdesign</a></td>
+		<td>Geneva</td>
+		<td>980</td>
+	</tr>
+	<tr>
+		<td>186</td>
+		<td>
+			<a href="https://github.com/intellectronica">
+				<img src="https://avatars.githubusercontent.com/u/46264?s=72&u=a843173bc4b1407395eb556f6bcc4559be54e0d5&v=4" width="24" alt="Avatar of intellectronica"> intellectronica
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#intellectronica">Copy rank badge</a><br/>
+			Eleanor Berger
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/intellectronica">intellectronica</a></td>
+		<td>Zürich</td>
+		<td>961</td>
 	</tr>
 	<tr>
 		<td>187</td>
 		<td>
-			<a href="https://github.com/aymenfurter">
-				<img src="https://avatars.githubusercontent.com/u/20464460?s=72&u=284b0f1a8a8646a744a5f95ce2cb2c496a56a1cc&v=4" width="24" alt="Avatar of aymenfurter"> aymenfurter
-			</a><br/>
-			Aymen
+			<a href="https://github.com/Cyrilvallez">
+				<img src="https://avatars.githubusercontent.com/u/71554963?s=72&u=2d762f749ea6c0f5a6ce1f0e74cf4e8bc3df573a&v=4" width="24" alt="Avatar of Cyrilvallez"> Cyrilvallez
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Cyrilvallez">Copy rank badge</a><br/>
+			Cyril Vallez
 		</td>
-		<td>@microsoft  </td>
+		<td>@huggingface </td>
 		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>731</td>
+		<td>Lausanne, Switzerland</td>
+		<td>955</td>
 	</tr>
 	<tr>
 		<td>188</td>
 		<td>
 			<a href="https://github.com/Yatekii">
 				<img src="https://avatars.githubusercontent.com/u/529795?s=72&u=13bba0ec5bc756544ea58c3931185a1be1d920bb&v=4" width="24" alt="Avatar of Yatekii"> Yatekii
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Yatekii">Copy rank badge</a><br/>
 			Noah Hüsser
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Yatekii">Yatekii</a></td>
 		<td>Switzerland</td>
-		<td>726</td>
+		<td>953</td>
 	</tr>
 	<tr>
 		<td>189</td>
 		<td>
-			<a href="https://github.com/edewit">
-				<img src="https://avatars.githubusercontent.com/u/51133?s=72&u=bb366a8aefce937441cf17648e262545c46f8e2c&v=4" width="24" alt="Avatar of edewit"> edewit
-			</a><br/>
-			Erik Jan de Wit
-		</td>
-		<td>Ibm </td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>722</td>
-	</tr>
-	<tr>
-		<td>190</td>
-		<td>
-			<a href="https://github.com/dmikushin">
-				<img src="https://avatars.githubusercontent.com/u/5672874?s=72&u=784bed75072206acd9aaf304de65ea94b6d0c0a5&v=4" width="24" alt="Avatar of dmikushin"> dmikushin
-			</a><br/>
-			Dmitry Mikushin
-		</td>
-		<td>Applied Parallel Computing Llc<br/></td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, CH</td>
-		<td>717</td>
-	</tr>
-	<tr>
-		<td>191</td>
-		<td>
-			<a href="https://github.com/stonith404">
-				<img src="https://avatars.githubusercontent.com/u/58886915?s=72&u=331d50be14395e2c62a2a733e16d89e59a5b04b9&v=4" width="24" alt="Avatar of stonith404"> stonith404
-			</a><br/>
-			Elias Schneider
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>716</td>
-	</tr>
-	<tr>
-		<td>192</td>
-		<td>
-			<a href="https://github.com/kmdouglass">
-				<img src="https://avatars.githubusercontent.com/u/3697676?s=72&u=f6b738d9ded69537a6c1021efd971fa42a4e5b73&v=4" width="24" alt="Avatar of kmdouglass"> kmdouglass
-			</a><br/>
-			Kyle M. Douglass
-		</td>
-		<td>Epfl </td>
-		<td><a href="https://twitter.com/kmdouglass">kmdouglass</a></td>
-		<td>Lausanne, Switzerland</td>
-		<td>713</td>
-	</tr>
-	<tr>
-		<td>193</td>
-		<td>
-			<a href="https://github.com/Vad1mo">
-				<img src="https://avatars.githubusercontent.com/u/1492007?s=72&u=26d1efac60204c19d54acdc1328718e5ef78003c&v=4" width="24" alt="Avatar of Vad1mo"> Vad1mo
-			</a><br/>
-			Vadim Bauer
-		</td>
-		<td>@container-registry  </td>
-		<td><a href="https://twitter.com/vad1mo">vad1mo</a></td>
-		<td>Zürich</td>
-		<td>712</td>
-	</tr>
-	<tr>
-		<td>194</td>
-		<td>
-			<a href="https://github.com/mrossinek">
-				<img src="https://avatars.githubusercontent.com/u/21973473?s=72&u=706b25996fb6e88efdf7a1b056bdbdce78d851f5&v=4" width="24" alt="Avatar of mrossinek"> mrossinek
-			</a><br/>
-			Max Rossmannek
-		</td>
-		<td>Ibm (all Opinions Are<br/>My<br/>Own)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>708</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
-			<a href="https://github.com/dbu">
-				<img src="https://avatars.githubusercontent.com/u/76576?s=72&v=4" width="24" alt="Avatar of dbu"> dbu
-			</a><br/>
-			David Buchmann
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>707</td>
-	</tr>
-	<tr>
-		<td>196</td>
-		<td>
-			<a href="https://github.com/ceriottm">
-				<img src="https://avatars.githubusercontent.com/u/1118823?s=72&v=4" width="24" alt="Avatar of ceriottm"> ceriottm
-			</a><br/>
-			Michele Ceriotti
-		</td>
-		<td>Epfl </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne - Switzerland</td>
-		<td>707</td>
-	</tr>
-	<tr>
-		<td>197</td>
-		<td>
-			<a href="https://github.com/patrick-zippenfenig">
-				<img src="https://avatars.githubusercontent.com/u/11670456?s=72&u=74b54294d32ba58981dd690779303b7454ec6836&v=4" width="24" alt="Avatar of patrick-zippenfenig"> patrick-zippenfenig
-			</a><br/>
-			Patrick Zippenfenig
-		</td>
-		<td>@open-meteo  </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>706</td>
-	</tr>
-	<tr>
-		<td>198</td>
-		<td>
-			<a href="https://github.com/fsoubelet">
-				<img src="https://avatars.githubusercontent.com/u/19598248?s=72&u=3f9a71a72561a313cc5a96a58bb3a0eae8867f7d&v=4" width="24" alt="Avatar of fsoubelet"> fsoubelet
-			</a><br/>
-			Felix Soubelet
-		</td>
-		<td>Cern </td>
-		<td>No Twitter Username</td>
-		<td>Geneva, Switzerland</td>
-		<td>705</td>
-	</tr>
-	<tr>
-		<td>199</td>
-		<td>
-			<a href="https://github.com/SmallJoker">
-				<img src="https://avatars.githubusercontent.com/u/1497498?s=72&u=697c6b477a98926b644aa71734f21ac7fc2b01eb&v=4" width="24" alt="Avatar of SmallJoker"> SmallJoker
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>702</td>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/JumpiiX">
-				<img src="https://avatars.githubusercontent.com/u/131596117?s=72&u=549fee1a36d91fb60fda1fbf7af288f3cb27e3e1&v=4" width="24" alt="Avatar of JumpiiX"> JumpiiX
-			</a><br/>
-			David Unterguggenberger
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/JumpiiX24">JumpiiX24</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>699</td>
-	</tr>
-	<tr>
-		<td>201</td>
-		<td>
-			<a href="https://github.com/LeiShi1313">
-				<img src="https://avatars.githubusercontent.com/u/3712421?s=72&u=e8e8b1d7be2f7e717630a886a1510db243915dfa&v=4" width="24" alt="Avatar of LeiShi1313"> LeiShi1313
-			</a><br/>
-			Lei Shi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>694</td>
-	</tr>
-	<tr>
-		<td>202</td>
-		<td>
-			<a href="https://github.com/visualbruno">
-				<img src="https://avatars.githubusercontent.com/u/389440?s=72&u=5e799534ee8da7a0d05390584726fc025078d68c&v=4" width="24" alt="Avatar of visualbruno"> visualbruno
-			</a><br/>
-			Bruno Fargnoli
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lausanne</td>
-		<td>693</td>
-	</tr>
-	<tr>
-		<td>203</td>
-		<td>
-			<a href="https://github.com/luraess">
-				<img src="https://avatars.githubusercontent.com/u/61313342?s=72&u=269202324686c5679a17740cd78e4674ab3af624&v=4" width="24" alt="Avatar of luraess"> luraess
-			</a><br/>
-			Ludovic Räss
-		</td>
-		<td>University Of Lausanne </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>689</td>
-	</tr>
-	<tr>
-		<td>204</td>
-		<td>
-			<a href="https://github.com/FujiwaraChoki">
-				<img src="https://avatars.githubusercontent.com/u/78088687?s=72&u=33f2e00d059b4625b3e80692173a068dc0b89048&v=4" width="24" alt="Avatar of FujiwaraChoki"> FujiwaraChoki
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/DevBySami">DevBySami</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>684</td>
-	</tr>
-	<tr>
-		<td>205</td>
-		<td>
-			<a href="https://github.com/butzist">
-				<img src="https://avatars.githubusercontent.com/u/2405792?s=72&u=d37967c5451827460733c49b59c2e166cd0bcd83&v=4" width="24" alt="Avatar of butzist"> butzist
-			</a><br/>
-			Adam M. Szalkowski
-		</td>
-		<td>@datahow  </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>681</td>
-	</tr>
-	<tr>
-		<td>206</td>
-		<td>
-			<a href="https://github.com/matthias-springer">
-				<img src="https://avatars.githubusercontent.com/u/2033320?s=72&u=395b6d7b7c88e2174685db375da0d619fa7e88a7&v=4" width="24" alt="Avatar of matthias-springer"> matthias-springer
-			</a><br/>
-			Matthias Springer
-		</td>
-		<td>Nvidia </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>681</td>
-	</tr>
-	<tr>
-		<td>207</td>
-		<td>
-			<a href="https://github.com/pascalberger">
-				<img src="https://avatars.githubusercontent.com/u/2190718?s=72&v=4" width="24" alt="Avatar of pascalberger"> pascalberger
-			</a><br/>
-			Pascal Berger
-		</td>
-		<td>@exanic </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>679</td>
-	</tr>
-	<tr>
-		<td>208</td>
-		<td>
-			<a href="https://github.com/mgeisler">
-				<img src="https://avatars.githubusercontent.com/u/89623?s=72&v=4" width="24" alt="Avatar of mgeisler"> mgeisler
-			</a><br/>
-			Martin Geisler
-		</td>
-		<td>@protonmail </td>
-		<td><a href="https://twitter.com/mrtngslr">mrtngslr</a></td>
-		<td>Switzerland</td>
-		<td>677</td>
-	</tr>
-	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/renggli">
-				<img src="https://avatars.githubusercontent.com/u/131610?s=72&v=4" width="24" alt="Avatar of renggli"> renggli
-			</a><br/>
-			Lukas Renggli
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>673</td>
-	</tr>
-	<tr>
-		<td>210</td>
-		<td>
-			<a href="https://github.com/dbrgn">
-				<img src="https://avatars.githubusercontent.com/u/105168?s=72&u=aaa9d3d128353134d25a6eaa50c213696891e757&v=4" width="24" alt="Avatar of dbrgn"> dbrgn
-			</a><br/>
-			Danilo Bargen
-		</td>
-		<td>Threema Gmbh </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>658</td>
-	</tr>
-	<tr>
-		<td>211</td>
-		<td>
-			<a href="https://github.com/behnamasadi">
-				<img src="https://avatars.githubusercontent.com/u/1409975?s=72&u=3b72b77d14c79ab7893717a29cfa13c726c5fd94&v=4" width="24" alt="Avatar of behnamasadi"> behnamasadi
-			</a><br/>
-			Behnam Asadi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/behnam_iut">behnam_iut</a></td>
-		<td>Lausanne, Switzerland </td>
-		<td>658</td>
-	</tr>
-	<tr>
-		<td>212</td>
-		<td>
-			<a href="https://github.com/fredj">
-				<img src="https://avatars.githubusercontent.com/u/100959?s=72&v=4" width="24" alt="Avatar of fredj"> fredj
-			</a><br/>
-			Frédéric Junod
-		</td>
-		<td>@camptocamp </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>650</td>
-	</tr>
-	<tr>
-		<td>213</td>
-		<td>
-			<a href="https://github.com/arthurflor23">
-				<img src="https://avatars.githubusercontent.com/u/11759042?s=72&u=67934978b67479525e273f5450011c1b5efe99e8&v=4" width="24" alt="Avatar of arthurflor23"> arthurflor23
-			</a><br/>
-			Arthur F. S. Neto
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>639</td>
-	</tr>
-	<tr>
-		<td>214</td>
-		<td>
-			<a href="https://github.com/oleg-nenashev">
-				<img src="https://avatars.githubusercontent.com/u/3000480?s=72&u=d17d8f220f545791e0ce16e803864b46563fd678&v=4" width="24" alt="Avatar of oleg-nenashev"> oleg-nenashev
-			</a><br/>
-			Oleg Nenashev
-		</td>
-		<td>@jenkinsci, @wiremock, @testcontainers </td>
-		<td><a href="https://twitter.com/oleg_nenashev">oleg_nenashev</a></td>
-		<td>Neuchatel, Switzerland</td>
-		<td>626</td>
-	</tr>
-	<tr>
-		<td>215</td>
-		<td>
-			<a href="https://github.com/tobie">
-				<img src="https://avatars.githubusercontent.com/u/3392?s=72&v=4" width="24" alt="Avatar of tobie"> tobie
-			</a><br/>
-			Tobie Langel
-		</td>
-		<td>Unlockopen </td>
-		<td><a href="https://twitter.com/tobie">tobie</a></td>
-		<td>Geneva, Switzerland</td>
-		<td>619</td>
-	</tr>
-	<tr>
-		<td>216</td>
-		<td>
 			<a href="https://github.com/mpenet">
 				<img src="https://avatars.githubusercontent.com/u/106390?s=72&u=b7c2d01abac7e07234a44bf1e3a1db9783716375&v=4" width="24" alt="Avatar of mpenet"> mpenet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mpenet">Copy rank badge</a><br/>
 			Max Penet
 		</td>
 		<td>@exoscale </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>614</td>
+		<td>942</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
+			<a href="https://github.com/alderg">
+				<img src="https://avatars.githubusercontent.com/u/921200?s=72&u=fe69f504a82a65c8186d1324ade5fb5f224460b0&v=4" width="24" alt="Avatar of alderg"> alderg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#alderg">Copy rank badge</a><br/>
+			Gaudenz Alder
+		</td>
+		<td>Draw.io </td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>939</td>
+	</tr>
+	<tr>
+		<td>191</td>
+		<td>
+			<a href="https://github.com/picnixz">
+				<img src="https://avatars.githubusercontent.com/u/10796600?s=72&v=4" width="24" alt="Avatar of picnixz"> picnixz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#picnixz">Copy rank badge</a><br/>
+			Bénédikt Tran
+		</td>
+		<td>@prassoai </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>922</td>
+	</tr>
+	<tr>
+		<td>192</td>
+		<td>
+			<a href="https://github.com/joaomoreno">
+				<img src="https://avatars.githubusercontent.com/u/22350?s=72&u=eaef1b36456834b01a6751e1f10f49a3413f6fb6&v=4" width="24" alt="Avatar of joaomoreno"> joaomoreno
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#joaomoreno">Copy rank badge</a><br/>
+			João Moreno
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>919</td>
+	</tr>
+	<tr>
+		<td>193</td>
+		<td>
+			<a href="https://github.com/gionkunz">
+				<img src="https://avatars.githubusercontent.com/u/2203704?s=72&u=b2daea924eddf273ed7d6c0306b53f53613d409b&v=4" width="24" alt="Avatar of gionkunz"> gionkunz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#gionkunz">Copy rank badge</a><br/>
+			Gion Kunz
+		</td>
+		<td>@syncrea </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>918</td>
+	</tr>
+	<tr>
+		<td>194</td>
+		<td>
+			<a href="https://github.com/lerboe">
+				<img src="https://avatars.githubusercontent.com/u/762049?s=72&u=c0f70a5e5fd58f7117b4da8e8ff134863ab45a7d&v=4" width="24" alt="Avatar of lerboe"> lerboe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#lerboe">Copy rank badge</a><br/>
+			Laurin Brandner
+		</td>
+		<td>Eth Zürich </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>916</td>
+	</tr>
+	<tr>
+		<td>195</td>
+		<td>
+			<a href="https://github.com/ia0">
+				<img src="https://avatars.githubusercontent.com/u/969295?s=72&u=4ef46340cc6a5d9bd458a8b18bac630d165486f6&v=4" width="24" alt="Avatar of ia0"> ia0
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ia0">Copy rank badge</a><br/>
+			Julien Cretin
+		</td>
+		<td>@google  </td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>908</td>
+	</tr>
+	<tr>
+		<td>196</td>
+		<td>
+			<a href="https://github.com/noeltock">
+				<img src="https://avatars.githubusercontent.com/u/781166?s=72&u=22753cab9605370e0738ada0a6939964278e02bc&v=4" width="24" alt="Avatar of noeltock"> noeltock
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#noeltock">Copy rank badge</a><br/>
+			Noel Tock
+		</td>
+		<td>Chief Growth Officer @humanmade<br/><br/></td>
+		<td><a href="https://twitter.com/noeltock">noeltock</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>900</td>
+	</tr>
+	<tr>
+		<td>197</td>
+		<td>
+			<a href="https://github.com/mrossinek">
+				<img src="https://avatars.githubusercontent.com/u/21973473?s=72&u=706b25996fb6e88efdf7a1b056bdbdce78d851f5&v=4" width="24" alt="Avatar of mrossinek"> mrossinek
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mrossinek">Copy rank badge</a><br/>
+			Max Rossmannek
+		</td>
+		<td>Ibm Research (all Opinions<br/>Are<br/>My<br/>Own)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>894</td>
+	</tr>
+	<tr>
+		<td>198</td>
+		<td>
+			<a href="https://github.com/defagos">
+				<img src="https://avatars.githubusercontent.com/u/170201?s=72&v=4" width="24" alt="Avatar of defagos"> defagos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#defagos">Copy rank badge</a><br/>
+			Samuel Défago
+		</td>
+		<td>Rts Radio Télévision Suisse<br/>/<br/>Srg<br/>Ssr<br/></td>
+		<td><a href="https://twitter.com/defagos">defagos</a></td>
+		<td>Geneva (Switzerland)</td>
+		<td>889</td>
+	</tr>
+	<tr>
+		<td>199</td>
+		<td>
+			<a href="https://github.com/tibbe">
+				<img src="https://avatars.githubusercontent.com/u/17277?s=72&v=4" width="24" alt="Avatar of tibbe"> tibbe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#tibbe">Copy rank badge</a><br/>
+			Johan Tibell
+		</td>
+		<td>Benetics Ag </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>888</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
+			<a href="https://github.com/diegoferigo">
+				<img src="https://avatars.githubusercontent.com/u/469199?s=72&u=a104a19282a0c21b8fdeed0f8ce77a715f02d321&v=4" width="24" alt="Avatar of diegoferigo"> diegoferigo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#diegoferigo">Copy rank badge</a><br/>
+			Diego Ferigo
+		</td>
+		<td>Robotics And Ai Institute<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zürich (Switzerland)</td>
+		<td>888</td>
+	</tr>
+	<tr>
+		<td>201</td>
+		<td>
+			<a href="https://github.com/loleg">
+				<img src="https://avatars.githubusercontent.com/u/31819?s=72&u=ba93c8c34f26362c98c226aff1d9b997089059e0&v=4" width="24" alt="Avatar of loleg"> loleg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#loleg">Copy rank badge</a><br/>
+			Oleg Lavrovsky
+		</td>
+		<td>Epfl - Snai </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>870</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>
+			<a href="https://github.com/Andre601">
+				<img src="https://avatars.githubusercontent.com/u/11576465?s=72&u=b608c1e5d40b7bb195c1a06c77d837799a8c9c05&v=4" width="24" alt="Avatar of Andre601"> Andre601
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Andre601">Copy rank badge</a><br/>
+			Andre_601
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>870</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
+			<a href="https://github.com/edewit">
+				<img src="https://avatars.githubusercontent.com/u/51133?s=72&u=bb366a8aefce937441cf17648e262545c46f8e2c&v=4" width="24" alt="Avatar of edewit"> edewit
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#edewit">Copy rank badge</a><br/>
+			Erik Jan de Wit
+		</td>
+		<td>Ibm </td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>868</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
+			<a href="https://github.com/cordx56">
+				<img src="https://avatars.githubusercontent.com/u/23298744?s=72&u=7e0160d4d9284ef5a2b754d581f2bc60bfcaecc5&v=4" width="24" alt="Avatar of cordx56"> cordx56
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#cordx56">Copy rank badge</a><br/>
+			Yuki Okamoto
+		</td>
+		<td>Shibaura Institute Of Technology<br/></td>
+		<td><a href="https://twitter.com/yokamo_to">yokamo_to</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>851</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
+			<a href="https://github.com/romac">
+				<img src="https://avatars.githubusercontent.com/u/106849?s=72&u=84677ec154fec9e4d04200cd0187e04693adc4c7&v=4" width="24" alt="Avatar of romac"> romac
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#romac">Copy rank badge</a><br/>
+			Romain Ruetschi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>845</td>
+	</tr>
+	<tr>
+		<td>206</td>
+		<td>
+			<a href="https://github.com/JuergenGutsch">
+				<img src="https://avatars.githubusercontent.com/u/365688?s=72&u=c2db8f459102fa2915ef936b183673a91a59cde7&v=4" width="24" alt="Avatar of JuergenGutsch"> JuergenGutsch
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#JuergenGutsch">Copy rank badge</a><br/>
+			Juergen Gutsch
+		</td>
+		<td>Yoo Ag </td>
+		<td>No Twitter Username</td>
+		<td>Basel CH</td>
+		<td>845</td>
+	</tr>
+	<tr>
+		<td>207</td>
+		<td>
+			<a href="https://github.com/fsoubelet">
+				<img src="https://avatars.githubusercontent.com/u/19598248?s=72&u=3f9a71a72561a313cc5a96a58bb3a0eae8867f7d&v=4" width="24" alt="Avatar of fsoubelet"> fsoubelet
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#fsoubelet">Copy rank badge</a><br/>
+			Felix Soubelet
+		</td>
+		<td>Cern </td>
+		<td>No Twitter Username</td>
+		<td>Geneva, Switzerland</td>
+		<td>829</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
+			<a href="https://github.com/kzaher">
+				<img src="https://avatars.githubusercontent.com/u/1641148?s=72&v=4" width="24" alt="Avatar of kzaher"> kzaher
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#kzaher">Copy rank badge</a><br/>
+			Krunoslav Zaher
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>818</td>
+	</tr>
+	<tr>
+		<td>209</td>
+		<td>
+			<a href="https://github.com/butzist">
+				<img src="https://avatars.githubusercontent.com/u/2405792?s=72&u=d37967c5451827460733c49b59c2e166cd0bcd83&v=4" width="24" alt="Avatar of butzist"> butzist
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#butzist">Copy rank badge</a><br/>
+			Adam M. Szalkowski
+		</td>
+		<td>@datahow  </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>811</td>
+	</tr>
+	<tr>
+		<td>210</td>
+		<td>
+			<a href="https://github.com/arthurflor23">
+				<img src="https://avatars.githubusercontent.com/u/11759042?s=72&u=67934978b67479525e273f5450011c1b5efe99e8&v=4" width="24" alt="Avatar of arthurflor23"> arthurflor23
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#arthurflor23">Copy rank badge</a><br/>
+			Arthur F. S. Neto
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>808</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>
+			<a href="https://github.com/lewtun">
+				<img src="https://avatars.githubusercontent.com/u/26859204?s=72&u=ca50a1595bbb6ace36c3adb39c40e186265184d3&v=4" width="24" alt="Avatar of lewtun"> lewtun
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#lewtun">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>@huggingface </td>
+		<td><a href="https://twitter.com/_lewtun">_lewtun</a></td>
+		<td>Bern, Switzerland</td>
+		<td>799</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
+			<a href="https://github.com/filipw">
+				<img src="https://avatars.githubusercontent.com/u/1710369?s=72&u=e2531da60e171fad339200cccd87300dcac64163&v=4" width="24" alt="Avatar of filipw"> filipw
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#filipw">Copy rank badge</a><br/>
+			Filip W
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>795</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/SmallJoker">
+				<img src="https://avatars.githubusercontent.com/u/1497498?s=72&u=697c6b477a98926b644aa71734f21ac7fc2b01eb&v=4" width="24" alt="Avatar of SmallJoker"> SmallJoker
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#SmallJoker">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>780</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
+			<a href="https://github.com/robert-zaremba">
+				<img src="https://avatars.githubusercontent.com/u/811701?s=72&u=d42c4af3f97ebccdd701e8d0faeefd123699930e&v=4" width="24" alt="Avatar of robert-zaremba"> robert-zaremba
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#robert-zaremba">Copy rank badge</a><br/>
+			Robert Zaremba
+		</td>
+		<td>Scale It </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>765</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
+			<a href="https://github.com/coorasse">
+				<img src="https://avatars.githubusercontent.com/u/1319150?s=72&u=fed92203a27888056f57b6cd4aa4ed33dcabb6ec&v=4" width="24" alt="Avatar of coorasse"> coorasse
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#coorasse">Copy rank badge</a><br/>
+			Alessandro Rodi
+		</td>
+		<td>@renuo  </td>
+		<td><a href="https://twitter.com/coorasse">coorasse</a></td>
+		<td>Zürich</td>
+		<td>744</td>
+	</tr>
+	<tr>
+		<td>216</td>
+		<td>
+			<a href="https://github.com/linkdotnet">
+				<img src="https://avatars.githubusercontent.com/u/26365461?s=72&u=4823ebf516cbe5f1a54f6abcf8f9674954b3c065&v=4" width="24" alt="Avatar of linkdotnet"> linkdotnet
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#linkdotnet">Copy rank badge</a><br/>
+			Steven Giesel
+		</td>
+		<td>@bitspiregmbh  </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>741</td>
 	</tr>
 	<tr>
 		<td>217</td>
 		<td>
+			<a href="https://github.com/hfp">
+				<img src="https://avatars.githubusercontent.com/u/6748085?s=72&v=4" width="24" alt="Avatar of hfp"> hfp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#hfp">Copy rank badge</a><br/>
+			Hans Pabst
+		</td>
+		<td>Extreme Computing Software And<br/>Systems<br/></td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>736</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
+			<a href="https://github.com/cmutel">
+				<img src="https://avatars.githubusercontent.com/u/645217?s=72&v=4" width="24" alt="Avatar of cmutel"> cmutel
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#cmutel">Copy rank badge</a><br/>
+			Chris Mutel
+		</td>
+		<td>Depart De Sentier/cauldron Solutions<br/></td>
+		<td>No Twitter Username</td>
+		<td>Riniken, Switzerland</td>
+		<td>728</td>
+	</tr>
+	<tr>
+		<td>219</td>
+		<td>
+			<a href="https://github.com/behnamasadi">
+				<img src="https://avatars.githubusercontent.com/u/1409975?s=72&u=3b72b77d14c79ab7893717a29cfa13c726c5fd94&v=4" width="24" alt="Avatar of behnamasadi"> behnamasadi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#behnamasadi">Copy rank badge</a><br/>
+			Behnam Asadi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/behnam_iut">behnam_iut</a></td>
+		<td>Lausanne, Switzerland </td>
+		<td>723</td>
+	</tr>
+	<tr>
+		<td>220</td>
+		<td>
 			<a href="https://github.com/dlemmermann">
 				<img src="https://avatars.githubusercontent.com/u/9534301?s=72&v=4" width="24" alt="Avatar of dlemmermann"> dlemmermann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dlemmermann">Copy rank badge</a><br/>
 			Dirk Lemmermann
 		</td>
 		<td>Dlsc </td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>600</td>
-	</tr>
-	<tr>
-		<td>218</td>
-		<td>
-			<a href="https://github.com/imagejan">
-				<img src="https://avatars.githubusercontent.com/u/2033938?s=72&v=4" width="24" alt="Avatar of imagejan"> imagejan
-			</a><br/>
-			Jan Eglinger
-		</td>
-		<td>Friedrich Miescher Institute For<br/>Biomedical<br/>Research<br/>(fmi)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Basel, Switzerland</td>
-		<td>595</td>
-	</tr>
-	<tr>
-		<td>219</td>
-		<td>
-			<a href="https://github.com/isidorn">
-				<img src="https://avatars.githubusercontent.com/u/1926584?s=72&u=85e9e40c7064315323df038c8fadedecc627ae02&v=4" width="24" alt="Avatar of isidorn"> isidorn
-			</a><br/>
-			Isidor Nikolic
-		</td>
-		<td>Microsoft </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>590</td>
-	</tr>
-	<tr>
-		<td>220</td>
-		<td>
-			<a href="https://github.com/rneher">
-				<img src="https://avatars.githubusercontent.com/u/8379168?s=72&v=4" width="24" alt="Avatar of rneher"> rneher
-			</a><br/>
-			Richard Neher
-		</td>
-		<td>Biozentrum, University Of Basel<br/></td>
-		<td><a href="https://twitter.com/richardneher">richardneher</a></td>
-		<td>Basel, Switzerland</td>
-		<td>587</td>
+		<td>721</td>
 	</tr>
 	<tr>
 		<td>221</td>
 		<td>
-			<a href="https://github.com/charnley">
-				<img src="https://avatars.githubusercontent.com/u/2011468?s=72&u=047ddbeca04dd7540e2caa9fd9989bf95d5fd682&v=4" width="24" alt="Avatar of charnley"> charnley
-			</a><br/>
-			Jimmy Kromann
+			<a href="https://github.com/vemonet">
+				<img src="https://avatars.githubusercontent.com/u/3778439?s=72&u=548e6f6a4c4885fb91658391bbda9604f81b96a7&v=4" width="24" alt="Avatar of vemonet"> vemonet
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#vemonet">Copy rank badge</a><br/>
+			Vincent Emonet
 		</td>
-		<td>Pharma Industry </td>
+		<td>@sib-swiss </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>584</td>
+		<td>720</td>
 	</tr>
 	<tr>
 		<td>222</td>
 		<td>
-			<a href="https://github.com/omlins">
-				<img src="https://avatars.githubusercontent.com/u/29657571?s=72&u=9ecdf938a593c2597854f404b7ebbac3c3da69d4&v=4" width="24" alt="Avatar of omlins"> omlins
-			</a><br/>
-			Samuel Omlin
+			<a href="https://github.com/RMeli">
+				<img src="https://avatars.githubusercontent.com/u/11348981?s=72&u=9aa6fa4f12cd4140509e9b25b6c78853fef089be&v=4" width="24" alt="Avatar of RMeli"> RMeli
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#RMeli">Copy rank badge</a><br/>
+			Rocco Meli
 		</td>
-		<td>Cscs - Swiss National<br/>Supercomputing<br/>Centre<br/></td>
+		<td>@eth-cscs </td>
 		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>583</td>
+		<td>Lugano, Switzerland</td>
+		<td>715</td>
 	</tr>
 	<tr>
 		<td>223</td>
 		<td>
-			<a href="https://github.com/abertschi">
-				<img src="https://avatars.githubusercontent.com/u/2311941?s=72&u=d363f0988975b9590500b7f64a2218a7543d5a43&v=4" width="24" alt="Avatar of abertschi"> abertschi
-			</a><br/>
-			Andrin Bertschi
+			<a href="https://github.com/qnikst">
+				<img src="https://avatars.githubusercontent.com/u/170227?s=72&v=4" width="24" alt="Avatar of qnikst"> qnikst
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#qnikst">Copy rank badge</a><br/>
+			Alexander Vershilov
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/andrinbertschi">andrinbertschi</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>574</td>
+		<td><a href="https://twitter.com/qnikst">qnikst</a></td>
+		<td>Lausanne, Switzerland </td>
+		<td>708</td>
 	</tr>
 	<tr>
 		<td>224</td>
 		<td>
-			<a href="https://github.com/sephiroth74">
-				<img src="https://avatars.githubusercontent.com/u/823858?s=72&v=4" width="24" alt="Avatar of sephiroth74"> sephiroth74
-			</a><br/>
-			Alessandro Crugnola
+			<a href="https://github.com/aalmiray">
+				<img src="https://avatars.githubusercontent.com/u/13969?s=72&u=6a649c057ec7a4fb3acbd57899cc03c5f7c46819&v=4" width="24" alt="Avatar of aalmiray"> aalmiray
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#aalmiray">Copy rank badge</a><br/>
+			Andres Almiray
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, CH</td>
-		<td>572</td>
+		<td><a href="https://twitter.com/aalmiray">aalmiray</a></td>
+		<td>Basel, Switzerland</td>
+		<td>703</td>
 	</tr>
 	<tr>
 		<td>225</td>
 		<td>
-			<a href="https://github.com/zzamboni">
-				<img src="https://avatars.githubusercontent.com/u/32876?s=72&v=4" width="24" alt="Avatar of zzamboni"> zzamboni
-			</a><br/>
-			Diego Zamboni
+			<a href="https://github.com/davidsulc">
+				<img src="https://avatars.githubusercontent.com/u/356709?s=72&v=4" width="24" alt="Avatar of davidsulc"> davidsulc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#davidsulc">Copy rank badge</a><br/>
+			David Sulc
 		</td>
-		<td>Avaloq </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>563</td>
+		<td>701</td>
 	</tr>
 	<tr>
 		<td>226</td>
 		<td>
-			<a href="https://github.com/mpvl">
-				<img src="https://avatars.githubusercontent.com/u/6445383?s=72&u=952ab166c615366ecc27a1068b038e66b2403d18&v=4" width="24" alt="Avatar of mpvl"> mpvl
-			</a><br/>
-			Marcel van Lohuizen
+			<a href="https://github.com/thegreystone">
+				<img src="https://avatars.githubusercontent.com/u/16906077?s=72&u=b2ffaffab59f67f9ef948c7422b7c1277e07f7d0&v=4" width="24" alt="Avatar of thegreystone"> thegreystone
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#thegreystone">Copy rank badge</a><br/>
+			Marcus Hirt
 		</td>
-		<td>Cue </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>562</td>
+		<td>Datadog </td>
+		<td><a href="https://twitter.com/hirt">hirt</a></td>
+		<td>Switzerland</td>
+		<td>696</td>
 	</tr>
 	<tr>
 		<td>227</td>
 		<td>
 			<a href="https://github.com/vagenas">
 				<img src="https://avatars.githubusercontent.com/u/35837085?s=72&u=0a276dd08776945cd94a553eff3cfbb97b54cc4a&v=4" width="24" alt="Avatar of vagenas"> vagenas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#vagenas">Copy rank badge</a><br/>
 			Panos Vagenas
 		</td>
 		<td>Ibm Research </td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>560</td>
+		<td>685</td>
 	</tr>
 	<tr>
 		<td>228</td>
 		<td>
-			<a href="https://github.com/q-uint">
-				<img src="https://avatars.githubusercontent.com/u/6649717?s=72&u=8bc7c3b59933955455976340d90785e42b6295c0&v=4" width="24" alt="Avatar of q-uint"> q-uint
-			</a><br/>
-			Quint Daenen
+			<a href="https://github.com/Seb-GRAF">
+				<img src="https://avatars.githubusercontent.com/u/95282692?s=72&u=e0f723f817bec4bbe9e05ea795ae73551004d953&v=4" width="24" alt="Avatar of Seb-GRAF"> Seb-GRAF
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Seb-GRAF">Copy rank badge</a><br/>
+			Sebastien Graf
 		</td>
-		<td>@0x51-dev </td>
+		<td>Liip </td>
 		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>559</td>
+		<td>Switzerland</td>
+		<td>683</td>
 	</tr>
 	<tr>
 		<td>229</td>
 		<td>
-			<a href="https://github.com/pelson">
-				<img src="https://avatars.githubusercontent.com/u/810663?s=72&u=3e078b44f335b19abac618a82a66c07c83e06936&v=4" width="24" alt="Avatar of pelson"> pelson
-			</a><br/>
-			Phil Elson
+			<a href="https://github.com/tma">
+				<img src="https://avatars.githubusercontent.com/u/4719?s=72&u=1bb8d1b109e8e77e6e9214120d94e0e658e71a60&v=4" width="24" alt="Avatar of tma"> tma
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#tma">Copy rank badge</a><br/>
+			Thomas Maurer
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Geneva</td>
-		<td>555</td>
+		<td>Switzerland</td>
+		<td>678</td>
 	</tr>
 	<tr>
 		<td>230</td>
 		<td>
-			<a href="https://github.com/bar9">
-				<img src="https://avatars.githubusercontent.com/u/10152191?s=72&u=ff11e0b2b775aed8b61a7fdf9e63d87e0c53bfa3&v=4" width="24" alt="Avatar of bar9"> bar9
-			</a><br/>
-			Roland Brand
+			<a href="https://github.com/FlorentRevest">
+				<img src="https://avatars.githubusercontent.com/u/908424?s=72&u=819398bb087d8dbc66b7e407feae5f2493794a77&v=4" width="24" alt="Avatar of FlorentRevest"> FlorentRevest
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#FlorentRevest">Copy rank badge</a><br/>
+			Florent Revest
 		</td>
-		<td>@iwf-web </td>
-		<td><a href="https://twitter.com/RolandBrand5">RolandBrand5</a></td>
-		<td>Basel, Switzerland</td>
-		<td>551</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>674</td>
 	</tr>
 	<tr>
 		<td>231</td>
 		<td>
-			<a href="https://github.com/cmutel">
-				<img src="https://avatars.githubusercontent.com/u/645217?s=72&v=4" width="24" alt="Avatar of cmutel"> cmutel
-			</a><br/>
-			Chris Mutel
+			<a href="https://github.com/ceriottm">
+				<img src="https://avatars.githubusercontent.com/u/1118823?s=72&v=4" width="24" alt="Avatar of ceriottm"> ceriottm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ceriottm">Copy rank badge</a><br/>
+			Michele Ceriotti
 		</td>
-		<td>Depart De Sentier/cauldron Solutions<br/></td>
+		<td>Epfl </td>
 		<td>No Twitter Username</td>
-		<td>Riniken, Switzerland</td>
-		<td>550</td>
+		<td>Lausanne - Switzerland</td>
+		<td>671</td>
 	</tr>
 	<tr>
 		<td>232</td>
 		<td>
-			<a href="https://github.com/tma">
-				<img src="https://avatars.githubusercontent.com/u/4719?s=72&u=1bb8d1b109e8e77e6e9214120d94e0e658e71a60&v=4" width="24" alt="Avatar of tma"> tma
-			</a><br/>
-			Thomas Maurer
-		</td>
-		<td>@github </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>546</td>
-	</tr>
-	<tr>
-		<td>233</td>
-		<td>
-			<a href="https://github.com/dret">
-				<img src="https://avatars.githubusercontent.com/u/1848612?s=72&u=dacdfa5408d152704f36b2171ee14cf1c1eb2079&v=4" width="24" alt="Avatar of dret"> dret
-			</a><br/>
-			Erik Wilde
-		</td>
-		<td>Jentic </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>545</td>
-	</tr>
-	<tr>
-		<td>234</td>
-		<td>
-			<a href="https://github.com/JohnCoene">
-				<img src="https://avatars.githubusercontent.com/u/7833796?s=72&u=6ed390a7c2e32450d3ec84a7055ad9ad7e49b618&v=4" width="24" alt="Avatar of JohnCoene"> JohnCoene
-			</a><br/>
-			John Coene
-		</td>
-		<td>@devopifex </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>541</td>
-	</tr>
-	<tr>
-		<td>235</td>
-		<td>
-			<a href="https://github.com/natsukagami">
-				<img src="https://avatars.githubusercontent.com/u/9061737?s=72&v=4" width="24" alt="Avatar of natsukagami"> natsukagami
-			</a><br/>
-			Natsu Kagami
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>540</td>
-	</tr>
-	<tr>
-		<td>236</td>
-		<td>
-			<a href="https://github.com/belaban">
-				<img src="https://avatars.githubusercontent.com/u/457949?s=72&v=4" width="24" alt="Avatar of belaban"> belaban
-			</a><br/>
-			Bela Ban
-		</td>
-		<td>Red Hat </td>
-		<td>No Twitter Username</td>
-		<td>Kreuzlingen, Switzerland</td>
-		<td>539</td>
-	</tr>
-	<tr>
-		<td>237</td>
-		<td>
-			<a href="https://github.com/ponsfrilus">
-				<img src="https://avatars.githubusercontent.com/u/176002?s=72&u=7d942a2b8899f31cf73a06ff24fccbeda900ae07&v=4" width="24" alt="Avatar of ponsfrilus"> ponsfrilus
-			</a><br/>
-			Nicolas Borboën
-		</td>
-		<td>@epfl-si </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>538</td>
-	</tr>
-	<tr>
-		<td>238</td>
-		<td>
 			<a href="https://github.com/cpitclaudel">
 				<img src="https://avatars.githubusercontent.com/u/8181630?s=72&u=2cc71597fa03b4f434d315d1de1bce99240a3e8a&v=4" width="24" alt="Avatar of cpitclaudel"> cpitclaudel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#cpitclaudel">Copy rank badge</a><br/>
 			Clément Pit-Claudel
 		</td>
 		<td>Epfl </td>
 		<td><a href="https://twitter.com/cpitclaudel">cpitclaudel</a></td>
 		<td>Lausanne, Switzerland</td>
-		<td>535</td>
+		<td>668</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>233</td>
 		<td>
-			<a href="https://github.com/0xced">
-				<img src="https://avatars.githubusercontent.com/u/51363?s=72&v=4" width="24" alt="Avatar of 0xced"> 0xced
-			</a><br/>
-			Cédric Luthi
+			<a href="https://github.com/raphink">
+				<img src="https://avatars.githubusercontent.com/u/650430?s=72&u=edf01c5250adfd9028b9879fc069c213cfb1d6d6&v=4" width="24" alt="Avatar of raphink"> raphink
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#raphink">Copy rank badge</a><br/>
+			Raphaël Pinson
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/0xced">0xced</a></td>
-		<td>Fribourg, Switzerland</td>
-		<td>531</td>
-	</tr>
-	<tr>
-		<td>240</td>
-		<td>
-			<a href="https://github.com/FlorentRevest">
-				<img src="https://avatars.githubusercontent.com/u/908424?s=72&u=819398bb087d8dbc66b7e407feae5f2493794a77&v=4" width="24" alt="Avatar of FlorentRevest"> FlorentRevest
-			</a><br/>
-			Florent Revest
-		</td>
-		<td>@google </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>524</td>
-	</tr>
-	<tr>
-		<td>241</td>
-		<td>
-			<a href="https://github.com/JonasVautherin">
-				<img src="https://avatars.githubusercontent.com/u/2606672?s=72&u=d34c77735deebcbef1eb074d5303a7eb0a77a1a8&v=4" width="24" alt="Avatar of JonasVautherin"> JonasVautherin
-			</a><br/>
-			Jonas Vautherin
-		</td>
-		<td>@esri </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>522</td>
-	</tr>
-	<tr>
-		<td>242</td>
-		<td>
-			<a href="https://github.com/didier-durand">
-				<img src="https://avatars.githubusercontent.com/u/2927957?s=72&u=5db78771922351582560a0f58e862aadea50c83c&v=4" width="24" alt="Avatar of didier-durand"> didier-durand
-			</a><br/>
-			Didier Durand
-		</td>
-		<td>Aws </td>
-		<td><a href="https://twitter.com/didierdurand">didierdurand</a></td>
-		<td>Switzerland / France</td>
-		<td>515</td>
-	</tr>
-	<tr>
-		<td>243</td>
-		<td>
-			<a href="https://github.com/raoulcollenteur">
-				<img src="https://avatars.githubusercontent.com/u/12051167?s=72&u=da33ab8366d16fbde20ae96910461f5d28144b86&v=4" width="24" alt="Avatar of raoulcollenteur"> raoulcollenteur
-			</a><br/>
-			Raoul Collenteur
-		</td>
-		<td>Collenteur Hydroconsult Gmbh </td>
-		<td>No Twitter Username</td>
-		<td>Spiez, Switzerland</td>
-		<td>514</td>
-	</tr>
-	<tr>
-		<td>244</td>
-		<td>
-			<a href="https://github.com/eXpl0it3r">
-				<img src="https://avatars.githubusercontent.com/u/920861?s=72&u=f083a05d0267e1c94cae9527a0704d885fe45674&v=4" width="24" alt="Avatar of eXpl0it3r"> eXpl0it3r
-			</a><br/>
-			Lukas Dürrenberger
-		</td>
-		<td>@digitecgalaxus </td>
-		<td><a href="https://twitter.com/DarkCisum">DarkCisum</a></td>
-		<td>Switzerland</td>
-		<td>513</td>
-	</tr>
-	<tr>
-		<td>245</td>
-		<td>
-			<a href="https://github.com/patrick-kidger">
-				<img src="https://avatars.githubusercontent.com/u/33688385?s=72&u=bead9dd6effb04344bba650b32e9f911dc1ff9fc&v=4" width="24" alt="Avatar of patrick-kidger"> patrick-kidger
-			</a><br/>
-			Patrick Kidger
-		</td>
-		<td>Cradle.bio </td>
-		<td><a href="https://twitter.com/PatrickKidger">PatrickKidger</a></td>
-		<td>Zürich</td>
-		<td>512</td>
-	</tr>
-	<tr>
-		<td>246</td>
-		<td>
-			<a href="https://github.com/szegedi">
-				<img src="https://avatars.githubusercontent.com/u/122822?s=72&u=6f1f263e236610028813d24613f2e7e5c57e7264&v=4" width="24" alt="Avatar of szegedi"> szegedi
-			</a><br/>
-			Attila Szegedi
-		</td>
-		<td>@datadog  </td>
-		<td>No Twitter Username</td>
-		<td>Zug, Switzerland</td>
-		<td>507</td>
-	</tr>
-	<tr>
-		<td>247</td>
-		<td>
-			<a href="https://github.com/Ulydev">
-				<img src="https://avatars.githubusercontent.com/u/9826683?s=72&u=ac2dffc8317445f8c9f42a5415febf4bd3aedf3e&v=4" width="24" alt="Avatar of Ulydev"> Ulydev
-			</a><br/>
-			Ulysse Ramage
-		</td>
-		<td>Spectra </td>
-		<td><a href="https://twitter.com/ulydev">ulydev</a></td>
-		<td>Switzerland</td>
-		<td>496</td>
-	</tr>
-	<tr>
-		<td>248</td>
-		<td>
-			<a href="https://github.com/coorasse">
-				<img src="https://avatars.githubusercontent.com/u/1319150?s=72&u=fed92203a27888056f57b6cd4aa4ed33dcabb6ec&v=4" width="24" alt="Avatar of coorasse"> coorasse
-			</a><br/>
-			Alessandro Rodi
-		</td>
-		<td>@renuo  </td>
-		<td><a href="https://twitter.com/coorasse">coorasse</a></td>
-		<td>Zürich</td>
-		<td>490</td>
-	</tr>
-	<tr>
-		<td>249</td>
-		<td>
-			<a href="https://github.com/Mayankm96">
-				<img src="https://avatars.githubusercontent.com/u/12863862?s=72&u=1176882cad64fd5ad6715de586e37911f17c4aba&v=4" width="24" alt="Avatar of Mayankm96"> Mayankm96
-			</a><br/>
-			Mayank Mittal
-		</td>
-		<td>@leggedrobotics, @nvidia-omniverse </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>477</td>
-	</tr>
-	<tr>
-		<td>250</td>
-		<td>
-			<a href="https://github.com/betatim">
-				<img src="https://avatars.githubusercontent.com/u/1448859?s=72&u=bb1fe43e670621cb0bb0a8ab915ff15d649d0f80&v=4" width="24" alt="Avatar of betatim"> betatim
-			</a><br/>
-			Tim Head
-		</td>
-		<td>Nvidia  </td>
-		<td><a href="https://twitter.com/betatim">betatim</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>467</td>
-	</tr>
-	<tr>
-		<td>251</td>
-		<td>
-			<a href="https://github.com/rochus-keller">
-				<img src="https://avatars.githubusercontent.com/u/2523113?s=72&u=2d7857e3c617fe13ec7685b43ffd3eeef3cf6598&v=4" width="24" alt="Avatar of rochus-keller"> rochus-keller
-			</a><br/>
-			Rochus Keller
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>463</td>
-	</tr>
-	<tr>
-		<td>252</td>
-		<td>
-			<a href="https://github.com/marcbachmann">
-				<img src="https://avatars.githubusercontent.com/u/431376?s=72&u=1b983dba8d775eee7cfa00922efa3c85d2c6bd6a&v=4" width="24" alt="Avatar of marcbachmann"> marcbachmann
-			</a><br/>
-			Marc Bachmann
-		</td>
-		<td>Livingdocs Ag </td>
-		<td><a href="https://twitter.com/mrbrookman">mrbrookman</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>461</td>
-	</tr>
-	<tr>
-		<td>253</td>
-		<td>
-			<a href="https://github.com/peterbraden">
-				<img src="https://avatars.githubusercontent.com/u/52586?s=72&u=bf87f6541f6fe7e786b3b3c30c5bf00fd5e3415a&v=4" width="24" alt="Avatar of peterbraden"> peterbraden
-			</a><br/>
-			Peter Braden
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>459</td>
-	</tr>
-	<tr>
-		<td>254</td>
-		<td>
-			<a href="https://github.com/RomainLanz">
-				<img src="https://avatars.githubusercontent.com/u/2793951?s=72&u=8362820a019064366b206e3b8fc9116dd048410d&v=4" width="24" alt="Avatar of RomainLanz"> RomainLanz
-			</a><br/>
-			Romain Lanz
-		</td>
-		<td>Fivb </td>
-		<td><a href="https://twitter.com/romainlanz">romainlanz</a></td>
-		<td>Switzerland</td>
-		<td>454</td>
-	</tr>
-	<tr>
-		<td>255</td>
-		<td>
-			<a href="https://github.com/jankrepl">
-				<img src="https://avatars.githubusercontent.com/u/18519371?s=72&u=b9fdc49aaf7a29278e9c3386d7a93094a59f06ee&v=4" width="24" alt="Avatar of jankrepl"> jankrepl
-			</a><br/>
-			Jan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Geneva, Switzerland</td>
-		<td>450</td>
-	</tr>
-	<tr>
-		<td>256</td>
-		<td>
-			<a href="https://github.com/greschd">
-				<img src="https://avatars.githubusercontent.com/u/5692808?s=72&u=d181741cce86f9ebd2df135f2ddd497eb175bafe&v=4" width="24" alt="Avatar of greschd"> greschd
-			</a><br/>
-			Dominik Gresch
-		</td>
-		<td>@ansys  </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>449</td>
-	</tr>
-	<tr>
-		<td>257</td>
-		<td>
-			<a href="https://github.com/diegoferigo">
-				<img src="https://avatars.githubusercontent.com/u/469199?s=72&u=a104a19282a0c21b8fdeed0f8ce77a715f02d321&v=4" width="24" alt="Avatar of diegoferigo"> diegoferigo
-			</a><br/>
-			Diego Ferigo
-		</td>
-		<td>Robotics And Ai Institute<br/></td>
-		<td>No Twitter Username</td>
-		<td>Zürich (Switzerland)</td>
-		<td>446</td>
-	</tr>
-	<tr>
-		<td>258</td>
-		<td>
-			<a href="https://github.com/BetaHuhn">
-				<img src="https://avatars.githubusercontent.com/u/51766171?s=72&u=e735e1981879559af6b09371a4e7d3e5e95b64d2&v=4" width="24" alt="Avatar of BetaHuhn"> BetaHuhn
-			</a><br/>
-			Maximilian Schiller
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/betahuhn">betahuhn</a></td>
-		<td>Switzerland</td>
-		<td>445</td>
-	</tr>
-	<tr>
-		<td>259</td>
-		<td>
-			<a href="https://github.com/resmo">
-				<img src="https://avatars.githubusercontent.com/u/23809?s=72&u=41e22f5f023649603e075d5d7108fb9048bf9e6a&v=4" width="24" alt="Avatar of resmo"> resmo
-			</a><br/>
-			René Moser
-		</td>
-		<td>@ngine-io, @moser-systems </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>441</td>
-	</tr>
-	<tr>
-		<td>260</td>
-		<td>
-			<a href="https://github.com/linkdotnet">
-				<img src="https://avatars.githubusercontent.com/u/26365461?s=72&u=cac92261816db25e8b8d31854f59cfce69e292f5&v=4" width="24" alt="Avatar of linkdotnet"> linkdotnet
-			</a><br/>
-			Steven Giesel
-		</td>
-		<td>@bitspiregmbh  </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>440</td>
-	</tr>
-	<tr>
-		<td>261</td>
-		<td>
-			<a href="https://github.com/freezy">
-				<img src="https://avatars.githubusercontent.com/u/70426?s=72&v=4" width="24" alt="Avatar of freezy"> freezy
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
+		<td>@isovalent </td>
 		<td>No Twitter Username</td>
 		<td>Lausanne, Switzerland</td>
-		<td>437</td>
+		<td>660</td>
 	</tr>
 	<tr>
-		<td>262</td>
-		<td>
-			<a href="https://github.com/buehler">
-				<img src="https://avatars.githubusercontent.com/u/1067213?s=72&u=e3ed18d453fcdfe1b4163b893d448b1d943e9ce9&v=4" width="24" alt="Avatar of buehler"> buehler
-			</a><br/>
-			Christoph Bühler
-		</td>
-		<td>University Of St. Gallen<br/>(hsg)<br/></td>
-		<td>No Twitter Username</td>
-		<td>St.Gallen, Switzerland</td>
-		<td>437</td>
-	</tr>
-	<tr>
-		<td>263</td>
-		<td>
-			<a href="https://github.com/thomasmueller">
-				<img src="https://avatars.githubusercontent.com/u/932377?s=72&v=4" width="24" alt="Avatar of thomasmueller"> thomasmueller
-			</a><br/>
-			Thomas Mueller
-		</td>
-		<td>@adobe </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>431</td>
-	</tr>
-	<tr>
-		<td>264</td>
-		<td>
-			<a href="https://github.com/jan-wassenberg">
-				<img src="https://avatars.githubusercontent.com/u/17255429?s=72&u=e3ec70bb360e307d3edd9fc5beca9ea582c98a50&v=4" width="24" alt="Avatar of jan-wassenberg"> jan-wassenberg
-			</a><br/>
-			Jan Wassenberg
-		</td>
-		<td>Google Deepmind </td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>430</td>
-	</tr>
-	<tr>
-		<td>265</td>
-		<td>
-			<a href="https://github.com/The-Compiler">
-				<img src="https://avatars.githubusercontent.com/u/625793?s=72&u=61843cb1e3ad3c0aead4450cd982ba06c6f51126&v=4" width="24" alt="Avatar of The-Compiler"> The-Compiler
-			</a><br/>
-			Freya Bruhin
-		</td>
-		<td>Bruhin Software </td>
-		<td>No Twitter Username</td>
-		<td>Winterthur, Switzerland</td>
-		<td>429</td>
-	</tr>
-	<tr>
-		<td>266</td>
-		<td>
-			<a href="https://github.com/alina-yur">
-				<img src="https://avatars.githubusercontent.com/u/10358408?s=72&u=1ea9394464cac23560540bb1dcdbaa0299b0d677&v=4" width="24" alt="Avatar of alina-yur"> alina-yur
-			</a><br/>
-			Alina Yurenko
-		</td>
-		<td>Oracle </td>
-		<td><a href="https://twitter.com/alina_yurenko">alina_yurenko</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>429</td>
-	</tr>
-	<tr>
-		<td>267</td>
-		<td>
-			<a href="https://github.com/stephband">
-				<img src="https://avatars.githubusercontent.com/u/69022?s=72&v=4" width="24" alt="Avatar of stephband"> stephband
-			</a><br/>
-			stephband
-		</td>
-		<td>Http://cruncher.ch </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>426</td>
-	</tr>
-	<tr>
-		<td>268</td>
-		<td>
-			<a href="https://github.com/ClashLuke">
-				<img src="https://avatars.githubusercontent.com/u/39779310?s=72&u=4b61886643f68176015117e335cb55dd1e64aa35&v=4" width="24" alt="Avatar of ClashLuke"> ClashLuke
-			</a><br/>
-			Lucas Nestler
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>425</td>
-	</tr>
-	<tr>
-		<td>269</td>
-		<td>
-			<a href="https://github.com/adamant-pwn">
-				<img src="https://avatars.githubusercontent.com/u/14077831?s=72&v=4" width="24" alt="Avatar of adamant-pwn"> adamant-pwn
-			</a><br/>
-			Oleksandr Kulkov
-		</td>
-		<td>Eth Zürich </td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>421</td>
-	</tr>
-	<tr>
-		<td>270</td>
-		<td>
-			<a href="https://github.com/martpie">
-				<img src="https://avatars.githubusercontent.com/u/1311607?s=72&u=19abbfe1144b8f2344218fa37c07750ee402bf44&v=4" width="24" alt="Avatar of martpie"> martpie
-			</a><br/>
-			Pierre de la Martinière
-		</td>
-		<td>Meta </td>
-		<td><a href="https://twitter.com/martpie_">martpie_</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>420</td>
-	</tr>
-	<tr>
-		<td>271</td>
-		<td>
-			<a href="https://github.com/inspiringsource">
-				<img src="https://avatars.githubusercontent.com/u/50595835?s=72&u=8e2063b9f4b1b243dbcd39560db6bf0e97a69fa3&v=4" width="24" alt="Avatar of inspiringsource"> inspiringsource
-			</a><br/>
-			Avi B
-		</td>
-		<td>@avicloud.ch </td>
-		<td>No Twitter Username</td>
-		<td>Windisch, Switzerland</td>
-		<td>417</td>
-	</tr>
-	<tr>
-		<td>272</td>
-		<td>
-			<a href="https://github.com/thomaswue">
-				<img src="https://avatars.githubusercontent.com/u/5550412?s=72&u=6abe01ffc8121eeb138997864922ace39d7c6bfd&v=4" width="24" alt="Avatar of thomaswue"> thomaswue
-			</a><br/>
-			Thomas Wuerthinger
-		</td>
-		<td>Oracle Labs </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>414</td>
-	</tr>
-	<tr>
-		<td>273</td>
-		<td>
-			<a href="https://github.com/somebox">
-				<img src="https://avatars.githubusercontent.com/u/7750?s=72&u=83e63f3721afe71fc0b44b596625af9a2f485759&v=4" width="24" alt="Avatar of somebox"> somebox
-			</a><br/>
-			Jeremy Seitz
-		</td>
-		<td>Axpo Group </td>
-		<td>No Twitter Username</td>
-		<td>Luzern, Switzerland</td>
-		<td>410</td>
-	</tr>
-	<tr>
-		<td>274</td>
-		<td>
-			<a href="https://github.com/cdecker">
-				<img src="https://avatars.githubusercontent.com/u/120117?s=72&u=bc9b687aa99396b5b543ddb4147683926caf80d2&v=4" width="24" alt="Avatar of cdecker"> cdecker
-			</a><br/>
-			Christian Decker
-		</td>
-		<td>@blockstream  </td>
-		<td><a href="https://twitter.com/Snyke">Snyke</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>408</td>
-	</tr>
-	<tr>
-		<td>275</td>
-		<td>
-			<a href="https://github.com/gandro">
-				<img src="https://avatars.githubusercontent.com/u/50564?s=72&u=fe519d02560866230034aaf9af4b3fdb022f2b15&v=4" width="24" alt="Avatar of gandro"> gandro
-			</a><br/>
-			Sebastian Wicki
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>403</td>
-	</tr>
-	<tr>
-		<td>276</td>
-		<td>
-			<a href="https://github.com/andreolf">
-				<img src="https://avatars.githubusercontent.com/u/15174764?s=72&u=dc4b07d66e047419aa98fa3dc1691b41d2b7ac0e&v=4" width="24" alt="Avatar of andreolf"> andreolf
-			</a><br/>
-			Francesco
-		</td>
-		<td>Consensys  </td>
-		<td><a href="https://twitter.com/francescoswiss">francescoswiss</a></td>
-		<td>Switzerland</td>
-		<td>390</td>
-	</tr>
-	<tr>
-		<td>277</td>
-		<td>
-			<a href="https://github.com/AnomalRoil">
-				<img src="https://avatars.githubusercontent.com/u/10077203?s=72&u=15a98bac90dcea2779f21ca928263315c324f255&v=4" width="24" alt="Avatar of AnomalRoil"> AnomalRoil
-			</a><br/>
-			AnomalRoil
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/anomalroil">anomalroil</a></td>
-		<td>Switzerland</td>
-		<td>384</td>
-	</tr>
-	<tr>
-		<td>278</td>
-		<td>
-			<a href="https://github.com/Sadullah-TANRIKULU">
-				<img src="https://avatars.githubusercontent.com/u/96377202?s=72&u=222dee03b022685897962111035fa9691cfb5604&v=4" width="24" alt="Avatar of Sadullah-TANRIKULU"> Sadullah-TANRIKULU
-			</a><br/>
-			Sadullah_David_Moses_TANRIKULU
-		</td>
-		<td>Freelance </td>
-		<td><a href="https://twitter.com/sadullahhhhhhh">sadullahhhhhhh</a></td>
-		<td>Zurich, SWITZERLAND</td>
-		<td>383</td>
-	</tr>
-	<tr>
-		<td>279</td>
-		<td>
-			<a href="https://github.com/thegreystone">
-				<img src="https://avatars.githubusercontent.com/u/16906077?s=72&u=b2ffaffab59f67f9ef948c7422b7c1277e07f7d0&v=4" width="24" alt="Avatar of thegreystone"> thegreystone
-			</a><br/>
-			Marcus Hirt
-		</td>
-		<td>Datadog </td>
-		<td><a href="https://twitter.com/hirt">hirt</a></td>
-		<td>Switzerland</td>
-		<td>382</td>
-	</tr>
-	<tr>
-		<td>280</td>
-		<td>
-			<a href="https://github.com/neophob">
-				<img src="https://avatars.githubusercontent.com/u/837347?s=72&v=4" width="24" alt="Avatar of neophob"> neophob
-			</a><br/>
-			Michael Vogt
-		</td>
-		<td>Https://playfield.de </td>
-		<td><a href="https://twitter.com/neophob">neophob</a></td>
-		<td>Bern, Switzerland</td>
-		<td>382</td>
-	</tr>
-	<tr>
-		<td>281</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/duguyue100">
 				<img src="https://avatars.githubusercontent.com/u/939553?s=72&u=92f39b9582f4bf7233c0d90860a5e42e97a7b7aa&v=4" width="24" alt="Avatar of duguyue100"> duguyue100
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#duguyue100">Copy rank badge</a><br/>
 			Yuhuang Hu
 		</td>
 		<td>Latticeflow Ag </td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>381</td>
+		<td>657</td>
+	</tr>
+	<tr>
+		<td>235</td>
+		<td>
+			<a href="https://github.com/PhilippSalvisberg">
+				<img src="https://avatars.githubusercontent.com/u/3883171?s=72&u=effaa5f8d65022d5c41c4c7e8dc6d1099b579efd&v=4" width="24" alt="Avatar of PhilippSalvisberg"> PhilippSalvisberg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#PhilippSalvisberg">Copy rank badge</a><br/>
+			Philipp Salvisberg
+		</td>
+		<td>@grisselbav  </td>
+		<td><a href="https://twitter.com/phsalvisberg">phsalvisberg</a></td>
+		<td>Winterthur, Switzerland</td>
+		<td>650</td>
+	</tr>
+	<tr>
+		<td>236</td>
+		<td>
+			<a href="https://github.com/simonepri">
+				<img src="https://avatars.githubusercontent.com/u/3505087?s=72&u=be26a33229057c41fdd7f2c8f3dc73783148653b&v=4" width="24" alt="Avatar of simonepri"> simonepri
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#simonepri">Copy rank badge</a><br/>
+			Simone Primarosa
+		</td>
+		<td>Boltz | Former: Google,<br/>Microsoft,<br/>Busrapido<br/></td>
+		<td><a href="https://twitter.com/simoneprimarosa">simoneprimarosa</a></td>
+		<td>Zurich, Switzerland.</td>
+		<td>646</td>
+	</tr>
+	<tr>
+		<td>237</td>
+		<td>
+			<a href="https://github.com/jeremytammik">
+				<img src="https://avatars.githubusercontent.com/u/4264589?s=72&u=0661b68db0b6bf3d58b41788b3df1e81a3171659&v=4" width="24" alt="Avatar of jeremytammik"> jeremytammik
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jeremytammik">Copy rank badge</a><br/>
+			Jeremy Tammik
+		</td>
+		<td>Autodesk </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>641</td>
+	</tr>
+	<tr>
+		<td>238</td>
+		<td>
+			<a href="https://github.com/JohnCoene">
+				<img src="https://avatars.githubusercontent.com/u/7833796?s=72&u=6ed390a7c2e32450d3ec84a7055ad9ad7e49b618&v=4" width="24" alt="Avatar of JohnCoene"> JohnCoene
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#JohnCoene">Copy rank badge</a><br/>
+			John Coene
+		</td>
+		<td>@devopifex </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>630</td>
+	</tr>
+	<tr>
+		<td>239</td>
+		<td>
+			<a href="https://github.com/natsukagami">
+				<img src="https://avatars.githubusercontent.com/u/9061737?s=72&v=4" width="24" alt="Avatar of natsukagami"> natsukagami
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#natsukagami">Copy rank badge</a><br/>
+			Natsu Kagami
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>625</td>
+	</tr>
+	<tr>
+		<td>240</td>
+		<td>
+			<a href="https://github.com/matthias-springer">
+				<img src="https://avatars.githubusercontent.com/u/2033320?s=72&u=395b6d7b7c88e2174685db375da0d619fa7e88a7&v=4" width="24" alt="Avatar of matthias-springer"> matthias-springer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#matthias-springer">Copy rank badge</a><br/>
+			Matthias Springer
+		</td>
+		<td>Nvidia </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>625</td>
+	</tr>
+	<tr>
+		<td>241</td>
+		<td>
+			<a href="https://github.com/dret">
+				<img src="https://avatars.githubusercontent.com/u/1848612?s=72&u=dacdfa5408d152704f36b2171ee14cf1c1eb2079&v=4" width="24" alt="Avatar of dret"> dret
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dret">Copy rank badge</a><br/>
+			Erik Wilde
+		</td>
+		<td>Jentic </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>618</td>
+	</tr>
+	<tr>
+		<td>242</td>
+		<td>
+			<a href="https://github.com/patte">
+				<img src="https://avatars.githubusercontent.com/u/3500621?s=72&u=5719daa9c9307cf2cd68f60f5b393861a19f657c&v=4" width="24" alt="Avatar of patte"> patte
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#patte">Copy rank badge</a><br/>
+			Patrick Recher
+		</td>
+		<td>@nala-earth, Ex @init7, Ex<br/>@republik<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Germany, Switzerland</td>
+		<td>613</td>
+	</tr>
+	<tr>
+		<td>243</td>
+		<td>
+			<a href="https://github.com/aymenfurter">
+				<img src="https://avatars.githubusercontent.com/u/20464460?s=72&u=284b0f1a8a8646a744a5f95ce2cb2c496a56a1cc&v=4" width="24" alt="Avatar of aymenfurter"> aymenfurter
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#aymenfurter">Copy rank badge</a><br/>
+			Aymen
+		</td>
+		<td>@microsoft  </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>610</td>
+	</tr>
+	<tr>
+		<td>244</td>
+		<td>
+			<a href="https://github.com/verhas">
+				<img src="https://avatars.githubusercontent.com/u/1597979?s=72&v=4" width="24" alt="Avatar of verhas"> verhas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#verhas">Copy rank badge</a><br/>
+			Peter Verhas
+		</td>
+		<td>N/a </td>
+		<td><a href="https://twitter.com/verhas">verhas</a></td>
+		<td>Zürich Switzerland Europe Earth</td>
+		<td>609</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/imagejan">
+				<img src="https://avatars.githubusercontent.com/u/2033938?s=72&v=4" width="24" alt="Avatar of imagejan"> imagejan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#imagejan">Copy rank badge</a><br/>
+			Jan Eglinger
+		</td>
+		<td>Friedrich Miescher Institute For<br/>Biomedical<br/>Research<br/>(fmi)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Basel, Switzerland</td>
+		<td>608</td>
+	</tr>
+	<tr>
+		<td>246</td>
+		<td>
+			<a href="https://github.com/charnley">
+				<img src="https://avatars.githubusercontent.com/u/2011468?s=72&u=047ddbeca04dd7540e2caa9fd9989bf95d5fd682&v=4" width="24" alt="Avatar of charnley"> charnley
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#charnley">Copy rank badge</a><br/>
+			Jimmy Kromann
+		</td>
+		<td>Pharma Industry </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>607</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>
+			<a href="https://github.com/smarter">
+				<img src="https://avatars.githubusercontent.com/u/63430?s=72&u=8199262345c7d3a192d6cf43807ada52f6c69d5c&v=4" width="24" alt="Avatar of smarter"> smarter
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#smarter">Copy rank badge</a><br/>
+			Guillaume Martres
+		</td>
+		<td>Arteris  / <br/><br/>Scala<br/>Center<br/></td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>603</td>
+	</tr>
+	<tr>
+		<td>248</td>
+		<td>
+			<a href="https://github.com/bar9">
+				<img src="https://avatars.githubusercontent.com/u/10152191?s=72&u=ff11e0b2b775aed8b61a7fdf9e63d87e0c53bfa3&v=4" width="24" alt="Avatar of bar9"> bar9
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#bar9">Copy rank badge</a><br/>
+			Roland Brand
+		</td>
+		<td>@iwf-web </td>
+		<td><a href="https://twitter.com/RolandBrand5">RolandBrand5</a></td>
+		<td>Basel, Switzerland</td>
+		<td>600</td>
+	</tr>
+	<tr>
+		<td>249</td>
+		<td>
+			<a href="https://github.com/mantoni">
+				<img src="https://avatars.githubusercontent.com/u/332271?s=72&u=45ee8bd6a11d2c82321319eeefdebce7ee748279&v=4" width="24" alt="Avatar of mantoni"> mantoni
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mantoni">Copy rank badge</a><br/>
+			Maximilian Antoni
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mantoni">mantoni</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>596</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>
+			<a href="https://github.com/omlins">
+				<img src="https://avatars.githubusercontent.com/u/29657571?s=72&u=9ecdf938a593c2597854f404b7ebbac3c3da69d4&v=4" width="24" alt="Avatar of omlins"> omlins
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#omlins">Copy rank badge</a><br/>
+			Samuel Omlin
+		</td>
+		<td>Cscs - Swiss National<br/>Supercomputing<br/>Centre<br/></td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>591</td>
+	</tr>
+	<tr>
+		<td>251</td>
+		<td>
+			<a href="https://github.com/tomchop">
+				<img src="https://avatars.githubusercontent.com/u/1257972?s=72&u=ec3b2670d54ac8f81742d1830d6d971326d91686&v=4" width="24" alt="Avatar of tomchop"> tomchop
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#tomchop">Copy rank badge</a><br/>
+			Thomas Chopitea
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>590</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>
+			<a href="https://github.com/pelson">
+				<img src="https://avatars.githubusercontent.com/u/810663?s=72&u=3e078b44f335b19abac618a82a66c07c83e06936&v=4" width="24" alt="Avatar of pelson"> pelson
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pelson">Copy rank badge</a><br/>
+			Phil Elson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Geneva</td>
+		<td>588</td>
+	</tr>
+	<tr>
+		<td>253</td>
+		<td>
+			<a href="https://github.com/buehler">
+				<img src="https://avatars.githubusercontent.com/u/1067213?s=72&u=e3ed18d453fcdfe1b4163b893d448b1d943e9ce9&v=4" width="24" alt="Avatar of buehler"> buehler
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#buehler">Copy rank badge</a><br/>
+			Christoph Bühler
+		</td>
+		<td>University Of St. Gallen<br/>(hsg)<br/></td>
+		<td>No Twitter Username</td>
+		<td>St.Gallen, Switzerland</td>
+		<td>581</td>
+	</tr>
+	<tr>
+		<td>254</td>
+		<td>
+			<a href="https://github.com/mgeisler">
+				<img src="https://avatars.githubusercontent.com/u/89623?s=72&v=4" width="24" alt="Avatar of mgeisler"> mgeisler
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mgeisler">Copy rank badge</a><br/>
+			Martin Geisler
+		</td>
+		<td>@protonmail </td>
+		<td><a href="https://twitter.com/mrtngslr">mrtngslr</a></td>
+		<td>Switzerland</td>
+		<td>575</td>
+	</tr>
+	<tr>
+		<td>255</td>
+		<td>
+			<a href="https://github.com/raoulcollenteur">
+				<img src="https://avatars.githubusercontent.com/u/12051167?s=72&u=da33ab8366d16fbde20ae96910461f5d28144b86&v=4" width="24" alt="Avatar of raoulcollenteur"> raoulcollenteur
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#raoulcollenteur">Copy rank badge</a><br/>
+			Raoul Collenteur
+		</td>
+		<td>Collenteur Hydroconsult Gmbh </td>
+		<td>No Twitter Username</td>
+		<td>Spiez, Switzerland</td>
+		<td>575</td>
+	</tr>
+	<tr>
+		<td>256</td>
+		<td>
+			<a href="https://github.com/pascalberger">
+				<img src="https://avatars.githubusercontent.com/u/2190718?s=72&v=4" width="24" alt="Avatar of pascalberger"> pascalberger
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pascalberger">Copy rank badge</a><br/>
+			Pascal Berger
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>571</td>
+	</tr>
+	<tr>
+		<td>257</td>
+		<td>
+			<a href="https://github.com/domwoe">
+				<img src="https://avatars.githubusercontent.com/u/1970182?s=72&u=26be1fc80226357412a0d5e4d9aaf38337b56d22&v=4" width="24" alt="Avatar of domwoe"> domwoe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#domwoe">Copy rank badge</a><br/>
+			Dominic Wörner
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/domiwoe">domiwoe</a></td>
+		<td>Switzerland</td>
+		<td>569</td>
+	</tr>
+	<tr>
+		<td>258</td>
+		<td>
+			<a href="https://github.com/dbu">
+				<img src="https://avatars.githubusercontent.com/u/76576?s=72&u=4e358ad9d8412a83e7546c7773a73aed2fefc488&v=4" width="24" alt="Avatar of dbu"> dbu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dbu">Copy rank badge</a><br/>
+			David Buchmann
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>563</td>
+	</tr>
+	<tr>
+		<td>259</td>
+		<td>
+			<a href="https://github.com/brutasse">
+				<img src="https://avatars.githubusercontent.com/u/31269?s=72&v=4" width="24" alt="Avatar of brutasse"> brutasse
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#brutasse">Copy rank badge</a><br/>
+			Bruno Renié
+		</td>
+		<td>@exoscale  </td>
+		<td><a href="https://twitter.com/brutasse">brutasse</a></td>
+		<td>Lausanne area, Switzerland</td>
+		<td>563</td>
+	</tr>
+	<tr>
+		<td>260</td>
+		<td>
+			<a href="https://github.com/dougxc">
+				<img src="https://avatars.githubusercontent.com/u/5080087?s=72&u=a7c3f468f974c3a332dfdb10dca1c2e1d62007f9&v=4" width="24" alt="Avatar of dougxc"> dougxc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dougxc">Copy rank badge</a><br/>
+			Douglas Simon
+		</td>
+		<td>Oracle Labs </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>563</td>
+	</tr>
+	<tr>
+		<td>261</td>
+		<td>
+			<a href="https://github.com/szegedi">
+				<img src="https://avatars.githubusercontent.com/u/122822?s=72&u=6f1f263e236610028813d24613f2e7e5c57e7264&v=4" width="24" alt="Avatar of szegedi"> szegedi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#szegedi">Copy rank badge</a><br/>
+			Attila Szegedi
+		</td>
+		<td>@datadog  </td>
+		<td>No Twitter Username</td>
+		<td>Zug, Switzerland</td>
+		<td>559</td>
+	</tr>
+	<tr>
+		<td>262</td>
+		<td>
+			<a href="https://github.com/dirmeier">
+				<img src="https://avatars.githubusercontent.com/u/16086606?s=72&u=15dbf586ebe31b8783531fe253d64d27d9e4721a&v=4" width="24" alt="Avatar of dirmeier"> dirmeier
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dirmeier">Copy rank badge</a><br/>
+			Simon Dirmeier
+		</td>
+		<td>@logitech </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>559</td>
+	</tr>
+	<tr>
+		<td>263</td>
+		<td>
+			<a href="https://github.com/baentsch">
+				<img src="https://avatars.githubusercontent.com/u/57787676?s=72&u=a7001b71683726e6d30920663d383b025a3b9765&v=4" width="24" alt="Avatar of baentsch"> baentsch
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#baentsch">Copy rank badge</a><br/>
+			Michael Baentsch
+		</td>
+		<td>Baentsch.ch </td>
+		<td>No Twitter Username</td>
+		<td>Einsiedeln, Switzerland</td>
+		<td>559</td>
+	</tr>
+	<tr>
+		<td>264</td>
+		<td>
+			<a href="https://github.com/0n1cOn3">
+				<img src="https://avatars.githubusercontent.com/u/27576311?s=72&u=574c7dd2fe415a563136c417e5919e6d256f033a&v=4" width="24" alt="Avatar of 0n1cOn3"> 0n1cOn3
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#0n1cOn3">Copy rank badge</a><br/>
+			Stefan Kuny
+		</td>
+		<td>@it-kuny @neternels @nosial </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>557</td>
+	</tr>
+	<tr>
+		<td>265</td>
+		<td>
+			<a href="https://github.com/peterbraden">
+				<img src="https://avatars.githubusercontent.com/u/52586?s=72&u=bf87f6541f6fe7e786b3b3c30c5bf00fd5e3415a&v=4" width="24" alt="Avatar of peterbraden"> peterbraden
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#peterbraden">Copy rank badge</a><br/>
+			Peter Braden
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>556</td>
+	</tr>
+	<tr>
+		<td>266</td>
+		<td>
+			<a href="https://github.com/patrick-zippenfenig">
+				<img src="https://avatars.githubusercontent.com/u/11670456?s=72&u=74b54294d32ba58981dd690779303b7454ec6836&v=4" width="24" alt="Avatar of patrick-zippenfenig"> patrick-zippenfenig
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#patrick-zippenfenig">Copy rank badge</a><br/>
+			Patrick Zippenfenig
+		</td>
+		<td>@open-meteo  </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>547</td>
+	</tr>
+	<tr>
+		<td>267</td>
+		<td>
+			<a href="https://github.com/daniel149afonso">
+				<img src="https://avatars.githubusercontent.com/u/182422760?s=72&u=05c59c06d25cb611a75b4ec51d082d4f72c78020&v=4" width="24" alt="Avatar of daniel149afonso"> daniel149afonso
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#daniel149afonso">Copy rank badge</a><br/>
+			Daniel
+		</td>
+		<td>42lausanne </td>
+		<td>No Twitter Username</td>
+		<td>Geneva, Switzerland</td>
+		<td>542</td>
+	</tr>
+	<tr>
+		<td>268</td>
+		<td>
+			<a href="https://github.com/JumpiiX">
+				<img src="https://avatars.githubusercontent.com/u/131596117?s=72&u=549fee1a36d91fb60fda1fbf7af288f3cb27e3e1&v=4" width="24" alt="Avatar of JumpiiX"> JumpiiX
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#JumpiiX">Copy rank badge</a><br/>
+			David Unterguggenberger
+		</td>
+		<td>@ambitiq </td>
+		<td><a href="https://twitter.com/JumpiiX24">JumpiiX24</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>542</td>
+	</tr>
+	<tr>
+		<td>269</td>
+		<td>
+			<a href="https://github.com/greschd">
+				<img src="https://avatars.githubusercontent.com/u/5692808?s=72&u=d181741cce86f9ebd2df135f2ddd497eb175bafe&v=4" width="24" alt="Avatar of greschd"> greschd
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#greschd">Copy rank badge</a><br/>
+			Dominik Gresch
+		</td>
+		<td>@ansys  </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>539</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>
+			<a href="https://github.com/mario-deluna">
+				<img src="https://avatars.githubusercontent.com/u/956212?s=72&u=ff7482ea94e9be7966d5febe2d2a03ad054306d8&v=4" width="24" alt="Avatar of mario-deluna"> mario-deluna
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mario-deluna">Copy rank badge</a><br/>
+			Mario Deluna
+		</td>
+		<td>Betabrain Games </td>
+		<td><a href="https://twitter.com/Mario_Deluna">Mario_Deluna</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>535</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>
+			<a href="https://github.com/JonasVautherin">
+				<img src="https://avatars.githubusercontent.com/u/2606672?s=72&u=d34c77735deebcbef1eb074d5303a7eb0a77a1a8&v=4" width="24" alt="Avatar of JonasVautherin"> JonasVautherin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#JonasVautherin">Copy rank badge</a><br/>
+			Jonas Vautherin
+		</td>
+		<td>@esri </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>521</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
+			<a href="https://github.com/oleg-nenashev">
+				<img src="https://avatars.githubusercontent.com/u/3000480?s=72&u=d17d8f220f545791e0ce16e803864b46563fd678&v=4" width="24" alt="Avatar of oleg-nenashev"> oleg-nenashev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#oleg-nenashev">Copy rank badge</a><br/>
+			Oleg Nenashev
+		</td>
+		<td>@jenkinsci, @wiremock, @testcontainers </td>
+		<td><a href="https://twitter.com/oleg_nenashev">oleg_nenashev</a></td>
+		<td>Neuchâtel, Switzerland</td>
+		<td>520</td>
+	</tr>
+	<tr>
+		<td>273</td>
+		<td>
+			<a href="https://github.com/betatim">
+				<img src="https://avatars.githubusercontent.com/u/1448859?s=72&u=bb1fe43e670621cb0bb0a8ab915ff15d649d0f80&v=4" width="24" alt="Avatar of betatim"> betatim
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#betatim">Copy rank badge</a><br/>
+			Tim Head
+		</td>
+		<td>Nvidia  </td>
+		<td><a href="https://twitter.com/betatim">betatim</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>518</td>
+	</tr>
+	<tr>
+		<td>274</td>
+		<td>
+			<a href="https://github.com/tobie">
+				<img src="https://avatars.githubusercontent.com/u/3392?s=72&v=4" width="24" alt="Avatar of tobie"> tobie
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#tobie">Copy rank badge</a><br/>
+			Tobie Langel
+		</td>
+		<td>Unlockopen </td>
+		<td><a href="https://twitter.com/tobie">tobie</a></td>
+		<td>Geneva, Switzerland</td>
+		<td>517</td>
+	</tr>
+	<tr>
+		<td>275</td>
+		<td>
+			<a href="https://github.com/ceki">
+				<img src="https://avatars.githubusercontent.com/u/115476?s=72&u=992a87bcef9fc90944b462137ca62777282f9318&v=4" width="24" alt="Avatar of ceki"> ceki
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ceki">Copy rank badge</a><br/>
+			Ceki Gülcü
+		</td>
+		<td>Qos.ch (switzerland) </td>
+		<td><a href="https://twitter.com/ceki">ceki</a></td>
+		<td>Valais, Switzerland</td>
+		<td>506</td>
+	</tr>
+	<tr>
+		<td>276</td>
+		<td>
+			<a href="https://github.com/dvicini">
+				<img src="https://avatars.githubusercontent.com/u/5487532?s=72&u=7929b4c10e613b89b68c213dff9590b1b2cd4d01&v=4" width="24" alt="Avatar of dvicini"> dvicini
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dvicini">Copy rank badge</a><br/>
+			Delio Vicini
+		</td>
+		<td>@googlers  </td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>504</td>
+	</tr>
+	<tr>
+		<td>277</td>
+		<td>
+			<a href="https://github.com/infinisil">
+				<img src="https://avatars.githubusercontent.com/u/20525370?s=72&u=d7c703d1d8974c5837ca617d54e4a1ff85eb7721&v=4" width="24" alt="Avatar of infinisil"> infinisil
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#infinisil">Copy rank badge</a><br/>
+			Silvan Mosberger
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>503</td>
+	</tr>
+	<tr>
+		<td>278</td>
+		<td>
+			<a href="https://github.com/lzqyet">
+				<img src="https://avatars.githubusercontent.com/u/23734596?s=72&v=4" width="24" alt="Avatar of lzqyet"> lzqyet
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#lzqyet">Copy rank badge</a><br/>
+			lzqyet
+		</td>
+		<td>Deltaops </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>495</td>
+	</tr>
+	<tr>
+		<td>279</td>
+		<td>
+			<a href="https://github.com/0xced">
+				<img src="https://avatars.githubusercontent.com/u/51363?s=72&v=4" width="24" alt="Avatar of 0xced"> 0xced
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#0xced">Copy rank badge</a><br/>
+			Cédric Luthi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/0xced">0xced</a></td>
+		<td>Fribourg, Switzerland</td>
+		<td>489</td>
+	</tr>
+	<tr>
+		<td>280</td>
+		<td>
+			<a href="https://github.com/lvwerra">
+				<img src="https://avatars.githubusercontent.com/u/8264887?s=72&u=1e170968669fc1f852d3d122d65e8ff528f3d878&v=4" width="24" alt="Avatar of lvwerra"> lvwerra
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#lvwerra">Copy rank badge</a><br/>
+			Leandro von Werra
+		</td>
+		<td>@huggingface  </td>
+		<td><a href="https://twitter.com/lvwerra">lvwerra</a></td>
+		<td>Bern, Switzerland</td>
+		<td>485</td>
+	</tr>
+	<tr>
+		<td>281</td>
+		<td>
+			<a href="https://github.com/q-uint">
+				<img src="https://avatars.githubusercontent.com/u/6649717?s=72&u=8bc7c3b59933955455976340d90785e42b6295c0&v=4" width="24" alt="Avatar of q-uint"> q-uint
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#q-uint">Copy rank badge</a><br/>
+			Quint Daenen
+		</td>
+		<td>@0x51-dev </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>484</td>
 	</tr>
 	<tr>
 		<td>282</td>
 		<td>
+			<a href="https://github.com/dbrgn">
+				<img src="https://avatars.githubusercontent.com/u/105168?s=72&u=aaa9d3d128353134d25a6eaa50c213696891e757&v=4" width="24" alt="Avatar of dbrgn"> dbrgn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dbrgn">Copy rank badge</a><br/>
+			Danilo Bargen
+		</td>
+		<td>Threema Gmbh </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>480</td>
+	</tr>
+	<tr>
+		<td>283</td>
+		<td>
 			<a href="https://github.com/Pseudomanifold">
 				<img src="https://avatars.githubusercontent.com/u/11440811?s=72&u=5be6b4d101481b79dbf3409d4a7d1aa2f9c0e2e2&v=4" width="24" alt="Avatar of Pseudomanifold"> Pseudomanifold
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Pseudomanifold">Copy rank badge</a><br/>
 			Bastian Rieck
 		</td>
 		<td>@aidos-lab, University Of Fribourg<br/></td>
 		<td><a href="https://twitter.com/Pseudomanifold">Pseudomanifold</a></td>
 		<td>Fribourg, Switzerland </td>
-		<td>380</td>
-	</tr>
-	<tr>
-		<td>283</td>
-		<td>
-			<a href="https://github.com/merlinND">
-				<img src="https://avatars.githubusercontent.com/u/5563370?s=72&u=a0debc1ef8175503b5155c877fe51350b2ccca11&v=4" width="24" alt="Avatar of merlinND"> merlinND
-			</a><br/>
-			Merlin Nimier-David
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>380</td>
+		<td>478</td>
 	</tr>
 	<tr>
 		<td>284</td>
 		<td>
+			<a href="https://github.com/abey79">
+				<img src="https://avatars.githubusercontent.com/u/49431240?s=72&u=5148fbf93b4a75ca6a783142ed771506a6cdf051&v=4" width="24" alt="Avatar of abey79"> abey79
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#abey79">Copy rank badge</a><br/>
+			Antoine Beyeler
+		</td>
+		<td>@rerun-io </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>476</td>
+	</tr>
+	<tr>
+		<td>285</td>
+		<td>
+			<a href="https://github.com/bhbr">
+				<img src="https://avatars.githubusercontent.com/u/13440601?s=72&u=c38f8fc444593c42eb409c0da234b938305a58f1&v=4" width="24" alt="Avatar of bhbr"> bhbr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#bhbr">Copy rank badge</a><br/>
+			Ben Hambrecht
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>457</td>
+	</tr>
+	<tr>
+		<td>286</td>
+		<td>
+			<a href="https://github.com/jan-wassenberg">
+				<img src="https://avatars.githubusercontent.com/u/17255429?s=72&u=e3ec70bb360e307d3edd9fc5beca9ea582c98a50&v=4" width="24" alt="Avatar of jan-wassenberg"> jan-wassenberg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jan-wassenberg">Copy rank badge</a><br/>
+			Jan Wassenberg
+		</td>
+		<td>Google Deepmind </td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>450</td>
+	</tr>
+	<tr>
+		<td>287</td>
+		<td>
+			<a href="https://github.com/rochus-keller">
+				<img src="https://avatars.githubusercontent.com/u/2523113?s=72&u=2d7857e3c617fe13ec7685b43ffd3eeef3cf6598&v=4" width="24" alt="Avatar of rochus-keller"> rochus-keller
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#rochus-keller">Copy rank badge</a><br/>
+			Rochus Keller
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>444</td>
+	</tr>
+	<tr>
+		<td>288</td>
+		<td>
+			<a href="https://github.com/belaban">
+				<img src="https://avatars.githubusercontent.com/u/457949?s=72&v=4" width="24" alt="Avatar of belaban"> belaban
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#belaban">Copy rank badge</a><br/>
+			Bela Ban
+		</td>
+		<td>Red Hat </td>
+		<td>No Twitter Username</td>
+		<td>Kreuzlingen, Switzerland</td>
+		<td>443</td>
+	</tr>
+	<tr>
+		<td>289</td>
+		<td>
+			<a href="https://github.com/cdecker">
+				<img src="https://avatars.githubusercontent.com/u/120117?s=72&u=bc9b687aa99396b5b543ddb4147683926caf80d2&v=4" width="24" alt="Avatar of cdecker"> cdecker
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#cdecker">Copy rank badge</a><br/>
+			Christian Decker
+		</td>
+		<td>@blockstream  </td>
+		<td><a href="https://twitter.com/Snyke">Snyke</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>438</td>
+	</tr>
+	<tr>
+		<td>290</td>
+		<td>
+			<a href="https://github.com/objecthub">
+				<img src="https://avatars.githubusercontent.com/u/6752200?s=72&u=b4849d3b7488b3f4681b2a50f0fc4c308e9f907e&v=4" width="24" alt="Avatar of objecthub"> objecthub
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#objecthub">Copy rank badge</a><br/>
+			Matthias Zenger
+		</td>
+		<td>Pinterest </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>438</td>
+	</tr>
+	<tr>
+		<td>291</td>
+		<td>
+			<a href="https://github.com/geetikayalotha">
+				<img src="https://avatars.githubusercontent.com/u/39300093?s=72&u=6bbceca32b66610966dfb418b20fac3aa2e6c669&v=4" width="24" alt="Avatar of geetikayalotha"> geetikayalotha
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#geetikayalotha">Copy rank badge</a><br/>
+			Theo Lancaster
+		</td>
+		<td>Tracewell </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>437</td>
+	</tr>
+	<tr>
+		<td>292</td>
+		<td>
+			<a href="https://github.com/henrybear327">
+				<img src="https://avatars.githubusercontent.com/u/9054879?s=72&v=4" width="24" alt="Avatar of henrybear327"> henrybear327
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#henrybear327">Copy rank badge</a><br/>
+			Chun-Hung Tseng
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland </td>
+		<td>425</td>
+	</tr>
+	<tr>
+		<td>293</td>
+		<td>
+			<a href="https://github.com/rneher">
+				<img src="https://avatars.githubusercontent.com/u/8379168?s=72&v=4" width="24" alt="Avatar of rneher"> rneher
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#rneher">Copy rank badge</a><br/>
+			Richard Neher
+		</td>
+		<td>Biozentrum, University Of Basel<br/></td>
+		<td><a href="https://twitter.com/richardneher">richardneher</a></td>
+		<td>Basel, Switzerland</td>
+		<td>425</td>
+	</tr>
+	<tr>
+		<td>294</td>
+		<td>
+			<a href="https://github.com/caillou">
+				<img src="https://avatars.githubusercontent.com/u/46739?s=72&v=4" width="24" alt="Avatar of caillou"> caillou
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#caillou">Copy rank badge</a><br/>
+			Pierre Spring
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>422</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>
 			<a href="https://github.com/reyammer">
 				<img src="https://avatars.githubusercontent.com/u/1136172?s=72&u=7e4742af8bfca6a71dceab1c0c63dbd22f69579c&v=4" width="24" alt="Avatar of reyammer"> reyammer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#reyammer">Copy rank badge</a><br/>
 			Yanick Fratantonio
 		</td>
 		<td>Google </td>
 		<td><a href="https://twitter.com/reyammer">reyammer</a></td>
 		<td>Zurich, Switzerland</td>
-		<td>378</td>
-	</tr>
-	<tr>
-		<td>285</td>
-		<td>
-			<a href="https://github.com/SilvioSimon">
-				<img src="https://avatars.githubusercontent.com/u/223139512?s=72&u=d1adf7c3ac2f313a42deaa6b22f65c9fb7e67b25&v=4" width="24" alt="Avatar of SilvioSimon"> SilvioSimon
-			</a><br/>
-			Silvio Simon
-		</td>
-		<td>Ruag </td>
-		<td>No Twitter Username</td>
-		<td>Aargau - Switzerland</td>
-		<td>376</td>
-	</tr>
-	<tr>
-		<td>286</td>
-		<td>
-			<a href="https://github.com/PanJason">
-				<img src="https://avatars.githubusercontent.com/u/18373884?s=72&u=e3168e186363502d58a846608feba4924dbe9b74&v=4" width="24" alt="Avatar of PanJason"> PanJason
-			</a><br/>
-			Yueyang Pan
-		</td>
-		<td>Epfl </td>
-		<td><a href="https://twitter.com/yueyangjasonpan">yueyangjasonpan</a></td>
-		<td>Lausanne, Switzerland</td>
-		<td>373</td>
-	</tr>
-	<tr>
-		<td>287</td>
-		<td>
-			<a href="https://github.com/Garfield-fr">
-				<img src="https://avatars.githubusercontent.com/u/48578?s=72&v=4" width="24" alt="Avatar of Garfield-fr"> Garfield-fr
-			</a><br/>
-			Bertrand Zuchuat
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>373</td>
-	</tr>
-	<tr>
-		<td>288</td>
-		<td>
-			<a href="https://github.com/syzer">
-				<img src="https://avatars.githubusercontent.com/u/1989646?s=72&u=6c7d7362e4dfdee43853578b1952df0b4d67db34&v=4" width="24" alt="Avatar of syzer"> syzer
-			</a><br/>
-			syzer
-		</td>
-		<td>@creadi  </td>
-		<td>No Twitter Username</td>
-		<td>Basel/Zurich</td>
-		<td>371</td>
-	</tr>
-	<tr>
-		<td>289</td>
-		<td>
-			<a href="https://github.com/ymherklotz">
-				<img src="https://avatars.githubusercontent.com/u/20495318?s=72&u=3cd6a2710c5d6ded6dd70a86bdc6897341c9be68&v=4" width="24" alt="Avatar of ymherklotz"> ymherklotz
-			</a><br/>
-			Yann Herklotz
-		</td>
-		<td>Epfl </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne</td>
-		<td>370</td>
-	</tr>
-	<tr>
-		<td>290</td>
-		<td>
-			<a href="https://github.com/pelle">
-				<img src="https://avatars.githubusercontent.com/u/8680?s=72&u=3f930a6e96c5adca65b90bb930a343d9bc0308fe&v=4" width="24" alt="Avatar of pelle"> pelle
-			</a><br/>
-			Pelle Braendgaard
-		</td>
-		<td>Notabene </td>
-		<td><a href="https://twitter.com/PelleB">PelleB</a></td>
-		<td>Zug, Switzerland</td>
-		<td>366</td>
-	</tr>
-	<tr>
-		<td>291</td>
-		<td>
-			<a href="https://github.com/roflmaostc">
-				<img src="https://avatars.githubusercontent.com/u/19436526?s=72&u=de2251f7a81bfaeca48be22e03f2f50a50be9adb&v=4" width="24" alt="Avatar of roflmaostc"> roflmaostc
-			</a><br/>
-			Felix Wechsler
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>EPFL, Lausanne, Switzerland</td>
-		<td>364</td>
-	</tr>
-	<tr>
-		<td>292</td>
-		<td>
-			<a href="https://github.com/jkarni">
-				<img src="https://avatars.githubusercontent.com/u/1657498?s=72&u=5b952b859eef0777327cefded408a67d9cfb5d2b&v=4" width="24" alt="Avatar of jkarni"> jkarni
-			</a><br/>
-			Julian Arni
-		</td>
-		<td>Garnix </td>
-		<td>No Twitter Username</td>
-		<td>Berlin, Germany and Basel, Switzerland</td>
-		<td>364</td>
-	</tr>
-	<tr>
-		<td>293</td>
-		<td>
-			<a href="https://github.com/EpokK">
-				<img src="https://avatars.githubusercontent.com/u/1345786?s=72&u=cf39258956c528d1073a9713027aa878828da85f&v=4" width="24" alt="Avatar of EpokK"> EpokK
-			</a><br/>
-			Richard
-		</td>
-		<td>Proton Ag </td>
-		<td><a href="https://twitter.com/richard_tetaz">richard_tetaz</a></td>
-		<td>Geneva</td>
-		<td>364</td>
-	</tr>
-	<tr>
-		<td>294</td>
-		<td>
-			<a href="https://github.com/Fraccaman">
-				<img src="https://avatars.githubusercontent.com/u/9825521?s=72&u=6e4974860d944563a92a5cf5e5cbb46d6e9d2e00&v=4" width="24" alt="Avatar of Fraccaman"> Fraccaman
-			</a><br/>
-			Fraccaroli Gianmarco
-		</td>
-		<td>@heliaxdev  </td>
-		<td><a href="https://twitter.com/fraccaman">fraccaman</a></td>
-		<td>Switzerland</td>
-		<td>363</td>
-	</tr>
-	<tr>
-		<td>295</td>
-		<td>
-			<a href="https://github.com/0xquark">
-				<img src="https://avatars.githubusercontent.com/u/84588720?s=72&u=681f0eb99129b9081213bc747afcea7da0f8d60f&v=4" width="24" alt="Avatar of 0xquark"> 0xquark
-			</a><br/>
-			Karanjot Singh
-		</td>
-		<td>@cern </td>
-		<td>No Twitter Username</td>
-		<td>Geneva, Switzerland</td>
-		<td>363</td>
+		<td>421</td>
 	</tr>
 	<tr>
 		<td>296</td>
 		<td>
-			<a href="https://github.com/MaEtUgR">
-				<img src="https://avatars.githubusercontent.com/u/4668506?s=72&u=24eb4e41b549cb21470180aedc53e1633904aed7&v=4" width="24" alt="Avatar of MaEtUgR"> MaEtUgR
-			</a><br/>
-			Matthias Grob
+			<a href="https://github.com/thomaswue">
+				<img src="https://avatars.githubusercontent.com/u/5550412?s=72&u=6abe01ffc8121eeb138997864922ace39d7c6bfd&v=4" width="24" alt="Avatar of thomaswue"> thomaswue
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#thomaswue">Copy rank badge</a><br/>
+			Thomas Wuerthinger
 		</td>
-		<td>Auterion </td>
+		<td>Oracle Labs </td>
 		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>362</td>
+		<td>Zurich, Switzerland</td>
+		<td>418</td>
 	</tr>
 	<tr>
 		<td>297</td>
 		<td>
-			<a href="https://github.com/jonathanlurie">
-				<img src="https://avatars.githubusercontent.com/u/1303310?s=72&u=987a573a73d0158618dad08163474f15ebef73a3&v=4" width="24" alt="Avatar of jonathanlurie"> jonathanlurie
-			</a><br/>
-			Jonathan Lurie
+			<a href="https://github.com/munen">
+				<img src="https://avatars.githubusercontent.com/u/505721?s=72&v=4" width="24" alt="Avatar of munen"> munen
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#munen">Copy rank badge</a><br/>
+			Zen Monk Alain M. Lafon
 		</td>
-		<td>Camptocamp </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>362</td>
+		<td>200ok Gmbh </td>
+		<td><a href="https://twitter.com/munen_200ok">munen_200ok</a></td>
+		<td>Lambda Zen Temple (Glarus, Switzerland)</td>
+		<td>417</td>
 	</tr>
 	<tr>
 		<td>298</td>
 		<td>
-			<a href="https://github.com/Roemer">
-				<img src="https://avatars.githubusercontent.com/u/393641?s=72&u=41b26f54b8f8c3f9d452f5998891796867ed5b06&v=4" width="24" alt="Avatar of Roemer"> Roemer
-			</a><br/>
-			Roman
+			<a href="https://github.com/sarlinpe">
+				<img src="https://avatars.githubusercontent.com/u/15985472?s=72&u=0f91ed26cc300b3ff40afcf7697369b55085973e&v=4" width="24" alt="Avatar of sarlinpe"> sarlinpe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#sarlinpe">Copy rank badge</a><br/>
+			Paul-Edouard Sarlin
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bern, Switzerland</td>
-		<td>354</td>
+		<td><a href="https://twitter.com/pesarlin">pesarlin</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>414</td>
 	</tr>
 	<tr>
 		<td>299</td>
 		<td>
-			<a href="https://github.com/nicolonsky">
-				<img src="https://avatars.githubusercontent.com/u/32899754?s=72&u=e14cb16adb8b62cab3890e23fd469fe1b36eb1ce&v=4" width="24" alt="Avatar of nicolonsky"> nicolonsky
-			</a><br/>
-			Nicola Suter
+			<a href="https://github.com/yakky">
+				<img src="https://avatars.githubusercontent.com/u/714711?s=72&v=4" width="24" alt="Avatar of yakky"> yakky
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#yakky">Copy rank badge</a><br/>
+			Iacopo Spalletti
 		</td>
-		<td>Basevision </td>
-		<td><a href="https://twitter.com/nicolonsky">nicolonsky</a></td>
-		<td>Switzerland</td>
-		<td>351</td>
+		<td>@nephila  </td>
+		<td><a href="https://twitter.com/yakkys">yakkys</a></td>
+		<td>Firenze, London, Zürich</td>
+		<td>412</td>
 	</tr>
 	<tr>
 		<td>300</td>
 		<td>
-			<a href="https://github.com/rolinh">
-				<img src="https://avatars.githubusercontent.com/u/1324157?s=72&u=b900b5770bebc1261b42a3ab79899cbe37c6ab75&v=4" width="24" alt="Avatar of rolinh"> rolinh
-			</a><br/>
-			Robin Hahling
+			<a href="https://github.com/Shinmera">
+				<img src="https://avatars.githubusercontent.com/u/4833204?s=72&v=4" width="24" alt="Avatar of Shinmera"> Shinmera
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Shinmera">Copy rank badge</a><br/>
+			Yukari Hafner
 		</td>
-		<td>@isovalent / @cilium </td>
+		<td>@shirakumo  </td>
 		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>348</td>
+		<td>Zürich, Switzerland</td>
+		<td>407</td>
 	</tr>
 	<tr>
 		<td>301</td>
 		<td>
-			<a href="https://github.com/cacharle">
-				<img src="https://avatars.githubusercontent.com/u/25375061?s=72&u=f8b19e9fe7117a0b119d2656c474dc6ad6c098db&v=4" width="24" alt="Avatar of cacharle"> cacharle
-			</a><br/>
-			Charles Cabergs
+			<a href="https://github.com/nashory">
+				<img src="https://avatars.githubusercontent.com/u/17468992?s=72&u=977e096a2524305b75304076bf2cc2ffe06bfecb&v=4" width="24" alt="Avatar of nashory"> nashory
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nashory">Copy rank badge</a><br/>
+			Minchul Shin
 		</td>
-		<td>Intellis </td>
-		<td>No Twitter Username</td>
-		<td>Zug, Switzerland</td>
-		<td>341</td>
+		<td>Meta Reality Labs </td>
+		<td><a href="https://twitter.com/CraigStarrAI">CraigStarrAI</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>407</td>
 	</tr>
 	<tr>
 		<td>302</td>
 		<td>
-			<a href="https://github.com/lbrndnr">
-				<img src="https://avatars.githubusercontent.com/u/762049?s=72&u=c0f70a5e5fd58f7117b4da8e8ff134863ab45a7d&v=4" width="24" alt="Avatar of lbrndnr"> lbrndnr
-			</a><br/>
-			Laurin Brandner
+			<a href="https://github.com/gandro">
+				<img src="https://avatars.githubusercontent.com/u/50564?s=72&u=fe519d02560866230034aaf9af4b3fdb022f2b15&v=4" width="24" alt="Avatar of gandro"> gandro
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#gandro">Copy rank badge</a><br/>
+			Sebastian Wicki
 		</td>
-		<td>Eth Zürich </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>341</td>
+		<td>406</td>
 	</tr>
 	<tr>
 		<td>303</td>
 		<td>
 			<a href="https://github.com/o7-machinehum">
 				<img src="https://avatars.githubusercontent.com/u/16850843?s=72&u=6541d6dab291e15fe4723a15f255dc6e30f74f24&v=4" width="24" alt="Avatar of o7-machinehum"> o7-machinehum
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#o7-machinehum">Copy rank badge</a><br/>
 			o7-machinehum
 		</td>
 		<td>Rootkit Labs </td>
 		<td>No Twitter Username</td>
 		<td>Basel, Switzerland</td>
-		<td>332</td>
+		<td>402</td>
 	</tr>
 	<tr>
 		<td>304</td>
 		<td>
-			<a href="https://github.com/lbugnion">
-				<img src="https://avatars.githubusercontent.com/u/4922457?s=72&u=8447a0f5a598f8ab81c8c4ed1b77c90f44d8ef5e&v=4" width="24" alt="Avatar of lbugnion"> lbugnion
-			</a><br/>
-			Laurent Bugnion
+			<a href="https://github.com/SilvioSimon">
+				<img src="https://avatars.githubusercontent.com/u/223139512?s=72&u=d1adf7c3ac2f313a42deaa6b22f65c9fb7e67b25&v=4" width="24" alt="Avatar of SilvioSimon"> SilvioSimon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#SilvioSimon">Copy rank badge</a><br/>
+			Silvio Simon
 		</td>
-		<td>@microsoft  </td>
+		<td>Ruag </td>
 		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>331</td>
+		<td>Aargau - Switzerland</td>
+		<td>400</td>
 	</tr>
 	<tr>
 		<td>305</td>
 		<td>
-			<a href="https://github.com/munen">
-				<img src="https://avatars.githubusercontent.com/u/505721?s=72&v=4" width="24" alt="Avatar of munen"> munen
-			</a><br/>
-			Zen Monk Alain M. Lafon
+			<a href="https://github.com/chutsu">
+				<img src="https://avatars.githubusercontent.com/u/91460?s=72&u=9beb1de45a9c58685b1b7a46e1e9ae47829562e7&v=4" width="24" alt="Avatar of chutsu"> chutsu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#chutsu">Copy rank badge</a><br/>
+			Christopher Choi
 		</td>
-		<td>200ok Gmbh </td>
-		<td><a href="https://twitter.com/munen_200ok">munen_200ok</a></td>
-		<td>Lambda Zen Temple (Glarus, Switzerland)</td>
-		<td>321</td>
+		<td>@gravisrobotics  </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>394</td>
 	</tr>
 	<tr>
 		<td>306</td>
-		<td>
-			<a href="https://github.com/klaudiosinani">
-				<img src="https://avatars.githubusercontent.com/u/12670537?s=72&u=8e2da131d191b004f69e0de74d12ef13a9378c99&v=4" width="24" alt="Avatar of klaudiosinani"> klaudiosinani
-			</a><br/>
-			Klaudio Sinani
-		</td>
-		<td>@ubs-ag </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>319</td>
-	</tr>
-	<tr>
-		<td>307</td>
-		<td>
-			<a href="https://github.com/ceki">
-				<img src="https://avatars.githubusercontent.com/u/115476?s=72&u=992a87bcef9fc90944b462137ca62777282f9318&v=4" width="24" alt="Avatar of ceki"> ceki
-			</a><br/>
-			Ceki Gülcü
-		</td>
-		<td>Qos.ch (switzerland) </td>
-		<td><a href="https://twitter.com/ceki">ceki</a></td>
-		<td>Valais, Switzerland</td>
-		<td>317</td>
-	</tr>
-	<tr>
-		<td>308</td>
-		<td>
-			<a href="https://github.com/alderg">
-				<img src="https://avatars.githubusercontent.com/u/921200?s=72&u=fe69f504a82a65c8186d1324ade5fb5f224460b0&v=4" width="24" alt="Avatar of alderg"> alderg
-			</a><br/>
-			Gaudenz Alder
-		</td>
-		<td>Draw.io </td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>314</td>
-	</tr>
-	<tr>
-		<td>309</td>
-		<td>
-			<a href="https://github.com/veebch">
-				<img src="https://avatars.githubusercontent.com/u/75116070?s=72&u=fbb38b6737407ec301d435c74339ed313cff8ae5&v=4" width="24" alt="Avatar of veebch"> veebch
-			</a><br/>
-			VEEB
-		</td>
-		<td>Veeb </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>312</td>
-	</tr>
-	<tr>
-		<td>310</td>
-		<td>
-			<a href="https://github.com/duerrsimon">
-				<img src="https://avatars.githubusercontent.com/u/16979577?s=72&u=5a7ec73ba5a1c847a66a9b313c453d81e4a915e5&v=4" width="24" alt="Avatar of duerrsimon"> duerrsimon
-			</a><br/>
-			Simon Duerr
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lausanne</td>
-		<td>312</td>
-	</tr>
-	<tr>
-		<td>311</td>
-		<td>
-			<a href="https://github.com/bachp">
-				<img src="https://avatars.githubusercontent.com/u/333807?s=72&v=4" width="24" alt="Avatar of bachp"> bachp
-			</a><br/>
-			Pascal Bach
-		</td>
-		<td>@siemens  </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>311</td>
-	</tr>
-	<tr>
-		<td>312</td>
-		<td>
-			<a href="https://github.com/Ha0Tang">
-				<img src="https://avatars.githubusercontent.com/u/23024709?s=72&v=4" width="24" alt="Avatar of Ha0Tang"> Ha0Tang
-			</a><br/>
-			Hao Tang
-		</td>
-		<td>Cvl, Eth Zurich </td>
-		<td><a href="https://twitter.com/HaoTang_ai">HaoTang_ai</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>310</td>
-	</tr>
-	<tr>
-		<td>313</td>
-		<td>
-			<a href="https://github.com/eamonnmag">
-				<img src="https://avatars.githubusercontent.com/u/282396?s=72&v=4" width="24" alt="Avatar of eamonnmag"> eamonnmag
-			</a><br/>
-			Eamonn Maguire
-		</td>
-		<td>@protonmail  </td>
-		<td><a href="https://twitter.com/antarcticdesign">antarcticdesign</a></td>
-		<td>Geneva</td>
-		<td>309</td>
-	</tr>
-	<tr>
-		<td>314</td>
-		<td>
-			<a href="https://github.com/FabianGosebrink">
-				<img src="https://avatars.githubusercontent.com/u/11268349?s=72&u=13e04b25a34bbe81bf8addc2fb5f3443e7c484af&v=4" width="24" alt="Avatar of FabianGosebrink"> FabianGosebrink
-			</a><br/>
-			Fabian Gosebrink
-		</td>
-		<td>@offeringsolutions  </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>308</td>
-	</tr>
-	<tr>
-		<td>315</td>
-		<td>
-			<a href="https://github.com/koczkatamas">
-				<img src="https://avatars.githubusercontent.com/u/2608082?s=72&u=00ce70017376d0d79f9f1937b6a80f716cbc21db&v=4" width="24" alt="Avatar of koczkatamas"> koczkatamas
-			</a><br/>
-			Tamás Koczka
-		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>308</td>
-	</tr>
-	<tr>
-		<td>316</td>
-		<td>
-			<a href="https://github.com/GianlucaGuarini">
-				<img src="https://avatars.githubusercontent.com/u/879612?s=72&u=9fab638262fe74bb1ef3b5b6e626f358dadd7eca&v=4" width="24" alt="Avatar of GianlucaGuarini"> GianlucaGuarini
-			</a><br/>
-			Gianluca Guarini
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>307</td>
-	</tr>
-	<tr>
-		<td>317</td>
-		<td>
-			<a href="https://github.com/mellowagain">
-				<img src="https://avatars.githubusercontent.com/u/24739711?s=72&u=e4dbcd3a3dca8b79a3db7374a8af069874204436&v=4" width="24" alt="Avatar of mellowagain"> mellowagain
-			</a><br/>
-			Mari
-		</td>
-		<td>@axa-ch </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>306</td>
-	</tr>
-	<tr>
-		<td>318</td>
-		<td>
-			<a href="https://github.com/lorenzwalthert">
-				<img src="https://avatars.githubusercontent.com/u/10477073?s=72&u=8f4ceeada2518f05769741a46f45228202b8c39e&v=4" width="24" alt="Avatar of lorenzwalthert"> lorenzwalthert
-			</a><br/>
-			Lorenz Walthert
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/lorenzwalthert">lorenzwalthert</a></td>
-		<td>Allschwil, Switzerland</td>
-		<td>303</td>
-	</tr>
-	<tr>
-		<td>319</td>
-		<td>
-			<a href="https://github.com/paescuj">
-				<img src="https://avatars.githubusercontent.com/u/5363448?s=72&u=2114d8f7e2b3c55070ec2de8e8a1728fe9fae5b5&v=4" width="24" alt="Avatar of paescuj"> paescuj
-			</a><br/>
-			Pascal Jufer
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Biel/Bienne, Switzerland</td>
-		<td>302</td>
-	</tr>
-	<tr>
-		<td>320</td>
-		<td>
-			<a href="https://github.com/nh2">
-				<img src="https://avatars.githubusercontent.com/u/399535?s=72&v=4" width="24" alt="Avatar of nh2"> nh2
-			</a><br/>
-			Niklas Hambüchen
-		</td>
-		<td>My Own Consultancy </td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>300</td>
-	</tr>
-	<tr>
-		<td>321</td>
-		<td>
-			<a href="https://github.com/dvicini">
-				<img src="https://avatars.githubusercontent.com/u/5487532?s=72&u=7929b4c10e613b89b68c213dff9590b1b2cd4d01&v=4" width="24" alt="Avatar of dvicini"> dvicini
-			</a><br/>
-			Delio Vicini
-		</td>
-		<td>@googlers  </td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>298</td>
-	</tr>
-	<tr>
-		<td>322</td>
-		<td>
-			<a href="https://github.com/FrancescoSaverioZuppichini">
-				<img src="https://avatars.githubusercontent.com/u/15908060?s=72&u=45659c766b2721ce84e903e54ed25c21409a01a4&v=4" width="24" alt="Avatar of FrancescoSaverioZuppichini"> FrancescoSaverioZuppichini
-			</a><br/>
-			Francesco Saverio Zuppichini
-		</td>
-		<td>Roboflow </td>
-		<td>No Twitter Username</td>
-		<td>Lugano, Switzerland</td>
-		<td>296</td>
-	</tr>
-	<tr>
-		<td>323</td>
-		<td>
-			<a href="https://github.com/henrybear327">
-				<img src="https://avatars.githubusercontent.com/u/9054879?s=72&v=4" width="24" alt="Avatar of henrybear327"> henrybear327
-			</a><br/>
-			Chun-Hung Tseng
-		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland </td>
-		<td>295</td>
-	</tr>
-	<tr>
-		<td>324</td>
-		<td>
-			<a href="https://github.com/lucasb-eyer">
-				<img src="https://avatars.githubusercontent.com/u/1476029?s=72&v=4" width="24" alt="Avatar of lucasb-eyer"> lucasb-eyer
-			</a><br/>
-			Lucas Beyer
-		</td>
-		<td>Msl Zürich (ex: @openai<br/>@google<br/>Brain/deepmind)<br/></td>
-		<td>No Twitter Username</td>
-		<td><3 Belgium, Switzerland</td>
-		<td>293</td>
-	</tr>
-	<tr>
-		<td>325</td>
-		<td>
-			<a href="https://github.com/dedeswim">
-				<img src="https://avatars.githubusercontent.com/u/4366950?s=72&u=2aeb57fb677723fbab1a63ceb5c6b886b9aea7e2&v=4" width="24" alt="Avatar of dedeswim"> dedeswim
-			</a><br/>
-			Edoardo Debenedetti
-		</td>
-		<td>@ethz-spylab </td>
-		<td><a href="https://twitter.com/edoardo_debe">edoardo_debe</a></td>
-		<td>Switzerland</td>
-		<td>293</td>
-	</tr>
-	<tr>
-		<td>326</td>
-		<td>
-			<a href="https://github.com/JoannaaKL">
-				<img src="https://avatars.githubusercontent.com/u/67866556?s=72&u=54dc91de3b1e0d7ba8f8312dc6b65993f1bc14d1&v=4" width="24" alt="Avatar of JoannaaKL"> JoannaaKL
-			</a><br/>
-			JoannaaKL
-		</td>
-		<td>Github </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>293</td>
-	</tr>
-	<tr>
-		<td>327</td>
-		<td>
-			<a href="https://github.com/patte">
-				<img src="https://avatars.githubusercontent.com/u/3500621?s=72&u=5719daa9c9307cf2cd68f60f5b393861a19f657c&v=4" width="24" alt="Avatar of patte"> patte
-			</a><br/>
-			Patrick Recher
-		</td>
-		<td>@nala-earth, Ex @init7, Ex<br/>@republik<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Germany, Switzerland</td>
-		<td>293</td>
-	</tr>
-	<tr>
-		<td>328</td>
-		<td>
-			<a href="https://github.com/verhas">
-				<img src="https://avatars.githubusercontent.com/u/1597979?s=72&v=4" width="24" alt="Avatar of verhas"> verhas
-			</a><br/>
-			Peter Verhas
-		</td>
-		<td>N/a </td>
-		<td><a href="https://twitter.com/verhas">verhas</a></td>
-		<td>Zürich Switzerland Europe Earth</td>
-		<td>291</td>
-	</tr>
-	<tr>
-		<td>329</td>
-		<td>
-			<a href="https://github.com/mhils">
-				<img src="https://avatars.githubusercontent.com/u/1019198?s=72&u=e2d937c2f9ba187adb94609d912a302dd3474bdd&v=4" width="24" alt="Avatar of mhils"> mhils
-			</a><br/>
-			Maximilian Hils
-		</td>
-		<td>Google </td>
-		<td><a href="https://twitter.com/maximilianhils">maximilianhils</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>289</td>
-	</tr>
-	<tr>
-		<td>330</td>
 		<td>
 			<a href="https://github.com/p-">
 				<img src="https://avatars.githubusercontent.com/u/176818?s=72&u=e628085af8238bd0ad1fcf46a0ebf794b454525b&v=4" width="24" alt="Avatar of p-"> p-
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#p-">Copy rank badge</a><br/>
 			Peter Stöckli
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>288</td>
+		<td>391</td>
 	</tr>
 	<tr>
-		<td>331</td>
-		<td>
-			<a href="https://github.com/devnoname120">
-				<img src="https://avatars.githubusercontent.com/u/2824100?s=72&u=691a9322ced036e4635779cfb1822616507609fa&v=4" width="24" alt="Avatar of devnoname120"> devnoname120
-			</a><br/>
-			Paul
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/devnoname120">devnoname120</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>282</td>
-	</tr>
-	<tr>
-		<td>332</td>
-		<td>
-			<a href="https://github.com/eginhard">
-				<img src="https://avatars.githubusercontent.com/u/5216613?s=72&u=e89381906b3c0f04ce862fe65cdb50401fde2bc5&v=4" width="24" alt="Avatar of eginhard"> eginhard
-			</a><br/>
-			Enno Hermann
-		</td>
-		<td>@idiap Research Institute </td>
-		<td>No Twitter Username</td>
-		<td>Martigny, Switzerland</td>
-		<td>278</td>
-	</tr>
-	<tr>
-		<td>333</td>
-		<td>
-			<a href="https://github.com/yashlamba">
-				<img src="https://avatars.githubusercontent.com/u/44164398?s=72&u=4fecb9084c25f88d00620cf52f83a9d67b6cb240&v=4" width="24" alt="Avatar of yashlamba"> yashlamba
-			</a><br/>
-			Yash Lamba
-		</td>
-		<td>@cern / @zenodo /<br/>@inveniosoftware<br/></td>
-		<td><a href="https://twitter.com/yshlamba">yshlamba</a></td>
-		<td>Geneva</td>
-		<td>278</td>
-	</tr>
-	<tr>
-		<td>334</td>
-		<td>
-			<a href="https://github.com/bhbr">
-				<img src="https://avatars.githubusercontent.com/u/13440601?s=72&u=c38f8fc444593c42eb409c0da234b938305a58f1&v=4" width="24" alt="Avatar of bhbr"> bhbr
-			</a><br/>
-			Ben Hambrecht
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>276</td>
-	</tr>
-	<tr>
-		<td>335</td>
-		<td>
-			<a href="https://github.com/alexanderadam">
-				<img src="https://avatars.githubusercontent.com/u/372620?s=72&u=9c18ddb233cbcbe6b40d89e77fea229410654520&v=4" width="24" alt="Avatar of alexanderadam"> alexanderadam
-			</a><br/>
-			Alexander Adam
-		</td>
-		<td>@vade-io  </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>274</td>
-	</tr>
-	<tr>
-		<td>336</td>
-		<td>
-			<a href="https://github.com/grll">
-				<img src="https://avatars.githubusercontent.com/u/1738060?s=72&u=25401dafc5b3acd6132bb53894bd60b0642d07e8&v=4" width="24" alt="Avatar of grll"> grll
-			</a><br/>
-			Guillaume Raille
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/guillaumeraille">guillaumeraille</a></td>
-		<td>Lausanne (CH)</td>
-		<td>268</td>
-	</tr>
-	<tr>
-		<td>337</td>
-		<td>
-			<a href="https://github.com/jaspervdj">
-				<img src="https://avatars.githubusercontent.com/u/95501?s=72&u=93d82e2dc5b227dce9f8f742e1cb5771571af87b&v=4" width="24" alt="Avatar of jaspervdj"> jaspervdj
-			</a><br/>
-			Jasper Van der Jeugt
-		</td>
-		<td>Engineer At @digital-asset </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>265</td>
-	</tr>
-	<tr>
-		<td>338</td>
-		<td>
-			<a href="https://github.com/odan">
-				<img src="https://avatars.githubusercontent.com/u/781074?s=72&u=812bf6106bf4da236053e59311ba916d0abdc1f8&v=4" width="24" alt="Avatar of odan"> odan
-			</a><br/>
-			Daniel Opitz
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/dopitz">dopitz</a></td>
-		<td>Basel, Switzerland</td>
-		<td>258</td>
-	</tr>
-	<tr>
-		<td>339</td>
-		<td>
-			<a href="https://github.com/dulnan">
-				<img src="https://avatars.githubusercontent.com/u/4155003?s=72&u=625a828303599f714ff825edd15cafd6432f092b&v=4" width="24" alt="Avatar of dulnan"> dulnan
-			</a><br/>
-			Jan Hug
-		</td>
-		<td>Liip Ag </td>
-		<td><a href="https://twitter.com/dulnan">dulnan</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>257</td>
-	</tr>
-	<tr>
-		<td>340</td>
-		<td>
-			<a href="https://github.com/lehni">
-				<img src="https://avatars.githubusercontent.com/u/213275?s=72&v=4" width="24" alt="Avatar of lehni"> lehni
-			</a><br/>
-			Jürg Lehni
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>256</td>
-	</tr>
-	<tr>
-		<td>341</td>
-		<td>
-			<a href="https://github.com/nashory">
-				<img src="https://avatars.githubusercontent.com/u/17468992?s=72&u=977e096a2524305b75304076bf2cc2ffe06bfecb&v=4" width="24" alt="Avatar of nashory"> nashory
-			</a><br/>
-			Minchul Shin
-		</td>
-		<td>Meta Reality Labs </td>
-		<td><a href="https://twitter.com/CraigStarrAI">CraigStarrAI</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>255</td>
-	</tr>
-	<tr>
-		<td>342</td>
-		<td>
-			<a href="https://github.com/AndreaCensi">
-				<img src="https://avatars.githubusercontent.com/u/81052?s=72&u=de9e9381e1029b93031242f1b7093c51af479e52&v=4" width="24" alt="Avatar of AndreaCensi"> AndreaCensi
-			</a><br/>
-			Andrea Censi
-		</td>
-		<td>Eth Zürich @idsc-frazzoli <br/>&<br/>@duckietown<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>255</td>
-	</tr>
-	<tr>
-		<td>343</td>
-		<td>
-			<a href="https://github.com/ThomasKur">
-				<img src="https://avatars.githubusercontent.com/u/16786269?s=72&u=a7761394f3949d1c575982ed8b7653b7b6278925&v=4" width="24" alt="Avatar of ThomasKur"> ThomasKur
-			</a><br/>
-			Thomas Kurth
-		</td>
-		<td>Basevision </td>
-		<td><a href="https://twitter.com/ThomasKurth_ch">ThomasKurth_ch</a></td>
-		<td>Switzerland</td>
-		<td>255</td>
-	</tr>
-	<tr>
-		<td>344</td>
-		<td>
-			<a href="https://github.com/FazioNico">
-				<img src="https://avatars.githubusercontent.com/u/17125807?s=72&u=b3af0a0f69f3891755bc73205032c4fb03c86dd5&v=4" width="24" alt="Avatar of FazioNico"> FazioNico
-			</a><br/>
-			Nicolas Fazio
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Geneva</td>
-		<td>252</td>
-	</tr>
-	<tr>
-		<td>345</td>
-		<td>
-			<a href="https://github.com/daren-thomas">
-				<img src="https://avatars.githubusercontent.com/u/2969564?s=72&v=4" width="24" alt="Avatar of daren-thomas"> daren-thomas
-			</a><br/>
-			Daren Thomas
-		</td>
-		<td>Sustainable Architecture And Building<br/>Technologies<br/>(eth<br/>Zürich)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>251</td>
-	</tr>
-	<tr>
-		<td>346</td>
-		<td>
-			<a href="https://github.com/comnik">
-				<img src="https://avatars.githubusercontent.com/u/1313051?s=72&u=546854214ec67a5521fc30183adb8a5d78b83c7b&v=4" width="24" alt="Avatar of comnik"> comnik
-			</a><br/>
-			Nikolas Göbel
-		</td>
-		<td>@relationalai  </td>
-		<td><a href="https://twitter.com/NikolasGoebel">NikolasGoebel</a></td>
-		<td>Switzerland</td>
-		<td>249</td>
-	</tr>
-	<tr>
-		<td>347</td>
-		<td>
-			<a href="https://github.com/brb">
-				<img src="https://avatars.githubusercontent.com/u/122571?s=72&u=0df40cc725b9da2983b976a36734da3374d2f5e1&v=4" width="24" alt="Avatar of brb"> brb
-			</a><br/>
-			Martynas Pumputis
-		</td>
-		<td>@isovalent  </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>246</td>
-	</tr>
-	<tr>
-		<td>348</td>
-		<td>
-			<a href="https://github.com/philipp-baumann">
-				<img src="https://avatars.githubusercontent.com/u/21625034?s=72&u=f1fc41ef9e936f3bc8c6d38a78349890654310b8&v=4" width="24" alt="Avatar of philipp-baumann"> philipp-baumann
-			</a><br/>
-			Philipp Baumann
-		</td>
-		<td>Public Transport </td>
-		<td>No Twitter Username</td>
-		<td>Bern, Switzerland</td>
-		<td>245</td>
-	</tr>
-	<tr>
-		<td>349</td>
-		<td>
-			<a href="https://github.com/manumerous">
-				<img src="https://avatars.githubusercontent.com/u/18735094?s=72&u=68a71a3ccecf0c1258211499ecbcd67059771a50&v=4" width="24" alt="Avatar of manumerous"> manumerous
-			</a><br/>
-			Manuel Yves Galliker
-		</td>
-		<td>Stealth </td>
-		<td><a href="https://twitter.com/manumerous">manumerous</a></td>
-		<td>Switzerland</td>
-		<td>244</td>
-	</tr>
-	<tr>
-		<td>350</td>
-		<td>
-			<a href="https://github.com/ArturSepp">
-				<img src="https://avatars.githubusercontent.com/u/39810730?s=72&u=44c24f4a7b9bd964087e7d6b0fa74b3dbcdfcdb0&v=4" width="24" alt="Avatar of ArturSepp"> ArturSepp
-			</a><br/>
-			Artur Sepp
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/artursepp">artursepp</a></td>
-		<td>Switzerland</td>
-		<td>241</td>
-	</tr>
-	<tr>
-		<td>351</td>
-		<td>
-			<a href="https://github.com/makevoid">
-				<img src="https://avatars.githubusercontent.com/u/14677?s=72&u=62edea022c11ca8c24560ae568b84b1787e59746&v=4" width="24" alt="Avatar of makevoid"> makevoid
-			</a><br/>
-			Francesco 'makevoid' Canessa
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/makevoid">makevoid</a></td>
-		<td>Ticino, Switzerland</td>
-		<td>239</td>
-	</tr>
-	<tr>
-		<td>352</td>
-		<td>
-			<a href="https://github.com/sarlinpe">
-				<img src="https://avatars.githubusercontent.com/u/15985472?s=72&u=0f91ed26cc300b3ff40afcf7697369b55085973e&v=4" width="24" alt="Avatar of sarlinpe"> sarlinpe
-			</a><br/>
-			Paul-Edouard Sarlin
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/pesarlin">pesarlin</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>238</td>
-	</tr>
-	<tr>
-		<td>353</td>
-		<td>
-			<a href="https://github.com/PeterSommerlad">
-				<img src="https://avatars.githubusercontent.com/u/1725845?s=72&v=4" width="24" alt="Avatar of PeterSommerlad"> PeterSommerlad
-			</a><br/>
-			Peter Sommerlad
-		</td>
-		<td>Better Software </td>
-		<td>No Twitter Username</td>
-		<td>Wollerau, Switzerland</td>
-		<td>238</td>
-	</tr>
-	<tr>
-		<td>354</td>
-		<td>
-			<a href="https://github.com/pflammertsma">
-				<img src="https://avatars.githubusercontent.com/u/286051?s=72&v=4" width="24" alt="Avatar of pflammertsma"> pflammertsma
-			</a><br/>
-			Paul Lammertsma
-		</td>
-		<td>@google </td>
-		<td><a href="https://twitter.com/officesunshine">officesunshine</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>238</td>
-	</tr>
-	<tr>
-		<td>355</td>
-		<td>
-			<a href="https://github.com/hgy59">
-				<img src="https://avatars.githubusercontent.com/u/12009964?s=72&u=ef24068aa8b4bd04159f40a54f02c745a3b5ffc3&v=4" width="24" alt="Avatar of hgy59"> hgy59
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>230</td>
-	</tr>
-	<tr>
-		<td>356</td>
-		<td>
-			<a href="https://github.com/antenore">
-				<img src="https://avatars.githubusercontent.com/u/5975?s=72&u=3d3d57cfd26ab745f68c85855683c8e153f3604e&v=4" width="24" alt="Avatar of antenore"> antenore
-			</a><br/>
-			Antenore Gatta
-		</td>
-		<td>Kyndryl </td>
-		<td><a href="https://twitter.com/agatta">agatta</a></td>
-		<td>Lausanne, Switzerland</td>
-		<td>229</td>
-	</tr>
-	<tr>
-		<td>357</td>
-		<td>
-			<a href="https://github.com/LucaCanali">
-				<img src="https://avatars.githubusercontent.com/u/5243162?s=72&u=d826de0f42f907493d9ff5bb2201ed095a1b35a6&v=4" width="24" alt="Avatar of LucaCanali"> LucaCanali
-			</a><br/>
-			Luca Canali
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/LucaCanaliDB">LucaCanaliDB</a></td>
-		<td>Geneva, Switzerland</td>
-		<td>229</td>
-	</tr>
-	<tr>
-		<td>358</td>
-		<td>
-			<a href="https://github.com/caillou">
-				<img src="https://avatars.githubusercontent.com/u/46739?s=72&v=4" width="24" alt="Avatar of caillou"> caillou
-			</a><br/>
-			Pierre Spring
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>228</td>
-	</tr>
-	<tr>
-		<td>359</td>
-		<td>
-			<a href="https://github.com/KCreate">
-				<img src="https://avatars.githubusercontent.com/u/1352680?s=72&u=b397c44968c93a237788ccaa82471a60090af4a1&v=4" width="24" alt="Avatar of KCreate"> KCreate
-			</a><br/>
-			Leonard Schütz
-		</td>
-		<td>Zürcher Kantonalbank </td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>225</td>
-	</tr>
-	<tr>
-		<td>360</td>
-		<td>
-			<a href="https://github.com/chumer">
-				<img src="https://avatars.githubusercontent.com/u/4346215?s=72&u=0c02c588c23705988e4cadf8bbbd247cb7151648&v=4" width="24" alt="Avatar of chumer"> chumer
-			</a><br/>
-			Christian Humer
-		</td>
-		<td>@oracle  </td>
-		<td>No Twitter Username</td>
-		<td>Zürich Switzerland</td>
-		<td>224</td>
-	</tr>
-	<tr>
-		<td>361</td>
-		<td>
-			<a href="https://github.com/gnecula">
-				<img src="https://avatars.githubusercontent.com/u/3890983?s=72&u=3aff8e5992de46e23ae2bc72189b62827ea9e1d0&v=4" width="24" alt="Avatar of gnecula"> gnecula
-			</a><br/>
-			George Necula
-		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>223</td>
-	</tr>
-	<tr>
-		<td>362</td>
-		<td>
-			<a href="https://github.com/stefankueng">
-				<img src="https://avatars.githubusercontent.com/u/665591?s=72&v=4" width="24" alt="Avatar of stefankueng"> stefankueng
-			</a><br/>
-			Stefan Küng
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>222</td>
-	</tr>
-	<tr>
-		<td>363</td>
-		<td>
-			<a href="https://github.com/dfranco">
-				<img src="https://avatars.githubusercontent.com/u/482177?s=72&u=c2288c90e0ae97da69c1a7255c3370efbe3f7c0c&v=4" width="24" alt="Avatar of dfranco"> dfranco
-			</a><br/>
-			Davide Franco
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>222</td>
-	</tr>
-	<tr>
-		<td>364</td>
-		<td>
-			<a href="https://github.com/marcelstoer">
-				<img src="https://avatars.githubusercontent.com/u/624195?s=72&u=482385737bcb897ad65ff00967ac3930ea95aa5f&v=4" width="24" alt="Avatar of marcelstoer"> marcelstoer
-			</a><br/>
-			Marcel Stör
-		</td>
-		<td>@thingpulse @nodemcu </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>219</td>
-	</tr>
-	<tr>
-		<td>365</td>
-		<td>
-			<a href="https://github.com/hoechenberger">
-				<img src="https://avatars.githubusercontent.com/u/2046265?s=72&u=739a20430346a14bc157ff1f28dcee6fc882461a&v=4" width="24" alt="Avatar of hoechenberger"> hoechenberger
-			</a><br/>
-			Richard Höchenberger
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Geneva, Paris, Berlin</td>
-		<td>212</td>
-	</tr>
-	<tr>
-		<td>366</td>
-		<td>
-			<a href="https://github.com/kzaher">
-				<img src="https://avatars.githubusercontent.com/u/1641148?s=72&v=4" width="24" alt="Avatar of kzaher"> kzaher
-			</a><br/>
-			Krunoslav Zaher
-		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>209</td>
-	</tr>
-	<tr>
-		<td>367</td>
-		<td>
-			<a href="https://github.com/davidgfnet">
-				<img src="https://avatars.githubusercontent.com/u/3145339?s=72&v=4" width="24" alt="Avatar of davidgfnet"> davidgfnet
-			</a><br/>
-			David G. F.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>209</td>
-	</tr>
-	<tr>
-		<td>368</td>
-		<td>
-			<a href="https://github.com/thomasgassmann">
-				<img src="https://avatars.githubusercontent.com/u/16067344?s=72&u=dfa04b92bfba0b59ef218708aeaf5421f9d7a2be&v=4" width="24" alt="Avatar of thomasgassmann"> thomasgassmann
-			</a><br/>
-			Thomas Gassmann
-		</td>
-		<td>Eth Zürich, @swissgrc </td>
-		<td><a href="https://twitter.com/thomas_gassmann">thomas_gassmann</a></td>
-		<td>Switzerland</td>
-		<td>207</td>
-	</tr>
-	<tr>
-		<td>369</td>
-		<td>
-			<a href="https://github.com/gionkunz">
-				<img src="https://avatars.githubusercontent.com/u/2203704?s=72&u=b2daea924eddf273ed7d6c0306b53f53613d409b&v=4" width="24" alt="Avatar of gionkunz"> gionkunz
-			</a><br/>
-			Gion Kunz
-		</td>
-		<td>@syncrea </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>204</td>
-	</tr>
-	<tr>
-		<td>370</td>
-		<td>
-			<a href="https://github.com/wasserth">
-				<img src="https://avatars.githubusercontent.com/u/26226563?s=72&u=9a3f5e5d53000e9333c3c9222c29100168dfe505&v=4" width="24" alt="Avatar of wasserth"> wasserth
-			</a><br/>
-			Jakob Wasserthal
-		</td>
-		<td>University Hospital Basel, Research<br/>Department<br/></td>
-		<td>No Twitter Username</td>
-		<td>Basel</td>
-		<td>204</td>
-	</tr>
-	<tr>
-		<td>371</td>
-		<td>
-			<a href="https://github.com/Vinetos">
-				<img src="https://avatars.githubusercontent.com/u/10145351?s=72&u=816943d4d3e5a65b10bdab6b53da838e2673f336&v=4" width="24" alt="Avatar of Vinetos"> Vinetos
-			</a><br/>
-			Vinetos
-		</td>
-		<td>Infomaniak </td>
-		<td>No Twitter Username</td>
-		<td>Geneva, CH</td>
-		<td>203</td>
-	</tr>
-	<tr>
-		<td>372</td>
-		<td>
-			<a href="https://github.com/DaMatrix">
-				<img src="https://avatars.githubusercontent.com/u/11216106?s=72&u=da7373897113bed375ca307a81c7353f6f44cfdc&v=4" width="24" alt="Avatar of DaMatrix"> DaMatrix
-			</a><br/>
-			DaPorkchop_
-		</td>
-		<td>@porkstudios  </td>
-		<td>No Twitter Username</td>
-		<td>Baar, Switzerland</td>
-		<td>202</td>
-	</tr>
-	<tr>
-		<td>373</td>
-		<td>
-			<a href="https://github.com/Lederstrumpf">
-				<img src="https://avatars.githubusercontent.com/u/1497212?s=72&u=02eae52b0047367d96bf9d67a913dfbbb462d4f1&v=4" width="24" alt="Avatar of Lederstrumpf"> Lederstrumpf
-			</a><br/>
-			Robert Hambrock
-		</td>
-		<td>@cryp-gmbh  </td>
-		<td><a href="https://twitter.com/Robert_Hambrock">Robert_Hambrock</a></td>
-		<td>Zug, Switzerland</td>
-		<td>202</td>
-	</tr>
-	<tr>
-		<td>374</td>
-		<td>
-			<a href="https://github.com/tomchop">
-				<img src="https://avatars.githubusercontent.com/u/1257972?s=72&u=ec3b2670d54ac8f81742d1830d6d971326d91686&v=4" width="24" alt="Avatar of tomchop"> tomchop
-			</a><br/>
-			Thomas Chopitea
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>201</td>
-	</tr>
-	<tr>
-		<td>375</td>
-		<td>
-			<a href="https://github.com/3rfaan">
-				<img src="https://avatars.githubusercontent.com/u/28968837?s=72&u=592ab034f14069b18e7412da6c1aad4ff638dd05&v=4" width="24" alt="Avatar of 3rfaan"> 3rfaan
-			</a><br/>
-			Arfan Zubi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>201</td>
-	</tr>
-	<tr>
-		<td>376</td>
-		<td>
-			<a href="https://github.com/simonepri">
-				<img src="https://avatars.githubusercontent.com/u/3505087?s=72&u=be26a33229057c41fdd7f2c8f3dc73783148653b&v=4" width="24" alt="Avatar of simonepri"> simonepri
-			</a><br/>
-			Simone Primarosa
-		</td>
-		<td>Boltz | Former: Google,<br/>Microsoft,<br/>Busrapido<br/></td>
-		<td><a href="https://twitter.com/simoneprimarosa">simoneprimarosa</a></td>
-		<td>Zurich, Switzerland.</td>
-		<td>199</td>
-	</tr>
-	<tr>
-		<td>377</td>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/epoyraz">
 				<img src="https://avatars.githubusercontent.com/u/1207226?s=72&u=d8f19e306265ae26447dee59bf113db0bd077f32&v=4" width="24" alt="Avatar of epoyraz"> epoyraz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#epoyraz">Copy rank badge</a><br/>
 			Enes Poyraz
 		</td>
 		<td>Poyraz Digital </td>
 		<td><a href="https://twitter.com/ens_pyrz">ens_pyrz</a></td>
 		<td>Zurich, Switzerland</td>
-		<td>199</td>
-	</tr>
-	<tr>
-		<td>378</td>
-		<td>
-			<a href="https://github.com/okkdev">
-				<img src="https://avatars.githubusercontent.com/u/20144629?s=72&u=eff2327f3154fd1341f02c640fbd00b67fc6bf76&v=4" width="24" alt="Avatar of okkdev"> okkdev
-			</a><br/>
-			Jen Stehlik
-		</td>
-		<td>@cyon </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>194</td>
-	</tr>
-	<tr>
-		<td>379</td>
-		<td>
-			<a href="https://github.com/drprojects">
-				<img src="https://avatars.githubusercontent.com/u/42056973?s=72&u=cb891bed1af574466919e0f2f15572bb2b218ef9&v=4" width="24" alt="Avatar of drprojects"> drprojects
-			</a><br/>
-			Damien ROBERT
-		</td>
-		<td>University Of Zurich </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>193</td>
-	</tr>
-	<tr>
-		<td>380</td>
-		<td>
-			<a href="https://github.com/AlexEMG">
-				<img src="https://avatars.githubusercontent.com/u/20850270?s=72&u=8ffe5003b46e1e168f574d1cf5e2fd935f21decb&v=4" width="24" alt="Avatar of AlexEMG"> AlexEMG
-			</a><br/>
-			Alexander Mathis
-		</td>
-		<td>École Polytechnique Fédérale De<br/>Lausanne<br/>(epfl)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Geneva, CH</td>
-		<td>191</td>
-	</tr>
-	<tr>
-		<td>381</td>
-		<td>
-			<a href="https://github.com/altfatterz">
-				<img src="https://avatars.githubusercontent.com/u/1025546?s=72&u=f94d0f381fa008f5f877a02c8cfef115f1857384&v=4" width="24" alt="Avatar of altfatterz"> altfatterz
-			</a><br/>
-			Zoltan Altfatter
-		</td>
-		<td>@mimacom </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>191</td>
-	</tr>
-	<tr>
-		<td>382</td>
-		<td>
-			<a href="https://github.com/oliverschwendener">
-				<img src="https://avatars.githubusercontent.com/u/15727229?s=72&u=5adeb6f186f378d204f85d740ba554c6587bd1db&v=4" width="24" alt="Avatar of oliverschwendener"> oliverschwendener
-			</a><br/>
-			Oliver Schwendener
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/oliverparkour">oliverparkour</a></td>
-		<td>Switzerland</td>
-		<td>181</td>
-	</tr>
-	<tr>
-		<td>383</td>
-		<td>
-			<a href="https://github.com/manuelbl">
-				<img src="https://avatars.githubusercontent.com/u/10954524?s=72&u=2dc5487e14ac38748f5ada6700e071b713f19bd8&v=4" width="24" alt="Avatar of manuelbl"> manuelbl
-			</a><br/>
-			Manuel Bl.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>181</td>
-	</tr>
-	<tr>
-		<td>384</td>
-		<td>
-			<a href="https://github.com/jianchao-li">
-				<img src="https://avatars.githubusercontent.com/u/26521863?s=72&u=125e768cd273d90a426a1b2587e9f999ede191ae&v=4" width="24" alt="Avatar of jianchao-li"> jianchao-li
-			</a><br/>
-			Jianchao Li
-		</td>
-		<td>Meta </td>
-		<td><a href="https://twitter.com/jianchao2017">jianchao2017</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>180</td>
-	</tr>
-	<tr>
-		<td>385</td>
-		<td>
-			<a href="https://github.com/pierre-emmanuelJ">
-				<img src="https://avatars.githubusercontent.com/u/15922119?s=72&u=09066c94bb56c36c5783387dffe8c8609af450d2&v=4" width="24" alt="Avatar of pierre-emmanuelJ"> pierre-emmanuelJ
-			</a><br/>
-			Pierre-Emmanuel Jacquier
-		</td>
-		<td>@exoscale @zipops  </td>
-		<td>No Twitter Username</td>
-		<td>Geneva</td>
-		<td>180</td>
-	</tr>
-	<tr>
-		<td>386</td>
-		<td>
-			<a href="https://github.com/roman-kashitsyn">
-				<img src="https://avatars.githubusercontent.com/u/847968?s=72&u=3a08a90c178c4b447cf151f345e471d766fe9844&v=4" width="24" alt="Avatar of roman-kashitsyn"> roman-kashitsyn
-			</a><br/>
-			Roman Kashitsyn
-		</td>
-		<td>Chainlink Labs </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>179</td>
-	</tr>
-	<tr>
 		<td>387</td>
-		<td>
-			<a href="https://github.com/pooya-mohammadi">
-				<img src="https://avatars.githubusercontent.com/u/55460936?s=72&u=e5ac194a70cdfb74434ad91700d5ca209adad893&v=4" width="24" alt="Avatar of pooya-mohammadi"> pooya-mohammadi
-			</a><br/>
-			Pooya Mohammadi Kazaj
-		</td>
-		<td>Bern University, Hospital, Inselspital<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bern, Switzerland</td>
-		<td>176</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>308</td>
 		<td>
-			<a href="https://github.com/dirmeier">
-				<img src="https://avatars.githubusercontent.com/u/16086606?s=72&u=15dbf586ebe31b8783531fe253d64d27d9e4721a&v=4" width="24" alt="Avatar of dirmeier"> dirmeier
-			</a><br/>
-			Simon Dirmeier
+			<a href="https://github.com/alina-yur">
+				<img src="https://avatars.githubusercontent.com/u/10358408?s=72&u=1ea9394464cac23560540bb1dcdbaa0299b0d677&v=4" width="24" alt="Avatar of alina-yur"> alina-yur
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#alina-yur">Copy rank badge</a><br/>
+			Alina Yurenko
 		</td>
-		<td>@logitech </td>
+		<td>Oracle </td>
+		<td><a href="https://twitter.com/alina_yurenko">alina_yurenko</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>384</td>
+	</tr>
+	<tr>
+		<td>309</td>
+		<td>
+			<a href="https://github.com/abertschi">
+				<img src="https://avatars.githubusercontent.com/u/2311941?s=72&u=d363f0988975b9590500b7f64a2218a7543d5a43&v=4" width="24" alt="Avatar of abertschi"> abertschi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#abertschi">Copy rank badge</a><br/>
+			Andrin Bertschi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/andrinbertschi">andrinbertschi</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>384</td>
+	</tr>
+	<tr>
+		<td>310</td>
+		<td>
+			<a href="https://github.com/veebch">
+				<img src="https://avatars.githubusercontent.com/u/75116070?s=72&u=fbb38b6737407ec301d435c74339ed313cff8ae5&v=4" width="24" alt="Avatar of veebch"> veebch
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#veebch">Copy rank badge</a><br/>
+			VEEB
+		</td>
+		<td>Veeb </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>383</td>
+	</tr>
+	<tr>
+		<td>311</td>
+		<td>
+			<a href="https://github.com/rentziass">
+				<img src="https://avatars.githubusercontent.com/u/6207785?s=72&u=d38f78353505b595c9f6f0e6e276da4d8350c362&v=4" width="24" alt="Avatar of rentziass"> rentziass
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#rentziass">Copy rank badge</a><br/>
+			Francesco Renzi
+		</td>
+		<td>@github   </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>380</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>
+			<a href="https://github.com/The-Compiler">
+				<img src="https://avatars.githubusercontent.com/u/625793?s=72&u=e5a8659e61e76c933956a3358fd467c76c375dec&v=4" width="24" alt="Avatar of The-Compiler"> The-Compiler
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#The-Compiler">Copy rank badge</a><br/>
+			Freya Bruhin
+		</td>
+		<td>Bruhin Software </td>
+		<td>No Twitter Username</td>
+		<td>Winterthur, Switzerland</td>
+		<td>378</td>
+	</tr>
+	<tr>
+		<td>313</td>
+		<td>
+			<a href="https://github.com/mhils">
+				<img src="https://avatars.githubusercontent.com/u/1019198?s=72&u=e2d937c2f9ba187adb94609d912a302dd3474bdd&v=4" width="24" alt="Avatar of mhils"> mhils
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mhils">Copy rank badge</a><br/>
+			Maximilian Hils
+		</td>
+		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>176</td>
+		<td>375</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>314</td>
 		<td>
-			<a href="https://github.com/nathanaelbosch">
-				<img src="https://avatars.githubusercontent.com/u/25008422?s=72&u=8fd3ad19f2da6d4cd969c1dec43ee3d05cac211d&v=4" width="24" alt="Avatar of nathanaelbosch"> nathanaelbosch
-			</a><br/>
-			Nathanael Bosch
-		</td>
-		<td>Epfl </td>
-		<td><a href="https://twitter.com/nathanaelbosch">nathanaelbosch</a></td>
-		<td>Lausanne, Switzerland</td>
-		<td>175</td>
-	</tr>
-	<tr>
-		<td>390</td>
-		<td>
-			<a href="https://github.com/etiennestuder">
-				<img src="https://avatars.githubusercontent.com/u/231070?s=72&v=4" width="24" alt="Avatar of etiennestuder"> etiennestuder
-			</a><br/>
-			Etienne Studer
-		</td>
-		<td>@gradle  </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>175</td>
-	</tr>
-	<tr>
-		<td>391</td>
-		<td>
-			<a href="https://github.com/stakx">
-				<img src="https://avatars.githubusercontent.com/u/104481?s=72&u=e8df0e2754d8a4ea5e534a47be6ee2cca15cec32&v=4" width="24" alt="Avatar of stakx"> stakx
-			</a><br/>
-			Dominique Schuppli
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>175</td>
-	</tr>
-	<tr>
-		<td>392</td>
-		<td>
-			<a href="https://github.com/letmejustputthishere">
-				<img src="https://avatars.githubusercontent.com/u/32162112?s=72&u=1c6681d9f2879774c4d09a40c9145cbc52a8fa72&v=4" width="24" alt="Avatar of letmejustputthishere"> letmejustputthishere
-			</a><br/>
-			Moritz Fuller
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cryptoschindler">cryptoschindler</a></td>
-		<td>Zürich</td>
-		<td>170</td>
-	</tr>
-	<tr>
-		<td>393</td>
-		<td>
-			<a href="https://github.com/dermesser">
-				<img src="https://avatars.githubusercontent.com/u/1042327?s=72&v=4" width="24" alt="Avatar of dermesser"> dermesser
-			</a><br/>
-			Lewin Bormann
-		</td>
-		<td>Zurich Instruments Ag </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>170</td>
-	</tr>
-	<tr>
-		<td>394</td>
-		<td>
-			<a href="https://github.com/lbeurerkellner">
-				<img src="https://avatars.githubusercontent.com/u/17903049?s=72&u=7262fc3d4c7ef626335060768ccf992b1dbb1e1a&v=4" width="24" alt="Avatar of lbeurerkellner"> lbeurerkellner
-			</a><br/>
-			Luca Beurer-Kellner
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>170</td>
-	</tr>
-	<tr>
-		<td>395</td>
-		<td>
-			<a href="https://github.com/chregu">
-				<img src="https://avatars.githubusercontent.com/u/47106?s=72&v=4" width="24" alt="Avatar of chregu"> chregu
-			</a><br/>
-			Christian Stocker
+			<a href="https://github.com/dulnan">
+				<img src="https://avatars.githubusercontent.com/u/4155003?s=72&u=625a828303599f714ff825edd15cafd6432f092b&v=4" width="24" alt="Avatar of dulnan"> dulnan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dulnan">Copy rank badge</a><br/>
+			Jan Hug
 		</td>
 		<td>Liip Ag </td>
-		<td><a href="https://twitter.com/chregu">chregu</a></td>
+		<td><a href="https://twitter.com/dulnan">dulnan</a></td>
 		<td>Zürich, Switzerland</td>
-		<td>168</td>
+		<td>375</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>315</td>
 		<td>
-			<a href="https://github.com/noeltock">
-				<img src="https://avatars.githubusercontent.com/u/781166?s=72&u=49479aafcc49425d168ba15d7b99e049e028772a&v=4" width="24" alt="Avatar of noeltock"> noeltock
-			</a><br/>
-			Noel Tock
+			<a href="https://github.com/inspiringsource">
+				<img src="https://avatars.githubusercontent.com/u/50595835?s=72&u=8e2063b9f4b1b243dbcd39560db6bf0e97a69fa3&v=4" width="24" alt="Avatar of inspiringsource"> inspiringsource
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#inspiringsource">Copy rank badge</a><br/>
+			Avi B
 		</td>
-		<td>Chief Growth Officer @humanmade<br/><br/></td>
+		<td>@avicloud.ch </td>
+		<td>No Twitter Username</td>
+		<td>Windisch, Switzerland</td>
+		<td>374</td>
+	</tr>
+	<tr>
+		<td>316</td>
+		<td>
+			<a href="https://github.com/mellowagain">
+				<img src="https://avatars.githubusercontent.com/u/24739711?s=72&u=e4dbcd3a3dca8b79a3db7374a8af069874204436&v=4" width="24" alt="Avatar of mellowagain"> mellowagain
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mellowagain">Copy rank badge</a><br/>
+			Mari
+		</td>
+		<td>@axa-ch </td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>167</td>
+		<td>373</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>317</td>
 		<td>
-			<a href="https://github.com/mromanello">
-				<img src="https://avatars.githubusercontent.com/u/310693?s=72&u=5875c56e69c715df816fb2dde4c2636d0ec01780&v=4" width="24" alt="Avatar of mromanello"> mromanello
-			</a><br/>
-			Matteo Romanello
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lausanne (CH)</td>
-		<td>167</td>
-	</tr>
-	<tr>
-		<td>398</td>
-		<td>
-			<a href="https://github.com/l0b0">
-				<img src="https://avatars.githubusercontent.com/u/168301?s=72&u=b824d9e71723b9993b271767e40426de83aa7263&v=4" width="24" alt="Avatar of l0b0"> l0b0
-			</a><br/>
-			Victor Engmark
-		</td>
-		<td>Hexagon Robotics Gmbh </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>165</td>
-	</tr>
-	<tr>
-		<td>399</td>
-		<td>
-			<a href="https://github.com/jingcheng-chen">
-				<img src="https://avatars.githubusercontent.com/u/15573101?s=72&u=a05406954197a2af9c5600c94b332c9848a89ea5&v=4" width="24" alt="Avatar of jingcheng-chen"> jingcheng-chen
-			</a><br/>
-			Jingcheng Chen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>165</td>
-	</tr>
-	<tr>
-		<td>400</td>
-		<td>
-			<a href="https://github.com/skanderboudawara">
-				<img src="https://avatars.githubusercontent.com/u/108568261?s=72&u=239421a8e1ec88363af08ecf289be692a99bcf3f&v=4" width="24" alt="Avatar of skanderboudawara"> skanderboudawara
-			</a><br/>
-			Skander Boudawara
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>163</td>
-	</tr>
-	<tr>
-		<td>401</td>
-		<td>
-			<a href="https://github.com/otvam">
-				<img src="https://avatars.githubusercontent.com/u/24779927?s=72&u=27592182c9a47c06d212ee8cba3211ab5872e52a&v=4" width="24" alt="Avatar of otvam"> otvam
-			</a><br/>
-			Thomas Guillod
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>160</td>
-	</tr>
-	<tr>
-		<td>402</td>
-		<td>
-			<a href="https://github.com/wichtounet">
-				<img src="https://avatars.githubusercontent.com/u/196746?s=72&u=15774cdc0577f6613e86adafc1bbcfefea1a0aed&v=4" width="24" alt="Avatar of wichtounet"> wichtounet
-			</a><br/>
-			Baptiste Wicht
-		</td>
-		<td>Verisign </td>
-		<td>No Twitter Username</td>
-		<td>Fribourg, Switzerland</td>
-		<td>156</td>
-	</tr>
-	<tr>
-		<td>403</td>
-		<td>
-			<a href="https://github.com/rphlr">
-				<img src="https://avatars.githubusercontent.com/u/81936759?s=72&u=271097169add62d0ae804b1e485e5d0717c2b3f7&v=4" width="24" alt="Avatar of rphlr"> rphlr
-			</a><br/>
-			Raphael
-		</td>
-		<td>@mediasmartch </td>
-		<td>No Twitter Username</td>
-		<td>switzerland</td>
-		<td>155</td>
-	</tr>
-	<tr>
-		<td>404</td>
-		<td>
-			<a href="https://github.com/mikehearn">
-				<img src="https://avatars.githubusercontent.com/u/971089?s=72&u=be5b0331172edf265ad1a2fb0bbe30ef40968632&v=4" width="24" alt="Avatar of mikehearn"> mikehearn
-			</a><br/>
-			Mike Hearn
-		</td>
-		<td>@hydraulic-software  </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>405</td>
-		<td>
-			<a href="https://github.com/pka">
-				<img src="https://avatars.githubusercontent.com/u/19007?s=72&u=669acb4e9bf13d9e3431f51b2786a9c1fa2dd062&v=4" width="24" alt="Avatar of pka"> pka
-			</a><br/>
-			Pirmin Kalberer
-		</td>
-		<td>Sourcepole </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>406</td>
-		<td>
-			<a href="https://github.com/wymanCV">
-				<img src="https://avatars.githubusercontent.com/u/93365573?s=72&u=7739099d9a56d52560b679b75335f63a1b543856&v=4" width="24" alt="Avatar of wymanCV"> wymanCV
-			</a><br/>
-			Wuyang LI
-		</td>
-		<td>Epfl </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne@Switzerland</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>407</td>
-		<td>
-			<a href="https://github.com/objecthub">
-				<img src="https://avatars.githubusercontent.com/u/6752200?s=72&u=b4849d3b7488b3f4681b2a50f0fc4c308e9f907e&v=4" width="24" alt="Avatar of objecthub"> objecthub
-			</a><br/>
-			Matthias Zenger
-		</td>
-		<td>Pinterest </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>152</td>
-	</tr>
-	<tr>
-		<td>408</td>
-		<td>
-			<a href="https://github.com/akospasztor">
-				<img src="https://avatars.githubusercontent.com/u/6011126?s=72&u=e5e1356c7e1a76cdacdd9c661e482e96d2846442&v=4" width="24" alt="Avatar of akospasztor"> akospasztor
-			</a><br/>
-			Akos Pasztor
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>150</td>
-	</tr>
-	<tr>
-		<td>409</td>
-		<td>
-			<a href="https://github.com/emanuelduss">
-				<img src="https://avatars.githubusercontent.com/u/438188?s=72&u=ab8ad87a9cbd033dadc7c43d1e6d4ae54af0b8ce&v=4" width="24" alt="Avatar of emanuelduss"> emanuelduss
-			</a><br/>
-			Emanuel Duss
-		</td>
-		<td>@compasssecurity </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>149</td>
-	</tr>
-	<tr>
-		<td>410</td>
-		<td>
-			<a href="https://github.com/digitalentity">
-				<img src="https://avatars.githubusercontent.com/u/11059099?s=72&u=f43e09a520c82e02811e37f2208bfcf9786046f5&v=4" width="24" alt="Avatar of digitalentity"> digitalentity
-			</a><br/>
-			Konstantin Sharlaimov
+			<a href="https://github.com/pflammertsma">
+				<img src="https://avatars.githubusercontent.com/u/286051?s=72&v=4" width="24" alt="Avatar of pflammertsma"> pflammertsma
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pflammertsma">Copy rank badge</a><br/>
+			Paul Lammertsma
 		</td>
 		<td>@google </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>144</td>
-	</tr>
-	<tr>
-		<td>411</td>
-		<td>
-			<a href="https://github.com/squix78">
-				<img src="https://avatars.githubusercontent.com/u/716822?s=72&u=8663169ab03c6ee0a93c362b5811b3366d764945&v=4" width="24" alt="Avatar of squix78"> squix78
-			</a><br/>
-			Daniel Eichhorn
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/officesunshine">officesunshine</a></td>
 		<td>Zurich, Switzerland</td>
-		<td>142</td>
+		<td>369</td>
 	</tr>
 	<tr>
-		<td>412</td>
-		<td>
-			<a href="https://github.com/pstadler">
-				<img src="https://avatars.githubusercontent.com/u/600097?s=72&u=4c27a0ef0ecd10b6d567c4be408cfe84c2965845&v=4" width="24" alt="Avatar of pstadler"> pstadler
-			</a><br/>
-			Patrick Stadler
-		</td>
-		<td>@hobby-kube </td>
-		<td><a href="https://twitter.com/pstadler">pstadler</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>142</td>
-	</tr>
-	<tr>
-		<td>413</td>
-		<td>
-			<a href="https://github.com/omichel">
-				<img src="https://avatars.githubusercontent.com/u/1264964?s=72&v=4" width="24" alt="Avatar of omichel"> omichel
-			</a><br/>
-			Olivier Michel
-		</td>
-		<td>Cyberbotics Ltd. </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>142</td>
-	</tr>
-	<tr>
-		<td>414</td>
-		<td>
-			<a href="https://github.com/sirdarckcat">
-				<img src="https://avatars.githubusercontent.com/u/33089?s=72&u=fb6e9899776ed0397c081932232b33d68ae1b4f1&v=4" width="24" alt="Avatar of sirdarckcat"> sirdarckcat
-			</a><br/>
-			Eduardo' Vela" <Nava> (sirdarckcat)
-		</td>
-		<td>Elgoog </td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>139</td>
-	</tr>
-	<tr>
-		<td>415</td>
-		<td>
-			<a href="https://github.com/donghao51">
-				<img src="https://avatars.githubusercontent.com/u/31425694?s=72&u=97f17df903bfa1b9d3f35ba400a7b50d67e0b453&v=4" width="24" alt="Avatar of donghao51"> donghao51
-			</a><br/>
-			Hao Dong
-		</td>
-		<td>Eth Zurich </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>139</td>
-	</tr>
-	<tr>
-		<td>416</td>
-		<td>
-			<a href="https://github.com/cansik">
-				<img src="https://avatars.githubusercontent.com/u/5220162?s=72&u=4e120c4a46ce2255c6c5aff129889146e95f8eda&v=4" width="24" alt="Avatar of cansik"> cansik
-			</a><br/>
-			Florian Bruggisser
-		</td>
-		<td>@bildspur  </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>138</td>
-	</tr>
-	<tr>
-		<td>417</td>
-		<td>
-			<a href="https://github.com/AvikantSrivastava">
-				<img src="https://avatars.githubusercontent.com/u/41926176?s=72&u=06bf8bbed81b0486a70edf33f22eae7f3f257778&v=4" width="24" alt="Avatar of AvikantSrivastava"> AvikantSrivastava
-			</a><br/>
-			Avikant Srivastava
-		</td>
-		<td> @cern </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>136</td>
-	</tr>
-	<tr>
-		<td>418</td>
-		<td>
-			<a href="https://github.com/zifeo">
-				<img src="https://avatars.githubusercontent.com/u/9053709?s=72&u=a6edf025116d0365873e27074c9920d448ea1801&v=4" width="24" alt="Avatar of zifeo"> zifeo
-			</a><br/>
-			Teo Stocco
-		</td>
-		<td>Exponent.ch </td>
-		<td><a href="https://twitter.com/zifeo">zifeo</a></td>
-		<td>Switzerland</td>
-		<td>130</td>
-	</tr>
-	<tr>
-		<td>419</td>
-		<td>
-			<a href="https://github.com/burdges">
-				<img src="https://avatars.githubusercontent.com/u/680126?s=72&v=4" width="24" alt="Avatar of burdges"> burdges
-			</a><br/>
-			Jeff Burdges
-		</td>
-		<td>@w3f  </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>129</td>
-	</tr>
-	<tr>
-		<td>420</td>
-		<td>
-			<a href="https://github.com/ioch96">
-				<img src="https://avatars.githubusercontent.com/u/48016428?s=72&u=e39947e4cba45d5fa3605cdcfd908c86ee9ee29c&v=4" width="24" alt="Avatar of ioch96"> ioch96
-			</a><br/>
-			Ioannis Christodoulakis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>128</td>
-	</tr>
-	<tr>
-		<td>421</td>
-		<td>
-			<a href="https://github.com/claudep">
-				<img src="https://avatars.githubusercontent.com/u/143192?s=72&u=c0c7a524b5a0cd168d7abd7e9fce3662d721992d&v=4" width="24" alt="Avatar of claudep"> claudep
-			</a><br/>
-			Claude Paroz
-		</td>
-		<td>2xlibre.net Sàrl </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>127</td>
-	</tr>
-	<tr>
-		<td>422</td>
-		<td>
-			<a href="https://github.com/ramzerk">
-				<img src="https://avatars.githubusercontent.com/u/54402804?s=72&u=90869835ea91a2e74eefb1939bed1f838e9da242&v=4" width="24" alt="Avatar of ramzerk"> ramzerk
-			</a><br/>
-			No Name
-		</td>
-		<td>Zoldik Corp </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne</td>
-		<td>124</td>
-	</tr>
-	<tr>
-		<td>423</td>
-		<td>
-			<a href="https://github.com/MatthieuStigler">
-				<img src="https://avatars.githubusercontent.com/u/108840?s=72&u=cbcddcf77a478032d0b9d6bd52beaa7f678d0f88&v=4" width="24" alt="Avatar of MatthieuStigler"> MatthieuStigler
-			</a><br/>
-			Matthieu
-		</td>
-		<td>University Of Geneva </td>
-		<td>No Twitter Username</td>
-		<td>Geneva</td>
-		<td>123</td>
-	</tr>
-	<tr>
-		<td>424</td>
-		<td>
-			<a href="https://github.com/veorq">
-				<img src="https://avatars.githubusercontent.com/u/3204810?s=72&u=cc580bb522b5d445c60015b343019cf440c77af6&v=4" width="24" alt="Avatar of veorq"> veorq
-			</a><br/>
-			Jean-Philippe Aumasson
-		</td>
-		<td>@taurusgroup  </td>
-		<td><a href="https://twitter.com/veorq">veorq</a></td>
-		<td>Switzerland</td>
-		<td>122</td>
-	</tr>
-	<tr>
-		<td>425</td>
-		<td>
-			<a href="https://github.com/keurfonluu">
-				<img src="https://avatars.githubusercontent.com/u/16566206?s=72&u=68a6c13a7ff4a9a6b50730f29265cc215ca45620&v=4" width="24" alt="Avatar of keurfonluu"> keurfonluu
-			</a><br/>
-			Keurfon Luu
-		</td>
-		<td>@intera-inc </td>
-		<td>No Twitter Username</td>
-		<td>Wettingen, Switzerland</td>
-		<td>122</td>
-	</tr>
-	<tr>
-		<td>426</td>
-		<td>
-			<a href="https://github.com/tibbe">
-				<img src="https://avatars.githubusercontent.com/u/17277?s=72&v=4" width="24" alt="Avatar of tibbe"> tibbe
-			</a><br/>
-			Johan Tibell
-		</td>
-		<td>Benetics Ag </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>119</td>
-	</tr>
-	<tr>
-		<td>427</td>
-		<td>
-			<a href="https://github.com/Quinta0">
-				<img src="https://avatars.githubusercontent.com/u/112334784?s=72&u=b13983e102e07d558071a54764e2c9b07556f67b&v=4" width="24" alt="Avatar of Quinta0"> Quinta0
-			</a><br/>
-			Quinta
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>428</td>
+		<td>318</td>
 		<td>
 			<a href="https://github.com/NorfairKing">
 				<img src="https://avatars.githubusercontent.com/u/3521180?s=72&u=ee4f22314e112bb22044c60a16d5db29e7728c1f&v=4" width="24" alt="Avatar of NorfairKing"> NorfairKing
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#NorfairKing">Copy rank badge</a><br/>
 			Tom Sydney Kerckhove
 		</td>
 		<td>Cs Kerckhove </td>
 		<td>No Twitter Username</td>
 		<td>Zürich</td>
-		<td>117</td>
+		<td>368</td>
 	</tr>
 	<tr>
-		<td>429</td>
+		<td>319</td>
 		<td>
-			<a href="https://github.com/msoeken">
-				<img src="https://avatars.githubusercontent.com/u/1998245?s=72&u=81d6dd27db7d2a6a65b5241c680c6376c81b0a82&v=4" width="24" alt="Avatar of msoeken"> msoeken
-			</a><br/>
-			Mathias Soeken
-		</td>
-		<td>@microsoft </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>116</td>
-	</tr>
-	<tr>
-		<td>430</td>
-		<td>
-			<a href="https://github.com/greut">
-				<img src="https://avatars.githubusercontent.com/u/1388?s=72&u=b6e893ca078747cf2950f3664143342fcbdfbbc9&v=4" width="24" alt="Avatar of greut"> greut
-			</a><br/>
-			Yoan Blanc
+			<a href="https://github.com/jankrepl">
+				<img src="https://avatars.githubusercontent.com/u/18519371?s=72&u=b9fdc49aaf7a29278e9c3386d7a93094a59f06ee&v=4" width="24" alt="Avatar of jankrepl"> jankrepl
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jankrepl">Copy rank badge</a><br/>
+			Jan
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>115</td>
+		<td>Geneva, Switzerland</td>
+		<td>367</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>320</td>
 		<td>
-			<a href="https://github.com/NeilFraser">
-				<img src="https://avatars.githubusercontent.com/u/250480?s=72&u=7320e4747ad3199ab7670a7d06831b6a6e94317d&v=4" width="24" alt="Avatar of NeilFraser"> NeilFraser
-			</a><br/>
-			Neil Fraser
+			<a href="https://github.com/atemerev">
+				<img src="https://avatars.githubusercontent.com/u/127891?s=72&v=4" width="24" alt="Avatar of atemerev"> atemerev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#atemerev">Copy rank badge</a><br/>
+			Alexander Temerev
 		</td>
-		<td>New Voice </td>
+		<td>Reactivity </td>
+		<td>No Twitter Username</td>
+		<td>Geneva, Switzerland</td>
+		<td>366</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
+			<a href="https://github.com/Noratrieb">
+				<img src="https://avatars.githubusercontent.com/u/48135649?s=72&u=f47185e959d8ac7ec628af62c40ed782e9d6485b&v=4" width="24" alt="Avatar of Noratrieb"> Noratrieb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Noratrieb">Copy rank badge</a><br/>
+			nora
+		</td>
+		<td>Axa Switzerland </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>114</td>
+		<td>365</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>322</td>
 		<td>
-			<a href="https://github.com/cblichmann">
-				<img src="https://avatars.githubusercontent.com/u/213059?s=72&u=2dc19df75854897e74d55e2d141edec54aa0cd94&v=4" width="24" alt="Avatar of cblichmann"> cblichmann
-			</a><br/>
-			Christian Blichmann
+			<a href="https://github.com/MaEtUgR">
+				<img src="https://avatars.githubusercontent.com/u/4668506?s=72&u=24eb4e41b549cb21470180aedc53e1633904aed7&v=4" width="24" alt="Avatar of MaEtUgR"> MaEtUgR
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#MaEtUgR">Copy rank badge</a><br/>
+			Matthias Grob
 		</td>
-		<td>@google @zynamics  </td>
-		<td><a href="https://twitter.com/AdmVonSchneider">AdmVonSchneider</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>111</td>
-	</tr>
-	<tr>
-		<td>433</td>
-		<td>
-			<a href="https://github.com/dpryan79">
-				<img src="https://avatars.githubusercontent.com/u/6399000?s=72&u=3decd52425131261addc75a0127b2f43b2167a2a&v=4" width="24" alt="Avatar of dpryan79"> dpryan79
-			</a><br/>
-			Devon Ryan
-		</td>
-		<td>Genedata Ag </td>
+		<td>Auterion </td>
 		<td>No Twitter Username</td>
-		<td>Basel, Switzerland / Freiburg, Germany</td>
-		<td>110</td>
+		<td>Zürich, Switzerland</td>
+		<td>365</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>323</td>
 		<td>
-			<a href="https://github.com/fengwang">
-				<img src="https://avatars.githubusercontent.com/u/455684?s=72&u=e47bfe8ebbf9a3d798ba70d02d70efb524880670&v=4" width="24" alt="Avatar of fengwang"> fengwang
-			</a><br/>
-			feng wang
-		</td>
-		<td>Empa </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>109</td>
-	</tr>
-	<tr>
-		<td>435</td>
-		<td>
-			<a href="https://github.com/FlorianCassayre">
-				<img src="https://avatars.githubusercontent.com/u/9027075?s=72&u=6c32b40ef163299b89247a357f085972643a1c04&v=4" width="24" alt="Avatar of FlorianCassayre"> FlorianCassayre
-			</a><br/>
-			Florian Cassayre
+			<a href="https://github.com/0xquark">
+				<img src="https://avatars.githubusercontent.com/u/84588720?s=72&u=681f0eb99129b9081213bc747afcea7da0f8d60f&v=4" width="24" alt="Avatar of 0xquark"> 0xquark
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#0xquark">Copy rank badge</a><br/>
+			Karanjot Singh
 		</td>
 		<td>@cern </td>
 		<td>No Twitter Username</td>
-		<td>France · Switzerland</td>
-		<td>107</td>
-	</tr>
-	<tr>
-		<td>436</td>
-		<td>
-			<a href="https://github.com/FlorianSLZ">
-				<img src="https://avatars.githubusercontent.com/u/38555854?s=72&u=7763110a45d75b2c752e88af1bdb5c4b49664efe&v=4" width="24" alt="Avatar of FlorianSLZ"> FlorianSLZ
-			</a><br/>
-			Florian Salzmann
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/FlorianSLZ">FlorianSLZ</a></td>
-		<td>Switzerland</td>
-		<td>106</td>
-	</tr>
-	<tr>
-		<td>437</td>
-		<td>
-			<a href="https://github.com/jodersky">
-				<img src="https://avatars.githubusercontent.com/u/1007012?s=72&u=74247c80ffe66a641e4007f5d356cae51b275f84&v=4" width="24" alt="Avatar of jodersky"> jodersky
-			</a><br/>
-			Jakob Odersky
-		</td>
-		<td>@meshci  </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne</td>
-		<td>106</td>
-	</tr>
-	<tr>
-		<td>438</td>
-		<td>
-			<a href="https://github.com/MarkusEicher">
-				<img src="https://avatars.githubusercontent.com/u/83175378?s=72&u=ca8cd7a19ba982e4842e441f70ed5a912c724220&v=4" width="24" alt="Avatar of MarkusEicher"> MarkusEicher
-			</a><br/>
-			Markus Eicher  
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/MarkusEicher70">MarkusEicher70</a></td>
-		<td>Switzerland</td>
-		<td>105</td>
-	</tr>
-	<tr>
-		<td>439</td>
-		<td>
-			<a href="https://github.com/ravage84">
-				<img src="https://avatars.githubusercontent.com/u/625761?s=72&u=0cb0d04232a5162cfcad88db4e8d73abf9dac2bd&v=4" width="24" alt="Avatar of ravage84"> ravage84
-			</a><br/>
-			Marc Würth
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Basel, Switzerland</td>
-		<td>105</td>
-	</tr>
-	<tr>
-		<td>440</td>
-		<td>
-			<a href="https://github.com/nguyen-v">
-				<img src="https://avatars.githubusercontent.com/u/78664993?s=72&v=4" width="24" alt="Avatar of nguyen-v"> nguyen-v
-			</a><br/>
-			Nguyen Vincent
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>103</td>
-	</tr>
-	<tr>
-		<td>441</td>
-		<td>
-			<a href="https://github.com/kynan">
-				<img src="https://avatars.githubusercontent.com/u/346079?s=72&v=4" width="24" alt="Avatar of kynan"> kynan
-			</a><br/>
-			Florian Rathgeber
-		</td>
-		<td>Google </td>
-		<td><a href="https://twitter.com/frathgeber">frathgeber</a></td>
-		<td>Zurich area, Switzerland</td>
-		<td>103</td>
-	</tr>
-	<tr>
-		<td>442</td>
-		<td>
-			<a href="https://github.com/MichaelFYang">
-				<img src="https://avatars.githubusercontent.com/u/42180956?s=72&u=369d42d676e04b70795d72135aa7ab19a70558a1&v=4" width="24" alt="Avatar of MichaelFYang"> MichaelFYang
-			</a><br/>
-			Fan Yang
-		</td>
-		<td>Robotic Systems Lab, Eth<br/>Zurich<br/></td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>443</td>
-		<td>
-			<a href="https://github.com/thomasnordquist">
-				<img src="https://avatars.githubusercontent.com/u/7721625?s=72&u=8621114d5dd0fd0fe910f8ce9308cf6dab243f7c&v=4" width="24" alt="Avatar of thomasnordquist"> thomasnordquist
-			</a><br/>
-			Thomas Nordquist
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Basel, Switzerland</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>444</td>
-		<td>
-			<a href="https://github.com/vladkish">
-				<img src="https://avatars.githubusercontent.com/u/187675641?s=72&u=34879776dc1e2d2e8c4f3b27520d0c564a809460&v=4" width="24" alt="Avatar of vladkish"> vladkish
-			</a><br/>
-			Vlad Kyshkovar
-		</td>
-		<td>Code.yo </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>445</td>
-		<td>
-			<a href="https://github.com/BrunnerLivio">
-				<img src="https://avatars.githubusercontent.com/u/9899423?s=72&u=5d1170c99cdf11065093d124bd2c87ee1f3e097e&v=4" width="24" alt="Avatar of BrunnerLivio"> BrunnerLivio
-			</a><br/>
-			Livio Brunner
-		</td>
-		<td>@raisenow @nestjs </td>
-		<td><a href="https://twitter.com/brunnerlivio">brunnerlivio</a></td>
-		<td>Switzerland</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>446</td>
-		<td>
-			<a href="https://github.com/Illyism">
-				<img src="https://avatars.githubusercontent.com/u/304283?s=72&u=1ec71af713fe70f83b7adaf93e64e836232b32de&v=4" width="24" alt="Avatar of Illyism"> Illyism
-			</a><br/>
-			Ilias Ism
-		</td>
-		<td>Magicspace Seo </td>
-		<td><a href="https://twitter.com/illyism">illyism</a></td>
-		<td>Switzerland</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>447</td>
-		<td>
-			<a href="https://github.com/ColinFinck">
-				<img src="https://avatars.githubusercontent.com/u/8110912?s=72&u=799a6db0a5ac71de813d0a934d91e35d1cf30b1c&v=4" width="24" alt="Avatar of ColinFinck"> ColinFinck
-			</a><br/>
-			Colin Finck
-		</td>
-		<td>@osdyne </td>
-		<td>No Twitter Username</td>
-		<td>Greater Zurich Area, Switzerland</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>448</td>
-		<td>
-			<a href="https://github.com/bdelacretaz">
-				<img src="https://avatars.githubusercontent.com/u/81101?s=72&u=52635aff784b94122d067ab049b7948992322807&v=4" width="24" alt="Avatar of bdelacretaz"> bdelacretaz
-			</a><br/>
-			Bertrand Delacretaz
-		</td>
-		<td>@adobe </td>
-		<td>No Twitter Username</td>
-		<td>Yverdon, Switzerland</td>
-		<td>99</td>
-	</tr>
-	<tr>
-		<td>449</td>
-		<td>
-			<a href="https://github.com/IvanYashchuk">
-				<img src="https://avatars.githubusercontent.com/u/19621411?s=72&u=94b9a9581d78ded1359f726de14cd6f6e2b36ab6&v=4" width="24" alt="Avatar of IvanYashchuk"> IvanYashchuk
-			</a><br/>
-			Ivan Yashchuk
-		</td>
-		<td>@nvidia </td>
-		<td><a href="https://twitter.com/IvanYashchuk">IvanYashchuk</a></td>
-		<td>Finland | Switzerland</td>
-		<td>99</td>
-	</tr>
-	<tr>
-		<td>450</td>
-		<td>
-			<a href="https://github.com/underdoeg">
-				<img src="https://avatars.githubusercontent.com/u/243820?s=72&u=cfdb52f5e3788cf4ee72f5a539a18f9d93d34e82&v=4" width="24" alt="Avatar of underdoeg"> underdoeg
-			</a><br/>
-			Philip Whitfield
-		</td>
-		<td>Undef </td>
-		<td>No Twitter Username</td>
-		<td>Basel, Switzerland</td>
-		<td>99</td>
-	</tr>
-	<tr>
-		<td>451</td>
-		<td>
-			<a href="https://github.com/sanjibansg">
-				<img src="https://avatars.githubusercontent.com/u/40017007?s=72&u=31b3882925c91ad8819d0cfbe08289a7e9a84406&v=4" width="24" alt="Avatar of sanjibansg"> sanjibansg
-			</a><br/>
-			Sanjiban Sengupta
-		</td>
-		<td>Cern </td>
-		<td><a href="https://twitter.com/sanjibansg">sanjibansg</a></td>
 		<td>Geneva, Switzerland</td>
-		<td>98</td>
+		<td>364</td>
 	</tr>
 	<tr>
-		<td>452</td>
+		<td>324</td>
 		<td>
-			<a href="https://github.com/iosifache">
-				<img src="https://avatars.githubusercontent.com/u/11766982?s=72&u=29817d18aceaa58382a61477de260af5134e502b&v=4" width="24" alt="Avatar of iosifache"> iosifache
-			</a><br/>
-			George-Andrei Iosif
+			<a href="https://github.com/FabianGosebrink">
+				<img src="https://avatars.githubusercontent.com/u/11268349?s=72&u=13e04b25a34bbe81bf8addc2fb5f3443e7c484af&v=4" width="24" alt="Avatar of FabianGosebrink"> FabianGosebrink
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#FabianGosebrink">Copy rank badge</a><br/>
+			Fabian Gosebrink
 		</td>
-		<td>@google-deepmind </td>
-		<td><a href="https://twitter.com/iosifache">iosifache</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>98</td>
-	</tr>
-	<tr>
-		<td>453</td>
-		<td>
-			<a href="https://github.com/mikispag">
-				<img src="https://avatars.githubusercontent.com/u/991637?s=72&u=c08ea82f92ad29d7d404667d5b6a22659ae314fe&v=4" width="24" alt="Avatar of mikispag"> mikispag
-			</a><br/>
-			Michele Spagnuolo
-		</td>
-		<td>@google </td>
-		<td><a href="https://twitter.com/mikispag">mikispag</a></td>
-		<td>Zürich</td>
-		<td>97</td>
-	</tr>
-	<tr>
-		<td>454</td>
-		<td>
-			<a href="https://github.com/matteocourthoud">
-				<img src="https://avatars.githubusercontent.com/u/13118625?s=72&u=2fb25c7f83cf86bf6cd9f24c43beae09847f9bab&v=4" width="24" alt="Avatar of matteocourthoud"> matteocourthoud
-			</a><br/>
-			Matteo Courthoud
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>96</td>
-	</tr>
-	<tr>
-		<td>455</td>
-		<td>
-			<a href="https://github.com/mkody">
-				<img src="https://avatars.githubusercontent.com/u/843787?s=72&u=09fd231ed64ff18037cbad785a5b33837c03de0f&v=4" width="24" alt="Avatar of mkody"> mkody
-			</a><br/>
-			Kody
-		</td>
-		<td>No Company</td>
+		<td>@offeringsolutions  </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>96</td>
+		<td>363</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>325</td>
 		<td>
-			<a href="https://github.com/plhery">
-				<img src="https://avatars.githubusercontent.com/u/4018426?s=72&v=4" width="24" alt="Avatar of plhery"> plhery
-			</a><br/>
-			Paul-Louis HERY
+			<a href="https://github.com/marcbachmann">
+				<img src="https://avatars.githubusercontent.com/u/431376?s=72&u=1b983dba8d775eee7cfa00922efa3c85d2c6bd6a&v=4" width="24" alt="Avatar of marcbachmann"> marcbachmann
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#marcbachmann">Copy rank badge</a><br/>
+			Marc Bachmann
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Livingdocs Ag </td>
+		<td><a href="https://twitter.com/mrbrookman">mrbrookman</a></td>
 		<td>Zurich, Switzerland</td>
-		<td>93</td>
+		<td>361</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>326</td>
 		<td>
-			<a href="https://github.com/guewen">
-				<img src="https://avatars.githubusercontent.com/u/417223?s=72&u=bbf6f35d7c5bdb11a8e48997a61ca530656f277d&v=4" width="24" alt="Avatar of guewen"> guewen
-			</a><br/>
-			Guewen Baconnier
+			<a href="https://github.com/neophob">
+				<img src="https://avatars.githubusercontent.com/u/837347?s=72&v=4" width="24" alt="Avatar of neophob"> neophob
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#neophob">Copy rank badge</a><br/>
+			Michael Vogt
 		</td>
-		<td>@qoqa </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne</td>
-		<td>92</td>
+		<td>Https://playfield.de </td>
+		<td><a href="https://twitter.com/neophob">neophob</a></td>
+		<td>Bern, Switzerland</td>
+		<td>361</td>
 	</tr>
 	<tr>
-		<td>458</td>
-		<td>
-			<a href="https://github.com/deshipu">
-				<img src="https://avatars.githubusercontent.com/u/1181357?s=72&v=4" width="24" alt="Avatar of deshipu"> deshipu
-			</a><br/>
-			Radomir Dopieralski
-		</td>
-		<td>Red Hat </td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>91</td>
-	</tr>
-	<tr>
-		<td>459</td>
-		<td>
-			<a href="https://github.com/TannerGilbert">
-				<img src="https://avatars.githubusercontent.com/u/36239763?s=72&u=3ec0f7056b65218677e46c215fd24a7e93a70005&v=4" width="24" alt="Avatar of TannerGilbert"> TannerGilbert
-			</a><br/>
-			Gilbert Tanner
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Tanner__Gilbert">Tanner__Gilbert</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>460</td>
-		<td>
-			<a href="https://github.com/SinaShakoori">
-				<img src="https://avatars.githubusercontent.com/u/188763081?s=72&u=67687fbf3e7c4e834fdb001d53390fa5fd56dc07&v=4" width="24" alt="Avatar of SinaShakoori"> SinaShakoori
-			</a><br/>
-			Sina Shakoori
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>switzerland</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>461</td>
-		<td>
-			<a href="https://github.com/LittleAprilFool">
-				<img src="https://avatars.githubusercontent.com/u/5129786?s=72&u=8062ba88f63798c5073e1e05332df672c0787027&v=4" width="24" alt="Avatar of LittleAprilFool"> LittleAprilFool
-			</a><br/>
-			April Yi Wang
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>89</td>
-	</tr>
-	<tr>
-		<td>462</td>
-		<td>
-			<a href="https://github.com/mbi">
-				<img src="https://avatars.githubusercontent.com/u/131808?s=72&v=4" width="24" alt="Avatar of mbi"> mbi
-			</a><br/>
-			Marco Bonetti
-		</td>
-		<td>Cruncher </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>89</td>
-	</tr>
-	<tr>
-		<td>463</td>
-		<td>
-			<a href="https://github.com/Laz4rz">
-				<img src="https://avatars.githubusercontent.com/u/62252332?s=72&u=245bb42a50304e4009411a9d3db7a8146902e52f&v=4" width="24" alt="Avatar of Laz4rz"> Laz4rz
-			</a><br/>
-			No Name
-		</td>
-		<td>Epfl </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne</td>
-		<td>88</td>
-	</tr>
-	<tr>
-		<td>464</td>
-		<td>
-			<a href="https://github.com/yangycpku">
-				<img src="https://avatars.githubusercontent.com/u/16571711?s=72&u=195b338ee63a528bf82fcaccb805eff18a053310&v=4" width="24" alt="Avatar of yangycpku"> yangycpku
-			</a><br/>
-			Yucheng Yang
-		</td>
-		<td>University Of Zurich </td>
-		<td><a href="https://twitter.com/YuchengYang1993">YuchengYang1993</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>465</td>
-		<td>
-			<a href="https://github.com/BKHMSI">
-				<img src="https://avatars.githubusercontent.com/u/14313972?s=72&u=901048e457cd33634cc531825dd5421c03e68920&v=4" width="24" alt="Avatar of BKHMSI"> BKHMSI
-			</a><br/>
-			Badr AlKhamissi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/bkhmsi">bkhmsi</a></td>
-		<td>Lausanne, Switzerland</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>466</td>
-		<td>
-			<a href="https://github.com/noraa-junker">
-				<img src="https://avatars.githubusercontent.com/u/58633848?s=72&u=523b680bc84ec8f18fa62772689fb45c89b58423&v=4" width="24" alt="Avatar of noraa-junker"> noraa-junker
-			</a><br/>
-			Noraa Junker
-		</td>
-		<td>Aaron Junker Technologies By<br/>Noraa<br/></td>
-		<td><a href="https://twitter.com/theredcuber">theredcuber</a></td>
-		<td>Switzerland</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>467</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/tomastrajan">
 				<img src="https://avatars.githubusercontent.com/u/3764868?s=72&u=551f5220f2af58deeb97b80709b26b0583054948&v=4" width="24" alt="Avatar of tomastrajan"> tomastrajan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#tomastrajan">Copy rank badge</a><br/>
 			Tomas Trajan
 		</td>
 		<td>Angularexperts.io, Omniboard.dev, Solveo Gmbh,<br/>Coalist,<br/>Die<br/>Mobiliar<br/></td>
 		<td><a href="https://twitter.com/tomastrajan">tomastrajan</a></td>
 		<td>Zürich, Switzerland</td>
-		<td>83</td>
+		<td>354</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>328</td>
 		<td>
-			<a href="https://github.com/schweikert">
-				<img src="https://avatars.githubusercontent.com/u/1253376?s=72&v=4" width="24" alt="Avatar of schweikert"> schweikert
-			</a><br/>
-			David Schweikert
+			<a href="https://github.com/manumerous">
+				<img src="https://avatars.githubusercontent.com/u/18735094?s=72&u=68a71a3ccecf0c1258211499ecbcd67059771a50&v=4" width="24" alt="Avatar of manumerous"> manumerous
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#manumerous">Copy rank badge</a><br/>
+			Manuel Yves Galliker
 		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>469</td>
-		<td>
-			<a href="https://github.com/econmaett">
-				<img src="https://avatars.githubusercontent.com/u/60882754?s=72&u=32c7cf65ee8ca23905c53d4536acb31c2bd48a56&v=4" width="24" alt="Avatar of econmaett"> econmaett
-			</a><br/>
-			econmaett
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Enact </td>
+		<td><a href="https://twitter.com/manumerous">manumerous</a></td>
 		<td>Switzerland</td>
-		<td>82</td>
+		<td>354</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>329</td>
 		<td>
-			<a href="https://github.com/nicolasgarnier">
-				<img src="https://avatars.githubusercontent.com/u/3766663?s=72&u=494921fa3835ba1f5047868b53fd5aadde44f9b0&v=4" width="24" alt="Avatar of nicolasgarnier"> nicolasgarnier
-			</a><br/>
-			Nicolas Garnier
-		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>81</td>
-	</tr>
-	<tr>
-		<td>471</td>
-		<td>
-			<a href="https://github.com/elliottash">
-				<img src="https://avatars.githubusercontent.com/u/12103673?s=72&u=17f190280a46e54a71060c96e7f10f140d558900&v=4" width="24" alt="Avatar of elliottash"> elliottash
-			</a><br/>
-			Elliott Ash
-		</td>
-		<td>Eth Zurich </td>
-		<td><a href="https://twitter.com/ellliottt">ellliottt</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>81</td>
-	</tr>
-	<tr>
-		<td>472</td>
-		<td>
-			<a href="https://github.com/Laendrun">
-				<img src="https://avatars.githubusercontent.com/u/24452010?s=72&u=fbb260aab6b4f8dacfbad91a49b9413803e363bc&v=4" width="24" alt="Avatar of Laendrun"> Laendrun
-			</a><br/>
-			Simon
-		</td>
-		<td>Laendrun </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>81</td>
-	</tr>
-	<tr>
-		<td>473</td>
-		<td>
-			<a href="https://github.com/digi604">
-				<img src="https://avatars.githubusercontent.com/u/25490?s=72&u=95e5d3dd0f15a8b671ced2b75dc206ee22bf7693&v=4" width="24" alt="Avatar of digi604"> digi604
-			</a><br/>
-			Patrick Lauber
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>81</td>
-	</tr>
-	<tr>
-		<td>474</td>
-		<td>
-			<a href="https://github.com/ioolkos">
-				<img src="https://avatars.githubusercontent.com/u/282359?s=72&v=4" width="24" alt="Avatar of ioolkos"> ioolkos
-			</a><br/>
-			No Name
-		</td>
-		<td>Vernemq </td>
-		<td>No Twitter Username</td>
-		<td>Basel, Switzerland</td>
-		<td>81</td>
-	</tr>
-	<tr>
-		<td>475</td>
-		<td>
-			<a href="https://github.com/gannimo">
-				<img src="https://avatars.githubusercontent.com/u/2371964?s=72&u=1ad5736766ffd9f0cb49182ac51f30d093f7a20b&v=4" width="24" alt="Avatar of gannimo"> gannimo
-			</a><br/>
-			Mathias Payer
+			<a href="https://github.com/nathanaelbosch">
+				<img src="https://avatars.githubusercontent.com/u/25008422?s=72&u=8fd3ad19f2da6d4cd969c1dec43ee3d05cac211d&v=4" width="24" alt="Avatar of nathanaelbosch"> nathanaelbosch
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nathanaelbosch">Copy rank badge</a><br/>
+			Nathanael Bosch
 		</td>
 		<td>Epfl </td>
-		<td><a href="https://twitter.com/gannimo">gannimo</a></td>
-		<td>Lausanne</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>476</td>
-		<td>
-			<a href="https://github.com/smarter">
-				<img src="https://avatars.githubusercontent.com/u/63430?s=72&u=8199262345c7d3a192d6cf43807ada52f6c69d5c&v=4" width="24" alt="Avatar of smarter"> smarter
-			</a><br/>
-			Guillaume Martres
-		</td>
-		<td>Arteris  / <br/><br/>Scala<br/>Center<br/></td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/nathanaelbosch">nathanaelbosch</a></td>
 		<td>Lausanne, Switzerland</td>
-		<td>80</td>
+		<td>354</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>330</td>
 		<td>
-			<a href="https://github.com/fphilipe">
-				<img src="https://avatars.githubusercontent.com/u/128151?s=72&v=4" width="24" alt="Avatar of fphilipe"> fphilipe
-			</a><br/>
-			Philipe Fatio
+			<a href="https://github.com/lorenzwalthert">
+				<img src="https://avatars.githubusercontent.com/u/10477073?s=72&u=8f4ceeada2518f05769741a46f45228202b8c39e&v=4" width="24" alt="Avatar of lorenzwalthert"> lorenzwalthert
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#lorenzwalthert">Copy rank badge</a><br/>
+			Lorenz Walthert
 		</td>
-		<td>@livemapai </td>
-		<td><a href="https://twitter.com/fphilipe">fphilipe</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>79</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/lorenzwalthert">lorenzwalthert</a></td>
+		<td>Allschwil, Switzerland</td>
+		<td>350</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>331</td>
 		<td>
-			<a href="https://github.com/matttproud">
-				<img src="https://avatars.githubusercontent.com/u/46149?s=72&v=4" width="24" alt="Avatar of matttproud"> matttproud
-			</a><br/>
-			Matt T. Proud
+			<a href="https://github.com/makevoid">
+				<img src="https://avatars.githubusercontent.com/u/14677?s=72&u=62edea022c11ca8c24560ae568b84b1787e59746&v=4" width="24" alt="Avatar of makevoid"> makevoid
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#makevoid">Copy rank badge</a><br/>
+			Francesco 'makevoid' Canessa
 		</td>
-		<td>@google </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Schweiz</td>
-		<td>77</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/makevoid">makevoid</a></td>
+		<td>Ticino, Switzerland</td>
+		<td>348</td>
 	</tr>
 	<tr>
-		<td>479</td>
+		<td>332</td>
 		<td>
-			<a href="https://github.com/gnebehay">
-				<img src="https://avatars.githubusercontent.com/u/756433?s=72&u=785d5ed68fa0ab2b404112c5f1f2e0c45d008230&v=4" width="24" alt="Avatar of gnebehay"> gnebehay
-			</a><br/>
-			Georg Nebehay
+			<a href="https://github.com/gaelcolas">
+				<img src="https://avatars.githubusercontent.com/u/8962101?s=72&u=0898dc617aed6868f96cf4954e84e72caed592d0&v=4" width="24" alt="Avatar of gaelcolas"> gaelcolas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#gaelcolas">Copy rank badge</a><br/>
+			gaelcolas
 		</td>
-		<td>Noimos </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>76</td>
+		<td>Synedgy </td>
+		<td><a href="https://twitter.com/gaelcolas">gaelcolas</a></td>
+		<td>Switzerland</td>
+		<td>348</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>333</td>
 		<td>
-			<a href="https://github.com/nst">
-				<img src="https://avatars.githubusercontent.com/u/51388?s=72&u=07ab57f132b8c5c4778b07deb38eaaa902eecf02&v=4" width="24" alt="Avatar of nst"> nst
-			</a><br/>
-			Nicolas Seriot
+			<a href="https://github.com/Garfield-fr">
+				<img src="https://avatars.githubusercontent.com/u/48578?s=72&v=4" width="24" alt="Avatar of Garfield-fr"> Garfield-fr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Garfield-fr">Copy rank badge</a><br/>
+			Bertrand Zuchuat
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>75</td>
+		<td>348</td>
 	</tr>
 	<tr>
-		<td>481</td>
+		<td>334</td>
 		<td>
-			<a href="https://github.com/SimpleHomelab">
-				<img src="https://avatars.githubusercontent.com/u/7935041?s=72&u=0c727304e9ab394bae529aea0dd87f54b76f3712&v=4" width="24" alt="Avatar of SimpleHomelab"> SimpleHomelab
-			</a><br/>
-			SimpleHomelab
+			<a href="https://github.com/thomasmueller">
+				<img src="https://avatars.githubusercontent.com/u/932377?s=72&v=4" width="24" alt="Avatar of thomasmueller"> thomasmueller
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#thomasmueller">Copy rank badge</a><br/>
+			Thomas Mueller
 		</td>
-		<td>Htpcbeginner Llc </td>
-		<td><a href="https://twitter.com/SimpleHomelab">SimpleHomelab</a></td>
-		<td>Lausanne, Switzerland</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>482</td>
-		<td>
-			<a href="https://github.com/Seb-GRAF">
-				<img src="https://avatars.githubusercontent.com/u/95282692?s=72&u=e0f723f817bec4bbe9e05ea795ae73551004d953&v=4" width="24" alt="Avatar of Seb-GRAF"> Seb-GRAF
-			</a><br/>
-			Sebastien Graf
-		</td>
-		<td>Liip </td>
+		<td>@adobe </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>75</td>
+		<td>344</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>335</td>
 		<td>
-			<a href="https://github.com/xrdevrob">
-				<img src="https://avatars.githubusercontent.com/u/88709627?s=72&u=aede0e40e4c27906d536ff7b9ecc24d9276566b1&v=4" width="24" alt="Avatar of xrdevrob"> xrdevrob
-			</a><br/>
-			Roberto Coviello
+			<a href="https://github.com/didier-durand">
+				<img src="https://avatars.githubusercontent.com/u/2927957?s=72&u=5db78771922351582560a0f58e862aadea50c83c&v=4" width="24" alt="Avatar of didier-durand"> didier-durand
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#didier-durand">Copy rank badge</a><br/>
+			Didier Durand
 		</td>
-		<td>Meta </td>
-		<td><a href="https://twitter.com/xrdevrob">xrdevrob</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>75</td>
+		<td>Aws </td>
+		<td><a href="https://twitter.com/didierdurand">didierdurand</a></td>
+		<td>Switzerland / France</td>
+		<td>339</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>336</td>
 		<td>
-			<a href="https://github.com/delroth">
-				<img src="https://avatars.githubusercontent.com/u/202798?s=72&u=469de9e50069f6829d428ced6ffa045736cf979b&v=4" width="24" alt="Avatar of delroth"> delroth
-			</a><br/>
-			Pierre Bourdon
+			<a href="https://github.com/sephiroth74">
+				<img src="https://avatars.githubusercontent.com/u/823858?s=72&v=4" width="24" alt="Avatar of sephiroth74"> sephiroth74
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#sephiroth74">Copy rank badge</a><br/>
+			Alessandro Crugnola
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>485</td>
-		<td>
-			<a href="https://github.com/Stadicus">
-				<img src="https://avatars.githubusercontent.com/u/19550140?s=72&u=f2f4e96657e6b72553037d0fc5bd8cdbd2c7c0fc&v=4" width="24" alt="Avatar of Stadicus"> Stadicus
-			</a><br/>
-			Stadicus
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>486</td>
-		<td>
-			<a href="https://github.com/rawmind0">
-				<img src="https://avatars.githubusercontent.com/u/11555446?s=72&u=a4c56d846887c61677b728409391c65a508e5040&v=4" width="24" alt="Avatar of rawmind0"> rawmind0
-			</a><br/>
-			Raúl Sánchez
-		</td>
-		<td>Zondax </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>487</td>
-		<td>
-			<a href="https://github.com/laboon">
-				<img src="https://avatars.githubusercontent.com/u/1417717?s=72&u=01ffcfd720ed550ef425f326fc65ba257e633214&v=4" width="24" alt="Avatar of laboon"> laboon
-			</a><br/>
-			Bill Laboon
-		</td>
-		<td>Web3 Foundation </td>
-		<td><a href="https://twitter.com/BillLaboon">BillLaboon</a></td>
-		<td>Zug, Switzerland</td>
-		<td>73</td>
-	</tr>
-	<tr>
-		<td>488</td>
-		<td>
-			<a href="https://github.com/Siguza">
-				<img src="https://avatars.githubusercontent.com/u/1659374?s=72&v=4" width="24" alt="Avatar of Siguza"> Siguza
-			</a><br/>
-			Siguza
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>72</td>
-	</tr>
-	<tr>
-		<td>489</td>
-		<td>
-			<a href="https://github.com/nicolastinkl">
-				<img src="https://avatars.githubusercontent.com/u/1518588?s=72&u=d058c3ae2bd24c0bbaedee29093bada48f470bcd&v=4" width="24" alt="Avatar of nicolastinkl"> nicolastinkl
-			</a><br/>
-			Zeus
-		</td>
-		<td>Quantity </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>72</td>
-	</tr>
-	<tr>
-		<td>490</td>
-		<td>
-			<a href="https://github.com/batiste">
-				<img src="https://avatars.githubusercontent.com/u/66927?s=72&u=87ed236ac44b5fdcd82099124c516679526f93dd&v=4" width="24" alt="Avatar of batiste"> batiste
-			</a><br/>
-			Batiste Bieler
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>72</td>
-	</tr>
-	<tr>
-		<td>491</td>
-		<td>
-			<a href="https://github.com/quantumjim">
-				<img src="https://avatars.githubusercontent.com/u/18051574?s=72&u=1e078657d91243fda971f917558e89beb4c79586&v=4" width="24" alt="Avatar of quantumjim"> quantumjim
-			</a><br/>
-			James Wootton
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/decodoku">decodoku</a></td>
-		<td>Basel, Switzerland</td>
-		<td>70</td>
-	</tr>
-	<tr>
-		<td>492</td>
-		<td>
-			<a href="https://github.com/gavofyork">
-				<img src="https://avatars.githubusercontent.com/u/138296?s=72&u=4057698f557eb8d5cae19fdfea0c91f1a69ace49&v=4" width="24" alt="Avatar of gavofyork"> gavofyork
-			</a><br/>
-			Gavin Wood
-		</td>
-		<td>Parity & Polkadot </td>
-		<td>No Twitter Username</td>
-		<td>Zug, Switzerland</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>493</td>
-		<td>
-			<a href="https://github.com/Zhaozixiang1228">
-				<img src="https://avatars.githubusercontent.com/u/44187438?s=72&u=37963c9e750070b7e755ea75261f72774485bac4&v=4" width="24" alt="Avatar of Zhaozixiang1228"> Zhaozixiang1228
-			</a><br/>
-			Zixiang Zhao
-		</td>
-		<td>Eth Zürich </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>494</td>
-		<td>
-			<a href="https://github.com/mario-deluna">
-				<img src="https://avatars.githubusercontent.com/u/956212?s=72&u=ff7482ea94e9be7966d5febe2d2a03ad054306d8&v=4" width="24" alt="Avatar of mario-deluna"> mario-deluna
-			</a><br/>
-			Mario Deluna
-		</td>
-		<td>Betabrain Games </td>
-		<td><a href="https://twitter.com/Mario_Deluna">Mario_Deluna</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>495</td>
-		<td>
-			<a href="https://github.com/klmr">
-				<img src="https://avatars.githubusercontent.com/u/38931?s=72&u=ea36bfb644b437cba05b4d20d52d2ddc193112bf&v=4" width="24" alt="Avatar of klmr"> klmr
-			</a><br/>
-			Konrad Rudolph
-		</td>
-		<td>@roche </td>
-		<td>No Twitter Username</td>
-		<td>Basel, CH</td>
-		<td>68</td>
-	</tr>
-	<tr>
-		<td>496</td>
-		<td>
-			<a href="https://github.com/IP-CAM">
-				<img src="https://avatars.githubusercontent.com/u/12776547?s=72&u=d2505ad889654fa3c8b2d60f883a475c611da278&v=4" width="24" alt="Avatar of IP-CAM"> IP-CAM
-			</a><br/>
-			Ernie
-		</td>
-		<td>Jacob Technology & Information<br/></td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>68</td>
-	</tr>
-	<tr>
-		<td>497</td>
-		<td>
-			<a href="https://github.com/jonhue">
-				<img src="https://avatars.githubusercontent.com/u/13420273?s=72&u=bb2282aa96b3bb3ab46dfea19944ce6152b8b62e&v=4" width="24" alt="Avatar of jonhue"> jonhue
-			</a><br/>
-			Jonas Hübotter
-		</td>
-		<td>Phd Student At Eth<br/>Zürich<br/></td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>68</td>
-	</tr>
-	<tr>
-		<td>498</td>
-		<td>
-			<a href="https://github.com/lupas">
-				<img src="https://avatars.githubusercontent.com/u/4020037?s=72&u=b61400bef6192e8979814b7dfbf90a63574aa8b1&v=4" width="24" alt="Avatar of lupas"> lupas
-			</a><br/>
-			Pascal Luther
-		</td>
-		<td>Swisscom (switzerland) Ltd. </td>
-		<td><a href="https://twitter.com/PascalLuther">PascalLuther</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>68</td>
-	</tr>
-	<tr>
-		<td>499</td>
-		<td>
-			<a href="https://github.com/iandioch">
-				<img src="https://avatars.githubusercontent.com/u/3165422?s=72&u=c3b1351e51c7e816465ba8987a413f72f8c599f5&v=4" width="24" alt="Avatar of iandioch"> iandioch
-			</a><br/>
-			Noah Ó Donnaile
-		</td>
-		<td>Google </td>
-		<td><a href="https://twitter.com/iandioch">iandioch</a></td>
 		<td>Zürich, CH</td>
-		<td>68</td>
+		<td>330</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>337</td>
 		<td>
-			<a href="https://github.com/droe">
-				<img src="https://avatars.githubusercontent.com/u/749226?s=72&u=eb1e62f532b5403f0874f716d1cd2b4d550c64d2&v=4" width="24" alt="Avatar of droe"> droe
-			</a><br/>
-			Daniel Roethlisberger
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>501</td>
-		<td>
-			<a href="https://github.com/adirochs">
-				<img src="https://avatars.githubusercontent.com/u/6239971?s=72&u=554fce9218d5005f4d258fc899f92dcd3036f307&v=4" width="24" alt="Avatar of adirochs"> adirochs
-			</a><br/>
-			Adrian Matei
-		</td>
-		<td>@codepediaorg  </td>
-		<td>No Twitter Username</td>
-		<td>Bern, Switzerland</td>
-		<td>66</td>
-	</tr>
-	<tr>
-		<td>502</td>
-		<td>
-			<a href="https://github.com/jiayihu">
-				<img src="https://avatars.githubusercontent.com/u/10067273?s=72&u=d995633d7551861bd927a3bd4805a8d663b619ae&v=4" width="24" alt="Avatar of jiayihu"> jiayihu
-			</a><br/>
-			Jiayi Hu
-		</td>
-		<td>Collaboard, Ibv </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>503</td>
-		<td>
-			<a href="https://github.com/davidsulc">
-				<img src="https://avatars.githubusercontent.com/u/356709?s=72&v=4" width="24" alt="Avatar of davidsulc"> davidsulc
-			</a><br/>
-			David Sulc
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>504</td>
-		<td>
-			<a href="https://github.com/katywings">
-				<img src="https://avatars.githubusercontent.com/u/4012401?s=72&u=8fedb88705c415813c9247a30060b82b4807d55d&v=4" width="24" alt="Avatar of katywings"> katywings
-			</a><br/>
-			Katja Lutz
-		</td>
-		<td>@lufrai  </td>
-		<td><a href="https://twitter.com/katy_wings">katy_wings</a></td>
-		<td>Switzerland</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>505</td>
-		<td>
-			<a href="https://github.com/ParthS007">
-				<img src="https://avatars.githubusercontent.com/u/24358501?s=72&u=9ba2e47a16446c85658e1dc0d877f0cc78c96503&v=4" width="24" alt="Avatar of ParthS007"> ParthS007
-			</a><br/>
-			Parth Shandilya
-		</td>
-		<td>Kadoa </td>
-		<td>No Twitter Username</td>
-		<td>Basel</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>506</td>
-		<td>
-			<a href="https://github.com/mehdichaouch">
-				<img src="https://avatars.githubusercontent.com/u/861701?s=72&v=4" width="24" alt="Avatar of mehdichaouch"> mehdichaouch
-			</a><br/>
-			Mehdi Chaouch
-		</td>
-		<td>@advocodo @wideagency </td>
-		<td><a href="https://twitter.com/MehdiChch">MehdiChch</a></td>
-		<td>Paris ⇄ Geneva</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>507</td>
-		<td>
-			<a href="https://github.com/BafS">
-				<img src="https://avatars.githubusercontent.com/u/588205?s=72&u=8384c5dd7170c6cbe8d7a4ca19b5e33c9878de6c&v=4" width="24" alt="Avatar of BafS"> BafS
-			</a><br/>
-			Fabien Salathe
-		</td>
-		<td>@protonmail  </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>62</td>
-	</tr>
-	<tr>
-		<td>508</td>
-		<td>
-			<a href="https://github.com/beniwohli">
-				<img src="https://avatars.githubusercontent.com/u/93675?s=72&u=7842545dd2cc3f57c38101cc66acfe14ca6ae30d&v=4" width="24" alt="Avatar of beniwohli"> beniwohli
-			</a><br/>
-			Benjamin Wohlwend
+			<a href="https://github.com/squix78">
+				<img src="https://avatars.githubusercontent.com/u/716822?s=72&u=8663169ab03c6ee0a93c362b5811b3366d764945&v=4" width="24" alt="Avatar of squix78"> squix78
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#squix78">Copy rank badge</a><br/>
+			Daniel Eichhorn
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>62</td>
+		<td>330</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>338</td>
 		<td>
-			<a href="https://github.com/newsoft">
-				<img src="https://avatars.githubusercontent.com/u/587059?s=72&u=b78bf508bb4406ee23a056e09bb41fd23412794d&v=4" width="24" alt="Avatar of newsoft"> newsoft
-			</a><br/>
-			Nicolas RUFF
+			<a href="https://github.com/patrick-kidger">
+				<img src="https://avatars.githubusercontent.com/u/33688385?s=72&u=bead9dd6effb04344bba650b32e9f911dc1ff9fc&v=4" width="24" alt="Avatar of patrick-kidger"> patrick-kidger
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#patrick-kidger">Copy rank badge</a><br/>
+			Patrick Kidger
 		</td>
-		<td>Google </td>
-		<td><a href="https://twitter.com/newsoft">newsoft</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>61</td>
-	</tr>
-	<tr>
-		<td>510</td>
-		<td>
-			<a href="https://github.com/ofsoundof">
-				<img src="https://avatars.githubusercontent.com/u/32467961?s=72&u=4320befcaf9cb6101bae8471210f47eeaea793ec&v=4" width="24" alt="Avatar of ofsoundof"> ofsoundof
-			</a><br/>
-			Yawei Li
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>61</td>
-	</tr>
-	<tr>
-		<td>511</td>
-		<td>
-			<a href="https://github.com/mhauri">
-				<img src="https://avatars.githubusercontent.com/u/402069?s=72&u=3822bdb84fba519818f3cfd213f210338b3ba23a&v=4" width="24" alt="Avatar of mhauri"> mhauri
-			</a><br/>
-			Marcel Hauri
-		</td>
-		<td>@diemobiliar </td>
-		<td>No Twitter Username</td>
-		<td>Bern, Switzerland</td>
-		<td>61</td>
-	</tr>
-	<tr>
-		<td>512</td>
-		<td>
-			<a href="https://github.com/matthias-research">
-				<img src="https://avatars.githubusercontent.com/u/19547164?s=72&u=3816e3eeb9b1691b2a7b9b5ef2b6b9b4afb1d636&v=4" width="24" alt="Avatar of matthias-research"> matthias-research
-			</a><br/>
-			Matthias Müller
-		</td>
-		<td>Nvidia </td>
-		<td>No Twitter Username</td>
+		<td>Cradle.bio </td>
+		<td><a href="https://twitter.com/PatrickKidger">PatrickKidger</a></td>
 		<td>Zürich</td>
-		<td>60</td>
+		<td>328</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>339</td>
 		<td>
-			<a href="https://github.com/aloistr">
-				<img src="https://avatars.githubusercontent.com/u/18054955?s=72&u=166e7cbd2844f9fe23f25f0a93446349e6448067&v=4" width="24" alt="Avatar of aloistr"> aloistr
-			</a><br/>
-			Alois Treindl
-		</td>
-		<td>Astrodienst Ag </td>
-		<td><a href="https://twitter.com/atreindl">atreindl</a></td>
-		<td>Zollikon, Switzerland</td>
-		<td>60</td>
-	</tr>
-	<tr>
-		<td>514</td>
-		<td>
-			<a href="https://github.com/vhf">
-				<img src="https://avatars.githubusercontent.com/u/2022803?s=72&u=803d3a03e92d783845385dfb48a14631921a6cc3&v=4" width="24" alt="Avatar of vhf"> vhf
-			</a><br/>
-			victor felder
-		</td>
-		<td>@objkt-com  </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>59</td>
-	</tr>
-	<tr>
-		<td>515</td>
-		<td>
-			<a href="https://github.com/RobertCsordas">
-				<img src="https://avatars.githubusercontent.com/u/2706617?s=72&u=6530d04d2ef23b26cbf34b844a6dd7fa38d9526c&v=4" width="24" alt="Avatar of RobertCsordas"> RobertCsordas
-			</a><br/>
-			Csordás Róbert
-		</td>
-		<td>Lugano </td>
-		<td><a href="https://twitter.com/robert_csordas">robert_csordas</a></td>
-		<td>Switzerland</td>
-		<td>58</td>
-	</tr>
-	<tr>
-		<td>516</td>
-		<td>
-			<a href="https://github.com/mallibone">
-				<img src="https://avatars.githubusercontent.com/u/642823?s=72&u=58a1701aebde5b62aa9be1ce603fd1a9e0ecf089&v=4" width="24" alt="Avatar of mallibone"> mallibone
-			</a><br/>
-			Mark Allibone
+			<a href="https://github.com/FazioNico">
+				<img src="https://avatars.githubusercontent.com/u/17125807?s=72&u=b3af0a0f69f3891755bc73205032c4fb03c86dd5&v=4" width="24" alt="Avatar of FazioNico"> FazioNico
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#FazioNico">Copy rank badge</a><br/>
+			Nicolas Fazio
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>58</td>
+		<td>Geneva</td>
+		<td>327</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>340</td>
 		<td>
-			<a href="https://github.com/joepetrowski">
-				<img src="https://avatars.githubusercontent.com/u/25483142?s=72&v=4" width="24" alt="Avatar of joepetrowski"> joepetrowski
-			</a><br/>
-			joe petrowski
+			<a href="https://github.com/isidorn">
+				<img src="https://avatars.githubusercontent.com/u/1926584?s=72&u=85e9e40c7064315323df038c8fadedecc627ae02&v=4" width="24" alt="Avatar of isidorn"> isidorn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#isidorn">Copy rank badge</a><br/>
+			Isidor Nikolic
 		</td>
-		<td>@paritytech  </td>
-		<td>No Twitter Username</td>
-		<td>Zug, Switzerland</td>
-		<td>58</td>
-	</tr>
-	<tr>
-		<td>518</td>
-		<td>
-			<a href="https://github.com/v7b1">
-				<img src="https://avatars.githubusercontent.com/u/13332073?s=72&u=7319a9030470d0a70d430c5ebfbfd46ace3933bc&v=4" width="24" alt="Avatar of v7b1"> v7b1
-			</a><br/>
-			vboehm
-		</td>
-		<td>Elektronisches Studio Basel </td>
-		<td>No Twitter Username</td>
-		<td>Basel, Switzerland</td>
-		<td>57</td>
-	</tr>
-	<tr>
-		<td>519</td>
-		<td>
-			<a href="https://github.com/ludoro">
-				<img src="https://avatars.githubusercontent.com/u/21291898?s=72&u=8fb0d3534a1cd2b64d438614cd014500064cd9f3&v=4" width="24" alt="Avatar of ludoro"> ludoro
-			</a><br/>
-			LudovicoBessi
-		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>520</td>
-		<td>
-			<a href="https://github.com/wil93">
-				<img src="https://avatars.githubusercontent.com/u/1285361?s=72&u=7fc3b453671b3bfc0894ab39a1d653512bec8d60&v=4" width="24" alt="Avatar of wil93"> wil93
-			</a><br/>
-			William Di Luigi
-		</td>
-		<td>@google </td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>521</td>
-		<td>
-			<a href="https://github.com/helenol">
-				<img src="https://avatars.githubusercontent.com/u/5616392?s=72&u=caca9b7dc7e5e1583fb70070b0dd8a30f16d75d2&v=4" width="24" alt="Avatar of helenol"> helenol
-			</a><br/>
-			Helen Oleynikova
-		</td>
-		<td>@ethz-asl  </td>
+		<td>Mistral Ai </td>
 		<td>No Twitter Username</td>
 		<td>Zürich, Switzerland</td>
-		<td>55</td>
+		<td>325</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>341</td>
 		<td>
-			<a href="https://github.com/0x6d69636b">
-				<img src="https://avatars.githubusercontent.com/u/13913706?s=72&u=90fb7254092fe0027586c0e9fbedac73f6e5fd54&v=4" width="24" alt="Avatar of 0x6d69636b"> 0x6d69636b
-			</a><br/>
-			Michael Schneider
-		</td>
-		<td>@scipag  </td>
-		<td><a href="https://twitter.com/0x6d69636b">0x6d69636b</a></td>
-		<td>Winterthur, Switzerland</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>523</td>
-		<td>
-			<a href="https://github.com/utaal">
-				<img src="https://avatars.githubusercontent.com/u/791335?s=72&u=2a02d3c90d57e3d6e13fb664348f80119c86fdb9&v=4" width="24" alt="Avatar of utaal"> utaal
-			</a><br/>
-			Andrea Lattuada
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>524</td>
-		<td>
-			<a href="https://github.com/atcbosselut">
-				<img src="https://avatars.githubusercontent.com/u/4792302?s=72&u=2fc948c3dde929cf2ba01f37afc2b91623f80d61&v=4" width="24" alt="Avatar of atcbosselut"> atcbosselut
-			</a><br/>
-			Antoine Bosselut
+			<a href="https://github.com/PanJason">
+				<img src="https://avatars.githubusercontent.com/u/18373884?s=72&u=e3168e186363502d58a846608feba4924dbe9b74&v=4" width="24" alt="Avatar of PanJason"> PanJason
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#PanJason">Copy rank badge</a><br/>
+			Yueyang Pan
 		</td>
 		<td>Epfl </td>
-		<td><a href="https://twitter.com/ABosselut">ABosselut</a></td>
-		<td>Lausanne</td>
-		<td>53</td>
+		<td><a href="https://twitter.com/yueyangjasonpan">yueyangjasonpan</a></td>
+		<td>Lausanne, Switzerland</td>
+		<td>315</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>342</td>
 		<td>
-			<a href="https://github.com/OpenCoreCH">
-				<img src="https://avatars.githubusercontent.com/u/11048416?s=72&u=a826694e3bea98ac234c1df56fec0c2c5d97314b&v=4" width="24" alt="Avatar of OpenCoreCH"> OpenCoreCH
-			</a><br/>
-			Roman Böhringer
+			<a href="https://github.com/PeterSommerlad">
+				<img src="https://avatars.githubusercontent.com/u/1725845?s=72&v=4" width="24" alt="Avatar of PeterSommerlad"> PeterSommerlad
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#PeterSommerlad">Copy rank badge</a><br/>
+			Peter Sommerlad
 		</td>
-		<td>No Company</td>
+		<td>Better Software </td>
 		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>53</td>
+		<td>Wollerau, Switzerland</td>
+		<td>314</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>343</td>
 		<td>
-			<a href="https://github.com/ZinggJM">
-				<img src="https://avatars.githubusercontent.com/u/26374637?s=72&u=6a41d90942216f17397c96cd4b11444dc2accd1e&v=4" width="24" alt="Avatar of ZinggJM"> ZinggJM
-			</a><br/>
-			No Name
+			<a href="https://github.com/nh2">
+				<img src="https://avatars.githubusercontent.com/u/399535?s=72&v=4" width="24" alt="Avatar of nh2"> nh2
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nh2">Copy rank badge</a><br/>
+			Niklas Hambüchen
 		</td>
-		<td>No Company</td>
+		<td>My Own Consultancy </td>
 		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>52</td>
+		<td>Zürich</td>
+		<td>309</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>344</td>
 		<td>
-			<a href="https://github.com/AIWintermuteAI">
-				<img src="https://avatars.githubusercontent.com/u/32562299?s=72&u=fad2483e7743dabe38d4505ffde20ee368f1bd5b&v=4" width="24" alt="Avatar of AIWintermuteAI"> AIWintermuteAI
-			</a><br/>
-			Dmitry
+			<a href="https://github.com/mpvl">
+				<img src="https://avatars.githubusercontent.com/u/6445383?s=72&u=952ab166c615366ecc27a1068b038e66b2403d18&v=4" width="24" alt="Avatar of mpvl"> mpvl
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mpvl">Copy rank badge</a><br/>
+			Marcel van Lohuizen
 		</td>
-		<td>Edge Impulse </td>
-		<td><a href="https://twitter.com/HardwareAi">HardwareAi</a></td>
-		<td>Switzerland, Zurich</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>528</td>
-		<td>
-			<a href="https://github.com/HxnDev">
-				<img src="https://avatars.githubusercontent.com/u/83294673?s=72&u=89fe209e15fc6e8d7c6d421bfef3cc1de3447586&v=4" width="24" alt="Avatar of HxnDev"> HxnDev
-			</a><br/>
-			Hassan Shahzad
-		</td>
-		<td>Aica Sa </td>
-		<td>No Twitter Username</td>
-		<td>Geneva, Switzerland</td>
-		<td>49</td>
-	</tr>
-	<tr>
-		<td>529</td>
-		<td>
-			<a href="https://github.com/brutasse">
-				<img src="https://avatars.githubusercontent.com/u/31269?s=72&v=4" width="24" alt="Avatar of brutasse"> brutasse
-			</a><br/>
-			Bruno Renié
-		</td>
-		<td>@exoscale  </td>
-		<td><a href="https://twitter.com/brutasse">brutasse</a></td>
-		<td>Lausanne area, Switzerland</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>530</td>
-		<td>
-			<a href="https://github.com/Chasel-Tsui">
-				<img src="https://avatars.githubusercontent.com/u/52711765?s=72&u=399b746131299391b049cf89696bb5c752b6a6fd&v=4" width="24" alt="Avatar of Chasel-Tsui"> Chasel-Tsui
-			</a><br/>
-			Chang Xu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lausanne</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>531</td>
-		<td>
-			<a href="https://github.com/Speierers">
-				<img src="https://avatars.githubusercontent.com/u/6662561?s=72&u=f4e86dd11f48400e4d28521a493f334bf120da4f&v=4" width="24" alt="Avatar of Speierers"> Speierers
-			</a><br/>
-			Sebastien Speierer
-		</td>
-		<td>Research Engineer @ Meta<br/></td>
-		<td><a href="https://twitter.com/seb_spe">seb_spe</a></td>
-		<td>Switzerland</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>532</td>
-		<td>
-			<a href="https://github.com/pimvanpelt">
-				<img src="https://avatars.githubusercontent.com/u/8853821?s=72&u=f7621a01a2ad04a4f9a0accf9ed8b5d0c84e5777&v=4" width="24" alt="Avatar of pimvanpelt"> pimvanpelt
-			</a><br/>
-			Pim van Pelt
-		</td>
-		<td>No Company</td>
+		<td>Cue </td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>47</td>
+		<td>306</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>345</td>
 		<td>
-			<a href="https://github.com/gbaman">
-				<img src="https://avatars.githubusercontent.com/u/833193?s=72&v=4" width="24" alt="Avatar of gbaman"> gbaman
-			</a><br/>
-			Andrew Mulholland
+			<a href="https://github.com/ventusff">
+				<img src="https://avatars.githubusercontent.com/u/25529198?s=72&u=8ffce1d5abebd7ae6b6b021aab102f8d157eb8e1&v=4" width="24" alt="Avatar of ventusff"> ventusff
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ventusff">Copy rank badge</a><br/>
+			Jeff / Jianfei Guo
 		</td>
-		<td>Institut Le Rosey /<br/>@causewaydigital<br/></td>
-		<td><a href="https://twitter.com/gbaman1">gbaman1</a></td>
-		<td>Geneva / Belfast / London</td>
-		<td>46</td>
+		<td>Nvidia Toronto Ai Lab<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>306</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>346</td>
 		<td>
-			<a href="https://github.com/nilq">
-				<img src="https://avatars.githubusercontent.com/u/8659021?s=72&u=09d13c10b6a0500392d26e98ddbbcc971e3dce73&v=4" width="24" alt="Avatar of nilq"> nilq
-			</a><br/>
-			Niels Horn
+			<a href="https://github.com/fengwang">
+				<img src="https://avatars.githubusercontent.com/u/455684?s=72&u=e47bfe8ebbf9a3d798ba70d02d70efb524880670&v=4" width="24" alt="Avatar of fengwang"> fengwang
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#fengwang">Copy rank badge</a><br/>
+			feng wang
+		</td>
+		<td>Empa </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>301</td>
+	</tr>
+	<tr>
+		<td>347</td>
+		<td>
+			<a href="https://github.com/pierre-emmanuelJ">
+				<img src="https://avatars.githubusercontent.com/u/15922119?s=72&u=09066c94bb56c36c5783387dffe8c8609af450d2&v=4" width="24" alt="Avatar of pierre-emmanuelJ"> pierre-emmanuelJ
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pierre-emmanuelJ">Copy rank badge</a><br/>
+			Pierre-Emmanuel Jacquier
+		</td>
+		<td>@exoscale @zipops  </td>
+		<td>No Twitter Username</td>
+		<td>Geneva</td>
+		<td>300</td>
+	</tr>
+	<tr>
+		<td>348</td>
+		<td>
+			<a href="https://github.com/yarrick">
+				<img src="https://avatars.githubusercontent.com/u/1261015?s=72&u=70cce10a4f828ad4f109c0949868846f78478cbd&v=4" width="24" alt="Avatar of yarrick"> yarrick
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#yarrick">Copy rank badge</a><br/>
+			Erik Ekman
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>46</td>
+		<td>Zürich, Switzerland</td>
+		<td>299</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>349</td>
 		<td>
-			<a href="https://github.com/sinaahmadi">
-				<img src="https://avatars.githubusercontent.com/u/12765529?s=72&u=bfd93bf1ddc378572b97129132bfc6d460f0438e&v=4" width="24" alt="Avatar of sinaahmadi"> sinaahmadi
-			</a><br/>
-			Sina Ahmadi
+			<a href="https://github.com/chumer">
+				<img src="https://avatars.githubusercontent.com/u/4346215?s=72&u=0c02c588c23705988e4cadf8bbbd247cb7151648&v=4" width="24" alt="Avatar of chumer"> chumer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#chumer">Copy rank badge</a><br/>
+			Christian Humer
 		</td>
-		<td>George Mason University </td>
-		<td><a href="https://twitter.com/sina_ahm">sina_ahm</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>536</td>
-		<td>
-			<a href="https://github.com/Phil26AT">
-				<img src="https://avatars.githubusercontent.com/u/27350414?s=72&v=4" width="24" alt="Avatar of Phil26AT"> Phil26AT
-			</a><br/>
-			Philipp Lindenberger
-		</td>
-		<td>Eth Zurich </td>
-		<td><a href="https://twitter.com/PhilCSE">PhilCSE</a></td>
-		<td>Switzerland</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>537</td>
-		<td>
-			<a href="https://github.com/lvandeve">
-				<img src="https://avatars.githubusercontent.com/u/4254201?s=72&v=4" width="24" alt="Avatar of lvandeve"> lvandeve
-			</a><br/>
-			Lode Vandevenne
-		</td>
-		<td>No Company</td>
+		<td>@oracle  </td>
 		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>44</td>
+		<td>Zürich Switzerland</td>
+		<td>299</td>
 	</tr>
 	<tr>
-		<td>538</td>
-		<td>
-			<a href="https://github.com/hrzn">
-				<img src="https://avatars.githubusercontent.com/u/4806678?s=72&v=4" width="24" alt="Avatar of hrzn"> hrzn
-			</a><br/>
-			Julien Herzen
-		</td>
-		<td>@isomorphiclabs </td>
-		<td><a href="https://twitter.com/jlhrzn">jlhrzn</a></td>
-		<td>Switzerland</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>539</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/ErichStyger">
 				<img src="https://avatars.githubusercontent.com/u/3187954?s=72&u=0c3da13a17f2f6efd462d5b46ca7f9604eb2218c&v=4" width="24" alt="Avatar of ErichStyger"> ErichStyger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ErichStyger">Copy rank badge</a><br/>
 			Erich Styger
 		</td>
 		<td>Lucerne University Of Applied<br/>Sciences<br/>And<br/>Arts<br/></td>
 		<td><a href="https://twitter.com/McuOnEclipse">McuOnEclipse</a></td>
 		<td>Switzerland</td>
-		<td>43</td>
+		<td>295</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>351</td>
+		<td>
+			<a href="https://github.com/nicolonsky">
+				<img src="https://avatars.githubusercontent.com/u/32899754?s=72&u=e14cb16adb8b62cab3890e23fd469fe1b36eb1ce&v=4" width="24" alt="Avatar of nicolonsky"> nicolonsky
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nicolonsky">Copy rank badge</a><br/>
+			Nicola Suter
+		</td>
+		<td>Basevision </td>
+		<td><a href="https://twitter.com/nicolonsky">nicolonsky</a></td>
+		<td>Switzerland</td>
+		<td>294</td>
+	</tr>
+	<tr>
+		<td>352</td>
+		<td>
+			<a href="https://github.com/Ulydev">
+				<img src="https://avatars.githubusercontent.com/u/9826683?s=72&u=ac2dffc8317445f8c9f42a5415febf4bd3aedf3e&v=4" width="24" alt="Avatar of Ulydev"> Ulydev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Ulydev">Copy rank badge</a><br/>
+			Ulysse Ramage
+		</td>
+		<td>Spectra </td>
+		<td><a href="https://twitter.com/ulydev">ulydev</a></td>
+		<td>Switzerland</td>
+		<td>293</td>
+	</tr>
+	<tr>
+		<td>353</td>
+		<td>
+			<a href="https://github.com/bachp">
+				<img src="https://avatars.githubusercontent.com/u/333807?s=72&v=4" width="24" alt="Avatar of bachp"> bachp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#bachp">Copy rank badge</a><br/>
+			Pascal Bach
+		</td>
+		<td>@siemens  </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>292</td>
+	</tr>
+	<tr>
+		<td>354</td>
+		<td>
+			<a href="https://github.com/jkarni">
+				<img src="https://avatars.githubusercontent.com/u/1657498?s=72&u=5b952b859eef0777327cefded408a67d9cfb5d2b&v=4" width="24" alt="Avatar of jkarni"> jkarni
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jkarni">Copy rank badge</a><br/>
+			Julian Arni
+		</td>
+		<td>Garnix </td>
+		<td>No Twitter Username</td>
+		<td>Berlin, Germany and Basel, Switzerland</td>
+		<td>290</td>
+	</tr>
+	<tr>
+		<td>355</td>
+		<td>
+			<a href="https://github.com/pelle">
+				<img src="https://avatars.githubusercontent.com/u/8680?s=72&u=3f930a6e96c5adca65b90bb930a343d9bc0308fe&v=4" width="24" alt="Avatar of pelle"> pelle
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pelle">Copy rank badge</a><br/>
+			Pelle Braendgaard
+		</td>
+		<td>Notabene </td>
+		<td><a href="https://twitter.com/PelleB">PelleB</a></td>
+		<td>Zug, Switzerland</td>
+		<td>289</td>
+	</tr>
+	<tr>
+		<td>356</td>
+		<td>
+			<a href="https://github.com/digitalentity">
+				<img src="https://avatars.githubusercontent.com/u/11059099?s=72&u=f43e09a520c82e02811e37f2208bfcf9786046f5&v=4" width="24" alt="Avatar of digitalentity"> digitalentity
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#digitalentity">Copy rank badge</a><br/>
+			Konstantin Sharlaimov
+		</td>
+		<td>@google </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>288</td>
+	</tr>
+	<tr>
+		<td>357</td>
+		<td>
+			<a href="https://github.com/AndreaCensi">
+				<img src="https://avatars.githubusercontent.com/u/81052?s=72&u=de9e9381e1029b93031242f1b7093c51af479e52&v=4" width="24" alt="Avatar of AndreaCensi"> AndreaCensi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#AndreaCensi">Copy rank badge</a><br/>
+			Andrea Censi
+		</td>
+		<td>Eth Zürich @idsc-frazzoli <br/>&<br/>@duckietown<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>287</td>
+	</tr>
+	<tr>
+		<td>358</td>
+		<td>
+			<a href="https://github.com/rolinh">
+				<img src="https://avatars.githubusercontent.com/u/1324157?s=72&u=b900b5770bebc1261b42a3ab79899cbe37c6ab75&v=4" width="24" alt="Avatar of rolinh"> rolinh
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#rolinh">Copy rank badge</a><br/>
+			Robin Hahling
+		</td>
+		<td>@isovalent / @cilium </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>287</td>
+	</tr>
+	<tr>
+		<td>359</td>
+		<td>
+			<a href="https://github.com/ponsfrilus">
+				<img src="https://avatars.githubusercontent.com/u/176002?s=72&u=7d942a2b8899f31cf73a06ff24fccbeda900ae07&v=4" width="24" alt="Avatar of ponsfrilus"> ponsfrilus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ponsfrilus">Copy rank badge</a><br/>
+			Nicolas Borboën
+		</td>
+		<td>@epfl-si </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>285</td>
+	</tr>
+	<tr>
+		<td>360</td>
+		<td>
+			<a href="https://github.com/lucasb-eyer">
+				<img src="https://avatars.githubusercontent.com/u/1476029?s=72&v=4" width="24" alt="Avatar of lucasb-eyer"> lucasb-eyer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#lucasb-eyer">Copy rank badge</a><br/>
+			Lucas Beyer
+		</td>
+		<td>Msl Zürich (ex: @openai<br/>@google<br/>Brain/deepmind)<br/></td>
+		<td>No Twitter Username</td>
+		<td><3 Belgium, Switzerland</td>
+		<td>282</td>
+	</tr>
+	<tr>
+		<td>361</td>
+		<td>
+			<a href="https://github.com/chregu">
+				<img src="https://avatars.githubusercontent.com/u/47106?s=72&v=4" width="24" alt="Avatar of chregu"> chregu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#chregu">Copy rank badge</a><br/>
+			Christian Stocker
+		</td>
+		<td>Liip Ag </td>
+		<td><a href="https://twitter.com/chregu">chregu</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>281</td>
+	</tr>
+	<tr>
+		<td>362</td>
+		<td>
+			<a href="https://github.com/wasserth">
+				<img src="https://avatars.githubusercontent.com/u/26226563?s=72&u=9a3f5e5d53000e9333c3c9222c29100168dfe505&v=4" width="24" alt="Avatar of wasserth"> wasserth
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#wasserth">Copy rank badge</a><br/>
+			Jakob Wasserthal
+		</td>
+		<td>University Hospital Basel, Research<br/>Department<br/></td>
+		<td>No Twitter Username</td>
+		<td>Basel</td>
+		<td>279</td>
+	</tr>
+	<tr>
+		<td>363</td>
+		<td>
+			<a href="https://github.com/mikispag">
+				<img src="https://avatars.githubusercontent.com/u/991637?s=72&u=c08ea82f92ad29d7d404667d5b6a22659ae314fe&v=4" width="24" alt="Avatar of mikispag"> mikispag
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mikispag">Copy rank badge</a><br/>
+			Michele Spagnuolo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mikispag">mikispag</a></td>
+		<td>Zürich</td>
+		<td>272</td>
+	</tr>
+	<tr>
+		<td>364</td>
+		<td>
+			<a href="https://github.com/zifeo">
+				<img src="https://avatars.githubusercontent.com/u/9053709?s=72&u=7ebe5afff6a66e9819693146dcaa39b330d1b0e1&v=4" width="24" alt="Avatar of zifeo"> zifeo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#zifeo">Copy rank badge</a><br/>
+			Teo Stocco
+		</td>
+		<td>Claryo </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>270</td>
+	</tr>
+	<tr>
+		<td>365</td>
+		<td>
+			<a href="https://github.com/alexanderadam">
+				<img src="https://avatars.githubusercontent.com/u/372620?s=72&u=9c18ddb233cbcbe6b40d89e77fea229410654520&v=4" width="24" alt="Avatar of alexanderadam"> alexanderadam
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#alexanderadam">Copy rank badge</a><br/>
+			Alexander Adam
+		</td>
+		<td>@vade-io  </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>268</td>
+	</tr>
+	<tr>
+		<td>366</td>
+		<td>
+			<a href="https://github.com/lbugnion">
+				<img src="https://avatars.githubusercontent.com/u/4922457?s=72&u=8447a0f5a598f8ab81c8c4ed1b77c90f44d8ef5e&v=4" width="24" alt="Avatar of lbugnion"> lbugnion
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#lbugnion">Copy rank badge</a><br/>
+			Laurent Bugnion
+		</td>
+		<td>@microsoft  </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>264</td>
+	</tr>
+	<tr>
+		<td>367</td>
+		<td>
+			<a href="https://github.com/FrancescoSaverioZuppichini">
+				<img src="https://avatars.githubusercontent.com/u/15908060?s=72&u=45659c766b2721ce84e903e54ed25c21409a01a4&v=4" width="24" alt="Avatar of FrancescoSaverioZuppichini"> FrancescoSaverioZuppichini
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#FrancescoSaverioZuppichini">Copy rank badge</a><br/>
+			Francesco Saverio Zuppichini
+		</td>
+		<td>Roboflow </td>
+		<td>No Twitter Username</td>
+		<td>Lugano, Switzerland</td>
+		<td>262</td>
+	</tr>
+	<tr>
+		<td>368</td>
+		<td>
+			<a href="https://github.com/klaudiosinani">
+				<img src="https://avatars.githubusercontent.com/u/12670537?s=72&u=8e2da131d191b004f69e0de74d12ef13a9378c99&v=4" width="24" alt="Avatar of klaudiosinani"> klaudiosinani
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#klaudiosinani">Copy rank badge</a><br/>
+			Klaudio Sinani
+		</td>
+		<td>@ubs-ag </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>261</td>
+	</tr>
+	<tr>
+		<td>369</td>
+		<td>
+			<a href="https://github.com/ioch96">
+				<img src="https://avatars.githubusercontent.com/u/48016428?s=72&u=e39947e4cba45d5fa3605cdcfd908c86ee9ee29c&v=4" width="24" alt="Avatar of ioch96"> ioch96
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ioch96">Copy rank badge</a><br/>
+			Ioannis Christodoulakis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>257</td>
+	</tr>
+	<tr>
+		<td>370</td>
+		<td>
+			<a href="https://github.com/Ha0Tang">
+				<img src="https://avatars.githubusercontent.com/u/23024709?s=72&v=4" width="24" alt="Avatar of Ha0Tang"> Ha0Tang
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Ha0Tang">Copy rank badge</a><br/>
+			Hao Tang
+		</td>
+		<td>Cvl, Eth Zurich </td>
+		<td><a href="https://twitter.com/HaoTang_ai">HaoTang_ai</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>255</td>
+	</tr>
+	<tr>
+		<td>371</td>
+		<td>
+			<a href="https://github.com/revaldianggara">
+				<img src="https://avatars.githubusercontent.com/u/48756138?s=72&u=36e873376e35eafa1d5f8da63213baa6067eaa86&v=4" width="24" alt="Avatar of revaldianggara"> revaldianggara
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#revaldianggara">Copy rank badge</a><br/>
+			Revaldi Anggara
+		</td>
+		<td>Axiom Research </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>248</td>
+	</tr>
+	<tr>
+		<td>372</td>
+		<td>
+			<a href="https://github.com/sanjibansg">
+				<img src="https://avatars.githubusercontent.com/u/40017007?s=72&u=31b3882925c91ad8819d0cfbe08289a7e9a84406&v=4" width="24" alt="Avatar of sanjibansg"> sanjibansg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#sanjibansg">Copy rank badge</a><br/>
+			Sanjiban Sengupta
+		</td>
+		<td>Cern </td>
+		<td><a href="https://twitter.com/sanjibansg">sanjibansg</a></td>
+		<td>Geneva, Switzerland</td>
+		<td>248</td>
+	</tr>
+	<tr>
+		<td>373</td>
+		<td>
+			<a href="https://github.com/jingcheng-chen">
+				<img src="https://avatars.githubusercontent.com/u/15573101?s=72&u=a05406954197a2af9c5600c94b332c9848a89ea5&v=4" width="24" alt="Avatar of jingcheng-chen"> jingcheng-chen
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jingcheng-chen">Copy rank badge</a><br/>
+			Jingcheng Chen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>246</td>
+	</tr>
+	<tr>
+		<td>374</td>
+		<td>
+			<a href="https://github.com/mikehearn">
+				<img src="https://avatars.githubusercontent.com/u/971089?s=72&u=be5b0331172edf265ad1a2fb0bbe30ef40968632&v=4" width="24" alt="Avatar of mikehearn"> mikehearn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mikehearn">Copy rank badge</a><br/>
+			Mike Hearn
+		</td>
+		<td>@hydraulic-software  </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>245</td>
+	</tr>
+	<tr>
+		<td>375</td>
+		<td>
+			<a href="https://github.com/cacharle">
+				<img src="https://avatars.githubusercontent.com/u/25375061?s=72&u=f8b19e9fe7117a0b119d2656c474dc6ad6c098db&v=4" width="24" alt="Avatar of cacharle"> cacharle
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#cacharle">Copy rank badge</a><br/>
+			Charles Cabergs
+		</td>
+		<td>Intellis </td>
+		<td>No Twitter Username</td>
+		<td>Zug, Switzerland</td>
+		<td>244</td>
+	</tr>
+	<tr>
+		<td>376</td>
+		<td>
+			<a href="https://github.com/jaspervdj">
+				<img src="https://avatars.githubusercontent.com/u/95501?s=72&u=93d82e2dc5b227dce9f8f742e1cb5771571af87b&v=4" width="24" alt="Avatar of jaspervdj"> jaspervdj
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jaspervdj">Copy rank badge</a><br/>
+			Jasper Van der Jeugt
+		</td>
+		<td>Engineer At @digital-asset </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>243</td>
+	</tr>
+	<tr>
+		<td>377</td>
+		<td>
+			<a href="https://github.com/cansik">
+				<img src="https://avatars.githubusercontent.com/u/5220162?s=72&u=4e120c4a46ce2255c6c5aff129889146e95f8eda&v=4" width="24" alt="Avatar of cansik"> cansik
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#cansik">Copy rank badge</a><br/>
+			Florian Bruggisser
+		</td>
+		<td>@bildspur  </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>243</td>
+	</tr>
+	<tr>
+		<td>378</td>
+		<td>
+			<a href="https://github.com/odan">
+				<img src="https://avatars.githubusercontent.com/u/781074?s=72&u=812bf6106bf4da236053e59311ba916d0abdc1f8&v=4" width="24" alt="Avatar of odan"> odan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#odan">Copy rank badge</a><br/>
+			Daniel Opitz
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dopitz">dopitz</a></td>
+		<td>Basel, Switzerland</td>
+		<td>243</td>
+	</tr>
+	<tr>
+		<td>379</td>
+		<td>
+			<a href="https://github.com/davidgfnet">
+				<img src="https://avatars.githubusercontent.com/u/3145339?s=72&v=4" width="24" alt="Avatar of davidgfnet"> davidgfnet
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#davidgfnet">Copy rank badge</a><br/>
+			David G. F.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>243</td>
+	</tr>
+	<tr>
+		<td>380</td>
+		<td>
+			<a href="https://github.com/dedeswim">
+				<img src="https://avatars.githubusercontent.com/u/4366950?s=72&u=2aeb57fb677723fbab1a63ceb5c6b886b9aea7e2&v=4" width="24" alt="Avatar of dedeswim"> dedeswim
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dedeswim">Copy rank badge</a><br/>
+			Edoardo Debenedetti
+		</td>
+		<td>@ethz-spylab </td>
+		<td><a href="https://twitter.com/edoardo_debe">edoardo_debe</a></td>
+		<td>Switzerland</td>
+		<td>242</td>
+	</tr>
+	<tr>
+		<td>381</td>
+		<td>
+			<a href="https://github.com/merlinND">
+				<img src="https://avatars.githubusercontent.com/u/5563370?s=72&u=a0debc1ef8175503b5155c877fe51350b2ccca11&v=4" width="24" alt="Avatar of merlinND"> merlinND
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#merlinND">Copy rank badge</a><br/>
+			Merlin Nimier-David
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>241</td>
+	</tr>
+	<tr>
+		<td>382</td>
+		<td>
+			<a href="https://github.com/Vinetos">
+				<img src="https://avatars.githubusercontent.com/u/10145351?s=72&u=1ec8c8ed7f5010ee6e762b8a139a8f7ab492ec15&v=4" width="24" alt="Avatar of Vinetos"> Vinetos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Vinetos">Copy rank badge</a><br/>
+			Vinetos
+		</td>
+		<td>Infomaniak </td>
+		<td>No Twitter Username</td>
+		<td>Geneva, CH</td>
+		<td>240</td>
+	</tr>
+	<tr>
+		<td>383</td>
+		<td>
+			<a href="https://github.com/philipp-baumann">
+				<img src="https://avatars.githubusercontent.com/u/21625034?s=72&u=f1fc41ef9e936f3bc8c6d38a78349890654310b8&v=4" width="24" alt="Avatar of philipp-baumann"> philipp-baumann
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#philipp-baumann">Copy rank badge</a><br/>
+			Philipp Baumann
+		</td>
+		<td>Public Transport </td>
+		<td>No Twitter Username</td>
+		<td>Bern, Switzerland</td>
+		<td>238</td>
+	</tr>
+	<tr>
+		<td>384</td>
+		<td>
+			<a href="https://github.com/l0b0">
+				<img src="https://avatars.githubusercontent.com/u/168301?s=72&u=b20b68beaabf569afba2144b7b0e9399b0ea11b8&v=4" width="24" alt="Avatar of l0b0"> l0b0
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#l0b0">Copy rank badge</a><br/>
+			Victor Engmark
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>238</td>
+	</tr>
+	<tr>
+		<td>385</td>
+		<td>
+			<a href="https://github.com/Sadullah-TANRIKULU">
+				<img src="https://avatars.githubusercontent.com/u/96377202?s=72&u=222dee03b022685897962111035fa9691cfb5604&v=4" width="24" alt="Avatar of Sadullah-TANRIKULU"> Sadullah-TANRIKULU
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Sadullah-TANRIKULU">Copy rank badge</a><br/>
+			Sadullah_David_Moses_TANRIKULU
+		</td>
+		<td>Freelance </td>
+		<td><a href="https://twitter.com/sadullahhhhhhh">sadullahhhhhhh</a></td>
+		<td>Zurich, SWITZERLAND</td>
+		<td>235</td>
+	</tr>
+	<tr>
+		<td>386</td>
+		<td>
+			<a href="https://github.com/yashlamba">
+				<img src="https://avatars.githubusercontent.com/u/44164398?s=72&u=4fecb9084c25f88d00620cf52f83a9d67b6cb240&v=4" width="24" alt="Avatar of yashlamba"> yashlamba
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#yashlamba">Copy rank badge</a><br/>
+			Yash Lamba
+		</td>
+		<td>@cern / @zenodo /<br/>@inveniosoftware<br/></td>
+		<td><a href="https://twitter.com/yshlamba">yshlamba</a></td>
+		<td>Geneva</td>
+		<td>235</td>
+	</tr>
+	<tr>
+		<td>387</td>
+		<td>
+			<a href="https://github.com/adirochs">
+				<img src="https://avatars.githubusercontent.com/u/6239971?s=72&u=554fce9218d5005f4d258fc899f92dcd3036f307&v=4" width="24" alt="Avatar of adirochs"> adirochs
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#adirochs">Copy rank badge</a><br/>
+			Adrian Matei
+		</td>
+		<td>@codepediaorg  </td>
+		<td>No Twitter Username</td>
+		<td>Bern, Switzerland</td>
+		<td>233</td>
+	</tr>
+	<tr>
+		<td>388</td>
+		<td>
+			<a href="https://github.com/comnik">
+				<img src="https://avatars.githubusercontent.com/u/1313051?s=72&u=546854214ec67a5521fc30183adb8a5d78b83c7b&v=4" width="24" alt="Avatar of comnik"> comnik
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#comnik">Copy rank badge</a><br/>
+			Nikolas Göbel
+		</td>
+		<td>@relationalai  </td>
+		<td><a href="https://twitter.com/NikolasGoebel">NikolasGoebel</a></td>
+		<td>Switzerland</td>
+		<td>232</td>
+	</tr>
+	<tr>
+		<td>389</td>
+		<td>
+			<a href="https://github.com/TommasoBelluzzo">
+				<img src="https://avatars.githubusercontent.com/u/235053?s=72&u=a9c0a35db7521842454de68aad7825869aadfe8e&v=4" width="24" alt="Avatar of TommasoBelluzzo"> TommasoBelluzzo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#TommasoBelluzzo">Copy rank badge</a><br/>
+			Tommaso Belluzzo
+		</td>
+		<td>Dxt Commodities Sa </td>
+		<td>No Twitter Username</td>
+		<td>Lugano, Switzerland</td>
+		<td>232</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>
+			<a href="https://github.com/veorq">
+				<img src="https://avatars.githubusercontent.com/u/3204810?s=72&u=cc580bb522b5d445c60015b343019cf440c77af6&v=4" width="24" alt="Avatar of veorq"> veorq
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#veorq">Copy rank badge</a><br/>
+			Jean-Philippe Aumasson
+		</td>
+		<td>Cloudflare </td>
+		<td><a href="https://twitter.com/veorq">veorq</a></td>
+		<td>Switzerland</td>
+		<td>229</td>
+	</tr>
+	<tr>
+		<td>391</td>
+		<td>
+			<a href="https://github.com/AlexDenisov">
+				<img src="https://avatars.githubusercontent.com/u/1175576?s=72&u=9463755d8e6731f74130764bf8441b5a78033c23&v=4" width="24" alt="Avatar of AlexDenisov"> AlexDenisov
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#AlexDenisov">Copy rank badge</a><br/>
+			Alex Denisov
+		</td>
+		<td>@rooflineai </td>
+		<td><a href="https://twitter.com/1101_debian">1101_debian</a></td>
+		<td>Zurich, Switzerland </td>
+		<td>226</td>
+	</tr>
+	<tr>
+		<td>392</td>
+		<td>
+			<a href="https://github.com/BetaHuhn">
+				<img src="https://avatars.githubusercontent.com/u/51766171?s=72&u=e735e1981879559af6b09371a4e7d3e5e95b64d2&v=4" width="24" alt="Avatar of BetaHuhn"> BetaHuhn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#BetaHuhn">Copy rank badge</a><br/>
+			Maximilian Schiller
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/betahuhn">betahuhn</a></td>
+		<td>Switzerland</td>
+		<td>225</td>
+	</tr>
+	<tr>
+		<td>393</td>
+		<td>
+			<a href="https://github.com/pooya-mohammadi">
+				<img src="https://avatars.githubusercontent.com/u/55460936?s=72&u=e5ac194a70cdfb74434ad91700d5ca209adad893&v=4" width="24" alt="Avatar of pooya-mohammadi"> pooya-mohammadi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pooya-mohammadi">Copy rank badge</a><br/>
+			Pooya Mohammadi Kazaj
+		</td>
+		<td>Bern University, Hospital, Inselspital<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bern, Switzerland</td>
+		<td>225</td>
+	</tr>
+	<tr>
+		<td>394</td>
+		<td>
+			<a href="https://github.com/stephband">
+				<img src="https://avatars.githubusercontent.com/u/69022?s=72&v=4" width="24" alt="Avatar of stephband"> stephband
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#stephband">Copy rank badge</a><br/>
+			stephband
+		</td>
+		<td>Http://cruncher.ch </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>225</td>
+	</tr>
+	<tr>
+		<td>395</td>
+		<td>
+			<a href="https://github.com/AvikantSrivastava">
+				<img src="https://avatars.githubusercontent.com/u/41926176?s=72&u=06bf8bbed81b0486a70edf33f22eae7f3f257778&v=4" width="24" alt="Avatar of AvikantSrivastava"> AvikantSrivastava
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#AvikantSrivastava">Copy rank badge</a><br/>
+			Avikant Srivastava
+		</td>
+		<td> @cern </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>225</td>
+	</tr>
+	<tr>
+		<td>396</td>
+		<td>
+			<a href="https://github.com/ClashLuke">
+				<img src="https://avatars.githubusercontent.com/u/39779310?s=72&u=4b61886643f68176015117e335cb55dd1e64aa35&v=4" width="24" alt="Avatar of ClashLuke"> ClashLuke
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ClashLuke">Copy rank badge</a><br/>
+			Lucas Nestler
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>224</td>
+	</tr>
+	<tr>
+		<td>397</td>
+		<td>
+			<a href="https://github.com/jodersky">
+				<img src="https://avatars.githubusercontent.com/u/1007012?s=72&u=74247c80ffe66a641e4007f5d356cae51b275f84&v=4" width="24" alt="Avatar of jodersky"> jodersky
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jodersky">Copy rank badge</a><br/>
+			Jakob Odersky
+		</td>
+		<td>@meshci  </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne</td>
+		<td>223</td>
+	</tr>
+	<tr>
+		<td>398</td>
+		<td>
+			<a href="https://github.com/Roemer">
+				<img src="https://avatars.githubusercontent.com/u/393641?s=72&u=41b26f54b8f8c3f9d452f5998891796867ed5b06&v=4" width="24" alt="Avatar of Roemer"> Roemer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Roemer">Copy rank badge</a><br/>
+			Roman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bern, Switzerland</td>
+		<td>221</td>
+	</tr>
+	<tr>
+		<td>399</td>
+		<td>
+			<a href="https://github.com/Mayankm96">
+				<img src="https://avatars.githubusercontent.com/u/12863862?s=72&u=1176882cad64fd5ad6715de586e37911f17c4aba&v=4" width="24" alt="Avatar of Mayankm96"> Mayankm96
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Mayankm96">Copy rank badge</a><br/>
+			Mayank Mittal
+		</td>
+		<td>@leggedrobotics, @nvidia-omniverse </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>219</td>
+	</tr>
+	<tr>
+		<td>400</td>
+		<td>
+			<a href="https://github.com/mweibel">
+				<img src="https://avatars.githubusercontent.com/u/307427?s=72&u=8e86d44fee25a5456ee174408e48065e937b5467&v=4" width="24" alt="Avatar of mweibel"> mweibel
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mweibel">Copy rank badge</a><br/>
+			Michael Weibel
+		</td>
+		<td>Dynatrace </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>219</td>
+	</tr>
+	<tr>
+		<td>401</td>
+		<td>
+			<a href="https://github.com/JoannaaKL">
+				<img src="https://avatars.githubusercontent.com/u/67866556?s=72&u=54dc91de3b1e0d7ba8f8312dc6b65993f1bc14d1&v=4" width="24" alt="Avatar of JoannaaKL"> JoannaaKL
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#JoannaaKL">Copy rank badge</a><br/>
+			JoannaaKL
+		</td>
+		<td>Github </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>216</td>
+	</tr>
+	<tr>
+		<td>402</td>
+		<td>
+			<a href="https://github.com/omichel">
+				<img src="https://avatars.githubusercontent.com/u/1264964?s=72&v=4" width="24" alt="Avatar of omichel"> omichel
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#omichel">Copy rank badge</a><br/>
+			Olivier Michel
+		</td>
+		<td>Cyberbotics Ltd. </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>215</td>
+	</tr>
+	<tr>
+		<td>403</td>
+		<td>
+			<a href="https://github.com/KCreate">
+				<img src="https://avatars.githubusercontent.com/u/1352680?s=72&u=b397c44968c93a237788ccaa82471a60090af4a1&v=4" width="24" alt="Avatar of KCreate"> KCreate
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#KCreate">Copy rank badge</a><br/>
+			Leonard Schütz
+		</td>
+		<td>Zürcher Kantonalbank </td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>213</td>
+	</tr>
+	<tr>
+		<td>404</td>
+		<td>
+			<a href="https://github.com/ymherklotz">
+				<img src="https://avatars.githubusercontent.com/u/20495318?s=72&u=3cd6a2710c5d6ded6dd70a86bdc6897341c9be68&v=4" width="24" alt="Avatar of ymherklotz"> ymherklotz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ymherklotz">Copy rank badge</a><br/>
+			Yann Herklotz
+		</td>
+		<td>Epfl </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne</td>
+		<td>213</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>
+			<a href="https://github.com/syzer">
+				<img src="https://avatars.githubusercontent.com/u/1989646?s=72&u=6c7d7362e4dfdee43853578b1952df0b4d67db34&v=4" width="24" alt="Avatar of syzer"> syzer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#syzer">Copy rank badge</a><br/>
+			syzer
+		</td>
+		<td>@creadi  </td>
+		<td>No Twitter Username</td>
+		<td>Basel/Zurich</td>
+		<td>210</td>
+	</tr>
+	<tr>
+		<td>406</td>
+		<td>
+			<a href="https://github.com/rphlr">
+				<img src="https://avatars.githubusercontent.com/u/81936759?s=72&u=eda5feb93130607b909de394668b969abe940645&v=4" width="24" alt="Avatar of rphlr"> rphlr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#rphlr">Copy rank badge</a><br/>
+			Raphael
+		</td>
+		<td>@mediasmartch </td>
+		<td>No Twitter Username</td>
+		<td>switzerland</td>
+		<td>209</td>
+	</tr>
+	<tr>
+		<td>407</td>
+		<td>
+			<a href="https://github.com/Quinta0">
+				<img src="https://avatars.githubusercontent.com/u/112334784?s=72&u=b13983e102e07d558071a54764e2c9b07556f67b&v=4" width="24" alt="Avatar of Quinta0"> Quinta0
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Quinta0">Copy rank badge</a><br/>
+			Quinta
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>206</td>
+	</tr>
+	<tr>
+		<td>408</td>
+		<td>
+			<a href="https://github.com/wichtounet">
+				<img src="https://avatars.githubusercontent.com/u/196746?s=72&u=15774cdc0577f6613e86adafc1bbcfefea1a0aed&v=4" width="24" alt="Avatar of wichtounet"> wichtounet
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#wichtounet">Copy rank badge</a><br/>
+			Baptiste Wicht
+		</td>
+		<td>Verisign </td>
+		<td>No Twitter Username</td>
+		<td>Fribourg, Switzerland</td>
+		<td>205</td>
+	</tr>
+	<tr>
+		<td>409</td>
+		<td>
+			<a href="https://github.com/marcelstoer">
+				<img src="https://avatars.githubusercontent.com/u/624195?s=72&u=482385737bcb897ad65ff00967ac3930ea95aa5f&v=4" width="24" alt="Avatar of marcelstoer"> marcelstoer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#marcelstoer">Copy rank badge</a><br/>
+			Marcel Stör
+		</td>
+		<td>@thingpulse @nodemcu </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>204</td>
+	</tr>
+	<tr>
+		<td>410</td>
+		<td>
+			<a href="https://github.com/Stadicus">
+				<img src="https://avatars.githubusercontent.com/u/19550140?s=72&u=f2f4e96657e6b72553037d0fc5bd8cdbd2c7c0fc&v=4" width="24" alt="Avatar of Stadicus"> Stadicus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Stadicus">Copy rank badge</a><br/>
+			Stadicus
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>204</td>
+	</tr>
+	<tr>
+		<td>411</td>
+		<td>
+			<a href="https://github.com/gnecula">
+				<img src="https://avatars.githubusercontent.com/u/3890983?s=72&u=3aff8e5992de46e23ae2bc72189b62827ea9e1d0&v=4" width="24" alt="Avatar of gnecula"> gnecula
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#gnecula">Copy rank badge</a><br/>
+			George Necula
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>204</td>
+	</tr>
+	<tr>
+		<td>412</td>
+		<td>
+			<a href="https://github.com/roflmaostc">
+				<img src="https://avatars.githubusercontent.com/u/19436526?s=72&u=de2251f7a81bfaeca48be22e03f2f50a50be9adb&v=4" width="24" alt="Avatar of roflmaostc"> roflmaostc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#roflmaostc">Copy rank badge</a><br/>
+			Felix Wechsler
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>EPFL, Lausanne, Switzerland</td>
+		<td>202</td>
+	</tr>
+	<tr>
+		<td>413</td>
+		<td>
+			<a href="https://github.com/martpie">
+				<img src="https://avatars.githubusercontent.com/u/1311607?s=72&u=19abbfe1144b8f2344218fa37c07750ee402bf44&v=4" width="24" alt="Avatar of martpie"> martpie
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#martpie">Copy rank badge</a><br/>
+			Pierre de la Martinière
+		</td>
+		<td>Meta </td>
+		<td><a href="https://twitter.com/martpie_">martpie_</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>201</td>
+	</tr>
+	<tr>
+		<td>414</td>
+		<td>
+			<a href="https://github.com/stefankueng">
+				<img src="https://avatars.githubusercontent.com/u/665591?s=72&v=4" width="24" alt="Avatar of stefankueng"> stefankueng
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#stefankueng">Copy rank badge</a><br/>
+			Stefan Küng
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>198</td>
+	</tr>
+	<tr>
+		<td>415</td>
+		<td>
+			<a href="https://github.com/Neo-Oli">
+				<img src="https://avatars.githubusercontent.com/u/7983745?s=72&u=1ce152c93221f11108e36b8f384ce15f9643ac18&v=4" width="24" alt="Avatar of Neo-Oli"> Neo-Oli
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Neo-Oli">Copy rank badge</a><br/>
+			glow
+		</td>
+		<td>@swissredcross </td>
+		<td>No Twitter Username</td>
+		<td>Bern, Switzerland</td>
+		<td>196</td>
+	</tr>
+	<tr>
+		<td>416</td>
+		<td>
+			<a href="https://github.com/jianchao-li">
+				<img src="https://avatars.githubusercontent.com/u/26521863?s=72&u=125e768cd273d90a426a1b2587e9f999ede191ae&v=4" width="24" alt="Avatar of jianchao-li"> jianchao-li
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jianchao-li">Copy rank badge</a><br/>
+			Jianchao Li
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jianchao2017">jianchao2017</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>196</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>
+			<a href="https://github.com/daren-thomas">
+				<img src="https://avatars.githubusercontent.com/u/2969564?s=72&v=4" width="24" alt="Avatar of daren-thomas"> daren-thomas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#daren-thomas">Copy rank badge</a><br/>
+			Daren Thomas
+		</td>
+		<td>Sustainable Architecture And Building<br/>Technologies<br/>(eth<br/>Zürich)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>194</td>
+	</tr>
+	<tr>
+		<td>418</td>
+		<td>
+			<a href="https://github.com/brb">
+				<img src="https://avatars.githubusercontent.com/u/122571?s=72&u=0df40cc725b9da2983b976a36734da3374d2f5e1&v=4" width="24" alt="Avatar of brb"> brb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#brb">Copy rank badge</a><br/>
+			Martynas Pumputis
+		</td>
+		<td>@isovalent  </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>188</td>
+	</tr>
+	<tr>
+		<td>419</td>
+		<td>
+			<a href="https://github.com/yrezgui">
+				<img src="https://avatars.githubusercontent.com/u/1113976?s=72&v=4" width="24" alt="Avatar of yrezgui"> yrezgui
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#yrezgui">Copy rank badge</a><br/>
+			Yacine Rezgui
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>180</td>
+	</tr>
+	<tr>
+		<td>420</td>
+		<td>
+			<a href="https://github.com/ThomasKur">
+				<img src="https://avatars.githubusercontent.com/u/16786269?s=72&u=a7761394f3949d1c575982ed8b7653b7b6278925&v=4" width="24" alt="Avatar of ThomasKur"> ThomasKur
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ThomasKur">Copy rank badge</a><br/>
+			Thomas Kurth
+		</td>
+		<td>Basevision </td>
+		<td><a href="https://twitter.com/ThomasKurth_ch">ThomasKurth_ch</a></td>
+		<td>Switzerland</td>
+		<td>180</td>
+	</tr>
+	<tr>
+		<td>421</td>
+		<td>
+			<a href="https://github.com/stakx">
+				<img src="https://avatars.githubusercontent.com/u/104481?s=72&u=e8df0e2754d8a4ea5e534a47be6ee2cca15cec32&v=4" width="24" alt="Avatar of stakx"> stakx
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#stakx">Copy rank badge</a><br/>
+			Dominique Schuppli
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>179</td>
+	</tr>
+	<tr>
+		<td>422</td>
+		<td>
+			<a href="https://github.com/hgy59">
+				<img src="https://avatars.githubusercontent.com/u/12009964?s=72&u=ef24068aa8b4bd04159f40a54f02c745a3b5ffc3&v=4" width="24" alt="Avatar of hgy59"> hgy59
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#hgy59">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>178</td>
+	</tr>
+	<tr>
+		<td>423</td>
+		<td>
+			<a href="https://github.com/roman-kashitsyn">
+				<img src="https://avatars.githubusercontent.com/u/847968?s=72&u=3a08a90c178c4b447cf151f345e471d766fe9844&v=4" width="24" alt="Avatar of roman-kashitsyn"> roman-kashitsyn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#roman-kashitsyn">Copy rank badge</a><br/>
+			Roman Kashitsyn
+		</td>
+		<td>Chainlink Labs </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>176</td>
+	</tr>
+	<tr>
+		<td>424</td>
+		<td>
+			<a href="https://github.com/pstadler">
+				<img src="https://avatars.githubusercontent.com/u/600097?s=72&u=4c27a0ef0ecd10b6d567c4be408cfe84c2965845&v=4" width="24" alt="Avatar of pstadler"> pstadler
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pstadler">Copy rank badge</a><br/>
+			Patrick Stadler
+		</td>
+		<td>@hobby-kube </td>
+		<td><a href="https://twitter.com/pstadler">pstadler</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>175</td>
+	</tr>
+	<tr>
+		<td>425</td>
+		<td>
+			<a href="https://github.com/okkdev">
+				<img src="https://avatars.githubusercontent.com/u/20144629?s=72&u=eff2327f3154fd1341f02c640fbd00b67fc6bf76&v=4" width="24" alt="Avatar of okkdev"> okkdev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#okkdev">Copy rank badge</a><br/>
+			Jen Stehlik
+		</td>
+		<td>@cyon </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>172</td>
+	</tr>
+	<tr>
+		<td>426</td>
+		<td>
+			<a href="https://github.com/BrunnerLivio">
+				<img src="https://avatars.githubusercontent.com/u/9899423?s=72&u=5d1170c99cdf11065093d124bd2c87ee1f3e097e&v=4" width="24" alt="Avatar of BrunnerLivio"> BrunnerLivio
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#BrunnerLivio">Copy rank badge</a><br/>
+			Livio Brunner
+		</td>
+		<td>@raisenow @nestjs </td>
+		<td><a href="https://twitter.com/brunnerlivio">brunnerlivio</a></td>
+		<td>Switzerland</td>
+		<td>170</td>
+	</tr>
+	<tr>
+		<td>427</td>
+		<td>
+			<a href="https://github.com/altfatterz">
+				<img src="https://avatars.githubusercontent.com/u/1025546?s=72&u=f94d0f381fa008f5f877a02c8cfef115f1857384&v=4" width="24" alt="Avatar of altfatterz"> altfatterz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#altfatterz">Copy rank badge</a><br/>
+			Zoltan Altfatter
+		</td>
+		<td>@mimacom </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>169</td>
+	</tr>
+	<tr>
+		<td>428</td>
+		<td>
+			<a href="https://github.com/duerrsimon">
+				<img src="https://avatars.githubusercontent.com/u/16979577?s=72&u=5a7ec73ba5a1c847a66a9b313c453d81e4a915e5&v=4" width="24" alt="Avatar of duerrsimon"> duerrsimon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#duerrsimon">Copy rank badge</a><br/>
+			Simon Duerr
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lausanne</td>
+		<td>167</td>
+	</tr>
+	<tr>
+		<td>429</td>
+		<td>
+			<a href="https://github.com/skanderboudawara">
+				<img src="https://avatars.githubusercontent.com/u/108568261?s=72&u=239421a8e1ec88363af08ecf289be692a99bcf3f&v=4" width="24" alt="Avatar of skanderboudawara"> skanderboudawara
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#skanderboudawara">Copy rank badge</a><br/>
+			Skander Boudawara
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>164</td>
+	</tr>
+	<tr>
+		<td>430</td>
+		<td>
+			<a href="https://github.com/AIWintermuteAI">
+				<img src="https://avatars.githubusercontent.com/u/32562299?s=72&u=fad2483e7743dabe38d4505ffde20ee368f1bd5b&v=4" width="24" alt="Avatar of AIWintermuteAI"> AIWintermuteAI
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#AIWintermuteAI">Copy rank badge</a><br/>
+			Dmitry
+		</td>
+		<td>Edge Impulse </td>
+		<td><a href="https://twitter.com/HardwareAi">HardwareAi</a></td>
+		<td>Switzerland, Zurich</td>
+		<td>164</td>
+	</tr>
+	<tr>
+		<td>431</td>
+		<td>
+			<a href="https://github.com/drprojects">
+				<img src="https://avatars.githubusercontent.com/u/42056973?s=72&u=cb891bed1af574466919e0f2f15572bb2b218ef9&v=4" width="24" alt="Avatar of drprojects"> drprojects
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#drprojects">Copy rank badge</a><br/>
+			Damien ROBERT
+		</td>
+		<td>University Of Zurich </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>163</td>
+	</tr>
+	<tr>
+		<td>432</td>
+		<td>
+			<a href="https://github.com/oliverschwendener">
+				<img src="https://avatars.githubusercontent.com/u/15727229?s=72&u=5adeb6f186f378d204f85d740ba554c6587bd1db&v=4" width="24" alt="Avatar of oliverschwendener"> oliverschwendener
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#oliverschwendener">Copy rank badge</a><br/>
+			Oliver Schwendener
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/oliverparkour">oliverparkour</a></td>
+		<td>Switzerland</td>
+		<td>163</td>
+	</tr>
+	<tr>
+		<td>433</td>
+		<td>
+			<a href="https://github.com/akospasztor">
+				<img src="https://avatars.githubusercontent.com/u/6011126?s=72&u=e5e1356c7e1a76cdacdd9c661e482e96d2846442&v=4" width="24" alt="Avatar of akospasztor"> akospasztor
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#akospasztor">Copy rank badge</a><br/>
+			Akos Pasztor
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>159</td>
+	</tr>
+	<tr>
+		<td>434</td>
+		<td>
+			<a href="https://github.com/hoechenberger">
+				<img src="https://avatars.githubusercontent.com/u/2046265?s=72&u=739a20430346a14bc157ff1f28dcee6fc882461a&v=4" width="24" alt="Avatar of hoechenberger"> hoechenberger
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#hoechenberger">Copy rank badge</a><br/>
+			Richard Höchenberger
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Geneva, Paris, Berlin</td>
+		<td>158</td>
+	</tr>
+	<tr>
+		<td>435</td>
+		<td>
+			<a href="https://github.com/paescuj">
+				<img src="https://avatars.githubusercontent.com/u/5363448?s=72&u=2114d8f7e2b3c55070ec2de8e8a1728fe9fae5b5&v=4" width="24" alt="Avatar of paescuj"> paescuj
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#paescuj">Copy rank badge</a><br/>
+			Pascal Jufer
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Biel/Bienne, Switzerland</td>
+		<td>154</td>
+	</tr>
+	<tr>
+		<td>436</td>
+		<td>
+			<a href="https://github.com/mromanello">
+				<img src="https://avatars.githubusercontent.com/u/310693?s=72&u=5875c56e69c715df816fb2dde4c2636d0ec01780&v=4" width="24" alt="Avatar of mromanello"> mromanello
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mromanello">Copy rank badge</a><br/>
+			Matteo Romanello
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lausanne (CH)</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>437</td>
+		<td>
+			<a href="https://github.com/cblichmann">
+				<img src="https://avatars.githubusercontent.com/u/213059?s=72&u=2dc19df75854897e74d55e2d141edec54aa0cd94&v=4" width="24" alt="Avatar of cblichmann"> cblichmann
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#cblichmann">Copy rank badge</a><br/>
+			Christian Blichmann
+		</td>
+		<td>@google @zynamics  </td>
+		<td><a href="https://twitter.com/AdmVonSchneider">AdmVonSchneider</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>151</td>
+	</tr>
+	<tr>
+		<td>438</td>
+		<td>
+			<a href="https://github.com/MasterScrat">
+				<img src="https://avatars.githubusercontent.com/u/140592?s=72&u=260e75d2051318e1a5582bd6bc087d4ef4f75209&v=4" width="24" alt="Avatar of MasterScrat"> MasterScrat
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#MasterScrat">Copy rank badge</a><br/>
+			Florian
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MasterScrat">MasterScrat</a></td>
+		<td>Switzerland</td>
+		<td>149</td>
+	</tr>
+	<tr>
+		<td>439</td>
+		<td>
+			<a href="https://github.com/dfranco">
+				<img src="https://avatars.githubusercontent.com/u/482177?s=72&u=c2288c90e0ae97da69c1a7255c3370efbe3f7c0c&v=4" width="24" alt="Avatar of dfranco"> dfranco
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dfranco">Copy rank badge</a><br/>
+			Davide Franco
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>148</td>
+	</tr>
+	<tr>
+		<td>440</td>
+		<td>
+			<a href="https://github.com/noraa-junker">
+				<img src="https://avatars.githubusercontent.com/u/58633848?s=72&u=62c683e0f00ed90cc08c1e1209b02a8b739d12f6&v=4" width="24" alt="Avatar of noraa-junker"> noraa-junker
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#noraa-junker">Copy rank badge</a><br/>
+			Noraa Junker
+		</td>
+		<td>Aaron Junker Technologies By<br/>Noraa<br/></td>
+		<td><a href="https://twitter.com/theredcuber">theredcuber</a></td>
+		<td>Switzerland</td>
+		<td>148</td>
+	</tr>
+	<tr>
+		<td>441</td>
+		<td>
+			<a href="https://github.com/Lederstrumpf">
+				<img src="https://avatars.githubusercontent.com/u/1497212?s=72&u=02eae52b0047367d96bf9d67a913dfbbb462d4f1&v=4" width="24" alt="Avatar of Lederstrumpf"> Lederstrumpf
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Lederstrumpf">Copy rank badge</a><br/>
+			Robert Hambrock
+		</td>
+		<td>@cryp-gmbh  </td>
+		<td><a href="https://twitter.com/Robert_Hambrock">Robert_Hambrock</a></td>
+		<td>Zug, Switzerland</td>
+		<td>148</td>
+	</tr>
+	<tr>
+		<td>442</td>
+		<td>
+			<a href="https://github.com/devos50">
+				<img src="https://avatars.githubusercontent.com/u/1707075?s=72&u=c2d2f8c0e61b0992647dd2392057fd1bebe19a81&v=4" width="24" alt="Avatar of devos50"> devos50
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#devos50">Copy rank badge</a><br/>
+			Martijn de Vos
+		</td>
+		<td>Epfl </td>
+		<td><a href="https://twitter.com/devos50">devos50</a></td>
+		<td>Lausanne</td>
+		<td>146</td>
+	</tr>
+	<tr>
+		<td>443</td>
+		<td>
+			<a href="https://github.com/FlorianCassayre">
+				<img src="https://avatars.githubusercontent.com/u/9027075?s=72&u=6c32b40ef163299b89247a357f085972643a1c04&v=4" width="24" alt="Avatar of FlorianCassayre"> FlorianCassayre
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#FlorianCassayre">Copy rank badge</a><br/>
+			Florian Cassayre
+		</td>
+		<td>@cern </td>
+		<td>No Twitter Username</td>
+		<td>France · Switzerland</td>
+		<td>146</td>
+	</tr>
+	<tr>
+		<td>444</td>
+		<td>
+			<a href="https://github.com/lbeurerkellner">
+				<img src="https://avatars.githubusercontent.com/u/17903049?s=72&u=7262fc3d4c7ef626335060768ccf992b1dbb1e1a&v=4" width="24" alt="Avatar of lbeurerkellner"> lbeurerkellner
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#lbeurerkellner">Copy rank badge</a><br/>
+			Luca Beurer-Kellner
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>145</td>
+	</tr>
+	<tr>
+		<td>445</td>
+		<td>
+			<a href="https://github.com/guewen">
+				<img src="https://avatars.githubusercontent.com/u/417223?s=72&u=bbf6f35d7c5bdb11a8e48997a61ca530656f277d&v=4" width="24" alt="Avatar of guewen"> guewen
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#guewen">Copy rank badge</a><br/>
+			Guewen Baconnier
+		</td>
+		<td>@qoqa </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne</td>
+		<td>143</td>
+	</tr>
+	<tr>
+		<td>446</td>
+		<td>
+			<a href="https://github.com/FlorianSLZ">
+				<img src="https://avatars.githubusercontent.com/u/38555854?s=72&u=7763110a45d75b2c752e88af1bdb5c4b49664efe&v=4" width="24" alt="Avatar of FlorianSLZ"> FlorianSLZ
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#FlorianSLZ">Copy rank badge</a><br/>
+			Florian Salzmann
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/FlorianSLZ">FlorianSLZ</a></td>
+		<td>Switzerland</td>
+		<td>143</td>
+	</tr>
+	<tr>
+		<td>447</td>
+		<td>
+			<a href="https://github.com/etiennestuder">
+				<img src="https://avatars.githubusercontent.com/u/231070?s=72&v=4" width="24" alt="Avatar of etiennestuder"> etiennestuder
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#etiennestuder">Copy rank badge</a><br/>
+			Etienne Studer
+		</td>
+		<td>@gradle  </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>142</td>
+	</tr>
+	<tr>
+		<td>448</td>
+		<td>
+			<a href="https://github.com/yangycpku">
+				<img src="https://avatars.githubusercontent.com/u/16571711?s=72&u=195b338ee63a528bf82fcaccb805eff18a053310&v=4" width="24" alt="Avatar of yangycpku"> yangycpku
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#yangycpku">Copy rank badge</a><br/>
+			Yucheng Yang
+		</td>
+		<td>University Of Zurich </td>
+		<td><a href="https://twitter.com/YuchengYang1993">YuchengYang1993</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>139</td>
+	</tr>
+	<tr>
+		<td>449</td>
+		<td>
+			<a href="https://github.com/elliottash">
+				<img src="https://avatars.githubusercontent.com/u/12103673?s=72&u=17f190280a46e54a71060c96e7f10f140d558900&v=4" width="24" alt="Avatar of elliottash"> elliottash
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#elliottash">Copy rank badge</a><br/>
+			Elliott Ash
+		</td>
+		<td>Eth Zurich </td>
+		<td><a href="https://twitter.com/ellliottt">ellliottt</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>137</td>
+	</tr>
+	<tr>
+		<td>450</td>
+		<td>
+			<a href="https://github.com/gcarleo">
+				<img src="https://avatars.githubusercontent.com/u/28149892?s=72&u=d1d29e2c29bb9e31440f4ee839f60ed4a51f7d80&v=4" width="24" alt="Avatar of gcarleo"> gcarleo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#gcarleo">Copy rank badge</a><br/>
+			Giuseppe Carleo
+		</td>
+		<td>Epfl - Computational Quantum<br/>Science<br/>Lab<br/></td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland </td>
+		<td>136</td>
+	</tr>
+	<tr>
+		<td>451</td>
+		<td>
+			<a href="https://github.com/koczkatamas">
+				<img src="https://avatars.githubusercontent.com/u/2608082?s=72&u=00ce70017376d0d79f9f1937b6a80f716cbc21db&v=4" width="24" alt="Avatar of koczkatamas"> koczkatamas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#koczkatamas">Copy rank badge</a><br/>
+			Tamás Koczka
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>134</td>
+	</tr>
+	<tr>
+		<td>452</td>
+		<td>
+			<a href="https://github.com/donghao51">
+				<img src="https://avatars.githubusercontent.com/u/31425694?s=72&u=97f17df903bfa1b9d3f35ba400a7b50d67e0b453&v=4" width="24" alt="Avatar of donghao51"> donghao51
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#donghao51">Copy rank badge</a><br/>
+			Hao Dong
+		</td>
+		<td>Eth Zurich </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>134</td>
+	</tr>
+	<tr>
+		<td>453</td>
+		<td>
+			<a href="https://github.com/NeilFraser">
+				<img src="https://avatars.githubusercontent.com/u/250480?s=72&u=7320e4747ad3199ab7670a7d06831b6a6e94317d&v=4" width="24" alt="Avatar of NeilFraser"> NeilFraser
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#NeilFraser">Copy rank badge</a><br/>
+			Neil Fraser
+		</td>
+		<td>New Voice </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>133</td>
+	</tr>
+	<tr>
+		<td>454</td>
+		<td>
+			<a href="https://github.com/sirdarckcat">
+				<img src="https://avatars.githubusercontent.com/u/33089?s=72&u=fb6e9899776ed0397c081932232b33d68ae1b4f1&v=4" width="24" alt="Avatar of sirdarckcat"> sirdarckcat
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#sirdarckcat">Copy rank badge</a><br/>
+			Eduardo' Vela" <Nava> (sirdarckcat)
+		</td>
+		<td>Elgoog </td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>132</td>
+	</tr>
+	<tr>
+		<td>455</td>
+		<td>
+			<a href="https://github.com/dermesser">
+				<img src="https://avatars.githubusercontent.com/u/1042327?s=72&v=4" width="24" alt="Avatar of dermesser"> dermesser
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dermesser">Copy rank badge</a><br/>
+			Lewin Bormann
+		</td>
+		<td>Zurich Instruments Ag </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>131</td>
+	</tr>
+	<tr>
+		<td>456</td>
+		<td>
+			<a href="https://github.com/Laendrun">
+				<img src="https://avatars.githubusercontent.com/u/24452010?s=72&u=fbb260aab6b4f8dacfbad91a49b9413803e363bc&v=4" width="24" alt="Avatar of Laendrun"> Laendrun
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Laendrun">Copy rank badge</a><br/>
+			Simon
+		</td>
+		<td>Laendrun </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>127</td>
+	</tr>
+	<tr>
+		<td>457</td>
+		<td>
+			<a href="https://github.com/BKHMSI">
+				<img src="https://avatars.githubusercontent.com/u/14313972?s=72&u=901048e457cd33634cc531825dd5421c03e68920&v=4" width="24" alt="Avatar of BKHMSI"> BKHMSI
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#BKHMSI">Copy rank badge</a><br/>
+			Badr AlKhamissi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/bkhmsi">bkhmsi</a></td>
+		<td>Lausanne, Switzerland</td>
+		<td>126</td>
+	</tr>
+	<tr>
+		<td>458</td>
+		<td>
+			<a href="https://github.com/3rfaan">
+				<img src="https://avatars.githubusercontent.com/u/28968837?s=72&u=592ab034f14069b18e7412da6c1aad4ff638dd05&v=4" width="24" alt="Avatar of 3rfaan"> 3rfaan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#3rfaan">Copy rank badge</a><br/>
+			Arfan Zubi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>124</td>
+	</tr>
+	<tr>
+		<td>459</td>
+		<td>
+			<a href="https://github.com/Castruu">
+				<img src="https://avatars.githubusercontent.com/u/66087703?s=72&u=f50bb7da3996e98d7fa74fa17a66bf5d1ba38ebb&v=4" width="24" alt="Avatar of Castruu"> Castruu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Castruu">Copy rank badge</a><br/>
+			Vitor Fernandez
+		</td>
+		<td>Atira, Eth Zurich </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>122</td>
+	</tr>
+	<tr>
+		<td>460</td>
+		<td>
+			<a href="https://github.com/claudep">
+				<img src="https://avatars.githubusercontent.com/u/143192?s=72&u=c0c7a524b5a0cd168d7abd7e9fce3662d721992d&v=4" width="24" alt="Avatar of claudep"> claudep
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#claudep">Copy rank badge</a><br/>
+			Claude Paroz
+		</td>
+		<td>2xlibre.net Sàrl </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>121</td>
+	</tr>
+	<tr>
+		<td>461</td>
+		<td>
+			<a href="https://github.com/Extraltodeus">
+				<img src="https://avatars.githubusercontent.com/u/15731540?s=72&u=a33c2a7d2bb5fd785809a5ec819e7fda6e5841b8&v=4" width="24" alt="Avatar of Extraltodeus"> Extraltodeus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Extraltodeus">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Geneva, Switzerland</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>462</td>
+		<td>
+			<a href="https://github.com/mkody">
+				<img src="https://avatars.githubusercontent.com/u/843787?s=72&u=09fd231ed64ff18037cbad785a5b33837c03de0f&v=4" width="24" alt="Avatar of mkody"> mkody
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mkody">Copy rank badge</a><br/>
+			Kody
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>120</td>
+	</tr>
+	<tr>
+		<td>463</td>
+		<td>
+			<a href="https://github.com/NicoFilips">
+				<img src="https://avatars.githubusercontent.com/u/35654361?s=72&u=b2742b20b72cfff24c4e9fc27eccb83818d34abc&v=4" width="24" alt="Avatar of NicoFilips"> NicoFilips
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#NicoFilips">Copy rank badge</a><br/>
+			Nico F.
+		</td>
+		<td>@cminformatik </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>119</td>
+	</tr>
+	<tr>
+		<td>464</td>
+		<td>
+			<a href="https://github.com/greut">
+				<img src="https://avatars.githubusercontent.com/u/1388?s=72&u=b6e893ca078747cf2950f3664143342fcbdfbbc9&v=4" width="24" alt="Avatar of greut"> greut
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#greut">Copy rank badge</a><br/>
+			Yoan Blanc
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>119</td>
+	</tr>
+	<tr>
+		<td>465</td>
+		<td>
+			<a href="https://github.com/ramzerk">
+				<img src="https://avatars.githubusercontent.com/u/54402804?s=72&u=90869835ea91a2e74eefb1939bed1f838e9da242&v=4" width="24" alt="Avatar of ramzerk"> ramzerk
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ramzerk">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>Zoldik Corp </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne</td>
+		<td>118</td>
+	</tr>
+	<tr>
+		<td>466</td>
+		<td>
+			<a href="https://github.com/msoeken">
+				<img src="https://avatars.githubusercontent.com/u/1998245?s=72&u=81d6dd27db7d2a6a65b5241c680c6376c81b0a82&v=4" width="24" alt="Avatar of msoeken"> msoeken
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#msoeken">Copy rank badge</a><br/>
+			Mathias Soeken
+		</td>
+		<td>@microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>118</td>
+	</tr>
+	<tr>
+		<td>467</td>
+		<td>
+			<a href="https://github.com/GianlucaGuarini">
+				<img src="https://avatars.githubusercontent.com/u/879612?s=72&u=9fab638262fe74bb1ef3b5b6e626f358dadd7eca&v=4" width="24" alt="Avatar of GianlucaGuarini"> GianlucaGuarini
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#GianlucaGuarini">Copy rank badge</a><br/>
+			Gianluca Guarini
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>117</td>
+	</tr>
+	<tr>
+		<td>468</td>
+		<td>
+			<a href="https://github.com/Phil26AT">
+				<img src="https://avatars.githubusercontent.com/u/27350414?s=72&v=4" width="24" alt="Avatar of Phil26AT"> Phil26AT
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Phil26AT">Copy rank badge</a><br/>
+			Philipp Lindenberger
+		</td>
+		<td>Eth Zurich </td>
+		<td><a href="https://twitter.com/PhilCSE">PhilCSE</a></td>
+		<td>Switzerland</td>
+		<td>117</td>
+	</tr>
+	<tr>
+		<td>469</td>
+		<td>
+			<a href="https://github.com/emanuelduss">
+				<img src="https://avatars.githubusercontent.com/u/438188?s=72&u=ab8ad87a9cbd033dadc7c43d1e6d4ae54af0b8ce&v=4" width="24" alt="Avatar of emanuelduss"> emanuelduss
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#emanuelduss">Copy rank badge</a><br/>
+			Emanuel Duss
+		</td>
+		<td>@compasssecurity </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>470</td>
+		<td>
+			<a href="https://github.com/burdges">
+				<img src="https://avatars.githubusercontent.com/u/680126?s=72&v=4" width="24" alt="Avatar of burdges"> burdges
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#burdges">Copy rank badge</a><br/>
+			Jeff Burdges
+		</td>
+		<td>@w3f  </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>115</td>
+	</tr>
+	<tr>
+		<td>471</td>
+		<td>
+			<a href="https://github.com/pka">
+				<img src="https://avatars.githubusercontent.com/u/19007?s=72&u=669acb4e9bf13d9e3431f51b2786a9c1fa2dd062&v=4" width="24" alt="Avatar of pka"> pka
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pka">Copy rank badge</a><br/>
+			Pirmin Kalberer
+		</td>
+		<td>Sourcepole </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>472</td>
+		<td>
+			<a href="https://github.com/bndr">
+				<img src="https://avatars.githubusercontent.com/u/1145456?s=72&u=fe5733c293f25b3306fe1c9a72c7cf5efc21238a&v=4" width="24" alt="Avatar of bndr"> bndr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#bndr">Copy rank badge</a><br/>
+			Vadim Kravcenko
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/vadim_kravcenko">vadim_kravcenko</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>113</td>
+	</tr>
+	<tr>
+		<td>473</td>
+		<td>
+			<a href="https://github.com/a-r-j">
+				<img src="https://avatars.githubusercontent.com/u/23709768?s=72&v=4" width="24" alt="Avatar of a-r-j"> a-r-j
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#a-r-j">Copy rank badge</a><br/>
+			Arian Jamasb
+		</td>
+		<td>University Of Cambridge </td>
+		<td><a href="https://twitter.com/arian_jamasb">arian_jamasb</a></td>
+		<td>Basel</td>
+		<td>112</td>
+	</tr>
+	<tr>
+		<td>474</td>
+		<td>
+			<a href="https://github.com/kynan">
+				<img src="https://avatars.githubusercontent.com/u/346079?s=72&v=4" width="24" alt="Avatar of kynan"> kynan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#kynan">Copy rank badge</a><br/>
+			Florian Rathgeber
+		</td>
+		<td>Google </td>
+		<td><a href="https://twitter.com/frathgeber">frathgeber</a></td>
+		<td>Zurich area, Switzerland</td>
+		<td>112</td>
+	</tr>
+	<tr>
+		<td>475</td>
+		<td>
+			<a href="https://github.com/MichaelFYang">
+				<img src="https://avatars.githubusercontent.com/u/42180956?s=72&u=369d42d676e04b70795d72135aa7ab19a70558a1&v=4" width="24" alt="Avatar of MichaelFYang"> MichaelFYang
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#MichaelFYang">Copy rank badge</a><br/>
+			Fan Yang
+		</td>
+		<td>Robotic Systems Lab, Eth<br/>Zurich<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>111</td>
+	</tr>
+	<tr>
+		<td>476</td>
+		<td>
+			<a href="https://github.com/mallibone">
+				<img src="https://avatars.githubusercontent.com/u/642823?s=72&u=58a1701aebde5b62aa9be1ce603fd1a9e0ecf089&v=4" width="24" alt="Avatar of mallibone"> mallibone
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mallibone">Copy rank badge</a><br/>
+			Mark Allibone
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>109</td>
+	</tr>
+	<tr>
+		<td>477</td>
+		<td>
+			<a href="https://github.com/EpokK">
+				<img src="https://avatars.githubusercontent.com/u/1345786?s=72&u=cf39258956c528d1073a9713027aa878828da85f&v=4" width="24" alt="Avatar of EpokK"> EpokK
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#EpokK">Copy rank badge</a><br/>
+			Richard
+		</td>
+		<td>Proton Ag </td>
+		<td><a href="https://twitter.com/richard_tetaz">richard_tetaz</a></td>
+		<td>Geneva</td>
+		<td>108</td>
+	</tr>
+	<tr>
+		<td>478</td>
 		<td>
 			<a href="https://github.com/ibauersachs">
 				<img src="https://avatars.githubusercontent.com/u/949783?s=72&v=4" width="24" alt="Avatar of ibauersachs"> ibauersachs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ibauersachs">Copy rank badge</a><br/>
 			Ingo Bauersachs
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Brugg, Switzerland</td>
-		<td>43</td>
+		<td>108</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>479</td>
 		<td>
-			<a href="https://github.com/kward">
-				<img src="https://avatars.githubusercontent.com/u/116626?s=72&v=4" width="24" alt="Avatar of kward"> kward
-			</a><br/>
-			Kate Ward
+			<a href="https://github.com/DaMatrix">
+				<img src="https://avatars.githubusercontent.com/u/11216106?s=72&u=da7373897113bed375ca307a81c7353f6f44cfdc&v=4" width="24" alt="Avatar of DaMatrix"> DaMatrix
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#DaMatrix">Copy rank badge</a><br/>
+			DaPorkchop_
+		</td>
+		<td>@porkstudios  </td>
+		<td>No Twitter Username</td>
+		<td>Baar, Switzerland</td>
+		<td>107</td>
+	</tr>
+	<tr>
+		<td>480</td>
+		<td>
+			<a href="https://github.com/fphilipe">
+				<img src="https://avatars.githubusercontent.com/u/128151?s=72&v=4" width="24" alt="Avatar of fphilipe"> fphilipe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#fphilipe">Copy rank badge</a><br/>
+			Philipe Fatio
+		</td>
+		<td>@livemapai </td>
+		<td><a href="https://twitter.com/fphilipe">fphilipe</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>107</td>
+	</tr>
+	<tr>
+		<td>481</td>
+		<td>
+			<a href="https://github.com/antenore">
+				<img src="https://avatars.githubusercontent.com/u/5975?s=72&u=3d3d57cfd26ab745f68c85855683c8e153f3604e&v=4" width="24" alt="Avatar of antenore"> antenore
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#antenore">Copy rank badge</a><br/>
+			Antenore Gatta
+		</td>
+		<td>Kyndryl </td>
+		<td><a href="https://twitter.com/agatta">agatta</a></td>
+		<td>Lausanne, Switzerland</td>
+		<td>104</td>
+	</tr>
+	<tr>
+		<td>482</td>
+		<td>
+			<a href="https://github.com/thomasnordquist">
+				<img src="https://avatars.githubusercontent.com/u/7721625?s=72&u=8621114d5dd0fd0fe910f8ce9308cf6dab243f7c&v=4" width="24" alt="Avatar of thomasnordquist"> thomasnordquist
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#thomasnordquist">Copy rank badge</a><br/>
+			Thomas Nordquist
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Basel, Switzerland</td>
+		<td>103</td>
+	</tr>
+	<tr>
+		<td>483</td>
+		<td>
+			<a href="https://github.com/jiayihu">
+				<img src="https://avatars.githubusercontent.com/u/10067273?s=72&u=d995633d7551861bd927a3bd4805a8d663b619ae&v=4" width="24" alt="Avatar of jiayihu"> jiayihu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jiayihu">Copy rank badge</a><br/>
+			Jiayi Hu
+		</td>
+		<td>Collaboard, Ibv </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>103</td>
+	</tr>
+	<tr>
+		<td>484</td>
+		<td>
+			<a href="https://github.com/dpryan79">
+				<img src="https://avatars.githubusercontent.com/u/6399000?s=72&u=3decd52425131261addc75a0127b2f43b2167a2a&v=4" width="24" alt="Avatar of dpryan79"> dpryan79
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dpryan79">Copy rank badge</a><br/>
+			Devon Ryan
+		</td>
+		<td>Genedata Ag </td>
+		<td>No Twitter Username</td>
+		<td>Basel, Switzerland / Freiburg, Germany</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>485</td>
+		<td>
+			<a href="https://github.com/HxnDev">
+				<img src="https://avatars.githubusercontent.com/u/83294673?s=72&u=89fe209e15fc6e8d7c6d421bfef3cc1de3447586&v=4" width="24" alt="Avatar of HxnDev"> HxnDev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#HxnDev">Copy rank badge</a><br/>
+			Hassan Shahzad
+		</td>
+		<td>Aica Sa </td>
+		<td>No Twitter Username</td>
+		<td>Geneva, Switzerland</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>486</td>
+		<td>
+			<a href="https://github.com/mbi">
+				<img src="https://avatars.githubusercontent.com/u/131808?s=72&v=4" width="24" alt="Avatar of mbi"> mbi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mbi">Copy rank badge</a><br/>
+			Marco Bonetti
+		</td>
+		<td>Cruncher </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>99</td>
+	</tr>
+	<tr>
+		<td>487</td>
+		<td>
+			<a href="https://github.com/nst">
+				<img src="https://avatars.githubusercontent.com/u/51388?s=72&u=07ab57f132b8c5c4778b07deb38eaaa902eecf02&v=4" width="24" alt="Avatar of nst"> nst
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nst">Copy rank badge</a><br/>
+			Nicolas Seriot
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>488</td>
+		<td>
+			<a href="https://github.com/bryanhonof">
+				<img src="https://avatars.githubusercontent.com/u/5932804?s=72&u=32c50f4f19a1d0308220e68590af70fdf26c2d87&v=4" width="24" alt="Avatar of bryanhonof"> bryanhonof
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#bryanhonof">Copy rank badge</a><br/>
+			Bryan Honof
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>489</td>
+		<td>
+			<a href="https://github.com/LucaCanali">
+				<img src="https://avatars.githubusercontent.com/u/5243162?s=72&u=d826de0f42f907493d9ff5bb2201ed095a1b35a6&v=4" width="24" alt="Avatar of LucaCanali"> LucaCanali
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#LucaCanali">Copy rank badge</a><br/>
+			Luca Canali
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/LucaCanaliDB">LucaCanaliDB</a></td>
+		<td>Geneva, Switzerland</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>490</td>
+		<td>
+			<a href="https://github.com/nguyen-v">
+				<img src="https://avatars.githubusercontent.com/u/78664993?s=72&v=4" width="24" alt="Avatar of nguyen-v"> nguyen-v
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nguyen-v">Copy rank badge</a><br/>
+			Nguyen Vincent
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>491</td>
+		<td>
+			<a href="https://github.com/grll">
+				<img src="https://avatars.githubusercontent.com/u/1738060?s=72&u=25401dafc5b3acd6132bb53894bd60b0642d07e8&v=4" width="24" alt="Avatar of grll"> grll
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#grll">Copy rank badge</a><br/>
+			Guillaume Raille
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/guillaumeraille">guillaumeraille</a></td>
+		<td>Lausanne (CH)</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>492</td>
+		<td>
+			<a href="https://github.com/htqin">
+				<img src="https://avatars.githubusercontent.com/u/24933988?s=72&u=850085b02e2d303f265423b850ce11e180c0850f&v=4" width="24" alt="Avatar of htqin"> htqin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#htqin">Copy rank badge</a><br/>
+			Haotong Qin
+		</td>
+		<td>Eth Zurich </td>
+		<td><a href="https://twitter.com/qin_haotong">qin_haotong</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>493</td>
+		<td>
+			<a href="https://github.com/eginhard">
+				<img src="https://avatars.githubusercontent.com/u/5216613?s=72&u=e89381906b3c0f04ce862fe65cdb50401fde2bc5&v=4" width="24" alt="Avatar of eginhard"> eginhard
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#eginhard">Copy rank badge</a><br/>
+			Enno Hermann
+		</td>
+		<td>@idiap Research Institute </td>
+		<td>No Twitter Username</td>
+		<td>Martigny, Switzerland</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>494</td>
+		<td>
+			<a href="https://github.com/MatthieuStigler">
+				<img src="https://avatars.githubusercontent.com/u/108840?s=72&u=cbcddcf77a478032d0b9d6bd52beaa7f678d0f88&v=4" width="24" alt="Avatar of MatthieuStigler"> MatthieuStigler
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#MatthieuStigler">Copy rank badge</a><br/>
+			Matthieu
+		</td>
+		<td>University Of Geneva </td>
+		<td>No Twitter Username</td>
+		<td>Geneva</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>495</td>
+		<td>
+			<a href="https://github.com/ColinFinck">
+				<img src="https://avatars.githubusercontent.com/u/8110912?s=72&u=799a6db0a5ac71de813d0a934d91e35d1cf30b1c&v=4" width="24" alt="Avatar of ColinFinck"> ColinFinck
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ColinFinck">Copy rank badge</a><br/>
+			Colin Finck
+		</td>
+		<td>@osdyne </td>
+		<td>No Twitter Username</td>
+		<td>Greater Zurich Area, Switzerland</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>496</td>
+		<td>
+			<a href="https://github.com/keurfonluu">
+				<img src="https://avatars.githubusercontent.com/u/16566206?s=72&u=68a6c13a7ff4a9a6b50730f29265cc215ca45620&v=4" width="24" alt="Avatar of keurfonluu"> keurfonluu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#keurfonluu">Copy rank badge</a><br/>
+			Keurfon Luu
+		</td>
+		<td>@intera-inc </td>
+		<td>No Twitter Username</td>
+		<td>Wettingen, Switzerland</td>
+		<td>88</td>
+	</tr>
+	<tr>
+		<td>497</td>
+		<td>
+			<a href="https://github.com/imene-swaan">
+				<img src="https://avatars.githubusercontent.com/u/53266529?s=72&u=a97fe4e144d7c2776839cdbe5cb8edda2d89d81b&v=4" width="24" alt="Avatar of imene-swaan"> imene-swaan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#imene-swaan">Copy rank badge</a><br/>
+			Imene KOLLI
+		</td>
+		<td>Center For Digital Health<br/>Interventions<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>498</td>
+		<td>
+			<a href="https://github.com/newsoft">
+				<img src="https://avatars.githubusercontent.com/u/587059?s=72&u=b78bf508bb4406ee23a056e09bb41fd23412794d&v=4" width="24" alt="Avatar of newsoft"> newsoft
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#newsoft">Copy rank badge</a><br/>
+			Nicolas RUFF
+		</td>
+		<td>Google </td>
+		<td><a href="https://twitter.com/newsoft">newsoft</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>86</td>
+	</tr>
+	<tr>
+		<td>499</td>
+		<td>
+			<a href="https://github.com/BafS">
+				<img src="https://avatars.githubusercontent.com/u/588205?s=72&u=8384c5dd7170c6cbe8d7a4ca19b5e33c9878de6c&v=4" width="24" alt="Avatar of BafS"> BafS
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#BafS">Copy rank badge</a><br/>
+			Fabien Salathe
+		</td>
+		<td>@protonmail  </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>500</td>
+		<td>
+			<a href="https://github.com/fzenke">
+				<img src="https://avatars.githubusercontent.com/u/5672284?s=72&u=a2e1cf54927ca093007b1504b07bb080268083ba&v=4" width="24" alt="Avatar of fzenke"> fzenke
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#fzenke">Copy rank badge</a><br/>
+			Friedemann Zenke
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Basel, Switzerland</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>501</td>
+		<td>
+			<a href="https://github.com/droe">
+				<img src="https://avatars.githubusercontent.com/u/749226?s=72&u=eb1e62f532b5403f0874f716d1cd2b4d550c64d2&v=4" width="24" alt="Avatar of droe"> droe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#droe">Copy rank badge</a><br/>
+			Daniel Roethlisberger
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>502</td>
+		<td>
+			<a href="https://github.com/0x6d69636b">
+				<img src="https://avatars.githubusercontent.com/u/13913706?s=72&u=90fb7254092fe0027586c0e9fbedac73f6e5fd54&v=4" width="24" alt="Avatar of 0x6d69636b"> 0x6d69636b
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#0x6d69636b">Copy rank badge</a><br/>
+			Michael Schneider
+		</td>
+		<td>@scipag  </td>
+		<td><a href="https://twitter.com/0x6d69636b">0x6d69636b</a></td>
+		<td>Winterthur, Switzerland</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>503</td>
+		<td>
+			<a href="https://github.com/maxkueng">
+				<img src="https://avatars.githubusercontent.com/u/168709?s=72&v=4" width="24" alt="Avatar of maxkueng"> maxkueng
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#maxkueng">Copy rank badge</a><br/>
+			Max Kueng
+		</td>
+		<td>@smallpdf </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>504</td>
+		<td>
+			<a href="https://github.com/larsyencken">
+				<img src="https://avatars.githubusercontent.com/u/36012?s=72&u=bd419037820614254b497646c4e390eb4028b2d7&v=4" width="24" alt="Avatar of larsyencken"> larsyencken
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#larsyencken">Copy rank badge</a><br/>
+			Lars Yencken
+		</td>
+		<td>Far Ai </td>
+		<td><a href="https://twitter.com/larsyencken">larsyencken</a></td>
+		<td>Geneva, Switzerland</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>505</td>
+		<td>
+			<a href="https://github.com/batiste">
+				<img src="https://avatars.githubusercontent.com/u/66927?s=72&u=87ed236ac44b5fdcd82099124c516679526f93dd&v=4" width="24" alt="Avatar of batiste"> batiste
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#batiste">Copy rank badge</a><br/>
+			Batiste Bieler
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>506</td>
+		<td>
+			<a href="https://github.com/digi604">
+				<img src="https://avatars.githubusercontent.com/u/25490?s=72&u=95e5d3dd0f15a8b671ced2b75dc206ee22bf7693&v=4" width="24" alt="Avatar of digi604"> digi604
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#digi604">Copy rank badge</a><br/>
+			Patrick Lauber
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zürich, Switzerland</td>
-		<td>43</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>507</td>
+		<td>
+			<a href="https://github.com/TannerGilbert">
+				<img src="https://avatars.githubusercontent.com/u/36239763?s=72&u=3ec0f7056b65218677e46c215fd24a7e93a70005&v=4" width="24" alt="Avatar of TannerGilbert"> TannerGilbert
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#TannerGilbert">Copy rank badge</a><br/>
+			Gilbert Tanner
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Tanner__Gilbert">Tanner__Gilbert</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>508</td>
+		<td>
+			<a href="https://github.com/gnebehay">
+				<img src="https://avatars.githubusercontent.com/u/756433?s=72&u=785d5ed68fa0ab2b404112c5f1f2e0c45d008230&v=4" width="24" alt="Avatar of gnebehay"> gnebehay
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#gnebehay">Copy rank badge</a><br/>
+			Georg Nebehay
+		</td>
+		<td>Noimos </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>509</td>
+		<td>
+			<a href="https://github.com/katywings">
+				<img src="https://avatars.githubusercontent.com/u/4012401?s=72&u=8fedb88705c415813c9247a30060b82b4807d55d&v=4" width="24" alt="Avatar of katywings"> katywings
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#katywings">Copy rank badge</a><br/>
+			Katja Lutz
+		</td>
+		<td>@lufrai  </td>
+		<td><a href="https://twitter.com/katy_wings">katy_wings</a></td>
+		<td>Switzerland</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>510</td>
+		<td>
+			<a href="https://github.com/decanus">
+				<img src="https://avatars.githubusercontent.com/u/7621705?s=72&u=89d62c14e3040fa6a35f7dc3cdfc92ed6802412c&v=4" width="24" alt="Avatar of decanus"> decanus
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#decanus">Copy rank badge</a><br/>
+			Dean Eigenmann
+		</td>
+		<td>@mantissacapital </td>
+		<td><a href="https://twitter.com/deaneigenmann">deaneigenmann</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>511</td>
+		<td>
+			<a href="https://github.com/AlexEMG">
+				<img src="https://avatars.githubusercontent.com/u/20850270?s=72&u=8ffe5003b46e1e168f574d1cf5e2fd935f21decb&v=4" width="24" alt="Avatar of AlexEMG"> AlexEMG
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#AlexEMG">Copy rank badge</a><br/>
+			Alexander Mathis
+		</td>
+		<td>École Polytechnique Fédérale De<br/>Lausanne<br/>(epfl)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Geneva, CH</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>512</td>
+		<td>
+			<a href="https://github.com/v7b1">
+				<img src="https://avatars.githubusercontent.com/u/13332073?s=72&u=7319a9030470d0a70d430c5ebfbfd46ace3933bc&v=4" width="24" alt="Avatar of v7b1"> v7b1
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#v7b1">Copy rank badge</a><br/>
+			vboehm
+		</td>
+		<td>Elektronisches Studio Basel </td>
+		<td>No Twitter Username</td>
+		<td>Basel, Switzerland</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>513</td>
+		<td>
+			<a href="https://github.com/quantumjim">
+				<img src="https://avatars.githubusercontent.com/u/18051574?s=72&u=1e078657d91243fda971f917558e89beb4c79586&v=4" width="24" alt="Avatar of quantumjim"> quantumjim
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#quantumjim">Copy rank badge</a><br/>
+			James Wootton
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/decodoku">decodoku</a></td>
+		<td>Basel, Switzerland</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>514</td>
+		<td>
+			<a href="https://github.com/bdelacretaz">
+				<img src="https://avatars.githubusercontent.com/u/81101?s=72&u=52635aff784b94122d067ab049b7948992322807&v=4" width="24" alt="Avatar of bdelacretaz"> bdelacretaz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#bdelacretaz">Copy rank badge</a><br/>
+			Bertrand Delacretaz
+		</td>
+		<td>@adobe </td>
+		<td>No Twitter Username</td>
+		<td>Yverdon, Switzerland</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>515</td>
+		<td>
+			<a href="https://github.com/Siguza">
+				<img src="https://avatars.githubusercontent.com/u/1659374?s=72&v=4" width="24" alt="Avatar of Siguza"> Siguza
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Siguza">Copy rank badge</a><br/>
+			Siguza
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>516</td>
+		<td>
+			<a href="https://github.com/beniwohli">
+				<img src="https://avatars.githubusercontent.com/u/93675?s=72&u=7842545dd2cc3f57c38101cc66acfe14ca6ae30d&v=4" width="24" alt="Avatar of beniwohli"> beniwohli
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#beniwohli">Copy rank badge</a><br/>
+			Benjamin Wohlwend
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>517</td>
+		<td>
+			<a href="https://github.com/klmr">
+				<img src="https://avatars.githubusercontent.com/u/38931?s=72&u=ea36bfb644b437cba05b4d20d52d2ddc193112bf&v=4" width="24" alt="Avatar of klmr"> klmr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#klmr">Copy rank badge</a><br/>
+			Konrad Rudolph
+		</td>
+		<td>@roche </td>
+		<td>No Twitter Username</td>
+		<td>Basel, CH</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>518</td>
+		<td>
+			<a href="https://github.com/rawmind0">
+				<img src="https://avatars.githubusercontent.com/u/11555446?s=72&u=a4c56d846887c61677b728409391c65a508e5040&v=4" width="24" alt="Avatar of rawmind0"> rawmind0
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#rawmind0">Copy rank badge</a><br/>
+			Raúl Sánchez
+		</td>
+		<td>Copper </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>519</td>
+		<td>
+			<a href="https://github.com/gannimo">
+				<img src="https://avatars.githubusercontent.com/u/2371964?s=72&u=1ad5736766ffd9f0cb49182ac51f30d093f7a20b&v=4" width="24" alt="Avatar of gannimo"> gannimo
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#gannimo">Copy rank badge</a><br/>
+			Mathias Payer
+		</td>
+		<td>Epfl </td>
+		<td><a href="https://twitter.com/gannimo">gannimo</a></td>
+		<td>Lausanne</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>520</td>
+		<td>
+			<a href="https://github.com/schweikert">
+				<img src="https://avatars.githubusercontent.com/u/1253376?s=72&v=4" width="24" alt="Avatar of schweikert"> schweikert
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#schweikert">Copy rank badge</a><br/>
+			David Schweikert
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>67</td>
+	</tr>
+	<tr>
+		<td>521</td>
+		<td>
+			<a href="https://github.com/weinand">
+				<img src="https://avatars.githubusercontent.com/u/1898161?s=72&u=50978d7137a593fbc95aa5131e39854128e3783b&v=4" width="24" alt="Avatar of weinand"> weinand
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#weinand">Copy rank badge</a><br/>
+			Andre Weinand
+		</td>
+		<td>Microsoft (retired) </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>522</td>
+		<td>
+			<a href="https://github.com/IvanYashchuk">
+				<img src="https://avatars.githubusercontent.com/u/19621411?s=72&u=94b9a9581d78ded1359f726de14cd6f6e2b36ab6&v=4" width="24" alt="Avatar of IvanYashchuk"> IvanYashchuk
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#IvanYashchuk">Copy rank badge</a><br/>
+			Ivan Yashchuk
+		</td>
+		<td>@nvidia </td>
+		<td><a href="https://twitter.com/IvanYashchuk">IvanYashchuk</a></td>
+		<td>Finland | Switzerland</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>523</td>
+		<td>
+			<a href="https://github.com/iosifache">
+				<img src="https://avatars.githubusercontent.com/u/11766982?s=72&u=29817d18aceaa58382a61477de260af5134e502b&v=4" width="24" alt="Avatar of iosifache"> iosifache
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#iosifache">Copy rank badge</a><br/>
+			George-Andrei Iosif
+		</td>
+		<td>@google-deepmind </td>
+		<td><a href="https://twitter.com/iosifache">iosifache</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>524</td>
+		<td>
+			<a href="https://github.com/mehdichaouch">
+				<img src="https://avatars.githubusercontent.com/u/861701?s=72&v=4" width="24" alt="Avatar of mehdichaouch"> mehdichaouch
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mehdichaouch">Copy rank badge</a><br/>
+			Mehdi Chaouch
+		</td>
+		<td>@advocodo @wideagency </td>
+		<td><a href="https://twitter.com/MehdiChch">MehdiChch</a></td>
+		<td>Paris ⇄ Geneva</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>525</td>
+		<td>
+			<a href="https://github.com/SimpleHomelab">
+				<img src="https://avatars.githubusercontent.com/u/7935041?s=72&u=0c727304e9ab394bae529aea0dd87f54b76f3712&v=4" width="24" alt="Avatar of SimpleHomelab"> SimpleHomelab
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#SimpleHomelab">Copy rank badge</a><br/>
+			SimpleHomelab
+		</td>
+		<td>Htpcbeginner Llc </td>
+		<td><a href="https://twitter.com/SimpleHomelab">SimpleHomelab</a></td>
+		<td>Lausanne, Switzerland</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>526</td>
+		<td>
+			<a href="https://github.com/franciscozorrilla">
+				<img src="https://avatars.githubusercontent.com/u/35606471?s=72&u=d6ae7a68d27da8656e9f25de4b5761faa1be2e1e&v=4" width="24" alt="Avatar of franciscozorrilla"> franciscozorrilla
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#franciscozorrilla">Copy rank badge</a><br/>
+			Francisco Zorrilla
+		</td>
+		<td>Eth Zürich </td>
+		<td><a href="https://twitter.com/metagenomez">metagenomez</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>527</td>
+		<td>
+			<a href="https://github.com/vhf">
+				<img src="https://avatars.githubusercontent.com/u/2022803?s=72&u=803d3a03e92d783845385dfb48a14631921a6cc3&v=4" width="24" alt="Avatar of vhf"> vhf
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#vhf">Copy rank badge</a><br/>
+			victor felder
+		</td>
+		<td>@objkt-com  </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>528</td>
+		<td>
+			<a href="https://github.com/cloudhead">
+				<img src="https://avatars.githubusercontent.com/u/40774?s=72&v=4" width="24" alt="Avatar of cloudhead"> cloudhead
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#cloudhead">Copy rank badge</a><br/>
+			Alexis Sellier
+		</td>
+		<td>Pierre </td>
+		<td><a href="https://twitter.com/cloudhead">cloudhead</a></td>
+		<td>Switzerland</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>529</td>
+		<td>
+			<a href="https://github.com/franko">
+				<img src="https://avatars.githubusercontent.com/u/433545?s=72&v=4" width="24" alt="Avatar of franko"> franko
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#franko">Copy rank badge</a><br/>
+			Francesco Abbate
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bienne, Switzerland</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>530</td>
+		<td>
+			<a href="https://github.com/otvam">
+				<img src="https://avatars.githubusercontent.com/u/24779927?s=72&u=27592182c9a47c06d212ee8cba3211ab5872e52a&v=4" width="24" alt="Avatar of otvam"> otvam
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#otvam">Copy rank badge</a><br/>
+			Thomas Guillod
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>531</td>
+		<td>
+			<a href="https://github.com/xrdevrob">
+				<img src="https://avatars.githubusercontent.com/u/88709627?s=72&u=aede0e40e4c27906d536ff7b9ecc24d9276566b1&v=4" width="24" alt="Avatar of xrdevrob"> xrdevrob
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#xrdevrob">Copy rank badge</a><br/>
+			Roberto Coviello
+		</td>
+		<td>Meta </td>
+		<td><a href="https://twitter.com/xrdevrob">xrdevrob</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>532</td>
+		<td>
+			<a href="https://github.com/atcbosselut">
+				<img src="https://avatars.githubusercontent.com/u/4792302?s=72&u=2fc948c3dde929cf2ba01f37afc2b91623f80d61&v=4" width="24" alt="Avatar of atcbosselut"> atcbosselut
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#atcbosselut">Copy rank badge</a><br/>
+			Antoine Bosselut
+		</td>
+		<td>Epfl </td>
+		<td><a href="https://twitter.com/ABosselut">ABosselut</a></td>
+		<td>Lausanne</td>
+		<td>59</td>
+	</tr>
+	<tr>
+		<td>533</td>
+		<td>
+			<a href="https://github.com/Zhaozixiang1228">
+				<img src="https://avatars.githubusercontent.com/u/44187438?s=72&u=37963c9e750070b7e755ea75261f72774485bac4&v=4" width="24" alt="Avatar of Zhaozixiang1228"> Zhaozixiang1228
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Zhaozixiang1228">Copy rank badge</a><br/>
+			Zixiang Zhao
+		</td>
+		<td>Eth Zürich </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>534</td>
+		<td>
+			<a href="https://github.com/Chasel-Tsui">
+				<img src="https://avatars.githubusercontent.com/u/52711765?s=72&u=399b746131299391b049cf89696bb5c752b6a6fd&v=4" width="24" alt="Avatar of Chasel-Tsui"> Chasel-Tsui
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Chasel-Tsui">Copy rank badge</a><br/>
+			Chang Xu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lausanne</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>535</td>
+		<td>
+			<a href="https://github.com/gasi">
+				<img src="https://avatars.githubusercontent.com/u/49583?s=72&u=77de87660afd96f0d683bf6cf440b34f7377b92e&v=4" width="24" alt="Avatar of gasi"> gasi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#gasi">Copy rank badge</a><br/>
+			Daniel Gasienica
+		</td>
+		<td>Collegevine / Iet </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>536</td>
+		<td>
+			<a href="https://github.com/nilq">
+				<img src="https://avatars.githubusercontent.com/u/8659021?s=72&u=09d13c10b6a0500392d26e98ddbbcc971e3dce73&v=4" width="24" alt="Avatar of nilq"> nilq
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nilq">Copy rank badge</a><br/>
+			Niels Horn
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>537</td>
+		<td>
+			<a href="https://github.com/LFYSec">
+				<img src="https://avatars.githubusercontent.com/u/33030694?s=72&u=91213a6f1df61394ded5a8e95add091e2396ab6b&v=4" width="24" alt="Avatar of LFYSec"> LFYSec
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#LFYSec">Copy rank badge</a><br/>
+			LFY
+		</td>
+		<td>Postdoc@eth, Phd@fdu </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>538</td>
+		<td>
+			<a href="https://github.com/alexarnimueller">
+				<img src="https://avatars.githubusercontent.com/u/22800544?s=72&u=54ece7144a1b682f90cc08a1fc807d5aeb16eafb&v=4" width="24" alt="Avatar of alexarnimueller"> alexarnimueller
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#alexarnimueller">Copy rank badge</a><br/>
+			Alex Müller
+		</td>
+		<td>Novartis </td>
+		<td>No Twitter Username</td>
+		<td>Basel, Switzerland</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>539</td>
+		<td>
+			<a href="https://github.com/matthias-research">
+				<img src="https://avatars.githubusercontent.com/u/19547164?s=72&u=3816e3eeb9b1691b2a7b9b5ef2b6b9b4afb1d636&v=4" width="24" alt="Avatar of matthias-research"> matthias-research
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#matthias-research">Copy rank badge</a><br/>
+			Matthias Müller
+		</td>
+		<td>Nvidia </td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>540</td>
+		<td>
+			<a href="https://github.com/csguoh">
+				<img src="https://avatars.githubusercontent.com/u/68777880?s=72&u=fc3268a0876896ebdb66f2e6ac0ae48dd9514232&v=4" width="24" alt="Avatar of csguoh"> csguoh
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#csguoh">Copy rank badge</a><br/>
+			Hang Guo
+		</td>
+		<td>Epfl </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>541</td>
+		<td>
+			<a href="https://github.com/helenol">
+				<img src="https://avatars.githubusercontent.com/u/5616392?s=72&u=caca9b7dc7e5e1583fb70070b0dd8a30f16d75d2&v=4" width="24" alt="Avatar of helenol"> helenol
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#helenol">Copy rank badge</a><br/>
+			Helen Oleynikova
+		</td>
+		<td>@exclaim-robotics  </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>52</td>
 	</tr>
 	<tr>
 		<td>542</td>
 		<td>
+			<a href="https://github.com/pimvanpelt">
+				<img src="https://avatars.githubusercontent.com/u/8853821?s=72&u=f7621a01a2ad04a4f9a0accf9ed8b5d0c84e5777&v=4" width="24" alt="Avatar of pimvanpelt"> pimvanpelt
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pimvanpelt">Copy rank badge</a><br/>
+			Pim van Pelt
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>543</td>
+		<td>
+			<a href="https://github.com/jessevdk">
+				<img src="https://avatars.githubusercontent.com/u/14469?s=72&u=3ef677ffe305c25b1834985799af39cc1aa6160b&v=4" width="24" alt="Avatar of jessevdk"> jessevdk
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jessevdk">Copy rank badge</a><br/>
+			Jesse van den Kieboom
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lausanne</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>544</td>
+		<td>
+			<a href="https://github.com/hrzn">
+				<img src="https://avatars.githubusercontent.com/u/4806678?s=72&v=4" width="24" alt="Avatar of hrzn"> hrzn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#hrzn">Copy rank badge</a><br/>
+			Julien Herzen
+		</td>
+		<td>@isomorphiclabs </td>
+		<td><a href="https://twitter.com/jlhrzn">jlhrzn</a></td>
+		<td>Switzerland</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>545</td>
+		<td>
+			<a href="https://github.com/chenguokai">
+				<img src="https://avatars.githubusercontent.com/u/11240171?s=72&u=21e908f34f97a2575f27a39f935482a1f8e73434&v=4" width="24" alt="Avatar of chenguokai"> chenguokai
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#chenguokai">Copy rank badge</a><br/>
+			Xim
+		</td>
+		<td>Epfl </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<td>546</td>
+		<td>
+			<a href="https://github.com/ZinggJM">
+				<img src="https://avatars.githubusercontent.com/u/26374637?s=72&u=6a41d90942216f17397c96cd4b11444dc2accd1e&v=4" width="24" alt="Avatar of ZinggJM"> ZinggJM
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ZinggJM">Copy rank badge</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>547</td>
+		<td>
+			<a href="https://github.com/RobertCsordas">
+				<img src="https://avatars.githubusercontent.com/u/2706617?s=72&u=6530d04d2ef23b26cbf34b844a6dd7fa38d9526c&v=4" width="24" alt="Avatar of RobertCsordas"> RobertCsordas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#RobertCsordas">Copy rank badge</a><br/>
+			Csordás Róbert
+		</td>
+		<td>Lugano </td>
+		<td><a href="https://twitter.com/robert_csordas">robert_csordas</a></td>
+		<td>Switzerland</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>548</td>
+		<td>
+			<a href="https://github.com/kphillpotts">
+				<img src="https://avatars.githubusercontent.com/u/1327346?s=72&u=2e0b0d28cd9c1c36653f8acbc10c047641819792&v=4" width="24" alt="Avatar of kphillpotts"> kphillpotts
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#kphillpotts">Copy rank badge</a><br/>
+			Kym Phillpotts
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Geneva, Switzerland</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>549</td>
+		<td>
+			<a href="https://github.com/jonhue">
+				<img src="https://avatars.githubusercontent.com/u/13420273?s=72&u=bb2282aa96b3bb3ab46dfea19944ce6152b8b62e&v=4" width="24" alt="Avatar of jonhue"> jonhue
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jonhue">Copy rank badge</a><br/>
+			Jonas Hübotter
+		</td>
+		<td>Phd Student At Eth<br/>Zürich<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>550</td>
+		<td>
+			<a href="https://github.com/Zzh2000">
+				<img src="https://avatars.githubusercontent.com/u/13914052?s=72&v=4" width="24" alt="Avatar of Zzh2000"> Zzh2000
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Zzh2000">Copy rank badge</a><br/>
+			Zihan Zhu
+		</td>
+		<td> Eth Zurich </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>551</td>
+		<td>
+			<a href="https://github.com/aloistr">
+				<img src="https://avatars.githubusercontent.com/u/18054955?s=72&u=166e7cbd2844f9fe23f25f0a93446349e6448067&v=4" width="24" alt="Avatar of aloistr"> aloistr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#aloistr">Copy rank badge</a><br/>
+			Alois Treindl
+		</td>
+		<td>Astrodienst Ag </td>
+		<td><a href="https://twitter.com/atreindl">atreindl</a></td>
+		<td>Zollikon, Switzerland</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>552</td>
+		<td>
+			<a href="https://github.com/mhauri">
+				<img src="https://avatars.githubusercontent.com/u/402069?s=72&u=3822bdb84fba519818f3cfd213f210338b3ba23a&v=4" width="24" alt="Avatar of mhauri"> mhauri
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mhauri">Copy rank badge</a><br/>
+			Marcel Hauri
+		</td>
+		<td>@diemobiliar </td>
+		<td>No Twitter Username</td>
+		<td>Bern, Switzerland</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>553</td>
+		<td>
+			<a href="https://github.com/sergeyprokudin">
+				<img src="https://avatars.githubusercontent.com/u/8117267?s=72&u=09edc4d343eb77ee0bf09689a71b3411aa3ae6d9&v=4" width="24" alt="Avatar of sergeyprokudin"> sergeyprokudin
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#sergeyprokudin">Copy rank badge</a><br/>
+			Sergey Prokudin
+		</td>
+		<td>Eth Zürich </td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>554</td>
+		<td>
 			<a href="https://github.com/osanseviero">
 				<img src="https://avatars.githubusercontent.com/u/7246357?s=72&u=8969cbaf56e9199ded52864aa7c3656bc695ac7e&v=4" width="24" alt="Avatar of osanseviero"> osanseviero
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#osanseviero">Copy rank badge</a><br/>
 			Omar Sanseviero
 		</td>
 		<td>Google </td>
 		<td><a href="https://twitter.com/osanseviero">osanseviero</a></td>
 		<td>Zürich</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>555</td>
+		<td>
+			<a href="https://github.com/delroth">
+				<img src="https://avatars.githubusercontent.com/u/202798?s=72&u=469de9e50069f6829d428ced6ffa045736cf979b&v=4" width="24" alt="Avatar of delroth"> delroth
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#delroth">Copy rank badge</a><br/>
+			Pierre Bourdon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>556</td>
+		<td>
+			<a href="https://github.com/karolzak">
+				<img src="https://avatars.githubusercontent.com/u/9843623?s=72&u=16a3f755d9a32d102687bcb176aba40734beab19&v=4" width="24" alt="Avatar of karolzak"> karolzak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#karolzak">Copy rank badge</a><br/>
+			Karol Żak
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>557</td>
+		<td>
+			<a href="https://github.com/ofsoundof">
+				<img src="https://avatars.githubusercontent.com/u/32467961?s=72&u=4320befcaf9cb6101bae8471210f47eeaea793ec&v=4" width="24" alt="Avatar of ofsoundof"> ofsoundof
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ofsoundof">Copy rank badge</a><br/>
+			Yawei Li
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>558</td>
+		<td>
+			<a href="https://github.com/joepetrowski">
+				<img src="https://avatars.githubusercontent.com/u/25483142?s=72&v=4" width="24" alt="Avatar of joepetrowski"> joepetrowski
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#joepetrowski">Copy rank badge</a><br/>
+			joe petrowski
+		</td>
+		<td>@paritytech  </td>
+		<td>No Twitter Username</td>
+		<td>Zug, Switzerland</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>559</td>
+		<td>
+			<a href="https://github.com/ParthS007">
+				<img src="https://avatars.githubusercontent.com/u/24358501?s=72&u=9ba2e47a16446c85658e1dc0d877f0cc78c96503&v=4" width="24" alt="Avatar of ParthS007"> ParthS007
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ParthS007">Copy rank badge</a><br/>
+			Parth Shandilya
+		</td>
+		<td>Kadoa </td>
+		<td>No Twitter Username</td>
+		<td>Basel</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>560</td>
 		<td>
 			<a href="https://github.com/jponttuset">
 				<img src="https://avatars.githubusercontent.com/u/4990362?s=72&u=d9b95114908939a9051e7bddde306791285a9841&v=4" width="24" alt="Avatar of jponttuset"> jponttuset
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jponttuset">Copy rank badge</a><br/>
 			Jordi Pont-Tuset
 		</td>
 		<td>@google  </td>
 		<td>No Twitter Username</td>
 		<td>Zürich</td>
-		<td>42</td>
-	</tr>
-	<tr>
-		<td>544</td>
-		<td>
-			<a href="https://github.com/getflourish">
-				<img src="https://avatars.githubusercontent.com/u/183989?s=72&u=1813c0279e619cdf940fcdf2e81b1d56a3722bd2&v=4" width="24" alt="Avatar of getflourish"> getflourish
-			</a><br/>
-			Florian Schulz
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/getflourish">getflourish</a></td>
-		<td>Zürich</td>
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>561</td>
+		<td>
+			<a href="https://github.com/lupas">
+				<img src="https://avatars.githubusercontent.com/u/4020037?s=72&u=94e34eea31be57ee1e5f39e71b14e3f2e443902d&v=4" width="24" alt="Avatar of lupas"> lupas
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#lupas">Copy rank badge</a><br/>
+			Pascal Luther
+		</td>
+		<td>Gymplify Gmbh </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>562</td>
+		<td>
+			<a href="https://github.com/hypnopump">
+				<img src="https://avatars.githubusercontent.com/u/16491423?s=72&u=d642d2840575c5b4e41b7cccc8f227d117ea81f6&v=4" width="24" alt="Avatar of hypnopump"> hypnopump
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#hypnopump">Copy rank badge</a><br/>
+			Eric Alcaide
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/eric_alcaide">eric_alcaide</a></td>
+		<td>Switzerland</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>563</td>
 		<td>
 			<a href="https://github.com/jacekschae">
 				<img src="https://avatars.githubusercontent.com/u/31179812?s=72&u=bd9045c8c27964144f237077ff63cb9b612c8474&v=4" width="24" alt="Avatar of jacekschae"> jacekschae
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jacekschae">Copy rank badge</a><br/>
 			Jacek Schæ
 		</td>
 		<td>@clojurestream  </td>
@@ -7190,24 +7426,63 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>546</td>
+		<td>564</td>
 		<td>
-			<a href="https://github.com/liamsi">
-				<img src="https://avatars.githubusercontent.com/u/7441766?s=72&u=48d8dd5d37b5545455c90055d49c84199a0b16f2&v=4" width="24" alt="Avatar of liamsi"> liamsi
-			</a><br/>
-			Ismail Khoffi
+			<a href="https://github.com/SamirTalwar">
+				<img src="https://avatars.githubusercontent.com/u/47582?s=72&u=1af610b0f1c09465a01ac0b3ce749ebc7386ae36&v=4" width="24" alt="Avatar of SamirTalwar"> SamirTalwar
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#SamirTalwar">Copy rank badge</a><br/>
+			Samir Talwar
 		</td>
-		<td>@celestiaorg </td>
-		<td><a href="https://twitter.com/KreuzUQuer">KreuzUQuer</a></td>
-		<td>UK / Germany / Switzerland</td>
-		<td>39</td>
+		<td>@tweag </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>40</td>
 	</tr>
 	<tr>
-		<td>547</td>
+		<td>565</td>
+		<td>
+			<a href="https://github.com/gbaman">
+				<img src="https://avatars.githubusercontent.com/u/833193?s=72&v=4" width="24" alt="Avatar of gbaman"> gbaman
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#gbaman">Copy rank badge</a><br/>
+			Andrew Mulholland
+		</td>
+		<td>Institut Le Rosey /<br/>@causewaydigital<br/></td>
+		<td><a href="https://twitter.com/gbaman1">gbaman1</a></td>
+		<td>Geneva / Belfast / London</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>566</td>
+		<td>
+			<a href="https://github.com/hggeorgiev">
+				<img src="https://avatars.githubusercontent.com/u/6340189?s=72&u=85e06abf61492e1b5e006ae9e30bba2cfa672e9d&v=4" width="24" alt="Avatar of hggeorgiev"> hggeorgiev
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#hggeorgiev">Copy rank badge</a><br/>
+			Hristo Georgiev
+		</td>
+		<td>Ethz </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>567</td>
+		<td>
+			<a href="https://github.com/iRath96">
+				<img src="https://avatars.githubusercontent.com/u/424490?s=72&u=8e94d415fad68cccaad0a891d818a0b638c8468f&v=4" width="24" alt="Avatar of iRath96"> iRath96
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#iRath96">Copy rank badge</a><br/>
+			Alex
+		</td>
+		<td>@disneyresearch </td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/rodrigob">
 				<img src="https://avatars.githubusercontent.com/u/65367?s=72&v=4" width="24" alt="Avatar of rodrigob"> rodrigob
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#rodrigob">Copy rank badge</a><br/>
 			Rodrigo Benenson
 		</td>
 		<td>No Company</td>
@@ -7216,11 +7491,76 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>548</td>
+		<td>569</td>
+		<td>
+			<a href="https://github.com/Janik-Haag">
+				<img src="https://avatars.githubusercontent.com/u/80165193?s=72&u=1993d9b2f2109748d581101fe2917647306d95cc&v=4" width="24" alt="Avatar of Janik-Haag"> Janik-Haag
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Janik-Haag">Copy rank badge</a><br/>
+			Janik
+		</td>
+		<td>@imc-trading </td>
+		<td>No Twitter Username</td>
+		<td>Zug, Switzerland</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>570</td>
+		<td>
+			<a href="https://github.com/gavofyork">
+				<img src="https://avatars.githubusercontent.com/u/138296?s=72&u=4057698f557eb8d5cae19fdfea0c91f1a69ace49&v=4" width="24" alt="Avatar of gavofyork"> gavofyork
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#gavofyork">Copy rank badge</a><br/>
+			Gavin Wood
+		</td>
+		<td>Parity & Polkadot </td>
+		<td>No Twitter Username</td>
+		<td>Zug, Switzerland</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>571</td>
+		<td>
+			<a href="https://github.com/fabian">
+				<img src="https://avatars.githubusercontent.com/u/13346?s=72&v=4" width="24" alt="Avatar of fabian"> fabian
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#fabian">Copy rank badge</a><br/>
+			Fabian Vogler
+		</td>
+		<td>@worldskills International </td>
+		<td>No Twitter Username</td>
+		<td>Baden, Switzerland</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>572</td>
+		<td>
+			<a href="https://github.com/nicoboss">
+				<img src="https://avatars.githubusercontent.com/u/623410?s=72&u=cb564e7a135f7c43a37367b328ddfc642979e151&v=4" width="24" alt="Avatar of nicoboss"> nicoboss
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nicoboss">Copy rank badge</a><br/>
+			Nico Bosshard
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>573</td>
+		<td>
+			<a href="https://github.com/chrisglass">
+				<img src="https://avatars.githubusercontent.com/u/25211?s=72&u=385db5e85f6b6789e3ac8916dc5eba63086f142a&v=4" width="24" alt="Avatar of chrisglass"> chrisglass
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#chrisglass">Copy rank badge</a><br/>
+			Chris Glass
+		</td>
+		<td>Swisslife Asset Managers </td>
+		<td>No Twitter Username</td>
+		<td>Bern, Switzerland</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/floyd-fuh">
 				<img src="https://avatars.githubusercontent.com/u/1428689?s=72&u=ad4079d17be9848c6dbd57275e25720c14e61eca&v=4" width="24" alt="Avatar of floyd-fuh"> floyd-fuh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#floyd-fuh">Copy rank badge</a><br/>
 			floyd
 		</td>
 		<td>Pentagrid Ag </td>
@@ -7229,297 +7569,245 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>575</td>
 		<td>
-			<a href="https://github.com/kensanata">
-				<img src="https://avatars.githubusercontent.com/u/1145712?s=72&u=8581891b40cef20cd7ebb7e65ab9a26c0b03a4a6&v=4" width="24" alt="Avatar of kensanata"> kensanata
-			</a><br/>
-			Alex Schroeder
+			<a href="https://github.com/LittleAprilFool">
+				<img src="https://avatars.githubusercontent.com/u/5129786?s=72&u=8062ba88f63798c5073e1e05332df672c0787027&v=4" width="24" alt="Avatar of LittleAprilFool"> LittleAprilFool
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#LittleAprilFool">Copy rank badge</a><br/>
+			April Yi Wang
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
+		<td>Zürich</td>
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>576</td>
 		<td>
-			<a href="https://github.com/hypnopump">
-				<img src="https://avatars.githubusercontent.com/u/16491423?s=72&u=11b177727d9e8ba20c5409d58f8b15e70318e989&v=4" width="24" alt="Avatar of hypnopump"> hypnopump
-			</a><br/>
-			Eric Alcaide
+			<a href="https://github.com/romkatv">
+				<img src="https://avatars.githubusercontent.com/u/1282067?s=72&u=4e6e9bb432f7b5502008624ca3bb3f28cc15ff52&v=4" width="24" alt="Avatar of romkatv"> romkatv
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#romkatv">Copy rank badge</a><br/>
+			Roman Perepelitsa
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/eric_alcaide">eric_alcaide</a></td>
+		<td><a href="https://twitter.com/romkatv">romkatv</a></td>
 		<td>Switzerland</td>
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>577</td>
 		<td>
-			<a href="https://github.com/chrisglass">
-				<img src="https://avatars.githubusercontent.com/u/25211?s=72&u=385db5e85f6b6789e3ac8916dc5eba63086f142a&v=4" width="24" alt="Avatar of chrisglass"> chrisglass
-			</a><br/>
-			Chris Glass
+			<a href="https://github.com/mdeff">
+				<img src="https://avatars.githubusercontent.com/u/6806065?s=72&u=7b2621ff9c9130d29668f1f8d0944fef111106a8&v=4" width="24" alt="Avatar of mdeff"> mdeff
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mdeff">Copy rank badge</a><br/>
+			Michaël Defferrard
 		</td>
-		<td>Swisslife Asset Managers </td>
-		<td>No Twitter Username</td>
-		<td>Bern, Switzerland</td>
+		<td>Qualcomm Ai Research </td>
+		<td><a href="https://twitter.com/m_deff">m_deff</a></td>
+		<td>Switzerland</td>
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>578</td>
 		<td>
-			<a href="https://github.com/kphillpotts">
-				<img src="https://avatars.githubusercontent.com/u/1327346?s=72&u=2e0b0d28cd9c1c36653f8acbc10c047641819792&v=4" width="24" alt="Avatar of kphillpotts"> kphillpotts
-			</a><br/>
-			Kym Phillpotts
+			<a href="https://github.com/nicolastinkl">
+				<img src="https://avatars.githubusercontent.com/u/1518588?s=72&u=d058c3ae2bd24c0bbaedee29093bada48f470bcd&v=4" width="24" alt="Avatar of nicolastinkl"> nicolastinkl
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nicolastinkl">Copy rank badge</a><br/>
+			Zeus
 		</td>
-		<td>Microsoft </td>
+		<td>Quantity </td>
 		<td>No Twitter Username</td>
-		<td>Geneva, Switzerland</td>
-		<td>35</td>
+		<td>Switzerland</td>
+		<td>36</td>
 	</tr>
 	<tr>
-		<td>553</td>
+		<td>579</td>
 		<td>
-			<a href="https://github.com/htqin">
-				<img src="https://avatars.githubusercontent.com/u/24933988?s=72&u=850085b02e2d303f265423b850ce11e180c0850f&v=4" width="24" alt="Avatar of htqin"> htqin
-			</a><br/>
-			Haotong Qin
-		</td>
-		<td>Eth Zurich </td>
-		<td><a href="https://twitter.com/qin_haotong">qin_haotong</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>554</td>
-		<td>
-			<a href="https://github.com/mirek">
-				<img src="https://avatars.githubusercontent.com/u/8561?s=72&u=6e33350853b1a22ad33820cc11975edeb5e510d3&v=4" width="24" alt="Avatar of mirek"> mirek
-			</a><br/>
-			Mirek Rusin
-		</td>
-		<td>@appliedblockchain  </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>555</td>
-		<td>
-			<a href="https://github.com/etienne-napoleone">
-				<img src="https://avatars.githubusercontent.com/u/26155267?s=72&u=4787cb44bee8f92557fcd73834fc825361264983&v=4" width="24" alt="Avatar of etienne-napoleone"> etienne-napoleone
-			</a><br/>
-			Etienne Napoleone
-		</td>
-		<td>👀 </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>556</td>
-		<td>
-			<a href="https://github.com/progschj">
-				<img src="https://avatars.githubusercontent.com/u/1257680?s=72&v=4" width="24" alt="Avatar of progschj"> progschj
-			</a><br/>
-			Jakob Progsch
+			<a href="https://github.com/lvandeve">
+				<img src="https://avatars.githubusercontent.com/u/4254201?s=72&v=4" width="24" alt="Avatar of lvandeve"> lvandeve
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#lvandeve">Copy rank badge</a><br/>
+			Lode Vandevenne
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>557</td>
-		<td>
-			<a href="https://github.com/ststeiger">
-				<img src="https://avatars.githubusercontent.com/u/294085?s=72&u=fb9ab2f33202012ff36a7b1fbd2fd3f83c0cb167&v=4" width="24" alt="Avatar of ststeiger"> ststeiger
-			</a><br/>
-			Stefan Steiger
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>558</td>
-		<td>
-			<a href="https://github.com/BrianPulfer">
-				<img src="https://avatars.githubusercontent.com/u/42559439?s=72&u=e7c0e00a9dbd0292d710481fbc112c0074613bb4&v=4" width="24" alt="Avatar of BrianPulfer"> BrianPulfer
-			</a><br/>
-			Peutlefaire
-		</td>
-		<td>Unige - University Of<br/>Geneva<br/></td>
-		<td><a href="https://twitter.com/peutlefaire">peutlefaire</a></td>
-		<td>Geneva, Switzerland</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>559</td>
-		<td>
-			<a href="https://github.com/raducotescu">
-				<img src="https://avatars.githubusercontent.com/u/170911?s=72&u=c28f9f9b348b2bed987f4f41c0363fe96a5bba59&v=4" width="24" alt="Avatar of raducotescu"> raducotescu
-			</a><br/>
-			Radu Cotescu
-		</td>
-		<td>@adobe, @apache </td>
-		<td>No Twitter Username</td>
-		<td>Basel, Switzerland</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>560</td>
-		<td>
-			<a href="https://github.com/lvwerra">
-				<img src="https://avatars.githubusercontent.com/u/8264887?s=72&u=1e170968669fc1f852d3d122d65e8ff528f3d878&v=4" width="24" alt="Avatar of lvwerra"> lvwerra
-			</a><br/>
-			Leandro von Werra
-		</td>
-		<td>@huggingface  </td>
-		<td><a href="https://twitter.com/lvwerra">lvwerra</a></td>
-		<td>Bern, Switzerland</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>561</td>
-		<td>
-			<a href="https://github.com/NicoFilips">
-				<img src="https://avatars.githubusercontent.com/u/35654361?s=72&u=b2742b20b72cfff24c4e9fc27eccb83818d34abc&v=4" width="24" alt="Avatar of NicoFilips"> NicoFilips
-			</a><br/>
-			Nico F.
-		</td>
-		<td>@cminformatik </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>562</td>
-		<td>
-			<a href="https://github.com/Janik-Haag">
-				<img src="https://avatars.githubusercontent.com/u/80165193?s=72&u=1993d9b2f2109748d581101fe2917647306d95cc&v=4" width="24" alt="Avatar of Janik-Haag"> Janik-Haag
-			</a><br/>
-			Janik
-		</td>
-		<td>@imc-trading </td>
-		<td>No Twitter Username</td>
-		<td>Zug, Switzerland</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>563</td>
-		<td>
-			<a href="https://github.com/hmarr">
-				<img src="https://avatars.githubusercontent.com/u/110275?s=72&u=2f8e20550817ba52e25fdbc259f9aeb3273961f9&v=4" width="24" alt="Avatar of hmarr"> hmarr
-			</a><br/>
-			Harry Marr
-		</td>
-		<td>Anthropic </td>
-		<td><a href="https://twitter.com/harrymarr">harrymarr</a></td>
 		<td>Zurich, Switzerland</td>
-		<td>32</td>
+		<td>35</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>580</td>
 		<td>
-			<a href="https://github.com/severinlandolt">
-				<img src="https://avatars.githubusercontent.com/u/41927988?s=72&u=01cf9215908e032649d3e35f045eceb90d92b8b0&v=4" width="24" alt="Avatar of severinlandolt"> severinlandolt
-			</a><br/>
-			Severin Landolt
+			<a href="https://github.com/kward">
+				<img src="https://avatars.githubusercontent.com/u/116626?s=72&v=4" width="24" alt="Avatar of kward"> kward
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#kward">Copy rank badge</a><br/>
+			Kate Ward
 		</td>
-		<td>Vercel </td>
-		<td><a href="https://twitter.com/severinlandolt">severinlandolt</a></td>
-		<td>Switzerland</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>581</td>
+		<td>
+			<a href="https://github.com/bufferoverflow">
+				<img src="https://avatars.githubusercontent.com/u/378909?s=72&u=f3b23560ee65448f0d2a462041cdff4d3d1fcec2&v=4" width="24" alt="Avatar of bufferoverflow"> bufferoverflow
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#bufferoverflow">Copy rank badge</a><br/>
+			Roger Meier
+		</td>
+		<td>Siemens </td>
+		<td>No Twitter Username</td>
+		<td>Greifensee, Zürich, Switzerland</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>582</td>
+		<td>
+			<a href="https://github.com/julienrf">
+				<img src="https://avatars.githubusercontent.com/u/332812?s=72&u=d3e42fccead10906cf077e30195ea7ba672307ef&v=4" width="24" alt="Avatar of julienrf"> julienrf
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#julienrf">Copy rank badge</a><br/>
+			Julien Richard-Foy
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/julienrf">julienrf</a></td>
+		<td>Lausanne, Suisse</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>583</td>
+		<td>
+			<a href="https://github.com/visini">
+				<img src="https://avatars.githubusercontent.com/u/10230606?s=72&u=c377d2c05fb06aa41b9a263d8fd424b1dc960b72&v=4" width="24" alt="Avatar of visini"> visini
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#visini">Copy rank badge</a><br/>
+			Camillo Visini
+		</td>
+		<td>@reflekt-ai </td>
+		<td><a href="https://twitter.com/camillovisini">camillovisini</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>584</td>
+		<td>
+			<a href="https://github.com/fabianp">
+				<img src="https://avatars.githubusercontent.com/u/277639?s=72&u=76b14735220a371f55d0cacf208d6d3aee4deb00&v=4" width="24" alt="Avatar of fabianp"> fabianp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#fabianp">Copy rank badge</a><br/>
+			Fabian Pedregosa
+		</td>
+		<td>@google-deepmind </td>
+		<td><a href="https://twitter.com/fpedregosa">fpedregosa</a></td>
+		<td>Geneva</td>
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>585</td>
 		<td>
-			<a href="https://github.com/nicoboss">
-				<img src="https://avatars.githubusercontent.com/u/623410?s=72&u=cb564e7a135f7c43a37367b328ddfc642979e151&v=4" width="24" alt="Avatar of nicoboss"> nicoboss
-			</a><br/>
-			Nico Bosshard
+			<a href="https://github.com/NMAC427">
+				<img src="https://avatars.githubusercontent.com/u/9914734?s=72&u=b67ff624133cf2e96afde42dffc5e01889a33665&v=4" width="24" alt="Avatar of NMAC427"> NMAC427
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#NMAC427">Copy rank badge</a><br/>
+			Nicolas Camenisch
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>AG, Switzerland</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>586</td>
+		<td>
+			<a href="https://github.com/matteocourthoud">
+				<img src="https://avatars.githubusercontent.com/u/13118625?s=72&u=2fb25c7f83cf86bf6cd9f24c43beae09847f9bab&v=4" width="24" alt="Avatar of matteocourthoud"> matteocourthoud
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#matteocourthoud">Copy rank badge</a><br/>
+			Matteo Courthoud
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>587</td>
+		<td>
+			<a href="https://github.com/ywyue">
+				<img src="https://avatars.githubusercontent.com/u/40747438?s=72&u=b0f2c523b75ac545c51fc14009f802816491bf1c&v=4" width="24" alt="Avatar of ywyue"> ywyue
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ywyue">Copy rank badge</a><br/>
+			Yuanwen Yue
+		</td>
+		<td>Eth Zürich </td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>588</td>
+		<td>
+			<a href="https://github.com/KeanW">
+				<img src="https://avatars.githubusercontent.com/u/1823774?s=72&v=4" width="24" alt="Avatar of KeanW"> KeanW
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#KeanW">Copy rank badge</a><br/>
+			Kean Walmsley
+		</td>
+		<td>Autodesk </td>
+		<td><a href="https://twitter.com/keanw">keanw</a></td>
+		<td>Neuchatel, Switzerland</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>589</td>
+		<td>
+			<a href="https://github.com/OpenCoreCH">
+				<img src="https://avatars.githubusercontent.com/u/11048416?s=72&u=c5167cb3d5335574d1ec89ca133b7def768c5e72&v=4" width="24" alt="Avatar of OpenCoreCH"> OpenCoreCH
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#OpenCoreCH">Copy rank badge</a><br/>
+			Roman Böhringer
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>566</td>
-		<td>
-			<a href="https://github.com/cloudhead">
-				<img src="https://avatars.githubusercontent.com/u/40774?s=72&v=4" width="24" alt="Avatar of cloudhead"> cloudhead
-			</a><br/>
-			Alexis Sellier
-		</td>
-		<td>Pierre </td>
-		<td><a href="https://twitter.com/cloudhead">cloudhead</a></td>
-		<td>Switzerland</td>
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>567</td>
+		<td>590</td>
 		<td>
-			<a href="https://github.com/stefanfoulis">
-				<img src="https://avatars.githubusercontent.com/u/14330?s=72&u=c8c22c51617dd58869e9bd22f4502b0d2f15597c&v=4" width="24" alt="Avatar of stefanfoulis"> stefanfoulis
-			</a><br/>
-			Stefan Foulis
+			<a href="https://github.com/zita-ch">
+				<img src="https://avatars.githubusercontent.com/u/54518250?s=72&u=b433331a90ba16c2a5d33d0ba4a8a01515135bb9&v=4" width="24" alt="Avatar of zita-ch"> zita-ch
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#zita-ch">Copy rank badge</a><br/>
+			zhang chong
 		</td>
-		<td>Sherpany </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>568</td>
-		<td>
-			<a href="https://github.com/julienr">
-				<img src="https://avatars.githubusercontent.com/u/506602?s=72&u=c81cdfa00bdfe146ad43fcab186cd6160d2441c0&v=4" width="24" alt="Avatar of julienr"> julienr
-			</a><br/>
-			Julien Rebetez
-		</td>
-		<td>Picterra </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>569</td>
-		<td>
-			<a href="https://github.com/yakky">
-				<img src="https://avatars.githubusercontent.com/u/714711?s=72&v=4" width="24" alt="Avatar of yakky"> yakky
-			</a><br/>
-			Iacopo Spalletti
-		</td>
-		<td>@nephila  </td>
-		<td><a href="https://twitter.com/yakkys">yakkys</a></td>
-		<td>Firenze, London, Zürich</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>570</td>
-		<td>
-			<a href="https://github.com/karlkurzer">
-				<img src="https://avatars.githubusercontent.com/u/10877966?s=72&u=c43a1d51c9dd892c2e2e1439ccb3df1b3e99a0b2&v=4" width="24" alt="Avatar of karlkurzer"> karlkurzer
-			</a><br/>
-			Karl Kurzer
-		</td>
-		<td>Amazon Web Services (aws)<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>591</td>
+		<td>
+			<a href="https://github.com/sinaahmadi">
+				<img src="https://avatars.githubusercontent.com/u/12765529?s=72&u=bfd93bf1ddc378572b97129132bfc6d460f0438e&v=4" width="24" alt="Avatar of sinaahmadi"> sinaahmadi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#sinaahmadi">Copy rank badge</a><br/>
+			Sina Ahmadi
+		</td>
+		<td>George Mason University </td>
+		<td><a href="https://twitter.com/sina_ahm">sina_ahm</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>592</td>
+		<td>
+			<a href="https://github.com/MarcoSero">
+				<img src="https://avatars.githubusercontent.com/u/867996?s=72&u=2c13da2f697e853268981f60ce6a083c7bc29ab2&v=4" width="24" alt="Avatar of MarcoSero"> MarcoSero
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#MarcoSero">Copy rank badge</a><br/>
+			Marco Sero
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/ZacharyTaylor">
 				<img src="https://avatars.githubusercontent.com/u/730680?s=72&u=913ff94d9e1c7b77d0d3ade0f274b33e39e21f73&v=4" width="24" alt="Avatar of ZacharyTaylor"> ZacharyTaylor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ZacharyTaylor">Copy rank badge</a><br/>
 			Zachary Taylor
 		</td>
 		<td>Asl Ethz </td>
@@ -7528,440 +7816,323 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>594</td>
 		<td>
-			<a href="https://github.com/gasi">
-				<img src="https://avatars.githubusercontent.com/u/49583?s=72&u=77de87660afd96f0d683bf6cf440b34f7377b92e&v=4" width="24" alt="Avatar of gasi"> gasi
-			</a><br/>
-			Daniel Gasienica
+			<a href="https://github.com/octralex">
+				<img src="https://avatars.githubusercontent.com/u/149393679?s=72&u=f400ea222abc9724f10932514155fd80ea981eb6&v=4" width="24" alt="Avatar of octralex"> octralex
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#octralex">Copy rank badge</a><br/>
+			alex
 		</td>
-		<td>Collegevine / Iet </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
+		<td>Octra Labs </td>
+		<td><a href="https://twitter.com/octralex">octralex</a></td>
+		<td>zug, switzerland</td>
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>595</td>
 		<td>
-			<a href="https://github.com/mschrimpf">
-				<img src="https://avatars.githubusercontent.com/u/5308236?s=72&u=b178de2bfb7d8973d010e979b1b91a477776473f&v=4" width="24" alt="Avatar of mschrimpf"> mschrimpf
-			</a><br/>
-			Martin Schrimpf
+			<a href="https://github.com/raducotescu">
+				<img src="https://avatars.githubusercontent.com/u/170911?s=72&u=c28f9f9b348b2bed987f4f41c0363fe96a5bba59&v=4" width="24" alt="Avatar of raducotescu"> raducotescu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#raducotescu">Copy rank badge</a><br/>
+			Radu Cotescu
 		</td>
-		<td>@epfl </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>574</td>
-		<td>
-			<a href="https://github.com/yarrick">
-				<img src="https://avatars.githubusercontent.com/u/1261015?s=72&u=70cce10a4f828ad4f109c0949868846f78478cbd&v=4" width="24" alt="Avatar of yarrick"> yarrick
-			</a><br/>
-			Erik Ekman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>575</td>
-		<td>
-			<a href="https://github.com/jamuhl">
-				<img src="https://avatars.githubusercontent.com/u/977772?s=72&v=4" width="24" alt="Avatar of jamuhl"> jamuhl
-			</a><br/>
-			Jan Mühlemann
-		</td>
-		<td>Locize.com </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>576</td>
-		<td>
-			<a href="https://github.com/bunnech">
-				<img src="https://avatars.githubusercontent.com/u/21307862?s=72&u=670db389bb9780ac71566ac81dc2f470ae9836ee&v=4" width="24" alt="Avatar of bunnech"> bunnech
-			</a><br/>
-			Charlotte Bunne
-		</td>
-		<td>Epfl </td>
-		<td><a href="https://twitter.com/_bunnech">_bunnech</a></td>
-		<td>Lausanne</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>577</td>
-		<td>
-			<a href="https://github.com/ywyue">
-				<img src="https://avatars.githubusercontent.com/u/40747438?s=72&u=b0f2c523b75ac545c51fc14009f802816491bf1c&v=4" width="24" alt="Avatar of ywyue"> ywyue
-			</a><br/>
-			Yuanwen Yue
-		</td>
-		<td>Eth Zürich </td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>578</td>
-		<td>
-			<a href="https://github.com/SamirTalwar">
-				<img src="https://avatars.githubusercontent.com/u/47582?s=72&u=1af610b0f1c09465a01ac0b3ce749ebc7386ae36&v=4" width="24" alt="Avatar of SamirTalwar"> SamirTalwar
-			</a><br/>
-			Samir Talwar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>579</td>
-		<td>
-			<a href="https://github.com/iRath96">
-				<img src="https://avatars.githubusercontent.com/u/424490?s=72&u=8e94d415fad68cccaad0a891d818a0b638c8468f&v=4" width="24" alt="Avatar of iRath96"> iRath96
-			</a><br/>
-			Alex
-		</td>
-		<td>@disneyresearch </td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>580</td>
-		<td>
-			<a href="https://github.com/Juriy">
-				<img src="https://avatars.githubusercontent.com/u/460586?s=72&u=0fb289d16a51210f7424f1bf4a3791de6a993aa2&v=4" width="24" alt="Avatar of Juriy"> Juriy
-			</a><br/>
-			Juriy Bura
-		</td>
-		<td>Juriy.com </td>
-		<td><a href="https://twitter.com/juriy">juriy</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>581</td>
-		<td>
-			<a href="https://github.com/multiOTP">
-				<img src="https://avatars.githubusercontent.com/u/9338189?s=72&u=4e38ff645e8bde92bd1618846efe2a87c49512a5&v=4" width="24" alt="Avatar of multiOTP"> multiOTP
-			</a><br/>
-			multiOTP
-		</td>
-		<td>Sysco Systèmes De Communication<br/>Sa<br/></td>
-		<td>No Twitter Username</td>
-		<td>Neuchâtel, Switzerland</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>582</td>
-		<td>
-			<a href="https://github.com/alexarnimueller">
-				<img src="https://avatars.githubusercontent.com/u/22800544?s=72&u=54ece7144a1b682f90cc08a1fc807d5aeb16eafb&v=4" width="24" alt="Avatar of alexarnimueller"> alexarnimueller
-			</a><br/>
-			Alex Müller
-		</td>
-		<td>Novartis </td>
+		<td>@adobe, @apache </td>
 		<td>No Twitter Username</td>
 		<td>Basel, Switzerland</td>
-		<td>26</td>
+		<td>30</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>596</td>
 		<td>
-			<a href="https://github.com/sergeyprokudin">
-				<img src="https://avatars.githubusercontent.com/u/8117267?s=72&u=09edc4d343eb77ee0bf09689a71b3411aa3ae6d9&v=4" width="24" alt="Avatar of sergeyprokudin"> sergeyprokudin
-			</a><br/>
-			Sergey Prokudin
+			<a href="https://github.com/hmarr">
+				<img src="https://avatars.githubusercontent.com/u/110275?s=72&u=2f8e20550817ba52e25fdbc259f9aeb3273961f9&v=4" width="24" alt="Avatar of hmarr"> hmarr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#hmarr">Copy rank badge</a><br/>
+			Harry Marr
 		</td>
-		<td>Eth Zürich </td>
+		<td>Anthropic </td>
+		<td><a href="https://twitter.com/harrymarr">harrymarr</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>597</td>
+		<td>
+			<a href="https://github.com/senny">
+				<img src="https://avatars.githubusercontent.com/u/5402?s=72&u=15f91ac36b3158fbf4c2a592d4e21039c4f688c3&v=4" width="24" alt="Avatar of senny"> senny
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#senny">Copy rank badge</a><br/>
+			Yves Senn
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>598</td>
+		<td>
+			<a href="https://github.com/X-Wei">
+				<img src="https://avatars.githubusercontent.com/u/1615196?s=72&u=2b5896d3f5fc6a9e948daccb58147f9064ffbcaa&v=4" width="24" alt="Avatar of X-Wei"> X-Wei
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#X-Wei">Copy rank badge</a><br/>
+			xwei
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zürich</td>
-		<td>26</td>
+		<td>29</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>599</td>
 		<td>
-			<a href="https://github.com/NMAC427">
-				<img src="https://avatars.githubusercontent.com/u/9914734?s=72&u=b67ff624133cf2e96afde42dffc5e01889a33665&v=4" width="24" alt="Avatar of NMAC427"> NMAC427
-			</a><br/>
-			Nicolas Camenisch
+			<a href="https://github.com/progschj">
+				<img src="https://avatars.githubusercontent.com/u/1257680?s=72&v=4" width="24" alt="Avatar of progschj"> progschj
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#progschj">Copy rank badge</a><br/>
+			Jakob Progsch
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>AG, Switzerland</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>585</td>
-		<td>
-			<a href="https://github.com/romkatv">
-				<img src="https://avatars.githubusercontent.com/u/1282067?s=72&u=4e6e9bb432f7b5502008624ca3bb3f28cc15ff52&v=4" width="24" alt="Avatar of romkatv"> romkatv
-			</a><br/>
-			Roman Perepelitsa
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/romkatv">romkatv</a></td>
 		<td>Switzerland</td>
-		<td>25</td>
+		<td>28</td>
 	</tr>
 	<tr>
-		<td>586</td>
-		<td>
-			<a href="https://github.com/JuergenGutsch">
-				<img src="https://avatars.githubusercontent.com/u/365688?s=72&u=c2db8f459102fa2915ef936b183673a91a59cde7&v=4" width="24" alt="Avatar of JuergenGutsch"> JuergenGutsch
-			</a><br/>
-			Juergen Gutsch
-		</td>
-		<td>Yoo Ag </td>
-		<td>No Twitter Username</td>
-		<td>Basel CH</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>587</td>
-		<td>
-			<a href="https://github.com/a-r-j">
-				<img src="https://avatars.githubusercontent.com/u/23709768?s=72&v=4" width="24" alt="Avatar of a-r-j"> a-r-j
-			</a><br/>
-			Arian Jamasb
-		</td>
-		<td>University Of Cambridge </td>
-		<td><a href="https://twitter.com/arian_jamasb">arian_jamasb</a></td>
-		<td>Basel</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>588</td>
+		<td>600</td>
 		<td>
 			<a href="https://github.com/muzairkhattak">
 				<img src="https://avatars.githubusercontent.com/u/61704085?s=72&u=3d7c94c1c6ca2f9ea21f7a479564acb6a01b1d94&v=4" width="24" alt="Avatar of muzairkhattak"> muzairkhattak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#muzairkhattak">Copy rank badge</a><br/>
 			Muhammad Uzair Khattak
 		</td>
 		<td>Epfl </td>
 		<td>No Twitter Username</td>
 		<td>Lausanne, Switzerland</td>
-		<td>25</td>
+		<td>28</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>601</td>
 		<td>
-			<a href="https://github.com/zgojcic">
-				<img src="https://avatars.githubusercontent.com/u/31700292?s=72&u=e406fd39f20d7ed848d7a3c71c0aea8be559d4b5&v=4" width="24" alt="Avatar of zgojcic"> zgojcic
-			</a><br/>
-			Zan Gojcic
+			<a href="https://github.com/halflings">
+				<img src="https://avatars.githubusercontent.com/u/1626936?s=72&u=78e611b9b3aed32f6207c74097d63158641280bf&v=4" width="24" alt="Avatar of halflings"> halflings
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#halflings">Copy rank badge</a><br/>
+			Ahmed Kachkach
 		</td>
-		<td>@nvidia </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>25</td>
+		<td>Zürich, Switzerland</td>
+		<td>27</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>602</td>
 		<td>
-			<a href="https://github.com/decanus">
-				<img src="https://avatars.githubusercontent.com/u/7621705?s=72&u=21fd615579f5de92577292c69afe808532a4951c&v=4" width="24" alt="Avatar of decanus"> decanus
-			</a><br/>
-			Dean Eigenmann
+			<a href="https://github.com/westlicht">
+				<img src="https://avatars.githubusercontent.com/u/49278?s=72&u=b80ac5fc5caebeeda37c4594bafdd8b762e2afc1&v=4" width="24" alt="Avatar of westlicht"> westlicht
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#westlicht">Copy rank badge</a><br/>
+			Simon Kallweit
 		</td>
-		<td>@marketsinc </td>
-		<td><a href="https://twitter.com/deaneigenmann">deaneigenmann</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>591</td>
-		<td>
-			<a href="https://github.com/mdeff">
-				<img src="https://avatars.githubusercontent.com/u/6806065?s=72&u=7b2621ff9c9130d29668f1f8d0944fef111106a8&v=4" width="24" alt="Avatar of mdeff"> mdeff
-			</a><br/>
-			Michaël Defferrard
-		</td>
-		<td>Qualcomm Ai Research </td>
-		<td><a href="https://twitter.com/m_deff">m_deff</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>24</td>
+		<td>27</td>
 	</tr>
 	<tr>
-		<td>592</td>
-		<td>
-			<a href="https://github.com/zita-ch">
-				<img src="https://avatars.githubusercontent.com/u/54518250?s=72&u=b433331a90ba16c2a5d33d0ba4a8a01515135bb9&v=4" width="24" alt="Avatar of zita-ch"> zita-ch
-			</a><br/>
-			zhang chong
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>593</td>
-		<td>
-			<a href="https://github.com/fzenke">
-				<img src="https://avatars.githubusercontent.com/u/5672284?s=72&u=a2e1cf54927ca093007b1504b07bb080268083ba&v=4" width="24" alt="Avatar of fzenke"> fzenke
-			</a><br/>
-			Friedemann Zenke
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Basel, Switzerland</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>594</td>
-		<td>
-			<a href="https://github.com/hggeorgiev">
-				<img src="https://avatars.githubusercontent.com/u/6340189?s=72&u=4f376b7a5c5110f2ad4a6ec49e8f0b52e6789be4&v=4" width="24" alt="Avatar of hggeorgiev"> hggeorgiev
-			</a><br/>
-			Hristo Georgiev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>595</td>
-		<td>
-			<a href="https://github.com/ywwywwyww">
-				<img src="https://avatars.githubusercontent.com/u/36836507?s=72&u=e412657f65b1ae5b0a9e4bac1e61761eafc26bf4&v=4" width="24" alt="Avatar of ywwywwyww"> ywwywwyww
-			</a><br/>
-			Wuwei Yuan
-		</td>
-		<td>Eth Zürich </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>596</td>
-		<td>
-			<a href="https://github.com/franciscozorrilla">
-				<img src="https://avatars.githubusercontent.com/u/35606471?s=72&u=d6ae7a68d27da8656e9f25de4b5761faa1be2e1e&v=4" width="24" alt="Avatar of franciscozorrilla"> franciscozorrilla
-			</a><br/>
-			Francisco Zorrilla
-		</td>
-		<td>Eth Zürich </td>
-		<td><a href="https://twitter.com/metagenomez">metagenomez</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>597</td>
-		<td>
-			<a href="https://github.com/floere">
-				<img src="https://avatars.githubusercontent.com/u/3022?s=72&v=4" width="24" alt="Avatar of floere"> floere
-			</a><br/>
-			Florian R. Hanke
-		</td>
-		<td>Sakura Engineering Gmbh </td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>598</td>
-		<td>
-			<a href="https://github.com/Extraltodeus">
-				<img src="https://avatars.githubusercontent.com/u/15731540?s=72&u=a33c2a7d2bb5fd785809a5ec819e7fda6e5841b8&v=4" width="24" alt="Avatar of Extraltodeus"> Extraltodeus
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Geneva, Switzerland</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>599</td>
-		<td>
-			<a href="https://github.com/chenguokai">
-				<img src="https://avatars.githubusercontent.com/u/11240171?s=72&u=21e908f34f97a2575f27a39f935482a1f8e73434&v=4" width="24" alt="Avatar of chenguokai"> chenguokai
-			</a><br/>
-			Xim
-		</td>
-		<td>Epfl </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>600</td>
+		<td>603</td>
 		<td>
 			<a href="https://github.com/CWS6206">
 				<img src="https://avatars.githubusercontent.com/u/102139131?s=72&u=25fcd05baab846fbf076d16d8a26c87dedc298bd&v=4" width="24" alt="Avatar of CWS6206"> CWS6206
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#CWS6206">Copy rank badge</a><br/>
 			Dr. René Bäder (PhDs)
 		</td>
 		<td>Creative Web Studio Gmbh<br/></td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>22</td>
+		<td>27</td>
 	</tr>
 	<tr>
-		<td>601</td>
+		<td>604</td>
 		<td>
-			<a href="https://github.com/Neo-Oli">
-				<img src="https://avatars.githubusercontent.com/u/7983745?s=72&u=abfcef1f7c3e7c2ab827e1e321cef4ed6ccd1ec8&v=4" width="24" alt="Avatar of Neo-Oli"> Neo-Oli
-			</a><br/>
-			glow
+			<a href="https://github.com/izuzak">
+				<img src="https://avatars.githubusercontent.com/u/38924?s=72&u=7018f705d9c21be1ea7758aa40a5ff574460f3fa&v=4" width="24" alt="Avatar of izuzak"> izuzak
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#izuzak">Copy rank badge</a><br/>
+			Ivan Žužak
 		</td>
-		<td>@swissredcross </td>
+		<td>@github </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>605</td>
+		<td>
+			<a href="https://github.com/treslines">
+				<img src="https://avatars.githubusercontent.com/u/1042887?s=72&u=67c5a0b09036b42554bb6610b901e6aa4cf310df&v=4" width="24" alt="Avatar of treslines"> treslines
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#treslines">Copy rank badge</a><br/>
+			Ricardo Ferreira
+		</td>
+		<td>Https://www.sopraste </td>
+		<td><a href="https://twitter.com/ricardo_7307">ricardo_7307</a></td>
+		<td>Switzerland / Brasil</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>606</td>
+		<td>
+			<a href="https://github.com/liamsi">
+				<img src="https://avatars.githubusercontent.com/u/7441766?s=72&u=48d8dd5d37b5545455c90055d49c84199a0b16f2&v=4" width="24" alt="Avatar of liamsi"> liamsi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#liamsi">Copy rank badge</a><br/>
+			Ismail Khoffi
+		</td>
+		<td>@celestiaorg </td>
+		<td><a href="https://twitter.com/KreuzUQuer">KreuzUQuer</a></td>
+		<td>UK / Germany / Switzerland</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>607</td>
+		<td>
+			<a href="https://github.com/pschwllr">
+				<img src="https://avatars.githubusercontent.com/u/38880871?s=72&u=f706181c8dd0eaf4f066aa7c0e470fd0d5ad70ed&v=4" width="24" alt="Avatar of pschwllr"> pschwllr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pschwllr">Copy rank badge</a><br/>
+			Philippe Schwaller
+		</td>
+		<td>Epfl </td>
+		<td><a href="https://twitter.com/pschwllr">pschwllr</a></td>
+		<td>Lausanne / Fribourg</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>608</td>
+		<td>
+			<a href="https://github.com/13ace37">
+				<img src="https://avatars.githubusercontent.com/u/29045525?s=72&u=6fcb951e39f2cf254aba0b55af83ce80da876413&v=4" width="24" alt="Avatar of 13ace37"> 13ace37
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#13ace37">Copy rank badge</a><br/>
+			Riccardo H.
+		</td>
+		<td>K.r. Pfiffner Ag </td>
+		<td>No Twitter Username</td>
+		<td>Solothurn, Switzerland</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>609</td>
+		<td>
+			<a href="https://github.com/jmboehm">
+				<img src="https://avatars.githubusercontent.com/u/17812941?s=72&u=8a1aed544c86a9fa14cc3d6637be0f09cede16b5&v=4" width="24" alt="Avatar of jmboehm"> jmboehm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jmboehm">Copy rank badge</a><br/>
+			Johannes Boehm
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Geneva, Switzerland</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>610</td>
+		<td>
+			<a href="https://github.com/mnemocron">
+				<img src="https://avatars.githubusercontent.com/u/13417604?s=72&u=5cf1cd28169bf7964a12e8d721353ec12181b2d2&v=4" width="24" alt="Avatar of mnemocron"> mnemocron
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mnemocron">Copy rank badge</a><br/>
+			Simon Burkhardt
+		</td>
+		<td>@keysight </td>
+		<td>No Twitter Username</td>
+		<td>Solothurn, Switzerland</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>611</td>
+		<td>
+			<a href="https://github.com/etienne-napoleone">
+				<img src="https://avatars.githubusercontent.com/u/26155267?s=72&u=4787cb44bee8f92557fcd73834fc825361264983&v=4" width="24" alt="Avatar of etienne-napoleone"> etienne-napoleone
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#etienne-napoleone">Copy rank badge</a><br/>
+			Etienne Napoleone
+		</td>
+		<td>@swissquote </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>612</td>
+		<td>
+			<a href="https://github.com/stefanfoulis">
+				<img src="https://avatars.githubusercontent.com/u/14330?s=72&u=c8c22c51617dd58869e9bd22f4502b0d2f15597c&v=4" width="24" alt="Avatar of stefanfoulis"> stefanfoulis
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#stefanfoulis">Copy rank badge</a><br/>
+			Stefan Foulis
+		</td>
+		<td>Sherpany </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>613</td>
+		<td>
+			<a href="https://github.com/obeattie">
+				<img src="https://avatars.githubusercontent.com/u/5988?s=72&u=d1a35fbfb66c8cf9a390cdd507b91a14983d308d&v=4" width="24" alt="Avatar of obeattie"> obeattie
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#obeattie">Copy rank badge</a><br/>
+			Oliver Beattie
+		</td>
+		<td>@pretzelis  </td>
+		<td><a href="https://twitter.com/obeattie">obeattie</a></td>
+		<td>Zürich 🇨🇭</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>614</td>
+		<td>
+			<a href="https://github.com/MartynaPlomecka">
+				<img src="https://avatars.githubusercontent.com/u/47918860?s=72&u=0e21d3107c7607fe202ff9c55c459890953ef7ef&v=4" width="24" alt="Avatar of MartynaPlomecka"> MartynaPlomecka
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#MartynaPlomecka">Copy rank badge</a><br/>
+			Martyna Plomecka
+		</td>
+		<td>@google-deepmind </td>
+		<td><a href="https://twitter.com/MartynaPlomecka">MartynaPlomecka</a></td>
+		<td>Zurich, Switzerland <3</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>615</td>
+		<td>
+			<a href="https://github.com/blindglobe">
+				<img src="https://avatars.githubusercontent.com/u/23518?s=72&v=4" width="24" alt="Avatar of blindglobe"> blindglobe
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#blindglobe">Copy rank badge</a><br/>
+			Tony Rossini
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Segnas, Switzerland</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>616</td>
+		<td>
+			<a href="https://github.com/getflourish">
+				<img src="https://avatars.githubusercontent.com/u/183989?s=72&u=1813c0279e619cdf940fcdf2e81b1d56a3722bd2&v=4" width="24" alt="Avatar of getflourish"> getflourish
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#getflourish">Copy rank badge</a><br/>
+			Florian Schulz
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/getflourish">getflourish</a></td>
+		<td>Zürich</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>617</td>
+		<td>
+			<a href="https://github.com/benelot">
+				<img src="https://avatars.githubusercontent.com/u/3111851?s=72&u=454de013d2b04f3bc239a60689f141417b27572e&v=4" width="24" alt="Avatar of benelot"> benelot
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#benelot">Copy rank badge</a><br/>
+			Benjamin Ellenberger
+		</td>
+		<td>Idsc.io </td>
 		<td>No Twitter Username</td>
 		<td>Bern, Switzerland</td>
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>602</td>
-		<td>
-			<a href="https://github.com/bufferoverflow">
-				<img src="https://avatars.githubusercontent.com/u/378909?s=72&u=f3b23560ee65448f0d2a462041cdff4d3d1fcec2&v=4" width="24" alt="Avatar of bufferoverflow"> bufferoverflow
-			</a><br/>
-			Roger Meier
-		</td>
-		<td>Siemens </td>
-		<td>No Twitter Username</td>
-		<td>Greifensee, Zürich, Switzerland</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>603</td>
-		<td>
-			<a href="https://github.com/ventusff">
-				<img src="https://avatars.githubusercontent.com/u/25529198?s=72&u=8ffce1d5abebd7ae6b6b021aab102f8d157eb8e1&v=4" width="24" alt="Avatar of ventusff"> ventusff
-			</a><br/>
-			Jeff / Jianfei Guo
-		</td>
-		<td>Nvidia Toronto Ai Lab<br/></td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>604</td>
-		<td>
-			<a href="https://github.com/julienrf">
-				<img src="https://avatars.githubusercontent.com/u/332812?s=72&u=c53bc6569c85c213877e6d272d0ff9928542cab8&v=4" width="24" alt="Avatar of julienrf"> julienrf
-			</a><br/>
-			Julien Richard-Foy
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/julienrf">julienrf</a></td>
-		<td>Lausanne, Suisse</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>605</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/miykael">
-				<img src="https://avatars.githubusercontent.com/u/950321?s=72&u=fbf6af145478932807b496cca773fad28b073678&v=4" width="24" alt="Avatar of miykael"> miykael
-			</a><br/>
+				<img src="https://avatars.githubusercontent.com/u/950321?s=72&u=cbb682b2e4701d1bd872f0962cc340d5f35054c7&v=4" width="24" alt="Avatar of miykael"> miykael
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#miykael">Copy rank badge</a><br/>
 			Michael Notter
 		</td>
 		<td>No Company</td>
@@ -7970,128 +8141,180 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>619</td>
 		<td>
-			<a href="https://github.com/marcruef">
-				<img src="https://avatars.githubusercontent.com/u/9268866?s=72&u=3a33514f0ce4710ff8d3e2e2d39f96b3022b26ea&v=4" width="24" alt="Avatar of marcruef"> marcruef
-			</a><br/>
-			Marc Ruef
+			<a href="https://github.com/utaal">
+				<img src="https://avatars.githubusercontent.com/u/791335?s=72&u=2a02d3c90d57e3d6e13fb664348f80119c86fdb9&v=4" width="24" alt="Avatar of utaal"> utaal
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#utaal">Copy rank badge</a><br/>
+			Andrea Lattuada
 		</td>
-		<td>@scipag  </td>
-		<td><a href="https://twitter.com/mruef">mruef</a></td>
+		<td>@isovalent </td>
+		<td>No Twitter Username</td>
 		<td>Zürich, Switzerland</td>
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>620</td>
+		<td>
+			<a href="https://github.com/mkow">
+				<img src="https://avatars.githubusercontent.com/u/5244565?s=72&v=4" width="24" alt="Avatar of mkow"> mkow
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mkow">Copy rank badge</a><br/>
+			Michał Kowalczyk
+		</td>
+		<td>@invisiblethingslab / @dragonsector </td>
+		<td><a href="https://twitter.com/dsredford">dsredford</a></td>
+		<td>Zürich</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>621</td>
+		<td>
+			<a href="https://github.com/underdoeg">
+				<img src="https://avatars.githubusercontent.com/u/243820?s=72&u=cfdb52f5e3788cf4ee72f5a539a18f9d93d34e82&v=4" width="24" alt="Avatar of underdoeg"> underdoeg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#underdoeg">Copy rank badge</a><br/>
+			Philip Whitfield
+		</td>
+		<td>Undef </td>
+		<td>No Twitter Username</td>
+		<td>Basel, Switzerland</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>622</td>
+		<td>
+			<a href="https://github.com/wil93">
+				<img src="https://avatars.githubusercontent.com/u/1285361?s=72&u=7fc3b453671b3bfc0894ab39a1d653512bec8d60&v=4" width="24" alt="Avatar of wil93"> wil93
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#wil93">Copy rank badge</a><br/>
+			William Di Luigi
+		</td>
+		<td>@google </td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>623</td>
+		<td>
+			<a href="https://github.com/SimonHoiberg">
+				<img src="https://avatars.githubusercontent.com/u/31746424?s=72&u=496ba7472ddd4356e89dd221d1938054b94058dd&v=4" width="24" alt="Avatar of SimonHoiberg"> SimonHoiberg
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#SimonHoiberg">Copy rank badge</a><br/>
+			Simon Høiberg
+		</td>
+		<td>@aidbase </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>624</td>
+		<td>
+			<a href="https://github.com/vesparny">
+				<img src="https://avatars.githubusercontent.com/u/82070?s=72&u=7bd88bbd47f313ac60f74d69e5341c9dfa77e66d&v=4" width="24" alt="Avatar of vesparny"> vesparny
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#vesparny">Copy rank badge</a><br/>
+			Alessandro Arnodo
+		</td>
+		<td>@pocketbitcoin   </td>
+		<td><a href="https://twitter.com/vesparny">vesparny</a></td>
+		<td>Geneva</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>625</td>
+		<td>
+			<a href="https://github.com/dragos">
+				<img src="https://avatars.githubusercontent.com/u/133742?s=72&v=4" width="24" alt="Avatar of dragos"> dragos
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#dragos">Copy rank badge</a><br/>
+			Iulian Dragos
+		</td>
+		<td>Databricks </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>626</td>
+		<td>
+			<a href="https://github.com/bunnech">
+				<img src="https://avatars.githubusercontent.com/u/21307862?s=72&u=670db389bb9780ac71566ac81dc2f470ae9836ee&v=4" width="24" alt="Avatar of bunnech"> bunnech
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#bunnech">Copy rank badge</a><br/>
+			Charlotte Bunne
+		</td>
+		<td>Epfl </td>
+		<td><a href="https://twitter.com/_bunnech">_bunnech</a></td>
+		<td>Lausanne</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>627</td>
+		<td>
+			<a href="https://github.com/kensanata">
+				<img src="https://avatars.githubusercontent.com/u/1145712?s=72&u=8581891b40cef20cd7ebb7e65ab9a26c0b03a4a6&v=4" width="24" alt="Avatar of kensanata"> kensanata
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#kensanata">Copy rank badge</a><br/>
+			Alex Schroeder
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>628</td>
+		<td>
+			<a href="https://github.com/simonkrenger">
+				<img src="https://avatars.githubusercontent.com/u/1028220?s=72&u=d1d203cda3b145ebc79da8ecc6575e5b6f832ef4&v=4" width="24" alt="Avatar of simonkrenger"> simonkrenger
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#simonkrenger">Copy rank badge</a><br/>
+			Simon Krenger
+		</td>
+		<td>Red Hat </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/davidoort">
 				<img src="https://avatars.githubusercontent.com/u/21220927?s=72&u=129afe2ed8bb5f661a40d1b0eb9f5782a322006e&v=4" width="24" alt="Avatar of davidoort"> davidoort
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#davidoort">Copy rank badge</a><br/>
 			David Oort Alonso
 		</td>
 		<td>@bloomlabsinc  </td>
 		<td><a href="https://twitter.com/itsdavidalonso">itsdavidalonso</a></td>
 		<td>Zurich, Switzerland</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>608</td>
-		<td>
-			<a href="https://github.com/imene-swaan">
-				<img src="https://avatars.githubusercontent.com/u/53266529?s=72&u=a97fe4e144d7c2776839cdbe5cb8edda2d89d81b&v=4" width="24" alt="Avatar of imene-swaan"> imene-swaan
-			</a><br/>
-			Imene KOLLI
-		</td>
-		<td>Center For Digital Health<br/>Interventions<br/></td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>630</td>
 		<td>
-			<a href="https://github.com/westlicht">
-				<img src="https://avatars.githubusercontent.com/u/49278?s=72&u=b80ac5fc5caebeeda37c4594bafdd8b762e2afc1&v=4" width="24" alt="Avatar of westlicht"> westlicht
-			</a><br/>
-			Simon Kallweit
+			<a href="https://github.com/severinlandolt">
+				<img src="https://avatars.githubusercontent.com/u/41927988?s=72&u=01cf9215908e032649d3e35f045eceb90d92b8b0&v=4" width="24" alt="Avatar of severinlandolt"> severinlandolt
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#severinlandolt">Copy rank badge</a><br/>
+			Severin Landolt
+		</td>
+		<td>Vercel </td>
+		<td><a href="https://twitter.com/severinlandolt">severinlandolt</a></td>
+		<td>Switzerland</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>631</td>
+		<td>
+			<a href="https://github.com/neocorp">
+				<img src="https://avatars.githubusercontent.com/u/6378297?s=72&u=e281e303d64053534a4921bb8731572b19bf3c4f&v=4" width="24" alt="Avatar of neocorp"> neocorp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#neocorp">Copy rank badge</a><br/>
+			Niyazi Erdoğan
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
+		<td><a href="https://twitter.com/niyazi_erd">niyazi_erd</a></td>
+		<td>Basel, Switzerland</td>
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>610</td>
-		<td>
-			<a href="https://github.com/octralex">
-				<img src="https://avatars.githubusercontent.com/u/149393679?s=72&u=f400ea222abc9724f10932514155fd80ea981eb6&v=4" width="24" alt="Avatar of octralex"> octralex
-			</a><br/>
-			alex
-		</td>
-		<td>Octra Labs </td>
-		<td><a href="https://twitter.com/octralex">octralex</a></td>
-		<td>zug, switzerland</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>611</td>
-		<td>
-			<a href="https://github.com/pfmaggi">
-				<img src="https://avatars.githubusercontent.com/u/188886?s=72&u=74e7b5e35b661727795e45974e87e0fa49294fa4&v=4" width="24" alt="Avatar of pfmaggi"> pfmaggi
-			</a><br/>
-			Pietro F. Maggi
-		</td>
-		<td>@google  </td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>612</td>
-		<td>
-			<a href="https://github.com/maxkueng">
-				<img src="https://avatars.githubusercontent.com/u/168709?s=72&v=4" width="24" alt="Avatar of maxkueng"> maxkueng
-			</a><br/>
-			Max Kueng
-		</td>
-		<td>@smallpdf </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>613</td>
-		<td>
-			<a href="https://github.com/neverything">
-				<img src="https://avatars.githubusercontent.com/u/368120?s=72&u=da5e7eba0a22c02d4239119c1cbdf0acae9472b0&v=4" width="24" alt="Avatar of neverything"> neverything
-			</a><br/>
-			Silvan Hagen
-		</td>
-		<td>Silvan Hagen – Consulting<br/></td>
-		<td><a href="https://twitter.com/neverything">neverything</a></td>
-		<td>Switzerland</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>614</td>
-		<td>
-			<a href="https://github.com/ChristopheJacquet">
-				<img src="https://avatars.githubusercontent.com/u/3521368?s=72&v=4" width="24" alt="Avatar of ChristopheJacquet"> ChristopheJacquet
-			</a><br/>
-			Christophe Jacquet
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>615</td>
+		<td>632</td>
 		<td>
 			<a href="https://github.com/ngtuna">
 				<img src="https://avatars.githubusercontent.com/u/1963463?s=72&u=c5f8d416cdbcf5395ee2fa374ecc86e1b9a83936&v=4" width="24" alt="Avatar of ngtuna"> ngtuna
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ngtuna">Copy rank badge</a><br/>
 			Tuna
 		</td>
 		<td>No Company</td>
@@ -8100,180 +8323,180 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>633</td>
 		<td>
-			<a href="https://github.com/mnemocron">
-				<img src="https://avatars.githubusercontent.com/u/13417604?s=72&u=5cf1cd28169bf7964a12e8d721353ec12181b2d2&v=4" width="24" alt="Avatar of mnemocron"> mnemocron
-			</a><br/>
-			Simon Burkhardt
+			<a href="https://github.com/diegoantognini">
+				<img src="https://avatars.githubusercontent.com/u/1092464?s=72&u=60ef8dabb8a4a1e5db95b467d22674b046127758&v=4" width="24" alt="Avatar of diegoantognini"> diegoantognini
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#diegoantognini">Copy rank badge</a><br/>
+			Diego Antognini
 		</td>
-		<td>@keysight </td>
+		<td>Google Deepmind </td>
 		<td>No Twitter Username</td>
-		<td>Solothurn, Switzerland</td>
+		<td>Switzerland</td>
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>634</td>
 		<td>
-			<a href="https://github.com/larsyencken">
-				<img src="https://avatars.githubusercontent.com/u/36012?s=72&u=bd419037820614254b497646c4e390eb4028b2d7&v=4" width="24" alt="Avatar of larsyencken"> larsyencken
-			</a><br/>
-			Lars Yencken
+			<a href="https://github.com/zgojcic">
+				<img src="https://avatars.githubusercontent.com/u/31700292?s=72&u=e406fd39f20d7ed848d7a3c71c0aea8be559d4b5&v=4" width="24" alt="Avatar of zgojcic"> zgojcic
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#zgojcic">Copy rank badge</a><br/>
+			Zan Gojcic
 		</td>
-		<td>Far Ai </td>
-		<td><a href="https://twitter.com/larsyencken">larsyencken</a></td>
-		<td>Geneva, Switzerland</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>618</td>
-		<td>
-			<a href="https://github.com/ksheremet">
-				<img src="https://avatars.githubusercontent.com/u/6387464?s=72&u=74e8a9a7dda121fa79de3ef7ff1ca985639b7e04&v=4" width="24" alt="Avatar of ksheremet"> ksheremet
-			</a><br/>
-			Katarina Sheremet
-		</td>
-		<td>@futureware-tech  </td>
+		<td>@nvidia </td>
 		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>619</td>
-		<td>
-			<a href="https://github.com/visini">
-				<img src="https://avatars.githubusercontent.com/u/10230606?s=72&u=c377d2c05fb06aa41b9a263d8fd424b1dc960b72&v=4" width="24" alt="Avatar of visini"> visini
-			</a><br/>
-			Camillo Visini
-		</td>
-		<td>@reflekt-ai </td>
-		<td><a href="https://twitter.com/camillovisini">camillovisini</a></td>
 		<td>Zurich, Switzerland</td>
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>620</td>
+		<td>635</td>
 		<td>
-			<a href="https://github.com/mattdf">
-				<img src="https://avatars.githubusercontent.com/u/11067114?s=72&u=df10f9897171543d66efd98f90598d467f8ef2a5&v=4" width="24" alt="Avatar of mattdf"> mattdf
-			</a><br/>
-			Matthew Di Ferrante
+			<a href="https://github.com/francoisgeorgy">
+				<img src="https://avatars.githubusercontent.com/u/367480?s=72&u=49d1582c43730ce9ca330830ad2e5d36e225e39d&v=4" width="24" alt="Avatar of francoisgeorgy"> francoisgeorgy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#francoisgeorgy">Copy rank badge</a><br/>
+			François Georgy
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/matthewdif">matthewdif</a></td>
+		<td><a href="https://twitter.com/francoisgeorgy">francoisgeorgy</a></td>
+		<td>Lausanne, Switzerland</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>636</td>
+		<td>
+			<a href="https://github.com/marcruef">
+				<img src="https://avatars.githubusercontent.com/u/9268866?s=72&u=3a33514f0ce4710ff8d3e2e2d39f96b3022b26ea&v=4" width="24" alt="Avatar of marcruef"> marcruef
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#marcruef">Copy rank badge</a><br/>
+			Marc Ruef
+		</td>
+		<td>@scipag  </td>
+		<td><a href="https://twitter.com/mruef">mruef</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>637</td>
+		<td>
+			<a href="https://github.com/laboon">
+				<img src="https://avatars.githubusercontent.com/u/1417717?s=72&u=32fbc4f8f2697c6b14f5dd1d9e5e73ef881068ed&v=4" width="24" alt="Avatar of laboon"> laboon
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#laboon">Copy rank badge</a><br/>
+			Bill Laboon
+		</td>
+		<td>Web3 Foundation </td>
+		<td><a href="https://twitter.com/BillLaboon">BillLaboon</a></td>
+		<td>Zug, Switzerland</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>638</td>
+		<td>
+			<a href="https://github.com/thomasmaurer">
+				<img src="https://avatars.githubusercontent.com/u/305794?s=72&u=e21e53ec84c26bb6064cd5d1212d85a8fa16d353&v=4" width="24" alt="Avatar of thomasmaurer"> thomasmaurer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#thomasmaurer">Copy rank badge</a><br/>
+			Thomas Maurer
+		</td>
+		<td>@microsoft  </td>
+		<td><a href="https://twitter.com/ThomasMaurer">ThomasMaurer</a></td>
 		<td>Switzerland</td>
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>621</td>
-		<td>
-			<a href="https://github.com/pyr">
-				<img src="https://avatars.githubusercontent.com/u/110280?s=72&v=4" width="24" alt="Avatar of pyr"> pyr
-			</a><br/>
-			Pierre-Yves Ritschard
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>622</td>
-		<td>
-			<a href="https://github.com/obeattie">
-				<img src="https://avatars.githubusercontent.com/u/5988?s=72&u=d1a35fbfb66c8cf9a390cdd507b91a14983d308d&v=4" width="24" alt="Avatar of obeattie"> obeattie
-			</a><br/>
-			Oliver Beattie
-		</td>
-		<td>@pretzelis  </td>
-		<td><a href="https://twitter.com/obeattie">obeattie</a></td>
-		<td>Zürich 🇨🇭</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>623</td>
-		<td>
-			<a href="https://github.com/devos50">
-				<img src="https://avatars.githubusercontent.com/u/1707075?s=72&u=c2d2f8c0e61b0992647dd2392057fd1bebe19a81&v=4" width="24" alt="Avatar of devos50"> devos50
-			</a><br/>
-			Martijn de Vos
-		</td>
-		<td>Epfl </td>
-		<td><a href="https://twitter.com/devos50">devos50</a></td>
-		<td>Lausanne</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>624</td>
-		<td>
-			<a href="https://github.com/cyrilwanner">
-				<img src="https://avatars.githubusercontent.com/u/2709252?s=72&u=53b6a35347c9cccfd16f48f20e48488a089b67ed&v=4" width="24" alt="Avatar of cyrilwanner"> cyrilwanner
-			</a><br/>
-			Cyril Wanner
-		</td>
-		<td>@open-ch  </td>
-		<td><a href="https://twitter.com/cyrilwanner">cyrilwanner</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>625</td>
-		<td>
-			<a href="https://github.com/JingyunLiang">
-				<img src="https://avatars.githubusercontent.com/u/17873150?s=72&v=4" width="24" alt="Avatar of JingyunLiang"> JingyunLiang
-			</a><br/>
-			Jingyun Liang
-		</td>
-		<td>Computer Vision Lab, Eth<br/>Zürich<br/></td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>626</td>
-		<td>
-			<a href="https://github.com/halflings">
-				<img src="https://avatars.githubusercontent.com/u/1626936?s=72&u=78e611b9b3aed32f6207c74097d63158641280bf&v=4" width="24" alt="Avatar of halflings"> halflings
-			</a><br/>
-			Ahmed Kachkach
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>627</td>
-		<td>
-			<a href="https://github.com/mkow">
-				<img src="https://avatars.githubusercontent.com/u/5244565?s=72&v=4" width="24" alt="Avatar of mkow"> mkow
-			</a><br/>
-			Michał Kowalczyk
-		</td>
-		<td>@invisiblethingslab / @dragonsector </td>
-		<td><a href="https://twitter.com/dsredford">dsredford</a></td>
-		<td>Zürich</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>628</td>
+		<td>639</td>
 		<td>
 			<a href="https://github.com/kjelljorner">
 				<img src="https://avatars.githubusercontent.com/u/36157530?s=72&u=d6c96f8d2cb6a1b1904508502bd4bad5e79f509a&v=4" width="24" alt="Avatar of kjelljorner"> kjelljorner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#kjelljorner">Copy rank badge</a><br/>
 			Kjell Jorner
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kjelljorner">kjelljorner</a></td>
 		<td>Zürich, Switzerland</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>640</td>
+		<td>
+			<a href="https://github.com/jsnell">
+				<img src="https://avatars.githubusercontent.com/u/608702?s=72&v=4" width="24" alt="Avatar of jsnell"> jsnell
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jsnell">Copy rank badge</a><br/>
+			Juho Snellman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>641</td>
+		<td>
+			<a href="https://github.com/floere">
+				<img src="https://avatars.githubusercontent.com/u/3022?s=72&v=4" width="24" alt="Avatar of floere"> floere
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#floere">Copy rank badge</a><br/>
+			Florian R. Hanke
+		</td>
+		<td>Sakura Engineering Gmbh </td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>629</td>
+		<td>642</td>
+		<td>
+			<a href="https://github.com/karlkurzer">
+				<img src="https://avatars.githubusercontent.com/u/10877966?s=72&u=c43a1d51c9dd892c2e2e1439ccb3df1b3e99a0b2&v=4" width="24" alt="Avatar of karlkurzer"> karlkurzer
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#karlkurzer">Copy rank badge</a><br/>
+			Karl Kurzer
+		</td>
+		<td>Amazon Web Services (aws)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>643</td>
+		<td>
+			<a href="https://github.com/mschrimpf">
+				<img src="https://avatars.githubusercontent.com/u/5308236?s=72&u=b178de2bfb7d8973d010e979b1b91a477776473f&v=4" width="24" alt="Avatar of mschrimpf"> mschrimpf
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mschrimpf">Copy rank badge</a><br/>
+			Martin Schrimpf
+		</td>
+		<td>@epfl </td>
+		<td><a href="https://twitter.com/martin_schrimpf">martin_schrimpf</a></td>
+		<td>Lausanne, Switzerland</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>644</td>
+		<td>
+			<a href="https://github.com/leefsmp">
+				<img src="https://avatars.githubusercontent.com/u/4352502?s=72&u=358efd16876f7725e0cfb003a38802937bdf789d&v=4" width="24" alt="Avatar of leefsmp"> leefsmp
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#leefsmp">Copy rank badge</a><br/>
+			Philippe Leefsma
+		</td>
+		<td>@esri </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>645</td>
+		<td>
+			<a href="https://github.com/pcko1">
+				<img src="https://avatars.githubusercontent.com/u/30870180?s=72&u=7890967b00c89d41efb04e690e1081e712249bc0&v=4" width="24" alt="Avatar of pcko1"> pcko1
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pcko1">Copy rank badge</a><br/>
+			Pan Kotsias
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>646</td>
 		<td>
 			<a href="https://github.com/gynvael">
 				<img src="https://avatars.githubusercontent.com/u/1008844?s=72&u=0a6f845ffbc6c33245c478e5d53f2fed6374edd3&v=4" width="24" alt="Avatar of gynvael"> gynvael
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#gynvael">Copy rank badge</a><br/>
 			Gynvael Coldwind
 		</td>
 		<td>No Company</td>
@@ -8282,11 +8505,24 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>647</td>
+		<td>
+			<a href="https://github.com/vegasbrianc">
+				<img src="https://avatars.githubusercontent.com/u/674790?s=72&u=571076a5357725fbfa67ee1333f2254f75f20b4c&v=4" width="24" alt="Avatar of vegasbrianc"> vegasbrianc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#vegasbrianc">Copy rank badge</a><br/>
+			Brian Christner
+		</td>
+		<td>@docker-captains  </td>
+		<td><a href="https://twitter.com/idomyowntricks">idomyowntricks</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>648</td>
 		<td>
 			<a href="https://github.com/TheDIYGuy999">
 				<img src="https://avatars.githubusercontent.com/u/6757460?s=72&u=eede9de501dbb118a104e070a45289af57fbe633&v=4" width="24" alt="Avatar of TheDIYGuy999"> TheDIYGuy999
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#TheDIYGuy999">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8295,141 +8531,50 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>649</td>
 		<td>
-			<a href="https://github.com/pschwllr">
-				<img src="https://avatars.githubusercontent.com/u/38880871?s=72&u=f706181c8dd0eaf4f066aa7c0e470fd0d5ad70ed&v=4" width="24" alt="Avatar of pschwllr"> pschwllr
-			</a><br/>
-			Philippe Schwaller
+			<a href="https://github.com/julienr">
+				<img src="https://avatars.githubusercontent.com/u/506602?s=72&u=c81cdfa00bdfe146ad43fcab186cd6160d2441c0&v=4" width="24" alt="Avatar of julienr"> julienr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#julienr">Copy rank badge</a><br/>
+			Julien Rebetez
 		</td>
-		<td>Epfl </td>
-		<td><a href="https://twitter.com/pschwllr">pschwllr</a></td>
-		<td>Lausanne / Fribourg</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>632</td>
-		<td>
-			<a href="https://github.com/bndr">
-				<img src="https://avatars.githubusercontent.com/u/1145456?s=72&u=fe5733c293f25b3306fe1c9a72c7cf5efc21238a&v=4" width="24" alt="Avatar of bndr"> bndr
-			</a><br/>
-			Vadim Kravcenko
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/vadim_kravcenko">vadim_kravcenko</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>633</td>
-		<td>
-			<a href="https://github.com/lionaneesh">
-				<img src="https://avatars.githubusercontent.com/u/1305901?s=72&u=699fc72184f54b14568617582a90a518b74ff579&v=4" width="24" alt="Avatar of lionaneesh"> lionaneesh
-			</a><br/>
-			Aneesh Dogra
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>634</td>
-		<td>
-			<a href="https://github.com/BinaryBrain">
-				<img src="https://avatars.githubusercontent.com/u/1102077?s=72&u=f28680a7eef173898f2fedc0046c625f734cd208&v=4" width="24" alt="Avatar of BinaryBrain"> BinaryBrain
-			</a><br/>
-			Sacha Bron
-		</td>
-		<td>Llamaindex (@run-llama)  </td>
-		<td>No Twitter Username</td>
-		<td>Vevey, Switzerland</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>635</td>
-		<td>
-			<a href="https://github.com/pcko1">
-				<img src="https://avatars.githubusercontent.com/u/30870180?s=72&u=7890967b00c89d41efb04e690e1081e712249bc0&v=4" width="24" alt="Avatar of pcko1"> pcko1
-			</a><br/>
-			Pan Kotsias
-		</td>
-		<td>Pankotsias.com </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>636</td>
-		<td>
-			<a href="https://github.com/jmboehm">
-				<img src="https://avatars.githubusercontent.com/u/17812941?s=72&u=8a1aed544c86a9fa14cc3d6637be0f09cede16b5&v=4" width="24" alt="Avatar of jmboehm"> jmboehm
-			</a><br/>
-			Johannes Boehm
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Geneva, Switzerland</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>637</td>
-		<td>
-			<a href="https://github.com/JamesMenetrey">
-				<img src="https://avatars.githubusercontent.com/u/2522427?s=72&v=4" width="24" alt="Avatar of JamesMenetrey"> JamesMenetrey
-			</a><br/>
-			Jämes Ménétrey
-		</td>
-		<td>University Of Neuchâtel </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>638</td>
-		<td>
-			<a href="https://github.com/madebylina">
-				<img src="https://avatars.githubusercontent.com/u/230974118?s=72&u=b58a58d422f8ab5c453cdb981632651dcd72c0da&v=4" width="24" alt="Avatar of madebylina"> madebylina
-			</a><br/>
-			Lina
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>639</td>
-		<td>
-			<a href="https://github.com/klokan">
-				<img src="https://avatars.githubusercontent.com/u/59284?s=72&u=69d67331df9964ddd3dd136ec1cc5c0072785dff&v=4" width="24" alt="Avatar of klokan"> klokan
-			</a><br/>
-			Petr Pridal
-		</td>
-		<td>Maptiler @maptiler / @klokantech<br/></td>
+		<td>Picterra </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>640</td>
+		<td>650</td>
 		<td>
-			<a href="https://github.com/franko">
-				<img src="https://avatars.githubusercontent.com/u/433545?s=72&v=4" width="24" alt="Avatar of franko"> franko
-			</a><br/>
-			Francesco Abbate
+			<a href="https://github.com/Speierers">
+				<img src="https://avatars.githubusercontent.com/u/6662561?s=72&u=f4e86dd11f48400e4d28521a493f334bf120da4f&v=4" width="24" alt="Avatar of Speierers"> Speierers
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Speierers">Copy rank badge</a><br/>
+			Sebastien Speierer
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bienne, Switzerland</td>
+		<td>Research Engineer @ Meta<br/></td>
+		<td><a href="https://twitter.com/seb_spe">seb_spe</a></td>
+		<td>Switzerland</td>
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>641</td>
+		<td>651</td>
+		<td>
+			<a href="https://github.com/neverything">
+				<img src="https://avatars.githubusercontent.com/u/368120?s=72&u=da5e7eba0a22c02d4239119c1cbdf0acae9472b0&v=4" width="24" alt="Avatar of neverything"> neverything
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#neverything">Copy rank badge</a><br/>
+			Silvan Hagen
+		</td>
+		<td>@julithgroup </td>
+		<td><a href="https://twitter.com/neverything">neverything</a></td>
+		<td>Switzerland</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>652</td>
 		<td>
 			<a href="https://github.com/greduan">
 				<img src="https://avatars.githubusercontent.com/u/2314074?s=72&v=4" width="24" alt="Avatar of greduan"> greduan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#greduan">Copy rank badge</a><br/>
 			Eduardo Lavaque
 		</td>
 		<td>No Company</td>
@@ -8438,414 +8583,323 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>642</td>
-		<td>
-			<a href="https://github.com/izuzak">
-				<img src="https://avatars.githubusercontent.com/u/38924?s=72&u=7018f705d9c21be1ea7758aa40a5ff574460f3fa&v=4" width="24" alt="Avatar of izuzak"> izuzak
-			</a><br/>
-			Ivan Žužak
-		</td>
-		<td>@github </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>643</td>
-		<td>
-			<a href="https://github.com/weinand">
-				<img src="https://avatars.githubusercontent.com/u/1898161?s=72&u=50978d7137a593fbc95aa5131e39854128e3783b&v=4" width="24" alt="Avatar of weinand"> weinand
-			</a><br/>
-			Andre Weinand
-		</td>
-		<td>Microsoft (retired) </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>644</td>
-		<td>
-			<a href="https://github.com/vincentdoerig">
-				<img src="https://avatars.githubusercontent.com/u/24668338?s=72&u=0d87703fd8bed7edcaca65533ac4f034b9c0c226&v=4" width="24" alt="Avatar of vincentdoerig"> vincentdoerig
-			</a><br/>
-			Vincent Dörig
-		</td>
-		<td>Eth Zürich </td>
-		<td><a href="https://twitter.com/vincentdoerig">vincentdoerig</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>645</td>
-		<td>
-			<a href="https://github.com/leefsmp">
-				<img src="https://avatars.githubusercontent.com/u/4352502?s=72&u=358efd16876f7725e0cfb003a38802937bdf789d&v=4" width="24" alt="Avatar of leefsmp"> leefsmp
-			</a><br/>
-			Philippe Leefsma
-		</td>
-		<td>@esri </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>646</td>
-		<td>
-			<a href="https://github.com/simonkrenger">
-				<img src="https://avatars.githubusercontent.com/u/1028220?s=72&u=d1d203cda3b145ebc79da8ecc6575e5b6f832ef4&v=4" width="24" alt="Avatar of simonkrenger"> simonkrenger
-			</a><br/>
-			Simon Krenger
-		</td>
-		<td>Red Hat </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>647</td>
-		<td>
-			<a href="https://github.com/thomasmaurer">
-				<img src="https://avatars.githubusercontent.com/u/305794?s=72&u=8300fece52efe8f40547ef14c768d5c17bd3ff49&v=4" width="24" alt="Avatar of thomasmaurer"> thomasmaurer
-			</a><br/>
-			Thomas Maurer
-		</td>
-		<td>@microsoft  </td>
-		<td><a href="https://twitter.com/ThomasMaurer">ThomasMaurer</a></td>
-		<td>Switzerland</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>648</td>
-		<td>
-			<a href="https://github.com/fabian">
-				<img src="https://avatars.githubusercontent.com/u/13346?s=72&v=4" width="24" alt="Avatar of fabian"> fabian
-			</a><br/>
-			Fabian Vogler
-		</td>
-		<td>@worldskills International </td>
-		<td>No Twitter Username</td>
-		<td>Baden, Switzerland</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>649</td>
-		<td>
-			<a href="https://github.com/corecode">
-				<img src="https://avatars.githubusercontent.com/u/177979?s=72&v=4" width="24" alt="Avatar of corecode"> corecode
-			</a><br/>
-			Simon Schubert
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>650</td>
-		<td>
-			<a href="https://github.com/jwagner">
-				<img src="https://avatars.githubusercontent.com/u/293536?s=72&v=4" width="24" alt="Avatar of jwagner"> jwagner
-			</a><br/>
-			Jonas Wagner
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>651</td>
-		<td>
-			<a href="https://github.com/sustrik">
-				<img src="https://avatars.githubusercontent.com/u/305718?s=72&u=548fd7c0305aba2cba001d9f605a4aed7cfb34d8&v=4" width="24" alt="Avatar of sustrik"> sustrik
-			</a><br/>
-			Martin Sustrik
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>652</td>
-		<td>
-			<a href="https://github.com/X-Wei">
-				<img src="https://avatars.githubusercontent.com/u/1615196?s=72&u=2b5896d3f5fc6a9e948daccb58147f9064ffbcaa&v=4" width="24" alt="Avatar of X-Wei"> X-Wei
-			</a><br/>
-			xwei
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>11</td>
-	</tr>
-	<tr>
 		<td>653</td>
-		<td>
-			<a href="https://github.com/mwitkow">
-				<img src="https://avatars.githubusercontent.com/u/9655971?s=72&u=9ac9c337575399af33d816ba322eaa15f8665796&v=4" width="24" alt="Avatar of mwitkow"> mwitkow
-			</a><br/>
-			Michal Witkowski
-		</td>
-		<td>Youtube </td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>654</td>
-		<td>
-			<a href="https://github.com/diegoantognini">
-				<img src="https://avatars.githubusercontent.com/u/1092464?s=72&u=60ef8dabb8a4a1e5db95b467d22674b046127758&v=4" width="24" alt="Avatar of diegoantognini"> diegoantognini
-			</a><br/>
-			Diego Antognini
-		</td>
-		<td>Google Deepmind </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>655</td>
-		<td>
-			<a href="https://github.com/13ace37">
-				<img src="https://avatars.githubusercontent.com/u/29045525?s=72&u=6fcb951e39f2cf254aba0b55af83ce80da876413&v=4" width="24" alt="Avatar of 13ace37"> 13ace37
-			</a><br/>
-			Riccardo H.
-		</td>
-		<td>K.r. Pfiffner Ag </td>
-		<td>No Twitter Username</td>
-		<td>Solothurn, Switzerland</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>656</td>
-		<td>
-			<a href="https://github.com/huanghoujing">
-				<img src="https://avatars.githubusercontent.com/u/13362456?s=72&v=4" width="24" alt="Avatar of huanghoujing"> huanghoujing
-			</a><br/>
-			Houjing Huang
-		</td>
-		<td>Department Of Quantitative Biomedicine,<br/>University<br/>Of<br/>Zurich<br/></td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>657</td>
-		<td>
-			<a href="https://github.com/Dev-XYS">
-				<img src="https://avatars.githubusercontent.com/u/14133164?s=72&u=240370f1f20d6665fb3fa41c9e8ecd7579e47041&v=4" width="24" alt="Avatar of Dev-XYS"> Dev-XYS
-			</a><br/>
-			Yushuo Xiao
-		</td>
-		<td>Eth Zürich </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>658</td>
-		<td>
-			<a href="https://github.com/cocaman">
-				<img src="https://avatars.githubusercontent.com/u/59089?s=72&u=69d21957300d3b6d0cda52ed5dbcde19cc32b4c6&v=4" width="24" alt="Avatar of cocaman"> cocaman
-			</a><br/>
-			Corsin Camichel
-		</td>
-		<td>Vulnerability.ch </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>659</td>
-		<td>
-			<a href="https://github.com/francoisgeorgy">
-				<img src="https://avatars.githubusercontent.com/u/367480?s=72&u=49d1582c43730ce9ca330830ad2e5d36e225e39d&v=4" width="24" alt="Avatar of francoisgeorgy"> francoisgeorgy
-			</a><br/>
-			François Georgy
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/francoisgeorgy">francoisgeorgy</a></td>
-		<td>Lausanne, Switzerland</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>660</td>
 		<td>
 			<a href="https://github.com/nyancrimew">
 				<img src="https://avatars.githubusercontent.com/u/13785669?s=72&u=c1851eaee621909c627a42fbe6bb47d00d0435cf&v=4" width="24" alt="Avatar of nyancrimew"> nyancrimew
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nyancrimew">Copy rank badge</a><br/>
 			maia arson crimew
 		</td>
 		<td>Unemployment Llc </td>
 		<td><a href="https://twitter.com/awawawhoami">awawawhoami</a></td>
 		<td>Switzerland</td>
-		<td>9</td>
+		<td>13</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>654</td>
 		<td>
-			<a href="https://github.com/gregsaun">
-				<img src="https://avatars.githubusercontent.com/u/12335098?s=72&u=01d425ac724765ddcb67a9e484637b0d998953ed&v=4" width="24" alt="Avatar of gregsaun"> gregsaun
-			</a><br/>
-			Grégoire Saunier
+			<a href="https://github.com/ststeiger">
+				<img src="https://avatars.githubusercontent.com/u/294085?s=72&u=fb9ab2f33202012ff36a7b1fbd2fd3f83c0cb167&v=4" width="24" alt="Avatar of ststeiger"> ststeiger
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ststeiger">Copy rank badge</a><br/>
+			Stefan Steiger
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>9</td>
+		<td>13</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>655</td>
 		<td>
-			<a href="https://github.com/mihaidusmanu">
-				<img src="https://avatars.githubusercontent.com/u/7276224?s=72&u=1d2134db142b3cf2926252d16701a967041f2626&v=4" width="24" alt="Avatar of mihaidusmanu"> mihaidusmanu
-			</a><br/>
-			Mihai Dusmanu
+			<a href="https://github.com/ksheremet">
+				<img src="https://avatars.githubusercontent.com/u/6387464?s=72&u=74e8a9a7dda121fa79de3ef7ff1ca985639b7e04&v=4" width="24" alt="Avatar of ksheremet"> ksheremet
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ksheremet">Copy rank badge</a><br/>
+			Katarina Sheremet
+		</td>
+		<td>@futureware-tech  </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>656</td>
+		<td>
+			<a href="https://github.com/BinaryBrain">
+				<img src="https://avatars.githubusercontent.com/u/1102077?s=72&u=f28680a7eef173898f2fedc0046c625f734cd208&v=4" width="24" alt="Avatar of BinaryBrain"> BinaryBrain
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#BinaryBrain">Copy rank badge</a><br/>
+			Sacha Bron
+		</td>
+		<td>Llamaindex (@run-llama)  </td>
+		<td>No Twitter Username</td>
+		<td>Vevey, Switzerland</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>657</td>
+		<td>
+			<a href="https://github.com/ywwywwyww">
+				<img src="https://avatars.githubusercontent.com/u/36836507?s=72&u=e412657f65b1ae5b0a9e4bac1e61761eafc26bf4&v=4" width="24" alt="Avatar of ywwywwyww"> ywwywwyww
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ywwywwyww">Copy rank badge</a><br/>
+			Wuwei Yuan
+		</td>
+		<td>Eth Zürich </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>658</td>
+		<td>
+			<a href="https://github.com/jwagner">
+				<img src="https://avatars.githubusercontent.com/u/293536?s=72&v=4" width="24" alt="Avatar of jwagner"> jwagner
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jwagner">Copy rank badge</a><br/>
+			Jonas Wagner
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>9</td>
+		<td>12</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>659</td>
 		<td>
-			<a href="https://github.com/dragos">
-				<img src="https://avatars.githubusercontent.com/u/133742?s=72&v=4" width="24" alt="Avatar of dragos"> dragos
-			</a><br/>
-			Iulian Dragos
-		</td>
-		<td>Gradle Inc </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>664</td>
-		<td>
-			<a href="https://github.com/matthiasjost">
-				<img src="https://avatars.githubusercontent.com/u/8178852?s=72&u=22064117c418d4ee6ec7c78913ec2fa4885ecb85&v=4" width="24" alt="Avatar of matthiasjost"> matthiasjost
-			</a><br/>
-			Matthias Jost
+			<a href="https://github.com/pyr">
+				<img src="https://avatars.githubusercontent.com/u/110280?s=72&v=4" width="24" alt="Avatar of pyr"> pyr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pyr">Copy rank badge</a><br/>
+			Pierre-Yves Ritschard
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>9</td>
+		<td>Lausanne, Switzerland</td>
+		<td>12</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/baderj">
-				<img src="https://avatars.githubusercontent.com/u/5196024?s=72&u=1245ca5b94ecbcea8fd0192ec674be27750da9af&v=4" width="24" alt="Avatar of baderj"> baderj
-			</a><br/>
+				<img src="https://avatars.githubusercontent.com/u/5196024?s=72&u=98c02fb0435a02b1604ddaaa4ec8adc08091b55d&v=4" width="24" alt="Avatar of baderj"> baderj
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#baderj">Copy rank badge</a><br/>
 			Johannes Bader
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/viql">viql</a></td>
 		<td>Switzerland</td>
-		<td>9</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>661</td>
+		<td>
+			<a href="https://github.com/multiOTP">
+				<img src="https://avatars.githubusercontent.com/u/9338189?s=72&u=4e38ff645e8bde92bd1618846efe2a87c49512a5&v=4" width="24" alt="Avatar of multiOTP"> multiOTP
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#multiOTP">Copy rank badge</a><br/>
+			multiOTP
+		</td>
+		<td>Sysco Systèmes De Communication<br/>Sa<br/></td>
+		<td>No Twitter Username</td>
+		<td>Neuchâtel, Switzerland</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>662</td>
+		<td>
+			<a href="https://github.com/haofeixu">
+				<img src="https://avatars.githubusercontent.com/u/19343475?s=72&u=5d3010316de6b3d035a04c3e82a35684ace923cc&v=4" width="24" alt="Avatar of haofeixu"> haofeixu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#haofeixu">Copy rank badge</a><br/>
+			Haofei Xu
+		</td>
+		<td>Eth Zurich </td>
+		<td><a href="https://twitter.com/haofeixu">haofeixu</a></td>
+		<td>Switzerland</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>663</td>
+		<td>
+			<a href="https://github.com/mpkuse">
+				<img src="https://avatars.githubusercontent.com/u/10494231?s=72&u=6d9631c982a402fa23232f1e8b1cdc0e2e42b924&v=4" width="24" alt="Avatar of mpkuse"> mpkuse
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mpkuse">Copy rank badge</a><br/>
+			Manohar Kuse
+		</td>
+		<td>Magicleap </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>664</td>
+		<td>
+			<a href="https://github.com/lionaneesh">
+				<img src="https://avatars.githubusercontent.com/u/1305901?s=72&u=699fc72184f54b14568617582a90a518b74ff579&v=4" width="24" alt="Avatar of lionaneesh"> lionaneesh
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#lionaneesh">Copy rank badge</a><br/>
+			Aneesh Dogra
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>665</td>
+		<td>
+			<a href="https://github.com/ludoro">
+				<img src="https://avatars.githubusercontent.com/u/21291898?s=72&u=8fb0d3534a1cd2b64d438614cd014500064cd9f3&v=4" width="24" alt="Avatar of ludoro"> ludoro
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ludoro">Copy rank badge</a><br/>
+			LudovicoBessi
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>666</td>
 		<td>
-			<a href="https://github.com/gcarleo">
-				<img src="https://avatars.githubusercontent.com/u/28149892?s=72&u=d1d29e2c29bb9e31440f4ee839f60ed4a51f7d80&v=4" width="24" alt="Avatar of gcarleo"> gcarleo
-			</a><br/>
-			Giuseppe Carleo
+			<a href="https://github.com/lnielsen">
+				<img src="https://avatars.githubusercontent.com/u/1698163?s=72&u=42415a90ca4ffedd5597e15b7ea24b0e9aa075cf&v=4" width="24" alt="Avatar of lnielsen"> lnielsen
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#lnielsen">Copy rank badge</a><br/>
+			Lars Holm Nielsen
 		</td>
-		<td>Epfl - Computational Quantum<br/>Science<br/>Lab<br/></td>
+		<td>Cern </td>
 		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland </td>
-		<td>9</td>
+		<td>Geneva, Switzerland</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>667</td>
 		<td>
-			<a href="https://github.com/benelot">
-				<img src="https://avatars.githubusercontent.com/u/3111851?s=72&u=454de013d2b04f3bc239a60689f141417b27572e&v=4" width="24" alt="Avatar of benelot"> benelot
-			</a><br/>
-			Benjamin Ellenberger
+			<a href="https://github.com/vincentdoerig">
+				<img src="https://avatars.githubusercontent.com/u/24668338?s=72&u=0d87703fd8bed7edcaca65533ac4f034b9c0c226&v=4" width="24" alt="Avatar of vincentdoerig"> vincentdoerig
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#vincentdoerig">Copy rank badge</a><br/>
+			Vincent Dörig
 		</td>
-		<td>Idsc.io </td>
-		<td>No Twitter Username</td>
-		<td>Bern, Switzerland</td>
-		<td>9</td>
+		<td>@adobe </td>
+		<td><a href="https://twitter.com/vincentdoerig">vincentdoerig</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>668</td>
 		<td>
 			<a href="https://github.com/gaoj0017">
 				<img src="https://avatars.githubusercontent.com/u/29655153?s=72&u=54d0efbe5af77b076d6351d0f65c6bd8135e0528&v=4" width="24" alt="Avatar of gaoj0017"> gaoj0017
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#gaoj0017">Copy rank badge</a><br/>
 			Jianyang Gao
 		</td>
 		<td>Eth Zurich </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>9</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>669</td>
 		<td>
+			<a href="https://github.com/pfmaggi">
+				<img src="https://avatars.githubusercontent.com/u/188886?s=72&u=74e7b5e35b661727795e45974e87e0fa49294fa4&v=4" width="24" alt="Avatar of pfmaggi"> pfmaggi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pfmaggi">Copy rank badge</a><br/>
+			Pietro F. Maggi
+		</td>
+		<td>@google  </td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>670</td>
+		<td>
+			<a href="https://github.com/corecode">
+				<img src="https://avatars.githubusercontent.com/u/177979?s=72&v=4" width="24" alt="Avatar of corecode"> corecode
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#corecode">Copy rank badge</a><br/>
+			Simon Schubert
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>671</td>
+		<td>
 			<a href="https://github.com/Tobion">
 				<img src="https://avatars.githubusercontent.com/u/610090?s=72&u=fedb67a3abf84ae167c43d49405b83ddb9ac5682&v=4" width="24" alt="Avatar of Tobion"> Tobion
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Tobion">Copy rank badge</a><br/>
 			Tobias Schultze
 		</td>
 		<td>@protonmail </td>
 		<td><a href="https://twitter.com/TobiasSchultze">TobiasSchultze</a></td>
 		<td>Zürich, Schweiz</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>670</td>
-		<td>
-			<a href="https://github.com/grappler">
-				<img src="https://avatars.githubusercontent.com/u/1785641?s=72&u=a6e061a95a6ea9855a84c3826ffca7ee3d5e7dae&v=4" width="24" alt="Avatar of grappler"> grappler
-			</a><br/>
-			Ulrich Pogson
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>671</td>
-		<td>
-			<a href="https://github.com/19reborn">
-				<img src="https://avatars.githubusercontent.com/u/55176925?s=72&u=6cfd9b2d7f7980cf66c771ef193a667affb00a4e&v=4" width="24" alt="Avatar of 19reborn"> 19reborn
-			</a><br/>
-			Yiming Wang
-		</td>
-		<td>Eth Zurich </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>8</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>672</td>
 		<td>
 			<a href="https://github.com/sspreitzer">
 				<img src="https://avatars.githubusercontent.com/u/2178355?s=72&u=7b851eeb111ac5c1b0ff79b72850d0ba7b1394ff&v=4" width="24" alt="Avatar of sspreitzer"> sspreitzer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#sspreitzer">Copy rank badge</a><br/>
 			Sascha Spreitzer
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>8</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>673</td>
 		<td>
+			<a href="https://github.com/rzander">
+				<img src="https://avatars.githubusercontent.com/u/11909453?s=72&u=fccca3f9ae49b066fc6011698df7d9ad3c8c34df&v=4" width="24" alt="Avatar of rzander"> rzander
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#rzander">Copy rank badge</a><br/>
+			Roger Zander
+		</td>
+		<td>Www.romawo.com </td>
+		<td><a href="https://twitter.com/roger_zander">roger_zander</a></td>
+		<td>Switzerland</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>674</td>
+		<td>
+			<a href="https://github.com/eleanor-em">
+				<img src="https://avatars.githubusercontent.com/u/19245077?s=72&u=1ed9f95798311d857571ba3250c9b6b1dcd2f7bc&v=4" width="24" alt="Avatar of eleanor-em"> eleanor-em
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#eleanor-em">Copy rank badge</a><br/>
+			Eleanor McMurtry
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/zornsllama">zornsllama</a></td>
+		<td>Basel, Switzerland</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>675</td>
+		<td>
+			<a href="https://github.com/Martiusweb">
+				<img src="https://avatars.githubusercontent.com/u/195352?s=72&u=f8891d4be0bae001aa9000f24d2f02681555b463&v=4" width="24" alt="Avatar of Martiusweb"> Martiusweb
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Martiusweb">Copy rank badge</a><br/>
+			Martin Richard
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>676</td>
+		<td>
+			<a href="https://github.com/original-brownbear">
+				<img src="https://avatars.githubusercontent.com/u/6490959?s=72&u=d958bd40c338c6fb58e3246aae008e4196e805ab&v=4" width="24" alt="Avatar of original-brownbear"> original-brownbear
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#original-brownbear">Copy rank badge</a><br/>
+			Armin Braun
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Schwyz, Switzerland</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>677</td>
+		<td>
 			<a href="https://github.com/kmaninis">
 				<img src="https://avatars.githubusercontent.com/u/15798030?s=72&u=a345ebd69d342d1a9a28cd14fe9cb0dba9275fe9&v=4" width="24" alt="Avatar of kmaninis"> kmaninis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#kmaninis">Copy rank badge</a><br/>
 			Kevis-Kokitsi Maninis
 		</td>
 		<td>Google </td>
@@ -8854,103 +8908,51 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>674</td>
-		<td>
-			<a href="https://github.com/raaapsky">
-				<img src="https://avatars.githubusercontent.com/u/36480470?s=72&u=d32563b3e67a424fe67cd2a628105446aa1cdaf9&v=4" width="24" alt="Avatar of raaapsky"> raaapsky
-			</a><br/>
-			Jennie Jae 
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/leunsca">leunsca</a></td>
-		<td>Switzerland</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>675</td>
-		<td>
-			<a href="https://github.com/TommasoBelluzzo">
-				<img src="https://avatars.githubusercontent.com/u/235053?s=72&u=a9c0a35db7521842454de68aad7825869aadfe8e&v=4" width="24" alt="Avatar of TommasoBelluzzo"> TommasoBelluzzo
-			</a><br/>
-			Tommaso Belluzzo
-		</td>
-		<td>Dxt Commodities Sa </td>
-		<td>No Twitter Username</td>
-		<td>Lugano, Switzerland</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>676</td>
-		<td>
-			<a href="https://github.com/simonaco">
-				<img src="https://avatars.githubusercontent.com/u/1573904?s=72&u=4e610237f2474069c2bfb512b6a2472209bf0d47&v=4" width="24" alt="Avatar of simonaco"> simonaco
-			</a><br/>
-			Simona Cotin
-		</td>
-		<td>@google </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>677</td>
-		<td>
-			<a href="https://github.com/rzander">
-				<img src="https://avatars.githubusercontent.com/u/11909453?s=72&u=fccca3f9ae49b066fc6011698df7d9ad3c8c34df&v=4" width="24" alt="Avatar of rzander"> rzander
-			</a><br/>
-			Roger Zander
-		</td>
-		<td>Www.romawo.com </td>
-		<td><a href="https://twitter.com/roger_zander">roger_zander</a></td>
-		<td>Switzerland</td>
-		<td>7</td>
-	</tr>
-	<tr>
 		<td>678</td>
 		<td>
-			<a href="https://github.com/marcojakob">
-				<img src="https://avatars.githubusercontent.com/u/2089493?s=72&u=1ec7cc57f2a33b942b69de8c88c7257148c4e8ef&v=4" width="24" alt="Avatar of marcojakob"> marcojakob
-			</a><br/>
-			Marco Jakob
+			<a href="https://github.com/Juriy">
+				<img src="https://avatars.githubusercontent.com/u/460586?s=72&u=0fb289d16a51210f7424f1bf4a3791de6a993aa2&v=4" width="24" alt="Avatar of Juriy"> Juriy
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Juriy">Copy rank badge</a><br/>
+			Juriy Bura
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
+		<td>Juriy.com </td>
+		<td><a href="https://twitter.com/juriy">juriy</a></td>
+		<td>Zurich, Switzerland</td>
 		<td>7</td>
 	</tr>
 	<tr>
 		<td>679</td>
 		<td>
-			<a href="https://github.com/tfzhou">
-				<img src="https://avatars.githubusercontent.com/u/5791480?s=72&u=548d55df5368ad1a7d69892ec5a93aa5280fbc3b&v=4" width="24" alt="Avatar of tfzhou"> tfzhou
-			</a><br/>
-			Tianfei Zhou
+			<a href="https://github.com/madebylina">
+				<img src="https://avatars.githubusercontent.com/u/230974118?s=72&u=b58a58d422f8ab5c453cdb981632651dcd72c0da&v=4" width="24" alt="Avatar of madebylina"> madebylina
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#madebylina">Copy rank badge</a><br/>
+			Lina
 		</td>
-		<td>Computer Vision Laboratory, Eth<br/>Zurich<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Switzerland</td>
+		<td>Lausanne, Switzerland</td>
 		<td>7</td>
 	</tr>
 	<tr>
 		<td>680</td>
 		<td>
-			<a href="https://github.com/appinho">
-				<img src="https://avatars.githubusercontent.com/u/19282091?s=72&u=4a2a12f128097efecd7b18d27d8a0f5553a5f165&v=4" width="24" alt="Avatar of appinho"> appinho
-			</a><br/>
-			Simon Appel
+			<a href="https://github.com/klokan">
+				<img src="https://avatars.githubusercontent.com/u/59284?s=72&u=69d67331df9964ddd3dd136ec1cc5c0072785dff&v=4" width="24" alt="Avatar of klokan"> klokan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#klokan">Copy rank badge</a><br/>
+			Petr Pridal
 		</td>
-		<td>Software Engineer At Fluence<br/></td>
+		<td>Maptiler @maptiler / @klokantech<br/></td>
 		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
+		<td>Switzerland</td>
 		<td>7</td>
 	</tr>
 	<tr>
 		<td>681</td>
 		<td>
-			<a href="https://github.com/tizian">
-				<img src="https://avatars.githubusercontent.com/u/5443860?s=72&u=140079e43f65c2c626054161d786427bbb72e6e7&v=4" width="24" alt="Avatar of tizian"> tizian
-			</a><br/>
-			Tizian Zeltner
+			<a href="https://github.com/raifehizlan">
+				<img src="https://avatars.githubusercontent.com/u/78505987?s=72&u=e22cc52f652fa6fa0c075601a78dc47d56fe39c1&v=4" width="24" alt="Avatar of raifehizlan"> raifehizlan
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#raifehizlan">Copy rank badge</a><br/>
+			Raife Hizlan
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -8960,36 +8962,10 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 	<tr>
 		<td>682</td>
 		<td>
-			<a href="https://github.com/misto">
-				<img src="https://avatars.githubusercontent.com/u/2111?s=72&u=8cc71f050a5921426291e7d98028180def006cfc&v=4" width="24" alt="Avatar of misto"> misto
-			</a><br/>
-			Mirko Stocker
-		</td>
-		<td>Ost – Ostschweizer Fachhochschule<br/></td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>683</td>
-		<td>
-			<a href="https://github.com/Zzh2000">
-				<img src="https://avatars.githubusercontent.com/u/13914052?s=72&v=4" width="24" alt="Avatar of Zzh2000"> Zzh2000
-			</a><br/>
-			Zihan Zhu
-		</td>
-		<td> Eth Zurich </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>684</td>
-		<td>
-			<a href="https://github.com/tobiasfshr">
-				<img src="https://avatars.githubusercontent.com/u/36965290?s=72&u=3f43c8647260b9d2fbc2b3107b1659dcbcccaac1&v=4" width="24" alt="Avatar of tobiasfshr"> tobiasfshr
-			</a><br/>
-			Tobias Fischer
+			<a href="https://github.com/19reborn">
+				<img src="https://avatars.githubusercontent.com/u/55176925?s=72&u=6cfd9b2d7f7980cf66c771ef193a667affb00a4e&v=4" width="24" alt="Avatar of 19reborn"> 19reborn
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#19reborn">Copy rank badge</a><br/>
+			Yiming Wang
 		</td>
 		<td>Eth Zurich </td>
 		<td>No Twitter Username</td>
@@ -8997,12 +8973,38 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>7</td>
 	</tr>
 	<tr>
+		<td>683</td>
+		<td>
+			<a href="https://github.com/cocaman">
+				<img src="https://avatars.githubusercontent.com/u/59089?s=72&u=69d21957300d3b6d0cda52ed5dbcde19cc32b4c6&v=4" width="24" alt="Avatar of cocaman"> cocaman
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#cocaman">Copy rank badge</a><br/>
+			Corsin Camichel
+		</td>
+		<td>Vulnerability.ch </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>684</td>
+		<td>
+			<a href="https://github.com/tomlankhorst">
+				<img src="https://avatars.githubusercontent.com/u/675432?s=72&u=e766e34b97a054b76f563c41c4f74714d27c99d4&v=4" width="24" alt="Avatar of tomlankhorst"> tomlankhorst
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#tomlankhorst">Copy rank badge</a><br/>
+			Tom Lankhorst
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>7</td>
+	</tr>
+	<tr>
 		<td>685</td>
 		<td>
-			<a href="https://github.com/senny">
-				<img src="https://avatars.githubusercontent.com/u/5402?s=72&u=15f91ac36b3158fbf4c2a592d4e21039c4f688c3&v=4" width="24" alt="Avatar of senny"> senny
-			</a><br/>
-			Yves Senn
+			<a href="https://github.com/gregsaun">
+				<img src="https://avatars.githubusercontent.com/u/12335098?s=72&u=01d425ac724765ddcb67a9e484637b0d998953ed&v=4" width="24" alt="Avatar of gregsaun"> gregsaun
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#gregsaun">Copy rank badge</a><br/>
+			Grégoire Saunier
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -9014,7 +9016,7 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>
 			<a href="https://github.com/LearningKijo">
 				<img src="https://avatars.githubusercontent.com/u/120234772?s=72&u=8aec9c33a2897574baa6bd74763aa3e2bccbe85c&v=4" width="24" alt="Avatar of LearningKijo"> LearningKijo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#LearningKijo">Copy rank badge</a><br/>
 			Kijo Ninja 
 		</td>
 		<td>No Company</td>
@@ -9025,74 +9027,22 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 	<tr>
 		<td>687</td>
 		<td>
-			<a href="https://github.com/thebrisly">
-				<img src="https://avatars.githubusercontent.com/u/84352348?s=72&u=5d7f09abf830b0b4465f07b2a36d771ebaaf9a23&v=4" width="24" alt="Avatar of thebrisly"> thebrisly
-			</a><br/>
-			Lau'
+			<a href="https://github.com/Dev-XYS">
+				<img src="https://avatars.githubusercontent.com/u/14133164?s=72&u=240370f1f20d6665fb3fa41c9e8ecd7579e47041&v=4" width="24" alt="Avatar of Dev-XYS"> Dev-XYS
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Dev-XYS">Copy rank badge</a><br/>
+			Yushuo Xiao
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>688</td>
-		<td>
-			<a href="https://github.com/toebR">
-				<img src="https://avatars.githubusercontent.com/u/65813696?s=72&u=b2b9f6ac0b6124cdd0a332be93c63a11d487abff&v=4" width="24" alt="Avatar of toebR"> toebR
-			</a><br/>
-			Tobias Stalder
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/toeb18">toeb18</a></td>
-		<td>Switzerland</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>689</td>
-		<td>
-			<a href="https://github.com/Martiusweb">
-				<img src="https://avatars.githubusercontent.com/u/195352?s=72&u=f8891d4be0bae001aa9000f24d2f02681555b463&v=4" width="24" alt="Avatar of Martiusweb"> Martiusweb
-			</a><br/>
-			Martin Richard
-		</td>
-		<td>Google </td>
+		<td>Eth Zürich </td>
 		<td>No Twitter Username</td>
 		<td>Zürich, Switzerland</td>
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>690</td>
-		<td>
-			<a href="https://github.com/FangjinhuaWang">
-				<img src="https://avatars.githubusercontent.com/u/45430667?s=72&v=4" width="24" alt="Avatar of FangjinhuaWang"> FangjinhuaWang
-			</a><br/>
-			Fangjinhua Wang
-		</td>
-		<td>Eth Zurich </td>
-		<td><a href="https://twitter.com/FangjinhuaWang">FangjinhuaWang</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>691</td>
-		<td>
-			<a href="https://github.com/mkovatsc">
-				<img src="https://avatars.githubusercontent.com/u/664090?s=72&u=686cdd29f89fc9cc4950ff9c4a24a4c2f82b1785&v=4" width="24" alt="Avatar of mkovatsc"> mkovatsc
-			</a><br/>
-			Matthias Kovatsch
-		</td>
-		<td>Siemens Schweiz Ag </td>
-		<td>No Twitter Username</td>
-		<td>Zug, Switzerland</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>692</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/VincentStimper">
 				<img src="https://avatars.githubusercontent.com/u/23174118?s=72&u=a39a6840421b363180e235ad8959e76e421f9140&v=4" width="24" alt="Avatar of VincentStimper"> VincentStimper
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#VincentStimper">Copy rank badge</a><br/>
 			Vincent Stimper
 		</td>
 		<td>Isomorphic Labs </td>
@@ -9101,141 +9051,89 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>689</td>
 		<td>
-			<a href="https://github.com/lclc">
-				<img src="https://avatars.githubusercontent.com/u/1846033?s=72&u=5d8974f61543942dda6c86a0d7e76be3e55d5fc1&v=4" width="24" alt="Avatar of lclc"> lclc
-			</a><br/>
-			Lucas Betschart
+			<a href="https://github.com/simonaco">
+				<img src="https://avatars.githubusercontent.com/u/1573904?s=72&u=4e610237f2474069c2bfb512b6a2472209bf0d47&v=4" width="24" alt="Avatar of simonaco"> simonaco
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#simonaco">Copy rank badge</a><br/>
+			Simona Cotin
 		</td>
-		<td>21 Analytics </td>
+		<td>@google </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>690</td>
+		<td>
+			<a href="https://github.com/jamuhl">
+				<img src="https://avatars.githubusercontent.com/u/977772?s=72&v=4" width="24" alt="Avatar of jamuhl"> jamuhl
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#jamuhl">Copy rank badge</a><br/>
+			Jan Mühlemann
+		</td>
+		<td>Locize.com </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>691</td>
+		<td>
+			<a href="https://github.com/matthiasjost">
+				<img src="https://avatars.githubusercontent.com/u/8178852?s=72&u=22064117c418d4ee6ec7c78913ec2fa4885ecb85&v=4" width="24" alt="Avatar of matthiasjost"> matthiasjost
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#matthiasjost">Copy rank badge</a><br/>
+			Matthias Jost
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>6</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>692</td>
+		<td>
+			<a href="https://github.com/MarkusEicher">
+				<img src="https://avatars.githubusercontent.com/u/83175378?s=72&u=ca8cd7a19ba982e4842e441f70ed5a912c724220&v=4" width="24" alt="Avatar of MarkusEicher"> MarkusEicher
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#MarkusEicher">Copy rank badge</a><br/>
+			Markus Eicher  
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MarkusEicher70">MarkusEicher70</a></td>
+		<td>Switzerland</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>693</td>
+		<td>
+			<a href="https://github.com/cyrilwanner">
+				<img src="https://avatars.githubusercontent.com/u/2709252?s=72&u=53b6a35347c9cccfd16f48f20e48488a089b67ed&v=4" width="24" alt="Avatar of cyrilwanner"> cyrilwanner
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#cyrilwanner">Copy rank badge</a><br/>
+			Cyril Wanner
+		</td>
+		<td>@open-ch  </td>
+		<td><a href="https://twitter.com/cyrilwanner">cyrilwanner</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>694</td>
 		<td>
-			<a href="https://github.com/Wookai">
-				<img src="https://avatars.githubusercontent.com/u/141379?s=72&v=4" width="24" alt="Avatar of Wookai"> Wookai
-			</a><br/>
-			Vincent Etter
+			<a href="https://github.com/nanoant">
+				<img src="https://avatars.githubusercontent.com/u/103067?s=72&u=7093070845f8bd0aab42fc9dd45f21cd4aa9612f&v=4" width="24" alt="Avatar of nanoant"> nanoant
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nanoant">Copy rank badge</a><br/>
+			Adam Strzelecki
 		</td>
-		<td>@google </td>
+		<td>Nanoant </td>
 		<td>No Twitter Username</td>
-		<td>Vuadens, Switzerland</td>
-		<td>6</td>
+		<td>Zurich Area, Switzerland</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>695</td>
 		<td>
-			<a href="https://github.com/awaelchli">
-				<img src="https://avatars.githubusercontent.com/u/5495193?s=72&v=4" width="24" alt="Avatar of awaelchli"> awaelchli
-			</a><br/>
-			Adrian Wälchli
-		</td>
-		<td>Poolside </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>696</td>
-		<td>
-			<a href="https://github.com/vesparny">
-				<img src="https://avatars.githubusercontent.com/u/82070?s=72&u=7bd88bbd47f313ac60f74d69e5341c9dfa77e66d&v=4" width="24" alt="Avatar of vesparny"> vesparny
-			</a><br/>
-			Alessandro Arnodo
-		</td>
-		<td>@pocketbitcoin   </td>
-		<td><a href="https://twitter.com/vesparny">vesparny</a></td>
-		<td>Geneva</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>697</td>
-		<td>
-			<a href="https://github.com/eleanor-em">
-				<img src="https://avatars.githubusercontent.com/u/19245077?s=72&u=1ed9f95798311d857571ba3250c9b6b1dcd2f7bc&v=4" width="24" alt="Avatar of eleanor-em"> eleanor-em
-			</a><br/>
-			Eleanor McMurtry
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/zornsllama">zornsllama</a></td>
-		<td>Basel, Switzerland</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>698</td>
-		<td>
-			<a href="https://github.com/MasterScrat">
-				<img src="https://avatars.githubusercontent.com/u/140592?s=72&u=260e75d2051318e1a5582bd6bc087d4ef4f75209&v=4" width="24" alt="Avatar of MasterScrat"> MasterScrat
-			</a><br/>
-			Florian
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/MasterScrat">MasterScrat</a></td>
-		<td>Switzerland</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>699</td>
-		<td>
-			<a href="https://github.com/queckezz">
-				<img src="https://avatars.githubusercontent.com/u/2580598?s=72&u=f49c19069f7041bb78c65738eb042989e688a085&v=4" width="24" alt="Avatar of queckezz"> queckezz
-			</a><br/>
-			Fabian Eichenberger
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>700</td>
-		<td>
-			<a href="https://github.com/lorenwel">
-				<img src="https://avatars.githubusercontent.com/u/5803027?s=72&u=717049637a190ec972e86957ca800cf17e748e41&v=4" width="24" alt="Avatar of lorenwel"> lorenwel
-			</a><br/>
-			Lorenz Wellhausen
-		</td>
-		<td>@swiss-mile  </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>701</td>
-		<td>
-			<a href="https://github.com/kenp-io">
-				<img src="https://avatars.githubusercontent.com/u/47064018?s=72&u=eaa0e0e7fa4db00492714c159fbb5b167bfd1347&v=4" width="24" alt="Avatar of kenp-io"> kenp-io
-			</a><br/>
-			Ken Pillonel
-		</td>
-		<td>Exploring The Simulation Sàrl<br/></td>
-		<td><a href="https://twitter.com/kenpillonel">kenpillonel</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>702</td>
-		<td>
-			<a href="https://github.com/vegasbrianc">
-				<img src="https://avatars.githubusercontent.com/u/674790?s=72&u=571076a5357725fbfa67ee1333f2254f75f20b4c&v=4" width="24" alt="Avatar of vegasbrianc"> vegasbrianc
-			</a><br/>
-			Brian Christner
-		</td>
-		<td>@docker-captains  </td>
-		<td><a href="https://twitter.com/idomyowntricks">idomyowntricks</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>703</td>
-		<td>
 			<a href="https://github.com/reyk">
 				<img src="https://avatars.githubusercontent.com/u/2347189?s=72&u=bca7b417eb507812c8ed71f1cdeb9ffa13fcf85d&v=4" width="24" alt="Avatar of reyk"> reyk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#reyk">Copy rank badge</a><br/>
 			Reyk Floeter
 		</td>
 		<td>No Company</td>
@@ -9244,11 +9142,11 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/NicoConstantin">
 				<img src="https://avatars.githubusercontent.com/u/79233011?s=72&u=69e1962d05db2bb64b327bae7416f7ab41cf2d83&v=4" width="24" alt="Avatar of NicoConstantin"> NicoConstantin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#NicoConstantin">Copy rank badge</a><br/>
 			Nico Constantin
 		</td>
 		<td>No Company</td>
@@ -9257,63 +9155,115 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>697</td>
 		<td>
-			<a href="https://github.com/blindglobe">
-				<img src="https://avatars.githubusercontent.com/u/23518?s=72&v=4" width="24" alt="Avatar of blindglobe"> blindglobe
-			</a><br/>
-			Tony Rossini
+			<a href="https://github.com/SinaShakoori">
+				<img src="https://avatars.githubusercontent.com/u/188763081?s=72&u=67687fbf3e7c4e834fdb001d53390fa5fd56dc07&v=4" width="24" alt="Avatar of SinaShakoori"> SinaShakoori
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#SinaShakoori">Copy rank badge</a><br/>
+			Sina Shakoori
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Segnas, Switzerland</td>
+		<td>switzerland</td>
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>698</td>
 		<td>
-			<a href="https://github.com/mpkuse">
-				<img src="https://avatars.githubusercontent.com/u/10494231?s=72&u=6d9631c982a402fa23232f1e8b1cdc0e2e42b924&v=4" width="24" alt="Avatar of mpkuse"> mpkuse
-			</a><br/>
-			Manohar Kuse
+			<a href="https://github.com/grappler">
+				<img src="https://avatars.githubusercontent.com/u/1785641?s=72&u=a6e061a95a6ea9855a84c3826ffca7ee3d5e7dae&v=4" width="24" alt="Avatar of grappler"> grappler
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#grappler">Copy rank badge</a><br/>
+			Ulrich Pogson
 		</td>
-		<td>Magicleap </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>699</td>
 		<td>
-			<a href="https://github.com/xtaran">
-				<img src="https://avatars.githubusercontent.com/u/241094?s=72&u=979ca17f88204649dea1d3609f384c944d5f69ca&v=4" width="24" alt="Avatar of xtaran"> xtaran
-			</a><br/>
-			Axel Beckert
+			<a href="https://github.com/tfzhou">
+				<img src="https://avatars.githubusercontent.com/u/5791480?s=72&u=548d55df5368ad1a7d69892ec5a93aa5280fbc3b&v=4" width="24" alt="Avatar of tfzhou"> tfzhou
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#tfzhou">Copy rank badge</a><br/>
+			Tianfei Zhou
 		</td>
-		<td>Eth Zürich (@ethz-it-sec) +<br/>@debian<br/></td>
-		<td><a href="https://twitter.com/XTaran">XTaran</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>708</td>
-		<td>
-			<a href="https://github.com/lnielsen">
-				<img src="https://avatars.githubusercontent.com/u/1698163?s=72&u=42415a90ca4ffedd5597e15b7ea24b0e9aa075cf&v=4" width="24" alt="Avatar of lnielsen"> lnielsen
-			</a><br/>
-			Lars Holm Nielsen
-		</td>
-		<td>Cern </td>
+		<td>Computer Vision Laboratory, Eth<br/>Zurich<br/></td>
 		<td>No Twitter Username</td>
-		<td>Geneva, Switzerland</td>
+		<td>Switzerland</td>
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>700</td>
+		<td>
+			<a href="https://github.com/AngeloSchulerPiletti">
+				<img src="https://avatars.githubusercontent.com/u/74366173?s=72&u=8e649edafb95d974907d1f64082457402c291ce3&v=4" width="24" alt="Avatar of AngeloSchulerPiletti"> AngeloSchulerPiletti
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#AngeloSchulerPiletti">Copy rank badge</a><br/>
+			Angelo Schuler Piletti
+		</td>
+		<td>Zytro </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>701</td>
+		<td>
+			<a href="https://github.com/appinho">
+				<img src="https://avatars.githubusercontent.com/u/19282091?s=72&u=4a2a12f128097efecd7b18d27d8a0f5553a5f165&v=4" width="24" alt="Avatar of appinho"> appinho
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#appinho">Copy rank badge</a><br/>
+			Simon Appel
+		</td>
+		<td>Software Engineer At Fluence<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>702</td>
+		<td>
+			<a href="https://github.com/FangjinhuaWang">
+				<img src="https://avatars.githubusercontent.com/u/45430667?s=72&v=4" width="24" alt="Avatar of FangjinhuaWang"> FangjinhuaWang
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#FangjinhuaWang">Copy rank badge</a><br/>
+			Fangjinhua Wang
+		</td>
+		<td>Eth Zurich </td>
+		<td><a href="https://twitter.com/FangjinhuaWang">FangjinhuaWang</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>703</td>
+		<td>
+			<a href="https://github.com/misto">
+				<img src="https://avatars.githubusercontent.com/u/2111?s=72&u=8cc71f050a5921426291e7d98028180def006cfc&v=4" width="24" alt="Avatar of misto"> misto
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#misto">Copy rank badge</a><br/>
+			Mirko Stocker
+		</td>
+		<td>Ost – Ostschweizer Fachhochschule<br/></td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>704</td>
+		<td>
+			<a href="https://github.com/aloiscochard">
+				<img src="https://avatars.githubusercontent.com/u/215476?s=72&u=f9e718bb22c90cf14033ad131e4d95f3cbe74b23&v=4" width="24" alt="Avatar of aloiscochard"> aloiscochard
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#aloiscochard">Copy rank badge</a><br/>
+			Aloïs Cochard
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/aloiscochard">aloiscochard</a></td>
+		<td>Lausanne, CH</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/danielkummer">
 				<img src="https://avatars.githubusercontent.com/u/927389?s=72&v=4" width="24" alt="Avatar of danielkummer"> danielkummer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#danielkummer">Copy rank badge</a><br/>
 			Daniel Kummer
 		</td>
 		<td>Nevis Security Ag </td>
@@ -9322,63 +9272,24 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>706</td>
 		<td>
-			<a href="https://github.com/nanoant">
-				<img src="https://avatars.githubusercontent.com/u/103067?s=72&u=7093070845f8bd0aab42fc9dd45f21cd4aa9612f&v=4" width="24" alt="Avatar of nanoant"> nanoant
-			</a><br/>
-			Adam Strzelecki
+			<a href="https://github.com/awaelchli">
+				<img src="https://avatars.githubusercontent.com/u/5495193?s=72&v=4" width="24" alt="Avatar of awaelchli"> awaelchli
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#awaelchli">Copy rank badge</a><br/>
+			Adrian Wälchli
 		</td>
-		<td>Nanoant </td>
-		<td>No Twitter Username</td>
-		<td>Zurich Area, Switzerland</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>711</td>
-		<td>
-			<a href="https://github.com/tomlankhorst">
-				<img src="https://avatars.githubusercontent.com/u/675432?s=72&u=e766e34b97a054b76f563c41c4f74714d27c99d4&v=4" width="24" alt="Avatar of tomlankhorst"> tomlankhorst
-			</a><br/>
-			Tom Lankhorst
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>712</td>
-		<td>
-			<a href="https://github.com/neocorp">
-				<img src="https://avatars.githubusercontent.com/u/6378297?s=72&u=e281e303d64053534a4921bb8731572b19bf3c4f&v=4" width="24" alt="Avatar of neocorp"> neocorp
-			</a><br/>
-			Niyazi Erdoğan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Basel, Switzerland</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>713</td>
-		<td>
-			<a href="https://github.com/JannisKirschner">
-				<img src="https://avatars.githubusercontent.com/u/22867985?s=72&u=9aa60a9b0f869df28ac7236d43f941d562dc6a85&v=4" width="24" alt="Avatar of JannisKirschner"> JannisKirschner
-			</a><br/>
-			Jannis
-		</td>
-		<td>No Company</td>
+		<td>Nvidia </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>4</td>
+		<td>3</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/saelo">
 				<img src="https://avatars.githubusercontent.com/u/2453290?s=72&u=7ad4e1d6fe0cc7f52e70cdc960043801eea1eef4&v=4" width="24" alt="Avatar of saelo"> saelo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#saelo">Copy rank badge</a><br/>
 			Samuel Groß
 		</td>
 		<td>No Company</td>
@@ -9387,24 +9298,11 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>715</td>
-		<td>
-			<a href="https://github.com/SimonHoiberg">
-				<img src="https://avatars.githubusercontent.com/u/31746424?s=72&u=496ba7472ddd4356e89dd221d1938054b94058dd&v=4" width="24" alt="Avatar of SimonHoiberg"> SimonHoiberg
-			</a><br/>
-			Simon Høiberg
-		</td>
-		<td>@aidbase </td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>716</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/akosma">
 				<img src="https://avatars.githubusercontent.com/u/55348?s=72&u=34935b75a66b34749fa6e50c40957d5132399747&v=4" width="24" alt="Avatar of akosma"> akosma
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#akosma">Copy rank badge</a><br/>
 			Adrian Kosmaczewski
 		</td>
 		<td>No Company</td>
@@ -9413,11 +9311,11 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/kumar-shridhar">
 				<img src="https://avatars.githubusercontent.com/u/20888097?s=72&u=b3c1b4cfc9ec18d5bebc4ad22fe04fec1e3885a2&v=4" width="24" alt="Avatar of kumar-shridhar"> kumar-shridhar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#kumar-shridhar">Copy rank badge</a><br/>
 			Kumar Shridhar
 		</td>
 		<td>Eth Zürich </td>
@@ -9426,25 +9324,51 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>710</td>
 		<td>
-			<a href="https://github.com/haofeixu">
-				<img src="https://avatars.githubusercontent.com/u/19343475?s=72&u=5d3010316de6b3d035a04c3e82a35684ace923cc&v=4" width="24" alt="Avatar of haofeixu"> haofeixu
-			</a><br/>
-			Haofei Xu
+			<a href="https://github.com/mwitkow">
+				<img src="https://avatars.githubusercontent.com/u/9655971?s=72&u=9ac9c337575399af33d816ba322eaa15f8665796&v=4" width="24" alt="Avatar of mwitkow"> mwitkow
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mwitkow">Copy rank badge</a><br/>
+			Michal Witkowski
 		</td>
-		<td>Eth Zurich </td>
-		<td><a href="https://twitter.com/haofeixu">haofeixu</a></td>
-		<td>Switzerland</td>
+		<td>Youtube </td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>711</td>
 		<td>
-			<a href="https://github.com/Spiritdude">
-				<img src="https://avatars.githubusercontent.com/u/2078766?s=72&u=3c8f87080eb8efffb6e5f397a85b506eca1268e4&v=4" width="24" alt="Avatar of Spiritdude"> Spiritdude
-			</a><br/>
-			Rene K. Mueller
+			<a href="https://github.com/mkovatsc">
+				<img src="https://avatars.githubusercontent.com/u/664090?s=72&u=686cdd29f89fc9cc4950ff9c4a24a4c2f82b1785&v=4" width="24" alt="Avatar of mkovatsc"> mkovatsc
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mkovatsc">Copy rank badge</a><br/>
+			Matthias Kovatsch
+		</td>
+		<td>Siemens Schweiz Ag </td>
+		<td>No Twitter Username</td>
+		<td>Zug, Switzerland</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>712</td>
+		<td>
+			<a href="https://github.com/letmejustputthishere">
+				<img src="https://avatars.githubusercontent.com/u/32162112?s=72&u=1c6681d9f2879774c4d09a40c9145cbc52a8fa72&v=4" width="24" alt="Avatar of letmejustputthishere"> letmejustputthishere
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#letmejustputthishere">Copy rank badge</a><br/>
+			Moritz Fuller
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cryptoschindler">cryptoschindler</a></td>
+		<td>Zürich</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>713</td>
+		<td>
+			<a href="https://github.com/queckezz">
+				<img src="https://avatars.githubusercontent.com/u/2580598?s=72&u=f49c19069f7041bb78c65738eb042989e688a085&v=4" width="24" alt="Avatar of queckezz"> queckezz
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#queckezz">Copy rank badge</a><br/>
+			Fabian Eichenberger
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -9452,11 +9376,63 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>714</td>
+		<td>
+			<a href="https://github.com/GuoleiSun">
+				<img src="https://avatars.githubusercontent.com/u/22496918?s=72&u=dcbc7c050d4d334115dd6e3467f34457eb8203e9&v=4" width="24" alt="Avatar of GuoleiSun"> GuoleiSun
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#GuoleiSun">Copy rank badge</a><br/>
+			Guolei Sun
+		</td>
+		<td>Eth Zurich </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>715</td>
+		<td>
+			<a href="https://github.com/sustrik">
+				<img src="https://avatars.githubusercontent.com/u/305718?s=72&u=548fd7c0305aba2cba001d9f605a4aed7cfb34d8&v=4" width="24" alt="Avatar of sustrik"> sustrik
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#sustrik">Copy rank badge</a><br/>
+			Martin Sustrik
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>716</td>
+		<td>
+			<a href="https://github.com/kenp-io">
+				<img src="https://avatars.githubusercontent.com/u/47064018?s=72&u=eaa0e0e7fa4db00492714c159fbb5b167bfd1347&v=4" width="24" alt="Avatar of kenp-io"> kenp-io
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#kenp-io">Copy rank badge</a><br/>
+			Ken Pillonel
+		</td>
+		<td>Exploring The Simulation Sàrl<br/></td>
+		<td><a href="https://twitter.com/kenpillonel">kenpillonel</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>717</td>
+		<td>
+			<a href="https://github.com/nicolasgarnier">
+				<img src="https://avatars.githubusercontent.com/u/3766663?s=72&u=494921fa3835ba1f5047868b53fd5aadde44f9b0&v=4" width="24" alt="Avatar of nicolasgarnier"> nicolasgarnier
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nicolasgarnier">Copy rank badge</a><br/>
+			Nicolas Garnier
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/maelfabien">
 				<img src="https://avatars.githubusercontent.com/u/24256555?s=72&u=c782bb3b14659fad0a156d30eac55ed69814bf40&v=4" width="24" alt="Avatar of maelfabien"> maelfabien
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#maelfabien">Copy rank badge</a><br/>
 			Mael Fabien
 		</td>
 		<td>Biped.ai </td>
@@ -9465,37 +9441,50 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>2</td>
 	</tr>
 	<tr>
+		<td>719</td>
+		<td>
+			<a href="https://github.com/matttproud">
+				<img src="https://avatars.githubusercontent.com/u/46149?s=72&v=4" width="24" alt="Avatar of matttproud"> matttproud
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#matttproud">Copy rank badge</a><br/>
+			Matt T. Proud
+		</td>
+		<td>@google </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Schweiz</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>720</td>
+		<td>
+			<a href="https://github.com/vterron">
+				<img src="https://avatars.githubusercontent.com/u/1575425?s=72&u=ad762b5b6ef2232f4af47c27d5eb1a288ab1a21f&v=4" width="24" alt="Avatar of vterron"> vterron
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#vterron">Copy rank badge</a><br/>
+			Víctor Terrón
+		</td>
+		<td>@google </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>2</td>
+	</tr>
+	<tr>
 		<td>721</td>
 		<td>
-			<a href="https://github.com/axel22">
-				<img src="https://avatars.githubusercontent.com/u/151774?s=72&u=921b179f119995994f807454ebd33a9c36695a6d&v=4" width="24" alt="Avatar of axel22"> axel22
-			</a><br/>
-			Aleksandar Prokopec
+			<a href="https://github.com/svenkreiss">
+				<img src="https://avatars.githubusercontent.com/u/2775078?s=72&u=5fa695b50029d26b45ec642ab8588bf2f808df31&v=4" width="24" alt="Avatar of svenkreiss"> svenkreiss
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#svenkreiss">Copy rank badge</a><br/>
+			Sven Kreiss
 		</td>
-		<td>Oracle Labs </td>
-		<td>No Twitter Username</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/svenkreiss">svenkreiss</a></td>
 		<td>Switzerland</td>
 		<td>2</td>
 	</tr>
 	<tr>
 		<td>722</td>
 		<td>
-			<a href="https://github.com/PiotrDabkowski">
-				<img src="https://avatars.githubusercontent.com/u/4052440?s=72&u=2f859072382eae564ef35c572ad1d5cd083fd6a2&v=4" width="24" alt="Avatar of PiotrDabkowski"> PiotrDabkowski
-			</a><br/>
-			Piotr Dabkowski
-		</td>
-		<td>@elevenlabs </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>723</td>
-		<td>
 			<a href="https://github.com/gyglim">
 				<img src="https://avatars.githubusercontent.com/u/11196049?s=72&u=e996d5ad13f05b39c073fa39f73d3fb1cc5e5bc8&v=4" width="24" alt="Avatar of gyglim"> gyglim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#gyglim">Copy rank badge</a><br/>
 			Michael Gygli
 		</td>
 		<td>Cerrion </td>
@@ -9504,11 +9493,11 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>723</td>
 		<td>
 			<a href="https://github.com/Mauin">
 				<img src="https://avatars.githubusercontent.com/u/6169809?s=72&u=7f8ed22e64fb9a52da7de772142c69df3d57ffd6&v=4" width="24" alt="Avatar of Mauin"> Mauin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Mauin">Copy rank badge</a><br/>
 			Marvin Ramin
 		</td>
 		<td>No Company</td>
@@ -9517,11 +9506,50 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>2</td>
 	</tr>
 	<tr>
+		<td>724</td>
+		<td>
+			<a href="https://github.com/Alwaz12">
+				<img src="https://avatars.githubusercontent.com/u/167531290?s=72&u=bac0fc729b9c86bb66981d23e1894b0d36031077&v=4" width="24" alt="Avatar of Alwaz12"> Alwaz12
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Alwaz12">Copy rank badge</a><br/>
+			Muhammad Alwaz
+		</td>
+		<td>10 Pearls Pakistan </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>2</td>
+	</tr>
+	<tr>
 		<td>725</td>
+		<td>
+			<a href="https://github.com/xtaran">
+				<img src="https://avatars.githubusercontent.com/u/241094?s=72&u=979ca17f88204649dea1d3609f384c944d5f69ca&v=4" width="24" alt="Avatar of xtaran"> xtaran
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#xtaran">Copy rank badge</a><br/>
+			Axel Beckert
+		</td>
+		<td>Eth Zürich (@ethz-it-sec) +<br/>@debian<br/></td>
+		<td><a href="https://twitter.com/XTaran">XTaran</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>726</td>
+		<td>
+			<a href="https://github.com/tobiasfshr">
+				<img src="https://avatars.githubusercontent.com/u/36965290?s=72&u=3f43c8647260b9d2fbc2b3107b1659dcbcccaac1&v=4" width="24" alt="Avatar of tobiasfshr"> tobiasfshr
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#tobiasfshr">Copy rank badge</a><br/>
+			Tobias Fischer
+		</td>
+		<td>Eth Zurich </td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>727</td>
 		<td>
 			<a href="https://github.com/edoardogerosa">
 				<img src="https://avatars.githubusercontent.com/u/36902303?s=72&u=8bf74cf8b089991344ef83faeb9184cf8da6dc46&v=4" width="24" alt="Avatar of edoardogerosa"> edoardogerosa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#edoardogerosa">Copy rank badge</a><br/>
 			Edoardo Gerosa
 		</td>
 		<td>No Company</td>
@@ -9530,11 +9558,11 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>726</td>
+		<td>728</td>
 		<td>
 			<a href="https://github.com/MiraLak">
 				<img src="https://avatars.githubusercontent.com/u/541422?s=72&v=4" width="24" alt="Avatar of MiraLak"> MiraLak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#MiraLak">Copy rank badge</a><br/>
 			Amira LAKHAL
 		</td>
 		<td>Bobst </td>
@@ -9543,24 +9571,11 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>727</td>
-		<td>
-			<a href="https://github.com/Nibba2018">
-				<img src="https://avatars.githubusercontent.com/u/29832615?s=72&u=7e87007f4dcba0a1e53455d7063fe11350b9b9d6&v=4" width="24" alt="Avatar of Nibba2018"> Nibba2018
-			</a><br/>
-			Soham Biswas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Soham_Biswas1">Soham_Biswas1</a></td>
-		<td>Geneva, Switzerland</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>728</td>
+		<td>729</td>
 		<td>
 			<a href="https://github.com/ChenhongyiYang">
 				<img src="https://avatars.githubusercontent.com/u/45643360?s=72&u=033cf4da5be8b4fbd1d49ae48a531a296a75922c&v=4" width="24" alt="Avatar of ChenhongyiYang"> ChenhongyiYang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#ChenhongyiYang">Copy rank badge</a><br/>
 			Chenhongyi Yang
 		</td>
 		<td>Meta </td>
@@ -9569,37 +9584,24 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>729</td>
-		<td>
-			<a href="https://github.com/GuoleiSun">
-				<img src="https://avatars.githubusercontent.com/u/22496918?s=72&u=dcbc7c050d4d334115dd6e3467f34457eb8203e9&v=4" width="24" alt="Avatar of GuoleiSun"> GuoleiSun
-			</a><br/>
-			Guolei Sun
-		</td>
-		<td>Eth Zurich </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>2</td>
-	</tr>
-	<tr>
 		<td>730</td>
 		<td>
-			<a href="https://github.com/zyearn">
-				<img src="https://avatars.githubusercontent.com/u/4475779?s=72&u=c713e767acf33d335cc696a065328fb5778cd83e&v=4" width="24" alt="Avatar of zyearn"> zyearn
-			</a><br/>
-			Jiashun Zhu
+			<a href="https://github.com/Nibba2018">
+				<img src="https://avatars.githubusercontent.com/u/29832615?s=72&u=7e87007f4dcba0a1e53455d7063fe11350b9b9d6&v=4" width="24" alt="Avatar of Nibba2018"> Nibba2018
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#Nibba2018">Copy rank badge</a><br/>
+			Soham Biswas
 		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Soham_Biswas1">Soham_Biswas1</a></td>
+		<td>Geneva, Switzerland</td>
+		<td>2</td>
 	</tr>
 	<tr>
 		<td>731</td>
 		<td>
 			<a href="https://github.com/tgraf">
 				<img src="https://avatars.githubusercontent.com/u/1417913?s=72&u=34e4cb5f15ca1d0efadd7d5f4bcc7ae7ebb04816&v=4" width="24" alt="Avatar of tgraf"> tgraf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#tgraf">Copy rank badge</a><br/>
 			Thomas Graf
 		</td>
 		<td>Isovalent & Cilium </td>
@@ -9610,25 +9612,25 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 	<tr>
 		<td>732</td>
 		<td>
-			<a href="https://github.com/mbanzi">
-				<img src="https://avatars.githubusercontent.com/u/405127?s=72&u=82e386d9d957258be1ffc0b682a9337b2e984660&v=4" width="24" alt="Avatar of mbanzi"> mbanzi
-			</a><br/>
-			Massimo Banzi
+			<a href="https://github.com/diagodryson">
+				<img src="https://avatars.githubusercontent.com/u/99479818?s=72&u=e2191487c5196c60d5e29b36aa27ed70aa692011&v=4" width="24" alt="Avatar of diagodryson"> diagodryson
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#diagodryson">Copy rank badge</a><br/>
+			Diago Dryson
 		</td>
-		<td>Arduino </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Switzerland</td>
+		<td>Geneva, Switzerland</td>
 		<td>1</td>
 	</tr>
 	<tr>
 		<td>733</td>
 		<td>
-			<a href="https://github.com/mpospese">
-				<img src="https://avatars.githubusercontent.com/u/1037520?s=72&u=ca8d54073643692d6ba059b01850cf49ad07638b&v=4" width="24" alt="Avatar of mpospese"> mpospese
-			</a><br/>
-			Mark Pospesel
+			<a href="https://github.com/mbanzi">
+				<img src="https://avatars.githubusercontent.com/u/405127?s=72&u=82e386d9d957258be1ffc0b682a9337b2e984660&v=4" width="24" alt="Avatar of mbanzi"> mbanzi
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mbanzi">Copy rank badge</a><br/>
+			Massimo Banzi
 		</td>
-		<td>Crazy Milk Software </td>
+		<td>Supermoderno </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
 		<td>1</td>
@@ -9636,9 +9638,35 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 	<tr>
 		<td>734</td>
 		<td>
+			<a href="https://github.com/mihaidusmanu">
+				<img src="https://avatars.githubusercontent.com/u/7276224?s=72&u=1d2134db142b3cf2926252d16701a967041f2626&v=4" width="24" alt="Avatar of mihaidusmanu"> mihaidusmanu
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#mihaidusmanu">Copy rank badge</a><br/>
+			Mihai Dusmanu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>735</td>
+		<td>
+			<a href="https://github.com/axel22">
+				<img src="https://avatars.githubusercontent.com/u/151774?s=72&u=921b179f119995994f807454ebd33a9c36695a6d&v=4" width="24" alt="Avatar of axel22"> axel22
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#axel22">Copy rank badge</a><br/>
+			Aleksandar Prokopec
+		</td>
+		<td>Oracle Labs </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>736</td>
+		<td>
 			<a href="https://github.com/nivida">
 				<img src="https://avatars.githubusercontent.com/u/1699173?s=72&u=da4d5606b31a8add698d9df69ed363c90402ce50&v=4" width="24" alt="Avatar of nivida"> nivida
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nivida">Copy rank badge</a><br/>
 			Samuel Furter
 		</td>
 		<td>No Company</td>
@@ -9647,11 +9675,11 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>735</td>
+		<td>737</td>
 		<td>
 			<a href="https://github.com/densh">
 				<img src="https://avatars.githubusercontent.com/u/320966?s=72&u=784f6f761f35b8b7f3f787172b468334d6524524&v=4" width="24" alt="Avatar of densh"> densh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#densh">Copy rank badge</a><br/>
 			Denys Shabalin
 		</td>
 		<td>No Company</td>
@@ -9660,11 +9688,24 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>736</td>
+		<td>738</td>
+		<td>
+			<a href="https://github.com/thebrisly">
+				<img src="https://avatars.githubusercontent.com/u/84352348?s=72&u=5d7f09abf830b0b4465f07b2a36d771ebaaf9a23&v=4" width="24" alt="Avatar of thebrisly"> thebrisly
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#thebrisly">Copy rank badge</a><br/>
+			Lau'
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>739</td>
 		<td>
 			<a href="https://github.com/teoli2003">
 				<img src="https://avatars.githubusercontent.com/u/1466293?s=72&v=4" width="24" alt="Avatar of teoli2003"> teoli2003
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#teoli2003">Copy rank badge</a><br/>
 			Jean-Yves Perrier
 		</td>
 		<td>@openwebdocs </td>
@@ -9673,76 +9714,24 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>737</td>
-		<td>
-			<a href="https://github.com/artwopee">
-				<img src="https://avatars.githubusercontent.com/u/247956544?s=72&v=4" width="24" alt="Avatar of artwopee"> artwopee
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Geneva, Switzerland 🇨🇭</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>738</td>
-		<td>
-			<a href="https://github.com/svenkreiss">
-				<img src="https://avatars.githubusercontent.com/u/2775078?s=72&u=5fa695b50029d26b45ec642ab8588bf2f808df31&v=4" width="24" alt="Avatar of svenkreiss"> svenkreiss
-			</a><br/>
-			Sven Kreiss
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/svenkreiss">svenkreiss</a></td>
-		<td>Switzerland</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>739</td>
-		<td>
-			<a href="https://github.com/juliettebeaudet">
-				<img src="https://avatars.githubusercontent.com/u/57507532?s=72&u=ad7ded0d19f8f82202d504a68911cc6049702411&v=4" width="24" alt="Avatar of juliettebeaudet"> juliettebeaudet
-			</a><br/>
-			Juliette Beaudet
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Geneva, Switzerland</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>740</td>
 		<td>
-			<a href="https://github.com/ggambetta">
-				<img src="https://avatars.githubusercontent.com/u/5198975?s=72&u=3046745b2b82258a4fa64163b94d84596de06b39&v=4" width="24" alt="Avatar of ggambetta"> ggambetta
-			</a><br/>
-			Gabriel Gambetta
+			<a href="https://github.com/iuliagroza">
+				<img src="https://avatars.githubusercontent.com/u/22706226?s=72&u=54f258d89f366a99c08258f095181976192e1c48&v=4" width="24" alt="Avatar of iuliagroza"> iuliagroza
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#iuliagroza">Copy rank badge</a><br/>
+			Iulia Groza
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
+		<td>Google </td>
+		<td><a href="https://twitter.com/_iuliagroza">_iuliagroza</a></td>
+		<td>Zurich, Switzerland</td>
 		<td>1</td>
 	</tr>
 	<tr>
 		<td>741</td>
 		<td>
-			<a href="https://github.com/raifehizlan">
-				<img src="https://avatars.githubusercontent.com/u/78505987?s=72&u=e22cc52f652fa6fa0c075601a78dc47d56fe39c1&v=4" width="24" alt="Avatar of raifehizlan"> raifehizlan
-			</a><br/>
-			Raife Hizlan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>742</td>
-		<td>
 			<a href="https://github.com/tonini">
 				<img src="https://avatars.githubusercontent.com/u/55331?s=72&u=c8777f8facba980208beea2b774383998d8e4b4f&v=4" width="24" alt="Avatar of tonini"> tonini
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#tonini">Copy rank badge</a><br/>
 			Samuel Tonini
 		</td>
 		<td>Samueltonini.ch </td>
@@ -9751,37 +9740,24 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>1</td>
 	</tr>
 	<tr>
+		<td>742</td>
+		<td>
+			<a href="https://github.com/nickray">
+				<img src="https://avatars.githubusercontent.com/u/1092423?s=72&u=652209f3d870fa8329082a99c8c476e1de070587&v=4" width="24" alt="Avatar of nickray"> nickray
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#nickray">Copy rank badge</a><br/>
+			Nicolas Stalder
+		</td>
+		<td>@solokeys @trussed-dev @yamnord @ycrypto<br/></td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1</td>
+	</tr>
+	<tr>
 		<td>743</td>
-		<td>
-			<a href="https://github.com/buzzcosm">
-				<img src="https://avatars.githubusercontent.com/u/97390468?s=72&u=76b1b589f6a33011bba11c89aaa013142066bffe&v=4" width="24" alt="Avatar of buzzcosm"> buzzcosm
-			</a><br/>
-			Evgueni Kounik \n(Jeff_Buzz)
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>744</td>
-		<td>
-			<a href="https://github.com/MarcoSero">
-				<img src="https://avatars.githubusercontent.com/u/867996?s=72&u=b2b57a20a28d16b7ad101aa0a79a5df6280aeea6&v=4" width="24" alt="Avatar of MarcoSero"> MarcoSero
-			</a><br/>
-			Marco Sero
-		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>745</td>
 		<td>
 			<a href="https://github.com/pcloudcom">
 				<img src="https://avatars.githubusercontent.com/u/5516879?s=72&u=1a3abffdfe2fb1826a05b09e3927dee97ac4fbca&v=4" width="24" alt="Avatar of pcloudcom"> pcloudcom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#pcloudcom">Copy rank badge</a><br/>
 			pCloud
 		</td>
 		<td>Pcloud </td>
@@ -9790,25 +9766,12 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>746</td>
+		<td>744</td>
 		<td>
-			<a href="https://github.com/ninijay">
-				<img src="https://avatars.githubusercontent.com/u/6756364?s=72&u=5cb726dcc0d3966c863751b6e27534d8972b3eaa&v=4" width="24" alt="Avatar of ninijay"> ninijay
-			</a><br/>
-			Zanidd
-		</td>
-		<td>Dvnll Engineering </td>
-		<td><a href="https://twitter.com/zanidd">zanidd</a></td>
-		<td>Zürich, CH</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>747</td>
-		<td>
-			<a href="https://github.com/bernardopires">
-				<img src="https://avatars.githubusercontent.com/u/1726375?s=72&u=8d572a7e58da6396e508762ad67110e010a5e732&v=4" width="24" alt="Avatar of bernardopires"> bernardopires
-			</a><br/>
-			Bernardo Pires
+			<a href="https://github.com/buzzcosm">
+				<img src="https://avatars.githubusercontent.com/u/97390468?s=72&u=76b1b589f6a33011bba11c89aaa013142066bffe&v=4" width="24" alt="Avatar of buzzcosm"> buzzcosm
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#buzzcosm">Copy rank badge</a><br/>
+			buzzcosm
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -9816,24 +9779,11 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>748</td>
-		<td>
-			<a href="https://github.com/aloiscochard">
-				<img src="https://avatars.githubusercontent.com/u/215476?s=72&u=f9e718bb22c90cf14033ad131e4d95f3cbe74b23&v=4" width="24" alt="Avatar of aloiscochard"> aloiscochard
-			</a><br/>
-			Aloïs Cochard
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/aloiscochard">aloiscochard</a></td>
-		<td>Lausanne, CH</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>749</td>
+		<td>745</td>
 		<td>
 			<a href="https://github.com/francoisfleuret">
 				<img src="https://avatars.githubusercontent.com/u/11032892?s=72&u=2c11cd61aadc48e8c1c0c429d501da940a5412f9&v=4" width="24" alt="Avatar of francoisfleuret"> francoisfleuret
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#francoisfleuret">Copy rank badge</a><br/>
 			Francois Fleuret
 		</td>
 		<td>Meta / University Of<br/>Geneva<br/></td>
@@ -9842,55 +9792,16 @@ There are `827 users`  in Switzerland. You need at least `108 followers` to be o
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>746</td>
 		<td>
-			<a href="https://github.com/dosomder">
-				<img src="https://avatars.githubusercontent.com/u/3040570?s=72&v=4" width="24" alt="Avatar of dosomder"> dosomder
-			</a><br/>
-			No Name
+			<a href="https://github.com/econmaett">
+				<img src="https://avatars.githubusercontent.com/u/60882754?s=72&u=32c7cf65ee8ca23905c53d4536acb31c2bd48a56&v=4" width="24" alt="Avatar of econmaett"> econmaett
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/switzerland.md#econmaett">Copy rank badge</a><br/>
+			econmaett
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>751</td>
-		<td>
-			<a href="https://github.com/jsnell">
-				<img src="https://avatars.githubusercontent.com/u/608702?s=72&v=4" width="24" alt="Avatar of jsnell"> jsnell
-			</a><br/>
-			Juho Snellman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>752</td>
-		<td>
-			<a href="https://github.com/yifan-bao">
-				<img src="https://avatars.githubusercontent.com/u/49557628?s=72&u=59cc87132d4070cc5218682d1446271c0533707f&v=4" width="24" alt="Avatar of yifan-bao"> yifan-bao
-			</a><br/>
-			Yifan Bao
-		</td>
-		<td>Eth Zurich </td>
-		<td><a href="https://twitter.com/Yifan_Bao__">Yifan_Bao__</a></td>
-		<td>ETH Zürich, Rämistrasse 101, 8092 Zürich</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>753</td>
-		<td>
-			<a href="https://github.com/jpuigcerver">
-				<img src="https://avatars.githubusercontent.com/u/656080?s=72&u=04e09df7b4031d4306363d3583e466577231bd1f&v=4" width="24" alt="Avatar of jpuigcerver"> jpuigcerver
-			</a><br/>
-			Joan Puigcerver
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
 		<td>1</td>
 	</tr>
 </table>
