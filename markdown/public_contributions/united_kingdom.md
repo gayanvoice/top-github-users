@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom">
 </a>
 
-The `public contributions` by users in United Kingdom on `2026/7/13 2:24 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
+The `public contributions` by users in United Kingdom on `2026/11/14 4:45 AM UTC`. This list contains users from `United Kingdom` and cities `London` `Birmingham` `Edinburgh` `Manchester` `Glasgow` `Liverpool` `Bristol`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `953 users`  in United Kingdom. You need at least `266 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [United Kingdom GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -109,7 +111,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/steipete">
 				<img src="https://avatars.githubusercontent.com/u/58493?s=72&u=95a4fccef3d341039661c427695691a664e333ba&v=4" width="24" alt="Avatar of steipete"> steipete
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#steipete">Copy rank badge</a><br/>
 			Peter Steinberger
 		</td>
 		<td>Openai </td>
@@ -122,7 +124,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mhawksey">
 				<img src="https://avatars.githubusercontent.com/u/204892?s=72&v=4" width="24" alt="Avatar of mhawksey"> mhawksey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mhawksey">Copy rank badge</a><br/>
 			Martin Hawksey
 		</td>
 		<td>No Company</td>
@@ -135,7 +137,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/nawazdhandala">
 				<img src="https://avatars.githubusercontent.com/u/2697338?s=72&u=85281b707c945204bf150edb760bd5f4b35f4b59&v=4" width="24" alt="Avatar of nawazdhandala"> nawazdhandala
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#nawazdhandala">Copy rank badge</a><br/>
 			Nawaz Dhandala
 		</td>
 		<td>@hackerbay </td>
@@ -148,7 +150,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/andrew">
 				<img src="https://avatars.githubusercontent.com/u/1060?s=72&u=e1d45ea20885a12b3628d68ed8119d67bd259b3e&v=4" width="24" alt="Avatar of andrew"> andrew
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#andrew">Copy rank badge</a><br/>
 			Andrew Nesbitt
 		</td>
 		<td>@ecosyste-ms And @octobox <br/></td>
@@ -161,7 +163,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/HariSekhon">
 				<img src="https://avatars.githubusercontent.com/u/2211051?s=72&u=7747a673d98078d50467ba6e4d4f3a2f17b6db17&v=4" width="24" alt="Avatar of HariSekhon"> HariSekhon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#HariSekhon">Copy rank badge</a><br/>
 			Hari Sekhon
 		</td>
 		<td>Private Cos Of A<br/>Crazy<br/>Exe<br/></td>
@@ -174,7 +176,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/danielroe">
 				<img src="https://avatars.githubusercontent.com/u/28706372?s=72&u=c4a5aa5232c09c3248533366d5c93a138d7e8987&v=4" width="24" alt="Avatar of danielroe"> danielroe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#danielroe">Copy rank badge</a><br/>
 			Daniel Roe
 		</td>
 		<td>No Company</td>
@@ -187,7 +189,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/martincostello">
 				<img src="https://avatars.githubusercontent.com/u/1439341?s=72&u=1de99d92193e7592604fc9c649d6e0e28fac1944&v=4" width="24" alt="Avatar of martincostello"> martincostello
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#martincostello">Copy rank badge</a><br/>
 			Martin Costello
 		</td>
 		<td>@grafana </td>
@@ -200,7 +202,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/MikeMcQuaid">
 				<img src="https://avatars.githubusercontent.com/u/125011?s=72&u=17f92c9ee404f7feb7ab4870486193cee617cfe4&v=4" width="24" alt="Avatar of MikeMcQuaid"> MikeMcQuaid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#MikeMcQuaid">Copy rank badge</a><br/>
 			Mike McQuaid
 		</td>
 		<td>@administrate </td>
@@ -213,7 +215,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/d0ugal">
 				<img src="https://avatars.githubusercontent.com/u/48211?s=72&v=4" width="24" alt="Avatar of d0ugal"> d0ugal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#d0ugal">Copy rank badge</a><br/>
 			Dougal Matthews
 		</td>
 		<td>No Company</td>
@@ -226,7 +228,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/yschimke">
 				<img src="https://avatars.githubusercontent.com/u/231923?s=72&u=9d414f0735e79ce28b987f678d8072d1c5fa6499&v=4" width="24" alt="Avatar of yschimke"> yschimke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#yschimke">Copy rank badge</a><br/>
 			Yuri Schimke
 		</td>
 		<td>@google </td>
@@ -239,7 +241,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/paul-hammant">
 				<img src="https://avatars.githubusercontent.com/u/82182?s=72&u=5c1385dc1c254d4b8401abb7677ba98501bab801&v=4" width="24" alt="Avatar of paul-hammant"> paul-hammant
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#paul-hammant">Copy rank badge</a><br/>
 			Paul Hammant
 		</td>
 		<td>Paul Hammant Delivery Optimization<br/></td>
@@ -252,7 +254,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ItzLevvie">
 				<img src="https://avatars.githubusercontent.com/u/11600822?s=72&u=9179939d8a3957e1226a8f8601e6ffde52b7bc12&v=4" width="24" alt="Avatar of ItzLevvie"> ItzLevvie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ItzLevvie">Copy rank badge</a><br/>
 			Levvie - she/her
 		</td>
 		<td>No Company</td>
@@ -265,7 +267,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/BYK">
 				<img src="https://avatars.githubusercontent.com/u/126780?s=72&u=fb459d67141d8b2df1822a92a43508019977facc&v=4" width="24" alt="Avatar of BYK"> BYK
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#BYK">Copy rank badge</a><br/>
 			Burak Yigit Kaya
 		</td>
 		<td>Sentry </td>
@@ -278,7 +280,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/darmie">
 				<img src="https://avatars.githubusercontent.com/u/848002?s=72&u=5a37d991919e02798b48722b83b3243044cb1d66&v=4" width="24" alt="Avatar of darmie"> darmie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#darmie">Copy rank badge</a><br/>
 			'Damilare Darmie Akinlaja
 		</td>
 		<td>No Company</td>
@@ -291,7 +293,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/spences10">
 				<img src="https://avatars.githubusercontent.com/u/234708?s=72&u=b5aa0cca1b3134278a8a2ab99ff1ff8b405ebffd&v=4" width="24" alt="Avatar of spences10"> spences10
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#spences10">Copy rank badge</a><br/>
 			Scott Spence
 		</td>
 		<td>No Company</td>
@@ -304,7 +306,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/PaulKinlan">
 				<img src="https://avatars.githubusercontent.com/u/45510?s=72&u=1586b8745b16bf2fe812c02fbde04f9af70dbc7e&v=4" width="24" alt="Avatar of PaulKinlan"> PaulKinlan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#PaulKinlan">Copy rank badge</a><br/>
 			Paul Kinlan
 		</td>
 		<td>Google </td>
@@ -317,7 +319,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jamesroutley">
 				<img src="https://avatars.githubusercontent.com/u/5308905?s=72&u=53cb5d62dc968e69726d7739494724448eb1f3e8&v=4" width="24" alt="Avatar of jamesroutley"> jamesroutley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jamesroutley">Copy rank badge</a><br/>
 			James 明良 Routley
 		</td>
 		<td>@monzo   </td>
@@ -330,7 +332,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/djl11">
 				<img src="https://avatars.githubusercontent.com/u/22750088?s=72&u=2f144e72bd6f2f63817bbeb5051cf53a66931ead&v=4" width="24" alt="Avatar of djl11"> djl11
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#djl11">Copy rank badge</a><br/>
 			Daniel Lenton
 		</td>
 		<td>@unifyai  </td>
@@ -343,7 +345,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/giordano">
 				<img src="https://avatars.githubusercontent.com/u/765740?s=72&u=c46bd34506f4a60db6e5529c8e793a3e3bc83d97&v=4" width="24" alt="Avatar of giordano"> giordano
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#giordano">Copy rank badge</a><br/>
 			Mosè Giordano
 		</td>
 		<td>@ucl-arc </td>
@@ -356,7 +358,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/joaquinbejar">
 				<img src="https://avatars.githubusercontent.com/u/99006095?s=72&u=61e08504c4ed97370f41c1fe60e3607eade6f1f9&v=4" width="24" alt="Avatar of joaquinbejar"> joaquinbejar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#joaquinbejar">Copy rank badge</a><br/>
 			Joaquin Bejar Garcia
 		</td>
 		<td>Capital Delta </td>
@@ -369,7 +371,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/LalitMaganti">
 				<img src="https://avatars.githubusercontent.com/u/679100?s=72&u=f814766ea7c0f8dd5275094941f872f14ee9484d&v=4" width="24" alt="Avatar of LalitMaganti"> LalitMaganti
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#LalitMaganti">Copy rank badge</a><br/>
 			Lalit Maganti
 		</td>
 		<td>@google Uk </td>
@@ -382,7 +384,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/shakkernerd">
 				<img src="https://avatars.githubusercontent.com/u/165377636?s=72&u=5560dd9f2d310e1ba61dbba864006a951391a582&v=4" width="24" alt="Avatar of shakkernerd"> shakkernerd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#shakkernerd">Copy rank badge</a><br/>
 			Shakker
 		</td>
 		<td>No Company</td>
@@ -395,7 +397,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/MrAlex94">
 				<img src="https://avatars.githubusercontent.com/u/4728920?s=72&u=b1b7b3c7b247eada1b8cc34a5f7eebab8c467cf6&v=4" width="24" alt="Avatar of MrAlex94"> MrAlex94
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#MrAlex94">Copy rank badge</a><br/>
 			Alex Kontos
 		</td>
 		<td>@browserworks  </td>
@@ -408,7 +410,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/MattIPv4">
 				<img src="https://avatars.githubusercontent.com/u/12371363?s=72&v=4" width="24" alt="Avatar of MattIPv4"> MattIPv4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#MattIPv4">Copy rank badge</a><br/>
 			Matt Cowley
 		</td>
 		<td>@alveusgg @nodejs @cdnjs </td>
@@ -421,7 +423,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/fiorix">
 				<img src="https://avatars.githubusercontent.com/u/129742?s=72&u=dbd469621e4a92b12026849ab57fca389b8375d0&v=4" width="24" alt="Avatar of fiorix"> fiorix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#fiorix">Copy rank badge</a><br/>
 			Alexandre Fiori
 		</td>
 		<td>Meta </td>
@@ -434,7 +436,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/TomWhitwell">
 				<img src="https://avatars.githubusercontent.com/u/1890544?s=72&u=815d595467bb5c347fd4e1a605b969c9203ba87e&v=4" width="24" alt="Avatar of TomWhitwell"> TomWhitwell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#TomWhitwell">Copy rank badge</a><br/>
 			Tom Whitwell
 		</td>
 		<td>Music Thing </td>
@@ -447,7 +449,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/t3chguy">
 				<img src="https://avatars.githubusercontent.com/u/2403652?s=72&u=722e46fb52978e0450ddd7a9be4de940c39916eb&v=4" width="24" alt="Avatar of t3chguy"> t3chguy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#t3chguy">Copy rank badge</a><br/>
 			Michael Telatynski
 		</td>
 		<td>[matrix] </td>
@@ -460,7 +462,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/salmanmkc">
 				<img src="https://avatars.githubusercontent.com/u/32169182?s=72&u=c534c610ef7f4e74c59251da9782e3b8a93034b5&v=4" width="24" alt="Avatar of salmanmkc"> salmanmkc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#salmanmkc">Copy rank badge</a><br/>
 			Salman Chishti
 		</td>
 		<td>Github, Ex-microsoft </td>
@@ -473,7 +475,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/maziyarpanahi">
 				<img src="https://avatars.githubusercontent.com/u/5762953?s=72&u=17070601b919833c70fc8cb61381822fdb987639&v=4" width="24" alt="Avatar of maziyarpanahi"> maziyarpanahi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#maziyarpanahi">Copy rank badge</a><br/>
 			Maziyar Panahi
 		</td>
 		<td>@iscpif </td>
@@ -486,7 +488,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/karianna">
 				<img src="https://avatars.githubusercontent.com/u/180840?s=72&u=aef1227e0de1ea303e998b6b053452e850c081f9&v=4" width="24" alt="Avatar of karianna"> karianna
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#karianna">Copy rank badge</a><br/>
 			Martijn Verburg
 		</td>
 		<td>@microsoft </td>
@@ -499,7 +501,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/aspiers">
 				<img src="https://avatars.githubusercontent.com/u/100738?s=72&v=4" width="24" alt="Avatar of aspiers"> aspiers
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#aspiers">Copy rank badge</a><br/>
 			Adam Spiers
 		</td>
 		<td>@toucanprotocol </td>
@@ -512,7 +514,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/AlexWaygood">
 				<img src="https://avatars.githubusercontent.com/u/66076021?s=72&u=fc4602f3e8770bf2b4ce2b2f244159c10b1174d3&v=4" width="24" alt="Avatar of AlexWaygood"> AlexWaygood
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#AlexWaygood">Copy rank badge</a><br/>
 			Alex Waygood
 		</td>
 		<td>@openai </td>
@@ -525,7 +527,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/seabbs">
 				<img src="https://avatars.githubusercontent.com/u/20317649?s=72&u=eff3f4970c361f47af4e653fa562743001c5c2c3&v=4" width="24" alt="Avatar of seabbs"> seabbs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#seabbs">Copy rank badge</a><br/>
 			Sam Abbott
 		</td>
 		<td>@epinowcast @epiaware @epiforecasts </td>
@@ -538,7 +540,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/isabelroses">
 				<img src="https://avatars.githubusercontent.com/u/71222764?s=72&u=454521a71c2cd3f3eb20c0135cb7ccf94cc71af3&v=4" width="24" alt="Avatar of isabelroses"> isabelroses
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#isabelroses">Copy rank badge</a><br/>
 			isabel
 		</td>
 		<td>No Company</td>
@@ -551,7 +553,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/domdomegg">
 				<img src="https://avatars.githubusercontent.com/u/4953590?s=72&u=1cf3449708d52a1c42764fd05e57959fabd0fd2f&v=4" width="24" alt="Avatar of domdomegg"> domdomegg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#domdomegg">Copy rank badge</a><br/>
 			adam jones
 		</td>
 		<td>@anthropics </td>
@@ -564,7 +566,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/patrick91">
 				<img src="https://avatars.githubusercontent.com/u/667029?s=72&u=e35958a75ac1f99c81b4bc99e22db8cd665ae7f0&v=4" width="24" alt="Avatar of patrick91"> patrick91
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#patrick91">Copy rank badge</a><br/>
 			Patrick Arminio
 		</td>
 		<td>@fastapilabs </td>
@@ -577,7 +579,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/willeastcott">
 				<img src="https://avatars.githubusercontent.com/u/697563?s=72&v=4" width="24" alt="Avatar of willeastcott"> willeastcott
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#willeastcott">Copy rank badge</a><br/>
 			Will Eastcott
 		</td>
 		<td>Playcanvas </td>
@@ -590,7 +592,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/championswimmer">
 				<img src="https://avatars.githubusercontent.com/u/1327050?s=72&v=4" width="24" alt="Avatar of championswimmer"> championswimmer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#championswimmer">Copy rank badge</a><br/>
 			Arnav Gupta
 		</td>
 		<td>@facebook </td>
@@ -603,7 +605,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/hughsie">
 				<img src="https://avatars.githubusercontent.com/u/151380?s=72&v=4" width="24" alt="Avatar of hughsie"> hughsie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#hughsie">Copy rank badge</a><br/>
 			Richard Hughes
 		</td>
 		<td>Red Hat Uk </td>
@@ -616,7 +618,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ashvardanian">
 				<img src="https://avatars.githubusercontent.com/u/1983160?s=72&u=98f7ec22a660dc67857c2129efccaa642af242e7&v=4" width="24" alt="Avatar of ashvardanian"> ashvardanian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ashvardanian">Copy rank badge</a><br/>
 			Ash Vardanian
 		</td>
 		<td>Bdfl @ Unum </td>
@@ -629,7 +631,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/kitten">
 				<img src="https://avatars.githubusercontent.com/u/2041385?s=72&u=3de3fa3d7713ac7b914dc7cd3dbcd7453a0cf18e&v=4" width="24" alt="Avatar of kitten"> kitten
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#kitten">Copy rank badge</a><br/>
 			Phil Pluckthun
 		</td>
 		<td>@expo </td>
@@ -642,7 +644,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/keithamus">
 				<img src="https://avatars.githubusercontent.com/u/118266?s=72&u=5a7fb2f3d1ecc7dcd73f43f4b478cb4938e6572c&v=4" width="24" alt="Avatar of keithamus"> keithamus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#keithamus">Copy rank badge</a><br/>
 			Keith Cirkel
 		</td>
 		<td>Mozilla </td>
@@ -655,7 +657,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/TomAFrench">
 				<img src="https://avatars.githubusercontent.com/u/15848336?s=72&u=4f26527e6f33dcb9622393b2df12f6e836bb91fe&v=4" width="24" alt="Avatar of TomAFrench"> TomAFrench
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#TomAFrench">Copy rank badge</a><br/>
 			Tom French
 		</td>
 		<td>No Company</td>
@@ -668,7 +670,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Girgias">
 				<img src="https://avatars.githubusercontent.com/u/7906688?s=72&u=efacb80aba882e3f6c252d23767ccf4dfff90b26&v=4" width="24" alt="Avatar of Girgias"> Girgias
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Girgias">Copy rank badge</a><br/>
 			Gina Peter Banyard
 		</td>
 		<td>@thephpf  </td>
@@ -681,7 +683,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/shekhirin">
 				<img src="https://avatars.githubusercontent.com/u/5773434?s=72&u=c15cafeb471373df485538e75785ec4fc5f46467&v=4" width="24" alt="Avatar of shekhirin"> shekhirin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#shekhirin">Copy rank badge</a><br/>
 			Alexey Shekhirin
 		</td>
 		<td>@tempoxyz </td>
@@ -694,7 +696,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/AlexsJones">
 				<img src="https://avatars.githubusercontent.com/u/1235925?s=72&u=b275461bcd93c67db6f9113e5305d1508709a321&v=4" width="24" alt="Avatar of AlexsJones"> AlexsJones
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#AlexsJones">Copy rank badge</a><br/>
 			Alex Jones
 		</td>
 		<td>Aws </td>
@@ -707,7 +709,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/adamchainz">
 				<img src="https://avatars.githubusercontent.com/u/857609?s=72&v=4" width="24" alt="Avatar of adamchainz"> adamchainz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#adamchainz">Copy rank badge</a><br/>
 			Adam Johnson
 		</td>
 		<td>@django, @djangolondon </td>
@@ -720,7 +722,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jnsgruk">
 				<img src="https://avatars.githubusercontent.com/u/668505?s=72&u=20d74016b4a391942fb1fda6dbd35b75a620f847&v=4" width="24" alt="Avatar of jnsgruk"> jnsgruk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jnsgruk">Copy rank badge</a><br/>
 			Jon Seager
 		</td>
 		<td>@canonical </td>
@@ -733,7 +735,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/lissy93">
 				<img src="https://avatars.githubusercontent.com/u/1862727?s=72&u=49343bef1ca0552bc411b2dc7c34591efdf433d1&v=4" width="24" alt="Avatar of lissy93"> lissy93
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#lissy93">Copy rank badge</a><br/>
 			Alicia Sykes
 		</td>
 		<td>No Company</td>
@@ -746,7 +748,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/iHiD">
 				<img src="https://avatars.githubusercontent.com/u/286476?s=72&u=6a0edaee212938cc97decc38b34c11b16b13c667&v=4" width="24" alt="Avatar of iHiD"> iHiD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#iHiD">Copy rank badge</a><br/>
 			Jeremy Walker
 		</td>
 		<td>@exercism </td>
@@ -759,7 +761,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Wilfred">
 				<img src="https://avatars.githubusercontent.com/u/70800?s=72&u=97bfa6a7fa68c3f2b653ec599478743a93146ec6&v=4" width="24" alt="Avatar of Wilfred"> Wilfred
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Wilfred">Copy rank badge</a><br/>
 			Wilfred Hughes
 		</td>
 		<td>No Company</td>
@@ -772,7 +774,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/davorg">
 				<img src="https://avatars.githubusercontent.com/u/24642?s=72&u=e93255fa42e9dc4bad039edfac835cd04604004b&v=4" width="24" alt="Avatar of davorg"> davorg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#davorg">Copy rank badge</a><br/>
 			Dave Cross
 		</td>
 		<td>Magnum Solutions </td>
@@ -785,7 +787,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/vmoens">
 				<img src="https://avatars.githubusercontent.com/u/25529882?s=72&u=26fa2556658f672c28f2b35e9e9084bd8dfa297d&v=4" width="24" alt="Avatar of vmoens"> vmoens
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#vmoens">Copy rank badge</a><br/>
 			Vincent Moens
 		</td>
 		<td>Periodic Labs </td>
@@ -798,7 +800,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/willmcgugan">
 				<img src="https://avatars.githubusercontent.com/u/554369?s=72&u=1c943ad52c5b7eb8b04a217c69c1f43eeb7c915c&v=4" width="24" alt="Avatar of willmcgugan"> willmcgugan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#willmcgugan">Copy rank badge</a><br/>
 			Will McGugan
 		</td>
 		<td>No Company</td>
@@ -811,7 +813,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/AA-Turner">
 				<img src="https://avatars.githubusercontent.com/u/9087854?s=72&u=11cc18fe41c8b4216e490ec9b145ecf50128bac0&v=4" width="24" alt="Avatar of AA-Turner"> AA-Turner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#AA-Turner">Copy rank badge</a><br/>
 			Adam Turner
 		</td>
 		<td>No Company</td>
@@ -824,7 +826,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/HugoRCD">
 				<img src="https://avatars.githubusercontent.com/u/71938701?s=72&u=4ec56bf54cc7a891e27a2714741123de34741995&v=4" width="24" alt="Avatar of HugoRCD"> HugoRCD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#HugoRCD">Copy rank badge</a><br/>
 			Hugo
 		</td>
 		<td>@vercel . @nuxt </td>
@@ -837,7 +839,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/michaeljolley">
 				<img src="https://avatars.githubusercontent.com/u/1228996?s=72&u=d92b2c11d5b01e2caacdfbaadc344d73ca6327ec&v=4" width="24" alt="Avatar of michaeljolley"> michaeljolley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#michaeljolley">Copy rank badge</a><br/>
 			Michael Jolley
 		</td>
 		<td>@microsoft </td>
@@ -850,7 +852,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mozzius">
 				<img src="https://avatars.githubusercontent.com/u/10959775?s=72&u=651a71e3772cece2d57526b2c60d836960fcce90&v=4" width="24" alt="Avatar of mozzius"> mozzius
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mozzius">Copy rank badge</a><br/>
 			Samuel Newman
 		</td>
 		<td>@bluesky-social </td>
@@ -863,7 +865,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/JujuAdams">
 				<img src="https://avatars.githubusercontent.com/u/3970480?s=72&u=a15efe602743caddac0d712879e41e06b3cdf662&v=4" width="24" alt="Avatar of JujuAdams"> JujuAdams
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#JujuAdams">Copy rank badge</a><br/>
 			Juju Adams
 		</td>
 		<td>No Company</td>
@@ -876,7 +878,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/lpil">
 				<img src="https://avatars.githubusercontent.com/u/6134406?s=72&u=dd06dfa42b45fe3d095f2002d310564e721fff78&v=4" width="24" alt="Avatar of lpil"> lpil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#lpil">Copy rank badge</a><br/>
 			Louis Pilfold
 		</td>
 		<td>No Company</td>
@@ -889,7 +891,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/edmorley">
 				<img src="https://avatars.githubusercontent.com/u/501702?s=72&u=cb840aeb51c307330d6c735b51689569a92a9f96&v=4" width="24" alt="Avatar of edmorley"> edmorley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#edmorley">Copy rank badge</a><br/>
 			Ed Morley
 		</td>
 		<td>@heroku </td>
@@ -902,7 +904,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jamesdbloom">
 				<img src="https://avatars.githubusercontent.com/u/733179?s=72&u=a295a0657a032ee38725959af0591c5a7fffa3bd&v=4" width="24" alt="Avatar of jamesdbloom"> jamesdbloom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jamesdbloom">Copy rank badge</a><br/>
 			James D Bloom
 		</td>
 		<td>No Company</td>
@@ -915,7 +917,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ahkohd">
 				<img src="https://avatars.githubusercontent.com/u/13041443?s=72&u=7411dbebe1f596f584b465446027f50f7f1dbd5e&v=4" width="24" alt="Avatar of ahkohd"> ahkohd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ahkohd">Copy rank badge</a><br/>
 			Victor Aremu
 		</td>
 		<td>No Company</td>
@@ -928,7 +930,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jskeet">
 				<img src="https://avatars.githubusercontent.com/u/17011?s=72&v=4" width="24" alt="Avatar of jskeet"> jskeet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jskeet">Copy rank badge</a><br/>
 			Jon Skeet
 		</td>
 		<td>No Company</td>
@@ -941,7 +943,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/cboden">
 				<img src="https://avatars.githubusercontent.com/u/617694?s=72&u=f525c848c5ba122e2e69feda76e844bb7bfbde4f&v=4" width="24" alt="Avatar of cboden"> cboden
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#cboden">Copy rank badge</a><br/>
 			Chris Boden
 		</td>
 		<td>Super.com </td>
@@ -954,7 +956,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/robertknight">
 				<img src="https://avatars.githubusercontent.com/u/2458?s=72&u=00d3c632d552f88482d4f3261a6b38416ca33fa8&v=4" width="24" alt="Avatar of robertknight"> robertknight
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#robertknight">Copy rank badge</a><br/>
 			Robert Knight
 		</td>
 		<td>Shortest Path Software </td>
@@ -967,7 +969,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Nagi-ovo">
 				<img src="https://avatars.githubusercontent.com/u/101612750?s=72&u=5757f982e0b4ee8e5298062bf4b88e072195978e&v=4" width="24" alt="Avatar of Nagi-ovo"> Nagi-ovo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Nagi-ovo">Copy rank badge</a><br/>
 			Jesse Zhang
 		</td>
 		<td>Imperial College London </td>
@@ -980,7 +982,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/st0012">
 				<img src="https://avatars.githubusercontent.com/u/5079556?s=72&u=61fc223e9ff0b23a1f2a74b71dee2837ba285c2c&v=4" width="24" alt="Avatar of st0012"> st0012
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#st0012">Copy rank badge</a><br/>
 			Stan Lo
 		</td>
 		<td>@shopify @ruby </td>
@@ -993,7 +995,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/xenodium">
 				<img src="https://avatars.githubusercontent.com/u/8107219?s=72&u=81432cab1da01770ef02ae04372332338cee8b40&v=4" width="24" alt="Avatar of xenodium"> xenodium
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#xenodium">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -1006,7 +1008,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/petebacondarwin">
 				<img src="https://avatars.githubusercontent.com/u/15655?s=72&u=fcf7903b7722b5ee0291783749ebdfd5fd9e756b&v=4" width="24" alt="Avatar of petebacondarwin"> petebacondarwin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#petebacondarwin">Copy rank badge</a><br/>
 			Pete Bacon Darwin
 		</td>
 		<td>@cloudflare </td>
@@ -1019,7 +1021,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/judy2k">
 				<img src="https://avatars.githubusercontent.com/u/359772?s=72&u=4326279b39b59c6e64dd2d4bf4bda7d658812df8&v=4" width="24" alt="Avatar of judy2k"> judy2k
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#judy2k">Copy rank badge</a><br/>
 			Mark Smith
 		</td>
 		<td>No Company</td>
@@ -1032,7 +1034,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/alanshaw">
 				<img src="https://avatars.githubusercontent.com/u/152863?s=72&u=31279ef0e1575f0ee067e28b8ddfa32ad4ac47fa&v=4" width="24" alt="Avatar of alanshaw"> alanshaw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#alanshaw">Copy rank badge</a><br/>
 			ash
 		</td>
 		<td>Filecoin Foundation </td>
@@ -1045,7 +1047,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mvdan">
 				<img src="https://avatars.githubusercontent.com/u/3576549?s=72&u=a35e1d2c507966ca8d1107301b3853db2bd87a7d&v=4" width="24" alt="Avatar of mvdan"> mvdan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mvdan">Copy rank badge</a><br/>
 			Daniel Martí
 		</td>
 		<td>@cue-lang @cue-labs </td>
@@ -1058,7 +1060,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/afs">
 				<img src="https://avatars.githubusercontent.com/u/101362?s=72&v=4" width="24" alt="Avatar of afs"> afs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#afs">Copy rank badge</a><br/>
 			Andy Seaborne
 		</td>
 		<td>No Company</td>
@@ -1071,7 +1073,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/andreban">
 				<img src="https://avatars.githubusercontent.com/u/1733592?s=72&u=2f5f4387f14bfe76fd2ed453077e1d0a0c3bedb3&v=4" width="24" alt="Avatar of andreban"> andreban
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#andreban">Copy rank badge</a><br/>
 			André Cipriani Bandarra
 		</td>
 		<td>Google </td>
@@ -1084,7 +1086,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/andydotxyz">
 				<img src="https://avatars.githubusercontent.com/u/294436?s=72&u=ad7f37896df6453e8fe910b273107b0a06bd03a4&v=4" width="24" alt="Avatar of andydotxyz"> andydotxyz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#andydotxyz">Copy rank badge</a><br/>
 			Andy Williams
 		</td>
 		<td>No Company</td>
@@ -1097,7 +1099,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/cesarferreira">
 				<img src="https://avatars.githubusercontent.com/u/277426?s=72&u=7b11b33992a1e1c1e26f97564005b09ed422f2a2&v=4" width="24" alt="Avatar of cesarferreira"> cesarferreira
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#cesarferreira">Copy rank badge</a><br/>
 			César Ferreira
 		</td>
 		<td>@wayveai </td>
@@ -1110,7 +1112,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/pilukarts">
 				<img src="https://avatars.githubusercontent.com/u/487773?s=72&u=a98592cda2de97299b3a7f8d64127c6029c853cb&v=4" width="24" alt="Avatar of pilukarts"> pilukarts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#pilukarts">Copy rank badge</a><br/>
 			Maria del Pilar Rodriguez Castillejo
 		</td>
 		<td>Pilukarts Travel And Fun<br/>Ltd<br/></td>
@@ -1123,7 +1125,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/aktech">
 				<img src="https://avatars.githubusercontent.com/u/5647941?s=72&u=6ab10c4cd76763384832fe39a70ddd612abd7c4e&v=4" width="24" alt="Avatar of aktech"> aktech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#aktech">Copy rank badge</a><br/>
 			Amit Kumar
 		</td>
 		<td>@quansight  @aktechlabs <br/></td>
@@ -1136,7 +1138,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/palfrey">
 				<img src="https://avatars.githubusercontent.com/u/38532?s=72&u=89d0614b202c25194e506489d3ef64cb2be11b6f&v=4" width="24" alt="Avatar of palfrey"> palfrey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#palfrey">Copy rank badge</a><br/>
 			Tom Parker-Shemilt
 		</td>
 		<td>@tracemachina </td>
@@ -1149,7 +1151,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tgvashworth">
 				<img src="https://avatars.githubusercontent.com/u/320862?s=72&u=67bbc4c5e2b5fc3f6b04b3289a525748d44f22e4&v=4" width="24" alt="Avatar of tgvashworth"> tgvashworth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tgvashworth">Copy rank badge</a><br/>
 			Tom Ashworth
 		</td>
 		<td>No Company</td>
@@ -1162,7 +1164,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/julianstorer">
 				<img src="https://avatars.githubusercontent.com/u/249953?s=72&u=3b67f4481b0ed9e0c03a8c3eb8d2350068115705&v=4" width="24" alt="Avatar of julianstorer"> julianstorer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#julianstorer">Copy rank badge</a><br/>
 			Julian Storer
 		</td>
 		<td>@tracktion @cmajor-lang @juggler-ai </td>
@@ -1175,7 +1177,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jimeh">
 				<img src="https://avatars.githubusercontent.com/u/39563?s=72&u=fe5fd1fd75e6a7236d808c1d35aff75b7b1882e1&v=4" width="24" alt="Avatar of jimeh"> jimeh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jimeh">Copy rank badge</a><br/>
 			Jim Myhrberg
 		</td>
 		<td>@krystal </td>
@@ -1188,7 +1190,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/cortinico">
 				<img src="https://avatars.githubusercontent.com/u/3001957?s=72&u=a7e68dd86c5521ca74b61d8f38fb199893010d7a&v=4" width="24" alt="Avatar of cortinico"> cortinico
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#cortinico">Copy rank badge</a><br/>
 			Nicola Corti
 		</td>
 		<td>@facebook </td>
@@ -1201,7 +1203,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/JackKelly">
 				<img src="https://avatars.githubusercontent.com/u/460756?s=72&v=4" width="24" alt="Avatar of JackKelly"> JackKelly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#JackKelly">Copy rank badge</a><br/>
 			Jack Kelly
 		</td>
 		<td>@openclimatefix  </td>
@@ -1214,7 +1216,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/aniketmaurya">
 				<img src="https://avatars.githubusercontent.com/u/21018714?s=72&u=a0bcc3f8b43f3cf14fcf481b7201ccfae97c66ae&v=4" width="24" alt="Avatar of aniketmaurya"> aniketmaurya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#aniketmaurya">Copy rank badge</a><br/>
 			Aniket Maurya
 		</td>
 		<td>@celestoai Ex-@lightning-ai  </td>
@@ -1227,7 +1229,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/yunwei37">
 				<img src="https://avatars.githubusercontent.com/u/34985212?s=72&u=08ae76722ab43b3e92beb14b9bc44eb4f18f05ea&v=4" width="24" alt="Avatar of yunwei37"> yunwei37
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#yunwei37">Copy rank badge</a><br/>
 			云微
 		</td>
 		<td>Eunomia-bpf </td>
@@ -1240,7 +1242,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/markwylde">
 				<img src="https://avatars.githubusercontent.com/u/5929807?s=72&u=42a2afad814d8d36fae06334e6545f29e4074934&v=4" width="24" alt="Avatar of markwylde"> markwylde
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#markwylde">Copy rank badge</a><br/>
 			Mark Wylde
 		</td>
 		<td>No Company</td>
@@ -1253,7 +1255,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mksglu">
 				<img src="https://avatars.githubusercontent.com/u/6067714?s=72&u=eb2d5c7700217af31cf0d5729586981c91e14e19&v=4" width="24" alt="Avatar of mksglu"> mksglu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mksglu">Copy rank badge</a><br/>
 			Mert Köseoğlu
 		</td>
 		<td>No Company</td>
@@ -1266,7 +1268,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/robjtede">
 				<img src="https://avatars.githubusercontent.com/u/3316789?s=72&u=5b6d5b45b7a2755584d2c57ecabf56f3eb292e21&v=4" width="24" alt="Avatar of robjtede"> robjtede
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#robjtede">Copy rank badge</a><br/>
 			Rob Ede
 		</td>
 		<td>@krakenfx </td>
@@ -1279,7 +1281,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ainame">
 				<img src="https://avatars.githubusercontent.com/u/748949?s=72&v=4" width="24" alt="Avatar of ainame"> ainame
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ainame">Copy rank badge</a><br/>
 			Satoshi Namai
 		</td>
 		<td>Mixi America </td>
@@ -1292,7 +1294,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ThomasHabets">
 				<img src="https://avatars.githubusercontent.com/u/6056?s=72&v=4" width="24" alt="Avatar of ThomasHabets"> ThomasHabets
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ThomasHabets">Copy rank badge</a><br/>
 			Thomas Habets
 		</td>
 		<td>No Company</td>
@@ -1305,7 +1307,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/steveruizok">
 				<img src="https://avatars.githubusercontent.com/u/23072548?s=72&u=a7d4c7068c956a3a08f48b056f56d722689af935&v=4" width="24" alt="Avatar of steveruizok"> steveruizok
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#steveruizok">Copy rank badge</a><br/>
 			Steve Ruiz
 		</td>
 		<td>@tldraw  </td>
@@ -1318,7 +1320,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/trueadm">
 				<img src="https://avatars.githubusercontent.com/u/1519870?s=72&u=713d232f1b3ffe3b99f63ad949145caccf7cde8e&v=4" width="24" alt="Avatar of trueadm"> trueadm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#trueadm">Copy rank badge</a><br/>
 			Dominic Gannaway
 		</td>
 		<td>@attio </td>
@@ -1331,7 +1333,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/timrogers">
 				<img src="https://avatars.githubusercontent.com/u/116134?s=72&u=ad4a3190a319c2e748aae7e410661723dfc66581&v=4" width="24" alt="Avatar of timrogers"> timrogers
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#timrogers">Copy rank badge</a><br/>
 			Tim Rogers
 		</td>
 		<td>@github </td>
@@ -1344,7 +1346,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/laymonage">
 				<img src="https://avatars.githubusercontent.com/u/6379424?s=72&u=b8f72e980ad60b685efb6d1ccdb2b795439b04ab&v=4" width="24" alt="Avatar of laymonage"> laymonage
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#laymonage">Copy rank badge</a><br/>
 			S​age Abdullah
 		</td>
 		<td>@torchbox </td>
@@ -1357,7 +1359,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/iancooper">
 				<img src="https://avatars.githubusercontent.com/u/45537?s=72&u=54eede2bc5bb574cdaac20728f4445575d7a6973&v=4" width="24" alt="Avatar of iancooper"> iancooper
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#iancooper">Copy rank badge</a><br/>
 			Ian Cooper
 		</td>
 		<td>@brightercommand  </td>
@@ -1370,7 +1372,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/anthrotype">
 				<img src="https://avatars.githubusercontent.com/u/6939968?s=72&u=60c5db5326c4833b51bf17fbeae2f1e7e77a9bfc&v=4" width="24" alt="Avatar of anthrotype"> anthrotype
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#anthrotype">Copy rank badge</a><br/>
 			Cosimo Lupo
 		</td>
 		<td>No Company</td>
@@ -1383,7 +1385,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mattzcarey">
 				<img src="https://avatars.githubusercontent.com/u/77928207?s=72&u=fc8febe2a4b67384046eb4041b325bb34665d59c&v=4" width="24" alt="Avatar of mattzcarey"> mattzcarey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mattzcarey">Copy rank badge</a><br/>
 			Matt
 		</td>
 		<td>@cloudflare </td>
@@ -1396,7 +1398,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/artagnon">
 				<img src="https://avatars.githubusercontent.com/u/37226?s=72&u=354370e9029af596a02328171ef57b8dbe50a7d1&v=4" width="24" alt="Avatar of artagnon"> artagnon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#artagnon">Copy rank badge</a><br/>
 			Ramkumar Ramachandra
 		</td>
 		<td>No Company</td>
@@ -1409,7 +1411,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/RichardKnop">
 				<img src="https://avatars.githubusercontent.com/u/2325888?s=72&u=7c7b3061d09183e6444fcc32657293cab9f7f7c6&v=4" width="24" alt="Avatar of RichardKnop"> RichardKnop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#RichardKnop">Copy rank badge</a><br/>
 			Richard Knop
 		</td>
 		<td>Currently @arabesque-sray, Before @newsuk<br/>@grab<br/></td>
@@ -1422,7 +1424,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Wildhoney">
 				<img src="https://avatars.githubusercontent.com/u/1528477?s=72&u=9ed1187a9e963462fb1c5954b5daa1cbf7df6906&v=4" width="24" alt="Avatar of Wildhoney"> Wildhoney
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Wildhoney">Copy rank badge</a><br/>
 			Adam Timberlake
 		</td>
 		<td>Hubpay </td>
@@ -1435,7 +1437,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/achingbrain">
 				<img src="https://avatars.githubusercontent.com/u/665810?s=72&u=5f3f870f7fd8d15b11f9441ada20b5d0c18e38e5&v=4" width="24" alt="Avatar of achingbrain"> achingbrain
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#achingbrain">Copy rank badge</a><br/>
 			Alex Potsides
 		</td>
 		<td>No Company</td>
@@ -1448,7 +1450,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/olimorris">
 				<img src="https://avatars.githubusercontent.com/u/9512444?s=72&u=95866afb0ad92a14fff44da12bd3b1cc8c173962&v=4" width="24" alt="Avatar of olimorris"> olimorris
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#olimorris">Copy rank badge</a><br/>
 			Oli
 		</td>
 		<td>No Company</td>
@@ -1461,7 +1463,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dylanbeattie">
 				<img src="https://avatars.githubusercontent.com/u/106178?s=72&u=a9a0fe539bb6511f3247585251dad1dbd2487f6d&v=4" width="24" alt="Avatar of dylanbeattie"> dylanbeattie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dylanbeattie">Copy rank badge</a><br/>
 			Dylan Beattie
 		</td>
 		<td>@ursatile   </td>
@@ -1474,7 +1476,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ericallam">
 				<img src="https://avatars.githubusercontent.com/u/534?s=72&v=4" width="24" alt="Avatar of ericallam"> ericallam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ericallam">Copy rank badge</a><br/>
 			Eric Allam
 		</td>
 		<td>Trigger.dev </td>
@@ -1487,7 +1489,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ltratt">
 				<img src="https://avatars.githubusercontent.com/u/20318?s=72&u=75427703f19216bcff4b27548d30fe344d6da34e&v=4" width="24" alt="Avatar of ltratt"> ltratt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ltratt">Copy rank badge</a><br/>
 			Laurence Tratt
 		</td>
 		<td>@softdevteam  </td>
@@ -1500,7 +1502,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/kenorb">
 				<img src="https://avatars.githubusercontent.com/u/266306?s=72&v=4" width="24" alt="Avatar of kenorb"> kenorb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#kenorb">Copy rank badge</a><br/>
 			Rafal W.
 		</td>
 		<td>R3 </td>
@@ -1513,7 +1515,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/owenvoke">
 				<img src="https://avatars.githubusercontent.com/u/1899334?s=72&u=ba728663651ece7cc2d2946cc9e47ff0f0c80629&v=4" width="24" alt="Avatar of owenvoke"> owenvoke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#owenvoke">Copy rank badge</a><br/>
 			Owen Voke
 		</td>
 		<td>@worksome </td>
@@ -1526,7 +1528,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/brucemcpherson">
 				<img src="https://avatars.githubusercontent.com/u/1894020?s=72&u=f6127c55b11749bb3a93b87e46bbf46428b687eb&v=4" width="24" alt="Avatar of brucemcpherson"> brucemcpherson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#brucemcpherson">Copy rank badge</a><br/>
 			bruce mcpherson
 		</td>
 		<td>Pepada </td>
@@ -1539,7 +1541,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/browniebroke">
 				<img src="https://avatars.githubusercontent.com/u/861044?s=72&u=5abfca5588f3e906b31583d7ee62f6de4b68aa24&v=4" width="24" alt="Avatar of browniebroke"> browniebroke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#browniebroke">Copy rank badge</a><br/>
 			Bruno Alla
 		</td>
 		<td>No Company</td>
@@ -1552,7 +1554,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/casperdcl">
 				<img src="https://avatars.githubusercontent.com/u/10780059?s=72&u=38592bafa6af55acf5aac0066fddfdf91bdf4702&v=4" width="24" alt="Avatar of casperdcl"> casperdcl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#casperdcl">Copy rank badge</a><br/>
 			Casper da Costa-Luis
 		</td>
 		<td>No Company</td>
@@ -1565,7 +1567,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/citypaul">
 				<img src="https://avatars.githubusercontent.com/u/5850178?s=72&v=4" width="24" alt="Avatar of citypaul"> citypaul
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#citypaul">Copy rank badge</a><br/>
 			Paul Hammond
 		</td>
 		<td>@newdaycards  </td>
@@ -1578,7 +1580,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/RJT1990">
 				<img src="https://avatars.githubusercontent.com/u/13335781?s=72&u=318c5d8c1ba92be9bdf8fbb7691233c8202d3b2d&v=4" width="24" alt="Avatar of RJT1990"> RJT1990
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#RJT1990">Copy rank badge</a><br/>
 			Ross Taylor
 		</td>
 		<td>No Company</td>
@@ -1591,7 +1593,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/paullewis">
 				<img src="https://avatars.githubusercontent.com/u/617438?s=72&u=4e6bf11a92d92404699b4b811ea48b7642adf2eb&v=4" width="24" alt="Avatar of paullewis"> paullewis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#paullewis">Copy rank badge</a><br/>
 			Paul Lewis
 		</td>
 		<td>No Company</td>
@@ -1604,7 +1606,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/samuelcolvin">
 				<img src="https://avatars.githubusercontent.com/u/4039449?s=72&u=42eb3b833047c8c4b4f647a031eaef148c16d93f&v=4" width="24" alt="Avatar of samuelcolvin"> samuelcolvin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#samuelcolvin">Copy rank badge</a><br/>
 			Samuel Colvin
 		</td>
 		<td>@pydantic </td>
@@ -1617,7 +1619,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/HenryNdubuaku">
 				<img src="https://avatars.githubusercontent.com/u/26547576?s=72&u=e0e88a51eb669f49b3246056176e9d4d5fc063ff&v=4" width="24" alt="Avatar of HenryNdubuaku"> HenryNdubuaku
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#HenryNdubuaku">Copy rank badge</a><br/>
 			Henry Ndubuaku
 		</td>
 		<td>Cactus Compute </td>
@@ -1630,7 +1632,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ghostwriternr">
 				<img src="https://avatars.githubusercontent.com/u/10023615?s=72&u=93019079e1967cf5d76b6b8c542bc552490d41f1&v=4" width="24" alt="Avatar of ghostwriternr"> ghostwriternr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ghostwriternr">Copy rank badge</a><br/>
 			Naresh
 		</td>
 		<td>@cloudflare </td>
@@ -1643,7 +1645,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/kit-ty-kate">
 				<img src="https://avatars.githubusercontent.com/u/2611789?s=72&u=b9492dad413f0edf070e3a1a1151c953ab994e17&v=4" width="24" alt="Avatar of kit-ty-kate"> kit-ty-kate
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#kit-ty-kate">Copy rank badge</a><br/>
 			Kate
 		</td>
 		<td>@ahrefs @ocaml-sf </td>
@@ -1656,7 +1658,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/thowell">
 				<img src="https://avatars.githubusercontent.com/u/12521315?s=72&u=0b360d9783c80cb3e6fb383af9d6dc9be12b75da&v=4" width="24" alt="Avatar of thowell"> thowell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#thowell">Copy rank badge</a><br/>
 			Taylor Howell
 		</td>
 		<td>Google Deepmind </td>
@@ -1669,7 +1671,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/NTCoding">
 				<img src="https://avatars.githubusercontent.com/u/692094?s=72&u=78865ec0062b5e18c8647811aee0890df2919182&v=4" width="24" alt="Avatar of NTCoding"> NTCoding
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#NTCoding">Copy rank badge</a><br/>
 			Nick Tune
 		</td>
 		<td>Payfit </td>
@@ -1682,7 +1684,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jackciw">
 				<img src="https://avatars.githubusercontent.com/u/43066291?s=72&u=f5d43c6f8c9e61faeb3f0a2bcd4fb0d993f98e5a&v=4" width="24" alt="Avatar of jackciw"> jackciw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jackciw">Copy rank badge</a><br/>
 			jack
 		</td>
 		<td>No Company</td>
@@ -1695,7 +1697,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jcupitt">
 				<img src="https://avatars.githubusercontent.com/u/580843?s=72&u=f203088847a46550d4581962ba290f5dcee61d3c&v=4" width="24" alt="Avatar of jcupitt"> jcupitt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jcupitt">Copy rank badge</a><br/>
 			John Cupitt
 		</td>
 		<td>No Company</td>
@@ -1708,7 +1710,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/bwplotka">
 				<img src="https://avatars.githubusercontent.com/u/6950331?s=72&u=bbb4c973127bb0798511237a10c7d7ae40b43451&v=4" width="24" alt="Avatar of bwplotka"> bwplotka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#bwplotka">Copy rank badge</a><br/>
 			Bartlomiej Plotka
 		</td>
 		<td>Google </td>
@@ -1721,7 +1723,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/pixeltrix">
 				<img src="https://avatars.githubusercontent.com/u/6321?s=72&v=4" width="24" alt="Avatar of pixeltrix"> pixeltrix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#pixeltrix">Copy rank badge</a><br/>
 			Andrew White
 		</td>
 		<td>Unboxed </td>
@@ -1734,7 +1736,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tobiemh">
 				<img src="https://avatars.githubusercontent.com/u/1588290?s=72&u=f6f68e638a7965411b2b4c72801fe00c77c9d2dd&v=4" width="24" alt="Avatar of tobiemh"> tobiemh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tobiemh">Copy rank badge</a><br/>
 			Tobie Morgan Hitchcock
 		</td>
 		<td>@surrealdb  </td>
@@ -1747,7 +1749,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/NicolasHug">
 				<img src="https://avatars.githubusercontent.com/u/1190450?s=72&u=19cd43228ddd0cc48b4d493cffbcf651f2019a2b&v=4" width="24" alt="Avatar of NicolasHug"> NicolasHug
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#NicolasHug">Copy rank badge</a><br/>
 			Nicolas Hug
 		</td>
 		<td>No Company</td>
@@ -1760,7 +1762,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/surma">
 				<img src="https://avatars.githubusercontent.com/u/234957?s=72&v=4" width="24" alt="Avatar of surma"> surma
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#surma">Copy rank badge</a><br/>
 			Surma
 		</td>
 		<td>Shopify </td>
@@ -1773,7 +1775,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/laurent22">
 				<img src="https://avatars.githubusercontent.com/u/1285584?s=72&v=4" width="24" alt="Avatar of laurent22"> laurent22
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#laurent22">Copy rank badge</a><br/>
 			Laurent Cozic
 		</td>
 		<td>No Company</td>
@@ -1786,7 +1788,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/bashtage">
 				<img src="https://avatars.githubusercontent.com/u/5585221?s=72&v=4" width="24" alt="Avatar of bashtage"> bashtage
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#bashtage">Copy rank badge</a><br/>
 			Kevin Sheppard
 		</td>
 		<td>No Company</td>
@@ -1799,7 +1801,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/eviltester">
 				<img src="https://avatars.githubusercontent.com/u/2621217?s=72&u=50b3880ace09c1317a09b19d7f239ab6b4b2ba45&v=4" width="24" alt="Avatar of eviltester"> eviltester
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#eviltester">Copy rank badge</a><br/>
 			Alan Richardson
 		</td>
 		<td>Compendium Developments Ltd </td>
@@ -1812,7 +1814,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/PanosK92">
 				<img src="https://avatars.githubusercontent.com/u/19988988?s=72&u=e5df060a2acac72f9ef52c5cc299ed1aba5d07ef&v=4" width="24" alt="Avatar of PanosK92"> PanosK92
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#PanosK92">Copy rank badge</a><br/>
 			Panos Karabelas
 		</td>
 		<td>No Company</td>
@@ -1825,7 +1827,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/conradludgate">
 				<img src="https://avatars.githubusercontent.com/u/6625462?s=72&u=39f1d790ea8ab0bc0b7f32a81ee3b704a573c72c&v=4" width="24" alt="Avatar of conradludgate"> conradludgate
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#conradludgate">Copy rank badge</a><br/>
 			Conrad Ludgate
 		</td>
 		<td>@neondatabase </td>
@@ -1838,7 +1840,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/safishamsi">
 				<img src="https://avatars.githubusercontent.com/u/216348667?s=72&u=6bbf0f3b9175aef7662d55675b88be18655032e2&v=4" width="24" alt="Avatar of safishamsi"> safishamsi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#safishamsi">Copy rank badge</a><br/>
 			Safi
 		</td>
 		<td>Graphify Labs </td>
@@ -1851,7 +1853,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/MohamedBassem">
 				<img src="https://avatars.githubusercontent.com/u/2418637?s=72&u=550c42c22dfc495e3fb46f7a411ea113a2c9ce8e&v=4" width="24" alt="Avatar of MohamedBassem"> MohamedBassem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#MohamedBassem">Copy rank badge</a><br/>
 			Mohamed Bassem
 		</td>
 		<td>Software Engineer @restatedev <br/></td>
@@ -1864,7 +1866,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/pablogsal">
 				<img src="https://avatars.githubusercontent.com/u/11718525?s=72&u=9f515ab8f7274f9e934ac1a7ff3ad3fd4c0e94e8&v=4" width="24" alt="Avatar of pablogsal"> pablogsal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#pablogsal">Copy rank badge</a><br/>
 			Pablo Galindo Salgado
 		</td>
 		<td>No Company</td>
@@ -1877,7 +1879,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/0xTim">
 				<img src="https://avatars.githubusercontent.com/u/9938337?s=72&u=167b274502f6a1ae628b6803a5d643e03358a8d6&v=4" width="24" alt="Avatar of 0xTim"> 0xTim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#0xTim">Copy rank badge</a><br/>
 			Tim Condon
 		</td>
 		<td>@brokenhandsio  </td>
@@ -1890,7 +1892,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/weavejester">
 				<img src="https://avatars.githubusercontent.com/u/8780?s=72&v=4" width="24" alt="Avatar of weavejester"> weavejester
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#weavejester">Copy rank badge</a><br/>
 			James Reeves
 		</td>
 		<td>Boolean Knot Ltd </td>
@@ -1903,7 +1905,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/rtyley">
 				<img src="https://avatars.githubusercontent.com/u/52038?s=72&u=570927ef1eb8368767bc9103dbab149e857dd197&v=4" width="24" alt="Avatar of rtyley"> rtyley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#rtyley">Copy rank badge</a><br/>
 			Roberto Tyley
 		</td>
 		<td>@guardian  </td>
@@ -1916,7 +1918,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tatiana">
 				<img src="https://avatars.githubusercontent.com/u/272048?s=72&u=9bfbe8dece802fc8874976d75baab81347694c0d&v=4" width="24" alt="Avatar of tatiana"> tatiana
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tatiana">Copy rank badge</a><br/>
 			Tatiana Al-Chueyr
 		</td>
 		<td>Astronomer </td>
@@ -1929,7 +1931,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/caeserlondon">
 				<img src="https://avatars.githubusercontent.com/u/77758062?s=72&v=4" width="24" alt="Avatar of caeserlondon"> caeserlondon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#caeserlondon">Copy rank badge</a><br/>
 			Caeser Ibrahim
 		</td>
 		<td>No Company</td>
@@ -1942,7 +1944,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ohld">
 				<img src="https://avatars.githubusercontent.com/u/5613295?s=72&u=b2b8639b0d09db738d164b30351b25cfabb4c011&v=4" width="24" alt="Avatar of ohld"> ohld
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ohld">Copy rank badge</a><br/>
 			Daniil Okhlopkov
 		</td>
 		<td>@okhlopkov  </td>
@@ -1955,7 +1957,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/kadikraman">
 				<img src="https://avatars.githubusercontent.com/u/6534400?s=72&u=95622405ea4e398705070eb5ab9d2a19147f11f1&v=4" width="24" alt="Avatar of kadikraman"> kadikraman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#kadikraman">Copy rank badge</a><br/>
 			Kadi Kraman
 		</td>
 		<td>@expo  </td>
@@ -1968,7 +1970,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ochafik">
 				<img src="https://avatars.githubusercontent.com/u/273860?s=72&u=6edc8705e33c119c5b69fbff97951d2c165bd8a2&v=4" width="24" alt="Avatar of ochafik"> ochafik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ochafik">Copy rank badge</a><br/>
 			Olivier Chafik
 		</td>
 		<td>@anthropics </td>
@@ -1981,7 +1983,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/derickr">
 				<img src="https://avatars.githubusercontent.com/u/208074?s=72&u=73e98f25a33f876e8ad967c1d6409aeabf1383fc&v=4" width="24" alt="Avatar of derickr"> derickr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#derickr">Copy rank badge</a><br/>
 			Derick Rethans
 		</td>
 		<td>No Company</td>
@@ -1994,7 +1996,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/bennuttall">
 				<img src="https://avatars.githubusercontent.com/u/1609725?s=72&v=4" width="24" alt="Avatar of bennuttall"> bennuttall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#bennuttall">Copy rank badge</a><br/>
 			Ben Nuttall
 		</td>
 		<td>@bbc </td>
@@ -2007,7 +2009,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/AhmedSoliman">
 				<img src="https://avatars.githubusercontent.com/u/59670?s=72&u=883cd11fa41991551c8236cc9425528c747e5c97&v=4" width="24" alt="Avatar of AhmedSoliman"> AhmedSoliman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#AhmedSoliman">Copy rank badge</a><br/>
 			Ahmed Farghal
 		</td>
 		<td>@restatedev  </td>
@@ -2020,7 +2022,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/nrennie">
 				<img src="https://avatars.githubusercontent.com/u/42338476?s=72&u=90944534b742c43da6f1d52a3ddbd4f71f2fe92e&v=4" width="24" alt="Avatar of nrennie"> nrennie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#nrennie">Copy rank badge</a><br/>
 			Nicola Rennie
 		</td>
 		<td>Office For National Statistics<br/></td>
@@ -2033,7 +2035,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/poyea">
 				<img src="https://avatars.githubusercontent.com/u/24757020?s=72&u=62ef87ab1e4bea843f674170400603e3a204b666&v=4" width="24" alt="Avatar of poyea"> poyea
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#poyea">Copy rank badge</a><br/>
 			John Law
 		</td>
 		<td>@amzn </td>
@@ -2046,7 +2048,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/MaggieAppleton">
 				<img src="https://avatars.githubusercontent.com/u/5599295?s=72&u=be2dfb6c8a491c71f95663090d3195f4d83139d0&v=4" width="24" alt="Avatar of MaggieAppleton"> MaggieAppleton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#MaggieAppleton">Copy rank badge</a><br/>
 			Maggie Appleton
 		</td>
 		<td>@githubnext </td>
@@ -2059,7 +2061,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sdiehl">
 				<img src="https://avatars.githubusercontent.com/u/236767?s=72&u=b3734fe18e95436b781d2e15b8e475fec5071683&v=4" width="24" alt="Avatar of sdiehl"> sdiehl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sdiehl">Copy rank badge</a><br/>
 			Stephen Diehl
 		</td>
 		<td>@onechronos </td>
@@ -2072,7 +2074,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/danielbayley">
 				<img src="https://avatars.githubusercontent.com/u/7797479?s=72&u=0156c31095050be56257f0c77c51e1d829e3eea1&v=4" width="24" alt="Avatar of danielbayley"> danielbayley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#danielbayley">Copy rank badge</a><br/>
 			Daniel Bayley
 		</td>
 		<td>Edge Studio </td>
@@ -2085,7 +2087,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/adamsilver">
 				<img src="https://avatars.githubusercontent.com/u/37163?s=72&u=be07e87cb8530614b4c26753491358e404bb9572&v=4" width="24" alt="Avatar of adamsilver"> adamsilver
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#adamsilver">Copy rank badge</a><br/>
 			Adam Silver
 		</td>
 		<td>No Company</td>
@@ -2098,7 +2100,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ahmetskilinc">
 				<img src="https://avatars.githubusercontent.com/u/37756565?s=72&u=181824c3d9403c66ae0da587217f7718a3b4cac0&v=4" width="24" alt="Avatar of ahmetskilinc"> ahmetskilinc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ahmetskilinc">Copy rank badge</a><br/>
 			Ahmet Kilinc
 		</td>
 		<td>@coderabbitai </td>
@@ -2111,7 +2113,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Southclaws">
 				<img src="https://avatars.githubusercontent.com/u/1636971?s=72&u=5cf773fe507fa79d217155aa3a5ef5fe4b0c19b3&v=4" width="24" alt="Avatar of Southclaws"> Southclaws
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Southclaws">Copy rank badge</a><br/>
 			Barnaby Keene
 		</td>
 		<td>No Company</td>
@@ -2124,7 +2126,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sirodoht">
 				<img src="https://avatars.githubusercontent.com/u/553444?s=72&u=64fe60209e81812d5fe608f4b6354770664aebdf&v=4" width="24" alt="Avatar of sirodoht"> sirodoht
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sirodoht">Copy rank badge</a><br/>
 			Theodore Keloglou
 		</td>
 		<td>@podnetwork </td>
@@ -2137,7 +2139,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/albinotonnina">
 				<img src="https://avatars.githubusercontent.com/u/37283?s=72&u=fef9b5ad2aae3a48920c990a99a014a5aeb1d716&v=4" width="24" alt="Avatar of albinotonnina"> albinotonnina
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#albinotonnina">Copy rank badge</a><br/>
 			Albino Tonnina
 		</td>
 		<td>@asos  </td>
@@ -2150,7 +2152,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/cr0hn">
 				<img src="https://avatars.githubusercontent.com/u/4076390?s=72&u=54044ef60fbaadbffaca2c19f7cd8534e69d2ae5&v=4" width="24" alt="Avatar of cr0hn"> cr0hn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#cr0hn">Copy rank badge</a><br/>
 			cr0hn
 		</td>
 		<td>No Company</td>
@@ -2163,7 +2165,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/salaboy">
 				<img src="https://avatars.githubusercontent.com/u/271966?s=72&v=4" width="24" alt="Avatar of salaboy"> salaboy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#salaboy">Copy rank badge</a><br/>
 			salaboy
 		</td>
 		<td>@dash0hq </td>
@@ -2176,7 +2178,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/bmagyar">
 				<img src="https://avatars.githubusercontent.com/u/3524577?s=72&u=8f938d2dcacdcbb54f3977d6356cef945a6eb6ed&v=4" width="24" alt="Avatar of bmagyar"> bmagyar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#bmagyar">Copy rank badge</a><br/>
 			Bence Magyar
 		</td>
 		<td>@locusrobotics </td>
@@ -2189,7 +2191,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dabreegster">
 				<img src="https://avatars.githubusercontent.com/u/1664407?s=72&u=bb93d80353239826daf91ba671c44f180e344097&v=4" width="24" alt="Avatar of dabreegster"> dabreegster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dabreegster">Copy rank badge</a><br/>
 			Dustin Carlino
 		</td>
 		<td>A/b  Street Ltd<br/></td>
@@ -2202,7 +2204,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/robmarkcole">
 				<img src="https://avatars.githubusercontent.com/u/11855322?s=72&u=49afed16355ebf7b7d3ebf3b453c06c513e8210c&v=4" width="24" alt="Avatar of robmarkcole"> robmarkcole
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#robmarkcole">Copy rank badge</a><br/>
 			Robin Cole
 		</td>
 		<td>@earthdaily </td>
@@ -2215,7 +2217,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/padolsey">
 				<img src="https://avatars.githubusercontent.com/u/59852?s=72&u=23edfab0c7c8763244896370526f2da02ca4aea7&v=4" width="24" alt="Avatar of padolsey"> padolsey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#padolsey">Copy rank badge</a><br/>
 			James Padolsey
 		</td>
 		<td>No Company</td>
@@ -2228,7 +2230,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/fxlrnrpt">
 				<img src="https://avatars.githubusercontent.com/u/12794628?s=72&u=28e94972caf5b06a12c7cb0d414d4d6f3e920be3&v=4" width="24" alt="Avatar of fxlrnrpt"> fxlrnrpt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#fxlrnrpt">Copy rank badge</a><br/>
 			Andrey Goncharov
 		</td>
 		<td>Revolut </td>
@@ -2241,7 +2243,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Shashikant86">
 				<img src="https://avatars.githubusercontent.com/u/683799?s=72&u=94506982f689099dfc1d7a4462cdfdef0e46d4a7&v=4" width="24" alt="Avatar of Shashikant86"> Shashikant86
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Shashikant86">Copy rank badge</a><br/>
 			Shashi
 		</td>
 		<td>@superagenticai </td>
@@ -2254,7 +2256,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/BradyAJohnston">
 				<img src="https://avatars.githubusercontent.com/u/36021261?s=72&u=fde5efd29ed2ad5af5e5c8736de5fe802b39c28d&v=4" width="24" alt="Avatar of BradyAJohnston"> BradyAJohnston
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#BradyAJohnston">Copy rank badge</a><br/>
 			Brady Johnston
 		</td>
 		<td>Freelance Scientific Animator &<br/>Developer.<br/></td>
@@ -2267,7 +2269,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/vlordier">
 				<img src="https://avatars.githubusercontent.com/u/5443125?s=72&u=90120815e99224a6002a826d92106a62a43fae95&v=4" width="24" alt="Avatar of vlordier"> vlordier
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#vlordier">Copy rank badge</a><br/>
 			Vincent Lordier
 		</td>
 		<td>No Company</td>
@@ -2280,7 +2282,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Athospd">
 				<img src="https://avatars.githubusercontent.com/u/1925102?s=72&v=4" width="24" alt="Avatar of Athospd"> Athospd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Athospd">Copy rank badge</a><br/>
 			Athos Petri Damiani
 		</td>
 		<td>Bank Of England |<br/>Curso-r<br/></td>
@@ -2293,7 +2295,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/isa">
 				<img src="https://avatars.githubusercontent.com/u/20380?s=72&u=e4eb5f6f376fa70268af434ebe75821cdf3a40b8&v=4" width="24" alt="Avatar of isa"> isa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#isa">Copy rank badge</a><br/>
 			Isa Goksu
 		</td>
 		<td>Dream Forces Ltd </td>
@@ -2306,7 +2308,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/postspectacular">
 				<img src="https://avatars.githubusercontent.com/u/52302?s=72&u=45db094f2b84874e19628d1d7d880fed42af1319&v=4" width="24" alt="Avatar of postspectacular"> postspectacular
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#postspectacular">Copy rank badge</a><br/>
 			Karsten Schmidt
 		</td>
 		<td>No Company</td>
@@ -2319,7 +2321,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jb3">
 				<img src="https://avatars.githubusercontent.com/u/20439493?s=72&u=b6fc636e89e29b41162657a442a7021d630c6110&v=4" width="24" alt="Avatar of jb3"> jb3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jb3">Copy rank badge</a><br/>
 			Joe Banks
 		</td>
 		<td>@bbc </td>
@@ -2332,7 +2334,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ashb">
 				<img src="https://avatars.githubusercontent.com/u/34150?s=72&v=4" width="24" alt="Avatar of ashb"> ashb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ashb">Copy rank badge</a><br/>
 			Ash Berlin-Taylor
 		</td>
 		<td>Astronomer.io </td>
@@ -2345,7 +2347,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/huntie">
 				<img src="https://avatars.githubusercontent.com/u/2547783?s=72&u=1a0b27d1a20b44dc7880211ef2173d55de4438a5&v=4" width="24" alt="Avatar of huntie"> huntie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#huntie">Copy rank badge</a><br/>
 			Alex Hunt
 		</td>
 		<td>@facebook </td>
@@ -2358,7 +2360,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/0atman">
 				<img src="https://avatars.githubusercontent.com/u/114097?s=72&u=1355a3cd8d46c05ae1374d58e107969cd72a35ac&v=4" width="24" alt="Avatar of 0atman"> 0atman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#0atman">Copy rank badge</a><br/>
 			Tristram Oaten
 		</td>
 		<td>Http://noboilerplate </td>
@@ -2371,7 +2373,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/albertodebortoli">
 				<img src="https://avatars.githubusercontent.com/u/653112?s=72&u=064ad231da753ccf2288ac14dd639342642994e0&v=4" width="24" alt="Avatar of albertodebortoli"> albertodebortoli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#albertodebortoli">Copy rank badge</a><br/>
 			Alberto De Bortoli
 		</td>
 		<td>Just Eat Takeaway </td>
@@ -2384,7 +2386,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/superbobry">
 				<img src="https://avatars.githubusercontent.com/u/185856?s=72&u=2f172e6bc2e873c6b7c5ded2b77f7f593c77d7da&v=4" width="24" alt="Avatar of superbobry"> superbobry
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#superbobry">Copy rank badge</a><br/>
 			Sergei Lebedev
 		</td>
 		<td>Software Engineer At @deepmind<br/></td>
@@ -2397,7 +2399,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/praveenscience">
 				<img src="https://avatars.githubusercontent.com/u/1830380?s=72&u=23ab8a7dce9a437c9c763bf3fa5deb7aba1e64c5&v=4" width="24" alt="Avatar of praveenscience"> praveenscience
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#praveenscience">Copy rank badge</a><br/>
 			Praveen Kumar Purushothaman
 		</td>
 		<td>@cloudroithq  </td>
@@ -2410,7 +2412,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jgadsden">
 				<img src="https://avatars.githubusercontent.com/u/29352392?s=72&u=e54b694a117a1c893e879048eb7d6ac49eb2e4c7&v=4" width="24" alt="Avatar of jgadsden"> jgadsden
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jgadsden">Copy rank badge</a><br/>
 			Jon Gadsden
 		</td>
 		<td>@pingidentity </td>
@@ -2423,7 +2425,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jasondavies">
 				<img src="https://avatars.githubusercontent.com/u/31223?s=72&u=41f19fe6c3fc3c97ed8b2237dfa57c86939e2ac5&v=4" width="24" alt="Avatar of jasondavies"> jasondavies
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jasondavies">Copy rank badge</a><br/>
 			Jason Davies
 		</td>
 		<td>No Company</td>
@@ -2436,7 +2438,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/TomDonoghue">
 				<img src="https://avatars.githubusercontent.com/u/7727566?s=72&u=0d56d68a1a6c04726b3368632c91d11abb2041b2&v=4" width="24" alt="Avatar of TomDonoghue"> TomDonoghue
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#TomDonoghue">Copy rank badge</a><br/>
 			tom
 		</td>
 		<td>No Company</td>
@@ -2449,7 +2451,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/nicklockwood">
 				<img src="https://avatars.githubusercontent.com/u/546885?s=72&u=27afc21005007e7361c8cf9d88f06c73bbc0cb64&v=4" width="24" alt="Avatar of nicklockwood"> nicklockwood
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#nicklockwood">Copy rank badge</a><br/>
 			Nick Lockwood
 		</td>
 		<td>Charcoal Design </td>
@@ -2462,7 +2464,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/orta">
 				<img src="https://avatars.githubusercontent.com/u/49038?s=72&u=ffa55aa2577e724ad5bc088b8663a7e886f986a0&v=4" width="24" alt="Avatar of orta"> orta
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#orta">Copy rank badge</a><br/>
 			Orta Therox
 		</td>
 		<td>No Company</td>
@@ -2475,7 +2477,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mr-r3b00t">
 				<img src="https://avatars.githubusercontent.com/u/14963690?s=72&u=1501131290f06efb4e4f5273c1f077f792769ac9&v=4" width="24" alt="Avatar of mr-r3b00t"> mr-r3b00t
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mr-r3b00t">Copy rank badge</a><br/>
 			Daniel Card
 		</td>
 		<td>Xservus Limited </td>
@@ -2488,7 +2490,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/kbuzzard">
 				<img src="https://avatars.githubusercontent.com/u/31867827?s=72&u=116524534d661c5de93d32aaf1866a21edabfc66&v=4" width="24" alt="Avatar of kbuzzard"> kbuzzard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#kbuzzard">Copy rank badge</a><br/>
 			Kevin Buzzard
 		</td>
 		<td>@imperialcollegelond  </td>
@@ -2501,7 +2503,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/bboreham">
 				<img src="https://avatars.githubusercontent.com/u/8125524?s=72&u=520fcf672f0c6d977ca3283b43c55e05afa7ba51&v=4" width="24" alt="Avatar of bboreham"> bboreham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#bboreham">Copy rank badge</a><br/>
 			Bryan Boreham
 		</td>
 		<td>Grafana Labs </td>
@@ -2514,7 +2516,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/clux">
 				<img src="https://avatars.githubusercontent.com/u/134092?s=72&u=7945d6e9b512c5fa450b01e5cc954e343fa6de37&v=4" width="24" alt="Avatar of clux"> clux
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#clux">Copy rank badge</a><br/>
 			Eirik A
 		</td>
 		<td>No Company</td>
@@ -2527,7 +2529,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/whoiskatrin">
 				<img src="https://avatars.githubusercontent.com/u/8017908?s=72&u=8ba463155b1c77284c6f61ef1f4b0039d6f608c1&v=4" width="24" alt="Avatar of whoiskatrin"> whoiskatrin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#whoiskatrin">Copy rank badge</a><br/>
 			whoiskatrin
 		</td>
 		<td>Cloudflare </td>
@@ -2540,7 +2542,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/marcinbogdanski">
 				<img src="https://avatars.githubusercontent.com/u/487323?s=72&u=35b57ab83429f7e76ee6e39141774ca60a416dc7&v=4" width="24" alt="Avatar of marcinbogdanski"> marcinbogdanski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#marcinbogdanski">Copy rank badge</a><br/>
 			Marcin Bogdanski
 		</td>
 		<td>No Company</td>
@@ -2553,7 +2555,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/russss">
 				<img src="https://avatars.githubusercontent.com/u/45057?s=72&u=98bb937d3dec8dcaf60f82f7d189847b22094011&v=4" width="24" alt="Avatar of russss"> russss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#russss">Copy rank badge</a><br/>
 			Russ Garrett
 		</td>
 		<td>No Company</td>
@@ -2566,7 +2568,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/malmstein">
 				<img src="https://avatars.githubusercontent.com/u/531613?s=72&v=4" width="24" alt="Avatar of malmstein"> malmstein
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#malmstein">Copy rank badge</a><br/>
 			David González
 		</td>
 		<td>Duckduckgo </td>
@@ -2579,7 +2581,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/gajus">
 				<img src="https://avatars.githubusercontent.com/u/973543?s=72&u=00847b4ebb892b1c5c6e424ec741bd9bf2786cb1&v=4" width="24" alt="Avatar of gajus"> gajus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#gajus">Copy rank badge</a><br/>
 			Gajus Kuizinas
 		</td>
 		<td>No Company</td>
@@ -2592,7 +2594,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/debruine">
 				<img src="https://avatars.githubusercontent.com/u/14863295?s=72&u=56e6edf01aeb8e9332bf37dadd13cf19d4877064&v=4" width="24" alt="Avatar of debruine"> debruine
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#debruine">Copy rank badge</a><br/>
 			Lisa DeBruine
 		</td>
 		<td>University Of Glasgow </td>
@@ -2605,7 +2607,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/alexandraabbas">
 				<img src="https://avatars.githubusercontent.com/u/32793463?s=72&u=0f597ee5d9dd05fa457367dde646be8e84c78fc5&v=4" width="24" alt="Avatar of alexandraabbas"> alexandraabbas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#alexandraabbas">Copy rank badge</a><br/>
 			Alexandra Abbas
 		</td>
 		<td>No Company</td>
@@ -2618,7 +2620,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/TodePond">
 				<img src="https://avatars.githubusercontent.com/u/15892272?s=72&u=3efcefcf8e3d0968ccc584933f5f295d76b8e940&v=4" width="24" alt="Avatar of TodePond"> TodePond
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#TodePond">Copy rank badge</a><br/>
 			Lu Wilson
 		</td>
 		<td>Tldraw </td>
@@ -2631,7 +2633,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Vlad1343">
 				<img src="https://avatars.githubusercontent.com/u/187797666?s=72&u=403ec21fab8b01d04267ead18395a9872bf437c1&v=4" width="24" alt="Avatar of Vlad1343"> Vlad1343
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Vlad1343">Copy rank badge</a><br/>
 			Vlad Shutkevych
 		</td>
 		<td>University Of Manchester </td>
@@ -2644,7 +2646,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/cdown">
 				<img src="https://avatars.githubusercontent.com/u/660663?s=72&u=b98e002a91e08a6b899e032d37a5355a81a3abff&v=4" width="24" alt="Avatar of cdown"> cdown
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#cdown">Copy rank badge</a><br/>
 			Chris Down
 		</td>
 		<td>@facebook </td>
@@ -2657,7 +2659,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/pseudo-rnd-thoughts">
 				<img src="https://avatars.githubusercontent.com/u/14953262?s=72&u=03ff0568fb169d19a7f2de53714c74290e4fdb8c&v=4" width="24" alt="Avatar of pseudo-rnd-thoughts"> pseudo-rnd-thoughts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#pseudo-rnd-thoughts">Copy rank badge</a><br/>
 			Mark Towers
 		</td>
 		<td>Anyscale </td>
@@ -2670,7 +2672,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jackfranklin">
 				<img src="https://avatars.githubusercontent.com/u/193238?s=72&u=533b9fb93b23b3b27e21d026788ba8fea038f9bc&v=4" width="24" alt="Avatar of jackfranklin"> jackfranklin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jackfranklin">Copy rank badge</a><br/>
 			Jack Franklin
 		</td>
 		<td>@google </td>
@@ -2683,7 +2685,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/danicat">
 				<img src="https://avatars.githubusercontent.com/u/5531172?s=72&u=f7cc95afcd6b72742cd0a4653deae151e79ed09c&v=4" width="24" alt="Avatar of danicat"> danicat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#danicat">Copy rank badge</a><br/>
 			Daniela Petruzalek
 		</td>
 		<td>@googlecloudplatform  </td>
@@ -2696,7 +2698,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/davidtwco">
 				<img src="https://avatars.githubusercontent.com/u/1295100?s=72&u=b0540abe14ddfb8c24578add2a8c960bc704a661&v=4" width="24" alt="Avatar of davidtwco"> davidtwco
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#davidtwco">Copy rank badge</a><br/>
 			David Wood
 		</td>
 		<td>@arm + @rust-lang </td>
@@ -2709,7 +2711,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Groverkss">
 				<img src="https://avatars.githubusercontent.com/u/51270680?s=72&u=0afeeaa45be4b88d8b8427e1c3fc008440c78f8e&v=4" width="24" alt="Avatar of Groverkss"> Groverkss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Groverkss">Copy rank badge</a><br/>
 			Kunwar Grover
 		</td>
 		<td>Nod.ai / Amd Ai<br/>Group<br/></td>
@@ -2722,7 +2724,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/peter-lawrey">
 				<img src="https://avatars.githubusercontent.com/u/1070321?s=72&u=7a15e8b83d30d0a72fc17a3eb865621cfeb2af02&v=4" width="24" alt="Avatar of peter-lawrey"> peter-lawrey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#peter-lawrey">Copy rank badge</a><br/>
 			Peter Lawrey
 		</td>
 		<td>Chronicle Software </td>
@@ -2735,7 +2737,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/cipolleschi">
 				<img src="https://avatars.githubusercontent.com/u/11162307?s=72&u=c200f236d40ca9a21f95a0586c9b9f690a259aa6&v=4" width="24" alt="Avatar of cipolleschi"> cipolleschi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#cipolleschi">Copy rank badge</a><br/>
 			Riccardo Cipolleschi
 		</td>
 		<td>Meta </td>
@@ -2748,7 +2750,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/isair">
 				<img src="https://avatars.githubusercontent.com/u/988213?s=72&u=341ced76c5e0f7df05bd717c7b3a02023d3e09b1&v=4" width="24" alt="Avatar of isair"> isair
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#isair">Copy rank badge</a><br/>
 			Baris Sencan
 		</td>
 		<td>Ilyssa, Equalsgroup, Leo, Mojilala,<br/>Mobileplayer<br/></td>
@@ -2761,7 +2763,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/JamesLMilner">
 				<img src="https://avatars.githubusercontent.com/u/8822075?s=72&u=97f8c036454ef30eb469e3f327455fe05e3fc837&v=4" width="24" alt="Avatar of JamesLMilner"> JamesLMilner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#JamesLMilner">Copy rank badge</a><br/>
 			James Milner
 		</td>
 		<td>No Company</td>
@@ -2774,7 +2776,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/fferegrino">
 				<img src="https://avatars.githubusercontent.com/u/1820946?s=72&u=346d2010b0920274ffe049bb30aee1b508c99644&v=4" width="24" alt="Avatar of fferegrino"> fferegrino
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#fferegrino">Copy rank badge</a><br/>
 			Antonio Feregrino
 		</td>
 		<td>No Company</td>
@@ -2787,7 +2789,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/spite">
 				<img src="https://avatars.githubusercontent.com/u/731885?s=72&u=c7d0a4265e81e8bd26ad9b2e68ba48e5562f25fc&v=4" width="24" alt="Avatar of spite"> spite
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#spite">Copy rank badge</a><br/>
 			Jaume Sanchez
 		</td>
 		<td>@google-deepmind  </td>
@@ -2800,7 +2802,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mrmartineau">
 				<img src="https://avatars.githubusercontent.com/u/64883?s=72&u=a39cd2be810f7219e8c26db893f6d43371cdf071&v=4" width="24" alt="Avatar of mrmartineau"> mrmartineau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mrmartineau">Copy rank badge</a><br/>
 			Zander Martineau
 		</td>
 		<td>Staff Software Engineer @dare-global<br/></td>
@@ -2813,7 +2815,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/manchenkoff">
 				<img src="https://avatars.githubusercontent.com/u/6690063?s=72&u=82bec68c10171bbbfb4b18e732fa3ab90b91da7f&v=4" width="24" alt="Avatar of manchenkoff"> manchenkoff
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#manchenkoff">Copy rank badge</a><br/>
 			Artem Manchenkov
 		</td>
 		<td>Fresha </td>
@@ -2826,7 +2828,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/fabiospampinato">
 				<img src="https://avatars.githubusercontent.com/u/1812093?s=72&u=0d6a92ea991be8b4d893c64f017d10b26d60e581&v=4" width="24" alt="Avatar of fabiospampinato"> fabiospampinato
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#fabiospampinato">Copy rank badge</a><br/>
 			Fabio Spampinato
 		</td>
 		<td>@facebook </td>
@@ -2839,7 +2841,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/TartanLlama">
 				<img src="https://avatars.githubusercontent.com/u/1856614?s=72&u=3e1e2f008d32be2d8be2a42b68cbace7d1298665&v=4" width="24" alt="Avatar of TartanLlama"> TartanLlama
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#TartanLlama">Copy rank badge</a><br/>
 			Sy Brand
 		</td>
 		<td>Fastly </td>
@@ -2852,7 +2854,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/karlicoss">
 				<img src="https://avatars.githubusercontent.com/u/291333?s=72&v=4" width="24" alt="Avatar of karlicoss"> karlicoss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#karlicoss">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2865,7 +2867,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/PromoFaux">
 				<img src="https://avatars.githubusercontent.com/u/1998970?s=72&u=f4844e7a6a99e5e62620d0dca9da1f212b33b9c1&v=4" width="24" alt="Avatar of PromoFaux"> PromoFaux
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#PromoFaux">Copy rank badge</a><br/>
 			Adam Warner
 		</td>
 		<td>No Company</td>
@@ -2878,7 +2880,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/myitcv">
 				<img src="https://avatars.githubusercontent.com/u/3374574?s=72&u=c933d87c0e2b5ee7f1fe1e9c0e735f7a06f57bd1&v=4" width="24" alt="Avatar of myitcv"> myitcv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#myitcv">Copy rank badge</a><br/>
 			Paul Jolly
 		</td>
 		<td>Myitcv.io </td>
@@ -2891,7 +2893,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/krisajenkins">
 				<img src="https://avatars.githubusercontent.com/u/380756?s=72&u=3f6e255e7c8177bca560e0ddbc398572617bdb81&v=4" width="24" alt="Avatar of krisajenkins"> krisajenkins
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#krisajenkins">Copy rank badge</a><br/>
 			Kris Jenkins
 		</td>
 		<td>No Company</td>
@@ -2904,7 +2906,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/LionZXY">
 				<img src="https://avatars.githubusercontent.com/u/5871715?s=72&u=8e5441ef56cd230c4bbe7a92ff6244faac0a18b8&v=4" width="24" alt="Avatar of LionZXY"> LionZXY
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#LionZXY">Copy rank badge</a><br/>
 			Nikita Kulikov
 		</td>
 		<td>@flipperdevices </td>
@@ -2917,7 +2919,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ferrolho">
 				<img src="https://avatars.githubusercontent.com/u/4166093?s=72&u=a7e57a5332357ca04dd1044586dd3ca6fc82eb0c&v=4" width="24" alt="Avatar of ferrolho"> ferrolho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ferrolho">Copy rank badge</a><br/>
 			Henrique Ferrolho
 		</td>
 		<td>No Company</td>
@@ -2930,7 +2932,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/pksunkara">
 				<img src="https://avatars.githubusercontent.com/u/174703?s=72&v=4" width="24" alt="Avatar of pksunkara"> pksunkara
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#pksunkara">Copy rank badge</a><br/>
 			Pavan K Sunkara
 		</td>
 		<td>No Company</td>
@@ -2943,7 +2945,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/JohnCrickett">
 				<img src="https://avatars.githubusercontent.com/u/3667898?s=72&u=47994cc8713d8d45604def69777a791cdf3eecb3&v=4" width="24" alt="Avatar of JohnCrickett"> JohnCrickett
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#JohnCrickett">Copy rank badge</a><br/>
 			John Crickett
 		</td>
 		<td>@codingchallengesfyi  </td>
@@ -2956,7 +2958,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/darrenburns">
 				<img src="https://avatars.githubusercontent.com/u/5740731?s=72&u=714fe0a321629191c59ab823466aab8254299bcc&v=4" width="24" alt="Avatar of darrenburns"> darrenburns
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#darrenburns">Copy rank badge</a><br/>
 			Darren Burns
 		</td>
 		<td>@monzo </td>
@@ -2969,7 +2971,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tirth8205">
 				<img src="https://avatars.githubusercontent.com/u/68604113?s=72&u=c33332b6b3a71443dfa7d76a792a999997137c9a&v=4" width="24" alt="Avatar of tirth8205"> tirth8205
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tirth8205">Copy rank badge</a><br/>
 			Tirth Kanani
 		</td>
 		<td>University Of Birmingham </td>
@@ -2982,7 +2984,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/stepancheg">
 				<img src="https://avatars.githubusercontent.com/u/28969?s=72&u=184cec698ead4d3444236763bb8bba1c3e778094&v=4" width="24" alt="Avatar of stepancheg"> stepancheg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#stepancheg">Copy rank badge</a><br/>
 			Stepan Koltsov
 		</td>
 		<td>Xai </td>
@@ -2995,7 +2997,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/TWiStErRob">
 				<img src="https://avatars.githubusercontent.com/u/2906988?s=72&u=a9e2bcb9bd7ded513aab034e868c48cd9a6694d0&v=4" width="24" alt="Avatar of TWiStErRob"> TWiStErRob
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#TWiStErRob">Copy rank badge</a><br/>
 			Róbert Papp
 		</td>
 		<td>Marks And Spencer </td>
@@ -3008,7 +3010,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/oldergod">
 				<img src="https://avatars.githubusercontent.com/u/1767669?s=72&u=e4a8031fe67eda8a97d1d884b3e7885142747de3&v=4" width="24" alt="Avatar of oldergod"> oldergod
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#oldergod">Copy rank badge</a><br/>
 			Benoît Quenaudon
 		</td>
 		<td>@cashapp / @square /<br/>@block<br/></td>
@@ -3021,7 +3023,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/petebankhead">
 				<img src="https://avatars.githubusercontent.com/u/4690904?s=72&v=4" width="24" alt="Avatar of petebankhead"> petebankhead
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#petebankhead">Copy rank badge</a><br/>
 			Pete
 		</td>
 		<td>University Of Edinburgh </td>
@@ -3034,7 +3036,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jryans">
 				<img src="https://avatars.githubusercontent.com/u/279572?s=72&u=753c3e4e4bdbf3f2a8e5649dc314ed7d1b3a43f6&v=4" width="24" alt="Avatar of jryans"> jryans
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jryans">Copy rank badge</a><br/>
 			J. Ryan Stinnett
 		</td>
 		<td>No Company</td>
@@ -3047,7 +3049,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/chanind">
 				<img src="https://avatars.githubusercontent.com/u/200725?s=72&u=e2ad88641399991c2d2143389aa47245d49764de&v=4" width="24" alt="Avatar of chanind"> chanind
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#chanind">Copy rank badge</a><br/>
 			David Chanin
 		</td>
 		<td>Ucl </td>
@@ -3060,7 +3062,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/benc-uk">
 				<img src="https://avatars.githubusercontent.com/u/14982936?s=72&u=0f2cc69e7af1f9bf14f289effd34fa26c9e18e78&v=4" width="24" alt="Avatar of benc-uk"> benc-uk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#benc-uk">Copy rank badge</a><br/>
 			Ben Coleman
 		</td>
 		<td>Microsoft </td>
@@ -3073,7 +3075,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/matthew-brett">
 				<img src="https://avatars.githubusercontent.com/u/67612?s=72&v=4" width="24" alt="Avatar of matthew-brett"> matthew-brett
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#matthew-brett">Copy rank badge</a><br/>
 			Matthew Brett
 		</td>
 		<td>No Company</td>
@@ -3086,7 +3088,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dscape">
 				<img src="https://avatars.githubusercontent.com/u/8577?s=72&u=17aeb50f4e68ad73260e5eee402a7769afd34c71&v=4" width="24" alt="Avatar of dscape"> dscape
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dscape">Copy rank badge</a><br/>
 			Nuno Job
 		</td>
 		<td>@yldio  </td>
@@ -3099,7 +3101,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/philhawksworth">
 				<img src="https://avatars.githubusercontent.com/u/5865?s=72&v=4" width="24" alt="Avatar of philhawksworth"> philhawksworth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#philhawksworth">Copy rank badge</a><br/>
 			Phil Hawksworth
 		</td>
 		<td>@denoland  </td>
@@ -3112,7 +3114,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Integralist">
 				<img src="https://avatars.githubusercontent.com/u/180050?s=72&u=78a8a294094fa20c582d37464f94124a03214cfb&v=4" width="24" alt="Avatar of Integralist"> Integralist
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Integralist">Copy rank badge</a><br/>
 			Mark McDonnell
 		</td>
 		<td>@fastly  </td>
@@ -3125,7 +3127,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jjenzz">
 				<img src="https://avatars.githubusercontent.com/u/175330?s=72&u=f30f34aba72a54a81a9a151191e0c02537689a2a&v=4" width="24" alt="Avatar of jjenzz"> jjenzz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jjenzz">Copy rank badge</a><br/>
 			Jenna Smith
 		</td>
 		<td>No Company</td>
@@ -3138,7 +3140,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/marcellogalhardo">
 				<img src="https://avatars.githubusercontent.com/u/4348197?s=72&u=e1ae1d7db03276dfe84db098582ba8ee4368b077&v=4" width="24" alt="Avatar of marcellogalhardo"> marcellogalhardo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#marcellogalhardo">Copy rank badge</a><br/>
 			Marcello Galhardo
 		</td>
 		<td>No Company</td>
@@ -3151,7 +3153,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tgfrerer">
 				<img src="https://avatars.githubusercontent.com/u/423509?s=72&v=4" width="24" alt="Avatar of tgfrerer"> tgfrerer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tgfrerer">Copy rank badge</a><br/>
 			Tim Gfrerer
 		</td>
 		<td>Ponies & Light Ltd.<br/></td>
@@ -3164,7 +3166,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/radeksimko">
 				<img src="https://avatars.githubusercontent.com/u/287584?s=72&v=4" width="24" alt="Avatar of radeksimko"> radeksimko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#radeksimko">Copy rank badge</a><br/>
 			Radek Simko
 		</td>
 		<td>@hashicorp  </td>
@@ -3177,7 +3179,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/QuiiBz">
 				<img src="https://avatars.githubusercontent.com/u/43268759?s=72&u=1d8c6583c1cce98b7baeecd2b9646a9f41292376&v=4" width="24" alt="Avatar of QuiiBz"> QuiiBz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#QuiiBz">Copy rank badge</a><br/>
 			Tom Lienard
 		</td>
 		<td>@vercel </td>
@@ -3190,7 +3192,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/nelstrom">
 				<img src="https://avatars.githubusercontent.com/u/7069?s=72&u=d02ed73e6fa63b15f34572f94e960465ef962ae8&v=4" width="24" alt="Avatar of nelstrom"> nelstrom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#nelstrom">Copy rank badge</a><br/>
 			Drew Neil
 		</td>
 		<td>No Company</td>
@@ -3203,7 +3205,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/kennethnym">
 				<img src="https://avatars.githubusercontent.com/u/19359984?s=72&u=ee0fd1bf6016f02bd9c07a8b732e293a31c552bb&v=4" width="24" alt="Avatar of kennethnym"> kennethnym
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#kennethnym">Copy rank badge</a><br/>
 			Kenneth
 		</td>
 		<td>No Company</td>
@@ -3216,7 +3218,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/marlenezw">
 				<img src="https://avatars.githubusercontent.com/u/57748216?s=72&u=e2029e1262ee9c9d9f5825b2d28952758a628f28&v=4" width="24" alt="Avatar of marlenezw"> marlenezw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#marlenezw">Copy rank badge</a><br/>
 			Marlene 
 		</td>
 		<td>Microsoft </td>
@@ -3229,7 +3231,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/KayanShah">
 				<img src="https://avatars.githubusercontent.com/u/169876770?s=72&u=c92fb17a42af68e46d941ad50e883d193c9f3b12&v=4" width="24" alt="Avatar of KayanShah"> KayanShah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#KayanShah">Copy rank badge</a><br/>
 			Kayan Shah
 		</td>
 		<td>Student </td>
@@ -3242,7 +3244,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/IsaacMarovitz">
 				<img src="https://avatars.githubusercontent.com/u/42140194?s=72&u=f76a6af138076cb9637f07ea9547f62eb0f90e74&v=4" width="24" alt="Avatar of IsaacMarovitz"> IsaacMarovitz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#IsaacMarovitz">Copy rank badge</a><br/>
 			Isaac Marovitz
 		</td>
 		<td>No Company</td>
@@ -3255,7 +3257,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jnewbery">
 				<img src="https://avatars.githubusercontent.com/u/1063656?s=72&u=cb71ec1241ff3caaa6af0539052049ba1647c48c&v=4" width="24" alt="Avatar of jnewbery"> jnewbery
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jnewbery">Copy rank badge</a><br/>
 			John Newbery
 		</td>
 		<td>No Company</td>
@@ -3268,7 +3270,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/pngwn">
 				<img src="https://avatars.githubusercontent.com/u/12937446?s=72&u=aa4cf3d486fbe6875f2ac727ae5863764aab59ae&v=4" width="24" alt="Avatar of pngwn"> pngwn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#pngwn">Copy rank badge</a><br/>
 			pngwn
 		</td>
 		<td>No Company</td>
@@ -3281,7 +3283,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Arul1998">
 				<img src="https://avatars.githubusercontent.com/u/65539155?s=72&u=7e0617186d98675412b2d6e1610fdb8852873e0a&v=4" width="24" alt="Avatar of Arul1998"> Arul1998
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Arul1998">Copy rank badge</a><br/>
 			Arul Cornelious
 		</td>
 		<td>Eocito Limited </td>
@@ -3294,7 +3296,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/kunal-kushwaha">
 				<img src="https://avatars.githubusercontent.com/u/42698533?s=72&u=ff495fe438361b19649efdfc4a2fa15bbffc0b75&v=4" width="24" alt="Avatar of kunal-kushwaha"> kunal-kushwaha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#kunal-kushwaha">Copy rank badge</a><br/>
 			Kunal Kushwaha
 		</td>
 		<td>Wemakedevs </td>
@@ -3307,7 +3309,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/lovell">
 				<img src="https://avatars.githubusercontent.com/u/210965?s=72&u=64c063da7bd5a864725d60a20cebf688886824a0&v=4" width="24" alt="Avatar of lovell"> lovell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#lovell">Copy rank badge</a><br/>
 			Lovell Fuller
 		</td>
 		<td>No Company</td>
@@ -3320,7 +3322,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/beverloo">
 				<img src="https://avatars.githubusercontent.com/u/418835?s=72&u=efefec22e610de206f1b5a319a3236cc1a882d31&v=4" width="24" alt="Avatar of beverloo"> beverloo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#beverloo">Copy rank badge</a><br/>
 			Peter Beverloo
 		</td>
 		<td>Google </td>
@@ -3333,7 +3335,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/gingerbeardman">
 				<img src="https://avatars.githubusercontent.com/u/49612?s=72&u=117895164728d6be6bc447767cb17a21fef00b2b&v=4" width="24" alt="Avatar of gingerbeardman"> gingerbeardman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#gingerbeardman">Copy rank badge</a><br/>
 			Matt Sephton
 		</td>
 		<td>No Company</td>
@@ -3346,7 +3348,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/steveloughran">
 				<img src="https://avatars.githubusercontent.com/u/162090?s=72&u=9941cabe35761d4cce7105dba718d51cff4805b9&v=4" width="24" alt="Avatar of steveloughran"> steveloughran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#steveloughran">Copy rank badge</a><br/>
 			Steve Loughran
 		</td>
 		<td>@apache @cloudera @hortonworks </td>
@@ -3359,7 +3361,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/bookercodes">
 				<img src="https://avatars.githubusercontent.com/u/11927968?s=72&u=d4eac5e18e02c1b844d18a95a6f89f17c779e40a&v=4" width="24" alt="Avatar of bookercodes"> bookercodes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#bookercodes">Copy rank badge</a><br/>
 			Alex Booker
 		</td>
 		<td>@mastra-ai </td>
@@ -3372,7 +3374,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/vrom911">
 				<img src="https://avatars.githubusercontent.com/u/8126674?s=72&u=fb2542725226796c77435734466cf42392dfe114&v=4" width="24" alt="Avatar of vrom911"> vrom911
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#vrom911">Copy rank badge</a><br/>
 			Veronika Romashkina
 		</td>
 		<td>@kowainik </td>
@@ -3385,7 +3387,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/nicholasjackson">
 				<img src="https://avatars.githubusercontent.com/u/773533?s=72&u=c2459d49c16e7052872e8a4968b5be9db6dbf6f5&v=4" width="24" alt="Avatar of nicholasjackson"> nicholasjackson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#nicholasjackson">Copy rank badge</a><br/>
 			Nicholas Jackson
 		</td>
 		<td>@hashicorp </td>
@@ -3398,7 +3400,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ArthurBrussee">
 				<img src="https://avatars.githubusercontent.com/u/7014262?s=72&u=87c7b9e4d196d628d664fea179b45d01cbf8b613&v=4" width="24" alt="Avatar of ArthurBrussee"> ArthurBrussee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ArthurBrussee">Copy rank badge</a><br/>
 			Arthur Brussee
 		</td>
 		<td>Deepmind </td>
@@ -3411,7 +3413,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/rubennorte">
 				<img src="https://avatars.githubusercontent.com/u/117921?s=72&u=22b84824566e99b5d9574cdd511a5e30188de1fd&v=4" width="24" alt="Avatar of rubennorte"> rubennorte
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#rubennorte">Copy rank badge</a><br/>
 			Rubén Norte
 		</td>
 		<td>Meta </td>
@@ -3424,7 +3426,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/berndporr">
 				<img src="https://avatars.githubusercontent.com/u/1679394?s=72&u=d7affe9ac060debbed5c15ce3a38e3571ecc0bb9&v=4" width="24" alt="Avatar of berndporr"> berndporr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#berndporr">Copy rank badge</a><br/>
 			Bernd Porr
 		</td>
 		<td>No Company</td>
@@ -3437,7 +3439,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/barrucadu">
 				<img src="https://avatars.githubusercontent.com/u/75235?s=72&u=a79532276cc0bb5b6aef53af0acedd75b701d694&v=4" width="24" alt="Avatar of barrucadu"> barrucadu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#barrucadu">Copy rank badge</a><br/>
 			Michael Walker
 		</td>
 		<td>@gocardless </td>
@@ -3450,7 +3452,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/chongdashu">
 				<img src="https://avatars.githubusercontent.com/u/1178121?s=72&u=e37ce0dd52ce537e8cb65f99360e1b4249559d6c&v=4" width="24" alt="Avatar of chongdashu"> chongdashu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#chongdashu">Copy rank badge</a><br/>
 			Chong-U
 		</td>
 		<td>Ai Oriented Dev </td>
@@ -3463,7 +3465,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/linusg">
 				<img src="https://avatars.githubusercontent.com/u/19366641?s=72&u=75e32dda8a03cbd14d984e60b3352deaf7b38243&v=4" width="24" alt="Avatar of linusg"> linusg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#linusg">Copy rank badge</a><br/>
 			Linus Groh
 		</td>
 		<td>@bloomberg </td>
@@ -3476,7 +3478,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/daneden">
 				<img src="https://avatars.githubusercontent.com/u/439365?s=72&u=91e4ef9348f3be4f60c965a730a7ea182f954826&v=4" width="24" alt="Avatar of daneden"> daneden
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#daneden">Copy rank badge</a><br/>
 			Daniel Eden
 		</td>
 		<td>@figma </td>
@@ -3489,7 +3491,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dsyer">
 				<img src="https://avatars.githubusercontent.com/u/124075?s=72&u=0126f73c071aade850b6016df3d4ce273914a094&v=4" width="24" alt="Avatar of dsyer"> dsyer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dsyer">Copy rank badge</a><br/>
 			Dave Syer
 		</td>
 		<td>Broadcom </td>
@@ -3502,7 +3504,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Lukasa">
 				<img src="https://avatars.githubusercontent.com/u/1382556?s=72&u=ec0626bca59533ff690c024ed92b314b1594de52&v=4" width="24" alt="Avatar of Lukasa"> Lukasa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Lukasa">Copy rank badge</a><br/>
 			Cory Benfield
 		</td>
 		<td>Apple </td>
@@ -3515,7 +3517,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Olical">
 				<img src="https://avatars.githubusercontent.com/u/315229?s=72&u=0fba6dd3aeddb8516ea295745bb1eefbbb017d4b&v=4" width="24" alt="Avatar of Olical"> Olical
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Olical">Copy rank badge</a><br/>
 			Oliver Caldwell
 		</td>
 		<td>@gowerstreet </td>
@@ -3528,7 +3530,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/gogojjh">
 				<img src="https://avatars.githubusercontent.com/u/11897988?s=72&u=a8fa2d43c6282af4e2c727ce1925d895f269ade5&v=4" width="24" alt="Avatar of gogojjh"> gogojjh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#gogojjh">Copy rank badge</a><br/>
 			gogojjh
 		</td>
 		<td>University College London </td>
@@ -3541,7 +3543,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/riggaroo">
 				<img src="https://avatars.githubusercontent.com/u/9973046?s=72&u=f1c3a112f78f4274970f7f6e7ba9ea934f240696&v=4" width="24" alt="Avatar of riggaroo"> riggaroo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#riggaroo">Copy rank badge</a><br/>
 			Rebecca Franks
 		</td>
 		<td>@google </td>
@@ -3554,7 +3556,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/imfing">
 				<img src="https://avatars.githubusercontent.com/u/5097752?s=72&u=2c29af47e2785926f25bb4745bd63c7e3ea8482d&v=4" width="24" alt="Avatar of imfing"> imfing
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#imfing">Copy rank badge</a><br/>
 			Xin
 		</td>
 		<td>No Company</td>
@@ -3567,7 +3569,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sergiecode">
 				<img src="https://avatars.githubusercontent.com/u/68135000?s=72&u=6627b6048dd40d06442410bb258a5fb4f4f42ff1&v=4" width="24" alt="Avatar of sergiecode"> sergiecode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sergiecode">Copy rank badge</a><br/>
 			Sergie Code
 		</td>
 		<td>No Company</td>
@@ -3580,7 +3582,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/broonie">
 				<img src="https://avatars.githubusercontent.com/u/2903?s=72&u=bfd4ef3385bcf27ae093f2bacf99b78dc917018c&v=4" width="24" alt="Avatar of broonie"> broonie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#broonie">Copy rank badge</a><br/>
 			Mark Brown
 		</td>
 		<td>Arm </td>
@@ -3593,7 +3595,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tgjones">
 				<img src="https://avatars.githubusercontent.com/u/102049?s=72&v=4" width="24" alt="Avatar of tgjones"> tgjones
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tgjones">Copy rank badge</a><br/>
 			Tim Jones
 		</td>
 		<td>Unity Technologies </td>
@@ -3606,7 +3608,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/davestewart">
 				<img src="https://avatars.githubusercontent.com/u/132681?s=72&u=d79387f1ddab1e7e75c6fb6dff51bb8d08a53bce&v=4" width="24" alt="Avatar of davestewart"> davestewart
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#davestewart">Copy rank badge</a><br/>
 			Dave Stewart
 		</td>
 		<td>No Company</td>
@@ -3619,7 +3621,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/squaremo">
 				<img src="https://avatars.githubusercontent.com/u/62033?s=72&v=4" width="24" alt="Avatar of squaremo"> squaremo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#squaremo">Copy rank badge</a><br/>
 			Michael Bridgen
 		</td>
 		<td>No Company</td>
@@ -3632,7 +3634,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Amanieu">
 				<img src="https://avatars.githubusercontent.com/u/278509?s=72&u=f17ebaaae490d5f66760b62f162c2f142c7fc37d&v=4" width="24" alt="Avatar of Amanieu"> Amanieu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Amanieu">Copy rank badge</a><br/>
 			Amanieu d'Antras
 		</td>
 		<td>No Company</td>
@@ -3645,7 +3647,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/softchris">
 				<img src="https://avatars.githubusercontent.com/u/4598064?s=72&u=cdd374271b55a276c7f74897b5ab14652ac23955&v=4" width="24" alt="Avatar of softchris"> softchris
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#softchris">Copy rank badge</a><br/>
 			chris
 		</td>
 		<td>Microsoft </td>
@@ -3658,7 +3660,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/chr1sj0nes">
 				<img src="https://avatars.githubusercontent.com/u/387854?s=72&u=6310398ffc8ae374b745be265763ee1f2a486220&v=4" width="24" alt="Avatar of chr1sj0nes"> chr1sj0nes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#chr1sj0nes">Copy rank badge</a><br/>
 			Chris Jones
 		</td>
 		<td>Deepmind (@deepmind) </td>
@@ -3671,7 +3673,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/yuvaltassa">
 				<img src="https://avatars.githubusercontent.com/u/6387526?s=72&u=4482ff6a7a64adb994cbade43bfe8892e21e24d4&v=4" width="24" alt="Avatar of yuvaltassa"> yuvaltassa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#yuvaltassa">Copy rank badge</a><br/>
 			Yuval Tassa
 		</td>
 		<td>Deepmind </td>
@@ -3684,7 +3686,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/silky">
 				<img src="https://avatars.githubusercontent.com/u/129525?s=72&u=2bf3efbe5227b35a5b48d7dfae900a094a2e53f7&v=4" width="24" alt="Avatar of silky"> silky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#silky">Copy rank badge</a><br/>
 			Noon van der Silk
 		</td>
 		<td>No Company</td>
@@ -3697,7 +3699,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dturner">
 				<img src="https://avatars.githubusercontent.com/u/873212?s=72&u=532269cb3b7ef600766755d9e4a3814ac3908444&v=4" width="24" alt="Avatar of dturner"> dturner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dturner">Copy rank badge</a><br/>
 			Don Turner
 		</td>
 		<td>Google </td>
@@ -3710,7 +3712,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/nfcampos">
 				<img src="https://avatars.githubusercontent.com/u/56902?s=72&u=fdb30e802c68bc338dd9c0820f713e4fdac75db7&v=4" width="24" alt="Avatar of nfcampos"> nfcampos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#nfcampos">Copy rank badge</a><br/>
 			Nuno Campos
 		</td>
 		<td>@witanlabs </td>
@@ -3723,7 +3725,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/gallais">
 				<img src="https://avatars.githubusercontent.com/u/1094905?s=72&u=56b7926f3cf66687d191faccb3f910dc8032b72a&v=4" width="24" alt="Avatar of gallais"> gallais
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#gallais">Copy rank badge</a><br/>
 			G. Allais
 		</td>
 		<td>No Company</td>
@@ -3736,7 +3738,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/chrisvxd">
 				<img src="https://avatars.githubusercontent.com/u/985961?s=72&u=db986dd0c7e7808025df6dd1c3fcb0afbe8ea021&v=4" width="24" alt="Avatar of chrisvxd"> chrisvxd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#chrisvxd">Copy rank badge</a><br/>
 			Chris Villa
 		</td>
 		<td>@puckeditor </td>
@@ -3749,7 +3751,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/SaraVieira">
 				<img src="https://avatars.githubusercontent.com/u/1051509?s=72&u=ed31cf8dc8bd9357e71ab945333b578dc78a711a&v=4" width="24" alt="Avatar of SaraVieira"> SaraVieira
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#SaraVieira">Copy rank badge</a><br/>
 			Sara Vieira
 		</td>
 		<td>@askorama  </td>
@@ -3762,7 +3764,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/davidwhitney">
 				<img src="https://avatars.githubusercontent.com/u/186470?s=72&u=7966e3a95369bdfd0829cc170388589390fb5319&v=4" width="24" alt="Avatar of davidwhitney"> davidwhitney
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#davidwhitney">Copy rank badge</a><br/>
 			David Whitney
 		</td>
 		<td>Electric Head Software </td>
@@ -3775,7 +3777,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/viatsko">
 				<img src="https://avatars.githubusercontent.com/u/376065?s=72&u=453b2691bfeca5e30663ad8129dec259d6209106&v=4" width="24" alt="Avatar of viatsko"> viatsko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#viatsko">Copy rank badge</a><br/>
 			Valerii Iatsko
 		</td>
 		<td>Google </td>
@@ -3788,7 +3790,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ds300">
 				<img src="https://avatars.githubusercontent.com/u/1242537?s=72&u=ba5d718f5c1af112dcaa847cf1d8ab6bc73849c6&v=4" width="24" alt="Avatar of ds300"> ds300
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ds300">Copy rank badge</a><br/>
 			David Sheldrick
 		</td>
 		<td>No Company</td>
@@ -3801,7 +3803,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/fmaussion">
 				<img src="https://avatars.githubusercontent.com/u/10050469?s=72&u=13dfbf48c7e22b91a4c802b83eebef85b3a52a5e&v=4" width="24" alt="Avatar of fmaussion"> fmaussion
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#fmaussion">Copy rank badge</a><br/>
 			Fabien Maussion
 		</td>
 		<td>University Of Bristol </td>
@@ -3814,7 +3816,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/malb">
 				<img src="https://avatars.githubusercontent.com/u/1423682?s=72&u=87708967f9ca9f1ce19957c4f444245a2d64880e&v=4" width="24" alt="Avatar of malb"> malb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#malb">Copy rank badge</a><br/>
 			Martin R. Albrecht
 		</td>
 		<td>No Company</td>
@@ -3827,7 +3829,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/elihwyma">
 				<img src="https://avatars.githubusercontent.com/u/26681721?s=72&u=32390808d5531fbc6aaf0694f33b116eedcd6e57&v=4" width="24" alt="Avatar of elihwyma"> elihwyma
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#elihwyma">Copy rank badge</a><br/>
 			Amelia
 		</td>
 		<td>@iproov </td>
@@ -3840,7 +3842,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tchaton">
 				<img src="https://avatars.githubusercontent.com/u/12861981?s=72&u=7b05b6e1b6dfe7ff5a52cf1244841608785b8c93&v=4" width="24" alt="Avatar of tchaton"> tchaton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tchaton">Copy rank badge</a><br/>
 			thomas chaton
 		</td>
 		<td>Lightning.ai | Pytorch Lightning<br/></td>
@@ -3853,7 +3855,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/zesterer">
 				<img src="https://avatars.githubusercontent.com/u/3268430?s=72&u=ac46b69927b30341a3854be7bfdf00f7ddefbe5a&v=4" width="24" alt="Avatar of zesterer"> zesterer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#zesterer">Copy rank badge</a><br/>
 			Joshua Barretto
 		</td>
 		<td>No Company</td>
@@ -3866,7 +3868,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/walaura">
 				<img src="https://avatars.githubusercontent.com/u/11539094?s=72&u=4624cc7c052b3679ece6e0ee223b50302fa289ac&v=4" width="24" alt="Avatar of walaura"> walaura
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#walaura">Copy rank badge</a><br/>
 			Laura buns
 		</td>
 		<td>No Company</td>
@@ -3879,7 +3881,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mwouts">
 				<img src="https://avatars.githubusercontent.com/u/29915202?s=72&u=82068190704e2e4319b3dd356bf8bd3a4d028106&v=4" width="24" alt="Avatar of mwouts"> mwouts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mwouts">Copy rank badge</a><br/>
 			Marc Wouts
 		</td>
 		<td>No Company</td>
@@ -3892,7 +3894,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/fb55">
 				<img src="https://avatars.githubusercontent.com/u/188768?s=72&v=4" width="24" alt="Avatar of fb55"> fb55
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#fb55">Copy rank badge</a><br/>
 			Felix Boehm
 		</td>
 		<td>No Company</td>
@@ -3905,7 +3907,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tomakehurst">
 				<img src="https://avatars.githubusercontent.com/u/707169?s=72&u=47ca8408ac35fd8ea3e1ab1a2ae90ec1e065080b&v=4" width="24" alt="Avatar of tomakehurst"> tomakehurst
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tomakehurst">Copy rank badge</a><br/>
 			Tom Akehurst
 		</td>
 		<td>@wiremock-inc  </td>
@@ -3918,7 +3920,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/wakaleo">
 				<img src="https://avatars.githubusercontent.com/u/55986?s=72&v=4" width="24" alt="Avatar of wakaleo"> wakaleo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#wakaleo">Copy rank badge</a><br/>
 			John Ferguson Smart
 		</td>
 		<td>Wakaleo Consulting </td>
@@ -3931,7 +3933,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/javache">
 				<img src="https://avatars.githubusercontent.com/u/5676?s=72&v=4" width="24" alt="Avatar of javache"> javache
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#javache">Copy rank badge</a><br/>
 			Pieter De Baets
 		</td>
 		<td>Facebook </td>
@@ -3944,7 +3946,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/bitbrain">
 				<img src="https://avatars.githubusercontent.com/u/822035?s=72&u=d7070a745d54e4361c3b5b56856fba4e0194acc3&v=4" width="24" alt="Avatar of bitbrain"> bitbrain
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#bitbrain">Copy rank badge</a><br/>
 			bitbrain
 		</td>
 		<td>Neol </td>
@@ -3957,7 +3959,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tomwilkie">
 				<img src="https://avatars.githubusercontent.com/u/444037?s=72&v=4" width="24" alt="Avatar of tomwilkie"> tomwilkie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tomwilkie">Copy rank badge</a><br/>
 			Tom Wilkie
 		</td>
 		<td>@grafana  </td>
@@ -3970,7 +3972,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/nearestnabors">
 				<img src="https://avatars.githubusercontent.com/u/236306?s=72&u=15071404b89e5e50fe47be691cf8d94c2ceec25a&v=4" width="24" alt="Avatar of nearestnabors"> nearestnabors
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#nearestnabors">Copy rank badge</a><br/>
 			RL "Nearest" Nabors
 		</td>
 		<td>No Company</td>
@@ -3983,7 +3985,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/KKulma">
 				<img src="https://avatars.githubusercontent.com/u/7890048?s=72&u=b021e9b28ecc5162f17ad9dfca78a83f6d3ea2e4&v=4" width="24" alt="Avatar of KKulma"> KKulma
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#KKulma">Copy rank badge</a><br/>
 			Kasia
 		</td>
 		<td>Data Science Consultant </td>
@@ -3996,7 +3998,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Alfred-Skyblue">
 				<img src="https://avatars.githubusercontent.com/u/55641773?s=72&u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4" width="24" alt="Avatar of Alfred-Skyblue"> Alfred-Skyblue
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Alfred-Skyblue">Copy rank badge</a><br/>
 			Yuanfang
 		</td>
 		<td>Null </td>
@@ -4009,7 +4011,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/awesomebytes">
 				<img src="https://avatars.githubusercontent.com/u/1721716?s=72&u=55b26c31777c1201205a6600bb74844434e04525&v=4" width="24" alt="Avatar of awesomebytes"> awesomebytes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#awesomebytes">Copy rank badge</a><br/>
 			Sam Pfeiffer
 		</td>
 		<td>Wayve </td>
@@ -4022,7 +4024,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/denisdefreyne">
 				<img src="https://avatars.githubusercontent.com/u/6269?s=72&u=427b4544e76306b8a527b9e1489327a4385685e7&v=4" width="24" alt="Avatar of denisdefreyne"> denisdefreyne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#denisdefreyne">Copy rank badge</a><br/>
 			Denis Defreyne
 		</td>
 		<td>No Company</td>
@@ -4035,7 +4037,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/whitep4nth3r">
 				<img src="https://avatars.githubusercontent.com/u/52798353?s=72&u=88f128de6256b53869541710187aa754c1036760&v=4" width="24" alt="Avatar of whitep4nth3r"> whitep4nth3r
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#whitep4nth3r">Copy rank badge</a><br/>
 			Salma Alam-Naylor
 		</td>
 		<td>No Company</td>
@@ -4048,7 +4050,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/varunu28">
 				<img src="https://avatars.githubusercontent.com/u/7676016?s=72&u=3bd261bef523d4f657dce49ae76713b358b1142c&v=4" width="24" alt="Avatar of varunu28"> varunu28
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#varunu28">Copy rank badge</a><br/>
 			Varun Upadhyay
 		</td>
 		<td>No Company</td>
@@ -4061,7 +4063,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jakzal">
 				<img src="https://avatars.githubusercontent.com/u/190447?s=72&u=9811ecda338425bb9c057e9180adb2b6089d35b3&v=4" width="24" alt="Avatar of jakzal"> jakzal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jakzal">Copy rank badge</a><br/>
 			Jakub Zalas
 		</td>
 		<td>@kaffeinelabs </td>
@@ -4074,7 +4076,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/daviddrysdale">
 				<img src="https://avatars.githubusercontent.com/u/457208?s=72&v=4" width="24" alt="Avatar of daviddrysdale"> daviddrysdale
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#daviddrysdale">Copy rank badge</a><br/>
 			David Drysdale
 		</td>
 		<td>@google  </td>
@@ -4087,7 +4089,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/shaps80">
 				<img src="https://avatars.githubusercontent.com/u/251310?s=72&u=1ae801abf2c363f4907fbe343f39ba466b4c54d1&v=4" width="24" alt="Avatar of shaps80"> shaps80
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#shaps80">Copy rank badge</a><br/>
 			Shaps
 		</td>
 		<td>Agent Amplified </td>
@@ -4100,7 +4102,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mco-gh">
 				<img src="https://avatars.githubusercontent.com/u/658327?s=72&v=4" width="24" alt="Avatar of mco-gh"> mco-gh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mco-gh">Copy rank badge</a><br/>
 			Marc
 		</td>
 		<td>@googlecloudplatform  </td>
@@ -4113,7 +4115,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/zhovner">
 				<img src="https://avatars.githubusercontent.com/u/774290?s=72&u=e92bdf0cfd29d0d8835e4e019bf0b541572e7bfd&v=4" width="24" alt="Avatar of zhovner"> zhovner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#zhovner">Copy rank badge</a><br/>
 			Pavel Zhovner
 		</td>
 		<td>Flipper Devices @flipperdevices </td>
@@ -4126,7 +4128,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/inamiy">
 				<img src="https://avatars.githubusercontent.com/u/138476?s=72&u=069c807b6aa7adf9c6a574a91414c895b68c7987&v=4" width="24" alt="Avatar of inamiy"> inamiy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#inamiy">Copy rank badge</a><br/>
 			Yasuhiro Inami
 		</td>
 		<td>@goodnotes </td>
@@ -4139,7 +4141,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/rr3s1">
 				<img src="https://avatars.githubusercontent.com/u/75430531?s=72&u=9a704fe17364a4a6e381a404a9646bc915eada27&v=4" width="24" alt="Avatar of rr3s1"> rr3s1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#rr3s1">Copy rank badge</a><br/>
 			Rares Silviu Lazar
 		</td>
 		<td>Aesary </td>
@@ -4152,7 +4154,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/hnarayanan">
 				<img src="https://avatars.githubusercontent.com/u/661446?s=72&u=4428e96b89e4341842b247e6962ce37dc631df5e&v=4" width="24" alt="Avatar of hnarayanan"> hnarayanan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#hnarayanan">Copy rank badge</a><br/>
 			Harish Narayanan
 		</td>
 		<td>@edgefolio  </td>
@@ -4165,7 +4167,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/thatfiredev">
 				<img src="https://avatars.githubusercontent.com/u/16766726?s=72&u=82e6be25cc0ba26db17b32e52651fc5fe0691112&v=4" width="24" alt="Avatar of thatfiredev"> thatfiredev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#thatfiredev">Copy rank badge</a><br/>
 			Rosário P. Fernandes
 		</td>
 		<td>@firebase (@google) </td>
@@ -4178,7 +4180,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Jonty">
 				<img src="https://avatars.githubusercontent.com/u/1553?s=72&v=4" width="24" alt="Avatar of Jonty"> Jonty
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Jonty">Copy rank badge</a><br/>
 			Jonty Wareing
 		</td>
 		<td>No Company</td>
@@ -4191,7 +4193,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/quantgirluk">
 				<img src="https://avatars.githubusercontent.com/u/46248141?s=72&u=1180bffd4307625427efa1a15fafc4cf4a8881f6&v=4" width="24" alt="Avatar of quantgirluk"> quantgirluk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#quantgirluk">Copy rank badge</a><br/>
 			Quant Girl
 		</td>
 		<td>No Company</td>
@@ -4204,7 +4206,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/megaconfidence">
 				<img src="https://avatars.githubusercontent.com/u/17744578?s=72&u=e48d4fe67657d32b25c5f5d78595b3eef8a572de&v=4" width="24" alt="Avatar of megaconfidence"> megaconfidence
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#megaconfidence">Copy rank badge</a><br/>
 			Confidence Okoghenun
 		</td>
 		<td>No Company</td>
@@ -4217,7 +4219,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/aixxe">
 				<img src="https://avatars.githubusercontent.com/u/147343?s=72&u=0e5a90318a1cb16c68fdf6a5586d0128b79ec8cd&v=4" width="24" alt="Avatar of aixxe"> aixxe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#aixxe">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -4230,7 +4232,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/stepjam">
 				<img src="https://avatars.githubusercontent.com/u/6891386?s=72&u=3a50ee0b169261bc4b0f9907def706c6c42e80ed&v=4" width="24" alt="Avatar of stepjam"> stepjam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#stepjam">Copy rank badge</a><br/>
 			Stephen James
 		</td>
 		<td>Robot Learning Lab </td>
@@ -4243,7 +4245,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/thinkwee">
 				<img src="https://avatars.githubusercontent.com/u/11889052?s=72&u=977060319e6638888390cd6a9409d4e9f246b2b6&v=4" width="24" alt="Avatar of thinkwee"> thinkwee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#thinkwee">Copy rank badge</a><br/>
 			Wei Liu
 		</td>
 		<td>King's College London </td>
@@ -4256,7 +4258,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/PennyroyalTea">
 				<img src="https://avatars.githubusercontent.com/u/27580209?s=72&u=d75951fdd32ef7c541e43a2cafc8f7b72c0ac7d3&v=4" width="24" alt="Avatar of PennyroyalTea"> PennyroyalTea
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#PennyroyalTea">Copy rank badge</a><br/>
 			Boris Starkov
 		</td>
 		<td>No Company</td>
@@ -4269,7 +4271,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/glebm">
 				<img src="https://avatars.githubusercontent.com/u/216339?s=72&u=c47f70aff1ee14f89989cc08913bfd27228e14dc&v=4" width="24" alt="Avatar of glebm"> glebm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#glebm">Copy rank badge</a><br/>
 			Gleb Mazovetskiy
 		</td>
 		<td>Google </td>
@@ -4282,7 +4284,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/makoto">
 				<img src="https://avatars.githubusercontent.com/u/2630?s=72&u=2c6bcd3480d64390f349ba89804d260aadad79d6&v=4" width="24" alt="Avatar of makoto"> makoto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#makoto">Copy rank badge</a><br/>
 			Makoto Inoue
 		</td>
 		<td>Matoken </td>
@@ -4295,7 +4297,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/orf">
 				<img src="https://avatars.githubusercontent.com/u/1027207?s=72&u=5db04ff1a8137caaad11f0497dc18f0b063bb66a&v=4" width="24" alt="Avatar of orf"> orf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#orf">Copy rank badge</a><br/>
 			Tom Forbes
 		</td>
 		<td>No Company</td>
@@ -4308,7 +4310,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/solarrust">
 				<img src="https://avatars.githubusercontent.com/u/13676514?s=72&u=2b091b11cc73eda38a91aa7706df0353ac2debde&v=4" width="24" alt="Avatar of solarrust"> solarrust
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#solarrust">Copy rank badge</a><br/>
 			Alena Batitskaia
 		</td>
 		<td>No Company</td>
@@ -4321,7 +4323,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/JamesRandall">
 				<img src="https://avatars.githubusercontent.com/u/236247?s=72&u=2d73452341ffbb9c223435c4cfae5362e5f6c942&v=4" width="24" alt="Avatar of JamesRandall"> JamesRandall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#JamesRandall">Copy rank badge</a><br/>
 			James Randall
 		</td>
 		<td>Blackdot Solutions </td>
@@ -4334,7 +4336,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jcoglan">
 				<img src="https://avatars.githubusercontent.com/u/9265?s=72&v=4" width="24" alt="Avatar of jcoglan"> jcoglan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jcoglan">Copy rank badge</a><br/>
 			James Coglan
 		</td>
 		<td>No Company</td>
@@ -4347,7 +4349,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/valeman">
 				<img src="https://avatars.githubusercontent.com/u/26203246?s=72&u=76fc841b27850920ead8fb592347f826533c2cd9&v=4" width="24" alt="Avatar of valeman"> valeman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#valeman">Copy rank badge</a><br/>
 			valeman
 		</td>
 		<td>Big Business </td>
@@ -4360,7 +4362,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/MikeInnes">
 				<img src="https://avatars.githubusercontent.com/u/2234614?s=72&u=a043b8621a644f8f2561ae3153e6fd077560dff6&v=4" width="24" alt="Avatar of MikeInnes"> MikeInnes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#MikeInnes">Copy rank badge</a><br/>
 			Mike J Innes
 		</td>
 		<td>No Company</td>
@@ -4373,7 +4375,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/johnnyreilly">
 				<img src="https://avatars.githubusercontent.com/u/1010525?s=72&u=a980f290f0efe219dff881156ccbdc81fc8cb990&v=4" width="24" alt="Avatar of johnnyreilly"> johnnyreilly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#johnnyreilly">Copy rank badge</a><br/>
 			John Reilly
 		</td>
 		<td>Priou </td>
@@ -4386,7 +4388,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dhowe">
 				<img src="https://avatars.githubusercontent.com/u/737638?s=72&u=b0355e618b40a245cfaabaa52055402595c278a0&v=4" width="24" alt="Avatar of dhowe"> dhowe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dhowe">Copy rank badge</a><br/>
 			Daniel Howe
 		</td>
 		<td>No Company</td>
@@ -4399,7 +4401,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/yshui">
 				<img src="https://avatars.githubusercontent.com/u/366851?s=72&v=4" width="24" alt="Avatar of yshui"> yshui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#yshui">Copy rank badge</a><br/>
 			Yuxuan Shui
 		</td>
 		<td>Codeweavers </td>
@@ -4412,7 +4414,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/pradyunsg">
 				<img src="https://avatars.githubusercontent.com/u/3275593?s=72&u=d7420c0afcb0cc27040cfd806940a84c55e15133&v=4" width="24" alt="Avatar of pradyunsg"> pradyunsg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#pradyunsg">Copy rank badge</a><br/>
 			Pradyun Gedam
 		</td>
 		<td>@bloomberg Python Infrastructure </td>
@@ -4425,7 +4427,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/pavel-odintsov">
 				<img src="https://avatars.githubusercontent.com/u/2744166?s=72&u=539ae131c1cc02f76e8774698d81e6075f725c8e&v=4" width="24" alt="Avatar of pavel-odintsov"> pavel-odintsov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#pavel-odintsov">Copy rank badge</a><br/>
 			Pavel Odintsov
 		</td>
 		<td>Fastnetmon Ltd </td>
@@ -4438,7 +4440,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/serengil">
 				<img src="https://avatars.githubusercontent.com/u/18491038?s=72&u=96b3a9080157652579fae9cabaefd7fdf6ba5513&v=4" width="24" alt="Avatar of serengil"> serengil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#serengil">Copy rank badge</a><br/>
 			Sefik Ilkin Serengil
 		</td>
 		<td>@neo4j </td>
@@ -4451,7 +4453,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/callummcdougall">
 				<img src="https://avatars.githubusercontent.com/u/45238458?s=72&u=500a9127b2d18b129db114cbfe3a5ac61d4a9189&v=4" width="24" alt="Avatar of callummcdougall"> callummcdougall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#callummcdougall">Copy rank badge</a><br/>
 			Callum McDougall
 		</td>
 		<td>No Company</td>
@@ -4464,7 +4466,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/hedger">
 				<img src="https://avatars.githubusercontent.com/u/277532?s=72&v=4" width="24" alt="Avatar of hedger"> hedger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#hedger">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@flipperdevices </td>
@@ -4477,7 +4479,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/serafimcloud">
 				<img src="https://avatars.githubusercontent.com/u/55061526?s=72&u=a9c61f1ce85cd30119ea728dbf3be647b8a3c7d1&v=4" width="24" alt="Avatar of serafimcloud"> serafimcloud
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#serafimcloud">Copy rank badge</a><br/>
 			serafim
 		</td>
 		<td>No Company</td>
@@ -4490,7 +4492,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/abreslav">
 				<img src="https://avatars.githubusercontent.com/u/888318?s=72&u=5abee0b8c1290da1da952c627e3c0a3aad517c6d&v=4" width="24" alt="Avatar of abreslav"> abreslav
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#abreslav">Copy rank badge</a><br/>
 			Andrey Breslav
 		</td>
 		<td>No Company</td>
@@ -4503,7 +4505,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jamesgeodi">
 				<img src="https://avatars.githubusercontent.com/u/85102529?s=72&u=47898c103b94a6d8541cd270e61dbf3c6820a837&v=4" width="24" alt="Avatar of jamesgeodi"> jamesgeodi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jamesgeodi">Copy rank badge</a><br/>
 			James Geodi 
 		</td>
 		<td>No Company</td>
@@ -4516,7 +4518,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/louthy">
 				<img src="https://avatars.githubusercontent.com/u/1991827?s=72&u=1ff353ba16eb1209096a650f381b9ff2c57936d8&v=4" width="24" alt="Avatar of louthy"> louthy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#louthy">Copy rank badge</a><br/>
 			Paul Louth
 		</td>
 		<td>Level 83 </td>
@@ -4529,7 +4531,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dmnsgn">
 				<img src="https://avatars.githubusercontent.com/u/1636460?s=72&u=203ff00cf5097208e666acf35ef4a87304ba0d35&v=4" width="24" alt="Avatar of dmnsgn"> dmnsgn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dmnsgn">Copy rank badge</a><br/>
 			Damien Seguin
 		</td>
 		<td>@variablestudio   </td>
@@ -4542,7 +4544,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/aslakhellesoy">
 				<img src="https://avatars.githubusercontent.com/u/1000?s=72&v=4" width="24" alt="Avatar of aslakhellesoy"> aslakhellesoy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#aslakhellesoy">Copy rank badge</a><br/>
 			Aslak Hellesøy
 		</td>
 		<td>Smartbear </td>
@@ -4555,7 +4557,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/bayandin">
 				<img src="https://avatars.githubusercontent.com/u/864213?s=72&u=bece5170441fbfed6963d934553abf048d0b14e1&v=4" width="24" alt="Avatar of bayandin"> bayandin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#bayandin">Copy rank badge</a><br/>
 			Alexander Bayandin
 		</td>
 		<td>@neondatabase / @databricks </td>
@@ -4568,7 +4570,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/bgavran">
 				<img src="https://avatars.githubusercontent.com/u/3183608?s=72&u=7d8c4b5225a35988e84486e06d54b8c8df4e3c6f&v=4" width="24" alt="Avatar of bgavran"> bgavran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#bgavran">Copy rank badge</a><br/>
 			Bruno Gavranović
 		</td>
 		<td>No Company</td>
@@ -4581,7 +4583,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/0xashrk">
 				<img src="https://avatars.githubusercontent.com/u/119333123?s=72&u=6dbea36a235d6568d589a7642dcae0ce9b4381c9&v=4" width="24" alt="Avatar of 0xashrk"> 0xashrk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#0xashrk">Copy rank badge</a><br/>
 			Ash Rk
 		</td>
 		<td>No Company</td>
@@ -4594,7 +4596,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/olizilla">
 				<img src="https://avatars.githubusercontent.com/u/58871?s=72&u=43adb9406c6c2a9d59cf98467f4a8d0233925560&v=4" width="24" alt="Avatar of olizilla"> olizilla
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#olizilla">Copy rank badge</a><br/>
 			Oli Evans
 		</td>
 		<td>Ucl Iipp </td>
@@ -4607,7 +4609,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/IAmTomShaw">
 				<img src="https://avatars.githubusercontent.com/u/73386292?s=72&u=afda983278c3b51fcf69070f928647508711e01b&v=4" width="24" alt="Avatar of IAmTomShaw"> IAmTomShaw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#IAmTomShaw">Copy rank badge</a><br/>
 			Tom Shaw
 		</td>
 		<td>No Company</td>
@@ -4620,7 +4622,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ideoforms">
 				<img src="https://avatars.githubusercontent.com/u/302318?s=72&v=4" width="24" alt="Avatar of ideoforms"> ideoforms
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ideoforms">Copy rank badge</a><br/>
 			Daniel Jones
 		</td>
 		<td>No Company</td>
@@ -4633,7 +4635,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/gante">
 				<img src="https://avatars.githubusercontent.com/u/12240844?s=72&u=c6d9a078d20949a2417982a33014f80279636f57&v=4" width="24" alt="Avatar of gante"> gante
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#gante">Copy rank badge</a><br/>
 			Joao Gante
 		</td>
 		<td>No Company</td>
@@ -4646,7 +4648,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/TryCatchLearn">
 				<img src="https://avatars.githubusercontent.com/u/31762828?s=72&u=a9ea51ef22d9f016b7468fa3b0030bab11e3e8a7&v=4" width="24" alt="Avatar of TryCatchLearn"> TryCatchLearn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#TryCatchLearn">Copy rank badge</a><br/>
 			Neil Cummings
 		</td>
 		<td>Trycatchlearn </td>
@@ -4659,7 +4661,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/benman1">
 				<img src="https://avatars.githubusercontent.com/u/10786684?s=72&u=5c784eeca9878b06f8731d8af6beca0f6d2371dc&v=4" width="24" alt="Avatar of benman1"> benman1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#benman1">Copy rank badge</a><br/>
 			Ben Auffarth
 		</td>
 		<td>Chelsea Ai Ventures </td>
@@ -4672,7 +4674,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/KevinZonda">
 				<img src="https://avatars.githubusercontent.com/u/33132228?s=72&u=4f600ee80d71de03cb6296854978194743de290d&v=4" width="24" alt="Avatar of KevinZonda"> KevinZonda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#KevinZonda">Copy rank badge</a><br/>
 			Xiang Shi
 		</td>
 		<td>@kigland </td>
@@ -4685,7 +4687,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dkandalov">
 				<img src="https://avatars.githubusercontent.com/u/28375?s=72&u=dc8495590245b165d048fb028ac3404af970ff63&v=4" width="24" alt="Avatar of dkandalov"> dkandalov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dkandalov">Copy rank badge</a><br/>
 			Dmitry Kandalov
 		</td>
 		<td>No Company</td>
@@ -4698,7 +4700,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/lgeiger">
 				<img src="https://avatars.githubusercontent.com/u/13285808?s=72&u=e7a53915c2d60fcf9ea9d7739b5bffaedbac4a51&v=4" width="24" alt="Avatar of lgeiger"> lgeiger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#lgeiger">Copy rank badge</a><br/>
 			Lukas Geiger
 		</td>
 		<td>No Company</td>
@@ -4711,7 +4713,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mneedham">
 				<img src="https://avatars.githubusercontent.com/u/13220?s=72&u=a975aac8303fea79ef4050d624b9bc155c5290ce&v=4" width="24" alt="Avatar of mneedham"> mneedham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mneedham">Copy rank badge</a><br/>
 			Mark Needham
 		</td>
 		<td>Clickhouse </td>
@@ -4724,7 +4726,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Berimor11">
 				<img src="https://avatars.githubusercontent.com/u/163635476?s=72&u=d265cea6a6c4588148fb2851b476717cd966bcf6&v=4" width="24" alt="Avatar of Berimor11"> Berimor11
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Berimor11">Copy rank badge</a><br/>
 			Berimor
 		</td>
 		<td>No Company</td>
@@ -4737,7 +4739,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jaseemabid">
 				<img src="https://avatars.githubusercontent.com/u/601714?s=72&u=8e99cbb6a77ec5b6da6c9bc9798e3274bcc4bf6b&v=4" width="24" alt="Avatar of jaseemabid"> jaseemabid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jaseemabid">Copy rank badge</a><br/>
 			Jaseem Abid
 		</td>
 		<td>Mongodb </td>
@@ -4750,7 +4752,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/hacktivist123">
 				<img src="https://avatars.githubusercontent.com/u/26572907?s=72&u=fa24ef5c9fc24b52f7a0778a36559b8e8bba645c&v=4" width="24" alt="Avatar of hacktivist123"> hacktivist123
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#hacktivist123">Copy rank badge</a><br/>
 			Shedrack akintayo
 		</td>
 		<td>No Company</td>
@@ -4763,7 +4765,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/slightfoot">
 				<img src="https://avatars.githubusercontent.com/u/906564?s=72&u=04fbc0cb91f1e6f3a17a6161d0823d694fcd9da5&v=4" width="24" alt="Avatar of slightfoot"> slightfoot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#slightfoot">Copy rank badge</a><br/>
 			Simon Lightfoot
 		</td>
 		<td>@devangels </td>
@@ -4776,7 +4778,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/gibfahn">
 				<img src="https://avatars.githubusercontent.com/u/15943089?s=72&u=3f292ab7183a793406df06ebb1b41d581b44f9ab&v=4" width="24" alt="Avatar of gibfahn"> gibfahn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#gibfahn">Copy rank badge</a><br/>
 			Gibson Fahnestock
 		</td>
 		<td>No Company</td>
@@ -4789,7 +4791,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/yeeking">
 				<img src="https://avatars.githubusercontent.com/u/26504?s=72&u=14cfae30703595c94cf8b83d7fe9c44db7891f7e&v=4" width="24" alt="Avatar of yeeking"> yeeking
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#yeeking">Copy rank badge</a><br/>
 			Matthew Yee-King
 		</td>
 		<td>Goldsmiths, University Of London<br/></td>
@@ -4802,7 +4804,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/omaraflak">
 				<img src="https://avatars.githubusercontent.com/u/6695348?s=72&u=29903fd6b7ea3eef09e86464ee1188483b7f3c96&v=4" width="24" alt="Avatar of omaraflak"> omaraflak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#omaraflak">Copy rank badge</a><br/>
 			Omar Aflak
 		</td>
 		<td>Google </td>
@@ -4815,7 +4817,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/richfitz">
 				<img src="https://avatars.githubusercontent.com/u/1558093?s=72&u=1a7a375df075622261f94f75644fbc0b8d76c3d0&v=4" width="24" alt="Avatar of richfitz"> richfitz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#richfitz">Copy rank badge</a><br/>
 			Rich FitzJohn
 		</td>
 		<td>@genomics-dev </td>
@@ -4828,7 +4830,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tomtaylor">
 				<img src="https://avatars.githubusercontent.com/u/565?s=72&u=d701ecd45db8f95376ec5eef7cda9ea380bb5d33&v=4" width="24" alt="Avatar of tomtaylor"> tomtaylor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tomtaylor">Copy rank badge</a><br/>
 			Tom Taylor
 		</td>
 		<td>@breakroom  </td>
@@ -4841,7 +4843,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/bizz84">
 				<img src="https://avatars.githubusercontent.com/u/153167?s=72&u=ef0e3ba2d6913257ac9bc730a5c21f060886ca69&v=4" width="24" alt="Avatar of bizz84"> bizz84
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#bizz84">Copy rank badge</a><br/>
 			Andrea Bizzotto
 		</td>
 		<td>Https://codewithandr </td>
@@ -4854,7 +4856,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/SueSmith">
 				<img src="https://avatars.githubusercontent.com/u/6666370?s=72&v=4" width="24" alt="Avatar of SueSmith"> SueSmith
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#SueSmith">Copy rank badge</a><br/>
 			Sue Smith
 		</td>
 		<td>No Company</td>
@@ -4867,7 +4869,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/danilop">
 				<img src="https://avatars.githubusercontent.com/u/1550395?s=72&u=8d3c98c8fa2a0c1606b1b413f0807404499916e5&v=4" width="24" alt="Avatar of danilop"> danilop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#danilop">Copy rank badge</a><br/>
 			Danilo Poccia
 		</td>
 		<td>Amazon Web Services </td>
@@ -4880,7 +4882,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mrchrisadams">
 				<img src="https://avatars.githubusercontent.com/u/17906?s=72&v=4" width="24" alt="Avatar of mrchrisadams"> mrchrisadams
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mrchrisadams">Copy rank badge</a><br/>
 			Chris Adams
 		</td>
 		<td>Product Science </td>
@@ -4893,7 +4895,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jodastephen">
 				<img src="https://avatars.githubusercontent.com/u/213212?s=72&v=4" width="24" alt="Avatar of jodastephen"> jodastephen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jodastephen">Copy rank badge</a><br/>
 			Stephen Colebourne
 		</td>
 		<td>No Company</td>
@@ -4906,7 +4908,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/efxtv">
 				<img src="https://avatars.githubusercontent.com/u/59799893?s=72&u=646ae9989f3c2e04bdbc531521a9056c354f3de1&v=4" width="24" alt="Avatar of efxtv"> efxtv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#efxtv">Copy rank badge</a><br/>
 			Tech EFX Tv
 		</td>
 		<td>No Company</td>
@@ -4919,7 +4921,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/pikax">
 				<img src="https://avatars.githubusercontent.com/u/4620458?s=72&v=4" width="24" alt="Avatar of pikax"> pikax
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#pikax">Copy rank badge</a><br/>
 			Carlos Rodrigues
 		</td>
 		<td>@hypermob  </td>
@@ -4932,7 +4934,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/adamstark">
 				<img src="https://avatars.githubusercontent.com/u/1071008?s=72&v=4" width="24" alt="Avatar of adamstark"> adamstark
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#adamstark">Copy rank badge</a><br/>
 			Adam Stark
 		</td>
 		<td>No Company</td>
@@ -4945,7 +4947,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/danhper">
 				<img src="https://avatars.githubusercontent.com/u/1436271?s=72&u=128fc701f6cf1427374634343219cefe99769914&v=4" width="24" alt="Avatar of danhper"> danhper
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#danhper">Copy rank badge</a><br/>
 			Daniel Perez
 		</td>
 		<td>No Company</td>
@@ -4958,7 +4960,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sammy-SC">
 				<img src="https://avatars.githubusercontent.com/u/1733610?s=72&u=8a36d5bd6426d0f46b0b37d76679e856355cbf5d&v=4" width="24" alt="Avatar of sammy-SC"> sammy-SC
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sammy-SC">Copy rank badge</a><br/>
 			Samuel Susla
 		</td>
 		<td>Facebook </td>
@@ -4971,7 +4973,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/DLu">
 				<img src="https://avatars.githubusercontent.com/u/1016143?s=72&u=d89edf63130c782f1f37e938e3e1303b9637508b&v=4" width="24" alt="Avatar of DLu"> DLu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#DLu">Copy rank badge</a><br/>
 			David V. Lu!!
 		</td>
 		<td>@metrorobots </td>
@@ -4984,7 +4986,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ciaranj">
 				<img src="https://avatars.githubusercontent.com/u/55368?s=72&u=e3554fe084c0977fcdde6c9567b906af19e2a539&v=4" width="24" alt="Avatar of ciaranj"> ciaranj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ciaranj">Copy rank badge</a><br/>
 			Ciaran Jessup
 		</td>
 		<td>No Company</td>
@@ -4997,7 +4999,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/weissi">
 				<img src="https://avatars.githubusercontent.com/u/624238?s=72&u=23475d0672788746003c7ada221a35d5cb2e63da&v=4" width="24" alt="Avatar of weissi"> weissi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#weissi">Copy rank badge</a><br/>
 			Johannes Weiss
 		</td>
 		<td>No Company</td>
@@ -5010,7 +5012,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dwf">
 				<img src="https://avatars.githubusercontent.com/u/60206?s=72&v=4" width="24" alt="Avatar of dwf"> dwf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dwf">Copy rank badge</a><br/>
 			David Warde-Farley
 		</td>
 		<td>No Company</td>
@@ -5023,7 +5025,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/yemiwebby">
 				<img src="https://avatars.githubusercontent.com/u/19610753?s=72&u=dd587a9be892cda640616acf476fbe0d822fc01c&v=4" width="24" alt="Avatar of yemiwebby"> yemiwebby
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#yemiwebby">Copy rank badge</a><br/>
 			Oluyemi
 		</td>
 		<td>Realcode Media Technology </td>
@@ -5036,7 +5038,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/arkivanov">
 				<img src="https://avatars.githubusercontent.com/u/26204457?s=72&u=f14ad13913edb35e5f24fe07b665e26587b79e7d&v=4" width="24" alt="Avatar of arkivanov"> arkivanov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#arkivanov">Copy rank badge</a><br/>
 			Arkadii Ivanov
 		</td>
 		<td>X (twitter) </td>
@@ -5049,7 +5051,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/kcsongor">
 				<img src="https://avatars.githubusercontent.com/u/313596?s=72&u=0ad5f530a2a691d08a6350f311b785715f5e4766&v=4" width="24" alt="Avatar of kcsongor"> kcsongor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#kcsongor">Copy rank badge</a><br/>
 			Csongor Kiss
 		</td>
 		<td>No Company</td>
@@ -5062,7 +5064,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/CodeMaster7000">
 				<img src="https://avatars.githubusercontent.com/u/95772109?s=72&u=41de68f4950ac392d7ceb67096f938e2d8f54c50&v=4" width="24" alt="Avatar of CodeMaster7000"> CodeMaster7000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#CodeMaster7000">Copy rank badge</a><br/>
 			CodeMaster7000
 		</td>
 		<td>@techdreams-innovati @netfruit-technologi @onboard-devs </td>
@@ -5075,7 +5077,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/aendra-rininsland">
 				<img src="https://avatars.githubusercontent.com/u/185041?s=72&u=5fb32a31d188231dd13d11511fdf0d5323f8ecf2&v=4" width="24" alt="Avatar of aendra-rininsland"> aendra-rininsland
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#aendra-rininsland">Copy rank badge</a><br/>
 			Ændra Rininsland
 		</td>
 		<td>@financial-times  </td>
@@ -5088,7 +5090,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/vermakhushboo">
 				<img src="https://avatars.githubusercontent.com/u/43381712?s=72&u=b1b3886b26d4fc5782369939a41c383209b7894e&v=4" width="24" alt="Avatar of vermakhushboo"> vermakhushboo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#vermakhushboo">Copy rank badge</a><br/>
 			Khushboo Verma
 		</td>
 		<td>Cloudflare </td>
@@ -5101,7 +5103,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ebassi">
 				<img src="https://avatars.githubusercontent.com/u/1665?s=72&u=707b3a4743ccd4957970bbb384dc23fb61a21646&v=4" width="24" alt="Avatar of ebassi"> ebassi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ebassi">Copy rank badge</a><br/>
 			Emmanuele Bassi
 		</td>
 		<td>No Company</td>
@@ -5114,7 +5116,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/RuiAAPeres">
 				<img src="https://avatars.githubusercontent.com/u/949286?s=72&u=cb8dd500d03b6c4653a30f5b372d2abdfc9db566&v=4" width="24" alt="Avatar of RuiAAPeres"> RuiAAPeres
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#RuiAAPeres">Copy rank badge</a><br/>
 			Rui Peres
 		</td>
 		<td>No Company</td>
@@ -5127,7 +5129,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/badwolfunit">
 				<img src="https://avatars.githubusercontent.com/u/89532110?s=72&v=4" width="24" alt="Avatar of badwolfunit"> badwolfunit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#badwolfunit">Copy rank badge</a><br/>
 			Luca Smith 
 		</td>
 		<td>Hobbyist  </td>
@@ -5140,7 +5142,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/GregBrimble">
 				<img src="https://avatars.githubusercontent.com/u/8484333?s=72&u=64cb9564f87bdad5c84db54554db101b0a68c3ee&v=4" width="24" alt="Avatar of GregBrimble"> GregBrimble
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#GregBrimble">Copy rank badge</a><br/>
 			Greg Brimble
 		</td>
 		<td>@cloudflare </td>
@@ -5153,7 +5155,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/waveform80">
 				<img src="https://avatars.githubusercontent.com/u/1076190?s=72&v=4" width="24" alt="Avatar of waveform80"> waveform80
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#waveform80">Copy rank badge</a><br/>
 			Dave Jones
 		</td>
 		<td>@canonical </td>
@@ -5166,7 +5168,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ZetaTwo">
 				<img src="https://avatars.githubusercontent.com/u/870392?s=72&u=5399d04dcb0f66985a724c6b24ecccc81045f619&v=4" width="24" alt="Avatar of ZetaTwo"> ZetaTwo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ZetaTwo">Copy rank badge</a><br/>
 			Calle Svensson
 		</td>
 		<td>Xtx Markets </td>
@@ -5179,7 +5181,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/binarythistle">
 				<img src="https://avatars.githubusercontent.com/u/815719?s=72&u=5b04693249faef761ffdfb8e3c9e681d61e8012c&v=4" width="24" alt="Avatar of binarythistle"> binarythistle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#binarythistle">Copy rank badge</a><br/>
 			Les Jackson
 		</td>
 		<td>No Company</td>
@@ -5192,7 +5194,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/arfon">
 				<img src="https://avatars.githubusercontent.com/u/4483?s=72&u=29e26c4b299e08447e7c0fa4522482ba980a47d4&v=4" width="24" alt="Avatar of arfon"> arfon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#arfon">Copy rank badge</a><br/>
 			Arfon Smith
 		</td>
 		<td>No Company</td>
@@ -5205,7 +5207,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ilya-klyuchnikov">
 				<img src="https://avatars.githubusercontent.com/u/273180?s=72&u=cad7ea5ce2e61e981ea74778264a31cd89b43faa&v=4" width="24" alt="Avatar of ilya-klyuchnikov"> ilya-klyuchnikov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ilya-klyuchnikov">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@facebook </td>
@@ -5218,7 +5220,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/yrezgui">
 				<img src="https://avatars.githubusercontent.com/u/1113976?s=72&v=4" width="24" alt="Avatar of yrezgui"> yrezgui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#yrezgui">Copy rank badge</a><br/>
 			Yacine Rezgui
 		</td>
 		<td>Google </td>
@@ -5231,7 +5233,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/daleharvey">
 				<img src="https://avatars.githubusercontent.com/u/37787?s=72&v=4" width="24" alt="Avatar of daleharvey"> daleharvey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#daleharvey">Copy rank badge</a><br/>
 			Dale  Harvey
 		</td>
 		<td>Mozilla </td>
@@ -5244,7 +5246,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/quii">
 				<img src="https://avatars.githubusercontent.com/u/631756?s=72&u=123f719ea9c1d667afedfef562c6b1b3b929d483&v=4" width="24" alt="Avatar of quii"> quii
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#quii">Copy rank badge</a><br/>
 			Chris James
 		</td>
 		<td>No Company</td>
@@ -5257,7 +5259,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/bitonic">
 				<img src="https://avatars.githubusercontent.com/u/556090?s=72&v=4" width="24" alt="Avatar of bitonic"> bitonic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#bitonic">Copy rank badge</a><br/>
 			Francesco Mazzoli
 		</td>
 		<td>No Company</td>
@@ -5270,7 +5272,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/OlafenwaMoses">
 				<img src="https://avatars.githubusercontent.com/u/5909998?s=72&u=040fb861d7a3f33d0dc12de766db87b09241a203&v=4" width="24" alt="Avatar of OlafenwaMoses"> OlafenwaMoses
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#OlafenwaMoses">Copy rank badge</a><br/>
 			MOSES OLAFENWA
 		</td>
 		<td>No Company</td>
@@ -5283,7 +5285,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/PanshulVempalli">
 				<img src="https://avatars.githubusercontent.com/u/269938734?s=72&u=44ab0ec74a7de2b1562f094e37333e7d7f0aa97e&v=4" width="24" alt="Avatar of PanshulVempalli"> PanshulVempalli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#PanshulVempalli">Copy rank badge</a><br/>
 			Panshul
 		</td>
 		<td>Student </td>
@@ -5296,7 +5298,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ehsangazar">
 				<img src="https://avatars.githubusercontent.com/u/1703553?s=72&u=993183ffd0dc2a8814c15ae476fdec7210a8d294&v=4" width="24" alt="Avatar of ehsangazar"> ehsangazar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ehsangazar">Copy rank badge</a><br/>
 			Gaz
 		</td>
 		<td>No Company</td>
@@ -5309,7 +5311,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/UKVeteran">
 				<img src="https://avatars.githubusercontent.com/u/39216339?s=72&u=43e3b10d90a786d23f3bc058438cba9989a67a8f&v=4" width="24" alt="Avatar of UKVeteran"> UKVeteran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#UKVeteran">Copy rank badge</a><br/>
 			Dr. J. M. Ashfaque, MInstP
 		</td>
 		<td>No Company</td>
@@ -5322,7 +5324,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/joelittlejohn">
 				<img src="https://avatars.githubusercontent.com/u/686384?s=72&u=f98aea7ba86121be72d848a59ad116f496c7a6d9&v=4" width="24" alt="Avatar of joelittlejohn"> joelittlejohn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#joelittlejohn">Copy rank badge</a><br/>
 			Joe Littlejohn
 		</td>
 		<td>@juxt </td>
@@ -5335,7 +5337,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/omonimus1">
 				<img src="https://avatars.githubusercontent.com/u/23085146?s=72&u=58ea79c47771cc67e1d8f419b832481024745476&v=4" width="24" alt="Avatar of omonimus1"> omonimus1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#omonimus1">Copy rank badge</a><br/>
 			Davide Pollicino
 		</td>
 		<td>Microsoft </td>
@@ -5348,7 +5350,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/wietze">
 				<img src="https://avatars.githubusercontent.com/u/2811785?s=72&u=063b11dc7f435cff2e8871bc4a97941c89218d62&v=4" width="24" alt="Avatar of wietze"> wietze
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#wietze">Copy rank badge</a><br/>
 			Wietze
 		</td>
 		<td>No Company</td>
@@ -5361,7 +5363,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/yiwenl">
 				<img src="https://avatars.githubusercontent.com/u/1941778?s=72&v=4" width="24" alt="Avatar of yiwenl"> yiwenl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#yiwenl">Copy rank badge</a><br/>
 			Yi-wen LIN
 		</td>
 		<td>No Company</td>
@@ -5374,7 +5376,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/andrie">
 				<img src="https://avatars.githubusercontent.com/u/479998?s=72&u=eb526dc155317794fa376210f0e9bd0c6644da3f&v=4" width="24" alt="Avatar of andrie"> andrie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#andrie">Copy rank badge</a><br/>
 			Andrie de Vries
 		</td>
 		<td>@posit </td>
@@ -5387,7 +5389,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sergdort">
 				<img src="https://avatars.githubusercontent.com/u/4622322?s=72&u=38d8d65a84582fc1c98031acf6bb7ebd17f42ecc&v=4" width="24" alt="Avatar of sergdort"> sergdort
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sergdort">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5400,7 +5402,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/njh">
 				<img src="https://avatars.githubusercontent.com/u/38734?s=72&v=4" width="24" alt="Avatar of njh"> njh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#njh">Copy rank badge</a><br/>
 			Nicholas Humfrey
 		</td>
 		<td>@bbc  </td>
@@ -5413,7 +5415,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ianmiell">
 				<img src="https://avatars.githubusercontent.com/u/7003341?s=72&u=ba2f62573cd2b88c3593dfdf15fb47515e642f9d&v=4" width="24" alt="Avatar of ianmiell"> ianmiell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ianmiell">Copy rank badge</a><br/>
 			Ian Miell
 		</td>
 		<td>Meirion Consulting </td>
@@ -5426,7 +5428,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/meteatamel">
 				<img src="https://avatars.githubusercontent.com/u/1177542?s=72&u=98ef932be99b65fdf2719274c208f395516d5709&v=4" width="24" alt="Avatar of meteatamel"> meteatamel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#meteatamel">Copy rank badge</a><br/>
 			Mete Atamel
 		</td>
 		<td>Google </td>
@@ -5439,7 +5441,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mdcruz">
 				<img src="https://avatars.githubusercontent.com/u/10811379?s=72&u=531e3b132fbae3542660c4c8f86ca8b73b5c605f&v=4" width="24" alt="Avatar of mdcruz"> mdcruz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mdcruz">Copy rank badge</a><br/>
 			Marie Cruz
 		</td>
 		<td>No Company</td>
@@ -5452,7 +5454,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/GoodBoyDigital">
 				<img src="https://avatars.githubusercontent.com/u/3112434?s=72&v=4" width="24" alt="Avatar of GoodBoyDigital"> GoodBoyDigital
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#GoodBoyDigital">Copy rank badge</a><br/>
 			Mat Groves
 		</td>
 		<td>Goodboy Digital </td>
@@ -5465,7 +5467,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ElliotOne">
 				<img src="https://avatars.githubusercontent.com/u/52137131?s=72&u=a6cb684d8fc7351ff8c2eec191fbe92510882846&v=4" width="24" alt="Avatar of ElliotOne"> ElliotOne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ElliotOne">Copy rank badge</a><br/>
 			Elliot One
 		</td>
 		<td>@monoversity-one @xoren-one </td>
@@ -5478,7 +5480,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/lgiordani">
 				<img src="https://avatars.githubusercontent.com/u/1675575?s=72&u=0a0a35dffea0cc0945e7aba94d8096382e70568e&v=4" width="24" alt="Avatar of lgiordani"> lgiordani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#lgiordani">Copy rank badge</a><br/>
 			Leonardo Giordani
 		</td>
 		<td>No Company</td>
@@ -5491,7 +5493,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Milo123459">
 				<img src="https://avatars.githubusercontent.com/u/50248166?s=72&u=efd0ef203b55a71b8693ce2c84846120ea51e724&v=4" width="24" alt="Avatar of Milo123459"> Milo123459
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Milo123459">Copy rank badge</a><br/>
 			Milo
 		</td>
 		<td>No Company</td>
@@ -5504,7 +5506,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ghedo">
 				<img src="https://avatars.githubusercontent.com/u/117643?s=72&v=4" width="24" alt="Avatar of ghedo"> ghedo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ghedo">Copy rank badge</a><br/>
 			Alessandro Ghedini
 		</td>
 		<td>Cloudflare </td>
@@ -5517,7 +5519,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/igorwojda">
 				<img src="https://avatars.githubusercontent.com/u/530122?s=72&u=1c407c8d4d5eb2e2552329c46b3871ee0ab411d6&v=4" width="24" alt="Avatar of igorwojda"> igorwojda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#igorwojda">Copy rank badge</a><br/>
 			Igor Wojda
 		</td>
 		<td>No Company</td>
@@ -5530,7 +5532,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/umaar">
 				<img src="https://avatars.githubusercontent.com/u/381495?s=72&u=37ca37fb31021f4a66e9d34a883dd6202a6eaa3e&v=4" width="24" alt="Avatar of umaar"> umaar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#umaar">Copy rank badge</a><br/>
 			Umar Hansa
 		</td>
 		<td>No Company</td>
@@ -5543,7 +5545,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/michalmuskala">
 				<img src="https://avatars.githubusercontent.com/u/477062?s=72&u=b538454bb3e300785d260233383b38b99c495210&v=4" width="24" alt="Avatar of michalmuskala"> michalmuskala
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#michalmuskala">Copy rank badge</a><br/>
 			Michał Muskała
 		</td>
 		<td>@whatsapp </td>
@@ -5556,7 +5558,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sambhav">
 				<img src="https://avatars.githubusercontent.com/u/16130816?s=72&u=d4d09eb877fdd82ef40567cff3611cd0341f60f7&v=4" width="24" alt="Avatar of sambhav"> sambhav
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sambhav">Copy rank badge</a><br/>
 			Sambhav Kothari
 		</td>
 		<td>@bloomberg </td>
@@ -5569,7 +5571,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mattjgalloway">
 				<img src="https://avatars.githubusercontent.com/u/753010?s=72&v=4" width="24" alt="Avatar of mattjgalloway"> mattjgalloway
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mattjgalloway">Copy rank badge</a><br/>
 			Matt Galloway
 		</td>
 		<td>@facebook </td>
@@ -5582,7 +5584,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jkup">
 				<img src="https://avatars.githubusercontent.com/u/490294?s=72&u=11b2e105d0377fc52c23f73420f6754a1051dabf&v=4" width="24" alt="Avatar of jkup"> jkup
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jkup">Copy rank badge</a><br/>
 			Jon Kuperman
 		</td>
 		<td>Bloomberg </td>
@@ -5595,7 +5597,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/eddiejaoude">
 				<img src="https://avatars.githubusercontent.com/u/624760?s=72&u=745ab278247f5babf08c1bcae7db3284be830a21&v=4" width="24" alt="Avatar of eddiejaoude"> eddiejaoude
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#eddiejaoude">Copy rank badge</a><br/>
 			Eddie Jaoude
 		</td>
 		<td>@paypaldev </td>
@@ -5608,7 +5610,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/amishshah">
 				<img src="https://avatars.githubusercontent.com/u/10330923?s=72&u=88aadd4b7122ac4d81ab833a9d9f8a401c2e6253&v=4" width="24" alt="Avatar of amishshah"> amishshah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#amishshah">Copy rank badge</a><br/>
 			Amish Shah
 		</td>
 		<td>@discordjs @unicsmcr </td>
@@ -5621,7 +5623,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/silentworks">
 				<img src="https://avatars.githubusercontent.com/u/79497?s=72&u=b3022ea9fed70089f0c4f054bf6774c79316c7c3&v=4" width="24" alt="Avatar of silentworks"> silentworks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#silentworks">Copy rank badge</a><br/>
 			Andrew Smith
 		</td>
 		<td>Silent Works </td>
@@ -5634,7 +5636,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/leriomaggio">
 				<img src="https://avatars.githubusercontent.com/u/1908453?s=72&v=4" width="24" alt="Avatar of leriomaggio"> leriomaggio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#leriomaggio">Copy rank badge</a><br/>
 			Valerio Maggio
 		</td>
 		<td>No Company</td>
@@ -5647,7 +5649,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/talkol">
 				<img src="https://avatars.githubusercontent.com/u/6762255?s=72&u=8fbe037743003b450373e7d9c48917ce7e26ef55&v=4" width="24" alt="Avatar of talkol"> talkol
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#talkol">Copy rank badge</a><br/>
 			Tal Kol
 		</td>
 		<td>Orbs.com </td>
@@ -5660,7 +5662,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ZhengyaoJiang">
 				<img src="https://avatars.githubusercontent.com/u/15139574?s=72&u=5d774be0a1279e64793472f5b6d7ebf001cdc9ff&v=4" width="24" alt="Avatar of ZhengyaoJiang"> ZhengyaoJiang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ZhengyaoJiang">Copy rank badge</a><br/>
 			Zhengyao Jiang
 		</td>
 		<td>University College London </td>
@@ -5673,7 +5675,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ianozsvald">
 				<img src="https://avatars.githubusercontent.com/u/273210?s=72&v=4" width="24" alt="Avatar of ianozsvald"> ianozsvald
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ianozsvald">Copy rank badge</a><br/>
 			Ian Ozsvald
 		</td>
 		<td>Http://morconsulting </td>
@@ -5686,7 +5688,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dimpurr">
 				<img src="https://avatars.githubusercontent.com/u/5173244?s=72&u=7fe49930362b844e8ea10d760171e16848c1f2b4&v=4" width="24" alt="Avatar of dimpurr"> dimpurr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dimpurr">Copy rank badge</a><br/>
 			Dim Chen
 		</td>
 		<td>Royal College Of Art<br/></td>
@@ -5699,7 +5701,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/etolstoy">
 				<img src="https://avatars.githubusercontent.com/u/3955262?s=72&u=159a9ad2c313bad4b09da685f3c934d610b0d957&v=4" width="24" alt="Avatar of etolstoy"> etolstoy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#etolstoy">Copy rank badge</a><br/>
 			Egor Tolstoy
 		</td>
 		<td>No Company</td>
@@ -5712,7 +5714,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/neoeno">
 				<img src="https://avatars.githubusercontent.com/u/1007202?s=72&u=5fa86516129c8b972366e38ffc12dd8553790006&v=4" width="24" alt="Avatar of neoeno"> neoeno
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#neoeno">Copy rank badge</a><br/>
 			Kay Lack
 		</td>
 		<td>No Company</td>
@@ -5725,7 +5727,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jasonkang14">
 				<img src="https://avatars.githubusercontent.com/u/45306565?s=72&u=25dd3bcedc64de4e7d6418d58ea697c75939b4db&v=4" width="24" alt="Avatar of jasonkang14"> jasonkang14
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jasonkang14">Copy rank badge</a><br/>
 			Byeongjin Kang
 		</td>
 		<td>No Company</td>
@@ -5738,7 +5740,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/npryce">
 				<img src="https://avatars.githubusercontent.com/u/56219?s=72&v=4" width="24" alt="Avatar of npryce"> npryce
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#npryce">Copy rank badge</a><br/>
 			Nat Pryce
 		</td>
 		<td>Technemetis Ltd. </td>
@@ -5751,7 +5753,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Soldy">
 				<img src="https://avatars.githubusercontent.com/u/4786022?s=72&u=03d9d0c9393c290793210555615a6de0676cb98f&v=4" width="24" alt="Avatar of Soldy"> Soldy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Soldy">Copy rank badge</a><br/>
 			Mr L 
 		</td>
 		<td>No Company</td>
@@ -5764,7 +5766,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/LukeberryPi">
 				<img src="https://avatars.githubusercontent.com/u/98068247?s=72&u=02fcaa5c81bc0df40967e37ca8a51394e1a9d261&v=4" width="24" alt="Avatar of LukeberryPi"> LukeberryPi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#LukeberryPi">Copy rank badge</a><br/>
 			Luke Berry
 		</td>
 		<td>No Company</td>
@@ -5777,7 +5779,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/akash-joshi">
 				<img src="https://avatars.githubusercontent.com/u/22196279?s=72&u=48b0c7b47e6085d06a59666be7758463fdde0165&v=4" width="24" alt="Avatar of akash-joshi"> akash-joshi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#akash-joshi">Copy rank badge</a><br/>
 			Akash Joshi
 		</td>
 		<td>@deeplcom </td>
@@ -5790,7 +5792,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/iamthefrogy">
 				<img src="https://avatars.githubusercontent.com/u/8291014?s=72&u=a42c168c2cb7f079a2355ee32681c682d66fa5b3&v=4" width="24" alt="Avatar of iamthefrogy"> iamthefrogy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#iamthefrogy">Copy rank badge</a><br/>
 			Chintan Gurjar
 		</td>
 		<td>No Company</td>
@@ -5803,7 +5805,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/pgsohail">
 				<img src="https://avatars.githubusercontent.com/u/68015534?s=72&u=bd4df3ae0a36dd8309d955bb11a7f1ed734466dd&v=4" width="24" alt="Avatar of pgsohail"> pgsohail
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#pgsohail">Copy rank badge</a><br/>
 			SOHAIL SADIQ
 		</td>
 		<td>Fsociety </td>
@@ -5816,7 +5818,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/huwprosser">
 				<img src="https://avatars.githubusercontent.com/u/16668357?s=72&u=8e219e3dd207dde37532bddafc7c9024485d705c&v=4" width="24" alt="Avatar of huwprosser"> huwprosser
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#huwprosser">Copy rank badge</a><br/>
 			Huw Prosser
 		</td>
 		<td>Myself </td>
@@ -5829,7 +5831,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dluc">
 				<img src="https://avatars.githubusercontent.com/u/371009?s=72&u=fcbafb4c182939ffefdcb3e6ddc326057143ba7f&v=4" width="24" alt="Avatar of dluc"> dluc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dluc">Copy rank badge</a><br/>
 			Devis Lucato
 		</td>
 		<td>Microsoft </td>
@@ -5842,7 +5844,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/benfoster">
 				<img src="https://avatars.githubusercontent.com/u/827305?s=72&v=4" width="24" alt="Avatar of benfoster"> benfoster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#benfoster">Copy rank badge</a><br/>
 			Ben Foster
 		</td>
 		<td>O9d </td>
@@ -5855,7 +5857,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/enescingoz">
 				<img src="https://avatars.githubusercontent.com/u/60349121?s=72&u=4cad365b84869971a7f6fe3c6aae21c913de79ce&v=4" width="24" alt="Avatar of enescingoz"> enescingoz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#enescingoz">Copy rank badge</a><br/>
 			Enes Cingöz
 		</td>
 		<td>@elm-europe-am </td>
@@ -5868,7 +5870,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ZackAkil">
 				<img src="https://avatars.githubusercontent.com/u/8178508?s=72&u=ef084bf4a8d11e801ed90db7347a990977412824&v=4" width="24" alt="Avatar of ZackAkil"> ZackAkil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ZackAkil">Copy rank badge</a><br/>
 			Zack Akil
 		</td>
 		<td>@google </td>
@@ -5881,7 +5883,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/cybercoder-naj">
 				<img src="https://avatars.githubusercontent.com/u/48282810?s=72&u=c8bee5e3b8e65c0144f864aaa81dfba945d9fea9&v=4" width="24" alt="Avatar of cybercoder-naj"> cybercoder-naj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#cybercoder-naj">Copy rank badge</a><br/>
 			Nishant Aanjaney Jalan
 		</td>
 		<td>@icdocsoc </td>
@@ -5894,7 +5896,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dasilvacontin">
 				<img src="https://avatars.githubusercontent.com/u/1260830?s=72&u=97ce55a4791349e3859851217d8cfca6b90414c1&v=4" width="24" alt="Avatar of dasilvacontin"> dasilvacontin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dasilvacontin">Copy rank badge</a><br/>
 			David da Silva
 		</td>
 		<td>Green Project </td>
@@ -5907,7 +5909,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/kelset">
 				<img src="https://avatars.githubusercontent.com/u/16104054?s=72&u=b1789afba151cb08ff7c2a9940880bc51fb72a52&v=4" width="24" alt="Avatar of kelset"> kelset
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#kelset">Copy rank badge</a><br/>
 			Lorenzo Sciandra
 		</td>
 		<td>Shopify </td>
@@ -5920,7 +5922,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/not-nullptr">
 				<img src="https://avatars.githubusercontent.com/u/62841684?s=72&u=da435550d0d277ecd4f057c0954314a0e02166e0&v=4" width="24" alt="Avatar of not-nullptr"> not-nullptr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#not-nullptr">Copy rank badge</a><br/>
 			nullptr
 		</td>
 		<td>Vert </td>
@@ -5933,7 +5935,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/EdwardBetts">
 				<img src="https://avatars.githubusercontent.com/u/3818?s=72&v=4" width="24" alt="Avatar of EdwardBetts"> EdwardBetts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#EdwardBetts">Copy rank badge</a><br/>
 			Edward Betts
 		</td>
 		<td>No Company</td>
@@ -5946,7 +5948,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sdw-online">
 				<img src="https://avatars.githubusercontent.com/u/68696613?s=72&u=b3ea770ccf41dd582fb35c0a37ec54ee9c3c6240&v=4" width="24" alt="Avatar of sdw-online"> sdw-online
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sdw-online">Copy rank badge</a><br/>
 			Stephen 
 		</td>
 		<td>Sdw Solutions </td>
@@ -5959,7 +5961,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jasonwilliams">
 				<img src="https://avatars.githubusercontent.com/u/936006?s=72&u=c104316e137de4ced56ccab44d1167a386c95271&v=4" width="24" alt="Avatar of jasonwilliams"> jasonwilliams
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jasonwilliams">Copy rank badge</a><br/>
 			Jason Williams
 		</td>
 		<td>@bloomberg </td>
@@ -5972,7 +5974,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/samdutton">
 				<img src="https://avatars.githubusercontent.com/u/205226?s=72&u=008f70ad63a4c28206d6f758d9b24bf3d35778e5&v=4" width="24" alt="Avatar of samdutton"> samdutton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#samdutton">Copy rank badge</a><br/>
 			Sam Dutton
 		</td>
 		<td>Sam Dutton </td>
@@ -5985,7 +5987,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/pakoito">
 				<img src="https://avatars.githubusercontent.com/u/514871?s=72&u=180f3492b4fa1392f7d54ea565e7ae727c7e22cc&v=4" width="24" alt="Avatar of pakoito"> pakoito
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#pakoito">Copy rank badge</a><br/>
 			Paco
 		</td>
 		<td>No Company</td>
@@ -5998,7 +6000,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/agcolom">
 				<img src="https://avatars.githubusercontent.com/u/688413?s=72&v=4" width="24" alt="Avatar of agcolom"> agcolom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#agcolom">Copy rank badge</a><br/>
 			Anne-Gaelle Colom
 		</td>
 		<td>University Of Westminster </td>
@@ -6011,7 +6013,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dsp">
 				<img src="https://avatars.githubusercontent.com/u/14013?s=72&v=4" width="24" alt="Avatar of dsp"> dsp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dsp">Copy rank badge</a><br/>
 			David Soria Parra
 		</td>
 		<td>@anthropics </td>
@@ -6024,7 +6026,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/numandev1">
 				<img src="https://avatars.githubusercontent.com/u/36044436?s=72&u=e95012c6fad77eebc46c887a5beb690b1dade0c4&v=4" width="24" alt="Avatar of numandev1"> numandev1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#numandev1">Copy rank badge</a><br/>
 			Numan
 		</td>
 		<td>Agentic Ai | Loop<br/>Engineer<br/>|<br/>React<br/>Native<br/>|<br/>Jetpack<br/>Compose<br/>|<br/>Swiftui<br/>|<br/>Mvvm<br/>|<br/>Ai<br/></td>
@@ -6037,7 +6039,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/automata">
 				<img src="https://avatars.githubusercontent.com/u/49062?s=72&u=ac2beab5d116172a110654bd402b91160d9bb5f1&v=4" width="24" alt="Avatar of automata"> automata
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#automata">Copy rank badge</a><br/>
 			Vilson Vieira
 		</td>
 		<td>Ai Engineer | Ai<br/>Researcher<br/>|<br/>Founder<br/></td>
@@ -6050,7 +6052,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/AlexEne">
 				<img src="https://avatars.githubusercontent.com/u/5849037?s=72&u=c9cda163da76ae58f9508d5f9b3e478c9a165b6e&v=4" width="24" alt="Avatar of AlexEne"> AlexEne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#AlexEne">Copy rank badge</a><br/>
 			Alexandru Ene
 		</td>
 		<td>No Company</td>
@@ -6063,7 +6065,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/abdorrahmani">
 				<img src="https://avatars.githubusercontent.com/u/53135000?s=72&u=80f12bf39835127d594c69aabbb59746ec089f0e&v=4" width="24" alt="Avatar of abdorrahmani"> abdorrahmani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#abdorrahmani">Copy rank badge</a><br/>
 			Mohammad Abdorrahmani
 		</td>
 		<td>@anophell </td>
@@ -6076,7 +6078,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/christiannwamba">
 				<img src="https://avatars.githubusercontent.com/u/8108337?s=72&v=4" width="24" alt="Avatar of christiannwamba"> christiannwamba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#christiannwamba">Copy rank badge</a><br/>
 			Christian Nwamba
 		</td>
 		<td>No Company</td>
@@ -6089,7 +6091,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/andresionek91">
 				<img src="https://avatars.githubusercontent.com/u/5912422?s=72&u=2db20a670b1f3aee66c19e6713de93e6c84558df&v=4" width="24" alt="Avatar of andresionek91"> andresionek91
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#andresionek91">Copy rank badge</a><br/>
 			Andre Sionek
 		</td>
 		<td>@catenaclearing </td>
@@ -6102,7 +6104,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Cheukting">
 				<img src="https://avatars.githubusercontent.com/u/28761465?s=72&u=54769b4f8f71df8ebd7d379f384f1c8febaaf635&v=4" width="24" alt="Avatar of Cheukting"> Cheukting
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Cheukting">Copy rank badge</a><br/>
 			Cheuk Ting Ho
 		</td>
 		<td>Jetbrains </td>
@@ -6115,7 +6117,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Chengcheng-Xiao">
 				<img src="https://avatars.githubusercontent.com/u/24631005?s=72&u=97d6c3a4f9eaeb0bf9c04f96691aee1f7d0b1992&v=4" width="24" alt="Avatar of Chengcheng-Xiao"> Chengcheng-Xiao
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Chengcheng-Xiao">Copy rank badge</a><br/>
 			Chengcheng Xiao
 		</td>
 		<td>Imperial College London </td>
@@ -6128,7 +6130,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tymondesigns">
 				<img src="https://avatars.githubusercontent.com/u/1801923?s=72&u=e08b0c45e984f31e82b36a099e3432cca592a261&v=4" width="24" alt="Avatar of tymondesigns"> tymondesigns
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tymondesigns">Copy rank badge</a><br/>
 			Sean Tymon
 		</td>
 		<td>No Company</td>
@@ -6141,7 +6143,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/berichan">
 				<img src="https://avatars.githubusercontent.com/u/66521620?s=72&u=66a0190ef5f23643c8982feee5da3a8b8d94e3e0&v=4" width="24" alt="Avatar of berichan"> berichan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#berichan">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6154,7 +6156,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/bscript">
 				<img src="https://avatars.githubusercontent.com/u/43368124?s=72&u=ef0c2a1f1a28aab19d98cb2570afc0df374db051&v=4" width="24" alt="Avatar of bscript"> bscript
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#bscript">Copy rank badge</a><br/>
 			Bour Abdelhadi
 		</td>
 		<td>No Company</td>
@@ -6167,7 +6169,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sofer">
 				<img src="https://avatars.githubusercontent.com/u/37059?s=72&v=4" width="24" alt="Avatar of sofer"> sofer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sofer">Copy rank badge</a><br/>
 			D Sofer
 		</td>
 		<td>@foundersandcoders  </td>
@@ -6180,7 +6182,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/spion">
 				<img src="https://avatars.githubusercontent.com/u/502412?s=72&v=4" width="24" alt="Avatar of spion"> spion
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#spion">Copy rank badge</a><br/>
 			Gjorgji Kjosev
 		</td>
 		<td>No Company</td>
@@ -6193,7 +6195,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ooade">
 				<img src="https://avatars.githubusercontent.com/u/11811904?s=72&u=14cb7ff4fe92d7bcfe30e815c6deb4f5d59376e5&v=4" width="24" alt="Avatar of ooade"> ooade
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ooade">Copy rank badge</a><br/>
 			Ademola.
 		</td>
 		<td>Just Eat </td>
@@ -6206,7 +6208,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/evadne">
 				<img src="https://avatars.githubusercontent.com/u/104086?s=72&v=4" width="24" alt="Avatar of evadne"> evadne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#evadne">Copy rank badge</a><br/>
 			Evadne Wu
 		</td>
 		<td>No Company</td>
@@ -6219,7 +6221,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/achilleasa">
 				<img src="https://avatars.githubusercontent.com/u/616049?s=72&u=8f4c983a85a875dc575c7c5aa82b7f5d19d1a95d&v=4" width="24" alt="Avatar of achilleasa"> achilleasa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#achilleasa">Copy rank badge</a><br/>
 			Achilleas Anagnostopoulos
 		</td>
 		<td>No Company</td>
@@ -6232,7 +6234,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/egorhowell">
 				<img src="https://avatars.githubusercontent.com/u/77462366?s=72&u=59c8d8fb192ffebde4519a9c375b5452c8f9f927&v=4" width="24" alt="Avatar of egorhowell"> egorhowell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#egorhowell">Copy rank badge</a><br/>
 			Egor Howell
 		</td>
 		<td>No Company</td>
@@ -6245,7 +6247,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mattgemmell">
 				<img src="https://avatars.githubusercontent.com/u/144873?s=72&u=d6e52413562105e004e63944464cf7ecf4db2888&v=4" width="24" alt="Avatar of mattgemmell"> mattgemmell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mattgemmell">Copy rank badge</a><br/>
 			Matt Gemmell
 		</td>
 		<td>No Company</td>
@@ -6258,7 +6260,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/codebox">
 				<img src="https://avatars.githubusercontent.com/u/615829?s=72&u=aae879718b6258f5d2641b9e0e3fe7af25da6cf7&v=4" width="24" alt="Avatar of codebox"> codebox
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#codebox">Copy rank badge</a><br/>
 			Rob Dawson
 		</td>
 		<td>Codebox Software </td>
@@ -6271,7 +6273,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/aabarmin">
 				<img src="https://avatars.githubusercontent.com/u/965970?s=72&u=df96db722b1e0816422410893f501c5aeac567d0&v=4" width="24" alt="Avatar of aabarmin"> aabarmin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#aabarmin">Copy rank badge</a><br/>
 			Aleksandr Barmin
 		</td>
 		<td>Wise </td>
@@ -6284,7 +6286,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/andreacampi">
 				<img src="https://avatars.githubusercontent.com/u/33472?s=72&v=4" width="24" alt="Avatar of andreacampi"> andreacampi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#andreacampi">Copy rank badge</a><br/>
 			Andrea Campi
 		</td>
 		<td>Apple, Inc </td>
@@ -6297,7 +6299,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/iritkatriel">
 				<img src="https://avatars.githubusercontent.com/u/1055913?s=72&u=bd7f6cd5d9c24d45c154019042cdc3e9db610e36&v=4" width="24" alt="Avatar of iritkatriel"> iritkatriel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#iritkatriel">Copy rank badge</a><br/>
 			Irit Katriel
 		</td>
 		<td>No Company</td>
@@ -6310,7 +6312,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tcbrindle">
 				<img src="https://avatars.githubusercontent.com/u/3750068?s=72&u=07162237d686dde6fdf4253e2232ba7f9e162c9e&v=4" width="24" alt="Avatar of tcbrindle"> tcbrindle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tcbrindle">Copy rank badge</a><br/>
 			Tristan Brindle
 		</td>
 		<td>No Company</td>
@@ -6323,7 +6325,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Developerayo">
 				<img src="https://avatars.githubusercontent.com/u/20538832?s=72&u=c5c94994785e9e360bc72359af0c82b9ce6c2c63&v=4" width="24" alt="Avatar of Developerayo"> Developerayo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Developerayo">Copy rank badge</a><br/>
 			Shodipo Ayomide
 		</td>
 		<td>Nuklai (@nuklai) </td>
@@ -6336,7 +6338,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/matryer">
 				<img src="https://avatars.githubusercontent.com/u/101659?s=72&u=03382a41e9f7a37ccf8a4f8ce3ca62f524ff25ed&v=4" width="24" alt="Avatar of matryer"> matryer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#matryer">Copy rank badge</a><br/>
 			Mat Ryer
 		</td>
 		<td>@grafana   </td>
@@ -6349,7 +6351,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Fadhaa">
 				<img src="https://avatars.githubusercontent.com/u/18240431?s=72&u=538eab3b6cc0822cb2b96b018c68f3a10c60bd58&v=4" width="24" alt="Avatar of Fadhaa"> Fadhaa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Fadhaa">Copy rank badge</a><br/>
 			Fadhaa Ali
 		</td>
 		<td>No Company</td>
@@ -6362,7 +6364,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/wiseodd">
 				<img src="https://avatars.githubusercontent.com/u/2296722?s=72&u=cf6b8c5780987f085d41efe3de5e32671de42f62&v=4" width="24" alt="Avatar of wiseodd"> wiseodd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#wiseodd">Copy rank badge</a><br/>
 			Agustinus Kristiadi
 		</td>
 		<td>Western University & Vector<br/>Institute<br/></td>
@@ -6375,7 +6377,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/VeldaKiara">
 				<img src="https://avatars.githubusercontent.com/u/32552296?s=72&u=f3c816408ee09ee6cb573f876281b3f22814a83c&v=4" width="24" alt="Avatar of VeldaKiara"> VeldaKiara
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#VeldaKiara">Copy rank badge</a><br/>
 			Velda Kiara
 		</td>
 		<td>No Company</td>
@@ -6388,7 +6390,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/conglu1997">
 				<img src="https://avatars.githubusercontent.com/u/20336225?s=72&u=2f2eb909162ba38beb6b30106f069ebbfb3632c1&v=4" width="24" alt="Avatar of conglu1997"> conglu1997
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#conglu1997">Copy rank badge</a><br/>
 			Cong Lu
 		</td>
 		<td>No Company</td>
@@ -6401,7 +6403,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/alexrudall">
 				<img src="https://avatars.githubusercontent.com/u/7175262?s=72&u=18ceb76d95cb864f805893aef8b330be063f602c&v=4" width="24" alt="Avatar of alexrudall"> alexrudall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#alexrudall">Copy rank badge</a><br/>
 			Alex
 		</td>
 		<td>Insert Robot Ltd </td>
@@ -6414,7 +6416,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tav">
 				<img src="https://avatars.githubusercontent.com/u/30302?s=72&u=165cd1829235af6e094bcb0de33d9f5cadf8dc5d&v=4" width="24" alt="Avatar of tav"> tav
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tav">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@espra </td>
@@ -6427,7 +6429,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/GavinLonDigital">
 				<img src="https://avatars.githubusercontent.com/u/42768005?s=72&u=4141e210b63f1e9b59be2206cfaab33e7f42dde8&v=4" width="24" alt="Avatar of GavinLonDigital"> GavinLonDigital
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#GavinLonDigital">Copy rank badge</a><br/>
 			Gavin Lon
 		</td>
 		<td>Gavin Lon Digital </td>
@@ -6440,7 +6442,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/pgjones">
 				<img src="https://avatars.githubusercontent.com/u/1391482?s=72&u=3c05922ae10ddc1e2b169fc35a4e7a4a7a525718&v=4" width="24" alt="Avatar of pgjones"> pgjones
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#pgjones">Copy rank badge</a><br/>
 			Phil Jones
 		</td>
 		<td>No Company</td>
@@ -6453,7 +6455,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ketanhwr">
 				<img src="https://avatars.githubusercontent.com/u/2878908?s=72&u=4390be028925693270f20daaca63fc7e534b8047&v=4" width="24" alt="Avatar of ketanhwr"> ketanhwr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ketanhwr">Copy rank badge</a><br/>
 			Ketan Gupta
 		</td>
 		<td>@cloudflare </td>
@@ -6466,7 +6468,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ihciah">
 				<img src="https://avatars.githubusercontent.com/u/1707505?s=72&u=eb72519d2b9c1ec6b85a6209ed5622b828c6ae64&v=4" width="24" alt="Avatar of ihciah"> ihciah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ihciah">Copy rank badge</a><br/>
 			ihc童鞋@提不起劲
 		</td>
 		<td>@facebook </td>
@@ -6479,7 +6481,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/julien-truffaut">
 				<img src="https://avatars.githubusercontent.com/u/1859417?s=72&u=0c7ec68f8e779f1764df200d0107427d717fe7f6&v=4" width="24" alt="Avatar of julien-truffaut"> julien-truffaut
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#julien-truffaut">Copy rank badge</a><br/>
 			Julien Truffaut
 		</td>
 		<td>@fp-tower </td>
@@ -6492,7 +6494,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/prydonius">
 				<img src="https://avatars.githubusercontent.com/u/1544861?s=72&u=119c27fc012e63fddd8ace603c0d61d4528c4f1c&v=4" width="24" alt="Avatar of prydonius"> prydonius
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#prydonius">Copy rank badge</a><br/>
 			Adnan Abdulhussein
 		</td>
 		<td>@replit </td>
@@ -6505,7 +6507,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/gdanezis">
 				<img src="https://avatars.githubusercontent.com/u/4999882?s=72&v=4" width="24" alt="Avatar of gdanezis"> gdanezis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#gdanezis">Copy rank badge</a><br/>
 			George Danezis
 		</td>
 		<td>University College London </td>
@@ -6518,7 +6520,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/davisonio">
 				<img src="https://avatars.githubusercontent.com/u/5341072?s=72&u=d19bc0a39c4ae7e7d592d7a2fcc2a6a63a9f8e39&v=4" width="24" alt="Avatar of davisonio"> davisonio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#davisonio">Copy rank badge</a><br/>
 			Craig Davison
 		</td>
 		<td>Overcultured </td>
@@ -6531,7 +6533,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/stevefaulkner">
 				<img src="https://avatars.githubusercontent.com/u/835859?s=72&u=8fbd14b17c3c0c6219bb9dd4b6b74cf3e5f9f80a&v=4" width="24" alt="Avatar of stevefaulkner"> stevefaulkner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#stevefaulkner">Copy rank badge</a><br/>
 			Steve Faulkner
 		</td>
 		<td>@tetralogical  </td>
@@ -6544,7 +6546,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/HannesStark">
 				<img src="https://avatars.githubusercontent.com/u/32128654?s=72&u=9438fd67719713ebe19e49c6b880d9e0d3c13023&v=4" width="24" alt="Avatar of HannesStark"> HannesStark
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#HannesStark">Copy rank badge</a><br/>
 			Hannes Stärk
 		</td>
 		<td>Boltz </td>
@@ -6557,7 +6559,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/moyheen">
 				<img src="https://avatars.githubusercontent.com/u/8110201?s=72&u=ad994c64afe948496ce5ebf0ab0f7f95d543278e&v=4" width="24" alt="Avatar of moyheen"> moyheen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#moyheen">Copy rank badge</a><br/>
 			Moyinoluwa Adeyemi
 		</td>
 		<td>No Company</td>
@@ -6570,7 +6572,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Grsmto">
 				<img src="https://avatars.githubusercontent.com/u/527559?s=72&u=fb1e53329b5ac268f52049b743cc4e0392746710&v=4" width="24" alt="Avatar of Grsmto"> Grsmto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Grsmto">Copy rank badge</a><br/>
 			Adrien Denat
 		</td>
 		<td>No Company</td>
@@ -6583,7 +6585,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mikedewar">
 				<img src="https://avatars.githubusercontent.com/u/149211?s=72&u=67a089e36e73c04fdceb4699cc1703849620fab1&v=4" width="24" alt="Avatar of mikedewar"> mikedewar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mikedewar">Copy rank badge</a><br/>
 			Mike Dewar
 		</td>
 		<td>Mastercard </td>
@@ -6596,7 +6598,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/michaelpj">
 				<img src="https://avatars.githubusercontent.com/u/1699466?s=72&u=24bffa410dd521a7955497e8b18cf05fdc1847b6&v=4" width="24" alt="Avatar of michaelpj"> michaelpj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#michaelpj">Copy rank badge</a><br/>
 			Michael Peyton Jones
 		</td>
 		<td>Circuithub </td>
@@ -6609,7 +6611,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/maxharlow">
 				<img src="https://avatars.githubusercontent.com/u/896707?s=72&u=ad5edddf503718abad1922c3eb67264df75b784e&v=4" width="24" alt="Avatar of maxharlow"> maxharlow
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#maxharlow">Copy rank badge</a><br/>
 			Max Harlow
 		</td>
 		<td>Bloomberg News </td>
@@ -6622,7 +6624,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/elvinlari">
 				<img src="https://avatars.githubusercontent.com/u/12527067?s=72&u=f3e307e9eb6561da8d734926ea36a7956d0491e0&v=4" width="24" alt="Avatar of elvinlari"> elvinlari
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#elvinlari">Copy rank badge</a><br/>
 			Elvin Lari
 		</td>
 		<td>No Company</td>
@@ -6635,7 +6637,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mattdesl">
 				<img src="https://avatars.githubusercontent.com/u/1383811?s=72&u=b19282767c457635117f335916f8099f30ed88cd&v=4" width="24" alt="Avatar of mattdesl"> mattdesl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mattdesl">Copy rank badge</a><br/>
 			Matt DesLauriers
 		</td>
 		<td>Artist </td>
@@ -6648,7 +6650,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Neha">
 				<img src="https://avatars.githubusercontent.com/u/61655?s=72&u=303b887bcb751fa735abbe5741791d0090440b49&v=4" width="24" alt="Avatar of Neha"> Neha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Neha">Copy rank badge</a><br/>
 			Neha Sharma
 		</td>
 		<td>Amazon </td>
@@ -6661,7 +6663,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sekhansen">
 				<img src="https://avatars.githubusercontent.com/u/8191060?s=72&u=1a1cb78830f2070997d58bb70f299a54eb08ba0a&v=4" width="24" alt="Avatar of sekhansen"> sekhansen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sekhansen">Copy rank badge</a><br/>
 			Stephen Hansen
 		</td>
 		<td>University College London </td>
@@ -6674,7 +6676,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/andreis">
 				<img src="https://avatars.githubusercontent.com/u/1249760?s=72&u=7e1f4bc719b93c877c50ce07db84d8d5083d2715&v=4" width="24" alt="Avatar of andreis"> andreis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#andreis">Copy rank badge</a><br/>
 			Andrei Simionescu
 		</td>
 		<td>@coderbased  </td>
@@ -6687,7 +6689,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sidharthachatterjee">
 				<img src="https://avatars.githubusercontent.com/u/7701981?s=72&u=5f948dd49e0cbcd2645efa8e7e22be9316f48c02&v=4" width="24" alt="Avatar of sidharthachatterjee"> sidharthachatterjee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sidharthachatterjee">Copy rank badge</a><br/>
 			Sidhartha Chatterjee
 		</td>
 		<td>No Company</td>
@@ -6700,7 +6702,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/robert">
 				<img src="https://avatars.githubusercontent.com/u/1565857?s=72&u=8a868e569496c2c467c7e61bd6bbf11c0651de54&v=4" width="24" alt="Avatar of robert"> robert
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#robert">Copy rank badge</a><br/>
 			Rob Heaton
 		</td>
 		<td>Anthropic </td>
@@ -6713,7 +6715,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/halilozercan">
 				<img src="https://avatars.githubusercontent.com/u/5561132?s=72&u=5c7bc5ab104420e7ecfad66b975072314a995d76&v=4" width="24" alt="Avatar of halilozercan"> halilozercan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#halilozercan">Copy rank badge</a><br/>
 			Halil Ozercan
 		</td>
 		<td>@google </td>
@@ -6726,7 +6728,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/iaincollins">
 				<img src="https://avatars.githubusercontent.com/u/595695?s=72&u=92648e4094dc75a8ba7f247ceb9de931fe4dbc53&v=4" width="24" alt="Avatar of iaincollins"> iaincollins
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#iaincollins">Copy rank badge</a><br/>
 			Iain Collins
 		</td>
 		<td>@scopely </td>
@@ -6739,7 +6741,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/JGL">
 				<img src="https://avatars.githubusercontent.com/u/243074?s=72&u=d013e62b0652c25994578322325c951572d09ac4&v=4" width="24" alt="Avatar of JGL"> JGL
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#JGL">Copy rank badge</a><br/>
 			Joel Gethin Lewis
 		</td>
 		<td>No Company</td>
@@ -6752,7 +6754,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/conorbailey90">
 				<img src="https://avatars.githubusercontent.com/u/47862094?s=72&u=4decbc6223490a8249fc7f3951568d07a611a7c5&v=4" width="24" alt="Avatar of conorbailey90"> conorbailey90
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#conorbailey90">Copy rank badge</a><br/>
 			Conor Bailey
 		</td>
 		<td>No Company</td>
@@ -6765,7 +6767,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/otilor">
 				<img src="https://avatars.githubusercontent.com/u/39733548?s=72&u=02d1efd905cd2cd08c98f8d982bd7124bdfe04dd&v=4" width="24" alt="Avatar of otilor"> otilor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#otilor">Copy rank badge</a><br/>
 			Gabriel Akinyosoye (Xiao Jia)
 		</td>
 		<td>No Company</td>
@@ -6778,7 +6780,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/networkop">
 				<img src="https://avatars.githubusercontent.com/u/12479763?s=72&u=ee99ae0e745dc235dd8e1ee83aec32f1e48d6bc7&v=4" width="24" alt="Avatar of networkop"> networkop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#networkop">Copy rank badge</a><br/>
 			Michael Kashin
 		</td>
 		<td>No Company</td>
@@ -6791,7 +6793,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/FlyGoat">
 				<img src="https://avatars.githubusercontent.com/u/5955297?s=72&u=47310b7534e3cff84ca187cc8916628b2d81bf39&v=4" width="24" alt="Avatar of FlyGoat"> FlyGoat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#FlyGoat">Copy rank badge</a><br/>
 			Jiaxun Yang
 		</td>
 		<td>University Of Edinburgh </td>
@@ -6804,7 +6806,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/robashton">
 				<img src="https://avatars.githubusercontent.com/u/223758?s=72&u=09666351155b3b0b80721e5fd2b41b89949e3d3b&v=4" width="24" alt="Avatar of robashton"> robashton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#robashton">Copy rank badge</a><br/>
 			His Excellence Sir Professional of Rob upon Ashtonburyshirester
 		</td>
 		<td>@id3as  </td>
@@ -6817,7 +6819,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ethanluoyc">
 				<img src="https://avatars.githubusercontent.com/u/6040760?s=72&u=5734041cffcb58f34ac1b20c5f16744c3d52ea96&v=4" width="24" alt="Avatar of ethanluoyc"> ethanluoyc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ethanluoyc">Copy rank badge</a><br/>
 			Yicheng Luo
 		</td>
 		<td>University College London </td>
@@ -6830,7 +6832,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/thelittlewonder">
 				<img src="https://avatars.githubusercontent.com/u/19227514?s=72&u=c49f6be9c064ece9436063ad350b9bcc0854c5ee&v=4" width="24" alt="Avatar of thelittlewonder"> thelittlewonder
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#thelittlewonder">Copy rank badge</a><br/>
 			Abhishek Sharma
 		</td>
 		<td>No Company</td>
@@ -6843,7 +6845,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/pigworker">
 				<img src="https://avatars.githubusercontent.com/u/3717047?s=72&v=4" width="24" alt="Avatar of pigworker"> pigworker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#pigworker">Copy rank badge</a><br/>
 			Conor McBride
 		</td>
 		<td>No Company</td>
@@ -6856,7 +6858,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/alyssaxuu">
 				<img src="https://avatars.githubusercontent.com/u/7581348?s=72&u=428dff6968d72fe5eda6c79217c3c684336b2fd9&v=4" width="24" alt="Avatar of alyssaxuu"> alyssaxuu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#alyssaxuu">Copy rank badge</a><br/>
 			Alyssa X
 		</td>
 		<td>No Company</td>
@@ -6869,7 +6871,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ForbesLindesay">
 				<img src="https://avatars.githubusercontent.com/u/1260646?s=72&v=4" width="24" alt="Avatar of ForbesLindesay"> ForbesLindesay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ForbesLindesay">Copy rank badge</a><br/>
 			Forbes Lindesay
 		</td>
 		<td>@mavenoid  </td>
@@ -6882,7 +6884,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/lukehaas">
 				<img src="https://avatars.githubusercontent.com/u/741344?s=72&u=7b8a0dc0e8d3a16a3f1f3a4b5a3c7c663226ed58&v=4" width="24" alt="Avatar of lukehaas"> lukehaas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#lukehaas">Copy rank badge</a><br/>
 			Luke Haas
 		</td>
 		<td>No Company</td>
@@ -6895,7 +6897,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jakeherp">
 				<img src="https://avatars.githubusercontent.com/u/17340718?s=72&u=79bf45c0af24bff2d18f9850be16495b4bdc59a6&v=4" width="24" alt="Avatar of jakeherp"> jakeherp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jakeherp">Copy rank badge</a><br/>
 			Jacob Herper
 		</td>
 		<td>Holland & Barrett International<br/></td>
@@ -6908,7 +6910,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/antony">
 				<img src="https://avatars.githubusercontent.com/u/218949?s=72&u=5df429482060ecda50a82c856a57209dd96333d2&v=4" width="24" alt="Avatar of antony"> antony
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#antony">Copy rank badge</a><br/>
 			Antony Jones
 		</td>
 		<td>@beyonk-group   </td>
@@ -6921,7 +6923,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/0xFA11">
 				<img src="https://avatars.githubusercontent.com/u/12574651?s=72&u=e2598bacfeaf6c21d7c2306bcd8fe7aa8d3aabb0&v=4" width="24" alt="Avatar of 0xFA11"> 0xFA11
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#0xFA11">Copy rank badge</a><br/>
 			Fatih Mar
 		</td>
 		<td>@networkassembly </td>
@@ -6934,7 +6936,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jiankangdeng">
 				<img src="https://avatars.githubusercontent.com/u/8391417?s=72&u=e643e0b29989aa55f4a26a97514038d21394b488&v=4" width="24" alt="Avatar of jiankangdeng"> jiankangdeng
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jiankangdeng">Copy rank badge</a><br/>
 			JiankangDeng
 		</td>
 		<td>Imperial College London </td>
@@ -6947,7 +6949,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/SeanHeelan">
 				<img src="https://avatars.githubusercontent.com/u/1920339?s=72&u=9f8db2b59f0f51582438b3b1128d7c5f0859ecc0&v=4" width="24" alt="Avatar of SeanHeelan"> SeanHeelan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#SeanHeelan">Copy rank badge</a><br/>
 			Sean Heelan
 		</td>
 		<td>No Company</td>
@@ -6960,7 +6962,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sophiekoonin">
 				<img src="https://avatars.githubusercontent.com/u/10195023?s=72&u=9f5818fb5061e61cca0c080d389aea259eb1e8d0&v=4" width="24" alt="Avatar of sophiekoonin"> sophiekoonin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sophiekoonin">Copy rank badge</a><br/>
 			Sophie Koonin
 		</td>
 		<td>@monzo  </td>
@@ -6973,7 +6975,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tewalds">
 				<img src="https://avatars.githubusercontent.com/u/256625?s=72&u=92e56d627ccd40ddef105c20c88dfec274299934&v=4" width="24" alt="Avatar of tewalds"> tewalds
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tewalds">Copy rank badge</a><br/>
 			Timo Ewalds
 		</td>
 		<td>No Company</td>
@@ -6986,7 +6988,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/kaish114">
 				<img src="https://avatars.githubusercontent.com/u/32337116?s=72&u=5c1ba5a1f02e13d8359f6861def1f66d922e7308&v=4" width="24" alt="Avatar of kaish114"> kaish114
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#kaish114">Copy rank badge</a><br/>
 			MD KAISH ANSARI
 		</td>
 		<td>Jp Morgan </td>
@@ -6999,7 +7001,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/spurin">
 				<img src="https://avatars.githubusercontent.com/u/850464?s=72&u=ecee1add3da6344a98f8f1ac703b297f1e896b94&v=4" width="24" alt="Avatar of spurin"> spurin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#spurin">Copy rank badge</a><br/>
 			James Spurin
 		</td>
 		<td>Diveinto.com </td>
@@ -7012,7 +7014,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/nodunayo">
 				<img src="https://avatars.githubusercontent.com/u/4911302?s=72&u=833cb25217c70ca83c7244c66c9ba34a1b7a3d0f&v=4" width="24" alt="Avatar of nodunayo"> nodunayo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#nodunayo">Copy rank badge</a><br/>
 			Nadia Odunayo
 		</td>
 		<td>The Storygraph </td>
@@ -7025,7 +7027,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/risenW">
 				<img src="https://avatars.githubusercontent.com/u/29900845?s=72&u=eaa42239bcc7eb0039a0e95c13b6ca526575d99b&v=4" width="24" alt="Avatar of risenW"> risenW
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#risenW">Copy rank badge</a><br/>
 			Rising Odegua
 		</td>
 		<td>Kallikor </td>
@@ -7038,7 +7040,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/artix41">
 				<img src="https://avatars.githubusercontent.com/u/1157968?s=72&u=9d30a02fa40b986b01ed89683e6615a1c8840f5b&v=4" width="24" alt="Avatar of artix41"> artix41
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#artix41">Copy rank badge</a><br/>
 			Arthur Pesah
 		</td>
 		<td>University College Of London<br/>(ucl)<br/></td>
@@ -7051,7 +7053,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/lizrice">
 				<img src="https://avatars.githubusercontent.com/u/458616?s=72&u=fa9a438619d533ad37eaac86d179a9444a62ba1c&v=4" width="24" alt="Avatar of lizrice"> lizrice
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#lizrice">Copy rank badge</a><br/>
 			Liz Rice
 		</td>
 		<td>@isovalent At @cisco </td>
@@ -7064,7 +7066,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/benjojo">
 				<img src="https://avatars.githubusercontent.com/u/1504626?s=72&u=43bb138054c25e9b77766edced5f1b5d1f78eeff&v=4" width="24" alt="Avatar of benjojo"> benjojo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#benjojo">Copy rank badge</a><br/>
 			Ben Cox
 		</td>
 		<td>Bgp.tools / Port 179<br/>Ltd<br/></td>
@@ -7077,7 +7079,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/lucamezzalira">
 				<img src="https://avatars.githubusercontent.com/u/210272?s=72&u=d750e5d746bbc8e29172d7dc2324e7e3390a2ef0&v=4" width="24" alt="Avatar of lucamezzalira"> lucamezzalira
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#lucamezzalira">Copy rank badge</a><br/>
 			luca mezzalira
 		</td>
 		<td>Aws </td>
@@ -7090,7 +7092,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/afshin">
 				<img src="https://avatars.githubusercontent.com/u/159529?s=72&u=a20e32702751b42cdfe9a955d299842cce5c4743&v=4" width="24" alt="Avatar of afshin"> afshin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#afshin">Copy rank badge</a><br/>
 			Afshin Taylor Darian
 		</td>
 		<td>@jupyter @quantstack </td>
@@ -7103,7 +7105,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mattmight">
 				<img src="https://avatars.githubusercontent.com/u/296229?s=72&u=e622513a2951729ecd1faf0af6615e9b377c7874&v=4" width="24" alt="Avatar of mattmight"> mattmight
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mattmight">Copy rank badge</a><br/>
 			Matthew Might
 		</td>
 		<td>No Company</td>
@@ -7116,7 +7118,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/appleton">
 				<img src="https://avatars.githubusercontent.com/u/241576?s=72&v=4" width="24" alt="Avatar of appleton"> appleton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#appleton">Copy rank badge</a><br/>
 			Andrew Appleton
 		</td>
 		<td>@poolsideai </td>
@@ -7129,7 +7131,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Volorf">
 				<img src="https://avatars.githubusercontent.com/u/17097304?s=72&u=070a9341951053e1204cd82ddc00b5e6f13ac9b3&v=4" width="24" alt="Avatar of Volorf"> Volorf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Volorf">Copy rank badge</a><br/>
 			Oleg Frolov
 		</td>
 		<td>Liv </td>
@@ -7142,7 +7144,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/isaachinman">
 				<img src="https://avatars.githubusercontent.com/u/10575782?s=72&u=90b41fa1e574499703ed2829c73090a9e9532b92&v=4" width="24" alt="Avatar of isaachinman"> isaachinman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#isaachinman">Copy rank badge</a><br/>
 			Isaac Hinman
 		</td>
 		<td>No Company</td>
@@ -7155,7 +7157,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/suzana-ilic">
 				<img src="https://avatars.githubusercontent.com/u/27798583?s=72&u=a0b76a52bb1cdb77c30cbb37a7219c0d92efda02&v=4" width="24" alt="Avatar of suzana-ilic"> suzana-ilic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#suzana-ilic">Copy rank badge</a><br/>
 			Suzana Ilić
 		</td>
 		<td>No Company</td>
@@ -7168,7 +7170,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/krallin">
 				<img src="https://avatars.githubusercontent.com/u/1737686?s=72&v=4" width="24" alt="Avatar of krallin"> krallin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#krallin">Copy rank badge</a><br/>
 			Thomas Orozco
 		</td>
 		<td>@facebook </td>
@@ -7181,7 +7183,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/agileguru">
 				<img src="https://avatars.githubusercontent.com/u/7657784?s=72&u=eff30682e87bcf751ffdc3e1297b7e683c5a30c2&v=4" width="24" alt="Avatar of agileguru"> agileguru
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#agileguru">Copy rank badge</a><br/>
 			Guru Raghupathy
 		</td>
 		<td>Alacrity Integrated </td>
@@ -7194,7 +7196,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/xtuc">
 				<img src="https://avatars.githubusercontent.com/u/1493671?s=72&u=7f360b557c10a29599a692fec6a2122e7c4b8b2a&v=4" width="24" alt="Avatar of xtuc"> xtuc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#xtuc">Copy rank badge</a><br/>
 			Sven Sauleau
 		</td>
 		<td>No Company</td>
@@ -7207,7 +7209,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/simona-anomis">
 				<img src="https://avatars.githubusercontent.com/u/35065668?s=72&u=3bb90f9d7d7f132c1a5fb64d36841054cdb82350&v=4" width="24" alt="Avatar of simona-anomis"> simona-anomis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#simona-anomis">Copy rank badge</a><br/>
 			Simona
 		</td>
 		<td>Google </td>
@@ -7220,7 +7222,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/vorg">
 				<img src="https://avatars.githubusercontent.com/u/171001?s=72&u=9040d895643d77686e36dec0072b9e5ed1b8edda&v=4" width="24" alt="Avatar of vorg"> vorg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#vorg">Copy rank badge</a><br/>
 			Marcin Ignac
 		</td>
 		<td>Http://variable.io </td>
@@ -7233,7 +7235,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/marinaaisa">
 				<img src="https://avatars.githubusercontent.com/u/8567677?s=72&u=e78b5ed1fec6c9264100380a5872dd4ae337eed2&v=4" width="24" alt="Avatar of marinaaisa"> marinaaisa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#marinaaisa">Copy rank badge</a><br/>
 			Marina Aísa
 		</td>
 		<td>@apple </td>
@@ -7246,7 +7248,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/arthurdouillard">
 				<img src="https://avatars.githubusercontent.com/u/8938591?s=72&u=f1eb3ec54c761951b843f0761730a6f7d18d84b4&v=4" width="24" alt="Avatar of arthurdouillard"> arthurdouillard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#arthurdouillard">Copy rank badge</a><br/>
 			Arthur Douillard
 		</td>
 		<td>Deepmind </td>
@@ -7259,7 +7261,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/andronat">
 				<img src="https://avatars.githubusercontent.com/u/793408?s=72&u=0c9baf0bd877ea0e6b7b973e12be733566b384eb&v=4" width="24" alt="Avatar of andronat"> andronat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#andronat">Copy rank badge</a><br/>
 			Anastasios Andronidis
 		</td>
 		<td>Worldcoin </td>
@@ -7272,7 +7274,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dvlkv">
 				<img src="https://avatars.githubusercontent.com/u/16834309?s=72&u=de5c9561bc7e314dfa814dab0648e0483849ddcd&v=4" width="24" alt="Avatar of dvlkv"> dvlkv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dvlkv">Copy rank badge</a><br/>
 			Dan Volkov
 		</td>
 		<td>No Company</td>
@@ -7285,7 +7287,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/DannyDainton">
 				<img src="https://avatars.githubusercontent.com/u/17089546?s=72&u=3adf744a19a0bdc7cd8219cf1a79a702bf38ddc3&v=4" width="24" alt="Avatar of DannyDainton"> DannyDainton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#DannyDainton">Copy rank badge</a><br/>
 			Danny Dainton
 		</td>
 		<td>Postman </td>
@@ -7298,7 +7300,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/portsmouth">
 				<img src="https://avatars.githubusercontent.com/u/2774364?s=72&v=4" width="24" alt="Avatar of portsmouth"> portsmouth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#portsmouth">Copy rank badge</a><br/>
 			Jamie
 		</td>
 		<td>@autodesk </td>
@@ -7311,7 +7313,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/heiko-hotz">
 				<img src="https://avatars.githubusercontent.com/u/63367770?s=72&u=92d22ad21b0a65d5b8a71fbb06945ee4ee0c029f&v=4" width="24" alt="Avatar of heiko-hotz"> heiko-hotz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#heiko-hotz">Copy rank badge</a><br/>
 			Heiko Hotz
 		</td>
 		<td>Google </td>
@@ -7324,7 +7326,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/javascripter">
 				<img src="https://avatars.githubusercontent.com/u/13040?s=72&v=4" width="24" alt="Avatar of javascripter"> javascripter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#javascripter">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Hello, Inc </td>
@@ -7337,7 +7339,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/virejdasani">
 				<img src="https://avatars.githubusercontent.com/u/67495678?s=72&u=777abd0bc569c165865196369b4669eb4e2e0ed1&v=4" width="24" alt="Avatar of virejdasani"> virejdasani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#virejdasani">Copy rank badge</a><br/>
 			Virej Dasani
 		</td>
 		<td>No Company</td>
@@ -7350,7 +7352,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/furkantektas">
 				<img src="https://avatars.githubusercontent.com/u/1281777?s=72&u=27fb51a903dc3be3dcd8940a757c95533081b391&v=4" width="24" alt="Avatar of furkantektas"> furkantektas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#furkantektas">Copy rank badge</a><br/>
 			Furkan Tektas
 		</td>
 		<td>No Company</td>
@@ -7363,7 +7365,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/gabisurita">
 				<img src="https://avatars.githubusercontent.com/u/4023375?s=72&u=6e30b3dc9e3cdbaea3d30c3e6c2e3359eae02bcd&v=4" width="24" alt="Avatar of gabisurita"> gabisurita
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#gabisurita">Copy rank badge</a><br/>
 			Gabriela Surita
 		</td>
 		<td>@google-deepmind </td>
@@ -7376,7 +7378,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Alireza-Foroughi-uk">
 				<img src="https://avatars.githubusercontent.com/u/203853297?s=72&u=9e883549faa57d921168d1e2fa826ca1953015b1&v=4" width="24" alt="Avatar of Alireza-Foroughi-uk"> Alireza-Foroughi-uk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Alireza-Foroughi-uk">Copy rank badge</a><br/>
 			Alireza Foroughi
 		</td>
 		<td>Ulster University </td>
@@ -7389,7 +7391,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/SmashedFrenzy16">
 				<img src="https://avatars.githubusercontent.com/u/68993968?s=72&u=2d3697f354856ff77ea0f1890ba0910d2a0a9fdf&v=4" width="24" alt="Avatar of SmashedFrenzy16"> SmashedFrenzy16
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#SmashedFrenzy16">Copy rank badge</a><br/>
 			Rayyan
 		</td>
 		<td>@netfruit-technologi Smashedfrenzy16 Studios, @chesslablab<br/></td>
@@ -7402,7 +7404,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/didimitrie">
 				<img src="https://avatars.githubusercontent.com/u/7696515?s=72&u=fa253b5228d512e1ce79357c63925b7258e69f4c&v=4" width="24" alt="Avatar of didimitrie"> didimitrie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#didimitrie">Copy rank badge</a><br/>
 			Dimitrie Stefanescu
 		</td>
 		<td>Speckle </td>
@@ -7415,7 +7417,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mlabonne">
 				<img src="https://avatars.githubusercontent.com/u/81252890?s=72&u=f9898d723658a498328f14f717e1eeccb42ca675&v=4" width="24" alt="Avatar of mlabonne"> mlabonne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mlabonne">Copy rank badge</a><br/>
 			Maxime Labonne
 		</td>
 		<td>Liquid Ai </td>
@@ -7428,7 +7430,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/teivah">
 				<img src="https://avatars.githubusercontent.com/u/934784?s=72&u=227613cb18fdee717ff7fc61360dddc542a55cab&v=4" width="24" alt="Avatar of teivah"> teivah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#teivah">Copy rank badge</a><br/>
 			Teiva Harsanyi
 		</td>
 		<td>@google </td>
@@ -7441,7 +7443,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Rahiche">
 				<img src="https://avatars.githubusercontent.com/u/37366956?s=72&u=40506e577c26bf8e5aeb6497e166a16fb8794822&v=4" width="24" alt="Avatar of Rahiche"> Rahiche
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Rahiche">Copy rank badge</a><br/>
 			Raouf Rahiche
 		</td>
 		<td>No Company</td>
@@ -7454,7 +7456,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/chshersh">
 				<img src="https://avatars.githubusercontent.com/u/4276606?s=72&u=3a3391c5a8a2daeacadb9333f5894d86d7f89ff4&v=4" width="24" alt="Avatar of chshersh"> chshersh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#chshersh">Copy rank badge</a><br/>
 			Dmitrii Kovanikov
 		</td>
 		<td>Bloomberg </td>
@@ -7467,7 +7469,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tunds">
 				<img src="https://avatars.githubusercontent.com/u/13179531?s=72&u=49be475b890d5500d360fe7670ed7063a04a2004&v=4" width="24" alt="Avatar of tunds"> tunds
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tunds">Copy rank badge</a><br/>
 			tundsdev
 		</td>
 		<td>No Company</td>
@@ -7480,7 +7482,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ashleymills">
 				<img src="https://avatars.githubusercontent.com/u/329318?s=72&u=85eaae920425482f1ae8d394a9cab65b502faff8&v=4" width="24" alt="Avatar of ashleymills"> ashleymills
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ashleymills">Copy rank badge</a><br/>
 			Ashley Mills
 		</td>
 		<td>Joylord Systems Ltd </td>
@@ -7493,7 +7495,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mahnerak">
 				<img src="https://avatars.githubusercontent.com/u/1367529?s=72&u=8a9ce4994bc51734e737d0c29e0a1b9e3703ad31&v=4" width="24" alt="Avatar of mahnerak"> mahnerak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mahnerak">Copy rank badge</a><br/>
 			Karen Hambardzumyan
 		</td>
 		<td>Fair, Meta Ai </td>
@@ -7506,7 +7508,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Sannis">
 				<img src="https://avatars.githubusercontent.com/u/77367?s=72&u=b91f7ae890270a5dd8035cd1f6c5c505ff2ca4ec&v=4" width="24" alt="Avatar of Sannis"> Sannis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Sannis">Copy rank badge</a><br/>
 			Oleg Efimov
 		</td>
 		<td>Bumble Inc. </td>
@@ -7519,7 +7521,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/caiozullo">
 				<img src="https://avatars.githubusercontent.com/u/1652436?s=72&u=20e3e8f8e120697e622b8bc05d8a129574c7d248&v=4" width="24" alt="Avatar of caiozullo"> caiozullo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#caiozullo">Copy rank badge</a><br/>
 			Caio Zullo
 		</td>
 		<td>Essential Developer </td>
@@ -7532,7 +7534,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ernesto-jimenez">
 				<img src="https://avatars.githubusercontent.com/u/1005?s=72&v=4" width="24" alt="Avatar of ernesto-jimenez"> ernesto-jimenez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ernesto-jimenez">Copy rank badge</a><br/>
 			Ernesto Jiménez
 		</td>
 		<td>No Company</td>
@@ -7545,7 +7547,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/netbiosX">
 				<img src="https://avatars.githubusercontent.com/u/2847627?s=72&u=77323207a54405321d10d38160abcf417916baa0&v=4" width="24" alt="Avatar of netbiosX"> netbiosX
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#netbiosX">Copy rank badge</a><br/>
 			netbiosX
 		</td>
 		<td>Pentestlab </td>
@@ -7558,7 +7560,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/saran-t">
 				<img src="https://avatars.githubusercontent.com/u/2200217?s=72&u=2d8f2f71169adddc6c0310cbff8bdc0c9e2a44e2&v=4" width="24" alt="Avatar of saran-t"> saran-t
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#saran-t">Copy rank badge</a><br/>
 			Saran Tunyasuvunakool
 		</td>
 		<td>@google-deepmind  </td>
@@ -7571,7 +7573,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/soapdog">
 				<img src="https://avatars.githubusercontent.com/u/23247?s=72&u=b736b784c980f9501f1e8fb3bbb686757e3511d6&v=4" width="24" alt="Avatar of soapdog"> soapdog
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#soapdog">Copy rank badge</a><br/>
 			Andre Alves Garzia
 		</td>
 		<td>@amora-labs  </td>
@@ -7584,7 +7586,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/matteofigus">
 				<img src="https://avatars.githubusercontent.com/u/1789893?s=72&u=f05240f82961ecd29b7e187cfdf083860f0b8a3c&v=4" width="24" alt="Avatar of matteofigus"> matteofigus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#matteofigus">Copy rank badge</a><br/>
 			Matteo Figus
 		</td>
 		<td>@awslabs </td>
@@ -7597,7 +7599,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/LaravelDaily">
 				<img src="https://avatars.githubusercontent.com/u/15341846?s=72&u=1124d509eb6cf19f8bb06778424bf20984ddee9b&v=4" width="24" alt="Avatar of LaravelDaily"> LaravelDaily
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#LaravelDaily">Copy rank badge</a><br/>
 			Laravel Daily
 		</td>
 		<td>Laravel Daily </td>
@@ -7610,7 +7612,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/oazabir">
 				<img src="https://avatars.githubusercontent.com/u/1611494?s=72&v=4" width="24" alt="Avatar of oazabir"> oazabir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#oazabir">Copy rank badge</a><br/>
 			Omar AL Zabir
 		</td>
 		<td>No Company</td>
@@ -7623,7 +7625,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/vmadalin">
 				<img src="https://avatars.githubusercontent.com/u/18151158?s=72&u=64b887d2e7571b1e41aefbae64aa7a561252a569&v=4" width="24" alt="Avatar of vmadalin"> vmadalin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#vmadalin">Copy rank badge</a><br/>
 			Madalin Valceleanu
 		</td>
 		<td>@google </td>
@@ -7636,7 +7638,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/palcu">
 				<img src="https://avatars.githubusercontent.com/u/772220?s=72&u=fc49da928cfddaeaf43b067cabc7a92d093f2cee&v=4" width="24" alt="Avatar of palcu"> palcu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#palcu">Copy rank badge</a><br/>
 			Alex Palcuie
 		</td>
 		<td>@anthropics </td>
@@ -7649,7 +7651,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/chbatey">
 				<img src="https://avatars.githubusercontent.com/u/1866779?s=72&u=19c5c34eed473022b1eaba2e56ee01b7464fd533&v=4" width="24" alt="Avatar of chbatey"> chbatey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#chbatey">Copy rank badge</a><br/>
 			Christopher Batey
 		</td>
 		<td>@chbatey </td>
@@ -7662,7 +7664,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tansaku">
 				<img src="https://avatars.githubusercontent.com/u/30216?s=72&u=2b69c21c45d14d37002d2a39546038964617f7a1&v=4" width="24" alt="Avatar of tansaku"> tansaku
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tansaku">Copy rank badge</a><br/>
 			Sam Joseph
 		</td>
 		<td>Neurogrid Ltd. </td>
@@ -7675,7 +7677,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/senya-ashukha">
 				<img src="https://avatars.githubusercontent.com/u/10505555?s=72&u=d8d49241647f5212e045c22735dc3395ea62a700&v=4" width="24" alt="Avatar of senya-ashukha"> senya-ashukha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#senya-ashukha">Copy rank badge</a><br/>
 			Arsenii Ashukha
 		</td>
 		<td>Isomorphiclabs </td>
@@ -7688,7 +7690,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mariusschulz">
 				<img src="https://avatars.githubusercontent.com/u/947523?s=72&u=e0cb192867c9be3313984c293ae9f699bdfc088d&v=4" width="24" alt="Avatar of mariusschulz"> mariusschulz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mariusschulz">Copy rank badge</a><br/>
 			Marius Schulz
 		</td>
 		<td>No Company</td>
@@ -7701,7 +7703,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/SystemFw">
 				<img src="https://avatars.githubusercontent.com/u/7769582?s=72&u=9638cabf5510d26aadaf8aae26afde248861ed21&v=4" width="24" alt="Avatar of SystemFw"> SystemFw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#SystemFw">Copy rank badge</a><br/>
 			Fabio Labella
 		</td>
 		<td>No Company</td>
@@ -7714,7 +7716,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Elfocrash">
 				<img src="https://avatars.githubusercontent.com/u/8199968?s=72&u=20d208e09ca3b7eda9a5e7678fe96a9d7f5ec114&v=4" width="24" alt="Avatar of Elfocrash"> Elfocrash
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Elfocrash">Copy rank badge</a><br/>
 			Nick Chapsas
 		</td>
 		<td>No Company</td>
@@ -7727,7 +7729,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/eleurent">
 				<img src="https://avatars.githubusercontent.com/u/1706935?s=72&u=a8a0584b443849766802e14a1ea537b8be3a8f71&v=4" width="24" alt="Avatar of eleurent"> eleurent
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#eleurent">Copy rank badge</a><br/>
 			Edouard Leurent
 		</td>
 		<td>Google Deepmind </td>
@@ -7740,7 +7742,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/lukejacksonn">
 				<img src="https://avatars.githubusercontent.com/u/1457604?s=72&u=d9d97c4fd4fa68499276f5f578c19961ebcdac8d&v=4" width="24" alt="Avatar of lukejacksonn"> lukejacksonn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#lukejacksonn">Copy rank badge</a><br/>
 			Luke Jackson
 		</td>
 		<td>No Company</td>
@@ -7753,7 +7755,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/gasparrini">
 				<img src="https://avatars.githubusercontent.com/u/13588250?s=72&u=586590eb1a142e5844271ced08399bc5edbb4dba&v=4" width="24" alt="Avatar of gasparrini"> gasparrini
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#gasparrini">Copy rank badge</a><br/>
 			Antonio Gasparrini
 		</td>
 		<td>London School Of Hygiene<br/>&<br/>Tropical<br/>Medicine<br/></td>
@@ -7766,7 +7768,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/kragniz">
 				<img src="https://avatars.githubusercontent.com/u/735008?s=72&u=578ab14bee7ab191f313809d26b2f1b8ab746143&v=4" width="24" alt="Avatar of kragniz"> kragniz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#kragniz">Copy rank badge</a><br/>
 			Louis Taylor
 		</td>
 		<td>No Company</td>
@@ -7779,7 +7781,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/maban">
 				<img src="https://avatars.githubusercontent.com/u/237149?s=72&u=c4ff7ba956dd30968745773d41256c5fd86fe001&v=4" width="24" alt="Avatar of maban"> maban
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#maban">Copy rank badge</a><br/>
 			Anna Debenham
 		</td>
 		<td>No Company</td>
@@ -7792,7 +7794,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/codeinthehole">
 				<img src="https://avatars.githubusercontent.com/u/80975?s=72&u=2fb904596e55d70b81d929ae452ca10eaa48dc56&v=4" width="24" alt="Avatar of codeinthehole"> codeinthehole
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#codeinthehole">Copy rank badge</a><br/>
 			David Winterbottom
 		</td>
 		<td>@kraken-tech  </td>
@@ -7805,7 +7807,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/SeanNaren">
 				<img src="https://avatars.githubusercontent.com/u/6707363?s=72&u=cabcc3d5cc4834752f36a3ad99ca9e47d90cf817&v=4" width="24" alt="Avatar of SeanNaren"> SeanNaren
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#SeanNaren">Copy rank badge</a><br/>
 			Sean Naren
 		</td>
 		<td>@nvidia </td>
@@ -7818,7 +7820,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/callumlocke">
 				<img src="https://avatars.githubusercontent.com/u/250617?s=72&u=8a7169dc6f646ad914865c5f93cbbafe2df9a6d0&v=4" width="24" alt="Avatar of callumlocke"> callumlocke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#callumlocke">Copy rank badge</a><br/>
 			Callum Locke
 		</td>
 		<td>Play/pause Ltd </td>
@@ -7831,7 +7833,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/feyeleanor">
 				<img src="https://avatars.githubusercontent.com/u/64867?s=72&v=4" width="24" alt="Avatar of feyeleanor"> feyeleanor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#feyeleanor">Copy rank badge</a><br/>
 			Eleanor McHugh
 		</td>
 		<td>Games With Brains </td>
@@ -7844,7 +7846,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/PierfrancescoSoffritti">
 				<img src="https://avatars.githubusercontent.com/u/7457011?s=72&u=edae026a3edf0c7fcdacfbd57eec5bd64b330e67&v=4" width="24" alt="Avatar of PierfrancescoSoffritti"> PierfrancescoSoffritti
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#PierfrancescoSoffritti">Copy rank badge</a><br/>
 			Pierfrancesco Soffritti
 		</td>
 		<td>@google </td>
@@ -7857,7 +7859,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ryancdotorg">
 				<img src="https://avatars.githubusercontent.com/u/656699?s=72&u=5110d9622b331d2c9bfb8d3e10c3983699cd8925&v=4" width="24" alt="Avatar of ryancdotorg"> ryancdotorg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ryancdotorg">Copy rank badge</a><br/>
 			Ryan Castellucci
 		</td>
 		<td>No Company</td>
@@ -7870,7 +7872,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sylwiavargas">
 				<img src="https://avatars.githubusercontent.com/u/45401242?s=72&u=bcefa71b51432792672b88f27d2143412e0862b6&v=4" width="24" alt="Avatar of sylwiavargas"> sylwiavargas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sylwiavargas">Copy rank badge</a><br/>
 			Sylwia Vargas
 		</td>
 		<td>@inngest </td>
@@ -7883,7 +7885,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/aliumujib">
 				<img src="https://avatars.githubusercontent.com/u/13552664?s=72&u=99b2f5cf9a57c6f8f53d00c89ad5c694943584d3&v=4" width="24" alt="Avatar of aliumujib"> aliumujib
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#aliumujib">Copy rank badge</a><br/>
 			Abdul-Mujeeb Aliu
 		</td>
 		<td>No Company</td>
@@ -7896,7 +7898,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/hackerkid">
 				<img src="https://avatars.githubusercontent.com/u/7190633?s=72&u=f51483b34f2ab0f8fa0da66032dac8cf12c583c3&v=4" width="24" alt="Avatar of hackerkid"> hackerkid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#hackerkid">Copy rank badge</a><br/>
 			Vishnu Ks
 		</td>
 		<td>@yelp @diffblog </td>
@@ -7909,7 +7911,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Tosche">
 				<img src="https://avatars.githubusercontent.com/u/5482424?s=72&u=555b006f1104795fe7570e949716a87714545f1e&v=4" width="24" alt="Avatar of Tosche"> Tosche
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Tosche">Copy rank badge</a><br/>
 			Toshi Omagari
 		</td>
 		<td>No Company</td>
@@ -7922,7 +7924,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/latentflip">
 				<img src="https://avatars.githubusercontent.com/u/78225?s=72&v=4" width="24" alt="Avatar of latentflip"> latentflip
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#latentflip">Copy rank badge</a><br/>
 			Philip Roberts
 		</td>
 		<td>No Company</td>
@@ -7935,7 +7937,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/alek-sys">
 				<img src="https://avatars.githubusercontent.com/u/1092019?s=72&u=01b0f55e8fa356154226fc6754dd0c43caa7e046&v=4" width="24" alt="Avatar of alek-sys"> alek-sys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#alek-sys">Copy rank badge</a><br/>
 			Alexey Nesterov
 		</td>
 		<td>@bezerocarbon  </td>
@@ -7948,7 +7950,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ChristopherGS">
 				<img src="https://avatars.githubusercontent.com/u/5574524?s=72&u=565cd68a375fc7ad72a0fcfe59fba180afd51c41&v=4" width="24" alt="Avatar of ChristopherGS"> ChristopherGS
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ChristopherGS">Copy rank badge</a><br/>
 			Christopher Samiullah
 		</td>
 		<td>No Company</td>
@@ -7961,7 +7963,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ualehosaini">
 				<img src="https://avatars.githubusercontent.com/u/50595483?s=72&u=fdb0e2a1593924fce486f9d70805e6818c29c502&v=4" width="24" alt="Avatar of ualehosaini"> ualehosaini
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ualehosaini">Copy rank badge</a><br/>
 			Useme Alehosaini
 		</td>
 		<td>Wide It Solutions </td>
@@ -7974,7 +7976,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/arturhoo">
 				<img src="https://avatars.githubusercontent.com/u/119276?s=72&v=4" width="24" alt="Avatar of arturhoo"> arturhoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#arturhoo">Copy rank badge</a><br/>
 			Artur Rodrigues
 		</td>
 		<td>@anthropics </td>
@@ -7987,7 +7989,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/riperiperi">
 				<img src="https://avatars.githubusercontent.com/u/6294155?s=72&u=452d82d5d7e3f56a9ec7fa42edd468f51e69ded4&v=4" width="24" alt="Avatar of riperiperi"> riperiperi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#riperiperi">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8000,7 +8002,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/annegl">
 				<img src="https://avatars.githubusercontent.com/u/42218088?s=72&u=c479bed7ce5b23479ea3512c9a1ca25c6aa360e2&v=4" width="24" alt="Avatar of annegl"> annegl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#annegl">Copy rank badge</a><br/>
 			Anne G.
 		</td>
 		<td>No Company</td>
@@ -8013,7 +8015,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jdleesmiller">
 				<img src="https://avatars.githubusercontent.com/u/160829?s=72&u=96e030ad35513d44889c236349e788133eba2843&v=4" width="24" alt="Avatar of jdleesmiller"> jdleesmiller
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jdleesmiller">Copy rank badge</a><br/>
 			John Lees-Miller
 		</td>
 		<td>@overleaf  </td>
@@ -8026,7 +8028,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/thomaspaulmann">
 				<img src="https://avatars.githubusercontent.com/u/12066405?s=72&u=d7f074b46419a24bf9cb6dfa64928d02002693a1&v=4" width="24" alt="Avatar of thomaspaulmann"> thomaspaulmann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#thomaspaulmann">Copy rank badge</a><br/>
 			Thomas Paul Mann
 		</td>
 		<td>@raycast </td>
@@ -8039,7 +8041,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/nic0lette">
 				<img src="https://avatars.githubusercontent.com/u/1082635?s=72&u=e74a4af2ea80f5020554b6586bdf5b4ef8e6206e&v=4" width="24" alt="Avatar of nic0lette"> nic0lette
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#nic0lette">Copy rank badge</a><br/>
 			Lady Nicole
 		</td>
 		<td>@google  </td>
@@ -8052,7 +8054,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jondjones">
 				<img src="https://avatars.githubusercontent.com/u/2204053?s=72&u=54d33b2c702742d9c3a98c4839497cd9ce536ece&v=4" width="24" alt="Avatar of jondjones"> jondjones
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jondjones">Copy rank badge</a><br/>
 			Jon
 		</td>
 		<td>Digital Prompt Ltd </td>
@@ -8065,7 +8067,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jakewright">
 				<img src="https://avatars.githubusercontent.com/u/5333300?s=72&u=c2719cd9e8946a00e89830f491964f71eb7a33e6&v=4" width="24" alt="Avatar of jakewright"> jakewright
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jakewright">Copy rank badge</a><br/>
 			Jake Wright
 		</td>
 		<td>@monzo  </td>
@@ -8078,7 +8080,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/asquare14">
 				<img src="https://avatars.githubusercontent.com/u/22938709?s=72&u=6522791fdf7f214d4c4ed1384223ccab5e0b038d&v=4" width="24" alt="Avatar of asquare14"> asquare14
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#asquare14">Copy rank badge</a><br/>
 			Atibhi Agrawal
 		</td>
 		<td>@elevenlabs </td>
@@ -8091,7 +8093,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/gsans">
 				<img src="https://avatars.githubusercontent.com/u/4660316?s=72&u=4fa201d739c80853c471d7f0d8e7bc2bb4a0d213&v=4" width="24" alt="Avatar of gsans"> gsans
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#gsans">Copy rank badge</a><br/>
 			Gerard Sans
 		</td>
 		<td>Flatearth </td>
@@ -8104,7 +8106,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/yakky">
 				<img src="https://avatars.githubusercontent.com/u/714711?s=72&v=4" width="24" alt="Avatar of yakky"> yakky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#yakky">Copy rank badge</a><br/>
 			Iacopo Spalletti
 		</td>
 		<td>@nephila  </td>
@@ -8117,7 +8119,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/marcuswendt">
 				<img src="https://avatars.githubusercontent.com/u/211022?s=72&u=9818dff0d5b5e4312b8c7498b6fb4a6f2e1d98c4&v=4" width="24" alt="Avatar of marcuswendt"> marcuswendt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#marcuswendt">Copy rank badge</a><br/>
 			Marcus Wendt
 		</td>
 		<td>@field  </td>
@@ -8130,7 +8132,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jemimaabu">
 				<img src="https://avatars.githubusercontent.com/u/24518892?s=72&u=dd4ea6efccdffc05e732ee0133d61ced4b2bf033&v=4" width="24" alt="Avatar of jemimaabu"> jemimaabu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jemimaabu">Copy rank badge</a><br/>
 			Jemima
 		</td>
 		<td>No Company</td>
@@ -8143,7 +8145,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dustinmoris">
 				<img src="https://avatars.githubusercontent.com/u/4580714?s=72&u=1e1d03dcd249f87a3583d976d8da82b461fad209&v=4" width="24" alt="Avatar of dustinmoris"> dustinmoris
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dustinmoris">Copy rank badge</a><br/>
 			Dustin Moris Gorski
 		</td>
 		<td>Dusted Codes Limited </td>
@@ -8156,7 +8158,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/neelnanda-io">
 				<img src="https://avatars.githubusercontent.com/u/77788841?s=72&u=5cbb8ce9ff8e9aa9cb8dd09f5c10d99f12314a6d&v=4" width="24" alt="Avatar of neelnanda-io"> neelnanda-io
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#neelnanda-io">Copy rank badge</a><br/>
 			Neel Nanda
 		</td>
 		<td>Google Deepmind </td>
@@ -8169,7 +8171,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Angelo1211">
 				<img src="https://avatars.githubusercontent.com/u/11263073?s=72&u=ba51d56305a8bc626d46c4e516f184ceff13a5bf&v=4" width="24" alt="Avatar of Angelo1211"> Angelo1211
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Angelo1211">Copy rank badge</a><br/>
 			Angel Ortiz
 		</td>
 		<td>Rockstar North </td>
@@ -8182,7 +8184,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ivanr">
 				<img src="https://avatars.githubusercontent.com/u/485278?s=72&u=da29c9b9687b07adf552c4a513ed16e4edb7ad7d&v=4" width="24" alt="Avatar of ivanr"> ivanr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ivanr">Copy rank badge</a><br/>
 			Ivan Ristić
 		</td>
 		<td>Feisty Duck </td>
@@ -8195,7 +8197,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jbarrasa">
 				<img src="https://avatars.githubusercontent.com/u/9989143?s=72&v=4" width="24" alt="Avatar of jbarrasa"> jbarrasa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jbarrasa">Copy rank badge</a><br/>
 			J. Barrasa
 		</td>
 		<td>Neo4j </td>
@@ -8208,7 +8210,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/utkusen">
 				<img src="https://avatars.githubusercontent.com/u/3511458?s=72&u=77bfaffba338873a9526b6b842feb98da23da7e7&v=4" width="24" alt="Avatar of utkusen"> utkusen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#utkusen">Copy rank badge</a><br/>
 			Utku Sen
 		</td>
 		<td>No Company</td>
@@ -8221,7 +8223,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/knowbody">
 				<img src="https://avatars.githubusercontent.com/u/3802023?s=72&u=ff3273d959a32600a265831b47192eb5610becdf&v=4" width="24" alt="Avatar of knowbody"> knowbody
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#knowbody">Copy rank badge</a><br/>
 			Mateusz Zatorski
 		</td>
 		<td>No Company</td>
@@ -8234,7 +8236,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/CryptoKass">
 				<img src="https://avatars.githubusercontent.com/u/34594014?s=72&u=c712f5caae257343489e7bd18c74dd048813aac9&v=4" width="24" alt="Avatar of CryptoKass"> CryptoKass
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#CryptoKass">Copy rank badge</a><br/>
 			Kassius 
 		</td>
 		<td>Coinmechanic </td>
@@ -8247,7 +8249,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/benmoseley">
 				<img src="https://avatars.githubusercontent.com/u/33726845?s=72&u=9856432ef3d6c09e8f736fdb4e235c103089397c&v=4" width="24" alt="Avatar of benmoseley"> benmoseley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#benmoseley">Copy rank badge</a><br/>
 			Ben Moseley
 		</td>
 		<td>Imperial College London </td>
@@ -8260,7 +8262,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/InsiderPhD">
 				<img src="https://avatars.githubusercontent.com/u/36405442?s=72&u=54061abcb812543c050da82e587cd362fe524ce0&v=4" width="24" alt="Avatar of InsiderPhD"> InsiderPhD
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#InsiderPhD">Copy rank badge</a><br/>
 			Katie Paxton-Fear
 		</td>
 		<td>Semgrep </td>
@@ -8273,7 +8275,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mupezzuol">
 				<img src="https://avatars.githubusercontent.com/u/20175775?s=72&u=cc437419f9b64bb8914bbd87eb4a0537defebdeb&v=4" width="24" alt="Avatar of mupezzuol"> mupezzuol
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mupezzuol">Copy rank badge</a><br/>
 			Murillo Pezzuol
 		</td>
 		<td>No Company</td>
@@ -8286,7 +8288,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/DrBeef">
 				<img src="https://avatars.githubusercontent.com/u/6168240?s=72&u=74e0d8fa7ab4cf5795ac017fa0f5ac71fb90f478&v=4" width="24" alt="Avatar of DrBeef"> DrBeef
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#DrBeef">Copy rank badge</a><br/>
 			Simon Brown
 		</td>
 		<td>No Company</td>
@@ -8299,7 +8301,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/xjamundx">
 				<img src="https://avatars.githubusercontent.com/u/246143?s=72&u=4edc40d8a151a5f49b45e42959a06b6a3308cab2&v=4" width="24" alt="Avatar of xjamundx"> xjamundx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#xjamundx">Copy rank badge</a><br/>
 			Jamund Ferguson
 		</td>
 		<td>Stabilityai </td>
@@ -8312,7 +8314,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/hubgit">
 				<img src="https://avatars.githubusercontent.com/u/14294?s=72&u=fde6d37734bbeea2d43a217fd529f848a1cbc126&v=4" width="24" alt="Avatar of hubgit"> hubgit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#hubgit">Copy rank badge</a><br/>
 			Alf Eaton
 		</td>
 		<td>No Company</td>
@@ -8325,7 +8327,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/HengyiWang">
 				<img src="https://avatars.githubusercontent.com/u/57764168?s=72&u=9137638fa62535267bc3609820627e56c1b5c474&v=4" width="24" alt="Avatar of HengyiWang"> HengyiWang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#HengyiWang">Copy rank badge</a><br/>
 			wanghy
 		</td>
 		<td>University College London </td>
@@ -8338,7 +8340,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ayyucekizrak">
 				<img src="https://avatars.githubusercontent.com/u/32331090?s=72&u=5fd32a065a3779fb8d5d94568bb87c4ae64308ff&v=4" width="24" alt="Avatar of ayyucekizrak"> ayyucekizrak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ayyucekizrak">Copy rank badge</a><br/>
 			Dr. Ayyüce Kızrak
 		</td>
 		<td>Hux Ai </td>
@@ -8351,7 +8353,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/errordeveloper">
 				<img src="https://avatars.githubusercontent.com/u/251467?s=72&u=8cfd2f6fb0ba8c434745faf853303482b0b6e04c&v=4" width="24" alt="Avatar of errordeveloper"> errordeveloper
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#errordeveloper">Copy rank badge</a><br/>
 			Ilya Dmitrichenko
 		</td>
 		<td>@coreweave </td>
@@ -8364,7 +8366,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/EwanValentine">
 				<img src="https://avatars.githubusercontent.com/u/1155123?s=72&v=4" width="24" alt="Avatar of EwanValentine"> EwanValentine
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#EwanValentine">Copy rank badge</a><br/>
 			Ewan Valentine
 		</td>
 		<td>Skyral </td>
@@ -8377,7 +8379,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mickeynp">
 				<img src="https://avatars.githubusercontent.com/u/1150346?s=72&u=f856475ac8c79a68861cddf9e70a93e26b3a5bca&v=4" width="24" alt="Avatar of mickeynp"> mickeynp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mickeynp">Copy rank badge</a><br/>
 			Mickey Petersen
 		</td>
 		<td>No Company</td>
@@ -8390,7 +8392,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/eliotsykes">
 				<img src="https://avatars.githubusercontent.com/u/31698?s=72&u=1bdee483e0db91fedb70834633e0d887b53f9945&v=4" width="24" alt="Avatar of eliotsykes"> eliotsykes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#eliotsykes">Copy rank badge</a><br/>
 			Eliot Sykes
 		</td>
 		<td>Rails Coach & Developer<br/></td>
@@ -8403,7 +8405,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tugberkugurlu">
 				<img src="https://avatars.githubusercontent.com/u/328122?s=72&u=d1eedec9e25fabf5ec876c4fa00762879cafe1fc&v=4" width="24" alt="Avatar of tugberkugurlu"> tugberkugurlu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tugberkugurlu">Copy rank badge</a><br/>
 			Tugberk Ugurlu
 		</td>
 		<td>Deliveroo </td>
@@ -8416,7 +8418,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/trallard">
 				<img src="https://avatars.githubusercontent.com/u/23552331?s=72&u=6664f9601eaa19d06ea7a4168fd3840d986e4eca&v=4" width="24" alt="Avatar of trallard"> trallard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#trallard">Copy rank badge</a><br/>
 			Tania Allard
 		</td>
 		<td>@quansight-labs @quansight  </td>
@@ -8429,7 +8431,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Pitsillides91">
 				<img src="https://avatars.githubusercontent.com/u/52787573?s=72&u=66542ab9491c2bff45e8502dca11d2a83a13066f&v=4" width="24" alt="Avatar of Pitsillides91"> Pitsillides91
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Pitsillides91">Copy rank badge</a><br/>
 			Yiannis Pitsillides
 		</td>
 		<td>No Company</td>
@@ -8442,7 +8444,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/buabaj">
 				<img src="https://avatars.githubusercontent.com/u/49881677?s=72&u=a85952891036eb448f86eb847902f25badd5f9f7&v=4" width="24" alt="Avatar of buabaj"> buabaj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#buabaj">Copy rank badge</a><br/>
 			Jerry Buaba
 		</td>
 		<td>No Company</td>
@@ -8455,7 +8457,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jlord">
 				<img src="https://avatars.githubusercontent.com/u/1305617?s=72&u=25309b5502674f2627fdc109c52522daed0e3d6d&v=4" width="24" alt="Avatar of jlord"> jlord
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jlord">Copy rank badge</a><br/>
 			Jessica Lord
 		</td>
 		<td>No Company</td>
@@ -8468,7 +8470,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/byxbe">
 				<img src="https://avatars.githubusercontent.com/u/188784701?s=72&u=d6a395873cafaecdd55deb1c7b66782e256b4091&v=4" width="24" alt="Avatar of byxbe"> byxbe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#byxbe">Copy rank badge</a><br/>
 			Byxbe
 		</td>
 		<td>No Company</td>
@@ -8481,7 +8483,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/koster">
 				<img src="https://avatars.githubusercontent.com/u/171878?s=72&v=4" width="24" alt="Avatar of koster"> koster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#koster">Copy rank badge</a><br/>
 			xk
 		</td>
 		<td>No Company</td>
@@ -8494,7 +8496,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/alex3165">
 				<img src="https://avatars.githubusercontent.com/u/4259832?s=72&u=5f9dd51b51f0bedd91f1a1ca699b9a33496e119f&v=4" width="24" alt="Avatar of alex3165"> alex3165
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#alex3165">Copy rank badge</a><br/>
 			Alexandre Rieux
 		</td>
 		<td>No Company</td>
@@ -8507,7 +8509,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/awnumar">
 				<img src="https://avatars.githubusercontent.com/u/8942495?s=72&u=c04171e07d684647e56fa882ff4d53dbf51e4960&v=4" width="24" alt="Avatar of awnumar"> awnumar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#awnumar">Copy rank badge</a><br/>
 			Awn
 		</td>
 		<td>@monzo </td>
@@ -8520,7 +8522,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/timwis">
 				<img src="https://avatars.githubusercontent.com/u/761444?s=72&u=252ab94f110d73a8022dc36560c3f7acf9563113&v=4" width="24" alt="Avatar of timwis"> timwis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#timwis">Copy rank badge</a><br/>
 			Tim Wisniewski
 		</td>
 		<td>@wearebeam </td>
@@ -8533,7 +8535,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/alexbilbie">
 				<img src="https://avatars.githubusercontent.com/u/77991?s=72&u=c4d6bfa57607e193efc0074cd7546cbcb0a443a3&v=4" width="24" alt="Avatar of alexbilbie"> alexbilbie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#alexbilbie">Copy rank badge</a><br/>
 			Alex Bilbie
 		</td>
 		<td>No Company</td>
@@ -8546,7 +8548,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/RandomRobbieBF">
 				<img src="https://avatars.githubusercontent.com/u/51722811?s=72&u=a195458fc64bade6e8616d1d5c43883f0abde0c0&v=4" width="24" alt="Avatar of RandomRobbieBF"> RandomRobbieBF
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#RandomRobbieBF">Copy rank badge</a><br/>
 			Robert Wiggins
 		</td>
 		<td>Bishopfox </td>
@@ -8559,7 +8561,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tkgregory">
 				<img src="https://avatars.githubusercontent.com/u/5338022?s=72&u=19bb46bd6b17ad4ab43af48959cf44eae283bdc0&v=4" width="24" alt="Avatar of tkgregory"> tkgregory
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tkgregory">Copy rank badge</a><br/>
 			Tom Gregory
 		</td>
 		<td>No Company</td>
@@ -8572,7 +8574,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/angelabauer">
 				<img src="https://avatars.githubusercontent.com/u/8798027?s=72&u=9dfe78c98a6fdf4d5814f1ebf1ee5c19bd7277a9&v=4" width="24" alt="Avatar of angelabauer"> angelabauer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#angelabauer">Copy rank badge</a><br/>
 			Angela Yu
 		</td>
 		<td>@appbrewery </td>
@@ -8585,7 +8587,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/JuliusSweetland">
 				<img src="https://avatars.githubusercontent.com/u/4722561?s=72&u=cd9be1a95156076a2050cde607a89b81cb6818d6&v=4" width="24" alt="Avatar of JuliusSweetland"> JuliusSweetland
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#JuliusSweetland">Copy rank badge</a><br/>
 			Julius
 		</td>
 		<td>No Company</td>
@@ -8598,7 +8600,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/BenNeighbour">
 				<img src="https://avatars.githubusercontent.com/u/45554944?s=72&u=43c2a947cc16619a5f4ee61a898978a02bfb9928&v=4" width="24" alt="Avatar of BenNeighbour"> BenNeighbour
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#BenNeighbour">Copy rank badge</a><br/>
 			BenNeighbour
 		</td>
 		<td>@enginebystarling  </td>
@@ -8611,7 +8613,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/eth0izzle">
 				<img src="https://avatars.githubusercontent.com/u/97316?s=72&u=1ce28ad5e303c74d2705f9ea38c702f3dbdc7b74&v=4" width="24" alt="Avatar of eth0izzle"> eth0izzle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#eth0izzle">Copy rank badge</a><br/>
 			Paul
 		</td>
 		<td>No Company</td>
@@ -8624,7 +8626,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/kristinekolodziejski">
 				<img src="https://avatars.githubusercontent.com/u/86930618?s=72&u=366211d47af9c42453b45c78d40b0b37791080d8&v=4" width="24" alt="Avatar of kristinekolodziejski"> kristinekolodziejski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#kristinekolodziejski">Copy rank badge</a><br/>
 			Kristine Kolodziejski
 		</td>
 		<td>No Company</td>
@@ -8637,7 +8639,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/callumacrae">
 				<img src="https://avatars.githubusercontent.com/u/472830?s=72&u=e6c390b3828aa9050bd08d1f20ce54032de57ea0&v=4" width="24" alt="Avatar of callumacrae"> callumacrae
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#callumacrae">Copy rank badge</a><br/>
 			Callum Macrae
 		</td>
 		<td>No Company</td>
@@ -8650,7 +8652,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/HugoDF">
 				<img src="https://avatars.githubusercontent.com/u/6459679?s=72&u=81cab730acfdb7c85e80dcd078e9d1f097d0d695&v=4" width="24" alt="Avatar of HugoDF"> HugoDF
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#HugoDF">Copy rank badge</a><br/>
 			Hugo
 		</td>
 		<td>No Company</td>
@@ -8663,7 +8665,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/benAkehurst">
 				<img src="https://avatars.githubusercontent.com/u/15856820?s=72&u=3da75c5bc5bf9d74a7e076fcaaf96118952b029c&v=4" width="24" alt="Avatar of benAkehurst"> benAkehurst
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#benAkehurst">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@vercel </td>
@@ -8676,7 +8678,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Torvaney">
 				<img src="https://avatars.githubusercontent.com/u/11335988?s=72&u=b09ea9b021cb9a0cbda73e88f2d600189cc39ec5&v=4" width="24" alt="Avatar of Torvaney"> Torvaney
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Torvaney">Copy rank badge</a><br/>
 			Ben Torvaney
 		</td>
 		<td>No Company</td>
@@ -8689,7 +8691,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/phoenixperry">
 				<img src="https://avatars.githubusercontent.com/u/783625?s=72&u=d388fdcede80ffdd2dcb1449ce5ac84b42c7150e&v=4" width="24" alt="Avatar of phoenixperry"> phoenixperry
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#phoenixperry">Copy rank badge</a><br/>
 			Phoenix Perry
 		</td>
 		<td>Code Liberation </td>
@@ -8702,7 +8704,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Billy-Ellis">
 				<img src="https://avatars.githubusercontent.com/u/14247272?s=72&u=71dc8a7594c602e8bb097409f4041d9a34e23e9e&v=4" width="24" alt="Avatar of Billy-Ellis"> Billy-Ellis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Billy-Ellis">Copy rank badge</a><br/>
 			Billy Ellis
 		</td>
 		<td>@zygosec  </td>
@@ -8715,7 +8717,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jameshfisher">
 				<img src="https://avatars.githubusercontent.com/u/166966?s=72&u=b78059abca798fbce8c9da4f6ddfb72ea03b20bb&v=4" width="24" alt="Avatar of jameshfisher"> jameshfisher
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jameshfisher">Copy rank badge</a><br/>
 			Jim Fisher
 		</td>
 		<td>Granola </td>
@@ -8728,7 +8730,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/stuartmemo">
 				<img src="https://avatars.githubusercontent.com/u/59205?s=72&v=4" width="24" alt="Avatar of stuartmemo"> stuartmemo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#stuartmemo">Copy rank badge</a><br/>
 			Stuart Memo
 		</td>
 		<td>No Company</td>
@@ -8741,7 +8743,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ekwonye-richard">
 				<img src="https://avatars.githubusercontent.com/u/19820641?s=72&u=d908f530cb728f2d172da251ec8357fbcaeecee8&v=4" width="24" alt="Avatar of ekwonye-richard"> ekwonye-richard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ekwonye-richard">Copy rank badge</a><br/>
 			Richard Ekwonye
 		</td>
 		<td>No Company</td>
@@ -8754,7 +8756,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/danielepolencic">
 				<img src="https://avatars.githubusercontent.com/u/1130499?s=72&u=5af8d47a51be852e926957a97ec710aea03b6196&v=4" width="24" alt="Avatar of danielepolencic"> danielepolencic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#danielepolencic">Copy rank badge</a><br/>
 			Daniele Polencic
 		</td>
 		<td>@learnk8s  </td>
@@ -8767,7 +8769,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Farzinkh">
 				<img src="https://avatars.githubusercontent.com/u/44442932?s=72&u=a3015676c73ffc36a016a66988dbbf78e4e4b3e5&v=4" width="24" alt="Avatar of Farzinkh"> Farzinkh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Farzinkh">Copy rank badge</a><br/>
 			Farzin Khodaveisi
 		</td>
 		<td>The Ai Team </td>
@@ -8780,7 +8782,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/PetarV-">
 				<img src="https://avatars.githubusercontent.com/u/4183324?s=72&u=2f4beb46da0c0d39e2bf53c55fff50bdcf04357b&v=4" width="24" alt="Avatar of PetarV-"> PetarV-
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#PetarV-">Copy rank badge</a><br/>
 			Petar Veličković
 		</td>
 		<td>Google Deepmind / University<br/>Of<br/>Cambridge<br/></td>
@@ -8793,7 +8795,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/xdavidhu">
 				<img src="https://avatars.githubusercontent.com/u/18151245?s=72&u=e3c2675d0421a04d3f00093e7a1066a1d5be3a18&v=4" width="24" alt="Avatar of xdavidhu"> xdavidhu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#xdavidhu">Copy rank badge</a><br/>
 			David Schütz
 		</td>
 		<td>Meta </td>
@@ -8806,7 +8808,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ocharles">
 				<img src="https://avatars.githubusercontent.com/u/20878?s=72&u=8024ace78ed022fed2feebad035a5d9f6610ead5&v=4" width="24" alt="Avatar of ocharles"> ocharles
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ocharles">Copy rank badge</a><br/>
 			Ollie Charles
 		</td>
 		<td>Circuithub </td>
@@ -8819,7 +8821,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/benyaminahmed">
 				<img src="https://avatars.githubusercontent.com/u/36366023?s=72&u=6fc174bc2f897c3d8a5cf93f042749dcccc6579e&v=4" width="24" alt="Avatar of benyaminahmed"> benyaminahmed
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#benyaminahmed">Copy rank badge</a><br/>
 			Benyamin Ahmed
 		</td>
 		<td>No Company</td>
@@ -8832,7 +8834,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/erinosher">
 				<img src="https://avatars.githubusercontent.com/u/4386583?s=72&u=55acc2b5107d5e16a2c54421fb4f4cf9a6fbd22c&v=4" width="24" alt="Avatar of erinosher"> erinosher
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#erinosher">Copy rank badge</a><br/>
 			Erin Osher
 		</td>
 		<td>@mlh </td>
@@ -8845,7 +8847,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Purp1eW0lf">
 				<img src="https://avatars.githubusercontent.com/u/44196051?s=72&u=6744c20beadc1a202e4f9d299d911660aee42d0c&v=4" width="24" alt="Avatar of Purp1eW0lf"> Purp1eW0lf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Purp1eW0lf">Copy rank badge</a><br/>
 			Dray Agha
 		</td>
 		<td>No Company</td>
@@ -8858,7 +8860,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ptigas">
 				<img src="https://avatars.githubusercontent.com/u/208803?s=72&u=8b55c28f37412ee6861c63d327fc4b4a1c71f830&v=4" width="24" alt="Avatar of ptigas"> ptigas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ptigas">Copy rank badge</a><br/>
 			Panagiotis Tigas
 		</td>
 		<td>University Of Oxford </td>
@@ -8871,7 +8873,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jgthms">
 				<img src="https://avatars.githubusercontent.com/u/1254808?s=72&u=1d9df343bac6f57e7bff85f0074aac2de34f5dcc&v=4" width="24" alt="Avatar of jgthms"> jgthms
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jgthms">Copy rank badge</a><br/>
 			Jeremy Thomas
 		</td>
 		<td>No Company</td>
@@ -8884,7 +8886,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/scribu">
 				<img src="https://avatars.githubusercontent.com/u/225715?s=72&v=4" width="24" alt="Avatar of scribu"> scribu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#scribu">Copy rank badge</a><br/>
 			Cristi Burcă
 		</td>
 		<td>No Company</td>
@@ -8897,7 +8899,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/MehediH">
 				<img src="https://avatars.githubusercontent.com/u/10274434?s=72&u=dc294423f80bfc71bbe39111fc1d5c9888bc51c7&v=4" width="24" alt="Avatar of MehediH"> MehediH
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#MehediH">Copy rank badge</a><br/>
 			mehedi
 		</td>
 		<td>No Company</td>
@@ -8910,7 +8912,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ediakatos">
 				<img src="https://avatars.githubusercontent.com/u/157492053?s=72&u=afdb884db906ccfb2d1662d558992f3f82bdf01b&v=4" width="24" alt="Avatar of ediakatos"> ediakatos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ediakatos">Copy rank badge</a><br/>
 			Evangelos
 		</td>
 		<td>Mapaction </td>
@@ -8923,7 +8925,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/artsploit">
 				<img src="https://avatars.githubusercontent.com/u/44605151?s=72&u=eb223e48ebb0a2472c600d12a350dae9959da936&v=4" width="24" alt="Avatar of artsploit"> artsploit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#artsploit">Copy rank badge</a><br/>
 			Michael Stepankin
 		</td>
 		<td>No Company</td>
@@ -8936,7 +8938,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/andrewbaisden">
 				<img src="https://avatars.githubusercontent.com/u/5095486?s=72&u=532fc24c61419e00b759f8544686c238208e52d0&v=4" width="24" alt="Avatar of andrewbaisden"> andrewbaisden
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#andrewbaisden">Copy rank badge</a><br/>
 			Andrew Baisden
 		</td>
 		<td>Freelance </td>
@@ -8949,7 +8951,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tomhennigan">
 				<img src="https://avatars.githubusercontent.com/u/28017?s=72&u=cf7a2079b8e2e42061f621f320b155bdb7edfe82&v=4" width="24" alt="Avatar of tomhennigan"> tomhennigan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tomhennigan">Copy rank badge</a><br/>
 			Tom Hennigan
 		</td>
 		<td>@google-deepmind </td>
@@ -8962,7 +8964,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/perone">
 				<img src="https://avatars.githubusercontent.com/u/412328?s=72&u=cd60d175fb8b1fa5272b796db89215041de63d1c&v=4" width="24" alt="Avatar of perone"> perone
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#perone">Copy rank badge</a><br/>
 			Christian S. Perone
 		</td>
 		<td>No Company</td>
@@ -8975,7 +8977,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/imathis">
 				<img src="https://avatars.githubusercontent.com/u/12732?s=72&u=4dc4505267c2e736f9974b6cf9e1410b47b7fe74&v=4" width="24" alt="Avatar of imathis"> imathis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#imathis">Copy rank badge</a><br/>
 			Brandon Mathis
 		</td>
 		<td>Enveloop </td>
@@ -8988,7 +8990,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sroze">
 				<img src="https://avatars.githubusercontent.com/u/804625?s=72&u=72f26d2dc58102644350d2d789766ef173ed5d6c&v=4" width="24" alt="Avatar of sroze"> sroze
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sroze">Copy rank badge</a><br/>
 			Samuel ROZE
 		</td>
 		<td>Kor </td>
@@ -9001,7 +9003,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/garyb">
 				<img src="https://avatars.githubusercontent.com/u/693642?s=72&u=adf74d19d3ea7f4ae2f390a7c284a54f6bbee83f&v=4" width="24" alt="Avatar of garyb"> garyb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#garyb">Copy rank badge</a><br/>
 			Gary Burgess
 		</td>
 		<td>No Company</td>
@@ -9014,7 +9016,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/FabianTerhorst">
 				<img src="https://avatars.githubusercontent.com/u/3597376?s=72&u=d99b68cdafe993bca40ef6557c80d665970371ea&v=4" width="24" alt="Avatar of FabianTerhorst"> FabianTerhorst
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#FabianTerhorst">Copy rank badge</a><br/>
 			Fabian Terhorst
 		</td>
 		<td>@rockstargames </td>
@@ -9027,7 +9029,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jacobbinnie">
 				<img src="https://avatars.githubusercontent.com/u/83803154?s=72&u=c57050f14df555d98d74acab3ad3276d3deefe41&v=4" width="24" alt="Avatar of jacobbinnie"> jacobbinnie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jacobbinnie">Copy rank badge</a><br/>
 			Jacob Binnie
 		</td>
 		<td>No Company</td>
@@ -9040,7 +9042,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/codeWithMarina">
 				<img src="https://avatars.githubusercontent.com/u/161620796?s=72&u=1c3a526d4e3b1001b0ebcf9343c5d1c983b75a11&v=4" width="24" alt="Avatar of codeWithMarina"> codeWithMarina
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#codeWithMarina">Copy rank badge</a><br/>
 			Marina
 		</td>
 		<td>8allocate </td>
@@ -9053,7 +9055,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ankurhanda">
 				<img src="https://avatars.githubusercontent.com/u/686480?s=72&v=4" width="24" alt="Avatar of ankurhanda"> ankurhanda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ankurhanda">Copy rank badge</a><br/>
 			Ankur Handa
 		</td>
 		<td>University Of Cambridge </td>
@@ -9066,7 +9068,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/samholt">
 				<img src="https://avatars.githubusercontent.com/u/6444377?s=72&u=25af20f47312039d5b1a3d47361c4eb49cc7ce64&v=4" width="24" alt="Avatar of samholt"> samholt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#samholt">Copy rank badge</a><br/>
 			Samuel Holt
 		</td>
 		<td>Samuel.holt.direct@g </td>
@@ -9079,7 +9081,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Frightera">
 				<img src="https://avatars.githubusercontent.com/u/46622558?s=72&u=69110e0a4321ecd6641516d7f5113247592d7bfe&v=4" width="24" alt="Avatar of Frightera"> Frightera
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Frightera">Copy rank badge</a><br/>
 			Kaan Bıçakcı
 		</td>
 		<td>Wtw </td>
@@ -9092,7 +9094,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/petebu">
 				<img src="https://avatars.githubusercontent.com/u/1218874?s=72&v=4" width="24" alt="Avatar of petebu"> petebu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#petebu">Copy rank badge</a><br/>
 			Peter Buchlovsky
 		</td>
 		<td>@google @deepmind </td>
@@ -9105,7 +9107,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/MachineLearnia">
 				<img src="https://avatars.githubusercontent.com/u/53819539?s=72&u=2f173944c470c4da65055d373d6640086fb80574&v=4" width="24" alt="Avatar of MachineLearnia"> MachineLearnia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#MachineLearnia">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Predixus </td>
@@ -9118,7 +9120,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/passy">
 				<img src="https://avatars.githubusercontent.com/u/9906?s=72&u=bfebabd79837433e3c043191cb95c9444f983ee3&v=4" width="24" alt="Avatar of passy"> passy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#passy">Copy rank badge</a><br/>
 			Pascal Hartig
 		</td>
 		<td>@facebook </td>
@@ -9131,7 +9133,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sebastianstarke">
 				<img src="https://avatars.githubusercontent.com/u/20269775?s=72&u=d8675f163054fe2207d08fbf96809c7e6dea0229&v=4" width="24" alt="Avatar of sebastianstarke"> sebastianstarke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sebastianstarke">Copy rank badge</a><br/>
 			Sebastian Starke
 		</td>
 		<td>No Company</td>
@@ -9144,7 +9146,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/davidstutz">
 				<img src="https://avatars.githubusercontent.com/u/1203091?s=72&u=dd4a22e7313665a231b8bf4bc76d3cbdffbbf889&v=4" width="24" alt="Avatar of davidstutz"> davidstutz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#davidstutz">Copy rank badge</a><br/>
 			David Stutz
 		</td>
 		<td>No Company</td>
@@ -9157,7 +9159,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/OsandaMalith">
 				<img src="https://avatars.githubusercontent.com/u/4497190?s=72&v=4" width="24" alt="Avatar of OsandaMalith"> OsandaMalith
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#OsandaMalith">Copy rank badge</a><br/>
 			Osanda Malith Jayathissa
 		</td>
 		<td>@visa </td>
@@ -9170,7 +9172,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/eddwebster">
 				<img src="https://avatars.githubusercontent.com/u/46637393?s=72&u=d4f9bfb9083f786a0164a0a96bb811c36b3babd0&v=4" width="24" alt="Avatar of eddwebster"> eddwebster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#eddwebster">Copy rank badge</a><br/>
 			Edd Webster
 		</td>
 		<td>@ludonautics </td>
@@ -9183,7 +9185,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/msusur">
 				<img src="https://avatars.githubusercontent.com/u/769839?s=72&u=2567ac52d10f3013056e3fec3878dc44c742851b&v=4" width="24" alt="Avatar of msusur"> msusur
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#msusur">Copy rank badge</a><br/>
 			Mert Susur
 		</td>
 		<td>@chainalysis </td>
@@ -9196,7 +9198,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/librehat">
 				<img src="https://avatars.githubusercontent.com/u/1279432?s=72&u=40ffda75055358fdf26ba951c459d56a026a52cf&v=4" width="24" alt="Avatar of librehat"> librehat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#librehat">Copy rank badge</a><br/>
 			Simeon Huang
 		</td>
 		<td>No Company</td>
@@ -9209,7 +9211,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ahmadalibagheri">
 				<img src="https://avatars.githubusercontent.com/u/42656020?s=72&u=6dfcfdedbcf62dc52fdbd5fe83f4ed0cc991e33d&v=4" width="24" alt="Avatar of ahmadalibagheri"> ahmadalibagheri
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ahmadalibagheri">Copy rank badge</a><br/>
 			Ahmadali bagheri
 		</td>
 		<td>Jaja Finance Ltd </td>
@@ -9222,7 +9224,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Stathis96">
 				<img src="https://avatars.githubusercontent.com/u/56734272?s=72&u=eaaffa3bb05b34d7933b0ae507e37dca2b3b150d&v=4" width="24" alt="Avatar of Stathis96"> Stathis96
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Stathis96">Copy rank badge</a><br/>
 			Stathis Ioannidis
 		</td>
 		<td>Calnex Solutions </td>
@@ -9235,7 +9237,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/alexstaravoitau">
 				<img src="https://avatars.githubusercontent.com/u/1111935?s=72&u=1b65fccd5e08e01a219785acba975f61261aea85&v=4" width="24" alt="Avatar of alexstaravoitau"> alexstaravoitau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#alexstaravoitau">Copy rank badge</a><br/>
 			Alex Staravoitau
 		</td>
 		<td>No Company</td>
@@ -9248,7 +9250,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/a-patel">
 				<img src="https://avatars.githubusercontent.com/u/8511777?s=72&u=609791f5be11a47724ae6ef652a5fba0da6f5ff4&v=4" width="24" alt="Avatar of a-patel"> a-patel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#a-patel">Copy rank badge</a><br/>
 			Ashish Patel
 		</td>
 		<td>Localhost (127.0.0.1) </td>
@@ -9261,7 +9263,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/chriswhocodes">
 				<img src="https://avatars.githubusercontent.com/u/1898314?s=72&v=4" width="24" alt="Avatar of chriswhocodes"> chriswhocodes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#chriswhocodes">Copy rank badge</a><br/>
 			Chris Newland
 		</td>
 		<td>No Company</td>
@@ -9274,7 +9276,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sashabaranov">
 				<img src="https://avatars.githubusercontent.com/u/677093?s=72&u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4" width="24" alt="Avatar of sashabaranov"> sashabaranov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sashabaranov">Copy rank badge</a><br/>
 			Alex Baranov
 		</td>
 		<td>@unreallabsai </td>
@@ -9287,7 +9289,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/xeoneux">
 				<img src="https://avatars.githubusercontent.com/u/3099626?s=72&u=014968d920863e32aac13a6ae30d8e0b5dd51010&v=4" width="24" alt="Avatar of xeoneux"> xeoneux
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#xeoneux">Copy rank badge</a><br/>
 			Aayush Kapoor
 		</td>
 		<td>@jpmorganchase </td>
@@ -9300,7 +9302,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/thestonefox">
 				<img src="https://avatars.githubusercontent.com/u/1029673?s=72&u=abb72c52d6eb338a1f8aad89b876867a06711349&v=4" width="24" alt="Avatar of thestonefox"> thestonefox
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#thestonefox">Copy rank badge</a><br/>
 			The Stonefox
 		</td>
 		<td>No Company</td>
@@ -9313,7 +9315,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dselivanov">
 				<img src="https://avatars.githubusercontent.com/u/5123805?s=72&u=ffa5c333d40e2f6eec87354599b6eb681cb66d5c&v=4" width="24" alt="Avatar of dselivanov"> dselivanov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dselivanov">Copy rank badge</a><br/>
 			Dmitry Selivanov
 		</td>
 		<td>Rexy.ai </td>
@@ -9326,7 +9328,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/balancap">
 				<img src="https://avatars.githubusercontent.com/u/4094436?s=72&u=c5e5a0f9464b00597089b8d82cf3dcf62f28430a&v=4" width="24" alt="Avatar of balancap"> balancap
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#balancap">Copy rank badge</a><br/>
 			Paul Balanca
 		</td>
 		<td>@graphcore </td>
@@ -9339,7 +9341,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/stevenlovegrove">
 				<img src="https://avatars.githubusercontent.com/u/481156?s=72&v=4" width="24" alt="Avatar of stevenlovegrove"> stevenlovegrove
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#stevenlovegrove">Copy rank badge</a><br/>
 			Steven Lovegrove
 		</td>
 		<td>No Company</td>
@@ -9352,7 +9354,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/wadler">
 				<img src="https://avatars.githubusercontent.com/u/4890546?s=72&u=4b38679d563c44e858f8d5be3b1d368fd780f5b8&v=4" width="24" alt="Avatar of wadler"> wadler
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#wadler">Copy rank badge</a><br/>
 			Philip Wadler
 		</td>
 		<td>University Of Edinburgh </td>
@@ -9365,7 +9367,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sastava007">
 				<img src="https://avatars.githubusercontent.com/u/43990819?s=72&u=63a8e8a439bfecbceab95b2cb7f2e8141e932d98&v=4" width="24" alt="Avatar of sastava007"> sastava007
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sastava007">Copy rank badge</a><br/>
 			Shivansh Srivastava
 		</td>
 		<td>Facebook </td>
@@ -9378,7 +9380,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sbcshop">
 				<img src="https://avatars.githubusercontent.com/u/20628922?s=72&u=e237af3e2aee20dedad58b2c2159b28f841da7ec&v=4" width="24" alt="Avatar of sbcshop"> sbcshop
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sbcshop">Copy rank badge</a><br/>
 			SB Components
 		</td>
 		<td>Sb Components Ltd </td>
@@ -9391,7 +9393,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/andyljones">
 				<img src="https://avatars.githubusercontent.com/u/662606?s=72&u=a3287b5ff4b5c199b9d52f430a35cda64cb038f8&v=4" width="24" alt="Avatar of andyljones"> andyljones
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#andyljones">Copy rank badge</a><br/>
 			Andy Jones
 		</td>
 		<td>Anthropic </td>
@@ -9404,7 +9406,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/timelyportfolio">
 				<img src="https://avatars.githubusercontent.com/u/837910?s=72&u=1026ad99bde6dcbd74ea910439a41eee2921bf17&v=4" width="24" alt="Avatar of timelyportfolio"> timelyportfolio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#timelyportfolio">Copy rank badge</a><br/>
 			timelyportfolio
 		</td>
 		<td>Available </td>
@@ -9417,7 +9419,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/MattNami">
 				<img src="https://avatars.githubusercontent.com/u/183171222?s=72&u=7809b36b945c760d291493f83529614706469d81&v=4" width="24" alt="Avatar of MattNami"> MattNami
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#MattNami">Copy rank badge</a><br/>
 			Eng Nami 
 		</td>
 		<td>Searching.... </td>
@@ -9430,7 +9432,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mottosso">
 				<img src="https://avatars.githubusercontent.com/u/2152766?s=72&u=5557979347f330ea4846621bba59eaf8666ffe07&v=4" width="24" alt="Avatar of mottosso"> mottosso
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mottosso">Copy rank badge</a><br/>
 			Marcus Ottosson
 		</td>
 		<td>No Company</td>
@@ -9443,7 +9445,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/AlexIoannides">
 				<img src="https://avatars.githubusercontent.com/u/5968486?s=72&u=67670feb84fc87ee23e20bc5027fc2687f358bcb&v=4" width="24" alt="Avatar of AlexIoannides"> AlexIoannides
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#AlexIoannides">Copy rank badge</a><br/>
 			Alex Ioannides
 		</td>
 		<td>@novonordisk </td>
@@ -9456,7 +9458,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/lharries">
 				<img src="https://avatars.githubusercontent.com/u/22766134?s=72&u=a488e11fe64c43fd62c2c3fac2e2972c48001f7a&v=4" width="24" alt="Avatar of lharries"> lharries
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#lharries">Copy rank badge</a><br/>
 			Luke Harries
 		</td>
 		<td>No Company</td>
@@ -9469,7 +9471,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/kxhit">
 				<img src="https://avatars.githubusercontent.com/u/16812362?s=72&u=cdb476efce1b1f08474df67effb60c38e75a6db4&v=4" width="24" alt="Avatar of kxhit"> kxhit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#kxhit">Copy rank badge</a><br/>
 			Xin Kong
 		</td>
 		<td>Imperial College, Zju, Hit<br/></td>
@@ -9482,7 +9484,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/alexfoxy">
 				<img src="https://avatars.githubusercontent.com/u/151772?s=72&u=64131d54e11f6b99bd6c4eaa559f3ac246e9d73c&v=4" width="24" alt="Avatar of alexfoxy"> alexfoxy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#alexfoxy">Copy rank badge</a><br/>
 			Alex Fox
 		</td>
 		<td>Secret Spa </td>
@@ -9495,7 +9497,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dragoonis">
 				<img src="https://avatars.githubusercontent.com/u/146321?s=72&u=286bc9658accb456a3b0475e5e5124737a090286&v=4" width="24" alt="Avatar of dragoonis"> dragoonis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dragoonis">Copy rank badge</a><br/>
 			Paul Dragoonis
 		</td>
 		<td>@dr4goonis </td>
@@ -9508,7 +9510,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/kgamanji">
 				<img src="https://avatars.githubusercontent.com/u/39493134?s=72&u=da831583d29e2e0efa1524cf3091edaf3e30e33a&v=4" width="24" alt="Avatar of kgamanji"> kgamanji
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#kgamanji">Copy rank badge</a><br/>
 			Katie Gamanji
 		</td>
 		<td> </td>
@@ -9521,7 +9523,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/denisdulici">
 				<img src="https://avatars.githubusercontent.com/u/5254835?s=72&u=95235101486a734ecb5018dc56e6efb5c55693b3&v=4" width="24" alt="Avatar of denisdulici"> denisdulici
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#denisdulici">Copy rank badge</a><br/>
 			Denis Dulici
 		</td>
 		<td>No Company</td>
@@ -9534,7 +9536,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/inikulin">
 				<img src="https://avatars.githubusercontent.com/u/453071?s=72&u=a4ecc3a62c7d74a3f3944be89f9f90c11e685be3&v=4" width="24" alt="Avatar of inikulin"> inikulin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#inikulin">Copy rank badge</a><br/>
 			Ivan Nikulin
 		</td>
 		<td>@cloudflare </td>
@@ -9547,7 +9549,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dizzyup">
 				<img src="https://avatars.githubusercontent.com/u/717867?s=72&v=4" width="24" alt="Avatar of dizzyup"> dizzyup
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dizzyup">Copy rank badge</a><br/>
 			Hector Simpson
 		</td>
 		<td>No Company</td>
@@ -9560,7 +9562,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/MoustafaAMahmoud">
 				<img src="https://avatars.githubusercontent.com/u/13502087?s=72&u=aa4ca7024c9e046121c9e667180d5fd4e60695e5&v=4" width="24" alt="Avatar of MoustafaAMahmoud"> MoustafaAMahmoud
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#MoustafaAMahmoud">Copy rank badge</a><br/>
 			Mostafa Mahmoud
 		</td>
 		<td>Microsoft </td>
@@ -9573,7 +9575,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/thomas-mcdonald">
 				<img src="https://avatars.githubusercontent.com/u/197928?s=72&u=a6be515361e4053a0ea9580205e26a0e8009642a&v=4" width="24" alt="Avatar of thomas-mcdonald"> thomas-mcdonald
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#thomas-mcdonald">Copy rank badge</a><br/>
 			Thomas McDonald
 		</td>
 		<td>Lcip </td>
@@ -9586,7 +9588,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/pedrib">
 				<img src="https://avatars.githubusercontent.com/u/5311656?s=72&u=8341ef6a13e4cf15c63a3035d2128407ca5a2b9a&v=4" width="24" alt="Avatar of pedrib"> pedrib
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#pedrib">Copy rank badge</a><br/>
 			Pedro Ribeiro
 		</td>
 		<td>Agile Information Security </td>
@@ -9599,7 +9601,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/FarahIbrar">
 				<img src="https://avatars.githubusercontent.com/u/168878908?s=72&u=612eb84bedd3aad3b4d0a3116130cb52554f34e6&v=4" width="24" alt="Avatar of FarahIbrar"> FarahIbrar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#FarahIbrar">Copy rank badge</a><br/>
 			Farah Ibrar
 		</td>
 		<td>No Company</td>
@@ -9612,7 +9614,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/iteles">
 				<img src="https://avatars.githubusercontent.com/u/4185328?s=72&u=328b0bfd79c6d0acb009c2802a84a817e61e1614&v=4" width="24" alt="Avatar of iteles"> iteles
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#iteles">Copy rank badge</a><br/>
 			Ines Teles Correia
 		</td>
 		<td>@dwyl </td>
@@ -9625,7 +9627,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/danwrong">
 				<img src="https://avatars.githubusercontent.com/u/110?s=72&u=2c3460162f94d92e70717f9a0e907ef30cd05f1c&v=4" width="24" alt="Avatar of danwrong"> danwrong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#danwrong">Copy rank badge</a><br/>
 			Dan Webb
 		</td>
 		<td>Twitter </td>
@@ -9638,7 +9640,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/frankiesardo">
 				<img src="https://avatars.githubusercontent.com/u/1476561?s=72&u=a7166b46186b3730a18fb37d9fe900f83a48b413&v=4" width="24" alt="Avatar of frankiesardo"> frankiesardo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#frankiesardo">Copy rank badge</a><br/>
 			Francesco Sardo
 		</td>
 		<td>No Company</td>
@@ -9651,7 +9653,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/fesarikaya">
 				<img src="https://avatars.githubusercontent.com/u/78736670?s=72&u=0f88b0117a30ca5ed53e1ef1917bfd8e9fb69a8b&v=4" width="24" alt="Avatar of fesarikaya"> fesarikaya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#fesarikaya">Copy rank badge</a><br/>
 			Ferhat Sarikaya
 		</td>
 		<td>No Company</td>
@@ -9664,7 +9666,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ahmetabdi">
 				<img src="https://avatars.githubusercontent.com/u/778015?s=72&u=d9f4577a76ba4ced27763dda45c658cef8ce6b76&v=4" width="24" alt="Avatar of ahmetabdi"> ahmetabdi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ahmetabdi">Copy rank badge</a><br/>
 			Ahmet
 		</td>
 		<td>@soundcloud </td>
@@ -9677,7 +9679,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/FilipGrebowski">
 				<img src="https://avatars.githubusercontent.com/u/34253338?s=72&u=487d0fe600109000eba0c7ca5b55ef6eb678bc91&v=4" width="24" alt="Avatar of FilipGrebowski"> FilipGrebowski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#FilipGrebowski">Copy rank badge</a><br/>
 			Filip Grebowski
 		</td>
 		<td>Founder @ Mensoi </td>
@@ -9690,7 +9692,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/marco-lancini">
 				<img src="https://avatars.githubusercontent.com/u/1472968?s=72&v=4" width="24" alt="Avatar of marco-lancini"> marco-lancini
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#marco-lancini">Copy rank badge</a><br/>
 			Marco Lancini
 		</td>
 		<td>No Company</td>
@@ -9703,7 +9705,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Akanksha1212">
 				<img src="https://avatars.githubusercontent.com/u/20701948?s=72&u=b9870c0c7dd12866e99425204acdfbbb4e5f2a84&v=4" width="24" alt="Avatar of Akanksha1212"> Akanksha1212
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Akanksha1212">Copy rank badge</a><br/>
 			Akanksha Singh
 		</td>
 		<td>No Company</td>
@@ -9716,7 +9718,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/nsadawi">
 				<img src="https://avatars.githubusercontent.com/u/6287293?s=72&u=7be7f726e8da9ecac67a32decc4c03eae5feaea7&v=4" width="24" alt="Avatar of nsadawi"> nsadawi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#nsadawi">Copy rank badge</a><br/>
 			Noureddin Sadawi
 		</td>
 		<td>Softlight Ltd </td>
@@ -9729,7 +9731,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dickreuter">
 				<img src="https://avatars.githubusercontent.com/u/1256318?s=72&v=4" width="24" alt="Avatar of dickreuter"> dickreuter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dickreuter">Copy rank badge</a><br/>
 			Nicolas Dickreuter
 		</td>
 		<td>No Company</td>
@@ -9742,7 +9744,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/amrkhaledccd">
 				<img src="https://avatars.githubusercontent.com/u/12982310?s=72&u=f511e0893b71e29dd0fc3ff289e7d5677a17cef3&v=4" width="24" alt="Avatar of amrkhaledccd"> amrkhaledccd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#amrkhaledccd">Copy rank badge</a><br/>
 			Amr Khaled
 		</td>
 		<td>Wise </td>
@@ -9755,7 +9757,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tthustla">
 				<img src="https://avatars.githubusercontent.com/u/25571441?s=72&u=dcb3163ff7232c4801e34e30ef0de8119d84a3bd&v=4" width="24" alt="Avatar of tthustla"> tthustla
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tthustla">Copy rank badge</a><br/>
 			Ricky Kim
 		</td>
 		<td>No Company</td>
@@ -9768,7 +9770,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ZahraBayatgh">
 				<img src="https://avatars.githubusercontent.com/u/58395585?s=72&u=19c06eb96e18aafd7cead1733611b3e53c792d66&v=4" width="24" alt="Avatar of ZahraBayatgh"> ZahraBayatgh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ZahraBayatgh">Copy rank badge</a><br/>
 			Zahra Bayat
 		</td>
 		<td>Freelancer </td>
@@ -9781,7 +9783,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/MohitShridhar">
 				<img src="https://avatars.githubusercontent.com/u/6535354?s=72&u=06259b9bf12f8ff2de5312c96110a09b060881c8&v=4" width="24" alt="Avatar of MohitShridhar"> MohitShridhar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#MohitShridhar">Copy rank badge</a><br/>
 			Mohit Shridhar
 		</td>
 		<td>Google Deepmind </td>
@@ -9794,7 +9796,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/kylef">
 				<img src="https://avatars.githubusercontent.com/u/44164?s=72&u=997de1ad521596ef44957446a73abc826a09a09d&v=4" width="24" alt="Avatar of kylef"> kylef
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#kylef">Copy rank badge</a><br/>
 			Kyle Fuller
 		</td>
 		<td>No Company</td>
@@ -9807,7 +9809,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jevakallio">
 				<img src="https://avatars.githubusercontent.com/u/1203949?s=72&u=f51817e8ff8468a3c50b6536de787ca7738d8db7&v=4" width="24" alt="Avatar of jevakallio"> jevakallio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jevakallio">Copy rank badge</a><br/>
 			Jani Eväkallio
 		</td>
 		<td>No Company</td>
@@ -9820,7 +9822,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ButchersBoy">
 				<img src="https://avatars.githubusercontent.com/u/658107?s=72&u=c69acd3fdb526e8d088a19f6834033678d958744&v=4" width="24" alt="Avatar of ButchersBoy"> ButchersBoy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ButchersBoy">Copy rank badge</a><br/>
 			James Willock
 		</td>
 		<td>Mulholland Software Ltd </td>
@@ -9833,7 +9835,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/gustavopezzi">
 				<img src="https://avatars.githubusercontent.com/u/7724607?s=72&u=f57995bf5cddfcdb5f11f34888a9c934ff90f9a8&v=4" width="24" alt="Avatar of gustavopezzi"> gustavopezzi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#gustavopezzi">Copy rank badge</a><br/>
 			Gustavo Pezzi
 		</td>
 		<td>Pikuma.com </td>
@@ -9846,7 +9848,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/snowkylin">
 				<img src="https://avatars.githubusercontent.com/u/9656107?s=72&u=94150e54446b559d9c8b9da3b653cb55b4e65ae4&v=4" width="24" alt="Avatar of snowkylin"> snowkylin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#snowkylin">Copy rank badge</a><br/>
 			Xihan Li
 		</td>
 		<td>University College London </td>
@@ -9859,7 +9861,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/iassael">
 				<img src="https://avatars.githubusercontent.com/u/216211?s=72&u=52e4429ac6db432677480a6129748fb6e5350b85&v=4" width="24" alt="Avatar of iassael"> iassael
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#iassael">Copy rank badge</a><br/>
 			Yannis Assael
 		</td>
 		<td>Google Deepmind </td>
@@ -9872,7 +9874,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/elliotforbes">
 				<img src="https://avatars.githubusercontent.com/u/3332224?s=72&u=fd3dd1dc2bfadec2d52aac870279b6cd1ef47bde&v=4" width="24" alt="Avatar of elliotforbes"> elliotforbes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#elliotforbes">Copy rank badge</a><br/>
 			Elliot Forbes
 		</td>
 		<td>@tutorialedge </td>
@@ -9885,7 +9887,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Archakov06">
 				<img src="https://avatars.githubusercontent.com/u/12086860?s=72&u=63fd2ee0d62ba707ee850b456acd942cf0cd00d9&v=4" width="24" alt="Avatar of Archakov06"> Archakov06
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Archakov06">Copy rank badge</a><br/>
 			Archakov Dennis
 		</td>
 		<td>No Company</td>
@@ -9898,7 +9900,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ArefMq">
 				<img src="https://avatars.githubusercontent.com/u/10897992?s=72&u=129cdb54c188f12bb7472e7470858f4da776aea2&v=4" width="24" alt="Avatar of ArefMq"> ArefMq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ArefMq">Copy rank badge</a><br/>
 			Aref Mehr
 		</td>
 		<td>@aeguana </td>
@@ -9911,7 +9913,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ixahmedxi">
 				<img src="https://avatars.githubusercontent.com/u/20271968?s=72&u=ab95f47bb661569e9b4ab1dadfdb802b77f9d1c6&v=4" width="24" alt="Avatar of ixahmedxi"> ixahmedxi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ixahmedxi">Copy rank badge</a><br/>
 			Ahmed Elsakaan
 		</td>
 		<td>No Company</td>
@@ -9924,7 +9926,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/cyberglot">
 				<img src="https://avatars.githubusercontent.com/u/609862?s=72&u=3705e27c21cfc353b2d330c898a8556acf140480&v=4" width="24" alt="Avatar of cyberglot"> cyberglot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#cyberglot">Copy rank badge</a><br/>
 			april
 		</td>
 		<td>No Company</td>
@@ -9937,7 +9939,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/oleganza">
 				<img src="https://avatars.githubusercontent.com/u/698?s=72&u=d80f94b0b57d581fad30a6740348c22db9fd01ed&v=4" width="24" alt="Avatar of oleganza"> oleganza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#oleganza">Copy rank badge</a><br/>
 			Oleg Andreev
 		</td>
 		<td>Andreev & Co </td>
@@ -9950,7 +9952,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/sanchit-gandhi">
 				<img src="https://avatars.githubusercontent.com/u/93869735?s=72&u=42046fb799e6cbe5b98e54872d55c9cf8d63b3bc&v=4" width="24" alt="Avatar of sanchit-gandhi"> sanchit-gandhi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#sanchit-gandhi">Copy rank badge</a><br/>
 			Sanchit Gandhi
 		</td>
 		<td>@mistralai </td>
@@ -9963,7 +9965,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/chidiwilliams">
 				<img src="https://avatars.githubusercontent.com/u/17879672?s=72&u=aca9038931e8baf6600a49425f2c79d4a0607640&v=4" width="24" alt="Avatar of chidiwilliams"> chidiwilliams
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#chidiwilliams">Copy rank badge</a><br/>
 			Chidi Williams
 		</td>
 		<td>No Company</td>
@@ -9976,7 +9978,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/BohdanOrlov">
 				<img src="https://avatars.githubusercontent.com/u/6740223?s=72&u=988be8d38e363ad70050deb858d3f4267756d96d&v=4" width="24" alt="Avatar of BohdanOrlov"> BohdanOrlov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#BohdanOrlov">Copy rank badge</a><br/>
 			Bohdan Orlov
 		</td>
 		<td>No Company</td>
@@ -9989,7 +9991,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/daviddarnes">
 				<img src="https://avatars.githubusercontent.com/u/1177460?s=72&u=6365e1c551e825213a7b0ec053b1fdb8236e2367&v=4" width="24" alt="Avatar of daviddarnes"> daviddarnes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#daviddarnes">Copy rank badge</a><br/>
 			David Darnes
 		</td>
 		<td>@shopify </td>
@@ -10002,7 +10004,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tomstuart">
 				<img src="https://avatars.githubusercontent.com/u/3192?s=72&v=4" width="24" alt="Avatar of tomstuart"> tomstuart
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tomstuart">Copy rank badge</a><br/>
 			Tom Stuart
 		</td>
 		<td>No Company</td>
@@ -10015,7 +10017,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/vi3k6i5">
 				<img src="https://avatars.githubusercontent.com/u/3116482?s=72&u=719ffe5e251e373b80b9e248fea7b65e22ae1291&v=4" width="24" alt="Avatar of vi3k6i5"> vi3k6i5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#vi3k6i5">Copy rank badge</a><br/>
 			Vikash Singh
 		</td>
 		<td>Google </td>
@@ -10028,7 +10030,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/pierrenel">
 				<img src="https://avatars.githubusercontent.com/u/26219?s=72&v=4" width="24" alt="Avatar of pierrenel"> pierrenel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#pierrenel">Copy rank badge</a><br/>
 			Pierre Nel
 		</td>
 		<td>Freelance Web Developer /<br/>Designer<br/></td>
@@ -10041,7 +10043,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/danharper">
 				<img src="https://avatars.githubusercontent.com/u/510740?s=72&u=ec218dd496096664b8aee032129c5cac054b5829&v=4" width="24" alt="Avatar of danharper"> danharper
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#danharper">Copy rank badge</a><br/>
 			Dan Harper
 		</td>
 		<td>@facebook </td>
@@ -10054,7 +10056,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/munnerz">
 				<img src="https://avatars.githubusercontent.com/u/203583?s=72&u=5ba258af9306121030337a0ca0c4ef29500e3056&v=4" width="24" alt="Avatar of munnerz"> munnerz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#munnerz">Copy rank badge</a><br/>
 			James Munnelly
 		</td>
 		<td>Apple </td>
@@ -10067,7 +10069,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ossanna16">
 				<img src="https://avatars.githubusercontent.com/u/8700795?s=72&u=a0e44991c4b84674f5527fc645624b4b32a09d0b&v=4" width="24" alt="Avatar of ossanna16"> ossanna16
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ossanna16">Copy rank badge</a><br/>
 			Anna Ossowski
 		</td>
 		<td>No Company</td>
@@ -10080,7 +10082,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/rande">
 				<img src="https://avatars.githubusercontent.com/u/14672?s=72&u=e656d9eeb2d8640e3f3e545d545236ec3b5815ad&v=4" width="24" alt="Avatar of rande"> rande
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#rande">Copy rank badge</a><br/>
 			Thomas
 		</td>
 		<td>Carmignac </td>
@@ -10093,7 +10095,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/blahah">
 				<img src="https://avatars.githubusercontent.com/u/836040?s=72&u=c3d8757babc9182f81541b7d387d3b4261821a55&v=4" width="24" alt="Avatar of blahah"> blahah
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#blahah">Copy rank badge</a><br/>
 			Rik Smith-Unna
 		</td>
 		<td>Upward Spiral ∞⟨x∴↯⟩∞ <br/></td>
@@ -10106,7 +10108,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mayokunadeniyi">
 				<img src="https://avatars.githubusercontent.com/u/29807085?s=72&v=4" width="24" alt="Avatar of mayokunadeniyi"> mayokunadeniyi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mayokunadeniyi">Copy rank badge</a><br/>
 			Mayokun Adeniyi
 		</td>
 		<td>No Company</td>
@@ -10119,7 +10121,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/isaacabraham">
 				<img src="https://avatars.githubusercontent.com/u/1781813?s=72&u=c938bdebef2ab65297032a7143fcb7dd80a344b3&v=4" width="24" alt="Avatar of isaacabraham"> isaacabraham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#isaacabraham">Copy rank badge</a><br/>
 			Isaac Abraham
 		</td>
 		<td>No Company</td>
@@ -10132,7 +10134,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/fiebrink1">
 				<img src="https://avatars.githubusercontent.com/u/2565617?s=72&v=4" width="24" alt="Avatar of fiebrink1"> fiebrink1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#fiebrink1">Copy rank badge</a><br/>
 			Rebecca Fiebrink
 		</td>
 		<td>Goldsmiths University Of London<br/></td>
@@ -10145,7 +10147,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/RiccardoAncarani">
 				<img src="https://avatars.githubusercontent.com/u/20563462?s=72&u=0e510a296665c0ceb47bf640df9ac15a60ee9daf&v=4" width="24" alt="Avatar of RiccardoAncarani"> RiccardoAncarani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#RiccardoAncarani">Copy rank badge</a><br/>
 			Riccardo Ancarani
 		</td>
 		<td>Withsecure </td>
@@ -10158,7 +10160,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/nickbutcher">
 				<img src="https://avatars.githubusercontent.com/u/352556?s=72&u=4c1ac7af0e0164029f36f8ecf262f3920d2e7b4f&v=4" width="24" alt="Avatar of nickbutcher"> nickbutcher
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#nickbutcher">Copy rank badge</a><br/>
 			Nick Butcher
 		</td>
 		<td>@google </td>
@@ -10171,7 +10173,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/benanne">
 				<img src="https://avatars.githubusercontent.com/u/43829?s=72&v=4" width="24" alt="Avatar of benanne"> benanne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#benanne">Copy rank badge</a><br/>
 			Sander Dieleman
 		</td>
 		<td>Google Deepmind </td>
@@ -10184,7 +10186,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/AnaisUrlichs">
 				<img src="https://avatars.githubusercontent.com/u/33576047?s=72&u=78ad1f354924b7a5fd73614231ae6a2d84f905ac&v=4" width="24" alt="Avatar of AnaisUrlichs"> AnaisUrlichs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#AnaisUrlichs">Copy rank badge</a><br/>
 			Anais Urlichs
 		</td>
 		<td>No Company</td>
@@ -10197,7 +10199,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/scottyab">
 				<img src="https://avatars.githubusercontent.com/u/404105?s=72&u=9ad66f64f7211d5a81074cfe2692edd8b735acc6&v=4" width="24" alt="Avatar of scottyab"> scottyab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#scottyab">Copy rank badge</a><br/>
 			Scott Alexander-Bown
 		</td>
 		<td>Scottyab </td>
@@ -10210,7 +10212,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Rigellute">
 				<img src="https://avatars.githubusercontent.com/u/12150276?s=72&u=354519242a389b3def42a4cefa7209e78d00e836&v=4" width="24" alt="Avatar of Rigellute"> Rigellute
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Rigellute">Copy rank badge</a><br/>
 			Alexander Keliris
 		</td>
 		<td>Keliris Consulting </td>
@@ -10223,7 +10225,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/girikuncoro">
 				<img src="https://avatars.githubusercontent.com/u/3192347?s=72&u=7d542bd186112b6be05e4e27db9691a06b052098&v=4" width="24" alt="Avatar of girikuncoro"> girikuncoro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#girikuncoro">Copy rank badge</a><br/>
 			Giri Kuncoro
 		</td>
 		<td>Xai </td>
@@ -10236,7 +10238,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/rnicoll">
 				<img src="https://avatars.githubusercontent.com/u/3513077?s=72&u=9c3a568854478a46b14965facf375e926f0532e3&v=4" width="24" alt="Avatar of rnicoll"> rnicoll
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#rnicoll">Copy rank badge</a><br/>
 			Ross Nicoll
 		</td>
 		<td>No Company</td>
@@ -10249,7 +10251,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mcintyre321">
 				<img src="https://avatars.githubusercontent.com/u/275706?s=72&v=4" width="24" alt="Avatar of mcintyre321"> mcintyre321
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mcintyre321">Copy rank badge</a><br/>
 			Harry McIntyre
 		</td>
 		<td>No Company</td>
@@ -10262,7 +10264,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/rgommezz">
 				<img src="https://avatars.githubusercontent.com/u/4982414?s=72&u=299a23dfdd11a5a7ab174d7315834c9a1ac9aa58&v=4" width="24" alt="Avatar of rgommezz"> rgommezz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#rgommezz">Copy rank badge</a><br/>
 			Raúl Gómez
 		</td>
 		<td>No Company</td>
@@ -10275,7 +10277,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ozancaglayan">
 				<img src="https://avatars.githubusercontent.com/u/330946?s=72&u=f40447b98cebcec898e0d9ac8986b7c482aa3d33&v=4" width="24" alt="Avatar of ozancaglayan"> ozancaglayan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ozancaglayan">Copy rank badge</a><br/>
 			Ozan Caglayan
 		</td>
 		<td>No Company</td>
@@ -10288,7 +10290,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/leoasis">
 				<img src="https://avatars.githubusercontent.com/u/328001?s=72&v=4" width="24" alt="Avatar of leoasis"> leoasis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#leoasis">Copy rank badge</a><br/>
 			Leonardo Garcia Crespo
 		</td>
 		<td>Classdojo </td>
@@ -10301,7 +10303,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/15923-ORIX">
 				<img src="https://avatars.githubusercontent.com/u/123633802?s=72&u=3e9d4bf866665fb96d8b2e05d3c95515ddf0af88&v=4" width="24" alt="Avatar of 15923-ORIX"> 15923-ORIX
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#15923-ORIX">Copy rank badge</a><br/>
 			神山啓史
 		</td>
 		<td>糸井hd </td>
@@ -10314,7 +10316,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/meiamsome">
 				<img src="https://avatars.githubusercontent.com/u/1187491?s=72&u=6670cbd0e189af2d3ef5bdbab85a367b5caed3d3&v=4" width="24" alt="Avatar of meiamsome"> meiamsome
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#meiamsome">Copy rank badge</a><br/>
 			Oliver Wright
 		</td>
 		<td>No Company</td>
@@ -10327,7 +10329,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/abhikmitra">
 				<img src="https://avatars.githubusercontent.com/u/4750072?s=72&u=3a65b5040c804b448d035707698ce7e74a70b84c&v=4" width="24" alt="Avatar of abhikmitra"> abhikmitra
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#abhikmitra">Copy rank badge</a><br/>
 			Abhik Mitra
 		</td>
 		<td>Meta Platforms </td>
@@ -10340,7 +10342,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/florina-muntenescu">
 				<img src="https://avatars.githubusercontent.com/u/2998890?s=72&u=0e733f8129764e2ce7f9ac17e7f106313093a8ea&v=4" width="24" alt="Avatar of florina-muntenescu"> florina-muntenescu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#florina-muntenescu">Copy rank badge</a><br/>
 			Florina Muntenescu
 		</td>
 		<td>Google </td>
@@ -10353,7 +10355,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/edankwan">
 				<img src="https://avatars.githubusercontent.com/u/989103?s=72&u=a0185a8081fdc0bfac0226b4cd0cdb5d7d84f29e&v=4" width="24" alt="Avatar of edankwan"> edankwan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#edankwan">Copy rank badge</a><br/>
 			Edan Kwan
 		</td>
 		<td>@lusionltd </td>
@@ -10366,7 +10368,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/a7v8x">
 				<img src="https://avatars.githubusercontent.com/u/17754178?s=72&u=6a09af361a29e8909aafe8c61c8a3b1914515910&v=4" width="24" alt="Avatar of a7v8x"> a7v8x
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#a7v8x">Copy rank badge</a><br/>
 			David Mraz
 		</td>
 		<td>@atherosai  </td>
@@ -10379,7 +10381,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/epinna">
 				<img src="https://avatars.githubusercontent.com/u/1578960?s=72&u=963600630b2bd344438e53e626b8604139180a8d&v=4" width="24" alt="Avatar of epinna"> epinna
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#epinna">Copy rank badge</a><br/>
 			Emilio
 		</td>
 		<td>No Company</td>
@@ -10392,7 +10394,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/shubheksha">
 				<img src="https://avatars.githubusercontent.com/u/7693422?s=72&u=4fce35cff2e0bc49df836286a8f406370e6de85e&v=4" width="24" alt="Avatar of shubheksha"> shubheksha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#shubheksha">Copy rank badge</a><br/>
 			Shubheksha
 		</td>
 		<td>No Company</td>
@@ -10405,7 +10407,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/yannickl">
 				<img src="https://avatars.githubusercontent.com/u/798235?s=72&u=4b1702ffd26040020b0d15d5b6f2437656ec9379&v=4" width="24" alt="Avatar of yannickl"> yannickl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#yannickl">Copy rank badge</a><br/>
 			Yannick Loriot
 		</td>
 		<td>Facebook </td>
@@ -10418,7 +10420,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/nataliemarleny">
 				<img src="https://avatars.githubusercontent.com/u/31798108?s=72&u=d8570318adc3e5fab7ed5d228d2f57d2f7f4e632&v=4" width="24" alt="Avatar of nataliemarleny"> nataliemarleny
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#nataliemarleny">Copy rank badge</a><br/>
 			Natalie Marleny
 		</td>
 		<td>No Company</td>
@@ -10431,7 +10433,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/stuartpittaway">
 				<img src="https://avatars.githubusercontent.com/u/1201909?s=72&u=501db4f8f3ea698d18563a54f558303e25655040&v=4" width="24" alt="Avatar of stuartpittaway"> stuartpittaway
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#stuartpittaway">Copy rank badge</a><br/>
 			Stuart Pittaway
 		</td>
 		<td>No Company</td>
@@ -10444,7 +10446,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/davidADSP">
 				<img src="https://avatars.githubusercontent.com/u/22745344?s=72&v=4" width="24" alt="Avatar of davidADSP"> davidADSP
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#davidADSP">Copy rank badge</a><br/>
 			David Foster
 		</td>
 		<td>Applied Data Science Partners<br/></td>
@@ -10457,7 +10459,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/andyshora">
 				<img src="https://avatars.githubusercontent.com/u/274326?s=72&u=1a2e44d8d515bfbf4fe1e23444fe854233fe734e&v=4" width="24" alt="Avatar of andyshora"> andyshora
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#andyshora">Copy rank badge</a><br/>
 			Andy Shora
 		</td>
 		<td>Twenty First Group </td>
@@ -10470,7 +10472,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/LloydLabs">
 				<img src="https://avatars.githubusercontent.com/u/21321186?s=72&u=7e03068aa968ad63dd4e261d25d80e6e23402cea&v=4" width="24" alt="Avatar of LloydLabs"> LloydLabs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#LloydLabs">Copy rank badge</a><br/>
 			Lloyd Davies
 		</td>
 		<td>No Company</td>
@@ -10483,7 +10485,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/dwijnand">
 				<img src="https://avatars.githubusercontent.com/u/344610?s=72&u=e620300a97e79cdb29b3b8793d27d2e9649178e5&v=4" width="24" alt="Avatar of dwijnand"> dwijnand
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#dwijnand">Copy rank badge</a><br/>
 			Dale Wijnand
 		</td>
 		<td>@lightbend </td>
@@ -10496,7 +10498,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/TomPallister">
 				<img src="https://avatars.githubusercontent.com/u/5716716?s=72&u=325a12fbf3969d89588c666e0a6513e6d1e0bb4d&v=4" width="24" alt="Avatar of TomPallister"> TomPallister
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#TomPallister">Copy rank badge</a><br/>
 			Tom Pallister
 		</td>
 		<td>Threemammals </td>
@@ -10509,7 +10511,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/nerdsupremacist">
 				<img src="https://avatars.githubusercontent.com/u/13184158?s=72&u=489062121dff6feff4e75397f6cd3c5dc5226bfd&v=4" width="24" alt="Avatar of nerdsupremacist"> nerdsupremacist
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#nerdsupremacist">Copy rank badge</a><br/>
 			Mathias Quintero
 		</td>
 		<td>@facebook Prev @jetbrains </td>
@@ -10522,7 +10524,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/rafaelaazevedo">
 				<img src="https://avatars.githubusercontent.com/u/4616919?s=72&v=4" width="24" alt="Avatar of rafaelaazevedo"> rafaelaazevedo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#rafaelaazevedo">Copy rank badge</a><br/>
 			Rafaela Azevedo
 		</td>
 		<td>The Chaincademy </td>
@@ -10535,7 +10537,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/jgilfelt">
 				<img src="https://avatars.githubusercontent.com/u/175697?s=72&v=4" width="24" alt="Avatar of jgilfelt"> jgilfelt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#jgilfelt">Copy rank badge</a><br/>
 			Jeff Gilfelt
 		</td>
 		<td>Readystate Software Ltd </td>
@@ -10548,7 +10550,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/soulwire">
 				<img src="https://avatars.githubusercontent.com/u/346311?s=72&u=9e4b499669ed605357943c4573e799b6ddc48618&v=4" width="24" alt="Avatar of soulwire"> soulwire
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#soulwire">Copy rank badge</a><br/>
 			Justin Windle
 		</td>
 		<td>No Company</td>
@@ -10561,7 +10563,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/DmitryUlyanov">
 				<img src="https://avatars.githubusercontent.com/u/6727524?s=72&u=3e2205b795d13ea6fa9165b92fb22d8e14bdef24&v=4" width="24" alt="Avatar of DmitryUlyanov"> DmitryUlyanov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#DmitryUlyanov">Copy rank badge</a><br/>
 			Dmitry Ulyanov
 		</td>
 		<td>No Company</td>
@@ -10574,7 +10576,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/MicheleBertoli">
 				<img src="https://avatars.githubusercontent.com/u/1308971?s=72&u=07c3666f35943010671a32b3d15957a54c8a1670&v=4" width="24" alt="Avatar of MicheleBertoli"> MicheleBertoli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#MicheleBertoli">Copy rank badge</a><br/>
 			Michele Bertoli
 		</td>
 		<td>@enode </td>
@@ -10587,7 +10589,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/scottbrady91">
 				<img src="https://avatars.githubusercontent.com/u/5598125?s=72&u=bc5769c15c4f01191314a33b80da38adb9ea3bfe&v=4" width="24" alt="Avatar of scottbrady91"> scottbrady91
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#scottbrady91">Copy rank badge</a><br/>
 			Scott Brady
 		</td>
 		<td>No Company</td>
@@ -10600,7 +10602,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/gontovnik">
 				<img src="https://avatars.githubusercontent.com/u/3436659?s=72&u=da36fc0d11cea04d5a992103092a6f80a73da1ab&v=4" width="24" alt="Avatar of gontovnik"> gontovnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#gontovnik">Copy rank badge</a><br/>
 			Danil Gontovnik
 		</td>
 		<td>No Company</td>
@@ -10613,7 +10615,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/benoitgrelard">
 				<img src="https://avatars.githubusercontent.com/u/1539897?s=72&u=7319a60ff97b985a1e273d43bf08fdf4b11deffd&v=4" width="24" alt="Avatar of benoitgrelard"> benoitgrelard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#benoitgrelard">Copy rank badge</a><br/>
 			Benoît Grélard
 		</td>
 		<td>No Company</td>
@@ -10626,7 +10628,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/bhargavvader">
 				<img src="https://avatars.githubusercontent.com/u/8374816?s=72&u=4626854415c819489fa87e6bd5bc49015fff548f&v=4" width="24" alt="Avatar of bhargavvader"> bhargavvader
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#bhargavvader">Copy rank badge</a><br/>
 			Bhargav Srinivasa Desikan
 		</td>
 		<td>Autonomy Institute </td>
@@ -10639,7 +10641,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/lorenmt">
 				<img src="https://avatars.githubusercontent.com/u/6267679?s=72&u=02786a68d6d6f1af31393b442e72fc42bbcee771&v=4" width="24" alt="Avatar of lorenmt"> lorenmt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#lorenmt">Copy rank badge</a><br/>
 			Shikun Liu
 		</td>
 		<td>Google Deepmind </td>
@@ -10652,7 +10654,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/mattheath">
 				<img src="https://avatars.githubusercontent.com/u/181548?s=72&u=b2ebc850fe4fcb87079f495ee256f18c81a8d35f&v=4" width="24" alt="Avatar of mattheath"> mattheath
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#mattheath">Copy rank badge</a><br/>
 			Matt Heath
 		</td>
 		<td>No Company</td>
@@ -10665,7 +10667,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/danlark1">
 				<img src="https://avatars.githubusercontent.com/u/15173761?s=72&v=4" width="24" alt="Avatar of danlark1"> danlark1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#danlark1">Copy rank badge</a><br/>
 			Daniel Kutenin
 		</td>
 		<td>No Company</td>
@@ -10678,7 +10680,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/perfectmak">
 				<img src="https://avatars.githubusercontent.com/u/3120013?s=72&u=f02d697abf0de2ec6986fb834c2ba7141f6f6670&v=4" width="24" alt="Avatar of perfectmak"> perfectmak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#perfectmak">Copy rank badge</a><br/>
 			Perfect Makanju
 		</td>
 		<td>@monzo </td>
@@ -10691,7 +10693,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/doppioslash">
 				<img src="https://avatars.githubusercontent.com/u/508324?s=72&v=4" width="24" alt="Avatar of doppioslash"> doppioslash
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#doppioslash">Copy rank badge</a><br/>
 			Claudia Doppioslash
 		</td>
 		<td>No Company</td>
@@ -10704,7 +10706,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/santinic">
 				<img src="https://avatars.githubusercontent.com/u/179558?s=72&u=c56e5ee756bb1204f8294ee4b8e1157e94e39785&v=4" width="24" alt="Avatar of santinic"> santinic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#santinic">Copy rank badge</a><br/>
 			Claudio Santini
 		</td>
 		<td>No Company</td>
@@ -10717,7 +10719,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/robertjoosten">
 				<img src="https://avatars.githubusercontent.com/u/31790557?s=72&u=1f5fb42d67bfa2bed264b36b2d56ca67584bbfd5&v=4" width="24" alt="Avatar of robertjoosten"> robertjoosten
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#robertjoosten">Copy rank badge</a><br/>
 			Robert Joosten
 		</td>
 		<td>No Company</td>
@@ -10730,7 +10732,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/KyleBanks">
 				<img src="https://avatars.githubusercontent.com/u/2164691?s=72&u=50f9bea4175cd790d108088bd404b751b553323e&v=4" width="24" alt="Avatar of KyleBanks"> KyleBanks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#KyleBanks">Copy rank badge</a><br/>
 			Kyle Banks
 		</td>
 		<td>No Company</td>
@@ -10743,7 +10745,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/cararthompson">
 				<img src="https://avatars.githubusercontent.com/u/14091282?s=72&u=129f525e849b9b35aeda27fa7b9eebcf79322fe7&v=4" width="24" alt="Avatar of cararthompson"> cararthompson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#cararthompson">Copy rank badge</a><br/>
 			Cara Thompson
 		</td>
 		<td>Building Stories With Data<br/></td>
@@ -10756,7 +10758,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/alexrozanski">
 				<img src="https://avatars.githubusercontent.com/u/170472?s=72&u=2a5a089301788d1c00aa44905b95092aa10fe582&v=4" width="24" alt="Avatar of alexrozanski"> alexrozanski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#alexrozanski">Copy rank badge</a><br/>
 			Alex Rozanski
 		</td>
 		<td>No Company</td>
@@ -10769,7 +10771,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/geftimov">
 				<img src="https://avatars.githubusercontent.com/u/2619500?s=72&u=f8463fc0a50eae4c23e1b8059c2a7ad758c22afc&v=4" width="24" alt="Avatar of geftimov"> geftimov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#geftimov">Copy rank badge</a><br/>
 			Georgi Eftimov
 		</td>
 		<td>The App Business </td>
@@ -10782,7 +10784,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/davem330">
 				<img src="https://avatars.githubusercontent.com/u/1053866?s=72&u=e7a17fe2fd2d92c6e18e50b0bc6296546267dafb&v=4" width="24" alt="Avatar of davem330"> davem330
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#davem330">Copy rank badge</a><br/>
 			David S. Miller
 		</td>
 		<td>Red Hat Inc. </td>
@@ -10795,7 +10797,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/TerryCavanagh">
 				<img src="https://avatars.githubusercontent.com/u/2874150?s=72&u=2325ff81490e5ef5414e294191696083d50fd234&v=4" width="24" alt="Avatar of TerryCavanagh"> TerryCavanagh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#TerryCavanagh">Copy rank badge</a><br/>
 			Terry Cavanagh
 		</td>
 		<td>No Company</td>
@@ -10808,7 +10810,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/eddyerburgh">
 				<img src="https://avatars.githubusercontent.com/u/13196123?s=72&u=25722014f804d55593ecc38473169de909a2c091&v=4" width="24" alt="Avatar of eddyerburgh"> eddyerburgh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#eddyerburgh">Copy rank badge</a><br/>
 			Edward Yerburgh
 		</td>
 		<td>@facebook </td>
@@ -10821,7 +10823,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/everzet">
 				<img src="https://avatars.githubusercontent.com/u/30813?s=72&v=4" width="24" alt="Avatar of everzet"> everzet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#everzet">Copy rank badge</a><br/>
 			Konstantin Kudryashov
 		</td>
 		<td>No Company</td>
@@ -10834,7 +10836,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/akinsho">
 				<img src="https://avatars.githubusercontent.com/u/22454918?s=72&u=5f6cde488c2f8f44af9f27928cfa5f5e0f3b02f9&v=4" width="24" alt="Avatar of akinsho"> akinsho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#akinsho">Copy rank badge</a><br/>
 			Akin
 		</td>
 		<td>No Company</td>
@@ -10847,7 +10849,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/kevalpatel2106">
 				<img src="https://avatars.githubusercontent.com/u/20060162?s=72&u=d9feb1907e0d26a02297c5bdc43639444d0c5419&v=4" width="24" alt="Avatar of kevalpatel2106"> kevalpatel2106
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#kevalpatel2106">Copy rank badge</a><br/>
 			Keval Patel
 		</td>
 		<td>@monzo </td>
@@ -10860,7 +10862,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ssbostan">
 				<img src="https://avatars.githubusercontent.com/u/49065072?s=72&u=7386f8d6cafe9c2f6c505c8c9af0a7e55a1ef819&v=4" width="24" alt="Avatar of ssbostan"> ssbostan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ssbostan">Copy rank badge</a><br/>
 			Saeid Bostandoust
 		</td>
 		<td>No Company</td>
@@ -10873,7 +10875,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Hassaan68">
 				<img src="https://avatars.githubusercontent.com/u/35756574?s=72&u=d7d786b6f3a7e33a7cc29e0a4a2556391cf6cd7e&v=4" width="24" alt="Avatar of Hassaan68"> Hassaan68
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Hassaan68">Copy rank badge</a><br/>
 			Muhammad Hassaan
 		</td>
 		<td>Prevayl </td>
@@ -10886,7 +10888,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/tef">
 				<img src="https://avatars.githubusercontent.com/u/56231?s=72&u=d8eaf727f46dbb9554d7f699b46f0225e2a8c87c&v=4" width="24" alt="Avatar of tef"> tef
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#tef">Copy rank badge</a><br/>
 			tef
 		</td>
 		<td>No Company</td>
@@ -10899,7 +10901,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/albanie">
 				<img src="https://avatars.githubusercontent.com/u/4395064?s=72&u=12cdfc6500b43fd12e4dc821b7bbfc4d7c1c3d7f&v=4" width="24" alt="Avatar of albanie"> albanie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#albanie">Copy rank badge</a><br/>
 			Samuel
 		</td>
 		<td>No Company</td>
@@ -10912,7 +10914,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Treeki">
 				<img src="https://avatars.githubusercontent.com/u/228195?s=72&u=05c3fcd4866ba71108eb066817f9277988148d2a&v=4" width="24" alt="Avatar of Treeki"> Treeki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Treeki">Copy rank badge</a><br/>
 			Ash Wolf
 		</td>
 		<td>No Company</td>
@@ -10925,7 +10927,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/abbot">
 				<img src="https://avatars.githubusercontent.com/u/5857?s=72&v=4" width="24" alt="Avatar of abbot"> abbot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#abbot">Copy rank badge</a><br/>
 			Lev Shamardin
 		</td>
 		<td>Google Uk Ltd. </td>
@@ -10938,7 +10940,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/vinnypessoni">
 				<img src="https://avatars.githubusercontent.com/u/42012760?s=72&u=a125484b2e35d7d25786dabfc90b41c93194f6b0&v=4" width="24" alt="Avatar of vinnypessoni"> vinnypessoni
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#vinnypessoni">Copy rank badge</a><br/>
 			Vinny Pessoni | @Pessonizando | Tester Global 
 		</td>
 		<td>Https://instagram.co </td>
@@ -10951,7 +10953,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/wilsonpage">
 				<img src="https://avatars.githubusercontent.com/u/1020551?s=72&u=9bfa1e13e34bf212aabaa3b9ea71b57a741251e2&v=4" width="24" alt="Avatar of wilsonpage"> wilsonpage
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#wilsonpage">Copy rank badge</a><br/>
 			Wilson Page
 		</td>
 		<td>No Company</td>
@@ -10964,7 +10966,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/amyeroberts">
 				<img src="https://avatars.githubusercontent.com/u/22614925?s=72&u=c684d45dacaee5dfb6147e538d5adf731b055f98&v=4" width="24" alt="Avatar of amyeroberts"> amyeroberts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#amyeroberts">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Hugging Face </td>
@@ -10977,7 +10979,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/wvangansbeke">
 				<img src="https://avatars.githubusercontent.com/u/9694230?s=72&u=d3ca6e008840c2c566e3944bed5fd483a5454cbd&v=4" width="24" alt="Avatar of wvangansbeke"> wvangansbeke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#wvangansbeke">Copy rank badge</a><br/>
 			Wouter Van Gansbeke
 		</td>
 		<td>Google Deepmind </td>
@@ -10990,7 +10992,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/yaili">
 				<img src="https://avatars.githubusercontent.com/u/223966?s=72&u=e5f981af06870f435972cb8c4e9e2a9a236d4bab&v=4" width="24" alt="Avatar of yaili"> yaili
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#yaili">Copy rank badge</a><br/>
 			Inayaili León
 		</td>
 		<td>No Company</td>
@@ -11003,7 +11005,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/OlayinkaAtobiloye">
 				<img src="https://avatars.githubusercontent.com/u/69689414?s=72&u=d6fc431f1e3f2961714ae3cd63874156291390cf&v=4" width="24" alt="Avatar of OlayinkaAtobiloye"> OlayinkaAtobiloye
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#OlayinkaAtobiloye">Copy rank badge</a><br/>
 			Olayinka Atobiloye
 		</td>
 		<td>Soft Girl </td>
@@ -11016,7 +11018,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Euclid556">
 				<img src="https://avatars.githubusercontent.com/u/86713709?s=72&v=4" width="24" alt="Avatar of Euclid556"> Euclid556
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Euclid556">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -11029,7 +11031,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/fabianishere">
 				<img src="https://avatars.githubusercontent.com/u/767351?s=72&u=362ae8174e75c1735509a389b0c94d931a646f5c&v=4" width="24" alt="Avatar of fabianishere"> fabianishere
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#fabianishere">Copy rank badge</a><br/>
 			Fabian Mastenbroek
 		</td>
 		<td>@facebook </td>
@@ -11042,7 +11044,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/Miffyli">
 				<img src="https://avatars.githubusercontent.com/u/1633800?s=72&u=91412fb06cb2e90fbcb91406f894a66d54d83588&v=4" width="24" alt="Avatar of Miffyli"> Miffyli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#Miffyli">Copy rank badge</a><br/>
 			Anssi
 		</td>
 		<td>@facebookresearch </td>
@@ -11055,7 +11057,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/nklayman">
 				<img src="https://avatars.githubusercontent.com/u/12448243?s=72&u=2311d53e2a6f674e6a727131d8875cf110438cc8&v=4" width="24" alt="Avatar of nklayman"> nklayman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#nklayman">Copy rank badge</a><br/>
 			Noah Klayman
 		</td>
 		<td>Hudson River Trading </td>
@@ -11068,7 +11070,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/teocomi">
 				<img src="https://avatars.githubusercontent.com/u/2679513?s=72&v=4" width="24" alt="Avatar of teocomi"> teocomi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#teocomi">Copy rank badge</a><br/>
 			Matteo Cominetti
 		</td>
 		<td>Speckle </td>
@@ -11081,7 +11083,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/rrijal53">
 				<img src="https://avatars.githubusercontent.com/u/9145217?s=72&u=b8c3caf3dcaf9d773ca0281d5c76c80a651698db&v=4" width="24" alt="Avatar of rrijal53"> rrijal53
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#rrijal53">Copy rank badge</a><br/>
 			Roshan Rijal
 		</td>
 		<td>No Company</td>
@@ -11094,7 +11096,7 @@ There are `953 users`  in United Kingdom. You need at least `266 followers` to b
 		<td>
 			<a href="https://github.com/ArunMichaelDsouza">
 				<img src="https://avatars.githubusercontent.com/u/4924614?s=72&u=db12783df51b404ac9badd736e94e8be3784ee14&v=4" width="24" alt="Avatar of ArunMichaelDsouza"> ArunMichaelDsouza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_kingdom.md#ArunMichaelDsouza">Copy rank badge</a><br/>
 			Arun Michael Dsouza
 		</td>
 		<td>@mapbox </td>
