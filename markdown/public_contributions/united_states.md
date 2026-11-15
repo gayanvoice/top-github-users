@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States">
 </a>
 
-The `public contributions` by users in United States on `2026/7/14 2:10 AM UTC`. This list contains users from `United States` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Austin` `Seattle`.
+The `public contributions` by users in United States on `2026/11/15 4:33 AM UTC`. This list contains users from `United States` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Austin` `Seattle`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `891 users`  in United States. You need at least `620 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [United States GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -109,7 +111,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/zhaoolee">
 				<img src="https://avatars.githubusercontent.com/u/15868458?s=72&u=aa3a39fdb2c4a16abeb527f343ab7909d10e1b4e&v=4" width="24" alt="Avatar of zhaoolee"> zhaoolee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#zhaoolee">Copy rank badge</a><br/>
 			zhaoolee
 		</td>
 		<td>Kingsware </td>
@@ -122,7 +124,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/brianchandotcom">
 				<img src="https://avatars.githubusercontent.com/u/282080?s=72&v=4" width="24" alt="Avatar of brianchandotcom"> brianchandotcom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#brianchandotcom">Copy rank badge</a><br/>
 			Brian Chan
 		</td>
 		<td>Liferay, Inc. </td>
@@ -135,7 +137,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/harperreed">
 				<img src="https://avatars.githubusercontent.com/u/18504?s=72&v=4" width="24" alt="Avatar of harperreed"> harperreed
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#harperreed">Copy rank badge</a><br/>
 			Harper Reed
 		</td>
 		<td>Harper Rules, Llc </td>
@@ -148,7 +150,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/chenrui333">
 				<img src="https://avatars.githubusercontent.com/u/1580956?s=72&u=89a9167e4e17b66ee9bbc0e60fec075783be05be&v=4" width="24" alt="Avatar of chenrui333"> chenrui333
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#chenrui333">Copy rank badge</a><br/>
 			Rui Chen
 		</td>
 		<td>@justworkshr </td>
@@ -161,7 +163,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/timkpaine">
 				<img src="https://avatars.githubusercontent.com/u/3105306?s=72&u=1b6e022fb0c21f205476e59a4f9f8002fd1556e5&v=4" width="24" alt="Avatar of timkpaine"> timkpaine
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#timkpaine">Copy rank badge</a><br/>
 			Tim Paine
 		</td>
 		<td>@point72 </td>
@@ -174,7 +176,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/leecalcote">
 				<img src="https://avatars.githubusercontent.com/u/7570704?s=72&u=818c4da74f3c82e226b6fcfce4c57a76a3ecd644&v=4" width="24" alt="Avatar of leecalcote"> leecalcote
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#leecalcote">Copy rank badge</a><br/>
 			Lee Calcote
 		</td>
 		<td>Layer5 </td>
@@ -187,7 +189,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/basnijholt">
 				<img src="https://avatars.githubusercontent.com/u/6897215?s=72&u=a7d69832481ceabbd1a99ab22413a7141d2b1183&v=4" width="24" alt="Avatar of basnijholt"> basnijholt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#basnijholt">Copy rank badge</a><br/>
 			Bas Nijholt
 		</td>
 		<td>@ionq </td>
@@ -200,7 +202,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ankane">
 				<img src="https://avatars.githubusercontent.com/u/220358?s=72&u=ba13f3240d7992dc4124a33a4fc65bf4924e5375&v=4" width="24" alt="Avatar of ankane"> ankane
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ankane">Copy rank badge</a><br/>
 			Andrew Kane
 		</td>
 		<td>No Company</td>
@@ -213,7 +215,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/huchenlei">
 				<img src="https://avatars.githubusercontent.com/u/20929282?s=72&u=b5f9b482cc55c583cd99add92c4235b57e6e6d1f&v=4" width="24" alt="Avatar of huchenlei"> huchenlei
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#huchenlei">Copy rank badge</a><br/>
 			Chenlei Hu
 		</td>
 		<td>No Company</td>
@@ -226,7 +228,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mitchellh">
 				<img src="https://avatars.githubusercontent.com/u/1299?s=72&u=cc88a733b0c95bdfd323ec661c0da4c6768c4e4b&v=4" width="24" alt="Avatar of mitchellh"> mitchellh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mitchellh">Copy rank badge</a><br/>
 			Mitchell Hashimoto
 		</td>
 		<td>No Company</td>
@@ -239,7 +241,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/lucidrains">
 				<img src="https://avatars.githubusercontent.com/u/108653?s=72&u=71a8f2f26b707fd35e8c6dc3fdf906b49f131584&v=4" width="24" alt="Avatar of lucidrains"> lucidrains
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#lucidrains">Copy rank badge</a><br/>
 			Phil Wang
 		</td>
 		<td>No Company</td>
@@ -252,7 +254,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/woodruffw">
 				<img src="https://avatars.githubusercontent.com/u/3059210?s=72&u=0130215a165dbf5cbb0fc1f794a2d1ace0a91e23&v=4" width="24" alt="Avatar of woodruffw"> woodruffw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#woodruffw">Copy rank badge</a><br/>
 			William Woodruff
 		</td>
 		<td>@astral-sh </td>
@@ -265,7 +267,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/josh">
 				<img src="https://avatars.githubusercontent.com/u/137?s=72&u=3301f09297677e133ca7d48d0d72d912009c9a63&v=4" width="24" alt="Avatar of josh"> josh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#josh">Copy rank badge</a><br/>
 			Joshua Peek
 		</td>
 		<td>No Company</td>
@@ -278,7 +280,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/danielhanchen">
 				<img src="https://avatars.githubusercontent.com/u/23090290?s=72&u=c1f372abac2bc9d5b4a95688f4dadde0df7ebb69&v=4" width="24" alt="Avatar of danielhanchen"> danielhanchen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#danielhanchen">Copy rank badge</a><br/>
 			Daniel Han
 		</td>
 		<td>No Company</td>
@@ -291,7 +293,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/teamdandelion">
 				<img src="https://avatars.githubusercontent.com/u/1400023?s=72&u=f64a3865de2bf11db663746bd2f6e34dcdfb57dd&v=4" width="24" alt="Avatar of teamdandelion"> teamdandelion
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#teamdandelion">Copy rank badge</a><br/>
 			Dandelion Mané
 		</td>
 		<td>No Company</td>
@@ -304,7 +306,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/cowtowncoder">
 				<img src="https://avatars.githubusercontent.com/u/55065?s=72&u=fdce6737a39cbda5176c8aa3bda56c2bf95190f0&v=4" width="24" alt="Avatar of cowtowncoder"> cowtowncoder
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#cowtowncoder">Copy rank badge</a><br/>
 			Tatu Saloranta
 		</td>
 		<td>Fasterxml.com </td>
@@ -317,7 +319,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/lalalune">
 				<img src="https://avatars.githubusercontent.com/u/18633264?s=72&u=e2e906c3712c2506ebfa98df01c2cfdc50050b30&v=4" width="24" alt="Avatar of lalalune"> lalalune
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#lalalune">Copy rank badge</a><br/>
 			Shaw
 		</td>
 		<td>Eliza Labs </td>
@@ -330,7 +332,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kylebarron">
 				<img src="https://avatars.githubusercontent.com/u/15164633?s=72&u=560350ef0d706c8538b3a4dbe202ea07a709505a&v=4" width="24" alt="Avatar of kylebarron"> kylebarron
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kylebarron">Copy rank badge</a><br/>
 			Kyle Barron
 		</td>
 		<td>@developmentseed </td>
@@ -343,7 +345,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ezyang">
 				<img src="https://avatars.githubusercontent.com/u/13564?s=72&v=4" width="24" alt="Avatar of ezyang"> ezyang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ezyang">Copy rank badge</a><br/>
 			Edward Z. Yang
 		</td>
 		<td>No Company</td>
@@ -356,7 +358,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/haydenbleasel">
 				<img src="https://avatars.githubusercontent.com/u/4142719?s=72&u=97d56c5b106e96f45d4c246b9d9087beb3b253e9&v=4" width="24" alt="Avatar of haydenbleasel"> haydenbleasel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#haydenbleasel">Copy rank badge</a><br/>
 			Hayden Bleasel
 		</td>
 		<td>@vercel </td>
@@ -369,7 +371,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/apoelstra">
 				<img src="https://avatars.githubusercontent.com/u/1351933?s=72&u=3493d88a08dce87c183f4213d9d7e23ad2bdf75b&v=4" width="24" alt="Avatar of apoelstra"> apoelstra
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#apoelstra">Copy rank badge</a><br/>
 			Andrew Poelstra
 		</td>
 		<td>@blockstream  </td>
@@ -382,7 +384,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/sbc100">
 				<img src="https://avatars.githubusercontent.com/u/515813?s=72&u=3ba9837f8b9bfa05deee1077326ee358a3374236&v=4" width="24" alt="Avatar of sbc100"> sbc100
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#sbc100">Copy rank badge</a><br/>
 			Sam Clegg
 		</td>
 		<td>@google </td>
@@ -395,7 +397,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/snakajima">
 				<img src="https://avatars.githubusercontent.com/u/139827?s=72&u=b72b05584a295eb44e0d0c5bf83b90d68321a81c&v=4" width="24" alt="Avatar of snakajima"> snakajima
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#snakajima">Copy rank badge</a><br/>
 			Satoshi Nakajima
 		</td>
 		<td>Graphai, Mulmocast </td>
@@ -408,7 +410,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jameslamb">
 				<img src="https://avatars.githubusercontent.com/u/7608904?s=72&u=333f4431282df23dddf14a875d90546e2e151983&v=4" width="24" alt="Avatar of jameslamb"> jameslamb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jameslamb">Copy rank badge</a><br/>
 			James Lamb
 		</td>
 		<td>Nvidia </td>
@@ -421,7 +423,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mihaimaruseac">
 				<img src="https://avatars.githubusercontent.com/u/323199?s=72&u=3606bf51cc6bc14acbb068eb4ae4eacc96083bed&v=4" width="24" alt="Avatar of mihaimaruseac"> mihaimaruseac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mihaimaruseac">Copy rank badge</a><br/>
 			Mihai Maruseac
 		</td>
 		<td>Google </td>
@@ -434,7 +436,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jacoblee93">
 				<img src="https://avatars.githubusercontent.com/u/6952323?s=72&u=d785f9406c5a78ebd75922567b2693fb643c3bb0&v=4" width="24" alt="Avatar of jacoblee93"> jacoblee93
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jacoblee93">Copy rank badge</a><br/>
 			Jacob Lee
 		</td>
 		<td>@langchain-ai </td>
@@ -447,7 +449,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/wsxiaoys">
 				<img src="https://avatars.githubusercontent.com/u/388154?s=72&v=4" width="24" alt="Avatar of wsxiaoys"> wsxiaoys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#wsxiaoys">Copy rank badge</a><br/>
 			Meng Zhang
 		</td>
 		<td>Tabbyml, Inc. </td>
@@ -460,7 +462,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/schollz">
 				<img src="https://avatars.githubusercontent.com/u/6550035?s=72&u=991583b3f086b7f4cef5d2b4629e1440fd73f00b&v=4" width="24" alt="Avatar of schollz"> schollz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#schollz">Copy rank badge</a><br/>
 			Zack
 		</td>
 		<td>No Company</td>
@@ -473,7 +475,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ZacSweers">
 				<img src="https://avatars.githubusercontent.com/u/1361086?s=72&u=f718c2d2774c7e8b85b5cf1c12df4b6aac6c13f4&v=4" width="24" alt="Avatar of ZacSweers"> ZacSweers
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ZacSweers">Copy rank badge</a><br/>
 			Zac Sweers
 		</td>
 		<td>No Company</td>
@@ -486,7 +488,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mythz">
 				<img src="https://avatars.githubusercontent.com/u/89361?s=72&v=4" width="24" alt="Avatar of mythz"> mythz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mythz">Copy rank badge</a><br/>
 			Demis Bellot
 		</td>
 		<td>Servicestack </td>
@@ -499,7 +501,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Jarred-Sumner">
 				<img src="https://avatars.githubusercontent.com/u/709451?s=72&u=c72c2dd8b0368dc63bf2278e0f4f2ff290449cfb&v=4" width="24" alt="Avatar of Jarred-Sumner"> Jarred-Sumner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Jarred-Sumner">Copy rank badge</a><br/>
 			Jarred Sumner
 		</td>
 		<td>No Company</td>
@@ -512,7 +514,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/holtskinner">
 				<img src="https://avatars.githubusercontent.com/u/13262395?s=72&u=430eff10dfbb7d3f27a35f1ea2c9ea6a61067c88&v=4" width="24" alt="Avatar of holtskinner"> holtskinner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#holtskinner">Copy rank badge</a><br/>
 			Holt Skinner
 		</td>
 		<td>@google  </td>
@@ -525,7 +527,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/yurishkuro">
 				<img src="https://avatars.githubusercontent.com/u/3523016?s=72&u=543cac5c83237325d63bab776c01fe7ecb400d8c&v=4" width="24" alt="Avatar of yurishkuro"> yurishkuro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#yurishkuro">Copy rank badge</a><br/>
 			Yuri Shkuro
 		</td>
 		<td>No Company</td>
@@ -538,7 +540,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/rohitpaulk">
 				<img src="https://avatars.githubusercontent.com/u/3893573?s=72&u=a390c34e096e0d56e9974dcd89d50cd89745bb3e&v=4" width="24" alt="Avatar of rohitpaulk"> rohitpaulk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#rohitpaulk">Copy rank badge</a><br/>
 			Paul Kuruvilla
 		</td>
 		<td>@codecrafters-io </td>
@@ -551,7 +553,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/roblourens">
 				<img src="https://avatars.githubusercontent.com/u/323878?s=72&u=5ac0867079679f11d583c7bb813c1bdfb0040440&v=4" width="24" alt="Avatar of roblourens"> roblourens
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#roblourens">Copy rank badge</a><br/>
 			Rob Lourens
 		</td>
 		<td>Microsoft </td>
@@ -564,7 +566,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/hu-po">
 				<img src="https://avatars.githubusercontent.com/u/8493427?s=72&u=4ffa5718a2cee2b326badf2eedaf6233e14d734c&v=4" width="24" alt="Avatar of hu-po"> hu-po
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#hu-po">Copy rank badge</a><br/>
 			hu-po
 		</td>
 		<td>No Company</td>
@@ -577,7 +579,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/zeux">
 				<img src="https://avatars.githubusercontent.com/u/1106629?s=72&u=620ee97d58fc4c0e915bc36c992c86e94bd76efe&v=4" width="24" alt="Avatar of zeux"> zeux
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#zeux">Copy rank badge</a><br/>
 			Arseny Kapoulkine
 		</td>
 		<td>No Company</td>
@@ -590,7 +592,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/christian-bromann">
 				<img src="https://avatars.githubusercontent.com/u/731337?s=72&u=029e1004d7b48bc669c3eef60c8b3566841c7477&v=4" width="24" alt="Avatar of christian-bromann"> christian-bromann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#christian-bromann">Copy rank badge</a><br/>
 			Christian Bromann
 		</td>
 		<td>@langchain-ai </td>
@@ -603,7 +605,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nfcampos">
 				<img src="https://avatars.githubusercontent.com/u/56902?s=72&u=fdb30e802c68bc338dd9c0820f713e4fdac75db7&v=4" width="24" alt="Avatar of nfcampos"> nfcampos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nfcampos">Copy rank badge</a><br/>
 			Nuno Campos
 		</td>
 		<td>@langchain-ai </td>
@@ -616,7 +618,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/koush">
 				<img src="https://avatars.githubusercontent.com/u/73924?s=72&u=66dae9ea097c1f29a2723bd2f6f7c434d49433cf&v=4" width="24" alt="Avatar of koush"> koush
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#koush">Copy rank badge</a><br/>
 			Koushik Dutta
 		</td>
 		<td>Clockworkmod </td>
@@ -629,7 +631,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mattgodbolt">
 				<img src="https://avatars.githubusercontent.com/u/633973?s=72&u=a1add397724cf2e823847cb32da4c0261d62ce2e&v=4" width="24" alt="Avatar of mattgodbolt"> mattgodbolt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mattgodbolt">Copy rank badge</a><br/>
 			Matt Godbolt
 		</td>
 		<td>@compiler-explorer  </td>
@@ -642,7 +644,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/indirect">
 				<img src="https://avatars.githubusercontent.com/u/78?s=72&u=173b3b2341359a50b8bad0123029d8cb76d13eca&v=4" width="24" alt="Avatar of indirect"> indirect
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#indirect">Copy rank badge</a><br/>
 			André Arko
 		</td>
 		<td>No Company</td>
@@ -655,7 +657,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/eddelbuettel">
 				<img src="https://avatars.githubusercontent.com/u/673121?s=72&u=0487fed564e4d06bc4d4800d38ae649a9a632951&v=4" width="24" alt="Avatar of eddelbuettel"> eddelbuettel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#eddelbuettel">Copy rank badge</a><br/>
 			Dirk Eddelbuettel
 		</td>
 		<td>No Company</td>
@@ -668,7 +670,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/tommoor">
 				<img src="https://avatars.githubusercontent.com/u/380914?s=72&u=2e13c3aef0960f3a857e82136d8110af27b2d896&v=4" width="24" alt="Avatar of tommoor"> tommoor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#tommoor">Copy rank badge</a><br/>
 			Tom Moor
 		</td>
 		<td>@outline, @linear </td>
@@ -681,7 +683,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/felangel">
 				<img src="https://avatars.githubusercontent.com/u/8855632?s=72&u=4a3d7c7d18ec5ead905d12f9ba8401f1de495d8b&v=4" width="24" alt="Avatar of felangel"> felangel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#felangel">Copy rank badge</a><br/>
 			Felix Angelov
 		</td>
 		<td>@shorebirdtech </td>
@@ -694,7 +696,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/bshaffer">
 				<img src="https://avatars.githubusercontent.com/u/103941?s=72&u=b93ad173ea59402cd920158b32130db066253d2a&v=4" width="24" alt="Avatar of bshaffer"> bshaffer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#bshaffer">Copy rank badge</a><br/>
 			Brent Shaffer
 		</td>
 		<td>Google, Inc. </td>
@@ -707,7 +709,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ijjk">
 				<img src="https://avatars.githubusercontent.com/u/22380829?s=72&u=0d3d36a4bef923933ffa54c609191dbae9988642&v=4" width="24" alt="Avatar of ijjk"> ijjk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ijjk">Copy rank badge</a><br/>
 			JJ Kasper
 		</td>
 		<td>@vercel </td>
@@ -720,7 +722,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/dblock">
 				<img src="https://avatars.githubusercontent.com/u/542335?s=72&u=0be97a8b8201d4f206bda1a9dfd891fe829d0f67&v=4" width="24" alt="Avatar of dblock"> dblock
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#dblock">Copy rank badge</a><br/>
 			Daniel (dB.) Doubrovkine
 		</td>
 		<td>@opensearch-project </td>
@@ -733,7 +735,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/vczh">
 				<img src="https://avatars.githubusercontent.com/u/773569?s=72&u=6e9b51d46dc1c12778b42b944d1ccaa3cda5446f&v=4" width="24" alt="Avatar of vczh"> vczh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#vczh">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -746,7 +748,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/slavingia">
 				<img src="https://avatars.githubusercontent.com/u/74396?s=72&u=d2058787f4f8221926d0088f941bf7a28eedcf5f&v=4" width="24" alt="Avatar of slavingia"> slavingia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#slavingia">Copy rank badge</a><br/>
 			Sahil Lavingia
 		</td>
 		<td>Antiwork </td>
@@ -759,7 +761,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ashvardanian">
 				<img src="https://avatars.githubusercontent.com/u/1983160?s=72&u=983e636faf9214fc442985fd6f1554b9b88c9206&v=4" width="24" alt="Avatar of ashvardanian"> ashvardanian
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ashvardanian">Copy rank badge</a><br/>
 			Ash Vardanian
 		</td>
 		<td>Bdfl @ Unum </td>
@@ -772,7 +774,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/keith">
 				<img src="https://avatars.githubusercontent.com/u/283886?s=72&v=4" width="24" alt="Avatar of keith"> keith
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#keith">Copy rank badge</a><br/>
 			Keith Smiley
 		</td>
 		<td>@modularml </td>
@@ -785,7 +787,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jeremydmiller">
 				<img src="https://avatars.githubusercontent.com/u/179211?s=72&u=1f6f84e1254964a5bf003e2349536c619d2ea3d2&v=4" width="24" alt="Avatar of jeremydmiller"> jeremydmiller
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jeremydmiller">Copy rank badge</a><br/>
 			Jeremy D. Miller
 		</td>
 		<td>@jasperfx  </td>
@@ -798,7 +800,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/EvanBacon">
 				<img src="https://avatars.githubusercontent.com/u/9664363?s=72&u=46ba6d5fbd29729df2950b845c9ca2cd085a1c2b&v=4" width="24" alt="Avatar of EvanBacon"> EvanBacon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#EvanBacon">Copy rank badge</a><br/>
 			Evan Bacon
 		</td>
 		<td>@expo  </td>
@@ -811,7 +813,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jlevy">
 				<img src="https://avatars.githubusercontent.com/u/2058167?s=72&u=e9ccf6bfbe5b5d8eac869c6d4081a9d6a39d4570&v=4" width="24" alt="Avatar of jlevy"> jlevy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jlevy">Copy rank badge</a><br/>
 			Joshua Levy
 		</td>
 		<td>No Company</td>
@@ -824,7 +826,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/schrockn">
 				<img src="https://avatars.githubusercontent.com/u/28738937?s=72&u=ca93b7550780d8c1954ca36bc2b64cabc0b4497e&v=4" width="24" alt="Avatar of schrockn"> schrockn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#schrockn">Copy rank badge</a><br/>
 			Nick Schrock
 		</td>
 		<td>Dagster Labs </td>
@@ -837,7 +839,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/dcramer">
 				<img src="https://avatars.githubusercontent.com/u/23610?s=72&v=4" width="24" alt="Avatar of dcramer"> dcramer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#dcramer">Copy rank badge</a><br/>
 			David Cramer
 		</td>
 		<td>@getsentry </td>
@@ -850,7 +852,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/tonistiigi">
 				<img src="https://avatars.githubusercontent.com/u/585223?s=72&v=4" width="24" alt="Avatar of tonistiigi"> tonistiigi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#tonistiigi">Copy rank badge</a><br/>
 			Tõnis Tiigi
 		</td>
 		<td>Docker </td>
@@ -863,7 +865,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nickscamara">
 				<img src="https://avatars.githubusercontent.com/u/20311743?s=72&u=29bf2391ae34297a12a88d813731b0bdf289e4a5&v=4" width="24" alt="Avatar of nickscamara"> nickscamara
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nickscamara">Copy rank badge</a><br/>
 			Nicolas
 		</td>
 		<td>Firecrawl </td>
@@ -876,7 +878,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ingydotnet">
 				<img src="https://avatars.githubusercontent.com/u/21826?s=72&u=83ac47818168eaf9d61e5a62ef2e04a582fdb46f&v=4" width="24" alt="Avatar of ingydotnet"> ingydotnet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ingydotnet">Copy rank badge</a><br/>
 			Ingy döt Net
 		</td>
 		<td>Yaml Llc </td>
@@ -889,7 +891,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/raineorshine">
 				<img src="https://avatars.githubusercontent.com/u/750276?s=72&u=b0ab4569320011d7f7170e04d04ab29f4e80e938&v=4" width="24" alt="Avatar of raineorshine"> raineorshine
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#raineorshine">Copy rank badge</a><br/>
 			Raine Revere
 		</td>
 		<td>No Company</td>
@@ -902,7 +904,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/joshlong">
 				<img src="https://avatars.githubusercontent.com/u/54473?s=72&v=4" width="24" alt="Avatar of joshlong"> joshlong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#joshlong">Copy rank badge</a><br/>
 			Josh Long
 		</td>
 		<td>The Spring Team At<br/>Broadcom<br/>(https://spring.io)<br/><br/></td>
@@ -915,7 +917,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/sksamuel">
 				<img src="https://avatars.githubusercontent.com/u/743706?s=72&u=98c2f359309f25bc93ca909e87aea14d3b67ddc2&v=4" width="24" alt="Avatar of sksamuel"> sksamuel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#sksamuel">Copy rank badge</a><br/>
 			Sam
 		</td>
 		<td>Grindr </td>
@@ -928,7 +930,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/pavelfeldman">
 				<img src="https://avatars.githubusercontent.com/u/883973?s=72&v=4" width="24" alt="Avatar of pavelfeldman"> pavelfeldman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#pavelfeldman">Copy rank badge</a><br/>
 			Pavel Feldman
 		</td>
 		<td>Microsoft </td>
@@ -941,7 +943,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mmp">
 				<img src="https://avatars.githubusercontent.com/u/102567?s=72&u=156107457c2b0ae97e582f59e97aa5bea438072f&v=4" width="24" alt="Avatar of mmp"> mmp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mmp">Copy rank badge</a><br/>
 			Matt Pharr
 		</td>
 		<td>No Company</td>
@@ -954,7 +956,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/tacaswell">
 				<img src="https://avatars.githubusercontent.com/u/199813?s=72&v=4" width="24" alt="Avatar of tacaswell"> tacaswell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#tacaswell">Copy rank badge</a><br/>
 			Thomas A Caswell
 		</td>
 		<td>@nsls2 At Brookhaven National<br/>Lab<br/></td>
@@ -967,7 +969,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/flavorjones">
 				<img src="https://avatars.githubusercontent.com/u/8207?s=72&u=b696c885624fac0e15405b8713a770e888f26a96&v=4" width="24" alt="Avatar of flavorjones"> flavorjones
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#flavorjones">Copy rank badge</a><br/>
 			Mike Dalessio
 		</td>
 		<td>No Company</td>
@@ -980,7 +982,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/bryanveloso">
 				<img src="https://avatars.githubusercontent.com/u/1258?s=72&u=21a99ea3a91295c6431ebe97a3cae4684e0f1ffc&v=4" width="24" alt="Avatar of bryanveloso"> bryanveloso
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#bryanveloso">Copy rank badge</a><br/>
 			Bryan Veloso
 		</td>
 		<td>@omnypro </td>
@@ -993,7 +995,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/timabbott">
 				<img src="https://avatars.githubusercontent.com/u/2746074?s=72&u=2b8279df371a57b27e1ad3ffdcc8ae60824e0419&v=4" width="24" alt="Avatar of timabbott"> timabbott
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#timabbott">Copy rank badge</a><br/>
 			Tim Abbott
 		</td>
 		<td>@zulip  </td>
@@ -1006,7 +1008,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/schneems">
 				<img src="https://avatars.githubusercontent.com/u/59744?s=72&u=dcc56246ab9ed7f43103e10a1b09b6cecf8599cf&v=4" width="24" alt="Avatar of schneems"> schneems
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#schneems">Copy rank badge</a><br/>
 			Richard Schneeman
 		</td>
 		<td>@schneems  </td>
@@ -1019,7 +1021,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/alysonla">
 				<img src="https://avatars.githubusercontent.com/u/2623954?s=72&u=46fa17c1e2a1b0f699d37788cf00dc3a33972f43&v=4" width="24" alt="Avatar of alysonla"> alysonla
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#alysonla">Copy rank badge</a><br/>
 			Alyson La
 		</td>
 		<td>@github  </td>
@@ -1032,7 +1034,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jxnl">
 				<img src="https://avatars.githubusercontent.com/u/4852235?s=72&u=f3927adbaafbeaccd6fd4d0bc805414ef08b8b54&v=4" width="24" alt="Avatar of jxnl"> jxnl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jxnl">Copy rank badge</a><br/>
 			Jason Liu
 		</td>
 		<td>567 Studio </td>
@@ -1045,7 +1047,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/hyperb1iss">
 				<img src="https://avatars.githubusercontent.com/u/102151?s=72&u=fafbc7fa138aa16eafcc73bb19a544700be0c43c&v=4" width="24" alt="Avatar of hyperb1iss"> hyperb1iss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#hyperb1iss">Copy rank badge</a><br/>
 			Stefanie Jane
 		</td>
 		<td>No Company</td>
@@ -1058,7 +1060,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/pedronauck">
 				<img src="https://avatars.githubusercontent.com/u/2029172?s=72&u=45c35fc80952dc9f35b93dfd0d22af6e5a760d01&v=4" width="24" alt="Avatar of pedronauck"> pedronauck
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#pedronauck">Copy rank badge</a><br/>
 			Pedro Nauck
 		</td>
 		<td>Compozy </td>
@@ -1071,7 +1073,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/alxhub">
 				<img src="https://avatars.githubusercontent.com/u/4175141?s=72&u=4b259897877a6bfba6e3b2a6330f13668d060a65&v=4" width="24" alt="Avatar of alxhub"> alxhub
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#alxhub">Copy rank badge</a><br/>
 			Alex Rickabaugh
 		</td>
 		<td>Google, Inc. </td>
@@ -1084,7 +1086,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/estrattonbailey">
 				<img src="https://avatars.githubusercontent.com/u/4732330?s=72&u=0f72f4f74aa99e0398c7bf1714c6667b564fd6b8&v=4" width="24" alt="Avatar of estrattonbailey"> estrattonbailey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#estrattonbailey">Copy rank badge</a><br/>
 			Eric Bailey
 		</td>
 		<td>@bluesky-social </td>
@@ -1097,7 +1099,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/leodemoura">
 				<img src="https://avatars.githubusercontent.com/u/2778936?s=72&u=a1fca2334c8bab02c759103426244fa67baf6d3d&v=4" width="24" alt="Avatar of leodemoura"> leodemoura
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#leodemoura">Copy rank badge</a><br/>
 			Leonardo de Moura
 		</td>
 		<td>Aws </td>
@@ -1110,7 +1112,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/liuliu">
 				<img src="https://avatars.githubusercontent.com/u/127987?s=72&v=4" width="24" alt="Avatar of liuliu"> liuliu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#liuliu">Copy rank badge</a><br/>
 			Liu Liu
 		</td>
 		<td>No Company</td>
@@ -1123,7 +1125,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/tananaev">
 				<img src="https://avatars.githubusercontent.com/u/1161863?s=72&v=4" width="24" alt="Avatar of tananaev"> tananaev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#tananaev">Copy rank badge</a><br/>
 			Anton Tananaev
 		</td>
 		<td>@openai & @traccar <br/></td>
@@ -1136,7 +1138,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ethanniser">
 				<img src="https://avatars.githubusercontent.com/u/100045248?s=72&u=9131657aec3607d254cda59825686d4278d200dd&v=4" width="24" alt="Avatar of ethanniser"> ethanniser
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ethanniser">Copy rank badge</a><br/>
 			Ethan Niser
 		</td>
 		<td>Vercel </td>
@@ -1149,7 +1151,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kevmoo">
 				<img src="https://avatars.githubusercontent.com/u/17034?s=72&v=4" width="24" alt="Avatar of kevmoo"> kevmoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kevmoo">Copy rank badge</a><br/>
 			Kevin Moore
 		</td>
 		<td>@dart-lang @flutter @google </td>
@@ -1162,7 +1164,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/SteveMacenski">
 				<img src="https://avatars.githubusercontent.com/u/14944147?s=72&u=0925d37e9d3569c71d930114b66e6394c2efb3c6&v=4" width="24" alt="Avatar of SteveMacenski"> SteveMacenski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#SteveMacenski">Copy rank badge</a><br/>
 			Steve Macenski
 		</td>
 		<td>@open-navigation  </td>
@@ -1175,7 +1177,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/sebmarkbage">
 				<img src="https://avatars.githubusercontent.com/u/63648?s=72&u=f1387d49fb1d3a6e7b26f0e5847eca5fa82c26a5&v=4" width="24" alt="Avatar of sebmarkbage"> sebmarkbage
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#sebmarkbage">Copy rank badge</a><br/>
 			Sebastian Markbåge
 		</td>
 		<td>Vercel </td>
@@ -1188,7 +1190,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jeaye">
 				<img src="https://avatars.githubusercontent.com/u/1057635?s=72&u=68d5024123b421d9233bda0cd5bc419a0debf818&v=4" width="24" alt="Avatar of jeaye"> jeaye
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jeaye">Copy rank badge</a><br/>
 			Jeaye Wilkerson
 		</td>
 		<td>No Company</td>
@@ -1201,7 +1203,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/gr2m">
 				<img src="https://avatars.githubusercontent.com/u/39992?s=72&u=1ee38610bb2d8a082b3e84db7ecacf78149d061b&v=4" width="24" alt="Avatar of gr2m"> gr2m
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#gr2m">Copy rank badge</a><br/>
 			Gregor Martynus
 		</td>
 		<td>@vercel @octokit @octoherd @probot<br/>@nock<br/>@semantic-release<br/>@allcontributors<br/>@hearts<br/></td>
@@ -1214,7 +1216,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/bradfitz">
 				<img src="https://avatars.githubusercontent.com/u/2621?s=72&u=6deb06d9916328265486504f364c80ec2d969f2c&v=4" width="24" alt="Avatar of bradfitz"> bradfitz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#bradfitz">Copy rank badge</a><br/>
 			Brad Fitzpatrick
 		</td>
 		<td>Tailscale </td>
@@ -1227,7 +1229,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jkelleyrtp">
 				<img src="https://avatars.githubusercontent.com/u/10237910?s=72&u=1c9b49139ce3a094346c040f77bd933f9f69fffb&v=4" width="24" alt="Avatar of jkelleyrtp"> jkelleyrtp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jkelleyrtp">Copy rank badge</a><br/>
 			Jonathan Kelley
 		</td>
 		<td>Dioxus Labs </td>
@@ -1240,7 +1242,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/glyph">
 				<img src="https://avatars.githubusercontent.com/u/716529?s=72&v=4" width="24" alt="Avatar of glyph"> glyph
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#glyph">Copy rank badge</a><br/>
 			Glyph
 		</td>
 		<td>No Company</td>
@@ -1253,7 +1255,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/CoralineAda">
 				<img src="https://avatars.githubusercontent.com/u/22284?s=72&u=7d251039e3bf698b803c5189e8a8f3fc2353abe3&v=4" width="24" alt="Avatar of CoralineAda"> CoralineAda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#CoralineAda">Copy rank badge</a><br/>
 			Coraline Ada Ehmke
 		</td>
 		<td>@ethicalsource  </td>
@@ -1266,7 +1268,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jonrohan">
 				<img src="https://avatars.githubusercontent.com/u/54012?s=72&u=5314beb53bec3929050766bc25d9a4d7821a2946&v=4" width="24" alt="Avatar of jonrohan"> jonrohan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jonrohan">Copy rank badge</a><br/>
 			Jon Rohan
 		</td>
 		<td>Github </td>
@@ -1279,7 +1281,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/dfinke">
 				<img src="https://avatars.githubusercontent.com/u/67258?s=72&u=8c683937be35b7b77b746155d329258e9a8ea3b9&v=4" width="24" alt="Avatar of dfinke"> dfinke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#dfinke">Copy rank badge</a><br/>
 			Doug Finke
 		</td>
 		<td>No Company</td>
@@ -1292,7 +1294,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/micheleriva">
 				<img src="https://avatars.githubusercontent.com/u/14977595?s=72&u=7ba7712f8a193c7b7eefb04400f19312b2836070&v=4" width="24" alt="Avatar of micheleriva"> micheleriva
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#micheleriva">Copy rank badge</a><br/>
 			Michele Riva
 		</td>
 		<td>@oramasearch </td>
@@ -1305,7 +1307,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/KentBeck">
 				<img src="https://avatars.githubusercontent.com/u/46154?s=72&u=42f6bb81ae77e0c2380e060527604d9e1da09d2b&v=4" width="24" alt="Avatar of KentBeck"> KentBeck
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#KentBeck">Copy rank badge</a><br/>
 			Kent Beck
 		</td>
 		<td>No Company</td>
@@ -1318,7 +1320,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/devongovett">
 				<img src="https://avatars.githubusercontent.com/u/19409?s=72&u=16bbca03b15ec1cd3ec4f7cdddc4164ab6c8e425&v=4" width="24" alt="Avatar of devongovett"> devongovett
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#devongovett">Copy rank badge</a><br/>
 			Devon Govett
 		</td>
 		<td>Adobe </td>
@@ -1331,7 +1333,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/brynary">
 				<img src="https://avatars.githubusercontent.com/u/19?s=72&u=ce5037f7436cef328289631a36dd76dcb1e2f973&v=4" width="24" alt="Avatar of brynary"> brynary
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#brynary">Copy rank badge</a><br/>
 			Bryan Helmkamp
 		</td>
 		<td>@qltysh  </td>
@@ -1344,7 +1346,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/pmocz">
 				<img src="https://avatars.githubusercontent.com/u/7489877?s=72&u=94dc92969c9eb38a882bc6bc9d5f53ca5992474b&v=4" width="24" alt="Avatar of pmocz"> pmocz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#pmocz">Copy rank badge</a><br/>
 			Philip Mocz
 		</td>
 		<td>Flatiron Institute </td>
@@ -1357,7 +1359,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/thomasjpfan">
 				<img src="https://avatars.githubusercontent.com/u/5402633?s=72&v=4" width="24" alt="Avatar of thomasjpfan"> thomasjpfan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#thomasjpfan">Copy rank badge</a><br/>
 			Thomas J. Fan
 		</td>
 		<td>@modal-labs </td>
@@ -1370,7 +1372,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/MariaSolOs">
 				<img src="https://avatars.githubusercontent.com/u/62502207?s=72&u=a49e21ba43e2707600db24fed6a17639d437dd53&v=4" width="24" alt="Avatar of MariaSolOs"> MariaSolOs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#MariaSolOs">Copy rank badge</a><br/>
 			Maria José Solano
 		</td>
 		<td>Swe @ Palantir </td>
@@ -1383,7 +1385,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/bcherry">
 				<img src="https://avatars.githubusercontent.com/u/82608?s=72&u=5d4d9d575b3600a3e7a587a3c00a18113f888b67&v=4" width="24" alt="Avatar of bcherry"> bcherry
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#bcherry">Copy rank badge</a><br/>
 			Ben Cherry
 		</td>
 		<td>Livekit </td>
@@ -1396,7 +1398,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mikecao">
 				<img src="https://avatars.githubusercontent.com/u/477975?s=72&v=4" width="24" alt="Avatar of mikecao"> mikecao
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mikecao">Copy rank badge</a><br/>
 			Mike Cao
 		</td>
 		<td>No Company</td>
@@ -1409,7 +1411,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ternaus">
 				<img src="https://avatars.githubusercontent.com/u/5481618?s=72&u=513a26b02a39e7a28d587cd37c6cc877ea368e6e&v=4" width="24" alt="Avatar of ternaus"> ternaus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ternaus">Copy rank badge</a><br/>
 			Vladimir Iglovikov
 		</td>
 		<td>Albumentations.ai </td>
@@ -1422,7 +1424,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nolanlawson">
 				<img src="https://avatars.githubusercontent.com/u/283842?s=72&u=c63d169c54860bde229ad6b428fb150345114ab0&v=4" width="24" alt="Avatar of nolanlawson"> nolanlawson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nolanlawson">Copy rank badge</a><br/>
 			Nolan Lawson
 		</td>
 		<td>@socketdev </td>
@@ -1435,7 +1437,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/danvk">
 				<img src="https://avatars.githubusercontent.com/u/98301?s=72&u=9a0ab550d400cb16ea2a27532a452fcc9cc78f08&v=4" width="24" alt="Avatar of danvk"> danvk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#danvk">Copy rank badge</a><br/>
 			Dan Vanderkam
 		</td>
 		<td>No Company</td>
@@ -1448,7 +1450,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/virattt">
 				<img src="https://avatars.githubusercontent.com/u/901795?s=72&u=c8cd7391f649623258b5f5ea848550df9407107b&v=4" width="24" alt="Avatar of virattt"> virattt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#virattt">Copy rank badge</a><br/>
 			Virat Singh
 		</td>
 		<td>No Company</td>
@@ -1461,7 +1463,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/palkan">
 				<img src="https://avatars.githubusercontent.com/u/1516722?s=72&u=58b7d69a8f28602ae667ee377a3cbed251cebd3a&v=4" width="24" alt="Avatar of palkan"> palkan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#palkan">Copy rank badge</a><br/>
 			Vladimir Dementyev
 		</td>
 		<td>@evilmartians  </td>
@@ -1474,7 +1476,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/zhaochenyang20">
 				<img src="https://avatars.githubusercontent.com/u/74843776?s=72&u=5d11cbd6799102bca437e5aa67ecece9316a7a7f&v=4" width="24" alt="Avatar of zhaochenyang20"> zhaochenyang20
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#zhaochenyang20">Copy rank badge</a><br/>
 			Chayenne
 		</td>
 		<td>University Of California, Los<br/>Angeles<br/></td>
@@ -1487,7 +1489,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/amir20">
 				<img src="https://avatars.githubusercontent.com/u/260667?s=72&u=e184f47fa8a05899a86e8a4de86fc7a5e90207f1&v=4" width="24" alt="Avatar of amir20"> amir20
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#amir20">Copy rank badge</a><br/>
 			Amir Raminfar
 		</td>
 		<td>Netflix </td>
@@ -1500,7 +1502,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/yzh119">
 				<img src="https://avatars.githubusercontent.com/u/11773619?s=72&u=142cbc4d40ea28b1e6ddc568ae98b82c9ff09126&v=4" width="24" alt="Avatar of yzh119"> yzh119
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#yzh119">Copy rank badge</a><br/>
 			Zihao Ye
 		</td>
 		<td>No Company</td>
@@ -1513,7 +1515,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ericniebler">
 				<img src="https://avatars.githubusercontent.com/u/225757?s=72&v=4" width="24" alt="Avatar of ericniebler"> ericniebler
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ericniebler">Copy rank badge</a><br/>
 			Eric Niebler
 		</td>
 		<td>@nvidia </td>
@@ -1526,7 +1528,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mwaskom">
 				<img src="https://avatars.githubusercontent.com/u/315810?s=72&u=940fea4957256c5443fed77f081db2fbdc91ac32&v=4" width="24" alt="Avatar of mwaskom"> mwaskom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mwaskom">Copy rank badge</a><br/>
 			Michael Waskom
 		</td>
 		<td>@modal-labs </td>
@@ -1539,7 +1541,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/gafferongames">
 				<img src="https://avatars.githubusercontent.com/u/696656?s=72&u=5b65b75ea1cd2ed36308a9d5913b906b470e692d&v=4" width="24" alt="Avatar of gafferongames"> gafferongames
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#gafferongames">Copy rank badge</a><br/>
 			Glenn Fiedler
 		</td>
 		<td>@networknext @mas-bandwidth @spacegame-llc <br/></td>
@@ -1552,7 +1554,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/gboeing">
 				<img src="https://avatars.githubusercontent.com/u/4977197?s=72&u=53b802c4f37bf6e11a731113429ea9c756570217&v=4" width="24" alt="Avatar of gboeing"> gboeing
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#gboeing">Copy rank badge</a><br/>
 			Geoff Boeing
 		</td>
 		<td>University Of Southern California<br/></td>
@@ -1565,7 +1567,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/benhalpern">
 				<img src="https://avatars.githubusercontent.com/u/3102842?s=72&u=9dfdf168b1efd5a1ea509a6f733a4a65f2f69908&v=4" width="24" alt="Avatar of benhalpern"> benhalpern
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#benhalpern">Copy rank badge</a><br/>
 			Ben Halpern
 		</td>
 		<td>Forem </td>
@@ -1578,7 +1580,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/meowgorithm">
 				<img src="https://avatars.githubusercontent.com/u/25087?s=72&u=1dc2f182860e2771dbb0c33226a0ef89aecd5f17&v=4" width="24" alt="Avatar of meowgorithm"> meowgorithm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#meowgorithm">Copy rank badge</a><br/>
 			Christian Rocha
 		</td>
 		<td>@charmbracelet  </td>
@@ -1591,7 +1593,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/idimetrix">
 				<img src="https://avatars.githubusercontent.com/u/6536323?s=72&u=8bdc3b5ad5ad63a6956ba6890107e8efc6c2d67c&v=4" width="24" alt="Avatar of idimetrix"> idimetrix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#idimetrix">Copy rank badge</a><br/>
 			Dmitry Selikhov
 		</td>
 		<td>@elevanceit </td>
@@ -1604,7 +1606,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Trott">
 				<img src="https://avatars.githubusercontent.com/u/718899?s=72&u=d8a77b28610eec920d8744ed76d3f625e3f06a48&v=4" width="24" alt="Avatar of Trott"> Trott
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Trott">Copy rank badge</a><br/>
 			Rich Trott
 		</td>
 		<td>No Company</td>
@@ -1617,7 +1619,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/tmcw">
 				<img src="https://avatars.githubusercontent.com/u/32314?s=72&u=dd0a1264029f9deae8f50858829b19d3976afd47&v=4" width="24" alt="Avatar of tmcw"> tmcw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#tmcw">Copy rank badge</a><br/>
 			Tom MacWright
 		</td>
 		<td>@val-town </td>
@@ -1630,7 +1632,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/holdenk">
 				<img src="https://avatars.githubusercontent.com/u/59893?s=72&v=4" width="24" alt="Avatar of holdenk"> holdenk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#holdenk">Copy rank badge</a><br/>
 			Holden Karau
 		</td>
 		<td>Open Source Big Data<br/>Dev<br/></td>
@@ -1643,7 +1645,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Roasbeef">
 				<img src="https://avatars.githubusercontent.com/u/998190?s=72&v=4" width="24" alt="Avatar of Roasbeef"> Roasbeef
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Roasbeef">Copy rank badge</a><br/>
 			Olaoluwa Osuntokun
 		</td>
 		<td>No Company</td>
@@ -1656,7 +1658,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/deltakosh">
 				<img src="https://avatars.githubusercontent.com/u/1306056?s=72&v=4" width="24" alt="Avatar of deltakosh"> deltakosh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#deltakosh">Copy rank badge</a><br/>
 			David Catuhe
 		</td>
 		<td>Microsoft </td>
@@ -1669,7 +1671,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/rebornix">
 				<img src="https://avatars.githubusercontent.com/u/876920?s=72&v=4" width="24" alt="Avatar of rebornix"> rebornix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#rebornix">Copy rank badge</a><br/>
 			Peng Lyu
 		</td>
 		<td>Microsoft </td>
@@ -1682,7 +1684,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/rijkvanzanten">
 				<img src="https://avatars.githubusercontent.com/u/9141017?s=72&u=5fea32a8f95813aab23f7765c03d33717c389077&v=4" width="24" alt="Avatar of rijkvanzanten"> rijkvanzanten
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#rijkvanzanten">Copy rank badge</a><br/>
 			Rijk van Zanten
 		</td>
 		<td>@directus </td>
@@ -1695,7 +1697,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/thinkyhead">
 				<img src="https://avatars.githubusercontent.com/u/698003?s=72&u=5478fdda751ee3077b37a1a2fe8f208ddd486319&v=4" width="24" alt="Avatar of thinkyhead"> thinkyhead
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#thinkyhead">Copy rank badge</a><br/>
 			Scott Lahteine
 		</td>
 		<td>Thinkyhead Software </td>
@@ -1708,7 +1710,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/DavidWells">
 				<img src="https://avatars.githubusercontent.com/u/532272?s=72&u=e7b96b32a71ed740a741cb666fbe8c3f7fd65c5c&v=4" width="24" alt="Avatar of DavidWells"> DavidWells
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#DavidWells">Copy rank badge</a><br/>
 			David Wells
 		</td>
 		<td>No Company</td>
@@ -1721,7 +1723,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/SanderMertens">
 				<img src="https://avatars.githubusercontent.com/u/9919222?s=72&u=c255d45d76514ff1c73de590bc5793f2e080a6ee&v=4" width="24" alt="Avatar of SanderMertens"> SanderMertens
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#SanderMertens">Copy rank badge</a><br/>
 			Sander Mertens
 		</td>
 		<td>Hypnos Entertainment </td>
@@ -1734,7 +1736,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/colinhacks">
 				<img src="https://avatars.githubusercontent.com/u/3084745?s=72&u=00ba705b6a5ceaa3b4c5f3582ddb944f891f8847&v=4" width="24" alt="Avatar of colinhacks"> colinhacks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#colinhacks">Copy rank badge</a><br/>
 			Colin McDonnell
 		</td>
 		<td>No Company</td>
@@ -1747,7 +1749,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/legomushroom">
 				<img src="https://avatars.githubusercontent.com/u/1478800?s=72&u=c83ff15adaed8caa5c664bb50860a56b903b578a&v=4" width="24" alt="Avatar of legomushroom"> legomushroom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#legomushroom">Copy rank badge</a><br/>
 			Oleg Solomko
 		</td>
 		<td>No Company</td>
@@ -1760,7 +1762,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/alii">
 				<img src="https://avatars.githubusercontent.com/u/25351731?s=72&v=4" width="24" alt="Avatar of alii"> alii
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#alii">Copy rank badge</a><br/>
 			Alistair Smith
 		</td>
 		<td>@oven-sh  </td>
@@ -1773,7 +1775,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/cpuguy83">
 				<img src="https://avatars.githubusercontent.com/u/799078?s=72&u=a87644699bcb8ed265fa8e36844221764907cee8&v=4" width="24" alt="Avatar of cpuguy83"> cpuguy83
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#cpuguy83">Copy rank badge</a><br/>
 			Brian Goff
 		</td>
 		<td>@microsoft </td>
@@ -1786,7 +1788,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/fabian-hiller">
 				<img src="https://avatars.githubusercontent.com/u/35291865?s=72&u=cce90fe5d67d25b3b77c82a0d7b7adaec1d25828&v=4" width="24" alt="Avatar of fabian-hiller"> fabian-hiller
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#fabian-hiller">Copy rank badge</a><br/>
 			Fabian Hiller
 		</td>
 		<td>Usemotion.com </td>
@@ -1799,7 +1801,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jeremyphilemon">
 				<img src="https://avatars.githubusercontent.com/u/17938322?s=72&u=8d3d558f5ac7592d7961ddbcfd9b7579f40286e2&v=4" width="24" alt="Avatar of jeremyphilemon"> jeremyphilemon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jeremyphilemon">Copy rank badge</a><br/>
 			Jeremy
 		</td>
 		<td>Vercel </td>
@@ -1812,7 +1814,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nickjj">
 				<img src="https://avatars.githubusercontent.com/u/813219?s=72&u=4071d58beb4b2fd0f75b47a1653ee5ea9b4a6261&v=4" width="24" alt="Avatar of nickjj"> nickjj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nickjj">Copy rank badge</a><br/>
 			Nick Janetakis
 		</td>
 		<td>No Company</td>
@@ -1825,7 +1827,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/rodydavis">
 				<img src="https://avatars.githubusercontent.com/u/31253215?s=72&u=e8a2701b44f7966e5cb95525413ab50600e99e4c&v=4" width="24" alt="Avatar of rodydavis"> rodydavis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#rodydavis">Copy rank badge</a><br/>
 			Rody Davis
 		</td>
 		<td>@google </td>
@@ -1838,7 +1840,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/colesbury">
 				<img src="https://avatars.githubusercontent.com/u/655866?s=72&u=b622ef6e3c8ace6e7ffe49e1cf8ca164d94c0867&v=4" width="24" alt="Avatar of colesbury"> colesbury
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#colesbury">Copy rank badge</a><br/>
 			Sam Gross
 		</td>
 		<td>Meta </td>
@@ -1851,7 +1853,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Marak">
 				<img src="https://avatars.githubusercontent.com/u/70011?s=72&v=4" width="24" alt="Avatar of Marak"> Marak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Marak">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Marak.eth </td>
@@ -1864,7 +1866,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/richlander">
 				<img src="https://avatars.githubusercontent.com/u/2608468?s=72&u=8344507340302c70f124f9c9b5a48a42afedb04e&v=4" width="24" alt="Avatar of richlander"> richlander
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#richlander">Copy rank badge</a><br/>
 			Rich Lander
 		</td>
 		<td>@dotnet  </td>
@@ -1877,7 +1879,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/buckyroberts">
 				<img src="https://avatars.githubusercontent.com/u/8547538?s=72&u=8a4be84ff4870a332fe94c11fca02b432fb9f83e&v=4" width="24" alt="Avatar of buckyroberts"> buckyroberts
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#buckyroberts">Copy rank badge</a><br/>
 			Bucky Roberts
 		</td>
 		<td>Thenewboston </td>
@@ -1890,7 +1892,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/TooTallNate">
 				<img src="https://avatars.githubusercontent.com/u/71256?s=72&u=d6a9598cd7963ae290923ab12afeff947f542f80&v=4" width="24" alt="Avatar of TooTallNate"> TooTallNate
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#TooTallNate">Copy rank badge</a><br/>
 			Nathan Rajlich
 		</td>
 		<td>@vercel  </td>
@@ -1903,7 +1905,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/antiagainst">
 				<img src="https://avatars.githubusercontent.com/u/487928?s=72&v=4" width="24" alt="Avatar of antiagainst"> antiagainst
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#antiagainst">Copy rank badge</a><br/>
 			Lei Zhang
 		</td>
 		<td>Amd Ai Group </td>
@@ -1916,7 +1918,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ed-donner">
 				<img src="https://avatars.githubusercontent.com/u/96339824?s=72&u=6385dcdef8a13afbcd8dad164f5a9008de0da7e0&v=4" width="24" alt="Avatar of ed-donner"> ed-donner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ed-donner">Copy rank badge</a><br/>
 			Ed Donner
 		</td>
 		<td>Nebula.io </td>
@@ -1929,7 +1931,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kentonv">
 				<img src="https://avatars.githubusercontent.com/u/4001805?s=72&u=68b3a332314918b414acc1667c628f95d417aad6&v=4" width="24" alt="Avatar of kentonv"> kentonv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kentonv">Copy rank badge</a><br/>
 			Kenton Varda
 		</td>
 		<td>@cloudflare </td>
@@ -1942,7 +1944,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/natemoo-re">
 				<img src="https://avatars.githubusercontent.com/u/7118177?s=72&u=bb2518ed3d5b34846e6e778845e42b9564c15f5a&v=4" width="24" alt="Avatar of natemoo-re"> natemoo-re
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#natemoo-re">Copy rank badge</a><br/>
 			Nate Moore
 		</td>
 		<td>@getsentry </td>
@@ -1955,7 +1957,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jacob-ebey">
 				<img src="https://avatars.githubusercontent.com/u/12063586?s=72&u=0e7e0d6b3e63e3dfc6c4ae4d9d80ed2a66254b03&v=4" width="24" alt="Avatar of jacob-ebey"> jacob-ebey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jacob-ebey">Copy rank badge</a><br/>
 			Jacob Ebey
 		</td>
 		<td>No Company</td>
@@ -1968,7 +1970,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/TheCodeTraveler">
 				<img src="https://avatars.githubusercontent.com/u/13558917?s=72&u=6e0d77ca0420f418c8ad5110cb155dea5d427a35&v=4" width="24" alt="Avatar of TheCodeTraveler"> TheCodeTraveler
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#TheCodeTraveler">Copy rank badge</a><br/>
 			Brandon Minnick
 		</td>
 		<td>@aws | Formery @microsoft<br/>+<br/>@xamarinhq<br/></td>
@@ -1981,7 +1983,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/syrusakbary">
 				<img src="https://avatars.githubusercontent.com/u/188257?s=72&u=5972424c4a683223929b7b3d783d34948b640399&v=4" width="24" alt="Avatar of syrusakbary"> syrusakbary
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#syrusakbary">Copy rank badge</a><br/>
 			Syrus Akbary
 		</td>
 		<td>@wasmerio   </td>
@@ -1994,7 +1996,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/RocketGod-git">
 				<img src="https://avatars.githubusercontent.com/u/57732082?s=72&u=abb95259509864b1ac6b0ba211a2cb27ee34d835&v=4" width="24" alt="Avatar of RocketGod-git"> RocketGod-git
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#RocketGod-git">Copy rank badge</a><br/>
 			RocketGod
 		</td>
 		<td>The Pirates' Plunder </td>
@@ -2007,7 +2009,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kriskowal">
 				<img src="https://avatars.githubusercontent.com/u/60294?s=72&u=e377b1f2e2871e30b170a4535bacb403ba8189f7&v=4" width="24" alt="Avatar of kriskowal"> kriskowal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kriskowal">Copy rank badge</a><br/>
 			Kris Kowal
 		</td>
 		<td>No Company</td>
@@ -2020,7 +2022,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/shiffman">
 				<img src="https://avatars.githubusercontent.com/u/191758?s=72&u=a6f4a24c363ab8271c20754e1bdcef6ce4020360&v=4" width="24" alt="Avatar of shiffman"> shiffman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#shiffman">Copy rank badge</a><br/>
 			Daniel Shiffman
 		</td>
 		<td>@codingtrain @itpnyu @processing <br/>@ml5js<br/>@nature-of-code<br/>@programming-from-a-<br/><br/></td>
@@ -2033,7 +2035,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ekzhang">
 				<img src="https://avatars.githubusercontent.com/u/7550632?s=72&u=14bb98217af15123593097a2406e379258c89484&v=4" width="24" alt="Avatar of ekzhang"> ekzhang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ekzhang">Copy rank badge</a><br/>
 			Eric Zhang
 		</td>
 		<td>@modal-labs </td>
@@ -2046,7 +2048,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/tenderlove">
 				<img src="https://avatars.githubusercontent.com/u/3124?s=72&u=6ece6a5a8b8ea32c5fa94c325d151bc01d1e44e8&v=4" width="24" alt="Avatar of tenderlove"> tenderlove
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#tenderlove">Copy rank badge</a><br/>
 			Aaron Patterson
 		</td>
 		<td>@shopify </td>
@@ -2059,7 +2061,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/benvanik">
 				<img src="https://avatars.githubusercontent.com/u/75337?s=72&v=4" width="24" alt="Avatar of benvanik"> benvanik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#benvanik">Copy rank badge</a><br/>
 			Ben Vanik
 		</td>
 		<td>Amd </td>
@@ -2072,7 +2074,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/chrislusf">
 				<img src="https://avatars.githubusercontent.com/u/1543151?s=72&u=b4788cca0e39aab9a6033218962aff65e0dff053&v=4" width="24" alt="Avatar of chrislusf"> chrislusf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#chrislusf">Copy rank badge</a><br/>
 			Chris Lu
 		</td>
 		<td>No Company</td>
@@ -2085,7 +2087,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/yongtang">
 				<img src="https://avatars.githubusercontent.com/u/6932348?s=72&v=4" width="24" alt="Avatar of yongtang"> yongtang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#yongtang">Copy rank badge</a><br/>
 			Yong Tang
 		</td>
 		<td>No Company</td>
@@ -2098,7 +2100,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/gbowne1">
 				<img src="https://avatars.githubusercontent.com/u/47549872?s=72&u=f78c37984581a990695ee9b06e35a02d96e52bd2&v=4" width="24" alt="Avatar of gbowne1"> gbowne1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#gbowne1">Copy rank badge</a><br/>
 			Gregory Bowne
 		</td>
 		<td>No Company</td>
@@ -2111,7 +2113,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/cpacker">
 				<img src="https://avatars.githubusercontent.com/u/5475622?s=72&u=d5b68b5396a75cb55e2d45afae51e348bc1686c9&v=4" width="24" alt="Avatar of cpacker"> cpacker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#cpacker">Copy rank badge</a><br/>
 			Charles Packer
 		</td>
 		<td>@letta-ai  </td>
@@ -2124,7 +2126,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/chinmaygarde">
 				<img src="https://avatars.githubusercontent.com/u/44085?s=72&u=0d4d2ac59f3ad098ad89fdef8802e3c4aff70960&v=4" width="24" alt="Avatar of chinmaygarde"> chinmaygarde
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#chinmaygarde">Copy rank badge</a><br/>
 			Chinmay Garde
 		</td>
 		<td>@google @flutter  </td>
@@ -2137,7 +2139,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/grosser">
 				<img src="https://avatars.githubusercontent.com/u/11367?s=72&v=4" width="24" alt="Avatar of grosser"> grosser
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#grosser">Copy rank badge</a><br/>
 			Michael Grosser
 		</td>
 		<td>Zendesk.com </td>
@@ -2150,7 +2152,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/sandersn">
 				<img src="https://avatars.githubusercontent.com/u/293473?s=72&u=2e3c9ccdfc791f67f7cd298b78f889ddf10f32a1&v=4" width="24" alt="Avatar of sandersn"> sandersn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#sandersn">Copy rank badge</a><br/>
 			Nathan Shively-Sanders
 		</td>
 		<td>Microsoft </td>
@@ -2163,7 +2165,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jeffwilcox">
 				<img src="https://avatars.githubusercontent.com/u/427913?s=72&u=6fa627fa927f66b52934c4c180012af38d5c9e65&v=4" width="24" alt="Avatar of jeffwilcox"> jeffwilcox
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jeffwilcox">Copy rank badge</a><br/>
 			Jeff Wilcox
 		</td>
 		<td>@microsoft </td>
@@ -2176,7 +2178,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/trusktr">
 				<img src="https://avatars.githubusercontent.com/u/297678?s=72&u=1a96252b00f42440aea79ab73a2c25f6f8964553&v=4" width="24" alt="Avatar of trusktr"> trusktr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#trusktr">Copy rank badge</a><br/>
 			Joe Pea
 		</td>
 		<td>No Company</td>
@@ -2189,7 +2191,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/frankmcsherry">
 				<img src="https://avatars.githubusercontent.com/u/5741500?s=72&u=33e69eeeaae260b94c6fae4a2e15d36784b6dffe&v=4" width="24" alt="Avatar of frankmcsherry"> frankmcsherry
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#frankmcsherry">Copy rank badge</a><br/>
 			Frank McSherry
 		</td>
 		<td>@materializeinc </td>
@@ -2202,7 +2204,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/reshamas">
 				<img src="https://avatars.githubusercontent.com/u/2507232?s=72&u=7bdb07af07dd426776aa321e6dd671bbd202c8ac&v=4" width="24" alt="Avatar of reshamas"> reshamas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#reshamas">Copy rank badge</a><br/>
 			Reshama Shaikh
 		</td>
 		<td>@data-umbrella </td>
@@ -2215,7 +2217,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/omeraplak">
 				<img src="https://avatars.githubusercontent.com/u/1110414?s=72&u=71318803e1f5d33a284813bbd5383e839e0ca067&v=4" width="24" alt="Avatar of omeraplak"> omeraplak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#omeraplak">Copy rank badge</a><br/>
 			Omer Aplak
 		</td>
 		<td>@voltagent </td>
@@ -2228,7 +2230,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/liyin2015">
 				<img src="https://avatars.githubusercontent.com/u/14322677?s=72&u=988ef4836ed1a63e06c8159daa1adc21f136983c&v=4" width="24" alt="Avatar of liyin2015"> liyin2015
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#liyin2015">Copy rank badge</a><br/>
 			Li Yin
 		</td>
 		<td>Sylphai </td>
@@ -2241,7 +2243,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/olgabot">
 				<img src="https://avatars.githubusercontent.com/u/806256?s=72&u=d885b82c401e0eeadf8da3324d7c9ebf3ec59ba3&v=4" width="24" alt="Avatar of olgabot"> olgabot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#olgabot">Copy rank badge</a><br/>
 			Olga Botvinnik
 		</td>
 		<td>@seanome </td>
@@ -2254,7 +2256,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ktbyers">
 				<img src="https://avatars.githubusercontent.com/u/899716?s=72&u=6c60348bfb9243a76ae0122430aceea6e908d688&v=4" width="24" alt="Avatar of ktbyers"> ktbyers
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ktbyers">Copy rank badge</a><br/>
 			Kirk Byers
 		</td>
 		<td>Twin Bridges Technology </td>
@@ -2267,7 +2269,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ljvmiranda921">
 				<img src="https://avatars.githubusercontent.com/u/12949683?s=72&u=eea2ae993b7efc4ea6cc1031463dcefe6ac212cf&v=4" width="24" alt="Avatar of ljvmiranda921"> ljvmiranda921
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ljvmiranda921">Copy rank badge</a><br/>
 			Lj Miranda
 		</td>
 		<td>@allenai </td>
@@ -2280,7 +2282,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/joshdholtz">
 				<img src="https://avatars.githubusercontent.com/u/401294?s=72&u=07c2eec6efa295891e9e2ee7055bee119106116d&v=4" width="24" alt="Avatar of joshdholtz"> joshdholtz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#joshdholtz">Copy rank badge</a><br/>
 			Josh Holtz
 		</td>
 		<td>@revenuecat  </td>
@@ -2293,7 +2295,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/leeoniya">
 				<img src="https://avatars.githubusercontent.com/u/43234?s=72&u=49f10c1db35f1a4f328346b597cc763f695bb29d&v=4" width="24" alt="Avatar of leeoniya"> leeoniya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#leeoniya">Copy rank badge</a><br/>
 			Leon Sorokin
 		</td>
 		<td>L6 @grafana </td>
@@ -2306,7 +2308,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nbarbettini">
 				<img src="https://avatars.githubusercontent.com/u/7525482?s=72&u=e92e8fb9af2b9f2443180c7e4d687b115d21d531&v=4" width="24" alt="Avatar of nbarbettini"> nbarbettini
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nbarbettini">Copy rank badge</a><br/>
 			Nate Barbettini
 		</td>
 		<td>No Company</td>
@@ -2319,7 +2321,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/neodigm">
 				<img src="https://avatars.githubusercontent.com/u/3151842?s=72&u=ffb96ad83c18e5e0ff0a1f221cbb6200d623202a&v=4" width="24" alt="Avatar of neodigm"> neodigm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#neodigm">Copy rank badge</a><br/>
 			Scott C. Krause
 		</td>
 		<td>Independent </td>
@@ -2332,7 +2334,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/steveklabnik">
 				<img src="https://avatars.githubusercontent.com/u/27786?s=72&u=5af723f67163593cc930a745f73a64a3b1e150e3&v=4" width="24" alt="Avatar of steveklabnik"> steveklabnik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#steveklabnik">Copy rank badge</a><br/>
 			Steve Klabnik
 		</td>
 		<td>@oxidecomputer  </td>
@@ -2345,7 +2347,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/shykes">
 				<img src="https://avatars.githubusercontent.com/u/29565?s=72&u=13ae12e8e93659cab6d6b36c6892d038a0550051&v=4" width="24" alt="Avatar of shykes"> shykes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#shykes">Copy rank badge</a><br/>
 			Solomon Hykes
 		</td>
 		<td>No Company</td>
@@ -2358,7 +2360,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/shilman">
 				<img src="https://avatars.githubusercontent.com/u/488689?s=72&u=f8d1033c37b25d2314552b72fcac9531ae44e4ea&v=4" width="24" alt="Avatar of shilman"> shilman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#shilman">Copy rank badge</a><br/>
 			Michael Shilman
 		</td>
 		<td>Lab80 </td>
@@ -2371,7 +2373,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/caffix">
 				<img src="https://avatars.githubusercontent.com/u/7319658?s=72&u=76945bf61baa76e7afe2baada2f73b2737bf9159&v=4" width="24" alt="Avatar of caffix"> caffix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#caffix">Copy rank badge</a><br/>
 			Jeff Foley
 		</td>
 		<td>@owasp </td>
@@ -2384,7 +2386,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/haifengl">
 				<img src="https://avatars.githubusercontent.com/u/5502052?s=72&u=28479f7892a795094513fddda76295c904cc9923&v=4" width="24" alt="Avatar of haifengl"> haifengl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#haifengl">Copy rank badge</a><br/>
 			Haifeng Li
 		</td>
 		<td>No Company</td>
@@ -2397,7 +2399,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jaredhanson">
 				<img src="https://avatars.githubusercontent.com/u/10355?s=72&u=9a98b23a8c8bd131c6a3d029fc221a0c0b5df0b3&v=4" width="24" alt="Avatar of jaredhanson"> jaredhanson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jaredhanson">Copy rank badge</a><br/>
 			Jared Hanson
 		</td>
 		<td>No Company</td>
@@ -2410,7 +2412,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jackyzha0">
 				<img src="https://avatars.githubusercontent.com/u/23178940?s=72&u=1092d0a1bca8868a97d52b9020c2f87707e57219&v=4" width="24" alt="Avatar of jackyzha0"> jackyzha0
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jackyzha0">Copy rank badge</a><br/>
 			Jacky Zhao
 		</td>
 		<td>@replit </td>
@@ -2423,7 +2425,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jeremyckahn">
 				<img src="https://avatars.githubusercontent.com/u/366330?s=72&u=203d0697605e1c0ab6721bbbbba26898fefc664d&v=4" width="24" alt="Avatar of jeremyckahn"> jeremyckahn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jeremyckahn">Copy rank badge</a><br/>
 			Jeremy Kahn
 		</td>
 		<td>No Company</td>
@@ -2436,7 +2438,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/colebemis">
 				<img src="https://avatars.githubusercontent.com/u/4608155?s=72&u=9840a5cec00c7cc06fcbab038a6a0976ced3bfad&v=4" width="24" alt="Avatar of colebemis"> colebemis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#colebemis">Copy rank badge</a><br/>
 			Cole Bemis
 		</td>
 		<td>No Company</td>
@@ -2449,7 +2451,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mbostock">
 				<img src="https://avatars.githubusercontent.com/u/230541?s=72&u=1daa79b65f78d09663f7e6b97bf0b74a0bce8a97&v=4" width="24" alt="Avatar of mbostock"> mbostock
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mbostock">Copy rank badge</a><br/>
 			Mike Bostock
 		</td>
 		<td>@observablehq  </td>
@@ -2462,7 +2464,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/fafhrd91">
 				<img src="https://avatars.githubusercontent.com/u/598990?s=72&v=4" width="24" alt="Avatar of fafhrd91"> fafhrd91
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#fafhrd91">Copy rank badge</a><br/>
 			Nikolay Kim
 		</td>
 		<td>Microsoft </td>
@@ -2475,7 +2477,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/1st1">
 				<img src="https://avatars.githubusercontent.com/u/239003?s=72&v=4" width="24" alt="Avatar of 1st1"> 1st1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#1st1">Copy rank badge</a><br/>
 			Yury Selivanov
 		</td>
 		<td>@geldata </td>
@@ -2488,7 +2490,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/meliksahyorulmazlar">
 				<img src="https://avatars.githubusercontent.com/u/141827156?s=72&v=4" width="24" alt="Avatar of meliksahyorulmazlar"> meliksahyorulmazlar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#meliksahyorulmazlar">Copy rank badge</a><br/>
 			Meliksah Yorulmazlar
 		</td>
 		<td>Rensselaer Polytechnic Institute </td>
@@ -2501,7 +2503,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/arielweinberger">
 				<img src="https://avatars.githubusercontent.com/u/4976416?s=72&u=c40d5766168425e8f35ae853d923cea8bf991251&v=4" width="24" alt="Avatar of arielweinberger"> arielweinberger
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#arielweinberger">Copy rank badge</a><br/>
 			Ariel Weinberger
 		</td>
 		<td>Vp Of Ai At<br/>@appwrite<br/></td>
@@ -2514,7 +2516,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Nutlope">
 				<img src="https://avatars.githubusercontent.com/u/63742054?s=72&u=befe4ae74b906698be965bad482d0e02fc7707ab&v=4" width="24" alt="Avatar of Nutlope"> Nutlope
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Nutlope">Copy rank badge</a><br/>
 			Hassan El Mghari
 		</td>
 		<td>No Company</td>
@@ -2527,7 +2529,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/samselikoff">
 				<img src="https://avatars.githubusercontent.com/u/2922250?s=72&v=4" width="24" alt="Avatar of samselikoff"> samselikoff
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#samselikoff">Copy rank badge</a><br/>
 			Sam Selikoff
 		</td>
 		<td>Build Ui </td>
@@ -2540,7 +2542,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/dohooo">
 				<img src="https://avatars.githubusercontent.com/u/32405058?s=72&u=ebedfa6ddeb5c423983630f9d265e1e746fab8de&v=4" width="24" alt="Avatar of dohooo"> dohooo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#dohooo">Copy rank badge</a><br/>
 			Caspian 東澔
 		</td>
 		<td>@dosu-ai  </td>
@@ -2553,7 +2555,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/recmo">
 				<img src="https://avatars.githubusercontent.com/u/4532328?s=72&u=db65d77fd630be1159b22b0bc64246e65af05609&v=4" width="24" alt="Avatar of recmo"> recmo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#recmo">Copy rank badge</a><br/>
 			Remco Bloemen
 		</td>
 		<td>@worldcoin  </td>
@@ -2566,7 +2568,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/t3dotgg">
 				<img src="https://avatars.githubusercontent.com/u/6751787?s=72&u=69a6486b20fc980615e51457f6a5b56103cea295&v=4" width="24" alt="Avatar of t3dotgg"> t3dotgg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#t3dotgg">Copy rank badge</a><br/>
 			Theo Browne
 		</td>
 		<td>Ceo @ Ping.gg </td>
@@ -2579,7 +2581,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/MrChromebox">
 				<img src="https://avatars.githubusercontent.com/u/948902?s=72&v=4" width="24" alt="Avatar of MrChromebox"> MrChromebox
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#MrChromebox">Copy rank badge</a><br/>
 			MrChromebox
 		</td>
 		<td>No Company</td>
@@ -2592,7 +2594,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/tpolecat">
 				<img src="https://avatars.githubusercontent.com/u/1200131?s=72&v=4" width="24" alt="Avatar of tpolecat"> tpolecat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#tpolecat">Copy rank badge</a><br/>
 			Rob Norris
 		</td>
 		<td>Gemini Observatory </td>
@@ -2605,7 +2607,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/burningion">
 				<img src="https://avatars.githubusercontent.com/u/625414?s=72&u=5080e5e75d1705ef2a39f84942ecefce5365b340&v=4" width="24" alt="Avatar of burningion"> burningion
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#burningion">Copy rank badge</a><br/>
 			Kirk Kaiser
 		</td>
 		<td>No Company</td>
@@ -2618,7 +2620,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/praeclarum">
 				<img src="https://avatars.githubusercontent.com/u/323548?s=72&v=4" width="24" alt="Avatar of praeclarum"> praeclarum
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#praeclarum">Copy rank badge</a><br/>
 			Frank A. Krueger
 		</td>
 		<td>Krueger Systems, Inc. </td>
@@ -2631,7 +2633,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/stevedekorte">
 				<img src="https://avatars.githubusercontent.com/u/138?s=72&v=4" width="24" alt="Avatar of stevedekorte"> stevedekorte
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#stevedekorte">Copy rank badge</a><br/>
 			Steve Dekorte
 		</td>
 		<td>No Company</td>
@@ -2644,7 +2646,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ladyada">
 				<img src="https://avatars.githubusercontent.com/u/1214161?s=72&v=4" width="24" alt="Avatar of ladyada"> ladyada
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ladyada">Copy rank badge</a><br/>
 			Limor "Ladyada" Fried
 		</td>
 		<td>Adafruit Industries </td>
@@ -2657,7 +2659,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/necolas">
 				<img src="https://avatars.githubusercontent.com/u/239676?s=72&u=4b545d3dd62d217b40a624ebbe987cfc67e73803&v=4" width="24" alt="Avatar of necolas"> necolas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#necolas">Copy rank badge</a><br/>
 			Nicolas Gallagher
 		</td>
 		<td>Meta </td>
@@ -2670,7 +2672,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/josephsavona">
 				<img src="https://avatars.githubusercontent.com/u/6425824?s=72&v=4" width="24" alt="Avatar of josephsavona"> josephsavona
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#josephsavona">Copy rank badge</a><br/>
 			Joseph Savona
 		</td>
 		<td>React & Relay At<br/>Meta<br/></td>
@@ -2683,7 +2685,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ethanflower1903">
 				<img src="https://avatars.githubusercontent.com/u/84658436?s=72&u=fa4791c10bdb6d04372f788f4f6250ab0d27a090&v=4" width="24" alt="Avatar of ethanflower1903"> ethanflower1903
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ethanflower1903">Copy rank badge</a><br/>
 			Ethan Flower-01100101 01110100 01101000 01100001 01101110
 		</td>
 		<td>No Company</td>
@@ -2696,7 +2698,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/tpn">
 				<img src="https://avatars.githubusercontent.com/u/629986?s=72&u=a4bf017f389eb07e5f9fc588711e7d14e032ad9e&v=4" width="24" alt="Avatar of tpn"> tpn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#tpn">Copy rank badge</a><br/>
 			Trent Nelson
 		</td>
 		<td>Nvidia </td>
@@ -2709,7 +2711,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/pfrazee">
 				<img src="https://avatars.githubusercontent.com/u/1270099?s=72&u=58e1803dbf420daae8846530511e818a5b9a5b1c&v=4" width="24" alt="Avatar of pfrazee"> pfrazee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#pfrazee">Copy rank badge</a><br/>
 			Paul Frazee
 		</td>
 		<td>Bluesky </td>
@@ -2722,7 +2724,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/KilledByAPixel">
 				<img src="https://avatars.githubusercontent.com/u/16227600?s=72&u=eebf80839d18b9f860567012c5cf8f40149f23d1&v=4" width="24" alt="Avatar of KilledByAPixel"> KilledByAPixel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#KilledByAPixel">Copy rank badge</a><br/>
 			Frank Force
 		</td>
 		<td>Independent Developer </td>
@@ -2735,7 +2737,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/soumilshah1995">
 				<img src="https://avatars.githubusercontent.com/u/39345855?s=72&u=b340109ef3343c2043c48eead827540cf8ee98cd&v=4" width="24" alt="Avatar of soumilshah1995"> soumilshah1995
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#soumilshah1995">Copy rank badge</a><br/>
 			Soumil Nitin Shah
 		</td>
 		<td>Sr Software  Engineer<br/>|<br/>Aws<br/>&<br/>Apache<br/>Hudi<br/>&<br/>Iceberg<br/>Expert<br/>|<br/>Spark<br/>&<br/>Aws<br/>Glue<br/>Enthusiast<br/>|<br/>Youtuber<br/></td>
@@ -2748,7 +2750,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/diamondburned">
 				<img src="https://avatars.githubusercontent.com/u/8463786?s=72&u=68f1e47a74405d7a7be9cc79bb141ef7c77fc999&v=4" width="24" alt="Avatar of diamondburned"> diamondburned
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#diamondburned">Copy rank badge</a><br/>
 			Diamond
 		</td>
 		<td>Google </td>
@@ -2761,7 +2763,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nolenroyalty">
 				<img src="https://avatars.githubusercontent.com/u/1676311?s=72&u=de5207aaaaafd67667a11167bea23019f039eb7f&v=4" width="24" alt="Avatar of nolenroyalty"> nolenroyalty
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nolenroyalty">Copy rank badge</a><br/>
 			nolen (eieio)
 		</td>
 		<td>No Company</td>
@@ -2774,7 +2776,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jamtur01">
 				<img src="https://avatars.githubusercontent.com/u/4365?s=72&u=a3c633a6c5302d5bdd448213321350f4bf566eeb&v=4" width="24" alt="Avatar of jamtur01"> jamtur01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jamtur01">Copy rank badge</a><br/>
 			James Turnbull
 		</td>
 		<td>No Company</td>
@@ -2787,7 +2789,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/johnpolacek">
 				<img src="https://avatars.githubusercontent.com/u/179482?s=72&u=b58b32a01746a8c0e1a5149032a68ac22ed3fee5&v=4" width="24" alt="Avatar of johnpolacek"> johnpolacek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#johnpolacek">Copy rank badge</a><br/>
 			John Polacek
 		</td>
 		<td>Veg </td>
@@ -2800,7 +2802,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/asg017">
 				<img src="https://avatars.githubusercontent.com/u/15178711?s=72&u=79bc7ce06934e9f2e6344d112f5bb5ea4e80e53a&v=4" width="24" alt="Avatar of asg017"> asg017
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#asg017">Copy rank badge</a><br/>
 			Alex Garcia
 		</td>
 		<td>No Company</td>
@@ -2813,7 +2815,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/pkellner">
 				<img src="https://avatars.githubusercontent.com/u/241170?s=72&u=997590efb31f63062720e49b29b84fc498c10746&v=4" width="24" alt="Avatar of pkellner"> pkellner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#pkellner">Copy rank badge</a><br/>
 			Peter Kellner
 		</td>
 		<td>73rd Street Associates </td>
@@ -2826,7 +2828,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/formcms">
 				<img src="https://avatars.githubusercontent.com/u/31357872?s=72&u=6230738ff5b9c6cbf3a2c037cce08150d657a763&v=4" width="24" alt="Avatar of formcms"> formcms
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#formcms">Copy rank badge</a><br/>
 			formcms
 		</td>
 		<td>No Company</td>
@@ -2839,7 +2841,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/brenns10">
 				<img src="https://avatars.githubusercontent.com/u/5682515?s=72&u=f8546431b97ed18bdbaba68b8c14ab36c1e19390&v=4" width="24" alt="Avatar of brenns10"> brenns10
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#brenns10">Copy rank badge</a><br/>
 			Stephen Brennan
 		</td>
 		<td>@oracle </td>
@@ -2852,7 +2854,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/raxod502">
 				<img src="https://avatars.githubusercontent.com/u/6559064?s=72&u=558e0407a91007c571648f4355c35f5d5f45df06&v=4" width="24" alt="Avatar of raxod502"> raxod502
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#raxod502">Copy rank badge</a><br/>
 			Radon Rosborough
 		</td>
 		<td>No Company</td>
@@ -2865,7 +2867,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/munificent">
 				<img src="https://avatars.githubusercontent.com/u/46275?s=72&v=4" width="24" alt="Avatar of munificent"> munificent
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#munificent">Copy rank badge</a><br/>
 			Bob Nystrom
 		</td>
 		<td>@google, On @dart-lang <br/></td>
@@ -2878,7 +2880,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/RyanCavanaugh">
 				<img src="https://avatars.githubusercontent.com/u/6685088?s=72&u=dd7d4af6a697fcc985ba4b2a1d6a55354590d8ef&v=4" width="24" alt="Avatar of RyanCavanaugh"> RyanCavanaugh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#RyanCavanaugh">Copy rank badge</a><br/>
 			Ryan Cavanaugh
 		</td>
 		<td>Microsoft </td>
@@ -2891,7 +2893,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Fryingpannn">
 				<img src="https://avatars.githubusercontent.com/u/59063950?s=72&u=96c57758d895c52bf382ec53a69bfe4c6e75c76b&v=4" width="24" alt="Avatar of Fryingpannn"> Fryingpannn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Fryingpannn">Copy rank badge</a><br/>
 			Duke Pan
 		</td>
 		<td>No Company</td>
@@ -2904,7 +2906,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nelhage">
 				<img src="https://avatars.githubusercontent.com/u/16725?s=72&u=face1271bb66dda07eaee75541cb42383b6791eb&v=4" width="24" alt="Avatar of nelhage"> nelhage
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nelhage">Copy rank badge</a><br/>
 			Nelson Elhage
 		</td>
 		<td>No Company</td>
@@ -2917,7 +2919,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/caniszczyk">
 				<img src="https://avatars.githubusercontent.com/u/63777?s=72&u=dc4d5949707417833b0850fd1f292ab41062bdcc&v=4" width="24" alt="Avatar of caniszczyk"> caniszczyk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#caniszczyk">Copy rank badge</a><br/>
 			Chris Aniszczyk
 		</td>
 		<td>Linux Foundation </td>
@@ -2930,7 +2932,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ChristopherBiscardi">
 				<img src="https://avatars.githubusercontent.com/u/551247?s=72&u=de2d43aeb37cd93ffbc46ed30a19e859bd07b07c&v=4" width="24" alt="Avatar of ChristopherBiscardi"> ChristopherBiscardi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ChristopherBiscardi">Copy rank badge</a><br/>
 			Chris Biscardi
 		</td>
 		<td>@rust-adventure  </td>
@@ -2943,7 +2945,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mattjj">
 				<img src="https://avatars.githubusercontent.com/u/1458824?s=72&u=5eef860ff580ed2b87adbd823cf58b3d461b4c7a&v=4" width="24" alt="Avatar of mattjj"> mattjj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mattjj">Copy rank badge</a><br/>
 			Matthew Johnson
 		</td>
 		<td>Google </td>
@@ -2956,7 +2958,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jheer">
 				<img src="https://avatars.githubusercontent.com/u/202799?s=72&u=3918087b0bbb9e30d292c01f0ab5bf216cf4b36f&v=4" width="24" alt="Avatar of jheer"> jheer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jheer">Copy rank badge</a><br/>
 			Jeffrey Heer
 		</td>
 		<td>University Of Washington @uwdata,<br/>Trifacta<br/>Inc.<br/></td>
@@ -2969,7 +2971,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/crutkas">
 				<img src="https://avatars.githubusercontent.com/u/1462282?s=72&v=4" width="24" alt="Avatar of crutkas"> crutkas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#crutkas">Copy rank badge</a><br/>
 			Clint Rutkas
 		</td>
 		<td>@microsoft </td>
@@ -2982,7 +2984,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/anvaka">
 				<img src="https://avatars.githubusercontent.com/u/225407?s=72&u=ae5ab58bd50a325fdd0b8fa419f42f983a3f04ba&v=4" width="24" alt="Avatar of anvaka"> anvaka
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#anvaka">Copy rank badge</a><br/>
 			Andrei Kashcha
 		</td>
 		<td>No Company</td>
@@ -2995,7 +2997,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/djspiewak">
 				<img src="https://avatars.githubusercontent.com/u/752?s=72&u=f66a866217720f5763420ab269fc06126f169009&v=4" width="24" alt="Avatar of djspiewak"> djspiewak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#djspiewak">Copy rank badge</a><br/>
 			Daniel Spiewak
 		</td>
 		<td>@nvidia </td>
@@ -3008,7 +3010,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ericclemmons">
 				<img src="https://avatars.githubusercontent.com/u/15182?s=72&u=381a714a262fcbf602a2a02e7a97a6b03d18a15a&v=4" width="24" alt="Avatar of ericclemmons"> ericclemmons
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ericclemmons">Copy rank badge</a><br/>
 			Eric Clemmons
 		</td>
 		<td>No Company</td>
@@ -3021,7 +3023,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/shoyer">
 				<img src="https://avatars.githubusercontent.com/u/1217238?s=72&u=b61e7e0085405ce6d7d53f8f39a1360ef9723f72&v=4" width="24" alt="Avatar of shoyer"> shoyer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#shoyer">Copy rank badge</a><br/>
 			Stephan Hoyer
 		</td>
 		<td>@google  </td>
@@ -3034,7 +3036,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/andyleejordan">
 				<img src="https://avatars.githubusercontent.com/u/2226434?s=72&u=5c8f26b2f163f40955d8331a9c24b993a8852d59&v=4" width="24" alt="Avatar of andyleejordan"> andyleejordan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#andyleejordan">Copy rank badge</a><br/>
 			Andy Jordan
 		</td>
 		<td>@microsoft </td>
@@ -3047,7 +3049,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/DanielRosenwasser">
 				<img src="https://avatars.githubusercontent.com/u/972891?s=72&u=5a4dfe64fb09433dfa589b588361f04231144416&v=4" width="24" alt="Avatar of DanielRosenwasser"> DanielRosenwasser
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#DanielRosenwasser">Copy rank badge</a><br/>
 			Daniel Rosenwasser
 		</td>
 		<td>@microsoft </td>
@@ -3060,7 +3062,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nmn">
 				<img src="https://avatars.githubusercontent.com/u/3582514?s=72&u=42a62458a9478f98d4004b881192806366a7f38c&v=4" width="24" alt="Avatar of nmn"> nmn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nmn">Copy rank badge</a><br/>
 			Naman Goel
 		</td>
 		<td>Facebook </td>
@@ -3073,7 +3075,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/leafo">
 				<img src="https://avatars.githubusercontent.com/u/15198?s=72&u=10e02dc595fc7a9728ebc841eb12a11922b20637&v=4" width="24" alt="Avatar of leafo"> leafo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#leafo">Copy rank badge</a><br/>
 			leaf
 		</td>
 		<td>Itch.zone </td>
@@ -3086,7 +3088,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/elithrar">
 				<img src="https://avatars.githubusercontent.com/u/18544?s=72&u=9070a4c1594f994f1db530596d2f94a703537aff&v=4" width="24" alt="Avatar of elithrar"> elithrar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#elithrar">Copy rank badge</a><br/>
 			Matt Silverlock
 		</td>
 		<td>@cloudflare @gorilla  </td>
@@ -3099,7 +3101,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/pauldix">
 				<img src="https://avatars.githubusercontent.com/u/4331?s=72&u=f224add70ff8a79445d7bca8881f91f8a6d6ad51&v=4" width="24" alt="Avatar of pauldix"> pauldix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#pauldix">Copy rank badge</a><br/>
 			Paul Dix
 		</td>
 		<td>@influxdata  </td>
@@ -3112,7 +3114,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ehartford">
 				<img src="https://avatars.githubusercontent.com/u/1117701?s=72&v=4" width="24" alt="Avatar of ehartford"> ehartford
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ehartford">Copy rank badge</a><br/>
 			Eric Hartford
 		</td>
 		<td>No Company</td>
@@ -3125,7 +3127,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/whitead">
 				<img src="https://avatars.githubusercontent.com/u/908389?s=72&v=4" width="24" alt="Avatar of whitead"> whitead
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#whitead">Copy rank badge</a><br/>
 			Andrew White
 		</td>
 		<td>University Of Rochester/futurehous </td>
@@ -3138,7 +3140,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/sferik">
 				<img src="https://avatars.githubusercontent.com/u/10308?s=72&u=5a2785be9d9bf021907c5c53dc1345edd137604c&v=4" width="24" alt="Avatar of sferik"> sferik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#sferik">Copy rank badge</a><br/>
 			Erik Berlin
 		</td>
 		<td>No Company</td>
@@ -3151,7 +3153,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/clareliguori">
 				<img src="https://avatars.githubusercontent.com/u/484245?s=72&u=602747e2ad439196da899cef8fd79dbee6c7ab78&v=4" width="24" alt="Avatar of clareliguori"> clareliguori
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#clareliguori">Copy rank badge</a><br/>
 			Clare Liguori
 		</td>
 		<td>Amazon Web Services </td>
@@ -3164,7 +3166,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/iliana">
 				<img src="https://avatars.githubusercontent.com/u/52814?s=72&u=0b667648db02e53b05d2b9e679cc88cc78c9dd9c&v=4" width="24" alt="Avatar of iliana"> iliana
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#iliana">Copy rank badge</a><br/>
 			iliana etaoin
 		</td>
 		<td>@oxidecomputer </td>
@@ -3177,7 +3179,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ssg">
 				<img src="https://avatars.githubusercontent.com/u/241217?s=72&u=7a0def2306a5b8c34d2a36b93d1a487d1d973756&v=4" width="24" alt="Avatar of ssg"> ssg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ssg">Copy rank badge</a><br/>
 			Sedat Kapanoğlu
 		</td>
 		<td>No Company</td>
@@ -3190,7 +3192,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Pessimistress">
 				<img src="https://avatars.githubusercontent.com/u/2059298?s=72&v=4" width="24" alt="Avatar of Pessimistress"> Pessimistress
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Pessimistress">Copy rank badge</a><br/>
 			Xiaoji Chen
 		</td>
 		<td>No Company</td>
@@ -3203,7 +3205,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/garystafford">
 				<img src="https://avatars.githubusercontent.com/u/1365830?s=72&u=cdb139865bcecc6815e9fd229e7c88efffd7c7fc&v=4" width="24" alt="Avatar of garystafford"> garystafford
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#garystafford">Copy rank badge</a><br/>
 			Gary A. Stafford
 		</td>
 		<td>Amazon Web Services (aws)<br/></td>
@@ -3216,7 +3218,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/osnr">
 				<img src="https://avatars.githubusercontent.com/u/96857?s=72&u=fdb1f72ccd71e5e53ff0edee7f60c5bde632cd10&v=4" width="24" alt="Avatar of osnr"> osnr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#osnr">Copy rank badge</a><br/>
 			Omar Rizwan
 		</td>
 		<td>No Company</td>
@@ -3229,7 +3231,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/JustinBeckwith">
 				<img src="https://avatars.githubusercontent.com/u/534619?s=72&u=6c42b88875228a42b0dd49035d4ae48b3d20c028&v=4" width="24" alt="Avatar of JustinBeckwith"> JustinBeckwith
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#JustinBeckwith">Copy rank badge</a><br/>
 			Justin Beckwith
 		</td>
 		<td>@discord </td>
@@ -3242,7 +3244,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ottomated">
 				<img src="https://avatars.githubusercontent.com/u/31470743?s=72&u=26ed8041f671da5b051f4cad76b016cea348d662&v=4" width="24" alt="Avatar of ottomated"> ottomated
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ottomated">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -3255,7 +3257,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/deshraj">
 				<img src="https://avatars.githubusercontent.com/u/2945708?s=72&u=0c456d36d858655f1072b52a29dedc7a98fc9f60&v=4" width="24" alt="Avatar of deshraj"> deshraj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#deshraj">Copy rank badge</a><br/>
 			Deshraj Yadav
 		</td>
 		<td>@mem0ai </td>
@@ -3268,7 +3270,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/anishathalye">
 				<img src="https://avatars.githubusercontent.com/u/3526486?s=72&u=b5c6c765e87e17c6718563bae3e693179a039d44&v=4" width="24" alt="Avatar of anishathalye"> anishathalye
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#anishathalye">Copy rank badge</a><br/>
 			Anish Athalye
 		</td>
 		<td>@cleanlab </td>
@@ -3281,7 +3283,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Dhravya">
 				<img src="https://avatars.githubusercontent.com/u/63950637?s=72&u=a1d804b135132cac15090fd93440a02ab5ce29b9&v=4" width="24" alt="Avatar of Dhravya"> Dhravya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Dhravya">Copy rank badge</a><br/>
 			Dhravya Shah
 		</td>
 		<td>@supermemoryai  </td>
@@ -3294,7 +3296,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/bmcfee">
 				<img src="https://avatars.githubusercontent.com/u/1190540?s=72&u=19b0b909f691178424a2cb69f379be4acdb16b42&v=4" width="24" alt="Avatar of bmcfee"> bmcfee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#bmcfee">Copy rank badge</a><br/>
 			Brian McFee
 		</td>
 		<td>New York University </td>
@@ -3307,7 +3309,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ritazh">
 				<img src="https://avatars.githubusercontent.com/u/1856066?s=72&u=92e06e7f14e86b5f71531a1a06eaad7910d2a7df&v=4" width="24" alt="Avatar of ritazh"> ritazh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ritazh">Copy rank badge</a><br/>
 			Rita Zhang
 		</td>
 		<td>Microsoft </td>
@@ -3320,7 +3322,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/rothgar">
 				<img src="https://avatars.githubusercontent.com/u/371796?s=72&u=30e95faf008fa57b04427949ce761c696bc64bcd&v=4" width="24" alt="Avatar of rothgar"> rothgar
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#rothgar">Copy rank badge</a><br/>
 			Justin Garrison
 		</td>
 		<td>@siderolabs </td>
@@ -3333,7 +3335,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/aardappel">
 				<img src="https://avatars.githubusercontent.com/u/4663648?s=72&u=3c9199cf6983cf44b3255d4779f282cd050b595b&v=4" width="24" alt="Avatar of aardappel"> aardappel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#aardappel">Copy rank badge</a><br/>
 			Wouter van Oortmerssen
 		</td>
 		<td>Voxray Games </td>
@@ -3346,7 +3348,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/getnamo">
 				<img src="https://avatars.githubusercontent.com/u/542365?s=72&u=cade260d9f5886c942b51169f2b5ee290c5fc5bd&v=4" width="24" alt="Avatar of getnamo"> getnamo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#getnamo">Copy rank badge</a><br/>
 			Jan Kaniewski
 		</td>
 		<td>Qnova Llc </td>
@@ -3359,7 +3361,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nmwsharp">
 				<img src="https://avatars.githubusercontent.com/u/12726725?s=72&u=363310b93d9eb8325ca2e4494880b0b7c01faef9&v=4" width="24" alt="Avatar of nmwsharp"> nmwsharp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nmwsharp">Copy rank badge</a><br/>
 			Nicholas Sharp
 		</td>
 		<td>No Company</td>
@@ -3372,7 +3374,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/LadyKerr">
 				<img src="https://avatars.githubusercontent.com/u/47188731?s=72&u=5e350a156c71137d5eb1456745619cd6ab9cbae7&v=4" width="24" alt="Avatar of LadyKerr"> LadyKerr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#LadyKerr">Copy rank badge</a><br/>
 			Kedasha Kerr
 		</td>
 		<td>Developer Advocate </td>
@@ -3385,7 +3387,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/dmarcos">
 				<img src="https://avatars.githubusercontent.com/u/39342?s=72&u=0df194422968fcb80d0262ff2c3172f1ea454cb6&v=4" width="24" alt="Avatar of dmarcos"> dmarcos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#dmarcos">Copy rank badge</a><br/>
 			Diego Marcos
 		</td>
 		<td>@supermedium </td>
@@ -3398,7 +3400,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/acdlite">
 				<img src="https://avatars.githubusercontent.com/u/3624098?s=72&u=94d8ba563cef4d8fd24c4b666272a71af46a2fa1&v=4" width="24" alt="Avatar of acdlite"> acdlite
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#acdlite">Copy rank badge</a><br/>
 			Andrew Clark
 		</td>
 		<td>@vercel  </td>
@@ -3411,7 +3413,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/danielfrg">
 				<img src="https://avatars.githubusercontent.com/u/1580714?s=72&u=ce5e3053a8045dc96491d5222f0953edc46496ce&v=4" width="24" alt="Avatar of danielfrg"> danielfrg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#danielfrg">Copy rank badge</a><br/>
 			Daniel Rodriguez
 		</td>
 		<td>@nvidia </td>
@@ -3424,7 +3426,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/zenspider">
 				<img src="https://avatars.githubusercontent.com/u/9832?s=72&u=373f535db0f519750b898d7754096d9ada71e5a2&v=4" width="24" alt="Avatar of zenspider"> zenspider
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#zenspider">Copy rank badge</a><br/>
 			Ryan Davis
 		</td>
 		<td>Seattlerb Consulting </td>
@@ -3437,7 +3439,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ericflo">
 				<img src="https://avatars.githubusercontent.com/u/1228?s=72&u=47120d4136bf041babedb8900c86ccf06f171d18&v=4" width="24" alt="Avatar of ericflo"> ericflo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ericflo">Copy rank badge</a><br/>
 			Eric Florenzano
 		</td>
 		<td>N/a </td>
@@ -3450,7 +3452,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/neonichu">
 				<img src="https://avatars.githubusercontent.com/u/118992?s=72&u=544f64efa9cbdbf2adaa9c205b1a1394832c2d84&v=4" width="24" alt="Avatar of neonichu"> neonichu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#neonichu">Copy rank badge</a><br/>
 			Boris Bügling
 		</td>
 		<td>@apple  </td>
@@ -3463,7 +3465,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mikermcneil">
 				<img src="https://avatars.githubusercontent.com/u/618009?s=72&u=23da0bbf25acd2a69059b93da75575a369e794c9&v=4" width="24" alt="Avatar of mikermcneil"> mikermcneil
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mikermcneil">Copy rank badge</a><br/>
 			Mike McNeil
 		</td>
 		<td>Fleet (@fleetdm) </td>
@@ -3476,7 +3478,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jbranchaud">
 				<img src="https://avatars.githubusercontent.com/u/694063?s=72&u=89fa47040e07830c648c881b1efada15d3993c6d&v=4" width="24" alt="Avatar of jbranchaud"> jbranchaud
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jbranchaud">Copy rank badge</a><br/>
 			Josh Branchaud
 		</td>
 		<td>Independent, Work With Me<br/>--><br/>Visualmode.dev<br/></td>
@@ -3489,7 +3491,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jakobzhao">
 				<img src="https://avatars.githubusercontent.com/u/134784?s=72&u=d66b91b015a7ba955be31a1dbaadcdef1d713884&v=4" width="24" alt="Avatar of jakobzhao"> jakobzhao
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jakobzhao">Copy rank badge</a><br/>
 			Bo Zhao
 		</td>
 		<td>University Of Washington </td>
@@ -3502,7 +3504,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/CodyJasonBennett">
 				<img src="https://avatars.githubusercontent.com/u/23324155?s=72&u=54a808be62d75cdddcb43c8a8c5e93c8d42a6aa2&v=4" width="24" alt="Avatar of CodyJasonBennett"> CodyJasonBennett
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#CodyJasonBennett">Copy rank badge</a><br/>
 			Cody Bennett
 		</td>
 		<td>No Company</td>
@@ -3515,7 +3517,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jdhitsolutions">
 				<img src="https://avatars.githubusercontent.com/u/12089920?s=72&u=8bbd7ac79c7918b479f0ede20455ba1c89b8be78&v=4" width="24" alt="Avatar of jdhitsolutions"> jdhitsolutions
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jdhitsolutions">Copy rank badge</a><br/>
 			Jeff Hicks
 		</td>
 		<td>Jdh Information Technology Solutions,<br/>Inc.<br/></td>
@@ -3528,7 +3530,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/hdm">
 				<img src="https://avatars.githubusercontent.com/u/1171392?s=72&u=4405224017d85735e44861e2f9e2c4e52a809fd2&v=4" width="24" alt="Avatar of hdm"> hdm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#hdm">Copy rank badge</a><br/>
 			HD Moore
 		</td>
 		<td>@runzeroinc  </td>
@@ -3541,7 +3543,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/bautistaaa">
 				<img src="https://avatars.githubusercontent.com/u/3660667?s=72&u=f0dc28c76979383e5f517f56f4ab0119e80f959e&v=4" width="24" alt="Avatar of bautistaaa"> bautistaaa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#bautistaaa">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Netflix </td>
@@ -3554,7 +3556,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/lokesh">
 				<img src="https://avatars.githubusercontent.com/u/51469?s=72&u=50714c37abe75bb24064456b6378feea9dec7500&v=4" width="24" alt="Avatar of lokesh"> lokesh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#lokesh">Copy rank badge</a><br/>
 			Lokesh Dhakar
 		</td>
 		<td>Square </td>
@@ -3567,7 +3569,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/benmarwick">
 				<img src="https://avatars.githubusercontent.com/u/1262179?s=72&v=4" width="24" alt="Avatar of benmarwick"> benmarwick
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#benmarwick">Copy rank badge</a><br/>
 			Ben Marwick
 		</td>
 		<td>University Of Washington </td>
@@ -3580,7 +3582,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/GeostatsGuy">
 				<img src="https://avatars.githubusercontent.com/u/32042483?s=72&u=b6a54fd71eeaea1536b5da88772323e5d2730253&v=4" width="24" alt="Avatar of GeostatsGuy"> GeostatsGuy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#GeostatsGuy">Copy rank badge</a><br/>
 			Michael Pyrcz
 		</td>
 		<td>@utaustin </td>
@@ -3593,7 +3595,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/getify">
 				<img src="https://avatars.githubusercontent.com/u/150330?s=72&u=41aa48771028d34bcf025eefe919bf75fbda77d4&v=4" width="24" alt="Avatar of getify"> getify
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#getify">Copy rank badge</a><br/>
 			Kyle Simpson
 		</td>
 		<td>Getify Solutions </td>
@@ -3606,7 +3608,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/argyleink">
 				<img src="https://avatars.githubusercontent.com/u/1134620?s=72&u=0d420b597986af4eb82e5c84d3a16a31da8fd326&v=4" width="24" alt="Avatar of argyleink"> argyleink
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#argyleink">Copy rank badge</a><br/>
 			Adam Argyle
 		</td>
 		<td>Ex-google </td>
@@ -3619,7 +3621,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/brendandburns">
 				<img src="https://avatars.githubusercontent.com/u/5751682?s=72&u=fdc4911e45896b06d1ff1ee529f7fd0957db5566&v=4" width="24" alt="Avatar of brendandburns"> brendandburns
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#brendandburns">Copy rank badge</a><br/>
 			Brendan Burns
 		</td>
 		<td>Microsoft </td>
@@ -3632,7 +3634,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/sqs">
 				<img src="https://avatars.githubusercontent.com/u/1976?s=72&u=b2974ab9b7a9be05cd1f36e198a3a8b4701f7910&v=4" width="24" alt="Avatar of sqs"> sqs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#sqs">Copy rank badge</a><br/>
 			Quinn Slack
 		</td>
 		<td>@sourcegraph </td>
@@ -3645,7 +3647,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/sinanuozdemir">
 				<img src="https://avatars.githubusercontent.com/u/3695746?s=72&u=c4348118ae6373a0b8f2b4dbfdde663a22a44359&v=4" width="24" alt="Avatar of sinanuozdemir"> sinanuozdemir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#sinanuozdemir">Copy rank badge</a><br/>
 			Sinan Ozdemir
 		</td>
 		<td>Loopgenius </td>
@@ -3658,7 +3660,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/arogozhnikov">
 				<img src="https://avatars.githubusercontent.com/u/6318811?s=72&u=5e99e15d9400a4bd8a449939093d38df94fd3e90&v=4" width="24" alt="Avatar of arogozhnikov"> arogozhnikov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#arogozhnikov">Copy rank badge</a><br/>
 			Alex Rogozhnikov
 		</td>
 		<td>No Company</td>
@@ -3671,7 +3673,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/davelab6">
 				<img src="https://avatars.githubusercontent.com/u/261579?s=72&u=5d17b53e70140cbef27f800ed04b75466fd09ee1&v=4" width="24" alt="Avatar of davelab6"> davelab6
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#davelab6">Copy rank badge</a><br/>
 			Dave Crossland
 		</td>
 		<td>@googlefonts  </td>
@@ -3684,7 +3686,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/steve8708">
 				<img src="https://avatars.githubusercontent.com/u/844291?s=72&u=88bf37d457b44126ea03f5ca2243267a467c1557&v=4" width="24" alt="Avatar of steve8708"> steve8708
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#steve8708">Copy rank badge</a><br/>
 			Steve Sewell
 		</td>
 		<td>Builder.io </td>
@@ -3697,7 +3699,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/wangkuiyi">
 				<img src="https://avatars.githubusercontent.com/u/1548775?s=72&u=f3b276356e5d0029059405e06d854d10138a409a&v=4" width="24" alt="Avatar of wangkuiyi"> wangkuiyi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#wangkuiyi">Copy rank badge</a><br/>
 			Yi Wang
 		</td>
 		<td>Facebook </td>
@@ -3710,7 +3712,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/evanw">
 				<img src="https://avatars.githubusercontent.com/u/406394?s=72&u=311ddafa2f676e0b821384e18b05f0f4e08bcacc&v=4" width="24" alt="Avatar of evanw"> evanw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#evanw">Copy rank badge</a><br/>
 			Evan Wallace
 		</td>
 		<td>No Company</td>
@@ -3723,7 +3725,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/pcwalton">
 				<img src="https://avatars.githubusercontent.com/u/157897?s=72&u=fab8268f5338550918b6e4379bb3ac6f6dce67c6&v=4" width="24" alt="Avatar of pcwalton"> pcwalton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#pcwalton">Copy rank badge</a><br/>
 			Patrick Walton
 		</td>
 		<td>No Company</td>
@@ -3736,7 +3738,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jnewland">
 				<img src="https://avatars.githubusercontent.com/u/47?s=72&u=7dcf631806ecf9e3570cac9a50c5e4da7ad05b34&v=4" width="24" alt="Avatar of jnewland"> jnewland
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jnewland">Copy rank badge</a><br/>
 			Jesse Newland
 		</td>
 		<td>@urcomputeringpal </td>
@@ -3749,7 +3751,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/topfunky">
 				<img src="https://avatars.githubusercontent.com/u/26?s=72&u=fd35cfe4e635388710c9e186ac206986db798656&v=4" width="24" alt="Avatar of topfunky"> topfunky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#topfunky">Copy rank badge</a><br/>
 			Geoffrey Grosenbach
 		</td>
 		<td>@datadog </td>
@@ -3762,7 +3764,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/srush">
 				<img src="https://avatars.githubusercontent.com/u/35882?s=72&u=f8d3deecb70343c1f2ab67b26514c56b2b22b349&v=4" width="24" alt="Avatar of srush"> srush
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#srush">Copy rank badge</a><br/>
 			Sasha Rush
 		</td>
 		<td>Cornell </td>
@@ -3775,7 +3777,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/pquerna">
 				<img src="https://avatars.githubusercontent.com/u/110123?s=72&v=4" width="24" alt="Avatar of pquerna"> pquerna
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#pquerna">Copy rank badge</a><br/>
 			Paul Querna
 		</td>
 		<td>No Company</td>
@@ -3788,7 +3790,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mi6paulino">
 				<img src="https://avatars.githubusercontent.com/u/181088958?s=72&u=2b173726c01b7c3eaaaf4dd0a04ddb9ef4992d53&v=4" width="24" alt="Avatar of mi6paulino"> mi6paulino
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mi6paulino">Copy rank badge</a><br/>
 			Michael Paulino 
 		</td>
 		<td>Michael Paulino Solutions </td>
@@ -3801,7 +3803,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ry">
 				<img src="https://avatars.githubusercontent.com/u/80?s=72&v=4" width="24" alt="Avatar of ry"> ry
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ry">Copy rank badge</a><br/>
 			Ryan Dahl
 		</td>
 		<td>@denoland  </td>
@@ -3814,7 +3816,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/swyxio">
 				<img src="https://avatars.githubusercontent.com/u/6764957?s=72&u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4" width="24" alt="Avatar of swyxio"> swyxio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#swyxio">Copy rank badge</a><br/>
 			swyx.io
 		</td>
 		<td>Smol.ai </td>
@@ -3827,7 +3829,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/josephmachado">
 				<img src="https://avatars.githubusercontent.com/u/61124148?s=72&u=d27c709f23cc791a9735cb2bf538f114ad99f73e&v=4" width="24" alt="Avatar of josephmachado"> josephmachado
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#josephmachado">Copy rank badge</a><br/>
 			Start Data Engineering
 		</td>
 		<td>No Company</td>
@@ -3840,7 +3842,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/aslushnikov">
 				<img src="https://avatars.githubusercontent.com/u/746130?s=72&u=bc83ba749f90def9710c03f1502595f1c3af49a9&v=4" width="24" alt="Avatar of aslushnikov"> aslushnikov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#aslushnikov">Copy rank badge</a><br/>
 			Andrey Lushnikov
 		</td>
 		<td>@degulabs  </td>
@@ -3853,7 +3855,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/c4pt0r">
 				<img src="https://avatars.githubusercontent.com/u/773853?s=72&v=4" width="24" alt="Avatar of c4pt0r"> c4pt0r
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#c4pt0r">Copy rank badge</a><br/>
 			dongxu
 		</td>
 		<td>Pingcap </td>
@@ -3866,7 +3868,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/rabernat">
 				<img src="https://avatars.githubusercontent.com/u/1197350?s=72&u=22fadd8a22e3121c07c975a1311570533dbda5e3&v=4" width="24" alt="Avatar of rabernat"> rabernat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#rabernat">Copy rank badge</a><br/>
 			Ryan Abernathey
 		</td>
 		<td>Earthmover Pbc </td>
@@ -3879,7 +3881,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/stoyan">
 				<img src="https://avatars.githubusercontent.com/u/51308?s=72&v=4" width="24" alt="Avatar of stoyan"> stoyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#stoyan">Copy rank badge</a><br/>
 			Stoyan Stefanov
 		</td>
 		<td>No Company</td>
@@ -3892,7 +3894,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/antonputra">
 				<img src="https://avatars.githubusercontent.com/u/9362325?s=72&u=22bb3ba589b13bf0b4179bae4924f3018716c210&v=4" width="24" alt="Avatar of antonputra"> antonputra
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#antonputra">Copy rank badge</a><br/>
 			Anton Putra
 		</td>
 		<td>No Company</td>
@@ -3905,7 +3907,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/NatashaTheRobot">
 				<img src="https://avatars.githubusercontent.com/u/1157147?s=72&u=0f8eebd7379b7249a89ec2a205159239e6440471&v=4" width="24" alt="Avatar of NatashaTheRobot"> NatashaTheRobot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#NatashaTheRobot">Copy rank badge</a><br/>
 			Natasha Murashev
 		</td>
 		<td>No Company</td>
@@ -3918,7 +3920,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mxstbr">
 				<img src="https://avatars.githubusercontent.com/u/7525670?s=72&u=567e0a98c884001cfacbffb7ccf93446aa364ab3&v=4" width="24" alt="Avatar of mxstbr"> mxstbr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mxstbr">Copy rank badge</a><br/>
 			Max Stoiber
 		</td>
 		<td>@shopify </td>
@@ -3931,7 +3933,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/tlhunter">
 				<img src="https://avatars.githubusercontent.com/u/551402?s=72&u=acc135d6fc1fa3a464745ef58ac8663442dfc6e4&v=4" width="24" alt="Avatar of tlhunter"> tlhunter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#tlhunter">Copy rank badge</a><br/>
 			Thomas Hunter II
 		</td>
 		<td>No Company</td>
@@ -3944,7 +3946,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/dguido">
 				<img src="https://avatars.githubusercontent.com/u/294844?s=72&v=4" width="24" alt="Avatar of dguido"> dguido
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#dguido">Copy rank badge</a><br/>
 			Dan Guido
 		</td>
 		<td>Trail Of Bits </td>
@@ -3957,7 +3959,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/erikbern">
 				<img src="https://avatars.githubusercontent.com/u/1027979?s=72&u=488cfc6300303d548cbee59842dadedb39ef1d39&v=4" width="24" alt="Avatar of erikbern"> erikbern
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#erikbern">Copy rank badge</a><br/>
 			Erik Bernhardsson
 		</td>
 		<td>Modal Labs </td>
@@ -3970,7 +3972,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/williamFalcon">
 				<img src="https://avatars.githubusercontent.com/u/3640001?s=72&u=d59d76462674d3e95288a0e767dfbb6203ba4dfd&v=4" width="24" alt="Avatar of williamFalcon"> williamFalcon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#williamFalcon">Copy rank badge</a><br/>
 			William Falcon
 		</td>
 		<td>Lightning Ai </td>
@@ -3983,7 +3985,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/samuelclay">
 				<img src="https://avatars.githubusercontent.com/u/44229?s=72&u=cae50cb49f9033785b08b5612bb973e80f7be3d1&v=4" width="24" alt="Avatar of samuelclay"> samuelclay
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#samuelclay">Copy rank badge</a><br/>
 			Samuel Clay
 		</td>
 		<td>Newsblur </td>
@@ -3996,7 +3998,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mimoo">
 				<img src="https://avatars.githubusercontent.com/u/1316043?s=72&u=c921fcf31b84b66f869df0071e17c737eddb3bf3&v=4" width="24" alt="Avatar of mimoo"> mimoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mimoo">Copy rank badge</a><br/>
 			David Wong
 		</td>
 		<td>@zksecurity </td>
@@ -4009,7 +4011,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/cbeust">
 				<img src="https://avatars.githubusercontent.com/u/92322?s=72&v=4" width="24" alt="Avatar of cbeust"> cbeust
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#cbeust">Copy rank badge</a><br/>
 			Cedric Beust
 		</td>
 		<td>No Company</td>
@@ -4022,7 +4024,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/BinaryMuse">
 				<img src="https://avatars.githubusercontent.com/u/189606?s=72&u=8639fa9115ecc6030419dffcd5ed61e057800ba9&v=4" width="24" alt="Avatar of BinaryMuse"> BinaryMuse
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#BinaryMuse">Copy rank badge</a><br/>
 			Michelle Tilley
 		</td>
 		<td>Atuin </td>
@@ -4035,7 +4037,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/felixrieseberg">
 				<img src="https://avatars.githubusercontent.com/u/1426799?s=72&u=4f954e789d82f34fdc808de92622fb0e22996032&v=4" width="24" alt="Avatar of felixrieseberg"> felixrieseberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#felixrieseberg">Copy rank badge</a><br/>
 			Felix Rieseberg
 		</td>
 		<td>Anthropic </td>
@@ -4048,7 +4050,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/sayedihashimi">
 				<img src="https://avatars.githubusercontent.com/u/1283154?s=72&v=4" width="24" alt="Avatar of sayedihashimi"> sayedihashimi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#sayedihashimi">Copy rank badge</a><br/>
 			Sayed Ibrahim Hashimi
 		</td>
 		<td>Microsoft </td>
@@ -4061,7 +4063,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/lostintangent">
 				<img src="https://avatars.githubusercontent.com/u/116461?s=72&u=61900b2811f407391b9a5fddfe78a97198c1c2d6&v=4" width="24" alt="Avatar of lostintangent"> lostintangent
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#lostintangent">Copy rank badge</a><br/>
 			Jonathan Carter
 		</td>
 		<td>Github </td>
@@ -4074,7 +4076,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/MrPowers">
 				<img src="https://avatars.githubusercontent.com/u/2722395?s=72&u=3d0991b76ae14fff117b3d41e86eadd05c64af7e&v=4" width="24" alt="Avatar of MrPowers"> MrPowers
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#MrPowers">Copy rank badge</a><br/>
 			Matthew Powers
 		</td>
 		<td>No Company</td>
@@ -4087,7 +4089,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/lpereira">
 				<img src="https://avatars.githubusercontent.com/u/15001?s=72&u=5c4262556a3d3966eaaf51c5cf11abe80403720c&v=4" width="24" alt="Avatar of lpereira"> lpereira
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#lpereira">Copy rank badge</a><br/>
 			L. Pereira
 		</td>
 		<td>@google </td>
@@ -4100,7 +4102,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/rcrowley">
 				<img src="https://avatars.githubusercontent.com/u/11151?s=72&v=4" width="24" alt="Avatar of rcrowley"> rcrowley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#rcrowley">Copy rank badge</a><br/>
 			Richard Crowley
 		</td>
 		<td>No Company</td>
@@ -4113,7 +4115,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jmoiron">
 				<img src="https://avatars.githubusercontent.com/u/218132?s=72&u=7da1c1b26378ca259ab676fd3ad17243e692d4f9&v=4" width="24" alt="Avatar of jmoiron"> jmoiron
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jmoiron">Copy rank badge</a><br/>
 			Jason Moiron
 		</td>
 		<td>No Company</td>
@@ -4126,7 +4128,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/abi">
 				<img src="https://avatars.githubusercontent.com/u/23818?s=72&u=20a6bb441ca25e49b4d8bdb602c171c5e1a065bf&v=4" width="24" alt="Avatar of abi"> abi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#abi">Copy rank badge</a><br/>
 			Abi Raja
 		</td>
 		<td>No Company</td>
@@ -4139,7 +4141,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ashleymcnamara">
 				<img src="https://avatars.githubusercontent.com/u/3139143?s=72&u=7c97429c7373a174251721d56f02b00b00859d80&v=4" width="24" alt="Avatar of ashleymcnamara"> ashleymcnamara
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ashleymcnamara">Copy rank badge</a><br/>
 			Ashley Willis
 		</td>
 		<td>Github </td>
@@ -4152,7 +4154,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/bkaradzic">
 				<img src="https://avatars.githubusercontent.com/u/814772?s=72&u=ea3f41b56f21a99b12b8a35df0a27456a3bf9019&v=4" width="24" alt="Avatar of bkaradzic"> bkaradzic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#bkaradzic">Copy rank badge</a><br/>
 			Бранимир Караџић
 		</td>
 		<td>No Company</td>
@@ -4165,7 +4167,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/gr8monk3ys">
 				<img src="https://avatars.githubusercontent.com/u/31302763?s=72&u=277d9d786572a61069d65dca7b48cf735bad03ee&v=4" width="24" alt="Avatar of gr8monk3ys"> gr8monk3ys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#gr8monk3ys">Copy rank badge</a><br/>
 			Lorenzo
 		</td>
 		<td>Sizzle </td>
@@ -4178,7 +4180,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/runemadsen">
 				<img src="https://avatars.githubusercontent.com/u/192021?s=72&u=92849693d8d568d0eb258c2f9ad07e278fb958d1&v=4" width="24" alt="Avatar of runemadsen"> runemadsen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#runemadsen">Copy rank badge</a><br/>
 			Rune Skjoldborg Madsen
 		</td>
 		<td>Design Systems International </td>
@@ -4191,7 +4193,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/gpeal">
 				<img src="https://avatars.githubusercontent.com/u/1307745?s=72&u=28c696bad7ad38b2b800efc0c3fea347b22147cf&v=4" width="24" alt="Avatar of gpeal"> gpeal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#gpeal">Copy rank badge</a><br/>
 			Gabriel Peal
 		</td>
 		<td>Openai </td>
@@ -4204,7 +4206,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/adamstac">
 				<img src="https://avatars.githubusercontent.com/u/2933?s=72&v=4" width="24" alt="Avatar of adamstac"> adamstac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#adamstac">Copy rank badge</a><br/>
 			Adam Stacoviak
 		</td>
 		<td>@thechangelog </td>
@@ -4217,7 +4219,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/riverscuomo">
 				<img src="https://avatars.githubusercontent.com/u/24362267?s=72&u=f8a8087612411f181210ca45f7131829eb0b263b&v=4" width="24" alt="Avatar of riverscuomo"> riverscuomo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#riverscuomo">Copy rank badge</a><br/>
 			Rivers Cuomo
 		</td>
 		<td>Weezer </td>
@@ -4230,7 +4232,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/lukeed">
 				<img src="https://avatars.githubusercontent.com/u/5855893?s=72&v=4" width="24" alt="Avatar of lukeed"> lukeed
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#lukeed">Copy rank badge</a><br/>
 			Luke Edwards
 		</td>
 		<td>No Company</td>
@@ -4243,7 +4245,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/EnggQasim">
 				<img src="https://avatars.githubusercontent.com/u/10209765?s=72&u=71dbc579238d41bb493ab213bb9f71e36a4cda25&v=4" width="24" alt="Avatar of EnggQasim"> EnggQasim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#EnggQasim">Copy rank badge</a><br/>
 			Sir Qasim
 		</td>
 		<td>Cancerclarity Llc, Nyc, Usa<br/></td>
@@ -4256,7 +4258,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/dherman">
 				<img src="https://avatars.githubusercontent.com/u/307871?s=72&u=b660aacb665f9522f41b5cb255638ae3180c9830&v=4" width="24" alt="Avatar of dherman"> dherman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#dherman">Copy rank badge</a><br/>
 			Dave Herman
 		</td>
 		<td>Linkedin </td>
@@ -4269,7 +4271,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mhagiwara">
 				<img src="https://avatars.githubusercontent.com/u/580640?s=72&u=d35887342f1efe5bff0d77cba23291c2853d0971&v=4" width="24" alt="Avatar of mhagiwara"> mhagiwara
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mhagiwara">Copy rank badge</a><br/>
 			Masato Hagiwara
 		</td>
 		<td>Earth Species Project </td>
@@ -4282,7 +4284,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/arkadiyt">
 				<img src="https://avatars.githubusercontent.com/u/2279289?s=72&u=0eae5382d4ceb5206991db252e3d6299a6f42de6&v=4" width="24" alt="Avatar of arkadiyt"> arkadiyt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#arkadiyt">Copy rank badge</a><br/>
 			Arkadiy Tetelman
 		</td>
 		<td>Chime (https://chime.com) </td>
@@ -4295,7 +4297,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/sophiebits">
 				<img src="https://avatars.githubusercontent.com/u/6820?s=72&u=d3f94842a6c3c49299ccca93be4979d0a849d7c9&v=4" width="24" alt="Avatar of sophiebits"> sophiebits
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#sophiebits">Copy rank badge</a><br/>
 			Sophie Alpert
 		</td>
 		<td>No Company</td>
@@ -4308,7 +4310,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/EcZachly">
 				<img src="https://avatars.githubusercontent.com/u/4583288?s=72&u=aac0c288c87bddef24671f230d2749b1e597d3df&v=4" width="24" alt="Avatar of EcZachly"> EcZachly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#EcZachly">Copy rank badge</a><br/>
 			Zach Wilson
 		</td>
 		<td>Dataexpert.io </td>
@@ -4321,7 +4323,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/wardviaene">
 				<img src="https://avatars.githubusercontent.com/u/7711378?s=72&u=1a8483136bcf2a437dded2d3677026250dcb8326&v=4" width="24" alt="Avatar of wardviaene"> wardviaene
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#wardviaene">Copy rank badge</a><br/>
 			Edward Viaene
 		</td>
 		<td>In4it </td>
@@ -4334,7 +4336,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/owocki">
 				<img src="https://avatars.githubusercontent.com/u/513929?s=72&u=7720bfc79a294582d389a83e8479418d4bb32703&v=4" width="24" alt="Avatar of owocki"> owocki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#owocki">Copy rank badge</a><br/>
 			Kevin Owocki
 		</td>
 		<td>@gitcoinco   </td>
@@ -4347,7 +4349,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/StefanKarpinski">
 				<img src="https://avatars.githubusercontent.com/u/153596?s=72&v=4" width="24" alt="Avatar of StefanKarpinski"> StefanKarpinski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#StefanKarpinski">Copy rank badge</a><br/>
 			Stefan Karpinski
 		</td>
 		<td>@juliacomputing </td>
@@ -4360,7 +4362,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/HarshKapadia2">
 				<img src="https://avatars.githubusercontent.com/u/50140864?s=72&u=b5de3e02f63efaa5cbe862bff819b0c12b8b6c72&v=4" width="24" alt="Avatar of HarshKapadia2"> HarshKapadia2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#HarshKapadia2">Copy rank badge</a><br/>
 			Harsh Kapadia
 		</td>
 		<td>@ourtechcommunity </td>
@@ -4373,7 +4375,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/indragiek">
 				<img src="https://avatars.githubusercontent.com/u/353158?s=72&u=07d68ab4e978973477b264f56dd67a9c67f594d1&v=4" width="24" alt="Avatar of indragiek"> indragiek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#indragiek">Copy rank badge</a><br/>
 			Indragie Karunaratne
 		</td>
 		<td>@getsentry </td>
@@ -4386,7 +4388,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/sryza">
 				<img src="https://avatars.githubusercontent.com/u/654855?s=72&v=4" width="24" alt="Avatar of sryza"> sryza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#sryza">Copy rank badge</a><br/>
 			Sandy Ryza
 		</td>
 		<td>Databricks </td>
@@ -4399,7 +4401,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/canyon289">
 				<img src="https://avatars.githubusercontent.com/u/7213793?s=72&u=7e156d9abd1024522a05998a05ec5751a157737f&v=4" width="24" alt="Avatar of canyon289"> canyon289
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#canyon289">Copy rank badge</a><br/>
 			Ravin Kumar
 		</td>
 		<td>Google Deepmind </td>
@@ -4412,7 +4414,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jaredpalmer">
 				<img src="https://avatars.githubusercontent.com/u/4060187?s=72&u=8093f80db577610c38c680a82550e6b1952b8f7e&v=4" width="24" alt="Avatar of jaredpalmer"> jaredpalmer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jaredpalmer">Copy rank badge</a><br/>
 			Jared Palmer
 		</td>
 		<td>No Company</td>
@@ -4425,7 +4427,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/shrutikapoor08">
 				<img src="https://avatars.githubusercontent.com/u/2525914?s=72&u=578bfd51e2e92bc8d6b9fac5b7e035e69d9baf19&v=4" width="24" alt="Avatar of shrutikapoor08"> shrutikapoor08
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#shrutikapoor08">Copy rank badge</a><br/>
 			Shruti Kapoor
 		</td>
 		<td>No Company</td>
@@ -4438,7 +4440,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ahmadawais">
 				<img src="https://avatars.githubusercontent.com/u/960133?s=72&u=1a1a9863b2dd635be4ddfae7692060b0963c5c4b&v=4" width="24" alt="Avatar of ahmadawais"> ahmadawais
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ahmadawais">Copy rank badge</a><br/>
 			Ahmad Awais ⌘
 		</td>
 		<td>Founder, Ceo @langbaseinc, Vp<br/>Devtools<br/>@google<br/>Gdab<br/>Gde<br/><br/></td>
@@ -4451,7 +4453,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mikedemarais">
 				<img src="https://avatars.githubusercontent.com/u/1325144?s=72&u=7b32dcd04811261405f2ed35d933b1484558758d&v=4" width="24" alt="Avatar of mikedemarais"> mikedemarais
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mikedemarais">Copy rank badge</a><br/>
 			Michael Demarais
 		</td>
 		<td>@rainbow-me </td>
@@ -4464,7 +4466,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/yminsky">
 				<img src="https://avatars.githubusercontent.com/u/715302?s=72&u=ac3f315c72ac5382cd61e20596d42cde104a3813&v=4" width="24" alt="Avatar of yminsky"> yminsky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#yminsky">Copy rank badge</a><br/>
 			Yaron Minsky
 		</td>
 		<td>Jane Street </td>
@@ -4477,7 +4479,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/trekhleb">
 				<img src="https://avatars.githubusercontent.com/u/3000285?s=72&u=1e62782f227030b78b7aa78cbbcab5f8a24e658a&v=4" width="24" alt="Avatar of trekhleb"> trekhleb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#trekhleb">Copy rank badge</a><br/>
 			Oleksii Trekhleb
 		</td>
 		<td>Uber </td>
@@ -4490,7 +4492,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/sararob">
 				<img src="https://avatars.githubusercontent.com/u/3814898?s=72&u=66f1b92ab1a04ab30f35f6b1e61e78238792f21b&v=4" width="24" alt="Avatar of sararob"> sararob
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#sararob">Copy rank badge</a><br/>
 			Sara Robinson
 		</td>
 		<td>Firebase </td>
@@ -4503,7 +4505,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/rynowak">
 				<img src="https://avatars.githubusercontent.com/u/1430011?s=72&v=4" width="24" alt="Avatar of rynowak"> rynowak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#rynowak">Copy rank badge</a><br/>
 			Ryan Nowak
 		</td>
 		<td>@microsoft @azure </td>
@@ -4516,7 +4518,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/yzhao062">
 				<img src="https://avatars.githubusercontent.com/u/15079146?s=72&u=78baae0f332205c20f807e29a373d2f2b34c81b8&v=4" width="24" alt="Avatar of yzhao062"> yzhao062
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#yzhao062">Copy rank badge</a><br/>
 			Yue Zhao
 		</td>
 		<td>University Of Southern California<br/></td>
@@ -4529,7 +4531,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/pyricau">
 				<img src="https://avatars.githubusercontent.com/u/557033?s=72&u=e4b85cd6117b8912cd783f7152c32298794725f5&v=4" width="24" alt="Avatar of pyricau"> pyricau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#pyricau">Copy rank badge</a><br/>
 			py - Pierre Yves Ricau
 		</td>
 		<td>Square, Inc. </td>
@@ -4542,7 +4544,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ahmetb">
 				<img src="https://avatars.githubusercontent.com/u/159209?s=72&u=7484858b12e4c4a7fe1351d1f0b406076805deb2&v=4" width="24" alt="Avatar of ahmetb"> ahmetb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ahmetb">Copy rank badge</a><br/>
 			Ahmet Alp Balkan
 		</td>
 		<td>@linkedin  </td>
@@ -4555,7 +4557,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/chriswhong">
 				<img src="https://avatars.githubusercontent.com/u/1833820?s=72&u=58403a384ffec17bc3bb42fd0a8629877c807120&v=4" width="24" alt="Avatar of chriswhong"> chriswhong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#chriswhong">Copy rank badge</a><br/>
 			Chris Whong
 		</td>
 		<td>@mapbox </td>
@@ -4568,7 +4570,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/dghubble">
 				<img src="https://avatars.githubusercontent.com/u/2253428?s=72&u=6a9bd1dd8f7364c0dc18208b457e9619607c07b3&v=4" width="24" alt="Avatar of dghubble"> dghubble
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#dghubble">Copy rank badge</a><br/>
 			Dalton Hubble
 		</td>
 		<td>@openai </td>
@@ -4581,7 +4583,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/vsbuffalo">
 				<img src="https://avatars.githubusercontent.com/u/160549?s=72&u=e309bbc45ddd9025e5f80c72a67729e6dc037f43&v=4" width="24" alt="Avatar of vsbuffalo"> vsbuffalo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#vsbuffalo">Copy rank badge</a><br/>
 			Vince Buffalo
 		</td>
 		<td>Institute For Disease Modeling<br/></td>
@@ -4594,7 +4596,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/losfair">
 				<img src="https://avatars.githubusercontent.com/u/6104981?s=72&u=6463c569f9f38a409ce1923b2c2c7240fc304661&v=4" width="24" alt="Avatar of losfair"> losfair
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#losfair">Copy rank badge</a><br/>
 			Heyang Zhou
 		</td>
 		<td>@denoland  </td>
@@ -4607,7 +4609,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ashutosh1919">
 				<img src="https://avatars.githubusercontent.com/u/20843596?s=72&u=6367ff9f62224bc720e425a5bb85dca377a75093&v=4" width="24" alt="Avatar of ashutosh1919"> ashutosh1919
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ashutosh1919">Copy rank badge</a><br/>
 			Ashutosh Hathidara
 		</td>
 		<td>Senior Ml Scientist @sap<br/></td>
@@ -4620,7 +4622,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/aarongustafson">
 				<img src="https://avatars.githubusercontent.com/u/75736?s=72&v=4" width="24" alt="Avatar of aarongustafson"> aarongustafson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#aarongustafson">Copy rank badge</a><br/>
 			Aaron Gustafson
 		</td>
 		<td>@microsoft </td>
@@ -4633,7 +4635,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ongardie">
 				<img src="https://avatars.githubusercontent.com/u/463856?s=72&v=4" width="24" alt="Avatar of ongardie"> ongardie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ongardie">Copy rank badge</a><br/>
 			Diego Ongaro
 		</td>
 		<td>Self </td>
@@ -4646,7 +4648,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nate-parrott">
 				<img src="https://avatars.githubusercontent.com/u/3059249?s=72&u=8178b33a7c92576ac32f1aa3a55cc3c3cd313416&v=4" width="24" alt="Avatar of nate-parrott"> nate-parrott
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nate-parrott">Copy rank badge</a><br/>
 			Nate Parrott
 		</td>
 		<td>@anthropics </td>
@@ -4659,7 +4661,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/bfirsh">
 				<img src="https://avatars.githubusercontent.com/u/40906?s=72&u=8a158382fcc5a23b4f5313ee873be89667e7a0ce&v=4" width="24" alt="Avatar of bfirsh"> bfirsh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#bfirsh">Copy rank badge</a><br/>
 			Ben Firshman
 		</td>
 		<td>@replicate </td>
@@ -4672,7 +4674,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/wookayin">
 				<img src="https://avatars.githubusercontent.com/u/1009873?s=72&u=db062ee3b7a2aa718bffb0c3042a4f5af422dfe3&v=4" width="24" alt="Avatar of wookayin"> wookayin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#wookayin">Copy rank badge</a><br/>
 			Jongwook Choi
 		</td>
 		<td>No Company</td>
@@ -4685,7 +4687,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/auchenberg">
 				<img src="https://avatars.githubusercontent.com/u/173559?s=72&u=c286bc203ceaa0dcd3b9a9ba9863f74d27f1cbd1&v=4" width="24" alt="Avatar of auchenberg"> auchenberg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#auchenberg">Copy rank badge</a><br/>
 			Kenneth Auchenberg
 		</td>
 		<td>No Company</td>
@@ -4698,7 +4700,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/bcherny">
 				<img src="https://avatars.githubusercontent.com/u/1761758?s=72&u=a7b1ed42ce41cc6761d0f6a67c8ef9a029a2fa8f&v=4" width="24" alt="Avatar of bcherny"> bcherny
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#bcherny">Copy rank badge</a><br/>
 			Boris Cherny
 		</td>
 		<td>@anthropic </td>
@@ -4711,7 +4713,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/philipwalton">
 				<img src="https://avatars.githubusercontent.com/u/326742?s=72&u=3ee52ffd1fa9675494bb35d258dced356476015b&v=4" width="24" alt="Avatar of philipwalton"> philipwalton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#philipwalton">Copy rank badge</a><br/>
 			Philip Walton
 		</td>
 		<td>Google </td>
@@ -4724,7 +4726,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/vikhyat">
 				<img src="https://avatars.githubusercontent.com/u/31063?s=72&v=4" width="24" alt="Avatar of vikhyat"> vikhyat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#vikhyat">Copy rank badge</a><br/>
 			vik
 		</td>
 		<td>No Company</td>
@@ -4737,7 +4739,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/rsms">
 				<img src="https://avatars.githubusercontent.com/u/47046?s=72&u=131e2a6b56d34625caaad1128b7cb8d70f213231&v=4" width="24" alt="Avatar of rsms"> rsms
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#rsms">Copy rank badge</a><br/>
 			Rasmus
 		</td>
 		<td>Playbit </td>
@@ -4750,7 +4752,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kassens">
 				<img src="https://avatars.githubusercontent.com/u/11849?s=72&u=da9f181e6c071ae952064b99ebc00ae5e0651c9e&v=4" width="24" alt="Avatar of kassens"> kassens
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kassens">Copy rank badge</a><br/>
 			Jan Kassens
 		</td>
 		<td>Meta </td>
@@ -4763,7 +4765,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mdo">
 				<img src="https://avatars.githubusercontent.com/u/98681?s=72&u=06189d8e78eb46bb608df3f705c229c5d43d797c&v=4" width="24" alt="Avatar of mdo"> mdo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mdo">Copy rank badge</a><br/>
 			Mark Otto
 		</td>
 		<td>@pierredotco  </td>
@@ -4776,7 +4778,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jbogard">
 				<img src="https://avatars.githubusercontent.com/u/104498?s=72&v=4" width="24" alt="Avatar of jbogard"> jbogard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jbogard">Copy rank badge</a><br/>
 			Jimmy Bogard
 		</td>
 		<td>Jimmy Bogard Consulting, Llc<br/></td>
@@ -4789,7 +4791,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/charlax">
 				<img src="https://avatars.githubusercontent.com/u/120501?s=72&v=4" width="24" alt="Avatar of charlax"> charlax
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#charlax">Copy rank badge</a><br/>
 			Charles-Axel Dein
 		</td>
 		<td>No Company</td>
@@ -4802,7 +4804,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/veler">
 				<img src="https://avatars.githubusercontent.com/u/3747805?s=72&u=044bffcd8836f3a15f9f26378a9d7c85c5cffcfe&v=4" width="24" alt="Avatar of veler"> veler
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#veler">Copy rank badge</a><br/>
 			Etienne Baudoux
 		</td>
 		<td>@microsoft </td>
@@ -4815,7 +4817,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/cassidoo">
 				<img src="https://avatars.githubusercontent.com/u/1454517?s=72&u=92a133438fecfefc65c4c73143a0f717bd5e7515&v=4" width="24" alt="Avatar of cassidoo"> cassidoo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#cassidoo">Copy rank badge</a><br/>
 			Cassidy Williams
 		</td>
 		<td>Github </td>
@@ -4828,7 +4830,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ajdavis">
 				<img src="https://avatars.githubusercontent.com/u/84101?s=72&v=4" width="24" alt="Avatar of ajdavis"> ajdavis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ajdavis">Copy rank badge</a><br/>
 			A. Jesse Jiryu Davis
 		</td>
 		<td>@mongodb  </td>
@@ -4841,7 +4843,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/VincentGranville">
 				<img src="https://avatars.githubusercontent.com/u/48999850?s=72&u=5e4e3ff28ab1fda9201ece44411333fefdae83ce&v=4" width="24" alt="Avatar of VincentGranville"> VincentGranville
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#VincentGranville">Copy rank badge</a><br/>
 			Vincent Granville
 		</td>
 		<td>Genaitechlab.com </td>
@@ -4854,7 +4856,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Swizec">
 				<img src="https://avatars.githubusercontent.com/u/56883?s=72&v=4" width="24" alt="Avatar of Swizec"> Swizec
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Swizec">Copy rank badge</a><br/>
 			Swizec Teller
 		</td>
 		<td>No Company</td>
@@ -4867,7 +4869,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Daniel15">
 				<img src="https://avatars.githubusercontent.com/u/91933?s=72&u=13584ac6a9f66c40a2ae30fce469e2ce11c5709d&v=4" width="24" alt="Avatar of Daniel15"> Daniel15
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Daniel15">Copy rank badge</a><br/>
 			Daniel Lo Nigro
 		</td>
 		<td>@facebook </td>
@@ -4880,7 +4882,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mkheck">
 				<img src="https://avatars.githubusercontent.com/u/1933484?s=72&u=c51ca8dbdc9b5228985d6947f8e4c5ab35b04be8&v=4" width="24" alt="Avatar of mkheck"> mkheck
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mkheck">Copy rank badge</a><br/>
 			Mark Heckler
 		</td>
 		<td>@spring-projects </td>
@@ -4893,7 +4895,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jridgewell">
 				<img src="https://avatars.githubusercontent.com/u/112982?s=72&u=aa5d9b174870cd8278ba0b643d239102918b9d87&v=4" width="24" alt="Avatar of jridgewell"> jridgewell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jridgewell">Copy rank badge</a><br/>
 			Justin Ridgewell
 		</td>
 		<td>@google </td>
@@ -4906,7 +4908,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/buritica">
 				<img src="https://avatars.githubusercontent.com/u/228120?s=72&v=4" width="24" alt="Avatar of buritica"> buritica
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#buritica">Copy rank badge</a><br/>
 			Juan Pablo Buriticá
 		</td>
 		<td>No Company</td>
@@ -4919,7 +4921,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/romanmichaelpaolucci">
 				<img src="https://avatars.githubusercontent.com/u/17343675?s=72&u=929740471fb0d73b49b381060bec12aeadc04da3&v=4" width="24" alt="Avatar of romanmichaelpaolucci"> romanmichaelpaolucci
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#romanmichaelpaolucci">Copy rank badge</a><br/>
 			Roman Paolucci
 		</td>
 		<td>@quant-guild </td>
@@ -4932,7 +4934,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/lukas">
 				<img src="https://avatars.githubusercontent.com/u/29?s=72&u=51f9479a7a7b6c532522af11ef6018a3c16157fa&v=4" width="24" alt="Avatar of lukas"> lukas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#lukas">Copy rank badge</a><br/>
 			Lukas Biewald
 		</td>
 		<td>Weights And Biases </td>
@@ -4945,7 +4947,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/minimaxir">
 				<img src="https://avatars.githubusercontent.com/u/2179708?s=72&u=fa33a847bd260bee190d2994538a1ca32d467445&v=4" width="24" alt="Avatar of minimaxir"> minimaxir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#minimaxir">Copy rank badge</a><br/>
 			Max Woolf
 		</td>
 		<td>@buzzfeed  </td>
@@ -4958,7 +4960,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/hone">
 				<img src="https://avatars.githubusercontent.com/u/16457?s=72&v=4" width="24" alt="Avatar of hone"> hone
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#hone">Copy rank badge</a><br/>
 			Terence Lee
 		</td>
 		<td>Heroku </td>
@@ -4971,7 +4973,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/pcgeek86">
 				<img src="https://avatars.githubusercontent.com/u/466713?s=72&u=823c74872c5e363ea66ee39140b67abe6853370a&v=4" width="24" alt="Avatar of pcgeek86"> pcgeek86
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#pcgeek86">Copy rank badge</a><br/>
 			Trevor Sullivan
 		</td>
 		<td>No Company</td>
@@ -4984,7 +4986,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kyleconroy">
 				<img src="https://avatars.githubusercontent.com/u/34893?s=72&u=db02be68cdde5037b308136cb469720c06c6096e&v=4" width="24" alt="Avatar of kyleconroy"> kyleconroy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kyleconroy">Copy rank badge</a><br/>
 			Kyle Gray
 		</td>
 		<td>No Company</td>
@@ -4997,7 +4999,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/zaiste">
 				<img src="https://avatars.githubusercontent.com/u/200613?s=72&u=ff3f9e33a4fe78c99bcfa3b174b6756016c0885f&v=4" width="24" alt="Avatar of zaiste"> zaiste
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#zaiste">Copy rank badge</a><br/>
 			Jakub Neander
 		</td>
 		<td>@yournextstore </td>
@@ -5010,7 +5012,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/abcdabcd987">
 				<img src="https://avatars.githubusercontent.com/u/2470081?s=72&u=da0d632297bf049a1940f86e8d7627c2f39e1274&v=4" width="24" alt="Avatar of abcdabcd987"> abcdabcd987
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#abcdabcd987">Copy rank badge</a><br/>
 			Lequn Chen
 		</td>
 		<td>@ppl-ai </td>
@@ -5023,7 +5025,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/vinniefalco">
 				<img src="https://avatars.githubusercontent.com/u/1503976?s=72&u=4adad34ba11380e4b13abf141e8fe91ddd6aa427&v=4" width="24" alt="Avatar of vinniefalco"> vinniefalco
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#vinniefalco">Copy rank badge</a><br/>
 			Vinnie Falco
 		</td>
 		<td>Https://cpp.al </td>
@@ -5036,7 +5038,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kaycebasques">
 				<img src="https://avatars.githubusercontent.com/u/4713486?s=72&u=c917385da5eaa7e617f0f203bab7253c990a1f57&v=4" width="24" alt="Avatar of kaycebasques"> kaycebasques
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kaycebasques">Copy rank badge</a><br/>
 			Kayce Basques
 		</td>
 		<td>No Company</td>
@@ -5049,7 +5051,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jeffmo">
 				<img src="https://avatars.githubusercontent.com/u/498293?s=72&v=4" width="24" alt="Avatar of jeffmo"> jeffmo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jeffmo">Copy rank badge</a><br/>
 			Jeff Morrison
 		</td>
 		<td>No Company</td>
@@ -5062,7 +5064,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/rakyll">
 				<img src="https://avatars.githubusercontent.com/u/108380?s=72&u=75f5a9892cdd26873b38d15bcfac91e4836404ae&v=4" width="24" alt="Avatar of rakyll"> rakyll
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#rakyll">Copy rank badge</a><br/>
 			Jaana Dogan
 		</td>
 		<td>Google </td>
@@ -5075,7 +5077,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/cdata">
 				<img src="https://avatars.githubusercontent.com/u/240083?s=72&u=621bc8cfc8605f3a3fb003271034b7d2d6e0a32a&v=4" width="24" alt="Avatar of cdata"> cdata
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#cdata">Copy rank badge</a><br/>
 			Christopher Joel
 		</td>
 		<td>No Company</td>
@@ -5088,7 +5090,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/filmgirl">
 				<img src="https://avatars.githubusercontent.com/u/110683?s=72&u=a5de839b748ea566d8c1bd795bd0ea32edfc691c&v=4" width="24" alt="Avatar of filmgirl"> filmgirl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#filmgirl">Copy rank badge</a><br/>
 			Christina Warren
 		</td>
 		<td>Google Deepmind </td>
@@ -5101,7 +5103,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/a1k0n">
 				<img src="https://avatars.githubusercontent.com/u/46170?s=72&v=4" width="24" alt="Avatar of a1k0n"> a1k0n
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#a1k0n">Copy rank badge</a><br/>
 			Andy Sloane
 		</td>
 		<td>No Company</td>
@@ -5114,7 +5116,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Jessecar96">
 				<img src="https://avatars.githubusercontent.com/u/1954840?s=72&u=066886e45d29288ef08e8202691e37d134591812&v=4" width="24" alt="Avatar of Jessecar96"> Jessecar96
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Jessecar96">Copy rank badge</a><br/>
 			Jesse
 		</td>
 		<td>No Company</td>
@@ -5127,7 +5129,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/benjamn">
 				<img src="https://avatars.githubusercontent.com/u/5750?s=72&u=95c71e43d35f4b2f7ea95474f5058bb51986f556&v=4" width="24" alt="Avatar of benjamn"> benjamn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#benjamn">Copy rank badge</a><br/>
 			Ben Newman
 		</td>
 		<td>Apollo Graph, Inc (formerly:<br/>Meteor,<br/>Facebook/instagram,<br/>Quora,<br/>Mozilla)<br/></td>
@@ -5140,7 +5142,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/cwilso">
 				<img src="https://avatars.githubusercontent.com/u/507001?s=72&v=4" width="24" alt="Avatar of cwilso"> cwilso
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#cwilso">Copy rank badge</a><br/>
 			Chris Wilson
 		</td>
 		<td>Google </td>
@@ -5153,7 +5155,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/indexzero">
 				<img src="https://avatars.githubusercontent.com/u/4624?s=72&v=4" width="24" alt="Avatar of indexzero"> indexzero
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#indexzero">Copy rank badge</a><br/>
 			Charlie Robbins
 		</td>
 		<td>No Company</td>
@@ -5166,7 +5168,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/vakila">
 				<img src="https://avatars.githubusercontent.com/u/5424927?s=72&u=cf024d4a954cbb35b913db96d66351830b28086b&v=4" width="24" alt="Avatar of vakila"> vakila
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#vakila">Copy rank badge</a><br/>
 			Anjana Vakil
 		</td>
 		<td>No Company</td>
@@ -5179,7 +5181,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/KillianLucas">
 				<img src="https://avatars.githubusercontent.com/u/63927363?s=72&u=9a5a30771011c3cfdde19cd51d18d85e7ed6d53f&v=4" width="24" alt="Avatar of KillianLucas"> KillianLucas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#KillianLucas">Copy rank badge</a><br/>
 			killian
 		</td>
 		<td>No Company</td>
@@ -5192,7 +5194,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/tanghaibao">
 				<img src="https://avatars.githubusercontent.com/u/106987?s=72&u=cd6875f72e764d76eb4f94098521759412c1f446&v=4" width="24" alt="Avatar of tanghaibao"> tanghaibao
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#tanghaibao">Copy rank badge</a><br/>
 			Haibao Tang
 		</td>
 		<td>No Company</td>
@@ -5205,7 +5207,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/haberman">
 				<img src="https://avatars.githubusercontent.com/u/1270?s=72&u=4287034fd6201b228467a8257aadf4b4ec78b5a6&v=4" width="24" alt="Avatar of haberman"> haberman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#haberman">Copy rank badge</a><br/>
 			Joshua Haberman
 		</td>
 		<td>Google </td>
@@ -5218,7 +5220,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/JessicaSachs">
 				<img src="https://avatars.githubusercontent.com/u/2801156?s=72&u=73d135070dd572a64d4a3ad271d682b975b0f061&v=4" width="24" alt="Avatar of JessicaSachs"> JessicaSachs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#JessicaSachs">Copy rank badge</a><br/>
 			Jess
 		</td>
 		<td>Herodevs </td>
@@ -5231,7 +5233,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/hackjutsu">
 				<img src="https://avatars.githubusercontent.com/u/7756581?s=72&u=482885ec14db465a96ef458991526036e885c33d&v=4" width="24" alt="Avatar of hackjutsu"> hackjutsu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#hackjutsu">Copy rank badge</a><br/>
 			CosmoX
 		</td>
 		<td>@airbnb </td>
@@ -5244,7 +5246,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/fffaraz">
 				<img src="https://avatars.githubusercontent.com/u/895678?s=72&u=c4d7f1d0c7893275b2f777f47a2ebad2dc20d1a0&v=4" width="24" alt="Avatar of fffaraz"> fffaraz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#fffaraz">Copy rank badge</a><br/>
 			Faraz Fallahi
 		</td>
 		<td>Software Engineer </td>
@@ -5257,7 +5259,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/cfregly">
 				<img src="https://avatars.githubusercontent.com/u/1438064?s=72&u=8725a92f7ef849575062f4a32f70ecf0d49152fd&v=4" width="24" alt="Avatar of cfregly"> cfregly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#cfregly">Copy rank badge</a><br/>
 			Chris Fregly
 		</td>
 		<td>No Company</td>
@@ -5270,7 +5272,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/benawad">
 				<img src="https://avatars.githubusercontent.com/u/7872329?s=72&u=f41fcb80dc9ce32a809caf9a6c4d9bf31c6ae11a&v=4" width="24" alt="Avatar of benawad"> benawad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#benawad">Copy rank badge</a><br/>
 			Ben Awad
 		</td>
 		<td>Voidpet </td>
@@ -5283,7 +5285,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/paf31">
 				<img src="https://avatars.githubusercontent.com/u/630306?s=72&u=66bc54abe23de666c480dca02da9c5e5d123855e&v=4" width="24" alt="Avatar of paf31"> paf31
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#paf31">Copy rank badge</a><br/>
 			Phil Freeman
 		</td>
 		<td>No Company</td>
@@ -5296,7 +5298,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nabla-c0d3">
 				<img src="https://avatars.githubusercontent.com/u/1915165?s=72&u=e583ff7b079ed660d12b304503d0b0cfaf82856b&v=4" width="24" alt="Avatar of nabla-c0d3"> nabla-c0d3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nabla-c0d3">Copy rank badge</a><br/>
 			Alban Diquet
 		</td>
 		<td>No Company</td>
@@ -5309,7 +5311,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/swannodette">
 				<img src="https://avatars.githubusercontent.com/u/13516?s=72&u=d4b32c4b3c703a42094564713d162a8ddd05fc22&v=4" width="24" alt="Avatar of swannodette"> swannodette
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#swannodette">Copy rank badge</a><br/>
 			David Nolen
 		</td>
 		<td>No Company</td>
@@ -5322,7 +5324,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/okdistribute">
 				<img src="https://avatars.githubusercontent.com/u/633012?s=72&u=e6de062d1cf6f991c0727667b86b5c62be81b42a&v=4" width="24" alt="Avatar of okdistribute"> okdistribute
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#okdistribute">Copy rank badge</a><br/>
 			rae
 		</td>
 		<td>@getditto </td>
@@ -5335,7 +5337,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kevinburke">
 				<img src="https://avatars.githubusercontent.com/u/234019?s=72&u=b23bcbc79410938de632514c7aeed28412fa1555&v=4" width="24" alt="Avatar of kevinburke"> kevinburke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kevinburke">Copy rank badge</a><br/>
 			Kevin Burke
 		</td>
 		<td>Https://burke.servic </td>
@@ -5348,7 +5350,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/SwiftfulThinking">
 				<img src="https://avatars.githubusercontent.com/u/44950578?s=72&u=1cac958eb4fe071f3b7ef7dd8d08a7bc1b854fae&v=4" width="24" alt="Avatar of SwiftfulThinking"> SwiftfulThinking
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#SwiftfulThinking">Copy rank badge</a><br/>
 			Nick Sarno
 		</td>
 		<td>No Company</td>
@@ -5361,7 +5363,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Yonet">
 				<img src="https://avatars.githubusercontent.com/u/3523671?s=72&u=68f6f2ca50d384dc45967efc1bf263444c000de9&v=4" width="24" alt="Avatar of Yonet"> Yonet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Yonet">Copy rank badge</a><br/>
 			Yönet
 		</td>
 		<td>@azure </td>
@@ -5374,7 +5376,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Iron-Ham">
 				<img src="https://avatars.githubusercontent.com/u/3388381?s=72&u=767aeeb299a41613663a3408c68cb10cafca079d&v=4" width="24" alt="Avatar of Iron-Ham"> Iron-Ham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Iron-Ham">Copy rank badge</a><br/>
 			Hesham Salman
 		</td>
 		<td>@github </td>
@@ -5387,7 +5389,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jelbourn">
 				<img src="https://avatars.githubusercontent.com/u/838736?s=72&u=c23e7b7eb52d9881155e3a03076ab9435506d004&v=4" width="24" alt="Avatar of jelbourn"> jelbourn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jelbourn">Copy rank badge</a><br/>
 			Jeremy Elbourn
 		</td>
 		<td>Google </td>
@@ -5400,7 +5402,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/vmfunc">
 				<img src="https://avatars.githubusercontent.com/u/59031302?s=72&u=d7078fe8141f1a3548afe8f4e738af5097bd4164&v=4" width="24" alt="Avatar of vmfunc"> vmfunc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#vmfunc">Copy rank badge</a><br/>
 			Celeste J.
 		</td>
 		<td>@nousresearch </td>
@@ -5413,7 +5415,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ericchiang">
 				<img src="https://avatars.githubusercontent.com/u/2342749?s=72&u=ec35b92be8f23ce9f10a21991e312010e3723ab0&v=4" width="24" alt="Avatar of ericchiang"> ericchiang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ericchiang">Copy rank badge</a><br/>
 			Eric Chiang
 		</td>
 		<td>@oblique-security </td>
@@ -5426,7 +5428,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/cemoody">
 				<img src="https://avatars.githubusercontent.com/u/3419930?s=72&u=000c59269c3bbebbbb2e787042b2478fc3da121d&v=4" width="24" alt="Avatar of cemoody"> cemoody
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#cemoody">Copy rank badge</a><br/>
 			Christopher Erick Moody
 		</td>
 		<td>@gumtap  </td>
@@ -5439,7 +5441,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/zz85">
 				<img src="https://avatars.githubusercontent.com/u/314997?s=72&v=4" width="24" alt="Avatar of zz85"> zz85
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#zz85">Copy rank badge</a><br/>
 			Joshua Koo
 		</td>
 		<td>Ex @zopim / @zendesk<br/></td>
@@ -5452,7 +5454,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/lexi-lambda">
 				<img src="https://avatars.githubusercontent.com/u/759911?s=72&u=38d483e07778f91e1969014c77b05b43205e7d22&v=4" width="24" alt="Avatar of lexi-lambda"> lexi-lambda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#lexi-lambda">Copy rank badge</a><br/>
 			Alexis King
 		</td>
 		<td>No Company</td>
@@ -5465,7 +5467,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/hxlnt">
 				<img src="https://avatars.githubusercontent.com/u/9647195?s=72&u=195f816cc679995769263938b8bbd9c2ef5f9f13&v=4" width="24" alt="Avatar of hxlnt"> hxlnt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#hxlnt">Copy rank badge</a><br/>
 			Rachel Simone Weil
 		</td>
 		<td>No Company</td>
@@ -5478,7 +5480,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/iagox86">
 				<img src="https://avatars.githubusercontent.com/u/526412?s=72&u=2dc6c1c971dd494626e650dc07379e29b11a470b&v=4" width="24" alt="Avatar of iagox86"> iagox86
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#iagox86">Copy rank badge</a><br/>
 			Ron Bowes
 		</td>
 		<td>Greynoise + Skullsecurity </td>
@@ -5491,7 +5493,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/travisg">
 				<img src="https://avatars.githubusercontent.com/u/97708?s=72&u=d9f4d19f2cf50500914e5a93e26e02d6f41a2e2a&v=4" width="24" alt="Avatar of travisg"> travisg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#travisg">Copy rank badge</a><br/>
 			Travis Geiselbrecht
 		</td>
 		<td>@google  </td>
@@ -5504,7 +5506,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kieferrm">
 				<img src="https://avatars.githubusercontent.com/u/4674940?s=72&u=e894487baedec3721978440377b195cd6f334e4b&v=4" width="24" alt="Avatar of kieferrm"> kieferrm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kieferrm">Copy rank badge</a><br/>
 			Kai Maetzel
 		</td>
 		<td>No Company</td>
@@ -5517,7 +5519,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/leereilly">
 				<img src="https://avatars.githubusercontent.com/u/121322?s=72&u=dace6bc679e551a0876fb357304e337aa5539dc0&v=4" width="24" alt="Avatar of leereilly"> leereilly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#leereilly">Copy rank badge</a><br/>
 			Lee Reilly
 		</td>
 		<td>Github </td>
@@ -5530,7 +5532,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/DeborahK">
 				<img src="https://avatars.githubusercontent.com/u/7987365?s=72&u=9591b04ff6ddd19728a1faa14991daa2a1df3ebf&v=4" width="24" alt="Avatar of DeborahK"> DeborahK
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#DeborahK">Copy rank badge</a><br/>
 			Deborah Kurata
 		</td>
 		<td>No Company</td>
@@ -5543,7 +5545,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mrocklin">
 				<img src="https://avatars.githubusercontent.com/u/306380?s=72&u=a804c563a1f6009805dc0fe42efcf5ba52c8dab0&v=4" width="24" alt="Avatar of mrocklin"> mrocklin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mrocklin">Copy rank badge</a><br/>
 			Matthew Rocklin
 		</td>
 		<td>@coiled  </td>
@@ -5556,7 +5558,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nornagon">
 				<img src="https://avatars.githubusercontent.com/u/172800?s=72&v=4" width="24" alt="Avatar of nornagon"> nornagon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nornagon">Copy rank badge</a><br/>
 			Jeremy Rose
 		</td>
 		<td>@tinyspeck </td>
@@ -5569,7 +5571,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/gvanrossum">
 				<img src="https://avatars.githubusercontent.com/u/2894642?s=72&u=3fd95e46e081102446b1ebdf31e1cf3d77406c0b&v=4" width="24" alt="Avatar of gvanrossum"> gvanrossum
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#gvanrossum">Copy rank badge</a><br/>
 			Guido van Rossum
 		</td>
 		<td>Microsoft </td>
@@ -5582,7 +5584,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/soffes">
 				<img src="https://avatars.githubusercontent.com/u/52870?s=72&u=565e84c96cdcfacd929134dcd1bf8bf254712901&v=4" width="24" alt="Avatar of soffes"> soffes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#soffes">Copy rank badge</a><br/>
 			Sam Soffes
 		</td>
 		<td>Apple </td>
@@ -5595,7 +5597,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nathanchapman">
 				<img src="https://avatars.githubusercontent.com/u/4032071?s=72&u=7e29ea6c61dde08184a8e885419d842d487d01f9&v=4" width="24" alt="Avatar of nathanchapman"> nathanchapman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nathanchapman">Copy rank badge</a><br/>
 			Nathan Chapman
 		</td>
 		<td>@gibsonai </td>
@@ -5608,7 +5610,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/MaximeHeckel">
 				<img src="https://avatars.githubusercontent.com/u/2974412?s=72&u=19a04733882371f975959b33f3f3b917fdc4d0e7&v=4" width="24" alt="Avatar of MaximeHeckel"> MaximeHeckel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#MaximeHeckel">Copy rank badge</a><br/>
 			Maxime Heckel
 		</td>
 		<td>@tangohq </td>
@@ -5621,7 +5623,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ryanburgess">
 				<img src="https://avatars.githubusercontent.com/u/3660994?s=72&u=6b8bb1243901b49a892f72a37fdf72bb8eb4be7e&v=4" width="24" alt="Avatar of ryanburgess"> ryanburgess
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ryanburgess">Copy rank badge</a><br/>
 			Ryan Burgess
 		</td>
 		<td>Netflix </td>
@@ -5634,7 +5636,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Fechin">
 				<img src="https://avatars.githubusercontent.com/u/2541482?s=72&u=5098f61c658e9fe905344e4f0e300ae318a983d2&v=4" width="24" alt="Avatar of Fechin"> Fechin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Fechin">Copy rank badge</a><br/>
 			Fechin
 		</td>
 		<td>D Inc. </td>
@@ -5647,7 +5649,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/davidteather">
 				<img src="https://avatars.githubusercontent.com/u/34144122?s=72&u=9ac0290cecfbfe9f2d68758ba26113ff4b345a37&v=4" width="24" alt="Avatar of davidteather"> davidteather
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#davidteather">Copy rank badge</a><br/>
 			David Teather
 		</td>
 		<td>@crowdstrike </td>
@@ -5660,7 +5662,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mahseema">
 				<img src="https://avatars.githubusercontent.com/u/143227828?s=72&u=966f0154eb1bee33077b2f00f8632cd3bf719845&v=4" width="24" alt="Avatar of mahseema"> mahseema
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mahseema">Copy rank badge</a><br/>
 			Mahsima Dastan
 		</td>
 		<td>@alternbits </td>
@@ -5673,7 +5675,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/eugeneyan">
 				<img src="https://avatars.githubusercontent.com/u/6831355?s=72&u=4b5cf1f33cb65e8026be3858d624530ec62bbd04&v=4" width="24" alt="Avatar of eugeneyan"> eugeneyan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#eugeneyan">Copy rank badge</a><br/>
 			Eugene Yan
 		</td>
 		<td>Amazon </td>
@@ -5686,7 +5688,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/joewalnes">
 				<img src="https://avatars.githubusercontent.com/u/48950?s=72&v=4" width="24" alt="Avatar of joewalnes"> joewalnes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#joewalnes">Copy rank badge</a><br/>
 			Joe Walnes
 		</td>
 		<td>No Company</td>
@@ -5699,7 +5701,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/chriskiehl">
 				<img src="https://avatars.githubusercontent.com/u/1408720?s=72&u=fc5e1eed28ad376d0a97be74cc0855939cfa29cc&v=4" width="24" alt="Avatar of chriskiehl"> chriskiehl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#chriskiehl">Copy rank badge</a><br/>
 			Chris
 		</td>
 		<td>Amazon </td>
@@ -5712,7 +5714,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/joeduffy">
 				<img src="https://avatars.githubusercontent.com/u/3953235?s=72&u=afbbd0a81ceea4e4798f22eae9a419aa8b5bd119&v=4" width="24" alt="Avatar of joeduffy"> joeduffy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#joeduffy">Copy rank badge</a><br/>
 			Joe Duffy
 		</td>
 		<td>Pulumi </td>
@@ -5725,7 +5727,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/lukehoban">
 				<img src="https://avatars.githubusercontent.com/u/223467?s=72&u=813d8208b74d626778368048a05de08bdf449e80&v=4" width="24" alt="Avatar of lukehoban"> lukehoban
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#lukehoban">Copy rank badge</a><br/>
 			Luke Hoban
 		</td>
 		<td>@microsoft </td>
@@ -5738,7 +5740,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/prakhar1989">
 				<img src="https://avatars.githubusercontent.com/u/649249?s=72&u=96f77f0b3a0fb0d50682c7a31bf295e38ff64074&v=4" width="24" alt="Avatar of prakhar1989"> prakhar1989
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#prakhar1989">Copy rank badge</a><br/>
 			Prakhar Srivastav
 		</td>
 		<td>@google At @firebase <br/></td>
@@ -5751,7 +5753,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jcs">
 				<img src="https://avatars.githubusercontent.com/u/9888?s=72&v=4" width="24" alt="Avatar of jcs"> jcs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jcs">Copy rank badge</a><br/>
 			joshua stein
 		</td>
 		<td>@pushoverapp  </td>
@@ -5764,7 +5766,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mattetti">
 				<img src="https://avatars.githubusercontent.com/u/113?s=72&u=adfa5c9ff29ad74a3c8e786b6070c60ccf0ac8d6&v=4" width="24" alt="Avatar of mattetti"> mattetti
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mattetti">Copy rank badge</a><br/>
 			Matt Aimonetti
 		</td>
 		<td>@splice </td>
@@ -5777,7 +5779,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/davatron5000">
 				<img src="https://avatars.githubusercontent.com/u/42218?s=72&v=4" width="24" alt="Avatar of davatron5000"> davatron5000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#davatron5000">Copy rank badge</a><br/>
 			Dave Rupert
 		</td>
 		<td>Paravel </td>
@@ -5790,7 +5792,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/HarmJ0y">
 				<img src="https://avatars.githubusercontent.com/u/5504523?s=72&u=2ae78020b034a543d5da1faf48b559b83e923fcb&v=4" width="24" alt="Avatar of HarmJ0y"> HarmJ0y
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#HarmJ0y">Copy rank badge</a><br/>
 			Will Schroeder
 		</td>
 		<td>Specterops </td>
@@ -5803,7 +5805,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/evanphx">
 				<img src="https://avatars.githubusercontent.com/u/7?s=72&v=4" width="24" alt="Avatar of evanphx"> evanphx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#evanphx">Copy rank badge</a><br/>
 			Evan Phoenix
 		</td>
 		<td>@mirendev  </td>
@@ -5816,7 +5818,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/betanalpha">
 				<img src="https://avatars.githubusercontent.com/u/1527190?s=72&u=ce4559f69a950b25d71309a336a87b9ccb625708&v=4" width="24" alt="Avatar of betanalpha"> betanalpha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#betanalpha">Copy rank badge</a><br/>
 			Michael Betancourt
 		</td>
 		<td>Symplectomorphic </td>
@@ -5829,7 +5831,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/cwRichardKim">
 				<img src="https://avatars.githubusercontent.com/u/5778691?s=72&u=f13a7af9dc3347e2e74552f37fde2b1c5284b678&v=4" width="24" alt="Avatar of cwRichardKim"> cwRichardKim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#cwRichardKim">Copy rank badge</a><br/>
 			Richard Kim
 		</td>
 		<td>@airbnb </td>
@@ -5842,7 +5844,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/alirezadir">
 				<img src="https://avatars.githubusercontent.com/u/5262877?s=72&u=5b504563e70e5418914d1548dff3f201a9692970&v=4" width="24" alt="Avatar of alirezadir"> alirezadir
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#alirezadir">Copy rank badge</a><br/>
 			Alireza Dirafzoon
 		</td>
 		<td>Ex. Meta  </td>
@@ -5855,7 +5857,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kognise">
 				<img src="https://avatars.githubusercontent.com/u/42556441?s=72&u=ec599a2b2e2af0a524e8fd7d024bb71f91f63e6b&v=4" width="24" alt="Avatar of kognise"> kognise
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kognise">Copy rank badge</a><br/>
 			Lexi Mattick
 		</td>
 		<td>@neuralinkcorp </td>
@@ -5868,7 +5870,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/awjuliani">
 				<img src="https://avatars.githubusercontent.com/u/9065325?s=72&u=d6e1ac91f8e6f09e145669081683228c8488017e&v=4" width="24" alt="Avatar of awjuliani"> awjuliani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#awjuliani">Copy rank badge</a><br/>
 			Arthur Juliani
 		</td>
 		<td>No Company</td>
@@ -5881,7 +5883,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/warner">
 				<img src="https://avatars.githubusercontent.com/u/27146?s=72&v=4" width="24" alt="Avatar of warner"> warner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#warner">Copy rank badge</a><br/>
 			Brian Warner
 		</td>
 		<td>No Company</td>
@@ -5894,7 +5896,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/AkariAsai">
 				<img src="https://avatars.githubusercontent.com/u/16631193?s=72&u=4bb1f3f4620997e04d5d7f942b6bcec5e2648ff7&v=4" width="24" alt="Avatar of AkariAsai"> AkariAsai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#AkariAsai">Copy rank badge</a><br/>
 			Akari Asai
 		</td>
 		<td>University Of Washington </td>
@@ -5907,7 +5909,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/dannguyen">
 				<img src="https://avatars.githubusercontent.com/u/121520?s=72&u=41b46114f1e960adf957598ff5b8ede1e25747df&v=4" width="24" alt="Avatar of dannguyen"> dannguyen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#dannguyen">Copy rank badge</a><br/>
 			Dan Nguyen
 		</td>
 		<td>Data Scientist Wrangler/engineer </td>
@@ -5920,7 +5922,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/antimatter15">
 				<img src="https://avatars.githubusercontent.com/u/30054?s=72&v=4" width="24" alt="Avatar of antimatter15"> antimatter15
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#antimatter15">Copy rank badge</a><br/>
 			Kevin Kwok
 		</td>
 		<td>No Company</td>
@@ -5933,7 +5935,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/shaoruu">
 				<img src="https://avatars.githubusercontent.com/u/35216312?s=72&u=bef652190bb647eb9acd9232d9b366773826d203&v=4" width="24" alt="Avatar of shaoruu"> shaoruu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#shaoruu">Copy rank badge</a><br/>
 			Ian Huang (Shaoru)
 		</td>
 		<td>@anysphere </td>
@@ -5946,7 +5948,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/borismus">
 				<img src="https://avatars.githubusercontent.com/u/277632?s=72&u=bb2c5b541f3ee3c3ef0d5630250b9f1bf6d293a5&v=4" width="24" alt="Avatar of borismus"> borismus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#borismus">Copy rank badge</a><br/>
 			Boris Smus
 		</td>
 		<td>No Company</td>
@@ -5959,7 +5961,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/walkccc">
 				<img src="https://avatars.githubusercontent.com/u/14782909?s=72&u=407902dee009f62be877c86101bc501872aa08c4&v=4" width="24" alt="Avatar of walkccc"> walkccc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#walkccc">Copy rank badge</a><br/>
 			Peng-Yu Chen
 		</td>
 		<td>No Company</td>
@@ -5972,7 +5974,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kdn251">
 				<img src="https://avatars.githubusercontent.com/u/16903644?s=72&u=7ae585948bc92fb0986bc73b7d38660718aefff1&v=4" width="24" alt="Avatar of kdn251"> kdn251
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kdn251">Copy rank badge</a><br/>
 			Kevin Naughton Jr.
 		</td>
 		<td>Google </td>
@@ -5985,7 +5987,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/logankilpatrick">
 				<img src="https://avatars.githubusercontent.com/u/35577566?s=72&u=f6784fa224ee43e5e80883b43a4479e6335192e8&v=4" width="24" alt="Avatar of logankilpatrick"> logankilpatrick
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#logankilpatrick">Copy rank badge</a><br/>
 			Logan Kilpatrick 
 		</td>
 		<td>Google Deepmind </td>
@@ -5998,7 +6000,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jasonmayes">
 				<img src="https://avatars.githubusercontent.com/u/4972997?s=72&u=f669d6d837291299cbfddfa064a61fe647d04048&v=4" width="24" alt="Avatar of jasonmayes"> jasonmayes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jasonmayes">Copy rank badge</a><br/>
 			Jason Mayes
 		</td>
 		<td>Google </td>
@@ -6011,7 +6013,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/romannurik">
 				<img src="https://avatars.githubusercontent.com/u/100155?s=72&v=4" width="24" alt="Avatar of romannurik"> romannurik
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#romannurik">Copy rank badge</a><br/>
 			Roman Nurik
 		</td>
 		<td>@google  </td>
@@ -6024,7 +6026,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/brianc">
 				<img src="https://avatars.githubusercontent.com/u/50081?s=72&v=4" width="24" alt="Avatar of brianc"> brianc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#brianc">Copy rank badge</a><br/>
 			Brian C
 		</td>
 		<td>No Company</td>
@@ -6037,7 +6039,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/slightlyoff">
 				<img src="https://avatars.githubusercontent.com/u/97331?s=72&v=4" width="24" alt="Avatar of slightlyoff"> slightlyoff
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#slightlyoff">Copy rank badge</a><br/>
 			Alex Russell
 		</td>
 		<td>Microsoft </td>
@@ -6050,7 +6052,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/aaishikasb">
 				<img src="https://avatars.githubusercontent.com/u/52964353?s=72&u=f10911134fa2710cc038b37eab011a721939dc1d&v=4" width="24" alt="Avatar of aaishikasb"> aaishikasb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#aaishikasb">Copy rank badge</a><br/>
 			Aaishika S Bhattacharya
 		</td>
 		<td>@ngrok </td>
@@ -6063,7 +6065,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/a-robinson">
 				<img src="https://avatars.githubusercontent.com/u/7085343?s=72&u=ecb2a13afceb8dce85a64dcd0d989936a1855e0c&v=4" width="24" alt="Avatar of a-robinson"> a-robinson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#a-robinson">Copy rank badge</a><br/>
 			Alex Robinson
 		</td>
 		<td>@cloudflare </td>
@@ -6076,7 +6078,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/zpao">
 				<img src="https://avatars.githubusercontent.com/u/8445?s=72&v=4" width="24" alt="Avatar of zpao"> zpao
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#zpao">Copy rank badge</a><br/>
 			Paul O’Shannessy
 		</td>
 		<td>@facebook  </td>
@@ -6089,7 +6091,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/PWhiddy">
 				<img src="https://avatars.githubusercontent.com/u/15711120?s=72&u=331c427763bfc8faa189aaa4f760a1553afd83da&v=4" width="24" alt="Avatar of PWhiddy"> PWhiddy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#PWhiddy">Copy rank badge</a><br/>
 			Peter Whidden
 		</td>
 		<td>No Company</td>
@@ -6102,7 +6104,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/chiphuyen">
 				<img src="https://avatars.githubusercontent.com/u/11997567?s=72&u=53a5591a265a57dc2edc648ebdce277317101c14&v=4" width="24" alt="Avatar of chiphuyen"> chiphuyen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#chiphuyen">Copy rank badge</a><br/>
 			Chip Huyen
 		</td>
 		<td>No Company</td>
@@ -6115,7 +6117,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/zenorocha">
 				<img src="https://avatars.githubusercontent.com/u/398893?s=72&u=06bdf08d3ce2e81c8f5778aa7c3a47068e97c475&v=4" width="24" alt="Avatar of zenorocha"> zenorocha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#zenorocha">Copy rank badge</a><br/>
 			Zeno Rocha
 		</td>
 		<td>@resend </td>
@@ -6128,7 +6130,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mikeal">
 				<img src="https://avatars.githubusercontent.com/u/579?s=72&u=d2d7bcddedf4900d73a23e29c9e3873c4271efde&v=4" width="24" alt="Avatar of mikeal"> mikeal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mikeal">Copy rank badge</a><br/>
 			Mikeal Rogers
 		</td>
 		<td>No Company</td>
@@ -6141,7 +6143,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/M0nica">
 				<img src="https://avatars.githubusercontent.com/u/6998954?s=72&u=78ef436473b15f90ae2a50e64883ebf39c0c1b1d&v=4" width="24" alt="Avatar of M0nica"> M0nica
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#M0nica">Copy rank badge</a><br/>
 			Monica Powell
 		</td>
 		<td>No Company</td>
@@ -6154,7 +6156,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/evelinehong">
 				<img src="https://avatars.githubusercontent.com/u/32010547?s=72&u=11fc301aa1486f215edf424452c2b7d16a8b8051&v=4" width="24" alt="Avatar of evelinehong"> evelinehong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#evelinehong">Copy rank badge</a><br/>
 			Yining Hong
 		</td>
 		<td>Ucla </td>
@@ -6167,7 +6169,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/davidsonfellipe">
 				<img src="https://avatars.githubusercontent.com/u/381179?s=72&u=21f528167cae25bbc1d8be300272ebb335211a05&v=4" width="24" alt="Avatar of davidsonfellipe"> davidsonfellipe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#davidsonfellipe">Copy rank badge</a><br/>
 			Davidson Fellipe
 		</td>
 		<td>@upgrade </td>
@@ -6180,7 +6182,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/tjfontaine">
 				<img src="https://avatars.githubusercontent.com/u/146447?s=72&u=65aa32de458a02a3aab68e10b7a2c24c671fcd76&v=4" width="24" alt="Avatar of tjfontaine"> tjfontaine
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#tjfontaine">Copy rank badge</a><br/>
 			Timothy J Fontaine
 		</td>
 		<td>Ataraxia Consulting </td>
@@ -6193,7 +6195,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/zhuohan123">
 				<img src="https://avatars.githubusercontent.com/u/17310766?s=72&u=02a60ccbc661e054e633703601390d00bb984bfe&v=4" width="24" alt="Avatar of zhuohan123"> zhuohan123
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#zhuohan123">Copy rank badge</a><br/>
 			Zhuohan Li
 		</td>
 		<td>Openai </td>
@@ -6206,7 +6208,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/leebyron">
 				<img src="https://avatars.githubusercontent.com/u/50130?s=72&u=d3c7c18ff34107c3a4312217171ccb722d6552d7&v=4" width="24" alt="Avatar of leebyron"> leebyron
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#leebyron">Copy rank badge</a><br/>
 			Lee Byron
 		</td>
 		<td>@watershed-climate </td>
@@ -6219,7 +6221,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/yaahc">
 				<img src="https://avatars.githubusercontent.com/u/1993852?s=72&u=561c830e6ddd6310bb47c9bd669dcf860a68dd64&v=4" width="24" alt="Avatar of yaahc"> yaahc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#yaahc">Copy rank badge</a><br/>
 			Jane Losare-Lusby
 		</td>
 		<td>Futurewei Technologies </td>
@@ -6232,7 +6234,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/karan">
 				<img src="https://avatars.githubusercontent.com/u/3261985?s=72&v=4" width="24" alt="Avatar of karan"> karan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#karan">Copy rank badge</a><br/>
 			Karan Goel
 		</td>
 		<td>@googlecloudplatform  </td>
@@ -6245,7 +6247,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Atcold">
 				<img src="https://avatars.githubusercontent.com/u/2119355?s=72&v=4" width="24" alt="Avatar of Atcold"> Atcold
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Atcold">Copy rank badge</a><br/>
 			Alfredo Canziani
 		</td>
 		<td>Nyu </td>
@@ -6258,7 +6260,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/petele">
 				<img src="https://avatars.githubusercontent.com/u/718038?s=72&v=4" width="24" alt="Avatar of petele"> petele
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#petele">Copy rank badge</a><br/>
 			Pete LePage
 		</td>
 		<td>Google Chrome </td>
@@ -6271,7 +6273,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/rezaali">
 				<img src="https://avatars.githubusercontent.com/u/555207?s=72&u=1ebccfc0b6749f5cfeb8122643241b993801acdf&v=4" width="24" alt="Avatar of rezaali"> rezaali
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#rezaali">Copy rank badge</a><br/>
 			Reza Ali
 		</td>
 		<td>No Company</td>
@@ -6284,7 +6286,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/dvf">
 				<img src="https://avatars.githubusercontent.com/u/1169974?s=72&u=9acbfe22a907e13b039a15ad744f4dd95e93de78&v=4" width="24" alt="Avatar of dvf"> dvf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#dvf">Copy rank badge</a><br/>
 			Daniel van Flymen
 		</td>
 		<td>Plettenberg Capital </td>
@@ -6297,7 +6299,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/maxbbraun">
 				<img src="https://avatars.githubusercontent.com/u/17013280?s=72&u=635a22775f58236571856bbddc8485b737a913bd&v=4" width="24" alt="Avatar of maxbbraun"> maxbbraun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#maxbbraun">Copy rank badge</a><br/>
 			Max Braun
 		</td>
 		<td>@openai </td>
@@ -6310,7 +6312,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/stemkoski">
 				<img src="https://avatars.githubusercontent.com/u/1270123?s=72&u=f92ad311ce95e5a7924942917351f23b1337b5c9&v=4" width="24" alt="Avatar of stemkoski"> stemkoski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#stemkoski">Copy rank badge</a><br/>
 			Lee Stemkoski
 		</td>
 		<td>Adelphi University </td>
@@ -6323,7 +6325,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/dabbott">
 				<img src="https://avatars.githubusercontent.com/u/1198882?s=72&u=61571d634580fee141b96251e329028fbeacf6e3&v=4" width="24" alt="Avatar of dabbott"> dabbott
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#dabbott">Copy rank badge</a><br/>
 			Devin Abbott
 		</td>
 		<td>Noya Software, Inc </td>
@@ -6336,7 +6338,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ilblackdragon">
 				<img src="https://avatars.githubusercontent.com/u/175486?s=72&u=f8fc45cf877cf6b497596bef6ef8dd9c5c015a8a&v=4" width="24" alt="Avatar of ilblackdragon"> ilblackdragon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ilblackdragon">Copy rank badge</a><br/>
 			Illia Polosukhin
 		</td>
 		<td>Near Protocol </td>
@@ -6349,7 +6351,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/billerickson">
 				<img src="https://avatars.githubusercontent.com/u/685131?s=72&v=4" width="24" alt="Avatar of billerickson"> billerickson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#billerickson">Copy rank badge</a><br/>
 			Bill Erickson
 		</td>
 		<td>No Company</td>
@@ -6362,7 +6364,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jeremycole">
 				<img src="https://avatars.githubusercontent.com/u/450104?s=72&v=4" width="24" alt="Avatar of jeremycole"> jeremycole
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jeremycole">Copy rank badge</a><br/>
 			Jeremy Cole
 		</td>
 		<td>∅ </td>
@@ -6375,7 +6377,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/chrisalbon">
 				<img src="https://avatars.githubusercontent.com/u/3612307?s=72&u=3396e48cd171028c56ae91938043438a4ed8d865&v=4" width="24" alt="Avatar of chrisalbon"> chrisalbon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#chrisalbon">Copy rank badge</a><br/>
 			Chris Albon
 		</td>
 		<td>Wikimedia Foundation </td>
@@ -6388,7 +6390,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/deedy">
 				<img src="https://avatars.githubusercontent.com/u/1846373?s=72&u=6c738c8985d6c2d56d0d1a61e2c00ae771207fc0&v=4" width="24" alt="Avatar of deedy"> deedy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#deedy">Copy rank badge</a><br/>
 			deedy
 		</td>
 		<td>Menlo Ventures </td>
@@ -6401,7 +6403,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jlfwong">
 				<img src="https://avatars.githubusercontent.com/u/150329?s=72&u=6d27cdd9ffef433f3d5a9de93ef5fec3fe3889f1&v=4" width="24" alt="Avatar of jlfwong"> jlfwong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jlfwong">Copy rank badge</a><br/>
 			Jamie Wong
 		</td>
 		<td>South Park Commons </td>
@@ -6414,7 +6416,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/keyz">
 				<img src="https://avatars.githubusercontent.com/u/2268452?s=72&u=902a1c95985d6ce150c8a538629a579b4922eae5&v=4" width="24" alt="Avatar of keyz"> keyz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#keyz">Copy rank badge</a><br/>
 			Keyan Zhang
 		</td>
 		<td>@openai </td>
@@ -6427,7 +6429,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/srowen">
 				<img src="https://avatars.githubusercontent.com/u/822522?s=72&u=ef57526cbc6c158ba71394a31ef565b037f466a1&v=4" width="24" alt="Avatar of srowen"> srowen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#srowen">Copy rank badge</a><br/>
 			Sean Owen
 		</td>
 		<td>@databricks  </td>
@@ -6440,7 +6442,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/syncora-ai">
 				<img src="https://avatars.githubusercontent.com/u/210037379?s=72&u=6d35ba8f0c6024d5fee730ee3b20eba9dfbc8404&v=4" width="24" alt="Avatar of syncora-ai"> syncora-ai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#syncora-ai">Copy rank badge</a><br/>
 			Syncora.ai - Agentic Synthetic Data Generation Tool
 		</td>
 		<td>Syncora.ai </td>
@@ -6453,7 +6455,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/eligrey">
 				<img src="https://avatars.githubusercontent.com/u/46995?s=72&u=21a18bc04d50e86a2c2d8783877d2b070ea5a0f6&v=4" width="24" alt="Avatar of eligrey"> eligrey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#eligrey">Copy rank badge</a><br/>
 			Eli Grey
 		</td>
 		<td>@transcend-io </td>
@@ -6466,7 +6468,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/hwayne">
 				<img src="https://avatars.githubusercontent.com/u/2660212?s=72&u=08982246dd420271d81c8c43bb6d44b2ec723d97&v=4" width="24" alt="Avatar of hwayne"> hwayne
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#hwayne">Copy rank badge</a><br/>
 			Hillel Wayne
 		</td>
 		<td>No Company</td>
@@ -6479,7 +6481,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/dynamicwebpaige">
 				<img src="https://avatars.githubusercontent.com/u/3712347?s=72&u=ba23e74ea570db418af15bc0dea835bdcc7a8b5b&v=4" width="24" alt="Avatar of dynamicwebpaige"> dynamicwebpaige
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#dynamicwebpaige">Copy rank badge</a><br/>
 			Paige Bailey
 		</td>
 		<td>Google </td>
@@ -6492,7 +6494,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/hacktoberfest-team">
 				<img src="https://avatars.githubusercontent.com/u/56001270?s=72&u=5db103d2f7d7494a73cd07135d7a9560ea1dd5a7&v=4" width="24" alt="Avatar of hacktoberfest-team"> hacktoberfest-team
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#hacktoberfest-team">Copy rank badge</a><br/>
 			Hacktoberfest Team
 		</td>
 		<td>@hacktoberfest </td>
@@ -6505,7 +6507,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/samyk">
 				<img src="https://avatars.githubusercontent.com/u/411832?s=72&u=5f13e08b44f9097861310bf2b9abff56fedb68cf&v=4" width="24" alt="Avatar of samyk"> samyk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#samyk">Copy rank badge</a><br/>
 			samy kamkar
 		</td>
 		<td>Openpath Security </td>
@@ -6518,7 +6520,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/vivek9patel">
 				<img src="https://avatars.githubusercontent.com/u/50517245?s=72&u=225c360b3b6b0dd01567f4724b66bffc489a96ab&v=4" width="24" alt="Avatar of vivek9patel"> vivek9patel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#vivek9patel">Copy rank badge</a><br/>
 			Vivek Patel
 		</td>
 		<td>No Company</td>
@@ -6531,7 +6533,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kuleshov">
 				<img src="https://avatars.githubusercontent.com/u/2359246?s=72&u=2567ecb1a3d033746241b0bb628009ff5a2add84&v=4" width="24" alt="Avatar of kuleshov"> kuleshov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kuleshov">Copy rank badge</a><br/>
 			Volodymyr Kuleshov
 		</td>
 		<td>Cornell Tech </td>
@@ -6544,7 +6546,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nateraw">
 				<img src="https://avatars.githubusercontent.com/u/32437151?s=72&u=4ec59abc8d21d5feea3dab323d23a5860e6996a4&v=4" width="24" alt="Avatar of nateraw"> nateraw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nateraw">Copy rank badge</a><br/>
 			Nathan Raw
 		</td>
 		<td>No Company</td>
@@ -6557,7 +6559,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/fanzeyi">
 				<img src="https://avatars.githubusercontent.com/u/409951?s=72&u=9e1dd6f514067835d352cde22b70a813700e78cb&v=4" width="24" alt="Avatar of fanzeyi"> fanzeyi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#fanzeyi">Copy rank badge</a><br/>
 			Zeyi (Rice) Fan
 		</td>
 		<td>@facebook </td>
@@ -6570,7 +6572,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/faizann24">
 				<img src="https://avatars.githubusercontent.com/u/17704628?s=72&u=5e9d6c76fc26f69370c27fcffadefc45cb63d6ad&v=4" width="24" alt="Avatar of faizann24"> faizann24
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#faizann24">Copy rank badge</a><br/>
 			Faizan Ahmad
 		</td>
 		<td>No Company</td>
@@ -6583,7 +6585,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/tholman">
 				<img src="https://avatars.githubusercontent.com/u/794999?s=72&u=bd9d5e26bab0305623f5b1adf6eeffb3b445ef21&v=4" width="24" alt="Avatar of tholman"> tholman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#tholman">Copy rank badge</a><br/>
 			Tim Holman
 		</td>
 		<td>No Company</td>
@@ -6596,7 +6598,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/lecoursen">
 				<img src="https://avatars.githubusercontent.com/u/14935376?s=72&u=23ae2493d4a298c01396f581bfd358df2c3ff537&v=4" width="24" alt="Avatar of lecoursen"> lecoursen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#lecoursen">Copy rank badge</a><br/>
 			Laura Coursen
 		</td>
 		<td>Github </td>
@@ -6609,7 +6611,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/bmeck">
 				<img src="https://avatars.githubusercontent.com/u/234659?s=72&v=4" width="24" alt="Avatar of bmeck"> bmeck
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#bmeck">Copy rank badge</a><br/>
 			Bradley Farias
 		</td>
 		<td>No Company</td>
@@ -6622,7 +6624,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/stephanieran">
 				<img src="https://avatars.githubusercontent.com/u/91920601?s=72&u=d68db5eb2805d8f742596f65403057018bccb354&v=4" width="24" alt="Avatar of stephanieran"> stephanieran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#stephanieran">Copy rank badge</a><br/>
 			Steph
 		</td>
 		<td>No Company</td>
@@ -6635,7 +6637,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/amandaghassaei">
 				<img src="https://avatars.githubusercontent.com/u/3218981?s=72&u=b84752cd1a3d734907336c6b8fe6bbd5a2d9fd0f&v=4" width="24" alt="Avatar of amandaghassaei"> amandaghassaei
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#amandaghassaei">Copy rank badge</a><br/>
 			Amanda Ghassaei
 		</td>
 		<td>No Company</td>
@@ -6648,7 +6650,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/bryant1410">
 				<img src="https://avatars.githubusercontent.com/u/3905501?s=72&v=4" width="24" alt="Avatar of bryant1410"> bryant1410
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#bryant1410">Copy rank badge</a><br/>
 			Santiago Castro
 		</td>
 		<td>@netflix </td>
@@ -6661,7 +6663,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/alexzielenski">
 				<img src="https://avatars.githubusercontent.com/u/351783?s=72&v=4" width="24" alt="Avatar of alexzielenski"> alexzielenski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#alexzielenski">Copy rank badge</a><br/>
 			Alex Zielenski
 		</td>
 		<td>Openai </td>
@@ -6674,7 +6676,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/waciumawanjohi">
 				<img src="https://avatars.githubusercontent.com/u/18407643?s=72&u=7ae4f3554d22fcd78c3309199b0661a6911bcf94&v=4" width="24" alt="Avatar of waciumawanjohi"> waciumawanjohi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#waciumawanjohi">Copy rank badge</a><br/>
 			Lenox Waciuma Wanjohi
 		</td>
 		<td>Vmware </td>
@@ -6687,7 +6689,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Snugug">
 				<img src="https://avatars.githubusercontent.com/u/377188?s=72&u=0b7d2a27d03fdabd8227471b9bd43c6e230ef3a5&v=4" width="24" alt="Avatar of Snugug"> Snugug
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Snugug">Copy rank badge</a><br/>
 			Sam Richard
 		</td>
 		<td>@google Chrome Os </td>
@@ -6700,7 +6702,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/outofambit">
 				<img src="https://avatars.githubusercontent.com/u/964912?s=72&u=93735a0baf20d9e54b98d37322f6397acd34c133&v=4" width="24" alt="Avatar of outofambit"> outofambit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#outofambit">Copy rank badge</a><br/>
 			cypress evelyn masso
 		</td>
 		<td>No Company</td>
@@ -6713,7 +6715,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/tclem">
 				<img src="https://avatars.githubusercontent.com/u/136521?s=72&u=7ad11de1a907960ec3afa9c43464602ae046ab3a&v=4" width="24" alt="Avatar of tclem"> tclem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#tclem">Copy rank badge</a><br/>
 			Timothy Clem
 		</td>
 		<td>Github </td>
@@ -6726,7 +6728,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nasser">
 				<img src="https://avatars.githubusercontent.com/u/412966?s=72&v=4" width="24" alt="Avatar of nasser"> nasser
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nasser">Copy rank badge</a><br/>
 			Ramsey Nasser
 		</td>
 		<td>No Company</td>
@@ -6739,7 +6741,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nfultz">
 				<img src="https://avatars.githubusercontent.com/u/418638?s=72&u=76fa821dabfbc97cd67519377dcd863210c1f596&v=4" width="24" alt="Avatar of nfultz"> nfultz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nfultz">Copy rank badge</a><br/>
 			Neal Fultz
 		</td>
 		<td>@njnmco @ucla </td>
@@ -6752,7 +6754,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/armankhondker">
 				<img src="https://avatars.githubusercontent.com/u/22623742?s=72&u=5437e20435b0ef994334e81a3e4a76790fe7ccfb&v=4" width="24" alt="Avatar of armankhondker"> armankhondker
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#armankhondker">Copy rank badge</a><br/>
 			Arman
 		</td>
 		<td>@microsoft </td>
@@ -6765,7 +6767,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/alloy">
 				<img src="https://avatars.githubusercontent.com/u/2320?s=72&u=2bb48d6b50f7e2f7f9fc441f2ddfd31e04795746&v=4" width="24" alt="Avatar of alloy"> alloy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#alloy">Copy rank badge</a><br/>
 			Eloy Durán
 		</td>
 		<td>Microsoft </td>
@@ -6778,7 +6780,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/iamcal">
 				<img src="https://avatars.githubusercontent.com/u/173750?s=72&u=538bb6122638dea3700618fe15a8d5c868feba7a&v=4" width="24" alt="Avatar of iamcal"> iamcal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#iamcal">Copy rank badge</a><br/>
 			Cal Henderson
 		</td>
 		<td>Slack </td>
@@ -6791,7 +6793,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/adrianmg">
 				<img src="https://avatars.githubusercontent.com/u/589285?s=72&u=60188b84b43add944c70425c0137d601f088f5e8&v=4" width="24" alt="Avatar of adrianmg"> adrianmg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#adrianmg">Copy rank badge</a><br/>
 			Adrian Mato
 		</td>
 		<td>@github  </td>
@@ -6804,7 +6806,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/rharter">
 				<img src="https://avatars.githubusercontent.com/u/1296750?s=72&v=4" width="24" alt="Avatar of rharter"> rharter
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#rharter">Copy rank badge</a><br/>
 			Ryan Harter
 		</td>
 		<td>No Company</td>
@@ -6817,7 +6819,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/benlesh">
 				<img src="https://avatars.githubusercontent.com/u/1540597?s=72&u=0f2abc00e4a58cbd1c8832904cd45d6d613341a1&v=4" width="24" alt="Avatar of benlesh"> benlesh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#benlesh">Copy rank badge</a><br/>
 			Ben Lesh
 		</td>
 		<td>No Company</td>
@@ -6830,7 +6832,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/econchick">
 				<img src="https://avatars.githubusercontent.com/u/1191069?s=72&u=3e14bc30333b95eda0796d144c2a383be71df036&v=4" width="24" alt="Avatar of econchick"> econchick
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#econchick">Copy rank badge</a><br/>
 			Lynn Root
 		</td>
 		<td>@spotify  </td>
@@ -6843,7 +6845,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/redblobgames">
 				<img src="https://avatars.githubusercontent.com/u/8757369?s=72&u=cf4be7bb66f8f9dc1d2c77a7e84c10c0abc1c21d&v=4" width="24" alt="Avatar of redblobgames"> redblobgames
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#redblobgames">Copy rank badge</a><br/>
 			Amit Patel
 		</td>
 		<td>Red Blob Games </td>
@@ -6856,7 +6858,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/cvalenzuela">
 				<img src="https://avatars.githubusercontent.com/u/10605821?s=72&u=6cc5097f1e05dbecc6b14a8ab0b06d325ea6ab64&v=4" width="24" alt="Avatar of cvalenzuela"> cvalenzuela
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#cvalenzuela">Copy rank badge</a><br/>
 			Cristóbal Valenzuela
 		</td>
 		<td>@runwayml  </td>
@@ -6869,7 +6871,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/lelandrichardson">
 				<img src="https://avatars.githubusercontent.com/u/1885623?s=72&u=e19f38132dc7f03a979c0107b10342364d445332&v=4" width="24" alt="Avatar of lelandrichardson"> lelandrichardson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#lelandrichardson">Copy rank badge</a><br/>
 			Leland Richardson
 		</td>
 		<td>Google </td>
@@ -6882,7 +6884,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jaayperez">
 				<img src="https://avatars.githubusercontent.com/u/46203291?s=72&u=54a0968e5fb4904870570fc8bb6fe637c9e0e1cb&v=4" width="24" alt="Avatar of jaayperez"> jaayperez
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jaayperez">Copy rank badge</a><br/>
 			Justin Perez
 		</td>
 		<td>No Company</td>
@@ -6895,7 +6897,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/NachoSoto">
 				<img src="https://avatars.githubusercontent.com/u/685609?s=72&u=668bd90d472447021920d17ac3738c6d03d97a21&v=4" width="24" alt="Avatar of NachoSoto"> NachoSoto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#NachoSoto">Copy rank badge</a><br/>
 			NachoSoto
 		</td>
 		<td>No Company</td>
@@ -6908,7 +6910,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/petehunt">
 				<img src="https://avatars.githubusercontent.com/u/239742?s=72&u=d23a37b678429916399d2706be2f1f25bf865efe&v=4" width="24" alt="Avatar of petehunt"> petehunt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#petehunt">Copy rank badge</a><br/>
 			Pete Hunt
 		</td>
 		<td>Dagster Labs </td>
@@ -6921,7 +6923,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jina">
 				<img src="https://avatars.githubusercontent.com/u/53273?s=72&u=3fedfa920f420bb52ca3ed4126311753105ce819&v=4" width="24" alt="Avatar of jina"> jina
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jina">Copy rank badge</a><br/>
 			Jina Anne
 		</td>
 		<td>Design.systems </td>
@@ -6934,7 +6936,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ro31337">
 				<img src="https://avatars.githubusercontent.com/u/1477672?s=72&u=b08c3f38548597b2b9caafef90c08b4a99ea4980&v=4" width="24" alt="Avatar of ro31337"> ro31337
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ro31337">Copy rank badge</a><br/>
 			Roman
 		</td>
 		<td>No Company</td>
@@ -6947,7 +6949,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ryanseys">
 				<img src="https://avatars.githubusercontent.com/u/163873?s=72&v=4" width="24" alt="Avatar of ryanseys"> ryanseys
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ryanseys">Copy rank badge</a><br/>
 			Ryan Seys
 		</td>
 		<td>No Company</td>
@@ -6960,7 +6962,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/freeman-lab">
 				<img src="https://avatars.githubusercontent.com/u/3387500?s=72&u=cc2e82fd18c792f0eb29a34c04b794721db83975&v=4" width="24" alt="Avatar of freeman-lab"> freeman-lab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#freeman-lab">Copy rank badge</a><br/>
 			Jeremy Freeman
 		</td>
 		<td>@carbonplan </td>
@@ -6973,7 +6975,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/HalfdanJ">
 				<img src="https://avatars.githubusercontent.com/u/227529?s=72&u=b7cd21ad46cc3e1a71691b6b8e328f12a3d26ebe&v=4" width="24" alt="Avatar of HalfdanJ"> HalfdanJ
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#HalfdanJ">Copy rank badge</a><br/>
 			Jonas Jongejan
 		</td>
 		<td>Freelance </td>
@@ -6986,7 +6988,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/alexgorbatchev">
 				<img src="https://avatars.githubusercontent.com/u/65633?s=72&v=4" width="24" alt="Avatar of alexgorbatchev"> alexgorbatchev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#alexgorbatchev">Copy rank badge</a><br/>
 			Alex Gorbatchev
 		</td>
 		<td>Block </td>
@@ -6999,7 +7001,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/HamptonMakes">
 				<img src="https://avatars.githubusercontent.com/u/111?s=72&u=698df752d6ea3357a89cb8edd8571b446038d525&v=4" width="24" alt="Avatar of HamptonMakes"> HamptonMakes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#HamptonMakes">Copy rank badge</a><br/>
 			Hampton Lintorn-Catlin
 		</td>
 		<td>@squareup  </td>
@@ -7012,7 +7014,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/alshedivat">
 				<img src="https://avatars.githubusercontent.com/u/2126561?s=72&u=b434cef91a8c7021cfdcb1e8d918597b78b28036&v=4" width="24" alt="Avatar of alshedivat"> alshedivat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#alshedivat">Copy rank badge</a><br/>
 			Maruan
 		</td>
 		<td>No Company</td>
@@ -7025,7 +7027,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/yigit">
 				<img src="https://avatars.githubusercontent.com/u/89202?s=72&v=4" width="24" alt="Avatar of yigit"> yigit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#yigit">Copy rank badge</a><br/>
 			Yigit Boyar
 		</td>
 		<td>Google </td>
@@ -7038,7 +7040,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/lkzhao">
 				<img src="https://avatars.githubusercontent.com/u/3359850?s=72&u=ec5ae8b9f69fd58f197ed32c6e3198f8f6b8e097&v=4" width="24" alt="Avatar of lkzhao"> lkzhao
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#lkzhao">Copy rank badge</a><br/>
 			Luke Zhao
 		</td>
 		<td>Pinterest </td>
@@ -7051,7 +7053,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/gabrielpetersson">
 				<img src="https://avatars.githubusercontent.com/u/46445785?s=72&u=b7dcfc31497e7a11a60c86680fa93d8d5ab39be4&v=4" width="24" alt="Avatar of gabrielpetersson"> gabrielpetersson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#gabrielpetersson">Copy rank badge</a><br/>
 			Gabriel Petersson
 		</td>
 		<td>Openai </td>
@@ -7064,7 +7066,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/isidentical">
 				<img src="https://avatars.githubusercontent.com/u/47358913?s=72&u=908229592aa4e7076635f33e126f0c87e6392081&v=4" width="24" alt="Avatar of isidentical"> isidentical
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#isidentical">Copy rank badge</a><br/>
 			Batuhan Taskaya
 		</td>
 		<td>@fal-ai </td>
@@ -7077,7 +7079,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/max">
 				<img src="https://avatars.githubusercontent.com/u/111631?s=72&u=d637809955492a5efff84d57e40597e1ebd4671f&v=4" width="24" alt="Avatar of max"> max
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#max">Copy rank badge</a><br/>
 			Max Schoening
 		</td>
 		<td>Github </td>
@@ -7090,7 +7092,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/hackingthemarkets">
 				<img src="https://avatars.githubusercontent.com/u/59261823?s=72&u=dd88ffe95dd73914bfce9c2c4f104a85f40ffb42&v=4" width="24" alt="Avatar of hackingthemarkets"> hackingthemarkets
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#hackingthemarkets">Copy rank badge</a><br/>
 			Part Time Larry
 		</td>
 		<td>Hacking The Markets </td>
@@ -7103,7 +7105,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ngokevin">
 				<img src="https://avatars.githubusercontent.com/u/674727?s=72&u=4e38d7f90ff58e6d82b8f82eafee135ed06facaa&v=4" width="24" alt="Avatar of ngokevin"> ngokevin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ngokevin">Copy rank badge</a><br/>
 			Kevin Ngo
 		</td>
 		<td>No Company</td>
@@ -7116,7 +7118,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jbeda">
 				<img src="https://avatars.githubusercontent.com/u/37310?s=72&u=2e7c81cfffd11396745bf1e413e37a81d8975572&v=4" width="24" alt="Avatar of jbeda"> jbeda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jbeda">Copy rank badge</a><br/>
 			Joe Beda
 		</td>
 		<td>No Company</td>
@@ -7129,7 +7131,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/msurguy">
 				<img src="https://avatars.githubusercontent.com/u/585833?s=72&v=4" width="24" alt="Avatar of msurguy"> msurguy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#msurguy">Copy rank badge</a><br/>
 			Maksim Surguy
 		</td>
 		<td>@amazon  </td>
@@ -7142,7 +7144,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/brendankenny">
 				<img src="https://avatars.githubusercontent.com/u/316891?s=72&u=171a6cd2eeea7ecf7b15d30773e03360678a68a5&v=4" width="24" alt="Avatar of brendankenny"> brendankenny
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#brendankenny">Copy rank badge</a><br/>
 			Brendan Kenny
 		</td>
 		<td>No Company</td>
@@ -7155,7 +7157,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/yasoob">
 				<img src="https://avatars.githubusercontent.com/u/3696393?s=72&u=91ddee8830e865087c169b239733593b96f54cee&v=4" width="24" alt="Avatar of yasoob"> yasoob
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#yasoob">Copy rank badge</a><br/>
 			M.Yasoob Ullah Khalid ☺
 		</td>
 		<td>Microsoft </td>
@@ -7168,7 +7170,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/soumith">
 				<img src="https://avatars.githubusercontent.com/u/1310570?s=72&u=0770d24defb6f5e5e891aa0e7915a3ba8adb02be&v=4" width="24" alt="Avatar of soumith"> soumith
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#soumith">Copy rank badge</a><br/>
 			Soumith Chintala
 		</td>
 		<td>Meta </td>
@@ -7181,7 +7183,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mr-dev-dragon">
 				<img src="https://avatars.githubusercontent.com/u/71600486?s=72&u=07a6b3fdfd6a2346e1277803413f9a239043befe&v=4" width="24" alt="Avatar of mr-dev-dragon"> mr-dev-dragon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mr-dev-dragon">Copy rank badge</a><br/>
 			Mr Dev Dragon 
 		</td>
 		<td>Brooklyn </td>
@@ -7194,7 +7196,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/pshihn">
 				<img src="https://avatars.githubusercontent.com/u/833927?s=72&u=31755405d10eac678b4c486a0678607106f47a9e&v=4" width="24" alt="Avatar of pshihn"> pshihn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#pshihn">Copy rank badge</a><br/>
 			Preet
 		</td>
 		<td>No Company</td>
@@ -7207,7 +7209,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/BrianRuizy">
 				<img src="https://avatars.githubusercontent.com/u/23439187?s=72&u=1854ecb740eb162073c1a399c6385eedef5e968f&v=4" width="24" alt="Avatar of BrianRuizy"> BrianRuizy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#BrianRuizy">Copy rank badge</a><br/>
 			Brian Ruiz
 		</td>
 		<td>No Company</td>
@@ -7220,7 +7222,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/natemcmaster">
 				<img src="https://avatars.githubusercontent.com/u/2696087?s=72&v=4" width="24" alt="Avatar of natemcmaster"> natemcmaster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#natemcmaster">Copy rank badge</a><br/>
 			Nate McMaster
 		</td>
 		<td>@aws </td>
@@ -7233,7 +7235,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/NickCH-K">
 				<img src="https://avatars.githubusercontent.com/u/44816781?s=72&u=4033dfd34f947ee5a89255771b0633190dd0a47a&v=4" width="24" alt="Avatar of NickCH-K"> NickCH-K
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#NickCH-K">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Seattle University </td>
@@ -7246,7 +7248,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/cameronmcefee">
 				<img src="https://avatars.githubusercontent.com/u/72919?s=72&u=15d648157029cf8999bd246a95d77fd1561b3c89&v=4" width="24" alt="Avatar of cameronmcefee"> cameronmcefee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#cameronmcefee">Copy rank badge</a><br/>
 			Cameron McEfee
 		</td>
 		<td>Github </td>
@@ -7259,7 +7261,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/MarioCarrion">
 				<img src="https://avatars.githubusercontent.com/u/104050?s=72&u=5024159504d2aab7e774bf4fe499bf102d09c02b&v=4" width="24" alt="Avatar of MarioCarrion"> MarioCarrion
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#MarioCarrion">Copy rank badge</a><br/>
 			Mario Carrion
 		</td>
 		<td>Paramount+ </td>
@@ -7272,7 +7274,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/miyagawa">
 				<img src="https://avatars.githubusercontent.com/u/3499?s=72&v=4" width="24" alt="Avatar of miyagawa"> miyagawa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#miyagawa">Copy rank badge</a><br/>
 			Tatsuhiko Miyagawa
 		</td>
 		<td>No Company</td>
@@ -7285,7 +7287,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/adashofdata">
 				<img src="https://avatars.githubusercontent.com/u/30323348?s=72&u=e85b24dedf8d5260563494d2e58077d2e2ef9442&v=4" width="24" alt="Avatar of adashofdata"> adashofdata
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#adashofdata">Copy rank badge</a><br/>
 			Alice Zhao
 		</td>
 		<td>No Company</td>
@@ -7298,7 +7300,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/pengsongyou">
 				<img src="https://avatars.githubusercontent.com/u/14327202?s=72&u=b541d307e36fafe4ea604088692dfe94fa620a5b&v=4" width="24" alt="Avatar of pengsongyou"> pengsongyou
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#pengsongyou">Copy rank badge</a><br/>
 			Songyou Peng
 		</td>
 		<td>Google Deepmind </td>
@@ -7311,7 +7313,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/evanmiller">
 				<img src="https://avatars.githubusercontent.com/u/134711?s=72&u=ced7c04c05d96008fc74408187bb9e7d17e3b998&v=4" width="24" alt="Avatar of evanmiller"> evanmiller
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#evanmiller">Copy rank badge</a><br/>
 			Evan Miller
 		</td>
 		<td>Anthropic </td>
@@ -7324,7 +7326,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/stevenheidel">
 				<img src="https://avatars.githubusercontent.com/u/155646?s=72&u=cf10a81eba67b7510aeee55209d0a5fbd7ca1b56&v=4" width="24" alt="Avatar of stevenheidel"> stevenheidel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#stevenheidel">Copy rank badge</a><br/>
 			Steven Heidel
 		</td>
 		<td>@openai  </td>
@@ -7337,7 +7339,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/petewarden">
 				<img src="https://avatars.githubusercontent.com/u/161459?s=72&v=4" width="24" alt="Avatar of petewarden"> petewarden
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#petewarden">Copy rank badge</a><br/>
 			Pete Warden
 		</td>
 		<td>Google </td>
@@ -7350,7 +7352,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/iamthesiz">
 				<img src="https://avatars.githubusercontent.com/u/5455859?s=72&u=5f165fca50adca64cba2867122c82fc4973026cc&v=4" width="24" alt="Avatar of iamthesiz"> iamthesiz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#iamthesiz">Copy rank badge</a><br/>
 			Alex Cory
 		</td>
 		<td>@ava </td>
@@ -7363,7 +7365,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/juanpflores">
 				<img src="https://avatars.githubusercontent.com/u/6200135?s=72&u=4199fdb7c522514443f4a2cfb210287af7f52609&v=4" width="24" alt="Avatar of juanpflores"> juanpflores
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#juanpflores">Copy rank badge</a><br/>
 			Juan Pablo Flores 
 		</td>
 		<td>No Company</td>
@@ -7376,7 +7378,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jxnblk">
 				<img src="https://avatars.githubusercontent.com/u/3451712?s=72&u=f6f9aee58f995c8b14827a9c3c1277adaf5d84fc&v=4" width="24" alt="Avatar of jxnblk"> jxnblk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jxnblk">Copy rank badge</a><br/>
 			Brent Jackson
 		</td>
 		<td>No Company</td>
@@ -7389,7 +7391,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/cmuratori">
 				<img src="https://avatars.githubusercontent.com/u/10207980?s=72&u=9065018e87a977a9ee66e6079bb9ccbfde600105&v=4" width="24" alt="Avatar of cmuratori"> cmuratori
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#cmuratori">Copy rank badge</a><br/>
 			Casey Muratori
 		</td>
 		<td>Molly Rocket, Inc. </td>
@@ -7402,7 +7404,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/keunwoochoi">
 				<img src="https://avatars.githubusercontent.com/u/16153797?s=72&u=79fdc06afad518d756c6e3b31ab56c6f786618fd&v=4" width="24" alt="Avatar of keunwoochoi"> keunwoochoi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#keunwoochoi">Copy rank badge</a><br/>
 			Keunwoo Choi
 		</td>
 		<td>Genentech </td>
@@ -7415,7 +7417,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/leechristensen">
 				<img src="https://avatars.githubusercontent.com/u/5449193?s=72&u=83f0e634d445cb5c97b39dd6af06581bb4c95389&v=4" width="24" alt="Avatar of leechristensen"> leechristensen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#leechristensen">Copy rank badge</a><br/>
 			Lee Chagolla-Christensen
 		</td>
 		<td>Specterops </td>
@@ -7428,7 +7430,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/BYVoid">
 				<img src="https://avatars.githubusercontent.com/u/245270?s=72&v=4" width="24" alt="Avatar of BYVoid"> BYVoid
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#BYVoid">Copy rank badge</a><br/>
 			Carbo Kuo
 		</td>
 		<td>No Company</td>
@@ -7441,7 +7443,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/gordicaleksa">
 				<img src="https://avatars.githubusercontent.com/u/29271842?s=72&u=9fd949328e7f2eea9f1e2720db7708c0e4b3b0fd&v=4" width="24" alt="Avatar of gordicaleksa"> gordicaleksa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#gordicaleksa">Copy rank badge</a><br/>
 			Aleksa Gordić
 		</td>
 		<td>Ex-deepmind, Ex-microsoft </td>
@@ -7454,7 +7456,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/heapwolf">
 				<img src="https://avatars.githubusercontent.com/u/136109?s=72&u=c6361d9584ecc980c79db27056a8a5b4c77acaee&v=4" width="24" alt="Avatar of heapwolf"> heapwolf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#heapwolf">Copy rank badge</a><br/>
 			heapwolf
 		</td>
 		<td>No Company</td>
@@ -7467,7 +7469,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Akshar-code">
 				<img src="https://avatars.githubusercontent.com/u/59618640?s=72&u=6eb84e872ec05aa62a97f4cfe86f725089144932&v=4" width="24" alt="Avatar of Akshar-code"> Akshar-code
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Akshar-code">Copy rank badge</a><br/>
 			Akshar Kottuvada
 		</td>
 		<td>Redhat </td>
@@ -7480,7 +7482,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/elimisteve">
 				<img src="https://avatars.githubusercontent.com/u/139603?s=72&u=20e9d79d6569825f1bffe26f37bcde011d6ff737&v=4" width="24" alt="Avatar of elimisteve"> elimisteve
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#elimisteve">Copy rank badge</a><br/>
 			Steve Phillips
 		</td>
 		<td>@revolutionizedev </td>
@@ -7493,7 +7495,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ramnathv">
 				<img src="https://avatars.githubusercontent.com/u/346288?s=72&v=4" width="24" alt="Avatar of ramnathv"> ramnathv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ramnathv">Copy rank badge</a><br/>
 			Ramnath Vaidyanathan
 		</td>
 		<td>Datacamp </td>
@@ -7506,7 +7508,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jduck">
 				<img src="https://avatars.githubusercontent.com/u/479840?s=72&v=4" width="24" alt="Avatar of jduck"> jduck
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jduck">Copy rank badge</a><br/>
 			Joshua J. Drake
 		</td>
 		<td>Founder And Software Security<br/>Specialist<br/>At<br/><br/>Magnetite<br/>Security<br/></td>
@@ -7519,7 +7521,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/cantino">
 				<img src="https://avatars.githubusercontent.com/u/83835?s=72&u=da9a8a5e9fe04a192e020aef60649d222ca9ce38&v=4" width="24" alt="Avatar of cantino"> cantino
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#cantino">Copy rank badge</a><br/>
 			Andrew Cantino
 		</td>
 		<td>No Company</td>
@@ -7532,7 +7534,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/marcosgriselli">
 				<img src="https://avatars.githubusercontent.com/u/14804033?s=72&u=43370bf3b74f17be2fe12c9a80b87b16029512fb&v=4" width="24" alt="Avatar of marcosgriselli"> marcosgriselli
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#marcosgriselli">Copy rank badge</a><br/>
 			Marcos Griselli
 		</td>
 		<td>Lyft </td>
@@ -7545,7 +7547,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/dabeaz">
 				<img src="https://avatars.githubusercontent.com/u/350836?s=72&u=8d1d3258eba286468d6d014661ac9cc6e31974ff&v=4" width="24" alt="Avatar of dabeaz"> dabeaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#dabeaz">Copy rank badge</a><br/>
 			David Beazley
 		</td>
 		<td>Dabeaz, Llc </td>
@@ -7558,7 +7560,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jongwook">
 				<img src="https://avatars.githubusercontent.com/u/266841?s=72&v=4" width="24" alt="Avatar of jongwook"> jongwook
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jongwook">Copy rank badge</a><br/>
 			Jong Wook Kim
 		</td>
 		<td>Openai </td>
@@ -7571,7 +7573,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/djsime1">
 				<img src="https://avatars.githubusercontent.com/u/8518150?s=72&u=65134460a355d691e6008dfbff9981f29c95c126&v=4" width="24" alt="Avatar of djsime1"> djsime1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#djsime1">Copy rank badge</a><br/>
 			David
 		</td>
 		<td>No Company</td>
@@ -7584,7 +7586,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mhartl">
 				<img src="https://avatars.githubusercontent.com/u/6232?s=72&v=4" width="24" alt="Avatar of mhartl"> mhartl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mhartl">Copy rank badge</a><br/>
 			Michael Hartl
 		</td>
 		<td>Independent Scholar, Formerly Learn<br/>Enough/rails<br/>Tutorial<br/></td>
@@ -7597,7 +7599,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/JimLiu">
 				<img src="https://avatars.githubusercontent.com/u/648674?s=72&v=4" width="24" alt="Avatar of JimLiu"> JimLiu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#JimLiu">Copy rank badge</a><br/>
 			Jim Liu 宝玉
 		</td>
 		<td>No Company</td>
@@ -7610,7 +7612,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/littledan">
 				<img src="https://avatars.githubusercontent.com/u/189835?s=72&u=2d60c25c3f0cbdad0e8c9239a7283e887a3e490c&v=4" width="24" alt="Avatar of littledan"> littledan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#littledan">Copy rank badge</a><br/>
 			Daniel Ehrenberg
 		</td>
 		<td>Bloomberg </td>
@@ -7623,7 +7625,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/thirtythreeforty">
 				<img src="https://avatars.githubusercontent.com/u/3952613?s=72&u=16c3dea29d26233c30686b634d3b43ad2d3de74c&v=4" width="24" alt="Avatar of thirtythreeforty"> thirtythreeforty
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#thirtythreeforty">Copy rank badge</a><br/>
 			George Hilliard
 		</td>
 		<td>@aws </td>
@@ -7636,7 +7638,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/timothy1ee">
 				<img src="https://avatars.githubusercontent.com/u/99078?s=72&u=bd87d4b5b728986f0fa299e55e325b7837a6c4be&v=4" width="24" alt="Avatar of timothy1ee"> timothy1ee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#timothy1ee">Copy rank badge</a><br/>
 			Timothy Lee
 		</td>
 		<td>Codepath </td>
@@ -7649,7 +7651,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/TheLarkInn">
 				<img src="https://avatars.githubusercontent.com/u/3408176?s=72&v=4" width="24" alt="Avatar of TheLarkInn"> TheLarkInn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#TheLarkInn">Copy rank badge</a><br/>
 			Sean Larkin
 		</td>
 		<td>@microsoft @microsoftedge @webpack @webpack-contrib<br/>@angular<br/></td>
@@ -7662,7 +7664,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/todsac">
 				<img src="https://avatars.githubusercontent.com/u/35614146?s=72&u=b0b74da9c46743885d33d52fd2193b2ac7a03b31&v=4" width="24" alt="Avatar of todsac"> todsac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#todsac">Copy rank badge</a><br/>
 			Tod Sacerdoti
 		</td>
 		<td>Pipedream, Inc. </td>
@@ -7675,7 +7677,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/disconnectme">
 				<img src="https://avatars.githubusercontent.com/u/698691?s=72&v=4" width="24" alt="Avatar of disconnectme"> disconnectme
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#disconnectme">Copy rank badge</a><br/>
 			Disconnect
 		</td>
 		<td>Disconnect </td>
@@ -7688,7 +7690,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/othiym23">
 				<img src="https://avatars.githubusercontent.com/u/418097?s=72&v=4" width="24" alt="Avatar of othiym23"> othiym23
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#othiym23">Copy rank badge</a><br/>
 			零Rei
 		</td>
 		<td>Arcjet Labs </td>
@@ -7701,7 +7703,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/SlexAxton">
 				<img src="https://avatars.githubusercontent.com/u/96554?s=72&v=4" width="24" alt="Avatar of SlexAxton"> SlexAxton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#SlexAxton">Copy rank badge</a><br/>
 			Alex Sexton
 		</td>
 		<td>Stripe </td>
@@ -7714,7 +7716,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/dustinvtran">
 				<img src="https://avatars.githubusercontent.com/u/2569867?s=72&u=08104eb5168fcc79590d075155ad3908b056c1ae&v=4" width="24" alt="Avatar of dustinvtran"> dustinvtran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#dustinvtran">Copy rank badge</a><br/>
 			Dustin Tran
 		</td>
 		<td>Google Deepmind </td>
@@ -7727,7 +7729,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/amilajack">
 				<img src="https://avatars.githubusercontent.com/u/6374832?s=72&v=4" width="24" alt="Avatar of amilajack"> amilajack
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#amilajack">Copy rank badge</a><br/>
 			Amila Welihinda
 		</td>
 		<td>@palettedev </td>
@@ -7740,7 +7742,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/dshaw">
 				<img src="https://avatars.githubusercontent.com/u/4322?s=72&u=f9f3f6c95057ade113fcdedb45165b86d1fd899b&v=4" width="24" alt="Avatar of dshaw"> dshaw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#dshaw">Copy rank badge</a><br/>
 			Dan Shaw
 		</td>
 		<td>No Company</td>
@@ -7753,7 +7755,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/manishrjain">
 				<img src="https://avatars.githubusercontent.com/u/1782324?s=72&u=c846e67cb592b428e9df1cdd8151420d9edc1c25&v=4" width="24" alt="Avatar of manishrjain"> manishrjain
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#manishrjain">Copy rank badge</a><br/>
 			Manish R Jain
 		</td>
 		<td>No Company</td>
@@ -7766,7 +7768,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ircmaxell">
 				<img src="https://avatars.githubusercontent.com/u/660654?s=72&v=4" width="24" alt="Avatar of ircmaxell"> ircmaxell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ircmaxell">Copy rank badge</a><br/>
 			Anthony Ferrara
 		</td>
 		<td>No Company</td>
@@ -7779,7 +7781,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/rpandey1234">
 				<img src="https://avatars.githubusercontent.com/u/336303?s=72&u=827fb528343e1721e1250a5f5e6da00181ac8a90&v=4" width="24" alt="Avatar of rpandey1234"> rpandey1234
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#rpandey1234">Copy rank badge</a><br/>
 			Rahul Pandey
 		</td>
 		<td>Facebook </td>
@@ -7792,7 +7794,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/evhub">
 				<img src="https://avatars.githubusercontent.com/u/1337598?s=72&u=c56024ad75396368efe853dda48763799ffd80cf&v=4" width="24" alt="Avatar of evhub"> evhub
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#evhub">Copy rank badge</a><br/>
 			Evan Hubinger
 		</td>
 		<td>Anthropic </td>
@@ -7805,7 +7807,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/vinaygaba">
 				<img src="https://avatars.githubusercontent.com/u/4281910?s=72&u=8d86ebb588d8225fadda362f8063166256a50cf4&v=4" width="24" alt="Avatar of vinaygaba"> vinaygaba
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#vinaygaba">Copy rank badge</a><br/>
 			Vinay Gaba
 		</td>
 		<td>@airbnb </td>
@@ -7818,7 +7820,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/SelmanKahya">
 				<img src="https://avatars.githubusercontent.com/u/3432700?s=72&v=4" width="24" alt="Avatar of SelmanKahya"> SelmanKahya
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#SelmanKahya">Copy rank badge</a><br/>
 			Selman Kahya
 		</td>
 		<td>No Company</td>
@@ -7831,7 +7833,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/richzhang">
 				<img src="https://avatars.githubusercontent.com/u/18079594?s=72&u=3189f5b5db7a7f1fd09a48ec15bf62063a5a3ac8&v=4" width="24" alt="Avatar of richzhang"> richzhang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#richzhang">Copy rank badge</a><br/>
 			Richard Zhang
 		</td>
 		<td>@adobe  </td>
@@ -7844,7 +7846,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Trinkle23897">
 				<img src="https://avatars.githubusercontent.com/u/8189182?s=72&v=4" width="24" alt="Avatar of Trinkle23897"> Trinkle23897
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Trinkle23897">Copy rank badge</a><br/>
 			Jiayi Weng
 		</td>
 		<td>@openai  </td>
@@ -7857,7 +7859,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/brianlovin">
 				<img src="https://avatars.githubusercontent.com/u/1923260?s=72&u=36aacd5307a88dfb8e42d014b4107d9c7e3411e1&v=4" width="24" alt="Avatar of brianlovin"> brianlovin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#brianlovin">Copy rank badge</a><br/>
 			Brian Lovin
 		</td>
 		<td>@campsite </td>
@@ -7870,7 +7872,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/TimDettmers">
 				<img src="https://avatars.githubusercontent.com/u/5260050?s=72&v=4" width="24" alt="Avatar of TimDettmers"> TimDettmers
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#TimDettmers">Copy rank badge</a><br/>
 			Tim Dettmers
 		</td>
 		<td>University Of Washington </td>
@@ -7883,7 +7885,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/JaviSoto">
 				<img src="https://avatars.githubusercontent.com/u/666807?s=72&u=deeb52bb786b2345916fdb12c63e161281cdd476&v=4" width="24" alt="Avatar of JaviSoto"> JaviSoto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#JaviSoto">Copy rank badge</a><br/>
 			Javi
 		</td>
 		<td>No Company</td>
@@ -7896,7 +7898,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/BalestraPatrick">
 				<img src="https://avatars.githubusercontent.com/u/3658887?s=72&u=24cf8dc742ed38762af05d62b3702b57f2d1c462&v=4" width="24" alt="Avatar of BalestraPatrick"> BalestraPatrick
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#BalestraPatrick">Copy rank badge</a><br/>
 			Patrick Balestra
 		</td>
 		<td>Spotify </td>
@@ -7909,7 +7911,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/stubbornella">
 				<img src="https://avatars.githubusercontent.com/u/39398?s=72&u=8ddc610bab62b60404ae7f23512f42cba3b62874&v=4" width="24" alt="Avatar of stubbornella"> stubbornella
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#stubbornella">Copy rank badge</a><br/>
 			Nicole Sullivan
 		</td>
 		<td>Stubbornella </td>
@@ -7922,7 +7924,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Sanger2000">
 				<img src="https://avatars.githubusercontent.com/u/17725268?s=72&u=28543364cbb881e9d232549529122b4be9294ab3&v=4" width="24" alt="Avatar of Sanger2000"> Sanger2000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Sanger2000">Copy rank badge</a><br/>
 			Aman Sanger
 		</td>
 		<td>Cursor </td>
@@ -7935,7 +7937,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mmahalwy">
 				<img src="https://avatars.githubusercontent.com/u/3749095?s=72&u=51b8d84b844be2c6bba7cc33b06d2d702dfb0d4f&v=4" width="24" alt="Avatar of mmahalwy"> mmahalwy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mmahalwy">Copy rank badge</a><br/>
 			m.e.
 		</td>
 		<td>@withshepherd </td>
@@ -7948,7 +7950,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/bearpaw">
 				<img src="https://avatars.githubusercontent.com/u/289501?s=72&v=4" width="24" alt="Avatar of bearpaw"> bearpaw
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#bearpaw">Copy rank badge</a><br/>
 			Wei Yang
 		</td>
 		<td>Nvidia </td>
@@ -7961,7 +7963,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/xuy">
 				<img src="https://avatars.githubusercontent.com/u/1151720?s=72&v=4" width="24" alt="Avatar of xuy"> xuy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#xuy">Copy rank badge</a><br/>
 			Eric Xu
 		</td>
 		<td>Leaps Capital </td>
@@ -7974,7 +7976,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/celikyuksell">
 				<img src="https://avatars.githubusercontent.com/u/10351936?s=72&u=519050f5a1f94f9f25df2bb914b66cdda8de4163&v=4" width="24" alt="Avatar of celikyuksell"> celikyuksell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#celikyuksell">Copy rank badge</a><br/>
 			Yuksel Celik
 		</td>
 		<td>University At Albany Suny/nisantasi<br/>University<br/></td>
@@ -7987,7 +7989,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/lorenanicole">
 				<img src="https://avatars.githubusercontent.com/u/4573607?s=72&u=28402e50ba6dd39afa0bbf134f78f064bb2c9de6&v=4" width="24" alt="Avatar of lorenanicole"> lorenanicole
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#lorenanicole">Copy rank badge</a><br/>
 			Lorena Mesa
 		</td>
 		<td>@github  </td>
@@ -8000,7 +8002,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jtleek">
 				<img src="https://avatars.githubusercontent.com/u/1571674?s=72&u=3887206f975b456d181c83d7a1a19a6cc96804fa&v=4" width="24" alt="Avatar of jtleek"> jtleek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jtleek">Copy rank badge</a><br/>
 			Jeff L.
 		</td>
 		<td>No Company</td>
@@ -8013,7 +8015,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/pwnall">
 				<img src="https://avatars.githubusercontent.com/u/11460?s=72&u=6b2561f5dc40b851f0218da848ed1fa29f4fcfa6&v=4" width="24" alt="Avatar of pwnall"> pwnall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#pwnall">Copy rank badge</a><br/>
 			Victor Costan
 		</td>
 		<td>@google </td>
@@ -8026,7 +8028,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/conradev">
 				<img src="https://avatars.githubusercontent.com/u/170649?s=72&u=8ff2beeeb72ce29f49a67e1e965012976d675e56&v=4" width="24" alt="Avatar of conradev"> conradev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#conradev">Copy rank badge</a><br/>
 			Conrad Kramer
 		</td>
 		<td>@softwareapplication  </td>
@@ -8039,7 +8041,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/sciguy14">
 				<img src="https://avatars.githubusercontent.com/u/709615?s=72&v=4" width="24" alt="Avatar of sciguy14"> sciguy14
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#sciguy14">Copy rank badge</a><br/>
 			Jeremy Blum
 		</td>
 		<td>@shapertools  </td>
@@ -8052,7 +8054,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/wentin">
 				<img src="https://avatars.githubusercontent.com/u/2474904?s=72&u=7ec5437b23b4c97c0d663916c2ee3224006d5faa&v=4" width="24" alt="Avatar of wentin"> wentin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#wentin">Copy rank badge</a><br/>
 			Wenting Zhang
 		</td>
 		<td>Adobe </td>
@@ -8065,7 +8067,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kautukkundan">
 				<img src="https://avatars.githubusercontent.com/u/23727056?s=72&u=2d2e92a726ed6ab04eddfc8ee4c0fa2dadf908a5&v=4" width="24" alt="Avatar of kautukkundan"> kautukkundan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kautukkundan">Copy rank badge</a><br/>
 			Kautuk Kundan
 		</td>
 		<td>Stackr Labs </td>
@@ -8078,7 +8080,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/zertosh">
 				<img src="https://avatars.githubusercontent.com/u/830952?s=72&u=860d52ab2446c32e8eae49d056688c45554ab189&v=4" width="24" alt="Avatar of zertosh"> zertosh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#zertosh">Copy rank badge</a><br/>
 			Andres Suarez
 		</td>
 		<td>No Company</td>
@@ -8091,7 +8093,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/liroyleshed">
 				<img src="https://avatars.githubusercontent.com/u/37022194?s=72&u=e34635b3a1c74a17c7d569738fa248a3664ddd30&v=4" width="24" alt="Avatar of liroyleshed"> liroyleshed
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#liroyleshed">Copy rank badge</a><br/>
 			Liroy Leshed
 		</td>
 		<td>@21tycoons </td>
@@ -8104,7 +8106,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/achiurizo">
 				<img src="https://avatars.githubusercontent.com/u/24772?s=72&u=c0da7fd2091e5c61ffbefed5eb5d8020feda33d6&v=4" width="24" alt="Avatar of achiurizo"> achiurizo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#achiurizo">Copy rank badge</a><br/>
 			Arthur Chiu
 		</td>
 		<td>No Company</td>
@@ -8117,7 +8119,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/merlinmann">
 				<img src="https://avatars.githubusercontent.com/u/41559?s=72&v=4" width="24" alt="Avatar of merlinmann"> merlinmann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#merlinmann">Copy rank badge</a><br/>
 			Merlin Mann
 		</td>
 		<td>No Company</td>
@@ -8130,7 +8132,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/wzhe06">
 				<img src="https://avatars.githubusercontent.com/u/5001803?s=72&u=75728cd0aa022832736d8ffe22844e89f8ac8bf5&v=4" width="24" alt="Avatar of wzhe06"> wzhe06
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#wzhe06">Copy rank badge</a><br/>
 			Wang Zhe
 		</td>
 		<td>No Company</td>
@@ -8143,7 +8145,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/TimothyGu">
 				<img src="https://avatars.githubusercontent.com/u/1538624?s=72&v=4" width="24" alt="Avatar of TimothyGu"> TimothyGu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#TimothyGu">Copy rank badge</a><br/>
 			Timothy Gu
 		</td>
 		<td>@stripe </td>
@@ -8156,7 +8158,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/juliacodes">
 				<img src="https://avatars.githubusercontent.com/u/32076859?s=72&u=fe90919a57bd0958e507dc779c68528e05f57e9f&v=4" width="24" alt="Avatar of juliacodes"> juliacodes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#juliacodes">Copy rank badge</a><br/>
 			Julia Johnson
 		</td>
 		<td>No Company</td>
@@ -8169,7 +8171,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/sean-codes">
 				<img src="https://avatars.githubusercontent.com/u/21677355?s=72&u=3d20a790b74d7e51bbfbbf3e360c5863660e3823&v=4" width="24" alt="Avatar of sean-codes"> sean-codes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#sean-codes">Copy rank badge</a><br/>
 			Sean Codes
 		</td>
 		<td>No Company</td>
@@ -8182,7 +8184,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/housseindjirdeh">
 				<img src="https://avatars.githubusercontent.com/u/12476932?s=72&u=0d9650e177d21cc4daf1cbf44aa3aed4669beb21&v=4" width="24" alt="Avatar of housseindjirdeh"> housseindjirdeh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#housseindjirdeh">Copy rank badge</a><br/>
 			Houssein Djirdeh
 		</td>
 		<td>Google </td>
@@ -8195,7 +8197,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/pcalcado">
 				<img src="https://avatars.githubusercontent.com/u/7781?s=72&u=c00420f3c7824c592af2ea7e903ccbf56b447632&v=4" width="24" alt="Avatar of pcalcado"> pcalcado
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#pcalcado">Copy rank badge</a><br/>
 			Phil Calçado
 		</td>
 		<td>@outropy  </td>
@@ -8208,7 +8210,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mde">
 				<img src="https://avatars.githubusercontent.com/u/757?s=72&u=597d535991b1d896c81adb3ba921ac656c886f56&v=4" width="24" alt="Avatar of mde"> mde
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mde">Copy rank badge</a><br/>
 			Matthew Eernisse
 		</td>
 		<td>No Company</td>
@@ -8221,7 +8223,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/devinsays">
 				<img src="https://avatars.githubusercontent.com/u/431879?s=72&v=4" width="24" alt="Avatar of devinsays"> devinsays
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#devinsays">Copy rank badge</a><br/>
 			Devin Price
 		</td>
 		<td>Wp Theming </td>
@@ -8234,7 +8236,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/MultiPath">
 				<img src="https://avatars.githubusercontent.com/u/5780274?s=72&u=c6924addf75fe18ca07219f89115568f619ed6c4&v=4" width="24" alt="Avatar of MultiPath"> MultiPath
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#MultiPath">Copy rank badge</a><br/>
 			Jiatao Gu
 		</td>
 		<td>Apple </td>
@@ -8247,7 +8249,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/drkostas">
 				<img src="https://avatars.githubusercontent.com/u/22260005?s=72&u=61add69a51604dfb468e81b99016200981f18a2a&v=4" width="24" alt="Avatar of drkostas"> drkostas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#drkostas">Copy rank badge</a><br/>
 			Kostas Georgiou
 		</td>
 		<td>Amazon </td>
@@ -8260,7 +8262,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/holman">
 				<img src="https://avatars.githubusercontent.com/u/2723?s=72&u=af4e36d0aca5cf5a6a1f73948f7873a53735ab81&v=4" width="24" alt="Avatar of holman"> holman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#holman">Copy rank badge</a><br/>
 			Zach Holman
 		</td>
 		<td>@americanoutlaws  </td>
@@ -8273,7 +8275,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/piiswrong">
 				<img src="https://avatars.githubusercontent.com/u/568948?s=72&u=e1d82e0ff6c7206ea6000223ebfc488b94b31a9c&v=4" width="24" alt="Avatar of piiswrong"> piiswrong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#piiswrong">Copy rank badge</a><br/>
 			Eric Junyuan Xie
 		</td>
 		<td>University Of Washington </td>
@@ -8286,7 +8288,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/caiogondim">
 				<img src="https://avatars.githubusercontent.com/u/33044?s=72&u=16310f14f357b9226bc9aadd5afab7c551decf24&v=4" width="24" alt="Avatar of caiogondim"> caiogondim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#caiogondim">Copy rank badge</a><br/>
 			Caio Gondim
 		</td>
 		<td>No Company</td>
@@ -8299,7 +8301,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/aaronj1335">
 				<img src="https://avatars.githubusercontent.com/u/787066?s=72&u=107df48868fc84c957ab241f42c89e6e707773ed&v=4" width="24" alt="Avatar of aaronj1335"> aaronj1335
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#aaronj1335">Copy rank badge</a><br/>
 			Aaron Stacy
 		</td>
 		<td>Google </td>
@@ -8312,7 +8314,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/brendenlake">
 				<img src="https://avatars.githubusercontent.com/u/6304523?s=72&u=3b5548fba770d554b7bfaa28d42d7c331dddcfe5&v=4" width="24" alt="Avatar of brendenlake"> brendenlake
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#brendenlake">Copy rank badge</a><br/>
 			Brenden Lake
 		</td>
 		<td>New York University </td>
@@ -8325,7 +8327,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/zellux">
 				<img src="https://avatars.githubusercontent.com/u/84004?s=72&u=0c7fc4d9c63a732d2b466d0a1ff53a804458512a&v=4" width="24" alt="Avatar of zellux"> zellux
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#zellux">Copy rank badge</a><br/>
 			Zellux Wang
 		</td>
 		<td>No Company</td>
@@ -8338,7 +8340,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/trishume">
 				<img src="https://avatars.githubusercontent.com/u/887610?s=72&u=5aa9a0e9d96da4985178c8d7a55ab2f31785b70b&v=4" width="24" alt="Avatar of trishume"> trishume
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#trishume">Copy rank badge</a><br/>
 			Tristan Hume
 		</td>
 		<td>No Company</td>
@@ -8351,7 +8353,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/cvander">
 				<img src="https://avatars.githubusercontent.com/u/112621?s=72&u=31009161621881de809b1b8c0e5d916662de25be&v=4" width="24" alt="Avatar of cvander"> cvander
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#cvander">Copy rank badge</a><br/>
 			Christian Van Der Henst
 		</td>
 		<td>No Company</td>
@@ -8364,7 +8366,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/bramcohen">
 				<img src="https://avatars.githubusercontent.com/u/686990?s=72&v=4" width="24" alt="Avatar of bramcohen"> bramcohen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#bramcohen">Copy rank badge</a><br/>
 			Bram Cohen
 		</td>
 		<td>Chia Network </td>
@@ -8377,7 +8379,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/minamarkham">
 				<img src="https://avatars.githubusercontent.com/u/876210?s=72&v=4" width="24" alt="Avatar of minamarkham"> minamarkham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#minamarkham">Copy rank badge</a><br/>
 			Mina Markham
 		</td>
 		<td>@slackhq </td>
@@ -8390,7 +8392,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/olivierlacan">
 				<img src="https://avatars.githubusercontent.com/u/65950?s=72&u=ec45f172c76603aa99c91aaf6ac0df7495a941ff&v=4" width="24" alt="Avatar of olivierlacan"> olivierlacan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#olivierlacan">Copy rank badge</a><br/>
 			Olivier Lacan
 		</td>
 		<td>@pluralsight </td>
@@ -8403,7 +8405,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/wabscale">
 				<img src="https://avatars.githubusercontent.com/u/36013983?s=72&u=3cd68eeb9dc4bc654b1a9767b8f52b2b91e90a35&v=4" width="24" alt="Avatar of wabscale"> wabscale
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#wabscale">Copy rank badge</a><br/>
 			John McCann Cunniff Jr
 		</td>
 		<td>@anubislms | @voladynamics |<br/>@osirislab<br/></td>
@@ -8416,7 +8418,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/taranjeet">
 				<img src="https://avatars.githubusercontent.com/u/4302268?s=72&u=7b35b42f5e6e8bfeb26fd0dcde6bb17ca668715a&v=4" width="24" alt="Avatar of taranjeet"> taranjeet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#taranjeet">Copy rank badge</a><br/>
 			Taranjeet Singh
 		</td>
 		<td>@mem0ai </td>
@@ -8429,7 +8431,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jwilm">
 				<img src="https://avatars.githubusercontent.com/u/4285147?s=72&u=aa089b52a594820bc19724881f9b72401c5903ef&v=4" width="24" alt="Avatar of jwilm"> jwilm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jwilm">Copy rank badge</a><br/>
 			Joe Wilm
 		</td>
 		<td>@latent-ml  </td>
@@ -8442,7 +8444,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/keon">
 				<img src="https://avatars.githubusercontent.com/u/10793962?s=72&u=07e9af49961d7e303eb5e8ad9cee11a1f20500ce&v=4" width="24" alt="Avatar of keon"> keon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#keon">Copy rank badge</a><br/>
 			Keon
 		</td>
 		<td>No Company</td>
@@ -8455,7 +8457,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/maryrosecook">
 				<img src="https://avatars.githubusercontent.com/u/2716?s=72&u=f7f4465635c06cb589291e6f694a4d44178f88f7&v=4" width="24" alt="Avatar of maryrosecook"> maryrosecook
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#maryrosecook">Copy rank badge</a><br/>
 			Mary Rose Cook
 		</td>
 		<td>No Company</td>
@@ -8468,7 +8470,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ruotianluo">
 				<img src="https://avatars.githubusercontent.com/u/16023153?s=72&u=f9c0a40866f5c1ce197f92858f06de7a108c0ef3&v=4" width="24" alt="Avatar of ruotianluo"> ruotianluo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ruotianluo">Copy rank badge</a><br/>
 			Ruotian(RT) Luo
 		</td>
 		<td>Waymo </td>
@@ -8481,7 +8483,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/sqshq">
 				<img src="https://avatars.githubusercontent.com/u/6069066?s=72&u=bbe61112bbc78f4a2d7ff642040a2998229dcea2&v=4" width="24" alt="Avatar of sqshq"> sqshq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#sqshq">Copy rank badge</a><br/>
 			Alexander Lukyanchikov
 		</td>
 		<td>No Company</td>
@@ -8494,7 +8496,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/andymatuschak">
 				<img src="https://avatars.githubusercontent.com/u/2771?s=72&v=4" width="24" alt="Avatar of andymatuschak"> andymatuschak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#andymatuschak">Copy rank badge</a><br/>
 			Andy Matuschak
 		</td>
 		<td>No Company</td>
@@ -8507,7 +8509,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/parrt">
 				<img src="https://avatars.githubusercontent.com/u/178777?s=72&v=4" width="24" alt="Avatar of parrt"> parrt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#parrt">Copy rank badge</a><br/>
 			Terence Parr
 		</td>
 		<td>No Company</td>
@@ -8520,7 +8522,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/RodneyShag">
 				<img src="https://avatars.githubusercontent.com/u/21094724?s=72&u=b26e38337ec2b806bc43f5dc2c74dd2f6b8debae&v=4" width="24" alt="Avatar of RodneyShag"> RodneyShag
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#RodneyShag">Copy rank badge</a><br/>
 			Rodney Shaghoulian
 		</td>
 		<td>Amazon </td>
@@ -8533,7 +8535,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jdvillal">
 				<img src="https://avatars.githubusercontent.com/u/57422146?s=72&u=4dedccd14b194d5035e3c59988b8409a8651ebb4&v=4" width="24" alt="Avatar of jdvillal"> jdvillal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jdvillal">Copy rank badge</a><br/>
 			Jorge Villalta
 		</td>
 		<td>No Company</td>
@@ -8546,7 +8548,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/zaradarz">
 				<img src="https://avatars.githubusercontent.com/u/114357237?s=72&u=e6f93cbd5d3e3c414069511a87a35fd370f9c6bc&v=4" width="24" alt="Avatar of zaradarz"> zaradarz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#zaradarz">Copy rank badge</a><br/>
 			Zara Dar
 		</td>
 		<td>No Company</td>
@@ -8559,7 +8561,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/theriley106">
 				<img src="https://avatars.githubusercontent.com/u/20630177?s=72&u=100bd2cf220723d35a98476eafd43aca9f38bd33&v=4" width="24" alt="Avatar of theriley106"> theriley106
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#theriley106">Copy rank badge</a><br/>
 			Chris Lambert
 		</td>
 		<td>@stripe </td>
@@ -8572,7 +8574,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kangax">
 				<img src="https://avatars.githubusercontent.com/u/383?s=72&u=b13e9504cc41bc1c4441f4c49e1b67c10fa86ffb&v=4" width="24" alt="Avatar of kangax"> kangax
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kangax">Copy rank badge</a><br/>
 			Juriy Zaytsev
 		</td>
 		<td>Facebook → Wework →<br/>Linkedin<br/></td>
@@ -8585,7 +8587,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/amanchadha">
 				<img src="https://avatars.githubusercontent.com/u/20895241?s=72&u=270e2d768d7482d269ca619fd6f5b1b3f607b464&v=4" width="24" alt="Avatar of amanchadha"> amanchadha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#amanchadha">Copy rank badge</a><br/>
 			Aman Chadha
 		</td>
 		<td>Amazon Inc. / Ex-<br/>/<br/>Stanford<br/>University<br/></td>
@@ -8598,7 +8600,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/lvdmaaten">
 				<img src="https://avatars.githubusercontent.com/u/1168046?s=72&u=d0f3703eba44d77809d27d052835a06f7e71e56b&v=4" width="24" alt="Avatar of lvdmaaten"> lvdmaaten
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#lvdmaaten">Copy rank badge</a><br/>
 			Laurens van der Maaten
 		</td>
 		<td>No Company</td>
@@ -8611,7 +8613,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/adamschwartz">
 				<img src="https://avatars.githubusercontent.com/u/154613?s=72&u=2e9b2e3b836d93b137efc2b10b52580473897de1&v=4" width="24" alt="Avatar of adamschwartz"> adamschwartz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#adamschwartz">Copy rank badge</a><br/>
 			Adam Schwartz
 		</td>
 		<td>No Company</td>
@@ -8624,7 +8626,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/elfmaster">
 				<img src="https://avatars.githubusercontent.com/u/5854752?s=72&u=ae7aa2dde1623940f9164fdfde93ec52d8263c1e&v=4" width="24" alt="Avatar of elfmaster"> elfmaster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#elfmaster">Copy rank badge</a><br/>
 			Ryan elfmaster O'Neill
 		</td>
 		<td>Arcana Research </td>
@@ -8637,7 +8639,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nathanpeck">
 				<img src="https://avatars.githubusercontent.com/u/3495674?s=72&u=4e6c0853cc85e1f82fd8a2d23acc23bf8f126172&v=4" width="24" alt="Avatar of nathanpeck"> nathanpeck
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nathanpeck">Copy rank badge</a><br/>
 			Nathan Peck
 		</td>
 		<td>@aws </td>
@@ -8650,7 +8652,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/toddwschneider">
 				<img src="https://avatars.githubusercontent.com/u/70271?s=72&u=7c5f279bd91b9970302b1b9ccb62d6d02ca41a73&v=4" width="24" alt="Avatar of toddwschneider"> toddwschneider
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#toddwschneider">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -8663,7 +8665,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/EricSimons">
 				<img src="https://avatars.githubusercontent.com/u/556934?s=72&u=31c3bfc552dffc59e487af6524bc9dd8ab081f64&v=4" width="24" alt="Avatar of EricSimons"> EricSimons
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#EricSimons">Copy rank badge</a><br/>
 			Eric Simons
 		</td>
 		<td>@stackblitz </td>
@@ -8676,7 +8678,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/shawnbot">
 				<img src="https://avatars.githubusercontent.com/u/113896?s=72&u=c4568f68af2f46a4e25e9c06d305c89f485f4f8c&v=4" width="24" alt="Avatar of shawnbot"> shawnbot
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#shawnbot">Copy rank badge</a><br/>
 			Shawn Allen
 		</td>
 		<td>@sfdigitalservices </td>
@@ -8689,7 +8691,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ACyphus">
 				<img src="https://avatars.githubusercontent.com/u/983880?s=72&u=dcb5c0577e9dfee33aa117ec5ed5e1a155d89ee6&v=4" width="24" alt="Avatar of ACyphus"> ACyphus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ACyphus">Copy rank badge</a><br/>
 			Alex Cyphus
 		</td>
 		<td>No Company</td>
@@ -8702,7 +8704,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ranman">
 				<img src="https://avatars.githubusercontent.com/u/175163?s=72&v=4" width="24" alt="Avatar of ranman"> ranman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ranman">Copy rank badge</a><br/>
 			Randall Hunt
 		</td>
 		<td>@caylent </td>
@@ -8715,7 +8717,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/blueberrymusic">
 				<img src="https://avatars.githubusercontent.com/u/8754729?s=72&u=5c61301184bbd4c4ca80014371c66d9dbdcd693a&v=4" width="24" alt="Avatar of blueberrymusic"> blueberrymusic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#blueberrymusic">Copy rank badge</a><br/>
 			Andrew Glassner
 		</td>
 		<td>No Company</td>
@@ -8728,7 +8730,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/yukezhu">
 				<img src="https://avatars.githubusercontent.com/u/1192449?s=72&u=7f114c6b66b5d9fc4235b403dfe78373c2892826&v=4" width="24" alt="Avatar of yukezhu"> yukezhu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#yukezhu">Copy rank badge</a><br/>
 			Yuke Zhu
 		</td>
 		<td>Ut Austin / Nvidia<br/></td>
@@ -8741,7 +8743,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ArtemKirsanov">
 				<img src="https://avatars.githubusercontent.com/u/72463859?s=72&u=9b00ca8b3df4fbea22c67bb3156659222149a317&v=4" width="24" alt="Avatar of ArtemKirsanov"> ArtemKirsanov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ArtemKirsanov">Copy rank badge</a><br/>
 			ArtemKirsanov
 		</td>
 		<td>No Company</td>
@@ -8754,7 +8756,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mosh-hamedani">
 				<img src="https://avatars.githubusercontent.com/u/5441280?s=72&u=0cd33f47d20dc54ef8ef4a9ac233b4ad558cecc7&v=4" width="24" alt="Avatar of mosh-hamedani"> mosh-hamedani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mosh-hamedani">Copy rank badge</a><br/>
 			Mosh Hamedani
 		</td>
 		<td>No Company</td>
@@ -8767,7 +8769,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ztellman">
 				<img src="https://avatars.githubusercontent.com/u/31295?s=72&u=fc1847a2662ef3d590f1d85be62cbb0fb8c7d078&v=4" width="24" alt="Avatar of ztellman"> ztellman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ztellman">Copy rank badge</a><br/>
 			Zach Tellman
 		</td>
 		<td>No Company</td>
@@ -8780,7 +8782,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/saturnism">
 				<img src="https://avatars.githubusercontent.com/u/1998883?s=72&v=4" width="24" alt="Avatar of saturnism"> saturnism
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#saturnism">Copy rank badge</a><br/>
 			Ray Tsang
 		</td>
 		<td>Nvidia </td>
@@ -8793,7 +8795,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/altercation">
 				<img src="https://avatars.githubusercontent.com/u/113542?s=72&u=9460f48b9afa4367bc6f36775f0483b7fd10639f&v=4" width="24" alt="Avatar of altercation"> altercation
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#altercation">Copy rank badge</a><br/>
 			Ethan Schoonover
 		</td>
 		<td>No Company</td>
@@ -8806,7 +8808,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/yaroslavvb">
 				<img src="https://avatars.githubusercontent.com/u/23068?s=72&u=0f893e24658b4ee52a3537a6d04c618c73433101&v=4" width="24" alt="Avatar of yaroslavvb"> yaroslavvb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#yaroslavvb">Copy rank badge</a><br/>
 			Yaroslav Bulatov
 		</td>
 		<td>. </td>
@@ -8819,7 +8821,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kdexd">
 				<img src="https://avatars.githubusercontent.com/u/10494087?s=72&u=5d44e2268be5b3f90ae7b791dfb3485f5531cd2d&v=4" width="24" alt="Avatar of kdexd"> kdexd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kdexd">Copy rank badge</a><br/>
 			Karan Desai
 		</td>
 		<td>World Labs </td>
@@ -8832,7 +8834,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/DrkSephy">
 				<img src="https://avatars.githubusercontent.com/u/1226900?s=72&u=81bebe9f74d8dced102a80c226937371cfc7d008&v=4" width="24" alt="Avatar of DrkSephy"> DrkSephy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#DrkSephy">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@datadog </td>
@@ -8845,7 +8847,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/agentzh">
 				<img src="https://avatars.githubusercontent.com/u/56241?s=72&u=9bfe3cdd99f8aceb640302747b3396ff979d10bd&v=4" width="24" alt="Avatar of agentzh"> agentzh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#agentzh">Copy rank badge</a><br/>
 			Yichun Zhang
 		</td>
 		<td>Openresty Inc. </td>
@@ -8858,7 +8860,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jonkrohn">
 				<img src="https://avatars.githubusercontent.com/u/10055735?s=72&u=e29559204bb1f335ba26c08e32b8335442beba2f&v=4" width="24" alt="Avatar of jonkrohn"> jonkrohn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jonkrohn">Copy rank badge</a><br/>
 			Jon Krohn
 		</td>
 		<td>Nebula </td>
@@ -8871,7 +8873,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/blynkkk">
 				<img src="https://avatars.githubusercontent.com/u/11541426?s=72&u=77f8c16a1ff33828f2f08a65bf66bb1f07a0b511&v=4" width="24" alt="Avatar of blynkkk"> blynkkk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#blynkkk">Copy rank badge</a><br/>
 			Blynk IoT platform
 		</td>
 		<td>Blynk </td>
@@ -8884,7 +8886,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jethrokuan">
 				<img src="https://avatars.githubusercontent.com/u/1667473?s=72&u=40997f60932070c577f9efcc9c3dc8a4028a8be1&v=4" width="24" alt="Avatar of jethrokuan"> jethrokuan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jethrokuan">Copy rank badge</a><br/>
 			Jethro Kuan
 		</td>
 		<td>@abnormal-security  </td>
@@ -8897,7 +8899,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/peggyrayzis">
 				<img src="https://avatars.githubusercontent.com/u/18017067?s=72&u=6f1ed1df13adf2e258701b2070cc9f7f891a6b9f&v=4" width="24" alt="Avatar of peggyrayzis"> peggyrayzis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#peggyrayzis">Copy rank badge</a><br/>
 			Peggy Rayzis
 		</td>
 		<td>Scale.dev </td>
@@ -8910,7 +8912,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/yanshengjia">
 				<img src="https://avatars.githubusercontent.com/u/8682800?s=72&u=36aae6347dd4e94759372764c2c2a1872a158e63&v=4" width="24" alt="Avatar of yanshengjia"> yanshengjia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#yanshengjia">Copy rank badge</a><br/>
 			Shengjia Yan
 		</td>
 		<td>@amzn </td>
@@ -8923,7 +8925,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/zsxwing">
 				<img src="https://avatars.githubusercontent.com/u/1000778?s=72&v=4" width="24" alt="Avatar of zsxwing"> zsxwing
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#zsxwing">Copy rank badge</a><br/>
 			Shixiong Zhu
 		</td>
 		<td>Databricks, Inc. </td>
@@ -8936,7 +8938,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jobertabma">
 				<img src="https://avatars.githubusercontent.com/u/156693?s=72&u=cfbd9396b9eb3e89dbffbb74d33602ffe5934f45&v=4" width="24" alt="Avatar of jobertabma"> jobertabma
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jobertabma">Copy rank badge</a><br/>
 			Jobert Abma
 		</td>
 		<td>Hackerone, Inc. </td>
@@ -8949,7 +8951,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/swaroopch">
 				<img src="https://avatars.githubusercontent.com/u/42988?s=72&v=4" width="24" alt="Avatar of swaroopch"> swaroopch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#swaroopch">Copy rank badge</a><br/>
 			Swaroop CH
 		</td>
 		<td>No Company</td>
@@ -8962,7 +8964,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Empact">
 				<img src="https://avatars.githubusercontent.com/u/5470?s=72&u=1d49bd94573c67968dfd599d4a78629d8ed4193b&v=4" width="24" alt="Avatar of Empact"> Empact
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Empact">Copy rank badge</a><br/>
 			Benjamin Woosley
 		</td>
 		<td>No Company</td>
@@ -8975,7 +8977,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kbastani">
 				<img src="https://avatars.githubusercontent.com/u/2095770?s=72&u=dc6ea4f47c06c3d8b76023e0ad4b416119f69bcf&v=4" width="24" alt="Avatar of kbastani"> kbastani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kbastani">Copy rank badge</a><br/>
 			Kenny Bastani
 		</td>
 		<td>Kennybastani.com </td>
@@ -8988,7 +8990,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/hosseinhezami">
 				<img src="https://avatars.githubusercontent.com/u/8210576?s=72&u=aeb1b166a7ff6bc33318a5c9eda66dd5844b71e2&v=4" width="24" alt="Avatar of hosseinhezami"> hosseinhezami
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#hosseinhezami">Copy rank badge</a><br/>
 			Hossein Hezami
 		</td>
 		<td>No Company</td>
@@ -9001,7 +9003,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/joschu">
 				<img src="https://avatars.githubusercontent.com/u/144178?s=72&u=d812f2d170c05c4d3aaa4b2bf2ebc3538839c756&v=4" width="24" alt="Avatar of joschu"> joschu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#joschu">Copy rank badge</a><br/>
 			John Schulman
 		</td>
 		<td>No Company</td>
@@ -9014,7 +9016,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ajtulloch">
 				<img src="https://avatars.githubusercontent.com/u/1121581?s=72&u=8fe1a92e6502b599a28729caf4388fe9acca0030&v=4" width="24" alt="Avatar of ajtulloch"> ajtulloch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ajtulloch">Copy rank badge</a><br/>
 			Andrew Tulloch
 		</td>
 		<td>@openai </td>
@@ -9027,7 +9029,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/rentzsch">
 				<img src="https://avatars.githubusercontent.com/u/2971?s=72&v=4" width="24" alt="Avatar of rentzsch"> rentzsch
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#rentzsch">Copy rank badge</a><br/>
 			Wolf Rentzsch
 		</td>
 		<td>No Company</td>
@@ -9040,7 +9042,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/unbug">
 				<img src="https://avatars.githubusercontent.com/u/799578?s=72&v=4" width="24" alt="Avatar of unbug"> unbug
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#unbug">Copy rank badge</a><br/>
 			Unbug Lee
 		</td>
 		<td>No Company</td>
@@ -9053,7 +9055,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jkammerl">
 				<img src="https://avatars.githubusercontent.com/u/1801711?s=72&v=4" width="24" alt="Avatar of jkammerl"> jkammerl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jkammerl">Copy rank badge</a><br/>
 			Julius Kammerl
 		</td>
 		<td>Google </td>
@@ -9066,7 +9068,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/liancheng">
 				<img src="https://avatars.githubusercontent.com/u/230655?s=72&u=bd55a493ce4af71740d6be297761adb26c564a07&v=4" width="24" alt="Avatar of liancheng"> liancheng
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#liancheng">Copy rank badge</a><br/>
 			Cheng Lian
 		</td>
 		<td>@databricks </td>
@@ -9079,7 +9081,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/moyix">
 				<img src="https://avatars.githubusercontent.com/u/34380?s=72&u=dee786e76f60e84ddac81b58c91d9a970936fea4&v=4" width="24" alt="Avatar of moyix"> moyix
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#moyix">Copy rank badge</a><br/>
 			Brendan Dolan-Gavitt
 		</td>
 		<td>No Company</td>
@@ -9092,7 +9094,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/timothycrosley">
 				<img src="https://avatars.githubusercontent.com/u/2090154?s=72&u=4f46538354444ce0a0d4d89cd676f769d7d846d3&v=4" width="24" alt="Avatar of timothycrosley"> timothycrosley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#timothycrosley">Copy rank badge</a><br/>
 			Timothy Edmund Crosley
 		</td>
 		<td>Stripe </td>
@@ -9105,7 +9107,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/AstronomerAmber">
 				<img src="https://avatars.githubusercontent.com/u/29620179?s=72&u=6bbcb49cf8c405535d58d3b97964199396983e87&v=4" width="24" alt="Avatar of AstronomerAmber"> AstronomerAmber
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#AstronomerAmber">Copy rank badge</a><br/>
 			Amber Roberts
 		</td>
 		<td>Databricks </td>
@@ -9118,7 +9120,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/gatorsmile">
 				<img src="https://avatars.githubusercontent.com/u/11567269?s=72&u=874e2ff6bf749fff0e6570a3195dfa86b409e613&v=4" width="24" alt="Avatar of gatorsmile"> gatorsmile
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#gatorsmile">Copy rank badge</a><br/>
 			Xiao Li
 		</td>
 		<td>Databricks Inc. </td>
@@ -9131,7 +9133,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/andlabs">
 				<img src="https://avatars.githubusercontent.com/u/718242?s=72&v=4" width="24" alt="Avatar of andlabs"> andlabs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#andlabs">Copy rank badge</a><br/>
 			Pietro Gagliardi
 		</td>
 		<td>@google </td>
@@ -9144,7 +9146,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/JordanSchuetz">
 				<img src="https://avatars.githubusercontent.com/u/1023379?s=72&u=38c5e5c5ff9931120970a8885698aa7230154928&v=4" width="24" alt="Avatar of JordanSchuetz"> JordanSchuetz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#JordanSchuetz">Copy rank badge</a><br/>
 			Jordan Schuetz
 		</td>
 		<td>No Company</td>
@@ -9157,7 +9159,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/adeshpande3">
 				<img src="https://avatars.githubusercontent.com/u/13543909?s=72&u=fe0666f653498f908832d8685b50e268f98041a0&v=4" width="24" alt="Avatar of adeshpande3"> adeshpande3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#adeshpande3">Copy rank badge</a><br/>
 			Adit Deshpande
 		</td>
 		<td>No Company</td>
@@ -9170,7 +9172,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/abarth">
 				<img src="https://avatars.githubusercontent.com/u/112007?s=72&u=9f7e9d9b0ee7d1a012d3cf98d8b0e6adeb565a61&v=4" width="24" alt="Avatar of abarth"> abarth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#abarth">Copy rank badge</a><br/>
 			Adam Barth
 		</td>
 		<td>No Company</td>
@@ -9183,7 +9185,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/lukemelas">
 				<img src="https://avatars.githubusercontent.com/u/13307440?s=72&u=d71fb4e098ad0cd4218658d39ba1c6b3ab3d8a86&v=4" width="24" alt="Avatar of lukemelas"> lukemelas
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#lukemelas">Copy rank badge</a><br/>
 			Luke Melas-Kyriazi
 		</td>
 		<td>Anysphere (cursor) </td>
@@ -9196,7 +9198,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/keesun">
 				<img src="https://avatars.githubusercontent.com/u/463657?s=72&v=4" width="24" alt="Avatar of keesun"> keesun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#keesun">Copy rank badge</a><br/>
 			Keesun Baik (a.k.a, Whiteship)
 		</td>
 		<td>No Company</td>
@@ -9209,7 +9211,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/alexholdenmiller">
 				<img src="https://avatars.githubusercontent.com/u/1141354?s=72&u=0910cb2a142ac3b8c728f1ed993bc1dbc84a4777&v=4" width="24" alt="Avatar of alexholdenmiller"> alexholdenmiller
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#alexholdenmiller">Copy rank badge</a><br/>
 			Alexander Holden Miller
 		</td>
 		<td>@facebookresearch  </td>
@@ -9222,7 +9224,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nesquena">
 				<img src="https://avatars.githubusercontent.com/u/6511?s=72&u=81224072024df51b0f1f6b3b0f863be8d244eb2d&v=4" width="24" alt="Avatar of nesquena"> nesquena
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nesquena">Copy rank badge</a><br/>
 			Nathan Esquenazi
 		</td>
 		<td>Co-founder @ Codepath.org </td>
@@ -9235,7 +9237,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/JustasMasiulis">
 				<img src="https://avatars.githubusercontent.com/u/16763439?s=72&u=d65f21b9d3420fbfe1663f38da57d41b5959169f&v=4" width="24" alt="Avatar of JustasMasiulis"> JustasMasiulis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#JustasMasiulis">Copy rank badge</a><br/>
 			Justas Masiulis
 		</td>
 		<td>No Company</td>
@@ -9248,7 +9250,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jtrivedi">
 				<img src="https://avatars.githubusercontent.com/u/519309?s=72&u=a90e617e9271a6b2e152f117b4afbbca2a4a0576&v=4" width="24" alt="Avatar of jtrivedi"> jtrivedi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jtrivedi">Copy rank badge</a><br/>
 			Janum Trivedi
 		</td>
 		<td>The Browser Company. Prev:<br/>Netflix,<br/>Apple<br/></td>
@@ -9261,7 +9263,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/yosinski">
 				<img src="https://avatars.githubusercontent.com/u/501890?s=72&u=19487b58055ae58976ecad4b42dd02877251bc63&v=4" width="24" alt="Avatar of yosinski"> yosinski
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#yosinski">Copy rank badge</a><br/>
 			Jason Yosinski
 		</td>
 		<td>Windscape Ai; Ml Collective<br/></td>
@@ -9274,7 +9276,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nullptrException100">
 				<img src="https://avatars.githubusercontent.com/u/156743576?s=72&u=d629ef261918297c0c5e9f9af5b0b8f65f643b20&v=4" width="24" alt="Avatar of nullptrException100"> nullptrException100
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nullptrException100">Copy rank badge</a><br/>
 			David Clark
 		</td>
 		<td>Google, Youtube Music </td>
@@ -9287,7 +9289,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/armon">
 				<img src="https://avatars.githubusercontent.com/u/592032?s=72&v=4" width="24" alt="Avatar of armon"> armon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#armon">Copy rank badge</a><br/>
 			Armon Dadgar
 		</td>
 		<td>Hashicorp </td>
@@ -9300,7 +9302,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kosamari">
 				<img src="https://avatars.githubusercontent.com/u/4581495?s=72&u=1a7103fb4df1c345b5696e80601e23f65f3d4b2d&v=4" width="24" alt="Avatar of kosamari"> kosamari
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kosamari">Copy rank badge</a><br/>
 			Mariko Kosaka
 		</td>
 		<td>No Company</td>
@@ -9313,7 +9315,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/SophieDeBenedetto">
 				<img src="https://avatars.githubusercontent.com/u/8999596?s=72&u=01f6a07eadb7594aea1f08bc0c461832965be0fe&v=4" width="24" alt="Avatar of SophieDeBenedetto"> SophieDeBenedetto
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#SophieDeBenedetto">Copy rank badge</a><br/>
 			Sophie DeBenedetto
 		</td>
 		<td>Github </td>
@@ -9326,7 +9328,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/makcedward">
 				<img src="https://avatars.githubusercontent.com/u/36614806?s=72&u=bb795c4127cb92b3b47afe2c1a96555836307d38&v=4" width="24" alt="Avatar of makcedward"> makcedward
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#makcedward">Copy rank badge</a><br/>
 			Edward Ma
 		</td>
 		<td>Sambanova Systems </td>
@@ -9339,7 +9341,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/valueof">
 				<img src="https://avatars.githubusercontent.com/u/49106?s=72&u=8a0757442aaa8be1441bcaa3a22a846bc36fd6f2&v=4" width="24" alt="Avatar of valueof"> valueof
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#valueof">Copy rank badge</a><br/>
 			Anton
 		</td>
 		<td>No Company</td>
@@ -9352,7 +9354,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/cumsoft">
 				<img src="https://avatars.githubusercontent.com/u/97250816?s=72&u=208afef4fb98cb0e28832a9ebba59247c5bacb95&v=4" width="24" alt="Avatar of cumsoft"> cumsoft
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#cumsoft">Copy rank badge</a><br/>
 			cumsoft
 		</td>
 		<td>Cumsoft </td>
@@ -9365,7 +9367,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/CleverProgrammer">
 				<img src="https://avatars.githubusercontent.com/u/8461930?s=72&v=4" width="24" alt="Avatar of CleverProgrammer"> CleverProgrammer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#CleverProgrammer">Copy rank badge</a><br/>
 			Rafeh Qazi
 		</td>
 		<td>Clever Programmer </td>
@@ -9378,7 +9380,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/dgrtwo">
 				<img src="https://avatars.githubusercontent.com/u/994718?s=72&u=8abbf6079a2ac3b10d435c4fadbf291d8624a439&v=4" width="24" alt="Avatar of dgrtwo"> dgrtwo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#dgrtwo">Copy rank badge</a><br/>
 			David Robinson
 		</td>
 		<td>Heap </td>
@@ -9391,7 +9393,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/sxywu">
 				<img src="https://avatars.githubusercontent.com/u/1448449?s=72&u=dda17ae48e7bfbbd22b1503a7b83504e53e57a1e&v=4" width="24" alt="Avatar of sxywu"> sxywu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#sxywu">Copy rank badge</a><br/>
 			Shirley Wu
 		</td>
 		<td>No Company</td>
@@ -9404,7 +9406,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/kara">
 				<img src="https://avatars.githubusercontent.com/u/3871688?s=72&u=c40f49a9651bb79ec1d955c7536cdd5f8a59c3be&v=4" width="24" alt="Avatar of kara"> kara
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#kara">Copy rank badge</a><br/>
 			Kara
 		</td>
 		<td>Google </td>
@@ -9417,7 +9419,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/HFTrader">
 				<img src="https://avatars.githubusercontent.com/u/11621271?s=72&u=04df6db5da5e0bad188a29469cd0c1f2f99de742&v=4" width="24" alt="Avatar of HFTrader"> HFTrader
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#HFTrader">Copy rank badge</a><br/>
 			Henrique Bucher
 		</td>
 		<td>Vitorian Llc </td>
@@ -9430,7 +9432,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/bashmohandes">
 				<img src="https://avatars.githubusercontent.com/u/912214?s=72&u=c551b494d318ff7419b7ac17883a62186fbcbbf8&v=4" width="24" alt="Avatar of bashmohandes"> bashmohandes
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#bashmohandes">Copy rank badge</a><br/>
 			Mohamed Elsherif
 		</td>
 		<td>@apple </td>
@@ -9443,7 +9445,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/aeyakovenko">
 				<img src="https://avatars.githubusercontent.com/u/1029046?s=72&u=6dac1d13afdabb7943bfa9731137c60e0508d16c&v=4" width="24" alt="Avatar of aeyakovenko"> aeyakovenko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#aeyakovenko">Copy rank badge</a><br/>
 			anatoly yakovenko
 		</td>
 		<td>@solana-labs   </td>
@@ -9456,7 +9458,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/marcuswestin">
 				<img src="https://avatars.githubusercontent.com/u/131967?s=72&v=4" width="24" alt="Avatar of marcuswestin"> marcuswestin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#marcuswestin">Copy rank badge</a><br/>
 			Marcus Westin
 		</td>
 		<td>No Company</td>
@@ -9469,7 +9471,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/djhohnstein">
 				<img src="https://avatars.githubusercontent.com/u/9327224?s=72&u=bcd1fd3c2ec69a8e77c3633bd3d2f7aca7436913&v=4" width="24" alt="Avatar of djhohnstein"> djhohnstein
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#djhohnstein">Copy rank badge</a><br/>
 			Dwight Hohnstein
 		</td>
 		<td>@xforcered </td>
@@ -9482,7 +9484,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/tennisonchan">
 				<img src="https://avatars.githubusercontent.com/u/719938?s=72&u=5683a85df9f7c474d3c64555856f8f649d4f5ccc&v=4" width="24" alt="Avatar of tennisonchan"> tennisonchan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#tennisonchan">Copy rank badge</a><br/>
 			Tennison Chan
 		</td>
 		<td>Truewind </td>
@@ -9495,7 +9497,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/batterseapower">
 				<img src="https://avatars.githubusercontent.com/u/18488?s=72&v=4" width="24" alt="Avatar of batterseapower"> batterseapower
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#batterseapower">Copy rank badge</a><br/>
 			Max Bolingbroke
 		</td>
 		<td>Anthropic Pbc </td>
@@ -9508,7 +9510,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/eklitzke">
 				<img src="https://avatars.githubusercontent.com/u/2734?s=72&v=4" width="24" alt="Avatar of eklitzke"> eklitzke
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#eklitzke">Copy rank badge</a><br/>
 			Evan Klitzke
 		</td>
 		<td>No Company</td>
@@ -9521,7 +9523,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/monahatami1">
 				<img src="https://avatars.githubusercontent.com/u/35810581?s=72&u=44183c0b98f179beb38fac484eaf5e4f225d67ae&v=4" width="24" alt="Avatar of monahatami1"> monahatami1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#monahatami1">Copy rank badge</a><br/>
 			Mona Hatami
 		</td>
 		<td>Data Scientist At Ibm<br/></td>
@@ -9534,7 +9536,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jermainewang">
 				<img src="https://avatars.githubusercontent.com/u/4057701?s=72&u=336650ed74679d5bff1808753c5bb41045e5f556&v=4" width="24" alt="Avatar of jermainewang"> jermainewang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jermainewang">Copy rank badge</a><br/>
 			Minjie Wang
 		</td>
 		<td>New York University </td>
@@ -9547,7 +9549,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/pedrofranceschi">
 				<img src="https://avatars.githubusercontent.com/u/114711?s=72&u=f4521e91bfaa8a02dae9f7837961a01f49790350&v=4" width="24" alt="Avatar of pedrofranceschi"> pedrofranceschi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#pedrofranceschi">Copy rank badge</a><br/>
 			Pedro Franceschi
 		</td>
 		<td>Brex </td>
@@ -9560,7 +9562,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ccampbell">
 				<img src="https://avatars.githubusercontent.com/u/259316?s=72&v=4" width="24" alt="Avatar of ccampbell"> ccampbell
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ccampbell">Copy rank badge</a><br/>
 			Craig Campbell
 		</td>
 		<td>No Company</td>
@@ -9573,7 +9575,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/KevinHock">
 				<img src="https://avatars.githubusercontent.com/u/3076393?s=72&u=d467ef143f7b8eb69a4c2c378793919a9c7549ee&v=4" width="24" alt="Avatar of KevinHock"> KevinHock
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#KevinHock">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>@grammarly (formerly @pinterest, @yelp)<br/></td>
@@ -9586,7 +9588,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ebidel">
 				<img src="https://avatars.githubusercontent.com/u/238208?s=72&u=a3436da8c87bb63638b6924b70ca6d997f685e8e&v=4" width="24" alt="Avatar of ebidel"> ebidel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ebidel">Copy rank badge</a><br/>
 			Eric Bidelman
 		</td>
 		<td>Robinhood </td>
@@ -9599,7 +9601,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/campoy">
 				<img src="https://avatars.githubusercontent.com/u/2237452?s=72&u=f35074f03fe26f246a06601c794923e63e7dd0b7&v=4" width="24" alt="Avatar of campoy"> campoy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#campoy">Copy rank badge</a><br/>
 			Francesc Campoy
 		</td>
 		<td>Apple </td>
@@ -9612,7 +9614,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/garybernhardt">
 				<img src="https://avatars.githubusercontent.com/u/45707?s=72&u=ed2698db947efe2ef1378be4bf2c5ed28d527ed0&v=4" width="24" alt="Avatar of garybernhardt"> garybernhardt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#garybernhardt">Copy rank badge</a><br/>
 			Gary Bernhardt
 		</td>
 		<td>Destroy All Software Llc<br/></td>
@@ -9625,7 +9627,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/malware-unicorn">
 				<img src="https://avatars.githubusercontent.com/u/19986532?s=72&u=88326145141cd76f40f02846591f0ea0f3a80aa6&v=4" width="24" alt="Avatar of malware-unicorn"> malware-unicorn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#malware-unicorn">Copy rank badge</a><br/>
 			malwareunicorn
 		</td>
 		<td>No Company</td>
@@ -9638,7 +9640,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/khanhnamle1994">
 				<img src="https://avatars.githubusercontent.com/u/10627238?s=72&u=e9cce13d49039a4e9b1ac1fa78e8e9a6d35b8ae6&v=4" width="24" alt="Avatar of khanhnamle1994"> khanhnamle1994
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#khanhnamle1994">Copy rank badge</a><br/>
 			James Le
 		</td>
 		<td>Twelve Labs </td>
@@ -9651,7 +9653,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/aweary">
 				<img src="https://avatars.githubusercontent.com/u/6886061?s=72&u=94ff3eb690831cefb93de0ea97e6f467f63dfbf1&v=4" width="24" alt="Avatar of aweary"> aweary
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#aweary">Copy rank badge</a><br/>
 			Brandon Dail
 		</td>
 		<td>@discord </td>
@@ -9664,7 +9666,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ImgBotApp">
 				<img src="https://avatars.githubusercontent.com/u/31427850?s=72&u=464006d20c236f7bbec4ae1b2ae80bf4c1ebd57a&v=4" width="24" alt="Avatar of ImgBotApp"> ImgBotApp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ImgBotApp">Copy rank badge</a><br/>
 			Imgbot
 		</td>
 		<td>Imgbot </td>
@@ -9677,7 +9679,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/evilrabbit">
 				<img src="https://avatars.githubusercontent.com/u/6880091?s=72&u=da42714aac11597801cdded4c02ea6123f87888e&v=4" width="24" alt="Avatar of evilrabbit"> evilrabbit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#evilrabbit">Copy rank badge</a><br/>
 			Evil Rabbit
 		</td>
 		<td>Vercel </td>
@@ -9690,7 +9692,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/datawrangling">
 				<img src="https://avatars.githubusercontent.com/u/60860?s=72&u=54848fc39df1bc47cd46ab88235b74dcad6bfec2&v=4" width="24" alt="Avatar of datawrangling"> datawrangling
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#datawrangling">Copy rank badge</a><br/>
 			Pete Skomoroch
 		</td>
 		<td>No Company</td>
@@ -9703,7 +9705,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/stubailo">
 				<img src="https://avatars.githubusercontent.com/u/448783?s=72&u=c2bdd3fb282033b3c83195f02fed7f436f66585a&v=4" width="24" alt="Avatar of stubailo"> stubailo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#stubailo">Copy rank badge</a><br/>
 			Sashko Stubailo
 		</td>
 		<td>Flipturn, Inc. </td>
@@ -9716,7 +9718,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Haseeb-Qureshi">
 				<img src="https://avatars.githubusercontent.com/u/10965087?s=72&u=da2d5a0920578ad362cccf031ce8d57a47bd1e07&v=4" width="24" alt="Avatar of Haseeb-Qureshi"> Haseeb-Qureshi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Haseeb-Qureshi">Copy rank badge</a><br/>
 			Haseeb Qureshi
 		</td>
 		<td>Haseebq </td>
@@ -9729,7 +9731,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Fentaniao">
 				<img src="https://avatars.githubusercontent.com/u/62752455?s=72&u=2636a7c346f299834e0a57c7e3764d1598429550&v=4" width="24" alt="Avatar of Fentaniao"> Fentaniao
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Fentaniao">Copy rank badge</a><br/>
 			Ruiyang Zhou
 		</td>
 		<td>University Of Electronic Science<br/>And<br/>Technology<br/>Of<br/>China<br/></td>
@@ -9742,7 +9744,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/SaraJo">
 				<img src="https://avatars.githubusercontent.com/u/110101?s=72&v=4" width="24" alt="Avatar of SaraJo"> SaraJo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#SaraJo">Copy rank badge</a><br/>
 			Sara Chipps
 		</td>
 		<td>No Company</td>
@@ -9755,7 +9757,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/jakiestfu">
 				<img src="https://avatars.githubusercontent.com/u/1041792?s=72&u=d47356d5a7a9c01d6f89676390756d68ccef74ed&v=4" width="24" alt="Avatar of jakiestfu"> jakiestfu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#jakiestfu">Copy rank badge</a><br/>
 			Jacob Kelley
 		</td>
 		<td>@turo   </td>
@@ -9768,7 +9770,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/skevy">
 				<img src="https://avatars.githubusercontent.com/u/131916?s=72&u=8d04d00d8e330c2999ca6f7f1a35e36bc0fcdfaa&v=4" width="24" alt="Avatar of skevy"> skevy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#skevy">Copy rank badge</a><br/>
 			Adam Miskiewicz
 		</td>
 		<td>@airbnb </td>
@@ -9781,7 +9783,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/yining1023">
 				<img src="https://avatars.githubusercontent.com/u/8662372?s=72&u=e6c472182c3a9e447379cc0fc36bd933376908b3&v=4" width="24" alt="Avatar of yining1023"> yining1023
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#yining1023">Copy rank badge</a><br/>
 			Yining Shi
 		</td>
 		<td>Runwayml </td>
@@ -9794,7 +9796,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/wpeebles">
 				<img src="https://avatars.githubusercontent.com/u/35885960?s=72&u=b3fd0663778b1ce6248eea55d44659b0bcacc369&v=4" width="24" alt="Avatar of wpeebles"> wpeebles
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#wpeebles">Copy rank badge</a><br/>
 			Bill Peebles
 		</td>
 		<td>Openai </td>
@@ -9807,7 +9809,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/bdbaraban">
 				<img src="https://avatars.githubusercontent.com/u/34765317?s=72&u=d816f3c4f4264466d14d18e8b755cec03b24c2ca&v=4" width="24" alt="Avatar of bdbaraban"> bdbaraban
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#bdbaraban">Copy rank badge</a><br/>
 			Brennan D Baraban
 		</td>
 		<td>@discord </td>
@@ -9820,7 +9822,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/LuChengTHU">
 				<img src="https://avatars.githubusercontent.com/u/25171708?s=72&u=013b43059ec693bc0735848383816890d5fd6dcd&v=4" width="24" alt="Avatar of LuChengTHU"> LuChengTHU
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#LuChengTHU">Copy rank badge</a><br/>
 			Cheng Lu
 		</td>
 		<td>Openai </td>
@@ -9833,7 +9835,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/reem">
 				<img src="https://avatars.githubusercontent.com/u/4745181?s=72&u=82e858e155935e334d490d811117551260823b39&v=4" width="24" alt="Avatar of reem"> reem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#reem">Copy rank badge</a><br/>
 			Jonathan Reem
 		</td>
 		<td>@gauntlet-xyz </td>
@@ -9846,7 +9848,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/vishr">
 				<img src="https://avatars.githubusercontent.com/u/314036?s=72&v=4" width="24" alt="Avatar of vishr"> vishr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#vishr">Copy rank badge</a><br/>
 			Vishal Rana
 		</td>
 		<td>@labstack  </td>
@@ -9859,7 +9861,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/tlrobinson">
 				<img src="https://avatars.githubusercontent.com/u/18193?s=72&u=85a5c75df7bf467ef6b7b78e22befb599d190946&v=4" width="24" alt="Avatar of tlrobinson"> tlrobinson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#tlrobinson">Copy rank badge</a><br/>
 			Tom Robinson
 		</td>
 		<td>No Company</td>
@@ -9872,7 +9874,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mnielsen">
 				<img src="https://avatars.githubusercontent.com/u/52171?s=72&v=4" width="24" alt="Avatar of mnielsen"> mnielsen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mnielsen">Copy rank badge</a><br/>
 			Michael Nielsen
 		</td>
 		<td>No Company</td>
@@ -9885,7 +9887,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/gazijarin">
 				<img src="https://avatars.githubusercontent.com/u/32211479?s=72&u=549f94369fbdbab7960f309cae1518347fd9bab1&v=4" width="24" alt="Avatar of gazijarin"> gazijarin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#gazijarin">Copy rank badge</a><br/>
 			Gazi
 		</td>
 		<td>Google </td>
@@ -9898,7 +9900,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/johnmyleswhite">
 				<img src="https://avatars.githubusercontent.com/u/22064?s=72&u=0c7f9febc281838232daf5684fef6ed97b3c15f8&v=4" width="24" alt="Avatar of johnmyleswhite"> johnmyleswhite
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#johnmyleswhite">Copy rank badge</a><br/>
 			John Myles White
 		</td>
 		<td>Meta </td>
@@ -9911,7 +9913,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/cloud-shannon">
 				<img src="https://avatars.githubusercontent.com/u/88684372?s=72&u=97ab2cd1482bfa1d7692fa30fca9bb1d3636404f&v=4" width="24" alt="Avatar of cloud-shannon"> cloud-shannon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#cloud-shannon">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9924,7 +9926,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/mixu">
 				<img src="https://avatars.githubusercontent.com/u/398530?s=72&u=1f695b44bdd6887b228a2b7ec024546fc66bbeb0&v=4" width="24" alt="Avatar of mixu"> mixu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#mixu">Copy rank badge</a><br/>
 			Mikito Takada
 		</td>
 		<td>No Company</td>
@@ -9937,7 +9939,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/juliemr">
 				<img src="https://avatars.githubusercontent.com/u/2081709?s=72&u=9d7e8d6549afc1626001640539ff6b861532a02f&v=4" width="24" alt="Avatar of juliemr"> juliemr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#juliemr">Copy rank badge</a><br/>
 			Julie Ralph
 		</td>
 		<td>Google </td>
@@ -9950,7 +9952,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ujjwalkarn">
 				<img src="https://avatars.githubusercontent.com/u/5948390?s=72&v=4" width="24" alt="Avatar of ujjwalkarn"> ujjwalkarn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ujjwalkarn">Copy rank badge</a><br/>
 			Ujjwal Karn
 		</td>
 		<td>@facebook </td>
@@ -9963,7 +9965,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/modocache">
 				<img src="https://avatars.githubusercontent.com/u/552921?s=72&u=469a0337ef1e244285e6b65af1567cb792fff359&v=4" width="24" alt="Avatar of modocache"> modocache
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#modocache">Copy rank badge</a><br/>
 			Brian Gesiak
 		</td>
 		<td>No Company</td>
@@ -9976,7 +9978,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/apsdehal">
 				<img src="https://avatars.githubusercontent.com/u/3616806?s=72&v=4" width="24" alt="Avatar of apsdehal"> apsdehal
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#apsdehal">Copy rank badge</a><br/>
 			Amanpreet Singh
 		</td>
 		<td>Cto @contextualai. Past @huggingface<br/>@facebookresearch<br/><br/></td>
@@ -9989,7 +9991,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/benhamner">
 				<img src="https://avatars.githubusercontent.com/u/582878?s=72&u=d35887e94faea46ca8e44c03ea55e56173809798&v=4" width="24" alt="Avatar of benhamner"> benhamner
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#benhamner">Copy rank badge</a><br/>
 			Ben Hamner
 		</td>
 		<td>Dabbling With Data. Formerly:<br/>Kaggle<br/></td>
@@ -10002,7 +10004,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/boujeepossum">
 				<img src="https://avatars.githubusercontent.com/u/940133?s=72&u=0c841328949fea2440a969297db1af2ace85248b&v=4" width="24" alt="Avatar of boujeepossum"> boujeepossum
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#boujeepossum">Copy rank badge</a><br/>
 			Aaron Abrams
 		</td>
 		<td>No Company</td>
@@ -10015,7 +10017,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/Udinic">
 				<img src="https://avatars.githubusercontent.com/u/950533?s=72&v=4" width="24" alt="Avatar of Udinic"> Udinic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#Udinic">Copy rank badge</a><br/>
 			Udi Cohen
 		</td>
 		<td>Facebook </td>
@@ -10028,7 +10030,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/wongmjane">
 				<img src="https://avatars.githubusercontent.com/u/1332975?s=72&u=82cd479f68507d128c243ca259bd68e7393ddceb&v=4" width="24" alt="Avatar of wongmjane"> wongmjane
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#wongmjane">Copy rank badge</a><br/>
 			Jane Manchun Wong
 		</td>
 		<td>No Company</td>
@@ -10041,7 +10043,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/annar9919">
 				<img src="https://avatars.githubusercontent.com/u/186671222?s=72&u=90cbffb07c29ffe432f6968217a0b2ee9d249874&v=4" width="24" alt="Avatar of annar9919"> annar9919
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#annar9919">Copy rank badge</a><br/>
 			Anna Ruiz
 		</td>
 		<td>No Company</td>
@@ -10054,7 +10056,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/ryanoasis">
 				<img src="https://avatars.githubusercontent.com/u/8083459?s=72&u=1645f43000c842a948268609231bdecb1433c470&v=4" width="24" alt="Avatar of ryanoasis"> ryanoasis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#ryanoasis">Copy rank badge</a><br/>
 			Ryan L McIntyre
 		</td>
 		<td>No Company</td>
@@ -10067,7 +10069,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/nicolasgramlich">
 				<img src="https://avatars.githubusercontent.com/u/287060?s=72&u=51940fe5ae8c2c043c77a008eeda841090edbe27&v=4" width="24" alt="Avatar of nicolasgramlich"> nicolasgramlich
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#nicolasgramlich">Copy rank badge</a><br/>
 			Nicolas Gramlich
 		</td>
 		<td>Yeet Studios </td>
@@ -10080,7 +10082,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/broady">
 				<img src="https://avatars.githubusercontent.com/u/24982?s=72&u=e4e2e7ae955ef2a0b7b1c3491652626042fbeef8&v=4" width="24" alt="Avatar of broady"> broady
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#broady">Copy rank badge</a><br/>
 			Chris Broadfoot
 		</td>
 		<td>No Company</td>
@@ -10093,7 +10095,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/wybiral">
 				<img src="https://avatars.githubusercontent.com/u/3092000?s=72&u=487927498545350546fae5c6f1ce26711daa85a5&v=4" width="24" alt="Avatar of wybiral"> wybiral
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#wybiral">Copy rank badge</a><br/>
 			davy
 		</td>
 		<td>No Company</td>
@@ -10106,7 +10108,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/lzl124631x">
 				<img src="https://avatars.githubusercontent.com/u/5824517?s=72&v=4" width="24" alt="Avatar of lzl124631x"> lzl124631x
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#lzl124631x">Copy rank badge</a><br/>
 			Richard Liu
 		</td>
 		<td>Meta </td>
@@ -10119,7 +10121,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/shergin">
 				<img src="https://avatars.githubusercontent.com/u/22032?s=72&v=4" width="24" alt="Avatar of shergin"> shergin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#shergin">Copy rank badge</a><br/>
 			Valentin Shergin
 		</td>
 		<td>@coinbase </td>
@@ -10132,7 +10134,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/probablycorey">
 				<img src="https://avatars.githubusercontent.com/u/596?s=72&v=4" width="24" alt="Avatar of probablycorey"> probablycorey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#probablycorey">Copy rank badge</a><br/>
 			Corey Johnson
 		</td>
 		<td>@github </td>
@@ -10145,7 +10147,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/parthnagarkar875">
 				<img src="https://avatars.githubusercontent.com/u/48564003?s=72&u=0d5be4605ca9d79b7e75b53e9464622de625a71f&v=4" width="24" alt="Avatar of parthnagarkar875"> parthnagarkar875
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#parthnagarkar875">Copy rank badge</a><br/>
 			Parth Nagarkar
 		</td>
 		<td>Amazon Web Services </td>
@@ -10158,7 +10160,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/calthoff">
 				<img src="https://avatars.githubusercontent.com/u/8453327?s=72&u=7a8d46918ad5162c77d7c942683695284fc97faa&v=4" width="24" alt="Avatar of calthoff"> calthoff
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#calthoff">Copy rank badge</a><br/>
 			Cory Althoff
 		</td>
 		<td>No Company</td>
@@ -10171,7 +10173,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/0hq">
 				<img src="https://avatars.githubusercontent.com/u/30643741?s=72&u=faee0ca26282cee3e829c36827f3daac47cb2e4a&v=4" width="24" alt="Avatar of 0hq"> 0hq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#0hq">Copy rank badge</a><br/>
 			Will DePue
 		</td>
 		<td>No Company</td>
@@ -10184,7 +10186,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/d0nutptr">
 				<img src="https://avatars.githubusercontent.com/u/4058559?s=72&u=8a50b3fa15fae611020fea3d07b972d712f78ab0&v=4" width="24" alt="Avatar of d0nutptr"> d0nutptr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#d0nutptr">Copy rank badge</a><br/>
 			d0nut
 		</td>
 		<td>No Company</td>
@@ -10197,7 +10199,7 @@ There are `891 users`  in United States. You need at least `620 followers` to be
 		<td>
 			<a href="https://github.com/garann">
 				<img src="https://avatars.githubusercontent.com/u/299993?s=72&v=4" width="24" alt="Avatar of garann"> garann
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/united_states.md#garann">Copy rank badge</a><br/>
 			Garann Means
 		</td>
 		<td>No Company</td>
