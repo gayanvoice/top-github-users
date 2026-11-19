@@ -5,11 +5,13 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam">
 </a>
 
-The `public contributions` by users in Vietnam on `2026/7/18 2:03 AM UTC`. This list contains users from `Vietnam` and cities `Ho-chi-minh-city` `Hanoi` `Da-nang` `Can-tho` `Haiphong`.
+The `public contributions` by users in Vietnam on `2026/11/19 5:43 AM UTC`. This list contains users from `Vietnam` and cities `Ho-chi-minh-city` `Hanoi` `Da-nang` `Can-tho` `Haiphong`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
 
 There are `934 users`  in Vietnam. You need at least `41 followers` to be on this list.
+
+🏅 Looking for a shareable ranking badge? Visit the [Vietnam GitHub user ranking page](https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md) to view the country rankings and copy the ready-made badge snippet for your GitHub profile or README.
 
 <table>
 	<tr>
@@ -109,7 +111,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoangsvit">
 				<img src="https://avatars.githubusercontent.com/u/11882322?s=72&u=499decf82f6a68e5baa22fd298618c6b551ab1d3&v=4" width="24" alt="Avatar of hoangsvit"> hoangsvit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoangsvit">Copy rank badge</a><br/>
 			David Nguyen
 		</td>
 		<td>Founder At @eplus-dev </td>
@@ -122,7 +124,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/frankrichardhall">
 				<img src="https://avatars.githubusercontent.com/u/181615414?s=72&u=d9c9f9232407d077b09188e0bbac4af40e7e1187&v=4" width="24" alt="Avatar of frankrichardhall"> frankrichardhall
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#frankrichardhall">Copy rank badge</a><br/>
 			Frank Richard Hall
 		</td>
 		<td>No Company</td>
@@ -135,7 +137,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tamnd">
 				<img src="https://avatars.githubusercontent.com/u/1218621?s=72&v=4" width="24" alt="Avatar of tamnd"> tamnd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tamnd">Copy rank badge</a><br/>
 			Tam Nguyen Duc
 		</td>
 		<td>No Company</td>
@@ -148,7 +150,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ngocnhan2003">
 				<img src="https://avatars.githubusercontent.com/u/20029729?s=72&u=a44813a2a7af712aa231fec77ff8c0613a23593b&v=4" width="24" alt="Avatar of ngocnhan2003"> ngocnhan2003
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ngocnhan2003">Copy rank badge</a><br/>
 			Nhan N. TRAN
 		</td>
 		<td>No Company</td>
@@ -161,7 +163,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/bigdargon">
 				<img src="https://avatars.githubusercontent.com/u/10969626?s=72&u=2bbbeba02c7d5d8f4e8a8f53661bec09334b4abd&v=4" width="24" alt="Avatar of bigdargon"> bigdargon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#bigdargon">Copy rank badge</a><br/>
 			BigDargon
 		</td>
 		<td>No Company</td>
@@ -174,7 +176,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/mewisme">
 				<img src="https://avatars.githubusercontent.com/u/63306485?s=72&u=1c2ad31244a440a00c914ec3785525dbcd573ad0&v=4" width="24" alt="Avatar of mewisme"> mewisme
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#mewisme">Copy rank badge</a><br/>
 			Nguyễn Mậu Minh
 		</td>
 		<td>Meewmeew </td>
@@ -187,7 +189,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vinhnx">
 				<img src="https://avatars.githubusercontent.com/u/1097578?s=72&u=1c29faec52d7cb6751560c5e5ea37685db790f9d&v=4" width="24" alt="Avatar of vinhnx"> vinhnx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vinhnx">Copy rank badge</a><br/>
 			Vinh Nguyen
 		</td>
 		<td>No Company</td>
@@ -200,7 +202,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vhpx">
 				<img src="https://avatars.githubusercontent.com/u/81307469?s=72&u=1c4ad650f8028a6e81f76d13259c6f71f47ea55c&v=4" width="24" alt="Avatar of vhpx"> vhpx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vhpx">Copy rank badge</a><br/>
 			Sokora
 		</td>
 		<td>@tutur3u </td>
@@ -213,7 +215,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/quanhua92">
 				<img src="https://avatars.githubusercontent.com/u/8372557?s=72&u=1c42f3448ac1358379a1bc12012f47c8c53a1a5d&v=4" width="24" alt="Avatar of quanhua92"> quanhua92
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#quanhua92">Copy rank badge</a><br/>
 			Quan Hua
 		</td>
 		<td>No Company</td>
@@ -226,7 +228,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/log1cs">
 				<img src="https://avatars.githubusercontent.com/u/60842977?s=72&u=6715f9d16e7c63853f972eba5b431b0badbf77e1&v=4" width="24" alt="Avatar of log1cs"> log1cs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#log1cs">Copy rank badge</a><br/>
 			Tuan Anh Vu
 		</td>
 		<td>No Company</td>
@@ -239,7 +241,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/bnqtoan">
 				<img src="https://avatars.githubusercontent.com/u/2143150?s=72&u=05c9467e81ad15b0e06b39bd04a562aa51428c20&v=4" width="24" alt="Avatar of bnqtoan"> bnqtoan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#bnqtoan">Copy rank badge</a><br/>
 			Toan Bui
 		</td>
 		<td>No Company</td>
@@ -252,7 +254,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/KevinNitroG">
 				<img src="https://avatars.githubusercontent.com/u/86353526?s=72&u=fe58cc27d6f191ce67fc8e2f0c42197a1ab347b0&v=4" width="24" alt="Avatar of KevinNitroG"> KevinNitroG
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#KevinNitroG">Copy rank badge</a><br/>
 			Kevin Nitro
 		</td>
 		<td>University Of Information Technology<br/></td>
@@ -265,7 +267,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nguyenyou">
 				<img src="https://avatars.githubusercontent.com/u/38455472?s=72&u=7c602bbf5f3c6350913a798fe12b439f0f19eedd&v=4" width="24" alt="Avatar of nguyenyou"> nguyenyou
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nguyenyou">Copy rank badge</a><br/>
 			Tu Nguyen
 		</td>
 		<td>No Company</td>
@@ -278,7 +280,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/AskAlexSharov">
 				<img src="https://avatars.githubusercontent.com/u/46885206?s=72&v=4" width="24" alt="Avatar of AskAlexSharov"> AskAlexSharov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#AskAlexSharov">Copy rank badge</a><br/>
 			Alex Sharov
 		</td>
 		<td>No Company</td>
@@ -291,7 +293,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/datlechin">
 				<img src="https://avatars.githubusercontent.com/u/56961917?s=72&u=d81673346add180cf26eb8d24fb32d4f6f26f9cf&v=4" width="24" alt="Avatar of datlechin"> datlechin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#datlechin">Copy rank badge</a><br/>
 			Ngô Quốc Đạt
 		</td>
 		<td>No Company</td>
@@ -304,7 +306,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ncdai">
 				<img src="https://avatars.githubusercontent.com/u/10192821?s=72&u=9e7e385e2eb0c7c24c03c5ad3f294ad7a777d2df&v=4" width="24" alt="Avatar of ncdai"> ncdai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ncdai">Copy rank badge</a><br/>
 			Chánh Đại
 		</td>
 		<td>@shadcncraft </td>
@@ -317,7 +319,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/KennyDizi">
 				<img src="https://avatars.githubusercontent.com/u/16578966?s=72&u=652ba00c5cdeed074dbbf70d24d302eb39ca4fa7&v=4" width="24" alt="Avatar of KennyDizi"> KennyDizi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#KennyDizi">Copy rank badge</a><br/>
 			Kenny Dizi
 		</td>
 		<td>E-pg, Ai4organization, Sofardataai, Openworkspace-o1<br/></td>
@@ -330,7 +332,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/huydo862003">
 				<img src="https://avatars.githubusercontent.com/u/139191192?s=72&u=17ce494dab1847de05a0475e8630bcf240aa0090&v=4" width="24" alt="Avatar of huydo862003"> huydo862003
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#huydo862003">Copy rank badge</a><br/>
 			Huy Do Nguyen An
 		</td>
 		<td>No Company</td>
@@ -343,7 +345,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trinhminhtriet">
 				<img src="https://avatars.githubusercontent.com/u/1650997?s=72&u=9abc2c570e589518e913b4d34e3292d3800de60c&v=4" width="24" alt="Avatar of trinhminhtriet"> trinhminhtriet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trinhminhtriet">Copy rank badge</a><br/>
 			Triet Trinh
 		</td>
 		<td>🤖 </td>
@@ -356,7 +358,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/jayden-dang">
 				<img src="https://avatars.githubusercontent.com/u/87081293?s=72&u=b694d25995125c9e81191c251da83ef424a412b4&v=4" width="24" alt="Avatar of jayden-dang"> jayden-dang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#jayden-dang">Copy rank badge</a><br/>
 			Jayden
 		</td>
 		<td>Mysten Labs </td>
@@ -369,7 +371,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoanganh25991">
 				<img src="https://avatars.githubusercontent.com/u/8801188?s=72&u=2b7f7d251a2539b839b485ab64318804aa4d2362&v=4" width="24" alt="Avatar of hoanganh25991"> hoanganh25991
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoanganh25991">Copy rank badge</a><br/>
 			Anh Le
 		</td>
 		<td>Originally Us </td>
@@ -382,7 +384,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ntk148v">
 				<img src="https://avatars.githubusercontent.com/u/10803803?s=72&u=b5ae8e1b9d656f8d9bf227f5ebec5adcc8471bd8&v=4" width="24" alt="Avatar of ntk148v"> ntk148v
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ntk148v">Copy rank badge</a><br/>
 			Kien Nguyen
 		</td>
 		<td>No Company</td>
@@ -395,7 +397,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/mwotton">
 				<img src="https://avatars.githubusercontent.com/u/68482?s=72&v=4" width="24" alt="Avatar of mwotton"> mwotton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#mwotton">Copy rank badge</a><br/>
 			Mark Wotton
 		</td>
 		<td>Hacker At Large </td>
@@ -408,7 +410,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoangchungk53qx1">
 				<img src="https://avatars.githubusercontent.com/u/52132635?s=72&u=8d2722d65972b262cebed1469269a451957b78d5&v=4" width="24" alt="Avatar of hoangchungk53qx1"> hoangchungk53qx1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoangchungk53qx1">Copy rank badge</a><br/>
 			hoangchung
 		</td>
 		<td>No Company</td>
@@ -421,7 +423,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/mrgoonie">
 				<img src="https://avatars.githubusercontent.com/u/6857382?s=72&u=29be15f7d2401625dbfe0506732e1b84465f8c39&v=4" width="24" alt="Avatar of mrgoonie"> mrgoonie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#mrgoonie">Copy rank badge</a><br/>
 			Duy /zuey/
 		</td>
 		<td>@digitopvn  </td>
@@ -434,7 +436,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dynamotn">
 				<img src="https://avatars.githubusercontent.com/u/1969668?s=72&u=887725fdb58653aa336926be37792e50fb77b7f4&v=4" width="24" alt="Avatar of dynamotn"> dynamotn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dynamotn">Copy rank badge</a><br/>
 			Trần Đức Nam
 		</td>
 		<td>@fpt-software </td>
@@ -447,7 +449,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/HSGamer">
 				<img src="https://avatars.githubusercontent.com/u/25300232?s=72&v=4" width="24" alt="Avatar of HSGamer"> HSGamer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#HSGamer">Copy rank badge</a><br/>
 			Huynh Tien
 		</td>
 		<td>No Company</td>
@@ -460,7 +462,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nholuongut">
 				<img src="https://avatars.githubusercontent.com/u/58627821?s=72&u=32e2fcf1422fda2c6a973de4099c94a67fd183a6&v=4" width="24" alt="Avatar of nholuongut"> nholuongut
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nholuongut">Copy rank badge</a><br/>
 			Nho Luong
 		</td>
 		<td>Devops And Platform Services<br/>Lead<br/></td>
@@ -473,7 +475,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoangbits">
 				<img src="https://avatars.githubusercontent.com/u/7990827?s=72&u=4df9c11e5c946288e79f39a967a1336973a7af5e&v=4" width="24" alt="Avatar of hoangbits"> hoangbits
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoangbits">Copy rank badge</a><br/>
 			Le Gia Hoang
 		</td>
 		<td>No Company</td>
@@ -486,7 +488,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/runlevel5">
 				<img src="https://avatars.githubusercontent.com/u/135605?s=72&u=f23ce0931861ed0d0f9bb130568f829c4f50dd61&v=4" width="24" alt="Avatar of runlevel5"> runlevel5
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#runlevel5">Copy rank badge</a><br/>
 			Trung Lê
 		</td>
 		<td>No Company</td>
@@ -499,7 +501,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/NhanPhamThanh-IT">
 				<img src="https://avatars.githubusercontent.com/u/177463642?s=72&u=8d6a2e6c818868e1685e064e9f158862079a7768&v=4" width="24" alt="Avatar of NhanPhamThanh-IT"> NhanPhamThanh-IT
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#NhanPhamThanh-IT">Copy rank badge</a><br/>
 			Nhan Pham Thanh
 		</td>
 		<td>Vnu-hcm University Of Science<br/></td>
@@ -512,7 +514,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hathach">
 				<img src="https://avatars.githubusercontent.com/u/249515?s=72&u=5cc8dcf0f9bb8ea773f3aeb7e0ad0bed574cf37a&v=4" width="24" alt="Avatar of hathach"> hathach
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hathach">Copy rank badge</a><br/>
 			Ha Thach
 		</td>
 		<td>@adafruit  </td>
@@ -525,7 +527,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/beanbocchi">
 				<img src="https://avatars.githubusercontent.com/u/46867018?s=72&u=96db99a8a81c209d85594e5b667e0319f1e1f721&v=4" width="24" alt="Avatar of beanbocchi"> beanbocchi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#beanbocchi">Copy rank badge</a><br/>
 			Khoa Bean
 		</td>
 		<td>@shopnexus  </td>
@@ -538,7 +540,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ndyudev">
 				<img src="https://avatars.githubusercontent.com/u/119422970?s=72&u=9e767c5f9d4bde28ef29654434602b30c6e682de&v=4" width="24" alt="Avatar of ndyudev"> ndyudev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ndyudev">Copy rank badge</a><br/>
 			Nhat Duy Chau
 		</td>
 		<td>No Company</td>
@@ -551,7 +553,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/VienDinhCom">
 				<img src="https://avatars.githubusercontent.com/u/1142799?s=72&u=b2f9e0deddf1227e0758b9f6195bc1a65c5a2fe4&v=4" width="24" alt="Avatar of VienDinhCom"> VienDinhCom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#VienDinhCom">Copy rank badge</a><br/>
 			Viễn Đinh
 		</td>
 		<td>No Company</td>
@@ -564,7 +566,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/sgn">
 				<img src="https://avatars.githubusercontent.com/u/42673067?s=72&u=6984eae4e26e5fb4a35d4e499d2e4beb4990789a&v=4" width="24" alt="Avatar of sgn"> sgn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#sgn">Copy rank badge</a><br/>
 			Đoàn Trần Công Danh
 		</td>
 		<td>No Company</td>
@@ -577,7 +579,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/rilwis">
 				<img src="https://avatars.githubusercontent.com/u/668274?s=72&v=4" width="24" alt="Avatar of rilwis"> rilwis
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#rilwis">Copy rank badge</a><br/>
 			Anh Tran
 		</td>
 		<td>@elightup  </td>
@@ -590,7 +592,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoc081098">
 				<img src="https://avatars.githubusercontent.com/u/36917223?s=72&u=c7281695f8f8f85a2074f1e6bb6d2b565230e93d&v=4" width="24" alt="Avatar of hoc081098"> hoc081098
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoc081098">Copy rank badge</a><br/>
 			Petrus Nguyễn Thái Học
 		</td>
 		<td>@kotlin-android-open @flutter-dart-open-s </td>
@@ -603,7 +605,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dungngminh">
 				<img src="https://avatars.githubusercontent.com/u/63831488?s=72&u=64ca20f7089332eca38ce377403e7e533aa65742&v=4" width="24" alt="Avatar of dungngminh"> dungngminh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dungngminh">Copy rank badge</a><br/>
 			Dzung Nguyen Minh
 		</td>
 		<td>@komkatstudio </td>
@@ -616,7 +618,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dopaemon">
 				<img src="https://avatars.githubusercontent.com/u/43093213?s=72&u=a4e7adc244222208e194371925683c8baa88e5e9&v=4" width="24" alt="Avatar of dopaemon"> dopaemon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dopaemon">Copy rank badge</a><br/>
 			Trần Nguyễn Tuấn Anh
 		</td>
 		<td>Đà Lạt University </td>
@@ -629,7 +631,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/foxminchan">
 				<img src="https://avatars.githubusercontent.com/u/56079798?s=72&u=eedab3615d0a481b06156f4a68068aaa699afe2d&v=4" width="24" alt="Avatar of foxminchan"> foxminchan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#foxminchan">Copy rank badge</a><br/>
 			Nhan Nguyen
 		</td>
 		<td>Kms Technology </td>
@@ -642,7 +644,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vnphanquang">
 				<img src="https://avatars.githubusercontent.com/u/25895844?s=72&u=28fc39426010a0c9c2c8e60220027b527073be55&v=4" width="24" alt="Avatar of vnphanquang"> vnphanquang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vnphanquang">Copy rank badge</a><br/>
 			Quang Phan
 		</td>
 		<td>No Company</td>
@@ -655,7 +657,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/TaQuangKhoi">
 				<img src="https://avatars.githubusercontent.com/u/45689286?s=72&u=c34c6699f77993c7ecc3acaeb0932c7ad8738a54&v=4" width="24" alt="Avatar of TaQuangKhoi"> TaQuangKhoi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#TaQuangKhoi">Copy rank badge</a><br/>
 			Tạ Quang Khôi
 		</td>
 		<td>@true-tech  </td>
@@ -668,7 +670,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hongquan">
 				<img src="https://avatars.githubusercontent.com/u/314607?s=72&v=4" width="24" alt="Avatar of hongquan"> hongquan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hongquan">Copy rank badge</a><br/>
 			Nguyễn Hồng Quân
 		</td>
 		<td>Easyuni </td>
@@ -681,7 +683,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/letientai299">
 				<img src="https://avatars.githubusercontent.com/u/8386780?s=72&u=bc566543abaf97b8f531f6b8743ed15e315ad81d&v=4" width="24" alt="Avatar of letientai299"> letientai299
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#letientai299">Copy rank badge</a><br/>
 			Tai
 		</td>
 		<td>@microsoft  </td>
@@ -694,7 +696,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vutran1710">
 				<img src="https://avatars.githubusercontent.com/u/27060690?s=72&u=4e940a66385934539c68c225a0f1a36e862ad7cb&v=4" width="24" alt="Avatar of vutran1710"> vutran1710
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vutran1710">Copy rank badge</a><br/>
 			Vu Tran
 		</td>
 		<td>Ahoy! </td>
@@ -707,7 +709,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/thangqd">
 				<img src="https://avatars.githubusercontent.com/u/1776420?s=72&u=83b7f06b4e4961690a602845e7d4a1aa280c27c8&v=4" width="24" alt="Avatar of thangqd"> thangqd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#thangqd">Copy rank badge</a><br/>
 			Thang Quach
 		</td>
 		<td>Open Geospatial Hub </td>
@@ -720,7 +722,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/cuong-tran">
 				<img src="https://avatars.githubusercontent.com/u/16017808?s=72&u=4574e44910994813ffdd7e95b6f2b159a7149c22&v=4" width="24" alt="Avatar of cuong-tran"> cuong-tran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#cuong-tran">Copy rank badge</a><br/>
 			Cuong-Tran
 		</td>
 		<td>No Company</td>
@@ -733,7 +735,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/LaansDole">
 				<img src="https://avatars.githubusercontent.com/u/85084360?s=72&u=6a3845b4fb48cc5695ac8b3dec22876506854454&v=4" width="24" alt="Avatar of LaansDole"> LaansDole
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#LaansDole">Copy rank badge</a><br/>
 			Do Le Long An
 		</td>
 		<td>Anzx </td>
@@ -746,7 +748,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hunghg255">
 				<img src="https://avatars.githubusercontent.com/u/42096908?s=72&u=d366a3e242b790d9f1aacab22fe2028ccce0f44d&v=4" width="24" alt="Avatar of hunghg255"> hunghg255
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hunghg255">Copy rank badge</a><br/>
 			Hung Hoang
 		</td>
 		<td>@agiletech-web-dev </td>
@@ -759,7 +761,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/bluzky">
 				<img src="https://avatars.githubusercontent.com/u/6194779?s=72&u=85c4745d11abfedf3423b8dc7dfe1f960dd13ab3&v=4" width="24" alt="Avatar of bluzky"> bluzky
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#bluzky">Copy rank badge</a><br/>
 			Dung Nguyen
 		</td>
 		<td>Onpoint </td>
@@ -772,7 +774,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/danhtran2mind">
 				<img src="https://avatars.githubusercontent.com/u/179741572?s=72&u=58fb2467d7ab1f23a15785d403d6da3a87681c4f&v=4" width="24" alt="Avatar of danhtran2mind"> danhtran2mind
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#danhtran2mind">Copy rank badge</a><br/>
 			Danh Tran
 		</td>
 		<td>No Company</td>
@@ -785,7 +787,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/fisherman611">
 				<img src="https://avatars.githubusercontent.com/u/117010350?s=72&u=100f820d635243e1288f3f1bfc797e8ee164559d&v=4" width="24" alt="Avatar of fisherman611"> fisherman611
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#fisherman611">Copy rank badge</a><br/>
 			Luong Huu Thanh
 		</td>
 		<td>Hust </td>
@@ -798,7 +800,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hadv">
 				<img src="https://avatars.githubusercontent.com/u/941411?s=72&u=6af3a2eac9acc81d034f598290ca4e34f720b498&v=4" width="24" alt="Avatar of hadv"> hadv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hadv">Copy rank badge</a><br/>
 			Ha DANG 
 		</td>
 		<td>Ðξv </td>
@@ -811,7 +813,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/minhhungit">
 				<img src="https://avatars.githubusercontent.com/u/2279508?s=72&u=e537977b2a02123d2bf5654d26ba7e733a4a85d7&v=4" width="24" alt="Avatar of minhhungit"> minhhungit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#minhhungit">Copy rank badge</a><br/>
 			Jin
 		</td>
 		<td>No Company</td>
@@ -824,7 +826,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/AutumnVN">
 				<img src="https://avatars.githubusercontent.com/u/77253698?s=72&u=317e8cae7cde3a1642e02696695500f76f35d500&v=4" width="24" alt="Avatar of AutumnVN"> AutumnVN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#AutumnVN">Copy rank badge</a><br/>
 			AutumnVN
 		</td>
 		<td>No Company</td>
@@ -837,7 +839,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/duongductrong">
 				<img src="https://avatars.githubusercontent.com/u/39333905?s=72&u=91b263a4912057e9116b78412bc54dbf580507f0&v=4" width="24" alt="Avatar of duongductrong"> duongductrong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#duongductrong">Copy rank badge</a><br/>
 			Trong Duong
 		</td>
 		<td>Vng / Zalopay </td>
@@ -850,7 +852,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ailabteam">
 				<img src="https://avatars.githubusercontent.com/u/39088117?s=72&u=c7885c478f07cb282a3da7f55d5dd9650e0a0fe5&v=4" width="24" alt="Avatar of ailabteam"> ailabteam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ailabteam">Copy rank badge</a><br/>
 			Do Phuc Hao
 		</td>
 		<td>Da Nang </td>
@@ -863,7 +865,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/huynhtrankhanh">
 				<img src="https://avatars.githubusercontent.com/u/61727983?s=72&u=6b9e4b2a73ab9e5f223767a7db6c77b9a6adf68b&v=4" width="24" alt="Avatar of huynhtrankhanh"> huynhtrankhanh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#huynhtrankhanh">Copy rank badge</a><br/>
 			Huỳnh Trần Khanh
 		</td>
 		<td>@rocq-community  </td>
@@ -876,7 +878,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/imduchuyyy">
 				<img src="https://avatars.githubusercontent.com/u/53326016?s=72&u=8b859d2acd2e114a266dde52a5e63dccfd4c3287&v=4" width="24" alt="Avatar of imduchuyyy"> imduchuyyy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#imduchuyyy">Copy rank badge</a><br/>
 			imduchuyyy 🐬
 		</td>
 		<td>@imduchuyyy </td>
@@ -889,7 +891,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hmthanh">
 				<img src="https://avatars.githubusercontent.com/u/8927701?s=72&u=2d80b7b2380f8d000cade9b47e67c829c7969a5b&v=4" width="24" alt="Avatar of hmthanh"> hmthanh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hmthanh">Copy rank badge</a><br/>
 			Thanh Hoang-Minh
 		</td>
 		<td>Openhuman </td>
@@ -902,7 +904,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/zxstim">
 				<img src="https://avatars.githubusercontent.com/u/24771569?s=72&u=7d5642e1054f19a360f2ce622b05ea8f4359b053&v=4" width="24" alt="Avatar of zxstim"> zxstim
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#zxstim">Copy rank badge</a><br/>
 			ZxStim
 		</td>
 		<td>No Company</td>
@@ -915,7 +917,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/daohoangson">
 				<img src="https://avatars.githubusercontent.com/u/239336?s=72&v=4" width="24" alt="Avatar of daohoangson"> daohoangson
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#daohoangson">Copy rank badge</a><br/>
 			Đào Hoàng Sơn
 		</td>
 		<td>No Company</td>
@@ -928,7 +930,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/zlatanpham">
 				<img src="https://avatars.githubusercontent.com/u/12707960?s=72&u=ddb70bfb798e5f7c6e0fcbb363cf39ef5651fa28&v=4" width="24" alt="Avatar of zlatanpham"> zlatanpham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#zlatanpham">Copy rank badge</a><br/>
 			Thanh Pham
 		</td>
 		<td>No Company</td>
@@ -941,7 +943,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoangtien2k3">
 				<img src="https://avatars.githubusercontent.com/u/122768076?s=72&u=879a9841760af8e0dfafc0b9cc9a2cd5a833c771&v=4" width="24" alt="Avatar of hoangtien2k3"> hoangtien2k3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoangtien2k3">Copy rank badge</a><br/>
 			Hoàng Anh Tiến
 		</td>
 		<td>Viettel Software </td>
@@ -954,7 +956,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ntthanh2603">
 				<img src="https://avatars.githubusercontent.com/u/179988526?s=72&u=cca0383d15ee40e2cdcd403090840b5e57fc85a1&v=4" width="24" alt="Avatar of ntthanh2603"> ntthanh2603
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ntthanh2603">Copy rank badge</a><br/>
 			Nguyễn Tuấn Thành
 		</td>
 		<td>@oasm-platform </td>
@@ -967,7 +969,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/MaiDinhVinh">
 				<img src="https://avatars.githubusercontent.com/u/108355711?s=72&u=cf2d28484661ea5b03450ca0e1e131577f69a87e&v=4" width="24" alt="Avatar of MaiDinhVinh"> MaiDinhVinh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#MaiDinhVinh">Copy rank badge</a><br/>
 			DucksaberVN
 		</td>
 		<td>No Company</td>
@@ -980,7 +982,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/locchh">
 				<img src="https://avatars.githubusercontent.com/u/73679364?s=72&u=f1f823f8fc4f52207efab19563734f07a7535b2a&v=4" width="24" alt="Avatar of locchh"> locchh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#locchh">Copy rank badge</a><br/>
 			LocCH
 		</td>
 		<td>@iteam1  </td>
@@ -993,7 +995,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/monokaijs">
 				<img src="https://avatars.githubusercontent.com/u/42785824?s=72&u=18c938edd813f61c8260f4951c96ceb80f0449ae&v=4" width="24" alt="Avatar of monokaijs"> monokaijs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#monokaijs">Copy rank badge</a><br/>
 			Nguyễn Anh Nhân
 		</td>
 		<td>Creaton </td>
@@ -1006,7 +1008,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/bxdoan">
 				<img src="https://avatars.githubusercontent.com/u/17973436?s=72&u=13188d62bb1ea5804d789dd7fa9f2c4980e9d17e&v=4" width="24" alt="Avatar of bxdoan"> bxdoan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#bxdoan">Copy rank badge</a><br/>
 			Doan Bui
 		</td>
 		<td>No Company</td>
@@ -1019,7 +1021,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Mefodei">
 				<img src="https://avatars.githubusercontent.com/u/7457166?s=72&u=d9b638255086d804b9f093365d69c70e8c970915&v=4" width="24" alt="Avatar of Mefodei"> Mefodei
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Mefodei">Copy rank badge</a><br/>
 			Mefodei
 		</td>
 		<td>Unigame </td>
@@ -1032,7 +1034,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/heyhuynhgiabuu">
 				<img src="https://avatars.githubusercontent.com/u/111694395?s=72&u=c195fe8541867a403e4d36db70b0065c627d4763&v=4" width="24" alt="Avatar of heyhuynhgiabuu"> heyhuynhgiabuu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#heyhuynhgiabuu">Copy rank badge</a><br/>
 			Huynh Gia Buu
 		</td>
 		<td>No Company</td>
@@ -1045,7 +1047,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vanducng">
 				<img src="https://avatars.githubusercontent.com/u/2980905?s=72&u=eea3944d3c610cc35062b0cc1c3466216242cb8f&v=4" width="24" alt="Avatar of vanducng"> vanducng
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vanducng">Copy rank badge</a><br/>
 			Duc Nguyen
 		</td>
 		<td>Dataplanelabs </td>
@@ -1058,7 +1060,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/LiuQBinh">
 				<img src="https://avatars.githubusercontent.com/u/34769433?s=72&u=668a073fbf3a038a7096d67539238fa26fd38f3d&v=4" width="24" alt="Avatar of LiuQBinh"> LiuQBinh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#LiuQBinh">Copy rank badge</a><br/>
 			Lưu Quốc Bình
 		</td>
 		<td>Ggjungle </td>
@@ -1071,7 +1073,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/AlexisDrogoul">
 				<img src="https://avatars.githubusercontent.com/u/579256?s=72&u=8dcbecc04ed787957df59cabc34d595e0457fd6a&v=4" width="24" alt="Avatar of AlexisDrogoul"> AlexisDrogoul
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#AlexisDrogoul">Copy rank badge</a><br/>
 			Alexis Drogoul
 		</td>
 		<td>Ird </td>
@@ -1084,7 +1086,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tunguyenn99">
 				<img src="https://avatars.githubusercontent.com/u/127782708?s=72&u=36e706e53ccb4fb59935d2cab0cd5b2e0f194bc5&v=4" width="24" alt="Avatar of tunguyenn99"> tunguyenn99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tunguyenn99">Copy rank badge</a><br/>
 			Tu Nguyen
 		</td>
 		<td>Tnex Finance </td>
@@ -1097,7 +1099,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/haiyamicode">
 				<img src="https://avatars.githubusercontent.com/u/1481666?s=72&u=1faf7cd5d8a7882bfa26670f3c5d14c7bc2ed4df&v=4" width="24" alt="Avatar of haiyamicode"> haiyamicode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#haiyamicode">Copy rank badge</a><br/>
 			Haiyami
 		</td>
 		<td>No Company</td>
@@ -1110,7 +1112,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trieu">
 				<img src="https://avatars.githubusercontent.com/u/1825784?s=72&u=7317ad5ea7c35cd833edc6af2abdaf0406edaa92&v=4" width="24" alt="Avatar of trieu"> trieu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trieu">Copy rank badge</a><br/>
 			Trieu Nguyen
 		</td>
 		<td>@open-theta @rfxlab @uspa-technology @bigdatavietnam-org<br/><br/></td>
@@ -1123,7 +1125,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Landon153">
 				<img src="https://avatars.githubusercontent.com/u/43365714?s=72&u=04cb46ee367838a64f7599ef631893e78562a9e9&v=4" width="24" alt="Avatar of Landon153"> Landon153
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Landon153">Copy rank badge</a><br/>
 			Nguyễn Thành Đạt - Landon
 		</td>
 		<td>Standage Inc. </td>
@@ -1136,7 +1138,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vanhoangkha">
 				<img src="https://avatars.githubusercontent.com/u/115985856?s=72&u=9e781829d48db167b3cadaf1469f603ea4b65638&v=4" width="24" alt="Avatar of vanhoangkha"> vanhoangkha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vanhoangkha">Copy rank badge</a><br/>
 			Van Hoang Kha
 		</td>
 		<td>@aws-first-cloud-jou  </td>
@@ -1149,7 +1151,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hgiasac">
 				<img src="https://avatars.githubusercontent.com/u/1615675?s=72&u=668a81c25fb331f5ac0d7b3c8b193d85aa78a594&v=4" width="24" alt="Avatar of hgiasac"> hgiasac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hgiasac">Copy rank badge</a><br/>
 			Toan Nguyen 
 		</td>
 		<td>@hasura  </td>
@@ -1162,7 +1164,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hckhanh">
 				<img src="https://avatars.githubusercontent.com/u/6380436?s=72&u=8e2b1fb00710fc81a4ac2d84d09166264b820ad4&v=4" width="24" alt="Avatar of hckhanh"> hckhanh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hckhanh">Copy rank badge</a><br/>
 			Khánh Hoàng
 		</td>
 		<td>@untab-net </td>
@@ -1175,7 +1177,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/khanhicetea">
 				<img src="https://avatars.githubusercontent.com/u/4528223?s=72&u=59b2074c3aa8f1f3db2448b39fb7e2733b972ce9&v=4" width="24" alt="Avatar of khanhicetea"> khanhicetea
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#khanhicetea">Copy rank badge</a><br/>
 			KhanhIceTea
 		</td>
 		<td>I Work For No<br/>One<br/>But<br/>Human<br/></td>
@@ -1188,7 +1190,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/kakserpom">
 				<img src="https://avatars.githubusercontent.com/u/175350?s=72&u=d44a6918331749323885aa85fe7fb3b896780466&v=4" width="24" alt="Avatar of kakserpom"> kakserpom
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#kakserpom">Copy rank badge</a><br/>
 			Vasily Zorin
 		</td>
 		<td>No Company</td>
@@ -1201,7 +1203,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/simonpham">
 				<img src="https://avatars.githubusercontent.com/u/8846657?s=72&u=2aa889db18deddcffffa3bc624698c89566e6fff&v=4" width="24" alt="Avatar of simonpham"> simonpham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#simonpham">Copy rank badge</a><br/>
 			Simon Pham
 		</td>
 		<td>@sofluffyos </td>
@@ -1214,7 +1216,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/HongThinhThinh">
 				<img src="https://avatars.githubusercontent.com/u/92373540?s=72&u=66b92b27651750e2b4fb18b38f25f996d02ef700&v=4" width="24" alt="Avatar of HongThinhThinh"> HongThinhThinh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#HongThinhThinh">Copy rank badge</a><br/>
 			Hong Thinh Nguyen
 		</td>
 		<td>Fpt University </td>
@@ -1227,7 +1229,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/jaredallard">
 				<img src="https://avatars.githubusercontent.com/u/2391349?s=72&u=9f5e07c07ffe4aeb52bce85182909b0a036046ac&v=4" width="24" alt="Avatar of jaredallard"> jaredallard
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#jaredallard">Copy rank badge</a><br/>
 			Jared Allard
 		</td>
 		<td>@jaredallard-laurel </td>
@@ -1240,7 +1242,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/fongfan999">
 				<img src="https://avatars.githubusercontent.com/u/13912857?s=72&u=e0a3d63294420065497de5d822d985cecda4e38c&v=4" width="24" alt="Avatar of fongfan999"> fongfan999
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#fongfan999">Copy rank badge</a><br/>
 			Phong Phan
 		</td>
 		<td>No Company</td>
@@ -1253,7 +1255,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/loclv">
 				<img src="https://avatars.githubusercontent.com/u/6302717?s=72&u=e966acaf8acc30c2e8e863af34418c8f71ad1a3a&v=4" width="24" alt="Avatar of loclv"> loclv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#loclv">Copy rank badge</a><br/>
 			loclv
 		</td>
 		<td>Dopana.com </td>
@@ -1266,7 +1268,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ultimateBroK">
 				<img src="https://avatars.githubusercontent.com/u/67256125?s=72&u=2033ee5b478b6e267d3adde33122da77791b31b0&v=4" width="24" alt="Avatar of ultimateBroK"> ultimateBroK
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ultimateBroK">Copy rank badge</a><br/>
 			Hieu Nguyen
 		</td>
 		<td>No Company</td>
@@ -1279,7 +1281,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/thuandt">
 				<img src="https://avatars.githubusercontent.com/u/847996?s=72&v=4" width="24" alt="Avatar of thuandt"> thuandt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#thuandt">Copy rank badge</a><br/>
 			Thuan Duong
 		</td>
 		<td>@ubuntu-vn  </td>
@@ -1292,7 +1294,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/swyrin">
 				<img src="https://avatars.githubusercontent.com/u/41561710?s=72&u=0822222c2ffd76053c07625651895a6ad7847334&v=4" width="24" alt="Avatar of swyrin"> swyrin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#swyrin">Copy rank badge</a><br/>
 			Tien Dat Pham
 		</td>
 		<td>No Company</td>
@@ -1305,7 +1307,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/strawberrymilktea0604">
 				<img src="https://avatars.githubusercontent.com/u/189575799?s=72&u=10bf49337db74f9342900da1cf1bebc99864564b&v=4" width="24" alt="Avatar of strawberrymilktea0604"> strawberrymilktea0604
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#strawberrymilktea0604">Copy rank badge</a><br/>
 			Lã Minh Khánh
 		</td>
 		<td>Hanoi University Of Civil<br/>Engineering<br/></td>
@@ -1318,7 +1320,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hudy9x">
 				<img src="https://avatars.githubusercontent.com/u/95471659?s=72&u=b45ecc2e52f137b69e8d50b6646112570bb92bcd&v=4" width="24" alt="Avatar of hudy9x"> hudy9x
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hudy9x">Copy rank badge</a><br/>
 			hudy9x
 		</td>
 		<td>No Company</td>
@@ -1331,7 +1333,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/maxrave-dev">
 				<img src="https://avatars.githubusercontent.com/u/113747128?s=72&u=deecc30b5dc87bd3f5641f8c0bec4bb01f745703&v=4" width="24" alt="Avatar of maxrave-dev"> maxrave-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#maxrave-dev">Copy rank badge</a><br/>
 			Nguyễn Đức Tuấn Minh
 		</td>
 		<td>No Company </td>
@@ -1344,7 +1346,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/rain1024">
 				<img src="https://avatars.githubusercontent.com/u/1780281?s=72&v=4" width="24" alt="Avatar of rain1024"> rain1024
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#rain1024">Copy rank badge</a><br/>
 			Vu Anh
 		</td>
 		<td>@undertheseanlp  </td>
@@ -1357,7 +1359,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/chau-nm">
 				<img src="https://avatars.githubusercontent.com/u/91469379?s=72&u=6a2ab245042682cfe64c34505dfd3f532fe52631&v=4" width="24" alt="Avatar of chau-nm"> chau-nm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#chau-nm">Copy rank badge</a><br/>
 			Nguyễn Minh Châu
 		</td>
 		<td>No Company</td>
@@ -1370,7 +1372,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/VoDaiLocz">
 				<img src="https://avatars.githubusercontent.com/u/88762074?s=72&u=bb115455bda0747cb696761f5892c3e5b88d1fcd&v=4" width="24" alt="Avatar of VoDaiLocz"> VoDaiLocz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#VoDaiLocz">Copy rank badge</a><br/>
 			Võ Đại Lộc
 		</td>
 		<td>Đại Học Quy Nhơn<br/></td>
@@ -1383,7 +1385,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vietanhdev">
 				<img src="https://avatars.githubusercontent.com/u/18329471?s=72&u=d5b3f72514ac88a86bd53d49879c61f447794b34&v=4" width="24" alt="Avatar of vietanhdev"> vietanhdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vietanhdev">Copy rank badge</a><br/>
 			Viet-Anh NGUYEN
 		</td>
 		<td>Scopic </td>
@@ -1396,7 +1398,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/topnguyen">
 				<img src="https://avatars.githubusercontent.com/u/15808788?s=72&u=7e85b2c7499987114982d1a23a4969d2f957a6c4&v=4" width="24" alt="Avatar of topnguyen"> topnguyen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#topnguyen">Copy rank badge</a><br/>
 			Top Nguyen
 		</td>
 		<td>No Company</td>
@@ -1409,7 +1411,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/duongdev">
 				<img src="https://avatars.githubusercontent.com/u/9253690?s=72&u=49243b8271208c1e9b150ceb82140d8fd6e5aa95&v=4" width="24" alt="Avatar of duongdev"> duongdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#duongdev">Copy rank badge</a><br/>
 			Dustin Do
 		</td>
 		<td>No Company</td>
@@ -1422,7 +1424,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/T-Sunm">
 				<img src="https://avatars.githubusercontent.com/u/110208482?s=72&u=4a1f9ea33c441e39a429e77306bbf0fc697e9615&v=4" width="24" alt="Avatar of T-Sunm"> T-Sunm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#T-Sunm">Copy rank badge</a><br/>
 			Trần Quang Minh
 		</td>
 		<td>No Company</td>
@@ -1435,7 +1437,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nguyenphutrong">
 				<img src="https://avatars.githubusercontent.com/u/62984954?s=72&u=fd0a0532d32c359a08621a27a18bdc7b17797ccd&v=4" width="24" alt="Avatar of nguyenphutrong"> nguyenphutrong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nguyenphutrong">Copy rank badge</a><br/>
 			Trong Nguyen
 		</td>
 		<td>No Company</td>
@@ -1448,7 +1450,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tranlynhathao">
 				<img src="https://avatars.githubusercontent.com/u/118340413?s=72&u=2a87ff0b2e47102cb8934748f029c4f9e83767de&v=4" width="24" alt="Avatar of tranlynhathao"> tranlynhathao
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tranlynhathao">Copy rank badge</a><br/>
 			Nhat-Hao Tran-Ly
 		</td>
 		<td>Fit@university Of Science, Vnuhcm<br/></td>
@@ -1461,7 +1463,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/func25">
 				<img src="https://avatars.githubusercontent.com/u/39565248?s=72&u=0a929f5caaaa4ede923184e5a6cbbb10d20ce168&v=4" width="24" alt="Avatar of func25"> func25
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#func25">Copy rank badge</a><br/>
 			Phuong Le
 		</td>
 		<td>Victoriametrics </td>
@@ -1474,7 +1476,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/minhlucvan">
 				<img src="https://avatars.githubusercontent.com/u/11575076?s=72&u=ca96162da4eec919e67b57cc92824d19a03da74f&v=4" width="24" alt="Avatar of minhlucvan"> minhlucvan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#minhlucvan">Copy rank badge</a><br/>
 			Minh Luc Van
 		</td>
 		<td>Nccplus </td>
@@ -1487,7 +1489,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/justanoobcoder">
 				<img src="https://avatars.githubusercontent.com/u/57614330?s=72&u=4ec187685283997a43ac15c9a9fcc75dfc46d8fb&v=4" width="24" alt="Avatar of justanoobcoder"> justanoobcoder
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#justanoobcoder">Copy rank badge</a><br/>
 			Nguyễn Hồng Hiệp
 		</td>
 		<td>Fpt University </td>
@@ -1500,7 +1502,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/DuyetBKU">
 				<img src="https://avatars.githubusercontent.com/u/181817089?s=72&u=84f234921f631b082ededdbc7f90e2d3160f5511&v=4" width="24" alt="Avatar of DuyetBKU"> DuyetBKU
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#DuyetBKU">Copy rank badge</a><br/>
 			DuyetBKU
 		</td>
 		<td>Hcm University Of Technology<br/>-<br/>ホーチミン市工科大学<br/></td>
@@ -1513,7 +1515,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ViegPhunt">
 				<img src="https://avatars.githubusercontent.com/u/92231102?s=72&u=875546787e7e814be33f4cb174c866fa16a8d717&v=4" width="24" alt="Avatar of ViegPhunt"> ViegPhunt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ViegPhunt">Copy rank badge</a><br/>
 			Phùng Quốc Việt
 		</td>
 		<td>No Company</td>
@@ -1526,7 +1528,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuanle96">
 				<img src="https://avatars.githubusercontent.com/u/23079288?s=72&u=c1d039afc06d428bd96b90c41d85c2ebd78a1524&v=4" width="24" alt="Avatar of tuanle96"> tuanle96
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tuanle96">Copy rank badge</a><br/>
 			Lê Anh Tuấn
 		</td>
 		<td>No Company</td>
@@ -1539,7 +1541,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/solairerove">
 				<img src="https://avatars.githubusercontent.com/u/9396988?s=72&u=7cd5d28d5c559ed50e4e986e8334094decc9e490&v=4" width="24" alt="Avatar of solairerove"> solairerove
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#solairerove">Copy rank badge</a><br/>
 			Mikita Kryvitski
 		</td>
 		<td>Trading Risk Management At<br/>Sporty<br/>Group<br/></td>
@@ -1552,7 +1554,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/VennDev">
 				<img src="https://avatars.githubusercontent.com/u/111500380?s=72&u=a146e532b2a15e84ae184e5e536b3d05f60c9111&v=4" width="24" alt="Avatar of VennDev"> VennDev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#VennDev">Copy rank badge</a><br/>
 			VennV
 		</td>
 		<td>Home </td>
@@ -1565,7 +1567,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/VietND96">
 				<img src="https://avatars.githubusercontent.com/u/23253546?s=72&u=78bfa7d23886f0ad667ba5b8013c366535c23b41&v=4" width="24" alt="Avatar of VietND96"> VietND96
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#VietND96">Copy rank badge</a><br/>
 			Viet Nguyen Duc
 		</td>
 		<td>@katalon-studio </td>
@@ -1578,7 +1580,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ElectroHeavenVN">
 				<img src="https://avatars.githubusercontent.com/u/98677996?s=72&u=4e99fad25e62c640311fad3eec66c9c26b35c633&v=4" width="24" alt="Avatar of ElectroHeavenVN"> ElectroHeavenVN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ElectroHeavenVN">Copy rank badge</a><br/>
 			Dinh Cong Thanh
 		</td>
 		<td>Fpt University </td>
@@ -1591,7 +1593,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/terranweb3">
 				<img src="https://avatars.githubusercontent.com/u/110960575?s=72&u=0179319e1561205c3b3a89de114ea5d5de2b4102&v=4" width="24" alt="Avatar of terranweb3"> terranweb3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#terranweb3">Copy rank badge</a><br/>
 			Thai Pham Ngoc Tuong
 		</td>
 		<td>No Company</td>
@@ -1604,7 +1606,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/paul-phan">
 				<img src="https://avatars.githubusercontent.com/u/11459809?s=72&u=ac710b5b6a9bda4db75e304d7a3eb5b443fba1d0&v=4" width="24" alt="Avatar of paul-phan"> paul-phan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#paul-phan">Copy rank badge</a><br/>
 			Minh Phan (Paul)
 		</td>
 		<td>Weaverse </td>
@@ -1617,7 +1619,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/i-am-truong">
 				<img src="https://avatars.githubusercontent.com/u/120640662?s=72&u=1e0f6eb13ee2872dab727cf1aff870fa54385905&v=4" width="24" alt="Avatar of i-am-truong"> i-am-truong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#i-am-truong">Copy rank badge</a><br/>
 			Bernie Truong
 		</td>
 		<td>@fu-js </td>
@@ -1630,7 +1632,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vndee">
 				<img src="https://avatars.githubusercontent.com/u/28271488?s=72&u=5bc792bd63391b3a5986e1996fc191867f55ff26&v=4" width="24" alt="Avatar of vndee"> vndee
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vndee">Copy rank badge</a><br/>
 			Duy Huynh
 		</td>
 		<td>Looking For The Next<br/>Cool<br/>Idea<br/></td>
@@ -1643,7 +1645,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hUwUtao">
 				<img src="https://avatars.githubusercontent.com/u/32933514?s=72&u=660db38e007dfcdd17811d68bc42ea84707cb2c5&v=4" width="24" alt="Avatar of hUwUtao"> hUwUtao
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hUwUtao">Copy rank badge</a><br/>
 			stdpi
 		</td>
 		<td>Random Ossin @team-fuho @langduamc<br/>@thiccmc<br/></td>
@@ -1656,7 +1658,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/kon-rad">
 				<img src="https://avatars.githubusercontent.com/u/19414083?s=72&u=60e0c577c356896888ec7775374ee406cbed0731&v=4" width="24" alt="Avatar of kon-rad"> kon-rad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#kon-rad">Copy rank badge</a><br/>
 			Konrad Gnat
 		</td>
 		<td>Visionslist.com </td>
@@ -1669,7 +1671,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/A">
 				<img src="https://avatars.githubusercontent.com/u/1410106?s=72&u=33e416fb9551313cab3d4e9a87fcf073211ab28a&v=4" width="24" alt="Avatar of A"> A
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#A">Copy rank badge</a><br/>
 			Anton
 		</td>
 		<td>No Company</td>
@@ -1682,7 +1684,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/bazzi24">
 				<img src="https://avatars.githubusercontent.com/u/136590069?s=72&u=0113a08f552ce12bebf23b248fcd3745c0a10345&v=4" width="24" alt="Avatar of bazzi24"> bazzi24
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#bazzi24">Copy rank badge</a><br/>
 			Bazzi Tr
 		</td>
 		<td>No Company</td>
@@ -1695,7 +1697,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vuon9">
 				<img src="https://avatars.githubusercontent.com/u/3168632?s=72&u=d5f92d301aea3821711b8d53a2834c6d1210b0f8&v=4" width="24" alt="Avatar of vuon9"> vuon9
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vuon9">Copy rank badge</a><br/>
 			Vuong Bui
 		</td>
 		<td>No Company</td>
@@ -1708,7 +1710,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vkhangstack">
 				<img src="https://avatars.githubusercontent.com/u/30096870?s=72&u=70fc6c899dd86dd6b1c030148525e63becd77304&v=4" width="24" alt="Avatar of vkhangstack"> vkhangstack
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vkhangstack">Copy rank badge</a><br/>
 			Pham Van Khang
 		</td>
 		<td>Intelin Technology Joint Stock<br/>Company<br/>(st<br/>Group)<br/></td>
@@ -1721,7 +1723,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/aiko-chan-ai">
 				<img src="https://avatars.githubusercontent.com/u/71698422?s=72&u=12bde7cb008f05449da30e1bbceccddad4e7507e&v=4" width="24" alt="Avatar of aiko-chan-ai"> aiko-chan-ai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#aiko-chan-ai">Copy rank badge</a><br/>
 			Elysia
 		</td>
 		<td>;-; </td>
@@ -1734,7 +1736,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nhat-tien">
 				<img src="https://avatars.githubusercontent.com/u/104966222?s=72&u=6ba0eddc1b318da32801483f9a43925341ee5948&v=4" width="24" alt="Avatar of nhat-tien"> nhat-tien
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nhat-tien">Copy rank badge</a><br/>
 			Le Dang Nhat Tien
 		</td>
 		<td>No Company</td>
@@ -1747,7 +1749,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trgtanhh04">
 				<img src="https://avatars.githubusercontent.com/u/131262099?s=72&u=39c33b777cf919abfb9dfe548d2a884a1f99af83&v=4" width="24" alt="Avatar of trgtanhh04"> trgtanhh04
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trgtanhh04">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>University Of Science -<br/>Vnuhcm<br/></td>
@@ -1760,7 +1762,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dinhhuy258">
 				<img src="https://avatars.githubusercontent.com/u/17776979?s=72&u=7d55b223fdd27d4d80d320c57e3d3e959cc80a31&v=4" width="24" alt="Avatar of dinhhuy258"> dinhhuy258
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dinhhuy258">Copy rank badge</a><br/>
 			Huy Duong
 		</td>
 		<td>No Company</td>
@@ -1773,7 +1775,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/sangnguyenplus">
 				<img src="https://avatars.githubusercontent.com/u/6972407?s=72&u=4df1c8e5ce769e28e8d99fcd7cfa19bf9e72d306&v=4" width="24" alt="Avatar of sangnguyenplus"> sangnguyenplus
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#sangnguyenplus">Copy rank badge</a><br/>
 			Sang Nguyen
 		</td>
 		<td>@botble - Botble Technologies<br/></td>
@@ -1786,7 +1788,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/qnkhuat">
 				<img src="https://avatars.githubusercontent.com/u/25661381?s=72&u=2817fa9a4ea85c20a9678e554370598b22286f63&v=4" width="24" alt="Avatar of qnkhuat"> qnkhuat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#qnkhuat">Copy rank badge</a><br/>
 			Ngoc Khuat
 		</td>
 		<td>@metabase </td>
@@ -1799,7 +1801,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dinhlongviolin1">
 				<img src="https://avatars.githubusercontent.com/u/45910030?s=72&u=5775406a4ac449fbdf758b92aecc6ac1d347b7dc&v=4" width="24" alt="Avatar of dinhlongviolin1"> dinhlongviolin1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dinhlongviolin1">Copy rank badge</a><br/>
 			Dinh Long Nguyen
 		</td>
 		<td>Menlo Research </td>
@@ -1812,7 +1814,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nhattran998">
 				<img src="https://avatars.githubusercontent.com/u/24296018?s=72&u=c2e2475fdabfbf3d63b38d5ff1a77214254d0b2d&v=4" width="24" alt="Avatar of nhattran998"> nhattran998
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nhattran998">Copy rank badge</a><br/>
 			Nhat Tran
 		</td>
 		<td>Investall </td>
@@ -1825,7 +1827,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ngothanhtung">
 				<img src="https://avatars.githubusercontent.com/u/6895743?s=72&u=5465d7684be7edc120a3ed9e35fa5f1a91a67bd0&v=4" width="24" alt="Avatar of ngothanhtung"> ngothanhtung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ngothanhtung">Copy rank badge</a><br/>
 			Ngô Thanh Tùng
 		</td>
 		<td>Softech Corporation </td>
@@ -1838,7 +1840,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/VoidKeishi">
 				<img src="https://avatars.githubusercontent.com/u/118616093?s=72&u=91000c16d0d4e555396da0c7d7053c032ce6cf8f&v=4" width="24" alt="Avatar of VoidKeishi"> VoidKeishi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#VoidKeishi">Copy rank badge</a><br/>
 			VoidKeishi
 		</td>
 		<td>No Company</td>
@@ -1851,7 +1853,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/giautm">
 				<img src="https://avatars.githubusercontent.com/u/12751435?s=72&u=dffb8c83fb3bd3890d88bfde6e640248da3e1b78&v=4" width="24" alt="Avatar of giautm"> giautm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#giautm">Copy rank badge</a><br/>
 			Giau. Tran Minh
 		</td>
 		<td>@ariga </td>
@@ -1864,7 +1866,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/khang-nd">
 				<img src="https://avatars.githubusercontent.com/u/55619201?s=72&u=e5c1232f7ec6a67e088ea01bc1a91b8a8116bf5b&v=4" width="24" alt="Avatar of khang-nd"> khang-nd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#khang-nd">Copy rank badge</a><br/>
 			Khang
 		</td>
 		<td>@unioslight </td>
@@ -1877,7 +1879,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/giaosudau">
 				<img src="https://avatars.githubusercontent.com/u/539238?s=72&v=4" width="24" alt="Avatar of giaosudau"> giaosudau
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#giaosudau">Copy rank badge</a><br/>
 			Chanh Le
 		</td>
 		<td>No Company</td>
@@ -1890,7 +1892,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/khoipro">
 				<img src="https://avatars.githubusercontent.com/u/10395311?s=72&u=e4ea41ee472cd13b800b2894cd51dc17dd9db72b&v=4" width="24" alt="Avatar of khoipro"> khoipro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#khoipro">Copy rank badge</a><br/>
 			Nguyễn Minh Khôi
 		</td>
 		<td>@codetot  </td>
@@ -1903,7 +1905,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuananh">
 				<img src="https://avatars.githubusercontent.com/u/627278?s=72&u=a3a571d98b42a9a38b28f36c724475a2804102fd&v=4" width="24" alt="Avatar of tuananh"> tuananh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tuananh">Copy rank badge</a><br/>
 			Tuan Anh Tran
 		</td>
 		<td>Prev. Techcombank, Teko, Mytour,<br/>Goquo,<br/>Hotelquickly<br/></td>
@@ -1916,7 +1918,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoanganhtuan95ptit">
 				<img src="https://avatars.githubusercontent.com/u/32215600?s=72&u=4f7df15e2d33ffff3f8b13f20d1d4aad19e4b3d1&v=4" width="24" alt="Avatar of hoanganhtuan95ptit"> hoanganhtuan95ptit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoanganhtuan95ptit">Copy rank badge</a><br/>
 			Hoàng Anh Tuấn
 		</td>
 		<td>Kyber Network </td>
@@ -1929,7 +1931,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/NhanAZ">
 				<img src="https://avatars.githubusercontent.com/u/60387689?s=72&u=da6e3acb88c4e847a143d2270cf1a162156b2ff3&v=4" width="24" alt="Avatar of NhanAZ"> NhanAZ
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#NhanAZ">Copy rank badge</a><br/>
 			Thành Nhân
 		</td>
 		<td>No Company</td>
@@ -1942,7 +1944,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/pnnbao97">
 				<img src="https://avatars.githubusercontent.com/u/179232022?s=72&u=a3834417eefe2e1bc7f7d3cb53c5e0a44ddae6f1&v=4" width="24" alt="Avatar of pnnbao97"> pnnbao97
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#pnnbao97">Copy rank badge</a><br/>
 			Pham Nguyen Ngoc Bao
 		</td>
 		<td>Nhan Dan Gia Dinh<br/>Hospital<br/></td>
@@ -1955,7 +1957,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/TropicalDog17">
 				<img src="https://avatars.githubusercontent.com/u/79791913?s=72&u=826cf5b3f025a4bb7083daa0f9719d45c5997919&v=4" width="24" alt="Avatar of TropicalDog17"> TropicalDog17
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#TropicalDog17">Copy rank badge</a><br/>
 			Tuan Tran
 		</td>
 		<td>No Company</td>
@@ -1968,7 +1970,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/lelouvincx">
 				<img src="https://avatars.githubusercontent.com/u/40534905?s=72&u=1d21baa68e7808d7f9d2093a9b108d4fd262bb2f&v=4" width="24" alt="Avatar of lelouvincx"> lelouvincx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#lelouvincx">Copy rank badge</a><br/>
 			Chinh
 		</td>
 		<td>@holistics </td>
@@ -1981,7 +1983,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/manhpham90vn">
 				<img src="https://avatars.githubusercontent.com/u/40340023?s=72&u=bbf16659e75f2cd3d2ff61b9297b66d525dc7f0e&v=4" width="24" alt="Avatar of manhpham90vn"> manhpham90vn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#manhpham90vn">Copy rank badge</a><br/>
 			Manh Pham Van
 		</td>
 		<td>Opn Vietnam </td>
@@ -1994,7 +1996,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/thanglequoc">
 				<img src="https://avatars.githubusercontent.com/u/20574640?s=72&u=1bd869d6ee2356e809ddc06e382b77fb067b13a2&v=4" width="24" alt="Avatar of thanglequoc"> thanglequoc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#thanglequoc">Copy rank badge</a><br/>
 			Thang Le Quoc
 		</td>
 		<td>Snoozing... </td>
@@ -2007,7 +2009,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoangnm-ndm">
 				<img src="https://avatars.githubusercontent.com/u/80301350?s=72&u=039ba6616eae499edd854c2bda1656823ac24f23&v=4" width="24" alt="Avatar of hoangnm-ndm"> hoangnm-ndm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoangnm-ndm">Copy rank badge</a><br/>
 			hoangnm.ndm
 		</td>
 		<td>Giảng Viên </td>
@@ -2020,7 +2022,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Duy-Thanh">
 				<img src="https://avatars.githubusercontent.com/u/36120800?s=72&u=3aa9771261d5197ded1daa3849b0f15beb6ce22d&v=4" width="24" alt="Avatar of Duy-Thanh"> Duy-Thanh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Duy-Thanh">Copy rank badge</a><br/>
 			ThanhDN
 		</td>
 		<td>Cyberday Studios, Xiandmom Studios<br/></td>
@@ -2033,7 +2035,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/manolaz">
 				<img src="https://avatars.githubusercontent.com/u/5687539?s=72&u=844e8b656f542169e7ee912affdd74249d47c182&v=4" width="24" alt="Avatar of manolaz"> manolaz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#manolaz">Copy rank badge</a><br/>
 			Tristan NGUYEN
 		</td>
 		<td>No Company</td>
@@ -2046,7 +2048,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/spideynolove">
 				<img src="https://avatars.githubusercontent.com/u/19179621?s=72&u=8dcc34c62b816255e237ade5a55812f74e8535be&v=4" width="24" alt="Avatar of spideynolove"> spideynolove
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#spideynolove">Copy rank badge</a><br/>
 			Hung Nguyen
 		</td>
 		<td>Keep Calm And Love<br/>Data<br/></td>
@@ -2059,7 +2061,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tung491">
 				<img src="https://avatars.githubusercontent.com/u/29272893?s=72&u=6c4e5ccc1690070bb3a6b276fee5d91509873b6b&v=4" width="24" alt="Avatar of tung491"> tung491
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tung491">Copy rank badge</a><br/>
 			Do Son Tung
 		</td>
 		<td>No Company</td>
@@ -2072,7 +2074,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/anhquan291">
 				<img src="https://avatars.githubusercontent.com/u/17813202?s=72&u=10456a6e532da14c64e9fb1744050be9b67e29e8&v=4" width="24" alt="Avatar of anhquan291"> anhquan291
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#anhquan291">Copy rank badge</a><br/>
 			Quan Nguyen
 		</td>
 		<td>No Company</td>
@@ -2085,7 +2087,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/mylethidiem">
 				<img src="https://avatars.githubusercontent.com/u/19374365?s=72&u=de6969db3ae3f65ffa5fe77a1e77505379f9477e&v=4" width="24" alt="Avatar of mylethidiem"> mylethidiem
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#mylethidiem">Copy rank badge</a><br/>
 			Elizabeth Myn (banhmuy)
 		</td>
 		<td>Ai Viet Nam </td>
@@ -2098,7 +2100,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/choisy">
 				<img src="https://avatars.githubusercontent.com/u/12168614?s=72&u=688c29c3c45cb4296662c2127d70e5d2bd61b128&v=4" width="24" alt="Avatar of choisy"> choisy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#choisy">Copy rank badge</a><br/>
 			Marc Choisy
 		</td>
 		<td>Oxford University Clinical Research<br/>Unit<br/></td>
@@ -2111,7 +2113,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nullmastermind">
 				<img src="https://avatars.githubusercontent.com/u/22487014?s=72&u=e56b1e633b1827fae4fcc3a5823916e5ac783906&v=4" width="24" alt="Avatar of nullmastermind"> nullmastermind
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nullmastermind">Copy rank badge</a><br/>
 			Null
 		</td>
 		<td>Nullbyte Studio </td>
@@ -2124,7 +2126,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nguyenphuminh">
 				<img src="https://avatars.githubusercontent.com/u/53084840?s=72&u=4814c08ebd4e96c0340d926a4b1290330c231120&v=4" width="24" alt="Avatar of nguyenphuminh"> nguyenphuminh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nguyenphuminh">Copy rank badge</a><br/>
 			Phu Minh (Catto)
 		</td>
 		<td>Earth </td>
@@ -2137,7 +2139,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/josephkirk">
 				<img src="https://avatars.githubusercontent.com/u/22488588?s=72&u=2d8a1f18503c1394d8c3724035efc5d1b6b22e0a&v=4" width="24" alt="Avatar of josephkirk"> josephkirk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#josephkirk">Copy rank badge</a><br/>
 			Nguyen Phi Hung
 		</td>
 		<td>No Company</td>
@@ -2150,7 +2152,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tientq64">
 				<img src="https://avatars.githubusercontent.com/u/15934554?s=72&u=7c1c52a5395f14c2f529834c779125be67d68aef&v=4" width="24" alt="Avatar of tientq64"> tientq64
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tientq64">Copy rank badge</a><br/>
 			Tran Quang Tien
 		</td>
 		<td>No Company</td>
@@ -2163,7 +2165,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/bonniss">
 				<img src="https://avatars.githubusercontent.com/u/36831801?s=72&u=508c09360b6d42ab99e3234950a4831f8b2243bf&v=4" width="24" alt="Avatar of bonniss"> bonniss
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#bonniss">Copy rank badge</a><br/>
 			Dan Teddy
 		</td>
 		<td>Dt-corp </td>
@@ -2176,7 +2178,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/QuanTrieuPCYT">
 				<img src="https://avatars.githubusercontent.com/u/73286927?s=72&u=dc40d2309f47321071cf656c6e1bddcb064335a5&v=4" width="24" alt="Avatar of QuanTrieuPCYT"> QuanTrieuPCYT
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#QuanTrieuPCYT">Copy rank badge</a><br/>
 			QuanTrieuPCYT
 		</td>
 		<td>Founder At @thiccmc </td>
@@ -2189,7 +2191,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dkalenov">
 				<img src="https://avatars.githubusercontent.com/u/128043391?s=72&u=94fcd54da5d951af9515c19eec30ed419ec6170f&v=4" width="24" alt="Avatar of dkalenov"> dkalenov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dkalenov">Copy rank badge</a><br/>
 			Dmitrii
 		</td>
 		<td>No Company</td>
@@ -2202,7 +2204,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/khiemdoan">
 				<img src="https://avatars.githubusercontent.com/u/15646249?s=72&u=3a88b694ffed7fa1aead3825aecb93c53c3bea2b&v=4" width="24" alt="Avatar of khiemdoan"> khiemdoan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#khiemdoan">Copy rank badge</a><br/>
 			Khiem Doan
 		</td>
 		<td>Ssi Digital </td>
@@ -2215,7 +2217,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/HitomaruKonpaku">
 				<img src="https://avatars.githubusercontent.com/u/9608105?s=72&u=70b42aa1e8fef4daa63ae9d8d0d7353a5b63469f&v=4" width="24" alt="Avatar of HitomaruKonpaku"> HitomaruKonpaku
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#HitomaruKonpaku">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -2228,7 +2230,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/truongwp">
 				<img src="https://avatars.githubusercontent.com/u/19748318?s=72&v=4" width="24" alt="Avatar of truongwp"> truongwp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#truongwp">Copy rank badge</a><br/>
 			Truong Giang
 		</td>
 		<td>No Company</td>
@@ -2241,7 +2243,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/danhdoan">
 				<img src="https://avatars.githubusercontent.com/u/12591333?s=72&u=0c1674e13accea10c3ffe6df36a856c0b6deb5a1&v=4" width="24" alt="Avatar of danhdoan"> danhdoan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#danhdoan">Copy rank badge</a><br/>
 			Danh Doan
 		</td>
 		<td>Danang University Of Science<br/>And<br/>Technology<br/></td>
@@ -2254,7 +2256,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/xnohat">
 				<img src="https://avatars.githubusercontent.com/u/4613808?s=72&v=4" width="24" alt="Avatar of xnohat"> xnohat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#xnohat">Copy rank badge</a><br/>
 			Hong Phuc Nguyen
 		</td>
 		<td>Neurons Ai </td>
@@ -2267,7 +2269,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tungd">
 				<img src="https://avatars.githubusercontent.com/u/88299?s=72&u=7ff32ee8a4fee41c8b1af2cd6cdd424acb1e5be8&v=4" width="24" alt="Avatar of tungd"> tungd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tungd">Copy rank badge</a><br/>
 			Tung Dao
 		</td>
 		<td>No Company</td>
@@ -2280,7 +2282,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Bang1338">
 				<img src="https://avatars.githubusercontent.com/u/75790567?s=72&u=dbf01847fdacef6b8185abdca896ce49e2692d0c&v=4" width="24" alt="Avatar of Bang1338"> Bang1338
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Bang1338">Copy rank badge</a><br/>
 			Bang1338
 		</td>
 		<td>Bg Software </td>
@@ -2293,7 +2295,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vanloc1808">
 				<img src="https://avatars.githubusercontent.com/u/76842571?s=72&u=a73367428679d85cf7fb1c8ef5e74f4905a8c740&v=4" width="24" alt="Avatar of vanloc1808"> vanloc1808
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vanloc1808">Copy rank badge</a><br/>
 			Van-Loc Nguyen
 		</td>
 		<td>Eurofins </td>
@@ -2306,7 +2308,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ntheanh201">
 				<img src="https://avatars.githubusercontent.com/u/29043139?s=72&u=3d4c05b543e0021d51b16b984ecf5976f009ced1&v=4" width="24" alt="Avatar of ntheanh201"> ntheanh201
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ntheanh201">Copy rank badge</a><br/>
 			The Anh Nguyen
 		</td>
 		<td>Viettelnetworks </td>
@@ -2319,7 +2321,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/TomHuynhSG">
 				<img src="https://avatars.githubusercontent.com/u/19964461?s=72&u=86c969282d7efb28eaf1730c6ad85261c5c496ea&v=4" width="24" alt="Avatar of TomHuynhSG"> TomHuynhSG
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#TomHuynhSG">Copy rank badge</a><br/>
 			Tom Huynh
 		</td>
 		<td>No Company</td>
@@ -2332,7 +2334,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/lehau007">
 				<img src="https://avatars.githubusercontent.com/u/149083172?s=72&v=4" width="24" alt="Avatar of lehau007"> lehau007
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#lehau007">Copy rank badge</a><br/>
 			Lê Hậu
 		</td>
 		<td>School Of Information And<br/>Communication<br/>Technology,<br/>Ha<br/>Noi<br/>University<br/>Of<br/>Science<br/>And<br/>Technology<br/></td>
@@ -2345,7 +2347,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ngntu10">
 				<img src="https://avatars.githubusercontent.com/u/115224667?s=72&u=e6e65629d11a028f47c9187c0fce70bacf7c78b1&v=4" width="24" alt="Avatar of ngntu10"> ngntu10
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ngntu10">Copy rank badge</a><br/>
 			Pham Nguyen Tu
 		</td>
 		<td>@naver </td>
@@ -2358,7 +2360,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ba0f3">
 				<img src="https://avatars.githubusercontent.com/u/106477?s=72&u=9fadb9da74e2fce448aa60c7529783d0a6eddce2&v=4" width="24" alt="Avatar of ba0f3"> ba0f3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ba0f3">Copy rank badge</a><br/>
 			Huy Doan
 		</td>
 		<td>Huy>im </td>
@@ -2371,7 +2373,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/NearHuscarl">
 				<img src="https://avatars.githubusercontent.com/u/23303775?s=72&v=4" width="24" alt="Avatar of NearHuscarl"> NearHuscarl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#NearHuscarl">Copy rank badge</a><br/>
 			Near Huscarl
 		</td>
 		<td>Unifiedpost Vn </td>
@@ -2384,7 +2386,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/notrinos">
 				<img src="https://avatars.githubusercontent.com/u/19648430?s=72&u=10ece58058851b826a50ec3df8ec59ae3ceada40&v=4" width="24" alt="Avatar of notrinos"> notrinos
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#notrinos">Copy rank badge</a><br/>
 			Phương
 		</td>
 		<td>@aodieu  </td>
@@ -2397,7 +2399,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/behitek">
 				<img src="https://avatars.githubusercontent.com/u/12376486?s=72&u=ceac29e61cc280affc4370cc6e156a0e9a653bbd&v=4" width="24" alt="Avatar of behitek"> behitek
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#behitek">Copy rank badge</a><br/>
 			Hieu Nguyen Van
 		</td>
 		<td>Developer At @luyencode <br/></td>
@@ -2410,7 +2412,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoangdesu">
 				<img src="https://avatars.githubusercontent.com/u/38454021?s=72&u=120028d64d99d11b410c0c17fdfc57e7f851918e&v=4" width="24" alt="Avatar of hoangdesu"> hoangdesu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoangdesu">Copy rank badge</a><br/>
 			Brian Nguyen
 		</td>
 		<td>No Company</td>
@@ -2423,7 +2425,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/thuyphuocthinh">
 				<img src="https://avatars.githubusercontent.com/u/104757603?s=72&u=97410925474c22c409b1511a60f6b8ed5e5cb875&v=4" width="24" alt="Avatar of thuyphuocthinh"> thuyphuocthinh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#thuyphuocthinh">Copy rank badge</a><br/>
 			Thủy Phước Thịnh
 		</td>
 		<td>Vj Technologies </td>
@@ -2436,7 +2438,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vantuan88291">
 				<img src="https://avatars.githubusercontent.com/u/9206731?s=72&u=6fb1f7a9606d99f34766d5a50348e6d1f30ccfaf&v=4" width="24" alt="Avatar of vantuan88291"> vantuan88291
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vantuan88291">Copy rank badge</a><br/>
 			Levi
 		</td>
 		<td>Freelancer </td>
@@ -2449,7 +2451,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/congdinh2008">
 				<img src="https://avatars.githubusercontent.com/u/39545666?s=72&u=a4bd8c05c0b10a4129019343517e8033605e3d2a&v=4" width="24" alt="Avatar of congdinh2008"> congdinh2008
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#congdinh2008">Copy rank badge</a><br/>
 			Cong Dinh
 		</td>
 		<td>No Company</td>
@@ -2462,7 +2464,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hiennguyen9874">
 				<img src="https://avatars.githubusercontent.com/u/33364492?s=72&u=f303c4c3997c9a47c741c33cbbf7ea86624db948&v=4" width="24" alt="Avatar of hiennguyen9874"> hiennguyen9874
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hiennguyen9874">Copy rank badge</a><br/>
 			Xuan Hien
 		</td>
 		<td>No Company</td>
@@ -2475,7 +2477,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ChunhThanhDe">
 				<img src="https://avatars.githubusercontent.com/u/98199185?s=72&u=813b5906b2da04bd7c9f899d07d8855d978e0762&v=4" width="24" alt="Avatar of ChunhThanhDe"> ChunhThanhDe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ChunhThanhDe">Copy rank badge</a><br/>
 			Chung Nguyen Thanh
 		</td>
 		<td>Vnpt Technology </td>
@@ -2488,7 +2490,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/duckmartians">
 				<img src="https://avatars.githubusercontent.com/u/169267726?s=72&u=e0b1daec8463fb3cd69a6d0c5dc0752da38206f8&v=4" width="24" alt="Avatar of duckmartians"> duckmartians
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#duckmartians">Copy rank badge</a><br/>
 			Minh Duc
 		</td>
 		<td>No Company</td>
@@ -2501,7 +2503,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dereknguyen269">
 				<img src="https://avatars.githubusercontent.com/u/9989471?s=72&u=0c0d7bb714ca488089babcef6a9da81228883fef&v=4" width="24" alt="Avatar of dereknguyen269"> dereknguyen269
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dereknguyen269">Copy rank badge</a><br/>
 			Derek
 		</td>
 		<td>No Company</td>
@@ -2514,7 +2516,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/SvnFrs">
 				<img src="https://avatars.githubusercontent.com/u/108977648?s=72&u=57b8a0cbc4e463dab2b9175d35258a88a6111c4b&v=4" width="24" alt="Avatar of SvnFrs"> SvnFrs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#SvnFrs">Copy rank badge</a><br/>
 			Thai
 		</td>
 		<td>No Company</td>
@@ -2527,7 +2529,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/thiennn">
 				<img src="https://avatars.githubusercontent.com/u/289607?s=72&u=bfcc7972a07755d6622062de4de28e59a5824faf&v=4" width="24" alt="Avatar of thiennn"> thiennn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#thiennn">Copy rank badge</a><br/>
 			Thien Nguyen Le Quynh
 		</td>
 		<td>Nashtech </td>
@@ -2540,7 +2542,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dacsang97">
 				<img src="https://avatars.githubusercontent.com/u/5728560?s=72&u=1df5a25db27c30731dbdb9ea0f1db9135291a732&v=4" width="24" alt="Avatar of dacsang97"> dacsang97
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dacsang97">Copy rank badge</a><br/>
 			SangND
 		</td>
 		<td>Fpt University </td>
@@ -2553,7 +2555,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ngduyanhece">
 				<img src="https://avatars.githubusercontent.com/u/10491651?s=72&u=255cf177da551d2be1245661a5919c29116cad32&v=4" width="24" alt="Avatar of ngduyanhece"> ngduyanhece
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ngduyanhece">Copy rank badge</a><br/>
 			andy
 		</td>
 		<td>Byterover </td>
@@ -2566,7 +2568,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/pdz1804">
 				<img src="https://avatars.githubusercontent.com/u/123137268?s=72&u=fd7655d243b91e49e442779e3676ca267b561bc4&v=4" width="24" alt="Avatar of pdz1804"> pdz1804
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#pdz1804">Copy rank badge</a><br/>
 			Nguyễn Quang Phú
 		</td>
 		<td>No Company</td>
@@ -2579,7 +2581,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/phongna07">
 				<img src="https://avatars.githubusercontent.com/u/74483690?s=72&u=a9c25a65781da902660c91e1e9a3f4fb37411a22&v=4" width="24" alt="Avatar of phongna07"> phongna07
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#phongna07">Copy rank badge</a><br/>
 			Nguyen Anh Phong
 		</td>
 		<td>No Company</td>
@@ -2592,7 +2594,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ReniltoSilva">
 				<img src="https://avatars.githubusercontent.com/u/39367292?s=72&u=2cd21f5afc48e4420732922b2c851eaf7121e901&v=4" width="24" alt="Avatar of ReniltoSilva"> ReniltoSilva
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ReniltoSilva">Copy rank badge</a><br/>
 			Junior Silva
 		</td>
 		<td>No Company</td>
@@ -2605,7 +2607,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/RFS-ADRENO">
 				<img src="https://avatars.githubusercontent.com/u/77768272?s=72&u=50e15b79f48cd43ad1589188e6236c58ff45d567&v=4" width="24" alt="Avatar of RFS-ADRENO"> RFS-ADRENO
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#RFS-ADRENO">Copy rank badge</a><br/>
 			Grosse
 		</td>
 		<td>No Company</td>
@@ -2618,7 +2620,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/anhtuank7c">
 				<img src="https://avatars.githubusercontent.com/u/3163410?s=72&v=4" width="24" alt="Avatar of anhtuank7c"> anhtuank7c
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#anhtuank7c">Copy rank badge</a><br/>
 			Tuan Nguyen
 		</td>
 		<td>Hkd Tạp Hóa Công<br/>Nghệ<br/></td>
@@ -2631,7 +2633,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/phonght32">
 				<img src="https://avatars.githubusercontent.com/u/39062982?s=72&u=e2041feca52c5b294766323a9a58cf9f81a9752b&v=4" width="24" alt="Avatar of phonght32"> phonght32
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#phonght32">Copy rank badge</a><br/>
 			Phong Ho
 		</td>
 		<td>Hella Vietnam </td>
@@ -2644,7 +2646,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tien0246">
 				<img src="https://avatars.githubusercontent.com/u/60417827?s=72&u=7e5bbaec3acc442c2d57943912b565077b908917&v=4" width="24" alt="Avatar of tien0246"> tien0246
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tien0246">Copy rank badge</a><br/>
 			Đoàn Nhật Tiến
 		</td>
 		<td>No Company</td>
@@ -2657,7 +2659,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/duynghiadev">
 				<img src="https://avatars.githubusercontent.com/u/72549676?s=72&u=bf70ad3feda7cc3ea7f3a71d137bad45a83d89da&v=4" width="24" alt="Avatar of duynghiadev"> duynghiadev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#duynghiadev">Copy rank badge</a><br/>
 			DuyNghia
 		</td>
 		<td>Vku </td>
@@ -2670,7 +2672,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/lucthienphong1120">
 				<img src="https://avatars.githubusercontent.com/u/90561566?s=72&u=5701671e8661976a6940213748b7a907211cb1f2&v=4" width="24" alt="Avatar of lucthienphong1120"> lucthienphong1120
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#lucthienphong1120">Copy rank badge</a><br/>
 			Thiên Phong
 		</td>
 		<td>@codingreshapefuture  </td>
@@ -2683,7 +2685,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/kyrie25">
 				<img src="https://avatars.githubusercontent.com/u/77577746?s=72&u=3d239c8f042332e1646bbd1e3e14a5f44c4d41ab&v=4" width="24" alt="Avatar of kyrie25"> kyrie25
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#kyrie25">Copy rank badge</a><br/>
 			Nam Anh
 		</td>
 		<td>@designveloper, University Of Science<br/>-<br/>Vnu-hcm<br/></td>
@@ -2696,7 +2698,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Khangtran94">
 				<img src="https://avatars.githubusercontent.com/u/146164801?s=72&u=f33ea23f6971d20adf6a11dc9a347c1032e6f24b&v=4" width="24" alt="Avatar of Khangtran94"> Khangtran94
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Khangtran94">Copy rank badge</a><br/>
 			Khang Tran
 		</td>
 		<td>No Company</td>
@@ -2709,7 +2711,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hieptran1812">
 				<img src="https://avatars.githubusercontent.com/u/44777689?s=72&u=e829623b15e1f6e598c89e1aa5419625e830e52c&v=4" width="24" alt="Avatar of hieptran1812"> hieptran1812
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hieptran1812">Copy rank badge</a><br/>
 			Halley Tran
 		</td>
 		<td>No Company</td>
@@ -2722,7 +2724,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hvnsweeting">
 				<img src="https://avatars.githubusercontent.com/u/1000665?s=72&v=4" width="24" alt="Avatar of hvnsweeting"> hvnsweeting
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hvnsweeting">Copy rank badge</a><br/>
 			Viet Hung Nguyen
 		</td>
 		<td>@pymivn  </td>
@@ -2735,7 +2737,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ttpho">
 				<img src="https://avatars.githubusercontent.com/u/3994863?s=72&u=b960d2b02be45589231b52e200392f3f1f11bc0f&v=4" width="24" alt="Avatar of ttpho"> ttpho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ttpho">Copy rank badge</a><br/>
 			Pho Tran
 		</td>
 		<td>No Company</td>
@@ -2748,7 +2750,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/npv34">
 				<img src="https://avatars.githubusercontent.com/u/24349915?s=72&v=4" width="24" alt="Avatar of npv34"> npv34
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#npv34">Copy rank badge</a><br/>
 			Phan Văn Luân
 		</td>
 		<td>Codegym Vietnam </td>
@@ -2761,7 +2763,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vutienduong">
 				<img src="https://avatars.githubusercontent.com/u/4931188?s=72&u=4746aacccaefc24a4a3cf8259149958f1cd5a5e3&v=4" width="24" alt="Avatar of vutienduong"> vutienduong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vutienduong">Copy rank badge</a><br/>
 			Mikel Vu
 		</td>
 		<td>No Company</td>
@@ -2774,7 +2776,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/truongcongthanh2000">
 				<img src="https://avatars.githubusercontent.com/u/45825381?s=72&u=a106c1cf7214511a29e437557e4ae697e7f36772&v=4" width="24" alt="Avatar of truongcongthanh2000"> truongcongthanh2000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#truongcongthanh2000">Copy rank badge</a><br/>
 			Thanh Truong Cong
 		</td>
 		<td>Hcmut University Of Technology<br/></td>
@@ -2787,7 +2789,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/neittien0110">
 				<img src="https://avatars.githubusercontent.com/u/8079397?s=72&u=82de83623f92a960f1212a8b2cee6251f48f8fbe&v=4" width="24" alt="Avatar of neittien0110"> neittien0110
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#neittien0110">Copy rank badge</a><br/>
 			Nguyễn Đức Tiến
 		</td>
 		<td>School Of Information And<br/>Communication<br/>Technology,<br/>Ha<br/>Noi<br/>University<br/>Of<br/>Science<br/>And<br/>Technology<br/></td>
@@ -2800,7 +2802,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/AKT311209">
 				<img src="https://avatars.githubusercontent.com/u/173369607?s=72&u=ccd2db8a36db714d07f501dfe97b431a94158ffc&v=4" width="24" alt="Avatar of AKT311209"> AKT311209
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#AKT311209">Copy rank badge</a><br/>
 			Khoi Tran
 		</td>
 		<td>No Company</td>
@@ -2813,7 +2815,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/redstrike">
 				<img src="https://avatars.githubusercontent.com/u/2168227?s=72&v=4" width="24" alt="Avatar of redstrike"> redstrike
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#redstrike">Copy rank badge</a><br/>
 			Tung Nguyen
 		</td>
 		<td>No Company</td>
@@ -2826,7 +2828,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/SanbiVN">
 				<img src="https://avatars.githubusercontent.com/u/58664571?s=72&u=dcf8adbc2707135ec4a38f0f276c20619a9c4e8a&v=4" width="24" alt="Avatar of SanbiVN"> SanbiVN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#SanbiVN">Copy rank badge</a><br/>
 			Sanbi
 		</td>
 		<td>No Company</td>
@@ -2839,7 +2841,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/khaitruong922">
 				<img src="https://avatars.githubusercontent.com/u/56820749?s=72&u=ae3f65c0e0c64945519127bab0f63c4f3591c601&v=4" width="24" alt="Avatar of khaitruong922"> khaitruong922
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#khaitruong922">Copy rank badge</a><br/>
 			Khai Truong
 		</td>
 		<td>No Company</td>
@@ -2852,7 +2854,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ngochangjelly">
 				<img src="https://avatars.githubusercontent.com/u/33114883?s=72&u=15265c2b60362875fc5fe134c552206dbb5eacbf&v=4" width="24" alt="Avatar of ngochangjelly"> ngochangjelly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ngochangjelly">Copy rank badge</a><br/>
 			JellyTran
 		</td>
 		<td>No Company</td>
@@ -2865,7 +2867,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/weburnit">
 				<img src="https://avatars.githubusercontent.com/u/1016113?s=72&u=f26938c76c80b72a9d23005e4db2d381d35d399e&v=4" width="24" alt="Avatar of weburnit"> weburnit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#weburnit">Copy rank badge</a><br/>
 			Paul Aan
 		</td>
 		<td>Traveler And Coder </td>
@@ -2878,7 +2880,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/noname1711">
 				<img src="https://avatars.githubusercontent.com/u/119946155?s=72&u=bc38187ae3f39210e010d6c96b67ede6252802a8&v=4" width="24" alt="Avatar of noname1711"> noname1711
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#noname1711">Copy rank badge</a><br/>
 			Hùng Lê
 		</td>
 		<td>Hanoi University Of Science<br/>And<br/>Technology<br/></td>
@@ -2891,7 +2893,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/beratgdlk">
 				<img src="https://avatars.githubusercontent.com/u/116959600?s=72&u=0527402b0748410f48df781625514e7c7ec8e672&v=4" width="24" alt="Avatar of beratgdlk"> beratgdlk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#beratgdlk">Copy rank badge</a><br/>
 			Berat Gudelek
 		</td>
 		<td>Onlyjs Technology </td>
@@ -2904,7 +2906,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/sondnpt00343">
 				<img src="https://avatars.githubusercontent.com/u/18712667?s=72&u=29337a3d137e29fed5c307f275cfb248a076917a&v=4" width="24" alt="Avatar of sondnpt00343"> sondnpt00343
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#sondnpt00343">Copy rank badge</a><br/>
 			Github F8
 		</td>
 		<td>F8 Technology Education.,jsc </td>
@@ -2917,7 +2919,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ninja12445">
 				<img src="https://avatars.githubusercontent.com/u/62419339?s=72&u=71565c6826de2b32a126d017eff5f0a4884bfcfe&v=4" width="24" alt="Avatar of ninja12445"> ninja12445
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ninja12445">Copy rank badge</a><br/>
 			Waterbus
 		</td>
 		<td>Washing Machine Or Manager<br/>?<br/></td>
@@ -2930,7 +2932,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trungtv">
 				<img src="https://avatars.githubusercontent.com/u/308482?s=72&v=4" width="24" alt="Avatar of trungtv"> trungtv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trungtv">Copy rank badge</a><br/>
 			Viet Trung Tran
 		</td>
 		<td>Hust </td>
@@ -2943,7 +2945,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/xuan2261">
 				<img src="https://avatars.githubusercontent.com/u/17797687?s=72&u=883d4842042c9abad76d2d1a28a1f03a0a030a7b&v=4" width="24" alt="Avatar of xuan2261"> xuan2261
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#xuan2261">Copy rank badge</a><br/>
 			Bui Thanh Xuan
 		</td>
 		<td>No Company</td>
@@ -2956,7 +2958,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/khengyun">
 				<img src="https://avatars.githubusercontent.com/u/78076796?s=72&u=8e8c5ad946506d9cf1767859668902454052d254&v=4" width="24" alt="Avatar of khengyun"> khengyun
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#khengyun">Copy rank badge</a><br/>
 			Kang
 		</td>
 		<td>No Company</td>
@@ -2969,7 +2971,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/suho">
 				<img src="https://avatars.githubusercontent.com/u/19943832?s=72&u=156b4bbcbc0ea3e2901077b36bbb58c25b7f8c09&v=4" width="24" alt="Avatar of suho"> suho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#suho">Copy rank badge</a><br/>
 			Su Ho
 		</td>
 		<td>@nimblehq  </td>
@@ -2982,7 +2984,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/schettino72">
 				<img src="https://avatars.githubusercontent.com/u/138474?s=72&u=37d717768335fe9ccb1b0ecfabc1ea14c22b3ab2&v=4" width="24" alt="Avatar of schettino72"> schettino72
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#schettino72">Copy rank badge</a><br/>
 			eduardo naufel schettino
 		</td>
 		<td>Asserto Ai </td>
@@ -2995,7 +2997,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ButteredFire">
 				<img src="https://avatars.githubusercontent.com/u/88932988?s=72&u=25e42ba44c34def5f33cfcde405ec5843458cdbc&v=4" width="24" alt="Avatar of ButteredFire"> ButteredFire
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ButteredFire">Copy rank badge</a><br/>
 			MinhDuong_TCO
 		</td>
 		<td>English Major, Le Quy<br/>Don<br/>High<br/>School<br/>For<br/>The<br/>Gifted<br/>(ho<br/>Chi<br/>Minh<br/>City)<br/></td>
@@ -3008,7 +3010,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/mrzaizai2k">
 				<img src="https://avatars.githubusercontent.com/u/40959407?s=72&u=ce3adf0bea9a5d97b0545cf52b8003cb0220e294&v=4" width="24" alt="Avatar of mrzaizai2k"> mrzaizai2k
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#mrzaizai2k">Copy rank badge</a><br/>
 			Mai Chí Bảo
 		</td>
 		<td>Joblogic </td>
@@ -3021,7 +3023,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/friuns2">
 				<img src="https://avatars.githubusercontent.com/u/16543239?s=72&u=17786e506844b921e174db3801128845f122f1c5&v=4" width="24" alt="Avatar of friuns2"> friuns2
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#friuns2">Copy rank badge</a><br/>
 			Brutal Strike
 		</td>
 		<td>Brutalstrike </td>
@@ -3034,7 +3036,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tungv">
 				<img src="https://avatars.githubusercontent.com/u/1922462?s=72&v=4" width="24" alt="Avatar of tungv"> tungv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tungv">Copy rank badge</a><br/>
 			Tung Vu
 		</td>
 		<td>@prosper-digital-au  </td>
@@ -3047,7 +3049,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hung-doan">
 				<img src="https://avatars.githubusercontent.com/u/11371581?s=72&u=34fc2d36ad39b036e9e17d13cb93cdce9365a306&v=4" width="24" alt="Avatar of hung-doan"> hung-doan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hung-doan">Copy rank badge</a><br/>
 			Hung Doan
 		</td>
 		<td>No Company</td>
@@ -3060,7 +3062,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/anhtester">
 				<img src="https://avatars.githubusercontent.com/u/87883620?s=72&u=245b63bf900f6531f372b8282a2bfac17dd11623&v=4" width="24" alt="Avatar of anhtester"> anhtester
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#anhtester">Copy rank badge</a><br/>
 			Anh Tester
 		</td>
 		<td>Phamiliar Tech </td>
@@ -3073,7 +3075,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/LamThanhNguyen">
 				<img src="https://avatars.githubusercontent.com/u/48795168?s=72&u=5ba95892703edbcb22e8b6a89b7a22515dd0c1f6&v=4" width="24" alt="Avatar of LamThanhNguyen"> LamThanhNguyen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#LamThanhNguyen">Copy rank badge</a><br/>
 			Liam
 		</td>
 		<td>No Company</td>
@@ -3086,7 +3088,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Mr-Jack-Tung">
 				<img src="https://avatars.githubusercontent.com/u/72214141?s=72&u=92a94718c9f4de6335ffc41baad526ab9638d106&v=4" width="24" alt="Avatar of Mr-Jack-Tung"> Mr-Jack-Tung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Mr-Jack-Tung">Copy rank badge</a><br/>
 			Mr. Jack Tung
 		</td>
 		<td>Ai Lab </td>
@@ -3099,7 +3101,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hungphan2001">
 				<img src="https://avatars.githubusercontent.com/u/24859929?s=72&u=3223d80ec774cb09b2902792e8053e194ea0ee30&v=4" width="24" alt="Avatar of hungphan2001"> hungphan2001
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hungphan2001">Copy rank badge</a><br/>
 			Hưng Phan
 		</td>
 		<td>@cherishos  </td>
@@ -3112,7 +3114,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tinwritescode">
 				<img src="https://avatars.githubusercontent.com/u/40380704?s=72&u=5a33914a29a367a6081c6a9abe1bafd81f189436&v=4" width="24" alt="Avatar of tinwritescode"> tinwritescode
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tinwritescode">Copy rank badge</a><br/>
 			Tin Nguyen
 		</td>
 		<td>No Company</td>
@@ -3125,7 +3127,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/leehuwuj">
 				<img src="https://avatars.githubusercontent.com/u/39040748?s=72&u=c616a3a8930d171c249386d0365146255d36d025&v=4" width="24" alt="Avatar of leehuwuj"> leehuwuj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#leehuwuj">Copy rank badge</a><br/>
 			Huu Le
 		</td>
 		<td>Ai & Data </td>
@@ -3138,7 +3140,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/thinh-vu">
 				<img src="https://avatars.githubusercontent.com/u/39723360?s=72&u=9b03d6e786883b07bb45d9bd74c29e372332afeb&v=4" width="24" alt="Avatar of thinh-vu"> thinh-vu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#thinh-vu">Copy rank badge</a><br/>
 			Thinh Vu
 		</td>
 		<td>Vnstock </td>
@@ -3151,7 +3153,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/poltak">
 				<img src="https://avatars.githubusercontent.com/u/1130716?s=72&u=93aba795eef06c04b70f3ffdcf62f317563afdc9&v=4" width="24" alt="Avatar of poltak"> poltak
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#poltak">Copy rank badge</a><br/>
 			Jonathan Poltak Samosir
 		</td>
 		<td>Worldbrain.io - Collective Web<br/>Intelligence<br/></td>
@@ -3164,7 +3166,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ken107">
 				<img src="https://avatars.githubusercontent.com/u/1976032?s=72&v=4" width="24" alt="Avatar of ken107"> ken107
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ken107">Copy rank badge</a><br/>
 			Hai Phan
 		</td>
 		<td>Lsd Software </td>
@@ -3177,7 +3179,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vancanhuit">
 				<img src="https://avatars.githubusercontent.com/u/18382438?s=72&u=e19ee840d678c3e24ff0fabfb72bc33eeb859570&v=4" width="24" alt="Avatar of vancanhuit"> vancanhuit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vancanhuit">Copy rank badge</a><br/>
 			vancanhuit
 		</td>
 		<td>No Company</td>
@@ -3190,7 +3192,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hienlth">
 				<img src="https://avatars.githubusercontent.com/u/7472268?s=72&u=0b9d849929562a1b2e2c0a25603dcc0550973082&v=4" width="24" alt="Avatar of hienlth"> hienlth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hienlth">Copy rank badge</a><br/>
 			Hien Tran-Hy Luong
 		</td>
 		<td>Hochiminh City University Of<br/>Education<br/></td>
@@ -3203,7 +3205,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/pexa8335">
 				<img src="https://avatars.githubusercontent.com/u/180364615?s=72&v=4" width="24" alt="Avatar of pexa8335"> pexa8335
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#pexa8335">Copy rank badge</a><br/>
 			Phan Duc Anh
 		</td>
 		<td>No Company</td>
@@ -3216,7 +3218,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Phat-pham99">
 				<img src="https://avatars.githubusercontent.com/u/57822898?s=72&u=f672c2a2135820241504999ea22e9e5da530b153&v=4" width="24" alt="Avatar of Phat-pham99"> Phat-pham99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Phat-pham99">Copy rank badge</a><br/>
 			Phạm Hồng Phát
 		</td>
 		<td>No Company</td>
@@ -3229,7 +3231,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tungbq">
 				<img src="https://avatars.githubusercontent.com/u/85242618?s=72&u=0d464d73a441883e68bcd46b7aafaaea5b586ff0&v=4" width="24" alt="Avatar of tungbq"> tungbq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tungbq">Copy rank badge</a><br/>
 			Tung Leo
 		</td>
 		<td>@thedevopshub </td>
@@ -3242,7 +3244,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/iamquang95">
 				<img src="https://avatars.githubusercontent.com/u/8794293?s=72&u=7f794a298c9e893f4c33b18ea04344763fbaf75c&v=4" width="24" alt="Avatar of iamquang95"> iamquang95
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#iamquang95">Copy rank badge</a><br/>
 			Quang Le
 		</td>
 		<td>No Company</td>
@@ -3255,7 +3257,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/thanhdnh">
 				<img src="https://avatars.githubusercontent.com/u/26669280?s=72&u=70bb789f9c5bd43df761255cdb65ef05c2bc6b7e&v=4" width="24" alt="Avatar of thanhdnh"> thanhdnh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#thanhdnh">Copy rank badge</a><br/>
 			HTCom
 		</td>
 		<td>Htcom </td>
@@ -3268,7 +3270,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nguyenkha">
 				<img src="https://avatars.githubusercontent.com/u/593128?s=72&u=c04c43e567c7e54bfff5e3aac4671031e8136492&v=4" width="24" alt="Avatar of nguyenkha"> nguyenkha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nguyenkha">Copy rank badge</a><br/>
 			Kha Do
 		</td>
 		<td>University Of Science, Vnu-hcm<br/></td>
@@ -3281,7 +3283,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/thangchung">
 				<img src="https://avatars.githubusercontent.com/u/422341?s=72&u=b24af4c3b730fe4554fac2408390b646294facdc&v=4" width="24" alt="Avatar of thangchung"> thangchung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#thangchung">Copy rank badge</a><br/>
 			Thang Chung
 		</td>
 		<td>Tiger Tribe </td>
@@ -3294,7 +3296,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/pnpn1212">
 				<img src="https://avatars.githubusercontent.com/u/76662222?s=72&u=74da00113717a983f9c89ce3cf2f9ed426365a00&v=4" width="24" alt="Avatar of pnpn1212"> pnpn1212
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#pnpn1212">Copy rank badge</a><br/>
 			Mow
 		</td>
 		<td>Vnbnode </td>
@@ -3307,7 +3309,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/quocthang0507">
 				<img src="https://avatars.githubusercontent.com/u/37357028?s=72&u=473a81416815b7072a66c90b91093b388eeb5e2c&v=4" width="24" alt="Avatar of quocthang0507"> quocthang0507
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#quocthang0507">Copy rank badge</a><br/>
 			La Quốc Thắng
 		</td>
 		<td>Working From Home </td>
@@ -3320,7 +3322,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/samsubin">
 				<img src="https://avatars.githubusercontent.com/u/124324516?s=72&u=a433e1510f275da4b0e71e71f55bcd6e84e16f6c&v=4" width="24" alt="Avatar of samsubin"> samsubin
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#samsubin">Copy rank badge</a><br/>
 			samsubin
 		</td>
 		<td>No Company</td>
@@ -3333,7 +3335,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/harley">
 				<img src="https://avatars.githubusercontent.com/u/44055?s=72&u=e5d5bb60b8d4ff9bd3e7894f702772d1e3c3e83e&v=4" width="24" alt="Avatar of harley"> harley
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#harley">Copy rank badge</a><br/>
 			Harley Trung
 		</td>
 		<td>No Company</td>
@@ -3346,7 +3348,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nicolasembleton">
 				<img src="https://avatars.githubusercontent.com/u/1546148?s=72&v=4" width="24" alt="Avatar of nicolasembleton"> nicolasembleton
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nicolasembleton">Copy rank badge</a><br/>
 			Nicolas Embleton
 		</td>
 		<td>No Company</td>
@@ -3359,7 +3361,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hlongvu">
 				<img src="https://avatars.githubusercontent.com/u/1598865?s=72&u=7bf544e60c93f298495c46abca115fdf527f555d&v=4" width="24" alt="Avatar of hlongvu"> hlongvu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hlongvu">Copy rank badge</a><br/>
 			Long Vu
 		</td>
 		<td>No Company</td>
@@ -3372,7 +3374,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/cnmeow">
 				<img src="https://avatars.githubusercontent.com/u/73975520?s=72&u=1b7c5776ee1906d3f768b9c3fa058a42d5188025&v=4" width="24" alt="Avatar of cnmeow"> cnmeow
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#cnmeow">Copy rank badge</a><br/>
 			Cam Nguyen Tran
 		</td>
 		<td>Uit - Vnuhcm </td>
@@ -3385,7 +3387,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/BadAimWeeb">
 				<img src="https://avatars.githubusercontent.com/u/29724654?s=72&u=82dcdeec7561a45410fd79b5fdb427db05cec511&v=4" width="24" alt="Avatar of BadAimWeeb"> BadAimWeeb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#BadAimWeeb">Copy rank badge</a><br/>
 			Lê Quang Lâm
 		</td>
 		<td>No Company</td>
@@ -3398,7 +3400,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/htdangkhoa">
 				<img src="https://avatars.githubusercontent.com/u/15341301?s=72&u=100142de0d3b7647892d2944df25c3bb56e274a2&v=4" width="24" alt="Avatar of htdangkhoa"> htdangkhoa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#htdangkhoa">Copy rank badge</a><br/>
 			Huỳnh Trần Đăng Khoa
 		</td>
 		<td>@amanotes  </td>
@@ -3411,7 +3413,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/SilvaHerald">
 				<img src="https://avatars.githubusercontent.com/u/53012411?s=72&u=13a3e2bb3d9008d9f6052e456bcbf8dbd0cfbe61&v=4" width="24" alt="Avatar of SilvaHerald"> SilvaHerald
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#SilvaHerald">Copy rank badge</a><br/>
 			Lam Tran
 		</td>
 		<td>Lord Of Trees </td>
@@ -3424,7 +3426,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ndthanhdev">
 				<img src="https://avatars.githubusercontent.com/u/16331812?s=72&u=489209886a5e027c5bb407433beec7449ddb92af&v=4" width="24" alt="Avatar of ndthanhdev"> ndthanhdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ndthanhdev">Copy rank badge</a><br/>
 			Duy Thanh Nguyen
 		</td>
 		<td>Mckinsey & Company </td>
@@ -3437,7 +3439,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/phatdev12">
 				<img src="https://avatars.githubusercontent.com/u/81029660?s=72&u=742b8d0d669e9cd18776da2efd5270654629bc1b&v=4" width="24" alt="Avatar of phatdev12"> phatdev12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#phatdev12">Copy rank badge</a><br/>
 			徐胜發 (Phát)
 		</td>
 		<td>@folody-team @algomasterllc @maginus-developers @lotusoj<br/>@lormax-researchs<br/></td>
@@ -3450,7 +3452,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/toannhu96">
 				<img src="https://avatars.githubusercontent.com/u/54266244?s=72&u=121e2760b263bf18e01231f106ba819cc88fe3e7&v=4" width="24" alt="Avatar of toannhu96"> toannhu96
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#toannhu96">Copy rank badge</a><br/>
 			Toan Nhu
 		</td>
 		<td>Nudgen </td>
@@ -3463,7 +3465,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoangvvo">
 				<img src="https://avatars.githubusercontent.com/u/40987398?s=72&u=6676b6cfc534cdf0b5263b817be915f924a0c98c&v=4" width="24" alt="Avatar of hoangvvo"> hoangvvo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoangvvo">Copy rank badge</a><br/>
 			Hoang
 		</td>
 		<td>No Company</td>
@@ -3476,7 +3478,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/giorzang">
 				<img src="https://avatars.githubusercontent.com/u/84860408?s=72&u=5423e840b3295df67de3d576254a051e81e165a5&v=4" width="24" alt="Avatar of giorzang"> giorzang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#giorzang">Copy rank badge</a><br/>
 			Vũ Trường Giang
 		</td>
 		<td>Thqnoj </td>
@@ -3489,7 +3491,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trungdq88">
 				<img src="https://avatars.githubusercontent.com/u/4214509?s=72&u=012484afe113565d56b88b13409f899cf73664d9&v=4" width="24" alt="Avatar of trungdq88"> trungdq88
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trungdq88">Copy rank badge</a><br/>
 			Tony Dinh
 		</td>
 		<td>No Company</td>
@@ -3502,7 +3504,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/phatpham9">
 				<img src="https://avatars.githubusercontent.com/u/3795964?s=72&u=9925484d2dc36e37b0adc2abc8e7dbc9b3056fd2&v=4" width="24" alt="Avatar of phatpham9"> phatpham9
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#phatpham9">Copy rank badge</a><br/>
 			Phat Pham
 		</td>
 		<td>@boringcode-dev </td>
@@ -3515,7 +3517,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/lzhoang2801">
 				<img src="https://avatars.githubusercontent.com/u/169338399?s=72&u=930b61685e9376dea2e8952cfbedf27c9b7ada05&v=4" width="24" alt="Avatar of lzhoang2801"> lzhoang2801
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#lzhoang2801">Copy rank badge</a><br/>
 			Hoang Hong Quan
 		</td>
 		<td>No Company</td>
@@ -3528,7 +3530,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/95tuanle">
 				<img src="https://avatars.githubusercontent.com/u/30306228?s=72&u=fc407c508cf9f3744ef35c185e832d135cd928c0&v=4" width="24" alt="Avatar of 95tuanle"> 95tuanle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#95tuanle">Copy rank badge</a><br/>
 			Nguyen Anh Tuan Le
 		</td>
 		<td>@webmd-health-servic </td>
@@ -3541,7 +3543,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/pnhung177">
 				<img src="https://avatars.githubusercontent.com/u/2126251?s=72&u=ba0a1d514126641deabb28650e149e35024a0276&v=4" width="24" alt="Avatar of pnhung177"> pnhung177
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#pnhung177">Copy rank badge</a><br/>
 			Hung Pham
 		</td>
 		<td>No Company</td>
@@ -3554,7 +3556,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Nyasami">
 				<img src="https://avatars.githubusercontent.com/u/80683081?s=72&u=c48da0fd7fb0c476cb099bb74896aa477a3872c9&v=4" width="24" alt="Avatar of Nyasami"> Nyasami
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Nyasami">Copy rank badge</a><br/>
 			Nagata Asami
 		</td>
 		<td>Hanoi University Of Science<br/>And<br/>Technology<br/><br/></td>
@@ -3567,7 +3569,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trongthanh">
 				<img src="https://avatars.githubusercontent.com/u/234226?s=72&u=150c506ce622b10793146c443e47acde46538cb2&v=4" width="24" alt="Avatar of trongthanh"> trongthanh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trongthanh">Copy rank badge</a><br/>
 			Thanh Tran
 		</td>
 		<td>Chợ Tốt </td>
@@ -3580,7 +3582,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/chnirt">
 				<img src="https://avatars.githubusercontent.com/u/35022967?s=72&u=ef3e98d5354005f01a0b02cce8be13a1db17e47d&v=4" width="24" alt="Avatar of chnirt"> chnirt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#chnirt">Copy rank badge</a><br/>
 			Chnirt
 		</td>
 		<td>Chnirt </td>
@@ -3593,7 +3595,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/iamvon">
 				<img src="https://avatars.githubusercontent.com/u/28395758?s=72&u=ac734ffe9991ff7f78aaa3b5ac763db6b17c91ec&v=4" width="24" alt="Avatar of iamvon"> iamvon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#iamvon">Copy rank badge</a><br/>
 			Tuan Pham Minh
 		</td>
 		<td>No Company</td>
@@ -3606,7 +3608,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/LeHoangHuy1106">
 				<img src="https://avatars.githubusercontent.com/u/104260490?s=72&u=c1c127f31418351d03d84072fd0b5da1d9499850&v=4" width="24" alt="Avatar of LeHoangHuy1106"> LeHoangHuy1106
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#LeHoangHuy1106">Copy rank badge</a><br/>
 			LÊ HOÀNG HUY
 		</td>
 		<td>No Company</td>
@@ -3619,7 +3621,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ngxvu">
 				<img src="https://avatars.githubusercontent.com/u/60343954?s=72&u=1d8806984cbac8285f94a02407b42c5eff4f73c6&v=4" width="24" alt="Avatar of ngxvu"> ngxvu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ngxvu">Copy rank badge</a><br/>
 			Nguyễn Xuân Vũ
 		</td>
 		<td>Cmc Global Vn </td>
@@ -3632,7 +3634,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/QuyAnh2005">
 				<img src="https://avatars.githubusercontent.com/u/80700452?s=72&v=4" width="24" alt="Avatar of QuyAnh2005"> QuyAnh2005
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#QuyAnh2005">Copy rank badge</a><br/>
 			Quy-Anh Dang
 		</td>
 		<td>Msc Student, Vnu University<br/>Of<br/>Science<br/></td>
@@ -3645,7 +3647,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/akando42">
 				<img src="https://avatars.githubusercontent.com/u/1859661?s=72&u=300518ac24399e7f80fd619365318a2a95b01bb2&v=4" width="24" alt="Avatar of akando42"> akando42
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#akando42">Copy rank badge</a><br/>
 			Hoang Do
 		</td>
 		<td>No Company</td>
@@ -3658,7 +3660,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/oliverquynh">
 				<img src="https://avatars.githubusercontent.com/u/16967350?s=72&u=3d2dab4b4749bed80d93237c6958ce7d4d91d2b3&v=4" width="24" alt="Avatar of oliverquynh"> oliverquynh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#oliverquynh">Copy rank badge</a><br/>
 			Oliver Quynh
 		</td>
 		<td>@confetticode  </td>
@@ -3671,7 +3673,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Doko-Demo-Doa">
 				<img src="https://avatars.githubusercontent.com/u/7723097?s=72&u=fda4c143cd7103ec45c7aef18a25a220ab22d9fe&v=4" width="24" alt="Avatar of Doko-Demo-Doa"> Doko-Demo-Doa
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Doko-Demo-Doa">Copy rank badge</a><br/>
 			Quan Pham
 		</td>
 		<td>@clip-sub  </td>
@@ -3684,7 +3686,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nguyenanhung">
 				<img src="https://avatars.githubusercontent.com/u/9348255?s=72&u=413756b687970fa17bf0a1229025b98cb1e92da4&v=4" width="24" alt="Avatar of nguyenanhung"> nguyenanhung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nguyenanhung">Copy rank badge</a><br/>
 			Hung Nguyen
 		</td>
 		<td>@bear8421  </td>
@@ -3697,7 +3699,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/DungGramer">
 				<img src="https://avatars.githubusercontent.com/u/42514846?s=72&u=9ec2da207143abe5e9cba3e9ac2e36074379d3a5&v=4" width="24" alt="Avatar of DungGramer"> DungGramer
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#DungGramer">Copy rank badge</a><br/>
 			Nguyễn Công Dũng
 		</td>
 		<td>@vinbigdata-medical </td>
@@ -3710,7 +3712,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tycloud97">
 				<img src="https://avatars.githubusercontent.com/u/83907436?s=72&u=9a8b77bd09595029b32a4bf11232b197a3868854&v=4" width="24" alt="Avatar of tycloud97"> tycloud97
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tycloud97">Copy rank badge</a><br/>
 			Nguyen Huu Ty
 		</td>
 		<td>No Company</td>
@@ -3723,7 +3725,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dntai">
 				<img src="https://avatars.githubusercontent.com/u/3754251?s=72&u=08d883cd7fd4b5f319c940a9ba8b1c2ce626cc33&v=4" width="24" alt="Avatar of dntai"> dntai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dntai">Copy rank badge</a><br/>
 			Tai Do
 		</td>
 		<td>Information Technology Faculty </td>
@@ -3736,7 +3738,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nguyenanhhao221">
 				<img src="https://avatars.githubusercontent.com/u/32004536?s=72&u=463ae36480f7a8226bb1a6f26c9be1c74e5ea09f&v=4" width="24" alt="Avatar of nguyenanhhao221"> nguyenanhhao221
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nguyenanhhao221">Copy rank badge</a><br/>
 			Hao Nguyen
 		</td>
 		<td>No Company</td>
@@ -3749,7 +3751,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/cutbypham">
 				<img src="https://avatars.githubusercontent.com/u/40050527?s=72&u=cc69ff34c750b118f9d17d68579e9ce06ce63f4e&v=4" width="24" alt="Avatar of cutbypham"> cutbypham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#cutbypham">Copy rank badge</a><br/>
 			Cut By Pham
 		</td>
 		<td>Work For Myself </td>
@@ -3762,7 +3764,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/KhoaSuperman">
 				<img src="https://avatars.githubusercontent.com/u/8596226?s=72&u=93fa27ba272a37ef808f062e4b15fdac4e97b95d&v=4" width="24" alt="Avatar of KhoaSuperman"> KhoaSuperman
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#KhoaSuperman">Copy rank badge</a><br/>
 			Khoa Hoang
 		</td>
 		<td>Manadr </td>
@@ -3775,7 +3777,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoang-himself">
 				<img src="https://avatars.githubusercontent.com/u/10150902?s=72&u=14f4fa1c5e7f5a113157a73be92fd6ddb5e2f358&v=4" width="24" alt="Avatar of hoang-himself"> hoang-himself
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoang-himself">Copy rank badge</a><br/>
 			Hoàng
 		</td>
 		<td>No Company</td>
@@ -3788,7 +3790,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nomi-san">
 				<img src="https://avatars.githubusercontent.com/u/38210249?s=72&u=80457fb16e7b8db4c7c4751370bb0b20339f2315&v=4" width="24" alt="Avatar of nomi-san"> nomi-san
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nomi-san">Copy rank badge</a><br/>
 			Nguyen Duy
 		</td>
 		<td>No Company</td>
@@ -3801,7 +3803,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/cuongvng">
 				<img src="https://avatars.githubusercontent.com/u/30251584?s=72&u=ec74b6065566d1804c956f4d7695307b4558ef88&v=4" width="24" alt="Avatar of cuongvng"> cuongvng
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#cuongvng">Copy rank badge</a><br/>
 			Cuong Nguyen
 		</td>
 		<td>No Company</td>
@@ -3814,7 +3816,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/huynhducduy">
 				<img src="https://avatars.githubusercontent.com/u/12293622?s=72&u=7f3b387c8c2cba091e83ccdfcef3b1601d256753&v=4" width="24" alt="Avatar of huynhducduy"> huynhducduy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#huynhducduy">Copy rank badge</a><br/>
 			Huynh Duc Duy
 		</td>
 		<td>@line </td>
@@ -3827,7 +3829,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Kanvad">
 				<img src="https://avatars.githubusercontent.com/u/104117240?s=72&u=e581eadd83e9a7911e151c754db6d3efa148088d&v=4" width="24" alt="Avatar of Kanvad"> Kanvad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Kanvad">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -3840,7 +3842,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hai-rise">
 				<img src="https://avatars.githubusercontent.com/u/150876604?s=72&u=ab9b64dc0142ffc2865931db91d68ffca12af912&v=4" width="24" alt="Avatar of hai-rise"> hai-rise
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hai-rise">Copy rank badge</a><br/>
 			Hai | RISE
 		</td>
 		<td>@risechain </td>
@@ -3853,7 +3855,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nntoan">
 				<img src="https://avatars.githubusercontent.com/u/3891429?s=72&v=4" width="24" alt="Avatar of nntoan"> nntoan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nntoan">Copy rank badge</a><br/>
 			Toan Nguyen
 		</td>
 		<td>Digitas Australia </td>
@@ -3866,7 +3868,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/RandomMaerks">
 				<img src="https://avatars.githubusercontent.com/u/109415614?s=72&u=e01e65474777bd883e5947bcc7a5608f8f23f1d4&v=4" width="24" alt="Avatar of RandomMaerks"> RandomMaerks
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#RandomMaerks">Copy rank badge</a><br/>
 			RandomMaerks
 		</td>
 		<td>No Company</td>
@@ -3879,7 +3881,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tankvn">
 				<img src="https://avatars.githubusercontent.com/u/5119124?s=72&u=7012851138fff3a8b82c807382d76016cc41a986&v=4" width="24" alt="Avatar of tankvn"> tankvn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tankvn">Copy rank badge</a><br/>
 			TAn
 		</td>
 		<td>Tank Studio </td>
@@ -3892,7 +3894,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trgiangdo">
 				<img src="https://avatars.githubusercontent.com/u/37588363?s=72&u=ba0939dfeefffd45c99d81dcea3852739b4d15df&v=4" width="24" alt="Avatar of trgiangdo"> trgiangdo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trgiangdo">Copy rank badge</a><br/>
 			Đỗ Trường Giang
 		</td>
 		<td>@avaiga </td>
@@ -3905,7 +3907,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/kics223w1">
 				<img src="https://avatars.githubusercontent.com/u/77295189?s=72&u=00551d91a6b8740327802ff5186c725b9d6ffc62&v=4" width="24" alt="Avatar of kics223w1"> kics223w1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#kics223w1">Copy rank badge</a><br/>
 			Huy Cao (Cillian)
 		</td>
 		<td>No Company</td>
@@ -3918,7 +3920,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/khanhtranngoccva">
 				<img src="https://avatars.githubusercontent.com/u/61155608?s=72&u=49bfe744776da4eeed733a531c733e2bafeaa43c&v=4" width="24" alt="Avatar of khanhtranngoccva"> khanhtranngoccva
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#khanhtranngoccva">Copy rank badge</a><br/>
 			Khanh Tran
 		</td>
 		<td>100devs </td>
@@ -3931,7 +3933,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/duthaho">
 				<img src="https://avatars.githubusercontent.com/u/16200755?s=72&v=4" width="24" alt="Avatar of duthaho"> duthaho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#duthaho">Copy rank badge</a><br/>
 			duthaho
 		</td>
 		<td>Paradox </td>
@@ -3944,7 +3946,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/letranduytan">
 				<img src="https://avatars.githubusercontent.com/u/24545135?s=72&u=00bce297939b24fb70bf6ca0707c413ba99e24da&v=4" width="24" alt="Avatar of letranduytan"> letranduytan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#letranduytan">Copy rank badge</a><br/>
 			Lê Trần Duy Tân
 		</td>
 		<td>No Company</td>
@@ -3957,7 +3959,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nvquanghuy">
 				<img src="https://avatars.githubusercontent.com/u/519800?s=72&u=d9164d55680c32f9409137857f95f024cf0106a9&v=4" width="24" alt="Avatar of nvquanghuy"> nvquanghuy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nvquanghuy">Copy rank badge</a><br/>
 			Huy Nguyen
 		</td>
 		<td>Home </td>
@@ -3970,7 +3972,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hllj">
 				<img src="https://avatars.githubusercontent.com/u/32448829?s=72&u=ad9a3c9bf632f08e37731cf50191dbc10a81bd8a&v=4" width="24" alt="Avatar of hllj"> hllj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hllj">Copy rank badge</a><br/>
 			Bui Van Hop
 		</td>
 		<td>Renesas Design Vietnam </td>
@@ -3983,7 +3985,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/KingNNT">
 				<img src="https://avatars.githubusercontent.com/u/38956244?s=72&u=2d8dd42478ff6240f3938f895631531622c605e6&v=4" width="24" alt="Avatar of KingNNT"> KingNNT
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#KingNNT">Copy rank badge</a><br/>
 			Tuan Ninh Ngoc
 		</td>
 		<td>No Company</td>
@@ -3996,7 +3998,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/NgaiLong49423">
 				<img src="https://avatars.githubusercontent.com/u/163678565?s=72&u=e1f4ef2fd38a42ddce9c4ec84a33d735f671d9bf&v=4" width="24" alt="Avatar of NgaiLong49423"> NgaiLong49423
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#NgaiLong49423">Copy rank badge</a><br/>
 			Ngo Gia Long
 		</td>
 		<td>No Company</td>
@@ -4009,7 +4011,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Tuanpluss02">
 				<img src="https://avatars.githubusercontent.com/u/82562559?s=72&u=e04a83baa9ea67405b71de5e27a8f0955921a9f2&v=4" width="24" alt="Avatar of Tuanpluss02"> Tuanpluss02
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Tuanpluss02">Copy rank badge</a><br/>
 			Tuân Đỗ
 		</td>
 		<td>@mely-apps </td>
@@ -4022,7 +4024,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trunghieu99tt">
 				<img src="https://avatars.githubusercontent.com/u/37579106?s=72&u=ea9d13ffed0d52442cb28b2ed98bb9c9f566c52e&v=4" width="24" alt="Avatar of trunghieu99tt"> trunghieu99tt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trunghieu99tt">Copy rank badge</a><br/>
 			Nguyễn Trung Hiếu
 		</td>
 		<td>@grab </td>
@@ -4035,7 +4037,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/quyetlv12">
 				<img src="https://avatars.githubusercontent.com/u/66795350?s=72&u=b5a401bc59403a4384cdf82781b9b21150cec9bd&v=4" width="24" alt="Avatar of quyetlv12"> quyetlv12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#quyetlv12">Copy rank badge</a><br/>
 			quyetlv
 		</td>
 		<td>No Company</td>
@@ -4048,7 +4050,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/khanhney">
 				<img src="https://avatars.githubusercontent.com/u/28681675?s=72&u=034c0bee672cd2add92ee0ad387cb384d7918d85&v=4" width="24" alt="Avatar of khanhney"> khanhney
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#khanhney">Copy rank badge</a><br/>
 			Khanh Ney
 		</td>
 		<td>@hiliosai  </td>
@@ -4061,7 +4063,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hungps">
 				<img src="https://avatars.githubusercontent.com/u/25026496?s=72&u=543aa5a5d7f46164beb06996feaf7c04256c1832&v=4" width="24" alt="Avatar of hungps"> hungps
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hungps">Copy rank badge</a><br/>
 			Hung Pham Sy
 		</td>
 		<td>No Company</td>
@@ -4074,7 +4076,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuanpmt">
 				<img src="https://avatars.githubusercontent.com/u/1904924?s=72&u=c49171be7e8964f239e094289051fae3da7d6ed2&v=4" width="24" alt="Avatar of tuanpmt"> tuanpmt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tuanpmt">Copy rank badge</a><br/>
 			Tuan
 		</td>
 		<td>No Company</td>
@@ -4087,7 +4089,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/bibo318">
 				<img src="https://avatars.githubusercontent.com/u/56821442?s=72&u=7a21a36069f9d190be5827112ec4146e986be772&v=4" width="24" alt="Avatar of bibo318"> bibo318
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#bibo318">Copy rank badge</a><br/>
 			Debugs
 		</td>
 		<td>Sysops - Pentesting </td>
@@ -4100,7 +4102,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nmd2k">
 				<img src="https://avatars.githubusercontent.com/u/48562727?s=72&u=4edc950dbf5d1f58227d619c31cc77e86635de45&v=4" width="24" alt="Avatar of nmd2k"> nmd2k
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nmd2k">Copy rank badge</a><br/>
 			Nguyễn Mạnh Dũng
 		</td>
 		<td>Fptsoftware Ai Center </td>
@@ -4113,7 +4115,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/YangTuanAnh">
 				<img src="https://avatars.githubusercontent.com/u/78615512?s=72&u=19fb7f0e84f6ffda9d5690faa020dfa0a7b33744&v=4" width="24" alt="Avatar of YangTuanAnh"> YangTuanAnh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#YangTuanAnh">Copy rank badge</a><br/>
 			YangTuanAnh
 		</td>
 		<td>@steamforvietnam </td>
@@ -4126,7 +4128,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/r0b0t3d">
 				<img src="https://avatars.githubusercontent.com/u/8109285?s=72&u=4fe3436cfb32b6af131f9aa4278d083d5b4a12a2&v=4" width="24" alt="Avatar of r0b0t3d"> r0b0t3d
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#r0b0t3d">Copy rank badge</a><br/>
 			Tuan Luong
 		</td>
 		<td>No Company</td>
@@ -4139,7 +4141,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/duysolo">
 				<img src="https://avatars.githubusercontent.com/u/10369102?s=72&u=c870f5406e2f0e24e3d9e8e9a4a9adc29a717c8a&v=4" width="24" alt="Avatar of duysolo"> duysolo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#duysolo">Copy rank badge</a><br/>
 			Justin Phan
 		</td>
 		<td>Cbtw Ltd. </td>
@@ -4152,7 +4154,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hieuwu">
 				<img src="https://avatars.githubusercontent.com/u/43868345?s=72&u=360cd33b771fec9630583803255881179a46dce1&v=4" width="24" alt="Avatar of hieuwu"> hieuwu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hieuwu">Copy rank badge</a><br/>
 			Hieu Vu
 		</td>
 		<td>No Company</td>
@@ -4165,7 +4167,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tranquangvu">
 				<img src="https://avatars.githubusercontent.com/u/6037861?s=72&u=cdb070271739701af325069a8e6aa42aa24c5acb&v=4" width="24" alt="Avatar of tranquangvu"> tranquangvu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tranquangvu">Copy rank badge</a><br/>
 			Ben Tran
 		</td>
 		<td>Golden Owl  Solutions<br/></td>
@@ -4178,7 +4180,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/teebow1e">
 				<img src="https://avatars.githubusercontent.com/u/130235050?s=72&u=2f8e4dff90c5fbd82afc33b59b09562e9e1bff90&v=4" width="24" alt="Avatar of teebow1e"> teebow1e
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#teebow1e">Copy rank badge</a><br/>
 			Trung Tran
 		</td>
 		<td>No Company</td>
@@ -4191,7 +4193,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/patrickhartono">
 				<img src="https://avatars.githubusercontent.com/u/4111273?s=72&v=4" width="24" alt="Avatar of patrickhartono"> patrickhartono
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#patrickhartono">Copy rank badge</a><br/>
 			patrickhartono
 		</td>
 		<td>Rmit University </td>
@@ -4204,7 +4206,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ndaidong">
 				<img src="https://avatars.githubusercontent.com/u/1809619?s=72&u=184fe51f16abb72c97306755602057d751dc48df&v=4" width="24" alt="Avatar of ndaidong"> ndaidong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ndaidong">Copy rank badge</a><br/>
 			Dong Nguyen
 		</td>
 		<td>No Company</td>
@@ -4217,7 +4219,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nghiant3223">
 				<img src="https://avatars.githubusercontent.com/u/32875747?s=72&u=32aceffa0b4b687418bcc44d8439da886bf05309&v=4" width="24" alt="Avatar of nghiant3223"> nghiant3223
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nghiant3223">Copy rank badge</a><br/>
 			Nguyen Trong Nghia
 		</td>
 		<td>No Company</td>
@@ -4230,7 +4232,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/0xj4m35">
 				<img src="https://avatars.githubusercontent.com/u/36961697?s=72&u=f72064c653210ce25eca5b68283681f2c89c7ae5&v=4" width="24" alt="Avatar of 0xj4m35"> 0xj4m35
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#0xj4m35">Copy rank badge</a><br/>
 			Nguyễn Thái Bảo
 		</td>
 		<td>@minswap </td>
@@ -4243,7 +4245,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vuanhtu1993">
 				<img src="https://avatars.githubusercontent.com/u/29482564?s=72&u=91b8ee3476825e49f801057b074c78429a0e8ad3&v=4" width="24" alt="Avatar of vuanhtu1993"> vuanhtu1993
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vuanhtu1993">Copy rank badge</a><br/>
 			Vũ Anh Tú
 		</td>
 		<td>Fpt Education </td>
@@ -4256,7 +4258,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/oanhnn">
 				<img src="https://avatars.githubusercontent.com/u/1757120?s=72&u=74487a7a9d8628c228a738a0dfdbbad710fba3ae&v=4" width="24" alt="Avatar of oanhnn"> oanhnn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#oanhnn">Copy rank badge</a><br/>
 			Oanh Nguyen
 		</td>
 		<td>Rabiloo Co., Ltd </td>
@@ -4269,7 +4271,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tungdo0602">
 				<img src="https://avatars.githubusercontent.com/u/89498812?s=72&u=49ff2f7aae26c867b1a0b4dceb644d8b8f7d08da&v=4" width="24" alt="Avatar of tungdo0602"> tungdo0602
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tungdo0602">Copy rank badge</a><br/>
 			Tung
 		</td>
 		<td>Nan </td>
@@ -4282,7 +4284,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/revskill10">
 				<img src="https://avatars.githubusercontent.com/u/1390196?s=72&u=d479ec3e5b62f170de98c85f48f0f6ae265bea07&v=4" width="24" alt="Avatar of revskill10"> revskill10
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#revskill10">Copy rank badge</a><br/>
 			Truong Hoang Dung
 		</td>
 		<td>Freelancer </td>
@@ -4295,7 +4297,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/thinhlpg">
 				<img src="https://avatars.githubusercontent.com/u/90838458?s=72&u=597b2b70fdc21c139db64f1742dfa73702fa0a66&v=4" width="24" alt="Avatar of thinhlpg"> thinhlpg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#thinhlpg">Copy rank badge</a><br/>
 			Thinh Le
 		</td>
 		<td>No Company</td>
@@ -4308,7 +4310,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/minhh2792">
 				<img src="https://avatars.githubusercontent.com/u/63439671?s=72&u=7a81d9f979b33235095c7210589b9f2f37680097&v=4" width="24" alt="Avatar of minhh2792"> minhh2792
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#minhh2792">Copy rank badge</a><br/>
 			Minh Nguyen
 		</td>
 		<td>@minevn </td>
@@ -4321,7 +4323,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/igdev116">
 				<img src="https://avatars.githubusercontent.com/u/70432453?s=72&u=c17ff17413a3073f4a155082b4dd1c0948f7e512&v=4" width="24" alt="Avatar of igdev116"> igdev116
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#igdev116">Copy rank badge</a><br/>
 			Hung Minh
 		</td>
 		<td>No Company</td>
@@ -4334,7 +4336,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vutuanhai237">
 				<img src="https://avatars.githubusercontent.com/u/43202025?s=72&u=405d86eb2d32223dbb7a032ac4aacde8ddfb793a&v=4" width="24" alt="Avatar of vutuanhai237"> vutuanhai237
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vutuanhai237">Copy rank badge</a><br/>
 			Vu Tuan Hai
 		</td>
 		<td>University Of Information Technology,<br/>Vietnam<br/>National<br/>University<br/>Hcm<br/>City<br/></td>
@@ -4347,7 +4349,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/huuquyet">
 				<img src="https://avatars.githubusercontent.com/u/35992057?s=72&u=0fdeaa7a47bcdad1363488a452c56a1b3b8f0000&v=4" width="24" alt="Avatar of huuquyet"> huuquyet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#huuquyet">Copy rank badge</a><br/>
 			Quyet Nguyen
 		</td>
 		<td>No Company</td>
@@ -4360,7 +4362,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ntxinh">
 				<img src="https://avatars.githubusercontent.com/u/14963070?s=72&u=c97ec9efbbcca44f2ed7376d144b51d89520f24e&v=4" width="24" alt="Avatar of ntxinh"> ntxinh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ntxinh">Copy rank badge</a><br/>
 			Xinh Nguyen
 		</td>
 		<td>No Company</td>
@@ -4373,7 +4375,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nhoxbypass">
 				<img src="https://avatars.githubusercontent.com/u/12061934?s=72&u=c03641e15213c674822e730a03d2f586a09f9f9c&v=4" width="24" alt="Avatar of nhoxbypass"> nhoxbypass
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nhoxbypass">Copy rank badge</a><br/>
 			Tam H. Doan
 		</td>
 		<td>Zalo </td>
@@ -4386,7 +4388,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/bvquoc">
 				<img src="https://avatars.githubusercontent.com/u/46956070?s=72&u=72c23cd95b66937fc538eb67054296998a970eb7&v=4" width="24" alt="Avatar of bvquoc"> bvquoc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#bvquoc">Copy rank badge</a><br/>
 			Quoc, Bui Vi
 		</td>
 		<td>@naver </td>
@@ -4399,7 +4401,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trumhemcut">
 				<img src="https://avatars.githubusercontent.com/u/5198341?s=72&u=e02548fc24c98683f48fd06064e15cdfa536c51e&v=4" width="24" alt="Avatar of trumhemcut"> trumhemcut
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trumhemcut">Copy rank badge</a><br/>
 			Phi Huynh
 		</td>
 		<td>Nashtech Vietnam </td>
@@ -4412,7 +4414,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/huyquoctrinh">
 				<img src="https://avatars.githubusercontent.com/u/47996835?s=72&u=2ec809c2bfdcc9956308d61541c5d57b03ac6490&v=4" width="24" alt="Avatar of huyquoctrinh"> huyquoctrinh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#huyquoctrinh">Copy rank badge</a><br/>
 			Trinh Quoc Huy
 		</td>
 		<td>Aalto University, Espoo, Finland<br/></td>
@@ -4425,7 +4427,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/WeansHHN">
 				<img src="https://avatars.githubusercontent.com/u/137310130?s=72&u=1b6e6b752a18ca75cd35c5ad1bda77defa8fe8df&v=4" width="24" alt="Avatar of WeansHHN"> WeansHHN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#WeansHHN">Copy rank badge</a><br/>
 			Weans
 		</td>
 		<td>I Am Otaku:>> </td>
@@ -4438,7 +4440,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trietptm">
 				<img src="https://avatars.githubusercontent.com/u/526959?s=72&v=4" width="24" alt="Avatar of trietptm"> trietptm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trietptm">Copy rank badge</a><br/>
 			Minh-Triet Pham Tran
 		</td>
 		<td>Trietptm Infosec </td>
@@ -4451,7 +4453,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trannguyenhan">
 				<img src="https://avatars.githubusercontent.com/u/57361682?s=72&u=e838142761e938569d2ff942073acf290fffd8dd&v=4" width="24" alt="Avatar of trannguyenhan"> trannguyenhan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trannguyenhan">Copy rank badge</a><br/>
 			Nguyễn Quang Huy
 		</td>
 		<td>Hust </td>
@@ -4464,7 +4466,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trungnt13">
 				<img src="https://avatars.githubusercontent.com/u/1390402?s=72&u=b454f8f9f1eb7056d29625b920d2f06890ab24f0&v=4" width="24" alt="Avatar of trungnt13"> trungnt13
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trungnt13">Copy rank badge</a><br/>
 			Trung Ngo
 		</td>
 		<td>No Company</td>
@@ -4477,7 +4479,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/longphanquangminh">
 				<img src="https://avatars.githubusercontent.com/u/111166256?s=72&u=f407f1f530c766d7dbe01b4b15d3e5c7ecfc7303&v=4" width="24" alt="Avatar of longphanquangminh"> longphanquangminh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#longphanquangminh">Copy rank badge</a><br/>
 			Minh Long
 		</td>
 		<td>@skymavis @axieinfinity </td>
@@ -4490,7 +4492,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ntphuc149">
 				<img src="https://avatars.githubusercontent.com/u/99306941?s=72&v=4" width="24" alt="Avatar of ntphuc149"> ntphuc149
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ntphuc149">Copy rank badge</a><br/>
 			Truong-Phuc Nguyen
 		</td>
 		<td>No Company</td>
@@ -4503,7 +4505,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/cuynu">
 				<img src="https://avatars.githubusercontent.com/u/90895715?s=72&u=eb82d19df63f7d4d104b84aa0f6370fcc4c854e3&v=4" width="24" alt="Avatar of cuynu"> cuynu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#cuynu">Copy rank badge</a><br/>
 			Cuynu
 		</td>
 		<td>No Company</td>
@@ -4516,7 +4518,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ng-hai">
 				<img src="https://avatars.githubusercontent.com/u/19520278?s=72&u=c2df7f787ccc6494d1de050e61f2ad40d80c46d1&v=4" width="24" alt="Avatar of ng-hai"> ng-hai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ng-hai">Copy rank badge</a><br/>
 			Hai Nguyen
 		</td>
 		<td>No Company</td>
@@ -4529,7 +4531,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoangtaiki">
 				<img src="https://avatars.githubusercontent.com/u/4071838?s=72&u=ac9ea5e79553aaa7fd1cef7dba898355eeca39c9&v=4" width="24" alt="Avatar of hoangtaiki"> hoangtaiki
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoangtaiki">Copy rank badge</a><br/>
 			Harry Tran
 		</td>
 		<td>No Company</td>
@@ -4542,7 +4544,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tranvictor">
 				<img src="https://avatars.githubusercontent.com/u/5132552?s=72&u=47b3416ec74094f55269c1e0cab515dba69b8724&v=4" width="24" alt="Avatar of tranvictor"> tranvictor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tranvictor">Copy rank badge</a><br/>
 			Victor Tran
 		</td>
 		<td>@kybernetwork </td>
@@ -4555,7 +4557,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nvh95">
 				<img src="https://avatars.githubusercontent.com/u/8603085?s=72&v=4" width="24" alt="Avatar of nvh95"> nvh95
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nvh95">Copy rank badge</a><br/>
 			Hung Viet Nguyen
 		</td>
 		<td>No Company</td>
@@ -4568,7 +4570,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/lelinhtinh">
 				<img src="https://avatars.githubusercontent.com/u/5460915?s=72&u=83dc439898cf5e254377f208a6f728bdecd36da5&v=4" width="24" alt="Avatar of lelinhtinh"> lelinhtinh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#lelinhtinh">Copy rank badge</a><br/>
 			Thành Thân Thiện
 		</td>
 		<td>No Company</td>
@@ -4581,7 +4583,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/astronaut1712">
 				<img src="https://avatars.githubusercontent.com/u/2898284?s=72&u=7a027f5dcaa45fe4576821439b50c591b3fecee4&v=4" width="24" alt="Avatar of astronaut1712"> astronaut1712
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#astronaut1712">Copy rank badge</a><br/>
 			Arthur
 		</td>
 		<td>No Company</td>
@@ -4594,7 +4596,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/smew-tech">
 				<img src="https://avatars.githubusercontent.com/u/7553452?s=72&u=a7a85e66673a3b9e229b66dcfaf3570a5816bac7&v=4" width="24" alt="Avatar of smew-tech"> smew-tech
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#smew-tech">Copy rank badge</a><br/>
 			SMEW
 		</td>
 		<td>Smew Technology </td>
@@ -4607,7 +4609,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hypnguyen1209">
 				<img src="https://avatars.githubusercontent.com/u/33387061?s=72&u=d675b55744dcedd344a88c2eadf248bbfabbf9d7&v=4" width="24" alt="Avatar of hypnguyen1209"> hypnguyen1209
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hypnguyen1209">Copy rank badge</a><br/>
 			Nguyen Van Hiep
 		</td>
 		<td>@mew-sh </td>
@@ -4620,7 +4622,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/huythai855">
 				<img src="https://avatars.githubusercontent.com/u/51937716?s=72&u=5e9659c7f87c49181e002aa076c5ed43ddfe4f9e&v=4" width="24" alt="Avatar of huythai855"> huythai855
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#huythai855">Copy rank badge</a><br/>
 			Huy Thai Nguyen
 		</td>
 		<td>University Of Engineering And<br/>Technology<br/>(vietnam<br/>National<br/>University)<br/></td>
@@ -4633,7 +4635,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/sunlight3d">
 				<img src="https://avatars.githubusercontent.com/u/5370919?s=72&u=79d750592b272c7bd467e659e7b6ed2386d01695&v=4" width="24" alt="Avatar of sunlight3d"> sunlight3d
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#sunlight3d">Copy rank badge</a><br/>
 			Nguyen Duc Hoang
 		</td>
 		<td>Https://www.youtube. </td>
@@ -4646,7 +4648,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/quyettranvu">
 				<img src="https://avatars.githubusercontent.com/u/79063319?s=72&u=3388f7c57ff0740d94c66864f75787daa8a1ef66&v=4" width="24" alt="Avatar of quyettranvu"> quyettranvu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#quyettranvu">Copy rank badge</a><br/>
 			Trần Vũ Quyết
 		</td>
 		<td>Hitachi Digital Services </td>
@@ -4659,7 +4661,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/taprosoft">
 				<img src="https://avatars.githubusercontent.com/u/15842122?s=72&v=4" width="24" alt="Avatar of taprosoft"> taprosoft
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#taprosoft">Copy rank badge</a><br/>
 			Tuan Anh Nguyen Dang (Tadashi)
 		</td>
 		<td>@cinnamon  </td>
@@ -4672,7 +4674,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ducnpdev">
 				<img src="https://avatars.githubusercontent.com/u/75940977?s=72&u=77dbdbeb03765b68724cbfa78684c528a4ff5024&v=4" width="24" alt="Avatar of ducnpdev"> ducnpdev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ducnpdev">Copy rank badge</a><br/>
 			phucducktpm
 		</td>
 		<td>Hdbank </td>
@@ -4685,7 +4687,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/quangdangfit">
 				<img src="https://avatars.githubusercontent.com/u/35805105?s=72&u=27ddb370d5f95bcd73b9c48e59993a42e8f078d1&v=4" width="24" alt="Avatar of quangdangfit"> quangdangfit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#quangdangfit">Copy rank badge</a><br/>
 			Quang Dang
 		</td>
 		<td>No Company</td>
@@ -4698,7 +4700,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ToanPV90">
 				<img src="https://avatars.githubusercontent.com/u/10155431?s=72&v=4" width="24" alt="Avatar of ToanPV90"> ToanPV90
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ToanPV90">Copy rank badge</a><br/>
 			toanpham
 		</td>
 		<td>No Company</td>
@@ -4711,7 +4713,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/baontq23">
 				<img src="https://avatars.githubusercontent.com/u/65148766?s=72&u=27cf415001cc542c74102e851bebd0332eb7ff38&v=4" width="24" alt="Avatar of baontq23"> baontq23
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#baontq23">Copy rank badge</a><br/>
 			Bao Nguyen
 		</td>
 		<td>Apiserver </td>
@@ -4724,7 +4726,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/cminhho">
 				<img src="https://avatars.githubusercontent.com/u/10251630?s=72&u=2c568ea66317f22ea1f87bc28c1b8e07375f59df&v=4" width="24" alt="Avatar of cminhho"> cminhho
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#cminhho">Copy rank badge</a><br/>
 			Ho Minh Chung (Chung Ho)
 		</td>
 		<td>No Company</td>
@@ -4737,7 +4739,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/0xliam627">
 				<img src="https://avatars.githubusercontent.com/u/70517151?s=72&u=da467973bc5821fcafa9db339b9f8faa2f1efb5d&v=4" width="24" alt="Avatar of 0xliam627"> 0xliam627
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#0xliam627">Copy rank badge</a><br/>
 			Call Me Harry
 		</td>
 		<td>Twotech </td>
@@ -4750,7 +4752,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/giangndm">
 				<img src="https://avatars.githubusercontent.com/u/45644921?s=72&v=4" width="24" alt="Avatar of giangndm"> giangndm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#giangndm">Copy rank badge</a><br/>
 			giangndm
 		</td>
 		<td>8xff </td>
@@ -4763,7 +4765,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/truongnh1992">
 				<img src="https://avatars.githubusercontent.com/u/25559744?s=72&u=38b59455c6f2a0bf00d8995da394801eebca5757&v=4" width="24" alt="Avatar of truongnh1992"> truongnh1992
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#truongnh1992">Copy rank badge</a><br/>
 			Truong Nguyen
 		</td>
 		<td>@clareai </td>
@@ -4776,7 +4778,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/anindex">
 				<img src="https://avatars.githubusercontent.com/u/18066876?s=72&u=b32a9dc7353b39082098de39e0bd4725c90e9c6e&v=4" width="24" alt="Avatar of anindex"> anindex
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#anindex">Copy rank badge</a><br/>
 			An Thai Le
 		</td>
 		<td>Vinuniversity </td>
@@ -4789,7 +4791,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Github-Aiko">
 				<img src="https://avatars.githubusercontent.com/u/100770712?s=72&u=7bbc8ff9fbbe137add4b111ff138ea18d45a4f3a&v=4" width="24" alt="Avatar of Github-Aiko"> Github-Aiko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Github-Aiko">Copy rank badge</a><br/>
 			Aiko
 		</td>
 		<td>Aikocute </td>
@@ -4802,7 +4804,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dzungpv">
 				<img src="https://avatars.githubusercontent.com/u/10563561?s=72&v=4" width="24" alt="Avatar of dzungpv"> dzungpv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dzungpv">Copy rank badge</a><br/>
 			Pham Viet Dzung
 		</td>
 		<td>No Company</td>
@@ -4815,7 +4817,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/TienHuyIoT">
 				<img src="https://avatars.githubusercontent.com/u/22858157?s=72&u=7d69afe494cbbac7bf5de87be94a2eccfed16198&v=4" width="24" alt="Avatar of TienHuyIoT"> TienHuyIoT
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#TienHuyIoT">Copy rank badge</a><br/>
 			Tien Huy Huynh
 		</td>
 		<td>No Company</td>
@@ -4828,7 +4830,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/howljs">
 				<img src="https://avatars.githubusercontent.com/u/33460888?s=72&u=cc3b6321cc34529b421a382e9fccab212aa4d914&v=4" width="24" alt="Avatar of howljs"> howljs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#howljs">Copy rank badge</a><br/>
 			Lê Hậu
 		</td>
 		<td>No Company</td>
@@ -4841,7 +4843,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/MeowIce">
 				<img src="https://avatars.githubusercontent.com/u/70711319?s=72&u=e02746acfa2d8e3d77fe65d1cea5a49e460f3d44&v=4" width="24" alt="Avatar of MeowIce"> MeowIce
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#MeowIce">Copy rank badge</a><br/>
 			MeowIce
 		</td>
 		<td>Founder @ Meowsmp.net </td>
@@ -4854,7 +4856,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nhatthaiquang-agilityio">
 				<img src="https://avatars.githubusercontent.com/u/3013273?s=72&u=5313d80fa31a6e63463528b31cff4cae6c6df665&v=4" width="24" alt="Avatar of nhatthaiquang-agilityio"> nhatthaiquang-agilityio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nhatthaiquang-agilityio">Copy rank badge</a><br/>
 			Nhat Thai
 		</td>
 		<td>Agilityio </td>
@@ -4867,7 +4869,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/cuonglm">
 				<img src="https://avatars.githubusercontent.com/u/4304764?s=72&v=4" width="24" alt="Avatar of cuonglm"> cuonglm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#cuonglm">Copy rank badge</a><br/>
 			Cuong Manh Le
 		</td>
 		<td>No Company</td>
@@ -4880,7 +4882,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/sangnguyens">
 				<img src="https://avatars.githubusercontent.com/u/104602469?s=72&u=9eb0a7166f93d677166bcb0feeca78ced6558b11&v=4" width="24" alt="Avatar of sangnguyens"> sangnguyens
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#sangnguyens">Copy rank badge</a><br/>
 			NguyenS (he/him)
 		</td>
 		<td>Vietnam Petroleum Institute </td>
@@ -4893,7 +4895,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/TechMaster">
 				<img src="https://avatars.githubusercontent.com/u/1491686?s=72&u=d8e7bde405a5224386942158f4ff361e8f29cd49&v=4" width="24" alt="Avatar of TechMaster"> TechMaster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#TechMaster">Copy rank badge</a><br/>
 			Trinh Minh Cuong
 		</td>
 		<td>Techmaster Vietnam </td>
@@ -4906,7 +4908,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/sethsandaru">
 				<img src="https://avatars.githubusercontent.com/u/23478115?s=72&u=201720952e1cd1e3e87bfe1229bd119f92b67d8a&v=4" width="24" alt="Avatar of sethsandaru"> sethsandaru
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#sethsandaru">Copy rank badge</a><br/>
 			Seth Phat
 		</td>
 		<td>Desire Grand Prix </td>
@@ -4919,7 +4921,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoasung01">
 				<img src="https://avatars.githubusercontent.com/u/4177327?s=72&u=e709c5f1e3b1b7df8c199bf16cc5fc15eaf74702&v=4" width="24" alt="Avatar of hoasung01"> hoasung01
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoasung01">Copy rank badge</a><br/>
 			Nguyen Ngoc Hai
 		</td>
 		<td>Chả Cá Thu Hương<br/></td>
@@ -4932,7 +4934,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/NamNamIoT">
 				<img src="https://avatars.githubusercontent.com/u/49629370?s=72&u=a4bde6c33a61451a8bddf805845771ce83f2c33d&v=4" width="24" alt="Avatar of NamNamIoT"> NamNamIoT
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#NamNamIoT">Copy rank badge</a><br/>
 			NamNamIoT
 		</td>
 		<td>Canopus Co.,ltd </td>
@@ -4945,7 +4947,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/bmd1905">
 				<img src="https://avatars.githubusercontent.com/u/90423581?s=72&u=d2b5ea1b8fe1c33f4acbfbc97552fd69092033be&v=4" width="24" alt="Avatar of bmd1905"> bmd1905
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#bmd1905">Copy rank badge</a><br/>
 			Minh-Duc Bui
 		</td>
 		<td>Cloudthinker </td>
@@ -4958,7 +4960,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/luanhytran">
 				<img src="https://avatars.githubusercontent.com/u/47807877?s=72&u=6447d58e03c23617eb566eac25eddbb79bd3c5c5&v=4" width="24" alt="Avatar of luanhytran"> luanhytran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#luanhytran">Copy rank badge</a><br/>
 			Luan Hy
 		</td>
 		<td>No Company</td>
@@ -4971,7 +4973,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nyagami">
 				<img src="https://avatars.githubusercontent.com/u/86464880?s=72&u=8499fbf316be13a725c408c5d22588a8760552a5&v=4" width="24" alt="Avatar of nyagami"> nyagami
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nyagami">Copy rank badge</a><br/>
 			nyagami
 		</td>
 		<td>@lnreader @mely-apps </td>
@@ -4984,7 +4986,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nayumiDEV">
 				<img src="https://avatars.githubusercontent.com/u/59746573?s=72&u=1da4d2e7a9e1fc1a1bbd0bd1fbbec1b72843ad9e&v=4" width="24" alt="Avatar of nayumiDEV"> nayumiDEV
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nayumiDEV">Copy rank badge</a><br/>
 			ndbiaw
 		</td>
 		<td>Nayumidev Opc </td>
@@ -4997,7 +4999,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/HocJ2me">
 				<img src="https://avatars.githubusercontent.com/u/45262669?s=72&v=4" width="24" alt="Avatar of HocJ2me"> HocJ2me
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#HocJ2me">Copy rank badge</a><br/>
 			Lê Chí Tuyền
 		</td>
 		<td>Cto At Ecotel </td>
@@ -5010,7 +5012,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hungran">
 				<img src="https://avatars.githubusercontent.com/u/26101787?s=72&u=960d58445db0bf1ab4df3edefd3a367e5ebb3a03&v=4" width="24" alt="Avatar of hungran"> hungran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hungran">Copy rank badge</a><br/>
 			Henry Vu
 		</td>
 		<td>Playstudios </td>
@@ -5023,7 +5025,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/DucHuy2102">
 				<img src="https://avatars.githubusercontent.com/u/90611301?s=72&u=cfc32f0f45d48494a375365daa32cb520104cf10&v=4" width="24" alt="Avatar of DucHuy2102"> DucHuy2102
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#DucHuy2102">Copy rank badge</a><br/>
 			Nguyen Duc Huy
 		</td>
 		<td>No Company</td>
@@ -5036,7 +5038,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Bonmiuken">
 				<img src="https://avatars.githubusercontent.com/u/176895648?s=72&u=bf2eb8a59f4315c45c072f97ddbf99ee7bf85ed0&v=4" width="24" alt="Avatar of Bonmiuken"> Bonmiuken
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Bonmiuken">Copy rank badge</a><br/>
 			Bonmiuken
 		</td>
 		<td>Calachi Inc  </td>
@@ -5049,7 +5051,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuongclearlove7">
 				<img src="https://avatars.githubusercontent.com/u/88828156?s=72&u=796a351d6a94df66f8b638e90c97d4691896528c&v=4" width="24" alt="Avatar of tuongclearlove7"> tuongclearlove7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tuongclearlove7">Copy rank badge</a><br/>
 			Clearlove7
 		</td>
 		<td>No Company</td>
@@ -5062,7 +5064,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ParkSeoHai">
 				<img src="https://avatars.githubusercontent.com/u/105920262?s=72&u=0dae8b40c46e954b068010668de302ad04638ea4&v=4" width="24" alt="Avatar of ParkSeoHai"> ParkSeoHai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ParkSeoHai">Copy rank badge</a><br/>
 			Nguyen Van Hai
 		</td>
 		<td>No Company</td>
@@ -5075,7 +5077,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nobiit">
 				<img src="https://avatars.githubusercontent.com/u/45024177?s=72&u=cd692760c4505a684524382b3c986c455c3497a1&v=4" width="24" alt="Avatar of nobiit"> nobiit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nobiit">Copy rank badge</a><br/>
 			Nguyễn Đức Chiến
 		</td>
 		<td>@nobidev  </td>
@@ -5088,7 +5090,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/buivannguyen">
 				<img src="https://avatars.githubusercontent.com/u/1995828?s=72&u=d7827fcc6701272067765219de083402f0f4b13a&v=4" width="24" alt="Avatar of buivannguyen"> buivannguyen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#buivannguyen">Copy rank badge</a><br/>
 			Bùi văn nguyện
 		</td>
 		<td>Blogger </td>
@@ -5101,7 +5103,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hieuwb">
 				<img src="https://avatars.githubusercontent.com/u/54319153?s=72&u=8aba87aa208336c533d1caf8c973db6c4a667fba&v=4" width="24" alt="Avatar of hieuwb"> hieuwb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hieuwb">Copy rank badge</a><br/>
 			Hieuwb
 		</td>
 		<td>1998 </td>
@@ -5114,7 +5116,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/DatacollectorVN">
 				<img src="https://avatars.githubusercontent.com/u/86464633?s=72&u=3e34ffd36cbc85e167a664e7f0eaa651d9f934b1&v=4" width="24" alt="Avatar of DatacollectorVN"> DatacollectorVN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#DatacollectorVN">Copy rank badge</a><br/>
 			Nathan Ngo
 		</td>
 		<td>No Company</td>
@@ -5127,7 +5129,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/zendy199x">
 				<img src="https://avatars.githubusercontent.com/u/50132805?s=72&u=ad1c5497f269be8935cb986f8ddb2f7a27cc6031&v=4" width="24" alt="Avatar of zendy199x"> zendy199x
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#zendy199x">Copy rank badge</a><br/>
 			Zendy
 		</td>
 		<td>Cyberlogitec Vietnam </td>
@@ -5140,7 +5142,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/namanh11611">
 				<img src="https://avatars.githubusercontent.com/u/16586200?s=72&u=5f4e72f1c9aaec8fbc49261c055fc213688bda8f&v=4" width="24" alt="Avatar of namanh11611"> namanh11611
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#namanh11611">Copy rank badge</a><br/>
 			Nam Anh Nguyen
 		</td>
 		<td>No Company</td>
@@ -5153,7 +5155,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/jnguyen095">
 				<img src="https://avatars.githubusercontent.com/u/5355877?s=72&u=0b3f7fa9d305d67661c7bfb44d2207bc625a05e8&v=4" width="24" alt="Avatar of jnguyen095"> jnguyen095
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#jnguyen095">Copy rank badge</a><br/>
 			Khang Nguyen
 		</td>
 		<td>No Company</td>
@@ -5166,7 +5168,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/kimyvgy">
 				<img src="https://avatars.githubusercontent.com/u/13513658?s=72&u=191b5e48031d9bdb90596c6c08ebec72ce8aa927&v=4" width="24" alt="Avatar of kimyvgy"> kimyvgy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#kimyvgy">Copy rank badge</a><br/>
 			Nguyen Huu Kim
 		</td>
 		<td>Sun* Inc. </td>
@@ -5179,7 +5181,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/viethoang251004">
 				<img src="https://avatars.githubusercontent.com/u/117684912?s=72&u=c135399319205dfb8f474918c9a2abe91cd51e2f&v=4" width="24" alt="Avatar of viethoang251004"> viethoang251004
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#viethoang251004">Copy rank badge</a><br/>
 			Nguyễn Đình Việt Hoàng
 		</td>
 		<td>Ton Duc Thang University<br/></td>
@@ -5192,7 +5194,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/PhuocPhat1005">
 				<img src="https://avatars.githubusercontent.com/u/129597309?s=72&u=8dd26f802a8a7a9b244ed960a6579d044df03489&v=4" width="24" alt="Avatar of PhuocPhat1005"> PhuocPhat1005
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#PhuocPhat1005">Copy rank badge</a><br/>
 			PhatLeCute2k4
 		</td>
 		<td>Cotai </td>
@@ -5205,7 +5207,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/aprius">
 				<img src="https://avatars.githubusercontent.com/u/44673303?s=72&u=27167b914d562764e5b8d0ccdbd2875961544495&v=4" width="24" alt="Avatar of aprius"> aprius
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#aprius">Copy rank badge</a><br/>
 			Aprius
 		</td>
 		<td>@foxlabglobal </td>
@@ -5218,7 +5220,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vinhhn3">
 				<img src="https://avatars.githubusercontent.com/u/64019402?s=72&u=27d83e735ca7d5377ca0cf3c7962f9b566201525&v=4" width="24" alt="Avatar of vinhhn3"> vinhhn3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vinhhn3">Copy rank badge</a><br/>
 			Vinh Hoang
 		</td>
 		<td>University Of Greenwich (vietnam)<br/></td>
@@ -5231,7 +5233,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/openhoangnc">
 				<img src="https://avatars.githubusercontent.com/u/20717116?s=72&u=30e8fd99d0ded3459155d4b0e1b6905f66010ba4&v=4" width="24" alt="Avatar of openhoangnc"> openhoangnc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#openhoangnc">Copy rank badge</a><br/>
 			Nguyen Cong Hoang
 		</td>
 		<td>No Company</td>
@@ -5244,7 +5246,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/shelld3v">
 				<img src="https://avatars.githubusercontent.com/u/59408894?s=72&u=fcb180b6e5dcc5236c00d981ca60b87fb0699ad6&v=4" width="24" alt="Avatar of shelld3v"> shelld3v
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#shelld3v">Copy rank badge</a><br/>
 			Pham Sy Minh
 		</td>
 		<td>No Company</td>
@@ -5257,7 +5259,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/inanitynoupcase">
 				<img src="https://avatars.githubusercontent.com/u/84982266?s=72&u=4afcb66f1c21ca45974a4f8592254f51a9fa4949&v=4" width="24" alt="Avatar of inanitynoupcase"> inanitynoupcase
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#inanitynoupcase">Copy rank badge</a><br/>
 			BlueDawn
 		</td>
 		<td>Posts And Telecommunications Institute<br/>Of<br/>Technology<br/>Hcm<br/>Branch<br/></td>
@@ -5270,7 +5272,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/rewhile">
 				<img src="https://avatars.githubusercontent.com/u/56817415?s=72&u=8c09e33248a191bce182bd672111a29a18c42be7&v=4" width="24" alt="Avatar of rewhile"> rewhile
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#rewhile">Copy rank badge</a><br/>
 			rewhile
 		</td>
 		<td>No Company</td>
@@ -5283,7 +5285,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/lnhutnam">
 				<img src="https://avatars.githubusercontent.com/u/52648432?s=72&u=da5649a0934877f1b7429f772b3d137a339e1818&v=4" width="24" alt="Avatar of lnhutnam"> lnhutnam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#lnhutnam">Copy rank badge</a><br/>
 			Le Nhut Nam
 		</td>
 		<td>University Of Science, Vnu-hcmc<br/></td>
@@ -5296,7 +5298,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/leduyquang753">
 				<img src="https://avatars.githubusercontent.com/u/26449060?s=72&v=4" width="24" alt="Avatar of leduyquang753"> leduyquang753
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#leduyquang753">Copy rank badge</a><br/>
 			Lê Duy Quang
 		</td>
 		<td>No Company</td>
@@ -5309,7 +5311,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ngtrvu">
 				<img src="https://avatars.githubusercontent.com/u/642260?s=72&u=f57b43e61bd0748226ee844cb73845d7ea19cb1e&v=4" width="24" alt="Avatar of ngtrvu"> ngtrvu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ngtrvu">Copy rank badge</a><br/>
 			Vu Nguyen
 		</td>
 		<td>Tinilab </td>
@@ -5322,7 +5324,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hieuha">
 				<img src="https://avatars.githubusercontent.com/u/9334184?s=72&u=0d2e213283f7a7a0aafcae8d0cb9aaf3a63e544b&v=4" width="24" alt="Avatar of hieuha"> hieuha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hieuha">Copy rank badge</a><br/>
 			Harry Ha
 		</td>
 		<td>Cookie Arena </td>
@@ -5335,7 +5337,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tophvn">
 				<img src="https://avatars.githubusercontent.com/u/113342289?s=72&u=5dc187f8f755fb09b2c6829e7104a89876949bee&v=4" width="24" alt="Avatar of tophvn"> tophvn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tophvn">Copy rank badge</a><br/>
 			hoang
 		</td>
 		<td>No Company</td>
@@ -5348,7 +5350,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hmphu">
 				<img src="https://avatars.githubusercontent.com/u/2835749?s=72&u=769187ddb2f38d0464bf0c6d1d1e56eef31dd32b&v=4" width="24" alt="Avatar of hmphu"> hmphu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hmphu">Copy rank badge</a><br/>
 			Hoang Manh Phu
 		</td>
 		<td>No Company</td>
@@ -5361,7 +5363,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuankietcoderr">
 				<img src="https://avatars.githubusercontent.com/u/84491737?s=72&u=a3f484d7b3896881eef7d92856334170b15d5b53&v=4" width="24" alt="Avatar of tuankietcoderr"> tuankietcoderr
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tuankietcoderr">Copy rank badge</a><br/>
 			Tuan Kiet Tran
 		</td>
 		<td>Uit, Vnu Hcm </td>
@@ -5374,7 +5376,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Binh0108">
 				<img src="https://avatars.githubusercontent.com/u/102861395?s=72&u=a03d27a3bf0fff762bfe8617fd8eeff38d0372bd&v=4" width="24" alt="Avatar of Binh0108"> Binh0108
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Binh0108">Copy rank badge</a><br/>
 			Binh0108
 		</td>
 		<td>No Company</td>
@@ -5387,7 +5389,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/EndermanPC">
 				<img src="https://avatars.githubusercontent.com/u/88751712?s=72&u=9e270d17c3034bf256db8f921c7808e33ef935b6&v=4" width="24" alt="Avatar of EndermanPC"> EndermanPC
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#EndermanPC">Copy rank badge</a><br/>
 			Bùi Nguyễn Tấn Sang
 		</td>
 		<td>Lithicsoft Organization. </td>
@@ -5400,7 +5402,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hieuphq">
 				<img src="https://avatars.githubusercontent.com/u/13938010?s=72&u=05add5c58a5bfcbe754fea1c6bf4e9cd5018e315&v=4" width="24" alt="Avatar of hieuphq"> hieuphq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hieuphq">Copy rank badge</a><br/>
 			Phan Quang Hieu
 		</td>
 		<td>Dwarves Foundation </td>
@@ -5413,7 +5415,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/qnblackcat">
 				<img src="https://avatars.githubusercontent.com/u/52943116?s=72&v=4" width="24" alt="Avatar of qnblackcat"> qnblackcat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#qnblackcat">Copy rank badge</a><br/>
 			Nguyễn Đạt
 		</td>
 		<td>No Company</td>
@@ -5426,7 +5428,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dungdna2000">
 				<img src="https://avatars.githubusercontent.com/u/33027257?s=72&u=7b667c55333888960d9aa812bf08ed6e8f2a2d66&v=4" width="24" alt="Avatar of dungdna2000"> dungdna2000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dungdna2000">Copy rank badge</a><br/>
 			Đinh Nguyễn Anh Dũng
 		</td>
 		<td>Fossil Viet Nam </td>
@@ -5439,7 +5441,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/anvyle">
 				<img src="https://avatars.githubusercontent.com/u/43501634?s=72&u=fbcd30f01295e6cfd213f601494b350d0efae7d3&v=4" width="24" alt="Avatar of anvyle"> anvyle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#anvyle">Copy rank badge</a><br/>
 			An Vy Le
 		</td>
 		<td>No Company</td>
@@ -5452,7 +5454,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/danghung1202">
 				<img src="https://avatars.githubusercontent.com/u/13251426?s=72&u=0716386e86061410b02ffb81ce6336354e9b8f25&v=4" width="24" alt="Avatar of danghung1202"> danghung1202
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#danghung1202">Copy rank badge</a><br/>
 			Hung Viet Dang
 		</td>
 		<td>Niteco Ltd </td>
@@ -5465,7 +5467,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Hung-00">
 				<img src="https://avatars.githubusercontent.com/u/57101685?s=72&u=9b67bfc7fd6dcf7f1e65e568046725067cd1f0c8&v=4" width="24" alt="Avatar of Hung-00"> Hung-00
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Hung-00">Copy rank badge</a><br/>
 			Hưng
 		</td>
 		<td>Hitachi Ds </td>
@@ -5478,7 +5480,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/kzjn10">
 				<img src="https://avatars.githubusercontent.com/u/3218135?s=72&u=a07854a4be35bbd9ea6f32991de7f380de115d1e&v=4" width="24" alt="Avatar of kzjn10"> kzjn10
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#kzjn10">Copy rank badge</a><br/>
 			Anh Nguyễn
 		</td>
 		<td>No Company</td>
@@ -5491,7 +5493,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/BaoLocPham">
 				<img src="https://avatars.githubusercontent.com/u/67360122?s=72&u=5b29e0c63c9db998bb5d1f6a57356390e2c2751e&v=4" width="24" alt="Avatar of BaoLocPham"> BaoLocPham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#BaoLocPham">Copy rank badge</a><br/>
 			Bao Loc Pham
 		</td>
 		<td>Greennode Ai </td>
@@ -5504,7 +5506,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/baronha">
 				<img src="https://avatars.githubusercontent.com/u/23580920?s=72&u=d95ae353b3afdf869a15312a89bcc89064e54f83&v=4" width="24" alt="Avatar of baronha"> baronha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#baronha">Copy rank badge</a><br/>
 			Bảo Hà.
 		</td>
 		<td>@borndotcom </td>
@@ -5517,7 +5519,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nguyenit67">
 				<img src="https://avatars.githubusercontent.com/u/19466753?s=72&u=8db8c74c90706624401e139a8593a3c64d699e5b&v=4" width="24" alt="Avatar of nguyenit67"> nguyenit67
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nguyenit67">Copy rank badge</a><br/>
 			Nguyen Hoang Nguyen
 		</td>
 		<td>No Company</td>
@@ -5530,7 +5532,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trietphm">
 				<img src="https://avatars.githubusercontent.com/u/4161828?s=72&v=4" width="24" alt="Avatar of trietphm"> trietphm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trietphm">Copy rank badge</a><br/>
 			Triet Pham
 		</td>
 		<td>No Company</td>
@@ -5543,7 +5545,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vunb">
 				<img src="https://avatars.githubusercontent.com/u/3768250?s=72&v=4" width="24" alt="Avatar of vunb"> vunb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vunb">Copy rank badge</a><br/>
 			Vu Bao Nhu
 		</td>
 		<td>Ceo @hsdt </td>
@@ -5556,7 +5558,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/phoelapyae">
 				<img src="https://avatars.githubusercontent.com/u/29506826?s=72&u=1c258f44ce2706a211a4ff1f547846a45606a1fe&v=4" width="24" alt="Avatar of phoelapyae"> phoelapyae
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#phoelapyae">Copy rank badge</a><br/>
 			Zin Myo Maung
 		</td>
 		<td>No Company</td>
@@ -5569,7 +5571,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/leminhnguyen">
 				<img src="https://avatars.githubusercontent.com/u/43167455?s=72&u=471851b24552f0aabcb142fe8600ab2e7c7387e0&v=4" width="24" alt="Avatar of leminhnguyen"> leminhnguyen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#leminhnguyen">Copy rank badge</a><br/>
 			nguyenlm
 		</td>
 		<td>No Company</td>
@@ -5582,7 +5584,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/conanak99">
 				<img src="https://avatars.githubusercontent.com/u/6670026?s=72&u=61d5e0668820df02b33eb61a5af291db4ae391b0&v=4" width="24" alt="Avatar of conanak99"> conanak99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#conanak99">Copy rank badge</a><br/>
 			Phạm Huy Hoàng
 		</td>
 		<td>Wise </td>
@@ -5595,7 +5597,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Linh777GKOG">
 				<img src="https://avatars.githubusercontent.com/u/97266612?s=72&u=de241e5afdef2e62f76720b9218b515c0e4740d9&v=4" width="24" alt="Avatar of Linh777GKOG"> Linh777GKOG
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Linh777GKOG">Copy rank badge</a><br/>
 			Linh Vu
 		</td>
 		<td>No Company</td>
@@ -5608,7 +5610,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/bartleby">
 				<img src="https://avatars.githubusercontent.com/u/236311?s=72&u=ad42366798d881d34b05255fbf2de7ae77366187&v=4" width="24" alt="Avatar of bartleby"> bartleby
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#bartleby">Copy rank badge</a><br/>
 			Aleksei Artemev
 		</td>
 		<td>No Company</td>
@@ -5621,7 +5623,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Nahvine">
 				<img src="https://avatars.githubusercontent.com/u/101639160?s=72&u=199567a1b4073d85d0636e5803f473f9c17244b9&v=4" width="24" alt="Avatar of Nahvine"> Nahvine
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Nahvine">Copy rank badge</a><br/>
 			Yurayuraa
 		</td>
 		<td>Vietnam </td>
@@ -5634,7 +5636,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/longhoangwkm">
 				<img src="https://avatars.githubusercontent.com/u/34698136?s=72&u=9fa7f2ac7ee34faa6be35ad7c09d0d51b6bcb3a3&v=4" width="24" alt="Avatar of longhoangwkm"> longhoangwkm
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#longhoangwkm">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Wakumo, Inc. </td>
@@ -5647,7 +5649,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/lednhatkhanh">
 				<img src="https://avatars.githubusercontent.com/u/9303093?s=72&u=f5f80be24b02baf9f89fac90ba254f399201a6bc&v=4" width="24" alt="Avatar of lednhatkhanh"> lednhatkhanh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#lednhatkhanh">Copy rank badge</a><br/>
 			Nhat Khanh
 		</td>
 		<td>No Company</td>
@@ -5660,7 +5662,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Joshwen7947">
 				<img src="https://avatars.githubusercontent.com/u/68701564?s=72&u=7db1dcc98a3ff4700210dfd8f9638b849fa8de18&v=4" width="24" alt="Avatar of Joshwen7947"> Joshwen7947
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Joshwen7947">Copy rank badge</a><br/>
 			Josh Wenner
 		</td>
 		<td>Freelance </td>
@@ -5673,7 +5675,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/HtetWaiYan7191">
 				<img src="https://avatars.githubusercontent.com/u/102011195?s=72&u=727017c453b25f3de5c53e9526bab84445309358&v=4" width="24" alt="Avatar of HtetWaiYan7191"> HtetWaiYan7191
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#HtetWaiYan7191">Copy rank badge</a><br/>
 			HtetWaiYan(Yan)
 		</td>
 		<td>@microverseinc </td>
@@ -5686,7 +5688,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/sunary">
 				<img src="https://avatars.githubusercontent.com/u/2399731?s=72&u=e50d8574349d59a6f005a4db2cd185e32ffa60a0&v=4" width="24" alt="Avatar of sunary"> sunary
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#sunary">Copy rank badge</a><br/>
 			Nhat
 		</td>
 		<td>No Company</td>
@@ -5699,7 +5701,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dofire">
 				<img src="https://avatars.githubusercontent.com/u/85553681?s=72&u=97f2dfa4e0bacead6e8c56bace3174704669ac5c&v=4" width="24" alt="Avatar of dofire"> dofire
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dofire">Copy rank badge</a><br/>
 			Tri Do
 		</td>
 		<td>@langhance </td>
@@ -5712,7 +5714,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/mrtuvn">
 				<img src="https://avatars.githubusercontent.com/u/1908873?s=72&u=5bbaa61cb38bd30c23ae9feb6b5a7dbfa8326d2b&v=4" width="24" alt="Avatar of mrtuvn"> mrtuvn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#mrtuvn">Copy rank badge</a><br/>
 			Tu Nguyen
 		</td>
 		<td>No Company</td>
@@ -5725,7 +5727,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dieptv1999">
 				<img src="https://avatars.githubusercontent.com/u/38648881?s=72&u=eabee9cd156fb3b0c0e3fe0d649cf0b188c98cbf&v=4" width="24" alt="Avatar of dieptv1999"> dieptv1999
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dieptv1999">Copy rank badge</a><br/>
 			Trần Văn Điệp
 		</td>
 		<td>Viettel Construction </td>
@@ -5738,7 +5740,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/T-Troll">
 				<img src="https://avatars.githubusercontent.com/u/51940412?s=72&u=d78c6742ab264c3fb97764a0a48e5dbe2e609295&v=4" width="24" alt="Avatar of T-Troll"> T-Troll
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#T-Troll">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -5751,7 +5753,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/pearl2201">
 				<img src="https://avatars.githubusercontent.com/u/5409440?s=72&u=114cea5315fb876e725db28f09dc25065a705316&v=4" width="24" alt="Avatar of pearl2201"> pearl2201
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#pearl2201">Copy rank badge</a><br/>
 			Anh Ngọc
 		</td>
 		<td>Kyx Studio </td>
@@ -5764,7 +5766,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tranluan258">
 				<img src="https://avatars.githubusercontent.com/u/71522917?s=72&u=b3af95305c90f5b8708dc09587040e0b68f22d1a&v=4" width="24" alt="Avatar of tranluan258"> tranluan258
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tranluan258">Copy rank badge</a><br/>
 			Luan Tran
 		</td>
 		<td>No Company</td>
@@ -5777,7 +5779,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nguyenvanro">
 				<img src="https://avatars.githubusercontent.com/u/57189106?s=72&u=7d5aec1deaa839441979c30172803d6f89891ddd&v=4" width="24" alt="Avatar of nguyenvanro"> nguyenvanro
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nguyenvanro">Copy rank badge</a><br/>
 			Nguyen Van Ro
 		</td>
 		<td>No Company</td>
@@ -5790,7 +5792,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nvbinh">
 				<img src="https://avatars.githubusercontent.com/u/5524162?s=72&u=6e6a3538263ceb42a57b5b7277683ea91bce1604&v=4" width="24" alt="Avatar of nvbinh"> nvbinh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nvbinh">Copy rank badge</a><br/>
 			Bing
 		</td>
 		<td>Lazada Group </td>
@@ -5803,7 +5805,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tran-huy-phuc">
 				<img src="https://avatars.githubusercontent.com/u/4323410?s=72&u=6a23d8e39a2fb9f29f70888dd7849f0001125854&v=4" width="24" alt="Avatar of tran-huy-phuc"> tran-huy-phuc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tran-huy-phuc">Copy rank badge</a><br/>
 			Phuc Tran
 		</td>
 		<td>@bumbii  </td>
@@ -5816,7 +5818,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hungdv98">
 				<img src="https://avatars.githubusercontent.com/u/39724294?s=72&u=06638343b05ef9e66aa6fc1a597d2e5e95f35bed&v=4" width="24" alt="Avatar of hungdv98"> hungdv98
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hungdv98">Copy rank badge</a><br/>
 			Thoth
 		</td>
 		<td>No Company</td>
@@ -5829,7 +5831,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/k-kyler">
 				<img src="https://avatars.githubusercontent.com/u/66368949?s=72&u=98aef353e473fa256077fe79d9f5d72fda1edac8&v=4" width="24" alt="Avatar of k-kyler"> k-kyler
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#k-kyler">Copy rank badge</a><br/>
 			Khai
 		</td>
 		<td>Oven </td>
@@ -5842,7 +5844,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/drelhaj">
 				<img src="https://avatars.githubusercontent.com/u/11315428?s=72&u=0dd86b5abe1f5afbb38d48e031d0da95c1eb790b&v=4" width="24" alt="Avatar of drelhaj"> drelhaj
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#drelhaj">Copy rank badge</a><br/>
 			Dr Mo El-Haj
 		</td>
 		<td>Vinuniverity </td>
@@ -5855,7 +5857,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nd-hung">
 				<img src="https://avatars.githubusercontent.com/u/42274584?s=72&u=b83a896abf62c90cc7c1f3bb9aafc2a349fb97d5&v=4" width="24" alt="Avatar of nd-hung"> nd-hung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nd-hung">Copy rank badge</a><br/>
 			Hung Nguyen (Nguyễn Đình Hưng)
 		</td>
 		<td>Nha Trang University </td>
@@ -5868,7 +5870,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuan3w">
 				<img src="https://avatars.githubusercontent.com/u/2762678?s=72&u=59e157905831ba6033165917e4a127a3a8a43d53&v=4" width="24" alt="Avatar of tuan3w"> tuan3w
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tuan3w">Copy rank badge</a><br/>
 			Tuan Nguyen
 		</td>
 		<td>No Company</td>
@@ -5881,7 +5883,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dotieuthien">
 				<img src="https://avatars.githubusercontent.com/u/30580619?s=72&u=39919410776d0287ed7752028d595924a778b072&v=4" width="24" alt="Avatar of dotieuthien"> dotieuthien
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dotieuthien">Copy rank badge</a><br/>
 			dotieuthien
 		</td>
 		<td>No Company</td>
@@ -5894,7 +5896,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nglehuy">
 				<img src="https://avatars.githubusercontent.com/u/28498441?s=72&u=4868118ccdb58fc60f30c4f17a47ca8bbea58603&v=4" width="24" alt="Avatar of nglehuy"> nglehuy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nglehuy">Copy rank badge</a><br/>
 			Nguyễn Lê Huy
 		</td>
 		<td>Ho Chi Minh City<br/>University<br/>Of<br/>Technology<br/></td>
@@ -5907,7 +5909,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nhienit2010">
 				<img src="https://avatars.githubusercontent.com/u/44127534?s=72&u=fd2e20e10ea48cddd567cd52f0bd27d7478e0601&v=4" width="24" alt="Avatar of nhienit2010"> nhienit2010
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nhienit2010">Copy rank badge</a><br/>
 			Nhien.IT
 		</td>
 		<td>Academy Of Cryptography Techniques<br/></td>
@@ -5920,7 +5922,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/naruto9554">
 				<img src="https://avatars.githubusercontent.com/u/5891150?s=72&u=d80137914a02fa57a40a6d358ad9df4f4052d831&v=4" width="24" alt="Avatar of naruto9554"> naruto9554
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#naruto9554">Copy rank badge</a><br/>
 			messifan
 		</td>
 		<td>Lotus Finance </td>
@@ -5933,7 +5935,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nhancv">
 				<img src="https://avatars.githubusercontent.com/u/17565440?s=72&u=02d27f4eb3dd62a18e132a4e9b0893dea80af959&v=4" width="24" alt="Avatar of nhancv"> nhancv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nhancv">Copy rank badge</a><br/>
 			Nhan Cao
 		</td>
 		<td>No Company</td>
@@ -5946,7 +5948,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/SamuelKunle">
 				<img src="https://avatars.githubusercontent.com/u/85818105?s=72&u=0e16978f12713fb516c3b080a294d8902b3124f1&v=4" width="24" alt="Avatar of SamuelKunle"> SamuelKunle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#SamuelKunle">Copy rank badge</a><br/>
 			Samuel Alayande
 		</td>
 		<td>Soronow Ai (founder) </td>
@@ -5959,7 +5961,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/VHAE04">
 				<img src="https://avatars.githubusercontent.com/u/89138607?s=72&u=d2dbdfad02a90744d995d273b3f48fa91d069465&v=4" width="24" alt="Avatar of VHAE04"> VHAE04
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#VHAE04">Copy rank badge</a><br/>
 			VU HOANG ANH
 		</td>
 		<td>Founder Bugineverything.com </td>
@@ -5972,7 +5974,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/truong-bui">
 				<img src="https://avatars.githubusercontent.com/u/1840964?s=72&u=fbe326079930772f2dbd40a092491833ab24b0ba&v=4" width="24" alt="Avatar of truong-bui"> truong-bui
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#truong-bui">Copy rank badge</a><br/>
 			Truong Bui
 		</td>
 		<td>No Company</td>
@@ -5985,7 +5987,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/GuardianOfGods">
 				<img src="https://avatars.githubusercontent.com/u/52252046?s=72&u=2174787bc0b1f1d53f1495cb893848d19b604227&v=4" width="24" alt="Avatar of GuardianOfGods"> GuardianOfGods
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#GuardianOfGods">Copy rank badge</a><br/>
 			HoangVanThu
 		</td>
 		<td>Gamee Studio </td>
@@ -5998,7 +6000,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/giangm9">
 				<img src="https://avatars.githubusercontent.com/u/10234339?s=72&u=0d36539a4329db37086061359395f329aaf4c556&v=4" width="24" alt="Avatar of giangm9"> giangm9
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#giangm9">Copy rank badge</a><br/>
 			GiangM9
 		</td>
 		<td>No Company</td>
@@ -6011,7 +6013,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hieuhani">
 				<img src="https://avatars.githubusercontent.com/u/4966345?s=72&u=c8fbf081b9c636f0c97cce55591764b0cdbc131a&v=4" width="24" alt="Avatar of hieuhani"> hieuhani
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hieuhani">Copy rank badge</a><br/>
 			Hieu Tran
 		</td>
 		<td>Dnse Securities </td>
@@ -6024,7 +6026,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/skick1234">
 				<img src="https://avatars.githubusercontent.com/u/11555687?s=72&u=73eb2a79852f9fdaaba1e4fa3e82a965952148f8&v=4" width="24" alt="Avatar of skick1234"> skick1234
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#skick1234">Copy rank badge</a><br/>
 			Skick
 		</td>
 		<td>Samsung Rnd Center Vietnam<br/></td>
@@ -6037,7 +6039,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/duongvancuong">
 				<img src="https://avatars.githubusercontent.com/u/19904857?s=72&u=1a2236791267bae2416c10b053ef0e29d82ce8da&v=4" width="24" alt="Avatar of duongvancuong"> duongvancuong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#duongvancuong">Copy rank badge</a><br/>
 			TEK
 		</td>
 		<td>No Company</td>
@@ -6050,7 +6052,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hnvn">
 				<img src="https://avatars.githubusercontent.com/u/5468513?s=72&u=5cae8f51b50594edb37c4436c03ac4bdccf8cdcc&v=4" width="24" alt="Avatar of hnvn"> hnvn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hnvn">Copy rank badge</a><br/>
 			HungHD
 		</td>
 		<td>No Company</td>
@@ -6063,7 +6065,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/simplesoft-duongdt3">
 				<img src="https://avatars.githubusercontent.com/u/8201309?s=72&u=6b1aca7bb0bfb23a8c10bf8c4aadbf19b1d40b80&v=4" width="24" alt="Avatar of simplesoft-duongdt3"> simplesoft-duongdt3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#simplesoft-duongdt3">Copy rank badge</a><br/>
 			tiny Flutter team
 		</td>
 		<td>Tiny Flutter Team </td>
@@ -6076,7 +6078,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hiendinhngoc">
 				<img src="https://avatars.githubusercontent.com/u/6258714?s=72&u=8489466e9d2eb326b084588be2aa18d687aa2217&v=4" width="24" alt="Avatar of hiendinhngoc"> hiendinhngoc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hiendinhngoc">Copy rank badge</a><br/>
 			Dinh Ngoc Hien
 		</td>
 		<td>@coderpush </td>
@@ -6089,7 +6091,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/theblackturtle">
 				<img src="https://avatars.githubusercontent.com/u/25194841?s=72&u=411f2cab99c4cc57554a332d90ac8b8b67dfd8bd&v=4" width="24" alt="Avatar of theblackturtle"> theblackturtle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#theblackturtle">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6102,7 +6104,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/chrisshayan">
 				<img src="https://avatars.githubusercontent.com/u/4226119?s=72&u=c9b3912184b445e38da2fb3f4d35ac8754e0ed81&v=4" width="24" alt="Avatar of chrisshayan"> chrisshayan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#chrisshayan">Copy rank badge</a><br/>
 			Chris Shayan
 		</td>
 		<td>No Company</td>
@@ -6115,7 +6117,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ngminhtrung">
 				<img src="https://avatars.githubusercontent.com/u/7209436?s=72&u=c1001defb6c820b1930ab3d39eb26f70c7f3962f&v=4" width="24" alt="Avatar of ngminhtrung"> ngminhtrung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ngminhtrung">Copy rank badge</a><br/>
 			Trung Nguyen
 		</td>
 		<td>No Company</td>
@@ -6128,7 +6130,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/epiHATR">
 				<img src="https://avatars.githubusercontent.com/u/29563931?s=72&u=cf13b71a679eb7839d46ce737de20bfb948b620f&v=4" width="24" alt="Avatar of epiHATR"> epiHATR
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#epiHATR">Copy rank badge</a><br/>
 			Hai Tran
 		</td>
 		<td>Episerver </td>
@@ -6141,7 +6143,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/HadesPTIT">
 				<img src="https://avatars.githubusercontent.com/u/20601191?s=72&u=7f2ee0562b93ea6fc9471104e41d6eae225695af&v=4" width="24" alt="Avatar of HadesPTIT"> HadesPTIT
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#HadesPTIT">Copy rank badge</a><br/>
 			HuongPT
 		</td>
 		<td>@i2studio </td>
@@ -6154,7 +6156,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ladifire">
 				<img src="https://avatars.githubusercontent.com/u/51266596?s=72&u=8e48e0e128f96b893b66042e65b1477517fbaa08&v=4" width="24" alt="Avatar of ladifire"> ladifire
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ladifire">Copy rank badge</a><br/>
 			Cong Nguyen
 		</td>
 		<td>Cong </td>
@@ -6167,7 +6169,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/kidp2h">
 				<img src="https://avatars.githubusercontent.com/u/40386174?s=72&u=d4bfd55b3ca6931c98238f9ea3a50289e6898bbe&v=4" width="24" alt="Avatar of kidp2h"> kidp2h
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#kidp2h">Copy rank badge</a><br/>
 			Nguyen Thinh
 		</td>
 		<td>@space-univers3 </td>
@@ -6180,7 +6182,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/minhducsun2002">
 				<img src="https://avatars.githubusercontent.com/u/32769878?s=72&u=a54c2ac33fe957c735fd6f807b20d1436dfc7e6e&v=4" width="24" alt="Avatar of minhducsun2002"> minhducsun2002
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#minhducsun2002">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -6193,7 +6195,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nikitababko">
 				<img src="https://avatars.githubusercontent.com/u/50658084?s=72&u=7126eaf4c2d6082ed48a41b9446f2aa3a4980d9b&v=4" width="24" alt="Avatar of nikitababko"> nikitababko
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nikitababko">Copy rank badge</a><br/>
 			Nikita Babko
 		</td>
 		<td>No Company</td>
@@ -6206,7 +6208,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/phuongnq">
 				<img src="https://avatars.githubusercontent.com/u/2996543?s=72&u=3ee6df0a1ca5dc3e9731997f12f1b3076de0eb4f&v=4" width="24" alt="Avatar of phuongnq"> phuongnq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#phuongnq">Copy rank badge</a><br/>
 			Phil Nguyen
 		</td>
 		<td>No Company</td>
@@ -6219,7 +6221,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hglong16">
 				<img src="https://avatars.githubusercontent.com/u/83296144?s=72&u=449e55885572fa298da4e4ca639d0c5112c8d4b6&v=4" width="24" alt="Avatar of hglong16"> hglong16
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hglong16">Copy rank badge</a><br/>
 			Tg Truong
 		</td>
 		<td>@merctrans </td>
@@ -6232,7 +6234,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/AnhNguyenVLU">
 				<img src="https://avatars.githubusercontent.com/u/74288640?s=72&u=e044b31b698e947f7351d6dff31539c12850e905&v=4" width="24" alt="Avatar of AnhNguyenVLU"> AnhNguyenVLU
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#AnhNguyenVLU">Copy rank badge</a><br/>
 			Anh Nguyễn
 		</td>
 		<td>Vltech - Vlu </td>
@@ -6245,7 +6247,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/justmangoou">
 				<img src="https://avatars.githubusercontent.com/u/38831897?s=72&u=8134c5ce3e396b6090f4c279c6b917b14c066801&v=4" width="24" alt="Avatar of justmangoou"> justmangoou
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#justmangoou">Copy rank badge</a><br/>
 			Tuan Nguyen
 		</td>
 		<td>No Company</td>
@@ -6258,7 +6260,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/longngn">
 				<img src="https://avatars.githubusercontent.com/u/20140368?s=72&u=c971ae3caa2daaec67cbfa0d735651c4e11b825d&v=4" width="24" alt="Avatar of longngn"> longngn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#longngn">Copy rank badge</a><br/>
 			Long Nguyen
 		</td>
 		<td>Fpt University </td>
@@ -6271,7 +6273,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/robbert1978">
 				<img src="https://avatars.githubusercontent.com/u/31349426?s=72&u=c86267056d7f408a82dcfd7589e2d7c0d490b8c5&v=4" width="24" alt="Avatar of robbert1978"> robbert1978
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#robbert1978">Copy rank badge</a><br/>
 			V1nhNg0
 		</td>
 		<td>No Company</td>
@@ -6284,7 +6286,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/duongnguyen-dev">
 				<img src="https://avatars.githubusercontent.com/u/127082369?s=72&v=4" width="24" alt="Avatar of duongnguyen-dev"> duongnguyen-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#duongnguyen-dev">Copy rank badge</a><br/>
 			Duong Nguyen 
 		</td>
 		<td>No Company</td>
@@ -6297,7 +6299,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vuquangpham">
 				<img src="https://avatars.githubusercontent.com/u/30406982?s=72&u=4b70cb864a7be98b7013f9e9336b9d47734c2d20&v=4" width="24" alt="Avatar of vuquangpham"> vuquangpham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vuquangpham">Copy rank badge</a><br/>
 			Vu Pham
 		</td>
 		<td>@speechifyinc </td>
@@ -6310,7 +6312,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hnq90">
 				<img src="https://avatars.githubusercontent.com/u/1875666?s=72&u=1ff95798bb6a1f15250e1fa95b8a6f82a56dc0c2&v=4" width="24" alt="Avatar of hnq90"> hnq90
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hnq90">Copy rank badge</a><br/>
 			Huy Nguyen Quang
 		</td>
 		<td>No Company</td>
@@ -6323,7 +6325,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/codecrack3">
 				<img src="https://avatars.githubusercontent.com/u/9525576?s=72&u=678e0ca6198ba118481b26ab5f728f1a03c28d8e&v=4" width="24" alt="Avatar of codecrack3"> codecrack3
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#codecrack3">Copy rank badge</a><br/>
 			Kai
 		</td>
 		<td>Ceh.vn </td>
@@ -6336,7 +6338,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vinhjaxt">
 				<img src="https://avatars.githubusercontent.com/u/8877695?s=72&u=23f2ba642d10ad6f9d505298b8d9fd037e27a207&v=4" width="24" alt="Avatar of vinhjaxt"> vinhjaxt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vinhjaxt">Copy rank badge</a><br/>
 			🇻🇳
 		</td>
 		<td>@dentraitim, @vncert-cc, @luon-vn <br/></td>
@@ -6349,7 +6351,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ngdhuy">
 				<img src="https://avatars.githubusercontent.com/u/9155302?s=72&u=7ea888c563a746e12d2e0676debee4a2cc479dd8&v=4" width="24" alt="Avatar of ngdhuy"> ngdhuy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ngdhuy">Copy rank badge</a><br/>
 			Huy Nguyen
 		</td>
 		<td>Vnuhcm - University Of<br/>Science<br/></td>
@@ -6362,7 +6364,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/linhmtran168">
 				<img src="https://avatars.githubusercontent.com/u/646436?s=72&u=0865f894f6111616adc5b4e7131c87cf72a6d6e5&v=4" width="24" alt="Avatar of linhmtran168"> linhmtran168
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#linhmtran168">Copy rank badge</a><br/>
 			Linh M. Tran
 		</td>
 		<td>No Company</td>
@@ -6375,7 +6377,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/CookieGMVN">
 				<img src="https://avatars.githubusercontent.com/u/73780382?s=72&u=d57df93fae89757877e53c87ad8d14f2f2774da9&v=4" width="24" alt="Avatar of CookieGMVN"> CookieGMVN
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#CookieGMVN">Copy rank badge</a><br/>
 			Trần Đình Tuyển
 		</td>
 		<td>@maginus-developers </td>
@@ -6388,7 +6390,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ntamvl">
 				<img src="https://avatars.githubusercontent.com/u/8288377?s=72&u=67807e19bc2775242405f9ccafd42ab328b7976f&v=4" width="24" alt="Avatar of ntamvl"> ntamvl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ntamvl">Copy rank badge</a><br/>
 			Tam Nguyen
 		</td>
 		<td>No Company</td>
@@ -6401,7 +6403,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tryevertthhub">
 				<img src="https://avatars.githubusercontent.com/u/166111581?s=72&v=4" width="24" alt="Avatar of tryevertthhub"> tryevertthhub
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tryevertthhub">Copy rank badge</a><br/>
 			Lan
 		</td>
 		<td>No Company</td>
@@ -6414,7 +6416,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/fozg">
 				<img src="https://avatars.githubusercontent.com/u/37015168?s=72&u=6bc8bc7edd8e704223762e8c82b7bd5434344429&v=4" width="24" alt="Avatar of fozg"> fozg
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#fozg">Copy rank badge</a><br/>
 			Phong Dao Hong
 		</td>
 		<td>@wegree-connect  </td>
@@ -6427,7 +6429,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tcollart">
 				<img src="https://avatars.githubusercontent.com/u/6071211?s=72&u=17bb4f7ff76d165a1ef390518d464e6c81ebb799&v=4" width="24" alt="Avatar of tcollart"> tcollart
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tcollart">Copy rank badge</a><br/>
 			Thomas Collart
 		</td>
 		<td>Comment Coder </td>
@@ -6440,7 +6442,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuandht97">
 				<img src="https://avatars.githubusercontent.com/u/37776861?s=72&v=4" width="24" alt="Avatar of tuandht97"> tuandht97
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tuandht97">Copy rank badge</a><br/>
 			Đỗ Hoàng Thanh Tuấn
 		</td>
 		<td>No Company</td>
@@ -6453,7 +6455,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoantv">
 				<img src="https://avatars.githubusercontent.com/u/95798?s=72&u=59edcb8e8793135fb4f7f2ab5f5b378e298be138&v=4" width="24" alt="Avatar of hoantv"> hoantv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoantv">Copy rank badge</a><br/>
 			HoanTV
 		</td>
 		<td>No Company</td>
@@ -6466,7 +6468,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoang-tran">
 				<img src="https://avatars.githubusercontent.com/u/6714157?s=72&u=72beca20f084c5a85c12e6a924a3ab53e90518f6&v=4" width="24" alt="Avatar of hoang-tran"> hoang-tran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoang-tran">Copy rank badge</a><br/>
 			Hoang Tran
 		</td>
 		<td>No Company</td>
@@ -6479,7 +6481,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ducntq">
 				<img src="https://avatars.githubusercontent.com/u/907013?s=72&u=0d325bae3f5008eac2ef834a07ac4b547d8d96f7&v=4" width="24" alt="Avatar of ducntq"> ducntq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ducntq">Copy rank badge</a><br/>
 			Duc Nguyen
 		</td>
 		<td>No Company</td>
@@ -6492,7 +6494,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/thuannv">
 				<img src="https://avatars.githubusercontent.com/u/2383729?s=72&u=a9850ba512f55bcbd2f13e0c37ad34fc47787c19&v=4" width="24" alt="Avatar of thuannv"> thuannv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#thuannv">Copy rank badge</a><br/>
 			Thuan Nguyen
 		</td>
 		<td>Cake By Vpbank </td>
@@ -6505,7 +6507,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vothien001">
 				<img src="https://avatars.githubusercontent.com/u/82425295?s=72&u=13c861a68056f60b418e24554050efdf09963564&v=4" width="24" alt="Avatar of vothien001"> vothien001
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vothien001">Copy rank badge</a><br/>
 			bogia
 		</td>
 		<td>No Company</td>
@@ -6518,7 +6520,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hiendv">
 				<img src="https://avatars.githubusercontent.com/u/1917947?s=72&u=ccee049097d01caed054f50829f5f1846dcc0290&v=4" width="24" alt="Avatar of hiendv"> hiendv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hiendv">Copy rank badge</a><br/>
 			Hiển Đào Vinh
 		</td>
 		<td>@0x1115  </td>
@@ -6531,7 +6533,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/phatnguyenuit">
 				<img src="https://avatars.githubusercontent.com/u/19201982?s=72&u=b38f8c912b3eaeebc834da91b2471e2768e47b55&v=4" width="24" alt="Avatar of phatnguyenuit"> phatnguyenuit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#phatnguyenuit">Copy rank badge</a><br/>
 			Phát Nguyễn (Fast)
 		</td>
 		<td>@nab </td>
@@ -6544,7 +6546,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/TriDang">
 				<img src="https://avatars.githubusercontent.com/u/351954?s=72&u=bde47f6571da81e8931144d214f77f870b3ad129&v=4" width="24" alt="Avatar of TriDang"> TriDang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#TriDang">Copy rank badge</a><br/>
 			Tri Dang
 		</td>
 		<td>No Company</td>
@@ -6557,7 +6559,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/khanhuitse05">
 				<img src="https://avatars.githubusercontent.com/u/9074095?s=72&u=5c81a237aa52dde379195c502b16f0c1064ed0a4&v=4" width="24" alt="Avatar of khanhuitse05"> khanhuitse05
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#khanhuitse05">Copy rank badge</a><br/>
 			Khánh Tô
 		</td>
 		<td>Goldenowl </td>
@@ -6570,7 +6572,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/quan-dang">
 				<img src="https://avatars.githubusercontent.com/u/25025782?s=72&u=a5d0f13918b3b806c0da64c014000abfa48406dc&v=4" width="24" alt="Avatar of quan-dang"> quan-dang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#quan-dang">Copy rank badge</a><br/>
 			Quan Dang
 		</td>
 		<td>Fsds </td>
@@ -6583,7 +6585,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/kimcuhoang">
 				<img src="https://avatars.githubusercontent.com/u/12949191?s=72&u=d649e8f08381246c4534bebbebc23e246a0f11d2&v=4" width="24" alt="Avatar of kimcuhoang"> kimcuhoang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#kimcuhoang">Copy rank badge</a><br/>
 			Kim CH
 		</td>
 		<td>No Company</td>
@@ -6596,7 +6598,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vuthaihoc">
 				<img src="https://avatars.githubusercontent.com/u/2509658?s=72&v=4" width="24" alt="Avatar of vuthaihoc"> vuthaihoc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vuthaihoc">Copy rank badge</a><br/>
 			Stupid Dev
 		</td>
 		<td>Dc </td>
@@ -6609,7 +6611,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/rumi-chan">
 				<img src="https://avatars.githubusercontent.com/u/59478113?s=72&u=bea33d859594870dee66e441516634cf513384af&v=4" width="24" alt="Avatar of rumi-chan"> rumi-chan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#rumi-chan">Copy rank badge</a><br/>
 			rumi
 		</td>
 		<td>No Company</td>
@@ -6622,7 +6624,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/kidlab">
 				<img src="https://avatars.githubusercontent.com/u/624862?s=72&u=c83c24703a6b755e902d0218d7feef30ed4277ca&v=4" width="24" alt="Avatar of kidlab"> kidlab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#kidlab">Copy rank badge</a><br/>
 			Man Vuong
 		</td>
 		<td>No Company</td>
@@ -6635,7 +6637,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tranphuquy19">
 				<img src="https://avatars.githubusercontent.com/u/30046214?s=72&u=8fac9dbb2adfde1fec5cbbe461b225aa5cd6b644&v=4" width="24" alt="Avatar of tranphuquy19"> tranphuquy19
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tranphuquy19">Copy rank badge</a><br/>
 			Doraneko
 		</td>
 		<td>No Company</td>
@@ -6648,7 +6650,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/quangpl">
 				<img src="https://avatars.githubusercontent.com/u/36843088?s=72&u=5a733658c1a6a9a475bbaa24164a7c936cf21145&v=4" width="24" alt="Avatar of quangpl"> quangpl
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#quangpl">Copy rank badge</a><br/>
 			Quang Phan
 		</td>
 		<td>No Company</td>
@@ -6661,7 +6663,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/HELLSNAKES">
 				<img src="https://avatars.githubusercontent.com/u/63496374?s=72&u=1278d1b323876c42951206491a7cc9914f359917&v=4" width="24" alt="Avatar of HELLSNAKES"> HELLSNAKES
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#HELLSNAKES">Copy rank badge</a><br/>
 			HELLSNAKE
 		</td>
 		<td>@sunglows </td>
@@ -6674,7 +6676,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vanpho93">
 				<img src="https://avatars.githubusercontent.com/u/17959025?s=72&u=11f218a79c6243785a596dd1c4c6d3238ca1e8f1&v=4" width="24" alt="Avatar of vanpho93"> vanpho93
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vanpho93">Copy rank badge</a><br/>
 			Brian Nguyen
 		</td>
 		<td>Acceleratorapp </td>
@@ -6687,7 +6689,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/bacnh85">
 				<img src="https://avatars.githubusercontent.com/u/3876423?s=72&u=38681f59a58b4722af69bff222835821809279aa&v=4" width="24" alt="Avatar of bacnh85"> bacnh85
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#bacnh85">Copy rank badge</a><br/>
 			HaiBac Ngo
 		</td>
 		<td>No Company</td>
@@ -6700,7 +6702,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/doraeminemon">
 				<img src="https://avatars.githubusercontent.com/u/15027749?s=72&v=4" width="24" alt="Avatar of doraeminemon"> doraeminemon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#doraeminemon">Copy rank badge</a><br/>
 			Do Dinh Thy Son
 		</td>
 		<td>No Company</td>
@@ -6713,7 +6715,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/riordant">
 				<img src="https://avatars.githubusercontent.com/u/6988731?s=72&u=344aa2cbf567d04f9baf4fff539b3520101f3ab7&v=4" width="24" alt="Avatar of riordant"> riordant
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#riordant">Copy rank badge</a><br/>
 			tadhg
 		</td>
 		<td>No Company</td>
@@ -6726,7 +6728,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/thangngoc89">
 				<img src="https://avatars.githubusercontent.com/u/3049054?s=72&v=4" width="24" alt="Avatar of thangngoc89"> thangngoc89
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#thangngoc89">Copy rank badge</a><br/>
 			Khoa Nguyen
 		</td>
 		<td>No Company</td>
@@ -6739,7 +6741,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/baysao">
 				<img src="https://avatars.githubusercontent.com/u/3817687?s=72&u=50c9d1e98e831276fcb76852e1b35256e953a19b&v=4" width="24" alt="Avatar of baysao"> baysao
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#baysao">Copy rank badge</a><br/>
 			Vu Tran
 		</td>
 		<td>@massbitprotocol </td>
@@ -6752,7 +6754,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nhanth87">
 				<img src="https://avatars.githubusercontent.com/u/9125212?s=72&u=b5304ac3334279a325481ba3cfd9d01e31864ed3&v=4" width="24" alt="Avatar of nhanth87"> nhanth87
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nhanth87">Copy rank badge</a><br/>
 			Tran Huu Nhan
 		</td>
 		<td>All About Telecom </td>
@@ -6765,7 +6767,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/chrislevn">
 				<img src="https://avatars.githubusercontent.com/u/32094007?s=72&u=5cf89ac3bf413f54acfe81a8960e4b0ea13d04cf&v=4" width="24" alt="Avatar of chrislevn"> chrislevn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#chrislevn">Copy rank badge</a><br/>
 			Christopher Le
 		</td>
 		<td>No Company</td>
@@ -6778,7 +6780,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/gitdev5252">
 				<img src="https://avatars.githubusercontent.com/u/204167131?s=72&u=a7d11a3f8ca5838132076175d3690d51ce94fa7f&v=4" width="24" alt="Avatar of gitdev5252"> gitdev5252
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#gitdev5252">Copy rank badge</a><br/>
 			Tuan Trung Doan
 		</td>
 		<td>D'vinci Group </td>
@@ -6791,7 +6793,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/whoant">
 				<img src="https://avatars.githubusercontent.com/u/17638137?s=72&u=3005730e757e3bf8048d75dafc1429ebf8a1070b&v=4" width="24" alt="Avatar of whoant"> whoant
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#whoant">Copy rank badge</a><br/>
 			Võ Văn Hoàng Tuân
 		</td>
 		<td>No Company</td>
@@ -6804,7 +6806,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/thantrieu">
 				<img src="https://avatars.githubusercontent.com/u/34931034?s=72&u=cef25f4926e5d423a6361320949c5e183a423677&v=4" width="24" alt="Avatar of thantrieu"> thantrieu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#thantrieu">Copy rank badge</a><br/>
 			Than Trieu
 		</td>
 		<td>No Company</td>
@@ -6817,7 +6819,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hienphamlabs">
 				<img src="https://avatars.githubusercontent.com/u/12573516?s=72&u=bed2d6a1c8f41afa3ec86bdd52730c51c5c6ce84&v=4" width="24" alt="Avatar of hienphamlabs"> hienphamlabs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hienphamlabs">Copy rank badge</a><br/>
 			Hien D. Pham
 		</td>
 		<td>@vireoai </td>
@@ -6830,7 +6832,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/AmbroseNTK">
 				<img src="https://avatars.githubusercontent.com/u/13688324?s=72&u=c229b50f4ebb0f5881a8ab83a3e730c81f88d37b&v=4" width="24" alt="Avatar of AmbroseNTK"> AmbroseNTK
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#AmbroseNTK">Copy rank badge</a><br/>
 			Nguyễn Tuấn Kiệt
 		</td>
 		<td>@dsc-hsu @codeathon-itss @itsstraining </td>
@@ -6843,7 +6845,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/chuongtrh">
 				<img src="https://avatars.githubusercontent.com/u/7924855?s=72&u=57ed7d60163b0fba76654089814df930dcc02fb7&v=4" width="24" alt="Avatar of chuongtrh"> chuongtrh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#chuongtrh">Copy rank badge</a><br/>
 			Chuong Tran
 		</td>
 		<td>No Company</td>
@@ -6856,7 +6858,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nguoianphu">
 				<img src="https://avatars.githubusercontent.com/u/474181?s=72&u=ba71caaec87041d24b7a5780023e7995720c2e55&v=4" width="24" alt="Avatar of nguoianphu"> nguoianphu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nguoianphu">Copy rank badge</a><br/>
 			Nguoi An Phu
 		</td>
 		<td>@vohungtuan </td>
@@ -6869,7 +6871,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/minhpq331">
 				<img src="https://avatars.githubusercontent.com/u/16734662?s=72&u=9622589a59f5300f5a2d8e1212b9c6cad242f664&v=4" width="24" alt="Avatar of minhpq331"> minhpq331
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#minhpq331">Copy rank badge</a><br/>
 			Minh Monmen
 		</td>
 		<td>Calif.io </td>
@@ -6882,7 +6884,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dinhquochan">
 				<img src="https://avatars.githubusercontent.com/u/9979458?s=72&u=09c427a8d280d595fbda8171440a849881229fbd&v=4" width="24" alt="Avatar of dinhquochan"> dinhquochan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dinhquochan">Copy rank badge</a><br/>
 			Dinh Quoc Han
 		</td>
 		<td>@archielite </td>
@@ -6895,7 +6897,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/lephamcong">
 				<img src="https://avatars.githubusercontent.com/u/80463984?s=72&u=a38fa8c9d1040c9cb1ec115fedaf62bbe599819e&v=4" width="24" alt="Avatar of lephamcong"> lephamcong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#lephamcong">Copy rank badge</a><br/>
 			Le Pham Cong 
 		</td>
 		<td>The University Of Danang<br/>-<br/>University<br/>Of<br/>Science<br/>And<br/>Technology<br/></td>
@@ -6908,7 +6910,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/thvinhtruong">
 				<img src="https://avatars.githubusercontent.com/u/56877552?s=72&u=3554f956a5215c611f6a2960df9f16c27acfb984&v=4" width="24" alt="Avatar of thvinhtruong"> thvinhtruong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#thvinhtruong">Copy rank badge</a><br/>
 			Vinh Truong
 		</td>
 		<td>Frankfurt University Of Applied<br/>Science<br/></td>
@@ -6921,7 +6923,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vuonghv">
 				<img src="https://avatars.githubusercontent.com/u/11678338?s=72&u=43910a96b859f1dc893e0914b871c73aa6ad4d22&v=4" width="24" alt="Avatar of vuonghv"> vuonghv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vuonghv">Copy rank badge</a><br/>
 			Vuong Hoang
 		</td>
 		<td>Tdt </td>
@@ -6934,7 +6936,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nguyenlamzx">
 				<img src="https://avatars.githubusercontent.com/u/570048?s=72&u=7b1c5bbb63b9e40a4a25e180171ca84cfacefe80&v=4" width="24" alt="Avatar of nguyenlamzx"> nguyenlamzx
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nguyenlamzx">Copy rank badge</a><br/>
 			Lam Nguyen
 		</td>
 		<td>Freelancer </td>
@@ -6947,7 +6949,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuyen-vuduc">
 				<img src="https://avatars.githubusercontent.com/u/3112460?s=72&u=1f67318bc0b170c31b111b022259b636934d59f8&v=4" width="24" alt="Avatar of tuyen-vuduc"> tuyen-vuduc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tuyen-vuduc">Copy rank badge</a><br/>
 			Tuyen VU
 		</td>
 		<td>@naxam @newwavesolutions </td>
@@ -6960,7 +6962,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ledinhtri97">
 				<img src="https://avatars.githubusercontent.com/u/16860306?s=72&u=30bb5703e0673cb734dc1bfceaff305d5a7e4765&v=4" width="24" alt="Avatar of ledinhtri97"> ledinhtri97
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ledinhtri97">Copy rank badge</a><br/>
 			tridinh
 		</td>
 		<td>Www.linkedin.com/in/ </td>
@@ -6973,7 +6975,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dxv2k">
 				<img src="https://avatars.githubusercontent.com/u/9569076?s=72&u=d18f02cec3775309f59d9bb3ad5cdbb2b2e1506d&v=4" width="24" alt="Avatar of dxv2k"> dxv2k
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dxv2k">Copy rank badge</a><br/>
 			Đinh Xuân Vũ
 		</td>
 		<td>University Of Information Technology,<br/>Vietnam<br/>National<br/>University<br/></td>
@@ -6986,7 +6988,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/halink0803">
 				<img src="https://avatars.githubusercontent.com/u/5054560?s=72&u=a3e205e8e5156938e124bcebaaed030205e5a418&v=4" width="24" alt="Avatar of halink0803"> halink0803
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#halink0803">Copy rank badge</a><br/>
 			Ha Link
 		</td>
 		<td>Self-employment </td>
@@ -6999,7 +7001,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trinhlbk1991">
 				<img src="https://avatars.githubusercontent.com/u/6246484?s=72&u=c582642b9e5f4fce7e1e5aafbb89dcddde6d4c6c&v=4" width="24" alt="Avatar of trinhlbk1991"> trinhlbk1991
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trinhlbk1991">Copy rank badge</a><br/>
 			Trinh Le
 		</td>
 		<td>No Company</td>
@@ -7012,7 +7014,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoanglehaithanh">
 				<img src="https://avatars.githubusercontent.com/u/15902711?s=72&u=b8447b20679ca7645b9ee17af583f023a6fd1f65&v=4" width="24" alt="Avatar of hoanglehaithanh"> hoanglehaithanh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoanglehaithanh">Copy rank badge</a><br/>
 			Hoàng Lê Hải Thanh
 		</td>
 		<td>@hpcc-hcmut  </td>
@@ -7025,7 +7027,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/cobaohieu">
 				<img src="https://avatars.githubusercontent.com/u/15033605?s=72&u=9696adae6f2a1b47d05fdc49bb7d2af8363cd8e9&v=4" width="24" alt="Avatar of cobaohieu"> cobaohieu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#cobaohieu">Copy rank badge</a><br/>
 			Hieu C B
 		</td>
 		<td>No Company</td>
@@ -7038,7 +7040,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuyennn">
 				<img src="https://avatars.githubusercontent.com/u/4010395?s=72&u=0dea529b2c9b48253590a5ae5cd3faa4f64cdff3&v=4" width="24" alt="Avatar of tuyennn"> tuyennn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tuyennn">Copy rank badge</a><br/>
 			Tuyen Nguyen
 		</td>
 		<td>Fpt Software </td>
@@ -7051,7 +7053,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/khoale9098">
 				<img src="https://avatars.githubusercontent.com/u/43885032?s=72&u=d4c2a57fd48109f23189e84cf59790a28551fc80&v=4" width="24" alt="Avatar of khoale9098"> khoale9098
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#khoale9098">Copy rank badge</a><br/>
 			Khoa Le
 		</td>
 		<td>@vng </td>
@@ -7064,7 +7066,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/locphan87">
 				<img src="https://avatars.githubusercontent.com/u/805244?s=72&u=9114a6f25ef94bda2441acca202ae09d4ddbd14f&v=4" width="24" alt="Avatar of locphan87"> locphan87
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#locphan87">Copy rank badge</a><br/>
 			Loc Phan
 		</td>
 		<td>Nab Vietnam </td>
@@ -7077,7 +7079,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nhivp">
 				<img src="https://avatars.githubusercontent.com/u/16060675?s=72&u=d3cb1a47bac8c066c394215f20219b10a94c644a&v=4" width="24" alt="Avatar of nhivp"> nhivp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nhivp">Copy rank badge</a><br/>
 			Nhi Pham
 		</td>
 		<td>@amperecomputing </td>
@@ -7090,7 +7092,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hieplpvip">
 				<img src="https://avatars.githubusercontent.com/u/17219541?s=72&u=c9ba2a06da590e1dc4c5bacc7cd507405e60c8db&v=4" width="24" alt="Avatar of hieplpvip"> hieplpvip
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hieplpvip">Copy rank badge</a><br/>
 			Bao-Hiep Le
 		</td>
 		<td>No Company</td>
@@ -7103,7 +7105,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/duydo">
 				<img src="https://avatars.githubusercontent.com/u/197841?s=72&u=11c11e2db60bbeb4622397e3cdd50cbff50a2f72&v=4" width="24" alt="Avatar of duydo"> duydo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#duydo">Copy rank badge</a><br/>
 			Duy Do
 		</td>
 		<td>No Company</td>
@@ -7116,7 +7118,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/phucledien">
 				<img src="https://avatars.githubusercontent.com/u/14150687?s=72&u=d9939cd01cda19d7cebfcf3161e5533460b58fe4&v=4" width="24" alt="Avatar of phucledien"> phucledien
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#phucledien">Copy rank badge</a><br/>
 			Le Dien Phuc
 		</td>
 		<td>@dwarvesf @consolelabs </td>
@@ -7129,7 +7131,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/qmauvnt">
 				<img src="https://avatars.githubusercontent.com/u/10303945?s=72&u=d362608942b272e0d06dcbe4126db943d65c9548&v=4" width="24" alt="Avatar of qmauvnt"> qmauvnt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#qmauvnt">Copy rank badge</a><br/>
 			Mau Ha Quang
 		</td>
 		<td>Cloud Kinetics </td>
@@ -7142,7 +7144,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nhannqgh">
 				<img src="https://avatars.githubusercontent.com/u/15848072?s=72&u=f46677bac0415f0dc1f2fe0120df138e5df2f1a8&v=4" width="24" alt="Avatar of nhannqgh"> nhannqgh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nhannqgh">Copy rank badge</a><br/>
 			Nhan Nguyen
 		</td>
 		<td>No Company</td>
@@ -7155,7 +7157,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/sngo25">
 				<img src="https://avatars.githubusercontent.com/u/2512088?s=72&v=4" width="24" alt="Avatar of sngo25"> sngo25
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#sngo25">Copy rank badge</a><br/>
 			Sang Ngo
 		</td>
 		<td>No Company</td>
@@ -7168,7 +7170,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dotrinh-DM">
 				<img src="https://avatars.githubusercontent.com/u/8064517?s=72&v=4" width="24" alt="Avatar of dotrinh-DM"> dotrinh-DM
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dotrinh-DM">Copy rank badge</a><br/>
 			Do Trinh
 		</td>
 		<td>Universal Software Engineering Inc.<br/></td>
@@ -7181,7 +7183,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/itsurboimasarou">
 				<img src="https://avatars.githubusercontent.com/u/105153038?s=72&u=6d5a9219d6862ec1f372ced63443ee26220f8567&v=4" width="24" alt="Avatar of itsurboimasarou"> itsurboimasarou
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#itsurboimasarou">Copy rank badge</a><br/>
 			Lê Nhật Lâm
 		</td>
 		<td>No Company</td>
@@ -7194,7 +7196,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hunglc007">
 				<img src="https://avatars.githubusercontent.com/u/15844077?s=72&v=4" width="24" alt="Avatar of hunglc007"> hunglc007
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hunglc007">Copy rank badge</a><br/>
 			Việt Hùng
 		</td>
 		<td>Vnptai </td>
@@ -7207,7 +7209,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hantrungkien">
 				<img src="https://avatars.githubusercontent.com/u/20286370?s=72&u=747080660fcf6b2e05733c0e86783adaf45dbb90&v=4" width="24" alt="Avatar of hantrungkien"> hantrungkien
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hantrungkien">Copy rank badge</a><br/>
 			Hán Trung Kiên
 		</td>
 		<td>No Company</td>
@@ -7220,7 +7222,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ngocthach">
 				<img src="https://avatars.githubusercontent.com/u/8916896?s=72&u=d1ed392dea34040599f7da81d69ae9d60832e310&v=4" width="24" alt="Avatar of ngocthach"> ngocthach
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ngocthach">Copy rank badge</a><br/>
 			Le Ngoc Thach
 		</td>
 		<td>Momo </td>
@@ -7233,7 +7235,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/rootonchair">
 				<img src="https://avatars.githubusercontent.com/u/23548268?s=72&u=d7763ff1f07b10018016c769a5a091a79c8c2914&v=4" width="24" alt="Avatar of rootonchair"> rootonchair
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#rootonchair">Copy rank badge</a><br/>
 			Vinh H. Pham 
 		</td>
 		<td>No Company</td>
@@ -7246,7 +7248,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/lechidung">
 				<img src="https://avatars.githubusercontent.com/u/9834547?s=72&u=5f8c546bb14e6d1fcf485b33b92a8e3485bd3acd&v=4" width="24" alt="Avatar of lechidung"> lechidung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#lechidung">Copy rank badge</a><br/>
 			Johnny Lê
 		</td>
 		<td>No Company</td>
@@ -7259,7 +7261,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vtproduction">
 				<img src="https://avatars.githubusercontent.com/u/4235108?s=72&v=4" width="24" alt="Avatar of vtproduction"> vtproduction
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vtproduction">Copy rank badge</a><br/>
 			Lê Mạnh Niên
 		</td>
 		<td>No Company</td>
@@ -7272,7 +7274,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trinhanhngoc">
 				<img src="https://avatars.githubusercontent.com/u/11208291?s=72&u=e5332c03b627dc6937d63d2aa8708f785e3d6828&v=4" width="24" alt="Avatar of trinhanhngoc"> trinhanhngoc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trinhanhngoc">Copy rank badge</a><br/>
 			Trịnh Anh Ngọc
 		</td>
 		<td>No Company</td>
@@ -7285,7 +7287,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/huytuong010101">
 				<img src="https://avatars.githubusercontent.com/u/53045632?s=72&u=732e41d6e15b8bdb5b1316266921a1c8cba2695f&v=4" width="24" alt="Avatar of huytuong010101"> huytuong010101
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#huytuong010101">Copy rank badge</a><br/>
 			Nguyen Huy Tuong
 		</td>
 		<td>Workday </td>
@@ -7298,7 +7300,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/kh4nh12">
 				<img src="https://avatars.githubusercontent.com/u/62872625?s=72&u=ee3da8ef32b516674c3a068d13cf800133cbe6b3&v=4" width="24" alt="Avatar of kh4nh12"> kh4nh12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#kh4nh12">Copy rank badge</a><br/>
 			Khanh Quoc Tran
 		</td>
 		<td>University Of Information Technology<br/></td>
@@ -7311,7 +7313,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/DuyLeHong">
 				<img src="https://avatars.githubusercontent.com/u/19663902?s=72&u=e4887c2c35857b2fab5113de5b1d4da81a00e3c0&v=4" width="24" alt="Avatar of DuyLeHong"> DuyLeHong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#DuyLeHong">Copy rank badge</a><br/>
 			Duy Le Hong - MSc.IT Hust
 		</td>
 		<td>No Company</td>
@@ -7324,7 +7326,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nguyenthanhhungDE">
 				<img src="https://avatars.githubusercontent.com/u/134383281?s=72&u=0ec08de920cb3fde154ea6f08f429bdf5549bde1&v=4" width="24" alt="Avatar of nguyenthanhhungDE"> nguyenthanhhungDE
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nguyenthanhhungDE">Copy rank badge</a><br/>
 			Nguyễn  Thanh Hùng
 		</td>
 		<td>No Company</td>
@@ -7337,7 +7339,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/mctrinh">
 				<img src="https://avatars.githubusercontent.com/u/51781970?s=72&u=899abfaa56b5c06f156f3c370a589c1b2fe060b8&v=4" width="24" alt="Avatar of mctrinh"> mctrinh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#mctrinh">Copy rank badge</a><br/>
 			Minh-Chien Trinh
 		</td>
 		<td>No Company</td>
@@ -7350,7 +7352,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vumdao">
 				<img src="https://avatars.githubusercontent.com/u/37215642?s=72&u=096b656de87fdd65cf33db64c1bcf490254bcd8d&v=4" width="24" alt="Avatar of vumdao"> vumdao
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vumdao">Copy rank badge</a><br/>
 			Vu Dao
 		</td>
 		<td>Https://stackoverflo </td>
@@ -7363,7 +7365,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tucq88">
 				<img src="https://avatars.githubusercontent.com/u/1224327?s=72&v=4" width="24" alt="Avatar of tucq88"> tucq88
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tucq88">Copy rank badge</a><br/>
 			Tu Chu
 		</td>
 		<td>@oraichain @oraidex @owallet-io @upatra<br/><br/></td>
@@ -7376,7 +7378,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/D-Jukie">
 				<img src="https://avatars.githubusercontent.com/u/88573083?s=72&u=0c87e2383e095b116ce652ae8feda75b6b72e7ff&v=4" width="24" alt="Avatar of D-Jukie"> D-Jukie
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#D-Jukie">Copy rank badge</a><br/>
 			Pham Van Dien
 		</td>
 		<td>No Company</td>
@@ -7389,7 +7391,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dat911zz">
 				<img src="https://avatars.githubusercontent.com/u/74701328?s=72&u=4a835b301dc9f712d900b46f58ce4ae9bc8a7af5&v=4" width="24" alt="Avatar of dat911zz"> dat911zz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dat911zz">Copy rank badge</a><br/>
 			Vũ Đạt
 		</td>
 		<td>Softdreams </td>
@@ -7402,7 +7404,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dannd4">
 				<img src="https://avatars.githubusercontent.com/u/45675930?s=72&u=4e48f2ecb449cc0c36003cd0c300df24aa55d006&v=4" width="24" alt="Avatar of dannd4"> dannd4
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dannd4">Copy rank badge</a><br/>
 			Dan Nguyen
 		</td>
 		<td>No Company</td>
@@ -7415,7 +7417,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/entest-hai">
 				<img src="https://avatars.githubusercontent.com/u/20411077?s=72&v=4" width="24" alt="Avatar of entest-hai"> entest-hai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#entest-hai">Copy rank badge</a><br/>
 			Hai Tran
 		</td>
 		<td>Entest </td>
@@ -7428,7 +7430,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tabvn">
 				<img src="https://avatars.githubusercontent.com/u/186773?s=72&u=dd825dbb63c3b9745a1ba5dc04e8b3c226515d61&v=4" width="24" alt="Avatar of tabvn"> tabvn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tabvn">Copy rank badge</a><br/>
 			Toan
 		</td>
 		<td>No Company</td>
@@ -7441,7 +7443,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/yalza">
 				<img src="https://avatars.githubusercontent.com/u/83264177?s=72&u=5cc9c47f977e5bd7a4ee2726c7e231e662f9c2c0&v=4" width="24" alt="Avatar of yalza"> yalza
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#yalza">Copy rank badge</a><br/>
 			NGUYỄN NGỌC TOÀN
 		</td>
 		<td>@epicgames </td>
@@ -7454,7 +7456,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/huyhieupham">
 				<img src="https://avatars.githubusercontent.com/u/22640253?s=72&u=64d0dec4589c798061f6676e59f0efc554b6060c&v=4" width="24" alt="Avatar of huyhieupham"> huyhieupham
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#huyhieupham">Copy rank badge</a><br/>
 			Huy Hieu PHAM
 		</td>
 		<td>Vinuniversity </td>
@@ -7467,7 +7469,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/robinhuy">
 				<img src="https://avatars.githubusercontent.com/u/12640832?s=72&u=33fdfe427269c93b9c728c5e19d2b1c919d12bf0&v=4" width="24" alt="Avatar of robinhuy"> robinhuy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#robinhuy">Copy rank badge</a><br/>
 			Robin Huy
 		</td>
 		<td>Lts Group </td>
@@ -7480,7 +7482,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trungthaihieu93-dev">
 				<img src="https://avatars.githubusercontent.com/u/81668387?s=72&u=fe610e9aedd7304f13e46c10b8b391b21408c1ee&v=4" width="24" alt="Avatar of trungthaihieu93-dev"> trungthaihieu93-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trungthaihieu93-dev">Copy rank badge</a><br/>
 			Tony Thai
 		</td>
 		<td>Innovation Labs </td>
@@ -7493,7 +7495,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/winter2897">
 				<img src="https://avatars.githubusercontent.com/u/22476495?s=72&u=853ef6e93ea78abf3c074cb47f9b3f625bd1c851&v=4" width="24" alt="Avatar of winter2897"> winter2897
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#winter2897">Copy rank badge</a><br/>
 			Hai Quan Tran
 		</td>
 		<td>Hust - Hanoi University<br/>Of<br/>Science<br/>And<br/>Technology<br/></td>
@@ -7506,7 +7508,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tachithanhdanh">
 				<img src="https://avatars.githubusercontent.com/u/75555549?s=72&u=2b51374391c35e799fb3aeb4980a4947ebb81fe7&v=4" width="24" alt="Avatar of tachithanhdanh"> tachithanhdanh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tachithanhdanh">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -7519,7 +7521,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/kungfulon">
 				<img src="https://avatars.githubusercontent.com/u/1312612?s=72&u=6960836a537ee2325c7c21328401d183d6832ed9&v=4" width="24" alt="Avatar of kungfulon"> kungfulon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#kungfulon">Copy rank badge</a><br/>
 			Bien Pham
 		</td>
 		<td>@qriousec </td>
@@ -7532,7 +7534,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/quanglam2807">
 				<img src="https://avatars.githubusercontent.com/u/1548835?s=72&u=a6a1bb8bdece4fa495388eed56b90ba21f692882&v=4" width="24" alt="Avatar of quanglam2807"> quanglam2807
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#quanglam2807">Copy rank badge</a><br/>
 			Quang Lam
 		</td>
 		<td>@webcatalog </td>
@@ -7545,7 +7547,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ThuyNgoc186">
 				<img src="https://avatars.githubusercontent.com/u/114259179?s=72&u=9c7adbd0a61c0908933d4253a765474825fa10b0&v=4" width="24" alt="Avatar of ThuyNgoc186"> ThuyNgoc186
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ThuyNgoc186">Copy rank badge</a><br/>
 			Thuyngoc186
 		</td>
 		<td>No Company</td>
@@ -7558,7 +7560,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/huynguyencong">
 				<img src="https://avatars.githubusercontent.com/u/12905487?s=72&u=81b9d065c1e26113edf0093e72556fd92c56235b&v=4" width="24" alt="Avatar of huynguyencong"> huynguyencong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#huynguyencong">Copy rank badge</a><br/>
 			Huy Nguyen
 		</td>
 		<td>No Company</td>
@@ -7571,7 +7573,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/manhnh97">
 				<img src="https://avatars.githubusercontent.com/u/42213325?s=72&u=ea61bb6f163b63b155335ddf173d92445ac02f48&v=4" width="24" alt="Avatar of manhnh97"> manhnh97
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#manhnh97">Copy rank badge</a><br/>
 			Manhihi
 		</td>
 		<td>No Company</td>
@@ -7584,7 +7586,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/devteria">
 				<img src="https://avatars.githubusercontent.com/u/155750254?s=72&u=2e48fe19d4be0f9ea19ef82eb7f80a3aa06336ef&v=4" width="24" alt="Avatar of devteria"> devteria
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#devteria">Copy rank badge</a><br/>
 			Devteria
 		</td>
 		<td>No Company</td>
@@ -7597,7 +7599,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tamfuldev">
 				<img src="https://avatars.githubusercontent.com/u/68436770?s=72&u=d3314378b4c389a69801fb895b4ed8b26ba0977d&v=4" width="24" alt="Avatar of tamfuldev"> tamfuldev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tamfuldev">Copy rank badge</a><br/>
 			Tam
 		</td>
 		<td>No Company</td>
@@ -7610,7 +7612,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Tkag0001">
 				<img src="https://avatars.githubusercontent.com/u/107709392?s=72&u=548ce7120f2b54a425cada6ae917c83056a322ae&v=4" width="24" alt="Avatar of Tkag0001"> Tkag0001
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Tkag0001">Copy rank badge</a><br/>
 			Trịnh Huỳnh Thịnh Khang
 		</td>
 		<td>Ho Chi Minh Open<br/>University.<br/></td>
@@ -7623,7 +7625,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/PhanThanhTrung">
 				<img src="https://avatars.githubusercontent.com/u/39378219?s=72&u=76932905cdff56260102dc668565fd1ec0eecb6c&v=4" width="24" alt="Avatar of PhanThanhTrung"> PhanThanhTrung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#PhanThanhTrung">Copy rank badge</a><br/>
 			Phan Thành Trung (Miles)
 		</td>
 		<td>Verysellai </td>
@@ -7636,7 +7638,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/xuanvan229">
 				<img src="https://avatars.githubusercontent.com/u/22408713?s=72&u=b204010ca1680bb32e30d0909d7c86a89acb5a7b&v=4" width="24" alt="Avatar of xuanvan229"> xuanvan229
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#xuanvan229">Copy rank badge</a><br/>
 			Hong Xuan
 		</td>
 		<td>Oode </td>
@@ -7649,7 +7651,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dongatory">
 				<img src="https://avatars.githubusercontent.com/u/3623890?s=72&u=212c33288000fa94a71467407a8b0c4e584fe80d&v=4" width="24" alt="Avatar of dongatory"> dongatory
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dongatory">Copy rank badge</a><br/>
 			Dong Nguyen
 		</td>
 		<td>@dotgearsteam  </td>
@@ -7662,7 +7664,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tctien342">
 				<img src="https://avatars.githubusercontent.com/u/26409306?s=72&u=57d6df0d390ddc7061e9d64939c74890df142e37&v=4" width="24" alt="Avatar of tctien342"> tctien342
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tctien342">Copy rank badge</a><br/>
 			Saintno
 		</td>
 		<td>@550studios  </td>
@@ -7675,7 +7677,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hprobotic">
 				<img src="https://avatars.githubusercontent.com/u/5791885?s=72&u=47da8314b16f613f6c5fdfeae5711434a7e2d16d&v=4" width="24" alt="Avatar of hprobotic"> hprobotic
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hprobotic">Copy rank badge</a><br/>
 			John Pham
 		</td>
 		<td>@reaphq  </td>
@@ -7688,7 +7690,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/lanphan">
 				<img src="https://avatars.githubusercontent.com/u/360654?s=72&u=ec06b85c334240ed280c40fdf67189c83552e099&v=4" width="24" alt="Avatar of lanphan"> lanphan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#lanphan">Copy rank badge</a><br/>
 			Lan Phan
 		</td>
 		<td>No Company</td>
@@ -7701,7 +7703,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/quangtiencs">
 				<img src="https://avatars.githubusercontent.com/u/25101450?s=72&u=613a4c7816e479e37041ee1ca289287cbab4f79b&v=4" width="24" alt="Avatar of quangtiencs"> quangtiencs
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#quangtiencs">Copy rank badge</a><br/>
 			Tien Le-Quang
 		</td>
 		<td>Vinsmart Future </td>
@@ -7714,7 +7716,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tulna07">
 				<img src="https://avatars.githubusercontent.com/u/72339711?s=72&u=b1ac5c014254d99ef8572817013b76f85fc7a31b&v=4" width="24" alt="Avatar of tulna07"> tulna07
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tulna07">Copy rank badge</a><br/>
 			Tu Le
 		</td>
 		<td>No Company</td>
@@ -7727,7 +7729,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/DanielKehoe">
 				<img src="https://avatars.githubusercontent.com/u/950301?s=72&u=be2e6fa4bf92ab9ab6ef2dbe86eb3c1c67d0b15e&v=4" width="24" alt="Avatar of DanielKehoe"> DanielKehoe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#DanielKehoe">Copy rank badge</a><br/>
 			Daniel Kehoe
 		</td>
 		<td>No Company</td>
@@ -7740,7 +7742,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/muangau107">
 				<img src="https://avatars.githubusercontent.com/u/42663589?s=72&u=19c2623d2b22e967f75fe47384afb221902b5a4c&v=4" width="24" alt="Avatar of muangau107"> muangau107
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#muangau107">Copy rank badge</a><br/>
 			⊥I nɐ̮ɓN
 		</td>
 		<td>Pc </td>
@@ -7753,7 +7755,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/quangnh89">
 				<img src="https://avatars.githubusercontent.com/u/10832563?s=72&v=4" width="24" alt="Avatar of quangnh89"> quangnh89
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#quangnh89">Copy rank badge</a><br/>
 			Quang Nguyễn
 		</td>
 		<td>No Company</td>
@@ -7766,7 +7768,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nguyenquanicd">
 				<img src="https://avatars.githubusercontent.com/u/30768260?s=72&u=296e0cd522626d9db7653473c299cbdc894887c9&v=4" width="24" alt="Avatar of nguyenquanicd"> nguyenquanicd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nguyenquanicd">Copy rank badge</a><br/>
 			VLSI Technology
 		</td>
 		<td>Vlsi Technology </td>
@@ -7779,7 +7781,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/PhuongFX">
 				<img src="https://avatars.githubusercontent.com/u/162846217?s=72&u=b98799f96119b6a64ec777a58f9899321bb095f2&v=4" width="24" alt="Avatar of PhuongFX"> PhuongFX
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#PhuongFX">Copy rank badge</a><br/>
 			Phuong Phan
 		</td>
 		<td>No Company</td>
@@ -7792,7 +7794,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/GraphicDThanh">
 				<img src="https://avatars.githubusercontent.com/u/11568347?s=72&u=b00e7152007adae97f91dca1065b295daafd2f38&v=4" width="24" alt="Avatar of GraphicDThanh"> GraphicDThanh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#GraphicDThanh">Copy rank badge</a><br/>
 			Thanh Nguyen Diem
 		</td>
 		<td>Agilityio </td>
@@ -7805,7 +7807,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/datvodinh">
 				<img src="https://avatars.githubusercontent.com/u/90944231?s=72&u=25d4b80caf32510168a0e8d5ac747c9db10f8f0d&v=4" width="24" alt="Avatar of datvodinh"> datvodinh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#datvodinh">Copy rank badge</a><br/>
 			Dat Vo Dinh
 		</td>
 		<td>No Company</td>
@@ -7818,7 +7820,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ejamesc">
 				<img src="https://avatars.githubusercontent.com/u/337175?s=72&u=e4a62417cff55b6eac4730dcaa71ebdd2c77e22f&v=4" width="24" alt="Avatar of ejamesc"> ejamesc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ejamesc">Copy rank badge</a><br/>
 			Cedric Chin
 		</td>
 		<td>Postcognito </td>
@@ -7831,7 +7833,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/luongvo">
 				<img src="https://avatars.githubusercontent.com/u/16315358?s=72&u=391be584102996b2778a6f7cb6e60a0fec2925c4&v=4" width="24" alt="Avatar of luongvo"> luongvo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#luongvo">Copy rank badge</a><br/>
 			Luong Vo (Lucas)
 		</td>
 		<td>@nimblehq </td>
@@ -7844,7 +7846,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tonyle9">
 				<img src="https://avatars.githubusercontent.com/u/15383700?s=72&u=ad6d2f5692dd9004d83828f0a30c0101c5b4ff92&v=4" width="24" alt="Avatar of tonyle9"> tonyle9
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tonyle9">Copy rank badge</a><br/>
 			Hung Le 
 		</td>
 		<td>Devc Hanoi </td>
@@ -7857,7 +7859,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/htrvu">
 				<img src="https://avatars.githubusercontent.com/u/77799783?s=72&u=f0d6d3cae6af48bc9d0377fe58aca58162b1ff19&v=4" width="24" alt="Avatar of htrvu"> htrvu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#htrvu">Copy rank badge</a><br/>
 			Vu Hoang
 		</td>
 		<td>Hcmus </td>
@@ -7870,7 +7872,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/lynguyenminh">
 				<img src="https://avatars.githubusercontent.com/u/82688630?s=72&u=15c16b8a47a2f94872e29b12428cc2a3d6b85e04&v=4" width="24" alt="Avatar of lynguyenminh"> lynguyenminh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#lynguyenminh">Copy rank badge</a><br/>
 			Nguyễn Minh Lý
 		</td>
 		<td>Uit, Vnu-hcm </td>
@@ -7883,7 +7885,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/danvox9">
 				<img src="https://avatars.githubusercontent.com/u/67332180?s=72&u=a0b3108081445256b9f6bb68a3bda7d1790dc9a3&v=4" width="24" alt="Avatar of danvox9"> danvox9
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#danvox9">Copy rank badge</a><br/>
 			Dan Vo
 		</td>
 		<td>No Company</td>
@@ -7896,7 +7898,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Ren294">
 				<img src="https://avatars.githubusercontent.com/u/76911040?s=72&u=1a8aba007d061e9a4f76a0c31d4955df9b8533ce&v=4" width="24" alt="Avatar of Ren294"> Ren294
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Ren294">Copy rank badge</a><br/>
 			Nguyen Trung Nghia
 		</td>
 		<td>No Company</td>
@@ -7909,7 +7911,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/toantran-ea">
 				<img src="https://avatars.githubusercontent.com/u/8085722?s=72&u=f2bd724b0842c32c5aeaffafbd02e7afe890b39f&v=4" width="24" alt="Avatar of toantran-ea"> toantran-ea
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#toantran-ea">Copy rank badge</a><br/>
 			Toan Tran
 		</td>
 		<td>No Company</td>
@@ -7922,7 +7924,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/0xhanh">
 				<img src="https://avatars.githubusercontent.com/u/17973141?s=72&u=c5da9efd4f6df77546f3501fc348833b9fe6ab4f&v=4" width="24" alt="Avatar of 0xhanh"> 0xhanh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#0xhanh">Copy rank badge</a><br/>
 			hanhv
 		</td>
 		<td>No Company</td>
@@ -7935,7 +7937,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/completejavascript">
 				<img src="https://avatars.githubusercontent.com/u/27888528?s=72&u=c547909dbb09abe231bdc788b0888f6e9e595452&v=4" width="24" alt="Avatar of completejavascript"> completejavascript
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#completejavascript">Copy rank badge</a><br/>
 			Lam Pham
 		</td>
 		<td>No Company</td>
@@ -7948,7 +7950,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tutv">
 				<img src="https://avatars.githubusercontent.com/u/7255177?s=72&u=66851acc2293bde9d1e41735c8d2db7321b6a116&v=4" width="24" alt="Avatar of tutv"> tutv
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tutv">Copy rank badge</a><br/>
 			Tu Tran
 		</td>
 		<td>@merchize </td>
@@ -7961,7 +7963,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/donnguyen">
 				<img src="https://avatars.githubusercontent.com/u/3904511?s=72&u=980428a5c75125945f515c697d6a1ecae2bdd740&v=4" width="24" alt="Avatar of donnguyen"> donnguyen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#donnguyen">Copy rank badge</a><br/>
 			Don Nguyen
 		</td>
 		<td>Spiderbox Design </td>
@@ -7974,7 +7976,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/huynguyenvu1996">
 				<img src="https://avatars.githubusercontent.com/u/30389595?s=72&u=2082ebe35332d23efadcabbe8318965a4e8ca528&v=4" width="24" alt="Avatar of huynguyenvu1996"> huynguyenvu1996
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#huynguyenvu1996">Copy rank badge</a><br/>
 			Nguyễn Vũ Huy
 		</td>
 		<td>@superclassvn  </td>
@@ -7987,7 +7989,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/davidtran">
 				<img src="https://avatars.githubusercontent.com/u/1154740?s=72&u=fce88bcda529fe4c0096fdabf0a7919ffc21fbb1&v=4" width="24" alt="Avatar of davidtran"> davidtran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#davidtran">Copy rank badge</a><br/>
 			David Tran
 		</td>
 		<td>No Company</td>
@@ -8000,7 +8002,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/DauHoangTai">
 				<img src="https://avatars.githubusercontent.com/u/54855855?s=72&u=ddd40348ed1b209665bdfc2d22236ffe1d8ed12a&v=4" width="24" alt="Avatar of DauHoangTai"> DauHoangTai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#DauHoangTai">Copy rank badge</a><br/>
 			taidh
 		</td>
 		<td>Duy Tan University </td>
@@ -8013,7 +8015,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dinhbaouit">
 				<img src="https://avatars.githubusercontent.com/u/17717385?s=72&u=47ceb6d6b075c9856117f0b4a706d654fb5eb834&v=4" width="24" alt="Avatar of dinhbaouit"> dinhbaouit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dinhbaouit">Copy rank badge</a><br/>
 			Doffy (0xd0ff9)
 		</td>
 		<td>Vng Security Team (zalo<br/>Group)<br/></td>
@@ -8026,7 +8028,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/minhng99">
 				<img src="https://avatars.githubusercontent.com/u/14113155?s=72&u=2c69da574ffcdb9bba49b42bb826386ffc8321a3&v=4" width="24" alt="Avatar of minhng99"> minhng99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#minhng99">Copy rank badge</a><br/>
 			Nguyen Quang Minh
 		</td>
 		<td>No Company</td>
@@ -8039,7 +8041,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/linhfishCR7">
 				<img src="https://avatars.githubusercontent.com/u/59117535?s=72&u=5bc100107c921ab129d611f4abc2035e8e3b72de&v=4" width="24" alt="Avatar of linhfishCR7"> linhfishCR7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#linhfishCR7">Copy rank badge</a><br/>
 			Ha Van Linh (Fish Walker)
 		</td>
 		<td>Salary.com </td>
@@ -8052,7 +8054,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Igor-Nosatov">
 				<img src="https://avatars.githubusercontent.com/u/17260987?s=72&u=be9708362dbfb38e85f1fdf7a5443fb3a9758924&v=4" width="24" alt="Avatar of Igor-Nosatov"> Igor-Nosatov
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Igor-Nosatov">Copy rank badge</a><br/>
 			Igor Nosatov
 		</td>
 		<td>The Else Inc. </td>
@@ -8065,7 +8067,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/letronghoangminh">
 				<img src="https://avatars.githubusercontent.com/u/50044415?s=72&u=f645c67e3bd6d5a921db58abeb93340298247cd6&v=4" width="24" alt="Avatar of letronghoangminh"> letronghoangminh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#letronghoangminh">Copy rank badge</a><br/>
 			psycholog1st
 		</td>
 		<td>Da Nang University Of<br/>Science<br/>And<br/>Technology<br/></td>
@@ -8078,7 +8080,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/duytq94">
 				<img src="https://avatars.githubusercontent.com/u/24253421?s=72&u=25bf750e638b5add54f561d7f497b43a1722dedb&v=4" width="24" alt="Avatar of duytq94"> duytq94
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#duytq94">Copy rank badge</a><br/>
 			Duy Tran
 		</td>
 		<td>No Company</td>
@@ -8091,7 +8093,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/daominhdam">
 				<img src="https://avatars.githubusercontent.com/u/3110748?s=72&u=d7f062a23f2ca5b4898354e000653b5041d2df19&v=4" width="24" alt="Avatar of daominhdam"> daominhdam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#daominhdam">Copy rank badge</a><br/>
 			Dao Minh Dam
 		</td>
 		<td>Axon Active Vietnam </td>
@@ -8104,7 +8106,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Phong-Kaster">
 				<img src="https://avatars.githubusercontent.com/u/58034430?s=72&u=5e4076696df2356eac4492bc541321481aa6455c&v=4" width="24" alt="Avatar of Phong-Kaster"> Phong-Kaster
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Phong-Kaster">Copy rank badge</a><br/>
 			Phong Kaster
 		</td>
 		<td>No Company</td>
@@ -8117,7 +8119,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/KyawTheMonkey">
 				<img src="https://avatars.githubusercontent.com/u/59503767?s=72&u=2f8676e6b50c8f0929e2bd872040dcd357111b39&v=4" width="24" alt="Avatar of KyawTheMonkey"> KyawTheMonkey
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#KyawTheMonkey">Copy rank badge</a><br/>
 			Kyaw Zay Ya Lin Tun
 		</td>
 		<td>Zalora </td>
@@ -8130,7 +8132,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/lhduc02">
 				<img src="https://avatars.githubusercontent.com/u/76842196?s=72&u=134f9b6f6d5bbd9a8d06ec82a37be7958c8063e6&v=4" width="24" alt="Avatar of lhduc02"> lhduc02
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#lhduc02">Copy rank badge</a><br/>
 			Lê Huỳnh Đức
 		</td>
 		<td>Joybit Game Studio </td>
@@ -8143,7 +8145,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/starchow">
 				<img src="https://avatars.githubusercontent.com/u/836532?s=72&u=b9e81a06ad71dc2cec0aa9611ecb296eef7d48a5&v=4" width="24" alt="Avatar of starchow"> starchow
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#starchow">Copy rank badge</a><br/>
 			Phạm Trung Nam
 		</td>
 		<td>@deliveree  </td>
@@ -8156,7 +8158,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tienthanh214">
 				<img src="https://avatars.githubusercontent.com/u/39771202?s=72&u=c9662169a1c868c024b5723230481181ad0377b8&v=4" width="24" alt="Avatar of tienthanh214"> tienthanh214
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tienthanh214">Copy rank badge</a><br/>
 			Tien-Thanh Nguyen-Dang
 		</td>
 		<td>No Company</td>
@@ -8169,7 +8171,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ToVinhKhang">
 				<img src="https://avatars.githubusercontent.com/u/46922750?s=72&u=8a2a45edacffaba23e1f85a4a426536750228590&v=4" width="24" alt="Avatar of ToVinhKhang"> ToVinhKhang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ToVinhKhang">Copy rank badge</a><br/>
 			K E N T
 		</td>
 		<td>No Company</td>
@@ -8182,7 +8184,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoangdh">
 				<img src="https://avatars.githubusercontent.com/u/17746953?s=72&u=c25887324c1ccfa33cf757eaa0431e7623f73814&v=4" width="24" alt="Avatar of hoangdh"> hoangdh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoangdh">Copy rank badge</a><br/>
 			Dao Huy Hoang
 		</td>
 		<td>@diennuocdaiphong  </td>
@@ -8195,7 +8197,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trietbui85">
 				<img src="https://avatars.githubusercontent.com/u/340836?s=72&u=276eb9bbc80ea6e5768e6a90b955b435fa04a804&v=4" width="24" alt="Avatar of trietbui85"> trietbui85
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trietbui85">Copy rank badge</a><br/>
 			trietbui85
 		</td>
 		<td>Zalora </td>
@@ -8208,7 +8210,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuantmtb">
 				<img src="https://avatars.githubusercontent.com/u/9003486?s=72&u=79530deb009aee7f5e98969c2fdd0b54c18515b1&v=4" width="24" alt="Avatar of tuantmtb"> tuantmtb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tuantmtb">Copy rank badge</a><br/>
 			Trần Minh Tuấn
 		</td>
 		<td>Data Science .,jsc </td>
@@ -8221,7 +8223,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/HiepLeHoaiNghia">
 				<img src="https://avatars.githubusercontent.com/u/107872812?s=72&u=74d0fe5677a1c30e01da6b25d21c840c9c83b46c&v=4" width="24" alt="Avatar of HiepLeHoaiNghia"> HiepLeHoaiNghia
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#HiepLeHoaiNghia">Copy rank badge</a><br/>
 			Hiep Le Hoai Nghia
 		</td>
 		<td>No Company</td>
@@ -8234,7 +8236,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tdvtoan">
 				<img src="https://avatars.githubusercontent.com/u/7196750?s=72&u=3db2b3073772a6df5192942d2a1356a1d4dfeaa5&v=4" width="24" alt="Avatar of tdvtoan"> tdvtoan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tdvtoan">Copy rank badge</a><br/>
 			Toan Tran
 		</td>
 		<td>No Company</td>
@@ -8247,7 +8249,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hieunguyendev2206">
 				<img src="https://avatars.githubusercontent.com/u/114110346?s=72&u=8f664dd4b497105b77ba060f8422c726b276a917&v=4" width="24" alt="Avatar of hieunguyendev2206"> hieunguyendev2206
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hieunguyendev2206">Copy rank badge</a><br/>
 			HieuNguyenDev
 		</td>
 		<td>No Company</td>
@@ -8260,7 +8262,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/pbcquoc">
 				<img src="https://avatars.githubusercontent.com/u/19279523?s=72&u=8f0dc13b58058826647f30df45953d7a070b9de6&v=4" width="24" alt="Avatar of pbcquoc"> pbcquoc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#pbcquoc">Copy rank badge</a><br/>
 			Pham Ba Cuong Quoc
 		</td>
 		<td>No Company</td>
@@ -8273,7 +8275,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tranquanghuy-09">
 				<img src="https://avatars.githubusercontent.com/u/107989088?s=72&u=a8e7a83145ea5a8787a2728e77e089f00aa3846b&v=4" width="24" alt="Avatar of tranquanghuy-09"> tranquanghuy-09
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tranquanghuy-09">Copy rank badge</a><br/>
 			Tran Quang Huy
 		</td>
 		<td>No Company</td>
@@ -8286,7 +8288,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/voduytuan">
 				<img src="https://avatars.githubusercontent.com/u/1757872?s=72&u=e85cc0639963fac77dad93c7dcb1b861dc306b2c&v=4" width="24" alt="Avatar of voduytuan"> voduytuan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#voduytuan">Copy rank badge</a><br/>
 			Vo Duy Tuan
 		</td>
 		<td>Cropcom Ltd. </td>
@@ -8299,7 +8301,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/duythinht">
 				<img src="https://avatars.githubusercontent.com/u/2752802?s=72&u=195f4b4849e66c64fe62d81274cbf5bdf08946eb&v=4" width="24" alt="Avatar of duythinht"> duythinht
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#duythinht">Copy rank badge</a><br/>
 			Thinh Tran
 		</td>
 		<td>No Company</td>
@@ -8312,7 +8314,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/schrab">
 				<img src="https://avatars.githubusercontent.com/u/1827762?s=72&v=4" width="24" alt="Avatar of schrab"> schrab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#schrab">Copy rank badge</a><br/>
 			Enoch Root
 		</td>
 		<td>No Company</td>
@@ -8325,7 +8327,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuphamphuong">
 				<img src="https://avatars.githubusercontent.com/u/7067261?s=72&u=d9bf4d22c85fb9b76642dd893c7113bb6063e899&v=4" width="24" alt="Avatar of tuphamphuong"> tuphamphuong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tuphamphuong">Copy rank badge</a><br/>
 			Tu Pham (Tony)
 		</td>
 		<td>No Company</td>
@@ -8338,7 +8340,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/phuquy2114">
 				<img src="https://avatars.githubusercontent.com/u/7250322?s=72&u=46f92dfee8586c7466ae7bce474d25463bb5857f&v=4" width="24" alt="Avatar of phuquy2114"> phuquy2114
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#phuquy2114">Copy rank badge</a><br/>
 			Do Phu Quy
 		</td>
 		<td>Asian Tech Co., Ltd.<br/></td>
@@ -8351,7 +8353,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nongthaihoang">
 				<img src="https://avatars.githubusercontent.com/u/43375410?s=72&v=4" width="24" alt="Avatar of nongthaihoang"> nongthaihoang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nongthaihoang">Copy rank badge</a><br/>
 			Nông Thái Hoàng
 		</td>
 		<td>No Company</td>
@@ -8364,7 +8366,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/quocbao238">
 				<img src="https://avatars.githubusercontent.com/u/51372227?s=72&u=0632516c33ad313aa3b90c05087664bed965f6a8&v=4" width="24" alt="Avatar of quocbao238"> quocbao238
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#quocbao238">Copy rank badge</a><br/>
 			Quoc Bao Bui
 		</td>
 		<td>Fastboy Marketing </td>
@@ -8377,7 +8379,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/chocopie69">
 				<img src="https://avatars.githubusercontent.com/u/64907181?s=72&u=96515fd3ca76a0536a45b4b1876591616ca3a939&v=4" width="24" alt="Avatar of chocopie69"> chocopie69
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#chocopie69">Copy rank badge</a><br/>
 			chocopie
 		</td>
 		<td>No Company</td>
@@ -8390,7 +8392,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/minhthuong031103">
 				<img src="https://avatars.githubusercontent.com/u/101078033?s=72&u=da96f980ca216b6a8589ca95b4eb1b9ac329133e&v=4" width="24" alt="Avatar of minhthuong031103"> minhthuong031103
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#minhthuong031103">Copy rank badge</a><br/>
 			Nguyen Minh Thuong
 		</td>
 		<td>Cake By Vpbank </td>
@@ -8403,7 +8405,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/BillDo">
 				<img src="https://avatars.githubusercontent.com/u/2959607?s=72&u=88f39ba961a6a7941487af0bc6a4165c4cea2fa6&v=4" width="24" alt="Avatar of BillDo"> BillDo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#BillDo">Copy rank badge</a><br/>
 			Quang Do
 		</td>
 		<td>Fpt Software </td>
@@ -8416,7 +8418,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/danielphan2003">
 				<img src="https://avatars.githubusercontent.com/u/34669737?s=72&u=bfe6e28a9d9ba6eb564b5ef3c778d4c7cd323f5b&v=4" width="24" alt="Avatar of danielphan2003"> danielphan2003
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#danielphan2003">Copy rank badge</a><br/>
 			Daniel Phan
 		</td>
 		<td>Uit </td>
@@ -8429,7 +8431,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nguyentoanit">
 				<img src="https://avatars.githubusercontent.com/u/19872073?s=72&u=86ca5b3af9001bc011faae564d12e475a6df4159&v=4" width="24" alt="Avatar of nguyentoanit"> nguyentoanit
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nguyentoanit">Copy rank badge</a><br/>
 			Toan Nguyen
 		</td>
 		<td>No Company</td>
@@ -8442,7 +8444,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ELO-Lab">
 				<img src="https://avatars.githubusercontent.com/u/12753427?s=72&v=4" width="24" alt="Avatar of ELO-Lab"> ELO-Lab
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ELO-Lab">Copy rank badge</a><br/>
 			Evolutionary Learning & Optimization (ELO) Lab
 		</td>
 		<td>University Of Information Technology<br/>(uit),<br/>Vnu-hcm<br/></td>
@@ -8455,7 +8457,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/bachvtuan">
 				<img src="https://avatars.githubusercontent.com/u/2065400?s=72&v=4" width="24" alt="Avatar of bachvtuan"> bachvtuan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#bachvtuan">Copy rank badge</a><br/>
 			Tuan Bach Van
 		</td>
 		<td>Kajala Group Ltd. </td>
@@ -8468,7 +8470,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/t2hv33">
 				<img src="https://avatars.githubusercontent.com/u/7752328?s=72&u=a07a5765a657a5e912cf54ee37c53200c4c30984&v=4" width="24" alt="Avatar of t2hv33"> t2hv33
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#t2hv33">Copy rank badge</a><br/>
 			Thành Hoàng (Thomas)
 		</td>
 		<td>Ex Koinworks, Ex Transcosmos,<br/>Fpt<br/></td>
@@ -8481,7 +8483,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/phuonghuynh">
 				<img src="https://avatars.githubusercontent.com/u/705510?s=72&u=6c5ca26e3d265ed5af14465bf20b7c614027c815&v=4" width="24" alt="Avatar of phuonghuynh"> phuonghuynh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#phuonghuynh">Copy rank badge</a><br/>
 			phuong
 		</td>
 		<td>No Company</td>
@@ -8494,7 +8496,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/mrsinguyen">
 				<img src="https://avatars.githubusercontent.com/u/96544?s=72&u=abe5771b6443432ea91b44d787763ca679ced301&v=4" width="24" alt="Avatar of mrsinguyen"> mrsinguyen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#mrsinguyen">Copy rank badge</a><br/>
 			Si Nguyen
 		</td>
 		<td>Go1 </td>
@@ -8507,7 +8509,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/lamhoangtung">
 				<img src="https://avatars.githubusercontent.com/u/26834698?s=72&u=5f68d9d6ddfe55092eac722c47ca00aa528d6d25&v=4" width="24" alt="Avatar of lamhoangtung"> lamhoangtung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#lamhoangtung">Copy rank badge</a><br/>
 			Hoàng Tùng Lâm (Linus)
 		</td>
 		<td>@worldquant </td>
@@ -8520,7 +8522,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/justinphan3110">
 				<img src="https://avatars.githubusercontent.com/u/44376091?s=72&u=51015073b238cf52a3aae58c6204bb521575b4a9&v=4" width="24" alt="Avatar of justinphan3110"> justinphan3110
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#justinphan3110">Copy rank badge</a><br/>
 			Long Phan
 		</td>
 		<td>@centerforaisafety </td>
@@ -8533,7 +8535,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/HODUCVU">
 				<img src="https://avatars.githubusercontent.com/u/73897430?s=72&u=ac9e53312392aa59d1364384d4dd7567b7e9d298&v=4" width="24" alt="Avatar of HODUCVU"> HODUCVU
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#HODUCVU">Copy rank badge</a><br/>
 			Ho Duc Vu
 		</td>
 		<td>Danang University Of Science<br/>And<br/>Technology<br/></td>
@@ -8546,7 +8548,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/phatjkk">
 				<img src="https://avatars.githubusercontent.com/u/48487157?s=72&u=0bbc29831276a88825d41718d71a8372ae6a7124&v=4" width="24" alt="Avatar of phatjkk"> phatjkk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#phatjkk">Copy rank badge</a><br/>
 			phatjk
 		</td>
 		<td>No Company</td>
@@ -8559,7 +8561,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/rinodung">
 				<img src="https://avatars.githubusercontent.com/u/7805715?s=72&u=90eff53215ad6bfa1b4bfed59b59e1ee25b7b859&v=4" width="24" alt="Avatar of rinodung"> rinodung
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#rinodung">Copy rank badge</a><br/>
 			Dong Dung
 		</td>
 		<td>Jxdocs </td>
@@ -8572,7 +8574,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/longnz">
 				<img src="https://avatars.githubusercontent.com/u/317677?s=72&u=4c87c9a8e3ccb7154e89265d84e0190de3e9c5bb&v=4" width="24" alt="Avatar of longnz"> longnz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#longnz">Copy rank badge</a><br/>
 			Long Nguyen
 		</td>
 		<td>Freelance Devops/cloud Engineer </td>
@@ -8585,7 +8587,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tiendq">
 				<img src="https://avatars.githubusercontent.com/u/815910?s=72&u=0297ae52855c05c7b062f1992dca5fe8bb456e5a&v=4" width="24" alt="Avatar of tiendq"> tiendq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tiendq">Copy rank badge</a><br/>
 			Tien Do
 		</td>
 		<td>No Company</td>
@@ -8598,7 +8600,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/duonghuuphuc">
 				<img src="https://avatars.githubusercontent.com/u/3216216?s=72&u=5390f975b46f1379f21abfd5770ba25ae391aa92&v=4" width="24" alt="Avatar of duonghuuphuc"> duonghuuphuc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#duonghuuphuc">Copy rank badge</a><br/>
 			Duong Huu Phuc
 		</td>
 		<td>Ton Duc Thang University<br/></td>
@@ -8611,7 +8613,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/minhngt62">
 				<img src="https://avatars.githubusercontent.com/u/86721208?s=72&u=de880957ce3c27a5ef57f149cf3eac1a4b44dbf1&v=4" width="24" alt="Avatar of minhngt62"> minhngt62
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#minhngt62">Copy rank badge</a><br/>
 			Nguyễn Tống Minh
 		</td>
 		<td>No Company</td>
@@ -8624,7 +8626,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dshongphuc">
 				<img src="https://avatars.githubusercontent.com/u/19908411?s=72&u=d0ba79f5cda8551081a64debc9a6ea85c503af8f&v=4" width="24" alt="Avatar of dshongphuc"> dshongphuc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dshongphuc">Copy rank badge</a><br/>
 			Phuc H.
 		</td>
 		<td>Submagic </td>
@@ -8637,7 +8639,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/minhdanh">
 				<img src="https://avatars.githubusercontent.com/u/4865412?s=72&v=4" width="24" alt="Avatar of minhdanh"> minhdanh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#minhdanh">Copy rank badge</a><br/>
 			Minh-Danh
 		</td>
 		<td>No Company</td>
@@ -8650,7 +8652,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/SakaDream">
 				<img src="https://avatars.githubusercontent.com/u/16135427?s=72&v=4" width="24" alt="Avatar of SakaDream"> SakaDream
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#SakaDream">Copy rank badge</a><br/>
 			Hai Phan
 		</td>
 		<td>No Company</td>
@@ -8663,7 +8665,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ngogiaphat">
 				<img src="https://avatars.githubusercontent.com/u/54573446?s=72&u=4fc1f74266c451f208a328f81491c1d2a2716599&v=4" width="24" alt="Avatar of ngogiaphat"> ngogiaphat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ngogiaphat">Copy rank badge</a><br/>
 			Enterprise
 		</td>
 		<td>Industrial University Of Ho<br/>Chi<br/>Minh<br/>City<br/></td>
@@ -8676,7 +8678,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/favadi">
 				<img src="https://avatars.githubusercontent.com/u/782760?s=72&u=dc27b11b3b4723642315f6aeb9bb46c298c99818&v=4" width="24" alt="Avatar of favadi"> favadi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#favadi">Copy rank badge</a><br/>
 			Diep Pham
 		</td>
 		<td>@califio </td>
@@ -8689,7 +8691,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hung96ad">
 				<img src="https://avatars.githubusercontent.com/u/8874942?s=72&u=6ceb247be820459761dc32ba21fecadecd423d7b&v=4" width="24" alt="Avatar of hung96ad"> hung96ad
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hung96ad">Copy rank badge</a><br/>
 			Hung Nguyen The
 		</td>
 		<td>Hust </td>
@@ -8702,7 +8704,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tumivn">
 				<img src="https://avatars.githubusercontent.com/u/1452589?s=72&u=902cdd94f7fd1894d16119253a0d1655dce86922&v=4" width="24" alt="Avatar of tumivn"> tumivn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tumivn">Copy rank badge</a><br/>
 			Tumi Le (Lê Hoàng Dũng)
 		</td>
 		<td>No Company</td>
@@ -8715,7 +8717,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nkloi">
 				<img src="https://avatars.githubusercontent.com/u/61707160?s=72&u=5024e1b53d5f0ee53d31d00863864b5c37026835&v=4" width="24" alt="Avatar of nkloi"> nkloi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nkloi">Copy rank badge</a><br/>
 			Loi Nguyen Khanh
 		</td>
 		<td>Bach Khoa University (ho<br/>Chi<br/>Minh<br/>City<br/>University<br/>Of<br/>Technology)<br/></td>
@@ -8728,7 +8730,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuannda">
 				<img src="https://avatars.githubusercontent.com/u/16602816?s=72&u=a9e584e6f449eefe6bc09f14c1d77bf5d0951f0a&v=4" width="24" alt="Avatar of tuannda"> tuannda
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tuannda">Copy rank badge</a><br/>
 			TuanNDA
 		</td>
 		<td>Jams </td>
@@ -8741,7 +8743,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/bryanthuan">
 				<img src="https://avatars.githubusercontent.com/u/2690337?s=72&u=3526425b58c945d6b978def36c66d1550c89e812&v=4" width="24" alt="Avatar of bryanthuan"> bryanthuan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#bryanthuan">Copy rank badge</a><br/>
 			Bryan Nguyen
 		</td>
 		<td>Storhub Group </td>
@@ -8754,7 +8756,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/thanhlev">
 				<img src="https://avatars.githubusercontent.com/u/8197161?s=72&u=01095357dba7b70963634edd89b2fa25abeff1f4&v=4" width="24" alt="Avatar of thanhlev"> thanhlev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#thanhlev">Copy rank badge</a><br/>
 			thanhlev
 		</td>
 		<td>Amazon Vietnam </td>
@@ -8767,7 +8769,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hieutran">
 				<img src="https://avatars.githubusercontent.com/u/168272?s=72&u=c2aa7b6d18cacef2dfaeb9277928482a798ca5e8&v=4" width="24" alt="Avatar of hieutran"> hieutran
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hieutran">Copy rank badge</a><br/>
 			hieutran
 		</td>
 		<td>Nil </td>
@@ -8780,7 +8782,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/AlbertoMontalesi">
 				<img src="https://avatars.githubusercontent.com/u/23130353?s=72&u=83b42ea8d19201b2ef93c2696c1c709c22bc552e&v=4" width="24" alt="Avatar of AlbertoMontalesi"> AlbertoMontalesi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#AlbertoMontalesi">Copy rank badge</a><br/>
 			AlbertoM
 		</td>
 		<td>@aquipa  </td>
@@ -8793,7 +8795,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trungnghiahoang96">
 				<img src="https://avatars.githubusercontent.com/u/46636991?s=72&u=1e5f06ccd8b15ff7e629b8cc31fea435fbe3f052&v=4" width="24" alt="Avatar of trungnghiahoang96"> trungnghiahoang96
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trungnghiahoang96">Copy rank badge</a><br/>
 			Hoàng Trung Nghĩa
 		</td>
 		<td>No Company</td>
@@ -8806,7 +8808,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/anhfactor">
 				<img src="https://avatars.githubusercontent.com/u/13186215?s=72&u=e58507ed8c97315076a8b360f640b72cbbf5c1a2&v=4" width="24" alt="Avatar of anhfactor"> anhfactor
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#anhfactor">Copy rank badge</a><br/>
 			Jason Factor
 		</td>
 		<td>Https://www.linkedin </td>
@@ -8819,7 +8821,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/qanhnn12">
 				<img src="https://avatars.githubusercontent.com/u/84619797?s=72&u=b5e21eb1622470a4987969f5c9fc0d2addfdce18&v=4" width="24" alt="Avatar of qanhnn12"> qanhnn12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#qanhnn12">Copy rank badge</a><br/>
 			Anh Nguyen
 		</td>
 		<td>No Company</td>
@@ -8832,7 +8834,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Shark">
 				<img src="https://avatars.githubusercontent.com/u/53632?s=72&u=abb08a1249beb1ab74ece90ad882ef83a7d4fe0d&v=4" width="24" alt="Avatar of Shark"> Shark
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Shark">Copy rank badge</a><br/>
 			Felix Seidel
 		</td>
 		<td>Sending.ac </td>
@@ -8845,7 +8847,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/anhnt">
 				<img src="https://avatars.githubusercontent.com/u/735555?s=72&u=a610ee29806bd7f82258a5dc9614fa245a06162b&v=4" width="24" alt="Avatar of anhnt"> anhnt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#anhnt">Copy rank badge</a><br/>
 			Anh
 		</td>
 		<td>@kademi @techfusionhq  </td>
@@ -8858,7 +8860,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/windystrife">
 				<img src="https://avatars.githubusercontent.com/u/24882773?s=72&u=2f9667a2519cbab79690e7b0d96efeb75d01a32b&v=4" width="24" alt="Avatar of windystrife"> windystrife
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#windystrife">Copy rank badge</a><br/>
 			Tung Thanh Nguyen
 		</td>
 		<td>No Company</td>
@@ -8871,7 +8873,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/letrunghieu">
 				<img src="https://avatars.githubusercontent.com/u/1145335?s=72&u=9accb091d24e8246cde90d0d631808119e165466&v=4" width="24" alt="Avatar of letrunghieu"> letrunghieu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#letrunghieu">Copy rank badge</a><br/>
 			Hieu Le
 		</td>
 		<td>@propertyguru  </td>
@@ -8884,7 +8886,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/anhkiet1227">
 				<img src="https://avatars.githubusercontent.com/u/77542991?s=72&u=42cd3d18db1b9cd3ea3ce166845b5f7cc1be9eac&v=4" width="24" alt="Avatar of anhkiet1227"> anhkiet1227
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#anhkiet1227">Copy rank badge</a><br/>
 			Võ Anh Kiệt
 		</td>
 		<td>No Company</td>
@@ -8897,7 +8899,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/japananh">
 				<img src="https://avatars.githubusercontent.com/u/29560157?s=72&u=54bbcaa0301a472564d0a11d791233291cd4a227&v=4" width="24" alt="Avatar of japananh"> japananh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#japananh">Copy rank badge</a><br/>
 			Anh Tran
 		</td>
 		<td>No Company</td>
@@ -8910,7 +8912,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/PetrusViet">
 				<img src="https://avatars.githubusercontent.com/u/63145078?s=72&u=4a30fc84174b7da24691396f398f4422403e668d&v=4" width="24" alt="Avatar of PetrusViet"> PetrusViet
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#PetrusViet">Copy rank badge</a><br/>
 			PetrusViet 
 		</td>
 		<td>No Company</td>
@@ -8923,7 +8925,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/khuebeo">
 				<img src="https://avatars.githubusercontent.com/u/6769830?s=72&u=f5f4c61f706627596953f6aee9374adac5cbc060&v=4" width="24" alt="Avatar of khuebeo"> khuebeo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#khuebeo">Copy rank badge</a><br/>
 			Don-Khue Le
 		</td>
 		<td>@bevietnam @icpcvn  </td>
@@ -8936,7 +8938,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ititandev">
 				<img src="https://avatars.githubusercontent.com/u/22933511?s=72&u=3b4cec557e96998addf03717ebb5201d3ed4a293&v=4" width="24" alt="Avatar of ititandev"> ititandev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ititandev">Copy rank badge</a><br/>
 			Le Duc Manh
 		</td>
 		<td>No Company</td>
@@ -8949,7 +8951,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ptran1203">
 				<img src="https://avatars.githubusercontent.com/u/36766404?s=72&u=f430a98120b733fc2158dec4547d9519115d2477&v=4" width="24" alt="Avatar of ptran1203"> ptran1203
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ptran1203">Copy rank badge</a><br/>
 			Phat Tran
 		</td>
 		<td>No Company</td>
@@ -8962,7 +8964,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/datquocnguyen">
 				<img src="https://avatars.githubusercontent.com/u/2412555?s=72&u=9fc0ff216ee0e589eb74750b8b8110cb657b7cf4&v=4" width="24" alt="Avatar of datquocnguyen"> datquocnguyen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#datquocnguyen">Copy rank badge</a><br/>
 			Dat Quoc Nguyen
 		</td>
 		<td>No Company</td>
@@ -8975,7 +8977,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tieppt">
 				<img src="https://avatars.githubusercontent.com/u/7151365?s=72&u=a8d6264812edb44c53ad6f0dcbf6755b815ab99d&v=4" width="24" alt="Avatar of tieppt"> tieppt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tieppt">Copy rank badge</a><br/>
 			Tiep Phan
 		</td>
 		<td>No Company</td>
@@ -8988,7 +8990,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vuongxuongminh">
 				<img src="https://avatars.githubusercontent.com/u/38932626?s=72&u=275dad6864b32ac7234077a940112230a410b2c9&v=4" width="24" alt="Avatar of vuongxuongminh"> vuongxuongminh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vuongxuongminh">Copy rank badge</a><br/>
 			Minh Vuong
 		</td>
 		<td>No Company</td>
@@ -9001,7 +9003,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/khuonglnguyen">
 				<img src="https://avatars.githubusercontent.com/u/73988817?s=72&u=2af8d7800fb23e81d1095ad9760ead0b16205d3e&v=4" width="24" alt="Avatar of khuonglnguyen"> khuonglnguyen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#khuonglnguyen">Copy rank badge</a><br/>
 			Khuong L. Nguyen
 		</td>
 		<td>No Company</td>
@@ -9014,7 +9016,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Jacobvu84">
 				<img src="https://avatars.githubusercontent.com/u/983936?s=72&u=e227d5dce8d25039c1bacc10334562a39dbc12d6&v=4" width="24" alt="Avatar of Jacobvu84"> Jacobvu84
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Jacobvu84">Copy rank badge</a><br/>
 			Jacob Vu
 		</td>
 		<td>No Company</td>
@@ -9027,7 +9029,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/chihung93">
 				<img src="https://avatars.githubusercontent.com/u/5199109?s=72&u=595867f93f8a013bd33f286dd9272cb690655b3c&v=4" width="24" alt="Avatar of chihung93"> chihung93
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#chihung93">Copy rank badge</a><br/>
 			Henry
 		</td>
 		<td>No Company</td>
@@ -9040,7 +9042,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/6220119">
 				<img src="https://avatars.githubusercontent.com/u/1059583?s=72&v=4" width="24" alt="Avatar of 6220119"> 6220119
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#6220119">Copy rank badge</a><br/>
 			Nguyen Vu Cuong (Ralph)
 		</td>
 		<td>No Company</td>
@@ -9053,7 +9055,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hienvd">
 				<img src="https://avatars.githubusercontent.com/u/6824457?s=72&u=755ae239416d4992ac2978ce448ad38fafd6f217&v=4" width="24" alt="Avatar of hienvd"> hienvd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hienvd">Copy rank badge</a><br/>
 			Hien Vuong
 		</td>
 		<td>Itviec </td>
@@ -9066,7 +9068,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/kun391">
 				<img src="https://avatars.githubusercontent.com/u/5398707?s=72&u=c64a09e4d6c53b7bc8b84be68b37fea6bcdd9d6a&v=4" width="24" alt="Avatar of kun391"> kun391
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#kun391">Copy rank badge</a><br/>
 			Kun
 		</td>
 		<td>@greenglobal @llamavn </td>
@@ -9079,7 +9081,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/huyvohcmc">
 				<img src="https://avatars.githubusercontent.com/u/17645203?s=72&u=e9884e285aaadb6eaac05dd65639a5aeec05d6cf&v=4" width="24" alt="Avatar of huyvohcmc"> huyvohcmc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#huyvohcmc">Copy rank badge</a><br/>
 			Huy Vo
 		</td>
 		<td>Thinkei </td>
@@ -9092,7 +9094,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/leduynguyen">
 				<img src="https://avatars.githubusercontent.com/u/8401043?s=72&u=c18c7c96e01e56b41a86f2a5822aeb9368bd8d8d&v=4" width="24" alt="Avatar of leduynguyen"> leduynguyen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#leduynguyen">Copy rank badge</a><br/>
 			Le-Duy Nguyen
 		</td>
 		<td>0xduy </td>
@@ -9105,7 +9107,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vvt9x">
 				<img src="https://avatars.githubusercontent.com/u/94437164?s=72&u=61b77168403bfccded5130019065b6793e8681c2&v=4" width="24" alt="Avatar of vvt9x"> vvt9x
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vvt9x">Copy rank badge</a><br/>
 			vvt9x
 		</td>
 		<td>No Company</td>
@@ -9118,7 +9120,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dhduc">
 				<img src="https://avatars.githubusercontent.com/u/11469236?s=72&u=c3801eb7a5b5da72133ac23ef37928fae7988025&v=4" width="24" alt="Avatar of dhduc"> dhduc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dhduc">Copy rank badge</a><br/>
 			Duc Dao
 		</td>
 		<td>Amela Technology </td>
@@ -9131,7 +9133,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuantranf">
 				<img src="https://avatars.githubusercontent.com/u/2492637?s=72&u=2c983a471f0e38831fc297baed40ccac78f437e3&v=4" width="24" alt="Avatar of tuantranf"> tuantranf
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tuantranf">Copy rank badge</a><br/>
 			Tuan (Mike) Tran
 		</td>
 		<td>No Company</td>
@@ -9144,7 +9146,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/talenguyen">
 				<img src="https://avatars.githubusercontent.com/u/1658142?s=72&u=dfbe0ba3144df222c8900075dc6e8d90fb9e544c&v=4" width="24" alt="Avatar of talenguyen"> talenguyen
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#talenguyen">Copy rank badge</a><br/>
 			Nguyen Truong Giang
 		</td>
 		<td>@tikivn  </td>
@@ -9157,7 +9159,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dungnb1333">
 				<img src="https://avatars.githubusercontent.com/u/22033006?s=72&u=1b9c6d1318d6cca588d987c709e7cb89be59983b&v=4" width="24" alt="Avatar of dungnb1333"> dungnb1333
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dungnb1333">Copy rank badge</a><br/>
 			Nguyen Ba Dung
 		</td>
 		<td>No Company</td>
@@ -9170,7 +9172,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/thanhit95">
 				<img src="https://avatars.githubusercontent.com/u/65539799?s=72&v=4" width="24" alt="Avatar of thanhit95"> thanhit95
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#thanhit95">Copy rank badge</a><br/>
 			Thanh Nguyen
 		</td>
 		<td>Zalo, Vng </td>
@@ -9183,7 +9185,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/phanmemkhoinghiep">
 				<img src="https://avatars.githubusercontent.com/u/64348125?s=72&v=4" width="24" alt="Avatar of phanmemkhoinghiep"> phanmemkhoinghiep
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#phanmemkhoinghiep">Copy rank badge</a><br/>
 			Nguyễn Duy
 		</td>
 		<td>Freelancer </td>
@@ -9196,7 +9198,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vclong2003">
 				<img src="https://avatars.githubusercontent.com/u/53139311?s=72&u=fe4efaa474a03e4235187c166dc04e7816d356b8&v=4" width="24" alt="Avatar of vclong2003"> vclong2003
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vclong2003">Copy rank badge</a><br/>
 			Long
 		</td>
 		<td>No Company</td>
@@ -9209,7 +9211,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/bongudth">
 				<img src="https://avatars.githubusercontent.com/u/73637868?s=72&u=9de2eac68bf95b73b9563911fdeefdffe628949f&v=4" width="24" alt="Avatar of bongudth"> bongudth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#bongudth">Copy rank badge</a><br/>
 			Huynh Thi Khanh Linh
 		</td>
 		<td>Mynavi Techtus Vietnam </td>
@@ -9222,7 +9224,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/lunaticwhat">
 				<img src="https://avatars.githubusercontent.com/u/56441863?s=72&u=63bfe00e168f73aba5d6beefb90a4edc14317594&v=4" width="24" alt="Avatar of lunaticwhat"> lunaticwhat
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#lunaticwhat">Copy rank badge</a><br/>
 			lunatic
 		</td>
 		<td>No Company</td>
@@ -9235,7 +9237,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/namdaoduy">
 				<img src="https://avatars.githubusercontent.com/u/20658926?s=72&u=8d43ade779203b1f723505da9e2fae55ff2945ae&v=4" width="24" alt="Avatar of namdaoduy"> namdaoduy
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#namdaoduy">Copy rank badge</a><br/>
 			Nam Dao (Eric)
 		</td>
 		<td>@tutoruniverse </td>
@@ -9248,7 +9250,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/manhnt9">
 				<img src="https://avatars.githubusercontent.com/u/11463928?s=72&u=96a3caad9399326538798827873035c9229f931a&v=4" width="24" alt="Avatar of manhnt9"> manhnt9
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#manhnt9">Copy rank badge</a><br/>
 			Manh Nguyen Tien
 		</td>
 		<td>No Company</td>
@@ -9261,7 +9263,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/iceghost">
 				<img src="https://avatars.githubusercontent.com/u/40488299?s=72&u=7a730de3090cd62efdf7ac423fe7b9fe8ac6137e&v=4" width="24" alt="Avatar of iceghost"> iceghost
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#iceghost">Copy rank badge</a><br/>
 			Khang Nguyen Duy
 		</td>
 		<td>Ampere Computing </td>
@@ -9274,7 +9276,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Picloverteam">
 				<img src="https://avatars.githubusercontent.com/u/35023492?s=72&u=2d07a83aede9c19b12477ae3859d3b84f38a33df&v=4" width="24" alt="Avatar of Picloverteam"> Picloverteam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Picloverteam">Copy rank badge</a><br/>
 			PI SILK ROAD
 		</td>
 		<td>Pi Clover Corporation </td>
@@ -9287,7 +9289,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/bduyng">
 				<img src="https://avatars.githubusercontent.com/u/3772710?s=72&u=7bc5e5919a0c89eb0ec5744b5dc965fb04584e6b&v=4" width="24" alt="Avatar of bduyng"> bduyng
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#bduyng">Copy rank badge</a><br/>
 			Duy Bao Nguyen
 		</td>
 		<td>No Company</td>
@@ -9300,7 +9302,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/botranvan">
 				<img src="https://avatars.githubusercontent.com/u/12573193?s=72&u=882629af30615e8a5401253bac0b59f5f76496e7&v=4" width="24" alt="Avatar of botranvan"> botranvan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#botranvan">Copy rank badge</a><br/>
 			Bo Tran
 		</td>
 		<td>Vccorp </td>
@@ -9313,7 +9315,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/htlcnn">
 				<img src="https://avatars.githubusercontent.com/u/931924?s=72&v=4" width="24" alt="Avatar of htlcnn"> htlcnn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#htlcnn">Copy rank badge</a><br/>
 			Long
 		</td>
 		<td>No Company</td>
@@ -9326,7 +9328,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/keimoon">
 				<img src="https://avatars.githubusercontent.com/u/1174062?s=72&v=4" width="24" alt="Avatar of keimoon"> keimoon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#keimoon">Copy rank badge</a><br/>
 			Tam. Nguyen Duc
 		</td>
 		<td>@anduintransaction  </td>
@@ -9339,7 +9341,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/duca7">
 				<img src="https://avatars.githubusercontent.com/u/31279027?s=72&u=fdbde132706bfc24ce2c5ef2a7358814c22b2d40&v=4" width="24" alt="Avatar of duca7"> duca7
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#duca7">Copy rank badge</a><br/>
 			Huynh Duc
 		</td>
 		<td>No Company</td>
@@ -9352,7 +9354,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/K0ppai">
 				<img src="https://avatars.githubusercontent.com/u/113283174?s=72&u=13165b27998e0efa1a244d7c3b144e340dfb50b7&v=4" width="24" alt="Avatar of K0ppai"> K0ppai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#K0ppai">Copy rank badge</a><br/>
 			Paing Soe Thu
 		</td>
 		<td>@payau @automation-consulti  </td>
@@ -9365,7 +9367,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nphivu414">
 				<img src="https://avatars.githubusercontent.com/u/22409039?s=72&u=6aedf4a5927562d7c4f7ddf5e06ec15f7f486ef1&v=4" width="24" alt="Avatar of nphivu414"> nphivu414
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nphivu414">Copy rank badge</a><br/>
 			Vu Nguyen
 		</td>
 		<td>No Company</td>
@@ -9378,7 +9380,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/drnxloc">
 				<img src="https://avatars.githubusercontent.com/u/62972447?s=72&u=1feb81f506f9a0f1190e7b7ba261ceb0c8e90778&v=4" width="24" alt="Avatar of drnxloc"> drnxloc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#drnxloc">Copy rank badge</a><br/>
 			Prosper Nguyen
 		</td>
 		<td>No Company</td>
@@ -9391,7 +9393,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/jaredchu">
 				<img src="https://avatars.githubusercontent.com/u/4394552?s=72&u=262f1b330fe9f29f2aae55064a9a13d2681206fd&v=4" width="24" alt="Avatar of jaredchu"> jaredchu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#jaredchu">Copy rank badge</a><br/>
 			Jared Chu
 		</td>
 		<td>Icreationslab </td>
@@ -9404,7 +9406,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/minhpqn">
 				<img src="https://avatars.githubusercontent.com/u/7865331?s=72&u=e3e0743901ccc91f8a0164adf391eda53dddf075&v=4" width="24" alt="Avatar of minhpqn"> minhpqn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#minhpqn">Copy rank badge</a><br/>
 			Pham Quang Nhat Minh
 		</td>
 		<td>Fpt Is </td>
@@ -9417,7 +9419,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/cuongquach">
 				<img src="https://avatars.githubusercontent.com/u/21210308?s=72&u=6bded97fdf7e286b4e8c001aefeb6c0a0ac8996a&v=4" width="24" alt="Avatar of cuongquach"> cuongquach
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#cuongquach">Copy rank badge</a><br/>
 			Cuong Quach Chi
 		</td>
 		<td>No Company</td>
@@ -9430,7 +9432,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/longcongduoi">
 				<img src="https://avatars.githubusercontent.com/u/195706?s=72&v=4" width="24" alt="Avatar of longcongduoi"> longcongduoi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#longcongduoi">Copy rank badge</a><br/>
 			Long Dao
 		</td>
 		<td>No Company</td>
@@ -9443,7 +9445,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dongphuchaitrieu">
 				<img src="https://avatars.githubusercontent.com/u/84892244?s=72&u=af13fbeb539b68d48a00329ce3b8a2a0ec1f3ba1&v=4" width="24" alt="Avatar of dongphuchaitrieu"> dongphuchaitrieu
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dongphuchaitrieu">Copy rank badge</a><br/>
 			Đồng Phục Hải Triều
 		</td>
 		<td>Hai Trieu Garment </td>
@@ -9456,7 +9458,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/olragon">
 				<img src="https://avatars.githubusercontent.com/u/47636?s=72&v=4" width="24" alt="Avatar of olragon"> olragon
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#olragon">Copy rank badge</a><br/>
 			Long Nguyen
 		</td>
 		<td>No Company</td>
@@ -9469,7 +9471,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/huygn">
 				<img src="https://avatars.githubusercontent.com/u/10569203?s=72&u=5499c74a5e61da32d8458191b6af4b28d27a498a&v=4" width="24" alt="Avatar of huygn"> huygn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#huygn">Copy rank badge</a><br/>
 			Huy Giang
 		</td>
 		<td>No Company</td>
@@ -9482,7 +9484,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/mrkhoa99">
 				<img src="https://avatars.githubusercontent.com/u/6185767?s=72&u=af83b5c40ded8c8627e1b072a13ae9561ce322ea&v=4" width="24" alt="Avatar of mrkhoa99"> mrkhoa99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#mrkhoa99">Copy rank badge</a><br/>
 			Mr Khoa
 		</td>
 		<td>@boolfly </td>
@@ -9495,7 +9497,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/duy13">
 				<img src="https://avatars.githubusercontent.com/u/10364660?s=72&v=4" width="24" alt="Avatar of duy13"> duy13
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#duy13">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9508,7 +9510,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nguyenhoanglam">
 				<img src="https://avatars.githubusercontent.com/u/4979755?s=72&u=7898662b12c21adf44ae62a3967d3be1c345c18f&v=4" width="24" alt="Avatar of nguyenhoanglam"> nguyenhoanglam
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nguyenhoanglam">Copy rank badge</a><br/>
 			Nguyen Hoang Lam
 		</td>
 		<td>No Company</td>
@@ -9521,7 +9523,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/luuhai">
 				<img src="https://avatars.githubusercontent.com/u/2056615?s=72&u=9968cf71363e3e31d3c6768564b564afdb79bbc6&v=4" width="24" alt="Avatar of luuhai"> luuhai
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#luuhai">Copy rank badge</a><br/>
 			Sam
 		</td>
 		<td>Cinnamon Ai Labs </td>
@@ -9534,7 +9536,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/0xl4p">
 				<img src="https://avatars.githubusercontent.com/u/98354414?s=72&u=7be6ac9cf7520f5c99c842aad40765397514ce19&v=4" width="24" alt="Avatar of 0xl4p"> 0xl4p
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#0xl4p">Copy rank badge</a><br/>
 			Nguyen Quoc Dat
 		</td>
 		<td>No Company</td>
@@ -9547,7 +9549,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/huynn109">
 				<img src="https://avatars.githubusercontent.com/u/8011273?s=72&u=37b8ca57404e61b0527f7629b362695f004e886f&v=4" width="24" alt="Avatar of huynn109"> huynn109
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#huynn109">Copy rank badge</a><br/>
 			Huy Nguyen
 		</td>
 		<td>No Company</td>
@@ -9560,7 +9562,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tam-pham-alpha">
 				<img src="https://avatars.githubusercontent.com/u/5687992?s=72&u=50d4628fa0408b0ebdacab45fa316c0b69a54a4a&v=4" width="24" alt="Avatar of tam-pham-alpha"> tam-pham-alpha
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tam-pham-alpha">Copy rank badge</a><br/>
 			Tam Ph
 		</td>
 		<td>No Company</td>
@@ -9573,7 +9575,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hoangkianh">
 				<img src="https://avatars.githubusercontent.com/u/5220562?s=72&u=b1b41a3d0b4c6c8f27ea531b9d9badccbdbad541&v=4" width="24" alt="Avatar of hoangkianh"> hoangkianh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hoangkianh">Copy rank badge</a><br/>
 			HKA
 		</td>
 		<td>No Company</td>
@@ -9586,7 +9588,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Kaitiz">
 				<img src="https://avatars.githubusercontent.com/u/25715928?s=72&u=276ba695b79078b2c8de1358bb3872b86d6dc0f8&v=4" width="24" alt="Avatar of Kaitiz"> Kaitiz
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Kaitiz">Copy rank badge</a><br/>
 			Long Çhïvaš
 		</td>
 		<td>No Company</td>
@@ -9599,7 +9601,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vinhphu3000">
 				<img src="https://avatars.githubusercontent.com/u/203428?s=72&u=84e4b43cb3bfb52f9016ee1fc473849bd36c168e&v=4" width="24" alt="Avatar of vinhphu3000"> vinhphu3000
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vinhphu3000">Copy rank badge</a><br/>
 			Phu Ha
 		</td>
 		<td>No Company</td>
@@ -9612,7 +9614,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dangsonbk">
 				<img src="https://avatars.githubusercontent.com/u/6972607?s=72&u=ad687d5ee35b16b5e616b4a13e669066425a9788&v=4" width="24" alt="Avatar of dangsonbk"> dangsonbk
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dangsonbk">Copy rank badge</a><br/>
 			Sơn Nguyễn Đăng
 		</td>
 		<td>Lg Electronics Vietnam </td>
@@ -9625,7 +9627,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/NhutTien0905">
 				<img src="https://avatars.githubusercontent.com/u/96219122?s=72&u=633668b21eecadc5c0a1dce973ec69c0204ddf16&v=4" width="24" alt="Avatar of NhutTien0905"> NhutTien0905
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#NhutTien0905">Copy rank badge</a><br/>
 			Nguyễn Bạch Nhựt Tiến
 		</td>
 		<td>Hcmc University Of Technology<br/>And<br/>Education<br/></td>
@@ -9638,7 +9640,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuanta">
 				<img src="https://avatars.githubusercontent.com/u/975710?s=72&v=4" width="24" alt="Avatar of tuanta"> tuanta
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tuanta">Copy rank badge</a><br/>
 			Truong Anh Tuan
 		</td>
 		<td>Iway </td>
@@ -9651,7 +9653,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/kyr04i">
 				<img src="https://avatars.githubusercontent.com/u/115383747?s=72&u=7ae47e53a6f4112141eb7fafb0941e20561de85e&v=4" width="24" alt="Avatar of kyr04i"> kyr04i
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#kyr04i">Copy rank badge</a><br/>
 			Duy Nguyen
 		</td>
 		<td>No Company</td>
@@ -9664,7 +9666,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/knd">
 				<img src="https://avatars.githubusercontent.com/u/1356620?s=72&u=f0842f0b0f1f91278c145970581ffa3d62c9365a&v=4" width="24" alt="Avatar of knd"> knd
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#knd">Copy rank badge</a><br/>
 			Khanh Dao
 		</td>
 		<td>Uc Berkeley </td>
@@ -9677,7 +9679,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vuong177">
 				<img src="https://avatars.githubusercontent.com/u/56973102?s=72&v=4" width="24" alt="Avatar of vuong177"> vuong177
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vuong177">Copy rank badge</a><br/>
 			vuong
 		</td>
 		<td>No Company</td>
@@ -9690,7 +9692,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuhdo">
 				<img src="https://avatars.githubusercontent.com/u/4818719?s=72&v=4" width="24" alt="Avatar of tuhdo"> tuhdo
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tuhdo">Copy rank badge</a><br/>
 			Tu Do
 		</td>
 		<td>No Company</td>
@@ -9703,7 +9705,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hugo53">
 				<img src="https://avatars.githubusercontent.com/u/1033299?s=72&u=43bb64d0c488a42a67505d5a57d2bc4428066b7c&v=4" width="24" alt="Avatar of hugo53"> hugo53
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hugo53">Copy rank badge</a><br/>
 			Hoang Nguyen
 		</td>
 		<td>@riselytechnologies  </td>
@@ -9716,7 +9718,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/windwp">
 				<img src="https://avatars.githubusercontent.com/u/7578110?s=72&u=5877babcf50de2c4d0a99fa232ffd1041a9a54a0&v=4" width="24" alt="Avatar of windwp"> windwp
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#windwp">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
@@ -9729,7 +9731,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/marudesignstudio">
 				<img src="https://avatars.githubusercontent.com/u/45592508?s=72&u=90d47074819781155bcd457c47d69e3e49bc0a52&v=4" width="24" alt="Avatar of marudesignstudio"> marudesignstudio
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#marudesignstudio">Copy rank badge</a><br/>
 			Maru Design Studio
 		</td>
 		<td>Starseed </td>
@@ -9742,7 +9744,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/unlock-new-skill">
 				<img src="https://avatars.githubusercontent.com/u/56082998?s=72&u=904eed07dd9f4f61ada9d9e59071c8d9eabf0ea9&v=4" width="24" alt="Avatar of unlock-new-skill"> unlock-new-skill
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#unlock-new-skill">Copy rank badge</a><br/>
 			Truong Pham
 		</td>
 		<td>No Company</td>
@@ -9755,7 +9757,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/PASSIONCORNERS">
 				<img src="https://avatars.githubusercontent.com/u/44795008?s=72&u=035adb24cec81b91d815e577e1ba2c640727b716&v=4" width="24" alt="Avatar of PASSIONCORNERS"> PASSIONCORNERS
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#PASSIONCORNERS">Copy rank badge</a><br/>
 			Phong
 		</td>
 		<td>No Company</td>
@@ -9768,7 +9770,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/quyenly13">
 				<img src="https://avatars.githubusercontent.com/u/16898732?s=72&u=d73662287b701f9cd4ae9dc04b771f6aa8d39ba5&v=4" width="24" alt="Avatar of quyenly13"> quyenly13
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#quyenly13">Copy rank badge</a><br/>
 			Lý Kiều Quyên
 		</td>
 		<td>No Company</td>
@@ -9781,7 +9783,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nguyenkhaihoang">
 				<img src="https://avatars.githubusercontent.com/u/51987770?s=72&u=1954638e7f3390efa38a71ba23ad1043f4d3af2b&v=4" width="24" alt="Avatar of nguyenkhaihoang"> nguyenkhaihoang
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nguyenkhaihoang">Copy rank badge</a><br/>
 			Hoang Nguyen
 		</td>
 		<td>No Company</td>
@@ -9794,7 +9796,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hieulq">
 				<img src="https://avatars.githubusercontent.com/u/1811182?s=72&v=4" width="24" alt="Avatar of hieulq"> hieulq
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hieulq">Copy rank badge</a><br/>
 			Hieu LE
 		</td>
 		<td>No Company</td>
@@ -9807,7 +9809,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ruslanbadaev">
 				<img src="https://avatars.githubusercontent.com/u/35021580?s=72&u=476d88f62a7e29de23e35e8a39b9b5172113ec4a&v=4" width="24" alt="Avatar of ruslanbadaev"> ruslanbadaev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ruslanbadaev">Copy rank badge</a><br/>
 			Ruslan Badaev
 		</td>
 		<td>No Company</td>
@@ -9820,7 +9822,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/nguyendangminh">
 				<img src="https://avatars.githubusercontent.com/u/9614404?s=72&u=530648e98034ead466bcf6c5b13b964d3db19548&v=4" width="24" alt="Avatar of nguyendangminh"> nguyendangminh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#nguyendangminh">Copy rank badge</a><br/>
 			Nguyen Dang Minh
 		</td>
 		<td>Techcom Securities </td>
@@ -9833,7 +9835,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tvc12">
 				<img src="https://avatars.githubusercontent.com/u/35712888?s=72&u=fb10a8c0d1d31dd650b4bf6dc278b540c2580fea&v=4" width="24" alt="Avatar of tvc12"> tvc12
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tvc12">Copy rank badge</a><br/>
 			Thien Chi Vi
 		</td>
 		<td>@datainsider-co @ohmypet @uiters </td>
@@ -9846,7 +9848,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dangthaison91">
 				<img src="https://avatars.githubusercontent.com/u/6436310?s=72&u=5805f0356a95df3cc1c0eef3ecfe5c078b0efd77&v=4" width="24" alt="Avatar of dangthaison91"> dangthaison91
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dangthaison91">Copy rank badge</a><br/>
 			(Alfred)
 		</td>
 		<td>No Company</td>
@@ -9859,7 +9861,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/roycephan">
 				<img src="https://avatars.githubusercontent.com/u/25898298?s=72&u=7f535396fcbfd0c5a6d76ee31da5d3480fa6ac5c&v=4" width="24" alt="Avatar of roycephan"> roycephan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#roycephan">Copy rank badge</a><br/>
 			Royce
 		</td>
 		<td>@bicarus-labs, @ashswap </td>
@@ -9872,7 +9874,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/annp1987">
 				<img src="https://avatars.githubusercontent.com/u/18298409?s=72&u=1a1d3836c4e0b33cdd1d5e826e6d866871fb3479&v=4" width="24" alt="Avatar of annp1987"> annp1987
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#annp1987">Copy rank badge</a><br/>
 			Nguyen Phuong An
 		</td>
 		<td>No Company</td>
@@ -9885,7 +9887,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ngoquanghuy99">
 				<img src="https://avatars.githubusercontent.com/u/36761076?s=72&u=a301d8b445e4a8bba68fb95b1b409706a870087c&v=4" width="24" alt="Avatar of ngoquanghuy99"> ngoquanghuy99
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ngoquanghuy99">Copy rank badge</a><br/>
 			Ngo Quang Huy
 		</td>
 		<td>No Company</td>
@@ -9898,7 +9900,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tlvu2697">
 				<img src="https://avatars.githubusercontent.com/u/32784713?s=72&u=e270a10ef06c8dbea4909310189812495ccfa387&v=4" width="24" alt="Avatar of tlvu2697"> tlvu2697
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tlvu2697">Copy rank badge</a><br/>
 			Le-Vu Tran
 		</td>
 		<td>@thinkei </td>
@@ -9911,7 +9913,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ZuzooVn">
 				<img src="https://avatars.githubusercontent.com/u/1429230?s=72&u=1f15236905f4debd812a2c8d0469526560e767c6&v=4" width="24" alt="Avatar of ZuzooVn"> ZuzooVn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ZuzooVn">Copy rank badge</a><br/>
 			Nam Vu
 		</td>
 		<td>No Company</td>
@@ -9924,7 +9926,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/paulnguyen-mn">
 				<img src="https://avatars.githubusercontent.com/u/31444102?s=72&u=c545a527aa31843e1361462e410c0f51863e8e26&v=4" width="24" alt="Avatar of paulnguyen-mn"> paulnguyen-mn
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#paulnguyen-mn">Copy rank badge</a><br/>
 			Paul Nguyen
 		</td>
 		<td>Fram^ </td>
@@ -9937,7 +9939,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/kelvin-dev">
 				<img src="https://avatars.githubusercontent.com/u/19224355?s=72&u=68766ea4818e964e036a5a1b15928612b22e9f22&v=4" width="24" alt="Avatar of kelvin-dev"> kelvin-dev
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#kelvin-dev">Copy rank badge</a><br/>
 			kelvin-guru
 		</td>
 		<td>T.b.u </td>
@@ -9950,7 +9952,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/vodkabebi">
 				<img src="https://avatars.githubusercontent.com/u/35647386?s=72&u=95370cb831482ce85bbc135bd0db07780c3b0aa1&v=4" width="24" alt="Avatar of vodkabebi"> vodkabebi
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#vodkabebi">Copy rank badge</a><br/>
 			vodkababy
 		</td>
 		<td>No Company</td>
@@ -9963,7 +9965,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/thuongtruong1009">
 				<img src="https://avatars.githubusercontent.com/u/71834167?s=72&u=51faba1636a6df1f9c4343a193f10670bf834285&v=4" width="24" alt="Avatar of thuongtruong1009"> thuongtruong1009
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#thuongtruong1009">Copy rank badge</a><br/>
 			Tran Nguyen Thuong Truong
 		</td>
 		<td>International University - Hcmiu<br/></td>
@@ -9976,7 +9978,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dtrung98">
 				<img src="https://avatars.githubusercontent.com/u/33343210?s=72&u=69e4c1317ba816c480bd3a7cdcbac30f24a64b8a&v=4" width="24" alt="Avatar of dtrung98"> dtrung98
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dtrung98">Copy rank badge</a><br/>
 			Le Dinh Trung
 		</td>
 		<td>Zalo Group </td>
@@ -9989,7 +9991,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tmsanghoclaptrinh">
 				<img src="https://avatars.githubusercontent.com/u/28320282?s=72&u=24d830f7acae0968d4200d39ef847726ffabd1a0&v=4" width="24" alt="Avatar of tmsanghoclaptrinh"> tmsanghoclaptrinh
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tmsanghoclaptrinh">Copy rank badge</a><br/>
 			Trần Minh Sáng
 		</td>
 		<td>No Company</td>
@@ -10002,7 +10004,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tuan188">
 				<img src="https://avatars.githubusercontent.com/u/6461902?s=72&u=292d4e36529da80d61256662fdb7ed5d042d749f&v=4" width="24" alt="Avatar of tuan188"> tuan188
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tuan188">Copy rank badge</a><br/>
 			Tuan Truong
 		</td>
 		<td>Sun Asterisk </td>
@@ -10015,7 +10017,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/haithanhly">
 				<img src="https://avatars.githubusercontent.com/u/69575583?s=72&u=a3bf913947ac33e5aa257946e1ffa6581b465dc0&v=4" width="24" alt="Avatar of haithanhly"> haithanhly
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#haithanhly">Copy rank badge</a><br/>
 			Hai Thanh Ly
 		</td>
 		<td>Danang University Of Technology<br/>And<br/>Science<br/></td>
@@ -10028,7 +10030,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/quannt">
 				<img src="https://avatars.githubusercontent.com/u/3423859?s=72&u=71462a72366bf75bec6b1efbce137bc96b337cfe&v=4" width="24" alt="Avatar of quannt"> quannt
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#quannt">Copy rank badge</a><br/>
 			Quan
 		</td>
 		<td>@paypay </td>
@@ -10041,7 +10043,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/Looooong">
 				<img src="https://avatars.githubusercontent.com/u/8206622?s=72&u=aa59c0ac0fac4137a43af3de816bc42186db9312&v=4" width="24" alt="Avatar of Looooong"> Looooong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#Looooong">Copy rank badge</a><br/>
 			Nguyễn Đức Long
 		</td>
 		<td>No Company</td>
@@ -10054,7 +10056,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/hongsan">
 				<img src="https://avatars.githubusercontent.com/u/936812?s=72&u=e1bf9f40b4df33eca1b6f151d1e15859c25feff7&v=4" width="24" alt="Avatar of hongsan"> hongsan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#hongsan">Copy rank badge</a><br/>
 			NGUYEN Hong San
 		</td>
 		<td>No Company</td>
@@ -10067,7 +10069,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/mbrainiac">
 				<img src="https://avatars.githubusercontent.com/u/1453038?s=72&v=4" width="24" alt="Avatar of mbrainiac"> mbrainiac
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#mbrainiac">Copy rank badge</a><br/>
 			Nguyen Tien Dzung
 		</td>
 		<td>Filestring </td>
@@ -10080,7 +10082,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/thangthang1987">
 				<img src="https://avatars.githubusercontent.com/u/113888879?s=72&u=342891375104beea81b181e76241bf4c2c9adedf&v=4" width="24" alt="Avatar of thangthang1987"> thangthang1987
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#thangthang1987">Copy rank badge</a><br/>
 			minhthang
 		</td>
 		<td>No Company</td>
@@ -10093,7 +10095,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/justanhduc">
 				<img src="https://avatars.githubusercontent.com/u/15206627?s=72&u=ff1c4e847bac99c345539f77725ad5290860822f&v=4" width="24" alt="Avatar of justanhduc"> justanhduc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#justanhduc">Copy rank badge</a><br/>
 			Duc Nguyen
 		</td>
 		<td>Vinai </td>
@@ -10106,7 +10108,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/trangnth">
 				<img src="https://avatars.githubusercontent.com/u/14357841?s=72&u=aa6f2e312f31069ad242f5a30163cad08097b900&v=4" width="24" alt="Avatar of trangnth"> trangnth
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#trangnth">Copy rank badge</a><br/>
 			Trang Nguyen
 		</td>
 		<td>University Of Engineering And<br/>Technology<br/></td>
@@ -10119,7 +10121,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ThienVanLuong">
 				<img src="https://avatars.githubusercontent.com/u/36763847?s=72&u=144833ae05c9d4313cdce46d4a05081d5ef8c3d6&v=4" width="24" alt="Avatar of ThienVanLuong"> ThienVanLuong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ThienVanLuong">Copy rank badge</a><br/>
 			Thien Luong
 		</td>
 		<td>National Economics University </td>
@@ -10132,7 +10134,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/anhvanthe">
 				<img src="https://avatars.githubusercontent.com/u/32748793?s=72&u=8437435f09abf06ab5af3be6b5c3642d714b2e02&v=4" width="24" alt="Avatar of anhvanthe"> anhvanthe
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#anhvanthe">Copy rank badge</a><br/>
 			TuongPV
 		</td>
 		<td>Ntq Solutions </td>
@@ -10145,7 +10147,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/CP04042K">
 				<img src="https://avatars.githubusercontent.com/u/35491855?s=72&u=312d2eef38db6dd104857e12c3c727032c1677ee&v=4" width="24" alt="Avatar of CP04042K"> CP04042K
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#CP04042K">Copy rank badge</a><br/>
 			Shin24
 		</td>
 		<td>Exodus Intelligence </td>
@@ -10158,7 +10160,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/TuanTNG">
 				<img src="https://avatars.githubusercontent.com/u/62212814?s=72&u=ddfe32235164f0aeeda8e669e8cb98b7e88e163a&v=4" width="24" alt="Avatar of TuanTNG"> TuanTNG
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#TuanTNG">Copy rank badge</a><br/>
 			No Name
 		</td>
 		<td>Cyber Core Co.,ltd. </td>
@@ -10171,7 +10173,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/lehoangduc">
 				<img src="https://avatars.githubusercontent.com/u/1769088?s=72&u=7c41506c37fd78f05698da4ad5582b3bd587acd9&v=4" width="24" alt="Avatar of lehoangduc"> lehoangduc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#lehoangduc">Copy rank badge</a><br/>
 			Duc Le
 		</td>
 		<td>No Company</td>
@@ -10184,7 +10186,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/chemthan">
 				<img src="https://avatars.githubusercontent.com/u/12287170?s=72&u=8e81855bbc747781270134d227f8bdd0d2897e3a&v=4" width="24" alt="Avatar of chemthan"> chemthan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#chemthan">Copy rank badge</a><br/>
 			Trung Nguyen
 		</td>
 		<td>No Company</td>
@@ -10197,7 +10199,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/dgthanhan">
 				<img src="https://avatars.githubusercontent.com/u/7098377?s=72&u=484c7643f1a1fb8ae5141c768d2ddc0337674031&v=4" width="24" alt="Avatar of dgthanhan"> dgthanhan
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#dgthanhan">Copy rank badge</a><br/>
 			Dương Thành An
 		</td>
 		<td>Evolus Vietnam </td>
@@ -10210,7 +10212,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/skyvn97">
 				<img src="https://avatars.githubusercontent.com/u/9932472?s=72&u=9ef36721cf7f0f5e46a97795b58ef444d6774d67&v=4" width="24" alt="Avatar of skyvn97"> skyvn97
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#skyvn97">Copy rank badge</a><br/>
 			Hanh Van Pham
 		</td>
 		<td>No Company</td>
@@ -10223,7 +10225,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ngthanhphuc">
 				<img src="https://avatars.githubusercontent.com/u/10244994?s=72&u=a78c2ee1fea90c67fd4eefaef4e87abb8dfb37fc&v=4" width="24" alt="Avatar of ngthanhphuc"> ngthanhphuc
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ngthanhphuc">Copy rank badge</a><br/>
 			PhucNT
 		</td>
 		<td>@framgia, @sun-asterisk </td>
@@ -10236,7 +10238,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/NgoHungCuong">
 				<img src="https://avatars.githubusercontent.com/u/17018444?s=72&u=4278b5901c9f17a0610fd6a2b390d176a0fea51d&v=4" width="24" alt="Avatar of NgoHungCuong"> NgoHungCuong
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#NgoHungCuong">Copy rank badge</a><br/>
 			Ngô Hùng Cường
 		</td>
 		<td>Ngo Hung Cuong Electronics<br/></td>
@@ -10249,7 +10251,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/delatbabel">
 				<img src="https://avatars.githubusercontent.com/u/2335362?s=72&v=4" width="24" alt="Avatar of delatbabel"> delatbabel
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#delatbabel">Copy rank badge</a><br/>
 			Del
 		</td>
 		<td>Babel </td>
@@ -10262,7 +10264,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/haipq7641">
 				<img src="https://avatars.githubusercontent.com/u/1430683?s=72&u=b26f86f5aef649f462b229497035615b2c4b3675&v=4" width="24" alt="Avatar of haipq7641"> haipq7641
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#haipq7641">Copy rank badge</a><br/>
 			Pham Quy Hai
 		</td>
 		<td>Sun Asterisk Vietnam </td>
@@ -10275,7 +10277,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/tbm98">
 				<img src="https://avatars.githubusercontent.com/u/52562340?s=72&u=7f592b118e2bbed9a304b3c48923601ff717fea2&v=4" width="24" alt="Avatar of tbm98"> tbm98
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#tbm98">Copy rank badge</a><br/>
 			Minh Tran
 		</td>
 		<td>One Mount Group </td>
@@ -10288,7 +10290,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/ducmeit1">
 				<img src="https://avatars.githubusercontent.com/u/22849731?s=72&u=87c753ed3b5ffed424dc4bb83bb05cf26e9be775&v=4" width="24" alt="Avatar of ducmeit1"> ducmeit1
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#ducmeit1">Copy rank badge</a><br/>
 			David Ho
 		</td>
 		<td>No Company</td>
@@ -10301,7 +10303,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/quanganh206">
 				<img src="https://avatars.githubusercontent.com/u/12064619?s=72&u=295634551fcf9c3c216219eb744c9d028e92d2f9&v=4" width="24" alt="Avatar of quanganh206"> quanganh206
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#quanganh206">Copy rank badge</a><br/>
 			Quang Anh Le
 		</td>
 		<td>Individual Developer </td>
@@ -10314,7 +10316,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/uocnb">
 				<img src="https://avatars.githubusercontent.com/u/170867?s=72&v=4" width="24" alt="Avatar of uocnb"> uocnb
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#uocnb">Copy rank badge</a><br/>
 			Uoc Nguyen
 		</td>
 		<td>No Company</td>
@@ -10327,7 +10329,7 @@ There are `934 users`  in Vietnam. You need at least `41 followers` to be on thi
 		<td>
 			<a href="https://github.com/theanhle">
 				<img src="https://avatars.githubusercontent.com/u/25525592?s=72&u=8402db99513415df95c064c288a1ced2e642837e&v=4" width="24" alt="Avatar of theanhle"> theanhle
-			</a><br/>
+			</a> · <a href="https://github.com/gayanvoice/top-github-users-ranking/blob/main/markdown/vietnam.md#theanhle">Copy rank badge</a><br/>
 			Le The Anh
 		</td>
 		<td>Fpt University </td>
